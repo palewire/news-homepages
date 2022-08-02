@@ -1,5 +1,5 @@
 {
-  "created": 1659400568,
+  "created": 1659442917,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/31/items/kpr_frankfort-2022",
@@ -161,31 +161,83 @@
       "format": "JSON"
     },
     {
+      "name": "kpr_frankfort-2022-08-01T20:35:21.109379-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpr_frankfort-2022-08-01T20:35:21.109379-04:00.jpg",
+      "mtime": "1659401906",
+      "size": "10561",
+      "md5": "40b5872ce95bba755b10e50555c5c8cf",
+      "crc32": "1eebc2af",
+      "sha1": "0f51cfb9ebe08cb65e16ab184f2e5afe423f7044"
+    },
+    {
+      "name": "kpr_frankfort-2022-08-02T08:21:02.173852-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659442865",
+      "size": "11828",
+      "md5": "f33ba761e8b6507b8734c8b06409e194",
+      "crc32": "b98a550f",
+      "sha1": "91740c857192ac7b934a3e01c9e4863ad90ffd6e",
+      "format": "JSON"
+    },
+    {
+      "name": "kpr_frankfort-2022-08-02T08:21:02.173852-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659442867",
+      "size": "20316",
+      "md5": "8c99ecbaa910bcfc429c02cc594aea61",
+      "crc32": "eacbe38a",
+      "sha1": "ccfcded342af225fec079e86ba8f407139a847d3",
+      "format": "JSON"
+    },
+    {
+      "name": "kpr_frankfort-2022-08-02T08:21:02.173852-04:00.jpg",
+      "source": "original",
+      "mtime": "1659442864",
+      "size": "319609",
+      "md5": "afc76aa003e71423b62cf37892c887af",
+      "crc32": "bd7058e5",
+      "sha1": "bd920988f1eaa41925b26155bd5210895a06f60b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpr_frankfort-2022-08-02T08:21:02.173852-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659442869",
+      "size": "1405",
+      "md5": "bfd94561e77c9d2bc4b86a9bd8dbea11",
+      "crc32": "40e113f6",
+      "sha1": "31b3d8220635236af41168f11bd794b9ff92c570",
+      "format": "JSON"
+    },
+    {
       "name": "kpr_frankfort-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c91bfa3a1f7475d95e6acd495157d106d6ab2ced",
-      "mtime": "1659400567",
-      "size": "4696",
-      "md5": "d668e1be2eb3009fccfb1ffe8bf78bc6",
-      "crc32": "70995196",
-      "sha1": "0244a0c7daec323a6f4dcfa92bb07beea3f2bb01",
+      "btih": "72afd4c19a4bb00dfc98a9e232e36471e42fcf92",
+      "mtime": "1659442913",
+      "size": "5761",
+      "md5": "75f37da8c5340a5811f16290933d355b",
+      "crc32": "80645da0",
+      "sha1": "1c810e77b9d68f70953d74e37a406bb3acd7d544",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kpr_frankfort-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "30447f028064e68861807b956aa7aed6",
+      "md5": "6b6f0b464f7cb1dd4f712d6b6131ebd9",
       "summation": "md5"
     },
     {
       "name": "kpr_frankfort-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659400533",
-      "size": "36864",
-      "md5": "77fc7375455ad51c74ae6e7a2277ad35",
-      "crc32": "28b535e5",
-      "sha1": "061b9026066c24b69df0216a3230fa97f9387185",
+      "mtime": "1659442877",
+      "size": "45056",
+      "md5": "600f89838475e14f6145076416c85975",
+      "crc32": "5b85cad8",
+      "sha1": "c855277ccb8c79687998fa783f8b8bb216dbcda0",
       "format": "Metadata"
     },
     {
@@ -199,9 +251,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 19,
-  "item_last_updated": 1659400567,
-  "item_size": 1128500,
+  "files_count": 24,
+  "item_last_updated": 1659442913,
+  "item_size": 1501476,
   "metadata": {
     "identifier": "kpr_frankfort-2022",
     "collection": [
@@ -223,7 +275,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350047024,
+      "task_id": 3350486404,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -231,7 +283,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 309377346,
+  "uniq": 924164160,
   "workable_servers": [
     "ia601507.us.archive.org"
   ]

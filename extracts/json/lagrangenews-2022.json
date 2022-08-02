@@ -1,5 +1,5 @@
 {
-  "created": 1659400623,
+  "created": 1659442969,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/20/items/lagrangenews-2022",
@@ -1287,31 +1287,83 @@
       "format": "JSON"
     },
     {
+      "name": "lagrangenews-2022-08-01T20:36:16.674866-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lagrangenews-2022-08-01T20:36:16.674866-04:00.jpg",
+      "mtime": "1659401706",
+      "size": "8498",
+      "md5": "15667c60c98fdc4ff314dc43d6546f3b",
+      "crc32": "71bb4dc8",
+      "sha1": "02b1c055e62ec3336cbb6da3f2695fe93e4e9759"
+    },
+    {
+      "name": "lagrangenews-2022-08-02T08:21:46.811109-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659442912",
+      "size": "21692",
+      "md5": "a2fcb9aa2d1bd16988f088f70a64827a",
+      "crc32": "e9bfc69c",
+      "sha1": "c2e93569208374de76030da96921d8b10d25cc8f",
+      "format": "JSON"
+    },
+    {
+      "name": "lagrangenews-2022-08-02T08:21:46.811109-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659442914",
+      "size": "13135",
+      "md5": "a42c494b6c59f33fc118d2770c18cdbe",
+      "crc32": "f9586920",
+      "sha1": "57f4250434ab388060e0ed5ca17d5222b649e81f",
+      "format": "JSON"
+    },
+    {
+      "name": "lagrangenews-2022-08-02T08:21:46.811109-04:00.jpg",
+      "source": "original",
+      "mtime": "1659442911",
+      "size": "256230",
+      "md5": "b9bfb900ff95730c29fc99262f8fad36",
+      "crc32": "4d4e43ca",
+      "sha1": "4ee81c16b9e491375e117a68d1387a87a69255af",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lagrangenews-2022-08-02T08:21:46.811109-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659442916",
+      "size": "1504",
+      "md5": "c2e99c3081e958eea6bc8c846c7868cb",
+      "crc32": "c19df827",
+      "sha1": "8f7d7304c9b903d1df640190ce9c6ceedb350a94",
+      "format": "JSON"
+    },
+    {
       "name": "lagrangenews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "516f08c384dca98d21e17ed8daac03f3a3906428",
-      "mtime": "1659400621",
-      "size": "27772",
-      "md5": "61b98ebc5baddebca71b18e2464222e2",
-      "crc32": "50f0cce7",
-      "sha1": "f826eccf2ee40a00e128919b4c62733ceadcf3fc",
+      "btih": "98764f328c2f82b1288cf38155884d0ec24487ce",
+      "mtime": "1659442962",
+      "size": "28831",
+      "md5": "a848edef5d2764a95e196a999d6f58d9",
+      "crc32": "c43e26fd",
+      "sha1": "a997b5eab43c2f28be31ab637cc35d082e869b03",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lagrangenews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "11a13507038cae3e0bda98c99f53792b",
+      "md5": "57a24a7a7583f89519b37bff084871dd",
       "summation": "md5"
     },
     {
       "name": "lagrangenews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659400586",
-      "size": "172032",
-      "md5": "9c0674b4d824218528aee0abe7162741",
-      "crc32": "2525725e",
-      "sha1": "cc5d61a04653cdef467cfe9eb6b917a712da3966",
+      "mtime": "1659442921",
+      "size": "176128",
+      "md5": "4de3600d2858bf7948773528dd8a7d14",
+      "crc32": "6b5aaf3a",
+      "sha1": "8539f1ebba69c080a11fc46f13d9d75c24ad0294",
       "format": "Metadata"
     },
     {
@@ -1325,9 +1377,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 127,
-  "item_last_updated": 1659400621,
-  "item_size": 7514365,
+  "files_count": 132,
+  "item_last_updated": 1659442962,
+  "item_size": 7820579,
   "metadata": {
     "identifier": "lagrangenews-2022",
     "collection": [
@@ -1349,7 +1401,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350047618,
+      "task_id": 3350486922,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1357,7 +1409,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 216726262,
+  "uniq": 177664624,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]

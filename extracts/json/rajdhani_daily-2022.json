@@ -1,5 +1,5 @@
 {
-  "created": 1659401052,
+  "created": 1659443338,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/34/items/rajdhani_daily-2022",
@@ -941,31 +941,83 @@
       "format": "JSON"
     },
     {
+      "name": "rajdhani_daily-2022-08-02T06:28:20.100847+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rajdhani_daily-2022-08-02T06:28:20.100847+05:45.jpg",
+      "mtime": "1659402234",
+      "size": "9479",
+      "md5": "1c89471748639389181b6edb7153f1e5",
+      "crc32": "70a1417d",
+      "sha1": "5f755452a346ac7f23ee0bcb40493cfa31d54003"
+    },
+    {
+      "name": "rajdhani_daily-2022-08-02T18:13:08.398265+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1659443292",
+      "size": "84964",
+      "md5": "c8011f4d6972b49807897ddbb754699d",
+      "crc32": "636a74b1",
+      "sha1": "034c98cadd8e519ae548abe4cbdbb9cdb10004a3",
+      "format": "JSON"
+    },
+    {
+      "name": "rajdhani_daily-2022-08-02T18:13:08.398265+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659443295",
+      "size": "46826",
+      "md5": "8cf30e2357b99e3cae54592e03d5afd9",
+      "crc32": "318b2e58",
+      "sha1": "3100c2fb1bc216a861b4496d2ea89328ab66e55f",
+      "format": "JSON"
+    },
+    {
+      "name": "rajdhani_daily-2022-08-02T18:13:08.398265+05:45.jpg",
+      "source": "original",
+      "mtime": "1659443290",
+      "size": "240653",
+      "md5": "fb1b17b37efd230c0185fab591e06ec0",
+      "crc32": "186cd9bd",
+      "sha1": "a2b8824341b20d2c0d310311325b065ceb263608",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rajdhani_daily-2022-08-02T18:13:08.398265+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1659443297",
+      "size": "1486",
+      "md5": "f9fd1b4777929adfa25bf6f8a56e09b3",
+      "crc32": "a97fc8b9",
+      "sha1": "e28968c0234d9f64efa5c425bedf2f0c8770b975",
+      "format": "JSON"
+    },
+    {
       "name": "rajdhani_daily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ec2b6b5b9a76024abc02f51894f91291c64af64a",
-      "mtime": "1659401049",
-      "size": "20981",
-      "md5": "5e9ea231de64d3711951431298886bf6",
-      "crc32": "86d41514",
-      "sha1": "ee8dbfc722deb790cf1b38915ca4881e55f63b9f",
+      "btih": "ffac62608c72769237b724c7869a46d21eb2e1f9",
+      "mtime": "1659443336",
+      "size": "22050",
+      "md5": "2447b20d632579a3b53ea8b4e15bb5c0",
+      "crc32": "e2376cc4",
+      "sha1": "671abb8975167f985f96df86a6d9b6a3ea5feb9a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rajdhani_daily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "af89857c8054ff4b88dc53a1b44710a9",
+      "md5": "f939d8f5a42e6f3f43e4681a39ce0ac1",
       "summation": "md5"
     },
     {
       "name": "rajdhani_daily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659401014",
-      "size": "135168",
-      "md5": "9fb4b3f4a0b079b815cb8a00aa96bb65",
-      "crc32": "24170a90",
-      "sha1": "e3d8c88c6cf9d142039a5fb9505e4a04b8df74ea",
+      "mtime": "1659443301",
+      "size": "143360",
+      "md5": "93c1314227abf46bf498ca3780872976",
+      "crc32": "d5f9fa4e",
+      "sha1": "f15a95cec03f0b963de5b9ba8e35c6d953291ff3",
       "format": "Metadata"
     },
     {
@@ -979,9 +1031,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 94,
-  "item_last_updated": 1659401049,
-  "item_size": 6942111,
+  "files_count": 99,
+  "item_last_updated": 1659443336,
+  "item_size": 7334780,
   "metadata": {
     "identifier": "rajdhani_daily-2022",
     "collection": [
@@ -1003,7 +1055,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350052242,
+      "task_id": 3350490454,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1011,7 +1063,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 490438565,
+  "uniq": 94271229,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

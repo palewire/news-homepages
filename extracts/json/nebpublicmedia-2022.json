@@ -1,5 +1,5 @@
 {
-  "created": 1659400789,
+  "created": 1659443146,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/17/items/nebpublicmedia-2022",
@@ -317,31 +317,83 @@
       "format": "JSON"
     },
     {
+      "name": "nebpublicmedia-2022-08-01T19:39:02.671700-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nebpublicmedia-2022-08-01T19:39:02.671700-05:00.jpg",
+      "mtime": "1659401797",
+      "size": "8669",
+      "md5": "ef9a34ff888be0e27c2fb5976a3ca23b",
+      "crc32": "9951a938",
+      "sha1": "a8501bc5ae49b2dadc02160af05cdf91ec31e522"
+    },
+    {
+      "name": "nebpublicmedia-2022-08-02T07:24:56.288155-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659443100",
+      "size": "20058",
+      "md5": "2fed4053a405da34b97e94911c556f0e",
+      "crc32": "5a03ea53",
+      "sha1": "564758d79ab80e0e768210ebd956fd02aeb255f8",
+      "format": "JSON"
+    },
+    {
+      "name": "nebpublicmedia-2022-08-02T07:24:56.288155-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659443101",
+      "size": "28192",
+      "md5": "db34b8a5c714c8a7d6ad4f25acf4e831",
+      "crc32": "dce6cc49",
+      "sha1": "c4991d1670a3da1f249e5d5e93a2f28c184e8edf",
+      "format": "JSON"
+    },
+    {
+      "name": "nebpublicmedia-2022-08-02T07:24:56.288155-05:00.jpg",
+      "source": "original",
+      "mtime": "1659443097",
+      "size": "187168",
+      "md5": "79438b8a68641176bd265cef578f7929",
+      "crc32": "3b249a3d",
+      "sha1": "7ebb5e2aab5589047f124b6df1ffab1a3dc249f3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nebpublicmedia-2022-08-02T07:24:56.288155-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659443103",
+      "size": "1564",
+      "md5": "eaf17a038e37930f498568bb72112b17",
+      "crc32": "122072a0",
+      "sha1": "249589eed13644bfa88053c99481d7a4e8a20820",
+      "format": "JSON"
+    },
+    {
       "name": "nebpublicmedia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1b1bd125926a4753f57ee149f1ef8a8ed58f2538",
-      "mtime": "1659400788",
-      "size": "7944",
-      "md5": "7d38be1fefa1fdd32a960e8d0af54f46",
-      "crc32": "a9c37524",
-      "sha1": "05e2a969cfb4d8c526fe1c80f1ee970dd95b1df3",
+      "btih": "280ff27fbe75af50c50c1bc70fa1a5aab69bdcf9",
+      "mtime": "1659443143",
+      "size": "9013",
+      "md5": "fc62a83126f33911aabb9da7af4ef16a",
+      "crc32": "e1273d84",
+      "sha1": "a2219b14c58c264fd09383bc437c40eec610685e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nebpublicmedia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2ac8281d068528dc7b165f1c15564f78",
+      "md5": "8f142cdb615bc72fb9c967ffb8136546",
       "summation": "md5"
     },
     {
       "name": "nebpublicmedia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659400753",
-      "size": "53248",
-      "md5": "ca9214657beab9e5d77445d3b622f268",
-      "crc32": "6d763888",
-      "sha1": "dd87a7abcb658bc1646926b40857ae139c3b4283",
+      "mtime": "1659443108",
+      "size": "61440",
+      "md5": "25f15e831ad73cf8fb54b67df653d51b",
+      "crc32": "028e7ba4",
+      "sha1": "3d0211ded0e76ea682f65e426d4ab625908a883f",
       "format": "Metadata"
     },
     {
@@ -355,9 +407,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 34,
-  "item_last_updated": 1659400788,
-  "item_size": 1687048,
+  "files_count": 39,
+  "item_last_updated": 1659443143,
+  "item_size": 1941960,
   "metadata": {
     "identifier": "nebpublicmedia-2022",
     "collection": [
@@ -379,7 +431,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350049336,
+      "task_id": 3350488585,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -387,7 +439,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1571177118,
+  "uniq": 604742685,
   "workable_servers": [
     "ia902504.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1659401478,
+  "created": 1659444244,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/24/items/whyynews-2022",
@@ -3062,31 +3062,83 @@
       "sha1": "588045991d480cd7d8752d299e3824829b342cc0"
     },
     {
+      "name": "whyynews-2022-08-01T22:02:53.045537-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659405776",
+      "size": "28521",
+      "md5": "55e7ebcf103b3bb579b57847002699b9",
+      "crc32": "a55e8e7f",
+      "sha1": "b3d22d70348fb7ca46b9ad0627f753837cda40e6",
+      "format": "JSON"
+    },
+    {
+      "name": "whyynews-2022-08-01T22:02:53.045537-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659405778",
+      "size": "27955",
+      "md5": "a035a6856fa216946a8d897c4345d160",
+      "crc32": "f3bb0253",
+      "sha1": "88c817d7e4f15aa21008554db85d1f1e90f7e84c",
+      "format": "JSON"
+    },
+    {
+      "name": "whyynews-2022-08-01T22:02:53.045537-04:00.jpg",
+      "source": "original",
+      "mtime": "1659405774",
+      "size": "209230",
+      "md5": "5b0c5f7aa599e47c90974c841fff0dd8",
+      "crc32": "cfa5b045",
+      "sha1": "5aa77d55b5924087b244abfc4c09590ea0f196fb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "whyynews-2022-08-01T22:02:53.045537-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659405780",
+      "size": "1441",
+      "md5": "7148ef1efb28c38a48a94ce7fa3188fc",
+      "crc32": "f4e2f0e9",
+      "sha1": "599b8367a84aadb6cabd532d534f7f0c8ca8ebda",
+      "format": "JSON"
+    },
+    {
+      "name": "whyynews-2022-08-01T22:02:53.045537-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "whyynews-2022-08-01T22:02:53.045537-04:00.jpg",
+      "mtime": "1659407581",
+      "size": "8907",
+      "md5": "d5e79b86af1346fa7701867d27cc7d7c",
+      "crc32": "b6c1e577",
+      "sha1": "11cca0e46e36e82450f4a0d80db652d62a8db251"
+    },
+    {
       "name": "whyynews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f35ad04050334cade6e85e6278885a43bbf4afde",
-      "mtime": "1659371848",
-      "size": "62757",
-      "md5": "ba5016cc82b3b7d9ebe902439070b16b",
-      "crc32": "85cca9fc",
-      "sha1": "7bd3440fadd5cdd4e946e240133c1ca4bfac4fbb",
+      "btih": "312fec3f0eb2688bb9104e333f198ed0c9ea6642",
+      "mtime": "1659407686",
+      "size": "63816",
+      "md5": "7d8015be03621cb921089cb5a57f175a",
+      "crc32": "5230296c",
+      "sha1": "669f4705146f06c0a0958effad95b44ea28bf1bc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "whyynews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f426e4b063c132fa05126e679dd48e85",
+      "md5": "4622bd68342b748729c1e0a7cd1b01b6",
       "summation": "md5"
     },
     {
       "name": "whyynews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659365666",
-      "size": "364544",
-      "md5": "e2dee0bfc4a5b827a7f01958bd45254e",
-      "crc32": "aa37b34a",
-      "sha1": "a4c2ecedc8bb9001f755100fbfdbc36cf52ac2f5",
+      "mtime": "1659405784",
+      "size": "368640",
+      "md5": "4c1ade8ad0deafff5dd7e6ca2ece3e2e",
+      "crc32": "8ff32092",
+      "sha1": "17e33595e39df99e09e19dfb8ccb31a78628f90b",
       "format": "Metadata"
     },
     {
@@ -3100,9 +3152,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 296,
-  "item_last_updated": 1659371848,
-  "item_size": 20454197,
+  "files_count": 301,
+  "item_last_updated": 1659407686,
+  "item_size": 20735406,
   "metadata": {
     "identifier": "whyynews-2022",
     "collection": [
@@ -3120,15 +3172,15 @@
     "addeddate": "2022-07-03 15:52:45"
   },
   "server": "ia902508.us.archive.org",
-  "uniq": 1370230871,
+  "uniq": 1073534377,
   "whyynews-2022": [
     {
       "url": "https://whyy.org/news",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/whyy_org-_news-2022_08_01_13_36_13.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/whyy_org-_news-2022_08_01_13_36_13.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/whyy_org-_news-2022_08_02_01_39_39.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/whyy_org-_news-2022_08_02_01_39_39.report.json",
       "summary": {
-        "performance": 0.2,
+        "performance": 0.23,
         "accessibility": 0.85,
         "best-practices": 0.92,
         "seo": 0.61,
@@ -3138,10 +3190,10 @@
     {
       "url": "https://whyy.org/news",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/whyy_org-_news-2022_08_01_13_36_45.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/whyy_org-_news-2022_08_01_13_36_45.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/whyy_org-_news-2022_08_02_01_41_02.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/whyy_org-_news-2022_08_02_01_41_02.report.json",
       "summary": {
-        "performance": 0.32,
+        "performance": 0.34,
         "accessibility": 0.85,
         "best-practices": 0.92,
         "seo": 0.61,
@@ -3151,8 +3203,8 @@
     {
       "url": "https://whyy.org/news",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/whyy_org-_news-2022_08_01_13_36_30.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/whyy_org-_news-2022_08_01_13_36_30.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/whyy_org-_news-2022_08_02_01_40_15.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/whyy_org-_news-2022_08_02_01_40_15.report.json",
       "summary": {
         "performance": 0.29,
         "accessibility": 0.85,

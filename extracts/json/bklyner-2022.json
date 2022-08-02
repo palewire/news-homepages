@@ -3,12 +3,12 @@
     {
       "url": "https://bklyner.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/bklyner_com-_-2022_08_01_13_23_52.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/bklyner_com-_-2022_08_01_13_23_52.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/bklyner_com-_-2022_08_02_01_25_54.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/bklyner_com-_-2022_08_02_01_25_54.report.json",
       "summary": {
-        "performance": 0.33,
+        "performance": 0.34,
         "accessibility": 0.95,
-        "best-practices": 1,
+        "best-practices": 0.92,
         "seo": 0.98,
         "pwa": 0.3
       }
@@ -16,12 +16,12 @@
     {
       "url": "https://bklyner.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/bklyner_com-_-2022_08_01_13_24_09.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/bklyner_com-_-2022_08_01_13_24_09.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/bklyner_com-_-2022_08_02_01_27_03.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/bklyner_com-_-2022_08_02_01_27_03.report.json",
       "summary": {
-        "performance": 0.39,
+        "performance": 0.34,
         "accessibility": 0.95,
-        "best-practices": 1,
+        "best-practices": 0.92,
         "seo": 0.98,
         "pwa": 0.3
       }
@@ -29,10 +29,10 @@
     {
       "url": "https://bklyner.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/bklyner_com-_-2022_08_01_13_23_35.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/bklyner_com-_-2022_08_01_13_23_35.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/bklyner_com-_-2022_08_02_01_24_25.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/bklyner_com-_-2022_08_02_01_24_25.report.json",
       "summary": {
-        "performance": 0.33,
+        "performance": 0.29,
         "accessibility": 0.95,
         "best-practices": 1,
         "seo": 0.98,
@@ -40,7 +40,7 @@
       }
     }
   ],
-  "created": 1659400491,
+  "created": 1659443440,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/10/items/bklyner-2022",
@@ -5055,31 +5055,83 @@
       "sha1": "6d8d34cdaf12a54566b2e9cf5395498dcc845164"
     },
     {
+      "name": "bklyner-2022-08-01T21:55:35.645905-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659405344",
+      "size": "25174",
+      "md5": "d67650440e66f875a11855c92e28baf5",
+      "crc32": "eb0f606c",
+      "sha1": "0268fed8eb0eaa82b4f00fa255f57c33ec042073",
+      "format": "JSON"
+    },
+    {
+      "name": "bklyner-2022-08-01T21:55:35.645905-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659405345",
+      "size": "21039",
+      "md5": "5ab048afe2eedeb8b49eb3e282a4b776",
+      "crc32": "01ec0381",
+      "sha1": "afb1781409cc4bbf2d09b1413ab22b3106a103da",
+      "format": "JSON"
+    },
+    {
+      "name": "bklyner-2022-08-01T21:55:35.645905-04:00.jpg",
+      "source": "original",
+      "mtime": "1659405342",
+      "size": "366522",
+      "md5": "7e7123c600936e06b46d2728e01aacd9",
+      "crc32": "b2b2ab3b",
+      "sha1": "6f5dabea31e858006d5b4c284a9cb60315c21193",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bklyner-2022-08-01T21:55:35.645905-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659405347",
+      "size": "1429",
+      "md5": "66bdc7e8e611637cc1dd0b2a89e2d055",
+      "crc32": "3e58226f",
+      "sha1": "1b7b59523e38dea2ff74b23e5002ef0de310f9ed",
+      "format": "JSON"
+    },
+    {
+      "name": "bklyner-2022-08-01T21:55:35.645905-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bklyner-2022-08-01T21:55:35.645905-04:00.jpg",
+      "mtime": "1659407140",
+      "size": "9968",
+      "md5": "654c5c50ee7c21aa52221f0aa89bac71",
+      "crc32": "d9907e4a",
+      "sha1": "c2bc3cda5d3d250f521f66d5002bc576513d1a0e"
+    },
+    {
       "name": "bklyner-2022_archive.torrent",
       "source": "metadata",
-      "btih": "072adf6851ce062449d0d08603d48c769fbf6b1d",
-      "mtime": "1659370776",
-      "size": "102091",
-      "md5": "87170f44346a3527eb61668b183cc688",
-      "crc32": "1c35c3d9",
-      "sha1": "d195ee2f31b0b81da49fc6110e078cfeb0e641dc",
+      "btih": "a6425d9eb00ae6174e899f6b6aff69fc3c698c10",
+      "mtime": "1659407267",
+      "size": "103145",
+      "md5": "1f8fef69c73ed6a623fd4c9514b99752",
+      "crc32": "b2e172cf",
+      "sha1": "b2fc997e386e54d9bda55b59647abf19ce9d566b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bklyner-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e5ead04783b34bbdbdc43be03ed84dac",
+      "md5": "ca726997f7df8c346d4763a43d6785be",
       "summation": "md5"
     },
     {
       "name": "bklyner-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659365097",
-      "size": "569344",
-      "md5": "bf5d1f6abbfc71bc100d5eaf8bfd3922",
-      "crc32": "acbfb914",
-      "sha1": "2667a76116a4f28f2c269d0dec3564b1ae978282",
+      "mtime": "1659405372",
+      "size": "577536",
+      "md5": "fd1b6dbb32cffd60f2c5ce8721c89fe3",
+      "crc32": "c0c01233",
+      "sha1": "712ae1f28ac41e6facb542e8971f92f2ff071f3d",
       "format": "Metadata"
     },
     {
@@ -5093,9 +5145,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 482,
-  "item_last_updated": 1659370776,
-  "item_size": 50810427,
+  "files_count": 487,
+  "item_last_updated": 1659407267,
+  "item_size": 51243805,
   "metadata": {
     "identifier": "bklyner-2022",
     "collection": [
@@ -5112,10 +5164,10 @@
     "publicdate": "2022-06-19 23:23:06",
     "addeddate": "2022-06-19 23:23:06"
   },
-  "server": "ia801506.us.archive.org",
-  "uniq": 440061440,
+  "server": "ia601506.us.archive.org",
+  "uniq": 1803691160,
   "workable_servers": [
-    "ia801506.us.archive.org",
-    "ia601506.us.archive.org"
+    "ia601506.us.archive.org",
+    "ia801506.us.archive.org"
   ]
 }

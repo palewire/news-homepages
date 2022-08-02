@@ -1,5 +1,5 @@
 {
-  "created": 1659400928,
+  "created": 1659413366,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/12/items/lesoir-2022",
@@ -744,31 +744,83 @@
       "sha1": "bc0c3117449d9981c8a3c0bb85cebe8661ed855c"
     },
     {
+      "name": "lesoir-2022-08-02T05:20:57.428337+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659410461",
+      "size": "71251",
+      "md5": "15a610c11ef9833f454ce0b8ade73260",
+      "crc32": "25248c9d",
+      "sha1": "889fc0daeaa465dd17d05937383d34ad0fba28df",
+      "format": "JSON"
+    },
+    {
+      "name": "lesoir-2022-08-02T05:20:57.428337+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659410462",
+      "size": "70132",
+      "md5": "fe369263476c5b4b0d258a89e8eb054b",
+      "crc32": "5da81b2f",
+      "sha1": "8720b1b0a6a7a3028a86f4a591542b5522eee961",
+      "format": "JSON"
+    },
+    {
+      "name": "lesoir-2022-08-02T05:20:57.428337+02:00.jpg",
+      "source": "original",
+      "mtime": "1659410459",
+      "size": "250259",
+      "md5": "880eda9d51e7c210d858651d0f8624f9",
+      "crc32": "44582acb",
+      "sha1": "176af5eba394df43a3a03db6ec332acb53f0f736",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lesoir-2022-08-02T05:20:57.428337+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659410464",
+      "size": "1441",
+      "md5": "d1cc700e986ef3ac67f2b5b213f3f9f4",
+      "crc32": "b7986061",
+      "sha1": "09558a341c8d84022a80b0c5407cb1695b8815cc",
+      "format": "JSON"
+    },
+    {
+      "name": "lesoir-2022-08-02T05:20:57.428337+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lesoir-2022-08-02T05:20:57.428337+02:00.jpg",
+      "mtime": "1659413342",
+      "size": "8913",
+      "md5": "bcec4fca27b79ff1541730d0515a37bf",
+      "crc32": "6505c29d",
+      "sha1": "9af815dcd1abf75f729f431dc18957943345a10a"
+    },
+    {
       "name": "lesoir-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b13299f02f246f073e609fa900836af686bf7a1d",
-      "mtime": "1659372099",
-      "size": "16216",
-      "md5": "8a6fe98f8cfe664913613f823904832d",
-      "crc32": "c56d2410",
-      "sha1": "bbb5c85c2447299985cae7b2c660a8f5d048a8df",
+      "btih": "f31cf108588853b2f268f72ee1ea83358d2bc1ea",
+      "mtime": "1659413351",
+      "size": "17265",
+      "md5": "b2dd5ca8e9aa8ec68b5557929f8e1e45",
+      "crc32": "a1aeb55a",
+      "sha1": "1835aa32316c8d39478e27bf82bc0f1e5b27f231",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lesoir-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "67cf1302c7e1cb710ac880411872858f",
+      "md5": "abb1dc564a7ed8c319c02e3d71ad05ff",
       "summation": "md5"
     },
     {
       "name": "lesoir-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659366245",
-      "size": "106496",
-      "md5": "efb17ac36d75a4ab803a8cf75380fc90",
-      "crc32": "8e2d557c",
-      "sha1": "d8e5be520c0c558f4289f16f2239ba6481f0ab03",
+      "mtime": "1659410468",
+      "size": "110592",
+      "md5": "8237364df8b978032b1a16ccd17772d4",
+      "crc32": "5c6744dd",
+      "sha1": "e0f40a8b0fccfe736474970709917dbccd9aae69",
       "format": "Metadata"
     },
     {
@@ -782,50 +834,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 75,
-  "item_last_updated": 1659372099,
-  "item_size": 5693782,
-  "lesoir-2022": [
-    {
-      "url": "https://www.lesoir.be/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lesoir_be-_-2022_08_01_14_36_50.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lesoir_be-_-2022_08_01_14_36_50.report.json",
-      "summary": {
-        "performance": 0.48,
-        "accessibility": 0.92,
-        "best-practices": 1,
-        "seo": 0.85,
-        "pwa": 0.6
-      }
-    },
-    {
-      "url": "https://www.lesoir.be/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lesoir_be-_-2022_08_01_14_37_18.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lesoir_be-_-2022_08_01_14_37_18.report.json",
-      "summary": {
-        "performance": 0.32,
-        "accessibility": 0.92,
-        "best-practices": 1,
-        "seo": 0.85,
-        "pwa": 0.6
-      }
-    },
-    {
-      "url": "https://www.lesoir.be/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lesoir_be-_-2022_08_01_14_37_41.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lesoir_be-_-2022_08_01_14_37_41.report.json",
-      "summary": {
-        "performance": 0.4,
-        "accessibility": 0.92,
-        "best-practices": 1,
-        "seo": 0.85,
-        "pwa": 0.6
-      }
-    }
-  ],
+  "files_count": 80,
+  "item_last_updated": 1659413351,
+  "item_size": 6100923,
   "metadata": {
     "identifier": "lesoir-2022",
     "collection": [
@@ -842,10 +853,10 @@
     "publicdate": "2022-07-26 02:47:01",
     "addeddate": "2022-07-26 02:47:01"
   },
-  "server": "ia902505.us.archive.org",
-  "uniq": 1154165049,
+  "server": "ia802505.us.archive.org",
+  "uniq": 143205499,
   "workable_servers": [
-    "ia902505.us.archive.org",
-    "ia802505.us.archive.org"
+    "ia802505.us.archive.org",
+    "ia902505.us.archive.org"
   ]
 }

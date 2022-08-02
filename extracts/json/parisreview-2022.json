@@ -1,5 +1,5 @@
 {
-  "created": 1659401065,
+  "created": 1659419616,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/18/items/parisreview-2022",
@@ -2590,31 +2590,83 @@
       "sha1": "bfccad9fc82d5ee1b034f4e3984889962bfd93c2"
     },
     {
+      "name": "parisreview-2022-08-02T06:22:21.032772+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659414147",
+      "size": "7717",
+      "md5": "d451a7c4352a6b554c5e5a1348361ad9",
+      "crc32": "fc0f4ccc",
+      "sha1": "61acb76bdcf771a8d20681468d3026a21f9e6d17",
+      "format": "JSON"
+    },
+    {
+      "name": "parisreview-2022-08-02T06:22:21.032772+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659414150",
+      "size": "13641",
+      "md5": "7c5fc281f2273a03996db86db3df2214",
+      "crc32": "c0b4a3ff",
+      "sha1": "aa5e54de36be4029141180484c1f5d6abc518a38",
+      "format": "JSON"
+    },
+    {
+      "name": "parisreview-2022-08-02T06:22:21.032772+02:00.jpg",
+      "source": "original",
+      "mtime": "1659414144",
+      "size": "259521",
+      "md5": "af4b992771e4de664a8cb04a773460e0",
+      "crc32": "03b87234",
+      "sha1": "f7697bd1b77fa948324bc0932d300f787ad75f4a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "parisreview-2022-08-02T06:22:21.032772+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659414152",
+      "size": "1531",
+      "md5": "98ac7ff8a336ce33d10abb8b55db1a81",
+      "crc32": "4c6841f8",
+      "sha1": "bfdff39fd4bfe7abca7554baa1dcda7a7fc2a3d9",
+      "format": "JSON"
+    },
+    {
+      "name": "parisreview-2022-08-02T06:22:21.032772+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "parisreview-2022-08-02T06:22:21.032772+02:00.jpg",
+      "mtime": "1659419462",
+      "size": "9834",
+      "md5": "0440ae15a7b223dae418d0588487ea39",
+      "crc32": "8422061d",
+      "sha1": "bfccad9fc82d5ee1b034f4e3984889962bfd93c2"
+    },
+    {
       "name": "parisreview-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d984dd3f0773e66c065b0c6d7dff5142e68dcc6d",
-      "mtime": "1659374610",
-      "size": "54091",
-      "md5": "a5a624145db4415255ceee63d19f41aa",
-      "crc32": "50b398a8",
-      "sha1": "3aa7fad4d29c32559d941f882ed26df7e76f3201",
+      "btih": "1ff2aa40ef7a1f34ddf2d0f2caa7241a47e39067",
+      "mtime": "1659419557",
+      "size": "55164",
+      "md5": "b9151116036b1def7ef36dce00d66a37",
+      "crc32": "61538e40",
+      "sha1": "9f509f6305be7e7d956604f6a50fed7aa0eae962",
       "format": "Archive BitTorrent"
     },
     {
       "name": "parisreview-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b0030d22581f33298d298037e0e66b10",
+      "md5": "51f0bbd3e172c884c164cff371ccad25",
       "summation": "md5"
     },
     {
       "name": "parisreview-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659370021",
-      "size": "307200",
-      "md5": "ad285de613430d75fbf7fc403227758e",
-      "crc32": "ae0fb1c6",
-      "sha1": "ecb098069aa27fc93e2b86a65684fe85898a4da7",
+      "mtime": "1659414158",
+      "size": "319488",
+      "md5": "ffc4a16000883d3a2214ac1549167270",
+      "crc32": "6036ec57",
+      "sha1": "107c57b2117b043197866baef7b0102ea4c6e091",
       "format": "Metadata"
     },
     {
@@ -2628,9 +2680,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 251,
-  "item_last_updated": 1659374610,
-  "item_size": 18677926,
+  "files_count": 256,
+  "item_last_updated": 1659419557,
+  "item_size": 18983531,
   "metadata": {
     "identifier": "parisreview-2022",
     "collection": [
@@ -2647,49 +2699,8 @@
     "publicdate": "2022-07-04 21:51:06",
     "addeddate": "2022-07-04 21:51:06"
   },
-  "parisreview-2022": [
-    {
-      "url": "https://www.theparisreview.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theparisreview_org-_-2022_08_01_15_18_34.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theparisreview_org-_-2022_08_01_15_18_34.report.json",
-      "summary": {
-        "performance": 0.29,
-        "accessibility": 0.96,
-        "best-practices": 0.83,
-        "seo": 0.97,
-        "pwa": 0.7
-      }
-    },
-    {
-      "url": "https://www.theparisreview.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theparisreview_org-_-2022_08_01_15_18_53.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theparisreview_org-_-2022_08_01_15_18_53.report.json",
-      "summary": {
-        "performance": 0.3,
-        "accessibility": 0.96,
-        "best-practices": 0.83,
-        "seo": 0.97,
-        "pwa": 0.7
-      }
-    },
-    {
-      "url": "https://www.theparisreview.org/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theparisreview_org-_-2022_08_01_15_19_11.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theparisreview_org-_-2022_08_01_15_19_11.report.json",
-      "summary": {
-        "performance": 0.46,
-        "accessibility": 0.96,
-        "best-practices": 0.83,
-        "seo": 0.97,
-        "pwa": 0.7
-      }
-    }
-  ],
   "server": "ia801404.us.archive.org",
-  "uniq": 812943332,
+  "uniq": 1028126313,
   "workable_servers": [
     "ia801404.us.archive.org",
     "ia601404.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1659401423,
+  "created": 1659444210,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/32/items/voicesofbay-2022",
@@ -2590,31 +2590,83 @@
       "sha1": "5d28841e7fd82b31d6d3dbed1e4b04146943d33b"
     },
     {
+      "name": "voicesofbay-2022-08-01T21:29:48.479002-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659414592",
+      "size": "30976",
+      "md5": "6e3797c76eb94b602425e55396d61c39",
+      "crc32": "79149302",
+      "sha1": "cb4f223d472032c91bf79e8a8085e57aa6b65d61",
+      "format": "JSON"
+    },
+    {
+      "name": "voicesofbay-2022-08-01T21:29:48.479002-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659414593",
+      "size": "14707",
+      "md5": "59388f0fdb2d867e77a84a01af6934de",
+      "crc32": "40630915",
+      "sha1": "e6f42b3fcfb73369c6fd075c65b76231c9b36c53",
+      "format": "JSON"
+    },
+    {
+      "name": "voicesofbay-2022-08-01T21:29:48.479002-07:00.jpg",
+      "source": "original",
+      "mtime": "1659414590",
+      "size": "157582",
+      "md5": "3363ca12529800ebbbd1078d821cd923",
+      "crc32": "a1985363",
+      "sha1": "c367c0f85e35084d5a10133a87b699a5b46f398b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "voicesofbay-2022-08-01T21:29:48.479002-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659414595",
+      "size": "1540",
+      "md5": "b94cc4ee939eda81f14036224866cfea",
+      "crc32": "bc0cfdf4",
+      "sha1": "65307c89a126f385fc52271d3c4a9f80a8c8dfa0",
+      "format": "JSON"
+    },
+    {
+      "name": "voicesofbay-2022-08-01T21:29:48.479002-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "voicesofbay-2022-08-01T21:29:48.479002-07:00.jpg",
+      "mtime": "1659420169",
+      "size": "8000",
+      "md5": "6a67aec8cda7ec361d9c9df9e7606f66",
+      "crc32": "8ea8e2f3",
+      "sha1": "9194816f540497cd6c176548fc312d555f7286f8"
+    },
+    {
       "name": "voicesofbay-2022_archive.torrent",
       "source": "metadata",
-      "btih": "69a8edc25772aebc266b7f1ab13405793e8f5358",
-      "mtime": "1659375127",
-      "size": "53966",
-      "md5": "c1288996bc973e31aa4ad48965b5af61",
-      "crc32": "05d08157",
-      "sha1": "ec95c7d684200ff28f0ac3672f497e7993a6e38c",
+      "btih": "9c6726b584be596a73dc493936c7867c23fd392b",
+      "mtime": "1659420173",
+      "size": "55020",
+      "md5": "638208c2f3b4b662ac7df5873bcbfc2b",
+      "crc32": "a0da51bc",
+      "sha1": "a08b924f421b793ca18f3a868ac4f2b897d8a1b9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "voicesofbay-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d38a294aec9db0173ab2e73f4deb6184",
+      "md5": "77096843fc0c225c44791e6f0331b595",
       "summation": "md5"
     },
     {
       "name": "voicesofbay-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659370520",
-      "size": "307200",
-      "md5": "01d87a310885802a6571734c65c9aba8",
-      "crc32": "056a775c",
-      "sha1": "5a3205962290781114ad8c20a4a97a452ffd64a5",
+      "mtime": "1659414599",
+      "size": "319488",
+      "md5": "e140d2956f47be69c5ccf0fb50641993",
+      "crc32": "793c0ee9",
+      "sha1": "87726ed06f395cdba8d44755c67ce3fa2d04aaf6",
       "format": "Metadata"
     },
     {
@@ -2628,9 +2680,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 251,
-  "item_last_updated": 1659375127,
-  "item_size": 14407357,
+  "files_count": 256,
+  "item_last_updated": 1659420173,
+  "item_size": 14633504,
   "metadata": {
     "identifier": "voicesofbay-2022",
     "collection": [
@@ -2648,15 +2700,15 @@
     "addeddate": "2022-07-09 04:04:49"
   },
   "server": "ia601503.us.archive.org",
-  "uniq": 1031673619,
+  "uniq": 343172061,
   "voicesofbay-2022": [
     {
       "url": "https://voicesofmontereybay.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/voicesofmontereybay_org-_-2022_08_01_15_31_29.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/voicesofmontereybay_org-_-2022_08_01_15_31_29.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/voicesofmontereybay_org-_-2022_08_02_04_09_59.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/voicesofmontereybay_org-_-2022_08_02_04_09_59.report.json",
       "summary": {
-        "performance": 0.03,
+        "performance": 0.11,
         "accessibility": 0.89,
         "best-practices": 0.75,
         "seo": 0.91,
@@ -2666,10 +2718,10 @@
     {
       "url": "https://voicesofmontereybay.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/voicesofmontereybay_org-_-2022_08_01_15_32_13.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/voicesofmontereybay_org-_-2022_08_01_15_32_13.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/voicesofmontereybay_org-_-2022_08_02_04_10_41.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/voicesofmontereybay_org-_-2022_08_02_04_10_41.report.json",
       "summary": {
-        "performance": 0.25,
+        "performance": 0.26,
         "accessibility": 0.89,
         "best-practices": 0.75,
         "seo": 0.91,
@@ -2679,10 +2731,10 @@
     {
       "url": "https://voicesofmontereybay.org/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/voicesofmontereybay_org-_-2022_08_01_15_31_52.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/voicesofmontereybay_org-_-2022_08_01_15_31_52.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/voicesofmontereybay_org-_-2022_08_02_04_10_21.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/voicesofmontereybay_org-_-2022_08_02_04_10_21.report.json",
       "summary": {
-        "performance": 0.23,
+        "performance": 0.19,
         "accessibility": 0.89,
         "best-practices": 0.75,
         "seo": 0.91,

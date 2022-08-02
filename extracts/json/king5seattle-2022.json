@@ -1,5 +1,5 @@
 {
-  "created": 1659400554,
+  "created": 1659442907,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/8/items/king5seattle-2022",
@@ -2610,31 +2610,72 @@
       "format": "JSON"
     },
     {
+      "name": "king5seattle-2022-08-02T05:20:52.160437-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659442857",
+      "size": "6391",
+      "md5": "5b2aed55794a659610231adf51c98f02",
+      "crc32": "f0d754b1",
+      "sha1": "06ba57b235bc89d753d15bc541a09deae57d73cd",
+      "format": "JSON"
+    },
+    {
+      "name": "king5seattle-2022-08-02T05:20:52.160437-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659442859",
+      "size": "74404",
+      "md5": "75c14091a89855bd72561b16b57490fb",
+      "crc32": "ef6aa6ac",
+      "sha1": "f21b706a945a6bd0106472cbb07fa55c8e476fd2",
+      "format": "JSON"
+    },
+    {
+      "name": "king5seattle-2022-08-02T05:20:52.160437-07:00.jpg",
+      "source": "original",
+      "mtime": "1659442855",
+      "size": "260770",
+      "md5": "9f5eda32cf37579c406a1061deb66ab5",
+      "crc32": "a289b71e",
+      "sha1": "ce23ce1554ce581f39f866a172328da87014d802",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "king5seattle-2022-08-02T05:20:52.160437-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659442861",
+      "size": "1449",
+      "md5": "852a52d627b424cdab65bf44621a6481",
+      "crc32": "c3af300b",
+      "sha1": "5e4581166f8d4ee4997fb24bd63676e1173aa985",
+      "format": "JSON"
+    },
+    {
       "name": "king5seattle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bda64c1fb8bab7d7f256158273e5862df036efc3",
-      "mtime": "1659400552",
-      "size": "54811",
-      "md5": "ed6ad92c3caa8a800085d042d0c5e6d6",
-      "crc32": "04345153",
-      "sha1": "933c7b3fabdbb4bcdcde588fb6cf6519d51025cc",
+      "btih": "357eda181fa04bbd2e1bdaca979bc8c7103ffec6",
+      "mtime": "1659442902",
+      "size": "55681",
+      "md5": "9b966fa6475d3e5d3560da9d696b7a2d",
+      "crc32": "1900b447",
+      "sha1": "301972094c62af1900dd1e68d2486b2548624b05",
       "format": "Archive BitTorrent"
     },
     {
       "name": "king5seattle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "aa2411546b21cf421e706cb1149c063d",
+      "md5": "d5fcdc59f1f6db846c2cae1c70c3792a",
       "summation": "md5"
     },
     {
       "name": "king5seattle-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659400516",
-      "size": "315392",
-      "md5": "4b6b43d826cb4700f9abe78f61672840",
-      "crc32": "f914d5ef",
-      "sha1": "dd1fa66ae4e8c8375c30cb51aaab3dbe10de027d",
+      "mtime": "1659442866",
+      "size": "319488",
+      "md5": "1f0d5d706534c09b523e7e803fa8c378",
+      "crc32": "224d3395",
+      "sha1": "f7e70e39e2a3638138ded90f6692331fd7e9b99e",
       "format": "Metadata"
     },
     {
@@ -2648,9 +2689,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 253,
-  "item_last_updated": 1659400552,
-  "item_size": 20219250,
+  "files_count": 257,
+  "item_last_updated": 1659442902,
+  "item_size": 20567230,
   "metadata": {
     "identifier": "king5seattle-2022",
     "collection": [
@@ -2672,7 +2713,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350046882,
+      "task_id": 3350486263,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2680,7 +2721,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 178204220,
+  "uniq": 658803794,
   "workable_servers": [
     "ia902505.us.archive.org"
   ]

@@ -3,8 +3,21 @@
     {
       "url": "https://arthasarokar.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/arthasarokar_com-_-2022_08_01_13_20_04.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/arthasarokar_com-_-2022_08_01_13_20_04.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/arthasarokar_com-_-2022_08_02_01_21_31.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/arthasarokar_com-_-2022_08_02_01_21_31.report.json",
+      "summary": {
+        "performance": 0.36,
+        "accessibility": 0.82,
+        "best-practices": 0.92,
+        "seo": 0.76,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://arthasarokar.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/arthasarokar_com-_-2022_08_02_01_21_53.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/arthasarokar_com-_-2022_08_02_01_21_53.report.json",
       "summary": {
         "performance": 0.57,
         "accessibility": 0.82,
@@ -15,24 +28,11 @@
     },
     {
       "url": "https://arthasarokar.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/arthasarokar_com-_-2022_08_01_13_20_26.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/arthasarokar_com-_-2022_08_01_13_20_26.report.json",
-      "summary": {
-        "performance": 0.52,
-        "accessibility": 0.82,
-        "best-practices": 0.92,
-        "seo": 0.76,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://arthasarokar.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/arthasarokar_com-_-2022_08_01_13_20_46.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/arthasarokar_com-_-2022_08_01_13_20_46.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/arthasarokar_com-_-2022_08_02_01_22_16.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/arthasarokar_com-_-2022_08_02_01_22_16.report.json",
       "summary": {
-        "performance": 0.65,
+        "performance": 0.51,
         "accessibility": 0.82,
         "best-practices": 0.92,
         "seo": 0.76,
@@ -40,7 +40,7 @@
       }
     }
   ],
-  "created": 1659400432,
+  "created": 1659443401,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/26/items/arthasarokar-2022",
@@ -993,31 +993,83 @@
       "sha1": "3a01235b166242098e3803a30ede30d7bd627e5d"
     },
     {
+      "name": "arthasarokar-2022-08-02T07:39:21.000119+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1659405264",
+      "size": "80252",
+      "md5": "b066b5472a56e81a84d6298cd26a6fba",
+      "crc32": "943fb6c0",
+      "sha1": "a13c5aede21c3b00f12148e80bc105317a25ed39",
+      "format": "JSON"
+    },
+    {
+      "name": "arthasarokar-2022-08-02T07:39:21.000119+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659405265",
+      "size": "63979",
+      "md5": "8b9042c7bac451a2ef73c621d09c8585",
+      "crc32": "67ced579",
+      "sha1": "ae08473bdcb40659d5d0078a68cd5b8ac5936f77",
+      "format": "JSON"
+    },
+    {
+      "name": "arthasarokar-2022-08-02T07:39:21.000119+05:45.jpg",
+      "source": "original",
+      "mtime": "1659405262",
+      "size": "235061",
+      "md5": "15453a4d447c8fa0101e8ac773c0e5d9",
+      "crc32": "b7661602",
+      "sha1": "3d83004e6e0cd15f384aec86045cebd70e8b1e14",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "arthasarokar-2022-08-02T07:39:21.000119+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1659405267",
+      "size": "1477",
+      "md5": "369696069b8d9b32f0f0b802262ad1bf",
+      "crc32": "2b641f3b",
+      "sha1": "37985d8e8d23db0701b05f757598ed811eec5d6a",
+      "format": "JSON"
+    },
+    {
+      "name": "arthasarokar-2022-08-02T07:39:21.000119+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "arthasarokar-2022-08-02T07:39:21.000119+05:45.jpg",
+      "mtime": "1659406896",
+      "size": "10048",
+      "md5": "250591e639a3f1adf8fd67927a2055f0",
+      "crc32": "31f4133a",
+      "sha1": "25e7bcd95853cf8eac3a9551a2d9a35a32c70d48"
+    },
+    {
       "name": "arthasarokar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a5cb29c565cbc80c6d966001313bc269f2e24fff",
-      "mtime": "1659370794",
-      "size": "21044",
-      "md5": "4594ab8c232f941e521649f6a2c16bb4",
-      "crc32": "82e27ed4",
-      "sha1": "8913e23db68ff3c160783004ede5d60345258837",
+      "btih": "4ceb0b25f2344195d71eb78106fd380a66827f49",
+      "mtime": "1659406902",
+      "size": "22104",
+      "md5": "f08b36ad2559d716ed05d7e7c9370ab3",
+      "crc32": "372a41ee",
+      "sha1": "74c579bc24995ac96759d6524efb0a878e31442c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "arthasarokar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "79eca8bea1e53dbec303d8c77e6511fe",
+      "md5": "ed7dda3df2932469e2637821209b8b96",
       "summation": "md5"
     },
     {
       "name": "arthasarokar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659364998",
-      "size": "135168",
-      "md5": "30a4a3567c587cdc79350a8400d8e9a8",
-      "crc32": "e874a9ae",
-      "sha1": "3653b0932a4f926a09e1dba936e0ad0ed3f88801",
+      "mtime": "1659405271",
+      "size": "143360",
+      "md5": "07643c8408ecdd404807c94e5c335968",
+      "crc32": "9a37d85a",
+      "sha1": "d13cdf637672b3a526455dc4e2d7ec6fc087ebf1",
       "format": "Metadata"
     },
     {
@@ -1031,9 +1083,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 95,
-  "item_last_updated": 1659370794,
-  "item_size": 7994754,
+  "files_count": 100,
+  "item_last_updated": 1659406902,
+  "item_size": 8394823,
   "metadata": {
     "identifier": "arthasarokar-2022",
     "collection": [
@@ -1051,7 +1103,7 @@
     "addeddate": "2022-07-24 20:36:44"
   },
   "server": "ia801506.us.archive.org",
-  "uniq": 1778355094,
+  "uniq": 1682162360,
   "workable_servers": [
     "ia801506.us.archive.org",
     "ia601506.us.archive.org"

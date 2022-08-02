@@ -1,5 +1,5 @@
 {
-  "created": 1659400737,
+  "created": 1659443074,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/24/items/mddailyrecord-2022",
@@ -2001,31 +2001,83 @@
       "format": "JSON"
     },
     {
+      "name": "mddailyrecord-2022-08-01T20:38:03.904412-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mddailyrecord-2022-08-01T20:38:03.904412-04:00.jpg",
+      "mtime": "1659401974",
+      "size": "10295",
+      "md5": "3378d86e459060c156303485aa1516fd",
+      "crc32": "b798f76d",
+      "sha1": "678127d6c9e0b165f10f4476d33c318b178b9c09"
+    },
+    {
+      "name": "mddailyrecord-2022-08-02T08:23:35.460296-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659443018",
+      "size": "50166",
+      "md5": "b4af037fa68ead96d9d0b9f1bb86e7e3",
+      "crc32": "e9a6349d",
+      "sha1": "e255c23e5e108a1348baae3484b5598c919bd072",
+      "format": "JSON"
+    },
+    {
+      "name": "mddailyrecord-2022-08-02T08:23:35.460296-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659443020",
+      "size": "52172",
+      "md5": "2d4b1496faab3c5c95dba730f7105579",
+      "crc32": "b47383d8",
+      "sha1": "b8b7e62199fe1dcd3ef78a94a8a7cbeb7c8fecd4",
+      "format": "JSON"
+    },
+    {
+      "name": "mddailyrecord-2022-08-02T08:23:35.460296-04:00.jpg",
+      "source": "original",
+      "mtime": "1659443017",
+      "size": "377147",
+      "md5": "b466dd4a2a246b249f34cd4cbec5cc80",
+      "crc32": "31a549d9",
+      "sha1": "85dd4a48a9ba3dbe73fc5420b3c12d0b1a34aa90",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mddailyrecord-2022-08-02T08:23:35.460296-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659443022",
+      "size": "1493",
+      "md5": "62857c5ff9425f62afd51e1d4bd40d97",
+      "crc32": "9c3d306d",
+      "sha1": "12b5c380805d9118b15512c21eca5ff9bc5dbd8d",
+      "format": "JSON"
+    },
+    {
       "name": "mddailyrecord-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ebbbc40adb4245848ef6d2e8fe3008aadd18d561",
-      "mtime": "1659400733",
-      "size": "42674",
-      "md5": "282237309fe8f507725bd17fc0286427",
-      "crc32": "87d0ce38",
-      "sha1": "8571871993f8560415e14d8146e1d6ae605bb3ac",
+      "btih": "90bf8e5cd6683821fe5560bd56f1b778345f3da9",
+      "mtime": "1659443070",
+      "size": "43759",
+      "md5": "d620fbaa6553bc2db10607b830e8dc93",
+      "crc32": "669401ae",
+      "sha1": "06b7a91e9aabb97b3899b971dff7d7d9409edf43",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mddailyrecord-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0e4278ae27171f429603341e1e476f60",
+      "md5": "ae04ed86748d224676fe7bd2cb26c272",
       "summation": "md5"
     },
     {
       "name": "mddailyrecord-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659400698",
-      "size": "249856",
-      "md5": "b303dbc5924485ecb269ce67755a0e50",
-      "crc32": "538102e6",
-      "sha1": "8a0b88bd53292443434407491a558b62dbb60b51",
+      "mtime": "1659443034",
+      "size": "258048",
+      "md5": "3c108051d5d71c727f805ef933bc6048",
+      "crc32": "4ee9075d",
+      "sha1": "8e88066441ffae16b468fa8ec55710637499d9fc",
       "format": "Metadata"
     },
     {
@@ -2039,9 +2091,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 195,
-  "item_last_updated": 1659400733,
-  "item_size": 18350109,
+  "files_count": 200,
+  "item_last_updated": 1659443070,
+  "item_size": 18850659,
   "metadata": {
     "identifier": "mddailyrecord-2022",
     "collection": [
@@ -2063,7 +2115,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350048835,
+      "task_id": 3350487858,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2071,7 +2123,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 402562986,
+  "uniq": 230423767,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]

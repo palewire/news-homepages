@@ -1,5 +1,5 @@
 {
-  "created": 1659401113,
+  "created": 1659443398,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/10/items/searchlightnm-2022",
@@ -5035,31 +5035,83 @@
       "format": "JSON"
     },
     {
+      "name": "searchlightnm-2022-08-01T18:44:19.060871-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "searchlightnm-2022-08-01T18:44:19.060871-06:00.jpg",
+      "mtime": "1659402070",
+      "size": "10255",
+      "md5": "6df2231f46b0f346181a7c0b966e0f61",
+      "crc32": "618a1bd2",
+      "sha1": "79e36c6a18608144525937a5bdabf8066545f2d6"
+    },
+    {
+      "name": "searchlightnm-2022-08-02T06:28:59.775509-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659443343",
+      "size": "12432",
+      "md5": "a584029b4436b651d8329a7dd97a444d",
+      "crc32": "c8e210a1",
+      "sha1": "6b094e3cd407758792dac2716753c3893394d82c",
+      "format": "JSON"
+    },
+    {
+      "name": "searchlightnm-2022-08-02T06:28:59.775509-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659443344",
+      "size": "19007",
+      "md5": "70b07d2eae0b70049a4165189037f32c",
+      "crc32": "8555b3bf",
+      "sha1": "c7b74d8f957c1175595c64385737914f78c3019c",
+      "format": "JSON"
+    },
+    {
+      "name": "searchlightnm-2022-08-02T06:28:59.775509-06:00.jpg",
+      "source": "original",
+      "mtime": "1659443341",
+      "size": "297558",
+      "md5": "97ea35b18be83f9934cbe4f8d47bcbd9",
+      "crc32": "d58f6445",
+      "sha1": "7e65df3b14db56a7b9ad62b82d764e4de24cc6db",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "searchlightnm-2022-08-02T06:28:59.775509-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659443346",
+      "size": "1472",
+      "md5": "98040d068b76f64ded4cbf95a7c915f4",
+      "crc32": "56d3d73a",
+      "sha1": "6d568d4445b487568eeef51bffd9ed34b1c5195d",
+      "format": "JSON"
+    },
+    {
       "name": "searchlightnm-2022_archive.torrent",
       "source": "metadata",
-      "btih": "028545db88e9f3b15e7bc6cc3895304e12e0e418",
-      "mtime": "1659401111",
-      "size": "105219",
-      "md5": "45278e3efe7a65727dfa2fd3b05b523b",
-      "crc32": "20cdff14",
-      "sha1": "b617530e117d640daaffbe57233abc43fdd4ef44",
+      "btih": "be0997477ccc2dad3aa7e0dd00433e8f3ae5f43c",
+      "mtime": "1659443395",
+      "size": "106284",
+      "md5": "f393e41d7f25cecd9f88cb0292dce944",
+      "crc32": "6655930f",
+      "sha1": "c7d7c34678ee0fcd530de314de980fffc761c9fa",
       "format": "Archive BitTorrent"
     },
     {
       "name": "searchlightnm-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4ce7797482e938b5b08d0236bd958b64",
+      "md5": "03e2c121043acad72b882848def6339a",
       "summation": "md5"
     },
     {
       "name": "searchlightnm-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659401071",
-      "size": "581632",
-      "md5": "60ee9a4a3a239168e1ef7ceef3064df4",
-      "crc32": "bbdacb63",
-      "sha1": "2ede74eccf09ad02a7d918019ba3e2711bc12f7e",
+      "mtime": "1659443351",
+      "size": "585728",
+      "md5": "24d4286925800ca5bb44b2b32d5d96df",
+      "crc32": "9f955c18",
+      "sha1": "f91e6c4eb47f262d33acd7059a3ff6fc4ca556e8",
       "format": "Metadata"
     },
     {
@@ -5073,9 +5125,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 484,
-  "item_last_updated": 1659401111,
-  "item_size": 45294397,
+  "files_count": 489,
+  "item_last_updated": 1659443395,
+  "item_size": 45640282,
   "metadata": {
     "identifier": "searchlightnm-2022",
     "collection": [
@@ -5097,7 +5149,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350052867,
+      "task_id": 3350491076,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -5105,7 +5157,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 857093286,
+  "uniq": 229546098,
   "workable_servers": [
     "ia902501.us.archive.org"
   ]

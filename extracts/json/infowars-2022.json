@@ -1,5 +1,5 @@
 {
-  "created": 1659400802,
+  "created": 1659443648,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/10/items/infowars-2022",
@@ -1714,31 +1714,73 @@
       "sha1": "5966c66fbb78df94895dbdeecf9f42f436c229bb"
     },
     {
+      "name": "infowars-2022-08-01T22:18:14.286608-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659410297",
+      "size": "13083",
+      "md5": "0f4d469a89d38c2c7e8b2d4b6fc74cc3",
+      "crc32": "c487674e",
+      "sha1": "bc460d7731a86a9dfcf4dc208ae004f0bddcbc53",
+      "format": "JSON"
+    },
+    {
+      "name": "infowars-2022-08-01T22:18:14.286608-05:00.jpg",
+      "source": "original",
+      "mtime": "1659410296",
+      "size": "277829",
+      "md5": "482d3198e8f41b6e4ef5cf2967c8d412",
+      "crc32": "c92ddea1",
+      "sha1": "b7b4871ee90ae2fb746a82d61943c0b853f4eb90",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "infowars-2022-08-01T22:18:14.286608-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659410299",
+      "size": "1477",
+      "md5": "4e268d97a4ef1dd3aeb126f221550994",
+      "crc32": "2fee828d",
+      "sha1": "10197fa109efcf9eff4c846a0519dd3f3fb01ded",
+      "format": "JSON"
+    },
+    {
+      "name": "infowars-2022-08-01T22:18:14.286608-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "infowars-2022-08-01T22:18:14.286608-05:00.jpg",
+      "mtime": "1659413080",
+      "size": "10174",
+      "md5": "19f24c287bc0ad3c3ebb1b3968d2b506",
+      "crc32": "8bd71077",
+      "sha1": "943663b61470e1e3d924f8a0cf3ed470edec02f2"
+    },
+    {
       "name": "infowars-2022_archive.torrent",
       "source": "metadata",
-      "btih": "49ae67c1b542823e6f9c923a10b5db6ae2fc2c84",
-      "mtime": "1659383139",
-      "size": "35363",
-      "md5": "c5ac5220bb6fa0cec0baabf0ff28615f",
-      "crc32": "724f7820",
-      "sha1": "8446a60c5f0d79528e98e1d86de321d2b52e3e42",
+      "btih": "ed31f98fcd4eb3b352d1aa12457aa0773853ef17",
+      "mtime": "1659413100",
+      "size": "36189",
+      "md5": "e85ab81d4bb621a357fa75348cc935c1",
+      "crc32": "bd4faad5",
+      "sha1": "0b2ca010334f38154a4c61b215b654b961ccc639",
       "format": "Archive BitTorrent"
     },
     {
       "name": "infowars-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d39455bb3f0776303d9e18d8c10c73e6",
+      "md5": "2de51149cbb0afb0210f003d12575388",
       "summation": "md5"
     },
     {
       "name": "infowars-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659379144",
-      "size": "200704",
-      "md5": "91b39b6ad90795433cc1b9ca7bd20b73",
-      "crc32": "0f7645a2",
-      "sha1": "3d6e70d1201ce282306229d9489b11da9a52557e",
+      "mtime": "1659410302",
+      "size": "204800",
+      "md5": "0b324e1f879dd1cd533865a695175498",
+      "crc32": "f54f7415",
+      "sha1": "2213510a79d73906734a67b403c346e128428613",
       "format": "Metadata"
     },
     {
@@ -1752,13 +1794,13 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 166,
+  "files_count": 170,
   "infowars-2022": [
     {
       "url": "https://www.infowars.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_infowars_com-_-2022_08_01_18_21_13.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_infowars_com-_-2022_08_01_18_21_13.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_infowars_com-_-2022_08_02_02_54_21.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_infowars_com-_-2022_08_02_02_54_21.report.json",
       "summary": {
         "performance": 0.08,
         "accessibility": 0.76,
@@ -1770,10 +1812,10 @@
     {
       "url": "https://www.infowars.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_infowars_com-_-2022_08_01_18_21_40.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_infowars_com-_-2022_08_01_18_21_40.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_infowars_com-_-2022_08_02_02_55_29.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_infowars_com-_-2022_08_02_02_55_29.report.json",
       "summary": {
-        "performance": 0.11,
+        "performance": 0.05,
         "accessibility": 0.76,
         "best-practices": 0.75,
         "seo": 0.81,
@@ -1783,19 +1825,19 @@
     {
       "url": "https://www.infowars.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_infowars_com-_-2022_08_01_18_20_47.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_infowars_com-_-2022_08_01_18_20_47.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_infowars_com-_-2022_08_02_02_53_31.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_infowars_com-_-2022_08_02_02_53_31.report.json",
       "summary": {
-        "performance": 0.06,
+        "performance": 0.07,
         "accessibility": 0.76,
-        "best-practices": 0.83,
-        "seo": 0.81,
+        "best-practices": 0.75,
+        "seo": 0.75,
         "pwa": 0.8
       }
     }
   ],
-  "item_last_updated": 1659383139,
-  "item_size": 14296598,
+  "item_last_updated": 1659413100,
+  "item_size": 14604083,
   "metadata": {
     "identifier": "infowars-2022",
     "collection": [
@@ -1813,7 +1855,7 @@
     "addeddate": "2022-07-17 15:03:18"
   },
   "server": "ia802501.us.archive.org",
-  "uniq": 649984045,
+  "uniq": 805885658,
   "workable_servers": [
     "ia802501.us.archive.org",
     "ia902501.us.archive.org"

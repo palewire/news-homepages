@@ -1,5 +1,5 @@
 {
-  "created": 1659400660,
+  "created": 1659443083,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/26/items/live_hindustan-2022",
@@ -629,31 +629,83 @@
       "format": "JSON"
     },
     {
+      "name": "live_hindustan-2022-08-02T06:06:53.053203+05:30_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "live_hindustan-2022-08-02T06:06:53.053203+05:30.jpg",
+      "mtime": "1659401709",
+      "size": "10785",
+      "md5": "2807049498bc52781191fef0bcdab95b",
+      "crc32": "62175ed7",
+      "sha1": "6f1f2f2e9eaf35d0d216c91855ccfae27d81c5fa"
+    },
+    {
+      "name": "live_hindustan-2022-08-02T17:53:53.809955+05:30.accessibility.json",
+      "source": "original",
+      "mtime": "1659443036",
+      "size": "112412",
+      "md5": "ae9f2804c371c766a6d603bc1eec0009",
+      "crc32": "aa2fff3c",
+      "sha1": "83439f7afb14fe29cd5028914d05941bff6a2495",
+      "format": "JSON"
+    },
+    {
+      "name": "live_hindustan-2022-08-02T17:53:53.809955+05:30.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659443038",
+      "size": "130133",
+      "md5": "586f90c83b8d0810717cd8070e4bb769",
+      "crc32": "4d0bbfb6",
+      "sha1": "a52757a35bce74f17c65705db19a69eb18356a05",
+      "format": "JSON"
+    },
+    {
+      "name": "live_hindustan-2022-08-02T17:53:53.809955+05:30.jpg",
+      "source": "original",
+      "mtime": "1659443035",
+      "size": "342271",
+      "md5": "82793495ebef12f9a0f203cf16a3b890",
+      "crc32": "093e8680",
+      "sha1": "a0edab6bf243d4374ab3845123b7af8941b28df6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "live_hindustan-2022-08-02T17:53:53.809955+05:30.lighthouse.json",
+      "source": "original",
+      "mtime": "1659443040",
+      "size": "1521",
+      "md5": "accb817c1bdb7da2cf0083f0543e8261",
+      "crc32": "2767bd0d",
+      "sha1": "b51eecc129ca0adae1a77df61d5d752ff377fc61",
+      "format": "JSON"
+    },
+    {
       "name": "live_hindustan-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0b9223e75ebd562a98b13106d60a01a050556951",
-      "mtime": "1659400658",
-      "size": "14614",
-      "md5": "6501052d2f5ed5522d776bc02e51ba4d",
-      "crc32": "550944fa",
-      "sha1": "c5cf905be6063e805d2669fa7c7e5e67590b6a82",
+      "btih": "af120bbc4707843a4693b11d0d3b24fb80fa6f5e",
+      "mtime": "1659443080",
+      "size": "15707",
+      "md5": "01f63a32cd7543fbe3813a01e1172498",
+      "crc32": "7083ec60",
+      "sha1": "94ce0810c8511ef1ce4265f1a39f8a784951b287",
       "format": "Archive BitTorrent"
     },
     {
       "name": "live_hindustan-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "001e1b160e6bb6d67ed94a280e590afb",
+      "md5": "cd7dd4894d977a5472821b9aff5d08f5",
       "summation": "md5"
     },
     {
       "name": "live_hindustan-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659400623",
-      "size": "86016",
-      "md5": "ebd2fab3c2034c1b1b4a05e09e3fac6f",
-      "crc32": "c740801a",
-      "sha1": "a41523fba08c74484fe7280d4f6dd42c1945aa9e",
+      "mtime": "1659443043",
+      "size": "102400",
+      "md5": "920293cb3a6d42dcadc6acf847d2d892",
+      "crc32": "f08472eb",
+      "sha1": "37b92a51bc42ba88c11d72b57c27437541d45295",
       "format": "Metadata"
     },
     {
@@ -667,9 +719,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 64,
-  "item_last_updated": 1659400658,
-  "item_size": 7406493,
+  "files_count": 69,
+  "item_last_updated": 1659443080,
+  "item_size": 8021092,
   "metadata": {
     "identifier": "live_hindustan-2022",
     "collection": [
@@ -691,7 +743,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350047970,
+      "task_id": 3350487936,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -699,7 +751,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1400259329,
+  "uniq": 1418018212,
   "workable_servers": [
     "ia902503.us.archive.org"
   ]

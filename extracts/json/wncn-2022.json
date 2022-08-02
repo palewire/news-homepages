@@ -1,5 +1,5 @@
 {
-  "created": 1659401490,
+  "created": 1659444264,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/23/items/wncn-2022",
@@ -8458,31 +8458,83 @@
       "sha1": "5ebb0d0523a2668c3ebc4579c5c755b2839938c5"
     },
     {
+      "name": "wncn-2022-08-01T22:03:16.870118-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659405800",
+      "size": "34846",
+      "md5": "8bce8cd4d7ce74bdb29089f7a4735aea",
+      "crc32": "0515e114",
+      "sha1": "79d2a1891a9da634f313489260652965681a189e",
+      "format": "JSON"
+    },
+    {
+      "name": "wncn-2022-08-01T22:03:16.870118-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659405802",
+      "size": "77964",
+      "md5": "e1aa5259ebb83d4d8116ee0682fc4e85",
+      "crc32": "ff7f6722",
+      "sha1": "b3fcc00b107932bfa2896c3d6e53b241ea1bd2e1",
+      "format": "JSON"
+    },
+    {
+      "name": "wncn-2022-08-01T22:03:16.870118-04:00.jpg",
+      "source": "original",
+      "mtime": "1659405798",
+      "size": "311399",
+      "md5": "3485b3ccfe6c8f2d1ce4dddbd999c99c",
+      "crc32": "93a47146",
+      "sha1": "68898278dc6da9e4cfe3205058335e62a398c9fa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wncn-2022-08-01T22:03:16.870118-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659405804",
+      "size": "1450",
+      "md5": "e1c83425128a50c332ece808b57a8de6",
+      "crc32": "e793f2a2",
+      "sha1": "d680669ca4f2ca3e10b04ede77ea26c0525dd5dd",
+      "format": "JSON"
+    },
+    {
+      "name": "wncn-2022-08-01T22:03:16.870118-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wncn-2022-08-01T22:03:16.870118-04:00.jpg",
+      "mtime": "1659407848",
+      "size": "10616",
+      "md5": "2b56fdaa9a2302aed441be413c0ec678",
+      "crc32": "25f1237e",
+      "sha1": "a541781a7dc6173a7e7b93be84db6902a8df406b"
+    },
+    {
       "name": "wncn-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5ca6a6e79676742f0862090decee1931f86e4c30",
-      "mtime": "1659371666",
-      "size": "168709",
-      "md5": "b97d601fe4d55cb6469657d6538985f4",
-      "crc32": "ed473cae",
-      "sha1": "335d56b349e08cb974153ba8cc842a88cb8beeb9",
+      "btih": "6c86fc337c6e2257ab6e44dba3af6c974d5bbace",
+      "mtime": "1659407860",
+      "size": "169749",
+      "md5": "90356cdde8534a602bafd62eb7ef2a84",
+      "crc32": "8c66c2e6",
+      "sha1": "1e081fb644c2c053c4b3c2caf4e70edec23f567c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wncn-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "13cfa1e33d93fb9e705c55fa8fea3319",
+      "md5": "7894175d0f25aaf7b3868ac19e5d1076",
       "summation": "md5"
     },
     {
       "name": "wncn-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659365611",
-      "size": "937984",
-      "md5": "97c7185fa67088a7c29f80affd8279ae",
-      "crc32": "e3f6a428",
-      "sha1": "46e7f6988662606ecd95b5b1fd0167daf9c82c15",
+      "mtime": "1659405814",
+      "size": "946176",
+      "md5": "e2b87e3d453adfb3af0c53b9531ace8d",
+      "crc32": "74333d6f",
+      "sha1": "f85928d5d3828ec15577f153848ead3c604aca11",
       "format": "Metadata"
     },
     {
@@ -8496,9 +8548,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 810,
-  "item_last_updated": 1659371666,
-  "item_size": 85554436,
+  "files_count": 815,
+  "item_last_updated": 1659407860,
+  "item_size": 85999943,
   "metadata": {
     "identifier": "wncn-2022",
     "collection": [
@@ -8516,17 +8568,17 @@
     "addeddate": "2022-03-26 14:58:09"
   },
   "server": "ia802503.us.archive.org",
-  "uniq": 502690744,
+  "uniq": 787276015,
   "wncn-2022": [
     {
       "url": "https://www.cbs17.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_cbs17_com-_-2022_08_01_13_37_00.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_cbs17_com-_-2022_08_01_13_37_00.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_cbs17_com-_-2022_08_02_01_43_46.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_cbs17_com-_-2022_08_02_01_43_46.report.json",
       "summary": {
-        "performance": 0.18,
+        "performance": 0.19,
         "accessibility": 0.78,
-        "best-practices": 0.92,
+        "best-practices": 0.83,
         "seo": 0.83,
         "pwa": 0.4
       }
@@ -8534,23 +8586,23 @@
     {
       "url": "https://www.cbs17.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_cbs17_com-_-2022_08_01_13_38_19.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_cbs17_com-_-2022_08_01_13_38_19.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_cbs17_com-_-2022_08_02_01_45_38.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_cbs17_com-_-2022_08_02_01_45_38.report.json",
       "summary": {
-        "performance": 0.18,
+        "performance": 0.16,
         "accessibility": 0.78,
         "best-practices": 0.92,
-        "seo": 0.83,
+        "seo": 0.84,
         "pwa": 0.4
       }
     },
     {
       "url": "https://www.cbs17.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_cbs17_com-_-2022_08_01_13_37_40.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_cbs17_com-_-2022_08_01_13_37_40.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_cbs17_com-_-2022_08_02_01_40_19.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_cbs17_com-_-2022_08_02_01_40_19.report.json",
       "summary": {
-        "performance": 0.2,
+        "performance": 0.15,
         "accessibility": 0.78,
         "best-practices": 0.92,
         "seo": 0.83,

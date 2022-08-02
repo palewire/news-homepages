@@ -1,8 +1,49 @@
 {
-  "created": 1659391699,
+  "created": 1659443552,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/4/items/ek_business-2022",
+  "ek_business-2022": [
+    {
+      "url": "https://ekantipur.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ekantipur_com-_-2022_08_02_02_44_49.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ekantipur_com-_-2022_08_02_02_44_49.report.json",
+      "summary": {
+        "performance": 0.43,
+        "accessibility": 0.67,
+        "best-practices": 0.75,
+        "seo": 0.85,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://ekantipur.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ekantipur_com-_-2022_08_02_02_46_08.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ekantipur_com-_-2022_08_02_02_46_08.report.json",
+      "summary": {
+        "performance": 0.47,
+        "accessibility": 0.67,
+        "best-practices": 0.75,
+        "seo": 0.85,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://ekantipur.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ekantipur_com-_-2022_08_02_02_45_52.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ekantipur_com-_-2022_08_02_02_45_52.report.json",
+      "summary": {
+        "performance": 0.45,
+        "accessibility": 0.67,
+        "best-practices": 0.75,
+        "seo": 0.85,
+        "pwa": 0.3
+      }
+    }
+  ],
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -900,31 +941,83 @@
       "sha1": "e132c8d1249c9e214cf4d58bab91668dcf34c38e"
     },
     {
+      "name": "ek_business-2022-08-02T08:59:33.852076+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1659410077",
+      "size": "131203",
+      "md5": "6e80b73be46190c1c3e3d88774f6e6a4",
+      "crc32": "a67ba2a4",
+      "sha1": "bb571935a0664e890e63694f7e322bb9b396e6a0",
+      "format": "JSON"
+    },
+    {
+      "name": "ek_business-2022-08-02T08:59:33.852076+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659410079",
+      "size": "88032",
+      "md5": "117c8476ba2db10c946c55bdc552217e",
+      "crc32": "7b02a0ae",
+      "sha1": "c22159fa719f3e6ffce944a00bdce2e474a4b4bd",
+      "format": "JSON"
+    },
+    {
+      "name": "ek_business-2022-08-02T08:59:33.852076+05:45.jpg",
+      "source": "original",
+      "mtime": "1659410075",
+      "size": "305683",
+      "md5": "a9f468b8056cb349ff548df9b30818bc",
+      "crc32": "c95165cc",
+      "sha1": "b401a7cc9a1a001b0e9ae91d9885d7e889cb77b1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ek_business-2022-08-02T08:59:33.852076+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1659410080",
+      "size": "1450",
+      "md5": "fa7fe011f553ac2a8f8c3935c450ae30",
+      "crc32": "69bf63c9",
+      "sha1": "daf8a4384ad93c178fe001e71d80cf7b7f9c445a",
+      "format": "JSON"
+    },
+    {
+      "name": "ek_business-2022-08-02T08:59:33.852076+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ek_business-2022-08-02T08:59:33.852076+05:45.jpg",
+      "mtime": "1659412896",
+      "size": "10611",
+      "md5": "879429bdbf0f988eb1a001e1a1857e1d",
+      "crc32": "fc841dc7",
+      "sha1": "636e003d824bbb45a99864638c259d77de929922"
+    },
+    {
       "name": "ek_business-2022_archive.torrent",
       "source": "metadata",
-      "btih": "26b103f7019b58f0ea3a56c3edeb788911bc1180",
-      "mtime": "1659371761",
-      "size": "19936",
-      "md5": "045c6838f0ec4145aa3a610f710459ed",
-      "crc32": "d4b7992a",
-      "sha1": "ed31daef6d2e8d887a3ed1c9eabcc41f6e10e692",
+      "btih": "13ec2a4c4ed69d14a15e00ac828955e4404857b6",
+      "mtime": "1659412917",
+      "size": "21012",
+      "md5": "4db3a953592c36a10cdbd23bbef0a1ba",
+      "crc32": "e576bf31",
+      "sha1": "5a3d9c644c421e5be802962f10f6492fe00cd47b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ek_business-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "77abd1ac4d7aaac9d40f8ee042937d2c",
+      "md5": "a647496fe0fec94e63b32eb8fa8ef3a7",
       "summation": "md5"
     },
     {
       "name": "ek_business-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659365780",
-      "size": "131072",
-      "md5": "762ed742c652052ce5e41b4dc0a7336c",
-      "crc32": "2bc8bcf0",
-      "sha1": "d510765fb15adeba906d51239c6a590776907545",
+      "mtime": "1659410083",
+      "size": "135168",
+      "md5": "608c467b6e1b46058ab811679669c5ef",
+      "crc32": "3740bd61",
+      "sha1": "f06cf33126d84cf730f45f911a672fb14f67a2fc",
       "format": "Metadata"
     },
     {
@@ -938,9 +1031,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 90,
-  "item_last_updated": 1659371761,
-  "item_size": 9241171,
+  "files_count": 95,
+  "item_last_updated": 1659412917,
+  "item_size": 9783322,
   "metadata": {
     "identifier": "ek_business-2022",
     "collection": [
@@ -958,7 +1051,7 @@
     "addeddate": "2022-07-24 20:37:50"
   },
   "server": "ia801503.us.archive.org",
-  "uniq": 1896822275,
+  "uniq": 1457095572,
   "workable_servers": [
     "ia801503.us.archive.org",
     "ia601503.us.archive.org"

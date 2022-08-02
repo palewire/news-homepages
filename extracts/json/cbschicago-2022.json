@@ -3,10 +3,10 @@
     {
       "url": "https://www.cbsnews.com/chicago/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_cbsnews_com-_chicago_-2022_08_01_16_25_05.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_cbsnews_com-_chicago_-2022_08_01_16_25_05.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_cbsnews_com-_chicago_-2022_08_02_01_25_50.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_cbsnews_com-_chicago_-2022_08_02_01_25_50.report.json",
       "summary": {
-        "performance": 0.31,
+        "performance": 0.47,
         "accessibility": 0.8,
         "best-practices": 0.92,
         "seo": 0.77,
@@ -16,10 +16,10 @@
     {
       "url": "https://www.cbsnews.com/chicago/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_cbsnews_com-_chicago_-2022_08_01_16_26_05.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_cbsnews_com-_chicago_-2022_08_01_16_26_05.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_cbsnews_com-_chicago_-2022_08_02_01_26_23.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_cbsnews_com-_chicago_-2022_08_02_01_26_23.report.json",
       "summary": {
-        "performance": 0.44,
+        "performance": 0.32,
         "accessibility": 0.8,
         "best-practices": 0.92,
         "seo": 0.77,
@@ -29,10 +29,10 @@
     {
       "url": "https://www.cbsnews.com/chicago/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_cbsnews_com-_chicago_-2022_08_01_16_25_35.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_cbsnews_com-_chicago_-2022_08_01_16_25_35.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_cbsnews_com-_chicago_-2022_08_02_01_26_55.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_cbsnews_com-_chicago_-2022_08_02_01_26_55.report.json",
       "summary": {
-        "performance": 0.31,
+        "performance": 0.3,
         "accessibility": 0.8,
         "best-practices": 0.92,
         "seo": 0.77,
@@ -40,7 +40,7 @@
       }
     }
   ],
-  "created": 1659400537,
+  "created": 1659443467,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/33/items/cbschicago-2022",
@@ -733,31 +733,83 @@
       "sha1": "a4ed3bdff852f59b3a1557fcc3c5906c85f7e6c8"
     },
     {
+      "name": "cbschicago-2022-08-01T20:56:15.755962-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659405379",
+      "size": "26799",
+      "md5": "abae8bf499d23d8e5b4a74c814714306",
+      "crc32": "a4afb5b2",
+      "sha1": "2272b72f400f6dae0f6fbde87aeec6ec14dc103d",
+      "format": "JSON"
+    },
+    {
+      "name": "cbschicago-2022-08-01T20:56:15.755962-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659405381",
+      "size": "75652",
+      "md5": "af7f54abe900c5fc8d2a281871a66dce",
+      "crc32": "48e60cee",
+      "sha1": "3ea031e185aaa5b4c09be3134f9f821b746e97a0",
+      "format": "JSON"
+    },
+    {
+      "name": "cbschicago-2022-08-01T20:56:15.755962-05:00.jpg",
+      "source": "original",
+      "mtime": "1659405377",
+      "size": "198932",
+      "md5": "ccc15582422f46fdf9f89a6d12b9462f",
+      "crc32": "897e00cd",
+      "sha1": "a9cc6e30ad22571a8205d64b0fa9db65557a53f1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cbschicago-2022-08-01T20:56:15.755962-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659405382",
+      "size": "1530",
+      "md5": "358375eeede76183dab55da3c1da8197",
+      "crc32": "99b44e83",
+      "sha1": "99e7e683f3ac754dac66c6778551f11b17bc273a",
+      "format": "JSON"
+    },
+    {
+      "name": "cbschicago-2022-08-01T20:56:15.755962-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cbschicago-2022-08-01T20:56:15.755962-05:00.jpg",
+      "mtime": "1659407210",
+      "size": "8947",
+      "md5": "afb7cf7d7d0914aff4c003cc5e777e30",
+      "crc32": "e4450a93",
+      "sha1": "457282934941f18a509e38dbd625ce0f2268d02f"
+    },
+    {
       "name": "cbschicago-2022_archive.torrent",
       "source": "metadata",
-      "btih": "89d8ead8dee858065ccad17c023bf1e7bb889d69",
-      "mtime": "1659375702",
-      "size": "15422",
-      "md5": "45add4e6c59d6ec5bde13275cff1880a",
-      "crc32": "d0f9f708",
-      "sha1": "f0e1912978dc6c7ea6193b280ddd198295aeb0aa",
+      "btih": "171c5d5d84243551452a3127a5e902737d6f95f9",
+      "mtime": "1659407337",
+      "size": "16492",
+      "md5": "d7bc3ebec39f9acffbea70300f259234",
+      "crc32": "fa2e5500",
+      "sha1": "0196a6e67baf96e9abacdc7b487a60c5082c0893",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cbschicago-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a24b0e50b8ca3fa719bdb5be479f5eec",
+      "md5": "257f6d240e197a91011b142acf04f11b",
       "summation": "md5"
     },
     {
       "name": "cbschicago-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659371687",
-      "size": "94208",
-      "md5": "08a8e0e826f763bfba89e6344ff87045",
-      "crc32": "280c9112",
-      "sha1": "27c6fdc3b0199aa22a13a70fafbf144e30f2c176",
+      "mtime": "1659405385",
+      "size": "106496",
+      "md5": "0a7123428b8a0103b1ac2286438b6ecf",
+      "crc32": "5d4380a1",
+      "sha1": "c412b27a9bad4fa7c6efe814ffa6f7d6fa99b4eb",
       "format": "Metadata"
     },
     {
@@ -771,9 +823,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 70,
-  "item_last_updated": 1659375702,
-  "item_size": 4111665,
+  "files_count": 75,
+  "item_last_updated": 1659407337,
+  "item_size": 4436883,
   "metadata": {
     "identifier": "cbschicago-2022",
     "collection": [
@@ -790,10 +842,10 @@
     "publicdate": "2022-07-28 20:04:20",
     "addeddate": "2022-07-28 20:04:20"
   },
-  "server": "ia801404.us.archive.org",
-  "uniq": 1463606314,
+  "server": "ia601404.us.archive.org",
+  "uniq": 1963012760,
   "workable_servers": [
-    "ia801404.us.archive.org",
-    "ia601404.us.archive.org"
+    "ia601404.us.archive.org",
+    "ia801404.us.archive.org"
   ]
 }

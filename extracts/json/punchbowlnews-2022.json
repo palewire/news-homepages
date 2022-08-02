@@ -1,5 +1,5 @@
 {
-  "created": 1659401012,
+  "created": 1659443346,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/25/items/punchbowlnews-2022",
@@ -2631,31 +2631,83 @@
       "format": "JSON"
     },
     {
+      "name": "punchbowlnews-2022-08-01T20:42:39.011943-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "punchbowlnews-2022-08-01T20:42:39.011943-04:00.jpg",
+      "mtime": "1659402024",
+      "size": "8638",
+      "md5": "a674b15398f7babbb154e19f92f131e4",
+      "crc32": "dfa4ac8e",
+      "sha1": "8f8efb42c1b7b06ec22cffc26018e290886d811c"
+    },
+    {
+      "name": "punchbowlnews-2022-08-02T08:28:17.959148-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659443302",
+      "size": "15181",
+      "md5": "7a94baaad60497084b4e07b20cf36e8f",
+      "crc32": "4ef99b0e",
+      "sha1": "cba9154af5a8097f2d617f799cb1a006df212dfc",
+      "format": "JSON"
+    },
+    {
+      "name": "punchbowlnews-2022-08-02T08:28:17.959148-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659443303",
+      "size": "4734",
+      "md5": "b024b3040c1e55afea301e11bc5d3ee7",
+      "crc32": "55a9fcf2",
+      "sha1": "29a7e6847b006d262cf2b0d8efaea26647769b88",
+      "format": "JSON"
+    },
+    {
+      "name": "punchbowlnews-2022-08-02T08:28:17.959148-04:00.jpg",
+      "source": "original",
+      "mtime": "1659443300",
+      "size": "191038",
+      "md5": "6b6c58901da5aff8de8d895ce42ed215",
+      "crc32": "5ae828d7",
+      "sha1": "f37c792ad8b7de762f583ca39e2b364234bab07a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "punchbowlnews-2022-08-02T08:28:17.959148-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659443305",
+      "size": "1450",
+      "md5": "0983e5de9765a931983c1dbd8fc4a345",
+      "crc32": "62469be6",
+      "sha1": "6f2c71ddb3d36622203752416b62ab1ae6f69bf3",
+      "format": "JSON"
+    },
+    {
       "name": "punchbowlnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "70cfddd680aae3d43498cc1a2de6547ed6bac3d7",
-      "mtime": "1659401007",
-      "size": "55233",
-      "md5": "22209cf9689aadf290b45dd1c3a4309d",
-      "crc32": "ecc098ca",
-      "sha1": "5aec309c38f0351f9df04818fdd3ebadcdf13116",
+      "btih": "115e9056d732d8b2f8e5b67dcc39afc12060560a",
+      "mtime": "1659443344",
+      "size": "56296",
+      "md5": "216713b88ec7607edea42ee2741750eb",
+      "crc32": "eac5bae1",
+      "sha1": "213246e006be82bc9d1a15218420f9fe573c652c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "punchbowlnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1bbde07e255c15b0db2d523fc72ec996",
+      "md5": "a59e5ffa61e82f102c36b89d6e6a9e62",
       "summation": "md5"
     },
     {
       "name": "punchbowlnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659400970",
-      "size": "319488",
-      "md5": "77d570faafd2106e79ec8c72f54b1c4b",
-      "crc32": "4b74b218",
-      "sha1": "ebcb9d0d540e0ee8f13db5c6d76b619c2dfdc0fc",
+      "mtime": "1659443308",
+      "size": "323584",
+      "md5": "4fe7b2c6f3247a28eee4b50de293b61d",
+      "crc32": "af255b6d",
+      "sha1": "bc27d74b829deb62f76f64e3304cfa4ea840afb9",
       "format": "Metadata"
     },
     {
@@ -2669,9 +2721,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 255,
-  "item_last_updated": 1659401007,
-  "item_size": 13333076,
+  "files_count": 260,
+  "item_last_updated": 1659443344,
+  "item_size": 13559276,
   "metadata": {
     "identifier": "punchbowlnews-2022",
     "collection": [
@@ -2693,7 +2745,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350051750,
+      "task_id": 3350490536,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2701,7 +2753,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1226434639,
+  "uniq": 1051171529,
   "workable_servers": [
     "ia601405.us.archive.org"
   ]

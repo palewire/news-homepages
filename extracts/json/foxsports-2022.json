@@ -1,5 +1,5 @@
 {
-  "created": 1659397653,
+  "created": 1659442720,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/6/items/foxsports-2022",
@@ -2642,31 +2642,72 @@
       "sha1": "caba4608596642fccae45b239399ac9483e2c5ae"
     },
     {
+      "name": "foxsports-2022-08-02T08:17:36.999969-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659442663",
+      "size": "39754",
+      "md5": "98c33fdcfc9bf631951ed6b494823c3d",
+      "crc32": "cade73b1",
+      "sha1": "30770dcfa0fdf997fc9ac57971575c22b60b2edf",
+      "format": "JSON"
+    },
+    {
+      "name": "foxsports-2022-08-02T08:17:36.999969-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659442665",
+      "size": "69014",
+      "md5": "9d3bc2107143676096a70f2e9ad75122",
+      "crc32": "b5ef4433",
+      "sha1": "d85529f00cdbe74d630e9e09d216f7bdc4e02212",
+      "format": "JSON"
+    },
+    {
+      "name": "foxsports-2022-08-02T08:17:36.999969-04:00.jpg",
+      "source": "original",
+      "mtime": "1659442660",
+      "size": "217011",
+      "md5": "35e68800a5b8a79342e9e37551c0b8cf",
+      "crc32": "32e59d88",
+      "sha1": "9c0c851d84b97b26e16153a36010bf6eaf0bb13d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxsports-2022-08-02T08:17:36.999969-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659442667",
+      "size": "1477",
+      "md5": "d42c5e53690712266876a3f8875560a3",
+      "crc32": "9d9a6751",
+      "sha1": "04ac55f86db3ce90851d29758ea263bb374d107a",
+      "format": "JSON"
+    },
+    {
       "name": "foxsports-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1be13328423c66bb91a2b80542870d8a86a3b3e7",
-      "mtime": "1659397492",
-      "size": "54715",
-      "md5": "6307aadf6b084abbf80256a27b03a536",
-      "crc32": "70b3107e",
-      "sha1": "4a0c78a44e3e147c33253686ee1053c95feee640",
+      "btih": "3b03e73940eeca3b57dd528fb283fe0fbc31b9ff",
+      "mtime": "1659442716",
+      "size": "55574",
+      "md5": "743dc4e79d0bca5005c4f789c9f48a7d",
+      "crc32": "daf98fd1",
+      "sha1": "652f87f1317116a051348fea37bfd5a4783e35a1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "foxsports-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "626aca089f51e05e46845b15ec62082d",
+      "md5": "7f152e5c4a9bf0b3579789a35fc17d9d",
       "summation": "md5"
     },
     {
       "name": "foxsports-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659396041",
-      "size": "315392",
-      "md5": "8b0650768120dd9cba9c89293248232b",
-      "crc32": "aeaaf292",
-      "sha1": "eb876e297ac2c6c9b32452be7f25eaa4b2493c93",
+      "mtime": "1659442673",
+      "size": "323584",
+      "md5": "27eb90b5dca6ce627381a4328a86a060",
+      "crc32": "61759546",
+      "sha1": "40ca534761ab1379a7ffda343f24f4d5d7bc9089",
       "format": "Metadata"
     },
     {
@@ -2680,9 +2721,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 256,
-  "item_last_updated": 1659397492,
-  "item_size": 19962333,
+  "files_count": 260,
+  "item_last_updated": 1659442716,
+  "item_size": 20298640,
   "metadata": {
     "identifier": "foxsports-2022",
     "collection": [
@@ -2699,10 +2740,21 @@
     "publicdate": "2022-07-04 21:53:09",
     "addeddate": "2022-07-04 21:53:09"
   },
+  "pending_tasks": true,
   "server": "ia902501.us.archive.org",
-  "uniq": 2036874242,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3350484649,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 86510289,
   "workable_servers": [
-    "ia902501.us.archive.org",
-    "ia802501.us.archive.org"
+    "ia902501.us.archive.org"
   ]
 }

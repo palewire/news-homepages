@@ -1,5 +1,5 @@
 {
-  "created": 1659401081,
+  "created": 1659443891,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/10/items/portlandmercury-2022",
@@ -2080,31 +2080,61 @@
       "sha1": "d448c68957e59828457998e8fafb2bf26b979173"
     },
     {
+      "name": "portlandmercury-2022-08-01T21:22:51.059736-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659414172",
+      "size": "21152",
+      "md5": "380e2d9a2fdb7bd0a5a7e72822d9a738",
+      "crc32": "c05e063f",
+      "sha1": "c251c177902605fe93394f911dc9b87d1f4cdeee",
+      "format": "JSON"
+    },
+    {
+      "name": "portlandmercury-2022-08-01T21:22:51.059736-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659414175",
+      "size": "21476",
+      "md5": "ff24b8a9971a7d2d0efd35322572f51f",
+      "crc32": "a0f4635c",
+      "sha1": "f64bb177195cc8df2fec77e8fae68617a57492e4",
+      "format": "JSON"
+    },
+    {
+      "name": "portlandmercury-2022-08-01T21:22:51.059736-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659414177",
+      "size": "1540",
+      "md5": "800402dcc62028ce4d38cf6bf5c7ee27",
+      "crc32": "f5bf5c5b",
+      "sha1": "7e34d60496d2a738c5db400e1b442feb0b05cc0e",
+      "format": "JSON"
+    },
+    {
       "name": "portlandmercury-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6ce1413b40e253481acb49ca4749bfb95b616435",
-      "mtime": "1659374655",
-      "size": "44786",
-      "md5": "0d925453185fa5b3d095d882eedc798c",
-      "crc32": "ae3c73ba",
-      "sha1": "10f5ec2a7c5fdcfee6dd079402916b1725ae25f6",
+      "btih": "5fe3af43ef8c00eb7d579647274b93f203c84de4",
+      "mtime": "1659414216",
+      "size": "45462",
+      "md5": "00954a6c83d54ff2362a263c85c5262d",
+      "crc32": "4deb02c4",
+      "sha1": "4f270af1da7c047f54ed4f6dc711c363a243d8c7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "portlandmercury-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8ac0c16b085ec34823b6bd4bba0ae27f",
+      "md5": "014535e21c649397c721e572109a27ab",
       "summation": "md5"
     },
     {
       "name": "portlandmercury-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659370119",
-      "size": "262144",
-      "md5": "5c20a2e57a799d64b3ff5a2556710af7",
-      "crc32": "2a4e07c7",
-      "sha1": "bb86679f181c9ab4580e72079765b41e65426b91",
+      "mtime": "1659414181",
+      "size": "266240",
+      "md5": "d7223d54da920c38ef94427cb1d9db08",
+      "crc32": "d0c6b14d",
+      "sha1": "6da05a4da6f00ec263c0ec3f34e5bfbc24114c7f",
       "format": "Metadata"
     },
     {
@@ -2118,9 +2148,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 203,
-  "item_last_updated": 1659374655,
-  "item_size": 14159497,
+  "files_count": 206,
+  "item_last_updated": 1659414216,
+  "item_size": 14208437,
   "metadata": {
     "identifier": "portlandmercury-2022",
     "collection": [
@@ -2141,8 +2171,21 @@
     {
       "url": "https://www.portlandmercury.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_portlandmercury_com-_-2022_08_01_15_19_28.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_portlandmercury_com-_-2022_08_01_15_19_28.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_portlandmercury_com-_-2022_08_02_03_58_43.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_portlandmercury_com-_-2022_08_02_03_58_43.report.json",
+      "summary": {
+        "performance": 0.32,
+        "accessibility": 0.87,
+        "best-practices": 0.92,
+        "seo": 0.85,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.portlandmercury.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_portlandmercury_com-_-2022_08_02_03_59_01.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_portlandmercury_com-_-2022_08_02_03_59_01.report.json",
       "summary": {
         "performance": 0.34,
         "accessibility": 0.87,
@@ -2153,24 +2196,11 @@
     },
     {
       "url": "https://www.portlandmercury.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_portlandmercury_com-_-2022_08_01_15_20_06.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_portlandmercury_com-_-2022_08_01_15_20_06.report.json",
-      "summary": {
-        "performance": 0.35,
-        "accessibility": 0.87,
-        "best-practices": 0.92,
-        "seo": 0.85,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://www.portlandmercury.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_portlandmercury_com-_-2022_08_01_15_19_48.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_portlandmercury_com-_-2022_08_01_15_19_48.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_portlandmercury_com-_-2022_08_02_03_58_23.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_portlandmercury_com-_-2022_08_02_03_58_23.report.json",
       "summary": {
-        "performance": 0.33,
+        "performance": 0.28,
         "accessibility": 0.87,
         "best-practices": 0.92,
         "seo": 0.85,
@@ -2178,10 +2208,10 @@
       }
     }
   ],
-  "server": "ia601408.us.archive.org",
-  "uniq": 888548254,
+  "server": "ia801408.us.archive.org",
+  "uniq": 807520552,
   "workable_servers": [
-    "ia601408.us.archive.org",
-    "ia801408.us.archive.org"
+    "ia801408.us.archive.org",
+    "ia601408.us.archive.org"
   ]
 }

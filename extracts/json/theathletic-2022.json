@@ -1,5 +1,5 @@
 {
-  "created": 1659401261,
+  "created": 1659407324,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/31/items/theathletic-2022",
@@ -1256,31 +1256,83 @@
       "sha1": "421ed05cc3016d801116e4dc68b9c2dc73e95ba0"
     },
     {
+      "name": "theathletic-2022-08-01T21:59:33.250628-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659405575",
+      "size": "41313",
+      "md5": "c5508955190fc4612800b65ced1a931d",
+      "crc32": "01460ba5",
+      "sha1": "e744d03cad2d49490806e0bf0f4ce4b9a1327af6",
+      "format": "JSON"
+    },
+    {
+      "name": "theathletic-2022-08-01T21:59:33.250628-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659405576",
+      "size": "37587",
+      "md5": "087a5a4ace9e74c6d68bf5df30787342",
+      "crc32": "a69f2468",
+      "sha1": "70d028dfe61697f5b906cbbfed0be3f6f7dfc8df",
+      "format": "JSON"
+    },
+    {
+      "name": "theathletic-2022-08-01T21:59:33.250628-04:00.jpg",
+      "source": "original",
+      "mtime": "1659405574",
+      "size": "259922",
+      "md5": "63a8b3659af27971bcc0cf0c9bd82f06",
+      "crc32": "de75f7f9",
+      "sha1": "257973e325db76313676b08d18011026b106560c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theathletic-2022-08-01T21:59:33.250628-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659405578",
+      "size": "1458",
+      "md5": "8de5882e1567183087090b26e6cbf094",
+      "crc32": "752c7b9d",
+      "sha1": "278d0bcbee5f06930eb7dedb7cfea36fe18263c4",
+      "format": "JSON"
+    },
+    {
+      "name": "theathletic-2022-08-01T21:59:33.250628-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theathletic-2022-08-01T21:59:33.250628-04:00.jpg",
+      "mtime": "1659407305",
+      "size": "9997",
+      "md5": "a51086c674f9cabecbb5bcd22eba5140",
+      "crc32": "cdd807e6",
+      "sha1": "ef10f47033a0e08381be6c51bd94d8312acca14a"
+    },
+    {
       "name": "theathletic-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4cf19fd56ac692aeaba16db09c5a9348ffdbeb1a",
-      "mtime": "1659370862",
-      "size": "27051",
-      "md5": "75047ac8cf0a3a5569942ce129f853a6",
-      "crc32": "332e8b14",
-      "sha1": "133499b4b1bf4723fa693c07b48d3f058eb00ea9",
+      "btih": "058c6aec795e61caf2178e906841bbfe89de33fa",
+      "mtime": "1659407313",
+      "size": "28125",
+      "md5": "a5bf3fcc86fca95db3da9055e8301f7d",
+      "crc32": "41a6cf04",
+      "sha1": "7bde46ab8d473c15a8918e55eb85f103c6626096",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theathletic-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0869831ade6ec246d1da2d5e964c5ad4",
+      "md5": "f494eac86d9bbd591a38f80ff0a6249c",
       "summation": "md5"
     },
     {
       "name": "theathletic-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659365324",
-      "size": "167936",
-      "md5": "6bf29d030a196be52543e664a4748c54",
-      "crc32": "728a04a7",
-      "sha1": "a552c7737bc2e2ae8411125ebf71bf03e9202412",
+      "mtime": "1659405581",
+      "size": "172032",
+      "md5": "3f27c4a1d44008d7058f29a418723e02",
+      "crc32": "049525f3",
+      "sha1": "0b5b53e8fc54682c7a526ae2f6239f2a8986f3aa",
       "format": "Metadata"
     },
     {
@@ -1294,9 +1346,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 124,
-  "item_last_updated": 1659370862,
-  "item_size": 8615819,
+  "files_count": 129,
+  "item_last_updated": 1659407313,
+  "item_size": 8971266,
   "metadata": {
     "identifier": "theathletic-2022",
     "collection": [
@@ -1314,48 +1366,7 @@
     "addeddate": "2022-07-21 04:28:48"
   },
   "server": "ia802502.us.archive.org",
-  "theathletic-2022": [
-    {
-      "url": "https://theathletic.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/theathletic_com-_-2022_08_01_13_29_37.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/theathletic_com-_-2022_08_01_13_29_37.report.json",
-      "summary": {
-        "performance": 0.28,
-        "accessibility": 0.76,
-        "best-practices": 1,
-        "seo": 0.82,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://theathletic.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/theathletic_com-_-2022_08_01_13_30_04.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/theathletic_com-_-2022_08_01_13_30_04.report.json",
-      "summary": {
-        "performance": 0.37,
-        "accessibility": 0.76,
-        "best-practices": 0.92,
-        "seo": 0.82,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://theathletic.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/theathletic_com-_-2022_08_01_13_30_27.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/theathletic_com-_-2022_08_01_13_30_27.report.json",
-      "summary": {
-        "performance": 0.36,
-        "accessibility": 0.76,
-        "best-practices": 1,
-        "seo": 0.82,
-        "pwa": 0.4
-      }
-    }
-  ],
-  "uniq": 570806585,
+  "uniq": 1747433753,
   "workable_servers": [
     "ia802502.us.archive.org",
     "ia902502.us.archive.org"

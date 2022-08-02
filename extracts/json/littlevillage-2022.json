@@ -1,5 +1,5 @@
 {
-  "created": 1659400700,
+  "created": 1659443045,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/35/items/littlevillage-2022",
@@ -4581,31 +4581,83 @@
       "format": "JSON"
     },
     {
+      "name": "littlevillage-2022-08-01T19:37:29.414054-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "littlevillage-2022-08-01T19:37:29.414054-05:00.jpg",
+      "mtime": "1659401771",
+      "size": "9581",
+      "md5": "a75049eb9ab0285bee3871fa87615182",
+      "crc32": "fffe04b5",
+      "sha1": "18cfe6a4006a1c4a1b69ac270e42752f002c127d"
+    },
+    {
+      "name": "littlevillage-2022-08-02T07:22:57.049494-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659442979",
+      "size": "30422",
+      "md5": "14d73bacf496f11b085892ec1ae48c2b",
+      "crc32": "633b2538",
+      "sha1": "afb2995fe35935a6aa01e9c6308632a050148962",
+      "format": "JSON"
+    },
+    {
+      "name": "littlevillage-2022-08-02T07:22:57.049494-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659442981",
+      "size": "39130",
+      "md5": "a51a95b6f271231e0a00efef4d269448",
+      "crc32": "19ac92d0",
+      "sha1": "9f720f8f1c13c3461abd1622ceb9b52e381b9556",
+      "format": "JSON"
+    },
+    {
+      "name": "littlevillage-2022-08-02T07:22:57.049494-05:00.jpg",
+      "source": "original",
+      "mtime": "1659442978",
+      "size": "297616",
+      "md5": "b615c0cf3b1085c58f514b2818a19671",
+      "crc32": "2b42b986",
+      "sha1": "1996a60ba1de2292e7798e741504f1e9d4b0142d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "littlevillage-2022-08-02T07:22:57.049494-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659442983",
+      "size": "1510",
+      "md5": "a52db8840a9d9789316a9e73fbe99390",
+      "crc32": "a28aa75f",
+      "sha1": "7914a3742c03b1ef49fd476c5c93743210ea9e72",
+      "format": "JSON"
+    },
+    {
       "name": "littlevillage-2022_archive.torrent",
       "source": "metadata",
-      "btih": "46d4faff259d249994e0b908bcd75a6a05e3390d",
-      "mtime": "1659400698",
-      "size": "95832",
-      "md5": "03772d347b8786e702f9e4ea2cd33160",
-      "crc32": "73994e95",
-      "sha1": "2d0918c8966a24d4cd2c2307b62bcc1253ebf23a",
+      "btih": "d5d62d3ced92c25a047a7ed1a703f874e834a74f",
+      "mtime": "1659443042",
+      "size": "96916",
+      "md5": "3a556f5308513fa56ab1d2456f30a9d0",
+      "crc32": "b86aa653",
+      "sha1": "2b4ac7893ba8592528d5201f95307c72577704ef",
       "format": "Archive BitTorrent"
     },
     {
       "name": "littlevillage-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e74ad114a09d2d972d78b31c2bacc411",
+      "md5": "899b4b9b38b3d36efdd159b698f73d7a",
       "summation": "md5"
     },
     {
       "name": "littlevillage-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659400659",
-      "size": "532480",
-      "md5": "7ba5fdba4e9b60137b5393c23f31cd7e",
-      "crc32": "e3dfe5fc",
-      "sha1": "3d5b07172698e75292d6223d243f6dd3c6657670",
+      "mtime": "1659442999",
+      "size": "536576",
+      "md5": "be290cdddb25031d21d4a3caf8dbd57d",
+      "crc32": "97c5d261",
+      "sha1": "665a74ec8fab70d0be7aeb365c9544dcdbd5b299",
       "format": "Metadata"
     },
     {
@@ -4619,9 +4671,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 441,
-  "item_last_updated": 1659400698,
-  "item_size": 40675847,
+  "files_count": 446,
+  "item_last_updated": 1659443042,
+  "item_size": 41059286,
   "metadata": {
     "identifier": "littlevillage-2022",
     "collection": [
@@ -4643,7 +4695,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350048437,
+      "task_id": 3350487598,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4651,7 +4703,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1230464564,
+  "uniq": 1101074374,
   "workable_servers": [
     "ia902507.us.archive.org"
   ]

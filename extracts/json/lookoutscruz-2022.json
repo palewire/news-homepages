@@ -1,5 +1,5 @@
 {
-  "created": 1659400935,
+  "created": 1659422186,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/0/items/lookoutscruz-2022",
@@ -2568,31 +2568,83 @@
       "sha1": "9abac6d912c2b6fd1d67f9801e881b725b658506"
     },
     {
+      "name": "lookoutscruz-2022-08-01T20:21:06.821620-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659410469",
+      "size": "15057",
+      "md5": "1662b5f544c96537453278bc162c35b5",
+      "crc32": "eed47f70",
+      "sha1": "8d174898cb2099ced909edce24cedd0975f902e9",
+      "format": "JSON"
+    },
+    {
+      "name": "lookoutscruz-2022-08-01T20:21:06.821620-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659410470",
+      "size": "59419",
+      "md5": "93a8c13be076443bc8da2a12d035ad19",
+      "crc32": "7d3931b0",
+      "sha1": "9418d2cecb847b2d190aa13d7fd31e155eb47cff",
+      "format": "JSON"
+    },
+    {
+      "name": "lookoutscruz-2022-08-01T20:21:06.821620-07:00.jpg",
+      "source": "original",
+      "mtime": "1659410467",
+      "size": "316274",
+      "md5": "2ce3fd66bf5270c2ee151e6db6ec158e",
+      "crc32": "cd48e95a",
+      "sha1": "ddd6a184ccc150f101308f20689b6ca016cd20db",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lookoutscruz-2022-08-01T20:21:06.821620-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659410472",
+      "size": "1513",
+      "md5": "9baa83f1bc3886371604793735c86983",
+      "crc32": "982123b6",
+      "sha1": "c7e1aab0aa1cb6cd077804cdfa55ad58d95432bd",
+      "format": "JSON"
+    },
+    {
+      "name": "lookoutscruz-2022-08-01T20:21:06.821620-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lookoutscruz-2022-08-01T20:21:06.821620-07:00.jpg",
+      "mtime": "1659413334",
+      "size": "11363",
+      "md5": "11faffc86c8f95c4ff0b0ba81494df6d",
+      "crc32": "fc9804e9",
+      "sha1": "7e75c3aff15e75d4a5ebb656893c7d94928aed80"
+    },
+    {
       "name": "lookoutscruz-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cdd4dc08436f9253bae382a57e23758cfde3cd2a",
-      "mtime": "1659372133",
-      "size": "54222",
-      "md5": "1443e74c3efbb06bcc248d245dc439ea",
-      "crc32": "15ea4846",
-      "sha1": "680bd40e38972d2a6ed643e675366733ad480b26",
+      "btih": "f1bdce348b112baa7e165c687e3d1f3c0e4372f6",
+      "mtime": "1659413342",
+      "size": "55302",
+      "md5": "7c4ef9412195f011278cef1a0d8d8dc4",
+      "crc32": "752e704e",
+      "sha1": "fe830b0693da370cc0f4173c72f2beb81ed9cee6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lookoutscruz-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "141eb45a99b1ead2065f3d68bbcdd063",
+      "md5": "5646725758887374c7ecb64f8d03f3af",
       "summation": "md5"
     },
     {
       "name": "lookoutscruz-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659366235",
-      "size": "311296",
-      "md5": "a12ee24fd78d95ce134d45342501a2a6",
-      "crc32": "c3fb7d27",
-      "sha1": "2e36dd34bac4d0559bfa9da44b35cf08c7b652ad",
+      "mtime": "1659410476",
+      "size": "315392",
+      "md5": "40ee96a7f72f7dae0fb229e2f1b2cd26",
+      "crc32": "845dabc5",
+      "sha1": "66bc51101179bbeb5ba05942b26480840a907a07",
       "format": "Metadata"
     },
     {
@@ -2606,50 +2658,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 249,
-  "item_last_updated": 1659372133,
-  "item_size": 23798651,
-  "lookoutscruz-2022": [
-    {
-      "url": "https://lookout.co/santacruz/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/lookout_co-_santacruz_-2022_08_01_14_37_38.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/lookout_co-_santacruz_-2022_08_01_14_37_38.report.json",
-      "summary": {
-        "performance": 0.34,
-        "accessibility": 0.93,
-        "best-practices": 1,
-        "seo": 0.92,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://lookout.co/santacruz/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/lookout_co-_santacruz_-2022_08_01_14_38_01.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/lookout_co-_santacruz_-2022_08_01_14_38_01.report.json",
-      "summary": {
-        "performance": 0.38,
-        "accessibility": 0.84,
-        "best-practices": 0.92,
-        "seo": 0.84,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://lookout.co/santacruz/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/lookout_co-_santacruz_-2022_08_01_14_38_23.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/lookout_co-_santacruz_-2022_08_01_14_38_23.report.json",
-      "summary": {
-        "performance": 0.35,
-        "accessibility": 0.84,
-        "best-practices": 0.92,
-        "seo": 0.84,
-        "pwa": 0.3
-      }
-    }
-  ],
+  "files_count": 254,
+  "item_last_updated": 1659413342,
+  "item_size": 24207453,
   "metadata": {
     "identifier": "lookoutscruz-2022",
     "collection": [
@@ -2666,10 +2677,10 @@
     "publicdate": "2022-07-09 04:00:07",
     "addeddate": "2022-07-09 04:00:07"
   },
-  "server": "ia601409.us.archive.org",
-  "uniq": 1865739581,
+  "server": "ia801409.us.archive.org",
+  "uniq": 600983855,
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia801409.us.archive.org",
+    "ia601409.us.archive.org"
   ]
 }
