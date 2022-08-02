@@ -7,7 +7,7 @@ orphan: true
 
 # New York City
 
-The most recent homepages from 16 news sites in this bundle.
+The most recent homepages from 19 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -18,6 +18,24 @@ The most recent homepages from 16 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/bklyner.html">Bklyner</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/brooklynpaper.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/brooklynpaper.jpg"
+     alt="Brooklyn Paper"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/brooklynpaper.html">Brooklyn Paper</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/cityandstateny.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cityandstateny.jpg"
+     alt="City & State New York"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/cityandstateny.html">City & State New York</a></p>
 </div>
 
 <div class="latest-child">
@@ -45,6 +63,15 @@ The most recent homepages from 16 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/documentedny.html">Documented</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/gothamgazette.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gothamgazette.jpg"
+     alt="Gotham Gazettee"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/gothamgazette.html">Gotham Gazettee</a></p>
 </div>
 
 <div class="latest-child">
@@ -171,9 +198,12 @@ The most recent homepages from 16 news sites in this bundle.
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |
 |[Bklyner](https://palewi.re/docs/news-homepages/sites/bklyner.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bklyner.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bklyner.xml)|
+|[Brooklyn Paper](https://palewi.re/docs/news-homepages/sites/brooklynpaper.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/brooklynpaper.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/brooklynpaper.xml)|
+|[City & State New York](https://palewi.re/docs/news-homepages/sites/cityandstateny.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cityandstateny.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/cityandstateny.xml)|
 |[City Limits](https://palewi.re/docs/news-homepages/sites/citylimitsnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/citylimitsnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/citylimitsnews.xml)|
 |[Daily News](https://palewi.re/docs/news-homepages/sites/nydailynews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nydailynews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nydailynews.xml)|
 |[Documented](https://palewi.re/docs/news-homepages/sites/documentedny.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/documentedny.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/documentedny.xml)|
+|[Gotham Gazettee](https://palewi.re/docs/news-homepages/sites/gothamgazette.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gothamgazette.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gothamgazette.xml)|
 |[Gothamist](https://palewi.re/docs/news-homepages/sites/gothamist.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gothamist.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gothamist.xml)|
 |[Hell Gate](https://palewi.re/docs/news-homepages/sites/hellgateny.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hellgateny.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/hellgateny.xml)|
 |[Humans of New York](https://palewi.re/docs/news-homepages/sites/humansofny.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/humansofny.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/humansofny.xml)|

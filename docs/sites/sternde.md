@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 14 screenshots with the Internet Archive.
+The archiving routine has saved 15 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sternde-2022/sternde-2022-08-02T06:26:35.205004+02:00.jpg">
+  <img src="https://archive.org/download/sternde-2022/sternde-2022-08-02T06:26:35.205004+02:00.jpg"
+     alt="Stern at 2022-08-02 06:26:37+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sternde-2022/sternde-2022-08-02T06:26:35.205004+02:00.jpg">August 2 at 6:26 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sternde-2022/sternde-2022-08-01T18:11:01.002325+02:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/sternde-2022/sternde-2022-07-27T17:48:33.793822+02:00.jpg">July 27 at 5:48 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/sternde-2022/sternde-2022-07-27T05:55:39.534146+02:00.jpg">
-  <img src="https://archive.org/download/sternde-2022/sternde-2022-07-27T05:55:39.534146+02:00.jpg"
-     alt="Stern at 2022-07-27 05:55:40+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sternde-2022/sternde-2022-07-27T05:55:39.534146+02:00.jpg">July 27 at 5:55 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 14 hyperlink lists with the Internet Archive.
+The archiving routine has saved 15 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 2 at 6:26 AM](https://archive.org/download/sternde-2022/sternde-2022-08-02T06:26:35.205004+02:00.hyperlinks.json) |
 | [August 1 at 6:11 PM](https://archive.org/download/sternde-2022/sternde-2022-08-01T18:11:01.002325+02:00.hyperlinks.json) |
 | [August 1 at 5:59 AM](https://archive.org/download/sternde-2022/sternde-2022-08-01T05:58:56.221701+02:00.hyperlinks.json) |
 | [July 31 at 5:56 PM](https://archive.org/download/sternde-2022/sternde-2022-07-31T17:56:07.146159+02:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 29 at 5:56 PM](https://archive.org/download/sternde-2022/sternde-2022-07-29T17:56:28.447393+02:00.hyperlinks.json) |
 | [July 29 at 5:50 AM](https://archive.org/download/sternde-2022/sternde-2022-07-29T05:50:13.117426+02:00.hyperlinks.json) |
 | [July 28 at 5:53 PM](https://archive.org/download/sternde-2022/sternde-2022-07-28T17:53:50.913176+02:00.hyperlinks.json) |
-| [July 28 at 5:46 AM](https://archive.org/download/sternde-2022/sternde-2022-07-28T05:45:56.338914+02:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 14 accessibility trees with the Internet Archive.
+The archiving routine has saved 15 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 2 at 6:26 AM](https://archive.org/download/sternde-2022/sternde-2022-08-02T06:26:35.205004+02:00.accessibility.json) |
 | [August 1 at 6:11 PM](https://archive.org/download/sternde-2022/sternde-2022-08-01T18:11:01.002325+02:00.accessibility.json) |
 | [August 1 at 5:58 AM](https://archive.org/download/sternde-2022/sternde-2022-08-01T05:58:56.221701+02:00.accessibility.json) |
 | [July 31 at 5:56 PM](https://archive.org/download/sternde-2022/sternde-2022-07-31T17:56:07.146159+02:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [July 29 at 5:56 PM](https://archive.org/download/sternde-2022/sternde-2022-07-29T17:56:28.447393+02:00.accessibility.json) |
 | [July 29 at 5:50 AM](https://archive.org/download/sternde-2022/sternde-2022-07-29T05:50:13.117426+02:00.accessibility.json) |
 | [July 28 at 5:53 PM](https://archive.org/download/sternde-2022/sternde-2022-07-28T17:53:50.913176+02:00.accessibility.json) |
-| [July 28 at 5:45 AM](https://archive.org/download/sternde-2022/sternde-2022-07-28T05:45:56.338914+02:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 14 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 15 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 2 at 6:26 AM](https://archive.org/download/sternde-2022/sternde-2022-08-02T06:26:35.205004+02:00.lighthouse.json) |
 | [August 1 at 6:11 PM](https://archive.org/download/sternde-2022/sternde-2022-08-01T18:11:01.002325+02:00.lighthouse.json) |
 | [August 1 at 5:59 AM](https://archive.org/download/sternde-2022/sternde-2022-08-01T05:58:56.221701+02:00.lighthouse.json) |
 | [July 31 at 5:56 PM](https://archive.org/download/sternde-2022/sternde-2022-07-31T17:56:07.146159+02:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 29 at 5:56 PM](https://archive.org/download/sternde-2022/sternde-2022-07-29T17:56:28.447393+02:00.lighthouse.json) |
 | [July 29 at 5:50 AM](https://archive.org/download/sternde-2022/sternde-2022-07-29T05:50:13.117426+02:00.lighthouse.json) |
 | [July 28 at 5:53 PM](https://archive.org/download/sternde-2022/sternde-2022-07-28T17:53:50.913176+02:00.lighthouse.json) |
-| [July 28 at 5:46 AM](https://archive.org/download/sternde-2022/sternde-2022-07-28T05:45:56.338914+02:00.lighthouse.json) |
 
 
 

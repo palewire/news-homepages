@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 125 screenshots with the Internet Archive.
+The archiving routine has saved 126 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 125 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-08-02T07:09:47.544673-05:00.jpg">
+  <img src="https://archive.org/download/amestribnews-2022/amestribnews-2022-08-02T07:09:47.544673-05:00.jpg"
+     alt="Ames Tribune at 2022-08-02 07:09:55-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-08-02T07:09:47.544673-05:00.jpg">August 2 at 7:09 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-08-01T18:12:50.169241-05:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-07-28T18:06:28.502290-05:00.jpg">July 28 at 6:06 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-07-28T06:05:03.534763-05:00.jpg">
-  <img src="https://archive.org/download/amestribnews-2022/amestribnews-2022-07-28T06:05:03.534763-05:00.jpg"
-     alt="Ames Tribune at 2022-07-28 06:05:07-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/amestribnews-2022/amestribnews-2022-07-28T06:05:03.534763-05:00.jpg">July 28 at 6:05 AM</a></p>
 </div>
 
 </div>
@@ -328,7 +328,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 124 accessibility trees with the Internet Archive.
+The archiving routine has saved 125 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 2 at 7:09 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-08-02T07:09:47.544673-05:00.accessibility.json) |
 | [August 1 at 6:12 PM](https://archive.org/download/amestribnews-2022/amestribnews-2022-08-01T18:12:50.169241-05:00.accessibility.json) |
 | [August 1 at 11:37 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-08-01T11:37:48.002662-05:00.accessibility.json) |
 | [August 1 at 6:10 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-08-01T06:09:58.867499-05:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 30 at 6:09 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-07-30T06:09:16.652139-05:00.accessibility.json) |
 | [July 29 at 7:00 PM](https://archive.org/download/amestribnews-2022/amestribnews-2022-07-29T19:00:05.395624-05:00.accessibility.json) |
 | [July 29 at 11:19 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-07-29T11:18:55.098397-05:00.accessibility.json) |
-| [July 29 at 6:03 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-07-29T06:03:15.379720-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 24 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 2 at 7:09 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-08-02T07:09:47.544673-05:00.lighthouse.json) |
 | [August 1 at 6:12 PM](https://archive.org/download/amestribnews-2022/amestribnews-2022-08-01T18:12:50.169241-05:00.lighthouse.json) |
 | [August 1 at 11:37 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-08-01T11:37:48.002662-05:00.lighthouse.json) |
 | [August 1 at 6:10 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-08-01T06:09:58.867499-05:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 30 at 6:09 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-07-30T06:09:16.652139-05:00.lighthouse.json) |
 | [July 29 at 7:00 PM](https://archive.org/download/amestribnews-2022/amestribnews-2022-07-29T19:00:05.395624-05:00.lighthouse.json) |
 | [July 29 at 11:19 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-07-29T11:18:55.098397-05:00.lighthouse.json) |
-| [July 29 at 6:03 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-07-29T06:03:15.379720-05:00.lighthouse.json) |
 
 
 

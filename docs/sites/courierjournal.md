@@ -50,7 +50,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 2 hyperlink lists with the Internet Archive.
+The archiving routine has saved 3 hyperlink lists with the Internet Archive.
 
 
 
@@ -58,13 +58,14 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 1 at 9:57 PM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-01T21:57:11.253531-04:00.hyperlinks.json) |
 | [August 1 at 10:46 AM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-01T10:46:47.482526-04:00.hyperlinks.json) |
 | [August 1 at 2:42 AM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-01T02:41:46.538899-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 2 accessibility trees with the Internet Archive.
+The archiving routine has saved 3 accessibility trees with the Internet Archive.
 
 
 
@@ -72,6 +73,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 1 at 9:57 PM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-01T21:57:11.253531-04:00.accessibility.json) |
 | [August 1 at 10:46 AM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-01T10:46:47.482526-04:00.accessibility.json) |
 | [August 1 at 2:42 AM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-01T02:41:46.538899-04:00.accessibility.json) |
 
@@ -79,7 +81,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 2 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 3 Lighthouse audits with the Internet Archive.
 
 
 
@@ -87,6 +89,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 1 at 9:57 PM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-01T21:57:11.253531-04:00.lighthouse.json) |
 | [August 1 at 10:46 AM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-01T10:46:47.482526-04:00.lighthouse.json) |
 | [August 1 at 2:42 AM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-01T02:41:46.538899-04:00.lighthouse.json) |
 

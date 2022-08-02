@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 206 screenshots with the Internet Archive.
+The archiving routine has saved 207 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 206 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-02T06:14:21.063455-06:00.jpg">
+  <img src="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-02T06:14:21.063455-06:00.jpg"
+     alt="Las Cruces Sun News at 2022-08-02 06:14:25-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-02T06:14:21.063455-06:00.jpg">August 2 at 6:14 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-01T17:18:13.142939-06:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-27T17:05:15.364794-06:00.jpg">July 27 at 5:05 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-27T05:05:21.394134-06:00.jpg">
-  <img src="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-27T05:05:21.394134-06:00.jpg"
-     alt="Las Cruces Sun News at 2022-07-27 05:05:27-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-27T05:05:21.394134-06:00.jpg">July 27 at 5:05 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 200 hyperlink lists with the Internet Archive.
+The archiving routine has saved 201 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 2 at 6:14 AM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-02T06:14:21.063455-06:00.hyperlinks.json) |
 | [August 1 at 5:18 PM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-01T17:18:13.142939-06:00.hyperlinks.json) |
 | [August 1 at 5:14 AM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-01T05:14:29.667992-06:00.hyperlinks.json) |
 | [July 31 at 6:11 PM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-31T18:11:02.934798-06:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 29 at 6:05 PM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-29T18:05:05.549698-06:00.hyperlinks.json) |
 | [July 29 at 5:08 AM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-29T05:07:50.371954-06:00.hyperlinks.json) |
 | [July 28 at 5:11 PM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-28T17:11:42.639879-06:00.hyperlinks.json) |
-| [July 28 at 5:09 AM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-28T05:09:21.704573-06:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -434,7 +434,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 19 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 20 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 2 at 6:14 AM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-02T06:14:21.063455-06:00.lighthouse.json) |
 | [August 1 at 5:18 PM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-01T17:18:13.142939-06:00.lighthouse.json) |
 | [August 1 at 5:14 AM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-08-01T05:14:29.667992-06:00.lighthouse.json) |
 | [July 31 at 6:11 PM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-31T18:11:02.934798-06:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 29 at 6:05 PM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-29T18:05:05.549698-06:00.lighthouse.json) |
 | [July 29 at 5:08 AM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-29T05:07:50.371954-06:00.lighthouse.json) |
 | [July 28 at 5:11 PM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-28T17:11:42.639879-06:00.lighthouse.json) |
-| [July 28 at 5:09 AM](https://archive.org/download/crucessunnews-2022/crucessunnews-2022-07-28T05:09:21.704573-06:00.lighthouse.json) |
 
 
 

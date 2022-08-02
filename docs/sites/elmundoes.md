@@ -154,7 +154,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 9 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 10 Lighthouse audits with the Internet Archive.
 
 
 
@@ -162,6 +162,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 2 at 5:14 AM](https://archive.org/download/elmundoes-2022/elmundoes-2022-08-02T05:14:53.129197+02:00.lighthouse.json) |
 | [August 1 at 4:56 PM](https://archive.org/download/elmundoes-2022/elmundoes-2022-08-01T16:56:28.987629+02:00.lighthouse.json) |
 | [August 1 at 4:33 AM](https://archive.org/download/elmundoes-2022/elmundoes-2022-08-01T04:33:51.101891+02:00.lighthouse.json) |
 | [July 31 at 4:35 PM](https://archive.org/download/elmundoes-2022/elmundoes-2022-07-31T16:35:11.618992+02:00.lighthouse.json) |

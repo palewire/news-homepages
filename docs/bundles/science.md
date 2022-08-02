@@ -7,18 +7,9 @@ orphan: true
 
 # Science
 
-The most recent homepages from 6 news sites in this bundle.
+The most recent homepages from 5 news sites in this bundle.
 
 <div class="latest-parent">
-
-<div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/climatecentral.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/climatecentral.jpg"
-     alt="Climate Central"
-     loading="lazy">
- </a>
- <p><a href="../sites/climatecentral.html">Climate Central</a></p>
-</div>
 
 <div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/thedailyclimate.html">
@@ -80,7 +71,6 @@ The most recent homepages from 6 news sites in this bundle.
 
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |
-|[Climate Central](https://palewi.re/docs/news-homepages/sites/climatecentral.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/climatecentral.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/climatecentral.xml)|
 |[Daily Climate](https://palewi.re/docs/news-homepages/sites/thedailyclimate.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thedailyclimate.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thedailyclimate.xml)|
 |[Space News](https://palewi.re/docs/news-homepages/sites/spacenews_inc.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/spacenews_inc.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/spacenews_inc.xml)|
 |[Space.com](https://palewi.re/docs/news-homepages/sites/spacedotcom.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/spacedotcom.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/spacedotcom.xml)|

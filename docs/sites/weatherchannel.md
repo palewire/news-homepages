@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 13 screenshots with the Internet Archive.
+The archiving routine has saved 14 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/weatherchannel-2022/weatherchannel-2022-08-02T00:31:46.609698-04:00.jpg">
+  <img src="https://archive.org/download/weatherchannel-2022/weatherchannel-2022-08-02T00:31:46.609698-04:00.jpg"
+     alt="Weather Channel at 2022-08-02 00:31:48-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/weatherchannel-2022/weatherchannel-2022-08-02T00:31:46.609698-04:00.jpg">August 2 at 12:31 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/weatherchannel-2022/weatherchannel-2022-08-01T12:15:42.704367-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/weatherchannel-2022/weatherchannel-2022-07-27T11:51:33.783742-04:00.jpg">July 27 at 11:51 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/weatherchannel-2022/weatherchannel-2022-07-26T23:58:27.241313-04:00.jpg">
-  <img src="https://archive.org/download/weatherchannel-2022/weatherchannel-2022-07-26T23:58:27.241313-04:00.jpg"
-     alt="Weather Channel at 2022-07-26 23:58:29-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/weatherchannel-2022/weatherchannel-2022-07-26T23:58:27.241313-04:00.jpg">July 26 at 11:58 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 13 hyperlink lists with the Internet Archive.
+The archiving routine has saved 14 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 2 at 12:31 AM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-08-02T00:31:46.609698-04:00.hyperlinks.json) |
 | [August 1 at 12:15 PM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-08-01T12:15:42.704367-04:00.hyperlinks.json) |
 | [August 1 at 12:03 AM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-08-01T00:03:02.868798-04:00.hyperlinks.json) |
 | [July 31 at 12:00 PM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-07-31T12:00:06.076737-04:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 29 at 11:59 AM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-07-29T11:59:39.784307-04:00.hyperlinks.json) |
 | [July 28 at 11:53 PM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-07-28T23:53:00.099291-04:00.hyperlinks.json) |
 | [July 28 at 11:57 AM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-07-28T11:57:16.744513-04:00.hyperlinks.json) |
-| [July 27 at 11:50 PM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-07-27T23:50:28.482506-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 13 accessibility trees with the Internet Archive.
+The archiving routine has saved 14 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 2 at 12:31 AM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-08-02T00:31:46.609698-04:00.accessibility.json) |
 | [August 1 at 12:15 PM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-08-01T12:15:42.704367-04:00.accessibility.json) |
 | [August 1 at 12:03 AM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-08-01T00:03:02.868798-04:00.accessibility.json) |
 | [July 31 at 12:00 PM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-07-31T12:00:06.076737-04:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [July 29 at 11:59 AM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-07-29T11:59:39.784307-04:00.accessibility.json) |
 | [July 28 at 11:53 PM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-07-28T23:53:00.099291-04:00.accessibility.json) |
 | [July 28 at 11:57 AM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-07-28T11:57:16.744513-04:00.accessibility.json) |
-| [July 27 at 11:50 PM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-07-27T23:50:28.482506-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 13 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 14 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 2 at 12:31 AM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-08-02T00:31:46.609698-04:00.lighthouse.json) |
 | [August 1 at 12:15 PM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-08-01T12:15:42.704367-04:00.lighthouse.json) |
 | [August 1 at 12:03 AM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-08-01T00:03:02.868798-04:00.lighthouse.json) |
 | [July 31 at 12:00 PM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-07-31T12:00:06.076737-04:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 29 at 11:59 AM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-07-29T11:59:39.784307-04:00.lighthouse.json) |
 | [July 28 at 11:53 PM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-07-28T23:53:00.099291-04:00.lighthouse.json) |
 | [July 28 at 11:57 AM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-07-28T11:57:16.744513-04:00.lighthouse.json) |
-| [July 27 at 11:50 PM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-07-27T23:50:28.482506-04:00.lighthouse.json) |
 
 
 

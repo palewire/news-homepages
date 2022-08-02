@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 11 screenshots with the Internet Archive.
+The archiving routine has saved 12 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-02T17:49:23.996434+05:30.jpg">
+  <img src="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-02T17:49:23.996434+05:30.jpg"
+     alt="Dainik Jagram at 2022-08-02 17:49:25+05:30 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-02T17:49:23.996434+05:30.jpg">August 2 at 5:49 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-02T06:03:33.589043+05:30.jpg">
@@ -131,7 +140,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 12 hyperlink lists with the Internet Archive.
+The archiving routine has saved 13 hyperlink lists with the Internet Archive.
 
 
 
@@ -139,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 2 at 5:49 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-02T17:49:23.996434+05:30.hyperlinks.json) |
 | [August 2 at 6:03 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-02T06:03:33.589043+05:30.hyperlinks.json) |
 | [August 1 at 5:49 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-01T17:49:14.524136+05:30.hyperlinks.json) |
 | [August 1 at 5:46 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-01T05:46:29.091541+05:30.hyperlinks.json) |
@@ -148,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 30 at 5:39 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-07-30T05:38:55.541628+05:30.hyperlinks.json) |
 | [July 29 at 5:44 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-07-29T17:44:50.321732+05:30.hyperlinks.json) |
 | [July 29 at 5:41 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-07-29T05:41:36.398514+05:30.hyperlinks.json) |
-| [July 28 at 6:39 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-07-28T18:39:35.367676+05:30.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 12 accessibility trees with the Internet Archive.
+The archiving routine has saved 13 accessibility trees with the Internet Archive.
 
 
 
@@ -161,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 2 at 5:49 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-02T17:49:23.996434+05:30.accessibility.json) |
 | [August 2 at 6:03 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-02T06:03:33.589043+05:30.accessibility.json) |
 | [August 1 at 5:49 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-01T17:49:14.524136+05:30.accessibility.json) |
 | [August 1 at 5:46 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-01T05:46:29.091541+05:30.accessibility.json) |
@@ -170,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [July 30 at 5:38 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-07-30T05:38:55.541628+05:30.accessibility.json) |
 | [July 29 at 5:44 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-07-29T17:44:50.321732+05:30.accessibility.json) |
 | [July 29 at 5:41 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-07-29T05:41:36.398514+05:30.accessibility.json) |
-| [July 28 at 6:39 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-07-28T18:39:35.367676+05:30.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 12 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 13 Lighthouse audits with the Internet Archive.
 
 
 
@@ -184,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 2 at 5:49 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-02T17:49:23.996434+05:30.lighthouse.json) |
 | [August 2 at 6:03 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-02T06:03:33.589043+05:30.lighthouse.json) |
 | [August 1 at 5:49 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-01T17:49:14.524136+05:30.lighthouse.json) |
 | [August 1 at 5:46 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-01T05:46:29.091541+05:30.lighthouse.json) |
@@ -193,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 30 at 5:39 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-07-30T05:38:55.541628+05:30.lighthouse.json) |
 | [July 29 at 5:44 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-07-29T17:44:50.321732+05:30.lighthouse.json) |
 | [July 29 at 5:41 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-07-29T05:41:36.398514+05:30.lighthouse.json) |
-| [July 28 at 6:39 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-07-28T18:39:35.367676+05:30.lighthouse.json) |
 
 
 

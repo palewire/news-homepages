@@ -7,7 +7,7 @@ orphan: true
 
 # Entertainment
 
-The most recent homepages from 13 news sites in this bundle.
+The most recent homepages from 14 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -120,6 +120,15 @@ The most recent homepages from 13 news sites in this bundle.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/vulture.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/vulture.jpg"
+     alt="Vulture"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/vulture.html">Vulture</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/thewrap.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thewrap.jpg"
      alt="Wrap"
@@ -155,4 +164,5 @@ The most recent homepages from 13 news sites in this bundle.
 |[TMZ](https://palewi.re/docs/news-homepages/sites/tmz.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tmz.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/tmz.xml)|
 |[Us Weekly](https://palewi.re/docs/news-homepages/sites/usweekly.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/usweekly.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/usweekly.xml)|
 |[Variety](https://palewi.re/docs/news-homepages/sites/variety.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/variety.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/variety.xml)|
+|[Vulture](https://palewi.re/docs/news-homepages/sites/vulture.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/vulture.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/vulture.xml)|
 |[Wrap](https://palewi.re/docs/news-homepages/sites/thewrap.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thewrap.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thewrap.xml)|

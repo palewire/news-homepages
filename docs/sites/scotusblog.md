@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 90 screenshots with the Internet Archive.
+The archiving routine has saved 91 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 90 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-08-02T08:29:03.906812-04:00.jpg">
+  <img src="https://archive.org/download/scotusblog-2022/scotusblog-2022-08-02T08:29:03.906812-04:00.jpg"
+     alt="SCOTUS Blog at 2022-08-02 08:29:07-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-08-02T08:29:03.906812-04:00.jpg">August 2 at 8:29 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-08-01T20:43:53.526150-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-27T20:11:25.895040-04:00.jpg">July 27 at 8:11 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-27T09:15:34.733991-04:00.jpg">
-  <img src="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-27T09:15:34.733991-04:00.jpg"
-     alt="SCOTUS Blog at 2022-07-27 09:15:36-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/scotusblog-2022/scotusblog-2022-07-27T09:15:34.733991-04:00.jpg">July 27 at 9:15 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 92 hyperlink lists with the Internet Archive.
+The archiving routine has saved 93 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 2 at 8:29 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-08-02T08:29:03.906812-04:00.hyperlinks.json) |
 | [August 1 at 8:44 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-08-01T20:43:53.526150-04:00.hyperlinks.json) |
 | [August 1 at 8:30 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-08-01T08:30:19.039079-04:00.hyperlinks.json) |
 | [July 31 at 8:25 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-07-31T20:24:57.778066-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 29 at 8:17 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-07-29T20:17:39.830319-04:00.hyperlinks.json) |
 | [July 29 at 8:24 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-07-29T08:24:42.730378-04:00.hyperlinks.json) |
 | [July 28 at 8:20 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-07-28T20:20:16.926684-04:00.hyperlinks.json) |
-| [July 28 at 9:18 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-07-28T09:18:33.882015-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 92 accessibility trees with the Internet Archive.
+The archiving routine has saved 93 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 2 at 8:29 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-08-02T08:29:03.906812-04:00.accessibility.json) |
 | [August 1 at 8:43 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-08-01T20:43:53.526150-04:00.accessibility.json) |
 | [August 1 at 8:30 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-08-01T08:30:19.039079-04:00.accessibility.json) |
 | [July 31 at 8:25 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-07-31T20:24:57.778066-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 29 at 8:17 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-07-29T20:17:39.830319-04:00.accessibility.json) |
 | [July 29 at 8:24 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-07-29T08:24:42.730378-04:00.accessibility.json) |
 | [July 28 at 8:20 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-07-28T20:20:16.926684-04:00.accessibility.json) |
-| [July 28 at 9:18 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-07-28T09:18:33.882015-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 19 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 20 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 2 at 8:29 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-08-02T08:29:03.906812-04:00.lighthouse.json) |
 | [August 1 at 8:44 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-08-01T20:43:53.526150-04:00.lighthouse.json) |
 | [August 1 at 8:30 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-08-01T08:30:19.039079-04:00.lighthouse.json) |
 | [July 31 at 8:25 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-07-31T20:24:57.778066-04:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 29 at 8:17 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-07-29T20:17:39.830319-04:00.lighthouse.json) |
 | [July 29 at 8:24 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-07-29T08:24:42.730378-04:00.lighthouse.json) |
 | [July 28 at 8:20 PM](https://archive.org/download/scotusblog-2022/scotusblog-2022-07-28T20:20:16.926684-04:00.lighthouse.json) |
-| [July 28 at 9:18 AM](https://archive.org/download/scotusblog-2022/scotusblog-2022-07-28T09:18:33.882015-04:00.lighthouse.json) |
 
 
 

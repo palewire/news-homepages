@@ -223,7 +223,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 58 hyperlink lists with the Internet Archive.
+The archiving routine has saved 59 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 2 at 5:22 AM](https://archive.org/download/lasvegassun-2022/lasvegassun-2022-08-02T05:22:25.058532-07:00.hyperlinks.json) |
 | [August 1 at 5:36 PM](https://archive.org/download/lasvegassun-2022/lasvegassun-2022-08-01T17:36:24.330770-07:00.hyperlinks.json) |
 | [August 1 at 5:23 AM](https://archive.org/download/lasvegassun-2022/lasvegassun-2022-08-01T05:23:24.878343-07:00.hyperlinks.json) |
 | [July 31 at 5:19 PM](https://archive.org/download/lasvegassun-2022/lasvegassun-2022-07-31T17:18:50.881739-07:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 29 at 5:11 PM](https://archive.org/download/lasvegassun-2022/lasvegassun-2022-07-29T17:11:21.583869-07:00.hyperlinks.json) |
 | [July 29 at 5:17 AM](https://archive.org/download/lasvegassun-2022/lasvegassun-2022-07-29T05:17:09.087486-07:00.hyperlinks.json) |
 | [July 28 at 5:14 PM](https://archive.org/download/lasvegassun-2022/lasvegassun-2022-07-28T17:14:02.975746-07:00.hyperlinks.json) |
-| [July 28 at 6:11 AM](https://archive.org/download/lasvegassun-2022/lasvegassun-2022-07-28T06:11:27.444562-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 58 accessibility trees with the Internet Archive.
+The archiving routine has saved 59 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 2 at 5:22 AM](https://archive.org/download/lasvegassun-2022/lasvegassun-2022-08-02T05:22:25.058532-07:00.accessibility.json) |
 | [August 1 at 5:36 PM](https://archive.org/download/lasvegassun-2022/lasvegassun-2022-08-01T17:36:24.330770-07:00.accessibility.json) |
 | [August 1 at 5:23 AM](https://archive.org/download/lasvegassun-2022/lasvegassun-2022-08-01T05:23:24.878343-07:00.accessibility.json) |
 | [July 31 at 5:18 PM](https://archive.org/download/lasvegassun-2022/lasvegassun-2022-07-31T17:18:50.881739-07:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 29 at 5:11 PM](https://archive.org/download/lasvegassun-2022/lasvegassun-2022-07-29T17:11:21.583869-07:00.accessibility.json) |
 | [July 29 at 5:17 AM](https://archive.org/download/lasvegassun-2022/lasvegassun-2022-07-29T05:17:09.087486-07:00.accessibility.json) |
 | [July 28 at 5:14 PM](https://archive.org/download/lasvegassun-2022/lasvegassun-2022-07-28T17:14:02.975746-07:00.accessibility.json) |
-| [July 28 at 6:11 AM](https://archive.org/download/lasvegassun-2022/lasvegassun-2022-07-28T06:11:27.444562-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 19 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 20 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 2 at 5:22 AM](https://archive.org/download/lasvegassun-2022/lasvegassun-2022-08-02T05:22:25.058532-07:00.lighthouse.json) |
 | [August 1 at 5:36 PM](https://archive.org/download/lasvegassun-2022/lasvegassun-2022-08-01T17:36:24.330770-07:00.lighthouse.json) |
 | [August 1 at 5:23 AM](https://archive.org/download/lasvegassun-2022/lasvegassun-2022-08-01T05:23:24.878343-07:00.lighthouse.json) |
 | [July 31 at 5:19 PM](https://archive.org/download/lasvegassun-2022/lasvegassun-2022-07-31T17:18:50.881739-07:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 29 at 5:11 PM](https://archive.org/download/lasvegassun-2022/lasvegassun-2022-07-29T17:11:21.583869-07:00.lighthouse.json) |
 | [July 29 at 5:17 AM](https://archive.org/download/lasvegassun-2022/lasvegassun-2022-07-29T05:17:09.087486-07:00.lighthouse.json) |
 | [July 28 at 5:14 PM](https://archive.org/download/lasvegassun-2022/lasvegassun-2022-07-28T17:14:02.975746-07:00.lighthouse.json) |
-| [July 28 at 6:11 AM](https://archive.org/download/lasvegassun-2022/lasvegassun-2022-07-28T06:11:27.444562-07:00.lighthouse.json) |
 
 
 

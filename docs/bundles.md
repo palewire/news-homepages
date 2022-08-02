@@ -3,11 +3,12 @@
 
 # Bundle directory
 
-The archiving routine is currently organized into 48 bundles of sites.
+The archiving routine is currently organized into 50 bundles of sites.
 
 | Bundle  | RSS |
 | :-----  | :-- |
 |[Arizona](https://palewi.re/docs/news-homepages/bundles/arizona.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/arizona.xml)|
+|[Brazil](https://palewi.re/docs/news-homepages/bundles/brazil.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/brazil.xml)|
 |[California Bay Area](https://palewi.re/docs/news-homepages/bundles/bay-area.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/bay-area.xml)|
 |[Canada](https://palewi.re/docs/news-homepages/bundles/canada.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/canada.xml)|
 |[Capitol Hill](https://palewi.re/docs/news-homepages/bundles/capitol-hill.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/capitol-hill.xml)|
@@ -47,6 +48,7 @@ The archiving routine is currently organized into 48 bundles of sites.
 |[Spain](https://palewi.re/docs/news-homepages/bundles/spain.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/spain.xml)|
 |[Sports](https://palewi.re/docs/news-homepages/bundles/sports.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/sports.xml)|
 |[Student](https://palewi.re/docs/news-homepages/bundles/student.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/student.xml)|
+|[Taiwan](https://palewi.re/docs/news-homepages/bundles/taiwan.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/taiwan.xml)|
 |[Technology](https://palewi.re/docs/news-homepages/bundles/tech.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/tech.xml)|
 |[Texas](https://palewi.re/docs/news-homepages/bundles/texas.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/texas.xml)|
 |[U.K. national news](https://palewi.re/docs/news-homepages/bundles/uk-national.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/uk-national.xml)|
