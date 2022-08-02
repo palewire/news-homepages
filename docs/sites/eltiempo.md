@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 93 screenshots with the Internet Archive.
+The archiving routine has saved 94 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 93 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-08-01T18:19:44.081547-05:00.jpg">
+  <img src="https://archive.org/download/eltiempo-2022/eltiempo-2022-08-01T18:19:44.081547-05:00.jpg"
+     alt="Tiempo at 2022-08-01 18:19:53-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-08-01T18:19:44.081547-05:00.jpg">August 1 at 6:19 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-08-01T06:16:31.825365-05:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-27T06:06:53.724563-05:00.jpg">July 27 at 6:06 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-26T18:09:25.543463-05:00.jpg">
-  <img src="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-26T18:09:25.543463-05:00.jpg"
-     alt="Tiempo at 2022-07-26 18:09:29-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-26T18:09:25.543463-05:00.jpg">July 26 at 6:09 PM</a></p>
 </div>
 
 </div>
@@ -328,7 +328,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 90 accessibility trees with the Internet Archive.
+The archiving routine has saved 91 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 1 at 6:19 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-01T18:19:44.081547-05:00.accessibility.json) |
 | [August 1 at 6:16 AM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-01T06:16:31.825365-05:00.accessibility.json) |
 | [July 31 at 7:13 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-07-31T19:13:14.318128-05:00.accessibility.json) |
 | [July 31 at 6:12 AM](https://archive.org/download/eltiempo-2022/eltiempo-2022-07-31T06:12:06.302559-05:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 29 at 6:09 AM](https://archive.org/download/eltiempo-2022/eltiempo-2022-07-29T06:09:04.032218-05:00.accessibility.json) |
 | [July 28 at 6:12 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-07-28T18:12:42.560567-05:00.accessibility.json) |
 | [July 28 at 6:11 AM](https://archive.org/download/eltiempo-2022/eltiempo-2022-07-28T06:11:06.741087-05:00.accessibility.json) |
-| [July 27 at 6:06 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-07-27T18:06:35.251473-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 19 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 1 at 6:19 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-01T18:19:44.081547-05:00.lighthouse.json) |
 | [August 1 at 6:16 AM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-01T06:16:31.825365-05:00.lighthouse.json) |
 | [July 31 at 7:13 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-07-31T19:13:14.318128-05:00.lighthouse.json) |
 | [July 31 at 6:12 AM](https://archive.org/download/eltiempo-2022/eltiempo-2022-07-31T06:12:06.302559-05:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 29 at 6:09 AM](https://archive.org/download/eltiempo-2022/eltiempo-2022-07-29T06:09:04.032218-05:00.lighthouse.json) |
 | [July 28 at 6:12 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-07-28T18:12:42.560567-05:00.lighthouse.json) |
 | [July 28 at 6:11 AM](https://archive.org/download/eltiempo-2022/eltiempo-2022-07-28T06:11:06.741087-05:00.lighthouse.json) |
-| [July 27 at 6:06 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-07-27T18:06:35.251473-05:00.lighthouse.json) |
 
 
 

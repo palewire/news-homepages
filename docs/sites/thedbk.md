@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 203 screenshots with the Internet Archive.
+The archiving routine has saved 204 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 203 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thedbk-2022/thedbk-2022-08-01T12:12:46.378883-04:00.jpg">
+  <img src="https://archive.org/download/thedbk-2022/thedbk-2022-08-01T12:12:46.378883-04:00.jpg"
+     alt="The Diamondback at 2022-08-01 12:12:47-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-08-01T12:12:46.378883-04:00.jpg">August 1 at 12:12 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thedbk-2022/thedbk-2022-07-31T23:59:58.369722-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-07-26T23:56:16.628540-04:00.jpg">July 26 at 11:56 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thedbk-2022/thedbk-2022-07-26T11:47:10.753427-04:00.jpg">
-  <img src="https://archive.org/download/thedbk-2022/thedbk-2022-07-26T11:47:10.753427-04:00.jpg"
-     alt="The Diamondback at 2022-07-26 11:47:13-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-07-26T11:47:10.753427-04:00.jpg">July 26 at 11:47 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 206 hyperlink lists with the Internet Archive.
+The archiving routine has saved 207 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 1 at 12:12 PM](https://archive.org/download/thedbk-2022/thedbk-2022-08-01T12:12:46.378883-04:00.hyperlinks.json) |
 | [August 1 at 12:00 AM](https://archive.org/download/thedbk-2022/thedbk-2022-07-31T23:59:58.369722-04:00.hyperlinks.json) |
 | [July 31 at 11:57 AM](https://archive.org/download/thedbk-2022/thedbk-2022-07-31T11:57:46.883961-04:00.hyperlinks.json) |
 | [July 31 at 12:09 AM](https://archive.org/download/thedbk-2022/thedbk-2022-07-31T00:09:31.077137-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 28 at 11:50 PM](https://archive.org/download/thedbk-2022/thedbk-2022-07-28T23:50:29.823117-04:00.hyperlinks.json) |
 | [July 28 at 11:54 AM](https://archive.org/download/thedbk-2022/thedbk-2022-07-28T11:54:27.232970-04:00.hyperlinks.json) |
 | [July 27 at 11:47 PM](https://archive.org/download/thedbk-2022/thedbk-2022-07-27T23:46:57.219850-04:00.hyperlinks.json) |
-| [July 27 at 11:48 AM](https://archive.org/download/thedbk-2022/thedbk-2022-07-27T11:48:33.935251-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 206 accessibility trees with the Internet Archive.
+The archiving routine has saved 207 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 1 at 12:12 PM](https://archive.org/download/thedbk-2022/thedbk-2022-08-01T12:12:46.378883-04:00.accessibility.json) |
 | [August 1 at 12:00 AM](https://archive.org/download/thedbk-2022/thedbk-2022-07-31T23:59:58.369722-04:00.accessibility.json) |
 | [July 31 at 11:57 AM](https://archive.org/download/thedbk-2022/thedbk-2022-07-31T11:57:46.883961-04:00.accessibility.json) |
 | [July 31 at 12:09 AM](https://archive.org/download/thedbk-2022/thedbk-2022-07-31T00:09:31.077137-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 28 at 11:50 PM](https://archive.org/download/thedbk-2022/thedbk-2022-07-28T23:50:29.823117-04:00.accessibility.json) |
 | [July 28 at 11:54 AM](https://archive.org/download/thedbk-2022/thedbk-2022-07-28T11:54:27.232970-04:00.accessibility.json) |
 | [July 27 at 11:47 PM](https://archive.org/download/thedbk-2022/thedbk-2022-07-27T23:46:57.219850-04:00.accessibility.json) |
-| [July 27 at 11:48 AM](https://archive.org/download/thedbk-2022/thedbk-2022-07-27T11:48:33.935251-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 1 at 12:12 PM](https://archive.org/download/thedbk-2022/thedbk-2022-08-01T12:12:46.378883-04:00.lighthouse.json) |
 | [August 1 at 12:00 AM](https://archive.org/download/thedbk-2022/thedbk-2022-07-31T23:59:58.369722-04:00.lighthouse.json) |
 | [July 31 at 11:57 AM](https://archive.org/download/thedbk-2022/thedbk-2022-07-31T11:57:46.883961-04:00.lighthouse.json) |
 | [July 31 at 12:09 AM](https://archive.org/download/thedbk-2022/thedbk-2022-07-31T00:09:31.077137-04:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 28 at 11:50 PM](https://archive.org/download/thedbk-2022/thedbk-2022-07-28T23:50:29.823117-04:00.lighthouse.json) |
 | [July 28 at 11:54 AM](https://archive.org/download/thedbk-2022/thedbk-2022-07-28T11:54:27.232970-04:00.lighthouse.json) |
 | [July 27 at 11:47 PM](https://archive.org/download/thedbk-2022/thedbk-2022-07-27T23:46:57.219850-04:00.lighthouse.json) |
-| [July 27 at 11:48 AM](https://archive.org/download/thedbk-2022/thedbk-2022-07-27T11:48:33.935251-04:00.lighthouse.json) |
 
 
 

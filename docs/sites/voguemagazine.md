@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 29 screenshots with the Internet Archive.
+The archiving routine has saved 30 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-08-01T12:15:13.819779-04:00.jpg">
+  <img src="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-08-01T12:15:13.819779-04:00.jpg"
+     alt="Vogue at 2022-08-01 12:15:15-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-08-01T12:15:13.819779-04:00.jpg">August 1 at 12:15 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-08-01T00:02:23.677526-04:00.jpg">
@@ -127,15 +136,6 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-07-26T23:58:41.745203-04:00.jpg">July 26 at 11:58 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-07-26T11:49:01.618170-04:00.jpg">
-  <img src="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-07-26T11:49:01.618170-04:00.jpg"
-     alt="Vogue at 2022-07-26 11:49:03-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/voguemagazine-2022/voguemagazine-2022-07-26T11:49:01.618170-04:00.jpg">July 26 at 11:49 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
@@ -162,7 +162,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 29 accessibility trees with the Internet Archive.
+The archiving routine has saved 30 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 1 at 12:15 PM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-08-01T12:15:13.819779-04:00.accessibility.json) |
 | [August 1 at 12:02 AM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-08-01T00:02:23.677526-04:00.accessibility.json) |
 | [July 31 at 11:59 AM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-07-31T11:59:00.771478-04:00.accessibility.json) |
 | [July 31 at 12:11 AM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-07-31T00:11:03.241321-04:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [July 28 at 11:52 PM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-07-28T23:52:41.556253-04:00.accessibility.json) |
 | [July 28 at 11:56 AM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-07-28T11:56:09.496127-04:00.accessibility.json) |
 | [July 27 at 11:49 PM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-07-27T23:49:19.969739-04:00.accessibility.json) |
-| [July 27 at 11:50 AM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-07-27T11:50:13.287737-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 1 at 12:15 PM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-08-01T12:15:13.819779-04:00.lighthouse.json) |
 | [August 1 at 12:02 AM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-08-01T00:02:23.677526-04:00.lighthouse.json) |
 | [July 31 at 11:59 AM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-07-31T11:59:00.771478-04:00.lighthouse.json) |
 | [July 31 at 12:11 AM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-07-31T00:11:03.241321-04:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 28 at 11:52 PM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-07-28T23:52:41.556253-04:00.lighthouse.json) |
 | [July 28 at 11:56 AM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-07-28T11:56:09.496127-04:00.lighthouse.json) |
 | [July 27 at 11:49 PM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-07-27T23:49:19.969739-04:00.lighthouse.json) |
-| [July 27 at 11:50 AM](https://archive.org/download/voguemagazine-2022/voguemagazine-2022-07-27T11:50:13.287737-04:00.lighthouse.json) |
 
 
 

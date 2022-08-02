@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 6 screenshots with the Internet Archive.
+The archiving routine has saved 7 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-08-01T18:11:07.835218-05:00.jpg">
+  <img src="https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-08-01T18:11:07.835218-05:00.jpg"
+     alt="KMTV 3 News Now at 2022-08-01 18:11:09-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-08-01T18:11:07.835218-05:00.jpg">August 1 at 6:11 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-08-01T06:08:40.731642-05:00.jpg">
@@ -119,7 +128,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 6 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 7 Lighthouse audits with the Internet Archive.
 
 
 
@@ -127,6 +136,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 1 at 6:11 PM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-08-01T18:11:07.835218-05:00.lighthouse.json) |
 | [August 1 at 6:08 AM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-08-01T06:08:40.731642-05:00.lighthouse.json) |
 | [July 31 at 7:04 PM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-07-31T19:04:43.379897-05:00.lighthouse.json) |
 | [July 31 at 6:05 AM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-07-31T06:05:23.533626-05:00.lighthouse.json) |

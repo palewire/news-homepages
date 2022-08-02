@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 1 screenshots with the Internet Archive.
+The archiving routine has saved 3 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/heraldleader-2022/heraldleader-2022-08-01T14:11:48.598705-04:00.jpg">
+  <img src="https://archive.org/download/heraldleader-2022/heraldleader-2022-08-01T14:11:48.598705-04:00.jpg"
+     alt="Lexington Herald-Leader at 2022-08-01 14:11:50-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/heraldleader-2022/heraldleader-2022-08-01T14:11:48.598705-04:00.jpg">August 1 at 2:11 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/heraldleader-2022/heraldleader-2022-08-01T10:59:31.821034-04:00.jpg">
+  <img src="https://archive.org/download/heraldleader-2022/heraldleader-2022-08-01T10:59:31.821034-04:00.jpg"
+     alt="Lexington Herald-Leader at 2022-08-01 10:59:33-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/heraldleader-2022/heraldleader-2022-08-01T10:59:31.821034-04:00.jpg">August 1 at 10:59 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/heraldleader-2022/heraldleader-2022-08-01T02:41:55.246932-04:00.jpg">
@@ -41,7 +59,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 0 hyperlink lists with the Internet Archive.
+The archiving routine has saved 1 hyperlink lists with the Internet Archive.
 
 
 
@@ -49,11 +67,12 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 1 at 2:11 PM](https://archive.org/download/heraldleader-2022/heraldleader-2022-08-01T14:11:48.598705-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 1 accessibility trees with the Internet Archive.
+The archiving routine has saved 3 accessibility trees with the Internet Archive.
 
 
 
@@ -61,13 +80,15 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 1 at 2:11 PM](https://archive.org/download/heraldleader-2022/heraldleader-2022-08-01T14:11:48.598705-04:00.accessibility.json) |
+| [August 1 at 10:59 AM](https://archive.org/download/heraldleader-2022/heraldleader-2022-08-01T10:59:31.821034-04:00.accessibility.json) |
 | [August 1 at 2:42 AM](https://archive.org/download/heraldleader-2022/heraldleader-2022-08-01T02:41:55.246932-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 1 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 3 Lighthouse audits with the Internet Archive.
 
 
 
@@ -75,6 +96,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 1 at 2:11 PM](https://archive.org/download/heraldleader-2022/heraldleader-2022-08-01T14:11:48.598705-04:00.lighthouse.json) |
+| [August 1 at 10:59 AM](https://archive.org/download/heraldleader-2022/heraldleader-2022-08-01T10:59:31.821034-04:00.lighthouse.json) |
 | [August 1 at 2:42 AM](https://archive.org/download/heraldleader-2022/heraldleader-2022-08-01T02:41:55.246932-04:00.lighthouse.json) |
 
 

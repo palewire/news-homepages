@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 203 screenshots with the Internet Archive.
+The archiving routine has saved 204 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 203 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-08-01T10:14:00.363394-06:00.jpg">
+  <img src="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-08-01T10:14:00.363394-06:00.jpg"
+     alt="Santa Fe New Mexican at 2022-08-01 10:14:05-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-08-01T10:14:00.363394-06:00.jpg">August 1 at 10:14 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-31T22:00:59.441731-06:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-26T21:55:00.230683-06:00.jpg">July 26 at 9:55 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-26T09:48:15.609833-06:00.jpg">
-  <img src="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-26T09:48:15.609833-06:00.jpg"
-     alt="Santa Fe New Mexican at 2022-07-26 09:48:19-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-26T09:48:15.609833-06:00.jpg">July 26 at 9:48 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 187 hyperlink lists with the Internet Archive.
+The archiving routine has saved 188 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 1 at 10:14 AM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-08-01T10:14:00.363394-06:00.hyperlinks.json) |
 | [July 30 at 10:00 AM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-30T10:00:07.535434-06:00.hyperlinks.json) |
 | [July 28 at 9:54 AM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-28T09:54:54.068758-06:00.hyperlinks.json) |
 | [July 27 at 9:47 PM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-27T21:47:50.559944-06:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 25 at 9:59 PM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-25T21:59:28.032646-06:00.hyperlinks.json) |
 | [July 25 at 9:47 AM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-25T09:47:47.351149-06:00.hyperlinks.json) |
 | [July 24 at 10:37 PM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-24T22:36:51.428252-06:00.hyperlinks.json) |
-| [July 24 at 9:06 AM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-24T09:06:44.754730-06:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -434,7 +434,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 1 at 10:14 AM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-08-01T10:14:00.363394-06:00.lighthouse.json) |
 | [July 31 at 10:01 PM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-31T22:00:59.441731-06:00.lighthouse.json) |
 | [July 31 at 9:57 AM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-31T09:57:31.338419-06:00.lighthouse.json) |
 | [July 30 at 10:09 PM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-30T22:09:47.674114-06:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 28 at 9:51 PM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-28T21:51:41.075051-06:00.lighthouse.json) |
 | [July 28 at 9:55 AM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-28T09:54:54.068758-06:00.lighthouse.json) |
 | [July 27 at 9:48 PM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-27T21:47:50.559944-06:00.lighthouse.json) |
-| [July 27 at 9:49 AM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-27T09:49:09.111152-06:00.lighthouse.json) |
 
 
 

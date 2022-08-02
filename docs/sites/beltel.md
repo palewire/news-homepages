@@ -20,13 +20,105 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 30 screenshots with the Internet Archive.
+The archiving routine has saved 31 screenshots with the Internet Archive.
 
+
+  <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specScreenshots = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/screenshots/beltel.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/beltel-2022/beltel-2022-08-02T00:13:55.490012+01:00.jpg">
+  <img src="https://archive.org/download/beltel-2022/beltel-2022-08-02T00:13:55.490012+01:00.jpg"
+     alt="Belfast Telegraph at 2022-08-02 00:13:57+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/beltel-2022/beltel-2022-08-02T00:13:55.490012+01:00.jpg">August 2 at 12:13 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/beltel-2022/beltel-2022-08-01T12:11:40.280459+01:00.jpg">
@@ -127,27 +219,102 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/beltel-2022/beltel-2022-07-27T12:02:21.869027+01:00.jpg">July 27 at 12:02 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/beltel-2022/beltel-2022-07-27T00:03:57.184592+01:00.jpg">
-  <img src="https://archive.org/download/beltel-2022/beltel-2022-07-27T00:03:57.184592+01:00.jpg"
-     alt="Belfast Telegraph at 2022-07-27 00:03:59+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/beltel-2022/beltel-2022-07-27T00:03:57.184592+01:00.jpg">July 27 at 12:03 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 30 hyperlink lists with the Internet Archive.
+The archiving routine has saved 31 hyperlink lists with the Internet Archive.
 
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specHyperlinks = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/beltel.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 2 at 12:14 AM](https://archive.org/download/beltel-2022/beltel-2022-08-02T00:13:55.490012+01:00.hyperlinks.json) |
 | [August 1 at 12:11 PM](https://archive.org/download/beltel-2022/beltel-2022-08-01T12:11:40.280459+01:00.hyperlinks.json) |
 | [August 1 at 1:08 AM](https://archive.org/download/beltel-2022/beltel-2022-08-01T01:07:58.674296+01:00.hyperlinks.json) |
 | [July 31 at 12:07 PM](https://archive.org/download/beltel-2022/beltel-2022-07-31T12:07:28.996517+01:00.hyperlinks.json) |
@@ -157,19 +324,102 @@ Here are the 10 most recent hyperlink lists.
 | [July 29 at 12:04 PM](https://archive.org/download/beltel-2022/beltel-2022-07-29T12:04:22.238109+01:00.hyperlinks.json) |
 | [July 29 at 12:07 AM](https://archive.org/download/beltel-2022/beltel-2022-07-29T00:07:33.492586+01:00.hyperlinks.json) |
 | [July 28 at 12:05 PM](https://archive.org/download/beltel-2022/beltel-2022-07-28T12:05:45.273709+01:00.hyperlinks.json) |
-| [July 28 at 12:01 AM](https://archive.org/download/beltel-2022/beltel-2022-07-28T00:01:31.661825+01:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 30 accessibility trees with the Internet Archive.
+The archiving routine has saved 31 accessibility trees with the Internet Archive.
 
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/beltel.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 2 at 12:13 AM](https://archive.org/download/beltel-2022/beltel-2022-08-02T00:13:55.490012+01:00.accessibility.json) |
 | [August 1 at 12:11 PM](https://archive.org/download/beltel-2022/beltel-2022-08-01T12:11:40.280459+01:00.accessibility.json) |
 | [August 1 at 1:08 AM](https://archive.org/download/beltel-2022/beltel-2022-08-01T01:07:58.674296+01:00.accessibility.json) |
 | [July 31 at 12:07 PM](https://archive.org/download/beltel-2022/beltel-2022-07-31T12:07:28.996517+01:00.accessibility.json) |
@@ -179,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 29 at 12:04 PM](https://archive.org/download/beltel-2022/beltel-2022-07-29T12:04:22.238109+01:00.accessibility.json) |
 | [July 29 at 12:07 AM](https://archive.org/download/beltel-2022/beltel-2022-07-29T00:07:33.492586+01:00.accessibility.json) |
 | [July 28 at 12:05 PM](https://archive.org/download/beltel-2022/beltel-2022-07-28T12:05:45.273709+01:00.accessibility.json) |
-| [July 28 at 12:01 AM](https://archive.org/download/beltel-2022/beltel-2022-07-28T00:01:31.661825+01:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 19 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 2 at 12:14 AM](https://archive.org/download/beltel-2022/beltel-2022-08-02T00:13:55.490012+01:00.lighthouse.json) |
 | [August 1 at 12:11 PM](https://archive.org/download/beltel-2022/beltel-2022-08-01T12:11:40.280459+01:00.lighthouse.json) |
 | [August 1 at 1:08 AM](https://archive.org/download/beltel-2022/beltel-2022-08-01T01:07:58.674296+01:00.lighthouse.json) |
 | [July 31 at 12:07 PM](https://archive.org/download/beltel-2022/beltel-2022-07-31T12:07:28.996517+01:00.lighthouse.json) |
@@ -202,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 29 at 12:04 PM](https://archive.org/download/beltel-2022/beltel-2022-07-29T12:04:22.238109+01:00.lighthouse.json) |
 | [July 29 at 12:07 AM](https://archive.org/download/beltel-2022/beltel-2022-07-29T00:07:33.492586+01:00.lighthouse.json) |
 | [July 28 at 12:05 PM](https://archive.org/download/beltel-2022/beltel-2022-07-28T12:05:45.273709+01:00.lighthouse.json) |
-| [July 28 at 12:01 AM](https://archive.org/download/beltel-2022/beltel-2022-07-28T00:01:31.661825+01:00.lighthouse.json) |
 
 
 

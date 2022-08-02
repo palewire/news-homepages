@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 91 screenshots with the Internet Archive.
+The archiving routine has saved 93 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/reuters-2022/reuters-2022-08-01T20:42:37.418691-04:00.jpg">
+  <img src="https://archive.org/download/reuters-2022/reuters-2022-08-01T20:42:37.418691-04:00.jpg"
+     alt="Reuters at 2022-08-01 20:42:45-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/reuters-2022/reuters-2022-08-01T20:42:37.418691-04:00.jpg">August 1 at 8:42 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/reuters-2022/reuters-2022-08-01T08:29:36.516289-04:00.jpg">
+  <img src="https://archive.org/download/reuters-2022/reuters-2022-08-01T08:29:36.516289-04:00.jpg"
+     alt="Reuters at 2022-08-01 08:29:44-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/reuters-2022/reuters-2022-08-01T08:29:36.516289-04:00.jpg">August 1 at 8:29 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/reuters-2022/reuters-2022-07-31T20:25:00.168611-04:00.jpg">
   <img src="https://archive.org/download/reuters-2022/reuters-2022-07-31T20:25:00.168611-04:00.jpg"
      alt="Reuters at 2022-07-31 20:25:20-04:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/reuters-2022/reuters-2022-07-27T09:15:41.078895-04:00.jpg">July 27 at 9:15 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/reuters-2022/reuters-2022-07-26T20:19:14.735655-04:00.jpg">
-  <img src="https://archive.org/download/reuters-2022/reuters-2022-07-26T20:19:14.735655-04:00.jpg"
-     alt="Reuters at 2022-07-26 20:19:19-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/reuters-2022/reuters-2022-07-26T20:19:14.735655-04:00.jpg">July 26 at 8:19 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/reuters-2022/reuters-2022-07-26T08:29:01.520766-04:00.jpg">
-  <img src="https://archive.org/download/reuters-2022/reuters-2022-07-26T08:29:01.520766-04:00.jpg"
-     alt="Reuters at 2022-07-26 08:29:08-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/reuters-2022/reuters-2022-07-26T08:29:01.520766-04:00.jpg">July 26 at 8:29 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 87 hyperlink lists with the Internet Archive.
+The archiving routine has saved 89 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 1 at 8:42 PM](https://archive.org/download/reuters-2022/reuters-2022-08-01T20:42:37.418691-04:00.hyperlinks.json) |
+| [August 1 at 8:29 AM](https://archive.org/download/reuters-2022/reuters-2022-08-01T08:29:36.516289-04:00.hyperlinks.json) |
 | [July 31 at 8:25 PM](https://archive.org/download/reuters-2022/reuters-2022-07-31T20:25:00.168611-04:00.hyperlinks.json) |
 | [July 31 at 9:24 AM](https://archive.org/download/reuters-2022/reuters-2022-07-31T09:24:04.104769-04:00.hyperlinks.json) |
 | [July 30 at 8:33 PM](https://archive.org/download/reuters-2022/reuters-2022-07-30T20:33:37.902041-04:00.hyperlinks.json) |
@@ -322,13 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 29 at 8:24 AM](https://archive.org/download/reuters-2022/reuters-2022-07-29T08:24:24.338788-04:00.hyperlinks.json) |
 | [July 28 at 8:20 PM](https://archive.org/download/reuters-2022/reuters-2022-07-28T20:19:25.585076-04:00.hyperlinks.json) |
 | [July 28 at 9:18 AM](https://archive.org/download/reuters-2022/reuters-2022-07-28T09:18:07.913269-04:00.hyperlinks.json) |
-| [July 27 at 8:11 PM](https://archive.org/download/reuters-2022/reuters-2022-07-27T20:11:03.709202-04:00.hyperlinks.json) |
-| [July 27 at 9:15 AM](https://archive.org/download/reuters-2022/reuters-2022-07-27T09:15:41.078895-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 89 accessibility trees with the Internet Archive.
+The archiving routine has saved 91 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 1 at 8:42 PM](https://archive.org/download/reuters-2022/reuters-2022-08-01T20:42:37.418691-04:00.accessibility.json) |
+| [August 1 at 8:29 AM](https://archive.org/download/reuters-2022/reuters-2022-08-01T08:29:36.516289-04:00.accessibility.json) |
 | [July 31 at 8:25 PM](https://archive.org/download/reuters-2022/reuters-2022-07-31T20:25:00.168611-04:00.accessibility.json) |
 | [July 31 at 9:24 AM](https://archive.org/download/reuters-2022/reuters-2022-07-31T09:24:04.104769-04:00.accessibility.json) |
 | [July 30 at 8:33 PM](https://archive.org/download/reuters-2022/reuters-2022-07-30T20:33:37.902041-04:00.accessibility.json) |
@@ -427,14 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 29 at 8:24 AM](https://archive.org/download/reuters-2022/reuters-2022-07-29T08:24:24.338788-04:00.accessibility.json) |
 | [July 28 at 8:19 PM](https://archive.org/download/reuters-2022/reuters-2022-07-28T20:19:25.585076-04:00.accessibility.json) |
 | [July 28 at 9:18 AM](https://archive.org/download/reuters-2022/reuters-2022-07-28T09:18:07.913269-04:00.accessibility.json) |
-| [July 27 at 8:11 PM](https://archive.org/download/reuters-2022/reuters-2022-07-27T20:11:03.709202-04:00.accessibility.json) |
-| [July 27 at 9:15 AM](https://archive.org/download/reuters-2022/reuters-2022-07-27T09:15:41.078895-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 19 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 1 at 8:42 PM](https://archive.org/download/reuters-2022/reuters-2022-08-01T20:42:37.418691-04:00.lighthouse.json) |
+| [August 1 at 8:29 AM](https://archive.org/download/reuters-2022/reuters-2022-08-01T08:29:36.516289-04:00.lighthouse.json) |
 | [July 31 at 8:25 PM](https://archive.org/download/reuters-2022/reuters-2022-07-31T20:25:00.168611-04:00.lighthouse.json) |
 | [July 31 at 9:24 AM](https://archive.org/download/reuters-2022/reuters-2022-07-31T09:24:04.104769-04:00.lighthouse.json) |
 | [July 30 at 8:33 PM](https://archive.org/download/reuters-2022/reuters-2022-07-30T20:33:37.902041-04:00.lighthouse.json) |
@@ -450,8 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 29 at 8:24 AM](https://archive.org/download/reuters-2022/reuters-2022-07-29T08:24:24.338788-04:00.lighthouse.json) |
 | [July 28 at 8:20 PM](https://archive.org/download/reuters-2022/reuters-2022-07-28T20:19:25.585076-04:00.lighthouse.json) |
 | [July 28 at 9:18 AM](https://archive.org/download/reuters-2022/reuters-2022-07-28T09:18:07.913269-04:00.lighthouse.json) |
-| [July 27 at 8:11 PM](https://archive.org/download/reuters-2022/reuters-2022-07-27T20:11:03.709202-04:00.lighthouse.json) |
-| [July 27 at 9:15 AM](https://archive.org/download/reuters-2022/reuters-2022-07-27T09:15:41.078895-04:00.lighthouse.json) |
 
 
 

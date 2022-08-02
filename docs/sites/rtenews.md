@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 29 screenshots with the Internet Archive.
+The archiving routine has saved 30 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rtenews-2022/rtenews-2022-08-01T17:09:39.953157+01:00.jpg">
+  <img src="https://archive.org/download/rtenews-2022/rtenews-2022-08-01T17:09:39.953157+01:00.jpg"
+     alt="RTE at 2022-08-01 17:09:41+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rtenews-2022/rtenews-2022-08-01T17:09:39.953157+01:00.jpg">August 1 at 5:09 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rtenews-2022/rtenews-2022-08-01T04:58:06.908728+01:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/rtenews-2022/rtenews-2022-07-27T04:55:35.965110+01:00.jpg">July 27 at 4:55 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/rtenews-2022/rtenews-2022-07-26T16:45:20.566386+01:00.jpg">
-  <img src="https://archive.org/download/rtenews-2022/rtenews-2022-07-26T16:45:20.566386+01:00.jpg"
-     alt="RTE at 2022-07-26 16:45:21+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rtenews-2022/rtenews-2022-07-26T16:45:20.566386+01:00.jpg">July 26 at 4:45 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 29 hyperlink lists with the Internet Archive.
+The archiving routine has saved 30 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 1 at 5:09 PM](https://archive.org/download/rtenews-2022/rtenews-2022-08-01T17:09:39.953157+01:00.hyperlinks.json) |
 | [August 1 at 4:58 AM](https://archive.org/download/rtenews-2022/rtenews-2022-08-01T04:58:06.908728+01:00.hyperlinks.json) |
 | [July 31 at 4:54 PM](https://archive.org/download/rtenews-2022/rtenews-2022-07-31T16:54:45.524344+01:00.hyperlinks.json) |
 | [July 31 at 5:06 AM](https://archive.org/download/rtenews-2022/rtenews-2022-07-31T05:06:18.351321+01:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 29 at 4:49 AM](https://archive.org/download/rtenews-2022/rtenews-2022-07-29T04:49:01.910942+01:00.hyperlinks.json) |
 | [July 28 at 4:52 PM](https://archive.org/download/rtenews-2022/rtenews-2022-07-28T16:52:09.892400+01:00.hyperlinks.json) |
 | [July 28 at 4:45 AM](https://archive.org/download/rtenews-2022/rtenews-2022-07-28T04:45:07.653439+01:00.hyperlinks.json) |
-| [July 27 at 4:45 PM](https://archive.org/download/rtenews-2022/rtenews-2022-07-27T16:45:45.062308+01:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 29 accessibility trees with the Internet Archive.
+The archiving routine has saved 30 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 1 at 5:09 PM](https://archive.org/download/rtenews-2022/rtenews-2022-08-01T17:09:39.953157+01:00.accessibility.json) |
 | [August 1 at 4:58 AM](https://archive.org/download/rtenews-2022/rtenews-2022-08-01T04:58:06.908728+01:00.accessibility.json) |
 | [July 31 at 4:54 PM](https://archive.org/download/rtenews-2022/rtenews-2022-07-31T16:54:45.524344+01:00.accessibility.json) |
 | [July 31 at 5:06 AM](https://archive.org/download/rtenews-2022/rtenews-2022-07-31T05:06:18.351321+01:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [July 29 at 4:49 AM](https://archive.org/download/rtenews-2022/rtenews-2022-07-29T04:49:01.910942+01:00.accessibility.json) |
 | [July 28 at 4:52 PM](https://archive.org/download/rtenews-2022/rtenews-2022-07-28T16:52:09.892400+01:00.accessibility.json) |
 | [July 28 at 4:45 AM](https://archive.org/download/rtenews-2022/rtenews-2022-07-28T04:45:07.653439+01:00.accessibility.json) |
-| [July 27 at 4:45 PM](https://archive.org/download/rtenews-2022/rtenews-2022-07-27T16:45:45.062308+01:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 1 at 5:09 PM](https://archive.org/download/rtenews-2022/rtenews-2022-08-01T17:09:39.953157+01:00.lighthouse.json) |
 | [August 1 at 4:58 AM](https://archive.org/download/rtenews-2022/rtenews-2022-08-01T04:58:06.908728+01:00.lighthouse.json) |
 | [July 31 at 4:54 PM](https://archive.org/download/rtenews-2022/rtenews-2022-07-31T16:54:45.524344+01:00.lighthouse.json) |
 | [July 31 at 5:06 AM](https://archive.org/download/rtenews-2022/rtenews-2022-07-31T05:06:18.351321+01:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 29 at 4:49 AM](https://archive.org/download/rtenews-2022/rtenews-2022-07-29T04:49:01.910942+01:00.lighthouse.json) |
 | [July 28 at 4:52 PM](https://archive.org/download/rtenews-2022/rtenews-2022-07-28T16:52:09.892400+01:00.lighthouse.json) |
 | [July 28 at 4:45 AM](https://archive.org/download/rtenews-2022/rtenews-2022-07-28T04:45:07.653439+01:00.lighthouse.json) |
-| [July 27 at 4:45 PM](https://archive.org/download/rtenews-2022/rtenews-2022-07-27T16:45:45.062308+01:00.lighthouse.json) |
 
 
 

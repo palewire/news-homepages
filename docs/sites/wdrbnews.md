@@ -54,7 +54,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 1 accessibility trees with the Internet Archive.
+The archiving routine has saved 2 accessibility trees with the Internet Archive.
 
 
 
@@ -62,13 +62,14 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 1 at 10:53 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-08-01T10:53:19.204630-04:00.accessibility.json) |
 | [August 1 at 2:42 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-08-01T02:41:49.686869-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 1 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 2 Lighthouse audits with the Internet Archive.
 
 
 
@@ -76,6 +77,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 1 at 10:53 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-08-01T10:53:19.204630-04:00.lighthouse.json) |
 | [August 1 at 2:42 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-08-01T02:41:49.686869-04:00.lighthouse.json) |
 
 

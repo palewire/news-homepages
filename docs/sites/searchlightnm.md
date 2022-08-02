@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 113 screenshots with the Internet Archive.
+The archiving routine has saved 115 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-01T18:44:19.060871-06:00.jpg">
+  <img src="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-01T18:44:19.060871-06:00.jpg"
+     alt="Searchlight New Mexico at 2022-08-01 18:44:22-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-01T18:44:19.060871-06:00.jpg">August 1 at 6:44 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-01T06:30:36.441516-06:00.jpg">
+  <img src="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-01T06:30:36.441516-06:00.jpg"
+     alt="Searchlight New Mexico at 2022-08-01 06:30:37-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-01T06:30:36.441516-06:00.jpg">August 1 at 6:30 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-31T18:25:03.415522-06:00.jpg">
   <img src="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-31T18:25:03.415522-06:00.jpg"
      alt="Searchlight New Mexico at 2022-07-31 18:25:04-06:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-27T07:15:22.548115-06:00.jpg">July 27 at 7:15 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-26T18:19:59.841419-06:00.jpg">
-  <img src="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-26T18:19:59.841419-06:00.jpg"
-     alt="Searchlight New Mexico at 2022-07-26 18:20:04-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-26T18:19:59.841419-06:00.jpg">July 26 at 6:20 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-26T07:28:29.099333-06:00.jpg">
-  <img src="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-26T07:28:29.099333-06:00.jpg"
-     alt="Searchlight New Mexico at 2022-07-26 07:28:40-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-26T07:28:29.099333-06:00.jpg">July 26 at 7:28 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 113 hyperlink lists with the Internet Archive.
+The archiving routine has saved 115 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 1 at 6:44 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-01T18:44:19.060871-06:00.hyperlinks.json) |
+| [August 1 at 6:30 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-01T06:30:36.441516-06:00.hyperlinks.json) |
 | [July 31 at 6:25 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-31T18:25:03.415522-06:00.hyperlinks.json) |
 | [July 31 at 7:25 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-31T07:25:09.484531-06:00.hyperlinks.json) |
 | [July 30 at 6:34 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-30T18:34:46.363366-06:00.hyperlinks.json) |
@@ -322,13 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 29 at 6:24 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-29T06:24:27.939022-06:00.hyperlinks.json) |
 | [July 28 at 6:21 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-28T18:20:28.035105-06:00.hyperlinks.json) |
 | [July 28 at 7:18 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-28T07:18:37.185213-06:00.hyperlinks.json) |
-| [July 27 at 6:12 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-27T18:12:08.436055-06:00.hyperlinks.json) |
-| [July 27 at 7:15 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-27T07:15:22.548115-06:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 113 accessibility trees with the Internet Archive.
+The archiving routine has saved 115 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 1 at 6:44 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-01T18:44:19.060871-06:00.accessibility.json) |
+| [August 1 at 6:30 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-01T06:30:36.441516-06:00.accessibility.json) |
 | [July 31 at 6:25 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-31T18:25:03.415522-06:00.accessibility.json) |
 | [July 31 at 7:25 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-31T07:25:09.484531-06:00.accessibility.json) |
 | [July 30 at 6:34 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-30T18:34:46.363366-06:00.accessibility.json) |
@@ -427,14 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 29 at 6:24 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-29T06:24:27.939022-06:00.accessibility.json) |
 | [July 28 at 6:20 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-28T18:20:28.035105-06:00.accessibility.json) |
 | [July 28 at 7:18 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-28T07:18:37.185213-06:00.accessibility.json) |
-| [July 27 at 6:12 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-27T18:12:08.436055-06:00.accessibility.json) |
-| [July 27 at 7:15 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-27T07:15:22.548115-06:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 20 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 1 at 6:44 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-01T18:44:19.060871-06:00.lighthouse.json) |
+| [August 1 at 6:30 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-01T06:30:36.441516-06:00.lighthouse.json) |
 | [July 31 at 6:25 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-31T18:25:03.415522-06:00.lighthouse.json) |
 | [July 31 at 7:25 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-31T07:25:09.484531-06:00.lighthouse.json) |
 | [July 30 at 6:34 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-30T18:34:46.363366-06:00.lighthouse.json) |
@@ -450,8 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 29 at 6:24 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-29T06:24:27.939022-06:00.lighthouse.json) |
 | [July 28 at 6:21 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-28T18:20:28.035105-06:00.lighthouse.json) |
 | [July 28 at 7:18 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-28T07:18:37.185213-06:00.lighthouse.json) |
-| [July 27 at 6:12 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-27T18:12:08.436055-06:00.lighthouse.json) |
-| [July 27 at 7:15 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-07-27T07:15:22.548115-06:00.lighthouse.json) |
 
 
 

@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 18 screenshots with the Internet Archive.
+The archiving routine has saved 20 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newsmax-2022/newsmax-2022-08-01T14:39:14.736901-04:00.jpg">
+  <img src="https://archive.org/download/newsmax-2022/newsmax-2022-08-01T14:39:14.736901-04:00.jpg"
+     alt="Newsmax at 2022-08-01 14:39:16-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newsmax-2022/newsmax-2022-08-01T14:39:14.736901-04:00.jpg">August 1 at 2:39 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newsmax-2022/newsmax-2022-08-01T11:05:16.453217-04:00.jpg">
+  <img src="https://archive.org/download/newsmax-2022/newsmax-2022-08-01T11:05:16.453217-04:00.jpg"
+     alt="Newsmax at 2022-08-01 11:05:18-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newsmax-2022/newsmax-2022-08-01T11:05:16.453217-04:00.jpg">August 1 at 11:05 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsmax-2022/newsmax-2022-07-31T22:41:12.356781-04:00.jpg">
@@ -118,29 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/newsmax-2022/newsmax-2022-07-28T22:41:21.886689-04:00.jpg">July 28 at 10:41 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/newsmax-2022/newsmax-2022-07-28T14:42:59.876086-04:00.jpg">
-  <img src="https://archive.org/download/newsmax-2022/newsmax-2022-07-28T14:42:59.876086-04:00.jpg"
-     alt="Newsmax at 2022-07-28 14:43:01-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newsmax-2022/newsmax-2022-07-28T14:42:59.876086-04:00.jpg">July 28 at 2:43 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/newsmax-2022/newsmax-2022-07-28T11:46:48.720946-04:00.jpg">
-  <img src="https://archive.org/download/newsmax-2022/newsmax-2022-07-28T11:46:48.720946-04:00.jpg"
-     alt="Newsmax at 2022-07-28 11:46:50-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newsmax-2022/newsmax-2022-07-28T11:46:48.720946-04:00.jpg">July 28 at 11:46 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 18 hyperlink lists with the Internet Archive.
+The archiving routine has saved 20 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 1 at 2:39 PM](https://archive.org/download/newsmax-2022/newsmax-2022-08-01T14:39:14.736901-04:00.hyperlinks.json) |
+| [August 1 at 11:05 AM](https://archive.org/download/newsmax-2022/newsmax-2022-08-01T11:05:16.453217-04:00.hyperlinks.json) |
 | [July 31 at 10:41 PM](https://archive.org/download/newsmax-2022/newsmax-2022-07-31T22:41:12.356781-04:00.hyperlinks.json) |
 | [July 31 at 2:39 PM](https://archive.org/download/newsmax-2022/newsmax-2022-07-31T14:39:03.996634-04:00.hyperlinks.json) |
 | [July 31 at 10:43 AM](https://archive.org/download/newsmax-2022/newsmax-2022-07-31T10:43:02.187613-04:00.hyperlinks.json) |
@@ -156,13 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 30 at 11:45 AM](https://archive.org/download/newsmax-2022/newsmax-2022-07-30T11:45:45.533705-04:00.hyperlinks.json) |
 | [July 29 at 10:46 PM](https://archive.org/download/newsmax-2022/newsmax-2022-07-29T22:46:07.889346-04:00.hyperlinks.json) |
 | [July 29 at 2:35 PM](https://archive.org/download/newsmax-2022/newsmax-2022-07-29T14:35:01.511427-04:00.hyperlinks.json) |
-| [July 29 at 10:45 AM](https://archive.org/download/newsmax-2022/newsmax-2022-07-29T10:45:49.470111-04:00.hyperlinks.json) |
-| [July 28 at 10:41 PM](https://archive.org/download/newsmax-2022/newsmax-2022-07-28T22:41:21.886689-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 18 accessibility trees with the Internet Archive.
+The archiving routine has saved 20 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 1 at 2:39 PM](https://archive.org/download/newsmax-2022/newsmax-2022-08-01T14:39:14.736901-04:00.accessibility.json) |
+| [August 1 at 11:05 AM](https://archive.org/download/newsmax-2022/newsmax-2022-08-01T11:05:16.453217-04:00.accessibility.json) |
 | [July 31 at 10:41 PM](https://archive.org/download/newsmax-2022/newsmax-2022-07-31T22:41:12.356781-04:00.accessibility.json) |
 | [July 31 at 2:39 PM](https://archive.org/download/newsmax-2022/newsmax-2022-07-31T14:39:03.996634-04:00.accessibility.json) |
 | [July 31 at 10:43 AM](https://archive.org/download/newsmax-2022/newsmax-2022-07-31T10:43:02.187613-04:00.accessibility.json) |
@@ -178,14 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [July 30 at 11:45 AM](https://archive.org/download/newsmax-2022/newsmax-2022-07-30T11:45:45.533705-04:00.accessibility.json) |
 | [July 29 at 10:46 PM](https://archive.org/download/newsmax-2022/newsmax-2022-07-29T22:46:07.889346-04:00.accessibility.json) |
 | [July 29 at 2:35 PM](https://archive.org/download/newsmax-2022/newsmax-2022-07-29T14:35:01.511427-04:00.accessibility.json) |
-| [July 29 at 10:45 AM](https://archive.org/download/newsmax-2022/newsmax-2022-07-29T10:45:49.470111-04:00.accessibility.json) |
-| [July 28 at 10:41 PM](https://archive.org/download/newsmax-2022/newsmax-2022-07-28T22:41:21.886689-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 20 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 1 at 2:39 PM](https://archive.org/download/newsmax-2022/newsmax-2022-08-01T14:39:14.736901-04:00.lighthouse.json) |
+| [August 1 at 11:05 AM](https://archive.org/download/newsmax-2022/newsmax-2022-08-01T11:05:16.453217-04:00.lighthouse.json) |
 | [July 31 at 10:41 PM](https://archive.org/download/newsmax-2022/newsmax-2022-07-31T22:41:12.356781-04:00.lighthouse.json) |
 | [July 31 at 2:39 PM](https://archive.org/download/newsmax-2022/newsmax-2022-07-31T14:39:03.996634-04:00.lighthouse.json) |
 | [July 31 at 10:43 AM](https://archive.org/download/newsmax-2022/newsmax-2022-07-31T10:43:02.187613-04:00.lighthouse.json) |
@@ -201,8 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 30 at 11:45 AM](https://archive.org/download/newsmax-2022/newsmax-2022-07-30T11:45:45.533705-04:00.lighthouse.json) |
 | [July 29 at 10:46 PM](https://archive.org/download/newsmax-2022/newsmax-2022-07-29T22:46:07.889346-04:00.lighthouse.json) |
 | [July 29 at 2:35 PM](https://archive.org/download/newsmax-2022/newsmax-2022-07-29T14:35:01.511427-04:00.lighthouse.json) |
-| [July 29 at 10:45 AM](https://archive.org/download/newsmax-2022/newsmax-2022-07-29T10:45:49.470111-04:00.lighthouse.json) |
-| [July 28 at 10:41 PM](https://archive.org/download/newsmax-2022/newsmax-2022-07-28T22:41:21.886689-04:00.lighthouse.json) |
 
 
 

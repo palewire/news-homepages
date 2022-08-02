@@ -140,7 +140,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 22 hyperlink lists with the Internet Archive.
+The archiving routine has saved 23 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 1 at 12:16 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-01T12:16:47.365429-04:00.hyperlinks.json) |
 | [August 1 at 12:03 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-01T00:03:20.017951-04:00.hyperlinks.json) |
 | [July 31 at 12:00 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-07-31T12:00:29.834144-04:00.hyperlinks.json) |
 | [July 30 at 12:03 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-07-30T12:03:02.504037-04:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 28 at 11:57 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-07-28T11:57:20.528413-04:00.hyperlinks.json) |
 | [July 27 at 11:51 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-07-27T23:51:10.973586-04:00.hyperlinks.json) |
 | [July 27 at 11:52 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-07-27T11:52:16.002889-04:00.hyperlinks.json) |
-| [July 26 at 11:59 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-07-26T23:59:30.288038-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 22 accessibility trees with the Internet Archive.
+The archiving routine has saved 23 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 1 at 12:16 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-01T12:16:47.365429-04:00.accessibility.json) |
 | [August 1 at 12:03 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-01T00:03:20.017951-04:00.accessibility.json) |
 | [July 31 at 12:00 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-07-31T12:00:29.834144-04:00.accessibility.json) |
 | [July 31 at 12:12 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-07-31T00:12:08.989155-04:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [July 28 at 11:53 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-07-28T23:53:40.631152-04:00.accessibility.json) |
 | [July 28 at 11:57 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-07-28T11:57:20.528413-04:00.accessibility.json) |
 | [July 27 at 11:51 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-07-27T23:51:10.973586-04:00.accessibility.json) |
-| [July 27 at 11:52 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-07-27T11:52:16.002889-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 1 at 12:16 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-01T12:16:47.365429-04:00.lighthouse.json) |
 | [August 1 at 12:03 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-01T00:03:20.017951-04:00.lighthouse.json) |
 | [July 31 at 12:00 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-07-31T12:00:29.834144-04:00.lighthouse.json) |
 | [July 31 at 12:12 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-07-31T00:12:08.989155-04:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 28 at 11:53 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-07-28T23:53:40.631152-04:00.lighthouse.json) |
 | [July 28 at 11:57 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-07-28T11:57:20.528413-04:00.lighthouse.json) |
 | [July 27 at 11:51 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-07-27T23:51:10.973586-04:00.lighthouse.json) |
-| [July 27 at 11:52 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-07-27T11:52:16.002889-04:00.lighthouse.json) |
 
 
 

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 79 screenshots with the Internet Archive.
+The archiving routine has saved 80 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 79 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-01T15:54:50.539167+01:00.jpg">
+  <img src="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-01T15:54:50.539167+01:00.jpg"
+     alt="Daily Mirror at 2022-08-01 15:54:58+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-01T15:54:50.539167+01:00.jpg">August 1 at 3:54 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-01T10:10:19.113170+01:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-07-29T03:33:21.644022+01:00.jpg">July 29 at 3:33 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-07-28T16:36:05.777108+01:00.jpg">
-  <img src="https://archive.org/download/dailymirror-2022/dailymirror-2022-07-28T16:36:05.777108+01:00.jpg"
-     alt="Daily Mirror at 2022-07-28 16:36:07+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-07-28T16:36:05.777108+01:00.jpg">July 28 at 4:36 PM</a></p>
 </div>
 
 </div>
@@ -328,7 +328,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 79 accessibility trees with the Internet Archive.
+The archiving routine has saved 80 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 1 at 3:55 PM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-01T15:54:50.539167+01:00.accessibility.json) |
 | [August 1 at 10:10 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-01T10:10:19.113170+01:00.accessibility.json) |
 | [August 1 at 3:32 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-01T03:32:30.767256+01:00.accessibility.json) |
 | [July 31 at 3:33 PM](https://archive.org/download/dailymirror-2022/dailymirror-2022-07-31T15:33:38.650024+01:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 30 at 10:09 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-07-30T10:09:14.571090+01:00.accessibility.json) |
 | [July 30 at 3:35 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-07-30T03:35:36.565498+01:00.accessibility.json) |
 | [July 29 at 3:37 PM](https://archive.org/download/dailymirror-2022/dailymirror-2022-07-29T15:37:12.815069+01:00.accessibility.json) |
-| [July 29 at 10:09 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-07-29T10:08:57.431820+01:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 26 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 1 at 3:55 PM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-01T15:54:50.539167+01:00.lighthouse.json) |
 | [August 1 at 10:10 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-01T10:10:19.113170+01:00.lighthouse.json) |
 | [August 1 at 3:32 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-01T03:32:30.767256+01:00.lighthouse.json) |
 | [July 31 at 3:33 PM](https://archive.org/download/dailymirror-2022/dailymirror-2022-07-31T15:33:38.650024+01:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 30 at 10:09 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-07-30T10:09:14.571090+01:00.lighthouse.json) |
 | [July 30 at 3:35 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-07-30T03:35:36.565498+01:00.lighthouse.json) |
 | [July 29 at 3:37 PM](https://archive.org/download/dailymirror-2022/dailymirror-2022-07-29T15:37:12.815069+01:00.lighthouse.json) |
-| [July 29 at 10:09 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-07-29T10:08:57.431820+01:00.lighthouse.json) |
 
 
 

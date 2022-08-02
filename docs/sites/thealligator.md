@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 92 screenshots with the Internet Archive.
+The archiving routine has saved 93 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 92 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thealligator-2022/thealligator-2022-08-01T10:48:48.167327-04:00.jpg">
+  <img src="https://archive.org/download/thealligator-2022/thealligator-2022-08-01T10:48:48.167327-04:00.jpg"
+     alt="Alligator at 2022-08-01 10:48:50-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-08-01T10:48:48.167327-04:00.jpg">August 1 at 10:48 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-31T21:27:20.139602-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-26T21:27:45.454182-04:00.jpg">July 26 at 9:27 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-26T09:29:40.516893-04:00.jpg">
-  <img src="https://archive.org/download/thealligator-2022/thealligator-2022-07-26T09:29:40.516893-04:00.jpg"
-     alt="Alligator at 2022-07-26 09:29:42-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-26T09:29:40.516893-04:00.jpg">July 26 at 9:29 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 89 hyperlink lists with the Internet Archive.
+The archiving routine has saved 90 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 1 at 10:48 AM](https://archive.org/download/thealligator-2022/thealligator-2022-08-01T10:48:48.167327-04:00.hyperlinks.json) |
 | [July 31 at 9:27 PM](https://archive.org/download/thealligator-2022/thealligator-2022-07-31T21:27:20.139602-04:00.hyperlinks.json) |
 | [July 31 at 9:32 AM](https://archive.org/download/thealligator-2022/thealligator-2022-07-31T09:32:20.111570-04:00.hyperlinks.json) |
 | [July 30 at 10:47 PM](https://archive.org/download/thealligator-2022/thealligator-2022-07-30T22:46:55.458554-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 28 at 9:26 PM](https://archive.org/download/thealligator-2022/thealligator-2022-07-28T21:26:35.879304-04:00.hyperlinks.json) |
 | [July 28 at 9:25 AM](https://archive.org/download/thealligator-2022/thealligator-2022-07-28T09:25:01.457246-04:00.hyperlinks.json) |
 | [July 27 at 9:31 PM](https://archive.org/download/thealligator-2022/thealligator-2022-07-27T21:31:29.973232-04:00.hyperlinks.json) |
-| [July 27 at 9:22 AM](https://archive.org/download/thealligator-2022/thealligator-2022-07-27T09:21:57.264565-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 90 accessibility trees with the Internet Archive.
+The archiving routine has saved 91 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 1 at 10:48 AM](https://archive.org/download/thealligator-2022/thealligator-2022-08-01T10:48:48.167327-04:00.accessibility.json) |
 | [July 31 at 9:27 PM](https://archive.org/download/thealligator-2022/thealligator-2022-07-31T21:27:20.139602-04:00.accessibility.json) |
 | [July 31 at 9:32 AM](https://archive.org/download/thealligator-2022/thealligator-2022-07-31T09:32:20.111570-04:00.accessibility.json) |
 | [July 30 at 10:47 PM](https://archive.org/download/thealligator-2022/thealligator-2022-07-30T22:46:55.458554-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 28 at 9:26 PM](https://archive.org/download/thealligator-2022/thealligator-2022-07-28T21:26:35.879304-04:00.accessibility.json) |
 | [July 28 at 9:25 AM](https://archive.org/download/thealligator-2022/thealligator-2022-07-28T09:25:01.457246-04:00.accessibility.json) |
 | [July 27 at 9:31 PM](https://archive.org/download/thealligator-2022/thealligator-2022-07-27T21:31:29.973232-04:00.accessibility.json) |
-| [July 27 at 9:22 AM](https://archive.org/download/thealligator-2022/thealligator-2022-07-27T09:21:57.264565-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 1 at 10:48 AM](https://archive.org/download/thealligator-2022/thealligator-2022-08-01T10:48:48.167327-04:00.lighthouse.json) |
 | [July 31 at 9:27 PM](https://archive.org/download/thealligator-2022/thealligator-2022-07-31T21:27:20.139602-04:00.lighthouse.json) |
 | [July 31 at 9:32 AM](https://archive.org/download/thealligator-2022/thealligator-2022-07-31T09:32:20.111570-04:00.lighthouse.json) |
 | [July 30 at 10:47 PM](https://archive.org/download/thealligator-2022/thealligator-2022-07-30T22:46:55.458554-04:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 28 at 9:26 PM](https://archive.org/download/thealligator-2022/thealligator-2022-07-28T21:26:35.879304-04:00.lighthouse.json) |
 | [July 28 at 9:25 AM](https://archive.org/download/thealligator-2022/thealligator-2022-07-28T09:25:01.457246-04:00.lighthouse.json) |
 | [July 27 at 9:31 PM](https://archive.org/download/thealligator-2022/thealligator-2022-07-27T21:31:29.973232-04:00.lighthouse.json) |
-| [July 27 at 9:22 AM](https://archive.org/download/thealligator-2022/thealligator-2022-07-27T09:21:57.264565-04:00.lighthouse.json) |
 
 
 

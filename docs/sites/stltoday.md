@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 88 screenshots with the Internet Archive.
+The archiving routine has saved 89 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 88 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/stltoday-2022/stltoday-2022-08-01T11:11:23.223818-05:00.jpg">
+  <img src="https://archive.org/download/stltoday-2022/stltoday-2022-08-01T11:11:23.223818-05:00.jpg"
+     alt="St. Louis Post-Dispatch at 2022-08-01 11:11:26-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/stltoday-2022/stltoday-2022-08-01T11:11:23.223818-05:00.jpg">August 1 at 11:11 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/stltoday-2022/stltoday-2022-07-31T23:00:00.216882-05:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/stltoday-2022/stltoday-2022-07-26T22:55:32.095293-05:00.jpg">July 26 at 10:55 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/stltoday-2022/stltoday-2022-07-26T10:46:31.240648-05:00.jpg">
-  <img src="https://archive.org/download/stltoday-2022/stltoday-2022-07-26T10:46:31.240648-05:00.jpg"
-     alt="St. Louis Post-Dispatch at 2022-07-26 10:46:32-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/stltoday-2022/stltoday-2022-07-26T10:46:31.240648-05:00.jpg">July 26 at 10:46 AM</a></p>
 </div>
 
 </div>
@@ -328,7 +328,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 78 accessibility trees with the Internet Archive.
+The archiving routine has saved 79 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 1 at 11:11 AM](https://archive.org/download/stltoday-2022/stltoday-2022-08-01T11:11:23.223818-05:00.accessibility.json) |
 | [July 31 at 11:00 PM](https://archive.org/download/stltoday-2022/stltoday-2022-07-31T23:00:00.216882-05:00.accessibility.json) |
 | [July 31 at 10:56 AM](https://archive.org/download/stltoday-2022/stltoday-2022-07-31T10:56:08.790185-05:00.accessibility.json) |
 | [July 30 at 11:08 PM](https://archive.org/download/stltoday-2022/stltoday-2022-07-30T23:08:23.355916-05:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 28 at 10:50 PM](https://archive.org/download/stltoday-2022/stltoday-2022-07-28T22:50:15.300360-05:00.accessibility.json) |
 | [July 28 at 10:53 AM](https://archive.org/download/stltoday-2022/stltoday-2022-07-28T10:53:18.916373-05:00.accessibility.json) |
 | [July 27 at 10:45 PM](https://archive.org/download/stltoday-2022/stltoday-2022-07-27T22:45:48.478638-05:00.accessibility.json) |
-| [July 27 at 10:48 AM](https://archive.org/download/stltoday-2022/stltoday-2022-07-27T10:48:13.210560-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 1 at 11:11 AM](https://archive.org/download/stltoday-2022/stltoday-2022-08-01T11:11:23.223818-05:00.lighthouse.json) |
 | [July 31 at 11:00 PM](https://archive.org/download/stltoday-2022/stltoday-2022-07-31T23:00:00.216882-05:00.lighthouse.json) |
 | [July 31 at 10:56 AM](https://archive.org/download/stltoday-2022/stltoday-2022-07-31T10:56:08.790185-05:00.lighthouse.json) |
 | [July 30 at 11:08 PM](https://archive.org/download/stltoday-2022/stltoday-2022-07-30T23:08:23.355916-05:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 28 at 10:50 PM](https://archive.org/download/stltoday-2022/stltoday-2022-07-28T22:50:15.300360-05:00.lighthouse.json) |
 | [July 28 at 10:53 AM](https://archive.org/download/stltoday-2022/stltoday-2022-07-28T10:53:18.916373-05:00.lighthouse.json) |
 | [July 27 at 10:45 PM](https://archive.org/download/stltoday-2022/stltoday-2022-07-27T22:45:48.478638-05:00.lighthouse.json) |
-| [July 27 at 10:48 AM](https://archive.org/download/stltoday-2022/stltoday-2022-07-27T10:48:13.210560-05:00.lighthouse.json) |
 
 
 

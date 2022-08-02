@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 85 screenshots with the Internet Archive.
+The archiving routine has saved 86 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 85 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-08-01T05:29:06.907412-07:00.jpg">
+  <img src="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-08-01T05:29:06.907412-07:00.jpg"
+     alt="Point Reyes Light at 2022-08-01 05:29:10-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-08-01T05:29:06.907412-07:00.jpg">August 1 at 5:29 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-07-31T17:24:01.033741-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-07-26T17:18:25.707233-07:00.jpg">July 26 at 5:18 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-07-26T05:28:50.713785-07:00.jpg">
-  <img src="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-07-26T05:28:50.713785-07:00.jpg"
-     alt="Point Reyes Light at 2022-07-26 05:28:52-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-07-26T05:28:50.713785-07:00.jpg">July 26 at 5:28 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 85 hyperlink lists with the Internet Archive.
+The archiving routine has saved 86 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 1 at 5:29 AM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-08-01T05:29:06.907412-07:00.hyperlinks.json) |
 | [July 31 at 5:24 PM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-07-31T17:24:01.033741-07:00.hyperlinks.json) |
 | [July 31 at 6:22 AM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-07-31T06:22:46.104746-07:00.hyperlinks.json) |
 | [July 30 at 5:33 PM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-07-30T17:33:40.727342-07:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 28 at 5:18 PM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-07-28T17:18:43.040273-07:00.hyperlinks.json) |
 | [July 28 at 6:16 AM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-07-28T06:16:41.018798-07:00.hyperlinks.json) |
 | [July 27 at 5:10 PM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-07-27T17:10:36.422602-07:00.hyperlinks.json) |
-| [July 27 at 6:14 AM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-07-27T06:14:08.900315-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 85 accessibility trees with the Internet Archive.
+The archiving routine has saved 86 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 1 at 5:29 AM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-08-01T05:29:06.907412-07:00.accessibility.json) |
 | [July 31 at 5:24 PM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-07-31T17:24:01.033741-07:00.accessibility.json) |
 | [July 31 at 6:22 AM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-07-31T06:22:46.104746-07:00.accessibility.json) |
 | [July 30 at 5:33 PM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-07-30T17:33:40.727342-07:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 28 at 5:18 PM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-07-28T17:18:43.040273-07:00.accessibility.json) |
 | [July 28 at 6:16 AM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-07-28T06:16:41.018798-07:00.accessibility.json) |
 | [July 27 at 5:10 PM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-07-27T17:10:36.422602-07:00.accessibility.json) |
-| [July 27 at 6:14 AM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-07-27T06:14:08.900315-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 1 at 5:29 AM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-08-01T05:29:06.907412-07:00.lighthouse.json) |
 | [July 31 at 5:24 PM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-07-31T17:24:01.033741-07:00.lighthouse.json) |
 | [July 31 at 6:22 AM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-07-31T06:22:46.104746-07:00.lighthouse.json) |
 | [July 30 at 5:33 PM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-07-30T17:33:40.727342-07:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 28 at 5:19 PM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-07-28T17:18:43.040273-07:00.lighthouse.json) |
 | [July 28 at 6:16 AM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-07-28T06:16:41.018798-07:00.lighthouse.json) |
 | [July 27 at 5:10 PM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-07-27T17:10:36.422602-07:00.lighthouse.json) |
-| [July 27 at 6:14 AM](https://archive.org/download/pointreyeslight-2022/pointreyeslight-2022-07-27T06:14:08.900315-07:00.lighthouse.json) |
 
 
 

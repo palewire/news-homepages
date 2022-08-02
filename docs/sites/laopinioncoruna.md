@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 13 screenshots with the Internet Archive.
+The archiving routine has saved 14 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-01T17:02:22.020080+02:00.jpg">
+  <img src="https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-01T17:02:22.020080+02:00.jpg"
+     alt="La Opinión A Coruña at 2022-08-01 17:02:24+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-01T17:02:22.020080+02:00.jpg">August 1 at 5:02 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-01T04:39:03.657604+02:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-07-27T16:33:15.122320+02:00.jpg">July 27 at 4:33 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-07-27T04:40:29.844968+02:00.jpg">
-  <img src="https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-07-27T04:40:29.844968+02:00.jpg"
-     alt="La Opinión A Coruña at 2022-07-27 04:40:30+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-07-27T04:40:29.844968+02:00.jpg">July 27 at 4:40 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 13 hyperlink lists with the Internet Archive.
+The archiving routine has saved 14 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 1 at 5:02 PM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-01T17:02:22.020080+02:00.hyperlinks.json) |
 | [August 1 at 4:39 AM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-01T04:39:03.657604+02:00.hyperlinks.json) |
 | [July 31 at 4:40 PM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-07-31T16:40:00.225599+02:00.hyperlinks.json) |
 | [July 31 at 4:59 AM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-07-31T04:59:39.445615+02:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 29 at 4:39 AM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-07-29T04:39:01.990011+02:00.hyperlinks.json) |
 | [July 28 at 8:53 PM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-07-28T20:53:20.406760+02:00.hyperlinks.json) |
 | [July 28 at 5:43 PM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-07-28T17:43:42.734954+02:00.hyperlinks.json) |
-| [July 28 at 4:40 AM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-07-28T04:40:30.870090+02:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 13 accessibility trees with the Internet Archive.
+The archiving routine has saved 14 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 1 at 5:02 PM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-01T17:02:22.020080+02:00.accessibility.json) |
 | [August 1 at 4:39 AM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-01T04:39:03.657604+02:00.accessibility.json) |
 | [July 31 at 4:40 PM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-07-31T16:40:00.225599+02:00.accessibility.json) |
 | [July 31 at 4:59 AM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-07-31T04:59:39.445615+02:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [July 29 at 4:39 AM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-07-29T04:39:01.990011+02:00.accessibility.json) |
 | [July 28 at 8:53 PM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-07-28T20:53:20.406760+02:00.accessibility.json) |
 | [July 28 at 5:43 PM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-07-28T17:43:42.734954+02:00.accessibility.json) |
-| [July 28 at 4:40 AM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-07-28T04:40:30.870090+02:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 13 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 14 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 1 at 5:02 PM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-01T17:02:22.020080+02:00.lighthouse.json) |
 | [August 1 at 4:39 AM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-01T04:39:03.657604+02:00.lighthouse.json) |
 | [July 31 at 4:40 PM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-07-31T16:40:00.225599+02:00.lighthouse.json) |
 | [July 31 at 4:59 AM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-07-31T04:59:39.445615+02:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 29 at 4:39 AM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-07-29T04:39:01.990011+02:00.lighthouse.json) |
 | [July 28 at 8:53 PM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-07-28T20:53:20.406760+02:00.lighthouse.json) |
 | [July 28 at 5:43 PM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-07-28T17:43:42.734954+02:00.lighthouse.json) |
-| [July 28 at 4:40 AM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-07-28T04:40:30.870090+02:00.lighthouse.json) |
 
 
 

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 47 screenshots with the Internet Archive.
+The archiving routine has saved 49 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-08-01T20:42:18.104562-04:00.jpg">
+  <img src="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-08-01T20:42:18.104562-04:00.jpg"
+     alt="Pulitzer Center at 2022-08-01 20:42:19-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-08-01T20:42:18.104562-04:00.jpg">August 1 at 8:42 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-08-01T08:29:02.836749-04:00.jpg">
+  <img src="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-08-01T08:29:02.836749-04:00.jpg"
+     alt="Pulitzer Center at 2022-08-01 08:29:05-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-08-01T08:29:02.836749-04:00.jpg">August 1 at 8:29 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-31T20:24:36.798982-04:00.jpg">
   <img src="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-31T20:24:36.798982-04:00.jpg"
      alt="Pulitzer Center at 2022-07-31 20:24:38-04:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-27T09:14:08.007522-04:00.jpg">July 27 at 9:14 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-26T20:18:50.206520-04:00.jpg">
-  <img src="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-26T20:18:50.206520-04:00.jpg"
-     alt="Pulitzer Center at 2022-07-26 20:18:52-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-26T20:18:50.206520-04:00.jpg">July 26 at 8:18 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-26T08:29:15.439802-04:00.jpg">
-  <img src="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-26T08:29:15.439802-04:00.jpg"
-     alt="Pulitzer Center at 2022-07-26 08:29:17-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-26T08:29:15.439802-04:00.jpg">July 26 at 8:29 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 47 hyperlink lists with the Internet Archive.
+The archiving routine has saved 49 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 1 at 8:42 PM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-08-01T20:42:18.104562-04:00.hyperlinks.json) |
+| [August 1 at 8:29 AM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-08-01T08:29:02.836749-04:00.hyperlinks.json) |
 | [July 31 at 8:24 PM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-31T20:24:36.798982-04:00.hyperlinks.json) |
 | [July 31 at 9:22 AM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-31T09:22:52.564299-04:00.hyperlinks.json) |
 | [July 30 at 8:32 PM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-30T20:32:38.755340-04:00.hyperlinks.json) |
@@ -322,13 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 29 at 8:23 AM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-29T08:23:21.214464-04:00.hyperlinks.json) |
 | [July 28 at 8:19 PM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-28T20:19:02.281397-04:00.hyperlinks.json) |
 | [July 28 at 9:17 AM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-28T09:17:21.716568-04:00.hyperlinks.json) |
-| [July 27 at 8:10 PM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-27T20:10:14.969798-04:00.hyperlinks.json) |
-| [July 27 at 9:14 AM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-27T09:14:08.007522-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 47 accessibility trees with the Internet Archive.
+The archiving routine has saved 49 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 1 at 8:42 PM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-08-01T20:42:18.104562-04:00.accessibility.json) |
+| [August 1 at 8:29 AM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-08-01T08:29:02.836749-04:00.accessibility.json) |
 | [July 31 at 8:24 PM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-31T20:24:36.798982-04:00.accessibility.json) |
 | [July 31 at 9:22 AM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-31T09:22:52.564299-04:00.accessibility.json) |
 | [July 30 at 8:32 PM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-30T20:32:38.755340-04:00.accessibility.json) |
@@ -427,14 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 29 at 8:23 AM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-29T08:23:21.214464-04:00.accessibility.json) |
 | [July 28 at 8:19 PM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-28T20:19:02.281397-04:00.accessibility.json) |
 | [July 28 at 9:17 AM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-28T09:17:21.716568-04:00.accessibility.json) |
-| [July 27 at 8:10 PM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-27T20:10:14.969798-04:00.accessibility.json) |
-| [July 27 at 9:14 AM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-27T09:14:08.007522-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 19 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 1 at 8:42 PM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-08-01T20:42:18.104562-04:00.lighthouse.json) |
+| [August 1 at 8:29 AM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-08-01T08:29:02.836749-04:00.lighthouse.json) |
 | [July 31 at 8:24 PM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-31T20:24:36.798982-04:00.lighthouse.json) |
 | [July 31 at 9:22 AM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-31T09:22:52.564299-04:00.lighthouse.json) |
 | [July 30 at 8:32 PM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-30T20:32:38.755340-04:00.lighthouse.json) |
@@ -450,8 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 29 at 8:23 AM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-29T08:23:21.214464-04:00.lighthouse.json) |
 | [July 28 at 8:19 PM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-28T20:19:02.281397-04:00.lighthouse.json) |
 | [July 28 at 9:17 AM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-28T09:17:21.716568-04:00.lighthouse.json) |
-| [July 27 at 8:10 PM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-27T20:10:14.969798-04:00.lighthouse.json) |
-| [July 27 at 9:14 AM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-07-27T09:14:08.007522-04:00.lighthouse.json) |
 
 
 

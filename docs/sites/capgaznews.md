@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 94 screenshots with the Internet Archive.
+The archiving routine has saved 95 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 94 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-08-01T10:45:13.675180-04:00.jpg">
+  <img src="https://archive.org/download/capgaznews-2022/capgaznews-2022-08-01T10:45:13.675180-04:00.jpg"
+     alt="Capital Gazette at 2022-08-01 10:45:18-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-08-01T10:45:13.675180-04:00.jpg">August 1 at 10:45 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-31T21:24:33.771877-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-26T21:24:53.108931-04:00.jpg">July 26 at 9:24 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-26T09:26:55.715698-04:00.jpg">
-  <img src="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-26T09:26:55.715698-04:00.jpg"
-     alt="Capital Gazette at 2022-07-26 09:27:04-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-07-26T09:26:55.715698-04:00.jpg">July 26 at 9:27 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 94 hyperlink lists with the Internet Archive.
+The archiving routine has saved 95 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 1 at 10:45 AM](https://archive.org/download/capgaznews-2022/capgaznews-2022-08-01T10:45:13.675180-04:00.hyperlinks.json) |
 | [July 31 at 9:24 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-31T21:24:33.771877-04:00.hyperlinks.json) |
 | [July 31 at 9:30 AM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-31T09:30:02.672576-04:00.hyperlinks.json) |
 | [July 30 at 10:44 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-30T22:44:19.794316-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 28 at 9:23 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-28T21:23:48.800486-04:00.hyperlinks.json) |
 | [July 28 at 9:21 AM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-28T09:21:47.048604-04:00.hyperlinks.json) |
 | [July 27 at 9:27 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-27T21:27:12.267701-04:00.hyperlinks.json) |
-| [July 27 at 9:19 AM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-27T09:19:10.727390-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 96 accessibility trees with the Internet Archive.
+The archiving routine has saved 97 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 1 at 10:45 AM](https://archive.org/download/capgaznews-2022/capgaznews-2022-08-01T10:45:13.675180-04:00.accessibility.json) |
 | [July 31 at 9:24 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-31T21:24:33.771877-04:00.accessibility.json) |
 | [July 31 at 9:30 AM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-31T09:30:02.672576-04:00.accessibility.json) |
 | [July 30 at 10:44 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-30T22:44:19.794316-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 28 at 9:23 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-28T21:23:48.800486-04:00.accessibility.json) |
 | [July 28 at 9:21 AM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-28T09:21:47.048604-04:00.accessibility.json) |
 | [July 27 at 9:27 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-27T21:27:12.267701-04:00.accessibility.json) |
-| [July 27 at 9:19 AM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-27T09:19:10.727390-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 19 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 1 at 10:45 AM](https://archive.org/download/capgaznews-2022/capgaznews-2022-08-01T10:45:13.675180-04:00.lighthouse.json) |
 | [July 31 at 9:24 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-31T21:24:33.771877-04:00.lighthouse.json) |
 | [July 31 at 9:30 AM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-31T09:30:02.672576-04:00.lighthouse.json) |
 | [July 30 at 10:44 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-30T22:44:19.794316-04:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 28 at 9:23 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-28T21:23:48.800486-04:00.lighthouse.json) |
 | [July 28 at 9:21 AM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-28T09:21:47.048604-04:00.lighthouse.json) |
 | [July 27 at 9:27 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-27T21:27:12.267701-04:00.lighthouse.json) |
-| [July 27 at 9:19 AM](https://archive.org/download/capgaznews-2022/capgaznews-2022-07-27T09:19:10.727390-04:00.lighthouse.json) |
 
 
 

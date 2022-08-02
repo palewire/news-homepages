@@ -20,13 +20,105 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 30 screenshots with the Internet Archive.
+The archiving routine has saved 31 screenshots with the Internet Archive.
 
+
+  <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specScreenshots = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/screenshots/bmtenterprise.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-08-01T18:14:38.938244-05:00.jpg">
+  <img src="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-08-01T18:14:38.938244-05:00.jpg"
+     alt="Beaumont Enterprise at 2022-08-01 18:14:41-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-08-01T18:14:38.938244-05:00.jpg">August 1 at 6:14 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-08-01T06:11:45.201727-05:00.jpg">
@@ -127,15 +219,6 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-27T06:02:55.866031-05:00.jpg">July 27 at 6:02 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-26T18:04:40.923701-05:00.jpg">
-  <img src="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-26T18:04:40.923701-05:00.jpg"
-     alt="Beaumont Enterprise at 2022-07-26 18:04:43-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-26T18:04:40.923701-05:00.jpg">July 26 at 6:04 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
@@ -185,7 +268,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 19 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +276,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 1 at 6:14 PM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-08-01T18:14:38.938244-05:00.lighthouse.json) |
 | [August 1 at 6:11 AM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-08-01T06:11:45.201727-05:00.lighthouse.json) |
 | [July 31 at 7:08 PM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-31T19:08:46.835731-05:00.lighthouse.json) |
 | [July 31 at 6:08 AM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-31T06:08:02.431198-05:00.lighthouse.json) |
@@ -202,7 +286,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 29 at 6:05 AM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-29T06:05:25.772544-05:00.lighthouse.json) |
 | [July 28 at 6:08 PM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-28T18:08:38.172365-05:00.lighthouse.json) |
 | [July 28 at 6:06 AM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-28T06:06:17.644024-05:00.lighthouse.json) |
-| [July 27 at 6:02 PM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-27T18:02:42.946621-05:00.lighthouse.json) |
 
 
 

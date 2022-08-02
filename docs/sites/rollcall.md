@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 54 screenshots with the Internet Archive.
+The archiving routine has saved 55 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 54 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-01T12:09:29.636401-04:00.jpg">
+  <img src="https://archive.org/download/rollcall-2022/rollcall-2022-08-01T12:09:29.636401-04:00.jpg"
+     alt="Roll Call at 2022-08-01 12:09:32-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-01T12:09:29.636401-04:00.jpg">August 1 at 12:09 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rollcall-2022/rollcall-2022-07-31T23:57:27.314457-04:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/rollcall-2022/rollcall-2022-07-26T23:53:52.814314-04:00.jpg">July 26 at 11:53 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/rollcall-2022/rollcall-2022-07-26T11:44:40.832831-04:00.jpg">
-  <img src="https://archive.org/download/rollcall-2022/rollcall-2022-07-26T11:44:40.832831-04:00.jpg"
-     alt="Roll Call at 2022-07-26 11:44:44-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rollcall-2022/rollcall-2022-07-26T11:44:40.832831-04:00.jpg">July 26 at 11:44 AM</a></p>
 </div>
 
 </div>
@@ -328,7 +328,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 55 accessibility trees with the Internet Archive.
+The archiving routine has saved 56 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 1 at 12:09 PM](https://archive.org/download/rollcall-2022/rollcall-2022-08-01T12:09:29.636401-04:00.accessibility.json) |
 | [July 31 at 11:57 PM](https://archive.org/download/rollcall-2022/rollcall-2022-07-31T23:57:27.314457-04:00.accessibility.json) |
 | [July 31 at 11:55 AM](https://archive.org/download/rollcall-2022/rollcall-2022-07-31T11:55:07.683326-04:00.accessibility.json) |
 | [July 31 at 12:06 AM](https://archive.org/download/rollcall-2022/rollcall-2022-07-31T00:06:16.757265-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 28 at 11:48 PM](https://archive.org/download/rollcall-2022/rollcall-2022-07-28T23:48:13.241339-04:00.accessibility.json) |
 | [July 28 at 11:50 AM](https://archive.org/download/rollcall-2022/rollcall-2022-07-28T11:50:48.725542-04:00.accessibility.json) |
 | [July 27 at 11:45 PM](https://archive.org/download/rollcall-2022/rollcall-2022-07-27T23:45:43.680224-04:00.accessibility.json) |
-| [July 27 at 11:45 AM](https://archive.org/download/rollcall-2022/rollcall-2022-07-27T11:45:31.095405-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 1 at 12:09 PM](https://archive.org/download/rollcall-2022/rollcall-2022-08-01T12:09:29.636401-04:00.lighthouse.json) |
 | [July 31 at 11:57 PM](https://archive.org/download/rollcall-2022/rollcall-2022-07-31T23:57:27.314457-04:00.lighthouse.json) |
 | [July 31 at 11:55 AM](https://archive.org/download/rollcall-2022/rollcall-2022-07-31T11:55:07.683326-04:00.lighthouse.json) |
 | [July 31 at 12:06 AM](https://archive.org/download/rollcall-2022/rollcall-2022-07-31T00:06:16.757265-04:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 28 at 11:48 PM](https://archive.org/download/rollcall-2022/rollcall-2022-07-28T23:48:13.241339-04:00.lighthouse.json) |
 | [July 28 at 11:50 AM](https://archive.org/download/rollcall-2022/rollcall-2022-07-28T11:50:48.725542-04:00.lighthouse.json) |
 | [July 27 at 11:45 PM](https://archive.org/download/rollcall-2022/rollcall-2022-07-27T23:45:43.680224-04:00.lighthouse.json) |
-| [July 27 at 11:45 AM](https://archive.org/download/rollcall-2022/rollcall-2022-07-27T11:45:31.095405-04:00.lighthouse.json) |
 
 
 

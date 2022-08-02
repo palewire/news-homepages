@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 29 screenshots with the Internet Archive.
+The archiving routine has saved 30 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/usweekly-2022/usweekly-2022-08-01T12:14:51.734394-04:00.jpg">
+  <img src="https://archive.org/download/usweekly-2022/usweekly-2022-08-01T12:14:51.734394-04:00.jpg"
+     alt="Us Weekly at 2022-08-01 12:14:54-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/usweekly-2022/usweekly-2022-08-01T12:14:51.734394-04:00.jpg">August 1 at 12:14 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/usweekly-2022/usweekly-2022-08-01T00:02:08.335613-04:00.jpg">
@@ -127,15 +136,6 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/usweekly-2022/usweekly-2022-07-26T23:58:05.643542-04:00.jpg">July 26 at 11:58 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/usweekly-2022/usweekly-2022-07-26T11:49:17.909822-04:00.jpg">
-  <img src="https://archive.org/download/usweekly-2022/usweekly-2022-07-26T11:49:17.909822-04:00.jpg"
-     alt="Us Weekly at 2022-07-26 11:49:19-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/usweekly-2022/usweekly-2022-07-26T11:49:17.909822-04:00.jpg">July 26 at 11:49 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
@@ -185,7 +185,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 1 at 12:14 PM](https://archive.org/download/usweekly-2022/usweekly-2022-08-01T12:14:51.734394-04:00.lighthouse.json) |
 | [August 1 at 12:02 AM](https://archive.org/download/usweekly-2022/usweekly-2022-08-01T00:02:08.335613-04:00.lighthouse.json) |
 | [July 31 at 11:59 AM](https://archive.org/download/usweekly-2022/usweekly-2022-07-31T11:59:33.592835-04:00.lighthouse.json) |
 | [July 31 at 12:11 AM](https://archive.org/download/usweekly-2022/usweekly-2022-07-31T00:11:11.582391-04:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 28 at 11:52 PM](https://archive.org/download/usweekly-2022/usweekly-2022-07-28T23:51:55.098586-04:00.lighthouse.json) |
 | [July 28 at 11:56 AM](https://archive.org/download/usweekly-2022/usweekly-2022-07-28T11:55:53.905347-04:00.lighthouse.json) |
 | [July 27 at 11:48 PM](https://archive.org/download/usweekly-2022/usweekly-2022-07-27T23:48:12.113584-04:00.lighthouse.json) |
-| [July 27 at 11:50 AM](https://archive.org/download/usweekly-2022/usweekly-2022-07-27T11:49:58.296703-04:00.lighthouse.json) |
 
 
 

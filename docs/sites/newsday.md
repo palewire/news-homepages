@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 14 screenshots with the Internet Archive.
+The archiving routine has saved 15 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newsday-2022/newsday-2022-08-01T20:39:42.028665-04:00.jpg">
+  <img src="https://archive.org/download/newsday-2022/newsday-2022-08-01T20:39:42.028665-04:00.jpg"
+     alt="Newsday at 2022-08-01 20:39:44-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newsday-2022/newsday-2022-08-01T20:39:42.028665-04:00.jpg">August 1 at 8:39 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsday-2022/newsday-2022-08-01T08:26:18.009345-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/newsday-2022/newsday-2022-07-27T09:11:57.932588-04:00.jpg">July 27 at 9:12 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/newsday-2022/newsday-2022-07-26T20:16:59.392671-04:00.jpg">
-  <img src="https://archive.org/download/newsday-2022/newsday-2022-07-26T20:16:59.392671-04:00.jpg"
-     alt="Newsday at 2022-07-26 20:17:01-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newsday-2022/newsday-2022-07-26T20:16:59.392671-04:00.jpg">July 26 at 8:17 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 14 hyperlink lists with the Internet Archive.
+The archiving routine has saved 15 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 1 at 8:39 PM](https://archive.org/download/newsday-2022/newsday-2022-08-01T20:39:42.028665-04:00.hyperlinks.json) |
 | [August 1 at 8:26 AM](https://archive.org/download/newsday-2022/newsday-2022-08-01T08:26:18.009345-04:00.hyperlinks.json) |
 | [July 31 at 8:21 PM](https://archive.org/download/newsday-2022/newsday-2022-07-31T20:21:49.937773-04:00.hyperlinks.json) |
 | [July 31 at 9:20 AM](https://archive.org/download/newsday-2022/newsday-2022-07-31T09:20:15.564708-04:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 29 at 8:21 AM](https://archive.org/download/newsday-2022/newsday-2022-07-29T08:21:14.428873-04:00.hyperlinks.json) |
 | [July 28 at 8:16 PM](https://archive.org/download/newsday-2022/newsday-2022-07-28T20:16:34.009436-04:00.hyperlinks.json) |
 | [July 28 at 9:14 AM](https://archive.org/download/newsday-2022/newsday-2022-07-28T09:14:31.850823-04:00.hyperlinks.json) |
-| [July 27 at 8:08 PM](https://archive.org/download/newsday-2022/newsday-2022-07-27T20:08:12.606109-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 14 accessibility trees with the Internet Archive.
+The archiving routine has saved 15 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 1 at 8:39 PM](https://archive.org/download/newsday-2022/newsday-2022-08-01T20:39:42.028665-04:00.accessibility.json) |
 | [August 1 at 8:26 AM](https://archive.org/download/newsday-2022/newsday-2022-08-01T08:26:18.009345-04:00.accessibility.json) |
 | [July 31 at 8:21 PM](https://archive.org/download/newsday-2022/newsday-2022-07-31T20:21:49.937773-04:00.accessibility.json) |
 | [July 31 at 9:20 AM](https://archive.org/download/newsday-2022/newsday-2022-07-31T09:20:15.564708-04:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [July 29 at 8:21 AM](https://archive.org/download/newsday-2022/newsday-2022-07-29T08:21:14.428873-04:00.accessibility.json) |
 | [July 28 at 8:16 PM](https://archive.org/download/newsday-2022/newsday-2022-07-28T20:16:34.009436-04:00.accessibility.json) |
 | [July 28 at 9:14 AM](https://archive.org/download/newsday-2022/newsday-2022-07-28T09:14:31.850823-04:00.accessibility.json) |
-| [July 27 at 8:08 PM](https://archive.org/download/newsday-2022/newsday-2022-07-27T20:08:12.606109-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 14 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 15 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 1 at 8:39 PM](https://archive.org/download/newsday-2022/newsday-2022-08-01T20:39:42.028665-04:00.lighthouse.json) |
 | [August 1 at 8:26 AM](https://archive.org/download/newsday-2022/newsday-2022-08-01T08:26:18.009345-04:00.lighthouse.json) |
 | [July 31 at 8:21 PM](https://archive.org/download/newsday-2022/newsday-2022-07-31T20:21:49.937773-04:00.lighthouse.json) |
 | [July 31 at 9:20 AM](https://archive.org/download/newsday-2022/newsday-2022-07-31T09:20:15.564708-04:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 29 at 8:21 AM](https://archive.org/download/newsday-2022/newsday-2022-07-29T08:21:14.428873-04:00.lighthouse.json) |
 | [July 28 at 8:16 PM](https://archive.org/download/newsday-2022/newsday-2022-07-28T20:16:34.009436-04:00.lighthouse.json) |
 | [July 28 at 9:14 AM](https://archive.org/download/newsday-2022/newsday-2022-07-28T09:14:31.850823-04:00.lighthouse.json) |
-| [July 27 at 8:08 PM](https://archive.org/download/newsday-2022/newsday-2022-07-27T20:08:12.606109-04:00.lighthouse.json) |
 
 
 
