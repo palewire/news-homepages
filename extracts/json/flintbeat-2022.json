@@ -1,5 +1,5 @@
 {
-  "created": 1659352728,
+  "created": 1659400694,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/10/items/flintbeat-2022",
@@ -4963,31 +4963,94 @@
       "format": "JSON"
     },
     {
+      "name": "flintbeat-2022-08-01T06:17:55.164075-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "flintbeat-2022-08-01T06:17:55.164075-05:00.jpg",
+      "mtime": "1659360960",
+      "size": "9041",
+      "md5": "b6b018ca642a36c4c3f5fd36412fdf72",
+      "crc32": "91707315",
+      "sha1": "4df776be6c93ef38f9403d6eb2c05d1780729be6"
+    },
+    {
+      "name": "flintbeat-2022-08-01T18:20:02.462278-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659396005",
+      "size": "36165",
+      "md5": "02c227dd837852f2e468fb94448c86a3",
+      "crc32": "5fcf4e22",
+      "sha1": "749cf1a06ca6c69bbd76802d102fdc009cd02a99",
+      "format": "JSON"
+    },
+    {
+      "name": "flintbeat-2022-08-01T18:20:02.462278-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659396007",
+      "size": "31098",
+      "md5": "51f80374d67b292284021debe7f3e9db",
+      "crc32": "f86996d7",
+      "sha1": "0b6d33009542af5194edc796ec90b855d63b5b45",
+      "format": "JSON"
+    },
+    {
+      "name": "flintbeat-2022-08-01T18:20:02.462278-05:00.jpg",
+      "source": "original",
+      "mtime": "1659396003",
+      "size": "246920",
+      "md5": "3b898ef5e6c0f595e3deddf018adc177",
+      "crc32": "fb4de585",
+      "sha1": "f080aec255e3c45098d8346bf572cce7512fa7e5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "flintbeat-2022-08-01T18:20:02.462278-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659396009",
+      "size": "1448",
+      "md5": "8f3c76994b699260f65d00b9ffa8cfb1",
+      "crc32": "5f845ed1",
+      "sha1": "784f6e96f6f4a7b9cacd56492ed4993ec648ca69",
+      "format": "JSON"
+    },
+    {
+      "name": "flintbeat-2022-08-01T18:20:02.462278-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "flintbeat-2022-08-01T18:20:02.462278-05:00.jpg",
+      "mtime": "1659397237",
+      "size": "9148",
+      "md5": "84f51da48803e492b84577f8ee69d81f",
+      "crc32": "5e3d8b15",
+      "sha1": "cf78e29b0a724c700eb94644ca70d3fa6df7a78e"
+    },
+    {
       "name": "flintbeat-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2a78814f303e5fef641126c894e6fa6e68b47790",
-      "mtime": "1659352726",
-      "size": "101318",
-      "md5": "ba6726ae9e9b7cb80df922b340eda309",
-      "crc32": "c835bb8d",
-      "sha1": "3b918ee7f34ca4c189d0dd6a95ffc9785366ca53",
+      "btih": "89a27cc93be546e55b0a71108bd2115f11a55879",
+      "mtime": "1659397363",
+      "size": "102567",
+      "md5": "d2ca9c0efd32f71abed1514b9d47f6a4",
+      "crc32": "cbeb3bee",
+      "sha1": "2c3d872191efca30d7842584a88bb320f3d920cf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "flintbeat-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d4d9e41a6decb35b823dd81d3323c53c",
+      "md5": "5c4db64bee5392823bb959d7b9f58eda",
       "summation": "md5"
     },
     {
       "name": "flintbeat-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659352688",
-      "size": "565248",
-      "md5": "ec906016347fb77f91091609eb53337e",
-      "crc32": "fdc262c4",
-      "sha1": "50891dd1f7c1afb692d5629d8b0f45998f300ac4",
+      "mtime": "1659396013",
+      "size": "569344",
+      "md5": "b2f5135e4d2f8484c543d19c8a43443f",
+      "crc32": "9b28b226",
+      "sha1": "5c3a3557eb6db0fac1047514411231de6363d4f9",
       "format": "Metadata"
     },
     {
@@ -5001,9 +5064,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 477,
-  "item_last_updated": 1659352726,
-  "item_size": 35269245,
+  "files_count": 483,
+  "flintbeat-2022": [
+    {
+      "url": "https://flintbeat.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/flintbeat_com-_-2022_08_01_22_57_36.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/flintbeat_com-_-2022_08_01_22_57_36.report.json",
+      "summary": {
+        "performance": 0.4,
+        "accessibility": 0.95,
+        "best-practices": 0.92,
+        "seo": 0.91,
+        "pwa": 0.9
+      }
+    },
+    {
+      "url": "https://flintbeat.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/flintbeat_com-_-2022_08_01_22_58_16.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/flintbeat_com-_-2022_08_01_22_58_16.report.json",
+      "summary": {
+        "performance": 0.5,
+        "accessibility": 0.95,
+        "best-practices": 0.92,
+        "seo": 0.91,
+        "pwa": 0.9
+      }
+    },
+    {
+      "url": "https://flintbeat.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/flintbeat_com-_-2022_08_01_22_57_56.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/flintbeat_com-_-2022_08_01_22_57_56.report.json",
+      "summary": {
+        "performance": 0.43,
+        "accessibility": 0.95,
+        "best-practices": 0.92,
+        "seo": 0.91,
+        "pwa": 0.9
+      }
+    }
+  ],
+  "item_last_updated": 1659397363,
+  "item_size": 35608410,
   "metadata": {
     "identifier": "flintbeat-2022",
     "collection": [
@@ -5020,21 +5124,10 @@
     "publicdate": "2022-06-19 23:24:22",
     "addeddate": "2022-06-19 23:24:22"
   },
-  "pending_tasks": true,
   "server": "ia601509.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3349593384,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 339353056,
+  "uniq": 867052640,
   "workable_servers": [
-    "ia601509.us.archive.org"
+    "ia601509.us.archive.org",
+    "ia801509.us.archive.org"
   ]
 }

@@ -1,5 +1,46 @@
 {
-  "created": 1659352430,
+  "capitalb_atl-2022": [
+    {
+      "url": "https://atlanta.capitalbnews.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/atlanta_capitalbnews_org-_-2022_08_01_22_51_57.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/atlanta_capitalbnews_org-_-2022_08_01_22_51_57.report.json",
+      "summary": {
+        "performance": 0.22,
+        "accessibility": 1,
+        "best-practices": 0.92,
+        "seo": 0.97,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://atlanta.capitalbnews.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/atlanta_capitalbnews_org-_-2022_08_01_22_52_17.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/atlanta_capitalbnews_org-_-2022_08_01_22_52_17.report.json",
+      "summary": {
+        "performance": 0.33,
+        "accessibility": 1,
+        "best-practices": 0.92,
+        "seo": 0.97,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://atlanta.capitalbnews.org/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/atlanta_capitalbnews_org-_-2022_08_01_22_52_36.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/atlanta_capitalbnews_org-_-2022_08_01_22_52_36.report.json",
+      "summary": {
+        "performance": 0.24,
+        "accessibility": 1,
+        "best-practices": 0.92,
+        "seo": 0.97,
+        "pwa": 0.4
+      }
+    }
+  ],
+  "created": 1659400532,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/9/items/capitalb_atl-2022",
@@ -1235,31 +1276,94 @@
       "format": "JSON"
     },
     {
+      "name": "capitalb_atl-2022-08-01T07:13:01.689190-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "capitalb_atl-2022-08-01T07:13:01.689190-04:00.jpg",
+      "mtime": "1659360650",
+      "size": "9678",
+      "md5": "12936a5f9f0240315c2e7e78fee38ef3",
+      "crc32": "f353def0",
+      "sha1": "5c89316497daf5c175e5c4676d67acbbce84bcc1"
+    },
+    {
+      "name": "capitalb_atl-2022-08-01T19:15:57.891234-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659395764",
+      "size": "7365",
+      "md5": "655138fb94eb5a059d7575329ae4af44",
+      "crc32": "de24d265",
+      "sha1": "e366047616de4bc62386352b861eb1376923ab2d",
+      "format": "JSON"
+    },
+    {
+      "name": "capitalb_atl-2022-08-01T19:15:57.891234-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659395765",
+      "size": "8099",
+      "md5": "329e6ff062090540a9b37c4b3298e6ad",
+      "crc32": "5f14289d",
+      "sha1": "ff083fe4eb8a1460b9c922a74d6450b18c6f46a4",
+      "format": "JSON"
+    },
+    {
+      "name": "capitalb_atl-2022-08-01T19:15:57.891234-04:00.jpg",
+      "source": "original",
+      "mtime": "1659395761",
+      "size": "263464",
+      "md5": "86502316a13fba2ec7d7b566267151c6",
+      "crc32": "4d2d9fd2",
+      "sha1": "716f71a44ab50b25079b7227f09557b1227cdd23",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "capitalb_atl-2022-08-01T19:15:57.891234-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659395767",
+      "size": "1540",
+      "md5": "d59e962ea1ab06446b23cd2559f65c34",
+      "crc32": "686fac82",
+      "sha1": "259769c1bcd2d7b25efdfcab249177695ffa2586",
+      "format": "JSON"
+    },
+    {
+      "name": "capitalb_atl-2022-08-01T19:15:57.891234-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "capitalb_atl-2022-08-01T19:15:57.891234-04:00.jpg",
+      "mtime": "1659396926",
+      "size": "9686",
+      "md5": "e0f84a045e15e0914963d713a66e9c61",
+      "crc32": "f84562f8",
+      "sha1": "175c3d0b41f58a466fbc33ce3698a854e56c1e3d"
+    },
+    {
       "name": "capitalb_atl-2022_archive.torrent",
       "source": "metadata",
-      "btih": "417ad435ca45a28bcad16ae63c0e0d2f4a1847f1",
-      "mtime": "1659352426",
-      "size": "26691",
-      "md5": "079daee991ea7c64e86d7ec241482793",
-      "crc32": "f3e950f4",
-      "sha1": "92cf626b232eb20753c021cd8b43c5e201d3e01d",
+      "btih": "17bff3313b75100a2fc08b2bc0c4cd226a84719f",
+      "mtime": "1659396932",
+      "size": "27956",
+      "md5": "de9321614305d4088aafbd70d2cae21f",
+      "crc32": "88c0245e",
+      "sha1": "7e2ca9164c72295d4b289e242cfe4521d1f4d03f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "capitalb_atl-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "168ce2ca7ff441e85ecd3a6a9727f6ae",
+      "md5": "6f2cb0981dd0872a79e64263a3265a10",
       "summation": "md5"
     },
     {
       "name": "capitalb_atl-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659352391",
-      "size": "163840",
-      "md5": "d299449baf2e5c30789e9cb919e97ade",
-      "crc32": "9b98b4dc",
-      "sha1": "bdc8a89b1a0df3339e320dabd0de9e660fca23bf",
+      "mtime": "1659395772",
+      "size": "172032",
+      "md5": "5a3f3ea26f39689c5a6bd348eecc4180",
+      "crc32": "e04eedd3",
+      "sha1": "88f529708ad2a8f3a255f4a8797a9a5f7d22960e",
       "format": "Metadata"
     },
     {
@@ -1273,9 +1377,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 122,
-  "item_last_updated": 1659352426,
-  "item_size": 7979312,
+  "files_count": 128,
+  "item_last_updated": 1659396932,
+  "item_size": 8288601,
   "metadata": {
     "identifier": "capitalb_atl-2022",
     "collection": [
@@ -1292,21 +1396,10 @@
     "publicdate": "2022-07-20 23:30:38",
     "addeddate": "2022-07-20 23:30:38"
   },
-  "pending_tasks": true,
-  "server": "ia601405.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3349590488,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1856407754,
+  "server": "ia801405.us.archive.org",
+  "uniq": 996297473,
   "workable_servers": [
+    "ia801405.us.archive.org",
     "ia601405.us.archive.org"
   ]
 }

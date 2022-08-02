@@ -1,5 +1,5 @@
 {
-  "created": 1659352715,
+  "created": 1659397257,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/21/items/fortunemagazine-2022",
@@ -4741,31 +4741,94 @@
       "format": "JSON"
     },
     {
+      "name": "fortunemagazine-2022-08-01T07:17:36.903885-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fortunemagazine-2022-08-01T07:17:36.903885-04:00.jpg",
+      "mtime": "1659360928",
+      "size": "8483",
+      "md5": "6d640e6fb58a782f1495d91b6311cf54",
+      "crc32": "534561c9",
+      "sha1": "a545ff09d2e5d91b96e350b2314c2c385751d9f1"
+    },
+    {
+      "name": "fortunemagazine-2022-08-01T19:20:35.795282-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659396042",
+      "size": "71740",
+      "md5": "b37d1eb24a9e79b4b6821958b39eabad",
+      "crc32": "a80b5e91",
+      "sha1": "8d24213797599da7b371516ad15d33c05612f416",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-08-01T19:20:35.795282-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659396044",
+      "size": "53383",
+      "md5": "a95d82638efce0245d7e40a1d518ce69",
+      "crc32": "3d72ba61",
+      "sha1": "6dd1d3db2d6bdf97fb5e214087f198c70ea95841",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-08-01T19:20:35.795282-04:00.jpg",
+      "source": "original",
+      "mtime": "1659396040",
+      "size": "248770",
+      "md5": "7592aed02763a972738cbd34e2fdde8a",
+      "crc32": "7fb8b34d",
+      "sha1": "46dba4f0c9fa8f7220eff2fbebb6d0e45692ad02",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fortunemagazine-2022-08-01T19:20:35.795282-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659396046",
+      "size": "1413",
+      "md5": "3f49d1aca32c82eec6355f40b828fc56",
+      "crc32": "4b34f5c2",
+      "sha1": "6bcf99368d5ea1a905b5f710e4ce29cbbdf2b42b",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-08-01T19:20:35.795282-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fortunemagazine-2022-08-01T19:20:35.795282-04:00.jpg",
+      "mtime": "1659397232",
+      "size": "8328",
+      "md5": "3a6d44753276ade24a567c1174093d9e",
+      "crc32": "d5fd94e5",
+      "sha1": "235271e6ab0b454d2438efaef3decbcd9a00eb38"
+    },
+    {
       "name": "fortunemagazine-2022_archive.torrent",
       "source": "metadata",
-      "btih": "282b102378450adca4500e7b44d627eca76b8c04",
-      "mtime": "1659352710",
-      "size": "100188",
-      "md5": "fc2a2efd1109178392a465a530c3d579",
-      "crc32": "68673069",
-      "sha1": "272d8794c26fa41cd918faac61942c09164534bc",
+      "btih": "4ed795b24a02af28229be1f19e89f7e615e1a601",
+      "mtime": "1659397239",
+      "size": "101493",
+      "md5": "4f45cad63c34f416ad3312609e8f5f84",
+      "crc32": "0d4c83b8",
+      "sha1": "77eb3c68bb6a5203aeab30223a6ddea4ca4f97ec",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fortunemagazine-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "71dd86916ac17d153d1a42278d711e49",
+      "md5": "bca75e0bf820a330fcd75dcc1eae2dcb",
       "summation": "md5"
     },
     {
       "name": "fortunemagazine-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659352673",
-      "size": "552960",
-      "md5": "b754fc50d51e289de82b3f90ce4ef1cb",
-      "crc32": "d52b9243",
-      "sha1": "07b60358109f73781b5ff78177e2f9274739ea06",
+      "mtime": "1659396049",
+      "size": "557056",
+      "md5": "23feaf1aeb74ccaf890b9e49cad67047",
+      "crc32": "84e251ce",
+      "sha1": "00edabbe1705b9e7f788d473de3f3ee579f3871b",
       "format": "Metadata"
     },
     {
@@ -4779,9 +4842,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 456,
-  "item_last_updated": 1659352710,
-  "item_size": 47608959,
+  "files_count": 462,
+  "item_last_updated": 1659397239,
+  "item_size": 48006477,
   "metadata": {
     "identifier": "fortunemagazine-2022",
     "collection": [
@@ -4798,21 +4861,10 @@
     "publicdate": "2022-06-19 23:24:03",
     "addeddate": "2022-06-19 23:24:03"
   },
-  "pending_tasks": true,
   "server": "ia601506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3349593226,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 172721681,
+  "uniq": 899660643,
   "workable_servers": [
-    "ia601506.us.archive.org"
+    "ia601506.us.archive.org",
+    "ia801506.us.archive.org"
   ]
 }

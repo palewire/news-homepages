@@ -1,5 +1,5 @@
 {
-  "created": 1659356466,
+  "created": 1659400486,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/30/items/indiancountry-2022",
@@ -2159,31 +2159,83 @@
       "format": "JSON"
     },
     {
+      "name": "indiancountry-2022-08-01T05:20:10.808103-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "indiancountry-2022-08-01T05:20:10.808103-07:00.jpg",
+      "mtime": "1659364374",
+      "size": "9691",
+      "md5": "8b7cd7acfd5439e78d7f8e9c11fed2f7",
+      "crc32": "ca01d1cd",
+      "sha1": "3108bf0f1601b41d125ac29fbd93cf7d79c7759e"
+    },
+    {
+      "name": "indiancountry-2022-08-01T17:33:52.097771-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659400436",
+      "size": "19087",
+      "md5": "80d9ab4fa282cc60318ad752044729a5",
+      "crc32": "cbbcd8a9",
+      "sha1": "f7cdb97b7285ae353115ca4a41bb27550147107b",
+      "format": "JSON"
+    },
+    {
+      "name": "indiancountry-2022-08-01T17:33:52.097771-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659400439",
+      "size": "16360",
+      "md5": "cd8a935bac8a08389a9aaf3d2b3da49e",
+      "crc32": "82365ce6",
+      "sha1": "61fb8959711780f22fb1d2a5ff31a819fb70f770",
+      "format": "JSON"
+    },
+    {
+      "name": "indiancountry-2022-08-01T17:33:52.097771-07:00.jpg",
+      "source": "original",
+      "mtime": "1659400434",
+      "size": "264107",
+      "md5": "54742cb9368fd510b6fd7af983113bc6",
+      "crc32": "5a844e92",
+      "sha1": "8720f682b362dbea3929b653103364f7df900535",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "indiancountry-2022-08-01T17:33:52.097771-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659400441",
+      "size": "1531",
+      "md5": "144297fa3f4c40ab4b1dcad0b095ce3c",
+      "crc32": "88ded658",
+      "sha1": "f8dea6f368076424ad23d3e8644211d534aa4ef4",
+      "format": "JSON"
+    },
+    {
       "name": "indiancountry-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9715a199ba98ee18bc0e4d00981539bf3f18d36f",
-      "mtime": "1659356463",
-      "size": "45757",
-      "md5": "24bc1c5bc715f592635a92d4798015a1",
-      "crc32": "02fa89ea",
-      "sha1": "73718eec51512429266079c1acd9d0f7a10b899f",
+      "btih": "25a65bf96dbad339ee2d5ba6a842203fe19d936a",
+      "mtime": "1659400482",
+      "size": "46841",
+      "md5": "4338a687826da6b59913f47dd7008cc8",
+      "crc32": "a21ce889",
+      "sha1": "e9083e14a99a8aeee1af68e7c8399ef8b952a176",
       "format": "Archive BitTorrent"
     },
     {
       "name": "indiancountry-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "518c156681c330f3ed7622770e4539f1",
+      "md5": "58f7fd81032862da4cbb89a7c51912d2",
       "summation": "md5"
     },
     {
       "name": "indiancountry-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659356427",
-      "size": "266240",
-      "md5": "2ecab334410db55a3dc0ddef564eaa59",
-      "crc32": "1a566ba3",
-      "sha1": "182bcff4f6384787dd69271dacfa99969c13e4bc",
+      "mtime": "1659400445",
+      "size": "274432",
+      "md5": "a2e44860e4942428a0beeb93c81a23fe",
+      "crc32": "c8287edb",
+      "sha1": "ff1dc458461b992a8736aa09f6ffa8b18cfc6c38",
       "format": "Metadata"
     },
     {
@@ -2197,9 +2249,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 210,
-  "item_last_updated": 1659356463,
-  "item_size": 14022513,
+  "files_count": 215,
+  "item_last_updated": 1659400482,
+  "item_size": 14342565,
   "metadata": {
     "identifier": "indiancountry-2022",
     "collection": [
@@ -2221,7 +2273,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3349626713,
+      "task_id": 3350046072,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2229,7 +2281,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 680806194,
+  "uniq": 94038135,
   "workable_servers": [
     "ia902501.us.archive.org"
   ]

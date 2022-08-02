@@ -1,5 +1,5 @@
 {
-  "created": 1659321824,
+  "created": 1659371919,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/24/items/gradynewsource-2022",
@@ -692,31 +692,83 @@
       "sha1": "720f809d35f45edf5071a6c89c201ba05f4e9646"
     },
     {
+      "name": "gradynewsource-2022-08-01T10:59:17.719733-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659365960",
+      "size": "47072",
+      "md5": "226ee2747b7aed25a7ee65e0deedd0c5",
+      "crc32": "3f0e5eb0",
+      "sha1": "cd53cdd2c52a98f91c25929ddae705c5bc482267",
+      "format": "JSON"
+    },
+    {
+      "name": "gradynewsource-2022-08-01T10:59:17.719733-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659365961",
+      "size": "42749",
+      "md5": "89ee7cb29bd75f715ed9afa115a665f6",
+      "crc32": "1843d7fb",
+      "sha1": "72dde24b0b4deaa810e2b4d415b6bf1c63dcf143",
+      "format": "JSON"
+    },
+    {
+      "name": "gradynewsource-2022-08-01T10:59:17.719733-04:00.jpg",
+      "source": "original",
+      "mtime": "1659365959",
+      "size": "254032",
+      "md5": "ed8a6250404a4823942428ea53b54115",
+      "crc32": "7f236dad",
+      "sha1": "f76088ba1bf58d5fbccf1f33abbaf69e2d3d79f1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gradynewsource-2022-08-01T10:59:17.719733-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659365963",
+      "size": "1528",
+      "md5": "9ca5f28645b473e4a7ff6c9d0b6e94b0",
+      "crc32": "e724821e",
+      "sha1": "72f87791751a7d641a9f532c75e0b804d5655153",
+      "format": "JSON"
+    },
+    {
+      "name": "gradynewsource-2022-08-01T10:59:17.719733-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gradynewsource-2022-08-01T10:59:17.719733-04:00.jpg",
+      "mtime": "1659371899",
+      "size": "10382",
+      "md5": "8ad9f64846b9ab8ddea9a63b3675ff02",
+      "crc32": "c6c86fd0",
+      "sha1": "1f6ec6c73780bf3d96f6218fdd6612f5489d8581"
+    },
+    {
       "name": "gradynewsource-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7126b6e5c8ac80a8f0121bf1101856b9ea136994",
-      "mtime": "1659321784",
-      "size": "15772",
-      "md5": "a2331638494cd83e9c67fca9d4d46054",
-      "crc32": "673020a5",
-      "sha1": "d65f35a982fec534e1903614c46df438ebea1e12",
+      "btih": "7ee03acc2fb26533ed268bf6b971702ae8eca436",
+      "mtime": "1659371904",
+      "size": "16842",
+      "md5": "58348fba46337c779ef5a180478981c2",
+      "crc32": "343676f6",
+      "sha1": "453b63551581e4e2d38ae0661df1e3a25a614da5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gradynewsource-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f86944cf3295502e26ddfaefc2e3de44",
+      "md5": "8cd7b4a5a425cf2a9fad0f72e8c1b1b2",
       "summation": "md5"
     },
     {
       "name": "gradynewsource-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659321365",
-      "size": "102400",
-      "md5": "33d01204f0c687d455849b6bfecae449",
-      "crc32": "6d6a8943",
-      "sha1": "4da85689175144eab59c03dedfc4031be437abf6",
+      "mtime": "1659365966",
+      "size": "106496",
+      "md5": "c3c7ea4bce2ca7506ccf0b1338145099",
+      "crc32": "8d1960b2",
+      "sha1": "85069f6221d916feee1c5c7d5c2d6713bbef8c19",
       "format": "Metadata"
     },
     {
@@ -730,9 +782,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 70,
-  "item_last_updated": 1659321784,
-  "item_size": 4739629,
+  "files_count": 75,
+  "item_last_updated": 1659371904,
+  "item_size": 5100558,
   "metadata": {
     "identifier": "gradynewsource-2022",
     "collection": [
@@ -750,7 +802,7 @@
     "addeddate": "2022-07-26 02:43:21"
   },
   "server": "ia801506.us.archive.org",
-  "uniq": 517418090,
+  "uniq": 380652822,
   "workable_servers": [
     "ia801506.us.archive.org",
     "ia601506.us.archive.org"

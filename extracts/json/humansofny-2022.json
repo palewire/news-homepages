@@ -1,5 +1,5 @@
 {
-  "created": 1659321543,
+  "created": 1659400794,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/1/items/humansofny-2022",
@@ -1152,31 +1152,83 @@
       "sha1": "6207d8d076cee43cecb9a0e6dce421fa10fd551a"
     },
     {
+      "name": "humansofny-2022-08-01T11:00:04.623736-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659366008",
+      "size": "31529",
+      "md5": "8fa8b9d0ab6a60b4db92bed4d388bd59",
+      "crc32": "06063ae6",
+      "sha1": "87c952c76755a8152ac63711b6ab6af068edf0e7",
+      "format": "JSON"
+    },
+    {
+      "name": "humansofny-2022-08-01T11:00:04.623736-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659366011",
+      "size": "1465",
+      "md5": "1d9e87f19cc1c1f9cb02c73376a8e16c",
+      "crc32": "e23fcc3c",
+      "sha1": "ec5e4469952fd50fd7f10374540dda4975aa8dba",
+      "format": "JSON"
+    },
+    {
+      "name": "humansofny-2022-08-01T11:00:04.623736-04:00.jpg",
+      "source": "original",
+      "mtime": "1659366006",
+      "size": "120886",
+      "md5": "7d3dae1c96fa7069f4c222eccb07e269",
+      "crc32": "928d0279",
+      "sha1": "9ca72102cec9296d248f1ba684aaa98c7a394a53",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "humansofny-2022-08-01T11:00:04.623736-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659366012",
+      "size": "1540",
+      "md5": "d4ec32439c813deb524a1766636b0bfa",
+      "crc32": "b2e76679",
+      "sha1": "b0e7e9e41a434dcb9ffc027dba1c80d1394095ae",
+      "format": "JSON"
+    },
+    {
+      "name": "humansofny-2022-08-01T11:00:04.623736-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "humansofny-2022-08-01T11:00:04.623736-04:00.jpg",
+      "mtime": "1659371899",
+      "size": "8467",
+      "md5": "455b2d0914375074acdc4036be6706a2",
+      "crc32": "583a4172",
+      "sha1": "574412d5903cdf663b7c222aad4ec8031e461b95"
+    },
+    {
       "name": "humansofny-2022_archive.torrent",
       "source": "metadata",
-      "btih": "21213d5e53d4b1350488ad7f4484437ac1bd4987",
-      "mtime": "1659321529",
-      "size": "24613",
-      "md5": "86397e9a790d233e5215fac29990891d",
-      "crc32": "8626aeca",
-      "sha1": "9fd9dc819fd12d8b516b729a1eaff818289808b0",
+      "btih": "9cc249db5b6815b417dc0cb849e04fa506696127",
+      "mtime": "1659371907",
+      "size": "25661",
+      "md5": "87968f19817ae41e3e77f54dd9756dc2",
+      "crc32": "86102285",
+      "sha1": "ad15fd97e1fb1f094383790d4f3193b4ad4a535d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "humansofny-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e62f5995ff248d66639d9f18733322cf",
+      "md5": "3f8ca8c182b619ba1edff9b995ce7579",
       "summation": "md5"
     },
     {
       "name": "humansofny-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659321412",
-      "size": "155648",
-      "md5": "53704ea40a699bc351155f340473c81c",
-      "crc32": "8d71add3",
-      "sha1": "220c2237139407c4c82698d4814370b86213f899",
+      "mtime": "1659366017",
+      "size": "159744",
+      "md5": "b2119fa8b9a9ca4850321a76a2a9b1c3",
+      "crc32": "2fb88b22",
+      "sha1": "90b192dd535df31a1730d58be4ecadc71d780e0a",
       "format": "Metadata"
     },
     {
@@ -1190,9 +1242,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 114,
-  "item_last_updated": 1659321529,
-  "item_size": 3915028,
+  "files_count": 119,
+  "humansofny-2022": [
+    {
+      "url": "https://www.humansofnewyork.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_humansofnewyork_com-_-2022_08_01_14_32_59.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_humansofnewyork_com-_-2022_08_01_14_32_59.report.json",
+      "summary": {
+        "performance": 0.32,
+        "accessibility": 0.78,
+        "best-practices": 0.83,
+        "seo": 0.79,
+        "pwa": 0.2
+      }
+    },
+    {
+      "url": "https://www.humansofnewyork.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_humansofnewyork_com-_-2022_08_01_14_33_18.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_humansofnewyork_com-_-2022_08_01_14_33_18.report.json",
+      "summary": {
+        "performance": 0.36,
+        "accessibility": 0.78,
+        "best-practices": 0.83,
+        "seo": 0.79,
+        "pwa": 0.2
+      }
+    },
+    {
+      "url": "https://www.humansofnewyork.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_humansofnewyork_com-_-2022_08_01_14_33_36.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_humansofnewyork_com-_-2022_08_01_14_33_36.report.json",
+      "summary": {
+        "performance": 0.37,
+        "accessibility": 0.78,
+        "best-practices": 0.83,
+        "seo": 0.79,
+        "pwa": 0.2
+      }
+    }
+  ],
+  "item_last_updated": 1659371907,
+  "item_size": 4084059,
   "metadata": {
     "identifier": "humansofny-2022",
     "collection": [
@@ -1209,10 +1302,10 @@
     "publicdate": "2022-07-21 02:25:52",
     "addeddate": "2022-07-21 02:25:52"
   },
-  "server": "ia601506.us.archive.org",
-  "uniq": 6255654,
+  "server": "ia801506.us.archive.org",
+  "uniq": 1975817282,
   "workable_servers": [
-    "ia601506.us.archive.org",
-    "ia801506.us.archive.org"
+    "ia801506.us.archive.org",
+    "ia601506.us.archive.org"
   ]
 }

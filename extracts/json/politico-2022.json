@@ -1,5 +1,5 @@
 {
-  "created": 1659356961,
+  "created": 1659401078,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/14/items/politico-2022",
@@ -3442,31 +3442,83 @@
       "sha1": "a48e082f99f6c92c9b4db8612dd74502e0884e16"
     },
     {
+      "name": "politico-2022-08-01T12:06:57.554840-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659370023",
+      "size": "58803",
+      "md5": "0e904fcc86cc8edbb857e7046bbde1f2",
+      "crc32": "7f541170",
+      "sha1": "2f8450c72fa0f8edf3fefcf61b116c4c9e3351ee",
+      "format": "JSON"
+    },
+    {
+      "name": "politico-2022-08-01T12:06:57.554840-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659370026",
+      "size": "47715",
+      "md5": "3ed5745885c2a5b2cffd414c66004029",
+      "crc32": "c514f5fa",
+      "sha1": "c9e329640df4466592b7b4a5eba00f77dac69f45",
+      "format": "JSON"
+    },
+    {
+      "name": "politico-2022-08-01T12:06:57.554840-04:00.jpg",
+      "source": "original",
+      "mtime": "1659370021",
+      "size": "245850",
+      "md5": "2412f93e6b6facf044d52c928f3329fb",
+      "crc32": "be6a0516",
+      "sha1": "927010e13d487faadebec218be4b50255d2513e9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "politico-2022-08-01T12:06:57.554840-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659370028",
+      "size": "1475",
+      "md5": "ff636998576627293f2191bc8fda8ef5",
+      "crc32": "ade897da",
+      "sha1": "91b8e5c5381d1ca736da5666859b2db39a491a65",
+      "format": "JSON"
+    },
+    {
+      "name": "politico-2022-08-01T12:06:57.554840-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "politico-2022-08-01T12:06:57.554840-04:00.jpg",
+      "mtime": "1659374587",
+      "size": "9172",
+      "md5": "805ea070dddb4ff437bb9e0262212b76",
+      "crc32": "342106c7",
+      "sha1": "89404727cefbd182b04f214b15f5d3e2ab7ac74f"
+    },
+    {
       "name": "politico-2022_archive.torrent",
       "source": "metadata",
-      "btih": "77fdb9bfaaa7a7721238cc2c076941c2d31da3a9",
-      "mtime": "1659326907",
-      "size": "70599",
-      "md5": "6b762f2a605371457b519fa87bb35a16",
-      "crc32": "79c4dfb8",
-      "sha1": "4f8d3ee2b1bc0bd7989efad8e08fc88ad1ab730d",
+      "btih": "9a87534a23fee880de46c39e6aac2ad230ece2de",
+      "mtime": "1659374593",
+      "size": "71658",
+      "md5": "904806bfe3aed5ebc0db5c7790f6b5fd",
+      "crc32": "c85b0330",
+      "sha1": "0101bed0ac920d3a84e819107d0c8f3812217bd9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "politico-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d9f3966a22b7c5a852a922197140de04",
+      "md5": "0511535c3848001fce407567559ac9c0",
       "summation": "md5"
     },
     {
       "name": "politico-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659326167",
-      "size": "397312",
-      "md5": "04b68d6636ab578485ec360faa9da689",
-      "crc32": "2f130286",
-      "sha1": "054ccaea367e4413e99e4bd851536bf3ecde5fae",
+      "mtime": "1659370034",
+      "size": "405504",
+      "md5": "7ab37b2d0ecc62812a13e22a0bf9b469",
+      "crc32": "b28a9e3f",
+      "sha1": "15f866404b5894b218a59463d4d441e6e3bd50eb",
       "format": "Metadata"
     },
     {
@@ -3480,9 +3532,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 332,
-  "item_last_updated": 1659326907,
-  "item_size": 30896134,
+  "files_count": 337,
+  "item_last_updated": 1659374593,
+  "item_size": 31268400,
   "metadata": {
     "identifier": "politico-2022",
     "collection": [
@@ -3503,10 +3555,10 @@
     {
       "url": "https://www.politico.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_politico_com-_-2022_08_01_03_38_20.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_politico_com-_-2022_08_01_03_38_20.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_politico_com-_-2022_08_01_15_19_18.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_politico_com-_-2022_08_01_15_19_18.report.json",
       "summary": {
-        "performance": 0.17,
+        "performance": 0.21,
         "accessibility": 0.84,
         "best-practices": 0.67,
         "seo": 0.91,
@@ -3516,10 +3568,10 @@
     {
       "url": "https://www.politico.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_politico_com-_-2022_08_01_03_38_53.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_politico_com-_-2022_08_01_03_38_53.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_politico_com-_-2022_08_01_15_19_55.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_politico_com-_-2022_08_01_15_19_55.report.json",
       "summary": {
-        "performance": 0.17,
+        "performance": 0.2,
         "accessibility": 0.84,
         "best-practices": 0.67,
         "seo": 0.91,
@@ -3529,10 +3581,10 @@
     {
       "url": "https://www.politico.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_politico_com-_-2022_08_01_03_39_25.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_politico_com-_-2022_08_01_03_39_25.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_politico_com-_-2022_08_01_15_20_28.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_politico_com-_-2022_08_01_15_20_28.report.json",
       "summary": {
-        "performance": 0.16,
+        "performance": 0.2,
         "accessibility": 0.84,
         "best-practices": 0.67,
         "seo": 0.91,
@@ -3541,7 +3593,7 @@
     }
   ],
   "server": "ia802500.us.archive.org",
-  "uniq": 1150289220,
+  "uniq": 1404946148,
   "workable_servers": [
     "ia802500.us.archive.org",
     "ia902500.us.archive.org"

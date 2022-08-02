@@ -1,5 +1,5 @@
 {
-  "created": 1659357227,
+  "created": 1659401416,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/4/items/vgnett-2022",
@@ -1236,31 +1236,83 @@
       "sha1": "aeeeceb5e876c07f8db91ba56c9ed203a6002777"
     },
     {
+      "name": "vgnett-2022-08-01T18:15:07.682139+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659370512",
+      "size": "160471",
+      "md5": "973258e5978d8f35bdac2107cb16273f",
+      "crc32": "d8a96126",
+      "sha1": "eb4b2d5421d921779824acab3d420c270157b1e2",
+      "format": "JSON"
+    },
+    {
+      "name": "vgnett-2022-08-01T18:15:07.682139+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659370513",
+      "size": "75692",
+      "md5": "e2586303db106721d58450b5472c530f",
+      "crc32": "3aeedba7",
+      "sha1": "1be54185645151e78c1297d3c8f2f618f04c4fce",
+      "format": "JSON"
+    },
+    {
+      "name": "vgnett-2022-08-01T18:15:07.682139+02:00.jpg",
+      "source": "original",
+      "mtime": "1659370510",
+      "size": "275543",
+      "md5": "7a67ec04bbfd49f1d01c4c8f3d638bca",
+      "crc32": "b12881ab",
+      "sha1": "3a4ab96a48afdd9471d7c20d9dfd1320688913c3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vgnett-2022-08-01T18:15:07.682139+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659370515",
+      "size": "1405",
+      "md5": "6c07d71b6190380f4716c5ab3a639236",
+      "crc32": "807f2d8e",
+      "sha1": "6cc921ccf9c6df1b7f7db483a07124f843b3dc97",
+      "format": "JSON"
+    },
+    {
+      "name": "vgnett-2022-08-01T18:15:07.682139+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vgnett-2022-08-01T18:15:07.682139+02:00.jpg",
+      "mtime": "1659374901",
+      "size": "10965",
+      "md5": "878028f886a4763331892893c44618e3",
+      "crc32": "69521302",
+      "sha1": "1203a82d854ffbc71b9575e8455854cd544340e9"
+    },
+    {
       "name": "vgnett-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7ceb1e56ee5e0abadbe46fc15ef437cf8570a0ca",
-      "mtime": "1659326833",
-      "size": "26190",
-      "md5": "458f6acea045fc60dc57eda75f0d6fd7",
-      "crc32": "f942a18a",
-      "sha1": "fbe4469b7da12688eec3c8ffeb703c728f3c81e2",
+      "btih": "a5fd0c45c5c8cfad9696cd40e7435f45ef233c7e",
+      "mtime": "1659374927",
+      "size": "27241",
+      "md5": "4b366efd4af1b240b93498ff4d1916bb",
+      "crc32": "c319f058",
+      "sha1": "a7f0448e9824e85de95908b99e96c58e6dab0f67",
       "format": "Archive BitTorrent"
     },
     {
       "name": "vgnett-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0c0a246ad54f03243bdce778c913a721",
+      "md5": "579aee9bb646483e1499572516c4754d",
       "summation": "md5"
     },
     {
       "name": "vgnett-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659326559",
-      "size": "163840",
-      "md5": "ced0e7981dd181451d4df3243774d00f",
-      "crc32": "0275129f",
-      "sha1": "8b4d91e497edbd76b5c15ec03258965b24664dae",
+      "mtime": "1659370519",
+      "size": "167936",
+      "md5": "e2980c4007870c264fb920117c925d75",
+      "crc32": "e206bf8c",
+      "sha1": "7fc5b60741c64d6196c985325afa837c97771b2b",
       "format": "Metadata"
     },
     {
@@ -1274,9 +1326,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 122,
-  "item_last_updated": 1659326833,
-  "item_size": 12657244,
+  "files_count": 127,
+  "item_last_updated": 1659374927,
+  "item_size": 13186467,
   "metadata": {
     "identifier": "vgnett-2022",
     "collection": [
@@ -1294,15 +1346,15 @@
     "addeddate": "2022-07-20 11:37:24"
   },
   "server": "ia801400.us.archive.org",
-  "uniq": 790427880,
+  "uniq": 1606355774,
   "vgnett-2022": [
     {
       "url": "https://www.vg.no/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vg_no-_-2022_08_01_03_47_47.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vg_no-_-2022_08_01_03_47_47.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vg_no-_-2022_08_01_15_30_48.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vg_no-_-2022_08_01_15_30_48.report.json",
       "summary": {
-        "performance": 0.41,
+        "performance": 0.55,
         "accessibility": 0.91,
         "best-practices": 0.92,
         "seo": 1,
@@ -1312,10 +1364,10 @@
     {
       "url": "https://www.vg.no/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vg_no-_-2022_08_01_03_48_08.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vg_no-_-2022_08_01_03_48_08.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vg_no-_-2022_08_01_15_31_09.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vg_no-_-2022_08_01_15_31_09.report.json",
       "summary": {
-        "performance": 0.42,
+        "performance": 0.54,
         "accessibility": 0.91,
         "best-practices": 0.92,
         "seo": 1,
@@ -1325,10 +1377,10 @@
     {
       "url": "https://www.vg.no/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vg_no-_-2022_08_01_03_47_24.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vg_no-_-2022_08_01_03_47_24.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vg_no-_-2022_08_01_15_30_25.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vg_no-_-2022_08_01_15_30_25.report.json",
       "summary": {
-        "performance": 0.45,
+        "performance": 0.48,
         "accessibility": 0.91,
         "best-practices": 0.92,
         "seo": 1,

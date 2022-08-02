@@ -1,5 +1,5 @@
 {
-  "created": 1659357293,
+  "created": 1659401482,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/33/items/wired-2022",
@@ -3178,31 +3178,83 @@
       "sha1": "a46ffb7313fdd55857374556e65f2ed5f864e2ab"
     },
     {
+      "name": "wired-2022-08-01T09:16:52.548425-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659370615",
+      "size": "34869",
+      "md5": "463d9c7a9cdafa6ed3af3a56541bd825",
+      "crc32": "b81c4726",
+      "sha1": "d843948cacc21e0ffc6aa0270d3299f63b11303b",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-08-01T09:16:52.548425-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659370616",
+      "size": "21456",
+      "md5": "22986dca6afcd17de1d08917140ee6f2",
+      "crc32": "08770c54",
+      "sha1": "6a227c86560e19b9c9566966b8b1a25687bae42e",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-08-01T09:16:52.548425-07:00.jpg",
+      "source": "original",
+      "mtime": "1659370613",
+      "size": "256882",
+      "md5": "7675f8df3506bc8d02177e199cd1bcbc",
+      "crc32": "7928b496",
+      "sha1": "37e8461c3741c4b67dc6e56d6b3b1863764317e2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wired-2022-08-01T09:16:52.548425-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659370617",
+      "size": "1448",
+      "md5": "2c53b23355809d9317e027880faa60ad",
+      "crc32": "20cf316e",
+      "sha1": "b9ed1f0b2934e47aa31e74f0fa76f40262b20fbb",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-08-01T09:16:52.548425-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wired-2022-08-01T09:16:52.548425-07:00.jpg",
+      "mtime": "1659375036",
+      "size": "9784",
+      "md5": "eae81e91cc28d052447c4cfc82a87297",
+      "crc32": "20102670",
+      "sha1": "dbda9361e34baee764881bd9a48b2696a6dd724e"
+    },
+    {
       "name": "wired-2022_archive.torrent",
       "source": "metadata",
-      "btih": "52f3fc23e3d1d5d0ee82282f0542c1c93ba2bee8",
-      "mtime": "1659326994",
-      "size": "64382",
-      "md5": "3a57f5c759f7db6d2cbc815df61e012a",
-      "crc32": "04c3afbb",
-      "sha1": "296653448e180e43d09eb3e166d8cacae0b83e2d",
+      "btih": "ed6243c1499fcf1a9931651fbd522c3d70757e04",
+      "mtime": "1659375044",
+      "size": "65426",
+      "md5": "dc014558061a3eca7bda354988b845d0",
+      "crc32": "172d32d6",
+      "sha1": "07521c1188aef71bc1eef8810a12efeb8d345348",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wired-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "252d7d65d6d65bb79311739141260909",
+      "md5": "11a074fbbfa7e58b278fd0d4f10d9059",
       "summation": "md5"
     },
     {
       "name": "wired-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659326602",
-      "size": "372736",
-      "md5": "61b1d01ebd77cecbdb32a39988e98051",
-      "crc32": "96dd9ac5",
-      "sha1": "432962f110c1870cbb3195389c205f5518741773",
+      "mtime": "1659370622",
+      "size": "380928",
+      "md5": "5422d45a6465717e42364d8880a133e2",
+      "crc32": "e99bdc78",
+      "sha1": "dbca3bbdd3774f92f7186ca3a1674ce5e4387213",
       "format": "Metadata"
     },
     {
@@ -3216,9 +3268,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 307,
-  "item_last_updated": 1659326994,
-  "item_size": 26034508,
+  "files_count": 312,
+  "item_last_updated": 1659375044,
+  "item_size": 26368183,
   "metadata": {
     "identifier": "wired-2022",
     "collection": [
@@ -3235,14 +3287,14 @@
     "publicdate": "2022-07-04 20:17:35",
     "addeddate": "2022-07-04 20:17:35"
   },
-  "server": "ia801409.us.archive.org",
-  "uniq": 1811666137,
+  "server": "ia601409.us.archive.org",
+  "uniq": 1442271471,
   "wired-2022": [
     {
       "url": "https://www.wired.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wired_com-_-2022_08_01_03_50_45.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wired_com-_-2022_08_01_03_50_45.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wired_com-_-2022_08_01_15_32_44.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wired_com-_-2022_08_01_15_32_44.report.json",
       "summary": {
         "performance": 0.2,
         "accessibility": 0.98,
@@ -3254,10 +3306,10 @@
     {
       "url": "https://www.wired.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wired_com-_-2022_08_01_03_51_16.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wired_com-_-2022_08_01_03_51_16.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wired_com-_-2022_08_01_15_33_28.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wired_com-_-2022_08_01_15_33_28.report.json",
       "summary": {
-        "performance": 0.22,
+        "performance": 0.2,
         "accessibility": 0.98,
         "best-practices": 0.83,
         "seo": 0.98,
@@ -3267,10 +3319,10 @@
     {
       "url": "https://www.wired.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wired_com-_-2022_08_01_03_50_10.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wired_com-_-2022_08_01_03_50_10.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wired_com-_-2022_08_01_15_34_06.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wired_com-_-2022_08_01_15_34_06.report.json",
       "summary": {
-        "performance": 0.22,
+        "performance": 0.21,
         "accessibility": 0.98,
         "best-practices": 0.83,
         "seo": 0.98,
@@ -3279,7 +3331,7 @@
     }
   ],
   "workable_servers": [
-    "ia801409.us.archive.org",
-    "ia601409.us.archive.org"
+    "ia601409.us.archive.org",
+    "ia801409.us.archive.org"
   ]
 }

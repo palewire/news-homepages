@@ -1,5 +1,5 @@
 {
-  "created": 1659356695,
+  "created": 1659400660,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/26/items/live_hindustan-2022",
@@ -577,31 +577,83 @@
       "format": "JSON"
     },
     {
+      "name": "live_hindustan-2022-08-01T17:54:07.805514+05:30_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "live_hindustan-2022-08-01T17:54:07.805514+05:30.jpg",
+      "mtime": "1659364603",
+      "size": "10679",
+      "md5": "9944b46d5f18ef95f58ad3d24d926c2b",
+      "crc32": "d25de73d",
+      "sha1": "b2fbd62adcf65c42e778ad21a9dc42c04f67c500"
+    },
+    {
+      "name": "live_hindustan-2022-08-02T06:06:53.053203+05:30.accessibility.json",
+      "source": "original",
+      "mtime": "1659400617",
+      "size": "115087",
+      "md5": "45bbc6e4382762f2a3687b92073cfcd3",
+      "crc32": "afc112a7",
+      "sha1": "de976708bd8d2c169474d15d350cec09284fcb31",
+      "format": "JSON"
+    },
+    {
+      "name": "live_hindustan-2022-08-02T06:06:53.053203+05:30.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659400618",
+      "size": "127801",
+      "md5": "f1b8842f339d240b3b3f40dce6dcd92f",
+      "crc32": "4e06224e",
+      "sha1": "6b99b9183127e7805b02a72709390813ac8bf0ba",
+      "format": "JSON"
+    },
+    {
+      "name": "live_hindustan-2022-08-02T06:06:53.053203+05:30.jpg",
+      "source": "original",
+      "mtime": "1659400615",
+      "size": "355229",
+      "md5": "c277564fb9c6ed9521ab2fbd944fe766",
+      "crc32": "62e37029",
+      "sha1": "c57b34f656efb641441f227ba997fcf1c8cbc675",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "live_hindustan-2022-08-02T06:06:53.053203+05:30.lighthouse.json",
+      "source": "original",
+      "mtime": "1659400620",
+      "size": "1521",
+      "md5": "4bdc35004d456bbce5eaf98d68368a4d",
+      "crc32": "7d8e6d38",
+      "sha1": "00a52b3ef7d4511504fbe97773e9873a3de37ed1",
+      "format": "JSON"
+    },
+    {
       "name": "live_hindustan-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f4bc13ae02c76277ad1e04a3b68a182579686c91",
-      "mtime": "1659356693",
-      "size": "13502",
-      "md5": "019f4a1daf44141af039e2963090b610",
-      "crc32": "a26f3f7e",
-      "sha1": "3cb02339cc82ee53a63b9ed312cea2f178dcb7c2",
+      "btih": "0b9223e75ebd562a98b13106d60a01a050556951",
+      "mtime": "1659400658",
+      "size": "14614",
+      "md5": "6501052d2f5ed5522d776bc02e51ba4d",
+      "crc32": "550944fa",
+      "sha1": "c5cf905be6063e805d2669fa7c7e5e67590b6a82",
       "format": "Archive BitTorrent"
     },
     {
       "name": "live_hindustan-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "da12fb96a9dc6d0b476f1ac91e809c7d",
+      "md5": "001e1b160e6bb6d67ed94a280e590afb",
       "summation": "md5"
     },
     {
       "name": "live_hindustan-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659356658",
-      "size": "81920",
-      "md5": "f27392e107c0e62291ed93a3b8a7ab20",
-      "crc32": "659ed12b",
-      "sha1": "8a697c44f123514c9bdec2f916d07a9b85bf64d3",
+      "mtime": "1659400623",
+      "size": "86016",
+      "md5": "ebd2fab3c2034c1b1b4a05e09e3fac6f",
+      "crc32": "c740801a",
+      "sha1": "a41523fba08c74484fe7280d4f6dd42c1945aa9e",
       "format": "Metadata"
     },
     {
@@ -615,9 +667,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 59,
-  "item_last_updated": 1659356693,
-  "item_size": 6790968,
+  "files_count": 64,
+  "item_last_updated": 1659400658,
+  "item_size": 7406493,
   "metadata": {
     "identifier": "live_hindustan-2022",
     "collection": [
@@ -639,7 +691,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3349628423,
+      "task_id": 3350047970,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -647,7 +699,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 888001114,
+  "uniq": 1400259329,
   "workable_servers": [
     "ia902503.us.archive.org"
   ]

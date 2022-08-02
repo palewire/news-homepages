@@ -1,5 +1,5 @@
 {
-  "created": 1659357301,
+  "created": 1659401494,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/28/items/wnyc-2022",
@@ -3808,31 +3808,83 @@
       "sha1": "dedf4a419402134b87e61f6b859d9cd018065527"
     },
     {
+      "name": "wnyc-2022-08-01T10:53:24.227311-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659365608",
+      "size": "26979",
+      "md5": "7965d180b2496ef464a9187bf00cf3bd",
+      "crc32": "5451fa67",
+      "sha1": "c0f65c3262127b0cacbd00825e06e8d7b0482665",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyc-2022-08-01T10:53:24.227311-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659365610",
+      "size": "24380",
+      "md5": "6165c674f9ffc4444b6b1a457d324da3",
+      "crc32": "5c8b0f4c",
+      "sha1": "1566782f8b72e30c527fb0fe66af96362b941a1b",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyc-2022-08-01T10:53:24.227311-04:00.jpg",
+      "source": "original",
+      "mtime": "1659365606",
+      "size": "189804",
+      "md5": "ea7b8b09a6a2e2d5f956092b9a293550",
+      "crc32": "24928095",
+      "sha1": "19d3480873992d57baf46602836c8e5ed60b59f8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wnyc-2022-08-01T10:53:24.227311-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659365611",
+      "size": "1441",
+      "md5": "8d37c776e1966f91b1d6a6cf99fa621f",
+      "crc32": "21be7265",
+      "sha1": "7063aea84b797e2c2325d50d293b0e976cb16818",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyc-2022-08-01T10:53:24.227311-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wnyc-2022-08-01T10:53:24.227311-04:00.jpg",
+      "mtime": "1659371679",
+      "size": "9265",
+      "md5": "737929048814c20ae2361cf052d6c6da",
+      "crc32": "cda2d541",
+      "sha1": "f86332da590889863f8d6c287093a6c347f66a14"
+    },
+    {
       "name": "wnyc-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f31cd82233e918b26a5563f9015c623f28bb21a6",
-      "mtime": "1659318037",
-      "size": "76046",
-      "md5": "824d0d6ac2ba8b270fe8106d4bc6c847",
-      "crc32": "a2085184",
-      "sha1": "52ed620880c1645492a35319ffcb3ec0ce36ec2b",
+      "btih": "32c55f32920b4b302c769bf4f3d5fce5e60f2228",
+      "mtime": "1659371686",
+      "size": "77085",
+      "md5": "efb1b1155b40af4b429e32e38d0fd576",
+      "crc32": "d1a88d32",
+      "sha1": "06535331c83a316d41ba0981725d30946a2a06ee",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wnyc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4ae1656ac2e2f0bd37b79c647ab41e74",
+      "md5": "1d1fbef6aaa55243b9cfb97ab6da7a3d",
       "summation": "md5"
     },
     {
       "name": "wnyc-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659317509",
-      "size": "434176",
-      "md5": "f16f28772f035aa8883f88865556b096",
-      "crc32": "1928436c",
-      "sha1": "535b1d2f03fca2de6f9b8800dd269eb290a715a7",
+      "mtime": "1659365618",
+      "size": "446464",
+      "md5": "b2eac0c91cc13a9992a51702d49f18f6",
+      "crc32": "501f13bc",
+      "sha1": "964d050482ae5bcce2bde9b760cc551d99df695e",
       "format": "Metadata"
     },
     {
@@ -3846,9 +3898,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 367,
-  "item_last_updated": 1659318037,
-  "item_size": 22430691,
+  "files_count": 372,
+  "item_last_updated": 1659371686,
+  "item_size": 22695887,
   "metadata": {
     "identifier": "wnyc-2022",
     "collection": [
@@ -3865,16 +3917,16 @@
     "publicdate": "2022-06-27 18:14:25",
     "addeddate": "2022-06-27 18:14:25"
   },
-  "server": "ia801408.us.archive.org",
-  "uniq": 1792072674,
+  "server": "ia601408.us.archive.org",
+  "uniq": 20947658,
   "wnyc-2022": [
     {
       "url": "https://www.wnyc.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wnyc_org-_-2022_08_01_01_13_55.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wnyc_org-_-2022_08_01_01_13_55.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wnyc_org-_-2022_08_01_13_37_31.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wnyc_org-_-2022_08_01_13_37_31.report.json",
       "summary": {
-        "performance": 0.06,
+        "performance": 0.16,
         "accessibility": 0.92,
         "best-practices": 0.75,
         "seo": 0.92,
@@ -3884,10 +3936,10 @@
     {
       "url": "https://www.wnyc.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wnyc_org-_-2022_08_01_01_14_52.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wnyc_org-_-2022_08_01_01_14_52.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wnyc_org-_-2022_08_01_13_37_51.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wnyc_org-_-2022_08_01_13_37_51.report.json",
       "summary": {
-        "performance": 0.05,
+        "performance": 0.16,
         "accessibility": 0.92,
         "best-practices": 0.75,
         "seo": 0.92,
@@ -3897,8 +3949,8 @@
     {
       "url": "https://www.wnyc.org/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wnyc_org-_-2022_08_01_01_14_17.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wnyc_org-_-2022_08_01_01_14_17.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wnyc_org-_-2022_08_01_13_37_10.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wnyc_org-_-2022_08_01_13_37_10.report.json",
       "summary": {
         "performance": 0.16,
         "accessibility": 0.92,
@@ -3909,7 +3961,7 @@
     }
   ],
   "workable_servers": [
-    "ia801408.us.archive.org",
-    "ia601408.us.archive.org"
+    "ia601408.us.archive.org",
+    "ia801408.us.archive.org"
   ]
 }

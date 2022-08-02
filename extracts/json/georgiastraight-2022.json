@@ -1,5 +1,5 @@
 {
-  "created": 1659321557,
+  "created": 1659400753,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/14/items/georgiastraight-2022",
@@ -3600,31 +3600,83 @@
       "sha1": "f5dbce102cef1def144f8c3d1b6b0d6f84437c4b"
     },
     {
+      "name": "georgiastraight-2022-08-01T07:58:55.793027-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659365938",
+      "size": "28765",
+      "md5": "e9843c808c05b5c67c353bf552598924",
+      "crc32": "27fb0088",
+      "sha1": "9254a95477da2392e0cadc9e5b16f4d15a5a70f9",
+      "format": "JSON"
+    },
+    {
+      "name": "georgiastraight-2022-08-01T07:58:55.793027-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659365939",
+      "size": "28615",
+      "md5": "6dc7cff64b4a979b0d0552bcea40b218",
+      "crc32": "91631d64",
+      "sha1": "f411fac1edebc94cf72e97e1dea1c28ce15c98fd",
+      "format": "JSON"
+    },
+    {
+      "name": "georgiastraight-2022-08-01T07:58:55.793027-07:00.jpg",
+      "source": "original",
+      "mtime": "1659365937",
+      "size": "308472",
+      "md5": "febb32d08a3485de68145e8e989a18b8",
+      "crc32": "60010011",
+      "sha1": "8192781d42a2638af25f9690b224e96219ba2410",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "georgiastraight-2022-08-01T07:58:55.793027-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659365941",
+      "size": "1473",
+      "md5": "1abbfadcc9f16d1e7c7f301005554be5",
+      "crc32": "a7608968",
+      "sha1": "ac2dc06a350430d64f41d858e35d57d05bb81d67",
+      "format": "JSON"
+    },
+    {
+      "name": "georgiastraight-2022-08-01T07:58:55.793027-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "georgiastraight-2022-08-01T07:58:55.793027-07:00.jpg",
+      "mtime": "1659372100",
+      "size": "9163",
+      "md5": "1bb560eea18c5519d0c94bd705b1cb22",
+      "crc32": "9b3912c6",
+      "sha1": "ae65311836d644247a50625159f7a41010f20cb2"
+    },
+    {
       "name": "georgiastraight-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6938e2bd3cb99c580239b05e50150ec888525f22",
-      "mtime": "1659321529",
-      "size": "76155",
-      "md5": "bebdc996aaf4f4300b8a874f1dae05a3",
-      "crc32": "48cd8ec4",
-      "sha1": "c45f835683f0772ef4728c3f7862c332ff0b2e56",
+      "btih": "54c8a9c24ea645406c498f3a0478a34b0f721efe",
+      "mtime": "1659372106",
+      "size": "77249",
+      "md5": "1d2fde0bae8e2290c582530eb5377b7f",
+      "crc32": "0cde91a1",
+      "sha1": "98e1b3b388452944f2c2fd1bd3a512b2b71c4a58",
       "format": "Archive BitTorrent"
     },
     {
       "name": "georgiastraight-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d3f1b452ad60adb7b1ea26f476582d5e",
+      "md5": "39703b875dfaf3cc9b164afa2c3f7d4c",
       "summation": "md5"
     },
     {
       "name": "georgiastraight-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659321348",
-      "size": "421888",
-      "md5": "277eff675aa6f8dffbfb6840d1137fed",
-      "crc32": "b1d88747",
-      "sha1": "070b8dddc915b7c190b1e354cb97ae887081d211",
+      "mtime": "1659365945",
+      "size": "425984",
+      "md5": "e93ddcacd04d92d7a2d1007a0f483296",
+      "crc32": "8990a14c",
+      "sha1": "143e100026ff48b7b7b5855a89dc73e48e9dc8e1",
       "format": "Metadata"
     },
     {
@@ -3638,9 +3690,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 347,
-  "item_last_updated": 1659321529,
-  "item_size": 30958644,
+  "files_count": 352,
+  "georgiastraight-2022": [
+    {
+      "url": "https://www.straight.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_straight_com-_-2022_08_01_14_30_39.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_straight_com-_-2022_08_01_14_30_39.report.json",
+      "summary": {
+        "performance": 0.41,
+        "accessibility": 0.94,
+        "best-practices": 0.92,
+        "seo": 0.9,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.straight.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_straight_com-_-2022_08_01_14_31_15.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_straight_com-_-2022_08_01_14_31_15.report.json",
+      "summary": {
+        "performance": 0.4,
+        "accessibility": 0.94,
+        "best-practices": 0.92,
+        "seo": 0.9,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.straight.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_straight_com-_-2022_08_01_14_30_58.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_straight_com-_-2022_08_01_14_30_58.report.json",
+      "summary": {
+        "performance": 0.34,
+        "accessibility": 0.94,
+        "best-practices": 0.92,
+        "seo": 0.9,
+        "pwa": 0.4
+      }
+    }
+  ],
+  "item_last_updated": 1659372106,
+  "item_size": 31340322,
   "metadata": {
     "identifier": "georgiastraight-2022",
     "collection": [
@@ -3657,10 +3750,10 @@
     "publicdate": "2022-06-30 22:35:36",
     "addeddate": "2022-06-30 22:35:36"
   },
-  "server": "ia601403.us.archive.org",
-  "uniq": 1662772521,
+  "server": "ia801403.us.archive.org",
+  "uniq": 511536689,
   "workable_servers": [
-    "ia601403.us.archive.org",
-    "ia801403.us.archive.org"
+    "ia801403.us.archive.org",
+    "ia601403.us.archive.org"
   ]
 }

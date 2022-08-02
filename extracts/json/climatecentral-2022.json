@@ -1,5 +1,5 @@
 {
-  "created": 1659352474,
+  "created": 1659397110,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/13/items/climatecentral-2022",
@@ -993,31 +993,94 @@
       "format": "JSON"
     },
     {
+      "name": "climatecentral-2022-08-01T07:13:46.266082-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "climatecentral-2022-08-01T07:13:46.266082-04:00.jpg",
+      "mtime": "1659360715",
+      "size": "8464",
+      "md5": "1ea704d681328ce1e53a02e3120f1b98",
+      "crc32": "04172dd6",
+      "sha1": "12d2b07c85666b45e0cb7a6864121118e8b2f36d"
+    },
+    {
+      "name": "climatecentral-2022-08-01T19:16:52.637415-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659395816",
+      "size": "10598",
+      "md5": "00ddf87c9db06325ee62e482cea26ccd",
+      "crc32": "ed3353cb",
+      "sha1": "5c19481a8b9d18c268b07cea61c3e3753ee3136b",
+      "format": "JSON"
+    },
+    {
+      "name": "climatecentral-2022-08-01T19:16:52.637415-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659395817",
+      "size": "9519",
+      "md5": "db93dc8adeb909cc63f76054c0ac1cc7",
+      "crc32": "05e58ac2",
+      "sha1": "987708eabeb6eef1c3d55c8c178167fdd87a0fc4",
+      "format": "JSON"
+    },
+    {
+      "name": "climatecentral-2022-08-01T19:16:52.637415-04:00.jpg",
+      "source": "original",
+      "mtime": "1659395814",
+      "size": "193435",
+      "md5": "2e0c72002822e6011264c57bfca26bd8",
+      "crc32": "2c621404",
+      "sha1": "cc68aaed46ea78e11c12a463edbf7f080412d652",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "climatecentral-2022-08-01T19:16:52.637415-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659395819",
+      "size": "1521",
+      "md5": "97fd5e83c0594a6a6cc3a82f1397bb72",
+      "crc32": "485854e1",
+      "sha1": "5ff26305312b6b289eaba1c0bc9c1114b256b053",
+      "format": "JSON"
+    },
+    {
+      "name": "climatecentral-2022-08-01T19:16:52.637415-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "climatecentral-2022-08-01T19:16:52.637415-04:00.jpg",
+      "mtime": "1659397051",
+      "size": "8464",
+      "md5": "1ea704d681328ce1e53a02e3120f1b98",
+      "crc32": "04172dd6",
+      "sha1": "12d2b07c85666b45e0cb7a6864121118e8b2f36d"
+    },
+    {
       "name": "climatecentral-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bb84d1d6f58d9665f56761f1fca7441f8c9155d1",
-      "mtime": "1659352471",
-      "size": "21928",
-      "md5": "666e25ae2aba747454a36e4a7e59e2a7",
-      "crc32": "2409cbd4",
-      "sha1": "72589f6b43d5c1fa65d95e81856bbd608af2e1cb",
+      "btih": "7586b82460e06a881dcaff1649c89e8d4b4850c8",
+      "mtime": "1659397074",
+      "size": "23206",
+      "md5": "6aea0d79155486f4b873184c32e8e3e5",
+      "crc32": "b8766467",
+      "sha1": "734d5a0d3a975941f377823c2d0d9e359adeb34a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "climatecentral-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2a5df248cf36ab26aaad0885ad4656ce",
+      "md5": "09e8aedba4436e642902c8978365f8cf",
       "summation": "md5"
     },
     {
       "name": "climatecentral-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659352436",
-      "size": "143360",
-      "md5": "ff55d330cdb2b042f70b8466ba3593a3",
-      "crc32": "72ad6421",
-      "sha1": "4c34230f5c36795e0606b541d577b579e9090392",
+      "mtime": "1659395823",
+      "size": "147456",
+      "md5": "3cecf48cb66c856f510144f1e752a597",
+      "crc32": "feae044d",
+      "sha1": "e0f95e22e5caff45671b21a9fbc020489ac861f7",
       "format": "Metadata"
     },
     {
@@ -1031,9 +1094,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 99,
-  "item_last_updated": 1659352471,
-  "item_size": 4426454,
+  "files_count": 105,
+  "item_last_updated": 1659397074,
+  "item_size": 4663829,
   "metadata": {
     "identifier": "climatecentral-2022",
     "collection": [
@@ -1050,21 +1113,10 @@
     "publicdate": "2022-07-23 01:01:50",
     "addeddate": "2022-07-23 01:01:50"
   },
-  "pending_tasks": true,
-  "server": "ia601405.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3349590971,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1299749951,
+  "server": "ia801405.us.archive.org",
+  "uniq": 1270639145,
   "workable_servers": [
+    "ia801405.us.archive.org",
     "ia601405.us.archive.org"
   ]
 }

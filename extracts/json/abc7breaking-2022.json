@@ -3,12 +3,12 @@
     {
       "url": "https://kvia.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/kvia_com-_-2022_08_01_00_59_44.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/kvia_com-_-2022_08_01_00_59_44.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/kvia_com-_-2022_08_01_13_22_17.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/kvia_com-_-2022_08_01_13_22_17.report.json",
       "summary": {
-        "performance": 0.01,
-        "accessibility": 0.67,
-        "best-practices": 0.83,
+        "performance": 0.04,
+        "accessibility": 0.72,
+        "best-practices": 0.75,
         "seo": 0.78,
         "pwa": 0.7
       }
@@ -16,12 +16,12 @@
     {
       "url": "https://kvia.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/kvia_com-_-2022_08_01_01_00_23.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/kvia_com-_-2022_08_01_01_00_23.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/kvia_com-_-2022_08_01_13_23_31.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/kvia_com-_-2022_08_01_13_23_31.report.json",
       "summary": {
-        "performance": 0.01,
-        "accessibility": 0.67,
-        "best-practices": 0.83,
+        "performance": 0.05,
+        "accessibility": 0.72,
+        "best-practices": 0.75,
         "seo": 0.78,
         "pwa": 0.7
       }
@@ -29,18 +29,18 @@
     {
       "url": "https://kvia.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/kvia_com-_-2022_08_01_01_01_04.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/kvia_com-_-2022_08_01_01_01_04.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/kvia_com-_-2022_08_01_13_22_56.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/kvia_com-_-2022_08_01_13_22_56.report.json",
       "summary": {
-        "performance": 0.01,
-        "accessibility": 0.67,
-        "best-practices": 0.83,
+        "performance": 0.05,
+        "accessibility": 0.72,
+        "best-practices": 0.75,
         "seo": 0.78,
         "pwa": 0.7
       }
     }
   ],
-  "created": 1659356385,
+  "created": 1659400405,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/5/items/abc7breaking-2022",
@@ -1539,31 +1539,83 @@
       "sha1": "c4457f5ab9281a7abe9b1bfdaf745b1feb321cdb"
     },
     {
+      "name": "abc7breaking-2022-08-01T08:42:07.687103-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659364931",
+      "size": "20481",
+      "md5": "12dd4959a406db9c3bf277d4c39b11c4",
+      "crc32": "129d4493",
+      "sha1": "a8627006532a0a9b1b536302f059539d84a6b65b",
+      "format": "JSON"
+    },
+    {
+      "name": "abc7breaking-2022-08-01T08:42:07.687103-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659364933",
+      "size": "33253",
+      "md5": "3f063e10e72001515d8baf3811c223b1",
+      "crc32": "4fc36984",
+      "sha1": "82aebe405432de0d9e91505be5bb2cd5faf44111",
+      "format": "JSON"
+    },
+    {
+      "name": "abc7breaking-2022-08-01T08:42:07.687103-06:00.jpg",
+      "source": "original",
+      "mtime": "1659364930",
+      "size": "208605",
+      "md5": "b00e9fdc122ea565144284a689549df8",
+      "crc32": "91d396ea",
+      "sha1": "4683d9211ac206b7c83f1780e54b945bbf8146f9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "abc7breaking-2022-08-01T08:42:07.687103-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659364935",
+      "size": "1405",
+      "md5": "18e1365d97fb9a2465d794b347db9361",
+      "crc32": "196649ef",
+      "sha1": "5aaeacedab83711817b6fd4744b13a97795ec775",
+      "format": "JSON"
+    },
+    {
+      "name": "abc7breaking-2022-08-01T08:42:07.687103-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "abc7breaking-2022-08-01T08:42:07.687103-06:00.jpg",
+      "mtime": "1659370683",
+      "size": "9744",
+      "md5": "ec0368b387e03c7d5af77cc9fa614363",
+      "crc32": "129e2db4",
+      "sha1": "d81c12da0d226dd494ae95c72bb1cc183dab8550"
+    },
+    {
       "name": "abc7breaking-2022_archive.torrent",
       "source": "metadata",
-      "btih": "304a604c43041cc12b97e2684d777f94795ca78b",
-      "mtime": "1659317042",
-      "size": "32036",
-      "md5": "c2a3bc6a16493eb27863f3833605d18e",
-      "crc32": "aa17d5c4",
-      "sha1": "bbe40fc4bcb7a7a30e79d17447f8ce737840ecf8",
+      "btih": "a055373751d186b7430478ccce2272dc86f9fbff",
+      "mtime": "1659370810",
+      "size": "33115",
+      "md5": "8291f4c71da33802d78a5fdcd6e10409",
+      "crc32": "2d10c6ae",
+      "sha1": "f4987997cd76a444144c53c7dbea21fa37a43682",
       "format": "Archive BitTorrent"
     },
     {
       "name": "abc7breaking-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0f06d3267c5a2a179536b63f57e27f7b",
+      "md5": "4b43e95e1309b4c464c8a0e0e8b3abb8",
       "summation": "md5"
     },
     {
       "name": "abc7breaking-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659316954",
-      "size": "192512",
-      "md5": "1ae01027942ea5ced078d5a252974f67",
-      "crc32": "73dc605f",
-      "sha1": "1a819cd110f31de12c1417eaed5993394aba7d10",
+      "mtime": "1659364950",
+      "size": "200704",
+      "md5": "5eb361e2fb2807985eb7555975ab7d94",
+      "crc32": "d5c4da39",
+      "sha1": "da104bbdffb00a3c5b8348ed415e0355aee75afe",
       "format": "Metadata"
     },
     {
@@ -1577,9 +1629,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 147,
-  "item_last_updated": 1659317042,
-  "item_size": 8907118,
+  "files_count": 152,
+  "item_last_updated": 1659370810,
+  "item_size": 9189877,
   "metadata": {
     "identifier": "abc7breaking-2022",
     "collection": [
@@ -1596,10 +1648,10 @@
     "publicdate": "2022-07-18 00:04:35",
     "addeddate": "2022-07-18 00:04:35"
   },
-  "server": "ia601507.us.archive.org",
-  "uniq": 1490143550,
+  "server": "ia801507.us.archive.org",
+  "uniq": 1591686339,
   "workable_servers": [
-    "ia601507.us.archive.org",
-    "ia801507.us.archive.org"
+    "ia801507.us.archive.org",
+    "ia601507.us.archive.org"
   ]
 }

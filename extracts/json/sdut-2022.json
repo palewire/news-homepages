@@ -1,5 +1,5 @@
 {
-  "created": 1659357031,
+  "created": 1659401181,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/4/items/sdut-2022",
@@ -12668,31 +12668,135 @@
       "sha1": "880deb52b5132df242facb7a5de7f043b9de1792"
     },
     {
+      "name": "sdut-2022-08-01T09:10:18.213619-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659370228",
+      "size": "50303",
+      "md5": "172badbb9c1fc5e2324e4a7e9ebb610f",
+      "crc32": "aa8162a3",
+      "sha1": "6dbcc90fafa616f83eef41dff438fe03871cfaa4",
+      "format": "JSON"
+    },
+    {
+      "name": "sdut-2022-08-01T09:10:18.213619-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659370229",
+      "size": "66440",
+      "md5": "d46b86bd4ab66ffcbf57ad45542dc561",
+      "crc32": "d63f02c0",
+      "sha1": "4bcf27136edb9c7e343ea76e1f41fbf07e995a37",
+      "format": "JSON"
+    },
+    {
+      "name": "sdut-2022-08-01T09:10:18.213619-07:00.jpg",
+      "source": "original",
+      "mtime": "1659370224",
+      "size": "282325",
+      "md5": "dc2c7253a139523735d5466ef2e33f87",
+      "crc32": "be46b63d",
+      "sha1": "885a6ace695e58041946f70a096319557bc3a097",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sdut-2022-08-01T09:10:18.213619-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659370231",
+      "size": "1585",
+      "md5": "6c80083ab722e50904978a483d40a2ba",
+      "crc32": "c576b4c9",
+      "sha1": "6c7c5b3edae5630e125e7a189961b28136a4cff0",
+      "format": "JSON"
+    },
+    {
+      "name": "sdut-2022-08-01T09:10:18.213619-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sdut-2022-08-01T09:10:18.213619-07:00.jpg",
+      "mtime": "1659374780",
+      "size": "8843",
+      "md5": "0a8f64251be0e4204d58815db8dbecd2",
+      "crc32": "35e8bb46",
+      "sha1": "9393f35c701d5328a1ea62155386fb7a4894053f"
+    },
+    {
+      "name": "sdut-2022-08-01T11:25:55.021120-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659378357",
+      "size": "50004",
+      "md5": "df7272a05815f0ecfdcba6d8b4328594",
+      "crc32": "a3eceae3",
+      "sha1": "1ec45872aedf3705b7aa062776fcda879967bec6",
+      "format": "JSON"
+    },
+    {
+      "name": "sdut-2022-08-01T11:25:55.021120-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659378359",
+      "size": "65645",
+      "md5": "756a5ccecebe91e9d1bfc035d9a12ecb",
+      "crc32": "1ae6f32d",
+      "sha1": "5245250e3a2dab96c6c0734fa8c1b4f7050c1d9c",
+      "format": "JSON"
+    },
+    {
+      "name": "sdut-2022-08-01T11:25:55.021120-07:00.jpg",
+      "source": "original",
+      "mtime": "1659378356",
+      "size": "280386",
+      "md5": "5f0d693f99f37d7dc8fd65608bb5f198",
+      "crc32": "9f331619",
+      "sha1": "276989aa8ffc89c54023cc93666853502695e2b1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sdut-2022-08-01T11:25:55.021120-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659378360",
+      "size": "1585",
+      "md5": "d23ee43506211d076290e43f4f40a306",
+      "crc32": "f3ba6683",
+      "sha1": "8bde909256ac7744ddfdb1cccf90267122178095",
+      "format": "JSON"
+    },
+    {
+      "name": "sdut-2022-08-01T11:25:55.021120-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sdut-2022-08-01T11:25:55.021120-07:00.jpg",
+      "mtime": "1659382739",
+      "size": "8688",
+      "md5": "215c2d2c20b77ef5b52c83780285c914",
+      "crc32": "a741408f",
+      "sha1": "c3fc63ddcf9d95a1030defcfdac855ab06d0a20b"
+    },
+    {
       "name": "sdut-2022_archive.torrent",
       "source": "metadata",
-      "btih": "054482f9bcccf7fcca67ab395bffe1cc3d3d8abf",
-      "mtime": "1659326582",
-      "size": "251178",
-      "md5": "26d2b3cab5615bb4080849c00bc903f5",
-      "crc32": "fdca09fb",
-      "sha1": "2261d04a160a151fdfd825c1ddc48d049690a204",
+      "btih": "1fe0f9a7f1bbd2db57914b3bc65f02f746069232",
+      "mtime": "1659382776",
+      "size": "253256",
+      "md5": "07ce77e5fa0ca6f0430ab7b6c734c2e1",
+      "crc32": "0b90adca",
+      "sha1": "91594055655b46ab1eec11a5567ce84fe99f04a4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sdut-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4c15fb3706f7ceb471bbf24094d2d460",
+      "md5": "e56a71146fbcde139e0361d0818bf222",
       "summation": "md5"
     },
     {
       "name": "sdut-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659326305",
-      "size": "1384448",
-      "md5": "4c5732315c99bd54c3a7ed12c47c0c97",
-      "crc32": "62da1194",
-      "sha1": "2b7cc2e311ee8d724aa8ef24b749f63e9d082fbb",
+      "mtime": "1659378365",
+      "size": "1396736",
+      "md5": "72aa655bde30bc6ed29036b900f8f00a",
+      "crc32": "612c0c54",
+      "sha1": "8490bc1d1708fd01457e2eafd4f8789a0ab9e185",
       "format": "Metadata"
     },
     {
@@ -12706,9 +12810,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1210,
-  "item_last_updated": 1659326582,
-  "item_size": 124477308,
+  "files_count": 1220,
+  "item_last_updated": 1659382776,
+  "item_size": 125307478,
   "metadata": {
     "identifier": "sdut-2022",
     "collection": [
@@ -12729,45 +12833,45 @@
     {
       "url": "https://www.sandiegouniontribune.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sandiegouniontribune_com-_-2022_08_01_03_41_26.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sandiegouniontribune_com-_-2022_08_01_03_41_26.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sandiegouniontribune_com-_-2022_08_01_18_09_25.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sandiegouniontribune_com-_-2022_08_01_18_09_25.report.json",
       "summary": {
-        "performance": 0.25,
+        "performance": 0.27,
         "accessibility": 0.98,
-        "best-practices": 0.92,
-        "seo": 0.91,
+        "best-practices": 0.83,
+        "seo": 0.92,
         "pwa": 0.4
       }
     },
     {
       "url": "https://www.sandiegouniontribune.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sandiegouniontribune_com-_-2022_08_01_03_42_18.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sandiegouniontribune_com-_-2022_08_01_03_42_18.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sandiegouniontribune_com-_-2022_08_01_18_10_35.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sandiegouniontribune_com-_-2022_08_01_18_10_35.report.json",
       "summary": {
-        "performance": 0.24,
+        "performance": 0.22,
         "accessibility": 0.98,
-        "best-practices": 0.92,
-        "seo": 0.91,
+        "best-practices": 0.83,
+        "seo": 0.92,
         "pwa": 0.4
       }
     },
     {
       "url": "https://www.sandiegouniontribune.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sandiegouniontribune_com-_-2022_08_01_03_41_52.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sandiegouniontribune_com-_-2022_08_01_03_41_52.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sandiegouniontribune_com-_-2022_08_01_18_10_01.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sandiegouniontribune_com-_-2022_08_01_18_10_01.report.json",
       "summary": {
-        "performance": 0.24,
+        "performance": 0.44,
         "accessibility": 0.98,
-        "best-practices": 0.92,
-        "seo": 0.91,
+        "best-practices": 0.83,
+        "seo": 0.92,
         "pwa": 0.4
       }
     }
   ],
   "server": "ia802501.us.archive.org",
-  "uniq": 1058550408,
+  "uniq": 1663992115,
   "workable_servers": [
     "ia802501.us.archive.org",
     "ia902501.us.archive.org"

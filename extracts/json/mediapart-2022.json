@@ -1,5 +1,5 @@
 {
-  "created": 1659356719,
+  "created": 1659400718,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/16/items/mediapart-2022",
@@ -1097,31 +1097,83 @@
       "format": "JSON"
     },
     {
+      "name": "mediapart-2022-08-01T14:24:28.931811+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mediapart-2022-08-01T14:24:28.931811+02:00.jpg",
+      "mtime": "1659364555",
+      "size": "8663",
+      "md5": "e94263dc499d9394ce2916d19157426c",
+      "crc32": "27128087",
+      "sha1": "5f2868e62b3b20dc5616947a26395bef75cdfbf7"
+    },
+    {
+      "name": "mediapart-2022-08-02T02:37:51.825523+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659400675",
+      "size": "112401",
+      "md5": "c6c19a23b046ef9823bedb14e29a2ec6",
+      "crc32": "5bd1bc99",
+      "sha1": "81ddea9512915e3fc49b0df9ae2d3ec560caf93f",
+      "format": "JSON"
+    },
+    {
+      "name": "mediapart-2022-08-02T02:37:51.825523+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659400677",
+      "size": "47395",
+      "md5": "bbd574d81bd3a7c4e3345c18deb96227",
+      "crc32": "4668cce1",
+      "sha1": "f39714054bcd067ecc5f2af3f4d205f4a9db648b",
+      "format": "JSON"
+    },
+    {
+      "name": "mediapart-2022-08-02T02:37:51.825523+02:00.jpg",
+      "source": "original",
+      "mtime": "1659400674",
+      "size": "321180",
+      "md5": "f1277e82863e75f0f34e2078a82bb1e4",
+      "crc32": "2f2730d0",
+      "sha1": "f5228b1aa7d486cd7d4aee508e78a5266f4d2199",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mediapart-2022-08-02T02:37:51.825523+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659400679",
+      "size": "1476",
+      "md5": "a0dd8a7e2218c7a9808b0e0adba97dbe",
+      "crc32": "382d3617",
+      "sha1": "38140bad454064cff5e6be090b6fc1b0e9e5b28b",
+      "format": "JSON"
+    },
+    {
       "name": "mediapart-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ccfbaa3565f0f79f9e804ad9a5a6cb1c6b2037ca",
-      "mtime": "1659356715",
-      "size": "23691",
-      "md5": "2d08660fdf1529b8ce66d4cfcda17dbc",
-      "crc32": "8f248389",
-      "sha1": "ae9d1a518c391defdc2f2773f89c5c123d21f655",
+      "btih": "b00f8dedafe0c26ef6ab7ef1ca4bd55cf0dad480",
+      "mtime": "1659400715",
+      "size": "24756",
+      "md5": "0f0dee1c91edd2f11b384587f36d5b64",
+      "crc32": "c7722660",
+      "sha1": "d568f0da6c65b48531a09e40d5e90aca9c40f075",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mediapart-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4c84581b7ea875f3e23aa3c646197c3f",
+      "md5": "2f53d391bccdbf97581555222465bc68",
       "summation": "md5"
     },
     {
       "name": "mediapart-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659356679",
-      "size": "151552",
-      "md5": "e3f6523dcf5a7c1c389fe07d7a47eb1c",
-      "crc32": "867c930f",
-      "sha1": "ea27208d4756fca43909fe5c29df8c34669c1c24",
+      "mtime": "1659400681",
+      "size": "159744",
+      "md5": "5ee56b8d60feabb5277382b4239194b9",
+      "crc32": "eaabec85",
+      "sha1": "80edcfa6c28110d84b344ab504acb596c2954288",
       "format": "Metadata"
     },
     {
@@ -1135,9 +1187,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 109,
-  "item_last_updated": 1659356715,
-  "item_size": 8870523,
+  "files_count": 114,
+  "item_last_updated": 1659400715,
+  "item_size": 9370895,
   "metadata": {
     "identifier": "mediapart-2022",
     "collection": [
@@ -1159,7 +1211,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3349628613,
+      "task_id": 3350048630,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1167,7 +1219,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1504594559,
+  "uniq": 1199126679,
   "workable_servers": [
     "ia601406.us.archive.org"
   ]

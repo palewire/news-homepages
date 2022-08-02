@@ -1,5 +1,5 @@
 {
-  "created": 1659356418,
+  "created": 1659400462,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/17/items/irishcathnews-2022",
@@ -1423,31 +1423,83 @@
       "format": "JSON"
     },
     {
+      "name": "irishcathnews-2022-08-01T13:19:29.145405+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "irishcathnews-2022-08-01T13:19:29.145405+01:00.jpg",
+      "mtime": "1659364286",
+      "size": "9388",
+      "md5": "0966def74d4766f8d8ae8cf000666013",
+      "crc32": "726a71e7",
+      "sha1": "c85a563a3cb1598f75830380540542ef638ade6f"
+    },
+    {
+      "name": "irishcathnews-2022-08-02T01:33:34.282897+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659400418",
+      "size": "28787",
+      "md5": "973af9842196c8f4fe9d506408361f98",
+      "crc32": "3a27b5e6",
+      "sha1": "6c4a983685c4f81f7248a1213ebba210be0d81c5",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-08-02T01:33:34.282897+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659400420",
+      "size": "28131",
+      "md5": "d872ea7a40295a0fd8eff752e62b0c43",
+      "crc32": "6a69089b",
+      "sha1": "d23b8d2bae883afd5e78b18c16d0e47228e3bd65",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-08-02T01:33:34.282897+01:00.jpg",
+      "source": "original",
+      "mtime": "1659400416",
+      "size": "269874",
+      "md5": "75e857139e67a22e7b35006cdaec7e18",
+      "crc32": "8bcabc67",
+      "sha1": "1edde1c06f8b6083f4eb5a17800bd1827090c4c6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "irishcathnews-2022-08-02T01:33:34.282897+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659400421",
+      "size": "1522",
+      "md5": "9a1c0360b70266c5b9bbab143e43af57",
+      "crc32": "798e8d2f",
+      "sha1": "5e5b32ff3ce4e0841739b8295886a558529ec2d9",
+      "format": "JSON"
+    },
+    {
       "name": "irishcathnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9fe4c5d8de84c921d34f7068b7af27d1a003ecf5",
-      "mtime": "1659356414",
-      "size": "30770",
-      "md5": "252398573230852198fc2a9a04941c31",
-      "crc32": "b6159c53",
-      "sha1": "40d82898cc706fe833a921fed940cd716929b5b0",
+      "btih": "457ffc2ded2062adb8f74eed2a777406b37da5f9",
+      "mtime": "1659400460",
+      "size": "31834",
+      "md5": "470e5f15d045399ac179510eb4bb189e",
+      "crc32": "c9731951",
+      "sha1": "01b2f1d9088ad6208487cc85ffa8daf13cb9c9cb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "irishcathnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "39351bfe97a71901dd8b68c8055e4279",
+      "md5": "d26dd1402b9d297a6be28a5df8c67a01",
       "summation": "md5"
     },
     {
       "name": "irishcathnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659356379",
-      "size": "188416",
-      "md5": "a9aa6070801b681027f6d9977f7cbeec",
-      "crc32": "08a2f61c",
-      "sha1": "b41876d726d36aaab06a63fc3d48128194f6a3fb",
+      "mtime": "1659400425",
+      "size": "192512",
+      "md5": "c69818cb858955e18318fa83cb234bac",
+      "crc32": "72f2d6f0",
+      "sha1": "9049155d200cd6b0ff0f83cf42aec98952059e07",
       "format": "Metadata"
     },
     {
@@ -1461,9 +1513,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 140,
-  "item_last_updated": 1659356414,
-  "item_size": 10054435,
+  "files_count": 145,
+  "item_last_updated": 1659400460,
+  "item_size": 10397297,
   "metadata": {
     "identifier": "irishcathnews-2022",
     "collection": [
@@ -1485,7 +1537,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3349626394,
+      "task_id": 3350045722,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1493,7 +1545,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1528984238,
+  "uniq": 73481774,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]

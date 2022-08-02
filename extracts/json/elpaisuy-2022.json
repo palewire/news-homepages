@@ -1,5 +1,5 @@
 {
-  "created": 1659321450,
+  "created": 1659371784,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/29/items/elpaisuy-2022",
@@ -2160,31 +2160,83 @@
       "sha1": "fa119f4d353b932e1d1c8751a19e3b491c595e21"
     },
     {
+      "name": "elpaisuy-2022-08-01T11:56:41.526022-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659365804",
+      "size": "54370",
+      "md5": "3e6a0fc844aa2cacc3914cc86d75abf7",
+      "crc32": "2f7c7973",
+      "sha1": "3bd20dd67cc84d8b63183c9bbd6e0576db01783e",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-08-01T11:56:41.526022-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659365805",
+      "size": "100079",
+      "md5": "89a8e9bb923b8b78fdc17f517c2f314d",
+      "crc32": "4da30d6f",
+      "sha1": "fde04ebc60722a5359de2aff9a47c3b78f53749e",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-08-01T11:56:41.526022-03:00.jpg",
+      "source": "original",
+      "mtime": "1659365802",
+      "size": "290163",
+      "md5": "5a7f0d14fa6050a37964e910446b43b7",
+      "crc32": "130ca16f",
+      "sha1": "4cc60b02f4e9bb318bf4fe6448b68c2ce7bd794f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "elpaisuy-2022-08-01T11:56:41.526022-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659365807",
+      "size": "1483",
+      "md5": "f5db79fb6c6d620197a9f4562dd8e246",
+      "crc32": "7b768917",
+      "sha1": "672c66c277f56531cf29b1528caa334f302f3f1b",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-08-01T11:56:41.526022-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "elpaisuy-2022-08-01T11:56:41.526022-03:00.jpg",
+      "mtime": "1659371765",
+      "size": "10654",
+      "md5": "3d5806ac0e1577b501af41bcdb0b8ab9",
+      "crc32": "db61d7ea",
+      "sha1": "9e049dba2e6e39af2218c0dd83ae6c3304e76a96"
+    },
+    {
       "name": "elpaisuy-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7f5a6385554e677d08cbd8b1d57e01319d37c192",
-      "mtime": "1659321432",
-      "size": "45002",
-      "md5": "c18c0e64f96e601a3e65d1b4ae54c741",
-      "crc32": "c56e073e",
-      "sha1": "2661bf942b99b55c433ae2eded3495227b27a38b",
+      "btih": "f48abca85b157fb97fd619472942d9c24cb2ff25",
+      "mtime": "1659371773",
+      "size": "46063",
+      "md5": "a2802ace535435933ff22bbdd3de395f",
+      "crc32": "84f26932",
+      "sha1": "17af662342e6aac7634af73ff8fb5f991c704699",
       "format": "Archive BitTorrent"
     },
     {
       "name": "elpaisuy-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6c6362d829b4b30b90430319ae012544",
+      "md5": "f6254d79e5cfaab6e668517ba5a285a6",
       "summation": "md5"
     },
     {
       "name": "elpaisuy-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659321272",
-      "size": "262144",
-      "md5": "cf2e70c622061cb4e58c2d4f6d0baf0f",
-      "crc32": "9c0083a2",
-      "sha1": "6e9f9b23181d3ef2aa945026f14131ca4dd40f20",
+      "mtime": "1659365813",
+      "size": "270336",
+      "md5": "4cd85686090da26d2741a2b1f397594d",
+      "crc32": "50c06857",
+      "sha1": "0070a85f422a17ce9391d215a788bc5a082e74bc",
       "format": "Metadata"
     },
     {
@@ -2198,9 +2250,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 210,
-  "item_last_updated": 1659321432,
-  "item_size": 20922409,
+  "files_count": 215,
+  "item_last_updated": 1659371773,
+  "item_size": 21388411,
   "metadata": {
     "identifier": "elpaisuy-2022",
     "collection": [
@@ -2217,10 +2269,10 @@
     "publicdate": "2022-07-09 03:58:10",
     "addeddate": "2022-07-09 03:58:10"
   },
-  "server": "ia801401.us.archive.org",
-  "uniq": 2113635854,
+  "server": "ia601401.us.archive.org",
+  "uniq": 440799912,
   "workable_servers": [
-    "ia801401.us.archive.org",
-    "ia601401.us.archive.org"
+    "ia601401.us.archive.org",
+    "ia801401.us.archive.org"
   ]
 }

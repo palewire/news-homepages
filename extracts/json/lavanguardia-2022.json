@@ -1,5 +1,5 @@
 {
-  "created": 1659356630,
+  "created": 1659400650,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/15/items/lavanguardia-2022",
@@ -451,31 +451,83 @@
       "format": "JSON"
     },
     {
+      "name": "lavanguardia-2022-08-01T14:23:02.541864+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lavanguardia-2022-08-01T14:23:02.541864+02:00.jpg",
+      "mtime": "1659364430",
+      "size": "9730",
+      "md5": "db1e6a70bee814d6d2da94b8332deabd",
+      "crc32": "25f9c506",
+      "sha1": "f9f8f0383cb5a4b5df45ef7af85b4dc16a46156c"
+    },
+    {
+      "name": "lavanguardia-2022-08-02T02:36:38.599762+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659400606",
+      "size": "55900",
+      "md5": "379e588ee10708732ca89fb8fdbc6fb6",
+      "crc32": "b661eeac",
+      "sha1": "2dea98367fcc39c3a685c7cdb8324d98e817beb8",
+      "format": "JSON"
+    },
+    {
+      "name": "lavanguardia-2022-08-02T02:36:38.599762+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659400608",
+      "size": "32230",
+      "md5": "c481db8e0e62ba9e4f733a25fe6f2130",
+      "crc32": "dccffabe",
+      "sha1": "e945a41d1d7552a74dc05399b3638af36d1243ef",
+      "format": "JSON"
+    },
+    {
+      "name": "lavanguardia-2022-08-02T02:36:38.599762+02:00.jpg",
+      "source": "original",
+      "mtime": "1659400600",
+      "size": "270524",
+      "md5": "43af131b7b3942806aa3584c1cc4dfa4",
+      "crc32": "121150d9",
+      "sha1": "391a9743077fcc9719ef1da39715c1c8e1162e8b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lavanguardia-2022-08-02T02:36:38.599762+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659400609",
+      "size": "1513",
+      "md5": "b6a72f990a4c89261fec54fac26b9045",
+      "crc32": "e148ccdd",
+      "sha1": "c2a23c543871e81527b90a5717a863eb06cf4497",
+      "format": "JSON"
+    },
+    {
       "name": "lavanguardia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c72102afc9fce6b89ec98146b3a9df08169ac52e",
-      "mtime": "1659356628",
-      "size": "10674",
-      "md5": "08ef49b7616c96cb4986f880270e7fce",
-      "crc32": "e00486ba",
-      "sha1": "ef3f39303a5facc54af98e55f9d753965c9c16e6",
+      "btih": "7c5243e6f64994c1c1e2cf4f47b50442a1b803d9",
+      "mtime": "1659400648",
+      "size": "11753",
+      "md5": "0af18317ffbf2a2dc987270db3b0ea33",
+      "crc32": "dff16bda",
+      "sha1": "b5c0e79310717fa4385cfcc98259e9f0fa73c88d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lavanguardia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5c77fe70e789fd4b5dc86ec4bac241b6",
+      "md5": "399aad1d5cd74c5fd2650aba131a0883",
       "summation": "md5"
     },
     {
       "name": "lavanguardia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659356592",
-      "size": "69632",
-      "md5": "03c0c49772ed440aa6313e0742c2276c",
-      "crc32": "a3aa7d95",
-      "sha1": "91a8d38690bd13e64ae451bac7ecb09e7b3b1902",
+      "mtime": "1659400614",
+      "size": "73728",
+      "md5": "80e5067f3e5cf2e94115fc6e155eb5db",
+      "crc32": "f4d3201d",
+      "sha1": "637fcb1b25fc60b20e2cb45dde18c6e4b40db707",
       "format": "Metadata"
     },
     {
@@ -489,9 +541,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 47,
-  "item_last_updated": 1659356628,
-  "item_size": 3145405,
+  "files_count": 52,
+  "item_last_updated": 1659400648,
+  "item_size": 3520477,
   "metadata": {
     "identifier": "lavanguardia-2022",
     "collection": [
@@ -513,7 +565,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3349627923,
+      "task_id": 3350047864,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -521,7 +573,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 179310231,
+  "uniq": 1926846739,
   "workable_servers": [
     "ia601503.us.archive.org"
   ]

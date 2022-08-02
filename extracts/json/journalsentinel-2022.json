@@ -1,5 +1,5 @@
 {
-  "created": 1659356768,
+  "created": 1659400848,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/8/items/journalsentinel-2022",
@@ -8604,31 +8604,83 @@
       "sha1": "1e7dd2adb14594a95bc7530236fa7f503858cfe8"
     },
     {
+      "name": "journalsentinel-2022-08-01T10:01:00.638071-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659366064",
+      "size": "23694",
+      "md5": "221dfaca92fb207c444ba3ee904fd845",
+      "crc32": "70b55581",
+      "sha1": "f152aee0d83ad6bb4dc7ee19fcf10be153fe8c80",
+      "format": "JSON"
+    },
+    {
+      "name": "journalsentinel-2022-08-01T10:01:00.638071-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659366066",
+      "size": "33817",
+      "md5": "c4b3d59a956ed90381dc78fde1986d28",
+      "crc32": "f750c5b5",
+      "sha1": "5647127c982e8755f4a050f06eb18d45381bc2b7",
+      "format": "JSON"
+    },
+    {
+      "name": "journalsentinel-2022-08-01T10:01:00.638071-05:00.jpg",
+      "source": "original",
+      "mtime": "1659366062",
+      "size": "266882",
+      "md5": "dd1a75ca051ea2e2cb090e5d029022d1",
+      "crc32": "80aee1f7",
+      "sha1": "99e6bf6f13c385b019a412914fa06db693636047",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "journalsentinel-2022-08-01T10:01:00.638071-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659366068",
+      "size": "1467",
+      "md5": "7aea1e28bcedaee34ac0e12a9ca8b947",
+      "crc32": "3c0f737d",
+      "sha1": "2034dea5b512cf3cac9ebcb654fbfdb9463fc7e4",
+      "format": "JSON"
+    },
+    {
+      "name": "journalsentinel-2022-08-01T10:01:00.638071-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "journalsentinel-2022-08-01T10:01:00.638071-05:00.jpg",
+      "mtime": "1659371964",
+      "size": "9687",
+      "md5": "72c454eb7703eeb6fb0045365dcc509b",
+      "crc32": "cc7f4157",
+      "sha1": "286c998a0a50b7c398af0b8752dc2e913b3c69b1"
+    },
+    {
       "name": "journalsentinel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "641fa95bb5ab9a5cf626c6f7c68f03d6f90b35eb",
-      "mtime": "1659322021",
-      "size": "179571",
-      "md5": "a67c30673fef99b29a25e52da88e3c63",
-      "crc32": "f700ef1f",
-      "sha1": "c2939841a988eccda44e34fbea2f03a9ad656187",
+      "btih": "dc8bacc99cad94aaeecb03ace160656769cfddad",
+      "mtime": "1659372022",
+      "size": "180665",
+      "md5": "eb8c0828117d4c94ca8593e78b22ab26",
+      "crc32": "76abc9c5",
+      "sha1": "2cbe98315a2825ec22ab832db39f4b777568575e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "journalsentinel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ecbc9e8398e5078066d631eb3408c460",
+      "md5": "612ad4ea103c25919627253d293df504",
       "summation": "md5"
     },
     {
       "name": "journalsentinel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659321480",
-      "size": "962560",
-      "md5": "68ac9bb19d76742bb26879e1362ee114",
-      "crc32": "333bac45",
-      "sha1": "60a7d9d7ea5ec5603c1eace26f477f5ab998cf1d",
+      "mtime": "1659366071",
+      "size": "966656",
+      "md5": "ca7207859b85d053e57b329152bf1a86",
+      "crc32": "f4544832",
+      "sha1": "67b67bbedc63e26b6dec7161c8a5160a1f023c79",
       "format": "Metadata"
     },
     {
@@ -8642,46 +8694,46 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 823,
-  "item_last_updated": 1659322021,
-  "item_size": 69739369,
+  "files_count": 828,
+  "item_last_updated": 1659372022,
+  "item_size": 70080106,
   "journalsentinel-2022": [
     {
       "url": "https://www.jsonline.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_jsonline_com-_-2022_08_01_02_17_57.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_jsonline_com-_-2022_08_01_02_17_57.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_jsonline_com-_-2022_08_01_14_34_44.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_jsonline_com-_-2022_08_01_14_34_44.report.json",
       "summary": {
-        "performance": 0.82,
-        "accessibility": 0.88,
+        "performance": 0.38,
+        "accessibility": 0.87,
         "best-practices": 1,
-        "seo": 0.93,
+        "seo": 0.92,
         "pwa": 0.3
       }
     },
     {
       "url": "https://www.jsonline.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_jsonline_com-_-2022_08_01_02_18_13.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_jsonline_com-_-2022_08_01_02_18_13.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_jsonline_com-_-2022_08_01_14_35_26.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_jsonline_com-_-2022_08_01_14_35_26.report.json",
       "summary": {
-        "performance": 0.85,
-        "accessibility": 0.89,
+        "performance": 0.83,
+        "accessibility": 0.87,
         "best-practices": 1,
-        "seo": 0.93,
+        "seo": 0.92,
         "pwa": 0.3
       }
     },
     {
       "url": "https://www.jsonline.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_jsonline_com-_-2022_08_01_02_18_29.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_jsonline_com-_-2022_08_01_02_18_29.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_jsonline_com-_-2022_08_01_14_35_06.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_jsonline_com-_-2022_08_01_14_35_06.report.json",
       "summary": {
-        "performance": 0.84,
-        "accessibility": 0.88,
+        "performance": 0.83,
+        "accessibility": 0.8,
         "best-practices": 1,
-        "seo": 0.93,
+        "seo": 0.85,
         "pwa": 0.3
       }
     }
@@ -8703,7 +8755,7 @@
     "addeddate": "2022-03-23 23:06:34"
   },
   "server": "ia802503.us.archive.org",
-  "uniq": 1448050892,
+  "uniq": 434056483,
   "workable_servers": [
     "ia802503.us.archive.org",
     "ia902503.us.archive.org"

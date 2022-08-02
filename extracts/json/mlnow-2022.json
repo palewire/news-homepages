@@ -1,5 +1,5 @@
 {
-  "created": 1659356858,
+  "created": 1659400965,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/29/items/mlnow-2022",
@@ -2538,31 +2538,83 @@
       "sha1": "b593f344f677d2b9dc618038900bebe2e708d11e"
     },
     {
+      "name": "mlnow-2022-08-01T08:04:25.517856-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659366271",
+      "size": "16239",
+      "md5": "c0345b3c18347e19c7fd9833f557dd1d",
+      "crc32": "3f35a7bd",
+      "sha1": "6e11d071d62a4802dbee40f65466b65c5265ca5e",
+      "format": "JSON"
+    },
+    {
+      "name": "mlnow-2022-08-01T08:04:25.517856-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659366272",
+      "size": "16966",
+      "md5": "d405bb3d80330f67aef8e94951cbe43d",
+      "crc32": "393b277c",
+      "sha1": "9aad56fb6131eec0d1b453a34fe48a459d52515a",
+      "format": "JSON"
+    },
+    {
+      "name": "mlnow-2022-08-01T08:04:25.517856-07:00.jpg",
+      "source": "original",
+      "mtime": "1659366268",
+      "size": "345718",
+      "md5": "b8eb3af4a3cee0f4987776c7ca25fa16",
+      "crc32": "0da449ff",
+      "sha1": "8101b9efb647d5e8acfafc4528a5265d7c50a540",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mlnow-2022-08-01T08:04:25.517856-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659366274",
+      "size": "1468",
+      "md5": "e4d1689185052004b72339b649921764",
+      "crc32": "e05978e8",
+      "sha1": "4fd0bff29bfc19a78920e4f05773a09627cb3658",
+      "format": "JSON"
+    },
+    {
+      "name": "mlnow-2022-08-01T08:04:25.517856-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mlnow-2022-08-01T08:04:25.517856-07:00.jpg",
+      "mtime": "1659372132",
+      "size": "9946",
+      "md5": "bbd9921e5ebbcca25059f81e2a9534e3",
+      "crc32": "5b262384",
+      "sha1": "720b79481107a11fe60a2b99d804cb750ac99287"
+    },
+    {
       "name": "mlnow-2022_archive.torrent",
       "source": "metadata",
-      "btih": "260e036c11b0ef630391254f1d1356b748609dbc",
-      "mtime": "1659321738",
-      "size": "51533",
-      "md5": "31bf1c1f9ce83459acac91de8688b3d1",
-      "crc32": "7ae7842a",
-      "sha1": "92bff21da871e97ae73b0173ee3c7d03729dd3d1",
+      "btih": "b6d36e55318576527d32b19f8f64ac0c1a7cfd0d",
+      "mtime": "1659372139",
+      "size": "52577",
+      "md5": "1fc89f2516252f9bcdec5398241c3136",
+      "crc32": "d2eb78b6",
+      "sha1": "b84f12adb2492b2de81c0b9603681678622cf81c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mlnow-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3253f8519c8b8dee5f010cfea7ce2651",
+      "md5": "5ae4902e4e034e4a0e35eeb1e1b9882c",
       "summation": "md5"
     },
     {
       "name": "mlnow-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659321622",
-      "size": "303104",
-      "md5": "0672b25b88ac9ce138ae8518f9fa9ccd",
-      "crc32": "9b3b625f",
-      "sha1": "d49d5a1ccf2acdc900a874c219f784572d893e43",
+      "mtime": "1659366288",
+      "size": "307200",
+      "md5": "1296d140f936386a4ea56f11ae2458f2",
+      "crc32": "d2d071d7",
+      "sha1": "7a1922bb1e1f6e0e5ee989e22c2c7708f7d892cd",
       "format": "Metadata"
     },
     {
@@ -2576,9 +2628,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 246,
-  "item_last_updated": 1659321738,
-  "item_size": 17266226,
+  "files_count": 251,
+  "item_last_updated": 1659372139,
+  "item_size": 17661703,
   "metadata": {
     "identifier": "mlnow-2022",
     "collection": [
@@ -2599,10 +2651,10 @@
     {
       "url": "https://missionlocal.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/missionlocal_org-_-2022_08_01_02_22_06.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/missionlocal_org-_-2022_08_01_02_22_06.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/missionlocal_org-_-2022_08_01_14_39_12.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/missionlocal_org-_-2022_08_01_14_39_12.report.json",
       "summary": {
-        "performance": 0.63,
+        "performance": 0.85,
         "accessibility": 0.94,
         "best-practices": 1,
         "seo": 0.98,
@@ -2612,10 +2664,10 @@
     {
       "url": "https://missionlocal.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/missionlocal_org-_-2022_08_01_02_22_34.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/missionlocal_org-_-2022_08_01_02_22_34.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/missionlocal_org-_-2022_08_01_14_39_25.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/missionlocal_org-_-2022_08_01_14_39_25.report.json",
       "summary": {
-        "performance": 0.87,
+        "performance": 0.85,
         "accessibility": 0.94,
         "best-practices": 1,
         "seo": 0.98,
@@ -2625,10 +2677,10 @@
     {
       "url": "https://missionlocal.org/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/missionlocal_org-_-2022_08_01_02_22_21.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/missionlocal_org-_-2022_08_01_02_22_21.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/missionlocal_org-_-2022_08_01_14_38_58.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/missionlocal_org-_-2022_08_01_14_38_58.report.json",
       "summary": {
-        "performance": 0.89,
+        "performance": 0.88,
         "accessibility": 0.94,
         "best-practices": 1,
         "seo": 0.98,
@@ -2636,10 +2688,10 @@
       }
     }
   ],
-  "server": "ia902507.us.archive.org",
-  "uniq": 1697503316,
+  "server": "ia802507.us.archive.org",
+  "uniq": 1477909896,
   "workable_servers": [
-    "ia902507.us.archive.org",
-    "ia802507.us.archive.org"
+    "ia802507.us.archive.org",
+    "ia902507.us.archive.org"
   ]
 }

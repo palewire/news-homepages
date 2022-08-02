@@ -1,5 +1,5 @@
 {
-  "created": 1659356656,
+  "created": 1659400660,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/5/items/le_figaro-2022",
@@ -9893,31 +9893,83 @@
       "format": "JSON"
     },
     {
+      "name": "le_figaro-2022-08-01T14:23:05.016346+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "le_figaro-2022-08-01T14:23:05.016346+02:00.jpg",
+      "mtime": "1659364609",
+      "size": "7266",
+      "md5": "e7dde3e6a887fb3b828c359d07a65843",
+      "crc32": "cb5c145f",
+      "sha1": "7c783e9f9113115060867e31fffab855e3a08fdc"
+    },
+    {
+      "name": "le_figaro-2022-08-02T02:36:34.877020+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659400603",
+      "size": "96229",
+      "md5": "a177698c598026e3aec18e33f69115ad",
+      "crc32": "02764bb0",
+      "sha1": "afd53c96888074186cdf963ecb3694f77a6587d5",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-08-02T02:36:34.877020+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659400604",
+      "size": "112667",
+      "md5": "95c7f8071c95c13cffbac5cdbd0b3f43",
+      "crc32": "572f35f7",
+      "sha1": "918b41e11946e6d4be35f426d35c88bfe8f3268d",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-08-02T02:36:34.877020+02:00.jpg",
+      "source": "original",
+      "mtime": "1659400601",
+      "size": "178627",
+      "md5": "d1522b16f707a3cc26e988693fa3c638",
+      "crc32": "6f1620be",
+      "sha1": "0a9c341fd0821e2baf071ebfe5e9dd440c152c0f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "le_figaro-2022-08-02T02:36:34.877020+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659400606",
+      "size": "1468",
+      "md5": "8bb2b6a4e26e71a9eac448a3d612a9e8",
+      "crc32": "8ec1ce42",
+      "sha1": "62b94313ce7bb6ce14317cf1b2ccbb02c976a42e",
+      "format": "JSON"
+    },
+    {
       "name": "le_figaro-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1e914a5debbe585cadb449ca104a927744b68106",
-      "mtime": "1659356650",
-      "size": "202672",
-      "md5": "1853d1ebb6cb39d06d1f95aafbd79bab",
-      "crc32": "98572104",
-      "sha1": "be1d6ad7c3c864dae9e3fb61a85b7d7af4943e6b",
+      "btih": "383900c98903b33b981ad26a97a523f3f92ed7d7",
+      "mtime": "1659400656",
+      "size": "203737",
+      "md5": "8c2613dd6f32d25861ef521360d06e39",
+      "crc32": "1a102c84",
+      "sha1": "95666c120be1cba753000d72eb121f8d75de21e0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "le_figaro-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8f708105456ad30405930c2f8822b541",
+      "md5": "c6a657ed1ebd0235c3eed790f8e08c33",
       "summation": "md5"
     },
     {
       "name": "le_figaro-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659356605",
-      "size": "1105920",
-      "md5": "6693d171467d307ce1e69e4d025c0d38",
-      "crc32": "15289b37",
-      "sha1": "b5a418931f99627e0615aef3169a5a71b0483ecb",
+      "mtime": "1659400610",
+      "size": "1114112",
+      "md5": "4b51283191a01a7bfdff551492919da8",
+      "crc32": "ec904e92",
+      "sha1": "0a646b2cd37afed1648f79636a32431408a4bbf8",
       "format": "Metadata"
     },
     {
@@ -9931,9 +9983,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 947,
-  "item_last_updated": 1659356650,
-  "item_size": 116795214,
+  "files_count": 952,
+  "item_last_updated": 1659400656,
+  "item_size": 117200728,
   "metadata": {
     "identifier": "le_figaro-2022",
     "collection": [
@@ -9955,7 +10007,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3349628102,
+      "task_id": 3350047974,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -9963,7 +10015,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 44232115,
+  "uniq": 1538442438,
   "workable_servers": [
     "ia902501.us.archive.org"
   ]

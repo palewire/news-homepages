@@ -1,5 +1,5 @@
 {
-  "created": 1659356668,
+  "created": 1659400728,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/17/items/ft-2022",
@@ -13992,31 +13992,83 @@
       "sha1": "b69f0fa02c22584b66d03422ba422e40c9e2303e"
     },
     {
+      "name": "ft-2022-08-01T15:57:39.241152+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659365862",
+      "size": "42243",
+      "md5": "3871f923a6eda19ac48d8ea740b9b92d",
+      "crc32": "064ee8a5",
+      "sha1": "a2274dbd255ebf174a69c93427c5ba1602381ee7",
+      "format": "JSON"
+    },
+    {
+      "name": "ft-2022-08-01T15:57:39.241152+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659365864",
+      "size": "52238",
+      "md5": "acd8fa486499fbc2803151ea80dedbb0",
+      "crc32": "3600a2a1",
+      "sha1": "9e7bfccbdd0ad2acd1469e78724b359776d58202",
+      "format": "JSON"
+    },
+    {
+      "name": "ft-2022-08-01T15:57:39.241152+01:00.jpg",
+      "source": "original",
+      "mtime": "1659365861",
+      "size": "342278",
+      "md5": "40c251d0edd21f7ce2e656091df3e02f",
+      "crc32": "916e9d5b",
+      "sha1": "b1f36dd812dfdd5ed0778d344daaf175d027d967",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ft-2022-08-01T15:57:39.241152+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659365866",
+      "size": "1438",
+      "md5": "5586b6d6fd7dcbd05c3465700c3d6722",
+      "crc32": "c08c5ba4",
+      "sha1": "bf1adeb24fbaaf3818977c96d1784b0406228741",
+      "format": "JSON"
+    },
+    {
+      "name": "ft-2022-08-01T15:57:39.241152+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ft-2022-08-01T15:57:39.241152+01:00.jpg",
+      "mtime": "1659371900",
+      "size": "10447",
+      "md5": "43ff2a430e5e081ad5a9cfcac20b2954",
+      "crc32": "a6b0fbe4",
+      "sha1": "a6836fe104a813caf557e5ad710eaac874646ed3"
+    },
+    {
       "name": "ft-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c368829c0e41e445e7a649e9613986830574acd4",
-      "mtime": "1659346808",
-      "size": "274839",
-      "md5": "d93cca783acff57dff1c23d60ff8b836",
-      "crc32": "dfb724ce",
-      "sha1": "edd54b9ab3451ea42bf795aba78cf85dc52adfd5",
+      "btih": "66316671a1a5f3907e58da6213ca04000625a5ec",
+      "mtime": "1659371919",
+      "size": "275869",
+      "md5": "697a0e7ca19529d3c5676345018dd3e7",
+      "crc32": "934bacb3",
+      "sha1": "1d21a3d201584f34ab798852d13bd9bbeca7421e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ft-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6d7f1d0e14d6128b0618122f2a7eec52",
+      "md5": "528de75ce58fe7e7d4a4f3216d95e035",
       "summation": "md5"
     },
     {
       "name": "ft-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659345021",
-      "size": "1519616",
-      "md5": "b2ebe64a3f05c4307072ed252365d6cc",
-      "crc32": "0ded0dac",
-      "sha1": "2c8e65a98af4467c6e2096c6dadbbeedf9619231",
+      "mtime": "1659365871",
+      "size": "1523712",
+      "md5": "8c833e7752a16a85daad1b3b464f766e",
+      "crc32": "aa073fa4",
+      "sha1": "cc8b82b1f4ebef12bc132e93677e28054f730a53",
       "format": "Metadata"
     },
     {
@@ -14030,15 +14082,15 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1336,
+  "files_count": 1341,
   "ft-2022": [
     {
       "url": "https://www.ft.com/?edition=uk",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ft_com-_-2022_08_01_09_03_05.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ft_com-_-2022_08_01_09_03_05.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ft_com-_-2022_08_01_14_29_25.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ft_com-_-2022_08_01_14_29_25.report.json",
       "summary": {
-        "performance": 0.25,
+        "performance": 0.52,
         "accessibility": 1,
         "best-practices": 1,
         "seo": 0.99,
@@ -14048,10 +14100,10 @@
     {
       "url": "https://www.ft.com/?edition=uk",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ft_com-_-2022_08_01_09_03_21.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ft_com-_-2022_08_01_09_03_21.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ft_com-_-2022_08_01_14_29_39.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ft_com-_-2022_08_01_14_29_39.report.json",
       "summary": {
-        "performance": 0.53,
+        "performance": 0.55,
         "accessibility": 1,
         "best-practices": 1,
         "seo": 0.99,
@@ -14061,10 +14113,10 @@
     {
       "url": "https://www.ft.com/?edition=uk",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ft_com-_-2022_08_01_09_03_34.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ft_com-_-2022_08_01_09_03_34.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ft_com-_-2022_08_01_14_29_11.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ft_com-_-2022_08_01_14_29_11.report.json",
       "summary": {
-        "performance": 0.51,
+        "performance": 0.47,
         "accessibility": 1,
         "best-practices": 1,
         "seo": 0.99,
@@ -14072,8 +14124,8 @@
       }
     }
   ],
-  "item_last_updated": 1659346808,
-  "item_size": 139597866,
+  "item_last_updated": 1659371919,
+  "item_size": 140051636,
   "metadata": {
     "identifier": "ft-2022",
     "collection": [
@@ -14090,10 +14142,10 @@
     "publicdate": "2022-03-23 08:03:16",
     "addeddate": "2022-03-23 08:03:16"
   },
-  "server": "ia802502.us.archive.org",
-  "uniq": 475980382,
+  "server": "ia902502.us.archive.org",
+  "uniq": 780600873,
   "workable_servers": [
-    "ia802502.us.archive.org",
-    "ia902502.us.archive.org"
+    "ia902502.us.archive.org",
+    "ia802502.us.archive.org"
   ]
 }

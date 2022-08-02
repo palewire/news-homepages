@@ -1,5 +1,5 @@
 {
-  "created": 1659321884,
+  "created": 1659372176,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/31/items/karobar_daily-2022",
@@ -848,31 +848,83 @@
       "sha1": "5869d0f6e0f7ee7aa6708b4f615dea979e26eed2"
     },
     {
+      "name": "karobar_daily-2022-08-01T20:47:11.968724+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1659366135",
+      "size": "73807",
+      "md5": "2a75ab2432f125078c1b0842ddc2b3cb",
+      "crc32": "e0bf93b5",
+      "sha1": "246dfe8e4b9af6dbc9e8acf5a4fb87eacde588f6",
+      "format": "JSON"
+    },
+    {
+      "name": "karobar_daily-2022-08-01T20:47:11.968724+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659366136",
+      "size": "46929",
+      "md5": "b0ea43b1c705882e892b5938f85491e1",
+      "crc32": "949c7953",
+      "sha1": "5d3a4e78b15249cde009bd47cd2d003590a14ab0",
+      "format": "JSON"
+    },
+    {
+      "name": "karobar_daily-2022-08-01T20:47:11.968724+05:45.jpg",
+      "source": "original",
+      "mtime": "1659366133",
+      "size": "287252",
+      "md5": "a73a3593862ebb89931cd6da0487e5a4",
+      "crc32": "3e234f18",
+      "sha1": "5e185b797c42b900eb62cec4a10fbf130232f396",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "karobar_daily-2022-08-01T20:47:11.968724+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1659366138",
+      "size": "1513",
+      "md5": "33ae3958e26f809c6480b5e22d02e898",
+      "crc32": "6a81f0f0",
+      "sha1": "78bf79744cb1922ebb841595ae85858f6fbdc3c6",
+      "format": "JSON"
+    },
+    {
+      "name": "karobar_daily-2022-08-01T20:47:11.968724+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "karobar_daily-2022-08-01T20:47:11.968724+05:45.jpg",
+      "mtime": "1659372117",
+      "size": "10493",
+      "md5": "1f17093a8130d59161e7c86269d28e91",
+      "crc32": "3ca3273d",
+      "sha1": "cb2e1b82b9eba5c04bc2d9108cf5dff43e392bf2"
+    },
+    {
       "name": "karobar_daily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "89438b058077b4472efc8f1aa73038ab8c1a6256",
-      "mtime": "1659321808",
-      "size": "18926",
-      "md5": "b58359249f9b33806560c99c4dd797da",
-      "crc32": "e49db530",
-      "sha1": "1e0eccd1ea5e98d067d9e3e5ac92f03d60d343e9",
+      "btih": "7e96263e0f8c8e7fcbfb203f28bdcba4f882eb6e",
+      "mtime": "1659372147",
+      "size": "20011",
+      "md5": "71f9ec02b7cd112df82c846d4370eaf1",
+      "crc32": "fee5aa05",
+      "sha1": "1109fec3fc7099cd8049f8e38709cd57d133f60b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "karobar_daily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4421f41309b357f22f74702a073097be",
+      "md5": "0974754046fb15a08a31c32111c6327c",
       "summation": "md5"
     },
     {
       "name": "karobar_daily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659321465",
-      "size": "126976",
-      "md5": "25abe56e3b3a8efcbc17ae39d3892cab",
-      "crc32": "f89872d2",
-      "sha1": "cc42840196b1dd7edf8ffe543195bb57cbf249fe",
+      "mtime": "1659366187",
+      "size": "131072",
+      "md5": "6b8bc498ab2ec72e16cdd89687e9909e",
+      "crc32": "26556afb",
+      "sha1": "4981a6bef0f844e15a45a0d8f8c32bc4db2f8ec2",
       "format": "Metadata"
     },
     {
@@ -886,9 +938,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 85,
-  "item_last_updated": 1659321808,
-  "item_size": 6138548,
+  "files_count": 90,
+  "item_last_updated": 1659372147,
+  "item_size": 6563723,
   "metadata": {
     "identifier": "karobar_daily-2022",
     "collection": [
@@ -905,10 +957,10 @@
     "publicdate": "2022-07-24 20:37:59",
     "addeddate": "2022-07-24 20:37:59"
   },
-  "server": "ia601400.us.archive.org",
-  "uniq": 606303203,
+  "server": "ia801400.us.archive.org",
+  "uniq": 575504697,
   "workable_servers": [
-    "ia601400.us.archive.org",
-    "ia801400.us.archive.org"
+    "ia801400.us.archive.org",
+    "ia601400.us.archive.org"
   ]
 }

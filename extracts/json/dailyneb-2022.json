@@ -1,48 +1,7 @@
 {
-  "created": 1659356557,
+  "created": 1659397266,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
-  "dailyneb-2022": [
-    {
-      "url": "https://www.dailynebraskan.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dailynebraskan_com-_-2022_08_01_10_16_57.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dailynebraskan_com-_-2022_08_01_10_16_57.report.json",
-      "summary": {
-        "performance": 0.11,
-        "accessibility": 0.84,
-        "best-practices": 0.75,
-        "seo": 0.77,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.dailynebraskan.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dailynebraskan_com-_-2022_08_01_10_17_37.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dailynebraskan_com-_-2022_08_01_10_17_37.report.json",
-      "summary": {
-        "performance": 0.13,
-        "accessibility": 0.84,
-        "best-practices": 0.75,
-        "seo": 0.77,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.dailynebraskan.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dailynebraskan_com-_-2022_08_01_10_17_17.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dailynebraskan_com-_-2022_08_01_10_17_17.report.json",
-      "summary": {
-        "performance": 0.12,
-        "accessibility": 0.84,
-        "best-practices": 0.75,
-        "seo": 0.77,
-        "pwa": 0.4
-      }
-    }
-  ],
   "dir": "/10/items/dailyneb-2022",
   "files": [
     {
@@ -358,31 +317,94 @@
       "format": "JSON"
     },
     {
+      "name": "dailyneb-2022-08-01T06:14:40.491808-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailyneb-2022-08-01T06:14:40.491808-05:00.jpg",
+      "mtime": "1659360767",
+      "size": "9879",
+      "md5": "64343ee014198eba431d69ce161d165f",
+      "crc32": "64a1444f",
+      "sha1": "67283ee7c08fdd0101417ec55ccd06ed6ac8a9c7"
+    },
+    {
+      "name": "dailyneb-2022-08-01T18:17:57.083225-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659395881",
+      "size": "15822",
+      "md5": "409208a7f90fe86a78fff707e541caef",
+      "crc32": "ac290bbd",
+      "sha1": "bc870fc1dc887d0882985795f4d6394f5d8c7146",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyneb-2022-08-01T18:17:57.083225-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659395882",
+      "size": "30110",
+      "md5": "2ed6131f48e6cf4bef797272140a05a8",
+      "crc32": "30c671a8",
+      "sha1": "72ce907f5566d8ab5f527984ac8507b4fdedbd33",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyneb-2022-08-01T18:17:57.083225-05:00.jpg",
+      "source": "original",
+      "mtime": "1659395879",
+      "size": "275326",
+      "md5": "9a828f4901c002df626ae362360ca814",
+      "crc32": "4b15eb9d",
+      "sha1": "121dacca1e70dd78d559b082169386cbb5cd5fd0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailyneb-2022-08-01T18:17:57.083225-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659395885",
+      "size": "1531",
+      "md5": "a96ded211f85bfcd67439a1c3ac3edd3",
+      "crc32": "971e673b",
+      "sha1": "8fb431624539211afd804d9b9512b7afb0c6ca30",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyneb-2022-08-01T18:17:57.083225-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailyneb-2022-08-01T18:17:57.083225-05:00.jpg",
+      "mtime": "1659397092",
+      "size": "10475",
+      "md5": "342b59424626a9f62c993f38fb8d0d7d",
+      "crc32": "65053ca0",
+      "sha1": "d95b485a1070775f95305d39a728f532db647171"
+    },
+    {
       "name": "dailyneb-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a934f126318c5185c815fd71a11dd17f3906c885",
-      "mtime": "1659352527",
-      "size": "7721",
-      "md5": "de4ed2430ce8eb7b5ffc66a2231e59de",
-      "crc32": "adf9e792",
-      "sha1": "30162e6addcc9ae6c9b1e562a215fd0568e6ac4d",
+      "btih": "24433a2f14d3f1eb5046172ddd1012cc34cf0f19",
+      "mtime": "1659397162",
+      "size": "8986",
+      "md5": "757b22c17395e30cba3698750a4c94b1",
+      "crc32": "7b8b9f50",
+      "sha1": "669c954a2ce6d7b5b04d2bfe764ebe4411dc7f9d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailyneb-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f113af0ea998937a8590001ed039aa7e",
+      "md5": "a0d0aaf7f454e61d0401719806766d78",
       "summation": "md5"
     },
     {
       "name": "dailyneb-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659352492",
-      "size": "53248",
-      "md5": "e0ac4bccaf6f29c662e12af9ef28f45c",
-      "crc32": "93465397",
-      "sha1": "c88fe6b28a17d013e96520b74c04846ef4fe2666",
+      "mtime": "1659395897",
+      "size": "61440",
+      "md5": "66b3e58324602ae1ab0d34aed60e1dfc",
+      "crc32": "2cb75dd2",
+      "sha1": "19a60c22df440852c27ca52907d8fe25baccd08a",
       "format": "Metadata"
     },
     {
@@ -396,9 +418,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 34,
-  "item_last_updated": 1659352527,
-  "item_size": 2031987,
+  "files_count": 40,
+  "item_last_updated": 1659397162,
+  "item_size": 2384587,
   "metadata": {
     "identifier": "dailyneb-2022",
     "collection": [
@@ -415,21 +437,10 @@
     "publicdate": "2022-07-30 16:33:37",
     "addeddate": "2022-07-30 16:33:37"
   },
-  "pending_tasks": true,
-  "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3349591501,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2131161590,
+  "server": "ia801501.us.archive.org",
+  "uniq": 39188997,
   "workable_servers": [
+    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

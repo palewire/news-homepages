@@ -1,5 +1,5 @@
 {
-  "created": 1659352525,
+  "created": 1659397046,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/24/items/crucessunnews-2022",
@@ -8635,31 +8635,94 @@
       "format": "JSON"
     },
     {
+      "name": "crucessunnews-2022-08-01T05:14:29.667992-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "crucessunnews-2022-08-01T05:14:29.667992-06:00.jpg",
+      "mtime": "1659360832",
+      "size": "8925",
+      "md5": "4b00a5327b93be3c660c013f24062ccd",
+      "crc32": "ca7e0177",
+      "sha1": "efbc5ced9782c44e2ee691f468db8bbefe565e91"
+    },
+    {
+      "name": "crucessunnews-2022-08-01T17:18:13.142939-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659395909",
+      "size": "21182",
+      "md5": "8fd888668eb3e5d58a395f6e09edceb3",
+      "crc32": "86276fb3",
+      "sha1": "32e098cc616e3c721f26470bf83999fc93fa3b0c",
+      "format": "JSON"
+    },
+    {
+      "name": "crucessunnews-2022-08-01T17:18:13.142939-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659395910",
+      "size": "33917",
+      "md5": "b8423da796edf6da3e08abc5c9d484ab",
+      "crc32": "d88207ef",
+      "sha1": "4f5338ab07e03f93c5f8e522043b3959f715b45b",
+      "format": "JSON"
+    },
+    {
+      "name": "crucessunnews-2022-08-01T17:18:13.142939-06:00.jpg",
+      "source": "original",
+      "mtime": "1659395907",
+      "size": "252483",
+      "md5": "5ba4374838240e582920cfa9186dbfe3",
+      "crc32": "511baa03",
+      "sha1": "22bc447ae20444a46d23065c6629a16dfd6bca37",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "crucessunnews-2022-08-01T17:18:13.142939-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659395911",
+      "size": "1495",
+      "md5": "6f5223931a46886ef21374157a53ed77",
+      "crc32": "a966f199",
+      "sha1": "bffc8b6c305bfe152f0a358984a434fa613d6b42",
+      "format": "JSON"
+    },
+    {
+      "name": "crucessunnews-2022-08-01T17:18:13.142939-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "crucessunnews-2022-08-01T17:18:13.142939-06:00.jpg",
+      "mtime": "1659397009",
+      "size": "8942",
+      "md5": "88ec9fc8233ec0f0b55acd764d0e889f",
+      "crc32": "1a6dad6c",
+      "sha1": "34f9f7a8079c9d8cdfb5c665616f767199890fc7"
+    },
+    {
       "name": "crucessunnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "62a2fdf0f0a18b37d5011b81978c8a62fa712a75",
-      "mtime": "1659352522",
-      "size": "178348",
-      "md5": "e8f649bf9a1150a0966825e8e2d7882d",
-      "crc32": "78fdf71b",
-      "sha1": "944e28daa4be9011e2cf85a070fbbc69a3fd574d",
+      "btih": "d5d31adc9ebed2e7e5833128b9e6e385bbac8b7f",
+      "mtime": "1659397037",
+      "size": "179621",
+      "md5": "a05b2a09ca628022b2c3d59913cf4984",
+      "crc32": "df9f5f0c",
+      "sha1": "7bc2033dba741173bcf554d2ed5aef7f1f3a2741",
       "format": "Archive BitTorrent"
     },
     {
       "name": "crucessunnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "72bb6164b5a877123850044307aebf00",
+      "md5": "dc9067f86d7445b895394c48d7c0be39",
       "summation": "md5"
     },
     {
       "name": "crucessunnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659352482",
-      "size": "966656",
-      "md5": "e81e8cd368ded02919549b5e2a3e1898",
-      "crc32": "f6350a02",
-      "sha1": "258a6c8b2d9dac0d788131c8131d0b26c002ccff",
+      "mtime": "1659395916",
+      "size": "970752",
+      "md5": "fb56fe11cafb8b1922dab31796300efc",
+      "crc32": "294916b2",
+      "sha1": "d918a085090fbb3ead77207e5392a730c6c62596",
       "format": "Metadata"
     },
     {
@@ -8673,9 +8736,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 826,
-  "item_last_updated": 1659352522,
-  "item_size": 64253133,
+  "files_count": 832,
+  "item_last_updated": 1659397037,
+  "item_size": 64585446,
   "metadata": {
     "identifier": "crucessunnews-2022",
     "collection": [
@@ -8692,21 +8755,10 @@
     "publicdate": "2022-03-25 03:47:56",
     "addeddate": "2022-03-25 03:47:56"
   },
-  "pending_tasks": true,
-  "server": "ia902509.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3349591475,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 649762448,
+  "server": "ia802509.us.archive.org",
+  "uniq": 674180314,
   "workable_servers": [
+    "ia802509.us.archive.org",
     "ia902509.us.archive.org"
   ]
 }

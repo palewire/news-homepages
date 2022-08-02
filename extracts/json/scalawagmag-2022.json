@@ -1,5 +1,5 @@
 {
-  "created": 1659326946,
+  "created": 1659374824,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/0/items/scalawagmag-2022",
@@ -900,31 +900,83 @@
       "sha1": "5e37b8f772658b43d3258e6fd59368da9bae6d67"
     },
     {
+      "name": "scalawagmag-2022-08-01T12:09:54.232994-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659370197",
+      "size": "31751",
+      "md5": "addc07107ec5bdb24283e81696b7392e",
+      "crc32": "db109f1f",
+      "sha1": "307624377f944570e21faf7cf04342c91795bd0d",
+      "format": "JSON"
+    },
+    {
+      "name": "scalawagmag-2022-08-01T12:09:54.232994-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659370198",
+      "size": "25242",
+      "md5": "78e1ae93d7dbc3afea40744fa1ec7e22",
+      "crc32": "c5656ccb",
+      "sha1": "2364c6c8306e5fb1d8b707c3df6d5e6a40efff2b",
+      "format": "JSON"
+    },
+    {
+      "name": "scalawagmag-2022-08-01T12:09:54.232994-04:00.jpg",
+      "source": "original",
+      "mtime": "1659370195",
+      "size": "222916",
+      "md5": "b9eca901532f28f84a6ce9451edc46b9",
+      "crc32": "478703b2",
+      "sha1": "f67c4d28fc200e12fbe85e5123367ecc3802ec58",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "scalawagmag-2022-08-01T12:09:54.232994-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659370200",
+      "size": "1513",
+      "md5": "d4895fedc45b7df9bbdfaa0a1236cf6a",
+      "crc32": "47e092ec",
+      "sha1": "5e95346cf38fd0acfb155ba4c7decdaeff4d794b",
+      "format": "JSON"
+    },
+    {
+      "name": "scalawagmag-2022-08-01T12:09:54.232994-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "scalawagmag-2022-08-01T12:09:54.232994-04:00.jpg",
+      "mtime": "1659374791",
+      "size": "10334",
+      "md5": "c148f99482cb95bae2095bc9b09c9d7c",
+      "crc32": "ba014fd8",
+      "sha1": "5e37b8f772658b43d3258e6fd59368da9bae6d67"
+    },
+    {
       "name": "scalawagmag-2022_archive.torrent",
       "source": "metadata",
-      "btih": "830d2ed8105fdc9ba4557e45084bfd8a1ce0f54d",
-      "mtime": "1659326859",
-      "size": "19767",
-      "md5": "1e8eccc21d5d9fb58fb915f57cb7b2b0",
-      "crc32": "835c195d",
-      "sha1": "c387cc1e2bc6218697e9dbf4247d64da8634f1ba",
+      "btih": "08c603483c5ab1c6442f48dbee5654dff00f80ad",
+      "mtime": "1659374795",
+      "size": "20842",
+      "md5": "3be6e72dcec33369d6b5e47acc4bfa14",
+      "crc32": "68addad9",
+      "sha1": "dfc3832c456388c37e8d306fea9af4ba2424782a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "scalawagmag-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b5b850a531deb6467a4b7503ff5aaa07",
+      "md5": "3bbd5486eed5f4f846870dc2d07a4831",
       "summation": "md5"
     },
     {
       "name": "scalawagmag-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659326287",
-      "size": "131072",
-      "md5": "a055b13c2d8149daec24df7846db6ebc",
-      "crc32": "1d434524",
-      "sha1": "4905512492f3ebe848cc9fa2ccde1fb3b5280570",
+      "mtime": "1659370204",
+      "size": "135168",
+      "md5": "d915e8b77747d50dacd3f7fd9795d54f",
+      "crc32": "a600b120",
+      "sha1": "e0a610d68b7619d98b322e56e1f7e230497e03bf",
       "format": "Metadata"
     },
     {
@@ -938,9 +990,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 90,
-  "item_last_updated": 1659326859,
-  "item_size": 5130794,
+  "files_count": 95,
+  "item_last_updated": 1659374795,
+  "item_size": 5427721,
   "metadata": {
     "identifier": "scalawagmag-2022",
     "collection": [
@@ -957,10 +1009,10 @@
     "publicdate": "2022-07-24 06:22:54",
     "addeddate": "2022-07-24 06:22:54"
   },
-  "server": "ia601406.us.archive.org",
-  "uniq": 405294224,
+  "server": "ia801406.us.archive.org",
+  "uniq": 239531224,
   "workable_servers": [
-    "ia601406.us.archive.org",
-    "ia801406.us.archive.org"
+    "ia801406.us.archive.org",
+    "ia601406.us.archive.org"
   ]
 }
