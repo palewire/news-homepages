@@ -517,7 +517,7 @@ The archiving routine has saved 36 Lighthouse audits with the Internet Archive.
   "padding": 0,
   "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
 };
-    vegaEmbed("#vis--lighthouse", Lighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis--lighthouse", specLighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
 </script>
 
 
