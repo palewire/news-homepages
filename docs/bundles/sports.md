@@ -7,9 +7,18 @@ orphan: true
 
 # Sports
 
-The most recent homepages from 8 news sites in this bundle.
+The most recent homepages from 9 news sites in this bundle.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/andscape.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/andscape.jpg"
+     alt="Andscape"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/andscape.html">Andscape</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/theathletic.html">
@@ -98,6 +107,7 @@ The most recent homepages from 8 news sites in this bundle.
 
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |
+|[Andscape](https://palewi.re/docs/news-homepages/sites/andscape.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/andscape.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/andscape.xml)|
 |[Athletic](https://palewi.re/docs/news-homepages/sites/theathletic.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theathletic.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theathletic.xml)|
 |[Bleacher Report](https://palewi.re/docs/news-homepages/sites/bleacherreport.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bleacherreport.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bleacherreport.xml)|
 |[Deadspin](https://palewi.re/docs/news-homepages/sites/deadspin.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/deadspin.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/deadspin.xml)|

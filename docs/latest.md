@@ -3,7 +3,7 @@
 
 # Latest screenshots
 
-The most recent homepages captured from 716 news sites.
+The most recent homepages captured from 719 news sites.
 
 <div class="latest-parent">
 
@@ -293,6 +293,15 @@ The most recent homepages captured from 716 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/amestribnews.html">Ames Tribune</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/andscape.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/andscape.jpg"
+     alt="Andscape"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/andscape.html">Andscape</a></p>
 </div>
 
 <div class="latest-child">
@@ -2480,6 +2489,15 @@ The most recent homepages captured from 716 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/gridnews.html">Grid</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/thegrio.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thegrio.jpg"
+     alt="Grio"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/thegrio.html">Grio</a></p>
 </div>
 
 <div class="latest-child">
@@ -4865,6 +4883,15 @@ The most recent homepages captured from 716 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/romenewstribune.html">Rome News-Tribune</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/theroot.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theroot.jpg"
+     alt="Root"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/theroot.html">Root</a></p>
 </div>
 
 <div class="latest-child">
