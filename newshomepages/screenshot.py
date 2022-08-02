@@ -142,6 +142,7 @@ def _screenshot(
             ".blockNavigation",
             ".ab-iam-root",
             ".omaha-background",  # Takeover ad
+            ".sqs-popup-overlay",  # Overlay popup
         ]
         target_str = ",".join(target_list)
         javascript = f"""
