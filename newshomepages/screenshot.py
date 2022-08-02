@@ -141,6 +141,7 @@ def _screenshot(
             ".mc-modal-bg",
             ".blockNavigation",
             ".ab-iam-root",
+            ".omaha-background",  # Takeover ad
         ]
         target_str = ",".join(target_list)
         javascript = f"""
