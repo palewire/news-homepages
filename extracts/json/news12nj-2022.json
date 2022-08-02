@@ -1,5 +1,5 @@
 {
-  "created": 1659400844,
+  "created": 1659443162,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/2/items/news12nj-2022",
@@ -785,31 +785,72 @@
       "format": "JSON"
     },
     {
+      "name": "news12nj-2022-08-01T20:39:57.183599-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "news12nj-2022-08-01T20:39:57.183599-04:00.jpg",
+      "mtime": "1659401836",
+      "size": "8283",
+      "md5": "da41426e766ad947693a2dabf867511e",
+      "crc32": "44254824",
+      "sha1": "acd0400e8195efc8c25e85dc20f9973fa58a0e2c"
+    },
+    {
+      "name": "news12nj-2022-08-02T08:25:15.559626-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659443117",
+      "size": "18984",
+      "md5": "2cfc118d7fcf2d7a08d3d752e02bf474",
+      "crc32": "1c7f8c1b",
+      "sha1": "77a4e021da8e0aeea4296ca132469d7754dbc1e6",
+      "format": "JSON"
+    },
+    {
+      "name": "news12nj-2022-08-02T08:25:15.559626-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659443119",
+      "size": "23403",
+      "md5": "e923b1fe3322fbe932636d4d2bc279eb",
+      "crc32": "5651b597",
+      "sha1": "b119e41dc7b57dfd94859271b480d88b7ed7e224",
+      "format": "JSON"
+    },
+    {
+      "name": "news12nj-2022-08-02T08:25:15.559626-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659443121",
+      "size": "1510",
+      "md5": "b9f402be6e452540e8a8b639f9efec70",
+      "crc32": "ed86ccbf",
+      "sha1": "1630a62b6353b87031b61eabfcf8afcd5f1b119a",
+      "format": "JSON"
+    },
+    {
       "name": "news12nj-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9fde6e50e2d9f890543c46bc4d7314885d26be13",
-      "mtime": "1659400841",
-      "size": "17166",
-      "md5": "2b444fbd239895c8bc2ad52e68856553",
-      "crc32": "3ac9443d",
-      "sha1": "e11fdfc203db243ec77251d902a9e03d5b54ebcd",
+      "btih": "824103f42e1643eb90d34d6dc45e02443797fe20",
+      "mtime": "1659443159",
+      "size": "18005",
+      "md5": "7434745c19d6a775ad829e703e844709",
+      "crc32": "7fbcc049",
+      "sha1": "83a3df14623f9b3e3cacd999a376209c0e2a8e9f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "news12nj-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "937510a882f5fa6d4642f93db95c68bd",
+      "md5": "6ee55e318e2bdd25387faa18c197b53d",
       "summation": "md5"
     },
     {
       "name": "news12nj-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659400807",
-      "size": "110592",
-      "md5": "b59eb01f4b214d1183fba40db371ae30",
-      "crc32": "0e7cfd34",
-      "sha1": "666602a6a66519a1babfc3066f6e6f8b81ede2e7",
+      "mtime": "1659443125",
+      "size": "114688",
+      "md5": "72de2b80870f081f7459a51a10e982d6",
+      "crc32": "681777bf",
+      "sha1": "234d365d0e7fc98a7fbe67ffb8b5f2f6d07b75a9",
       "format": "Metadata"
     },
     {
@@ -823,9 +864,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 79,
-  "item_last_updated": 1659400841,
-  "item_size": 4534281,
+  "files_count": 83,
+  "item_last_updated": 1659443159,
+  "item_size": 4591396,
   "metadata": {
     "identifier": "news12nj-2022",
     "collection": [
@@ -847,7 +888,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350049880,
+      "task_id": 3350488746,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -855,7 +896,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 517326197,
+  "uniq": 1390622792,
   "workable_servers": [
     "ia902508.us.archive.org"
   ]

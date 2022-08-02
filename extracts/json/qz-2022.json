@@ -1,5 +1,5 @@
 {
-  "created": 1659401126,
+  "created": 1659443932,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/12/items/qz-2022",
@@ -4910,31 +4910,83 @@
       "sha1": "ee0084cd93f1284cd022ccf9006c935d39c90e0a"
     },
     {
+      "name": "qz-2022-08-02T00:24:10.040303-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659414259",
+      "size": "11888",
+      "md5": "a5169075ec6f04a9490a3f2a0a314f74",
+      "crc32": "51971ffa",
+      "sha1": "5c8c63f93034a3b2498dfc76461e8e12578bade5",
+      "format": "JSON"
+    },
+    {
+      "name": "qz-2022-08-02T00:24:10.040303-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659414262",
+      "size": "12973",
+      "md5": "3a12e47341861575c8438c2c79577f09",
+      "crc32": "835658b3",
+      "sha1": "42617a03ec51294c0b0eab2410d44028364a0871",
+      "format": "JSON"
+    },
+    {
+      "name": "qz-2022-08-02T00:24:10.040303-04:00.jpg",
+      "source": "original",
+      "mtime": "1659414258",
+      "size": "237490",
+      "md5": "6fb3dbbc51eed2f8f050b41da32cc9c0",
+      "crc32": "8e9bd997",
+      "sha1": "d4c6c5f47496c411d70fe23b11a0049d8d845b0c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "qz-2022-08-02T00:24:10.040303-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659414264",
+      "size": "1387",
+      "md5": "5aee393a7923a0708ffa7729976d772a",
+      "crc32": "b272e47a",
+      "sha1": "07ffdd01d9dd14d4b2122938dbe1ad062c6db608",
+      "format": "JSON"
+    },
+    {
+      "name": "qz-2022-08-02T00:24:10.040303-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "qz-2022-08-02T00:24:10.040303-04:00.jpg",
+      "mtime": "1659419665",
+      "size": "8609",
+      "md5": "83b508d2992fc7a0dd578a740357560b",
+      "crc32": "c4b4cd03",
+      "sha1": "b9f12f47b2588029525242180d746a85c6b3e948"
+    },
+    {
       "name": "qz-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4269d74e826c3693e029ce968b1f38345dcb2342",
-      "mtime": "1659374769",
-      "size": "96808",
-      "md5": "790c9a68d11bd8dd17d4095859f67d6c",
-      "crc32": "f3fe0524",
-      "sha1": "d2df7eacead69c622ddd4afb230f11adcef76c2d",
+      "btih": "e73633dd78e7a524e4a5ec68cfa0676b7298bbb1",
+      "mtime": "1659419683",
+      "size": "97837",
+      "md5": "37ef8d5aa4c969b83d8726d7a81e3989",
+      "crc32": "7a1c435d",
+      "sha1": "c1ec3c9eb348aa78254e1c29a4dd2809387ae857",
       "format": "Archive BitTorrent"
     },
     {
       "name": "qz-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4b18a5720065cad6b6267fb606fdc721",
+      "md5": "946dc14bece378b588af3afff49c7aa7",
       "summation": "md5"
     },
     {
       "name": "qz-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659370138",
-      "size": "561152",
-      "md5": "d271d0e61ee6d73d6119040c91bbec46",
-      "crc32": "c03f56af",
-      "sha1": "d5c6fbcb28736adb187e035939619f56e471f738",
+      "mtime": "1659414269",
+      "size": "565248",
+      "md5": "094295e4860c927333368cdb88422aa3",
+      "crc32": "b7316e6d",
+      "sha1": "b2905c6ff20513d308145e6e1bdc8d5b101acb27",
       "format": "Metadata"
     },
     {
@@ -4948,9 +5000,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 472,
-  "item_last_updated": 1659374769,
-  "item_size": 32016247,
+  "files_count": 477,
+  "item_last_updated": 1659419683,
+  "item_size": 32293719,
   "metadata": {
     "identifier": "qz-2022",
     "collection": [
@@ -4971,10 +5023,10 @@
     {
       "url": "https://qz.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/qz_com-_-2022_08_01_15_21_17.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/qz_com-_-2022_08_01_15_21_17.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/qz_com-_-2022_08_02_04_00_38.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/qz_com-_-2022_08_02_04_00_38.report.json",
       "summary": {
-        "performance": 0.23,
+        "performance": 0.28,
         "accessibility": 0.95,
         "best-practices": 0.92,
         "seo": 0.96,
@@ -4984,10 +5036,10 @@
     {
       "url": "https://qz.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/qz_com-_-2022_08_01_15_21_53.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/qz_com-_-2022_08_01_15_21_53.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/qz_com-_-2022_08_02_04_01_06.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/qz_com-_-2022_08_02_04_01_06.report.json",
       "summary": {
-        "performance": 0.23,
+        "performance": 0.28,
         "accessibility": 0.95,
         "best-practices": 0.92,
         "seo": 0.96,
@@ -4997,10 +5049,10 @@
     {
       "url": "https://qz.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/qz_com-_-2022_08_01_15_21_35.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/qz_com-_-2022_08_01_15_21_35.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/qz_com-_-2022_08_02_04_00_06.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/qz_com-_-2022_08_02_04_00_06.report.json",
       "summary": {
-        "performance": 0.24,
+        "performance": 0.27,
         "accessibility": 0.95,
         "best-practices": 0.92,
         "seo": 0.96,
@@ -5009,7 +5061,7 @@
     }
   ],
   "server": "ia601405.us.archive.org",
-  "uniq": 778742887,
+  "uniq": 115727644,
   "workable_servers": [
     "ia601405.us.archive.org",
     "ia801405.us.archive.org"

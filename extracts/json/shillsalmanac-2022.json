@@ -1,5 +1,5 @@
 {
-  "created": 1659401095,
+  "created": 1659443417,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/15/items/shillsalmanac-2022",
@@ -735,31 +735,83 @@
       "format": "JSON"
     },
     {
+      "name": "shillsalmanac-2022-08-01T20:44:06.419940-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "shillsalmanac-2022-08-01T20:44:06.419940-04:00.jpg",
+      "mtime": "1659402038",
+      "size": "9642",
+      "md5": "76f91850b14d395b61ea3033f621d3ba",
+      "crc32": "72f89dfd",
+      "sha1": "c1d0d0168fae526866158467236e5242f7eff1f8"
+    },
+    {
+      "name": "shillsalmanac-2022-08-02T08:29:28.095647-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659443371",
+      "size": "26097",
+      "md5": "ba76ccdbb7816bf6cb0f193a843fcdb8",
+      "crc32": "9f5d941e",
+      "sha1": "e9519a6f869f6315c3eccf500195f89e449ed759",
+      "format": "JSON"
+    },
+    {
+      "name": "shillsalmanac-2022-08-02T08:29:28.095647-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659443373",
+      "size": "40666",
+      "md5": "f8f87c78fb1688297d244f952492b8d9",
+      "crc32": "f9fe12c9",
+      "sha1": "1b2cfa27650419571929677c77e29280cc20c80f",
+      "format": "JSON"
+    },
+    {
+      "name": "shillsalmanac-2022-08-02T08:29:28.095647-04:00.jpg",
+      "source": "original",
+      "mtime": "1659443370",
+      "size": "270893",
+      "md5": "9117787679ce351901b41f7048037c8d",
+      "crc32": "7761aa16",
+      "sha1": "3fcb616287160b6f7a25f336e2847977cb2e8777",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "shillsalmanac-2022-08-02T08:29:28.095647-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659443374",
+      "size": "1456",
+      "md5": "9eed46d1c1eaf7900be991e6abf81e27",
+      "crc32": "6bb3e34f",
+      "sha1": "a75c539c9bf55210a18309b5fd9c471295100f1c",
+      "format": "JSON"
+    },
+    {
       "name": "shillsalmanac-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0e7fa626b6bded0eeffa842300845612c4110535",
-      "mtime": "1659401091",
-      "size": "16519",
-      "md5": "98ec177b3187cad9b7ddbac3124361d4",
-      "crc32": "ed5721c5",
-      "sha1": "44dd16502fad3e84b653662f31e9524a5045f689",
+      "btih": "b38a48d0a23b9be89c74b71dc08ce76aa7e45bea",
+      "mtime": "1659443414",
+      "size": "17603",
+      "md5": "999033102a0dfaec4a29ca27f3678af5",
+      "crc32": "26f16546",
+      "sha1": "be0f31066190aa4185fad13b5172628db04e0a9e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "shillsalmanac-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b998f00d5644f484ea5f740d11b64ff5",
+      "md5": "992800596175c3dd6ac87433a6240e40",
       "summation": "md5"
     },
     {
       "name": "shillsalmanac-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659401057",
-      "size": "106496",
-      "md5": "312823fbbf82362e32833930dbc93f85",
-      "crc32": "61a0f3ce",
-      "sha1": "0b5c22d61df908ad646aa94fb1c315ea36221d8a",
+      "mtime": "1659443379",
+      "size": "110592",
+      "md5": "2ce2bc93d9f4d2947622be0da408b0d1",
+      "crc32": "9e2b5cd4",
+      "sha1": "c58f047102997eacae51fe9feb63fa9bc2286fd2",
       "format": "Metadata"
     },
     {
@@ -773,9 +825,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 74,
-  "item_last_updated": 1659401091,
-  "item_size": 5067770,
+  "files_count": 79,
+  "item_last_updated": 1659443414,
+  "item_size": 5421704,
   "metadata": {
     "identifier": "shillsalmanac-2022",
     "collection": [
@@ -797,7 +849,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350052698,
+      "task_id": 3350491294,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -805,7 +857,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1840820872,
+  "uniq": 1152963779,
   "workable_servers": [
     "ia902500.us.archive.org"
   ]

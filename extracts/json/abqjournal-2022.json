@@ -1,5 +1,5 @@
 {
-  "created": 1659396774,
+  "created": 1659442215,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/28/items/abqjournal-2022",
@@ -8736,31 +8736,72 @@
       "sha1": "c570648cd07693f0b9b8b57248b7edb8bfe78579"
     },
     {
+      "name": "abqjournal-2022-08-02T06:09:14.164278-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659442162",
+      "size": "39545",
+      "md5": "9184a8de2543a94c1b5400c0773c7a49",
+      "crc32": "90e0545d",
+      "sha1": "cebbdd8e6276c821216ba75e474858005f8ec887",
+      "format": "JSON"
+    },
+    {
+      "name": "abqjournal-2022-08-02T06:09:14.164278-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659442164",
+      "size": "59479",
+      "md5": "d7218b385e33182b407c3c944227c495",
+      "crc32": "2b37d4d7",
+      "sha1": "4a977f3faaf07ccb8472e92c6f5712f8fa2a74c8",
+      "format": "JSON"
+    },
+    {
+      "name": "abqjournal-2022-08-02T06:09:14.164278-06:00.jpg",
+      "source": "original",
+      "mtime": "1659442161",
+      "size": "270537",
+      "md5": "72985312ce2de1c84d33810b01c03626",
+      "crc32": "3f8d49b9",
+      "sha1": "dcad9c40fb8719190ca0b75ae09ee95a2c409a72",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "abqjournal-2022-08-02T06:09:14.164278-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659442166",
+      "size": "1492",
+      "md5": "74a5555596c9697f6eeac095d97af58b",
+      "crc32": "8caf2f9c",
+      "sha1": "6cc0964f54a35c0d7b2be39471f0651c16639ee7",
+      "format": "JSON"
+    },
+    {
       "name": "abqjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c733413f73d816283ccb6bc3a697cb8a8adad8da",
-      "mtime": "1659396737",
-      "size": "178860",
-      "md5": "8704cc5a09a7896c1a8c23c4a2069195",
-      "crc32": "6904035b",
-      "sha1": "af6821b49004d90053a8193f80f870f1cdc0a947",
+      "btih": "a367be27d829b4bd4dee6eae092540950d86b721",
+      "mtime": "1659442212",
+      "size": "179723",
+      "md5": "97e839512f886afe5dad38a1a327fdc6",
+      "crc32": "f2c91c62",
+      "sha1": "4399201d40c546355ca900ce7d300e4ba0c9ad02",
       "format": "Archive BitTorrent"
     },
     {
       "name": "abqjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "11ba19128ef6cab317c90548f915cf7e",
+      "md5": "c7964c1b25564871fb641ec5ca58bb3d",
       "summation": "md5"
     },
     {
       "name": "abqjournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659395540",
-      "size": "974848",
-      "md5": "976ef9449cda16e874f6724f521de2e7",
-      "crc32": "f4b87f07",
-      "sha1": "ad39a788b4c0c976841b45b2fd4de2c16a8ef4b2",
+      "mtime": "1659442170",
+      "size": "978944",
+      "md5": "5991f4af25d18dff75c122f9a12b19a1",
+      "crc32": "5d376ad5",
+      "sha1": "7bffc4e6db90d9f6beb85815695005e2acc5ba1e",
       "format": "Metadata"
     },
     {
@@ -8774,9 +8815,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 836,
-  "item_last_updated": 1659396737,
-  "item_size": 84873501,
+  "files_count": 840,
+  "item_last_updated": 1659442212,
+  "item_size": 85249513,
   "metadata": {
     "identifier": "abqjournal-2022",
     "collection": [
@@ -8793,10 +8834,21 @@
     "publicdate": "2022-03-25 03:47:41",
     "addeddate": "2022-03-25 03:47:41"
   },
-  "server": "ia802503.us.archive.org",
-  "uniq": 1378883805,
+  "pending_tasks": true,
+  "server": "ia902503.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3350479775,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 946111916,
   "workable_servers": [
-    "ia802503.us.archive.org",
     "ia902503.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1659400677,
+  "created": 1659443013,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/3/items/lokaantar-2022",
@@ -941,31 +941,72 @@
       "format": "JSON"
     },
     {
+      "name": "lokaantar-2022-08-02T06:22:01.908058+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lokaantar-2022-08-02T06:22:01.908058+05:45.jpg",
+      "mtime": "1659401712",
+      "size": "10174",
+      "md5": "c3de51c58f1122c6dbb6a77962b251e6",
+      "crc32": "3e5976e6",
+      "sha1": "a4e946d16127a1a76a0dc527e82a81e0266e0e51"
+    },
+    {
+      "name": "lokaantar-2022-08-02T18:07:42.363049+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1659442963",
+      "size": "1195",
+      "md5": "86d1c2535d8578ae221bdddac5df0270",
+      "crc32": "2d5ba420",
+      "sha1": "0911e8bb9adf6e08220d1157e31f75bce081f002",
+      "format": "JSON"
+    },
+    {
+      "name": "lokaantar-2022-08-02T18:07:42.363049+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659442965",
+      "size": "149509",
+      "md5": "410cca6e36ed82098c4c8169d29abe74",
+      "crc32": "96ca1175",
+      "sha1": "61051c7b240c17c0e58f8cc831ab451b851ac10c",
+      "format": "JSON"
+    },
+    {
+      "name": "lokaantar-2022-08-02T18:07:42.363049+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1659442968",
+      "size": "1450",
+      "md5": "4372874e4c88bc2c1c5afe500cfd5cf2",
+      "crc32": "88ec20ab",
+      "sha1": "21a9777ef46fbf5a675d1d987c2f33493d01c518",
+      "format": "JSON"
+    },
+    {
       "name": "lokaantar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bcf7c05c4e42792c628f78138610c0a36c6ef426",
-      "mtime": "1659400670",
-      "size": "20449",
-      "md5": "1fadfa3e2438ea88a3e6a613d619fcad",
-      "crc32": "9e0211a8",
-      "sha1": "7a9024f6915555dd9ca3ab0e8f89253344700b01",
+      "btih": "65a5a4d2f52f4d79cde078cfd9e75d718aaf5c27",
+      "mtime": "1659443009",
+      "size": "21313",
+      "md5": "fbd4bbbdf50c72391aa775cb46a5ee43",
+      "crc32": "8254e711",
+      "sha1": "ee8d3e58af3a43df4861f8bfef1a213d9ae40f9e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lokaantar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "80223f985a048e56f7ece78b43c8de7e",
+      "md5": "5187ebf9b1ec4329045ec8d7403995d4",
       "summation": "md5"
     },
     {
       "name": "lokaantar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659400634",
-      "size": "135168",
-      "md5": "85d4d08ade423fa56a06ead8721c0840",
-      "crc32": "f3cb944c",
-      "sha1": "73bbdb77f8f975bf916182e83a878fc4300a383a",
+      "mtime": "1659442973",
+      "size": "139264",
+      "md5": "b8344ceec7e53b0d59c84be5f0f9f7d6",
+      "crc32": "46aae0f1",
+      "sha1": "ad599f4ae6cb4ed4900cf727fa3d18f2f33c2168",
       "format": "Metadata"
     },
     {
@@ -979,9 +1020,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 94,
-  "item_last_updated": 1659400670,
-  "item_size": 6816309,
+  "files_count": 98,
+  "item_last_updated": 1659443009,
+  "item_size": 6983597,
   "metadata": {
     "identifier": "lokaantar-2022",
     "collection": [
@@ -1003,7 +1044,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350048146,
+      "task_id": 3350487300,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1011,7 +1052,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1922136987,
+  "uniq": 1758731419,
   "workable_servers": [
     "ia601508.us.archive.org"
   ]

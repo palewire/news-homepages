@@ -1,5 +1,5 @@
 {
-  "created": 1659390191,
+  "created": 1659407588,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/30/items/thedepaulia-2022",
@@ -1212,31 +1212,83 @@
       "sha1": "4721db4bf9d045a64506c8a996b30058a734c639"
     },
     {
+      "name": "thedepaulia-2022-08-01T20:59:46.224962-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659405589",
+      "size": "27721",
+      "md5": "bdf0d93515549250a1f729a5584bba2a",
+      "crc32": "6462b768",
+      "sha1": "fbadb7f1fd0046aa8a57c1614ce41ff791fdb061",
+      "format": "JSON"
+    },
+    {
+      "name": "thedepaulia-2022-08-01T20:59:46.224962-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659405590",
+      "size": "92306",
+      "md5": "271dabe169facef871d0d82dbf4fc809",
+      "crc32": "0bd507ec",
+      "sha1": "1228370affb25d76bf98238f4510afdbe7641d5b",
+      "format": "JSON"
+    },
+    {
+      "name": "thedepaulia-2022-08-01T20:59:46.224962-05:00.jpg",
+      "source": "original",
+      "mtime": "1659405587",
+      "size": "280408",
+      "md5": "865e848794cfbbdf006794099d2ad354",
+      "crc32": "b0a17a1b",
+      "sha1": "66c37e85cfdf99289d2188147a61d776704d8f25",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thedepaulia-2022-08-01T20:59:46.224962-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659405591",
+      "size": "1486",
+      "md5": "6812c305696795f9cded06e5c3a4bd9a",
+      "crc32": "2fffc9ab",
+      "sha1": "6cbf9004933f8fbca3bba1b3d833697b73b599f7",
+      "format": "JSON"
+    },
+    {
+      "name": "thedepaulia-2022-08-01T20:59:46.224962-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thedepaulia-2022-08-01T20:59:46.224962-05:00.jpg",
+      "mtime": "1659407494",
+      "size": "9799",
+      "md5": "b66bc4f8915b753a195cd0498b97ed34",
+      "crc32": "fb9ad14d",
+      "sha1": "ad89459fc1939e03130768deaf1d8dea8478400a"
+    },
+    {
       "name": "thedepaulia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "372075c9374ad4879beaedaf65ed8d450198ff3e",
-      "mtime": "1659375664",
-      "size": "26257",
-      "md5": "659e89d011c815d7cdf2a45da14ee612",
-      "crc32": "cda2d575",
-      "sha1": "f1f75570e8fbca0390583bf3600558f3103e9307",
+      "btih": "28e7e894989e202b64cfcfceba09bfcb0e074d6f",
+      "mtime": "1659407504",
+      "size": "27331",
+      "md5": "aac1a4595446b9c24ec08b7921e15565",
+      "crc32": "0de6662e",
+      "sha1": "19bdf41420919516ccb229c9a03c17b0e6ef6b00",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thedepaulia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "676ba1cc9a49f8beb4dafbddc01c8912",
+      "md5": "8e71c15fa2efd9c4f23583e2455438b5",
       "summation": "md5"
     },
     {
       "name": "thedepaulia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659371754",
-      "size": "163840",
-      "md5": "747c82cbea25e4f1e2bff765814d0ebf",
-      "crc32": "9cd77ed8",
-      "sha1": "f738330ae2039bbec996b4b7208862771384fa86",
+      "mtime": "1659405596",
+      "size": "167936",
+      "md5": "bb1792d5cb524261c88d2478e6e322f1",
+      "crc32": "970143ad",
+      "sha1": "38e9238ae212dc952b716b239a1f3520c406f164",
       "format": "Metadata"
     },
     {
@@ -1250,9 +1302,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 120,
-  "item_last_updated": 1659375664,
-  "item_size": 9775071,
+  "files_count": 125,
+  "item_last_updated": 1659407504,
+  "item_size": 10191961,
   "metadata": {
     "identifier": "thedepaulia-2022",
     "collection": [
@@ -1269,10 +1321,10 @@
     "publicdate": "2022-07-26 01:35:26",
     "addeddate": "2022-07-26 01:35:26"
   },
-  "server": "ia902503.us.archive.org",
-  "uniq": 504496435,
+  "server": "ia802503.us.archive.org",
+  "uniq": 1662430403,
   "workable_servers": [
-    "ia902503.us.archive.org",
-    "ia802503.us.archive.org"
+    "ia802503.us.archive.org",
+    "ia902503.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1659371534,
+  "created": 1659444221,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/23/items/walbnews10-2022",
@@ -1298,31 +1298,83 @@
       "sha1": "206f589e3cb5384e515b9bb41e504418f8139a51"
     },
     {
+      "name": "walbnews10-2022-08-01T22:02:21.472130-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659405744",
+      "size": "33957",
+      "md5": "90437b9e39e0c41d7942d0fa039c79cd",
+      "crc32": "2eebfa36",
+      "sha1": "a92ead821c32b34caabd1a49510e2cb60e1bccbb",
+      "format": "JSON"
+    },
+    {
+      "name": "walbnews10-2022-08-01T22:02:21.472130-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659405746",
+      "size": "20740",
+      "md5": "59cf0a7e43e34fb62fc9f2e3d406ae98",
+      "crc32": "744f1623",
+      "sha1": "f40a033c96732999afdbffc6f1ef8f325b5230eb",
+      "format": "JSON"
+    },
+    {
+      "name": "walbnews10-2022-08-01T22:02:21.472130-04:00.jpg",
+      "source": "original",
+      "mtime": "1659405743",
+      "size": "358580",
+      "md5": "38f8e59fa8433c3942c65668b39caa44",
+      "crc32": "03918b8b",
+      "sha1": "5a689eb15e4dd1367f6e1b961810ac4ac280b117",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "walbnews10-2022-08-01T22:02:21.472130-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659405747",
+      "size": "1439",
+      "md5": "9bcb753a40b9d190806c359647100513",
+      "crc32": "d855d821",
+      "sha1": "eb55e20484c92a23b3f71e8a9f72c3fc683a5fd8",
+      "format": "JSON"
+    },
+    {
+      "name": "walbnews10-2022-08-01T22:02:21.472130-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "walbnews10-2022-08-01T22:02:21.472130-04:00.jpg",
+      "mtime": "1659407473",
+      "size": "11109",
+      "md5": "d98d72f9dad79dc8ec73e900f240fd5a",
+      "crc32": "e8a72988",
+      "sha1": "af81c06bd8bc44c51a8724a253d4b59d5394617c"
+    },
+    {
       "name": "walbnews10-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d847a0ce3fafaa573c720da532be95b4b55ace6e",
-      "mtime": "1659371522",
-      "size": "27882",
-      "md5": "b7fa65826661069b74fdc30c8aef92e2",
-      "crc32": "12f3a957",
-      "sha1": "910be9362c0774c12cd91f46da900c7fae3d2293",
+      "btih": "0e2326f7be9b1a201df29548bfbba2738e3d29b5",
+      "mtime": "1659407487",
+      "size": "28952",
+      "md5": "7283bddf0c1027bc93ca0058a9e76838",
+      "crc32": "fa89211a",
+      "sha1": "8b37ae26c90f6afb4f0d14477c05f5e09463d6e0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "walbnews10-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "90505e10eeb94bc3fcd9b0609904de62",
+      "md5": "eb034e80c1b9202deb84fa2ea1a593f6",
       "summation": "md5"
     },
     {
       "name": "walbnews10-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659365556",
-      "size": "172032",
-      "md5": "74e683e60cfedb754fc6994d5328c00b",
-      "crc32": "468259f0",
-      "sha1": "be82c149e46add3187b20d33a6d7c18d7508bfdc",
+      "mtime": "1659405752",
+      "size": "176128",
+      "md5": "da7ca841218230bd4773806cd7c82beb",
+      "crc32": "6808d60d",
+      "sha1": "d623f1bcfa166fbf2e853a9995d7beb64d2c579b",
       "format": "Metadata"
     },
     {
@@ -1336,9 +1388,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 128,
-  "item_last_updated": 1659371522,
-  "item_size": 11348729,
+  "files_count": 133,
+  "item_last_updated": 1659407487,
+  "item_size": 11779720,
   "metadata": {
     "identifier": "walbnews10-2022",
     "collection": [
@@ -1355,10 +1407,51 @@
     "publicdate": "2022-07-20 23:31:52",
     "addeddate": "2022-07-20 23:31:52"
   },
-  "server": "ia801409.us.archive.org",
-  "uniq": 1948032564,
+  "server": "ia601409.us.archive.org",
+  "uniq": 1441550763,
+  "walbnews10-2022": [
+    {
+      "url": "https://www.walb.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_walb_com-_-2022_08_02_01_39_14.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_walb_com-_-2022_08_02_01_39_14.report.json",
+      "summary": {
+        "performance": 0.3,
+        "accessibility": 0.86,
+        "best-practices": 0.83,
+        "seo": 0.91,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.walb.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_walb_com-_-2022_08_02_01_39_55.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_walb_com-_-2022_08_02_01_39_55.report.json",
+      "summary": {
+        "performance": 0.3,
+        "accessibility": 0.86,
+        "best-practices": 0.92,
+        "seo": 0.91,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.walb.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_walb_com-_-2022_08_02_01_37_59.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_walb_com-_-2022_08_02_01_37_59.report.json",
+      "summary": {
+        "performance": 0.24,
+        "accessibility": 0.85,
+        "best-practices": 0.92,
+        "seo": 0.91,
+        "pwa": 0.3
+      }
+    }
+  ],
   "workable_servers": [
-    "ia801409.us.archive.org",
-    "ia601409.us.archive.org"
+    "ia601409.us.archive.org",
+    "ia801409.us.archive.org"
   ]
 }

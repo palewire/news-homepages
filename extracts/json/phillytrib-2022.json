@@ -1,5 +1,5 @@
 {
-  "created": 1659400991,
+  "created": 1659443316,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/29/items/phillytrib-2022",
@@ -3051,31 +3051,83 @@
       "format": "JSON"
     },
     {
+      "name": "phillytrib-2022-08-01T20:42:15.356212-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "phillytrib-2022-08-01T20:42:15.356212-04:00.jpg",
+      "mtime": "1659401975",
+      "size": "10955",
+      "md5": "398a211666dc897b777c11936a6ead75",
+      "crc32": "9203feee",
+      "sha1": "2ddeb512bdf3f52cb8e1481c10492e6d74d3d477"
+    },
+    {
+      "name": "phillytrib-2022-08-02T08:27:30.775647-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659443255",
+      "size": "26552",
+      "md5": "5c228e183f05953a7532f698abc8656f",
+      "crc32": "fd0463df",
+      "sha1": "cb5199a1f78a76e2ad6b8e148586a63d398d746c",
+      "format": "JSON"
+    },
+    {
+      "name": "phillytrib-2022-08-02T08:27:30.775647-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659443257",
+      "size": "53736",
+      "md5": "798ef6ea0592b3efcf17f129ad920ead",
+      "crc32": "1ad1acf8",
+      "sha1": "6b5f2b068eabf39dac636cb5f175b38128523b0f",
+      "format": "JSON"
+    },
+    {
+      "name": "phillytrib-2022-08-02T08:27:30.775647-04:00.jpg",
+      "source": "original",
+      "mtime": "1659443253",
+      "size": "331280",
+      "md5": "babb5d1519efd7da5488895f8d79ace4",
+      "crc32": "b825a6e4",
+      "sha1": "c04a6abbaf4cc5ddb4c60e5aac605b6b8490ed33",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "phillytrib-2022-08-02T08:27:30.775647-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659443260",
+      "size": "1495",
+      "md5": "851585e6b86f152e7f5c36e98515a1e4",
+      "crc32": "4cdac53a",
+      "sha1": "3de5ed32f40b9791237abf990a0f5cbeb9b111ab",
+      "format": "JSON"
+    },
+    {
       "name": "phillytrib-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9574d18d69587aad5ddc843fca5e397702d1902a",
-      "mtime": "1659400985",
-      "size": "63572",
-      "md5": "d1b9041cfcaea4783c96c1d92fb474a0",
-      "crc32": "96bcd303",
-      "sha1": "af25114f810467ccb08321473beb69cff043b742",
+      "btih": "0f0c59d03455404d1764eb69a40113d851254f5a",
+      "mtime": "1659443311",
+      "size": "64642",
+      "md5": "c9e4029d8fcade9fe868b07fcb504498",
+      "crc32": "a933c2c5",
+      "sha1": "d51a5aa115b6f2eab0327fb28b96e6f529b1719f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "phillytrib-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c96288e25b2053f7c5a49507056dbb5d",
+      "md5": "8260819aeb1430e54aa3af5054f2e612",
       "summation": "md5"
     },
     {
       "name": "phillytrib-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659400946",
-      "size": "364544",
-      "md5": "ab8e82b51d81349b61ad90757f8b02e9",
-      "crc32": "1541adbe",
-      "sha1": "fe28d9ce6fa1ab38f77b36bb3934382541f3c20f",
+      "mtime": "1659443267",
+      "size": "368640",
+      "md5": "505f79371db354bc67a2a890563412b6",
+      "crc32": "09df82ac",
+      "sha1": "4b4fbb204ec9e759b7c1c629a378e32a3d270c73",
       "format": "Metadata"
     },
     {
@@ -3089,9 +3141,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 295,
-  "item_last_updated": 1659400985,
-  "item_size": 29674449,
+  "files_count": 300,
+  "item_last_updated": 1659443311,
+  "item_size": 30103633,
   "metadata": {
     "identifier": "phillytrib-2022",
     "collection": [
@@ -3113,7 +3165,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350051486,
+      "task_id": 3350490231,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -3121,7 +3173,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 873238521,
+  "uniq": 1463053202,
   "workable_servers": [
     "ia902506.us.archive.org"
   ]

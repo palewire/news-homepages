@@ -1,5 +1,5 @@
 {
-  "created": 1659401003,
+  "created": 1659443298,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/2/items/pioneerpress-2022",
@@ -8795,31 +8795,83 @@
       "format": "JSON"
     },
     {
+      "name": "pioneerpress-2022-08-01T19:42:16.677125-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pioneerpress-2022-08-01T19:42:16.677125-05:00.jpg",
+      "mtime": "1659402007",
+      "size": "9315",
+      "md5": "9b452c72feb8deba36030fdd29db4f60",
+      "crc32": "9f0f2104",
+      "sha1": "a1cb0ddd7e1367215a97eae48cc241e7410070bc"
+    },
+    {
+      "name": "pioneerpress-2022-08-02T07:27:13.272741-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659443244",
+      "size": "40993",
+      "md5": "475f8b9ebbc36935947c8f48de545630",
+      "crc32": "bb43509b",
+      "sha1": "195bf8816587d68f1b2a1dba3b7479cbaf43c869",
+      "format": "JSON"
+    },
+    {
+      "name": "pioneerpress-2022-08-02T07:27:13.272741-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659443246",
+      "size": "44023",
+      "md5": "a6dfabf126e9c62e3c9444a508a93cac",
+      "crc32": "ae3d7839",
+      "sha1": "aeb6ab1ae33f62a380c2e23a921ce42d15a200c2",
+      "format": "JSON"
+    },
+    {
+      "name": "pioneerpress-2022-08-02T07:27:13.272741-05:00.jpg",
+      "source": "original",
+      "mtime": "1659443242",
+      "size": "279188",
+      "md5": "da7d7547d94685f1271e78df9ea718be",
+      "crc32": "6244343e",
+      "sha1": "21b85d882828af041a1c43cdde783cbe8ea72aac",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pioneerpress-2022-08-02T07:27:13.272741-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659443247",
+      "size": "1495",
+      "md5": "a1227d10b59157de7a3c83767871fcdb",
+      "crc32": "b7250a07",
+      "sha1": "bf0da1c4e894bc88d9964b816aa6c0db93419334",
+      "format": "JSON"
+    },
+    {
       "name": "pioneerpress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "250e6305aa6394854f8cd9666fa5db2a92813806",
-      "mtime": "1659400998",
-      "size": "181523",
-      "md5": "0dcdae2f00324ce69f1dfc6566e8521b",
-      "crc32": "1abee980",
-      "sha1": "d10929cd81dd046de5200a68994e63d519aefb2f",
+      "btih": "5375ac56d4ddce5372e036b5a74a7d8b881aaafa",
+      "mtime": "1659443293",
+      "size": "182602",
+      "md5": "3844c0a16b7d3f8655025687fd82f8de",
+      "crc32": "4cad4473",
+      "sha1": "c5a651f18ee7843ee4f31d63bd8fd2db1db35274",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pioneerpress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b554b97167d9a8ec789df96381f82228",
+      "md5": "9a3e53ba7aa58b6a2faead92f4b73f1e",
       "summation": "md5"
     },
     {
       "name": "pioneerpress-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659400955",
-      "size": "987136",
-      "md5": "a8c1f9f9017626a107b70ae78bd7f9eb",
-      "crc32": "20cf4afa",
-      "sha1": "88c8c1df5010df138c77615c9d0078fc53714cb7",
+      "mtime": "1659443251",
+      "size": "995328",
+      "md5": "4e0b7889c663ef8f4a048a02ff7f0ef5",
+      "crc32": "dcce57e6",
+      "sha1": "b58cebdff6b4e3a747a15076fa8493df37267de3",
       "format": "Metadata"
     },
     {
@@ -8833,9 +8885,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 842,
-  "item_last_updated": 1659400998,
-  "item_size": 79034153,
+  "files_count": 847,
+  "item_last_updated": 1659443293,
+  "item_size": 79418438,
   "metadata": {
     "identifier": "pioneerpress-2022",
     "collection": [
@@ -8857,7 +8909,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350051605,
+      "task_id": 3350489997,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -8865,7 +8917,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1631074817,
+  "uniq": 1411382761,
   "workable_servers": [
     "ia902508.us.archive.org"
   ]

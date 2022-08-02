@@ -3,10 +3,10 @@
     {
       "url": "https://beltmag.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/beltmag_com-_-2022_08_01_13_22_53.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/beltmag_com-_-2022_08_01_13_22_53.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/beltmag_com-_-2022_08_02_01_24_12.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/beltmag_com-_-2022_08_02_01_24_12.report.json",
       "summary": {
-        "performance": 0.33,
+        "performance": 0.26,
         "accessibility": 0.89,
         "best-practices": 0.83,
         "seo": 0.91,
@@ -16,10 +16,10 @@
     {
       "url": "https://beltmag.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/beltmag_com-_-2022_08_01_13_23_37.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/beltmag_com-_-2022_08_01_13_23_37.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/beltmag_com-_-2022_08_02_01_24_34.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/beltmag_com-_-2022_08_02_01_24_34.report.json",
       "summary": {
-        "performance": 0.41,
+        "performance": 0.32,
         "accessibility": 0.89,
         "best-practices": 0.83,
         "seo": 0.91,
@@ -29,10 +29,10 @@
     {
       "url": "https://beltmag.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/beltmag_com-_-2022_08_01_13_23_16.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/beltmag_com-_-2022_08_01_13_23_16.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/beltmag_com-_-2022_08_02_01_24_55.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/beltmag_com-_-2022_08_02_01_24_55.report.json",
       "summary": {
-        "performance": 0.4,
+        "performance": 0.3,
         "accessibility": 0.89,
         "best-practices": 0.83,
         "seo": 0.91,
@@ -40,7 +40,7 @@
       }
     }
   ],
-  "created": 1659400474,
+  "created": 1659443431,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/21/items/belt_magazine-2022",
@@ -2305,31 +2305,83 @@
       "sha1": "6ad6dce3cbd5af00eb030fe2bd7e1c190a9930a1"
     },
     {
+      "name": "belt_magazine-2022-08-01T21:55:15.476375-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659405318",
+      "size": "18940",
+      "md5": "9f0270075db1554cf0debbec7421d675",
+      "crc32": "c24e5fa7",
+      "sha1": "a0a42c169d9ee150e273875a8e1e8378a4b904c0",
+      "format": "JSON"
+    },
+    {
+      "name": "belt_magazine-2022-08-01T21:55:15.476375-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659405320",
+      "size": "18991",
+      "md5": "0ecd11335f34c7b5d24d52edef038902",
+      "crc32": "327fd43f",
+      "sha1": "253311b907cb60641de12f7103d39fd08134024f",
+      "format": "JSON"
+    },
+    {
+      "name": "belt_magazine-2022-08-01T21:55:15.476375-04:00.jpg",
+      "source": "original",
+      "mtime": "1659405317",
+      "size": "213889",
+      "md5": "fd4c4f0a0597ccb6e63d764d66f7fc26",
+      "crc32": "fd222208",
+      "sha1": "b6864b910e3e615d75954e0d58cd596086cec79d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "belt_magazine-2022-08-01T21:55:15.476375-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659405322",
+      "size": "1431",
+      "md5": "7156822385bff2a1e80ddb98ad70f891",
+      "crc32": "f3ee1da0",
+      "sha1": "9cea4fa311314b968249ec7cfe42c63ec03b6604",
+      "format": "JSON"
+    },
+    {
+      "name": "belt_magazine-2022-08-01T21:55:15.476375-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "belt_magazine-2022-08-01T21:55:15.476375-04:00.jpg",
+      "mtime": "1659406992",
+      "size": "10095",
+      "md5": "38129c52ef056255b9e63ec2423de1ec",
+      "crc32": "d59d4f60",
+      "sha1": "6ad6dce3cbd5af00eb030fe2bd7e1c190a9930a1"
+    },
+    {
       "name": "belt_magazine-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6682d014ce205cb543004b1e5b7ff9a8142259a6",
-      "mtime": "1659370815",
-      "size": "47880",
-      "md5": "6b95e49b38f568996cfea8cd031b71c9",
-      "crc32": "eee23e8f",
-      "sha1": "6fedc90e2d5870222e2d4aaaea17be1c1f8bca87",
+      "btih": "f4c0260d7c1e7cd91901224e1906fb20610ba876",
+      "mtime": "1659407003",
+      "size": "48945",
+      "md5": "73015e5bfe679202b3e2ed7e24715c63",
+      "crc32": "ee51082d",
+      "sha1": "fd0b736bda20a6a38b51adf528e6272778b168f3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "belt_magazine-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8cb45a4ea39047b1d84302d41fcc9825",
+      "md5": "f45d97b3d95026e9fd2469b2d82dfe38",
       "summation": "md5"
     },
     {
       "name": "belt_magazine-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659365113",
-      "size": "278528",
-      "md5": "53a839b2e05be078f3e2672f9ca328d2",
-      "crc32": "f83672b2",
-      "sha1": "ca81ce8056e0805ede4df2ca0fcf427053daceb1",
+      "mtime": "1659405327",
+      "size": "282624",
+      "md5": "e6ef3dc97124899aa2a17c1b289de229",
+      "crc32": "19344c86",
+      "sha1": "85c1dcd24537a296d21db2575d3bc4e4db333f47",
       "format": "Metadata"
     },
     {
@@ -2343,9 +2395,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 220,
-  "item_last_updated": 1659370815,
-  "item_size": 13180292,
+  "files_count": 225,
+  "item_last_updated": 1659407003,
+  "item_size": 13448799,
   "metadata": {
     "identifier": "belt_magazine-2022",
     "collection": [
@@ -2363,7 +2415,7 @@
     "addeddate": "2022-07-09 03:56:11"
   },
   "server": "ia902502.us.archive.org",
-  "uniq": 1452755939,
+  "uniq": 1821164683,
   "workable_servers": [
     "ia902502.us.archive.org",
     "ia802502.us.archive.org"

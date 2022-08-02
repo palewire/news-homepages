@@ -1,5 +1,5 @@
 {
-  "created": 1659401019,
+  "created": 1659443801,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/27/items/newscientist-2022",
@@ -2590,31 +2590,83 @@
       "sha1": "63841ed9bd6ec4f43675fa29239701e1d81442a8"
     },
     {
+      "name": "newscientist-2022-08-02T04:23:03.968895+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659410587",
+      "size": "17655",
+      "md5": "f9143a112ecb65c56308b32bec89a179",
+      "crc32": "c430d36c",
+      "sha1": "6a13955b27ba9ba2f3c9731ac418bb4d34830bcd",
+      "format": "JSON"
+    },
+    {
+      "name": "newscientist-2022-08-02T04:23:03.968895+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659410589",
+      "size": "14642",
+      "md5": "9bf804f213b2cd31ae6b5a419c5b8770",
+      "crc32": "47a4fb08",
+      "sha1": "bdf87c8a13985a212bed33c9fc26675c6193e091",
+      "format": "JSON"
+    },
+    {
+      "name": "newscientist-2022-08-02T04:23:03.968895+01:00.jpg",
+      "source": "original",
+      "mtime": "1659410585",
+      "size": "308607",
+      "md5": "c901e90b22e8c6cf4fe50b0c20ef995b",
+      "crc32": "528e7d8e",
+      "sha1": "f27cb3a263ee1c665207c947189de57f4a6ae233",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newscientist-2022-08-02T04:23:03.968895+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659410591",
+      "size": "1513",
+      "md5": "a5cd7c26bbc562feb60afe2b580ea427",
+      "crc32": "70963541",
+      "sha1": "5e95f9875e8e38cc4d46e2d522cc05998e2dcd92",
+      "format": "JSON"
+    },
+    {
+      "name": "newscientist-2022-08-02T04:23:03.968895+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newscientist-2022-08-02T04:23:03.968895+01:00.jpg",
+      "mtime": "1659413527",
+      "size": "10720",
+      "md5": "75b8cdd0dc422d8acaeee4199e5bde07",
+      "crc32": "4bd88b96",
+      "sha1": "bf6307689e2228d2fd64653183ac920c68cd6613"
+    },
+    {
       "name": "newscientist-2022_archive.torrent",
       "source": "metadata",
-      "btih": "71854efbbacae88c0664fe19e9746f070976e590",
-      "mtime": "1659372226",
-      "size": "54467",
-      "md5": "f78b0f4e96b6b63e5d080a41f29edd9b",
-      "crc32": "30811c9e",
-      "sha1": "55bd43ab50d063c5df9733cb23787b13124155d2",
+      "btih": "af6e30acd3edf9f59a2183e2ceebba447c2ae8dc",
+      "mtime": "1659413585",
+      "size": "55547",
+      "md5": "740c72aff1c975c86f05064061fe0f07",
+      "crc32": "09c1d34f",
+      "sha1": "641e2262f967ab5e985e7b8908ed41cd50968db0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newscientist-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "eac0de115fdfc03ffee375fc5958248d",
+      "md5": "620eb2c2a3c7a9a810ac9fafa7e05a0e",
       "summation": "md5"
     },
     {
       "name": "newscientist-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659366331",
-      "size": "311296",
-      "md5": "4331bc69cefc924711282e4e28111147",
-      "crc32": "652d9d41",
-      "sha1": "b5d98126fe69f3734265666bc5a1ca7d053eabbc",
+      "mtime": "1659410593",
+      "size": "319488",
+      "md5": "3b88ca8e620406fd3a8d5eb0962dd993",
+      "crc32": "ba3e7aae",
+      "sha1": "a9bc544e164089fd538ece7aabb09589d0aaba2d",
       "format": "Metadata"
     },
     {
@@ -2628,9 +2680,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 251,
-  "item_last_updated": 1659372226,
-  "item_size": 19717193,
+  "files_count": 256,
+  "item_last_updated": 1659413585,
+  "item_size": 20079602,
   "metadata": {
     "identifier": "newscientist-2022",
     "collection": [
@@ -2651,10 +2703,10 @@
     {
       "url": "https://www.newscientist.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_newscientist_com-_-2022_08_01_14_42_14.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_newscientist_com-_-2022_08_01_14_42_14.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_newscientist_com-_-2022_08_02_03_03_07.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_newscientist_com-_-2022_08_02_03_03_07.report.json",
       "summary": {
-        "performance": 0.29,
+        "performance": 0.34,
         "accessibility": 0.88,
         "best-practices": 0.92,
         "seo": 0.93,
@@ -2664,11 +2716,11 @@
     {
       "url": "https://www.newscientist.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_newscientist_com-_-2022_08_01_14_42_34.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_newscientist_com-_-2022_08_01_14_42_34.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_newscientist_com-_-2022_08_02_03_04_17.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_newscientist_com-_-2022_08_02_03_04_17.report.json",
       "summary": {
-        "performance": 0.32,
-        "accessibility": 0.89,
+        "performance": 0.36,
+        "accessibility": 0.88,
         "best-practices": 0.92,
         "seo": 0.93,
         "pwa": 0.4
@@ -2677,11 +2729,11 @@
     {
       "url": "https://www.newscientist.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_newscientist_com-_-2022_08_01_14_41_15.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_newscientist_com-_-2022_08_01_14_41_15.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_newscientist_com-_-2022_08_02_03_05_37.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_newscientist_com-_-2022_08_02_03_05_37.report.json",
       "summary": {
-        "performance": 0.26,
-        "accessibility": 0.88,
+        "performance": 0.35,
+        "accessibility": 0.89,
         "best-practices": 0.92,
         "seo": 0.93,
         "pwa": 0.4
@@ -2689,7 +2741,7 @@
     }
   ],
   "server": "ia802503.us.archive.org",
-  "uniq": 328172355,
+  "uniq": 1845331314,
   "workable_servers": [
     "ia802503.us.archive.org",
     "ia902503.us.archive.org"

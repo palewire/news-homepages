@@ -1,5 +1,5 @@
 {
-  "created": 1659372363,
+  "created": 1659443768,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/15/items/miwisconsin-2022",
@@ -2212,31 +2212,83 @@
       "sha1": "a42346c95904c2fb3ee9f4ed4a9d43524ac5b3c6"
     },
     {
+      "name": "miwisconsin-2022-08-01T22:21:27.536312-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659410491",
+      "size": "40820",
+      "md5": "9557f591a6bc55771b9f69a58b263185",
+      "crc32": "69e7deac",
+      "sha1": "b7fea02bc5c031129cea8ffcb241c7902263b659",
+      "format": "JSON"
+    },
+    {
+      "name": "miwisconsin-2022-08-01T22:21:27.536312-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659410492",
+      "size": "57937",
+      "md5": "e4364d3beda5b480c7f06530dadd42dd",
+      "crc32": "456e2719",
+      "sha1": "4106975b6bad511f71b26b20fb058db9fc89546a",
+      "format": "JSON"
+    },
+    {
+      "name": "miwisconsin-2022-08-01T22:21:27.536312-05:00.jpg",
+      "source": "original",
+      "mtime": "1659410489",
+      "size": "224646",
+      "md5": "c1784dc0b7c3f7301bd31bc093204db3",
+      "crc32": "796e41dd",
+      "sha1": "755ac47692617ba3ffe4d6f8180136b00ab3f1b9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "miwisconsin-2022-08-01T22:21:27.536312-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659410494",
+      "size": "1468",
+      "md5": "b7848385cfe758b44d6fb6d78391bc5d",
+      "crc32": "52f0de59",
+      "sha1": "6740f803affbaa6934b64fbe66066323218b9d6e",
+      "format": "JSON"
+    },
+    {
+      "name": "miwisconsin-2022-08-01T22:21:27.536312-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "miwisconsin-2022-08-01T22:21:27.536312-05:00.jpg",
+      "mtime": "1659413497",
+      "size": "9741",
+      "md5": "8c1f1c02e0fa1f95acc5f747de692790",
+      "crc32": "8cab8acf",
+      "sha1": "c2e768fc4d84eb412f9c08c4ef04f878ae1742a3"
+    },
+    {
       "name": "miwisconsin-2022_archive.torrent",
       "source": "metadata",
-      "btih": "308ce80dc17f3980f23d03acc18ef256152fd606",
-      "mtime": "1659372268",
-      "size": "46477",
-      "md5": "9af95d23e5ac32e5befd9af11645df55",
-      "crc32": "dd791749",
-      "sha1": "c44a53a7c2dcd9e9e9870d1ced8bdbf48cfb5fbd",
+      "btih": "6cdefebfea957905fb0d2be2704c5b11c0887389",
+      "mtime": "1659413501",
+      "size": "47531",
+      "md5": "0497d8a2358c8e2bab5ae31d3eccd8aa",
+      "crc32": "b9a31fa9",
+      "sha1": "a47d9c2fe6756d7501de554bc5a50df335221305",
       "format": "Archive BitTorrent"
     },
     {
       "name": "miwisconsin-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3a066e0db5883f102f35ad59112de0aa",
+      "md5": "7b4bf78a1ac8d361aa370c77b3702f30",
       "summation": "md5"
     },
     {
       "name": "miwisconsin-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659366283",
-      "size": "270336",
-      "md5": "13d046328ffbc2e44c2e06c8a4548dd2",
-      "crc32": "6fea5b8c",
-      "sha1": "aab1673f02121aeab4830d28e3e8ef24f4c9ce1d",
+      "mtime": "1659410498",
+      "size": "278528",
+      "md5": "39450bbcfa52cb5a5ab5749383655166",
+      "crc32": "5360c986",
+      "sha1": "b77fd4774e73105fb4ed8084e515146233155494",
       "format": "Metadata"
     },
     {
@@ -2250,9 +2302,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 215,
-  "item_last_updated": 1659372268,
-  "item_size": 16302245,
+  "files_count": 220,
+  "item_last_updated": 1659413501,
+  "item_size": 16646103,
   "metadata": {
     "identifier": "miwisconsin-2022",
     "collection": [
@@ -2269,8 +2321,49 @@
     "publicdate": "2022-07-09 04:00:37",
     "addeddate": "2022-07-09 04:00:37"
   },
+  "miwisconsin-2022": [
+    {
+      "url": "https://miwisconsin.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/miwisconsin_com-_-2022_08_02_02_59_46.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/miwisconsin_com-_-2022_08_02_02_59_46.report.json",
+      "summary": {
+        "performance": 0.08,
+        "accessibility": 0.78,
+        "best-practices": 0.75,
+        "seo": 0.68,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://miwisconsin.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/miwisconsin_com-_-2022_08_02_03_01_38.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/miwisconsin_com-_-2022_08_02_03_01_38.report.json",
+      "summary": {
+        "performance": 0.07,
+        "accessibility": 0.76,
+        "best-practices": 0.75,
+        "seo": 0.68,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://miwisconsin.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/miwisconsin_com-_-2022_08_02_03_03_22.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/miwisconsin_com-_-2022_08_02_03_03_22.report.json",
+      "summary": {
+        "performance": 0.08,
+        "accessibility": 0.87,
+        "best-practices": 0.75,
+        "seo": 0.68,
+        "pwa": 0.4
+      }
+    }
+  ],
   "server": "ia801502.us.archive.org",
-  "uniq": 1116128088,
+  "uniq": 101730654,
   "workable_servers": [
     "ia801502.us.archive.org",
     "ia601502.us.archive.org"

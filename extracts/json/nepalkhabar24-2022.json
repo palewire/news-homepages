@@ -1,5 +1,5 @@
 {
-  "created": 1659400806,
+  "created": 1659443113,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/18/items/nepalkhabar24-2022",
@@ -941,31 +941,83 @@
       "format": "JSON"
     },
     {
+      "name": "nepalkhabar24-2022-08-02T06:24:21.272604+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nepalkhabar24-2022-08-02T06:24:21.272604+05:45.jpg",
+      "mtime": "1659401820",
+      "size": "9465",
+      "md5": "231d202f853eff0e56adadceba8dd04b",
+      "crc32": "054d103e",
+      "sha1": "755bc616d56092e3d6f3212ce9dc7a9309c9a595"
+    },
+    {
+      "name": "nepalkhabar24-2022-08-02T18:09:25.260335+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1659443069",
+      "size": "86918",
+      "md5": "c44996b3e134ff7950b8f59c18205821",
+      "crc32": "df48e343",
+      "sha1": "b1b621d88358a5e467e402de5a5c40f278a30af8",
+      "format": "JSON"
+    },
+    {
+      "name": "nepalkhabar24-2022-08-02T18:09:25.260335+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659443072",
+      "size": "71785",
+      "md5": "4a26e8267d1a37f35c8a6f2489f3d500",
+      "crc32": "598b62dc",
+      "sha1": "078ac7f1485e58df34b687e2b34ef6be48cc8c52",
+      "format": "JSON"
+    },
+    {
+      "name": "nepalkhabar24-2022-08-02T18:09:25.260335+05:45.jpg",
+      "source": "original",
+      "mtime": "1659443067",
+      "size": "250350",
+      "md5": "d34b36e98dcacf7c318c6b93f70cd86d",
+      "crc32": "ce5fd7b0",
+      "sha1": "1d30f84456df10ff8376e5614f7b7069a220a8e7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nepalkhabar24-2022-08-02T18:09:25.260335+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1659443074",
+      "size": "1468",
+      "md5": "3dad8ade0f365ad8c4edcfd0d0befe23",
+      "crc32": "1e3719dd",
+      "sha1": "c77c60e5a8094f62d4c36a57edc1ff0826ca56c5",
+      "format": "JSON"
+    },
+    {
       "name": "nepalkhabar24-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8505d9db71a1503d88ced8cf4f073fb8e90d9290",
-      "mtime": "1659400804",
-      "size": "20881",
-      "md5": "7ef6b332ed1f35de1b9475644866f57e",
-      "crc32": "61f61f8b",
-      "sha1": "d42346da642477dea101f76432260d82ad5550e1",
+      "btih": "d847e41590a87e019ec66f81bd9047378e5d4720",
+      "mtime": "1659443111",
+      "size": "21965",
+      "md5": "1c238266f79576a4bc0144dc58920745",
+      "crc32": "419a1da2",
+      "sha1": "4140cd04b7b400c2045ddd05b45fdfcc2a1fafe1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nepalkhabar24-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4d23022e531209cdcbe8c98a2c081c0f",
+      "md5": "49e1a089ada1f7b25a332ba78514be91",
       "summation": "md5"
     },
     {
       "name": "nepalkhabar24-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659400770",
-      "size": "135168",
-      "md5": "5ba36db6bfc9b04560ca223620802d84",
-      "crc32": "bed5d47d",
-      "sha1": "e9259486947f30cc72ed1db908ab72065d548975",
+      "mtime": "1659443076",
+      "size": "143360",
+      "md5": "0041bab51c50bf197163c3174a1da982",
+      "crc32": "32a69ce2",
+      "sha1": "9e9fd88e2af3655e833452ee585daa269fcbf982",
       "format": "Metadata"
     },
     {
@@ -979,9 +1031,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 94,
-  "item_last_updated": 1659400804,
-  "item_size": 7285803,
+  "files_count": 99,
+  "item_last_updated": 1659443111,
+  "item_size": 7715065,
   "metadata": {
     "identifier": "nepalkhabar24-2022",
     "collection": [
@@ -1003,7 +1055,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350049511,
+      "task_id": 3350488301,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1011,7 +1063,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 328953186,
+  "uniq": 917633252,
   "workable_servers": [
     "ia902505.us.archive.org"
   ]

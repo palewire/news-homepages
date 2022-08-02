@@ -1,5 +1,5 @@
 {
-  "created": 1659400942,
+  "created": 1659443270,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/9/items/orcapchronicle-2022",
@@ -2631,31 +2631,83 @@
       "format": "JSON"
     },
     {
+      "name": "orcapchronicle-2022-08-01T17:41:30.601119-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "orcapchronicle-2022-08-01T17:41:30.601119-07:00.jpg",
+      "mtime": "1659402041",
+      "size": "10251",
+      "md5": "c34b17349498ec94645d812fc3d61a3e",
+      "crc32": "1779c1b6",
+      "sha1": "41687aab9af8bc241f7f2ccdfb66e535020d5c3b"
+    },
+    {
+      "name": "orcapchronicle-2022-08-02T05:26:56.524633-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659443220",
+      "size": "15546",
+      "md5": "37d35b1ff777f154bbbd85c71a411dca",
+      "crc32": "a54be11a",
+      "sha1": "67f28db54a665f75c387b1d273df8b523a2158a2",
+      "format": "JSON"
+    },
+    {
+      "name": "orcapchronicle-2022-08-02T05:26:56.524633-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659443222",
+      "size": "13314",
+      "md5": "f7b7bb7e482ad912c651613ddd6b84a1",
+      "crc32": "ffc5b329",
+      "sha1": "99ee01c884904efdec989f9f1851047786237871",
+      "format": "JSON"
+    },
+    {
+      "name": "orcapchronicle-2022-08-02T05:26:56.524633-07:00.jpg",
+      "source": "original",
+      "mtime": "1659443219",
+      "size": "297876",
+      "md5": "3227d8f758e48caa57955f219da9807e",
+      "crc32": "d1dd12bd",
+      "sha1": "85b94d4cd9be50e6f26897cb280b71dff54ce6d0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "orcapchronicle-2022-08-02T05:26:56.524633-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659443224",
+      "size": "1567",
+      "md5": "016b39683de2fe4070913bea3ebee778",
+      "crc32": "8648aed8",
+      "sha1": "f21e80272ff29b0a833e02fc5c69226c262fd683",
+      "format": "JSON"
+    },
+    {
       "name": "orcapchronicle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "802e6dc15354149125bdceeeda8e23a2295f1133",
-      "mtime": "1659400939",
-      "size": "55874",
-      "md5": "30c74902aeb1e413e8b9d34cf1b2c595",
-      "crc32": "09641fc5",
-      "sha1": "a74a8738c350584c8ab5112cf72aa90ec1b15cc4",
+      "btih": "34d64f5f9d5b2949affc1f8064a72d5872e224be",
+      "mtime": "1659443267",
+      "size": "56964",
+      "md5": "76410fdc17c3c703a17ad62dfc536caf",
+      "crc32": "68da3583",
+      "sha1": "0713f40cf4e44d71c69753ad20f266ffb0927e9e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "orcapchronicle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "58bb4052fbd474a7d193fd6cac34e3d0",
+      "md5": "e11fb6491b1f515abdd3ea65ac372c82",
       "summation": "md5"
     },
     {
       "name": "orcapchronicle-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659400904",
-      "size": "319488",
-      "md5": "0e2b9fb2e47a6cf9b554f9fec36a2d32",
-      "crc32": "e33c9672",
-      "sha1": "4dba5ed5cc58c3924e1b49e458cda9dea3d898fd",
+      "mtime": "1659443228",
+      "size": "323584",
+      "md5": "5058e577bcfa1069b63e993fb63866c7",
+      "crc32": "0aec30d2",
+      "sha1": "1caae1a140791592ad58c49f5eb51c6034b3a1dc",
       "format": "Metadata"
     },
     {
@@ -2669,9 +2721,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 255,
-  "item_last_updated": 1659400939,
-  "item_size": 20816546,
+  "files_count": 260,
+  "item_last_updated": 1659443267,
+  "item_size": 21160286,
   "metadata": {
     "identifier": "orcapchronicle-2022",
     "collection": [
@@ -2693,7 +2745,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350050982,
+      "task_id": 3350489727,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2701,7 +2753,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1806754507,
+  "uniq": 1818621398,
   "workable_servers": [
     "ia601400.us.archive.org"
   ]

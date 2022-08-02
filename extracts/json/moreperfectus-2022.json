@@ -1,5 +1,5 @@
 {
-  "created": 1659400726,
+  "created": 1659443080,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/7/items/moreperfectus-2022",
@@ -1587,31 +1587,83 @@
       "format": "JSON"
     },
     {
+      "name": "moreperfectus-2022-08-01T20:37:54.950179-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "moreperfectus-2022-08-01T20:37:54.950179-04:00.jpg",
+      "mtime": "1659401747",
+      "size": "11441",
+      "md5": "5dc07cd6693bcfa5329e678d833206d7",
+      "crc32": "935b9cf3",
+      "sha1": "df5a4b899dfcae898e69cddf7d86361d20d2f194"
+    },
+    {
+      "name": "moreperfectus-2022-08-02T08:23:36.808376-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659443021",
+      "size": "8460",
+      "md5": "ce29dbdb857f584eb4401cadcd5ffa71",
+      "crc32": "8c0f014f",
+      "sha1": "152888be68e41605de193978b1ae6977d0c209b4",
+      "format": "JSON"
+    },
+    {
+      "name": "moreperfectus-2022-08-02T08:23:36.808376-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659443023",
+      "size": "8563",
+      "md5": "4ed32bbdf8ad9bc0969ce96f6b4d7777",
+      "crc32": "9ca230b1",
+      "sha1": "7e22e4a18f94467ff0821011bbdb17c1c16a90f3",
+      "format": "JSON"
+    },
+    {
+      "name": "moreperfectus-2022-08-02T08:23:36.808376-04:00.jpg",
+      "source": "original",
+      "mtime": "1659443019",
+      "size": "298562",
+      "md5": "da1e36100a021ef23d19989a1f7cf85b",
+      "crc32": "5a78d7a5",
+      "sha1": "d6538d081d52611dd52f271dba395177a9222357",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "moreperfectus-2022-08-02T08:23:36.808376-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659443024",
+      "size": "1467",
+      "md5": "4ddb5b3ae021a4d0637ca55d2618e6e6",
+      "crc32": "28659561",
+      "sha1": "c5cb5b3200f45635fb788c5aee3b086d1d0acab3",
+      "format": "JSON"
+    },
+    {
       "name": "moreperfectus-2022_archive.torrent",
       "source": "metadata",
-      "btih": "594ecf793208e9d4906908728202bb56cf1d3f02",
-      "mtime": "1659400721",
-      "size": "34178",
-      "md5": "c6dc140a5fb06008c6d7c195dae47a75",
-      "crc32": "73759bf3",
-      "sha1": "a8a035c0aa7d0079a01663a07d2d9b211ceacddd",
+      "btih": "4ab00149f3ea7a5bb8cb4a1cb7ac088fdc585d91",
+      "mtime": "1659443068",
+      "size": "35241",
+      "md5": "1a2350d4b9f1e81361ad2769f8178a03",
+      "crc32": "6594fd12",
+      "sha1": "f0b21d88ef4b8adcceb07449220b2add9bd769b6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "moreperfectus-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "30c2acc89e50e5b625d94f9183113925",
+      "md5": "b820111a508c39a3d334e4f1cb8cd4b2",
       "summation": "md5"
     },
     {
       "name": "moreperfectus-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659400686",
-      "size": "208896",
-      "md5": "0b849d0f677a485b3d2d21c1575724f7",
-      "crc32": "df34bb63",
-      "sha1": "c51d4ed071a34e768b7ef1cfe9615bf5a4bb26b1",
+      "mtime": "1659443031",
+      "size": "217088",
+      "md5": "18320d4297fc795ac9346a44e1d9bd17",
+      "crc32": "a48b1a23",
+      "sha1": "03768cb62e88fe22c674682943b6ff57a1f337af",
       "format": "Metadata"
     },
     {
@@ -1625,9 +1677,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 156,
-  "item_last_updated": 1659400721,
-  "item_size": 10571714,
+  "files_count": 161,
+  "item_last_updated": 1659443068,
+  "item_size": 10909462,
   "metadata": {
     "identifier": "moreperfectus-2022",
     "collection": [
@@ -1649,7 +1701,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350048727,
+      "task_id": 3350487906,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1657,7 +1709,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 588633851,
+  "uniq": 1554444087,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]

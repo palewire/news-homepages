@@ -1,5 +1,5 @@
 {
-  "created": 1659400462,
+  "created": 1659442876,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/8/items/joplinglobe-2022",
@@ -1939,31 +1939,83 @@
       "format": "JSON"
     },
     {
+      "name": "joplinglobe-2022-08-01T19:33:36.709765-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "joplinglobe-2022-08-01T19:33:36.709765-05:00.jpg",
+      "mtime": "1659401452",
+      "size": "9592",
+      "md5": "92e5660b44365b3375350a8865af5d74",
+      "crc32": "26176d17",
+      "sha1": "1af98c8f0eb1a406fb96743e5dc85705a0094b66"
+    },
+    {
+      "name": "joplinglobe-2022-08-02T07:20:06.854328-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659442811",
+      "size": "68801",
+      "md5": "a65e1963dbcc395406f9d542695e1860",
+      "crc32": "662f8157",
+      "sha1": "67b07e376a54ae4191fc0408d752138d8b45d8f5",
+      "format": "JSON"
+    },
+    {
+      "name": "joplinglobe-2022-08-02T07:20:06.854328-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659442813",
+      "size": "92620",
+      "md5": "08c814705ba76499615379534ff5dfb4",
+      "crc32": "a5fd80c3",
+      "sha1": "0359d99b364fdfbe72fcc942168224300c0b8dcb",
+      "format": "JSON"
+    },
+    {
+      "name": "joplinglobe-2022-08-02T07:20:06.854328-05:00.jpg",
+      "source": "original",
+      "mtime": "1659442809",
+      "size": "297675",
+      "md5": "ed1ca649dd66c0ed917a62d138ace24f",
+      "crc32": "fb99121a",
+      "sha1": "30f8d455fb243f962cff8c94d6c99f5a2986c9ae",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "joplinglobe-2022-08-02T07:20:06.854328-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659442816",
+      "size": "1504",
+      "md5": "ed0037c41686d3a66fcde677db7493df",
+      "crc32": "9999ea41",
+      "sha1": "f7d562668cfb747dc87d0499972a40c141a00513",
+      "format": "JSON"
+    },
+    {
       "name": "joplinglobe-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e899d82d7ff2247b47367e8f731f916f6f68836b",
-      "mtime": "1659400460",
-      "size": "40519",
-      "md5": "a9872b088e9973853721e84f75c369f9",
-      "crc32": "ba8a708a",
-      "sha1": "d3d23bb4d6fcae882b8e90b096c39f985755c122",
+      "btih": "e5541d972a8ba4fa9981075405906a03e23c76c6",
+      "mtime": "1659442863",
+      "size": "41593",
+      "md5": "b1954e4923165e976adc5c6c0f3047ae",
+      "crc32": "b1242303",
+      "sha1": "804519df948b8b655e4ba33f167671651a70c0e4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "joplinglobe-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fba6de178c71aeff5df79e0cb27b744b",
+      "md5": "372bd944fe0e155775932dd0651e2d49",
       "summation": "md5"
     },
     {
       "name": "joplinglobe-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659400424",
-      "size": "225280",
-      "md5": "38ae2383113961d52a52577d286b9610",
-      "crc32": "e394731f",
-      "sha1": "974abb9323315c340d96d03cd2826469deec5695",
+      "mtime": "1659442823",
+      "size": "229376",
+      "md5": "6c1a6e0784d3462a836f1ded4f1452ac",
+      "crc32": "40f40250",
+      "sha1": "f49e8f7256b5e315eadcc1568d14055b30b073ff",
       "format": "Metadata"
     },
     {
@@ -1977,9 +2029,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 187,
-  "item_last_updated": 1659400460,
-  "item_size": 20937577,
+  "files_count": 192,
+  "item_last_updated": 1659442863,
+  "item_size": 21412939,
   "metadata": {
     "identifier": "joplinglobe-2022",
     "collection": [
@@ -2001,7 +2053,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350045716,
+      "task_id": 3350485923,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2009,7 +2061,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2043748660,
+  "uniq": 1630189,
   "workable_servers": [
     "ia902500.us.archive.org"
   ]

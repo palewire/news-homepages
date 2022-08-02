@@ -1,5 +1,5 @@
 {
-  "created": 1659400995,
+  "created": 1659443340,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/21/items/postcrescent-2022",
@@ -8519,31 +8519,83 @@
       "format": "JSON"
     },
     {
+      "name": "postcrescent-2022-08-01T19:42:10.035986-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "postcrescent-2022-08-01T19:42:10.035986-05:00.jpg",
+      "mtime": "1659402216",
+      "size": "9510",
+      "md5": "4cb98a41a3e0b027ac389a8b7a9db28a",
+      "crc32": "379ecf9b",
+      "sha1": "f53298fcff79536e2bc2281156f3b2c389377c58"
+    },
+    {
+      "name": "postcrescent-2022-08-02T07:28:04.036097-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659443286",
+      "size": "11748",
+      "md5": "6aac642aa8b48c188d3ec0184cf7d16f",
+      "crc32": "4016db64",
+      "sha1": "540724fd9713e193b93128987f910f10234521b0",
+      "format": "JSON"
+    },
+    {
+      "name": "postcrescent-2022-08-02T07:28:04.036097-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659443288",
+      "size": "33805",
+      "md5": "1d84ee2ad1ac10ab832dbd0ad04e225c",
+      "crc32": "9d890a7e",
+      "sha1": "8f91ae71a480fded74954f6c5c339df904485010",
+      "format": "JSON"
+    },
+    {
+      "name": "postcrescent-2022-08-02T07:28:04.036097-05:00.jpg",
+      "source": "original",
+      "mtime": "1659443285",
+      "size": "281725",
+      "md5": "48a4cc9256f696c73b722dbe79fd5802",
+      "crc32": "3cbbed1c",
+      "sha1": "57e073ececb6c5a4f5d7bf78a7bcc43fa09c268e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "postcrescent-2022-08-02T07:28:04.036097-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659443290",
+      "size": "1504",
+      "md5": "c08d6a039d00ec81da3f54405075cc4e",
+      "crc32": "681e8649",
+      "sha1": "8cc0ec83456da830a9700e3f7dbd6b005e75cecf",
+      "format": "JSON"
+    },
+    {
       "name": "postcrescent-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4675c9569342bd524224f66758d4a830e676c907",
-      "mtime": "1659400989",
-      "size": "175380",
-      "md5": "fea95532847d2e733b042264792ceb7d",
-      "crc32": "0e04ac27",
-      "sha1": "e1bfec84a2d277f4e9ca98762cb3554e77e8cb6f",
+      "btih": "3a7c38c4a9e6ba6ebc0233835869d03fc67dbde6",
+      "mtime": "1659443337",
+      "size": "176459",
+      "md5": "f7dec81fbff78b67f2f379ce16300bae",
+      "crc32": "cd11c8c2",
+      "sha1": "aaac5a6f17f0e1fab67d6ec18c74e4e7b96010a7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "postcrescent-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fe2f4f3005f68b9363db8597748400ef",
+      "md5": "c1540ca87b5e459d70adf996c8839fbc",
       "summation": "md5"
     },
     {
       "name": "postcrescent-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659400947",
-      "size": "950272",
-      "md5": "7e5fbd77cb0ed18679d6154c47126060",
-      "crc32": "1afd78e2",
-      "sha1": "91e44d63de39be5c9a18d6711e1f3438096b245d",
+      "mtime": "1659443296",
+      "size": "958464",
+      "md5": "f0d5f2b42408f921e3f80ce283bbee1e",
+      "crc32": "10e90b45",
+      "sha1": "353ea18b33c37e5686a27a22b5e6070545e75fab",
       "format": "Metadata"
     },
     {
@@ -8557,9 +8609,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 815,
-  "item_last_updated": 1659400989,
-  "item_size": 68519281,
+  "files_count": 820,
+  "item_last_updated": 1659443337,
+  "item_size": 68866844,
   "metadata": {
     "identifier": "postcrescent-2022",
     "collection": [
@@ -8581,7 +8633,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350051519,
+      "task_id": 3350490473,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -8589,7 +8641,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1633639033,
+  "uniq": 1994127960,
   "workable_servers": [
     "ia902505.us.archive.org"
   ]
