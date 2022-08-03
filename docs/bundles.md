@@ -3,7 +3,7 @@
 
 # Bundle directory
 
-The archiving routine is currently organized into 50 bundles of sites.
+The archiving routine is currently organized into 51 bundles of sites.
 
 | Bundle  | RSS |
 | :-----  | :-- |
@@ -24,6 +24,7 @@ The archiving routine is currently organized into 50 bundles of sites.
 |[Iowa](https://palewi.re/docs/news-homepages/bundles/iowa.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/iowa.xml)|
 |[Ireland](https://palewi.re/docs/news-homepages/bundles/ireland.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/ireland.xml)|
 |[Japan](https://palewi.re/docs/news-homepages/bundles/japan.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/japan.xml)|
+|[Kansas](https://palewi.re/docs/news-homepages/bundles/kansas.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/kansas.xml)|
 |[Kentucky](https://palewi.re/docs/news-homepages/bundles/kentucky.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/kentucky.xml)|
 |[Las Vegas](https://palewi.re/docs/news-homepages/bundles/las-vegas.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/las-vegas.xml)|
 |[Maryland](https://palewi.re/docs/news-homepages/bundles/maryland.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/maryland.xml)|

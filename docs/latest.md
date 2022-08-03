@@ -3,7 +3,7 @@
 
 # Latest screenshots
 
-The most recent homepages captured from 719 news sites.
+The most recent homepages captured from 723 news sites.
 
 <div class="latest-parent">
 
@@ -2951,6 +2951,15 @@ The most recent homepages captured from 719 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/kakenews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kakenews.jpg"
+     alt="KAKE News"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/kakenews.html">KAKE News</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/kcdefender.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kcdefender.jpg"
      alt="Kansas City Defender"
@@ -3137,6 +3146,15 @@ The most recent homepages captured from 719 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/kqed.html">KQED</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/ksnnews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ksnnews.jpg"
+     alt="KSN News"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/ksnnews.html">KSN News</a></p>
 </div>
 
 <div class="latest-child">
@@ -3344,6 +3362,15 @@ The most recent homepages captured from 719 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/lasvegassun.html">Las Vegas Sun</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/ljworld.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ljworld.jpg"
+     alt="Lawrence Journal-World"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/ljworld.html">Lawrence Journal-World</a></p>
 </div>
 
 <div class="latest-child">
@@ -6251,6 +6278,15 @@ The most recent homepages captured from 719 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/whyynews.html">WHYY</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/kansasdotcom.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kansasdotcom.jpg"
+     alt="Wichita Eagle"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/kansasdotcom.html">Wichita Eagle</a></p>
 </div>
 
 <div class="latest-child">
