@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 83 screenshots with the Internet Archive.
+The archiving routine has saved 84 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 83 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-08-02T10:55:22.572913-04:00.jpg">
+  <img src="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-08-02T10:55:22.572913-04:00.jpg"
+     alt="La Journal de Montréal at 2022-08-02 10:55:24-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-08-02T10:55:22.572913-04:00.jpg">August 2 at 10:55 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-08-01T23:18:13.878886-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-27T10:31:50.919565-04:00.jpg">July 27 at 10:31 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-26T22:39:10.346820-04:00.jpg">
-  <img src="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-26T22:39:10.346820-04:00.jpg"
-     alt="La Journal de Montréal at 2022-07-26 22:39:12-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-26T22:39:10.346820-04:00.jpg">July 26 at 10:39 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 84 hyperlink lists with the Internet Archive.
+The archiving routine has saved 85 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 2 at 10:55 AM](https://archive.org/download/jdemontreal-2022/jdemontreal-2022-08-02T10:55:22.572913-04:00.hyperlinks.json) |
 | [August 1 at 11:18 PM](https://archive.org/download/jdemontreal-2022/jdemontreal-2022-08-01T23:18:13.878886-04:00.hyperlinks.json) |
 | [August 1 at 11:01 AM](https://archive.org/download/jdemontreal-2022/jdemontreal-2022-08-01T11:01:39.515633-04:00.hyperlinks.json) |
 | [July 31 at 10:37 PM](https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-31T22:37:48.362948-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 29 at 10:41 PM](https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-29T22:41:26.053050-04:00.hyperlinks.json) |
 | [July 29 at 10:40 AM](https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-29T10:40:09.802556-04:00.hyperlinks.json) |
 | [July 28 at 10:38 PM](https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-28T22:37:58.322385-04:00.hyperlinks.json) |
-| [July 28 at 11:42 AM](https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-28T11:42:30.841693-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 83 accessibility trees with the Internet Archive.
+The archiving routine has saved 84 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 2 at 10:55 AM](https://archive.org/download/jdemontreal-2022/jdemontreal-2022-08-02T10:55:22.572913-04:00.accessibility.json) |
 | [August 1 at 11:18 PM](https://archive.org/download/jdemontreal-2022/jdemontreal-2022-08-01T23:18:13.878886-04:00.accessibility.json) |
 | [August 1 at 11:01 AM](https://archive.org/download/jdemontreal-2022/jdemontreal-2022-08-01T11:01:39.515633-04:00.accessibility.json) |
 | [July 31 at 10:37 PM](https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-31T22:37:48.362948-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 29 at 10:41 PM](https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-29T22:41:26.053050-04:00.accessibility.json) |
 | [July 29 at 10:40 AM](https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-29T10:40:09.802556-04:00.accessibility.json) |
 | [July 28 at 10:38 PM](https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-28T22:37:58.322385-04:00.accessibility.json) |
-| [July 28 at 11:42 AM](https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-28T11:42:30.841693-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 19 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 20 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 2 at 10:55 AM](https://archive.org/download/jdemontreal-2022/jdemontreal-2022-08-02T10:55:22.572913-04:00.lighthouse.json) |
 | [August 1 at 11:18 PM](https://archive.org/download/jdemontreal-2022/jdemontreal-2022-08-01T23:18:13.878886-04:00.lighthouse.json) |
 | [August 1 at 11:01 AM](https://archive.org/download/jdemontreal-2022/jdemontreal-2022-08-01T11:01:39.515633-04:00.lighthouse.json) |
 | [July 31 at 10:37 PM](https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-31T22:37:48.362948-04:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 29 at 10:41 PM](https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-29T22:41:26.053050-04:00.lighthouse.json) |
 | [July 29 at 10:40 AM](https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-29T10:40:09.802556-04:00.lighthouse.json) |
 | [July 28 at 10:38 PM](https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-28T22:37:58.322385-04:00.lighthouse.json) |
-| [July 28 at 11:42 AM](https://archive.org/download/jdemontreal-2022/jdemontreal-2022-07-28T11:42:30.841693-04:00.lighthouse.json) |
 
 
 

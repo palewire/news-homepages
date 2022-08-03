@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 32 screenshots with the Internet Archive.
+The archiving routine has saved 33 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 32 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/deadline-2022/deadline-2022-08-02T16:22:57.505681-07:00.jpg">
+  <img src="https://archive.org/download/deadline-2022/deadline-2022-08-02T16:22:57.505681-07:00.jpg"
+     alt="Deadline at 2022-08-02 16:22:59-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/deadline-2022/deadline-2022-08-02T16:22:57.505681-07:00.jpg">August 2 at 4:22 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/deadline-2022/deadline-2022-08-02T05:14:57.035994-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/deadline-2022/deadline-2022-07-28T04:09:18.079470-07:00.jpg">July 28 at 4:09 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/deadline-2022/deadline-2022-07-27T16:05:06.424112-07:00.jpg">
-  <img src="https://archive.org/download/deadline-2022/deadline-2022-07-27T16:05:06.424112-07:00.jpg"
-     alt="Deadline at 2022-07-27 16:05:08-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/deadline-2022/deadline-2022-07-27T16:05:06.424112-07:00.jpg">July 27 at 4:05 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 29 hyperlink lists with the Internet Archive.
+The archiving routine has saved 30 hyperlink lists with the Internet Archive.
 
 
 
@@ -231,6 +231,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 2 at 4:23 PM](https://archive.org/download/deadline-2022/deadline-2022-08-02T16:22:57.505681-07:00.hyperlinks.json) |
 | [August 2 at 5:15 AM](https://archive.org/download/deadline-2022/deadline-2022-08-02T05:14:57.035994-07:00.hyperlinks.json) |
 | [August 1 at 4:18 PM](https://archive.org/download/deadline-2022/deadline-2022-08-01T16:17:53.482169-07:00.hyperlinks.json) |
 | [August 1 at 4:15 AM](https://archive.org/download/deadline-2022/deadline-2022-08-01T04:15:01.006030-07:00.hyperlinks.json) |
@@ -240,12 +241,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 29 at 5:04 PM](https://archive.org/download/deadline-2022/deadline-2022-07-29T17:04:46.857269-07:00.hyperlinks.json) |
 | [July 29 at 4:10 AM](https://archive.org/download/deadline-2022/deadline-2022-07-29T04:10:52.887930-07:00.hyperlinks.json) |
 | [July 28 at 4:11 PM](https://archive.org/download/deadline-2022/deadline-2022-07-28T16:11:32.011014-07:00.hyperlinks.json) |
-| [July 27 at 4:05 PM](https://archive.org/download/deadline-2022/deadline-2022-07-27T16:05:06.424112-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 32 accessibility trees with the Internet Archive.
+The archiving routine has saved 33 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -336,6 +336,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 2 at 4:23 PM](https://archive.org/download/deadline-2022/deadline-2022-08-02T16:22:57.505681-07:00.accessibility.json) |
 | [August 2 at 5:15 AM](https://archive.org/download/deadline-2022/deadline-2022-08-02T05:14:57.035994-07:00.accessibility.json) |
 | [August 1 at 4:17 PM](https://archive.org/download/deadline-2022/deadline-2022-08-01T16:17:53.482169-07:00.accessibility.json) |
 | [August 1 at 4:15 AM](https://archive.org/download/deadline-2022/deadline-2022-08-01T04:15:01.006030-07:00.accessibility.json) |
@@ -345,13 +346,12 @@ Here are the 10 most recent accessibility trees.
 | [July 30 at 4:15 AM](https://archive.org/download/deadline-2022/deadline-2022-07-30T04:14:58.612853-07:00.accessibility.json) |
 | [July 29 at 5:04 PM](https://archive.org/download/deadline-2022/deadline-2022-07-29T17:04:46.857269-07:00.accessibility.json) |
 | [July 29 at 4:10 AM](https://archive.org/download/deadline-2022/deadline-2022-07-29T04:10:52.887930-07:00.accessibility.json) |
-| [July 28 at 4:11 PM](https://archive.org/download/deadline-2022/deadline-2022-07-28T16:11:32.011014-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 20 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 21 Lighthouse audits with the Internet Archive.
 
 
 
@@ -359,6 +359,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 2 at 4:23 PM](https://archive.org/download/deadline-2022/deadline-2022-08-02T16:22:57.505681-07:00.lighthouse.json) |
 | [August 2 at 5:15 AM](https://archive.org/download/deadline-2022/deadline-2022-08-02T05:14:57.035994-07:00.lighthouse.json) |
 | [August 1 at 4:18 PM](https://archive.org/download/deadline-2022/deadline-2022-08-01T16:17:53.482169-07:00.lighthouse.json) |
 | [August 1 at 4:15 AM](https://archive.org/download/deadline-2022/deadline-2022-08-01T04:15:01.006030-07:00.lighthouse.json) |
@@ -368,7 +369,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 30 at 4:15 AM](https://archive.org/download/deadline-2022/deadline-2022-07-30T04:14:58.612853-07:00.lighthouse.json) |
 | [July 29 at 5:05 PM](https://archive.org/download/deadline-2022/deadline-2022-07-29T17:04:46.857269-07:00.lighthouse.json) |
 | [July 29 at 4:10 AM](https://archive.org/download/deadline-2022/deadline-2022-07-29T04:10:52.887930-07:00.lighthouse.json) |
-| [July 28 at 4:11 PM](https://archive.org/download/deadline-2022/deadline-2022-07-28T16:11:32.011014-07:00.lighthouse.json) |
 
 
 

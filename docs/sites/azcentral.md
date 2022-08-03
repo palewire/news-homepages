@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 60 screenshots with the Internet Archive.
+The archiving routine has saved 61 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 60 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/azcentral-2022/azcentral-2022-08-02T06:39:03.298709-07:00.jpg">
+  <img src="https://archive.org/download/azcentral-2022/azcentral-2022-08-02T06:39:03.298709-07:00.jpg"
+     alt="Arizona Republic at 2022-08-02 06:39:06-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-08-02T06:39:03.298709-07:00.jpg">August 2 at 6:39 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/azcentral-2022/azcentral-2022-08-01T18:54:42.864994-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-27T18:25:29.377441-07:00.jpg">July 27 at 6:25 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-27T06:17:09.975176-07:00.jpg">
-  <img src="https://archive.org/download/azcentral-2022/azcentral-2022-07-27T06:17:09.975176-07:00.jpg"
-     alt="Arizona Republic at 2022-07-27 06:17:13-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-07-27T06:17:09.975176-07:00.jpg">July 27 at 6:17 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 59 hyperlink lists with the Internet Archive.
+The archiving routine has saved 60 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 2 at 6:39 AM](https://archive.org/download/azcentral-2022/azcentral-2022-08-02T06:39:03.298709-07:00.hyperlinks.json) |
 | [August 1 at 6:54 PM](https://archive.org/download/azcentral-2022/azcentral-2022-08-01T18:54:42.864994-07:00.hyperlinks.json) |
 | [August 1 at 7:43 AM](https://archive.org/download/azcentral-2022/azcentral-2022-08-01T07:43:31.225881-07:00.hyperlinks.json) |
 | [July 31 at 6:23 PM](https://archive.org/download/azcentral-2022/azcentral-2022-07-31T18:23:08.403781-07:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 29 at 6:17 PM](https://archive.org/download/azcentral-2022/azcentral-2022-07-29T18:17:47.208828-07:00.hyperlinks.json) |
 | [July 29 at 6:30 AM](https://archive.org/download/azcentral-2022/azcentral-2022-07-29T06:30:10.126848-07:00.hyperlinks.json) |
 | [July 28 at 6:22 PM](https://archive.org/download/azcentral-2022/azcentral-2022-07-28T18:22:01.398225-07:00.hyperlinks.json) |
-| [July 28 at 6:20 AM](https://archive.org/download/azcentral-2022/azcentral-2022-07-28T06:20:30.186941-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 59 accessibility trees with the Internet Archive.
+The archiving routine has saved 60 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 2 at 6:39 AM](https://archive.org/download/azcentral-2022/azcentral-2022-08-02T06:39:03.298709-07:00.accessibility.json) |
 | [August 1 at 6:54 PM](https://archive.org/download/azcentral-2022/azcentral-2022-08-01T18:54:42.864994-07:00.accessibility.json) |
 | [August 1 at 7:43 AM](https://archive.org/download/azcentral-2022/azcentral-2022-08-01T07:43:31.225881-07:00.accessibility.json) |
 | [July 31 at 6:23 PM](https://archive.org/download/azcentral-2022/azcentral-2022-07-31T18:23:08.403781-07:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 29 at 6:17 PM](https://archive.org/download/azcentral-2022/azcentral-2022-07-29T18:17:47.208828-07:00.accessibility.json) |
 | [July 29 at 6:30 AM](https://archive.org/download/azcentral-2022/azcentral-2022-07-29T06:30:10.126848-07:00.accessibility.json) |
 | [July 28 at 6:22 PM](https://archive.org/download/azcentral-2022/azcentral-2022-07-28T18:22:01.398225-07:00.accessibility.json) |
-| [July 28 at 6:20 AM](https://archive.org/download/azcentral-2022/azcentral-2022-07-28T06:20:30.186941-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 20 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 21 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 2 at 6:39 AM](https://archive.org/download/azcentral-2022/azcentral-2022-08-02T06:39:03.298709-07:00.lighthouse.json) |
 | [August 1 at 6:54 PM](https://archive.org/download/azcentral-2022/azcentral-2022-08-01T18:54:42.864994-07:00.lighthouse.json) |
 | [August 1 at 7:43 AM](https://archive.org/download/azcentral-2022/azcentral-2022-08-01T07:43:31.225881-07:00.lighthouse.json) |
 | [July 31 at 6:23 PM](https://archive.org/download/azcentral-2022/azcentral-2022-07-31T18:23:08.403781-07:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 29 at 6:17 PM](https://archive.org/download/azcentral-2022/azcentral-2022-07-29T18:17:47.208828-07:00.lighthouse.json) |
 | [July 29 at 6:30 AM](https://archive.org/download/azcentral-2022/azcentral-2022-07-29T06:30:10.126848-07:00.lighthouse.json) |
 | [July 28 at 6:22 PM](https://archive.org/download/azcentral-2022/azcentral-2022-07-28T18:22:01.398225-07:00.lighthouse.json) |
-| [July 28 at 6:20 AM](https://archive.org/download/azcentral-2022/azcentral-2022-07-28T06:20:30.186941-07:00.lighthouse.json) |
 
 
 

@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 28 screenshots with the Internet Archive.
+The archiving routine has saved 29 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-02T07:37:31.915072-06:00.jpg">
+  <img src="https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-02T07:37:31.915072-06:00.jpg"
+     alt="Albuquerque Business First at 2022-08-02 07:37:33-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-02T07:37:31.915072-06:00.jpg">August 2 at 7:37 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-01T19:52:35.925347-06:00.jpg">
@@ -127,27 +136,102 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-07-27T19:25:45.923560-06:00.jpg">July 27 at 7:25 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-07-27T07:17:33.975926-06:00.jpg">
-  <img src="https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-07-27T07:17:33.975926-06:00.jpg"
-     alt="Albuquerque Business First at 2022-07-27 07:17:34-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-07-27T07:17:33.975926-06:00.jpg">July 27 at 7:17 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 30 hyperlink lists with the Internet Archive.
+The archiving routine has saved 31 hyperlink lists with the Internet Archive.
 
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specHyperlinks = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/abqbizfirst.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 2 at 7:37 AM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-02T07:37:31.915072-06:00.hyperlinks.json) |
 | [August 1 at 7:52 PM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-01T19:52:35.925347-06:00.hyperlinks.json) |
 | [August 1 at 8:42 AM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-01T08:42:51.066077-06:00.hyperlinks.json) |
 | [July 31 at 7:23 PM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-07-31T19:23:20.781700-06:00.hyperlinks.json) |
@@ -157,19 +241,102 @@ Here are the 10 most recent hyperlink lists.
 | [July 29 at 7:17 PM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-07-29T19:17:31.643145-06:00.hyperlinks.json) |
 | [July 29 at 7:28 AM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-07-29T07:28:09.060429-06:00.hyperlinks.json) |
 | [July 28 at 7:21 PM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-07-28T19:21:44.511134-06:00.hyperlinks.json) |
-| [July 28 at 7:20 AM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-07-28T07:20:17.484985-06:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 30 accessibility trees with the Internet Archive.
+The archiving routine has saved 31 accessibility trees with the Internet Archive.
 
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/abqbizfirst.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 2 at 7:37 AM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-02T07:37:31.915072-06:00.accessibility.json) |
 | [August 1 at 7:52 PM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-01T19:52:35.925347-06:00.accessibility.json) |
 | [August 1 at 8:42 AM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-01T08:42:51.066077-06:00.accessibility.json) |
 | [July 31 at 7:23 PM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-07-31T19:23:20.781700-06:00.accessibility.json) |
@@ -179,13 +346,12 @@ Here are the 10 most recent accessibility trees.
 | [July 29 at 7:17 PM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-07-29T19:17:31.643145-06:00.accessibility.json) |
 | [July 29 at 7:28 AM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-07-29T07:28:09.060429-06:00.accessibility.json) |
 | [July 28 at 7:21 PM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-07-28T19:21:44.511134-06:00.accessibility.json) |
-| [July 28 at 7:20 AM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-07-28T07:20:17.484985-06:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 20 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 21 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +359,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 2 at 7:37 AM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-02T07:37:31.915072-06:00.lighthouse.json) |
 | [August 1 at 7:52 PM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-01T19:52:35.925347-06:00.lighthouse.json) |
 | [August 1 at 8:42 AM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-08-01T08:42:51.066077-06:00.lighthouse.json) |
 | [July 31 at 7:23 PM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-07-31T19:23:20.781700-06:00.lighthouse.json) |
@@ -202,7 +369,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 29 at 7:17 PM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-07-29T19:17:31.643145-06:00.lighthouse.json) |
 | [July 29 at 7:28 AM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-07-29T07:28:09.060429-06:00.lighthouse.json) |
 | [July 28 at 7:21 PM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-07-28T19:21:44.511134-06:00.lighthouse.json) |
-| [July 28 at 7:20 AM](https://archive.org/download/abqbizfirst-2022/abqbizfirst-2022-07-28T07:20:17.484985-06:00.lighthouse.json) |
 
 
 

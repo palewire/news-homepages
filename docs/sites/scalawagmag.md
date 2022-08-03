@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 19 screenshots with the Internet Archive.
+The archiving routine has saved 20 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-02T12:18:24.770543-04:00.jpg">
+  <img src="https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-02T12:18:24.770543-04:00.jpg"
+     alt="Scalawag at 2022-08-02 12:18:28-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-02T12:18:24.770543-04:00.jpg">August 2 at 12:18 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-02T00:25:32.014432-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-27T23:44:39.551944-04:00.jpg">July 27 at 11:44 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-27T11:45:39.595114-04:00.jpg">
-  <img src="https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-27T11:45:39.595114-04:00.jpg"
-     alt="Scalawag at 2022-07-27 11:45:46-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-27T11:45:39.595114-04:00.jpg">July 27 at 11:45 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 19 hyperlink lists with the Internet Archive.
+The archiving routine has saved 20 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 2 at 12:18 PM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-02T12:18:24.770543-04:00.hyperlinks.json) |
 | [August 2 at 12:25 AM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-02T00:25:32.014432-04:00.hyperlinks.json) |
 | [August 1 at 12:09 PM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-01T12:09:54.232994-04:00.hyperlinks.json) |
 | [July 31 at 11:58 PM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-31T23:57:58.858132-04:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 29 at 11:52 PM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-29T23:52:31.510753-04:00.hyperlinks.json) |
 | [July 29 at 11:54 AM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-29T11:54:09.300163-04:00.hyperlinks.json) |
 | [July 28 at 11:48 PM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-28T23:48:44.051693-04:00.hyperlinks.json) |
-| [July 28 at 11:52 AM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-28T11:52:23.007053-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 19 accessibility trees with the Internet Archive.
+The archiving routine has saved 20 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 2 at 12:18 PM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-02T12:18:24.770543-04:00.accessibility.json) |
 | [August 2 at 12:25 AM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-02T00:25:32.014432-04:00.accessibility.json) |
 | [August 1 at 12:09 PM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-01T12:09:54.232994-04:00.accessibility.json) |
 | [July 31 at 11:58 PM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-31T23:57:58.858132-04:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [July 29 at 11:52 PM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-29T23:52:31.510753-04:00.accessibility.json) |
 | [July 29 at 11:54 AM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-29T11:54:09.300163-04:00.accessibility.json) |
 | [July 28 at 11:48 PM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-28T23:48:44.051693-04:00.accessibility.json) |
-| [July 28 at 11:52 AM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-28T11:52:23.007053-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 19 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 20 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 2 at 12:18 PM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-02T12:18:24.770543-04:00.lighthouse.json) |
 | [August 2 at 12:25 AM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-02T00:25:32.014432-04:00.lighthouse.json) |
 | [August 1 at 12:10 PM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-01T12:09:54.232994-04:00.lighthouse.json) |
 | [July 31 at 11:58 PM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-31T23:57:58.858132-04:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 29 at 11:52 PM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-29T23:52:31.510753-04:00.lighthouse.json) |
 | [July 29 at 11:54 AM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-29T11:54:09.300163-04:00.lighthouse.json) |
 | [July 28 at 11:48 PM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-28T23:48:44.051693-04:00.lighthouse.json) |
-| [July 28 at 11:52 AM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-07-28T11:52:23.007053-04:00.lighthouse.json) |
 
 
 

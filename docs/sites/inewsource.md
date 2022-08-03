@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 72 screenshots with the Internet Archive.
+The archiving routine has saved 74 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/inewsource-2022/inewsource-2022-08-02T11:11:42.070514-07:00.jpg">
+  <img src="https://archive.org/download/inewsource-2022/inewsource-2022-08-02T11:11:42.070514-07:00.jpg"
+     alt="inewsource at 2022-08-02 11:11:43-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/inewsource-2022/inewsource-2022-08-02T11:11:42.070514-07:00.jpg">August 2 at 11:11 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/inewsource-2022/inewsource-2022-08-02T07:55:21.154892-07:00.jpg">
+  <img src="https://archive.org/download/inewsource-2022/inewsource-2022-08-02T07:55:21.154892-07:00.jpg"
+     alt="inewsource at 2022-08-02 07:55:29-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/inewsource-2022/inewsource-2022-08-02T07:55:21.154892-07:00.jpg">August 2 at 7:55 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/inewsource-2022/inewsource-2022-08-01T20:17:37.360379-07:00.jpg">
   <img src="https://archive.org/download/inewsource-2022/inewsource-2022-08-01T20:17:37.360379-07:00.jpg"
      alt="inewsource at 2022-08-01 20:17:41-07:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/inewsource-2022/inewsource-2022-07-29T19:41:16.196289-07:00.jpg">July 29 at 7:41 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/inewsource-2022/inewsource-2022-07-29T11:33:11.228848-07:00.jpg">
-  <img src="https://archive.org/download/inewsource-2022/inewsource-2022-07-29T11:33:11.228848-07:00.jpg"
-     alt="inewsource at 2022-07-29 11:33:16-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/inewsource-2022/inewsource-2022-07-29T11:33:11.228848-07:00.jpg">July 29 at 11:33 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/inewsource-2022/inewsource-2022-07-29T07:39:53.568653-07:00.jpg">
-  <img src="https://archive.org/download/inewsource-2022/inewsource-2022-07-29T07:39:53.568653-07:00.jpg"
-     alt="inewsource at 2022-07-29 07:39:56-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/inewsource-2022/inewsource-2022-07-29T07:39:53.568653-07:00.jpg">July 29 at 7:39 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 72 hyperlink lists with the Internet Archive.
+The archiving routine has saved 74 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 2 at 11:11 AM](https://archive.org/download/inewsource-2022/inewsource-2022-08-02T11:11:42.070514-07:00.hyperlinks.json) |
+| [August 2 at 7:55 AM](https://archive.org/download/inewsource-2022/inewsource-2022-08-02T07:55:21.154892-07:00.hyperlinks.json) |
 | [August 1 at 8:17 PM](https://archive.org/download/inewsource-2022/inewsource-2022-08-01T20:17:37.360379-07:00.hyperlinks.json) |
 | [August 1 at 11:25 AM](https://archive.org/download/inewsource-2022/inewsource-2022-08-01T11:25:09.912129-07:00.hyperlinks.json) |
 | [August 1 at 8:00 AM](https://archive.org/download/inewsource-2022/inewsource-2022-08-01T08:00:24.010207-07:00.hyperlinks.json) |
@@ -322,13 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 31 at 7:38 AM](https://archive.org/download/inewsource-2022/inewsource-2022-07-31T07:38:08.320013-07:00.hyperlinks.json) |
 | [July 30 at 7:58 PM](https://archive.org/download/inewsource-2022/inewsource-2022-07-30T19:58:00.975489-07:00.hyperlinks.json) |
 | [July 30 at 11:38 AM](https://archive.org/download/inewsource-2022/inewsource-2022-07-30T11:37:42.929376-07:00.hyperlinks.json) |
-| [July 30 at 8:41 AM](https://archive.org/download/inewsource-2022/inewsource-2022-07-30T08:41:00.299023-07:00.hyperlinks.json) |
-| [July 29 at 7:41 PM](https://archive.org/download/inewsource-2022/inewsource-2022-07-29T19:41:16.196289-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 72 accessibility trees with the Internet Archive.
+The archiving routine has saved 74 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 2 at 11:11 AM](https://archive.org/download/inewsource-2022/inewsource-2022-08-02T11:11:42.070514-07:00.accessibility.json) |
+| [August 2 at 7:55 AM](https://archive.org/download/inewsource-2022/inewsource-2022-08-02T07:55:21.154892-07:00.accessibility.json) |
 | [August 1 at 8:17 PM](https://archive.org/download/inewsource-2022/inewsource-2022-08-01T20:17:37.360379-07:00.accessibility.json) |
 | [August 1 at 11:25 AM](https://archive.org/download/inewsource-2022/inewsource-2022-08-01T11:25:09.912129-07:00.accessibility.json) |
 | [August 1 at 8:00 AM](https://archive.org/download/inewsource-2022/inewsource-2022-08-01T08:00:24.010207-07:00.accessibility.json) |
@@ -427,14 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 31 at 7:38 AM](https://archive.org/download/inewsource-2022/inewsource-2022-07-31T07:38:08.320013-07:00.accessibility.json) |
 | [July 30 at 7:58 PM](https://archive.org/download/inewsource-2022/inewsource-2022-07-30T19:58:00.975489-07:00.accessibility.json) |
 | [July 30 at 11:38 AM](https://archive.org/download/inewsource-2022/inewsource-2022-07-30T11:37:42.929376-07:00.accessibility.json) |
-| [July 30 at 8:41 AM](https://archive.org/download/inewsource-2022/inewsource-2022-07-30T08:41:00.299023-07:00.accessibility.json) |
-| [July 29 at 7:41 PM](https://archive.org/download/inewsource-2022/inewsource-2022-07-29T19:41:16.196289-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 28 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 2 at 11:11 AM](https://archive.org/download/inewsource-2022/inewsource-2022-08-02T11:11:42.070514-07:00.lighthouse.json) |
+| [August 2 at 7:55 AM](https://archive.org/download/inewsource-2022/inewsource-2022-08-02T07:55:21.154892-07:00.lighthouse.json) |
 | [August 1 at 8:17 PM](https://archive.org/download/inewsource-2022/inewsource-2022-08-01T20:17:37.360379-07:00.lighthouse.json) |
 | [August 1 at 11:25 AM](https://archive.org/download/inewsource-2022/inewsource-2022-08-01T11:25:09.912129-07:00.lighthouse.json) |
 | [August 1 at 8:00 AM](https://archive.org/download/inewsource-2022/inewsource-2022-08-01T08:00:24.010207-07:00.lighthouse.json) |
@@ -450,8 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 31 at 7:38 AM](https://archive.org/download/inewsource-2022/inewsource-2022-07-31T07:38:08.320013-07:00.lighthouse.json) |
 | [July 30 at 7:58 PM](https://archive.org/download/inewsource-2022/inewsource-2022-07-30T19:58:00.975489-07:00.lighthouse.json) |
 | [July 30 at 11:38 AM](https://archive.org/download/inewsource-2022/inewsource-2022-07-30T11:37:42.929376-07:00.lighthouse.json) |
-| [July 30 at 8:41 AM](https://archive.org/download/inewsource-2022/inewsource-2022-07-30T08:41:00.299023-07:00.lighthouse.json) |
-| [July 29 at 7:41 PM](https://archive.org/download/inewsource-2022/inewsource-2022-07-29T19:41:16.196289-07:00.lighthouse.json) |
 
 
 

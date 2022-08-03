@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 28 screenshots with the Internet Archive.
+The archiving routine has saved 29 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dagsavisen-2022/dagsavisen-2022-08-03T01:22:34.331931+02:00.jpg">
+  <img src="https://archive.org/download/dagsavisen-2022/dagsavisen-2022-08-03T01:22:34.331931+02:00.jpg"
+     alt="Dagsavisen at 2022-08-03 01:22:36+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dagsavisen-2022/dagsavisen-2022-08-03T01:22:34.331931+02:00.jpg">August 3 at 1:22 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dagsavisen-2022/dagsavisen-2022-08-02T14:14:31.404700+02:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dagsavisen-2022/dagsavisen-2022-07-28T13:09:08.346193+02:00.jpg">July 28 at 1:09 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dagsavisen-2022/dagsavisen-2022-07-28T01:05:19.443933+02:00.jpg">
-  <img src="https://archive.org/download/dagsavisen-2022/dagsavisen-2022-07-28T01:05:19.443933+02:00.jpg"
-     alt="Dagsavisen at 2022-07-28 01:05:21+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dagsavisen-2022/dagsavisen-2022-07-28T01:05:19.443933+02:00.jpg">July 28 at 1:05 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 28 hyperlink lists with the Internet Archive.
+The archiving routine has saved 29 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 3 at 1:22 AM](https://archive.org/download/dagsavisen-2022/dagsavisen-2022-08-03T01:22:34.331931+02:00.hyperlinks.json) |
 | [August 2 at 2:14 PM](https://archive.org/download/dagsavisen-2022/dagsavisen-2022-08-02T14:14:31.404700+02:00.hyperlinks.json) |
 | [August 2 at 1:17 AM](https://archive.org/download/dagsavisen-2022/dagsavisen-2022-08-02T01:17:26.347380+02:00.hyperlinks.json) |
 | [August 1 at 1:14 PM](https://archive.org/download/dagsavisen-2022/dagsavisen-2022-08-01T13:14:34.681457+02:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 30 at 1:13 PM](https://archive.org/download/dagsavisen-2022/dagsavisen-2022-07-30T13:13:15.453479+02:00.hyperlinks.json) |
 | [July 30 at 2:04 AM](https://archive.org/download/dagsavisen-2022/dagsavisen-2022-07-30T02:04:37.515657+02:00.hyperlinks.json) |
 | [July 29 at 1:08 PM](https://archive.org/download/dagsavisen-2022/dagsavisen-2022-07-29T13:07:56.283000+02:00.hyperlinks.json) |
-| [July 29 at 1:11 AM](https://archive.org/download/dagsavisen-2022/dagsavisen-2022-07-29T01:11:16.705928+02:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 28 accessibility trees with the Internet Archive.
+The archiving routine has saved 29 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 3 at 1:22 AM](https://archive.org/download/dagsavisen-2022/dagsavisen-2022-08-03T01:22:34.331931+02:00.accessibility.json) |
 | [August 2 at 2:14 PM](https://archive.org/download/dagsavisen-2022/dagsavisen-2022-08-02T14:14:31.404700+02:00.accessibility.json) |
 | [August 2 at 1:17 AM](https://archive.org/download/dagsavisen-2022/dagsavisen-2022-08-02T01:17:26.347380+02:00.accessibility.json) |
 | [August 1 at 1:14 PM](https://archive.org/download/dagsavisen-2022/dagsavisen-2022-08-01T13:14:34.681457+02:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [July 30 at 1:13 PM](https://archive.org/download/dagsavisen-2022/dagsavisen-2022-07-30T13:13:15.453479+02:00.accessibility.json) |
 | [July 30 at 2:04 AM](https://archive.org/download/dagsavisen-2022/dagsavisen-2022-07-30T02:04:37.515657+02:00.accessibility.json) |
 | [July 29 at 1:08 PM](https://archive.org/download/dagsavisen-2022/dagsavisen-2022-07-29T13:07:56.283000+02:00.accessibility.json) |
-| [July 29 at 1:11 AM](https://archive.org/download/dagsavisen-2022/dagsavisen-2022-07-29T01:11:16.705928+02:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 20 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 21 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 3 at 1:22 AM](https://archive.org/download/dagsavisen-2022/dagsavisen-2022-08-03T01:22:34.331931+02:00.lighthouse.json) |
 | [August 2 at 2:14 PM](https://archive.org/download/dagsavisen-2022/dagsavisen-2022-08-02T14:14:31.404700+02:00.lighthouse.json) |
 | [August 2 at 1:17 AM](https://archive.org/download/dagsavisen-2022/dagsavisen-2022-08-02T01:17:26.347380+02:00.lighthouse.json) |
 | [August 1 at 1:14 PM](https://archive.org/download/dagsavisen-2022/dagsavisen-2022-08-01T13:14:34.681457+02:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 30 at 1:13 PM](https://archive.org/download/dagsavisen-2022/dagsavisen-2022-07-30T13:13:15.453479+02:00.lighthouse.json) |
 | [July 30 at 2:04 AM](https://archive.org/download/dagsavisen-2022/dagsavisen-2022-07-30T02:04:37.515657+02:00.lighthouse.json) |
 | [July 29 at 1:08 PM](https://archive.org/download/dagsavisen-2022/dagsavisen-2022-07-29T13:07:56.283000+02:00.lighthouse.json) |
-| [July 29 at 1:11 AM](https://archive.org/download/dagsavisen-2022/dagsavisen-2022-07-29T01:11:16.705928+02:00.lighthouse.json) |
 
 
 

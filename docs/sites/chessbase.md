@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 28 screenshots with the Internet Archive.
+The archiving routine has saved 29 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/chessbase-2022/chessbase-2022-08-03T01:21:13.416437+02:00.jpg">
+  <img src="https://archive.org/download/chessbase-2022/chessbase-2022-08-03T01:21:13.416437+02:00.jpg"
+     alt="ChessBase at 2022-08-03 01:21:14+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chessbase-2022/chessbase-2022-08-03T01:21:13.416437+02:00.jpg">August 3 at 1:21 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chessbase-2022/chessbase-2022-08-02T14:13:30.617325+02:00.jpg">
@@ -127,15 +136,6 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/chessbase-2022/chessbase-2022-07-28T13:08:22.979518+02:00.jpg">July 28 at 1:08 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/chessbase-2022/chessbase-2022-07-28T01:04:00.724617+02:00.jpg">
-  <img src="https://archive.org/download/chessbase-2022/chessbase-2022-07-28T01:04:00.724617+02:00.jpg"
-     alt="ChessBase at 2022-07-28 01:04:01+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/chessbase-2022/chessbase-2022-07-28T01:04:00.724617+02:00.jpg">July 28 at 1:04 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
@@ -162,7 +162,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 28 accessibility trees with the Internet Archive.
+The archiving routine has saved 29 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 3 at 1:21 AM](https://archive.org/download/chessbase-2022/chessbase-2022-08-03T01:21:13.416437+02:00.accessibility.json) |
 | [August 2 at 2:13 PM](https://archive.org/download/chessbase-2022/chessbase-2022-08-02T14:13:30.617325+02:00.accessibility.json) |
 | [August 2 at 1:16 AM](https://archive.org/download/chessbase-2022/chessbase-2022-08-02T01:16:32.850107+02:00.accessibility.json) |
 | [August 1 at 1:13 PM](https://archive.org/download/chessbase-2022/chessbase-2022-08-01T13:13:08.363936+02:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [July 30 at 1:13 PM](https://archive.org/download/chessbase-2022/chessbase-2022-07-30T13:13:13.576536+02:00.accessibility.json) |
 | [July 30 at 2:03 AM](https://archive.org/download/chessbase-2022/chessbase-2022-07-30T02:03:32.316800+02:00.accessibility.json) |
 | [July 29 at 1:06 PM](https://archive.org/download/chessbase-2022/chessbase-2022-07-29T13:06:23.823678+02:00.accessibility.json) |
-| [July 29 at 1:09 AM](https://archive.org/download/chessbase-2022/chessbase-2022-07-29T01:09:46.630150+02:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 20 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 21 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 3 at 1:21 AM](https://archive.org/download/chessbase-2022/chessbase-2022-08-03T01:21:13.416437+02:00.lighthouse.json) |
 | [August 2 at 2:13 PM](https://archive.org/download/chessbase-2022/chessbase-2022-08-02T14:13:30.617325+02:00.lighthouse.json) |
 | [August 2 at 1:16 AM](https://archive.org/download/chessbase-2022/chessbase-2022-08-02T01:16:32.850107+02:00.lighthouse.json) |
 | [August 1 at 1:13 PM](https://archive.org/download/chessbase-2022/chessbase-2022-08-01T13:13:08.363936+02:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 30 at 1:13 PM](https://archive.org/download/chessbase-2022/chessbase-2022-07-30T13:13:13.576536+02:00.lighthouse.json) |
 | [July 30 at 2:03 AM](https://archive.org/download/chessbase-2022/chessbase-2022-07-30T02:03:32.316800+02:00.lighthouse.json) |
 | [July 29 at 1:06 PM](https://archive.org/download/chessbase-2022/chessbase-2022-07-29T13:06:23.823678+02:00.lighthouse.json) |
-| [July 29 at 1:09 AM](https://archive.org/download/chessbase-2022/chessbase-2022-07-29T01:09:46.630150+02:00.lighthouse.json) |
 
 
 
