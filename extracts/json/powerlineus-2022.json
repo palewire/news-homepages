@@ -1,5 +1,5 @@
 {
-  "created": 1659487370,
+  "created": 1659509790,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/9/items/powerlineus-2022",
@@ -2312,31 +2312,83 @@
       "sha1": "68fdbc2dc2745cd2fd5fc8566055d657a3de8ed9"
     },
     {
+      "name": "powerlineus-2022-08-03T00:40:35.746858-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659501643",
+      "size": "102910",
+      "md5": "9f16a7ee1998db537ed147541657fd9d",
+      "crc32": "b3b9ad69",
+      "sha1": "44e80910e7400628740131505dd75b7c479aed62",
+      "format": "JSON"
+    },
+    {
+      "name": "powerlineus-2022-08-03T00:40:35.746858-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659501645",
+      "size": "20184",
+      "md5": "2703c4d3329256be34680964869cb1fe",
+      "crc32": "c11d5b5e",
+      "sha1": "56905c4eb7f0c32661cac7c99674ca65738e686b",
+      "format": "JSON"
+    },
+    {
+      "name": "powerlineus-2022-08-03T00:40:35.746858-04:00.jpg",
+      "source": "original",
+      "mtime": "1659501642",
+      "size": "268735",
+      "md5": "f313811384e4314eda63a5f810250fbe",
+      "crc32": "ec26c98c",
+      "sha1": "d99983b25d074498c6e38108e52869ea24ff0599",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "powerlineus-2022-08-03T00:40:35.746858-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659501646",
+      "size": "1515",
+      "md5": "cf0a6f12165c9ae462b12797ba1dbbf4",
+      "crc32": "9c1fd890",
+      "sha1": "f92b411cdf8080ef65e0601905f40bd4f40a29b3",
+      "format": "JSON"
+    },
+    {
+      "name": "powerlineus-2022-08-03T00:40:35.746858-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "powerlineus-2022-08-03T00:40:35.746858-04:00.jpg",
+      "mtime": "1659509758",
+      "size": "7836",
+      "md5": "a1ef9d309b8dbbe85ab7e6206ffb3113",
+      "crc32": "cbc9cac4",
+      "sha1": "d4133cc9d6208e1a3cf2ac2a963dff1bc64ea28c"
+    },
+    {
       "name": "powerlineus-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4662d8f81761ed5d348be1d5400cab65369a4528",
-      "mtime": "1659482527",
-      "size": "48671",
-      "md5": "709a35b791df78994ba84ad3bdf91cbe",
-      "crc32": "d8530225",
-      "sha1": "0da7e1c2bb93aec0e51da7150ddb4a6cafa43e21",
+      "btih": "9842ba6ba1eeca15653909201cae4c1fc10ba6c1",
+      "mtime": "1659509770",
+      "size": "49746",
+      "md5": "97e74bfe4db509ed0b3b334bf9d7df2e",
+      "crc32": "b641a219",
+      "sha1": "f5e53e28ef98d6f30a5f69d754ab7f9f4ae923f7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "powerlineus-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fede4d973573da6e09a394e8fbb5e2df",
+      "md5": "06376dd496642e426a4fc9ecd7f66fbd",
       "summation": "md5"
     },
     {
       "name": "powerlineus-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659465464",
-      "size": "286720",
-      "md5": "ad09846ad823ae0defac8482a7054991",
-      "crc32": "1345cf07",
-      "sha1": "2ae20a620c209733bf2b4e87ccc33f6c7c32de8e",
+      "mtime": "1659501652",
+      "size": "290816",
+      "md5": "3bbc98a7764614a7806e5789a368f0c8",
+      "crc32": "95efef20",
+      "sha1": "2ebddde2ed40a95118d25a85f73360e5538df34a",
       "format": "Metadata"
     },
     {
@@ -2350,9 +2402,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 225,
-  "item_last_updated": 1659482527,
-  "item_size": 18314509,
+  "files_count": 230,
+  "item_last_updated": 1659509770,
+  "item_size": 18720860,
   "metadata": {
     "identifier": "powerlineus-2022",
     "collection": [
@@ -2369,49 +2421,8 @@
     "publicdate": "2022-07-17 15:03:33",
     "addeddate": "2022-07-17 15:03:33"
   },
-  "powerlineus-2022": [
-    {
-      "url": "https://www.powerlineblog.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_powerlineblog_com-_-2022_08_02_18_21_41.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_powerlineblog_com-_-2022_08_02_18_21_41.report.json",
-      "summary": {
-        "performance": 0.53,
-        "accessibility": 0.7,
-        "best-practices": 0.75,
-        "seo": 0.8,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.powerlineblog.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_powerlineblog_com-_-2022_08_02_18_21_55.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_powerlineblog_com-_-2022_08_02_18_21_55.report.json",
-      "summary": {
-        "performance": 0.59,
-        "accessibility": 0.7,
-        "best-practices": 0.75,
-        "seo": 0.8,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.powerlineblog.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_powerlineblog_com-_-2022_08_02_18_21_26.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_powerlineblog_com-_-2022_08_02_18_21_26.report.json",
-      "summary": {
-        "performance": 0.48,
-        "accessibility": 0.7,
-        "best-practices": 0.75,
-        "seo": 0.8,
-        "pwa": 0.4
-      }
-    }
-  ],
   "server": "ia801409.us.archive.org",
-  "uniq": 1985720110,
+  "uniq": 1062142084,
   "workable_servers": [
     "ia801409.us.archive.org",
     "ia601409.us.archive.org"

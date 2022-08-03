@@ -1,5 +1,5 @@
 {
-  "created": 1659487638,
+  "created": 1659531724,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/27/items/wsbtv-2022",
@@ -1246,31 +1246,83 @@
       "sha1": "5826d9768f5fc13f00b24a33df1ef093e58906b8"
     },
     {
+      "name": "wsbtv-2022-08-03T00:50:06.768762-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659502210",
+      "size": "21263",
+      "md5": "a39480ef56d41eda7c2b7246492edcb1",
+      "crc32": "fc44935f",
+      "sha1": "e2e42ea83a52c1be7fe2b39a3aac344cdaa9851c",
+      "format": "JSON"
+    },
+    {
+      "name": "wsbtv-2022-08-03T00:50:06.768762-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659502212",
+      "size": "16264",
+      "md5": "9896e75a50fc3740ef6e2d96a0bd1773",
+      "crc32": "e0902a55",
+      "sha1": "a53053c62b2c4a8991b60005b00eef78210f2087",
+      "format": "JSON"
+    },
+    {
+      "name": "wsbtv-2022-08-03T00:50:06.768762-04:00.jpg",
+      "source": "original",
+      "mtime": "1659502209",
+      "size": "281331",
+      "md5": "a9224fc837de355d16793137a33033e4",
+      "crc32": "128ba77d",
+      "sha1": "d3f8f2463b642941b5086f5ad545523e1c0c2b8b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wsbtv-2022-08-03T00:50:06.768762-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659502214",
+      "size": "1448",
+      "md5": "72b3dd6e972c8907bb045cf5efa3198d",
+      "crc32": "93ce001a",
+      "sha1": "7bf953dd1fde335adbbbc1336ec0c8c3e158ce9b",
+      "format": "JSON"
+    },
+    {
+      "name": "wsbtv-2022-08-03T00:50:06.768762-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wsbtv-2022-08-03T00:50:06.768762-04:00.jpg",
+      "mtime": "1659510158",
+      "size": "11120",
+      "md5": "d58b1750e71165697321387ab725eec2",
+      "crc32": "1203a3a2",
+      "sha1": "b762bc34df0e813bd6e721370d7ff3daa436afb8"
+    },
+    {
       "name": "wsbtv-2022_archive.torrent",
       "source": "metadata",
-      "btih": "31710703d2d545431a4e49e81b863b9ceae4b257",
-      "mtime": "1659477943",
-      "size": "26096",
-      "md5": "4051942917fde4fd5c1cddcf03a4479b",
-      "crc32": "587c1ff5",
-      "sha1": "70391affb8dc07ca3064eef266bd4a8fd9a3c896",
+      "btih": "28b104d7496cfa75720b26bb2c59a7d912eaf32b",
+      "mtime": "1659510164",
+      "size": "27141",
+      "md5": "24197323c17b7a9e1968be017eaffb03",
+      "crc32": "912f9c86",
+      "sha1": "014e229162e0bf61c18061ed674d868db7b67297",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wsbtv-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "22c549d9be99c44d3358abbbdfbd4d0e",
+      "md5": "151e3be0f178f57595fbe24ccdedc0b6",
       "summation": "md5"
     },
     {
       "name": "wsbtv-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659457513",
-      "size": "163840",
-      "md5": "16a0343a6a6bffa745aff8cc340229c7",
-      "crc32": "2b31a144",
-      "sha1": "d3dea6a794158878f7e19f2d9eabdbe43ef099f3",
+      "mtime": "1659502217",
+      "size": "172032",
+      "md5": "0546999c8fedbdca52407e42a2277a45",
+      "crc32": "14c1cbec",
+      "sha1": "cec2d9a8ba3c21c6da200adee20a839077dd4c6c",
       "format": "Metadata"
     },
     {
@@ -1284,9 +1336,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 123,
-  "item_last_updated": 1659477943,
-  "item_size": 8821997,
+  "files_count": 128,
+  "item_last_updated": 1659510164,
+  "item_size": 9162660,
   "metadata": {
     "identifier": "wsbtv-2022",
     "collection": [
@@ -1304,723 +1356,50 @@
     "addeddate": "2022-07-20 23:32:36"
   },
   "server": "ia801508.us.archive.org",
-  "uniq": 1278163114,
+  "uniq": 204422916,
   "workable_servers": [
     "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ],
-  "wsbtv-2022": {
-    "role": "WebArea",
-    "name": "Atlanta News, Weather and Sports. Breaking stories from around the Metro Area. Coverage you can count on from WSB-TV Channel 2. \u2013 WSB-TV Channel 2 - Atlanta",
-    "children": [
-      {
-        "role": "button",
-        "name": "Sections"
-      },
-      {
-        "role": "link",
-        "name": "WSB-TV Channel 2 \u2013 Atlanta Logo",
-        "description": "WSB-TV Channel 2 \u2013 Atlanta Logo"
-      },
-      {
-        "role": "link",
-        "name": "81 \u00b0 Fair"
-      },
-      {
-        "role": "link",
-        "name": "WATCH"
-      },
-      {
-        "role": "text",
-        "name": "\u00a0 \u00a0"
-      },
-      {
-        "role": "link",
-        "name": "WEATHER"
-      },
-      {
-        "role": "text",
-        "name": "\u00a0 \u00a0"
-      },
-      {
-        "role": "link",
-        "name": "NEWS"
-      },
-      {
-        "role": "text",
-        "name": "\u00a0 \u00a0"
-      },
-      {
-        "role": "link",
-        "name": "VIDEO"
-      },
-      {
-        "role": "text",
-        "name": "\u00a0 \u00a0"
-      },
-      {
-        "role": "link",
-        "name": "SPORTS"
-      },
-      {
-        "role": "text",
-        "name": "\u00a0 \u00a0"
-      },
-      {
-        "role": "link",
-        "name": "TRAFFIC"
-      },
-      {
-        "role": "text",
-        "name": "\u00a0 \u00a0"
-      },
-      {
-        "role": "link",
-        "name": "BACK 2 SCHOOL"
-      },
-      {
-        "role": "text",
-        "name": "\u00a0 \u00a0"
-      },
-      {
-        "role": "link",
-        "name": "CORONAVIRUS (OPENS IN NEW WINDOW)"
-      },
-      {
-        "role": "text",
-        "name": "\u00a0 \u00a0"
-      },
-      {
-        "role": "link",
-        "name": "HOME EXPERTS"
-      },
-      {
-        "role": "text",
-        "name": "\u00a0 \u00a0"
-      },
-      {
-        "role": "link",
-        "name": "COMMUNITY"
-      },
-      {
-        "role": "text",
-        "name": "\u00a0 \u00a0"
-      },
-      {
-        "role": "link",
-        "name": "CONTACT US"
-      },
-      {
-        "role": "text",
-        "name": "\u00a0 \u00a0"
-      },
-      {
-        "role": "link",
-        "name": "UPLOAD PHOTOS"
-      },
-      {
-        "role": "text",
-        "name": "\u00a0 \u00a0"
-      },
-      {
-        "role": "link",
-        "name": "STEALS AND DEALS"
-      },
-      {
-        "role": "textbox",
-        "name": "Search"
-      },
-      {
-        "role": "button",
-        "name": "Search"
-      },
-      {
-        "role": "link",
-        "name": "Weather"
-      },
-      {
-        "role": "button",
-        "name": "Show Weather sub sections"
-      },
-      {
-        "role": "link",
-        "name": "Video"
-      },
-      {
-        "role": "button",
-        "name": "Show Video sub sections"
-      },
-      {
-        "role": "link",
-        "name": "COVID-19 Vaccine"
-      },
-      {
-        "role": "link",
-        "name": "News"
-      },
-      {
-        "role": "button",
-        "name": "Show News sub sections"
-      },
-      {
-        "role": "link",
-        "name": "Traffic"
-      },
-      {
-        "role": "link",
-        "name": "Back 2 School"
-      },
-      {
-        "role": "link",
-        "name": "Sports"
-      },
-      {
-        "role": "button",
-        "name": "Show Sports sub sections"
-      },
-      {
-        "role": "link",
-        "name": "Lottery Results"
-      },
-      {
-        "role": "link",
-        "name": "Things 2 Do"
-      },
-      {
-        "role": "button",
-        "name": "Show Things 2 Do sub sections"
-      },
-      {
-        "role": "link",
-        "name": "Community"
-      },
-      {
-        "role": "button",
-        "name": "Show Community sub sections"
-      },
-      {
-        "role": "link",
-        "name": "Contact Us"
-      },
-      {
-        "role": "button",
-        "name": "Show Contact Us sub sections"
-      },
-      {
-        "role": "link",
-        "name": "Home Experts"
-      },
-      {
-        "role": "link",
-        "name": "Upload Photos"
-      },
-      {
-        "role": "link",
-        "name": "Celebrity"
-      },
-      {
-        "role": "link",
-        "name": "BREAKING NEWS|Second arrest made in deadly shooting of former Gwinnett coach at Quik Trip gas station"
-      },
-      {
-        "role": "text",
-        "name": "1"
-      },
-      {
-        "role": "text",
-        "name": "/"
-      },
-      {
-        "role": "text",
-        "name": "1"
-      },
-      {
-        "role": "button",
-        "name": ""
-      },
-      {
-        "role": "main",
-        "name": "",
-        "children": [
-          {
-            "role": "text",
-            "name": "ADVERTISEMENT"
-          },
-          {
-            "role": "region",
-            "name": "Advertisement",
-            "description": "3rd party ad content"
-          },
-          {
-            "role": "link",
-            "name": "Back to School Georgia"
-          },
-          {
-            "role": "link",
-            "name": "Second arrest made in deadly shooting of former Gwinnett coach at Quik Trip gas station"
-          },
-          {
-            "role": "heading",
-            "name": "Happening Now",
-            "level": 3
-          },
-          {
-            "role": "link",
-            "name": "Gainesville man in jail after $2.8 million meth stash found in Hall County, deputies say"
-          },
-          {
-            "role": "link",
-            "name": "Body camera footage shows moments before Clayton County officer was shot"
-          },
-          {
-            "role": "link",
-            "name": "Man whom investigators said pulled out AK-47 style gun killed during undercover operation"
-          },
-          {
-            "role": "link",
-            "name": "Man hospitalized after several men fired shots at him while he was driving, police say"
-          },
-          {
-            "role": "text",
-            "name": "LIVE"
-          },
-          {
-            "role": "heading",
-            "name": "Watch Live",
-            "level": 2
-          },
-          {
-            "role": "generic",
-            "name": "Share Facebook Share Twitter Share Email Share Play Unable to play media. Toggle Full Screen",
-            "children": [
-              {
-                "role": "button",
-                "name": "Share Facebook"
-              },
-              {
-                "role": "button",
-                "name": "Share Twitter"
-              },
-              {
-                "role": "button",
-                "name": "Share Email"
-              },
-              {
-                "role": "button",
-                "name": "Share"
-              },
-              {
-                "role": "button",
-                "name": "Play",
-                "description": "Play"
-              }
-            ]
-          },
-          {
-            "role": "link",
-            "name": ""
-          },
-          {
-            "role": "heading",
-            "name": "Back 2 School",
-            "level": 3
-          },
-          {
-            "role": "heading",
-            "name": "Latest Headlines",
-            "level": 3
-          },
-          {
-            "role": "heading",
-            "name": "Trending",
-            "level": 3
-          },
-          {
-            "role": "heading",
-            "name": "Latest Videos",
-            "level": 3
-          },
-          {
-            "role": "heading",
-            "name": "2 Investigates",
-            "level": 3
-          },
-          {
-            "role": "heading",
-            "name": "Sports",
-            "level": 3
-          },
-          {
-            "role": "text",
-            "name": "ADVERTISEMENT"
-          },
-          {
-            "role": "region",
-            "name": "Advertisement",
-            "description": "3rd party ad content"
-          },
-          {
-            "role": "text",
-            "name": "Forecast from"
-          },
-          {
-            "role": "text",
-            "name": "Meteorologist"
-          },
-          {
-            "role": "text",
-            "name": "Brian"
-          },
-          {
-            "role": "text",
-            "name": "Monahan"
-          },
-          {
-            "role": "img",
-            "name": "AMS Certified"
-          },
-          {
-            "role": "link",
-            "name": "NOW Fair 81\u00b0 3 PM M Cloudy 89\u00b0 6 PM P Cloudy 88\u00b0"
-          },
-          {
-            "role": "link",
-            "name": "Download WSB Apps"
-          },
-          {
-            "role": "heading",
-            "name": "Channel 2 Action News",
-            "level": 2
-          },
-          {
-            "role": "heading",
-            "name": "DELIVERED TO YOUR INBOX",
-            "level": 5
-          },
-          {
-            "role": "textbox",
-            "name": "Zipcode"
-          },
-          {
-            "role": "textbox",
-            "name": "Email Address",
-            "required": true,
-            "invalid": "true"
-          },
-          {
-            "role": "link",
-            "name": "More sun and drier weather with just a few isolated showers and storms"
-          },
-          {
-            "role": "link",
-            "name": ""
-          },
-          {
-            "role": "link",
-            "name": "Links Mentioned on Channel 2"
-          },
-          {
-            "role": "link",
-            "name": ""
-          },
-          {
-            "role": "text",
-            "name": "ADVERTISEMENT"
-          },
-          {
-            "role": "region",
-            "name": "Advertisement",
-            "description": "3rd party ad content"
-          },
-          {
-            "role": "heading",
-            "name": "Around Atlanta",
-            "level": 4
-          },
-          {
-            "role": "link",
-            "name": "Submit a Tip to Channel 2 Action News"
-          },
-          {
-            "role": "generic",
-            "name": "",
-            "children": [
-              {
-                "role": "Iframe",
-                "name": "CivicScience Poll",
-                "description": "CivicScience Poll"
-              }
-            ]
-          },
-          {
-            "role": "heading",
-            "name": "Around Atlanta",
-            "level": 3
-          },
-          {
-            "role": "heading",
-            "name": "Latest Photo Galleries",
-            "level": 4
-          },
-          {
-            "role": "link",
-            "name": "by Taboola"
-          },
-          {
-            "role": "link",
-            "name": "Sponsored Links"
-          },
-          {
-            "role": "text",
-            "name": "More Stories"
-          },
-          {
-            "role": "link",
-            "name": "Banned For 84 Years; Powerful Pain Reliever Legalized In Texas"
-          },
-          {
-            "role": "link",
-            "name": "Banned For 84 Years; Powerful Pain Reliever Legalized In Texas Health Headlines",
-            "description": "Banned For 84 Years; Powerful Pain Reliever Legalized In Texas"
-          },
-          {
-            "role": "link",
-            "name": "Suffering From Nail Fungus? Do This Immediately"
-          },
-          {
-            "role": "link",
-            "name": "Suffering From Nail Fungus? Do This Immediately Healthbay",
-            "description": "Suffering From Nail Fungus? Do This Immediately"
-          },
-          {
-            "role": "link",
-            "name": "21 Bonehead Boat Owners (Try Not To Laugh At :11)"
-          },
-          {
-            "role": "link",
-            "name": "21 Bonehead Boat Owners (Try Not To Laugh At :11) House Coast",
-            "description": "21 Bonehead Boat Owners (Try Not To Laugh At :11)"
-          },
-          {
-            "role": "link",
-            "name": "San Antonio: Unsold Never-Driven Cars Now Almost Being Given Away: See Prices"
-          },
-          {
-            "role": "link",
-            "name": "San Antonio: Unsold Never-Driven Cars Now Almost Being Given Away: See Prices SUV Deals | Search Ads",
-            "description": "San Antonio: Unsold Never-Driven Cars Now Almost Being Given Away: See Prices"
-          },
-          {
-            "role": "link",
-            "name": "If You Are Above 30, this Fantasy Game is a Must-Have. No Install."
-          },
-          {
-            "role": "link",
-            "name": "If You Are Above 30, this Fantasy Game is a Must-Have. No Install. Elvenar -Fantasy City Builder Game Play Now",
-            "description": "If You Are Above 30, this Fantasy Game is a Must-Have. No Install.",
-            "children": [
-              {
-                "role": "text",
-                "name": "If You Are Above 30, this Fantasy Game is a Must-Have. No Install."
-              },
-              {
-                "role": "text",
-                "name": "Elvenar -Fantasy City Builder Game"
-              },
-              {
-                "role": "link",
-                "name": "Play Now",
-                "children": [
-                  {
-                    "role": "button",
-                    "name": "Play Now"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "role": "link",
-            "name": "Why People Are Snapping Up This Ear Wax Removal Camera?"
-          },
-          {
-            "role": "link",
-            "name": "Why People Are Snapping Up This Ear Wax Removal Camera? Top Tech Today Learn More",
-            "description": "Why People Are Snapping Up This Ear Wax Removal Camera?",
-            "children": [
-              {
-                "role": "text",
-                "name": "Why People Are Snapping Up This Ear Wax Removal Camera?"
-              },
-              {
-                "role": "text",
-                "name": "Top Tech Today"
-              },
-              {
-                "role": "link",
-                "name": "Learn More",
-                "children": [
-                  {
-                    "role": "button",
-                    "name": "Learn More"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "role": "link",
-        "name": "NEWS"
-      },
-      {
-        "role": "link",
-        "name": "Local"
-      },
-      {
-        "role": "link",
-        "name": "Watch Live"
-      },
-      {
-        "role": "link",
-        "name": "Video"
-      },
-      {
-        "role": "link",
-        "name": "Nation/World"
-      },
-      {
-        "role": "link",
-        "name": "Traffic"
-      },
-      {
-        "role": "link",
-        "name": "WEATHER"
-      },
-      {
-        "role": "link",
-        "name": "Current Conditions"
-      },
-      {
-        "role": "link",
-        "name": "Stormtracker 2HD Radar"
-      },
-      {
-        "role": "link",
-        "name": "5 Day Forecast"
-      },
-      {
-        "role": "link",
-        "name": "CONTACT US"
-      },
-      {
-        "role": "link",
-        "name": "About WSBTV"
-      },
-      {
-        "role": "link",
-        "name": "What's On WSBTV"
-      },
-      {
-        "role": "link",
-        "name": "EEO Statement"
-      },
-      {
-        "role": "link",
-        "name": "Advertise with WSBTV"
-      },
-      {
-        "role": "link",
-        "name": "WSBTV Public File"
-      },
-      {
-        "role": "link",
-        "name": "FCC Applications"
-      },
-      {
-        "role": "heading",
-        "name": "FOLLOW US",
-        "level": 3
-      },
-      {
-        "role": "link",
-        "name": "WSB-TV Channel 2 - Atlanta facebook feed(Opens a new window)"
-      },
-      {
-        "role": "link",
-        "name": "WSB-TV Channel 2 - Atlanta twitter feed(Opens a new window)"
-      },
-      {
-        "role": "link",
-        "name": "WSB-TV Channel 2 - Atlanta instagram feed(Opens a new window)"
-      },
-      {
-        "role": "link",
-        "name": "WSB-TV Channel 2 - Atlanta youtube feed(Opens a new window)"
-      },
-      {
-        "role": "text",
-        "name": "\u00a9 2022"
-      },
-      {
-        "role": "link",
-        "name": "Cox Media Group"
-      },
-      {
-        "role": "text",
-        "name": "."
-      },
-      {
-        "role": "text",
-        "name": "This station is part of Cox Media Group Television. Learn about"
-      },
-      {
-        "role": "link",
-        "name": "careers"
-      },
-      {
-        "role": "text",
-        "name": "at Cox Media Group. By using this website, you accept the terms of our"
-      },
-      {
-        "role": "link",
-        "name": "Visitor Agreement"
-      },
-      {
-        "role": "text",
-        "name": "and"
-      },
-      {
-        "role": "link",
-        "name": "Privacy Policy"
-      },
-      {
-        "role": "text",
-        "name": ", and understand your options regarding"
-      },
-      {
-        "role": "link",
-        "name": "Ad Choices"
-      },
-      {
-        "role": "text",
-        "name": "."
-      },
-      {
-        "role": "link",
-        "name": "Manage Cookie Preferences",
-        "description": "Manage your cookie preferences"
-      },
-      {
-        "role": "text",
-        "name": "|"
-      },
-      {
-        "role": "link",
-        "name": "Do Not Sell My Information",
-        "description": "Do Not Sell My Information"
+  "wsbtv-2022": [
+    {
+      "url": "https://www.wsbtv.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wsbtv_com-_-2022_08_03_04_16_52.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wsbtv_com-_-2022_08_03_04_16_52.report.json",
+      "summary": {
+        "performance": 0.24,
+        "accessibility": 0.72,
+        "best-practices": 0.75,
+        "seo": 0.85,
+        "pwa": 0.3
       }
-    ]
-  }
+    },
+    {
+      "url": "https://www.wsbtv.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wsbtv_com-_-2022_08_03_04_17_56.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wsbtv_com-_-2022_08_03_04_17_56.report.json",
+      "summary": {
+        "performance": 0.24,
+        "accessibility": 0.7,
+        "best-practices": 0.75,
+        "seo": 0.85,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.wsbtv.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wsbtv_com-_-2022_08_03_04_16_25.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wsbtv_com-_-2022_08_03_04_16_25.report.json",
+      "summary": {
+        "performance": 0.23,
+        "accessibility": 0.7,
+        "best-practices": 0.75,
+        "seo": 0.85,
+        "pwa": 0.3
+      }
+    }
+  ]
 }

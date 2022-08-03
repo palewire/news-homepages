@@ -1,5 +1,5 @@
 {
-  "created": 1659482767,
+  "created": 1659530554,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/12/items/flphoenixnews-2022",
@@ -5107,31 +5107,83 @@
       "format": "JSON"
     },
     {
+      "name": "flphoenixnews-2022-08-02T19:25:12.741538-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "flphoenixnews-2022-08-02T19:25:12.741538-04:00.jpg",
+      "mtime": "1659495045",
+      "size": "10212",
+      "md5": "a579ddf299b89cd81804f4552669e588",
+      "crc32": "0bb5a21d",
+      "sha1": "2f7490c385e598b346bcfa6f139544101446cda8"
+    },
+    {
+      "name": "flphoenixnews-2022-08-03T08:41:35.148203-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659530500",
+      "size": "16071",
+      "md5": "ccc9a20076adc4e3cdd526ab64b54a84",
+      "crc32": "28455430",
+      "sha1": "ec70cff1d0eda4e5452907cc81430e61c97b5304",
+      "format": "JSON"
+    },
+    {
+      "name": "flphoenixnews-2022-08-03T08:41:35.148203-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659530502",
+      "size": "13663",
+      "md5": "a23fc881cda297fc771b299b8f2bb1c3",
+      "crc32": "e28b3473",
+      "sha1": "502e973549a16f099e6e4822ea0816300e5fba8c",
+      "format": "JSON"
+    },
+    {
+      "name": "flphoenixnews-2022-08-03T08:41:35.148203-04:00.jpg",
+      "source": "original",
+      "mtime": "1659530498",
+      "size": "360445",
+      "md5": "879576c436a9eb600d459dc41381cc42",
+      "crc32": "fb5266f0",
+      "sha1": "a718243f86260b359de9d86da874a47c03c64b9f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "flphoenixnews-2022-08-03T08:41:35.148203-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659530504",
+      "size": "1494",
+      "md5": "388a36937e95f01100dd819d02fd5609",
+      "crc32": "b7c7351a",
+      "sha1": "a91633fc6ac4e83cd44df600b68f5e80cee7ef22",
+      "format": "JSON"
+    },
+    {
       "name": "flphoenixnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fe141ea785c5c69339eb3f04d73745b6211a4328",
-      "mtime": "1659482763",
-      "size": "106621",
-      "md5": "4e9ae52472d9f4d28c1edecbd7dc1ed5",
-      "crc32": "ab515e95",
-      "sha1": "2a43b840a2bb452792156417d8651391e0b8e798",
+      "btih": "0d7209cdf75bcfca8c3b9e3ff60fd4bd843e43c1",
+      "mtime": "1659530549",
+      "size": "107686",
+      "md5": "e8d9185e2efd8dce78703a1d18b0d6b5",
+      "crc32": "8bd4acb9",
+      "sha1": "01145d5c57063bb7b4c771beaf00c0a4bd0d32ca",
       "format": "Archive BitTorrent"
     },
     {
       "name": "flphoenixnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0fca8f4a11b908ef363cc4408f0e7cdf",
+      "md5": "ffc1c63b10417bc79614f671616d41dc",
       "summation": "md5"
     },
     {
       "name": "flphoenixnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659482722",
-      "size": "589824",
-      "md5": "9e7fe48f6217cf9933eff052ded7f251",
-      "crc32": "23a95a27",
-      "sha1": "19cfca7a7cf52ca9836084e42848d77e2ab03935",
+      "mtime": "1659530508",
+      "size": "593920",
+      "md5": "0cc0f9fa070c8da0b2aae60145dc9eb6",
+      "crc32": "9b0e4a5a",
+      "sha1": "765293a4f38092387e9ce23cdc1e39d3f72d0b2d",
       "format": "Metadata"
     },
     {
@@ -5145,9 +5197,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 491,
-  "item_last_updated": 1659482763,
-  "item_size": 42645352,
+  "files_count": 496,
+  "item_last_updated": 1659530549,
+  "item_size": 43052398,
   "metadata": {
     "identifier": "flphoenixnews-2022",
     "collection": [
@@ -5169,7 +5221,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350899218,
+      "task_id": 3351410859,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -5177,7 +5229,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 572958216,
+  "uniq": 977234607,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]

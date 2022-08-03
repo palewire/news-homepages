@@ -1,5 +1,5 @@
 {
-  "created": 1659487178,
+  "created": 1659531152,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/4/items/nbcphiladelphia-2022",
@@ -3155,31 +3155,83 @@
       "format": "JSON"
     },
     {
+      "name": "nbcphiladelphia-2022-08-02T20:38:43.017793-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nbcphiladelphia-2022-08-02T20:38:43.017793-04:00.jpg",
+      "mtime": "1659498240",
+      "size": "10036",
+      "md5": "dcd72760af6b57abc254c8ea763cb191",
+      "crc32": "2a8af77e",
+      "sha1": "376f109aab12a56359189514c2221dc4a44eeae3"
+    },
+    {
+      "name": "nbcphiladelphia-2022-08-03T08:51:38.083346-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659531103",
+      "size": "52076",
+      "md5": "c715bb428c11c08bbfc2be3aedb22675",
+      "crc32": "c1beb427",
+      "sha1": "f016c2df6a7d7f1488f14b5d0686f72dfa49aff9",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcphiladelphia-2022-08-03T08:51:38.083346-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659531105",
+      "size": "61674",
+      "md5": "c016d08b3a7f859c86594df4c309aaf2",
+      "crc32": "d4d0e1a0",
+      "sha1": "050002cb5ab5f8b23168f2587728ba52b62e14cb",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcphiladelphia-2022-08-03T08:51:38.083346-04:00.jpg",
+      "source": "original",
+      "mtime": "1659531101",
+      "size": "293030",
+      "md5": "b4341c97caa0c0babc4181e40e7e2796",
+      "crc32": "badea1a4",
+      "sha1": "50aa93cf37dc1f6950315e90f195cdc1876b83bc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nbcphiladelphia-2022-08-03T08:51:38.083346-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659531106",
+      "size": "1540",
+      "md5": "6c5557f6a995d20bb289e09bcb496c89",
+      "crc32": "ac31dc25",
+      "sha1": "213202c46817655c08c1df6c9966ebcc4f8e0ad2",
+      "format": "JSON"
+    },
+    {
       "name": "nbcphiladelphia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "82fea1b351698d9bd2cde568d4abdbe386d34115",
-      "mtime": "1659487174",
-      "size": "67115",
-      "md5": "9eb63829342290ddfe0094b7c3bc90f0",
-      "crc32": "73f51507",
-      "sha1": "23feed0bf7d0b1974179bf4cd0617e348e37cc72",
+      "btih": "aa331ea8544e4f0fad3267b69354407d55518fec",
+      "mtime": "1659531147",
+      "size": "68210",
+      "md5": "f5e5a02ff75d77ffad905965a20a97ca",
+      "crc32": "17b3fb42",
+      "sha1": "ae0f2fff7e725faec5ada3187fdb70c34b3eb3e2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nbcphiladelphia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "73c9d23b8414e013994ed199ff5e8af8",
+      "md5": "3ff46e5a71cb954a5127087c8bf66a3d",
       "summation": "md5"
     },
     {
       "name": "nbcphiladelphia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659487137",
-      "size": "376832",
-      "md5": "15b59e88481641eeba4dedb15389a43b",
-      "crc32": "f09b180c",
-      "sha1": "9deac8bb389609f85fd2954c8671f11d375e8461",
+      "mtime": "1659531110",
+      "size": "385024",
+      "md5": "13a17f158171cfe59ff4950336a6332f",
+      "crc32": "e7872cb0",
+      "sha1": "102bfd7cd75f2532d11408d166f672afe7b665e7",
       "format": "Metadata"
     },
     {
@@ -3193,9 +3245,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 305,
-  "item_last_updated": 1659487174,
-  "item_size": 28507103,
+  "files_count": 310,
+  "item_last_updated": 1659531147,
+  "item_size": 28934746,
   "metadata": {
     "identifier": "nbcphiladelphia-2022",
     "collection": [
@@ -3217,7 +3269,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350941869,
+      "task_id": 3351416167,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -3225,7 +3277,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 71071562,
+  "uniq": 891346871,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

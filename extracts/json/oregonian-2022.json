@@ -1,5 +1,5 @@
 {
-  "created": 1659487348,
+  "created": 1659531275,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/1/items/oregonian-2022",
@@ -2725,21 +2725,32 @@
       "format": "JSON"
     },
     {
+      "name": "oregonian-2022-08-02T17:41:37.293548-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oregonian-2022-08-02T17:41:37.293548-07:00.jpg",
+      "mtime": "1659498398",
+      "size": "8076",
+      "md5": "4b88dad34d825eadcf33cfa64fe2ca31",
+      "crc32": "bd95d81f",
+      "sha1": "5ef879f3f86d39cdcc5e81da41a434dfec5bb58f"
+    },
+    {
       "name": "oregonian-2022_archive.torrent",
       "source": "metadata",
-      "btih": "035607b756ff01de9ac79e9fd5ce4b4887e9d6a6",
-      "mtime": "1659487344",
-      "size": "56388",
-      "md5": "c3cc1db51aab11f111432499161bbd60",
-      "crc32": "85531018",
-      "sha1": "d598d24046a068140be9ceabd802c552a628237d",
+      "btih": "09362906b1181bc8bfc9616b2d7f00b6b7cbe81b",
+      "mtime": "1659498402",
+      "size": "56593",
+      "md5": "93ec9a2fa01a881243c7ee862653e428",
+      "crc32": "f3ce4e13",
+      "sha1": "12db14ffd8851bf8b285b3e21f4ff9a21d7dd2fd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "oregonian-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e522dd997906a61e19e3a37748abf5c4",
+      "md5": "c7033296de5b769ea493b3cb374f0831",
       "summation": "md5"
     },
     {
@@ -2763,9 +2774,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 264,
-  "item_last_updated": 1659487344,
-  "item_size": 20219731,
+  "files_count": 265,
+  "item_last_updated": 1659498402,
+  "item_size": 20228012,
   "metadata": {
     "identifier": "oregonian-2022",
     "collection": [
@@ -2782,29 +2793,51 @@
     "publicdate": "2022-07-04 21:50:57",
     "addeddate": "2022-07-04 21:50:57"
   },
-  "pending_tasks": true,
-  "server": "ia601406.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "oregonian-2022": [
     {
-      "task_id": 3350943157,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "url": "https://www.oregonlive.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_oregonlive_com-_-2022_08_03_00_17_14.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_oregonlive_com-_-2022_08_03_00_17_14.report.json",
+      "summary": {
+        "performance": 0.24,
+        "accessibility": 0.96,
+        "best-practices": 0.92,
+        "seo": 0.84,
+        "pwa": 0.5
+      }
     },
     {
-      "task_id": 3350943725,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "url": "https://www.oregonlive.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_oregonlive_com-_-2022_08_03_00_17_38.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_oregonlive_com-_-2022_08_03_00_17_38.report.json",
+      "summary": {
+        "performance": 0.25,
+        "accessibility": 0.96,
+        "best-practices": 0.92,
+        "seo": 0.84,
+        "pwa": 0.5
+      }
+    },
+    {
+      "url": "https://www.oregonlive.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_oregonlive_com-_-2022_08_03_00_18_01.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_oregonlive_com-_-2022_08_03_00_18_01.report.json",
+      "summary": {
+        "performance": 0.25,
+        "accessibility": 0.96,
+        "best-practices": 0.92,
+        "seo": 0.84,
+        "pwa": 0.5
+      }
     }
   ],
-  "uniq": 77335100,
+  "server": "ia801406.us.archive.org",
+  "uniq": 2002872819,
   "workable_servers": [
+    "ia801406.us.archive.org",
     "ia601406.us.archive.org"
   ]
 }

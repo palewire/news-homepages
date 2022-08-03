@@ -1,5 +1,5 @@
 {
-  "created": 1659486849,
+  "created": 1659530795,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/17/items/irishcathnews-2022",
@@ -1579,31 +1579,83 @@
       "format": "JSON"
     },
     {
+      "name": "irishcathnews-2022-08-03T01:33:09.392983+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "irishcathnews-2022-08-03T01:33:09.392983+01:00.jpg",
+      "mtime": "1659498037",
+      "size": "9389",
+      "md5": "05805071d198ebda2d8867d199f16ce3",
+      "crc32": "d8e9ae21",
+      "sha1": "a01f7aadc3a5840af957f2589557d89f3c456057"
+    },
+    {
+      "name": "irishcathnews-2022-08-03T13:45:36.613384+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659530740",
+      "size": "28697",
+      "md5": "f8eec8796c90151bf0eacbdda958fa32",
+      "crc32": "ab362e4f",
+      "sha1": "1c21b5e092d1ff0f423c0631aa7cddf83e67b018",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-08-03T13:45:36.613384+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659530741",
+      "size": "28096",
+      "md5": "da0fc00600bc1c98092704702abc4edf",
+      "crc32": "31286110",
+      "sha1": "a2d7d342fbe541be1f0861d1e81b72f336f6d642",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-08-03T13:45:36.613384+01:00.jpg",
+      "source": "original",
+      "mtime": "1659530739",
+      "size": "269842",
+      "md5": "80af630e7e0596590cd264e3dbb2075f",
+      "crc32": "f1faf0d2",
+      "sha1": "d30f2b0bd87ab119dcdfff15a8a288017b98da87",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "irishcathnews-2022-08-03T13:45:36.613384+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659530743",
+      "size": "1522",
+      "md5": "a65be44296067cd1b61139b9c31d1a2a",
+      "crc32": "f953a0e1",
+      "sha1": "9f2ca671b39e8e40413d711bc1cbc04feb479715",
+      "format": "JSON"
+    },
+    {
       "name": "irishcathnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ab071be924ad5251f6621ccd2c905ee1e499d224",
-      "mtime": "1659486845",
-      "size": "34002",
-      "md5": "2df9bf467e051f5ef56b9d6e9ebe64e1",
-      "crc32": "1cacff93",
-      "sha1": "4b75a98b112f7eaa69c236737f9cfec0df8ab605",
+      "btih": "e3275027a3249af956a97f18d49053af59ef0d38",
+      "mtime": "1659530786",
+      "size": "35066",
+      "md5": "8009d05d6eabab4a7560b9a7b23d6393",
+      "crc32": "bdf62d63",
+      "sha1": "e90205f4a1c033c239cca9f0241cfd7dfbd2e36c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "irishcathnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4f4e779b8ab3616e59f9f03c6cfa10cf",
+      "md5": "8a6bc1b1c97c33171634cfe66bd3934d",
       "summation": "md5"
     },
     {
       "name": "irishcathnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659486803",
-      "size": "204800",
-      "md5": "f1d8076891900463a490ff5300aa6c20",
-      "crc32": "4a9a150f",
-      "sha1": "9b72a62b1b0538a354879046086b44d89e78f39b",
+      "mtime": "1659530748",
+      "size": "212992",
+      "md5": "5954a20709a576a839eee9fe75f40ba7",
+      "crc32": "f79db593",
+      "sha1": "41587bebcb6942bcaa1ecf9b54a6ac638189327f",
       "format": "Metadata"
     },
     {
@@ -1617,9 +1669,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 155,
-  "item_last_updated": 1659486845,
-  "item_size": 11087234,
+  "files_count": 160,
+  "item_last_updated": 1659530786,
+  "item_size": 11434036,
   "metadata": {
     "identifier": "irishcathnews-2022",
     "collection": [
@@ -1641,7 +1693,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350938493,
+      "task_id": 3351413105,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1649,7 +1701,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1437339614,
+  "uniq": 1182672058,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]

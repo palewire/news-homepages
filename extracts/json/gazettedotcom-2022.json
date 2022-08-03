@@ -1,5 +1,5 @@
 {
-  "created": 1659472126,
+  "created": 1659530963,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/4/items/gazettedotcom-2022",
@@ -9050,31 +9050,83 @@
       "sha1": "082934d5650ece602edaaf0f6f342cc3eb7f26e7"
     },
     {
+      "name": "gazettedotcom-2022-08-02T23:29:51.598381-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659501000",
+      "size": "45850",
+      "md5": "ff5da9b0563ac8042e53762df4d3f88d",
+      "crc32": "d37a0a11",
+      "sha1": "b6e1d15733c214fcb8c1684959d90bdd109476be",
+      "format": "JSON"
+    },
+    {
+      "name": "gazettedotcom-2022-08-02T23:29:51.598381-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659501001",
+      "size": "95269",
+      "md5": "a56dac3db8d34af6254f6645c41f1f29",
+      "crc32": "93f7f59d",
+      "sha1": "3bdd3ccb3ea90a67a78f3dd191b8ea0917d38561",
+      "format": "JSON"
+    },
+    {
+      "name": "gazettedotcom-2022-08-02T23:29:51.598381-05:00.jpg",
+      "source": "original",
+      "mtime": "1659500998",
+      "size": "110580",
+      "md5": "b09532d71ce03d063b8731aa5c534223",
+      "crc32": "f3200f97",
+      "sha1": "be66b1d379243be31d20c96f25df5c33e23b3027",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gazettedotcom-2022-08-02T23:29:51.598381-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659501003",
+      "size": "1489",
+      "md5": "aceb9002a760aafc3641f3c1a3b2f866",
+      "crc32": "715ee29a",
+      "sha1": "2f3508217b7efb03540bc85e6934c6e88a5c8132",
+      "format": "JSON"
+    },
+    {
+      "name": "gazettedotcom-2022-08-02T23:29:51.598381-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gazettedotcom-2022-08-02T23:29:51.598381-05:00.jpg",
+      "mtime": "1659509143",
+      "size": "7107",
+      "md5": "f745d0489a2b59002aea6d6860481462",
+      "crc32": "cf8c1c2b",
+      "sha1": "a06d3808d2cd0c6db32580c6076a41c71e3405b9"
+    },
+    {
       "name": "gazettedotcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5099aa5b4fd685e083c0ec412491480c8f6781a9",
-      "mtime": "1659472059",
-      "size": "187884",
-      "md5": "808a6ac7d3655d4bacbef5cb22c135a4",
-      "crc32": "93bae67d",
-      "sha1": "27a4c43a9a7961ca0ac427afd4979487d415aeff",
+      "btih": "4a0076a1f4771eccd219f0d9c5dfaebeefb4e84d",
+      "mtime": "1659509157",
+      "size": "188948",
+      "md5": "78b856ed3b7a468ce190faa1378e28d4",
+      "crc32": "1dd3bfb6",
+      "sha1": "bcba41cbb41e6b73f1ab3b83cf6e027ce5ae0725",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gazettedotcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8fe758684d5709957be01f6a66df0e14",
+      "md5": "34041634f0950b6e12b933789e7c6ba5",
       "summation": "md5"
     },
     {
       "name": "gazettedotcom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659451996",
-      "size": "1015808",
-      "md5": "e5825782f6c6ade5118cd40b0240d09a",
-      "crc32": "de98bfc9",
-      "sha1": "efe85cad5e8d14461dbfa0f9c7f6131b47ba7656",
+      "mtime": "1659501007",
+      "size": "1019904",
+      "md5": "898d000d93bd66ca7ff26a8151ae60c5",
+      "crc32": "3e452fb0",
+      "sha1": "42151e918bad435020b44f117e1c5796e2c32d6f",
       "format": "Metadata"
     },
     {
@@ -9088,9 +9140,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 866,
-  "item_last_updated": 1659472059,
-  "item_size": 90066473,
+  "files_count": 871,
+  "gazettedotcom-2022": [
+    {
+      "url": "https://www.thegazette.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thegazette_com-_-2022_08_03_03_01_29.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thegazette_com-_-2022_08_03_03_01_29.report.json",
+      "summary": {
+        "performance": 0.16,
+        "accessibility": 0.9,
+        "best-practices": 0.5,
+        "seo": 0.82,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.thegazette.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thegazette_com-_-2022_08_03_03_02_16.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thegazette_com-_-2022_08_03_03_02_16.report.json",
+      "summary": {
+        "performance": 0.18,
+        "accessibility": 0.9,
+        "best-practices": 0.5,
+        "seo": 0.82,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.thegazette.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thegazette_com-_-2022_08_03_03_03_05.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thegazette_com-_-2022_08_03_03_03_05.report.json",
+      "summary": {
+        "performance": 0.18,
+        "accessibility": 0.9,
+        "best-practices": 0.5,
+        "seo": 0.82,
+        "pwa": 0.4
+      }
+    }
+  ],
+  "item_last_updated": 1659509157,
+  "item_size": 90331928,
   "metadata": {
     "identifier": "gazettedotcom-2022",
     "collection": [
@@ -9108,7 +9201,7 @@
     "addeddate": "2022-03-25 03:34:38"
   },
   "server": "ia802508.us.archive.org",
-  "uniq": 990142295,
+  "uniq": 1379448953,
   "workable_servers": [
     "ia802508.us.archive.org",
     "ia902508.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1659487221,
+  "created": 1659531073,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/7/items/moreperfectus-2022",
@@ -1743,31 +1743,83 @@
       "format": "JSON"
     },
     {
+      "name": "moreperfectus-2022-08-02T20:39:26.647750-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "moreperfectus-2022-08-02T20:39:26.647750-04:00.jpg",
+      "mtime": "1659498260",
+      "size": "11040",
+      "md5": "aa4b40abd817ff6bd98e87bdd42cbc35",
+      "crc32": "e20d1681",
+      "sha1": "67e8a6a7bf26487a4da3a94296792cdf6f3ec64b"
+    },
+    {
+      "name": "moreperfectus-2022-08-03T08:50:21.052534-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659531024",
+      "size": "8089",
+      "md5": "3713f68adab1c7b4bff5ba6d0b7f07d3",
+      "crc32": "499392ea",
+      "sha1": "d18a34b82367a2d561408421298e9921bcee1eb6",
+      "format": "JSON"
+    },
+    {
+      "name": "moreperfectus-2022-08-03T08:50:21.052534-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659531026",
+      "size": "4296",
+      "md5": "6ec7611891d3ac0d9e032eeba77d2168",
+      "crc32": "59661b05",
+      "sha1": "795a4d3eeaed922408b962e9425f6bcec554f0d5",
+      "format": "JSON"
+    },
+    {
+      "name": "moreperfectus-2022-08-03T08:50:21.052534-04:00.jpg",
+      "source": "original",
+      "mtime": "1659531023",
+      "size": "282100",
+      "md5": "8de3b214c46a63bf66f37d6e891e26e6",
+      "crc32": "79b596e5",
+      "sha1": "73ea78634a67984e21569915596f91b78bb84f50",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "moreperfectus-2022-08-03T08:50:21.052534-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659531028",
+      "size": "1468",
+      "md5": "41c1ce5cf75f2ce7c33540d6fa457dd8",
+      "crc32": "81934ffb",
+      "sha1": "9135ea186959f84b15acfda9ff5f13cf12e8a02c",
+      "format": "JSON"
+    },
+    {
       "name": "moreperfectus-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5c84834f35fe0ec447d80e0840c0517af5784998",
-      "mtime": "1659487217",
-      "size": "37388",
-      "md5": "0a0512642cf8d306f829ff8e42360ba2",
-      "crc32": "9f2c6bcb",
-      "sha1": "663fa5ab0e3a9269cd978f90a08b24846f5a8e63",
+      "btih": "25aa5fb235b92b35f7e2e067eafca0c9d111bfbb",
+      "mtime": "1659531067",
+      "size": "38471",
+      "md5": "2a9539df5d7d0554119ce08adfac2dff",
+      "crc32": "9f743c02",
+      "sha1": "21c0f6abb8605e02330113686f43dae50ea2e926",
       "format": "Archive BitTorrent"
     },
     {
       "name": "moreperfectus-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e443f6a9a3310a466287874c588c2475",
+      "md5": "3af62a9c1e8c790165a80cca8b956f5a",
       "summation": "md5"
     },
     {
       "name": "moreperfectus-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659487180",
-      "size": "229376",
-      "md5": "658081a042ae3916e3bf87c23058baaf",
-      "crc32": "5366fd7c",
-      "sha1": "5b6eedf41fe78b1268eb3aa684c0a043178441d5",
+      "mtime": "1659531032",
+      "size": "233472",
+      "md5": "afd3c89530f5eb97d51ba1927a41952f",
+      "crc32": "ebad89b9",
+      "sha1": "d595b54a4345bad10a4b43bf7aff70e848ec7c72",
       "format": "Metadata"
     },
     {
@@ -1781,9 +1833,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 171,
-  "item_last_updated": 1659487217,
-  "item_size": 11559276,
+  "files_count": 176,
+  "item_last_updated": 1659531067,
+  "item_size": 11871448,
   "metadata": {
     "identifier": "moreperfectus-2022",
     "collection": [
@@ -1805,7 +1857,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350942301,
+      "task_id": 3351415539,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1813,7 +1865,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1817207468,
+  "uniq": 1520355485,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]

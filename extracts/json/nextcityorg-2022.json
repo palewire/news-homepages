@@ -1,5 +1,5 @@
 {
-  "created": 1659477161,
+  "created": 1659531204,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/14/items/nextcityorg-2022",
@@ -2526,31 +2526,83 @@
       "sha1": "54486008b1b20e70924cc08df87d8568e6ef3153"
     },
     {
+      "name": "nextcityorg-2022-08-03T00:38:34.426237-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659501520",
+      "size": "18555",
+      "md5": "5ec14c16e2e3e88c9a0e82e7c388d3e0",
+      "crc32": "a9996908",
+      "sha1": "d8fd2b40386a594ee1ad841745a63e689cb75e11",
+      "format": "JSON"
+    },
+    {
+      "name": "nextcityorg-2022-08-03T00:38:34.426237-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659501522",
+      "size": "19830",
+      "md5": "f73318a3c996db0d758e6fc27550b288",
+      "crc32": "4632140c",
+      "sha1": "343f575c4741702eed6af0017cf985e949c91b3f",
+      "format": "JSON"
+    },
+    {
+      "name": "nextcityorg-2022-08-03T00:38:34.426237-04:00.jpg",
+      "source": "original",
+      "mtime": "1659501516",
+      "size": "342295",
+      "md5": "680ed4df6a2a540cf66f371a066daa2a",
+      "crc32": "8994fba7",
+      "sha1": "97252736873733c4e77dbf7cedf6aa530cdec300",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nextcityorg-2022-08-03T00:38:34.426237-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659501524",
+      "size": "1435",
+      "md5": "8946b1d2e3b9a963e6f6f3e7ec186dd4",
+      "crc32": "a39c800c",
+      "sha1": "39a42a5d7163516b9e6ad1803d591861463ac653",
+      "format": "JSON"
+    },
+    {
+      "name": "nextcityorg-2022-08-03T00:38:34.426237-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nextcityorg-2022-08-03T00:38:34.426237-04:00.jpg",
+      "mtime": "1659509619",
+      "size": "10932",
+      "md5": "5eb8e8bb8d3bbb39a519bf25d08f82e6",
+      "crc32": "e4e699ff",
+      "sha1": "ae94a987c376ab7e8772dc971558766792e4e7c5"
+    },
+    {
       "name": "nextcityorg-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2cce2d6e7141b340b7e95522ce6be355dd031571",
-      "mtime": "1659477147",
-      "size": "53065",
-      "md5": "2c894c8e4117d26465f199ff0a2afbcf",
-      "crc32": "38aebcba",
-      "sha1": "88d6eae30e9d5cbb384d36529cf6c93b2427902a",
+      "btih": "8850b675d5de4344dd5649d91310aad51d88aaab",
+      "mtime": "1659509703",
+      "size": "54140",
+      "md5": "9a8cb2d787b5549d5ea5323255bcee33",
+      "crc32": "5a841891",
+      "sha1": "56fa09f1fe40baa73723bc773b49e3269301bd85",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nextcityorg-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ff233e8687588a8a2f52c18255f24ec9",
+      "md5": "bd2ea5283828a779d2be0b5824e2611c",
       "summation": "md5"
     },
     {
       "name": "nextcityorg-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659456852",
-      "size": "303104",
-      "md5": "59a2dcff93a223a671db42f639856855",
-      "crc32": "c6d39357",
-      "sha1": "629520571b166cd5e8c086ea6bb89a877935808c",
+      "mtime": "1659501528",
+      "size": "311296",
+      "md5": "3d5f576ff847486166a3041beeddf519",
+      "crc32": "ee2dcb44",
+      "sha1": "4509b49396681038cda9a25ac92b3e3e5d88ae66",
       "format": "Metadata"
     },
     {
@@ -2564,9 +2616,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 245,
-  "item_last_updated": 1659477147,
-  "item_size": 22301294,
+  "files_count": 250,
+  "item_last_updated": 1659509703,
+  "item_size": 22703608,
   "metadata": {
     "identifier": "nextcityorg-2022",
     "collection": [
@@ -2583,8 +2635,49 @@
     "publicdate": "2022-07-09 04:01:27",
     "addeddate": "2022-07-09 04:01:27"
   },
+  "nextcityorg-2022": [
+    {
+      "url": "https://nextcity.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nextcity_org-_-2022_08_03_03_57_22.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nextcity_org-_-2022_08_03_03_57_22.report.json",
+      "summary": {
+        "performance": 0.29,
+        "accessibility": 0.96,
+        "best-practices": 1,
+        "seo": 0.98,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://nextcity.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nextcity_org-_-2022_08_03_03_57_51.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nextcity_org-_-2022_08_03_03_57_51.report.json",
+      "summary": {
+        "performance": 0.53,
+        "accessibility": 0.96,
+        "best-practices": 1,
+        "seo": 0.98,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://nextcity.org/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nextcity_org-_-2022_08_03_03_57_37.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nextcity_org-_-2022_08_03_03_57_37.report.json",
+      "summary": {
+        "performance": 0.44,
+        "accessibility": 0.96,
+        "best-practices": 0.92,
+        "seo": 0.98,
+        "pwa": 0.3
+      }
+    }
+  ],
   "server": "ia601504.us.archive.org",
-  "uniq": 1985046983,
+  "uniq": 90691255,
   "workable_servers": [
     "ia601504.us.archive.org",
     "ia801504.us.archive.org"

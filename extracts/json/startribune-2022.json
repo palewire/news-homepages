@@ -1,5 +1,5 @@
 {
-  "created": 1659476820,
+  "created": 1659531445,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/17/items/startribune-2022",
@@ -8912,31 +8912,83 @@
       "sha1": "2d1ac7df302850607b4efd157217a0b5579924c6"
     },
     {
+      "name": "startribune-2022-08-02T20:55:04.853013-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659491708",
+      "size": "36391",
+      "md5": "9b38ccceca195e547b36a7841fc4e7c5",
+      "crc32": "0ba41b8a",
+      "sha1": "140e1963a2e5327cebe70a3ea14675dc8a96013e",
+      "format": "JSON"
+    },
+    {
+      "name": "startribune-2022-08-02T20:55:04.853013-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659491709",
+      "size": "59572",
+      "md5": "7292e93a130522c54d6c0ba01797b9a7",
+      "crc32": "6823361d",
+      "sha1": "0d1f15f5786dd2211908f28a3d713d148bbe7d91",
+      "format": "JSON"
+    },
+    {
+      "name": "startribune-2022-08-02T20:55:04.853013-05:00.jpg",
+      "source": "original",
+      "mtime": "1659491706",
+      "size": "317025",
+      "md5": "2b01c667853eb8e4249dcca6e227fda9",
+      "crc32": "7d770885",
+      "sha1": "c9de4986ae29ccb6ec317425824a50112e920cb0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "startribune-2022-08-02T20:55:04.853013-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659491711",
+      "size": "1558",
+      "md5": "c7667a99eab124e9a46924668e62e0b2",
+      "crc32": "088468cd",
+      "sha1": "03c3928997f952bd233be9e672ac7c830d9857d4",
+      "format": "JSON"
+    },
+    {
+      "name": "startribune-2022-08-02T20:55:04.853013-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "startribune-2022-08-02T20:55:04.853013-05:00.jpg",
+      "mtime": "1659501928",
+      "size": "8740",
+      "md5": "295e8d3974160918a7d0961e76846ff4",
+      "crc32": "71925911",
+      "sha1": "9e37a4ceeb00be7d4fd6ab6c9a419bce2456805c"
+    },
+    {
       "name": "startribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fa69aaf63db6c677560739f60d88a5c7998c63fd",
-      "mtime": "1659468032",
-      "size": "183164",
-      "md5": "27f914500ea13995b8426dc7c24428d7",
-      "crc32": "db3e0162",
-      "sha1": "00dbff95302a1b0786e52c47bc621bf0b080dfdc",
+      "btih": "d1e07493f9afffd31f3574c9ff947ab3039bb398",
+      "mtime": "1659502004",
+      "size": "184239",
+      "md5": "d0cdfe3f6b618e9343decf9743e978bb",
+      "crc32": "9437afca",
+      "sha1": "56894fcc1d8921069d29a648bfa4987be165e985",
       "format": "Archive BitTorrent"
     },
     {
       "name": "startribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2e6b66ed8d2b703b515b17b1d9c99dc7",
+      "md5": "f339774c72455912acbaab781ddda860",
       "summation": "md5"
     },
     {
       "name": "startribune-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659447771",
-      "size": "999424",
-      "md5": "135f336c481d2f22e28de2efb030e707",
-      "crc32": "e6598260",
-      "sha1": "b9d4fc73200ca7ce9af1b0e3ae7daa825a4a21a7",
+      "mtime": "1659491715",
+      "size": "1003520",
+      "md5": "c4debf6361038ad36b9341fd88082b9c",
+      "crc32": "88030fd1",
+      "sha1": "9fe2570cc5495ee524bddaab2cd72e7673b6dfc9",
       "format": "Metadata"
     },
     {
@@ -8950,9 +9002,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 853,
-  "item_last_updated": 1659468032,
-  "item_size": 83752558,
+  "files_count": 858,
+  "item_last_updated": 1659502004,
+  "item_size": 84181015,
   "metadata": {
     "identifier": "startribune-2022",
     "collection": [
@@ -8969,10 +9021,51 @@
     "publicdate": "2022-04-01 22:42:36",
     "addeddate": "2022-04-01 22:42:36"
   },
-  "server": "ia802503.us.archive.org",
-  "uniq": 1664890165,
+  "server": "ia902503.us.archive.org",
+  "startribune-2022": [
+    {
+      "url": "https://m.startribune.com/?clmob=y&c=n&clmob=y&c=n",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_startribune_com-_-2022_08_03_01_29_10.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_startribune_com-_-2022_08_03_01_29_10.report.json",
+      "summary": {
+        "performance": 0.07,
+        "accessibility": 0.77,
+        "best-practices": 0.67,
+        "seo": 0.92,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://m.startribune.com/?clmob=y&c=n&clmob=y&c=n",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_startribune_com-_-2022_08_03_01_29_31.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_startribune_com-_-2022_08_03_01_29_31.report.json",
+      "summary": {
+        "performance": 0.09,
+        "accessibility": 0.77,
+        "best-practices": 0.67,
+        "seo": 0.92,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://m.startribune.com/?clmob=y&c=n&clmob=y&c=n",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_startribune_com-_-2022_08_03_01_29_52.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_startribune_com-_-2022_08_03_01_29_52.report.json",
+      "summary": {
+        "performance": 0.08,
+        "accessibility": 0.77,
+        "best-practices": 0.67,
+        "seo": 0.92,
+        "pwa": 0.4
+      }
+    }
+  ],
+  "uniq": 1602211548,
   "workable_servers": [
-    "ia802503.us.archive.org",
-    "ia902503.us.archive.org"
+    "ia902503.us.archive.org",
+    "ia802503.us.archive.org"
   ]
 }

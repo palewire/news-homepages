@@ -1,5 +1,6 @@
 {
-  "created": 1659487196,
+  "conflict": 1659531158,
+  "created": 1659531158,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/32/items/nettavisen-2022",
@@ -1433,21 +1434,32 @@
       "format": "JSON"
     },
     {
+      "name": "nettavisen-2022-08-03T02:39:05.353527+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nettavisen-2022-08-03T02:39:05.353527+02:00.jpg",
+      "mtime": "1659498269",
+      "size": "10851",
+      "md5": "de113757a565c27913777a19c9a294e9",
+      "crc32": "90e70896",
+      "sha1": "937486aba2cce813d29d7fbb3bac0e1ffa1a62e6"
+    },
+    {
       "name": "nettavisen-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f307f0f103eaa17d8b6a5097989284a82783901b",
-      "mtime": "1659487193",
-      "size": "30612",
-      "md5": "223bede7c7f4a8684328da2781009ea8",
-      "crc32": "bc49caed",
-      "sha1": "e99e88403c1d286fafbe22fa1d42d1aabb514101",
+      "btih": "ab74c0da0af547460216fe54e7aa6d42c695c628",
+      "mtime": "1659498274",
+      "size": "30819",
+      "md5": "b89d8f7c2d96203aec7d408944838df1",
+      "crc32": "815973bf",
+      "sha1": "966cc782e2f9683267a1cd2d4e6db3ebb8ef2e39",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nettavisen-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e8cae5eb76d6d2a6a515f9bb90c3c7cf",
+      "md5": "001b19110bb301689f3f000cb6302267",
       "summation": "md5"
     },
     {
@@ -1471,9 +1483,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 141,
-  "item_last_updated": 1659487193,
-  "item_size": 11464783,
+  "files_count": 142,
+  "item_last_updated": 1659498274,
+  "item_size": 11475841,
   "metadata": {
     "identifier": "nettavisen-2022",
     "collection": [
@@ -1495,15 +1507,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350942069,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "task_id": 3351416196,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 532162473,
+  "uniq": 248801074,
   "workable_servers": [
     "ia601503.us.archive.org"
   ]

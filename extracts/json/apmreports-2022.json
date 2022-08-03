@@ -1,5 +1,5 @@
 {
-  "created": 1659467627,
+  "created": 1659501567,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/32/items/apmreports-2022",
@@ -5118,31 +5118,83 @@
       "sha1": "2d67fb041a77a9ee6ecbd46cd1b5fb8d3ea4fca6"
     },
     {
+      "name": "apmreports-2022-08-02T20:50:31.547053-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659491434",
+      "size": "13477",
+      "md5": "d0fa27199d2278f50ca6d9653fe74024",
+      "crc32": "3dff406a",
+      "sha1": "f9b5a77e69eace88613166dfbc80979da7179f22",
+      "format": "JSON"
+    },
+    {
+      "name": "apmreports-2022-08-02T20:50:31.547053-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659491436",
+      "size": "10838",
+      "md5": "5b090348fad7363e37a758b28a980eaf",
+      "crc32": "ccaaba08",
+      "sha1": "2e5903f017dcc6ad1b100cb3850927dd7c58bb78",
+      "format": "JSON"
+    },
+    {
+      "name": "apmreports-2022-08-02T20:50:31.547053-05:00.jpg",
+      "source": "original",
+      "mtime": "1659491433",
+      "size": "333733",
+      "md5": "fd8e0c777bda39f7cdb3d13ed09d59b0",
+      "crc32": "ed9ee499",
+      "sha1": "fff3e89f33fa457aac7a7a242ac226b20a86f67f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "apmreports-2022-08-02T20:50:31.547053-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659491438",
+      "size": "1486",
+      "md5": "9fb9fbc999e57345ce3c06756f4e0e1b",
+      "crc32": "8eb3da50",
+      "sha1": "8cd588c4eeb948dcb990005868192c314991d2eb",
+      "format": "JSON"
+    },
+    {
+      "name": "apmreports-2022-08-02T20:50:31.547053-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "apmreports-2022-08-02T20:50:31.547053-05:00.jpg",
+      "mtime": "1659501534",
+      "size": "10787",
+      "md5": "0d064ab4c989de7529ee241810f75cc2",
+      "crc32": "837bc7d8",
+      "sha1": "620575445fdc3390f2e954ef1458101531f84123"
+    },
+    {
       "name": "apmreports-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e3936399f2a8f73b8e6c683b3d39e8d9123b3dcf",
-      "mtime": "1659467589",
-      "size": "105356",
-      "md5": "3ae214b46ff1ac16ca65baf93528fea6",
-      "crc32": "624a8503",
-      "sha1": "7a0b0a6e558bc93228d42bc221b404ef468d3b6c",
+      "btih": "768d52d12ce80200bfd98b512d185cecba28fea6",
+      "mtime": "1659501550",
+      "size": "106406",
+      "md5": "8ee4e9d1a609e4c5bc58e01bdcf4e71e",
+      "crc32": "f7a0bb59",
+      "sha1": "c2b02120980e9f560d428d8642161ff5c5314fe0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "apmreports-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "723d8ee4549746281fe21f2fb4956358",
+      "md5": "cbc5a3ee3a6f70256d8e85ce3ac0e596",
       "summation": "md5"
     },
     {
       "name": "apmreports-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659447567",
-      "size": "589824",
-      "md5": "84a9c1a5c90e2594eae17c52df4718c2",
-      "crc32": "d95664a2",
-      "sha1": "e69c620d2c8ad6a6c0a57b19b33347debd43b0f4",
+      "mtime": "1659491446",
+      "size": "593920",
+      "md5": "edb834786d0a61a4af4aa8856890bc60",
+      "crc32": "44918ff4",
+      "sha1": "d6c7e41e7b267fd4e535bf36f0c75eb5a1e854bc",
       "format": "Metadata"
     },
     {
@@ -5156,9 +5208,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 492,
-  "item_last_updated": 1659467589,
-  "item_size": 42613839,
+  "files_count": 497,
+  "item_last_updated": 1659501550,
+  "item_size": 42989306,
   "metadata": {
     "identifier": "apmreports-2022",
     "collection": [
@@ -5175,10 +5227,10 @@
     "publicdate": "2022-06-19 23:22:49",
     "addeddate": "2022-06-19 23:22:49"
   },
-  "server": "ia902504.us.archive.org",
-  "uniq": 265966878,
+  "server": "ia802504.us.archive.org",
+  "uniq": 500965461,
   "workable_servers": [
-    "ia902504.us.archive.org",
-    "ia802504.us.archive.org"
+    "ia802504.us.archive.org",
+    "ia902504.us.archive.org"
   ]
 }

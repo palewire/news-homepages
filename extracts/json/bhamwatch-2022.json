@@ -1,5 +1,5 @@
 {
-  "created": 1659482385,
+  "created": 1659530188,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/15/items/bhamwatch-2022",
@@ -2357,31 +2357,83 @@
       "format": "JSON"
     },
     {
+      "name": "bhamwatch-2022-08-02T18:18:53.374553-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bhamwatch-2022-08-02T18:18:53.374553-05:00.jpg",
+      "mtime": "1659494107",
+      "size": "10762",
+      "md5": "4318ef9121a02c762c3d03d2c9d707e9",
+      "crc32": "78fac190",
+      "sha1": "5f2c3f85120c765a696164186d53f3f856130af2"
+    },
+    {
+      "name": "bhamwatch-2022-08-03T07:35:35.021945-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659530138",
+      "size": "42228",
+      "md5": "479dd1882e9702cfed5b76cd2b418a36",
+      "crc32": "89c2a2ea",
+      "sha1": "d6cc4a1ac780a4b8307047c61e4157fcecef01b9",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-08-03T07:35:35.021945-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659530141",
+      "size": "25383",
+      "md5": "73e947f0eed54bf7aa917fe249323388",
+      "crc32": "c332c101",
+      "sha1": "96de4a0171fb02432aa2362e9b8f6c77c15b59cf",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-08-03T07:35:35.021945-05:00.jpg",
+      "source": "original",
+      "mtime": "1659530137",
+      "size": "380884",
+      "md5": "ed506d888b04f8933c0fa91c30b194f9",
+      "crc32": "0717f5be",
+      "sha1": "8655d5ccce4dc4ed85a60a215f64b6932912a1a8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bhamwatch-2022-08-03T07:35:35.021945-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659530142",
+      "size": "1501",
+      "md5": "328a54003e673e9930dc90bb2b99d281",
+      "crc32": "7ff5821a",
+      "sha1": "460df109b542272d912c6f4bc6067ebcb990b6f9",
+      "format": "JSON"
+    },
+    {
       "name": "bhamwatch-2022_archive.torrent",
       "source": "metadata",
-      "btih": "610cda3436aadf6c208f6d2a9223fd690aea42d2",
-      "mtime": "1659482381",
-      "size": "49248",
-      "md5": "9eaf24364505110b3ad6508450722d38",
-      "crc32": "ea0f0fac",
-      "sha1": "5cfc59deb0e2314bae9160e391c87ba21910e249",
+      "btih": "717130d9473d6ea36d467bc1b7ad3e2d68745045",
+      "mtime": "1659530183",
+      "size": "50313",
+      "md5": "4f210310d6195e65418330596105a085",
+      "crc32": "8283d37d",
+      "sha1": "026f1246dccb26ad3e2281003cdd37b5f2831a8b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bhamwatch-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7a0e019f5313d584f96460cf9b842b4b",
+      "md5": "aa54de634e765ef7f29463808de1cd8e",
       "summation": "md5"
     },
     {
       "name": "bhamwatch-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659482344",
-      "size": "286720",
-      "md5": "38bad7fac38661485ecbd6f4deb9c604",
-      "crc32": "b2617856",
-      "sha1": "bf82601e9ffebfe8376ce38c49e1cc9efaf16970",
+      "mtime": "1659530147",
+      "size": "294912",
+      "md5": "5df2790ea941348daffe1f5ac3a7b057",
+      "crc32": "1dfd6484",
+      "sha1": "e837660833307b6ee7c511b996d373f18f1fc610",
       "format": "Metadata"
     },
     {
@@ -2395,9 +2447,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 229,
-  "item_last_updated": 1659482381,
-  "item_size": 22857345,
+  "files_count": 234,
+  "item_last_updated": 1659530183,
+  "item_size": 23327360,
   "metadata": {
     "identifier": "bhamwatch-2022",
     "collection": [
@@ -2419,7 +2471,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350896050,
+      "task_id": 3351407514,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2427,7 +2479,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 339672602,
+  "uniq": 138365894,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]

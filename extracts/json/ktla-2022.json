@@ -1,5 +1,5 @@
 {
-  "created": 1659487102,
+  "created": 1659531008,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/0/items/ktla-2022",
@@ -12003,31 +12003,83 @@
       "format": "JSON"
     },
     {
+      "name": "ktla-2022-08-02T17:34:59.921884-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ktla-2022-08-02T17:34:59.921884-07:00.jpg",
+      "mtime": "1659498247",
+      "size": "11120",
+      "md5": "cdcb426d257e4956a119a151f66b7f3e",
+      "crc32": "87ab6b63",
+      "sha1": "f2b41abc45e2dcd9c634b6edf8d6d30d69e296e7"
+    },
+    {
+      "name": "ktla-2022-08-03T05:48:15.802637-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659530925",
+      "size": "42944",
+      "md5": "7ce96a66927668f161893f4caa4855d2",
+      "crc32": "ab13de1c",
+      "sha1": "d049a3de212e8d753465bc3fbb090daf422c233d",
+      "format": "JSON"
+    },
+    {
+      "name": "ktla-2022-08-03T05:48:15.802637-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659530927",
+      "size": "75521",
+      "md5": "d080150ae693e00a0b1baaabff2f64aa",
+      "crc32": "9d7d204e",
+      "sha1": "2ab6efc09b75bd7fe826e40b00c722f32b1067cd",
+      "format": "JSON"
+    },
+    {
+      "name": "ktla-2022-08-03T05:48:15.802637-07:00.jpg",
+      "source": "original",
+      "mtime": "1659530924",
+      "size": "350590",
+      "md5": "333e984823e9843ade8c74a0d49494c9",
+      "crc32": "19209454",
+      "sha1": "d4c488625163f16668d4ff2f012066c50995d2d3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ktla-2022-08-03T05:48:15.802637-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659530929",
+      "size": "1402",
+      "md5": "b6c80027c11519e1d622d68ed72bc511",
+      "crc32": "66886f88",
+      "sha1": "1e56b0799862ccb665fced4e4f19f011d781eb82",
+      "format": "JSON"
+    },
+    {
       "name": "ktla-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ed1f992ba00cac47f4540d4631cee903dac5b350",
-      "mtime": "1659487057",
-      "size": "239179",
-      "md5": "46381fdc05b36553fef4eb6eab966b95",
-      "crc32": "c78dff55",
-      "sha1": "73c676f834a5468a40b5673d8445c0332fbea8ad",
+      "btih": "e80b5974f63544bf343b4d8e66cb4e7a7e6ceaa7",
+      "mtime": "1659530999",
+      "size": "240199",
+      "md5": "be04ee3519354c7020ba0275f878ba7f",
+      "crc32": "da408003",
+      "sha1": "a68d7e690ff64ee3a24206e2edf2d2df664d4b52",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ktla-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ec7441638815424c147d760271403d0c",
+      "md5": "00103ce5dc9183c7c90d75cb583cdf58",
       "summation": "md5"
     },
     {
       "name": "ktla-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659486928",
-      "size": "1327104",
-      "md5": "4280a16e6946d101bf4a62e4baee34b1",
-      "crc32": "2e67d06b",
-      "sha1": "52ceef14d108a7e0d20ca12b5068aaef0fb22ac2",
+      "mtime": "1659530945",
+      "size": "1331200",
+      "md5": "0e534d2fe3d3137ae2a2a106513372f6",
+      "crc32": "f6848b99",
+      "sha1": "f7db7da05defc750cd4b0fa031a46f067c74bbc0",
       "format": "Metadata"
     },
     {
@@ -12041,9 +12093,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1148,
-  "item_last_updated": 1659487057,
-  "item_size": 129218636,
+  "files_count": 1153,
+  "item_last_updated": 1659530999,
+  "item_size": 129705329,
   "metadata": {
     "identifier": "ktla-2022",
     "collection": [
@@ -12065,7 +12117,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350941103,
+      "task_id": 3351415000,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12073,7 +12125,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1533730240,
+  "uniq": 2026501226,
   "workable_servers": [
     "ia902500.us.archive.org"
   ]

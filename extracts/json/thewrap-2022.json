@@ -1,5 +1,5 @@
 {
-  "created": 1659487550,
+  "created": 1659531581,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/1/items/thewrap-2022",
@@ -1582,31 +1582,83 @@
       "sha1": "b7097de78a5f4b1fefbd598a39c4dd50c15dc7bb"
     },
     {
+      "name": "thewrap-2022-08-02T18:57:47.767194-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659491871",
+      "size": "37899",
+      "md5": "7413732493446cd72c621b022431b85e",
+      "crc32": "6ab30c10",
+      "sha1": "5f87bd0697bbfc0b27f363c28ba7f5f4b4aa415d",
+      "format": "JSON"
+    },
+    {
+      "name": "thewrap-2022-08-02T18:57:47.767194-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659491873",
+      "size": "41520",
+      "md5": "64b28429c206548712e3903930a74b55",
+      "crc32": "bbe45b7d",
+      "sha1": "c1cfc028f4e9dece79e3851648d205a106052790",
+      "format": "JSON"
+    },
+    {
+      "name": "thewrap-2022-08-02T18:57:47.767194-07:00.jpg",
+      "source": "original",
+      "mtime": "1659491869",
+      "size": "241476",
+      "md5": "09ce59134ccaba46f7cbeeb471ebc932",
+      "crc32": "e6760c35",
+      "sha1": "bd1e598e0b23d08ae7cf4cd9004ae0d0a07e1f12",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thewrap-2022-08-02T18:57:47.767194-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659491875",
+      "size": "1459",
+      "md5": "2854a0a5235578333f1812cfbac5228c",
+      "crc32": "29be345f",
+      "sha1": "b012a23436396b00c8be0ec3f8a4ec2ff32e020b",
+      "format": "JSON"
+    },
+    {
+      "name": "thewrap-2022-08-02T18:57:47.767194-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thewrap-2022-08-02T18:57:47.767194-07:00.jpg",
+      "mtime": "1659502117",
+      "size": "9246",
+      "md5": "23e1f8ae339db992dc6584badcc1de53",
+      "crc32": "95ffcc02",
+      "sha1": "d21315182d2a67d47c731b88096230ff38db297a"
+    },
+    {
       "name": "thewrap-2022_archive.torrent",
       "source": "metadata",
-      "btih": "409e5577bf4975427fd1baa2c77813318d94b82e",
-      "mtime": "1659467974",
-      "size": "33019",
-      "md5": "a3b19707a63557543d88bb2b9127aed6",
-      "crc32": "f3172384",
-      "sha1": "5d043ad642c8299329f6c1869c149a41e1159fd2",
+      "btih": "29a9d8d0e60e61c9b42a75b3ab5a526c35cf115f",
+      "mtime": "1659502141",
+      "size": "34053",
+      "md5": "f212a5de8ce599190103beb48032d3c2",
+      "crc32": "4c3221e3",
+      "sha1": "f036e0fc5ec361c7b0aaa76ffe0a545b02e3f2ab",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thewrap-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a2ed9b3b9b1308b15018f023167b2886",
+      "md5": "6f0997e6c2f705e628e05cf7b808a9ad",
       "summation": "md5"
     },
     {
       "name": "thewrap-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659447930",
-      "size": "200704",
-      "md5": "af535920aebe0f8b6028dee1594fbeeb",
-      "crc32": "3323aff6",
-      "sha1": "2538267e76f4d07d1f7cf9a63f92221d522e27a7",
+      "mtime": "1659491880",
+      "size": "208896",
+      "md5": "6081c89a1d8207bca0e80c00db15881e",
+      "crc32": "acb78f12",
+      "sha1": "e3076523a02d16cf8947258893ca1f2240dd061f",
       "format": "Metadata"
     },
     {
@@ -1620,9 +1672,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 155,
-  "item_last_updated": 1659467974,
-  "item_size": 11115718,
+  "files_count": 160,
+  "item_last_updated": 1659502141,
+  "item_size": 11456544,
   "metadata": {
     "identifier": "thewrap-2022",
     "collection": [
@@ -1639,51 +1691,51 @@
     "publicdate": "2022-07-18 04:19:04",
     "addeddate": "2022-07-18 04:19:04"
   },
-  "server": "ia601401.us.archive.org",
+  "server": "ia801401.us.archive.org",
   "thewrap-2022": [
     {
       "url": "https://www.thewrap.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thewrap_com-_-2022_08_02_13_27_52.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thewrap_com-_-2022_08_02_13_27_52.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thewrap_com-_-2022_08_03_01_33_49.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thewrap_com-_-2022_08_03_01_33_49.report.json",
       "summary": {
-        "performance": 0.16,
+        "performance": 0.15,
         "accessibility": 1,
         "best-practices": 0.83,
-        "seo": 0.82,
+        "seo": 0.81,
         "pwa": 0.7
       }
     },
     {
       "url": "https://www.thewrap.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thewrap_com-_-2022_08_02_13_28_46.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thewrap_com-_-2022_08_02_13_28_46.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thewrap_com-_-2022_08_03_01_34_21.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thewrap_com-_-2022_08_03_01_34_21.report.json",
       "summary": {
-        "performance": 0.18,
+        "performance": 0.31,
         "accessibility": 1,
         "best-practices": 0.83,
-        "seo": 0.82,
+        "seo": 0.81,
         "pwa": 0.7
       }
     },
     {
       "url": "https://www.thewrap.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thewrap_com-_-2022_08_02_13_28_20.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thewrap_com-_-2022_08_02_13_28_20.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thewrap_com-_-2022_08_03_01_34_47.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thewrap_com-_-2022_08_03_01_34_47.report.json",
       "summary": {
-        "performance": 0.35,
+        "performance": 0.29,
         "accessibility": 1,
         "best-practices": 0.83,
-        "seo": 0.82,
+        "seo": 0.81,
         "pwa": 0.7
       }
     }
   ],
-  "uniq": 1725946321,
+  "uniq": 2050977134,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia801401.us.archive.org",
+    "ia601401.us.archive.org"
   ]
 }

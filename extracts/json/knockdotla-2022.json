@@ -1,5 +1,5 @@
 {
-  "created": 1659486972,
+  "created": 1659530903,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/24/items/knockdotla-2022",
@@ -13011,31 +13011,83 @@
       "format": "JSON"
     },
     {
+      "name": "knockdotla-2022-08-02T17:34:55.615062-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "knockdotla-2022-08-02T17:34:55.615062-07:00.jpg",
+      "mtime": "1659498125",
+      "size": "8744",
+      "md5": "4c22a031b231ff80a24601da840cb729",
+      "crc32": "9afee9f6",
+      "sha1": "2008f4a5d31bf05b85d1ca93e24c6b5b8ab38848"
+    },
+    {
+      "name": "knockdotla-2022-08-03T05:47:02.366459-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659530838",
+      "size": "10907",
+      "md5": "815b2d70aca0bfe0eacf3f3e9f93b8d1",
+      "crc32": "117e9d9c",
+      "sha1": "fc8f9a45c8340b5cf065a87b62b8827d85127efb",
+      "format": "JSON"
+    },
+    {
+      "name": "knockdotla-2022-08-03T05:47:02.366459-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659530841",
+      "size": "12285",
+      "md5": "326f08b1102510bbd08946b228254b2e",
+      "crc32": "5519f19b",
+      "sha1": "5ecefd571d66201559d5ebbbc0648c3a976316d6",
+      "format": "JSON"
+    },
+    {
+      "name": "knockdotla-2022-08-03T05:47:02.366459-07:00.jpg",
+      "source": "original",
+      "mtime": "1659530837",
+      "size": "245854",
+      "md5": "7dafd695f87292e189d85acbddfefb7e",
+      "crc32": "5996bf67",
+      "sha1": "6ecf2030f17778be64068be43b5993f929c3731d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "knockdotla-2022-08-03T05:47:02.366459-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659530842",
+      "size": "1430",
+      "md5": "bc6d3feaed17845da48a520144ca0467",
+      "crc32": "0d70bc8c",
+      "sha1": "628da79a42017e67b3f31d617477b632dd4e7c28",
+      "format": "JSON"
+    },
+    {
       "name": "knockdotla-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ae53429f8a2e4118537772b2affcc43096c09ed3",
-      "mtime": "1659486965",
-      "size": "263865",
-      "md5": "0572aed39a4a66354b55be2b7a762ee3",
-      "crc32": "f74e7230",
-      "sha1": "324682fc938cd12a2ce7cb05bf2a8e833889162a",
+      "btih": "7e993bb448cb02414dd7aeb1d053183f44ce9fd5",
+      "mtime": "1659530897",
+      "size": "264914",
+      "md5": "0fac93c508435de886a44dcb7366d41f",
+      "crc32": "3dbea619",
+      "sha1": "1c8fa456b62a6e7e84601ade86c20e6d0705a21e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "knockdotla-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f2c97ffe276d091b2c929d7bd8526bea",
+      "md5": "88e20c54debe9c0c1af2f8f7fce6f1e8",
       "summation": "md5"
     },
     {
       "name": "knockdotla-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659486910",
-      "size": "1437696",
-      "md5": "58de2e349d732bbac415b09fdf19e93a",
-      "crc32": "fe500502",
-      "sha1": "eb9a5881fc0baabd57fadf0943d79b996b0950da",
+      "mtime": "1659530846",
+      "size": "1445888",
+      "md5": "e12bd65630165da0320f0d78ef5c3970",
+      "crc32": "5102793f",
+      "sha1": "89d3dfa1b043d6edbbb3247ec80c25710448e6f4",
       "format": "Metadata"
     },
     {
@@ -13049,9 +13101,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1243,
-  "item_last_updated": 1659486965,
-  "item_size": 84320964,
+  "files_count": 1248,
+  "item_last_updated": 1659530897,
+  "item_size": 84609425,
   "metadata": {
     "identifier": "knockdotla-2022",
     "collection": [
@@ -13073,7 +13125,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350939707,
+      "task_id": 3351414043,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -13081,7 +13133,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1846353219,
+  "uniq": 647485738,
   "workable_servers": [
     "ia902507.us.archive.org"
   ]

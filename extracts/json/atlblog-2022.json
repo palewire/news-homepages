@@ -1,5 +1,5 @@
 {
-  "created": 1659482802,
+  "created": 1659506558,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/10/items/atlblog-2022",
@@ -2268,31 +2268,83 @@
       "sha1": "876bdaf3825ea83700cb52cd0af455494c69d132"
     },
     {
+      "name": "atlblog-2022-08-02T21:51:57.555072-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659491520",
+      "size": "25073",
+      "md5": "bb44b2b2f7ce413bcd98623026b9e5d8",
+      "crc32": "0079e203",
+      "sha1": "1cd3e03b1470d0a5b358bea6a3c0ee81d456ed60",
+      "format": "JSON"
+    },
+    {
+      "name": "atlblog-2022-08-02T21:51:57.555072-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659491523",
+      "size": "36034",
+      "md5": "b95e6940ad67604f82a867641a02dfa8",
+      "crc32": "4c7ea39f",
+      "sha1": "3270b8d26748cb09955e927baab5441fbddac32e",
+      "format": "JSON"
+    },
+    {
+      "name": "atlblog-2022-08-02T21:51:57.555072-04:00.jpg",
+      "source": "original",
+      "mtime": "1659491519",
+      "size": "273739",
+      "md5": "174c24fd0229db1310ddef78f7c5272b",
+      "crc32": "0f235bdb",
+      "sha1": "a1806952d19837cf702bf3abdf0b88ae32c8d3ac",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "atlblog-2022-08-02T21:51:57.555072-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659491524",
+      "size": "1465",
+      "md5": "3580845d9dbf64397b09e89e488a35f4",
+      "crc32": "4aa3505f",
+      "sha1": "3c2cd3e6d92e873a7f813374a65a95eefe3df740",
+      "format": "JSON"
+    },
+    {
+      "name": "atlblog-2022-08-02T21:51:57.555072-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "atlblog-2022-08-02T21:51:57.555072-04:00.jpg",
+      "mtime": "1659506470",
+      "size": "9332",
+      "md5": "67c502a70d159bb35d0720c6b95061a8",
+      "crc32": "732cff14",
+      "sha1": "98117419f8bb18a2c9b44afffb6ccdb646138e49"
+    },
+    {
       "name": "atlblog-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2ddc9b2b3330f919f86d9d5f678d417a3acb8c1b",
-      "mtime": "1659482783",
-      "size": "46837",
-      "md5": "6d207734f415af8b2d2c66e9c17439ab",
-      "crc32": "4a12709b",
-      "sha1": "2f42be9382d28c3d362aab95453a9f4b86c5b74b",
+      "btih": "01cea3e054ca9d69ee2279debc74e1b6b33d7200",
+      "mtime": "1659506474",
+      "size": "47891",
+      "md5": "5fdc6f678a4205113136e22ec6130411",
+      "crc32": "d981d1d5",
+      "sha1": "f8912159efc841531950fdf1f23c8099429d52f2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "atlblog-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0f0f4d796415dfea1390711cb0781eaf",
+      "md5": "c15046d265fc6c8344cef100a39aa7a9",
       "summation": "md5"
     },
     {
       "name": "atlblog-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659465784",
-      "size": "282624",
-      "md5": "e45a479936c39d65de7e1142b1e48a1c",
-      "crc32": "8558afe6",
-      "sha1": "4c4e7f0cc708b095896ebdaebece3ed3b9c6eb9b",
+      "mtime": "1659491528",
+      "size": "286720",
+      "md5": "aaad901b98662f8679bbbbcc7afa4a58",
+      "crc32": "67b6f0ba",
+      "sha1": "7bd64d891f3cd8f9d699661f31914bda4ca14443",
       "format": "Metadata"
     },
     {
@@ -2306,9 +2358,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 221,
-  "item_last_updated": 1659482783,
-  "item_size": 15742555,
+  "files_count": 226,
+  "item_last_updated": 1659506474,
+  "item_size": 16093348,
   "metadata": {
     "identifier": "atlblog-2022",
     "collection": [
@@ -2325,10 +2377,10 @@
     "publicdate": "2022-07-19 01:14:59",
     "addeddate": "2022-07-19 01:14:59"
   },
-  "server": "ia801406.us.archive.org",
-  "uniq": 284769976,
+  "server": "ia601406.us.archive.org",
+  "uniq": 1511299785,
   "workable_servers": [
-    "ia801406.us.archive.org",
-    "ia601406.us.archive.org"
+    "ia601406.us.archive.org",
+    "ia801406.us.archive.org"
   ]
 }

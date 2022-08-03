@@ -1,5 +1,5 @@
 {
-  "created": 1659482461,
+  "created": 1659530258,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/28/items/bonginoreport-2022",
@@ -10083,31 +10083,83 @@
       "format": "JSON"
     },
     {
+      "name": "bonginoreport-2022-08-02T19:19:11.001853-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bonginoreport-2022-08-02T19:19:11.001853-04:00.jpg",
+      "mtime": "1659494198",
+      "size": "8676",
+      "md5": "bee1f4650229196cc98d5b81b30e964c",
+      "crc32": "9355b2a3",
+      "sha1": "7de9727be36638891e342472c8ee675adee3c2f9"
+    },
+    {
+      "name": "bonginoreport-2022-08-03T08:36:28.916273-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659530196",
+      "size": "17215",
+      "md5": "d4c497641707c4cb0d8813fbfbd8fff8",
+      "crc32": "4a60b6ed",
+      "sha1": "f47edae75d1d7476ee3c44050d4b6273adc3b9ea",
+      "format": "JSON"
+    },
+    {
+      "name": "bonginoreport-2022-08-03T08:36:28.916273-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659530198",
+      "size": "19246",
+      "md5": "a2dc2269f7dd607d9af5d26982889b34",
+      "crc32": "314ee599",
+      "sha1": "6ddea3a0d2c7163f6b8bdca9c932b8c69db19bb0",
+      "format": "JSON"
+    },
+    {
+      "name": "bonginoreport-2022-08-03T08:36:28.916273-04:00.jpg",
+      "source": "original",
+      "mtime": "1659530195",
+      "size": "259763",
+      "md5": "b8697677891052759dd01b3b2670147b",
+      "crc32": "a9dc50b1",
+      "sha1": "324f0dd68675e078af643d30ec5d016e54444af3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bonginoreport-2022-08-03T08:36:28.916273-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659530200",
+      "size": "1486",
+      "md5": "a16a71ae0d2c7900adb941c5315ca296",
+      "crc32": "e772043a",
+      "sha1": "19325923ec653b35143fbdc24965f6ab7e1f0033",
+      "format": "JSON"
+    },
+    {
       "name": "bonginoreport-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9467478767bddb250e3a9ac74a0306b3cb99856c",
-      "mtime": "1659482452",
-      "size": "208268",
-      "md5": "f54b19453c6d020ae30517cba9ff90d5",
-      "crc32": "3973acdc",
-      "sha1": "61e9edcb1ad562f28102b908648cc2bd9255ad0f",
+      "btih": "d2eb7e3d56a024a323a1ce16a0684b0a6dc7c7d7",
+      "mtime": "1659530251",
+      "size": "209352",
+      "md5": "a70c215b6daf54c23fda211363f0beac",
+      "crc32": "e4485aa3",
+      "sha1": "690dfb4f64f5d8484290c5a381c0256b31fae39d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bonginoreport-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "df358b254cfb3627564b856f03b5221d",
+      "md5": "3dbf75ef2e4949e0c7129ead012a2402",
       "summation": "md5"
     },
     {
       "name": "bonginoreport-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659482439",
-      "size": "1134592",
-      "md5": "a172f368743a00cb7c7daae7840de3cf",
-      "crc32": "b5284a04",
-      "sha1": "598d9d9efa8a566eb9e9cef21eb1b22addc19834",
+      "mtime": "1659530204",
+      "size": "1138688",
+      "md5": "3c44fccc4b172fdbce45fde9614f0ede",
+      "crc32": "130b9de2",
+      "sha1": "8e1d33bee6ea93d2b35f078ca8de51aa98832840",
       "format": "Metadata"
     },
     {
@@ -10121,9 +10173,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 965,
-  "item_last_updated": 1659482452,
-  "item_size": 73527681,
+  "files_count": 970,
+  "item_last_updated": 1659530251,
+  "item_size": 73839247,
   "metadata": {
     "identifier": "bonginoreport-2022",
     "collection": [
@@ -10145,7 +10197,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350896628,
+      "task_id": 3351408154,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -10153,7 +10205,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 419292768,
+  "uniq": 1007635270,
   "workable_servers": [
     "ia902501.us.archive.org"
   ]

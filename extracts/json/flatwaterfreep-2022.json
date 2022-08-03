@@ -1,5 +1,5 @@
 {
-  "created": 1659487064,
+  "created": 1659530917,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/8/items/flatwaterfreep-2022",
@@ -2420,31 +2420,83 @@
       "sha1": "f68765cdf101811b317f678434ac1a6412ecf74b"
     },
     {
+      "name": "flatwaterfreep-2022-08-02T23:28:39.643914-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659500925",
+      "size": "11600",
+      "md5": "d48e281be1e4d744d92ebd056a6bb9eb",
+      "crc32": "7e37af48",
+      "sha1": "46917cb1817e17090f26240602f7777e2d473a4b",
+      "format": "JSON"
+    },
+    {
+      "name": "flatwaterfreep-2022-08-02T23:28:39.643914-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659500928",
+      "size": "11975",
+      "md5": "ea282f46a3e9cb33f3ead06b547c4099",
+      "crc32": "5669e558",
+      "sha1": "b5d9a0722867ab54f1d2a8b414a4b62b7579c9a7",
+      "format": "JSON"
+    },
+    {
+      "name": "flatwaterfreep-2022-08-02T23:28:39.643914-05:00.jpg",
+      "source": "original",
+      "mtime": "1659500924",
+      "size": "225223",
+      "md5": "c2be477c02846088ba73e92ab97bf9c1",
+      "crc32": "6d3f45a4",
+      "sha1": "a2327e4e5a1e350ca82d1fb505640836a043a7e0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "flatwaterfreep-2022-08-02T23:28:39.643914-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659500929",
+      "size": "1522",
+      "md5": "5e7c88cdf6e9f37a12dcbdccbe7f7d28",
+      "crc32": "d703f1e8",
+      "sha1": "eb0ec4fe22b4ecc723c2f0ab90e617a1ec86084f",
+      "format": "JSON"
+    },
+    {
+      "name": "flatwaterfreep-2022-08-02T23:28:39.643914-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "flatwaterfreep-2022-08-02T23:28:39.643914-05:00.jpg",
+      "mtime": "1659509236",
+      "size": "8772",
+      "md5": "8316bb7ad01364d963568a25279b0d98",
+      "crc32": "6b2cb1b3",
+      "sha1": "f68765cdf101811b317f678434ac1a6412ecf74b"
+    },
+    {
       "name": "flatwaterfreep-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e902715b2437352c8bde6a50036e06b03b8391c4",
-      "mtime": "1659471692",
-      "size": "51367",
-      "md5": "b4823dcba07c7c00a8bea1d413beee82",
-      "crc32": "395bb219",
-      "sha1": "f0205fd3ac0c21e21aacb24f3ed74fddc4be6cc5",
+      "btih": "b753ddf4151bd0e2284cfe7405efb329cc69b49a",
+      "mtime": "1659509240",
+      "size": "52456",
+      "md5": "c3e2a5141bec1df6ba45cb7bdb2cd205",
+      "crc32": "c51783f3",
+      "sha1": "a6c1bad969b32bf5aa042cdafafefc4affeaf038",
       "format": "Archive BitTorrent"
     },
     {
       "name": "flatwaterfreep-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5da08010649cbea5acaf93077a12a898",
+      "md5": "b7898c2d2035e8b7e2c3bb8c5d881237",
       "summation": "md5"
     },
     {
       "name": "flatwaterfreep-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659451959",
-      "size": "294912",
-      "md5": "0fd4ae43df73526d28cec0c5e11f9cfd",
-      "crc32": "5c198511",
-      "sha1": "7d3d6f6a79db5073aa87c770df45bdc9f37c75ba",
+      "mtime": "1659500933",
+      "size": "303104",
+      "md5": "1830e93ee0522096f0eb7092f7eee61b",
+      "crc32": "20c38b07",
+      "sha1": "22d4d4aabaf9986abdc764c64f94470b74c52865",
       "format": "Metadata"
     },
     {
@@ -2458,15 +2510,15 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 235,
+  "files_count": 240,
   "flatwaterfreep-2022": [
     {
       "url": "https://flatwaterfreepress.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/flatwaterfreepress_org-_-2022_08_02_14_27_47.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/flatwaterfreepress_org-_-2022_08_02_14_27_47.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/flatwaterfreepress_org-_-2022_08_03_02_59_56.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/flatwaterfreepress_org-_-2022_08_03_02_59_56.report.json",
       "summary": {
-        "performance": 0.32,
+        "performance": 0.46,
         "accessibility": 0.91,
         "best-practices": 1,
         "seo": 0.91,
@@ -2476,10 +2528,10 @@
     {
       "url": "https://flatwaterfreepress.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/flatwaterfreepress_org-_-2022_08_02_14_28_14.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/flatwaterfreepress_org-_-2022_08_02_14_28_14.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/flatwaterfreepress_org-_-2022_08_03_03_00_09.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/flatwaterfreepress_org-_-2022_08_03_03_00_09.report.json",
       "summary": {
-        "performance": 0.29,
+        "performance": 0.53,
         "accessibility": 0.91,
         "best-practices": 1,
         "seo": 0.91,
@@ -2489,10 +2541,10 @@
     {
       "url": "https://flatwaterfreepress.org/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/flatwaterfreepress_org-_-2022_08_02_14_28_01.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/flatwaterfreepress_org-_-2022_08_02_14_28_01.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/flatwaterfreepress_org-_-2022_08_03_03_00_21.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/flatwaterfreepress_org-_-2022_08_03_03_00_21.report.json",
       "summary": {
-        "performance": 0.32,
+        "performance": 0.44,
         "accessibility": 0.91,
         "best-practices": 1,
         "seo": 0.91,
@@ -2500,8 +2552,8 @@
       }
     }
   ],
-  "item_last_updated": 1659471692,
-  "item_size": 15554044,
+  "item_last_updated": 1659509240,
+  "item_size": 15822417,
   "metadata": {
     "identifier": "flatwaterfreep-2022",
     "collection": [
@@ -2518,10 +2570,10 @@
     "publicdate": "2022-07-09 03:58:17",
     "addeddate": "2022-07-09 03:58:17"
   },
-  "server": "ia801406.us.archive.org",
-  "uniq": 646776163,
+  "server": "ia601406.us.archive.org",
+  "uniq": 1525104217,
   "workable_servers": [
-    "ia801406.us.archive.org",
-    "ia601406.us.archive.org"
+    "ia601406.us.archive.org",
+    "ia801406.us.archive.org"
   ]
 }

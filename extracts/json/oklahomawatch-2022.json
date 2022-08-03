@@ -1,5 +1,5 @@
 {
-  "created": 1659487293,
+  "created": 1659531268,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/12/items/oklahomawatch-2022",
@@ -2357,21 +2357,32 @@
       "format": "JSON"
     },
     {
+      "name": "oklahomawatch-2022-08-02T19:40:43.041607-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oklahomawatch-2022-08-02T19:40:43.041607-05:00.jpg",
+      "mtime": "1659498772",
+      "size": "10414",
+      "md5": "d61f0af1958217cb497bcdaac7583322",
+      "crc32": "565b0f44",
+      "sha1": "162238d64e4eba6347add2385bc9a057610c909c"
+    },
+    {
       "name": "oklahomawatch-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cf9bc87b7343760187b30d7bd9865655e7fb97cc",
-      "mtime": "1659487289",
-      "size": "50007",
-      "md5": "536d5d4a24f3889e42da1c92bdc386bf",
-      "crc32": "52f723b1",
-      "sha1": "f483b0595057e12861fb1f33c38a9760420c1338",
+      "btih": "3678d326b21ecbe2a76f7b45c4ee75e97fa33d16",
+      "mtime": "1659498777",
+      "size": "50217",
+      "md5": "833585b3eb78a59825ee01df21d1c524",
+      "crc32": "6ac9304e",
+      "sha1": "607b4d1c007f47ce93158d0a12450ff7b4d2ee8d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "oklahomawatch-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "22cbf3acb402696804d6e18d782bd50c",
+      "md5": "40085b7579f28781736d450ffdc453a7",
       "summation": "md5"
     },
     {
@@ -2395,9 +2406,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 229,
-  "item_last_updated": 1659487289,
-  "item_size": 18181817,
+  "files_count": 230,
+  "item_last_updated": 1659498777,
+  "item_size": 18192441,
   "metadata": {
     "identifier": "oklahomawatch-2022",
     "collection": [
@@ -2414,21 +2425,51 @@
     "publicdate": "2022-07-09 04:01:49",
     "addeddate": "2022-07-09 04:01:49"
   },
-  "pending_tasks": true,
-  "server": "ia601502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "oklahomawatch-2022": [
     {
-      "task_id": 3350943060,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "url": "https://oklahomawatch.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/oklahomawatch_org-_-2022_08_03_00_17_13.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/oklahomawatch_org-_-2022_08_03_00_17_13.report.json",
+      "summary": {
+        "performance": 0.68,
+        "accessibility": 0.94,
+        "best-practices": 1,
+        "seo": 0.92,
+        "pwa": 0.9
+      }
+    },
+    {
+      "url": "https://oklahomawatch.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/oklahomawatch_org-_-2022_08_03_00_17_26.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/oklahomawatch_org-_-2022_08_03_00_17_26.report.json",
+      "summary": {
+        "performance": 0.92,
+        "accessibility": 0.94,
+        "best-practices": 1,
+        "seo": 0.92,
+        "pwa": 0.9
+      }
+    },
+    {
+      "url": "https://oklahomawatch.org/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/oklahomawatch_org-_-2022_08_03_00_17_37.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/oklahomawatch_org-_-2022_08_03_00_17_37.report.json",
+      "summary": {
+        "performance": 0.89,
+        "accessibility": 0.94,
+        "best-practices": 1,
+        "seo": 0.92,
+        "pwa": 0.9
+      }
     }
   ],
-  "uniq": 1229866150,
+  "server": "ia801502.us.archive.org",
+  "uniq": 810919636,
   "workable_servers": [
+    "ia801502.us.archive.org",
     "ia601502.us.archive.org"
   ]
 }

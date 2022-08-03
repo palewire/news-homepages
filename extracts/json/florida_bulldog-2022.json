@@ -1,5 +1,5 @@
 {
-  "created": 1659482741,
+  "created": 1659530553,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/5/items/florida_bulldog-2022",
@@ -2357,31 +2357,83 @@
       "format": "JSON"
     },
     {
+      "name": "florida_bulldog-2022-08-02T19:24:49.834837-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "florida_bulldog-2022-08-02T19:24:49.834837-04:00.jpg",
+      "mtime": "1659494554",
+      "size": "9594",
+      "md5": "75fdf045233cc3958f4de61e138652b9",
+      "crc32": "3fc9aea3",
+      "sha1": "4800124bc89290070529154b4c63bb28abc37f8f"
+    },
+    {
+      "name": "florida_bulldog-2022-08-03T08:41:46.708362-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659530510",
+      "size": "33803",
+      "md5": "2a8951488686c0478a3e00e2f35489bf",
+      "crc32": "520d22d4",
+      "sha1": "d3ef5e462711e282a5343c0bafc0513a07b3762c",
+      "format": "JSON"
+    },
+    {
+      "name": "florida_bulldog-2022-08-03T08:41:46.708362-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659530512",
+      "size": "18320",
+      "md5": "64b76010895a798443a861949cf2891b",
+      "crc32": "932b83ab",
+      "sha1": "4f1ce10091a5dcea781207a313d209d68a91eab4",
+      "format": "JSON"
+    },
+    {
+      "name": "florida_bulldog-2022-08-03T08:41:46.708362-04:00.jpg",
+      "source": "original",
+      "mtime": "1659530509",
+      "size": "296010",
+      "md5": "7c0ae479df6a55d664241e81dc9de629",
+      "crc32": "ae0d8dcf",
+      "sha1": "478d66b9d0f40c58a5928673cbb326fa8d0db0be",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "florida_bulldog-2022-08-03T08:41:46.708362-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659530513",
+      "size": "1527",
+      "md5": "1549c5f9ac4f94fd9de06b00c3ed93ec",
+      "crc32": "3921c22a",
+      "sha1": "892e9dd4040cc44d2d8eff4e95d4c64fd7cdc62b",
+      "format": "JSON"
+    },
+    {
       "name": "florida_bulldog-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4a9bc336e8b335b3c79921ccaad56235ef52182e",
-      "mtime": "1659482736",
-      "size": "50398",
-      "md5": "0c9ad95f08e9f18db7fd14a58de7a631",
-      "crc32": "5f35d56a",
-      "sha1": "a4b7688a8e4f3cbc4590e65347f1b79187dac1ac",
+      "btih": "e006f83065e073e3d8a1dfedb1432589ccf4e18f",
+      "mtime": "1659530550",
+      "size": "51472",
+      "md5": "97f3c49323c5df77a4fd8898e1ca1c13",
+      "crc32": "b3cccf48",
+      "sha1": "e89004bcd2ce5da01650255296c794756d666ff0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "florida_bulldog-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "429187034eb3e11fdcdfed33b01aaba3",
+      "md5": "df511a57cc9f69fc8ebbb641994b5e14",
       "summation": "md5"
     },
     {
       "name": "florida_bulldog-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659482700",
-      "size": "286720",
-      "md5": "fd1eff965c39bff9620b5c9dc925e948",
-      "crc32": "2eedb71e",
-      "sha1": "c172d090d0e73cf4ee4b468cf40d9587091edf91",
+      "mtime": "1659530515",
+      "size": "294912",
+      "md5": "de573e68c6cd76203719a2470fad5548",
+      "crc32": "34540542",
+      "sha1": "274f225d656a49be711f1bfd2f235883ff9969e8",
       "format": "Metadata"
     },
     {
@@ -2395,9 +2447,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 229,
-  "item_last_updated": 1659482736,
-  "item_size": 16843345,
+  "files_count": 234,
+  "item_last_updated": 1659530550,
+  "item_size": 17211865,
   "metadata": {
     "identifier": "florida_bulldog-2022",
     "collection": [
@@ -2419,7 +2471,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350898954,
+      "task_id": 3351410854,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2427,7 +2479,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 691653020,
+  "uniq": 1050783833,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

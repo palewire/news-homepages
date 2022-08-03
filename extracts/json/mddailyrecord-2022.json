@@ -1,5 +1,5 @@
 {
-  "created": 1659487102,
+  "created": 1659531080,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/24/items/mddailyrecord-2022",
@@ -2105,31 +2105,83 @@
       "format": "JSON"
     },
     {
+      "name": "mddailyrecord-2022-08-02T20:37:33.120478-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mddailyrecord-2022-08-02T20:37:33.120478-04:00.jpg",
+      "mtime": "1659498206",
+      "size": "10266",
+      "md5": "821cdae29079d59a5711e3d42f532f4b",
+      "crc32": "6d07ad1d",
+      "sha1": "5722af355ff9b0cdfe8b8749dc1744ca42032183"
+    },
+    {
+      "name": "mddailyrecord-2022-08-03T08:50:31.290146-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659531034",
+      "size": "50383",
+      "md5": "76c55d7b342b6a43b0e778d4e7d5c5d4",
+      "crc32": "753efe36",
+      "sha1": "713b2073286f1109a5f6b549d86018f96c473060",
+      "format": "JSON"
+    },
+    {
+      "name": "mddailyrecord-2022-08-03T08:50:31.290146-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659531035",
+      "size": "51526",
+      "md5": "c60b87ab7d376ca01d5b286ba33deba7",
+      "crc32": "5fc94bf8",
+      "sha1": "79acde73ab5fc93336caaaa509642f903d0ae2b1",
+      "format": "JSON"
+    },
+    {
+      "name": "mddailyrecord-2022-08-03T08:50:31.290146-04:00.jpg",
+      "source": "original",
+      "mtime": "1659531032",
+      "size": "372436",
+      "md5": "a1c4048e611bcd19462d4a40da1bdf2c",
+      "crc32": "eb4c4074",
+      "sha1": "773ea626f07809d25aaa26ffb88381bde61ca33a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mddailyrecord-2022-08-03T08:50:31.290146-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659531037",
+      "size": "1495",
+      "md5": "50751bbc5adc4ca304dbfcc62bb42ff4",
+      "crc32": "4180b6d4",
+      "sha1": "602a05a33c9afa672f347dedbc1486c50202ada6",
+      "format": "JSON"
+    },
+    {
       "name": "mddailyrecord-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c4353080f0935cdf1bebc5bbab950182156067f7",
-      "mtime": "1659487100",
-      "size": "44844",
-      "md5": "ed83353a11ce4120999adecf52e5287c",
-      "crc32": "cacc0cec",
-      "sha1": "a39f9365a1855afc6efe34d47470fe0b902066f2",
+      "btih": "42b919c017ed751efd9642e38cebd6644357563b",
+      "mtime": "1659531077",
+      "size": "45929",
+      "md5": "6a322687266f4ccbb14000b85845bc06",
+      "crc32": "3d68b3aa",
+      "sha1": "afd8ef094b204b8689df023fee7f53fecea3e25c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mddailyrecord-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "14332d2fee3d37e730de1ec64eeda6cc",
+      "md5": "7f673fa0bdad263bf741477b63649d20",
       "summation": "md5"
     },
     {
       "name": "mddailyrecord-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659487064",
-      "size": "262144",
-      "md5": "56afe4ad11565e041cc593bb3a972801",
-      "crc32": "ddf6263d",
-      "sha1": "eb0c66fa47596fd7fe677bcb67f456ae94a2ad16",
+      "mtime": "1659531042",
+      "size": "270336",
+      "md5": "a129e7f9ab7074a172772b6bb8984bc6",
+      "crc32": "e0e7d633",
+      "sha1": "7518a686969c6e5e40dbe485eea78118b91d052d",
       "format": "Metadata"
     },
     {
@@ -2143,9 +2195,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 205,
-  "item_last_updated": 1659487100,
-  "item_size": 19342497,
+  "files_count": 210,
+  "item_last_updated": 1659531077,
+  "item_size": 19837880,
   "metadata": {
     "identifier": "mddailyrecord-2022",
     "collection": [
@@ -2167,7 +2219,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350941011,
+      "task_id": 3351415585,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2175,7 +2227,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1281768309,
+  "uniq": 1537150719,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]

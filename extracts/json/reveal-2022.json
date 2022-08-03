@@ -1,5 +1,5 @@
 {
-  "created": 1659477505,
+  "created": 1659531360,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/3/items/reveal-2022",
@@ -5002,31 +5002,83 @@
       "sha1": "0838cff305bf64b9abf692c9cb347da8d1a270ee"
     },
     {
+      "name": "reveal-2022-08-02T21:41:52.328774-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659501715",
+      "size": "14315",
+      "md5": "a9b635e5d16c24b7157d4e4e479d2df3",
+      "crc32": "4040619f",
+      "sha1": "a1342a55fd11a24b12e3971224a1aaafc775daec",
+      "format": "JSON"
+    },
+    {
+      "name": "reveal-2022-08-02T21:41:52.328774-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659501717",
+      "size": "24296",
+      "md5": "413e9e210a6bab88f3173f64a612e107",
+      "crc32": "6c9830b7",
+      "sha1": "05f476d714c16135b65bc0a1b9aa6e4042d3449e",
+      "format": "JSON"
+    },
+    {
+      "name": "reveal-2022-08-02T21:41:52.328774-07:00.jpg",
+      "source": "original",
+      "mtime": "1659501714",
+      "size": "253377",
+      "md5": "f81b174398804b6a1c65fb8017f6be5d",
+      "crc32": "3d91f351",
+      "sha1": "698b24ab08257ad80984420c25b7492ff4c096a3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reveal-2022-08-02T21:41:52.328774-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659501719",
+      "size": "1459",
+      "md5": "9f0e407804766f80403b0a1b502084e0",
+      "crc32": "3b5e1157",
+      "sha1": "f3e1841106dc89732efe2ff8f18c43614cd245b5",
+      "format": "JSON"
+    },
+    {
+      "name": "reveal-2022-08-02T21:41:52.328774-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reveal-2022-08-02T21:41:52.328774-07:00.jpg",
+      "mtime": "1659511127",
+      "size": "10028",
+      "md5": "a693130e5189c3d5dea86b0ae95a1025",
+      "crc32": "54e20b7e",
+      "sha1": "b4db16a3e2f1244c684ef7de90ad1b8bae985d80"
+    },
+    {
       "name": "reveal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8b9b87d1cda676496ae1c987f3d4c919c4d5bd07",
-      "mtime": "1659477444",
-      "size": "100662",
-      "md5": "067ff6334b092a26c7691ec08a7a4608",
-      "crc32": "decf837c",
-      "sha1": "b7cccb534433b393ad709a64a13a61650d738f28",
+      "btih": "2859d9935130299c55b928a34907a2092ac0ab3e",
+      "mtime": "1659511171",
+      "size": "101712",
+      "md5": "7da030f852173e92217b55a083b9e749",
+      "crc32": "5c8f44a0",
+      "sha1": "1d754875b098a81f3401620f4d18362c62ce0098",
       "format": "Archive BitTorrent"
     },
     {
       "name": "reveal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dc5ffe2f52c9e295034d6bc707dd5a22",
+      "md5": "07a6fb60fbe6e3d59d93cf7aff99174c",
       "summation": "md5"
     },
     {
       "name": "reveal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659457083",
-      "size": "569344",
-      "md5": "a88d2ae3ee041e0377629b34a747ecbd",
-      "crc32": "f7195af6",
-      "sha1": "962a2541a00c3694b8c5883de04842f0a6e3d451",
+      "mtime": "1659501724",
+      "size": "577536",
+      "md5": "959a7afeb2905d0a590a55b5a49eb1a3",
+      "crc32": "3b07d5cc",
+      "sha1": "0578e96b0c53425abaa6cd738f9a79e81737107b",
       "format": "Metadata"
     },
     {
@@ -5040,9 +5092,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 481,
-  "item_last_updated": 1659477444,
-  "item_size": 33445557,
+  "files_count": 486,
+  "item_last_updated": 1659511171,
+  "item_size": 33758274,
   "metadata": {
     "identifier": "reveal-2022",
     "collection": [
@@ -5059,8 +5111,49 @@
     "publicdate": "2022-06-19 23:28:01",
     "addeddate": "2022-06-19 23:28:01"
   },
+  "reveal-2022": [
+    {
+      "url": "https://revealnews.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/revealnews_org-_-2022_08_03_04_02_07.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/revealnews_org-_-2022_08_03_04_02_07.report.json",
+      "summary": {
+        "performance": 0.58,
+        "accessibility": 0.82,
+        "best-practices": 0.92,
+        "seo": 0.98,
+        "pwa": 0.9
+      }
+    },
+    {
+      "url": "https://revealnews.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/revealnews_org-_-2022_08_03_04_02_20.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/revealnews_org-_-2022_08_03_04_02_20.report.json",
+      "summary": {
+        "performance": 0.77,
+        "accessibility": 0.82,
+        "best-practices": 0.92,
+        "seo": 0.98,
+        "pwa": 0.9
+      }
+    },
+    {
+      "url": "https://revealnews.org/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/revealnews_org-_-2022_08_03_04_02_31.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/revealnews_org-_-2022_08_03_04_02_31.report.json",
+      "summary": {
+        "performance": 0.78,
+        "accessibility": 0.82,
+        "best-practices": 0.92,
+        "seo": 0.98,
+        "pwa": 0.9
+      }
+    }
+  ],
   "server": "ia802501.us.archive.org",
-  "uniq": 687059681,
+  "uniq": 180674982,
   "workable_servers": [
     "ia802501.us.archive.org",
     "ia902501.us.archive.org"

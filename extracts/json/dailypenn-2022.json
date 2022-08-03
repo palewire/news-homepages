@@ -1,15 +1,15 @@
 {
-  "created": 1659486996,
+  "created": 1659530873,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dailypenn-2022": [
     {
       "url": "https://www.thedp.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thedp_com-_-2022_08_02_14_24_30.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thedp_com-_-2022_08_02_14_24_30.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thedp_com-_-2022_08_03_02_55_44.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thedp_com-_-2022_08_03_02_55_44.report.json",
       "summary": {
-        "performance": 0.32,
+        "performance": 0.22,
         "accessibility": 0.77,
         "best-practices": 0.92,
         "seo": 0.77,
@@ -19,12 +19,12 @@
     {
       "url": "https://www.thedp.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thedp_com-_-2022_08_02_14_24_52.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thedp_com-_-2022_08_02_14_24_52.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thedp_com-_-2022_08_03_02_56_04.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thedp_com-_-2022_08_03_02_56_04.report.json",
       "summary": {
-        "performance": 0.39,
+        "performance": 0.23,
         "accessibility": 0.77,
-        "best-practices": 0.92,
+        "best-practices": 0.67,
         "seo": 0.77,
         "pwa": 0.6
       }
@@ -32,12 +32,12 @@
     {
       "url": "https://www.thedp.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thedp_com-_-2022_08_02_14_25_13.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thedp_com-_-2022_08_02_14_25_13.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thedp_com-_-2022_08_03_02_56_25.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thedp_com-_-2022_08_03_02_56_25.report.json",
       "summary": {
-        "performance": 0.4,
+        "performance": 0.32,
         "accessibility": 0.77,
-        "best-practices": 0.92,
+        "best-practices": 0.67,
         "seo": 0.77,
         "pwa": 0.6
       }
@@ -889,31 +889,83 @@
       "sha1": "d48a5dc6b3c181f0473f2e0e971bcfc18f9d0508"
     },
     {
+      "name": "dailypenn-2022-08-03T00:26:00.649037-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659500764",
+      "size": "25509",
+      "md5": "4cd6dcb46018fc82902d0db8a51c1a9c",
+      "crc32": "243fbe65",
+      "sha1": "66eb7ce2561592d96301326e2ec063b05b0cab94",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-08-03T00:26:00.649037-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659500765",
+      "size": "23508",
+      "md5": "7752274a293fd1df392bf6e105e27508",
+      "crc32": "f43d271e",
+      "sha1": "3ae334eea9d13f22033efe9062d72cf8fe35c51e",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-08-03T00:26:00.649037-04:00.jpg",
+      "source": "original",
+      "mtime": "1659500762",
+      "size": "318620",
+      "md5": "7d485ec201a2a543658330e139052a83",
+      "crc32": "5f73786c",
+      "sha1": "088633cc83b6ff590e85fdf12c97a39f61e6f3cb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailypenn-2022-08-03T00:26:00.649037-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659500767",
+      "size": "1450",
+      "md5": "f15143f8d3269c3c1920617be3f755f9",
+      "crc32": "653e2f11",
+      "sha1": "a4882bc83b1339bda5f2e4f34a7bfd8f657086fb",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-08-03T00:26:00.649037-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailypenn-2022-08-03T00:26:00.649037-04:00.jpg",
+      "mtime": "1659508873",
+      "size": "9352",
+      "md5": "6cee4db45c07527990c9bfbf218d8b4a",
+      "crc32": "e4ec6720",
+      "sha1": "d06e41ce21e37153200f2706f41eb7bc575eee45"
+    },
+    {
       "name": "dailypenn-2022_archive.torrent",
       "source": "metadata",
-      "btih": "595979acd4bfa41df874fd7c9a3a6dac9be818b8",
-      "mtime": "1659471344",
-      "size": "18558",
-      "md5": "8539329f9c7d23f27a07ba3c9bde3e22",
-      "crc32": "a3776426",
-      "sha1": "8e3a761bc111e684e782d41bf69fad121b1c6263",
+      "btih": "b4dd4a7e072a8e8e2516bc421de4bb32c1ef8a93",
+      "mtime": "1659508880",
+      "size": "19622",
+      "md5": "c7b714db8dea3badd16f8d3dec42c26f",
+      "crc32": "6db96e29",
+      "sha1": "06bf7f4d79f0d27e7c7440c080d6135fe2ee9c76",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailypenn-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "592abaf81ada259e28145330620efb57",
+      "md5": "d77ac1644612ebd78cf9fe9535ac93d3",
       "summation": "md5"
     },
     {
       "name": "dailypenn-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659451828",
-      "size": "118784",
-      "md5": "bfa19b6613d9169148a20b9013bb07ac",
-      "crc32": "505fbc38",
-      "sha1": "55b15c2b8279e5ef98f942febb2b4789483c87f5",
+      "mtime": "1659500769",
+      "size": "131072",
+      "md5": "eec302160f75e47417de07134f4a4517",
+      "crc32": "cd423980",
+      "sha1": "21af4ab16086cebf4c399d3e8c94f94b9e016873",
       "format": "Metadata"
     },
     {
@@ -927,9 +979,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 85,
-  "item_last_updated": 1659471344,
-  "item_size": 6160933,
+  "files_count": 90,
+  "item_last_updated": 1659508880,
+  "item_size": 6552724,
   "metadata": {
     "identifier": "dailypenn-2022",
     "collection": [
@@ -947,7 +999,7 @@
     "addeddate": "2022-07-26 02:41:30"
   },
   "server": "ia801507.us.archive.org",
-  "uniq": 533391618,
+  "uniq": 690581891,
   "workable_servers": [
     "ia801507.us.archive.org",
     "ia601507.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1659487200,
+  "created": 1659509485,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/22/items/kcautv-2022",
@@ -8798,31 +8798,83 @@
       "sha1": "98699635d6592d87b6a06d9ca1ddeb804a590f78"
     },
     {
+      "name": "kcautv-2022-08-02T23:32:55.362297-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659501178",
+      "size": "42391",
+      "md5": "ffeb23a9cedb10c55210d0eeaf104c57",
+      "crc32": "6d527380",
+      "sha1": "95ef039467555dbd1c7380be00a448bc494378dd",
+      "format": "JSON"
+    },
+    {
+      "name": "kcautv-2022-08-02T23:32:55.362297-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659501180",
+      "size": "86333",
+      "md5": "65a29556836a610f1bdeff628997ad4a",
+      "crc32": "9f79ca9a",
+      "sha1": "02dceef2ce3973303c227f12431b6c11ca7f3cd6",
+      "format": "JSON"
+    },
+    {
+      "name": "kcautv-2022-08-02T23:32:55.362297-05:00.jpg",
+      "source": "original",
+      "mtime": "1659501177",
+      "size": "299505",
+      "md5": "0c46d5c23ef69c0572e3633a2de6ffd3",
+      "crc32": "ce2bf77c",
+      "sha1": "2c5c6a70cedeab622026800667d807272169802b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kcautv-2022-08-02T23:32:55.362297-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659501183",
+      "size": "1530",
+      "md5": "65f51b17167a6162cab38eb7c2d764de",
+      "crc32": "cf0b566f",
+      "sha1": "10104c820a663949311fd949fea6c4b2fe16645b",
+      "format": "JSON"
+    },
+    {
+      "name": "kcautv-2022-08-02T23:32:55.362297-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kcautv-2022-08-02T23:32:55.362297-05:00.jpg",
+      "mtime": "1659509445",
+      "size": "10955",
+      "md5": "e073e38c51b3f9d904fb0645976d1df4",
+      "crc32": "7def37bf",
+      "sha1": "de2bb9360e9340581a0719c2a76dee8f6d21637d"
+    },
+    {
       "name": "kcautv-2022_archive.torrent",
       "source": "metadata",
-      "btih": "35cf66f19d08823f1a2c3f1fd8e79c40f776fff9",
-      "mtime": "1659471973",
-      "size": "177190",
-      "md5": "86df621cc835c4f943ce87bf6458e7dd",
-      "crc32": "402bd079",
-      "sha1": "e6e1e7586fd6def95e38ae5d31beb0c0b81f5fb6",
+      "btih": "9d448de8505c4bd391a52ce36e6c9ab77b75da06",
+      "mtime": "1659509458",
+      "size": "178240",
+      "md5": "d3e32aaf0343b56c16d1ba82bb5e1d1d",
+      "crc32": "a9950bba",
+      "sha1": "60d720969aac12427011afc2729c849c38d0ce44",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kcautv-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1613d4029eaa4349e4d04179ee779e91",
+      "md5": "9f0c34577706e4c2b1c00b2e3493c910",
       "summation": "md5"
     },
     {
       "name": "kcautv-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659452168",
-      "size": "978944",
-      "md5": "d6cc14a36a3d93ec8d5160a79f4337ec",
-      "crc32": "791bdc7d",
-      "sha1": "8390f92f23220ad49fd42f71942b0fb5f24ec760",
+      "mtime": "1659501194",
+      "size": "983040",
+      "md5": "a93d8a7f77aaf82bead359251d216caa",
+      "crc32": "7ae74ef5",
+      "sha1": "5d0f6ebad0041c9c13444e455a6e9ed7a5c63ba3",
       "format": "Metadata"
     },
     {
@@ -8836,50 +8888,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 842,
-  "item_last_updated": 1659471973,
-  "item_size": 92938265,
-  "kcautv-2022": [
-    {
-      "url": "https://www.siouxlandproud.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_siouxlandproud_com-_-2022_08_02_14_33_45.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_siouxlandproud_com-_-2022_08_02_14_33_45.report.json",
-      "summary": {
-        "performance": 0.07,
-        "accessibility": 0.82,
-        "best-practices": 0.75,
-        "seo": 0.84,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.siouxlandproud.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_siouxlandproud_com-_-2022_08_02_14_34_31.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_siouxlandproud_com-_-2022_08_02_14_34_31.report.json",
-      "summary": {
-        "performance": 0.07,
-        "accessibility": 0.82,
-        "best-practices": 0.92,
-        "seo": 0.84,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.siouxlandproud.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_siouxlandproud_com-_-2022_08_02_14_35_09.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_siouxlandproud_com-_-2022_08_02_14_35_09.report.json",
-      "summary": {
-        "performance": 0.15,
-        "accessibility": 0.8,
-        "best-practices": 0.92,
-        "seo": 0.83,
-        "pwa": 0.4
-      }
-    }
-  ],
+  "files_count": 847,
+  "item_last_updated": 1659509458,
+  "item_size": 93384125,
   "metadata": {
     "identifier": "kcautv-2022",
     "collection": [
@@ -8897,7 +8908,7 @@
     "addeddate": "2022-03-25 14:09:11"
   },
   "server": "ia802501.us.archive.org",
-  "uniq": 1850897333,
+  "uniq": 647977378,
   "workable_servers": [
     "ia802501.us.archive.org",
     "ia902501.us.archive.org"

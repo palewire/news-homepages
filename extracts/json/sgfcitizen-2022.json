@@ -1,5 +1,5 @@
 {
-  "created": 1659487444,
+  "created": 1659531426,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/12/items/sgfcitizen-2022",
@@ -2316,31 +2316,83 @@
       "sha1": "c929afba0c1e7f01b79cb1a5af2ad9f4ce4e765e"
     },
     {
+      "name": "sgfcitizen-2022-08-02T23:43:20.363590-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659501807",
+      "size": "34318",
+      "md5": "311f3530f68ec8e115b937f0e0e4d06c",
+      "crc32": "6f730568",
+      "sha1": "6312b71673dd06382491cd543ff5ebb83e08265d",
+      "format": "JSON"
+    },
+    {
+      "name": "sgfcitizen-2022-08-02T23:43:20.363590-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659501809",
+      "size": "36077",
+      "md5": "fd2dd058255d3aa5ec44f430eadcc4d7",
+      "crc32": "d14b0e52",
+      "sha1": "036fc89f2351ee6d802450255320a96b92ffffa0",
+      "format": "JSON"
+    },
+    {
+      "name": "sgfcitizen-2022-08-02T23:43:20.363590-05:00.jpg",
+      "source": "original",
+      "mtime": "1659501805",
+      "size": "279434",
+      "md5": "5ea48b65fc2165e49c629ba4864a33cd",
+      "crc32": "54bcb22f",
+      "sha1": "fef237877623437eb0edc719ba2fe788e396437e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sgfcitizen-2022-08-02T23:43:20.363590-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659501810",
+      "size": "1459",
+      "md5": "c80b7bda3b159d6e5602f54bfe253f6d",
+      "crc32": "43ee302d",
+      "sha1": "1398569e8a786e6a6648ca175fea0acb0d25ddbb",
+      "format": "JSON"
+    },
+    {
+      "name": "sgfcitizen-2022-08-02T23:43:20.363590-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sgfcitizen-2022-08-02T23:43:20.363590-05:00.jpg",
+      "mtime": "1659509899",
+      "size": "9724",
+      "md5": "8546c9dc2ab251448b81ef05dd0e6be9",
+      "crc32": "5e79fee7",
+      "sha1": "8d3f07c3d11d630ae4be6e05a737697c6d1dbf15"
+    },
+    {
       "name": "sgfcitizen-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0d6197323231515725600ac30e380eba5b796bfd",
-      "mtime": "1659477406",
-      "size": "48443",
-      "md5": "211d08f6cd17dc550982bdadf6125eef",
-      "crc32": "7894266b",
-      "sha1": "5611618b4816ddb091ba4051eb17544e5ee11855",
+      "btih": "1a327e94ebf85f02985b8fee279dcb0ce6bcfa2a",
+      "mtime": "1659509948",
+      "size": "49492",
+      "md5": "3c6427fe673c33f31380cfb007491618",
+      "crc32": "6cb66d35",
+      "sha1": "699b33fbb37db40f164c77baeb2e2a128901bdce",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sgfcitizen-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a7b1a3a0ab5c47aac59faf8a13bc6102",
+      "md5": "683a05149e9ca06e797f790dabd93c22",
       "summation": "md5"
     },
     {
       "name": "sgfcitizen-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659457195",
-      "size": "282624",
-      "md5": "d27954ca7a6043de38b8ca9cfb75b195",
-      "crc32": "c217db69",
-      "sha1": "ea3f57fd05f1367c89fb9476649a0f8dfb785402",
+      "mtime": "1659501815",
+      "size": "286720",
+      "md5": "a8ce9f8bf9347bf233ea30fd95bbaeba",
+      "crc32": "1cb69dba",
+      "sha1": "de4ae5fefa325d792971866fe02853b282b9937b",
       "format": "Metadata"
     },
     {
@@ -2354,9 +2406,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 225,
-  "item_last_updated": 1659477406,
-  "item_size": 18415832,
+  "files_count": 230,
+  "item_last_updated": 1659509948,
+  "item_size": 18781989,
   "metadata": {
     "identifier": "sgfcitizen-2022",
     "collection": [
@@ -2373,26 +2425,13 @@
     "publicdate": "2022-07-09 04:04:23",
     "addeddate": "2022-07-09 04:04:23"
   },
-  "server": "ia801401.us.archive.org",
+  "server": "ia601401.us.archive.org",
   "sgfcitizen-2022": [
     {
       "url": "https://sgfcitizen.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/sgfcitizen_org-_-2022_08_02_15_49_07.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/sgfcitizen_org-_-2022_08_02_15_49_07.report.json",
-      "summary": {
-        "performance": 0.53,
-        "accessibility": 0.86,
-        "best-practices": 0.92,
-        "seo": 0.91,
-        "pwa": 0.9
-      }
-    },
-    {
-      "url": "https://sgfcitizen.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/sgfcitizen_org-_-2022_08_02_15_49_22.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/sgfcitizen_org-_-2022_08_02_15_49_22.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/sgfcitizen_org-_-2022_08_03_04_04_17.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/sgfcitizen_org-_-2022_08_03_04_04_17.report.json",
       "summary": {
         "performance": 0.59,
         "accessibility": 0.86,
@@ -2403,11 +2442,24 @@
     },
     {
       "url": "https://sgfcitizen.org/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/sgfcitizen_org-_-2022_08_02_15_49_35.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/sgfcitizen_org-_-2022_08_02_15_49_35.report.json",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/sgfcitizen_org-_-2022_08_03_04_04_32.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/sgfcitizen_org-_-2022_08_03_04_04_32.report.json",
       "summary": {
-        "performance": 0.61,
+        "performance": 0.58,
+        "accessibility": 0.86,
+        "best-practices": 0.92,
+        "seo": 0.91,
+        "pwa": 0.9
+      }
+    },
+    {
+      "url": "https://sgfcitizen.org/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/sgfcitizen_org-_-2022_08_03_04_04_01.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/sgfcitizen_org-_-2022_08_03_04_04_01.report.json",
+      "summary": {
+        "performance": 0.46,
         "accessibility": 0.86,
         "best-practices": 0.92,
         "seo": 0.91,
@@ -2415,9 +2467,9 @@
       }
     }
   ],
-  "uniq": 1115639542,
+  "uniq": 1777583260,
   "workable_servers": [
-    "ia801401.us.archive.org",
-    "ia601401.us.archive.org"
+    "ia601401.us.archive.org",
+    "ia801401.us.archive.org"
   ]
 }

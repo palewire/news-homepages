@@ -1,5 +1,5 @@
 {
-  "created": 1659482543,
+  "created": 1659530326,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/26/items/chicago_reader-2022",
@@ -5607,31 +5607,83 @@
       "format": "JSON"
     },
     {
+      "name": "chicago_reader-2022-08-02T18:21:32.106327-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chicago_reader-2022-08-02T18:21:32.106327-05:00.jpg",
+      "mtime": "1659494241",
+      "size": "9359",
+      "md5": "ee2adfc66b45ee9913500c6a22cd8546",
+      "crc32": "24fcba26",
+      "sha1": "5730d5e2d90ab6cb977f31568a9299bbb4eef149"
+    },
+    {
+      "name": "chicago_reader-2022-08-03T07:37:48.414810-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659530276",
+      "size": "30684",
+      "md5": "d9b17ba599a2ae6ca9256a320d2a24e9",
+      "crc32": "628bd25e",
+      "sha1": "78c114aa3df660ca36549c34c16243f66ca42640",
+      "format": "JSON"
+    },
+    {
+      "name": "chicago_reader-2022-08-03T07:37:48.414810-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659530278",
+      "size": "44848",
+      "md5": "35272cff4846c93a4d491a2235dbc4a0",
+      "crc32": "e32093c6",
+      "sha1": "e6d6c839e09d428d52880c2d3a9efedf8291f4c6",
+      "format": "JSON"
+    },
+    {
+      "name": "chicago_reader-2022-08-03T07:37:48.414810-05:00.jpg",
+      "source": "original",
+      "mtime": "1659530275",
+      "size": "199862",
+      "md5": "9d3c728b2a3bc640438abdac09846de4",
+      "crc32": "571b7e33",
+      "sha1": "6f8e3e2ee145c5c5034977c168745b5d9ce1c49c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chicago_reader-2022-08-03T07:37:48.414810-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659530280",
+      "size": "1485",
+      "md5": "2e8f81d85fa6e560269d190be583f7de",
+      "crc32": "80f560d8",
+      "sha1": "c38e22456aa4a8a4a8fbcbf46bc9384872bec0ab",
+      "format": "JSON"
+    },
+    {
       "name": "chicago_reader-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6bb032997c214d84b2f314184b13eaf7fc021b7b",
-      "mtime": "1659482539",
-      "size": "117083",
-      "md5": "375ce7ff2b117c6ee2c98364467d888f",
-      "crc32": "d4472c79",
-      "sha1": "32f22970430755e7352390c81c8da6b334843e30",
+      "btih": "c70796831704e140cfa9ec425c1d8da55b15421f",
+      "mtime": "1659530321",
+      "size": "118152",
+      "md5": "6122fe374f1cf26945654aace42a4385",
+      "crc32": "86d1a919",
+      "sha1": "a35817a5fb4d3d06235efdc03a00ed868b362e0a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chicago_reader-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a15d44ecb74f51612f5e62cba61d3fa3",
+      "md5": "bdf88aab10471fbfc6e1c9f1bec95bd5",
       "summation": "md5"
     },
     {
       "name": "chicago_reader-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659482502",
-      "size": "651264",
-      "md5": "58c144603aa049b2b74b440bbc7c9f38",
-      "crc32": "065fc2a9",
-      "sha1": "9619f67080e0799e0fe204f63183406e19a6c94d",
+      "mtime": "1659530284",
+      "size": "655360",
+      "md5": "9b66c18264f987c7376827a103cf33d4",
+      "crc32": "114e079f",
+      "sha1": "ad9da4d17bdf724aaecc2c3182e8cb168fa09a3a",
       "format": "Metadata"
     },
     {
@@ -5645,9 +5697,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 539,
-  "item_last_updated": 1659482539,
-  "item_size": 38519060,
+  "files_count": 544,
+  "item_last_updated": 1659530321,
+  "item_size": 38810463,
   "metadata": {
     "identifier": "chicago_reader-2022",
     "collection": [
@@ -5669,7 +5721,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350897360,
+      "task_id": 3351408825,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -5677,7 +5729,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 864610770,
+  "uniq": 1253633097,
   "workable_servers": [
     "ia601406.us.archive.org"
   ]

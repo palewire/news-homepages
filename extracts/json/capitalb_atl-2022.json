@@ -1,5 +1,5 @@
 {
-  "created": 1659482478,
+  "created": 1659530289,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/9/items/capitalb_atl-2022",
@@ -1391,31 +1391,83 @@
       "format": "JSON"
     },
     {
+      "name": "capitalb_atl-2022-08-02T19:20:32.650659-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "capitalb_atl-2022-08-02T19:20:32.650659-04:00.jpg",
+      "mtime": "1659495494",
+      "size": "9871",
+      "md5": "447bdaa4359b860c8d0b437758696846",
+      "crc32": "283e55b0",
+      "sha1": "c609b62257b77dfdb43a370f16e3bfd98925fe9d"
+    },
+    {
+      "name": "capitalb_atl-2022-08-03T08:37:19.486002-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659530242",
+      "size": "7454",
+      "md5": "489195d6bbff83fbf88b61e856e601e5",
+      "crc32": "bb6ac3cf",
+      "sha1": "f5a3d2b88f6310ee1839e26351125e65a7cf9cbb",
+      "format": "JSON"
+    },
+    {
+      "name": "capitalb_atl-2022-08-03T08:37:19.486002-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659530244",
+      "size": "8096",
+      "md5": "c96b6cf17a42a5c33c1f4256745474c7",
+      "crc32": "13dade20",
+      "sha1": "b0b8efccb50aec5ee61f0e42d0c6dcbb75fa8236",
+      "format": "JSON"
+    },
+    {
+      "name": "capitalb_atl-2022-08-03T08:37:19.486002-04:00.jpg",
+      "source": "original",
+      "mtime": "1659530241",
+      "size": "273862",
+      "md5": "0384b141fd43d38bfbf1a68419c9b17f",
+      "crc32": "f79912b5",
+      "sha1": "b5ec37e6d3f8c9c0cb421bff15fadc0050d1131b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "capitalb_atl-2022-08-03T08:37:19.486002-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659530245",
+      "size": "1540",
+      "md5": "b29e80914e801835c4f479d2c932cb0a",
+      "crc32": "dfec57b5",
+      "sha1": "1f1990c3ab9693d00c3c090979c95c2836a19732",
+      "format": "JSON"
+    },
+    {
       "name": "capitalb_atl-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0175a365c286126801f116746f64ef69d187f6bf",
-      "mtime": "1659482476",
-      "size": "29882",
-      "md5": "efd87fe0e01a586765338b437b49e917",
-      "crc32": "4cf533ef",
-      "sha1": "2955560ddecd6d69ef979a0862aa71fe5d481d86",
+      "btih": "656c343564836dc91e86b5f7f88ef71ec4c44fc2",
+      "mtime": "1659530283",
+      "size": "30959",
+      "md5": "94e23d93aef449c8975017e85f0457df",
+      "crc32": "0058fef5",
+      "sha1": "8c38ca0a7435a99c2fa3f3cc2ab4ac98141377a5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "capitalb_atl-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "29fd28fa16323543455faf64f667884f",
+      "md5": "a361db892baf8f1603bc7485a055dc01",
       "summation": "md5"
     },
     {
       "name": "capitalb_atl-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659482441",
-      "size": "184320",
-      "md5": "4e315b312687e9aa24bf2c60edd0006a",
-      "crc32": "8a229774",
-      "sha1": "67a717a8016cf9382650376691166a2df32629d8",
+      "mtime": "1659530249",
+      "size": "192512",
+      "md5": "d838bac7a0acf2bc025463f5ebc732ad",
+      "crc32": "abf904b9",
+      "sha1": "abbb44b55e19dddbb40ae2941cb9efcb70b68a94",
       "format": "Metadata"
     },
     {
@@ -1429,9 +1481,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 137,
-  "item_last_updated": 1659482476,
-  "item_size": 8883835,
+  "files_count": 142,
+  "item_last_updated": 1659530283,
+  "item_size": 9193927,
   "metadata": {
     "identifier": "capitalb_atl-2022",
     "collection": [
@@ -1453,7 +1505,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350896805,
+      "task_id": 3351408472,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1461,7 +1513,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1728544348,
+  "uniq": 2021070272,
   "workable_servers": [
     "ia601405.us.archive.org"
   ]

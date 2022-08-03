@@ -1,5 +1,5 @@
 {
-  "created": 1659481918,
+  "created": 1659510361,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/13/items/voiceofoc-2022",
@@ -3414,31 +3414,83 @@
       "sha1": "faeffca536bc85bd67a28c8fc2f8654d20935698"
     },
     {
+      "name": "voiceofoc-2022-08-02T21:48:18.529575-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659502101",
+      "size": "24960",
+      "md5": "2ae6a63e53990f0e76c4856e0c5eb570",
+      "crc32": "d712b7ae",
+      "sha1": "e04efe752f5e49b354125f09b8ddd64843c0d575",
+      "format": "JSON"
+    },
+    {
+      "name": "voiceofoc-2022-08-02T21:48:18.529575-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659502103",
+      "size": "34193",
+      "md5": "1b3cf641bc46d45f6bed2c2b5be3a7ff",
+      "crc32": "0452627e",
+      "sha1": "300a71884d9628bed59f32624dbbbcbfb2301f99",
+      "format": "JSON"
+    },
+    {
+      "name": "voiceofoc-2022-08-02T21:48:18.529575-07:00.jpg",
+      "source": "original",
+      "mtime": "1659502100",
+      "size": "310112",
+      "md5": "a2b20261fcb2dded8f7b5840a6b520b6",
+      "crc32": "c7cba0aa",
+      "sha1": "885a66283bb8b78d001d26f9234d2d9575a51653",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "voiceofoc-2022-08-02T21:48:18.529575-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659502105",
+      "size": "1441",
+      "md5": "167af49f7fb75d8290ef83a5cf5e9ca3",
+      "crc32": "f7448480",
+      "sha1": "514da3cf1a2f7ff208e173cadf8a6fa6e062ac54",
+      "format": "JSON"
+    },
+    {
+      "name": "voiceofoc-2022-08-02T21:48:18.529575-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "voiceofoc-2022-08-02T21:48:18.529575-07:00.jpg",
+      "mtime": "1659510334",
+      "size": "10269",
+      "md5": "7b3689c9152c1f8b8b3aaab31e459c74",
+      "crc32": "55bc3a1f",
+      "sha1": "a8d8bc1ec6ecec245abadb7a0c9d3fc566c55dac"
+    },
+    {
       "name": "voiceofoc-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cf5b76d332d7f92e5cc5302b0f17bf434f58b99b",
-      "mtime": "1659481853",
-      "size": "70541",
-      "md5": "0835956bd3ee0200299b06a234053716",
-      "crc32": "21bfa892",
-      "sha1": "c180b666bfc04a04b5f75f133ca68ae0a279be20",
+      "btih": "d6b0d701e4f5cd92db0491815915b71ac969dbb0",
+      "mtime": "1659510338",
+      "size": "71586",
+      "md5": "5d00ee99732605d3d068008c8bdda9e5",
+      "crc32": "b0fbd03a",
+      "sha1": "f9e4716faa72689b7168c41c66fa7fd7220230cf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "voiceofoc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7017d350b921cca2b4597b3b37fe5704",
+      "md5": "8299f90f707b680758fb4f79137213c7",
       "summation": "md5"
     },
     {
       "name": "voiceofoc-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659464069",
-      "size": "401408",
-      "md5": "ce639a43109cd09188e62cfaeb86e982",
-      "crc32": "65470297",
-      "sha1": "b5256649a52fbde52fde27518c76cb64671cf107",
+      "mtime": "1659502109",
+      "size": "409600",
+      "md5": "7f3231dfb7f7aff3397a6d6406fabdbe",
+      "crc32": "0c46411a",
+      "sha1": "44fed25c168b8cbd0f6be8cf868c2382f23013d5",
       "format": "Metadata"
     },
     {
@@ -3452,9 +3504,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 330,
-  "item_last_updated": 1659481853,
-  "item_size": 28394638,
+  "files_count": 335,
+  "item_last_updated": 1659510338,
+  "item_size": 28784850,
   "metadata": {
     "identifier": "voiceofoc-2022",
     "collection": [
@@ -3471,10 +3523,10 @@
     "publicdate": "2022-07-09 04:04:32",
     "addeddate": "2022-07-09 04:04:32"
   },
-  "server": "ia801408.us.archive.org",
-  "uniq": 1472323194,
+  "server": "ia601408.us.archive.org",
+  "uniq": 1131362526,
   "workable_servers": [
-    "ia801408.us.archive.org",
-    "ia601408.us.archive.org"
+    "ia601408.us.archive.org",
+    "ia801408.us.archive.org"
   ]
 }

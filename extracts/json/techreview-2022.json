@@ -1,5 +1,5 @@
 {
-  "created": 1659477545,
+  "created": 1659509953,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/21/items/techreview-2022",
@@ -942,31 +942,83 @@
       "sha1": "ea763a6f20f6d3cc2cf97a1e91c54b615a94b7d0"
     },
     {
+      "name": "techreview-2022-08-03T00:45:05.020694-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659501908",
+      "size": "24698",
+      "md5": "0a0a08c15fc00cb1cdf066f2b4e611f8",
+      "crc32": "c372d7c6",
+      "sha1": "169af453ae09da676d2f7c8f225a9b68f2752dea",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-08-03T00:45:05.020694-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659501910",
+      "size": "13027",
+      "md5": "1d9542c2978b605e6c1946d70d058a72",
+      "crc32": "7c81fa0e",
+      "sha1": "12a4d48dbd1848f7df272ae533e1f11a41a32137",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-08-03T00:45:05.020694-04:00.jpg",
+      "source": "original",
+      "mtime": "1659501906",
+      "size": "316043",
+      "md5": "870565f6e13fad6a103a3b9f590833c7",
+      "crc32": "94d008ae",
+      "sha1": "aab23f58a3246a7cdf190a97e8062cf41335a8e0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "techreview-2022-08-03T00:45:05.020694-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659501911",
+      "size": "1540",
+      "md5": "45067b5f5208038a94f4cfab15672eff",
+      "crc32": "4d6d0f9b",
+      "sha1": "7d3d49f0e477f58be26348464d01e26c7fbecfaf",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-08-03T00:45:05.020694-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "techreview-2022-08-03T00:45:05.020694-04:00.jpg",
+      "mtime": "1659509932",
+      "size": "10280",
+      "md5": "f04c117919607d5b19574fe543d65bbe",
+      "crc32": "36f570c5",
+      "sha1": "0e71faaffd9c664ced1d1badc2f193e71d588198"
+    },
+    {
       "name": "techreview-2022_archive.torrent",
       "source": "metadata",
-      "btih": "240056a507d7ea84f89851ad02c64e73ced8e138",
-      "mtime": "1659477523",
-      "size": "20535",
-      "md5": "1c519685bc83c54b38221d5809128996",
-      "crc32": "62fd7c29",
-      "sha1": "30009d1e0ca9e1960bdc8d0090989fc69883ee8a",
+      "btih": "0271d21c463da31b85c89397d0a59aa69664a817",
+      "mtime": "1659509939",
+      "size": "21585",
+      "md5": "2b2415b8b9a26a40811d5940584f7800",
+      "crc32": "4a94b8ec",
+      "sha1": "f058982eab832ce03b2e6641c95d1b43e7a3303d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "techreview-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cc1a8a922ddd997b15b5f8b25ed286d0",
+      "md5": "b48b007d0ba9789c33112f87ebd6e645",
       "summation": "md5"
     },
     {
       "name": "techreview-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659457262",
-      "size": "135168",
-      "md5": "ccad907e9dc82ebbf8c6df957f6e4f62",
-      "crc32": "46d347a8",
-      "sha1": "acf3a1d123ad3dbd38c447f32a761f5e96256fa9",
+      "mtime": "1659501924",
+      "size": "139264",
+      "md5": "e425f16827e8d1637511a8940c770f72",
+      "crc32": "e77b3511",
+      "sha1": "7686d1413b21e877eb0c763e7184a3dd23f9fd8a",
       "format": "Metadata"
     },
     {
@@ -980,9 +1032,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 94,
-  "item_last_updated": 1659477523,
-  "item_size": 5866968,
+  "files_count": 99,
+  "item_last_updated": 1659509939,
+  "item_size": 6237702,
   "metadata": {
     "identifier": "techreview-2022",
     "collection": [
@@ -999,10 +1051,10 @@
     "publicdate": "2022-07-25 06:47:07",
     "addeddate": "2022-07-25 06:47:07"
   },
-  "server": "ia601509.us.archive.org",
-  "uniq": 1027213752,
+  "server": "ia801509.us.archive.org",
+  "uniq": 50288673,
   "workable_servers": [
-    "ia601509.us.archive.org",
-    "ia801509.us.archive.org"
+    "ia801509.us.archive.org",
+    "ia601509.us.archive.org"
   ]
 }

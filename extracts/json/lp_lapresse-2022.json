@@ -1,5 +1,5 @@
 {
-  "created": 1659472258,
+  "created": 1659509567,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/25/items/lp_lapresse-2022",
@@ -3776,31 +3776,83 @@
       "sha1": "2115a5bbdd88f7b750c40968e30eec35071fd9a3"
     },
     {
+      "name": "lp_lapresse-2022-08-03T00:35:26.762163-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659501333",
+      "size": "91232",
+      "md5": "0f69e3656532b05641473b46f6b0316d",
+      "crc32": "626ad731",
+      "sha1": "5062d91e25be0b4ec85f01bd249115d7ea2f21ae",
+      "format": "JSON"
+    },
+    {
+      "name": "lp_lapresse-2022-08-03T00:35:26.762163-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659501335",
+      "size": "149796",
+      "md5": "f2e5a4bab8dd488c316f2b5950dafc23",
+      "crc32": "c6f4ea73",
+      "sha1": "18c8f2d833edef484ed7be05a40523d913a68782",
+      "format": "JSON"
+    },
+    {
+      "name": "lp_lapresse-2022-08-03T00:35:26.762163-04:00.jpg",
+      "source": "original",
+      "mtime": "1659501328",
+      "size": "166850",
+      "md5": "e5d316a4c5ba5b0dab6c39feb9bc0ecd",
+      "crc32": "91b212e6",
+      "sha1": "32e7fd9b35095867110ae29de5d1cd28f5646188",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lp_lapresse-2022-08-03T00:35:26.762163-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659501337",
+      "size": "1468",
+      "md5": "86ba8910edf4e16e295213174a5d4069",
+      "crc32": "dcd28c1f",
+      "sha1": "f02013bbb13bb396a6c09471a2436756578e526c",
+      "format": "JSON"
+    },
+    {
+      "name": "lp_lapresse-2022-08-03T00:35:26.762163-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lp_lapresse-2022-08-03T00:35:26.762163-04:00.jpg",
+      "mtime": "1659509453",
+      "size": "7788",
+      "md5": "a5f8be3d29c604c8dd09427d61cbd731",
+      "crc32": "b584bb44",
+      "sha1": "2806c6c6969e94e29319e93e7b6d26948eaa3f63"
+    },
+    {
       "name": "lp_lapresse-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9982972fd8d5c3d10fe2573d099595a51cf341dc",
-      "mtime": "1659472235",
-      "size": "79020",
-      "md5": "9cd12ee7e14a47a1d95683c280c8a9b0",
-      "crc32": "7a931f15",
-      "sha1": "7cd826a78fe8dc34e896ec082b690d9cf6612e4c",
+      "btih": "27146d9f5630aeeb4bc1594df0d58d4778707161",
+      "mtime": "1659509491",
+      "size": "80075",
+      "md5": "afe2ad2889a0bd1a0c03a06baf7bd2fa",
+      "crc32": "63527a8a",
+      "sha1": "121618fbe19465232f261c7c2f50f2325d7e8477",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lp_lapresse-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b8ebac25a0cfb9d7f9630b3bc01736ea",
+      "md5": "ff73455b1ccba0298dd2f62da9bbd2ec",
       "summation": "md5"
     },
     {
       "name": "lp_lapresse-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659452340",
-      "size": "442368",
-      "md5": "15c0e015ec7af090c857dee772f6fe17",
-      "crc32": "585bed60",
-      "sha1": "919c070ad7426c86747ee912385f6b74258fd0b4",
+      "mtime": "1659501349",
+      "size": "446464",
+      "md5": "8170f50eff018c9ddd54a3b686f7c950",
+      "crc32": "41b18efa",
+      "sha1": "6f3bf73b147fa881acff03e264b1238cf0549fd3",
       "format": "Metadata"
     },
     {
@@ -3814,9 +3866,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 364,
-  "item_last_updated": 1659472235,
-  "item_size": 44704540,
+  "files_count": 369,
+  "item_last_updated": 1659509491,
+  "item_size": 45126825,
   "metadata": {
     "identifier": "lp_lapresse-2022",
     "collection": [
@@ -3833,10 +3885,10 @@
     "publicdate": "2022-06-30 22:35:44",
     "addeddate": "2022-06-30 22:35:44"
   },
-  "server": "ia802500.us.archive.org",
-  "uniq": 1146565209,
+  "server": "ia902500.us.archive.org",
+  "uniq": 1394412536,
   "workable_servers": [
-    "ia802500.us.archive.org",
-    "ia902500.us.archive.org"
+    "ia902500.us.archive.org",
+    "ia802500.us.archive.org"
   ]
 }

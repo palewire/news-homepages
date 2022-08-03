@@ -1,5 +1,5 @@
 {
-  "created": 1659487060,
+  "created": 1659509274,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/35/items/firstthingsmag-2022",
@@ -2332,31 +2332,83 @@
       "sha1": "8fff848a3e557a8c2a406406a7b7b5523dfbf294"
     },
     {
+      "name": "firstthingsmag-2022-08-03T00:28:40.607670-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659500928",
+      "size": "33647",
+      "md5": "e110b5173d2964fcfcaceff047c77df5",
+      "crc32": "6865d409",
+      "sha1": "32ff228a36eddff2f7949d898f1e9541f5673a6c",
+      "format": "JSON"
+    },
+    {
+      "name": "firstthingsmag-2022-08-03T00:28:40.607670-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659500929",
+      "size": "19911",
+      "md5": "83b14e072444a98dd4ea4d97462fcafe",
+      "crc32": "524a2810",
+      "sha1": "34cfd4a5e7ac44f8e9c22a8a0af36a9d456b5432",
+      "format": "JSON"
+    },
+    {
+      "name": "firstthingsmag-2022-08-03T00:28:40.607670-04:00.jpg",
+      "source": "original",
+      "mtime": "1659500925",
+      "size": "275273",
+      "md5": "4acf5ff00438eab68b5f13b7cfb2c086",
+      "crc32": "5d339f79",
+      "sha1": "ee911fe3368e30bd439fa9c1832ff562a8584a8d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "firstthingsmag-2022-08-03T00:28:40.607670-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659500931",
+      "size": "1501",
+      "md5": "274af9c4e8bbc7066605c79bcd977540",
+      "crc32": "2a110bdb",
+      "sha1": "89c011a8b181083aaa2b97a66d6d09d7698727c0",
+      "format": "JSON"
+    },
+    {
+      "name": "firstthingsmag-2022-08-03T00:28:40.607670-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "firstthingsmag-2022-08-03T00:28:40.607670-04:00.jpg",
+      "mtime": "1659509239",
+      "size": "9101",
+      "md5": "3ab9ac732056df26a5e02d3842f1160c",
+      "crc32": "ba3468d0",
+      "sha1": "8fff848a3e557a8c2a406406a7b7b5523dfbf294"
+    },
+    {
       "name": "firstthingsmag-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f1b015bfe96ce4f4357d89949ed5d93604052b8a",
-      "mtime": "1659482677",
-      "size": "49645",
-      "md5": "e4c2f14da4ac148dcd5b07e1735b8b36",
-      "crc32": "618869c8",
-      "sha1": "e824b2b0b5fb36c74fefc99510913c4fa341f4e0",
+      "btih": "9ee79fc38c8f3221d9a542c6d7b04e115c72d095",
+      "mtime": "1659509244",
+      "size": "50734",
+      "md5": "1e4b8630d8bcd45436ac8b36b1e9de89",
+      "crc32": "8fbaa457",
+      "sha1": "5fcaf8d62c5cb015c31f6d67abefab81b82e865a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "firstthingsmag-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8ce70f3fc5b94c6f7b8356189daa8d2f",
+      "md5": "b38f639107d49fbb397eea7236afb09a",
       "summation": "md5"
     },
     {
       "name": "firstthingsmag-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659465529",
-      "size": "286720",
-      "md5": "e8a9308cfaa58e438eba140fb1bb90ee",
-      "crc32": "adf3fff2",
-      "sha1": "03cede3d81e1285ee62547af4f9222d10001387a",
+      "mtime": "1659500936",
+      "size": "294912",
+      "md5": "65779d9c941b40cadf18fcd9161d73c7",
+      "crc32": "e92958a7",
+      "sha1": "f42a11387029d4070732383d7a01dc32784106d8",
       "format": "Metadata"
     },
     {
@@ -2370,50 +2422,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 227,
-  "firstthingsmag-2022": [
-    {
-      "url": "https://www.firstthings.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_firstthings_com-_-2022_08_02_18_20_17.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_firstthings_com-_-2022_08_02_18_20_17.report.json",
-      "summary": {
-        "performance": 0.14,
-        "accessibility": 0.96,
-        "best-practices": 0.83,
-        "seo": 0.9,
-        "pwa": 0.7
-      }
-    },
-    {
-      "url": "https://www.firstthings.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_firstthings_com-_-2022_08_02_18_20_35.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_firstthings_com-_-2022_08_02_18_20_35.report.json",
-      "summary": {
-        "performance": 0.15,
-        "accessibility": 0.96,
-        "best-practices": 0.83,
-        "seo": 0.9,
-        "pwa": 0.7
-      }
-    },
-    {
-      "url": "https://www.firstthings.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_firstthings_com-_-2022_08_02_18_20_00.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_firstthings_com-_-2022_08_02_18_20_00.report.json",
-      "summary": {
-        "performance": 0.12,
-        "accessibility": 0.96,
-        "best-practices": 0.83,
-        "seo": 0.9,
-        "pwa": 0.7
-      }
-    }
-  ],
-  "item_last_updated": 1659482677,
-  "item_size": 14620207,
+  "files_count": 232,
+  "item_last_updated": 1659509244,
+  "item_size": 14968921,
   "metadata": {
     "identifier": "firstthingsmag-2022",
     "collection": [
@@ -2430,10 +2441,10 @@
     "publicdate": "2022-07-17 15:03:04",
     "addeddate": "2022-07-17 15:03:04"
   },
-  "server": "ia801406.us.archive.org",
-  "uniq": 1059851838,
+  "server": "ia601406.us.archive.org",
+  "uniq": 789310847,
   "workable_servers": [
-    "ia801406.us.archive.org",
-    "ia601406.us.archive.org"
+    "ia601406.us.archive.org",
+    "ia801406.us.archive.org"
   ]
 }

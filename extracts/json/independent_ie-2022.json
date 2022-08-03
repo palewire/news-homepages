@@ -1,5 +1,5 @@
 {
-  "created": 1659486815,
+  "created": 1659530743,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/10/items/independent_ie-2022",
@@ -1601,31 +1601,83 @@
       "format": "JSON"
     },
     {
+      "name": "independent_ie-2022-08-03T01:32:48.258138+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "independent_ie-2022-08-03T01:32:48.258138+01:00.jpg",
+      "mtime": "1659497956",
+      "size": "9182",
+      "md5": "b1b832027b5cdda706cb72d3361052bb",
+      "crc32": "ec7fc12a",
+      "sha1": "e65bc8beb8955dcf74e1dedc3f7e15209d4cc847"
+    },
+    {
+      "name": "independent_ie-2022-08-03T13:44:53.432487+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659530697",
+      "size": "47907",
+      "md5": "05d6a058baec663ef058d10986173013",
+      "crc32": "52e98868",
+      "sha1": "0ff66efbc4853c0bb1499497feb98223f1eb0043",
+      "format": "JSON"
+    },
+    {
+      "name": "independent_ie-2022-08-03T13:44:53.432487+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659530699",
+      "size": "103844",
+      "md5": "3dc3106131f513a0edea12c207a1be9c",
+      "crc32": "1623c643",
+      "sha1": "6d301ec59a9b1315d8f2e6b3cd00cc54eab487cd",
+      "format": "JSON"
+    },
+    {
+      "name": "independent_ie-2022-08-03T13:44:53.432487+01:00.jpg",
+      "source": "original",
+      "mtime": "1659530695",
+      "size": "260728",
+      "md5": "9ee8ab595f712f2a75c6adea3fe59f59",
+      "crc32": "1ea4cd98",
+      "sha1": "5a7201c8a92bfcbf81f7a3eaed6375fd3bdd9279",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "independent_ie-2022-08-03T13:44:53.432487+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659530700",
+      "size": "1477",
+      "md5": "a2414a0b4e17fdbf25cd58abaa0a1212",
+      "crc32": "86526491",
+      "sha1": "434a0ad5b20b27a5c22ce58e7bfe15e5961dc57d",
+      "format": "JSON"
+    },
+    {
       "name": "independent_ie-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1f6c0eed971b6e6005d99b5677ff0f5fc663a97d",
-      "mtime": "1659486813",
-      "size": "34708",
-      "md5": "c6a1cb837e09b0c4d2a428405011054e",
-      "crc32": "0d4fd291",
-      "sha1": "ecd871e949ed03d12d02f1da345507092231c6f5",
+      "btih": "91b83effc75b4c3b0686d0fe67eec023cf9a943b",
+      "mtime": "1659530740",
+      "size": "35798",
+      "md5": "e85c24d0082f62ff5d8b3cb1389e0737",
+      "crc32": "65b5e1d0",
+      "sha1": "3a6bc003ddd97a451928e83e6f379fa5297fa0ee",
       "format": "Archive BitTorrent"
     },
     {
       "name": "independent_ie-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "247531393ef3b2bb943d06c8dcc0eded",
+      "md5": "528a8e7a1e812d87d6b6c92af5afd7fa",
       "summation": "md5"
     },
     {
       "name": "independent_ie-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659486778",
-      "size": "204800",
-      "md5": "4efbd0424bb701790809a9abfd8869e9",
-      "crc32": "da1bd74d",
-      "sha1": "c00c4012a41f14147f475890dafa6a7ea5acfe9f",
+      "mtime": "1659530705",
+      "size": "217088",
+      "md5": "ddc0abbbfde551f2af01e895e2bf3343",
+      "crc32": "1b380ab5",
+      "sha1": "000d0c40652319f09c3240e643eed96db7914968",
       "format": "Metadata"
     },
     {
@@ -1639,9 +1691,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 157,
-  "item_last_updated": 1659486813,
-  "item_size": 14014298,
+  "files_count": 162,
+  "item_last_updated": 1659530740,
+  "item_size": 14450814,
   "metadata": {
     "identifier": "independent_ie-2022",
     "collection": [
@@ -1663,7 +1715,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350938082,
+      "task_id": 3351412694,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1671,7 +1723,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1408631677,
+  "uniq": 847585121,
   "workable_servers": [
     "ia601403.us.archive.org"
   ]

@@ -1,5 +1,6 @@
 {
-  "created": 1659487236,
+  "conflict": 1659531195,
+  "created": 1659531195,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/18/items/newyorker-2022",
@@ -4125,21 +4126,32 @@
       "format": "JSON"
     },
     {
+      "name": "newyorker-2022-08-02T20:39:32.237080-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newyorker-2022-08-02T20:39:32.237080-04:00.jpg",
+      "mtime": "1659498266",
+      "size": "9127",
+      "md5": "3bc5164ac5fa596a503ab2fe746bd5c6",
+      "crc32": "b29d3704",
+      "sha1": "8d2f5b9eec6971984ec4773c90f8a670586ceab6"
+    },
+    {
       "name": "newyorker-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4ec7737217b0bd09c3d1a292bf8b054f55d731fe",
-      "mtime": "1659487230",
-      "size": "84623",
-      "md5": "7cf9591537568c979f03e09aef15926e",
-      "crc32": "11590e12",
-      "sha1": "e186951af2004252ccfbd149d240f999eff0d474",
+      "btih": "b825fa256dd224f68b02b22e68db89fffbeacd76",
+      "mtime": "1659498275",
+      "size": "84828",
+      "md5": "37e9c4fbc4599893c643a31532e9adb3",
+      "crc32": "10d13be5",
+      "sha1": "7212b0462ee03f62b7cc75c5eed538244206defb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newyorker-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d7ccf6dc69ff07442096a12cea52b235",
+      "md5": "0b9eb6dedd900e55fe709b2a49639457",
       "summation": "md5"
     },
     {
@@ -4163,9 +4175,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 397,
-  "item_last_updated": 1659487230,
-  "item_size": 35029615,
+  "files_count": 398,
+  "item_last_updated": 1659498275,
+  "item_size": 35038947,
   "metadata": {
     "identifier": "newyorker-2022",
     "collection": [
@@ -4187,15 +4199,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350942466,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "task_id": 3351416475,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 719978547,
+  "uniq": 999903003,
   "workable_servers": [
     "ia601503.us.archive.org"
   ]

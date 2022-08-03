@@ -1,5 +1,5 @@
 {
-  "created": 1659487276,
+  "created": 1659531220,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/14/items/ny1-2022",
@@ -2893,21 +2893,32 @@
       "format": "JSON"
     },
     {
+      "name": "ny1-2022-08-02T20:40:22.841814-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ny1-2022-08-02T20:40:22.841814-04:00.jpg",
+      "mtime": "1659498519",
+      "size": "10226",
+      "md5": "df492141779e6721a9665b4c27e2c90e",
+      "crc32": "9616f492",
+      "sha1": "b12a73e77972b6116410aae7a270b0fbe93194ea"
+    },
+    {
       "name": "ny1-2022_archive.torrent",
       "source": "metadata",
-      "btih": "872b9d1824e8ed75e093e4448c259b9e4dc30a6f",
-      "mtime": "1659487271",
-      "size": "58258",
-      "md5": "5f2b1f45dbf994c15983057ddcc96455",
-      "crc32": "456493fb",
-      "sha1": "cd739c2184ca0e0fce6489907bf596079e295282",
+      "btih": "e1619cf873e52aa6f45b66694ed6ff0ecc73a636",
+      "mtime": "1659498528",
+      "size": "58458",
+      "md5": "a462f2499a5c979a8e56af4fa49bbc6a",
+      "crc32": "a6a33c9a",
+      "sha1": "5c9bdba8aca4b2d116243bf7f94528d5449e6145",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ny1-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "46dc4d7ab89af93fc791fc6f59980b4c",
+      "md5": "b154360f09be57fa3262a1abca04c63a",
       "summation": "md5"
     },
     {
@@ -2931,9 +2942,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 280,
-  "item_last_updated": 1659487271,
-  "item_size": 25963611,
+  "files_count": 281,
+  "item_last_updated": 1659498528,
+  "item_size": 25974037,
   "metadata": {
     "identifier": "ny1-2022",
     "collection": [
@@ -2950,21 +2961,51 @@
     "publicdate": "2022-07-04 21:49:52",
     "addeddate": "2022-07-04 21:49:52"
   },
-  "pending_tasks": true,
-  "server": "ia601503.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "ny1-2022": [
     {
-      "task_id": 3350942861,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "url": "https://www.ny1.com/nyc/all-boroughs",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ny1_com-_nyc_all_boroughs-2022_08_03_00_16_18.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ny1_com-_nyc_all_boroughs-2022_08_03_00_16_18.report.json",
+      "summary": {
+        "performance": 0.13,
+        "accessibility": 0.87,
+        "best-practices": 0.92,
+        "seo": 0.86,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.ny1.com/nyc/all-boroughs",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ny1_com-_nyc_all_boroughs-2022_08_03_00_16_37.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ny1_com-_nyc_all_boroughs-2022_08_03_00_16_37.report.json",
+      "summary": {
+        "performance": 0.17,
+        "accessibility": 0.87,
+        "best-practices": 0.92,
+        "seo": 0.86,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.ny1.com/nyc/all-boroughs",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ny1_com-_nyc_all_boroughs-2022_08_03_00_15_59.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ny1_com-_nyc_all_boroughs-2022_08_03_00_15_59.report.json",
+      "summary": {
+        "performance": 0.1,
+        "accessibility": 0.87,
+        "best-practices": 0.92,
+        "seo": 0.86,
+        "pwa": 0.3
+      }
     }
   ],
-  "uniq": 824754429,
+  "server": "ia601503.us.archive.org",
+  "uniq": 844713845,
   "workable_servers": [
-    "ia601503.us.archive.org"
+    "ia601503.us.archive.org",
+    "ia801503.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1659483112,
+  "created": 1659531350,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/18/items/realdailywire-2022",
@@ -9808,31 +9808,83 @@
       "sha1": "f47b433c9c840401354e09a033b0a9d80670289d"
     },
     {
+      "name": "realdailywire-2022-08-03T00:41:13.077928-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659501676",
+      "size": "16497",
+      "md5": "1cdbdee8876c0bab7464f69da1325cbc",
+      "crc32": "52162c30",
+      "sha1": "2b0c2c6ed40b8470d151960d67482e7446abd6e2",
+      "format": "JSON"
+    },
+    {
+      "name": "realdailywire-2022-08-03T00:41:13.077928-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659501678",
+      "size": "11807",
+      "md5": "78eb2953fdb4e8ac25d171a4e883447a",
+      "crc32": "78b65f85",
+      "sha1": "9b156f45b7d9e5ef3bbe94436bbded5db73d9009",
+      "format": "JSON"
+    },
+    {
+      "name": "realdailywire-2022-08-03T00:41:13.077928-04:00.jpg",
+      "source": "original",
+      "mtime": "1659501675",
+      "size": "266189",
+      "md5": "cd9627c74eacdab7d5abd6c252d92bad",
+      "crc32": "bc0915e3",
+      "sha1": "d358d6902296cf5280f80292c8532a68d66bd822",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "realdailywire-2022-08-03T00:41:13.077928-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659501681",
+      "size": "1485",
+      "md5": "7cb3b66c23f59689966e385a2fed5c28",
+      "crc32": "e11210a0",
+      "sha1": "1d26a76fede1118d79c3af1dae8f40beeb7ca5e0",
+      "format": "JSON"
+    },
+    {
+      "name": "realdailywire-2022-08-03T00:41:13.077928-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "realdailywire-2022-08-03T00:41:13.077928-04:00.jpg",
+      "mtime": "1659510477",
+      "size": "10549",
+      "md5": "bf62b76033c914fd8802c7db6845c7c1",
+      "crc32": "221a9b91",
+      "sha1": "16e8ac48d22af4985ecef90e137f0cbcceb2b0cc"
+    },
+    {
       "name": "realdailywire-2022_archive.torrent",
       "source": "metadata",
-      "btih": "035b42bd41c777d772f32e19d129dbd94cd57a3e",
-      "mtime": "1659483014",
-      "size": "202690",
-      "md5": "261192ce384eb787cad290b9b24d6b18",
-      "crc32": "512b10ef",
-      "sha1": "9a5f7ebb9f778e57f6fa72a0c31a6fbc4677b341",
+      "btih": "9bae9865c460672193f61933624dcf9828662ffc",
+      "mtime": "1659510489",
+      "size": "203775",
+      "md5": "0cfb1ad47ab68989f6e90c95ec164ae1",
+      "crc32": "3357f59a",
+      "sha1": "5aa8b17e615e5ddac7c4d24169d5dd40a7aa9c52",
       "format": "Archive BitTorrent"
     },
     {
       "name": "realdailywire-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3211f6a344249ff858ad6bb2a435dfb8",
+      "md5": "298f9f4317b0ce78f194a40faf4a4265",
       "summation": "md5"
     },
     {
       "name": "realdailywire-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659465672",
-      "size": "1093632",
-      "md5": "a51feb9e4e45e9052d5f7ba81195f888",
-      "crc32": "3783ada1",
-      "sha1": "8968c79e9e04de51ad8f72909ee92cdec0296ceb",
+      "mtime": "1659501687",
+      "size": "1101824",
+      "md5": "621ce4783aa9669013cd52784c1a15e4",
+      "crc32": "0ba66a05",
+      "sha1": "7c035536f8e0c436e58cc859db6d7f2b003fa10b",
       "format": "Metadata"
     },
     {
@@ -9846,9 +9898,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 938,
-  "item_last_updated": 1659483014,
-  "item_size": 73294503,
+  "files_count": 943,
+  "item_last_updated": 1659510489,
+  "item_size": 73610307,
   "metadata": {
     "identifier": "realdailywire-2022",
     "collection": [
@@ -9865,10 +9917,51 @@
     "publicdate": "2022-03-25 18:45:55",
     "addeddate": "2022-03-25 18:45:55"
   },
-  "server": "ia801507.us.archive.org",
-  "uniq": 1958969622,
+  "realdailywire-2022": [
+    {
+      "url": "https://www.dailywire.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dailywire_com-_-2022_08_03_04_01_31.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dailywire_com-_-2022_08_03_04_01_31.report.json",
+      "summary": {
+        "performance": 0.2,
+        "accessibility": 0.86,
+        "best-practices": 0.83,
+        "seo": 0.79,
+        "pwa": 0.7
+      }
+    },
+    {
+      "url": "https://www.dailywire.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dailywire_com-_-2022_08_03_04_02_20.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dailywire_com-_-2022_08_03_04_02_20.report.json",
+      "summary": {
+        "performance": 0.23,
+        "accessibility": 0.86,
+        "best-practices": 0.83,
+        "seo": 0.79,
+        "pwa": 0.7
+      }
+    },
+    {
+      "url": "https://www.dailywire.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dailywire_com-_-2022_08_03_04_03_07.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dailywire_com-_-2022_08_03_04_03_07.report.json",
+      "summary": {
+        "performance": 0.23,
+        "accessibility": 0.86,
+        "best-practices": 0.83,
+        "seo": 0.79,
+        "pwa": 0.7
+      }
+    }
+  ],
+  "server": "ia601507.us.archive.org",
+  "uniq": 291389019,
   "workable_servers": [
-    "ia801507.us.archive.org",
-    "ia601507.us.archive.org"
+    "ia601507.us.archive.org",
+    "ia801507.us.archive.org"
   ]
 }

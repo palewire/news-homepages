@@ -1,5 +1,5 @@
 {
-  "created": 1659483122,
+  "created": 1659509456,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/3/items/lanuevaespana-2022",
@@ -588,31 +588,83 @@
       "sha1": "e1970463c2fdebf644a75af8e04cb3cb83b2b8dc"
     },
     {
+      "name": "lanuevaespana-2022-08-03T06:33:50.600404+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659501233",
+      "size": "128387",
+      "md5": "c8ecdf7f2061c23c3bc87e37cdb032c4",
+      "crc32": "4fdcab7a",
+      "sha1": "d48095eed3e70357d8e5bc1b9ef05a23ebb4bfd2",
+      "format": "JSON"
+    },
+    {
+      "name": "lanuevaespana-2022-08-03T06:33:50.600404+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659501235",
+      "size": "191862",
+      "md5": "e6b5834db61f4da0753a0c1752504e91",
+      "crc32": "5275bc74",
+      "sha1": "5753dbd563c3e5264b8ba02f2c682808cdb7465d",
+      "format": "JSON"
+    },
+    {
+      "name": "lanuevaespana-2022-08-03T06:33:50.600404+02:00.jpg",
+      "source": "original",
+      "mtime": "1659501231",
+      "size": "324435",
+      "md5": "26385dd2f14aca957444c9c33752d150",
+      "crc32": "3b9f14d2",
+      "sha1": "0340756e5093b40aa940d36a87c6ad34fc978031",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lanuevaespana-2022-08-03T06:33:50.600404+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659501237",
+      "size": "1422",
+      "md5": "6bb07a227da2477eff176a3afee2b024",
+      "crc32": "9b46e1c1",
+      "sha1": "b4de4ec8edd57eee6bc17327ac865b6d64b6f67e",
+      "format": "JSON"
+    },
+    {
+      "name": "lanuevaespana-2022-08-03T06:33:50.600404+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lanuevaespana-2022-08-03T06:33:50.600404+02:00.jpg",
+      "mtime": "1659509391",
+      "size": "9827",
+      "md5": "9bfbd1af4d13921a599554200847a56a",
+      "crc32": "95b5874b",
+      "sha1": "12018a335236c67a5d63b99d34eab888a6c8a5bb"
+    },
+    {
       "name": "lanuevaespana-2022_archive.torrent",
       "source": "metadata",
-      "btih": "60effbac71c1cfd8262c12352296088eb9f4554e",
-      "mtime": "1659472127",
-      "size": "13658",
-      "md5": "3e866768e4e8c351f0cacec7d19a1430",
-      "crc32": "bc5cd087",
-      "sha1": "5d01f2531b9e776d843452a072e0eb6acdfcae7c",
+      "btih": "7e17cc134632de1552059e011895cc3e4eab1e04",
+      "mtime": "1659509424",
+      "size": "14744",
+      "md5": "a3dce58b48b5f01cbcb79cebfd0eafb1",
+      "crc32": "a4c83d1a",
+      "sha1": "4e3d6f958bdaa158baf1659045707cea99538381",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lanuevaespana-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "094b3e094c4acfbfd3a82b8050491a08",
+      "md5": "99122071b2eb104377ea8089529caa82",
       "summation": "md5"
     },
     {
       "name": "lanuevaespana-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659452219",
-      "size": "81920",
-      "md5": "75e187ac2aaad205af411a9e1e0f24e6",
-      "crc32": "027732ed",
-      "sha1": "b6c6df3eac9ac9c7296c50300a26bd39e4149469",
+      "mtime": "1659501250",
+      "size": "86016",
+      "md5": "0079e8637f717f57fd2ec5529cd0b4e1",
+      "crc32": "9f4e9177",
+      "sha1": "d8c1f15bb63e9c949b5352082533ff68cd4ae660",
       "format": "Metadata"
     },
     {
@@ -626,9 +678,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 60,
-  "item_last_updated": 1659472127,
-  "item_size": 6933777,
+  "files_count": 65,
+  "item_last_updated": 1659509424,
+  "item_size": 7594892,
   "metadata": {
     "identifier": "lanuevaespana-2022",
     "collection": [
@@ -645,10 +697,10 @@
     "publicdate": "2022-07-28 18:53:55",
     "addeddate": "2022-07-28 18:53:55"
   },
-  "server": "ia801500.us.archive.org",
-  "uniq": 1798897837,
+  "server": "ia601500.us.archive.org",
+  "uniq": 1378723727,
   "workable_servers": [
-    "ia801500.us.archive.org",
-    "ia601500.us.archive.org"
+    "ia601500.us.archive.org",
+    "ia801500.us.archive.org"
   ]
 }

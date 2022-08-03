@@ -1,5 +1,5 @@
 {
-  "created": 1659477354,
+  "created": 1659531364,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/18/items/rollcall-2022",
@@ -2560,31 +2560,73 @@
       "sha1": "8c74314365b96c4531e42f4c179e3714b97e5e17"
     },
     {
+      "name": "rollcall-2022-08-03T00:43:20.208650-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659501805",
+      "size": "38562",
+      "md5": "65c3ee3f0b7e3dd65f0bf9a6d78644f3",
+      "crc32": "e430f7cc",
+      "sha1": "b3839df999039805ea1db50c8c0875d0540393b5",
+      "format": "JSON"
+    },
+    {
+      "name": "rollcall-2022-08-03T00:43:20.208650-04:00.jpg",
+      "source": "original",
+      "mtime": "1659501803",
+      "size": "262347",
+      "md5": "3f989d394ea7b4cc089024f53b55843c",
+      "crc32": "bbb7aad4",
+      "sha1": "5e0bcb21f263f8958e6cfb683c80da45057611f0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rollcall-2022-08-03T00:43:20.208650-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659501807",
+      "size": "1441",
+      "md5": "a1d18367546fb75603f446efd874d7fa",
+      "crc32": "46d40539",
+      "sha1": "6a06920c4d57351fdc5d8d81cdb988ab9f0330f1",
+      "format": "JSON"
+    },
+    {
+      "name": "rollcall-2022-08-03T00:43:20.208650-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rollcall-2022-08-03T00:43:20.208650-04:00.jpg",
+      "mtime": "1659509873",
+      "size": "10594",
+      "md5": "b6a8fc91673745cf6fa4a21d677f4f0b",
+      "crc32": "b4a6350a",
+      "sha1": "27f3922b94e62b674e11b872db2e04f692703d87"
+    },
+    {
       "name": "rollcall-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2c9746225eb588419bb6517aabba8618b0712448",
-      "mtime": "1659477341",
-      "size": "52826",
-      "md5": "d15b5b58708338a9699473fbbaa889fa",
-      "crc32": "fd198417",
-      "sha1": "78ff7a8679c4b2a061b0cfcf01ad5354ccf1a549",
+      "btih": "8250fd73190f7b702f64c7b9bc684c9a0e3a75f8",
+      "mtime": "1659509879",
+      "size": "53675",
+      "md5": "b0f4d30ef78e17e984e1e26a69f6e393",
+      "crc32": "21c7921b",
+      "sha1": "4c5230f0b07c3e0894c2341b0916de57f11ed407",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rollcall-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "91cb42a35153ce2eac875350fd577478",
+      "md5": "68af021df7bc5fda0d5be2950660f0b5",
       "summation": "md5"
     },
     {
       "name": "rollcall-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659457130",
-      "size": "303104",
-      "md5": "cb04aef766032be09a3014b8c1d8f829",
-      "crc32": "b0c11186",
-      "sha1": "b70fe797e1537891678c0b3c8e8f07e6016f62af",
+      "mtime": "1659501811",
+      "size": "307200",
+      "md5": "ebf8ece95c1998fdfb337d857275b482",
+      "crc32": "5cbc6c81",
+      "sha1": "9d29252323988c3866766de8bc606d1b3d921474",
       "format": "Metadata"
     },
     {
@@ -2598,9 +2640,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 248,
-  "item_last_updated": 1659477341,
-  "item_size": 19669004,
+  "files_count": 252,
+  "item_last_updated": 1659509879,
+  "item_size": 19986893,
   "metadata": {
     "identifier": "rollcall-2022",
     "collection": [
@@ -2617,10 +2659,51 @@
     "publicdate": "2022-07-04 21:52:31",
     "addeddate": "2022-07-04 21:52:31"
   },
-  "server": "ia601407.us.archive.org",
-  "uniq": 1951195298,
+  "rollcall-2022": [
+    {
+      "url": "https://rollcall.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/rollcall_com-_-2022_08_03_04_02_29.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/rollcall_com-_-2022_08_03_04_02_29.report.json",
+      "summary": {
+        "performance": 0.16,
+        "accessibility": 0.96,
+        "best-practices": 0.92,
+        "seo": 0.99,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://rollcall.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/rollcall_com-_-2022_08_03_04_02_55.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/rollcall_com-_-2022_08_03_04_02_55.report.json",
+      "summary": {
+        "performance": 0.17,
+        "accessibility": 0.96,
+        "best-practices": 0.92,
+        "seo": 0.99,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://rollcall.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/rollcall_com-_-2022_08_03_04_03_19.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/rollcall_com-_-2022_08_03_04_03_19.report.json",
+      "summary": {
+        "performance": 0.17,
+        "accessibility": 0.96,
+        "best-practices": 0.92,
+        "seo": 0.99,
+        "pwa": 0.3
+      }
+    }
+  ],
+  "server": "ia801407.us.archive.org",
+  "uniq": 79940880,
   "workable_servers": [
-    "ia601407.us.archive.org",
-    "ia801407.us.archive.org"
+    "ia801407.us.archive.org",
+    "ia601407.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1659482776,
+  "created": 1659530502,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/23/items/eastbaytimes-2022",
@@ -10001,31 +10001,83 @@
       "format": "JSON"
     },
     {
+      "name": "eastbaytimes-2022-08-02T16:24:09.550640-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "eastbaytimes-2022-08-02T16:24:09.550640-07:00.jpg",
+      "mtime": "1659494530",
+      "size": "9587",
+      "md5": "c4fa6385d4f6883d3c294d4c25e250da",
+      "crc32": "d9f1b51f",
+      "sha1": "3ffb296ac03bf3e113ebf9d4c1eebc1ca5f47f47"
+    },
+    {
+      "name": "eastbaytimes-2022-08-03T05:40:30.245145-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659530441",
+      "size": "40547",
+      "md5": "cdd05d753039688327216196ed3ddb20",
+      "crc32": "c5718e71",
+      "sha1": "ec1c9813388773952b7e8971bb649e3f92cf228f",
+      "format": "JSON"
+    },
+    {
+      "name": "eastbaytimes-2022-08-03T05:40:30.245145-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659530443",
+      "size": "58688",
+      "md5": "da8325a783a4430e11fccde55b20b729",
+      "crc32": "2d46d052",
+      "sha1": "35e1f13003f0b9c92b07c7cbe7c59e959fbf52bd",
+      "format": "JSON"
+    },
+    {
+      "name": "eastbaytimes-2022-08-03T05:40:30.245145-07:00.jpg",
+      "source": "original",
+      "mtime": "1659530436",
+      "size": "283514",
+      "md5": "28297d5862aabff786b4b6dd740cc7ce",
+      "crc32": "32980c81",
+      "sha1": "83b333e6fe11c2f8b369e26425331e23bd83a42a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "eastbaytimes-2022-08-03T05:40:30.245145-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659530444",
+      "size": "1513",
+      "md5": "df248525691522ff073cad4ab83d60eb",
+      "crc32": "77c32dab",
+      "sha1": "86869e3994bc16a97a117330f3c237d62673d6e5",
+      "format": "JSON"
+    },
+    {
       "name": "eastbaytimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "18c738fe4437f5970d12ad897718290b0673dc9b",
-      "mtime": "1659482712",
-      "size": "206214",
-      "md5": "b75edb6bf2c7324546cd7ab38138eb8f",
-      "crc32": "1a1e85fc",
-      "sha1": "c14ccb1e8e4db380ffec3617a2d9e21fde967bb4",
+      "btih": "16af316c6273f65644a0b59e011a24846d0c036d",
+      "mtime": "1659530497",
+      "size": "207293",
+      "md5": "cca8471aabf8a41230e4cc0e5398bbf4",
+      "crc32": "9306f025",
+      "sha1": "5906828372459969790990cd8e92b4ce5835a1d4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "eastbaytimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "52b98f042b03dcc54ba25ce160d92ad3",
+      "md5": "9c5dc930646a40fab1ea1846501274cd",
       "summation": "md5"
     },
     {
       "name": "eastbaytimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659482663",
-      "size": "1110016",
-      "md5": "1595629e802faeaf260c3c46dff46ee7",
-      "crc32": "10da1a4c",
-      "sha1": "59de9061a6d6e3f531ba9628665bfadf1f6ba684",
+      "mtime": "1659530452",
+      "size": "1118208",
+      "md5": "3170db77d62066907277ed67f22b9363",
+      "crc32": "58962f98",
+      "sha1": "cccfe5183e2f3b3e2fc3467ffd988d98bf4ef462",
       "format": "Metadata"
     },
     {
@@ -10039,9 +10091,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 956,
-  "item_last_updated": 1659482712,
-  "item_size": 95340783,
+  "files_count": 961,
+  "item_last_updated": 1659530497,
+  "item_size": 95743903,
   "metadata": {
     "identifier": "eastbaytimes-2022",
     "collection": [
@@ -10063,7 +10115,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350899301,
+      "task_id": 3351410287,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -10071,7 +10123,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 928495708,
+  "uniq": 909512968,
   "workable_servers": [
     "ia902504.us.archive.org"
   ]

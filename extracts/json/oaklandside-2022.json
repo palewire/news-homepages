@@ -1,5 +1,5 @@
 {
-  "created": 1659487287,
+  "created": 1659531249,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/30/items/oaklandside-2022",
@@ -10021,21 +10021,32 @@
       "format": "JSON"
     },
     {
+      "name": "oaklandside-2022-08-02T17:40:25.144311-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oaklandside-2022-08-02T17:40:25.144311-07:00.jpg",
+      "mtime": "1659498312",
+      "size": "10575",
+      "md5": "34789476f1829e70a224fbdbecaa8934",
+      "crc32": "46d19620",
+      "sha1": "a8a4cfc227bd46240434a4bd6eb5726b3756f8fd"
+    },
+    {
       "name": "oaklandside-2022_archive.torrent",
       "source": "metadata",
-      "btih": "aa76f22d6988fbaf865bd899190250392ee6e5e2",
-      "mtime": "1659487282",
-      "size": "205893",
-      "md5": "1a43b35e08cd89dfc71515a9da4529b3",
-      "crc32": "068ffe20",
-      "sha1": "a894f8e8c1082f060dd44ac315d930a1d1e2312b",
+      "btih": "6d2694ac115de8cddd248705a4bf37729174dbce",
+      "mtime": "1659498340",
+      "size": "206101",
+      "md5": "152e078c32a2e3157a574d2183832ee4",
+      "crc32": "9aad2ceb",
+      "sha1": "94e31fd96ebe822e9e7bfe0392712849fabf970e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "oaklandside-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0cb98a7a874a391677b8d612af7a0766",
+      "md5": "22aacc714593ce69a61bea725814f384",
       "summation": "md5"
     },
     {
@@ -10059,9 +10070,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 958,
-  "item_last_updated": 1659487282,
-  "item_size": 99875719,
+  "files_count": 959,
+  "item_last_updated": 1659498340,
+  "item_size": 99886502,
   "metadata": {
     "identifier": "oaklandside-2022",
     "collection": [
@@ -10078,21 +10089,51 @@
     "publicdate": "2022-03-23 02:09:27",
     "addeddate": "2022-03-23 02:09:27"
   },
-  "pending_tasks": true,
-  "server": "ia902503.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "oaklandside-2022": [
     {
-      "task_id": 3350942997,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "url": "https://oaklandside.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/oaklandside_org-_-2022_08_03_00_16_13.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/oaklandside_org-_-2022_08_03_00_16_13.report.json",
+      "summary": {
+        "performance": 0.28,
+        "accessibility": 0.88,
+        "best-practices": 0.92,
+        "seo": 0.91,
+        "pwa": 0.9
+      }
+    },
+    {
+      "url": "https://oaklandside.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/oaklandside_org-_-2022_08_03_00_16_33.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/oaklandside_org-_-2022_08_03_00_16_33.report.json",
+      "summary": {
+        "performance": 0.54,
+        "accessibility": 0.88,
+        "best-practices": 0.92,
+        "seo": 0.91,
+        "pwa": 0.9
+      }
+    },
+    {
+      "url": "https://oaklandside.org/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/oaklandside_org-_-2022_08_03_00_16_50.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/oaklandside_org-_-2022_08_03_00_16_50.report.json",
+      "summary": {
+        "performance": 0.51,
+        "accessibility": 0.88,
+        "best-practices": 0.92,
+        "seo": 0.91,
+        "pwa": 0.9
+      }
     }
   ],
-  "uniq": 731524221,
+  "server": "ia802503.us.archive.org",
+  "uniq": 1223402470,
   "workable_servers": [
+    "ia802503.us.archive.org",
     "ia902503.us.archive.org"
   ]
 }

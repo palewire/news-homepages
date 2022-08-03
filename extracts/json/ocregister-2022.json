@@ -1,5 +1,5 @@
 {
-  "created": 1659483492,
+  "created": 1659509752,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/19/items/ocregister-2022",
@@ -12898,31 +12898,83 @@
       "sha1": "72c267257f9f03a5ef2042f7c276c07db182dfc4"
     },
     {
+      "name": "ocregister-2022-08-02T21:38:33.627845-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659501517",
+      "size": "39929",
+      "md5": "02f8c36f027e9fd6305cff61fc0b39bb",
+      "crc32": "9e3ddeba",
+      "sha1": "c7f601158994acf5273e5d206d9cb90d05ada850",
+      "format": "JSON"
+    },
+    {
+      "name": "ocregister-2022-08-02T21:38:33.627845-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659501518",
+      "size": "47980",
+      "md5": "1ade679363ac42fb22bef4b580319799",
+      "crc32": "dc65d73a",
+      "sha1": "6f33cc11f21567e5d0c2b39ff080d0d0cd16e5e1",
+      "format": "JSON"
+    },
+    {
+      "name": "ocregister-2022-08-02T21:38:33.627845-07:00.jpg",
+      "source": "original",
+      "mtime": "1659501515",
+      "size": "277748",
+      "md5": "c60ec9fc49aac91e495bf71bad02ac82",
+      "crc32": "1bb0daed",
+      "sha1": "2b5f336f86cc32157b256c205eb1104d8b4fec29",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ocregister-2022-08-02T21:38:33.627845-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659501520",
+      "size": "1495",
+      "md5": "96bf4a8ffa4724e0e215c2334c354fe4",
+      "crc32": "8db7060b",
+      "sha1": "dc8dfcc2bd135b948c68169d1c2e0b19f79304b1",
+      "format": "JSON"
+    },
+    {
+      "name": "ocregister-2022-08-02T21:38:33.627845-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ocregister-2022-08-02T21:38:33.627845-07:00.jpg",
+      "mtime": "1659509632",
+      "size": "9270",
+      "md5": "cd437e8eab92e96186c73c89d6923a7f",
+      "crc32": "9acfd035",
+      "sha1": "1e2e87dac8f1ca0f731768db68e346bf1a5421ce"
+    },
+    {
       "name": "ocregister-2022_archive.torrent",
       "source": "metadata",
-      "btih": "309ea1aa0eaf9a489a906560dcc5890788593115",
-      "mtime": "1659483103",
-      "size": "263463",
-      "md5": "ddb1ad8c7ac5b6c9a491e7cc5049ac6e",
-      "crc32": "293b655c",
-      "sha1": "ed5e4c0cde452537348df541d0a82833ca95790c",
+      "btih": "4902deeec20cb6a135dad84f2adc09e509fd1325",
+      "mtime": "1659509726",
+      "size": "264512",
+      "md5": "babab1958437f3d1cfed5b7f655c7401",
+      "crc32": "0fcce56e",
+      "sha1": "1fb988e7fd1f437e9909b3b4c618f53c4c0ba5de",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ocregister-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6d5acd5ff3c4d516fac94c2f5bb1e0c2",
+      "md5": "9fe337d68c51c86249b06f681236801f",
       "summation": "md5"
     },
     {
       "name": "ocregister-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659464300",
-      "size": "1417216",
-      "md5": "dc7e385151ee7b1b5fccdb413fde111d",
-      "crc32": "ee41aa40",
-      "sha1": "ba963dd6d6cce5c6b5f0d71fe4cf3adef8db94b2",
+      "mtime": "1659501526",
+      "size": "1429504",
+      "md5": "b504fe4376656bd15d16fcbc2d1cdd56",
+      "crc32": "ba827f42",
+      "sha1": "6111162a5c48b4ec170e3769624bd48a4c72b50e",
       "format": "Metadata"
     },
     {
@@ -12936,9 +12988,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1232,
-  "item_last_updated": 1659483103,
-  "item_size": 134602934,
+  "files_count": 1237,
+  "item_last_updated": 1659509726,
+  "item_size": 134992693,
   "metadata": {
     "identifier": "ocregister-2022",
     "collection": [
@@ -12955,10 +13007,10 @@
     "publicdate": "2022-03-23 02:09:14",
     "addeddate": "2022-03-23 02:09:14"
   },
-  "server": "ia802502.us.archive.org",
-  "uniq": 819636362,
+  "server": "ia902502.us.archive.org",
+  "uniq": 779034677,
   "workable_servers": [
-    "ia802502.us.archive.org",
-    "ia902502.us.archive.org"
+    "ia902502.us.archive.org",
+    "ia802502.us.archive.org"
   ]
 }

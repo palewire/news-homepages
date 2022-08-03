@@ -1,5 +1,5 @@
 {
-  "created": 1659477262,
+  "created": 1659531331,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/32/items/punjabkesari-2022",
@@ -682,31 +682,83 @@
       "sha1": "2e3622c9e5628791edc6039d78a1a838500e4861"
     },
     {
+      "name": "punjabkesari-2022-08-03T10:11:28.350130+05:30.accessibility.json",
+      "source": "original",
+      "mtime": "1659501691",
+      "size": "65260",
+      "md5": "beefee2a2a921c03b799f6aeac4b6dc7",
+      "crc32": "0ecf5034",
+      "sha1": "7aa96e6794c19de8cc8af8a76a2ccfe599522e41",
+      "format": "JSON"
+    },
+    {
+      "name": "punjabkesari-2022-08-03T10:11:28.350130+05:30.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659501692",
+      "size": "136966",
+      "md5": "4042e708c7e4b5587ab8604ebe5b6688",
+      "crc32": "9e66b590",
+      "sha1": "d33000e037d7e29205c6de95fdb59d9da545f09c",
+      "format": "JSON"
+    },
+    {
+      "name": "punjabkesari-2022-08-03T10:11:28.350130+05:30.jpg",
+      "source": "original",
+      "mtime": "1659501689",
+      "size": "358481",
+      "md5": "bf2d06d12d1f441225230134625b82f4",
+      "crc32": "54a9d17e",
+      "sha1": "183e7a3953fbd3f0497a91be8082da625ff9ef8a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "punjabkesari-2022-08-03T10:11:28.350130+05:30.lighthouse.json",
+      "source": "original",
+      "mtime": "1659501694",
+      "size": "1484",
+      "md5": "7f3117a06bcece1d5f3b610bf935b727",
+      "crc32": "fb7b2ab0",
+      "sha1": "cc6c4ad9536d0a1a97e551b134cb6e33b5ca9d1f",
+      "format": "JSON"
+    },
+    {
+      "name": "punjabkesari-2022-08-03T10:11:28.350130+05:30_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "punjabkesari-2022-08-03T10:11:28.350130+05:30.jpg",
+      "mtime": "1659510465",
+      "size": "10604",
+      "md5": "17f4dd8fe1e89547a7dc20726ec8e029",
+      "crc32": "0be41009",
+      "sha1": "a63895f88211a36d604defe8f91a1a57a8085982"
+    },
+    {
       "name": "punjabkesari-2022_archive.torrent",
       "source": "metadata",
-      "btih": "539a7abbdea0cc118d5d91de4fc99a351a2f29d9",
-      "mtime": "1659477239",
-      "size": "15520",
-      "md5": "927b189985f48b188571e432d08b95ff",
-      "crc32": "300c8856",
-      "sha1": "09d1b38dce0d879a27580726957e5b633bfa189c",
+      "btih": "f20bd629ad5d5fdbd5a355018473f1d433de257f",
+      "mtime": "1659510469",
+      "size": "16602",
+      "md5": "134b570276d30250648e9cc95c3f7f0b",
+      "crc32": "aaf77e53",
+      "sha1": "719687d54d7a82cdd93830ac0358f41fabcdd380",
       "format": "Archive BitTorrent"
     },
     {
       "name": "punjabkesari-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "50a95a6391f7e9f81ec66d35855cc50d",
+      "md5": "d27950c6464f082e7b8562723b949376",
       "summation": "md5"
     },
     {
       "name": "punjabkesari-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659457050",
-      "size": "98304",
-      "md5": "abb1be389ce33c2bc0aed2db3c75e751",
-      "crc32": "2ee93509",
-      "sha1": "ddd2beab1043ff41488c1c6a7fe1df6a373e8c36",
+      "mtime": "1659501704",
+      "size": "106496",
+      "md5": "4ae8b6bf810fdaa216d3df7cd36c4a55",
+      "crc32": "e153e148",
+      "sha1": "2217de86936d9a4afc66219360a8885b235c5e90",
       "format": "Metadata"
     },
     {
@@ -720,9 +772,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 69,
-  "item_last_updated": 1659477239,
-  "item_size": 7364994,
+  "files_count": 74,
+  "item_last_updated": 1659510469,
+  "item_size": 7947063,
   "metadata": {
     "identifier": "punjabkesari-2022",
     "collection": [
@@ -739,8 +791,49 @@
     "publicdate": "2022-07-27 17:18:15",
     "addeddate": "2022-07-27 17:18:15"
   },
+  "punjabkesari-2022": [
+    {
+      "url": "https://m.punjabkesari.in/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_punjabkesari_in-_-2022_08_03_04_00_17.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_punjabkesari_in-_-2022_08_03_04_00_17.report.json",
+      "summary": {
+        "performance": 0.07,
+        "accessibility": 0.64,
+        "best-practices": 0.42,
+        "seo": 0.84,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://m.punjabkesari.in/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_punjabkesari_in-_-2022_08_03_04_01_06.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_punjabkesari_in-_-2022_08_03_04_01_06.report.json",
+      "summary": {
+        "performance": 0.21,
+        "accessibility": 0.73,
+        "best-practices": 0.5,
+        "seo": 0.84,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://m.punjabkesari.in/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_punjabkesari_in-_-2022_08_03_04_00_44.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_punjabkesari_in-_-2022_08_03_04_00_44.report.json",
+      "summary": {
+        "performance": 0.14,
+        "accessibility": 0.73,
+        "best-practices": 0.5,
+        "seo": 0.84,
+        "pwa": 0.3
+      }
+    }
+  ],
   "server": "ia601404.us.archive.org",
-  "uniq": 1664925473,
+  "uniq": 1457131717,
   "workable_servers": [
     "ia601404.us.archive.org",
     "ia801404.us.archive.org"

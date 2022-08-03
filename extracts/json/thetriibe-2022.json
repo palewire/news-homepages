@@ -1,5 +1,5 @@
 {
-  "created": 1659478017,
+  "created": 1659531579,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/3/items/thetriibe-2022",
@@ -6424,31 +6424,83 @@
       "sha1": "718ed954bdf688ddac1d558a13080aa4479d7d30"
     },
     {
+      "name": "thetriibe-2022-08-02T20:58:38.728314-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659491921",
+      "size": "8300",
+      "md5": "d0b3976d0416c6b4c8f12c8d38740084",
+      "crc32": "61071caa",
+      "sha1": "4089472598c1d41bc6323ca5896a4f6f8cedb510",
+      "format": "JSON"
+    },
+    {
+      "name": "thetriibe-2022-08-02T20:58:38.728314-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659491922",
+      "size": "7627",
+      "md5": "bf9f30a1a3ca7ec433bcfc5704f10a55",
+      "crc32": "ecb4aca3",
+      "sha1": "65dcc126929c0cc4a4706ff52fea2b05277aadd7",
+      "format": "JSON"
+    },
+    {
+      "name": "thetriibe-2022-08-02T20:58:38.728314-05:00.jpg",
+      "source": "original",
+      "mtime": "1659491919",
+      "size": "369946",
+      "md5": "0334fe81ce40568b71f1ffbe3dddcf5f",
+      "crc32": "948286fb",
+      "sha1": "6e8eaedc00f5df09831ae36e700d23fd4c41b201",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thetriibe-2022-08-02T20:58:38.728314-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659491923",
+      "size": "1449",
+      "md5": "3eed2d6a5177ad34914bb7e259612f83",
+      "crc32": "34ab999e",
+      "sha1": "574f9b688b37b89496c46130df4c7c1863dd0144",
+      "format": "JSON"
+    },
+    {
+      "name": "thetriibe-2022-08-02T20:58:38.728314-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thetriibe-2022-08-02T20:58:38.728314-05:00.jpg",
+      "mtime": "1659502271",
+      "size": "11735",
+      "md5": "138a5a4c9dc3fe0a0b5376289fa34efa",
+      "crc32": "641bae61",
+      "sha1": "eb0ccee420767ecde9e143464acd8e23c8f04bed"
+    },
+    {
       "name": "thetriibe-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4b82c9443b0ee498013174677a44bd6279b78ae6",
-      "mtime": "1659477998",
-      "size": "130818",
-      "md5": "ce8eb438b81444f58b393ab0253bc5c8",
-      "crc32": "432ed7a9",
-      "sha1": "ba122f8c725271c671e80065cca4d791641950de",
+      "btih": "529942c870b37a3c03160a95580749176eb4e75a",
+      "mtime": "1659502282",
+      "size": "131881",
+      "md5": "6ce5d5387fbb7338e5e2e254750f6a42",
+      "crc32": "02b402f7",
+      "sha1": "0f3b8b5954dcf94219b71098b0e5ff04b71c53e4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thetriibe-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "57b7e647f164f2141b79ccfb6a698ff6",
+      "md5": "87c2299fca20b0c99d0192989c40e09d",
       "summation": "md5"
     },
     {
       "name": "thetriibe-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659457696",
-      "size": "729088",
-      "md5": "2fd343c9eca07913255b3f43087609be",
-      "crc32": "c0bfa83d",
-      "sha1": "df411587e0f2dba7e8ee517b529ed9680aaa85c3",
+      "mtime": "1659491927",
+      "size": "741376",
+      "md5": "49c1eeaadea17b987b4133668cc411ff",
+      "crc32": "141e94e7",
+      "sha1": "96847c350f8c7bb3ff984cf9ec48352f8afb7bf9",
       "format": "Metadata"
     },
     {
@@ -6462,9 +6514,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 617,
-  "item_last_updated": 1659477998,
-  "item_size": 49016945,
+  "files_count": 622,
+  "item_last_updated": 1659502282,
+  "item_size": 49429353,
   "metadata": {
     "identifier": "thetriibe-2022",
     "collection": [
@@ -6481,10 +6533,51 @@
     "publicdate": "2022-06-19 23:29:01",
     "addeddate": "2022-06-19 23:29:01"
   },
-  "server": "ia801508.us.archive.org",
-  "uniq": 1602241039,
+  "server": "ia601508.us.archive.org",
+  "thetriibe-2022": [
+    {
+      "url": "https://thetriibe.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thetriibe_com-_-2022_08_03_01_34_00.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thetriibe_com-_-2022_08_03_01_34_00.report.json",
+      "summary": {
+        "performance": 0.19,
+        "accessibility": 0.66,
+        "best-practices": 0.92,
+        "seo": 0.86,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://thetriibe.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thetriibe_com-_-2022_08_03_01_34_23.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thetriibe_com-_-2022_08_03_01_34_23.report.json",
+      "summary": {
+        "performance": 0.2,
+        "accessibility": 0.66,
+        "best-practices": 0.92,
+        "seo": 0.86,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://thetriibe.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thetriibe_com-_-2022_08_03_01_33_36.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thetriibe_com-_-2022_08_03_01_33_36.report.json",
+      "summary": {
+        "performance": 0.18,
+        "accessibility": 0.66,
+        "best-practices": 0.92,
+        "seo": 0.86,
+        "pwa": 0.3
+      }
+    }
+  ],
+  "uniq": 131245568,
   "workable_servers": [
-    "ia801508.us.archive.org",
-    "ia601508.us.archive.org"
+    "ia601508.us.archive.org",
+    "ia801508.us.archive.org"
   ]
 }

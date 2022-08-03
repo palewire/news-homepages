@@ -1,5 +1,5 @@
 {
-  "created": 1659487013,
+  "created": 1659530980,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/13/items/ledgerenquirer-2022",
@@ -1391,31 +1391,83 @@
       "format": "JSON"
     },
     {
+      "name": "ledgerenquirer-2022-08-02T20:36:03.940731-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ledgerenquirer-2022-08-02T20:36:03.940731-04:00.jpg",
+      "mtime": "1659498142",
+      "size": "9259",
+      "md5": "17138af8f7f8a50abf086f6943290240",
+      "crc32": "b5ab97e5",
+      "sha1": "32182e955c517b2dffd9fe894e02096e1789780b"
+    },
+    {
+      "name": "ledgerenquirer-2022-08-03T08:48:46.861505-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659530929",
+      "size": "463",
+      "md5": "011e838ada170b702a9cada7bcf7add8",
+      "crc32": "10a43478",
+      "sha1": "64b67ed967bc22c65bd9427ed77f697d37b557e1",
+      "format": "JSON"
+    },
+    {
+      "name": "ledgerenquirer-2022-08-03T08:48:46.861505-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659530931",
+      "size": "34855",
+      "md5": "15c50ac677eff0fbfcc025be41b09759",
+      "crc32": "3d5720f3",
+      "sha1": "cd0f6b12fe7931c6604d50c36e6a4bed922f88e5",
+      "format": "JSON"
+    },
+    {
+      "name": "ledgerenquirer-2022-08-03T08:48:46.861505-04:00.jpg",
+      "source": "original",
+      "mtime": "1659530928",
+      "size": "249078",
+      "md5": "8de344f56a71cd47910f7b117c5918e6",
+      "crc32": "b4d7ccb0",
+      "sha1": "5659fbd5688d3828382b0cb7adb81e97d7bea07b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ledgerenquirer-2022-08-03T08:48:46.861505-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659530932",
+      "size": "1539",
+      "md5": "2d52d75de9283b46e54684dd676a6ee1",
+      "crc32": "616bbfa1",
+      "sha1": "d3e73b679351f7cda55feffcf05236400b933e3b",
+      "format": "JSON"
+    },
+    {
       "name": "ledgerenquirer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a452fa763c6704f2b4dd82e9de3ab051a24f5dfd",
-      "mtime": "1659487010",
-      "size": "30176",
-      "md5": "91d0ee177e69bfcacc34aef7297585d8",
-      "crc32": "2de2fa2e",
-      "sha1": "4275656d34b7e378e761588542b79f06288c6e80",
+      "btih": "e561d9e64411889cc13c0495b555a1ea09cd72fc",
+      "mtime": "1659530978",
+      "size": "31243",
+      "md5": "f58e47579292b8e8f06d76f35fed6f21",
+      "crc32": "5fba3b7d",
+      "sha1": "a402cca7f5a734a2ceb7625250349c8e5e711ca0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ledgerenquirer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "43c82bb5563f9c05e38793e004120812",
+      "md5": "d960d518f20c9c0d8a3942a2eaba2fb7",
       "summation": "md5"
     },
     {
       "name": "ledgerenquirer-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659486975",
-      "size": "184320",
-      "md5": "f89a4d22aa67dfb63c6e9751c12e6f98",
-      "crc32": "a985801d",
-      "sha1": "062a55a52a73412c22a47bab76abdf99f9b4eafd",
+      "mtime": "1659530944",
+      "size": "192512",
+      "md5": "73f45b0fa0e5b34e361423fd47d7a29e",
+      "crc32": "9eb3f7f6",
+      "sha1": "4c292a72025b027ae1398cc30ba6d58beab71c44",
       "format": "Metadata"
     },
     {
@@ -1429,9 +1481,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 137,
-  "item_last_updated": 1659487010,
-  "item_size": 8969558,
+  "files_count": 142,
+  "item_last_updated": 1659530978,
+  "item_size": 9274011,
   "metadata": {
     "identifier": "ledgerenquirer-2022",
     "collection": [
@@ -1453,7 +1505,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350940131,
+      "task_id": 3351414732,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1461,7 +1513,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1654169446,
+  "uniq": 668180406,
   "workable_servers": [
     "ia601503.us.archive.org"
   ]

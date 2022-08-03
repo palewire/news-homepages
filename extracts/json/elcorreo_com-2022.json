@@ -1,8 +1,49 @@
 {
-  "created": 1659471683,
+  "created": 1659530898,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/30/items/elcorreo_com-2022",
+  "elcorreo_com-2022": [
+    {
+      "url": "https://www.elcorreo.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_elcorreo_com-_-2022_08_03_02_58_22.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_elcorreo_com-_-2022_08_03_02_58_22.report.json",
+      "summary": {
+        "performance": 0.15,
+        "accessibility": 0.58,
+        "best-practices": 0.75,
+        "seo": 0.83,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.elcorreo.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_elcorreo_com-_-2022_08_03_02_59_01.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_elcorreo_com-_-2022_08_03_02_59_01.report.json",
+      "summary": {
+        "performance": 0.25,
+        "accessibility": 0.58,
+        "best-practices": 0.75,
+        "seo": 0.83,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.elcorreo.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_elcorreo_com-_-2022_08_03_02_59_32.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_elcorreo_com-_-2022_08_03_02_59_32.report.json",
+      "summary": {
+        "performance": 0.21,
+        "accessibility": 0.58,
+        "best-practices": 0.75,
+        "seo": 0.83,
+        "pwa": 0.4
+      }
+    }
+  ],
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -396,31 +437,51 @@
       "format": "JSON"
     },
     {
+      "name": "elcorreo_com-2022-08-03T06:27:47.355947+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659500869",
+      "size": "174620",
+      "md5": "8eba439350ca74ffcfdc6b68ce937c20",
+      "crc32": "2805dc64",
+      "sha1": "70b0b2e064abc76c138765ec7b2e091e4a7d5af3",
+      "format": "JSON"
+    },
+    {
+      "name": "elcorreo_com-2022-08-03T06:27:47.355947+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659500871",
+      "size": "1477",
+      "md5": "bdd636e081ddb5717e516de7b089bc10",
+      "crc32": "f6821437",
+      "sha1": "50ae4ee66f22814b1eb5e3ca32e7dc2a97bb8b4b",
+      "format": "JSON"
+    },
+    {
       "name": "elcorreo_com-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d071d2f0247747503e7b4b3291216fea500c0adc",
-      "mtime": "1659451957",
-      "size": "9688",
-      "md5": "e38f0bb0380ad7227b157c16d442f53f",
-      "crc32": "a6527ded",
-      "sha1": "01a0cb803d1932867adcd622574c9a3969ac384c",
+      "btih": "90a0b91c1eef0083da43f85e01e145428451f340",
+      "mtime": "1659500907",
+      "size": "10118",
+      "md5": "dd12e9fb0ad55b8d29aa99217bfad9e0",
+      "crc32": "534a3c8e",
+      "sha1": "a4bf9eb81d12c0c088db8031b2475abecf76d5d0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "elcorreo_com-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a5a8985f3dc90acf8147b085e657d136",
+      "md5": "3f3ea96c92f9b17ec9a7517fc8ec5926",
       "summation": "md5"
     },
     {
       "name": "elcorreo_com-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659451922",
-      "size": "65536",
-      "md5": "e990092749b2faf6f76e5a22cf319b90",
-      "crc32": "fd58642a",
-      "sha1": "04d95b985d2d6b14cf8bf13b642a2ccb103ad401",
+      "mtime": "1659500874",
+      "size": "69632",
+      "md5": "036deae5056a3e9cdd8f2656a123076f",
+      "crc32": "353fc48b",
+      "sha1": "6e8b2f9f182eb6f2091501ee3735656773f52d70",
       "format": "Metadata"
     },
     {
@@ -434,9 +495,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 42,
-  "item_last_updated": 1659451957,
-  "item_size": 3991744,
+  "files_count": 44,
+  "item_last_updated": 1659500907,
+  "item_size": 4172367,
   "metadata": {
     "identifier": "elcorreo_com-2022",
     "collection": [
@@ -454,7 +515,7 @@
     "addeddate": "2022-07-28 18:53:37"
   },
   "server": "ia802505.us.archive.org",
-  "uniq": 1689382996,
+  "uniq": 1770756474,
   "workable_servers": [
     "ia802505.us.archive.org",
     "ia902505.us.archive.org"

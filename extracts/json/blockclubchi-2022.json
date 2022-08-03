@@ -1,5 +1,5 @@
 {
-  "created": 1659482407,
+  "created": 1659530259,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/32/items/blockclubchi-2022",
@@ -6455,31 +6455,83 @@
       "format": "JSON"
     },
     {
+      "name": "blockclubchi-2022-08-02T18:19:09.539398-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "blockclubchi-2022-08-02T18:19:09.539398-05:00.jpg",
+      "mtime": "1659495036",
+      "size": "10310",
+      "md5": "707640f106a58d2938b15bed0e8301c1",
+      "crc32": "d8b2b88f",
+      "sha1": "242aa7b9f8ddb2de7547fe3447dcb1a292c37c05"
+    },
+    {
+      "name": "blockclubchi-2022-08-03T07:36:47.382410-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659530210",
+      "size": "21279",
+      "md5": "5ef24dddd6ab2b0f9d4e253f5c12f654",
+      "crc32": "068b19a9",
+      "sha1": "3e059da203f5e7ea608a3652d1ade4e13d478714",
+      "format": "JSON"
+    },
+    {
+      "name": "blockclubchi-2022-08-03T07:36:47.382410-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659530211",
+      "size": "31835",
+      "md5": "a9d3ff41799c95720ab98dbee0baf61a",
+      "crc32": "c0f1a716",
+      "sha1": "f03c71fe937de17bb801336e04d3cb25325a0caf",
+      "format": "JSON"
+    },
+    {
+      "name": "blockclubchi-2022-08-03T07:36:47.382410-05:00.jpg",
+      "source": "original",
+      "mtime": "1659530208",
+      "size": "335393",
+      "md5": "73b872bd811e9a9b11019e15829b9b9f",
+      "crc32": "5eb75d62",
+      "sha1": "e9372c524f32a96dc44b65c223fcf08938091ad8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "blockclubchi-2022-08-03T07:36:47.382410-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659530213",
+      "size": "1513",
+      "md5": "b4c0e6de3ad17393497d019e3c821574",
+      "crc32": "4d732ca4",
+      "sha1": "2f6d148875c416d6fdf4c6a1a563bad81aa1d3be",
+      "format": "JSON"
+    },
+    {
       "name": "blockclubchi-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b8b38f1f09c734af50902f33e208026e0b9a37e2",
-      "mtime": "1659482402",
-      "size": "133969",
-      "md5": "a9a9b3d432dc9c20a80b1a442f55682a",
-      "crc32": "4000d3b1",
-      "sha1": "9ffc13fba858421c27b574bac705a432d9077e1e",
+      "btih": "5532bc3984a7e1d5904e3c2d92cb7903d1fe413d",
+      "mtime": "1659530256",
+      "size": "135049",
+      "md5": "7608ae7d7c0398f5e84d8057a173e019",
+      "crc32": "5321c8b0",
+      "sha1": "596eb1907f40591ab78332d145931d2994ca8908",
       "format": "Archive BitTorrent"
     },
     {
       "name": "blockclubchi-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0422b0dc4998b329ec07908d817a311d",
+      "md5": "9c134859f374d6c24dcd9592a98a4810",
       "summation": "md5"
     },
     {
       "name": "blockclubchi-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659482363",
-      "size": "741376",
-      "md5": "1debd6c70c4228a15f2f4103876f11ba",
-      "crc32": "24a6b8bd",
-      "sha1": "e0e95ff3df3de9c920501412b62aeae26acb7b86",
+      "mtime": "1659530217",
+      "size": "749568",
+      "md5": "a5844e2d0dc4de8e9db7409063bbdac8",
+      "crc32": "ad401497",
+      "sha1": "c65500c06261bb5658f0a1ce9389131c003278f3",
       "format": "Metadata"
     },
     {
@@ -6493,9 +6545,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 620,
-  "item_last_updated": 1659482402,
-  "item_size": 57269662,
+  "files_count": 625,
+  "item_last_updated": 1659530256,
+  "item_size": 57679264,
   "metadata": {
     "identifier": "blockclubchi-2022",
     "collection": [
@@ -6517,7 +6569,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350896209,
+      "task_id": 3351408169,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -6525,7 +6577,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2130033461,
+  "uniq": 962560744,
   "workable_servers": [
     "ia601506.us.archive.org"
   ]

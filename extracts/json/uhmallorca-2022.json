@@ -1,5 +1,5 @@
 {
-  "created": 1659468078,
+  "created": 1659502512,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/7/items/uhmallorca-2022",
@@ -588,31 +588,83 @@
       "sha1": "812ef705afa5a7fecde469f289d4f02ff94ead5a"
     },
     {
+      "name": "uhmallorca-2022-08-03T03:59:09.636601+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659491952",
+      "size": "106926",
+      "md5": "c7c58ab5e8f136df4afd917cc80da0fc",
+      "crc32": "7086e106",
+      "sha1": "ffe80f3162a701b19241dec091676e4452dd9a9c",
+      "format": "JSON"
+    },
+    {
+      "name": "uhmallorca-2022-08-03T03:59:09.636601+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659491954",
+      "size": "80450",
+      "md5": "4872cb4e555a1a92cdba8135159ec6be",
+      "crc32": "09b92f64",
+      "sha1": "d78a3c8b2bc9e739204201a606d9f78029f79a77",
+      "format": "JSON"
+    },
+    {
+      "name": "uhmallorca-2022-08-03T03:59:09.636601+02:00.jpg",
+      "source": "original",
+      "mtime": "1659491951",
+      "size": "332605",
+      "md5": "52c5e742c2134016b390f4d86fec98dd",
+      "crc32": "45a92fef",
+      "sha1": "16da9015033fc1555ea4454451ba2f751057a677",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "uhmallorca-2022-08-03T03:59:09.636601+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659491955",
+      "size": "1486",
+      "md5": "d87ffd9e65ad86c6aec3673ad8e3da32",
+      "crc32": "c1e604e2",
+      "sha1": "76e942ff57026f1cdfb18dbf1b1e400e31205358",
+      "format": "JSON"
+    },
+    {
+      "name": "uhmallorca-2022-08-03T03:59:09.636601+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "uhmallorca-2022-08-03T03:59:09.636601+02:00.jpg",
+      "mtime": "1659502051",
+      "size": "10669",
+      "md5": "04c83c37ad500b4a1e132dc1df81da69",
+      "crc32": "3f8571dc",
+      "sha1": "1177f82c70329dfd299be1198796f7271c5fe34e"
+    },
+    {
       "name": "uhmallorca-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c00037317e82e57fc534cc2b300719fc0bc05d32",
-      "mtime": "1659468035",
-      "size": "13373",
-      "md5": "b0a361a8ed0b0d0357769cf8a3434b52",
-      "crc32": "4cee6e03",
-      "sha1": "ba538b794a0e630d9e63364bc33d535b69c26863",
+      "btih": "a69cbfd183959fce4704850b2b8dcfc70e482bca",
+      "mtime": "1659502164",
+      "size": "14444",
+      "md5": "079b67e5e873ac7b50b9073132d318c0",
+      "crc32": "59097761",
+      "sha1": "864cafae15a5f4febbcfcc33e32b78041f0a5043",
       "format": "Archive BitTorrent"
     },
     {
       "name": "uhmallorca-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fcb627b6d51d2ebf83530d7b444132cb",
+      "md5": "6bc5a8eaa881c0b1ee8b5e2103d3f55e",
       "summation": "md5"
     },
     {
       "name": "uhmallorca-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659447974",
-      "size": "81920",
-      "md5": "3c58d9ad5c4e1a3eef731e9cbd622770",
-      "crc32": "59080d4a",
-      "sha1": "71dd715a4f1fca633c149fe0539de86507ff26bd",
+      "mtime": "1659491960",
+      "size": "86016",
+      "md5": "a9a5c7a248ee3d4f7860849e56f562c7",
+      "crc32": "626e1116",
+      "sha1": "42c67358151ea34599e7bef56bd6a5f63a9bc77b",
       "format": "Metadata"
     },
     {
@@ -626,9 +678,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 60,
-  "item_last_updated": 1659468035,
-  "item_size": 5128012,
+  "files_count": 65,
+  "item_last_updated": 1659502164,
+  "item_size": 5665315,
   "metadata": {
     "identifier": "uhmallorca-2022",
     "collection": [
@@ -645,10 +697,10 @@
     "publicdate": "2022-07-28 18:53:58",
     "addeddate": "2022-07-28 18:53:58"
   },
-  "server": "ia801502.us.archive.org",
-  "uniq": 1554354716,
+  "server": "ia601502.us.archive.org",
+  "uniq": 725897316,
   "workable_servers": [
-    "ia801502.us.archive.org",
-    "ia601502.us.archive.org"
+    "ia601502.us.archive.org",
+    "ia801502.us.archive.org"
   ]
 }

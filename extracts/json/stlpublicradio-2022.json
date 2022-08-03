@@ -1,5 +1,5 @@
 {
-  "created": 1659477459,
+  "created": 1659510067,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/7/items/stlpublicradio-2022",
@@ -2296,31 +2296,83 @@
       "sha1": "3e252be49aa21f8376c4b4c1188f19256000a4be"
     },
     {
+      "name": "stlpublicradio-2022-08-02T23:44:43.022522-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659501886",
+      "size": "21389",
+      "md5": "422405ff11eff4cb4842700625ea3160",
+      "crc32": "e3dd304c",
+      "sha1": "f6e36dcfda1feadc0187eb1ae0cc2cc0edc77dbf",
+      "format": "JSON"
+    },
+    {
+      "name": "stlpublicradio-2022-08-02T23:44:43.022522-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659501890",
+      "size": "44355",
+      "md5": "bb950e07e1605523c60379f7dc19d936",
+      "crc32": "bc703708",
+      "sha1": "61f8adce3b4418465502b48965376a5202e380ad",
+      "format": "JSON"
+    },
+    {
+      "name": "stlpublicradio-2022-08-02T23:44:43.022522-05:00.jpg",
+      "source": "original",
+      "mtime": "1659501885",
+      "size": "309281",
+      "md5": "f2dd63dfccf0e1d59f3c583a011bde16",
+      "crc32": "0d37dc3b",
+      "sha1": "27fc90c39a1128ed6eb7eb84dc7459736fdddf8f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "stlpublicradio-2022-08-02T23:44:43.022522-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659501892",
+      "size": "1540",
+      "md5": "909ef7a6c25440afbed85a2073b23158",
+      "crc32": "0d527cd6",
+      "sha1": "a4b4b28c3d41029924d6a4088a10b509dfa5631c",
+      "format": "JSON"
+    },
+    {
+      "name": "stlpublicradio-2022-08-02T23:44:43.022522-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "stlpublicradio-2022-08-02T23:44:43.022522-05:00.jpg",
+      "mtime": "1659510027",
+      "size": "11168",
+      "md5": "d55508b1310eb6c9393a3a3bc9c3c09b",
+      "crc32": "72a1afb9",
+      "sha1": "4b669f2692e4f74e0a0b645afd2113d0d97ff24d"
+    },
+    {
       "name": "stlpublicradio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "02e222eeff142f0287007736f3fb687dee9fbf0a",
-      "mtime": "1659477437",
-      "size": "48959",
-      "md5": "6a09598d9e378ac951c34dc1810f2253",
-      "crc32": "693d6bef",
-      "sha1": "daa4f478f23e58fd7f5208ca5b2bb57d6542a7e4",
+      "btih": "2e11638dbe225165ef9c467f50b28ad76407a0d0",
+      "mtime": "1659510030",
+      "size": "50049",
+      "md5": "5598553f825417ec5211434f8969b983",
+      "crc32": "0e9e2c97",
+      "sha1": "3ad9c82c2c7d09c0a1c20418f9622bc7fc2be198",
       "format": "Archive BitTorrent"
     },
     {
       "name": "stlpublicradio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4a2ec2bb0c3d44f3ed43fe535fc6d2b1",
+      "md5": "de9c6b9bec511ee47e2c75fa380ad193",
       "summation": "md5"
     },
     {
       "name": "stlpublicradio-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659457211",
-      "size": "278528",
-      "md5": "9ffb57e8e45e84ea5eec285dd03646a8",
-      "crc32": "2f271369",
-      "sha1": "b62ac967f00e0cdaa8368297d0d3c0c863f3cfca",
+      "mtime": "1659501895",
+      "size": "286720",
+      "md5": "808cd36748e7d2bf26c83b25d9d10916",
+      "crc32": "abde4266",
+      "sha1": "d7ae46071d02fdd07fe0e10233a885aec7bbfffb",
       "format": "Metadata"
     },
     {
@@ -2334,9 +2386,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 223,
-  "item_last_updated": 1659477437,
-  "item_size": 18757260,
+  "files_count": 228,
+  "item_last_updated": 1659510030,
+  "item_size": 19154275,
   "metadata": {
     "identifier": "stlpublicradio-2022",
     "collection": [
@@ -2353,10 +2405,10 @@
     "publicdate": "2022-07-09 04:04:48",
     "addeddate": "2022-07-09 04:04:48"
   },
-  "server": "ia902505.us.archive.org",
-  "uniq": 1368107136,
+  "server": "ia802505.us.archive.org",
+  "uniq": 396865532,
   "workable_servers": [
-    "ia902505.us.archive.org",
-    "ia802505.us.archive.org"
+    "ia802505.us.archive.org",
+    "ia902505.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1659482782,
+  "created": 1659530631,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/21/items/fortworthreport-2022",
@@ -2399,31 +2399,83 @@
       "format": "JSON"
     },
     {
+      "name": "fortworthreport-2022-08-02T18:25:21.771759-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fortworthreport-2022-08-02T18:25:21.771759-05:00.jpg",
+      "mtime": "1659495524",
+      "size": "9726",
+      "md5": "3898365b8d71768cabf2c874c6b0b82b",
+      "crc32": "eb10248f",
+      "sha1": "865cbb212a33b8631206fdde1ea23a89a4ccc006"
+    },
+    {
+      "name": "fortworthreport-2022-08-03T07:42:59.103965-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659530585",
+      "size": "35446",
+      "md5": "302a7565a3cfa688bc8011fdd69adb43",
+      "crc32": "bdc38283",
+      "sha1": "bec80509c75ceb2c8994ee95b13a491382ba98ae",
+      "format": "JSON"
+    },
+    {
+      "name": "fortworthreport-2022-08-03T07:42:59.103965-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659530586",
+      "size": "39314",
+      "md5": "fcddaea2bab57149b337f9a2d24a2a65",
+      "crc32": "89a195c9",
+      "sha1": "c62132c8089708354fef3fc54a4dd693b26b17cf",
+      "format": "JSON"
+    },
+    {
+      "name": "fortworthreport-2022-08-03T07:42:59.103965-05:00.jpg",
+      "source": "original",
+      "mtime": "1659530583",
+      "size": "237522",
+      "md5": "aa6a894801bb96a7a60fc21000e8b75c",
+      "crc32": "d992df2c",
+      "sha1": "1d7544eec26b28a04e9f87c45cf9e090fc792101",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fortworthreport-2022-08-03T07:42:59.103965-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659530588",
+      "size": "1486",
+      "md5": "abde4bc8f465637d1ed70342c336099d",
+      "crc32": "d4d9a42d",
+      "sha1": "63e60e5286a6fb11df1489731f46fadf8032e4b0",
+      "format": "JSON"
+    },
+    {
       "name": "fortworthreport-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ae832d5588fd9c0e152d6f0fa628a07df87697cf",
-      "mtime": "1659482776",
-      "size": "51250",
-      "md5": "8552cccb589c40b3ceff6ebd4a99fc13",
-      "crc32": "c5481a78",
-      "sha1": "594e0b86d2777c1b7b553c1eebc51389bd6eca3a",
+      "btih": "614fdbf27f8e42532c357621bbb9012d310eab9c",
+      "mtime": "1659530628",
+      "size": "52324",
+      "md5": "2e9e22ca6aaa540ea871ce2e3a9e6eb4",
+      "crc32": "7f3b8b08",
+      "sha1": "c9f38941fcf511dc1b08f01323cb31102a229b11",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fortworthreport-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "74b8e8a4344908739bfe591a4611db99",
+      "md5": "d7d3ec372871105f9fa670788d089cdd",
       "summation": "md5"
     },
     {
       "name": "fortworthreport-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659482735",
-      "size": "290816",
-      "md5": "b36d35fea75d15d60232cc70d9b7354c",
-      "crc32": "3a822b5d",
-      "sha1": "cc1a3b62458dbb1907887a1ac2a33c9f1070bae0",
+      "mtime": "1659530592",
+      "size": "303104",
+      "md5": "8cabaebcc9d1397aaa25f22ad6ca0eff",
+      "crc32": "07313cf4",
+      "sha1": "745c2c1175ef68b7adf7e603304fd645dcc5776a",
       "format": "Metadata"
     },
     {
@@ -2437,9 +2489,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 233,
-  "item_last_updated": 1659482776,
-  "item_size": 16839548,
+  "files_count": 238,
+  "item_last_updated": 1659530628,
+  "item_size": 17176404,
   "metadata": {
     "identifier": "fortworthreport-2022",
     "collection": [
@@ -2461,7 +2513,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350899364,
+      "task_id": 3351411664,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2469,7 +2521,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1538823904,
+  "uniq": 1258959988,
   "workable_servers": [
     "ia601403.us.archive.org"
   ]

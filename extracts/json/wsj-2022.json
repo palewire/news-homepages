@@ -1,5 +1,5 @@
 {
-  "created": 1659474943,
+  "created": 1659531741,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/13/items/wsj-2022",
@@ -14769,31 +14769,94 @@
       "format": "JSON"
     },
     {
+      "name": "wsj-2022-08-02T17:13:13.426436-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wsj-2022-08-02T17:13:13.426436-04:00.jpg",
+      "mtime": "1659488955",
+      "size": "9721",
+      "md5": "5159c87df4c14c9c26afc2891d9704d9",
+      "crc32": "033106d3",
+      "sha1": "ae1b08747e9992ff248bca56a225db7f8b6e03a7"
+    },
+    {
+      "name": "wsj-2022-08-03T00:50:33.300366-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659502236",
+      "size": "65839",
+      "md5": "f794ea87316f7e7ad1f60d67ebe2adbd",
+      "crc32": "1ba2bdc0",
+      "sha1": "fce9d34a006743b8293b6a5eda0d5f93d45e7da5",
+      "format": "JSON"
+    },
+    {
+      "name": "wsj-2022-08-03T00:50:33.300366-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659502237",
+      "size": "90467",
+      "md5": "898077af22da73d8f46f0b3922288d94",
+      "crc32": "0f752d07",
+      "sha1": "da7cfeabd9730b60bf2864e02e80f5da33c14887",
+      "format": "JSON"
+    },
+    {
+      "name": "wsj-2022-08-03T00:50:33.300366-04:00.jpg",
+      "source": "original",
+      "mtime": "1659502234",
+      "size": "342370",
+      "md5": "a316f23cc3efe7262d40ef5b134e7981",
+      "crc32": "aee4ba57",
+      "sha1": "579644c653ccd89a65514c76e6e3cddc156e3bec",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wsj-2022-08-03T00:50:33.300366-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659502239",
+      "size": "1423",
+      "md5": "50d6198e7fae61d62dab4c3316008b07",
+      "crc32": "c7c29c80",
+      "sha1": "560c2ed5468a905aa642af9106e96671659659fb",
+      "format": "JSON"
+    },
+    {
+      "name": "wsj-2022-08-03T00:50:33.300366-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wsj-2022-08-03T00:50:33.300366-04:00.jpg",
+      "mtime": "1659510231",
+      "size": "9778",
+      "md5": "4bc370d9d050e91a3cf7fa453f5a6152",
+      "crc32": "e0676612",
+      "sha1": "ddc0d85733f51a3a395d37f7866b97ba2e817532"
+    },
+    {
       "name": "wsj-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9f4e340f08d37995874663c0e3a10cd34a4ca4bc",
-      "mtime": "1659474926",
-      "size": "293229",
-      "md5": "a6f0fdcfbe21b0b81c1a46127e65e764",
-      "crc32": "7e5966c0",
-      "sha1": "5c40c90185639b8d8f4ccfc0206309ca5c54007b",
+      "btih": "6f3ecd1ab605076ad17ab5e09267295d503640ca",
+      "mtime": "1659510317",
+      "size": "294462",
+      "md5": "844ca475fc90b84bd2fb1a90ab604623",
+      "crc32": "d8517adb",
+      "sha1": "dad984ae5f02ea6a15c63ea548c428326a0c5407",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wsj-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "85541d9f020df2c1da1c4bfa029900d5",
+      "md5": "6b6d303182af705cd63a96dde1468e41",
       "summation": "md5"
     },
     {
       "name": "wsj-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659474887",
-      "size": "1609728",
-      "md5": "689976d6ba2316777fee799cebe2af5b",
-      "crc32": "de253815",
-      "sha1": "9b9e48ced92a8f47a7ed83eaff2b766d771e65cd",
+      "mtime": "1659502254",
+      "size": "1613824",
+      "md5": "d7d836b6963c03dd8c43af944f42dfc1",
+      "crc32": "0191c34f",
+      "sha1": "96c13211693571ba6d54831f70960fe60516470b",
       "format": "Metadata"
     },
     {
@@ -14807,9 +14870,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1410,
-  "item_last_updated": 1659474926,
-  "item_size": 199704232,
+  "files_count": 1416,
+  "item_last_updated": 1659510317,
+  "item_size": 200229159,
   "metadata": {
     "identifier": "wsj-2022",
     "collection": [
@@ -14826,21 +14889,51 @@
     "publicdate": "2022-03-23 12:05:37",
     "addeddate": "2022-03-23 12:05:37"
   },
-  "pending_tasks": true,
-  "server": "ia902507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3350822535,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1846940533,
+  "server": "ia802507.us.archive.org",
+  "uniq": 590072066,
   "workable_servers": [
+    "ia802507.us.archive.org",
     "ia902507.us.archive.org"
+  ],
+  "wsj-2022": [
+    {
+      "url": "https://www.wsj.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wsj_com-_-2022_08_03_04_14_24.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wsj_com-_-2022_08_03_04_14_24.report.json",
+      "summary": {
+        "performance": 0.19,
+        "accessibility": 0.62,
+        "best-practices": 0.83,
+        "seo": 1,
+        "pwa": 0.6
+      }
+    },
+    {
+      "url": "https://www.wsj.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wsj_com-_-2022_08_03_04_15_27.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wsj_com-_-2022_08_03_04_15_27.report.json",
+      "summary": {
+        "performance": 0.17,
+        "accessibility": 0.62,
+        "best-practices": 0.83,
+        "seo": 1,
+        "pwa": 0.6
+      }
+    },
+    {
+      "url": "https://www.wsj.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wsj_com-_-2022_08_03_04_16_29.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wsj_com-_-2022_08_03_04_16_29.report.json",
+      "summary": {
+        "performance": 0.19,
+        "accessibility": 0.62,
+        "best-practices": 0.83,
+        "seo": 1,
+        "pwa": 0.6
+      }
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1659485272,
+  "created": 1659530734,
   "d1": "ia601806.us.archive.org",
   "d2": "ia801806.us.archive.org",
   "dir": "/20/items/humanevents-2022",
@@ -10021,31 +10021,83 @@
       "format": "JSON"
     },
     {
+      "name": "humanevents-2022-08-02T19:26:44.532493-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "humanevents-2022-08-02T19:26:44.532493-04:00.jpg",
+      "mtime": "1659495445",
+      "size": "10765",
+      "md5": "1d2e8e5664618137a63a4cf712778cac",
+      "crc32": "4edf13d3",
+      "sha1": "d906b589a7d4cb904a4bc30883ea3da9ac821d65"
+    },
+    {
+      "name": "humanevents-2022-08-03T08:44:15.527653-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659530669",
+      "size": "17410",
+      "md5": "695c8056292196503511f3309dc806d9",
+      "crc32": "eef19a51",
+      "sha1": "6682d06da41bef5d52b78c19baf93bde74b2cbdd",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-08-03T08:44:15.527653-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659530671",
+      "size": "25915",
+      "md5": "16ab63d43e57db845975417eac90b3ba",
+      "crc32": "bb7710ff",
+      "sha1": "5fa248669e87f6e5817e12aa9a7a4235950a7543",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-08-03T08:44:15.527653-04:00.jpg",
+      "source": "original",
+      "mtime": "1659530668",
+      "size": "385363",
+      "md5": "759ba247c56c1cd44f9fb22831de5339",
+      "crc32": "ed98873e",
+      "sha1": "6e31a68637772bbbed206a50e76d96dc4a58140d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "humanevents-2022-08-03T08:44:15.527653-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659530673",
+      "size": "1468",
+      "md5": "44b2f8318d2bdc7264db66b748cfe850",
+      "crc32": "26dab731",
+      "sha1": "3d518d1a8d6ebcd806efa1cbe7f38c6e5b5e6456",
+      "format": "JSON"
+    },
+    {
       "name": "humanevents-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f0b8e37f4f206650c81557489ccb410b2eb183b4",
-      "mtime": "1659483788",
-      "size": "205470",
-      "md5": "5bc924a689e534a3ad5cd97c4540c4f8",
-      "crc32": "ab7205d0",
-      "sha1": "ee2a317e4fe2a7a60f4cc02b0d046329a48d7173",
+      "btih": "6cd0a2621330d5cf4f3c56e351a62a7602544d2f",
+      "mtime": "1659530728",
+      "size": "206545",
+      "md5": "d6080d79ef17a47a683bc4ad72550497",
+      "crc32": "6dae32b3",
+      "sha1": "7f8765e60b07fc8f8d8582a5a416c203e8588c92",
       "format": "Archive BitTorrent"
     },
     {
       "name": "humanevents-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "edbcd740d79ff0abc2f2e7cf5128bb71",
+      "md5": "9fc338de1567f692331339e31b039319",
       "summation": "md5"
     },
     {
       "name": "humanevents-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659483773",
-      "size": "1122304",
-      "md5": "6316d250c30476bdd47e9d7e82719af9",
-      "crc32": "2f8495eb",
-      "sha1": "300d43d1725c64b5aaae8bf5cdb0e431a8dda42f",
+      "mtime": "1659530679",
+      "size": "1126400",
+      "md5": "7c9dd625037546aad34e672524ea4eaa",
+      "crc32": "d1a95024",
+      "sha1": "c901ccd3b6030d86385b67328df82cc1e1115a7e",
       "format": "Metadata"
     },
     {
@@ -10059,9 +10111,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 959,
-  "item_last_updated": 1659483788,
-  "item_size": 79761971,
+  "files_count": 964,
+  "item_last_updated": 1659530728,
+  "item_size": 80208063,
   "metadata": {
     "identifier": "humanevents-2022",
     "collection": [
@@ -10083,7 +10135,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350907398,
+      "task_id": 3351412612,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -10091,7 +10143,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2038249570,
+  "uniq": 172883020,
   "workable_servers": [
     "ia601806.us.archive.org"
   ]

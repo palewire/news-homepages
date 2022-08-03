@@ -1,6 +1,5 @@
 {
-  "conflict": 1659487296,
-  "created": 1659487296,
+  "created": 1659531288,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/13/items/pajaropolitico-2022",
@@ -19957,31 +19956,83 @@
       "sha1": "a5856b45e2d152bb4aa186218d17f1f51a14badb"
     },
     {
+      "name": "pajaropolitico-2022-08-02T19:41:25.200946-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659487295",
+      "size": "22526",
+      "md5": "82a6844f7787df8791e50b9dd40a232f",
+      "crc32": "b9089c56",
+      "sha1": "46b65d3a6cdf853a2eeb68e447ace60be4a84460",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-08-02T19:41:25.200946-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659487298",
+      "size": "21141",
+      "md5": "b4f231805cbdddfffdc3ea9454b96be2",
+      "crc32": "ddaa39a0",
+      "sha1": "3d9bcf1baaef8a6cd2a29bc77f158588ab84cb83",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-08-02T19:41:25.200946-05:00.jpg",
+      "source": "original",
+      "mtime": "1659487293",
+      "size": "267563",
+      "md5": "78fac70b80c90f9065cf167789e92cf8",
+      "crc32": "90766f86",
+      "sha1": "916fe772344c613bc632e42a087bef60cad62eac",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pajaropolitico-2022-08-02T19:41:25.200946-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659487300",
+      "size": "1528",
+      "md5": "4eeb558fd1b76d4a38076ef64407848d",
+      "crc32": "cfae6bfb",
+      "sha1": "4cc633e1c9eb2cce66c9c5bce4921ef65bb40d27",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-08-02T19:41:25.200946-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pajaropolitico-2022-08-02T19:41:25.200946-05:00.jpg",
+      "mtime": "1659498417",
+      "size": "9931",
+      "md5": "0fce3f43fde667caf2d2b705ba575a16",
+      "crc32": "c22abf4e",
+      "sha1": "2cdcd385fb89803cdd9a3451bf904b604d860000"
+    },
+    {
       "name": "pajaropolitico-2022_archive.torrent",
       "source": "metadata",
-      "btih": "09d06ddc3db2759d9ae2ed757b2cf82df1331c5e",
-      "mtime": "1659463020",
-      "size": "412726",
-      "md5": "49921c817505a4506eb94a75154e9521",
-      "crc32": "9ad51b40",
-      "sha1": "5753bb6b4aa32dff32884ea84ac6a74b19b688ac",
+      "btih": "1dbef0e73d7ad2c2fe097264077d14cad62b7dec",
+      "mtime": "1659498682",
+      "size": "413795",
+      "md5": "d8b9579ee66311a7eb68f0bcd30f596b",
+      "crc32": "813b192b",
+      "sha1": "842cd12bf73644ccca03c79f29c22f1bc2f0083b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pajaropolitico-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c1ae8feea77ea7d2d108a9015c11c91d",
+      "md5": "b4886505fbd49d24044641bf52e736a5",
       "summation": "md5"
     },
     {
       "name": "pajaropolitico-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659443295",
-      "size": "2207744",
-      "md5": "930db81e5cd5b9f8c7eec5ecc3a20487",
-      "crc32": "a0644952",
-      "sha1": "61cfdb2f89dff8681b97f106d2eb4ec48bfaf67c",
+      "mtime": "1659487303",
+      "size": "2211840",
+      "md5": "0d14ee6f0114fb0fbdb653cda9206270",
+      "crc32": "56224ecd",
+      "sha1": "2a1b644e44ea93f55f7ecf001f3248183de64097",
       "format": "Metadata"
     },
     {
@@ -19995,9 +20046,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1905,
-  "item_last_updated": 1659463020,
-  "item_size": 151551162,
+  "files_count": 1910,
+  "item_last_updated": 1659498682,
+  "item_size": 151879016,
   "metadata": {
     "identifier": "pajaropolitico-2022",
     "collection": [
@@ -20014,21 +20065,51 @@
     "publicdate": "2022-04-15 20:41:09",
     "addeddate": "2022-04-15 20:41:09"
   },
-  "pending_tasks": true,
-  "server": "ia902505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "pajaropolitico-2022": [
     {
-      "task_id": 3350943073,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "url": "https://www.animalpolitico.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_animalpolitico_com-_-2022_08_03_00_18_04.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_animalpolitico_com-_-2022_08_03_00_18_04.report.json",
+      "summary": {
+        "performance": 0.04,
+        "accessibility": 0.8,
+        "best-practices": 0.67,
+        "seo": 0.85,
+        "pwa": 0.6
+      }
+    },
+    {
+      "url": "https://www.animalpolitico.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_animalpolitico_com-_-2022_08_03_00_18_43.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_animalpolitico_com-_-2022_08_03_00_18_43.report.json",
+      "summary": {
+        "performance": 0.08,
+        "accessibility": 0.8,
+        "best-practices": 0.83,
+        "seo": 0.85,
+        "pwa": 0.6
+      }
+    },
+    {
+      "url": "https://www.animalpolitico.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_animalpolitico_com-_-2022_08_03_00_19_17.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_animalpolitico_com-_-2022_08_03_00_19_17.report.json",
+      "summary": {
+        "performance": 0.08,
+        "accessibility": 0.8,
+        "best-practices": 0.83,
+        "seo": 0.85,
+        "pwa": 0.6
+      }
     }
   ],
-  "uniq": 1721023417,
+  "server": "ia902505.us.archive.org",
+  "uniq": 446168613,
   "workable_servers": [
-    "ia902505.us.archive.org"
+    "ia902505.us.archive.org",
+    "ia802505.us.archive.org"
   ]
 }

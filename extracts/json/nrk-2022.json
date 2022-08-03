@@ -1,5 +1,5 @@
 {
-  "created": 1659487248,
+  "created": 1659531210,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/33/items/nrk-2022",
@@ -1457,21 +1457,51 @@
     "publicdate": "2022-07-20 11:37:26",
     "addeddate": "2022-07-20 11:37:26"
   },
-  "pending_tasks": true,
-  "server": "ia902504.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "nrk-2022": [
     {
-      "task_id": 3350942571,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "url": "https://www.nrk.no/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nrk_no-_-2022_08_03_00_15_36.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nrk_no-_-2022_08_03_00_15_36.report.json",
+      "summary": {
+        "performance": 0.74,
+        "accessibility": 0.94,
+        "best-practices": 0.92,
+        "seo": 0.99,
+        "pwa": 0.6
+      }
+    },
+    {
+      "url": "https://www.nrk.no/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nrk_no-_-2022_08_03_00_16_44.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nrk_no-_-2022_08_03_00_16_44.report.json",
+      "summary": {
+        "performance": 0.74,
+        "accessibility": 0.94,
+        "best-practices": 0.92,
+        "seo": 0.99,
+        "pwa": 0.6
+      }
+    },
+    {
+      "url": "https://www.nrk.no/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nrk_no-_-2022_08_03_00_17_43.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nrk_no-_-2022_08_03_00_17_43.report.json",
+      "summary": {
+        "performance": 0.76,
+        "accessibility": 0.94,
+        "best-practices": 0.92,
+        "seo": 0.92,
+        "pwa": 0.6
+      }
     }
   ],
-  "uniq": 615331464,
+  "server": "ia802504.us.archive.org",
+  "uniq": 586119217,
   "workable_servers": [
+    "ia802504.us.archive.org",
     "ia902504.us.archive.org"
   ]
 }

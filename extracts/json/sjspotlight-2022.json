@@ -1,5 +1,5 @@
 {
-  "created": 1659487448,
+  "created": 1659531431,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/29/items/sjspotlight-2022",
@@ -2694,31 +2694,83 @@
       "sha1": "eba1cdf68a8a49c3d8ef89ab51c75b8123fe3f82"
     },
     {
+      "name": "sjspotlight-2022-08-02T17:45:09.766508-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659487517",
+      "size": "4888",
+      "md5": "484b157ae2c65219a47ae84ec68e6c0b",
+      "crc32": "93681f69",
+      "sha1": "9b99d79c0f7d5b98056dd61562b77f2d8bc8213f",
+      "format": "JSON"
+    },
+    {
+      "name": "sjspotlight-2022-08-02T17:45:09.766508-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659487518",
+      "size": "26770",
+      "md5": "5dbaccf94765605f093d10288377dcc5",
+      "crc32": "9bdd780a",
+      "sha1": "fe4deabd4496dd347d9e19a10cc383c2770143d1",
+      "format": "JSON"
+    },
+    {
+      "name": "sjspotlight-2022-08-02T17:45:09.766508-07:00.jpg",
+      "source": "original",
+      "mtime": "1659487510",
+      "size": "342120",
+      "md5": "b3d8001c17cea74b64fe44bdaf6fbcb3",
+      "crc32": "d8a08711",
+      "sha1": "b8cf755e3d7d0735f571054b309ba96163a15bb1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sjspotlight-2022-08-02T17:45:09.766508-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659487519",
+      "size": "1501",
+      "md5": "c1612c3bdcec75c73bbcbb574f84d8eb",
+      "crc32": "20fa5cc4",
+      "sha1": "6120c0318d519e421103d28fe347f8f6f18ae10c",
+      "format": "JSON"
+    },
+    {
+      "name": "sjspotlight-2022-08-02T17:45:09.766508-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sjspotlight-2022-08-02T17:45:09.766508-07:00.jpg",
+      "mtime": "1659498618",
+      "size": "11148",
+      "md5": "b16eb6fa333c8973154c387d719f302d",
+      "crc32": "b78b1a6d",
+      "sha1": "60eaaf74b3d4ea365f92bd60d8a3f1f2a18ab934"
+    },
+    {
       "name": "sjspotlight-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a94d75c80914875c9c4465b362f1c9f738e56127",
-      "mtime": "1659463176",
-      "size": "56349",
-      "md5": "8bab3ad06e3dda1c0a0714fabc5cb6e9",
-      "crc32": "2e8406d9",
-      "sha1": "04384ce0947bef994e87882aaa61e6c26778b912",
+      "btih": "e5c0c2000356f8a0edfcef379049b32e7a6eb874",
+      "mtime": "1659498622",
+      "size": "57423",
+      "md5": "822c866b05613652d8b05e34d9019b9b",
+      "crc32": "8aa81c7b",
+      "sha1": "1187a739a7bef84b2e715c056f0ed29e77e29ab5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sjspotlight-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "096c90fdf754f94656338beb50ee9171",
+      "md5": "fbccd9ee87338490552a79f0593e1aa1",
       "summation": "md5"
     },
     {
       "name": "sjspotlight-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659443404",
-      "size": "323584",
-      "md5": "9d80c19bfd2ef00a4907c532611a1a62",
-      "crc32": "cba000c3",
-      "sha1": "a8f85c641cc3e342176e681082f97b548d990b64",
+      "mtime": "1659487524",
+      "size": "327680",
+      "md5": "8a81e8be8b106eacde00f5b1bac7ffdc",
+      "crc32": "5e971729",
+      "sha1": "bcc755ad9f47dbff318acc2e9073a626ee42cd62",
       "format": "Metadata"
     },
     {
@@ -2732,9 +2784,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 261,
-  "item_last_updated": 1659463176,
-  "item_size": 21515848,
+  "files_count": 266,
+  "item_last_updated": 1659498622,
+  "item_size": 21907445,
   "metadata": {
     "identifier": "sjspotlight-2022",
     "collection": [
@@ -2751,15 +2803,15 @@
     "publicdate": "2022-07-09 04:02:22",
     "addeddate": "2022-07-09 04:02:22"
   },
-  "server": "ia801504.us.archive.org",
+  "server": "ia601504.us.archive.org",
   "sjspotlight-2022": [
     {
       "url": "https://sanjosespotlight.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/sanjosespotlight_com-_-2022_08_02_11_57_50.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/sanjosespotlight_com-_-2022_08_02_11_57_50.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/sanjosespotlight_com-_-2022_08_03_00_21_48.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/sanjosespotlight_com-_-2022_08_03_00_21_48.report.json",
       "summary": {
-        "performance": 0.78,
+        "performance": 0.77,
         "accessibility": 0.81,
         "best-practices": 1,
         "seo": 0.9,
@@ -2769,8 +2821,8 @@
     {
       "url": "https://sanjosespotlight.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/sanjosespotlight_com-_-2022_08_02_11_58_19.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/sanjosespotlight_com-_-2022_08_02_11_58_19.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/sanjosespotlight_com-_-2022_08_03_00_22_15.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/sanjosespotlight_com-_-2022_08_03_00_22_15.report.json",
       "summary": {
         "performance": 0.76,
         "accessibility": 0.81,
@@ -2782,8 +2834,8 @@
     {
       "url": "https://sanjosespotlight.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/sanjosespotlight_com-_-2022_08_02_11_58_05.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/sanjosespotlight_com-_-2022_08_02_11_58_05.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/sanjosespotlight_com-_-2022_08_03_00_22_02.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/sanjosespotlight_com-_-2022_08_03_00_22_02.report.json",
       "summary": {
         "performance": 0.77,
         "accessibility": 0.81,
@@ -2793,9 +2845,9 @@
       }
     }
   ],
-  "uniq": 2127151206,
+  "uniq": 701164338,
   "workable_servers": [
-    "ia801504.us.archive.org",
-    "ia601504.us.archive.org"
+    "ia601504.us.archive.org",
+    "ia801504.us.archive.org"
   ]
 }

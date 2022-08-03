@@ -1,5 +1,5 @@
 {
-  "created": 1659483347,
+  "created": 1659531457,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/19/items/strikewave-2022",
@@ -1712,31 +1712,83 @@
       "sha1": "63095ded40a5826f356fcbb62c63e2528d9b0695"
     },
     {
+      "name": "strikewave-2022-08-03T00:45:12.725418-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659501915",
+      "size": "17859",
+      "md5": "7e81e73831275329d61a0e5c79048b6f",
+      "crc32": "f60c9e87",
+      "sha1": "0e1686ee4d062184add9e826445f64d2ff3ca41a",
+      "format": "JSON"
+    },
+    {
+      "name": "strikewave-2022-08-03T00:45:12.725418-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659501916",
+      "size": "9498",
+      "md5": "d9eb25d637c10b7f3ee4920467199bdf",
+      "crc32": "5b878b97",
+      "sha1": "0b694aef894d66eb833471eb17da676a0b806c2b",
+      "format": "JSON"
+    },
+    {
+      "name": "strikewave-2022-08-03T00:45:12.725418-04:00.jpg",
+      "source": "original",
+      "mtime": "1659501914",
+      "size": "218388",
+      "md5": "989c35481b0e8214825d6a8be0643faa",
+      "crc32": "bd0f14a4",
+      "sha1": "85b93e88d4f8e87af9616fbab0eb0da5420e420d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "strikewave-2022-08-03T00:45:12.725418-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659501917",
+      "size": "1513",
+      "md5": "fd5838fc81a6b6b708e01d05beabdc85",
+      "crc32": "1c31fabd",
+      "sha1": "ac00bcfe0bd084aef5a714696a2f3c120ad7dbbb",
+      "format": "JSON"
+    },
+    {
+      "name": "strikewave-2022-08-03T00:45:12.725418-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "strikewave-2022-08-03T00:45:12.725418-04:00.jpg",
+      "mtime": "1659510021",
+      "size": "8856",
+      "md5": "1d733ea2e8165ff2211748235f5a7b40",
+      "crc32": "a8c6b86d",
+      "sha1": "63095ded40a5826f356fcbb62c63e2528d9b0695"
+    },
+    {
       "name": "strikewave-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d5c9303fb6dce00cf3a1222974ed38ee4dc65b9e",
-      "mtime": "1659482753",
-      "size": "36126",
-      "md5": "81cbfa46d4f2b8ae616be366755b588c",
-      "crc32": "c7a23765",
-      "sha1": "414ec584e5c1430a6d0fd4e633f87416178790ff",
+      "btih": "71f5576d9180bbc250aac8fe01b3c933ea7832d4",
+      "mtime": "1659510025",
+      "size": "37194",
+      "md5": "682a407c2950d030fa31aab62aad0eb7",
+      "crc32": "446a5c1e",
+      "sha1": "d64ed94cb6ae3ccdf59d9ec3cdcf18ed624c8392",
       "format": "Archive BitTorrent"
     },
     {
       "name": "strikewave-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "efa71750f7bb371269884203f9dd66fd",
+      "md5": "71040794c039c33458a2f1d30fd4389c",
       "summation": "md5"
     },
     {
       "name": "strikewave-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659465684",
-      "size": "225280",
-      "md5": "e300638e94076019d83d0d2cae66634e",
-      "crc32": "2e2fa054",
-      "sha1": "83d1c86cd44ad53fd2386fcb809b12bd805afa2c",
+      "mtime": "1659501922",
+      "size": "229376",
+      "md5": "813edbe29cb48cd1016f35160862b28b",
+      "crc32": "6d090209",
+      "sha1": "ed73cca3c61cbdaa75e007f1f810d2b63558c97e",
       "format": "Metadata"
     },
     {
@@ -1750,9 +1802,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 168,
-  "item_last_updated": 1659482753,
-  "item_size": 8722979,
+  "files_count": 173,
+  "item_last_updated": 1659510025,
+  "item_size": 8984257,
   "metadata": {
     "identifier": "strikewave-2022",
     "collection": [
@@ -1769,10 +1821,51 @@
     "publicdate": "2022-07-23 04:23:41",
     "addeddate": "2022-07-23 04:23:41"
   },
-  "server": "ia902503.us.archive.org",
-  "uniq": 660729280,
+  "server": "ia802503.us.archive.org",
+  "strikewave-2022": [
+    {
+      "url": "https://www.thestrikewave.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thestrikewave_com-_-2022_08_03_04_04_59.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thestrikewave_com-_-2022_08_03_04_04_59.report.json",
+      "summary": {
+        "performance": 0.43,
+        "accessibility": 0.91,
+        "best-practices": 1,
+        "seo": 0.84,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.thestrikewave.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thestrikewave_com-_-2022_08_03_04_05_24.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thestrikewave_com-_-2022_08_03_04_05_24.report.json",
+      "summary": {
+        "performance": 0.42,
+        "accessibility": 0.91,
+        "best-practices": 1,
+        "seo": 0.84,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.thestrikewave.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thestrikewave_com-_-2022_08_03_04_05_12.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thestrikewave_com-_-2022_08_03_04_05_12.report.json",
+      "summary": {
+        "performance": 0.42,
+        "accessibility": 0.91,
+        "best-practices": 1,
+        "seo": 0.84,
+        "pwa": 0.3
+      }
+    }
+  ],
+  "uniq": 291587397,
   "workable_servers": [
-    "ia902503.us.archive.org",
-    "ia802503.us.archive.org"
+    "ia802503.us.archive.org",
+    "ia902503.us.archive.org"
   ]
 }

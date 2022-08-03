@@ -1,5 +1,5 @@
 {
-  "created": 1659482640,
+  "created": 1659530466,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/15/items/defectormedia-2022",
@@ -2777,31 +2777,83 @@
       "format": "JSON"
     },
     {
+      "name": "defectormedia-2022-08-02T19:23:07.806846-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "defectormedia-2022-08-02T19:23:07.806846-04:00.jpg",
+      "mtime": "1659494738",
+      "size": "9931",
+      "md5": "baecc1dd4fc8474bf53470f11a338a3a",
+      "crc32": "dc881da1",
+      "sha1": "99ea896ba879e0212ecd7cfaf6d2da5e2f6e6eed"
+    },
+    {
+      "name": "defectormedia-2022-08-03T08:40:00.020137-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659530404",
+      "size": "27225",
+      "md5": "a499512671213138ce859f959e22ec26",
+      "crc32": "07408152",
+      "sha1": "6b1bdfbaec139c1074c10061009e9d2b4d25e6cf",
+      "format": "JSON"
+    },
+    {
+      "name": "defectormedia-2022-08-03T08:40:00.020137-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659530406",
+      "size": "18203",
+      "md5": "6904c1cc1dbfc7d22e8caabbb7f10d37",
+      "crc32": "b256106b",
+      "sha1": "6e52a49356ffa5dc40118aa4cf3a5c567d64002b",
+      "format": "JSON"
+    },
+    {
+      "name": "defectormedia-2022-08-03T08:40:00.020137-04:00.jpg",
+      "source": "original",
+      "mtime": "1659530402",
+      "size": "224534",
+      "md5": "f824131b727f18bf663c8aa1cdc01eba",
+      "crc32": "45a75b2c",
+      "sha1": "5b277695b24c0209c85df003c019a9fcc7ccb323",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "defectormedia-2022-08-03T08:40:00.020137-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659530408",
+      "size": "1441",
+      "md5": "1dedcc51660ccaa80acee7de4ad0dcbf",
+      "crc32": "13c68058",
+      "sha1": "3f3e123c5fb05766af8ed4fc509a8d0a6efe04cd",
+      "format": "JSON"
+    },
+    {
       "name": "defectormedia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d71c3322effdf6c718bfba900d7aee69384bcd7e",
-      "mtime": "1659482637",
-      "size": "58483",
-      "md5": "9f398954670fb8decb30d2b0d8df0439",
-      "crc32": "e1410d0c",
-      "sha1": "81fbd5f494aefef0a636dc168b14fba68f9ef53e",
+      "btih": "644453d32bbe73d0251034edb043ed3667018cd1",
+      "mtime": "1659530462",
+      "size": "59567",
+      "md5": "fc12816dbee884f661dbfb568e48581b",
+      "crc32": "024024ca",
+      "sha1": "6d90b7b0cdd23918b770e8e2602472d1c011a552",
       "format": "Archive BitTorrent"
     },
     {
       "name": "defectormedia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f8fce7230dcdf750c17feef95f178a00",
+      "md5": "1277c028bae2ad76d8caee69991d8932",
       "summation": "md5"
     },
     {
       "name": "defectormedia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659482601",
-      "size": "335872",
-      "md5": "f246a014dc19bbf1a4d3051d1cdd3307",
-      "crc32": "2119c3d2",
-      "sha1": "7305f1688ff3d4a0859ec7ec221fa353483c072a",
+      "mtime": "1659530426",
+      "size": "344064",
+      "md5": "1873ed70e97519c813ec9933ed079fd1",
+      "crc32": "b2af4160",
+      "sha1": "54445ef078fec0e2a0d4ab51037a7533ab183fe7",
       "format": "Metadata"
     },
     {
@@ -2815,9 +2867,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 269,
-  "item_last_updated": 1659482637,
-  "item_size": 18376190,
+  "files_count": 274,
+  "item_last_updated": 1659530462,
+  "item_size": 18666800,
   "metadata": {
     "identifier": "defectormedia-2022",
     "collection": [
@@ -2839,7 +2891,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350898140,
+      "task_id": 3351409986,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2847,7 +2899,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 879346924,
+  "uniq": 891786989,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]
