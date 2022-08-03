@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 48 screenshots with the Internet Archive.
+The archiving routine has saved 49 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 48 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-03T00:44:54.148760-04:00.jpg">
+  <img src="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-03T00:44:54.148760-04:00.jpg"
+     alt="Baffler at 2022-08-03 00:45:00-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-03T00:44:54.148760-04:00.jpg">August 3 at 12:45 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-02T14:39:51.899091-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-07-30T11:59:35.242711-04:00.jpg">July 30 at 11:59 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-07-29T23:54:30.059941-04:00.jpg">
-  <img src="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-07-29T23:54:30.059941-04:00.jpg"
-     alt="Baffler at 2022-07-29 23:54:31-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thebafflermag-2022/thebafflermag-2022-07-29T23:54:30.059941-04:00.jpg">July 29 at 11:54 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 48 hyperlink lists with the Internet Archive.
+The archiving routine has saved 49 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 3 at 12:45 AM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-03T00:44:54.148760-04:00.hyperlinks.json) |
 | [August 2 at 2:40 PM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-02T14:39:51.899091-04:00.hyperlinks.json) |
 | [August 2 at 12:21 PM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-02T12:20:56.875398-04:00.hyperlinks.json) |
 | [August 2 at 12:28 AM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-02T00:28:09.306630-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 31 at 2:37 PM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-07-31T14:37:48.760213-04:00.hyperlinks.json) |
 | [July 31 at 11:57 AM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-07-31T11:56:56.760465-04:00.hyperlinks.json) |
 | [July 31 at 12:08 AM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-07-31T00:08:34.545345-04:00.hyperlinks.json) |
-| [July 30 at 2:40 PM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-07-30T14:40:52.026569-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 48 accessibility trees with the Internet Archive.
+The archiving routine has saved 49 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 3 at 12:45 AM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-03T00:44:54.148760-04:00.accessibility.json) |
 | [August 2 at 2:39 PM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-02T14:39:51.899091-04:00.accessibility.json) |
 | [August 2 at 12:21 PM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-02T12:20:56.875398-04:00.accessibility.json) |
 | [August 2 at 12:28 AM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-02T00:28:09.306630-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 31 at 2:37 PM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-07-31T14:37:48.760213-04:00.accessibility.json) |
 | [July 31 at 11:57 AM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-07-31T11:56:56.760465-04:00.accessibility.json) |
 | [July 31 at 12:08 AM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-07-31T00:08:34.545345-04:00.accessibility.json) |
-| [July 30 at 2:40 PM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-07-30T14:40:52.026569-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 31 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 3 at 12:45 AM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-03T00:44:54.148760-04:00.lighthouse.json) |
 | [August 2 at 2:40 PM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-02T14:39:51.899091-04:00.lighthouse.json) |
 | [August 2 at 12:21 PM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-02T12:20:56.875398-04:00.lighthouse.json) |
 | [August 2 at 12:28 AM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-08-02T00:28:09.306630-04:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 31 at 2:37 PM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-07-31T14:37:48.760213-04:00.lighthouse.json) |
 | [July 31 at 11:57 AM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-07-31T11:56:56.760465-04:00.lighthouse.json) |
 | [July 31 at 12:08 AM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-07-31T00:08:34.545345-04:00.lighthouse.json) |
-| [July 30 at 2:40 PM](https://archive.org/download/thebafflermag-2022/thebafflermag-2022-07-30T14:40:52.026569-04:00.lighthouse.json) |
 
 
 

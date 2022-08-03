@@ -41,7 +41,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 1 hyperlink lists with the Internet Archive.
+The archiving routine has saved 2 hyperlink lists with the Internet Archive.
 
 
 
@@ -49,12 +49,13 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 3 at 8:38 AM](https://archive.org/download/cityandstateny-2022/cityandstateny-2022-08-03T08:38:39.270176-04:00.hyperlinks.json) |
 | [August 2 at 7:21 PM](https://archive.org/download/cityandstateny-2022/cityandstateny-2022-08-02T19:21:08.461730-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 1 accessibility trees with the Internet Archive.
+The archiving routine has saved 2 accessibility trees with the Internet Archive.
 
 
 
@@ -62,13 +63,14 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 3 at 8:38 AM](https://archive.org/download/cityandstateny-2022/cityandstateny-2022-08-03T08:38:39.270176-04:00.accessibility.json) |
 | [August 2 at 7:21 PM](https://archive.org/download/cityandstateny-2022/cityandstateny-2022-08-02T19:21:08.461730-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 1 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 2 Lighthouse audits with the Internet Archive.
 
 
 
@@ -76,6 +78,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 3 at 8:38 AM](https://archive.org/download/cityandstateny-2022/cityandstateny-2022-08-03T08:38:39.270176-04:00.lighthouse.json) |
 | [August 2 at 7:21 PM](https://archive.org/download/cityandstateny-2022/cityandstateny-2022-08-02T19:21:08.461730-04:00.lighthouse.json) |
 
 

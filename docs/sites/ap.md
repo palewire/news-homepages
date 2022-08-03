@@ -223,7 +223,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 134 hyperlink lists with the Internet Archive.
+The archiving routine has saved 135 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 3 at 8:34 AM](https://archive.org/download/ap-2022/ap-2022-08-03T08:34:20.750743-04:00.hyperlinks.json) |
 | [August 2 at 7:17 PM](https://archive.org/download/ap-2022/ap-2022-08-02T19:17:26.535104-04:00.hyperlinks.json) |
 | [August 2 at 9:34 AM](https://archive.org/download/ap-2022/ap-2022-08-02T09:34:41.504229-04:00.hyperlinks.json) |
 | [August 1 at 7:13 PM](https://archive.org/download/ap-2022/ap-2022-08-01T19:13:00.875489-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 31 at 8:06 PM](https://archive.org/download/ap-2022/ap-2022-07-31T20:06:26.112475-04:00.hyperlinks.json) |
 | [July 31 at 5:12 PM](https://archive.org/download/ap-2022/ap-2022-07-31T17:12:06.605041-04:00.hyperlinks.json) |
 | [July 31 at 9:25 AM](https://archive.org/download/ap-2022/ap-2022-07-31T09:25:14.015936-04:00.hyperlinks.json) |
-| [July 31 at 7:06 AM](https://archive.org/download/ap-2022/ap-2022-07-31T07:06:29.512037-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 139 accessibility trees with the Internet Archive.
+The archiving routine has saved 140 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 3 at 8:34 AM](https://archive.org/download/ap-2022/ap-2022-08-03T08:34:20.750743-04:00.accessibility.json) |
 | [August 2 at 9:34 AM](https://archive.org/download/ap-2022/ap-2022-08-02T09:34:41.504229-04:00.accessibility.json) |
 | [August 2 at 8:10 AM](https://archive.org/download/ap-2022/ap-2022-08-02T08:09:56.908523-04:00.accessibility.json) |
 | [August 1 at 5:14 PM](https://archive.org/download/ap-2022/ap-2022-08-01T17:14:06.729914-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 31 at 5:12 PM](https://archive.org/download/ap-2022/ap-2022-07-31T17:12:06.605041-04:00.accessibility.json) |
 | [July 31 at 9:25 AM](https://archive.org/download/ap-2022/ap-2022-07-31T09:25:14.015936-04:00.accessibility.json) |
 | [July 31 at 7:06 AM](https://archive.org/download/ap-2022/ap-2022-07-31T07:06:29.512037-04:00.accessibility.json) |
-| [July 30 at 7:11 PM](https://archive.org/download/ap-2022/ap-2022-07-30T19:11:54.574358-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 42 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 43 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 3 at 8:34 AM](https://archive.org/download/ap-2022/ap-2022-08-03T08:34:20.750743-04:00.lighthouse.json) |
 | [August 2 at 7:17 PM](https://archive.org/download/ap-2022/ap-2022-08-02T19:17:26.535104-04:00.lighthouse.json) |
 | [August 2 at 5:13 PM](https://archive.org/download/ap-2022/ap-2022-08-02T17:13:35.718467-04:00.lighthouse.json) |
 | [August 2 at 9:34 AM](https://archive.org/download/ap-2022/ap-2022-08-02T09:34:41.504229-04:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 1 at 9:39 AM](https://archive.org/download/ap-2022/ap-2022-08-01T09:39:16.394685-04:00.lighthouse.json) |
 | [August 1 at 7:10 AM](https://archive.org/download/ap-2022/ap-2022-08-01T07:09:58.400171-04:00.lighthouse.json) |
 | [July 31 at 8:06 PM](https://archive.org/download/ap-2022/ap-2022-07-31T20:06:26.112475-04:00.lighthouse.json) |
-| [July 31 at 5:12 PM](https://archive.org/download/ap-2022/ap-2022-07-31T17:12:06.605041-04:00.lighthouse.json) |
 
 
 

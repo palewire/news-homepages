@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 10 screenshots with the Internet Archive.
+The archiving routine has saved 11 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wbur-2022/wbur-2022-08-02T22:00:33.036592-04:00.jpg">
+  <img src="https://archive.org/download/wbur-2022/wbur-2022-08-02T22:00:33.036592-04:00.jpg"
+     alt="WBUR at 2022-08-02 22:00:34-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wbur-2022/wbur-2022-08-02T22:00:33.036592-04:00.jpg">August 2 at 10:00 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wbur-2022/wbur-2022-08-02T09:47:10.695537-04:00.jpg">
@@ -122,7 +131,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 10 hyperlink lists with the Internet Archive.
+The archiving routine has saved 11 hyperlink lists with the Internet Archive.
 
 
 
@@ -130,6 +139,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 2 at 10:00 PM](https://archive.org/download/wbur-2022/wbur-2022-08-02T22:00:33.036592-04:00.hyperlinks.json) |
 | [August 2 at 9:47 AM](https://archive.org/download/wbur-2022/wbur-2022-08-02T09:47:10.695537-04:00.hyperlinks.json) |
 | [August 1 at 10:02 PM](https://archive.org/download/wbur-2022/wbur-2022-08-01T22:02:43.610551-04:00.hyperlinks.json) |
 | [August 1 at 10:52 AM](https://archive.org/download/wbur-2022/wbur-2022-08-01T10:52:22.034646-04:00.hyperlinks.json) |
@@ -139,12 +149,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 30 at 9:38 AM](https://archive.org/download/wbur-2022/wbur-2022-07-30T09:38:46.011267-04:00.hyperlinks.json) |
 | [July 29 at 9:25 PM](https://archive.org/download/wbur-2022/wbur-2022-07-29T21:25:35.410866-04:00.hyperlinks.json) |
 | [July 29 at 9:37 AM](https://archive.org/download/wbur-2022/wbur-2022-07-29T09:36:59.255612-04:00.hyperlinks.json) |
-| [July 28 at 9:30 PM](https://archive.org/download/wbur-2022/wbur-2022-07-28T21:30:12.177979-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 9 accessibility trees with the Internet Archive.
+The archiving routine has saved 10 accessibility trees with the Internet Archive.
 
 
 
@@ -152,6 +161,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 2 at 10:00 PM](https://archive.org/download/wbur-2022/wbur-2022-08-02T22:00:33.036592-04:00.accessibility.json) |
 | [August 2 at 9:47 AM](https://archive.org/download/wbur-2022/wbur-2022-08-02T09:47:10.695537-04:00.accessibility.json) |
 | [August 1 at 10:52 AM](https://archive.org/download/wbur-2022/wbur-2022-08-01T10:52:22.034646-04:00.accessibility.json) |
 | [July 31 at 9:30 PM](https://archive.org/download/wbur-2022/wbur-2022-07-31T21:30:23.906487-04:00.accessibility.json) |
@@ -166,7 +176,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 10 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
 
 
 
@@ -174,6 +184,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 2 at 10:00 PM](https://archive.org/download/wbur-2022/wbur-2022-08-02T22:00:33.036592-04:00.lighthouse.json) |
 | [August 2 at 9:47 AM](https://archive.org/download/wbur-2022/wbur-2022-08-02T09:47:10.695537-04:00.lighthouse.json) |
 | [August 1 at 10:02 PM](https://archive.org/download/wbur-2022/wbur-2022-08-01T22:02:43.610551-04:00.lighthouse.json) |
 | [August 1 at 10:52 AM](https://archive.org/download/wbur-2022/wbur-2022-08-01T10:52:22.034646-04:00.lighthouse.json) |
@@ -183,7 +194,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 30 at 9:38 AM](https://archive.org/download/wbur-2022/wbur-2022-07-30T09:38:46.011267-04:00.lighthouse.json) |
 | [July 29 at 9:25 PM](https://archive.org/download/wbur-2022/wbur-2022-07-29T21:25:35.410866-04:00.lighthouse.json) |
 | [July 29 at 9:37 AM](https://archive.org/download/wbur-2022/wbur-2022-07-29T09:36:59.255612-04:00.lighthouse.json) |
-| [July 28 at 9:30 PM](https://archive.org/download/wbur-2022/wbur-2022-07-28T21:30:12.177979-04:00.lighthouse.json) |
 
 
 

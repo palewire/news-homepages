@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 1 screenshots with the Internet Archive.
+The archiving routine has saved 2 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-03T01:32:15.025479-03:00.jpg">
+  <img src="https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-03T01:32:15.025479-03:00.jpg"
+     alt="O Globo at 2022-08-03 01:32:16-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-03T01:32:15.025479-03:00.jpg">August 3 at 1:32 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-02T11:55:40.201716-03:00.jpg">
@@ -41,7 +50,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 1 hyperlink lists with the Internet Archive.
+The archiving routine has saved 2 hyperlink lists with the Internet Archive.
 
 
 
@@ -49,12 +58,13 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 3 at 1:32 AM](https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-03T01:32:15.025479-03:00.hyperlinks.json) |
 | [August 2 at 11:55 AM](https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-02T11:55:40.201716-03:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 1 accessibility trees with the Internet Archive.
+The archiving routine has saved 2 accessibility trees with the Internet Archive.
 
 
 
@@ -62,13 +72,14 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 3 at 1:32 AM](https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-03T01:32:15.025479-03:00.accessibility.json) |
 | [August 2 at 11:55 AM](https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-02T11:55:40.201716-03:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 1 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 2 Lighthouse audits with the Internet Archive.
 
 
 
@@ -76,6 +87,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 3 at 1:32 AM](https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-03T01:32:15.025479-03:00.lighthouse.json) |
 | [August 2 at 11:56 AM](https://archive.org/download/jornaloglobo-2022/jornaloglobo-2022-08-02T11:55:40.201716-03:00.lighthouse.json) |
 
 

@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 14 screenshots with the Internet Archive.
+The archiving routine has saved 15 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-03T00:30:57.955346-04:00.jpg">
+  <img src="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-03T00:30:57.955346-04:00.jpg"
+     alt="Hartford Courant at 2022-08-03 00:31:00-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-03T00:30:57.955346-04:00.jpg">August 3 at 12:31 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-02T10:55:26.570907-04:00.jpg">
@@ -127,15 +136,6 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-07-28T11:41:24.379222-04:00.jpg">July 28 at 11:41 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-07-27T22:37:36.621805-04:00.jpg">
-  <img src="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-07-27T22:37:36.621805-04:00.jpg"
-     alt="Hartford Courant at 2022-07-27 22:37:38-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-07-27T22:37:36.621805-04:00.jpg">July 27 at 10:37 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
@@ -185,7 +185,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 14 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 15 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 3 at 12:31 AM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-03T00:30:57.955346-04:00.lighthouse.json) |
 | [August 2 at 10:55 AM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-02T10:55:26.570907-04:00.lighthouse.json) |
 | [August 1 at 11:17 PM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-01T23:17:10.101785-04:00.lighthouse.json) |
 | [August 1 at 11:00 AM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-01T11:00:02.174679-04:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 30 at 11:40 AM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-07-30T11:40:29.400992-04:00.lighthouse.json) |
 | [July 29 at 10:40 PM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-07-29T22:40:40.158588-04:00.lighthouse.json) |
 | [July 29 at 10:39 AM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-07-29T10:39:29.038115-04:00.lighthouse.json) |
-| [July 28 at 10:37 PM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-07-28T22:36:59.322809-04:00.lighthouse.json) |
 
 
 

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 73 screenshots with the Internet Archive.
+The archiving routine has saved 74 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 73 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-02T21:30:48.715931-07:00.jpg">
+  <img src="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-02T21:30:48.715931-07:00.jpg"
+     alt="Gizmodo at 2022-08-02 21:30:50-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-02T21:30:48.715931-07:00.jpg">August 2 at 9:30 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-08-02T07:53:41.870801-07:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-28T08:40:06.335929-07:00.jpg">July 28 at 8:40 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-27T19:37:46.925943-07:00.jpg">
-  <img src="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-27T19:37:46.925943-07:00.jpg"
-     alt="Gizmodo at 2022-07-27 19:37:49-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gizmodo-2022/gizmodo-2022-07-27T19:37:46.925943-07:00.jpg">July 27 at 7:37 PM</a></p>
 </div>
 
 </div>
@@ -328,7 +328,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 55 accessibility trees with the Internet Archive.
+The archiving routine has saved 56 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 2 at 9:30 PM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-02T21:30:48.715931-07:00.accessibility.json) |
 | [August 1 at 8:16 PM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-01T20:16:00.790104-07:00.accessibility.json) |
 | [August 1 at 7:59 AM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-01T07:58:54.935940-07:00.accessibility.json) |
 | [July 31 at 7:35 PM](https://archive.org/download/gizmodo-2022/gizmodo-2022-07-31T19:35:33.874487-07:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 29 at 7:38 AM](https://archive.org/download/gizmodo-2022/gizmodo-2022-07-29T07:38:18.270165-07:00.accessibility.json) |
 | [July 28 at 8:40 AM](https://archive.org/download/gizmodo-2022/gizmodo-2022-07-28T08:40:06.335929-07:00.accessibility.json) |
 | [July 27 at 7:37 PM](https://archive.org/download/gizmodo-2022/gizmodo-2022-07-27T19:37:46.925943-07:00.accessibility.json) |
-| [July 27 at 7:29 AM](https://archive.org/download/gizmodo-2022/gizmodo-2022-07-27T07:29:47.435177-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 21 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 22 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 2 at 9:30 PM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-02T21:30:48.715931-07:00.lighthouse.json) |
 | [August 2 at 7:53 AM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-02T07:53:41.870801-07:00.lighthouse.json) |
 | [August 1 at 8:16 PM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-01T20:16:00.790104-07:00.lighthouse.json) |
 | [August 1 at 7:59 AM](https://archive.org/download/gizmodo-2022/gizmodo-2022-08-01T07:58:54.935940-07:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 30 at 8:40 AM](https://archive.org/download/gizmodo-2022/gizmodo-2022-07-30T08:40:26.356590-07:00.lighthouse.json) |
 | [July 29 at 7:40 PM](https://archive.org/download/gizmodo-2022/gizmodo-2022-07-29T19:40:07.101454-07:00.lighthouse.json) |
 | [July 29 at 7:38 AM](https://archive.org/download/gizmodo-2022/gizmodo-2022-07-29T07:38:18.270165-07:00.lighthouse.json) |
-| [July 28 at 7:36 PM](https://archive.org/download/gizmodo-2022/gizmodo-2022-07-28T19:36:08.209613-07:00.lighthouse.json) |
 
 
 

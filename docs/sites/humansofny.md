@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 26 screenshots with the Internet Archive.
+The archiving routine has saved 27 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/humansofny-2022/humansofny-2022-08-03T00:31:44.358962-04:00.jpg">
+  <img src="https://archive.org/download/humansofny-2022/humansofny-2022-08-03T00:31:44.358962-04:00.jpg"
+     alt="Humans of New York at 2022-08-03 00:31:45-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/humansofny-2022/humansofny-2022-08-03T00:31:44.358962-04:00.jpg">August 3 at 12:31 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/humansofny-2022/humansofny-2022-08-02T10:54:35.888334-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/humansofny-2022/humansofny-2022-07-28T11:41:45.859604-04:00.jpg">July 28 at 11:41 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/humansofny-2022/humansofny-2022-07-27T22:38:49.869331-04:00.jpg">
-  <img src="https://archive.org/download/humansofny-2022/humansofny-2022-07-27T22:38:49.869331-04:00.jpg"
-     alt="Humans of New York at 2022-07-27 22:38:51-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/humansofny-2022/humansofny-2022-07-27T22:38:49.869331-04:00.jpg">July 27 at 10:38 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 26 hyperlink lists with the Internet Archive.
+The archiving routine has saved 27 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 3 at 12:31 AM](https://archive.org/download/humansofny-2022/humansofny-2022-08-03T00:31:44.358962-04:00.hyperlinks.json) |
 | [August 2 at 10:54 AM](https://archive.org/download/humansofny-2022/humansofny-2022-08-02T10:54:35.888334-04:00.hyperlinks.json) |
 | [August 1 at 11:17 PM](https://archive.org/download/humansofny-2022/humansofny-2022-08-01T23:17:37.318759-04:00.hyperlinks.json) |
 | [August 1 at 11:00 AM](https://archive.org/download/humansofny-2022/humansofny-2022-08-01T11:00:04.623736-04:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 30 at 11:40 AM](https://archive.org/download/humansofny-2022/humansofny-2022-07-30T11:40:26.877071-04:00.hyperlinks.json) |
 | [July 29 at 10:40 PM](https://archive.org/download/humansofny-2022/humansofny-2022-07-29T22:40:31.292502-04:00.hyperlinks.json) |
 | [July 29 at 10:39 AM](https://archive.org/download/humansofny-2022/humansofny-2022-07-29T10:39:46.526000-04:00.hyperlinks.json) |
-| [July 28 at 10:37 PM](https://archive.org/download/humansofny-2022/humansofny-2022-07-28T22:37:05.996920-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 26 accessibility trees with the Internet Archive.
+The archiving routine has saved 27 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 3 at 12:31 AM](https://archive.org/download/humansofny-2022/humansofny-2022-08-03T00:31:44.358962-04:00.accessibility.json) |
 | [August 2 at 10:54 AM](https://archive.org/download/humansofny-2022/humansofny-2022-08-02T10:54:35.888334-04:00.accessibility.json) |
 | [August 1 at 11:17 PM](https://archive.org/download/humansofny-2022/humansofny-2022-08-01T23:17:37.318759-04:00.accessibility.json) |
 | [August 1 at 11:00 AM](https://archive.org/download/humansofny-2022/humansofny-2022-08-01T11:00:04.623736-04:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [July 30 at 11:40 AM](https://archive.org/download/humansofny-2022/humansofny-2022-07-30T11:40:26.877071-04:00.accessibility.json) |
 | [July 29 at 10:40 PM](https://archive.org/download/humansofny-2022/humansofny-2022-07-29T22:40:31.292502-04:00.accessibility.json) |
 | [July 29 at 10:39 AM](https://archive.org/download/humansofny-2022/humansofny-2022-07-29T10:39:46.526000-04:00.accessibility.json) |
-| [July 28 at 10:37 PM](https://archive.org/download/humansofny-2022/humansofny-2022-07-28T22:37:05.996920-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 20 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 21 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 3 at 12:31 AM](https://archive.org/download/humansofny-2022/humansofny-2022-08-03T00:31:44.358962-04:00.lighthouse.json) |
 | [August 2 at 10:54 AM](https://archive.org/download/humansofny-2022/humansofny-2022-08-02T10:54:35.888334-04:00.lighthouse.json) |
 | [August 1 at 11:17 PM](https://archive.org/download/humansofny-2022/humansofny-2022-08-01T23:17:37.318759-04:00.lighthouse.json) |
 | [August 1 at 11:00 AM](https://archive.org/download/humansofny-2022/humansofny-2022-08-01T11:00:04.623736-04:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 30 at 11:40 AM](https://archive.org/download/humansofny-2022/humansofny-2022-07-30T11:40:26.877071-04:00.lighthouse.json) |
 | [July 29 at 10:40 PM](https://archive.org/download/humansofny-2022/humansofny-2022-07-29T22:40:31.292502-04:00.lighthouse.json) |
 | [July 29 at 10:39 AM](https://archive.org/download/humansofny-2022/humansofny-2022-07-29T10:39:46.526000-04:00.lighthouse.json) |
-| [July 28 at 10:37 PM](https://archive.org/download/humansofny-2022/humansofny-2022-07-28T22:37:05.996920-04:00.lighthouse.json) |
 
 
 

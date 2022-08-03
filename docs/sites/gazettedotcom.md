@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 212 screenshots with the Internet Archive.
+The archiving routine has saved 213 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 212 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-08-02T23:29:51.598381-05:00.jpg">
+  <img src="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-08-02T23:29:51.598381-05:00.jpg"
+     alt="Cedar Rapids Gazette at 2022-08-02 23:29:58-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-08-02T23:29:51.598381-05:00.jpg">August 2 at 11:29 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-08-02T09:53:05.698442-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-29T09:38:09.275463-05:00.jpg">July 29 at 9:38 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-28T21:35:30.381876-05:00.jpg">
-  <img src="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-28T21:35:30.381876-05:00.jpg"
-     alt="Cedar Rapids Gazette at 2022-07-28 21:35:37-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-28T21:35:30.381876-05:00.jpg">July 28 at 9:35 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 207 hyperlink lists with the Internet Archive.
+The archiving routine has saved 208 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 2 at 11:30 PM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-08-02T23:29:51.598381-05:00.hyperlinks.json) |
 | [August 2 at 9:53 AM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-08-02T09:53:05.698442-05:00.hyperlinks.json) |
 | [August 1 at 10:17 PM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-08-01T22:17:03.794854-05:00.hyperlinks.json) |
 | [August 1 at 11:37 AM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-08-01T11:37:30.984390-05:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 30 at 9:56 PM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-30T21:56:23.715991-05:00.hyperlinks.json) |
 | [July 30 at 10:39 AM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-30T10:39:05.060322-05:00.hyperlinks.json) |
 | [July 29 at 9:40 PM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-29T21:40:07.373680-05:00.hyperlinks.json) |
-| [July 29 at 11:19 AM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-29T11:18:48.944826-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 206 accessibility trees with the Internet Archive.
+The archiving routine has saved 207 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 2 at 11:30 PM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-08-02T23:29:51.598381-05:00.accessibility.json) |
 | [August 2 at 9:53 AM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-08-02T09:53:05.698442-05:00.accessibility.json) |
 | [August 1 at 10:17 PM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-08-01T22:17:03.794854-05:00.accessibility.json) |
 | [August 1 at 11:37 AM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-08-01T11:37:30.984390-05:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 30 at 9:56 PM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-30T21:56:23.715991-05:00.accessibility.json) |
 | [July 30 at 10:39 AM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-30T10:39:05.060322-05:00.accessibility.json) |
 | [July 29 at 9:40 PM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-29T21:40:07.373680-05:00.accessibility.json) |
-| [July 29 at 11:18 AM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-29T11:18:48.944826-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 24 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 25 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 2 at 11:30 PM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-08-02T23:29:51.598381-05:00.lighthouse.json) |
 | [August 2 at 9:53 AM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-08-02T09:53:05.698442-05:00.lighthouse.json) |
 | [August 1 at 10:17 PM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-08-01T22:17:03.794854-05:00.lighthouse.json) |
 | [August 1 at 11:37 AM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-08-01T11:37:30.984390-05:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 30 at 9:56 PM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-30T21:56:23.715991-05:00.lighthouse.json) |
 | [July 30 at 10:39 AM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-30T10:39:05.060322-05:00.lighthouse.json) |
 | [July 29 at 9:40 PM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-29T21:40:07.373680-05:00.lighthouse.json) |
-| [July 29 at 11:19 AM](https://archive.org/download/gazettedotcom-2022/gazettedotcom-2022-07-29T11:18:48.944826-05:00.lighthouse.json) |
 
 
 

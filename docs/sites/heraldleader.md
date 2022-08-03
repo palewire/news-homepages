@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 5 screenshots with the Internet Archive.
+The archiving routine has saved 6 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/heraldleader-2022/heraldleader-2022-08-03T00:32:22.878539-04:00.jpg">
+  <img src="https://archive.org/download/heraldleader-2022/heraldleader-2022-08-03T00:32:22.878539-04:00.jpg"
+     alt="Lexington Herald-Leader at 2022-08-03 00:32:24-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/heraldleader-2022/heraldleader-2022-08-03T00:32:22.878539-04:00.jpg">August 3 at 12:32 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/heraldleader-2022/heraldleader-2022-08-02T10:54:13.785746-04:00.jpg">
@@ -91,7 +100,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 5 accessibility trees with the Internet Archive.
+The archiving routine has saved 6 accessibility trees with the Internet Archive.
 
 
 
@@ -99,6 +108,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 3 at 12:32 AM](https://archive.org/download/heraldleader-2022/heraldleader-2022-08-03T00:32:22.878539-04:00.accessibility.json) |
 | [August 2 at 10:54 AM](https://archive.org/download/heraldleader-2022/heraldleader-2022-08-02T10:54:13.785746-04:00.accessibility.json) |
 | [August 1 at 11:17 PM](https://archive.org/download/heraldleader-2022/heraldleader-2022-08-01T23:17:57.158990-04:00.accessibility.json) |
 | [August 1 at 2:11 PM](https://archive.org/download/heraldleader-2022/heraldleader-2022-08-01T14:11:48.598705-04:00.accessibility.json) |
@@ -109,7 +119,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 5 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 6 Lighthouse audits with the Internet Archive.
 
 
 
@@ -117,6 +127,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 3 at 12:32 AM](https://archive.org/download/heraldleader-2022/heraldleader-2022-08-03T00:32:22.878539-04:00.lighthouse.json) |
 | [August 2 at 10:54 AM](https://archive.org/download/heraldleader-2022/heraldleader-2022-08-02T10:54:13.785746-04:00.lighthouse.json) |
 | [August 1 at 11:18 PM](https://archive.org/download/heraldleader-2022/heraldleader-2022-08-01T23:17:57.158990-04:00.lighthouse.json) |
 | [August 1 at 2:11 PM](https://archive.org/download/heraldleader-2022/heraldleader-2022-08-01T14:11:48.598705-04:00.lighthouse.json) |

@@ -113,7 +113,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 9 hyperlink lists with the Internet Archive.
+The archiving routine has saved 10 hyperlink lists with the Internet Archive.
 
 
 
@@ -121,6 +121,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 3 at 7:39 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-03T07:39:46.278643-05:00.hyperlinks.json) |
 | [August 2 at 6:22 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-02T18:22:31.463986-05:00.hyperlinks.json) |
 | [August 2 at 7:15 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-02T07:14:54.354089-05:00.hyperlinks.json) |
 | [August 1 at 6:18 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-01T18:17:57.083225-05:00.hyperlinks.json) |
@@ -134,7 +135,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 9 accessibility trees with the Internet Archive.
+The archiving routine has saved 10 accessibility trees with the Internet Archive.
 
 
 
@@ -142,6 +143,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 3 at 7:39 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-03T07:39:46.278643-05:00.accessibility.json) |
 | [August 2 at 6:22 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-02T18:22:31.463986-05:00.accessibility.json) |
 | [August 2 at 7:14 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-02T07:14:54.354089-05:00.accessibility.json) |
 | [August 1 at 6:18 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-01T18:17:57.083225-05:00.accessibility.json) |
@@ -156,7 +158,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 9 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 10 Lighthouse audits with the Internet Archive.
 
 
 
@@ -164,6 +166,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 3 at 7:39 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-03T07:39:46.278643-05:00.lighthouse.json) |
 | [August 2 at 6:22 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-02T18:22:31.463986-05:00.lighthouse.json) |
 | [August 2 at 7:15 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-02T07:14:54.354089-05:00.lighthouse.json) |
 | [August 1 at 6:18 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-01T18:17:57.083225-05:00.lighthouse.json) |

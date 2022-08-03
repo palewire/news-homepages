@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 149 screenshots with the Internet Archive.
+The archiving routine has saved 150 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 149 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-08-02T18:58:31.863792-07:00.jpg">
+  <img src="https://archive.org/download/toacornnews-2022/toacornnews-2022-08-02T18:58:31.863792-07:00.jpg"
+     alt="Thousand Oaks Acorn at 2022-08-02 18:58:33-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-08-02T18:58:31.863792-07:00.jpg">August 2 at 6:58 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-08-02T11:12:50.498586-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-30T06:37:09.427612-07:00.jpg">July 30 at 6:37 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-29T18:24:32.653041-07:00.jpg">
-  <img src="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-29T18:24:32.653041-07:00.jpg"
-     alt="Thousand Oaks Acorn at 2022-07-29 18:24:33-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-07-29T18:24:32.653041-07:00.jpg">July 29 at 6:24 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 149 hyperlink lists with the Internet Archive.
+The archiving routine has saved 150 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 2 at 6:58 PM](https://archive.org/download/toacornnews-2022/toacornnews-2022-08-02T18:58:31.863792-07:00.hyperlinks.json) |
 | [August 2 at 11:12 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-08-02T11:12:50.498586-07:00.hyperlinks.json) |
 | [August 2 at 6:45 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-08-02T06:45:23.125216-07:00.hyperlinks.json) |
 | [August 1 at 7:01 PM](https://archive.org/download/toacornnews-2022/toacornnews-2022-08-01T19:00:58.473845-07:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 31 at 11:35 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-07-31T11:35:51.513369-07:00.hyperlinks.json) |
 | [July 31 at 6:34 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-07-31T06:34:00.891281-07:00.hyperlinks.json) |
 | [July 30 at 7:49 PM](https://archive.org/download/toacornnews-2022/toacornnews-2022-07-30T19:49:46.296432-07:00.hyperlinks.json) |
-| [July 30 at 11:38 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-07-30T11:38:49.034807-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 149 accessibility trees with the Internet Archive.
+The archiving routine has saved 150 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 2 at 6:58 PM](https://archive.org/download/toacornnews-2022/toacornnews-2022-08-02T18:58:31.863792-07:00.accessibility.json) |
 | [August 2 at 11:12 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-08-02T11:12:50.498586-07:00.accessibility.json) |
 | [August 2 at 6:45 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-08-02T06:45:23.125216-07:00.accessibility.json) |
 | [August 1 at 7:01 PM](https://archive.org/download/toacornnews-2022/toacornnews-2022-08-01T19:00:58.473845-07:00.accessibility.json) |
@@ -428,20 +429,103 @@ Here are the 10 most recent accessibility trees.
 | [July 31 at 11:35 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-07-31T11:35:51.513369-07:00.accessibility.json) |
 | [July 31 at 6:34 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-07-31T06:34:00.891281-07:00.accessibility.json) |
 | [July 30 at 7:49 PM](https://archive.org/download/toacornnews-2022/toacornnews-2022-07-30T19:49:46.296432-07:00.accessibility.json) |
-| [July 30 at 11:38 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-07-30T11:38:49.034807-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 31 Lighthouse audits with the Internet Archive.
 
+
+  <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specLighthouse = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/lighthouse/toacornnews.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--lighthouse", specLighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 2 at 6:58 PM](https://archive.org/download/toacornnews-2022/toacornnews-2022-08-02T18:58:31.863792-07:00.lighthouse.json) |
 | [August 2 at 11:12 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-08-02T11:12:50.498586-07:00.lighthouse.json) |
 | [August 2 at 6:45 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-08-02T06:45:23.125216-07:00.lighthouse.json) |
 | [August 1 at 7:01 PM](https://archive.org/download/toacornnews-2022/toacornnews-2022-08-01T19:00:58.473845-07:00.lighthouse.json) |
@@ -451,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 31 at 11:36 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-07-31T11:35:51.513369-07:00.lighthouse.json) |
 | [July 31 at 6:34 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-07-31T06:34:00.891281-07:00.lighthouse.json) |
 | [July 30 at 7:49 PM](https://archive.org/download/toacornnews-2022/toacornnews-2022-07-30T19:49:46.296432-07:00.lighthouse.json) |
-| [July 30 at 11:38 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-07-30T11:38:49.034807-07:00.lighthouse.json) |
 
 
 

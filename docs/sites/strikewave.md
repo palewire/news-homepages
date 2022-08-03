@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 33 screenshots with the Internet Archive.
+The archiving routine has saved 34 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 33 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/strikewave-2022/strikewave-2022-08-03T00:45:12.725418-04:00.jpg">
+  <img src="https://archive.org/download/strikewave-2022/strikewave-2022-08-03T00:45:12.725418-04:00.jpg"
+     alt="Strikewave at 2022-08-03 00:45:14-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/strikewave-2022/strikewave-2022-08-03T00:45:12.725418-04:00.jpg">August 3 at 12:45 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/strikewave-2022/strikewave-2022-08-02T14:39:44.799600-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/strikewave-2022/strikewave-2022-07-30T11:58:32.179696-04:00.jpg">July 30 at 11:58 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/strikewave-2022/strikewave-2022-07-29T23:54:19.358923-04:00.jpg">
-  <img src="https://archive.org/download/strikewave-2022/strikewave-2022-07-29T23:54:19.358923-04:00.jpg"
-     alt="Strikewave at 2022-07-29 23:54:22-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/strikewave-2022/strikewave-2022-07-29T23:54:19.358923-04:00.jpg">July 29 at 11:54 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 33 hyperlink lists with the Internet Archive.
+The archiving routine has saved 34 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 3 at 12:45 AM](https://archive.org/download/strikewave-2022/strikewave-2022-08-03T00:45:12.725418-04:00.hyperlinks.json) |
 | [August 2 at 2:39 PM](https://archive.org/download/strikewave-2022/strikewave-2022-08-02T14:39:44.799600-04:00.hyperlinks.json) |
 | [August 2 at 12:20 PM](https://archive.org/download/strikewave-2022/strikewave-2022-08-02T12:20:03.267603-04:00.hyperlinks.json) |
 | [August 2 at 12:27 AM](https://archive.org/download/strikewave-2022/strikewave-2022-08-02T00:27:00.003197-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 31 at 2:37 PM](https://archive.org/download/strikewave-2022/strikewave-2022-07-31T14:37:49.123714-04:00.hyperlinks.json) |
 | [July 31 at 11:56 AM](https://archive.org/download/strikewave-2022/strikewave-2022-07-31T11:56:13.105309-04:00.hyperlinks.json) |
 | [July 31 at 12:08 AM](https://archive.org/download/strikewave-2022/strikewave-2022-07-31T00:08:17.402586-04:00.hyperlinks.json) |
-| [July 30 at 2:40 PM](https://archive.org/download/strikewave-2022/strikewave-2022-07-30T14:40:27.392750-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 33 accessibility trees with the Internet Archive.
+The archiving routine has saved 34 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 3 at 12:45 AM](https://archive.org/download/strikewave-2022/strikewave-2022-08-03T00:45:12.725418-04:00.accessibility.json) |
 | [August 2 at 2:39 PM](https://archive.org/download/strikewave-2022/strikewave-2022-08-02T14:39:44.799600-04:00.accessibility.json) |
 | [August 2 at 12:20 PM](https://archive.org/download/strikewave-2022/strikewave-2022-08-02T12:20:03.267603-04:00.accessibility.json) |
 | [August 2 at 12:27 AM](https://archive.org/download/strikewave-2022/strikewave-2022-08-02T00:27:00.003197-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 31 at 2:37 PM](https://archive.org/download/strikewave-2022/strikewave-2022-07-31T14:37:49.123714-04:00.accessibility.json) |
 | [July 31 at 11:56 AM](https://archive.org/download/strikewave-2022/strikewave-2022-07-31T11:56:13.105309-04:00.accessibility.json) |
 | [July 31 at 12:08 AM](https://archive.org/download/strikewave-2022/strikewave-2022-07-31T00:08:17.402586-04:00.accessibility.json) |
-| [July 30 at 2:40 PM](https://archive.org/download/strikewave-2022/strikewave-2022-07-30T14:40:27.392750-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 31 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 3 at 12:45 AM](https://archive.org/download/strikewave-2022/strikewave-2022-08-03T00:45:12.725418-04:00.lighthouse.json) |
 | [August 2 at 2:39 PM](https://archive.org/download/strikewave-2022/strikewave-2022-08-02T14:39:44.799600-04:00.lighthouse.json) |
 | [August 2 at 12:20 PM](https://archive.org/download/strikewave-2022/strikewave-2022-08-02T12:20:03.267603-04:00.lighthouse.json) |
 | [August 2 at 12:27 AM](https://archive.org/download/strikewave-2022/strikewave-2022-08-02T00:27:00.003197-04:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 31 at 2:37 PM](https://archive.org/download/strikewave-2022/strikewave-2022-07-31T14:37:49.123714-04:00.lighthouse.json) |
 | [July 31 at 11:56 AM](https://archive.org/download/strikewave-2022/strikewave-2022-07-31T11:56:13.105309-04:00.lighthouse.json) |
 | [July 31 at 12:08 AM](https://archive.org/download/strikewave-2022/strikewave-2022-07-31T00:08:17.402586-04:00.lighthouse.json) |
-| [July 30 at 2:40 PM](https://archive.org/download/strikewave-2022/strikewave-2022-07-30T14:40:27.392750-04:00.lighthouse.json) |
 
 
 

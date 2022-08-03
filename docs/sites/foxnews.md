@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 521 screenshots with the Internet Archive.
+The archiving routine has saved 522 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 521 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-03T00:28:54.773931-04:00.jpg">
+  <img src="https://archive.org/download/foxnews-2022/foxnews-2022-08-03T00:28:54.773931-04:00.jpg"
+     alt="Fox News at 2022-08-03 00:29:08-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-03T00:28:54.773931-04:00.jpg">August 3 at 12:29 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-02T17:13:28.735572-04:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-31T14:38:56.756715-04:00.jpg">July 31 at 2:39 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-31T10:36:10.768016-04:00.jpg">
-  <img src="https://archive.org/download/foxnews-2022/foxnews-2022-07-31T10:36:10.768016-04:00.jpg"
-     alt="Fox News at 2022-07-31 10:36:13-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-07-31T10:36:10.768016-04:00.jpg">July 31 at 10:36 AM</a></p>
 </div>
 
 </div>
@@ -328,7 +328,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 459 accessibility trees with the Internet Archive.
+The archiving routine has saved 460 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 3 at 12:29 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-03T00:28:54.773931-04:00.accessibility.json) |
 | [August 2 at 5:13 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-02T17:13:28.735572-04:00.accessibility.json) |
 | [August 2 at 2:36 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-02T14:36:22.373320-04:00.accessibility.json) |
 | [August 2 at 10:53 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-02T10:52:56.889280-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 1 at 9:39 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-01T09:39:23.841549-04:00.accessibility.json) |
 | [July 31 at 10:35 PM](https://archive.org/download/foxnews-2022/foxnews-2022-07-31T22:35:02.992317-04:00.accessibility.json) |
 | [July 31 at 5:11 PM](https://archive.org/download/foxnews-2022/foxnews-2022-07-31T17:11:48.147480-04:00.accessibility.json) |
-| [July 31 at 2:39 PM](https://archive.org/download/foxnews-2022/foxnews-2022-07-31T14:38:56.756715-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 51 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 52 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 3 at 12:29 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-03T00:28:54.773931-04:00.lighthouse.json) |
 | [August 2 at 5:13 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-02T17:13:28.735572-04:00.lighthouse.json) |
 | [August 2 at 2:36 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-02T14:36:22.373320-04:00.lighthouse.json) |
 | [August 2 at 10:53 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-02T10:52:56.889280-04:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 1 at 2:39 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-01T14:38:52.822316-04:00.lighthouse.json) |
 | [August 1 at 10:57 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-01T10:57:25.165335-04:00.lighthouse.json) |
 | [August 1 at 9:39 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-01T09:39:23.841549-04:00.lighthouse.json) |
-| [July 31 at 10:35 PM](https://archive.org/download/foxnews-2022/foxnews-2022-07-31T22:35:02.992317-04:00.lighthouse.json) |
 
 
 

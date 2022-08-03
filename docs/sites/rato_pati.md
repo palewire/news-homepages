@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 19 screenshots with the Internet Archive.
+The archiving routine has saved 20 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-08-03T06:27:41.388603+05:45.jpg">
+  <img src="https://archive.org/download/rato_pati-2022/rato_pati-2022-08-03T06:27:41.388603+05:45.jpg"
+     alt="Rato Pati at 2022-08-03 06:27:43+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-08-03T06:27:41.388603+05:45.jpg">August 3 at 6:27 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-08-02T18:13:13.765135+05:45.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-07-28T19:02:17.696508+05:45.jpg">July 28 at 7:02 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-07-28T05:55:55.320427+05:45.jpg">
-  <img src="https://archive.org/download/rato_pati-2022/rato_pati-2022-07-28T05:55:55.320427+05:45.jpg"
-     alt="Rato Pati at 2022-07-28 05:55:57+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rato_pati-2022/rato_pati-2022-07-28T05:55:55.320427+05:45.jpg">July 28 at 5:55 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 19 hyperlink lists with the Internet Archive.
+The archiving routine has saved 20 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 3 at 6:27 AM](https://archive.org/download/rato_pati-2022/rato_pati-2022-08-03T06:27:41.388603+05:45.hyperlinks.json) |
 | [August 2 at 6:13 PM](https://archive.org/download/rato_pati-2022/rato_pati-2022-08-02T18:13:13.765135+05:45.hyperlinks.json) |
 | [August 2 at 6:28 AM](https://archive.org/download/rato_pati-2022/rato_pati-2022-08-02T06:28:02.516796+05:45.hyperlinks.json) |
 | [August 1 at 6:14 PM](https://archive.org/download/rato_pati-2022/rato_pati-2022-08-01T18:14:31.031874+05:45.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 30 at 6:13 PM](https://archive.org/download/rato_pati-2022/rato_pati-2022-07-30T18:13:52.568032+05:45.hyperlinks.json) |
 | [July 30 at 6:01 AM](https://archive.org/download/rato_pati-2022/rato_pati-2022-07-30T06:01:23.687869+05:45.hyperlinks.json) |
 | [July 29 at 6:08 PM](https://archive.org/download/rato_pati-2022/rato_pati-2022-07-29T18:08:45.580314+05:45.hyperlinks.json) |
-| [July 29 at 6:04 AM](https://archive.org/download/rato_pati-2022/rato_pati-2022-07-29T06:04:10.564484+05:45.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 19 accessibility trees with the Internet Archive.
+The archiving routine has saved 20 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 3 at 6:27 AM](https://archive.org/download/rato_pati-2022/rato_pati-2022-08-03T06:27:41.388603+05:45.accessibility.json) |
 | [August 2 at 6:13 PM](https://archive.org/download/rato_pati-2022/rato_pati-2022-08-02T18:13:13.765135+05:45.accessibility.json) |
 | [August 2 at 6:28 AM](https://archive.org/download/rato_pati-2022/rato_pati-2022-08-02T06:28:02.516796+05:45.accessibility.json) |
 | [August 1 at 6:14 PM](https://archive.org/download/rato_pati-2022/rato_pati-2022-08-01T18:14:31.031874+05:45.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [July 30 at 6:13 PM](https://archive.org/download/rato_pati-2022/rato_pati-2022-07-30T18:13:52.568032+05:45.accessibility.json) |
 | [July 30 at 6:01 AM](https://archive.org/download/rato_pati-2022/rato_pati-2022-07-30T06:01:23.687869+05:45.accessibility.json) |
 | [July 29 at 6:08 PM](https://archive.org/download/rato_pati-2022/rato_pati-2022-07-29T18:08:45.580314+05:45.accessibility.json) |
-| [July 29 at 6:04 AM](https://archive.org/download/rato_pati-2022/rato_pati-2022-07-29T06:04:10.564484+05:45.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 19 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 3 at 6:27 AM](https://archive.org/download/rato_pati-2022/rato_pati-2022-08-03T06:27:41.388603+05:45.lighthouse.json) |
 | [August 2 at 6:13 PM](https://archive.org/download/rato_pati-2022/rato_pati-2022-08-02T18:13:13.765135+05:45.lighthouse.json) |
 | [August 2 at 6:28 AM](https://archive.org/download/rato_pati-2022/rato_pati-2022-08-02T06:28:02.516796+05:45.lighthouse.json) |
 | [August 1 at 6:14 PM](https://archive.org/download/rato_pati-2022/rato_pati-2022-08-01T18:14:31.031874+05:45.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 30 at 6:13 PM](https://archive.org/download/rato_pati-2022/rato_pati-2022-07-30T18:13:52.568032+05:45.lighthouse.json) |
 | [July 30 at 6:01 AM](https://archive.org/download/rato_pati-2022/rato_pati-2022-07-30T06:01:23.687869+05:45.lighthouse.json) |
 | [July 29 at 6:05 AM](https://archive.org/download/rato_pati-2022/rato_pati-2022-07-29T06:04:10.564484+05:45.lighthouse.json) |
-| [July 28 at 7:02 PM](https://archive.org/download/rato_pati-2022/rato_pati-2022-07-28T19:02:17.696508+05:45.lighthouse.json) |
 
 
 

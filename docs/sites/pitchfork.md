@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 124 screenshots with the Internet Archive.
+The archiving routine has saved 125 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 124 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-02T23:40:05.154452-05:00.jpg">
+  <img src="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-02T23:40:05.154452-05:00.jpg"
+     alt="Pitchfork at 2022-08-02 23:40:07-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-02T23:40:05.154452-05:00.jpg">August 2 at 11:40 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-02T11:26:57.815254-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-30T10:54:17.663068-05:00.jpg">July 30 at 10:54 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-29T22:50:07.387294-05:00.jpg">
-  <img src="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-29T22:50:07.387294-05:00.jpg"
-     alt="Pitchfork at 2022-07-29 22:50:08-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-29T22:50:07.387294-05:00.jpg">July 29 at 10:50 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 117 hyperlink lists with the Internet Archive.
+The archiving routine has saved 118 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 2 at 11:40 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-02T23:40:05.154452-05:00.hyperlinks.json) |
 | [August 2 at 11:27 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-02T11:26:57.815254-05:00.hyperlinks.json) |
 | [August 2 at 11:15 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-02T11:15:33.851856-05:00.hyperlinks.json) |
 | [August 1 at 11:22 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-01T23:22:40.689226-05:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 31 at 11:02 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-07-31T11:02:24.941442-05:00.hyperlinks.json) |
 | [July 31 at 10:52 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-07-31T10:52:43.706273-05:00.hyperlinks.json) |
 | [July 30 at 11:04 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-07-30T23:04:30.324687-05:00.hyperlinks.json) |
-| [July 30 at 11:16 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-07-30T11:16:26.813392-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 123 accessibility trees with the Internet Archive.
+The archiving routine has saved 124 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 2 at 11:40 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-02T23:40:05.154452-05:00.accessibility.json) |
 | [August 2 at 11:27 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-02T11:26:57.815254-05:00.accessibility.json) |
 | [August 2 at 11:15 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-02T11:15:33.851856-05:00.accessibility.json) |
 | [August 1 at 11:22 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-01T23:22:40.689226-05:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 31 at 11:02 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-07-31T11:02:24.941442-05:00.accessibility.json) |
 | [July 31 at 10:52 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-07-31T10:52:43.706273-05:00.accessibility.json) |
 | [July 30 at 11:04 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-07-30T23:04:30.324687-05:00.accessibility.json) |
-| [July 30 at 11:16 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-07-30T11:16:26.813392-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 31 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 2 at 11:40 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-02T23:40:05.154452-05:00.lighthouse.json) |
 | [August 2 at 11:27 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-02T11:26:57.815254-05:00.lighthouse.json) |
 | [August 2 at 11:15 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-02T11:15:33.851856-05:00.lighthouse.json) |
 | [August 1 at 11:22 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-01T23:22:40.689226-05:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 31 at 11:02 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-07-31T11:02:24.941442-05:00.lighthouse.json) |
 | [July 31 at 10:52 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-07-31T10:52:43.706273-05:00.lighthouse.json) |
 | [July 30 at 11:04 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-07-30T23:04:30.324687-05:00.lighthouse.json) |
-| [July 30 at 11:16 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-07-30T11:16:26.813392-05:00.lighthouse.json) |
 
 
 
