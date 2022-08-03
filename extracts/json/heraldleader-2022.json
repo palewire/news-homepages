@@ -1,5 +1,5 @@
 {
-  "created": 1659443627,
+  "created": 1659471938,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/3/items/heraldleader-2022",
@@ -194,31 +194,83 @@
       "sha1": "93bccadfe0e1fc11d15cd460e95e7c7cd9e472d3"
     },
     {
+      "name": "heraldleader-2022-08-02T10:54:13.785746-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659452057",
+      "size": "455",
+      "md5": "c43c2a5b00afc152e2230cd8f5104723",
+      "crc32": "321b342b",
+      "sha1": "1cf78d9447e24ea77e0bb4cbdd4c125b0a5290b6",
+      "format": "JSON"
+    },
+    {
+      "name": "heraldleader-2022-08-02T10:54:13.785746-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659452059",
+      "size": "40013",
+      "md5": "61ff5b1960e615ac01a17894b3c10b36",
+      "crc32": "2f120c7c",
+      "sha1": "53d936e9d1bdab15c54d5b854235d42db2426f79",
+      "format": "JSON"
+    },
+    {
+      "name": "heraldleader-2022-08-02T10:54:13.785746-04:00.jpg",
+      "source": "original",
+      "mtime": "1659452055",
+      "size": "335490",
+      "md5": "9958b754e5804e39498489ca52f4155a",
+      "crc32": "fc3fd76a",
+      "sha1": "84ca7e193ac06a34e4ced6618f35d6909465cf7e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "heraldleader-2022-08-02T10:54:13.785746-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659452061",
+      "size": "1477",
+      "md5": "4dd5f97eba147732d8c47cf12161b1ac",
+      "crc32": "14497c29",
+      "sha1": "3a62ac808c3e5df8daf54b0ada339d9f98b6be4c",
+      "format": "JSON"
+    },
+    {
+      "name": "heraldleader-2022-08-02T10:54:13.785746-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "heraldleader-2022-08-02T10:54:13.785746-04:00.jpg",
+      "mtime": "1659471781",
+      "size": "10107",
+      "md5": "bc94fe146854a8839f499205c2061cec",
+      "crc32": "8cdb8d0f",
+      "sha1": "5c998b0dc8e321300184d871d52f9e0b3fb75f2e"
+    },
+    {
       "name": "heraldleader-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c94ec8d5302e231d89c6901a1ad00270c0d90c46",
-      "mtime": "1659413029",
-      "size": "5284",
-      "md5": "edbe84f8a9e526f5bb59625f880e6312",
-      "crc32": "09c3cd51",
-      "sha1": "7761eea99267d9c828c0db23f22f85700b1cf90c",
+      "btih": "ec63465bcae8719fa99b1c675a5bb7356e91159e",
+      "mtime": "1659471875",
+      "size": "6362",
+      "md5": "3992742b15ac7d51ccc2507e104b2869",
+      "crc32": "d46765a0",
+      "sha1": "ae88d5effc2f6792baea8e7f72405b78c80cf667",
       "format": "Archive BitTorrent"
     },
     {
       "name": "heraldleader-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "584c3bf5d3bf2a53c3a52852be379ff2",
+      "md5": "7c5bed97c8329320765183716c650329",
       "summation": "md5"
     },
     {
       "name": "heraldleader-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659410292",
-      "size": "40960",
-      "md5": "91ed1b87a2890d00242e05399dc9774c",
-      "crc32": "4a069e63",
-      "sha1": "10ae1a003f8fb7bed6d9de20232c5c45f685eddf",
+      "mtime": "1659452065",
+      "size": "45056",
+      "md5": "6a7b49f40ecf05e3d075326d96268944",
+      "crc32": "1a4551bd",
+      "sha1": "7fcec53de25b607bbdc4bcebc1d0dce7edb49921",
       "format": "Metadata"
     },
     {
@@ -232,50 +284,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 22,
-  "heraldleader-2022": [
-    {
-      "url": "https://www.kentucky.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kentucky_com-_-2022_08_02_02_51_28.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kentucky_com-_-2022_08_02_02_51_28.report.json",
-      "summary": {
-        "performance": 0.3,
-        "accessibility": 0.85,
-        "best-practices": 0.67,
-        "seo": 0.91,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.kentucky.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kentucky_com-_-2022_08_02_02_51_57.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kentucky_com-_-2022_08_02_02_51_57.report.json",
-      "summary": {
-        "performance": 0.28,
-        "accessibility": 0.85,
-        "best-practices": 0.67,
-        "seo": 0.91,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.kentucky.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kentucky_com-_-2022_08_02_02_52_54.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kentucky_com-_-2022_08_02_02_52_54.report.json",
-      "summary": {
-        "performance": 0.37,
-        "accessibility": 0.85,
-        "best-practices": 0.67,
-        "seo": 0.91,
-        "pwa": 0.4
-      }
-    }
-  ],
-  "item_last_updated": 1659413029,
-  "item_size": 1286641,
+  "files_count": 27,
+  "item_last_updated": 1659471875,
+  "item_size": 1679357,
   "metadata": {
     "identifier": "heraldleader-2022",
     "collection": [
@@ -293,7 +304,7 @@
     "addeddate": "2022-08-01 06:42:16"
   },
   "server": "ia801501.us.archive.org",
-  "uniq": 1653653607,
+  "uniq": 2017581283,
   "workable_servers": [
     "ia801501.us.archive.org",
     "ia601501.us.archive.org"

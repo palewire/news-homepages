@@ -1,5 +1,5 @@
 {
-  "created": 1659442331,
+  "created": 1659482378,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/18/items/berkshireeagle-2022",
@@ -505,31 +505,83 @@
       "format": "JSON"
     },
     {
+      "name": "berkshireeagle-2022-08-02T08:11:21.338023-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "berkshireeagle-2022-08-02T08:11:21.338023-04:00.jpg",
+      "mtime": "1659461675",
+      "size": "8956",
+      "md5": "84f1258daad00525a64122ddc07b7b84",
+      "crc32": "43b402b4",
+      "sha1": "463f82277ae23cfc70b94ee43d39490bbae77278"
+    },
+    {
+      "name": "berkshireeagle-2022-08-02T19:18:43.784563-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659482327",
+      "size": "67680",
+      "md5": "c76f71498c3c9dd55daa20ed43532254",
+      "crc32": "9a33fed8",
+      "sha1": "3093a9429f13d9b449dcb2831d65b80b4dfc5254",
+      "format": "JSON"
+    },
+    {
+      "name": "berkshireeagle-2022-08-02T19:18:43.784563-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659482329",
+      "size": "112474",
+      "md5": "c2225ec01af12fc767697ed1bb95261b",
+      "crc32": "2c70751b",
+      "sha1": "62fa330a04bdbffc5e686a7c4e27ac3348141290",
+      "format": "JSON"
+    },
+    {
+      "name": "berkshireeagle-2022-08-02T19:18:43.784563-04:00.jpg",
+      "source": "original",
+      "mtime": "1659482325",
+      "size": "385773",
+      "md5": "6edf3bf16b79c2161bca4927b2a85ae2",
+      "crc32": "288b3329",
+      "sha1": "b95058b78390cfa79e7883f74cf8ff217cb2df9d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "berkshireeagle-2022-08-02T19:18:43.784563-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659482330",
+      "size": "1531",
+      "md5": "c9d79d4a891fe9fe892c1b687ea702cf",
+      "crc32": "4578a08f",
+      "sha1": "0c38a5aa1c07f289fb3922e5a2d42c72f7b53dce",
+      "format": "JSON"
+    },
+    {
       "name": "berkshireeagle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6980fb261ba779f8143642a410f0a03214a05a76",
-      "mtime": "1659442328",
-      "size": "11931",
-      "md5": "940dd8d7b46ef7ac16740df818dd8aa3",
-      "crc32": "aaea7aad",
-      "sha1": "633305811883322af154492c9b912a67ea69dff2",
+      "btih": "d2a690dff50460781f62d38fa32b001977696670",
+      "mtime": "1659482373",
+      "size": "13021",
+      "md5": "2e95c92a6761894a13c6770f991af3f2",
+      "crc32": "937c6398",
+      "sha1": "6b6385a1e8037b6a0ef07a3537a983917b14cd61",
       "format": "Archive BitTorrent"
     },
     {
       "name": "berkshireeagle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f9412a4ae9fd821945dda9b11296d978",
+      "md5": "dd3e457a2e44ed1fe3df2a845c36b26a",
       "summation": "md5"
     },
     {
       "name": "berkshireeagle-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659442293",
-      "size": "73728",
-      "md5": "85b2d903597ab9c9fc1436ddc65aedd5",
-      "crc32": "5b56ab97",
-      "sha1": "aa90508abeeaf0d50159e3779759b250feb83818",
+      "mtime": "1659482338",
+      "size": "77824",
+      "md5": "eb1643636677aa275b71cb3326eb4b11",
+      "crc32": "cf107c8b",
+      "sha1": "ea4cc46bf25a41a0726e13a55e6d466a8637ae42",
       "format": "Metadata"
     },
     {
@@ -543,9 +595,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 52,
-  "item_last_updated": 1659442328,
-  "item_size": 5454889,
+  "files_count": 57,
+  "item_last_updated": 1659482373,
+  "item_size": 6036489,
   "metadata": {
     "identifier": "berkshireeagle-2022",
     "collection": [
@@ -567,7 +619,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350481055,
+      "task_id": 3350895988,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -575,7 +627,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 141629560,
+  "uniq": 333248620,
   "workable_servers": [
     "ia902506.us.archive.org"
   ]

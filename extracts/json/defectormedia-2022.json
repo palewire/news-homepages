@@ -1,5 +1,5 @@
 {
-  "created": 1659442551,
+  "created": 1659482640,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/15/items/defectormedia-2022",
@@ -2725,31 +2725,83 @@
       "format": "JSON"
     },
     {
+      "name": "defectormedia-2022-08-02T08:14:55.160717-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "defectormedia-2022-08-02T08:14:55.160717-04:00.jpg",
+      "mtime": "1659461884",
+      "size": "10138",
+      "md5": "59773da1b4c9fdc6247dacf3935d7b28",
+      "crc32": "5927172d",
+      "sha1": "85207882bdafb9b148a5d271cbcbd42805f329d4"
+    },
+    {
+      "name": "defectormedia-2022-08-02T19:23:07.806846-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659482593",
+      "size": "27223",
+      "md5": "96a7f4119a3300661d247e45500dbccd",
+      "crc32": "5ca00eb8",
+      "sha1": "249019b4fd93741c94d153f0a6fda489d55858fe",
+      "format": "JSON"
+    },
+    {
+      "name": "defectormedia-2022-08-02T19:23:07.806846-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659482595",
+      "size": "18201",
+      "md5": "3aecf7365fce84e24626bf4b95a4482b",
+      "crc32": "e3f7516b",
+      "sha1": "fe4663ee7216fadf7a65dd9727fcb93df7dc5c04",
+      "format": "JSON"
+    },
+    {
+      "name": "defectormedia-2022-08-02T19:23:07.806846-04:00.jpg",
+      "source": "original",
+      "mtime": "1659482591",
+      "size": "224409",
+      "md5": "a01d3bdaeb8d8e0df784b11820078344",
+      "crc32": "44b9fd0f",
+      "sha1": "0ad8497ee62d366ffc6b54f7d661d465e88487a4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "defectormedia-2022-08-02T19:23:07.806846-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659482596",
+      "size": "1440",
+      "md5": "58366e0fdbd55a1a7d163e229ead55b6",
+      "crc32": "d4b8f034",
+      "sha1": "1a50cd2a6faa67892cdd66c63aea2d3691eafe73",
+      "format": "JSON"
+    },
+    {
       "name": "defectormedia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9c858f4e05c22a7e752f516a020a9e63be11ee66",
-      "mtime": "1659442547",
-      "size": "57418",
-      "md5": "9c329b8278a94ea65367e8ad0dfd7288",
-      "crc32": "5c3ffcdf",
-      "sha1": "cdb63d4047c6852faca5f862f1beff882e0400eb",
+      "btih": "d71c3322effdf6c718bfba900d7aee69384bcd7e",
+      "mtime": "1659482637",
+      "size": "58483",
+      "md5": "9f398954670fb8decb30d2b0d8df0439",
+      "crc32": "e1410d0c",
+      "sha1": "81fbd5f494aefef0a636dc168b14fba68f9ef53e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "defectormedia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "50270c842ec71cea32f2a435eba79ff0",
+      "md5": "f8fce7230dcdf750c17feef95f178a00",
       "summation": "md5"
     },
     {
       "name": "defectormedia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659442511",
-      "size": "331776",
-      "md5": "464f241fe200eb101428df2c04cc08c0",
-      "crc32": "ced0ddd4",
-      "sha1": "065a5e12b4ccb24d5ae6fbd0d72a267b5cd2d345",
+      "mtime": "1659482601",
+      "size": "335872",
+      "md5": "f246a014dc19bbf1a4d3051d1cdd3307",
+      "crc32": "2119c3d2",
+      "sha1": "7305f1688ff3d4a0859ec7ec221fa353483c072a",
       "format": "Metadata"
     },
     {
@@ -2763,9 +2815,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 264,
-  "item_last_updated": 1659442547,
-  "item_size": 18089618,
+  "files_count": 269,
+  "item_last_updated": 1659482637,
+  "item_size": 18376190,
   "metadata": {
     "identifier": "defectormedia-2022",
     "collection": [
@@ -2787,7 +2839,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350483365,
+      "task_id": 3350898140,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2795,7 +2847,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1407059807,
+  "uniq": 879346924,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]

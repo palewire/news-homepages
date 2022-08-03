@@ -1,5 +1,46 @@
 {
-  "created": 1659442254,
+  "ashlandornews-2022": [
+    {
+      "url": "https://ashland.news/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ashland_news-_-2022_08_02_22_50_05.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ashland_news-_-2022_08_02_22_50_05.report.json",
+      "summary": {
+        "performance": 0.29,
+        "accessibility": 0.88,
+        "best-practices": 1,
+        "seo": 0.99,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://ashland.news/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ashland_news-_-2022_08_02_22_50_39.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ashland_news-_-2022_08_02_22_50_39.report.json",
+      "summary": {
+        "performance": 0.58,
+        "accessibility": 0.88,
+        "best-practices": 1,
+        "seo": 0.99,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://ashland.news/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ashland_news-_-2022_08_02_22_50_24.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ashland_news-_-2022_08_02_22_50_24.report.json",
+      "summary": {
+        "performance": 0.53,
+        "accessibility": 0.88,
+        "best-practices": 1,
+        "seo": 0.99,
+        "pwa": 0.3
+      }
+    }
+  ],
+  "created": 1659486787,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/1/items/ashlandornews-2022",
@@ -2305,31 +2346,83 @@
       "format": "JSON"
     },
     {
+      "name": "ashlandornews-2022-08-02T05:09:57.384889-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ashlandornews-2022-08-02T05:09:57.384889-07:00.jpg",
+      "mtime": "1659461669",
+      "size": "9497",
+      "md5": "96f20ee68fd819b06fa92ff4c52a05ab",
+      "crc32": "8986311e",
+      "sha1": "5d25c13c8863f9c65f563cc6bed935540a76ecfd"
+    },
+    {
+      "name": "ashlandornews-2022-08-02T16:17:28.609396-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659482252",
+      "size": "23584",
+      "md5": "d87a78079b093512b73d8022746cf67f",
+      "crc32": "b4f704ea",
+      "sha1": "01c17c9d47aadfe3383c1579c7e902cbcfc2690e",
+      "format": "JSON"
+    },
+    {
+      "name": "ashlandornews-2022-08-02T16:17:28.609396-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659482254",
+      "size": "20460",
+      "md5": "9099bd23396875a4610ad49ebc3cad9c",
+      "crc32": "9f13b6da",
+      "sha1": "8432d7c085e5ac9d5ae6f9a101cc4e1c5720ec07",
+      "format": "JSON"
+    },
+    {
+      "name": "ashlandornews-2022-08-02T16:17:28.609396-07:00.jpg",
+      "source": "original",
+      "mtime": "1659482251",
+      "size": "356500",
+      "md5": "1726fc574a3ae9cca0ae9bb8b0f7124a",
+      "crc32": "f459f67f",
+      "sha1": "27a49f4cae8e61cb1ae235eeb5ffed8919a5b152",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ashlandornews-2022-08-02T16:17:28.609396-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659482256",
+      "size": "1432",
+      "md5": "f7e72cfd476796eaad63b55c8bc92ee4",
+      "crc32": "a42e5616",
+      "sha1": "2563db7f004afd285e7d991584c66e6439293749",
+      "format": "JSON"
+    },
+    {
       "name": "ashlandornews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2586ce3fb6ce37495a54a60c2505fbd6b5d20ed6",
-      "mtime": "1659442249",
-      "size": "48973",
-      "md5": "0815393e17750c838db7abe176a139f0",
-      "crc32": "6a6ac5f7",
-      "sha1": "e8d090345cbe2cf963864ce263179364dd0f2653",
+      "btih": "1c9dda25aba102f13f02ad53c0cf5ddf7364b0dc",
+      "mtime": "1659482296",
+      "size": "50057",
+      "md5": "4cce24e8f622a3e8540d3fe6cbacd179",
+      "crc32": "1e976251",
+      "sha1": "5a7a3b31424bc749ac27132f3a0d8435145fc8f7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ashlandornews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3cbf5c1a387d90fe64c597280636def6",
+      "md5": "ac16d193c754d6346502d4dc9f4acaab",
       "summation": "md5"
     },
     {
       "name": "ashlandornews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659442212",
-      "size": "282624",
-      "md5": "67fa2336616023d960f1ed27edda0e25",
-      "crc32": "92fc4c50",
-      "sha1": "262f9be58f06692339887668a4e56da30cd33383",
+      "mtime": "1659482259",
+      "size": "286720",
+      "md5": "fb72f10a5acafe8bf36ec55fa5ad7479",
+      "crc32": "2668baab",
+      "sha1": "26a95ced89a959c1b8732ebee0f4416089faa09c",
       "format": "Metadata"
     },
     {
@@ -2343,9 +2436,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 224,
-  "item_last_updated": 1659442249,
-  "item_size": 20426182,
+  "files_count": 229,
+  "item_last_updated": 1659482296,
+  "item_size": 20842835,
   "metadata": {
     "identifier": "ashlandornews-2022",
     "collection": [
@@ -2367,7 +2460,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350480181,
+      "task_id": 3350895401,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2375,7 +2468,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 293556498,
+  "uniq": 2098260518,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

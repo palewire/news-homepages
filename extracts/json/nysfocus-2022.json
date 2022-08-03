@@ -1,5 +1,5 @@
 {
-  "created": 1659419807,
+  "created": 1659477206,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/35/items/nysfocus-2022",
@@ -2390,31 +2390,83 @@
       "sha1": "e554b81480341e5a8c65d17d00087b7a29b62d79"
     },
     {
+      "name": "nysfocus-2022-08-02T12:14:06.479361-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659456850",
+      "size": "54576",
+      "md5": "1de1b50266195b4bf4d3b019e7e766b7",
+      "crc32": "4f6e0804",
+      "sha1": "0128f166c07010d19a925b0fd0b1551523fab95e",
+      "format": "JSON"
+    },
+    {
+      "name": "nysfocus-2022-08-02T12:14:06.479361-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659456853",
+      "size": "46280",
+      "md5": "2b188a8ce5e5f65120606664540ec663",
+      "crc32": "9b0c99b2",
+      "sha1": "c7c232417e7d0e8b7543cf3adae5639ddbf89b68",
+      "format": "JSON"
+    },
+    {
+      "name": "nysfocus-2022-08-02T12:14:06.479361-04:00.jpg",
+      "source": "original",
+      "mtime": "1659456848",
+      "size": "241684",
+      "md5": "d4e291c3e7556f2cfc4ea84cd9c3e68b",
+      "crc32": "bdc316fe",
+      "sha1": "461e2f8b2a806281e2e5b7c671a69da2b03c8253",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nysfocus-2022-08-02T12:14:06.479361-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659456856",
+      "size": "1477",
+      "md5": "364f933318035f2ca830b5754d1c00a5",
+      "crc32": "1c95fdd6",
+      "sha1": "010b7d02ade1c8a67dce87420627b6ddfd0f232e",
+      "format": "JSON"
+    },
+    {
+      "name": "nysfocus-2022-08-02T12:14:06.479361-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nysfocus-2022-08-02T12:14:06.479361-04:00.jpg",
+      "mtime": "1659477170",
+      "size": "9289",
+      "md5": "83d4ef06988c0fd997265fb95776b332",
+      "crc32": "37c889c1",
+      "sha1": "e554b81480341e5a8c65d17d00087b7a29b62d79"
+    },
+    {
       "name": "nysfocus-2022_archive.torrent",
       "source": "metadata",
-      "btih": "abbfe74b4dccd44090ea1aac56c7e8ad253650c3",
-      "mtime": "1659419618",
-      "size": "49446",
-      "md5": "80f109500773b9f1fc08a03929e45bcb",
-      "crc32": "bf9fdbec",
-      "sha1": "c918a200b57227019d1f43f332e240e2e5a4fb09",
+      "btih": "fe6a1d55e31bd3dcbe59dd3ff5d0d9a997a2957e",
+      "mtime": "1659477177",
+      "size": "50485",
+      "md5": "3c2261e33927eaad64dfabf3abd61747",
+      "crc32": "ff9b6207",
+      "sha1": "1ad6257ee1e72c50903286ea83d7268c9dec996f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nysfocus-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6b4229a3003c9aebc36ab15e1fbb0fe8",
+      "md5": "042f7f76d78ba629981e89e4b5edd86f",
       "summation": "md5"
     },
     {
       "name": "nysfocus-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659414111",
-      "size": "290816",
-      "md5": "0fce36eb064fd5aa741908617f0e2e2b",
-      "crc32": "4777d76e",
-      "sha1": "684303c2d88921ce46d492cc88a48c56f6fbd741",
+      "mtime": "1659456860",
+      "size": "294912",
+      "md5": "339c8f5cec3fb917eda2b627e9c315d0",
+      "crc32": "f32769d1",
+      "sha1": "db9b5bec2eaa2e1113f52d12f27ecf197530c80f",
       "format": "Metadata"
     },
     {
@@ -2428,9 +2480,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 232,
-  "item_last_updated": 1659419618,
-  "item_size": 18983390,
+  "files_count": 237,
+  "item_last_updated": 1659477177,
+  "item_size": 19341831,
   "metadata": {
     "identifier": "nysfocus-2022",
     "collection": [
@@ -2447,10 +2499,10 @@
     "publicdate": "2022-07-09 04:00:54",
     "addeddate": "2022-07-09 04:00:54"
   },
-  "server": "ia902503.us.archive.org",
-  "uniq": 842772131,
+  "server": "ia802503.us.archive.org",
+  "uniq": 23005236,
   "workable_servers": [
-    "ia902503.us.archive.org",
-    "ia802503.us.archive.org"
+    "ia802503.us.archive.org",
+    "ia902503.us.archive.org"
   ]
 }

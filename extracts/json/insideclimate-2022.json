@@ -1,5 +1,5 @@
 {
-  "created": 1659443651,
+  "created": 1659471863,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/6/items/insideclimate-2022",
@@ -2212,31 +2212,83 @@
       "sha1": "e2d07b3f526359b8ced04eeadf7a586f73f9d537"
     },
     {
+      "name": "insideclimate-2022-08-02T10:55:01.626727-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659452105",
+      "size": "23819",
+      "md5": "ad4304249761e70addfbafee5e64ee30",
+      "crc32": "e67a55de",
+      "sha1": "67360a781346471438c46a9762da85dbf3a96150",
+      "format": "JSON"
+    },
+    {
+      "name": "insideclimate-2022-08-02T10:55:01.626727-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659452107",
+      "size": "26048",
+      "md5": "c33f0ffa4fadcb0fe37cb382a849da7f",
+      "crc32": "f8599bd7",
+      "sha1": "19feda0307d3a6d522c3cefd5df13a65d9020c84",
+      "format": "JSON"
+    },
+    {
+      "name": "insideclimate-2022-08-02T10:55:01.626727-04:00.jpg",
+      "source": "original",
+      "mtime": "1659452103",
+      "size": "330478",
+      "md5": "7f98e9d12e12befa747e6b880ecf4b0d",
+      "crc32": "69625710",
+      "sha1": "9796dc2b638a9fd23d828184109fe705d1c8e576",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "insideclimate-2022-08-02T10:55:01.626727-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659452108",
+      "size": "1513",
+      "md5": "526af52cc4755da3f4c22e00be6a9433",
+      "crc32": "0f38b706",
+      "sha1": "69951a2f82fca317d6bd968b9ff3dcd9df542222",
+      "format": "JSON"
+    },
+    {
+      "name": "insideclimate-2022-08-02T10:55:01.626727-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "insideclimate-2022-08-02T10:55:01.626727-04:00.jpg",
+      "mtime": "1659471832",
+      "size": "9738",
+      "md5": "b667405cc308271eb15cf8e45183b6f4",
+      "crc32": "f80ec606",
+      "sha1": "7596d9fecd7ec9e2d3cea5dbf0a9dd3264a066fb"
+    },
+    {
       "name": "insideclimate-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1657cdb7ff6a12b9b463a6f373ffce1986325cba",
-      "mtime": "1659413156",
-      "size": "47003",
-      "md5": "0756b0c9caa63f10c440a3e14d4bb7ee",
-      "crc32": "9a52f986",
-      "sha1": "12edf45d604fa1092079a52e14423897cbf3bfeb",
+      "btih": "29681b2916ca13148a728b21ac9bcf6729c85dca",
+      "mtime": "1659471837",
+      "size": "48087",
+      "md5": "520172a9357726f30b0075ebe83b71cc",
+      "crc32": "71df098c",
+      "sha1": "444abd3636dd885b932c84b994f3960a9afbcc14",
       "format": "Archive BitTorrent"
     },
     {
       "name": "insideclimate-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "28cfe5c642bfc8b910198bc6d9ca50a2",
+      "md5": "432cc05415892dd839e8d85b20d74474",
       "summation": "md5"
     },
     {
       "name": "insideclimate-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659410302",
-      "size": "270336",
-      "md5": "373d923b8f2171ad38e7d0ed5bcb6d5a",
-      "crc32": "3d9e72b6",
-      "sha1": "b5f3598d473460428f94ffe41c851faf36634fbc",
+      "mtime": "1659452112",
+      "size": "278528",
+      "md5": "516317e7b0a25ea3e08a5a30bdbe77bc",
+      "crc32": "ca9b66e9",
+      "sha1": "492808b4eb204f6d49ff099fb933cd6ef0cb0be8",
       "format": "Metadata"
     },
     {
@@ -2250,50 +2302,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 215,
-  "insideclimate-2022": [
-    {
-      "url": "https://insideclimatenews.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/insideclimatenews_org-_-2022_08_02_02_53_26.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/insideclimatenews_org-_-2022_08_02_02_53_26.report.json",
-      "summary": {
-        "performance": 1,
-        "accessibility": 0.96,
-        "best-practices": 1,
-        "seo": 0.84,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://insideclimatenews.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/insideclimatenews_org-_-2022_08_02_02_53_47.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/insideclimatenews_org-_-2022_08_02_02_53_47.report.json",
-      "summary": {
-        "performance": 1,
-        "accessibility": 0.96,
-        "best-practices": 1,
-        "seo": 0.84,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://insideclimatenews.org/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/insideclimatenews_org-_-2022_08_02_02_53_36.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/insideclimatenews_org-_-2022_08_02_02_53_36.report.json",
-      "summary": {
-        "performance": 1,
-        "accessibility": 0.96,
-        "best-practices": 1,
-        "seo": 0.84,
-        "pwa": 0.4
-      }
-    }
-  ],
-  "item_last_updated": 1659413156,
-  "item_size": 18858228,
+  "files_count": 220,
+  "item_last_updated": 1659471837,
+  "item_size": 19259100,
   "metadata": {
     "identifier": "insideclimate-2022",
     "collection": [
@@ -2310,10 +2321,10 @@
     "publicdate": "2022-07-09 03:59:45",
     "addeddate": "2022-07-09 03:59:45"
   },
-  "server": "ia801504.us.archive.org",
-  "uniq": 1375230325,
+  "server": "ia601504.us.archive.org",
+  "uniq": 1941111242,
   "workable_servers": [
-    "ia801504.us.archive.org",
-    "ia601504.us.archive.org"
+    "ia601504.us.archive.org",
+    "ia801504.us.archive.org"
   ]
 }

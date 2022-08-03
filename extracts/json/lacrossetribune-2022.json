@@ -1,5 +1,5 @@
 {
-  "created": 1659443006,
+  "created": 1659487057,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/31/items/lacrossetribune-2022",
@@ -8227,31 +8227,83 @@
       "format": "JSON"
     },
     {
+      "name": "lacrossetribune-2022-08-02T07:22:20.323154-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lacrossetribune-2022-08-02T07:22:20.323154-05:00.jpg",
+      "mtime": "1659462230",
+      "size": "12247",
+      "md5": "e87036bdbf5ae2da443f3d3275fc9e35",
+      "crc32": "80709a5b",
+      "sha1": "678b08def83893e8d0241faed6632d4f52fe88c5"
+    },
+    {
+      "name": "lacrossetribune-2022-08-02T19:36:37.647323-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659487006",
+      "size": "27299",
+      "md5": "690e0e6b7db75962e3e446d86b1d17dc",
+      "crc32": "e083f005",
+      "sha1": "7909d95851aa9f956d876c81663c5ae56c439a80",
+      "format": "JSON"
+    },
+    {
+      "name": "lacrossetribune-2022-08-02T19:36:37.647323-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659487007",
+      "size": "83656",
+      "md5": "9f0c4423f60131bb475f1a26349933b4",
+      "crc32": "0fae19a6",
+      "sha1": "1ffbe6ebcca0a7c1ecf8644859778249c371a63a",
+      "format": "JSON"
+    },
+    {
+      "name": "lacrossetribune-2022-08-02T19:36:37.647323-05:00.jpg",
+      "source": "original",
+      "mtime": "1659487002",
+      "size": "300048",
+      "md5": "768cfc6cfbc5468f7c19ce8f3b23da96",
+      "crc32": "40159c0c",
+      "sha1": "9d0cb8b279857cd9731e901780d0b54742f6ee6e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lacrossetribune-2022-08-02T19:36:37.647323-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659487009",
+      "size": "1504",
+      "md5": "b086857bfdf2714488b34b44bc1b29b4",
+      "crc32": "e941a8f9",
+      "sha1": "865d7dc8a5c3c00927950f49523bdcadf80a2cca",
+      "format": "JSON"
+    },
+    {
       "name": "lacrossetribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d5e696495941b61a02c68611963f881651b0ce8f",
-      "mtime": "1659443001",
-      "size": "172594",
-      "md5": "d69f8c5a01d49739a572dc5de06aadc6",
-      "crc32": "6e20699c",
-      "sha1": "f31ca077c20c4317311e49cd18ad6db997241351",
+      "btih": "ee2aacadc268a3900dd355abd2570d8567a9b7e9",
+      "mtime": "1659487053",
+      "size": "173689",
+      "md5": "01bc7f77e6dad3151c69020017f7dfdd",
+      "crc32": "5f4c1e85",
+      "sha1": "f954b10846b6fc56c502d457c1de70ccd405b318",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lacrossetribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c056d559a1ef729d85aa661d5d3b510f",
+      "md5": "db0d121427c1e7d916154cadc373f669",
       "summation": "md5"
     },
     {
       "name": "lacrossetribune-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659442958",
-      "size": "921600",
-      "md5": "3cad35bca0fc935a91c03e3c8b7df53a",
-      "crc32": "f40c4d57",
-      "sha1": "c213d7be706edb0f25cd41b8e6edc4c4b4295e9a",
+      "mtime": "1659487013",
+      "size": "925696",
+      "md5": "bd1842fba505a3b2cbf5da71b51801c6",
+      "crc32": "7740abca",
+      "sha1": "090ad13fadddbc8d92fe60a97c7bfd50a4746ffb",
       "format": "Metadata"
     },
     {
@@ -8265,9 +8317,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 787,
-  "item_last_updated": 1659443001,
-  "item_size": 84990030,
+  "files_count": 792,
+  "item_last_updated": 1659487053,
+  "item_size": 85419975,
   "metadata": {
     "identifier": "lacrossetribune-2022",
     "collection": [
@@ -8289,7 +8341,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350487242,
+      "task_id": 3350940547,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -8297,7 +8349,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2125576187,
+  "uniq": 1664229435,
   "workable_servers": [
     "ia902508.us.archive.org"
   ]

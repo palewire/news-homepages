@@ -1,5 +1,5 @@
 {
-  "created": 1659442704,
+  "created": 1659482787,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/25/items/el_universal_mx-2022",
@@ -20029,31 +20029,83 @@
       "format": "JSON"
     },
     {
+      "name": "el_universal_mx-2022-08-02T07:15:48.036067-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "el_universal_mx-2022-08-02T07:15:48.036067-05:00.jpg",
+      "mtime": "1659462253",
+      "size": "10158",
+      "md5": "f1f1b278ea35562c60bfa28335469eb7",
+      "crc32": "b36ab9ee",
+      "sha1": "999eb1bf2d1c7d19cd86f36e9d514e47a76544be"
+    },
+    {
+      "name": "el_universal_mx-2022-08-02T18:24:12.846556-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659482663",
+      "size": "53059",
+      "md5": "6bfdd320023db57fcfe0e6de85d8d680",
+      "crc32": "5e6038e6",
+      "sha1": "85890a725f331d110af0acaa35bf3830663601e5",
+      "format": "JSON"
+    },
+    {
+      "name": "el_universal_mx-2022-08-02T18:24:12.846556-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659482665",
+      "size": "60317",
+      "md5": "bccf9957e846f19d7f252f8067dfaeff",
+      "crc32": "631fd30f",
+      "sha1": "4e0ff4ceaaca98d8f88204fe96d5fe288cf9032f",
+      "format": "JSON"
+    },
+    {
+      "name": "el_universal_mx-2022-08-02T18:24:12.846556-05:00.jpg",
+      "source": "original",
+      "mtime": "1659482661",
+      "size": "303116",
+      "md5": "fd0fa74d2893cbf1c98eafc6c530a0de",
+      "crc32": "73450018",
+      "sha1": "b7856bc6bc06d667fdad20e35b1416925c50820b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "el_universal_mx-2022-08-02T18:24:12.846556-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659482667",
+      "size": "1580",
+      "md5": "a626776a303d07c29ee3d1f1b93a9d4e",
+      "crc32": "d4badeaa",
+      "sha1": "14abefbddf9d4d57bad48044dbf359448d9836a2",
+      "format": "JSON"
+    },
+    {
       "name": "el_universal_mx-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f4a7625a0d50a42a600dfe2a8c4a674ee7178466",
-      "mtime": "1659442699",
-      "size": "418325",
-      "md5": "55d2aceb43e433e35e677a0c12e7f8e9",
-      "crc32": "457b4dce",
-      "sha1": "ba8b24e4e8091eba92ec33546d838fadfa1bf158",
+      "btih": "185c0104553b981862cd43869e4d393380c4eae5",
+      "mtime": "1659482781",
+      "size": "419420",
+      "md5": "97608f1de23cde066de4a974438f4314",
+      "crc32": "14096916",
+      "sha1": "18d82861e7ecd60351f7a2c7783a924e6a8929e8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "el_universal_mx-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c7118fb9b8085948af117dc2c437b066",
+      "md5": "f0df0eb9be70e9c18352045e2d52b308",
       "summation": "md5"
     },
     {
       "name": "el_universal_mx-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659442597",
-      "size": "2220032",
-      "md5": "c2794d83cbaf9978f1b97cbd6941fb86",
-      "crc32": "764f11c4",
-      "sha1": "a7110ab0c4681970198049682d994f64419671b2",
+      "mtime": "1659482688",
+      "size": "2224128",
+      "md5": "51f0709e4634e9f0b211d23a1b151769",
+      "crc32": "5d055703",
+      "sha1": "0ce25451e4df5824e46d0adadfadbe374b6a0c64",
       "format": "Metadata"
     },
     {
@@ -20067,9 +20119,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1912,
-  "item_last_updated": 1659442699,
-  "item_size": 200563908,
+  "files_count": 1917,
+  "item_last_updated": 1659482781,
+  "item_size": 200997329,
   "metadata": {
     "identifier": "el_universal_mx-2022",
     "collection": [
@@ -20091,7 +20143,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350484555,
+      "task_id": 3350899418,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -20099,7 +20151,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1206756118,
+  "uniq": 1109740174,
   "workable_servers": [
     "ia902507.us.archive.org"
   ]

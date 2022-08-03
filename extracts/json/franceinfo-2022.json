@@ -1,5 +1,5 @@
 {
-  "created": 1659428044,
+  "created": 1659487104,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/10/items/franceinfo-2022",
@@ -9987,31 +9987,94 @@
       "format": "JSON"
     },
     {
+      "name": "franceinfo-2022-08-02T10:12:16.909653+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "franceinfo-2022-08-02T10:12:16.909653+02:00.jpg",
+      "mtime": "1659450869",
+      "size": "11071",
+      "md5": "76e280a57bf0f7a3d856d2c239b0d8b3",
+      "crc32": "3b53c68f",
+      "sha1": "dfa03e937c0057b4e0d5ffbf63d6b7fccbd82470"
+    },
+    {
+      "name": "franceinfo-2022-08-02T16:52:52.346327+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659451976",
+      "size": "90918",
+      "md5": "2c20945ac908d93611ff18b5c9bf9b3f",
+      "crc32": "ca0591c0",
+      "sha1": "330399ab0713ecb1b88cc1a0e2e9f5117221c005",
+      "format": "JSON"
+    },
+    {
+      "name": "franceinfo-2022-08-02T16:52:52.346327+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659451977",
+      "size": "134430",
+      "md5": "bf3b0182456ce681dfdfee2048bb176c",
+      "crc32": "25e9c980",
+      "sha1": "a2d4e97a1349364a8f90f4d4554fe36205314f06",
+      "format": "JSON"
+    },
+    {
+      "name": "franceinfo-2022-08-02T16:52:52.346327+02:00.jpg",
+      "source": "original",
+      "mtime": "1659451974",
+      "size": "343396",
+      "md5": "816081c5fa683c783eca21fa409efe48",
+      "crc32": "391ac1aa",
+      "sha1": "db682a6cc8491176c0d3d399279818f9c060ee85",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "franceinfo-2022-08-02T16:52:52.346327+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659451979",
+      "size": "1531",
+      "md5": "544e6bf62007bdc47fb0dc3da5b19ff0",
+      "crc32": "570851cd",
+      "sha1": "7e8183fff985d7a8983d82af8f4f3d6c21b5aff0",
+      "format": "JSON"
+    },
+    {
+      "name": "franceinfo-2022-08-02T16:52:52.346327+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "franceinfo-2022-08-02T16:52:52.346327+02:00.jpg",
+      "mtime": "1659471826",
+      "size": "9899",
+      "md5": "80b2a123ae985a0430e093a8ee0e8357",
+      "crc32": "d94aeda1",
+      "sha1": "1446146a6135cb1750e889ceb27fb95f60227437"
+    },
+    {
       "name": "franceinfo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7a7635068b68621b31fa16104f143bf8dc7a0372",
-      "mtime": "1659428040",
-      "size": "206259",
-      "md5": "8faa4948ef539c390e83032b201e7af9",
-      "crc32": "4f0a4d79",
-      "sha1": "d22d3dc9911d7ba689475d67f1ded5c6c44aff27",
+      "btih": "add0e0fb8640be3d9e0e44fde082f0b6f4f76c9f",
+      "mtime": "1659471996",
+      "size": "207536",
+      "md5": "641410b37f96cd9899a945c59011181e",
+      "crc32": "dbbff3f4",
+      "sha1": "50593e3f7ab3167bd3113bab3997569a710e3501",
       "format": "Archive BitTorrent"
     },
     {
       "name": "franceinfo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "124bc52ef36da805845f0ff804818920",
+      "md5": "f676b36143c651486df1310da5dac060",
       "summation": "md5"
     },
     {
       "name": "franceinfo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659427977",
-      "size": "1122304",
-      "md5": "6e1f9676d6ff1daeac4ee165bc0dfa6b",
-      "crc32": "392cf21f",
-      "sha1": "9d4afdf501cde150f0e93790483a6da1f682aad2",
+      "mtime": "1659451995",
+      "size": "1126400",
+      "md5": "ff652c977f5c053261dd11f5b04a31d2",
+      "crc32": "3f465218",
+      "sha1": "e9731927cc066edbc1dbbab8f4c6a3622aaa5b96",
       "format": "Metadata"
     },
     {
@@ -10025,9 +10088,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 956,
-  "item_last_updated": 1659428040,
-  "item_size": 131967388,
+  "files_count": 962,
+  "franceinfo-2022": [
+    {
+      "url": "https://mobile.francetvinfo.fr/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/mobile_francetvinfo_fr-_-2022_08_02_14_28_36.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/mobile_francetvinfo_fr-_-2022_08_02_14_28_36.report.json",
+      "summary": {
+        "performance": 0.46,
+        "accessibility": 0.85,
+        "best-practices": 0.83,
+        "seo": 0.92,
+        "pwa": 0.9
+      }
+    },
+    {
+      "url": "https://mobile.francetvinfo.fr/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/mobile_francetvinfo_fr-_-2022_08_02_14_28_52.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/mobile_francetvinfo_fr-_-2022_08_02_14_28_52.report.json",
+      "summary": {
+        "performance": 0.39,
+        "accessibility": 0.85,
+        "best-practices": 0.83,
+        "seo": 0.92,
+        "pwa": 0.9
+      }
+    },
+    {
+      "url": "https://mobile.francetvinfo.fr/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/mobile_francetvinfo_fr-_-2022_08_02_14_28_19.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/mobile_francetvinfo_fr-_-2022_08_02_14_28_19.report.json",
+      "summary": {
+        "performance": 0.44,
+        "accessibility": 0.85,
+        "best-practices": 0.83,
+        "seo": 0.92,
+        "pwa": 0.9
+      }
+    }
+  ],
+  "item_last_updated": 1659471996,
+  "item_size": 132564006,
   "metadata": {
     "identifier": "franceinfo-2022",
     "collection": [
@@ -10044,21 +10148,10 @@
     "publicdate": "2022-04-09 13:42:09",
     "addeddate": "2022-04-09 13:42:09"
   },
-  "pending_tasks": true,
-  "server": "ia902504.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3350334697,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 534194593,
+  "server": "ia802504.us.archive.org",
+  "uniq": 659605635,
   "workable_servers": [
+    "ia802504.us.archive.org",
     "ia902504.us.archive.org"
   ]
 }

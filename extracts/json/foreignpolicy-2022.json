@@ -1,5 +1,5 @@
 {
-  "created": 1659442667,
+  "created": 1659487073,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/22/items/foreignpolicy-2022",
@@ -4985,31 +4985,83 @@
       "format": "JSON"
     },
     {
+      "name": "foreignpolicy-2022-08-02T08:16:47.726589-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foreignpolicy-2022-08-02T08:16:47.726589-04:00.jpg",
+      "mtime": "1659461916",
+      "size": "10432",
+      "md5": "41905f10965cac06aaa5a4abb2a685c8",
+      "crc32": "27b390ac",
+      "sha1": "ec63708f88cd9733210dc53158eb19eba2f326a1"
+    },
+    {
+      "name": "foreignpolicy-2022-08-02T19:25:09.327002-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659482717",
+      "size": "57366",
+      "md5": "ebcf4a13b9771d73adb02c930d1bdeeb",
+      "crc32": "818458f3",
+      "sha1": "507e6da0127276d1e515790521df546cfae36107",
+      "format": "JSON"
+    },
+    {
+      "name": "foreignpolicy-2022-08-02T19:25:09.327002-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659482719",
+      "size": "42081",
+      "md5": "d4fcc3f23e0a8395f6903c778ac51ee2",
+      "crc32": "09496869",
+      "sha1": "8a1492d5bb44f095ccffdb19217dc29f23bd59e0",
+      "format": "JSON"
+    },
+    {
+      "name": "foreignpolicy-2022-08-02T19:25:09.327002-04:00.jpg",
+      "source": "original",
+      "mtime": "1659482716",
+      "size": "399704",
+      "md5": "ebb48c04d89e669293c432781e91d97e",
+      "crc32": "3fffd34b",
+      "sha1": "1711b80bda861eea46ae81858c480b71de9037b0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foreignpolicy-2022-08-02T19:25:09.327002-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659482724",
+      "size": "1486",
+      "md5": "66e236c6c55d6da740d78910973d9752",
+      "crc32": "0358bf7f",
+      "sha1": "af9ae09f4e54388978e502846d4482ec241461d6",
+      "format": "JSON"
+    },
+    {
       "name": "foreignpolicy-2022_archive.torrent",
       "source": "metadata",
-      "btih": "930d117a737e23f6ad1ff270fc75f95d663fd950",
-      "mtime": "1659442661",
-      "size": "104446",
-      "md5": "12b97ce4d123cc0177b442afd4f342a4",
-      "crc32": "d48d7903",
-      "sha1": "008b36fc854d073da770d6dbac33bc7a97111cde",
+      "btih": "f53c19819de1140b538f5f20ab6de3bffaf75295",
+      "mtime": "1659482766",
+      "size": "105531",
+      "md5": "a471bf4c498936278054d69ada74a6f3",
+      "crc32": "ea70714e",
+      "sha1": "35fe13d69978c0a187c1d445197c0e05875fce2e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "foreignpolicy-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "33fa4e2a6561033531694319e3fd15ce",
+      "md5": "4937aa85729e5cf941b4685bd89f67e8",
       "summation": "md5"
     },
     {
       "name": "foreignpolicy-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659442623",
-      "size": "573440",
-      "md5": "5966984a78d94241326cd58daa5de763",
-      "crc32": "5fce747e",
-      "sha1": "0e902860ba60df1009569c784179531d75a06d17",
+      "mtime": "1659482727",
+      "size": "581632",
+      "md5": "919159862ce75247219b6a7c0a58cd4d",
+      "crc32": "1e0b8ca2",
+      "sha1": "3215f330e4e98d7ffb98506d851b53b268614601",
       "format": "Metadata"
     },
     {
@@ -5023,9 +5075,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 479,
-  "item_last_updated": 1659442661,
-  "item_size": 53079007,
+  "files_count": 484,
+  "foreignpolicy-2022": [
+    {
+      "url": "https://foreignpolicy.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/foreignpolicy_com-_-2022_08_02_23_01_47.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/foreignpolicy_com-_-2022_08_02_23_01_47.report.json",
+      "summary": {
+        "performance": 0.17,
+        "accessibility": 0.93,
+        "best-practices": 0.75,
+        "seo": 0.83,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://foreignpolicy.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/foreignpolicy_com-_-2022_08_02_23_02_17.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/foreignpolicy_com-_-2022_08_02_23_02_17.report.json",
+      "summary": {
+        "performance": 0.25,
+        "accessibility": 0.93,
+        "best-practices": 0.75,
+        "seo": 0.83,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://foreignpolicy.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/foreignpolicy_com-_-2022_08_02_23_02_41.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/foreignpolicy_com-_-2022_08_02_23_02_41.report.json",
+      "summary": {
+        "performance": 0.24,
+        "accessibility": 0.93,
+        "best-practices": 0.75,
+        "seo": 0.83,
+        "pwa": 0.4
+      }
+    }
+  ],
+  "item_last_updated": 1659482766,
+  "item_size": 53599353,
   "metadata": {
     "identifier": "foreignpolicy-2022",
     "collection": [
@@ -5047,7 +5140,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350484312,
+      "task_id": 3350899232,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -5055,7 +5148,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 771329104,
+  "uniq": 751270345,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

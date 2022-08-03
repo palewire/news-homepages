@@ -1,46 +1,5 @@
 {
-  "arknewsorg-2022": [
-    {
-      "url": "https://arknews.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/arknews_org-_-2022_08_02_10_50_23.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/arknews_org-_-2022_08_02_10_50_23.report.json",
-      "summary": {
-        "performance": 0.7,
-        "accessibility": 0.89,
-        "best-practices": 0.92,
-        "seo": 0.91,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://arknews.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/arknews_org-_-2022_08_02_10_50_37.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/arknews_org-_-2022_08_02_10_50_37.report.json",
-      "summary": {
-        "performance": 0.71,
-        "accessibility": 0.89,
-        "best-practices": 0.92,
-        "seo": 0.91,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://arknews.org/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/arknews_org-_-2022_08_02_10_50_09.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/arknews_org-_-2022_08_02_10_50_09.report.json",
-      "summary": {
-        "performance": 0.68,
-        "accessibility": 0.89,
-        "best-practices": 0.92,
-        "seo": 0.91,
-        "pwa": 0.4
-      }
-    }
-  ],
-  "created": 1659443398,
+  "created": 1659482338,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/28/items/arknewsorg-2022",
@@ -2346,31 +2305,83 @@
       "format": "JSON"
     },
     {
+      "name": "arknewsorg-2022-08-02T07:10:06.914237-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "arknewsorg-2022-08-02T07:10:06.914237-05:00.jpg",
+      "mtime": "1659461645",
+      "size": "9848",
+      "md5": "f2525fb891767cb5a5dbc176e80482ba",
+      "crc32": "b0ffa60b",
+      "sha1": "d9f7026156a4249fce937eac93e3d58257771ec6"
+    },
+    {
+      "name": "arknewsorg-2022-08-02T18:18:10.318467-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659482294",
+      "size": "15526",
+      "md5": "678b846ff08f976d56b5d76c722a7437",
+      "crc32": "23d8a0cf",
+      "sha1": "e76153223421ea4ace9ad6f3273b529830bb424d",
+      "format": "JSON"
+    },
+    {
+      "name": "arknewsorg-2022-08-02T18:18:10.318467-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659482295",
+      "size": "11170",
+      "md5": "34f8b62450f961d0973cb0c09a3faaae",
+      "crc32": "9d7df122",
+      "sha1": "8beead838fa0006f98de9afe11c7edc3d7e28dac",
+      "format": "JSON"
+    },
+    {
+      "name": "arknewsorg-2022-08-02T18:18:10.318467-05:00.jpg",
+      "source": "original",
+      "mtime": "1659482292",
+      "size": "253424",
+      "md5": "4bb6111978ff2d66b1cf280e76ac8bb3",
+      "crc32": "91b3778a",
+      "sha1": "0d69867ab6520992b6b5d2c85755353303ab44cf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "arknewsorg-2022-08-02T18:18:10.318467-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659482296",
+      "size": "1432",
+      "md5": "0d4263fd41819d3a665462dace2202bb",
+      "crc32": "90912e55",
+      "sha1": "ad8fd69b4b51f612b393b3ddd87d4f28f67cbe36",
+      "format": "JSON"
+    },
+    {
       "name": "arknewsorg-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d147155f2ad056708f49ecc9e60263bd256f6e4d",
-      "mtime": "1659442256",
-      "size": "48090",
-      "md5": "5d81843870fb698937e6dcbdb540d021",
-      "crc32": "ef5f69b5",
-      "sha1": "dd7c02d35fd50169e3cb212334c420be39360118",
+      "btih": "098401423d58fb19d602b4c8a8158e133a72f977",
+      "mtime": "1659482334",
+      "size": "49139",
+      "md5": "9e362a6b1cb793ffbc68279a83a768fa",
+      "crc32": "f7e3eebb",
+      "sha1": "693da0dedf098114d046739c8f6a3e4090dee73c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "arknewsorg-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8308bbcdf411a405fc312b0c2e494990",
+      "md5": "045b3348906028ee46cef2a542e29aaa",
       "summation": "md5"
     },
     {
       "name": "arknewsorg-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659442220",
-      "size": "282624",
-      "md5": "df941f5e86caf4324a4f3a29b68ad4df",
-      "crc32": "bd9c6a83",
-      "sha1": "96f93804734fc8f8d3213b837178e69251cb2560",
+      "mtime": "1659482299",
+      "size": "286720",
+      "md5": "38905da15a588276a23fa37b0ea45d97",
+      "crc32": "9c1e4d23",
+      "sha1": "1520fc76c5b3a147aa2b6ff664f3d114c3c6e070",
       "format": "Metadata"
     },
     {
@@ -2384,9 +2395,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 224,
-  "item_last_updated": 1659442256,
-  "item_size": 14869454,
+  "files_count": 229,
+  "item_last_updated": 1659482334,
+  "item_size": 15165999,
   "metadata": {
     "identifier": "arknewsorg-2022",
     "collection": [
@@ -2408,7 +2419,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350480251,
+      "task_id": 3350895702,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2416,7 +2427,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2091057801,
+  "uniq": 506081776,
   "workable_servers": [
     "ia601507.us.archive.org"
   ]

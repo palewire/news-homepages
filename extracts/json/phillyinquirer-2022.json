@@ -1,5 +1,5 @@
 {
-  "created": 1659443293,
+  "created": 1659487355,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/22/items/phillyinquirer-2022",
@@ -2979,31 +2979,83 @@
       "format": "JSON"
     },
     {
+      "name": "phillyinquirer-2022-08-02T08:27:22.903103-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "phillyinquirer-2022-08-02T08:27:22.903103-04:00.jpg",
+      "mtime": "1659462963",
+      "size": "10029",
+      "md5": "6020feef9f451b50b3f3d1440f7a1194",
+      "crc32": "76c28a58",
+      "sha1": "fe66b4402bffedf1e5e72172bafe30707b48d563"
+    },
+    {
+      "name": "phillyinquirer-2022-08-02T20:41:46.387995-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659487309",
+      "size": "21300",
+      "md5": "4bfdac182b6226ceffb904aaee305c7f",
+      "crc32": "205cf989",
+      "sha1": "da6f8c3b7ff32d0d0f9ff5099573b58c65ee96c4",
+      "format": "JSON"
+    },
+    {
+      "name": "phillyinquirer-2022-08-02T20:41:46.387995-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659487310",
+      "size": "15153",
+      "md5": "3b75a36628c9b03e7cb72748607ebe6f",
+      "crc32": "7358679c",
+      "sha1": "fff8d3a94ee66af6d5e83d72474dc170738c5451",
+      "format": "JSON"
+    },
+    {
+      "name": "phillyinquirer-2022-08-02T20:41:46.387995-04:00.jpg",
+      "source": "original",
+      "mtime": "1659487307",
+      "size": "327324",
+      "md5": "d854845c5a32bf8b17134529be531d66",
+      "crc32": "75bb3e63",
+      "sha1": "4dc98be2f9806cb560727ffdd03b3e36d7e9970c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "phillyinquirer-2022-08-02T20:41:46.387995-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659487312",
+      "size": "1477",
+      "md5": "ad89636fba20afdc985edec3b22483ac",
+      "crc32": "02c8a0f6",
+      "sha1": "ef5e92c5cd749c1e7e94b4ea827ac2dd9b59905f",
+      "format": "JSON"
+    },
+    {
       "name": "phillyinquirer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f6455f8b850142952753377921bedbdc9bef7421",
-      "mtime": "1659443290",
-      "size": "63048",
-      "md5": "3dc3cc38e9e4eea8478e698c0aaf178a",
-      "crc32": "107f1f82",
-      "sha1": "fb033d0089d4836039d986c9016daf58bfad2513",
+      "btih": "45ff22e84deabaa54f3d927f072b00e6f4d853cf",
+      "mtime": "1659487352",
+      "size": "64139",
+      "md5": "c20fcbbae2d59726fda916547c626c0a",
+      "crc32": "22fd9f0e",
+      "sha1": "e135f1f2359c84bd69cde1c8244200e89f30415c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "phillyinquirer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3319245cc62850d75599e08a09d24274",
+      "md5": "756433b80431cb02842da5b1601cc3d8",
       "summation": "md5"
     },
     {
       "name": "phillyinquirer-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659443253",
-      "size": "356352",
-      "md5": "f53c44585f6438afc8124d14ad6883f3",
-      "crc32": "82ebc9eb",
-      "sha1": "c56978b4cc76a7794d442f10182615aa10dae7ca",
+      "mtime": "1659487316",
+      "size": "360448",
+      "md5": "ddb633ce7cd5ae3b9d56d95a1dda5246",
+      "crc32": "2827768d",
+      "sha1": "001d90c0caa81fa2c62bbeeb0b486e8b5201ae3e",
       "format": "Metadata"
     },
     {
@@ -3017,9 +3069,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 288,
-  "item_last_updated": 1659443290,
-  "item_size": 25471851,
+  "files_count": 293,
+  "item_last_updated": 1659487352,
+  "item_size": 25852321,
   "metadata": {
     "identifier": "phillyinquirer-2022",
     "collection": [
@@ -3041,7 +3093,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350489940,
+      "task_id": 3350943796,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -3049,7 +3101,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 227512408,
+  "uniq": 137720273,
   "workable_servers": [
     "ia601505.us.archive.org"
   ]

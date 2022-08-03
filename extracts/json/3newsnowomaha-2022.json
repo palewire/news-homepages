@@ -1,5 +1,5 @@
 {
-  "created": 1659442175,
+  "created": 1659482183,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/34/items/3newsnowomaha-2022",
@@ -340,31 +340,73 @@
       "format": "JSON"
     },
     {
+      "name": "3newsnowomaha-2022-08-02T07:08:49.924887-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "3newsnowomaha-2022-08-02T07:08:49.924887-05:00.jpg",
+      "mtime": "1659461689",
+      "size": "11124",
+      "md5": "7a6661fc5ea2706be38df7709d6bb130",
+      "crc32": "a6c969db",
+      "sha1": "779dc7abe8b223224ea24074ebb5db3897a22e02"
+    },
+    {
+      "name": "3newsnowomaha-2022-08-02T18:15:40.161451-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659482142",
+      "size": "61481",
+      "md5": "b660894257b502037617494962729fa0",
+      "crc32": "383bcbce",
+      "sha1": "4249ff735d1638ffea1fa39ca606564344cf18d0",
+      "format": "JSON"
+    },
+    {
+      "name": "3newsnowomaha-2022-08-02T18:15:40.161451-05:00.jpg",
+      "source": "original",
+      "mtime": "1659482141",
+      "size": "351404",
+      "md5": "d35cffb512310bdc45b49105d0d0491b",
+      "crc32": "0472c735",
+      "sha1": "be6c8f10d94ad8a12eb84e21b68e2ec5096624da",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "3newsnowomaha-2022-08-02T18:15:40.161451-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659482144",
+      "size": "1477",
+      "md5": "c0d6fa4fd8a80d40aeef8e922e2c74cb",
+      "crc32": "7ed941d4",
+      "sha1": "bbddfaffee6a2b64e530b094657c50a53dabaf01",
+      "format": "JSON"
+    },
+    {
       "name": "3newsnowomaha-2022_archive.torrent",
       "source": "metadata",
-      "btih": "db6341c07990f12b5b5ec1a2e109c3833f0fcab4",
-      "mtime": "1659442174",
-      "size": "8564",
-      "md5": "065e1aacafb16220737f4437d5f1c642",
-      "crc32": "74927c1a",
-      "sha1": "f699d8ea9439b2a2193a7dde9e68020ac02a7e8c",
+      "btih": "ecd28b1a34be85d4ec1a198c7e5ef84f3403f507",
+      "mtime": "1659482181",
+      "size": "9430",
+      "md5": "a272872f2e34e9584d32482954e961b9",
+      "crc32": "d933aea9",
+      "sha1": "460b880db912095b9b08ce34a5c530e6210d1f8a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "3newsnowomaha-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0f4d1e24b3817da700d21c262533526d",
+      "md5": "a18d75db0974990831ec253675fc5a00",
       "summation": "md5"
     },
     {
       "name": "3newsnowomaha-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659442139",
-      "size": "57344",
-      "md5": "ad3bc3ff99aeb8290a39a7a5124ca987",
-      "crc32": "3d54789b",
-      "sha1": "498e1aa01398397fe5628ec8829df527c7269f25",
+      "mtime": "1659482147",
+      "size": "61440",
+      "md5": "4e3609aa5baf9ec16ce4d4bf5951a533",
+      "crc32": "c2b27f18",
+      "sha1": "7546b8c53a201ac57319c54e2a3f09580e226d0e",
       "format": "Metadata"
     },
     {
@@ -389,9 +431,9 @@
       "rotation": "0"
     }
   ],
-  "files_count": 37,
-  "item_last_updated": 1659442174,
-  "item_size": 3047567,
+  "files_count": 41,
+  "item_last_updated": 1659482181,
+  "item_size": 3478015,
   "metadata": {
     "identifier": "3newsnowomaha-2022",
     "collection": [
@@ -413,7 +455,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350479325,
+      "task_id": 3350894351,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -421,7 +463,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2097326362,
+  "uniq": 1107729571,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

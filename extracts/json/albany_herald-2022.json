@@ -1,5 +1,5 @@
 {
-  "created": 1659442247,
+  "created": 1659482226,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/27/items/albany_herald-2022",
@@ -1247,31 +1247,83 @@
       "format": "JSON"
     },
     {
+      "name": "albany_herald-2022-08-02T08:09:55.956957-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "albany_herald-2022-08-02T08:09:55.956957-04:00.jpg",
+      "mtime": "1659461618",
+      "size": "11484",
+      "md5": "3fc47c245d7fda55f2ee24c3ee1c65ce",
+      "crc32": "d4761068",
+      "sha1": "e38253926de40ddbed7b6335970b90dd7df61ecf"
+    },
+    {
+      "name": "albany_herald-2022-08-02T19:16:16.110486-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659482180",
+      "size": "63655",
+      "md5": "5c85966032a209031f75bc147ff0dc53",
+      "crc32": "28f1f260",
+      "sha1": "0c6ec35e872ee429b55551ec676d6c90a4636a23",
+      "format": "JSON"
+    },
+    {
+      "name": "albany_herald-2022-08-02T19:16:16.110486-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659482181",
+      "size": "129786",
+      "md5": "65a52d1957bff94abf6743c475d10290",
+      "crc32": "72a93fe0",
+      "sha1": "9dc85ad5fe3da752d9cd5974803fba26f453b26c",
+      "format": "JSON"
+    },
+    {
+      "name": "albany_herald-2022-08-02T19:16:16.110486-04:00.jpg",
+      "source": "original",
+      "mtime": "1659482178",
+      "size": "318432",
+      "md5": "d9ea3cb35b35439a471b065b7cfe44fd",
+      "crc32": "1955a211",
+      "sha1": "b18ec94b9fd58707b8308ecf54321086cadc823b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "albany_herald-2022-08-02T19:16:16.110486-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659482185",
+      "size": "1510",
+      "md5": "2c8e45a2d4f543f959a89962acb1b9ae",
+      "crc32": "ac7d60e9",
+      "sha1": "aaff9ea80a2bee082422598617ffae380fa34386",
+      "format": "JSON"
+    },
+    {
       "name": "albany_herald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e61b9a19b87b7f87a8b7b3afc526820616f126ee",
-      "mtime": "1659442244",
-      "size": "27286",
-      "md5": "91540e281ee45d280b0a6f68c9c91079",
-      "crc32": "b594816a",
-      "sha1": "249cbf6507bda3842e98ccede7a45b49eb19751b",
+      "btih": "67770dd4018e2efc0de61333e84e214bf4ec725b",
+      "mtime": "1659482222",
+      "size": "28372",
+      "md5": "8801313e026e5fb50edac49b50c7a618",
+      "crc32": "c3110bf2",
+      "sha1": "2d2e90c1c29a2ee198a57206d677d676ef75ccb7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "albany_herald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0d69c46dfb19e50951f5cb6a65f953ed",
+      "md5": "9d9a1d569a98b5d4d7e698d5ac9656d5",
       "summation": "md5"
     },
     {
       "name": "albany_herald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659442209",
-      "size": "163840",
-      "md5": "1281f05a8ccb7c311b0f21fbe77e08eb",
-      "crc32": "f64e18eb",
-      "sha1": "2baf2eeaf0c0bbfb31941266b5e4e53923ece097",
+      "mtime": "1659482188",
+      "size": "172032",
+      "md5": "7cd6206aaa046dd2b3df1a5dbff600eb",
+      "crc32": "c6d84468",
+      "sha1": "8e73936071147ad3d2a607ba2cda348e3b01f187",
       "format": "Metadata"
     },
     {
@@ -1285,9 +1337,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 123,
-  "item_last_updated": 1659442244,
-  "item_size": 12733360,
+  "files_count": 128,
+  "item_last_updated": 1659482222,
+  "item_size": 13267505,
   "metadata": {
     "identifier": "albany_herald-2022",
     "collection": [
@@ -1309,7 +1361,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350480118,
+      "task_id": 3350894695,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1317,7 +1369,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 826031665,
+  "uniq": 398164113,
   "workable_servers": [
     "ia601406.us.archive.org"
   ]

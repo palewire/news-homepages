@@ -1,5 +1,5 @@
 {
-  "created": 1659442877,
+  "created": 1659486971,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/3/items/journalstarnews-2022",
@@ -411,31 +411,83 @@
       "format": "JSON"
     },
     {
+      "name": "journalstarnews-2022-08-02T07:20:27.939412-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "journalstarnews-2022-08-02T07:20:27.939412-05:00.jpg",
+      "mtime": "1659462140",
+      "size": "11829",
+      "md5": "a657fca10472a1140dbd66bc23e2e063",
+      "crc32": "4f28d65d",
+      "sha1": "bdf2929dfaaad7498e584d7b81da8857d209bea1"
+    },
+    {
+      "name": "journalstarnews-2022-08-02T19:35:21.128232-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659486924",
+      "size": "26886",
+      "md5": "ac0e1a10fc6090784c5367f418c637f4",
+      "crc32": "6b1a17b6",
+      "sha1": "b99d0c1d860c7a294945ea817a31a394883751c8",
+      "format": "JSON"
+    },
+    {
+      "name": "journalstarnews-2022-08-02T19:35:21.128232-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659486926",
+      "size": "81004",
+      "md5": "85ad6c325dffe04cdc7e4e3ec530577e",
+      "crc32": "e7388693",
+      "sha1": "e147de5dbaddd269ec994f15ef0ee8052a7dacc1",
+      "format": "JSON"
+    },
+    {
+      "name": "journalstarnews-2022-08-02T19:35:21.128232-05:00.jpg",
+      "source": "original",
+      "mtime": "1659486923",
+      "size": "333468",
+      "md5": "446ff9f65e9adeea385d577e0b62054a",
+      "crc32": "b4b1fdd9",
+      "sha1": "1ad77b5fc1b3b969790ad0bd8542b325c8e38be4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "journalstarnews-2022-08-02T19:35:21.128232-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659486927",
+      "size": "1468",
+      "md5": "4f72a764b1f0f2e82f99bd4e85181a2c",
+      "crc32": "2ca0a406",
+      "sha1": "39e511dfc7ddb23b578d853ee276a50744f1b83b",
+      "format": "JSON"
+    },
+    {
       "name": "journalstarnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "67de14e0f2ec2179fd636d158f7055277a82e74d",
-      "mtime": "1659442874",
-      "size": "9974",
-      "md5": "6d6daf149056c2ebadcf5d08341d55b1",
-      "crc32": "8567bdfd",
-      "sha1": "2a3a4b18964883f11f1eae07aa560a6bef1967d5",
+      "btih": "9e23440db2def5d6110872044284f9ca78eb8e9d",
+      "mtime": "1659486966",
+      "size": "11069",
+      "md5": "42a8231ad74c97ae0105063a05af7f15",
+      "crc32": "596d276a",
+      "sha1": "f86d53bd53838890a1bc41d44269601d6e465035",
       "format": "Archive BitTorrent"
     },
     {
       "name": "journalstarnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "da55f9587d405854d76083775681cd57",
+      "md5": "ad58493eb80eb2e3c713533a910e8f10",
       "summation": "md5"
     },
     {
       "name": "journalstarnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659442840",
-      "size": "65536",
-      "md5": "baa2f760219c23c5118f67e14c6bb2c9",
-      "crc32": "06a8ccbb",
-      "sha1": "387d4e017d8cf4ab6224b36b9ff8c1c9656cb910",
+      "mtime": "1659486932",
+      "size": "69632",
+      "md5": "b7fd98e3b351042c63262ffba78681ad",
+      "crc32": "cf538992",
+      "sha1": "686e3db9da7e20e196afef827802069c94b22aec",
       "format": "Metadata"
     },
     {
@@ -449,9 +501,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 43,
-  "item_last_updated": 1659442874,
-  "item_size": 3603397,
+  "files_count": 48,
+  "item_last_updated": 1659486966,
+  "item_size": 4063243,
   "metadata": {
     "identifier": "journalstarnews-2022",
     "collection": [
@@ -473,7 +525,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350485924,
+      "task_id": 3350939685,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -481,7 +533,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 184194303,
+  "uniq": 889006347,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

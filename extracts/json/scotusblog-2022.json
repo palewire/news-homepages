@@ -1,5 +1,5 @@
 {
-  "created": 1659443396,
+  "created": 1659463093,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/5/items/scotusblog-2022",
@@ -4067,21 +4067,32 @@
       "format": "JSON"
     },
     {
+      "name": "scotusblog-2022-08-02T08:29:03.906812-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "scotusblog-2022-08-02T08:29:03.906812-04:00.jpg",
+      "mtime": "1659463002",
+      "size": "10053",
+      "md5": "4fbb7499820dd9b430ca7eaf174747c1",
+      "crc32": "ecfa1aa5",
+      "sha1": "f33bee14761d2232a660b4d5029e81a6df507afc"
+    },
+    {
       "name": "scotusblog-2022_archive.torrent",
       "source": "metadata",
-      "btih": "435694508ad3d1e9fcb796e33e800c453a0cc87d",
-      "mtime": "1659443393",
-      "size": "84149",
-      "md5": "973aba6f9cd5bec5dbed18d078942405",
-      "crc32": "e17ddf4d",
-      "sha1": "17a4de9f7e2725d2d1d30e6df236cb508f4da3f8",
+      "btih": "a35fcd0a7a556247d2979b050ce14c52b3696ae5",
+      "mtime": "1659463009",
+      "size": "84356",
+      "md5": "91e49177b8dc9d066a7d199a0d1d721a",
+      "crc32": "7047d46f",
+      "sha1": "21e94b3a0bb34b7c6970c48b07d8588c89223c42",
       "format": "Archive BitTorrent"
     },
     {
       "name": "scotusblog-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c1cfd8a64be4b7ca0164170d23d37bbd",
+      "md5": "d2228edb811b31f6b597b98e2efcebb3",
       "summation": "md5"
     },
     {
@@ -4105,9 +4116,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 392,
-  "item_last_updated": 1659443393,
-  "item_size": 37031730,
+  "files_count": 393,
+  "item_last_updated": 1659463009,
+  "item_size": 37041990,
   "metadata": {
     "identifier": "scotusblog-2022",
     "collection": [
@@ -4124,21 +4135,10 @@
     "publicdate": "2022-06-24 23:01:00",
     "addeddate": "2022-06-24 23:01:00"
   },
-  "pending_tasks": true,
-  "server": "ia902503.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3350491054,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 351158543,
+  "server": "ia802503.us.archive.org",
+  "uniq": 650176464,
   "workable_servers": [
+    "ia802503.us.archive.org",
     "ia902503.us.archive.org"
   ]
 }

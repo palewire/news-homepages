@@ -1,5 +1,5 @@
 {
-  "created": 1659443223,
+  "created": 1659487293,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/12/items/oklahomawatch-2022",
@@ -2305,31 +2305,83 @@
       "format": "JSON"
     },
     {
+      "name": "oklahomawatch-2022-08-02T07:26:10.533354-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oklahomawatch-2022-08-02T07:26:10.533354-05:00.jpg",
+      "mtime": "1659462721",
+      "size": "10414",
+      "md5": "d61f0af1958217cb497bcdaac7583322",
+      "crc32": "565b0f44",
+      "sha1": "162238d64e4eba6347add2385bc9a057610c909c"
+    },
+    {
+      "name": "oklahomawatch-2022-08-02T19:40:43.041607-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659487248",
+      "size": "12157",
+      "md5": "b4eb16379509ede49a569555970470d2",
+      "crc32": "9ffff4e6",
+      "sha1": "7447dc3bae25b0f4cf3c6ef9d227ea4c887627ab",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-08-02T19:40:43.041607-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659487249",
+      "size": "24138",
+      "md5": "a0a24c748feb3e17a5996e793f8ea565",
+      "crc32": "ac229d88",
+      "sha1": "c5f0ce0002f9e8f4502ccfe29d1e148c6c8dab6c",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-08-02T19:40:43.041607-05:00.jpg",
+      "source": "original",
+      "mtime": "1659487246",
+      "size": "289258",
+      "md5": "955d70021d9f835404da00e64e7dccd3",
+      "crc32": "cde3075d",
+      "sha1": "b9f1c8d210af29252d2c0136b318caad929480ba",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oklahomawatch-2022-08-02T19:40:43.041607-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659487251",
+      "size": "1477",
+      "md5": "f9ca76c44bfe1e861bae228986743889",
+      "crc32": "97519fd9",
+      "sha1": "26ce205267905be9a084488f315dbe14a17cbbe8",
+      "format": "JSON"
+    },
+    {
       "name": "oklahomawatch-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3473a10068cf2282a95b3a13fb37f80c4976b4b9",
-      "mtime": "1659443219",
-      "size": "48922",
-      "md5": "64549a4fd0b0135a3c2d0773216f6f27",
-      "crc32": "aece2560",
-      "sha1": "3acefcef0829a7453f9221c28ea70e06860e65d9",
+      "btih": "cf9bc87b7343760187b30d7bd9865655e7fb97cc",
+      "mtime": "1659487289",
+      "size": "50007",
+      "md5": "536d5d4a24f3889e42da1c92bdc386bf",
+      "crc32": "52f723b1",
+      "sha1": "f483b0595057e12861fb1f33c38a9760420c1338",
       "format": "Archive BitTorrent"
     },
     {
       "name": "oklahomawatch-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0c5a54c16250f3f84b03e07e6358f4c5",
+      "md5": "22cbf3acb402696804d6e18d782bd50c",
       "summation": "md5"
     },
     {
       "name": "oklahomawatch-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659443183",
-      "size": "282624",
-      "md5": "9d6b94cdaf382ab09b1d3855c231485f",
-      "crc32": "888c7eaa",
-      "sha1": "9eb954c762bd5df33d4f3bee87c779ae1aa84dd9",
+      "mtime": "1659487254",
+      "size": "286720",
+      "md5": "64bf7a3c546fb5c2ea80e363741bdc5c",
+      "crc32": "21f39f37",
+      "sha1": "d408e20d1af3ef9f3f995e2627d5724204f1e1a1",
       "format": "Metadata"
     },
     {
@@ -2343,9 +2395,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 224,
-  "item_last_updated": 1659443219,
-  "item_size": 17839192,
+  "files_count": 229,
+  "item_last_updated": 1659487289,
+  "item_size": 18181817,
   "metadata": {
     "identifier": "oklahomawatch-2022",
     "collection": [
@@ -2367,7 +2419,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350489288,
+      "task_id": 3350943060,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2375,7 +2427,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 494591908,
+  "uniq": 1229866150,
   "workable_servers": [
     "ia601502.us.archive.org"
   ]

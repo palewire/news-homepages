@@ -1,5 +1,5 @@
 {
-  "created": 1659443602,
+  "created": 1659471909,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/17/items/ft-2022",
@@ -14137,31 +14137,94 @@
       "format": "JSON"
     },
     {
+      "name": "ft-2022-08-02T10:10:42.111964+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ft-2022-08-02T10:10:42.111964+01:00.jpg",
+      "mtime": "1659452035",
+      "size": "9707",
+      "md5": "eea45374a5be2edc588e3966573b176f",
+      "crc32": "91855194",
+      "sha1": "d0fad2746cafddf03663bd3ed6076ae6bb16afff"
+    },
+    {
+      "name": "ft-2022-08-02T15:53:13.710668+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659452002",
+      "size": "41074",
+      "md5": "59e4cf38480571d27396335abc72b82b",
+      "crc32": "f47adef1",
+      "sha1": "661f2f43462d0c524ede480b5e261ca168b246d1",
+      "format": "JSON"
+    },
+    {
+      "name": "ft-2022-08-02T15:53:13.710668+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659452004",
+      "size": "52866",
+      "md5": "63ef9bbf70458db60754f4e511a7bd36",
+      "crc32": "6038d478",
+      "sha1": "5d263b4a95ecf10582dadeda698c7eeac2f4d04b",
+      "format": "JSON"
+    },
+    {
+      "name": "ft-2022-08-02T15:53:13.710668+01:00.jpg",
+      "source": "original",
+      "mtime": "1659452001",
+      "size": "308984",
+      "md5": "41710fbd126ea9fdf27b6bae3ad1ba1b",
+      "crc32": "f6429beb",
+      "sha1": "1942eaa0991fc887a55ea729df1c4ef0318b76d5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ft-2022-08-02T15:53:13.710668+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659452005",
+      "size": "1438",
+      "md5": "ff05c25fb90c465256e6415bb16bd0ee",
+      "crc32": "07d7188e",
+      "sha1": "f610ad01615708c0535a92ff00d3fb9586208244",
+      "format": "JSON"
+    },
+    {
+      "name": "ft-2022-08-02T15:53:13.710668+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ft-2022-08-02T15:53:13.710668+01:00.jpg",
+      "mtime": "1659471811",
+      "size": "9636",
+      "md5": "5fb363b42042f4944831d0bd0f15b9e1",
+      "crc32": "444a152f",
+      "sha1": "0f699def17dad9efb15b9bf71875a5e8b633e58e"
+    },
+    {
       "name": "ft-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c3811d0c61c31bc8fb782b7cfda23088a38d57a6",
-      "mtime": "1659431509",
-      "size": "277730",
-      "md5": "382d5f4fe634dbed477c22386efb1f34",
-      "crc32": "907e6454",
-      "sha1": "0e61f2a54c15d3f0bf48dad4cf58ae26096a118a",
+      "btih": "b743c42b7fbc794a1c28614052fb7b176365b0af",
+      "mtime": "1659471875",
+      "size": "278957",
+      "md5": "1956ee58b3c4f481c276cd3acd8e98cd",
+      "crc32": "24d7fec5",
+      "sha1": "1a3ae65623f732c273cd4ee9e5312dfd1df0781e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ft-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cedf341ba84c936b9a7e20cf80447774",
+      "md5": "fbb31ae1f3ec565da4a03c9739eabab1",
       "summation": "md5"
     },
     {
       "name": "ft-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659431458",
-      "size": "1536000",
-      "md5": "944c3ca9124793d28b93305880306ccc",
-      "crc32": "da1f3ca2",
-      "sha1": "a1da943286892b74a0d47e7fad2e6ef344afc443",
+      "mtime": "1659452062",
+      "size": "1544192",
+      "md5": "4b02bc0358119939f30c9c5fbc493528",
+      "crc32": "e03e30d6",
+      "sha1": "95577a5e52119b532dd8f394ef1ae691ae5cdb85",
       "format": "Metadata"
     },
     {
@@ -14175,50 +14238,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1350,
-  "ft-2022": [
-    {
-      "url": "https://www.ft.com/?edition=uk",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ft_com-_-2022_08_02_09_05_43.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ft_com-_-2022_08_02_09_05_43.report.json",
-      "summary": {
-        "performance": 0.25,
-        "accessibility": 1,
-        "best-practices": 1,
-        "seo": 0.99,
-        "pwa": 0.6
-      }
-    },
-    {
-      "url": "https://www.ft.com/?edition=uk",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ft_com-_-2022_08_02_09_06_14.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ft_com-_-2022_08_02_09_06_14.report.json",
-      "summary": {
-        "performance": 0.5,
-        "accessibility": 1,
-        "best-practices": 1,
-        "seo": 0.99,
-        "pwa": 0.6
-      }
-    },
-    {
-      "url": "https://www.ft.com/?edition=uk",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ft_com-_-2022_08_02_09_06_00.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ft_com-_-2022_08_02_09_06_00.report.json",
-      "summary": {
-        "performance": 0.52,
-        "accessibility": 1,
-        "best-practices": 1,
-        "seo": 0.99,
-        "pwa": 0.6
-      }
-    }
-  ],
-  "item_last_updated": 1659431509,
-  "item_size": 140908223,
+  "files_count": 1356,
+  "item_last_updated": 1659471875,
+  "item_size": 141341347,
   "metadata": {
     "identifier": "ft-2022",
     "collection": [
@@ -14235,21 +14257,10 @@
     "publicdate": "2022-03-23 08:03:16",
     "addeddate": "2022-03-23 08:03:16"
   },
-  "pending_tasks": true,
-  "server": "ia902502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3350368914,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1685882036,
+  "server": "ia802502.us.archive.org",
+  "uniq": 1422726879,
   "workable_servers": [
+    "ia802502.us.archive.org",
     "ia902502.us.archive.org"
   ]
 }

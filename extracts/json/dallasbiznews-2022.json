@@ -1,5 +1,5 @@
 {
-  "created": 1659442522,
+  "created": 1659482630,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/15/items/dallasbiznews-2022",
@@ -1515,31 +1515,73 @@
       "format": "JSON"
     },
     {
+      "name": "dallasbiznews-2022-08-02T07:14:33.466343-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dallasbiznews-2022-08-02T07:14:33.466343-05:00.jpg",
+      "mtime": "1659461790",
+      "size": "8547",
+      "md5": "9ad1267e68b07d247e6d5c822cad80c5",
+      "crc32": "4ded56b9",
+      "sha1": "7483393522d0b354b8b25577786d8acb64a23086"
+    },
+    {
+      "name": "dallasbiznews-2022-08-02T18:23:01.957253-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659482585",
+      "size": "140",
+      "md5": "14d6ed8d5ed6841100299ceb9433eee9",
+      "crc32": "0dbd1cc3",
+      "sha1": "656b9d0f8e05eacc0db627269756747e0631aa5d",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasbiznews-2022-08-02T18:23:01.957253-05:00.jpg",
+      "source": "original",
+      "mtime": "1659482583",
+      "size": "244148",
+      "md5": "32e0f95d894a728a879c5b94e327be6e",
+      "crc32": "7b77819e",
+      "sha1": "d27d886981f520c736439c780700227d5167c6fc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dallasbiznews-2022-08-02T18:23:01.957253-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659482586",
+      "size": "1562",
+      "md5": "3346e6601e8817f8e2e2cf2acdd8a612",
+      "crc32": "a42ae9b1",
+      "sha1": "49cec08553efca0a083b542886bbdb79acbc2a09",
+      "format": "JSON"
+    },
+    {
       "name": "dallasbiznews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "aaf4529ec6d597a9480a41f5bd31da96c6f75aa6",
-      "mtime": "1659442519",
-      "size": "32577",
-      "md5": "551f6630da6f842c89532a588bc23d54",
-      "crc32": "89915561",
-      "sha1": "e8bf493a76040ea717d7a8fccafd002b11cd0b57",
+      "btih": "988b6aa4fd00d498a540a6804c6dfbe71acbfa9e",
+      "mtime": "1659482624",
+      "size": "33423",
+      "md5": "d8b1d3af0e499ef0e7b94053e95b26fc",
+      "crc32": "887f522b",
+      "sha1": "d2fcc1e3dfe9a48d7f151dd4494a77e5c0c4a5a6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dallasbiznews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "add4e5d1fc8073bd0f95b0cb06ae18cc",
+      "md5": "2fc30a7440fb088c6518cbcc5f14df52",
       "summation": "md5"
     },
     {
       "name": "dallasbiznews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659442484",
-      "size": "200704",
-      "md5": "e5a4a734b2f203480152772572b60dbf",
-      "crc32": "d729215c",
-      "sha1": "762b3cf7f90cfd4bdf07f508a67b18596d929886",
+      "mtime": "1659482589",
+      "size": "204800",
+      "md5": "b11fddce068fe9abb5aaf12d25a3c130",
+      "crc32": "1f70908b",
+      "sha1": "c50d212b78e86fb4dbc946f769ea498ce46ce84e",
       "format": "Metadata"
     },
     {
@@ -1553,9 +1595,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 149,
-  "item_last_updated": 1659442519,
-  "item_size": 8546480,
+  "files_count": 153,
+  "item_last_updated": 1659482624,
+  "item_size": 8805819,
   "metadata": {
     "identifier": "dallasbiznews-2022",
     "collection": [
@@ -1577,7 +1619,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350483131,
+      "task_id": 3350898061,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1585,7 +1627,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1217653510,
+  "uniq": 1638867122,
   "workable_servers": [
     "ia601507.us.archive.org"
   ]

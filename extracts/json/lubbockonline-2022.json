@@ -1,5 +1,5 @@
 {
-  "created": 1659443743,
+  "created": 1659472178,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/35/items/lubbockonline-2022",
@@ -1456,31 +1456,83 @@
       "sha1": "9fdcd13c6bd1066f4c6a8611ad37850423ffebd3"
     },
     {
+      "name": "lubbockonline-2022-08-02T09:57:46.462943-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659452270",
+      "size": "22103",
+      "md5": "9266d64fd9d35a38297e9b34a9d3967e",
+      "crc32": "8c26d2a0",
+      "sha1": "fd900f4bfc79c8531a5c5059fa1c3a733f39cb80",
+      "format": "JSON"
+    },
+    {
+      "name": "lubbockonline-2022-08-02T09:57:46.462943-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659452271",
+      "size": "32200",
+      "md5": "1a65ccd059fdeccc06aba33c25be3281",
+      "crc32": "1fa144fb",
+      "sha1": "bff59c4503bb963214f5ef70599f066ac809a14d",
+      "format": "JSON"
+    },
+    {
+      "name": "lubbockonline-2022-08-02T09:57:46.462943-05:00.jpg",
+      "source": "original",
+      "mtime": "1659452268",
+      "size": "257144",
+      "md5": "ff4d21d0c338613bdab51cb14ea85811",
+      "crc32": "af2fe3d4",
+      "sha1": "1f2b8e038a9c8ef10acb8193b4575f3bfbfdbdb0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lubbockonline-2022-08-02T09:57:46.462943-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659452273",
+      "size": "1513",
+      "md5": "91f88e608f6dbf769eda4b4506ee8bb8",
+      "crc32": "7de5396b",
+      "sha1": "6ac5d23d1b2d718e265fd760183eb551aa0e1b89",
+      "format": "JSON"
+    },
+    {
+      "name": "lubbockonline-2022-08-02T09:57:46.462943-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lubbockonline-2022-08-02T09:57:46.462943-05:00.jpg",
+      "mtime": "1659472021",
+      "size": "9529",
+      "md5": "e0b387091cbf083fb2ba6a6d58e0f8b7",
+      "crc32": "8f09b2e0",
+      "sha1": "4b9b0a9dd7b367342abbe4d43b6cfbb5237de853"
+    },
+    {
       "name": "lubbockonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c692983ca5149978a1b842df76fa3907a3c7944e",
-      "mtime": "1659413605",
-      "size": "31352",
-      "md5": "ba63fd70212aac82624571c4d374f268",
-      "crc32": "4a0b77c7",
-      "sha1": "25dc9043213965208e09b6acc0fe48d1f3fa2bfb",
+      "btih": "fced672dda13c1380e4968d57f09075751489b27",
+      "mtime": "1659472042",
+      "size": "32436",
+      "md5": "46b6e65d601eabfdb125bb3e062f294e",
+      "crc32": "e792b737",
+      "sha1": "67b47c5e9f845913fe449602b4b5496b53c6b2c8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lubbockonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c34d62a6ae06c2c23fdef424df27b652",
+      "md5": "c7dbe02ba1429f570e9a0d161cb9bf84",
       "summation": "md5"
     },
     {
       "name": "lubbockonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659410458",
-      "size": "188416",
-      "md5": "c40b432f9aa3f87b7fb1b0c2bcf01e6c",
-      "crc32": "cd87238f",
-      "sha1": "f8693a94bdb6c277599c27172e3ccc74f548fac9",
+      "mtime": "1659452327",
+      "size": "196608",
+      "md5": "f0815876edf4609d7af70f61a9d626ab",
+      "crc32": "f7d01351",
+      "sha1": "57eeb8b5d86b6a947e0b3a453929317fabfdd016",
       "format": "Metadata"
     },
     {
@@ -1494,50 +1546,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 143,
-  "item_last_updated": 1659413605,
-  "item_size": 9395953,
-  "lubbockonline-2022": [
-    {
-      "url": "https://www.lubbockonline.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lubbockonline_com-_-2022_08_02_02_58_29.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lubbockonline_com-_-2022_08_02_02_58_29.report.json",
-      "summary": {
-        "performance": 0.84,
-        "accessibility": 0.87,
-        "best-practices": 1,
-        "seo": 0.93,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://www.lubbockonline.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lubbockonline_com-_-2022_08_02_02_59_48.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lubbockonline_com-_-2022_08_02_02_59_48.report.json",
-      "summary": {
-        "performance": 0.77,
-        "accessibility": 0.87,
-        "best-practices": 1,
-        "seo": 0.93,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://www.lubbockonline.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lubbockonline_com-_-2022_08_02_02_59_02.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lubbockonline_com-_-2022_08_02_02_59_02.report.json",
-      "summary": {
-        "performance": 0.74,
-        "accessibility": 0.87,
-        "best-practices": 0.92,
-        "seo": 0.93,
-        "pwa": 0.3
-      }
-    }
-  ],
+  "files_count": 148,
+  "item_last_updated": 1659472042,
+  "item_size": 9727718,
   "metadata": {
     "identifier": "lubbockonline-2022",
     "collection": [
@@ -1554,10 +1565,10 @@
     "publicdate": "2022-07-18 17:54:05",
     "addeddate": "2022-07-18 17:54:05"
   },
-  "server": "ia601509.us.archive.org",
-  "uniq": 518370207,
+  "server": "ia801509.us.archive.org",
+  "uniq": 1309265905,
   "workable_servers": [
-    "ia601509.us.archive.org",
-    "ia801509.us.archive.org"
+    "ia801509.us.archive.org",
+    "ia601509.us.archive.org"
   ]
 }

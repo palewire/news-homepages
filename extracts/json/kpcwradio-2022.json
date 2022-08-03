@@ -1,5 +1,5 @@
 {
-  "created": 1659413307,
+  "created": 1659471980,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/0/items/kpcwradio-2022",
@@ -2242,31 +2242,83 @@
       "sha1": "dd927bd9a0743dc1d86014dd28f01a09e2436174"
     },
     {
+      "name": "kpcwradio-2022-08-02T08:56:46.054645-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659452209",
+      "size": "20017",
+      "md5": "c20015eb96fb5501dde6133237128f2d",
+      "crc32": "e224cb95",
+      "sha1": "6c8750f26410c8a803b083432c236c75cfbccc63",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-08-02T08:56:46.054645-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659452211",
+      "size": "37074",
+      "md5": "cc4c0654d9e3c04e9e9da93280cb39f4",
+      "crc32": "65edf47b",
+      "sha1": "7be2218450abb82b4df82fecb01df6d54b58d956",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-08-02T08:56:46.054645-06:00.jpg",
+      "source": "original",
+      "mtime": "1659452207",
+      "size": "322746",
+      "md5": "ec9237060c80eb4d57db8ab0fe7c4c7c",
+      "crc32": "06f1165b",
+      "sha1": "797420b437856f5b4b5233ea875a7a4327310d28",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpcwradio-2022-08-02T08:56:46.054645-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659452214",
+      "size": "1441",
+      "md5": "fb6debe4b6eca52c5aa240a01edf8387",
+      "crc32": "2efc6885",
+      "sha1": "524aaeb54756eeb083bfd0c935f5ef6a6bb1a78b",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-08-02T08:56:46.054645-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpcwradio-2022-08-02T08:56:46.054645-06:00.jpg",
+      "mtime": "1659471946",
+      "size": "10607",
+      "md5": "ada16e040027524ae255233b5fa82650",
+      "crc32": "49570b63",
+      "sha1": "92bc6512ad1673561922218e4c173e4a29f54875"
+    },
+    {
       "name": "kpcwradio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c8930b069a0dc9f9fe38f68e2bca739d97f10b98",
-      "mtime": "1659413277",
-      "size": "46691",
-      "md5": "b5d762c50d36926deac98b042bca6f68",
-      "crc32": "c8275ced",
-      "sha1": "8e2858e18acffe5f0942cb5bef2836dd88744954",
+      "btih": "c4560873c31ba5cd498761f916e0c25fabe63674",
+      "mtime": "1659471953",
+      "size": "47756",
+      "md5": "d1a7cf377dbb5dcd8ef5c72be83e8864",
+      "crc32": "071a8756",
+      "sha1": "9974d15621bb1befe2b0b88d7ad4293f3ef80c66",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kpcwradio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d914acbe5677246c4743678d6e947ae2",
+      "md5": "56ef646a5920ba7e2660a8b94409fbfe",
       "summation": "md5"
     },
     {
       "name": "kpcwradio-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659410386",
-      "size": "274432",
-      "md5": "f9b039eb2471ae00518b2d358a1482df",
-      "crc32": "dcff7331",
-      "sha1": "943d63c1cca42f936acfd921b21e5a65a43396d4",
+      "mtime": "1659452218",
+      "size": "282624",
+      "md5": "f1b9ce692031ec6a6b5e9b4b24f02d7b",
+      "crc32": "1eacddcc",
+      "sha1": "4064676d446712868e847fcd0e944f4ce56756f9",
       "format": "Metadata"
     },
     {
@@ -2280,9 +2332,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 218,
-  "item_last_updated": 1659413277,
-  "item_size": 16094072,
+  "files_count": 223,
+  "item_last_updated": 1659471953,
+  "item_size": 16495214,
   "metadata": {
     "identifier": "kpcwradio-2022",
     "collection": [
@@ -2299,10 +2351,10 @@
     "publicdate": "2022-07-09 04:00:05",
     "addeddate": "2022-07-09 04:00:05"
   },
-  "server": "ia801500.us.archive.org",
-  "uniq": 679041426,
+  "server": "ia601500.us.archive.org",
+  "uniq": 1444047443,
   "workable_servers": [
-    "ia801500.us.archive.org",
-    "ia601500.us.archive.org"
+    "ia601500.us.archive.org",
+    "ia801500.us.archive.org"
   ]
 }

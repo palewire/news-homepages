@@ -1,5 +1,6 @@
 {
-  "created": 1659443316,
+  "conflict": 1659487379,
+  "created": 1659487379,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/10/items/pucknews-2022",
@@ -5371,21 +5372,32 @@
       "format": "JSON"
     },
     {
+      "name": "pucknews-2022-08-02T08:27:40.795098-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pucknews-2022-08-02T08:27:40.795098-04:00.jpg",
+      "mtime": "1659462877",
+      "size": "7430",
+      "md5": "8676947aa766ec4d28118ac39dc6ab05",
+      "crc32": "9faa831f",
+      "sha1": "628a55c10a098b721fc7af1c7f51b5a78687c265"
+    },
+    {
       "name": "pucknews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "05c22c4c90d47a9f6d0c49d4f11ec54fb99e67d9",
-      "mtime": "1659443314",
-      "size": "108572",
-      "md5": "4dc6fbbb5d6d6a020e22a2359c2c22a5",
-      "crc32": "1bc4b20a",
-      "sha1": "70c532f209c8bbdd6a23bacc98a24fa34d352d58",
+      "btih": "506100920b986f43c740c2c5677003cb07bfe88f",
+      "mtime": "1659462886",
+      "size": "108776",
+      "md5": "1b1ae6cad8c9ccb287ec021191e4d407",
+      "crc32": "0cc532a3",
+      "sha1": "ee0dfa6c54816d1c2c7ddb78d0edb3c7d8efec42",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pucknews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "88a962fc6abe99b19ccff26790a9e912",
+      "md5": "66bb504de7242ceabf4a1f4b302f7d36",
       "summation": "md5"
     },
     {
@@ -5409,9 +5421,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 516,
-  "item_last_updated": 1659443314,
-  "item_size": 25901734,
+  "files_count": 517,
+  "item_last_updated": 1659462886,
+  "item_size": 25909368,
   "metadata": {
     "identifier": "pucknews-2022",
     "collection": [
@@ -5433,15 +5445,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350490220,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "task_id": 3350944004,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 14220355,
+  "uniq": 514059041,
   "workable_servers": [
     "ia902501.us.archive.org"
   ]

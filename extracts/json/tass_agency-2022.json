@@ -1,5 +1,5 @@
 {
-  "created": 1659444026,
+  "created": 1659487473,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/17/items/tass_agency-2022",
@@ -2330,31 +2330,83 @@
       "sha1": "c3a7dacbcf1ae99d72d5621e709e94f519dbc436"
     },
     {
+      "name": "tass_agency-2022-08-02T19:20:41.387353+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659457245",
+      "size": "579",
+      "md5": "6139cbe396c46a55a6c95fc187b066e2",
+      "crc32": "efed6d68",
+      "sha1": "ead2c45c7e3823e7aa18e22853e0c12746754c83",
+      "format": "JSON"
+    },
+    {
+      "name": "tass_agency-2022-08-02T19:20:41.387353+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659457246",
+      "size": "2",
+      "md5": "d751713988987e9331980363e24189ce",
+      "crc32": "0d4cbb29",
+      "sha1": "97d170e1550eee4afc0af065b78cda302a97674c",
+      "format": "JSON"
+    },
+    {
+      "name": "tass_agency-2022-08-02T19:20:41.387353+03:00.jpg",
+      "source": "original",
+      "mtime": "1659457244",
+      "size": "35190",
+      "md5": "55bdef8f2b2cf7ca43df1425566e90bd",
+      "crc32": "98e7ec7f",
+      "sha1": "322c9056a75e0228afdfbed03ae2c91fb0f917d4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tass_agency-2022-08-02T19:20:41.387353+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659457251",
+      "size": "1387",
+      "md5": "2069ce4df5fec1124f827446f2e559ab",
+      "crc32": "6244b8fd",
+      "sha1": "038a36599a4195113bba8ef7126fefc904ccb1a5",
+      "format": "JSON"
+    },
+    {
+      "name": "tass_agency-2022-08-02T19:20:41.387353+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tass_agency-2022-08-02T19:20:41.387353+03:00.jpg",
+      "mtime": "1659477507",
+      "size": "5256",
+      "md5": "73453074f8f32b606ffe233e51535860",
+      "crc32": "d964c5c9",
+      "sha1": "da88e2be398e25b2e2358ba3098505292195fe38"
+    },
+    {
       "name": "tass_agency-2022_archive.torrent",
       "source": "metadata",
-      "btih": "88ada99dc21ac7052d1dcd021010b5972a73d62d",
-      "mtime": "1659426589",
-      "size": "48128",
-      "md5": "ea57526498fb50b6c24a59e3d484b93a",
-      "crc32": "688e85fe",
-      "sha1": "53d140ef15c8b3460207830a08d648db0c681dad",
+      "btih": "d5204e2b213d5219bf0fdfc707264a09491bd704",
+      "mtime": "1659477535",
+      "size": "49175",
+      "md5": "33809370cf526bef26e9e48f1fd682ea",
+      "crc32": "61d013d1",
+      "sha1": "43dd0fac6bcf649966984b2c1adf1dad9883f698",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tass_agency-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8d9228a8e7aa916282dd7954fe41ca99",
+      "md5": "685f70c4ddfff83f2aa76d189dc19e31",
       "summation": "md5"
     },
     {
       "name": "tass_agency-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659418330",
-      "size": "282624",
-      "md5": "c03e22e54bbd72bcda7f18fa6619a8a9",
-      "crc32": "f1d1db56",
-      "sha1": "6255e70250dab391265b839ab84f71983a932c4b",
+      "mtime": "1659457254",
+      "size": "286720",
+      "md5": "dd2f8b33e206c0b0360e2dfdec0627c0",
+      "crc32": "22414078",
+      "sha1": "c4fb815d5032ab611b4e42a02963ee79d6024cdd",
       "format": "Metadata"
     },
     {
@@ -2368,9 +2420,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 226,
-  "item_last_updated": 1659426589,
-  "item_size": 8749678,
+  "files_count": 231,
+  "item_last_updated": 1659477535,
+  "item_size": 8797235,
   "metadata": {
     "identifier": "tass_agency-2022",
     "collection": [
@@ -2392,10 +2444,10 @@
     {
       "url": "https://tass.ru/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/tass_ru-_-2022_08_02_05_29_01.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/tass_ru-_-2022_08_02_05_29_01.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/tass_ru-_-2022_08_02_15_52_07.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/tass_ru-_-2022_08_02_15_52_07.report.json",
       "summary": {
-        "performance": 0.91,
+        "performance": 1,
         "accessibility": 0.71,
         "best-practices": 0.83,
         "seo": 0.69,
@@ -2405,8 +2457,8 @@
     {
       "url": "https://tass.ru/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/tass_ru-_-2022_08_02_05_29_22.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/tass_ru-_-2022_08_02_05_29_22.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/tass_ru-_-2022_08_02_15_52_18.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/tass_ru-_-2022_08_02_15_52_18.report.json",
       "summary": {
         "performance": 1,
         "accessibility": 0.71,
@@ -2418,8 +2470,8 @@
     {
       "url": "https://tass.ru/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/tass_ru-_-2022_08_02_05_29_12.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/tass_ru-_-2022_08_02_05_29_12.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/tass_ru-_-2022_08_02_15_52_28.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/tass_ru-_-2022_08_02_15_52_28.report.json",
       "summary": {
         "performance": 1,
         "accessibility": 0.71,
@@ -2429,7 +2481,7 @@
       }
     }
   ],
-  "uniq": 905751496,
+  "uniq": 659863173,
   "workable_servers": [
     "ia601504.us.archive.org",
     "ia801504.us.archive.org"

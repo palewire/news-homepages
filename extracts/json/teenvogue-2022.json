@@ -1,5 +1,5 @@
 {
-  "created": 1659444037,
+  "created": 1659467811,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/24/items/teenvogue-2022",
@@ -1560,31 +1560,83 @@
       "sha1": "29b345372c47b6414b4dfc39d729c532417afc21"
     },
     {
+      "name": "teenvogue-2022-08-02T09:42:46.219837-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659447769",
+      "size": "32689",
+      "md5": "f406c2dc75a7488b1057d2ea2ecd079b",
+      "crc32": "09f44c28",
+      "sha1": "2c0140aa52839908f1c5f819896c5c0b07422249",
+      "format": "JSON"
+    },
+    {
+      "name": "teenvogue-2022-08-02T09:42:46.219837-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659447770",
+      "size": "16125",
+      "md5": "e4b25e7fe7c50ca0316316d58c696145",
+      "crc32": "98aad325",
+      "sha1": "dc4a15c1e381f62300e4ba57bede71dcba39c7aa",
+      "format": "JSON"
+    },
+    {
+      "name": "teenvogue-2022-08-02T09:42:46.219837-04:00.jpg",
+      "source": "original",
+      "mtime": "1659447767",
+      "size": "195656",
+      "md5": "26f65a90c5ace1ecd0a5685c7d9f20e0",
+      "crc32": "936b77fa",
+      "sha1": "f7ef181540c1315371cabb6b32e231ef6e839c8a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "teenvogue-2022-08-02T09:42:46.219837-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659447772",
+      "size": "1486",
+      "md5": "71c2e3035476a63a336afb1012fafd95",
+      "crc32": "d42b7150",
+      "sha1": "f401e2520c43c8d86e1d15af8c71dd508fc67522",
+      "format": "JSON"
+    },
+    {
+      "name": "teenvogue-2022-08-02T09:42:46.219837-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "teenvogue-2022-08-02T09:42:46.219837-04:00.jpg",
+      "mtime": "1659467782",
+      "size": "8600",
+      "md5": "0be6ae6e8f370d7c29211998aff76a9d",
+      "crc32": "ed619223",
+      "sha1": "513c4c8f4fc3e6d0e25f00c8c6e76a438f36b3d3"
+    },
+    {
       "name": "teenvogue-2022_archive.torrent",
       "source": "metadata",
-      "btih": "84770c3a3e943c791be8c309a8a2cf167a336f9c",
-      "mtime": "1659407244",
-      "size": "32833",
-      "md5": "6bb9b59899291775485dc55db5c7e188",
-      "crc32": "2ee56df4",
-      "sha1": "0dbfaa54c16d3d51d2eb45d0ac731c85e164a28d",
+      "btih": "943f1a938b72587d8e8f52cbf43b844265d4eb4c",
+      "mtime": "1659467792",
+      "size": "33877",
+      "md5": "8b2c7bcc7ea5845f692d3cd0640aafde",
+      "crc32": "605f18ee",
+      "sha1": "2fa06560db034e56f68db878c5e024bb5486f001",
       "format": "Archive BitTorrent"
     },
     {
       "name": "teenvogue-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b5b81bea7b8ff1cf6551d9a2f77fa6f3",
+      "md5": "e3b5eb867b2dab0421bb3eeb6fc817e8",
       "summation": "md5"
     },
     {
       "name": "teenvogue-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659405499",
-      "size": "200704",
-      "md5": "aa3095968defa4b9bed0c604846cc23e",
-      "crc32": "9c15e126",
-      "sha1": "58fac8278e6121fde9149f6e73d13245ef108bac",
+      "mtime": "1659447777",
+      "size": "204800",
+      "md5": "385d61b790b7f5f1e580b694eaac4bce",
+      "crc32": "d817ae6e",
+      "sha1": "6c843ddc200ae1ffc00226f01d6d0f3862722ae6",
       "format": "Metadata"
     },
     {
@@ -1598,9 +1650,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 153,
-  "item_last_updated": 1659407244,
-  "item_size": 8644851,
+  "files_count": 158,
+  "item_last_updated": 1659467792,
+  "item_size": 8904547,
   "metadata": {
     "identifier": "teenvogue-2022",
     "collection": [
@@ -1618,48 +1670,7 @@
     "addeddate": "2022-07-18 04:16:36"
   },
   "server": "ia601508.us.archive.org",
-  "teenvogue-2022": [
-    {
-      "url": "https://www.teenvogue.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_teenvogue_com-_-2022_08_02_01_29_00.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_teenvogue_com-_-2022_08_02_01_29_00.report.json",
-      "summary": {
-        "performance": 0.21,
-        "accessibility": 0.98,
-        "best-practices": 0.83,
-        "seo": 0.93,
-        "pwa": 0.2
-      }
-    },
-    {
-      "url": "https://www.teenvogue.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_teenvogue_com-_-2022_08_02_01_30_25.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_teenvogue_com-_-2022_08_02_01_30_25.report.json",
-      "summary": {
-        "performance": 0.24,
-        "accessibility": 0.98,
-        "best-practices": 0.83,
-        "seo": 0.93,
-        "pwa": 0.2
-      }
-    },
-    {
-      "url": "https://www.teenvogue.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_teenvogue_com-_-2022_08_02_01_29_46.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_teenvogue_com-_-2022_08_02_01_29_46.report.json",
-      "summary": {
-        "performance": 0.24,
-        "accessibility": 0.98,
-        "best-practices": 0.83,
-        "seo": 0.93,
-        "pwa": 0.2
-      }
-    }
-  ],
-  "uniq": 1669975648,
+  "uniq": 507978193,
   "workable_servers": [
     "ia601508.us.archive.org",
     "ia801508.us.archive.org"

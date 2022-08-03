@@ -1,5 +1,5 @@
 {
-  "created": 1659443385,
+  "created": 1659487420,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/4/items/sbnation-2022",
@@ -4101,21 +4101,32 @@
       "format": "JSON"
     },
     {
+      "name": "sbnation-2022-08-02T08:28:51.147785-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sbnation-2022-08-02T08:28:51.147785-04:00.jpg",
+      "mtime": "1659462959",
+      "size": "10554",
+      "md5": "d668ec5d8a0e73daf7f9e802fecf23fc",
+      "crc32": "7a5b749a",
+      "sha1": "f17f17e9cbc6643766b261c1933b0a0356867e97"
+    },
+    {
       "name": "sbnation-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a473933974bd713b9f9f9cee4022d6783402f028",
-      "mtime": "1659443381",
-      "size": "84211",
-      "md5": "d0d50096f14b0a39e599e7a402e58787",
-      "crc32": "8d89ed02",
-      "sha1": "977e588a2026a1426fc63234346367d8622f01c0",
+      "btih": "2cc569e5388e264d4aae16674dd41adc37dfda42",
+      "mtime": "1659463049",
+      "size": "84416",
+      "md5": "578feba68381116a0bc1088889e9a36f",
+      "crc32": "5fc17c2e",
+      "sha1": "55fc8da34126e6bde5bb9c20057edd3385ac8a05",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sbnation-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8175d47ca12c094b5842fde2d1092b66",
+      "md5": "4fa7bd95313bca58121134c271cc6dc4",
       "summation": "md5"
     },
     {
@@ -4139,9 +4150,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 395,
-  "item_last_updated": 1659443381,
-  "item_size": 42115379,
+  "files_count": 396,
+  "item_last_updated": 1659463049,
+  "item_size": 42126138,
   "metadata": {
     "identifier": "sbnation-2022",
     "collection": [
@@ -4158,21 +4169,51 @@
     "publicdate": "2022-06-24 23:01:08",
     "addeddate": "2022-06-24 23:01:08"
   },
-  "pending_tasks": true,
-  "server": "ia601403.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "sbnation-2022": [
     {
-      "task_id": 3350490945,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "url": "https://www.sbnation.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sbnation_com-_-2022_08_02_11_57_31.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sbnation_com-_-2022_08_02_11_57_31.report.json",
+      "summary": {
+        "performance": 0.18,
+        "accessibility": 0.86,
+        "best-practices": 0.83,
+        "seo": 0.83,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.sbnation.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sbnation_com-_-2022_08_02_11_58_01.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sbnation_com-_-2022_08_02_11_58_01.report.json",
+      "summary": {
+        "performance": 0.18,
+        "accessibility": 0.86,
+        "best-practices": 0.83,
+        "seo": 0.83,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.sbnation.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sbnation_com-_-2022_08_02_11_56_57.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_sbnation_com-_-2022_08_02_11_56_57.report.json",
+      "summary": {
+        "performance": 0.16,
+        "accessibility": 0.86,
+        "best-practices": 0.83,
+        "seo": 0.83,
+        "pwa": 0.4
+      }
     }
   ],
-  "uniq": 939238568,
+  "server": "ia601403.us.archive.org",
+  "uniq": 1463019127,
   "workable_servers": [
-    "ia601403.us.archive.org"
+    "ia601403.us.archive.org",
+    "ia801403.us.archive.org"
   ]
 }

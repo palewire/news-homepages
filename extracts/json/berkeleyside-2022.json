@@ -1,5 +1,5 @@
 {
-  "created": 1659442317,
+  "created": 1659482394,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/22/items/berkeleyside-2022",
@@ -10053,31 +10053,83 @@
       "format": "JSON"
     },
     {
+      "name": "berkeleyside-2022-08-02T05:10:46.992319-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "berkeleyside-2022-08-02T05:10:46.992319-07:00.jpg",
+      "mtime": "1659461816",
+      "size": "9845",
+      "md5": "6482fea00d84730423e88026ee01fef2",
+      "crc32": "df96c097",
+      "sha1": "b1621adfe562de118401d0ac7736db09b5310061"
+    },
+    {
+      "name": "berkeleyside-2022-08-02T16:18:47.500861-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659482332",
+      "size": "29784",
+      "md5": "a728f7abbf2fc06b657647a756b148f6",
+      "crc32": "ef8377f9",
+      "sha1": "08a23fe017291ae2f9d626076001c28d3316ab36",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-08-02T16:18:47.500861-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659482334",
+      "size": "27511",
+      "md5": "10f431abafb90bc0b5e438388ae2df7d",
+      "crc32": "5f12403e",
+      "sha1": "a1bac3b7431332b1fda2227c61f3e98a18ca1fbf",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-08-02T16:18:47.500861-07:00.jpg",
+      "source": "original",
+      "mtime": "1659482329",
+      "size": "323993",
+      "md5": "32d43c392dd3470f38e41fe55176c8ba",
+      "crc32": "bd16aa95",
+      "sha1": "b80998e9958ea54385fc3b124b9bcf96ab1bd682",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "berkeleyside-2022-08-02T16:18:47.500861-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659482336",
+      "size": "1499",
+      "md5": "cbeae90d8130d6ec64156007eeaeef87",
+      "crc32": "9bd2456d",
+      "sha1": "bf235ee0ea0d90efff476c1c81d7c7d52d546b8c",
+      "format": "JSON"
+    },
+    {
       "name": "berkeleyside-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4746ccaebbb2a66131a1b95e7359a7f67b6d19e4",
-      "mtime": "1659442313",
-      "size": "207669",
-      "md5": "78aa1ac7e09e57c3fb6f0fcfda05f585",
-      "crc32": "fd84fc98",
-      "sha1": "26b40721588967a2289a9ddb6023330066e7dc23",
+      "btih": "40cbcdc7984b8bcf4002983c563890c417693cf0",
+      "mtime": "1659482390",
+      "size": "208748",
+      "md5": "1feb439918d9d5cd2df8cb972a121b45",
+      "crc32": "331c3bfa",
+      "sha1": "46550d3f85b5957f5887c71058bf8de9f32eda65",
       "format": "Archive BitTorrent"
     },
     {
       "name": "berkeleyside-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2392f7ce85410b901d27b991af2ae1df",
+      "md5": "5cceb529987d0e8ebedda34b0882849e",
       "summation": "md5"
     },
     {
       "name": "berkeleyside-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659442267",
-      "size": "1118208",
-      "md5": "a801b9554c1d0632891aa31573a94bf5",
-      "crc32": "9eaf2c51",
-      "sha1": "ed55f944c0e73bdd1dba2eb349d6dd9117695d76",
+      "mtime": "1659482341",
+      "size": "1122304",
+      "md5": "f173b95923e4767b09dc2fb1129a84d1",
+      "crc32": "9c9804a8",
+      "sha1": "955eb9aa92cf793630a66ab6f760d78291cc9c02",
       "format": "Metadata"
     },
     {
@@ -10091,9 +10143,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 961,
-  "item_last_updated": 1659442313,
-  "item_size": 102947830,
+  "files_count": 966,
+  "item_last_updated": 1659482390,
+  "item_size": 103345637,
   "metadata": {
     "identifier": "berkeleyside-2022",
     "collection": [
@@ -10116,7 +10168,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350480885,
+      "task_id": 3350896128,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -10124,7 +10176,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 375391380,
+  "uniq": 320435919,
   "workable_servers": [
     "ia902501.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1659443422,
+  "created": 1659487447,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/30/items/sinow-2022",
@@ -2683,21 +2683,32 @@
       "format": "JSON"
     },
     {
+      "name": "sinow-2022-08-02T08:29:35.127472-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sinow-2022-08-02T08:29:35.127472-04:00.jpg",
+      "mtime": "1659463039",
+      "size": "10485",
+      "md5": "5ac922cf11f204f0c0930a324923d7f4",
+      "crc32": "32abf427",
+      "sha1": "ad3074ab83cc6edc072d0b6d95f1371f9e32723b"
+    },
+    {
       "name": "sinow-2022_archive.torrent",
       "source": "metadata",
-      "btih": "aa4ec03738d6c0d6051ce3d2251a4b1f9ebaba71",
-      "mtime": "1659443419",
-      "size": "54620",
-      "md5": "931f8524c305a4791f3568b4c71b3a5f",
-      "crc32": "fdb7f29e",
-      "sha1": "fca29bd0ba772ef345ec7d89e09abee8e0cdd4a6",
+      "btih": "1c54e3df19e83a7887d6b809db2aaa913d7f76cc",
+      "mtime": "1659463058",
+      "size": "54822",
+      "md5": "dbbed1763c726691347a9060a20a580c",
+      "crc32": "deb60f06",
+      "sha1": "1a694b03d340b62307a35657507c6923d846f6e6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sinow-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "03b94270bebeedaf0e9256a695684c8d",
+      "md5": "caef23ab53c5c6b60261d8e8241561fa",
       "summation": "md5"
     },
     {
@@ -2721,9 +2732,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 260,
-  "item_last_updated": 1659443419,
-  "item_size": 21873652,
+  "files_count": 261,
+  "item_last_updated": 1659463058,
+  "item_size": 21884339,
   "metadata": {
     "identifier": "sinow-2022",
     "collection": [
@@ -2740,21 +2751,51 @@
     "publicdate": "2022-07-04 21:45:32",
     "addeddate": "2022-07-04 21:45:32"
   },
-  "pending_tasks": true,
-  "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "server": "ia801501.us.archive.org",
+  "sinow-2022": [
     {
-      "task_id": 3350491334,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "url": "https://www.si.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_si_com-_-2022_08_02_11_57_54.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_si_com-_-2022_08_02_11_57_54.report.json",
+      "summary": {
+        "performance": 0.23,
+        "accessibility": 0.88,
+        "best-practices": 0.83,
+        "seo": 0.86,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.si.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_si_com-_-2022_08_02_11_58_36.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_si_com-_-2022_08_02_11_58_36.report.json",
+      "summary": {
+        "performance": 0.3,
+        "accessibility": 0.88,
+        "best-practices": 0.83,
+        "seo": 0.86,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.si.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_si_com-_-2022_08_02_11_58_17.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_si_com-_-2022_08_02_11_58_17.report.json",
+      "summary": {
+        "performance": 0.33,
+        "accessibility": 0.88,
+        "best-practices": 0.83,
+        "seo": 0.86,
+        "pwa": 0.4
+      }
     }
   ],
-  "uniq": 1958321771,
+  "uniq": 1642623493,
   "workable_servers": [
+    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1659442421,
+  "created": 1659482510,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/4/items/buzzfeednews-2022",
@@ -5045,31 +5045,83 @@
       "format": "JSON"
     },
     {
+      "name": "buzzfeednews-2022-08-02T08:12:29.337579-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "buzzfeednews-2022-08-02T08:12:29.337579-04:00.jpg",
+      "mtime": "1659461856",
+      "size": "10074",
+      "md5": "b8358fff07f19dd389bb62b88c7ed97c",
+      "crc32": "33f81ee4",
+      "sha1": "a50aa09d9c3e0566b592267b977756f3ee91e259"
+    },
+    {
+      "name": "buzzfeednews-2022-08-02T19:20:54.111893-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659482456",
+      "size": "26583",
+      "md5": "a61da626245cef0a9604d0d5a084a977",
+      "crc32": "4b4cad14",
+      "sha1": "fa548b6d1063179fd3d5b10a4a74d58bcf9ebc61",
+      "format": "JSON"
+    },
+    {
+      "name": "buzzfeednews-2022-08-02T19:20:54.111893-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659482457",
+      "size": "37377",
+      "md5": "c820b4b9305b6ac4399d3c79a5b06d3a",
+      "crc32": "25eedf88",
+      "sha1": "8dc7ab2e728591cc6ec3882f369c3b23ede1a30c",
+      "format": "JSON"
+    },
+    {
+      "name": "buzzfeednews-2022-08-02T19:20:54.111893-04:00.jpg",
+      "source": "original",
+      "mtime": "1659482455",
+      "size": "324608",
+      "md5": "9c114e718223f02ef0f534d966e21ebb",
+      "crc32": "c8ab8f95",
+      "sha1": "e0a8ba400ab346f64687a982f5ba098c873f2a1f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "buzzfeednews-2022-08-02T19:20:54.111893-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659482459",
+      "size": "1504",
+      "md5": "8c1ae27a2de1ca68c9978f5d35a2a28f",
+      "crc32": "264eb84d",
+      "sha1": "087fccfbf081d6fd5ea50a2afab35e3e5bc01925",
+      "format": "JSON"
+    },
+    {
       "name": "buzzfeednews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3d8766c9c4c75e74128290514c0f627a90b9c1d8",
-      "mtime": "1659442414",
-      "size": "104983",
-      "md5": "18fc20369c2bfda8bbb7011967780243",
-      "crc32": "f1947423",
-      "sha1": "176c093785b21a63001453a50cd461ad1dfcd709",
+      "btih": "48f1467f7b1f88362c86db2cae1998de4b598dc8",
+      "mtime": "1659482506",
+      "size": "106063",
+      "md5": "8176ae0bbf3c8aedde9461af2d670fc1",
+      "crc32": "5ab42dd9",
+      "sha1": "06fe472ffc02651dc2f64b85006646b1422fe66e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "buzzfeednews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "01d2263da95b217ea5041f85320d63b8",
+      "md5": "ddb96b85c33e22b880e0e6a14edd81d2",
       "summation": "md5"
     },
     {
       "name": "buzzfeednews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659442372",
-      "size": "581632",
-      "md5": "1a8d302b7227371cfa727ec366a83ef7",
-      "crc32": "979f76ee",
-      "sha1": "5d2fc32a21bcd7b3978eda93dacd0a406e8d6527",
+      "mtime": "1659482466",
+      "size": "589824",
+      "md5": "c4912c3a5afd37869e79678db72874e9",
+      "crc32": "ca053f05",
+      "sha1": "d5d05cb4fbc4fe6c0068996e2e14109efc4c4986",
       "format": "Metadata"
     },
     {
@@ -5083,9 +5135,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 485,
-  "item_last_updated": 1659442414,
-  "item_size": 46591628,
+  "files_count": 490,
+  "item_last_updated": 1659482506,
+  "item_size": 47001046,
   "metadata": {
     "identifier": "buzzfeednews-2022",
     "collection": [
@@ -5107,7 +5159,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350482178,
+      "task_id": 3350897073,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -5115,7 +5167,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 407478052,
+  "uniq": 2092674162,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]

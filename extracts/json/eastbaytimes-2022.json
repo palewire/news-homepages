@@ -1,5 +1,5 @@
 {
-  "created": 1659442619,
+  "created": 1659482776,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/23/items/eastbaytimes-2022",
@@ -9949,31 +9949,83 @@
       "format": "JSON"
     },
     {
+      "name": "eastbaytimes-2022-08-02T05:15:52.877573-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "eastbaytimes-2022-08-02T05:15:52.877573-07:00.jpg",
+      "mtime": "1659462074",
+      "size": "9509",
+      "md5": "7849008d9624a5fa5c3546a22513245e",
+      "crc32": "f6ad811b",
+      "sha1": "a2f822e4a9ba599342822d734230e3209c49b573"
+    },
+    {
+      "name": "eastbaytimes-2022-08-02T16:24:09.550640-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659482652",
+      "size": "37775",
+      "md5": "31052f17000dafc13a66a375fae7ccc3",
+      "crc32": "2ca0314c",
+      "sha1": "7fe6c1ebef8401b6397ad29f7309f15bc6313340",
+      "format": "JSON"
+    },
+    {
+      "name": "eastbaytimes-2022-08-02T16:24:09.550640-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659482657",
+      "size": "54244",
+      "md5": "8fb6f267ba9ee4d765690318f9a94be3",
+      "crc32": "e4c8ac25",
+      "sha1": "b69b4082986c2e37261f99951c1887a47f1137d8",
+      "format": "JSON"
+    },
+    {
+      "name": "eastbaytimes-2022-08-02T16:24:09.550640-07:00.jpg",
+      "source": "original",
+      "mtime": "1659482650",
+      "size": "291700",
+      "md5": "d4eb088fb77058cc61a81527e8f9cab6",
+      "crc32": "ec6d05f4",
+      "sha1": "f081c0c57635e90f4bfe80e1fda3ee2b3733be0b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "eastbaytimes-2022-08-02T16:24:09.550640-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659482658",
+      "size": "1513",
+      "md5": "c14da36299eb7848a27efc090a8e1018",
+      "crc32": "1f33141f",
+      "sha1": "e0e303daae95ecf1465eb5c4cfa5be542d43df71",
+      "format": "JSON"
+    },
+    {
       "name": "eastbaytimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d3675ecb3bd76e7ae8afcda678feb8fd4f68c5b3",
-      "mtime": "1659442616",
-      "size": "205135",
-      "md5": "086abc98c17cde5fb877aceb25cc46e9",
-      "crc32": "cba1e630",
-      "sha1": "262c91753cfd3be3a63567f65dbc9d3c2bac632a",
+      "btih": "18c738fe4437f5970d12ad897718290b0673dc9b",
+      "mtime": "1659482712",
+      "size": "206214",
+      "md5": "b75edb6bf2c7324546cd7ab38138eb8f",
+      "crc32": "1a1e85fc",
+      "sha1": "c14ccb1e8e4db380ffec3617a2d9e21fde967bb4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "eastbaytimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "367beda5e71be4c64fa0e5891de74f73",
+      "md5": "52b98f042b03dcc54ba25ce160d92ad3",
       "summation": "md5"
     },
     {
       "name": "eastbaytimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659442572",
-      "size": "1105920",
-      "md5": "04c13433121850a7a86eed970aae7eeb",
-      "crc32": "d4e1fa5e",
-      "sha1": "7f7bdade4c638b2eddf2db30b86d10c079b61fda",
+      "mtime": "1659482663",
+      "size": "1110016",
+      "md5": "1595629e802faeaf260c3c46dff46ee7",
+      "crc32": "10da1a4c",
+      "sha1": "59de9061a6d6e3f531ba9628665bfadf1f6ba684",
       "format": "Metadata"
     },
     {
@@ -9987,9 +10039,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 951,
-  "item_last_updated": 1659442616,
-  "item_size": 94940867,
+  "files_count": 956,
+  "item_last_updated": 1659482712,
+  "item_size": 95340783,
   "metadata": {
     "identifier": "eastbaytimes-2022",
     "collection": [
@@ -10011,7 +10063,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350483986,
+      "task_id": 3350899301,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -10019,7 +10071,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1384665034,
+  "uniq": 928495708,
   "workable_servers": [
     "ia902504.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1659443616,
+  "created": 1659487126,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/26/items/gigharbornow-2022",
@@ -2264,31 +2264,83 @@
       "sha1": "c9e0cdc449013fc88b133580a284a2146cfeaf27"
     },
     {
+      "name": "gigharbornow-2022-08-02T07:53:31.809874-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659452016",
+      "size": "25619",
+      "md5": "be73e0872f01c0d0206a2ac3a7ba6db8",
+      "crc32": "e0cadf8a",
+      "sha1": "5b87cbf1a2bede721e03219d97307e20dcaae514",
+      "format": "JSON"
+    },
+    {
+      "name": "gigharbornow-2022-08-02T07:53:31.809874-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659452018",
+      "size": "28486",
+      "md5": "9a3daae19eba95f4871b9f668ad2f451",
+      "crc32": "05f5f58c",
+      "sha1": "a595b2f4e667081fc99a94bf4b2421ddedc5b4e4",
+      "format": "JSON"
+    },
+    {
+      "name": "gigharbornow-2022-08-02T07:53:31.809874-07:00.jpg",
+      "source": "original",
+      "mtime": "1659452014",
+      "size": "203376",
+      "md5": "4c419973f99827d45aa4d5e5595e3711",
+      "crc32": "7464199e",
+      "sha1": "40f99333b4558764dc7c1a5146f9e6fce31c9f8b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gigharbornow-2022-08-02T07:53:31.809874-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659452020",
+      "size": "1512",
+      "md5": "a49267e174cd8c92de45eea535f6e7de",
+      "crc32": "890b5650",
+      "sha1": "8053ef5cbd4834d1906802f0da627373d20090b2",
+      "format": "JSON"
+    },
+    {
+      "name": "gigharbornow-2022-08-02T07:53:31.809874-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gigharbornow-2022-08-02T07:53:31.809874-07:00.jpg",
+      "mtime": "1659471627",
+      "size": "9827",
+      "md5": "22408ea9d43562e846aca62fe28770e4",
+      "crc32": "36c075b0",
+      "sha1": "c9e0cdc449013fc88b133580a284a2146cfeaf27"
+    },
+    {
       "name": "gigharbornow-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8c491518cdc0a233d0b861e9e24317891382bf4b",
-      "mtime": "1659412972",
-      "size": "47604",
-      "md5": "063eaf67e21ab093e4f674e08866453d",
-      "crc32": "9ec06f66",
-      "sha1": "b4953eb2f929bba424c1d6572d6bd4ae75d93fe5",
+      "btih": "283f9474a8cab32c20fa49675d82ca63ca146bd8",
+      "mtime": "1659471635",
+      "size": "48683",
+      "md5": "e93d3551a5ec0a3a846d1444a165a547",
+      "crc32": "60ee92f8",
+      "sha1": "8c26223ec845e9d666d7776ac815c0217e64d555",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gigharbornow-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "44cceb1b16d78be694aa6a44f1e8ee2f",
+      "md5": "e917bcec63f029cade52939e875eb66c",
       "summation": "md5"
     },
     {
       "name": "gigharbornow-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659410222",
-      "size": "278528",
-      "md5": "b448a573a2527059b167113986d29dff",
-      "crc32": "e9c5285a",
-      "sha1": "67def2cbd5b2126b5a9c0403fa91e37c24dbb447",
+      "mtime": "1659452024",
+      "size": "282624",
+      "md5": "14efc4ed1c7fe0c86ec9cf16a9edb1f2",
+      "crc32": "a6779855",
+      "sha1": "011c79b3bee1d532342c3c29c121300ef874b89a",
       "format": "Metadata"
     },
     {
@@ -2302,15 +2354,15 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 220,
+  "files_count": 225,
   "gigharbornow-2022": [
     {
       "url": "https://www.gigharbornow.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gigharbornow_org-_-2022_08_02_02_49_49.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gigharbornow_org-_-2022_08_02_02_49_49.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gigharbornow_org-_-2022_08_02_14_30_12.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gigharbornow_org-_-2022_08_02_14_30_12.report.json",
       "summary": {
-        "performance": 0.67,
+        "performance": 0.7,
         "accessibility": 0.73,
         "best-practices": 0.92,
         "seo": 0.84,
@@ -2320,10 +2372,10 @@
     {
       "url": "https://www.gigharbornow.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gigharbornow_org-_-2022_08_02_02_50_13.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gigharbornow_org-_-2022_08_02_02_50_13.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gigharbornow_org-_-2022_08_02_14_30_42.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gigharbornow_org-_-2022_08_02_14_30_42.report.json",
       "summary": {
-        "performance": 0.97,
+        "performance": 0.96,
         "accessibility": 0.73,
         "best-practices": 0.92,
         "seo": 0.84,
@@ -2333,10 +2385,10 @@
     {
       "url": "https://www.gigharbornow.org/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gigharbornow_org-_-2022_08_02_02_50_02.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gigharbornow_org-_-2022_08_02_02_50_02.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gigharbornow_org-_-2022_08_02_14_30_29.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gigharbornow_org-_-2022_08_02_14_30_29.report.json",
       "summary": {
-        "performance": 0.94,
+        "performance": 0.95,
         "accessibility": 0.73,
         "best-practices": 0.92,
         "seo": 0.84,
@@ -2344,8 +2396,8 @@
       }
     }
   ],
-  "item_last_updated": 1659412972,
-  "item_size": 12426821,
+  "item_last_updated": 1659471635,
+  "item_size": 12700816,
   "metadata": {
     "identifier": "gigharbornow-2022",
     "collection": [
@@ -2363,7 +2415,7 @@
     "addeddate": "2022-07-09 03:58:50"
   },
   "server": "ia802508.us.archive.org",
-  "uniq": 700069138,
+  "uniq": 2137685814,
   "workable_servers": [
     "ia802508.us.archive.org",
     "ia902508.us.archive.org"

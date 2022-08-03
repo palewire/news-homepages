@@ -1,5 +1,5 @@
 {
-  "created": 1659443248,
+  "created": 1659487267,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/9/items/niemanlab-2022",
@@ -1507,31 +1507,83 @@
       "format": "JSON"
     },
     {
+      "name": "niemanlab-2022-08-02T08:26:33.670398-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "niemanlab-2022-08-02T08:26:33.670398-04:00.jpg",
+      "mtime": "1659462810",
+      "size": "9693",
+      "md5": "00e6b9b9e8b7d9dd2712786e6ff5580a",
+      "crc32": "c0cfb099",
+      "sha1": "7f530ef88f7301a2ab93b49e091be1f6e9c43e88"
+    },
+    {
+      "name": "niemanlab-2022-08-02T20:40:15.947314-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659487219",
+      "size": "16106",
+      "md5": "55d529e95c86b25bec2aa7c30120cc02",
+      "crc32": "67110d79",
+      "sha1": "d7d83357963dc0f3a8acf6775fb95b2d8d5a4975",
+      "format": "JSON"
+    },
+    {
+      "name": "niemanlab-2022-08-02T20:40:15.947314-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659487220",
+      "size": "19764",
+      "md5": "b86e1c7d54ec2379e50ec86e19d76c49",
+      "crc32": "de9aec1d",
+      "sha1": "06e893d99dd70a51eb2f26f589ef93ab0b1bd6cc",
+      "format": "JSON"
+    },
+    {
+      "name": "niemanlab-2022-08-02T20:40:15.947314-04:00.jpg",
+      "source": "original",
+      "mtime": "1659487217",
+      "size": "243444",
+      "md5": "5975804ff3ee386635c4c2283988e0eb",
+      "crc32": "46818b41",
+      "sha1": "7c24f306430a26d41487ae963f0293d455359e48",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "niemanlab-2022-08-02T20:40:15.947314-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659487222",
+      "size": "1485",
+      "md5": "7b73d8c1af4403628e84c4433c868af5",
+      "crc32": "9315e864",
+      "sha1": "d652af3836779901f4feefaa51ae018184f041a7",
+      "format": "JSON"
+    },
+    {
       "name": "niemanlab-2022_archive.torrent",
       "source": "metadata",
-      "btih": "779cd480bed56e04e5329ae5290fc1297c6632c6",
-      "mtime": "1659443245",
-      "size": "31832",
-      "md5": "7c2330b36f0a774ca11ddd4074390688",
-      "crc32": "1ca54c7b",
-      "sha1": "3c673e239b8a1d493d91d3c7d10a00b2945f6140",
+      "btih": "131afe23b95a16121a3c755480f4b2eb6a33be6d",
+      "mtime": "1659487264",
+      "size": "32876",
+      "md5": "128819cc034a0f0e0db28b17394fdeae",
+      "crc32": "d50860c4",
+      "sha1": "0390f28051beb56b68195e42176160db09b00246",
       "format": "Archive BitTorrent"
     },
     {
       "name": "niemanlab-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1e4635b81dae34eae1a4d17d0b5bd264",
+      "md5": "ac9bb1ec95643346470601466c8b9fd5",
       "summation": "md5"
     },
     {
       "name": "niemanlab-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659443209",
-      "size": "196608",
-      "md5": "ac1d9b2377345aa055d8c391280350b4",
-      "crc32": "41abb81a",
-      "sha1": "47f317d604b06847ca9213e772674b148f166904",
+      "mtime": "1659487227",
+      "size": "200704",
+      "md5": "cc1c553f1e1e7dbe0fe9a0b5d873264b",
+      "crc32": "0611ad57",
+      "sha1": "c807614523aabf3d1b56d036316c155b093557b8",
       "format": "Metadata"
     },
     {
@@ -1545,9 +1597,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 148,
-  "item_last_updated": 1659443245,
-  "item_size": 9544138,
+  "files_count": 153,
+  "item_last_updated": 1659487264,
+  "item_size": 9839770,
   "metadata": {
     "identifier": "niemanlab-2022",
     "collection": [
@@ -1569,7 +1621,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350489520,
+      "task_id": 3350942764,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1577,7 +1629,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1969104757,
+  "uniq": 396461171,
   "workable_servers": [
     "ia902500.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1659442732,
+  "created": 1659482797,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/25/items/gwinnettdaily-2022",
@@ -1299,31 +1299,83 @@
       "format": "JSON"
     },
     {
+      "name": "gwinnettdaily-2022-08-02T08:17:33.764461-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gwinnettdaily-2022-08-02T08:17:33.764461-04:00.jpg",
+      "mtime": "1659462047",
+      "size": "11082",
+      "md5": "60516bb960665f31bf9933d039824f2f",
+      "crc32": "291e0d90",
+      "sha1": "0e6228cf107038c0adf87eb23b73b9ac985baf75"
+    },
+    {
+      "name": "gwinnettdaily-2022-08-02T19:25:48.150353-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659482752",
+      "size": "75678",
+      "md5": "517e6bda046e054d8d4e85b3d852132c",
+      "crc32": "dc3d3922",
+      "sha1": "9c8be367dfbb59181be09f6adbd0df178590f41d",
+      "format": "JSON"
+    },
+    {
+      "name": "gwinnettdaily-2022-08-02T19:25:48.150353-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659482753",
+      "size": "148503",
+      "md5": "203cb5e505a1919eacd0b3f8330282ff",
+      "crc32": "5f381897",
+      "sha1": "606aba8047e87ca6cca16b4d9fe06bba31fc7a3e",
+      "format": "JSON"
+    },
+    {
+      "name": "gwinnettdaily-2022-08-02T19:25:48.150353-04:00.jpg",
+      "source": "original",
+      "mtime": "1659482750",
+      "size": "278800",
+      "md5": "7e8c98bfd7e625202aa7bf17ff90f4f9",
+      "crc32": "5657fbdb",
+      "sha1": "89ffc33190aec39cde655a988377ff24e9819ced",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gwinnettdaily-2022-08-02T19:25:48.150353-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659482754",
+      "size": "1553",
+      "md5": "9f3f7e8b4a1869e138830a408b47a847",
+      "crc32": "79fcffc0",
+      "sha1": "f2df90f4fd122430a0d6f21fc88bab704468b6d7",
+      "format": "JSON"
+    },
+    {
       "name": "gwinnettdaily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cda2a80b0d0db82ba7bcfe88b1b0cb5b2033544e",
-      "mtime": "1659442724",
-      "size": "28392",
-      "md5": "0c7d0fc342fba666d787c337712ca2ea",
-      "crc32": "d142e513",
-      "sha1": "c0aac664908c197875c5818c4391f8f3d0d608ce",
+      "btih": "41c5653d2046f8bee410c077ae461e77a212d80c",
+      "mtime": "1659482794",
+      "size": "29478",
+      "md5": "8fc0294a76b5632702feca1ea1e6a85e",
+      "crc32": "70b24cb9",
+      "sha1": "0ac9160febdce891b53cee8e9e21ae190faba5e4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gwinnettdaily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5cd1683d701108b17c6e0462a112d3de",
+      "md5": "8f6373980b3845f3d2e1d809d2b7e362",
       "summation": "md5"
     },
     {
       "name": "gwinnettdaily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659442678",
-      "size": "172032",
-      "md5": "7ee532dbf78c773d19479071f09cb1f4",
-      "crc32": "1ab1e5ba",
-      "sha1": "510bc319d333ee390cc9fe9b7908e2bf22d9c156",
+      "mtime": "1659482760",
+      "size": "180224",
+      "md5": "d80aab0fcba4894f10c0e8c19159c07c",
+      "crc32": "e2d362fe",
+      "sha1": "4364600feb4261fa4a2218cd32684ae200c6804e",
       "format": "Metadata"
     },
     {
@@ -1337,9 +1389,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 128,
-  "item_last_updated": 1659442724,
-  "item_size": 13746737,
+  "files_count": 133,
+  "item_last_updated": 1659482794,
+  "item_size": 14271631,
   "metadata": {
     "identifier": "gwinnettdaily-2022",
     "collection": [
@@ -1361,7 +1413,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350484721,
+      "task_id": 3350899504,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1369,7 +1421,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 402167322,
+  "uniq": 700651852,
   "workable_servers": [
     "ia601407.us.archive.org"
   ]

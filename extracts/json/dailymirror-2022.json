@@ -1,48 +1,7 @@
 {
-  "created": 1659443528,
+  "created": 1659471675,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
-  "dailymirror-2022": [
-    {
-      "url": "https://www.mirror.co.uk/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mirror_co_uk-_-2022_08_02_09_05_48.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mirror_co_uk-_-2022_08_02_09_05_48.report.json",
-      "summary": {
-        "performance": 0.23,
-        "accessibility": 0.68,
-        "best-practices": 0.67,
-        "seo": 0.82,
-        "pwa": 0.7
-      }
-    },
-    {
-      "url": "https://www.mirror.co.uk/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mirror_co_uk-_-2022_08_02_09_07_33.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mirror_co_uk-_-2022_08_02_09_07_33.report.json",
-      "summary": {
-        "performance": 0.24,
-        "accessibility": 0.68,
-        "best-practices": 0.67,
-        "seo": 0.82,
-        "pwa": 0.7
-      }
-    },
-    {
-      "url": "https://www.mirror.co.uk/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mirror_co_uk-_-2022_08_02_09_06_58.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mirror_co_uk-_-2022_08_02_09_06_58.report.json",
-      "summary": {
-        "performance": 0.23,
-        "accessibility": 0.68,
-        "best-practices": 0.67,
-        "seo": 0.82,
-        "pwa": 0.7
-      }
-    }
-  ],
   "dir": "/5/items/dailymirror-2022",
   "files": [
     {
@@ -3750,31 +3709,94 @@
       "format": "JSON"
     },
     {
+      "name": "dailymirror-2022-08-02T10:10:48.872218+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailymirror-2022-08-02T10:10:48.872218+01:00.jpg",
+      "mtime": "1659451843",
+      "size": "11375",
+      "md5": "19a5e14f6f121c7a1a5dff32ea2b31cd",
+      "crc32": "2cb83bc7",
+      "sha1": "25be14db0877242a5efa0fdeda62377c77f33b4f"
+    },
+    {
+      "name": "dailymirror-2022-08-02T15:49:29.456930+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659451772",
+      "size": "88427",
+      "md5": "52b3844b3d6a427973dc9e7f4666d383",
+      "crc32": "edffbc88",
+      "sha1": "1e2521b14cadab9acb4baef5dfad5f73d9d767ad",
+      "format": "JSON"
+    },
+    {
+      "name": "dailymirror-2022-08-02T15:49:29.456930+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659451773",
+      "size": "98865",
+      "md5": "20eca5e1b72cbb162f4fd1296e8e212b",
+      "crc32": "4db8cc63",
+      "sha1": "5c6afa6d1416e0aebe40268fe6ae173f737ebed5",
+      "format": "JSON"
+    },
+    {
+      "name": "dailymirror-2022-08-02T15:49:29.456930+01:00.jpg",
+      "source": "original",
+      "mtime": "1659451770",
+      "size": "360304",
+      "md5": "e61225773ff1f2588ee7eab9ad1e8701",
+      "crc32": "eaab8063",
+      "sha1": "7cd3e340d7ed91d23381220cbe9b76e41515a2ac",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailymirror-2022-08-02T15:49:29.456930+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659451775",
+      "size": "1477",
+      "md5": "13683588a47d438c67851cf196200ebd",
+      "crc32": "cce2beb9",
+      "sha1": "173d93fdf986f8da30b946bfb0c387e367988c94",
+      "format": "JSON"
+    },
+    {
+      "name": "dailymirror-2022-08-02T15:49:29.456930+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailymirror-2022-08-02T15:49:29.456930+01:00.jpg",
+      "mtime": "1659471604",
+      "size": "11608",
+      "md5": "ae0e6d1c3f16a9113ee1eb628d38c049",
+      "crc32": "75a733a2",
+      "sha1": "df7d892b601c1868b6ac1c491c01730672da0860"
+    },
+    {
       "name": "dailymirror-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cf29d3efd62056afd89466e7608a878ef02f6592",
-      "mtime": "1659431498",
-      "size": "77811",
-      "md5": "deb89ce616e3829b8f8162d8a2e79d9d",
-      "crc32": "a686af23",
-      "sha1": "a7889954409aab6579faa908c1af7f5c3fdc701a",
+      "btih": "0f8ad7fc536d7aee66be26b69f6ab2df45064a88",
+      "mtime": "1659471637",
+      "size": "79094",
+      "md5": "fa904419c16ccb933b6ad8386adfbd12",
+      "crc32": "ac39ca8c",
+      "sha1": "c1e8a6909b740619979087918ce1ef6bce4748c2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailymirror-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f8ce29a46f664e2a7e0fc10385075252",
+      "md5": "77bf7188ced190d35224f4a96f97726d",
       "summation": "md5"
     },
     {
       "name": "dailymirror-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659431460",
-      "size": "438272",
-      "md5": "c18e751a7a1a2ccde9414adbee452e86",
-      "crc32": "1968c9cd",
-      "sha1": "350b8c8f58d9883561ecda3d3a60a6e25ea57440",
+      "mtime": "1659451984",
+      "size": "442368",
+      "md5": "c58aa2e33280a328d7c4282568fe5ff0",
+      "crc32": "a43bf08e",
+      "sha1": "cb44c0cb2d9f1cc0221344b0cca25f14faf971d1",
       "format": "Metadata"
     },
     {
@@ -3788,9 +3810,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 358,
-  "item_last_updated": 1659431498,
-  "item_size": 45827259,
+  "files_count": 364,
+  "item_last_updated": 1659471637,
+  "item_size": 46404694,
   "metadata": {
     "identifier": "dailymirror-2022",
     "collection": [
@@ -3807,21 +3829,10 @@
     "publicdate": "2022-07-07 03:59:22",
     "addeddate": "2022-07-07 03:59:22"
   },
-  "pending_tasks": true,
   "server": "ia601404.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3350368948,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1758608577,
+  "uniq": 536083491,
   "workable_servers": [
-    "ia601404.us.archive.org"
+    "ia601404.us.archive.org",
+    "ia801404.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1659443331,
+  "created": 1659483762,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/28/items/redstate-2022",
@@ -2229,31 +2229,94 @@
       "format": "JSON"
     },
     {
+      "name": "redstate-2022-08-02T08:27:57.523397-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "redstate-2022-08-02T08:27:57.523397-04:00.jpg",
+      "mtime": "1659462881",
+      "size": "10320",
+      "md5": "31e21047706d1399b78e73931aa8fd93",
+      "crc32": "d6f4ec63",
+      "sha1": "d3261d4c1e378707db27b73c3ad631dfe88c1773"
+    },
+    {
+      "name": "redstate-2022-08-02T14:37:13.813754-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659465437",
+      "size": "31490",
+      "md5": "9b62bec1d421c9dd91615215e3d0dfe5",
+      "crc32": "25217cf6",
+      "sha1": "2bbe0da1b638b50477f0405c0ee4d6381909ed07",
+      "format": "JSON"
+    },
+    {
+      "name": "redstate-2022-08-02T14:37:13.813754-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659465439",
+      "size": "27466",
+      "md5": "cbbd5e1eafd1311677873f51289e2f3f",
+      "crc32": "3a4f5279",
+      "sha1": "f41db14bb7d96a14e76d936cadddb50b89fd8302",
+      "format": "JSON"
+    },
+    {
+      "name": "redstate-2022-08-02T14:37:13.813754-04:00.jpg",
+      "source": "original",
+      "mtime": "1659465436",
+      "size": "270628",
+      "md5": "eacc9efa45dc1ceaae5ba3377cede2f2",
+      "crc32": "505c3427",
+      "sha1": "2f828c886336f5ea85285abf0caef3f73106447c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "redstate-2022-08-02T14:37:13.813754-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659465441",
+      "size": "1441",
+      "md5": "4f19b2f9aeeb2409ab80284914271281",
+      "crc32": "067aaf70",
+      "sha1": "ba9f98cc902a4d085c7bd796bd150d15aa84b325",
+      "format": "JSON"
+    },
+    {
+      "name": "redstate-2022-08-02T14:37:13.813754-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "redstate-2022-08-02T14:37:13.813754-04:00.jpg",
+      "mtime": "1659482700",
+      "size": "10294",
+      "md5": "e438f1bb712afa56738736c13658959a",
+      "crc32": "ccc8d783",
+      "sha1": "b119c7bba1d4f49c4f22a7ac0c80365e28329682"
+    },
+    {
       "name": "redstate-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9fb4a6574a902c7a69279a0596ed7df667238a48",
-      "mtime": "1659443327",
-      "size": "46298",
-      "md5": "b04045b332f50f7a590645982e45ae1a",
-      "crc32": "a0d6016e",
-      "sha1": "ae72a6c733049b44bb3c13f7c0ec5ceafb46c0da",
+      "btih": "9a20c0c0e1f4ea2f7fd4bfc5e6840c72c10886f0",
+      "mtime": "1659482745",
+      "size": "47543",
+      "md5": "e22c3bf043adbfc1b673852202508942",
+      "crc32": "f0ffabc5",
+      "sha1": "ae6126489b94946463d90b90fc6596fc9b9abd9d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "redstate-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8847fe98809a663998ebbb1320e8f268",
+      "md5": "84da69c98be737bc1a03794bc21a6ad1",
       "summation": "md5"
     },
     {
       "name": "redstate-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659443291",
-      "size": "278528",
-      "md5": "0105c5579a7387059d87153c3505099a",
-      "crc32": "a8a6c85d",
-      "sha1": "53d457e4dfa9a33e5f85218c4904a31b7ef8fb4c",
+      "mtime": "1659465445",
+      "size": "282624",
+      "md5": "2b9cb244da1d7327d2638ca7c6595fd4",
+      "crc32": "2766bd29",
+      "sha1": "5238fce39fc69b39c9f858a3632631a427f3ecd9",
       "format": "Metadata"
     },
     {
@@ -2267,9 +2330,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 217,
-  "item_last_updated": 1659443327,
-  "item_size": 16440549,
+  "files_count": 223,
+  "item_last_updated": 1659482745,
+  "item_size": 16797529,
   "metadata": {
     "identifier": "redstate-2022",
     "collection": [
@@ -2286,21 +2349,10 @@
     "publicdate": "2022-07-17 15:03:36",
     "addeddate": "2022-07-17 15:03:36"
   },
-  "pending_tasks": true,
-  "server": "ia601407.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3350490379,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 115791171,
+  "server": "ia801407.us.archive.org",
+  "uniq": 1004178673,
   "workable_servers": [
+    "ia801407.us.archive.org",
     "ia601407.us.archive.org"
   ]
 }

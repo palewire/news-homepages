@@ -1,5 +1,5 @@
 {
-  "created": 1659442523,
+  "created": 1659482570,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/24/items/crucessunnews-2022",
@@ -8729,31 +8729,83 @@
       "format": "JSON"
     },
     {
+      "name": "crucessunnews-2022-08-02T06:14:21.063455-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "crucessunnews-2022-08-02T06:14:21.063455-06:00.jpg",
+      "mtime": "1659461791",
+      "size": "8963",
+      "md5": "5f80a8bb4b8cabcec97bd823d3a6eae0",
+      "crc32": "72679b2b",
+      "sha1": "34f789435f445e93fb7023db5e04f41add6aff6a"
+    },
+    {
+      "name": "crucessunnews-2022-08-02T17:21:51.474840-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659482517",
+      "size": "19676",
+      "md5": "0f96895219647e04d85d69ddeadc6a30",
+      "crc32": "ace2a0aa",
+      "sha1": "c87cc20060798752a6296785e652167bbbca83d1",
+      "format": "JSON"
+    },
+    {
+      "name": "crucessunnews-2022-08-02T17:21:51.474840-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659482519",
+      "size": "34571",
+      "md5": "253d6de4be1553873e8d014f6c13c376",
+      "crc32": "29ade5a5",
+      "sha1": "b2186e24dae76b7c6c99c59a49804303d9187000",
+      "format": "JSON"
+    },
+    {
+      "name": "crucessunnews-2022-08-02T17:21:51.474840-06:00.jpg",
+      "source": "original",
+      "mtime": "1659482515",
+      "size": "256835",
+      "md5": "4aefc63bfe9cbdfc10a8cb562410798e",
+      "crc32": "0599d063",
+      "sha1": "4d489ef265ad63ebf3f08dc574551e789855a723",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "crucessunnews-2022-08-02T17:21:51.474840-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659482520",
+      "size": "1495",
+      "md5": "adf4e9afb63768702dbe4b5e5d75788c",
+      "crc32": "a8cde7c6",
+      "sha1": "efc39f62328b759e6a8c57fb249dc5d2b17f4929",
+      "format": "JSON"
+    },
+    {
       "name": "crucessunnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "131099a746c44662110701dfe6df2c2770b165e2",
-      "mtime": "1659442516",
-      "size": "180277",
-      "md5": "1a929c343cd3c5d2d07a27964103f7cf",
-      "crc32": "1e02b9ad",
-      "sha1": "76feb35a20f3cfbeb2e7d97b38a52a603859eebf",
+      "btih": "cb1681cbf65bcefe01466b078bc32eeed5f695e1",
+      "mtime": "1659482566",
+      "size": "181361",
+      "md5": "18124c6fa4e687ccde6a359c88c292b6",
+      "crc32": "e952619a",
+      "sha1": "b7dee7571b1fa97e8d05cfbcf3d0881d79723c42",
       "format": "Archive BitTorrent"
     },
     {
       "name": "crucessunnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1fd54181b15e26fda42fb09672026772",
+      "md5": "20c272f8463170ee78808223b2d59ec3",
       "summation": "md5"
     },
     {
       "name": "crucessunnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659442473",
-      "size": "974848",
-      "md5": "77463d016f441c08b2b8ef65d515a7bb",
-      "crc32": "dae86fbc",
-      "sha1": "76313b584591ca45b2b850c38a3408b37926d5ca",
+      "mtime": "1659482525",
+      "size": "983040",
+      "md5": "2fc8ac84e05797061dc989d889f36428",
+      "crc32": "2caf51b2",
+      "sha1": "36a06587a063f240e5c87757b8f0886c659cf3a9",
       "format": "Metadata"
     },
     {
@@ -8767,9 +8819,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 835,
-  "item_last_updated": 1659442516,
-  "item_size": 64874920,
+  "files_count": 840,
+  "item_last_updated": 1659482566,
+  "item_size": 65205736,
   "metadata": {
     "identifier": "crucessunnews-2022",
     "collection": [
@@ -8791,7 +8843,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350483142,
+      "task_id": 3350897627,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -8799,7 +8851,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 906314505,
+  "uniq": 111116591,
   "workable_servers": [
     "ia902509.us.archive.org"
   ]

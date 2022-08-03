@@ -1,5 +1,5 @@
 {
-  "created": 1659442276,
+  "created": 1659482303,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/4/items/aspenjournalism-2022",
@@ -2305,31 +2305,83 @@
       "format": "JSON"
     },
     {
+      "name": "aspenjournalism-2022-08-02T06:10:24.108070-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aspenjournalism-2022-08-02T06:10:24.108070-06:00.jpg",
+      "mtime": "1659461653",
+      "size": "9869",
+      "md5": "4b2e345f042d687a56b5324ed3432636",
+      "crc32": "f1159bb6",
+      "sha1": "1e163aa67df6f0575e688b06533d6ea40e01d3c4"
+    },
+    {
+      "name": "aspenjournalism-2022-08-02T17:17:26.235550-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659482252",
+      "size": "14643",
+      "md5": "cbf82a85a2cfa48d075b4b4512e79cc4",
+      "crc32": "a8b653fd",
+      "sha1": "d9b47277d4a9b9c12c06d405296ae487e90659fb",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenjournalism-2022-08-02T17:17:26.235550-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659482255",
+      "size": "14338",
+      "md5": "d2ebe29a6490095ad4406ad78629a5d0",
+      "crc32": "bcb41d8d",
+      "sha1": "4e82544d9961babcb850fd166492dc3ef6b2e50e",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenjournalism-2022-08-02T17:17:26.235550-06:00.jpg",
+      "source": "original",
+      "mtime": "1659482251",
+      "size": "378010",
+      "md5": "a8cc0baf36c0cd2df72e041a53bbd2ac",
+      "crc32": "812c1182",
+      "sha1": "681b8ea814bcdfc10dddc6b0459a386ea128ca72",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aspenjournalism-2022-08-02T17:17:26.235550-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659482256",
+      "size": "1492",
+      "md5": "3c6243e706a15dd1f71db1fc924a13b2",
+      "crc32": "d822c559",
+      "sha1": "fac6686a8ae04883b655346908272b641da268b9",
+      "format": "JSON"
+    },
+    {
       "name": "aspenjournalism-2022_archive.torrent",
       "source": "metadata",
-      "btih": "607a93f08e192e9ba9cd45307e6438c72478bcd6",
-      "mtime": "1659442274",
-      "size": "49367",
-      "md5": "1e3b44f4c6c7e9b73267559248026be9",
-      "crc32": "5a61175a",
-      "sha1": "9e4205b87fde6f7081989097fa15386087259f36",
+      "btih": "f969c6ff634c8ad91b90597acf71add8a54bb329",
+      "mtime": "1659482298",
+      "size": "50461",
+      "md5": "1c64ed97505984a391ad2349b9fbd2d2",
+      "crc32": "6d451ade",
+      "sha1": "dee3e9929ad6ac32c0e04544193a5529741d5b50",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aspenjournalism-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e4a8511b965040fa4f6d7598ac45747d",
+      "md5": "95161400ebabdd7505eccff0077aca53",
       "summation": "md5"
     },
     {
       "name": "aspenjournalism-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659442237",
-      "size": "282624",
-      "md5": "6637737c47175475824fc0ce0631e488",
-      "crc32": "4f80e589",
-      "sha1": "e6188c5092a83bb0e62c5272cd2ee75ad5ffcf15",
+      "mtime": "1659482260",
+      "size": "286720",
+      "md5": "59ddd6eacb37bb87bbcd3aa57f4d60f3",
+      "crc32": "e146f926",
+      "sha1": "6af5e7bf50c8647529218cde81fc0af6c028353c",
       "format": "Metadata"
     },
     {
@@ -2343,9 +2395,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 224,
-  "item_last_updated": 1659442274,
-  "item_size": 18506121,
+  "files_count": 229,
+  "item_last_updated": 1659482298,
+  "item_size": 18929663,
   "metadata": {
     "identifier": "aspenjournalism-2022",
     "collection": [
@@ -2367,7 +2419,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350480437,
+      "task_id": 3350895412,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2375,7 +2427,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1222022797,
+  "uniq": 407819925,
   "workable_servers": [
     "ia902507.us.archive.org"
   ]

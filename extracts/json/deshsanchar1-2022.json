@@ -1,7 +1,48 @@
 {
-  "created": 1659412903,
+  "created": 1659487020,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
+  "deshsanchar1-2022": [
+    {
+      "url": "https://deshsanchar.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/deshsanchar_com-_-2022_08_02_14_25_20.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/deshsanchar_com-_-2022_08_02_14_25_20.report.json",
+      "summary": {
+        "performance": 0.2,
+        "accessibility": 0.95,
+        "best-practices": 0.75,
+        "seo": 0.87,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://deshsanchar.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/deshsanchar_com-_-2022_08_02_14_25_53.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/deshsanchar_com-_-2022_08_02_14_25_53.report.json",
+      "summary": {
+        "performance": 0.35,
+        "accessibility": 0.95,
+        "best-practices": 0.75,
+        "seo": 0.87,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://deshsanchar.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/deshsanchar_com-_-2022_08_02_14_25_38.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/deshsanchar_com-_-2022_08_02_14_25_38.report.json",
+      "summary": {
+        "performance": 0.31,
+        "accessibility": 0.95,
+        "best-practices": 0.75,
+        "seo": 0.87,
+        "pwa": 0.4
+      }
+    }
+  ],
   "dir": "/8/items/deshsanchar1-2022",
   "files": [
     {
@@ -952,31 +993,61 @@
       "sha1": "629e638f8617f2c6361179cb1d30d068903e6db9"
     },
     {
+      "name": "deshsanchar1-2022-08-02T20:36:09.337293+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1659451871",
+      "size": "129910",
+      "md5": "d057488288f4dac834ff89de90dade8e",
+      "crc32": "974b562c",
+      "sha1": "b64bddb2c9648752020b1c25a4deaf976313e8bb",
+      "format": "JSON"
+    },
+    {
+      "name": "deshsanchar1-2022-08-02T20:36:09.337293+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659451872",
+      "size": "94579",
+      "md5": "3f7b3916b6c218765982e9e4f3c7b802",
+      "crc32": "67c8450e",
+      "sha1": "9222f698a081abb99342a0ad5309a66857887c6e",
+      "format": "JSON"
+    },
+    {
+      "name": "deshsanchar1-2022-08-02T20:36:09.337293+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1659451874",
+      "size": "1467",
+      "md5": "40139e5eb6ccda232ec2efb839cbb89c",
+      "crc32": "00196aa9",
+      "sha1": "a0debacfef282a9bce3c8593cddfa926afbb975a",
+      "format": "JSON"
+    },
+    {
       "name": "deshsanchar1-2022_archive.torrent",
       "source": "metadata",
-      "btih": "59b39f91d5140eb6c4d2a2245a566b1adecdafdc",
-      "mtime": "1659412867",
-      "size": "21067",
-      "md5": "39e8baf2faf74b18b9105d5a8ce1ef53",
-      "crc32": "5cd03a83",
-      "sha1": "f74051ecc1d1c5fb8c744797abe779bd6c5d4ea0",
+      "btih": "0c536575c487cfdf74b5c4aecd815d697734e74b",
+      "mtime": "1659451915",
+      "size": "21715",
+      "md5": "7fbc307bdac4b61a8f677e24b5df547f",
+      "crc32": "156e5100",
+      "sha1": "5ec33b5dba75eb3f293bae5804a2a007778aa396",
       "format": "Archive BitTorrent"
     },
     {
       "name": "deshsanchar1-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fe523f5dc2c69ba0ba6d9518862ddeac",
+      "md5": "19dead94c19193d072bdb0d3dbd54c35",
       "summation": "md5"
     },
     {
       "name": "deshsanchar1-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659410080",
-      "size": "135168",
-      "md5": "2061db96c0272c5de9ab6d281d50fa1f",
-      "crc32": "aab946d6",
-      "sha1": "10df255336609224f253ebdcc6667c2f6770d707",
+      "mtime": "1659451878",
+      "size": "139264",
+      "md5": "bb8d637fa7eaea4a00c1dbd581e2b00b",
+      "crc32": "014060bf",
+      "sha1": "0210d88377762d39274dc74941fca41e62262165",
       "format": "Metadata"
     },
     {
@@ -990,9 +1061,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 95,
-  "item_last_updated": 1659412867,
-  "item_size": 8670912,
+  "files_count": 98,
+  "item_last_updated": 1659451915,
+  "item_size": 8901612,
   "metadata": {
     "identifier": "deshsanchar1-2022",
     "collection": [
@@ -1009,10 +1080,10 @@
     "publicdate": "2022-07-24 20:37:44",
     "addeddate": "2022-07-24 20:37:44"
   },
-  "server": "ia801508.us.archive.org",
-  "uniq": 1110632103,
+  "server": "ia601508.us.archive.org",
+  "uniq": 1008474695,
   "workable_servers": [
-    "ia801508.us.archive.org",
-    "ia601508.us.archive.org"
+    "ia601508.us.archive.org",
+    "ia801508.us.archive.org"
   ]
 }

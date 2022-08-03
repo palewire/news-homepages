@@ -1,5 +1,5 @@
 {
-  "created": 1659413437,
+  "created": 1659487273,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/24/items/michigandaily-2022",
@@ -796,31 +796,83 @@
       "sha1": "78cc3ad50cd1254d8d0aa36661dc82070184fb23"
     },
     {
+      "name": "michigandaily-2022-08-02T10:59:28.875507-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659452373",
+      "size": "26168",
+      "md5": "77aec1cc54d992d4678ed064cea9fa3a",
+      "crc32": "95df0ac5",
+      "sha1": "bbd4e996433e5a8b1505de2288bacf197d2093b6",
+      "format": "JSON"
+    },
+    {
+      "name": "michigandaily-2022-08-02T10:59:28.875507-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659452375",
+      "size": "30781",
+      "md5": "3e4982ae862864407ee74b2734cbeb97",
+      "crc32": "b70eda4f",
+      "sha1": "e3efb837ae9ad0194f14cc6bfef5f3bbfca54d1f",
+      "format": "JSON"
+    },
+    {
+      "name": "michigandaily-2022-08-02T10:59:28.875507-04:00.jpg",
+      "source": "original",
+      "mtime": "1659452372",
+      "size": "217297",
+      "md5": "4c2a827ec203e462330291d14ce0c02e",
+      "crc32": "9645c578",
+      "sha1": "4566b826be653c3bc26fcfd08a0635ea6e0919e0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "michigandaily-2022-08-02T10:59:28.875507-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659452377",
+      "size": "1510",
+      "md5": "0b648b09d6ac69e1c8bf8f302099d524",
+      "crc32": "e00a43f2",
+      "sha1": "53c6d473a256460eca39f2a3951adc8f886c4d23",
+      "format": "JSON"
+    },
+    {
+      "name": "michigandaily-2022-08-02T10:59:28.875507-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "michigandaily-2022-08-02T10:59:28.875507-04:00.jpg",
+      "mtime": "1659472221",
+      "size": "8540",
+      "md5": "c8348f1933c612213ee5e8bf30404847",
+      "crc32": "82f13a82",
+      "sha1": "9904363a8d9a0c342162647e3cef34ffcf93b41c"
+    },
+    {
       "name": "michigandaily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "91b862b205365789c38c5470d8e7cb4632b37448",
-      "mtime": "1659413401",
-      "size": "17813",
-      "md5": "1b3a86c1ddcf2362be1b5eb2a31940e2",
-      "crc32": "a8f0f34c",
-      "sha1": "ea239f5d863b74c1d5646589b53d5c44a2ba34b9",
+      "btih": "6fed4f8a5764cb64482df4adf275f9532f629fde",
+      "mtime": "1659472231",
+      "size": "18897",
+      "md5": "361070c02eb1cb75cd4ac058b7282c29",
+      "crc32": "38880523",
+      "sha1": "86959f12ad131e377cbd2b956f60c022c88db9bb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "michigandaily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c24e3574a8199cae9206bb2da5c7f145",
+      "md5": "d92b6eb5e666ed1912451591e3db1589",
       "summation": "md5"
     },
     {
       "name": "michigandaily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659410496",
-      "size": "110592",
-      "md5": "1c20574dd7d2f6874b1587bc465bee29",
-      "crc32": "a9a6ac31",
-      "sha1": "d9a38800b6cb32a92272cec7c507f48c829bb939",
+      "mtime": "1659452383",
+      "size": "126976",
+      "md5": "87172996b602aa5844969425fd34912b",
+      "crc32": "459f8132",
+      "sha1": "699098faf802fa8162947fea68cc8fe6471b5405",
       "format": "Metadata"
     },
     {
@@ -834,9 +886,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 80,
-  "item_last_updated": 1659413401,
-  "item_size": 5256823,
+  "files_count": 85,
+  "item_last_updated": 1659472231,
+  "item_size": 5558587,
   "metadata": {
     "identifier": "michigandaily-2022",
     "collection": [
@@ -853,10 +905,51 @@
     "publicdate": "2022-07-26 02:47:30",
     "addeddate": "2022-07-26 02:47:30"
   },
-  "server": "ia601409.us.archive.org",
-  "uniq": 803641597,
+  "michigandaily-2022": [
+    {
+      "url": "https://www.michigandaily.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_michigandaily_com-_-2022_08_02_14_38_12.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_michigandaily_com-_-2022_08_02_14_38_12.report.json",
+      "summary": {
+        "performance": 0.31,
+        "accessibility": 0.68,
+        "best-practices": 1,
+        "seo": 0.9,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.michigandaily.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_michigandaily_com-_-2022_08_02_14_38_31.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_michigandaily_com-_-2022_08_02_14_38_31.report.json",
+      "summary": {
+        "performance": 0.48,
+        "accessibility": 0.68,
+        "best-practices": 1,
+        "seo": 0.9,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.michigandaily.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_michigandaily_com-_-2022_08_02_14_37_55.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_michigandaily_com-_-2022_08_02_14_37_55.report.json",
+      "summary": {
+        "performance": 0.42,
+        "accessibility": 0.68,
+        "best-practices": 1,
+        "seo": 0.9,
+        "pwa": 0.4
+      }
+    }
+  ],
+  "server": "ia801409.us.archive.org",
+  "uniq": 336597146,
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia801409.us.archive.org",
+    "ia601409.us.archive.org"
   ]
 }

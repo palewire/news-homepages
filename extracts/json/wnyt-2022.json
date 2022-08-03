@@ -1,5 +1,5 @@
 {
-  "created": 1659444265,
+  "created": 1659468312,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/24/items/wnyt-2022",
@@ -68,31 +68,83 @@
       "sha1": "a50491007d7a4ff60a75344fe65025686db93d4f"
     },
     {
+      "name": "wnyt-2022-08-02T09:48:17.347675-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659448100",
+      "size": "17560",
+      "md5": "28a0e6c06fff884c574995ca49c54d7c",
+      "crc32": "0fd10838",
+      "sha1": "2aff9833ce0c810121fd4f5014d469826cee8e4f",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyt-2022-08-02T09:48:17.347675-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659448102",
+      "size": "24094",
+      "md5": "36de8df41c416b007ad713fc31b033df",
+      "crc32": "1049f92d",
+      "sha1": "c6c9cc2ac88a357e7b92637f636362e003ea77b3",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyt-2022-08-02T09:48:17.347675-04:00.jpg",
+      "source": "original",
+      "mtime": "1659448098",
+      "size": "257031",
+      "md5": "ef60b4e6fddf1256359f52941875bd80",
+      "crc32": "3d7a5deb",
+      "sha1": "660d4e0d510c19a708ba2d2190304c0f2e72c492",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wnyt-2022-08-02T09:48:17.347675-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659448104",
+      "size": "1405",
+      "md5": "63eb1a818defb821a9944d5c3a00f4bc",
+      "crc32": "bc0c6b03",
+      "sha1": "99b4053f7a12ef6e274ef7a82524c69d2b20d5b9",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyt-2022-08-02T09:48:17.347675-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wnyt-2022-08-02T09:48:17.347675-04:00.jpg",
+      "mtime": "1659468142",
+      "size": "9315",
+      "md5": "23552ba83f24e3211e528fecabe427f5",
+      "crc32": "5f402505",
+      "sha1": "75a09c01808c1b0e8d62b15f6118428da0f0bfea"
+    },
+    {
       "name": "wnyt-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b27810336ac68c563be24ca2c56041da81bc94df",
-      "mtime": "1659407689",
-      "size": "2607",
-      "md5": "c500d1b884d581ed9151c4e8c83645a9",
-      "crc32": "45670af2",
-      "sha1": "d2673b71c082c67184c3bc03874e9746a8ee8e24",
+      "btih": "5c845af80d6e3396ecc4512985bc8c81de5acfc4",
+      "mtime": "1659468181",
+      "size": "3646",
+      "md5": "2523f0f31274ddf3e2548a0bdda4cd28",
+      "crc32": "248e7925",
+      "sha1": "100228d4df32cb1a857125d326e8eb9e638f12c6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wnyt-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "62da00e434669af812746ca2be8db6cf",
+      "md5": "e654559305731214029a18f26aa05dcf",
       "summation": "md5"
     },
     {
       "name": "wnyt-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659405872",
-      "size": "28672",
-      "md5": "fbe5a2ae8bfa7d3549488d6ecf01f144",
-      "crc32": "1b6ff1c3",
-      "sha1": "46c0fc751808177df320428678d95cbee157b5cc",
+      "mtime": "1659448108",
+      "size": "32768",
+      "md5": "583d7a7599f43ddc713b2598b3bc10b6",
+      "crc32": "5a51b983",
+      "sha1": "cbe7ae867283f43b84938d3194670b697e13b064",
       "format": "Metadata"
     },
     {
@@ -106,9 +158,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 10,
-  "item_last_updated": 1659407689,
-  "item_size": 350868,
+  "files_count": 15,
+  "item_last_updated": 1659468181,
+  "item_size": 665408,
   "metadata": {
     "identifier": "wnyt-2022",
     "collection": [
@@ -125,51 +177,10 @@
     "publicdate": "2022-08-02 02:04:24",
     "addeddate": "2022-08-02 02:04:24"
   },
-  "server": "ia801508.us.archive.org",
-  "uniq": 1603734086,
-  "wnyt-2022": [
-    {
-      "url": "https://wnyt.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/wnyt_com-_-2022_08_02_01_40_59.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/wnyt_com-_-2022_08_02_01_40_59.report.json",
-      "summary": {
-        "performance": 0.22,
-        "accessibility": 0.78,
-        "best-practices": 0.83,
-        "seo": 0.86,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://wnyt.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/wnyt_com-_-2022_08_02_01_42_15.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/wnyt_com-_-2022_08_02_01_42_15.report.json",
-      "summary": {
-        "performance": 0.22,
-        "accessibility": 0.78,
-        "best-practices": 0.83,
-        "seo": 0.86,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://wnyt.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/wnyt_com-_-2022_08_02_01_43_18.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/wnyt_com-_-2022_08_02_01_43_18.report.json",
-      "summary": {
-        "performance": 0.23,
-        "accessibility": 0.78,
-        "best-practices": 0.83,
-        "seo": 0.86,
-        "pwa": 0.4
-      }
-    }
-  ],
+  "server": "ia601508.us.archive.org",
+  "uniq": 288686879,
   "workable_servers": [
-    "ia801508.us.archive.org",
-    "ia601508.us.archive.org"
+    "ia601508.us.archive.org",
+    "ia801508.us.archive.org"
   ]
 }

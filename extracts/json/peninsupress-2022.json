@@ -1,5 +1,6 @@
 {
-  "created": 1659443280,
+  "conflict": 1659487320,
+  "created": 1659487320,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/27/items/peninsupress-2022",
@@ -3920,15 +3921,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350489808,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "task_id": 3350943373,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 1323732779,
+  "uniq": 1555165817,
   "workable_servers": [
     "ia601404.us.archive.org"
   ]

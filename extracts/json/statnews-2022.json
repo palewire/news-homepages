@@ -1,5 +1,5 @@
 {
-  "created": 1659444014,
+  "created": 1659487467,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/6/items/statnews-2022",
@@ -1066,31 +1066,83 @@
       "sha1": "75522e7f4090daede7961d35ec218f46fc01a76a"
     },
     {
+      "name": "statnews-2022-08-02T12:19:41.237961-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659457185",
+      "size": "31236",
+      "md5": "fca2a2b936a0b6aa10a1adecc7119a84",
+      "crc32": "85f1327d",
+      "sha1": "573fc43fa3a1670b03acd9fa5e52c31a45529cfc",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-08-02T12:19:41.237961-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659457187",
+      "size": "33318",
+      "md5": "d44289292f5e109e7ba9c744c143cbdc",
+      "crc32": "09009939",
+      "sha1": "c5b080399a57d1a71a447cabb8fd86e2cabbe925",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-08-02T12:19:41.237961-04:00.jpg",
+      "source": "original",
+      "mtime": "1659457183",
+      "size": "271275",
+      "md5": "c95b6d33a7d32b3e1c29786d554c5474",
+      "crc32": "024ed556",
+      "sha1": "38afb2445140bfa469f36f0c5285d94372e81983",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "statnews-2022-08-02T12:19:41.237961-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659457189",
+      "size": "1477",
+      "md5": "30132f35b0c9032ee7a177d6bbf98b9a",
+      "crc32": "2baf72ed",
+      "sha1": "c9a291254f485c67c02af6b14ce9c80992872572",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-08-02T12:19:41.237961-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "statnews-2022-08-02T12:19:41.237961-04:00.jpg",
+      "mtime": "1659477400",
+      "size": "10106",
+      "md5": "2785cb50dc311a51645cf75aa8009074",
+      "crc32": "fcd6002d",
+      "sha1": "6e81fcc3721a28c91750b916f4d16b9c096c8949"
+    },
+    {
       "name": "statnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ce71d7e2c4b3d62f1a48912dabd2062bfb254531",
-      "mtime": "1659419621",
-      "size": "22887",
-      "md5": "2f0020e9183d8c27bf166afd0b095a80",
-      "crc32": "73d49abc",
-      "sha1": "fcdc9bf61b27156ddd0f766eedacaf505973d157",
+      "btih": "d9c7a07556e3c80da3455e27abc3148686dc2fd4",
+      "mtime": "1659477406",
+      "size": "23947",
+      "md5": "fc1b47fc2dfc8039f4ed11d18e9df251",
+      "crc32": "510ed3c5",
+      "sha1": "9d685d7c8d8ba9436f3549831503c25605618323",
       "format": "Archive BitTorrent"
     },
     {
       "name": "statnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a132f9f23ed75ef3aed9555d4b336a86",
+      "md5": "6a2e67d4ba175b120f93bb6bbf424cac",
       "summation": "md5"
     },
     {
       "name": "statnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659414403",
-      "size": "147456",
-      "md5": "b233e12a5379d9f3be6c0c3c4de6c7d8",
-      "crc32": "19ef797a",
-      "sha1": "cca0e383e914c236bd166761ce8843536bdca451",
+      "mtime": "1659457193",
+      "size": "155648",
+      "md5": "7fd8245b9bfc97435eb0eb79b2d90013",
+      "crc32": "06a2fc64",
+      "sha1": "c5e7cc9d22e5f755495d76b788282bbb8101f1ae",
       "format": "Metadata"
     },
     {
@@ -1104,9 +1156,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 106,
-  "item_last_updated": 1659419621,
-  "item_size": 7286689,
+  "files_count": 111,
+  "item_last_updated": 1659477406,
+  "item_size": 7643353,
   "metadata": {
     "identifier": "statnews-2022",
     "collection": [
@@ -1128,10 +1180,10 @@
     {
       "url": "https://www.statnews.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_statnews_com-_-2022_08_02_04_04_13.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_statnews_com-_-2022_08_02_04_04_13.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_statnews_com-_-2022_08_02_15_51_53.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_statnews_com-_-2022_08_02_15_51_53.report.json",
       "summary": {
-        "performance": 0.3,
+        "performance": 0.21,
         "accessibility": 0.89,
         "best-practices": 0.92,
         "seo": 0.91,
@@ -1141,8 +1193,8 @@
     {
       "url": "https://www.statnews.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_statnews_com-_-2022_08_02_04_04_49.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_statnews_com-_-2022_08_02_04_04_49.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_statnews_com-_-2022_08_02_15_52_13.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_statnews_com-_-2022_08_02_15_52_13.report.json",
       "summary": {
         "performance": 0.32,
         "accessibility": 0.89,
@@ -1154,8 +1206,8 @@
     {
       "url": "https://www.statnews.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_statnews_com-_-2022_08_02_04_04_32.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_statnews_com-_-2022_08_02_04_04_32.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_statnews_com-_-2022_08_02_15_52_30.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_statnews_com-_-2022_08_02_15_52_30.report.json",
       "summary": {
         "performance": 0.31,
         "accessibility": 0.89,
@@ -1165,7 +1217,7 @@
       }
     }
   ],
-  "uniq": 1539458875,
+  "uniq": 663898380,
   "workable_servers": [
     "ia601507.us.archive.org",
     "ia801507.us.archive.org"

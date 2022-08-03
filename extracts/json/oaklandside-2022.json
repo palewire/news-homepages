@@ -1,5 +1,5 @@
 {
-  "created": 1659443240,
+  "created": 1659487287,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/30/items/oaklandside-2022",
@@ -9969,31 +9969,83 @@
       "format": "JSON"
     },
     {
+      "name": "oaklandside-2022-08-02T05:26:13.985523-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oaklandside-2022-08-02T05:26:13.985523-07:00.jpg",
+      "mtime": "1659462800",
+      "size": "10597",
+      "md5": "00de7a84917172bb83ed06943bfa9d43",
+      "crc32": "bff519c2",
+      "sha1": "e807d94b3dd62285d3182bf7c1735b194155d2ae"
+    },
+    {
+      "name": "oaklandside-2022-08-02T17:40:25.144311-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659487231",
+      "size": "29560",
+      "md5": "d26c6393b730098abccd31ecadd1152d",
+      "crc32": "17fbcfec",
+      "sha1": "757790df36a9682e47e43aabe570264afbf8daec",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-08-02T17:40:25.144311-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659487232",
+      "size": "27554",
+      "md5": "ffac616c80b0d891cb977f466ae46899",
+      "crc32": "be0b6f58",
+      "sha1": "25f1282dd68334e43c20ec1ce51b49077f919f86",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-08-02T17:40:25.144311-07:00.jpg",
+      "source": "original",
+      "mtime": "1659487229",
+      "size": "279516",
+      "md5": "c648fc31cc91a4117cac42f58495801f",
+      "crc32": "2ce569d0",
+      "sha1": "b2f8bc805f3bf0019c8d411cc1b2a2f07375582b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oaklandside-2022-08-02T17:40:25.144311-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659487234",
+      "size": "1468",
+      "md5": "cc78e74dc24051f7303bf3acf61c29e7",
+      "crc32": "82247c01",
+      "sha1": "85c3a5b84a426b826f471e5ef5d075b6649d5b9b",
+      "format": "JSON"
+    },
+    {
       "name": "oaklandside-2022_archive.torrent",
       "source": "metadata",
-      "btih": "adfeb689b3d116a3976105bf60abec608118abdd",
-      "mtime": "1659443235",
-      "size": "204818",
-      "md5": "00d3ff36cf38832d530dbdd6478b7fc3",
-      "crc32": "e9d486ca",
-      "sha1": "a51b3f5504fbdafbc3d555ce74db2d854da9433c",
+      "btih": "aa76f22d6988fbaf865bd899190250392ee6e5e2",
+      "mtime": "1659487282",
+      "size": "205893",
+      "md5": "1a43b35e08cd89dfc71515a9da4529b3",
+      "crc32": "068ffe20",
+      "sha1": "a894f8e8c1082f060dd44ac315d930a1d1e2312b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "oaklandside-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b357c09eec0676a3f56bd97844b17b11",
+      "md5": "0cb98a7a874a391677b8d612af7a0766",
       "summation": "md5"
     },
     {
       "name": "oaklandside-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659443190",
-      "size": "1105920",
-      "md5": "5256c848af78e2ee54b46c834611f7de",
-      "crc32": "3b66dffc",
-      "sha1": "7955f6b3cdc015ed91870d872ee006aba5b702b6",
+      "mtime": "1659487239",
+      "size": "1114112",
+      "md5": "3adeaa060470100d819ded846d1d29d5",
+      "crc32": "74b2f65f",
+      "sha1": "da860c295c1467a685f8172e8664ae0a7e5ff024",
       "format": "Metadata"
     },
     {
@@ -10007,9 +10059,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 953,
-  "item_last_updated": 1659443235,
-  "item_size": 99517757,
+  "files_count": 958,
+  "item_last_updated": 1659487282,
+  "item_size": 99875719,
   "metadata": {
     "identifier": "oaklandside-2022",
     "collection": [
@@ -10031,7 +10083,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350489433,
+      "task_id": 3350942997,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -10039,7 +10091,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1090796723,
+  "uniq": 731524221,
   "workable_servers": [
     "ia902503.us.archive.org"
   ]

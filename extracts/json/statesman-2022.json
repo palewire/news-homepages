@@ -1,5 +1,5 @@
 {
-  "created": 1659419681,
+  "created": 1659477472,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/28/items/statesman-2022",
@@ -1540,31 +1540,83 @@
       "sha1": "d564d9a4d5f9f8d331eeda99707e3e188fee83f6"
     },
     {
+      "name": "statesman-2022-08-02T11:20:12.067811-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659457215",
+      "size": "21776",
+      "md5": "3481dba43bcc0d2f84f4acfb06c600ea",
+      "crc32": "07d60065",
+      "sha1": "8fbe53d3181c7a172ee2bfb6f6a750f67671e061",
+      "format": "JSON"
+    },
+    {
+      "name": "statesman-2022-08-02T11:20:12.067811-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659457217",
+      "size": "34294",
+      "md5": "454e873513b465a5e0aae7433f17104b",
+      "crc32": "160e95fb",
+      "sha1": "bace512d936fd06896c95b980246407386884bbe",
+      "format": "JSON"
+    },
+    {
+      "name": "statesman-2022-08-02T11:20:12.067811-05:00.jpg",
+      "source": "original",
+      "mtime": "1659457213",
+      "size": "293394",
+      "md5": "df1b330b53cd53b32c96b4d0781f8d0c",
+      "crc32": "472ece75",
+      "sha1": "c9179f9bdefec5eb1e01b81e917e1dc6481a7ab1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "statesman-2022-08-02T11:20:12.067811-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659457220",
+      "size": "1477",
+      "md5": "0a90a9d05ed07225cab954fff7f9b021",
+      "crc32": "5d9d9ff3",
+      "sha1": "f7f8694dea597038b8be75c57f829837b3a3722d",
+      "format": "JSON"
+    },
+    {
+      "name": "statesman-2022-08-02T11:20:12.067811-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "statesman-2022-08-02T11:20:12.067811-05:00.jpg",
+      "mtime": "1659477450",
+      "size": "9188",
+      "md5": "52932479a888c18e0abed8d859a1e8e6",
+      "crc32": "1b162943",
+      "sha1": "43cb77b1d5471d6c95bd07a966d7dab6dba70f3b"
+    },
+    {
       "name": "statesman-2022_archive.torrent",
       "source": "metadata",
-      "btih": "57c940c1fc5fae9824099d10118a59242d52d1ba",
-      "mtime": "1659419665",
-      "size": "32470",
-      "md5": "c7a5d2b6ab1c589a661ddbd6579ce768",
-      "crc32": "c7dc0044",
-      "sha1": "8f3f91d0a1f68f0cc39b023e3ffe65788b48ac21",
+      "btih": "810eedf4d0e8b18378ecb635106c2365cc4da1bb",
+      "mtime": "1659477455",
+      "size": "33534",
+      "md5": "1a2476b1b3569fbe96a865ba56685fb0",
+      "crc32": "d67b2d2f",
+      "sha1": "ad71423e635caef3632f90cf076099ce18b5f574",
       "format": "Archive BitTorrent"
     },
     {
       "name": "statesman-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "73b29e5efdcf7aed95fa4a8160702dd2",
+      "md5": "e933fe4db1a23854265a76099f4a7084",
       "summation": "md5"
     },
     {
       "name": "statesman-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659414443",
-      "size": "196608",
-      "md5": "b167b3b0b46e85d9f09971b96cbf12a8",
-      "crc32": "4a57e277",
-      "sha1": "66f11736c053da275b4386c7486388c0c404d7eb",
+      "mtime": "1659457224",
+      "size": "204800",
+      "md5": "040da9de1b781514412b14b9dedf16d4",
+      "crc32": "d68257e5",
+      "sha1": "89522d32902b394ca9cf08cb96788d48d21df37d",
       "format": "Metadata"
     },
     {
@@ -1578,9 +1630,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 151,
-  "item_last_updated": 1659419665,
-  "item_size": 10426014,
+  "files_count": 156,
+  "item_last_updated": 1659477455,
+  "item_size": 10795399,
   "metadata": {
     "identifier": "statesman-2022",
     "collection": [
@@ -1597,10 +1649,10 @@
     "publicdate": "2022-07-18 00:05:33",
     "addeddate": "2022-07-18 00:05:33"
   },
-  "server": "ia802502.us.archive.org",
-  "uniq": 1620391307,
+  "server": "ia902502.us.archive.org",
+  "uniq": 1266136615,
   "workable_servers": [
-    "ia802502.us.archive.org",
-    "ia902502.us.archive.org"
+    "ia902502.us.archive.org",
+    "ia802502.us.archive.org"
   ]
 }

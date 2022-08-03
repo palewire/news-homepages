@@ -1,5 +1,6 @@
 {
-  "created": 1659443315,
+  "conflict": 1659487344,
+  "created": 1659487344,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/19/items/politifact-2022",
@@ -4153,21 +4154,32 @@
       "format": "JSON"
     },
     {
+      "name": "politifact-2022-08-02T08:27:38.041416-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "politifact-2022-08-02T08:27:38.041416-04:00.jpg",
+      "mtime": "1659462873",
+      "size": "9102",
+      "md5": "528fe1f45bbbea818d330203ace438c5",
+      "crc32": "ddbe1848",
+      "sha1": "f5809f2ce791e45caa8d79f78ce81fd70bb23ec4"
+    },
+    {
       "name": "politifact-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c7b7fa27c38a6cf0c0081ba32ec157e52d5a32db",
-      "mtime": "1659443310",
-      "size": "85318",
-      "md5": "7fd4a1bdda932a18a52cabb95c7a7506",
-      "crc32": "4cc3c3e9",
-      "sha1": "b5a9b90f8ababfc80386cb732d3cdc7779d88337",
+      "btih": "3ec565e3f1a72dabbd2fdae99ce9cdd3a448a245",
+      "mtime": "1659462882",
+      "size": "85524",
+      "md5": "5bd42751418c9c875116110af2ef0f95",
+      "crc32": "64fd2a8f",
+      "sha1": "1069f742e60d4ce05e73f496a870ec73e58e01a9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "politifact-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "11991d88f3d8206687443024c88960ed",
+      "md5": "88f46782558ab6d5090e52992b523c13",
       "summation": "md5"
     },
     {
@@ -4191,9 +4203,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 400,
-  "item_last_updated": 1659443310,
-  "item_size": 25481968,
+  "files_count": 401,
+  "item_last_updated": 1659462882,
+  "item_size": 25491276,
   "metadata": {
     "identifier": "politifact-2022",
     "collection": [
@@ -4215,15 +4227,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350490212,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "task_id": 3350943628,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 609104619,
+  "uniq": 2093790428,
   "workable_servers": [
     "ia601407.us.archive.org"
   ]

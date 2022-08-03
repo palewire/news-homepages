@@ -1,5 +1,5 @@
 {
-  "created": 1659444232,
+  "created": 1659487608,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/27/items/wbur-2022",
@@ -474,31 +474,83 @@
       "sha1": "371172531803dfc88e15f0cc82a4e8f18f171fbf"
     },
     {
+      "name": "wbur-2022-08-02T09:47:10.695537-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659448034",
+      "size": "23770",
+      "md5": "b4bbe71e576a6ccf6d4d8e0108160a6d",
+      "crc32": "8ee8ec22",
+      "sha1": "39a6fd583d0ff3d5bb4a46e63dbe690d3d58e3f6",
+      "format": "JSON"
+    },
+    {
+      "name": "wbur-2022-08-02T09:47:10.695537-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659448035",
+      "size": "19048",
+      "md5": "ab0ab630478992b11b70366d77e53290",
+      "crc32": "d2f9d4a2",
+      "sha1": "83e31afffe9eb0be6934bb6e7ff9be0251f33a16",
+      "format": "JSON"
+    },
+    {
+      "name": "wbur-2022-08-02T09:47:10.695537-04:00.jpg",
+      "source": "original",
+      "mtime": "1659448032",
+      "size": "272237",
+      "md5": "c9c3ae387e44e055d3baf556f9182203",
+      "crc32": "1b563cdd",
+      "sha1": "021100a0020a2ed80e42e26cd7109e831af3b319",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wbur-2022-08-02T09:47:10.695537-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659448037",
+      "size": "1440",
+      "md5": "15db5c2a75bf95e92bd58b84da47c595",
+      "crc32": "3558d8c8",
+      "sha1": "7668ad47699e8d7623afb1f7a7e4e69e83774b19",
+      "format": "JSON"
+    },
+    {
+      "name": "wbur-2022-08-02T09:47:10.695537-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wbur-2022-08-02T09:47:10.695537-04:00.jpg",
+      "mtime": "1659468149",
+      "size": "10130",
+      "md5": "b864151dba3a10f9fa69ef384cfb2402",
+      "crc32": "a22b831c",
+      "sha1": "7d3681be2c8991f503d6b3e6a35dc20e7f7b6b09"
+    },
+    {
       "name": "wbur-2022_archive.torrent",
       "source": "metadata",
-      "btih": "66097dbe5237c2c607e82cbf77d274b839325716",
-      "mtime": "1659407569",
-      "size": "10654",
-      "md5": "a5c3081fbf28a139a330545729338e33",
-      "crc32": "b5b7010d",
-      "sha1": "5622d7059f2ebc95431e26e82418af940d327a93",
+      "btih": "db590bfcfc0b298a10430d406517d0b78de55797",
+      "mtime": "1659468203",
+      "size": "11694",
+      "md5": "ed201d24bf77efa01d720e0b260d7a69",
+      "crc32": "b025d618",
+      "sha1": "fb218fe255fe12bbfe457140ff733e115bb00da6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wbur-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bbe2f18905e19881855526872ef747d2",
+      "md5": "74c7bfa31146b55127c4af635455ed88",
       "summation": "md5"
     },
     {
       "name": "wbur-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659405772",
-      "size": "69632",
-      "md5": "e054f01980c9fc801297a7efa9189096",
-      "crc32": "a3cf67f6",
-      "sha1": "b738f1037a66bfa237d0267cf2d78254061cc5b1",
+      "mtime": "1659448040",
+      "size": "73728",
+      "md5": "2da54c3e00f2a2264e09181b1a9308cd",
+      "crc32": "f0f3706b",
+      "sha1": "1903f019c0f77e42696ab87741ed967cef7f60fe",
       "format": "Metadata"
     },
     {
@@ -512,9 +564,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 49,
-  "item_last_updated": 1659407569,
-  "item_size": 3085451,
+  "files_count": 54,
+  "item_last_updated": 1659468203,
+  "item_size": 3417212,
   "metadata": {
     "identifier": "wbur-2022",
     "collection": [
@@ -532,15 +584,15 @@
     "addeddate": "2022-07-29 01:30:31"
   },
   "server": "ia601401.us.archive.org",
-  "uniq": 289428816,
+  "uniq": 1575191681,
   "wbur-2022": [
     {
       "url": "https://www.wbur.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wbur_org-_-2022_08_02_01_39_21.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wbur_org-_-2022_08_02_01_39_21.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wbur_org-_-2022_08_02_13_31_32.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wbur_org-_-2022_08_02_13_31_32.report.json",
       "summary": {
-        "performance": 0.26,
+        "performance": 0.19,
         "accessibility": 0.63,
         "best-practices": 0.92,
         "seo": 0.78,
@@ -550,10 +602,10 @@
     {
       "url": "https://www.wbur.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wbur_org-_-2022_08_02_01_40_26.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wbur_org-_-2022_08_02_01_40_26.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wbur_org-_-2022_08_02_13_31_47.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wbur_org-_-2022_08_02_13_31_47.report.json",
       "summary": {
-        "performance": 0.53,
+        "performance": 0.2,
         "accessibility": 0.63,
         "best-practices": 0.92,
         "seo": 0.78,
@@ -563,10 +615,10 @@
     {
       "url": "https://www.wbur.org/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wbur_org-_-2022_08_02_01_38_20.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wbur_org-_-2022_08_02_01_38_20.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wbur_org-_-2022_08_02_13_32_02.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wbur_org-_-2022_08_02_13_32_02.report.json",
       "summary": {
-        "performance": 0.41,
+        "performance": 0.28,
         "accessibility": 0.63,
         "best-practices": 0.92,
         "seo": 0.78,

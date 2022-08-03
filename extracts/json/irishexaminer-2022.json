@@ -1,5 +1,5 @@
 {
-  "created": 1659413322,
+  "created": 1659472292,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/31/items/irishexaminer-2022",
@@ -1508,31 +1508,83 @@
       "sha1": "8244c2a4369cf7a444495a99d25b488d944e1422"
     },
     {
+      "name": "irishexaminer-2022-08-02T15:55:17.065419+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659452120",
+      "size": "32810",
+      "md5": "002f174e51fb1b8c41258ef9cf2fdaff",
+      "crc32": "cb9341f2",
+      "sha1": "0427c16f43c4737fe76ed73f526343d842617253",
+      "format": "JSON"
+    },
+    {
+      "name": "irishexaminer-2022-08-02T15:55:17.065419+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659452122",
+      "size": "30710",
+      "md5": "1a68d1df9eae21cb68df47bfb5840831",
+      "crc32": "2015e106",
+      "sha1": "981ebba8b0a4f4844b02fb9667a3837995df928c",
+      "format": "JSON"
+    },
+    {
+      "name": "irishexaminer-2022-08-02T15:55:17.065419+01:00.jpg",
+      "source": "original",
+      "mtime": "1659452119",
+      "size": "323583",
+      "md5": "f36bd4982f3a6ec874ec5570a0d1198d",
+      "crc32": "2e937e73",
+      "sha1": "add05cc1602b1852cafbc8a94c40bc10cd4c8d35",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "irishexaminer-2022-08-02T15:55:17.065419+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659452123",
+      "size": "1513",
+      "md5": "0c9959d9b05bb9d2376d2ec4aa287db5",
+      "crc32": "bb07c800",
+      "sha1": "aafecaf12ff50b7e0e4da42de818d628223a653b",
+      "format": "JSON"
+    },
+    {
+      "name": "irishexaminer-2022-08-02T15:55:17.065419+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "irishexaminer-2022-08-02T15:55:17.065419+01:00.jpg",
+      "mtime": "1659471983",
+      "size": "10127",
+      "md5": "c7bd3b54a5b165afbd8e6d34ca92077c",
+      "crc32": "0e91f066",
+      "sha1": "519a4f6cafc6b7cdef63b420017fdb668d6a8966"
+    },
+    {
       "name": "irishexaminer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "14ed7aa761a731d00d51632f7a89f46b6d9080b2",
-      "mtime": "1659413199",
-      "size": "32564",
-      "md5": "d66e49baaedf3ad973ab1ce416e03271",
-      "crc32": "bcd39c52",
-      "sha1": "94fabe1b46206b25a65aa50ce76a6e8d1bbcf654",
+      "btih": "3fb26534c02a18fda8f70a7e875a5a2c7a602058",
+      "mtime": "1659472216",
+      "size": "33629",
+      "md5": "5547d4de24f59f5583d773f54840e493",
+      "crc32": "74f28f65",
+      "sha1": "89f0cbd6c80c32026b2c9d4d720214a214e3fe2a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "irishexaminer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b4fa7a12c10dc80f9b3ff9dd36b8d361",
+      "md5": "c38ef8347deab5c25a7f966dd2583fae",
       "summation": "md5"
     },
     {
       "name": "irishexaminer-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659410329",
-      "size": "196608",
-      "md5": "fc4e20c9880b357f464e3f281bdc830a",
-      "crc32": "eab5fb39",
-      "sha1": "7c51dc9f33e87f49aa3d86972ce4253544f42d29",
+      "mtime": "1659452129",
+      "size": "200704",
+      "md5": "f5d117e59543a12d143a4c205da2b458",
+      "crc32": "6c37d2a5",
+      "sha1": "b7330e1b5f65e31ff681cd536f0063505cf38638",
       "format": "Metadata"
     },
     {
@@ -1546,9 +1598,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 148,
-  "item_last_updated": 1659413199,
-  "item_size": 12148317,
+  "files_count": 153,
+  "item_last_updated": 1659472216,
+  "item_size": 12552221,
   "metadata": {
     "identifier": "irishexaminer-2022",
     "collection": [
@@ -1565,10 +1617,10 @@
     "publicdate": "2022-07-18 02:23:56",
     "addeddate": "2022-07-18 02:23:56"
   },
-  "server": "ia601509.us.archive.org",
-  "uniq": 1886776752,
+  "server": "ia801509.us.archive.org",
+  "uniq": 1650651388,
   "workable_servers": [
-    "ia601509.us.archive.org",
-    "ia801509.us.archive.org"
+    "ia801509.us.archive.org",
+    "ia601509.us.archive.org"
   ]
 }

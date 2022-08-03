@@ -1,5 +1,5 @@
 {
-  "created": 1659443049,
+  "created": 1659487129,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/4/items/miamiherald-2022",
@@ -2645,31 +2645,73 @@
       "format": "JSON"
     },
     {
+      "name": "miamiherald-2022-08-02T08:23:15.797075-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "miamiherald-2022-08-02T08:23:15.797075-04:00.jpg",
+      "mtime": "1659462277",
+      "size": "10364",
+      "md5": "84c2392785dc3a737cbc433ec6c94ab2",
+      "crc32": "9529f782",
+      "sha1": "338d4e39fa6814db445dacea37100566e2a1578d"
+    },
+    {
+      "name": "miamiherald-2022-08-02T20:38:03.666897-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659487087",
+      "size": "459",
+      "md5": "4767a3c892e4b3fab2263bb8b733a1aa",
+      "crc32": "f0d051b6",
+      "sha1": "ca7f913ecafa6280e6c0b326b5582b73bf387d48",
+      "format": "JSON"
+    },
+    {
+      "name": "miamiherald-2022-08-02T20:38:03.666897-04:00.jpg",
+      "source": "original",
+      "mtime": "1659487085",
+      "size": "271581",
+      "md5": "a7135fd0a407ffaa22c1e8bc36d8d591",
+      "crc32": "4bcc8a5b",
+      "sha1": "75eb016aebb5241e08c37acdd8bf93fb75c9f0e8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "miamiherald-2022-08-02T20:38:03.666897-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659487088",
+      "size": "1501",
+      "md5": "01ae20f7c6ba00c747713b0f63185654",
+      "crc32": "d634e3b8",
+      "sha1": "32e699c8cb083c73df6fa0363228257ba7b87013",
+      "format": "JSON"
+    },
+    {
       "name": "miamiherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8f7f79f9e4bc67154acc952638dcfb2caf781457",
-      "mtime": "1659443047",
-      "size": "54992",
-      "md5": "ed7f17d5cc9002f846ecefd68ba1e6b2",
-      "crc32": "b854725b",
-      "sha1": "11c230c80d9f06fa16a23d2d1b80dda14463589c",
+      "btih": "484399de3ce3a187cee194b25543773acd026047",
+      "mtime": "1659487127",
+      "size": "55831",
+      "md5": "56add689668a00bfd3eef374f8b4a75c",
+      "crc32": "3ea61134",
+      "sha1": "ad917bce55b7d09c79f47c9f852f9ce67722496d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "miamiherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a84dbb47afa7e67f63fe9e23cd3f72f9",
+      "md5": "6a760ccdc016589942078baef8223981",
       "summation": "md5"
     },
     {
       "name": "miamiherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659443011",
-      "size": "315392",
-      "md5": "15a96137d168a09270873721d7a5a4f4",
-      "crc32": "f52535e1",
-      "sha1": "fcde0c452513d9db37a31ac9b9e0cb94882c10bb",
+      "mtime": "1659487091",
+      "size": "319488",
+      "md5": "8a491a75dfde9e8d662ba834a625f463",
+      "crc32": "62dfc2bc",
+      "sha1": "8977dc06d8050d87e2dce4054c3c35f449e53e6b",
       "format": "Metadata"
     },
     {
@@ -2683,9 +2725,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 256,
-  "item_last_updated": 1659443047,
-  "item_size": 17919448,
+  "files_count": 260,
+  "item_last_updated": 1659487127,
+  "item_size": 18208288,
   "metadata": {
     "identifier": "miamiherald-2022",
     "collection": [
@@ -2707,7 +2749,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350487637,
+      "task_id": 3350941348,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2715,7 +2757,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1845805328,
+  "uniq": 83522558,
   "workable_servers": [
     "ia601403.us.archive.org"
   ]

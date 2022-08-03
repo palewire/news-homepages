@@ -1,5 +1,5 @@
 {
-  "created": 1659444238,
+  "created": 1659478109,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/29/items/wfaa-2022",
@@ -1550,31 +1550,83 @@
       "sha1": "72e9d54040965c9b38ff8736a79b3bf9a1ef1aab"
     },
     {
+      "name": "wfaa-2022-08-02T11:25:03.089871-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659457510",
+      "size": "7035",
+      "md5": "369dcd0c25a3a4e72beceba7bc963e50",
+      "crc32": "a92299e6",
+      "sha1": "225a17cfde05502d82c9c8e48621b28563ebbd4e",
+      "format": "JSON"
+    },
+    {
+      "name": "wfaa-2022-08-02T11:25:03.089871-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659457512",
+      "size": "75424",
+      "md5": "ba5b8c566b2899315c1c191e9ae5cdba",
+      "crc32": "3679035d",
+      "sha1": "9050d2d31c952de1f96126c3ab257ad4fd7e3191",
+      "format": "JSON"
+    },
+    {
+      "name": "wfaa-2022-08-02T11:25:03.089871-05:00.jpg",
+      "source": "original",
+      "mtime": "1659457505",
+      "size": "274866",
+      "md5": "9cae6708e5f75e692e113ac5420eca1d",
+      "crc32": "c6818754",
+      "sha1": "7d16fa173e52fc4d25c839d901d2a420f4e21f08",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wfaa-2022-08-02T11:25:03.089871-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659457513",
+      "size": "1441",
+      "md5": "4fd4059e6825695aa8d4e8d170d7f5fe",
+      "crc32": "f9a7f824",
+      "sha1": "925e5ae814d29b1f46ffba90a9e30de9f525455f",
+      "format": "JSON"
+    },
+    {
+      "name": "wfaa-2022-08-02T11:25:03.089871-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wfaa-2022-08-02T11:25:03.089871-05:00.jpg",
+      "mtime": "1659477982",
+      "size": "10084",
+      "md5": "a4cf9b5ec6dd4599819b9c338e621c1c",
+      "crc32": "24b4df7d",
+      "sha1": "aaf349e4ba71fbb7f9cf1d81803020e8868dd795"
+    },
+    {
       "name": "wfaa-2022_archive.torrent",
       "source": "metadata",
-      "btih": "298fd301ff29db06d4c4f40540f4600b4742ee41",
-      "mtime": "1659420232",
-      "size": "31909",
-      "md5": "4e1eb891a7f3e4e3828a07d7fe4abe04",
-      "crc32": "52035fe1",
-      "sha1": "aebc779fad3b82304ea94a44a7ad030847f9c07d",
+      "btih": "e7df46bb039de09176652491ca9fed1dc613e802",
+      "mtime": "1659477988",
+      "size": "32948",
+      "md5": "0fdc56d60fe888574e453a9754aa6113",
+      "crc32": "967f9c40",
+      "sha1": "80ecf119eb3a98e574a0f80202b9c651dfb501ed",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wfaa-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "04d63f0c64ecc4a83cf792a9f34bd794",
+      "md5": "891402619dbdae5e090e3025640b6544",
       "summation": "md5"
     },
     {
       "name": "wfaa-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659414674",
-      "size": "200704",
-      "md5": "42fbcd7bd2ef148d80457d1386152a24",
-      "crc32": "74f9521e",
-      "sha1": "390a7fb6214758b8192b84b4d586f620145ad368",
+      "mtime": "1659457518",
+      "size": "204800",
+      "md5": "4c5c9f428391662b175bbeff67f0b91e",
+      "crc32": "ef4b9cd9",
+      "sha1": "05d4bd4b853a3ad9be91c3ddac63b95cae857404",
       "format": "Metadata"
     },
     {
@@ -1588,9 +1640,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 152,
-  "item_last_updated": 1659420232,
-  "item_size": 11423277,
+  "files_count": 157,
+  "item_last_updated": 1659477988,
+  "item_size": 11797262,
   "metadata": {
     "identifier": "wfaa-2022",
     "collection": [
@@ -1608,48 +1660,7 @@
     "addeddate": "2022-07-18 00:06:04"
   },
   "server": "ia601500.us.archive.org",
-  "uniq": 1720512836,
-  "wfaa-2022": [
-    {
-      "url": "https://www.wfaa.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wfaa_com-_-2022_08_02_04_10_43.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wfaa_com-_-2022_08_02_04_10_43.report.json",
-      "summary": {
-        "performance": 0.3,
-        "accessibility": 0.81,
-        "best-practices": 0.67,
-        "seo": 0.79,
-        "pwa": 0.5
-      }
-    },
-    {
-      "url": "https://www.wfaa.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wfaa_com-_-2022_08_02_04_11_50.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wfaa_com-_-2022_08_02_04_11_50.report.json",
-      "summary": {
-        "performance": 0.1,
-        "accessibility": 0.83,
-        "best-practices": 0.67,
-        "seo": 0.78,
-        "pwa": 0.5
-      }
-    },
-    {
-      "url": "https://www.wfaa.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wfaa_com-_-2022_08_02_04_12_17.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wfaa_com-_-2022_08_02_04_12_17.report.json",
-      "summary": {
-        "performance": 0.1,
-        "accessibility": 0.83,
-        "best-practices": 0.83,
-        "seo": 0.78,
-        "pwa": 0.5
-      }
-    }
-  ],
+  "uniq": 316496889,
   "workable_servers": [
     "ia601500.us.archive.org",
     "ia801500.us.archive.org"

@@ -1,5 +1,6 @@
 {
-  "created": 1659443255,
+  "conflict": 1659487298,
+  "created": 1659487298,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/17/items/ottumwacourier-2022",
@@ -3985,21 +3986,32 @@
       "format": "JSON"
     },
     {
+      "name": "ottumwacourier-2022-08-02T07:26:29.771001-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ottumwacourier-2022-08-02T07:26:29.771001-05:00.jpg",
+      "mtime": "1659462881",
+      "size": "10580",
+      "md5": "77be4b6fa521bd34ba2ea6d58647c227",
+      "crc32": "aa72c464",
+      "sha1": "7c23c99d2b8161a134791eaf7d2b961822e3ae0e"
+    },
+    {
       "name": "ottumwacourier-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7f8770f2909d748dbcdeb21a627e9de1a141bac1",
-      "mtime": "1659443251",
-      "size": "83377",
-      "md5": "020c2dfb9fcbac8a06f7c75a4c7e6dbf",
-      "crc32": "14b2c71f",
-      "sha1": "989a56a314a52de2049a89d5923ec7fa60af7907",
+      "btih": "9d7d2b01dc1076cf77b3a208257090a620910555",
+      "mtime": "1659462963",
+      "size": "83588",
+      "md5": "99f3d3d0e19d7170aa146cabd1ec5cf4",
+      "crc32": "d8f4f313",
+      "sha1": "5f655e096709a64f07429da4aa0e6620fb330a00",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ottumwacourier-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bbe2ff8b565443e6b50d2c75f3535161",
+      "md5": "7a043697657819a6060eafd0b0acce08",
       "summation": "md5"
     },
     {
@@ -4023,9 +4035,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 381,
-  "item_last_updated": 1659443251,
-  "item_size": 45977196,
+  "files_count": 382,
+  "item_last_updated": 1659462963,
+  "item_size": 45987987,
   "metadata": {
     "identifier": "ottumwacourier-2022",
     "collection": [
@@ -4047,15 +4059,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350489588,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "task_id": 3350943090,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 831134680,
+  "uniq": 484799478,
   "workable_servers": [
     "ia902501.us.archive.org"
   ]

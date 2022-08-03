@@ -1,5 +1,5 @@
 {
-  "created": 1659426376,
+  "created": 1659472063,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/7/items/izvestia_ru-2022",
@@ -2296,31 +2296,83 @@
       "sha1": "d7abf9f8be0941e6a135067f14be28fa3b44bbea"
     },
     {
+      "name": "izvestia_ru-2022-08-02T17:55:24.694427+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659452128",
+      "size": "134068",
+      "md5": "0547aa03e64cb0d0ec9b7e16fdceb2bb",
+      "crc32": "bbafdf26",
+      "sha1": "8bd68581b6c96f0661109c6185b7cc92a23ca822",
+      "format": "JSON"
+    },
+    {
+      "name": "izvestia_ru-2022-08-02T17:55:24.694427+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659452129",
+      "size": "184823",
+      "md5": "01519922b359cc7c2b3d58339e85685f",
+      "crc32": "83bb6be0",
+      "sha1": "f96339025dd5bc6f5cb166d8fb94f47025ca435e",
+      "format": "JSON"
+    },
+    {
+      "name": "izvestia_ru-2022-08-02T17:55:24.694427+03:00.jpg",
+      "source": "original",
+      "mtime": "1659452126",
+      "size": "305522",
+      "md5": "39b4b66cf00a38bfa77b7b9ad0775712",
+      "crc32": "9c02f259",
+      "sha1": "f7f8b2c8c475088b13b201820b89be9e32813951",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "izvestia_ru-2022-08-02T17:55:24.694427+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659452131",
+      "size": "1371",
+      "md5": "292138c8a07915cf9b4bd4d94a29df98",
+      "crc32": "82fcd44b",
+      "sha1": "69c9ff5e0d3ee756b873b4ea7bdb597b4433b938",
+      "format": "JSON"
+    },
+    {
+      "name": "izvestia_ru-2022-08-02T17:55:24.694427+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "izvestia_ru-2022-08-02T17:55:24.694427+03:00.jpg",
+      "mtime": "1659471867",
+      "size": "10699",
+      "md5": "73cf8712e8fb4bdfd394571ec223fb09",
+      "crc32": "16b92863",
+      "sha1": "78560024b48ef538f24354a5fbe93554cf3d71be"
+    },
+    {
       "name": "izvestia_ru-2022_archive.torrent",
       "source": "metadata",
-      "btih": "59a6d0ba1e5fe8ca1461ecdfe21ef3c9f0630ce8",
-      "mtime": "1659426364",
-      "size": "48492",
-      "md5": "e5bcc0d2155a09373aa8d3032a6f57e3",
-      "crc32": "65cb3276",
-      "sha1": "2e12682e6e68f2caccfc51e6799c54bd550fc3cb",
+      "btih": "8d85e5b94b8013bbf072a7a677cd5da433296632",
+      "mtime": "1659471915",
+      "size": "49569",
+      "md5": "9ba8af13f569fc77a601bd90ca2d9364",
+      "crc32": "3b934d75",
+      "sha1": "d824e3c94832b9a92690e8c98592e9c343e24614",
       "format": "Archive BitTorrent"
     },
     {
       "name": "izvestia_ru-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "53a843966977084ce307d82efbc86b02",
+      "md5": "c3d0d3ba939b1ce9a11cc9ec93c113ec",
       "summation": "md5"
     },
     {
       "name": "izvestia_ru-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659418291",
-      "size": "278528",
-      "md5": "4aa6a5d529f76134db72ea4b875b1d4d",
-      "crc32": "1ce5535b",
-      "sha1": "0c73ad434c5dfcf778b7bfa0ae25975c9f4f85a2",
+      "mtime": "1659452137",
+      "size": "286720",
+      "md5": "6e764b7166b3d829ed4253e450c9fbc8",
+      "crc32": "f4333dde",
+      "sha1": "92727b8511dbfec4059493bf910668cf15849614",
       "format": "Metadata"
     },
     {
@@ -2334,9 +2386,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 223,
-  "item_last_updated": 1659426364,
-  "item_size": 23720568,
+  "files_count": 228,
+  "item_last_updated": 1659471915,
+  "item_size": 24366320,
   "metadata": {
     "identifier": "izvestia_ru-2022",
     "collection": [
@@ -2354,7 +2406,7 @@
     "addeddate": "2022-07-16 20:48:55"
   },
   "server": "ia601508.us.archive.org",
-  "uniq": 1444605471,
+  "uniq": 448311264,
   "workable_servers": [
     "ia601508.us.archive.org",
     "ia801508.us.archive.org"

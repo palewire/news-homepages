@@ -1,5 +1,5 @@
 {
-  "created": 1659442917,
+  "created": 1659486927,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/31/items/kpr_frankfort-2022",
@@ -213,31 +213,83 @@
       "format": "JSON"
     },
     {
+      "name": "kpr_frankfort-2022-08-02T08:21:02.173852-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpr_frankfort-2022-08-02T08:21:02.173852-04:00.jpg",
+      "mtime": "1659462093",
+      "size": "10419",
+      "md5": "78ef9dba77da2dcdba4ce53ce0470c3d",
+      "crc32": "0fba3994",
+      "sha1": "278b3fb0cf4c1dd57e412b6d87ce4d56e63ec6e4"
+    },
+    {
+      "name": "kpr_frankfort-2022-08-02T20:34:38.562510-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659486882",
+      "size": "11831",
+      "md5": "63c48a37196e00dca061945a16a15d60",
+      "crc32": "b9251211",
+      "sha1": "cae86322af601493f0003ac7aa1c3ef728e23f8c",
+      "format": "JSON"
+    },
+    {
+      "name": "kpr_frankfort-2022-08-02T20:34:38.562510-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659486884",
+      "size": "20377",
+      "md5": "42012242f7fde955f16dc5c8b74f257b",
+      "crc32": "35c20a89",
+      "sha1": "2d618358b42dbb3e941089cfbad78f9c4c5d8f7c",
+      "format": "JSON"
+    },
+    {
+      "name": "kpr_frankfort-2022-08-02T20:34:38.562510-04:00.jpg",
+      "source": "original",
+      "mtime": "1659486880",
+      "size": "343369",
+      "md5": "b95a8df146ed5ca286842db502306896",
+      "crc32": "56cf5a0f",
+      "sha1": "001282c94bad3b1a3606441e5e6777a1fe17e6fc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpr_frankfort-2022-08-02T20:34:38.562510-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659486885",
+      "size": "1405",
+      "md5": "c4df4b3ebd7d7ae0a53db9e103ad8530",
+      "crc32": "86a496e8",
+      "sha1": "2245f6d72c859ddd82a6d52012a312ec43f5edbf",
+      "format": "JSON"
+    },
+    {
       "name": "kpr_frankfort-2022_archive.torrent",
       "source": "metadata",
-      "btih": "72afd4c19a4bb00dfc98a9e232e36471e42fcf92",
-      "mtime": "1659442913",
-      "size": "5761",
-      "md5": "75f37da8c5340a5811f16290933d355b",
-      "crc32": "80645da0",
-      "sha1": "1c810e77b9d68f70953d74e37a406bb3acd7d544",
+      "btih": "a8ae0326d13d0883a6791655f6a97375359d388a",
+      "mtime": "1659486923",
+      "size": "6846",
+      "md5": "2209cd61e5f223ab908333dff9a54820",
+      "crc32": "84007aaf",
+      "sha1": "4e784470d0547b8418f229dbbf01184e91e70cc2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kpr_frankfort-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6b6f0b464f7cb1dd4f712d6b6131ebd9",
+      "md5": "efe3fa1d8d8490b9582744728dd02e3b",
       "summation": "md5"
     },
     {
       "name": "kpr_frankfort-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659442877",
-      "size": "45056",
-      "md5": "600f89838475e14f6145076416c85975",
-      "crc32": "5b85cad8",
-      "sha1": "c855277ccb8c79687998fa783f8b8bb216dbcda0",
+      "mtime": "1659486889",
+      "size": "49152",
+      "md5": "6c6bff0542c12b7c78a9289cae9c91e0",
+      "crc32": "af94a38e",
+      "sha1": "6aad494c05767468a16c2b0e8cbe313bcae865ef",
       "format": "Metadata"
     },
     {
@@ -251,9 +303,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 24,
-  "item_last_updated": 1659442913,
-  "item_size": 1501476,
+  "files_count": 29,
+  "item_last_updated": 1659486923,
+  "item_size": 1894058,
   "metadata": {
     "identifier": "kpr_frankfort-2022",
     "collection": [
@@ -275,7 +327,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350486404,
+      "task_id": 3350939302,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -283,7 +335,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 924164160,
+  "uniq": 1255881814,
   "workable_servers": [
     "ia601507.us.archive.org"
   ]

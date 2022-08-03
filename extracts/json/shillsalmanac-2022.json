@@ -1,5 +1,5 @@
 {
-  "created": 1659443417,
+  "created": 1659487446,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/15/items/shillsalmanac-2022",
@@ -787,21 +787,32 @@
       "format": "JSON"
     },
     {
+      "name": "shillsalmanac-2022-08-02T08:29:28.095647-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "shillsalmanac-2022-08-02T08:29:28.095647-04:00.jpg",
+      "mtime": "1659463009",
+      "size": "9634",
+      "md5": "258dcc462408e217d50e96d1be894215",
+      "crc32": "f92b0f6b",
+      "sha1": "27f64d51a206be9d3e5a912fd920dcd84c5f16dd"
+    },
+    {
       "name": "shillsalmanac-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b38a48d0a23b9be89c74b71dc08ce76aa7e45bea",
-      "mtime": "1659443414",
-      "size": "17603",
-      "md5": "999033102a0dfaec4a29ca27f3678af5",
-      "crc32": "26f16546",
-      "sha1": "be0f31066190aa4185fad13b5172628db04e0a9e",
+      "btih": "bfae11320f2f18a2b6d4e37ab92664761c693c51",
+      "mtime": "1659463052",
+      "size": "17812",
+      "md5": "a2f085937a6e1ed9ceb26488f37d2016",
+      "crc32": "1f418180",
+      "sha1": "69caa59e218595275d7c6984e4260a087be2a956",
       "format": "Archive BitTorrent"
     },
     {
       "name": "shillsalmanac-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "992800596175c3dd6ac87433a6240e40",
+      "md5": "aabc0387b8fcd71e9adc49caccebcda8",
       "summation": "md5"
     },
     {
@@ -825,9 +836,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 79,
-  "item_last_updated": 1659443414,
-  "item_size": 5421704,
+  "files_count": 80,
+  "item_last_updated": 1659463052,
+  "item_size": 5431547,
   "metadata": {
     "identifier": "shillsalmanac-2022",
     "collection": [
@@ -844,21 +855,51 @@
     "publicdate": "2022-07-26 00:25:03",
     "addeddate": "2022-07-26 00:25:03"
   },
-  "pending_tasks": true,
   "server": "ia902500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "shillsalmanac-2022": [
     {
-      "task_id": 3350491294,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "url": "https://thealmanac.net/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thealmanac_net-_-2022_08_02_11_57_47.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thealmanac_net-_-2022_08_02_11_57_47.report.json",
+      "summary": {
+        "performance": 0.06,
+        "accessibility": 0.88,
+        "best-practices": 0.5,
+        "seo": 0.75,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://thealmanac.net/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thealmanac_net-_-2022_08_02_11_58_14.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thealmanac_net-_-2022_08_02_11_58_14.report.json",
+      "summary": {
+        "performance": 0.08,
+        "accessibility": 0.88,
+        "best-practices": 0.5,
+        "seo": 0.75,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://thealmanac.net/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thealmanac_net-_-2022_08_02_11_57_19.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thealmanac_net-_-2022_08_02_11_57_19.report.json",
+      "summary": {
+        "performance": 0.05,
+        "accessibility": 0.88,
+        "best-practices": 0.5,
+        "seo": 0.75,
+        "pwa": 0.3
+      }
     }
   ],
-  "uniq": 1152963779,
+  "uniq": 5736102,
   "workable_servers": [
-    "ia902500.us.archive.org"
+    "ia902500.us.archive.org",
+    "ia802500.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1659443360,
+  "created": 1659487402,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/19/items/rollingstone-2022",
@@ -3953,21 +3953,32 @@
       "format": "JSON"
     },
     {
+      "name": "rollingstone-2022-08-02T08:28:20.387354-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rollingstone-2022-08-02T08:28:20.387354-04:00.jpg",
+      "mtime": "1659462939",
+      "size": "11650",
+      "md5": "b2d014cb9472d36788b68c8dfc32859a",
+      "crc32": "a74fbb86",
+      "sha1": "b343a42d3464263a9106bf07939565908daf2b10"
+    },
+    {
       "name": "rollingstone-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bd54d958dbd554b0752ee2e5c1e28354c0f538be",
-      "mtime": "1659443357",
-      "size": "82416",
-      "md5": "f251720e6412af9fde22c04b25f1985a",
-      "crc32": "17962148",
-      "sha1": "d69af2b359c6b17a99d229e3704307c5e7c15caf",
+      "btih": "46e200002491082f4a4f30e568e1c2b8511f0268",
+      "mtime": "1659462997",
+      "size": "82625",
+      "md5": "158dc02bc9fd6d53ea5832ccad185470",
+      "crc32": "e6b80f3f",
+      "sha1": "32571fa9822d29111e19b4412fd44ee4ce1f7db3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rollingstone-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "541256b24cefbc92338d479e4e6f9758",
+      "md5": "e33bd660e17cfab0e8c0176694243d26",
       "summation": "md5"
     },
     {
@@ -3991,9 +4002,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 380,
-  "item_last_updated": 1659443357,
-  "item_size": 39359709,
+  "files_count": 381,
+  "item_last_updated": 1659462997,
+  "item_size": 39371568,
   "metadata": {
     "identifier": "rollingstone-2022",
     "collection": [
@@ -4015,15 +4026,23 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350490723,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3350944316,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3350944332,
+      "cmd": "archive.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 1255186934,
+  "uniq": 2094436185,
   "workable_servers": [
     "ia601500.us.archive.org"
   ]

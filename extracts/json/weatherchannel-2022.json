@@ -1,5 +1,5 @@
 {
-  "created": 1659436598,
+  "created": 1659478343,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/18/items/weatherchannel-2022",
@@ -744,31 +744,83 @@
       "sha1": "e3502d5d7e3da8e7997e4764e0d44bd4207fd755"
     },
     {
+      "name": "weatherchannel-2022-08-02T12:24:55.136645-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659457498",
+      "size": "9633",
+      "md5": "1972d76788487854fc92b562f5a1f6f7",
+      "crc32": "adca9ef1",
+      "sha1": "e35b2262822903405c537dfab2687c6ec41b8419",
+      "format": "JSON"
+    },
+    {
+      "name": "weatherchannel-2022-08-02T12:24:55.136645-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659457500",
+      "size": "20546",
+      "md5": "19697f111d75120b2b464ca0a07b6a54",
+      "crc32": "cfdf8bae",
+      "sha1": "2dd1995986446f33d7700a9bb0ce5711e47cab71",
+      "format": "JSON"
+    },
+    {
+      "name": "weatherchannel-2022-08-02T12:24:55.136645-04:00.jpg",
+      "source": "original",
+      "mtime": "1659457496",
+      "size": "280601",
+      "md5": "93a3f4797a1f88c061024b17fda38739",
+      "crc32": "094f6a82",
+      "sha1": "c57e95cfcfe710f07459a17de4175b4fc5db07f8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "weatherchannel-2022-08-02T12:24:55.136645-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659457501",
+      "size": "1431",
+      "md5": "245c686f56e3374cd027d3e23b5ee82e",
+      "crc32": "85e3eb20",
+      "sha1": "476b0717392a774e7f1812316ffc809baa214076",
+      "format": "JSON"
+    },
+    {
+      "name": "weatherchannel-2022-08-02T12:24:55.136645-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "weatherchannel-2022-08-02T12:24:55.136645-04:00.jpg",
+      "mtime": "1659478143",
+      "size": "10423",
+      "md5": "753604e3c19c60c3a7a1707783c4a437",
+      "crc32": "d9d05013",
+      "sha1": "51541fcfab7a98d041f01f70b4e9e40026aed5bf"
+    },
+    {
       "name": "weatherchannel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9f1f14d90937e6b64a951f2b3f3cab80c6bcd0c3",
-      "mtime": "1659420331",
-      "size": "16827",
-      "md5": "304ae695626a703c44dec826dcc34e79",
-      "crc32": "a5a910c7",
-      "sha1": "4e61cc5f28bfb2183ad1fa7ac76d973a3b24b91e",
+      "btih": "c7f33574530981ae415272a84fd720e8a3e66780",
+      "mtime": "1659478269",
+      "size": "17896",
+      "md5": "8c12c7fe70d7412938b47f106011b663",
+      "crc32": "e19f0e1e",
+      "sha1": "29a2d76c63754212192d239fb3beeac4674c397a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "weatherchannel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6e5a130fa0969897f03ef61e06c8acfe",
+      "md5": "864cd7e3e9382991a7468f67f81dd494",
       "summation": "md5"
     },
     {
       "name": "weatherchannel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659414716",
-      "size": "106496",
-      "md5": "1d86754ee46a7c45fa55b6207a0c3ea3",
-      "crc32": "a1b642f9",
-      "sha1": "2a9789d15f8076396784cc820495fb515d089217",
+      "mtime": "1659457507",
+      "size": "118784",
+      "md5": "1fdedfa747d3eaccefa7b49c13cb81fb",
+      "crc32": "657b208f",
+      "sha1": "1d6714eed57e881d40fc0481ce168e6fcff797c1",
       "format": "Metadata"
     },
     {
@@ -782,9 +834,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 75,
-  "item_last_updated": 1659420331,
-  "item_size": 4850479,
+  "files_count": 80,
+  "item_last_updated": 1659478269,
+  "item_size": 5186470,
   "metadata": {
     "identifier": "weatherchannel-2022",
     "collection": [
@@ -801,10 +853,10 @@
     "publicdate": "2022-07-26 15:49:58",
     "addeddate": "2022-07-26 15:49:58"
   },
-  "server": "ia601409.us.archive.org",
-  "uniq": 364367752,
+  "server": "ia801409.us.archive.org",
+  "uniq": 312873044,
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia801409.us.archive.org",
+    "ia601409.us.archive.org"
   ]
 }

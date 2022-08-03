@@ -1,5 +1,6 @@
 {
-  "created": 1659443359,
+  "conflict": 1659487296,
+  "created": 1659487296,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/13/items/pajaropolitico-2022",
@@ -19945,21 +19946,32 @@
       "format": "JSON"
     },
     {
+      "name": "pajaropolitico-2022-08-02T07:27:53.209018-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pajaropolitico-2022-08-02T07:27:53.209018-05:00.jpg",
+      "mtime": "1659462925",
+      "size": "9809",
+      "md5": "8ae4bb1d82656743d7c028746dfcb343",
+      "crc32": "9dc8b282",
+      "sha1": "a5856b45e2d152bb4aa186218d17f1f51a14badb"
+    },
+    {
       "name": "pajaropolitico-2022_archive.torrent",
       "source": "metadata",
-      "btih": "75babcf85143c9f3ca37c47595d11ccb9d0a5f3c",
-      "mtime": "1659443356",
-      "size": "412516",
-      "md5": "305b06bbbcdb45837fcaed2f8641a0a5",
-      "crc32": "1e6c5938",
-      "sha1": "d4cb8d2e602b3f0f1e9eec8005a61ae4fe1ac00c",
+      "btih": "09d06ddc3db2759d9ae2ed757b2cf82df1331c5e",
+      "mtime": "1659463020",
+      "size": "412726",
+      "md5": "49921c817505a4506eb94a75154e9521",
+      "crc32": "9ad51b40",
+      "sha1": "5753bb6b4aa32dff32884ea84ac6a74b19b688ac",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pajaropolitico-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "03560fb612e7d63f193f65ed4dcec963",
+      "md5": "c1ae8feea77ea7d2d108a9015c11c91d",
       "summation": "md5"
     },
     {
@@ -19983,9 +19995,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1904,
-  "item_last_updated": 1659443356,
-  "item_size": 151541143,
+  "files_count": 1905,
+  "item_last_updated": 1659463020,
+  "item_size": 151551162,
   "metadata": {
     "identifier": "pajaropolitico-2022",
     "collection": [
@@ -20007,15 +20019,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350490705,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "task_id": 3350943073,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 944798081,
+  "uniq": 1721023417,
   "workable_servers": [
     "ia902505.us.archive.org"
   ]

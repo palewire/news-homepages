@@ -1,5 +1,5 @@
 {
-  "created": 1659444174,
+  "created": 1659468172,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/29/items/tucsonsentinel-2022",
@@ -2242,31 +2242,83 @@
       "sha1": "ef48e89e1d10dc8fec737a9b62644c3adb9cd13e"
     },
     {
+      "name": "tucsonsentinel-2022-08-02T06:45:35.860520-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659447939",
+      "size": "32536",
+      "md5": "509a6d5368354c31476341fa46490c94",
+      "crc32": "e8197218",
+      "sha1": "ff84794a30dd3416541af7cb48a80daeb06cd622",
+      "format": "JSON"
+    },
+    {
+      "name": "tucsonsentinel-2022-08-02T06:45:35.860520-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659447941",
+      "size": "36012",
+      "md5": "6f93729b1cafef2df8bf3d16fd1f0ffe",
+      "crc32": "4dc98433",
+      "sha1": "3d23e8eb5eb646c20cd4da10aac16c439077fcbc",
+      "format": "JSON"
+    },
+    {
+      "name": "tucsonsentinel-2022-08-02T06:45:35.860520-07:00.jpg",
+      "source": "original",
+      "mtime": "1659447937",
+      "size": "357971",
+      "md5": "528d79765cd91af32972c6d027927a75",
+      "crc32": "36474859",
+      "sha1": "7975c7f2b3a14c503ca6f3b2ac979bdfd40aae04",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tucsonsentinel-2022-08-02T06:45:35.860520-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659447943",
+      "size": "1522",
+      "md5": "5394e383ff0745deb01ced1bb46835f6",
+      "crc32": "19650de6",
+      "sha1": "59de1dc76b95c4eb0027a05f94c870ba31e7d4cf",
+      "format": "JSON"
+    },
+    {
+      "name": "tucsonsentinel-2022-08-02T06:45:35.860520-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tucsonsentinel-2022-08-02T06:45:35.860520-07:00.jpg",
+      "mtime": "1659467983",
+      "size": "9901",
+      "md5": "7d52d3f043310f8cc5ca61bd2fda033d",
+      "crc32": "95bd7ac0",
+      "sha1": "59bf2b7e65b6a1f41249bd3c6cd479c83e32676a"
+    },
+    {
       "name": "tucsonsentinel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "75b1d61e9c0e02f40120015a1eb522a7e55961a8",
-      "mtime": "1659407448",
-      "size": "48031",
-      "md5": "e7b1ceeffea4b339db7de768525405dd",
-      "crc32": "4fffe7cd",
-      "sha1": "edc1e94581cc6705ea75ec8f329975ab17792382",
+      "btih": "ec5d36a7392236c022348df751f8d79dd3326af1",
+      "mtime": "1659468072",
+      "size": "49120",
+      "md5": "c2344cf2fbc05a32a62014eaa7458d69",
+      "crc32": "d891181a",
+      "sha1": "8f666cb4cf7079fc36ba6fed461b289be30710a3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tucsonsentinel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "72294848ff1d994ccd9387ef05bd486c",
+      "md5": "204b51368fa4bfc13bcd8ba9b0c4040c",
       "summation": "md5"
     },
     {
       "name": "tucsonsentinel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659405694",
-      "size": "274432",
-      "md5": "88e71d20cc47aa576ebfe828a72c7ece",
-      "crc32": "6da83a22",
-      "sha1": "be72c4810fc13c0ae066c68c1c698bab25611b5c",
+      "mtime": "1659447948",
+      "size": "282624",
+      "md5": "ee48e7176fd1204f7243dcea961722a4",
+      "crc32": "18101c39",
+      "sha1": "4885bb626a60830958fa61f90324d1cf03100a80",
       "format": "Metadata"
     },
     {
@@ -2280,9 +2332,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 218,
-  "item_last_updated": 1659407448,
-  "item_size": 21769541,
+  "files_count": 223,
+  "item_last_updated": 1659468072,
+  "item_size": 22216764,
   "metadata": {
     "identifier": "tucsonsentinel-2022",
     "collection": [
@@ -2300,48 +2352,7 @@
     "addeddate": "2022-07-09 04:04:28"
   },
   "server": "ia802508.us.archive.org",
-  "tucsonsentinel-2022": [
-    {
-      "url": "https://www.tucsonsentinel.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_tucsonsentinel_com-_-2022_08_02_01_35_11.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_tucsonsentinel_com-_-2022_08_02_01_35_11.report.json",
-      "summary": {
-        "performance": 0.08,
-        "accessibility": 0.43,
-        "best-practices": 0.5,
-        "seo": 0.64,
-        "pwa": 0
-      }
-    },
-    {
-      "url": "https://www.tucsonsentinel.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_tucsonsentinel_com-_-2022_08_02_01_36_07.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_tucsonsentinel_com-_-2022_08_02_01_36_07.report.json",
-      "summary": {
-        "performance": 0.23,
-        "accessibility": 0.43,
-        "best-practices": 0.5,
-        "seo": 0.64,
-        "pwa": 0
-      }
-    },
-    {
-      "url": "https://www.tucsonsentinel.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_tucsonsentinel_com-_-2022_08_02_01_35_47.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_tucsonsentinel_com-_-2022_08_02_01_35_47.report.json",
-      "summary": {
-        "performance": 0.18,
-        "accessibility": 0.43,
-        "best-practices": 0.5,
-        "seo": 0.64,
-        "pwa": 0
-      }
-    }
-  ],
-  "uniq": 905576690,
+  "uniq": 856806086,
   "workable_servers": [
     "ia802508.us.archive.org",
     "ia902508.us.archive.org"

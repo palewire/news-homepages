@@ -1,5 +1,5 @@
 {
-  "created": 1659443433,
+  "created": 1659487424,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/15/items/scottishsun-2022",
@@ -2337,21 +2337,32 @@
       "format": "JSON"
     },
     {
+      "name": "scottishsun-2022-08-02T13:29:41.171925+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "scottishsun-2022-08-02T13:29:41.171925+01:00.jpg",
+      "mtime": "1659463047",
+      "size": "10289",
+      "md5": "eb87a76bf868c4e53b6cc9b2a87a4343",
+      "crc32": "48b99dec",
+      "sha1": "5a2948140164aafd76631f9ec0940db942c661e8"
+    },
+    {
       "name": "scottishsun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e13c431c6fbbfe0d12c04bf7e88b9adc028b7562",
-      "mtime": "1659443428",
-      "size": "49436",
-      "md5": "b5f2126850015b84e432921e9b8c424a",
-      "crc32": "c3d00d35",
-      "sha1": "a758dd6d1bc900c90f977362aab88e406a558684",
+      "btih": "1bfef4327b57feb2fe546d331c9f6249d6198f81",
+      "mtime": "1659463057",
+      "size": "49644",
+      "md5": "4d4c1973fc7903681a3d6a54a4802ce8",
+      "crc32": "5e95704a",
+      "sha1": "cff974c00609284a9fcb44e12ccdf16e0a490d18",
       "format": "Archive BitTorrent"
     },
     {
       "name": "scottishsun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "eabcdad49bb802098e9fbe37535a4f70",
+      "md5": "0f0d5894533eeeedd87cce2138bd9ff9",
       "summation": "md5"
     },
     {
@@ -2375,9 +2386,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 227,
-  "item_last_updated": 1659443428,
-  "item_size": 25375810,
+  "files_count": 228,
+  "item_last_updated": 1659463057,
+  "item_size": 25386307,
   "metadata": {
     "identifier": "scottishsun-2022",
     "collection": [
@@ -2394,21 +2405,51 @@
     "publicdate": "2022-07-10 15:44:24",
     "addeddate": "2022-07-10 15:44:24"
   },
-  "pending_tasks": true,
-  "server": "ia601509.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "scottishsun-2022": [
     {
-      "task_id": 3350491457,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "url": "https://www.thescottishsun.co.uk/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thescottishsun_co_uk-_-2022_08_02_11_57_32.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thescottishsun_co_uk-_-2022_08_02_11_57_32.report.json",
+      "summary": {
+        "performance": 0.46,
+        "accessibility": 0.78,
+        "best-practices": 0.75,
+        "seo": 0.89,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.thescottishsun.co.uk/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thescottishsun_co_uk-_-2022_08_02_11_58_00.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thescottishsun_co_uk-_-2022_08_02_11_58_00.report.json",
+      "summary": {
+        "performance": 0.44,
+        "accessibility": 0.78,
+        "best-practices": 0.75,
+        "seo": 0.89,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.thescottishsun.co.uk/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thescottishsun_co_uk-_-2022_08_02_11_57_01.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thescottishsun_co_uk-_-2022_08_02_11_57_01.report.json",
+      "summary": {
+        "performance": 0.39,
+        "accessibility": 0.78,
+        "best-practices": 0.75,
+        "seo": 0.89,
+        "pwa": 0.4
+      }
     }
   ],
-  "uniq": 809636891,
+  "server": "ia601509.us.archive.org",
+  "uniq": 1886283916,
   "workable_servers": [
-    "ia601509.us.archive.org"
+    "ia601509.us.archive.org",
+    "ia801509.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1659442444,
+  "created": 1659474725,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/13/items/climatecentral-2022",
@@ -1097,21 +1097,32 @@
       "format": "JSON"
     },
     {
+      "name": "climatecentral-2022-08-02T08:13:09.614760-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "climatecentral-2022-08-02T08:13:09.614760-04:00.jpg",
+      "mtime": "1659461791",
+      "size": "8464",
+      "md5": "1ea704d681328ce1e53a02e3120f1b98",
+      "crc32": "04172dd6",
+      "sha1": "12d2b07c85666b45e0cb7a6864121118e8b2f36d"
+    },
+    {
       "name": "climatecentral-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ec669afde23b59c8cff1b8cc7fc6d3d0e7f2a5d0",
-      "mtime": "1659442439",
-      "size": "24084",
-      "md5": "b15bb35d5c2b6d4448d12b914f775027",
-      "crc32": "bd233674",
-      "sha1": "7650a00b3848f57a2a1bdd6083e19caad77e8c68",
+      "btih": "84b4cdb080e30bc5b836c9faf3f72315dd05ac93",
+      "mtime": "1659461797",
+      "size": "24294",
+      "md5": "93ef54dd18ed891f262f459b5f8c3ace",
+      "crc32": "490b7920",
+      "sha1": "3b21c2285ea5e891b77c08848ac9837f794e6863",
       "format": "Archive BitTorrent"
     },
     {
       "name": "climatecentral-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2a43f51332cc9eae78e7565b807534dc",
+      "md5": "cd476aab7da60cd5b8918d214f000bdb",
       "summation": "md5"
     },
     {
@@ -1135,9 +1146,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 109,
-  "item_last_updated": 1659442439,
-  "item_size": 4883876,
+  "files_count": 110,
+  "item_last_updated": 1659461797,
+  "item_size": 4892550,
   "metadata": {
     "identifier": "climatecentral-2022",
     "collection": [
@@ -1154,21 +1165,10 @@
     "publicdate": "2022-07-23 01:01:50",
     "addeddate": "2022-07-23 01:01:50"
   },
-  "pending_tasks": true,
-  "server": "ia601405.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3350482365,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 754488737,
+  "server": "ia801405.us.archive.org",
+  "uniq": 2113217936,
   "workable_servers": [
+    "ia801405.us.archive.org",
     "ia601405.us.archive.org"
   ]
 }

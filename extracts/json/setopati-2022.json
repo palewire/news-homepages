@@ -1,5 +1,5 @@
 {
-  "created": 1659443974,
+  "created": 1659486842,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/3/items/setopati-2022",
@@ -952,31 +952,83 @@
       "sha1": "654a14faa54e0591a44e6db00c0732eb2c2195b3"
     },
     {
+      "name": "setopati-2022-08-02T22:04:40.890444+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1659457184",
+      "size": "133688",
+      "md5": "d722bacfda5eeca2072ac7f06f8e505b",
+      "crc32": "7066060c",
+      "sha1": "83de0cc7a66a9bba418f84fcff2b0fedb1a0cb94",
+      "format": "JSON"
+    },
+    {
+      "name": "setopati-2022-08-02T22:04:40.890444+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659457188",
+      "size": "126199",
+      "md5": "c94a16a0ccc177148feba3c66316566f",
+      "crc32": "ed669bff",
+      "sha1": "7148c46676fa7d4367db845c6004319da74388ca",
+      "format": "JSON"
+    },
+    {
+      "name": "setopati-2022-08-02T22:04:40.890444+05:45.jpg",
+      "source": "original",
+      "mtime": "1659457183",
+      "size": "155417",
+      "md5": "10b0a95fef161914862b79b4a4077630",
+      "crc32": "16b56fc9",
+      "sha1": "1c776f4cb5434d15a19285d97b46e10417ada797",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "setopati-2022-08-02T22:04:40.890444+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1659457189",
+      "size": "1468",
+      "md5": "be98167f325bc025618b4b720a795a86",
+      "crc32": "158a90f0",
+      "sha1": "df5092378be9f069a12a4ccc886b7d0f98af8351",
+      "format": "JSON"
+    },
+    {
+      "name": "setopati-2022-08-02T22:04:40.890444+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "setopati-2022-08-02T22:04:40.890444+05:45.jpg",
+      "mtime": "1659477406",
+      "size": "7761",
+      "md5": "7afe9b00ca13bb94dd8642cb19c05504",
+      "crc32": "8ebf18ef",
+      "sha1": "7aa8d1c95395e972786a2fd57fe2574952d37553"
+    },
+    {
       "name": "setopati-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b98d70377bc3e7d4ac07ff4fc562664aee425d7c",
-      "mtime": "1659419594",
-      "size": "20703",
-      "md5": "451a146b75a1372486004d16b0a21a05",
-      "crc32": "9d75cb00",
-      "sha1": "9c62a335a83cde0ddb50f97fcc53211754259c07",
+      "btih": "d6ae5599323012d633d12287539589c7f582c606",
+      "mtime": "1659477416",
+      "size": "21764",
+      "md5": "7cac83485d03459fed163f9551a325cf",
+      "crc32": "07811da4",
+      "sha1": "45cfad99a529fa98f276960d60dc20b5a9b3b0ed",
       "format": "Archive BitTorrent"
     },
     {
       "name": "setopati-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1c3a440af0d8bb75b46ae1c8bb3c8af1",
+      "md5": "dbbcbe98e602b3908f86b97fff4f6e93",
       "summation": "md5"
     },
     {
       "name": "setopati-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659414376",
-      "size": "135168",
-      "md5": "e4ba661e67ee4630f92e660ea92767df",
-      "crc32": "e838ed60",
-      "sha1": "6b93bebcba856edacd3e6f49004a9ab60f002591",
+      "mtime": "1659457196",
+      "size": "143360",
+      "md5": "0dcaf9d2064451710513b766427f7a3b",
+      "crc32": "a2cb613f",
+      "sha1": "f9d19d022b3040c737203dcdfe1d4aac895a2640",
       "format": "Metadata"
     },
     {
@@ -990,9 +1042,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 95,
-  "item_last_updated": 1659419594,
-  "item_size": 9029921,
+  "files_count": 100,
+  "item_last_updated": 1659477416,
+  "item_size": 9463707,
   "metadata": {
     "identifier": "setopati-2022",
     "collection": [
@@ -1010,48 +1062,7 @@
     "addeddate": "2022-07-24 20:39:32"
   },
   "server": "ia802501.us.archive.org",
-  "setopati-2022": [
-    {
-      "url": "https://www.setopati.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_setopati_com-_-2022_08_02_04_03_24.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_setopati_com-_-2022_08_02_04_03_24.report.json",
-      "summary": {
-        "performance": 0.44,
-        "accessibility": 1,
-        "best-practices": 0.83,
-        "seo": 0.85,
-        "pwa": 0.9
-      }
-    },
-    {
-      "url": "https://www.setopati.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_setopati_com-_-2022_08_02_04_04_15.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_setopati_com-_-2022_08_02_04_04_15.report.json",
-      "summary": {
-        "performance": 0.5,
-        "accessibility": 1,
-        "best-practices": 0.83,
-        "seo": 0.85,
-        "pwa": 0.9
-      }
-    },
-    {
-      "url": "https://www.setopati.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_setopati_com-_-2022_08_02_04_03_51.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_setopati_com-_-2022_08_02_04_03_51.report.json",
-      "summary": {
-        "performance": 0.62,
-        "accessibility": 1,
-        "best-practices": 0.83,
-        "seo": 0.85,
-        "pwa": 0.9
-      }
-    }
-  ],
-  "uniq": 705574356,
+  "uniq": 551502784,
   "workable_servers": [
     "ia802501.us.archive.org",
     "ia902501.us.archive.org"

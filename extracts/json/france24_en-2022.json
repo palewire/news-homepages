@@ -1,5 +1,5 @@
 {
-  "created": 1659443027,
+  "created": 1659482840,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/11/items/france24_en-2022",
@@ -10049,31 +10049,83 @@
       "format": "JSON"
     },
     {
+      "name": "france24_en-2022-08-02T14:17:40.383178+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "france24_en-2022-08-02T14:17:40.383178+02:00.jpg",
+      "mtime": "1659462264",
+      "size": "9303",
+      "md5": "babe4c180260dfe377015d23a5e772a0",
+      "crc32": "12512dff",
+      "sha1": "2cb1f27f7c46c0f941323a3b3eb92fc7d441235f"
+    },
+    {
+      "name": "france24_en-2022-08-03T01:26:13.851828+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659482779",
+      "size": "22262",
+      "md5": "d2abf86e21ab398e2fc1bce12b1f2fa5",
+      "crc32": "bfb92111",
+      "sha1": "1b5eecaa2d49d616a8fab1e8b187c952870836a7",
+      "format": "JSON"
+    },
+    {
+      "name": "france24_en-2022-08-03T01:26:13.851828+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659482780",
+      "size": "35136",
+      "md5": "1cdbb4ff0cfb592354e7650bc74b80ef",
+      "crc32": "47426134",
+      "sha1": "63e5973af989d4efe7a55460ca7c10e05885031f",
+      "format": "JSON"
+    },
+    {
+      "name": "france24_en-2022-08-03T01:26:13.851828+02:00.jpg",
+      "source": "original",
+      "mtime": "1659482777",
+      "size": "242909",
+      "md5": "448fe2f7e7d0abab8ce284a6add37774",
+      "crc32": "eccda2d5",
+      "sha1": "842a5515026559900cca958c8a3fe8124a580428",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "france24_en-2022-08-03T01:26:13.851828+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659482782",
+      "size": "1480",
+      "md5": "150df8a511e13f0932bbe565ee3eb93a",
+      "crc32": "68cd9b66",
+      "sha1": "38f97a43deab5b9a0ae9b216e13ee63f5bf03648",
+      "format": "JSON"
+    },
+    {
       "name": "france24_en-2022_archive.torrent",
       "source": "metadata",
-      "btih": "80b67d28ddc28bf214c5676aeaba7cb4c3dd30fe",
-      "mtime": "1659443011",
-      "size": "205630",
-      "md5": "38b0e1b4ff3759b8e6c87b7bf1871829",
-      "crc32": "c9f67368",
-      "sha1": "20fd0b916ddc510b1b8bd45561ada1518124d90b",
+      "btih": "bcc2549d9b9e725a942bf2e3610d7d9d67fc7ea7",
+      "mtime": "1659482833",
+      "size": "206704",
+      "md5": "b11b8c771ba915d2edd9954fc1737bac",
+      "crc32": "69a6561e",
+      "sha1": "43798806b4ae21942e16c73064c6c5715d9a47c7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "france24_en-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8981643d75c83866f9287c9618e979e7",
+      "md5": "4840632be5a5ea8cdb3dc7c52e8705c6",
       "summation": "md5"
     },
     {
       "name": "france24_en-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659442997",
-      "size": "1126400",
-      "md5": "969f54067d5b084871a8a669449c2b61",
-      "crc32": "9e033496",
-      "sha1": "2d3d582ccf8205578e0b31989fd8dfc0ad5be53d",
+      "mtime": "1659482787",
+      "size": "1134592",
+      "md5": "2cd69b7d06955909e73b9a5a51b20a8f",
+      "crc32": "c08ec5f8",
+      "sha1": "ad0eff3760267c3ff800ab4b96909d4c148f15e6",
       "format": "Metadata"
     },
     {
@@ -10087,9 +10139,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 962,
-  "item_last_updated": 1659443011,
-  "item_size": 70898493,
+  "files_count": 967,
+  "item_last_updated": 1659482833,
+  "item_size": 71218849,
   "metadata": {
     "identifier": "france24_en-2022",
     "collection": [
@@ -10111,7 +10163,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350487337,
+      "task_id": 3350899839,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -10119,7 +10171,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 277009387,
+  "uniq": 1818175920,
   "workable_servers": [
     "ia902501.us.archive.org"
   ]

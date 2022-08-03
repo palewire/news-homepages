@@ -1,5 +1,5 @@
 {
-  "created": 1659442625,
+  "created": 1659482733,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/24/items/expressnews-2022",
@@ -2725,31 +2725,83 @@
       "format": "JSON"
     },
     {
+      "name": "expressnews-2022-08-02T07:16:08.007558-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "expressnews-2022-08-02T07:16:08.007558-05:00.jpg",
+      "mtime": "1659461908",
+      "size": "10624",
+      "md5": "20be2953d7b3abb038e17d49443fe51f",
+      "crc32": "a5acd42e",
+      "sha1": "2d9c8e49f79b6be5d3a19612c7a2aa8e378c3e39"
+    },
+    {
+      "name": "expressnews-2022-08-02T18:24:43.129148-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659482688",
+      "size": "70166",
+      "md5": "8876c0657aec78a1c2b594e49a519e08",
+      "crc32": "57868c3b",
+      "sha1": "fdd63d9bc725f2b414baab4b6588358e13438b15",
+      "format": "JSON"
+    },
+    {
+      "name": "expressnews-2022-08-02T18:24:43.129148-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659482689",
+      "size": "65154",
+      "md5": "612c09a6855e80f2f8b64db741d20763",
+      "crc32": "2c75ef42",
+      "sha1": "b7d56f8464aac2ee7766f6a86decf6c9ecb56e28",
+      "format": "JSON"
+    },
+    {
+      "name": "expressnews-2022-08-02T18:24:43.129148-05:00.jpg",
+      "source": "original",
+      "mtime": "1659482686",
+      "size": "347131",
+      "md5": "6a56de1ceaeef2bda4effc925b10480d",
+      "crc32": "15cb435e",
+      "sha1": "c2bd573adda53b2941e128f5e864cd0742d766f2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "expressnews-2022-08-02T18:24:43.129148-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659482690",
+      "size": "1501",
+      "md5": "232c3ca965036f5de9fd340a6f06b088",
+      "crc32": "74d39ee7",
+      "sha1": "0952b58f60ed00ccb6f46e2e4cce637b5aa4de1d",
+      "format": "JSON"
+    },
+    {
       "name": "expressnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b5c0e6a82175bf9bcc4b2b2394f917c202643a9c",
-      "mtime": "1659442617",
-      "size": "57272",
-      "md5": "76c69b16988ec60da94f5efaf0190c3c",
-      "crc32": "e7913d3e",
-      "sha1": "35b384e4a3decf3a599005765d7a9a2cb49143f1",
+      "btih": "bf2657a3b823bfaaca1919161a1969982ff83d6a",
+      "mtime": "1659482730",
+      "size": "58347",
+      "md5": "1358449079b12430a6e5b7f750c57b8a",
+      "crc32": "c4bc75a8",
+      "sha1": "8e4b710214fee107cab39dd333f4f0f26fbd7b41",
       "format": "Archive BitTorrent"
     },
     {
       "name": "expressnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1464b8265689527e03ea365c69104b74",
+      "md5": "0573ce167b88f7adb7643612eec426ea",
       "summation": "md5"
     },
     {
       "name": "expressnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659442580",
-      "size": "327680",
-      "md5": "f080cf3c6e617fcefdc5aad8f9d4f2ec",
-      "crc32": "88a9af3b",
-      "sha1": "e641e51e9db039f031d933bbda9b55968d7b6bba",
+      "mtime": "1659482695",
+      "size": "331776",
+      "md5": "1f48b19e3409089af92f8ee55a3c212c",
+      "crc32": "70b5b4af",
+      "sha1": "8f650e2d4e14f99e9fae9fbc8bef583aa431a73f",
       "format": "Metadata"
     },
     {
@@ -2763,9 +2815,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 264,
-  "item_last_updated": 1659442617,
-  "item_size": 27948139,
+  "files_count": 269,
+  "item_last_updated": 1659482730,
+  "item_size": 28447886,
   "metadata": {
     "identifier": "expressnews-2022",
     "collection": [
@@ -2787,7 +2839,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3350484031,
+      "task_id": 3350898892,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -2795,7 +2847,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1032623445,
+  "uniq": 169307088,
   "workable_servers": [
     "ia601504.us.archive.org"
   ]
