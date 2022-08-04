@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 287 screenshots with the Internet Archive.
+The archiving routine has saved 288 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 287 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kyivindependent-2022/kyivindependent-2022-08-04T06:25:39.335451+03:00.jpg">
+  <img src="https://archive.org/download/kyivindependent-2022/kyivindependent-2022-08-04T06:25:39.335451+03:00.jpg"
+     alt="Kyiv Independent at 2022-08-04 06:25:40+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kyivindependent-2022/kyivindependent-2022-08-04T06:25:39.335451+03:00.jpg">August 4 at 6:25 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kyivindependent-2022/kyivindependent-2022-08-03T20:00:17.584151+03:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kyivindependent-2022/kyivindependent-2022-07-29T17:41:31.340529+03:00.jpg">July 29 at 5:41 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kyivindependent-2022/kyivindependent-2022-07-29T05:38:17.386490+03:00.jpg">
-  <img src="https://archive.org/download/kyivindependent-2022/kyivindependent-2022-07-29T05:38:17.386490+03:00.jpg"
-     alt="Kyiv Independent at 2022-07-29 05:38:19+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kyivindependent-2022/kyivindependent-2022-07-29T05:38:17.386490+03:00.jpg">July 29 at 5:38 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 268 hyperlink lists with the Internet Archive.
+The archiving routine has saved 269 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 4 at 6:25 AM](https://archive.org/download/kyivindependent-2022/kyivindependent-2022-08-04T06:25:39.335451+03:00.hyperlinks.json) |
 | [August 3 at 8:00 PM](https://archive.org/download/kyivindependent-2022/kyivindependent-2022-08-03T20:00:17.584151+03:00.hyperlinks.json) |
 | [August 3 at 7:34 AM](https://archive.org/download/kyivindependent-2022/kyivindependent-2022-08-03T07:34:22.626790+03:00.hyperlinks.json) |
 | [August 2 at 5:56 PM](https://archive.org/download/kyivindependent-2022/kyivindependent-2022-08-02T17:56:33.679865+03:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 31 at 5:40 PM](https://archive.org/download/kyivindependent-2022/kyivindependent-2022-07-31T17:40:06.569465+03:00.hyperlinks.json) |
 | [July 31 at 5:59 AM](https://archive.org/download/kyivindependent-2022/kyivindependent-2022-07-31T05:59:16.698904+03:00.hyperlinks.json) |
 | [July 30 at 6:42 PM](https://archive.org/download/kyivindependent-2022/kyivindependent-2022-07-30T18:42:32.764824+03:00.hyperlinks.json) |
-| [July 30 at 5:43 AM](https://archive.org/download/kyivindependent-2022/kyivindependent-2022-07-30T05:43:06.290143+03:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 269 accessibility trees with the Internet Archive.
+The archiving routine has saved 270 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 4 at 6:25 AM](https://archive.org/download/kyivindependent-2022/kyivindependent-2022-08-04T06:25:39.335451+03:00.accessibility.json) |
 | [August 3 at 8:00 PM](https://archive.org/download/kyivindependent-2022/kyivindependent-2022-08-03T20:00:17.584151+03:00.accessibility.json) |
 | [August 3 at 7:34 AM](https://archive.org/download/kyivindependent-2022/kyivindependent-2022-08-03T07:34:22.626790+03:00.accessibility.json) |
 | [August 2 at 5:56 PM](https://archive.org/download/kyivindependent-2022/kyivindependent-2022-08-02T17:56:33.679865+03:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 31 at 5:40 PM](https://archive.org/download/kyivindependent-2022/kyivindependent-2022-07-31T17:40:06.569465+03:00.accessibility.json) |
 | [July 31 at 5:59 AM](https://archive.org/download/kyivindependent-2022/kyivindependent-2022-07-31T05:59:16.698904+03:00.accessibility.json) |
 | [July 30 at 6:42 PM](https://archive.org/download/kyivindependent-2022/kyivindependent-2022-07-30T18:42:32.764824+03:00.accessibility.json) |
-| [July 30 at 5:43 AM](https://archive.org/download/kyivindependent-2022/kyivindependent-2022-07-30T05:43:06.290143+03:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 22 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 4 at 6:25 AM](https://archive.org/download/kyivindependent-2022/kyivindependent-2022-08-04T06:25:39.335451+03:00.lighthouse.json) |
 | [August 3 at 8:00 PM](https://archive.org/download/kyivindependent-2022/kyivindependent-2022-08-03T20:00:17.584151+03:00.lighthouse.json) |
 | [August 3 at 7:34 AM](https://archive.org/download/kyivindependent-2022/kyivindependent-2022-08-03T07:34:22.626790+03:00.lighthouse.json) |
 | [August 2 at 5:56 PM](https://archive.org/download/kyivindependent-2022/kyivindependent-2022-08-02T17:56:33.679865+03:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 31 at 5:40 PM](https://archive.org/download/kyivindependent-2022/kyivindependent-2022-07-31T17:40:06.569465+03:00.lighthouse.json) |
 | [July 31 at 5:59 AM](https://archive.org/download/kyivindependent-2022/kyivindependent-2022-07-31T05:59:16.698904+03:00.lighthouse.json) |
 | [July 30 at 6:42 PM](https://archive.org/download/kyivindependent-2022/kyivindependent-2022-07-30T18:42:32.764824+03:00.lighthouse.json) |
-| [July 30 at 5:43 AM](https://archive.org/download/kyivindependent-2022/kyivindependent-2022-07-30T05:43:06.290143+03:00.lighthouse.json) |
 
 
 

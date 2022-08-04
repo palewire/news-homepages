@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 125 screenshots with the Internet Archive.
+The archiving routine has saved 126 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 125 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-03T23:13:46.751807-04:00.jpg">
+  <img src="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-03T23:13:46.751807-04:00.jpg"
+     alt="Votebeat at 2022-08-03 23:13:51-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-03T23:13:46.751807-04:00.jpg">August 3 at 11:13 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-08-03T10:33:32.622271-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-29T09:37:02.384912-04:00.jpg">July 29 at 9:37 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-28T21:30:22.526916-04:00.jpg">
-  <img src="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-28T21:30:22.526916-04:00.jpg"
-     alt="Votebeat at 2022-07-28 21:30:23-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-07-28T21:30:22.526916-04:00.jpg">July 28 at 9:30 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 126 hyperlink lists with the Internet Archive.
+The archiving routine has saved 127 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 3 at 11:13 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-03T23:13:46.751807-04:00.hyperlinks.json) |
 | [August 3 at 10:33 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-03T10:33:32.622271-04:00.hyperlinks.json) |
 | [August 2 at 10:00 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-02T22:00:06.042986-04:00.hyperlinks.json) |
 | [August 2 at 9:47 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-02T09:47:25.655569-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 31 at 9:35 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-31T09:35:04.686870-04:00.hyperlinks.json) |
 | [July 30 at 10:51 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-30T22:50:58.715763-04:00.hyperlinks.json) |
 | [July 30 at 9:38 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-30T09:37:55.572103-04:00.hyperlinks.json) |
-| [July 29 at 9:25 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-29T21:25:39.133849-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 126 accessibility trees with the Internet Archive.
+The archiving routine has saved 127 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 3 at 11:13 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-03T23:13:46.751807-04:00.accessibility.json) |
 | [August 3 at 10:33 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-03T10:33:32.622271-04:00.accessibility.json) |
 | [August 2 at 10:00 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-02T22:00:06.042986-04:00.accessibility.json) |
 | [August 2 at 9:47 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-02T09:47:25.655569-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 31 at 9:35 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-31T09:35:04.686870-04:00.accessibility.json) |
 | [July 30 at 10:51 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-30T22:50:58.715763-04:00.accessibility.json) |
 | [July 30 at 9:38 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-30T09:37:55.572103-04:00.accessibility.json) |
-| [July 29 at 9:25 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-29T21:25:39.133849-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 24 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 3 at 11:13 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-03T23:13:46.751807-04:00.lighthouse.json) |
 | [August 3 at 10:33 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-03T10:33:32.622271-04:00.lighthouse.json) |
 | [August 2 at 10:00 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-02T22:00:06.042986-04:00.lighthouse.json) |
 | [August 2 at 9:47 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-08-02T09:47:25.655569-04:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 31 at 9:35 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-31T09:35:04.686870-04:00.lighthouse.json) |
 | [July 30 at 10:51 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-30T22:50:58.715763-04:00.lighthouse.json) |
 | [July 30 at 9:38 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-30T09:37:55.572103-04:00.lighthouse.json) |
-| [July 29 at 9:25 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-07-29T21:25:39.133849-04:00.lighthouse.json) |
 
 
 

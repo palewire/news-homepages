@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 51 screenshots with the Internet Archive.
+The archiving routine has saved 52 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 51 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/austinvida-2022/austinvida-2022-08-04T06:08:38.758199-05:00.jpg">
+  <img src="https://archive.org/download/austinvida-2022/austinvida-2022-08-04T06:08:38.758199-05:00.jpg"
+     alt="Austin Vida at 2022-08-04 06:08:40-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/austinvida-2022/austinvida-2022-08-04T06:08:38.758199-05:00.jpg">August 4 at 6:08 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/austinvida-2022/austinvida-2022-08-03T18:16:48.932939-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/austinvida-2022/austinvida-2022-07-29T19:00:44.190359-05:00.jpg">July 29 at 7:00 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/austinvida-2022/austinvida-2022-07-29T06:03:42.380919-05:00.jpg">
-  <img src="https://archive.org/download/austinvida-2022/austinvida-2022-07-29T06:03:42.380919-05:00.jpg"
-     alt="Austin Vida at 2022-07-29 06:03:44-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/austinvida-2022/austinvida-2022-07-29T06:03:42.380919-05:00.jpg">July 29 at 6:03 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 51 hyperlink lists with the Internet Archive.
+The archiving routine has saved 52 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 4 at 6:08 AM](https://archive.org/download/austinvida-2022/austinvida-2022-08-04T06:08:38.758199-05:00.hyperlinks.json) |
 | [August 3 at 6:16 PM](https://archive.org/download/austinvida-2022/austinvida-2022-08-03T18:16:48.932939-05:00.hyperlinks.json) |
 | [August 3 at 7:34 AM](https://archive.org/download/austinvida-2022/austinvida-2022-08-03T07:34:48.144407-05:00.hyperlinks.json) |
 | [August 2 at 6:17 PM](https://archive.org/download/austinvida-2022/austinvida-2022-08-02T18:17:31.112193-05:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 31 at 7:06 PM](https://archive.org/download/austinvida-2022/austinvida-2022-07-31T19:06:42.582527-05:00.hyperlinks.json) |
 | [July 31 at 6:06 AM](https://archive.org/download/austinvida-2022/austinvida-2022-07-31T06:06:43.345250-05:00.hyperlinks.json) |
 | [July 30 at 6:12 PM](https://archive.org/download/austinvida-2022/austinvida-2022-07-30T18:12:01.996300-05:00.hyperlinks.json) |
-| [July 30 at 6:10 AM](https://archive.org/download/austinvida-2022/austinvida-2022-07-30T06:10:19.802825-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 51 accessibility trees with the Internet Archive.
+The archiving routine has saved 52 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 4 at 6:08 AM](https://archive.org/download/austinvida-2022/austinvida-2022-08-04T06:08:38.758199-05:00.accessibility.json) |
 | [August 3 at 6:16 PM](https://archive.org/download/austinvida-2022/austinvida-2022-08-03T18:16:48.932939-05:00.accessibility.json) |
 | [August 3 at 7:34 AM](https://archive.org/download/austinvida-2022/austinvida-2022-08-03T07:34:48.144407-05:00.accessibility.json) |
 | [August 2 at 6:17 PM](https://archive.org/download/austinvida-2022/austinvida-2022-08-02T18:17:31.112193-05:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 31 at 7:06 PM](https://archive.org/download/austinvida-2022/austinvida-2022-07-31T19:06:42.582527-05:00.accessibility.json) |
 | [July 31 at 6:06 AM](https://archive.org/download/austinvida-2022/austinvida-2022-07-31T06:06:43.345250-05:00.accessibility.json) |
 | [July 30 at 6:12 PM](https://archive.org/download/austinvida-2022/austinvida-2022-07-30T18:12:01.996300-05:00.accessibility.json) |
-| [July 30 at 6:10 AM](https://archive.org/download/austinvida-2022/austinvida-2022-07-30T06:10:19.802825-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 24 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 4 at 6:08 AM](https://archive.org/download/austinvida-2022/austinvida-2022-08-04T06:08:38.758199-05:00.lighthouse.json) |
 | [August 3 at 6:16 PM](https://archive.org/download/austinvida-2022/austinvida-2022-08-03T18:16:48.932939-05:00.lighthouse.json) |
 | [August 3 at 7:34 AM](https://archive.org/download/austinvida-2022/austinvida-2022-08-03T07:34:48.144407-05:00.lighthouse.json) |
 | [August 2 at 6:17 PM](https://archive.org/download/austinvida-2022/austinvida-2022-08-02T18:17:31.112193-05:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 31 at 7:06 PM](https://archive.org/download/austinvida-2022/austinvida-2022-07-31T19:06:42.582527-05:00.lighthouse.json) |
 | [July 31 at 6:06 AM](https://archive.org/download/austinvida-2022/austinvida-2022-07-31T06:06:43.345250-05:00.lighthouse.json) |
 | [July 30 at 6:12 PM](https://archive.org/download/austinvida-2022/austinvida-2022-07-30T18:12:01.996300-05:00.lighthouse.json) |
-| [July 30 at 6:10 AM](https://archive.org/download/austinvida-2022/austinvida-2022-07-30T06:10:19.802825-05:00.lighthouse.json) |
 
 
 

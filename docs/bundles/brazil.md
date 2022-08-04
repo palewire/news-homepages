@@ -7,9 +7,54 @@ orphan: true
 
 # Brazil
 
-The most recent homepages from 8 news sites in this bundle.
+The most recent homepages from 25 news sites in this bundle.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/agenciabrasil.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/agenciabrasil.jpg"
+     alt="Agência Brasil"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/agenciabrasil.html">Agência Brasil</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/agenciapublica.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/agenciapublica.jpg"
+     alt="Agência Pública"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/agenciapublica.html">Agência Pública</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/correio.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/correio.jpg"
+     alt="Correio Braziliense"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/correio.html">Correio Braziliense</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/diariope.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/diariope.jpg"
+     alt="Diario de Pernambuco"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/diariope.html">Diario de Pernambuco</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/em_com.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/em_com.jpg"
+     alt="Estado de Minas"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/em_com.html">Estado de Minas</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/estadao.html">
@@ -36,6 +81,15 @@ The most recent homepages from 8 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/g1.html">g1</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/gazetadopovo.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gazetadopovo.jpg"
+     alt="Gazeta do Povo"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/gazetadopovo.html">Gazeta do Povo</a></p>
 </div>
 
 <div class="latest-child">
@@ -66,6 +120,42 @@ The most recent homepages from 8 news sites in this bundle.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/atarde.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/atarde.jpg"
+     alt="Jornal A Tarde"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/atarde.html">Jornal A Tarde</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/jornaldobrasil.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jornaldobrasil.jpg"
+     alt="Jornal do Brasil"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/jornaldobrasil.html">Jornal do Brasil</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/lancenet.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lancenet.jpg"
+     alt="Lance"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/lancenet.html">Lance</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/o_antagonista.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/o_antagonista.jpg"
+     alt="O Antagonista"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/o_antagonista.html">O Antagonista</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/jornaloglobo.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jornaloglobo.jpg"
      alt="O Globo"
@@ -75,12 +165,75 @@ The most recent homepages from 8 news sites in this bundle.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/opovo.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/opovo.jpg"
+     alt="O Povo"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/opovo.html">O Povo</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/progressoms.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/progressoms.jpg"
+     alt="O Progresso"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/progressoms.html">O Progresso</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/observatorio.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/observatorio.jpg"
+     alt="Observatório da Imprensa"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/observatorio.html">Observatório da Imprensa</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/omelete.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/omelete.jpg"
+     alt="Omelete"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/omelete.html">Omelete</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/theriotimes.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theriotimes.jpg"
+     alt="Rio Times"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/theriotimes.html">Rio Times</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/uolnoticias.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/uolnoticias.jpg"
      alt="UOL Notícias"
      loading="lazy">
  </a>
  <p><a href="../sites/uolnoticias.html">UOL Notícias</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/valoreconomico.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/valoreconomico.jpg"
+     alt="Valor Econômico"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/valoreconomico.html">Valor Econômico</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/zerohora.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/zerohora.jpg"
+     alt="Zero Hora"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/zerohora.html">Zero Hora</a></p>
 </div>
 
 </div>
@@ -98,11 +251,28 @@ The most recent homepages from 8 news sites in this bundle.
 
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |
+|[Agência Brasil](https://palewi.re/docs/news-homepages/sites/agenciabrasil.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/agenciabrasil.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/agenciabrasil.xml)|
+|[Agência Pública](https://palewi.re/docs/news-homepages/sites/agenciapublica.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/agenciapublica.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/agenciapublica.xml)|
+|[Correio Braziliense](https://palewi.re/docs/news-homepages/sites/correio.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/correio.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/correio.xml)|
+|[Diario de Pernambuco](https://palewi.re/docs/news-homepages/sites/diariope.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/diariope.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/diariope.xml)|
+|[Estado de Minas](https://palewi.re/docs/news-homepages/sites/em_com.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/em_com.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/em_com.xml)|
 |[Estadão](https://palewi.re/docs/news-homepages/sites/estadao.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/estadao.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/estadao.xml)|
 |[Folha de S.Paulo](https://palewi.re/docs/news-homepages/sites/folha.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/folha.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/folha.xml)|
 |[g1](https://palewi.re/docs/news-homepages/sites/g1.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/g1.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/g1.xml)|
+|[Gazeta do Povo](https://palewi.re/docs/news-homepages/sites/gazetadopovo.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gazetadopovo.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gazetadopovo.xml)|
 |[InfoAmazonia](https://palewi.re/docs/news-homepages/sites/infoamazoniabr.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/infoamazoniabr.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/infoamazoniabr.xml)|
 |[Intercept Brazil](https://palewi.re/docs/news-homepages/sites/theinterceptbr.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theinterceptbr.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theinterceptbr.xml)|
 |[ISTOÉ](https://palewi.re/docs/news-homepages/sites/revistaistoe.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/revistaistoe.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/revistaistoe.xml)|
+|[Jornal A Tarde](https://palewi.re/docs/news-homepages/sites/atarde.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/atarde.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/atarde.xml)|
+|[Jornal do Brasil](https://palewi.re/docs/news-homepages/sites/jornaldobrasil.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jornaldobrasil.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/jornaldobrasil.xml)|
+|[Lance](https://palewi.re/docs/news-homepages/sites/lancenet.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lancenet.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lancenet.xml)|
+|[O Antagonista](https://palewi.re/docs/news-homepages/sites/o_antagonista.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/o_antagonista.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/o_antagonista.xml)|
 |[O Globo](https://palewi.re/docs/news-homepages/sites/jornaloglobo.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jornaloglobo.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/jornaloglobo.xml)|
+|[O Povo](https://palewi.re/docs/news-homepages/sites/opovo.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/opovo.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/opovo.xml)|
+|[O Progresso](https://palewi.re/docs/news-homepages/sites/progressoms.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/progressoms.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/progressoms.xml)|
+|[Observatório da Imprensa](https://palewi.re/docs/news-homepages/sites/observatorio.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/observatorio.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/observatorio.xml)|
+|[Omelete](https://palewi.re/docs/news-homepages/sites/omelete.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/omelete.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/omelete.xml)|
+|[Rio Times](https://palewi.re/docs/news-homepages/sites/theriotimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theriotimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theriotimes.xml)|
 |[UOL Notícias](https://palewi.re/docs/news-homepages/sites/uolnoticias.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/uolnoticias.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/uolnoticias.xml)|
+|[Valor Econômico](https://palewi.re/docs/news-homepages/sites/valoreconomico.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/valoreconomico.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/valoreconomico.xml)|
+|[Zero Hora](https://palewi.re/docs/news-homepages/sites/zerohora.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/zerohora.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/zerohora.xml)|
