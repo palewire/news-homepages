@@ -30,7 +30,7 @@ runs:
       name: Save in Wayback Machine
       run: |
         mkdir _dist/
-        pipenv run python -m newshomepages.wayback single ${{ inputs.source }} > _dist/${{ inputs.source }}.wayback.json
+        pipenv run python -m newshomepages.wayback ${{ inputs.source }} > _dist/${{ inputs.source }}.wayback.json
       shell: bash
       env:
         IA_ACCESS_KEY: ${{ inputs.access-key }}
