@@ -1,5 +1,5 @@
 {
-  "created": 1659540367,
+  "created": 1659617033,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/27/items/wbur-2022",
@@ -630,31 +630,83 @@
       "sha1": "c9b8f5a5f5b399407fafa2ca5868ab1447ed696d"
     },
     {
+      "name": "wbur-2022-08-03T23:13:50.185501-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659582832",
+      "size": "23610",
+      "md5": "e048717fc5a97890b4d5887bd7411bab",
+      "crc32": "09e9bca6",
+      "sha1": "5098775239d660396206e97bb5d283f1189043ea",
+      "format": "JSON"
+    },
+    {
+      "name": "wbur-2022-08-03T23:13:50.185501-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659582834",
+      "size": "19896",
+      "md5": "c75c931c3e111bbf9884502157f0fec6",
+      "crc32": "2e2064ce",
+      "sha1": "54c8664ab4c00e0723740550b4e3d6c7ad7f27e1",
+      "format": "JSON"
+    },
+    {
+      "name": "wbur-2022-08-03T23:13:50.185501-04:00.jpg",
+      "source": "original",
+      "mtime": "1659582831",
+      "size": "297541",
+      "md5": "70f1aea8628e8f453fc8b27dfcd18ab8",
+      "crc32": "761b8bd7",
+      "sha1": "5220d20aaf62a6f4388ae0ba779be89cbd1a831b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wbur-2022-08-03T23:13:50.185501-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659582835",
+      "size": "1441",
+      "md5": "145c2c84592e8fd4f4d1be3c0c7cc2a9",
+      "crc32": "d47b3508",
+      "sha1": "a8a7dd063a0fcab452ccf2628e12fc292d48a2e5",
+      "format": "JSON"
+    },
+    {
+      "name": "wbur-2022-08-03T23:13:50.185501-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wbur-2022-08-03T23:13:50.185501-04:00.jpg",
+      "mtime": "1659583028",
+      "size": "10318",
+      "md5": "f6aa38dfbedcc2e0aeeb90146518e7df",
+      "crc32": "935cb779",
+      "sha1": "ec53f79378781a319baf237302c4fd9b56e3187f"
+    },
+    {
       "name": "wbur-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e6b413eea6a5d196e49488fb5343f074f94b4d2b",
-      "mtime": "1659540331",
-      "size": "13752",
-      "md5": "fd50bd8443e957051883e6a235dcab8e",
-      "crc32": "dfb2beab",
-      "sha1": "6cd0931baf3a928e40e1ae4cbb200daa107b24a9",
+      "btih": "fa7c8826a5cd80bea11767c3f8931f3665e310bf",
+      "mtime": "1659583032",
+      "size": "14792",
+      "md5": "8223ea97b6eabcdb683cf107b91f5f4d",
+      "crc32": "5f458d14",
+      "sha1": "60bd64b7aef3d628371c08a47956919f745aa8fa",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wbur-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "50bcc162d829b7ae36ce6f95d4c7e85b",
+      "md5": "43ff7234d90c73799d717794d0e1baa4",
       "summation": "md5"
     },
     {
       "name": "wbur-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659537275",
-      "size": "86016",
-      "md5": "49d00987e91725c72bc54e01f67ef65e",
-      "crc32": "120b07b7",
-      "sha1": "6f74f4fb93df00d8d519760f65c1149f7a3353fb",
+      "mtime": "1659582840",
+      "size": "90112",
+      "md5": "7b5170d0a34f5a778ef371ea04c98bc5",
+      "crc32": "186e228a",
+      "sha1": "1862dfbce17a718b51bab16c0d631e13da6c9691",
       "format": "Metadata"
     },
     {
@@ -668,9 +720,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 64,
-  "item_last_updated": 1659540331,
-  "item_size": 4081374,
+  "files_count": 69,
+  "item_last_updated": 1659583032,
+  "item_size": 4439316,
   "metadata": {
     "identifier": "wbur-2022",
     "collection": [
@@ -688,7 +740,48 @@
     "addeddate": "2022-07-29 01:30:31"
   },
   "server": "ia801401.us.archive.org",
-  "uniq": 1624317117,
+  "uniq": 941834352,
+  "wbur-2022": [
+    {
+      "url": "https://www.wbur.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wbur_org-_-2022_08_04_01_52_06.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wbur_org-_-2022_08_04_01_52_06.report.json",
+      "summary": {
+        "performance": 0.37,
+        "accessibility": 0.63,
+        "best-practices": 0.92,
+        "seo": 0.78,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.wbur.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wbur_org-_-2022_08_04_01_52_21.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wbur_org-_-2022_08_04_01_52_21.report.json",
+      "summary": {
+        "performance": 0.53,
+        "accessibility": 0.63,
+        "best-practices": 0.92,
+        "seo": 0.78,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.wbur.org/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wbur_org-_-2022_08_04_01_52_34.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_wbur_org-_-2022_08_04_01_52_34.report.json",
+      "summary": {
+        "performance": 0.55,
+        "accessibility": 0.63,
+        "best-practices": 0.92,
+        "seo": 0.78,
+        "pwa": 0.4
+      }
+    }
+  ],
   "workable_servers": [
     "ia801401.us.archive.org",
     "ia601401.us.archive.org"

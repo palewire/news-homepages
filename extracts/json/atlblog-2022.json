@@ -1,5 +1,5 @@
 {
-  "created": 1659552794,
+  "created": 1659582406,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/10/items/atlblog-2022",
@@ -2424,31 +2424,83 @@
       "sha1": "3eab1ec66740c01df6d8cc0c91ec2c43f7250d48"
     },
     {
+      "name": "atlblog-2022-08-03T23:04:29.222085-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659582273",
+      "size": "26889",
+      "md5": "a014d4c0fcaac95016fe2b4c9376c0f1",
+      "crc32": "a60c8b0a",
+      "sha1": "927a8d65acc7c72f224aa1e7764c05d9ce1913a0",
+      "format": "JSON"
+    },
+    {
+      "name": "atlblog-2022-08-03T23:04:29.222085-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659582276",
+      "size": "37765",
+      "md5": "3d05a229174334fe3cd44aaeea940d1c",
+      "crc32": "4c914ad6",
+      "sha1": "7f12cb40bcc81ae6a2226ed0e2524b62576581b0",
+      "format": "JSON"
+    },
+    {
+      "name": "atlblog-2022-08-03T23:04:29.222085-04:00.jpg",
+      "source": "original",
+      "mtime": "1659582271",
+      "size": "266261",
+      "md5": "3634f169f58543d48ed406c0f0ff68d9",
+      "crc32": "30b92fc4",
+      "sha1": "9cf2c26181b3a82f32231b05e449d985a70d6c3d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "atlblog-2022-08-03T23:04:29.222085-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659582278",
+      "size": "1468",
+      "md5": "8b641054ef57ef47ee552661c2f3703d",
+      "crc32": "f881bd2e",
+      "sha1": "97704b8de3ceaa2c7c8b50de6e1841ccc7275972",
+      "format": "JSON"
+    },
+    {
+      "name": "atlblog-2022-08-03T23:04:29.222085-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "atlblog-2022-08-03T23:04:29.222085-04:00.jpg",
+      "mtime": "1659582357",
+      "size": "9577",
+      "md5": "00d746787700d196bad71bb8b36560e8",
+      "crc32": "67e925bf",
+      "sha1": "767fd6d6eb01422457e03ff7087392cfa026037a"
+    },
+    {
       "name": "atlblog-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ecf6ff639c82b1e60e467af4cc4287e03374c36a",
-      "mtime": "1659552782",
-      "size": "49979",
-      "md5": "a4e22481e8dcfd97a17934c449cb4ca5",
-      "crc32": "a19a9eec",
-      "sha1": "c3f546e7cb0dc6e0eb3bd974bddaae37a393a13f",
+      "btih": "f53dcad63116046d7fa16025ffbf9fe5521044fc",
+      "mtime": "1659582367",
+      "size": "51033",
+      "md5": "cafc0c20c0445d72fa033eeb755e5004",
+      "crc32": "8f8e1d62",
+      "sha1": "cd840defa429e7272c75ff79a190b0d713760db1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "atlblog-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5bc7b0b49021cecd45613d1d22f1bfc0",
+      "md5": "0bb76e01d96b77adc48708ade33b112d",
       "summation": "md5"
     },
     {
       "name": "atlblog-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659552042",
-      "size": "299008",
-      "md5": "fcb2c845a45eedba831dc5cd7911d62e",
-      "crc32": "cd888e3a",
-      "sha1": "537a253a756e6045657981d307b1f0372dd7f062",
+      "mtime": "1659582289",
+      "size": "303104",
+      "md5": "3fdf524db2415a5a6a69ae9283eab61f",
+      "crc32": "a8c5a72f",
+      "sha1": "16ea3e0beb4c9a20860a2162f95e6fda6602669f",
       "format": "Metadata"
     },
     {
@@ -2462,9 +2514,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 236,
-  "item_last_updated": 1659552782,
-  "item_size": 16795082,
+  "files_count": 241,
+  "item_last_updated": 1659582367,
+  "item_size": 17142192,
   "metadata": {
     "identifier": "atlblog-2022",
     "collection": [
@@ -2482,7 +2534,7 @@
     "addeddate": "2022-07-19 01:14:59"
   },
   "server": "ia801406.us.archive.org",
-  "uniq": 823951681,
+  "uniq": 1655141738,
   "workable_servers": [
     "ia801406.us.archive.org",
     "ia601406.us.archive.org"

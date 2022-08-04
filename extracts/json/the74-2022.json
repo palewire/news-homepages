@@ -1,5 +1,5 @@
 {
-  "created": 1659574168,
+  "created": 1659582726,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/35/items/the74-2022",
@@ -2396,31 +2396,83 @@
       "sha1": "16faf70c0bb7fd40c6ec715c325cc8e2b773840e"
     },
     {
+      "name": "the74-2022-08-03T23:09:32.025285-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659582575",
+      "size": "30595",
+      "md5": "a38ae6d8bd8c39ce549433c0e0a413ef",
+      "crc32": "75ce8846",
+      "sha1": "b06bc05ca1e865ea1e457c6fc3cc70176d4522d1",
+      "format": "JSON"
+    },
+    {
+      "name": "the74-2022-08-03T23:09:32.025285-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659582582",
+      "size": "68925",
+      "md5": "943f79dcf9161b4be281718a513f4ef0",
+      "crc32": "622dc2c0",
+      "sha1": "cedda85f8707d94e7bdefb09b49ee90ad48c36c4",
+      "format": "JSON"
+    },
+    {
+      "name": "the74-2022-08-03T23:09:32.025285-04:00.jpg",
+      "source": "original",
+      "mtime": "1659582573",
+      "size": "253387",
+      "md5": "61108a452413770e92d6900402722969",
+      "crc32": "b800c9e3",
+      "sha1": "c8aad1d6049497abde11074d149371a4196ee7e8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "the74-2022-08-03T23:09:32.025285-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659582583",
+      "size": "1501",
+      "md5": "265c57ee9b5f1b50c8ba5f9475007221",
+      "crc32": "d3f259d0",
+      "sha1": "55894be974f867d061080de4db6aa7f87b5140f3",
+      "format": "JSON"
+    },
+    {
+      "name": "the74-2022-08-03T23:09:32.025285-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "the74-2022-08-03T23:09:32.025285-04:00.jpg",
+      "mtime": "1659582695",
+      "size": "9903",
+      "md5": "2d29b510a67aac613757b4d185cbfc62",
+      "crc32": "e4a127c5",
+      "sha1": "4968bc82e145eed0ff10a28047d04895992ec050"
+    },
+    {
       "name": "the74-2022_archive.torrent",
       "source": "metadata",
-      "btih": "186f263ad95e37aa6394adf1daaf192d97b63196",
-      "mtime": "1659540260",
-      "size": "48991",
-      "md5": "e5bbdd9b8927218815848026f458eebf",
-      "crc32": "97f1e245",
-      "sha1": "2bb67a90c7930455fd7f831fe4e4c33af114944e",
+      "btih": "73a303d19ea9df17e8964c3d8d9a9308c9ee305d",
+      "mtime": "1659582703",
+      "size": "50035",
+      "md5": "66cd7e7aaf8b8cfa68199fd3d93a7975",
+      "crc32": "2e92dded",
+      "sha1": "38ca49689a3bb92753ab3010153dcdf4cb700e31",
       "format": "Archive BitTorrent"
     },
     {
       "name": "the74-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6ee77b848279532547c96443478b0d10",
+      "md5": "938d199a6a19a46d9e8bc5f846a22cc0",
       "summation": "md5"
     },
     {
       "name": "the74-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659536986",
-      "size": "294912",
-      "md5": "1a752dd23aaf553127b4ad07a9d38892",
-      "crc32": "b60ee68d",
-      "sha1": "688cfd20d0a002f225bd9576c4009b058f9cdaf1",
+      "mtime": "1659582588",
+      "size": "299008",
+      "md5": "aa5f880ae30c2c6baccfb7df3d9a442c",
+      "crc32": "03cec918",
+      "sha1": "0bca314bac4c56fc08e61c9dc7065cf7a9e91193",
       "format": "Metadata"
     },
     {
@@ -2434,9 +2486,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 233,
-  "item_last_updated": 1659540260,
-  "item_size": 19270994,
+  "files_count": 238,
+  "item_last_updated": 1659582703,
+  "item_size": 19640445,
   "metadata": {
     "identifier": "the74-2022",
     "collection": [
@@ -2454,48 +2506,7 @@
     "addeddate": "2022-07-09 04:04:26"
   },
   "server": "ia601506.us.archive.org",
-  "the74-2022": [
-    {
-      "url": "https://www.the74million.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_the74million_org-_-2022_08_03_14_06_37.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_the74million_org-_-2022_08_03_14_06_37.report.json",
-      "summary": {
-        "performance": 0.57,
-        "accessibility": 0.8,
-        "best-practices": 1,
-        "seo": 0.93,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.the74million.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_the74million_org-_-2022_08_03_14_07_18.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_the74million_org-_-2022_08_03_14_07_18.report.json",
-      "summary": {
-        "performance": 0.61,
-        "accessibility": 0.8,
-        "best-practices": 1,
-        "seo": 0.93,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.the74million.org/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_the74million_org-_-2022_08_03_14_06_58.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_the74million_org-_-2022_08_03_14_06_58.report.json",
-      "summary": {
-        "performance": 0.6,
-        "accessibility": 0.8,
-        "best-practices": 1,
-        "seo": 0.93,
-        "pwa": 0.4
-      }
-    }
-  ],
-  "uniq": 506398933,
+  "uniq": 1983273566,
   "workable_servers": [
     "ia601506.us.archive.org",
     "ia801506.us.archive.org"

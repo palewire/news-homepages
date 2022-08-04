@@ -1,6 +1,5 @@
 {
-  "conflict": 1659573764,
-  "created": 1659573764,
+  "created": 1659616116,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/8/items/joplinglobe-2022",
@@ -2138,21 +2137,32 @@
       "format": "JSON"
     },
     {
+      "name": "joplinglobe-2022-08-03T19:39:21.426459-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "joplinglobe-2022-08-03T19:39:21.426459-05:00.jpg",
+      "mtime": "1659573770",
+      "size": "9452",
+      "md5": "fbfa741d85883effc0f43b7bbaa5c336",
+      "crc32": "e6e8ced8",
+      "sha1": "509e161a53764702b4919f75416d7f56e5fda38c"
+    },
+    {
       "name": "joplinglobe-2022_archive.torrent",
       "source": "metadata",
-      "btih": "03e8187097b054603433c4e882e47bd9f3f5cafb",
-      "mtime": "1659573621",
-      "size": "44598",
-      "md5": "51152e972d155489b96af6224e686777",
-      "crc32": "3df0209f",
-      "sha1": "3fe2557425fb8e15eedf6928e2330ce7d23049ac",
+      "btih": "b082d9b7460fbe6f0d7fa48a0ddc5db662ec7463",
+      "mtime": "1659573775",
+      "size": "44805",
+      "md5": "bbef750f6a90d4760ea29e4de545443d",
+      "crc32": "904dc18b",
+      "sha1": "10409715ef9fd75f2a26a546e726a4c86d79c967",
       "format": "Archive BitTorrent"
     },
     {
       "name": "joplinglobe-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4c8814ae0668243cd05e059d0d74cb6e",
+      "md5": "70244b43c0619e6f503ee62f771e155d",
       "summation": "md5"
     },
     {
@@ -2176,9 +2186,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 206,
-  "item_last_updated": 1659573621,
-  "item_size": 22763431,
+  "files_count": 207,
+  "item_last_updated": 1659573775,
+  "item_size": 22773090,
+  "joplinglobe-2022": [
+    {
+      "url": "https://www.joplinglobe.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_joplinglobe_com-_-2022_08_04_00_05_20.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_joplinglobe_com-_-2022_08_04_00_05_20.report.json",
+      "summary": {
+        "performance": 0.11,
+        "accessibility": 0.72,
+        "best-practices": 0.58,
+        "seo": 0.77,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.joplinglobe.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_joplinglobe_com-_-2022_08_04_00_07_27.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_joplinglobe_com-_-2022_08_04_00_07_27.report.json",
+      "summary": {
+        "performance": 0.11,
+        "accessibility": 0.72,
+        "best-practices": 0.58,
+        "seo": 0.77,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.joplinglobe.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_joplinglobe_com-_-2022_08_04_00_06_34.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_joplinglobe_com-_-2022_08_04_00_06_34.report.json",
+      "summary": {
+        "performance": 0.11,
+        "accessibility": 0.72,
+        "best-practices": 0.58,
+        "seo": 0.77,
+        "pwa": 0.4
+      }
+    }
+  ],
   "metadata": {
     "identifier": "joplinglobe-2022",
     "collection": [
@@ -2195,21 +2246,10 @@
     "publicdate": "2022-07-04 21:54:35",
     "addeddate": "2022-07-04 21:54:35"
   },
-  "pending_tasks": true,
-  "server": "ia902500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3352003141,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 164469428,
+  "server": "ia802500.us.archive.org",
+  "uniq": 1925378016,
   "workable_servers": [
+    "ia802500.us.archive.org",
     "ia902500.us.archive.org"
   ]
 }

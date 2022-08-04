@@ -1,5 +1,5 @@
 {
-  "created": 1659574278,
+  "created": 1659616960,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/29/items/ukrinform-2022",
@@ -11376,31 +11376,83 @@
       "sha1": "09e510ac4e5a665fbd0421f7f88d0ab744e4aecc"
     },
     {
+      "name": "ukrinform-2022-08-04T07:39:59.780889+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659588003",
+      "size": "62054",
+      "md5": "d58e9ad58ccc3e688939847d99714dcb",
+      "crc32": "074769fe",
+      "sha1": "aeb7e9995a0f6b807307394ff9e29c35e15a799d",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-08-04T07:39:59.780889+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659588004",
+      "size": "57351",
+      "md5": "4c39f5d4a0c2e5dabf207aed24c47efd",
+      "crc32": "4cf52e79",
+      "sha1": "33ff9b02a3c6c52e14b737bd28cfb26a53581a37",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-08-04T07:39:59.780889+03:00.jpg",
+      "source": "original",
+      "mtime": "1659588001",
+      "size": "303147",
+      "md5": "541bc0da35bc0fa581c96cf1bf69033d",
+      "crc32": "1eef1f4e",
+      "sha1": "b5774603902a98ce4bb45e7936c5a2f9c0cc7533",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ukrinform-2022-08-04T07:39:59.780889+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659588006",
+      "size": "1475",
+      "md5": "22c94d48a9cf3e9451d5a26cb9ef0834",
+      "crc32": "1c6eef6a",
+      "sha1": "652228c0693239dbded8b761cd57d0c8f669d6c8",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-08-04T07:39:59.780889+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ukrinform-2022-08-04T07:39:59.780889+03:00.jpg",
+      "mtime": "1659588541",
+      "size": "9657",
+      "md5": "e752ef916f967ffe3673333de0c7df90",
+      "crc32": "4cc81341",
+      "sha1": "e79f4ec52741cd8e7c9184cacf8086b8f36ed088"
+    },
+    {
       "name": "ukrinform-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dad46c522c7d6883074467012fe685e7849c5a84",
-      "mtime": "1659548074",
-      "size": "231576",
-      "md5": "f86d8be37feeee1ad106d2e3c1443e0c",
-      "crc32": "13f6c227",
-      "sha1": "ef5213ba8685ccbaed544335327b8026951aa5f0",
+      "btih": "8901878ac7ba4451cb444f444f55698f04467534",
+      "mtime": "1659588554",
+      "size": "232640",
+      "md5": "f0ef06bf78e39cb41126146ec2314389",
+      "crc32": "bfb9cf8a",
+      "sha1": "38397680b2270a97ae8913c209824fa960a7f5ab",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ukrinform-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "957377048ce20e1403f150f3fc51f64a",
+      "md5": "a2af73169652d453e8c39223db53fdda",
       "summation": "md5"
     },
     {
       "name": "ukrinform-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659546936",
-      "size": "1253376",
-      "md5": "0f4aa1933e3ced79b5cc128bb52599b2",
-      "crc32": "2fb66e1b",
-      "sha1": "7afbe50f12a62a0b83fdd927bfa6d68fb2eb32bc",
+      "mtime": "1659588011",
+      "size": "1257472",
+      "md5": "e40cf26f681c3fa74dab72e8c8973c31",
+      "crc32": "d710bb17",
+      "sha1": "a7bd96c55bfe15749274618c4ce73123c5187e29",
       "format": "Metadata"
     },
     {
@@ -11414,9 +11466,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1087,
-  "item_last_updated": 1659548074,
-  "item_size": 122001685,
+  "files_count": 1092,
+  "item_last_updated": 1659588554,
+  "item_size": 122440529,
   "metadata": {
     "identifier": "ukrinform-2022",
     "collection": [
@@ -11438,11 +11490,11 @@
     {
       "url": "https://www.ukrinform.ua/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ukrinform_ua-_-2022_08_03_16_28_23.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ukrinform_ua-_-2022_08_03_16_28_23.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ukrinform_ua-_-2022_08_04_04_16_35.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ukrinform_ua-_-2022_08_04_04_16_35.report.json",
       "summary": {
-        "performance": 0.12,
-        "accessibility": 0.9,
+        "performance": 0.25,
+        "accessibility": 0.88,
         "best-practices": 0.75,
         "seo": 0.82,
         "pwa": 0.4
@@ -11451,10 +11503,10 @@
     {
       "url": "https://www.ukrinform.ua/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ukrinform_ua-_-2022_08_03_16_30_24.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ukrinform_ua-_-2022_08_03_16_30_24.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ukrinform_ua-_-2022_08_04_04_18_27.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ukrinform_ua-_-2022_08_04_04_18_27.report.json",
       "summary": {
-        "performance": 0.12,
+        "performance": 0.11,
         "accessibility": 0.9,
         "best-practices": 0.75,
         "seo": 0.82,
@@ -11464,10 +11516,10 @@
     {
       "url": "https://www.ukrinform.ua/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ukrinform_ua-_-2022_08_03_16_26_23.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ukrinform_ua-_-2022_08_03_16_26_23.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ukrinform_ua-_-2022_08_04_04_20_19.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ukrinform_ua-_-2022_08_04_04_20_19.report.json",
       "summary": {
-        "performance": 0.12,
+        "performance": 0.11,
         "accessibility": 0.9,
         "best-practices": 0.75,
         "seo": 0.82,
@@ -11475,7 +11527,7 @@
       }
     }
   ],
-  "uniq": 353947801,
+  "uniq": 1446589253,
   "workable_servers": [
     "ia801409.us.archive.org",
     "ia601409.us.archive.org"

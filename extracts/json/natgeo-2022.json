@@ -1,6 +1,5 @@
 {
-  "conflict": 1659573903,
-  "created": 1659573903,
+  "created": 1659616360,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/0/items/natgeo-2022",
@@ -2840,21 +2839,32 @@
       "format": "JSON"
     },
     {
+      "name": "natgeo-2022-08-03T20:42:07.466666-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "natgeo-2022-08-03T20:42:07.466666-04:00.jpg",
+      "mtime": "1659573913",
+      "size": "10339",
+      "md5": "315f8ac433ec66f158260ee5da58fa0a",
+      "crc32": "8708bcf8",
+      "sha1": "ecf730c486bf41085493ab3a8194294141c88e80"
+    },
+    {
       "name": "natgeo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3b493e91b8296ae994d0dda0329a88b3c8159695",
-      "mtime": "1659573780",
-      "size": "57878",
-      "md5": "69bea239c52e48a226953e94db067f4a",
-      "crc32": "a6b74967",
-      "sha1": "2d32a4cf5401384c823862a0660b82f576287468",
+      "btih": "f9d7e651b82ab733ce55801480335f8329e7219d",
+      "mtime": "1659573929",
+      "size": "58081",
+      "md5": "aed8a88f5f72abd454328d455871566e",
+      "crc32": "23100156",
+      "sha1": "9be7949be99e57fcc0e954a901df6ea2079da5e1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "natgeo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2d1e3cd2056d73ec5cee0da2a91a99c1",
+      "md5": "b263dac3169e04618e4fbaef8db83ab1",
       "summation": "md5"
     },
     {
@@ -2878,9 +2888,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 275,
-  "item_last_updated": 1659573780,
-  "item_size": 19656056,
+  "files_count": 276,
+  "item_last_updated": 1659573929,
+  "item_size": 19666598,
   "metadata": {
     "identifier": "natgeo-2022",
     "collection": [
@@ -2897,21 +2907,51 @@
     "publicdate": "2022-07-04 21:49:06",
     "addeddate": "2022-07-04 21:49:06"
   },
-  "pending_tasks": true,
-  "server": "ia601405.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "natgeo-2022": [
     {
-      "task_id": 3352006868,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "url": "https://www.nationalgeographic.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nationalgeographic_com-_-2022_08_04_00_13_26.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nationalgeographic_com-_-2022_08_04_00_13_26.report.json",
+      "summary": {
+        "performance": 0.22,
+        "accessibility": 0.82,
+        "best-practices": 0.83,
+        "seo": 0.9,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.nationalgeographic.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nationalgeographic_com-_-2022_08_04_00_13_52.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nationalgeographic_com-_-2022_08_04_00_13_52.report.json",
+      "summary": {
+        "performance": 0.23,
+        "accessibility": 0.82,
+        "best-practices": 0.83,
+        "seo": 0.9,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.nationalgeographic.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nationalgeographic_com-_-2022_08_04_00_14_15.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nationalgeographic_com-_-2022_08_04_00_14_15.report.json",
+      "summary": {
+        "performance": 0.23,
+        "accessibility": 0.82,
+        "best-practices": 0.83,
+        "seo": 0.9,
+        "pwa": 0.4
+      }
     }
   ],
-  "uniq": 1548450293,
+  "server": "ia601405.us.archive.org",
+  "uniq": 536129641,
   "workable_servers": [
-    "ia601405.us.archive.org"
+    "ia601405.us.archive.org",
+    "ia801405.us.archive.org"
   ]
 }

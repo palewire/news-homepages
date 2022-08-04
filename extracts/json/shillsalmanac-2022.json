@@ -1,5 +1,5 @@
 {
-  "created": 1659574104,
+  "created": 1659574676,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/15/items/shillsalmanac-2022",
@@ -882,31 +882,83 @@
       "sha1": "6d35c5bcd5a7feee6b7ff989366f55133bad2b74"
     },
     {
+      "name": "shillsalmanac-2022-08-03T20:48:23.867622-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659574107",
+      "size": "25327",
+      "md5": "ef99880bf46afc93c1ea1ec254797fb2",
+      "crc32": "98538882",
+      "sha1": "9c3717a9de9dc6646cc5c7da275b817d33a926e7",
+      "format": "JSON"
+    },
+    {
+      "name": "shillsalmanac-2022-08-03T20:48:23.867622-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659574108",
+      "size": "39256",
+      "md5": "0d0f74ab09b388aa372738394bcb6329",
+      "crc32": "1f5742cc",
+      "sha1": "24fc941d9f8f989736c33db68375d455ee3c5cd0",
+      "format": "JSON"
+    },
+    {
+      "name": "shillsalmanac-2022-08-03T20:48:23.867622-04:00.jpg",
+      "source": "original",
+      "mtime": "1659574105",
+      "size": "264212",
+      "md5": "6abf8938f7be5a153363c0a25bb6b676",
+      "crc32": "9147f9ec",
+      "sha1": "abb2dec29529cd14cfa608bf3d879922f30c75b2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "shillsalmanac-2022-08-03T20:48:23.867622-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659574110",
+      "size": "1458",
+      "md5": "7b899fbcaa777b787aa0b4b0f1c18ebf",
+      "crc32": "ad85886a",
+      "sha1": "33c01be171eeb664c119e6e3e6e66019c25ef9e9",
+      "format": "JSON"
+    },
+    {
+      "name": "shillsalmanac-2022-08-03T20:48:23.867622-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "shillsalmanac-2022-08-03T20:48:23.867622-04:00.jpg",
+      "mtime": "1659574611",
+      "size": "9499",
+      "md5": "f8b90c90b5e8e9c015e71b47faa5c1c5",
+      "crc32": "8fd0852b",
+      "sha1": "8640ef81bb652d087a5976a0402847f60486a56f"
+    },
+    {
       "name": "shillsalmanac-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f1da0da74b78c25118657ed5bd3bda1ac8b49529",
-      "mtime": "1659536226",
-      "size": "19525",
-      "md5": "f33ab03a0ae05a4a94b267038dcd2d65",
-      "crc32": "b3cfa925",
-      "sha1": "f8ac20a03f6afc54962a0d0649e9af6690b8e35c",
+      "btih": "d7025e43a93b36c626c1bd125ee1f3ec1db55eda",
+      "mtime": "1659574617",
+      "size": "20609",
+      "md5": "b3bfd0cc1b8ba855a1d965ed0193b959",
+      "crc32": "b61c54f0",
+      "sha1": "10ea6c82e6d4bd731e46eb3394080b96b35df18d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "shillsalmanac-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2e7744e9c2b1e8c9dffb732df7a176df",
+      "md5": "4166cebc9e658f0d105459082233c411",
       "summation": "md5"
     },
     {
       "name": "shillsalmanac-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659531511",
-      "size": "126976",
-      "md5": "ac75e7ca4edc5166c9fc0f5039d5aa2d",
-      "crc32": "5c77c621",
-      "sha1": "2d9444c76b624dc79dd33d9d552e4542719affd7",
+      "mtime": "1659574113",
+      "size": "131072",
+      "md5": "1b58bc5579d5334b0e9234fe21d80c97",
+      "crc32": "4ce0b5fd",
+      "sha1": "27c93672ca077d8b0ac2c8933e95ccaff788afd4",
       "format": "Metadata"
     },
     {
@@ -920,9 +972,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 88,
-  "item_last_updated": 1659536226,
-  "item_size": 6086391,
+  "files_count": 93,
+  "item_last_updated": 1659574617,
+  "item_size": 6431323,
   "metadata": {
     "identifier": "shillsalmanac-2022",
     "collection": [
@@ -939,10 +991,10 @@
     "publicdate": "2022-07-26 00:25:03",
     "addeddate": "2022-07-26 00:25:03"
   },
-  "server": "ia802500.us.archive.org",
-  "uniq": 2078435374,
+  "server": "ia902500.us.archive.org",
+  "uniq": 853180769,
   "workable_servers": [
-    "ia802500.us.archive.org",
-    "ia902500.us.archive.org"
+    "ia902500.us.archive.org",
+    "ia802500.us.archive.org"
   ]
 }

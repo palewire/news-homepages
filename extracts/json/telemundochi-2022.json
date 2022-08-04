@@ -1,5 +1,5 @@
 {
-  "created": 1659555522,
+  "created": 1659616801,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/20/items/telemundochi-2022",
@@ -1004,31 +1004,83 @@
       "sha1": "647dca13f04b5c26a4d2d9d6d49eeebafea3f8ba"
     },
     {
+      "name": "telemundochi-2022-08-03T22:08:31.954739-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659582516",
+      "size": "51063",
+      "md5": "5e64520b8df32f8a7e09a17a6d0833f0",
+      "crc32": "1383ed35",
+      "sha1": "e5308ef223cb65fc5cf2984bc86247ae0242f016",
+      "format": "JSON"
+    },
+    {
+      "name": "telemundochi-2022-08-03T22:08:31.954739-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659582518",
+      "size": "59788",
+      "md5": "4ded73de1d63a4bc2dd26f9b64b97d16",
+      "crc32": "70f5eaaa",
+      "sha1": "15f52225de87a16f2968bca5d190fb3adad29d9c",
+      "format": "JSON"
+    },
+    {
+      "name": "telemundochi-2022-08-03T22:08:31.954739-05:00.jpg",
+      "source": "original",
+      "mtime": "1659582514",
+      "size": "301935",
+      "md5": "7fd225209e82891ac9cc08ef4c5e59ea",
+      "crc32": "ec4c1164",
+      "sha1": "db59af927c9748b8cd5b3a8ceb77a9dadd8763b1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telemundochi-2022-08-03T22:08:31.954739-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659582519",
+      "size": "1539",
+      "md5": "27dcf0fd0f61f54293995115cac97269",
+      "crc32": "f58ca2fe",
+      "sha1": "9b980699a87e3a283d35f9a58d0c1313e4271cbd",
+      "format": "JSON"
+    },
+    {
+      "name": "telemundochi-2022-08-03T22:08:31.954739-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telemundochi-2022-08-03T22:08:31.954739-05:00.jpg",
+      "mtime": "1659582588",
+      "size": "9680",
+      "md5": "a3e04d2a4774ac507f089062908b54e5",
+      "crc32": "e922ee5d",
+      "sha1": "bb07b08abb6f1c97dfee6c035d6aabb300aabfc5"
+    },
+    {
       "name": "telemundochi-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e6d3523ae1eb644d8ecfe46d2f52fc355bdee869",
-      "mtime": "1659549040",
-      "size": "22087",
-      "md5": "3ac7cf8b852ae9f1fbd55c8347b2c39e",
-      "crc32": "e5648d92",
-      "sha1": "3ae7782961cae77796ae72d92997b3e62c2a6463",
+      "btih": "7cf767f13925ffc6f5dc50c61d209b66631fe771",
+      "mtime": "1659582595",
+      "size": "23166",
+      "md5": "94875b1f5c1ecd356b0ff263138486ec",
+      "crc32": "49274100",
+      "sha1": "be11e5993317916002f2ecbd7d9271b10e5765b4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "telemundochi-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bf66054acc903a903722ae7b491cc445",
+      "md5": "3bdb38cf9125080320a1e2a70dcdedea",
       "summation": "md5"
     },
     {
       "name": "telemundochi-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659548257",
-      "size": "143360",
-      "md5": "cd8d514a14ddabf310a4b3fc6dde0479",
-      "crc32": "55185b41",
-      "sha1": "2a7cdc0d9f70bfdc52fe2513288b0932fea51a4e",
+      "mtime": "1659582522",
+      "size": "147456",
+      "md5": "5abfb62e644754f3421fa3bd73620049",
+      "crc32": "9f229e7f",
+      "sha1": "d484107bda93771ec4fd416b5a7f7af556630a9f",
       "format": "Metadata"
     },
     {
@@ -1042,9 +1094,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 100,
-  "item_last_updated": 1659549040,
-  "item_size": 8184725,
+  "files_count": 105,
+  "item_last_updated": 1659582595,
+  "item_size": 8613905,
   "metadata": {
     "identifier": "telemundochi-2022",
     "collection": [
@@ -1061,10 +1113,51 @@
     "publicdate": "2022-07-28 20:04:16",
     "addeddate": "2022-07-28 20:04:16"
   },
-  "server": "ia802504.us.archive.org",
-  "uniq": 991570352,
+  "server": "ia902504.us.archive.org",
+  "telemundochi-2022": [
+    {
+      "url": "https://www.telemundochicago.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_telemundochicago_com-_-2022_08_04_01_45_01.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_telemundochicago_com-_-2022_08_04_01_45_01.report.json",
+      "summary": {
+        "performance": 0.14,
+        "accessibility": 0.83,
+        "best-practices": 1,
+        "seo": 0.77,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.telemundochicago.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_telemundochicago_com-_-2022_08_04_01_45_25.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_telemundochicago_com-_-2022_08_04_01_45_25.report.json",
+      "summary": {
+        "performance": 0.3,
+        "accessibility": 0.83,
+        "best-practices": 1,
+        "seo": 0.77,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.telemundochicago.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_telemundochicago_com-_-2022_08_04_01_45_46.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_telemundochicago_com-_-2022_08_04_01_45_46.report.json",
+      "summary": {
+        "performance": 0.29,
+        "accessibility": 0.83,
+        "best-practices": 1,
+        "seo": 0.77,
+        "pwa": 0.4
+      }
+    }
+  ],
+  "uniq": 1568810766,
   "workable_servers": [
-    "ia802504.us.archive.org",
-    "ia902504.us.archive.org"
+    "ia902504.us.archive.org",
+    "ia802504.us.archive.org"
   ]
 }

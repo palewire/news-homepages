@@ -1,6 +1,6 @@
 {
-  "conflict": 1659573796,
-  "created": 1659573796,
+  "conflict": 1659616245,
+  "created": 1659616245,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/5/items/le_figaro-2022",
@@ -10258,32 +10258,21 @@
       "format": "JSON"
     },
     {
-      "name": "le_figaro-2022-08-04T02:39:42.235160+02:00_thumb.jpg",
-      "source": "derivative",
-      "format": "JPEG Thumb",
-      "original": "le_figaro-2022-08-04T02:39:42.235160+02:00.jpg",
-      "mtime": "1659573691",
-      "size": "9685",
-      "md5": "2eaa814eeee79c7f0913247323d6e87a",
-      "crc32": "d2e41d23",
-      "sha1": "e79f158bc69be75515ed8f2ce267214f874d2a4b"
-    },
-    {
       "name": "le_figaro-2022_archive.torrent",
       "source": "metadata",
-      "btih": "032391bfeb0b22957445b54b6f027d39dedc302d",
-      "mtime": "1659573776",
-      "size": "210312",
-      "md5": "8ec932572f2ab5452347d4063fa7c054",
-      "crc32": "571ff6c4",
-      "sha1": "1abf9bc7a76c6e8fdc4c62fd0635acfabec2cc0a",
+      "btih": "b46271e6aa58e26acb649ef279f7f2f3a57d5949",
+      "mtime": "1659573643",
+      "size": "210107",
+      "md5": "25f62191d75503bd3a44d103e6b41a73",
+      "crc32": "0486113c",
+      "sha1": "4f9e385dc5dec3edb7856de664ab61afb01421be",
       "format": "Archive BitTorrent"
     },
     {
       "name": "le_figaro-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9c99ed82c2d3370e7bdbd55dee26c030",
+      "md5": "f5738c92a511625954296d7105f6d0e4",
       "summation": "md5"
     },
     {
@@ -10307,10 +10296,51 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 983,
+  "files_count": 982,
   "has_redrow": true,
-  "item_last_updated": 1659573776,
-  "item_size": 120070103,
+  "item_last_updated": 1659573643,
+  "item_size": 120060213,
+  "le_figaro-2022": [
+    {
+      "url": "https://www.lefigaro.fr/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lefigaro_fr-_-2022_08_04_00_10_00.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lefigaro_fr-_-2022_08_04_00_10_00.report.json",
+      "summary": {
+        "performance": 0.37,
+        "accessibility": 0.88,
+        "best-practices": 0.92,
+        "seo": 0.99,
+        "pwa": 0.8
+      }
+    },
+    {
+      "url": "https://www.lefigaro.fr/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lefigaro_fr-_-2022_08_04_00_10_20.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lefigaro_fr-_-2022_08_04_00_10_20.report.json",
+      "summary": {
+        "performance": 0.32,
+        "accessibility": 0.88,
+        "best-practices": 0.92,
+        "seo": 0.99,
+        "pwa": 0.8
+      }
+    },
+    {
+      "url": "https://www.lefigaro.fr/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lefigaro_fr-_-2022_08_04_00_10_39.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lefigaro_fr-_-2022_08_04_00_10_39.report.json",
+      "summary": {
+        "performance": 0.39,
+        "accessibility": 0.88,
+        "best-practices": 0.92,
+        "seo": 0.99,
+        "pwa": 0.8
+      }
+    }
+  ],
   "metadata": {
     "identifier": "le_figaro-2022",
     "collection": [
@@ -10328,7 +10358,7 @@
     "addeddate": "2022-04-09 13:41:47"
   },
   "pending_tasks": true,
-  "server": "ia902501.us.archive.org",
+  "server": "ia802501.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
@@ -10338,10 +10368,42 @@
       "wait_admin": 2,
       "color": "red",
       "status": "error"
+    },
+    {
+      "task_id": 3352378748,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3352378775,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3352378793,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3352378808,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 1709017469,
+  "uniq": 1005295155,
   "workable_servers": [
-    "ia902501.us.archive.org"
+    "ia802501.us.archive.org"
   ]
 }

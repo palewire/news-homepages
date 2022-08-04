@@ -1,5 +1,5 @@
 {
-  "created": 1659573723,
+  "created": 1659616035,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/12/items/gizmodo-2022",
@@ -2966,31 +2966,83 @@
       "sha1": "9c9b600071f6147d101f9e68bf6752d52d821ddb"
     },
     {
+      "name": "gizmodo-2022-08-03T20:21:54.643218-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659583319",
+      "size": "50800",
+      "md5": "ac398a6ae9e7ddabc7b00bcbaa4c1add",
+      "crc32": "79c26e83",
+      "sha1": "01d1c46b7155f8e964b4411915c1fa8c52a68ee8",
+      "format": "JSON"
+    },
+    {
+      "name": "gizmodo-2022-08-03T20:21:54.643218-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659583325",
+      "size": "29684",
+      "md5": "a58a204f682fa70aba0d49f982e9533c",
+      "crc32": "0df4c5ea",
+      "sha1": "6791a05fa5b7568404e78023350677463b18d555",
+      "format": "JSON"
+    },
+    {
+      "name": "gizmodo-2022-08-03T20:21:54.643218-07:00.jpg",
+      "source": "original",
+      "mtime": "1659583317",
+      "size": "285144",
+      "md5": "04b0a5237c95cea064d4f28b264c5137",
+      "crc32": "ff3bde2f",
+      "sha1": "c3e7bcd6b00894fc9c0e679868823b7ffce2018a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gizmodo-2022-08-03T20:21:54.643218-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659583329",
+      "size": "1431",
+      "md5": "976f3ef3df7596289826b02522f15af1",
+      "crc32": "b78d4478",
+      "sha1": "dc1e716516a205d80bba27eea06146e66d00f209",
+      "format": "JSON"
+    },
+    {
+      "name": "gizmodo-2022-08-03T20:21:54.643218-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gizmodo-2022-08-03T20:21:54.643218-07:00.jpg",
+      "mtime": "1659583555",
+      "size": "11085",
+      "md5": "6fb56e42fbb502386c55adc53542d5c5",
+      "crc32": "b8cb1676",
+      "sha1": "9f09c74a261a741d3013505646b4b9b9266ce656"
+    },
+    {
       "name": "gizmodo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1df9b729e39857294c9f353b7781be7849aa9a58",
-      "mtime": "1659546894",
-      "size": "60333",
-      "md5": "150e391165447014e7dd3f79aa1cb635",
-      "crc32": "9cde6c94",
-      "sha1": "014f3fefddf12769a8aae38ed0bb11a55198a23d",
+      "btih": "a23a85c3f428e5c379a80dfd6e45718496a6a313",
+      "mtime": "1659583559",
+      "size": "61388",
+      "md5": "c0bda6232f0691448172fa8e444bd013",
+      "crc32": "047c541a",
+      "sha1": "394cd845c9e5d7e1f98a11442ff7a84aa941bd71",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gizmodo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "223baf06181d72115e06963d79d5ae43",
+      "md5": "806b6ed049cce5d303a40539ad4ceec9",
       "summation": "md5"
     },
     {
       "name": "gizmodo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659545839",
-      "size": "335872",
-      "md5": "2259e71a3437e3d1c608e8952191e5d9",
-      "crc32": "f1d7f073",
-      "sha1": "a949b8db4b618d037684ac9ee40fd25b5eec4931",
+      "mtime": "1659583332",
+      "size": "339968",
+      "md5": "91aadd63d0c072e2472107a2aa3fdb03",
+      "crc32": "70e6fb77",
+      "sha1": "ca09c3f6ff0d2b49e07831f926a3faf5c9e971cd",
       "format": "Metadata"
     },
     {
@@ -3004,16 +3056,29 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 285,
+  "files_count": 290,
   "gizmodo-2022": [
     {
       "url": "https://gizmodo.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/gizmodo_com-_-2022_08_03_15_22_24.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/gizmodo_com-_-2022_08_03_15_22_24.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/gizmodo_com-_-2022_08_04_02_42_27.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/gizmodo_com-_-2022_08_04_02_42_27.report.json",
+      "summary": {
+        "performance": 0.35,
+        "accessibility": 0.97,
+        "best-practices": 0.83,
+        "seo": 0.89,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://gizmodo.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/gizmodo_com-_-2022_08_04_02_42_58.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/gizmodo_com-_-2022_08_04_02_42_58.report.json",
       "summary": {
         "performance": 0.36,
-        "accessibility": 0.95,
+        "accessibility": 0.94,
         "best-practices": 0.92,
         "seo": 0.9,
         "pwa": 0.4
@@ -3021,33 +3086,20 @@
     },
     {
       "url": "https://gizmodo.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/gizmodo_com-_-2022_08_03_15_24_01.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/gizmodo_com-_-2022_08_03_15_24_01.report.json",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/gizmodo_com-_-2022_08_04_02_44_09.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/gizmodo_com-_-2022_08_04_02_44_09.report.json",
       "summary": {
         "performance": 0.37,
-        "accessibility": 0.89,
-        "best-practices": 0.92,
-        "seo": 0.89,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://gizmodo.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/gizmodo_com-_-2022_08_03_15_23_17.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/gizmodo_com-_-2022_08_03_15_23_17.report.json",
-      "summary": {
-        "performance": 0.41,
-        "accessibility": 0.95,
+        "accessibility": 0.97,
         "best-practices": 0.92,
         "seo": 0.89,
         "pwa": 0.4
       }
     }
   ],
-  "item_last_updated": 1659546894,
-  "item_size": 27823943,
+  "item_last_updated": 1659583559,
+  "item_size": 28207238,
   "metadata": {
     "identifier": "gizmodo-2022",
     "collection": [
@@ -3065,7 +3117,7 @@
     "addeddate": "2022-07-04 20:17:36"
   },
   "server": "ia801501.us.archive.org",
-  "uniq": 200132350,
+  "uniq": 836103101,
   "workable_servers": [
     "ia801501.us.archive.org",
     "ia601501.us.archive.org"

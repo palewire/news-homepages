@@ -1,5 +1,5 @@
 {
-  "created": 1659573558,
+  "created": 1659616113,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/17/items/jn_japanese-2022",
@@ -3676,31 +3676,83 @@
       "sha1": "9ecafa9c038b6517f0e0a51e1c748b2d687468b5"
     },
     {
+      "name": "jn_japanese-2022-08-04T12:15:56.743331+09:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659582963",
+      "size": "38593",
+      "md5": "a872f4a90ca582e1f1593ee00437541b",
+      "crc32": "25a75aea",
+      "sha1": "0471f394dff9a3c0e9c2f6e0ce57c70bbae8dea1",
+      "format": "JSON"
+    },
+    {
+      "name": "jn_japanese-2022-08-04T12:15:56.743331+09:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659582964",
+      "size": "73551",
+      "md5": "e27563a5bb276c400e36349df9766d21",
+      "crc32": "d3438319",
+      "sha1": "9b29bb039a98868b321943f9be972941669261b2",
+      "format": "JSON"
+    },
+    {
+      "name": "jn_japanese-2022-08-04T12:15:56.743331+09:00.jpg",
+      "source": "original",
+      "mtime": "1659582961",
+      "size": "305991",
+      "md5": "52b3e5e9124936057da2f8a805ef75fa",
+      "crc32": "425ab2be",
+      "sha1": "cf69d29ba4ed888c62e713a4983dc3a970b19e07",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jn_japanese-2022-08-04T12:15:56.743331+09:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659582965",
+      "size": "1483",
+      "md5": "f19f6f7bfa95a05dec23003dbd2b7ea2",
+      "crc32": "34acdbc8",
+      "sha1": "4ad51748b291deae7d596e59b374673cae6390db",
+      "format": "JSON"
+    },
+    {
+      "name": "jn_japanese-2022-08-04T12:15:56.743331+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jn_japanese-2022-08-04T12:15:56.743331+09:00.jpg",
+      "mtime": "1659583329",
+      "size": "9675",
+      "md5": "7a26928a1d1bd0a88a6e17805494688f",
+      "crc32": "64ee77cf",
+      "sha1": "6ce0c4a970b9ad13253aa84f54cd66a2429d9b96"
+    },
+    {
       "name": "jn_japanese-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2cac2792863bea55dd975d9b138640e82cf8d8d9",
-      "mtime": "1659573539",
-      "size": "76603",
-      "md5": "20d9f0c2f83c22697fb303e16469b146",
-      "crc32": "a54b5462",
-      "sha1": "783be48260d2a10f6441e461d98a5b18ada41a1e",
+      "btih": "93802fa51765822ce33c8e1cbfe52a88cb380399",
+      "mtime": "1659583336",
+      "size": "77677",
+      "md5": "bc92275a5c5d244e5f4662a45f5986b3",
+      "crc32": "68e540e4",
+      "sha1": "77f921268b08ea37a2877ab59524bd738caee287",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jn_japanese-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "09b44e52ed948e02b36569acb7d8de7d",
+      "md5": "d55bff2c7cd964b8c384bc24b662623d",
       "summation": "md5"
     },
     {
       "name": "jn_japanese-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659573321",
-      "size": "434176",
-      "md5": "36bb82912589f6f1cf1c9c744c36b141",
-      "crc32": "cc2c0751",
-      "sha1": "91512d17842fdba3bb83a4877b8dde2147c5a409",
+      "mtime": "1659582970",
+      "size": "442368",
+      "md5": "3821097591b8f960a521a1c7875431cb",
+      "crc32": "6c944323",
+      "sha1": "6ed67b01b35acb207d161c37c70b0ede0240e0f9",
       "format": "Metadata"
     },
     {
@@ -3714,9 +3766,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 355,
-  "item_last_updated": 1659573539,
-  "item_size": 33719188,
+  "files_count": 360,
+  "item_last_updated": 1659583336,
+  "item_size": 34157747,
+  "jn_japanese-2022": [
+    {
+      "url": "https://www.yomiuri.co.jp/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_yomiuri_co_jp-_-2022_08_04_02_00_54.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_yomiuri_co_jp-_-2022_08_04_02_00_54.report.json",
+      "summary": {
+        "performance": 0.18,
+        "accessibility": 0.94,
+        "best-practices": 0.83,
+        "seo": 0.9,
+        "pwa": 0.9
+      }
+    },
+    {
+      "url": "https://www.yomiuri.co.jp/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_yomiuri_co_jp-_-2022_08_04_02_01_42.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_yomiuri_co_jp-_-2022_08_04_02_01_42.report.json",
+      "summary": {
+        "performance": 0.18,
+        "accessibility": 0.94,
+        "best-practices": 0.83,
+        "seo": 0.9,
+        "pwa": 0.9
+      }
+    },
+    {
+      "url": "https://www.yomiuri.co.jp/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_yomiuri_co_jp-_-2022_08_04_02_01_18.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_yomiuri_co_jp-_-2022_08_04_02_01_18.report.json",
+      "summary": {
+        "performance": 0.17,
+        "accessibility": 0.94,
+        "best-practices": 0.83,
+        "seo": 0.9,
+        "pwa": 0.9
+      }
+    }
+  ],
   "metadata": {
     "identifier": "jn_japanese-2022",
     "collection": [
@@ -3734,7 +3827,7 @@
     "addeddate": "2022-07-09 02:39:08"
   },
   "server": "ia601403.us.archive.org",
-  "uniq": 1047025573,
+  "uniq": 38660678,
   "workable_servers": [
     "ia601403.us.archive.org",
     "ia801403.us.archive.org"

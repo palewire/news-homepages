@@ -1,6 +1,5 @@
 {
-  "conflict": 1659574049,
-  "created": 1659574049,
+  "created": 1659616658,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/9/items/rtdnews-2022",
@@ -921,31 +920,83 @@
       "sha1": "53b0b79d8e2ccabdd15449ae2735d8d73998fb01"
     },
     {
+      "name": "rtdnews-2022-08-03T20:47:24.593182-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659574047",
+      "size": "28016",
+      "md5": "b32f7066e26dc9db2ec14b67c8cc621e",
+      "crc32": "aa6be879",
+      "sha1": "80dce2f3bc6acc8843fae7f8ffa81a32abb717f7",
+      "format": "JSON"
+    },
+    {
+      "name": "rtdnews-2022-08-03T20:47:24.593182-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659574049",
+      "size": "78319",
+      "md5": "40673ad1531a1ea01fb374b88862f752",
+      "crc32": "90e06cdd",
+      "sha1": "1bd78a5992e6c60af25d11ab9e683d32a2fb2766",
+      "format": "JSON"
+    },
+    {
+      "name": "rtdnews-2022-08-03T20:47:24.593182-04:00.jpg",
+      "source": "original",
+      "mtime": "1659574046",
+      "size": "330991",
+      "md5": "cf378e5403968290d2b4e7bdd8e78cd1",
+      "crc32": "ae78df02",
+      "sha1": "4b31c91dbe27e557ead8be5c5eb0d5ed8c8a685a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rtdnews-2022-08-03T20:47:24.593182-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659574050",
+      "size": "1441",
+      "md5": "4a654040ecbccbb2e49a58581c91f0b4",
+      "crc32": "3b04c134",
+      "sha1": "52ea6cbd7a3380bfa07a5f66066b3ccbf681155c",
+      "format": "JSON"
+    },
+    {
+      "name": "rtdnews-2022-08-03T20:47:24.593182-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rtdnews-2022-08-03T20:47:24.593182-04:00.jpg",
+      "mtime": "1659574145",
+      "size": "12288",
+      "md5": "34b6b116f22284233f02a1fe931851a1",
+      "crc32": "3b6744d3",
+      "sha1": "bd5c185cd6dabe9a6576bd94e45a542a08efa42d"
+    },
+    {
       "name": "rtdnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a43919500ddc9def71c9c11dbad26a202fcf98a6",
-      "mtime": "1659536134",
-      "size": "19890",
-      "md5": "437234ef990b09ce2584d3629e4c875c",
-      "crc32": "54759a57",
-      "sha1": "eb93601210b39e6a3ecc4cb0029f03fcdc378cae",
+      "btih": "356f2ec8f8e6686ac7d93ba30ac95ee5b6a581f6",
+      "mtime": "1659574151",
+      "size": "20945",
+      "md5": "3cacea7404f42f55d709f2cad9854860",
+      "crc32": "daa426b5",
+      "sha1": "9379a4640e15fd7ae15028eb05a5cda56acddc6e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rtdnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "249908eb2f7e24dad037596100eb6f89",
+      "md5": "831a1085201bcb87b97af1d30c6b1d80",
       "summation": "md5"
     },
     {
       "name": "rtdnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659531471",
-      "size": "135168",
-      "md5": "c76ab37f4d8448d2a445fd5d79dd6d43",
-      "crc32": "62af3663",
-      "sha1": "b3b4490948dfd45bb4687f976546e18b020ae852",
+      "mtime": "1659574054",
+      "size": "139264",
+      "md5": "43d73028fd9a7c727073b4422bee0272",
+      "crc32": "21c7a177",
+      "sha1": "7a22b97fc903753c7e4d60acca205bc9789a4f02",
       "format": "Metadata"
     },
     {
@@ -959,9 +1010,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 92,
-  "item_last_updated": 1659536134,
-  "item_size": 7175023,
+  "files_count": 97,
+  "item_last_updated": 1659574151,
+  "item_size": 7631229,
   "metadata": {
     "identifier": "rtdnews-2022",
     "collection": [
@@ -978,29 +1029,51 @@
     "publicdate": "2022-07-26 00:24:52",
     "addeddate": "2022-07-26 00:24:52"
   },
-  "pending_tasks": true,
-  "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "rtdnews-2022": [
     {
-      "task_id": 3352012168,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "url": "https://richmond.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/richmond_com-_-2022_08_04_00_21_21.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/richmond_com-_-2022_08_04_00_21_21.report.json",
+      "summary": {
+        "performance": 0.13,
+        "accessibility": 0.81,
+        "best-practices": 0.92,
+        "seo": 0.83,
+        "pwa": 0.6
+      }
     },
     {
-      "task_id": 3352012239,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "url": "https://richmond.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/richmond_com-_-2022_08_04_00_23_12.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/richmond_com-_-2022_08_04_00_23_12.report.json",
+      "summary": {
+        "performance": 0.12,
+        "accessibility": 0.81,
+        "best-practices": 0.92,
+        "seo": 0.83,
+        "pwa": 0.6
+      }
+    },
+    {
+      "url": "https://richmond.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/richmond_com-_-2022_08_04_00_24_30.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/richmond_com-_-2022_08_04_00_24_30.report.json",
+      "summary": {
+        "performance": 0.12,
+        "accessibility": 0.81,
+        "best-practices": 0.92,
+        "seo": 0.84,
+        "pwa": 0.6
+      }
     }
   ],
-  "uniq": 1653745035,
+  "server": "ia601401.us.archive.org",
+  "uniq": 1637355523,
   "workable_servers": [
-    "ia601401.us.archive.org"
+    "ia601401.us.archive.org",
+    "ia801401.us.archive.org"
   ]
 }

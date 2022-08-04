@@ -1,7 +1,48 @@
 {
-  "created": 1659569353,
+  "created": 1659615859,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
+  "dailycaller-2022": [
+    {
+      "url": "https://dailycaller.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/dailycaller_com-_-2022_08_04_10_51_20.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/dailycaller_com-_-2022_08_04_10_51_20.report.json",
+      "summary": {
+        "performance": 0.25,
+        "accessibility": 0.91,
+        "best-practices": 0.83,
+        "seo": 0.93,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://dailycaller.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/dailycaller_com-_-2022_08_04_10_51_59.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/dailycaller_com-_-2022_08_04_10_51_59.report.json",
+      "summary": {
+        "performance": 0.29,
+        "accessibility": 0.91,
+        "best-practices": 0.83,
+        "seo": 0.93,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://dailycaller.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/dailycaller_com-_-2022_08_04_10_52_35.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/dailycaller_com-_-2022_08_04_10_52_35.report.json",
+      "summary": {
+        "performance": 0.26,
+        "accessibility": 0.91,
+        "best-practices": 0.83,
+        "seo": 0.93,
+        "pwa": 0.4
+      }
+    }
+  ],
   "dir": "/9/items/dailycaller-2022",
   "files": [
     {
@@ -10098,31 +10139,72 @@
       "sha1": "f9f6b101e005117782d1c4b052f12d5851673e6b"
     },
     {
+      "name": "dailycaller-2022-08-04T07:13:28.691706-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659611616",
+      "size": "35732",
+      "md5": "6dd3cfb68ecf085a491a4d9ea7d73bf1",
+      "crc32": "0a72d00f",
+      "sha1": "f50e8d707ffb92ab7faf25865ec9f5899b269b3b",
+      "format": "JSON"
+    },
+    {
+      "name": "dailycaller-2022-08-04T07:13:28.691706-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659611620",
+      "size": "32956",
+      "md5": "cb3ad6c48c79ab08ee63acaf00ab964c",
+      "crc32": "cf20e38f",
+      "sha1": "66cff227ee5f46ce4a75631bc7b1129265d17a06",
+      "format": "JSON"
+    },
+    {
+      "name": "dailycaller-2022-08-04T07:13:28.691706-04:00.jpg",
+      "source": "original",
+      "mtime": "1659611614",
+      "size": "263171",
+      "md5": "652f24e44d377834e92beff09ff74e8f",
+      "crc32": "fe645d3c",
+      "sha1": "3318d2d3f7ef1bf88c91e5f902d515d8dcec342e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailycaller-2022-08-04T07:13:28.691706-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659611622",
+      "size": "1468",
+      "md5": "abbea5bad560ac38365333e3a3f93ec1",
+      "crc32": "daf69e12",
+      "sha1": "3498fe45249062f2da5e3268ac885d5f54e50644",
+      "format": "JSON"
+    },
+    {
       "name": "dailycaller-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4d4a2c5039f1ea71c157d064210c3ae945ba89b5",
-      "mtime": "1659569151",
-      "size": "207042",
-      "md5": "0b72ec4dd5703990f916ac6609dd5ac6",
-      "crc32": "9a59186b",
-      "sha1": "612b53a2bc9904c4fd49ebd37baa894b44a3967c",
+      "btih": "d6b4f1749d7efd64a93fa8e7ee62c5ff05ea0c67",
+      "mtime": "1659611669",
+      "size": "207889",
+      "md5": "7e27f1f82e3a35474db99b97b7e90416",
+      "crc32": "3eee1ddd",
+      "sha1": "f97b1eea6eb10a1a93f99265d74017682ea703e5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailycaller-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "21dcdc5dca3d6f397b218f77d566ad9a",
+      "md5": "5eb5f66fdf28e44ddb55117fa1eaad1a",
       "summation": "md5"
     },
     {
       "name": "dailycaller-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659568949",
-      "size": "1126400",
-      "md5": "43bbe802064718957c9035df78d552d1",
-      "crc32": "d7efaca7",
-      "sha1": "4a02358af8d30ca9be6c4fbf7c23908d8215df8b",
+      "mtime": "1659611626",
+      "size": "1130496",
+      "md5": "1dcae19f13a0441c61126fc7dc0ef177",
+      "crc32": "1d723507",
+      "sha1": "b4962e63c2a14d1bcc44297f5d51d639d9f09c52",
       "format": "Metadata"
     },
     {
@@ -10136,9 +10218,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 966,
-  "item_last_updated": 1659569151,
-  "item_size": 81537653,
+  "files_count": 970,
+  "item_last_updated": 1659611669,
+  "item_size": 81875923,
   "metadata": {
     "identifier": "dailycaller-2022",
     "collection": [
@@ -10155,10 +10237,21 @@
     "publicdate": "2022-03-25 18:46:08",
     "addeddate": "2022-03-25 18:46:08"
   },
-  "server": "ia801401.us.archive.org",
-  "uniq": 1517047449,
+  "pending_tasks": true,
+  "server": "ia601401.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3352499317,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 487532840,
   "workable_servers": [
-    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

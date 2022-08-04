@@ -1,5 +1,5 @@
 {
-  "created": 1659574124,
+  "created": 1659616753,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/0/items/sternde-2022",
@@ -952,31 +952,83 @@
       "sha1": "4a03506c42de4f74fc42d9d083870e8ebfac4c0d"
     },
     {
+      "name": "sternde-2022-08-04T06:37:17.922234+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659587841",
+      "size": "104539",
+      "md5": "27df54730867fa38ce00bc48da5eb9ca",
+      "crc32": "12a185ff",
+      "sha1": "b3cfad9bdb892b5f843f1968f22a519cd2ccaa08",
+      "format": "JSON"
+    },
+    {
+      "name": "sternde-2022-08-04T06:37:17.922234+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659587842",
+      "size": "97261",
+      "md5": "65a40dacd10ea3603e0b4fbe297de979",
+      "crc32": "a899c525",
+      "sha1": "0ca1ea10b7c21b550ccfaf138d6d05a20d5e6545",
+      "format": "JSON"
+    },
+    {
+      "name": "sternde-2022-08-04T06:37:17.922234+02:00.jpg",
+      "source": "original",
+      "mtime": "1659587839",
+      "size": "214950",
+      "md5": "eebd2a750d0670fee17565807630fc81",
+      "crc32": "eb73024e",
+      "sha1": "608eaf723f301c61d7dcc1bc4bdee015e4e6be7c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sternde-2022-08-04T06:37:17.922234+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659587843",
+      "size": "1432",
+      "md5": "7d43d9d14a5562c20ac8c05e0286e292",
+      "crc32": "f64bd3ff",
+      "sha1": "318470d177bd2f792ee973730f4c031ad0d68779",
+      "format": "JSON"
+    },
+    {
+      "name": "sternde-2022-08-04T06:37:17.922234+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sternde-2022-08-04T06:37:17.922234+02:00.jpg",
+      "mtime": "1659588289",
+      "size": "9280",
+      "md5": "3663c12b3bd7276f7ad3c6a7dece0acb",
+      "crc32": "e9223b4c",
+      "sha1": "256beeb83c02e915cd14f95b6a6afcc32145b4dd"
+    },
+    {
       "name": "sternde-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b6586e8f062e5f8a6524f5e16b69e84ce9602209",
-      "mtime": "1659547852",
-      "size": "20523",
-      "md5": "b27ae73ede810f2d258b4e4a85fdd245",
-      "crc32": "9cc7a892",
-      "sha1": "b2a0acface2eab3cd721b5ec157fc625008619e6",
+      "btih": "19884c2e1139f55bb6fd6415d8ddbe07f25bc6f1",
+      "mtime": "1659588344",
+      "size": "21578",
+      "md5": "e48f70866f4e43c58e1b7df002b9f20e",
+      "crc32": "5562924c",
+      "sha1": "717874220a3a52e5e995acdca6987140b701154a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sternde-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f01122718c84a30392b5d544a720a0ba",
+      "md5": "cd7bc11b666d6f04e6e15689356a89fe",
       "summation": "md5"
     },
     {
       "name": "sternde-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659546725",
-      "size": "135168",
-      "md5": "ec79c25fe386a6eeb05b20f4dc3834df",
-      "crc32": "9bc6723b",
-      "sha1": "8b9917fc26405c25e746e4c436dfb45edc5a3c6b",
+      "mtime": "1659587848",
+      "size": "143360",
+      "md5": "1e9b03a4ab00d70234c1e48db2f5a15c",
+      "crc32": "c112d25e",
+      "sha1": "f6b530cce0cd9570a26b9ca8020cfaae42c2f9df",
       "format": "Metadata"
     },
     {
@@ -990,9 +1042,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 95,
-  "item_last_updated": 1659547852,
-  "item_size": 7776417,
+  "files_count": 100,
+  "item_last_updated": 1659588344,
+  "item_size": 8213126,
   "metadata": {
     "identifier": "sternde-2022",
     "collection": [
@@ -1009,15 +1061,15 @@
     "publicdate": "2022-07-26 03:57:37",
     "addeddate": "2022-07-26 03:57:37"
   },
-  "server": "ia902507.us.archive.org",
+  "server": "ia802507.us.archive.org",
   "sternde-2022": [
     {
       "url": "https://www.stern.de/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_stern_de-_-2022_08_03_16_21_50.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_stern_de-_-2022_08_03_16_21_50.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_stern_de-_-2022_08_04_04_13_03.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_stern_de-_-2022_08_04_04_13_03.report.json",
       "summary": {
-        "performance": 0.5,
+        "performance": 0.56,
         "accessibility": 0.88,
         "best-practices": 0.83,
         "seo": 1,
@@ -1027,10 +1079,10 @@
     {
       "url": "https://www.stern.de/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_stern_de-_-2022_08_03_16_22_07.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_stern_de-_-2022_08_03_16_22_07.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_stern_de-_-2022_08_04_04_13_21.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_stern_de-_-2022_08_04_04_13_21.report.json",
       "summary": {
-        "performance": 0.62,
+        "performance": 0.57,
         "accessibility": 0.88,
         "best-practices": 0.83,
         "seo": 1,
@@ -1040,8 +1092,8 @@
     {
       "url": "https://www.stern.de/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_stern_de-_-2022_08_03_16_21_31.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_stern_de-_-2022_08_03_16_21_31.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_stern_de-_-2022_08_04_04_12_43.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_stern_de-_-2022_08_04_04_12_43.report.json",
       "summary": {
         "performance": 0.56,
         "accessibility": 0.88,
@@ -1051,9 +1103,9 @@
       }
     }
   ],
-  "uniq": 1754449426,
+  "uniq": 1432866556,
   "workable_servers": [
-    "ia902507.us.archive.org",
-    "ia802507.us.archive.org"
+    "ia802507.us.archive.org",
+    "ia902507.us.archive.org"
   ]
 }

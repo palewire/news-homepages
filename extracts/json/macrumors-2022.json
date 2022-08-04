@@ -1,6 +1,5 @@
 {
-  "conflict": 1659573863,
-  "created": 1659573863,
+  "created": 1659616294,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/26/items/macrumors-2022",
@@ -1110,6 +1109,47 @@
   "files_count": 106,
   "item_last_updated": 1659573859,
   "item_size": 11736272,
+  "macrumors-2022": [
+    {
+      "url": "https://www.macrumors.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_macrumors_com-_-2022_08_04_00_11_02.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_macrumors_com-_-2022_08_04_00_11_02.report.json",
+      "summary": {
+        "performance": 0.59,
+        "accessibility": 0.98,
+        "best-practices": 0.92,
+        "seo": 0.99,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.macrumors.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_macrumors_com-_-2022_08_04_00_11_42.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_macrumors_com-_-2022_08_04_00_11_42.report.json",
+      "summary": {
+        "performance": 0.66,
+        "accessibility": 0.98,
+        "best-practices": 0.92,
+        "seo": 0.99,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.macrumors.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_macrumors_com-_-2022_08_04_00_11_19.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_macrumors_com-_-2022_08_04_00_11_19.report.json",
+      "summary": {
+        "performance": 0.63,
+        "accessibility": 0.98,
+        "best-practices": 0.92,
+        "seo": 0.99,
+        "pwa": 0.4
+      }
+    }
+  ],
   "metadata": {
     "identifier": "macrumors-2022",
     "collection": [
@@ -1126,29 +1166,10 @@
     "publicdate": "2022-07-25 06:47:43",
     "addeddate": "2022-07-25 06:47:43"
   },
-  "pending_tasks": true,
   "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3352004778,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3352008555,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2940171,
+  "uniq": 1879415967,
   "workable_servers": [
-    "ia601501.us.archive.org"
+    "ia601501.us.archive.org",
+    "ia801501.us.archive.org"
   ]
 }

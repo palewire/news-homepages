@@ -1,5 +1,5 @@
 {
-  "created": 1659573951,
+  "created": 1659607287,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/32/items/occrp-2022",
@@ -1160,31 +1160,83 @@
       "sha1": "fe217fd2a60b2b6e5d049b0bb992c46a29969e81"
     },
     {
+      "name": "occrp-2022-08-04T06:32:13.397260+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659587536",
+      "size": "17385",
+      "md5": "1784d3679084a2b2e3606d3738d2cc82",
+      "crc32": "cd623e42",
+      "sha1": "786681b5d487942bc84c83c44d2ab308eccd3f59",
+      "format": "JSON"
+    },
+    {
+      "name": "occrp-2022-08-04T06:32:13.397260+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659587538",
+      "size": "24050",
+      "md5": "bef9c16e5364a4cd74c40fa41fd09e69",
+      "crc32": "25771d68",
+      "sha1": "e12f689ec45024b9103984ede65d05f9364d2d93",
+      "format": "JSON"
+    },
+    {
+      "name": "occrp-2022-08-04T06:32:13.397260+02:00.jpg",
+      "source": "original",
+      "mtime": "1659587534",
+      "size": "397173",
+      "md5": "22bc5b261bfaf667b18896d901b03f9b",
+      "crc32": "d378b4d4",
+      "sha1": "55a1d81e2d03f4b41e1dcc1e8357a45ddcce610b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "occrp-2022-08-04T06:32:13.397260+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659587539",
+      "size": "1477",
+      "md5": "ac4c65390fe167470c90c61417fde7af",
+      "crc32": "7f5bcfa1",
+      "sha1": "1bfeb04c4d8266f69fc785fb96b368dd62562c86",
+      "format": "JSON"
+    },
+    {
+      "name": "occrp-2022-08-04T06:32:13.397260+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "occrp-2022-08-04T06:32:13.397260+02:00.jpg",
+      "mtime": "1659588205",
+      "size": "11373",
+      "md5": "54a33fb9185f5f9c21152ec93324ef47",
+      "crc32": "dd1869cd",
+      "sha1": "fe217fd2a60b2b6e5d049b0bb992c46a29969e81"
+    },
+    {
       "name": "occrp-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e01506f05a5e822675d8a4007a8997f45cd87b42",
-      "mtime": "1659547575",
-      "size": "24311",
-      "md5": "2833ca26dfdbb8232fea31a4918fe306",
-      "crc32": "563b8c70",
-      "sha1": "06f49221dcd9b54704956b2f41b8ac53a664ce50",
+      "btih": "aaed3fb436c6c5e827a04608b86b7ccb2db6bf94",
+      "mtime": "1659588209",
+      "size": "25356",
+      "md5": "519f1ecd407c6e903548c5c60f0a1880",
+      "crc32": "62d14ef3",
+      "sha1": "3c1db98df7aae6c066ca98df8bc7c34dc08de265",
       "format": "Archive BitTorrent"
     },
     {
       "name": "occrp-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a19d07c6b6d17afb5487ea1f03fb3dbc",
+      "md5": "01f6ca6efd435a27181e24ac854c64eb",
       "summation": "md5"
     },
     {
       "name": "occrp-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659546410",
-      "size": "159744",
-      "md5": "6dd2687efa642256138c6f288235d080",
-      "crc32": "3fc89256",
-      "sha1": "96a7819f0fe457b4f6d189f6fcb035d1151fa599",
+      "mtime": "1659587544",
+      "size": "163840",
+      "md5": "65a00827a842b3b70e64f8c4b8818e38",
+      "crc32": "e75a1dd2",
+      "sha1": "40818d3d8913da8c4fbe594362879d9f753856ca",
       "format": "Metadata"
     },
     {
@@ -1198,9 +1250,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 115,
-  "item_last_updated": 1659547575,
-  "item_size": 5227260,
+  "files_count": 120,
+  "item_last_updated": 1659588209,
+  "item_size": 5683859,
   "metadata": {
     "identifier": "occrp-2022",
     "collection": [
@@ -1217,51 +1269,10 @@
     "publicdate": "2022-07-24 06:18:03",
     "addeddate": "2022-07-24 06:18:03"
   },
-  "occrp-2022": [
-    {
-      "url": "https://www.occrp.org/en/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_occrp_org-_en_-2022_08_03_16_14_10.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_occrp_org-_en_-2022_08_03_16_14_10.report.json",
-      "summary": {
-        "performance": 0.52,
-        "accessibility": 0.86,
-        "best-practices": 0.92,
-        "seo": 0.84,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://www.occrp.org/en/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_occrp_org-_en_-2022_08_03_16_14_31.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_occrp_org-_en_-2022_08_03_16_14_31.report.json",
-      "summary": {
-        "performance": 0.6,
-        "accessibility": 0.86,
-        "best-practices": 0.92,
-        "seo": 0.84,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://www.occrp.org/en/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_occrp_org-_en_-2022_08_03_16_14_50.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_occrp_org-_en_-2022_08_03_16_14_50.report.json",
-      "summary": {
-        "performance": 0.63,
-        "accessibility": 0.86,
-        "best-practices": 0.92,
-        "seo": 0.84,
-        "pwa": 0.3
-      }
-    }
-  ],
-  "server": "ia802508.us.archive.org",
-  "uniq": 1191111851,
+  "server": "ia902508.us.archive.org",
+  "uniq": 221749427,
   "workable_servers": [
-    "ia802508.us.archive.org",
-    "ia902508.us.archive.org"
+    "ia902508.us.archive.org",
+    "ia802508.us.archive.org"
   ]
 }

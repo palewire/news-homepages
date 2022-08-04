@@ -1,8 +1,8 @@
 {
-  "created": 1659552829,
-  "d1": "ia902501.us.archive.org",
-  "d2": "ia802501.us.archive.org",
-  "dir": "/7/items/salon-2022",
+  "created": 1659616666,
+  "d1": "ia601406.us.archive.org",
+  "d2": "ia801406.us.archive.org",
+  "dir": "/2/items/salon-2022",
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -2364,31 +2364,73 @@
       "sha1": "4cf445a24d5d80ca0bbd564f91e22893a8de6cf4"
     },
     {
+      "name": "salon-2022-08-04T00:35:48.358362-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659587751",
+      "size": "14554",
+      "md5": "204880896181db89d4a7c33e617a4ed4",
+      "crc32": "eee2c37e",
+      "sha1": "97d513434b5aa551a8ea623eb46258c1364157cf",
+      "format": "JSON"
+    },
+    {
+      "name": "salon-2022-08-04T00:35:48.358362-04:00.jpg",
+      "source": "original",
+      "mtime": "1659587750",
+      "size": "312818",
+      "md5": "9295ba3af01213e0bf21a875a5af7e45",
+      "crc32": "d5acbb97",
+      "sha1": "1c252dfc74ca3bf77fb09894e738113c5f2d7562",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "salon-2022-08-04T00:35:48.358362-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659587753",
+      "size": "1450",
+      "md5": "9d0e213e0d141f0a411e9b05f16bae7d",
+      "crc32": "89254e2e",
+      "sha1": "b2614fbd1d0dcba9af5d12fc9cfa2c2113a1546e",
+      "format": "JSON"
+    },
+    {
+      "name": "salon-2022-08-04T00:35:48.358362-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "salon-2022-08-04T00:35:48.358362-04:00.jpg",
+      "mtime": "1659588424",
+      "size": "10567",
+      "md5": "cf52de9fcdb4030a1f53398a5ac5ba11",
+      "crc32": "4f7bf31d",
+      "sha1": "7a79394ab3ae47c9f9b76d98358e3c3dab4cde7f"
+    },
+    {
       "name": "salon-2022_archive.torrent",
       "source": "metadata",
-      "btih": "38967d25d0e0ab840d83d5b067a6419f0797772b",
-      "mtime": "1659552803",
-      "size": "48381",
-      "md5": "5b9cb84c433b70511d85f028afa2eb66",
-      "crc32": "4d9f4a29",
-      "sha1": "259f643e3ad074a154e9b86bce74066bd3d80771",
+      "btih": "86c7e4098c3f96408132de68a8311fd5f5e61b91",
+      "mtime": "1659588523",
+      "size": "49218",
+      "md5": "c1834f40a1053da0f1ca5e77106e6334",
+      "crc32": "07bd1c02",
+      "sha1": "c5b0d6da71e22bc966ec0d9f0fa2e28ce515ed7f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "salon-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "eceb6017bf00ad6166fa53d1b79dd3c2",
+      "md5": "1df2a0d62c69c5f48009ec5809e32a60",
       "summation": "md5"
     },
     {
       "name": "salon-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659552080",
-      "size": "290816",
-      "md5": "3d571aa297b6ac8d28f1404c488e1804",
-      "crc32": "c93e3499",
-      "sha1": "dd34b38c4edbd26f22e50771a0c06985d8c15847",
+      "mtime": "1659587951",
+      "size": "294912",
+      "md5": "469eb8a4c1e760fe195f522d970ea63d",
+      "crc32": "df2a1cd1",
+      "sha1": "9b156b74124df5d696415fa7f4423841bbdf8d62",
       "format": "Metadata"
     },
     {
@@ -2402,9 +2444,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 230,
-  "item_last_updated": 1659552803,
-  "item_size": 18886278,
+  "files_count": 234,
+  "item_last_updated": 1659588523,
+  "item_size": 19230600,
   "metadata": {
     "identifier": "salon-2022",
     "collection": [
@@ -2421,10 +2463,51 @@
     "publicdate": "2022-07-18 10:57:18",
     "addeddate": "2022-07-18 10:57:18"
   },
-  "server": "ia802501.us.archive.org",
-  "uniq": 320729940,
+  "salon-2022": [
+    {
+      "url": "https://www.salon.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_salon_com-_-2022_08_04_04_11_06.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_salon_com-_-2022_08_04_04_11_06.report.json",
+      "summary": {
+        "performance": 0.49,
+        "accessibility": 0.85,
+        "best-practices": 0.83,
+        "seo": 0.92,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.salon.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_salon_com-_-2022_08_04_04_11_25.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_salon_com-_-2022_08_04_04_11_25.report.json",
+      "summary": {
+        "performance": 0.26,
+        "accessibility": 0.85,
+        "best-practices": 0.67,
+        "seo": 0.92,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.salon.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_salon_com-_-2022_08_04_04_10_09.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_salon_com-_-2022_08_04_04_10_09.report.json",
+      "summary": {
+        "performance": 0.48,
+        "accessibility": 0.85,
+        "best-practices": 0.83,
+        "seo": 0.92,
+        "pwa": 0.4
+      }
+    }
+  ],
+  "server": "ia601406.us.archive.org",
+  "uniq": 614513938,
   "workable_servers": [
-    "ia802501.us.archive.org",
-    "ia902501.us.archive.org"
+    "ia601406.us.archive.org",
+    "ia801406.us.archive.org"
   ]
 }

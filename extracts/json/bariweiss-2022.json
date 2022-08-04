@@ -3,8 +3,8 @@
     {
       "url": "https://www.commonsense.news/?triedSigningIn=true",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_commonsense_news-_-2022_08_03_18_19_56.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_commonsense_news-_-2022_08_03_18_19_56.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_commonsense_news-_-2022_08_04_01_39_45.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_commonsense_news-_-2022_08_04_01_39_45.report.json",
       "summary": {
         "performance": 0.37,
         "accessibility": 0.71,
@@ -15,11 +15,11 @@
     },
     {
       "url": "https://www.commonsense.news/?triedSigningIn=true",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_commonsense_news-_-2022_08_03_18_19_29.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_commonsense_news-_-2022_08_03_18_19_29.report.json",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_commonsense_news-_-2022_08_04_01_39_58.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_commonsense_news-_-2022_08_04_01_39_58.report.json",
       "summary": {
-        "performance": 0.39,
+        "performance": 0.48,
         "accessibility": 0.71,
         "best-practices": 1,
         "seo": 0.84,
@@ -27,12 +27,12 @@
       }
     },
     {
-      "url": "https://www.commonsense.news/",
+      "url": "https://www.commonsense.news/?triedSigningIn=true",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_commonsense_news-_-2022_08_03_18_19_42.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_commonsense_news-_-2022_08_03_18_19_42.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_commonsense_news-_-2022_08_04_01_40_11.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_commonsense_news-_-2022_08_04_01_40_11.report.json",
       "summary": {
-        "performance": 0.68,
+        "performance": 0.36,
         "accessibility": 0.71,
         "best-practices": 1,
         "seo": 0.84,
@@ -40,7 +40,7 @@
       }
     }
   ],
-  "created": 1659573442,
+  "created": 1659615703,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/27/items/bariweiss-2022",
@@ -2581,31 +2581,83 @@
       "sha1": "d577694b7b4e30616a6c592af068c068d1f1d5da"
     },
     {
+      "name": "bariweiss-2022-08-03T20:04:48.480437-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659582293",
+      "size": "14917",
+      "md5": "788c16c32983d5935ca4715759356ad4",
+      "crc32": "252a179a",
+      "sha1": "c3436c5eab548418f5219162d89f15daf08af399",
+      "format": "JSON"
+    },
+    {
+      "name": "bariweiss-2022-08-03T20:04:48.480437-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659582295",
+      "size": "14367",
+      "md5": "c1ce95f7d747742fb94a994f70e6d854",
+      "crc32": "24afb8b2",
+      "sha1": "e93fe19e5953d0220c606541c72c6d36868a027f",
+      "format": "JSON"
+    },
+    {
+      "name": "bariweiss-2022-08-03T20:04:48.480437-07:00.jpg",
+      "source": "original",
+      "mtime": "1659582291",
+      "size": "245555",
+      "md5": "2296ca883bc94d5a8588e05775d0fb23",
+      "crc32": "c42f844f",
+      "sha1": "9f7c561cab9817bbf5587d2c39fdf76ef6e0ebc9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bariweiss-2022-08-03T20:04:48.480437-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659582302",
+      "size": "1564",
+      "md5": "c67d13e5b7c6aaeef6df27dbc2e66190",
+      "crc32": "c3ffb0b7",
+      "sha1": "315aa6ff986ec0346393c429d54a885a1c5e51c5",
+      "format": "JSON"
+    },
+    {
+      "name": "bariweiss-2022-08-03T20:04:48.480437-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bariweiss-2022-08-03T20:04:48.480437-07:00.jpg",
+      "mtime": "1659582356",
+      "size": "8765",
+      "md5": "43a53f4ec94887a425750268cc22de59",
+      "crc32": "5ff5aa74",
+      "sha1": "0150cb38c8ed456f3d4434d196dd6f6614b2329e"
+    },
+    {
       "name": "bariweiss-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1a70292c446fa65d9e904c8ca5ea2a4d4e10a5cf",
-      "mtime": "1659552866",
-      "size": "52727",
-      "md5": "b968907851b17595a54f8c790ac6fba6",
-      "crc32": "2c4f685d",
-      "sha1": "05f04f478deee5787472ad71a76bfa4e1d1c542e",
+      "btih": "dfbbf196a5c6499112c7ed17bba6897c04b5821c",
+      "mtime": "1659582363",
+      "size": "53771",
+      "md5": "ddf5895e7f4ae93d000639c17f32f856",
+      "crc32": "eccbb62c",
+      "sha1": "d07a527046235bd85c6c846ed7274f74096dc58e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bariweiss-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c1f5a952464a049121233cc5aa725848",
+      "md5": "b984fad2554421ea9239323854ef695e",
       "summation": "md5"
     },
     {
       "name": "bariweiss-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659551948",
-      "size": "311296",
-      "md5": "23b5979273a17907b98d14cb828ead67",
-      "crc32": "f3abb91c",
-      "sha1": "8efca4daac42b6c4d706b2afa3a42dd5534a8feb",
+      "mtime": "1659582306",
+      "size": "315392",
+      "md5": "0eb64d4c2fc7bd715814ee079da76580",
+      "crc32": "77ff7cd5",
+      "sha1": "4525218f90e1ff62f55e48d943dfe615f8174f34",
       "format": "Metadata"
     },
     {
@@ -2619,9 +2671,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 247,
-  "item_last_updated": 1659552866,
-  "item_size": 15879758,
+  "files_count": 252,
+  "item_last_updated": 1659582363,
+  "item_size": 16170066,
   "metadata": {
     "identifier": "bariweiss-2022",
     "collection": [
@@ -2638,10 +2690,10 @@
     "publicdate": "2022-07-17 15:03:06",
     "addeddate": "2022-07-17 15:03:06"
   },
-  "server": "ia801409.us.archive.org",
-  "uniq": 215055040,
+  "server": "ia601409.us.archive.org",
+  "uniq": 1092599931,
   "workable_servers": [
-    "ia801409.us.archive.org",
-    "ia601409.us.archive.org"
+    "ia601409.us.archive.org",
+    "ia801409.us.archive.org"
   ]
 }
