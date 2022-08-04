@@ -7,7 +7,7 @@ orphan: true
 
 # Sports
 
-The most recent homepages from 9 news sites in this bundle.
+The most recent homepages from 11 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -75,6 +75,24 @@ The most recent homepages from 9 news sites in this bundle.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/lancenet.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lancenet.jpg"
+     alt="Lance"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/lancenet.html">Lance</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/theriotimes.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theriotimes.jpg"
+     alt="Rio Times"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/theriotimes.html">Rio Times</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/sbnation.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sbnation.jpg"
      alt="SB Nation"
@@ -114,5 +132,7 @@ The most recent homepages from 9 news sites in this bundle.
 |[Defector](https://palewi.re/docs/news-homepages/sites/defectormedia.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/defectormedia.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/defectormedia.xml)|
 |[ESPN](https://palewi.re/docs/news-homepages/sites/espn.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/espn.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/espn.xml)|
 |[Fox Sports](https://palewi.re/docs/news-homepages/sites/foxsports.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/foxsports.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/foxsports.xml)|
+|[Lance](https://palewi.re/docs/news-homepages/sites/lancenet.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lancenet.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lancenet.xml)|
+|[Rio Times](https://palewi.re/docs/news-homepages/sites/theriotimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theriotimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theriotimes.xml)|
 |[SB Nation](https://palewi.re/docs/news-homepages/sites/sbnation.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sbnation.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/sbnation.xml)|
 |[Sports Illustrated](https://palewi.re/docs/news-homepages/sites/sinow.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sinow.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/sinow.xml)|

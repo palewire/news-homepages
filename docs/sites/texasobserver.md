@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 35 screenshots with the Internet Archive.
+The archiving routine has saved 36 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 35 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/texasobserver-2022/texasobserver-2022-08-03T22:08:48.821145-05:00.jpg">
+  <img src="https://archive.org/download/texasobserver-2022/texasobserver-2022-08-03T22:08:48.821145-05:00.jpg"
+     alt="Texas Observer at 2022-08-03 22:08:49-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/texasobserver-2022/texasobserver-2022-08-03T22:08:48.821145-05:00.jpg">August 3 at 10:08 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/texasobserver-2022/texasobserver-2022-08-03T09:29:05.935528-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/texasobserver-2022/texasobserver-2022-07-29T08:33:31.349024-05:00.jpg">July 29 at 8:33 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/texasobserver-2022/texasobserver-2022-07-28T20:26:43.344436-05:00.jpg">
-  <img src="https://archive.org/download/texasobserver-2022/texasobserver-2022-07-28T20:26:43.344436-05:00.jpg"
-     alt="Texas Observer at 2022-07-28 20:26:44-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/texasobserver-2022/texasobserver-2022-07-28T20:26:43.344436-05:00.jpg">July 28 at 8:26 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 35 hyperlink lists with the Internet Archive.
+The archiving routine has saved 36 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 3 at 10:08 PM](https://archive.org/download/texasobserver-2022/texasobserver-2022-08-03T22:08:48.821145-05:00.hyperlinks.json) |
 | [August 3 at 9:29 AM](https://archive.org/download/texasobserver-2022/texasobserver-2022-08-03T09:29:05.935528-05:00.hyperlinks.json) |
 | [August 2 at 8:56 PM](https://archive.org/download/texasobserver-2022/texasobserver-2022-08-02T20:55:58.554723-05:00.hyperlinks.json) |
 | [August 2 at 8:42 AM](https://archive.org/download/texasobserver-2022/texasobserver-2022-08-02T08:42:48.633879-05:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 31 at 8:31 AM](https://archive.org/download/texasobserver-2022/texasobserver-2022-07-31T08:31:32.945382-05:00.hyperlinks.json) |
 | [July 30 at 9:47 PM](https://archive.org/download/texasobserver-2022/texasobserver-2022-07-30T21:47:35.570388-05:00.hyperlinks.json) |
 | [July 30 at 8:34 AM](https://archive.org/download/texasobserver-2022/texasobserver-2022-07-30T08:34:45.534303-05:00.hyperlinks.json) |
-| [July 29 at 8:22 PM](https://archive.org/download/texasobserver-2022/texasobserver-2022-07-29T20:22:31.987819-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 35 accessibility trees with the Internet Archive.
+The archiving routine has saved 36 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 3 at 10:08 PM](https://archive.org/download/texasobserver-2022/texasobserver-2022-08-03T22:08:48.821145-05:00.accessibility.json) |
 | [August 3 at 9:29 AM](https://archive.org/download/texasobserver-2022/texasobserver-2022-08-03T09:29:05.935528-05:00.accessibility.json) |
 | [August 2 at 8:56 PM](https://archive.org/download/texasobserver-2022/texasobserver-2022-08-02T20:55:58.554723-05:00.accessibility.json) |
 | [August 2 at 8:42 AM](https://archive.org/download/texasobserver-2022/texasobserver-2022-08-02T08:42:48.633879-05:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 31 at 8:31 AM](https://archive.org/download/texasobserver-2022/texasobserver-2022-07-31T08:31:32.945382-05:00.accessibility.json) |
 | [July 30 at 9:47 PM](https://archive.org/download/texasobserver-2022/texasobserver-2022-07-30T21:47:35.570388-05:00.accessibility.json) |
 | [July 30 at 8:34 AM](https://archive.org/download/texasobserver-2022/texasobserver-2022-07-30T08:34:45.534303-05:00.accessibility.json) |
-| [July 29 at 8:22 PM](https://archive.org/download/texasobserver-2022/texasobserver-2022-07-29T20:22:31.987819-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 22 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 3 at 10:08 PM](https://archive.org/download/texasobserver-2022/texasobserver-2022-08-03T22:08:48.821145-05:00.lighthouse.json) |
 | [August 3 at 9:29 AM](https://archive.org/download/texasobserver-2022/texasobserver-2022-08-03T09:29:05.935528-05:00.lighthouse.json) |
 | [August 2 at 8:56 PM](https://archive.org/download/texasobserver-2022/texasobserver-2022-08-02T20:55:58.554723-05:00.lighthouse.json) |
 | [August 2 at 8:42 AM](https://archive.org/download/texasobserver-2022/texasobserver-2022-08-02T08:42:48.633879-05:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 31 at 8:31 AM](https://archive.org/download/texasobserver-2022/texasobserver-2022-07-31T08:31:32.945382-05:00.lighthouse.json) |
 | [July 30 at 9:47 PM](https://archive.org/download/texasobserver-2022/texasobserver-2022-07-30T21:47:35.570388-05:00.lighthouse.json) |
 | [July 30 at 8:34 AM](https://archive.org/download/texasobserver-2022/texasobserver-2022-07-30T08:34:45.534303-05:00.lighthouse.json) |
-| [July 29 at 8:22 PM](https://archive.org/download/texasobserver-2022/texasobserver-2022-07-29T20:22:31.987819-05:00.lighthouse.json) |
 
 
 

@@ -3,7 +3,7 @@
 
 # Latest screenshots
 
-The most recent homepages captured from 723 news sites.
+The most recent homepages captured from 742 news sites.
 
 <div class="latest-parent">
 
@@ -203,6 +203,24 @@ The most recent homepages captured from 723 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/aftenposten.html">Aftenposten</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/agenciabrasil.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/agenciabrasil.jpg"
+     alt="Agência Brasil"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/agenciabrasil.html">Agência Brasil</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/agenciapublica.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/agenciapublica.jpg"
+     alt="Agência Pública"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/agenciapublica.html">Agência Pública</a></p>
 </div>
 
 <div class="latest-child">
@@ -926,6 +944,15 @@ The most recent homepages captured from 723 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/correio.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/correio.jpg"
+     alt="Brasília"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/correio.html">Brasília</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/brecktexan.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/brecktexan.jpg"
      alt="Breckenridge Texan"
@@ -1448,6 +1475,15 @@ The most recent homepages captured from 723 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/correio.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/correio.jpg"
+     alt="Correio Braziliense"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/correio.html">Correio Braziliense</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/cqnow.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cqnow.jpg"
      alt="CQ"
@@ -1808,6 +1844,15 @@ The most recent homepages captured from 723 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/diariope.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/diariope.jpg"
+     alt="Diario de Pernambuco"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/diariope.html">Diario de Pernambuco</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/discovermag.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/discovermag.jpg"
      alt="Discover"
@@ -2042,6 +2087,15 @@ The most recent homepages captured from 723 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/em_com.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/em_com.jpg"
+     alt="Estado de Minas"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/em_com.html">Estado de Minas</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/estadao.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/estadao.jpg"
      alt="Estadão"
@@ -2210,6 +2264,15 @@ The most recent homepages captured from 723 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/startelegram.html">Fort Worth Star-Telegram</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/diarioonline.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/diarioonline.jpg"
+     alt="Fortaleza"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/diarioonline.html">Fortaleza</a></p>
 </div>
 
 <div class="latest-child">
@@ -2390,6 +2453,15 @@ The most recent homepages captured from 723 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/gawker.html">Gawker</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/gazetadopovo.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gazetadopovo.jpg"
+     alt="Gazeta do Povo"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/gazetadopovo.html">Gazeta do Povo</a></p>
 </div>
 
 <div class="latest-child">
@@ -2924,6 +2996,24 @@ The most recent homepages captured from 723 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/atarde.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/atarde.jpg"
+     alt="Jornal A Tarde"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/atarde.html">Jornal A Tarde</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/jornaldobrasil.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jornaldobrasil.jpg"
+     alt="Jornal do Brasil"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/jornaldobrasil.html">Jornal do Brasil</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/thejournal_ie.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thejournal_ie.jpg"
      alt="Journal.ie"
@@ -3335,6 +3425,15 @@ The most recent homepages captured from 723 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/laist.html">LAist</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/lancenet.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lancenet.jpg"
+     alt="Lance"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/lancenet.html">Lance</a></p>
 </div>
 
 <div class="latest-child">
@@ -4292,6 +4391,15 @@ The most recent homepages captured from 723 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/o_antagonista.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/o_antagonista.jpg"
+     alt="O Antagonista"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/o_antagonista.html">O Antagonista</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/jornaloglobo.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jornaloglobo.jpg"
      alt="O Globo"
@@ -4301,12 +4409,39 @@ The most recent homepages captured from 723 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/opovo.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/opovo.jpg"
+     alt="O Povo"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/opovo.html">O Povo</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/progressoms.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/progressoms.jpg"
+     alt="O Progresso"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/progressoms.html">O Progresso</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/objectivejrn.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/objectivejrn.jpg"
      alt="Objective"
      loading="lazy">
  </a>
  <p><a href="./sites/objectivejrn.html">Objective</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/observatorio.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/observatorio.jpg"
+     alt="Observatório da Imprensa"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/observatorio.html">Observatório da Imprensa</a></p>
 </div>
 
 <div class="latest-child">
@@ -4352,6 +4487,15 @@ The most recent homepages captured from 723 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/owhnews.html">Omaha World Herald</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/omelete.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/omelete.jpg"
+     alt="Omelete"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/omelete.html">Omelete</a></p>
 </div>
 
 <div class="latest-child">
@@ -4874,6 +5018,15 @@ The most recent homepages captured from 723 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/ringer.html">Ringer</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/theriotimes.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theriotimes.jpg"
+     alt="Rio Times"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/theriotimes.html">Rio Times</a></p>
 </div>
 
 <div class="latest-child">
@@ -5948,6 +6101,15 @@ The most recent homepages captured from 723 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/valoreconomico.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/valoreconomico.jpg"
+     alt="Valor Econômico"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/valoreconomico.html">Valor Econômico</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/vancouversun.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/vancouversun.jpg"
      alt="Vancouver Sun"
@@ -6485,6 +6647,15 @@ The most recent homepages captured from 723 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/zeitonline.html">Zeit</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/zerohora.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/zerohora.jpg"
+     alt="Zero Hora"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/zerohora.html">Zero Hora</a></p>
 </div>
 
 <div class="latest-child">

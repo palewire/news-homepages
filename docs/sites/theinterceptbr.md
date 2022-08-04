@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 2 screenshots with the Internet Archive.
+The archiving routine has saved 4 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-04T01:56:34.872125-03:00.jpg">
+  <img src="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-04T01:56:34.872125-03:00.jpg"
+     alt="Intercept Brazil at 2022-08-04 01:56:35-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-04T01:56:34.872125-03:00.jpg">August 4 at 1:56 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-04T00:10:01.801436-03:00.jpg">
+  <img src="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-04T00:10:01.801436-03:00.jpg"
+     alt="Intercept Brazil at 2022-08-04 00:10:04-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-04T00:10:01.801436-03:00.jpg">August 4 at 12:10 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-03T11:30:06.853541-03:00.jpg">
@@ -50,7 +68,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 2 hyperlink lists with the Internet Archive.
+The archiving routine has saved 4 hyperlink lists with the Internet Archive.
 
 
 
@@ -58,13 +76,15 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 4 at 1:56 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-04T01:56:34.872125-03:00.hyperlinks.json) |
+| [August 4 at 12:10 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-04T00:10:01.801436-03:00.hyperlinks.json) |
 | [August 3 at 11:30 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-03T11:30:06.853541-03:00.hyperlinks.json) |
 | [August 2 at 10:57 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-02T22:56:54.330823-03:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 2 accessibility trees with the Internet Archive.
+The archiving routine has saved 4 accessibility trees with the Internet Archive.
 
 
 
@@ -72,6 +92,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 4 at 1:56 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-04T01:56:34.872125-03:00.accessibility.json) |
+| [August 4 at 12:10 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-04T00:10:01.801436-03:00.accessibility.json) |
 | [August 3 at 11:30 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-03T11:30:06.853541-03:00.accessibility.json) |
 | [August 2 at 10:57 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-02T22:56:54.330823-03:00.accessibility.json) |
 
@@ -79,7 +101,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 2 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 4 Lighthouse audits with the Internet Archive.
 
 
 
@@ -87,6 +109,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 4 at 1:56 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-04T01:56:34.872125-03:00.lighthouse.json) |
+| [August 4 at 12:10 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-04T00:10:01.801436-03:00.lighthouse.json) |
 | [August 3 at 11:30 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-03T11:30:06.853541-03:00.lighthouse.json) |
 | [August 2 at 10:57 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-02T22:56:54.330823-03:00.lighthouse.json) |
 

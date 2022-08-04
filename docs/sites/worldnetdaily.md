@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 52 screenshots with the Internet Archive.
+The archiving routine has saved 53 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 52 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-04T00:42:19.019880-04:00.jpg">
+  <img src="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-04T00:42:19.019880-04:00.jpg"
+     alt="WND News at 2022-08-04 00:42:20-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-04T00:42:19.019880-04:00.jpg">August 4 at 12:42 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-03T14:40:12.298643-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-31T12:00:36.448909-04:00.jpg">July 31 at 12:00 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-31T00:12:30.472744-04:00.jpg">
-  <img src="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-31T00:12:30.472744-04:00.jpg"
-     alt="WND News at 2022-07-31 00:12:31-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-31T00:12:30.472744-04:00.jpg">July 31 at 12:12 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 48 hyperlink lists with the Internet Archive.
+The archiving routine has saved 49 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 4 at 12:42 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-04T00:42:19.019880-04:00.hyperlinks.json) |
 | [August 3 at 2:40 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-03T14:40:12.298643-04:00.hyperlinks.json) |
 | [August 3 at 1:18 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-03T13:17:58.516317-04:00.hyperlinks.json) |
 | [August 3 at 12:50 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-03T00:49:55.210522-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 1 at 2:40 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-01T14:40:01.703838-04:00.hyperlinks.json) |
 | [August 1 at 12:17 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-01T12:16:55.262124-04:00.hyperlinks.json) |
 | [August 1 at 12:03 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-01T00:03:33.470890-04:00.hyperlinks.json) |
-| [July 31 at 2:40 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-31T14:40:01.698183-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 49 accessibility trees with the Internet Archive.
+The archiving routine has saved 50 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 4 at 12:42 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-04T00:42:19.019880-04:00.accessibility.json) |
 | [August 3 at 2:40 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-03T14:40:12.298643-04:00.accessibility.json) |
 | [August 3 at 1:18 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-03T13:17:58.516317-04:00.accessibility.json) |
 | [August 3 at 12:49 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-03T00:49:55.210522-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 1 at 2:40 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-01T14:40:01.703838-04:00.accessibility.json) |
 | [August 1 at 12:16 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-01T12:16:55.262124-04:00.accessibility.json) |
 | [August 1 at 12:03 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-01T00:03:33.470890-04:00.accessibility.json) |
-| [July 31 at 2:40 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-31T14:40:01.698183-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 33 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 34 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 4 at 12:42 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-04T00:42:19.019880-04:00.lighthouse.json) |
 | [August 3 at 2:40 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-03T14:40:12.298643-04:00.lighthouse.json) |
 | [August 3 at 1:18 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-03T13:17:58.516317-04:00.lighthouse.json) |
 | [August 3 at 12:50 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-03T00:49:55.210522-04:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 1 at 2:40 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-01T14:40:01.703838-04:00.lighthouse.json) |
 | [August 1 at 12:17 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-01T12:16:55.262124-04:00.lighthouse.json) |
 | [August 1 at 12:03 AM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-08-01T00:03:33.470890-04:00.lighthouse.json) |
-| [July 31 at 2:40 PM](https://archive.org/download/worldnetdaily-2022/worldnetdaily-2022-07-31T14:40:01.698183-04:00.lighthouse.json) |
 
 
 

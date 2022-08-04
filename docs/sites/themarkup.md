@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 117 screenshots with the Internet Archive.
+The archiving routine has saved 118 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 117 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/themarkup-2022/themarkup-2022-08-04T00:39:36.769911-04:00.jpg">
+  <img src="https://archive.org/download/themarkup-2022/themarkup-2022-08-04T00:39:36.769911-04:00.jpg"
+     alt="The Markup at 2022-08-04 00:39:40-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/themarkup-2022/themarkup-2022-08-04T00:39:36.769911-04:00.jpg">August 4 at 12:39 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/themarkup-2022/themarkup-2022-08-03T13:14:33.224493-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/themarkup-2022/themarkup-2022-07-29T11:57:03.412849-04:00.jpg">July 29 at 11:57 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/themarkup-2022/themarkup-2022-07-28T23:51:23.437564-04:00.jpg">
-  <img src="https://archive.org/download/themarkup-2022/themarkup-2022-07-28T23:51:23.437564-04:00.jpg"
-     alt="The Markup at 2022-07-28 23:51:24-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/themarkup-2022/themarkup-2022-07-28T23:51:23.437564-04:00.jpg">July 28 at 11:51 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 117 hyperlink lists with the Internet Archive.
+The archiving routine has saved 118 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 4 at 12:39 AM](https://archive.org/download/themarkup-2022/themarkup-2022-08-04T00:39:36.769911-04:00.hyperlinks.json) |
 | [August 3 at 1:14 PM](https://archive.org/download/themarkup-2022/themarkup-2022-08-03T13:14:33.224493-04:00.hyperlinks.json) |
 | [August 3 at 12:47 AM](https://archive.org/download/themarkup-2022/themarkup-2022-08-03T00:47:02.403043-04:00.hyperlinks.json) |
 | [August 2 at 12:22 PM](https://archive.org/download/themarkup-2022/themarkup-2022-08-02T12:22:05.406378-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 31 at 11:57 AM](https://archive.org/download/themarkup-2022/themarkup-2022-07-31T11:57:28.436964-04:00.hyperlinks.json) |
 | [July 31 at 12:09 AM](https://archive.org/download/themarkup-2022/themarkup-2022-07-31T00:09:48.280113-04:00.hyperlinks.json) |
 | [July 30 at 12:00 PM](https://archive.org/download/themarkup-2022/themarkup-2022-07-30T12:00:01.805638-04:00.hyperlinks.json) |
-| [July 29 at 11:55 PM](https://archive.org/download/themarkup-2022/themarkup-2022-07-29T23:55:40.221164-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 118 accessibility trees with the Internet Archive.
+The archiving routine has saved 119 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 4 at 12:39 AM](https://archive.org/download/themarkup-2022/themarkup-2022-08-04T00:39:36.769911-04:00.accessibility.json) |
 | [August 3 at 1:14 PM](https://archive.org/download/themarkup-2022/themarkup-2022-08-03T13:14:33.224493-04:00.accessibility.json) |
 | [August 3 at 12:47 AM](https://archive.org/download/themarkup-2022/themarkup-2022-08-03T00:47:02.403043-04:00.accessibility.json) |
 | [August 2 at 12:22 PM](https://archive.org/download/themarkup-2022/themarkup-2022-08-02T12:22:05.406378-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 31 at 11:57 AM](https://archive.org/download/themarkup-2022/themarkup-2022-07-31T11:57:28.436964-04:00.accessibility.json) |
 | [July 31 at 12:09 AM](https://archive.org/download/themarkup-2022/themarkup-2022-07-31T00:09:48.280113-04:00.accessibility.json) |
 | [July 30 at 12:00 PM](https://archive.org/download/themarkup-2022/themarkup-2022-07-30T12:00:01.805638-04:00.accessibility.json) |
-| [July 29 at 11:55 PM](https://archive.org/download/themarkup-2022/themarkup-2022-07-29T23:55:40.221164-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 24 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 4 at 12:39 AM](https://archive.org/download/themarkup-2022/themarkup-2022-08-04T00:39:36.769911-04:00.lighthouse.json) |
 | [August 3 at 1:14 PM](https://archive.org/download/themarkup-2022/themarkup-2022-08-03T13:14:33.224493-04:00.lighthouse.json) |
 | [August 3 at 12:47 AM](https://archive.org/download/themarkup-2022/themarkup-2022-08-03T00:47:02.403043-04:00.lighthouse.json) |
 | [August 2 at 12:22 PM](https://archive.org/download/themarkup-2022/themarkup-2022-08-02T12:22:05.406378-04:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 31 at 11:57 AM](https://archive.org/download/themarkup-2022/themarkup-2022-07-31T11:57:28.436964-04:00.lighthouse.json) |
 | [July 31 at 12:09 AM](https://archive.org/download/themarkup-2022/themarkup-2022-07-31T00:09:48.280113-04:00.lighthouse.json) |
 | [July 30 at 12:00 PM](https://archive.org/download/themarkup-2022/themarkup-2022-07-30T12:00:01.805638-04:00.lighthouse.json) |
-| [July 29 at 11:55 PM](https://archive.org/download/themarkup-2022/themarkup-2022-07-29T23:55:40.221164-04:00.lighthouse.json) |
 
 
 

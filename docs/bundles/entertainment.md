@@ -7,7 +7,7 @@ orphan: true
 
 # Entertainment
 
-The most recent homepages from 14 news sites in this bundle.
+The most recent homepages from 15 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -63,6 +63,15 @@ The most recent homepages from 14 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/okayplayer.html">okayplayer</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/omelete.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/omelete.jpg"
+     alt="Omelete"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/omelete.html">Omelete</a></p>
 </div>
 
 <div class="latest-child">
@@ -158,6 +167,7 @@ The most recent homepages from 14 news sites in this bundle.
 |[Hollywood Reporter](https://palewi.re/docs/news-homepages/sites/thr.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thr.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thr.xml)|
 |[MTV News](https://palewi.re/docs/news-homepages/sites/mtvnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mtvnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mtvnews.xml)|
 |[okayplayer](https://palewi.re/docs/news-homepages/sites/okayplayer.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/okayplayer.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/okayplayer.xml)|
+|[Omelete](https://palewi.re/docs/news-homepages/sites/omelete.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/omelete.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/omelete.xml)|
 |[People](https://palewi.re/docs/news-homepages/sites/people.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/people.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/people.xml)|
 |[Ringer](https://palewi.re/docs/news-homepages/sites/ringer.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ringer.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ringer.xml)|
 |[Rolling Stone](https://palewi.re/docs/news-homepages/sites/rollingstone.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/rollingstone.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/rollingstone.xml)|

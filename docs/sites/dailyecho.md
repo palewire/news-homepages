@@ -223,7 +223,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 44 hyperlink lists with the Internet Archive.
+The archiving routine has saved 45 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 4 at 4:16 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-04T04:16:51.361928+01:00.hyperlinks.json) |
 | [August 3 at 5:52 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-03T17:52:02.304852+01:00.hyperlinks.json) |
 | [August 3 at 5:26 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-03T05:26:16.337904+01:00.hyperlinks.json) |
 | [August 2 at 3:49 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-02T15:49:18.884856+01:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 31 at 3:33 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-31T15:33:22.115229+01:00.hyperlinks.json) |
 | [July 31 at 3:53 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-31T03:53:45.072830+01:00.hyperlinks.json) |
 | [July 30 at 2:34 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-30T14:34:03.204361+01:00.hyperlinks.json) |
-| [July 30 at 2:21 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-30T02:20:58.882058+01:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -434,7 +434,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 22 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 4 at 4:16 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-04T04:16:51.361928+01:00.lighthouse.json) |
 | [August 3 at 5:52 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-03T17:52:02.304852+01:00.lighthouse.json) |
 | [August 3 at 5:26 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-03T05:26:16.337904+01:00.lighthouse.json) |
 | [August 2 at 3:49 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-02T15:49:18.884856+01:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 31 at 3:33 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-31T15:33:22.115229+01:00.lighthouse.json) |
 | [July 31 at 3:53 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-31T03:53:45.072830+01:00.lighthouse.json) |
 | [July 30 at 2:34 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-30T14:34:03.204361+01:00.lighthouse.json) |
-| [July 30 at 2:21 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-07-30T02:20:58.882058+01:00.lighthouse.json) |
 
 
 

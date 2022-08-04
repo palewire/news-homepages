@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 130 screenshots with the Internet Archive.
+The archiving routine has saved 131 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 130 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-08-04T07:09:52.220131-04:00.jpg">
+  <img src="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-08-04T07:09:52.220131-04:00.jpg"
+     alt="Baltimore Banner at 2022-08-04 07:09:57-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-08-04T07:09:52.220131-04:00.jpg">August 4 at 7:09 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-08-03T19:17:05.215354-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-29T19:59:50.059372-04:00.jpg">July 29 at 7:59 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-29T07:04:56.557053-04:00.jpg">
-  <img src="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-29T07:04:56.557053-04:00.jpg"
-     alt="Baltimore Banner at 2022-07-29 07:05:07-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-29T07:04:56.557053-04:00.jpg">July 29 at 7:05 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 130 hyperlink lists with the Internet Archive.
+The archiving routine has saved 131 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 4 at 7:10 AM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-08-04T07:09:52.220131-04:00.hyperlinks.json) |
 | [August 3 at 7:17 PM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-08-03T19:17:05.215354-04:00.hyperlinks.json) |
 | [August 3 at 8:35 AM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-08-03T08:34:56.342678-04:00.hyperlinks.json) |
 | [August 2 at 7:18 PM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-08-02T19:18:31.840100-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 31 at 8:07 PM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-31T20:07:43.922122-04:00.hyperlinks.json) |
 | [July 31 at 7:07 AM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-31T07:07:24.027804-04:00.hyperlinks.json) |
 | [July 30 at 7:12 PM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-30T19:11:56.779113-04:00.hyperlinks.json) |
-| [July 30 at 7:10 AM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-30T07:10:13.361994-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 130 accessibility trees with the Internet Archive.
+The archiving routine has saved 131 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 4 at 7:10 AM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-08-04T07:09:52.220131-04:00.accessibility.json) |
 | [August 3 at 7:17 PM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-08-03T19:17:05.215354-04:00.accessibility.json) |
 | [August 3 at 8:35 AM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-08-03T08:34:56.342678-04:00.accessibility.json) |
 | [August 2 at 7:18 PM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-08-02T19:18:31.840100-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 31 at 8:07 PM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-31T20:07:43.922122-04:00.accessibility.json) |
 | [July 31 at 7:07 AM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-31T07:07:24.027804-04:00.accessibility.json) |
 | [July 30 at 7:12 PM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-30T19:11:56.779113-04:00.accessibility.json) |
-| [July 30 at 7:10 AM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-30T07:10:13.361994-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 24 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 4 at 7:10 AM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-08-04T07:09:52.220131-04:00.lighthouse.json) |
 | [August 3 at 7:17 PM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-08-03T19:17:05.215354-04:00.lighthouse.json) |
 | [August 3 at 8:35 AM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-08-03T08:34:56.342678-04:00.lighthouse.json) |
 | [August 2 at 7:18 PM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-08-02T19:18:31.840100-04:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 31 at 8:07 PM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-31T20:07:43.922122-04:00.lighthouse.json) |
 | [July 31 at 7:07 AM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-31T07:07:24.027804-04:00.lighthouse.json) |
 | [July 30 at 7:12 PM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-30T19:11:56.779113-04:00.lighthouse.json) |
-| [July 30 at 7:10 AM](https://archive.org/download/baltimorebanner-2022/baltimorebanner-2022-07-30T07:10:13.361994-04:00.lighthouse.json) |
 
 
 
