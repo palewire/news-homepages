@@ -1,7 +1,48 @@
 {
-  "created": 1659546728,
+  "created": 1659615860,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
+  "dailyecho-2022": [
+    {
+      "url": "https://www.dailyecho.co.uk/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dailyecho_co_uk-_-2022_08_04_02_36_49.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dailyecho_co_uk-_-2022_08_04_02_36_49.report.json",
+      "summary": {
+        "performance": 0.16,
+        "accessibility": 0.69,
+        "best-practices": 0.42,
+        "seo": 0.86,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.dailyecho.co.uk/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dailyecho_co_uk-_-2022_08_04_02_37_54.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dailyecho_co_uk-_-2022_08_04_02_37_54.report.json",
+      "summary": {
+        "performance": 0.14,
+        "accessibility": 0.69,
+        "best-practices": 0.42,
+        "seo": 0.86,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.dailyecho.co.uk/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dailyecho_co_uk-_-2022_08_04_02_38_27.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dailyecho_co_uk-_-2022_08_04_02_38_27.report.json",
+      "summary": {
+        "performance": 0.14,
+        "accessibility": 0.69,
+        "best-practices": 0.58,
+        "seo": 0.86,
+        "pwa": 0.4
+      }
+    }
+  ],
   "dir": "/23/items/dailyecho-2022",
   "files": [
     {
@@ -2172,31 +2213,51 @@
       "sha1": "506c38d47957e54fa764d8d7374d906bf7958783"
     },
     {
+      "name": "dailyecho-2022-08-04T04:16:51.361928+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659583012",
+      "size": "46500",
+      "md5": "7accfd810b2f9d8d94997e3b1e75147e",
+      "crc32": "b80842eb",
+      "sha1": "a306bcaba7f710432797a9134f17fdfbb2eaf06e",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyecho-2022-08-04T04:16:51.361928+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659583013",
+      "size": "1504",
+      "md5": "165118b757eb36dfb0d1cf748aa89203",
+      "crc32": "0c55a41c",
+      "sha1": "596287f5e91cd4fdb1117a2dd590571f86f95a6a",
+      "format": "JSON"
+    },
+    {
       "name": "dailyecho-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e2b8b8e176c9cb9437b9d948d731c067649ec334",
-      "mtime": "1659546707",
-      "size": "45153",
-      "md5": "8723f9d75012f38a9dd80c27f016447d",
-      "crc32": "b0a4c34c",
-      "sha1": "68a2db6189db9a904cf3db32f330365de9d47de4",
+      "btih": "171c66bfc6bf2e1c7c5f46e7816f4f244401e2e0",
+      "mtime": "1659583054",
+      "size": "45576",
+      "md5": "a3e1b93434efa8f49bbab7bfecc698db",
+      "crc32": "85d848ed",
+      "sha1": "8ca12da8d64aee8c56f07e18d212d865c8faf15d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailyecho-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3f24c00bd4a95ecd99484ad1492366c1",
+      "md5": "4330436e8cfbd30a876b0b9e71f8c72e",
       "summation": "md5"
     },
     {
       "name": "dailyecho-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659545532",
-      "size": "262144",
-      "md5": "9778c005358953d1a9b83456be10f662",
-      "crc32": "25948e10",
-      "sha1": "4bda7efe8549f7a87b9d4b073f766e1c4c70e452",
+      "mtime": "1659583018",
+      "size": "270336",
+      "md5": "eef1ee9eb5f8b6eb429aa5c5765302ae",
+      "crc32": "01e7c7b9",
+      "sha1": "73f0d3c5cc651ca1338983918078fa0f8cc58ff4",
       "format": "Metadata"
     },
     {
@@ -2210,9 +2271,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 211,
-  "item_last_updated": 1659546707,
-  "item_size": 15870032,
+  "files_count": 213,
+  "item_last_updated": 1659583054,
+  "item_size": 15926651,
   "metadata": {
     "identifier": "dailyecho-2022",
     "collection": [
@@ -2229,10 +2290,10 @@
     "publicdate": "2022-07-10 15:41:04",
     "addeddate": "2022-07-10 15:41:04"
   },
-  "server": "ia902507.us.archive.org",
-  "uniq": 397053479,
+  "server": "ia802507.us.archive.org",
+  "uniq": 1779130326,
   "workable_servers": [
-    "ia902507.us.archive.org",
-    "ia802507.us.archive.org"
+    "ia802507.us.archive.org",
+    "ia902507.us.archive.org"
   ]
 }

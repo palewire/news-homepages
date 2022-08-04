@@ -1,5 +1,5 @@
 {
-  "created": 1659547392,
+  "created": 1659616239,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/13/items/lavozdegalicia-2022",
@@ -692,31 +692,83 @@
       "sha1": "01e304d415f326f443061398032c0584e28df89a"
     },
     {
+      "name": "lavozdegalicia-2022-08-04T05:26:55.671709+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659583617",
+      "size": "68139",
+      "md5": "e7596a8390f9dc04d837a07864416d53",
+      "crc32": "6faf1833",
+      "sha1": "cd739e3e57c5663a3d5d0be92d4a7881e26973bb",
+      "format": "JSON"
+    },
+    {
+      "name": "lavozdegalicia-2022-08-04T05:26:55.671709+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659583619",
+      "size": "76308",
+      "md5": "b7f1ced7a800266fb3b8950a4a0b3453",
+      "crc32": "5c28b83f",
+      "sha1": "278940a18c23fc470cd25f65c05cfaa2acfeebaa",
+      "format": "JSON"
+    },
+    {
+      "name": "lavozdegalicia-2022-08-04T05:26:55.671709+02:00.jpg",
+      "source": "original",
+      "mtime": "1659583616",
+      "size": "246200",
+      "md5": "ce3709aa2038c4b1d3ba730d0376a32e",
+      "crc32": "bf4de324",
+      "sha1": "8b1c5cba668385e285fa152ef7bbdcbb2f3a52b0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lavozdegalicia-2022-08-04T05:26:55.671709+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659583620",
+      "size": "1521",
+      "md5": "279f35e681641c2ad150bcc93a31d182",
+      "crc32": "a690cf3a",
+      "sha1": "92f10bcf3a1d69cf22fa93ab0100898e9bf7617e",
+      "format": "JSON"
+    },
+    {
+      "name": "lavozdegalicia-2022-08-04T05:26:55.671709+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lavozdegalicia-2022-08-04T05:26:55.671709+02:00.jpg",
+      "mtime": "1659583715",
+      "size": "8232",
+      "md5": "74bf5b9e31ca110472dd406fa95f046b",
+      "crc32": "a99c232c",
+      "sha1": "4dba6c5511d143b900f8958d63ccd54f85de7bd2"
+    },
+    {
       "name": "lavozdegalicia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3771eeecb009dd87b04ebd9f83b2e77cf0b9422b",
-      "mtime": "1659547375",
-      "size": "15758",
-      "md5": "e224f8dca35255c34aadbbd8f3d4a5ae",
-      "crc32": "4b5d55f3",
-      "sha1": "e0d5cd398ca1fdf778de54a5290aab236a301a45",
+      "btih": "efc2844d5cb33e2c44bc0ade6832e04549db32c8",
+      "mtime": "1659583718",
+      "size": "16847",
+      "md5": "4cc7991a90ef244b113e895d435527e4",
+      "crc32": "a2e3dc4c",
+      "sha1": "4ac3b674d12fde95d072712b337b5fe4f6de65d0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lavozdegalicia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "da44e10acbca083e128090b0345ec9bb",
+      "md5": "e0ad57b38daa8b62015a175ca3ee606b",
       "summation": "md5"
     },
     {
       "name": "lavozdegalicia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659546107",
-      "size": "102400",
-      "md5": "a44dc17199411da0608ba993d4954897",
-      "crc32": "b212bd51",
-      "sha1": "2a38b3cbec80cd67d01d5c224584b1adc2e687a4",
+      "mtime": "1659583626",
+      "size": "106496",
+      "md5": "07de4f24f40f19ff305029ffab9192b0",
+      "crc32": "d04e58a2",
+      "sha1": "103cadb1ecc9ad71218fc83fab8cbeec8b46b640",
       "format": "Metadata"
     },
     {
@@ -730,9 +782,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 70,
-  "item_last_updated": 1659547375,
-  "item_size": 5144466,
+  "files_count": 75,
+  "item_last_updated": 1659583718,
+  "item_size": 5550051,
+  "lavozdegalicia-2022": [
+    {
+      "url": "https://www.lavozdegalicia.es/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lavozdegalicia_es-_-2022_08_04_02_48_44.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lavozdegalicia_es-_-2022_08_04_02_48_44.report.json",
+      "summary": {
+        "performance": 0.33,
+        "accessibility": 0.89,
+        "best-practices": 0.92,
+        "seo": 0.82,
+        "pwa": 0.7
+      }
+    },
+    {
+      "url": "https://www.lavozdegalicia.es/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lavozdegalicia_es-_-2022_08_04_02_50_45.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lavozdegalicia_es-_-2022_08_04_02_50_45.report.json",
+      "summary": {
+        "performance": 0.3,
+        "accessibility": 0.89,
+        "best-practices": 0.92,
+        "seo": 0.82,
+        "pwa": 0.7
+      }
+    },
+    {
+      "url": "https://www.lavozdegalicia.es/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lavozdegalicia_es-_-2022_08_04_02_49_45.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lavozdegalicia_es-_-2022_08_04_02_49_45.report.json",
+      "summary": {
+        "performance": 0.27,
+        "accessibility": 0.89,
+        "best-practices": 0.92,
+        "seo": 0.82,
+        "pwa": 0.7
+      }
+    }
+  ],
   "metadata": {
     "identifier": "lavozdegalicia-2022",
     "collection": [
@@ -750,7 +843,7 @@
     "addeddate": "2022-07-28 18:53:53"
   },
   "server": "ia801405.us.archive.org",
-  "uniq": 135312650,
+  "uniq": 1122980707,
   "workable_servers": [
     "ia801405.us.archive.org",
     "ia601405.us.archive.org"

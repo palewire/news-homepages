@@ -1,5 +1,5 @@
 {
-  "created": 1659536158,
+  "created": 1659616732,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/31/items/spacenews_inc-2022",
@@ -900,31 +900,83 @@
       "sha1": "4ee03cb6c17da0db167ccad582bedf6e74b5fb02"
     },
     {
+      "name": "spacenews_inc-2022-08-03T20:49:09.437901-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659574153",
+      "size": "14845",
+      "md5": "b3cdeb9cffbbc358d513cb5e2dacb6c6",
+      "crc32": "1e19851c",
+      "sha1": "10f97a883abe8772fefb7d6b140eeaa8257ba6fc",
+      "format": "JSON"
+    },
+    {
+      "name": "spacenews_inc-2022-08-03T20:49:09.437901-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659574154",
+      "size": "15936",
+      "md5": "1696999076d4d6ba5abf855a30dfafdc",
+      "crc32": "f52c23be",
+      "sha1": "d631343b382538918ff5883488aeb4c6768837ec",
+      "format": "JSON"
+    },
+    {
+      "name": "spacenews_inc-2022-08-03T20:49:09.437901-04:00.jpg",
+      "source": "original",
+      "mtime": "1659574151",
+      "size": "262816",
+      "md5": "d3d4d796b7c2b9669ece13b7ee309e8c",
+      "crc32": "6730ca08",
+      "sha1": "8250fb38ec8eb9fff6f6e63335370d66df383954",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "spacenews_inc-2022-08-03T20:49:09.437901-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659574156",
+      "size": "1449",
+      "md5": "835e437834b3df139e478fc6a6060cf9",
+      "crc32": "42bcda37",
+      "sha1": "4ed2781bb0c18cbd56758f6b04d61996da7d2700",
+      "format": "JSON"
+    },
+    {
+      "name": "spacenews_inc-2022-08-03T20:49:09.437901-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "spacenews_inc-2022-08-03T20:49:09.437901-04:00.jpg",
+      "mtime": "1659574262",
+      "size": "9870",
+      "md5": "3140bcd1b53265c8e86585cf17e5cf13",
+      "crc32": "e3653f8d",
+      "sha1": "d75e94aa4304638a44afa1a95008311d02c5e3fd"
+    },
+    {
       "name": "spacenews_inc-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e3f0cfa6d5d61f900ad4957f90b315d2673f9934",
-      "mtime": "1659536144",
-      "size": "19971",
-      "md5": "cad3aad9e4d875f807de8521feca829f",
-      "crc32": "a79df19f",
-      "sha1": "b389d667317346d7703a601949ec9e340779393a",
+      "btih": "21ec8b7fec63324d7a74f4152a40bfd651077170",
+      "mtime": "1659574265",
+      "size": "21055",
+      "md5": "21c12f3cd3caba73ebc18c13760d34de",
+      "crc32": "3e7e13e1",
+      "sha1": "7d5bc326756467bc69807d0114d29944274c7fe5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "spacenews_inc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1fe1a891c2ae2d3098f31aca0aff615a",
+      "md5": "9c1f14679d2c8138ccad457f96dbcf71",
       "summation": "md5"
     },
     {
       "name": "spacenews_inc-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659531519",
-      "size": "131072",
-      "md5": "848501a5a5340516dd7314282f70b8a4",
-      "crc32": "556b77d0",
-      "sha1": "4dce0e5346b8c726ac6af859369d29213e9a5010",
+      "mtime": "1659574162",
+      "size": "135168",
+      "md5": "e968be3d22f7e1cd5fa448652a41f973",
+      "crc32": "fd237993",
+      "sha1": "fc52b96bd39c674ee34746a293cdb9aff3b4cfdd",
       "format": "Metadata"
     },
     {
@@ -938,9 +990,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 90,
-  "item_last_updated": 1659536144,
-  "item_size": 5606994,
+  "files_count": 95,
+  "item_last_updated": 1659574265,
+  "item_size": 5917090,
   "metadata": {
     "identifier": "spacenews_inc-2022",
     "collection": [
@@ -958,7 +1010,48 @@
     "addeddate": "2022-07-26 13:28:35"
   },
   "server": "ia801406.us.archive.org",
-  "uniq": 1660037586,
+  "spacenews_inc-2022": [
+    {
+      "url": "https://spacenews.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/spacenews_com-_-2022_08_04_00_23_46.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/spacenews_com-_-2022_08_04_00_23_46.report.json",
+      "summary": {
+        "performance": 0.13,
+        "accessibility": 0.85,
+        "best-practices": 0.58,
+        "seo": 0.91,
+        "pwa": 0.6
+      }
+    },
+    {
+      "url": "https://spacenews.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/spacenews_com-_-2022_08_04_00_24_16.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/spacenews_com-_-2022_08_04_00_24_16.report.json",
+      "summary": {
+        "performance": 0.41,
+        "accessibility": 0.85,
+        "best-practices": 0.58,
+        "seo": 0.91,
+        "pwa": 0.6
+      }
+    },
+    {
+      "url": "https://spacenews.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/spacenews_com-_-2022_08_04_00_24_03.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/spacenews_com-_-2022_08_04_00_24_03.report.json",
+      "summary": {
+        "performance": 0.4,
+        "accessibility": 0.85,
+        "best-practices": 0.58,
+        "seo": 0.91,
+        "pwa": 0.6
+      }
+    }
+  ],
+  "uniq": 2118261850,
   "workable_servers": [
     "ia801406.us.archive.org",
     "ia601406.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1659573624,
+  "created": 1659616204,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/30/items/la_ser-2022",
@@ -1045,21 +1045,32 @@
       "format": "JSON"
     },
     {
+      "name": "la_ser-2022-08-04T02:39:29.136128+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "la_ser-2022-08-04T02:39:29.136128+02:00.jpg",
+      "mtime": "1659574003",
+      "size": "9719",
+      "md5": "d61afec2bf7169d59082aab56a5013dd",
+      "crc32": "b6c6bcf3",
+      "sha1": "fd31e411dc2d2a9a923364dc8e98d36ea6d22c4b"
+    },
+    {
       "name": "la_ser-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dd8005a796db536b43b04c9dcf01e7bc19abe06e",
-      "mtime": "1659573620",
-      "size": "22228",
-      "md5": "2978976e48d678c46d6f2c7e3b69e3a4",
-      "crc32": "b4edb7ff",
-      "sha1": "de1ccedc28b507c3a9f59e1d91e7976d9b0b90a3",
+      "btih": "31b5634999e7a432d362706d97602812cc1475e1",
+      "mtime": "1659574020",
+      "size": "22430",
+      "md5": "e423f41b7c71fdcecd1398c7c49f91cb",
+      "crc32": "97e3deee",
+      "sha1": "7bcb274d38cefc88fabd987b67c9c44bcb0c8380",
       "format": "Archive BitTorrent"
     },
     {
       "name": "la_ser-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d54a7bbb32ceac57b9980e35c3737f6d",
+      "md5": "869a93d3b03a445e0f21c357ed9bdecb",
       "summation": "md5"
     },
     {
@@ -1083,9 +1094,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 104,
-  "item_last_updated": 1659573620,
-  "item_size": 6626105,
+  "files_count": 105,
+  "item_last_updated": 1659574020,
+  "item_size": 6636026,
+  "la_ser-2022": [
+    {
+      "url": "https://cadenaser.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/cadenaser_com-_-2022_08_04_00_09_01.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/cadenaser_com-_-2022_08_04_00_09_01.report.json",
+      "summary": {
+        "performance": 0.32,
+        "accessibility": 0.88,
+        "best-practices": 0.83,
+        "seo": 0.85,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://cadenaser.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/cadenaser_com-_-2022_08_04_00_11_17.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/cadenaser_com-_-2022_08_04_00_11_17.report.json",
+      "summary": {
+        "performance": 0.33,
+        "accessibility": 0.87,
+        "best-practices": 0.83,
+        "seo": 0.85,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://cadenaser.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/cadenaser_com-_-2022_08_04_00_09_38.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/cadenaser_com-_-2022_08_04_00_09_38.report.json",
+      "summary": {
+        "performance": 0.26,
+        "accessibility": 0.8,
+        "best-practices": 0.83,
+        "seo": 0.85,
+        "pwa": 0.3
+      }
+    }
+  ],
   "metadata": {
     "identifier": "la_ser-2022",
     "collection": [
@@ -1102,21 +1154,10 @@
     "publicdate": "2022-07-26 00:17:38",
     "addeddate": "2022-07-26 00:17:38"
   },
-  "pending_tasks": true,
   "server": "ia601400.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3352003120,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1473000832,
+  "uniq": 1456230590,
   "workable_servers": [
-    "ia601400.us.archive.org"
+    "ia601400.us.archive.org",
+    "ia801400.us.archive.org"
   ]
 }

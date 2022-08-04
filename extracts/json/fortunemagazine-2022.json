@@ -1,5 +1,5 @@
 {
-  "created": 1659569475,
+  "created": 1659615970,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/21/items/fortunemagazine-2022",
@@ -5012,31 +5012,72 @@
       "sha1": "3402c66749572fbd798931d13b8f25e635cc89b8"
     },
     {
+      "name": "fortunemagazine-2022-08-04T07:16:26.185001-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659611789",
+      "size": "70417",
+      "md5": "11d7fe879e8210a7b322121bb920766c",
+      "crc32": "56c955e3",
+      "sha1": "0f7baf1317ac2dc560b6ced7d38c946d88af853c",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-08-04T07:16:26.185001-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659611790",
+      "size": "53707",
+      "md5": "592c16206b81ebea7d120834ff55f1e7",
+      "crc32": "c1d49279",
+      "sha1": "fbd28dfd7dd20b1a3c6c2d0762d80106223faf4c",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-08-04T07:16:26.185001-04:00.jpg",
+      "source": "original",
+      "mtime": "1659611787",
+      "size": "256825",
+      "md5": "b02e60f95422303bc2dc0bebf388cea3",
+      "crc32": "0edf215d",
+      "sha1": "5e1e9d64dd37b7d735329ee643c2dce8cfa8adde",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fortunemagazine-2022-08-04T07:16:26.185001-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659611792",
+      "size": "1423",
+      "md5": "ededfa4956545413bfa8da0f652917d4",
+      "crc32": "bc4eb7e8",
+      "sha1": "af2fef2d69f19c7803a4a930565d836d334fb8c3",
+      "format": "JSON"
+    },
+    {
       "name": "fortunemagazine-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c92cc16bcaf51fec72575a57d895720b547872b1",
-      "mtime": "1659569393",
-      "size": "105849",
-      "md5": "b5e3a53c6b921b46dc4368dc5582b061",
-      "crc32": "ed77c52f",
-      "sha1": "d9ea131085a3c75f4fdc3515d8dc8604a84978fe",
+      "btih": "995d638f84a34326bd980156e9706607d0553b27",
+      "mtime": "1659611834",
+      "size": "106712",
+      "md5": "58afc6afe9eaf54faaf71ed4cd5b1eb9",
+      "crc32": "23f43ce6",
+      "sha1": "809b331324742479c3f46f2f7d126b694de6816e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fortunemagazine-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ef8e1fbf3e217cf1bfa0bf694064fc2c",
+      "md5": "8fb574915d064ca8dc08bcaea0607c37",
       "summation": "md5"
     },
     {
       "name": "fortunemagazine-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659569092",
-      "size": "581632",
-      "md5": "a6ace2addd6160bf7b77a4b41e4f8060",
-      "crc32": "e979edbc",
-      "sha1": "e51634560e133a15215f123a3492ba4b88162832",
+      "mtime": "1659611797",
+      "size": "585728",
+      "md5": "13026b052a727260ae5f35631dd792e6",
+      "crc32": "1f88d338",
+      "sha1": "d1a4c6127c513f76c75f804fe7ad8ec6709a671a",
       "format": "Metadata"
     },
     {
@@ -5050,9 +5091,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 482,
-  "item_last_updated": 1659569393,
-  "item_size": 49497102,
+  "files_count": 486,
+  "fortunemagazine-2022": [
+    {
+      "url": "https://fortune.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/fortune_com-_-2022_08_04_10_54_57.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/fortune_com-_-2022_08_04_10_54_57.report.json",
+      "summary": {
+        "performance": 0.26,
+        "accessibility": 1,
+        "best-practices": 0.92,
+        "seo": 0.97,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://fortune.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/fortune_com-_-2022_08_04_10_55_37.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/fortune_com-_-2022_08_04_10_55_37.report.json",
+      "summary": {
+        "performance": 0.32,
+        "accessibility": 1,
+        "best-practices": 0.92,
+        "seo": 0.97,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://fortune.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/fortune_com-_-2022_08_04_10_55_19.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/fortune_com-_-2022_08_04_10_55_19.report.json",
+      "summary": {
+        "performance": 0.28,
+        "accessibility": 1,
+        "best-practices": 0.92,
+        "seo": 0.97,
+        "pwa": 0.3
+      }
+    }
+  ],
+  "item_last_updated": 1659611834,
+  "item_size": 49884433,
   "metadata": {
     "identifier": "fortunemagazine-2022",
     "collection": [
@@ -5069,10 +5151,21 @@
     "publicdate": "2022-06-19 23:24:03",
     "addeddate": "2022-06-19 23:24:03"
   },
-  "server": "ia801506.us.archive.org",
-  "uniq": 252033576,
+  "pending_tasks": true,
+  "server": "ia601506.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3352500738,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 473872195,
   "workable_servers": [
-    "ia801506.us.archive.org",
     "ia601506.us.archive.org"
   ]
 }

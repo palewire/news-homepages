@@ -1,6 +1,5 @@
 {
-  "conflict": 1659573731,
-  "created": 1659573731,
+  "created": 1659616189,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/5/items/kut-2022",
@@ -1800,6 +1799,47 @@
   "files_count": 172,
   "item_last_updated": 1659573730,
   "item_size": 13462872,
+  "kut-2022": [
+    {
+      "url": "https://www.kut.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kut_org-_-2022_08_04_00_08_02.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kut_org-_-2022_08_04_00_08_02.report.json",
+      "summary": {
+        "performance": 0.34,
+        "accessibility": 0.96,
+        "best-practices": 1,
+        "seo": 0.98,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.kut.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kut_org-_-2022_08_04_00_08_28.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kut_org-_-2022_08_04_00_08_28.report.json",
+      "summary": {
+        "performance": 0.56,
+        "accessibility": 0.96,
+        "best-practices": 1,
+        "seo": 0.98,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.kut.org/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kut_org-_-2022_08_04_00_08_15.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kut_org-_-2022_08_04_00_08_15.report.json",
+      "summary": {
+        "performance": 0.56,
+        "accessibility": 0.96,
+        "best-practices": 1,
+        "seo": 0.98,
+        "pwa": 0.4
+      }
+    }
+  ],
   "metadata": {
     "identifier": "kut-2022",
     "collection": [
@@ -1816,29 +1856,10 @@
     "publicdate": "2022-07-18 00:04:57",
     "addeddate": "2022-07-18 00:04:57"
   },
-  "pending_tasks": true,
   "server": "ia601506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3352000804,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3352005731,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 256056481,
+  "uniq": 220065097,
   "workable_servers": [
-    "ia601506.us.archive.org"
+    "ia601506.us.archive.org",
+    "ia801506.us.archive.org"
   ]
 }

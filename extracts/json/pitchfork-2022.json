@@ -1,5 +1,5 @@
 {
-  "created": 1659573982,
+  "created": 1659587934,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/31/items/pitchfork-2022",
@@ -5610,31 +5610,83 @@
       "sha1": "4671d514f2c3ea85449f8c5f91c048426e7ef632"
     },
     {
+      "name": "pitchfork-2022-08-03T23:33:12.475325-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659587599",
+      "size": "26001",
+      "md5": "0105c5f9b03b88fe85012d2d274c7399",
+      "crc32": "71dca472",
+      "sha1": "9d8b525990417ee3bb4eaf4bf54b21c4fdb9d447",
+      "format": "JSON"
+    },
+    {
+      "name": "pitchfork-2022-08-03T23:33:12.475325-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659587601",
+      "size": "14984",
+      "md5": "867816d8e60d5d97366a336f5739a498",
+      "crc32": "3b7c40f8",
+      "sha1": "3e1ff965ba296b0a313f1f3d8ec01b9aeb188f64",
+      "format": "JSON"
+    },
+    {
+      "name": "pitchfork-2022-08-03T23:33:12.475325-05:00.jpg",
+      "source": "original",
+      "mtime": "1659587597",
+      "size": "229828",
+      "md5": "f0b259469c30d243078bc3bd584b767e",
+      "crc32": "a9b01418",
+      "sha1": "578516e5c51bde8888d72f993892d6b4c7b4d802",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pitchfork-2022-08-03T23:33:12.475325-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659587602",
+      "size": "1450",
+      "md5": "8289146d2df234c8fa1985cbef3916b3",
+      "crc32": "7fdcd9b1",
+      "sha1": "986ea351d3b5e65a2dabd671cb0b530b51678fc7",
+      "format": "JSON"
+    },
+    {
+      "name": "pitchfork-2022-08-03T23:33:12.475325-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pitchfork-2022-08-03T23:33:12.475325-05:00.jpg",
+      "mtime": "1659587900",
+      "size": "9375",
+      "md5": "6a3e87308b10d2b6f1f8450bd0b0bdf4",
+      "crc32": "19f18be4",
+      "sha1": "7d46500dc9cd687db068683c5b1ddd354ec78c1b"
+    },
+    {
       "name": "pitchfork-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5a8651846fef8ef37315b511a9e6384ad90e7314",
-      "mtime": "1659549224",
-      "size": "114225",
-      "md5": "d0f49c71616e9c878a50104203b4c671",
-      "crc32": "83142a49",
-      "sha1": "8606a444802fa2ce2805f8234af9ef75cab364f8",
+      "btih": "ef83c012ac02e1d43726cdb733c3ae25b4a9ced6",
+      "mtime": "1659587907",
+      "size": "115269",
+      "md5": "db021020c2f90b2568589cdab9b465dc",
+      "crc32": "c33bf4c9",
+      "sha1": "4ad2f53639325d1f024dd8e33be77a2311d78e28",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pitchfork-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ca3890be70b3ea7a9edbcf14daa134b5",
+      "md5": "9923889fbcaa1928e4de750036451070",
       "summation": "md5"
     },
     {
       "name": "pitchfork-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659548285",
-      "size": "638976",
-      "md5": "9ffb10300f6ad0c30b86199ea73bddd3",
-      "crc32": "6db8d6fb",
-      "sha1": "2cd4190139cc45384e9eb9cdc5c217660faf4d39",
+      "mtime": "1659587605",
+      "size": "643072",
+      "md5": "3da0c7920e63ef25f2c88224ddc1ac64",
+      "crc32": "ec340395",
+      "sha1": "1006c762cf9369faab4242915fe2b29c53a4f606",
       "format": "Metadata"
     },
     {
@@ -5648,9 +5700,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 539,
-  "item_last_updated": 1659549224,
-  "item_size": 34901564,
+  "files_count": 544,
+  "item_last_updated": 1659587907,
+  "item_size": 35188342,
   "metadata": {
     "identifier": "pitchfork-2022",
     "collection": [
@@ -5667,49 +5719,8 @@
     "publicdate": "2022-06-24 22:59:44",
     "addeddate": "2022-06-24 22:59:44"
   },
-  "pitchfork-2022": [
-    {
-      "url": "https://pitchfork.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/pitchfork_com-_-2022_08_03_17_25_42.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/pitchfork_com-_-2022_08_03_17_25_42.report.json",
-      "summary": {
-        "performance": 0.17,
-        "accessibility": 0.98,
-        "best-practices": 0.92,
-        "seo": 0.86,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://pitchfork.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/pitchfork_com-_-2022_08_03_17_26_17.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/pitchfork_com-_-2022_08_03_17_26_17.report.json",
-      "summary": {
-        "performance": 0.16,
-        "accessibility": 0.98,
-        "best-practices": 0.92,
-        "seo": 0.86,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://pitchfork.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/pitchfork_com-_-2022_08_03_17_26_47.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/pitchfork_com-_-2022_08_03_17_26_47.report.json",
-      "summary": {
-        "performance": 0.17,
-        "accessibility": 0.98,
-        "best-practices": 0.92,
-        "seo": 0.86,
-        "pwa": 0.3
-      }
-    }
-  ],
   "server": "ia801507.us.archive.org",
-  "uniq": 290045021,
+  "uniq": 1934770764,
   "workable_servers": [
     "ia801507.us.archive.org",
     "ia601507.us.archive.org"

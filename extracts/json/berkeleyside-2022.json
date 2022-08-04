@@ -1,8 +1,8 @@
 {
-  "created": 1659568900,
-  "d1": "ia902501.us.archive.org",
-  "d2": "ia802501.us.archive.org",
-  "dir": "/22/items/berkeleyside-2022",
+  "created": 1659611717,
+  "d1": "ia601406.us.archive.org",
+  "d2": "ia801406.us.archive.org",
+  "dir": "/35/items/berkeleyside-2022",
   "files": [
     {
       "name": "Berkeleyside-2022-03-22T19:08:25.599656-07:00.jpg",
@@ -10220,31 +10220,72 @@
       "sha1": "c1669c0bf350f6e8ccd4fc9eb789bda642488ea3"
     },
     {
+      "name": "berkeleyside-2022-08-04T04:10:05.128281-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659611417",
+      "size": "32291",
+      "md5": "5732eaec356790edec33d189ed48bab8",
+      "crc32": "1e3de060",
+      "sha1": "bc363d220b2a41823189995e88ff060cda3bdc8d",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-08-04T04:10:05.128281-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659611419",
+      "size": "27245",
+      "md5": "0647d2c2f1ae86c6097ff9e34ddd1716",
+      "crc32": "b449b2d9",
+      "sha1": "6f1af9f6958e00ed8852795ebccec2a301865a58",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-08-04T04:10:05.128281-07:00.jpg",
+      "source": "original",
+      "mtime": "1659611412",
+      "size": "375267",
+      "md5": "925b7d8241bb85c1f0a69ddb14780dc0",
+      "crc32": "c0f31063",
+      "sha1": "2fd038d83e7c32b806cc17b98d0693f0e6062306",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "berkeleyside-2022-08-04T04:10:05.128281-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659611421",
+      "size": "1501",
+      "md5": "c992cf6a4d92ef9a22956988a65d4f7b",
+      "crc32": "374f8bda",
+      "sha1": "91d2a5d5bce72abadc66c5ba86b7e0e1704173de",
+      "format": "JSON"
+    },
+    {
       "name": "berkeleyside-2022_archive.torrent",
       "source": "metadata",
-      "btih": "370805d406fc22151aa4b2ed06df7a1e6e65b0ed",
-      "mtime": "1659568870",
-      "size": "211116",
-      "md5": "d09666e310ae048d861d0082fec08a38",
-      "crc32": "5362f302",
-      "sha1": "dcb437f85e5f7be41ba75592692e6de216135743",
+      "btih": "309fbe54651a3f982f4dded7f6c24ef3729033e9",
+      "mtime": "1659611711",
+      "size": "211987",
+      "md5": "6468dbc460f831b8ac97bad07d8b1da3",
+      "crc32": "e31dc267",
+      "sha1": "bcedb15de936f02f115f5e54424c185302c656cf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "berkeleyside-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bdf8c7eae8bfc6fabf84eae95880a441",
+      "md5": "a7108fd03d5f47fb182dfdeb26fe1776",
       "summation": "md5"
     },
     {
       "name": "berkeleyside-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659568642",
-      "size": "1134592",
-      "md5": "6417e953d47ee9255e55a0282d5a4103",
-      "crc32": "aa04606e",
-      "sha1": "211ee2dadf4f9af887b564508a658a68ef183f44",
+      "mtime": "1659611666",
+      "size": "1138688",
+      "md5": "aab89515b44df003b5c1970cbeea16a3",
+      "crc32": "0a25d424",
+      "sha1": "1853c7b746d69c2c745d40b0ba3df9623716c16d",
       "format": "Metadata"
     },
     {
@@ -10258,9 +10299,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 977,
-  "item_last_updated": 1659568870,
-  "item_size": 104176776,
+  "files_count": 981,
+  "item_last_updated": 1659611711,
+  "item_size": 104618047,
   "metadata": {
     "identifier": "berkeleyside-2022",
     "collection": [
@@ -10278,10 +10319,21 @@
     "addeddate": "2022-03-23 02:08:42",
     "year": "2022"
   },
-  "server": "ia902501.us.archive.org",
-  "uniq": 2071119707,
+  "pending_tasks": true,
+  "server": "ia601406.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3352499651,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 185596898,
   "workable_servers": [
-    "ia902501.us.archive.org",
-    "ia802501.us.archive.org"
+    "ia601406.us.archive.org"
   ]
 }

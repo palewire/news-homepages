@@ -434,7 +434,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 33 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 34 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 3 at 11:23 PM](https://archive.org/download/asahi-2022/asahi-2022-08-03T23:23:31.872225+09:00.lighthouse.json) |
 | [August 3 at 12:14 PM](https://archive.org/download/asahi-2022/asahi-2022-08-03T12:14:20.576386+09:00.lighthouse.json) |
 | [August 3 at 10:52 AM](https://archive.org/download/asahi-2022/asahi-2022-08-03T10:52:01.951197+09:00.lighthouse.json) |
 | [August 2 at 10:38 PM](https://archive.org/download/asahi-2022/asahi-2022-08-02T22:38:39.204356+09:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 1 at 11:32 AM](https://archive.org/download/asahi-2022/asahi-2022-08-01T11:32:00.465602+09:00.lighthouse.json) |
 | [August 1 at 10:23 AM](https://archive.org/download/asahi-2022/asahi-2022-08-01T10:23:05.839965+09:00.lighthouse.json) |
 | [July 31 at 10:27 PM](https://archive.org/download/asahi-2022/asahi-2022-07-31T22:27:08.228073+09:00.lighthouse.json) |
-| [July 31 at 11:52 AM](https://archive.org/download/asahi-2022/asahi-2022-07-31T11:52:48.258026+09:00.lighthouse.json) |
 
 
 

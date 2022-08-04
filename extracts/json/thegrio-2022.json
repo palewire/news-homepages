@@ -1,5 +1,5 @@
 {
-  "created": 1659574194,
+  "created": 1659616838,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/7/items/thegrio-2022",
@@ -120,31 +120,83 @@
       "sha1": "15e26dad7967ef643fc24bb6405425cd489c5026"
     },
     {
+      "name": "thegrio-2022-08-04T00:38:38.143384-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659587921",
+      "size": "17847",
+      "md5": "41b11c317ecaf89936c09e2b24e5430e",
+      "crc32": "6dc693f0",
+      "sha1": "2f3a959e7a3b9905b4dddff5f3ee519a733ef72f",
+      "format": "JSON"
+    },
+    {
+      "name": "thegrio-2022-08-04T00:38:38.143384-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659587923",
+      "size": "21150",
+      "md5": "cc773c5deb05b3f1c7916a7f847394e6",
+      "crc32": "0ef4cfb3",
+      "sha1": "e254e5c3a8d8fd97b57f8ba0f8c9974e275d3568",
+      "format": "JSON"
+    },
+    {
+      "name": "thegrio-2022-08-04T00:38:38.143384-04:00.jpg",
+      "source": "original",
+      "mtime": "1659587919",
+      "size": "216464",
+      "md5": "1d5362c14ad97b9081132e5e58d88746",
+      "crc32": "a69fe18b",
+      "sha1": "171a46f7d929549f8a8a3272e3aaeddec6e6c122",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thegrio-2022-08-04T00:38:38.143384-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659587925",
+      "size": "1432",
+      "md5": "a4410556da3d9f77d3abd26fd0a0b461",
+      "crc32": "c037c6c3",
+      "sha1": "6f5a9f5f121df59cd74bec5b760e51704bd67735",
+      "format": "JSON"
+    },
+    {
+      "name": "thegrio-2022-08-04T00:38:38.143384-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thegrio-2022-08-04T00:38:38.143384-04:00.jpg",
+      "mtime": "1659588169",
+      "size": "9574",
+      "md5": "2981a20d0781d34c40d2fa2e325cc2bb",
+      "crc32": "9568229c",
+      "sha1": "e2a5b77f98b31088be9b1c000ff9409d4d528ef9"
+    },
+    {
       "name": "thegrio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5afffa38d4c8009e95dfef7dbf0bb77822d8a5a5",
-      "mtime": "1659547949",
-      "size": "3702",
-      "md5": "e9369dd442ea3995cbc932a752b75846",
-      "crc32": "23de7045",
-      "sha1": "41c404100bbc43fa678a76a3542b0688dd839b30",
+      "btih": "4fb72325604f6215433796957ae111a061e96686",
+      "mtime": "1659588182",
+      "size": "4736",
+      "md5": "c478094499c188fa7eebfc61ff0984e4",
+      "crc32": "2e8d03b7",
+      "sha1": "4706489a478727835dc83fe3faf5062ec4080270",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thegrio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f4f91f152be79ebe0b034d5c5bec7c4b",
+      "md5": "8cd96b95784ec57f56e7b61504169e88",
       "summation": "md5"
     },
     {
       "name": "thegrio-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659546838",
-      "size": "32768",
-      "md5": "121bd6b3eee5652aa66a69c48dc8b0d3",
-      "crc32": "df92eed6",
-      "sha1": "7376f60daae801f48dd44c1310533be324226daa",
+      "mtime": "1659587928",
+      "size": "36864",
+      "md5": "f129daab81533be8f55750e8a4da2bad",
+      "crc32": "0a5a2b00",
+      "sha1": "01700538dba8136947a94d92bf1ff33afd3a8e27",
       "format": "Metadata"
     },
     {
@@ -158,9 +210,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 15,
-  "item_last_updated": 1659547949,
-  "item_size": 605718,
+  "files_count": 20,
+  "item_last_updated": 1659588182,
+  "item_size": 877315,
   "metadata": {
     "identifier": "thegrio-2022",
     "collection": [
@@ -177,16 +229,16 @@
     "publicdate": "2022-08-03 04:46:19",
     "addeddate": "2022-08-03 04:46:19"
   },
-  "server": "ia902504.us.archive.org",
+  "server": "ia802504.us.archive.org",
   "thegrio-2022": [
     {
       "url": "https://thegrio.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thegrio_com-_-2022_08_03_16_24_11.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thegrio_com-_-2022_08_03_16_24_11.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thegrio_com-_-2022_08_04_04_14_56.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thegrio_com-_-2022_08_04_04_14_56.report.json",
       "summary": {
-        "performance": 0.53,
-        "accessibility": 0.98,
+        "performance": 0.36,
+        "accessibility": 0.97,
         "best-practices": 0.92,
         "seo": 0.83,
         "pwa": 0.3
@@ -195,11 +247,11 @@
     {
       "url": "https://thegrio.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thegrio_com-_-2022_08_03_16_24_43.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thegrio_com-_-2022_08_03_16_24_43.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thegrio_com-_-2022_08_04_04_15_28.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thegrio_com-_-2022_08_04_04_15_28.report.json",
       "summary": {
-        "performance": 0.54,
-        "accessibility": 0.98,
+        "performance": 0.56,
+        "accessibility": 0.97,
         "best-practices": 0.92,
         "seo": 0.83,
         "pwa": 0.3
@@ -208,20 +260,20 @@
     {
       "url": "https://thegrio.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thegrio_com-_-2022_08_03_16_24_27.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thegrio_com-_-2022_08_03_16_24_27.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thegrio_com-_-2022_08_04_04_15_12.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thegrio_com-_-2022_08_04_04_15_12.report.json",
       "summary": {
-        "performance": 0.51,
-        "accessibility": 0.98,
+        "performance": 0.42,
+        "accessibility": 0.97,
         "best-practices": 0.92,
         "seo": 0.83,
         "pwa": 0.3
       }
     }
   ],
-  "uniq": 104737309,
+  "uniq": 494322924,
   "workable_servers": [
-    "ia902504.us.archive.org",
-    "ia802504.us.archive.org"
+    "ia802504.us.archive.org",
+    "ia902504.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1659569363,
+  "created": 1659611673,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/15/items/dagsavisen-2022",
@@ -1548,31 +1548,72 @@
       "sha1": "08b03cd51ed755eb20758a05186a9e13bfacfbee"
     },
     {
+      "name": "dagsavisen-2022-08-04T13:13:39.024865+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659611623",
+      "size": "13872",
+      "md5": "99678a754b317a3426b34d7eba6b24c1",
+      "crc32": "faa60715",
+      "sha1": "eab128a5a6ee9ff5e456fa409cd98edbedeeff4f",
+      "format": "JSON"
+    },
+    {
+      "name": "dagsavisen-2022-08-04T13:13:39.024865+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659611625",
+      "size": "12764",
+      "md5": "c6ef39881bda5b88cae223f86dad78b6",
+      "crc32": "e53f9c8d",
+      "sha1": "f033c5263ea767ce8e7902cb02851131db333c53",
+      "format": "JSON"
+    },
+    {
+      "name": "dagsavisen-2022-08-04T13:13:39.024865+02:00.jpg",
+      "source": "original",
+      "mtime": "1659611621",
+      "size": "248009",
+      "md5": "eb5448dd9cdff1e4d135989070f537c9",
+      "crc32": "cbed8f8b",
+      "sha1": "06b378f10800f0f506e41b472a1c9da62c70280c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dagsavisen-2022-08-04T13:13:39.024865+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659611626",
+      "size": "1486",
+      "md5": "4cbc4e03894ade8856d4bec6c0701664",
+      "crc32": "b88f955a",
+      "sha1": "3f9946eb77eb7ef45058097eb9387d2543e663d0",
+      "format": "JSON"
+    },
+    {
       "name": "dagsavisen-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1e27d07c214da5d06770c37c32aa6370a507ad55",
-      "mtime": "1659569284",
-      "size": "32803",
-      "md5": "fdf91fe11593476cd96458ae234ab71e",
-      "crc32": "6b344d98",
-      "sha1": "f20c6b1cf5c0c9880f4df6ab6cc2ab908b237014",
+      "btih": "57d18ed88d51a6cd12dfac112caee86ed3a022ae",
+      "mtime": "1659611671",
+      "size": "33666",
+      "md5": "5be27fac249c18a351a7b8c4434eb826",
+      "crc32": "6a690e12",
+      "sha1": "a41ea08d8157fa6f09826052089f9cbb32c604da",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dagsavisen-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "10f6d25d1326cbae5f85f1cbbae36a77",
+      "md5": "4bbdbf38fb156cfd3593c7ef07934faa",
       "summation": "md5"
     },
     {
       "name": "dagsavisen-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659568946",
-      "size": "200704",
-      "md5": "ed3f93a3065804e29ce395bfe407213f",
-      "crc32": "c6a08dd1",
-      "sha1": "9155797b99f334929ba4925ce9517bd98c734e31",
+      "mtime": "1659611635",
+      "size": "204800",
+      "md5": "b7cace3bb99cbd8ddef2b5bd25df3ba0",
+      "crc32": "3329d706",
+      "sha1": "645d45b19c7cb59ed5957ce7b45c9f4c8462a0ec",
       "format": "Metadata"
     },
     {
@@ -1586,9 +1627,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 152,
-  "item_last_updated": 1659569284,
-  "item_size": 8727250,
+  "files_count": 156,
+  "item_last_updated": 1659611671,
+  "item_size": 9008340,
   "metadata": {
     "identifier": "dagsavisen-2022",
     "collection": [
@@ -1605,10 +1646,21 @@
     "publicdate": "2022-07-20 11:37:20",
     "addeddate": "2022-07-20 11:37:20"
   },
+  "pending_tasks": true,
   "server": "ia902506.us.archive.org",
-  "uniq": 1213388923,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3352499294,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 846693732,
   "workable_servers": [
-    "ia902506.us.archive.org",
-    "ia802506.us.archive.org"
+    "ia902506.us.archive.org"
   ]
 }

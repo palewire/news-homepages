@@ -1,5 +1,5 @@
 {
-  "created": 1659573830,
+  "created": 1659615652,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/26/items/naya_patrika-2022",
@@ -1149,21 +1149,32 @@
       "format": "JSON"
     },
     {
+      "name": "naya_patrika-2022-08-04T06:28:02.637643+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "naya_patrika-2022-08-04T06:28:02.637643+05:45.jpg",
+      "mtime": "1659574081",
+      "size": "9926",
+      "md5": "5d41618532566ab8b5d09e8a0ff3b104",
+      "crc32": "1db27c8f",
+      "sha1": "addb59e8bf2c689859bfebbd7e03625af2605a27"
+    },
+    {
       "name": "naya_patrika-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4a166b78e63213959b896c3f82464c07fb92ba8e",
-      "mtime": "1659573828",
-      "size": "25076",
-      "md5": "b7e4c2f5a4a13e86bf27401802d25ed1",
-      "crc32": "b70a79d9",
-      "sha1": "f2bf67f76f17a9f59688bdbd570f5335bd255a06",
+      "btih": "3fca5dce0a552d2a0deb03132d93792b90b88e16",
+      "mtime": "1659574084",
+      "size": "25284",
+      "md5": "7275966b6d2e26c79e4d607947d101dd",
+      "crc32": "41992a41",
+      "sha1": "52c29c771a436ec063607010b5ef3d80b2ed1f42",
       "format": "Archive BitTorrent"
     },
     {
       "name": "naya_patrika-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "51b1c1bb341fe56ac19b55c722b42926",
+      "md5": "7fd25ca2c9d836567e504e9bdf1207a0",
       "summation": "md5"
     },
     {
@@ -1187,9 +1198,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 114,
-  "item_last_updated": 1659573828,
-  "item_size": 8462923,
+  "files_count": 115,
+  "item_last_updated": 1659574084,
+  "item_size": 8473057,
   "metadata": {
     "identifier": "naya_patrika-2022",
     "collection": [
@@ -1206,21 +1217,10 @@
     "publicdate": "2022-07-24 20:38:21",
     "addeddate": "2022-07-24 20:38:21"
   },
-  "pending_tasks": true,
-  "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3352007949,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1207717363,
+  "server": "ia801501.us.archive.org",
+  "uniq": 1939152705,
   "workable_servers": [
+    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

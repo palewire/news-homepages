@@ -1,5 +1,5 @@
 {
-  "created": 1659548135,
+  "created": 1659602643,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/21/items/wave3news-2022",
@@ -328,31 +328,83 @@
       "sha1": "42aac32bfe5676deadf9a7825367d0c2611e8317"
     },
     {
+      "name": "wave3news-2022-08-04T00:41:24.462466-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659588087",
+      "size": "34657",
+      "md5": "74dfd632bbdc740e0600a0cc71f01d15",
+      "crc32": "a8c6d6d2",
+      "sha1": "a3c355cbc29a0460049658169aa558b23ae32b2a",
+      "format": "JSON"
+    },
+    {
+      "name": "wave3news-2022-08-04T00:41:24.462466-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659588089",
+      "size": "24253",
+      "md5": "102dc8a492cef940abbb5f5dab42a3ea",
+      "crc32": "c8f84317",
+      "sha1": "319efac41d33559db836af906e5ffbf191a9e725",
+      "format": "JSON"
+    },
+    {
+      "name": "wave3news-2022-08-04T00:41:24.462466-04:00.jpg",
+      "source": "original",
+      "mtime": "1659588086",
+      "size": "375460",
+      "md5": "50b8532c7b22fd125e6207003dcb8c37",
+      "crc32": "27b9e571",
+      "sha1": "e546a7702458dafe71b72d27b88b832e64d14580",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wave3news-2022-08-04T00:41:24.462466-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659588090",
+      "size": "1450",
+      "md5": "207ebd54c66da92fe6f40b53bea4e3d9",
+      "crc32": "e0f9395b",
+      "sha1": "ae366f4988b2df66c6e299296d1a5556e0cc4081",
+      "format": "JSON"
+    },
+    {
+      "name": "wave3news-2022-08-04T00:41:24.462466-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wave3news-2022-08-04T00:41:24.462466-04:00.jpg",
+      "mtime": "1659588377",
+      "size": "11258",
+      "md5": "018bdb8e4e93b011670ae1fb2ab7d547",
+      "crc32": "2555fc6d",
+      "sha1": "10c1154231c21421e87ebcb21d3fc23c758e72de"
+    },
+    {
       "name": "wave3news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e89a0b985a97bc88a1d986082331b007b26b3762",
-      "mtime": "1659548091",
-      "size": "7986",
-      "md5": "3cc89a0012496caa257301136d9f636d",
-      "crc32": "568a8534",
-      "sha1": "9c3efd9e0abef9d665df083e4ce62209b3a7652d",
+      "btih": "54bceb8489efeb980afe4151d52a249afc2e8775",
+      "mtime": "1659588383",
+      "size": "9051",
+      "md5": "75d755eb5f61cf4751de54eb90f8228f",
+      "crc32": "fa889a48",
+      "sha1": "23f220535e9bde398508e83f067b54fff5a7c8b0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wave3news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d53be43419ac7f0d1d99d5931629614c",
+      "md5": "86f80d07498a353f24fd72e7ec008fc5",
       "summation": "md5"
     },
     {
       "name": "wave3news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659547017",
-      "size": "53248",
-      "md5": "c1509249d9e2dcd7a543e95180505d1a",
-      "crc32": "a94dd850",
-      "sha1": "4e7c87f8023c460b884adb8ebe102b98799a155f",
+      "mtime": "1659588092",
+      "size": "61440",
+      "md5": "7991bfd29757df71027023d77601d5f1",
+      "crc32": "88be2a51",
+      "sha1": "ec14c63d913821005d6fef2997da76a0f3538baa",
       "format": "Metadata"
     },
     {
@@ -366,9 +418,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 35,
-  "item_last_updated": 1659548091,
-  "item_size": 2603870,
+  "files_count": 40,
+  "item_last_updated": 1659588383,
+  "item_size": 3060205,
   "metadata": {
     "identifier": "wave3news-2022",
     "collection": [
@@ -385,10 +437,10 @@
     "publicdate": "2022-08-01 06:42:13",
     "addeddate": "2022-08-01 06:42:13"
   },
-  "server": "ia802503.us.archive.org",
-  "uniq": 1127095736,
+  "server": "ia902503.us.archive.org",
+  "uniq": 2092997910,
   "workable_servers": [
-    "ia802503.us.archive.org",
-    "ia902503.us.archive.org"
+    "ia902503.us.archive.org",
+    "ia802503.us.archive.org"
   ]
 }

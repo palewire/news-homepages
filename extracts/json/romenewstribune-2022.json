@@ -1,5 +1,5 @@
 {
-  "created": 1659574049,
+  "created": 1659587922,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/11/items/romenewstribune-2022",
@@ -1444,31 +1444,83 @@
       "sha1": "360a83d3a1d8b1404a6719cf37dea34b3e2ce31f"
     },
     {
+      "name": "romenewstribune-2022-08-04T00:34:52.034722-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659587696",
+      "size": "39058",
+      "md5": "4a0efa19472f984a4a6cfbdb90ae972f",
+      "crc32": "3ae3c293",
+      "sha1": "8395074cc7f0e38ab6ff692dd11b2a1274cca93a",
+      "format": "JSON"
+    },
+    {
+      "name": "romenewstribune-2022-08-04T00:34:52.034722-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659587698",
+      "size": "49760",
+      "md5": "6b6738ec36c05af5bebdaac18ff538e1",
+      "crc32": "3a3f2565",
+      "sha1": "1b6f659e369a52d98fc66c9990483ab9af0acea8",
+      "format": "JSON"
+    },
+    {
+      "name": "romenewstribune-2022-08-04T00:34:52.034722-04:00.jpg",
+      "source": "original",
+      "mtime": "1659587694",
+      "size": "311544",
+      "md5": "ff4354f951cc0e364c7bf0412905d5ae",
+      "crc32": "3f7a91d1",
+      "sha1": "98c8462a1accfc8830062c68dc50259f1b980ee9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "romenewstribune-2022-08-04T00:34:52.034722-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659587699",
+      "size": "1630",
+      "md5": "02495f55b707edb138d4fff358ceeeb2",
+      "crc32": "ab7c2d5a",
+      "sha1": "7296cec0abe9a61edfc4cd1305363e2842b0c251",
+      "format": "JSON"
+    },
+    {
+      "name": "romenewstribune-2022-08-04T00:34:52.034722-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "romenewstribune-2022-08-04T00:34:52.034722-04:00.jpg",
+      "mtime": "1659587907",
+      "size": "9205",
+      "md5": "3f6991cde1b385236eaeaec1ea4a97bd",
+      "crc32": "61c7a67d",
+      "sha1": "c7590bad1472d2c193344ded2697c17c777049e6"
+    },
+    {
       "name": "romenewstribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2c6682808356a01d309d9f9f619cfcdd055017a2",
-      "mtime": "1659547744",
-      "size": "31587",
-      "md5": "c0c16a3f8dc7e2dca1ff4eb6763e68d5",
-      "crc32": "6583e00b",
-      "sha1": "28a2a2957b296f963c9bf3b8e8025b61d2ed9f8d",
+      "btih": "7ea81682856bf7294f2c752981a23ede3870dca5",
+      "mtime": "1659587914",
+      "size": "32661",
+      "md5": "a46f86791eacd153ec5936d114335d31",
+      "crc32": "7aaeb284",
+      "sha1": "9dbfa6ba00d0e868869037f3b17a8dff3598a577",
       "format": "Archive BitTorrent"
     },
     {
       "name": "romenewstribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "726f85701bb385cfcf226460dd1e6145",
+      "md5": "54a0504e920e08f6049840518f6455bf",
       "summation": "md5"
     },
     {
       "name": "romenewstribune-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659546571",
-      "size": "188416",
-      "md5": "3316e90ddd281f55a2ad6a4dbacdf7e6",
-      "crc32": "7fb782e3",
-      "sha1": "317979ba2505e87ccda02b4945937e1c8b46336d",
+      "mtime": "1659587702",
+      "size": "196608",
+      "md5": "867c42b0bd2568c317be97463ca92e9f",
+      "crc32": "c2431e5d",
+      "sha1": "ee0930e968c1d145e35b8364352757533940cce3",
       "format": "Metadata"
     },
     {
@@ -1482,9 +1534,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 142,
-  "item_last_updated": 1659547744,
-  "item_size": 12684014,
+  "files_count": 147,
+  "item_last_updated": 1659587914,
+  "item_size": 13104477,
   "metadata": {
     "identifier": "romenewstribune-2022",
     "collection": [
@@ -1501,49 +1553,8 @@
     "publicdate": "2022-07-20 23:31:09",
     "addeddate": "2022-07-20 23:31:09"
   },
-  "romenewstribune-2022": [
-    {
-      "url": "https://www.northwestgeorgianews.com/rome/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_northwestgeorgianews_com-_rome_-2022_08_03_16_18_11.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_northwestgeorgianews_com-_rome_-2022_08_03_16_18_11.report.json",
-      "summary": {
-        "performance": 0.09,
-        "accessibility": 0.85,
-        "best-practices": 0.92,
-        "seo": 0.92,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://www.northwestgeorgianews.com/rome/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_northwestgeorgianews_com-_rome_-2022_08_03_16_18_55.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_northwestgeorgianews_com-_rome_-2022_08_03_16_18_55.report.json",
-      "summary": {
-        "performance": 0.26,
-        "accessibility": 0.85,
-        "best-practices": 0.75,
-        "seo": 0.92,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://www.northwestgeorgianews.com/rome/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_northwestgeorgianews_com-_rome_-2022_08_03_16_18_29.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_northwestgeorgianews_com-_rome_-2022_08_03_16_18_29.report.json",
-      "summary": {
-        "performance": 0.24,
-        "accessibility": 0.85,
-        "best-practices": 0.92,
-        "seo": 0.92,
-        "pwa": 0.3
-      }
-    }
-  ],
   "server": "ia801403.us.archive.org",
-  "uniq": 221246715,
+  "uniq": 1266568933,
   "workable_servers": [
     "ia801403.us.archive.org",
     "ia601403.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1659572150,
+  "created": 1659616014,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/15/items/gawker-2022",
@@ -2798,31 +2798,83 @@
       "sha1": "255bf65f53436087bdd83de154de307701421663"
     },
     {
+      "name": "gawker-2022-08-03T23:20:31.403305-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659583235",
+      "size": "9323",
+      "md5": "b03b6bc1a2ebcb9d895c34b541ddd3cb",
+      "crc32": "3de0c54b",
+      "sha1": "e4cd15ded1910b05efdf646c5fcd563e0fa4fe7c",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-08-03T23:20:31.403305-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659583236",
+      "size": "10831",
+      "md5": "17b4fdc8c6905d87176133b57c06a288",
+      "crc32": "5ebea4d9",
+      "sha1": "f82cb130fdbe1e2728bda05d9be80da80cba7948",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-08-03T23:20:31.403305-04:00.jpg",
+      "source": "original",
+      "mtime": "1659583233",
+      "size": "272186",
+      "md5": "db6e2c442bb46a25697254d929cd6764",
+      "crc32": "10328107",
+      "sha1": "6a7737bc3591c3e8e54697052e71b0537bbf13a1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gawker-2022-08-03T23:20:31.403305-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659583238",
+      "size": "1441",
+      "md5": "e987a88bad497728535e744eed0f1456",
+      "crc32": "d50111cb",
+      "sha1": "de66b1fcfabc6f721c83a143232495dd80357e88",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-08-03T23:20:31.403305-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gawker-2022-08-03T23:20:31.403305-04:00.jpg",
+      "mtime": "1659583436",
+      "size": "10929",
+      "md5": "6caeaef16884463c6dc98cf433b6f26d",
+      "crc32": "d00ad1f7",
+      "sha1": "f72f44cb297b9217326af70066cff08fb10d6f46"
+    },
+    {
       "name": "gawker-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2338ce582b1671357923bfcc2c795dc703b4d805",
-      "mtime": "1659546841",
-      "size": "57007",
-      "md5": "ede8498a299f4a2cbcfc4b1b44fd13f5",
-      "crc32": "651e085d",
-      "sha1": "e38b1044aef3f9f0873565484aefcb01559cec36",
+      "btih": "42ef6728ebed6b4aaa50c5934fd3e5151a3f704f",
+      "mtime": "1659583457",
+      "size": "58056",
+      "md5": "f20699eef24a1e2063cf989007695e0f",
+      "crc32": "19470c88",
+      "sha1": "ec188eef7fe5bfdef7f0eb72b552ed265df3ca7a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gawker-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4d41f99bf30138bb4055c985165217c8",
+      "md5": "8bcb065a0a0836043cd5d58fec432b48",
       "summation": "md5"
     },
     {
       "name": "gawker-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659545822",
-      "size": "331776",
-      "md5": "1318d75a54b4722b4856ebe2c9dcf0c8",
-      "crc32": "fb17b4d4",
-      "sha1": "574b4e451f651c8f6ee292c3bcac7fabd23c93e3",
+      "mtime": "1659583244",
+      "size": "339968",
+      "md5": "40fd8ab50c7329a4131c49fb8624dda9",
+      "crc32": "35e82c2e",
+      "sha1": "581ddccfbba6c56d51cd045f64cfd66772620616",
       "format": "Metadata"
     },
     {
@@ -2836,9 +2888,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 271,
-  "item_last_updated": 1659546841,
-  "item_size": 19708940,
+  "files_count": 276,
+  "gawker-2022": [
+    {
+      "url": "https://www.gawker.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gawker_com-_-2022_08_04_02_41_43.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gawker_com-_-2022_08_04_02_41_43.report.json",
+      "summary": {
+        "performance": 0.64,
+        "accessibility": 0.97,
+        "best-practices": 1,
+        "seo": 1,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.gawker.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gawker_com-_-2022_08_04_02_42_09.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gawker_com-_-2022_08_04_02_42_09.report.json",
+      "summary": {
+        "performance": 0.61,
+        "accessibility": 0.97,
+        "best-practices": 1,
+        "seo": 1,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.gawker.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gawker_com-_-2022_08_04_02_41_56.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_gawker_com-_-2022_08_04_02_41_56.report.json",
+      "summary": {
+        "performance": 0.62,
+        "accessibility": 0.97,
+        "best-practices": 1,
+        "seo": 1,
+        "pwa": 0.4
+      }
+    }
+  ],
+  "item_last_updated": 1659583457,
+  "item_size": 20022891,
   "metadata": {
     "identifier": "gawker-2022",
     "collection": [
@@ -2855,10 +2948,10 @@
     "publicdate": "2022-07-04 21:53:36",
     "addeddate": "2022-07-04 21:53:36"
   },
-  "server": "ia902508.us.archive.org",
-  "uniq": 1337199263,
+  "server": "ia802508.us.archive.org",
+  "uniq": 368248561,
   "workable_servers": [
-    "ia902508.us.archive.org",
-    "ia802508.us.archive.org"
+    "ia802508.us.archive.org",
+    "ia902508.us.archive.org"
   ]
 }

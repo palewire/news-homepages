@@ -1,5 +1,5 @@
 {
-  "created": 1659574305,
+  "created": 1659616996,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/16/items/vicenews-2022",
@@ -5180,31 +5180,83 @@
       "sha1": "43ca2b63f11faa2ccfd4ed236e30f44e19ae38d3"
     },
     {
+      "name": "vicenews-2022-08-03T23:13:50.530750-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659582833",
+      "size": "12057",
+      "md5": "5dd03e41971bd2b07d06ba5f00bd1804",
+      "crc32": "35cce8a9",
+      "sha1": "db46f7b40c47daa953093de3ce09e7fef88c9d5b",
+      "format": "JSON"
+    },
+    {
+      "name": "vicenews-2022-08-03T23:13:50.530750-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659582835",
+      "size": "10692",
+      "md5": "fa71c19d466f2238b8675258fc429ab2",
+      "crc32": "f37efde1",
+      "sha1": "2d714cf094259bc183bc10091eceb1c3ed0240dd",
+      "format": "JSON"
+    },
+    {
+      "name": "vicenews-2022-08-03T23:13:50.530750-04:00.jpg",
+      "source": "original",
+      "mtime": "1659582832",
+      "size": "210427",
+      "md5": "4ccf4e750bf70661625f9e69083d11c0",
+      "crc32": "6126d10d",
+      "sha1": "11e0d60b909e679e3593cfb401b2fe30d35cac98",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vicenews-2022-08-03T23:13:50.530750-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659582836",
+      "size": "1576",
+      "md5": "d8173f14704e208754ac7588b8eff79d",
+      "crc32": "b773378f",
+      "sha1": "46fb072c434be2df7fd7fcdca6cb3b76915319a4",
+      "format": "JSON"
+    },
+    {
+      "name": "vicenews-2022-08-03T23:13:50.530750-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vicenews-2022-08-03T23:13:50.530750-04:00.jpg",
+      "mtime": "1659583349",
+      "size": "9478",
+      "md5": "1ab411b929293d53954f78ef7b93d293",
+      "crc32": "3ccf0f81",
+      "sha1": "eba11737bb3ded1ee3be2b7db4f79f32004aab05"
+    },
+    {
       "name": "vicenews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8aa9c67449223db78f111a002dbfcf2f11b6cf79",
-      "mtime": "1659540354",
-      "size": "104813",
-      "md5": "53181c4ef2517b21a03f795f44e122cf",
-      "crc32": "b585344c",
-      "sha1": "56da8b69e114c857a4723d079f5d3f603aa82b57",
+      "btih": "ff897cdc8d3db1cec51fa9624c0a6c8d9565bee2",
+      "mtime": "1659583355",
+      "size": "105852",
+      "md5": "32198f92b8683529622b890a8abd6d4b",
+      "crc32": "a19f0d2b",
+      "sha1": "e2fd14c3c71a3df63557c970e67512ee3f5bb9cf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "vicenews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "071731ea7c9562424c18e8d6d331dd7e",
+      "md5": "de0951b63f2ad371f7a484422aa66c71",
       "summation": "md5"
     },
     {
       "name": "vicenews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659537228",
-      "size": "598016",
-      "md5": "92eab7e2a570e93b49b393ec915ab1fc",
-      "crc32": "39a69540",
-      "sha1": "25f41634b983f5580ee1b322192cad62ec60ac52",
+      "mtime": "1659582840",
+      "size": "602112",
+      "md5": "622952773d34fe2f4d763803431ee458",
+      "crc32": "7bdf583d",
+      "sha1": "0a7a4d2cd0b5cced1b4ac2f1243a7760bca82039",
       "format": "Metadata"
     },
     {
@@ -5218,9 +5270,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 498,
-  "item_last_updated": 1659540354,
-  "item_size": 27546571,
+  "files_count": 503,
+  "item_last_updated": 1659583355,
+  "item_size": 27795936,
   "metadata": {
     "identifier": "vicenews-2022",
     "collection": [
@@ -5238,15 +5290,15 @@
     "addeddate": "2022-06-19 23:29:15"
   },
   "server": "ia601501.us.archive.org",
-  "uniq": 1243653599,
+  "uniq": 1661175955,
   "vicenews-2022": [
     {
       "url": "https://www.vice.com/en/section/news",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vice_com-_en_section_news-2022_08_03_14_13_38.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vice_com-_en_section_news-2022_08_03_14_13_38.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vice_com-_en_section_news-2022_08_04_01_51_59.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vice_com-_en_section_news-2022_08_04_01_51_59.report.json",
       "summary": {
-        "performance": 0.3,
+        "performance": 0.36,
         "accessibility": 0.89,
         "best-practices": 0.83,
         "seo": 0.99,
@@ -5256,10 +5308,10 @@
     {
       "url": "https://www.vice.com/en/section/news",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vice_com-_en_section_news-2022_08_03_14_14_20.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vice_com-_en_section_news-2022_08_03_14_14_20.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vice_com-_en_section_news-2022_08_04_01_52_39.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vice_com-_en_section_news-2022_08_04_01_52_39.report.json",
       "summary": {
-        "performance": 0.33,
+        "performance": 0.35,
         "accessibility": 0.89,
         "best-practices": 0.83,
         "seo": 0.99,
@@ -5269,10 +5321,10 @@
     {
       "url": "https://www.vice.com/en/section/news",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vice_com-_en_section_news-2022_08_03_14_13_59.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vice_com-_en_section_news-2022_08_03_14_13_59.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vice_com-_en_section_news-2022_08_04_01_52_20.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vice_com-_en_section_news-2022_08_04_01_52_20.report.json",
       "summary": {
-        "performance": 0.34,
+        "performance": 0.36,
         "accessibility": 0.89,
         "best-practices": 0.83,
         "seo": 0.99,

@@ -1,8 +1,8 @@
 {
-  "created": 1659568958,
-  "d1": "ia902501.us.archive.org",
-  "d2": "ia802501.us.archive.org",
-  "dir": "/28/items/bonginoreport-2022",
+  "created": 1659615165,
+  "d1": "ia902503.us.archive.org",
+  "d2": "ia802503.us.archive.org",
+  "dir": "/10/items/bonginoreport-2022",
   "files": [
     {
       "name": "BonginoReport-2022-03-25T14:46:09.123763-04:00.jpg",
@@ -10250,31 +10250,72 @@
       "sha1": "8385c57fa550ee704a85b31a73958a1435f54a9f"
     },
     {
+      "name": "bonginoreport-2022-08-04T07:11:08.582466-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659611476",
+      "size": "17559",
+      "md5": "ba35bed3d73019e922dd0b971fc5a397",
+      "crc32": "300193c1",
+      "sha1": "079ee360d4726da6c03110c34fda669e58a84950",
+      "format": "JSON"
+    },
+    {
+      "name": "bonginoreport-2022-08-04T07:11:08.582466-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659611480",
+      "size": "19051",
+      "md5": "a43f906c2f4064d1d30d306c16d3abff",
+      "crc32": "dc76ed57",
+      "sha1": "047c6bbced30966c36402c90bb95e04a75d0645e",
+      "format": "JSON"
+    },
+    {
+      "name": "bonginoreport-2022-08-04T07:11:08.582466-04:00.jpg",
+      "source": "original",
+      "mtime": "1659611475",
+      "size": "270093",
+      "md5": "7ad367af73a68d8a717a83f57b7aa4e7",
+      "crc32": "3e5773a7",
+      "sha1": "6f4f773e2e4eaa1d0d4602d624402c0b347a831b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bonginoreport-2022-08-04T07:11:08.582466-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659611485",
+      "size": "1486",
+      "md5": "f96bf572145d0c2b7f76ae12f9f9f3d6",
+      "crc32": "d0bfb11e",
+      "sha1": "7f7497b8a3bc834967bbc02bb23cb0883bbd33ad",
+      "format": "JSON"
+    },
+    {
       "name": "bonginoreport-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c41870749b2a14c22cbb5b57de4929e9242d486b",
-      "mtime": "1659568947",
-      "size": "211709",
-      "md5": "0f4cc6b93921cdf5fc1eb4dc6dde3740",
-      "crc32": "5b1493e6",
-      "sha1": "2c33fa8d716f498401da756432a4472dd8317a6a",
+      "btih": "83262e1d36bfd5da3c6f027aae3e57e359812b94",
+      "mtime": "1659611703",
+      "size": "212584",
+      "md5": "72ebd91e8729b3e216748bc98230a381",
+      "crc32": "b5a4e076",
+      "sha1": "fac2940edd862e868e4d620442409a84de6cedb6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bonginoreport-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "aa7b04613678b4631e5dedd572af284e",
+      "md5": "bc31adf5d492fe2e70c3447915edfd00",
       "summation": "md5"
     },
     {
       "name": "bonginoreport-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659568840",
-      "size": "1150976",
-      "md5": "18b250a893c8181fd1e56436edaa862a",
-      "crc32": "273a88fe",
-      "sha1": "61e201fbc28a39bd43bfe3182583be269c343dcb",
+      "mtime": "1659611661",
+      "size": "1155072",
+      "md5": "a814f4e8db3aacedc1f75555cafeb693",
+      "crc32": "a0554675",
+      "sha1": "2cb54ff7e102246f69eece7b5fe4a5d9c28ab76a",
       "format": "Metadata"
     },
     {
@@ -10288,9 +10329,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 981,
-  "item_last_updated": 1659568947,
-  "item_size": 74491831,
+  "files_count": 985,
+  "item_last_updated": 1659611703,
+  "item_size": 74804991,
   "metadata": {
     "identifier": "bonginoreport-2022",
     "collection": [
@@ -10307,10 +10348,21 @@
     "publicdate": "2022-03-25 18:46:29",
     "addeddate": "2022-03-25 18:46:29"
   },
-  "server": "ia902501.us.archive.org",
-  "uniq": 1871695304,
+  "pending_tasks": true,
+  "server": "ia902503.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3352499576,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1422573548,
   "workable_servers": [
-    "ia902501.us.archive.org",
-    "ia802501.us.archive.org"
+    "ia902503.us.archive.org"
   ]
 }

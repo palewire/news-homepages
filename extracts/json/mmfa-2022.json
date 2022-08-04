@@ -1,5 +1,5 @@
 {
-  "created": 1659573900,
+  "created": 1659616291,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/16/items/mmfa-2022",
@@ -2498,31 +2498,83 @@
       "sha1": "47fde6e3abb0e19ba04139abb28514d1ef19af5d"
     },
     {
+      "name": "mmfa-2022-08-03T23:28:07.916009-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659583691",
+      "size": "20183",
+      "md5": "edb64b8014d896a1eec9ddd9074b6f1d",
+      "crc32": "7b2cc424",
+      "sha1": "73db36a74fa85626a35fcf0583f5c06815f720ac",
+      "format": "JSON"
+    },
+    {
+      "name": "mmfa-2022-08-03T23:28:07.916009-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659583692",
+      "size": "24382",
+      "md5": "75fda761082ee9472325dc031aef444a",
+      "crc32": "b1b78cb6",
+      "sha1": "b63277b538c59a1a4d61ddad8b27a53d44b76220",
+      "format": "JSON"
+    },
+    {
+      "name": "mmfa-2022-08-03T23:28:07.916009-04:00.jpg",
+      "source": "original",
+      "mtime": "1659583689",
+      "size": "272128",
+      "md5": "bf1b417ce037a64a6806370915954f53",
+      "crc32": "9af7173f",
+      "sha1": "90c4d7fdfbfa2255664d85b94668ccd598df7e39",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mmfa-2022-08-03T23:28:07.916009-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659583694",
+      "size": "1513",
+      "md5": "75b92ed31dfc4cede0de670a5ee06641",
+      "crc32": "fad36263",
+      "sha1": "562654e8367003bf6e132eab7fd684009211d22d",
+      "format": "JSON"
+    },
+    {
+      "name": "mmfa-2022-08-03T23:28:07.916009-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mmfa-2022-08-03T23:28:07.916009-04:00.jpg",
+      "mtime": "1659583913",
+      "size": "10187",
+      "md5": "20d2192b4ba0edb5419f1b45dda9d4ec",
+      "crc32": "8c91d43f",
+      "sha1": "a83109445a324f0d4530ac31e1fb9077ece99877"
+    },
+    {
       "name": "mmfa-2022_archive.torrent",
       "source": "metadata",
-      "btih": "464f2690246f5210332364a0b92a5bf597db0742",
-      "mtime": "1659552845",
-      "size": "50719",
-      "md5": "f212f18779fea89b7c5665a274bdad14",
-      "crc32": "c3856f84",
-      "sha1": "615068cf7bb51a5576a9d44ac96ae428ccc24d53",
+      "btih": "afb3d206eb657c8e0068216b1a237df8ff29596d",
+      "mtime": "1659583963",
+      "size": "51739",
+      "md5": "dfd1237a88130bd35ecc8707ff568d55",
+      "crc32": "681b167e",
+      "sha1": "75f2c9d4fcf39a2c42a79783f5bb9e9a63da7739",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mmfa-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fb3eb518bce8932eafe6cdbfcfa87e43",
+      "md5": "187cc33f96350bdb531d49e7ad6900c4",
       "summation": "md5"
     },
     {
       "name": "mmfa-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659552113",
-      "size": "307200",
-      "md5": "bd34685f6ee6b7111f07896ad6af2b52",
-      "crc32": "261373e6",
-      "sha1": "4bb970c48646817de7b1b0ed10c80432fee544a0",
+      "mtime": "1659583697",
+      "size": "311296",
+      "md5": "56fc52db8ef7a72d32323012c4880f17",
+      "crc32": "966a8572",
+      "sha1": "c54e20ce10313cd5268827029426ef733dd46546",
       "format": "Metadata"
     },
     {
@@ -2536,9 +2588,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 243,
-  "item_last_updated": 1659552845,
-  "item_size": 16352522,
+  "files_count": 248,
+  "item_last_updated": 1659583963,
+  "item_size": 16686031,
   "metadata": {
     "identifier": "mmfa-2022",
     "collection": [
@@ -2555,51 +2607,10 @@
     "publicdate": "2022-07-17 15:59:57",
     "addeddate": "2022-07-17 15:59:57"
   },
-  "mmfa-2022": [
-    {
-      "url": "https://www.mediamatters.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mediamatters_org-_-2022_08_03_18_32_46.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mediamatters_org-_-2022_08_03_18_32_46.report.json",
-      "summary": {
-        "performance": 0.64,
-        "accessibility": 0.81,
-        "best-practices": 0.92,
-        "seo": 0.77,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://www.mediamatters.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mediamatters_org-_-2022_08_03_18_32_58.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mediamatters_org-_-2022_08_03_18_32_58.report.json",
-      "summary": {
-        "performance": 0.68,
-        "accessibility": 0.81,
-        "best-practices": 0.92,
-        "seo": 0.77,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://www.mediamatters.org/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mediamatters_org-_-2022_08_03_18_33_09.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mediamatters_org-_-2022_08_03_18_33_09.report.json",
-      "summary": {
-        "performance": 0.81,
-        "accessibility": 0.81,
-        "best-practices": 0.92,
-        "seo": 0.77,
-        "pwa": 0.3
-      }
-    }
-  ],
-  "server": "ia801409.us.archive.org",
-  "uniq": 422415850,
+  "server": "ia601409.us.archive.org",
+  "uniq": 438352888,
   "workable_servers": [
-    "ia801409.us.archive.org",
-    "ia601409.us.archive.org"
+    "ia601409.us.archive.org",
+    "ia801409.us.archive.org"
   ]
 }

@@ -20,13 +20,105 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 30 screenshots with the Internet Archive.
+The archiving routine has saved 31 screenshots with the Internet Archive.
 
+
+  <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specScreenshots = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/screenshots/aftenposten.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/aftenposten-2022/aftenposten-2022-08-04T01:16:51.636097+02:00.jpg">
+  <img src="https://archive.org/download/aftenposten-2022/aftenposten-2022-08-04T01:16:51.636097+02:00.jpg"
+     alt="Aftenposten at 2022-08-04 01:16:53+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/aftenposten-2022/aftenposten-2022-08-04T01:16:51.636097+02:00.jpg">August 4 at 1:16 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/aftenposten-2022/aftenposten-2022-08-03T14:33:20.679091+02:00.jpg">
@@ -127,27 +219,102 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/aftenposten-2022/aftenposten-2022-07-29T13:02:30.352265+02:00.jpg">July 29 at 1:02 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/aftenposten-2022/aftenposten-2022-07-29T01:06:27.596632+02:00.jpg">
-  <img src="https://archive.org/download/aftenposten-2022/aftenposten-2022-07-29T01:06:27.596632+02:00.jpg"
-     alt="Aftenposten at 2022-07-29 01:06:29+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/aftenposten-2022/aftenposten-2022-07-29T01:06:27.596632+02:00.jpg">July 29 at 1:06 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 30 hyperlink lists with the Internet Archive.
+The archiving routine has saved 31 hyperlink lists with the Internet Archive.
 
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specHyperlinks = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/aftenposten.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 4 at 1:16 AM](https://archive.org/download/aftenposten-2022/aftenposten-2022-08-04T01:16:51.636097+02:00.hyperlinks.json) |
 | [August 3 at 2:33 PM](https://archive.org/download/aftenposten-2022/aftenposten-2022-08-03T14:33:20.679091+02:00.hyperlinks.json) |
 | [August 3 at 1:15 AM](https://archive.org/download/aftenposten-2022/aftenposten-2022-08-03T01:15:51.285338+02:00.hyperlinks.json) |
 | [August 2 at 2:08 PM](https://archive.org/download/aftenposten-2022/aftenposten-2022-08-02T14:08:52.893402+02:00.hyperlinks.json) |
@@ -157,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 31 at 1:05 PM](https://archive.org/download/aftenposten-2022/aftenposten-2022-07-31T13:05:32.401415+02:00.hyperlinks.json) |
 | [July 31 at 1:11 AM](https://archive.org/download/aftenposten-2022/aftenposten-2022-07-31T01:11:05.924507+02:00.hyperlinks.json) |
 | [July 30 at 1:08 PM](https://archive.org/download/aftenposten-2022/aftenposten-2022-07-30T13:08:44.507695+02:00.hyperlinks.json) |
-| [July 30 at 1:59 AM](https://archive.org/download/aftenposten-2022/aftenposten-2022-07-30T01:59:25.237851+02:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 29 accessibility trees with the Internet Archive.
+The archiving routine has saved 30 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +336,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 4 at 1:16 AM](https://archive.org/download/aftenposten-2022/aftenposten-2022-08-04T01:16:51.636097+02:00.accessibility.json) |
 | [August 3 at 2:33 PM](https://archive.org/download/aftenposten-2022/aftenposten-2022-08-03T14:33:20.679091+02:00.accessibility.json) |
 | [August 3 at 1:15 AM](https://archive.org/download/aftenposten-2022/aftenposten-2022-08-03T01:15:51.285338+02:00.accessibility.json) |
 | [August 2 at 2:08 PM](https://archive.org/download/aftenposten-2022/aftenposten-2022-08-02T14:08:52.893402+02:00.accessibility.json) |
@@ -179,13 +346,12 @@ Here are the 10 most recent accessibility trees.
 | [July 31 at 1:05 PM](https://archive.org/download/aftenposten-2022/aftenposten-2022-07-31T13:05:32.401415+02:00.accessibility.json) |
 | [July 31 at 1:11 AM](https://archive.org/download/aftenposten-2022/aftenposten-2022-07-31T01:11:05.924507+02:00.accessibility.json) |
 | [July 30 at 1:08 PM](https://archive.org/download/aftenposten-2022/aftenposten-2022-07-30T13:08:44.507695+02:00.accessibility.json) |
-| [July 30 at 1:59 AM](https://archive.org/download/aftenposten-2022/aftenposten-2022-07-30T01:59:25.237851+02:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 22 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +359,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 4 at 1:16 AM](https://archive.org/download/aftenposten-2022/aftenposten-2022-08-04T01:16:51.636097+02:00.lighthouse.json) |
 | [August 3 at 2:33 PM](https://archive.org/download/aftenposten-2022/aftenposten-2022-08-03T14:33:20.679091+02:00.lighthouse.json) |
 | [August 3 at 1:15 AM](https://archive.org/download/aftenposten-2022/aftenposten-2022-08-03T01:15:51.285338+02:00.lighthouse.json) |
 | [August 2 at 2:09 PM](https://archive.org/download/aftenposten-2022/aftenposten-2022-08-02T14:08:52.893402+02:00.lighthouse.json) |
@@ -202,7 +369,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 31 at 1:05 PM](https://archive.org/download/aftenposten-2022/aftenposten-2022-07-31T13:05:32.401415+02:00.lighthouse.json) |
 | [July 31 at 1:11 AM](https://archive.org/download/aftenposten-2022/aftenposten-2022-07-31T01:11:05.924507+02:00.lighthouse.json) |
 | [July 30 at 1:08 PM](https://archive.org/download/aftenposten-2022/aftenposten-2022-07-30T13:08:44.507695+02:00.lighthouse.json) |
-| [July 30 at 1:59 AM](https://archive.org/download/aftenposten-2022/aftenposten-2022-07-30T01:59:25.237851+02:00.lighthouse.json) |
 
 
 

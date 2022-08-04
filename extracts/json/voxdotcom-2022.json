@@ -1,5 +1,5 @@
 {
-  "created": 1659574321,
+  "created": 1659611756,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/22/items/voxdotcom-2022",
@@ -5446,31 +5446,61 @@
       "sha1": "5f1dc025e7e4883ecd426aac6bfc392ab432b029"
     },
     {
+      "name": "voxdotcom-2022-08-04T00:41:17.157678-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659588080",
+      "size": "40835",
+      "md5": "7cdfe318f93e5a5de62a044f8b0037fc",
+      "crc32": "4cc9b33d",
+      "sha1": "8c06ae8271406be51ecc3da119e8cc5ac63a1814",
+      "format": "JSON"
+    },
+    {
+      "name": "voxdotcom-2022-08-04T00:41:17.157678-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659588082",
+      "size": "51515",
+      "md5": "93b14afce6389ed8a9044b5edf7783ec",
+      "crc32": "f8d2a3d7",
+      "sha1": "f1d9bd1bc550bd0850ace109f7213b2ec3c8409d",
+      "format": "JSON"
+    },
+    {
+      "name": "voxdotcom-2022-08-04T00:41:17.157678-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659588084",
+      "size": "1432",
+      "md5": "275bce05f014e075f5c55bbb17a511be",
+      "crc32": "0061a769",
+      "sha1": "75dc2952e7513f42cde26b9fbf7a7fec86f31f4c",
+      "format": "JSON"
+    },
+    {
       "name": "voxdotcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "238a8837a23c9c426d3c6468788f39c91885c682",
-      "mtime": "1659553004",
-      "size": "111421",
-      "md5": "0227ebb591c3dfddef3d58fe7dbb5c70",
-      "crc32": "e9432d1c",
-      "sha1": "b3dcf0791aaeb88b32c20912ae9334da08e6cc91",
+      "btih": "6efc0aa75446d72a235ac19bafe913554cd89a09",
+      "mtime": "1659588125",
+      "size": "112059",
+      "md5": "b0fc1cf82f0c389bd2c480309255cd75",
+      "crc32": "fae605f7",
+      "sha1": "dbe6522c5894decc9d1df4e53a5101c92452a65e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "voxdotcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2a23a0c82a09a2ad791761ce39f2bdf5",
+      "md5": "8ebf171af434dd13f6f74aef93db196b",
       "summation": "md5"
     },
     {
       "name": "voxdotcom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659552174",
-      "size": "626688",
-      "md5": "56c6be08f6e8f7d62f5a0ac9b5f6b6e2",
-      "crc32": "f558cb64",
-      "sha1": "104ebd846dda460aeac01826af3f272345e55c9d",
+      "mtime": "1659588087",
+      "size": "630784",
+      "md5": "ad208c89e1519e465a2b98924487b078",
+      "crc32": "2fded1a6",
+      "sha1": "d19bbc4606cd3c7426661019bea753adf5a2e5a4",
       "format": "Metadata"
     },
     {
@@ -5484,9 +5514,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 524,
-  "item_last_updated": 1659553004,
-  "item_size": 41848265,
+  "files_count": 527,
+  "item_last_updated": 1659588125,
+  "item_size": 41946781,
   "metadata": {
     "identifier": "voxdotcom-2022",
     "collection": [
@@ -5504,48 +5534,7 @@
     "addeddate": "2022-06-19 23:29:34"
   },
   "server": "ia801506.us.archive.org",
-  "uniq": 985276801,
-  "voxdotcom-2022": [
-    {
-      "url": "https://www.vox.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vox_com-_-2022_08_03_18_34_53.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vox_com-_-2022_08_03_18_34_53.report.json",
-      "summary": {
-        "performance": 0.34,
-        "accessibility": 0.8,
-        "best-practices": 0.83,
-        "seo": 0.84,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.vox.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vox_com-_-2022_08_03_18_35_24.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vox_com-_-2022_08_03_18_35_24.report.json",
-      "summary": {
-        "performance": 0.33,
-        "accessibility": 0.8,
-        "best-practices": 0.83,
-        "seo": 0.84,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.vox.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vox_com-_-2022_08_03_18_34_21.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vox_com-_-2022_08_03_18_34_21.report.json",
-      "summary": {
-        "performance": 0.32,
-        "accessibility": 0.8,
-        "best-practices": 0.83,
-        "seo": 0.84,
-        "pwa": 0.4
-      }
-    }
-  ],
+  "uniq": 196234920,
   "workable_servers": [
     "ia801506.us.archive.org",
     "ia601506.us.archive.org"

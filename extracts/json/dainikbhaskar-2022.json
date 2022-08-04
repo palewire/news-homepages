@@ -1,5 +1,5 @@
 {
-  "created": 1659569498,
+  "created": 1659611680,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/3/items/dainikbhaskar-2022",
@@ -848,31 +848,72 @@
       "sha1": "f6927476fe35cbe8e515dc661ad2aae5d2e106eb"
     },
     {
+      "name": "dainikbhaskar-2022-08-04T16:43:51.020601+05:30.accessibility.json",
+      "source": "original",
+      "mtime": "1659611634",
+      "size": "59291",
+      "md5": "65bfae1f982cd34e5d78e4474e97469f",
+      "crc32": "acacb145",
+      "sha1": "dbd91f89a79852d21283a6ceee894bc598067822",
+      "format": "JSON"
+    },
+    {
+      "name": "dainikbhaskar-2022-08-04T16:43:51.020601+05:30.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659611636",
+      "size": "40193",
+      "md5": "c144f1c0e6ffd39c1f1bddbdb6160c5d",
+      "crc32": "b1be967c",
+      "sha1": "442a63f7049eca4c2d5242d0cdea0ee5e6180b1e",
+      "format": "JSON"
+    },
+    {
+      "name": "dainikbhaskar-2022-08-04T16:43:51.020601+05:30.jpg",
+      "source": "original",
+      "mtime": "1659611632",
+      "size": "236324",
+      "md5": "dd1d16c75957f657edc918ec4828a225",
+      "crc32": "0fa5b461",
+      "sha1": "182025f393b2a9ec1a2bfbb64b200245031dddca",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dainikbhaskar-2022-08-04T16:43:51.020601+05:30.lighthouse.json",
+      "source": "original",
+      "mtime": "1659611637",
+      "size": "1458",
+      "md5": "806b6335d7e8248653e063998ee46001",
+      "crc32": "71fafe1f",
+      "sha1": "7db6dc9b6784a3e7ee3c4f5d936d65187be49a60",
+      "format": "JSON"
+    },
+    {
       "name": "dainikbhaskar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "53e9d485252c79a7855473397cccf8c39462d4ac",
-      "mtime": "1659569448",
-      "size": "18894",
-      "md5": "1170de4f67884bf5dd4033480ceb6ef3",
-      "crc32": "48b993dd",
-      "sha1": "8718f1bd3674f1f1e3bfbb3021d3989b50d24ef8",
+      "btih": "1132017e1b035faab4c8bab5f0ecb3c448831356",
+      "mtime": "1659611676",
+      "size": "19769",
+      "md5": "ea051f3fc474668a9fda2c405c0ef071",
+      "crc32": "a10b3f12",
+      "sha1": "b0d7436df794e81f0163954c515235b0d82e48dc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dainikbhaskar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f3530e7d07962f56426341ced3fa3c54",
+      "md5": "26d77a3afb8ad90c511e3b81dddded8a",
       "summation": "md5"
     },
     {
       "name": "dainikbhaskar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659568981",
-      "size": "126976",
-      "md5": "46f0a18135898c2fba5da4a0195e606a",
-      "crc32": "0136e08e",
-      "sha1": "dbcedec80c317f03d15710e55085da4a29567d79",
+      "mtime": "1659611642",
+      "size": "131072",
+      "md5": "cf04e876874500111d7f7349ab16979d",
+      "crc32": "d928baf8",
+      "sha1": "2b7cb5c92da569adbe454454796c43273dd90e7c",
       "format": "Metadata"
     },
     {
@@ -886,9 +927,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 85,
-  "item_last_updated": 1659569448,
-  "item_size": 5467059,
+  "files_count": 89,
+  "item_last_updated": 1659611676,
+  "item_size": 5809296,
   "metadata": {
     "identifier": "dainikbhaskar-2022",
     "collection": [
@@ -905,10 +946,21 @@
     "publicdate": "2022-07-27 17:18:58",
     "addeddate": "2022-07-27 17:18:58"
   },
+  "pending_tasks": true,
   "server": "ia601404.us.archive.org",
-  "uniq": 1350563148,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3352499362,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 538610142,
   "workable_servers": [
-    "ia601404.us.archive.org",
-    "ia801404.us.archive.org"
+    "ia601404.us.archive.org"
   ]
 }

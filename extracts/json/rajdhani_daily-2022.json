@@ -1,6 +1,5 @@
 {
-  "conflict": 1659574008,
-  "created": 1659574008,
+  "created": 1659616604,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/34/items/rajdhani_daily-2022",
@@ -1109,31 +1108,83 @@
       "sha1": "3109501c35b34e9b254c1b6659a4b49b60876030"
     },
     {
+      "name": "rajdhani_daily-2022-08-04T06:31:44.249700+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1659574008",
+      "size": "86021",
+      "md5": "59bbcece8896fb33d86ca1592d242eb1",
+      "crc32": "7931d8c5",
+      "sha1": "d70742270f013dc3af70d0b220563a0c5379e4c7",
+      "format": "JSON"
+    },
+    {
+      "name": "rajdhani_daily-2022-08-04T06:31:44.249700+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659574009",
+      "size": "47590",
+      "md5": "d390fcd470f495d7c155690616c476b4",
+      "crc32": "49de4bed",
+      "sha1": "3014b7f48bdd2881b594432d4e807773aeb816c9",
+      "format": "JSON"
+    },
+    {
+      "name": "rajdhani_daily-2022-08-04T06:31:44.249700+05:45.jpg",
+      "source": "original",
+      "mtime": "1659574006",
+      "size": "217973",
+      "md5": "ba24c41903df94a1e29961aa414eecb2",
+      "crc32": "053f4fb2",
+      "sha1": "17bc392985e821b81b3ffe2e8aa38adb9abcf92c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rajdhani_daily-2022-08-04T06:31:44.249700+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1659574011",
+      "size": "1486",
+      "md5": "6840cc2dc0482aa4d996f253abdfea0a",
+      "crc32": "7df80afd",
+      "sha1": "877f71b39efa1f824fed71299171e6bb3b6eda0b",
+      "format": "JSON"
+    },
+    {
+      "name": "rajdhani_daily-2022-08-04T06:31:44.249700+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rajdhani_daily-2022-08-04T06:31:44.249700+05:45.jpg",
+      "mtime": "1659574207",
+      "size": "10089",
+      "md5": "7aacf8e0ca1d9955b461e147f702b184",
+      "crc32": "15fc4b59",
+      "sha1": "0c553e7e60a5353d785f7bd429699c444fe19c0e"
+    },
+    {
       "name": "rajdhani_daily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5b23c7c5631688c41fcfcfcb35328c2e35299f5d",
-      "mtime": "1659536069",
-      "size": "24439",
-      "md5": "4ef17ca6dab171a02ecee95c196004f0",
-      "crc32": "227d4a60",
-      "sha1": "959d1babd01440ef7306c9a080a377550bdfc90e",
+      "btih": "b9a3fa17e9e611baecb9f308adf85156175f9098",
+      "mtime": "1659574281",
+      "size": "25529",
+      "md5": "ba9f40f58fb94267fdde49919c765816",
+      "crc32": "09cbfac7",
+      "sha1": "34339660be2dddeb3138d2cac4b8421b71b79850",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rajdhani_daily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8809449e3e58f6d997f5887f7c589189",
+      "md5": "08422cd6162a3918ae7232c3bed3efeb",
       "summation": "md5"
     },
     {
       "name": "rajdhani_daily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659531436",
-      "size": "151552",
-      "md5": "e4c8f075b9431fcbf316e3753dc31573",
-      "crc32": "0c40d82e",
-      "sha1": "1cc7b92e0ecdd0bec105fcee1d7694a9cec33339",
+      "mtime": "1659574014",
+      "size": "159744",
+      "md5": "574defbe399b404e507087df65804d4c",
+      "crc32": "29f3fcce",
+      "sha1": "9c0886f659d41344f1b422abf52287ea14810821",
       "format": "Metadata"
     },
     {
@@ -1147,9 +1198,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 110,
-  "item_last_updated": 1659536069,
-  "item_size": 8071452,
+  "files_count": 115,
+  "item_last_updated": 1659574281,
+  "item_size": 8443893,
   "metadata": {
     "identifier": "rajdhani_daily-2022",
     "collection": [
@@ -1166,21 +1217,51 @@
     "publicdate": "2022-07-24 20:38:58",
     "addeddate": "2022-07-24 20:38:58"
   },
-  "pending_tasks": true,
-  "server": "ia601408.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "rajdhani_daily-2022": [
     {
-      "task_id": 3352011417,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "url": "https://rajdhanidaily.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/rajdhanidaily_com-_-2022_08_04_00_20_42.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/rajdhanidaily_com-_-2022_08_04_00_20_42.report.json",
+      "summary": {
+        "performance": 0.15,
+        "accessibility": 0.83,
+        "best-practices": 0.58,
+        "seo": 0.85,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://rajdhanidaily.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/rajdhanidaily_com-_-2022_08_04_00_21_23.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/rajdhanidaily_com-_-2022_08_04_00_21_23.report.json",
+      "summary": {
+        "performance": 0.34,
+        "accessibility": 0.83,
+        "best-practices": 0.58,
+        "seo": 0.84,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://rajdhanidaily.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/rajdhanidaily_com-_-2022_08_04_00_21_53.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/rajdhanidaily_com-_-2022_08_04_00_21_53.report.json",
+      "summary": {
+        "performance": 0.27,
+        "accessibility": 0.83,
+        "best-practices": 0.58,
+        "seo": 0.85,
+        "pwa": 0.4
+      }
     }
   ],
-  "uniq": 1280237219,
+  "server": "ia601408.us.archive.org",
+  "uniq": 1253250812,
   "workable_servers": [
-    "ia601408.us.archive.org"
+    "ia601408.us.archive.org",
+    "ia801408.us.archive.org"
   ]
 }

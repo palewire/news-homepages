@@ -1,5 +1,5 @@
 {
-  "created": 1659547527,
+  "created": 1659616350,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/21/items/mtfreepress-2022",
@@ -2398,31 +2398,83 @@
       "sha1": "908259db0f8d85e697042204477fa0933e218cd2"
     },
     {
+      "name": "mtfreepress-2022-08-03T22:29:07.849554-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659583751",
+      "size": "21381",
+      "md5": "622e38ec2267ada379380222b10c39af",
+      "crc32": "aa6b1b08",
+      "sha1": "824b2cb2d964f1f4834f24160dc6f747a3b1d365",
+      "format": "JSON"
+    },
+    {
+      "name": "mtfreepress-2022-08-03T22:29:07.849554-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659583752",
+      "size": "20577",
+      "md5": "3a80ef9df214108975e8c1abc30672fe",
+      "crc32": "b82c86ba",
+      "sha1": "4047506bf5876085d8b6d8aba5c3882c527c4271",
+      "format": "JSON"
+    },
+    {
+      "name": "mtfreepress-2022-08-03T22:29:07.849554-05:00.jpg",
+      "source": "original",
+      "mtime": "1659583749",
+      "size": "297827",
+      "md5": "20de2cee50d19712c6af373fcfe8b2de",
+      "crc32": "52eb0b5a",
+      "sha1": "60c873c7b9c9450bb656eff8086c188949ba42c8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mtfreepress-2022-08-03T22:29:07.849554-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659583754",
+      "size": "1513",
+      "md5": "26a8b34df197d6f992c8c1225889a730",
+      "crc32": "951724b4",
+      "sha1": "c270fa90062a1165295aa3ab3b5655a10196e386",
+      "format": "JSON"
+    },
+    {
+      "name": "mtfreepress-2022-08-03T22:29:07.849554-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mtfreepress-2022-08-03T22:29:07.849554-05:00.jpg",
+      "mtime": "1659583902",
+      "size": "9597",
+      "md5": "f815d383d8c471658426dea7cec957e3",
+      "crc32": "3b5874e2",
+      "sha1": "e382532dd49835c23c2411900dcf58f677204611"
+    },
+    {
       "name": "mtfreepress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8cdcc25214ca1cdc463976950569d963f41a80cd",
-      "mtime": "1659547493",
-      "size": "50343",
-      "md5": "e2a40eecd6b5ec6c86474260303a012d",
-      "crc32": "94666ab7",
-      "sha1": "7b463ed9e3c9b47d2dec16b268ed17ec77443162",
+      "btih": "f4e82ee327a60315a2b00ebd9aec707276bfd312",
+      "mtime": "1659583906",
+      "size": "51397",
+      "md5": "3dc4d4e79f2a2bb779a47a64cc870255",
+      "crc32": "243d0bca",
+      "sha1": "f2bce99d688cad490023c2d1caeafa1f5e7afd43",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mtfreepress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6ef939f3016478fb0fdb3bc440666257",
+      "md5": "6dc4a14830e05588a1154391d4a6b2b2",
       "summation": "md5"
     },
     {
       "name": "mtfreepress-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659546242",
-      "size": "290816",
-      "md5": "c7037f058beb70fa568fd5f707671040",
-      "crc32": "369489ff",
-      "sha1": "6b2139b8f7e4c52a9d45b84b2a627dff25c4a668",
+      "mtime": "1659583758",
+      "size": "299008",
+      "md5": "bcb43dd43839a4f8f5f6f1665cee1d68",
+      "crc32": "4568982d",
+      "sha1": "9df64c214dd2c658d785b3c213cf0ee546c01dd8",
       "format": "Metadata"
     },
     {
@@ -2436,9 +2488,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 233,
-  "item_last_updated": 1659547493,
-  "item_size": 17935098,
+  "files_count": 238,
+  "item_last_updated": 1659583906,
+  "item_size": 18295239,
   "metadata": {
     "identifier": "mtfreepress-2022",
     "collection": [
@@ -2455,10 +2507,51 @@
     "publicdate": "2022-07-09 04:03:32",
     "addeddate": "2022-07-09 04:03:32"
   },
-  "server": "ia601507.us.archive.org",
-  "uniq": 721671619,
+  "mtfreepress-2022": [
+    {
+      "url": "https://montanafreepress.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/montanafreepress_org-_-2022_08_04_02_51_41.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/montanafreepress_org-_-2022_08_04_02_51_41.report.json",
+      "summary": {
+        "performance": 0.26,
+        "accessibility": 0.86,
+        "best-practices": 0.92,
+        "seo": 0.98,
+        "pwa": 0.9
+      }
+    },
+    {
+      "url": "https://montanafreepress.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/montanafreepress_org-_-2022_08_04_02_52_09.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/montanafreepress_org-_-2022_08_04_02_52_09.report.json",
+      "summary": {
+        "performance": 0.56,
+        "accessibility": 0.86,
+        "best-practices": 0.92,
+        "seo": 0.98,
+        "pwa": 0.9
+      }
+    },
+    {
+      "url": "https://montanafreepress.org/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/montanafreepress_org-_-2022_08_04_02_51_56.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/montanafreepress_org-_-2022_08_04_02_51_56.report.json",
+      "summary": {
+        "performance": 0.54,
+        "accessibility": 0.86,
+        "best-practices": 0.92,
+        "seo": 0.98,
+        "pwa": 0.9
+      }
+    }
+  ],
+  "server": "ia801507.us.archive.org",
+  "uniq": 238476431,
   "workable_servers": [
-    "ia601507.us.archive.org",
-    "ia801507.us.archive.org"
+    "ia801507.us.archive.org",
+    "ia601507.us.archive.org"
   ]
 }

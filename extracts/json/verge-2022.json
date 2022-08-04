@@ -1,5 +1,5 @@
 {
-  "created": 1659548264,
+  "created": 1659588637,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/28/items/verge-2022",
@@ -4876,31 +4876,83 @@
       "sha1": "0ae87ee46c9bf2c5af09435e4898768982a18bd3"
     },
     {
+      "name": "verge-2022-08-04T00:41:24.620003-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659588087",
+      "size": "36580",
+      "md5": "0fb4e3cfbbfc7b43694eb6b11a2022bd",
+      "crc32": "0dace6bc",
+      "sha1": "44ad6861d820392438b85ea1bbb786fb8937e822",
+      "format": "JSON"
+    },
+    {
+      "name": "verge-2022-08-04T00:41:24.620003-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659588090",
+      "size": "58624",
+      "md5": "8fda3bc7276c375d0c64bc88a7e62ba0",
+      "crc32": "70b34e4f",
+      "sha1": "c48fa11de959103ca481d4b0f98678729fe145ab",
+      "format": "JSON"
+    },
+    {
+      "name": "verge-2022-08-04T00:41:24.620003-04:00.jpg",
+      "source": "original",
+      "mtime": "1659588085",
+      "size": "312177",
+      "md5": "ace31221fdc8900065ce9b16eaf3cb76",
+      "crc32": "5a3a5f40",
+      "sha1": "f6780e0bfe332c4be5b5e19d371ac434515106ac",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "verge-2022-08-04T00:41:24.620003-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659588091",
+      "size": "1471",
+      "md5": "bdf06742b34507f718baa72864c30cd9",
+      "crc32": "988168e4",
+      "sha1": "8008c6e09764db35f3f03aa0adbaa4715f6ebb79",
+      "format": "JSON"
+    },
+    {
+      "name": "verge-2022-08-04T00:41:24.620003-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "verge-2022-08-04T00:41:24.620003-04:00.jpg",
+      "mtime": "1659588544",
+      "size": "11704",
+      "md5": "ab73ea30404af288e0d6ca9976cf79a4",
+      "crc32": "34dbab01",
+      "sha1": "80b4fb8e8d36da583a281ed1a445ed6edbbe6a14"
+    },
+    {
       "name": "verge-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ebb2dec3b91ff887e1d7ceded1078ca9fca6dc49",
-      "mtime": "1659548140",
-      "size": "98394",
-      "md5": "b1fe46e11eb30678a468e0d7d5f7b5ac",
-      "crc32": "2c3cd3b9",
-      "sha1": "496e44902b952c7e267817aebcbb42c745e8e7a6",
+      "btih": "d84c73f0baf21284a1d6ca31e1d2143e2377cd82",
+      "mtime": "1659588567",
+      "size": "99439",
+      "md5": "33b2c6073625897c1111f77f664df451",
+      "crc32": "6af99e1a",
+      "sha1": "4021348a31f28a6bc8da230a55b8ca74021bf868",
       "format": "Archive BitTorrent"
     },
     {
       "name": "verge-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cb4084c985e561bca4e5e485ab134595",
+      "md5": "e212d3e25b51bb6f5f3b9b1bad456dc5",
       "summation": "md5"
     },
     {
       "name": "verge-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659546994",
-      "size": "557056",
-      "md5": "3ba00e7dc58febe016e6c37bcb80f597",
-      "crc32": "79866836",
-      "sha1": "18a7c98e7157855047f87365ca74d219c06e92c6",
+      "mtime": "1659588099",
+      "size": "565248",
+      "md5": "97f2b0b8d7ec76fa736b808dc82ce814",
+      "crc32": "7dba6754",
+      "sha1": "6b0c2a4da68597710f94740158e1deba6e496b6f",
       "format": "Metadata"
     },
     {
@@ -4914,9 +4966,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 469,
-  "item_last_updated": 1659548140,
-  "item_size": 48782446,
+  "files_count": 474,
+  "item_last_updated": 1659588567,
+  "item_size": 49212239,
   "metadata": {
     "identifier": "verge-2022",
     "collection": [
@@ -4934,7 +4986,7 @@
     "addeddate": "2022-06-24 23:03:27"
   },
   "server": "ia601400.us.archive.org",
-  "uniq": 1126466017,
+  "uniq": 1278447902,
   "workable_servers": [
     "ia601400.us.archive.org",
     "ia801400.us.archive.org"

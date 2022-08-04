@@ -1,6 +1,5 @@
 {
-  "conflict": 1659573948,
-  "created": 1659573948,
+  "created": 1659616508,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/9/items/orcapchronicle-2022",
@@ -2799,31 +2798,83 @@
       "sha1": "a0edc3036bb8bf16f9365a3f7b261b78572f234c"
     },
     {
+      "name": "orcapchronicle-2022-08-03T17:45:41.812473-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659573946",
+      "size": "15670",
+      "md5": "0ced81791417fe9c7878362201f33cbb",
+      "crc32": "f62d195d",
+      "sha1": "7edddee40faedac4ad9758db6668590ecc56ebd3",
+      "format": "JSON"
+    },
+    {
+      "name": "orcapchronicle-2022-08-03T17:45:41.812473-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659573948",
+      "size": "13483",
+      "md5": "01233601b21298cd2d2da57f371f72a4",
+      "crc32": "af58dfa0",
+      "sha1": "83dd30373d79263b7bd51d376c3fe65c7b9df06b",
+      "format": "JSON"
+    },
+    {
+      "name": "orcapchronicle-2022-08-03T17:45:41.812473-07:00.jpg",
+      "source": "original",
+      "mtime": "1659573944",
+      "size": "327304",
+      "md5": "b4aa2a485663a1d8d7bc62c9627824e8",
+      "crc32": "8f543a15",
+      "sha1": "7aacb8a4bdf0d125370fcafb628c6999fee43ce2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "orcapchronicle-2022-08-03T17:45:41.812473-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659573949",
+      "size": "1566",
+      "md5": "3b8b88eec860217075be274a88a9a547",
+      "crc32": "c6499324",
+      "sha1": "5bace70d47218068cf6ac4f1a9dd17ca83598969",
+      "format": "JSON"
+    },
+    {
+      "name": "orcapchronicle-2022-08-03T17:45:41.812473-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "orcapchronicle-2022-08-03T17:45:41.812473-07:00.jpg",
+      "mtime": "1659574155",
+      "size": "10525",
+      "md5": "d6f6d4449f1c1a91b6db025ee8f9d646",
+      "crc32": "bb35cd7c",
+      "sha1": "5bf3cc29251cb294da05e53481e5045e6a2c8302"
+    },
+    {
       "name": "orcapchronicle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "62b8ae073f047d1757ecf12e4f29e41f944c5f23",
-      "mtime": "1659536016",
-      "size": "59333",
-      "md5": "0c01eec8f7cd09527cebaadecf45664f",
-      "crc32": "bb6c8232",
-      "sha1": "60e4f412d79e24100b504d8d66e4a226185d30fd",
+      "btih": "5d4643d021cf1d57225e19b8f9c0d42495093c34",
+      "mtime": "1659574175",
+      "size": "60423",
+      "md5": "7b21b1e0d7677dc3c9edd7b940e12936",
+      "crc32": "c25237d4",
+      "sha1": "d66130052b06ff0910ab8da526a7e49d5689258f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "orcapchronicle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "de96f3382677154ad4f741f68f15d3ac",
+      "md5": "a256bb96e4376536cf534ba917e9f3f6",
       "summation": "md5"
     },
     {
       "name": "orcapchronicle-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659531312",
-      "size": "339968",
-      "md5": "d8efc8b52af3ff0cf6aaae704c65a243",
-      "crc32": "a1d70dee",
-      "sha1": "3d2a39aa08a6d42c245aeb00061946a6c970bdf5",
+      "mtime": "1659573953",
+      "size": "344064",
+      "md5": "49db901a8b97fde4e167dc6853927de2",
+      "crc32": "dc339b0b",
+      "sha1": "471e953be588d4533b5775b094a310e5c135ab38",
       "format": "Metadata"
     },
     {
@@ -2837,9 +2888,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 271,
-  "item_last_updated": 1659536016,
-  "item_size": 21803197,
+  "files_count": 276,
+  "item_last_updated": 1659574175,
+  "item_size": 22176931,
   "metadata": {
     "identifier": "orcapchronicle-2022",
     "collection": [
@@ -2856,21 +2907,51 @@
     "publicdate": "2022-07-04 21:50:22",
     "addeddate": "2022-07-04 21:50:22"
   },
-  "pending_tasks": true,
-  "server": "ia601400.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "orcapchronicle-2022": [
     {
-      "task_id": 3352010237,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "url": "https://oregoncapitalchronicle.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/oregoncapitalchronicle_com-_-2022_08_04_00_17_34.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/oregoncapitalchronicle_com-_-2022_08_04_00_17_34.report.json",
+      "summary": {
+        "performance": 0.58,
+        "accessibility": 0.88,
+        "best-practices": 0.83,
+        "seo": 0.79,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://oregoncapitalchronicle.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/oregoncapitalchronicle_com-_-2022_08_04_00_17_59.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/oregoncapitalchronicle_com-_-2022_08_04_00_17_59.report.json",
+      "summary": {
+        "performance": 0.73,
+        "accessibility": 0.88,
+        "best-practices": 0.83,
+        "seo": 0.79,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://oregoncapitalchronicle.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/oregoncapitalchronicle_com-_-2022_08_04_00_17_48.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/oregoncapitalchronicle_com-_-2022_08_04_00_17_48.report.json",
+      "summary": {
+        "performance": 0.7,
+        "accessibility": 0.88,
+        "best-practices": 0.83,
+        "seo": 0.79,
+        "pwa": 0.4
+      }
     }
   ],
-  "uniq": 223472459,
+  "server": "ia801400.us.archive.org",
+  "uniq": 656203526,
   "workable_servers": [
+    "ia801400.us.archive.org",
     "ia601400.us.archive.org"
   ]
 }

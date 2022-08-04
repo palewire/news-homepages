@@ -1,8 +1,8 @@
 {
-  "created": 1659573734,
-  "d1": "ia902501.us.archive.org",
-  "d2": "ia802501.us.archive.org",
-  "dir": "/30/items/indiancountry-2022",
+  "created": 1659612025,
+  "d1": "ia601505.us.archive.org",
+  "d2": "ia801505.us.archive.org",
+  "dir": "/10/items/indiancountry-2022",
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -2430,31 +2430,72 @@
       "sha1": "d591baef128e99e4afdaaea1f46febe8d0e80024"
     },
     {
+      "name": "indiancountry-2022-08-04T04:18:11.791641-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659611894",
+      "size": "20077",
+      "md5": "7608230c2417b967dde8e66be10bffa7",
+      "crc32": "175fae0e",
+      "sha1": "7ed4c48c12fd680faeee033393fbaf337a8b88fd",
+      "format": "JSON"
+    },
+    {
+      "name": "indiancountry-2022-08-04T04:18:11.791641-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659611896",
+      "size": "16902",
+      "md5": "c9caf097209fff3c2356b55bc8dce1e6",
+      "crc32": "6ea50f1d",
+      "sha1": "55b8a5c213d99c392ad623b72e428542ea8194c0",
+      "format": "JSON"
+    },
+    {
+      "name": "indiancountry-2022-08-04T04:18:11.791641-07:00.jpg",
+      "source": "original",
+      "mtime": "1659611893",
+      "size": "249721",
+      "md5": "3f045df98dcc59227c9ecb4c0ba60166",
+      "crc32": "8ac8c236",
+      "sha1": "16462ad36cc09e4391daf5d78120588ff3c01ddc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "indiancountry-2022-08-04T04:18:11.791641-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659611897",
+      "size": "1521",
+      "md5": "24b96fc995386768f49c8c5076999113",
+      "crc32": "9e746875",
+      "sha1": "2aa1002f869316ddf99f68866cc54251a956e292",
+      "format": "JSON"
+    },
+    {
       "name": "indiancountry-2022_archive.torrent",
       "source": "metadata",
-      "btih": "134da3769ecfa1cd920feb78e478bd5961bd604f",
-      "mtime": "1659573682",
-      "size": "51346",
-      "md5": "73d629037507db04527a42cd6e18a3a8",
-      "crc32": "b65d00e0",
-      "sha1": "27459eafad9e26e407c0f6d93f44428311491707",
+      "btih": "61e78bbfb456a1f4fdf13f4e991c5a2750e8fc76",
+      "mtime": "1659612018",
+      "size": "52201",
+      "md5": "630f8a8acf655e51f816c16b63e225e0",
+      "crc32": "5d5f331d",
+      "sha1": "5abae3aacfaad5a7944bb07ae62469057983b26d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "indiancountry-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2cfce9a0eeb7f1e13e2d2c7b13df5c62",
+      "md5": "ce221e0223f5db5b60086d1ccd2eb8db",
       "summation": "md5"
     },
     {
       "name": "indiancountry-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659573347",
-      "size": "294912",
-      "md5": "9cb6bf046903bd525367f6e8e1f2e711",
-      "crc32": "3e234ad9",
-      "sha1": "9e3057959639f6ed50a83f5740cc36493febdd8b",
+      "mtime": "1659611978",
+      "size": "299008",
+      "md5": "fd8fc699462150d0693517a7d0657aa7",
+      "crc32": "8cc71fbd",
+      "sha1": "e284ba2b9e63fa4c942ec0060ecc1cc279566885",
       "format": "Metadata"
     },
     {
@@ -2468,9 +2509,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 236,
-  "item_last_updated": 1659573682,
-  "item_size": 15486632,
+  "files_count": 240,
+  "item_last_updated": 1659612018,
+  "item_size": 15779804,
   "metadata": {
     "identifier": "indiancountry-2022",
     "collection": [
@@ -2487,10 +2528,21 @@
     "publicdate": "2022-07-09 03:59:22",
     "addeddate": "2022-07-09 03:59:22"
   },
-  "server": "ia902501.us.archive.org",
-  "uniq": 1894946983,
+  "pending_tasks": true,
+  "server": "ia601505.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3352502233,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1652768693,
   "workable_servers": [
-    "ia902501.us.archive.org",
-    "ia802501.us.archive.org"
+    "ia601505.us.archive.org"
   ]
 }

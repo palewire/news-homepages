@@ -1,6 +1,5 @@
 {
-  "conflict": 1659573645,
-  "created": 1659573645,
+  "created": 1659616187,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/0/items/ktla-2022",
@@ -12212,6 +12211,47 @@
   "files_count": 1164,
   "item_last_updated": 1659573643,
   "item_size": 130651664,
+  "ktla-2022": [
+    {
+      "url": "https://ktla.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ktla_com-_-2022_08_04_00_08_25.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ktla_com-_-2022_08_04_00_08_25.report.json",
+      "summary": {
+        "performance": 0.15,
+        "accessibility": 0.8,
+        "best-practices": 0.92,
+        "seo": 0.9,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://ktla.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ktla_com-_-2022_08_04_00_09_50.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ktla_com-_-2022_08_04_00_09_50.report.json",
+      "summary": {
+        "performance": 0.16,
+        "accessibility": 0.8,
+        "best-practices": 0.92,
+        "seo": 0.9,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://ktla.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ktla_com-_-2022_08_04_00_10_25.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ktla_com-_-2022_08_04_00_10_25.report.json",
+      "summary": {
+        "performance": 0.16,
+        "accessibility": 0.8,
+        "best-practices": 0.92,
+        "seo": 0.9,
+        "pwa": 0.4
+      }
+    }
+  ],
   "metadata": {
     "identifier": "ktla-2022",
     "collection": [
@@ -12228,29 +12268,10 @@
     "publicdate": "2022-03-23 02:07:50",
     "addeddate": "2022-03-23 02:07:50"
   },
-  "pending_tasks": true,
-  "server": "ia902500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3352001781,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3352003658,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1111518080,
+  "server": "ia802500.us.archive.org",
+  "uniq": 1238110276,
   "workable_servers": [
+    "ia802500.us.archive.org",
     "ia902500.us.archive.org"
   ]
 }

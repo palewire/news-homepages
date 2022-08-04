@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 204 screenshots with the Internet Archive.
+The archiving routine has saved 205 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 204 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/postcrescent-2022/postcrescent-2022-08-03T07:56:51.465216-05:00.jpg">
+  <img src="https://archive.org/download/postcrescent-2022/postcrescent-2022-08-03T07:56:51.465216-05:00.jpg"
+     alt="Appleton Post Crescent at 2022-08-03 07:56:53-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/postcrescent-2022/postcrescent-2022-08-03T07:56:51.465216-05:00.jpg">August 3 at 7:56 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/postcrescent-2022/postcrescent-2022-08-02T19:42:57.705916-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/postcrescent-2022/postcrescent-2022-07-28T19:18:36.666016-05:00.jpg">July 28 at 7:18 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/postcrescent-2022/postcrescent-2022-07-28T08:17:05.932696-05:00.jpg">
-  <img src="https://archive.org/download/postcrescent-2022/postcrescent-2022-07-28T08:17:05.932696-05:00.jpg"
-     alt="Appleton Post Crescent at 2022-07-28 08:17:07-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/postcrescent-2022/postcrescent-2022-07-28T08:17:05.932696-05:00.jpg">July 28 at 8:17 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 196 hyperlink lists with the Internet Archive.
+The archiving routine has saved 197 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 3 at 7:56 AM](https://archive.org/download/postcrescent-2022/postcrescent-2022-08-03T07:56:51.465216-05:00.hyperlinks.json) |
 | [August 2 at 7:43 PM](https://archive.org/download/postcrescent-2022/postcrescent-2022-08-02T19:42:57.705916-05:00.hyperlinks.json) |
 | [August 2 at 7:28 AM](https://archive.org/download/postcrescent-2022/postcrescent-2022-08-02T07:28:04.036097-05:00.hyperlinks.json) |
 | [August 1 at 7:42 PM](https://archive.org/download/postcrescent-2022/postcrescent-2022-08-01T19:42:10.035986-05:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 30 at 7:33 PM](https://archive.org/download/postcrescent-2022/postcrescent-2022-07-30T19:32:57.477040-05:00.hyperlinks.json) |
 | [July 30 at 7:28 AM](https://archive.org/download/postcrescent-2022/postcrescent-2022-07-30T07:28:37.006136-05:00.hyperlinks.json) |
 | [July 29 at 7:16 PM](https://archive.org/download/postcrescent-2022/postcrescent-2022-07-29T19:16:08.175020-05:00.hyperlinks.json) |
-| [July 29 at 7:23 AM](https://archive.org/download/postcrescent-2022/postcrescent-2022-07-29T07:23:30.439497-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 196 accessibility trees with the Internet Archive.
+The archiving routine has saved 197 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 3 at 7:56 AM](https://archive.org/download/postcrescent-2022/postcrescent-2022-08-03T07:56:51.465216-05:00.accessibility.json) |
 | [August 2 at 7:43 PM](https://archive.org/download/postcrescent-2022/postcrescent-2022-08-02T19:42:57.705916-05:00.accessibility.json) |
 | [August 2 at 7:28 AM](https://archive.org/download/postcrescent-2022/postcrescent-2022-08-02T07:28:04.036097-05:00.accessibility.json) |
 | [August 1 at 7:42 PM](https://archive.org/download/postcrescent-2022/postcrescent-2022-08-01T19:42:10.035986-05:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 30 at 7:33 PM](https://archive.org/download/postcrescent-2022/postcrescent-2022-07-30T19:32:57.477040-05:00.accessibility.json) |
 | [July 30 at 7:28 AM](https://archive.org/download/postcrescent-2022/postcrescent-2022-07-30T07:28:37.006136-05:00.accessibility.json) |
 | [July 29 at 7:16 PM](https://archive.org/download/postcrescent-2022/postcrescent-2022-07-29T19:16:08.175020-05:00.accessibility.json) |
-| [July 29 at 7:23 AM](https://archive.org/download/postcrescent-2022/postcrescent-2022-07-29T07:23:30.439497-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 21 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 22 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 3 at 7:56 AM](https://archive.org/download/postcrescent-2022/postcrescent-2022-08-03T07:56:51.465216-05:00.lighthouse.json) |
 | [August 2 at 7:43 PM](https://archive.org/download/postcrescent-2022/postcrescent-2022-08-02T19:42:57.705916-05:00.lighthouse.json) |
 | [August 2 at 7:28 AM](https://archive.org/download/postcrescent-2022/postcrescent-2022-08-02T07:28:04.036097-05:00.lighthouse.json) |
 | [August 1 at 7:42 PM](https://archive.org/download/postcrescent-2022/postcrescent-2022-08-01T19:42:10.035986-05:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 30 at 7:33 PM](https://archive.org/download/postcrescent-2022/postcrescent-2022-07-30T19:32:57.477040-05:00.lighthouse.json) |
 | [July 30 at 7:28 AM](https://archive.org/download/postcrescent-2022/postcrescent-2022-07-30T07:28:37.006136-05:00.lighthouse.json) |
 | [July 29 at 7:16 PM](https://archive.org/download/postcrescent-2022/postcrescent-2022-07-29T19:16:08.175020-05:00.lighthouse.json) |
-| [July 29 at 7:23 AM](https://archive.org/download/postcrescent-2022/postcrescent-2022-07-29T07:23:30.439497-05:00.lighthouse.json) |
 
 
 

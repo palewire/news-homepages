@@ -1,5 +1,5 @@
 {
-  "created": 1659573564,
+  "created": 1659611923,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/8/items/indiatoday-2022",
@@ -1056,31 +1056,72 @@
       "sha1": "110a9b654a6513e9854ba41b921cfd6990129ba6"
     },
     {
+      "name": "indiatoday-2022-08-04T16:47:54.488634+05:30.accessibility.json",
+      "source": "original",
+      "mtime": "1659611877",
+      "size": "58235",
+      "md5": "d868184bd11e90855d0dbe49cc090195",
+      "crc32": "107785bd",
+      "sha1": "7a4a698ef4dc9510b03053b89e16014f808e29b0",
+      "format": "JSON"
+    },
+    {
+      "name": "indiatoday-2022-08-04T16:47:54.488634+05:30.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659611879",
+      "size": "55787",
+      "md5": "00ffb86e04049dfc400aafadb1cb35e8",
+      "crc32": "c332d51a",
+      "sha1": "15743a00bcc8cc3f4e18c061f03d2c6422b28b52",
+      "format": "JSON"
+    },
+    {
+      "name": "indiatoday-2022-08-04T16:47:54.488634+05:30.jpg",
+      "source": "original",
+      "mtime": "1659611876",
+      "size": "310192",
+      "md5": "40339c08ecbfd2a962b4d5469af4d2f9",
+      "crc32": "77e5fdfb",
+      "sha1": "22ff673ee78c2887adfa0f2abffd6ce5b42836a8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "indiatoday-2022-08-04T16:47:54.488634+05:30.lighthouse.json",
+      "source": "original",
+      "mtime": "1659611881",
+      "size": "1486",
+      "md5": "341a3e8132dde9820c74940ae1d24579",
+      "crc32": "41643ccc",
+      "sha1": "2bcb80758a9b0c698bc527572d634407f02c3f40",
+      "format": "JSON"
+    },
+    {
       "name": "indiatoday-2022_archive.torrent",
       "source": "metadata",
-      "btih": "630990f162f2e77c6afe556baedd5f70ae662104",
-      "mtime": "1659573544",
-      "size": "22983",
-      "md5": "45448839632ea6ca1a1e16ec712278cb",
-      "crc32": "c92bf7ac",
-      "sha1": "b50377a639b9a04515c3db42d41d666a56202297",
+      "btih": "44ab49715922c7eb9dcd23cf00384bf03e869608",
+      "mtime": "1659611921",
+      "size": "23846",
+      "md5": "2d4f3ec5208ae1710e1debaebeea26dc",
+      "crc32": "f72a6c83",
+      "sha1": "124b7aff3f292647065d412bde3caa9af0e51eea",
       "format": "Archive BitTorrent"
     },
     {
       "name": "indiatoday-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0d2afa40720d449c03dba0beb74b0a8f",
+      "md5": "0076fca0e723b2d35bffd1b5057a9289",
       "summation": "md5"
     },
     {
       "name": "indiatoday-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659573344",
-      "size": "147456",
-      "md5": "434fb365dc074bef460b8907f3539d25",
-      "crc32": "9f8ee79f",
-      "sha1": "15b6e7dd75ab17303499e13f1d5c19b80adba216",
+      "mtime": "1659611884",
+      "size": "151552",
+      "md5": "a49d9c55c55ca6bab37b796fe038b559",
+      "crc32": "04bbc53d",
+      "sha1": "c8ccaf33d018e2d81bffa6e1f6e359a55c0ac325",
       "format": "Metadata"
     },
     {
@@ -1094,9 +1135,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 105,
-  "item_last_updated": 1659573544,
-  "item_size": 9365860,
+  "files_count": 109,
+  "item_last_updated": 1659611921,
+  "item_size": 9796519,
   "metadata": {
     "identifier": "indiatoday-2022",
     "collection": [
@@ -1113,10 +1154,21 @@
     "publicdate": "2022-07-26 00:16:43",
     "addeddate": "2022-07-26 00:16:43"
   },
+  "pending_tasks": true,
   "server": "ia601505.us.archive.org",
-  "uniq": 1674678421,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3352501525,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1475370785,
   "workable_servers": [
-    "ia601505.us.archive.org",
-    "ia801505.us.archive.org"
+    "ia601505.us.archive.org"
   ]
 }

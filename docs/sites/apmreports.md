@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 117 screenshots with the Internet Archive.
+The archiving routine has saved 118 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 117 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/apmreports-2022/apmreports-2022-08-03T09:23:12.730006-05:00.jpg">
+  <img src="https://archive.org/download/apmreports-2022/apmreports-2022-08-03T09:23:12.730006-05:00.jpg"
+     alt="APM Reports at 2022-08-03 09:23:14-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/apmreports-2022/apmreports-2022-08-03T09:23:12.730006-05:00.jpg">August 3 at 9:23 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/apmreports-2022/apmreports-2022-08-02T20:50:31.547053-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/apmreports-2022/apmreports-2022-07-28T20:21:52.651124-05:00.jpg">July 28 at 8:21 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/apmreports-2022/apmreports-2022-07-28T08:20:14.521339-05:00.jpg">
-  <img src="https://archive.org/download/apmreports-2022/apmreports-2022-07-28T08:20:14.521339-05:00.jpg"
-     alt="APM Reports at 2022-07-28 08:20:15-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/apmreports-2022/apmreports-2022-07-28T08:20:14.521339-05:00.jpg">July 28 at 8:20 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 118 hyperlink lists with the Internet Archive.
+The archiving routine has saved 119 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 3 at 9:23 AM](https://archive.org/download/apmreports-2022/apmreports-2022-08-03T09:23:12.730006-05:00.hyperlinks.json) |
 | [August 2 at 8:50 PM](https://archive.org/download/apmreports-2022/apmreports-2022-08-02T20:50:31.547053-05:00.hyperlinks.json) |
 | [August 2 at 8:39 AM](https://archive.org/download/apmreports-2022/apmreports-2022-08-02T08:39:16.914691-05:00.hyperlinks.json) |
 | [August 1 at 8:53 PM](https://archive.org/download/apmreports-2022/apmreports-2022-08-01T20:53:46.588556-05:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 30 at 9:43 PM](https://archive.org/download/apmreports-2022/apmreports-2022-07-30T21:42:58.231715-05:00.hyperlinks.json) |
 | [July 30 at 8:30 AM](https://archive.org/download/apmreports-2022/apmreports-2022-07-30T08:30:17.843428-05:00.hyperlinks.json) |
 | [July 29 at 8:17 PM](https://archive.org/download/apmreports-2022/apmreports-2022-07-29T20:17:44.416250-05:00.hyperlinks.json) |
-| [July 29 at 8:28 AM](https://archive.org/download/apmreports-2022/apmreports-2022-07-29T08:28:16.271610-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 118 accessibility trees with the Internet Archive.
+The archiving routine has saved 119 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 3 at 9:23 AM](https://archive.org/download/apmreports-2022/apmreports-2022-08-03T09:23:12.730006-05:00.accessibility.json) |
 | [August 2 at 8:50 PM](https://archive.org/download/apmreports-2022/apmreports-2022-08-02T20:50:31.547053-05:00.accessibility.json) |
 | [August 2 at 8:39 AM](https://archive.org/download/apmreports-2022/apmreports-2022-08-02T08:39:16.914691-05:00.accessibility.json) |
 | [August 1 at 8:53 PM](https://archive.org/download/apmreports-2022/apmreports-2022-08-01T20:53:46.588556-05:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 30 at 9:43 PM](https://archive.org/download/apmreports-2022/apmreports-2022-07-30T21:42:58.231715-05:00.accessibility.json) |
 | [July 30 at 8:30 AM](https://archive.org/download/apmreports-2022/apmreports-2022-07-30T08:30:17.843428-05:00.accessibility.json) |
 | [July 29 at 8:17 PM](https://archive.org/download/apmreports-2022/apmreports-2022-07-29T20:17:44.416250-05:00.accessibility.json) |
-| [July 29 at 8:28 AM](https://archive.org/download/apmreports-2022/apmreports-2022-07-29T08:28:16.271610-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 22 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 3 at 9:23 AM](https://archive.org/download/apmreports-2022/apmreports-2022-08-03T09:23:12.730006-05:00.lighthouse.json) |
 | [August 2 at 8:50 PM](https://archive.org/download/apmreports-2022/apmreports-2022-08-02T20:50:31.547053-05:00.lighthouse.json) |
 | [August 2 at 8:39 AM](https://archive.org/download/apmreports-2022/apmreports-2022-08-02T08:39:16.914691-05:00.lighthouse.json) |
 | [August 1 at 8:53 PM](https://archive.org/download/apmreports-2022/apmreports-2022-08-01T20:53:46.588556-05:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 30 at 9:43 PM](https://archive.org/download/apmreports-2022/apmreports-2022-07-30T21:42:58.231715-05:00.lighthouse.json) |
 | [July 30 at 8:30 AM](https://archive.org/download/apmreports-2022/apmreports-2022-07-30T08:30:17.843428-05:00.lighthouse.json) |
 | [July 29 at 8:17 PM](https://archive.org/download/apmreports-2022/apmreports-2022-07-29T20:17:44.416250-05:00.lighthouse.json) |
-| [July 29 at 8:28 AM](https://archive.org/download/apmreports-2022/apmreports-2022-07-29T08:28:16.271610-05:00.lighthouse.json) |
 
 
 

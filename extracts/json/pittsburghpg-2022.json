@@ -1,5 +1,5 @@
 {
-  "created": 1659547855,
+  "created": 1659616545,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/24/items/pittsburghpg-2022",
@@ -932,31 +932,83 @@
       "sha1": "992f4c21d2837abcf1cb45fd011a49eb258b4bea"
     },
     {
+      "name": "pittsburghpg-2022-08-04T00:32:42.660268-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659587566",
+      "size": "13030",
+      "md5": "482228c3e9a96c151060971a3513f8bc",
+      "crc32": "8388e6da",
+      "sha1": "bfda19517e3c67ba06a79a0464c152dc6182e856",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-08-04T00:32:42.660268-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659587567",
+      "size": "87212",
+      "md5": "0b6f3489c6fd8dfa73fcc49826dbef6b",
+      "crc32": "8d4a4614",
+      "sha1": "c2a7d513eba682c2ee8eedd71f43a9abe236658c",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-08-04T00:32:42.660268-04:00.jpg",
+      "source": "original",
+      "mtime": "1659587564",
+      "size": "303447",
+      "md5": "89627ccb4034216fbe6f2b8a9757bd67",
+      "crc32": "0cc36d30",
+      "sha1": "7133d95b06c065e825a7571727dfd2b16bdfdd51",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pittsburghpg-2022-08-04T00:32:42.660268-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659587569",
+      "size": "1512",
+      "md5": "3314e2cc11b4d561df85bc6f7366f67f",
+      "crc32": "102de72a",
+      "sha1": "92b9914af0d2c7738ce110204121aa5e04e48ea4",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-08-04T00:32:42.660268-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pittsburghpg-2022-08-04T00:32:42.660268-04:00.jpg",
+      "mtime": "1659587849",
+      "size": "9593",
+      "md5": "3705f8f39383ada197e2744453e96d9e",
+      "crc32": "6ad987bd",
+      "sha1": "26886fe55a2ecfc67511cdcd305a0b0021b91ae1"
+    },
+    {
       "name": "pittsburghpg-2022_archive.torrent",
       "source": "metadata",
-      "btih": "de98da378b4c56afb5c7e0f701b232be5085a058",
-      "mtime": "1659547824",
-      "size": "20596",
-      "md5": "b0d1a98eb17420b9d9e2761560cfb223",
-      "crc32": "232102b1",
-      "sha1": "59404162aa1226e7e74cc365bf6de7fc104a39d2",
+      "btih": "fc852f4a8d538e0f8addd35b9a0396c6dc1b8654",
+      "mtime": "1659587862",
+      "size": "21675",
+      "md5": "ec21eb31166f7ab34cd1884432785ad9",
+      "crc32": "6dc18bc1",
+      "sha1": "5ce4b15f81eb3f17fa5f2fd65cc8e4d363cad474",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pittsburghpg-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "506187ceffedbcf2b6e18f98cb1c3983",
+      "md5": "d43239a2843b84eae85d74e649fde399",
       "summation": "md5"
     },
     {
       "name": "pittsburghpg-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659546466",
-      "size": "135168",
-      "md5": "58b84f8e59a6965800f98f9abf7bf5e5",
-      "crc32": "b22a590d",
-      "sha1": "a83d0e4c063636d57b2eaef092a384403288b122",
+      "mtime": "1659587574",
+      "size": "139264",
+      "md5": "af3ef62351cc641d7e244364e83ac45c",
+      "crc32": "d826643c",
+      "sha1": "579c174e33bc5e19c1a62c38ac2beb99172dcb01",
       "format": "Metadata"
     },
     {
@@ -970,9 +1022,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 93,
-  "item_last_updated": 1659547824,
-  "item_size": 8280160,
+  "files_count": 98,
+  "item_last_updated": 1659587862,
+  "item_size": 8700129,
   "metadata": {
     "identifier": "pittsburghpg-2022",
     "collection": [
@@ -989,8 +1041,49 @@
     "publicdate": "2022-07-26 03:54:28",
     "addeddate": "2022-07-26 03:54:28"
   },
+  "pittsburghpg-2022": [
+    {
+      "url": "https://www.post-gazette.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_post_gazette_com-_-2022_08_04_04_06_04.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_post_gazette_com-_-2022_08_04_04_06_04.report.json",
+      "summary": {
+        "performance": 0.2,
+        "accessibility": 0.87,
+        "best-practices": 0.58,
+        "seo": 0.84,
+        "pwa": 0.7
+      }
+    },
+    {
+      "url": "https://www.post-gazette.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_post_gazette_com-_-2022_08_04_04_06_44.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_post_gazette_com-_-2022_08_04_04_06_44.report.json",
+      "summary": {
+        "performance": 0.21,
+        "accessibility": 0.87,
+        "best-practices": 0.58,
+        "seo": 0.84,
+        "pwa": 0.7
+      }
+    },
+    {
+      "url": "https://www.post-gazette.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_post_gazette_com-_-2022_08_04_04_07_15.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_post_gazette_com-_-2022_08_04_04_07_15.report.json",
+      "summary": {
+        "performance": 0.21,
+        "accessibility": 0.87,
+        "best-practices": 0.58,
+        "seo": 0.84,
+        "pwa": 0.7
+      }
+    }
+  ],
   "server": "ia801400.us.archive.org",
-  "uniq": 25187447,
+  "uniq": 1233515433,
   "workable_servers": [
     "ia801400.us.archive.org",
     "ia601400.us.archive.org"

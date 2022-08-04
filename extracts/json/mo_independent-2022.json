@@ -1,5 +1,5 @@
 {
-  "created": 1659573794,
+  "created": 1659616333,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/3/items/mo_independent-2022",
@@ -2839,21 +2839,32 @@
       "format": "JSON"
     },
     {
+      "name": "mo_independent-2022-08-03T19:42:18.800366-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mo_independent-2022-08-03T19:42:18.800366-05:00.jpg",
+      "mtime": "1659574257",
+      "size": "10444",
+      "md5": "9cb0c75ade340dfe8f13e0b956b04091",
+      "crc32": "5f224b9b",
+      "sha1": "4e03aba7469685a9b1683020d57f780790624322"
+    },
+    {
       "name": "mo_independent-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a896438a89f08a04d23a8551c0154f98336ff1d3",
-      "mtime": "1659573791",
-      "size": "60240",
-      "md5": "004484b967aef00b69ad9687a94d8a12",
-      "crc32": "ee5a8fb4",
-      "sha1": "c1f70defd9eac0062833cdf657f51c23b0e37de4",
+      "btih": "e41ae6e7b84da714fe30095b6108d1b44e794159",
+      "mtime": "1659574326",
+      "size": "60451",
+      "md5": "af955a26b67c592cbc65d92e8a3ec168",
+      "crc32": "7473ae8e",
+      "sha1": "c2b63ca043756c46ace19cba2072e979f4f0a8f8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mo_independent-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "970f7b2cd3c61b3af846a80d3e36f9d9",
+      "md5": "a880da1b4d9d4f4767d835a0d901664f",
       "summation": "md5"
     },
     {
@@ -2877,9 +2888,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 275,
-  "item_last_updated": 1659573791,
-  "item_size": 22702110,
+  "files_count": 276,
+  "item_last_updated": 1659574326,
+  "item_size": 22712765,
   "metadata": {
     "identifier": "mo_independent-2022",
     "collection": [
@@ -2896,21 +2907,51 @@
     "publicdate": "2022-07-04 21:56:43",
     "addeddate": "2022-07-04 21:56:43"
   },
-  "pending_tasks": true,
-  "server": "ia601405.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "mo_independent-2022": [
     {
-      "task_id": 3352007140,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "url": "https://missouriindependent.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/missouriindependent_com-_-2022_08_04_00_12_09.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/missouriindependent_com-_-2022_08_04_00_12_09.report.json",
+      "summary": {
+        "performance": 0.69,
+        "accessibility": 0.88,
+        "best-practices": 0.83,
+        "seo": 0.79,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://missouriindependent.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/missouriindependent_com-_-2022_08_04_00_12_20.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/missouriindependent_com-_-2022_08_04_00_12_20.report.json",
+      "summary": {
+        "performance": 0.71,
+        "accessibility": 0.88,
+        "best-practices": 0.83,
+        "seo": 0.79,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://missouriindependent.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/missouriindependent_com-_-2022_08_04_00_12_31.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/missouriindependent_com-_-2022_08_04_00_12_31.report.json",
+      "summary": {
+        "performance": 0.7,
+        "accessibility": 0.88,
+        "best-practices": 0.83,
+        "seo": 0.79,
+        "pwa": 0.4
+      }
     }
   ],
-  "uniq": 1438966046,
+  "server": "ia601405.us.archive.org",
+  "uniq": 24955663,
   "workable_servers": [
-    "ia601405.us.archive.org"
+    "ia601405.us.archive.org",
+    "ia801405.us.archive.org"
   ]
 }

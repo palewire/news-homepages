@@ -1,5 +1,5 @@
 {
-  "created": 1659552821,
+  "created": 1659588157,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/14/items/thedispatch-2022",
@@ -2530,31 +2530,83 @@
       "sha1": "7ac82e409dd2333357380b7deac6f476f95201d0"
     },
     {
+      "name": "thedispatch-2022-08-04T00:38:27.926020-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659587910",
+      "size": "16014",
+      "md5": "3d48bfdac20d635c98f4b5a55ae4c6fe",
+      "crc32": "cc3a0820",
+      "sha1": "d6f6b3f9cae83ca1bca362678d6ec2db33ee7cbb",
+      "format": "JSON"
+    },
+    {
+      "name": "thedispatch-2022-08-04T00:38:27.926020-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659587911",
+      "size": "14129",
+      "md5": "252091369ec92cab832335ac0c6cf0ce",
+      "crc32": "25cd4124",
+      "sha1": "777c4c81750b4ad58ba144fd71bb343233559d50",
+      "format": "JSON"
+    },
+    {
+      "name": "thedispatch-2022-08-04T00:38:27.926020-04:00.jpg",
+      "source": "original",
+      "mtime": "1659587909",
+      "size": "247558",
+      "md5": "b35cafe22077922fbbd7689180f466f8",
+      "crc32": "ad39ca6b",
+      "sha1": "99cad75548e990f9401134a9978d2650a80e28a6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thedispatch-2022-08-04T00:38:27.926020-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659587913",
+      "size": "1498",
+      "md5": "0332d7bdc2f49abfdd672970034f3f85",
+      "crc32": "eb4dde2f",
+      "sha1": "626be4c33c88f0cdde192d27667640149f79ae65",
+      "format": "JSON"
+    },
+    {
+      "name": "thedispatch-2022-08-04T00:38:27.926020-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thedispatch-2022-08-04T00:38:27.926020-04:00.jpg",
+      "mtime": "1659588138",
+      "size": "9255",
+      "md5": "ce4811e3c362bd7a674280ba1d1cb514",
+      "crc32": "e5cb3788",
+      "sha1": "0788c87d36019872c7827069ffc43aec2753160f"
+    },
+    {
       "name": "thedispatch-2022_archive.torrent",
       "source": "metadata",
-      "btih": "77580f74af098e079fbfd508228cfeb03c4eedb6",
-      "mtime": "1659552803",
-      "size": "53016",
-      "md5": "32c9d0632fa792ea9d291b394a84ab3d",
-      "crc32": "8d1bdb8e",
-      "sha1": "bc57c75b0be90365c365e034d6192e6a91614084",
+      "btih": "2e64fac9ce43c8da104581cb1f1729382ec821ec",
+      "mtime": "1659588146",
+      "size": "54070",
+      "md5": "70177ae1202e554760e4441a4f6444ca",
+      "crc32": "80650e8c",
+      "sha1": "57bb6723c9ee6b276d85165ed5941229c8d8720c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thedispatch-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "712a5bb6728b3fa7009075883577f898",
+      "md5": "6859105af70b6be2871e15a75ea0f9b5",
       "summation": "md5"
     },
     {
       "name": "thedispatch-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659552026",
-      "size": "311296",
-      "md5": "66d0634f777de50d8d854764931d02b2",
-      "crc32": "840d8a01",
-      "sha1": "5bd9b7772ad1d75e4b23cf9053d94bb0f1a32794",
+      "mtime": "1659587917",
+      "size": "319488",
+      "md5": "e8886313c69bed364143ce3562ccaeff",
+      "crc32": "cefa0a8a",
+      "sha1": "bc17fdbbaddd7ed948490844e39500b7e0c1eecd",
       "format": "Metadata"
     },
     {
@@ -2568,9 +2620,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 246,
-  "item_last_updated": 1659552803,
-  "item_size": 15819156,
+  "files_count": 251,
+  "item_last_updated": 1659588146,
+  "item_size": 16116856,
   "metadata": {
     "identifier": "thedispatch-2022",
     "collection": [
@@ -2587,10 +2639,10 @@
     "publicdate": "2022-07-17 15:04:01",
     "addeddate": "2022-07-17 15:04:01"
   },
-  "server": "ia801505.us.archive.org",
-  "uniq": 843482087,
+  "server": "ia601505.us.archive.org",
+  "uniq": 1586906329,
   "workable_servers": [
-    "ia801505.us.archive.org",
-    "ia601505.us.archive.org"
+    "ia601505.us.archive.org",
+    "ia801505.us.archive.org"
   ]
 }

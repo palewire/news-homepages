@@ -1,6 +1,5 @@
 {
-  "conflict": 1659573916,
-  "created": 1659573916,
+  "created": 1659616389,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/32/items/nettavisen-2022",
@@ -1606,29 +1605,51 @@
     "publicdate": "2022-07-20 11:37:15",
     "addeddate": "2022-07-20 11:37:15"
   },
-  "pending_tasks": true,
-  "server": "ia601503.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "nettavisen-2022": [
     {
-      "task_id": 3352007385,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "url": "https://www.nettavisen.no/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nettavisen_no-_-2022_08_04_00_13_50.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nettavisen_no-_-2022_08_04_00_13_50.report.json",
+      "summary": {
+        "performance": 0.25,
+        "accessibility": 0.89,
+        "best-practices": 0.92,
+        "seo": 0.93,
+        "pwa": 0.7
+      }
     },
     {
-      "task_id": 3352009703,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "url": "https://www.nettavisen.no/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nettavisen_no-_-2022_08_04_00_14_19.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nettavisen_no-_-2022_08_04_00_14_19.report.json",
+      "summary": {
+        "performance": 0.26,
+        "accessibility": 0.89,
+        "best-practices": 0.92,
+        "seo": 0.93,
+        "pwa": 0.7
+      }
+    },
+    {
+      "url": "https://www.nettavisen.no/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nettavisen_no-_-2022_08_04_00_14_48.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nettavisen_no-_-2022_08_04_00_14_48.report.json",
+      "summary": {
+        "performance": 0.24,
+        "accessibility": 0.89,
+        "best-practices": 0.92,
+        "seo": 0.93,
+        "pwa": 0.7
+      }
     }
   ],
-  "uniq": 1501737174,
+  "server": "ia801503.us.archive.org",
+  "uniq": 800128157,
   "workable_servers": [
+    "ia801503.us.archive.org",
     "ia601503.us.archive.org"
   ]
 }

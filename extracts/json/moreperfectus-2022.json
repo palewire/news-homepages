@@ -1,6 +1,5 @@
 {
-  "conflict": 1659573885,
-  "created": 1659573885,
+  "created": 1659616336,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/7/items/moreperfectus-2022",
@@ -1968,29 +1967,51 @@
     "publicdate": "2022-07-23 03:32:08",
     "addeddate": "2022-07-23 03:32:08"
   },
-  "pending_tasks": true,
-  "server": "ia601409.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "moreperfectus-2022": [
     {
-      "task_id": 3352005883,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "url": "https://perfectunion.us/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/perfectunion_us-_-2022_08_04_00_12_16.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/perfectunion_us-_-2022_08_04_00_12_16.report.json",
+      "summary": {
+        "performance": 0.18,
+        "accessibility": 0.92,
+        "best-practices": 0.75,
+        "seo": 0.93,
+        "pwa": 0.4
+      }
     },
     {
-      "task_id": 3352009020,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "url": "https://perfectunion.us/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/perfectunion_us-_-2022_08_04_00_12_45.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/perfectunion_us-_-2022_08_04_00_12_45.report.json",
+      "summary": {
+        "performance": 0.46,
+        "accessibility": 0.92,
+        "best-practices": 0.75,
+        "seo": 0.93,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://perfectunion.us/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/perfectunion_us-_-2022_08_04_00_12_32.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/perfectunion_us-_-2022_08_04_00_12_32.report.json",
+      "summary": {
+        "performance": 0.45,
+        "accessibility": 0.92,
+        "best-practices": 0.75,
+        "seo": 0.93,
+        "pwa": 0.4
+      }
     }
   ],
-  "uniq": 1377426327,
+  "server": "ia801409.us.archive.org",
+  "uniq": 1502857670,
   "workable_servers": [
+    "ia801409.us.archive.org",
     "ia601409.us.archive.org"
   ]
 }
