@@ -1,5 +1,5 @@
 {
-  "created": 1659509257,
+  "created": 1659573754,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/1/items/injusticewatch-2022",
@@ -3486,31 +3486,135 @@
       "sha1": "ad233e57cb8a147102e438c1438f0f3a5ef40e30"
     },
     {
+      "name": "injusticewatch-2022-08-03T11:58:08.893417-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659545894",
+      "size": "12937",
+      "md5": "22ad0c3406e80dec51db6835a7cd41da",
+      "crc32": "cc6698b6",
+      "sha1": "3e873cf68a5544009b5687b5a0576c900a03046d",
+      "format": "JSON"
+    },
+    {
+      "name": "injusticewatch-2022-08-03T11:58:08.893417-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659545896",
+      "size": "12700",
+      "md5": "c30b1f64db1e29c77798786a3963e3d0",
+      "crc32": "3afb5e78",
+      "sha1": "7ee18781dbd0be72d6edb189d9a0bd46fbd6982e",
+      "format": "JSON"
+    },
+    {
+      "name": "injusticewatch-2022-08-03T11:58:08.893417-05:00.jpg",
+      "source": "original",
+      "mtime": "1659545892",
+      "size": "303019",
+      "md5": "ceabbe263f2ba333db86f2dbf9b2ed65",
+      "crc32": "5c6ccb74",
+      "sha1": "e117363e19b2373ce8c42d2751ae9ebe9341ec72",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "injusticewatch-2022-08-03T11:58:08.893417-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659545898",
+      "size": "1519",
+      "md5": "a94caea5c7c6b416745b330f7cb563eb",
+      "crc32": "474e55e1",
+      "sha1": "f5b33108f59143dbef1b3c56e9a272a6008bd0a4",
+      "format": "JSON"
+    },
+    {
+      "name": "injusticewatch-2022-08-03T11:58:08.893417-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "injusticewatch-2022-08-03T11:58:08.893417-05:00.jpg",
+      "mtime": "1659547615",
+      "size": "9431",
+      "md5": "9fb9c97c674e46c73ce722c0f37a3a72",
+      "crc32": "a47638d4",
+      "sha1": "143bb329b380f40748b18fa75165be9b71474529"
+    },
+    {
+      "name": "injusticewatch-2022-08-03T12:37:15.562761-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659548239",
+      "size": "12938",
+      "md5": "97b54cd1e8c424a190101b8f411741e1",
+      "crc32": "f5a5d2b0",
+      "sha1": "37ed9cc542eb6b7e8377cf085faaebedec618abf",
+      "format": "JSON"
+    },
+    {
+      "name": "injusticewatch-2022-08-03T12:37:15.562761-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659548241",
+      "size": "12700",
+      "md5": "c30b1f64db1e29c77798786a3963e3d0",
+      "crc32": "3afb5e78",
+      "sha1": "7ee18781dbd0be72d6edb189d9a0bd46fbd6982e",
+      "format": "JSON"
+    },
+    {
+      "name": "injusticewatch-2022-08-03T12:37:15.562761-05:00.jpg",
+      "source": "original",
+      "mtime": "1659548237",
+      "size": "302968",
+      "md5": "fb128d4ccce1a1dde0c480608a5453cf",
+      "crc32": "1d5aaec0",
+      "sha1": "4e5b025bc7a4146ad038fa2a15ce9775d4d746cf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "injusticewatch-2022-08-03T12:37:15.562761-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659548243",
+      "size": "1519",
+      "md5": "596f8401b987257e50c5f02148e17018",
+      "crc32": "860aac9f",
+      "sha1": "83a9dbc455b07c7d180c41a6e6f85ec00777f995",
+      "format": "JSON"
+    },
+    {
+      "name": "injusticewatch-2022-08-03T12:37:15.562761-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "injusticewatch-2022-08-03T12:37:15.562761-05:00.jpg",
+      "mtime": "1659549625",
+      "size": "9432",
+      "md5": "976828a1ec6429d562a613ca6f846b5a",
+      "crc32": "3e408a4d",
+      "sha1": "d8250e65c77910a18671ee9d70481dca2b2c578e"
+    },
+    {
       "name": "injusticewatch-2022_archive.torrent",
       "source": "metadata",
-      "btih": "88a24a72ade3ef2c86984f151664796366025638",
-      "mtime": "1659509246",
-      "size": "73627",
-      "md5": "8977cb2388db490a28a2e95b78fde7db",
-      "crc32": "49393002",
-      "sha1": "9c5f993cf0a4e999b4385b19d3a4a19a735852da",
+      "btih": "d625f9686d24d574a4f8a3454e5fef06cb4bbc43",
+      "mtime": "1659549631",
+      "size": "75785",
+      "md5": "24e77bc9279e4293962b473e39a0e0dd",
+      "crc32": "80dc3bee",
+      "sha1": "1b1e74693d502d9e5d7bcab994b997701974772a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "injusticewatch-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "52745a2af618ef944219d027dd6e5209",
+      "md5": "db3bff3db548cc1614794e1a2bb21433",
       "summation": "md5"
     },
     {
       "name": "injusticewatch-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659501109",
-      "size": "417792",
-      "md5": "6c4aa5507f287ac171cb0c0802cf9979",
-      "crc32": "84a8e389",
-      "sha1": "e27599af1072e2919d832bf0be947821a624dd9e",
+      "mtime": "1659548828",
+      "size": "430080",
+      "md5": "0d1af05d24ada15a5ead34a15b07710a",
+      "crc32": "60e168e3",
+      "sha1": "52d938240902bcd60da413e42e58278ce41b7875",
       "format": "Metadata"
     },
     {
@@ -3524,9 +3628,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 337,
-  "item_last_updated": 1659509246,
-  "item_size": 28141742,
+  "files_count": 347,
+  "injusticewatch-2022": [
+    {
+      "url": "https://www.injusticewatch.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_injusticewatch_org-_-2022_08_03_17_25_18.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_injusticewatch_org-_-2022_08_03_17_25_18.report.json",
+      "summary": {
+        "performance": 0.59,
+        "accessibility": 0.9,
+        "best-practices": 1,
+        "seo": 0.91,
+        "pwa": 0.8
+      }
+    },
+    {
+      "url": "https://www.injusticewatch.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_injusticewatch_org-_-2022_08_03_17_25_30.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_injusticewatch_org-_-2022_08_03_17_25_30.report.json",
+      "summary": {
+        "performance": 0.78,
+        "accessibility": 0.9,
+        "best-practices": 1,
+        "seo": 0.91,
+        "pwa": 0.8
+      }
+    },
+    {
+      "url": "https://www.injusticewatch.org/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_injusticewatch_org-_-2022_08_03_17_25_41.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_injusticewatch_org-_-2022_08_03_17_25_41.report.json",
+      "summary": {
+        "performance": 0.85,
+        "accessibility": 0.9,
+        "best-practices": 1,
+        "seo": 0.91,
+        "pwa": 0.8
+      }
+    }
+  ],
+  "item_last_updated": 1659549631,
+  "item_size": 28835351,
   "metadata": {
     "identifier": "injusticewatch-2022",
     "collection": [
@@ -3544,7 +3689,7 @@
     "addeddate": "2022-07-09 03:59:21"
   },
   "server": "ia802508.us.archive.org",
-  "uniq": 1683504763,
+  "uniq": 171830396,
   "workable_servers": [
     "ia802508.us.archive.org",
     "ia902508.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1659509232,
+  "created": 1659547111,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/3/items/hartfordcourant-2022",
@@ -756,31 +756,83 @@
       "sha1": "37332badbbe8457e58d0c4af791f7b8665a624f2"
     },
     {
+      "name": "hartfordcourant-2022-08-03T12:57:19.134753-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659545843",
+      "size": "62468",
+      "md5": "eff2b10b6b964962646e80fd2196064d",
+      "crc32": "62fded1f",
+      "sha1": "3dafce8712172e6056197172b29a111476493ba6",
+      "format": "JSON"
+    },
+    {
+      "name": "hartfordcourant-2022-08-03T12:57:19.134753-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659545845",
+      "size": "73170",
+      "md5": "b1bf62fba2c0e0b5a25e099b1beee3e7",
+      "crc32": "710583ff",
+      "sha1": "7a00d4a4b0c804562630d006d7a91c2e37545bc8",
+      "format": "JSON"
+    },
+    {
+      "name": "hartfordcourant-2022-08-03T12:57:19.134753-04:00.jpg",
+      "source": "original",
+      "mtime": "1659545841",
+      "size": "255140",
+      "md5": "ae0e7baa09dd4d449755fba694bc310a",
+      "crc32": "96c41f9c",
+      "sha1": "19008f1191db07e51eed586b6ee1eb34be4a709d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hartfordcourant-2022-08-03T12:57:19.134753-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659545846",
+      "size": "1468",
+      "md5": "46325b9f49c81a724a42882b68287ee1",
+      "crc32": "35da5a07",
+      "sha1": "d56ab61708cac6323ff32c5494858f0e682f92c0",
+      "format": "JSON"
+    },
+    {
+      "name": "hartfordcourant-2022-08-03T12:57:19.134753-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hartfordcourant-2022-08-03T12:57:19.134753-04:00.jpg",
+      "mtime": "1659547037",
+      "size": "9228",
+      "md5": "e773946abc9b0cf869baef5e0dfb5352",
+      "crc32": "0c9c3310",
+      "sha1": "eb4a56353531166626d9838aeeb6be58735c5072"
+    },
+    {
       "name": "hartfordcourant-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d8a2750bcb61936ebc01d0d0d28362c00da39c96",
-      "mtime": "1659509196",
-      "size": "17143",
-      "md5": "72b20907ed3d480730eabd4a9f9a2874",
-      "crc32": "4af0a4f0",
-      "sha1": "d7bb6384eed740beabd8b0cabc0ecadb5f0d2e23",
+      "btih": "83a74c25278a169c533662987003dd4107ec0b95",
+      "mtime": "1659547040",
+      "size": "18217",
+      "md5": "474cb92b39d9fa497549a6e0671f70e7",
+      "crc32": "a5b73e82",
+      "sha1": "b76da9749ff0bfaa794cfc82a19dca3b6fcbb4e4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hartfordcourant-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "17a3afa6ab04e83403877d79757a6094",
+      "md5": "193731e5aa3e919f493954c777ae8440",
       "summation": "md5"
     },
     {
       "name": "hartfordcourant-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659501063",
-      "size": "106496",
-      "md5": "c11fbf633341d5a841e07aa99c6b8411",
-      "crc32": "245f76a2",
-      "sha1": "6f15529c7f19abfd87171d9199f34a03d25238a4",
+      "mtime": "1659545851",
+      "size": "118784",
+      "md5": "d5ea2e5eee7bdb3badcd767b554dd70c",
+      "crc32": "0525fc68",
+      "sha1": "0a4f0b25af77170a7310f38853aacda05be3183b",
       "format": "Metadata"
     },
     {
@@ -794,9 +846,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 76,
-  "item_last_updated": 1659509196,
-  "item_size": 5794280,
+  "files_count": 81,
+  "item_last_updated": 1659547040,
+  "item_size": 6209116,
   "metadata": {
     "identifier": "hartfordcourant-2022",
     "collection": [
@@ -813,10 +865,10 @@
     "publicdate": "2022-07-27 02:38:23",
     "addeddate": "2022-07-27 02:38:23"
   },
-  "server": "ia601500.us.archive.org",
-  "uniq": 2054242021,
+  "server": "ia801500.us.archive.org",
+  "uniq": 44989414,
   "workable_servers": [
-    "ia601500.us.archive.org",
-    "ia801500.us.archive.org"
+    "ia801500.us.archive.org",
+    "ia601500.us.archive.org"
   ]
 }

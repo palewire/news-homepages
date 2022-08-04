@@ -1,5 +1,46 @@
 {
-  "created": 1659530355,
+  "civilbeat-2022": [
+    {
+      "url": "https://www.civilbeat.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_civilbeat_org-_-2022_08_03_22_53_38.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_civilbeat_org-_-2022_08_03_22_53_38.report.json",
+      "summary": {
+        "performance": 0.16,
+        "accessibility": 0.61,
+        "best-practices": 0.75,
+        "seo": 0.86,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.civilbeat.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_civilbeat_org-_-2022_08_03_22_54_17.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_civilbeat_org-_-2022_08_03_22_54_17.report.json",
+      "summary": {
+        "performance": 0.23,
+        "accessibility": 0.61,
+        "best-practices": 0.75,
+        "seo": 0.86,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.civilbeat.org/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_civilbeat_org-_-2022_08_03_22_53_59.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_civilbeat_org-_-2022_08_03_22_53_59.report.json",
+      "summary": {
+        "performance": 0.27,
+        "accessibility": 0.61,
+        "best-practices": 0.75,
+        "seo": 0.86,
+        "pwa": 0.3
+      }
+    }
+  ],
+  "created": 1659573504,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/20/items/civilbeat-2022",
@@ -2409,31 +2450,94 @@
       "format": "JSON"
     },
     {
+      "name": "civilbeat-2022-08-03T02:38:27.981269-10:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "civilbeat-2022-08-03T02:38:27.981269-10:00.jpg",
+      "mtime": "1659535044",
+      "size": "10124",
+      "md5": "fe8226a178020c24c9a29e3bcd3d82f0",
+      "crc32": "54485b16",
+      "sha1": "6f9ee9aa7dc76a189a13cf61c3bc4a3118f2d73c"
+    },
+    {
+      "name": "civilbeat-2022-08-03T13:20:55.392421-10:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659568859",
+      "size": "35821",
+      "md5": "28bf89dde69d25fe4cd93b50bad2f8d1",
+      "crc32": "e36e5f07",
+      "sha1": "25c573ec9601ba5fef69253eed941fb8265cc341",
+      "format": "JSON"
+    },
+    {
+      "name": "civilbeat-2022-08-03T13:20:55.392421-10:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659568860",
+      "size": "68826",
+      "md5": "6889f60d3053ad8943867bd15eda103d",
+      "crc32": "607cee12",
+      "sha1": "64a6da7f4b5c5ffb7d4dc4a6b1bc28d217eb0fce",
+      "format": "JSON"
+    },
+    {
+      "name": "civilbeat-2022-08-03T13:20:55.392421-10:00.jpg",
+      "source": "original",
+      "mtime": "1659568857",
+      "size": "269069",
+      "md5": "09dbf19a7d315fbe043fa3906378c1ee",
+      "crc32": "c4efe64c",
+      "sha1": "cc5f3c266cf1b80487178065a29d8357cab95ee5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "civilbeat-2022-08-03T13:20:55.392421-10:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659568862",
+      "size": "1486",
+      "md5": "71f785c9f10ef151ac71dccddd48b008",
+      "crc32": "3ffc1007",
+      "sha1": "0cf8fbd7c4be2526be7bd2be98326cedade3cf48",
+      "format": "JSON"
+    },
+    {
+      "name": "civilbeat-2022-08-03T13:20:55.392421-10:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "civilbeat-2022-08-03T13:20:55.392421-10:00.jpg",
+      "mtime": "1659568931",
+      "size": "9656",
+      "md5": "928369afcf1d9ccd10c453c5909d1f0f",
+      "crc32": "5696b3dc",
+      "sha1": "5d638fc7f8b0cac91a4aa4f9fdcfa08dd817456b"
+    },
+    {
       "name": "civilbeat-2022_archive.torrent",
       "source": "metadata",
-      "btih": "af2858a84bd7dad83c33a907cdea612b99e86dad",
-      "mtime": "1659530353",
-      "size": "50074",
-      "md5": "ef6459142932421c73eeaf28a9aa2d48",
-      "crc32": "4d26a327",
-      "sha1": "fce6a1eaf45a871a6909d876882bc3d3dbc4aa0f",
+      "btih": "14512c08d87ae3d9faed81db2d279a9799710026",
+      "mtime": "1659568940",
+      "size": "51324",
+      "md5": "d7248b46cb58abe6e602221d27939f59",
+      "crc32": "738a158d",
+      "sha1": "9f24a5abc7039279fa6a1703b303080b767ed7dc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "civilbeat-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f52511e1f9fc128c92abcd7148d27248",
+      "md5": "056e6add0d111562db62c5f8ce90e2fe",
       "summation": "md5"
     },
     {
       "name": "civilbeat-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659530318",
-      "size": "294912",
-      "md5": "f6612cb0814f1158c6871cba4953c4a6",
-      "crc32": "d510b414",
-      "sha1": "95ba5ff2a06b1d7f22c70f6bcb541687864a5ef5",
+      "mtime": "1659568867",
+      "size": "299008",
+      "md5": "68fe06488076966d3733897f31c89a60",
+      "crc32": "96c899fe",
+      "sha1": "bac0353bdcc5083e327f197a3e4fa96a28b36652",
       "format": "Metadata"
     },
     {
@@ -2447,9 +2551,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 234,
-  "item_last_updated": 1659530353,
-  "item_size": 17952302,
+  "files_count": 240,
+  "item_last_updated": 1659568940,
+  "item_size": 18352630,
   "metadata": {
     "identifier": "civilbeat-2022",
     "collection": [
@@ -2466,21 +2570,10 @@
     "publicdate": "2022-07-09 03:57:02",
     "addeddate": "2022-07-09 03:57:02"
   },
-  "pending_tasks": true,
-  "server": "ia601405.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3351409061,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1475404198,
+  "server": "ia801405.us.archive.org",
+  "uniq": 1099774795,
   "workable_servers": [
+    "ia801405.us.archive.org",
     "ia601405.us.archive.org"
   ]
 }

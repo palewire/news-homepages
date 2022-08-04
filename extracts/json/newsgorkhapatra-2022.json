@@ -1,6 +1,6 @@
 {
-  "conflict": 1659531192,
-  "created": 1659531192,
+  "conflict": 1659573822,
+  "created": 1659573822,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/0/items/newsgorkhapatra-2022",
@@ -1035,31 +1035,83 @@
       "sha1": "5fee9da61997ed49160190aaf399dce7174da75c"
     },
     {
+      "name": "newsgorkhapatra-2022-08-03T18:38:07.622922+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1659531193",
+      "size": "98441",
+      "md5": "4f67f86d03fac49f0520ce9207601d90",
+      "crc32": "e02eeccc",
+      "sha1": "8998db0172662fbd1b8433349d8d9fb336c616f7",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-08-03T18:38:07.622922+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659531194",
+      "size": "69729",
+      "md5": "ec3aae14c317def2fcca69799461d567",
+      "crc32": "3f7604a5",
+      "sha1": "3b1490c11f65542dfb8377a7b994ca10b6d1a2b4",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-08-03T18:38:07.622922+05:45.jpg",
+      "source": "original",
+      "mtime": "1659531191",
+      "size": "258778",
+      "md5": "5003c8895aeff47adcfd6f4c2722c29e",
+      "crc32": "ef9e5a87",
+      "sha1": "a7ce22cf47a277e8653fc9caf5e8407ebf9fb187",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newsgorkhapatra-2022-08-03T18:38:07.622922+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1659531196",
+      "size": "1519",
+      "md5": "e74206a1357563c062d8baeed3ca9977",
+      "crc32": "3b155008",
+      "sha1": "8ad6b035acf9f019591106c49e255eaae9ac2048",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-08-03T18:38:07.622922+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newsgorkhapatra-2022-08-03T18:38:07.622922+05:45.jpg",
+      "mtime": "1659535899",
+      "size": "9833",
+      "md5": "3d486d0401953fe5ebda2f6c47a189ba",
+      "crc32": "41385342",
+      "sha1": "c086ea8b2bc718bfc83d6b37e665c9ebeb800581"
+    },
+    {
       "name": "newsgorkhapatra-2022_archive.torrent",
       "source": "metadata",
-      "btih": "603ded8413e1a3560fdf611c5bdbda5c81f64e30",
-      "mtime": "1659499089",
-      "size": "23085",
-      "md5": "5ad68f42218ce5ad132b1507d3841a72",
-      "crc32": "e59c7ee2",
-      "sha1": "49a67014d994a47ab265a9a7cb1b68fab96c38ce",
+      "btih": "2261cb05472f08f6a3208ced88447f421d7569fc",
+      "mtime": "1659535907",
+      "size": "24159",
+      "md5": "d852aa3d6519e2ed3f1b66e7dbb6a82b",
+      "crc32": "b5fa442e",
+      "sha1": "e3e4d923974bcf2c5d34569041247675bb457505",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newsgorkhapatra-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bd6dfafc9615eb6e99166ec821b78bd2",
+      "md5": "d66177997d3a4cb0e7e22101eaa98268",
       "summation": "md5"
     },
     {
       "name": "newsgorkhapatra-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659487218",
-      "size": "147456",
-      "md5": "743047a24a5a677032808f0efbc364e1",
-      "crc32": "f3b3c765",
-      "sha1": "a6c403aef50d423c77a20f4447ea27f6b4061569",
+      "mtime": "1659531201",
+      "size": "151552",
+      "md5": "a13e98b8ef58a17164006b7220668abf",
+      "crc32": "d0b8a557",
+      "sha1": "8b285c77cbff5d05b98f970e1f3b41bd89d90587",
       "format": "Metadata"
     },
     {
@@ -1073,9 +1125,10 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 103,
-  "item_last_updated": 1659499089,
-  "item_size": 8492815,
+  "files_count": 108,
+  "has_redrow": true,
+  "item_last_updated": 1659535907,
+  "item_size": 8936285,
   "metadata": {
     "identifier": "newsgorkhapatra-2022",
     "collection": [
@@ -1097,15 +1150,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3351416474,
+      "task_id": 3352007682,
       "cmd": "archive.php",
       "priority": -5,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "wait_admin": 2,
+      "color": "red",
+      "status": "error"
     }
   ],
-  "uniq": 612150922,
+  "uniq": 2131875987,
   "workable_servers": [
     "ia902501.us.archive.org"
   ]

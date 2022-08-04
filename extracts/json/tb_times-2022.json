@@ -1,5 +1,5 @@
 {
-  "created": 1659531462,
+  "created": 1659574140,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/12/items/tb_times-2022",
@@ -900,31 +900,83 @@
       "sha1": "4cbf5c0dfa432926a0faeb8b2abde48cf0e7d8fc"
     },
     {
+      "name": "tb_times-2022-08-03T13:12:08.997437-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659546731",
+      "size": "40898",
+      "md5": "949d2802fb2d1857d07bfdb897ea91b6",
+      "crc32": "5569beb1",
+      "sha1": "2cd75f93065009b8d86195826eb602c727dd584d",
+      "format": "JSON"
+    },
+    {
+      "name": "tb_times-2022-08-03T13:12:08.997437-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659546733",
+      "size": "34394",
+      "md5": "d393a32559805ac2ba0882d3d9553136",
+      "crc32": "5735e677",
+      "sha1": "7b5a2de93dd232861fee181bcd9c024852ae73b7",
+      "format": "JSON"
+    },
+    {
+      "name": "tb_times-2022-08-03T13:12:08.997437-04:00.jpg",
+      "source": "original",
+      "mtime": "1659546730",
+      "size": "291739",
+      "md5": "38074a2a097ce00e23382196ea07b4e8",
+      "crc32": "7f779eff",
+      "sha1": "a5e83a49d7cbb4c600f1c6f7042d0851f44decfe",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tb_times-2022-08-03T13:12:08.997437-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659546735",
+      "size": "1477",
+      "md5": "260d4769439b610b0baec8b9b72b3412",
+      "crc32": "813a1253",
+      "sha1": "a1f859d0d0b0b6cfacb4d8de115308c3d5eeab20",
+      "format": "JSON"
+    },
+    {
+      "name": "tb_times-2022-08-03T13:12:08.997437-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tb_times-2022-08-03T13:12:08.997437-04:00.jpg",
+      "mtime": "1659547856",
+      "size": "10222",
+      "md5": "b1b511f3615fe6d3a72621f918029c62",
+      "crc32": "60a8b394",
+      "sha1": "d452e1410cade2c831ce1a9500afb0a4c6de2a96"
+    },
+    {
       "name": "tb_times-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e8f50af5818ee6ff012a74af2e1738373743dc67",
-      "mtime": "1659510423",
-      "size": "19568",
-      "md5": "619049f3c86fa84b01989015e47405e8",
-      "crc32": "419da822",
-      "sha1": "aeb3c8af02dff3ca7728ebf621ef6d871f4ae8e4",
+      "btih": "dc8c7067d81b9bc454950331460077be2f0d86e5",
+      "mtime": "1659547861",
+      "size": "20628",
+      "md5": "372dc7c0884bec1379713619632dba9f",
+      "crc32": "a10bc59d",
+      "sha1": "eae72735d94f04f47cf0c2e2b0f2e9043c34a123",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tb_times-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6c731e536ea3896161f81b5857208a69",
+      "md5": "df62f01adaef591539ad982ec8f7d33e",
       "summation": "md5"
     },
     {
       "name": "tb_times-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659501900",
-      "size": "131072",
-      "md5": "7eb4051831a3f41341be5fd83b4fcba1",
-      "crc32": "fa0fce78",
-      "sha1": "bba9745a3489de73ce92ffbeedf145f29b759a21",
+      "mtime": "1659546742",
+      "size": "135168",
+      "md5": "cf2be775dfae375aafbe7cdde6ffc3f8",
+      "crc32": "6f5681ab",
+      "sha1": "1a4190e19c9af94fcd1851d3d125ab63239b1dad",
       "format": "Metadata"
     },
     {
@@ -938,9 +990,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 90,
-  "item_last_updated": 1659510423,
-  "item_size": 7003360,
+  "files_count": 95,
+  "item_last_updated": 1659547861,
+  "item_size": 7387246,
   "metadata": {
     "identifier": "tb_times-2022",
     "collection": [
@@ -962,21 +1014,8 @@
     {
       "url": "https://www.tampabay.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_tampabay_com-_-2022_08_03_04_05_56.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_tampabay_com-_-2022_08_03_04_05_56.report.json",
-      "summary": {
-        "performance": 0.19,
-        "accessibility": 0.78,
-        "best-practices": 0.58,
-        "seo": 0.92,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.tampabay.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_tampabay_com-_-2022_08_03_04_07_09.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_tampabay_com-_-2022_08_03_04_07_09.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_tampabay_com-_-2022_08_03_16_22_01.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_tampabay_com-_-2022_08_03_16_22_01.report.json",
       "summary": {
         "performance": 0.21,
         "accessibility": 0.78,
@@ -987,11 +1026,24 @@
     },
     {
       "url": "https://www.tampabay.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_tampabay_com-_-2022_08_03_04_06_32.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_tampabay_com-_-2022_08_03_04_06_32.report.json",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_tampabay_com-_-2022_08_03_16_23_50.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_tampabay_com-_-2022_08_03_16_23_50.report.json",
       "summary": {
-        "performance": 0.2,
+        "performance": 0.24,
+        "accessibility": 0.78,
+        "best-practices": 0.58,
+        "seo": 0.92,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.tampabay.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_tampabay_com-_-2022_08_03_16_23_19.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_tampabay_com-_-2022_08_03_16_23_19.report.json",
+      "summary": {
+        "performance": 0.21,
         "accessibility": 0.78,
         "best-practices": 0.58,
         "seo": 0.92,
@@ -999,7 +1051,7 @@
       }
     }
   ],
-  "uniq": 1826000116,
+  "uniq": 1989447760,
   "workable_servers": [
     "ia802508.us.archive.org",
     "ia902508.us.archive.org"

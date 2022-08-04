@@ -1,5 +1,5 @@
 {
-  "created": 1659509861,
+  "created": 1659573784,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/1/items/kerrville-2022",
@@ -1634,31 +1634,73 @@
       "sha1": "5c5909187d22c276933f0780ecc2b24ec9a353db"
     },
     {
+      "name": "kerrville-2022-08-03T12:00:11.459779-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659546015",
+      "size": "85140",
+      "md5": "948a94c2d2487c6982eba5aaad133e35",
+      "crc32": "a44ca4b9",
+      "sha1": "b94e812f44b12253ede3e2cdf2f4ba1ff43c2b5c",
+      "format": "JSON"
+    },
+    {
+      "name": "kerrville-2022-08-03T12:00:11.459779-05:00.jpg",
+      "source": "original",
+      "mtime": "1659546013",
+      "size": "332072",
+      "md5": "f6fd11d6f4fd8488fd9cfedc83d668b1",
+      "crc32": "07ec93e7",
+      "sha1": "229235554966039f25ea4e6e0675e3ac96983d08",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kerrville-2022-08-03T12:00:11.459779-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659546017",
+      "size": "1459",
+      "md5": "b159a1f7b1dd8392ff758cc9ef430431",
+      "crc32": "f95b0e0f",
+      "sha1": "011db410503c9cbe433e3747a1de24f91366f348",
+      "format": "JSON"
+    },
+    {
+      "name": "kerrville-2022-08-03T12:00:11.459779-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kerrville-2022-08-03T12:00:11.459779-05:00.jpg",
+      "mtime": "1659547056",
+      "size": "9824",
+      "md5": "4ef6d883dfe43049e376ef8eee685b1a",
+      "crc32": "2c1b1671",
+      "sha1": "de8ef4c030a98424d181f9abd9f8b449d8aef07b"
+    },
+    {
       "name": "kerrville-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a3c20d88526ebeaa6cd1f100a534d44bc9772f89",
-      "mtime": "1659509754",
-      "size": "34697",
-      "md5": "2e3015d21eccd9d64ccbd8c6406fc05a",
-      "crc32": "b77756a9",
-      "sha1": "68cc9e0bd30d7491fc5c95c673b7a03115793e13",
+      "btih": "7f19b9f07212af80a739ec1fe0c7004e1ebcc070",
+      "mtime": "1659547063",
+      "size": "35529",
+      "md5": "3cbe96b2fd09382f0dbdfaacec6b5c41",
+      "crc32": "b1e028af",
+      "sha1": "a5c79fc00ac65d4188c448d332eab069abd901e0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kerrville-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fbef0c7cf05de76b37d86e1452ba64f5",
+      "md5": "2dfd33835ceae539356de6f56ae32466",
       "summation": "md5"
     },
     {
       "name": "kerrville-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659501220",
-      "size": "208896",
-      "md5": "41e2aae9a577c6d3d85904af9a46d515",
-      "crc32": "380002e4",
-      "sha1": "03672348654a1bd7503bdbbf23cb7067c1b4f64b",
+      "mtime": "1659546020",
+      "size": "212992",
+      "md5": "4df556c745f2a04f5b49e8b7c167027e",
+      "crc32": "fbb9fabe",
+      "sha1": "2bc4cac9d02d7203f609b90f7456dba86aa629cd",
       "format": "Metadata"
     },
     {
@@ -1672,9 +1714,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 160,
-  "item_last_updated": 1659509754,
-  "item_size": 18428488,
+  "files_count": 164,
+  "item_last_updated": 1659547063,
+  "item_size": 18861911,
+  "kerrville-2022": [
+    {
+      "url": "https://dailytimes.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/dailytimes_com-_-2022_08_03_15_26_08.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/dailytimes_com-_-2022_08_03_15_26_08.report.json",
+      "summary": {
+        "performance": 0.17,
+        "accessibility": 0.87,
+        "best-practices": 0.92,
+        "seo": 0.67,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://dailytimes.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/dailytimes_com-_-2022_08_03_15_27_00.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/dailytimes_com-_-2022_08_03_15_27_00.report.json",
+      "summary": {
+        "performance": 0.15,
+        "accessibility": 0.87,
+        "best-practices": 0.92,
+        "seo": 0.67,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://dailytimes.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/dailytimes_com-_-2022_08_03_15_26_35.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/dailytimes_com-_-2022_08_03_15_26_35.report.json",
+      "summary": {
+        "performance": 0.18,
+        "accessibility": 0.87,
+        "best-practices": 0.92,
+        "seo": 0.67,
+        "pwa": 0.4
+      }
+    }
+  ],
   "metadata": {
     "identifier": "kerrville-2022",
     "collection": [
@@ -1691,10 +1774,10 @@
     "publicdate": "2022-07-18 00:04:49",
     "addeddate": "2022-07-18 00:04:49"
   },
-  "server": "ia601501.us.archive.org",
-  "uniq": 1800025503,
+  "server": "ia801501.us.archive.org",
+  "uniq": 1992712309,
   "workable_servers": [
-    "ia601501.us.archive.org",
-    "ia801501.us.archive.org"
+    "ia801501.us.archive.org",
+    "ia601501.us.archive.org"
   ]
 }

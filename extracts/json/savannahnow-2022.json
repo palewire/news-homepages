@@ -1,5 +1,5 @@
 {
-  "created": 1659498548,
+  "created": 1659536059,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/29/items/savannahnow-2022",
@@ -1372,31 +1372,83 @@
       "sha1": "c7fe704dd55e9e990a9144a83dca6f04661e5ad8"
     },
     {
+      "name": "savannahnow-2022-08-03T08:57:54.743664-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659531477",
+      "size": "22551",
+      "md5": "29527f389eaaed13a18c75d21b63ea4e",
+      "crc32": "24aff48a",
+      "sha1": "1fe8001025b9930068ae00d52445b125173175e6",
+      "format": "JSON"
+    },
+    {
+      "name": "savannahnow-2022-08-03T08:57:54.743664-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659531478",
+      "size": "35220",
+      "md5": "5340ef19a54c6fde0f0bd02ca49123fa",
+      "crc32": "612be6f5",
+      "sha1": "5cf89e92de35e530470e2a5b8e6cfe05baa344a2",
+      "format": "JSON"
+    },
+    {
+      "name": "savannahnow-2022-08-03T08:57:54.743664-04:00.jpg",
+      "source": "original",
+      "mtime": "1659531475",
+      "size": "258277",
+      "md5": "64b057475f681c1936bc56bddf96a2ff",
+      "crc32": "4d546944",
+      "sha1": "e0d6ee60f1f2394856575be48b87d1edc6350857",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "savannahnow-2022-08-03T08:57:54.743664-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659531480",
+      "size": "1495",
+      "md5": "1148c476d8384f94e06a00dac1376276",
+      "crc32": "c2dcb6b0",
+      "sha1": "a040ce42593bd4e804f58415dfab95f143a7a62b",
+      "format": "JSON"
+    },
+    {
+      "name": "savannahnow-2022-08-03T08:57:54.743664-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "savannahnow-2022-08-03T08:57:54.743664-04:00.jpg",
+      "mtime": "1659536035",
+      "size": "9275",
+      "md5": "23c483d7a543909ad7bbc9804e5c529b",
+      "crc32": "ea45e1b8",
+      "sha1": "7620174aa3fc9b1477631538e9d30fe0bb8ab280"
+    },
+    {
       "name": "savannahnow-2022_archive.torrent",
       "source": "metadata",
-      "btih": "55664d550a0c70d1febecfc881c8d5b002302e5e",
-      "mtime": "1659498509",
-      "size": "29394",
-      "md5": "6d5430ed75baa7d1a8187bd41c359e8e",
-      "crc32": "7c7fc142",
-      "sha1": "581328a7a46751f90793585c0c8e40277e178980",
+      "btih": "ddb7f4f88cd4636d37a8a89ac2906bb488fbd318",
+      "mtime": "1659536047",
+      "size": "30448",
+      "md5": "8d90c032b5054e865371493daa1b0320",
+      "crc32": "39af00a0",
+      "sha1": "10f97b8e0ae552f25647275edd830d23ba71a8f2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "savannahnow-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a810517325f934669916ea386e531c14",
+      "md5": "b491895ad67e195f17b08a2297a31e6e",
       "summation": "md5"
     },
     {
       "name": "savannahnow-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659487414",
-      "size": "176128",
-      "md5": "dc47121930a7273fbdedcb117714273c",
-      "crc32": "4dcfc3ea",
-      "sha1": "2eca3284ffbc6727cbe6d70146c08d81819f5ac9",
+      "mtime": "1659531484",
+      "size": "188416",
+      "md5": "0477ff0a5b7887ae6cb1ad1a59d1bbb0",
+      "crc32": "7509446f",
+      "sha1": "564c3bbad3a6d7b90ef46e3c023ce473c60243df",
       "format": "Metadata"
     },
     {
@@ -1410,9 +1462,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 135,
-  "item_last_updated": 1659498509,
-  "item_size": 9475687,
+  "files_count": 140,
+  "item_last_updated": 1659536047,
+  "item_size": 9815847,
   "metadata": {
     "identifier": "savannahnow-2022",
     "collection": [
@@ -1430,7 +1482,7 @@
     "addeddate": "2022-07-20 23:31:15"
   },
   "server": "ia802505.us.archive.org",
-  "uniq": 1451915516,
+  "uniq": 1320311616,
   "workable_servers": [
     "ia802505.us.archive.org",
     "ia902505.us.archive.org"

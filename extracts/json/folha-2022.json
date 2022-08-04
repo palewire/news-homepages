@@ -1,5 +1,5 @@
 {
-  "created": 1659530919,
+  "created": 1659561470,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/12/items/folha-2022",
@@ -120,31 +120,83 @@
       "sha1": "4805ecbf5e51e75b81f51d35b862fb48b592433f"
     },
     {
+      "name": "folha-2022-08-03T13:55:59.658856-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659545762",
+      "size": "97666",
+      "md5": "861744687f0c986531928f3ef67b5491",
+      "crc32": "90c01626",
+      "sha1": "80bb20cce8f7f3a30bc4c4e5ba7e3cf775ddcb71",
+      "format": "JSON"
+    },
+    {
+      "name": "folha-2022-08-03T13:55:59.658856-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659545763",
+      "size": "92513",
+      "md5": "a9d074b7fcbd20a346accafb2aa96708",
+      "crc32": "54f91ec0",
+      "sha1": "9f3c89f52cc68dfef20785d98910426c64f29b67",
+      "format": "JSON"
+    },
+    {
+      "name": "folha-2022-08-03T13:55:59.658856-03:00.jpg",
+      "source": "original",
+      "mtime": "1659545760",
+      "size": "318907",
+      "md5": "c24e75f653e2514b5b4763b4c1ff763c",
+      "crc32": "2e8b1cfd",
+      "sha1": "e03b60ed5ea287c43b9ba0d90c3693b31f58745d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "folha-2022-08-03T13:55:59.658856-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659545770",
+      "size": "1513",
+      "md5": "987989c87b115923f34f61c339532b65",
+      "crc32": "e2386fa4",
+      "sha1": "e55e46d36216cc1aed4fc669b4e5bc67b55110e8",
+      "format": "JSON"
+    },
+    {
+      "name": "folha-2022-08-03T13:55:59.658856-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "folha-2022-08-03T13:55:59.658856-03:00.jpg",
+      "mtime": "1659546901",
+      "size": "9700",
+      "md5": "e30daf5515b8542e788f478b96b7e31d",
+      "crc32": "b3840801",
+      "sha1": "cb5a4e8dd2aab71e26eaac34e785698003594bf3"
+    },
+    {
       "name": "folha-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5d8cb04ba64511f9b542230b3005709a156ae017",
-      "mtime": "1659509045",
-      "size": "3689",
-      "md5": "b6ab0661bb822588a3ae5ac1e3c3622d",
-      "crc32": "31a67453",
-      "sha1": "e06cfccc275034dd3f9a5889fcb0387d7460b516",
+      "btih": "23ac217c083f091eaf544be16715061437d176cf",
+      "mtime": "1659546905",
+      "size": "4733",
+      "md5": "17a1ee9c6746cbf506d571d6c9149ae4",
+      "crc32": "e9aeb5a9",
+      "sha1": "1b2f81152298c536edf9be0cbd4f6b7580f47eac",
       "format": "Archive BitTorrent"
     },
     {
       "name": "folha-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2cefcf63413ecb8ac3cba4e8cbad74d4",
+      "md5": "b55ad13b48ecc2c90f08c776c7fb200d",
       "summation": "md5"
     },
     {
       "name": "folha-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659500952",
-      "size": "32768",
-      "md5": "b2470342dc5f36ff65c2b9953e92a80e",
-      "crc32": "7a4ea249",
-      "sha1": "fc57429753d3580b04c0b0546da2cba6f6b1f672",
+      "mtime": "1659545774",
+      "size": "36864",
+      "md5": "d08bad3cd3af5e92e4ec6a3a906a3f19",
+      "crc32": "779f0c7a",
+      "sha1": "fa37376146aa6054404b862de03664c4e5bda762",
       "format": "Metadata"
     },
     {
@@ -158,50 +210,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 15,
-  "folha-2022": [
-    {
-      "url": "https://www.folha.uol.com.br/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_folha_uol_com_br-_-2022_08_03_03_00_25.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_folha_uol_com_br-_-2022_08_03_03_00_25.report.json",
-      "summary": {
-        "performance": 0.25,
-        "accessibility": 0.88,
-        "best-practices": 0.83,
-        "seo": 0.89,
-        "pwa": 0.7
-      }
-    },
-    {
-      "url": "https://www.folha.uol.com.br/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_folha_uol_com_br-_-2022_08_03_03_01_36.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_folha_uol_com_br-_-2022_08_03_03_01_36.report.json",
-      "summary": {
-        "performance": 0.25,
-        "accessibility": 0.88,
-        "best-practices": 0.83,
-        "seo": 0.89,
-        "pwa": 0.7
-      }
-    },
-    {
-      "url": "https://www.folha.uol.com.br/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_folha_uol_com_br-_-2022_08_03_03_01_01.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_folha_uol_com_br-_-2022_08_03_03_01_01.report.json",
-      "summary": {
-        "performance": 0.25,
-        "accessibility": 0.88,
-        "best-practices": 0.83,
-        "seo": 0.89,
-        "pwa": 0.7
-      }
-    }
-  ],
-  "item_last_updated": 1659509045,
-  "item_size": 1057734,
+  "files_count": 20,
+  "item_last_updated": 1659546905,
+  "item_size": 1583173,
   "metadata": {
     "identifier": "folha-2022",
     "collection": [
@@ -219,7 +230,7 @@
     "addeddate": "2022-08-02 14:53:33"
   },
   "server": "ia801508.us.archive.org",
-  "uniq": 1147321746,
+  "uniq": 310712104,
   "workable_servers": [
     "ia801508.us.archive.org",
     "ia601508.us.archive.org"

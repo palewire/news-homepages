@@ -1,5 +1,5 @@
 {
-  "created": 1659531061,
+  "created": 1659573698,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/26/items/live_hindustan-2022",
@@ -785,31 +785,83 @@
       "format": "JSON"
     },
     {
+      "name": "live_hindustan-2022-08-03T18:20:10.446275+05:30_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "live_hindustan-2022-08-03T18:20:10.446275+05:30.jpg",
+      "mtime": "1659535754",
+      "size": "10809",
+      "md5": "75816327be7c007c4ee34f4fca8e4ce1",
+      "crc32": "d4d4e889",
+      "sha1": "4efd80287a9e169c564ecc452feff7a63a2e4173"
+    },
+    {
+      "name": "live_hindustan-2022-08-04T06:10:48.452680+05:30.accessibility.json",
+      "source": "original",
+      "mtime": "1659573651",
+      "size": "114918",
+      "md5": "745d778e38bba6d8463f88e714a201cd",
+      "crc32": "0c2f3b2c",
+      "sha1": "2c6cac719b7c50b3955cdeadcc8bc7594091e7d8",
+      "format": "JSON"
+    },
+    {
+      "name": "live_hindustan-2022-08-04T06:10:48.452680+05:30.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659573653",
+      "size": "128936",
+      "md5": "c00367d414e64319fd217be290e507e5",
+      "crc32": "806f17bb",
+      "sha1": "6e8cc9be7cc330bdc2b17fa781add161239132b4",
+      "format": "JSON"
+    },
+    {
+      "name": "live_hindustan-2022-08-04T06:10:48.452680+05:30.jpg",
+      "source": "original",
+      "mtime": "1659573650",
+      "size": "346773",
+      "md5": "9908ea19c4288df56e00f0580ac247c3",
+      "crc32": "96e699f8",
+      "sha1": "0f3b6ac65f178508679ad4dbf3a0e551c6e6194c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "live_hindustan-2022-08-04T06:10:48.452680+05:30.lighthouse.json",
+      "source": "original",
+      "mtime": "1659573655",
+      "size": "1522",
+      "md5": "c189b875d678625a63350e5b5a76124d",
+      "crc32": "81865d3a",
+      "sha1": "05ad60136bf2796181c4ad8e7bb288a12574f1a9",
+      "format": "JSON"
+    },
+    {
       "name": "live_hindustan-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e95a2d0d03e062cff77d181c475dd1eb360cb37e",
-      "mtime": "1659531056",
-      "size": "17891",
-      "md5": "cd112946278b114b917dc02485ad0d75",
-      "crc32": "8dd58ed6",
-      "sha1": "000f2424d0e3e58b2c390e6d1ec050da7d391aae",
+      "btih": "a754b7fc2f87e2bf17ffe134b31f915589320857",
+      "mtime": "1659573695",
+      "size": "18983",
+      "md5": "65db4fa424bc566aade0ff7cab085588",
+      "crc32": "cd18579b",
+      "sha1": "2c41b7f686c1aa7861e9b848862a43a1ecf31224",
       "format": "Archive BitTorrent"
     },
     {
       "name": "live_hindustan-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2f9c0cc9f923f7cc6e6ae17cc8800254",
+      "md5": "963695f736a3d1efd457d12ffd7644c7",
       "summation": "md5"
     },
     {
       "name": "live_hindustan-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659531021",
-      "size": "118784",
-      "md5": "58f858ae13d5c1adc767a90d1bbd6cd0",
-      "crc32": "6f09f7be",
-      "sha1": "58c06bbc89220d474fb12aacc53e5ac7fa93ba2b",
+      "mtime": "1659573660",
+      "size": "126976",
+      "md5": "03e2678662441f157cec39634c1381a8",
+      "crc32": "3fe953a0",
+      "sha1": "dbd5beaa384fc1ef67f4fc73c561678f074a5631",
       "format": "Metadata"
     },
     {
@@ -823,9 +875,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 79,
-  "item_last_updated": 1659531056,
-  "item_size": 9235178,
+  "files_count": 84,
+  "item_last_updated": 1659573695,
+  "item_size": 9847420,
   "metadata": {
     "identifier": "live_hindustan-2022",
     "collection": [
@@ -847,15 +899,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3351415448,
+      "task_id": 3352005000,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 552003886,
+  "uniq": 1326632698,
   "workable_servers": [
     "ia902503.us.archive.org"
   ]

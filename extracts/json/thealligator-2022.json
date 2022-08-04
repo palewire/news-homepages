@@ -1,5 +1,5 @@
 {
-  "created": 1659531491,
+  "created": 1659574170,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/0/items/thealligator-2022",
@@ -4208,31 +4208,83 @@
       "sha1": "f09c5a3a63df732b9cf8d3eecb80c036eddf48fe"
     },
     {
+      "name": "thealligator-2022-08-03T10:30:39.232771-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659537042",
+      "size": "31577",
+      "md5": "6c30d81ee04ee25ca3bcf6077a02af54",
+      "crc32": "f1d788b6",
+      "sha1": "a006135f266de53ff704c012fd3eb01b8983d910",
+      "format": "JSON"
+    },
+    {
+      "name": "thealligator-2022-08-03T10:30:39.232771-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659537044",
+      "size": "24105",
+      "md5": "41efd33a68cc0bc046f6eaf11b39c213",
+      "crc32": "bbd0931f",
+      "sha1": "096e168acd2d0e3f005778ed7caaa0964171a805",
+      "format": "JSON"
+    },
+    {
+      "name": "thealligator-2022-08-03T10:30:39.232771-04:00.jpg",
+      "source": "original",
+      "mtime": "1659537041",
+      "size": "293644",
+      "md5": "3312dde2880fe29f8e6b4cde18a7083b",
+      "crc32": "aee674b3",
+      "sha1": "5175072eadf0c366f0018dd8135690b572b25cf5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thealligator-2022-08-03T10:30:39.232771-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659537045",
+      "size": "1483",
+      "md5": "394cbeb4036ff3c7725dde770570814e",
+      "crc32": "653829cd",
+      "sha1": "df505656f3d5643368880d93386c14ef49af1743",
+      "format": "JSON"
+    },
+    {
+      "name": "thealligator-2022-08-03T10:30:39.232771-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thealligator-2022-08-03T10:30:39.232771-04:00.jpg",
+      "mtime": "1659540227",
+      "size": "10080",
+      "md5": "fb46effd8bef093ce18964f54eb3c96a",
+      "crc32": "727597ed",
+      "sha1": "b9574cf19b4040e59b9af825e9981eb7f733cda2"
+    },
+    {
       "name": "thealligator-2022_archive.torrent",
       "source": "metadata",
-      "btih": "751c017fcc56c9801793d26ccadb58028f5ae5e8",
-      "mtime": "1659502029",
-      "size": "87630",
-      "md5": "df5306e2375ca817c3ba6e5a368e4c7e",
-      "crc32": "fbf9310b",
-      "sha1": "e21ace2923f506d9c7cd3462007fa9f3ba292fe8",
+      "btih": "2185c4ea61b7f781ebb1c4ef99ac7ff5af53797e",
+      "mtime": "1659540252",
+      "size": "88710",
+      "md5": "a5f9202b11ef67a0b1c64724d73c30cb",
+      "crc32": "1fed24d4",
+      "sha1": "8b84ce2d3dae44d74afcbf8b64ec9748d2ead9ed",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thealligator-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a7decb474e4b49f88fba20119f111280",
+      "md5": "62d53ebb20d38a2cbcac9664d3e11208",
       "summation": "md5"
     },
     {
       "name": "thealligator-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659491799",
-      "size": "491520",
-      "md5": "90763d5f6d8b03cc64acaca946036f8d",
-      "crc32": "54626feb",
-      "sha1": "7f01f28714f8ee398cf85a6b61d4995639b5a16c",
+      "mtime": "1659537050",
+      "size": "495616",
+      "md5": "f710e2317f575c22bffe896585a3cf7f",
+      "crc32": "69e3acd8",
+      "sha1": "519e7a3844d127c1c6f31fbc396db012e02eea33",
       "format": "Metadata"
     },
     {
@@ -4246,9 +4298,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 405,
-  "item_last_updated": 1659502029,
-  "item_size": 36071923,
+  "files_count": 410,
+  "item_last_updated": 1659540252,
+  "item_size": 36437988,
   "metadata": {
     "identifier": "thealligator-2022",
     "collection": [
@@ -4265,13 +4317,13 @@
     "publicdate": "2022-06-24 23:02:17",
     "addeddate": "2022-06-24 23:02:17"
   },
-  "server": "ia801404.us.archive.org",
+  "server": "ia601404.us.archive.org",
   "thealligator-2022": [
     {
       "url": "https://www.alligator.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_alligator_org-_-2022_08_03_01_31_26.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_alligator_org-_-2022_08_03_01_31_26.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_alligator_org-_-2022_08_03_14_06_45.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_alligator_org-_-2022_08_03_14_06_45.report.json",
       "summary": {
         "performance": 0.04,
         "accessibility": 0.86,
@@ -4283,10 +4335,10 @@
     {
       "url": "https://www.alligator.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_alligator_org-_-2022_08_03_01_31_50.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_alligator_org-_-2022_08_03_01_31_50.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_alligator_org-_-2022_08_03_14_07_37.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_alligator_org-_-2022_08_03_14_07_37.report.json",
       "summary": {
-        "performance": 0.03,
+        "performance": 0.04,
         "accessibility": 0.86,
         "best-practices": 0.75,
         "seo": 0.9,
@@ -4296,10 +4348,10 @@
     {
       "url": "https://www.alligator.org/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_alligator_org-_-2022_08_03_01_30_56.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_alligator_org-_-2022_08_03_01_30_56.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_alligator_org-_-2022_08_03_14_07_11.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_alligator_org-_-2022_08_03_14_07_11.report.json",
       "summary": {
-        "performance": 0.03,
+        "performance": 0.06,
         "accessibility": 0.86,
         "best-practices": 0.75,
         "seo": 0.9,
@@ -4307,9 +4359,9 @@
       }
     }
   ],
-  "uniq": 1252413028,
+  "uniq": 845963247,
   "workable_servers": [
-    "ia801404.us.archive.org",
-    "ia601404.us.archive.org"
+    "ia601404.us.archive.org",
+    "ia801404.us.archive.org"
   ]
 }

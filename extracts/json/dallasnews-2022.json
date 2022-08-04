@@ -1,5 +1,5 @@
 {
-  "created": 1659508989,
+  "created": 1659546971,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/1/items/dallasnews-2022",
@@ -4140,31 +4140,83 @@
       "sha1": "cda9a7f6bf59b9adaf594c8496fb579a5e3b290c"
     },
     {
+      "name": "dallasnews-2022-08-03T11:53:12.448362-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659545595",
+      "size": "24485",
+      "md5": "846a0bd72242f2f1702176ae1062bd17",
+      "crc32": "415784ab",
+      "sha1": "e2281df28ed3eb41c1d1368e004b25fba601f2bb",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasnews-2022-08-03T11:53:12.448362-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659545597",
+      "size": "37645",
+      "md5": "1ea798f6a604797e467ce20ec794dae6",
+      "crc32": "e3da208c",
+      "sha1": "1c21f5d8ead9f0f44bb3e3953c255810b52fd000",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasnews-2022-08-03T11:53:12.448362-05:00.jpg",
+      "source": "original",
+      "mtime": "1659545594",
+      "size": "388492",
+      "md5": "f3cbdee0aa0c96e73f626d3182a16fc0",
+      "crc32": "823cc070",
+      "sha1": "117972b404e6dea0f8e41ea5501dc5792dfec48c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dallasnews-2022-08-03T11:53:12.448362-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659545598",
+      "size": "1495",
+      "md5": "19ca1e47b898d05c2beb384f2ea0286d",
+      "crc32": "671cbabc",
+      "sha1": "90192af26cde582afe8292a05b09212e03856beb",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasnews-2022-08-03T11:53:12.448362-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dallasnews-2022-08-03T11:53:12.448362-05:00.jpg",
+      "mtime": "1659546869",
+      "size": "10038",
+      "md5": "d4e74e029a2d23d4eea78f68ff9a4dc4",
+      "crc32": "6620a7d1",
+      "sha1": "5fe783bad541820d8bfde01b0d375f644ced2c19"
+    },
+    {
       "name": "dallasnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b646649c992a7c7c4560358e6f8a5d594d459736",
-      "mtime": "1659508974",
-      "size": "85478",
-      "md5": "b4db6a9b81e0fd06a10be2566b9ac814",
-      "crc32": "5f45e87b",
-      "sha1": "7687a239945c9c6a201ff633771d4809f37b5dc6",
+      "btih": "29da136301fe9741fa315e417278726014d97790",
+      "mtime": "1659546875",
+      "size": "86548",
+      "md5": "c48e939fc3614409c2b3f7c94ff15e7e",
+      "crc32": "b9374be5",
+      "sha1": "83934d186794198738b233f7302cff9708b3592b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dallasnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f01ebe559ccaabbde31f4d4a490ec336",
+      "md5": "784dada6338ce58e4732cf5c5c8377d5",
       "summation": "md5"
     },
     {
       "name": "dallasnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659500849",
-      "size": "479232",
-      "md5": "a15bbdb031a78e6de62f43950f47593a",
-      "crc32": "c77ec8dc",
-      "sha1": "f6659930c6fe874b7ff203d2349603db4983af3c",
+      "mtime": "1659545603",
+      "size": "487424",
+      "md5": "4427836b37f683831159daeb235103ee",
+      "crc32": "44a509f1",
+      "sha1": "f00b337573697b85aedd8e62299f56cb8c49dca4",
       "format": "Metadata"
     },
     {
@@ -4178,9 +4230,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 399,
-  "item_last_updated": 1659508974,
-  "item_size": 34489726,
+  "files_count": 404,
+  "item_last_updated": 1659546875,
+  "item_size": 34961143,
   "metadata": {
     "identifier": "dallasnews-2022",
     "collection": [
@@ -4197,10 +4249,10 @@
     "publicdate": "2022-06-24 22:54:46",
     "addeddate": "2022-06-24 22:54:46"
   },
-  "server": "ia601502.us.archive.org",
-  "uniq": 196498344,
+  "server": "ia801502.us.archive.org",
+  "uniq": 338774115,
   "workable_servers": [
-    "ia601502.us.archive.org",
-    "ia801502.us.archive.org"
+    "ia801502.us.archive.org",
+    "ia601502.us.archive.org"
   ]
 }

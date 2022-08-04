@@ -1,5 +1,5 @@
 {
-  "created": 1659530965,
+  "created": 1659573624,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/30/items/la_ser-2022",
@@ -993,31 +993,83 @@
       "format": "JSON"
     },
     {
+      "name": "la_ser-2022-08-03T14:48:35.312254+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "la_ser-2022-08-03T14:48:35.312254+02:00.jpg",
+      "mtime": "1659535741",
+      "size": "9767",
+      "md5": "4e87b8d5ae6299907227a492ee41c605",
+      "crc32": "03883bde",
+      "sha1": "9729f677b9706b2ed48b456c383dbfd5790bc6dd"
+    },
+    {
+      "name": "la_ser-2022-08-04T02:39:29.136128+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659573572",
+      "size": "42543",
+      "md5": "aab2e4cecfd4c4d5a37c51927625a4ff",
+      "crc32": "ef516c79",
+      "sha1": "a0bad2f658a8577efbc277c7664a16f5ee61e0c8",
+      "format": "JSON"
+    },
+    {
+      "name": "la_ser-2022-08-04T02:39:29.136128+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659573574",
+      "size": "59401",
+      "md5": "4346b6b34df8c0ccfc94751254869fc2",
+      "crc32": "83c02121",
+      "sha1": "38fee89f31d4044c072a23a27b0ca8843eab347d",
+      "format": "JSON"
+    },
+    {
+      "name": "la_ser-2022-08-04T02:39:29.136128+02:00.jpg",
+      "source": "original",
+      "mtime": "1659573571",
+      "size": "254387",
+      "md5": "d9c82fee5690ab8f4df0267cb3a05fc6",
+      "crc32": "a865d221",
+      "sha1": "38c2b5072313c5351aa063e6f4bd17d8ecf98fee",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "la_ser-2022-08-04T02:39:29.136128+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659573576",
+      "size": "1449",
+      "md5": "543ac6091af51b49e0063b7eeb6a3483",
+      "crc32": "c8eb1372",
+      "sha1": "f4d663db65332c6b96f6fa0da86654970d201e3e",
+      "format": "JSON"
+    },
+    {
       "name": "la_ser-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ed9735970b0f65197059f0ba3a355deffb2a550c",
-      "mtime": "1659530960",
-      "size": "21179",
-      "md5": "b2c884f8560c3962d345d51944649231",
-      "crc32": "d76e8352",
-      "sha1": "5249fd2bd466a108ca0b400cacf89b613c5e1ea8",
+      "btih": "dd8005a796db536b43b04c9dcf01e7bc19abe06e",
+      "mtime": "1659573620",
+      "size": "22228",
+      "md5": "2978976e48d678c46d6f2c7e3b69e3a4",
+      "crc32": "b4edb7ff",
+      "sha1": "de1ccedc28b507c3a9f59e1d91e7976d9b0b90a3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "la_ser-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "46bc9eff4340fac5b44b4046bf908fd7",
+      "md5": "d54a7bbb32ceac57b9980e35c3737f6d",
       "summation": "md5"
     },
     {
       "name": "la_ser-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659530925",
-      "size": "143360",
-      "md5": "78ecc7cfdb2d85e5638c7620cc9d6f04",
-      "crc32": "e7aee59b",
-      "sha1": "8dc2b3f18cac6cf8ee9092fe328016afc718821d",
+      "mtime": "1659573582",
+      "size": "147456",
+      "md5": "7c961e90c120cc21bb239fdc6b6c5dff",
+      "crc32": "187c7804",
+      "sha1": "d6b286ac7be88fa8d364eca283a3d7a5f0647875",
       "format": "Metadata"
     },
     {
@@ -1031,9 +1083,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 99,
-  "item_last_updated": 1659530960,
-  "item_size": 6253413,
+  "files_count": 104,
+  "item_last_updated": 1659573620,
+  "item_size": 6626105,
   "metadata": {
     "identifier": "la_ser-2022",
     "collection": [
@@ -1055,15 +1107,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3351414624,
+      "task_id": 3352003120,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 2040988267,
+  "uniq": 1473000832,
   "workable_servers": [
     "ia601400.us.archive.org"
   ]

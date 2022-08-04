@@ -1,5 +1,5 @@
 {
-  "created": 1659530795,
+  "created": 1659573505,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/17/items/irishcathnews-2022",
@@ -1631,31 +1631,94 @@
       "format": "JSON"
     },
     {
+      "name": "irishcathnews-2022-08-03T13:45:36.613384+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "irishcathnews-2022-08-03T13:45:36.613384+01:00.jpg",
+      "mtime": "1659535498",
+      "size": "9393",
+      "md5": "35b6667bdc560b7d83d274d7d889440b",
+      "crc32": "7b8e0e4f",
+      "sha1": "3e8d550b1ebf646cd9b701769c285415dc014df7"
+    },
+    {
+      "name": "irishcathnews-2022-08-04T01:35:00.183298+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659573305",
+      "size": "28693",
+      "md5": "608f54f57c388684724c565830892028",
+      "crc32": "1f9c544c",
+      "sha1": "059c149531201868dc249f5a4ee2a53d6846375c",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-08-04T01:35:00.183298+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659573307",
+      "size": "28096",
+      "md5": "da0fc00600bc1c98092704702abc4edf",
+      "crc32": "31286110",
+      "sha1": "a2d7d342fbe541be1f0861d1e81b72f336f6d642",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-08-04T01:35:00.183298+01:00.jpg",
+      "source": "original",
+      "mtime": "1659573303",
+      "size": "269941",
+      "md5": "d181d46bb230def3f0c7b5703348e22d",
+      "crc32": "b3338eee",
+      "sha1": "337fd509994452d3849e1bb608bc28a0bbf233c4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "irishcathnews-2022-08-04T01:35:00.183298+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659573308",
+      "size": "1522",
+      "md5": "0fc9bf3211edbc5ee4fdfd8bcd04149f",
+      "crc32": "c5896e92",
+      "sha1": "b81d810c176f858fd71e92a83de59010d319b3ce",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-08-04T01:35:00.183298+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "irishcathnews-2022-08-04T01:35:00.183298+01:00.jpg",
+      "mtime": "1659573485",
+      "size": "9387",
+      "md5": "c5dc4342ba04aae0c38f5a887ad09a13",
+      "crc32": "79ba462c",
+      "sha1": "70d78d2921140a58ea02a42422a581900db7d2b5"
+    },
+    {
       "name": "irishcathnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e3275027a3249af956a97f18d49053af59ef0d38",
-      "mtime": "1659530786",
-      "size": "35066",
-      "md5": "8009d05d6eabab4a7560b9a7b23d6393",
-      "crc32": "bdf62d63",
-      "sha1": "e90205f4a1c033c239cca9f0241cfd7dfbd2e36c",
+      "btih": "7aeecc6b73d2c1a09fe6c2c58be97ef4a606420b",
+      "mtime": "1659573488",
+      "size": "36359",
+      "md5": "39139cc6b70a946df4c77c68c92a2c59",
+      "crc32": "d83a693b",
+      "sha1": "5ce63a5f2c439bdcafc6312f1fe18b627672f181",
       "format": "Archive BitTorrent"
     },
     {
       "name": "irishcathnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8a6bc1b1c97c33171634cfe66bd3934d",
+      "md5": "fe4f1b928c6f938076e940db7cc12998",
       "summation": "md5"
     },
     {
       "name": "irishcathnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659530748",
-      "size": "212992",
-      "md5": "5954a20709a576a839eee9fe75f40ba7",
-      "crc32": "f79db593",
-      "sha1": "41587bebcb6942bcaa1ecf9b54a6ac638189327f",
+      "mtime": "1659573312",
+      "size": "221184",
+      "md5": "c87239cb4535571d53260bbd03563128",
+      "crc32": "9773fa63",
+      "sha1": "7dcb37f33f2baa537384fff6af2ea381c3618f04",
       "format": "Metadata"
     },
     {
@@ -1669,9 +1732,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 160,
-  "item_last_updated": 1659530786,
-  "item_size": 11434036,
+  "files_count": 166,
+  "item_last_updated": 1659573488,
+  "item_size": 11790553,
   "metadata": {
     "identifier": "irishcathnews-2022",
     "collection": [
@@ -1688,21 +1751,10 @@
     "publicdate": "2022-07-18 02:23:48",
     "addeddate": "2022-07-18 02:23:48"
   },
-  "pending_tasks": true,
   "server": "ia601409.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3351413105,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1182672058,
+  "uniq": 1177595416,
   "workable_servers": [
-    "ia601409.us.archive.org"
+    "ia601409.us.archive.org",
+    "ia801409.us.archive.org"
   ]
 }

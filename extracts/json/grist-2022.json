@@ -1,5 +1,5 @@
 {
-  "created": 1659530992,
+  "created": 1659573730,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/28/items/grist-2022",
@@ -2368,31 +2368,83 @@
       "sha1": "85473fd6695b91c7b40bf3b5d9e6d8dd47be85ab"
     },
     {
+      "name": "grist-2022-08-03T09:58:26.795844-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659545912",
+      "size": "44178",
+      "md5": "745c821a05f89e0767593fcd18ca77c2",
+      "crc32": "34e2174e",
+      "sha1": "11f23123c4e031a1fa07e1aaaa6ce47878903c37",
+      "format": "JSON"
+    },
+    {
+      "name": "grist-2022-08-03T09:58:26.795844-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659545913",
+      "size": "35018",
+      "md5": "cef56a66ae1cdfd6d4daeb62cc524116",
+      "crc32": "36d1c1fd",
+      "sha1": "90a298ebbccd64be64723b69bfed0621e16a386d",
+      "format": "JSON"
+    },
+    {
+      "name": "grist-2022-08-03T09:58:26.795844-07:00.jpg",
+      "source": "original",
+      "mtime": "1659545910",
+      "size": "224966",
+      "md5": "c61dc7601aac89f093f93ee35bbaff83",
+      "crc32": "68150811",
+      "sha1": "22c89fba61beba2b9c34a1bc87d8e6e4bc5c1a3e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "grist-2022-08-03T09:58:26.795844-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659545915",
+      "size": "1413",
+      "md5": "8786f9cbe67e3c552cba2c65d87382dd",
+      "crc32": "3c4d6d53",
+      "sha1": "57f1928c9c2798e392656f87ada1be2d57750932",
+      "format": "JSON"
+    },
+    {
+      "name": "grist-2022-08-03T09:58:26.795844-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "grist-2022-08-03T09:58:26.795844-07:00.jpg",
+      "mtime": "1659547000",
+      "size": "8188",
+      "md5": "6bf1b3cb9c19e8e9def3dcb1f0c7d66e",
+      "crc32": "59f1b5b7",
+      "sha1": "ab88955ddb7a3c524ff653ed4d13a173e854760c"
+    },
+    {
       "name": "grist-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8ea11a8ed272cbb7f57069cb02ef992141434485",
-      "mtime": "1659509334",
-      "size": "48255",
-      "md5": "359fa1547a8e15a603618bd450f4a3b8",
-      "crc32": "cd9ebd3a",
-      "sha1": "335cf4162ef28fb01ef1000b9d7378b3f5a6ab2b",
+      "btih": "9f88929c65e29023646048eaf0fbe5792ea1917f",
+      "mtime": "1659547016",
+      "size": "49279",
+      "md5": "c7e40bf90049ccbc521bb53e0eae1e98",
+      "crc32": "d7f28d26",
+      "sha1": "1a52c3900fb365d924201ca411babac077789e0c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "grist-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5590d783ade631f56c25b211255a34c4",
+      "md5": "289ba806f1974fca57b115d2b4730677",
       "summation": "md5"
     },
     {
       "name": "grist-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659501093",
-      "size": "286720",
-      "md5": "f90c4530496f98822e004987891de81e",
-      "crc32": "60976431",
-      "sha1": "9bde5497da5036a01a83d40cafbc354f25a2db11",
+      "mtime": "1659545920",
+      "size": "294912",
+      "md5": "f510edffe3042abd11754575311c4485",
+      "crc32": "6bdb3ef9",
+      "sha1": "025f130252fe17628c5066f34663eef3aab2f0c3",
       "format": "Metadata"
     },
     {
@@ -2406,15 +2458,15 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 230,
+  "files_count": 235,
   "grist-2022": [
     {
       "url": "https://grist.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/grist_org-_-2022_08_03_03_02_41.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/grist_org-_-2022_08_03_03_02_41.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/grist_org-_-2022_08_03_15_23_00.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/grist_org-_-2022_08_03_15_23_00.report.json",
       "summary": {
-        "performance": 0.14,
+        "performance": 0.22,
         "accessibility": 0.84,
         "best-practices": 0.83,
         "seo": 0.84,
@@ -2424,10 +2476,10 @@
     {
       "url": "https://grist.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/grist_org-_-2022_08_03_03_03_21.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/grist_org-_-2022_08_03_03_03_21.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/grist_org-_-2022_08_03_15_23_21.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/grist_org-_-2022_08_03_15_23_21.report.json",
       "summary": {
-        "performance": 0.17,
+        "performance": 0.22,
         "accessibility": 0.84,
         "best-practices": 0.83,
         "seo": 0.84,
@@ -2437,8 +2489,8 @@
     {
       "url": "https://grist.org/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/grist_org-_-2022_08_03_03_03_03.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/grist_org-_-2022_08_03_03_03_03.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/grist_org-_-2022_08_03_15_23_39.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/grist_org-_-2022_08_03_15_23_39.report.json",
       "summary": {
         "performance": 0.2,
         "accessibility": 0.84,
@@ -2448,8 +2500,8 @@
       }
     }
   ],
-  "item_last_updated": 1659509334,
-  "item_size": 16827590,
+  "item_last_updated": 1659547016,
+  "item_size": 17150569,
   "metadata": {
     "identifier": "grist-2022",
     "collection": [
@@ -2467,7 +2519,7 @@
     "addeddate": "2022-07-09 03:58:54"
   },
   "server": "ia801502.us.archive.org",
-  "uniq": 88634485,
+  "uniq": 1552752387,
   "workable_servers": [
     "ia801502.us.archive.org",
     "ia601502.us.archive.org"

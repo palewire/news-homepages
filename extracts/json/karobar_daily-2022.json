@@ -1,5 +1,5 @@
 {
-  "created": 1659531066,
+  "created": 1659547196,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/31/items/karobar_daily-2022",
@@ -1056,31 +1056,83 @@
       "sha1": "78a2ab9578a6ea61be0aa06e6ee14d3ec118dce9"
     },
     {
+      "name": "karobar_daily-2022-08-03T22:44:48.067225+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1659545992",
+      "size": "70290",
+      "md5": "ab09e07deb41046c91043a66c094ad85",
+      "crc32": "6d5f7e3a",
+      "sha1": "1c9c1a1d59a3bd65bbea110c7a2d4c05b2bd89ef",
+      "format": "JSON"
+    },
+    {
+      "name": "karobar_daily-2022-08-03T22:44:48.067225+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659545994",
+      "size": "45604",
+      "md5": "b5d7299edd370659bca0ba9d17724644",
+      "crc32": "702c9cb8",
+      "sha1": "2bbc6d3dc790f94fbe942a8f2c4486e50e51f044",
+      "format": "JSON"
+    },
+    {
+      "name": "karobar_daily-2022-08-03T22:44:48.067225+05:45.jpg",
+      "source": "original",
+      "mtime": "1659545990",
+      "size": "285121",
+      "md5": "65ae4764792615c09bc19915d6f50935",
+      "crc32": "95568b53",
+      "sha1": "6d86a779f56916090acbd8f3276a9d4afd4d641b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "karobar_daily-2022-08-03T22:44:48.067225+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1659545996",
+      "size": "1513",
+      "md5": "34c947bafc373192fe10d52fe8b45c8a",
+      "crc32": "ed450f5a",
+      "sha1": "578d33dd4e1d8bd6e78f4513d651554b7af06719",
+      "format": "JSON"
+    },
+    {
+      "name": "karobar_daily-2022-08-03T22:44:48.067225+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "karobar_daily-2022-08-03T22:44:48.067225+05:45.jpg",
+      "mtime": "1659547165",
+      "size": "9993",
+      "md5": "6650c1bfe8b981c8011688387294da17",
+      "crc32": "058079b8",
+      "sha1": "50ed5a90821832f17ab8acbd87cd3b914744dccd"
+    },
+    {
       "name": "karobar_daily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "acc6a607baa081b9b9abef47b89c324c52ae3b67",
-      "mtime": "1659509293",
-      "size": "23244",
-      "md5": "ddefab72457125b2624ff6ac7d732d04",
-      "crc32": "680b9884",
-      "sha1": "30eeebc98b97b67abdcfa78d806e22ad5b796ea5",
+      "btih": "908946064de248c10ce1104e7d1ed22feb8e6240",
+      "mtime": "1659547169",
+      "size": "24328",
+      "md5": "9904c968868149b4d7e7ac5882f5ad15",
+      "crc32": "3d368e8a",
+      "sha1": "df394bf07b945f5b5ad18dd1dd80e822a3aae8d4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "karobar_daily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "150dadb29af2c64328366552545c67f9",
+      "md5": "805802563a6b5822ec7da48df344f25e",
       "summation": "md5"
     },
     {
       "name": "karobar_daily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659501201",
-      "size": "147456",
-      "md5": "f52c2ac13441d63d8294095b1cc58873",
-      "crc32": "45168620",
-      "sha1": "543bb7fd3e3015db4f7b8ffc467934bb194fa0e4",
+      "mtime": "1659546001",
+      "size": "151552",
+      "md5": "12393b9da936dacaa700546f366b565f",
+      "crc32": "7aeac089",
+      "sha1": "3ba081eb87f5a05a4a73deab046a07041fdeb17a",
       "format": "Metadata"
     },
     {
@@ -1094,50 +1146,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 105,
-  "item_last_updated": 1659509293,
-  "item_size": 7588096,
-  "karobar_daily-2022": [
-    {
-      "url": "https://www.karobardaily.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_karobardaily_com-_-2022_08_03_03_06_00.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_karobardaily_com-_-2022_08_03_03_06_00.report.json",
-      "summary": {
-        "performance": 0.28,
-        "accessibility": 0.88,
-        "best-practices": 0.75,
-        "seo": 0.75,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.karobardaily.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_karobardaily_com-_-2022_08_03_03_06_18.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_karobardaily_com-_-2022_08_03_03_06_18.report.json",
-      "summary": {
-        "performance": 0.47,
-        "accessibility": 0.88,
-        "best-practices": 0.75,
-        "seo": 0.75,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.karobardaily.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_karobardaily_com-_-2022_08_03_03_06_33.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_karobardaily_com-_-2022_08_03_03_06_33.report.json",
-      "summary": {
-        "performance": 0.44,
-        "accessibility": 0.88,
-        "best-practices": 0.75,
-        "seo": 0.75,
-        "pwa": 0.4
-      }
-    }
-  ],
+  "files_count": 110,
+  "item_last_updated": 1659547169,
+  "item_size": 8005797,
   "metadata": {
     "identifier": "karobar_daily-2022",
     "collection": [
@@ -1154,10 +1165,10 @@
     "publicdate": "2022-07-24 20:37:59",
     "addeddate": "2022-07-24 20:37:59"
   },
-  "server": "ia601400.us.archive.org",
-  "uniq": 1015398481,
+  "server": "ia801400.us.archive.org",
+  "uniq": 1316702195,
   "workable_servers": [
-    "ia601400.us.archive.org",
-    "ia801400.us.archive.org"
+    "ia801400.us.archive.org",
+    "ia601400.us.archive.org"
   ]
 }

@@ -1,5 +1,6 @@
 {
-  "created": 1659498470,
+  "conflict": 1659573963,
+  "created": 1659573963,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/15/items/owhnews-2022",
@@ -454,31 +455,83 @@
       "sha1": "b17bf2b4cf2fff3551d5191a822492d02d369e13"
     },
     {
+      "name": "owhnews-2022-08-03T07:54:40.487853-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659531283",
+      "size": "25974",
+      "md5": "8c61415990ee1a60adecd116bad62872",
+      "crc32": "f77e7995",
+      "sha1": "1764e3ddc831fa21045ed517613a36850999230c",
+      "format": "JSON"
+    },
+    {
+      "name": "owhnews-2022-08-03T07:54:40.487853-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659531285",
+      "size": "80476",
+      "md5": "e1570a1962c67208a9a8feb1083c50b1",
+      "crc32": "ee51d276",
+      "sha1": "c13a6dac26b21f980784ff6eaf11b33ada19b495",
+      "format": "JSON"
+    },
+    {
+      "name": "owhnews-2022-08-03T07:54:40.487853-05:00.jpg",
+      "source": "original",
+      "mtime": "1659531282",
+      "size": "306131",
+      "md5": "1a8ef47bbfa3f70864198c6645753b07",
+      "crc32": "fe7a75e9",
+      "sha1": "5626af56ede4a29af54d256f952bf5eb649cfeb9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "owhnews-2022-08-03T07:54:40.487853-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659531286",
+      "size": "1414",
+      "md5": "429b114b92b6a49aa179ef7a6efdc2d3",
+      "crc32": "6d68f336",
+      "sha1": "66c8976f3fda342e94bdac3ac37cd39a41534977",
+      "format": "JSON"
+    },
+    {
+      "name": "owhnews-2022-08-03T07:54:40.487853-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "owhnews-2022-08-03T07:54:40.487853-05:00.jpg",
+      "mtime": "1659535957",
+      "size": "11853",
+      "md5": "5f6306e8eac2c82f8b5da47d574f0598",
+      "crc32": "fe98a1d0",
+      "sha1": "c8666e6bcdbb06ce070648336059dcf69f27dc0a"
+    },
+    {
       "name": "owhnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0ee9eb8df183d849b581ee15e74d8a009b4a12bf",
-      "mtime": "1659498445",
-      "size": "10440",
-      "md5": "fa35176e96d8b19f07a328ba415810e7",
-      "crc32": "49bf33ea",
-      "sha1": "a05a757dd3f0557c1dd7672d3f7e6e331143ac21",
+      "btih": "b78d96d3897333005c5cadb134d83793ab60be00",
+      "mtime": "1659535976",
+      "size": "11495",
+      "md5": "311315a9a14df6344a3c548b763eeb11",
+      "crc32": "0b850817",
+      "sha1": "625530ff3ee9529bb443b017236dbeac01a60a84",
       "format": "Archive BitTorrent"
     },
     {
       "name": "owhnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "580ad0afed59322e4bbb624acb52e443",
+      "md5": "1d02f83cfc022cdb89a7f59a8c7e10d2",
       "summation": "md5"
     },
     {
       "name": "owhnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659487333",
-      "size": "65536",
-      "md5": "d280d824cbc247dd0caf55d36e9726cb",
-      "crc32": "9d8418b9",
-      "sha1": "0582f6e905f7b71a494f7cde997a713308d077b1",
+      "mtime": "1659531289",
+      "size": "73728",
+      "md5": "d38bb360969fcc4ecdae2bf71617e364",
+      "crc32": "a962c115",
+      "sha1": "163e1d7bcb485e51832c7d7e6ff2a74016cd0f11",
       "format": "Metadata"
     },
     {
@@ -492,9 +545,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 47,
-  "item_last_updated": 1659498445,
-  "item_size": 3900522,
+  "files_count": 52,
+  "item_last_updated": 1659535976,
+  "item_size": 4335617,
   "metadata": {
     "identifier": "owhnews-2022",
     "collection": [
@@ -516,15 +569,23 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3351417283,
+      "task_id": 3352010623,
       "cmd": "archive.php",
       "priority": -5,
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
+    },
+    {
+      "task_id": 3352010720,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 1509312958,
+  "uniq": 2035006569,
   "workable_servers": [
     "ia902509.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1659509800,
+  "created": 1659547511,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/24/items/michigandaily-2022",
@@ -900,31 +900,83 @@
       "sha1": "4a0437e7fd950fdba5baa99da15dbc6ec6c870f2"
     },
     {
+      "name": "michigandaily-2022-08-03T13:03:33.349891-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659546216",
+      "size": "25552",
+      "md5": "5b4c76823598a4aafc1144a7cb41a9a5",
+      "crc32": "74263d91",
+      "sha1": "0f23b595510546cd8bc673ad54e8758b8853d9fe",
+      "format": "JSON"
+    },
+    {
+      "name": "michigandaily-2022-08-03T13:03:33.349891-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659546218",
+      "size": "30494",
+      "md5": "95ceaffb67cdf04dd18ad383017c5afd",
+      "crc32": "08d7a222",
+      "sha1": "a15a3a4430f233792fb6cf688f8188ab145df40d",
+      "format": "JSON"
+    },
+    {
+      "name": "michigandaily-2022-08-03T13:03:33.349891-04:00.jpg",
+      "source": "original",
+      "mtime": "1659546214",
+      "size": "216307",
+      "md5": "e9e9eedc4b9bcd84bf2f926e1f9b5cfc",
+      "crc32": "639e5161",
+      "sha1": "1eebef7afd8ac5098f73ae13f974152f69994da3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "michigandaily-2022-08-03T13:03:33.349891-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659546221",
+      "size": "1510",
+      "md5": "f43c6f04c1c3c87c3f50ae30b7472905",
+      "crc32": "61c16658",
+      "sha1": "d48b407d69197039443ff6b4622b7d863d5dd0e3",
+      "format": "JSON"
+    },
+    {
+      "name": "michigandaily-2022-08-03T13:03:33.349891-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "michigandaily-2022-08-03T13:03:33.349891-04:00.jpg",
+      "mtime": "1659547479",
+      "size": "8867",
+      "md5": "bf9e585a9ddbf3c90105b9aed13bdea4",
+      "crc32": "704430e9",
+      "sha1": "7dee54b44175c31c1d86b801ffacf778260d8386"
+    },
+    {
       "name": "michigandaily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ade221de0dc42eb989903b8cb66a89f7c0035872",
-      "mtime": "1659509611",
-      "size": "19981",
-      "md5": "ad24a51917a6647a9653e2f230bab478",
-      "crc32": "d8a95b03",
-      "sha1": "31f315faeeb757e5d03b32dc2b122f8a479e46de",
+      "btih": "e50b47d41c731d596eb1c335c45f01e4638e1aff",
+      "mtime": "1659547483",
+      "size": "21045",
+      "md5": "f291ef5a6c1bbd4083b2d002f85fe5ad",
+      "crc32": "b10c5770",
+      "sha1": "5d866fa8ca8cf64fbf1b191ca283ffdd2c04e061",
       "format": "Archive BitTorrent"
     },
     {
       "name": "michigandaily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "094e73ab2ff656afdbe92f3c5ac2d512",
+      "md5": "3d55daf814553c167d9f5fe5a9ece189",
       "summation": "md5"
     },
     {
       "name": "michigandaily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659501405",
-      "size": "131072",
-      "md5": "e6ca28d9abcf41872e14d0e276699c06",
-      "crc32": "e8a21381",
-      "sha1": "e1b192164319eadc3aa147111e3da6d08b940d29",
+      "mtime": "1659546229",
+      "size": "135168",
+      "md5": "d03d93071b598a03462bdd41a2f93524",
+      "crc32": "3b1940d4",
+      "sha1": "ebee1905192053b140c91f70ffafb97fa2aac4c2",
       "format": "Metadata"
     },
     {
@@ -938,9 +990,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 90,
-  "item_last_updated": 1659509611,
-  "item_size": 5875203,
+  "files_count": 95,
+  "item_last_updated": 1659547483,
+  "item_size": 6163093,
   "metadata": {
     "identifier": "michigandaily-2022",
     "collection": [
@@ -957,10 +1009,10 @@
     "publicdate": "2022-07-26 02:47:30",
     "addeddate": "2022-07-26 02:47:30"
   },
-  "server": "ia601409.us.archive.org",
-  "uniq": 381450043,
+  "server": "ia801409.us.archive.org",
+  "uniq": 1794609641,
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia801409.us.archive.org",
+    "ia601409.us.archive.org"
   ]
 }

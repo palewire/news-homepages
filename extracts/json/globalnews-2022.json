@@ -1,5 +1,5 @@
 {
-  "created": 1659509328,
+  "created": 1659571000,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/35/items/globalnews-2022",
@@ -3578,31 +3578,83 @@
       "sha1": "66edb6982af8519114d6d53105abd97f844fb8b0"
     },
     {
+      "name": "globalnews-2022-08-03T12:56:32.621202-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659545798",
+      "size": "24989",
+      "md5": "2e973edd643982120b4788adced5cba7",
+      "crc32": "bcbde9ab",
+      "sha1": "db97a6dfe57d11d277cc8eda9111b041ca455b92",
+      "format": "JSON"
+    },
+    {
+      "name": "globalnews-2022-08-03T12:56:32.621202-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659545799",
+      "size": "85602",
+      "md5": "22ff7a8f91ea53bdeadcc1a254500721",
+      "crc32": "cf888b3c",
+      "sha1": "270d9ef8f842f6384f45bef9df272eae23c3e516",
+      "format": "JSON"
+    },
+    {
+      "name": "globalnews-2022-08-03T12:56:32.621202-04:00.jpg",
+      "source": "original",
+      "mtime": "1659545796",
+      "size": "324191",
+      "md5": "9d81f6f498d8f934e5df4235947b9c41",
+      "crc32": "17c6ea90",
+      "sha1": "428e401d70169d9e901899fcf80b3a23f5143b12",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "globalnews-2022-08-03T12:56:32.621202-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659545802",
+      "size": "1443",
+      "md5": "790afce181d8b03d76d1bf5f733684c1",
+      "crc32": "52dc20ca",
+      "sha1": "8b69721fe54573336abbcfc99cd35480245398cf",
+      "format": "JSON"
+    },
+    {
+      "name": "globalnews-2022-08-03T12:56:32.621202-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "globalnews-2022-08-03T12:56:32.621202-04:00.jpg",
+      "mtime": "1659546876",
+      "size": "11268",
+      "md5": "a573abcad27840c03fe7ba0cecf9cca7",
+      "crc32": "3f7be41b",
+      "sha1": "11144fe1b2a90104d1dbf16e1fd1607de5f1d135"
+    },
+    {
       "name": "globalnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b6b1e319a8431330d26d90095403b1c9149e5073",
-      "mtime": "1659509283",
-      "size": "74001",
-      "md5": "b79ef3fec527dcac5a261c81bac00d9d",
-      "crc32": "3c2a1861",
-      "sha1": "1301b4f9c9dc80be6c56d168993f932bd82a5720",
+      "btih": "6cf2691998d2edb511335034e7aa0586e2fefe8f",
+      "mtime": "1659546934",
+      "size": "75071",
+      "md5": "08aee5166c0aaea2e74ebe52f13fc9d4",
+      "crc32": "f21482c4",
+      "sha1": "3a21cc1743514929f63a3c05473e4bacb235a171",
       "format": "Archive BitTorrent"
     },
     {
       "name": "globalnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7683bb4f3066d7a84b6eafc6bae064db",
+      "md5": "6a619fed095921b5b2543408eb02a5c9",
       "summation": "md5"
     },
     {
       "name": "globalnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659501005",
-      "size": "409600",
-      "md5": "f4f720e4b0d5881145ad1141fc3f14d1",
-      "crc32": "5a3b3650",
-      "sha1": "b7c67f3c6bd282284f7b193e4d686b4926718d5f",
+      "mtime": "1659545805",
+      "size": "413696",
+      "md5": "d184013880a6eea9892e868eacb5041c",
+      "crc32": "87594d39",
+      "sha1": "209b4d9f7dd1a46bea2a273bf1c70c5dc95cc1a4",
       "format": "Metadata"
     },
     {
@@ -3616,9 +3668,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 344,
-  "item_last_updated": 1659509283,
-  "item_size": 37801426,
+  "files_count": 349,
+  "item_last_updated": 1659546934,
+  "item_size": 38254085,
   "metadata": {
     "identifier": "globalnews-2022",
     "collection": [
@@ -3635,10 +3687,10 @@
     "publicdate": "2022-06-30 22:35:53",
     "addeddate": "2022-06-30 22:35:53"
   },
-  "server": "ia801404.us.archive.org",
-  "uniq": 492617209,
+  "server": "ia601404.us.archive.org",
+  "uniq": 1977223845,
   "workable_servers": [
-    "ia801404.us.archive.org",
-    "ia601404.us.archive.org"
+    "ia601404.us.archive.org",
+    "ia801404.us.archive.org"
   ]
 }

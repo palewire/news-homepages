@@ -1,5 +1,5 @@
 {
-  "created": 1659502512,
+  "created": 1659574271,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/7/items/uhmallorca-2022",
@@ -640,31 +640,83 @@
       "sha1": "1177f82c70329dfd299be1198796f7271c5fe34e"
     },
     {
+      "name": "uhmallorca-2022-08-03T16:32:50.941791+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659537174",
+      "size": "109935",
+      "md5": "66ddc1e3432d0ad52728766750dd2d95",
+      "crc32": "eb7b736b",
+      "sha1": "784cbfffbb42e95a839c28f278b90ecae81132e9",
+      "format": "JSON"
+    },
+    {
+      "name": "uhmallorca-2022-08-03T16:32:50.941791+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659537175",
+      "size": "81295",
+      "md5": "8f39ea398405e58a77efbe162ae0d14a",
+      "crc32": "08103e46",
+      "sha1": "9d8d53384a379bd07fb2ad87ce2e96d7bfe5272c",
+      "format": "JSON"
+    },
+    {
+      "name": "uhmallorca-2022-08-03T16:32:50.941791+02:00.jpg",
+      "source": "original",
+      "mtime": "1659537172",
+      "size": "321369",
+      "md5": "e530bceeef84936bc0055b1bfe9889b6",
+      "crc32": "3defc578",
+      "sha1": "23cb2fead02f7896677687ff7bb12d567b9500fa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "uhmallorca-2022-08-03T16:32:50.941791+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659537177",
+      "size": "1486",
+      "md5": "57b12c1e4cd56dafcc912d1d2370a227",
+      "crc32": "4f11c23f",
+      "sha1": "d0bf3f8c2fdd612a2231b77aa2e05e30b5d51294",
+      "format": "JSON"
+    },
+    {
+      "name": "uhmallorca-2022-08-03T16:32:50.941791+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "uhmallorca-2022-08-03T16:32:50.941791+02:00.jpg",
+      "mtime": "1659540287",
+      "size": "9882",
+      "md5": "3d1f6b1a998f745f58f62224b919b887",
+      "crc32": "2f5513a8",
+      "sha1": "d72a8c5491ef9e18159603fd0ef36d7bd2c57d90"
+    },
+    {
       "name": "uhmallorca-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a69cbfd183959fce4704850b2b8dcfc70e482bca",
-      "mtime": "1659502164",
-      "size": "14444",
-      "md5": "079b67e5e873ac7b50b9073132d318c0",
-      "crc32": "59097761",
-      "sha1": "864cafae15a5f4febbcfcc33e32b78041f0a5043",
+      "btih": "082baf4170acacea0e140e23d67814b8a8d50d77",
+      "mtime": "1659540290",
+      "size": "15514",
+      "md5": "780bc5f1b7bc0efb937ea2032f5755a0",
+      "crc32": "54e7bc95",
+      "sha1": "e1c9664ecb6e4f365b92574dc9a36d0018ed7537",
       "format": "Archive BitTorrent"
     },
     {
       "name": "uhmallorca-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6bc5a8eaa881c0b1ee8b5e2103d3f55e",
+      "md5": "78af3347571f2dd1d0e285b880ed3030",
       "summation": "md5"
     },
     {
       "name": "uhmallorca-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659491960",
-      "size": "86016",
-      "md5": "a9a5c7a248ee3d4f7860849e56f562c7",
-      "crc32": "626e1116",
-      "sha1": "42c67358151ea34599e7bef56bd6a5f63a9bc77b",
+      "mtime": "1659537180",
+      "size": "94208",
+      "md5": "df7bc3ab127deabdbeb6102542cf7a28",
+      "crc32": "5b87cbf7",
+      "sha1": "b70afd58f108e3d492aa1fd1064865be04eca628",
       "format": "Metadata"
     },
     {
@@ -678,9 +730,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 65,
-  "item_last_updated": 1659502164,
-  "item_size": 5665315,
+  "files_count": 70,
+  "item_last_updated": 1659540290,
+  "item_size": 6198544,
   "metadata": {
     "identifier": "uhmallorca-2022",
     "collection": [
@@ -698,7 +750,48 @@
     "addeddate": "2022-07-28 18:53:58"
   },
   "server": "ia601502.us.archive.org",
-  "uniq": 725897316,
+  "uhmallorca-2022": [
+    {
+      "url": "https://www.ultimahora.es/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ultimahora_es-_-2022_08_03_14_09_12.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ultimahora_es-_-2022_08_03_14_09_12.report.json",
+      "summary": {
+        "performance": 0.21,
+        "accessibility": 0.92,
+        "best-practices": 0.92,
+        "seo": 0.89,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.ultimahora.es/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ultimahora_es-_-2022_08_03_14_09_36.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ultimahora_es-_-2022_08_03_14_09_36.report.json",
+      "summary": {
+        "performance": 0.25,
+        "accessibility": 0.92,
+        "best-practices": 0.92,
+        "seo": 0.89,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.ultimahora.es/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ultimahora_es-_-2022_08_03_14_09_59.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ultimahora_es-_-2022_08_03_14_09_59.report.json",
+      "summary": {
+        "performance": 0.25,
+        "accessibility": 0.92,
+        "best-practices": 0.83,
+        "seo": 0.89,
+        "pwa": 0.4
+      }
+    }
+  ],
+  "uniq": 1571863757,
   "workable_servers": [
     "ia601502.us.archive.org",
     "ia801502.us.archive.org"

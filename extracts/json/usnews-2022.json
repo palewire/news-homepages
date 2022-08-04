@@ -1,5 +1,5 @@
 {
-  "created": 1659502327,
+  "created": 1659574289,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/10/items/usnews-2022",
@@ -1150,31 +1150,83 @@
       "sha1": "4a90575f2d7b09eb1c965a6188ae198aaba5731a"
     },
     {
+      "name": "usnews-2022-08-03T10:33:06.845007-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659537189",
+      "size": "455",
+      "md5": "1d933541f21f93533d717441a22eed6d",
+      "crc32": "b28a7703",
+      "sha1": "b360434af0317a7c5a8bebe7aa303c11b800680d",
+      "format": "JSON"
+    },
+    {
+      "name": "usnews-2022-08-03T10:33:06.845007-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659537190",
+      "size": "64746",
+      "md5": "f695af05eba1baac6bf1f220aeb4092a",
+      "crc32": "013254f5",
+      "sha1": "88942cfd947220de352a46fd334e0097744e9e9e",
+      "format": "JSON"
+    },
+    {
+      "name": "usnews-2022-08-03T10:33:06.845007-04:00.jpg",
+      "source": "original",
+      "mtime": "1659537187",
+      "size": "310043",
+      "md5": "109d5b76a5328d2f19996317b5a8eb3e",
+      "crc32": "f44f2393",
+      "sha1": "fd91e9f86b074084d2df7f05aa0bc9cd5e1d6a03",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "usnews-2022-08-03T10:33:06.845007-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659537192",
+      "size": "1456",
+      "md5": "48d57ef2df0944015a11bf0be86bea94",
+      "crc32": "f66bf04f",
+      "sha1": "db799f2b0e9ab89b137a21d79ac5aedd1c55226c",
+      "format": "JSON"
+    },
+    {
+      "name": "usnews-2022-08-03T10:33:06.845007-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "usnews-2022-08-03T10:33:06.845007-04:00.jpg",
+      "mtime": "1659540312",
+      "size": "9598",
+      "md5": "c71c206b99fc096ea5a158182540e40b",
+      "crc32": "6eaeec2e",
+      "sha1": "75380f1b83f8534fdde7deac411e176acb4b3446"
+    },
+    {
       "name": "usnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b3193a3d13d3607558c74687e2719babc158bdb0",
-      "mtime": "1659502235",
-      "size": "24295",
-      "md5": "4bb8b49d375d6eec54025d2ef4afaeb6",
-      "crc32": "b09009be",
-      "sha1": "7c2bc299fb3f6afeacbe15459df30c49d5e55712",
+      "btih": "b92a78711452c43727c49f4b528487c4a052e709",
+      "mtime": "1659540316",
+      "size": "25342",
+      "md5": "71e234a9237ef4fbe3e570d69db608e1",
+      "crc32": "2d011e55",
+      "sha1": "1b0c084e9a91def3953cc5e70261742f88bbbf1b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "usnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c2b766186cf4089070ebb451601a2ebe",
+      "md5": "308c7e2c478fd560a37b1f45b7652d9f",
       "summation": "md5"
     },
     {
       "name": "usnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659491982",
-      "size": "155648",
-      "md5": "67cdf1a082eebfc651d7aefc52ff141d",
-      "crc32": "d456a719",
-      "sha1": "f72920cd22d15b2ddeb21940761d3733a20c407e",
+      "mtime": "1659537197",
+      "size": "163840",
+      "md5": "897eb2e31009f73c63d5d54ecb7e1e62",
+      "crc32": "ff1b93ff",
+      "sha1": "d4c25f6b06a72f037798ec10a9aac975d2ab00ca",
       "format": "Metadata"
     },
     {
@@ -1188,9 +1240,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 114,
-  "item_last_updated": 1659502235,
-  "item_size": 8361485,
+  "files_count": 119,
+  "item_last_updated": 1659540316,
+  "item_size": 8757022,
   "metadata": {
     "identifier": "usnews-2022",
     "collection": [
@@ -1207,10 +1259,51 @@
     "publicdate": "2022-07-24 03:44:34",
     "addeddate": "2022-07-24 03:44:34"
   },
-  "server": "ia601400.us.archive.org",
-  "uniq": 324457955,
+  "server": "ia801400.us.archive.org",
+  "uniq": 1066911613,
+  "usnews-2022": [
+    {
+      "url": "https://www.usnews.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_usnews_com-_-2022_08_03_14_13_23.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_usnews_com-_-2022_08_03_14_13_23.report.json",
+      "summary": {
+        "performance": 0.23,
+        "accessibility": 0.8,
+        "best-practices": 0.83,
+        "seo": 0.84,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.usnews.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_usnews_com-_-2022_08_03_14_13_53.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_usnews_com-_-2022_08_03_14_13_53.report.json",
+      "summary": {
+        "performance": 0.23,
+        "accessibility": 0.8,
+        "best-practices": 0.83,
+        "seo": 0.84,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.usnews.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_usnews_com-_-2022_08_03_14_12_53.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_usnews_com-_-2022_08_03_14_12_53.report.json",
+      "summary": {
+        "performance": 0.24,
+        "accessibility": 0.8,
+        "best-practices": 0.83,
+        "seo": 0.93,
+        "pwa": 0.4
+      }
+    }
+  ],
   "workable_servers": [
-    "ia601400.us.archive.org",
-    "ia801400.us.archive.org"
+    "ia801400.us.archive.org",
+    "ia601400.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1659531063,
+  "created": 1659573774,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/8/items/journalsentinel-2022",
@@ -8812,31 +8812,83 @@
       "sha1": "fb2be50760f289618ada879fa083666cb7f83469"
     },
     {
+      "name": "journalsentinel-2022-08-03T12:00:06.378818-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659546017",
+      "size": "24943",
+      "md5": "e7abda941829bbc85aea08e04f45bb04",
+      "crc32": "62e7efc9",
+      "sha1": "4be8ba276e2a7a0b692419858cea52a8185dc9c7",
+      "format": "JSON"
+    },
+    {
+      "name": "journalsentinel-2022-08-03T12:00:06.378818-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659546018",
+      "size": "39497",
+      "md5": "0785b2632b3c91adfd5edc38b697ce59",
+      "crc32": "28799b8a",
+      "sha1": "5044b13c86c9f8c5d2ea89563139b4c38d01701d",
+      "format": "JSON"
+    },
+    {
+      "name": "journalsentinel-2022-08-03T12:00:06.378818-05:00.jpg",
+      "source": "original",
+      "mtime": "1659546015",
+      "size": "312272",
+      "md5": "31ca8a09b03e5186078cf9658a1d4b33",
+      "crc32": "00cac869",
+      "sha1": "d0366a230bf76b81a9880cf2395441925ad5a457",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "journalsentinel-2022-08-03T12:00:06.378818-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659546020",
+      "size": "1471",
+      "md5": "a279b8243ea50ff755afc4c656bac996",
+      "crc32": "7f1c0380",
+      "sha1": "b1de62af2d95d985035e3353734cadd3d9a8b173",
+      "format": "JSON"
+    },
+    {
+      "name": "journalsentinel-2022-08-03T12:00:06.378818-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "journalsentinel-2022-08-03T12:00:06.378818-05:00.jpg",
+      "mtime": "1659547237",
+      "size": "9554",
+      "md5": "08c82ee5d582643bb7d58a6f13f12137",
+      "crc32": "6a535802",
+      "sha1": "ab774469a898bfc9b45a0245ababe470ddeb059f"
+    },
+    {
       "name": "journalsentinel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3155724e03d68b969ca11a1aa72ff88989b175fb",
-      "mtime": "1659509296",
-      "size": "183927",
-      "md5": "39358976ec79981c5e80a98fa957391f",
-      "crc32": "1711f303",
-      "sha1": "2cb902012025f903fc9efeec86813419d1606a22",
+      "btih": "7887781132cd1dc55c765897d4cd975b2c42e8a0",
+      "mtime": "1659547246",
+      "size": "185021",
+      "md5": "b38ff6b340181e5e4d741dd0fdfdd74a",
+      "crc32": "950024ce",
+      "sha1": "fd22d9d78c6385dfc23d87c75ad3a74a49a67e34",
       "format": "Archive BitTorrent"
     },
     {
       "name": "journalsentinel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dd940cbf0da1cf0482fa94a03e27be6e",
+      "md5": "52922ceef281024a99e7c43f97ec659c",
       "summation": "md5"
     },
     {
       "name": "journalsentinel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659501201",
-      "size": "987136",
-      "md5": "5da0bc7d658b3f6bb2bc50ff209ebc0e",
-      "crc32": "c3c1cee8",
-      "sha1": "8e50eb1669d20cd5663e926e4977a67726f2877a",
+      "mtime": "1659546026",
+      "size": "995328",
+      "md5": "8d979a1a7484a7113c3a02c5627df4a7",
+      "crc32": "bcab083a",
+      "sha1": "df4865b0ca4ad1b5f6b41477e65fb46700ea7c36",
       "format": "Metadata"
     },
     {
@@ -8850,46 +8902,46 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 843,
-  "item_last_updated": 1659509296,
-  "item_size": 71121169,
+  "files_count": 848,
+  "item_last_updated": 1659547246,
+  "item_size": 71518192,
   "journalsentinel-2022": [
     {
       "url": "https://www.jsonline.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_jsonline_com-_-2022_08_03_03_06_00.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_jsonline_com-_-2022_08_03_03_06_00.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_jsonline_com-_-2022_08_03_15_26_05.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_jsonline_com-_-2022_08_03_15_26_05.report.json",
       "summary": {
-        "performance": 0.32,
-        "accessibility": 0.87,
-        "best-practices": 0.92,
-        "seo": 0.92,
+        "performance": 0.84,
+        "accessibility": 0.81,
+        "best-practices": 1,
+        "seo": 0.86,
         "pwa": 0.3
       }
     },
     {
       "url": "https://www.jsonline.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_jsonline_com-_-2022_08_03_03_07_09.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_jsonline_com-_-2022_08_03_03_07_09.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_jsonline_com-_-2022_08_03_15_27_13.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_jsonline_com-_-2022_08_03_15_27_13.report.json",
       "summary": {
-        "performance": 0.43,
-        "accessibility": 0.87,
-        "best-practices": 1,
-        "seo": 0.92,
+        "performance": 0.81,
+        "accessibility": 0.88,
+        "best-practices": 0.92,
+        "seo": 0.93,
         "pwa": 0.3
       }
     },
     {
       "url": "https://www.jsonline.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_jsonline_com-_-2022_08_03_03_06_24.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_jsonline_com-_-2022_08_03_03_06_24.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_jsonline_com-_-2022_08_03_15_26_23.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_jsonline_com-_-2022_08_03_15_26_23.report.json",
       "summary": {
-        "performance": 0.47,
-        "accessibility": 0.87,
+        "performance": 0.86,
+        "accessibility": 0.88,
         "best-practices": 1,
-        "seo": 0.92,
+        "seo": 0.93,
         "pwa": 0.3
       }
     }
@@ -8910,10 +8962,10 @@
     "publicdate": "2022-03-23 23:06:34",
     "addeddate": "2022-03-23 23:06:34"
   },
-  "server": "ia802503.us.archive.org",
-  "uniq": 925274646,
+  "server": "ia902503.us.archive.org",
+  "uniq": 1958150126,
   "workable_servers": [
-    "ia802503.us.archive.org",
-    "ia902503.us.archive.org"
+    "ia902503.us.archive.org",
+    "ia802503.us.archive.org"
   ]
 }

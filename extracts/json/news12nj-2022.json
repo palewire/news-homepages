@@ -1,5 +1,5 @@
 {
-  "created": 1659531188,
+  "created": 1659573823,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/2/items/news12nj-2022",
@@ -919,31 +919,83 @@
       "format": "JSON"
     },
     {
+      "name": "news12nj-2022-08-03T08:52:21.662869-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "news12nj-2022-08-03T08:52:21.662869-04:00.jpg",
+      "mtime": "1659535900",
+      "size": "8421",
+      "md5": "429360f9f0fdb743b01d05fa88d046af",
+      "crc32": "fa9892c3",
+      "sha1": "391e514be8b58fa1fb0f243936244b5824a89c03"
+    },
+    {
+      "name": "news12nj-2022-08-03T20:42:55.606264-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659573779",
+      "size": "18846",
+      "md5": "03583819b40b901d60bb070d154b6cba",
+      "crc32": "c8d938ff",
+      "sha1": "24ab1fd68a50dcbe1cf2a75ec8341104ddfa0388",
+      "format": "JSON"
+    },
+    {
+      "name": "news12nj-2022-08-03T20:42:55.606264-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659573780",
+      "size": "16416",
+      "md5": "7d16aea841e16660c180f1eed60f26ac",
+      "crc32": "5d5fd9fa",
+      "sha1": "30dfae436a93e0087e2253023fab3ab21ce57089",
+      "format": "JSON"
+    },
+    {
+      "name": "news12nj-2022-08-03T20:42:55.606264-04:00.jpg",
+      "source": "original",
+      "mtime": "1659573777",
+      "size": "216143",
+      "md5": "88e8eabd06929ddc67eebaff94174ee7",
+      "crc32": "b8076a08",
+      "sha1": "0750b7beb461e611cdb3150f08ed298e53368bd2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "news12nj-2022-08-03T20:42:55.606264-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659573782",
+      "size": "1510",
+      "md5": "428df79cb8e2fa8e2e6ca8751771e3b5",
+      "crc32": "4556dcf6",
+      "sha1": "ed297079bc94ffc72d99d07036bd651d57490edb",
+      "format": "JSON"
+    },
+    {
       "name": "news12nj-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bfade0b20413ffcb35766562574d0b3c46678941",
-      "mtime": "1659531185",
-      "size": "19899",
-      "md5": "a3840aca109c3506c418822ef7505110",
-      "crc32": "cd9177e1",
-      "sha1": "255331321157cf208b09e725ab27b58b1715e8f0",
+      "btih": "6d35906cbfc97c4229f8a8b176f20948617ea9a7",
+      "mtime": "1659573820",
+      "size": "20958",
+      "md5": "b0447791706307b73443bb0e5c910ea8",
+      "crc32": "38dc08f0",
+      "sha1": "599e9e611f2bfc935ac5c371624570344c174d72",
       "format": "Archive BitTorrent"
     },
     {
       "name": "news12nj-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e87a98e72111dd23b167c206d1987ef3",
+      "md5": "886b3926d535b81f39ba06530474672d",
       "summation": "md5"
     },
     {
       "name": "news12nj-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659531151",
-      "size": "135168",
-      "md5": "81c4d2f6113bbaa369911a4381915522",
-      "crc32": "df763218",
-      "sha1": "9ba52979af0b7ed05c6c9cea01b9412a4fd1cdba",
+      "mtime": "1659573786",
+      "size": "139264",
+      "md5": "e0de95ccf2286b9480c7451fbb349078",
+      "crc32": "6cf6cd28",
+      "sha1": "4190ee0486fc1dac3baea25bf140a7a7ee7ec832",
       "format": "Metadata"
     },
     {
@@ -957,9 +1009,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 92,
-  "item_last_updated": 1659531185,
-  "item_size": 5222632,
+  "files_count": 97,
+  "item_last_updated": 1659573820,
+  "item_size": 5489123,
   "metadata": {
     "identifier": "news12nj-2022",
     "collection": [
@@ -981,15 +1033,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3351416442,
+      "task_id": 3352007773,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 597807982,
+  "uniq": 1197065543,
   "workable_servers": [
     "ia902508.us.archive.org"
   ]

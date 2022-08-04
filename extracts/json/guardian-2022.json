@@ -1,5 +1,5 @@
 {
-  "created": 1659525474,
+  "created": 1659571723,
   "d1": "ia902206.us.archive.org",
   "d2": "ia802206.us.archive.org",
   "dir": "/20/items/guardian-2022",
@@ -14304,31 +14304,83 @@
       "sha1": "af555bec8784719a49b7e643d55d5b9e1cb3b673"
     },
     {
+      "name": "guardian-2022-08-03T17:58:14.899522+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659545898",
+      "size": "45980",
+      "md5": "2a3ec7af3a5bbdd94d3b4ec3707123c1",
+      "crc32": "8fd1cf27",
+      "sha1": "ed55d831f099067374c981ad847a260ec10ff19d",
+      "format": "JSON"
+    },
+    {
+      "name": "guardian-2022-08-03T17:58:14.899522+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659545901",
+      "size": "101327",
+      "md5": "145fee3de5c170069dd2ff3f5d345b83",
+      "crc32": "c53414e3",
+      "sha1": "bc5a0642d8648dfe01e4ee8ebbbbe4727e1b6643",
+      "format": "JSON"
+    },
+    {
+      "name": "guardian-2022-08-03T17:58:14.899522+01:00.jpg",
+      "source": "original",
+      "mtime": "1659545896",
+      "size": "345816",
+      "md5": "f7a4b58a539f61944e0ad2177b6856ad",
+      "crc32": "e87c8f95",
+      "sha1": "1b6f243e91eac6b946c96ad0c3b7c9f7e833d975",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "guardian-2022-08-03T17:58:14.899522+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659545904",
+      "size": "1522",
+      "md5": "8c83c38ce5347da383f93a629f93f2fb",
+      "crc32": "d37a366c",
+      "sha1": "307cb95d3e0e9577d6f6f664d682d10052ffa1a0",
+      "format": "JSON"
+    },
+    {
+      "name": "guardian-2022-08-03T17:58:14.899522+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "guardian-2022-08-03T17:58:14.899522+01:00.jpg",
+      "mtime": "1659547202",
+      "size": "10432",
+      "md5": "fdcf779de93f183c43c8bb378da0c73d",
+      "crc32": "23b3c2b8",
+      "sha1": "a5e7c8e92be73f45782c83892a259adda80409b5"
+    },
+    {
       "name": "guardian-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0920aaabdf9b4992f810673732cc97bd6c81cabd",
-      "mtime": "1659525460",
-      "size": "290829",
-      "md5": "0e1fd276303b80076d5f3663e3a7d9b3",
-      "crc32": "c73cdf3b",
-      "sha1": "aeac9ea8d651d31083d13059a5a34cc42f37920c",
+      "btih": "3dc27ab8866d5ca2124166175c8f4749b55418d4",
+      "mtime": "1659547221",
+      "size": "291890",
+      "md5": "e78f9276a4ac53184ca08c15549d989f",
+      "crc32": "df94ff55",
+      "sha1": "211d74216b2d9828e5b79dec07eee89bbf43e621",
       "format": "Archive BitTorrent"
     },
     {
       "name": "guardian-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9d94f3955b785fe7ee39977bd891d289",
+      "md5": "18dc9627cbd4d84fab91466204126a0f",
       "summation": "md5"
     },
     {
       "name": "guardian-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659517824",
-      "size": "1572864",
-      "md5": "2f78daa652e6fb2a4359816c8043a043",
-      "crc32": "0a6ad555",
-      "sha1": "bd1824b0ed51d86a1481e02c52094807d236c2cd",
+      "mtime": "1659545909",
+      "size": "1576960",
+      "md5": "3675f8bb0df90b56b4acbce9b809514a",
+      "crc32": "03ef11fa",
+      "sha1": "4d8a9b24ab11e5328c04268713e0c146c399449e",
       "format": "Metadata"
     },
     {
@@ -14342,9 +14394,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1366,
-  "item_last_updated": 1659525460,
-  "item_size": 175484356,
+  "files_count": 1371,
+  "item_last_updated": 1659547221,
+  "item_size": 175994590,
   "metadata": {
     "identifier": "guardian-2022",
     "collection": [
@@ -14361,10 +14413,10 @@
     "publicdate": "2022-03-23 08:03:23",
     "addeddate": "2022-03-23 08:03:23"
   },
-  "server": "ia802206.us.archive.org",
-  "uniq": 8776447,
+  "server": "ia902206.us.archive.org",
+  "uniq": 266963254,
   "workable_servers": [
-    "ia802206.us.archive.org",
-    "ia902206.us.archive.org"
+    "ia902206.us.archive.org",
+    "ia802206.us.archive.org"
   ]
 }

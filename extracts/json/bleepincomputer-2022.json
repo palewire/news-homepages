@@ -1,5 +1,46 @@
 {
-  "created": 1659530216,
+  "bleepincomputer-2022": [
+    {
+      "url": "https://www.bleepingcomputer.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bleepingcomputer_com-_-2022_08_03_22_50_30.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bleepingcomputer_com-_-2022_08_03_22_50_30.report.json",
+      "summary": {
+        "performance": 0.34,
+        "accessibility": 1,
+        "best-practices": 0.83,
+        "seo": 0.9,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.bleepingcomputer.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bleepingcomputer_com-_-2022_08_03_22_50_58.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bleepingcomputer_com-_-2022_08_03_22_50_58.report.json",
+      "summary": {
+        "performance": 0.41,
+        "accessibility": 1,
+        "best-practices": 0.83,
+        "seo": 0.9,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.bleepingcomputer.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bleepingcomputer_com-_-2022_08_03_22_51_25.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bleepingcomputer_com-_-2022_08_03_22_51_25.report.json",
+      "summary": {
+        "performance": 0.35,
+        "accessibility": 1,
+        "best-practices": 0.83,
+        "seo": 0.9,
+        "pwa": 0.3
+      }
+    }
+  ],
+  "created": 1659573463,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/15/items/bleepincomputer-2022",
@@ -1045,31 +1086,94 @@
       "format": "JSON"
     },
     {
+      "name": "bleepincomputer-2022-08-03T08:36:09.438123-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bleepincomputer-2022-08-03T08:36:09.438123-04:00.jpg",
+      "mtime": "1659534802",
+      "size": "10093",
+      "md5": "0909ee06f9fbf2d1f047264ae31063da",
+      "crc32": "16573cbd",
+      "sha1": "b529b1945d53024b1b91716d92d511eba75076a0"
+    },
+    {
+      "name": "bleepincomputer-2022-08-03T19:18:37.256731-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659568722",
+      "size": "30867",
+      "md5": "72b82eedf914e588e923ed691b170428",
+      "crc32": "a8a3a9e6",
+      "sha1": "65e29cd58838971779007460241055fde1fca32e",
+      "format": "JSON"
+    },
+    {
+      "name": "bleepincomputer-2022-08-03T19:18:37.256731-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659568724",
+      "size": "32018",
+      "md5": "413bacbd42f5f33c6b02549454bac855",
+      "crc32": "2bdd1dfe",
+      "sha1": "278fcec815f82202c30092518859cf7e21c0c974",
+      "format": "JSON"
+    },
+    {
+      "name": "bleepincomputer-2022-08-03T19:18:37.256731-04:00.jpg",
+      "source": "original",
+      "mtime": "1659568720",
+      "size": "315559",
+      "md5": "b2973b8d2667f6ceed934c7df984b7ce",
+      "crc32": "7e56a2ef",
+      "sha1": "5790c743a799fc9fb223be75484039f4045e9870",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bleepincomputer-2022-08-03T19:18:37.256731-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659568725",
+      "size": "1537",
+      "md5": "c64dffbaaaf4f3252afe0cd6ef281f2e",
+      "crc32": "52a634be",
+      "sha1": "8d560c27684709ef560d1c5da84060df53882969",
+      "format": "JSON"
+    },
+    {
+      "name": "bleepincomputer-2022-08-03T19:18:37.256731-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bleepincomputer-2022-08-03T19:18:37.256731-04:00.jpg",
+      "mtime": "1659568849",
+      "size": "10158",
+      "md5": "5122ea8ee12049bf402f5d17b348e548",
+      "crc32": "09f5b3b1",
+      "sha1": "5881db44c916bf4af2063d9720737337931b7c87"
+    },
+    {
       "name": "bleepincomputer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "71205cd2e1e9b9f57beb5bf9b7aa461c00c4e547",
-      "mtime": "1659530213",
-      "size": "23234",
-      "md5": "674b2ca243d2bbf4646969b11ea1f837",
-      "crc32": "b50c1e8d",
-      "sha1": "95b2df2558374e0eeada3d75c9c753b8f30bcc76",
+      "btih": "7cb74bb3ce0760026040ef3de70a5aa1860e70f8",
+      "mtime": "1659568853",
+      "size": "24541",
+      "md5": "a5470b8aa676f2464e62ccc16fda359c",
+      "crc32": "cddd7e1b",
+      "sha1": "a35ce974ac9978d339b30e8d2f1d0094c9548333",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bleepincomputer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "00b3e8fc8aa982e704c196a41383914f",
+      "md5": "74e8fc8e3ce1168511689fe60fda4eed",
       "summation": "md5"
     },
     {
       "name": "bleepincomputer-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659530179",
-      "size": "147456",
-      "md5": "db68176c717be5427bee67d27a62e3a9",
-      "crc32": "a7e82c50",
-      "sha1": "51790bbb382ca95b214502b6f5976a399b9643d5",
+      "mtime": "1659568727",
+      "size": "151552",
+      "md5": "b8de979ff7b24c20a2ef0061cb7a2ffe",
+      "crc32": "e767cf8d",
+      "sha1": "07f45b4ff9ff43dd02931419e54eba9aa4236cdb",
       "format": "Metadata"
     },
     {
@@ -1083,9 +1187,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 104,
-  "item_last_updated": 1659530213,
-  "item_size": 7253671,
+  "files_count": 110,
+  "item_last_updated": 1659568853,
+  "item_size": 7659306,
   "metadata": {
     "identifier": "bleepincomputer-2022",
     "collection": [
@@ -1102,21 +1206,10 @@
     "publicdate": "2022-07-25 06:47:16",
     "addeddate": "2022-07-25 06:47:16"
   },
-  "pending_tasks": true,
-  "server": "ia601405.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3351407783,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1390759161,
+  "server": "ia801405.us.archive.org",
+  "uniq": 2001379134,
   "workable_servers": [
+    "ia801405.us.archive.org",
     "ia601405.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1659531625,
+  "created": 1659574280,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/13/items/uolnoticias-2022",
@@ -68,31 +68,83 @@
       "sha1": "46a6f1bc20fa06545719800417c702dd4e6277ce"
     },
     {
+      "name": "uolnoticias-2022-08-03T11:32:59.241769-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659537181",
+      "size": "17322",
+      "md5": "0b6b87b1e1158670b7662724b7d1631a",
+      "crc32": "2fd23892",
+      "sha1": "0128703e8b347f2224f82789a3588f0cef325608",
+      "format": "JSON"
+    },
+    {
+      "name": "uolnoticias-2022-08-03T11:32:59.241769-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659537182",
+      "size": "62416",
+      "md5": "9c38666394b23b2a0ee7a1ee775713d3",
+      "crc32": "fc1c5ef4",
+      "sha1": "2790fc8592aa7d87d1ccedc541b61c24a26dacbd",
+      "format": "JSON"
+    },
+    {
+      "name": "uolnoticias-2022-08-03T11:32:59.241769-03:00.jpg",
+      "source": "original",
+      "mtime": "1659537180",
+      "size": "193086",
+      "md5": "679bf855db242c74e5a530576ebbb45b",
+      "crc32": "6f4c279e",
+      "sha1": "c2e057c75686d77778e03be8709d2dfdfdef4ce4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "uolnoticias-2022-08-03T11:32:59.241769-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659537184",
+      "size": "1504",
+      "md5": "07596288cc55c42c9f84c49551b9b683",
+      "crc32": "0c9c38e6",
+      "sha1": "37e7d0c409b4cfc345952f2399785ac62611b1ec",
+      "format": "JSON"
+    },
+    {
+      "name": "uolnoticias-2022-08-03T11:32:59.241769-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "uolnoticias-2022-08-03T11:32:59.241769-03:00.jpg",
+      "mtime": "1659540270",
+      "size": "8952",
+      "md5": "0ae3a75261852b107da8266e27374e60",
+      "crc32": "d317fe8b",
+      "sha1": "0012181b3c3bcd73ec52425ef07f9af02ce1c3a0"
+    },
+    {
       "name": "uolnoticias-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9a63efb99598112ca12d1a65f2eac3ca2743f8ad",
-      "mtime": "1659502163",
-      "size": "2707",
-      "md5": "0a23d6eb14c3c160a2e1107be1fe9fd1",
-      "crc32": "4ae05c2e",
-      "sha1": "ec46517cec20451f5b693d54489f7e2327230309",
+      "btih": "607a6c366eac80bddc8db3cc6af535a5a641a7de",
+      "mtime": "1659540279",
+      "size": "3781",
+      "md5": "c516335b846ce882ed605849bed3cd9b",
+      "crc32": "163f799d",
+      "sha1": "9bde72067a54c118b0ccc094332007b4f04c15ac",
       "format": "Archive BitTorrent"
     },
     {
       "name": "uolnoticias-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "01bf800a1ed376df2c5271d78912b5bb",
+      "md5": "ac4d16e602fccc3bf5323292d7f769d5",
       "summation": "md5"
     },
     {
       "name": "uolnoticias-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659492032",
-      "size": "28672",
-      "md5": "f826559408eeddb75e1627a398b10b8e",
-      "crc32": "78d9843e",
-      "sha1": "c6289d28ddf9ce0e48103bf27e0be755e21fc284",
+      "mtime": "1659537187",
+      "size": "32768",
+      "md5": "1763f9db665dc51da8198c9d6f8bb15f",
+      "crc32": "52fbfbca",
+      "sha1": "58c4425e522060f856e986084262e946cc753408",
       "format": "Metadata"
     },
     {
@@ -106,9 +158,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 10,
-  "item_last_updated": 1659502163,
-  "item_size": 331402,
+  "files_count": 15,
+  "item_last_updated": 1659540279,
+  "item_size": 619852,
   "metadata": {
     "identifier": "uolnoticias-2022",
     "collection": [
@@ -125,16 +177,16 @@
     "publicdate": "2022-08-03 02:00:23",
     "addeddate": "2022-08-03 02:00:23"
   },
-  "server": "ia601509.us.archive.org",
-  "uniq": 1290194703,
+  "server": "ia801509.us.archive.org",
+  "uniq": 782435216,
   "uolnoticias-2022": [
     {
       "url": "https://noticias.uol.com.br/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/noticias_uol_com_br-_-2022_08_03_01_36_19.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/noticias_uol_com_br-_-2022_08_03_01_36_19.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/noticias_uol_com_br-_-2022_08_03_14_11_47.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/noticias_uol_com_br-_-2022_08_03_14_11_47.report.json",
       "summary": {
-        "performance": 0.23,
+        "performance": 0.21,
         "accessibility": 0.88,
         "best-practices": 0.75,
         "seo": 0.86,
@@ -144,10 +196,10 @@
     {
       "url": "https://noticias.uol.com.br/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/noticias_uol_com_br-_-2022_08_03_01_37_03.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/noticias_uol_com_br-_-2022_08_03_01_37_03.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/noticias_uol_com_br-_-2022_08_03_14_12_08.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/noticias_uol_com_br-_-2022_08_03_14_12_08.report.json",
       "summary": {
-        "performance": 0.26,
+        "performance": 0.27,
         "accessibility": 0.88,
         "best-practices": 0.75,
         "seo": 0.86,
@@ -157,10 +209,10 @@
     {
       "url": "https://noticias.uol.com.br/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/noticias_uol_com_br-_-2022_08_03_01_36_42.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/noticias_uol_com_br-_-2022_08_03_01_36_42.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/noticias_uol_com_br-_-2022_08_03_14_12_27.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/noticias_uol_com_br-_-2022_08_03_14_12_27.report.json",
       "summary": {
-        "performance": 0.26,
+        "performance": 0.24,
         "accessibility": 0.88,
         "best-practices": 0.75,
         "seo": 0.86,
@@ -169,7 +221,7 @@
     }
   ],
   "workable_servers": [
-    "ia601509.us.archive.org",
-    "ia801509.us.archive.org"
+    "ia801509.us.archive.org",
+    "ia601509.us.archive.org"
   ]
 }

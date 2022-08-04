@@ -1,5 +1,5 @@
 {
-  "created": 1659509456,
+  "created": 1659573823,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/3/items/lanuevaespana-2022",
@@ -640,31 +640,83 @@
       "sha1": "12018a335236c67a5d63b99d34eab888a6c8a5bb"
     },
     {
+      "name": "lanuevaespana-2022-08-03T19:00:47.320049+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659546050",
+      "size": "129136",
+      "md5": "9dc11a8a32c2defca917df6e6160b1cc",
+      "crc32": "8ddcb136",
+      "sha1": "3eabd4ec49570cecb890c98c172c557687b5048d",
+      "format": "JSON"
+    },
+    {
+      "name": "lanuevaespana-2022-08-03T19:00:47.320049+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659546052",
+      "size": "194255",
+      "md5": "497a2eb589349d6da50d07ed8fe9382e",
+      "crc32": "e64aa88d",
+      "sha1": "9fe4c3948de538520789952a201448b7aabe3084",
+      "format": "JSON"
+    },
+    {
+      "name": "lanuevaespana-2022-08-03T19:00:47.320049+02:00.jpg",
+      "source": "original",
+      "mtime": "1659546048",
+      "size": "303793",
+      "md5": "4e8dae5f599581f99092ae434b71d3db",
+      "crc32": "77d22ae5",
+      "sha1": "81e70d03ac6f3ed57777672ecf4a6b0c48ac869a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lanuevaespana-2022-08-03T19:00:47.320049+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659546054",
+      "size": "1423",
+      "md5": "1b89b1fac392f8212b81c90f4e7a247e",
+      "crc32": "7511467b",
+      "sha1": "b1fd776ead6645a9d2a19c17d0808ba879ed11f4",
+      "format": "JSON"
+    },
+    {
+      "name": "lanuevaespana-2022-08-03T19:00:47.320049+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lanuevaespana-2022-08-03T19:00:47.320049+02:00.jpg",
+      "mtime": "1659547125",
+      "size": "10161",
+      "md5": "23372d245a1120f7609839eabd2eb1a1",
+      "crc32": "535ecdab",
+      "sha1": "a0e4047e4a015223c7c12b8f372e04a408d691b5"
+    },
+    {
       "name": "lanuevaespana-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7e17cc134632de1552059e011895cc3e4eab1e04",
-      "mtime": "1659509424",
-      "size": "14744",
-      "md5": "a3dce58b48b5f01cbcb79cebfd0eafb1",
-      "crc32": "a4c83d1a",
-      "sha1": "4e3d6f958bdaa158baf1659045707cea99538381",
+      "btih": "e7b58e2d13ddd50dee0149a26c68516a0ae7d3bd",
+      "mtime": "1659547130",
+      "size": "15832",
+      "md5": "dff703b6360d273d7d02d11fb093b6cd",
+      "crc32": "381227ae",
+      "sha1": "d3a828e2c827b3f554310a045c6358504cbf42d2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lanuevaespana-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "99122071b2eb104377ea8089529caa82",
+      "md5": "45fb476c60035664cae49c236884652d",
       "summation": "md5"
     },
     {
       "name": "lanuevaespana-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659501250",
-      "size": "86016",
-      "md5": "0079e8637f717f57fd2ec5529cd0b4e1",
-      "crc32": "9f4e9177",
-      "sha1": "d8c1f15bb63e9c949b5352082533ff68cd4ae660",
+      "mtime": "1659546060",
+      "size": "102400",
+      "md5": "f90460eba02fe1ff791485fe324e6829",
+      "crc32": "db4d860f",
+      "sha1": "61f36286c2aba12233b4d3e781796f86a1861007",
       "format": "Metadata"
     },
     {
@@ -678,9 +730,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 65,
-  "item_last_updated": 1659509424,
-  "item_size": 7594892,
+  "files_count": 70,
+  "item_last_updated": 1659547130,
+  "item_size": 8251132,
+  "lanuevaespana-2022": [
+    {
+      "url": "https://www.lne.es/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lne_es-_-2022_08_03_15_28_19.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lne_es-_-2022_08_03_15_28_19.report.json",
+      "summary": {
+        "performance": 0.27,
+        "accessibility": 0.83,
+        "best-practices": 0.83,
+        "seo": 0.91,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.lne.es/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lne_es-_-2022_08_03_15_28_49.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lne_es-_-2022_08_03_15_28_49.report.json",
+      "summary": {
+        "performance": 0.32,
+        "accessibility": 0.83,
+        "best-practices": 0.83,
+        "seo": 0.91,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.lne.es/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lne_es-_-2022_08_03_15_29_16.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_lne_es-_-2022_08_03_15_29_16.report.json",
+      "summary": {
+        "performance": 0.33,
+        "accessibility": 0.83,
+        "best-practices": 0.83,
+        "seo": 0.91,
+        "pwa": 0.4
+      }
+    }
+  ],
   "metadata": {
     "identifier": "lanuevaespana-2022",
     "collection": [
@@ -698,7 +791,7 @@
     "addeddate": "2022-07-28 18:53:55"
   },
   "server": "ia601500.us.archive.org",
-  "uniq": 1378723727,
+  "uniq": 1846011774,
   "workable_servers": [
     "ia601500.us.archive.org",
     "ia801500.us.archive.org"

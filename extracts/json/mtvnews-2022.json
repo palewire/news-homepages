@@ -1,5 +1,5 @@
 {
-  "created": 1659531128,
+  "created": 1659573800,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/15/items/mtvnews-2022",
@@ -1653,31 +1653,83 @@
       "format": "JSON"
     },
     {
+      "name": "mtvnews-2022-08-03T08:51:20.949350-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mtvnews-2022-08-03T08:51:20.949350-04:00.jpg",
+      "mtime": "1659536306",
+      "size": "11464",
+      "md5": "e2d4a1f2d219aae67686bcce16cb56ca",
+      "crc32": "05277137",
+      "sha1": "d0ccefb299ad2787f6491775d8fbc0d88f1456b2"
+    },
+    {
+      "name": "mtvnews-2022-08-03T20:42:23.062693-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659573748",
+      "size": "7500",
+      "md5": "2ae72269cc332ed299ab4984804040ac",
+      "crc32": "4bf2c9e6",
+      "sha1": "40b88d431dd94b592867dbef95823721a3816431",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-08-03T20:42:23.062693-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659573749",
+      "size": "9100",
+      "md5": "d95c9a0fed21676abd984695aa1130dc",
+      "crc32": "33bec13d",
+      "sha1": "ee49c9dc5037d968bb302dd00ff7952b200af4fc",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-08-03T20:42:23.062693-04:00.jpg",
+      "source": "original",
+      "mtime": "1659573746",
+      "size": "285309",
+      "md5": "92522acf507d3d84703fb7c3178febb0",
+      "crc32": "93138091",
+      "sha1": "ec73456bbd09042dbe243d69d1f101374401a984",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mtvnews-2022-08-03T20:42:23.062693-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659573751",
+      "size": "1468",
+      "md5": "eacc6441a939e0673158e6c28539ea1a",
+      "crc32": "0069ffa9",
+      "sha1": "6018c450bf9835112a8f750ce63d943d954325d2",
+      "format": "JSON"
+    },
+    {
       "name": "mtvnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "456680cee8996bc8b74395b7ae89ea1e616eaf3d",
-      "mtime": "1659531126",
-      "size": "34431",
-      "md5": "05244e1c01639164935fa7fa289ca142",
-      "crc32": "70aa6f80",
-      "sha1": "0560995e1cadd2c8419f716b279b9703eb7fd28a",
+      "btih": "a1ea9890815e85d80625c7b129d4dc9b2de49f17",
+      "mtime": "1659573796",
+      "size": "35464",
+      "md5": "dab121ac4be32214def653d9cec4ce81",
+      "crc32": "bd892be7",
+      "sha1": "3ab162bffa6280b5a3a7c19e1a98abf64acbda15",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mtvnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5fe2bb9e8ecaf06f27dd357dc5bbad3f",
+      "md5": "7907435fbc0f005ac59917e108afc5b6",
       "summation": "md5"
     },
     {
       "name": "mtvnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659531091",
-      "size": "212992",
-      "md5": "ddafa0f1db794cbd54f449597d2951e0",
-      "crc32": "4f377964",
-      "sha1": "00c81aa8d34124d5f1308fe11eab50d497657451",
+      "mtime": "1659573760",
+      "size": "217088",
+      "md5": "175c0453d6543b2c673efbadf7af4443",
+      "crc32": "1a3a0090",
+      "sha1": "29eca2d1b2d73f88e59504f29461e4d702123d14",
       "format": "Metadata"
     },
     {
@@ -1691,9 +1743,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 162,
-  "item_last_updated": 1659531126,
-  "item_size": 10637198,
+  "files_count": 167,
+  "item_last_updated": 1659573796,
+  "item_size": 10957168,
   "metadata": {
     "identifier": "mtvnews-2022",
     "collection": [
@@ -1715,15 +1767,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3351415960,
+      "task_id": 3352007277,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 1339410805,
+  "uniq": 1116284637,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

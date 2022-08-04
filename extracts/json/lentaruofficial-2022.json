@@ -1,5 +1,5 @@
 {
-  "created": 1659513228,
+  "created": 1659573850,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/6/items/lentaruofficial-2022",
@@ -2604,31 +2604,83 @@
       "sha1": "f4395985584337daee79e34c181ed240d83e94e3"
     },
     {
+      "name": "lentaruofficial-2022-08-03T20:01:29.268053+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659546097",
+      "size": "80311",
+      "md5": "92803d4af8ff6805bce2cd7a2784659a",
+      "crc32": "e3012a05",
+      "sha1": "9d1c77f3a27ae16f6bc4a5858e4846098603a4b9",
+      "format": "JSON"
+    },
+    {
+      "name": "lentaruofficial-2022-08-03T20:01:29.268053+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659546100",
+      "size": "75884",
+      "md5": "532ea6b34b9f3bc531abafd639417c46",
+      "crc32": "2c0d2516",
+      "sha1": "20852b3aba510e44f6e09ba6de7d3c3f092409f1",
+      "format": "JSON"
+    },
+    {
+      "name": "lentaruofficial-2022-08-03T20:01:29.268053+03:00.jpg",
+      "source": "original",
+      "mtime": "1659546095",
+      "size": "275336",
+      "md5": "5135c63073f80f6ca9bc7a88f25b9910",
+      "crc32": "5604f5a1",
+      "sha1": "7f833dafb088195e1fba8c614b1c56d494c4fa92",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lentaruofficial-2022-08-03T20:01:29.268053+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659546102",
+      "size": "1417",
+      "md5": "274cf8d85ce2e4c088fb91a4cab0b010",
+      "crc32": "c9404405",
+      "sha1": "8a7148893f5de053c144a5407a80be3405045fd6",
+      "format": "JSON"
+    },
+    {
+      "name": "lentaruofficial-2022-08-03T20:01:29.268053+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lentaruofficial-2022-08-03T20:01:29.268053+03:00.jpg",
+      "mtime": "1659547735",
+      "size": "8872",
+      "md5": "086214f7f1d16b7036fa12316f2668cf",
+      "crc32": "1f4c0817",
+      "sha1": "4f214cc15f36a9725977a6121537ebf0d1c68cf7"
+    },
+    {
       "name": "lentaruofficial-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4a508f120188309f0babc63c1e49e8f09e21a37f",
-      "mtime": "1659513212",
-      "size": "55810",
-      "md5": "eed067b872264ffdb5617e59c9558bf1",
-      "crc32": "9c8bc2fe",
-      "sha1": "7c194f437b006d470843325b7e2f2af8d2f0c009",
+      "btih": "0e89bd0df9a6c0e279583bfe362ec12893afed0b",
+      "mtime": "1659547741",
+      "size": "56904",
+      "md5": "2a7ff11e80e865d921e770bc1c75226e",
+      "crc32": "ff5f9172",
+      "sha1": "e587e941241e0202c6d289067eb1f67f97dc7835",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lentaruofficial-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ccdb3fb0c96b5e72a9bcb5817b4e3f5a",
+      "md5": "f9966a4d9c18df97c0a001d488de938e",
       "summation": "md5"
     },
     {
       "name": "lentaruofficial-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659504985",
-      "size": "319488",
-      "md5": "1e3e9881dc24be08e330a3780efe0f9d",
-      "crc32": "7b4de0bf",
-      "sha1": "f6b2491041bd3f6af31838e33895eb7745f40670",
+      "mtime": "1659546110",
+      "size": "327680",
+      "md5": "86a46e14430745d1d346decc224a94ad",
+      "crc32": "904f9942",
+      "sha1": "acf1aace26afd8141ab56940975773e645d13062",
       "format": "Metadata"
     },
     {
@@ -2642,9 +2694,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 253,
-  "item_last_updated": 1659513212,
-  "item_size": 23992830,
+  "files_count": 258,
+  "item_last_updated": 1659547741,
+  "item_size": 24443936,
+  "lentaruofficial-2022": [
+    {
+      "url": "https://m.lenta.ru/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_lenta_ru-_-2022_08_03_15_28_55.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_lenta_ru-_-2022_08_03_15_28_55.report.json",
+      "summary": {
+        "performance": 0.08,
+        "accessibility": 0.77,
+        "best-practices": 0.92,
+        "seo": 0.93,
+        "pwa": 1
+      }
+    },
+    {
+      "url": "https://m.lenta.ru/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_lenta_ru-_-2022_08_03_15_29_29.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_lenta_ru-_-2022_08_03_15_29_29.report.json",
+      "summary": {
+        "performance": 0.09,
+        "accessibility": 0.77,
+        "best-practices": 0.92,
+        "seo": 0.93,
+        "pwa": 1
+      }
+    },
+    {
+      "url": "https://m.lenta.ru/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_lenta_ru-_-2022_08_03_15_30_45.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_lenta_ru-_-2022_08_03_15_30_45.report.json",
+      "summary": {
+        "performance": 0.08,
+        "accessibility": 0.77,
+        "best-practices": 0.92,
+        "seo": 0.93,
+        "pwa": 1
+      }
+    }
+  ],
   "metadata": {
     "identifier": "lentaruofficial-2022",
     "collection": [
@@ -2662,7 +2755,7 @@
     "addeddate": "2022-07-16 20:49:02"
   },
   "server": "ia601505.us.archive.org",
-  "uniq": 158022239,
+  "uniq": 1654905887,
   "workable_servers": [
     "ia601505.us.archive.org",
     "ia801505.us.archive.org"

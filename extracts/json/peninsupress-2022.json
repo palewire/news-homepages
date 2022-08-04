@@ -1,5 +1,6 @@
 {
-  "created": 1659531293,
+  "conflict": 1659573943,
+  "created": 1659573943,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/27/items/peninsupress-2022",
@@ -3910,31 +3911,83 @@
       "sha1": "a6c477f4577345630b10f9411af7f18128d246a3"
     },
     {
+      "name": "peninsupress-2022-08-03T05:55:14.749274-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659531317",
+      "size": "3134",
+      "md5": "fff86289d08fa1955f414f4156cfd3c7",
+      "crc32": "f701dce5",
+      "sha1": "e06bd5c1464fe271e043c37b5ccbb495d1ba052c",
+      "format": "JSON"
+    },
+    {
+      "name": "peninsupress-2022-08-03T05:55:14.749274-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659531319",
+      "size": "18246",
+      "md5": "a98da14632892491c2f6fb1b1b2c9b87",
+      "crc32": "e7ac2ade",
+      "sha1": "fc04866b27da1bacea28977fefc0d5e7f13dea84",
+      "format": "JSON"
+    },
+    {
+      "name": "peninsupress-2022-08-03T05:55:14.749274-07:00.jpg",
+      "source": "original",
+      "mtime": "1659531316",
+      "size": "183392",
+      "md5": "410093958fa457a05059ef9671995c10",
+      "crc32": "b64420fd",
+      "sha1": "1870085b5b878d0514e36ac4f0c3c8df77aa2be7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "peninsupress-2022-08-03T05:55:14.749274-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659531321",
+      "size": "1495",
+      "md5": "02e2f344881b9aeb86838c466e0a52f0",
+      "crc32": "42f297f8",
+      "sha1": "42994289cda56ab1096cc8f81ceb7377b1d033dc",
+      "format": "JSON"
+    },
+    {
+      "name": "peninsupress-2022-08-03T05:55:14.749274-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "peninsupress-2022-08-03T05:55:14.749274-07:00.jpg",
+      "mtime": "1659535972",
+      "size": "9060",
+      "md5": "581f2ac03be6aafcdef618fcd5ad18b0",
+      "crc32": "0dba4457",
+      "sha1": "a6c477f4577345630b10f9411af7f18128d246a3"
+    },
+    {
       "name": "peninsupress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a42cbd9c74ed0473f0095cc246d7d834df3d34e3",
-      "mtime": "1659498490",
-      "size": "80921",
-      "md5": "6c8f3c784863fc45ab7af9c1b51925ac",
-      "crc32": "694689ab",
-      "sha1": "d4db553af28ee7c68c452b74cdd156da0bce03a7",
+      "btih": "97629abadb4c45890081b57cd65886cfa572283b",
+      "mtime": "1659535992",
+      "size": "81979",
+      "md5": "356bbb7011575a6f091417e40be4cd35",
+      "crc32": "84190161",
+      "sha1": "fb42f0e03e5a0eefe44043efa9465f6138f2349d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "peninsupress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "067962de59a25f7e3e88c99b27fe0aef",
+      "md5": "60f7cf22b857b0d8d4da024786903cac",
       "summation": "md5"
     },
     {
       "name": "peninsupress-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659487325",
-      "size": "454656",
-      "md5": "45744f0705b7279be275f61fe68c4a74",
-      "crc32": "b78877c3",
-      "sha1": "18c35a632251038880b581a15ca8041558cf4a3e",
+      "mtime": "1659531325",
+      "size": "462848",
+      "md5": "7a01c817e2b7930f3f2addebeedf15a0",
+      "crc32": "22e650aa",
+      "sha1": "0560029e31adff7d9706ee9e7db730e4b53a1a6e",
       "format": "Metadata"
     },
     {
@@ -3948,9 +4001,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 377,
-  "item_last_updated": 1659498490,
-  "item_size": 17944479,
+  "files_count": 382,
+  "item_last_updated": 1659535992,
+  "item_size": 18169056,
   "metadata": {
     "identifier": "peninsupress-2022",
     "collection": [
@@ -3967,51 +4020,21 @@
     "publicdate": "2022-06-30 20:48:32",
     "addeddate": "2022-06-30 20:48:32"
   },
-  "peninsupress-2022": [
+  "pending_tasks": true,
+  "server": "ia601404.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
     {
-      "url": "https://peninsulapress.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/peninsulapress_com-_-2022_08_03_00_17_58.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/peninsulapress_com-_-2022_08_03_00_17_58.report.json",
-      "summary": {
-        "performance": 0.56,
-        "accessibility": 0.92,
-        "best-practices": 0.83,
-        "seo": 0.77,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://peninsulapress.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/peninsulapress_com-_-2022_08_03_00_18_30.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/peninsulapress_com-_-2022_08_03_00_18_30.report.json",
-      "summary": {
-        "performance": 0.59,
-        "accessibility": 0.92,
-        "best-practices": 0.83,
-        "seo": 0.77,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://peninsulapress.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/peninsulapress_com-_-2022_08_03_00_18_14.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/peninsulapress_com-_-2022_08_03_00_18_14.report.json",
-      "summary": {
-        "performance": 0.58,
-        "accessibility": 0.92,
-        "best-practices": 0.83,
-        "seo": 0.77,
-        "pwa": 0.3
-      }
+      "task_id": 3352010153,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "server": "ia801404.us.archive.org",
-  "uniq": 1151969357,
+  "uniq": 1293450120,
   "workable_servers": [
-    "ia801404.us.archive.org",
     "ia601404.us.archive.org"
   ]
 }

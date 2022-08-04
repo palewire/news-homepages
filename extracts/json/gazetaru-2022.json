@@ -1,5 +1,5 @@
 {
-  "created": 1659530960,
+  "created": 1659547126,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/15/items/gazetaru-2022",
@@ -2604,31 +2604,83 @@
       "sha1": "320d5161881ee402d0f591840f2b170a04e239d1"
     },
     {
+      "name": "gazetaru-2022-08-03T19:56:17.354024+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659545782",
+      "size": "69174",
+      "md5": "294f0eda9d75feb86a8870e16dc02d31",
+      "crc32": "fd34f5aa",
+      "sha1": "cd3888dd8ac6ff644722b36d49acc6aa1aa183a3",
+      "format": "JSON"
+    },
+    {
+      "name": "gazetaru-2022-08-03T19:56:17.354024+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659545784",
+      "size": "62253",
+      "md5": "643569e5b0bfd5ddad515e3cbd415417",
+      "crc32": "51cb7890",
+      "sha1": "9b702d7ce17174766344032620be610ed19ee6ae",
+      "format": "JSON"
+    },
+    {
+      "name": "gazetaru-2022-08-03T19:56:17.354024+03:00.jpg",
+      "source": "original",
+      "mtime": "1659545780",
+      "size": "248120",
+      "md5": "86b0d347b1b2a64f71836f7cbedc0fc2",
+      "crc32": "83449e49",
+      "sha1": "e2fb0d48f038f9a11450763b992b36b3e0313f5d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gazetaru-2022-08-03T19:56:17.354024+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659545786",
+      "size": "1423",
+      "md5": "d7db267e293ef76b926d1077b2a00c5d",
+      "crc32": "6e61b2a1",
+      "sha1": "9e9912e63234aed1a3eadc2db1be15eb281f6825",
+      "format": "JSON"
+    },
+    {
+      "name": "gazetaru-2022-08-03T19:56:17.354024+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gazetaru-2022-08-03T19:56:17.354024+03:00.jpg",
+      "mtime": "1659546940",
+      "size": "8821",
+      "md5": "6205c8b743289df8a83cf0d92439ab27",
+      "crc32": "b5627a53",
+      "sha1": "67ecacda1901fa1edb3d974f7eb337b1cc07aeb5"
+    },
+    {
       "name": "gazetaru-2022_archive.torrent",
       "source": "metadata",
-      "btih": "afb7a79d53c69b32063a6e75229989ded085f82c",
-      "mtime": "1659513220",
-      "size": "53941",
-      "md5": "c2987bffaa6ee49f5b13431191f8e3a3",
-      "crc32": "4896bedf",
-      "sha1": "96e1a14f6ff9d0f0e209b4a0be95b5b61857a0ec",
+      "btih": "6a8cb2012c52c661e43e469306f68c7cb0f9a047",
+      "mtime": "1659546944",
+      "size": "55000",
+      "md5": "8dd6f9a0256c25f10c6c72800e8be02c",
+      "crc32": "13bfff7a",
+      "sha1": "fd3f0a8a6b33b78b91a33fccb7050fc93da86f0d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gazetaru-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "610d579acb64752150cb8036c62cbcd3",
+      "md5": "9a12cc3da43f018d5c1612349fb00097",
       "summation": "md5"
     },
     {
       "name": "gazetaru-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659505008",
-      "size": "315392",
-      "md5": "2fb8d44518d6fe36a9858af43ebbc1d5",
-      "crc32": "5b849763",
-      "sha1": "0fb25b4e445f3679aa8693087d92cad9fb8c000d",
+      "mtime": "1659545790",
+      "size": "323584",
+      "md5": "081217e41fe67d82afe3753d139d3aae",
+      "crc32": "01881a6c",
+      "sha1": "4c25c3c586c44214301c0fce17f9681e90e513f7",
       "format": "Metadata"
     },
     {
@@ -2642,50 +2694,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 253,
-  "gazetaru-2022": [
-    {
-      "url": "https://m.gazeta.ru/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_gazeta_ru-_-2022_08_03_05_25_35.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_gazeta_ru-_-2022_08_03_05_25_35.report.json",
-      "summary": {
-        "performance": 0.12,
-        "accessibility": 0.52,
-        "best-practices": 1,
-        "seo": 0.93,
-        "pwa": 0.9
-      }
-    },
-    {
-      "url": "https://m.gazeta.ru/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_gazeta_ru-_-2022_08_03_05_26_27.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_gazeta_ru-_-2022_08_03_05_26_27.report.json",
-      "summary": {
-        "performance": 0.16,
-        "accessibility": 0.52,
-        "best-practices": 1,
-        "seo": 0.93,
-        "pwa": 0.9
-      }
-    },
-    {
-      "url": "https://m.gazeta.ru/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_gazeta_ru-_-2022_08_03_05_26_02.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_gazeta_ru-_-2022_08_03_05_26_02.report.json",
-      "summary": {
-        "performance": 0.15,
-        "accessibility": 0.52,
-        "best-practices": 1,
-        "seo": 0.93,
-        "pwa": 0.9
-      }
-    }
-  ],
-  "item_last_updated": 1659513220,
-  "item_size": 22037264,
+  "files_count": 258,
+  "item_last_updated": 1659546944,
+  "item_size": 22436306,
   "metadata": {
     "identifier": "gazetaru-2022",
     "collection": [
@@ -2703,7 +2714,7 @@
     "addeddate": "2022-07-16 20:49:01"
   },
   "server": "ia801400.us.archive.org",
-  "uniq": 993752586,
+  "uniq": 1318031791,
   "workable_servers": [
     "ia801400.us.archive.org",
     "ia601400.us.archive.org"

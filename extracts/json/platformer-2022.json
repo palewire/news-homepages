@@ -1,5 +1,5 @@
 {
-  "created": 1659509778,
+  "created": 1659573983,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/29/items/platformer-2022",
@@ -1004,31 +1004,83 @@
       "sha1": "7d7c759318c88c15bac245e6de82aea4df8d0f27"
     },
     {
+      "name": "platformer-2022-08-03T10:07:32.322836-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659546456",
+      "size": "16692",
+      "md5": "9c026d8ec1f4d158a0ec67671eeb00ef",
+      "crc32": "8f4e8f40",
+      "sha1": "cd23c91871199d10ed8e8e8556334c14dc49b318",
+      "format": "JSON"
+    },
+    {
+      "name": "platformer-2022-08-03T10:07:32.322836-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659546458",
+      "size": "12949",
+      "md5": "856fbc2578da9faf8c0414a18596201b",
+      "crc32": "c4c83ca9",
+      "sha1": "ac086329deb53e6f3bdd0268d0f30009f344e8a6",
+      "format": "JSON"
+    },
+    {
+      "name": "platformer-2022-08-03T10:07:32.322836-07:00.jpg",
+      "source": "original",
+      "mtime": "1659546453",
+      "size": "196523",
+      "md5": "c248b656079e883b380872d53ec046ba",
+      "crc32": "73e29075",
+      "sha1": "3057a9381b9e2e8b826d9737542e04cc9eaf4483",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "platformer-2022-08-03T10:07:32.322836-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659546461",
+      "size": "1514",
+      "md5": "ff33b26158512766e0a0ccba04cd3bd2",
+      "crc32": "65842bc3",
+      "sha1": "8fa536e5cb63642bb2df8aeffc73a621808febac",
+      "format": "JSON"
+    },
+    {
+      "name": "platformer-2022-08-03T10:07:32.322836-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "platformer-2022-08-03T10:07:32.322836-07:00.jpg",
+      "mtime": "1659547667",
+      "size": "8944",
+      "md5": "61e5c203e1bbdc27b61a2c33b02c8ea1",
+      "crc32": "b3121e56",
+      "sha1": "805f67c15595a9694c494e47ffb065b85a635fb2"
+    },
+    {
       "name": "platformer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "94a9445834a35e06fbe359d64649048c99d2007a",
-      "mtime": "1659509761",
-      "size": "21659",
-      "md5": "ed61095c55f52ed829585fc60688571b",
-      "crc32": "49f36125",
-      "sha1": "f8eff816977820e1c88511429e88c1e7c2beaa0e",
+      "btih": "233edfa50e78a13a4eee93a9d795dad10f1cdb26",
+      "mtime": "1659547708",
+      "size": "22708",
+      "md5": "c8c9beea32493fb48d6e3e9a62318076",
+      "crc32": "5f7009e2",
+      "sha1": "5136d267567c33e7aeff314ac96585587a1e3da7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "platformer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4e5bb05f87e9ecdda1feaec2a106a407",
+      "md5": "9f1c022b721c81db109b5e2f228c9197",
       "summation": "md5"
     },
     {
       "name": "platformer-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659501654",
-      "size": "143360",
-      "md5": "61c9d00a7014632c1739e4176a20b60f",
-      "crc32": "b2ee49fc",
-      "sha1": "dc3b938930c9e3a651aa5db8cf9126d33a25969f",
+      "mtime": "1659546465",
+      "size": "147456",
+      "md5": "499b906aaba4b4fda55a5bc73c3b6a97",
+      "crc32": "f9a840cd",
+      "sha1": "76da6bc093f24ae97f9d29558b59c3e310bce96d",
       "format": "Metadata"
     },
     {
@@ -1042,9 +1094,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 100,
-  "item_last_updated": 1659509761,
-  "item_size": 2725308,
+  "files_count": 105,
+  "item_last_updated": 1659547708,
+  "item_size": 2967075,
   "metadata": {
     "identifier": "platformer-2022",
     "collection": [
@@ -1061,10 +1113,51 @@
     "publicdate": "2022-07-25 06:47:18",
     "addeddate": "2022-07-25 06:47:18"
   },
-  "server": "ia601500.us.archive.org",
-  "uniq": 351018066,
+  "platformer-2022": [
+    {
+      "url": "https://www.platformer.news/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_platformer_news-_-2022_08_03_16_15_27.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_platformer_news-_-2022_08_03_16_15_27.report.json",
+      "summary": {
+        "performance": 0.38,
+        "accessibility": 0.71,
+        "best-practices": 1,
+        "seo": 0.83,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.platformer.news/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_platformer_news-_-2022_08_03_16_15_13.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_platformer_news-_-2022_08_03_16_15_13.report.json",
+      "summary": {
+        "performance": 0.17,
+        "accessibility": 0.71,
+        "best-practices": 1,
+        "seo": 0.83,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.platformer.news/?triedSigningIn=true",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_platformer_news-_-2022_08_03_16_15_46.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_platformer_news-_-2022_08_03_16_15_46.report.json",
+      "summary": {
+        "performance": 0.32,
+        "accessibility": 0.71,
+        "best-practices": 1,
+        "seo": 0.83,
+        "pwa": 0.4
+      }
+    }
+  ],
+  "server": "ia801500.us.archive.org",
+  "uniq": 2135670902,
   "workable_servers": [
-    "ia601500.us.archive.org",
-    "ia801500.us.archive.org"
+    "ia801500.us.archive.org",
+    "ia601500.us.archive.org"
   ]
 }

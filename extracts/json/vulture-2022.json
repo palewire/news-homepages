@@ -1,5 +1,5 @@
 {
-  "created": 1659531673,
+  "created": 1659574325,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/10/items/vulture-2022",
@@ -120,31 +120,83 @@
       "sha1": "3445847d56ecf03f5e8ad99ff1bc27d0367d5120"
     },
     {
+      "name": "vulture-2022-08-03T13:16:28.535764-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659546991",
+      "size": "30719",
+      "md5": "21cb12ca874079212c092e64c7e00792",
+      "crc32": "95316fd6",
+      "sha1": "532a463d78ebd6c3af86f621e162af83b657bc4b",
+      "format": "JSON"
+    },
+    {
+      "name": "vulture-2022-08-03T13:16:28.535764-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659546992",
+      "size": "29139",
+      "md5": "fb4fb6b441abba4676d5ab9f2455ddb9",
+      "crc32": "a80ce5fc",
+      "sha1": "ece51bbcffa17f2ec8fb423c512ffaed543efc1f",
+      "format": "JSON"
+    },
+    {
+      "name": "vulture-2022-08-03T13:16:28.535764-04:00.jpg",
+      "source": "original",
+      "mtime": "1659546989",
+      "size": "294938",
+      "md5": "24354ca19e19b444bdc8af5df7999519",
+      "crc32": "febd8180",
+      "sha1": "922bfa67ee5bd8111afdcfcd05a408370d62670e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vulture-2022-08-03T13:16:28.535764-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659546994",
+      "size": "1465",
+      "md5": "702232416f2885a62cbe45ab2ed3baff",
+      "crc32": "e05472de",
+      "sha1": "ba2b904cecd25e3016122d9c3af24506bdf83f8c",
+      "format": "JSON"
+    },
+    {
+      "name": "vulture-2022-08-03T13:16:28.535764-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vulture-2022-08-03T13:16:28.535764-04:00.jpg",
+      "mtime": "1659547966",
+      "size": "9900",
+      "md5": "4aa0157d7d2f7f450bf6304bf644de45",
+      "crc32": "164d0067",
+      "sha1": "40ae1f1ae3560f26e1d3b4c971216340887a0007"
+    },
+    {
       "name": "vulture-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2dd692bf979ead2c546e0eb7ad6c3c0414e7f8fc",
-      "mtime": "1659510414",
-      "size": "3705",
-      "md5": "bdcdbd3e7349ab10288d73b0408b9bd7",
-      "crc32": "a26ce8ee",
-      "sha1": "11d14c8d6ba6e477030c0d7308600f2403b9bf7f",
+      "btih": "516dc687e5103963ca58ea5780808bcc384bb9d3",
+      "mtime": "1659547971",
+      "size": "4759",
+      "md5": "c295348f4f34c20d5d61bf1fd1a19feb",
+      "crc32": "080b97a1",
+      "sha1": "7871a258b49aa18afe288bdcea3ee9676abe8462",
       "format": "Archive BitTorrent"
     },
     {
       "name": "vulture-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "24ee425fdc6d551fd4fb02eb59a0f944",
+      "md5": "236882844a8fbbfa395575878d83353e",
       "summation": "md5"
     },
     {
       "name": "vulture-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659502131",
-      "size": "32768",
-      "md5": "8002e1c5f098999db2d67fbb09ba6c09",
-      "crc32": "c92a3983",
-      "sha1": "2b1066630feeb3f8ab369ccdc6c64e25324dd6c0",
+      "mtime": "1659546998",
+      "size": "36864",
+      "md5": "f274a43863495de2e3c482981d96263e",
+      "crc32": "fb9886d4",
+      "sha1": "1fc8c6a17382aac1c6922a19f76f423ff0110310",
       "format": "Metadata"
     },
     {
@@ -158,9 +210,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 15,
-  "item_last_updated": 1659510414,
-  "item_size": 776226,
+  "files_count": 20,
+  "item_last_updated": 1659547971,
+  "item_size": 1147537,
   "metadata": {
     "identifier": "vulture-2022",
     "collection": [
@@ -178,15 +230,15 @@
     "addeddate": "2022-08-02 16:24:28"
   },
   "server": "ia601505.us.archive.org",
-  "uniq": 1731995208,
+  "uniq": 1128671512,
   "vulture-2022": [
     {
       "url": "https://www.vulture.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vulture_com-_-2022_08_03_04_12_41.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vulture_com-_-2022_08_03_04_12_41.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vulture_com-_-2022_08_03_16_28_52.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vulture_com-_-2022_08_03_16_28_52.report.json",
       "summary": {
-        "performance": 0.18,
+        "performance": 0.13,
         "accessibility": 0.9,
         "best-practices": 0.92,
         "seo": 0.92,
@@ -196,11 +248,11 @@
     {
       "url": "https://www.vulture.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vulture_com-_-2022_08_03_04_13_10.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vulture_com-_-2022_08_03_04_13_10.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vulture_com-_-2022_08_03_16_29_29.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vulture_com-_-2022_08_03_16_29_29.report.json",
       "summary": {
-        "performance": 0.19,
-        "accessibility": 0.88,
+        "performance": 0.23,
+        "accessibility": 0.9,
         "best-practices": 0.92,
         "seo": 0.92,
         "pwa": 0.4
@@ -209,10 +261,10 @@
     {
       "url": "https://www.vulture.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vulture_com-_-2022_08_03_04_13_38.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vulture_com-_-2022_08_03_04_13_38.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vulture_com-_-2022_08_03_16_29_55.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vulture_com-_-2022_08_03_16_29_55.report.json",
       "summary": {
-        "performance": 0.2,
+        "performance": 0.21,
         "accessibility": 0.9,
         "best-practices": 0.92,
         "seo": 0.92,

@@ -1,5 +1,6 @@
 {
-  "created": 1659531157,
+  "conflict": 1659573916,
+  "created": 1659573916,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/18/items/nbcdfw-2022",
@@ -1685,31 +1686,83 @@
       "format": "JSON"
     },
     {
+      "name": "nbcdfw-2022-08-03T07:51:50.969863-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nbcdfw-2022-08-03T07:51:50.969863-05:00.jpg",
+      "mtime": "1659536405",
+      "size": "9593",
+      "md5": "c55de7539785e577c4f290d235d47dd3",
+      "crc32": "fa632d1e",
+      "sha1": "68349762cd456a1bc8c24a8bd4830556c9ffc47f"
+    },
+    {
+      "name": "nbcdfw-2022-08-03T19:42:11.447867-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659573735",
+      "size": "48849",
+      "md5": "7ddecd06fd5697d78af58179e3a0964d",
+      "crc32": "e09a495a",
+      "sha1": "a393e2db88339f772fb304b3d18bb8479664ce4a",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcdfw-2022-08-03T19:42:11.447867-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659573737",
+      "size": "56104",
+      "md5": "c1067d6124bddd0d3180787f5126a89f",
+      "crc32": "676c7f46",
+      "sha1": "6cb5363c4ec059b228a31f8d98ea9929e55fb6a3",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcdfw-2022-08-03T19:42:11.447867-05:00.jpg",
+      "source": "original",
+      "mtime": "1659573734",
+      "size": "289240",
+      "md5": "66a8077716acd0bf1535e47625e81b70",
+      "crc32": "873d57a5",
+      "sha1": "47e9499450e0479737cdc038b7659a825ede81d2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nbcdfw-2022-08-03T19:42:11.447867-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659573739",
+      "size": "1459",
+      "md5": "898e09b60058425984d299fd53d939ed",
+      "crc32": "ee8f309a",
+      "sha1": "a1e8425c8955b3ec9efa7aef9eb99d04d970e32c",
+      "format": "JSON"
+    },
+    {
       "name": "nbcdfw-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c376d0e037559d6ddcbea1b69e02c108d53e9116",
-      "mtime": "1659531155",
-      "size": "35033",
-      "md5": "c6dd6afeb768758fa718d0d1bfc7da33",
-      "crc32": "4eb0d781",
-      "sha1": "1302380fcecb93ff640c8281fe53ce6d41f84dd4",
+      "btih": "da0d12dd440aa90df89e7c7335c6b4feeb790281",
+      "mtime": "1659573777",
+      "size": "36082",
+      "md5": "35afb803069f311d5c6d446904f8d8a7",
+      "crc32": "69de4cf1",
+      "sha1": "e7e49ee53e9f4a4da5a09929be3fc728199dcbff",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nbcdfw-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b5db8f4adc23b26ea455fd641f514c31",
+      "md5": "f168bf73bc910e6b500031b5d90b423e",
       "summation": "md5"
     },
     {
       "name": "nbcdfw-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659531120",
-      "size": "212992",
-      "md5": "66eff0f83d1718571fa60f03cb2ef6f2",
-      "crc32": "484a536c",
-      "sha1": "1e7c8ff7cd34b43c168712b399828f97f5f624e3",
+      "mtime": "1659573742",
+      "size": "221184",
+      "md5": "4348c9223e79207a1b9b6604075ab0aa",
+      "crc32": "04b0718d",
+      "sha1": "5dc8435c3122b70e2d2cb4b6a36c85682c8eb99b",
       "format": "Metadata"
     },
     {
@@ -1723,9 +1776,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 165,
-  "item_last_updated": 1659531155,
-  "item_size": 13812125,
+  "files_count": 170,
+  "item_last_updated": 1659573777,
+  "item_size": 14226611,
   "metadata": {
     "identifier": "nbcdfw-2022",
     "collection": [
@@ -1747,15 +1800,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3351416212,
+      "task_id": 3352006818,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 1104394482,
+  "uniq": 2083988922,
   "workable_servers": [
     "ia601404.us.archive.org"
   ]

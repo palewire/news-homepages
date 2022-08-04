@@ -1,5 +1,5 @@
 {
-  "created": 1659509796,
+  "created": 1659573936,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/23/items/nikkei-2022",
@@ -3612,31 +3612,83 @@
       "sha1": "06c9ad650ea022d1843c96976e030b99a4ac1670"
     },
     {
+      "name": "nikkei-2022-08-04T02:05:40.285064+09:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659546351",
+      "size": "68222",
+      "md5": "7ad98cae04fe66e9e8e0c028f1ee8b2d",
+      "crc32": "a332084b",
+      "sha1": "7c1dba34e7bf9e332fcf9bb23caf3318a9fb54b9",
+      "format": "JSON"
+    },
+    {
+      "name": "nikkei-2022-08-04T02:05:40.285064+09:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659546352",
+      "size": "161973",
+      "md5": "b4c2f12360aad18545a6d37d3b7663b6",
+      "crc32": "4ac4e8c0",
+      "sha1": "6233864de451f49a9d12c9801f4e8be0a76a803b",
+      "format": "JSON"
+    },
+    {
+      "name": "nikkei-2022-08-04T02:05:40.285064+09:00.jpg",
+      "source": "original",
+      "mtime": "1659546349",
+      "size": "304722",
+      "md5": "c6b89b3a59a9a53304c7fd75cd252c65",
+      "crc32": "8206f193",
+      "sha1": "905d07fcf6d3dbb18ea84f643c24ad55de678baa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nikkei-2022-08-04T02:05:40.285064+09:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659546354",
+      "size": "1457",
+      "md5": "975fc71b923dbea897a778ed5faffded",
+      "crc32": "9528cd5a",
+      "sha1": "0d6aa227bfc94ff9f8812a679d6cb15b498a6823",
+      "format": "JSON"
+    },
+    {
+      "name": "nikkei-2022-08-04T02:05:40.285064+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nikkei-2022-08-04T02:05:40.285064+09:00.jpg",
+      "mtime": "1659547608",
+      "size": "10722",
+      "md5": "cc61c0bb8cd9a28bc9fdb5c94fc88c29",
+      "crc32": "51c95b2f",
+      "sha1": "fc58c8322ff5c3054b83342d1d3e2ceb8c7adae2"
+    },
+    {
       "name": "nikkei-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1deea4c4072a5a336307e035e76c6a5d25ce5446",
-      "mtime": "1659509777",
-      "size": "74081",
-      "md5": "687677efd9635b2d954219c42f7b4c7d",
-      "crc32": "a3a04ba0",
-      "sha1": "97f1a90072a14dddefa1838a1dc9e4f5dd630369",
+      "btih": "53b2ba5eadfc0b89272e3d10ce76fbc90953bd84",
+      "mtime": "1659547613",
+      "size": "75132",
+      "md5": "856b76d32ed611ea9ae06865b611140e",
+      "crc32": "d0698a5c",
+      "sha1": "9f50878308e7fc06822b4b8d8f39562cc99cdda0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nikkei-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9453011861e866b045d9b478814d8bb5",
+      "md5": "b44424e6ffbbfed5ce9c150e420108fa",
       "summation": "md5"
     },
     {
       "name": "nikkei-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659501689",
-      "size": "421888",
-      "md5": "c2faf023c625c54b590a9f7018b3f345",
-      "crc32": "f8d2fa1e",
-      "sha1": "9a1d42da0b42197e275f46f25abe61cfeec2dd45",
+      "mtime": "1659546357",
+      "size": "430080",
+      "md5": "db69681df8d07977505d5fdc0c5ee229",
+      "crc32": "340fc7bf",
+      "sha1": "8d670ac892bfb7b7e107e39f155ddb5fd06fab85",
       "format": "Metadata"
     },
     {
@@ -3650,9 +3702,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 349,
-  "item_last_updated": 1659509777,
-  "item_size": 42629433,
+  "files_count": 354,
+  "item_last_updated": 1659547613,
+  "item_size": 43185772,
   "metadata": {
     "identifier": "nikkei-2022",
     "collection": [
@@ -3669,10 +3721,51 @@
     "publicdate": "2022-07-09 02:39:07",
     "addeddate": "2022-07-09 02:39:07"
   },
-  "server": "ia601406.us.archive.org",
-  "uniq": 494052263,
+  "nikkei-2022": [
+    {
+      "url": "https://www.nikkei.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nikkei_com-_-2022_08_03_16_13_51.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nikkei_com-_-2022_08_03_16_13_51.report.json",
+      "summary": {
+        "performance": 0.4,
+        "accessibility": 0.88,
+        "best-practices": 0.92,
+        "seo": 0.97,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.nikkei.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nikkei_com-_-2022_08_03_16_14_12.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nikkei_com-_-2022_08_03_16_14_12.report.json",
+      "summary": {
+        "performance": 0.55,
+        "accessibility": 0.88,
+        "best-practices": 0.92,
+        "seo": 0.97,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.nikkei.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nikkei_com-_-2022_08_03_16_13_28.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nikkei_com-_-2022_08_03_16_13_28.report.json",
+      "summary": {
+        "performance": 0.6,
+        "accessibility": 0.88,
+        "best-practices": 0.92,
+        "seo": 0.97,
+        "pwa": 0.4
+      }
+    }
+  ],
+  "server": "ia801406.us.archive.org",
+  "uniq": 376455507,
   "workable_servers": [
-    "ia601406.us.archive.org",
-    "ia801406.us.archive.org"
+    "ia801406.us.archive.org",
+    "ia601406.us.archive.org"
   ]
 }

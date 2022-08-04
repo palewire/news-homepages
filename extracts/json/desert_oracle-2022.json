@@ -1,7 +1,48 @@
 {
-  "created": 1659530451,
+  "created": 1659573575,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
+  "desert_oracle-2022": [
+    {
+      "url": "https://www.desertoracle.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_desertoracle_com-_-2022_08_03_22_56_47.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_desertoracle_com-_-2022_08_03_22_56_47.report.json",
+      "summary": {
+        "performance": 0.5,
+        "accessibility": 0.8,
+        "best-practices": 0.92,
+        "seo": 0.93,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.desertoracle.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_desertoracle_com-_-2022_08_03_22_57_15.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_desertoracle_com-_-2022_08_03_22_57_15.report.json",
+      "summary": {
+        "performance": 0.47,
+        "accessibility": 0.8,
+        "best-practices": 0.92,
+        "seo": 0.93,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.desertoracle.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_desertoracle_com-_-2022_08_03_22_57_01.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_desertoracle_com-_-2022_08_03_22_57_01.report.json",
+      "summary": {
+        "performance": 0.45,
+        "accessibility": 0.8,
+        "best-practices": 0.92,
+        "seo": 0.93,
+        "pwa": 0.3
+      }
+    }
+  ],
   "dir": "/23/items/desert_oracle-2022",
   "files": [
     {
@@ -2757,31 +2798,94 @@
       "format": "JSON"
     },
     {
+      "name": "desert_oracle-2022-08-03T05:40:02.070903-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "desert_oracle-2022-08-03T05:40:02.070903-07:00.jpg",
+      "mtime": "1659535045",
+      "size": "6892",
+      "md5": "a01dc3b625b9dac8bb9bb19dc63c4b09",
+      "crc32": "f5851f3e",
+      "sha1": "c9d77f2c8c4c9669b0e1704549288a32106ab7fd"
+    },
+    {
+      "name": "desert_oracle-2022-08-03T16:23:43.327655-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659569028",
+      "size": "7019",
+      "md5": "450c6cc22bd050c1db5c931000d87e9e",
+      "crc32": "b5442e41",
+      "sha1": "0ec1a10d3c1d7c75e0ae9ca4ee4995ae550e1a32",
+      "format": "JSON"
+    },
+    {
+      "name": "desert_oracle-2022-08-03T16:23:43.327655-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659569029",
+      "size": "2698",
+      "md5": "b40e8f951b84093cdb0ce8dff831de3a",
+      "crc32": "42bc7e5f",
+      "sha1": "7fe3bc364fd5f580043290a6a5a62b73a58460b1",
+      "format": "JSON"
+    },
+    {
+      "name": "desert_oracle-2022-08-03T16:23:43.327655-07:00.jpg",
+      "source": "original",
+      "mtime": "1659569026",
+      "size": "125248",
+      "md5": "551f3495fb72e8fffb3121ddfe2279c0",
+      "crc32": "df6f7369",
+      "sha1": "0cf8a0e24ec541196eabd69f905bc58ddfc3212f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "desert_oracle-2022-08-03T16:23:43.327655-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659569032",
+      "size": "1509",
+      "md5": "f031cfe12a1fa1381d4b7b5f4a6ce372",
+      "crc32": "d0c93f26",
+      "sha1": "e46ce2ad3e67e3d9db52dd1001572aefb3850d7a",
+      "format": "JSON"
+    },
+    {
+      "name": "desert_oracle-2022-08-03T16:23:43.327655-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "desert_oracle-2022-08-03T16:23:43.327655-07:00.jpg",
+      "mtime": "1659569153",
+      "size": "6892",
+      "md5": "a01dc3b625b9dac8bb9bb19dc63c4b09",
+      "crc32": "f5851f3e",
+      "sha1": "c9d77f2c8c4c9669b0e1704549288a32106ab7fd"
+    },
+    {
       "name": "desert_oracle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "927622926a269416ccb5aa0269acaaf2dbf8279b",
-      "mtime": "1659530449",
-      "size": "57552",
-      "md5": "a5e72a80fe5539e243ec3d1d01fdfda7",
-      "crc32": "e82738e1",
-      "sha1": "fcbd62036e5522bd93f412c835dbad30bc6cb9fc",
+      "btih": "80cea13f174197d27b7445c81c9d01ba96625563",
+      "mtime": "1659569159",
+      "size": "58843",
+      "md5": "0c950f779f84a5d5a5594a7629850fa6",
+      "crc32": "4140eb07",
+      "sha1": "57f7ecc58256c2aab6e1fda22535509bbc1a7da2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "desert_oracle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7556d51cb9dbf7fee3503cea9d0570f0",
+      "md5": "849740345578d23c046a886100ca9cff",
       "summation": "md5"
     },
     {
       "name": "desert_oracle-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659530415",
-      "size": "335872",
-      "md5": "82f63c59255ffbeb6c341df704df813a",
-      "crc32": "1b14ce1f",
-      "sha1": "2dbe1d934522193f49b5ae9ca4939bfbd920cbfd",
+      "mtime": "1659569036",
+      "size": "339968",
+      "md5": "09a86c38fe8186f52e109fc96a14535c",
+      "crc32": "6909b537",
+      "sha1": "bc7cffe3199c5dc05db488a93422577194dd4bd0",
       "format": "Metadata"
     },
     {
@@ -2795,9 +2899,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 267,
-  "item_last_updated": 1659530449,
-  "item_size": 9444904,
+  "files_count": 273,
+  "item_last_updated": 1659569159,
+  "item_size": 9600549,
   "metadata": {
     "identifier": "desert_oracle-2022",
     "collection": [
@@ -2814,21 +2918,10 @@
     "publicdate": "2022-07-04 22:30:03",
     "addeddate": "2022-07-04 22:30:03"
   },
-  "pending_tasks": true,
-  "server": "ia601506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3351409883,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1922287491,
+  "server": "ia801506.us.archive.org",
+  "uniq": 1940145919,
   "workable_servers": [
+    "ia801506.us.archive.org",
     "ia601506.us.archive.org"
   ]
 }

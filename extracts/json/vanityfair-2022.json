@@ -1,5 +1,5 @@
 {
-  "created": 1659531641,
+  "created": 1659574295,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/4/items/vanityfair-2022",
@@ -2766,31 +2766,83 @@
       "sha1": "cb916d13b52d3151385bf93b2d8c775d86911cfb"
     },
     {
+      "name": "vanityfair-2022-08-03T10:33:45.201653-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659537227",
+      "size": "32694",
+      "md5": "abb71d1c5f9fcc345fe348bacc995ae6",
+      "crc32": "658008c3",
+      "sha1": "0ed04de2ca1912534da9a3d801c91cd22b6b7211",
+      "format": "JSON"
+    },
+    {
+      "name": "vanityfair-2022-08-03T10:33:45.201653-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659537229",
+      "size": "21433",
+      "md5": "af448851db3c8c29f6beb3d4c6010b2b",
+      "crc32": "2b4183a5",
+      "sha1": "0a9eb0116ea6c1174aef67bc8f8be2313dff8e81",
+      "format": "JSON"
+    },
+    {
+      "name": "vanityfair-2022-08-03T10:33:45.201653-04:00.jpg",
+      "source": "original",
+      "mtime": "1659537226",
+      "size": "284560",
+      "md5": "a9b6d1572aa6575e7f271d87ca4969c0",
+      "crc32": "0e0f6e44",
+      "sha1": "be8c3cd2ac12600e676dc7d20afa015d5507162c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vanityfair-2022-08-03T10:33:45.201653-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659537230",
+      "size": "1486",
+      "md5": "4435068a14c77f90d44eae647566e369",
+      "crc32": "978420f1",
+      "sha1": "d833eaf359e97cb5cd0dd30e20ac104adb2280cf",
+      "format": "JSON"
+    },
+    {
+      "name": "vanityfair-2022-08-03T10:33:45.201653-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vanityfair-2022-08-03T10:33:45.201653-04:00.jpg",
+      "mtime": "1659540291",
+      "size": "9242",
+      "md5": "690572cdeea72bf69ecd93958a21c75e",
+      "crc32": "5c404db6",
+      "sha1": "2e898b52c0aabe429061035fdb6100dc5aa0b05c"
+    },
+    {
       "name": "vanityfair-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8c2e9f4b18d5ac6331e85ef3f53fa6b6e10cc9b3",
-      "mtime": "1659502125",
-      "size": "57503",
-      "md5": "917edbbde64b4ee2f96b41d8dcbdb555",
-      "crc32": "16e64e8b",
-      "sha1": "361be5e3ab20ca27f51b1a38a92912c7b163f898",
+      "btih": "fa2e5154eb1bcd2f55e63f218feea87755f7e091",
+      "mtime": "1659540294",
+      "size": "58572",
+      "md5": "ab37938afbd32e0efcea6dd991dbd30a",
+      "crc32": "4839d251",
+      "sha1": "a56301812f57860d5aea121e979292fed2f3a3f0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "vanityfair-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cfff10db11f76f7c569374c0d761eb42",
+      "md5": "9d9e20b4deeacf8da7cd7814c004afa4",
       "summation": "md5"
     },
     {
       "name": "vanityfair-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659492036",
-      "size": "331776",
-      "md5": "1723adde1bb3b7783e61bada35c973e9",
-      "crc32": "e397353d",
-      "sha1": "04d654bf04273603b8cce8191c1a8bc2de3cf1a0",
+      "mtime": "1659537235",
+      "size": "339968",
+      "md5": "6f52e214b533edf2a878437286081978",
+      "crc32": "ad48c80e",
+      "sha1": "a5342349af7f922df59365c6d106d423b4bff807",
       "format": "Metadata"
     },
     {
@@ -2804,9 +2856,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 268,
-  "item_last_updated": 1659502125,
-  "item_size": 20465644,
+  "files_count": 273,
+  "item_last_updated": 1659540294,
+  "item_size": 20824320,
   "metadata": {
     "identifier": "vanityfair-2022",
     "collection": [
@@ -2823,16 +2875,16 @@
     "publicdate": "2022-07-04 21:47:44",
     "addeddate": "2022-07-04 21:47:44"
   },
-  "server": "ia601401.us.archive.org",
-  "uniq": 1957490646,
+  "server": "ia801401.us.archive.org",
+  "uniq": 1710009635,
   "vanityfair-2022": [
     {
       "url": "https://www.vanityfair.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vanityfair_com-_-2022_08_03_01_36_16.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vanityfair_com-_-2022_08_03_01_36_16.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vanityfair_com-_-2022_08_03_14_12_34.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vanityfair_com-_-2022_08_03_14_12_34.report.json",
       "summary": {
-        "performance": 0.21,
+        "performance": 0.15,
         "accessibility": 1,
         "best-practices": 0.92,
         "seo": 0.91,
@@ -2842,10 +2894,10 @@
     {
       "url": "https://www.vanityfair.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vanityfair_com-_-2022_08_03_01_37_12.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vanityfair_com-_-2022_08_03_01_37_12.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vanityfair_com-_-2022_08_03_14_14_27.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vanityfair_com-_-2022_08_03_14_14_27.report.json",
       "summary": {
-        "performance": 0.24,
+        "performance": 0.16,
         "accessibility": 1,
         "best-practices": 0.92,
         "seo": 0.91,
@@ -2855,10 +2907,10 @@
     {
       "url": "https://www.vanityfair.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vanityfair_com-_-2022_08_03_01_36_45.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vanityfair_com-_-2022_08_03_01_36_45.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vanityfair_com-_-2022_08_03_14_13_50.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vanityfair_com-_-2022_08_03_14_13_50.report.json",
       "summary": {
-        "performance": 0.22,
+        "performance": 0.16,
         "accessibility": 1,
         "best-practices": 0.92,
         "seo": 0.91,
@@ -2867,7 +2919,7 @@
     }
   ],
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia801401.us.archive.org",
+    "ia601401.us.archive.org"
   ]
 }

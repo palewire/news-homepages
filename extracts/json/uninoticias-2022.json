@@ -1,5 +1,5 @@
 {
-  "created": 1659531624,
+  "created": 1659574280,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/16/items/uninoticias-2022",
@@ -932,31 +932,73 @@
       "sha1": "c2fc81daf5592709b77c0d0d0f964ac651e4c7d7"
     },
     {
+      "name": "uninoticias-2022-08-03T10:33:09.515582-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659537192",
+      "size": "16700",
+      "md5": "e17eeccb83927357408055f6555a886c",
+      "crc32": "7f847f0b",
+      "sha1": "6f105ca0efade61c5b219a0e99248066be6e5291",
+      "format": "JSON"
+    },
+    {
+      "name": "uninoticias-2022-08-03T10:33:09.515582-04:00.jpg",
+      "source": "original",
+      "mtime": "1659537191",
+      "size": "272783",
+      "md5": "d063f480bda15eedb5f88577e4ff29ee",
+      "crc32": "5735837c",
+      "sha1": "4d636d1b0aa24f8b3b7c9bff8cd4301e7f30a2cf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "uninoticias-2022-08-03T10:33:09.515582-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659537193",
+      "size": "1555",
+      "md5": "4777cea3c3c51552feae6539397e123e",
+      "crc32": "217ece3a",
+      "sha1": "60745384a985e30ec5d541e8bbe7c04355e8be15",
+      "format": "JSON"
+    },
+    {
+      "name": "uninoticias-2022-08-03T10:33:09.515582-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "uninoticias-2022-08-03T10:33:09.515582-04:00.jpg",
+      "mtime": "1659540535",
+      "size": "11358",
+      "md5": "3c177ecf09e23ad1e28d7c3e1c115d0c",
+      "crc32": "762ab28d",
+      "sha1": "ecf72e92532c52720fbaebfc7c3f9b4591c4046c"
+    },
+    {
       "name": "uninoticias-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dfa4f9efd231f2d9e154571a40c578047d39606c",
-      "mtime": "1659501955",
-      "size": "20434",
-      "md5": "68e1ef6989495ff79562eb93333176e9",
-      "crc32": "c153a2e3",
-      "sha1": "460e41e45096d22bd950efac54f16bbc9da34ff0",
+      "btih": "f399ad08c9279274692782242c0c8d2189258550",
+      "mtime": "1659540540",
+      "size": "21275",
+      "md5": "0fcff11fda375a6cd0417b70bbcce509",
+      "crc32": "a6e12e6d",
+      "sha1": "18c94709127bac544f5fac02e8afdb305ca26ef7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "uninoticias-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "288ffbf99167c5842383d754d276cc5d",
+      "md5": "0c8e4c805b29d3175b7ccf54fa31b905",
       "summation": "md5"
     },
     {
       "name": "uninoticias-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659491977",
-      "size": "135168",
-      "md5": "15d8808574d60b91698ffa190cbcbd40",
-      "crc32": "02fc9414",
-      "sha1": "c2ca016e9ce40eb2aef62893cde47ccafb61c5b8",
+      "mtime": "1659537197",
+      "size": "139264",
+      "md5": "1935f144cea0e39768df2b58711612a1",
+      "crc32": "8e9d90b4",
+      "sha1": "585e8805d5551b250fd198625afbeac75caae1d3",
       "format": "Metadata"
     },
     {
@@ -970,9 +1012,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 93,
-  "item_last_updated": 1659501955,
-  "item_size": 5910146,
+  "files_count": 97,
+  "item_last_updated": 1659540540,
+  "item_size": 6217479,
   "metadata": {
     "identifier": "uninoticias-2022",
     "collection": [
@@ -994,11 +1036,11 @@
     {
       "url": "https://www.univision.com/noticias",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_univision_com-_noticias-2022_08_03_01_36_34.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_univision_com-_noticias-2022_08_03_01_36_34.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_univision_com-_noticias-2022_08_03_14_11_55.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_univision_com-_noticias-2022_08_03_14_11_55.report.json",
       "summary": {
-        "performance": 0.46,
-        "accessibility": 0.75,
+        "performance": 0.26,
+        "accessibility": 0.77,
         "best-practices": 0.83,
         "seo": 0.9,
         "pwa": 0.3
@@ -1007,10 +1049,10 @@
     {
       "url": "https://www.univision.com/noticias",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_univision_com-_noticias-2022_08_03_01_37_00.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_univision_com-_noticias-2022_08_03_01_37_00.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_univision_com-_noticias-2022_08_03_14_14_05.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_univision_com-_noticias-2022_08_03_14_14_05.report.json",
       "summary": {
-        "performance": 0.25,
+        "performance": 0.36,
         "accessibility": 0.75,
         "best-practices": 0.83,
         "seo": 0.9,
@@ -1020,10 +1062,10 @@
     {
       "url": "https://www.univision.com/noticias",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_univision_com-_noticias-2022_08_03_01_36_09.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_univision_com-_noticias-2022_08_03_01_36_09.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_univision_com-_noticias-2022_08_03_14_13_38.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_univision_com-_noticias-2022_08_03_14_13_38.report.json",
       "summary": {
-        "performance": 0.25,
+        "performance": 0.28,
         "accessibility": 0.75,
         "best-practices": 0.83,
         "seo": 0.9,
@@ -1031,7 +1073,7 @@
       }
     }
   ],
-  "uniq": 996180535,
+  "uniq": 1416828541,
   "workable_servers": [
     "ia802509.us.archive.org",
     "ia902509.us.archive.org"

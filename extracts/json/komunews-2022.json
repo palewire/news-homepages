@@ -1,5 +1,5 @@
 {
-  "created": 1659530900,
+  "created": 1659573532,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/31/items/komunews-2022",
@@ -4195,31 +4195,83 @@
       "format": "JSON"
     },
     {
+      "name": "komunews-2022-08-03T07:47:30.703980-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "komunews-2022-08-03T07:47:30.703980-05:00.jpg",
+      "mtime": "1659536081",
+      "size": "10136",
+      "md5": "c673e4bd567b6d45516db1ec7d74eb66",
+      "crc32": "de188a27",
+      "sha1": "f56f2ad3d7066fcd8fa79541006eb01cbfd4ffcd"
+    },
+    {
+      "name": "komunews-2022-08-03T19:38:00.751384-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659573485",
+      "size": "23504",
+      "md5": "8f877048fd320a3739fba06c95e34fd2",
+      "crc32": "e9caba94",
+      "sha1": "20a707fb4df5840bca4c27a4a050aa2c9945f8db",
+      "format": "JSON"
+    },
+    {
+      "name": "komunews-2022-08-03T19:38:00.751384-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659573487",
+      "size": "46572",
+      "md5": "a2624b6d3ad90c7813945f81c1c7a807",
+      "crc32": "5eb851e4",
+      "sha1": "227b6737e32e5cd65e5faa5962fdd5a3521ea8d9",
+      "format": "JSON"
+    },
+    {
+      "name": "komunews-2022-08-03T19:38:00.751384-05:00.jpg",
+      "source": "original",
+      "mtime": "1659573483",
+      "size": "295185",
+      "md5": "0bf1d2904f268cc32ae1ac06c91b4282",
+      "crc32": "56db90f3",
+      "sha1": "6544870debcc3df6c4e0477616e598eea142d3f2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "komunews-2022-08-03T19:38:00.751384-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659573488",
+      "size": "1435",
+      "md5": "3960ea48a6fd2bb744d5e03aec74f84c",
+      "crc32": "1ea1422a",
+      "sha1": "1a8675226a2dd6ac10071f7cb4299a2931e259d8",
+      "format": "JSON"
+    },
+    {
       "name": "komunews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "81bbc2999018fac9f71947bedd56cf21cbd2a2f9",
-      "mtime": "1659530897",
-      "size": "85883",
-      "md5": "074d7e3b8ed8f5d8381cf5244b514d81",
-      "crc32": "16001433",
-      "sha1": "9c39c81a0d8f5d695364bf62d299e8dab0351754",
+      "btih": "a23f9392eef7996cdc774bc8caf7b4f01e435473",
+      "mtime": "1659573529",
+      "size": "86943",
+      "md5": "f67d6b36da071e9e5fd5ac7c5f8837f9",
+      "crc32": "6cfad13f",
+      "sha1": "5698cce3a3b9952d5bba3384950e378ca8cf3da8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "komunews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "122974feb71cbaea613c7c43ef920d6c",
+      "md5": "87130bf6c615551c8c3aa9aeb44df504",
       "summation": "md5"
     },
     {
       "name": "komunews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659530860",
-      "size": "483328",
-      "md5": "ee0d1cca090d5d81e78396f7a3cfac03",
-      "crc32": "55091f5e",
-      "sha1": "03324238f9a325b8f2246b509ca1b66cc53f082e",
+      "mtime": "1659573491",
+      "size": "487424",
+      "md5": "00d8b22dc3ff5acb0deb358c00e668bd",
+      "crc32": "7a0c4865",
+      "sha1": "8c34f9b7b5ce8c10cf54b2da9787c5cf38998661",
       "format": "Metadata"
     },
     {
@@ -4233,9 +4285,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 404,
-  "item_last_updated": 1659530897,
-  "item_size": 37524919,
+  "files_count": 409,
+  "item_last_updated": 1659573529,
+  "item_size": 37906907,
   "metadata": {
     "identifier": "komunews-2022",
     "collection": [
@@ -4257,15 +4309,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3351414013,
+      "task_id": 3352001046,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 1709224490,
+  "uniq": 1514285318,
   "workable_servers": [
     "ia601407.us.archive.org"
   ]

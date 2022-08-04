@@ -1,5 +1,5 @@
 {
-  "created": 1659530981,
+  "created": 1659573809,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/15/items/lavanguardia-2022",
@@ -659,31 +659,94 @@
       "format": "JSON"
     },
     {
+      "name": "lavanguardia-2022-08-03T14:48:55.811498+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lavanguardia-2022-08-03T14:48:55.811498+02:00.jpg",
+      "mtime": "1659535767",
+      "size": "9439",
+      "md5": "df61c05038cfd453d9f26049588c33f9",
+      "crc32": "d5b825c9",
+      "sha1": "29899832845f6ead6de12cff32bb78b4fe62b0f2"
+    },
+    {
+      "name": "lavanguardia-2022-08-04T02:40:08.141131+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659573611",
+      "size": "57978",
+      "md5": "bf77754c4ef8e593f9739fb8aec0763a",
+      "crc32": "81fe7d16",
+      "sha1": "6707f5ff6b40a53d27a0816111d07faf765a10f6",
+      "format": "JSON"
+    },
+    {
+      "name": "lavanguardia-2022-08-04T02:40:08.141131+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659573612",
+      "size": "33352",
+      "md5": "7fc69f679a7d3f5212f80461bb7bfa94",
+      "crc32": "45bd3509",
+      "sha1": "0287f5e89edc8b0f9cdb27c67f2d317a488fe0bd",
+      "format": "JSON"
+    },
+    {
+      "name": "lavanguardia-2022-08-04T02:40:08.141131+02:00.jpg",
+      "source": "original",
+      "mtime": "1659573609",
+      "size": "259872",
+      "md5": "539206c84585043bc89d93a1b4e9e762",
+      "crc32": "f4368031",
+      "sha1": "e674aa3895267d72337a4c2b8d394cabb977ed2f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lavanguardia-2022-08-04T02:40:08.141131+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659573614",
+      "size": "1513",
+      "md5": "c8837f38bccc4b0a45c88d30d5447abd",
+      "crc32": "e9cca143",
+      "sha1": "ab1cac9db5d716b05383fa882c8d467ce3348dd5",
+      "format": "JSON"
+    },
+    {
+      "name": "lavanguardia-2022-08-04T02:40:08.141131+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lavanguardia-2022-08-04T02:40:08.141131+02:00.jpg",
+      "mtime": "1659573728",
+      "size": "9674",
+      "md5": "887c6ad285a9dc6e26a756f22eb213d6",
+      "crc32": "a67a140d",
+      "sha1": "8d1b6ffda11c6f2532af8cd9af3b2a7e603ece92"
+    },
+    {
       "name": "lavanguardia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6836cf55b2773becc445f42e0ac05ac23b9e85b0",
-      "mtime": "1659530979",
-      "size": "14970",
-      "md5": "94ea7500287fb55acf688dc0c6edbf9a",
-      "crc32": "96983887",
-      "sha1": "bbe8dd29d23ad3e2a8df5bf68d38df6c46d0c96e",
+      "btih": "8dab3f504dd1fa949c0a2c7b6c08e3049d4506a9",
+      "mtime": "1659573760",
+      "size": "16258",
+      "md5": "abef965af2637d685b4df0946c47a52c",
+      "crc32": "c2be8eeb",
+      "sha1": "57d94c2322349575965bd6948187ba7ce3202171",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lavanguardia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1df291bf899fdcd98793c8871415c342",
+      "md5": "8f71c1456d17f4c8c95b3dc6ee0927b5",
       "summation": "md5"
     },
     {
       "name": "lavanguardia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659530945",
-      "size": "98304",
-      "md5": "5ff434fb57aeb946991f611e745672c7",
-      "crc32": "51a3db6a",
-      "sha1": "816db5e4e85d529dcf89996e85a67d6c883bf4ce",
+      "mtime": "1659573617",
+      "size": "106496",
+      "md5": "a63f8193051be422e2eb8b8e8ccd1334",
+      "crc32": "c6c09e31",
+      "sha1": "ff9186425d707bab6202752dd26ecd551ecc219e",
       "format": "Metadata"
     },
     {
@@ -697,9 +760,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 67,
-  "item_last_updated": 1659530979,
-  "item_size": 4615906,
+  "files_count": 73,
+  "item_last_updated": 1659573760,
+  "item_size": 4997214,
   "metadata": {
     "identifier": "lavanguardia-2022",
     "collection": [
@@ -716,21 +779,10 @@
     "publicdate": "2022-07-28 18:53:54",
     "addeddate": "2022-07-28 18:53:54"
   },
-  "pending_tasks": true,
   "server": "ia601503.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3351414739,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1254085726,
+  "uniq": 777486697,
   "workable_servers": [
-    "ia601503.us.archive.org"
+    "ia601503.us.archive.org",
+    "ia801503.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1659531023,
+  "created": 1659573686,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/19/items/lajornada-2022",
@@ -19521,31 +19521,83 @@
       "format": "JSON"
     },
     {
+      "name": "lajornada-2022-08-03T07:48:57.456746-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lajornada-2022-08-03T07:48:57.456746-05:00.jpg",
+      "mtime": "1659536316",
+      "size": "7536",
+      "md5": "0c18879af8be435c9051ee6935035f6c",
+      "crc32": "0f7047c4",
+      "sha1": "1311c921cbdc67bec91225b0a60cf33e5205ddc7"
+    },
+    {
+      "name": "lajornada-2022-08-03T19:39:54.298925-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659573608",
+      "size": "4498",
+      "md5": "b63f883165a9ef80d67b4e6a822d2408",
+      "crc32": "17fd400a",
+      "sha1": "17b486b7a8ec36ca15a61f129aec7b1cde22a68c",
+      "format": "JSON"
+    },
+    {
+      "name": "lajornada-2022-08-03T19:39:54.298925-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659573610",
+      "size": "8577",
+      "md5": "3f5c35d7d25d46196b58ae08d8805075",
+      "crc32": "772d9c3d",
+      "sha1": "cfc6c5b1291a5e70b53873dd58a1a7d2a79d551a",
+      "format": "JSON"
+    },
+    {
+      "name": "lajornada-2022-08-03T19:39:54.298925-05:00.jpg",
+      "source": "original",
+      "mtime": "1659573606",
+      "size": "125795",
+      "md5": "2d29a4aad8cf275cdf58619294ddbd67",
+      "crc32": "cdb1bd3e",
+      "sha1": "5c3fae2712469d1bd16a7661d07b1550c1fe8e91",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lajornada-2022-08-03T19:39:54.298925-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659573612",
+      "size": "1495",
+      "md5": "607db36f00f62fa624e398c8183393a8",
+      "crc32": "5b84764e",
+      "sha1": "11aa686af517c35112e4c66d0114b8e310438571",
+      "format": "JSON"
+    },
+    {
       "name": "lajornada-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ffaae4c65d13d755f14a7007e94a6f478c172489",
-      "mtime": "1659531016",
-      "size": "396261",
-      "md5": "cb00e7bf6c149e4c63eed7b090522b77",
-      "crc32": "cf7a877c",
-      "sha1": "a596d3ea4a21ecd3f04e927bf9c6bbdf9541322c",
+      "btih": "763903cb4176dd2f2ad80653ce317fa9f497d335",
+      "mtime": "1659573681",
+      "size": "397303",
+      "md5": "4585a5e77f0db965ff4155141d3d290b",
+      "crc32": "e89c725e",
+      "sha1": "873f4ca1ed8cceb7ad7de9cffd8614a5e21936af",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lajornada-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2f3f79d2879bdb3e556abc04e728047b",
+      "md5": "09233e713bffd624a0cf43c7c3097d05",
       "summation": "md5"
     },
     {
       "name": "lajornada-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659530953",
-      "size": "2146304",
-      "md5": "1d2eb5c4143def40a2fe578f910ab0fd",
-      "crc32": "a5c2e5f7",
-      "sha1": "94471db67d82a26757d9cf045f516bafb43af774",
+      "mtime": "1659573618",
+      "size": "2154496",
+      "md5": "72b8b13ced9132fec08bc2a348653d36",
+      "crc32": "62984503",
+      "sha1": "f22d9c1a4bba2223835c13ca0b7e9a2ca7adddaa",
       "format": "Metadata"
     },
     {
@@ -19559,9 +19611,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1864,
-  "item_last_updated": 1659531016,
-  "item_size": 199985663,
+  "files_count": 1869,
+  "item_last_updated": 1659573681,
+  "item_size": 200142798,
   "metadata": {
     "identifier": "lajornada-2022",
     "collection": [
@@ -19583,15 +19635,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3351415158,
+      "task_id": 3352004741,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 1389585669,
+  "uniq": 1964376494,
   "workable_servers": [
     "ia902501.us.archive.org"
   ]
