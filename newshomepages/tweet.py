@@ -116,7 +116,9 @@ def single(handle: str, input_dir: str):
     now_local = now.astimezone(tz)
 
     # Create the headline
-    tweet = f"The {data['name']} homepage at {now_local.strftime('%-I:%M %p')} in {data['location']}"
+    tweet = f"""The {data['name']} homepage at {now_local.strftime('%-I:%M %p')} in {data['location']}
+
+More: https://palewi.re/docs/news-homepages/sites/{data['slug'].lower()}.html"""
 
     # Get the image
     input_path = Path(input_dir)
