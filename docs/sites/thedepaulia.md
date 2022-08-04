@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 27 screenshots with the Internet Archive.
+The archiving routine has saved 29 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-08-03T12:37:24.186279-05:00.jpg">
+  <img src="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-08-03T12:37:24.186279-05:00.jpg"
+     alt="DePaulia at 2022-08-03 12:37:25-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-08-03T12:37:24.186279-05:00.jpg">August 3 at 12:37 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-08-03T09:30:36.920211-05:00.jpg">
+  <img src="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-08-03T09:30:36.920211-05:00.jpg"
+     alt="DePaulia at 2022-08-03 09:30:39-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-08-03T09:30:36.920211-05:00.jpg">August 3 at 9:30 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-08-02T20:56:42.319283-05:00.jpg">
@@ -118,29 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-07-30T21:48:50.415356-05:00.jpg">July 30 at 9:48 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-07-30T11:17:08.987930-05:00.jpg">
-  <img src="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-07-30T11:17:08.987930-05:00.jpg"
-     alt="DePaulia at 2022-07-30 11:17:10-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-07-30T11:17:08.987930-05:00.jpg">July 30 at 11:17 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-07-30T08:35:22.395409-05:00.jpg">
-  <img src="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-07-30T08:35:22.395409-05:00.jpg"
-     alt="DePaulia at 2022-07-30 08:35:24-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thedepaulia-2022/thedepaulia-2022-07-30T08:35:22.395409-05:00.jpg">July 30 at 8:35 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 27 hyperlink lists with the Internet Archive.
+The archiving routine has saved 29 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 3 at 12:37 PM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-08-03T12:37:24.186279-05:00.hyperlinks.json) |
+| [August 3 at 9:30 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-08-03T09:30:36.920211-05:00.hyperlinks.json) |
 | [August 2 at 8:56 PM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-08-02T20:56:42.319283-05:00.hyperlinks.json) |
 | [August 2 at 11:27 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-08-02T11:27:09.270676-05:00.hyperlinks.json) |
 | [August 2 at 8:44 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-08-02T08:44:00.620802-05:00.hyperlinks.json) |
@@ -156,13 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 1 at 9:49 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-08-01T09:49:49.859525-05:00.hyperlinks.json) |
 | [July 31 at 8:27 PM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-07-31T20:27:43.664058-05:00.hyperlinks.json) |
 | [July 31 at 11:02 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-07-31T11:02:27.897704-05:00.hyperlinks.json) |
-| [July 31 at 8:32 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-07-31T08:32:09.094373-05:00.hyperlinks.json) |
-| [July 30 at 9:48 PM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-07-30T21:48:50.415356-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 27 accessibility trees with the Internet Archive.
+The archiving routine has saved 29 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 3 at 12:37 PM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-08-03T12:37:24.186279-05:00.accessibility.json) |
+| [August 3 at 9:30 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-08-03T09:30:36.920211-05:00.accessibility.json) |
 | [August 2 at 8:56 PM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-08-02T20:56:42.319283-05:00.accessibility.json) |
 | [August 2 at 11:27 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-08-02T11:27:09.270676-05:00.accessibility.json) |
 | [August 2 at 8:44 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-08-02T08:44:00.620802-05:00.accessibility.json) |
@@ -178,14 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [August 1 at 9:49 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-08-01T09:49:49.859525-05:00.accessibility.json) |
 | [July 31 at 8:27 PM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-07-31T20:27:43.664058-05:00.accessibility.json) |
 | [July 31 at 11:02 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-07-31T11:02:27.897704-05:00.accessibility.json) |
-| [July 31 at 8:32 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-07-31T08:32:09.094373-05:00.accessibility.json) |
-| [July 30 at 9:48 PM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-07-30T21:48:50.415356-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 29 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 3 at 12:37 PM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-08-03T12:37:24.186279-05:00.lighthouse.json) |
+| [August 3 at 9:30 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-08-03T09:30:36.920211-05:00.lighthouse.json) |
 | [August 2 at 8:56 PM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-08-02T20:56:42.319283-05:00.lighthouse.json) |
 | [August 2 at 11:27 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-08-02T11:27:09.270676-05:00.lighthouse.json) |
 | [August 2 at 8:44 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-08-02T08:44:00.620802-05:00.lighthouse.json) |
@@ -201,8 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 1 at 9:50 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-08-01T09:49:49.859525-05:00.lighthouse.json) |
 | [July 31 at 8:27 PM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-07-31T20:27:43.664058-05:00.lighthouse.json) |
 | [July 31 at 11:02 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-07-31T11:02:27.897704-05:00.lighthouse.json) |
-| [July 31 at 8:32 AM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-07-31T08:32:09.094373-05:00.lighthouse.json) |
-| [July 30 at 9:48 PM](https://archive.org/download/thedepaulia-2022/thedepaulia-2022-07-30T21:48:50.415356-05:00.lighthouse.json) |
 
 
 

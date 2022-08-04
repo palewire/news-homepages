@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 29 screenshots with the Internet Archive.
+The archiving routine has saved 30 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wsav-2022/wsav-2022-08-03T10:35:28.033745-04:00.jpg">
+  <img src="https://archive.org/download/wsav-2022/wsav-2022-08-03T10:35:28.033745-04:00.jpg"
+     alt="WSAV News 3 at 2022-08-03 10:35:29-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wsav-2022/wsav-2022-08-03T10:35:28.033745-04:00.jpg">August 3 at 10:35 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wsav-2022/wsav-2022-08-02T22:01:39.663589-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wsav-2022/wsav-2022-07-28T21:30:10.665476-04:00.jpg">July 28 at 9:30 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wsav-2022/wsav-2022-07-28T09:29:15.082141-04:00.jpg">
-  <img src="https://archive.org/download/wsav-2022/wsav-2022-07-28T09:29:15.082141-04:00.jpg"
-     alt="WSAV News 3 at 2022-07-28 09:29:16-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wsav-2022/wsav-2022-07-28T09:29:15.082141-04:00.jpg">July 28 at 9:29 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 28 hyperlink lists with the Internet Archive.
+The archiving routine has saved 29 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 3 at 10:35 AM](https://archive.org/download/wsav-2022/wsav-2022-08-03T10:35:28.033745-04:00.hyperlinks.json) |
 | [August 2 at 10:01 PM](https://archive.org/download/wsav-2022/wsav-2022-08-02T22:01:39.663589-04:00.hyperlinks.json) |
 | [August 2 at 9:48 AM](https://archive.org/download/wsav-2022/wsav-2022-08-02T09:48:46.590385-04:00.hyperlinks.json) |
 | [August 1 at 10:03 PM](https://archive.org/download/wsav-2022/wsav-2022-08-01T22:03:33.153951-04:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 30 at 9:39 AM](https://archive.org/download/wsav-2022/wsav-2022-07-30T09:39:09.979790-04:00.hyperlinks.json) |
 | [July 29 at 9:26 PM](https://archive.org/download/wsav-2022/wsav-2022-07-29T21:26:27.562939-04:00.hyperlinks.json) |
 | [July 29 at 9:38 AM](https://archive.org/download/wsav-2022/wsav-2022-07-29T09:38:03.231666-04:00.hyperlinks.json) |
-| [July 28 at 9:30 PM](https://archive.org/download/wsav-2022/wsav-2022-07-28T21:30:10.665476-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 27 accessibility trees with the Internet Archive.
+The archiving routine has saved 28 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 3 at 10:35 AM](https://archive.org/download/wsav-2022/wsav-2022-08-03T10:35:28.033745-04:00.accessibility.json) |
 | [August 2 at 10:01 PM](https://archive.org/download/wsav-2022/wsav-2022-08-02T22:01:39.663589-04:00.accessibility.json) |
 | [August 2 at 9:48 AM](https://archive.org/download/wsav-2022/wsav-2022-08-02T09:48:46.590385-04:00.accessibility.json) |
 | [August 1 at 10:03 PM](https://archive.org/download/wsav-2022/wsav-2022-08-01T22:03:33.153951-04:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [July 30 at 9:39 AM](https://archive.org/download/wsav-2022/wsav-2022-07-30T09:39:09.979790-04:00.accessibility.json) |
 | [July 29 at 9:26 PM](https://archive.org/download/wsav-2022/wsav-2022-07-29T21:26:27.562939-04:00.accessibility.json) |
 | [July 29 at 9:38 AM](https://archive.org/download/wsav-2022/wsav-2022-07-29T09:38:03.231666-04:00.accessibility.json) |
-| [July 28 at 9:30 PM](https://archive.org/download/wsav-2022/wsav-2022-07-28T21:30:10.665476-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 22 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 3 at 10:35 AM](https://archive.org/download/wsav-2022/wsav-2022-08-03T10:35:28.033745-04:00.lighthouse.json) |
 | [August 2 at 10:01 PM](https://archive.org/download/wsav-2022/wsav-2022-08-02T22:01:39.663589-04:00.lighthouse.json) |
 | [August 2 at 9:48 AM](https://archive.org/download/wsav-2022/wsav-2022-08-02T09:48:46.590385-04:00.lighthouse.json) |
 | [August 1 at 10:03 PM](https://archive.org/download/wsav-2022/wsav-2022-08-01T22:03:33.153951-04:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 30 at 10:52 PM](https://archive.org/download/wsav-2022/wsav-2022-07-30T22:52:30.624392-04:00.lighthouse.json) |
 | [July 30 at 9:39 AM](https://archive.org/download/wsav-2022/wsav-2022-07-30T09:39:09.979790-04:00.lighthouse.json) |
 | [July 29 at 9:26 PM](https://archive.org/download/wsav-2022/wsav-2022-07-29T21:26:27.562939-04:00.lighthouse.json) |
-| [July 29 at 9:38 AM](https://archive.org/download/wsav-2022/wsav-2022-07-29T09:38:03.231666-04:00.lighthouse.json) |
 
 
 

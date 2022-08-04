@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 18 screenshots with the Internet Archive.
+The archiving routine has saved 19 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/detroitnews-2022/detroitnews-2022-08-03T19:23:18.212214-04:00.jpg">
+  <img src="https://archive.org/download/detroitnews-2022/detroitnews-2022-08-03T19:23:18.212214-04:00.jpg"
+     alt="Detroit News at 2022-08-03 19:23:19-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/detroitnews-2022/detroitnews-2022-08-03T19:23:18.212214-04:00.jpg">August 3 at 7:23 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/detroitnews-2022/detroitnews-2022-08-03T08:40:04.247122-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/detroitnews-2022/detroitnews-2022-07-29T07:08:26.388724-04:00.jpg">July 29 at 7:08 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/detroitnews-2022/detroitnews-2022-07-28T19:12:03.522798-04:00.jpg">
-  <img src="https://archive.org/download/detroitnews-2022/detroitnews-2022-07-28T19:12:03.522798-04:00.jpg"
-     alt="Detroit News at 2022-07-28 19:12:05-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/detroitnews-2022/detroitnews-2022-07-28T19:12:03.522798-04:00.jpg">July 28 at 7:12 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 18 hyperlink lists with the Internet Archive.
+The archiving routine has saved 19 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 3 at 7:23 PM](https://archive.org/download/detroitnews-2022/detroitnews-2022-08-03T19:23:18.212214-04:00.hyperlinks.json) |
 | [August 3 at 8:40 AM](https://archive.org/download/detroitnews-2022/detroitnews-2022-08-03T08:40:04.247122-04:00.hyperlinks.json) |
 | [August 2 at 7:24 PM](https://archive.org/download/detroitnews-2022/detroitnews-2022-08-02T19:24:16.444112-04:00.hyperlinks.json) |
 | [August 2 at 8:14 AM](https://archive.org/download/detroitnews-2022/detroitnews-2022-08-02T08:14:44.814772-04:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 31 at 7:12 AM](https://archive.org/download/detroitnews-2022/detroitnews-2022-07-31T07:11:59.427041-04:00.hyperlinks.json) |
 | [July 30 at 7:18 PM](https://archive.org/download/detroitnews-2022/detroitnews-2022-07-30T19:18:00.367017-04:00.hyperlinks.json) |
 | [July 30 at 7:14 AM](https://archive.org/download/detroitnews-2022/detroitnews-2022-07-30T07:14:54.125728-04:00.hyperlinks.json) |
-| [July 29 at 8:05 PM](https://archive.org/download/detroitnews-2022/detroitnews-2022-07-29T20:05:03.835200-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 18 accessibility trees with the Internet Archive.
+The archiving routine has saved 19 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 3 at 7:23 PM](https://archive.org/download/detroitnews-2022/detroitnews-2022-08-03T19:23:18.212214-04:00.accessibility.json) |
 | [August 3 at 8:40 AM](https://archive.org/download/detroitnews-2022/detroitnews-2022-08-03T08:40:04.247122-04:00.accessibility.json) |
 | [August 2 at 7:24 PM](https://archive.org/download/detroitnews-2022/detroitnews-2022-08-02T19:24:16.444112-04:00.accessibility.json) |
 | [August 2 at 8:14 AM](https://archive.org/download/detroitnews-2022/detroitnews-2022-08-02T08:14:44.814772-04:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [July 31 at 7:12 AM](https://archive.org/download/detroitnews-2022/detroitnews-2022-07-31T07:11:59.427041-04:00.accessibility.json) |
 | [July 30 at 7:18 PM](https://archive.org/download/detroitnews-2022/detroitnews-2022-07-30T19:18:00.367017-04:00.accessibility.json) |
 | [July 30 at 7:14 AM](https://archive.org/download/detroitnews-2022/detroitnews-2022-07-30T07:14:54.125728-04:00.accessibility.json) |
-| [July 29 at 8:05 PM](https://archive.org/download/detroitnews-2022/detroitnews-2022-07-29T20:05:03.835200-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 19 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 3 at 7:23 PM](https://archive.org/download/detroitnews-2022/detroitnews-2022-08-03T19:23:18.212214-04:00.lighthouse.json) |
 | [August 3 at 8:40 AM](https://archive.org/download/detroitnews-2022/detroitnews-2022-08-03T08:40:04.247122-04:00.lighthouse.json) |
 | [August 2 at 7:24 PM](https://archive.org/download/detroitnews-2022/detroitnews-2022-08-02T19:24:16.444112-04:00.lighthouse.json) |
 | [August 2 at 8:14 AM](https://archive.org/download/detroitnews-2022/detroitnews-2022-08-02T08:14:44.814772-04:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 31 at 7:12 AM](https://archive.org/download/detroitnews-2022/detroitnews-2022-07-31T07:11:59.427041-04:00.lighthouse.json) |
 | [July 30 at 7:18 PM](https://archive.org/download/detroitnews-2022/detroitnews-2022-07-30T19:18:00.367017-04:00.lighthouse.json) |
 | [July 30 at 7:15 AM](https://archive.org/download/detroitnews-2022/detroitnews-2022-07-30T07:14:54.125728-04:00.lighthouse.json) |
-| [July 29 at 8:05 PM](https://archive.org/download/detroitnews-2022/detroitnews-2022-07-29T20:05:03.835200-04:00.lighthouse.json) |
 
 
 

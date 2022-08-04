@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 18 screenshots with the Internet Archive.
+The archiving routine has saved 19 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-08-03T10:36:15.036534-04:00.jpg">
+  <img src="https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-08-03T10:36:15.036534-04:00.jpg"
+     alt="Y-City News at 2022-08-03 10:36:16-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-08-03T10:36:15.036534-04:00.jpg">August 3 at 10:36 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-08-02T22:01:47.481603-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-28T21:31:05.270884-04:00.jpg">July 28 at 9:31 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-28T09:29:45.543774-04:00.jpg">
-  <img src="https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-28T09:29:45.543774-04:00.jpg"
-     alt="Y-City News at 2022-07-28 09:29:46-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-28T09:29:45.543774-04:00.jpg">July 28 at 9:29 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 18 hyperlink lists with the Internet Archive.
+The archiving routine has saved 19 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 3 at 10:36 AM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-08-03T10:36:15.036534-04:00.hyperlinks.json) |
 | [August 2 at 10:01 PM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-08-02T22:01:47.481603-04:00.hyperlinks.json) |
 | [August 2 at 9:49 AM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-08-02T09:48:59.631255-04:00.hyperlinks.json) |
 | [August 1 at 10:03 PM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-08-01T22:03:41.149747-04:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 30 at 10:52 PM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-30T22:52:09.319489-04:00.hyperlinks.json) |
 | [July 30 at 9:39 AM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-30T09:39:12.859302-04:00.hyperlinks.json) |
 | [July 29 at 9:26 PM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-29T21:26:43.270843-04:00.hyperlinks.json) |
-| [July 29 at 9:37 AM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-29T09:37:47.625947-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 18 accessibility trees with the Internet Archive.
+The archiving routine has saved 19 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 3 at 10:36 AM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-08-03T10:36:15.036534-04:00.accessibility.json) |
 | [August 2 at 10:01 PM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-08-02T22:01:47.481603-04:00.accessibility.json) |
 | [August 2 at 9:49 AM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-08-02T09:48:59.631255-04:00.accessibility.json) |
 | [August 1 at 10:03 PM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-08-01T22:03:41.149747-04:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [July 30 at 10:52 PM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-30T22:52:09.319489-04:00.accessibility.json) |
 | [July 30 at 9:39 AM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-30T09:39:12.859302-04:00.accessibility.json) |
 | [July 29 at 9:26 PM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-29T21:26:43.270843-04:00.accessibility.json) |
-| [July 29 at 9:37 AM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-29T09:37:47.625947-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 19 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 3 at 10:36 AM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-08-03T10:36:15.036534-04:00.lighthouse.json) |
 | [August 2 at 10:01 PM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-08-02T22:01:47.481603-04:00.lighthouse.json) |
 | [August 2 at 9:49 AM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-08-02T09:48:59.631255-04:00.lighthouse.json) |
 | [August 1 at 10:03 PM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-08-01T22:03:41.149747-04:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 30 at 10:52 PM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-30T22:52:09.319489-04:00.lighthouse.json) |
 | [July 30 at 9:39 AM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-30T09:39:12.859302-04:00.lighthouse.json) |
 | [July 29 at 9:26 PM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-29T21:26:43.270843-04:00.lighthouse.json) |
-| [July 29 at 9:37 AM](https://archive.org/download/ycitynewsonline-2022/ycitynewsonline-2022-07-29T09:37:47.625947-04:00.lighthouse.json) |
 
 
 

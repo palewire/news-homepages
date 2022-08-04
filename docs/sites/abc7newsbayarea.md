@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 18 screenshots with the Internet Archive.
+The archiving routine has saved 19 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-03T07:23:10.974008-07:00.jpg">
+  <img src="https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-03T07:23:10.974008-07:00.jpg"
+     alt="ABC7 News at 2022-08-03 07:23:12-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-03T07:23:10.974008-07:00.jpg">August 3 at 7:23 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-02T18:50:06.640228-07:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-07-28T18:21:08.285675-07:00.jpg">July 28 at 6:21 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-07-28T06:19:37.931746-07:00.jpg">
-  <img src="https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-07-28T06:19:37.931746-07:00.jpg"
-     alt="ABC7 News at 2022-07-28 06:19:39-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-07-28T06:19:37.931746-07:00.jpg">July 28 at 6:19 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 18 hyperlink lists with the Internet Archive.
+The archiving routine has saved 19 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 3 at 7:23 AM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-03T07:23:10.974008-07:00.hyperlinks.json) |
 | [August 2 at 6:50 PM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-02T18:50:06.640228-07:00.hyperlinks.json) |
 | [August 2 at 6:37 AM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-02T06:37:35.502153-07:00.hyperlinks.json) |
 | [August 1 at 6:53 PM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-01T18:52:57.943729-07:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 30 at 7:41 PM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-07-30T19:41:44.412838-07:00.hyperlinks.json) |
 | [July 30 at 6:30 AM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-07-30T06:30:18.602183-07:00.hyperlinks.json) |
 | [July 29 at 6:17 PM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-07-29T18:17:30.259391-07:00.hyperlinks.json) |
-| [July 29 at 6:27 AM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-07-29T06:27:20.519419-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 18 accessibility trees with the Internet Archive.
+The archiving routine has saved 19 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 3 at 7:23 AM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-03T07:23:10.974008-07:00.accessibility.json) |
 | [August 2 at 6:50 PM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-02T18:50:06.640228-07:00.accessibility.json) |
 | [August 2 at 6:37 AM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-02T06:37:35.502153-07:00.accessibility.json) |
 | [August 1 at 6:53 PM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-01T18:52:57.943729-07:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [July 30 at 7:41 PM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-07-30T19:41:44.412838-07:00.accessibility.json) |
 | [July 30 at 6:30 AM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-07-30T06:30:18.602183-07:00.accessibility.json) |
 | [July 29 at 6:17 PM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-07-29T18:17:30.259391-07:00.accessibility.json) |
-| [July 29 at 6:27 AM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-07-29T06:27:20.519419-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 19 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 3 at 7:23 AM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-03T07:23:10.974008-07:00.lighthouse.json) |
 | [August 2 at 6:50 PM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-02T18:50:06.640228-07:00.lighthouse.json) |
 | [August 2 at 6:37 AM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-02T06:37:35.502153-07:00.lighthouse.json) |
 | [August 1 at 6:53 PM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-08-01T18:52:57.943729-07:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 30 at 7:41 PM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-07-30T19:41:44.412838-07:00.lighthouse.json) |
 | [July 30 at 6:30 AM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-07-30T06:30:18.602183-07:00.lighthouse.json) |
 | [July 29 at 6:17 PM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-07-29T18:17:30.259391-07:00.lighthouse.json) |
-| [July 29 at 6:27 AM](https://archive.org/download/abc7newsbayarea-2022/abc7newsbayarea-2022-07-29T06:27:20.519419-07:00.lighthouse.json) |
 
 
 
