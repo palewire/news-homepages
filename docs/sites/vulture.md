@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 5 screenshots with the Internet Archive.
+The archiving routine has saved 6 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/vulture-2022/vulture-2022-08-05T00:47:12.601953-04:00.jpg">
+  <img src="https://archive.org/download/vulture-2022/vulture-2022-08-05T00:47:12.601953-04:00.jpg"
+     alt="Vulture at 2022-08-05 00:47:13-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/vulture-2022/vulture-2022-08-05T00:47:12.601953-04:00.jpg">August 5 at 12:47 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vulture-2022/vulture-2022-08-04T13:08:41.928965-04:00.jpg">
@@ -77,7 +86,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 5 hyperlink lists with the Internet Archive.
+The archiving routine has saved 6 hyperlink lists with the Internet Archive.
 
 
 
@@ -85,6 +94,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 5 at 12:47 AM](https://archive.org/download/vulture-2022/vulture-2022-08-05T00:47:12.601953-04:00.hyperlinks.json) |
 | [August 4 at 1:08 PM](https://archive.org/download/vulture-2022/vulture-2022-08-04T13:08:41.928965-04:00.hyperlinks.json) |
 | [August 4 at 12:42 AM](https://archive.org/download/vulture-2022/vulture-2022-08-04T00:41:56.966135-04:00.hyperlinks.json) |
 | [August 3 at 1:16 PM](https://archive.org/download/vulture-2022/vulture-2022-08-03T13:16:28.535764-04:00.hyperlinks.json) |
@@ -94,7 +104,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 5 accessibility trees with the Internet Archive.
+The archiving routine has saved 6 accessibility trees with the Internet Archive.
 
 
 
@@ -102,6 +112,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 5 at 12:47 AM](https://archive.org/download/vulture-2022/vulture-2022-08-05T00:47:12.601953-04:00.accessibility.json) |
 | [August 4 at 1:08 PM](https://archive.org/download/vulture-2022/vulture-2022-08-04T13:08:41.928965-04:00.accessibility.json) |
 | [August 4 at 12:42 AM](https://archive.org/download/vulture-2022/vulture-2022-08-04T00:41:56.966135-04:00.accessibility.json) |
 | [August 3 at 1:16 PM](https://archive.org/download/vulture-2022/vulture-2022-08-03T13:16:28.535764-04:00.accessibility.json) |
@@ -112,7 +123,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 5 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 6 Lighthouse audits with the Internet Archive.
 
 
 
@@ -120,6 +131,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 5 at 12:47 AM](https://archive.org/download/vulture-2022/vulture-2022-08-05T00:47:12.601953-04:00.lighthouse.json) |
 | [August 4 at 1:08 PM](https://archive.org/download/vulture-2022/vulture-2022-08-04T13:08:41.928965-04:00.lighthouse.json) |
 | [August 4 at 12:42 AM](https://archive.org/download/vulture-2022/vulture-2022-08-04T00:41:56.966135-04:00.lighthouse.json) |
 | [August 3 at 1:16 PM](https://archive.org/download/vulture-2022/vulture-2022-08-03T13:16:28.535764-04:00.lighthouse.json) |

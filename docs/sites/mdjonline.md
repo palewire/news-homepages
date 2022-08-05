@@ -20,13 +20,105 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 30 screenshots with the Internet Archive.
+The archiving routine has saved 31 screenshots with the Internet Archive.
 
+
+  <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specScreenshots = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/screenshots/mdjonline.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mdjonline-2022/mdjonline-2022-08-04T23:24:11.458472-04:00.jpg">
+  <img src="https://archive.org/download/mdjonline-2022/mdjonline-2022-08-04T23:24:11.458472-04:00.jpg"
+     alt="Marietta Daily Journal at 2022-08-04 23:24:13-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mdjonline-2022/mdjonline-2022-08-04T23:24:11.458472-04:00.jpg">August 4 at 11:24 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mdjonline-2022/mdjonline-2022-08-04T11:28:47.283905-04:00.jpg">
@@ -127,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/mdjonline-2022/mdjonline-2022-07-30T11:44:00.750758-04:00.jpg">July 30 at 11:44 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/mdjonline-2022/mdjonline-2022-07-29T22:44:21.951355-04:00.jpg">
-  <img src="https://archive.org/download/mdjonline-2022/mdjonline-2022-07-29T22:44:21.951355-04:00.jpg"
-     alt="Marietta Daily Journal at 2022-07-29 22:44:23-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mdjonline-2022/mdjonline-2022-07-29T22:44:21.951355-04:00.jpg">July 29 at 10:44 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 31 hyperlink lists with the Internet Archive.
+The archiving routine has saved 32 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -231,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 4 at 11:24 PM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-04T23:24:11.458472-04:00.hyperlinks.json) |
 | [August 4 at 11:28 AM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-04T11:28:47.283905-04:00.hyperlinks.json) |
 | [August 3 at 11:27 PM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-03T23:27:24.840989-04:00.hyperlinks.json) |
 | [August 3 at 1:02 PM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-03T13:02:33.415044-04:00.hyperlinks.json) |
@@ -240,19 +324,102 @@ Here are the 10 most recent hyperlink lists.
 | [August 1 at 11:04 AM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-01T11:03:59.911710-04:00.hyperlinks.json) |
 | [July 31 at 10:40 PM](https://archive.org/download/mdjonline-2022/mdjonline-2022-07-31T22:40:01.765934-04:00.hyperlinks.json) |
 | [July 31 at 10:41 AM](https://archive.org/download/mdjonline-2022/mdjonline-2022-07-31T10:41:44.737934-04:00.hyperlinks.json) |
-| [July 30 at 11:02 PM](https://archive.org/download/mdjonline-2022/mdjonline-2022-07-30T23:02:46.420644-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 30 accessibility trees with the Internet Archive.
+The archiving routine has saved 31 accessibility trees with the Internet Archive.
 
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/mdjonline.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 4 at 11:24 PM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-04T23:24:11.458472-04:00.accessibility.json) |
 | [August 4 at 11:28 AM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-04T11:28:47.283905-04:00.accessibility.json) |
 | [August 3 at 11:27 PM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-03T23:27:24.840989-04:00.accessibility.json) |
 | [August 3 at 1:02 PM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-03T13:02:33.415044-04:00.accessibility.json) |
@@ -262,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 1 at 11:04 AM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-01T11:03:59.911710-04:00.accessibility.json) |
 | [July 31 at 10:40 PM](https://archive.org/download/mdjonline-2022/mdjonline-2022-07-31T22:40:01.765934-04:00.accessibility.json) |
 | [July 31 at 10:41 AM](https://archive.org/download/mdjonline-2022/mdjonline-2022-07-31T10:41:44.737934-04:00.accessibility.json) |
-| [July 30 at 11:02 PM](https://archive.org/download/mdjonline-2022/mdjonline-2022-07-30T23:02:46.420644-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 24 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 25 Lighthouse audits with the Internet Archive.
 
 
 
@@ -276,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 4 at 11:24 PM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-04T23:24:11.458472-04:00.lighthouse.json) |
 | [August 4 at 11:28 AM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-04T11:28:47.283905-04:00.lighthouse.json) |
 | [August 3 at 11:27 PM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-03T23:27:24.840989-04:00.lighthouse.json) |
 | [August 3 at 1:02 PM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-03T13:02:33.415044-04:00.lighthouse.json) |
@@ -285,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 1 at 11:04 AM](https://archive.org/download/mdjonline-2022/mdjonline-2022-08-01T11:03:59.911710-04:00.lighthouse.json) |
 | [July 31 at 10:40 PM](https://archive.org/download/mdjonline-2022/mdjonline-2022-07-31T22:40:01.765934-04:00.lighthouse.json) |
 | [July 31 at 10:41 AM](https://archive.org/download/mdjonline-2022/mdjonline-2022-07-31T10:41:44.737934-04:00.lighthouse.json) |
-| [July 30 at 11:02 PM](https://archive.org/download/mdjonline-2022/mdjonline-2022-07-30T23:02:46.420644-04:00.lighthouse.json) |
 
 
 

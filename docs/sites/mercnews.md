@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 239 screenshots with the Internet Archive.
+The archiving routine has saved 240 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 239 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mercnews-2022/mercnews-2022-08-04T20:24:37.609112-07:00.jpg">
+  <img src="https://archive.org/download/mercnews-2022/mercnews-2022-08-04T20:24:37.609112-07:00.jpg"
+     alt="Mercury News at 2022-08-04 20:24:42-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mercnews-2022/mercnews-2022-08-04T20:24:37.609112-07:00.jpg">August 4 at 8:24 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mercnews-2022/mercnews-2022-08-04T08:29:00.492644-07:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/mercnews-2022/mercnews-2022-07-30T08:44:19.163465-07:00.jpg">July 30 at 8:44 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mercnews-2022/mercnews-2022-07-29T19:45:25.055524-07:00.jpg">
-  <img src="https://archive.org/download/mercnews-2022/mercnews-2022-07-29T19:45:25.055524-07:00.jpg"
-     alt="Mercury News at 2022-07-29 19:45:30-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mercnews-2022/mercnews-2022-07-29T19:45:25.055524-07:00.jpg">July 29 at 7:45 PM</a></p>
 </div>
 
 </div>
@@ -328,7 +328,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 231 accessibility trees with the Internet Archive.
+The archiving routine has saved 232 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 4 at 8:24 PM](https://archive.org/download/mercnews-2022/mercnews-2022-08-04T20:24:37.609112-07:00.accessibility.json) |
 | [August 4 at 8:29 AM](https://archive.org/download/mercnews-2022/mercnews-2022-08-04T08:29:00.492644-07:00.accessibility.json) |
 | [August 3 at 8:27 PM](https://archive.org/download/mercnews-2022/mercnews-2022-08-03T20:27:22.782741-07:00.accessibility.json) |
 | [August 3 at 10:03 AM](https://archive.org/download/mercnews-2022/mercnews-2022-08-03T10:03:02.894494-07:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 1 at 8:04 AM](https://archive.org/download/mercnews-2022/mercnews-2022-08-01T08:04:51.606295-07:00.accessibility.json) |
 | [July 31 at 7:40 PM](https://archive.org/download/mercnews-2022/mercnews-2022-07-31T19:39:54.438352-07:00.accessibility.json) |
 | [July 31 at 7:41 AM](https://archive.org/download/mercnews-2022/mercnews-2022-07-31T07:41:23.493674-07:00.accessibility.json) |
-| [July 30 at 8:01 PM](https://archive.org/download/mercnews-2022/mercnews-2022-07-30T20:01:35.361642-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 24 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 25 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 4 at 8:24 PM](https://archive.org/download/mercnews-2022/mercnews-2022-08-04T20:24:37.609112-07:00.lighthouse.json) |
 | [August 4 at 8:29 AM](https://archive.org/download/mercnews-2022/mercnews-2022-08-04T08:29:00.492644-07:00.lighthouse.json) |
 | [August 3 at 8:27 PM](https://archive.org/download/mercnews-2022/mercnews-2022-08-03T20:27:22.782741-07:00.lighthouse.json) |
 | [August 3 at 10:03 AM](https://archive.org/download/mercnews-2022/mercnews-2022-08-03T10:03:02.894494-07:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 1 at 8:05 AM](https://archive.org/download/mercnews-2022/mercnews-2022-08-01T08:04:51.606295-07:00.lighthouse.json) |
 | [July 31 at 7:40 PM](https://archive.org/download/mercnews-2022/mercnews-2022-07-31T19:39:54.438352-07:00.lighthouse.json) |
 | [July 31 at 7:41 AM](https://archive.org/download/mercnews-2022/mercnews-2022-07-31T07:41:23.493674-07:00.lighthouse.json) |
-| [July 30 at 8:01 PM](https://archive.org/download/mercnews-2022/mercnews-2022-07-30T20:01:35.361642-07:00.lighthouse.json) |
 
 
 

@@ -223,7 +223,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 174 hyperlink lists with the Internet Archive.
+The archiving routine has saved 175 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 4 at 9:55 PM](https://archive.org/download/business-2022/business-2022-08-04T21:55:18.063305-04:00.hyperlinks.json) |
 | [August 4 at 5:22 PM](https://archive.org/download/business-2022/business-2022-08-04T17:22:24.113324-04:00.hyperlinks.json) |
 | [August 4 at 9:51 AM](https://archive.org/download/business-2022/business-2022-08-04T09:51:44.178669-04:00.hyperlinks.json) |
 | [August 4 at 9:46 AM](https://archive.org/download/business-2022/business-2022-08-04T09:46:07.505668-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 3 at 10:17 AM](https://archive.org/download/business-2022/business-2022-08-03T10:17:55.547870-04:00.hyperlinks.json) |
 | [August 2 at 9:53 PM](https://archive.org/download/business-2022/business-2022-08-02T21:53:35.894517-04:00.hyperlinks.json) |
 | [August 2 at 5:14 PM](https://archive.org/download/business-2022/business-2022-08-02T17:13:53.617640-04:00.hyperlinks.json) |
-| [August 2 at 9:40 AM](https://archive.org/download/business-2022/business-2022-08-02T09:40:21.412934-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 176 accessibility trees with the Internet Archive.
+The archiving routine has saved 177 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 4 at 9:55 PM](https://archive.org/download/business-2022/business-2022-08-04T21:55:18.063305-04:00.accessibility.json) |
 | [August 4 at 5:22 PM](https://archive.org/download/business-2022/business-2022-08-04T17:22:24.113324-04:00.accessibility.json) |
 | [August 4 at 9:51 AM](https://archive.org/download/business-2022/business-2022-08-04T09:51:44.178669-04:00.accessibility.json) |
 | [August 4 at 9:46 AM](https://archive.org/download/business-2022/business-2022-08-04T09:46:07.505668-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 3 at 10:17 AM](https://archive.org/download/business-2022/business-2022-08-03T10:17:55.547870-04:00.accessibility.json) |
 | [August 2 at 9:53 PM](https://archive.org/download/business-2022/business-2022-08-02T21:53:35.894517-04:00.accessibility.json) |
 | [August 2 at 5:13 PM](https://archive.org/download/business-2022/business-2022-08-02T17:13:53.617640-04:00.accessibility.json) |
-| [August 2 at 9:40 AM](https://archive.org/download/business-2022/business-2022-08-02T09:40:21.412934-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 50 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 51 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 4 at 9:55 PM](https://archive.org/download/business-2022/business-2022-08-04T21:55:18.063305-04:00.lighthouse.json) |
 | [August 4 at 5:22 PM](https://archive.org/download/business-2022/business-2022-08-04T17:22:24.113324-04:00.lighthouse.json) |
 | [August 4 at 9:51 AM](https://archive.org/download/business-2022/business-2022-08-04T09:51:44.178669-04:00.lighthouse.json) |
 | [August 4 at 9:46 AM](https://archive.org/download/business-2022/business-2022-08-04T09:46:07.505668-04:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 3 at 10:18 AM](https://archive.org/download/business-2022/business-2022-08-03T10:17:55.547870-04:00.lighthouse.json) |
 | [August 2 at 9:53 PM](https://archive.org/download/business-2022/business-2022-08-02T21:53:35.894517-04:00.lighthouse.json) |
 | [August 2 at 5:14 PM](https://archive.org/download/business-2022/business-2022-08-02T17:13:53.617640-04:00.lighthouse.json) |
-| [August 2 at 9:40 AM](https://archive.org/download/business-2022/business-2022-08-02T09:40:21.412934-04:00.lighthouse.json) |
 
 
 

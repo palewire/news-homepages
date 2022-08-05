@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 22 screenshots with the Internet Archive.
+The archiving routine has saved 23 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wgnnews-2022/wgnnews-2022-08-04T21:02:48.886774-05:00.jpg">
+  <img src="https://archive.org/download/wgnnews-2022/wgnnews-2022-08-04T21:02:48.886774-05:00.jpg"
+     alt="WGN at 2022-08-04 21:02:51-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wgnnews-2022/wgnnews-2022-08-04T21:02:48.886774-05:00.jpg">August 4 at 9:02 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wgnnews-2022/wgnnews-2022-08-04T12:12:58.759744-05:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wgnnews-2022/wgnnews-2022-08-01T09:54:02.925902-05:00.jpg">August 1 at 9:54 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wgnnews-2022/wgnnews-2022-07-31T20:30:31.005059-05:00.jpg">
-  <img src="https://archive.org/download/wgnnews-2022/wgnnews-2022-07-31T20:30:31.005059-05:00.jpg"
-     alt="WGN at 2022-07-31 20:30:32-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wgnnews-2022/wgnnews-2022-07-31T20:30:31.005059-05:00.jpg">July 31 at 8:30 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 23 hyperlink lists with the Internet Archive.
+The archiving routine has saved 24 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 4 at 9:02 PM](https://archive.org/download/wgnnews-2022/wgnnews-2022-08-04T21:02:48.886774-05:00.hyperlinks.json) |
 | [August 4 at 12:13 PM](https://archive.org/download/wgnnews-2022/wgnnews-2022-08-04T12:12:58.759744-05:00.hyperlinks.json) |
 | [August 4 at 8:59 AM](https://archive.org/download/wgnnews-2022/wgnnews-2022-08-04T08:59:42.070474-05:00.hyperlinks.json) |
 | [August 3 at 10:14 PM](https://archive.org/download/wgnnews-2022/wgnnews-2022-08-03T22:14:15.843346-05:00.hyperlinks.json) |
@@ -157,7 +158,6 @@ Here are the 10 most recent hyperlink lists.
 | [August 2 at 11:27 AM](https://archive.org/download/wgnnews-2022/wgnnews-2022-08-02T11:27:10.086010-05:00.hyperlinks.json) |
 | [August 2 at 8:48 AM](https://archive.org/download/wgnnews-2022/wgnnews-2022-08-02T08:48:16.435135-05:00.hyperlinks.json) |
 | [August 1 at 9:03 PM](https://archive.org/download/wgnnews-2022/wgnnews-2022-08-01T21:02:58.898424-05:00.hyperlinks.json) |
-| [August 1 at 11:36 AM](https://archive.org/download/wgnnews-2022/wgnnews-2022-08-01T11:36:35.964657-05:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -185,7 +185,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 24 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 4 at 9:02 PM](https://archive.org/download/wgnnews-2022/wgnnews-2022-08-04T21:02:48.886774-05:00.lighthouse.json) |
 | [August 4 at 12:13 PM](https://archive.org/download/wgnnews-2022/wgnnews-2022-08-04T12:12:58.759744-05:00.lighthouse.json) |
 | [August 4 at 8:59 AM](https://archive.org/download/wgnnews-2022/wgnnews-2022-08-04T08:59:42.070474-05:00.lighthouse.json) |
 | [August 3 at 10:14 PM](https://archive.org/download/wgnnews-2022/wgnnews-2022-08-03T22:14:15.843346-05:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 2 at 11:27 AM](https://archive.org/download/wgnnews-2022/wgnnews-2022-08-02T11:27:10.086010-05:00.lighthouse.json) |
 | [August 2 at 8:48 AM](https://archive.org/download/wgnnews-2022/wgnnews-2022-08-02T08:48:16.435135-05:00.lighthouse.json) |
 | [August 1 at 9:03 PM](https://archive.org/download/wgnnews-2022/wgnnews-2022-08-01T21:02:58.898424-05:00.lighthouse.json) |
-| [August 1 at 11:36 AM](https://archive.org/download/wgnnews-2022/wgnnews-2022-08-01T11:36:35.964657-05:00.lighthouse.json) |
 
 
 

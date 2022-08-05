@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 233 screenshots with the Internet Archive.
+The archiving routine has saved 234 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 233 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/oann-2022/oann-2022-08-04T21:46:16.887103-04:00.jpg">
+  <img src="https://archive.org/download/oann-2022/oann-2022-08-04T21:46:16.887103-04:00.jpg"
+     alt="One America News Network at 2022-08-04 21:46:19-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/oann-2022/oann-2022-08-04T21:46:16.887103-04:00.jpg">August 4 at 9:46 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oann-2022/oann-2022-08-04T14:45:08.626199-04:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/oann-2022/oann-2022-08-01T08:27:52.890066-04:00.jpg">August 1 at 8:27 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/oann-2022/oann-2022-07-31T20:23:32.736139-04:00.jpg">
-  <img src="https://archive.org/download/oann-2022/oann-2022-07-31T20:23:32.736139-04:00.jpg"
-     alt="One America News Network at 2022-07-31 20:23:36-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/oann-2022/oann-2022-07-31T20:23:32.736139-04:00.jpg">July 31 at 8:23 PM</a></p>
 </div>
 
 </div>

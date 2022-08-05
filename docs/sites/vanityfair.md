@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 63 screenshots with the Internet Archive.
+The archiving routine has saved 64 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 63 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-08-04T22:03:26.485023-04:00.jpg">
+  <img src="https://archive.org/download/vanityfair-2022/vanityfair-2022-08-04T22:03:26.485023-04:00.jpg"
+     alt="Vanity Fair at 2022-08-04 22:03:28-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-08-04T22:03:26.485023-04:00.jpg">August 4 at 10:03 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-08-04T10:00:47.665785-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-30T09:38:02.484774-04:00.jpg">July 30 at 9:38 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-29T21:25:32.074309-04:00.jpg">
-  <img src="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-29T21:25:32.074309-04:00.jpg"
-     alt="Vanity Fair at 2022-07-29 21:25:33-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/vanityfair-2022/vanityfair-2022-07-29T21:25:32.074309-04:00.jpg">July 29 at 9:25 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 63 hyperlink lists with the Internet Archive.
+The archiving routine has saved 64 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 4 at 10:03 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-08-04T22:03:26.485023-04:00.hyperlinks.json) |
 | [August 4 at 10:00 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-08-04T10:00:47.665785-04:00.hyperlinks.json) |
 | [August 3 at 11:14 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-08-03T23:14:01.467932-04:00.hyperlinks.json) |
 | [August 3 at 10:33 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-08-03T10:33:45.201653-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 1 at 10:51 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-08-01T10:51:38.815707-04:00.hyperlinks.json) |
 | [July 31 at 9:30 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-07-31T21:30:01.649970-04:00.hyperlinks.json) |
 | [July 31 at 9:35 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-07-31T09:35:03.252309-04:00.hyperlinks.json) |
-| [July 30 at 10:50 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-07-30T22:50:33.057736-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 64 accessibility trees with the Internet Archive.
+The archiving routine has saved 65 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 4 at 10:03 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-08-04T22:03:26.485023-04:00.accessibility.json) |
 | [August 4 at 10:00 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-08-04T10:00:47.665785-04:00.accessibility.json) |
 | [August 3 at 11:14 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-08-03T23:14:01.467932-04:00.accessibility.json) |
 | [August 3 at 10:33 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-08-03T10:33:45.201653-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 1 at 10:51 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-08-01T10:51:38.815707-04:00.accessibility.json) |
 | [July 31 at 9:30 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-07-31T21:30:01.649970-04:00.accessibility.json) |
 | [July 31 at 9:35 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-07-31T09:35:03.252309-04:00.accessibility.json) |
-| [July 30 at 10:50 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-07-30T22:50:33.057736-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 25 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 26 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 4 at 10:03 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-08-04T22:03:26.485023-04:00.lighthouse.json) |
 | [August 4 at 10:00 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-08-04T10:00:47.665785-04:00.lighthouse.json) |
 | [August 3 at 11:14 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-08-03T23:14:01.467932-04:00.lighthouse.json) |
 | [August 3 at 10:33 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-08-03T10:33:45.201653-04:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 1 at 10:51 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-08-01T10:51:38.815707-04:00.lighthouse.json) |
 | [July 31 at 9:30 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-07-31T21:30:01.649970-04:00.lighthouse.json) |
 | [July 31 at 9:35 AM](https://archive.org/download/vanityfair-2022/vanityfair-2022-07-31T09:35:03.252309-04:00.lighthouse.json) |
-| [July 30 at 10:50 PM](https://archive.org/download/vanityfair-2022/vanityfair-2022-07-30T22:50:33.057736-04:00.lighthouse.json) |
 
 
 

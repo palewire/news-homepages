@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 4 screenshots with the Internet Archive.
+The archiving routine has saved 5 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theroot-2022/theroot-2022-08-04T22:00:22.375148-04:00.jpg">
+  <img src="https://archive.org/download/theroot-2022/theroot-2022-08-04T22:00:22.375148-04:00.jpg"
+     alt="Root at 2022-08-04 22:00:23-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theroot-2022/theroot-2022-08-04T22:00:22.375148-04:00.jpg">August 4 at 10:00 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theroot-2022/theroot-2022-08-04T09:56:28.034060-04:00.jpg">
@@ -100,7 +109,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 4 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 5 Lighthouse audits with the Internet Archive.
 
 
 
@@ -108,6 +117,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 4 at 10:00 PM](https://archive.org/download/theroot-2022/theroot-2022-08-04T22:00:22.375148-04:00.lighthouse.json) |
 | [August 4 at 9:56 AM](https://archive.org/download/theroot-2022/theroot-2022-08-04T09:56:28.034060-04:00.lighthouse.json) |
 | [August 3 at 11:10 PM](https://archive.org/download/theroot-2022/theroot-2022-08-03T23:10:05.222087-04:00.lighthouse.json) |
 | [August 3 at 10:31 AM](https://archive.org/download/theroot-2022/theroot-2022-08-03T10:31:05.796294-04:00.lighthouse.json) |

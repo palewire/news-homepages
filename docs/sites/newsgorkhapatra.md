@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 22 screenshots with the Internet Archive.
+The archiving routine has saved 23 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-05T07:30:13.767277+05:45.jpg">
+  <img src="https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-05T07:30:13.767277+05:45.jpg"
+     alt="Gorakhapatra at 2022-08-05 07:30:15+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-05T07:30:13.767277+05:45.jpg">August 5 at 7:30 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-04T18:22:21.198331+05:45.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-07-30T18:11:04.153157+05:45.jpg">July 30 at 6:11 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-07-30T05:59:03.862558+05:45.jpg">
-  <img src="https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-07-30T05:59:03.862558+05:45.jpg"
-     alt="Gorakhapatra at 2022-07-30 05:59:05+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-07-30T05:59:03.862558+05:45.jpg">July 30 at 5:59 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 23 hyperlink lists with the Internet Archive.
+The archiving routine has saved 24 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 5 at 7:30 AM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-05T07:30:13.767277+05:45.hyperlinks.json) |
 | [August 4 at 6:22 PM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-04T18:22:21.198331+05:45.hyperlinks.json) |
 | [August 4 at 6:28 AM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-04T06:28:35.604403+05:45.hyperlinks.json) |
 | [August 3 at 6:38 PM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-03T18:38:07.622922+05:45.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 1 at 6:11 PM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-01T18:11:25.524392+05:45.hyperlinks.json) |
 | [August 1 at 6:06 AM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-01T06:06:46.102589+05:45.hyperlinks.json) |
 | [July 31 at 7:06 PM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-07-31T19:06:41.438843+05:45.hyperlinks.json) |
-| [July 31 at 6:15 AM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-07-31T06:15:21.502171+05:45.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 23 accessibility trees with the Internet Archive.
+The archiving routine has saved 24 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 5 at 7:30 AM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-05T07:30:13.767277+05:45.accessibility.json) |
 | [August 4 at 6:22 PM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-04T18:22:21.198331+05:45.accessibility.json) |
 | [August 4 at 6:28 AM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-04T06:28:35.604403+05:45.accessibility.json) |
 | [August 3 at 6:38 PM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-03T18:38:07.622922+05:45.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [August 1 at 6:11 PM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-01T18:11:25.524392+05:45.accessibility.json) |
 | [August 1 at 6:06 AM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-01T06:06:46.102589+05:45.accessibility.json) |
 | [July 31 at 7:06 PM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-07-31T19:06:41.438843+05:45.accessibility.json) |
-| [July 31 at 6:15 AM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-07-31T06:15:21.502171+05:45.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 24 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 5 at 7:30 AM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-05T07:30:13.767277+05:45.lighthouse.json) |
 | [August 4 at 6:22 PM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-04T18:22:21.198331+05:45.lighthouse.json) |
 | [August 4 at 6:28 AM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-04T06:28:35.604403+05:45.lighthouse.json) |
 | [August 3 at 6:38 PM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-03T18:38:07.622922+05:45.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 1 at 6:11 PM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-01T18:11:25.524392+05:45.lighthouse.json) |
 | [August 1 at 6:06 AM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-01T06:06:46.102589+05:45.lighthouse.json) |
 | [July 31 at 7:06 PM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-07-31T19:06:41.438843+05:45.lighthouse.json) |
-| [July 31 at 6:15 AM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-07-31T06:15:21.502171+05:45.lighthouse.json) |
 
 
 

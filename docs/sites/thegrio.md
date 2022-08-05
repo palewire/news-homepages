@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 4 screenshots with the Internet Archive.
+The archiving routine has saved 5 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thegrio-2022/thegrio-2022-08-05T00:43:43.174940-04:00.jpg">
+  <img src="https://archive.org/download/thegrio-2022/thegrio-2022-08-05T00:43:43.174940-04:00.jpg"
+     alt="Grio at 2022-08-05 00:43:44-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thegrio-2022/thegrio-2022-08-05T00:43:43.174940-04:00.jpg">August 5 at 12:43 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thegrio-2022/thegrio-2022-08-04T13:04:59.099091-04:00.jpg">
@@ -68,7 +77,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 4 hyperlink lists with the Internet Archive.
+The archiving routine has saved 5 hyperlink lists with the Internet Archive.
 
 
 
@@ -76,6 +85,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 5 at 12:43 AM](https://archive.org/download/thegrio-2022/thegrio-2022-08-05T00:43:43.174940-04:00.hyperlinks.json) |
 | [August 4 at 1:05 PM](https://archive.org/download/thegrio-2022/thegrio-2022-08-04T13:04:59.099091-04:00.hyperlinks.json) |
 | [August 4 at 12:38 AM](https://archive.org/download/thegrio-2022/thegrio-2022-08-04T00:38:38.143384-04:00.hyperlinks.json) |
 | [August 3 at 1:13 PM](https://archive.org/download/thegrio-2022/thegrio-2022-08-03T13:13:39.612411-04:00.hyperlinks.json) |
@@ -84,7 +94,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 4 accessibility trees with the Internet Archive.
+The archiving routine has saved 5 accessibility trees with the Internet Archive.
 
 
 
@@ -92,6 +102,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 5 at 12:43 AM](https://archive.org/download/thegrio-2022/thegrio-2022-08-05T00:43:43.174940-04:00.accessibility.json) |
 | [August 4 at 1:05 PM](https://archive.org/download/thegrio-2022/thegrio-2022-08-04T13:04:59.099091-04:00.accessibility.json) |
 | [August 4 at 12:38 AM](https://archive.org/download/thegrio-2022/thegrio-2022-08-04T00:38:38.143384-04:00.accessibility.json) |
 | [August 3 at 1:13 PM](https://archive.org/download/thegrio-2022/thegrio-2022-08-03T13:13:39.612411-04:00.accessibility.json) |
@@ -101,7 +112,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 4 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 5 Lighthouse audits with the Internet Archive.
 
 
 
@@ -109,6 +120,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 5 at 12:43 AM](https://archive.org/download/thegrio-2022/thegrio-2022-08-05T00:43:43.174940-04:00.lighthouse.json) |
 | [August 4 at 1:05 PM](https://archive.org/download/thegrio-2022/thegrio-2022-08-04T13:04:59.099091-04:00.lighthouse.json) |
 | [August 4 at 12:38 AM](https://archive.org/download/thegrio-2022/thegrio-2022-08-04T00:38:38.143384-04:00.lighthouse.json) |
 | [August 3 at 1:13 PM](https://archive.org/download/thegrio-2022/thegrio-2022-08-03T13:13:39.612411-04:00.lighthouse.json) |

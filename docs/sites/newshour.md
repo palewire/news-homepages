@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 173 screenshots with the Internet Archive.
+The archiving routine has saved 174 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 173 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newshour-2022/newshour-2022-08-04T21:45:27.053152-04:00.jpg">
+  <img src="https://archive.org/download/newshour-2022/newshour-2022-08-04T21:45:27.053152-04:00.jpg"
+     alt="PBS News Hour at 2022-08-04 21:45:29-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newshour-2022/newshour-2022-08-04T21:45:27.053152-04:00.jpg">August 4 at 9:45 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newshour-2022/newshour-2022-08-04T17:22:25.990251-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/newshour-2022/newshour-2022-08-02T08:25:42.652682-04:00.jpg">August 2 at 8:25 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/newshour-2022/newshour-2022-08-01T20:40:09.859900-04:00.jpg">
-  <img src="https://archive.org/download/newshour-2022/newshour-2022-08-01T20:40:09.859900-04:00.jpg"
-     alt="PBS News Hour at 2022-08-01 20:40:11-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newshour-2022/newshour-2022-08-01T20:40:09.859900-04:00.jpg">August 1 at 8:40 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 176 hyperlink lists with the Internet Archive.
+The archiving routine has saved 177 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 4 at 9:45 PM](https://archive.org/download/newshour-2022/newshour-2022-08-04T21:45:27.053152-04:00.hyperlinks.json) |
 | [August 4 at 5:22 PM](https://archive.org/download/newshour-2022/newshour-2022-08-04T17:22:25.990251-04:00.hyperlinks.json) |
 | [August 4 at 9:46 AM](https://archive.org/download/newshour-2022/newshour-2022-08-04T09:46:26.744103-04:00.hyperlinks.json) |
 | [August 4 at 8:37 AM](https://archive.org/download/newshour-2022/newshour-2022-08-04T08:37:11.619553-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 3 at 8:53 AM](https://archive.org/download/newshour-2022/newshour-2022-08-03T08:53:06.769953-04:00.hyperlinks.json) |
 | [August 2 at 8:39 PM](https://archive.org/download/newshour-2022/newshour-2022-08-02T20:39:33.365338-04:00.hyperlinks.json) |
 | [August 2 at 5:13 PM](https://archive.org/download/newshour-2022/newshour-2022-08-02T17:13:20.775992-04:00.hyperlinks.json) |
-| [August 2 at 9:33 AM](https://archive.org/download/newshour-2022/newshour-2022-08-02T09:32:57.062334-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 176 accessibility trees with the Internet Archive.
+The archiving routine has saved 177 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 4 at 9:45 PM](https://archive.org/download/newshour-2022/newshour-2022-08-04T21:45:27.053152-04:00.accessibility.json) |
 | [August 4 at 5:22 PM](https://archive.org/download/newshour-2022/newshour-2022-08-04T17:22:25.990251-04:00.accessibility.json) |
 | [August 4 at 9:46 AM](https://archive.org/download/newshour-2022/newshour-2022-08-04T09:46:26.744103-04:00.accessibility.json) |
 | [August 4 at 8:37 AM](https://archive.org/download/newshour-2022/newshour-2022-08-04T08:37:11.619553-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 3 at 8:53 AM](https://archive.org/download/newshour-2022/newshour-2022-08-03T08:53:06.769953-04:00.accessibility.json) |
 | [August 2 at 8:39 PM](https://archive.org/download/newshour-2022/newshour-2022-08-02T20:39:33.365338-04:00.accessibility.json) |
 | [August 2 at 5:13 PM](https://archive.org/download/newshour-2022/newshour-2022-08-02T17:13:20.775992-04:00.accessibility.json) |
-| [August 2 at 9:33 AM](https://archive.org/download/newshour-2022/newshour-2022-08-02T09:32:57.062334-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 49 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 50 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 4 at 9:45 PM](https://archive.org/download/newshour-2022/newshour-2022-08-04T21:45:27.053152-04:00.lighthouse.json) |
 | [August 4 at 5:22 PM](https://archive.org/download/newshour-2022/newshour-2022-08-04T17:22:25.990251-04:00.lighthouse.json) |
 | [August 4 at 9:46 AM](https://archive.org/download/newshour-2022/newshour-2022-08-04T09:46:26.744103-04:00.lighthouse.json) |
 | [August 4 at 8:37 AM](https://archive.org/download/newshour-2022/newshour-2022-08-04T08:37:11.619553-04:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 3 at 8:53 AM](https://archive.org/download/newshour-2022/newshour-2022-08-03T08:53:06.769953-04:00.lighthouse.json) |
 | [August 2 at 8:39 PM](https://archive.org/download/newshour-2022/newshour-2022-08-02T20:39:33.365338-04:00.lighthouse.json) |
 | [August 2 at 5:13 PM](https://archive.org/download/newshour-2022/newshour-2022-08-02T17:13:20.775992-04:00.lighthouse.json) |
-| [August 2 at 9:33 AM](https://archive.org/download/newshour-2022/newshour-2022-08-02T09:32:57.062334-04:00.lighthouse.json) |
 
 
 

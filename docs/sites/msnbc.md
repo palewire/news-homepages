@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 532 screenshots with the Internet Archive.
+The archiving routine has saved 533 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 532 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/msnbc-2022/msnbc-2022-08-04T23:24:53.935973-04:00.jpg">
+  <img src="https://archive.org/download/msnbc-2022/msnbc-2022-08-04T23:24:53.935973-04:00.jpg"
+     alt="MSNBC at 2022-08-04 23:24:55-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/msnbc-2022/msnbc-2022-08-04T23:24:53.935973-04:00.jpg">August 4 at 11:24 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/msnbc-2022/msnbc-2022-08-04T17:23:32.630399-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/msnbc-2022/msnbc-2022-08-02T17:13:27.354941-04:00.jpg">August 2 at 5:13 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/msnbc-2022/msnbc-2022-08-02T14:39:18.671893-04:00.jpg">
-  <img src="https://archive.org/download/msnbc-2022/msnbc-2022-08-02T14:39:18.671893-04:00.jpg"
-     alt="MSNBC at 2022-08-02 14:39:21-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/msnbc-2022/msnbc-2022-08-02T14:39:18.671893-04:00.jpg">August 2 at 2:39 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 502 hyperlink lists with the Internet Archive.
+The archiving routine has saved 503 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 4 at 11:24 PM](https://archive.org/download/msnbc-2022/msnbc-2022-08-04T23:24:53.935973-04:00.hyperlinks.json) |
 | [August 4 at 5:23 PM](https://archive.org/download/msnbc-2022/msnbc-2022-08-04T17:23:32.630399-04:00.hyperlinks.json) |
 | [August 4 at 2:46 PM](https://archive.org/download/msnbc-2022/msnbc-2022-08-04T14:46:17.655311-04:00.hyperlinks.json) |
 | [August 4 at 11:29 AM](https://archive.org/download/msnbc-2022/msnbc-2022-08-04T11:29:48.854541-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 3 at 2:41 PM](https://archive.org/download/msnbc-2022/msnbc-2022-08-03T14:41:30.827906-04:00.hyperlinks.json) |
 | [August 3 at 1:03 PM](https://archive.org/download/msnbc-2022/msnbc-2022-08-03T13:03:11.951604-04:00.hyperlinks.json) |
 | [August 3 at 10:18 AM](https://archive.org/download/msnbc-2022/msnbc-2022-08-03T10:17:55.995417-04:00.hyperlinks.json) |
-| [August 3 at 12:37 AM](https://archive.org/download/msnbc-2022/msnbc-2022-08-03T00:37:03.109079-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 499 accessibility trees with the Internet Archive.
+The archiving routine has saved 500 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 4 at 11:24 PM](https://archive.org/download/msnbc-2022/msnbc-2022-08-04T23:24:53.935973-04:00.accessibility.json) |
 | [August 4 at 5:23 PM](https://archive.org/download/msnbc-2022/msnbc-2022-08-04T17:23:32.630399-04:00.accessibility.json) |
 | [August 4 at 2:46 PM](https://archive.org/download/msnbc-2022/msnbc-2022-08-04T14:46:17.655311-04:00.accessibility.json) |
 | [August 4 at 11:29 AM](https://archive.org/download/msnbc-2022/msnbc-2022-08-04T11:29:48.854541-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 3 at 2:41 PM](https://archive.org/download/msnbc-2022/msnbc-2022-08-03T14:41:30.827906-04:00.accessibility.json) |
 | [August 3 at 1:03 PM](https://archive.org/download/msnbc-2022/msnbc-2022-08-03T13:03:11.951604-04:00.accessibility.json) |
 | [August 3 at 10:18 AM](https://archive.org/download/msnbc-2022/msnbc-2022-08-03T10:17:55.995417-04:00.accessibility.json) |
-| [August 3 at 12:37 AM](https://archive.org/download/msnbc-2022/msnbc-2022-08-03T00:37:03.109079-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 62 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 63 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 4 at 11:25 PM](https://archive.org/download/msnbc-2022/msnbc-2022-08-04T23:24:53.935973-04:00.lighthouse.json) |
 | [August 4 at 5:23 PM](https://archive.org/download/msnbc-2022/msnbc-2022-08-04T17:23:32.630399-04:00.lighthouse.json) |
 | [August 4 at 2:46 PM](https://archive.org/download/msnbc-2022/msnbc-2022-08-04T14:46:17.655311-04:00.lighthouse.json) |
 | [August 4 at 11:29 AM](https://archive.org/download/msnbc-2022/msnbc-2022-08-04T11:29:48.854541-04:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 3 at 2:41 PM](https://archive.org/download/msnbc-2022/msnbc-2022-08-03T14:41:30.827906-04:00.lighthouse.json) |
 | [August 3 at 1:03 PM](https://archive.org/download/msnbc-2022/msnbc-2022-08-03T13:03:11.951604-04:00.lighthouse.json) |
 | [August 3 at 10:18 AM](https://archive.org/download/msnbc-2022/msnbc-2022-08-03T10:17:55.995417-04:00.lighthouse.json) |
-| [August 3 at 12:37 AM](https://archive.org/download/msnbc-2022/msnbc-2022-08-03T00:37:03.109079-04:00.lighthouse.json) |
 
 
 
