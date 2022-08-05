@@ -1,5 +1,5 @@
 {
-  "created": 1659649021,
+  "created": 1659678082,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/4/items/lajornada-2022",
@@ -19636,31 +19636,83 @@
       "sha1": "7ddcbeecc8d4ebaaf08e626fc8f80704cdab17e6"
     },
     {
+      "name": "lajornada-2022-08-04T20:42:01.163266-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659663724",
+      "size": "4475",
+      "md5": "0a5e1b79107f55b80091a7da9f4a48fd",
+      "crc32": "f19b6688",
+      "sha1": "d9832365b51183880232ec11db7891ad0edf5b33",
+      "format": "JSON"
+    },
+    {
+      "name": "lajornada-2022-08-04T20:42:01.163266-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659663727",
+      "size": "8557",
+      "md5": "48d4608146f76c0321c29bd068615321",
+      "crc32": "973731a9",
+      "sha1": "1a59c86288818b471924a7b3a023bd564d313664",
+      "format": "JSON"
+    },
+    {
+      "name": "lajornada-2022-08-04T20:42:01.163266-05:00.jpg",
+      "source": "original",
+      "mtime": "1659663723",
+      "size": "161387",
+      "md5": "0e6d9bf2784839c59d1e285561050731",
+      "crc32": "f02e7a65",
+      "sha1": "34d23e490ba7d6eafc063082838d4cc96e94e094",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lajornada-2022-08-04T20:42:01.163266-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659663729",
+      "size": "1494",
+      "md5": "976daf0320027d1993db9834f7b3e902",
+      "crc32": "f2dc61ea",
+      "sha1": "f55818fe677f5808d431b659de2e3b298b078461",
+      "format": "JSON"
+    },
+    {
+      "name": "lajornada-2022-08-04T20:42:01.163266-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lajornada-2022-08-04T20:42:01.163266-05:00.jpg",
+      "mtime": "1659666557",
+      "size": "8541",
+      "md5": "b3087ea8cb648c1ec447bef9ba4e7b51",
+      "crc32": "64b262d0",
+      "sha1": "d30c0e55bf0bfd11e81299f7b894a8012f1f9ec8"
+    },
+    {
       "name": "lajornada-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fcfda12af459c7a0958d88c875bc818b8afc874e",
-      "mtime": "1659621599",
-      "size": "398567",
-      "md5": "b68285d36728b6729946b3c5b0cdad9a",
-      "crc32": "bb6024ad",
-      "sha1": "90fcb3109a0d05c958bae71c29c4fc5dad054bcc",
+      "btih": "a435d5ababac8b8293fae642911d575b9199035d",
+      "mtime": "1659666592",
+      "size": "399609",
+      "md5": "211cccf962c0abdecc2862fc1b89442b",
+      "crc32": "4cb31cc0",
+      "sha1": "29d10e1ee9840eadb649a3bb40a0c9f65348b3b6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lajornada-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "686a91f4f69d900cde8a681471d99c0b",
+      "md5": "219007ab4b7fac46b9e1c654ff144cf4",
       "summation": "md5"
     },
     {
       "name": "lajornada-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659616399",
-      "size": "2162688",
-      "md5": "dfbca3d647078811f9c6b1afc3dcf3a3",
-      "crc32": "b6b9989b",
-      "sha1": "7276dcc1805b107772b8f6acb29d423b0f3c5534",
+      "mtime": "1659663733",
+      "size": "2170880",
+      "md5": "86486e85c5a086deaeab6dba2c39204b",
+      "crc32": "20f3413b",
+      "sha1": "60139b291938179a3d5f49dc08b09dfb36a32aa8",
       "format": "Metadata"
     },
     {
@@ -19674,9 +19726,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1875,
-  "item_last_updated": 1659621599,
-  "item_size": 200307774,
+  "files_count": 1880,
+  "item_last_updated": 1659666592,
+  "item_size": 200501462,
   "metadata": {
     "identifier": "lajornada-2022",
     "collection": [
@@ -19693,10 +19745,10 @@
     "publicdate": "2022-04-15 20:40:39",
     "addeddate": "2022-04-15 20:40:39"
   },
-  "server": "ia601408.us.archive.org",
-  "uniq": 938910913,
+  "server": "ia801408.us.archive.org",
+  "uniq": 1588884592,
   "workable_servers": [
-    "ia601408.us.archive.org",
-    "ia801408.us.archive.org"
+    "ia801408.us.archive.org",
+    "ia601408.us.archive.org"
   ]
 }

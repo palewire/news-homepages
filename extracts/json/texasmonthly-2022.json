@@ -1,5 +1,5 @@
 {
-  "created": 1659624670,
+  "created": 1659683220,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/7/items/texasmonthly-2022",
@@ -2986,31 +2986,83 @@
       "sha1": "b129a59708fe4060c4d9845aecfcf3bda7c2586f"
     },
     {
+      "name": "texasmonthly-2022-08-04T20:58:47.174117-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659664730",
+      "size": "56474",
+      "md5": "d279f5ec5a4dff560f944e89e70068e6",
+      "crc32": "91188c24",
+      "sha1": "e9707c8a345f4926f9467fe4d932443593bbe214",
+      "format": "JSON"
+    },
+    {
+      "name": "texasmonthly-2022-08-04T20:58:47.174117-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659664732",
+      "size": "61119",
+      "md5": "8783a4761f32c70536dc1e479dc70c5c",
+      "crc32": "4ee2b32b",
+      "sha1": "4913481830e16f5ea88bfd7d530286fbda928a24",
+      "format": "JSON"
+    },
+    {
+      "name": "texasmonthly-2022-08-04T20:58:47.174117-05:00.jpg",
+      "source": "original",
+      "mtime": "1659664728",
+      "size": "291667",
+      "md5": "2f560a33c38c6bde8bd8e776b0bc7056",
+      "crc32": "afe66e5d",
+      "sha1": "0b3ffe7cb20dc2221b70d2144936b19d8c856a99",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "texasmonthly-2022-08-04T20:58:47.174117-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659664733",
+      "size": "1510",
+      "md5": "14be9ed991139ffcdaed90b0b1c34108",
+      "crc32": "04623b42",
+      "sha1": "0cc2266b07ca9aa0ccb5f79347ee187be0643463",
+      "format": "JSON"
+    },
+    {
+      "name": "texasmonthly-2022-08-04T20:58:47.174117-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "texasmonthly-2022-08-04T20:58:47.174117-05:00.jpg",
+      "mtime": "1659667262",
+      "size": "10256",
+      "md5": "510f531fd26ae238b0d45613c48f06bd",
+      "crc32": "ae2713d3",
+      "sha1": "f2d80eae9e6e6c453a3899f0bd4159752421e951"
+    },
+    {
       "name": "texasmonthly-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a3e277fb397b2661103b75caf2e482a462946608",
-      "mtime": "1659624660",
-      "size": "62835",
-      "md5": "20279e95ecbb01ca2f4e48e6e64d9398",
-      "crc32": "60beff48",
-      "sha1": "3ddeb55f9f352b5fcb668445235e7de1eb7cff2d",
+      "btih": "3bdcf1f1f104dbc35bf076dce7a346a23376f862",
+      "mtime": "1659667266",
+      "size": "63915",
+      "md5": "6a027b6b70a590e6ea7baa3492324345",
+      "crc32": "569c628a",
+      "sha1": "654db720cf02c0632edb2fca14a26e9a54a4328c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "texasmonthly-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d410cfda7efef1c62b92b6d190453d3c",
+      "md5": "0fc5c91d18f4761fe8a3d4aa9b83e6a7",
       "summation": "md5"
     },
     {
       "name": "texasmonthly-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659621273",
-      "size": "356352",
-      "md5": "5a1c7ce834c76b7ba6eec1736be9d104",
-      "crc32": "b808bf22",
-      "sha1": "ca419f4803c54da5438e1d251a593d049f182cfa",
+      "mtime": "1659664739",
+      "size": "364544",
+      "md5": "e7b29666b166cb0ebd318d226da7e6fc",
+      "crc32": "0255b076",
+      "sha1": "4ee544128d3b3c3644dd8a291983fbf968390089",
       "format": "Metadata"
     },
     {
@@ -3024,9 +3076,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 289,
-  "item_last_updated": 1659624660,
-  "item_size": 28310553,
+  "files_count": 294,
+  "item_last_updated": 1659667266,
+  "item_size": 28740851,
   "metadata": {
     "identifier": "texasmonthly-2022",
     "collection": [
@@ -3043,10 +3095,10 @@
     "publicdate": "2022-07-04 21:45:38",
     "addeddate": "2022-07-04 21:45:38"
   },
-  "server": "ia902509.us.archive.org",
-  "uniq": 60976439,
+  "server": "ia802509.us.archive.org",
+  "uniq": 1004589308,
   "workable_servers": [
-    "ia902509.us.archive.org",
-    "ia802509.us.archive.org"
+    "ia802509.us.archive.org",
+    "ia902509.us.archive.org"
   ]
 }

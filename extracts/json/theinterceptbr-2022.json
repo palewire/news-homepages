@@ -1,5 +1,5 @@
 {
-  "created": 1659661068,
+  "created": 1659667248,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/3/items/theinterceptbr-2022",
@@ -328,31 +328,83 @@
       "sha1": "78fcff62c333b234bbe3cd290487e2fb681f691d"
     },
     {
+      "name": "theinterceptbr-2022-08-04T22:58:27.631020-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659664711",
+      "size": "5458",
+      "md5": "7dc9d8a197b04a299a6b560009d878b7",
+      "crc32": "75551e4e",
+      "sha1": "f7f1af7d4ceeac75ebc4ef486dc483f99f3b1765",
+      "format": "JSON"
+    },
+    {
+      "name": "theinterceptbr-2022-08-04T22:58:27.631020-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659664712",
+      "size": "4556",
+      "md5": "7bc340e63de86681c4e411a3533a908e",
+      "crc32": "7694db57",
+      "sha1": "67ee504073b47a35d0813e0656f26d105cce8e6c",
+      "format": "JSON"
+    },
+    {
+      "name": "theinterceptbr-2022-08-04T22:58:27.631020-03:00.jpg",
+      "source": "original",
+      "mtime": "1659664709",
+      "size": "201814",
+      "md5": "d690e815b069a1e0b4a3fcab4de00e1d",
+      "crc32": "0953aee5",
+      "sha1": "b91af591569b7845b260be231a325ad4a0463e0b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theinterceptbr-2022-08-04T22:58:27.631020-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659664714",
+      "size": "1540",
+      "md5": "7519ffd67959ef1a3d2403c7b01e5383",
+      "crc32": "93326a98",
+      "sha1": "347e00228ce9783c8dac054fe87765d196fae8b9",
+      "format": "JSON"
+    },
+    {
+      "name": "theinterceptbr-2022-08-04T22:58:27.631020-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theinterceptbr-2022-08-04T22:58:27.631020-03:00.jpg",
+      "mtime": "1659667164",
+      "size": "9120",
+      "md5": "4e36060d3243e8e0a9b8aaa5f4549d85",
+      "crc32": "17d1a8a7",
+      "sha1": "e1e5f959e149e131500bd872f5f8ec71204113fd"
+    },
+    {
       "name": "theinterceptbr-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5373ecea961cd8412dc25ba38f28cd06e468c4e4",
-      "mtime": "1659651574",
-      "size": "8139",
-      "md5": "a4c1d74af5db844aa67406af9b497b6b",
-      "crc32": "63301708",
-      "sha1": "59729c810848e604954b4b2bb6ca8cb165ed9812",
+      "btih": "f94caf02dec5f7255e1a3cea8d3f02ba214ca5ed",
+      "mtime": "1659667176",
+      "size": "9206",
+      "md5": "2d7431a910fde65b7a7dbb093396ea4e",
+      "crc32": "8aec9867",
+      "sha1": "304a381fcc4b31fff7557b7c79d86096a2b9b473",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theinterceptbr-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "684bd377d31c235155dae257680e9c8d",
+      "md5": "f58e48839649d12e0027c464a0467738",
       "summation": "md5"
     },
     {
       "name": "theinterceptbr-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659648023",
-      "size": "53248",
-      "md5": "cbd569fd87857dfdb42a1b3ece0fe8ca",
-      "crc32": "ad1e5198",
-      "sha1": "cefd3679656696a59cc0e7973517dc00e2cd1566",
+      "mtime": "1659664719",
+      "size": "61440",
+      "md5": "a5996128281f272e7ed2f8b53eda284f",
+      "crc32": "aab1284b",
+      "sha1": "1e26b450b41afb940492784d2d5eed68723fac44",
       "format": "Metadata"
     },
     {
@@ -366,9 +418,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 35,
-  "item_last_updated": 1659651574,
-  "item_size": 1771996,
+  "files_count": 40,
+  "item_last_updated": 1659667176,
+  "item_size": 2003743,
   "metadata": {
     "identifier": "theinterceptbr-2022",
     "collection": [
@@ -386,48 +438,7 @@
     "addeddate": "2022-08-03 01:57:11"
   },
   "server": "ia801505.us.archive.org",
-  "theinterceptbr-2022": [
-    {
-      "url": "https://theintercept.com/brasil/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/theintercept_com-_brasil_-2022_08_04_21_06_09.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/theintercept_com-_brasil_-2022_08_04_21_06_09.report.json",
-      "summary": {
-        "performance": 0.41,
-        "accessibility": 0.77,
-        "best-practices": 0.92,
-        "seo": 0.93,
-        "pwa": 0.6
-      }
-    },
-    {
-      "url": "https://theintercept.com/brasil/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/theintercept_com-_brasil_-2022_08_04_21_06_21.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/theintercept_com-_brasil_-2022_08_04_21_06_21.report.json",
-      "summary": {
-        "performance": 0.45,
-        "accessibility": 0.77,
-        "best-practices": 0.92,
-        "seo": 0.93,
-        "pwa": 0.6
-      }
-    },
-    {
-      "url": "https://theintercept.com/brasil/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/theintercept_com-_brasil_-2022_08_04_21_06_33.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/theintercept_com-_brasil_-2022_08_04_21_06_33.report.json",
-      "summary": {
-        "performance": 0.45,
-        "accessibility": 0.77,
-        "best-practices": 0.92,
-        "seo": 0.93,
-        "pwa": 0.6
-      }
-    }
-  ],
-  "uniq": 767403525,
+  "uniq": 1602182189,
   "workable_servers": [
     "ia801505.us.archive.org",
     "ia601505.us.archive.org"

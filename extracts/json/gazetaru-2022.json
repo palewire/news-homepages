@@ -1,5 +1,5 @@
 {
-  "created": 1659630056,
+  "created": 1659679751,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/15/items/gazetaru-2022",
@@ -2812,31 +2812,145 @@
       "sha1": "ed4b918bdd62e49ed5a0f3fe63490119531b5b53"
     },
     {
+      "name": "gazetaru-2022-08-05T06:16:45.797140+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659669409",
+      "size": "68529",
+      "md5": "1d501b58b9d39d93eda10cfd6c95ccac",
+      "crc32": "c4bf42eb",
+      "sha1": "1a71ad413c3130ca35e51cdd6bccbcdae8c73f5f",
+      "format": "JSON"
+    },
+    {
+      "name": "gazetaru-2022-08-05T06:16:45.797140+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659669410",
+      "size": "61272",
+      "md5": "bb0c81442a86cee936a4e291e3bae573",
+      "crc32": "59cf0049",
+      "sha1": "943948f6f5dd820af6d1c739a33f4ef6dd7db704",
+      "format": "JSON"
+    },
+    {
+      "name": "gazetaru-2022-08-05T06:16:45.797140+03:00.jpg",
+      "source": "original",
+      "mtime": "1659669407",
+      "size": "234441",
+      "md5": "b47b118b96ff6a996eec5b8cff42e78c",
+      "crc32": "2085c2f7",
+      "sha1": "c23ab0e3c2473734d7b873d09a72962799acf433",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gazetaru-2022-08-05T06:16:45.797140+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659669412",
+      "size": "1423",
+      "md5": "2b808bf234d769c4bf611b81153f63f7",
+      "crc32": "c7b18e8a",
+      "sha1": "e2710c31f53589376dd22b53742fa3857af76d29",
+      "format": "JSON"
+    },
+    {
+      "name": "gazetaru-2022-08-05T06:16:45.797140+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gazetaru-2022-08-05T06:16:45.797140+03:00.jpg",
+      "mtime": "1659672197",
+      "size": "8762",
+      "md5": "7e43970990cc4e3fe516ebc7306b2de9",
+      "crc32": "09a3a0ff",
+      "sha1": "2fe9b158351a02ce57816f8c18b487e3d8e96ed6"
+    },
+    {
+      "name": "gazetaru-2022-08-05T08:22:32.650633+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659676955",
+      "size": "69523",
+      "md5": "dcca0dbe6c75b9e74c3eef408dcd026b",
+      "crc32": "4c660b3f",
+      "sha1": "65431cf0bf661c3b486a832e3fc7e4cad57944fa",
+      "format": "JSON"
+    },
+    {
+      "name": "gazetaru-2022-08-05T08:22:32.650633+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659676957",
+      "size": "62407",
+      "md5": "994576d0f618b5b500c044c7e9aa9aff",
+      "crc32": "3b765ffd",
+      "sha1": "58e4144b8e081f420c604a528cf061bfe98d1851",
+      "format": "JSON"
+    },
+    {
+      "name": "gazetaru-2022-08-05T08:22:32.650633+03:00.jpg",
+      "source": "original",
+      "mtime": "1659676954",
+      "size": "231288",
+      "md5": "c66bcf6af74d1f423dc2a774e55ee06f",
+      "crc32": "0f2817c4",
+      "sha1": "4cd4c02e7f3e2c295efcc88d6ff87294cf6c5ff3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gazetaru-2022-08-05T08:22:32.650633+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659676958",
+      "size": "1423",
+      "md5": "3e2846aec45195be4e46c5365fc34a67",
+      "crc32": "c4e13d19",
+      "sha1": "46c416888133c2a432bf7e92178108bb673651ea",
+      "format": "JSON"
+    },
+    {
+      "name": "gazetaru-2022-08-05T08:22:32.650633+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1659676960",
+      "size": "67930",
+      "md5": "19641c2492b7371efa0b8a5282ef8d4d",
+      "crc32": "3c94a9d2",
+      "sha1": "6ebda3727a2d8f8b90ac99e1aeb367a339cd8077",
+      "format": "JSON"
+    },
+    {
+      "name": "gazetaru-2022-08-05T08:22:32.650633+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gazetaru-2022-08-05T08:22:32.650633+03:00.jpg",
+      "mtime": "1659679425",
+      "size": "8735",
+      "md5": "66bd5cf29ec3cf7c91d5b568f36d867a",
+      "crc32": "c73780ae",
+      "sha1": "934b3c334d8a259d4fde362f206ed370e54e271f"
+    },
+    {
       "name": "gazetaru-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8851a1577232c449c9e5744647bbfb942e1c3057",
-      "mtime": "1659630033",
-      "size": "58177",
-      "md5": "128555853a814752fb99426a84aa3862",
-      "crc32": "72880272",
-      "sha1": "bdcb10b2484591fc7526b7f1922610dfbb63e898",
+      "btih": "e04821908de723d1b1c7838749bb0ba492afd1a7",
+      "mtime": "1659679431",
+      "size": "60483",
+      "md5": "1adb3533cbc676f553212e09cfcbaeb6",
+      "crc32": "a4c9963f",
+      "sha1": "8e425b1d9aea6b9424d815cdda5081be399c8f85",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gazetaru-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2db534a248a6f8aae9ee0f03df7b8ba8",
+      "md5": "b5809f1331bcb98e486dd18cc519905e",
       "summation": "md5"
     },
     {
       "name": "gazetaru-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659626567",
-      "size": "339968",
-      "md5": "def2c6afcb5d8815772dbebccac65b0a",
-      "crc32": "b3848c80",
-      "sha1": "e4b97b1b996fb69215f025a7d67f47c101b3ba55",
+      "mtime": "1659676964",
+      "size": "356352",
+      "md5": "ba08cd8bb27377f7d747b24c186de0bf",
+      "crc32": "67ceeaec",
+      "sha1": "3852fd2c9fe13c43fc7b87dd4546e085d4d44046",
       "format": "Metadata"
     },
     {
@@ -2850,9 +2964,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 273,
-  "item_last_updated": 1659630033,
-  "item_size": 23721044,
+  "files_count": 284,
+  "item_last_updated": 1659679431,
+  "item_size": 24555467,
   "metadata": {
     "identifier": "gazetaru-2022",
     "collection": [
@@ -2870,7 +2984,7 @@
     "addeddate": "2022-07-16 20:49:01"
   },
   "server": "ia801400.us.archive.org",
-  "uniq": 1628030348,
+  "uniq": 495646415,
   "workable_servers": [
     "ia801400.us.archive.org",
     "ia601400.us.archive.org"

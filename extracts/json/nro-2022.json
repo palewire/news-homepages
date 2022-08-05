@@ -1,5 +1,5 @@
 {
-  "created": 1659660634,
+  "created": 1659681620,
   "d1": "ia601002.us.archive.org",
   "d2": "ia801002.us.archive.org",
   "dir": "/8/items/nro-2022",
@@ -9968,31 +9968,83 @@
       "sha1": "35e7c394c6b564f8448666481804776bed05ae3a"
     },
     {
+      "name": "nro-2022-08-04T21:48:18.324174-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659664102",
+      "size": "60362",
+      "md5": "971e010e1b743e9c9b8f219c9c97806f",
+      "crc32": "f271b561",
+      "sha1": "f37e7171d23e276d7a3181a4ebb5f4dcb265bad2",
+      "format": "JSON"
+    },
+    {
+      "name": "nro-2022-08-04T21:48:18.324174-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659664103",
+      "size": "105990",
+      "md5": "d51bbd685e6520cfbd7b4e73092c596d",
+      "crc32": "eb31fc17",
+      "sha1": "84db8c023bb84feaa074b3c691f2d750d87c48aa",
+      "format": "JSON"
+    },
+    {
+      "name": "nro-2022-08-04T21:48:18.324174-04:00.jpg",
+      "source": "original",
+      "mtime": "1659664100",
+      "size": "290660",
+      "md5": "c4eb07f80f724a77bbca28e8ab2d361f",
+      "crc32": "5718280b",
+      "sha1": "c2b17103b63083c0d34a123719ddc16aed04c1de",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nro-2022-08-04T21:48:18.324174-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659664105",
+      "size": "1527",
+      "md5": "e03a592a6d0b03045bc4fee9bbd6fea6",
+      "crc32": "3ebeb478",
+      "sha1": "20b39072b28440cb4d612ef9d37fddb83d4b921a",
+      "format": "JSON"
+    },
+    {
+      "name": "nro-2022-08-04T21:48:18.324174-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nro-2022-08-04T21:48:18.324174-04:00.jpg",
+      "mtime": "1659666546",
+      "size": "9658",
+      "md5": "6002266597dd70b8e00a636ca4142263",
+      "crc32": "fdb643ba",
+      "sha1": "695d5efa3c89f9f5240cd318bd1837f60f1af2ab"
+    },
+    {
       "name": "nro-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c5c5b4a0ebcfe90e6e1c179754f98dc1b7f406ee",
-      "mtime": "1659644408",
-      "size": "197519",
-      "md5": "51977b983eaaf71f8c144dd48db18a1d",
-      "crc32": "96e8e41f",
-      "sha1": "6e01d84e642a4ee01e6e339a4cd31accc96d2abd",
+      "btih": "44a925166fe7c59da66bf663c4ff090278ae4b08",
+      "mtime": "1659666568",
+      "size": "198554",
+      "md5": "c52d9ef2d5e6f665429bc7740251210e",
+      "crc32": "033c8055",
+      "sha1": "5feb24d72544d20a6ff245e4b21aaa98a212d5b9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nro-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5075fdd268a35589243809a628de9047",
+      "md5": "a419f5d44e16cc3b7db6a2027e6789d5",
       "summation": "md5"
     },
     {
       "name": "nro-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659638721",
-      "size": "1093632",
-      "md5": "957dadebf30de14025e892bfc98fe46a",
-      "crc32": "7f534d41",
-      "sha1": "95f581bbcedd655b27b99f92525b0744ae467227",
+      "mtime": "1659664123",
+      "size": "1097728",
+      "md5": "5a74e9bac4301285ebf12723ed5afd9a",
+      "crc32": "7422df18",
+      "sha1": "7f16788fbd5797d8282e575b7887d297cf162244",
       "format": "Metadata"
     },
     {
@@ -10006,9 +10058,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 953,
-  "item_last_updated": 1659644408,
-  "item_size": 105326021,
+  "files_count": 958,
+  "item_last_updated": 1659666568,
+  "item_size": 105799349,
   "metadata": {
     "identifier": "nro-2022",
     "collection": [
@@ -10025,51 +10077,10 @@
     "publicdate": "2022-03-25 18:26:53",
     "addeddate": "2022-03-25 18:26:53"
   },
-  "nro-2022": [
-    {
-      "url": "https://www.nationalreview.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nationalreview_com-_-2022_08_04_18_23_48.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nationalreview_com-_-2022_08_04_18_23_48.report.json",
-      "summary": {
-        "performance": 0.17,
-        "accessibility": 0.68,
-        "best-practices": 0.92,
-        "seo": 0.9,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.nationalreview.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nationalreview_com-_-2022_08_04_18_27_28.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nationalreview_com-_-2022_08_04_18_27_28.report.json",
-      "summary": {
-        "performance": 0.16,
-        "accessibility": 0.66,
-        "best-practices": 0.92,
-        "seo": 0.9,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.nationalreview.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nationalreview_com-_-2022_08_04_18_25_38.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nationalreview_com-_-2022_08_04_18_25_38.report.json",
-      "summary": {
-        "performance": 0.17,
-        "accessibility": 0.68,
-        "best-practices": 0.92,
-        "seo": 0.9,
-        "pwa": 0.4
-      }
-    }
-  ],
-  "server": "ia801002.us.archive.org",
-  "uniq": 287040938,
+  "server": "ia601002.us.archive.org",
+  "uniq": 842831817,
   "workable_servers": [
-    "ia801002.us.archive.org",
-    "ia601002.us.archive.org"
+    "ia601002.us.archive.org",
+    "ia801002.us.archive.org"
   ]
 }

@@ -1,46 +1,5 @@
 {
-  "clarionledger-2022": [
-    {
-      "url": "https://www.clarionledger.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_clarionledger_com-_-2022_08_04_13_24_11.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_clarionledger_com-_-2022_08_04_13_24_11.report.json",
-      "summary": {
-        "performance": 0.4,
-        "accessibility": 0.89,
-        "best-practices": 0.92,
-        "seo": 0.93,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://www.clarionledger.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_clarionledger_com-_-2022_08_04_13_25_31.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_clarionledger_com-_-2022_08_04_13_25_31.report.json",
-      "summary": {
-        "performance": 0.88,
-        "accessibility": 0.89,
-        "best-practices": 0.92,
-        "seo": 0.93,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://www.clarionledger.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_clarionledger_com-_-2022_08_04_13_25_15.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_clarionledger_com-_-2022_08_04_13_25_15.report.json",
-      "summary": {
-        "performance": 0.88,
-        "accessibility": 0.89,
-        "best-practices": 0.92,
-        "seo": 0.93,
-        "pwa": 0.3
-      }
-    }
-  ],
-  "created": 1659660043,
+  "created": 1659667145,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/30/items/clarionledger-2022",
@@ -4455,31 +4414,83 @@
       "sha1": "ff8ed0e10a03df175257cc59ca5830b4ef123fab"
     },
     {
+      "name": "clarionledger-2022-08-04T21:56:21.949882-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659664587",
+      "size": "23054",
+      "md5": "5c8bb1469b1665246afe5b91ff69d8dd",
+      "crc32": "8ec9fd46",
+      "sha1": "bb90d7c698b9e6de7bcc565fbd978bb30e128d90",
+      "format": "JSON"
+    },
+    {
+      "name": "clarionledger-2022-08-04T21:56:21.949882-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659664589",
+      "size": "26444",
+      "md5": "928de89d73034a2dda37518c717282db",
+      "crc32": "ff6e8a63",
+      "sha1": "c27076bda67a17ed0f2586460bf2a8ea3cc361fc",
+      "format": "JSON"
+    },
+    {
+      "name": "clarionledger-2022-08-04T21:56:21.949882-04:00.jpg",
+      "source": "original",
+      "mtime": "1659664585",
+      "size": "252130",
+      "md5": "680ab92923bc5ca000029ef7360399b0",
+      "crc32": "74b649c7",
+      "sha1": "a66cb733940f1f1ecd35bd8f1d0ab7061bcab8b3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "clarionledger-2022-08-04T21:56:21.949882-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659664590",
+      "size": "1522",
+      "md5": "fe98e67d8513143caf009054c050079d",
+      "crc32": "c75f4cb5",
+      "sha1": "37dcbc9c1f5ae880ad750ace6b3bd7e3fc52c739",
+      "format": "JSON"
+    },
+    {
+      "name": "clarionledger-2022-08-04T21:56:21.949882-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "clarionledger-2022-08-04T21:56:21.949882-04:00.jpg",
+      "mtime": "1659667122",
+      "size": "9356",
+      "md5": "fb16fd8c34c87de95e521bfd6dde8f94",
+      "crc32": "b122d510",
+      "sha1": "435a14cc6cfd7a1f24571568f9d95ead5671c1d5"
+    },
+    {
       "name": "clarionledger-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b3762538d80c8bf48c733b1de4736ac8e85a5970",
-      "mtime": "1659624689",
-      "size": "92121",
-      "md5": "aeb5709f7cc6787d31dd5c3ef0d6c92c",
-      "crc32": "65134bd7",
-      "sha1": "e9abddf2137d1fbf2847e0ce9c23882823d0855f",
+      "btih": "8540f978c97a201c97feac18c0e8dcfff3d8ae12",
+      "mtime": "1659667133",
+      "size": "93205",
+      "md5": "d88dc6ccf265b558ff2a3578e72107f4",
+      "crc32": "9b293bca",
+      "sha1": "1e9e0d9410aab75eaf1f3652be0a879d5c6df470",
       "format": "Archive BitTorrent"
     },
     {
       "name": "clarionledger-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "34302272d40451d2b92bcb809e3dd7d9",
+      "md5": "5a0b82f55fc033ec79c2abe050dda8e4",
       "summation": "md5"
     },
     {
       "name": "clarionledger-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659621219",
-      "size": "512000",
-      "md5": "bafc2ffcaf85e352f0e3a211f4d43e8b",
-      "crc32": "b995940d",
-      "sha1": "85748b6ea3c19faeabf3cd3b39381c1c1a126c64",
+      "mtime": "1659664630",
+      "size": "520192",
+      "md5": "cb6a6961c671dbb70ff5129cea37193d",
+      "crc32": "61844c73",
+      "sha1": "c4216d015574a902f52d620ed5919605b26746cf",
       "format": "Metadata"
     },
     {
@@ -4493,9 +4504,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 425,
-  "item_last_updated": 1659624689,
-  "item_size": 32831833,
+  "files_count": 430,
+  "item_last_updated": 1659667133,
+  "item_size": 33153615,
   "metadata": {
     "identifier": "clarionledger-2022",
     "collection": [
@@ -4512,10 +4523,10 @@
     "publicdate": "2022-06-24 22:53:49",
     "addeddate": "2022-06-24 22:53:49"
   },
-  "server": "ia601508.us.archive.org",
-  "uniq": 734639063,
+  "server": "ia801508.us.archive.org",
+  "uniq": 278278246,
   "workable_servers": [
-    "ia601508.us.archive.org",
-    "ia801508.us.archive.org"
+    "ia801508.us.archive.org",
+    "ia601508.us.archive.org"
   ]
 }

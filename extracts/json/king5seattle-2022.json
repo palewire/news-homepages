@@ -1,5 +1,5 @@
 {
-  "created": 1659621380,
+  "created": 1659665996,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/8/items/king5seattle-2022",
@@ -2870,31 +2870,83 @@
       "sha1": "b1531bbe3dae4b692a51544a7c27645d75dffd22"
     },
     {
+      "name": "king5seattle-2022-08-04T18:40:56.088970-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659663660",
+      "size": "6273",
+      "md5": "a1917470ed07c9eeb3e3b70fda311e84",
+      "crc32": "5f6f049b",
+      "sha1": "c0c54ac0bc230e0d5da2d559cbf352f697a6c580",
+      "format": "JSON"
+    },
+    {
+      "name": "king5seattle-2022-08-04T18:40:56.088970-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659663662",
+      "size": "74016",
+      "md5": "312957c64fd60990ac041a809e581928",
+      "crc32": "2404dd44",
+      "sha1": "1fed34b6a1986f88734b5b2a08f843a04a252c2b",
+      "format": "JSON"
+    },
+    {
+      "name": "king5seattle-2022-08-04T18:40:56.088970-07:00.jpg",
+      "source": "original",
+      "mtime": "1659663658",
+      "size": "247545",
+      "md5": "a1915afa1d74bf20cd299ba413d19ef7",
+      "crc32": "deb013b9",
+      "sha1": "aab25ff4f058038b0ae0a263f03467aafb14810f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "king5seattle-2022-08-04T18:40:56.088970-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659663663",
+      "size": "1449",
+      "md5": "56f302018d9cfa5ea35e63509114b614",
+      "crc32": "10318d35",
+      "sha1": "28d29fa72b312cf2ed9220815f76429e5064ce29",
+      "format": "JSON"
+    },
+    {
+      "name": "king5seattle-2022-08-04T18:40:56.088970-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "king5seattle-2022-08-04T18:40:56.088970-07:00.jpg",
+      "mtime": "1659665957",
+      "size": "9394",
+      "md5": "971f52a7b24b8d02c8d300bd30605767",
+      "crc32": "cfb27e06",
+      "sha1": "f45a2e345e2861172a503ac5d2963aa9be5144ff"
+    },
+    {
       "name": "king5seattle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "410547702a3b48be4deec6d5b8beb593b0a44139",
-      "mtime": "1659621350",
-      "size": "60161",
-      "md5": "2b6fbf31ba09a4db3366870aaa77841d",
-      "crc32": "b257a0fd",
-      "sha1": "bcb0c4f8fe28349ce69cd4ea29cc09e393239c8a",
+      "btih": "5a38e73ce6a45c48a048e343eeb23d25662a5834",
+      "mtime": "1659665967",
+      "size": "61239",
+      "md5": "d27d76e18693750186a11d0eecdb8b6d",
+      "crc32": "9156dc1c",
+      "sha1": "c6c90c4dfc8ce889b35df0254b0fd88486d75a19",
       "format": "Archive BitTorrent"
     },
     {
       "name": "king5seattle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "57d3adbbcb9abf886f100c3d40fef3c1",
+      "md5": "d5643ef0189eb6a0357eb93066d69dbe",
       "summation": "md5"
     },
     {
       "name": "king5seattle-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659616285",
-      "size": "348160",
-      "md5": "715c5774acdc5bf288d617d8111f96bf",
-      "crc32": "d80f247e",
-      "sha1": "c4f8abba15efa774ccd86ef42a1487f9c5ab584f",
+      "mtime": "1659663667",
+      "size": "352256",
+      "md5": "faec162ad1d5d30502b345927e94f327",
+      "crc32": "f73750ce",
+      "sha1": "c638839e170abe7fe8dfe0cf8ba2f4e04402b6ef",
       "format": "Metadata"
     },
     {
@@ -2908,9 +2960,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 278,
-  "item_last_updated": 1659621350,
-  "item_size": 21979403,
+  "files_count": 283,
+  "item_last_updated": 1659665967,
+  "item_size": 22323254,
   "metadata": {
     "identifier": "king5seattle-2022",
     "collection": [
@@ -2927,10 +2979,10 @@
     "publicdate": "2022-07-04 21:55:32",
     "addeddate": "2022-07-04 21:55:32"
   },
-  "server": "ia902505.us.archive.org",
-  "uniq": 637329126,
+  "server": "ia802505.us.archive.org",
+  "uniq": 750551703,
   "workable_servers": [
-    "ia902505.us.archive.org",
-    "ia802505.us.archive.org"
+    "ia802505.us.archive.org",
+    "ia902505.us.archive.org"
   ]
 }

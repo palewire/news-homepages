@@ -1,5 +1,5 @@
 {
-  "created": 1659638111,
+  "created": 1659671964,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/2/items/dailyherald-2022",
@@ -1160,31 +1160,83 @@
       "sha1": "158fe505d42bc3ccc78e73abf3c50bdbf9900ce9"
     },
     {
+      "name": "dailyherald-2022-08-04T22:12:04.152574-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659669127",
+      "size": "52589",
+      "md5": "d92681adf24f7d7802d2170427762247",
+      "crc32": "febe1d1e",
+      "sha1": "75b53613d1610fba6d69d3b33e8fc937e1cc7ac9",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyherald-2022-08-04T22:12:04.152574-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659669129",
+      "size": "45756",
+      "md5": "c0e8c84ba2120e964c77d974da5f2f77",
+      "crc32": "6ff65f7a",
+      "sha1": "837b3ffb425121ed5812728c7af4ba0e0c90a153",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyherald-2022-08-04T22:12:04.152574-05:00.jpg",
+      "source": "original",
+      "mtime": "1659669126",
+      "size": "364569",
+      "md5": "7bef8798d40e1efd41bcbf654dc7ad0b",
+      "crc32": "0941db25",
+      "sha1": "5b9557ce109369af45bd6a594c011734aecb393e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailyherald-2022-08-04T22:12:04.152574-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659669130",
+      "size": "1502",
+      "md5": "07698637ea7513acd6289d916b48cdd0",
+      "crc32": "5f9d7b23",
+      "sha1": "2b54a59d9453ee6ee7de0db2d68d165a3bcd88c8",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyherald-2022-08-04T22:12:04.152574-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailyherald-2022-08-04T22:12:04.152574-05:00.jpg",
+      "mtime": "1659671938",
+      "size": "11044",
+      "md5": "65ad0a0de9819caf3516cb188421e97a",
+      "crc32": "fe8e6c40",
+      "sha1": "58f96c4c54bda87e4b04e6868d8782446f40eeb0"
+    },
+    {
       "name": "dailyherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b82c815bf76bad45d3ef03f51c63726bb30d5994",
-      "mtime": "1659638088",
-      "size": "25262",
-      "md5": "725f9d6d08fb828bee5bd14bfdbf2731",
-      "crc32": "4cfa0e8b",
-      "sha1": "519d8492ef8214931fe22837780f405e1e257060",
+      "btih": "235e21c13298131182583f7fb73770b56240b38e",
+      "mtime": "1659671951",
+      "size": "26337",
+      "md5": "c6c9300c9e60ea0c35e95ebef210d0c4",
+      "crc32": "2476a6ba",
+      "sha1": "229be441ba4021ff610e2f7a0c8ebf93d8c2312d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailyherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4ea8084cd198894c789c982c34c98f36",
+      "md5": "61e4d2017bc0ec3a2003c0d0007d5740",
       "summation": "md5"
     },
     {
       "name": "dailyherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659633153",
-      "size": "159744",
-      "md5": "ea0d385f96e8d17bde13e7f2b152ed39",
-      "crc32": "ad824eb5",
-      "sha1": "00ceee6e7fdebd82d720cd5f413040cf54f4be76",
+      "mtime": "1659669136",
+      "size": "163840",
+      "md5": "9d597f2852846cef3477bad12bdeae0a",
+      "crc32": "c4db0fda",
+      "sha1": "2b17ca646afaa2b4b9c7333d411536686d943f11",
       "format": "Metadata"
     },
     {
@@ -1198,9 +1250,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 115,
-  "item_last_updated": 1659638088,
-  "item_size": 10725271,
+  "files_count": 120,
+  "item_last_updated": 1659671951,
+  "item_size": 11205902,
   "metadata": {
     "identifier": "dailyherald-2022",
     "collection": [
@@ -1217,10 +1269,10 @@
     "publicdate": "2022-07-28 20:04:21",
     "addeddate": "2022-07-28 20:04:21"
   },
-  "server": "ia601409.us.archive.org",
-  "uniq": 318490925,
+  "server": "ia801409.us.archive.org",
+  "uniq": 2120778469,
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia801409.us.archive.org",
+    "ia601409.us.archive.org"
   ]
 }

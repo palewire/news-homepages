@@ -1,5 +1,5 @@
 {
-  "created": 1659660571,
+  "created": 1659682989,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/0/items/natgeo-2022",
@@ -2902,31 +2902,83 @@
       "sha1": "70dc00fe84eb4abdd007cba97efb652987c07f11"
     },
     {
+      "name": "natgeo-2022-08-04T21:47:01.684765-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659664025",
+      "size": "38894",
+      "md5": "77e4f8a1514e1700ac4697bc2adbe570",
+      "crc32": "83520d0e",
+      "sha1": "1985191f22051e4504a7eddd9833b3752789dacf",
+      "format": "JSON"
+    },
+    {
+      "name": "natgeo-2022-08-04T21:47:01.684765-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659664026",
+      "size": "25913",
+      "md5": "8cebd5084c731fc6155217a8496fe4ac",
+      "crc32": "c4372e5a",
+      "sha1": "a0cdfeec952b01bfd591c9ca12cff939ae0d07a4",
+      "format": "JSON"
+    },
+    {
+      "name": "natgeo-2022-08-04T21:47:01.684765-04:00.jpg",
+      "source": "original",
+      "mtime": "1659664023",
+      "size": "216767",
+      "md5": "86b077f178c1d15bf4ed6c803ca0fe39",
+      "crc32": "1eb428e8",
+      "sha1": "ce2015491bbd82418ba0f416dcdaa1bf84996000",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "natgeo-2022-08-04T21:47:01.684765-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659664028",
+      "size": "1564",
+      "md5": "65f8f5fe710390f84ebb7aad504010d6",
+      "crc32": "2f8e470e",
+      "sha1": "1af77e2dbdeed7da1d8fcda59527a2e1a836c1c8",
+      "format": "JSON"
+    },
+    {
+      "name": "natgeo-2022-08-04T21:47:01.684765-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "natgeo-2022-08-04T21:47:01.684765-04:00.jpg",
+      "mtime": "1659666489",
+      "size": "10474",
+      "md5": "9041bb4832173d499d949359ffefb322",
+      "crc32": "e3721990",
+      "sha1": "3e99234e5dc453b1c0f49fcd39816fa008a49329"
+    },
+    {
       "name": "natgeo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e94deb1bcdc0c406e0a19bb57721e5b89d6f67b2",
-      "mtime": "1659621649",
-      "size": "59111",
-      "md5": "8ec62623e508f2999db566dd85bd7fb1",
-      "crc32": "1627fd14",
-      "sha1": "23f950331ba41960188d4293f3c66e3255b16b5c",
+      "btih": "1365cfaa8dad2b0f30a6f2a9b375e1059d2362e0",
+      "mtime": "1659666507",
+      "size": "60161",
+      "md5": "bd95096972573441119fcc3f7bede355",
+      "crc32": "8a9e67c9",
+      "sha1": "7e852f76c2ee3416f7b77d1d0ca0543780eff3eb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "natgeo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a05fae5876866472912570a1523358c5",
+      "md5": "7d029a3078e7612b73d236f456ae1068",
       "summation": "md5"
     },
     {
       "name": "natgeo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659616560",
-      "size": "344064",
-      "md5": "b1321a2f553e4315b25f11cde6f334b2",
-      "crc32": "f99e8a0d",
-      "sha1": "ebd80b8a50280a3ecfe44065fbaa470a5ce65942",
+      "mtime": "1659664042",
+      "size": "352256",
+      "md5": "19ff8fd92bbedbfc2e6ae71a8d86f2d3",
+      "crc32": "9d70846f",
+      "sha1": "d35a6f2f02ec41f2872fef1f6a44c0527c0cbcbe",
       "format": "Metadata"
     },
     {
@@ -2940,9 +2992,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 281,
-  "item_last_updated": 1659621649,
-  "item_size": 19963268,
+  "files_count": 286,
+  "item_last_updated": 1659666507,
+  "item_size": 20266122,
   "metadata": {
     "identifier": "natgeo-2022",
     "collection": [
@@ -2959,49 +3011,8 @@
     "publicdate": "2022-07-04 21:49:06",
     "addeddate": "2022-07-04 21:49:06"
   },
-  "natgeo-2022": [
-    {
-      "url": "https://www.nationalgeographic.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nationalgeographic_com-_-2022_08_04_12_09_55.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nationalgeographic_com-_-2022_08_04_12_09_55.report.json",
-      "summary": {
-        "performance": 0.23,
-        "accessibility": 0.82,
-        "best-practices": 0.83,
-        "seo": 0.9,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.nationalgeographic.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nationalgeographic_com-_-2022_08_04_12_10_44.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nationalgeographic_com-_-2022_08_04_12_10_44.report.json",
-      "summary": {
-        "performance": 0.24,
-        "accessibility": 0.82,
-        "best-practices": 0.83,
-        "seo": 0.9,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.nationalgeographic.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nationalgeographic_com-_-2022_08_04_12_10_20.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nationalgeographic_com-_-2022_08_04_12_10_20.report.json",
-      "summary": {
-        "performance": 0.24,
-        "accessibility": 0.82,
-        "best-practices": 0.83,
-        "seo": 0.9,
-        "pwa": 0.4
-      }
-    }
-  ],
   "server": "ia601405.us.archive.org",
-  "uniq": 1085061446,
+  "uniq": 496636618,
   "workable_servers": [
     "ia601405.us.archive.org",
     "ia801405.us.archive.org"

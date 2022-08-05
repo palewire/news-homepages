@@ -1,5 +1,5 @@
 {
-  "created": 1659661164,
+  "created": 1659677835,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/0/items/valoreconomico-2022",
@@ -172,31 +172,83 @@
       "sha1": "5032bc545f6ac433b497b044c05b5a01c0757de8"
     },
     {
+      "name": "valoreconomico-2022-08-05T01:46:08.282754-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659674771",
+      "size": "65351",
+      "md5": "1b34d905bb5211050179baf2bfa48d4f",
+      "crc32": "2687e1c8",
+      "sha1": "b37a67f79463a9b6097db31f8d704077cdd23adf",
+      "format": "JSON"
+    },
+    {
+      "name": "valoreconomico-2022-08-05T01:46:08.282754-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659674773",
+      "size": "57986",
+      "md5": "d5d146a1915f098b2c40053e0e4e20ab",
+      "crc32": "2d9f34fa",
+      "sha1": "273b9bbd86d2f8759157595225f849b715e2a3ba",
+      "format": "JSON"
+    },
+    {
+      "name": "valoreconomico-2022-08-05T01:46:08.282754-03:00.jpg",
+      "source": "original",
+      "mtime": "1659674770",
+      "size": "225714",
+      "md5": "9656037bac0fde66ccc7d19790d04452",
+      "crc32": "6e52f34e",
+      "sha1": "ba3d568e20f85ded300823526377a6e68e66be6e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "valoreconomico-2022-08-05T01:46:08.282754-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659674774",
+      "size": "1468",
+      "md5": "04826018c0f6453193e6cc73bcaf26a7",
+      "crc32": "135c8de9",
+      "sha1": "9dd5375f6af11ba159f72eb4aa6ab1ddf4a3ceb4",
+      "format": "JSON"
+    },
+    {
+      "name": "valoreconomico-2022-08-05T01:46:08.282754-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "valoreconomico-2022-08-05T01:46:08.282754-03:00.jpg",
+      "mtime": "1659677821",
+      "size": "8728",
+      "md5": "18b522e8ae5ce6d777cede95c32159e8",
+      "crc32": "131e55a9",
+      "sha1": "94487aec3fe5c996adca038daddd1d82cae969e7"
+    },
+    {
       "name": "valoreconomico-2022_archive.torrent",
       "source": "metadata",
-      "btih": "92a6212519b72093470a708707b57a57712682e7",
-      "mtime": "1659651637",
-      "size": "4904",
-      "md5": "a42926327fc730c8402ab3b40cfb6262",
-      "crc32": "9f8826b1",
-      "sha1": "e4a53435aeaa297986b4beae6a2194c0b11ff3f7",
+      "btih": "88fdf31d7cfca79be92cfb56d435a271e9bc42ce",
+      "mtime": "1659677826",
+      "size": "5993",
+      "md5": "1fa908f26aed191c4d3b1417b8e131cc",
+      "crc32": "5ee9fdd4",
+      "sha1": "e153cc147902a012dc0101db93bd92a0d72ddbca",
       "format": "Archive BitTorrent"
     },
     {
       "name": "valoreconomico-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dc17f0a8046a5659c7afb9ef25e9cc53",
+      "md5": "e894be263574f86216129587defbabec",
       "summation": "md5"
     },
     {
       "name": "valoreconomico-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659648015",
-      "size": "36864",
-      "md5": "9e3fa050168c9b65a764c2448c75dc42",
-      "crc32": "d82b0f47",
-      "sha1": "522e8becdb62c2f21d1d4e23857003da5b372c71",
+      "mtime": "1659674779",
+      "size": "45056",
+      "md5": "2de419c7b867c17503ebe69dbf9e86dc",
+      "crc32": "e999daa4",
+      "sha1": "c6cd977393d13f81643dc44997cdf9de59ba675b",
       "format": "Metadata"
     },
     {
@@ -210,9 +262,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 20,
-  "item_last_updated": 1659651637,
-  "item_size": 992550,
+  "files_count": 25,
+  "item_last_updated": 1659677826,
+  "item_size": 1361078,
   "metadata": {
     "identifier": "valoreconomico-2022",
     "collection": [
@@ -229,51 +281,10 @@
     "publicdate": "2022-08-04 04:56:45",
     "addeddate": "2022-08-04 04:56:45"
   },
-  "server": "ia601500.us.archive.org",
-  "uniq": 674631470,
-  "valoreconomico-2022": [
-    {
-      "url": "https://valor.globo.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/valor_globo_com-_-2022_08_04_21_06_38.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/valor_globo_com-_-2022_08_04_21_06_38.report.json",
-      "summary": {
-        "performance": 0.17,
-        "accessibility": 0.81,
-        "best-practices": 0.75,
-        "seo": 0.86,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://valor.globo.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/valor_globo_com-_-2022_08_04_21_07_55.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/valor_globo_com-_-2022_08_04_21_07_55.report.json",
-      "summary": {
-        "performance": 0.17,
-        "accessibility": 0.81,
-        "best-practices": 0.75,
-        "seo": 0.86,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://valor.globo.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/valor_globo_com-_-2022_08_04_21_07_19.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/valor_globo_com-_-2022_08_04_21_07_19.report.json",
-      "summary": {
-        "performance": 0.17,
-        "accessibility": 0.81,
-        "best-practices": 0.75,
-        "seo": 0.86,
-        "pwa": 0.4
-      }
-    }
-  ],
+  "server": "ia801500.us.archive.org",
+  "uniq": 169350915,
   "workable_servers": [
-    "ia601500.us.archive.org",
-    "ia801500.us.archive.org"
+    "ia801500.us.archive.org",
+    "ia601500.us.archive.org"
   ]
 }

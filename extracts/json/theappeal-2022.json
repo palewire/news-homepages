@@ -1,5 +1,5 @@
 {
-  "created": 1659637853,
+  "created": 1659683224,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/23/items/theappeal-2022",
@@ -1264,31 +1264,83 @@
       "sha1": "470f55a64786242b6c6ae80c21e1173dacba158a"
     },
     {
+      "name": "theappeal-2022-08-05T00:43:57.116655-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659674639",
+      "size": "37239",
+      "md5": "3f4a51b6aee4fe193ee9829509bd5b8b",
+      "crc32": "b5d6e658",
+      "sha1": "3e0b080c6436e735617db428f5ff541108029abc",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-08-05T00:43:57.116655-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659674641",
+      "size": "41720",
+      "md5": "e20b3240ea0d5ae7ff08fa845f1c870f",
+      "crc32": "8ed56003",
+      "sha1": "7aec87025b11a32ff3fbb2f2edca2e393792bcae",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-08-05T00:43:57.116655-04:00.jpg",
+      "source": "original",
+      "mtime": "1659674638",
+      "size": "236807",
+      "md5": "6f1d5ca4104a38f705f5a9d0cd76229b",
+      "crc32": "b88058a8",
+      "sha1": "086d0b05c08a69b5b09a83d2df9a26920f6e6cf7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theappeal-2022-08-05T00:43:57.116655-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659674643",
+      "size": "1450",
+      "md5": "bc30f5086c0fd7f677d93479bcc16bbc",
+      "crc32": "c398e904",
+      "sha1": "9b6b98557e5c4f422a7d41d5cb6dc4667536bbb5",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-08-05T00:43:57.116655-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theappeal-2022-08-05T00:43:57.116655-04:00.jpg",
+      "mtime": "1659678091",
+      "size": "9770",
+      "md5": "6803b8ac5e771bcc50e50d754a81c1af",
+      "crc32": "3e790112",
+      "sha1": "dce83877bd8be393dcfee9dda4909b5228c07bc3"
+    },
+    {
       "name": "theappeal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "574da745134a174bfec597148362a16f9b919f1a",
-      "mtime": "1659637785",
-      "size": "26977",
-      "md5": "7cfd63e1588141efcb25b4fad8a2b9c7",
-      "crc32": "1674e047",
-      "sha1": "d44b2e0efd4e0d9d987c578c41cbcfa8b41b0082",
+      "btih": "7a86b307c9f05dea4f2b98375d3870bb49462a00",
+      "mtime": "1659678119",
+      "size": "28041",
+      "md5": "b9b93afbfeac0f114707d8949e92bb75",
+      "crc32": "b4bf5f4d",
+      "sha1": "b395d34aece28ddea897083bb6f59d066a030990",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theappeal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cf7fcabfdba03ac8feb5f319d58a7d8c",
+      "md5": "6103a7ec547118efe3adbadcc7dc1436",
       "summation": "md5"
     },
     {
       "name": "theappeal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659632695",
-      "size": "167936",
-      "md5": "d21b274d3e03b8ffef9dd936350184df",
-      "crc32": "549bc04f",
-      "sha1": "2e13fb13d2a55468e4b7a282958d4303c124407f",
+      "mtime": "1659674647",
+      "size": "176128",
+      "md5": "c021470b86e6659bc8c6a2702cc5820c",
+      "crc32": "782e3fda",
+      "sha1": "124ddf7167ec201a44694094b165404cbe1d156e",
       "format": "Metadata"
     },
     {
@@ -1302,9 +1354,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 125,
-  "item_last_updated": 1659637785,
-  "item_size": 7809272,
+  "files_count": 130,
+  "item_last_updated": 1659678119,
+  "item_size": 8145514,
   "metadata": {
     "identifier": "theappeal-2022",
     "collection": [
@@ -1322,7 +1374,7 @@
     "addeddate": "2022-07-24 03:40:26"
   },
   "server": "ia801508.us.archive.org",
-  "uniq": 487849289,
+  "uniq": 887305664,
   "workable_servers": [
     "ia801508.us.archive.org",
     "ia601508.us.archive.org"

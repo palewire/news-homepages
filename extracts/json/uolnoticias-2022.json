@@ -1,5 +1,5 @@
 {
-  "created": 1659651914,
+  "created": 1659667627,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/13/items/uolnoticias-2022",
@@ -328,31 +328,83 @@
       "sha1": "4fbdf855c0873185d4589d8204957591d77ea4ce"
     },
     {
+      "name": "uolnoticias-2022-08-04T23:02:00.555061-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659664924",
+      "size": "17100",
+      "md5": "612e15243a655e1408ee56b2ad2ad818",
+      "crc32": "39f0f61a",
+      "sha1": "b4896a0ba0e4d02a28c750a1fd4acb0f7b2b5171",
+      "format": "JSON"
+    },
+    {
+      "name": "uolnoticias-2022-08-04T23:02:00.555061-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659664925",
+      "size": "62682",
+      "md5": "f2873515bd0edf4b784799c668b97629",
+      "crc32": "9b2babd3",
+      "sha1": "f03f894e5d159a57251a9e3190d2b258aae78c82",
+      "format": "JSON"
+    },
+    {
+      "name": "uolnoticias-2022-08-04T23:02:00.555061-03:00.jpg",
+      "source": "original",
+      "mtime": "1659664922",
+      "size": "179827",
+      "md5": "3f79fa5407afa0ca109dfdc060337671",
+      "crc32": "08d9a1d4",
+      "sha1": "6e72a853e5b5fc461cd81e9a009a6a5c8befadd8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "uolnoticias-2022-08-04T23:02:00.555061-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659664927",
+      "size": "1503",
+      "md5": "f707afa7ffbdd56c5451f7835a5f3b52",
+      "crc32": "2f14f92a",
+      "sha1": "a1ded1e3296a2ac8bb0addd175f0c1ccc9bfe887",
+      "format": "JSON"
+    },
+    {
+      "name": "uolnoticias-2022-08-04T23:02:00.555061-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "uolnoticias-2022-08-04T23:02:00.555061-03:00.jpg",
+      "mtime": "1659667595",
+      "size": "8840",
+      "md5": "c83f94748f6d0ddc1005084caecae5b8",
+      "crc32": "baf7e70c",
+      "sha1": "a5cf87f55be145252eb31ada95078637316246ed"
+    },
+    {
       "name": "uolnoticias-2022_archive.torrent",
       "source": "metadata",
-      "btih": "46caec5757b77369e5a383fa39e25e3882c046ff",
-      "mtime": "1659651793",
-      "size": "8037",
-      "md5": "07ff597afe347d5ef4beef3c0580ce8f",
-      "crc32": "71a3d057",
-      "sha1": "8b0363bfbaa9cc624cc785d7cb906a6795d03a1f",
+      "btih": "b84c93dc5995f2af50f32d8f94898ca927e7603e",
+      "mtime": "1659667601",
+      "size": "9091",
+      "md5": "c2348b109829f45a227a56699667a014",
+      "crc32": "12670a75",
+      "sha1": "fe66c68d43e2af612f7cff2fa3dfdf398dc50273",
       "format": "Archive BitTorrent"
     },
     {
       "name": "uolnoticias-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "36225b2493c9423a8faa0431b7714c55",
+      "md5": "43de3dfe1f9af690ec85f9ff18491daa",
       "summation": "md5"
     },
     {
       "name": "uolnoticias-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659648008",
-      "size": "53248",
-      "md5": "b329f95aaac5f39be386b404640e5ad6",
-      "crc32": "70a9bd5a",
-      "sha1": "bda135694871fb7f1a595a807045dc150903029d",
+      "mtime": "1659664931",
+      "size": "61440",
+      "md5": "869fb7dd637e4f2386dbbeb77dee7b5e",
+      "crc32": "68aaa58e",
+      "sha1": "6deff24a972c7ef497e3f3c7a156af83d0bf1415",
       "format": "Metadata"
     },
     {
@@ -366,9 +418,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 35,
-  "item_last_updated": 1659651793,
-  "item_size": 1725670,
+  "files_count": 40,
+  "item_last_updated": 1659667601,
+  "item_size": 2004868,
   "metadata": {
     "identifier": "uolnoticias-2022",
     "collection": [
@@ -385,10 +437,10 @@
     "publicdate": "2022-08-03 02:00:23",
     "addeddate": "2022-08-03 02:00:23"
   },
-  "server": "ia801509.us.archive.org",
-  "uniq": 1961832477,
+  "server": "ia601509.us.archive.org",
+  "uniq": 2006082279,
   "workable_servers": [
-    "ia801509.us.archive.org",
-    "ia601509.us.archive.org"
+    "ia601509.us.archive.org",
+    "ia801509.us.archive.org"
   ]
 }

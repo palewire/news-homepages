@@ -1,5 +1,5 @@
 {
-  "created": 1659660547,
+  "created": 1659675492,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/3/items/mo_independent-2022",
@@ -2902,31 +2902,83 @@
       "sha1": "f265b3b763cffc27d2da3deef81f5a930223aca4"
     },
     {
+      "name": "mo_independent-2022-08-04T20:43:56.927466-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659663840",
+      "size": "15869",
+      "md5": "bb14868b592a30dbb23d2a3b5f1c6b11",
+      "crc32": "63a7c103",
+      "sha1": "dd462ad629f66dba559cf4bc59c24e8239dd14d3",
+      "format": "JSON"
+    },
+    {
+      "name": "mo_independent-2022-08-04T20:43:56.927466-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659663842",
+      "size": "13765",
+      "md5": "d808651fa0b2271e602436da1169588e",
+      "crc32": "d517c770",
+      "sha1": "994d0b597d0486b75d005ed2c0a19ba0d0ae1cc1",
+      "format": "JSON"
+    },
+    {
+      "name": "mo_independent-2022-08-04T20:43:56.927466-05:00.jpg",
+      "source": "original",
+      "mtime": "1659663838",
+      "size": "327822",
+      "md5": "6d021403cb852bfab179362d2a6773d4",
+      "crc32": "c896178c",
+      "sha1": "20625718e43012ddc493a3b61a402aad11c9e19e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mo_independent-2022-08-04T20:43:56.927466-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659663843",
+      "size": "1538",
+      "md5": "12a5bf9a990837b9c70ebd6664e59f53",
+      "crc32": "bf3a5b8d",
+      "sha1": "496d0cf419c2bc859c92e5aa1a2938d3e394099f",
+      "format": "JSON"
+    },
+    {
+      "name": "mo_independent-2022-08-04T20:43:56.927466-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mo_independent-2022-08-04T20:43:56.927466-05:00.jpg",
+      "mtime": "1659675187",
+      "size": "10607",
+      "md5": "541b4d688f48c6959609ed9b10c4dfd6",
+      "crc32": "116cb4ae",
+      "sha1": "80d6b541c6ed360450b37cd255870a99ad5b598a"
+    },
+    {
       "name": "mo_independent-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1f0216b7cc16bb2993ac1b59024944a7cfac7dad",
-      "mtime": "1659622381",
-      "size": "61521",
-      "md5": "54fb010f43d94525adcff377ad2a07d4",
-      "crc32": "dd18afd0",
-      "sha1": "d65c3e1bcdf21b45c52f5dd9adb50d9b46d8ba93",
+      "btih": "fe4941e1f192a5ca0d31cae2b2405640c8a10617",
+      "mtime": "1659675227",
+      "size": "62611",
+      "md5": "db31f1a2cfaafcefbb2cfe62a1f1dd27",
+      "crc32": "6936a242",
+      "sha1": "48dd8af91f6c183ab7f0a21ea7bbd7682322b2e9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mo_independent-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fbc7ab0d3300aa02002144306aa18ccb",
+      "md5": "7ba15a361f9f46288ad3643e276d1cf4",
       "summation": "md5"
     },
     {
       "name": "mo_independent-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659616556",
-      "size": "348160",
-      "md5": "26c760388fe6886b76ecc35b47883099",
-      "crc32": "16184bae",
-      "sha1": "9211f0aea397fd18fc7f5c19305b846ac3dba2da",
+      "mtime": "1659663848",
+      "size": "356352",
+      "md5": "3740b1b56946fd0de042ba26df01911a",
+      "crc32": "22e35c18",
+      "sha1": "bf1b42444d6361c5d753f359e7afc567ec63e5d1",
       "format": "Metadata"
     },
     {
@@ -2940,9 +2992,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 281,
-  "item_last_updated": 1659622381,
-  "item_size": 23112165,
+  "files_count": 286,
+  "item_last_updated": 1659675227,
+  "item_size": 23491048,
   "metadata": {
     "identifier": "mo_independent-2022",
     "collection": [
@@ -2959,49 +3011,8 @@
     "publicdate": "2022-07-04 21:56:43",
     "addeddate": "2022-07-04 21:56:43"
   },
-  "mo_independent-2022": [
-    {
-      "url": "https://missouriindependent.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/missouriindependent_com-_-2022_08_04_12_08_09.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/missouriindependent_com-_-2022_08_04_12_08_09.report.json",
-      "summary": {
-        "performance": 0.61,
-        "accessibility": 0.88,
-        "best-practices": 0.83,
-        "seo": 0.79,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://missouriindependent.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/missouriindependent_com-_-2022_08_04_12_08_32.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/missouriindependent_com-_-2022_08_04_12_08_32.report.json",
-      "summary": {
-        "performance": 0.7,
-        "accessibility": 0.88,
-        "best-practices": 0.83,
-        "seo": 0.79,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://missouriindependent.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/missouriindependent_com-_-2022_08_04_12_08_21.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/missouriindependent_com-_-2022_08_04_12_08_21.report.json",
-      "summary": {
-        "performance": 0.7,
-        "accessibility": 0.88,
-        "best-practices": 0.83,
-        "seo": 0.79,
-        "pwa": 0.4
-      }
-    }
-  ],
   "server": "ia601405.us.archive.org",
-  "uniq": 1946440793,
+  "uniq": 188154611,
   "workable_servers": [
     "ia601405.us.archive.org",
     "ia801405.us.archive.org"

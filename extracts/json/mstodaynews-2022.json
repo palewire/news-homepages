@@ -1,5 +1,5 @@
 {
-  "created": 1659621505,
+  "created": 1659666527,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/20/items/mstodaynews-2022",
@@ -1432,31 +1432,83 @@
       "sha1": "2047484eef300526805ea6e0a66617fa72c2432a"
     },
     {
+      "name": "mstodaynews-2022-08-04T21:44:33.883793-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659663876",
+      "size": "38255",
+      "md5": "9a9098b4e01d83515093dda12f40a6b7",
+      "crc32": "f39e5d2c",
+      "sha1": "24cfde4faa77c2e42cfde7b57c62505f9b36b282",
+      "format": "JSON"
+    },
+    {
+      "name": "mstodaynews-2022-08-04T21:44:33.883793-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659663878",
+      "size": "44377",
+      "md5": "d794e1350ab589496ffa60eeeddc003c",
+      "crc32": "3c57368b",
+      "sha1": "9e9f8cc1757d74fdb40a29da7155c7029e4bc599",
+      "format": "JSON"
+    },
+    {
+      "name": "mstodaynews-2022-08-04T21:44:33.883793-04:00.jpg",
+      "source": "original",
+      "mtime": "1659663875",
+      "size": "268158",
+      "md5": "a724a073caddd41bd4632863842b9032",
+      "crc32": "8943620c",
+      "sha1": "378a6989b633baaf059e0eaaab1fb6bc9fe99c67",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mstodaynews-2022-08-04T21:44:33.883793-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659663879",
+      "size": "1512",
+      "md5": "ea1fd726d0d3297674c7b32dc9f468ee",
+      "crc32": "2770cc1e",
+      "sha1": "e0419009b1569b5fa29ef27e674bcc8934b5e307",
+      "format": "JSON"
+    },
+    {
+      "name": "mstodaynews-2022-08-04T21:44:33.883793-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mstodaynews-2022-08-04T21:44:33.883793-04:00.jpg",
+      "mtime": "1659666464",
+      "size": "9754",
+      "md5": "0387496dad7e20bed74007e5d1232bc1",
+      "crc32": "d035611e",
+      "sha1": "2dc2b6aae829dfac0244df43631b3389069367d6"
+    },
+    {
       "name": "mstodaynews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1c5c2c1426b73ea502e4ba6e219cb9a04f65dbc4",
-      "mtime": "1659621480",
-      "size": "30675",
-      "md5": "a77e3f95e39f0c78faf67c081bc2d367",
-      "crc32": "0355e4a6",
-      "sha1": "416401ad10e4ad85cb5508599b239f060345dee6",
+      "btih": "ed80df4d2c12752a609fe1eb4bdc5955052587d1",
+      "mtime": "1659666467",
+      "size": "31749",
+      "md5": "57a503eaf33897f07d1fafa290863f5b",
+      "crc32": "b56806e6",
+      "sha1": "a45ef1b49d6f5e03eede82e0278962936f107a85",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mstodaynews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "42426239da45e5eadedc7f279aaab3ef",
+      "md5": "870f0c3324c56f8503a60855b302e1aa",
       "summation": "md5"
     },
     {
       "name": "mstodaynews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659616550",
-      "size": "188416",
-      "md5": "b8dcc763db468c7d553060ca57bc2f5f",
-      "crc32": "b071ae81",
-      "sha1": "8727720ceccdf7769a36bb9c8bc05958e0d220a9",
+      "mtime": "1659663885",
+      "size": "196608",
+      "md5": "a7bcc4a9c6ec3684c797742f54405f9b",
+      "crc32": "f690d4d0",
+      "sha1": "aa2ed371e0f7cf3e74731fd4393b660b471c96c4",
       "format": "Metadata"
     },
     {
@@ -1470,9 +1522,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 141,
-  "item_last_updated": 1659621480,
-  "item_size": 9819194,
+  "files_count": 146,
+  "item_last_updated": 1659666467,
+  "item_size": 10190516,
   "metadata": {
     "identifier": "mstodaynews-2022",
     "collection": [
@@ -1489,10 +1541,10 @@
     "publicdate": "2022-07-22 03:36:08",
     "addeddate": "2022-07-22 03:36:08"
   },
-  "server": "ia801407.us.archive.org",
-  "uniq": 148096162,
+  "server": "ia601407.us.archive.org",
+  "uniq": 1107301390,
   "workable_servers": [
-    "ia801407.us.archive.org",
-    "ia601407.us.archive.org"
+    "ia601407.us.archive.org",
+    "ia801407.us.archive.org"
   ]
 }

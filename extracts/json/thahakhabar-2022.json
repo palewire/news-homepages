@@ -1,5 +1,5 @@
 {
-  "created": 1659661020,
+  "created": 1659667169,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/12/items/thahakhabar-2022",
@@ -1132,31 +1132,73 @@
       "sha1": "02b9d0f994cffc66f341dc89fba3b72945da76ee"
     },
     {
+      "name": "thahakhabar-2022-08-05T07:43:17.996253+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1659664700",
+      "size": "77528",
+      "md5": "6db67b140c0acf292a38594fe03f2d12",
+      "crc32": "931e5cf4",
+      "sha1": "9616801514502cae1c4e7c3bbe1b66cc74ff69e0",
+      "format": "JSON"
+    },
+    {
+      "name": "thahakhabar-2022-08-05T07:43:17.996253+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659664702",
+      "size": "50609",
+      "md5": "be25f1fd69415e34c11dc8fa9c5f5faa",
+      "crc32": "4cfc377d",
+      "sha1": "8946c666d2a7aba42b465dfd817d01fc0a506d5d",
+      "format": "JSON"
+    },
+    {
+      "name": "thahakhabar-2022-08-05T07:43:17.996253+05:45.jpg",
+      "source": "original",
+      "mtime": "1659664699",
+      "size": "193820",
+      "md5": "ed090c7bed47a52062520a0774c3a3ba",
+      "crc32": "d457a7c4",
+      "sha1": "2ef4a82cd703c3001c972a0e166e94b5c056c033",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thahakhabar-2022-08-05T07:43:17.996253+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thahakhabar-2022-08-05T07:43:17.996253+05:45.jpg",
+      "mtime": "1659667153",
+      "size": "10196",
+      "md5": "ba382bfa2c359d5ed4794363c35355aa",
+      "crc32": "d77f4020",
+      "sha1": "24ea488dc5aa09ce10de70f21f9bf3d85907eea0"
+    },
+    {
       "name": "thahakhabar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c8bb7cf4e7cfbb5a57f596f7789dfd24131be4fc",
-      "mtime": "1659624722",
-      "size": "24537",
-      "md5": "a9ef5d1f9568d9df350fd011f2251795",
-      "crc32": "bd5e9bf8",
-      "sha1": "38cf2b87ff3146193ed1c8f1adb369eb20c88079",
+      "btih": "c62b4055dc21399337973defb773bfea565bccee",
+      "mtime": "1659667158",
+      "size": "25379",
+      "md5": "5c7eb839ef4a0e6cbd35128074120f1e",
+      "crc32": "e41429e8",
+      "sha1": "54926a1ef4c6e8acfbd9290c1ae1728c2bf22946",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thahakhabar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b37b29558fabb38e262bd502572cc13d",
+      "md5": "625e4539a938fbc8b55f02a99dce61b5",
       "summation": "md5"
     },
     {
       "name": "thahakhabar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659621320",
-      "size": "151552",
-      "md5": "deec06d3770fc316ad16bdfba802f126",
-      "crc32": "bdd46a9c",
-      "sha1": "cf996fca9c42e9a5faf17f48f54a5c58fae9b0f7",
+      "mtime": "1659664706",
+      "size": "155648",
+      "md5": "7e402be4b1ab732818128aa2836156f4",
+      "crc32": "79eaec09",
+      "sha1": "016623b65bb0144cce7e4ad89a0b2f1e9ebdefa9",
       "format": "Metadata"
     },
     {
@@ -1170,9 +1212,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 112,
-  "item_last_updated": 1659624722,
-  "item_size": 8518801,
+  "files_count": 116,
+  "item_last_updated": 1659667158,
+  "item_size": 8855892,
   "metadata": {
     "identifier": "thahakhabar-2022",
     "collection": [
@@ -1190,48 +1232,7 @@
     "addeddate": "2022-07-24 20:39:40"
   },
   "server": "ia801503.us.archive.org",
-  "thahakhabar-2022": [
-    {
-      "url": "https://www.thahakhabar.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thahakhabar_com-_-2022_08_04_13_26_59.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thahakhabar_com-_-2022_08_04_13_26_59.report.json",
-      "summary": {
-        "performance": 0.22,
-        "accessibility": 0.82,
-        "best-practices": 0.75,
-        "seo": 0.76,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://www.thahakhabar.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thahakhabar_com-_-2022_08_04_13_27_58.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thahakhabar_com-_-2022_08_04_13_27_58.report.json",
-      "summary": {
-        "performance": 0.44,
-        "accessibility": 0.82,
-        "best-practices": 0.75,
-        "seo": 0.76,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://www.thahakhabar.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thahakhabar_com-_-2022_08_04_13_27_30.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thahakhabar_com-_-2022_08_04_13_27_30.report.json",
-      "summary": {
-        "performance": 0.38,
-        "accessibility": 0.82,
-        "best-practices": 0.75,
-        "seo": 0.76,
-        "pwa": 0.3
-      }
-    }
-  ],
-  "uniq": 517969431,
+  "uniq": 1942763764,
   "workable_servers": [
     "ia801503.us.archive.org",
     "ia601503.us.archive.org"

@@ -1,46 +1,5 @@
 {
-  "chinatimes-2022": [
-    {
-      "url": "https://www.chinatimes.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_chinatimes_com-_-2022_08_04_13_23_51.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_chinatimes_com-_-2022_08_04_13_23_51.report.json",
-      "summary": {
-        "performance": 0.42,
-        "accessibility": 0.85,
-        "best-practices": 0.83,
-        "seo": 0.98,
-        "pwa": 0.8
-      }
-    },
-    {
-      "url": "https://www.chinatimes.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_chinatimes_com-_-2022_08_04_13_24_47.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_chinatimes_com-_-2022_08_04_13_24_47.report.json",
-      "summary": {
-        "performance": 0.39,
-        "accessibility": 0.85,
-        "best-practices": 0.83,
-        "seo": 0.98,
-        "pwa": 0.8
-      }
-    },
-    {
-      "url": "https://www.chinatimes.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_chinatimes_com-_-2022_08_04_13_24_18.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_chinatimes_com-_-2022_08_04_13_24_18.report.json",
-      "summary": {
-        "performance": 0.41,
-        "accessibility": 0.85,
-        "best-practices": 0.83,
-        "seo": 0.98,
-        "pwa": 0.8
-      }
-    }
-  ],
-  "created": 1659660023,
+  "created": 1659667215,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/8/items/chinatimes-2022",
@@ -265,31 +224,83 @@
       "sha1": "9d42236261cfd29e6a90f1927d441be7d9a86c35"
     },
     {
+      "name": "chinatimes-2022-08-05T09:56:04.383809+08:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659664567",
+      "size": "38875",
+      "md5": "d66d2cbdbf05a6ece3b788f40f27857f",
+      "crc32": "35a3533f",
+      "sha1": "b630d53c0108762a6cd2be07ee6a0b7373cba147",
+      "format": "JSON"
+    },
+    {
+      "name": "chinatimes-2022-08-05T09:56:04.383809+08:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659664569",
+      "size": "45575",
+      "md5": "dab7bad7c87aac931a72ac2e6085ef2d",
+      "crc32": "ea92418c",
+      "sha1": "632a03744fa497a40c101d485505a9edb2f39137",
+      "format": "JSON"
+    },
+    {
+      "name": "chinatimes-2022-08-05T09:56:04.383809+08:00.jpg",
+      "source": "original",
+      "mtime": "1659664566",
+      "size": "289076",
+      "md5": "b562caab6419f4b49d8ff237314bb61c",
+      "crc32": "d592ab6f",
+      "sha1": "c9c7955c9129de867f959dac9c9e042fca29cb56",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chinatimes-2022-08-05T09:56:04.383809+08:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659664570",
+      "size": "1495",
+      "md5": "9f34e24d4648ced5e3a3f8cc7af1fdf3",
+      "crc32": "b47ccaf8",
+      "sha1": "2513c375daa3695397eaf080f4eb434ae9ffde4f",
+      "format": "JSON"
+    },
+    {
+      "name": "chinatimes-2022-08-05T09:56:04.383809+08:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chinatimes-2022-08-05T09:56:04.383809+08:00.jpg",
+      "mtime": "1659666928",
+      "size": "9669",
+      "md5": "dafa8e1400d7b7640423c544c29823ca",
+      "crc32": "aec72486",
+      "sha1": "fa67d71584cd88ec5ca471c8e21a123679f8c44c"
+    },
+    {
       "name": "chinatimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a6982e3c513e3f0d0192b940644044174a0ddc51",
-      "mtime": "1659624703",
-      "size": "5877",
-      "md5": "3c65cd5287e41869d97f5244929320ae",
-      "crc32": "3fe5440d",
-      "sha1": "042622fed82169ffb5e025d6ce795a8fd480f116",
+      "btih": "e5d0758bd10311557ac61f6da1ab0a889c3189e1",
+      "mtime": "1659666931",
+      "size": "6946",
+      "md5": "6c607c790f91fb4d190a1494d6c6cf36",
+      "crc32": "a7fbc177",
+      "sha1": "8bd4eb217a1027d1e865510097bb5fe82b7b2635",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chinatimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4c5bd4a5a8be8bc740cd9384db7b7049",
+      "md5": "f4c9bd5bc55ce61e61052fe9b0c08415",
       "summation": "md5"
     },
     {
       "name": "chinatimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659621201",
-      "size": "45056",
-      "md5": "f5024fa89af47e2d69817a66a95c8681",
-      "crc32": "8dd070d4",
-      "sha1": "28db031d65d59126f21b5e4046ff12d2e43a61ef",
+      "mtime": "1659664574",
+      "size": "49152",
+      "md5": "cdf90ac2f083dfc74e6ca9bd2309a192",
+      "crc32": "9aa20300",
+      "sha1": "484696b0b022b627bb8f5d3b43e4ad1c408ea6b5",
       "format": "Metadata"
     },
     {
@@ -303,9 +314,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 25,
-  "item_last_updated": 1659624703,
-  "item_size": 1527584,
+  "files_count": 30,
+  "item_last_updated": 1659666931,
+  "item_size": 1917439,
   "metadata": {
     "identifier": "chinatimes-2022",
     "collection": [
@@ -322,10 +333,10 @@
     "publicdate": "2022-08-03 01:54:37",
     "addeddate": "2022-08-03 01:54:37"
   },
-  "server": "ia601405.us.archive.org",
-  "uniq": 609160984,
+  "server": "ia801405.us.archive.org",
+  "uniq": 726704392,
   "workable_servers": [
-    "ia601405.us.archive.org",
-    "ia801405.us.archive.org"
+    "ia801405.us.archive.org",
+    "ia601405.us.archive.org"
   ]
 }

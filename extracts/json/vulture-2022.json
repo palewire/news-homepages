@@ -1,5 +1,5 @@
 {
-  "created": 1659661196,
+  "created": 1659678101,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/10/items/vulture-2022",
@@ -276,31 +276,83 @@
       "sha1": "ffc5a45853d7cd91a9c1cfbe70873d5967e27dcd"
     },
     {
+      "name": "vulture-2022-08-05T00:47:12.601953-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659674835",
+      "size": "31266",
+      "md5": "e4d72360161ec51310241796a2144678",
+      "crc32": "6282f514",
+      "sha1": "d751ee9154dfcab64104d34fd2c91f9d73ec8388",
+      "format": "JSON"
+    },
+    {
+      "name": "vulture-2022-08-05T00:47:12.601953-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659674836",
+      "size": "30481",
+      "md5": "bfb041383825189f5ec1922dc1817a2f",
+      "crc32": "ed4dba5d",
+      "sha1": "2cc98260bb0e377c245f0a6704614be48b667abf",
+      "format": "JSON"
+    },
+    {
+      "name": "vulture-2022-08-05T00:47:12.601953-04:00.jpg",
+      "source": "original",
+      "mtime": "1659674833",
+      "size": "295909",
+      "md5": "9bff39d08d2d7e07fcb5666de0a681ef",
+      "crc32": "c592e2f5",
+      "sha1": "885826a10d1c31cb6d9c62a7b9041aa2eba50fd5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vulture-2022-08-05T00:47:12.601953-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659674838",
+      "size": "1464",
+      "md5": "3bd8c4a2fef858669c6d7d660f8f49fd",
+      "crc32": "0f9376b6",
+      "sha1": "45ddf1106825d6e16e64c5b19075fbf6bc012c90",
+      "format": "JSON"
+    },
+    {
+      "name": "vulture-2022-08-05T00:47:12.601953-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vulture-2022-08-05T00:47:12.601953-04:00.jpg",
+      "mtime": "1659677912",
+      "size": "9621",
+      "md5": "68d5ce9f121247050121436479589c0c",
+      "crc32": "281b372b",
+      "sha1": "b4dba23dd9b90b63950930125feb3ed90e0caf58"
+    },
+    {
       "name": "vulture-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0e220eb73fc5224d6ad1d0fa41e36d8777379cf5",
-      "mtime": "1659637864",
-      "size": "6847",
-      "md5": "710f9f21467526cf1e31f1110bd7671c",
-      "crc32": "b911d89b",
-      "sha1": "f00725070c2e8ffbfe9bf15c01532227aadedd21",
+      "btih": "36f2be472c12e5a6681fae6e3a6eec951cf25ef6",
+      "mtime": "1659677982",
+      "size": "7902",
+      "md5": "20ad49c0a77e088f97e98e610e0771be",
+      "crc32": "2aab47bd",
+      "sha1": "7737dd76a6d5263e897236bed7b4ca1c942fc80e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "vulture-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "de8fa7ce350d98c6849a3c64b5ea45a6",
+      "md5": "a1029196fcb105fb39e19e9b1cb763c5",
       "summation": "md5"
     },
     {
       "name": "vulture-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659632932",
-      "size": "49152",
-      "md5": "b94af88bcbc881eed797bfc02ef8c75f",
-      "crc32": "b57de6c5",
-      "sha1": "9f4a2e9f3dfd6334fefa0014eafedbd1a6d496e7",
+      "mtime": "1659674842",
+      "size": "53248",
+      "md5": "c179a1b49750ec0923557c77d7cefa2a",
+      "crc32": "afacee74",
+      "sha1": "71302de6ee6142523b0f62c898d06e0416875a28",
       "format": "Metadata"
     },
     {
@@ -314,9 +366,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 30,
-  "item_last_updated": 1659637864,
-  "item_size": 1905570,
+  "files_count": 35,
+  "item_last_updated": 1659677982,
+  "item_size": 2279462,
   "metadata": {
     "identifier": "vulture-2022",
     "collection": [
@@ -333,51 +385,10 @@
     "publicdate": "2022-08-02 16:24:28",
     "addeddate": "2022-08-02 16:24:28"
   },
-  "server": "ia801505.us.archive.org",
-  "uniq": 1822537263,
-  "vulture-2022": [
-    {
-      "url": "https://www.vulture.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vulture_com-_-2022_08_04_16_29_42.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vulture_com-_-2022_08_04_16_29_42.report.json",
-      "summary": {
-        "performance": 0.19,
-        "accessibility": 0.9,
-        "best-practices": 0.92,
-        "seo": 0.92,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.vulture.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vulture_com-_-2022_08_04_16_30_17.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vulture_com-_-2022_08_04_16_30_17.report.json",
-      "summary": {
-        "performance": 0.22,
-        "accessibility": 0.9,
-        "best-practices": 0.92,
-        "seo": 0.92,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.vulture.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vulture_com-_-2022_08_04_16_30_36.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vulture_com-_-2022_08_04_16_30_36.report.json",
-      "summary": {
-        "performance": 0.22,
-        "accessibility": 0.9,
-        "best-practices": 0.92,
-        "seo": 0.92,
-        "pwa": 0.4
-      }
-    }
-  ],
+  "server": "ia601505.us.archive.org",
+  "uniq": 209793336,
   "workable_servers": [
-    "ia801505.us.archive.org",
-    "ia601505.us.archive.org"
+    "ia601505.us.archive.org",
+    "ia801505.us.archive.org"
   ]
 }

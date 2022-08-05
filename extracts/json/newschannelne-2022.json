@@ -1,5 +1,5 @@
 {
-  "created": 1659660592,
+  "created": 1659683012,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/16/items/newschannelne-2022",
@@ -588,31 +588,83 @@
       "sha1": "dfa0e9244fd90d7083b47a7558e0322dafd4af4b"
     },
     {
+      "name": "newschannelne-2022-08-04T20:45:45.868458-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659663949",
+      "size": "21722",
+      "md5": "c511b575bd21fe9cffa30a3168ec8a0c",
+      "crc32": "87923280",
+      "sha1": "0ff263cecf30bb35d980eeadd5b704e8c4d543eb",
+      "format": "JSON"
+    },
+    {
+      "name": "newschannelne-2022-08-04T20:45:45.868458-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659663950",
+      "size": "22509",
+      "md5": "05b370573ed9fa5e76737c984a27b316",
+      "crc32": "9d1e8286",
+      "sha1": "62bc216a9340a7b9071498029c03375cb8a7e264",
+      "format": "JSON"
+    },
+    {
+      "name": "newschannelne-2022-08-04T20:45:45.868458-05:00.jpg",
+      "source": "original",
+      "mtime": "1659663947",
+      "size": "275280",
+      "md5": "f799908aa8b2152e02f034d01abe870b",
+      "crc32": "7f9f3a8b",
+      "sha1": "8ad0b32ef64afc592803df667ff64a14f3833b79",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newschannelne-2022-08-04T20:45:45.868458-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659663951",
+      "size": "1594",
+      "md5": "c44f2d41a44e555ef60143bb734dd171",
+      "crc32": "ffd23a78",
+      "sha1": "17b4a8b726fa6f0d592c0272c80cf04de53342a9",
+      "format": "JSON"
+    },
+    {
+      "name": "newschannelne-2022-08-04T20:45:45.868458-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newschannelne-2022-08-04T20:45:45.868458-05:00.jpg",
+      "mtime": "1659666430",
+      "size": "9651",
+      "md5": "87cc9364ada95923ac09a43de6da3119",
+      "crc32": "ff1e907f",
+      "sha1": "c891f4d09c072a1fced20ce467acaf0dae842292"
+    },
+    {
       "name": "newschannelne-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9fcd4e0309282dc5b8209af89a39db7a6009f992",
-      "mtime": "1659622233",
-      "size": "13497",
-      "md5": "16bbb5ade22317c989baa9a1c54ca9bf",
-      "crc32": "cc2c6995",
-      "sha1": "31abd2fe376a629a6062d7666ff401351230ab32",
+      "btih": "55b161e41ea8771084c5a5c19cadea27cbdcabfc",
+      "mtime": "1659666434",
+      "size": "14581",
+      "md5": "c081fc4b9309bde5006842c6df7d41a4",
+      "crc32": "09b1c5af",
+      "sha1": "ef90a27279fb236c7d6a8493931fce6c6cc6a223",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newschannelne-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cf2d32e67ceeab861dc46c03ef41d4af",
+      "md5": "d0c758f9006c60883def14e30289ea1b",
       "summation": "md5"
     },
     {
       "name": "newschannelne-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659616683",
-      "size": "81920",
-      "md5": "a85ff75a18ad7f9b1113e7d55e1498f6",
-      "crc32": "e0d36e87",
-      "sha1": "3e2be625c9e5961442b147d43dfe481d39983117",
+      "mtime": "1659663955",
+      "size": "86016",
+      "md5": "69460f1c3f6497b6fec36f5a3ccbb79c",
+      "crc32": "19daa001",
+      "sha1": "3358f8191412089c69566c1b3c1f96aa29f87c4c",
       "format": "Metadata"
     },
     {
@@ -626,9 +678,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 60,
-  "item_last_updated": 1659622233,
-  "item_size": 3460625,
+  "files_count": 65,
+  "item_last_updated": 1659666434,
+  "item_size": 3796561,
   "metadata": {
     "identifier": "newschannelne-2022",
     "collection": [
@@ -645,51 +697,10 @@
     "publicdate": "2022-07-30 19:35:12",
     "addeddate": "2022-07-30 19:35:12"
   },
-  "newschannelne-2022": [
-    {
-      "url": "https://metro.newschannelnebraska.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/metro_newschannelnebraska_com-_-2022_08_04_12_10_16.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/metro_newschannelnebraska_com-_-2022_08_04_12_10_16.report.json",
-      "summary": {
-        "performance": 0.15,
-        "accessibility": 0.84,
-        "best-practices": 0.67,
-        "seo": 0.77,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://metro.newschannelnebraska.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/metro_newschannelnebraska_com-_-2022_08_04_12_10_52.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/metro_newschannelnebraska_com-_-2022_08_04_12_10_52.report.json",
-      "summary": {
-        "performance": 0.15,
-        "accessibility": 0.84,
-        "best-practices": 0.67,
-        "seo": 0.77,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://metro.newschannelnebraska.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/metro_newschannelnebraska_com-_-2022_08_04_12_11_41.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/metro_newschannelnebraska_com-_-2022_08_04_12_11_41.report.json",
-      "summary": {
-        "performance": 0.15,
-        "accessibility": 0.84,
-        "best-practices": 0.67,
-        "seo": 0.77,
-        "pwa": 0.3
-      }
-    }
-  ],
-  "server": "ia801401.us.archive.org",
-  "uniq": 1073097853,
+  "server": "ia601401.us.archive.org",
+  "uniq": 292484545,
   "workable_servers": [
-    "ia801401.us.archive.org",
-    "ia601401.us.archive.org"
+    "ia601401.us.archive.org",
+    "ia801401.us.archive.org"
   ]
 }

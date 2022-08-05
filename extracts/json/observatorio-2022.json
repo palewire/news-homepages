@@ -1,5 +1,5 @@
 {
-  "created": 1659651591,
+  "created": 1659677423,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/7/items/observatorio-2022",
@@ -172,31 +172,83 @@
       "sha1": "280d8c407c77a8a2caf35309fd8ed11d286d08cd"
     },
     {
+      "name": "observatorio-2022-08-05T01:37:37.951020-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659674261",
+      "size": "31058",
+      "md5": "a0e4a3c687f55ef6bd3fbae31cd83924",
+      "crc32": "34278b7e",
+      "sha1": "b6b1f6aa8426cbb2f428208f72da251097a6b38e",
+      "format": "JSON"
+    },
+    {
+      "name": "observatorio-2022-08-05T01:37:37.951020-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659674262",
+      "size": "40262",
+      "md5": "2d28854e36659be4c4b010d94aed7c64",
+      "crc32": "33e63ce6",
+      "sha1": "723c608982ba4a2d87e003063f07738795c26fdb",
+      "format": "JSON"
+    },
+    {
+      "name": "observatorio-2022-08-05T01:37:37.951020-03:00.jpg",
+      "source": "original",
+      "mtime": "1659674259",
+      "size": "272619",
+      "md5": "8d498bf2b40cd919a461195c563b12d4",
+      "crc32": "c8b962d3",
+      "sha1": "99138a53e6c4fd8e09e3a057849d190225770b14",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "observatorio-2022-08-05T01:37:37.951020-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659674264",
+      "size": "1627",
+      "md5": "f04e1664a5403d1b0537e343cf0ab100",
+      "crc32": "c5ee009a",
+      "sha1": "4e539cb4a1ade7994122321372e329a31d5cad27",
+      "format": "JSON"
+    },
+    {
+      "name": "observatorio-2022-08-05T01:37:37.951020-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "observatorio-2022-08-05T01:37:37.951020-03:00.jpg",
+      "mtime": "1659677376",
+      "size": "9228",
+      "md5": "f87b65185d8e0c4f7ee4b22428e807af",
+      "crc32": "3df8ed61",
+      "sha1": "62b8450b8334f79f866dbaf4aaa57636544f502c"
+    },
+    {
       "name": "observatorio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f1bf0a27bfcfd7d7df760f97be9652ab0ff3ca9e",
-      "mtime": "1659651562",
-      "size": "4876",
-      "md5": "3a18e6153468061cb1294a961fec33f2",
-      "crc32": "b02f232c",
-      "sha1": "c6a793f6b74de8e0e0ac76245303c064e5922ada",
+      "btih": "5a5603f4b8a1e8c99fef81370491217bf5a23320",
+      "mtime": "1659677411",
+      "size": "5935",
+      "md5": "d62f8425f179e2080955f7bb298614c9",
+      "crc32": "c046d066",
+      "sha1": "366be31cc8a52bc4cf2af19bf8b39899a31df776",
       "format": "Archive BitTorrent"
     },
     {
       "name": "observatorio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9b350c4876fbd711272f4e2fcf69ec01",
+      "md5": "5e03cf35802cedb5e635772d2ed49447",
       "summation": "md5"
     },
     {
       "name": "observatorio-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659647911",
-      "size": "36864",
-      "md5": "da5c537e2b87d2b21a1dcfbbb9f4e9c8",
-      "crc32": "0d37f23b",
-      "sha1": "e28681637884ffd02ae653f51b743bfb280abc52",
+      "mtime": "1659674266",
+      "size": "45056",
+      "md5": "080e689c0aad6ed8fdb6ced06785696d",
+      "crc32": "3aec3532",
+      "sha1": "7f8a5d0686861dc60a4045dcc290818d83a154d1",
       "format": "Metadata"
     },
     {
@@ -210,9 +262,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 20,
-  "item_last_updated": 1659651562,
-  "item_size": 1122714,
+  "files_count": 25,
+  "item_last_updated": 1659677411,
+  "item_size": 1486759,
   "metadata": {
     "identifier": "observatorio-2022",
     "collection": [
@@ -229,10 +281,10 @@
     "publicdate": "2022-08-04 04:55:35",
     "addeddate": "2022-08-04 04:55:35"
   },
-  "server": "ia802500.us.archive.org",
-  "uniq": 1453764511,
+  "server": "ia902500.us.archive.org",
+  "uniq": 1060352186,
   "workable_servers": [
-    "ia802500.us.archive.org",
-    "ia902500.us.archive.org"
+    "ia902500.us.archive.org",
+    "ia802500.us.archive.org"
   ]
 }

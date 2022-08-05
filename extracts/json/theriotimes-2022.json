@@ -1,5 +1,5 @@
 {
-  "created": 1659661096,
+  "created": 1659683250,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/24/items/theriotimes-2022",
@@ -142,31 +142,73 @@
       "sha1": "f39b262534c61b1d950c0e69772a2d6ee9bef149"
     },
     {
+      "name": "theriotimes-2022-08-04T22:59:04.822030-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659664748",
+      "size": "1176",
+      "md5": "23f90cc1c0f26bc8c2b55885e71a918c",
+      "crc32": "ca8b40ad",
+      "sha1": "83ae3cc6f4d03587e6dce4e8527e0b39e777a867",
+      "format": "JSON"
+    },
+    {
+      "name": "theriotimes-2022-08-04T22:59:04.822030-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659664749",
+      "size": "285",
+      "md5": "e1355b198eaa7662569a55b0f0f82933",
+      "crc32": "2c0b7c03",
+      "sha1": "b014da13c6883428d6dc8ebdb524cd92801e8415",
+      "format": "JSON"
+    },
+    {
+      "name": "theriotimes-2022-08-04T22:59:04.822030-03:00.jpg",
+      "source": "original",
+      "mtime": "1659664746",
+      "size": "58224",
+      "md5": "ac218b59f3b674faed6950aa033c5206",
+      "crc32": "6bdb66c0",
+      "sha1": "7b15a96c3ca50bac0b5c7a662a43b46a0370b952",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theriotimes-2022-08-04T22:59:04.822030-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theriotimes-2022-08-04T22:59:04.822030-03:00.jpg",
+      "mtime": "1659667342",
+      "size": "5446",
+      "md5": "ee2c89db0aed6347ae4749d4d86cc878",
+      "crc32": "c04a872e",
+      "sha1": "714a03d69ffc9b8d201366bde5ec9bf66c378443"
+    },
+    {
       "name": "theriotimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2ee976bee2536425469b5fbb46a0b1b803d3ecd1",
-      "mtime": "1659651571",
-      "size": "4163",
-      "md5": "2b4fb730453a3823a04e0da1aa8ae01e",
-      "crc32": "a7945891",
-      "sha1": "d8c3ea0552a5a556ec3baf0ed17024b09cf6ba9c",
+      "btih": "0fa05a2182a59f822f86cb55e827d913cacf2f95",
+      "mtime": "1659667346",
+      "size": "5000",
+      "md5": "c75924964eb3570c5aa17fb265ff55c7",
+      "crc32": "a6082f77",
+      "sha1": "dd8595f92d7574b00406148947dd88b8aba6c611",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theriotimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9c077e81180d1627cb4a983fa8c8f934",
+      "md5": "0f45306c9219637012b38bb2fc3a67e9",
       "summation": "md5"
     },
     {
       "name": "theriotimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659648011",
-      "size": "32768",
-      "md5": "0b3ff362a155f7253cf7b19aa73352ea",
-      "crc32": "288ed090",
-      "sha1": "dce08057c2b99b564cf3efa34f7a8c18679058a6",
+      "mtime": "1659664752",
+      "size": "36864",
+      "md5": "5d9899c65546231fe865f26cec2d26d6",
+      "crc32": "7db5087c",
+      "sha1": "a50c37de75bfcb32e21b1c2600b7a22d4b507e0a",
       "format": "Metadata"
     },
     {
@@ -180,9 +222,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 17,
-  "item_last_updated": 1659651571,
-  "item_size": 236519,
+  "files_count": 21,
+  "item_last_updated": 1659667346,
+  "item_size": 306583,
   "metadata": {
     "identifier": "theriotimes-2022",
     "collection": [
@@ -199,20 +241,10 @@
     "publicdate": "2022-08-04 04:56:32",
     "addeddate": "2022-08-04 04:56:32"
   },
-  "server": "ia801502.us.archive.org",
-  "theriotimes-2022": [
-    {
-      "text": "\n            Privacy Pass\n            \n                \n            \n        ",
-      "url": "https://chrome.google.com/webstore/detail/privacy-pass/ajhmfdgkijocedmfjonnpjfojldioehi"
-    },
-    {
-      "text": "Cloudflare",
-      "url": "https://www.cloudflare.com"
-    }
-  ],
-  "uniq": 1755379039,
+  "server": "ia601502.us.archive.org",
+  "uniq": 344058710,
   "workable_servers": [
-    "ia801502.us.archive.org",
-    "ia601502.us.archive.org"
+    "ia601502.us.archive.org",
+    "ia801502.us.archive.org"
   ]
 }

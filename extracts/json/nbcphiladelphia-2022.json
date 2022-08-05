@@ -1,5 +1,5 @@
 {
-  "created": 1659660579,
+  "created": 1659683004,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/4/items/nbcphiladelphia-2022",
@@ -3322,31 +3322,83 @@
       "sha1": "ba1e3245ebd8a11bc788ce941bf1baa67dad11ae"
     },
     {
+      "name": "nbcphiladelphia-2022-08-04T21:44:25.471676-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659663869",
+      "size": "52132",
+      "md5": "8c6c22bd719582a7cd618ed0765c30e4",
+      "crc32": "8c2992de",
+      "sha1": "4c25eda6bf08cf54814b8087dad609ed1b68d01d",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcphiladelphia-2022-08-04T21:44:25.471676-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659663870",
+      "size": "61469",
+      "md5": "467f143f3ec65debedebb7059f54ff6f",
+      "crc32": "1ac8733b",
+      "sha1": "6ac0c9c7a778038ae9c302214109f4a1dd26a9ec",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcphiladelphia-2022-08-04T21:44:25.471676-04:00.jpg",
+      "source": "original",
+      "mtime": "1659663867",
+      "size": "298207",
+      "md5": "3c2d0200c2093e8f4f829038d75a31f4",
+      "crc32": "4308e965",
+      "sha1": "8991afa4a101228b0b64dbf4ba2a45bf308ef479",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nbcphiladelphia-2022-08-04T21:44:25.471676-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659663872",
+      "size": "1540",
+      "md5": "2a6c048f319e863965ec2b85d4fe5a66",
+      "crc32": "5798b59d",
+      "sha1": "505d4ee98b221cc18a9eaa7de239a544f83ae65a",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcphiladelphia-2022-08-04T21:44:25.471676-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nbcphiladelphia-2022-08-04T21:44:25.471676-04:00.jpg",
+      "mtime": "1659666377",
+      "size": "10138",
+      "md5": "25a7901047f1d44e7a30a5a306a8272f",
+      "crc32": "c3212d75",
+      "sha1": "1108541ff37174dbccea7ba2549ac8b13740d0cb"
+    },
+    {
       "name": "nbcphiladelphia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a992fe88eccf61073a1fb68d884799e55860ec02",
-      "mtime": "1659621598",
-      "size": "70590",
-      "md5": "cf94c5d5217d5683d5ff89ffcb5207f3",
-      "crc32": "dae1a435",
-      "sha1": "eff07b61c089b422c1a0f39af4ba707f37e9e74e",
+      "btih": "cdfda0c0b12e560801f2c6d75e8af06a035bc0e6",
+      "mtime": "1659666382",
+      "size": "71685",
+      "md5": "0cb12e20f2955da8f6164c9538578a17",
+      "crc32": "4b50d23d",
+      "sha1": "ccf0ff2d799ba8171e7668a006d29485c5ccacf5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nbcphiladelphia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a98c89802cbbb74f11ef3699d1243f9d",
+      "md5": "8c3da7bbe098fac2b989f8bb482adc1d",
       "summation": "md5"
     },
     {
       "name": "nbcphiladelphia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659616618",
-      "size": "393216",
-      "md5": "7d1a6d1f9a3ce9d00682e07581a03454",
-      "crc32": "e9ef92e6",
-      "sha1": "3823b1f60cab3a69590d6c3fe2e0f99f8afc7096",
+      "mtime": "1659663877",
+      "size": "405504",
+      "md5": "62d4f40b9268d1a7cd9a2df76b79b42e",
+      "crc32": "01bb7bba",
+      "sha1": "dc45e3c0809ddfd35031d6ca633f3e691a4bc068",
       "format": "Metadata"
     },
     {
@@ -3360,9 +3412,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 321,
-  "item_last_updated": 1659621598,
-  "item_size": 29774957,
+  "files_count": 326,
+  "item_last_updated": 1659666382,
+  "item_size": 30211826,
   "metadata": {
     "identifier": "nbcphiladelphia-2022",
     "collection": [
@@ -3379,51 +3431,10 @@
     "publicdate": "2022-07-03 15:52:43",
     "addeddate": "2022-07-03 15:52:43"
   },
-  "nbcphiladelphia-2022": [
-    {
-      "url": "https://www.nbcphiladelphia.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nbcphiladelphia_com-_-2022_08_04_12_08_49.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nbcphiladelphia_com-_-2022_08_04_12_08_49.report.json",
-      "summary": {
-        "performance": 0.2,
-        "accessibility": 0.83,
-        "best-practices": 0.92,
-        "seo": 0.77,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.nbcphiladelphia.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nbcphiladelphia_com-_-2022_08_04_12_09_19.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nbcphiladelphia_com-_-2022_08_04_12_09_19.report.json",
-      "summary": {
-        "performance": 0.25,
-        "accessibility": 0.83,
-        "best-practices": 0.92,
-        "seo": 0.77,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.nbcphiladelphia.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nbcphiladelphia_com-_-2022_08_04_12_09_40.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nbcphiladelphia_com-_-2022_08_04_12_09_40.report.json",
-      "summary": {
-        "performance": 0.26,
-        "accessibility": 0.83,
-        "best-practices": 0.92,
-        "seo": 0.77,
-        "pwa": 0.4
-      }
-    }
-  ],
-  "server": "ia601401.us.archive.org",
-  "uniq": 1875889025,
+  "server": "ia801401.us.archive.org",
+  "uniq": 360723229,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia801401.us.archive.org",
+    "ia601401.us.archive.org"
   ]
 }

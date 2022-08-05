@@ -1,5 +1,5 @@
 {
-  "created": 1659630766,
+  "created": 1659673008,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/12/items/kansasdotcom-2022",
@@ -162,31 +162,83 @@
       "sha1": "c70d5c6bed60f386d0c0dc42132c5af7689a3bcc"
     },
     {
+      "name": "kansasdotcom-2022-08-04T22:20:06.952139-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659669610",
+      "size": "454",
+      "md5": "94b97f5a9ce677fa55ef7e7dd3649a41",
+      "crc32": "81dad6f3",
+      "sha1": "eb578e9dbbca5e7666511463f643c37735dce1a5",
+      "format": "JSON"
+    },
+    {
+      "name": "kansasdotcom-2022-08-04T22:20:06.952139-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659669612",
+      "size": "35562",
+      "md5": "4226b5312957d1276ebb5840f1535496",
+      "crc32": "acb3759e",
+      "sha1": "1a6c9df584993798846a5cdb5d6d71e17d3fa92d",
+      "format": "JSON"
+    },
+    {
+      "name": "kansasdotcom-2022-08-04T22:20:06.952139-05:00.jpg",
+      "source": "original",
+      "mtime": "1659669608",
+      "size": "274039",
+      "md5": "cb5380edcd39423cfa68ce28b2e5a7bf",
+      "crc32": "cd884de0",
+      "sha1": "549f08699ad3c7e00b3eb25e62e314352fea6f7f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kansasdotcom-2022-08-04T22:20:06.952139-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659669613",
+      "size": "1459",
+      "md5": "45337b1f1c0743eb0a7b03e3fa79aee2",
+      "crc32": "e1c307e0",
+      "sha1": "3254200d23af69fa180a8570cb3feaf9dfbc8b6e",
+      "format": "JSON"
+    },
+    {
+      "name": "kansasdotcom-2022-08-04T22:20:06.952139-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kansasdotcom-2022-08-04T22:20:06.952139-05:00.jpg",
+      "mtime": "1659672975",
+      "size": "9294",
+      "md5": "687fe58cafd3172eb1b7f2181075d64c",
+      "crc32": "6d992b00",
+      "sha1": "cfbaae2766607df090b979130427ab58f229e02f"
+    },
+    {
       "name": "kansasdotcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "72b943ea01cdaa4420165f32158f6cde94449a85",
-      "mtime": "1659630631",
-      "size": "4638",
-      "md5": "6744b85217fbb0e48d4de27b161fe553",
-      "crc32": "8ae6aa1c",
-      "sha1": "908707530e816038988a1ba2f80c8c876cd25ce3",
+      "btih": "f6bb3c9dffb75230ce9412cfcb6072cf7c0cffee",
+      "mtime": "1659672993",
+      "size": "5715",
+      "md5": "a34c5928de49b9f9ab7aab009248b593",
+      "crc32": "75378098",
+      "sha1": "e834b25c2ec6751098fd0da73820bfc6016b71cd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kansasdotcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1fea589ebbda5ddf5847c3ae7ac546e8",
+      "md5": "b08076ce8a6db338cf64e7b803a874a8",
       "summation": "md5"
     },
     {
       "name": "kansasdotcom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659626719",
-      "size": "36864",
-      "md5": "cd268c56c6f330b8ae1805824344bcad",
-      "crc32": "3e4e9727",
-      "sha1": "6e1cdc28657d73451f9f43246034d78ae1e7c357",
+      "mtime": "1659669622",
+      "size": "40960",
+      "md5": "86b14f7401b968589e498aaf897f7291",
+      "crc32": "9f1413b6",
+      "sha1": "2b4b612d07f2601c6dfc582ac8766bc741e60810",
       "format": "Metadata"
     },
     {
@@ -200,9 +252,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 19,
-  "item_last_updated": 1659630631,
-  "item_size": 1022889,
+  "files_count": 24,
+  "item_last_updated": 1659672993,
+  "item_size": 1348870,
   "metadata": {
     "identifier": "kansasdotcom-2022",
     "collection": [
@@ -219,10 +271,10 @@
     "publicdate": "2022-08-03 18:53:47",
     "addeddate": "2022-08-03 18:53:47"
   },
-  "server": "ia601401.us.archive.org",
-  "uniq": 1139453043,
+  "server": "ia801401.us.archive.org",
+  "uniq": 1883987825,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia801401.us.archive.org",
+    "ia601401.us.archive.org"
   ]
 }

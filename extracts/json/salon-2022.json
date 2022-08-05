@@ -1,5 +1,5 @@
 {
-  "created": 1659644571,
+  "created": 1659683138,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/2/items/salon-2022",
@@ -2490,31 +2490,83 @@
       "sha1": "46d8cb089e4a12ecf8055b9770caf80a04cc0d53"
     },
     {
+      "name": "salon-2022-08-05T00:41:30.789770-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659674493",
+      "size": "14500",
+      "md5": "bec3ae732b0d4a9eda47870819ad7413",
+      "crc32": "da45aab1",
+      "sha1": "a19eb50ab7066ea175fa503c512b5f3f4665b040",
+      "format": "JSON"
+    },
+    {
+      "name": "salon-2022-08-05T00:41:30.789770-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659674494",
+      "size": "45576",
+      "md5": "2b96f68ebe36151b21796ed59f5a9981",
+      "crc32": "8f81e1c4",
+      "sha1": "bb2899966638f1ef89c198e6aee7e05db29d8301",
+      "format": "JSON"
+    },
+    {
+      "name": "salon-2022-08-05T00:41:30.789770-04:00.jpg",
+      "source": "original",
+      "mtime": "1659674491",
+      "size": "305282",
+      "md5": "89483ec6a19784b5d1509475a03caa84",
+      "crc32": "64c2314b",
+      "sha1": "8e1fbf7fe36518b1b5fd21adb98c1b3016ec2bda",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "salon-2022-08-05T00:41:30.789770-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659674496",
+      "size": "1450",
+      "md5": "129dc609386a4bc8c8312f7a540c4645",
+      "crc32": "4a5b4ff7",
+      "sha1": "58233372f190b0d3e210acaf2332f4ba203ab043",
+      "format": "JSON"
+    },
+    {
+      "name": "salon-2022-08-05T00:41:30.789770-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "salon-2022-08-05T00:41:30.789770-04:00.jpg",
+      "mtime": "1659677635",
+      "size": "10504",
+      "md5": "1d120042f6155405c34f1a5440ef332b",
+      "crc32": "5fded575",
+      "sha1": "a4f0bfa8983a2efa0277343606e5daf4cefe6f0f"
+    },
+    {
       "name": "salon-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fd1485cef234373ca8a9d37ec8fd4d26254b154f",
-      "mtime": "1659644515",
-      "size": "50872",
-      "md5": "879b8d5561526b4794df7a0b524b765e",
-      "crc32": "73293d19",
-      "sha1": "8ad3706341ec726b89f15dd2969b764fde279b4a",
+      "btih": "39dfe56b422a04daee5823107af4ea26761f9217",
+      "mtime": "1659677639",
+      "size": "51917",
+      "md5": "e1dfae837402e423be928deb87ad3304",
+      "crc32": "6c8a0cad",
+      "sha1": "cae59c9640c444a3890f326c70e37adc90cb698c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "salon-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f52cf0ed19f13aec9571cbe5119129cf",
+      "md5": "f9434896f44098d49683ee07bd2539cb",
       "summation": "md5"
     },
     {
       "name": "salon-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659638814",
-      "size": "303104",
-      "md5": "bd2a788b21886653dcc8fe248b47e18d",
-      "crc32": "16ac247e",
-      "sha1": "5effbf123709076a2d407bbb37a32f7f4e447d7a",
+      "mtime": "1659674499",
+      "size": "307200",
+      "md5": "555e2ca7a81ef7989f0edec7fc7cd867",
+      "crc32": "dfd3a8e7",
+      "sha1": "1686dd41cae54d43435f2988d56cae1b24e9c7a2",
       "format": "Metadata"
     },
     {
@@ -2528,9 +2580,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 242,
-  "item_last_updated": 1659644515,
-  "item_size": 19950671,
+  "files_count": 247,
+  "item_last_updated": 1659677639,
+  "item_size": 20333124,
   "metadata": {
     "identifier": "salon-2022",
     "collection": [
@@ -2548,7 +2600,7 @@
     "addeddate": "2022-07-18 10:57:18"
   },
   "server": "ia801406.us.archive.org",
-  "uniq": 108841395,
+  "uniq": 1708297552,
   "workable_servers": [
     "ia801406.us.archive.org",
     "ia601406.us.archive.org"

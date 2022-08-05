@@ -1,5 +1,5 @@
 {
-  "created": 1659660452,
+  "created": 1659682919,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/14/items/ledevoir-2022",
@@ -3994,31 +3994,83 @@
       "sha1": "cae406f271da2cb4dc072390bd32c50b5895b0bb"
     },
     {
+      "name": "ledevoir-2022-08-04T23:23:13.313192-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659669796",
+      "size": "39545",
+      "md5": "5d442ebeb37c7987efaad3c24e56c713",
+      "crc32": "129fb7d8",
+      "sha1": "a1676ce5e0d7b9d9c0aaf1d19b2f656c2bfd99da",
+      "format": "JSON"
+    },
+    {
+      "name": "ledevoir-2022-08-04T23:23:13.313192-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659669798",
+      "size": "116922",
+      "md5": "e84870e087598ecba4e028e2bb8f8f80",
+      "crc32": "513a13d4",
+      "sha1": "30fed6174fbfe9c22a746ff584f1837f32305b95",
+      "format": "JSON"
+    },
+    {
+      "name": "ledevoir-2022-08-04T23:23:13.313192-04:00.jpg",
+      "source": "original",
+      "mtime": "1659669794",
+      "size": "288593",
+      "md5": "c950668b6fe4e340fce510843cb506fc",
+      "crc32": "29e14b2c",
+      "sha1": "b46405185959ed95d8d5c38773eb1216b6d2ed15",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ledevoir-2022-08-04T23:23:13.313192-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659669800",
+      "size": "1477",
+      "md5": "828c1d65620fdb9bc77705be2a432670",
+      "crc32": "ee95b31b",
+      "sha1": "ff4db616ba975e8e535a8fa035622fd95a8e617b",
+      "format": "JSON"
+    },
+    {
+      "name": "ledevoir-2022-08-04T23:23:13.313192-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ledevoir-2022-08-04T23:23:13.313192-04:00.jpg",
+      "mtime": "1659673265",
+      "size": "9554",
+      "md5": "1724a2c0f6716d49c0b197edc4d5acf4",
+      "crc32": "971fb9a7",
+      "sha1": "d792d8389a9ceadfa7da26fdebe952131bd4c6a7"
+    },
+    {
       "name": "ledevoir-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f38c609c19603a1074c9ac49ff751a9e54a9f77c",
-      "mtime": "1659631195",
-      "size": "82101",
-      "md5": "f5293ebd49925ea5dd5faab4a2c92801",
-      "crc32": "d25f0135",
-      "sha1": "33a679d7b47c2e5745c9cfd4451cf3fa109f1702",
+      "btih": "e6d211074f866da1d6052958a787d714f01190f2",
+      "mtime": "1659673273",
+      "size": "83161",
+      "md5": "14c51de41c3044f8b10e958ebd8435b4",
+      "crc32": "a708f917",
+      "sha1": "3402e74c330158eada8f04e846d9406920589ebc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ledevoir-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "167f9454728dff25d16fc2c7e48edc92",
+      "md5": "93117d95d7f6e13ee927f0a42a68345c",
       "summation": "md5"
     },
     {
       "name": "ledevoir-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659626858",
-      "size": "462848",
-      "md5": "54b72a0ca0e3c93c2d34b4e0e87362ec",
-      "crc32": "df56695f",
-      "sha1": "ffe6483fcdc42bfb3aafa4bba0ad694d26b411ad",
+      "mtime": "1659669805",
+      "size": "471040",
+      "md5": "3e75801ffe2af7f4b4fbadc7da4615b0",
+      "crc32": "a4a89e8b",
+      "sha1": "e390911d4098b32dbd188b134886a3b5306703ca",
       "format": "Metadata"
     },
     {
@@ -4032,50 +4084,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 385,
-  "item_last_updated": 1659631195,
-  "item_size": 41357342,
-  "ledevoir-2022": [
-    {
-      "url": "https://www.ledevoir.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ledevoir_com-_-2022_08_04_15_00_10.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ledevoir_com-_-2022_08_04_15_00_10.report.json",
-      "summary": {
-        "performance": 0.08,
-        "accessibility": 0.84,
-        "best-practices": 0.83,
-        "seo": 0.92,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://www.ledevoir.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ledevoir_com-_-2022_08_04_15_01_03.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ledevoir_com-_-2022_08_04_15_01_03.report.json",
-      "summary": {
-        "performance": 0.09,
-        "accessibility": 0.84,
-        "best-practices": 0.83,
-        "seo": 0.92,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://www.ledevoir.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ledevoir_com-_-2022_08_04_15_00_38.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ledevoir_com-_-2022_08_04_15_00_38.report.json",
-      "summary": {
-        "performance": 0.11,
-        "accessibility": 0.84,
-        "best-practices": 0.83,
-        "seo": 0.92,
-        "pwa": 0.3
-      }
-    }
-  ],
+  "files_count": 390,
+  "item_last_updated": 1659673273,
+  "item_size": 41822685,
   "metadata": {
     "identifier": "ledevoir-2022",
     "collection": [
@@ -4092,10 +4103,10 @@
     "publicdate": "2022-06-30 22:35:31",
     "addeddate": "2022-06-30 22:35:31"
   },
-  "server": "ia802504.us.archive.org",
-  "uniq": 671827204,
+  "server": "ia902504.us.archive.org",
+  "uniq": 1273099979,
   "workable_servers": [
-    "ia802504.us.archive.org",
-    "ia902504.us.archive.org"
+    "ia902504.us.archive.org",
+    "ia802504.us.archive.org"
   ]
 }

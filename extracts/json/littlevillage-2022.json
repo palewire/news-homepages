@@ -1,5 +1,5 @@
 {
-  "created": 1659660474,
+  "created": 1659666009,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/35/items/littlevillage-2022",
@@ -4904,31 +4904,83 @@
       "sha1": "00077c0cff6ffbe89df8b9178faf4713f17057c2"
     },
     {
+      "name": "littlevillage-2022-08-04T20:43:07.949420-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659663790",
+      "size": "30456",
+      "md5": "9e6010d3b22e2e6c61cc6fb0fc60a152",
+      "crc32": "890b543e",
+      "sha1": "7fdb4c45dff57c384624aeb00269d8b285cd15c8",
+      "format": "JSON"
+    },
+    {
+      "name": "littlevillage-2022-08-04T20:43:07.949420-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659663792",
+      "size": "37930",
+      "md5": "8a9db970a9b5ebbfb916aee3126d5c18",
+      "crc32": "64663217",
+      "sha1": "11f7e633b3c45d911099aa4ccfe464c1537ad2db",
+      "format": "JSON"
+    },
+    {
+      "name": "littlevillage-2022-08-04T20:43:07.949420-05:00.jpg",
+      "source": "original",
+      "mtime": "1659663788",
+      "size": "281396",
+      "md5": "0b9622fd7e29bd205fa002c45fbb828d",
+      "crc32": "b2548667",
+      "sha1": "3f561f540fba519d8d1b2ded385e0706fa1556cf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "littlevillage-2022-08-04T20:43:07.949420-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659663793",
+      "size": "1510",
+      "md5": "d360b8930e7193e8f24f141c4884a3d9",
+      "crc32": "c38c85d0",
+      "sha1": "c8977cd017637df866e288de10b24160caa1ec4b",
+      "format": "JSON"
+    },
+    {
+      "name": "littlevillage-2022-08-04T20:43:07.949420-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "littlevillage-2022-08-04T20:43:07.949420-05:00.jpg",
+      "mtime": "1659665985",
+      "size": "9419",
+      "md5": "e0ffc522ff4ccf426b074ae48c2daf06",
+      "crc32": "902a6c6f",
+      "sha1": "3139cc4241cc702c8f48e09ee06fe01f2bd8cb2b"
+    },
+    {
       "name": "littlevillage-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d31d20f789eb1406d568e2acea39951c0b5cd0b3",
-      "mtime": "1659621481",
-      "size": "102505",
-      "md5": "101e3ee28990e86a9117f87e3d2f07b9",
-      "crc32": "23d2ea5d",
-      "sha1": "6e755d06c589d9c43c51750f6d972c7dba3c0d72",
+      "btih": "471293b7c801caf1af612142051b723188fb2005",
+      "mtime": "1659665999",
+      "size": "103589",
+      "md5": "34e15ecf18b46d89fe72e7240aeb4897",
+      "crc32": "9aa78c0b",
+      "sha1": "948a218dbe0ba0e176783e13e67b9e41572ed94b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "littlevillage-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5ed217e1198c5fb2e7e1ff7e9d5d8337",
+      "md5": "cf5465d8dbdff80e75b309d82a2b0d27",
       "summation": "md5"
     },
     {
       "name": "littlevillage-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659616466",
-      "size": "573440",
-      "md5": "05e4a04e7f8ff80961e3bf7f80e354a9",
-      "crc32": "e95f596b",
-      "sha1": "bf14a4840ad3b6f5625d869a8e9591e88df3195f",
+      "mtime": "1659663799",
+      "size": "577536",
+      "md5": "30a6abafaffe41df5eb435833edb458a",
+      "crc32": "42741066",
+      "sha1": "cf5dca6247eb2f1ab871fee3f5f31e7f5cd63c52",
       "format": "Metadata"
     },
     {
@@ -4942,50 +4994,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 472,
-  "item_last_updated": 1659621481,
-  "item_size": 42993177,
-  "littlevillage-2022": [
-    {
-      "url": "https://littlevillagemag.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/littlevillagemag_com-_-2022_08_04_12_06_21.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/littlevillagemag_com-_-2022_08_04_12_06_21.report.json",
-      "summary": {
-        "performance": 0.05,
-        "accessibility": 0.6,
-        "best-practices": 0.83,
-        "seo": 0.79,
-        "pwa": 0.6
-      }
-    },
-    {
-      "url": "https://littlevillagemag.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/littlevillagemag_com-_-2022_08_04_12_07_29.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/littlevillagemag_com-_-2022_08_04_12_07_29.report.json",
-      "summary": {
-        "performance": 0.1,
-        "accessibility": 0.6,
-        "best-practices": 0.83,
-        "seo": 0.79,
-        "pwa": 0.6
-      }
-    },
-    {
-      "url": "https://littlevillagemag.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/littlevillagemag_com-_-2022_08_04_12_06_52.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/littlevillagemag_com-_-2022_08_04_12_06_52.report.json",
-      "summary": {
-        "performance": 0.12,
-        "accessibility": 0.6,
-        "best-practices": 0.83,
-        "seo": 0.79,
-        "pwa": 0.6
-      }
-    }
-  ],
+  "files_count": 477,
+  "item_last_updated": 1659665999,
+  "item_size": 43359068,
   "metadata": {
     "identifier": "littlevillage-2022",
     "collection": [
@@ -5002,10 +5013,10 @@
     "publicdate": "2022-06-24 22:57:45",
     "addeddate": "2022-06-24 22:57:45"
   },
-  "server": "ia902507.us.archive.org",
-  "uniq": 480134148,
+  "server": "ia802507.us.archive.org",
+  "uniq": 111359293,
   "workable_servers": [
-    "ia902507.us.archive.org",
-    "ia802507.us.archive.org"
+    "ia802507.us.archive.org",
+    "ia902507.us.archive.org"
   ]
 }

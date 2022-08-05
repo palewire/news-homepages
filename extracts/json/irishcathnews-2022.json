@@ -1,5 +1,5 @@
 {
-  "created": 1659621348,
+  "created": 1659665994,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/17/items/irishcathnews-2022",
@@ -1746,31 +1746,83 @@
       "sha1": "efdfabdba2db999ecba35aac665e456311ff982f"
     },
     {
+      "name": "irishcathnews-2022-08-05T02:39:31.977731+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659663576",
+      "size": "29013",
+      "md5": "c2fb80730c58da74da52c93288226141",
+      "crc32": "5a981469",
+      "sha1": "43ee029ec102247a07fea051c1f7639577de3a8f",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-08-05T02:39:31.977731+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659663577",
+      "size": "27830",
+      "md5": "58251f04ab9b267c669cfc5b9c9596ed",
+      "crc32": "21ea7b95",
+      "sha1": "6158e5cbeb4b9303adc24921ab7dd09ccbdbc94d",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-08-05T02:39:31.977731+01:00.jpg",
+      "source": "original",
+      "mtime": "1659663574",
+      "size": "272114",
+      "md5": "8567a309cb53c5524053b8f92b4c2f15",
+      "crc32": "065fb3f3",
+      "sha1": "f906e4255b59e8d4fdc8d5cfb41fb65dacc7d348",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "irishcathnews-2022-08-05T02:39:31.977731+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659663579",
+      "size": "1522",
+      "md5": "34ca465ba0fa7981b19e299668aa9f88",
+      "crc32": "71c0ced2",
+      "sha1": "bc9fc3f65ff887a34c7c7d53b57a76f1e51b9a31",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-08-05T02:39:31.977731+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "irishcathnews-2022-08-05T02:39:31.977731+01:00.jpg",
+      "mtime": "1659665892",
+      "size": "9247",
+      "md5": "a65c409f9ddd46a8bd78ef6789e3f57c",
+      "crc32": "62238274",
+      "sha1": "08ca4f034cbf48edd221b76c4781b93433dada6a"
+    },
+    {
       "name": "irishcathnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "92dcb2e8e4ad330679cf4bb61a8226258288c696",
-      "mtime": "1659621219",
-      "size": "37443",
-      "md5": "29d269ecb83fc70d2d3469f8529fc606",
-      "crc32": "714fb7e5",
-      "sha1": "77883e285b13703c93fc782b67473e1e6e1ad185",
+      "btih": "c015f78ced6efbc8cc9dc1ad521c7b4d99f50f6a",
+      "mtime": "1659665910",
+      "size": "38507",
+      "md5": "d940c75aa7e5ee1b1fd046457d29585c",
+      "crc32": "40843954",
+      "sha1": "629f221e8a4ca6616d4d3da2d44ccb99c55a5142",
       "format": "Archive BitTorrent"
     },
     {
       "name": "irishcathnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0ab3d5a3bfb0b6c94631a4ba923f1282",
+      "md5": "5bfbb024b90863f1420309ed6f4c73c1",
       "summation": "md5"
     },
     {
       "name": "irishcathnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659616089",
-      "size": "225280",
-      "md5": "e8f1d0ea3e57fc41e898a379dbc83e1b",
-      "crc32": "794219e5",
-      "sha1": "de8450666b56edf6d6ca2c0a94e2e19f2bee1298",
+      "mtime": "1659663582",
+      "size": "229376",
+      "md5": "243695e9aad140b504f1f8ef9eaf44ac",
+      "crc32": "404a37ff",
+      "sha1": "1369af0a5d9f2026338d7ed4c29b3d925502e74c",
       "format": "Metadata"
     },
     {
@@ -1784,9 +1836,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 171,
-  "item_last_updated": 1659621219,
-  "item_size": 12135292,
+  "files_count": 176,
+  "item_last_updated": 1659665910,
+  "item_size": 12480178,
   "metadata": {
     "identifier": "irishcathnews-2022",
     "collection": [
@@ -1803,10 +1855,10 @@
     "publicdate": "2022-07-18 02:23:48",
     "addeddate": "2022-07-18 02:23:48"
   },
-  "server": "ia801409.us.archive.org",
-  "uniq": 1315674891,
+  "server": "ia601409.us.archive.org",
+  "uniq": 1088663986,
   "workable_servers": [
-    "ia801409.us.archive.org",
-    "ia601409.us.archive.org"
+    "ia601409.us.archive.org",
+    "ia801409.us.archive.org"
   ]
 }

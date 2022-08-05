@@ -1,5 +1,5 @@
 {
-  "created": 1659637102,
+  "created": 1659677319,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/6/items/nybooks-2022",
@@ -2902,31 +2902,83 @@
       "sha1": "6c5de77beb206ea7d776cfac5f76612749391880"
     },
     {
+      "name": "nybooks-2022-08-05T00:36:53.372442-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659674216",
+      "size": "21530",
+      "md5": "fb375d2af7eae56fd63e45d704858f4a",
+      "crc32": "52a430b5",
+      "sha1": "99d113dec2ed7cc09e2e59568770cede49fa83af",
+      "format": "JSON"
+    },
+    {
+      "name": "nybooks-2022-08-05T00:36:53.372442-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659674217",
+      "size": "46354",
+      "md5": "e27aef82e7e284f1fbd010d1bbd355d3",
+      "crc32": "d7ae41fc",
+      "sha1": "1b6f779b9f1eab18a1e02453ceb13355faf531fa",
+      "format": "JSON"
+    },
+    {
+      "name": "nybooks-2022-08-05T00:36:53.372442-04:00.jpg",
+      "source": "original",
+      "mtime": "1659674214",
+      "size": "398979",
+      "md5": "667f57fcf8d252114a6441ae5e1e8ab8",
+      "crc32": "821cd888",
+      "sha1": "aa60c2abe844b680bc893d6cad2603dafda9b75d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nybooks-2022-08-05T00:36:53.372442-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659674218",
+      "size": "1468",
+      "md5": "8ce97ab1d288d4be0c0cd87bdc366935",
+      "crc32": "cb21b2b1",
+      "sha1": "af4535bd4b1a58aeceece5fa04e0d68f84b3a9e6",
+      "format": "JSON"
+    },
+    {
+      "name": "nybooks-2022-08-05T00:36:53.372442-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nybooks-2022-08-05T00:36:53.372442-04:00.jpg",
+      "mtime": "1659677295",
+      "size": "10763",
+      "md5": "fd10711bb953f3dfc9afb580ca85d9c0",
+      "crc32": "4681ce60",
+      "sha1": "c1f70d017cdd34433a7bd3ce50fb461258d798c5"
+    },
+    {
       "name": "nybooks-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b224d2ffa6e98f79a22a0b685c83ea270794e31b",
-      "mtime": "1659637075",
-      "size": "59695",
-      "md5": "e29de9e7e4cad1e8ab6fd3b97dc5fc09",
-      "crc32": "85158f6f",
-      "sha1": "86d83b5b34975c368b705d02c40f525f37556dc8",
+      "btih": "f7d6f7dcc12446d56d23f239ce23502ea63eaa7a",
+      "mtime": "1659677301",
+      "size": "60730",
+      "md5": "a25cce7641d465e82c27eb77a124f7cb",
+      "crc32": "965efd9a",
+      "sha1": "83b1f373f4943ba08fed8e54d1b712d59ffb6f1d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nybooks-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ec2d227c309052d289b2bb4ec3d88dfe",
+      "md5": "e9ba894b82778216ca2c3a127a87b952",
       "summation": "md5"
     },
     {
       "name": "nybooks-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659632221",
-      "size": "344064",
-      "md5": "78b506296b433de172a16a18fc058900",
-      "crc32": "bae51b7b",
-      "sha1": "abc8ddcbf340b5415e1772bf03d31c71bced537d",
+      "mtime": "1659674224",
+      "size": "356352",
+      "md5": "a1d133c70518bae6ac0740725b88d096",
+      "crc32": "10c3e779",
+      "sha1": "f13da1fe0baa615d2d6b0924c1db78946f838bea",
       "format": "Metadata"
     },
     {
@@ -2940,9 +2992,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 281,
-  "item_last_updated": 1659637075,
-  "item_size": 27353451,
+  "files_count": 286,
+  "item_last_updated": 1659677301,
+  "item_size": 27845868,
   "metadata": {
     "identifier": "nybooks-2022",
     "collection": [
@@ -2959,10 +3011,10 @@
     "publicdate": "2022-07-04 21:50:06",
     "addeddate": "2022-07-04 21:50:06"
   },
-  "server": "ia601501.us.archive.org",
-  "uniq": 55756537,
+  "server": "ia801501.us.archive.org",
+  "uniq": 1163544495,
   "workable_servers": [
-    "ia601501.us.archive.org",
-    "ia801501.us.archive.org"
+    "ia801501.us.archive.org",
+    "ia601501.us.archive.org"
   ]
 }

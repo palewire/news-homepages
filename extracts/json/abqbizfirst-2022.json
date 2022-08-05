@@ -1,46 +1,5 @@
 {
-  "abqbizfirst-2022": [
-    {
-      "url": "https://www.bizjournals.com/albuquerque/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bizjournals_com-_albuquerque_-2022_08_04_13_18_32.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bizjournals_com-_albuquerque_-2022_08_04_13_18_32.report.json",
-      "summary": {
-        "performance": 0.22,
-        "accessibility": 0.96,
-        "best-practices": 0.67,
-        "seo": 0.89,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.bizjournals.com/albuquerque/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bizjournals_com-_albuquerque_-2022_08_04_13_19_10.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bizjournals_com-_albuquerque_-2022_08_04_13_19_10.report.json",
-      "summary": {
-        "performance": 0.26,
-        "accessibility": 0.96,
-        "best-practices": 0.67,
-        "seo": 0.89,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.bizjournals.com/albuquerque/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bizjournals_com-_albuquerque_-2022_08_04_13_18_51.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bizjournals_com-_albuquerque_-2022_08_04_13_18_51.report.json",
-      "summary": {
-        "performance": 0.26,
-        "accessibility": 0.96,
-        "best-practices": 0.67,
-        "seo": 0.89,
-        "pwa": 0.4
-      }
-    }
-  ],
-  "created": 1659659912,
+  "created": 1659676941,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/8/items/abqbizfirst-2022",
@@ -1733,31 +1692,83 @@
       "sha1": "437abc4b9bd2f2865716efcbab44edffa213a40c"
     },
     {
+      "name": "abqbizfirst-2022-08-04T19:52:09.806991-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659664333",
+      "size": "140",
+      "md5": "14d6ed8d5ed6841100299ceb9433eee9",
+      "crc32": "0dbd1cc3",
+      "sha1": "656b9d0f8e05eacc0db627269756747e0631aa5d",
+      "format": "JSON"
+    },
+    {
+      "name": "abqbizfirst-2022-08-04T19:52:09.806991-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659664335",
+      "size": "20332",
+      "md5": "5e32f994a640b0a9bf313ad3ab334809",
+      "crc32": "7c01bfe4",
+      "sha1": "c34546a63384019656a3620f22673096388a71f1",
+      "format": "JSON"
+    },
+    {
+      "name": "abqbizfirst-2022-08-04T19:52:09.806991-06:00.jpg",
+      "source": "original",
+      "mtime": "1659664331",
+      "size": "231882",
+      "md5": "f57f52d636251baed5d01a6787be05fe",
+      "crc32": "2d5f4da3",
+      "sha1": "c5e6bfc2cabf0dea4acaa2c706a369f4da50704c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "abqbizfirst-2022-08-04T19:52:09.806991-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659664337",
+      "size": "1605",
+      "md5": "b169be49cbe712ffe8bdee205acdcd65",
+      "crc32": "6033efd3",
+      "sha1": "4b6481c866be83a853c1c528cc637fb5e3bc7399",
+      "format": "JSON"
+    },
+    {
+      "name": "abqbizfirst-2022-08-04T19:52:09.806991-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "abqbizfirst-2022-08-04T19:52:09.806991-06:00.jpg",
+      "mtime": "1659666642",
+      "size": "8455",
+      "md5": "3478593e75cd4b703ebe677497fc9b56",
+      "crc32": "9daadc07",
+      "sha1": "cd4c1ba24f14c7b075622f63072c2fcb2b896e7e"
+    },
+    {
       "name": "abqbizfirst-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6094483074ef6b6848a6a9d2bb390528f949d0c6",
-      "mtime": "1659624781",
-      "size": "35862",
-      "md5": "b0a0795850d412b640542e322b11cea8",
-      "crc32": "0211e1c0",
-      "sha1": "33229965814ff936f4e741738b245619ffe0526f",
+      "btih": "250fd08f122611663e21883aa75505bd29554fcc",
+      "mtime": "1659666664",
+      "size": "36914",
+      "md5": "fa3ef2754efaf3d9518943d7d6b68d93",
+      "crc32": "54ded499",
+      "sha1": "89ec9913c6d9821acaa526fffde07051c2664c61",
       "format": "Archive BitTorrent"
     },
     {
       "name": "abqbizfirst-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e8077c0e64d8b426cfa8d6d9a2458bd8",
+      "md5": "349c694a2ec99a6151fff04e0b49a45e",
       "summation": "md5"
     },
     {
       "name": "abqbizfirst-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659620906",
-      "size": "221184",
-      "md5": "1f604e81d338fbb509ee6889583ee24e",
-      "crc32": "f0f7678b",
-      "sha1": "60557f17049bc585815b8f4c38b7486ec86d223b",
+      "mtime": "1659664340",
+      "size": "225280",
+      "md5": "beafeb897b3f14219286f27588296244",
+      "crc32": "c2213f97",
+      "sha1": "f635e23e4e127a4ec7cb82f4dd3c6ab398f9b5e8",
       "format": "Metadata"
     },
     {
@@ -1771,9 +1782,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 166,
-  "item_last_updated": 1659624781,
-  "item_size": 8960587,
+  "files_count": 171,
+  "item_last_updated": 1659666664,
+  "item_size": 9228149,
   "metadata": {
     "identifier": "abqbizfirst-2022",
     "collection": [
@@ -1791,7 +1802,7 @@
     "addeddate": "2022-07-19 01:13:43"
   },
   "server": "ia601401.us.archive.org",
-  "uniq": 757092291,
+  "uniq": 2141539303,
   "workable_servers": [
     "ia601401.us.archive.org",
     "ia801401.us.archive.org"

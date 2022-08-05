@@ -1,5 +1,5 @@
 {
-  "created": 1659660583,
+  "created": 1659683007,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/17/items/nebpublicmedia-2022",
@@ -588,31 +588,83 @@
       "sha1": "faf6eb72f7b232026993081f6e86ae3b992461b7"
     },
     {
+      "name": "nebpublicmedia-2022-08-04T20:44:56.919338-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659663900",
+      "size": "19404",
+      "md5": "7ddd56c6219317876eae393f75aed6c3",
+      "crc32": "cf30e12d",
+      "sha1": "743ecff7b7d5c77167f5c86e2fa4a3f03f47733d",
+      "format": "JSON"
+    },
+    {
+      "name": "nebpublicmedia-2022-08-04T20:44:56.919338-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659663902",
+      "size": "28503",
+      "md5": "38211b4319c3f88756353715b19973f6",
+      "crc32": "013868fb",
+      "sha1": "16f51b91692c2176cafe720787e105060d0abfa1",
+      "format": "JSON"
+    },
+    {
+      "name": "nebpublicmedia-2022-08-04T20:44:56.919338-05:00.jpg",
+      "source": "original",
+      "mtime": "1659663898",
+      "size": "184848",
+      "md5": "be378e90f69f5de7ae69a36cff36aa1c",
+      "crc32": "22577caf",
+      "sha1": "ff6d51782d021999047dbc1699435e55a672b020",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nebpublicmedia-2022-08-04T20:44:56.919338-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659663904",
+      "size": "1562",
+      "md5": "315f01912acd0f95e1fac26caa0468c5",
+      "crc32": "f63a4557",
+      "sha1": "d94b8ec065e10a297d54fb7ffc4918da6e67b93f",
+      "format": "JSON"
+    },
+    {
+      "name": "nebpublicmedia-2022-08-04T20:44:56.919338-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nebpublicmedia-2022-08-04T20:44:56.919338-05:00.jpg",
+      "mtime": "1659666397",
+      "size": "8744",
+      "md5": "7a70a0a657a3fd52b47c9a9bf3fd3313",
+      "crc32": "ed284203",
+      "sha1": "1567df43505ba0c824031936b0459804c3dd228d"
+    },
+    {
       "name": "nebpublicmedia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4eed6ae02c26ee3c611ff88529b1bdf427c52dd6",
-      "mtime": "1659621670",
-      "size": "13540",
-      "md5": "4c0c96bb149aa4d45e93f00d12af0f76",
-      "crc32": "2a0fe81d",
-      "sha1": "0bc6b22cecabf461209f7eee190169f0d5af61b8",
+      "btih": "e8b69fa1dd60b7cab6cba7756240ac42457d536c",
+      "mtime": "1659666405",
+      "size": "14629",
+      "md5": "56adeecf25f699bcdaa05cafa73e22ab",
+      "crc32": "875c0547",
+      "sha1": "7a13c1438abe3eb4d27f1b085c9f3f2e7379d860",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nebpublicmedia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "938ae150ba9a3f6b30f42b50ed1fe833",
+      "md5": "35e4e6afdc5ce8a593ee2b0849121436",
       "summation": "md5"
     },
     {
       "name": "nebpublicmedia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659616637",
-      "size": "81920",
-      "md5": "66006845a86eefc7acb4d7852d29bc60",
-      "crc32": "a73898f0",
-      "sha1": "08ce4006750f4149479a2fb27bcca602885f5262",
+      "mtime": "1659663908",
+      "size": "86016",
+      "md5": "fc709f84f4253db54b5c1ee3e2a8a930",
+      "crc32": "8922d3aa",
+      "sha1": "c0536d7d690d098709182b1effaf905c25a4b67b",
       "format": "Metadata"
     },
     {
@@ -626,9 +678,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 60,
-  "item_last_updated": 1659621670,
-  "item_size": 3011800,
+  "files_count": 65,
+  "item_last_updated": 1659666405,
+  "item_size": 3260046,
   "metadata": {
     "identifier": "nebpublicmedia-2022",
     "collection": [
@@ -645,49 +697,8 @@
     "publicdate": "2022-07-30 19:35:07",
     "addeddate": "2022-07-30 19:35:07"
   },
-  "nebpublicmedia-2022": [
-    {
-      "url": "https://nebraskapublicmedia.org/en/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nebraskapublicmedia_org-_en_-2022_08_04_12_08_55.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nebraskapublicmedia_org-_en_-2022_08_04_12_08_55.report.json",
-      "summary": {
-        "performance": 0.29,
-        "accessibility": 0.9,
-        "best-practices": 0.83,
-        "seo": 0.84,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://nebraskapublicmedia.org/en/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nebraskapublicmedia_org-_en_-2022_08_04_12_09_18.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nebraskapublicmedia_org-_en_-2022_08_04_12_09_18.report.json",
-      "summary": {
-        "performance": 0.42,
-        "accessibility": 0.9,
-        "best-practices": 0.83,
-        "seo": 0.84,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://nebraskapublicmedia.org/en/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nebraskapublicmedia_org-_en_-2022_08_04_12_09_32.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nebraskapublicmedia_org-_en_-2022_08_04_12_09_32.report.json",
-      "summary": {
-        "performance": 0.44,
-        "accessibility": 0.9,
-        "best-practices": 0.83,
-        "seo": 0.84,
-        "pwa": 0.4
-      }
-    }
-  ],
   "server": "ia802504.us.archive.org",
-  "uniq": 267241494,
+  "uniq": 993762435,
   "workable_servers": [
     "ia802504.us.archive.org",
     "ia902504.us.archive.org"

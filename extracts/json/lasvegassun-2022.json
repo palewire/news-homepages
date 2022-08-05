@@ -1,5 +1,5 @@
 {
-  "created": 1659621510,
+  "created": 1659666027,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/12/items/lasvegassun-2022",
@@ -2880,31 +2880,83 @@
       "sha1": "9769842a5ca4797af61a19ebbe0632377603020e"
     },
     {
+      "name": "lasvegassun-2022-08-04T18:43:00.908603-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659663783",
+      "size": "2403",
+      "md5": "83fe8cc0a29ac0b84794195987aa443a",
+      "crc32": "17500db7",
+      "sha1": "8760cdfa2ea3a083423d6ad2ef8ed8720f65204b",
+      "format": "JSON"
+    },
+    {
+      "name": "lasvegassun-2022-08-04T18:43:00.908603-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659663785",
+      "size": "13115",
+      "md5": "8bf1f5479217384e754a5519f06ebf6e",
+      "crc32": "72315173",
+      "sha1": "6390cbe5b67e8142cf34a8ed92935662523a68f9",
+      "format": "JSON"
+    },
+    {
+      "name": "lasvegassun-2022-08-04T18:43:00.908603-07:00.jpg",
+      "source": "original",
+      "mtime": "1659663782",
+      "size": "341964",
+      "md5": "1d9aa9725b4d0d518d4d4d3d6bb38412",
+      "crc32": "0fb48385",
+      "sha1": "52c0d166336e91cdec9ac197366ecd073640cfbb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lasvegassun-2022-08-04T18:43:00.908603-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659663786",
+      "size": "1483",
+      "md5": "2844bc76b0fadb42f46143d7efb7ff65",
+      "crc32": "7e53ee1c",
+      "sha1": "766582257d3cb9e651480c0ceb6896adf4cec920",
+      "format": "JSON"
+    },
+    {
+      "name": "lasvegassun-2022-08-04T18:43:00.908603-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lasvegassun-2022-08-04T18:43:00.908603-07:00.jpg",
+      "mtime": "1659665982",
+      "size": "10116",
+      "md5": "3ae3a699d179545697dc4d22be654b70",
+      "crc32": "76065e9c",
+      "sha1": "f47265bb1753d55acc389164c3ebae071db82240"
+    },
+    {
       "name": "lasvegassun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "de969992fb6f75456b4269b6d727c70fc0da8b29",
-      "mtime": "1659621456",
-      "size": "60202",
-      "md5": "014d05c0d22be3e50c1e7372820cc221",
-      "crc32": "b18c8b63",
-      "sha1": "52b6a0ca44d61e1408ed9ddf168ed858d324cb34",
+      "btih": "1485b15d058712323bdc3802959fc1ce57801145",
+      "mtime": "1659665990",
+      "size": "61256",
+      "md5": "649fc12328d230645777c172893b999d",
+      "crc32": "c6772140",
+      "sha1": "1036f04832f11e8ea44c8ca4d3576072e57a9a89",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lasvegassun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9b1eae4dd763bce728f9887c3b24f182",
+      "md5": "108fe0a115ce312fb92c1d56f657e54a",
       "summation": "md5"
     },
     {
       "name": "lasvegassun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659616376",
-      "size": "348160",
-      "md5": "e626141c695f4d7ab61f5c0bb6ab23f0",
-      "crc32": "a68bac62",
-      "sha1": "45e87388891663eec3bb52845ae679bcdc379e13",
+      "mtime": "1659663791",
+      "size": "352256",
+      "md5": "998f866af1e52c74ea91c92d8eef1dbb",
+      "crc32": "8774362c",
+      "sha1": "6b68e1f3b738336bdd3a48aa1e536bb8af459d94",
       "format": "Metadata"
     },
     {
@@ -2918,9 +2970,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 279,
-  "item_last_updated": 1659621456,
-  "item_size": 23694807,
+  "files_count": 284,
+  "item_last_updated": 1659665990,
+  "item_size": 24069038,
   "metadata": {
     "identifier": "lasvegassun-2022",
     "collection": [
@@ -2938,7 +2990,7 @@
     "addeddate": "2022-07-04 21:55:34"
   },
   "server": "ia801407.us.archive.org",
-  "uniq": 2040340958,
+  "uniq": 2057689642,
   "workable_servers": [
     "ia801407.us.archive.org",
     "ia601407.us.archive.org"

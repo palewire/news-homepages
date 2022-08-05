@@ -1,5 +1,5 @@
 {
-  "created": 1659660893,
+  "created": 1659684189,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/1/items/searchlightnm-2022",
@@ -5306,31 +5306,73 @@
       "sha1": "21a73cfd661335d38409ee1838d4408eeb68234a"
     },
     {
+      "name": "searchlightnm-2022-08-04T19:50:01.237746-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659664204",
+      "size": "12615",
+      "md5": "830c0fbc7135bd9a7055c7a58d78b395",
+      "crc32": "3d2146b6",
+      "sha1": "ab7037c516659a9fa17f72431f74d918358c9a73",
+      "format": "JSON"
+    },
+    {
+      "name": "searchlightnm-2022-08-04T19:50:01.237746-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659664206",
+      "size": "19469",
+      "md5": "5c2c3f497a3ff325d02632a19100125b",
+      "crc32": "e8bbef31",
+      "sha1": "2c2743df417440fe9d3539320975377a0ba122ba",
+      "format": "JSON"
+    },
+    {
+      "name": "searchlightnm-2022-08-04T19:50:01.237746-06:00.jpg",
+      "source": "original",
+      "mtime": "1659664202",
+      "size": "293035",
+      "md5": "7919b510ba87b7c7364e53e0d9353248",
+      "crc32": "73ef0937",
+      "sha1": "5ec9c958be592f350cca28d8bcc5b0adc48addd5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "searchlightnm-2022-08-04T19:50:01.237746-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "searchlightnm-2022-08-04T19:50:01.237746-06:00.jpg",
+      "mtime": "1659666582",
+      "size": "10026",
+      "md5": "628f6753e72ab7b6456f7e0e8d632e2a",
+      "crc32": "4cf38090",
+      "sha1": "21a73cfd661335d38409ee1838d4408eeb68234a"
+    },
+    {
       "name": "searchlightnm-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ce0aa9de0b14587184165a20e0415503dec46b78",
-      "mtime": "1659622034",
-      "size": "110810",
-      "md5": "ea0af0202b64374161fb1566d8d1b773",
-      "crc32": "a1e3b2ba",
-      "sha1": "2b840b3cd980970d742f6e94bdd85f213ebddd16",
+      "btih": "093a761b1b58d50f7ff81d24aa93543742054d77",
+      "mtime": "1659666590",
+      "size": "111680",
+      "md5": "d2caf64b14c8c797243d151c4245668a",
+      "crc32": "4497a1f2",
+      "sha1": "2ec0e01e6d6da1aaa75e747336e31230e6d346c3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "searchlightnm-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3739ea8d442c7317ec85de0c73028358",
+      "md5": "bb314539462c431eb31dd9e83d681f09",
       "summation": "md5"
     },
     {
       "name": "searchlightnm-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659617072",
-      "size": "610304",
-      "md5": "f7f535cd56e20b3f8aa1c20fa00ecc75",
-      "crc32": "0af820f3",
-      "sha1": "25c82e9ca320b2df6a0f8c3045384857d5095a9f",
+      "mtime": "1659664209",
+      "size": "614400",
+      "md5": "6dfdc2f1419f26ea2625d49b23beb654",
+      "crc32": "e9052646",
+      "sha1": "219a11e77ddfaadfa93feb909a203a1a0709e970",
       "format": "Metadata"
     },
     {
@@ -5344,9 +5386,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 510,
-  "item_last_updated": 1659622034,
-  "item_size": 47035079,
+  "files_count": 514,
+  "item_last_updated": 1659666590,
+  "item_size": 47375190,
   "metadata": {
     "identifier": "searchlightnm-2022",
     "collection": [
@@ -5365,47 +5407,492 @@
   },
   "searchlightnm-2022": [
     {
-      "url": "https://searchlightnm.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/searchlightnm_org-_-2022_08_04_12_16_58.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/searchlightnm_org-_-2022_08_04_12_16_58.report.json",
-      "summary": {
-        "performance": 0.19,
-        "accessibility": 0.9,
-        "best-practices": 0.92,
-        "seo": 1,
-        "pwa": 0.3
-      }
+      "text": "",
+      "url": "https://searchlightnm.org/"
     },
     {
-      "url": "https://searchlightnm.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/searchlightnm_org-_-2022_08_04_12_17_47.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/searchlightnm_org-_-2022_08_04_12_17_47.report.json",
-      "summary": {
-        "performance": 0.26,
-        "accessibility": 0.9,
-        "best-practices": 0.92,
-        "seo": 1,
-        "pwa": 0.3
-      }
+      "text": "HOME",
+      "url": "https://searchlightnm.org"
     },
     {
-      "url": "https://searchlightnm.org/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/searchlightnm_org-_-2022_08_04_12_18_09.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/searchlightnm_org-_-2022_08_04_12_18_09.report.json",
-      "summary": {
-        "performance": 0.27,
-        "accessibility": 0.9,
-        "best-practices": 0.92,
-        "seo": 1,
-        "pwa": 0.3
-      }
+      "text": "TOPICS",
+      "url": "https://searchlightnm.org/archive/"
+    },
+    {
+      "text": "Coronavirus",
+      "url": "https://searchlightnm.org/category/coronavirus/"
+    },
+    {
+      "text": "Criminal Justice",
+      "url": "https://searchlightnm.org/category/criminal-justice/"
+    },
+    {
+      "text": "Education",
+      "url": "https://searchlightnm.org/category/education/"
+    },
+    {
+      "text": "Environment",
+      "url": "https://searchlightnm.org/category/environment/"
+    },
+    {
+      "text": "Eviction Epidemic",
+      "url": "https://searchlightnm.org/series-eviction-epidemic/"
+    },
+    {
+      "text": "Health",
+      "url": "https://searchlightnm.org/category/health/"
+    },
+    {
+      "text": "HITTING HOME",
+      "url": "https://searchlightnm.org/hitting-home/"
+    },
+    {
+      "text": "Shiprock",
+      "url": "https://searchlightnm.org/hitting-home/shiprock/"
+    },
+    {
+      "text": "Las Vegas",
+      "url": "https://searchlightnm.org/hitting-home/las-vegas/"
+    },
+    {
+      "text": "Gallup",
+      "url": "https://searchlightnm.org/hitting-home/gallup/"
+    },
+    {
+      "text": "Carlsbad",
+      "url": "https://searchlightnm.org/hitting-home/carlsbad/"
+    },
+    {
+      "text": "Anthony",
+      "url": "https://searchlightnm.org/hitting-home/anthony/"
+    },
+    {
+      "text": "Immigration",
+      "url": "https://searchlightnm.org/category/immigration/"
+    },
+    {
+      "text": "Our Lives Now",
+      "url": "https://searchlightnm.org/our-lives-now/"
+    },
+    {
+      "text": "Politics",
+      "url": "https://searchlightnm.org/category/politics/"
+    },
+    {
+      "text": "Tribal Affairs",
+      "url": "https://searchlightnm.org/category/tribal-affairs/"
+    },
+    {
+      "text": "EVENTS",
+      "url": "https://searchlightnm.org/events/"
+    },
+    {
+      "text": "SUBMIT TIPS",
+      "url": "https://searchlightnm.org/tips/"
+    },
+    {
+      "text": "ABOUT",
+      "url": "https://searchlightnm.org/about/"
+    },
+    {
+      "text": "BOARD",
+      "url": "https://searchlightnm.org/about/board/"
+    },
+    {
+      "text": "STAFF",
+      "url": "https://searchlightnm.org/about/staff/"
+    },
+    {
+      "text": "JOBS",
+      "url": "https://searchlightnm.org/about/jobs/"
+    },
+    {
+      "text": "FUNDING",
+      "url": "https://searchlightnm.org/about/funding/"
+    },
+    {
+      "text": "REPUBLISHING GUIDELINES",
+      "url": "https://searchlightnm.org/about/guidelines/"
+    },
+    {
+      "text": "WRITER\u2019S GUIDELINES",
+      "url": "https://searchlightnm.org/about/guidelines/writers-guidelines/"
+    },
+    {
+      "text": "POLICIES",
+      "url": "https://searchlightnm.org/about/policies/"
+    },
+    {
+      "text": "HELP US",
+      "url": "https://searchlightnm.org/about/help-us/"
+    },
+    {
+      "text": "CONTACT",
+      "url": "https://searchlightnm.org/contact/"
+    },
+    {
+      "text": "NEWSLETTER",
+      "url": "https://app.popt.in/APIRequest/click/eebe45631a1a4"
+    },
+    {
+      "text": "DONATE",
+      "url": "https://checkout.fundjournalism.org/memberform?org_id=searchlightnm&campaign=7015e000000tU3yAAE"
+    },
+    {
+      "text": "\u00a0",
+      "url": "https://searchlightnm.org/search/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u2018I could go missing tomorrow\u2019A Navajo woman is walking from Arizona to Washington, D.C., as a call to action for her aunt and thousands of other missing or murdered Indigenous people.\n",
+      "url": "https://searchlightnm.org/i-could-go-missing-tomorrow/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tOff the radar2,300 homeless youths in Albuquerque \u2014 and most of them out of sight\n",
+      "url": "https://searchlightnm.org/off-the-radar/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tAfter the fireNorthern New Mexico residents are left on their own to face major flooding.\n",
+      "url": "https://searchlightnm.org/after-the-fire/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tSeven years after a spill turns a river yellow, Navajo farmers still seek justiceThe 2015 Gold King Mine spill sent a toxic plume through the Navajo Nation. Why isn\u2019t restitution in sight?\n",
+      "url": "https://searchlightnm.org/seven-years-after-a-spill-turns-a-river-yellow-navajo-farmers-still-seek-justice/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tState lotteries transfer wealth out of needy communitiesIndependent analysis shows that the New Mexico Lottery often targets impoverished, minority communities\n",
+      "url": "https://searchlightnm.org/state-lotteries-transfer-wealth-out-of-needy-communities/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tFire sale\u2018Is your land for sale?\u2019 Alarming offers to buy property in the burn zone leave some New Mexicans affronted\n",
+      "url": "https://searchlightnm.org/fire-sale/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u2018I could go missing tomorrow\u2019A Navajo woman is walking from Arizona to Washington, D.C., as a call to action for her aunt and thousands of other missing or murdered Indigenous people.\n",
+      "url": "https://searchlightnm.org/i-could-go-missing-tomorrow/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tOff the radar2,300 homeless youths in Albuquerque \u2014 and most of them out of sight\n",
+      "url": "https://searchlightnm.org/off-the-radar/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tAfter the fireNorthern New Mexico residents are left on their own to face major flooding.\n",
+      "url": "https://searchlightnm.org/after-the-fire/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tSeven years after a spill turns a river yellow, Navajo farmers still seek justiceThe 2015 Gold King Mine spill sent a toxic plume through the Navajo Nation. Why isn\u2019t restitution in sight?\n",
+      "url": "https://searchlightnm.org/seven-years-after-a-spill-turns-a-river-yellow-navajo-farmers-still-seek-justice/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tState lotteries transfer wealth out of needy communitiesIndependent analysis shows that the New Mexico Lottery often targets impoverished, minority communities\n",
+      "url": "https://searchlightnm.org/state-lotteries-transfer-wealth-out-of-needy-communities/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tFire sale\u2018Is your land for sale?\u2019 Alarming offers to buy property in the burn zone leave some New Mexicans affronted\n",
+      "url": "https://searchlightnm.org/fire-sale/"
+    },
+    {
+      "text": "",
+      "url": "https://searchlightnm.org/seven-years-after-a-spill-turns-a-river-yellow-navajo-farmers-still-seek-justice/"
+    },
+    {
+      "text": "Seven years after a spill turns a river yellow, Navajo farmers still seek justice",
+      "url": "https://searchlightnm.org/seven-years-after-a-spill-turns-a-river-yellow-navajo-farmers-still-seek-justice/"
+    },
+    {
+      "text": "",
+      "url": "https://searchlightnm.org/state-lotteries-transfer-wealth-out-of-needy-communities/"
+    },
+    {
+      "text": "State lotteries transfer wealth out of needy communities",
+      "url": "https://searchlightnm.org/state-lotteries-transfer-wealth-out-of-needy-communities/"
+    },
+    {
+      "text": "",
+      "url": "https://searchlightnm.org/fire-sale/"
+    },
+    {
+      "text": "Fire sale",
+      "url": "https://searchlightnm.org/fire-sale/"
+    },
+    {
+      "text": "",
+      "url": "https://searchlightnm.org/i-could-go-missing-tomorrow/"
+    },
+    {
+      "text": "\u2018I could go missing tomorrow\u2019",
+      "url": "https://searchlightnm.org/i-could-go-missing-tomorrow/"
+    },
+    {
+      "text": "",
+      "url": "https://searchlightnm.org/off-the-radar/"
+    },
+    {
+      "text": "Off the radar",
+      "url": "https://searchlightnm.org/off-the-radar/"
+    },
+    {
+      "text": "",
+      "url": "https://searchlightnm.org/after-the-fire/"
+    },
+    {
+      "text": "After the fire",
+      "url": "https://searchlightnm.org/after-the-fire/"
+    },
+    {
+      "text": "Eviction Epidemic",
+      "url": "https://searchlightnm.org/series-eviction-epidemic/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tMotel of last resortAmid a housing crisis, a Motel 6 in Albuquerque offers shelter for those in dire need.  |  by Luciana Perez Uribe Guinassi and Don J. Usner",
+      "url": "https://searchlightnm.org/motel-6-offers-snapshot-of-albuquerque-housing-crisis/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tIllegal noticeIn Albuquerque, the eviction moratorium did little to stop landlords from trying to force hundreds of people from their homes  |  by Dillon Bergin, Ike Swetlitz, and Luciana Perez Uribe Guinassi",
+      "url": "https://searchlightnm.org/cares-act-did-not-protect-new-mexicans-from-eviction/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tLocked outSearchlight New Mexico spent months investigating why state and federal bans failed to stop thousands of evictions during the pandemic  |  by Kate Schimel and Dillon Bergin",
+      "url": "https://searchlightnm.org/evictions-ban-did-not-stop-new-mexico-landlords/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tSeeking shelterAfter suffering one of the worst COVID-19 outbreaks in the country, this New Mexico town on the edge of Navajo Nation is reaching a breaking point as the federal eviction moratorium is set to expire.",
+      "url": "https://searchlightnm.org/gallup-is-on-the-brink-of-an-affordable-housing-crisis/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tHelped outLandlords tried to evict nearly 200 households with pending rental assistance applications.  |  by Ike Swetlitz and Luciana Perez Uribe Guinassi",
+      "url": "https://searchlightnm.org/landlords-tried-to-evict-nearly-200-households-with-pending-rental-assistance-applications/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tEviction EpidemicSearchlight analyzed 10 years of court records to find out which landlords evicted tenants. Here are the results.",
+      "url": "https://searchlightnm.org/ten-years-of-new-mexico-evictions-data/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tSectioned offWith rent prices skyrocketing, more and more Albuquerque landlords have been refusing Section 8 tenants.  |  by Ike Swetlitz",
+      "url": "https://searchlightnm.org/more-albuquerque-landlords-refuse-section-8-tenants/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tNew Mexico\u2019s affordable housing crisis has solutionsNew Mexico\u2019s affordable housing crisis has solutions, according to UNM law professor and advocate Serge Martinez  |  by Annabella Farmer",
+      "url": "https://searchlightnm.org/new-mexico-housing-crisis-has-solutions/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tMotel of last resortAmid a housing crisis, a Motel 6 in Albuquerque offers shelter for those in dire need.  |  by Luciana Perez Uribe Guinassi and Don J. Usner",
+      "url": "https://searchlightnm.org/motel-6-offers-snapshot-of-albuquerque-housing-crisis/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tIllegal noticeIn Albuquerque, the eviction moratorium did little to stop landlords from trying to force hundreds of people from their homes  |  by Dillon Bergin, Ike Swetlitz, and Luciana Perez Uribe Guinassi",
+      "url": "https://searchlightnm.org/cares-act-did-not-protect-new-mexicans-from-eviction/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tLocked outSearchlight New Mexico spent months investigating why state and federal bans failed to stop thousands of evictions during the pandemic  |  by Kate Schimel and Dillon Bergin",
+      "url": "https://searchlightnm.org/evictions-ban-did-not-stop-new-mexico-landlords/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tSeeking shelterAfter suffering one of the worst COVID-19 outbreaks in the country, this New Mexico town on the edge of Navajo Nation is reaching a breaking point as the federal eviction moratorium is set to expire.",
+      "url": "https://searchlightnm.org/gallup-is-on-the-brink-of-an-affordable-housing-crisis/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tHelped outLandlords tried to evict nearly 200 households with pending rental assistance applications.  |  by Ike Swetlitz and Luciana Perez Uribe Guinassi",
+      "url": "https://searchlightnm.org/landlords-tried-to-evict-nearly-200-households-with-pending-rental-assistance-applications/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tEviction EpidemicSearchlight analyzed 10 years of court records to find out which landlords evicted tenants. Here are the results.",
+      "url": "https://searchlightnm.org/ten-years-of-new-mexico-evictions-data/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tSectioned offWith rent prices skyrocketing, more and more Albuquerque landlords have been refusing Section 8 tenants.  |  by Ike Swetlitz",
+      "url": "https://searchlightnm.org/more-albuquerque-landlords-refuse-section-8-tenants/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tNew Mexico\u2019s affordable housing crisis has solutionsNew Mexico\u2019s affordable housing crisis has solutions, according to UNM law professor and advocate Serge Martinez  |  by Annabella Farmer",
+      "url": "https://searchlightnm.org/new-mexico-housing-crisis-has-solutions/"
+    },
+    {
+      "text": "",
+      "url": "https://searchlightnm.org/landlords-tried-to-evict-nearly-200-households-with-pending-rental-assistance-applications/"
+    },
+    {
+      "text": "Helped out",
+      "url": "https://searchlightnm.org/landlords-tried-to-evict-nearly-200-households-with-pending-rental-assistance-applications/"
+    },
+    {
+      "text": "",
+      "url": "https://searchlightnm.org/ten-years-of-new-mexico-evictions-data/"
+    },
+    {
+      "text": "Eviction Epidemic",
+      "url": "https://searchlightnm.org/ten-years-of-new-mexico-evictions-data/"
+    },
+    {
+      "text": "",
+      "url": "https://searchlightnm.org/more-albuquerque-landlords-refuse-section-8-tenants/"
+    },
+    {
+      "text": "Sectioned off",
+      "url": "https://searchlightnm.org/more-albuquerque-landlords-refuse-section-8-tenants/"
+    },
+    {
+      "text": "",
+      "url": "https://searchlightnm.org/new-mexico-housing-crisis-has-solutions/"
+    },
+    {
+      "text": "New Mexico\u2019s affordable housing crisis has solutions",
+      "url": "https://searchlightnm.org/new-mexico-housing-crisis-has-solutions/"
+    },
+    {
+      "text": "",
+      "url": "https://searchlightnm.org/motel-6-offers-snapshot-of-albuquerque-housing-crisis/"
+    },
+    {
+      "text": "Motel of last resort",
+      "url": "https://searchlightnm.org/motel-6-offers-snapshot-of-albuquerque-housing-crisis/"
+    },
+    {
+      "text": "",
+      "url": "https://searchlightnm.org/cares-act-did-not-protect-new-mexicans-from-eviction/"
+    },
+    {
+      "text": "Illegal notice",
+      "url": "https://searchlightnm.org/cares-act-did-not-protect-new-mexicans-from-eviction/"
+    },
+    {
+      "text": "",
+      "url": "https://searchlightnm.org/evictions-ban-did-not-stop-new-mexico-landlords/"
+    },
+    {
+      "text": "Locked out",
+      "url": "https://searchlightnm.org/evictions-ban-did-not-stop-new-mexico-landlords/"
+    },
+    {
+      "text": "",
+      "url": "https://searchlightnm.org/gallup-is-on-the-brink-of-an-affordable-housing-crisis/"
+    },
+    {
+      "text": "Seeking shelter",
+      "url": "https://searchlightnm.org/gallup-is-on-the-brink-of-an-affordable-housing-crisis/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u2018I could go missing tomorrow\u2019",
+      "url": "https://searchlightnm.org/i-could-go-missing-tomorrow/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tOff the radar",
+      "url": "https://searchlightnm.org/off-the-radar/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tAfter the fire",
+      "url": "https://searchlightnm.org/after-the-fire/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tBurned out, ill-paid, overburdened",
+      "url": "https://searchlightnm.org/burned-out-ill-paid-overburdened/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCrowning fury",
+      "url": "https://searchlightnm.org/crowning-fury/"
+    },
+    {
+      "text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\u2018Hurt people raising hurt people\u2019",
+      "url": "https://searchlightnm.org/hurt-people-raising-hurt-people/"
+    },
+    {
+      "text": "",
+      "url": "https://searchlightnm.org/i-could-go-missing-tomorrow/"
+    },
+    {
+      "text": "\u2018I could go missing tomorrow\u2019",
+      "url": "https://searchlightnm.org/i-could-go-missing-tomorrow/"
+    },
+    {
+      "text": "",
+      "url": "https://searchlightnm.org/off-the-radar/"
+    },
+    {
+      "text": "Off the radar",
+      "url": "https://searchlightnm.org/off-the-radar/"
+    },
+    {
+      "text": "",
+      "url": "https://searchlightnm.org/after-the-fire/"
+    },
+    {
+      "text": "After the fire",
+      "url": "https://searchlightnm.org/after-the-fire/"
+    },
+    {
+      "text": "",
+      "url": "https://searchlightnm.org/burned-out-ill-paid-overburdened/"
+    },
+    {
+      "text": "Burned out, ill-paid, overburdened",
+      "url": "https://searchlightnm.org/burned-out-ill-paid-overburdened/"
+    },
+    {
+      "text": "",
+      "url": "https://searchlightnm.org/crowning-fury/"
+    },
+    {
+      "text": "Crowning fury",
+      "url": "https://searchlightnm.org/crowning-fury/"
+    },
+    {
+      "text": "",
+      "url": "https://searchlightnm.org/hurt-people-raising-hurt-people/"
+    },
+    {
+      "text": "\u2018Hurt people raising hurt people\u2019",
+      "url": "https://searchlightnm.org/hurt-people-raising-hurt-people/"
+    },
+    {
+      "text": " Click here to view our full archive.",
+      "url": "https://searchlightnm.org/archive"
+    },
+    {
+      "text": "HELP SUPPORT INVESTIGATIVE JOURNALISM",
+      "url": "https://checkout.fundjournalism.org/memberform?org_id=searchlightnm&campaign=7015e000000tU43AAE"
+    },
+    {
+      "text": "HELP SUPPORT INVESTIGATIVE JOURNALISM",
+      "url": "https://checkout.fundjournalism.org/memberform?org_id=searchlightnm&campaign=7015e000000tU43AAE"
+    },
+    {
+      "text": "DONATE",
+      "url": "https://checkout.fundjournalism.org/memberform?org_id=searchlightnm&campaign=7015e000000tU3yAAE"
+    },
+    {
+      "text": "CONTACT",
+      "url": "mailto:searchlight@searchlightnm.org"
+    },
+    {
+      "text": "",
+      "url": "https://www.facebook.com/SearchlightNewMexico/"
+    },
+    {
+      "text": "",
+      "url": "https://twitter.com/SearchlightNM"
+    },
+    {
+      "text": "",
+      "url": "https://www.instagram.com/searchlightnm/"
+    },
+    {
+      "text": "",
+      "url": "https://www.searchlightnm.org/blog-feed.xml"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "http://searchlightnm.org/privacy-policy/"
+    },
+    {
+      "text": "Guidelines.\u00a0",
+      "url": "http://searchlightnm.org/guidelines/"
+    },
+    {
+      "text": "",
+      "url": "#"
     }
   ],
   "server": "ia801500.us.archive.org",
-  "uniq": 204543386,
+  "uniq": 1140702715,
   "workable_servers": [
     "ia801500.us.archive.org",
     "ia601500.us.archive.org"

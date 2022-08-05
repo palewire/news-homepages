@@ -1,5 +1,5 @@
 {
-  "created": 1659660304,
+  "created": 1659666485,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/11/items/jornaldobrasil-2022",
@@ -172,31 +172,83 @@
       "sha1": "b0a0b6fe1ade590a3c01562a4d6ae6c05f13973c"
     },
     {
+      "name": "jornaldobrasil-2022-08-04T22:39:54.876173-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659663597",
+      "size": "27468",
+      "md5": "c16f504ea771a2cb51d59b6ac8f88903",
+      "crc32": "0dccd1f9",
+      "sha1": "e5ca01af2a522289645414339a4ff33383454119",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaldobrasil-2022-08-04T22:39:54.876173-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659663598",
+      "size": "32346",
+      "md5": "1e7883505fe5ce0cee33044f922050a5",
+      "crc32": "7350b2f5",
+      "sha1": "ca6134b09b5103a2812ce3330807604a31640419",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaldobrasil-2022-08-04T22:39:54.876173-03:00.jpg",
+      "source": "original",
+      "mtime": "1659663596",
+      "size": "328595",
+      "md5": "527e0c6ab3c1bf5ac1f4dc2dd7ac4869",
+      "crc32": "b8c6183b",
+      "sha1": "ae5aa9f9adca0cbe00ba57568b72b763bcc12b1b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jornaldobrasil-2022-08-04T22:39:54.876173-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659663600",
+      "size": "1425",
+      "md5": "da88c5d9a93a1f1c3ebd7db9a8150bdd",
+      "crc32": "b2dc0608",
+      "sha1": "681579d667d9a0779340323281a0d6fc20110535",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaldobrasil-2022-08-04T22:39:54.876173-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jornaldobrasil-2022-08-04T22:39:54.876173-03:00.jpg",
+      "mtime": "1659666435",
+      "size": "10681",
+      "md5": "989e909372549e6a5306ee7210902d87",
+      "crc32": "6f5cb64e",
+      "sha1": "aa1af64709988c855a67c70b51ed59477fb06bd5"
+    },
+    {
       "name": "jornaldobrasil-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3582a41892d877f8a40039317bc60504828312f6",
-      "mtime": "1659651515",
-      "size": "4930",
-      "md5": "747e85a3f503b9d1913aec7d3b61c57d",
-      "crc32": "b442e9df",
-      "sha1": "b504038bd9f9fd4b2b8163674b7964cee5368eaa",
+      "btih": "be3d621a1b1a3675c9e2866530bd91c14a7ee88d",
+      "mtime": "1659666438",
+      "size": "6020",
+      "md5": "a59b153141269573e2926f82559db360",
+      "crc32": "960cb75e",
+      "sha1": "8824458c8375896fb700d12fb28fcddd45e330e0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jornaldobrasil-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0232987926bbc6deea357ffc04d6ade5",
+      "md5": "6157a776fb39ba5c3417fa4af3988a42",
       "summation": "md5"
     },
     {
       "name": "jornaldobrasil-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659647968",
-      "size": "36864",
-      "md5": "87acd9e2774d2c8c57b151f2b6a9bd7d",
-      "crc32": "d04958a0",
-      "sha1": "edb9c88b84a32c3b6743a08c89529a4fac399d9c",
+      "mtime": "1659663604",
+      "size": "45056",
+      "md5": "f29f842c5df83cab87e20f3d491850bf",
+      "crc32": "20d06e42",
+      "sha1": "b94f9f32100216f9a6e54c062ff825d892ebef5e",
       "format": "Metadata"
     },
     {
@@ -210,50 +262,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 20,
-  "item_last_updated": 1659651515,
-  "item_size": 1339735,
-  "jornaldobrasil-2022": [
-    {
-      "url": "https://m.jb.com.br/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_jb_com_br-_-2022_08_04_21_04_50.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_jb_com_br-_-2022_08_04_21_04_50.report.json",
-      "summary": {
-        "performance": 0.86,
-        "accessibility": 0.77,
-        "best-practices": 0.67,
-        "seo": 1,
-        "pwa": 1
-      }
-    },
-    {
-      "url": "https://m.jb.com.br/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_jb_com_br-_-2022_08_04_21_05_04.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_jb_com_br-_-2022_08_04_21_05_04.report.json",
-      "summary": {
-        "performance": 0.84,
-        "accessibility": 0.77,
-        "best-practices": 0.67,
-        "seo": 1,
-        "pwa": 1
-      }
-    },
-    {
-      "url": "https://m.jb.com.br/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_jb_com_br-_-2022_08_04_21_04_35.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/m_jb_com_br-_-2022_08_04_21_04_35.report.json",
-      "summary": {
-        "performance": 0.86,
-        "accessibility": 0.77,
-        "best-practices": 0.67,
-        "seo": 1,
-        "pwa": 1
-      }
-    }
-  ],
+  "files_count": 25,
+  "item_last_updated": 1659666438,
+  "item_size": 1749532,
   "metadata": {
     "identifier": "jornaldobrasil-2022",
     "collection": [
@@ -271,7 +282,7 @@
     "addeddate": "2022-08-04 04:55:22"
   },
   "server": "ia801507.us.archive.org",
-  "uniq": 809597777,
+  "uniq": 932723526,
   "workable_servers": [
     "ia801507.us.archive.org",
     "ia601507.us.archive.org"

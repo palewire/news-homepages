@@ -1,5 +1,5 @@
 {
-  "created": 1659660508,
+  "created": 1659682941,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/32/items/mdr_san-2022",
@@ -1056,31 +1056,83 @@
       "sha1": "607e36c4cb8621e4b5569895db9ab471d36e7652"
     },
     {
+      "name": "mdr_san-2022-08-05T03:43:25.234635+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659663808",
+      "size": "41321",
+      "md5": "b72f3bcf6f7511fbc709f2973441802c",
+      "crc32": "de4c1025",
+      "sha1": "9b307c49ddb4ff907b034f6acb89d8cf698aa9a4",
+      "format": "JSON"
+    },
+    {
+      "name": "mdr_san-2022-08-05T03:43:25.234635+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659663810",
+      "size": "68913",
+      "md5": "29c43951c92da965ea00623cb70216cf",
+      "crc32": "eb583fe1",
+      "sha1": "d02d37de68308cff557a940f55848be4149396d9",
+      "format": "JSON"
+    },
+    {
+      "name": "mdr_san-2022-08-05T03:43:25.234635+02:00.jpg",
+      "source": "original",
+      "mtime": "1659663806",
+      "size": "304785",
+      "md5": "6156dc0c09562c7fe54c4219878f6cd1",
+      "crc32": "922ec49a",
+      "sha1": "1c4e9e5f08598fa3209ef9b100de78cc170c89f2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mdr_san-2022-08-05T03:43:25.234635+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659663817",
+      "size": "1612",
+      "md5": "01bbcb0b86edda8d097398c5decbf4dd",
+      "crc32": "2bb4270b",
+      "sha1": "a85df0943fb30ed3d16e6dac0db6834fa3615670",
+      "format": "JSON"
+    },
+    {
+      "name": "mdr_san-2022-08-05T03:43:25.234635+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mdr_san-2022-08-05T03:43:25.234635+02:00.jpg",
+      "mtime": "1659666230",
+      "size": "9863",
+      "md5": "4406edd5a3f8fa19daf8107408f1b9a0",
+      "crc32": "9bdcfee0",
+      "sha1": "d32ef0486a03283fd1d51a0e1041bb3e4b189730"
+    },
+    {
       "name": "mdr_san-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e92923bebcde99c3503ed0a9f932774b0386de05",
-      "mtime": "1659621515",
-      "size": "22604",
-      "md5": "414da82cfe22d6487863cebdd2889d37",
-      "crc32": "3ab10ee7",
-      "sha1": "3530c717e9144c45a874ba2a1ebb835dd2abf92f",
+      "btih": "5edd1dd44eaa38a27b2677743299079469c37b62",
+      "mtime": "1659666268",
+      "size": "23638",
+      "md5": "65d9aa6e93467bcad16c8992aed8b795",
+      "crc32": "b89afac5",
+      "sha1": "d7628670790fa7f65c7863fd0ae3871ee8d86fcf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mdr_san-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "52c3fbb4f3e35aaf9e44f0e85f0731c8",
+      "md5": "5b6e173e5c21a7fb01c4333f75e9b9f0",
       "summation": "md5"
     },
     {
       "name": "mdr_san-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659616528",
-      "size": "147456",
-      "md5": "87b815b94280f755552551df346d77f5",
-      "crc32": "f9686742",
-      "sha1": "6c4dc5abd33312164fce48cb961da8e483198820",
+      "mtime": "1659663821",
+      "size": "151552",
+      "md5": "b25cebbd5131d362ae54fa04931c925c",
+      "crc32": "b0e434a6",
+      "sha1": "0d6d46871ddfccb731f458d72879a38afde86cf3",
       "format": "Metadata"
     },
     {
@@ -1094,50 +1146,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 105,
-  "item_last_updated": 1659621515,
-  "item_size": 7950179,
-  "mdr_san-2022": [
-    {
-      "url": "https://www.mdr.de/nachrichten/index.html",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mdr_de-_nachrichten_index_html-2022_08_04_12_07_28.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mdr_de-_nachrichten_index_html-2022_08_04_12_07_28.report.json",
-      "summary": {
-        "performance": 0.18,
-        "accessibility": 0.82,
-        "best-practices": 1,
-        "seo": 0.93,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.mdr.de/nachrichten/index.html",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mdr_de-_nachrichten_index_html-2022_08_04_12_08_20.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mdr_de-_nachrichten_index_html-2022_08_04_12_08_20.report.json",
-      "summary": {
-        "performance": 0.26,
-        "accessibility": 0.82,
-        "best-practices": 1,
-        "seo": 0.93,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.mdr.de/nachrichten/index.html",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mdr_de-_nachrichten_index_html-2022_08_04_12_07_56.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mdr_de-_nachrichten_index_html-2022_08_04_12_07_56.report.json",
-      "summary": {
-        "performance": 0.25,
-        "accessibility": 0.82,
-        "best-practices": 1,
-        "seo": 0.93,
-        "pwa": 0.4
-      }
-    }
-  ],
+  "files_count": 110,
+  "item_last_updated": 1659666268,
+  "item_size": 8381803,
   "metadata": {
     "identifier": "mdr_san-2022",
     "collection": [
@@ -1155,7 +1166,7 @@
     "addeddate": "2022-07-26 00:19:02"
   },
   "server": "ia801401.us.archive.org",
-  "uniq": 65272198,
+  "uniq": 1355205564,
   "workable_servers": [
     "ia801401.us.archive.org",
     "ia601401.us.archive.org"

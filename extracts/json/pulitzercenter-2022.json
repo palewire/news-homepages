@@ -1,5 +1,5 @@
 {
-  "created": 1659660775,
+  "created": 1659666521,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/14/items/pulitzercenter-2022",
@@ -2524,31 +2524,83 @@
       "sha1": "54abe4d9a4d9431c8e3ef359c70b7dacb33da52c"
     },
     {
+      "name": "pulitzercenter-2022-08-04T21:48:15.581668-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659664098",
+      "size": "8818",
+      "md5": "abdc526629052969230dc57d3084f8a8",
+      "crc32": "b5ec6515",
+      "sha1": "709057e139f49177e184b28ef624327430b45b6e",
+      "format": "JSON"
+    },
+    {
+      "name": "pulitzercenter-2022-08-04T21:48:15.581668-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659664099",
+      "size": "16150",
+      "md5": "1cad87f6860ca3b08df30b0da503c00d",
+      "crc32": "ef65131b",
+      "sha1": "43c3cef5fbe1f37962ad17364b3704399057caa7",
+      "format": "JSON"
+    },
+    {
+      "name": "pulitzercenter-2022-08-04T21:48:15.581668-04:00.jpg",
+      "source": "original",
+      "mtime": "1659664096",
+      "size": "184449",
+      "md5": "0027f44c12a0d07adff4f92d4883a675",
+      "crc32": "d6d7ec3b",
+      "sha1": "54b2db48b80dd766a467a03bd1d7a4e5ef4c5723",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pulitzercenter-2022-08-04T21:48:15.581668-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659664100",
+      "size": "1495",
+      "md5": "f48f17c913e0ba1620f84117d82f93f7",
+      "crc32": "f3190d82",
+      "sha1": "a611446e5c026bc9aee955422e6f7581885e6ef6",
+      "format": "JSON"
+    },
+    {
+      "name": "pulitzercenter-2022-08-04T21:48:15.581668-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pulitzercenter-2022-08-04T21:48:15.581668-04:00.jpg",
+      "mtime": "1659666507",
+      "size": "8375",
+      "md5": "cdb596d33d48b1bc2d3ede6cd614f944",
+      "crc32": "ebf6e405",
+      "sha1": "54abe4d9a4d9431c8e3ef359c70b7dacb33da52c"
+    },
+    {
       "name": "pulitzercenter-2022_archive.torrent",
       "source": "metadata",
-      "btih": "beee2d1102be215f84d92143d9fcd55c1a83994b",
-      "mtime": "1659622221",
-      "size": "53354",
-      "md5": "083d69f50b2fcb2729858136d39ff6f7",
-      "crc32": "6209b415",
-      "sha1": "8d41fdd05e3e1147b17955b342cc1df614f44e38",
+      "btih": "223dcba2796e234b63b2ad084fd619a352b43f36",
+      "mtime": "1659666512",
+      "size": "54442",
+      "md5": "15becc964bcbb4c19361c57730fc0c1f",
+      "crc32": "dc1e9a87",
+      "sha1": "92778b461db28dc911f8cb9cd1a13a6f14c9320c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pulitzercenter-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cbcdab6dcf6cbcb67bcf4021b3bf9bb9",
+      "md5": "dc2fcb3aede581c55fb5c7b5ab9869c0",
       "summation": "md5"
     },
     {
       "name": "pulitzercenter-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659616769",
-      "size": "307200",
-      "md5": "0bc826869a6f0e677399939665d1ee83",
-      "crc32": "77cc3907",
-      "sha1": "b74c9c2bf1ed1d5179c8a03de31596ca73472cff",
+      "mtime": "1659664105",
+      "size": "315392",
+      "md5": "797c3a6cdc1e4f7e274186bc4c250879",
+      "crc32": "c7c0357a",
+      "sha1": "c534fba6dbe3f6f74dc684012a617be44e6c05f9",
       "format": "Metadata"
     },
     {
@@ -2562,9 +2614,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 245,
-  "item_last_updated": 1659622221,
-  "item_size": 12958353,
+  "files_count": 250,
+  "item_last_updated": 1659666512,
+  "item_size": 13186920,
   "metadata": {
     "identifier": "pulitzercenter-2022",
     "collection": [
@@ -2581,51 +2633,10 @@
     "publicdate": "2022-07-09 04:01:52",
     "addeddate": "2022-07-09 04:01:52"
   },
-  "pulitzercenter-2022": [
-    {
-      "url": "https://pulitzercenter.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/pulitzercenter_org-_-2022_08_04_12_14_23.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/pulitzercenter_org-_-2022_08_04_12_14_23.report.json",
-      "summary": {
-        "performance": 0.23,
-        "accessibility": 0.96,
-        "best-practices": 0.92,
-        "seo": 0.86,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://pulitzercenter.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/pulitzercenter_org-_-2022_08_04_12_15_07.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/pulitzercenter_org-_-2022_08_04_12_15_07.report.json",
-      "summary": {
-        "performance": 0.37,
-        "accessibility": 0.96,
-        "best-practices": 0.92,
-        "seo": 0.86,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://pulitzercenter.org/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/pulitzercenter_org-_-2022_08_04_12_14_46.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/pulitzercenter_org-_-2022_08_04_12_14_46.report.json",
-      "summary": {
-        "performance": 0.36,
-        "accessibility": 0.96,
-        "best-practices": 0.92,
-        "seo": 0.86,
-        "pwa": 0.3
-      }
-    }
-  ],
-  "server": "ia601408.us.archive.org",
-  "uniq": 732452353,
+  "server": "ia801408.us.archive.org",
+  "uniq": 898939885,
   "workable_servers": [
-    "ia601408.us.archive.org",
-    "ia801408.us.archive.org"
+    "ia801408.us.archive.org",
+    "ia601408.us.archive.org"
   ]
 }

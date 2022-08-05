@@ -1,5 +1,5 @@
 {
-  "created": 1659660343,
+  "created": 1659682863,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/19/items/kcstar-2022",
@@ -2752,31 +2752,83 @@
       "sha1": "4f4559b8c0f4858d527eb4c67033663f83b4eafc"
     },
     {
+      "name": "kcstar-2022-08-04T20:40:32.315382-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659663636",
+      "size": "458",
+      "md5": "28893d42f344cbb265d09c7d7708a575",
+      "crc32": "c8cb212a",
+      "sha1": "d7b88385884a1b2fb7c8acb88e1c892bc72afb16",
+      "format": "JSON"
+    },
+    {
+      "name": "kcstar-2022-08-04T20:40:32.315382-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659663638",
+      "size": "41643",
+      "md5": "503aac9016208785ef0cca1d8c86288d",
+      "crc32": "dd95bb68",
+      "sha1": "e5891831e3005c4359d508d6434ec51ed527d014",
+      "format": "JSON"
+    },
+    {
+      "name": "kcstar-2022-08-04T20:40:32.315382-05:00.jpg",
+      "source": "original",
+      "mtime": "1659663635",
+      "size": "320504",
+      "md5": "a0230898b925a62024cabde80ddf6b2d",
+      "crc32": "ed6640e3",
+      "sha1": "19bb34481ae5632e4e2ef39e5d7bf6172f3b61bc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kcstar-2022-08-04T20:40:32.315382-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659663640",
+      "size": "1491",
+      "md5": "6c03b9ea2230777a9381a12673131b06",
+      "crc32": "e45a93f4",
+      "sha1": "83fc0191a8e407645f4740175f7cf0e5ed8658ff",
+      "format": "JSON"
+    },
+    {
+      "name": "kcstar-2022-08-04T20:40:32.315382-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kcstar-2022-08-04T20:40:32.315382-05:00.jpg",
+      "mtime": "1659665916",
+      "size": "9792",
+      "md5": "ede4b68d2dce0d3522fc926df2e06758",
+      "crc32": "f01e2919",
+      "sha1": "f65dd555dfdf46f0cfe4a3e5209c6267e054d21e"
+    },
+    {
       "name": "kcstar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a3ce7cce04060f56db3889b80518ef6a230dbfaf",
-      "mtime": "1659621345",
-      "size": "55719",
-      "md5": "b79ce8819eb4b80c40aedaa06c1d45d3",
-      "crc32": "2412ba23",
-      "sha1": "a7d56c1bb82c7efb71140f4244e7317a55698168",
+      "btih": "2372fe38754340148ffbd984d1eab0ea572ac07b",
+      "mtime": "1659665923",
+      "size": "56746",
+      "md5": "febd67979dc0e838beb7d03592907447",
+      "crc32": "0deefb5d",
+      "sha1": "34a073cde0124b359c3b32d85bdfe47a6eb70136",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kcstar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "966b643950e47cb512b09874b7abd660",
+      "md5": "ec2e53a2e80bd069755cc9c8fec82ab1",
       "summation": "md5"
     },
     {
       "name": "kcstar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659616257",
-      "size": "319488",
-      "md5": "99387912f1d1f72dcbfb715aa9f7fce2",
-      "crc32": "d34b381a",
-      "sha1": "39451e3cee65cce60968c782089cf2caebb7222e",
+      "mtime": "1659663643",
+      "size": "327680",
+      "md5": "3afb7212bf7ba1b065d781f3ff04d2b0",
+      "crc32": "9260c0cf",
+      "sha1": "452f96820b14f68169a7530d92b09af431e0c42c",
       "format": "Metadata"
     },
     {
@@ -2790,50 +2842,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 266,
-  "item_last_updated": 1659621345,
-  "item_size": 18432832,
-  "kcstar-2022": [
-    {
-      "url": "https://www.kansascity.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kansascity_com-_-2022_08_04_12_03_04.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kansascity_com-_-2022_08_04_12_03_04.report.json",
-      "summary": {
-        "performance": 0.1,
-        "accessibility": 0.78,
-        "best-practices": null,
-        "seo": 0.83,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.kansascity.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kansascity_com-_-2022_08_04_12_03_56.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kansascity_com-_-2022_08_04_12_03_56.report.json",
-      "summary": {
-        "performance": 0.14,
-        "accessibility": 1,
-        "best-practices": 0.75,
-        "seo": 0.92,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.kansascity.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kansascity_com-_-2022_08_04_12_03_31.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kansascity_com-_-2022_08_04_12_03_31.report.json",
-      "summary": {
-        "performance": 0.08,
-        "accessibility": 0.78,
-        "best-practices": null,
-        "seo": 0.83,
-        "pwa": 0.4
-      }
-    }
-  ],
+  "files_count": 271,
+  "item_last_updated": 1659665923,
+  "item_size": 18815939,
   "metadata": {
     "identifier": "kcstar-2022",
     "collection": [
@@ -2851,7 +2862,7 @@
     "addeddate": "2022-07-04 21:55:21"
   },
   "server": "ia802504.us.archive.org",
-  "uniq": 1706117328,
+  "uniq": 61807761,
   "workable_servers": [
     "ia802504.us.archive.org",
     "ia902504.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1659630235,
+  "created": 1659673431,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/13/items/lavozdegalicia-2022",
@@ -796,31 +796,83 @@
       "sha1": "9244a3e79ecc6bc275b51e988300002bdc6e8e00"
     },
     {
+      "name": "lavozdegalicia-2022-08-05T05:22:49.324443+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659669772",
+      "size": "68507",
+      "md5": "6fb421afc87d64cb0038fc9af710fa28",
+      "crc32": "163a5175",
+      "sha1": "2e5bab0f1b17c1fa4f33a39426c40ed795960e8d",
+      "format": "JSON"
+    },
+    {
+      "name": "lavozdegalicia-2022-08-05T05:22:49.324443+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659669779",
+      "size": "76465",
+      "md5": "3cb959ed24b3e4d4203932a2b8b690c9",
+      "crc32": "79b831b5",
+      "sha1": "afb71bba733af13876a95f87c1c4ad9e3178c762",
+      "format": "JSON"
+    },
+    {
+      "name": "lavozdegalicia-2022-08-05T05:22:49.324443+02:00.jpg",
+      "source": "original",
+      "mtime": "1659669770",
+      "size": "238854",
+      "md5": "aa6d5e359e47b5fb55f28657b99199d7",
+      "crc32": "0bb3213d",
+      "sha1": "432e522497d2711f024f69175c502a302a8d6175",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lavozdegalicia-2022-08-05T05:22:49.324443+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659669780",
+      "size": "1522",
+      "md5": "eaceb8d635e5391c546860183098df54",
+      "crc32": "a5c29dff",
+      "sha1": "a4352d22a0e27543c723db1c069ec3e3dd4daeb2",
+      "format": "JSON"
+    },
+    {
+      "name": "lavozdegalicia-2022-08-05T05:22:49.324443+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lavozdegalicia-2022-08-05T05:22:49.324443+02:00.jpg",
+      "mtime": "1659673255",
+      "size": "8013",
+      "md5": "5f6e4cdf501e4d518fab4e0f0d6b6d7b",
+      "crc32": "ec49ced4",
+      "sha1": "e31810ee002f4cd28cf5c5c3394c6a7955bde50d"
+    },
+    {
       "name": "lavozdegalicia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a82fcec94d56e1a15c26ccd31ee87a6f32c65196",
-      "mtime": "1659630228",
-      "size": "17936",
-      "md5": "3e71d8a0a0e0e22908984f529950bd85",
-      "crc32": "a5ab5fb2",
-      "sha1": "6aefa75db850a0987dca81a198e7281b6668d608",
+      "btih": "3da2474933eab9f7e7b3391fbccd2af6e7a2378b",
+      "mtime": "1659673269",
+      "size": "19025",
+      "md5": "2750ea2edd8996e3ad17ffbdb80620df",
+      "crc32": "09b605e6",
+      "sha1": "4d9119d65593ce94b8e187f683f09b616ba77116",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lavozdegalicia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "49803b72dea660ef0e54ccf888714398",
+      "md5": "79c85ac3b9efb7df24c265306e3339ad",
       "summation": "md5"
     },
     {
       "name": "lavozdegalicia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659626803",
-      "size": "118784",
-      "md5": "6783e84b0c85b5d3dd161523367f069a",
-      "crc32": "f6679f22",
-      "sha1": "74c1bcd53dc8af1a2a1fe05ac0c35d5bd21365dc",
+      "mtime": "1659669784",
+      "size": "126976",
+      "md5": "1f46b374def87992d0d2bc83bc92cf04",
+      "crc32": "027cb576",
+      "sha1": "257962782786116790709e0507b2e56675dc7b70",
       "format": "Metadata"
     },
     {
@@ -834,9 +886,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 80,
-  "item_last_updated": 1659630228,
-  "item_size": 5941808,
+  "files_count": 85,
+  "item_last_updated": 1659673269,
+  "item_size": 6344450,
   "metadata": {
     "identifier": "lavozdegalicia-2022",
     "collection": [
@@ -853,10 +905,10 @@
     "publicdate": "2022-07-28 18:53:53",
     "addeddate": "2022-07-28 18:53:53"
   },
-  "server": "ia601405.us.archive.org",
-  "uniq": 248076648,
+  "server": "ia801405.us.archive.org",
+  "uniq": 1825301494,
   "workable_servers": [
-    "ia601405.us.archive.org",
-    "ia801405.us.archive.org"
+    "ia801405.us.archive.org",
+    "ia601405.us.archive.org"
   ]
 }

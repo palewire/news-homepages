@@ -1,5 +1,5 @@
 {
-  "created": 1659637234,
+  "created": 1659677537,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/18/items/parisreview-2022",
@@ -2902,31 +2902,83 @@
       "sha1": "0a5a83480e0d5fb36ada7982fbfa524750a26d3e"
     },
     {
+      "name": "parisreview-2022-08-05T06:38:28.940780+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659674312",
+      "size": "7794",
+      "md5": "55e2347e28a2b6e6e631b5918f47c2f8",
+      "crc32": "66dede54",
+      "sha1": "2532d1c86660f873fdda65f9387966d3670202a8",
+      "format": "JSON"
+    },
+    {
+      "name": "parisreview-2022-08-05T06:38:28.940780+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659674313",
+      "size": "13625",
+      "md5": "1bf388bae3db12a4d37672149fa73f8b",
+      "crc32": "f15fa942",
+      "sha1": "6e265e3ac0e0520c6720c8d4eb192d2e2e5e3f4a",
+      "format": "JSON"
+    },
+    {
+      "name": "parisreview-2022-08-05T06:38:28.940780+02:00.jpg",
+      "source": "original",
+      "mtime": "1659674310",
+      "size": "267020",
+      "md5": "313947a79757177b5f54a90bc112ac7c",
+      "crc32": "8d7f6fdf",
+      "sha1": "cca3dfbc3cb262f2df2b64c763b82b79f8fba173",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "parisreview-2022-08-05T06:38:28.940780+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659674315",
+      "size": "1531",
+      "md5": "0c7e716e1f9696e1f634ec67102b1324",
+      "crc32": "6140f6d4",
+      "sha1": "4dbaba17e747935939fba7860a14c27767b99b7f",
+      "format": "JSON"
+    },
+    {
+      "name": "parisreview-2022-08-05T06:38:28.940780+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "parisreview-2022-08-05T06:38:28.940780+02:00.jpg",
+      "mtime": "1659677516",
+      "size": "9800",
+      "md5": "49e56e58ffa7c1c663fd4e9759099d78",
+      "crc32": "1c6e738e",
+      "sha1": "7bea1c2eca3230df8e4b0f03a5d2c0f1997433b2"
+    },
+    {
       "name": "parisreview-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d267afba972e8d9aeb45b68876fadad4c16fd0e5",
-      "mtime": "1659637199",
-      "size": "60471",
-      "md5": "f79d3881445609e0425a94308759f1c6",
-      "crc32": "e2c001ed",
-      "sha1": "ed683d1bf6c72363a8cba7e032b53db4b13697b4",
+      "btih": "1730f9181f30bcdc3cb388bb5740e1304b1f36f1",
+      "mtime": "1659677526",
+      "size": "61544",
+      "md5": "4fafda462209dcb2732542c67810083a",
+      "crc32": "1e72d258",
+      "sha1": "462ac4e6798738502fe870159c25833256644c3f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "parisreview-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6017b67620f22c0e3ece0ca504c52c17",
+      "md5": "630b91941b39d22da901df04db77d576",
       "summation": "md5"
     },
     {
       "name": "parisreview-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659632316",
-      "size": "348160",
-      "md5": "78af09b02c74ea4519ec848cbb608e22",
-      "crc32": "78b6b71a",
-      "sha1": "3112bdb07dcc19baaf33131cbeb5fd7756342160",
+      "mtime": "1659674318",
+      "size": "356352",
+      "md5": "f8ceeda578c352833c6a4e1fcb35ef2c",
+      "crc32": "0217ce68",
+      "sha1": "cab1bc4d75bbe78b64c3936945b930fd2341c8a3",
       "format": "Metadata"
     },
     {
@@ -2940,9 +2992,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 281,
-  "item_last_updated": 1659637199,
-  "item_size": 20458407,
+  "files_count": 286,
+  "item_last_updated": 1659677526,
+  "item_size": 20767442,
   "metadata": {
     "identifier": "parisreview-2022",
     "collection": [
@@ -2959,10 +3011,10 @@
     "publicdate": "2022-07-04 21:51:06",
     "addeddate": "2022-07-04 21:51:06"
   },
-  "server": "ia801404.us.archive.org",
-  "uniq": 2115579891,
+  "server": "ia601404.us.archive.org",
+  "uniq": 603120902,
   "workable_servers": [
-    "ia801404.us.archive.org",
-    "ia601404.us.archive.org"
+    "ia601404.us.archive.org",
+    "ia801404.us.archive.org"
   ]
 }

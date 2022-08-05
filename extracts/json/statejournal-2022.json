@@ -1,5 +1,5 @@
 {
-  "created": 1659660971,
+  "created": 1659684197,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/1/items/statejournal-2022",
@@ -412,31 +412,73 @@
       "sha1": "5a9a60ed89416525f95ad15ca9be1ae6dc5691bf"
     },
     {
+      "name": "statejournal-2022-08-05T00:42:29.643724-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659674553",
+      "size": "42828",
+      "md5": "0993526798b17df5e083c1fb71d6c777",
+      "crc32": "aaa02f2d",
+      "sha1": "3c283ae578b722bc06ee5ce8bd1c60dadb31b0b3",
+      "format": "JSON"
+    },
+    {
+      "name": "statejournal-2022-08-05T00:42:29.643724-04:00.jpg",
+      "source": "original",
+      "mtime": "1659674551",
+      "size": "272654",
+      "md5": "c7d606f9362b6a4db8671cb0f3c24a5d",
+      "crc32": "51627d5f",
+      "sha1": "558726ef90b64c9ac52067c8c88a8048cd052247",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "statejournal-2022-08-05T00:42:29.643724-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659674555",
+      "size": "1522",
+      "md5": "6a7adb0ef0e5e3b9eb06c09e046a30d7",
+      "crc32": "2acc9aef",
+      "sha1": "afa45a022cbb8fd25dbb932f1c665f785b1a05f4",
+      "format": "JSON"
+    },
+    {
+      "name": "statejournal-2022-08-05T00:42:29.643724-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "statejournal-2022-08-05T00:42:29.643724-04:00.jpg",
+      "mtime": "1659677658",
+      "size": "9412",
+      "md5": "9c33c4995b69c2eddf86d5431f61d218",
+      "crc32": "d9ec5581",
+      "sha1": "e121253039aa3ecc720254b5861e4f7e054e2c2a"
+    },
+    {
       "name": "statejournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "09ba16b835a94d97bc8249bea7e4af876934a4a8",
-      "mtime": "1659637657",
-      "size": "9826",
-      "md5": "7f7887ff1e7e4ab457f9fbd32bce9dd3",
-      "crc32": "2f1b90ef",
-      "sha1": "5d099444902a6ccdd93196051dd4106d831de3c2",
+      "btih": "13b03298d3f1a47891b7fa53957157fe3efb0d3f",
+      "mtime": "1659677661",
+      "size": "10690",
+      "md5": "beeea20e54a1f1a7f3675f1244bcddee",
+      "crc32": "c771c407",
+      "sha1": "eb147dc77e989bdd5a81a2fdbcaa24095b669e59",
       "format": "Archive BitTorrent"
     },
     {
       "name": "statejournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "353587b974ba5ce5fe0f163b3cb44609",
+      "md5": "eb8416a80d134ba038d10cef950804e9",
       "summation": "md5"
     },
     {
       "name": "statejournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659632624",
-      "size": "61440",
-      "md5": "20db8a4cd2375a7cf918f3b10545305b",
-      "crc32": "f407433a",
-      "sha1": "f27be91c7b6f8a20bf584c505b717471acd777b3",
+      "mtime": "1659674557",
+      "size": "65536",
+      "md5": "792395c431334d7f7bf06ae294f872d2",
+      "crc32": "0e83724f",
+      "sha1": "bacb715dc1b5d994f2f9993cadfd0da483ee2703",
       "format": "Metadata"
     },
     {
@@ -450,9 +492,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 43,
-  "item_last_updated": 1659637657,
-  "item_size": 3631322,
+  "files_count": 47,
+  "item_last_updated": 1659677661,
+  "item_size": 3962698,
   "metadata": {
     "identifier": "statejournal-2022",
     "collection": [
@@ -474,10 +516,10 @@
     {
       "url": "https://www.state-journal.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_state_journal_com-_-2022_08_04_16_22_08.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_state_journal_com-_-2022_08_04_16_22_08.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_state_journal_com-_-2022_08_05_03_35_19.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_state_journal_com-_-2022_08_05_03_35_19.report.json",
       "summary": {
-        "performance": 0.05,
+        "performance": 0.06,
         "accessibility": 0.87,
         "best-practices": 0.75,
         "seo": 0.69,
@@ -487,8 +529,8 @@
     {
       "url": "https://www.state-journal.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_state_journal_com-_-2022_08_04_16_24_04.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_state_journal_com-_-2022_08_04_16_24_04.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_state_journal_com-_-2022_08_05_03_37_09.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_state_journal_com-_-2022_08_05_03_37_09.report.json",
       "summary": {
         "performance": 0.06,
         "accessibility": 0.87,
@@ -500,10 +542,10 @@
     {
       "url": "https://www.state-journal.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_state_journal_com-_-2022_08_04_16_26_02.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_state_journal_com-_-2022_08_04_16_26_02.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_state_journal_com-_-2022_08_05_03_39_00.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_state_journal_com-_-2022_08_05_03_39_00.report.json",
       "summary": {
-        "performance": 0.06,
+        "performance": 0.05,
         "accessibility": 0.87,
         "best-practices": 0.75,
         "seo": 0.69,
@@ -511,7 +553,7 @@
       }
     }
   ],
-  "uniq": 935831956,
+  "uniq": 1551881386,
   "workable_servers": [
     "ia801500.us.archive.org",
     "ia601500.us.archive.org"

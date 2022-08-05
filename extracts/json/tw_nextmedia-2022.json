@@ -1,5 +1,5 @@
 {
-  "created": 1659661143,
+  "created": 1659667415,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/5/items/tw_nextmedia-2022",
@@ -266,31 +266,83 @@
       "sha1": "d496206390da380f4b92ce50d16f4ccbca96ed2c"
     },
     {
+      "name": "tw_nextmedia-2022-08-05T10:00:19.065053+08:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659664823",
+      "size": "34569",
+      "md5": "9757d364660ce2e213dc458e443fea35",
+      "crc32": "d5bf7c5f",
+      "sha1": "916a19aa54c34f61e2204129d58a4e337cbb9301",
+      "format": "JSON"
+    },
+    {
+      "name": "tw_nextmedia-2022-08-05T10:00:19.065053+08:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659664824",
+      "size": "119941",
+      "md5": "6599af8b546663f3cde075dea0217ab9",
+      "crc32": "f3788cd5",
+      "sha1": "0e07c6492eb0d7c0680a94fd1b05046d4c2c6ccd",
+      "format": "JSON"
+    },
+    {
+      "name": "tw_nextmedia-2022-08-05T10:00:19.065053+08:00.jpg",
+      "source": "original",
+      "mtime": "1659664821",
+      "size": "275461",
+      "md5": "6229de3b6cc32a892474f607ccbb221c",
+      "crc32": "25c3d055",
+      "sha1": "9049b777abca3d94de978569919f5b0356fc659d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tw_nextmedia-2022-08-05T10:00:19.065053+08:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659664826",
+      "size": "1476",
+      "md5": "3c34cca3ff61df0ce25f7bd194abd3f8",
+      "crc32": "77107bb2",
+      "sha1": "f9aca6a74fb2ab1b661c0814918252fc17bb4108",
+      "format": "JSON"
+    },
+    {
+      "name": "tw_nextmedia-2022-08-05T10:00:19.065053+08:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tw_nextmedia-2022-08-05T10:00:19.065053+08:00.jpg",
+      "mtime": "1659667376",
+      "size": "10076",
+      "md5": "48f049f51b2481c5a32275f4608ba531",
+      "crc32": "ec3b4a5b",
+      "sha1": "7fc293b4faf738db06d7423fbe13277dd8f7f881"
+    },
+    {
       "name": "tw_nextmedia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a43b23619b7dcf5ba8712aac64dcf20952efe689",
-      "mtime": "1659624919",
-      "size": "6831",
-      "md5": "99333756f79b83c3195b266197fdeec8",
-      "crc32": "961b3f37",
-      "sha1": "9234059de51080bb258474001139e3cfb2d9ef5c",
+      "btih": "de424d175b2c55900add998615a5ac19d147ea08",
+      "mtime": "1659667380",
+      "size": "7912",
+      "md5": "425df23f1ba56dbc968dbad2c648647f",
+      "crc32": "4f1f8d89",
+      "sha1": "304a753c76bc14c4d75b3d8d1953ee4afedb37cc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tw_nextmedia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d6420a3f2edfe21f1d55d8d6e017ffe0",
+      "md5": "eb58c5b0bf219e7720f45332a16d8c13",
       "summation": "md5"
     },
     {
       "name": "tw_nextmedia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659621478",
-      "size": "49152",
-      "md5": "0741d0ce1d59ab53f1ee750b87a4d422",
-      "crc32": "867ff143",
-      "sha1": "1f318510302c7a6297e12d793dfe1cc4ee752dd7",
+      "mtime": "1659664830",
+      "size": "53248",
+      "md5": "0701b1daa9dbcf2361822d7a2631b047",
+      "crc32": "7dbb99a8",
+      "sha1": "572af62c99974bc25cc145bc255db437bd8d0bf2",
       "format": "Metadata"
     },
     {
@@ -304,9 +356,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 29,
-  "item_last_updated": 1659624919,
-  "item_size": 2406337,
+  "files_count": 34,
+  "item_last_updated": 1659667380,
+  "item_size": 2853037,
   "metadata": {
     "identifier": "tw_nextmedia-2022",
     "collection": [
@@ -323,51 +375,10 @@
     "publicdate": "2022-08-02 14:49:08",
     "addeddate": "2022-08-02 14:49:08"
   },
-  "server": "ia802505.us.archive.org",
-  "tw_nextmedia-2022": [
-    {
-      "url": "https://tw.appledaily.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/tw_appledaily_com-_-2022_08_04_13_31_22.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/tw_appledaily_com-_-2022_08_04_13_31_22.report.json",
-      "summary": {
-        "performance": 0.1,
-        "accessibility": 0.77,
-        "best-practices": 1,
-        "seo": 0.99,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://tw.appledaily.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/tw_appledaily_com-_-2022_08_04_13_32_03.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/tw_appledaily_com-_-2022_08_04_13_32_03.report.json",
-      "summary": {
-        "performance": 0.17,
-        "accessibility": 0.77,
-        "best-practices": 1,
-        "seo": 0.99,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://tw.appledaily.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/tw_appledaily_com-_-2022_08_04_13_31_43.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/tw_appledaily_com-_-2022_08_04_13_31_43.report.json",
-      "summary": {
-        "performance": 0.17,
-        "accessibility": 0.77,
-        "best-practices": 1,
-        "seo": 0.99,
-        "pwa": 0.3
-      }
-    }
-  ],
-  "uniq": 2073542209,
+  "server": "ia902505.us.archive.org",
+  "uniq": 1710076498,
   "workable_servers": [
-    "ia802505.us.archive.org",
-    "ia902505.us.archive.org"
+    "ia902505.us.archive.org",
+    "ia802505.us.archive.org"
   ]
 }

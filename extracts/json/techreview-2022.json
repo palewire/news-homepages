@@ -1,5 +1,5 @@
 {
-  "created": 1659661000,
+  "created": 1659677754,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/21/items/techreview-2022",
@@ -1150,31 +1150,83 @@
       "sha1": "a8bd20f5a83fb3f57f361afa98cf0b24304bbb5c"
     },
     {
+      "name": "techreview-2022-08-05T00:43:44.371255-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659674627",
+      "size": "24848",
+      "md5": "88d8f73f07288a6a70d28369f12c6b74",
+      "crc32": "bce3f6ee",
+      "sha1": "fc3c6e48fd7a34590c69896acd7ee7e240aab22d",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-08-05T00:43:44.371255-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659674628",
+      "size": "13053",
+      "md5": "e12af644fed3ee0df3bb25a2faddfe04",
+      "crc32": "75f13c53",
+      "sha1": "6bb661680f77598645855b872c13c33a94c1927e",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-08-05T00:43:44.371255-04:00.jpg",
+      "source": "original",
+      "mtime": "1659674625",
+      "size": "251566",
+      "md5": "074f469df84c21597147b3fbe3821481",
+      "crc32": "7d5564b6",
+      "sha1": "52fabfe6bdb8cc4e6bcf5b7d6cc7acaff7f8df61",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "techreview-2022-08-05T00:43:44.371255-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659674630",
+      "size": "1539",
+      "md5": "9ae8af5d887f6761abc7cf3b3307468f",
+      "crc32": "025fa16f",
+      "sha1": "7c033d53f7a38fdc00866c50be2fd3dae83b3e61",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-08-05T00:43:44.371255-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "techreview-2022-08-05T00:43:44.371255-04:00.jpg",
+      "mtime": "1659677746",
+      "size": "10051",
+      "md5": "431d98f4f39c7e8f8d578e41228cac79",
+      "crc32": "8b097191",
+      "sha1": "32d9da3a51602b349ea62cc643c7c51ab9c947c9"
+    },
+    {
       "name": "techreview-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5ef51529f2b116299fb053c22fe0334f89ea641f",
-      "mtime": "1659637791",
-      "size": "24774",
-      "md5": "a832366bad4331d15e3c035e17b3fce2",
-      "crc32": "ba52b60d",
-      "sha1": "ed608c826a415dfdc4ec7d3f250988384c8e26c3",
+      "btih": "66d7bc7f05fb594b7e2bdc027c80ac9a1ffba000",
+      "mtime": "1659677749",
+      "size": "25844",
+      "md5": "fd7b5388f8b26fc3b94f3fe6d0f5ec0c",
+      "crc32": "53de20a9",
+      "sha1": "58d6ba814ee1a2c6ada1c596da1eab7221822d7f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "techreview-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b84f157ec261c38d4d6db4f5b9223136",
+      "md5": "9dbb1e170255fd4cf8380983284ab65d",
       "summation": "md5"
     },
     {
       "name": "techreview-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659632832",
-      "size": "155648",
-      "md5": "5eae21977c475ff0b3354f913583ea4a",
-      "crc32": "044aceb6",
-      "sha1": "0bbc29248648641175a7ca8ad181c35068110bd1",
+      "mtime": "1659674635",
+      "size": "163840",
+      "md5": "aa906b386155d9b4062964c20e8bee18",
+      "crc32": "972036d1",
+      "sha1": "13e11caa5d7d84c389050c062c6173af077f83b4",
       "format": "Metadata"
     },
     {
@@ -1188,9 +1240,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 114,
-  "item_last_updated": 1659637791,
-  "item_size": 7167180,
+  "files_count": 119,
+  "item_last_updated": 1659677749,
+  "item_size": 7477499,
   "metadata": {
     "identifier": "techreview-2022",
     "collection": [
@@ -1208,48 +1260,7 @@
     "addeddate": "2022-07-25 06:47:07"
   },
   "server": "ia801509.us.archive.org",
-  "techreview-2022": [
-    {
-      "url": "https://www.technologyreview.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_technologyreview_com-_-2022_08_04_16_23_59.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_technologyreview_com-_-2022_08_04_16_23_59.report.json",
-      "summary": {
-        "performance": 0.2,
-        "accessibility": 0.77,
-        "best-practices": 1,
-        "seo": 0.84,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://www.technologyreview.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_technologyreview_com-_-2022_08_04_16_24_22.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_technologyreview_com-_-2022_08_04_16_24_22.report.json",
-      "summary": {
-        "performance": 0.22,
-        "accessibility": 0.77,
-        "best-practices": 1,
-        "seo": 0.84,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://www.technologyreview.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_technologyreview_com-_-2022_08_04_16_24_44.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_technologyreview_com-_-2022_08_04_16_24_44.report.json",
-      "summary": {
-        "performance": 0.21,
-        "accessibility": 0.77,
-        "best-practices": 1,
-        "seo": 0.84,
-        "pwa": 0.3
-      }
-    }
-  ],
-  "uniq": 1458514464,
+  "uniq": 615169123,
   "workable_servers": [
     "ia801509.us.archive.org",
     "ia601509.us.archive.org"

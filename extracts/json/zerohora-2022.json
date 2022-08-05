@@ -1,5 +1,5 @@
 {
-  "created": 1659651936,
+  "created": 1659677903,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/22/items/zerohora-2022",
@@ -172,31 +172,83 @@
       "sha1": "7f0e07d3c65ea1c65a05aee41a684367d5e3d45a"
     },
     {
+      "name": "zerohora-2022-08-05T01:48:26.268584-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659674909",
+      "size": "36356",
+      "md5": "2f038a58762e5a7b9a3a5ad8ed7c7b8d",
+      "crc32": "1742d000",
+      "sha1": "986c3fad81fc023caf29e84dc57f5c7100d9518d",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohora-2022-08-05T01:48:26.268584-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659674911",
+      "size": "37349",
+      "md5": "2450e99ee8f89dfa60d87051423e6858",
+      "crc32": "8084af0a",
+      "sha1": "2afa6cfa6c3d1f7fa393164518751f397aacd835",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohora-2022-08-05T01:48:26.268584-03:00.jpg",
+      "source": "original",
+      "mtime": "1659674907",
+      "size": "306935",
+      "md5": "246b6e6dbe32e800fb7f2b069e5271da",
+      "crc32": "b6dc8d32",
+      "sha1": "98c61238176a88d218124097e42740320de94e5a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "zerohora-2022-08-05T01:48:26.268584-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659674912",
+      "size": "1537",
+      "md5": "277f56ceb3d2f6f8569d5f57d562bd4f",
+      "crc32": "fce10fb5",
+      "sha1": "9012644353620bc34cd11dd8f7034f74af1b66f6",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohora-2022-08-05T01:48:26.268584-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "zerohora-2022-08-05T01:48:26.268584-03:00.jpg",
+      "mtime": "1659677895",
+      "size": "10665",
+      "md5": "9f86239093a3e2808ce54461a2326b75",
+      "crc32": "96569a6a",
+      "sha1": "53d9cb74eec08acfd39bb727e57689fcbf21e9b8"
+    },
+    {
       "name": "zerohora-2022_archive.torrent",
       "source": "metadata",
-      "btih": "def6ad6d565d1bc2aef9047f7e4ecbb453104322",
-      "mtime": "1659651902",
-      "size": "4786",
-      "md5": "ce3d8496a597c23cf0cbc0b88cd273fe",
-      "crc32": "7894270c",
-      "sha1": "aa4055f75e859e3f451f0317471f98a5cbb5347b",
+      "btih": "1d9abbf6c144aefbf7cf91bd610281644cba7be7",
+      "mtime": "1659677898",
+      "size": "5846",
+      "md5": "8fc557318c1847f72a2d24938d8aa724",
+      "crc32": "f932cbf7",
+      "sha1": "dd82a5d709e802679010ac71b568b862a1655e37",
       "format": "Archive BitTorrent"
     },
     {
       "name": "zerohora-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "565d7f4f9249414a5ddc0469e5973e01",
+      "md5": "158b2b174ce9905f4e3fdbdfac5b53c1",
       "summation": "md5"
     },
     {
       "name": "zerohora-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659648030",
-      "size": "36864",
-      "md5": "fcc911031fd6ad5fb9ff84b7ef573d04",
-      "crc32": "329fb3e2",
-      "sha1": "c950dd0ebc760bae1b315f425f4a46e21d6330cc",
+      "mtime": "1659674917",
+      "size": "45056",
+      "md5": "4e1c58bd43ab6c6eb6f240df65636d9e",
+      "crc32": "1eaef35a",
+      "sha1": "fd17836b56bdc76a294905e9e86a7ba7161c7ddd",
       "format": "Metadata"
     },
     {
@@ -210,9 +262,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 20,
-  "item_last_updated": 1659651902,
-  "item_size": 1223460,
+  "files_count": 25,
+  "item_last_updated": 1659677898,
+  "item_size": 1625554,
   "metadata": {
     "identifier": "zerohora-2022",
     "collection": [
@@ -229,10 +281,10 @@
     "publicdate": "2022-08-04 04:56:36",
     "addeddate": "2022-08-04 04:56:36"
   },
-  "server": "ia801400.us.archive.org",
-  "uniq": 2064069044,
+  "server": "ia601400.us.archive.org",
+  "uniq": 298862682,
   "workable_servers": [
-    "ia801400.us.archive.org",
-    "ia601400.us.archive.org"
+    "ia601400.us.archive.org",
+    "ia801400.us.archive.org"
   ]
 }

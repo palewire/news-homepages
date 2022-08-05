@@ -1,5 +1,5 @@
 {
-  "created": 1659660264,
+  "created": 1659665873,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/11/items/infoamazoniabr-2022",
@@ -328,31 +328,83 @@
       "sha1": "4b441ff6253645461e4f04fcb2b5e68dfc982803"
     },
     {
+      "name": "infoamazoniabr-2022-08-04T22:38:45.504450-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659663528",
+      "size": "24139",
+      "md5": "c02d23d626647acd77d2d74417183a80",
+      "crc32": "fa0d3d4a",
+      "sha1": "534c3ca25ad51a3bc3287f504764b8b590d9419f",
+      "format": "JSON"
+    },
+    {
+      "name": "infoamazoniabr-2022-08-04T22:38:45.504450-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659663529",
+      "size": "22456",
+      "md5": "91afa5162418aaecc4ce3cb1abe2567f",
+      "crc32": "fefbc5a6",
+      "sha1": "f40847a358db58cd3ea99a67a05a6e8bd573312f",
+      "format": "JSON"
+    },
+    {
+      "name": "infoamazoniabr-2022-08-04T22:38:45.504450-03:00.jpg",
+      "source": "original",
+      "mtime": "1659663526",
+      "size": "240548",
+      "md5": "dc7032bdba1e3323a035b4d441a5f762",
+      "crc32": "ec0ca1e9",
+      "sha1": "a7236ce0e5ccf4daa2b5414f56b44102b013e95b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "infoamazoniabr-2022-08-04T22:38:45.504450-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659663530",
+      "size": "1467",
+      "md5": "70ebb6d186ee370e7f84e0391296a5b7",
+      "crc32": "c9b57989",
+      "sha1": "9f8614982b024ac5b47d7b4a385e106111d34233",
+      "format": "JSON"
+    },
+    {
+      "name": "infoamazoniabr-2022-08-04T22:38:45.504450-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "infoamazoniabr-2022-08-04T22:38:45.504450-03:00.jpg",
+      "mtime": "1659665849",
+      "size": "9839",
+      "md5": "4b58c1b6a62987f8bb1c1b1b372cb387",
+      "crc32": "d623fd98",
+      "sha1": "4b441ff6253645461e4f04fcb2b5e68dfc982803"
+    },
+    {
       "name": "infoamazoniabr-2022_archive.torrent",
       "source": "metadata",
-      "btih": "302feeab22430741d2139f7c67022604546b7bd7",
-      "mtime": "1659651505",
-      "size": "8155",
-      "md5": "54c02b4667e46930d6ad642b0052a3e7",
-      "crc32": "025eef64",
-      "sha1": "681c6903a7e002212d55542fda817d7d937cfd82",
+      "btih": "d6284f90e553338a03d5ddab740abc452716755c",
+      "mtime": "1659665859",
+      "size": "9245",
+      "md5": "39bb3c5a5982311b6566d9c98a73d412",
+      "crc32": "84314f19",
+      "sha1": "269dd7abd136f0da516ec92cecbc77152717ae9f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "infoamazoniabr-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e4958d769f74b99105dc3846df671ad9",
+      "md5": "8735b9864fcb288a8e7d2e6d440cb06a",
       "summation": "md5"
     },
     {
       "name": "infoamazoniabr-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659647960",
-      "size": "53248",
-      "md5": "8d2a0cce7b0f2dddb0ad009f8d2d025c",
-      "crc32": "4ca6cb7f",
-      "sha1": "f61542bc8fc9b630db06465f01647e32bed74bd8",
+      "mtime": "1659663534",
+      "size": "61440",
+      "md5": "934a657b59ba80dc09a90029fb357a83",
+      "crc32": "ba0c7f9c",
+      "sha1": "6535d5cb58ee1dce940a1466cffb492663553b11",
       "format": "Metadata"
     },
     {
@@ -366,50 +418,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 35,
-  "infoamazoniabr-2022": [
-    {
-      "url": "https://infoamazonia.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/infoamazonia_org-_-2022_08_04_21_04_41.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/infoamazonia_org-_-2022_08_04_21_04_41.report.json",
-      "summary": {
-        "performance": 0.2,
-        "accessibility": 0.88,
-        "best-practices": 0.92,
-        "seo": 1,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://infoamazonia.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/infoamazonia_org-_-2022_08_04_21_05_23.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/infoamazonia_org-_-2022_08_04_21_05_23.report.json",
-      "summary": {
-        "performance": 0.21,
-        "accessibility": 0.88,
-        "best-practices": 0.92,
-        "seo": 1,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://infoamazonia.org/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/infoamazonia_org-_-2022_08_04_21_06_03.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/infoamazonia_org-_-2022_08_04_21_06_03.report.json",
-      "summary": {
-        "performance": 0.2,
-        "accessibility": 0.88,
-        "best-practices": 0.92,
-        "seo": 1,
-        "pwa": 0.4
-      }
-    }
-  ],
-  "item_last_updated": 1659651505,
-  "item_size": 1869318,
+  "files_count": 40,
+  "item_last_updated": 1659665859,
+  "item_size": 2177049,
   "metadata": {
     "identifier": "infoamazoniabr-2022",
     "collection": [
@@ -427,7 +438,7 @@
     "addeddate": "2022-08-03 00:33:10"
   },
   "server": "ia801401.us.archive.org",
-  "uniq": 842167730,
+  "uniq": 933300225,
   "workable_servers": [
     "ia801401.us.archive.org",
     "ia601401.us.archive.org"

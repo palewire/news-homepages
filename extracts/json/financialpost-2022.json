@@ -1,5 +1,5 @@
 {
-  "created": 1659660128,
+  "created": 1659684064,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/6/items/financialpost-2022",
@@ -4004,31 +4004,73 @@
       "sha1": "ed4341e679308cbe3e2934bfee1363913a002798"
     },
     {
+      "name": "financialpost-2022-08-04T23:15:41.022739-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659669343",
+      "size": "66635",
+      "md5": "5a48cc35823cfff9854a16f80879bff4",
+      "crc32": "ba7fa204",
+      "sha1": "d0a4c8ee6ad1ffdbe3da1400b1460270952dc6e0",
+      "format": "JSON"
+    },
+    {
+      "name": "financialpost-2022-08-04T23:15:41.022739-04:00.jpg",
+      "source": "original",
+      "mtime": "1659669342",
+      "size": "310956",
+      "md5": "2c2f030c5b2e6ed483ab3d0ca70b71ea",
+      "crc32": "6c098446",
+      "sha1": "b0eea0182d1d70f515a7d897aee375af2fe07e39",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "financialpost-2022-08-04T23:15:41.022739-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659669345",
+      "size": "1486",
+      "md5": "df10f09cd202ebed52c921c39a6606fd",
+      "crc32": "d5d637c0",
+      "sha1": "ad947a69e3acf95d1b0ee6502cb0d74a71a204c4",
+      "format": "JSON"
+    },
+    {
+      "name": "financialpost-2022-08-04T23:15:41.022739-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "financialpost-2022-08-04T23:15:41.022739-04:00.jpg",
+      "mtime": "1659672199",
+      "size": "10057",
+      "md5": "3ffe00971126d84acc336b1ac530f1df",
+      "crc32": "859afd6a",
+      "sha1": "902c2132a4286f5a2e85f419fac1818f8c9c1df2"
+    },
+    {
       "name": "financialpost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d4a30fa96e1cef58638815222912e135bac6161c",
-      "mtime": "1659629851",
-      "size": "84165",
-      "md5": "cabe0915b252ea2dbdc98eaeeefe1907",
-      "crc32": "85e8a9f9",
-      "sha1": "14f3915c809490acfcbf689eab7de78f2cc86c84",
+      "btih": "3a7038eca45f2ed74cc0b4db9b1c28ea6c7d4ec5",
+      "mtime": "1659672213",
+      "size": "85034",
+      "md5": "782121e9b1f2802c0c214ca9f74fd690",
+      "crc32": "ce4da8c3",
+      "sha1": "bb7a0746fbede0d3c08bd2a26cd31452c480a9a2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "financialpost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "52bdaca54e3610152ab96e7e19623b57",
+      "md5": "e4ae3b3f95fab0354d12e36c19d4981b",
       "summation": "md5"
     },
     {
       "name": "financialpost-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659626463",
-      "size": "471040",
-      "md5": "50f1dd7eacdf0a9dc06d70086e6a146f",
-      "crc32": "874db0d4",
-      "sha1": "a7a3bc27c8fdcb216b5d70d3c2bbbe9326636577",
+      "mtime": "1659669349",
+      "size": "475136",
+      "md5": "03e5ea4565836696890238281039c090",
+      "crc32": "0a444d28",
+      "sha1": "c666b7023b9a222e268f10c0864edefb07e99328",
       "format": "Metadata"
     },
     {
@@ -4042,15 +4084,15 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 386,
+  "files_count": 390,
   "financialpost-2022": [
     {
       "url": "https://financialpost.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/financialpost_com-_-2022_08_04_14_50_00.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/financialpost_com-_-2022_08_04_14_50_00.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/financialpost_com-_-2022_08_05_02_46_40.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/financialpost_com-_-2022_08_05_02_46_40.report.json",
       "summary": {
-        "performance": 0.19,
+        "performance": 0.21,
         "accessibility": 0.93,
         "best-practices": 0.92,
         "seo": 0.91,
@@ -4060,10 +4102,10 @@
     {
       "url": "https://financialpost.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/financialpost_com-_-2022_08_04_14_50_31.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/financialpost_com-_-2022_08_04_14_50_31.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/financialpost_com-_-2022_08_05_02_47_02.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/financialpost_com-_-2022_08_05_02_47_02.report.json",
       "summary": {
-        "performance": 0.19,
+        "performance": 0.21,
         "accessibility": 0.93,
         "best-practices": 0.92,
         "seo": 0.91,
@@ -4073,10 +4115,10 @@
     {
       "url": "https://financialpost.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/financialpost_com-_-2022_08_04_14_49_29.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/financialpost_com-_-2022_08_04_14_49_29.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/financialpost_com-_-2022_08_05_02_47_28.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/financialpost_com-_-2022_08_05_02_47_28.report.json",
       "summary": {
-        "performance": 0.2,
+        "performance": 0.21,
         "accessibility": 0.93,
         "best-practices": 0.92,
         "seo": 0.91,
@@ -4084,8 +4126,8 @@
       }
     }
   ],
-  "item_last_updated": 1659629851,
-  "item_size": 39321983,
+  "item_last_updated": 1659672213,
+  "item_size": 39716082,
   "metadata": {
     "identifier": "financialpost-2022",
     "collection": [
@@ -4102,10 +4144,10 @@
     "publicdate": "2022-06-30 22:35:47",
     "addeddate": "2022-06-30 22:35:47"
   },
-  "server": "ia801404.us.archive.org",
-  "uniq": 982967435,
+  "server": "ia601404.us.archive.org",
+  "uniq": 986597152,
   "workable_servers": [
-    "ia801404.us.archive.org",
-    "ia601404.us.archive.org"
+    "ia601404.us.archive.org",
+    "ia801404.us.archive.org"
   ]
 }

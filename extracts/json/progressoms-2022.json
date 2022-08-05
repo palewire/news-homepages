@@ -1,5 +1,5 @@
 {
-  "created": 1659660758,
+  "created": 1659677579,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/28/items/progressoms-2022",
@@ -172,31 +172,83 @@
       "sha1": "3c2f7ab6be931233aca231767571587665030c8c"
     },
     {
+      "name": "progressoms-2022-08-05T01:39:06.149204-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659674350",
+      "size": "1179",
+      "md5": "bc94d58c51704e2cfaebe8634e67d19b",
+      "crc32": "b07784d0",
+      "sha1": "e01ee99e8a23d02cd7a3ccb7aa221d19cbd3b98d",
+      "format": "JSON"
+    },
+    {
+      "name": "progressoms-2022-08-05T01:39:06.149204-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659674352",
+      "size": "32893",
+      "md5": "54339b03790c19eefce38475feaf3ccf",
+      "crc32": "082406ec",
+      "sha1": "77e27bc699738d2ff9f150e4a02c7f68401bcbad",
+      "format": "JSON"
+    },
+    {
+      "name": "progressoms-2022-08-05T01:39:06.149204-03:00.jpg",
+      "source": "original",
+      "mtime": "1659674348",
+      "size": "298487",
+      "md5": "55efce34fcf4cbda1985460c2e4200c8",
+      "crc32": "ffedb49d",
+      "sha1": "2da6be4645f3bbf8c066f5ddccfdbfef31a9e8da",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "progressoms-2022-08-05T01:39:06.149204-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659674354",
+      "size": "1513",
+      "md5": "c0e1f60ec8aa826549e033ea59520547",
+      "crc32": "ee5ace05",
+      "sha1": "6d0cf17cf150bb58a794187909641d0f7c11e13e",
+      "format": "JSON"
+    },
+    {
+      "name": "progressoms-2022-08-05T01:39:06.149204-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "progressoms-2022-08-05T01:39:06.149204-03:00.jpg",
+      "mtime": "1659677558",
+      "size": "11199",
+      "md5": "548861d82f6afc0643eaaa2be291f213",
+      "crc32": "c1625a93",
+      "sha1": "ed4c6e4a7aca035a706382eebd128919f0814935"
+    },
+    {
       "name": "progressoms-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ecaceeca7e794dbc4bddad38ee24c69e0d464c2e",
-      "mtime": "1659651536",
-      "size": "4855",
-      "md5": "712a8fbc49052862241f2fa30c1325eb",
-      "crc32": "c75b1051",
-      "sha1": "cc3343ef1ba3cda07f949224c50d69f29f0a7141",
+      "btih": "083c5d2b17cb5e45b3340d4a30e4bb48c44c912f",
+      "mtime": "1659677562",
+      "size": "5909",
+      "md5": "f560d9717f38a942d57c1019e29c404f",
+      "crc32": "76f50845",
+      "sha1": "f5f38d4551085a0ca4a6348b8bc8363e94e51bed",
       "format": "Archive BitTorrent"
     },
     {
       "name": "progressoms-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d91f2f05dee7163f7760dffaddb09f0c",
+      "md5": "d8385d8943a3e648ccbf0fcc8b549655",
       "summation": "md5"
     },
     {
       "name": "progressoms-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659647972",
-      "size": "36864",
-      "md5": "f331f615c193707b2d809a95ad08eb11",
-      "crc32": "a8803327",
-      "sha1": "4ff62d040e9feecb8ac84b4cad592feb88d5546e",
+      "mtime": "1659674359",
+      "size": "45056",
+      "md5": "a923b3e58936e897bcaf58102f57d5d0",
+      "crc32": "37121621",
+      "sha1": "cfdffa81cc9030985bb97ac1ae8a53f9ee052526",
       "format": "Metadata"
     },
     {
@@ -210,9 +262,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 20,
-  "item_last_updated": 1659651536,
-  "item_size": 1098544,
+  "files_count": 25,
+  "item_last_updated": 1659677562,
+  "item_size": 1453061,
   "metadata": {
     "identifier": "progressoms-2022",
     "collection": [
@@ -229,51 +281,10 @@
     "publicdate": "2022-08-04 04:56:28",
     "addeddate": "2022-08-04 04:56:28"
   },
-  "progressoms-2022": [
-    {
-      "url": "https://www.progresso.com.br/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_progresso_com_br-_-2022_08_04_21_05_57.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_progresso_com_br-_-2022_08_04_21_05_57.report.json",
-      "summary": {
-        "performance": 0.32,
-        "accessibility": 0.67,
-        "best-practices": 0.58,
-        "seo": 0.88,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://www.progresso.com.br/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_progresso_com_br-_-2022_08_04_21_06_12.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_progresso_com_br-_-2022_08_04_21_06_12.report.json",
-      "summary": {
-        "performance": 0.43,
-        "accessibility": 0.67,
-        "best-practices": 0.58,
-        "seo": 0.88,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://www.progresso.com.br/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_progresso_com_br-_-2022_08_04_21_06_26.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_progresso_com_br-_-2022_08_04_21_06_26.report.json",
-      "summary": {
-        "performance": 0.38,
-        "accessibility": 0.67,
-        "best-practices": 0.58,
-        "seo": 0.88,
-        "pwa": 0.3
-      }
-    }
-  ],
-  "server": "ia601506.us.archive.org",
-  "uniq": 1413335996,
+  "server": "ia801506.us.archive.org",
+  "uniq": 960833051,
   "workable_servers": [
-    "ia601506.us.archive.org",
-    "ia801506.us.archive.org"
+    "ia801506.us.archive.org",
+    "ia601506.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1659638200,
+  "created": 1659677680,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/0/items/sternde-2022",
@@ -1056,31 +1056,83 @@
       "sha1": "af0e9d3da4387c69e0d315872dd8d06c45d0df2c"
     },
     {
+      "name": "sternde-2022-08-05T06:42:31.207819+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659674554",
+      "size": "103174",
+      "md5": "1ced3b6eaee765e3da23d0337b661ce8",
+      "crc32": "3fc2aa8b",
+      "sha1": "a448710a74ff9e5d12b48b33651d85821bfde753",
+      "format": "JSON"
+    },
+    {
+      "name": "sternde-2022-08-05T06:42:31.207819+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659674556",
+      "size": "97275",
+      "md5": "c633de66afbfc0144561cda7b82189b5",
+      "crc32": "5d313956",
+      "sha1": "43645eae3237546a76860ed0f6b82b574cfee372",
+      "format": "JSON"
+    },
+    {
+      "name": "sternde-2022-08-05T06:42:31.207819+02:00.jpg",
+      "source": "original",
+      "mtime": "1659674553",
+      "size": "191127",
+      "md5": "fcd5b47adae53089a61b7edb7d8cd020",
+      "crc32": "2b98b8e2",
+      "sha1": "d272d2ad751cd337945f084d7edef729b8413b28",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sternde-2022-08-05T06:42:31.207819+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659674558",
+      "size": "1432",
+      "md5": "f33f993ff56b7f5b4d43806dea8b8d88",
+      "crc32": "59803646",
+      "sha1": "24cd7eb9f3a4db1251510e32db98a24cc71c5ed6",
+      "format": "JSON"
+    },
+    {
+      "name": "sternde-2022-08-05T06:42:31.207819+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sternde-2022-08-05T06:42:31.207819+02:00.jpg",
+      "mtime": "1659677671",
+      "size": "8686",
+      "md5": "0b1f6676ad19b7b0fcf879d7180da80b",
+      "crc32": "330415f2",
+      "sha1": "ef367642a7e194c74b24cf8070ef9d36665ee2f6"
+    },
+    {
       "name": "sternde-2022_archive.torrent",
       "source": "metadata",
-      "btih": "882fec7f2ddc229dc3633b7d21cb91df7c527be0",
-      "mtime": "1659638071",
-      "size": "22633",
-      "md5": "4d525640da3d66bfefaad5cd6d8c16bf",
-      "crc32": "c7de5df0",
-      "sha1": "c9994251a08cabc854c20d79f78aff401f6f1969",
+      "btih": "27d667a0718eba0faf8e5a2d949f3c6fd78bc400",
+      "mtime": "1659677676",
+      "size": "23688",
+      "md5": "37da098f4a5b0fe95885f0c7bbe60fe4",
+      "crc32": "33a56a3b",
+      "sha1": "9e31a08c63c819b7c777b067cc2b681ee3e44533",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sternde-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2d2d2d6ba9744d37736cc7827a6d85ce",
+      "md5": "05df45c1a71e78c455dd6dab12a318ff",
       "summation": "md5"
     },
     {
       "name": "sternde-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659632633",
-      "size": "147456",
-      "md5": "e2f0fe07bf919f66350402fddd8b4968",
-      "crc32": "9f8c2cd5",
-      "sha1": "1073ae88348156d089ae643c8780b618ab907de2",
+      "mtime": "1659674561",
+      "size": "151552",
+      "md5": "6a6c11cab505991876a117871a687d1c",
+      "crc32": "221c6e29",
+      "sha1": "ef114089c0040f322f10b1fa30ee40fd3eed280f",
       "format": "Metadata"
     },
     {
@@ -1094,9 +1146,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 105,
-  "item_last_updated": 1659638071,
-  "item_size": 8640740,
+  "files_count": 110,
+  "item_last_updated": 1659677676,
+  "item_size": 9047585,
   "metadata": {
     "identifier": "sternde-2022",
     "collection": [
@@ -1113,10 +1165,10 @@
     "publicdate": "2022-07-26 03:57:37",
     "addeddate": "2022-07-26 03:57:37"
   },
-  "server": "ia802507.us.archive.org",
-  "uniq": 796471030,
+  "server": "ia902507.us.archive.org",
+  "uniq": 1603971838,
   "workable_servers": [
-    "ia802507.us.archive.org",
-    "ia902507.us.archive.org"
+    "ia902507.us.archive.org",
+    "ia802507.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1659637603,
+  "created": 1659677665,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/11/items/romenewstribune-2022",
@@ -1548,31 +1548,83 @@
       "sha1": "286c56dd35679697f6693391b75f0d81b03805bf"
     },
     {
+      "name": "romenewstribune-2022-08-05T00:41:20.174454-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659674484",
+      "size": "39091",
+      "md5": "8d6c9d91c140abecd7513e90d9e0dab9",
+      "crc32": "63b2fba3",
+      "sha1": "423929fe22dce5be904879f6f9915b38d76215e3",
+      "format": "JSON"
+    },
+    {
+      "name": "romenewstribune-2022-08-05T00:41:20.174454-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659674485",
+      "size": "50813",
+      "md5": "c1cefe3bbc5f7ef1977b9f80628ecf7c",
+      "crc32": "27f24da2",
+      "sha1": "31f4b2bea2e06d78db278020d8070187ffef4b37",
+      "format": "JSON"
+    },
+    {
+      "name": "romenewstribune-2022-08-05T00:41:20.174454-04:00.jpg",
+      "source": "original",
+      "mtime": "1659674481",
+      "size": "319306",
+      "md5": "84b8e7f1a22ef888411cdf1553f72838",
+      "crc32": "7725bbfd",
+      "sha1": "a68a42795d49f026a1089351bcbacb5497c0f7f6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "romenewstribune-2022-08-05T00:41:20.174454-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659674487",
+      "size": "1630",
+      "md5": "bd8e5229d170b9ec6e26e70ee993e025",
+      "crc32": "825c9e6b",
+      "sha1": "2e0882ca0dd688e276e9592d0b87a6fb385c2dda",
+      "format": "JSON"
+    },
+    {
+      "name": "romenewstribune-2022-08-05T00:41:20.174454-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "romenewstribune-2022-08-05T00:41:20.174454-04:00.jpg",
+      "mtime": "1659677641",
+      "size": "9572",
+      "md5": "7d25e0fb9391152e1da982064199f921",
+      "crc32": "71c97aec",
+      "sha1": "3c9fc9692eebd78ef394f187194604758b002f7d"
+    },
+    {
       "name": "romenewstribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "88701c1c20e479b8e859c5a89358cbdad03a6c50",
-      "mtime": "1659637581",
-      "size": "33755",
-      "md5": "6798db69b5e0ae2f58c1887056d7ebf5",
-      "crc32": "aa12ea77",
-      "sha1": "2b751c6f5c6e8c89d3eecbf7008096a95adb1e60",
+      "btih": "9f040ca0b35d347628b69ad4e5c3ab6d857302ca",
+      "mtime": "1659677646",
+      "size": "34849",
+      "md5": "5aa3c560af4f61e7c1a0cc55efdc72dc",
+      "crc32": "01cb1137",
+      "sha1": "7b26514c205314b23ba19de032a392e60c06d610",
       "format": "Archive BitTorrent"
     },
     {
       "name": "romenewstribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "50b7c43f11dc38fe3ae0b7ba2e2bed8c",
+      "md5": "9161bd53382dc0767d2261c2ff8ed6c4",
       "summation": "md5"
     },
     {
       "name": "romenewstribune-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659632500",
-      "size": "200704",
-      "md5": "a4aa55a407acf61686465d46d393cf4b",
-      "crc32": "d793d255",
-      "sha1": "544507d53fd36576cd5cd97ca5c308689e30638e",
+      "mtime": "1659674495",
+      "size": "208896",
+      "md5": "1daf1ec12f454176131a85ffa9c62f2c",
+      "crc32": "36439b38",
+      "sha1": "b4579c6f6d535c334da9c265a14da5870402e884",
       "format": "Metadata"
     },
     {
@@ -1586,9 +1638,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 152,
-  "item_last_updated": 1659637581,
-  "item_size": 13532932,
+  "files_count": 157,
+  "item_last_updated": 1659677646,
+  "item_size": 13962630,
   "metadata": {
     "identifier": "romenewstribune-2022",
     "collection": [
@@ -1605,10 +1657,10 @@
     "publicdate": "2022-07-20 23:31:09",
     "addeddate": "2022-07-20 23:31:09"
   },
-  "server": "ia801403.us.archive.org",
-  "uniq": 566367804,
+  "server": "ia601403.us.archive.org",
+  "uniq": 1615867407,
   "workable_servers": [
-    "ia801403.us.archive.org",
-    "ia601403.us.archive.org"
+    "ia601403.us.archive.org",
+    "ia801403.us.archive.org"
   ]
 }

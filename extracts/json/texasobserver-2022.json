@@ -1,5 +1,5 @@
 {
-  "created": 1659661015,
+  "created": 1659683221,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/6/items/texasobserver-2022",
@@ -1810,31 +1810,83 @@
       "sha1": "ee3429b3d736e6a2f726b9f8e819cafd2be42499"
     },
     {
+      "name": "texasobserver-2022-08-04T20:58:49.325626-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659664732",
+      "size": "21866",
+      "md5": "dd996970a62621664188c354f500bc8b",
+      "crc32": "204d60cf",
+      "sha1": "163963a8ab71ed7ed3d0df56de752d32f80b57da",
+      "format": "JSON"
+    },
+    {
+      "name": "texasobserver-2022-08-04T20:58:49.325626-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659664733",
+      "size": "22823",
+      "md5": "dcc9db06701caefdb0560992f6fee032",
+      "crc32": "c9496941",
+      "sha1": "5f7170c55e6e84ad042330ad8a13a5f41fbf7d40",
+      "format": "JSON"
+    },
+    {
+      "name": "texasobserver-2022-08-04T20:58:49.325626-05:00.jpg",
+      "source": "original",
+      "mtime": "1659664730",
+      "size": "154103",
+      "md5": "5cbdae59e20414b583022eed7f4c1031",
+      "crc32": "fdc635a5",
+      "sha1": "cbda4cb5ba812247ee3b78beed9f9c04f6e160e4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "texasobserver-2022-08-04T20:58:49.325626-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659664735",
+      "size": "1519",
+      "md5": "94f1db1e999601505d81b49a121d461a",
+      "crc32": "42382602",
+      "sha1": "2cb9296e28197997daf0c1fbe3b8b1a35c8a783f",
+      "format": "JSON"
+    },
+    {
+      "name": "texasobserver-2022-08-04T20:58:49.325626-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "texasobserver-2022-08-04T20:58:49.325626-05:00.jpg",
+      "mtime": "1659667256",
+      "size": "8616",
+      "md5": "2df002a50f9b15fb9cf547cf291351bd",
+      "crc32": "0ec53b6c",
+      "sha1": "ecf68b5b65b2279f2a968d0892a8bfd7a9f5bbf3"
+    },
+    {
       "name": "texasobserver-2022_archive.torrent",
       "source": "metadata",
-      "btih": "190c8c4014b923565bd7060b1cc7a68242144c38",
-      "mtime": "1659624830",
-      "size": "38603",
-      "md5": "3e08c9b07d7bdb49b470fcca8c5df515",
-      "crc32": "c446e3a8",
-      "sha1": "26b4511edf78476cbf6ec920312c7a4551d16113",
+      "btih": "ef56f2e9525b22f5dfd56f95d59470b4c530645e",
+      "mtime": "1659667262",
+      "size": "39667",
+      "md5": "fe270318365d2e555050894e81a79af5",
+      "crc32": "e434e673",
+      "sha1": "aac2efedd266baf55b9be0c2282912fad0d08c3a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "texasobserver-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ea64d43ae6152b9717257955ef8412a7",
+      "md5": "abc898f84b5c5fa5902e331f017a729a",
       "summation": "md5"
     },
     {
       "name": "texasobserver-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659621314",
-      "size": "229376",
-      "md5": "2d52621b3b1fb68017182b25e75ca99d",
-      "crc32": "296b7559",
-      "sha1": "84c2aef5296e707b0c18db64bf4abf4f8d6eed39",
+      "mtime": "1659664738",
+      "size": "237568",
+      "md5": "ccd46f6443290249b4b39916134342c0",
+      "crc32": "8f22730f",
+      "sha1": "6e3e59cbf22ff0f9be484506940ae65bbcb6fd02",
       "format": "Metadata"
     },
     {
@@ -1848,9 +1900,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 177,
-  "item_last_updated": 1659624830,
-  "item_size": 9750250,
+  "files_count": 182,
+  "item_last_updated": 1659667262,
+  "item_size": 9968433,
   "metadata": {
     "identifier": "texasobserver-2022",
     "collection": [
@@ -1868,48 +1920,7 @@
     "addeddate": "2022-07-18 00:05:22"
   },
   "server": "ia801505.us.archive.org",
-  "texasobserver-2022": [
-    {
-      "url": "https://www.texasobserver.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_texasobserver_org-_-2022_08_04_13_26_25.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_texasobserver_org-_-2022_08_04_13_26_25.report.json",
-      "summary": {
-        "performance": 0.23,
-        "accessibility": 0.96,
-        "best-practices": 0.83,
-        "seo": 0.9,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.texasobserver.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_texasobserver_org-_-2022_08_04_13_27_02.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_texasobserver_org-_-2022_08_04_13_27_02.report.json",
-      "summary": {
-        "performance": 0.27,
-        "accessibility": 0.96,
-        "best-practices": 0.83,
-        "seo": 0.9,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.texasobserver.org/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_texasobserver_org-_-2022_08_04_13_26_44.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_texasobserver_org-_-2022_08_04_13_26_44.report.json",
-      "summary": {
-        "performance": 0.28,
-        "accessibility": 0.96,
-        "best-practices": 0.83,
-        "seo": 0.9,
-        "pwa": 0.4
-      }
-    }
-  ],
-  "uniq": 1504554199,
+  "uniq": 740069591,
   "workable_servers": [
     "ia801505.us.archive.org",
     "ia601505.us.archive.org"

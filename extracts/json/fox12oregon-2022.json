@@ -1,5 +1,5 @@
 {
-  "created": 1659660139,
+  "created": 1659682708,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/35/items/fox12oregon-2022",
@@ -2902,31 +2902,83 @@
       "sha1": "c4c69ea517865d636c85a300aef5885ee42bbed4"
     },
     {
+      "name": "fox12oregon-2022-08-04T20:16:08.240671-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659669372",
+      "size": "36906",
+      "md5": "9f7afac16f1c6792fe17d13896c280b2",
+      "crc32": "9a574467",
+      "sha1": "a8127a982e02ae81b3fdcb5af2e94655c94baebf",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-08-04T20:16:08.240671-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659669373",
+      "size": "21910",
+      "md5": "df09238aa4ecbc5bc221398de1d8fe67",
+      "crc32": "266e4fef",
+      "sha1": "24f3e82a549c7c3709fb9c864acf87e019bafffe",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-08-04T20:16:08.240671-07:00.jpg",
+      "source": "original",
+      "mtime": "1659669369",
+      "size": "362990",
+      "md5": "3c8225121a2b7a15639b65bb7e3c83d4",
+      "crc32": "7855d4d3",
+      "sha1": "a24e0a88ccd3887dd222a8b841f48b14204ddef1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fox12oregon-2022-08-04T20:16:08.240671-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659669375",
+      "size": "1441",
+      "md5": "9af04636a4332c1e1d12e607bc1eb01e",
+      "crc32": "9a99d3e7",
+      "sha1": "36f8339c8226e03a441eed76aa0767cb39a64daa",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-08-04T20:16:08.240671-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fox12oregon-2022-08-04T20:16:08.240671-07:00.jpg",
+      "mtime": "1659672174",
+      "size": "11287",
+      "md5": "6431e27970917fbceb7802b705d9e275",
+      "crc32": "c0dfe4d5",
+      "sha1": "34e3f2bfbd61c76541b97f9b134aa91132be0d8f"
+    },
+    {
       "name": "fox12oregon-2022_archive.torrent",
       "source": "metadata",
-      "btih": "af778bb891a7be913c4273c7f5caecbf5491bf34",
-      "mtime": "1659629721",
-      "size": "60874",
-      "md5": "e6695355b9193615c394b32b8c184220",
-      "crc32": "22c647d1",
-      "sha1": "09b3de21a7749efa91aec4681b8fc9fe4ffd372a",
+      "btih": "41459afdf54cc33232f3ec367f187d7178f948de",
+      "mtime": "1659672182",
+      "size": "61949",
+      "md5": "a2214d85bbc0be776a79fc5893449be1",
+      "crc32": "a794f893",
+      "sha1": "c30b6a369b450d1fc9c075808843f358c63a4ffc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fox12oregon-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2a834b5455bbc1f3d6eaa4ca6e036565",
+      "md5": "8845c5f555ae2d32508f05429637f3a8",
       "summation": "md5"
     },
     {
       "name": "fox12oregon-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659626477",
-      "size": "348160",
-      "md5": "0ed91613cc9a26e67e86009286d92966",
-      "crc32": "50012ca3",
-      "sha1": "6dfda73927c139090031584c60fe475ee19f9e2c",
+      "mtime": "1659669381",
+      "size": "356352",
+      "md5": "2725439cf221c6c2f2177450c8e7208f",
+      "crc32": "f5bb5a54",
+      "sha1": "1e178f4f8b09f059cb15f50afd21421f7913c224",
       "format": "Metadata"
     },
     {
@@ -2940,50 +2992,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 281,
-  "fox12oregon-2022": [
-    {
-      "url": "https://www.kptv.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kptv_com-_-2022_08_04_14_50_00.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kptv_com-_-2022_08_04_14_50_00.report.json",
-      "summary": {
-        "performance": 0.23,
-        "accessibility": 0.84,
-        "best-practices": 0.92,
-        "seo": 0.91,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://www.kptv.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kptv_com-_-2022_08_04_14_50_57.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kptv_com-_-2022_08_04_14_50_57.report.json",
-      "summary": {
-        "performance": 0.29,
-        "accessibility": 0.83,
-        "best-practices": 0.92,
-        "seo": 0.91,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://www.kptv.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kptv_com-_-2022_08_04_14_50_26.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kptv_com-_-2022_08_04_14_50_26.report.json",
-      "summary": {
-        "performance": 0.3,
-        "accessibility": 0.84,
-        "best-practices": 0.92,
-        "seo": 0.91,
-        "pwa": 0.3
-      }
-    }
-  ],
-  "item_last_updated": 1659629721,
-  "item_size": 28230574,
+  "files_count": 286,
+  "item_last_updated": 1659672182,
+  "item_size": 28674375,
   "metadata": {
     "identifier": "fox12oregon-2022",
     "collection": [
@@ -3001,7 +3012,7 @@
     "addeddate": "2022-07-04 21:52:58"
   },
   "server": "ia601403.us.archive.org",
-  "uniq": 1880133242,
+  "uniq": 1294862078,
   "workable_servers": [
     "ia601403.us.archive.org",
     "ia801403.us.archive.org"

@@ -1,48 +1,7 @@
 {
-  "created": 1659660083,
+  "created": 1659682610,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
-  "dallasfreepress-2022": [
-    {
-      "url": "https://dallasfreepress.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/dallasfreepress_com-_-2022_08_04_14_46_03.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/dallasfreepress_com-_-2022_08_04_14_46_03.report.json",
-      "summary": {
-        "performance": 0.33,
-        "accessibility": 0.91,
-        "best-practices": 1,
-        "seo": 0.84,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://dallasfreepress.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/dallasfreepress_com-_-2022_08_04_14_46_26.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/dallasfreepress_com-_-2022_08_04_14_46_26.report.json",
-      "summary": {
-        "performance": 0.41,
-        "accessibility": 0.91,
-        "best-practices": 1,
-        "seo": 0.84,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://dallasfreepress.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/dallasfreepress_com-_-2022_08_04_14_46_48.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/dallasfreepress_com-_-2022_08_04_14_46_48.report.json",
-      "summary": {
-        "performance": 0.37,
-        "accessibility": 0.91,
-        "best-practices": 1,
-        "seo": 0.84,
-        "pwa": 0.4
-      }
-    }
-  ],
   "dir": "/15/items/dallasfreepress-2022",
   "files": [
     {
@@ -2607,31 +2566,83 @@
       "sha1": "34a32fbab6b04ac88c959046554515693c7bc0d8"
     },
     {
+      "name": "dallasfreepress-2022-08-04T22:14:06.570530-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659669249",
+      "size": "11700",
+      "md5": "68d90c9c329a576ba9bdcce4172260bc",
+      "crc32": "0aab3fb7",
+      "sha1": "20a153e24d2881d7a43a53272aa44f8620360173",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasfreepress-2022-08-04T22:14:06.570530-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659669251",
+      "size": "5592",
+      "md5": "9f07053fc01b6fade20db5f22debc665",
+      "crc32": "63fed8ac",
+      "sha1": "3b1a6371a93d9027f6f4a7766c1af9065aa403d9",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasfreepress-2022-08-04T22:14:06.570530-05:00.jpg",
+      "source": "original",
+      "mtime": "1659669248",
+      "size": "278580",
+      "md5": "028f249484cf1970293be665de0670e9",
+      "crc32": "16ca2a67",
+      "sha1": "be0325f5091fa64fcb357c59e0b32c8e588d1659",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dallasfreepress-2022-08-04T22:14:06.570530-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659669252",
+      "size": "1495",
+      "md5": "531ee4a1fe5fbbdcde8562405fd0418a",
+      "crc32": "aad03ed9",
+      "sha1": "3c4cc991bcafa49f903d90a98aaeb6892cdbb304",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasfreepress-2022-08-04T22:14:06.570530-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dallasfreepress-2022-08-04T22:14:06.570530-05:00.jpg",
+      "mtime": "1659672113",
+      "size": "9611",
+      "md5": "6b5f9b1e1f56f9889535d2075f121d3a",
+      "crc32": "912fcd11",
+      "sha1": "34a32fbab6b04ac88c959046554515693c7bc0d8"
+    },
+    {
       "name": "dallasfreepress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3636db2b9f509ed48c193feffe27d14252e280b1",
-      "mtime": "1659629336",
-      "size": "54575",
-      "md5": "6dd905128534606ec86d560547e46106",
-      "crc32": "42eeb51b",
-      "sha1": "30dd4935fbf5eda6e52bb61eed81ff964372ad97",
+      "btih": "34c42859e7f2859768627bb452d607c96029e8ed",
+      "mtime": "1659672117",
+      "size": "55668",
+      "md5": "4d89dcac07cd4bc9e8435579d8e2506a",
+      "crc32": "3518c412",
+      "sha1": "e25225f020565d2d6da5d8e2d62aaabcd7e6bb52",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dallasfreepress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "13722c9823d32b0c77fb05c88fed53eb",
+      "md5": "3c20148e474db83d4f8ab4d0b350f490",
       "summation": "md5"
     },
     {
       "name": "dallasfreepress-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659626262",
-      "size": "311296",
-      "md5": "e2acb91bc2a52b04eb1bc12f3ed78bfd",
-      "crc32": "87094dcf",
-      "sha1": "c4a61f14a96dd121ad07177ef076dd8b32f23563",
+      "mtime": "1659669256",
+      "size": "319488",
+      "md5": "7b5503f9451a7467571f3ad261819c3e",
+      "crc32": "f62018df",
+      "sha1": "b269f37bf301b3d89f719fa1aaad22fb8aadfb0c",
       "format": "Metadata"
     },
     {
@@ -2645,9 +2656,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 249,
-  "item_last_updated": 1659629336,
-  "item_size": 16211655,
+  "files_count": 254,
+  "item_last_updated": 1659672117,
+  "item_size": 16527918,
   "metadata": {
     "identifier": "dallasfreepress-2022",
     "collection": [
@@ -2664,10 +2675,10 @@
     "publicdate": "2022-07-09 03:57:39",
     "addeddate": "2022-07-09 03:57:39"
   },
-  "server": "ia801408.us.archive.org",
-  "uniq": 2032002298,
+  "server": "ia601408.us.archive.org",
+  "uniq": 1133469871,
   "workable_servers": [
-    "ia801408.us.archive.org",
-    "ia601408.us.archive.org"
+    "ia601408.us.archive.org",
+    "ia801408.us.archive.org"
   ]
 }

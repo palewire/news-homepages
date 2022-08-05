@@ -1,5 +1,5 @@
 {
-  "created": 1659660925,
+  "created": 1659683168,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/29/items/sjspotlight-2022",
@@ -2902,31 +2902,83 @@
       "sha1": "29626aaafef4b30be1b6ac43f1a1c6ec04d02e9f"
     },
     {
+      "name": "sjspotlight-2022-08-04T18:50:08.638613-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659664211",
+      "size": "4748",
+      "md5": "eaa1266a7e5648445959a1676ee57bf8",
+      "crc32": "dcc7b035",
+      "sha1": "f382bb55c0b8d222456b48313ea2c3c472d797da",
+      "format": "JSON"
+    },
+    {
+      "name": "sjspotlight-2022-08-04T18:50:08.638613-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659664212",
+      "size": "27081",
+      "md5": "e1e7aea8bc1b5f225c0a416ad3473bb8",
+      "crc32": "b85ebff6",
+      "sha1": "afaf605be940acc3de63cdde8adaac54d8a09189",
+      "format": "JSON"
+    },
+    {
+      "name": "sjspotlight-2022-08-04T18:50:08.638613-07:00.jpg",
+      "source": "original",
+      "mtime": "1659664209",
+      "size": "356199",
+      "md5": "ff890ad7d625aa878954c61cc3c0eb81",
+      "crc32": "0a295193",
+      "sha1": "4c3d5ea9f8877ab1633abf21b054660334d6a982",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sjspotlight-2022-08-04T18:50:08.638613-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659664214",
+      "size": "1501",
+      "md5": "71a9e8a96b40b90c73b115bc9216474e",
+      "crc32": "0da871c5",
+      "sha1": "13ec397121cba27c5409589d3fe297e6876bd4b9",
+      "format": "JSON"
+    },
+    {
+      "name": "sjspotlight-2022-08-04T18:50:08.638613-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sjspotlight-2022-08-04T18:50:08.638613-07:00.jpg",
+      "mtime": "1659666606",
+      "size": "11324",
+      "md5": "3732e9c1fc507595b949fd84a0137bae",
+      "crc32": "8924ed6f",
+      "sha1": "6a9b164a36518dea26352e2d5051e8e50be21b19"
+    },
+    {
       "name": "sjspotlight-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2336b7b74e3f2c5cabbe6c2f6e087062175dccb9",
-      "mtime": "1659622076",
-      "size": "60625",
-      "md5": "032128eae6a3490f29b9db4abf011644",
-      "crc32": "be6e9567",
-      "sha1": "1dcb28ec9df61b128369b6306839777f6b39d97a",
+      "btih": "071c3b35e8db4dc296585ea0ea85b2fd7c5c18eb",
+      "mtime": "1659666624",
+      "size": "61699",
+      "md5": "c6aabf2c0e77c8fd7f44cb22cd984989",
+      "crc32": "0d1998bb",
+      "sha1": "17309b7b8d698fb0b64e386debfdf71df711f16c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sjspotlight-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d9c62631bff77b59cb19a0cd358d5701",
+      "md5": "55730b617ef2751f1deabc7f42714cd2",
       "summation": "md5"
     },
     {
       "name": "sjspotlight-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659616929",
-      "size": "348160",
-      "md5": "e96a16a23437d893716c679d2b4d11ab",
-      "crc32": "d10030ed",
-      "sha1": "95615b03f3f77f364649e6a200e2fbf4a374b4ef",
+      "mtime": "1659664220",
+      "size": "356352",
+      "md5": "82dea11c053883d8f7bd46973fef0d3e",
+      "crc32": "957a1264",
+      "sha1": "155098ec499a82b43decf8462c295b843a623f16",
       "format": "Metadata"
     },
     {
@@ -2940,9 +2992,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 281,
-  "item_last_updated": 1659622076,
-  "item_size": 23128219,
+  "files_count": 286,
+  "item_last_updated": 1659666624,
+  "item_size": 23538338,
   "metadata": {
     "identifier": "sjspotlight-2022",
     "collection": [
@@ -2960,48 +3012,7 @@
     "addeddate": "2022-07-09 04:02:22"
   },
   "server": "ia801504.us.archive.org",
-  "sjspotlight-2022": [
-    {
-      "url": "https://sanjosespotlight.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/sanjosespotlight_com-_-2022_08_04_12_17_20.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/sanjosespotlight_com-_-2022_08_04_12_17_20.report.json",
-      "summary": {
-        "performance": 0.76,
-        "accessibility": 0.81,
-        "best-practices": 1,
-        "seo": 0.9,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://sanjosespotlight.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/sanjosespotlight_com-_-2022_08_04_12_17_54.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/sanjosespotlight_com-_-2022_08_04_12_17_54.report.json",
-      "summary": {
-        "performance": 0.77,
-        "accessibility": 0.81,
-        "best-practices": 1,
-        "seo": 0.9,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://sanjosespotlight.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/sanjosespotlight_com-_-2022_08_04_12_17_37.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/sanjosespotlight_com-_-2022_08_04_12_17_37.report.json",
-      "summary": {
-        "performance": 0.77,
-        "accessibility": 0.81,
-        "best-practices": 1,
-        "seo": 0.9,
-        "pwa": 0.3
-      }
-    }
-  ],
-  "uniq": 229376924,
+  "uniq": 2080937194,
   "workable_servers": [
     "ia801504.us.archive.org",
     "ia601504.us.archive.org"

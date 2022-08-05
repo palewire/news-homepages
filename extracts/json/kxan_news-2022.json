@@ -1,5 +1,5 @@
 {
-  "created": 1659643048,
+  "created": 1659666472,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/6/items/kxan_news-2022",
@@ -1768,31 +1768,83 @@
       "sha1": "69393bc4ef99995217507e1de4613604a2631a24"
     },
     {
+      "name": "kxan_news-2022-08-04T20:41:24.415076-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659663687",
+      "size": "53738",
+      "md5": "8ff0c9bbbba67fa8af5df9a4cbec55bf",
+      "crc32": "995238f6",
+      "sha1": "df875a615b5af3dddaa5d61d542f9375eaca24ea",
+      "format": "JSON"
+    },
+    {
+      "name": "kxan_news-2022-08-04T20:41:24.415076-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659663688",
+      "size": "98494",
+      "md5": "d6759dca1d62ce092dc36a0887839538",
+      "crc32": "0531f8d0",
+      "sha1": "4c3bab47733b49371468c5338d7ed6dd5cdb8b79",
+      "format": "JSON"
+    },
+    {
+      "name": "kxan_news-2022-08-04T20:41:24.415076-05:00.jpg",
+      "source": "original",
+      "mtime": "1659663685",
+      "size": "308302",
+      "md5": "a7ee1a32f37e4dc6e4c25570d7804893",
+      "crc32": "b832ec52",
+      "sha1": "258c67bf7bfce5a83d456040f9c697a39ff4af22",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kxan_news-2022-08-04T20:41:24.415076-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659663690",
+      "size": "1441",
+      "md5": "a261c8f17feb2c51b77f6b238b195506",
+      "crc32": "402cc95c",
+      "sha1": "b3ffec786818e56def12802ad1a50e87551fcd0a",
+      "format": "JSON"
+    },
+    {
+      "name": "kxan_news-2022-08-04T20:41:24.415076-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kxan_news-2022-08-04T20:41:24.415076-05:00.jpg",
+      "mtime": "1659666407",
+      "size": "11003",
+      "md5": "cd0e7d1d44039fe0b298003045fb2be4",
+      "crc32": "ddc490c8",
+      "sha1": "adeab0d0d4dc59596c36909425f503172a741612"
+    },
+    {
       "name": "kxan_news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fe04d5d7f1e01ef419e1df004f42663fe61c7556",
-      "mtime": "1659621612",
-      "size": "37347",
-      "md5": "25d268ef44edddd8b507a6704742650e",
-      "crc32": "6c78094e",
-      "sha1": "5c8a55c6d29bf0d94a46aaaf16d1d7a8f825e8e8",
+      "btih": "7f7b2a5086422eb37a3a5fc0664418309c77ff74",
+      "mtime": "1659666410",
+      "size": "38412",
+      "md5": "d2733e47ea0072b563949a8aa7126217",
+      "crc32": "f62f658d",
+      "sha1": "0e4aefad51738777d42a3d6cbe46c8db4e5a2b6e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kxan_news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "702d1188249a6c3faf06ec875024fd1a",
+      "md5": "d03ff8a2d44ca15dcedc12e960817edb",
       "summation": "md5"
     },
     {
       "name": "kxan_news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659616494",
-      "size": "225280",
-      "md5": "fb76a1f677f019d44b381d864ad72dcc",
-      "crc32": "d1d2a2cb",
-      "sha1": "9fbdfdda567a3da6554688ca132c7880b979ae0a",
+      "mtime": "1659663694",
+      "size": "233472",
+      "md5": "976e665765a37808de55c148da0d6491",
+      "crc32": "bd2782b0",
+      "sha1": "6094e1a45b357e98adfa3924658bebc951bafe0e",
       "format": "Metadata"
     },
     {
@@ -1806,9 +1858,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 173,
-  "item_last_updated": 1659621612,
-  "item_size": 16786975,
+  "files_count": 178,
+  "item_last_updated": 1659666410,
+  "item_size": 17269210,
   "metadata": {
     "identifier": "kxan_news-2022",
     "collection": [
@@ -1825,10 +1877,10 @@
     "publicdate": "2022-07-18 00:05:12",
     "addeddate": "2022-07-18 00:05:12"
   },
-  "server": "ia601502.us.archive.org",
-  "uniq": 1570063451,
+  "server": "ia801502.us.archive.org",
+  "uniq": 1763780368,
   "workable_servers": [
-    "ia601502.us.archive.org",
-    "ia801502.us.archive.org"
+    "ia801502.us.archive.org",
+    "ia601502.us.archive.org"
   ]
 }
