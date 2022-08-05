@@ -136,3 +136,20 @@ Field | Description
 `size` | The size of the file in bytz
 `md5` | A [checksum](https://en.wikipedia.org/wiki/Checksum) for the file created using [md5](https://en.wikipedia.org/wiki/Md5sum) hashing
 `sha1` | A [checksum](https://en.wikipedia.org/wiki/Checksum) for the file created using [sh1](https://en.wikipedia.org/wiki/Sha1sum) hashing
+
+## wayback-files.csv
+
+The status report from a Wayback Machine capture request made via the Internet Archive’s Save Page Now API
+
+URL: [raw.githubusercontent.com/palewire/news-homepages/main/extracts/csv/wayback-files.csv](https://raw.githubusercontent.com/palewire/news-homepages/main/extracts/csv/wayback-files.csv)
+
+Field | Description
+:---- | :----------
+`identifier` | The unique identifier created by Internet Archive
+`handle` | The Twitter handle of the outlet. Can be used to merge with other files
+`file_name` | The name of the file in the Internet Archive
+`url` | The URL of the file
+`mtime` | The time the file was last modified by the Internet Archive in UTC time
+`size` | The size of the file in bytz
+`md5` | A [checksum](https://en.wikipedia.org/wiki/Checksum) for the file created using [md5](https://en.wikipedia.org/wiki/Md5sum) hashing
+`sha1` | A [checksum](https://en.wikipedia.org/wiki/Checksum) for the file created using [sh1](https://en.wikipedia.org/wiki/Sha1sum) hashing

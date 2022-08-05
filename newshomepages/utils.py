@@ -218,6 +218,14 @@ def get_lighthouse_df() -> pd.DataFrame:
     return _get_extract_files_df("lighthouse-files.csv")
 
 
+def get_wayback_df() -> pd.DataFrame:
+    """Get the full list of wayback files from our extracts.
+
+    Returns a DataFrame.
+    """
+    return _get_extract_files_df("wayback-files.csv")
+
+
 def _get_extract_files_df(name) -> pd.DataFrame:
     df = pd.read_csv(
         EXTRACT_DIR / "csv" / name,

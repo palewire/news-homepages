@@ -177,6 +177,48 @@ def download_lighthouse(handle):
 
 
 @cli.command()
+@click.argument("handle")
+def download_wayback(handle):
+    """Download and parse the provided site's Wayback Machine files."""
+    # Get the site data
+    site = utils.get_site(handle)
+
+    # Get all files
+    wayback_df = utils.get_wayback_df()
+
+    # Filter it down to files for the provided site
+    site_df = wayback_df[wayback_df.handle.str.lower() == site["handle"].lower()]
+    print(f"{len(site_df)} wayback files found")
+
+    # Read in the output file
+    output_path = utils.ANALYSIS_DIR / f"{handle.lower()}-wayback.csv"
+    try:
+        output_df = pd.read_csv(output_path)
+        downloaded_files = set(output_df.file_url.unique())
+    except FileNotFoundError:
+        output_df = pd.DataFrame()
+        downloaded_files = set()
+
+    # See how many files we don't have yet
+    archived_files = set(site_df.url.unique())
+    missing_files = list(archived_files - downloaded_files)
+    print(f"{len(missing_files)} files need to be download")
+
+    # Quit if there's nothing there
+    if not len(missing_files):
+        return
+
+    # Go get the files
+    for url in missing_files:
+        df = _get_json_url(url)
+        output_df = pd.concat([output_df, df])
+        time.sleep(1)
+
+    print(f":pencil: Writing {len(output_df)} rows to {output_path}")
+    output_df.to_csv(output_path, index=False)
+
+
+@cli.command()
 def consolidate():
     """Consolidate Internet Archive metadata into CSV files."""
     print("🪢 Consolidating extracts")
@@ -189,7 +231,14 @@ def consolidate():
     site_output = []
     site2bundle_output = []
     items_output = []
-    screenshot_output, a11y_output, hyperlinks_output, lighthouse_output = (
+    (
+        screenshot_output,
+        a11y_output,
+        hyperlinks_output,
+        lighthouse_output,
+        wayback_output,
+    ) = (
+        [],
         [],
         [],
         [],
@@ -277,6 +326,8 @@ def consolidate():
                     hyperlinks_output.append(file_dict)
                 elif "lighthouse" in file["name"]:
                     lighthouse_output.append(file_dict)
+                elif "wayback" in file["name"]:
+                    wayback_output.append(file_dict)
                 else:
                     raise ValueError(
                         f"File name {file['name']} doesn't have an output file"
@@ -291,6 +342,7 @@ def consolidate():
     _write_csv(a11y_output, "accessibility-files.csv")
     _write_csv(hyperlinks_output, "hyperlink-files.csv")
     _write_csv(lighthouse_output, "lighthouse-files.csv")
+    _write_csv(wayback_output, "wayback-files.csv")
 
 
 def _get_json_url(url):
