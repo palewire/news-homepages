@@ -25,13 +25,14 @@ def cli(handle: str, input_dir: str):
 
 
 def _upload(data: dict, input_dir: str):
-    # Set the input path
+    # Set the input paths
     handle = data["handle"].lower()
     input_path = Path(input_dir).absolute()
     image_path = input_path / f"{handle}.jpg"
     a11y_path = input_path / f"{handle}.accessibility.json"
     hyperlinks_path = input_path / f"{handle}.hyperlinks.json"
     lighthouse_path = input_path / f"{handle}.lighthouse.json"
+    wayback_path = input_path / f"{handle}.wayback.json"
 
     # Get the timestamp
     now = datetime.now()
@@ -54,6 +55,8 @@ def _upload(data: dict, input_dir: str):
         file_dict[f"{handle}-{now_iso}.hyperlinks.json"] = hyperlinks_path
     if lighthouse_path.exists():
         file_dict[f"{handle}-{now_iso}.lighthouse.json"] = lighthouse_path
+    if wayback_path.exists():
+        file_dict[f"{handle}-{now_iso}.wayback.json"] = wayback_path
 
     # If there are no file, squawk but move on
     if not file_dict:
