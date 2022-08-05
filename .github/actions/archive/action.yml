@@ -41,6 +41,11 @@ runs:
       with:
         name: lighthouse
 
+    - uses: actions/download-artifact@v3
+      continue-on-error: true
+      with:
+        name: wayback
+
     - id: archive
       name: Archive
       run: |

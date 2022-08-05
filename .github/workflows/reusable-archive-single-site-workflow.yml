@@ -92,7 +92,7 @@ jobs:
 
   archive:
     name: Post to archive.org
-    needs: [jpg,accessibility,hyperlinks,lighthouse]
+    needs: [jpg,accessibility,hyperlinks,wayback,lighthouse]
     runs-on: ubuntu-latest
     steps:
       - id: checkout

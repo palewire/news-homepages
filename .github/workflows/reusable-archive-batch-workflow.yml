@@ -133,7 +133,7 @@ jobs:
 
   archive:
     name: Post to archive.org
-    needs: [jpg,accessibility,hyperlinks,lighthouse,sources]
+    needs: [jpg,accessibility,hyperlinks,wayback,lighthouse,sources]
     runs-on: ubuntu-latest
     timeout-minutes: 15
     strategy:
