@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 128 screenshots with the Internet Archive.
+The archiving routine has saved 130 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-04T12:12:08.914788-05:00.jpg">
+  <img src="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-04T12:12:08.914788-05:00.jpg"
+     alt="Pitchfork at 2022-08-04 12:12:10-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-04T12:12:08.914788-05:00.jpg">August 4 at 12:12 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-04T11:58:59.403071-05:00.jpg">
+  <img src="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-04T11:58:59.403071-05:00.jpg"
+     alt="Pitchfork at 2022-08-04 11:59:00-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-04T11:58:59.403071-05:00.jpg">August 4 at 11:59 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-03T23:33:12.475325-05:00.jpg">
   <img src="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-03T23:33:12.475325-05:00.jpg"
      alt="Pitchfork at 2022-08-03 23:33:17-05:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-31T22:54:23.009568-05:00.jpg">July 31 at 10:54 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-31T11:02:24.941442-05:00.jpg">
-  <img src="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-31T11:02:24.941442-05:00.jpg"
-     alt="Pitchfork at 2022-07-31 11:02:25-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-31T11:02:24.941442-05:00.jpg">July 31 at 11:02 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-31T10:52:43.706273-05:00.jpg">
-  <img src="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-31T10:52:43.706273-05:00.jpg"
-     alt="Pitchfork at 2022-07-31 10:52:47-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-07-31T10:52:43.706273-05:00.jpg">July 31 at 10:52 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 121 hyperlink lists with the Internet Archive.
+The archiving routine has saved 123 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 4 at 12:12 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-04T12:12:08.914788-05:00.hyperlinks.json) |
+| [August 4 at 11:59 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-04T11:58:59.403071-05:00.hyperlinks.json) |
 | [August 3 at 11:33 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-03T23:33:12.475325-05:00.hyperlinks.json) |
 | [August 3 at 12:38 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-03T12:37:53.988421-05:00.hyperlinks.json) |
 | [August 3 at 12:07 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-03T12:07:25.169151-05:00.hyperlinks.json) |
@@ -322,13 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 2 at 11:15 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-02T11:15:33.851856-05:00.hyperlinks.json) |
 | [August 1 at 11:22 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-01T23:22:40.689226-05:00.hyperlinks.json) |
 | [August 1 at 11:36 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-01T11:36:40.743874-05:00.hyperlinks.json) |
-| [August 1 at 11:07 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-01T11:07:15.207505-05:00.hyperlinks.json) |
-| [July 31 at 10:54 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-07-31T22:54:23.009568-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 127 accessibility trees with the Internet Archive.
+The archiving routine has saved 129 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 4 at 12:12 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-04T12:12:08.914788-05:00.accessibility.json) |
+| [August 4 at 11:59 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-04T11:58:59.403071-05:00.accessibility.json) |
 | [August 3 at 11:33 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-03T23:33:12.475325-05:00.accessibility.json) |
 | [August 3 at 12:37 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-03T12:37:53.988421-05:00.accessibility.json) |
 | [August 3 at 12:07 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-03T12:07:25.169151-05:00.accessibility.json) |
@@ -427,14 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 2 at 11:15 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-02T11:15:33.851856-05:00.accessibility.json) |
 | [August 1 at 11:22 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-01T23:22:40.689226-05:00.accessibility.json) |
 | [August 1 at 11:36 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-01T11:36:40.743874-05:00.accessibility.json) |
-| [August 1 at 11:07 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-01T11:07:15.207505-05:00.accessibility.json) |
-| [July 31 at 10:54 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-07-31T22:54:23.009568-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 35 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 37 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 4 at 12:12 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-04T12:12:08.914788-05:00.lighthouse.json) |
+| [August 4 at 11:59 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-04T11:58:59.403071-05:00.lighthouse.json) |
 | [August 3 at 11:33 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-03T23:33:12.475325-05:00.lighthouse.json) |
 | [August 3 at 12:38 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-03T12:37:53.988421-05:00.lighthouse.json) |
 | [August 3 at 12:07 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-03T12:07:25.169151-05:00.lighthouse.json) |
@@ -533,8 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 2 at 11:15 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-02T11:15:33.851856-05:00.lighthouse.json) |
 | [August 1 at 11:22 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-01T23:22:40.689226-05:00.lighthouse.json) |
 | [August 1 at 11:36 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-01T11:36:40.743874-05:00.lighthouse.json) |
-| [August 1 at 11:07 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-01T11:07:15.207505-05:00.lighthouse.json) |
-| [July 31 at 10:54 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-07-31T22:54:23.009568-05:00.lighthouse.json) |
 
 
 

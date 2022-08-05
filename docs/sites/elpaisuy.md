@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 53 screenshots with the Internet Archive.
+The archiving routine has saved 54 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 53 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-04T12:18:51.356897-03:00.jpg">
+  <img src="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-04T12:18:51.356897-03:00.jpg"
+     alt="El Pais at 2022-08-04 12:18:53-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-04T12:18:51.356897-03:00.jpg">August 4 at 12:18 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-04T00:19:11.324844-03:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-29T23:37:37.929752-03:00.jpg">July 29 at 11:37 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-29T11:37:34.484626-03:00.jpg">
-  <img src="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-29T11:37:34.484626-03:00.jpg"
-     alt="El Pais at 2022-07-29 11:37:36-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-29T11:37:34.484626-03:00.jpg">July 29 at 11:37 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 53 hyperlink lists with the Internet Archive.
+The archiving routine has saved 54 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 4 at 12:18 PM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-04T12:18:51.356897-03:00.hyperlinks.json) |
 | [August 4 at 12:19 AM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-04T00:19:11.324844-03:00.hyperlinks.json) |
 | [August 3 at 1:54 PM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-03T13:54:40.724495-03:00.hyperlinks.json) |
 | [August 3 at 1:28 AM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-03T01:28:25.192359-03:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 31 at 11:34 PM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-31T23:34:21.477812-03:00.hyperlinks.json) |
 | [July 31 at 11:35 AM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-31T11:35:03.299559-03:00.hyperlinks.json) |
 | [July 30 at 11:55 PM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-30T23:55:12.381778-03:00.hyperlinks.json) |
-| [July 30 at 12:38 PM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-30T12:38:38.510749-03:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 53 accessibility trees with the Internet Archive.
+The archiving routine has saved 54 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 4 at 12:18 PM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-04T12:18:51.356897-03:00.accessibility.json) |
 | [August 4 at 12:19 AM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-04T00:19:11.324844-03:00.accessibility.json) |
 | [August 3 at 1:54 PM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-03T13:54:40.724495-03:00.accessibility.json) |
 | [August 3 at 1:28 AM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-03T01:28:25.192359-03:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 31 at 11:34 PM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-31T23:34:21.477812-03:00.accessibility.json) |
 | [July 31 at 11:35 AM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-31T11:35:03.299559-03:00.accessibility.json) |
 | [July 30 at 11:55 PM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-30T23:55:12.381778-03:00.accessibility.json) |
-| [July 30 at 12:38 PM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-30T12:38:38.510749-03:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 24 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 4 at 12:19 PM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-04T12:18:51.356897-03:00.lighthouse.json) |
 | [August 4 at 12:19 AM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-04T00:19:11.324844-03:00.lighthouse.json) |
 | [August 3 at 1:54 PM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-03T13:54:40.724495-03:00.lighthouse.json) |
 | [August 3 at 1:28 AM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-08-03T01:28:25.192359-03:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 31 at 11:34 PM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-31T23:34:21.477812-03:00.lighthouse.json) |
 | [July 31 at 11:35 AM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-31T11:35:03.299559-03:00.lighthouse.json) |
 | [July 30 at 11:55 PM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-30T23:55:12.381778-03:00.lighthouse.json) |
-| [July 30 at 12:38 PM](https://archive.org/download/elpaisuy-2022/elpaisuy-2022-07-30T12:38:38.510749-03:00.lighthouse.json) |
 
 
 

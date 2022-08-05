@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 88 screenshots with the Internet Archive.
+The archiving routine has saved 89 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 88 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/globalnews-2022/globalnews-2022-08-04T11:23:03.603646-04:00.jpg">
+  <img src="https://archive.org/download/globalnews-2022/globalnews-2022-08-04T11:23:03.603646-04:00.jpg"
+     alt="Global News at 2022-08-04 11:23:05-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-08-04T11:23:03.603646-04:00.jpg">August 4 at 11:23 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/globalnews-2022/globalnews-2022-08-03T23:22:24.173307-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-07-29T22:39:10.471246-04:00.jpg">July 29 at 10:39 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/globalnews-2022/globalnews-2022-07-29T10:38:25.810363-04:00.jpg">
-  <img src="https://archive.org/download/globalnews-2022/globalnews-2022-07-29T10:38:25.810363-04:00.jpg"
-     alt="Global News at 2022-07-29 10:38:27-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-07-29T10:38:25.810363-04:00.jpg">July 29 at 10:38 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 78 hyperlink lists with the Internet Archive.
+The archiving routine has saved 79 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 4 at 11:23 AM](https://archive.org/download/globalnews-2022/globalnews-2022-08-04T11:23:03.603646-04:00.hyperlinks.json) |
 | [August 3 at 11:22 PM](https://archive.org/download/globalnews-2022/globalnews-2022-08-03T23:22:24.173307-04:00.hyperlinks.json) |
 | [August 3 at 12:56 PM](https://archive.org/download/globalnews-2022/globalnews-2022-08-03T12:56:32.621202-04:00.hyperlinks.json) |
 | [August 3 at 12:29 AM](https://archive.org/download/globalnews-2022/globalnews-2022-08-03T00:29:53.445155-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 31 at 10:37 AM](https://archive.org/download/globalnews-2022/globalnews-2022-07-31T10:36:54.400326-04:00.hyperlinks.json) |
 | [July 30 at 10:56 PM](https://archive.org/download/globalnews-2022/globalnews-2022-07-30T22:56:54.998626-04:00.hyperlinks.json) |
 | [July 30 at 11:40 AM](https://archive.org/download/globalnews-2022/globalnews-2022-07-30T11:39:58.195914-04:00.hyperlinks.json) |
-| [July 29 at 10:39 PM](https://archive.org/download/globalnews-2022/globalnews-2022-07-29T22:39:10.471246-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 72 accessibility trees with the Internet Archive.
+The archiving routine has saved 73 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 4 at 11:23 AM](https://archive.org/download/globalnews-2022/globalnews-2022-08-04T11:23:03.603646-04:00.accessibility.json) |
 | [August 3 at 11:22 PM](https://archive.org/download/globalnews-2022/globalnews-2022-08-03T23:22:24.173307-04:00.accessibility.json) |
 | [August 3 at 12:56 PM](https://archive.org/download/globalnews-2022/globalnews-2022-08-03T12:56:32.621202-04:00.accessibility.json) |
 | [August 3 at 12:29 AM](https://archive.org/download/globalnews-2022/globalnews-2022-08-03T00:29:53.445155-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 31 at 10:35 PM](https://archive.org/download/globalnews-2022/globalnews-2022-07-31T22:35:55.539872-04:00.accessibility.json) |
 | [July 30 at 10:56 PM](https://archive.org/download/globalnews-2022/globalnews-2022-07-30T22:56:54.998626-04:00.accessibility.json) |
 | [July 30 at 11:40 AM](https://archive.org/download/globalnews-2022/globalnews-2022-07-30T11:39:58.195914-04:00.accessibility.json) |
-| [July 29 at 10:38 AM](https://archive.org/download/globalnews-2022/globalnews-2022-07-29T10:38:25.810363-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 24 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 4 at 11:23 AM](https://archive.org/download/globalnews-2022/globalnews-2022-08-04T11:23:03.603646-04:00.lighthouse.json) |
 | [August 3 at 11:22 PM](https://archive.org/download/globalnews-2022/globalnews-2022-08-03T23:22:24.173307-04:00.lighthouse.json) |
 | [August 3 at 12:56 PM](https://archive.org/download/globalnews-2022/globalnews-2022-08-03T12:56:32.621202-04:00.lighthouse.json) |
 | [August 3 at 12:30 AM](https://archive.org/download/globalnews-2022/globalnews-2022-08-03T00:29:53.445155-04:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 31 at 10:36 PM](https://archive.org/download/globalnews-2022/globalnews-2022-07-31T22:35:55.539872-04:00.lighthouse.json) |
 | [July 31 at 10:37 AM](https://archive.org/download/globalnews-2022/globalnews-2022-07-31T10:36:54.400326-04:00.lighthouse.json) |
 | [July 30 at 10:56 PM](https://archive.org/download/globalnews-2022/globalnews-2022-07-30T22:56:54.998626-04:00.lighthouse.json) |
-| [July 30 at 11:40 AM](https://archive.org/download/globalnews-2022/globalnews-2022-07-30T11:39:58.195914-04:00.lighthouse.json) |
 
 
 

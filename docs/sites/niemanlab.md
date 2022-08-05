@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 34 screenshots with the Internet Archive.
+The archiving routine has saved 35 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 34 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-08-04T08:37:35.631888-04:00.jpg">
+  <img src="https://archive.org/download/niemanlab-2022/niemanlab-2022-08-04T08:37:35.631888-04:00.jpg"
+     alt="Nieman Lab at 2022-08-04 08:37:37-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-08-04T08:37:35.631888-04:00.jpg">August 4 at 8:37 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-08-03T20:44:09.468953-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-29T20:14:12.128100-04:00.jpg">July 29 at 8:14 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-29T08:22:32.820299-04:00.jpg">
-  <img src="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-29T08:22:32.820299-04:00.jpg"
-     alt="Nieman Lab at 2022-07-29 08:22:34-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/niemanlab-2022/niemanlab-2022-07-29T08:22:32.820299-04:00.jpg">July 29 at 8:22 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 34 hyperlink lists with the Internet Archive.
+The archiving routine has saved 35 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 4 at 8:37 AM](https://archive.org/download/niemanlab-2022/niemanlab-2022-08-04T08:37:35.631888-04:00.hyperlinks.json) |
 | [August 3 at 8:44 PM](https://archive.org/download/niemanlab-2022/niemanlab-2022-08-03T20:44:09.468953-04:00.hyperlinks.json) |
 | [August 3 at 8:53 AM](https://archive.org/download/niemanlab-2022/niemanlab-2022-08-03T08:53:50.902793-04:00.hyperlinks.json) |
 | [August 2 at 8:40 PM](https://archive.org/download/niemanlab-2022/niemanlab-2022-08-02T20:40:15.947314-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 31 at 8:22 PM](https://archive.org/download/niemanlab-2022/niemanlab-2022-07-31T20:22:15.107199-04:00.hyperlinks.json) |
 | [July 31 at 9:21 AM](https://archive.org/download/niemanlab-2022/niemanlab-2022-07-31T09:21:48.233724-04:00.hyperlinks.json) |
 | [July 30 at 8:31 PM](https://archive.org/download/niemanlab-2022/niemanlab-2022-07-30T20:31:05.299161-04:00.hyperlinks.json) |
-| [July 30 at 8:26 AM](https://archive.org/download/niemanlab-2022/niemanlab-2022-07-30T08:26:24.077295-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 34 accessibility trees with the Internet Archive.
+The archiving routine has saved 35 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 4 at 8:37 AM](https://archive.org/download/niemanlab-2022/niemanlab-2022-08-04T08:37:35.631888-04:00.accessibility.json) |
 | [August 3 at 8:44 PM](https://archive.org/download/niemanlab-2022/niemanlab-2022-08-03T20:44:09.468953-04:00.accessibility.json) |
 | [August 3 at 8:53 AM](https://archive.org/download/niemanlab-2022/niemanlab-2022-08-03T08:53:50.902793-04:00.accessibility.json) |
 | [August 2 at 8:40 PM](https://archive.org/download/niemanlab-2022/niemanlab-2022-08-02T20:40:15.947314-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 31 at 8:22 PM](https://archive.org/download/niemanlab-2022/niemanlab-2022-07-31T20:22:15.107199-04:00.accessibility.json) |
 | [July 31 at 9:21 AM](https://archive.org/download/niemanlab-2022/niemanlab-2022-07-31T09:21:48.233724-04:00.accessibility.json) |
 | [July 30 at 8:31 PM](https://archive.org/download/niemanlab-2022/niemanlab-2022-07-30T20:31:05.299161-04:00.accessibility.json) |
-| [July 30 at 8:26 AM](https://archive.org/download/niemanlab-2022/niemanlab-2022-07-30T08:26:24.077295-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 24 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 4 at 8:37 AM](https://archive.org/download/niemanlab-2022/niemanlab-2022-08-04T08:37:35.631888-04:00.lighthouse.json) |
 | [August 3 at 8:44 PM](https://archive.org/download/niemanlab-2022/niemanlab-2022-08-03T20:44:09.468953-04:00.lighthouse.json) |
 | [August 3 at 8:53 AM](https://archive.org/download/niemanlab-2022/niemanlab-2022-08-03T08:53:50.902793-04:00.lighthouse.json) |
 | [August 2 at 8:40 PM](https://archive.org/download/niemanlab-2022/niemanlab-2022-08-02T20:40:15.947314-04:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 31 at 8:22 PM](https://archive.org/download/niemanlab-2022/niemanlab-2022-07-31T20:22:15.107199-04:00.lighthouse.json) |
 | [July 31 at 9:21 AM](https://archive.org/download/niemanlab-2022/niemanlab-2022-07-31T09:21:48.233724-04:00.lighthouse.json) |
 | [July 30 at 8:31 PM](https://archive.org/download/niemanlab-2022/niemanlab-2022-07-30T20:31:05.299161-04:00.lighthouse.json) |
-| [July 30 at 8:26 AM](https://archive.org/download/niemanlab-2022/niemanlab-2022-07-30T08:26:24.077295-04:00.lighthouse.json) |
 
 
 

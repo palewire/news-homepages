@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 31 screenshots with the Internet Archive.
+The archiving routine has saved 32 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 31 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nettavisen-2022/nettavisen-2022-08-04T14:35:17.871104+02:00.jpg">
+  <img src="https://archive.org/download/nettavisen-2022/nettavisen-2022-08-04T14:35:17.871104+02:00.jpg"
+     alt="Nettavisen at 2022-08-04 14:35:19+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nettavisen-2022/nettavisen-2022-08-04T14:35:17.871104+02:00.jpg">August 4 at 2:35 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nettavisen-2022/nettavisen-2022-08-04T02:42:33.692100+02:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nettavisen-2022/nettavisen-2022-07-30T02:13:20.795725+02:00.jpg">July 30 at 2:13 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nettavisen-2022/nettavisen-2022-07-29T14:21:03.188911+02:00.jpg">
-  <img src="https://archive.org/download/nettavisen-2022/nettavisen-2022-07-29T14:21:03.188911+02:00.jpg"
-     alt="Nettavisen at 2022-07-29 14:21:06+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nettavisen-2022/nettavisen-2022-07-29T14:21:03.188911+02:00.jpg">July 29 at 2:21 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 31 hyperlink lists with the Internet Archive.
+The archiving routine has saved 32 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 4 at 2:35 PM](https://archive.org/download/nettavisen-2022/nettavisen-2022-08-04T14:35:17.871104+02:00.hyperlinks.json) |
 | [August 4 at 2:42 AM](https://archive.org/download/nettavisen-2022/nettavisen-2022-08-04T02:42:33.692100+02:00.hyperlinks.json) |
 | [August 3 at 2:52 PM](https://archive.org/download/nettavisen-2022/nettavisen-2022-08-03T14:52:32.943807+02:00.hyperlinks.json) |
 | [August 3 at 2:39 AM](https://archive.org/download/nettavisen-2022/nettavisen-2022-08-03T02:39:05.353527+02:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 1 at 2:20 AM](https://archive.org/download/nettavisen-2022/nettavisen-2022-08-01T02:20:52.996034+02:00.hyperlinks.json) |
 | [July 31 at 3:20 PM](https://archive.org/download/nettavisen-2022/nettavisen-2022-07-31T15:20:20.017228+02:00.hyperlinks.json) |
 | [July 31 at 2:30 AM](https://archive.org/download/nettavisen-2022/nettavisen-2022-07-31T02:30:22.747475+02:00.hyperlinks.json) |
-| [July 30 at 2:26 PM](https://archive.org/download/nettavisen-2022/nettavisen-2022-07-30T14:26:32.453391+02:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 31 accessibility trees with the Internet Archive.
+The archiving routine has saved 32 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 4 at 2:35 PM](https://archive.org/download/nettavisen-2022/nettavisen-2022-08-04T14:35:17.871104+02:00.accessibility.json) |
 | [August 4 at 2:42 AM](https://archive.org/download/nettavisen-2022/nettavisen-2022-08-04T02:42:33.692100+02:00.accessibility.json) |
 | [August 3 at 2:52 PM](https://archive.org/download/nettavisen-2022/nettavisen-2022-08-03T14:52:32.943807+02:00.accessibility.json) |
 | [August 3 at 2:39 AM](https://archive.org/download/nettavisen-2022/nettavisen-2022-08-03T02:39:05.353527+02:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 1 at 2:20 AM](https://archive.org/download/nettavisen-2022/nettavisen-2022-08-01T02:20:52.996034+02:00.accessibility.json) |
 | [July 31 at 3:20 PM](https://archive.org/download/nettavisen-2022/nettavisen-2022-07-31T15:20:20.017228+02:00.accessibility.json) |
 | [July 31 at 2:30 AM](https://archive.org/download/nettavisen-2022/nettavisen-2022-07-31T02:30:22.747475+02:00.accessibility.json) |
-| [July 30 at 2:26 PM](https://archive.org/download/nettavisen-2022/nettavisen-2022-07-30T14:26:32.453391+02:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 24 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 4 at 2:35 PM](https://archive.org/download/nettavisen-2022/nettavisen-2022-08-04T14:35:17.871104+02:00.lighthouse.json) |
 | [August 4 at 2:42 AM](https://archive.org/download/nettavisen-2022/nettavisen-2022-08-04T02:42:33.692100+02:00.lighthouse.json) |
 | [August 3 at 2:52 PM](https://archive.org/download/nettavisen-2022/nettavisen-2022-08-03T14:52:32.943807+02:00.lighthouse.json) |
 | [August 3 at 2:39 AM](https://archive.org/download/nettavisen-2022/nettavisen-2022-08-03T02:39:05.353527+02:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 1 at 2:21 AM](https://archive.org/download/nettavisen-2022/nettavisen-2022-08-01T02:20:52.996034+02:00.lighthouse.json) |
 | [July 31 at 3:20 PM](https://archive.org/download/nettavisen-2022/nettavisen-2022-07-31T15:20:20.017228+02:00.lighthouse.json) |
 | [July 31 at 2:30 AM](https://archive.org/download/nettavisen-2022/nettavisen-2022-07-31T02:30:22.747475+02:00.lighthouse.json) |
-| [July 30 at 2:26 PM](https://archive.org/download/nettavisen-2022/nettavisen-2022-07-30T14:26:32.453391+02:00.lighthouse.json) |
 
 
 

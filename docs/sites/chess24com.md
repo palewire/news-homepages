@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 32 screenshots with the Internet Archive.
+The archiving routine has saved 33 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 32 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/chess24com-2022/chess24com-2022-08-04T15:52:56.428266+02:00.jpg">
+  <img src="https://archive.org/download/chess24com-2022/chess24com-2022-08-04T15:52:56.428266+02:00.jpg"
+     alt="chess24 at 2022-08-04 15:52:57+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chess24com-2022/chess24com-2022-08-04T15:52:56.428266+02:00.jpg">August 4 at 3:52 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chess24com-2022/chess24com-2022-08-04T05:06:30.363292+02:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/chess24com-2022/chess24com-2022-07-30T03:19:57.555652+02:00.jpg">July 30 at 3:19 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/chess24com-2022/chess24com-2022-07-29T15:31:03.309229+02:00.jpg">
-  <img src="https://archive.org/download/chess24com-2022/chess24com-2022-07-29T15:31:03.309229+02:00.jpg"
-     alt="chess24 at 2022-07-29 15:31:05+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/chess24com-2022/chess24com-2022-07-29T15:31:03.309229+02:00.jpg">July 29 at 3:31 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 31 hyperlink lists with the Internet Archive.
+The archiving routine has saved 32 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 4 at 3:53 PM](https://archive.org/download/chess24com-2022/chess24com-2022-08-04T15:52:56.428266+02:00.hyperlinks.json) |
 | [August 4 at 5:06 AM](https://archive.org/download/chess24com-2022/chess24com-2022-08-04T05:06:30.363292+02:00.hyperlinks.json) |
 | [August 3 at 4:27 PM](https://archive.org/download/chess24com-2022/chess24com-2022-08-03T16:27:17.961769+02:00.hyperlinks.json) |
 | [August 3 at 3:53 AM](https://archive.org/download/chess24com-2022/chess24com-2022-08-03T03:53:45.468070+02:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 31 at 3:29 PM](https://archive.org/download/chess24com-2022/chess24com-2022-07-31T15:29:49.823151+02:00.hyperlinks.json) |
 | [July 31 at 4:45 AM](https://archive.org/download/chess24com-2022/chess24com-2022-07-31T04:45:21.621578+02:00.hyperlinks.json) |
 | [July 30 at 3:32 PM](https://archive.org/download/chess24com-2022/chess24com-2022-07-30T15:32:41.711879+02:00.hyperlinks.json) |
-| [July 30 at 3:20 AM](https://archive.org/download/chess24com-2022/chess24com-2022-07-30T03:19:57.555652+02:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 32 accessibility trees with the Internet Archive.
+The archiving routine has saved 33 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 4 at 3:52 PM](https://archive.org/download/chess24com-2022/chess24com-2022-08-04T15:52:56.428266+02:00.accessibility.json) |
 | [August 4 at 5:06 AM](https://archive.org/download/chess24com-2022/chess24com-2022-08-04T05:06:30.363292+02:00.accessibility.json) |
 | [August 3 at 4:27 PM](https://archive.org/download/chess24com-2022/chess24com-2022-08-03T16:27:17.961769+02:00.accessibility.json) |
 | [August 3 at 3:53 AM](https://archive.org/download/chess24com-2022/chess24com-2022-08-03T03:53:45.468070+02:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 1 at 3:25 AM](https://archive.org/download/chess24com-2022/chess24com-2022-08-01T03:25:03.983825+02:00.accessibility.json) |
 | [July 31 at 3:29 PM](https://archive.org/download/chess24com-2022/chess24com-2022-07-31T15:29:49.823151+02:00.accessibility.json) |
 | [July 31 at 4:45 AM](https://archive.org/download/chess24com-2022/chess24com-2022-07-31T04:45:21.621578+02:00.accessibility.json) |
-| [July 30 at 3:32 PM](https://archive.org/download/chess24com-2022/chess24com-2022-07-30T15:32:41.711879+02:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 24 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 25 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 4 at 3:53 PM](https://archive.org/download/chess24com-2022/chess24com-2022-08-04T15:52:56.428266+02:00.lighthouse.json) |
 | [August 4 at 5:06 AM](https://archive.org/download/chess24com-2022/chess24com-2022-08-04T05:06:30.363292+02:00.lighthouse.json) |
 | [August 3 at 4:27 PM](https://archive.org/download/chess24com-2022/chess24com-2022-08-03T16:27:17.961769+02:00.lighthouse.json) |
 | [August 3 at 3:53 AM](https://archive.org/download/chess24com-2022/chess24com-2022-08-03T03:53:45.468070+02:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 1 at 3:25 AM](https://archive.org/download/chess24com-2022/chess24com-2022-08-01T03:25:03.983825+02:00.lighthouse.json) |
 | [July 31 at 3:29 PM](https://archive.org/download/chess24com-2022/chess24com-2022-07-31T15:29:49.823151+02:00.lighthouse.json) |
 | [July 31 at 4:45 AM](https://archive.org/download/chess24com-2022/chess24com-2022-07-31T04:45:21.621578+02:00.lighthouse.json) |
-| [July 30 at 3:32 PM](https://archive.org/download/chess24com-2022/chess24com-2022-07-30T15:32:41.711879+02:00.lighthouse.json) |
 
 
 

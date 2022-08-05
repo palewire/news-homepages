@@ -3,7 +3,7 @@
 
 # Bundle directory
 
-The archiving routine is currently organized into 51 bundles of sites.
+The archiving routine is currently organized into 52 bundles of sites.
 
 | Bundle  | RSS |
 | :-----  | :-- |
@@ -37,6 +37,7 @@ The archiving routine is currently organized into 51 bundles of sites.
 |[Nepal](https://palewi.re/docs/news-homepages/bundles/nepal.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/nepal.xml)|
 |[New Mexico](https://palewi.re/docs/news-homepages/bundles/new-mexico.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/new-mexico.xml)|
 |[New York City](https://palewi.re/docs/news-homepages/bundles/new-york-city.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/new-york-city.xml)|
+|[New Zealand](https://palewi.re/docs/news-homepages/bundles/new-zealand.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/new-zealand.xml)|
 |[North Carolina](https://palewi.re/docs/news-homepages/bundles/north-carolina.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/north-carolina.xml)|
 |[Norway](https://palewi.re/docs/news-homepages/bundles/norway.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/norway.xml)|
 |[Oregon](https://palewi.re/docs/news-homepages/bundles/oregon.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/oregon.xml)|

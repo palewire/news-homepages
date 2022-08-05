@@ -3,7 +3,7 @@
 
 # Latest screenshots
 
-The most recent homepages captured from 742 news sites.
+The most recent homepages captured from 752 news sites.
 
 <div class="latest-parent">
 
@@ -68,6 +68,15 @@ The most recent homepages captured from 742 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/19thnews.html">19th</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/1newsnz.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/1newsnz.jpg"
+     alt="1News"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/1newsnz.html">1News</a></p>
 </div>
 
 <div class="latest-child">
@@ -590,6 +599,15 @@ The most recent homepages captured from 742 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/12khari.html">Baahrakhari</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/thebabylonbee.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thebabylonbee.jpg"
+     alt="Babylon Bee"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/thebabylonbee.html">Babylon Bee</a></p>
 </div>
 
 <div class="latest-child">
@@ -1205,6 +1223,15 @@ The most recent homepages captured from 742 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/charlie_hebdo_.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/charlie_hebdo_.jpg"
+     alt="Charlie Hebdo"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/charlie_hebdo_.html">Charlie Hebdo</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/theobserver.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theobserver.jpg"
      alt="Charlotte Observer"
@@ -1328,6 +1355,15 @@ The most recent homepages captured from 742 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/cityandstateny.html">City & State New York</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/cityjournal.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cityjournal.jpg"
+     alt="City Journal"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/cityjournal.html">City Journal</a></p>
 </div>
 
 <div class="latest-child">
@@ -4391,6 +4427,15 @@ The most recent homepages captured from 742 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/nzherald.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nzherald.jpg"
+     alt="NZ Herald"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/nzherald.html">NZ Herald</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/o_antagonista.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/o_antagonista.jpg"
      alt="O Antagonista"
@@ -4796,6 +4841,15 @@ The most recent homepages captured from 742 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/privateeyenews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/privateeyenews.jpg"
+     alt="Private Eye"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/privateeyenews.html">Private Eye</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/propublica.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/propublica.jpg"
      alt="ProPublica"
@@ -4931,6 +4985,15 @@ The most recent homepages captured from 742 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/realclearnews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/realclearnews.jpg"
+     alt="Real Clear Politics"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/realclearnews.html">Real Clear Politics</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/therealnews.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/therealnews.jpg"
      alt="Real News"
@@ -5036,6 +5099,15 @@ The most recent homepages captured from 742 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/pressenterprise.html">Riverside Press-Enterprise</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/rnz_news.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/rnz_news.jpg"
+     alt="RNZ"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/rnz_news.html">RNZ</a></p>
 </div>
 
 <div class="latest-child">
@@ -5372,6 +5444,15 @@ The most recent homepages captured from 742 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/spectator.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/spectator.jpg"
+     alt="Spectator"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/spectator.html">Spectator</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/spokesmanreview.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/spokesmanreview.jpg"
      alt="Spokesman-Review"
@@ -5495,6 +5576,15 @@ The most recent homepages captured from 742 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/strikewave.html">Strikewave</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/nzstuff.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nzstuff.jpg"
+     alt="Stuff"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/nzstuff.html">Stuff</a></p>
 </div>
 
 <div class="latest-child">

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 36 screenshots with the Internet Archive.
+The archiving routine has saved 37 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 36 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-08-04T07:35:02.004888-05:00.jpg">
+  <img src="https://archive.org/download/marfaradio-2022/marfaradio-2022-08-04T07:35:02.004888-05:00.jpg"
+     alt="Marfa Public Radio at 2022-08-04 07:35:04-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-08-04T07:35:02.004888-05:00.jpg">August 4 at 7:35 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-08-03T19:42:22.738263-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-29T19:11:41.595129-05:00.jpg">July 29 at 7:11 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-29T07:18:21.935790-05:00.jpg">
-  <img src="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-29T07:18:21.935790-05:00.jpg"
-     alt="Marfa Public Radio at 2022-07-29 07:18:30-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/marfaradio-2022/marfaradio-2022-07-29T07:18:21.935790-05:00.jpg">July 29 at 7:18 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 36 hyperlink lists with the Internet Archive.
+The archiving routine has saved 37 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 4 at 7:35 AM](https://archive.org/download/marfaradio-2022/marfaradio-2022-08-04T07:35:02.004888-05:00.hyperlinks.json) |
 | [August 3 at 7:42 PM](https://archive.org/download/marfaradio-2022/marfaradio-2022-08-03T19:42:22.738263-05:00.hyperlinks.json) |
 | [August 3 at 7:50 AM](https://archive.org/download/marfaradio-2022/marfaradio-2022-08-03T07:50:24.566793-05:00.hyperlinks.json) |
 | [August 2 at 7:37 PM](https://archive.org/download/marfaradio-2022/marfaradio-2022-08-02T19:37:16.360170-05:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 31 at 7:19 PM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-31T19:19:32.537605-05:00.hyperlinks.json) |
 | [July 31 at 8:19 AM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-31T08:18:59.452387-05:00.hyperlinks.json) |
 | [July 30 at 7:28 PM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-30T19:28:42.067943-05:00.hyperlinks.json) |
-| [July 30 at 7:24 AM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-30T07:24:32.334885-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 35 accessibility trees with the Internet Archive.
+The archiving routine has saved 36 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 4 at 7:35 AM](https://archive.org/download/marfaradio-2022/marfaradio-2022-08-04T07:35:02.004888-05:00.accessibility.json) |
 | [August 3 at 7:42 PM](https://archive.org/download/marfaradio-2022/marfaradio-2022-08-03T19:42:22.738263-05:00.accessibility.json) |
 | [August 3 at 7:50 AM](https://archive.org/download/marfaradio-2022/marfaradio-2022-08-03T07:50:24.566793-05:00.accessibility.json) |
 | [August 2 at 7:37 PM](https://archive.org/download/marfaradio-2022/marfaradio-2022-08-02T19:37:16.360170-05:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [July 31 at 7:19 PM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-31T19:19:32.537605-05:00.accessibility.json) |
 | [July 31 at 8:19 AM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-31T08:18:59.452387-05:00.accessibility.json) |
 | [July 30 at 7:28 PM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-30T19:28:42.067943-05:00.accessibility.json) |
-| [July 30 at 7:24 AM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-30T07:24:32.334885-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 24 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 4 at 7:35 AM](https://archive.org/download/marfaradio-2022/marfaradio-2022-08-04T07:35:02.004888-05:00.lighthouse.json) |
 | [August 3 at 7:42 PM](https://archive.org/download/marfaradio-2022/marfaradio-2022-08-03T19:42:22.738263-05:00.lighthouse.json) |
 | [August 3 at 7:50 AM](https://archive.org/download/marfaradio-2022/marfaradio-2022-08-03T07:50:24.566793-05:00.lighthouse.json) |
 | [August 2 at 7:37 PM](https://archive.org/download/marfaradio-2022/marfaradio-2022-08-02T19:37:16.360170-05:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [July 31 at 7:19 PM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-31T19:19:32.537605-05:00.lighthouse.json) |
 | [July 31 at 8:19 AM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-31T08:18:59.452387-05:00.lighthouse.json) |
 | [July 30 at 7:28 PM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-30T19:28:42.067943-05:00.lighthouse.json) |
-| [July 30 at 7:24 AM](https://archive.org/download/marfaradio-2022/marfaradio-2022-07-30T07:24:32.334885-05:00.lighthouse.json) |
 
 
 

@@ -7,7 +7,7 @@ orphan: true
 
 # U.S. right wing
 
-The most recent homepages from 28 news sites in this bundle.
+The most recent homepages from 29 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -45,6 +45,15 @@ The most recent homepages from 28 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/bulwarkonline.html">Bulwark</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/cityjournal.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cityjournal.jpg"
+     alt="City Journal"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/cityjournal.html">City Journal</a></p>
 </div>
 
 <div class="latest-child">
@@ -282,6 +291,7 @@ The most recent homepages from 28 news sites in this bundle.
 |[Bongino Report](https://palewi.re/docs/news-homepages/sites/bonginoreport.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bonginoreport.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bonginoreport.xml)|
 |[Breitbart](https://palewi.re/docs/news-homepages/sites/breitbartnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/breitbartnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/breitbartnews.xml)|
 |[Bulwark](https://palewi.re/docs/news-homepages/sites/bulwarkonline.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bulwarkonline.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bulwarkonline.xml)|
+|[City Journal](https://palewi.re/docs/news-homepages/sites/cityjournal.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cityjournal.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/cityjournal.xml)|
 |[Common Sense](https://palewi.re/docs/news-homepages/sites/bariweiss.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bariweiss.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bariweiss.xml)|
 |[Daily Caller](https://palewi.re/docs/news-homepages/sites/dailycaller.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailycaller.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dailycaller.xml)|
 |[Daily Wire](https://palewi.re/docs/news-homepages/sites/realdailywire.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/realdailywire.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/realdailywire.xml)|

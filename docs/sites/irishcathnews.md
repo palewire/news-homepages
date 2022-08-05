@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 34 screenshots with the Internet Archive.
+The archiving routine has saved 35 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 34 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/irishcathnews-2022/irishcathnews-2022-08-04T13:27:58.061367+01:00.jpg">
+  <img src="https://archive.org/download/irishcathnews-2022/irishcathnews-2022-08-04T13:27:58.061367+01:00.jpg"
+     alt="Irish Catholic at 2022-08-04 13:28:00+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/irishcathnews-2022/irishcathnews-2022-08-04T13:27:58.061367+01:00.jpg">August 4 at 1:28 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/irishcathnews-2022/irishcathnews-2022-08-04T01:35:00.183298+01:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/irishcathnews-2022/irishcathnews-2022-07-30T01:09:10.258286+01:00.jpg">July 30 at 1:09 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/irishcathnews-2022/irishcathnews-2022-07-29T01:11:24.055155+01:00.jpg">
-  <img src="https://archive.org/download/irishcathnews-2022/irishcathnews-2022-07-29T01:11:24.055155+01:00.jpg"
-     alt="Irish Catholic at 2022-07-29 01:11:26+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/irishcathnews-2022/irishcathnews-2022-07-29T01:11:24.055155+01:00.jpg">July 29 at 1:11 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 35 hyperlink lists with the Internet Archive.
+The archiving routine has saved 36 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 4 at 1:28 PM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-08-04T13:27:58.061367+01:00.hyperlinks.json) |
 | [August 4 at 1:35 AM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-08-04T01:35:00.183298+01:00.hyperlinks.json) |
 | [August 3 at 1:45 PM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-08-03T13:45:36.613384+01:00.hyperlinks.json) |
 | [August 3 at 1:33 AM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-08-03T01:33:09.392983+01:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 1 at 1:16 AM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-08-01T01:16:19.277921+01:00.hyperlinks.json) |
 | [July 31 at 2:16 PM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-07-31T14:16:15.050690+01:00.hyperlinks.json) |
 | [July 31 at 1:24 AM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-07-31T01:24:15.261309+01:00.hyperlinks.json) |
-| [July 30 at 1:20 PM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-07-30T13:19:59.258299+01:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 35 accessibility trees with the Internet Archive.
+The archiving routine has saved 36 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 4 at 1:28 PM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-08-04T13:27:58.061367+01:00.accessibility.json) |
 | [August 4 at 1:35 AM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-08-04T01:35:00.183298+01:00.accessibility.json) |
 | [August 3 at 1:45 PM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-08-03T13:45:36.613384+01:00.accessibility.json) |
 | [August 3 at 1:33 AM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-08-03T01:33:09.392983+01:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 1 at 1:16 AM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-08-01T01:16:19.277921+01:00.accessibility.json) |
 | [July 31 at 2:16 PM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-07-31T14:16:15.050690+01:00.accessibility.json) |
 | [July 31 at 1:24 AM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-07-31T01:24:15.261309+01:00.accessibility.json) |
-| [July 30 at 1:20 PM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-07-30T13:19:59.258299+01:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 24 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 4 at 1:28 PM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-08-04T13:27:58.061367+01:00.lighthouse.json) |
 | [August 4 at 1:35 AM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-08-04T01:35:00.183298+01:00.lighthouse.json) |
 | [August 3 at 1:45 PM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-08-03T13:45:36.613384+01:00.lighthouse.json) |
 | [August 3 at 1:33 AM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-08-03T01:33:09.392983+01:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 1 at 1:16 AM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-08-01T01:16:19.277921+01:00.lighthouse.json) |
 | [July 31 at 2:16 PM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-07-31T14:16:15.050690+01:00.lighthouse.json) |
 | [July 31 at 1:24 AM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-07-31T01:24:15.261309+01:00.lighthouse.json) |
-| [July 30 at 1:20 PM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-07-30T13:19:59.258299+01:00.lighthouse.json) |
 
 
 

@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 21 screenshots with the Internet Archive.
+The archiving routine has saved 22 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-08-04T21:04:05.824687+05:45.jpg">
+  <img src="https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-08-04T21:04:05.824687+05:45.jpg"
+     alt="Deshsanchar at 2022-08-04 21:04:08+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-08-04T21:04:05.824687+05:45.jpg">August 4 at 9:04 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-08-04T09:03:46.245498+05:45.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-07-29T20:19:55.363301+05:45.jpg">July 29 at 8:19 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-07-29T08:19:04.700374+05:45.jpg">
-  <img src="https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-07-29T08:19:04.700374+05:45.jpg"
-     alt="Deshsanchar at 2022-07-29 08:19:05+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-07-29T08:19:04.700374+05:45.jpg">July 29 at 8:19 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 22 hyperlink lists with the Internet Archive.
+The archiving routine has saved 23 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 4 at 9:04 PM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-08-04T21:04:05.824687+05:45.hyperlinks.json) |
 | [August 4 at 9:03 AM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-08-04T09:03:46.245498+05:45.hyperlinks.json) |
 | [August 3 at 10:38 PM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-08-03T22:38:31.821740+05:45.hyperlinks.json) |
 | [August 3 at 10:12 AM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-08-03T10:12:11.264222+05:45.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 1 at 8:18 AM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-08-01T08:18:13.176555+05:45.hyperlinks.json) |
 | [July 31 at 8:19 PM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-07-31T20:19:18.549008+05:45.hyperlinks.json) |
 | [July 31 at 8:39 AM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-07-31T08:39:13.425506+05:45.hyperlinks.json) |
-| [July 30 at 9:22 PM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-07-30T21:22:46.744288+05:45.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 22 accessibility trees with the Internet Archive.
+The archiving routine has saved 23 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 4 at 9:04 PM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-08-04T21:04:05.824687+05:45.accessibility.json) |
 | [August 4 at 9:03 AM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-08-04T09:03:46.245498+05:45.accessibility.json) |
 | [August 3 at 10:38 PM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-08-03T22:38:31.821740+05:45.accessibility.json) |
 | [August 3 at 10:12 AM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-08-03T10:12:11.264222+05:45.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [August 1 at 8:18 AM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-08-01T08:18:13.176555+05:45.accessibility.json) |
 | [July 31 at 8:19 PM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-07-31T20:19:18.549008+05:45.accessibility.json) |
 | [July 31 at 8:39 AM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-07-31T08:39:13.425506+05:45.accessibility.json) |
-| [July 30 at 9:22 PM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-07-30T21:22:46.744288+05:45.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 22 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 4 at 9:04 PM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-08-04T21:04:05.824687+05:45.lighthouse.json) |
 | [August 4 at 9:03 AM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-08-04T09:03:46.245498+05:45.lighthouse.json) |
 | [August 3 at 10:38 PM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-08-03T22:38:31.821740+05:45.lighthouse.json) |
 | [August 3 at 10:12 AM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-08-03T10:12:11.264222+05:45.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 1 at 8:18 AM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-08-01T08:18:13.176555+05:45.lighthouse.json) |
 | [July 31 at 8:19 PM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-07-31T20:19:18.549008+05:45.lighthouse.json) |
 | [July 31 at 8:39 AM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-07-31T08:39:13.425506+05:45.lighthouse.json) |
-| [July 30 at 9:22 PM](https://archive.org/download/deshsanchar1-2022/deshsanchar1-2022-07-30T21:22:46.744288+05:45.lighthouse.json) |
 
 
 
