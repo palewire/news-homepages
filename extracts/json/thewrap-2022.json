@@ -1,5 +1,5 @@
 {
-  "created": 1659683272,
+  "created": 1659703748,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/1/items/thewrap-2022",
@@ -1899,10 +1899,51 @@
     "publicdate": "2022-07-18 04:19:04",
     "addeddate": "2022-07-18 04:19:04"
   },
-  "server": "ia801401.us.archive.org",
-  "uniq": 131250089,
+  "server": "ia601401.us.archive.org",
+  "thewrap-2022": [
+    {
+      "url": "https://www.thewrap.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thewrap_com-_-2022_08_05_01_32_22.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thewrap_com-_-2022_08_05_01_32_22.report.json",
+      "summary": {
+        "performance": 0.25,
+        "accessibility": 1,
+        "best-practices": 0.83,
+        "seo": 0.82,
+        "pwa": 0.7
+      }
+    },
+    {
+      "url": "https://www.thewrap.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thewrap_com-_-2022_08_05_01_32_45.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thewrap_com-_-2022_08_05_01_32_45.report.json",
+      "summary": {
+        "performance": 0.3,
+        "accessibility": 1,
+        "best-practices": 0.83,
+        "seo": 0.82,
+        "pwa": 0.7
+      }
+    },
+    {
+      "url": "https://www.thewrap.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thewrap_com-_-2022_08_05_01_33_06.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_thewrap_com-_-2022_08_05_01_33_06.report.json",
+      "summary": {
+        "performance": 0.27,
+        "accessibility": 1,
+        "best-practices": 0.83,
+        "seo": 0.82,
+        "pwa": 0.7
+      }
+    }
+  ],
+  "uniq": 1308142614,
   "workable_servers": [
-    "ia801401.us.archive.org",
-    "ia601401.us.archive.org"
+    "ia601401.us.archive.org",
+    "ia801401.us.archive.org"
   ]
 }

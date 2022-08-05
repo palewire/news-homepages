@@ -1,5 +1,5 @@
 {
-  "created": 1659665996,
+  "created": 1659702954,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/8/items/king5seattle-2022",
@@ -2922,31 +2922,82 @@
       "sha1": "f45a2e345e2861172a503ac5d2963aa9be5144ff"
     },
     {
+      "name": "king5seattle-2022-08-05T05:34:58.679652-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659702905",
+      "size": "6320",
+      "md5": "40726592e80a9fa68914c0f06b29e38d",
+      "crc32": "4046d1be",
+      "sha1": "8fe9c9ee1afa7e7d01073cb9e54bab847e267d8a",
+      "format": "JSON"
+    },
+    {
+      "name": "king5seattle-2022-08-05T05:34:58.679652-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659702906",
+      "size": "74591",
+      "md5": "af1665de390ea4cd42a30c2d24cbd618",
+      "crc32": "74e51d4d",
+      "sha1": "2fd17490d882ba29ad30b09e94a858c630bad21a",
+      "format": "JSON"
+    },
+    {
+      "name": "king5seattle-2022-08-05T05:34:58.679652-07:00.jpg",
+      "source": "original",
+      "mtime": "1659702903",
+      "size": "240115",
+      "md5": "2ce7b2327da8174298824063085cc87e",
+      "crc32": "29086e8d",
+      "sha1": "3e909cf386a385fd879884c82d0fa389c78cf444",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "king5seattle-2022-08-05T05:34:58.679652-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659702908",
+      "size": "1446",
+      "md5": "c9853e2265fdf495d9fdd12a49500778",
+      "crc32": "02021f33",
+      "sha1": "b2185e141dd589076e0afd19b6fb61d7fbd8b737",
+      "format": "JSON"
+    },
+    {
+      "name": "king5seattle-2022-08-05T05:34:58.679652-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1659702910",
+      "size": "18609",
+      "md5": "87f6bcce36564c6aaf7f7b5c453598de",
+      "crc32": "5661e6d7",
+      "sha1": "59d28896d5a407f31b00b385ef80fe4deb77a928",
+      "format": "JSON"
+    },
+    {
       "name": "king5seattle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5a38e73ce6a45c48a048e343eeb23d25662a5834",
-      "mtime": "1659665967",
-      "size": "61239",
-      "md5": "d27d76e18693750186a11d0eecdb8b6d",
-      "crc32": "9156dc1c",
-      "sha1": "c6c90c4dfc8ce889b35df0254b0fd88486d75a19",
+      "btih": "def8784463898d0732849d2eb9ead6297cd882d1",
+      "mtime": "1659702951",
+      "size": "62321",
+      "md5": "eda1ccaa91f26fdae16b7ac9ebebf2fe",
+      "crc32": "a79fd488",
+      "sha1": "439790eadc3811535d764de088f599999d67f8e4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "king5seattle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d5643ef0189eb6a0357eb93066d69dbe",
+      "md5": "bc11321850ed0fc338bd057b3276deb8",
       "summation": "md5"
     },
     {
       "name": "king5seattle-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659663667",
-      "size": "352256",
-      "md5": "faec162ad1d5d30502b345927e94f327",
-      "crc32": "f73750ce",
-      "sha1": "c638839e170abe7fe8dfe0cf8ba2f4e04402b6ef",
+      "mtime": "1659702914",
+      "size": "360448",
+      "md5": "d26b729c07f3102fc80dfb0e4e6d2693",
+      "crc32": "fbbe7c4a",
+      "sha1": "6ba2356d7f277a3a5aa8ebba3cc206f392e1f2c9",
       "format": "Metadata"
     },
     {
@@ -2960,9 +3011,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 283,
-  "item_last_updated": 1659665967,
-  "item_size": 22323254,
+  "files_count": 288,
+  "item_last_updated": 1659702951,
+  "item_size": 22673609,
   "metadata": {
     "identifier": "king5seattle-2022",
     "collection": [
@@ -2979,10 +3030,21 @@
     "publicdate": "2022-07-04 21:55:32",
     "addeddate": "2022-07-04 21:55:32"
   },
-  "server": "ia802505.us.archive.org",
-  "uniq": 750551703,
+  "pending_tasks": true,
+  "server": "ia902505.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3353457575,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 498577161,
   "workable_servers": [
-    "ia802505.us.archive.org",
     "ia902505.us.archive.org"
   ]
 }

@@ -1,5 +1,6 @@
 {
-  "created": 1659683163,
+  "conflict": 1659703601,
+  "created": 1659703601,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/15/items/shillsalmanac-2022",
@@ -1085,10 +1086,29 @@
     "publicdate": "2022-07-26 00:25:03",
     "addeddate": "2022-07-26 00:25:03"
   },
+  "pending_tasks": true,
   "server": "ia902500.us.archive.org",
-  "uniq": 518735897,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3353462893,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3353462924,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 418218275,
   "workable_servers": [
-    "ia902500.us.archive.org",
-    "ia802500.us.archive.org"
+    "ia902500.us.archive.org"
   ]
 }

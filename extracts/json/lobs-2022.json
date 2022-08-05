@@ -1,5 +1,5 @@
 {
-  "created": 1659673426,
+  "created": 1659703240,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/19/items/lobs-2022",
@@ -4964,31 +4964,93 @@
       "sha1": "eaef9691b991098b0706df84ce2a0a3cd6c0de88"
     },
     {
+      "name": "lobs-2022-08-05T10:11:46.109353+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659687109",
+      "size": "99232",
+      "md5": "7e4fe84424304f3239fc0ad02d9899d9",
+      "crc32": "5971b717",
+      "sha1": "e6eb13fe812df9020196955722f18e7a34ce1a23",
+      "format": "JSON"
+    },
+    {
+      "name": "lobs-2022-08-05T10:11:46.109353+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659687111",
+      "size": "88196",
+      "md5": "4800e2453f889d2830a2426ab03a4c07",
+      "crc32": "9d8964db",
+      "sha1": "e2d559286b13bd96425102cfaa147540040d5a78",
+      "format": "JSON"
+    },
+    {
+      "name": "lobs-2022-08-05T10:11:46.109353+02:00.jpg",
+      "source": "original",
+      "mtime": "1659687107",
+      "size": "248412",
+      "md5": "52e569328ece3acc33f19ad3210562bf",
+      "crc32": "881920aa",
+      "sha1": "ec23786d4f4c3211c8de77c94699d68f8552a97d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lobs-2022-08-05T10:11:46.109353+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659687112",
+      "size": "1477",
+      "md5": "d747394f36681b38fbd51df9d896833b",
+      "crc32": "cf2563a9",
+      "sha1": "eee5f5367807d29935cfde7700f4bce66a7ecd19",
+      "format": "JSON"
+    },
+    {
+      "name": "lobs-2022-08-05T10:11:46.109353+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1659687114",
+      "size": "233",
+      "md5": "979666f7139fda2477d599ee2a64e1ed",
+      "crc32": "32e5bacd",
+      "sha1": "07f55f4a90c4fabd7708f324f8a19e2db0287641",
+      "format": "JSON"
+    },
+    {
+      "name": "lobs-2022-08-05T10:11:46.109353+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lobs-2022-08-05T10:11:46.109353+02:00.jpg",
+      "mtime": "1659692294",
+      "size": "8897",
+      "md5": "f8e2d8b8c098fe1746c197b1ec90047c",
+      "crc32": "b57991a2",
+      "sha1": "420627dbba39473cf8574dc8924eafc8b6875d9a"
+    },
+    {
       "name": "lobs-2022_archive.torrent",
       "source": "metadata",
-      "btih": "83fa071991ccb506ddc4f79a57c64618d3d30149",
-      "mtime": "1659673279",
-      "size": "99653",
-      "md5": "4aea459d8ce8d0703fb3def2b878a789",
-      "crc32": "5b0d5be7",
-      "sha1": "010f76388152a816759612f080e5dd5f490138e0",
+      "btih": "ff9ce2228e486ad6a3b1724a8684bfb4a3ca0dff",
+      "mtime": "1659692355",
+      "size": "100874",
+      "md5": "ad7a7895cf068420814837fe688bf372",
+      "crc32": "c71d15c3",
+      "sha1": "7f4d2e9a8ed10dd5cbe9d10e35d383453f3437a7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lobs-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "47d990f3acbbf7ce404e38f073ab759c",
+      "md5": "4a3db156c5b5a605db7eb2addf98cdf7",
       "summation": "md5"
     },
     {
       "name": "lobs-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659669783",
-      "size": "573440",
-      "md5": "ca827ca8166626d0a79e0dddf97c401a",
-      "crc32": "3607aeff",
-      "sha1": "d533f119512d6e1e81f07f0f59e735edcbbd39d3",
+      "mtime": "1659687120",
+      "size": "577536",
+      "md5": "630e9a2fc78bf8dad2cbe14160a21f72",
+      "crc32": "f22b8e37",
+      "sha1": "720fe35ece50319ebdd6c5f4709a7d407aa2ddef",
       "format": "Metadata"
     },
     {
@@ -5002,9 +5064,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 478,
-  "item_last_updated": 1659673279,
-  "item_size": 47840794,
+  "files_count": 484,
+  "item_last_updated": 1659692355,
+  "item_size": 48292558,
+  "lobs-2022": {
+    "url": "https://www.nouvelobs.com/",
+    "job_id": "spn2-85da40cc17db357b85e873a6d1560caa5ee12e05",
+    "message": "The same snapshot had been made 16 minutes, 19 seconds ago. You can make new capture of this URL after 45 minutes."
+  },
   "metadata": {
     "identifier": "lobs-2022",
     "collection": [
@@ -5022,7 +5089,7 @@
     "addeddate": "2022-06-30 22:26:27"
   },
   "server": "ia801404.us.archive.org",
-  "uniq": 253203590,
+  "uniq": 532105341,
   "workable_servers": [
     "ia801404.us.archive.org",
     "ia601404.us.archive.org"

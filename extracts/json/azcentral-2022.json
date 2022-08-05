@@ -1,5 +1,10 @@
 {
-  "created": 1659682842,
+  "azcentral-2022": {
+    "url": "https://www.azcentral.com/",
+    "job_id": "spn2-7c3140dd352676559a88ab44ca65e0df1680fcd7",
+    "message": "The same snapshot had been made 14 minutes, 15 seconds ago. You can make new capture of this URL after 45 minutes."
+  },
+  "created": 1659702795,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/2/items/azcentral-2022",
@@ -3193,21 +3198,32 @@
       "format": "JSON"
     },
     {
+      "name": "azcentral-2022-08-04T23:58:49.749067-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "azcentral-2022-08-04T23:58:49.749067-07:00.jpg",
+      "mtime": "1659684916",
+      "size": "9285",
+      "md5": "8c6aa319f4349126d26a485b58c3f934",
+      "crc32": "1edf3e68",
+      "sha1": "ee8efb406d716c579408014c172a35f51b2ad2d1"
+    },
+    {
       "name": "azcentral-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4b6538739373a2f86129650cf95b0608a43d2549",
-      "mtime": "1659682838",
-      "size": "65875",
-      "md5": "2cbf62c84c6ca32d5074463098c94a81",
-      "crc32": "8fb9152a",
-      "sha1": "61d816627b98424232aacdf0e0d27d3dac08b2ec",
+      "btih": "f066b0cb589d66bfb9735080c29dfe13bf00259a",
+      "mtime": "1659684947",
+      "size": "66080",
+      "md5": "0a55b6ac183923eaec9593ef56572b62",
+      "crc32": "73004f9c",
+      "sha1": "3e09ddecffaa719e35aa5fdcb5e93bd06954839c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "azcentral-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "17a75cec381a34de0ffefeaec6b3fc65",
+      "md5": "76d57451b41ef2e5540d1dd54bdac836",
       "summation": "md5"
     },
     {
@@ -3231,9 +3247,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 309,
-  "item_last_updated": 1659682838,
-  "item_size": 22996540,
+  "files_count": 310,
+  "item_last_updated": 1659684947,
+  "item_size": 23006030,
   "metadata": {
     "identifier": "azcentral-2022",
     "collection": [
@@ -3250,21 +3266,10 @@
     "publicdate": "2022-07-04 20:45:20",
     "addeddate": "2022-07-04 20:45:20"
   },
-  "pending_tasks": true,
-  "server": "ia902502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3353247579,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2018922454,
+  "server": "ia802502.us.archive.org",
+  "uniq": 1759318611,
   "workable_servers": [
+    "ia802502.us.archive.org",
     "ia902502.us.archive.org"
   ]
 }

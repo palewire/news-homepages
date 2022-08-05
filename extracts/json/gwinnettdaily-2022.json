@@ -1,5 +1,5 @@
 {
-  "created": 1659682775,
+  "created": 1659702663,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/25/items/gwinnettdaily-2022",
@@ -1570,31 +1570,82 @@
       "sha1": "f8d8ef3e5ef45e6fdd13bd32d946dab01a5c5af0"
     },
     {
+      "name": "gwinnettdaily-2022-08-05T08:30:11.938035-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659702615",
+      "size": "73849",
+      "md5": "c9164366313e3cc62bacd51eb890107f",
+      "crc32": "5ae649de",
+      "sha1": "18e69c174085dab1ae1fb5c8e2f7a4d095f9c1b9",
+      "format": "JSON"
+    },
+    {
+      "name": "gwinnettdaily-2022-08-05T08:30:11.938035-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659702617",
+      "size": "145607",
+      "md5": "45945c1d2462e989ec8cc98b57d69314",
+      "crc32": "b5d7bdf3",
+      "sha1": "103d4e6d6e9382a4f3b2b753be1cf5e63b99cfb5",
+      "format": "JSON"
+    },
+    {
+      "name": "gwinnettdaily-2022-08-05T08:30:11.938035-04:00.jpg",
+      "source": "original",
+      "mtime": "1659702614",
+      "size": "288285",
+      "md5": "add864b7af3e8340f33d66644d3589fe",
+      "crc32": "14f01063",
+      "sha1": "24518e4ed8d93b5e2c9d7a67bcb2935280fc3957",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gwinnettdaily-2022-08-05T08:30:11.938035-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659702619",
+      "size": "1553",
+      "md5": "9be67ffb082dcd69cc0598950a1386f8",
+      "crc32": "cc9e688d",
+      "sha1": "bdbc9eb5975b384f17af8f28e93334f222818981",
+      "format": "JSON"
+    },
+    {
+      "name": "gwinnettdaily-2022-08-05T08:30:11.938035-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659702621",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "gwinnettdaily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "de8b1fe805681439e5d5fdc9f67b97dd10acba36",
-      "mtime": "1659658586",
-      "size": "34032",
-      "md5": "e80d5712943fdb726e466ecb3e1fe8ed",
-      "crc32": "12182b40",
-      "sha1": "5d30062726441a8d3c6c501a3922266fc0dcd108",
+      "btih": "905440f2477a92eb15a84c602f1d79728c439fa4",
+      "mtime": "1659702660",
+      "size": "35119",
+      "md5": "dbd34e968699e9aaf2e6a9f6bcc8d484",
+      "crc32": "f45a3025",
+      "sha1": "044db74b8c33c66663dcb2d26f31f4f72c30bdc6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gwinnettdaily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d363db7541d65de66d0e3bceab51c12c",
+      "md5": "fdfb1db88f4c7f58bbbf91905010a813",
       "summation": "md5"
     },
     {
       "name": "gwinnettdaily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659656325",
-      "size": "200704",
-      "md5": "059b4ceb9adc8fedd4ba6932a57d9ed7",
-      "crc32": "2121e761",
-      "sha1": "ffbcab6041f0f7121adad3880d16d2685805069c",
+      "mtime": "1659702625",
+      "size": "212992",
+      "md5": "07aa8777368a092f15a96f992c181c75",
+      "crc32": "9926220d",
+      "sha1": "23a8689facf131356a7876e79f0764db0d3eacd0",
       "format": "Metadata"
     },
     {
@@ -1608,9 +1659,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 154,
-  "item_last_updated": 1659658586,
-  "item_size": 16409228,
+  "files_count": 159,
+  "item_last_updated": 1659702660,
+  "item_size": 16932099,
   "metadata": {
     "identifier": "gwinnettdaily-2022",
     "collection": [
@@ -1627,10 +1678,21 @@
     "publicdate": "2022-07-20 23:31:08",
     "addeddate": "2022-07-20 23:31:08"
   },
-  "server": "ia801407.us.archive.org",
-  "uniq": 281898713,
+  "pending_tasks": true,
+  "server": "ia601407.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3353454506,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 621058100,
   "workable_servers": [
-    "ia801407.us.archive.org",
     "ia601407.us.archive.org"
   ]
 }

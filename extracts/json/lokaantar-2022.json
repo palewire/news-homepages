@@ -1,5 +1,5 @@
 {
-  "created": 1659682928,
+  "created": 1659703193,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/3/items/lokaantar-2022",
@@ -1242,31 +1242,82 @@
       "sha1": "8cd2d51fb59e947794fe536b4703ec379f974242"
     },
     {
+      "name": "lokaantar-2022-08-05T18:23:49.164481+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1659703132",
+      "size": "1172",
+      "md5": "7adab51be241b569f972d4ca4edf1b2a",
+      "crc32": "e51221ea",
+      "sha1": "f32201dbb061084d832f6cb6fb1ae91b3c29f684",
+      "format": "JSON"
+    },
+    {
+      "name": "lokaantar-2022-08-05T18:23:49.164481+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659703133",
+      "size": "153768",
+      "md5": "7f2d0adc60a9f6d2a85a313b3a6e16bd",
+      "crc32": "ca8e1b3c",
+      "sha1": "7fab96a1e4f1883bba77805ae9d4031cacc1700d",
+      "format": "JSON"
+    },
+    {
+      "name": "lokaantar-2022-08-05T18:23:49.164481+05:45.jpg",
+      "source": "original",
+      "mtime": "1659703130",
+      "size": "230085",
+      "md5": "d3d0025af5270f16669788d76cc79e9a",
+      "crc32": "3024842d",
+      "sha1": "e1bee4b47c7ccf13b41649d50116757d65642474",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lokaantar-2022-08-05T18:23:49.164481+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1659703135",
+      "size": "1450",
+      "md5": "522979df8ee07f2717b4c8397b66df34",
+      "crc32": "15faa0a4",
+      "sha1": "91c103c9e2ff04ecd9ceba86a382d20d37a94f28",
+      "format": "JSON"
+    },
+    {
+      "name": "lokaantar-2022-08-05T18:23:49.164481+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1659703136",
+      "size": "28181",
+      "md5": "8fc17cd75145885feb19f8cb3119951f",
+      "crc32": "b0f530a0",
+      "sha1": "33bfb0a0340b9fe258702b947021bc7859c06337",
+      "format": "JSON"
+    },
+    {
       "name": "lokaantar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a6f0da85ede766a9f840341b0b8250a310ca792f",
-      "mtime": "1659665982",
-      "size": "26617",
-      "md5": "a9c62b7d12f0a0741a344f59e269612d",
-      "crc32": "f66740a7",
-      "sha1": "ea4298849455d8c1b17267beb0cc54843cadc4f5",
+      "btih": "2fcbf651b2b13bd5bdf48c88d4b961ac9ffb5716",
+      "mtime": "1659703178",
+      "size": "27665",
+      "md5": "121b065b5382182ebdc62e53faead325",
+      "crc32": "54706ebc",
+      "sha1": "10d2baa1b1a8a3e97936cf2b469d537c0b478e68",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lokaantar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fc256b2632958a7ec4d1494a2599e3ed",
+      "md5": "f44739fc26b5500f5d22b97fe33957f9",
       "summation": "md5"
     },
     {
       "name": "lokaantar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659663805",
-      "size": "167936",
-      "md5": "b3dc132b4708e8134dfaf5fb124da868",
-      "crc32": "4472740c",
-      "sha1": "c7a882be2a1be6dda97e184c49f91b437295b82e",
+      "mtime": "1659703143",
+      "size": "176128",
+      "md5": "48fa9ec58fa6b134f0191c1d8917ebbd",
+      "crc32": "49c66e18",
+      "sha1": "7c40250204b87670c9f0103d51fe5af08a1eb9ab",
       "format": "Metadata"
     },
     {
@@ -1280,9 +1331,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 123,
-  "item_last_updated": 1659665982,
-  "item_size": 9021892,
+  "files_count": 128,
+  "item_last_updated": 1659703178,
+  "item_size": 9445788,
   "metadata": {
     "identifier": "lokaantar-2022",
     "collection": [
@@ -1299,10 +1350,21 @@
     "publicdate": "2022-07-24 20:37:41",
     "addeddate": "2022-07-24 20:37:41"
   },
-  "server": "ia801508.us.archive.org",
-  "uniq": 1519411530,
+  "pending_tasks": true,
+  "server": "ia601508.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3353459530,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 93920070,
   "workable_servers": [
-    "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ]
 }

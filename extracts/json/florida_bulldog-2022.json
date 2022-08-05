@@ -1,5 +1,5 @@
 {
-  "created": 1659682699,
+  "created": 1659702585,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/5/items/florida_bulldog-2022",
@@ -2576,31 +2576,82 @@
       "sha1": "14842f413019ba1ee0a28c0251eee6a72b9536c6"
     },
     {
+      "name": "florida_bulldog-2022-08-05T08:28:53.856808-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659702538",
+      "size": "33939",
+      "md5": "e5bc44412940ec6dd7188862512c2913",
+      "crc32": "9acde82f",
+      "sha1": "d6b7b55e5a8026b3f5a164eeaa090dc8f7133ed7",
+      "format": "JSON"
+    },
+    {
+      "name": "florida_bulldog-2022-08-05T08:28:53.856808-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659702540",
+      "size": "18462",
+      "md5": "91d13ff914ba54568488937592741b6f",
+      "crc32": "494bd6db",
+      "sha1": "7954e7d8a59fd89741cb565ed23a9016d3d678f1",
+      "format": "JSON"
+    },
+    {
+      "name": "florida_bulldog-2022-08-05T08:28:53.856808-04:00.jpg",
+      "source": "original",
+      "mtime": "1659702536",
+      "size": "307107",
+      "md5": "5ac72d03a973aa203d08c95e58863559",
+      "crc32": "ee433105",
+      "sha1": "a4cfd6eb1842c954e46f22cf59c8d55dc1a6153f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "florida_bulldog-2022-08-05T08:28:53.856808-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659702541",
+      "size": "1527",
+      "md5": "bd4c32c963a4b9c88e61ab841bb4805a",
+      "crc32": "d7cc95e0",
+      "sha1": "45df2a6ad256fff48d3362d1c1ffd773f8cfc92c",
+      "format": "JSON"
+    },
+    {
+      "name": "florida_bulldog-2022-08-05T08:28:53.856808-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659702542",
+      "size": "15828",
+      "md5": "8b8d983f2c470d102b540c4cb3fb5bdd",
+      "crc32": "4141e53b",
+      "sha1": "0e6f93c0d0fcbbeeaf5b34c11c63d6e7f19d5153",
+      "format": "JSON"
+    },
+    {
       "name": "florida_bulldog-2022_archive.torrent",
       "source": "metadata",
-      "btih": "faebbeef2a1c76d7239392eca347235209762ba2",
-      "mtime": "1659659427",
-      "size": "54945",
-      "md5": "355d77da544f6577aedacb2fd3e65aa6",
-      "crc32": "68e35e46",
-      "sha1": "39193d4e5b8acdb1de928ae1d30b8bbb76315738",
+      "btih": "53101113d876aafebeae879ee1486f72ce455457",
+      "mtime": "1659702583",
+      "size": "56043",
+      "md5": "4e15dc544bafb9789bf9c9a223a49163",
+      "crc32": "9579caac",
+      "sha1": "2195ae84b254b31b73fb444a4c1c6141aee9a1af",
       "format": "Archive BitTorrent"
     },
     {
       "name": "florida_bulldog-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e58af4c440116e1ccb5ae9277a646428",
+      "md5": "d2dd4c006ef869e75edf99584fb8a759",
       "summation": "md5"
     },
     {
       "name": "florida_bulldog-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659656230",
-      "size": "315392",
-      "md5": "d59b8f0ea6efe1ca3ffae85fbec0570f",
-      "crc32": "809d4be2",
-      "sha1": "dd2cc702d1f0d1c1cca670008f5beff24c4bf200",
+      "mtime": "1659702546",
+      "size": "323584",
+      "md5": "25d5b86433b914c6574c31ce7f0c8ca7",
+      "crc32": "55e8377b",
+      "sha1": "fed46ecb280c05029571931bd072bbd27238bc0e",
       "format": "Metadata"
     },
     {
@@ -2614,9 +2665,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 250,
-  "item_last_updated": 1659659427,
-  "item_size": 18323109,
+  "files_count": 255,
+  "item_last_updated": 1659702583,
+  "item_size": 18709262,
   "metadata": {
     "identifier": "florida_bulldog-2022",
     "collection": [
@@ -2633,10 +2684,21 @@
     "publicdate": "2022-07-09 03:59:15",
     "addeddate": "2022-07-09 03:59:15"
   },
+  "pending_tasks": true,
   "server": "ia601408.us.archive.org",
-  "uniq": 664920409,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3353453846,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 686734889,
   "workable_servers": [
-    "ia601408.us.archive.org",
-    "ia801408.us.archive.org"
+    "ia601408.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1659682584,
+  "created": 1659702426,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/0/items/cookpolitical-2022",
@@ -2996,31 +2996,82 @@
       "sha1": "9e86668d2a555123adcc619c5d88501776778605"
     },
     {
+      "name": "cookpolitical-2022-08-05T08:26:14.017426-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659702376",
+      "size": "11541",
+      "md5": "ed924d2add751a3376eb70aebea10373",
+      "crc32": "84375ff3",
+      "sha1": "ef278191e58c83d8dacdc6099fe47870c430ac20",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-08-05T08:26:14.017426-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659702378",
+      "size": "8963",
+      "md5": "9c5370075e398c937824e5397852e93d",
+      "crc32": "c39959e1",
+      "sha1": "3115ae5abd836e391d525dfd69cd16897d17a97e",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-08-05T08:26:14.017426-04:00.jpg",
+      "source": "original",
+      "mtime": "1659702375",
+      "size": "252340",
+      "md5": "a4e77768209a7bede8b9c4ece6d07abb",
+      "crc32": "5733fc81",
+      "sha1": "eaecda4025b0bed10ffa36b8fcf11c7b04d484cc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cookpolitical-2022-08-05T08:26:14.017426-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659702379",
+      "size": "1522",
+      "md5": "329f4780956c54e89a189a7b0c36c7a7",
+      "crc32": "5e2c3193",
+      "sha1": "a59b6178eabd1b8bca9aa5d0330050a0e9428ee4",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-08-05T08:26:14.017426-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659702381",
+      "size": "8485",
+      "md5": "5c69818c03e4c8cd4e3301d2eca5a5bd",
+      "crc32": "c3bcccb1",
+      "sha1": "dde1bca3a1917f6f45220eac48036709d8541b2c",
+      "format": "JSON"
+    },
+    {
       "name": "cookpolitical-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0ec908f0d167ef499bab1e41ee3f6a227ee17029",
-      "mtime": "1659658047",
-      "size": "62990",
-      "md5": "7866e0d0be752e60c27e942ad144d63a",
-      "crc32": "3b4bce37",
-      "sha1": "5ee1f3fa096373a0e0ade4bdf18705edaf052cfb",
+      "btih": "710650509a01a48fb07baf0b6da446a27876aa42",
+      "mtime": "1659702422",
+      "size": "64056",
+      "md5": "c473433a8ea583378a03c3f28f4b02ee",
+      "crc32": "02c20c78",
+      "sha1": "f69c4f7ee4745c1391ccef196107156807b9624a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cookpolitical-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9198284f0bd080f9c927d60a3b7052ac",
+      "md5": "460da427fa887741e2dd5a1b0bbf3c2c",
       "summation": "md5"
     },
     {
       "name": "cookpolitical-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659656002",
-      "size": "360448",
-      "md5": "a6288202683cefd85e67943d46e0252d",
-      "crc32": "cbd13907",
-      "sha1": "8cfba26e02fc7960a3931ae07aff82ea624d0aaa",
+      "mtime": "1659702385",
+      "size": "364544",
+      "md5": "d5fcdd712dcaef9d2cb2d4958d800693",
+      "crc32": "b7ae71dc",
+      "sha1": "22eb435952a84a4205567657455190113d71f97b",
       "format": "Metadata"
     },
     {
@@ -3034,9 +3085,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 290,
-  "item_last_updated": 1659658047,
-  "item_size": 20176977,
+  "files_count": 295,
+  "item_last_updated": 1659702422,
+  "item_size": 20464990,
   "metadata": {
     "identifier": "cookpolitical-2022",
     "collection": [
@@ -3053,10 +3104,21 @@
     "publicdate": "2022-07-04 20:47:01",
     "addeddate": "2022-07-04 20:47:01"
   },
-  "server": "ia801506.us.archive.org",
-  "uniq": 1525639750,
+  "pending_tasks": true,
+  "server": "ia601506.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3353452713,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1988649928,
   "workable_servers": [
-    "ia801506.us.archive.org",
     "ia601506.us.archive.org"
   ]
 }

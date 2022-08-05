@@ -1,5 +1,5 @@
 {
-  "created": 1659657580,
+  "created": 1659702130,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/25/items/baltimoremag-2022",
@@ -2282,31 +2282,82 @@
       "sha1": "8d17afb02d882b826f59fd9080d135420d0292f9"
     },
     {
+      "name": "baltimoremag-2022-08-05T08:21:13.648042-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659702078",
+      "size": "44939",
+      "md5": "d10ef5581de32d77bb5f218ec64ba982",
+      "crc32": "4bfd553f",
+      "sha1": "6eb66416dcc7fc3cebaf5051433dafb6341ecc83",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimoremag-2022-08-05T08:21:13.648042-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659702080",
+      "size": "51546",
+      "md5": "596ccdcd80b27669fa1d8c6f8de78805",
+      "crc32": "c5e1680b",
+      "sha1": "87c0a3c00ad334eb8573e961ff511bbe3bca80c2",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimoremag-2022-08-05T08:21:13.648042-04:00.jpg",
+      "source": "original",
+      "mtime": "1659702076",
+      "size": "283379",
+      "md5": "7e0e7a63b2f5ed57e61d7f9dafedcf41",
+      "crc32": "833b3eda",
+      "sha1": "c55e360d083d51d1068dce81f5563bacceca53fb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "baltimoremag-2022-08-05T08:21:13.648042-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659702082",
+      "size": "1554",
+      "md5": "9e65a1391ea1b72a778c6f393787f53e",
+      "crc32": "df1d1c1d",
+      "sha1": "1d0419760ab0079afc03a88298fe791a882afe7b",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimoremag-2022-08-05T08:21:13.648042-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659702084",
+      "size": "34883",
+      "md5": "6fa8bbe0d7ebfb79f1556579813adbe5",
+      "crc32": "6babe81e",
+      "sha1": "42776a1bfc394b31d574efd4b036440f53550a81",
+      "format": "JSON"
+    },
+    {
       "name": "baltimoremag-2022_archive.torrent",
       "source": "metadata",
-      "btih": "222652b3a01ba10be0fdbcc33881ca195e90bb05",
-      "mtime": "1659657534",
-      "size": "48276",
-      "md5": "6675d9452678431df91d7f44355c72bb",
-      "crc32": "5edf7f6b",
-      "sha1": "8e395905cd72b43ed390e66080eafe1acfea2c3b",
+      "btih": "b63f0477bda6329fe989b79d6dba584713288a03",
+      "mtime": "1659702127",
+      "size": "49359",
+      "md5": "f882ff1240d4c19591a596246ca6f1e4",
+      "crc32": "e3adac73",
+      "sha1": "160e61b5227ebc6210294191ca2aa47d0adddaf3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "baltimoremag-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "15535516f2e28f51e4408e2fb74592da",
+      "md5": "95f7dafca29b2f34e8303a9b9d29ebc4",
       "summation": "md5"
     },
     {
       "name": "baltimoremag-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659655811",
-      "size": "282624",
-      "md5": "e74e8535765f8174eadc228e5bdbc7d6",
-      "crc32": "b4a0fbd8",
-      "sha1": "6a0a148b387103b3e5417f87d5cb973b96771896",
+      "mtime": "1659702089",
+      "size": "286720",
+      "md5": "b8df66f1e10aa8b7df3b682fc07bc21d",
+      "crc32": "41dc5e0b",
+      "sha1": "906984640df34ef0067bdfb9d060b676057f8b9b",
       "format": "Metadata"
     },
     {
@@ -2320,9 +2371,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 222,
-  "item_last_updated": 1659657534,
-  "item_size": 18659623,
+  "files_count": 227,
+  "item_last_updated": 1659702127,
+  "item_size": 19081103,
   "metadata": {
     "identifier": "baltimoremag-2022",
     "collection": [
@@ -2339,10 +2390,21 @@
     "publicdate": "2022-07-13 02:24:46",
     "addeddate": "2022-07-13 02:24:46"
   },
+  "pending_tasks": true,
   "server": "ia902503.us.archive.org",
-  "uniq": 2066845156,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3353450036,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1496888647,
   "workable_servers": [
-    "ia902503.us.archive.org",
-    "ia802503.us.archive.org"
+    "ia902503.us.archive.org"
   ]
 }

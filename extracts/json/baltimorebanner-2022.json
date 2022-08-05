@@ -1,5 +1,5 @@
 {
-  "created": 1659657762,
+  "created": 1659702135,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/3/items/baltimorebanner-2022",
@@ -5810,31 +5810,82 @@
       "sha1": "a0f60096405afc427b229c4a66ba070bf8bbc0b6"
     },
     {
+      "name": "baltimorebanner-2022-08-05T08:21:14.282980-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659702078",
+      "size": "31966",
+      "md5": "4f8a32a28439edeeb4c1768188765f9d",
+      "crc32": "d24ee6f0",
+      "sha1": "958524d8e64c990836830823c9e3a86c7d6fc049",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimorebanner-2022-08-05T08:21:14.282980-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659702079",
+      "size": "26704",
+      "md5": "488869c22af5aa56bc031fcd7c3b109c",
+      "crc32": "3e8b25c6",
+      "sha1": "28c39f43b4594ef3aaa07c0fa3d1bb3ec0af8b65",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimorebanner-2022-08-05T08:21:14.282980-04:00.jpg",
+      "source": "original",
+      "mtime": "1659702076",
+      "size": "263924",
+      "md5": "00a0a77069abbcc2226b38269b5bed7d",
+      "crc32": "3fe8d265",
+      "sha1": "d88c83655486d0fb626e39a91f1d8bc24bd9f422",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "baltimorebanner-2022-08-05T08:21:14.282980-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659702081",
+      "size": "1566",
+      "md5": "dc56c1e06aefc81f657691e078325727",
+      "crc32": "98eeda83",
+      "sha1": "c1ee8b2c5062d9051924609efa48bd28b035edad",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimorebanner-2022-08-05T08:21:14.282980-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659702084",
+      "size": "39333",
+      "md5": "90632041789fff077a656e285e868e3b",
+      "crc32": "edbce9be",
+      "sha1": "9676ad091cce8fabb788ebec442503a2c162b553",
+      "format": "JSON"
+    },
+    {
       "name": "baltimorebanner-2022_archive.torrent",
       "source": "metadata",
-      "btih": "883b3411748e987ece5b8fd585102163155aee63",
-      "mtime": "1659657710",
-      "size": "121818",
-      "md5": "5a8e8a7006b2d01f7e7096ea4d5185c6",
-      "crc32": "96d03de2",
-      "sha1": "28d98e7409450511e7c132ef40185245099b66c1",
+      "btih": "8fbf6f69e88466be3aba4a1314ae247fc64734c1",
+      "mtime": "1659702131",
+      "size": "122916",
+      "md5": "a85b58ee308080fce22199a8b272ce7e",
+      "crc32": "b1bb9d6c",
+      "sha1": "61e19aa2cf83185e8964e5153cf1d51a1116cfbe",
       "format": "Archive BitTorrent"
     },
     {
       "name": "baltimorebanner-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "399ffd2abf32787277285f64d318a410",
+      "md5": "6a3e848eec9231cb359bcdb45682060c",
       "summation": "md5"
     },
     {
       "name": "baltimorebanner-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659655757",
-      "size": "667648",
-      "md5": "0c218c766cde620317ad5483dadac39a",
-      "crc32": "bf76be7d",
-      "sha1": "7a4e6ee82e887d76a15736b34e29eb5a0d1f5d13",
+      "mtime": "1659702088",
+      "size": "671744",
+      "md5": "8de495793f0d3d84dd868488f30329ec",
+      "crc32": "b6cab8f3",
+      "sha1": "ba0d179bdb1ec0a538aa761137d27d83b4054c17",
       "format": "Metadata"
     },
     {
@@ -5848,9 +5899,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 558,
-  "item_last_updated": 1659657710,
-  "item_size": 42064017,
+  "files_count": 563,
+  "item_last_updated": 1659702131,
+  "item_size": 42432704,
   "metadata": {
     "identifier": "baltimorebanner-2022",
     "collection": [
@@ -5867,10 +5918,21 @@
     "publicdate": "2022-06-18 17:07:17",
     "addeddate": "2022-06-18 17:07:17"
   },
-  "server": "ia802504.us.archive.org",
-  "uniq": 581651580,
+  "pending_tasks": true,
+  "server": "ia902504.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3353450067,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1121619044,
   "workable_servers": [
-    "ia802504.us.archive.org",
     "ia902504.us.archive.org"
   ]
 }

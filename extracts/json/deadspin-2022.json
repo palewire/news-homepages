@@ -1,5 +1,5 @@
 {
-  "created": 1659658106,
+  "created": 1659702516,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/33/items/deadspin-2022",
@@ -2796,31 +2796,82 @@
       "sha1": "92e438b5b05afe46c18890c419ce91704107b216"
     },
     {
+      "name": "deadspin-2022-08-05T08:27:39.624516-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659702463",
+      "size": "44067",
+      "md5": "92cae840008c5d41e53a505d2ffdca8b",
+      "crc32": "9718d31c",
+      "sha1": "c36dea3edde559cc293a21a18dd8266b83edc32f",
+      "format": "JSON"
+    },
+    {
+      "name": "deadspin-2022-08-05T08:27:39.624516-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659702465",
+      "size": "19115",
+      "md5": "8ef489a7d0ee7076b3de23f8fa7575a8",
+      "crc32": "70706896",
+      "sha1": "053a400792e5fba8470f7fa7dd29d9f64a744ba3",
+      "format": "JSON"
+    },
+    {
+      "name": "deadspin-2022-08-05T08:27:39.624516-04:00.jpg",
+      "source": "original",
+      "mtime": "1659702461",
+      "size": "294168",
+      "md5": "a95651dfaa2866c4dc9c21942a9b05bf",
+      "crc32": "ddbfde16",
+      "sha1": "acdd779950a2a610c5b12ca2c1762c36919aac34",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "deadspin-2022-08-05T08:27:39.624516-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659702467",
+      "size": "1441",
+      "md5": "449172c3c18a981a0e85d5c5592e7e53",
+      "crc32": "4ffcb0a4",
+      "sha1": "f3b598f0b9e0f67172f5e021ad72cc67dc253ff5",
+      "format": "JSON"
+    },
+    {
+      "name": "deadspin-2022-08-05T08:27:39.624516-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659702468",
+      "size": "58713",
+      "md5": "d4f6431cdb88b33c5e503bbfe24be4c5",
+      "crc32": "d461fca6",
+      "sha1": "e72c6486fa39bfd20dc82a05e991a1a2547cb808",
+      "format": "JSON"
+    },
+    {
       "name": "deadspin-2022_archive.torrent",
       "source": "metadata",
-      "btih": "37b02616217d9fea250163b007d34d3f411ee4e3",
-      "mtime": "1659658095",
-      "size": "57505",
-      "md5": "1accc4467edb85a90bc9aa3627e4332a",
-      "crc32": "8bff4ef6",
-      "sha1": "0f4dd31c2bb9b4001d50f54aa7ab0bb8eff9cbf6",
+      "btih": "0315b85dfe85809abdb0ffbb7e237f4c1e876e3b",
+      "mtime": "1659702510",
+      "size": "58568",
+      "md5": "5e9342d20154b0a2ce7addb34803dca2",
+      "crc32": "b58a1bf4",
+      "sha1": "bc2e1f616acaa9b323a7983216a97e111512dd34",
       "format": "Archive BitTorrent"
     },
     {
       "name": "deadspin-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6c75b3e85a21ed73c0d0419c58154bbd",
+      "md5": "3a6eb6bc539683dc390815efe3194fc6",
       "summation": "md5"
     },
     {
       "name": "deadspin-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659656084",
-      "size": "327680",
-      "md5": "5b1d830e511b560b9e34f3da73bde1ac",
-      "crc32": "e1ab4a83",
-      "sha1": "4f82ba1b92cfa241242328c7d2dc5ed8a201374e",
+      "mtime": "1659702473",
+      "size": "335872",
+      "md5": "1df1d0cfb694669f64774c197ce5889a",
+      "crc32": "cd51c350",
+      "sha1": "acd7d8d6238148fcba70846ac67a316f182478c8",
       "format": "Metadata"
     },
     {
@@ -2834,9 +2885,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 270,
-  "item_last_updated": 1659658095,
-  "item_size": 23856340,
+  "files_count": 275,
+  "item_last_updated": 1659702510,
+  "item_size": 24283099,
   "metadata": {
     "identifier": "deadspin-2022",
     "collection": [
@@ -2853,10 +2904,21 @@
     "publicdate": "2022-07-04 20:47:14",
     "addeddate": "2022-07-04 20:47:14"
   },
+  "pending_tasks": true,
   "server": "ia902507.us.archive.org",
-  "uniq": 1809977220,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3353453352,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 854541914,
   "workable_servers": [
-    "ia902507.us.archive.org",
-    "ia802507.us.archive.org"
+    "ia902507.us.archive.org"
   ]
 }

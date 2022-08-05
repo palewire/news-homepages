@@ -1,5 +1,5 @@
 {
-  "created": 1659682827,
+  "created": 1659702864,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/31/items/iowapublicradio-2022",
@@ -9300,31 +9300,82 @@
       "sha1": "1a4b93f10e43d0f3ad73d239683152c19dce32f9"
     },
     {
+      "name": "iowapublicradio-2022-08-05T07:33:13.795460-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659702797",
+      "size": "17516",
+      "md5": "fcda3f0001dd071f7bdfa3f01b29a6db",
+      "crc32": "f4dacdf0",
+      "sha1": "afb5aec13ed81134d947be128382db07ad70de37",
+      "format": "JSON"
+    },
+    {
+      "name": "iowapublicradio-2022-08-05T07:33:13.795460-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659702798",
+      "size": "42970",
+      "md5": "ff3a7e65690ea9d76a7f42166ba67275",
+      "crc32": "b31c91ce",
+      "sha1": "a16937139c215041a64c1eaebd15de4c7118ba60",
+      "format": "JSON"
+    },
+    {
+      "name": "iowapublicradio-2022-08-05T07:33:13.795460-05:00.jpg",
+      "source": "original",
+      "mtime": "1659702795",
+      "size": "314046",
+      "md5": "78075da4e90d8db9873b4e00ecddad58",
+      "crc32": "839eec6e",
+      "sha1": "f2f9634f5176a8894dc753e03f41ca4c62cf3393",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "iowapublicradio-2022-08-05T07:33:13.795460-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659702801",
+      "size": "1528",
+      "md5": "b303a96c23bcc7e1b58ad1d86102f906",
+      "crc32": "c8d6c994",
+      "sha1": "b05915334c1d342c51a6a8e25e55f757eec5d953",
+      "format": "JSON"
+    },
+    {
+      "name": "iowapublicradio-2022-08-05T07:33:13.795460-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1659702803",
+      "size": "22267",
+      "md5": "f33c06bae497e3ec69a17ff9cc455183",
+      "crc32": "e2f04a41",
+      "sha1": "8213cf9c4856c2fae8c1d11a9a03e1483eb8c320",
+      "format": "JSON"
+    },
+    {
       "name": "iowapublicradio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "56d9f892379612137c5c1f9d32f2c3b95a7700c9",
-      "mtime": "1659665920",
-      "size": "194687",
-      "md5": "3f175074e909c4b7b0cebd37ac1517aa",
-      "crc32": "7dadc688",
-      "sha1": "393510842d08a1cdc73c49b9a55d7dc12d659f3f",
+      "btih": "e96921e09afa9953b772cd2fe8d594ea3e3e9ce8",
+      "mtime": "1659702855",
+      "size": "195785",
+      "md5": "8e9f1e7a3cb5e7ec38e837799b2ad50f",
+      "crc32": "6283a9fa",
+      "sha1": "a321cdecafb2e66eed7659e69c2ccf0ab0e8b433",
       "format": "Archive BitTorrent"
     },
     {
       "name": "iowapublicradio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f61f799c73e3d865702257d00821b4f2",
+      "md5": "6fee66986fcfe33affec00782dd5335f",
       "summation": "md5"
     },
     {
       "name": "iowapublicradio-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659663573",
-      "size": "1044480",
-      "md5": "ddf1316c27107d855528e403ff94016d",
-      "crc32": "9ca9f547",
-      "sha1": "6be0f5ca5b422e0aeee840b7e8b9c8884eff0016",
+      "mtime": "1659702806",
+      "size": "1052672",
+      "md5": "72fcee7b30a96ac88bb6952c48252901",
+      "crc32": "7e823229",
+      "sha1": "d999ce5d5e344c19cc0449dd0c18a3978273829c",
       "format": "Metadata"
     },
     {
@@ -9338,9 +9389,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 890,
-  "item_last_updated": 1659665920,
-  "item_size": 86093384,
+  "files_count": 895,
+  "item_last_updated": 1659702855,
+  "item_size": 86501001,
   "metadata": {
     "identifier": "iowapublicradio-2022",
     "collection": [
@@ -9357,10 +9408,21 @@
     "publicdate": "2022-03-25 03:35:10",
     "addeddate": "2022-03-25 03:35:10"
   },
-  "server": "ia802504.us.archive.org",
-  "uniq": 1894905706,
+  "pending_tasks": true,
+  "server": "ia902504.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3353456767,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 242711751,
   "workable_servers": [
-    "ia802504.us.archive.org",
     "ia902504.us.archive.org"
   ]
 }

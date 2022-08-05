@@ -1,5 +1,5 @@
 {
-  "created": 1659682752,
+  "created": 1659702703,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/9/items/freebeacon-2022",
@@ -2686,31 +2686,82 @@
       "sha1": "f516f18ac49316ef6fd71e313e3ff9133c5b1695"
     },
     {
+      "name": "freebeacon-2022-08-05T08:30:33.545150-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659702637",
+      "size": "15587",
+      "md5": "5d670ce81bae051f05af1cd21d75349e",
+      "crc32": "bd473ba7",
+      "sha1": "0efd413a2344241ade6676b466a7165761cfab70",
+      "format": "JSON"
+    },
+    {
+      "name": "freebeacon-2022-08-05T08:30:33.545150-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659702638",
+      "size": "19333",
+      "md5": "788a8af5052708b23fcab06e3d159620",
+      "crc32": "64e8dd7e",
+      "sha1": "1444dbeb3bad876d576b5836d66de24f75c74dc7",
+      "format": "JSON"
+    },
+    {
+      "name": "freebeacon-2022-08-05T08:30:33.545150-04:00.jpg",
+      "source": "original",
+      "mtime": "1659702635",
+      "size": "315975",
+      "md5": "c5bce708d7009c1378a25d9312701590",
+      "crc32": "65ecebd0",
+      "sha1": "6845c70f573fdb20ef2f749b0c85da34d6760273",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "freebeacon-2022-08-05T08:30:33.545150-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659702640",
+      "size": "1459",
+      "md5": "6702d1df5ac54b2566b98793a384493d",
+      "crc32": "00c93ce1",
+      "sha1": "a026155ff27f22cd59b2a8c99d1deacba6ebb1ae",
+      "format": "JSON"
+    },
+    {
+      "name": "freebeacon-2022-08-05T08:30:33.545150-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659702641",
+      "size": "36925",
+      "md5": "5ec5e575535fcdbc2c2e53a42e221442",
+      "crc32": "8a863045",
+      "sha1": "bc47c145c4a54263be4a8ae021e94caedc7a1026",
+      "format": "JSON"
+    },
+    {
       "name": "freebeacon-2022_archive.torrent",
       "source": "metadata",
-      "btih": "330e936f394d0f18689ec9990d169433a9ca8cff",
-      "mtime": "1659658467",
-      "size": "56036",
-      "md5": "976aac2c5df71105c966ff0f1c0641f4",
-      "crc32": "183fbbaa",
-      "sha1": "3b074f8af45fba2a9ffc402cb396324bd2cf4c0c",
+      "btih": "7ae2bc3ca6cc914a3149a6e58b253dd47fb09508",
+      "mtime": "1659702697",
+      "size": "57109",
+      "md5": "3ef71ce65487375f920902e51a9b2d66",
+      "crc32": "8747079f",
+      "sha1": "816d57bf2b4dad2a456af9f16aae42fd6bc4193b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "freebeacon-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3f194411a277705faf93af15ce3dd07e",
+      "md5": "bacbe1815eba910395e3a8f0be5e618e",
       "summation": "md5"
     },
     {
       "name": "freebeacon-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659656265",
-      "size": "327680",
-      "md5": "80507b1d5fdc98ee196b51871c517226",
-      "crc32": "1130e28d",
-      "sha1": "98c8a3c933d360665188fa790c700117a92056e2",
+      "mtime": "1659702659",
+      "size": "335872",
+      "md5": "06ff761924c6396787443cc22a7f0a9f",
+      "crc32": "9e5a3451",
+      "sha1": "f6ea1f44f311c31177e7a46a0d159c2852b4cafb",
       "format": "Metadata"
     },
     {
@@ -2724,9 +2775,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 261,
-  "item_last_updated": 1659658467,
-  "item_size": 18666657,
+  "files_count": 266,
+  "item_last_updated": 1659702697,
+  "item_size": 19065201,
   "metadata": {
     "identifier": "freebeacon-2022",
     "collection": [
@@ -2743,10 +2794,21 @@
     "publicdate": "2022-07-17 15:03:23",
     "addeddate": "2022-07-17 15:03:23"
   },
+  "pending_tasks": true,
   "server": "ia601406.us.archive.org",
-  "uniq": 570827496,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3353455106,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 815753828,
   "workable_servers": [
-    "ia601406.us.archive.org",
-    "ia801406.us.archive.org"
+    "ia601406.us.archive.org"
   ]
 }

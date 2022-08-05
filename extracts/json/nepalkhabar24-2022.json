@@ -1,5 +1,5 @@
 {
-  "created": 1659683008,
+  "created": 1659703258,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/18/items/nepalkhabar24-2022",
@@ -1264,31 +1264,82 @@
       "sha1": "2e6c3426e14b5fdea372efa7ea32e8cc3a7d7ada"
     },
     {
+      "name": "nepalkhabar24-2022-08-05T18:25:04.593070+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1659703208",
+      "size": "89749",
+      "md5": "110238f1350e31ecebfa9983af8d4c17",
+      "crc32": "0c811fa8",
+      "sha1": "045e7135bfa16100e4ef76858dfb98de11887e91",
+      "format": "JSON"
+    },
+    {
+      "name": "nepalkhabar24-2022-08-05T18:25:04.593070+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659703210",
+      "size": "75330",
+      "md5": "6769806a5ddcbf042c639ac382c16528",
+      "crc32": "503ec381",
+      "sha1": "867299ef5f18154bdff432575cdc8957e9c36216",
+      "format": "JSON"
+    },
+    {
+      "name": "nepalkhabar24-2022-08-05T18:25:04.593070+05:45.jpg",
+      "source": "original",
+      "mtime": "1659703207",
+      "size": "219359",
+      "md5": "31efc726af6543777d7d1ad074d96786",
+      "crc32": "076963a8",
+      "sha1": "ad9cf7c81791db8dee4ba0a10ad8ca3a5574403e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nepalkhabar24-2022-08-05T18:25:04.593070+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1659703212",
+      "size": "1468",
+      "md5": "21f5d16c517e2532682c38077a5f4c80",
+      "crc32": "65249248",
+      "sha1": "69ffce840c1a6fa8e341793fef6bc6bc9a9ecffb",
+      "format": "JSON"
+    },
+    {
+      "name": "nepalkhabar24-2022-08-05T18:25:04.593070+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1659703213",
+      "size": "19035",
+      "md5": "8d8c3896288f14214f84da5eb359ff13",
+      "crc32": "0c6355e5",
+      "sha1": "c05c03a641e52c50abfba7d43a234bada49e6108",
+      "format": "JSON"
+    },
+    {
       "name": "nepalkhabar24-2022_archive.torrent",
       "source": "metadata",
-      "btih": "969bf592603d5a6f29160b923e0a36ce8dacb342",
-      "mtime": "1659666613",
-      "size": "27577",
-      "md5": "03ac5f3e37e13ce3b3d1f7dfe3f24d15",
-      "crc32": "214c5a13",
-      "sha1": "b8ab0845dc1e0aae2185d37af743780d045e216d",
+      "btih": "c5eac8b0baca032c051001dc1d92f7c5e02758d4",
+      "mtime": "1659703253",
+      "size": "28665",
+      "md5": "64dcd59f0a7f15ae3565b2740b9beb4d",
+      "crc32": "2cc64942",
+      "sha1": "229cf7ddbcc1a0988a67cca968edc2a777169215",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nepalkhabar24-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6f76fe4452d6b7b5f39ef862748a9747",
+      "md5": "8de581f7c7c4b24667027533e9d229b8",
       "summation": "md5"
     },
     {
       "name": "nepalkhabar24-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659663902",
-      "size": "167936",
-      "md5": "fbd544276512fb6c68aab1dc691f4090",
-      "crc32": "6d7a0eff",
-      "sha1": "0a2915e02d8edd0d3937831ad6e311898242eaf9",
+      "mtime": "1659703218",
+      "size": "180224",
+      "md5": "4c723775e1018f4db16779fad404354c",
+      "crc32": "3ab40c44",
+      "sha1": "9205b3def2116e180f179a51af7e5e38c8e21f24",
       "format": "Metadata"
     },
     {
@@ -1302,9 +1353,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 125,
-  "item_last_updated": 1659666613,
-  "item_size": 9703881,
+  "files_count": 130,
+  "item_last_updated": 1659703253,
+  "item_size": 10122198,
   "metadata": {
     "identifier": "nepalkhabar24-2022",
     "collection": [
@@ -1321,10 +1372,21 @@
     "publicdate": "2022-07-24 20:38:33",
     "addeddate": "2022-07-24 20:38:33"
   },
+  "pending_tasks": true,
   "server": "ia902505.us.archive.org",
-  "uniq": 1845247064,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3353460059,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1125472542,
   "workable_servers": [
-    "ia902505.us.archive.org",
-    "ia802505.us.archive.org"
+    "ia902505.us.archive.org"
   ]
 }

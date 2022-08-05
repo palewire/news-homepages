@@ -1,5 +1,5 @@
 {
-  "created": 1659677305,
+  "created": 1659703390,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/20/items/nzherald-2022",
@@ -125,10 +125,51 @@
     "publicdate": "2022-08-05 04:36:58",
     "addeddate": "2022-08-05 04:36:58"
   },
-  "server": "ia802506.us.archive.org",
-  "uniq": 2033676385,
+  "nzherald-2022": [
+    {
+      "url": "https://www.nzherald.co.nz/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nzherald_co_nz-_-2022_08_05_03_27_20.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nzherald_co_nz-_-2022_08_05_03_27_20.report.json",
+      "summary": {
+        "performance": 0.1,
+        "accessibility": 0.8,
+        "best-practices": 0.92,
+        "seo": 0.9,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.nzherald.co.nz/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nzherald_co_nz-_-2022_08_05_03_28_07.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nzherald_co_nz-_-2022_08_05_03_28_07.report.json",
+      "summary": {
+        "performance": 0.11,
+        "accessibility": 0.8,
+        "best-practices": 0.92,
+        "seo": 0.9,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.nzherald.co.nz/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nzherald_co_nz-_-2022_08_05_03_28_48.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nzherald_co_nz-_-2022_08_05_03_28_48.report.json",
+      "summary": {
+        "performance": 0.12,
+        "accessibility": 0.8,
+        "best-practices": 0.92,
+        "seo": 0.9,
+        "pwa": 0.4
+      }
+    }
+  ],
+  "server": "ia902506.us.archive.org",
+  "uniq": 1050947931,
   "workable_servers": [
-    "ia802506.us.archive.org",
-    "ia902506.us.archive.org"
+    "ia902506.us.archive.org",
+    "ia802506.us.archive.org"
   ]
 }

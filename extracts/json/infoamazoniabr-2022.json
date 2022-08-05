@@ -1,5 +1,5 @@
 {
-  "created": 1659665873,
+  "created": 1659702845,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/11/items/infoamazoniabr-2022",
@@ -380,31 +380,82 @@
       "sha1": "4b441ff6253645461e4f04fcb2b5e68dfc982803"
     },
     {
+      "name": "infoamazoniabr-2022-08-05T09:33:17.303589-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659702800",
+      "size": "24139",
+      "md5": "c02d23d626647acd77d2d74417183a80",
+      "crc32": "fa0d3d4a",
+      "sha1": "534c3ca25ad51a3bc3287f504764b8b590d9419f",
+      "format": "JSON"
+    },
+    {
+      "name": "infoamazoniabr-2022-08-05T09:33:17.303589-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659702801",
+      "size": "22456",
+      "md5": "91afa5162418aaecc4ce3cb1abe2567f",
+      "crc32": "fefbc5a6",
+      "sha1": "f40847a358db58cd3ea99a67a05a6e8bd573312f",
+      "format": "JSON"
+    },
+    {
+      "name": "infoamazoniabr-2022-08-05T09:33:17.303589-03:00.jpg",
+      "source": "original",
+      "mtime": "1659702798",
+      "size": "240548",
+      "md5": "dc7032bdba1e3323a035b4d441a5f762",
+      "crc32": "ec0ca1e9",
+      "sha1": "a7236ce0e5ccf4daa2b5414f56b44102b013e95b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "infoamazoniabr-2022-08-05T09:33:17.303589-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659702803",
+      "size": "1467",
+      "md5": "3a87ef5c6ccd99ed173f1fd65c8f9319",
+      "crc32": "7b9a9da9",
+      "sha1": "b61244065a590ed847ce2df50933271a5dce5ac2",
+      "format": "JSON"
+    },
+    {
+      "name": "infoamazoniabr-2022-08-05T09:33:17.303589-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1659702805",
+      "size": "11931",
+      "md5": "d9269550c28a94ce3c87045fe7c81dd8",
+      "crc32": "1d38f69a",
+      "sha1": "ce412fae6ef011b93c95209f8393e09d2532b802",
+      "format": "JSON"
+    },
+    {
       "name": "infoamazoniabr-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d6284f90e553338a03d5ddab740abc452716755c",
-      "mtime": "1659665859",
-      "size": "9245",
-      "md5": "39bb3c5a5982311b6566d9c98a73d412",
-      "crc32": "84314f19",
-      "sha1": "269dd7abd136f0da516ec92cecbc77152717ae9f",
+      "btih": "b07fd9740cdd94b3c7ec4bb0d8f535eda5183a95",
+      "mtime": "1659702842",
+      "size": "10318",
+      "md5": "ec304ee9f4669ee6904ed77b12514477",
+      "crc32": "a2d3299e",
+      "sha1": "a493eaabf5461f8ce98668ede84335278146403f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "infoamazoniabr-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8735b9864fcb288a8e7d2e6d440cb06a",
+      "md5": "0fd7ecd70f678dfef8810e02470819cd",
       "summation": "md5"
     },
     {
       "name": "infoamazoniabr-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659663534",
-      "size": "61440",
-      "md5": "934a657b59ba80dc09a90029fb357a83",
-      "crc32": "ba0c7f9c",
-      "sha1": "6535d5cb58ee1dce940a1466cffb492663553b11",
+      "mtime": "1659702808",
+      "size": "65536",
+      "md5": "c90064d9620b59849dc130fa3891ad70",
+      "crc32": "73c77222",
+      "sha1": "33c3e2160fa246649e86f9877b5318cf699fe621",
       "format": "Metadata"
     },
     {
@@ -418,9 +469,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 40,
-  "item_last_updated": 1659665859,
-  "item_size": 2177049,
+  "files_count": 45,
+  "item_last_updated": 1659702842,
+  "item_size": 2482759,
   "metadata": {
     "identifier": "infoamazoniabr-2022",
     "collection": [
@@ -437,10 +488,21 @@
     "publicdate": "2022-08-03 00:33:10",
     "addeddate": "2022-08-03 00:33:10"
   },
-  "server": "ia801401.us.archive.org",
-  "uniq": 933300225,
+  "pending_tasks": true,
+  "server": "ia601401.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3353456608,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 174742265,
   "workable_servers": [
-    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

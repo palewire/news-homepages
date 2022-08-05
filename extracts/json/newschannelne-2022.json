@@ -1,5 +1,6 @@
 {
-  "created": 1659683012,
+  "conflict": 1659703292,
+  "created": 1659703292,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/16/items/newschannelne-2022",
@@ -697,10 +698,21 @@
     "publicdate": "2022-07-30 19:35:12",
     "addeddate": "2022-07-30 19:35:12"
   },
+  "pending_tasks": true,
   "server": "ia601401.us.archive.org",
-  "uniq": 292484545,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3353460267,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 795538406,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia601401.us.archive.org"
   ]
 }

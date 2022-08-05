@@ -1,5 +1,5 @@
 {
-  "created": 1659667315,
+  "created": 1659703720,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/14/items/thescotsman-2022",
@@ -2705,10 +2705,51 @@
     "publicdate": "2022-07-06 21:13:25",
     "addeddate": "2022-07-06 21:13:25"
   },
-  "server": "ia601406.us.archive.org",
-  "uniq": 320904775,
+  "server": "ia801406.us.archive.org",
+  "thescotsman-2022": [
+    {
+      "url": "https://www.scotsman.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_scotsman_com-_-2022_08_05_01_32_08.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_scotsman_com-_-2022_08_05_01_32_08.report.json",
+      "summary": {
+        "performance": 0.27,
+        "accessibility": 0.85,
+        "best-practices": 0.92,
+        "seo": 0.83,
+        "pwa": 0.8
+      }
+    },
+    {
+      "url": "https://www.scotsman.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_scotsman_com-_-2022_08_05_01_32_43.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_scotsman_com-_-2022_08_05_01_32_43.report.json",
+      "summary": {
+        "performance": 0.28,
+        "accessibility": 0.85,
+        "best-practices": 0.92,
+        "seo": 0.83,
+        "pwa": 0.8
+      }
+    },
+    {
+      "url": "https://www.scotsman.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_scotsman_com-_-2022_08_05_01_31_34.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_scotsman_com-_-2022_08_05_01_31_34.report.json",
+      "summary": {
+        "performance": 0.16,
+        "accessibility": 0.85,
+        "best-practices": 0.92,
+        "seo": 0.83,
+        "pwa": 0.8
+      }
+    }
+  ],
+  "uniq": 882144761,
   "workable_servers": [
-    "ia601406.us.archive.org",
-    "ia801406.us.archive.org"
+    "ia801406.us.archive.org",
+    "ia601406.us.archive.org"
   ]
 }
