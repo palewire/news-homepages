@@ -56,8 +56,18 @@ def get_site_list():
     return sorted_list
 
 
+def get_site_df() -> pd.DataFrame:
+    """Get the full list of supported sites.
+
+    Returns a DataFrame.
+    """
+    df = pd.read_csv(SITES_PATH).sort_values("handle")
+    df["bundle_list"] = df.bundle.str.split("|")
+    return df
+
+
 def get_bundle_list() -> typing.List[typing.Dict]:
-    """Get the fule list of site bundles.
+    """Get the full list of site bundles.
 
     Returns a list of dictionaries.
     """
@@ -160,6 +170,14 @@ def get_screenshot_list() -> typing.List[typing.Dict[str, typing.Any]]:
     return sorted_list
 
 
+def get_screenshot_df() -> pd.DataFrame:
+    """Get the full list of screenshot files from our extracts.
+
+    Returns a DataFrame.
+    """
+    return _get_extract_files_df("screenshot-files.csv")
+
+
 def get_hyperlink_list() -> typing.List[typing.Dict[str, typing.Any]]:
     """Get the full list of hyperlink from our extracts.
 
@@ -241,6 +259,7 @@ def _get_extract_files_df(name) -> pd.DataFrame:
             "sha1",
         ],
     )
+    df["mtime"] = df.mtime.dt.tz_localize(pytz.utc)
     df["date"] = pd.to_datetime(df.mtime.dt.date)
     return df.sort_values("mtime", ascending=True)
 

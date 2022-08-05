@@ -2,7 +2,6 @@ from datetime import datetime
 
 import click
 import jinja2
-import pandas as pd
 import pytz
 from rich import print
 from rich.progress import track
@@ -96,15 +95,11 @@ def sites():
     now = datetime.now(pytz.utc)
 
     # Get a list of all sites
-    site_list = utils.get_site_list()
-    print(f":newspaper: Creating RSS for {len(site_list)} sites")
+    site_df = utils.get_site_df()
+    print(f":newspaper: Creating RSS for {len(site_df)} sites")
 
-    # Get all screenshots
-    screenshot_list = utils.get_screenshot_list()
-
-    # Convert into a big dataframe
-    site_df = pd.DataFrame(site_list)
-    screenshot_df = pd.DataFrame(screenshot_list)
+    # Get the screenshots we're after
+    screenshot_df = utils.get_screenshot_df()
     merged_df = site_df.drop(["url"], axis=1).merge(
         screenshot_df, on="handle", how="inner"
     )
@@ -124,7 +119,7 @@ def sites():
     template = TEMPLATE_ENV.get_template("site.rss.tmpl")
 
     # Loop through all sites
-    for site in track(site_list):
+    for site in track(site_df.to_dict(orient="records")):
         file_list = (
             merged_df[merged_df.handle == site["handle"]]
             .sort_values("mtime", ascending=False)
@@ -147,16 +142,9 @@ def sites():
     # Create full feed
     print("Creating RSS feed of latest 100 screenshots across all sites")
     final_list = []
-    for file_ in screenshot_list[:100]:
-        try:
-            site = next(
-                s for s in site_list if s["handle"].lower() == file_["handle"].lower()
-            )
-        except StopIteration:
-            print(f"Skipping {file_['handle']}")
-            continue
-        file_["site_name"] = site["name"]
-        site_tz = pytz.timezone(site["timezone"])
+    for file_ in merged_df.head(100).to_dict(orient="records"):
+        file_["site_name"] = file_["name"]
+        site_tz = pytz.timezone(file_["timezone"])
         file_["local_time"] = file_["mtime"].astimezone(site_tz)
         final_list.append(file_)
 
