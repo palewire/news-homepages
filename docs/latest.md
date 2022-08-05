@@ -3,7 +3,7 @@
 
 # Latest screenshots
 
-The most recent homepages captured from 752 news sites.
+The most recent homepages captured from 751 news sites.
 
 <div class="latest-parent">
 
@@ -959,15 +959,6 @@ The most recent homepages captured from 752 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/bgdailynews.html">Bowling Green Daily News</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/correio.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/correio.jpg"
-     alt="Brasília"
-     loading="lazy">
- </a>
- <p><a href="./sites/correio.html">Brasília</a></p>
 </div>
 
 <div class="latest-child">

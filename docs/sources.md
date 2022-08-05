@@ -3,7 +3,7 @@
 
 # Site directory
 
-The archiving routine is currently capturing 752 sites.
+The archiving routine is currently capturing 751 sites.
 
 A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/all.xml). An OPML file collecting all individual RSS feeds is at [opml.xml](https://palewi.re/docs/news-homepages/rss/sites/opml.xml).
 
@@ -115,7 +115,6 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[Boston Herald](https://palewi.re/docs/news-homepages/sites/bostonherald.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bostonherald.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bostonherald.xml)|
 |[Boston Institute for Nonprofit Journalism](https://palewi.re/docs/news-homepages/sites/binjreports.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/binjreports.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/binjreports.xml)|
 |[Bowling Green Daily News](https://palewi.re/docs/news-homepages/sites/bgdailynews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bgdailynews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bgdailynews.xml)|
-|[Brasília](https://palewi.re/docs/news-homepages/sites/correio.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/correio.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/correio.xml)|
 |[Breckenridge Texan](https://palewi.re/docs/news-homepages/sites/brecktexan.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/brecktexan.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/brecktexan.xml)|
 |[Breitbart](https://palewi.re/docs/news-homepages/sites/breitbartnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/breitbartnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/breitbartnews.xml)|
 |[Brooklyn Paper](https://palewi.re/docs/news-homepages/sites/brooklynpaper.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/brooklynpaper.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/brooklynpaper.xml)|
