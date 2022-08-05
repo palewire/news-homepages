@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 35 screenshots with the Internet Archive.
+The archiving routine has saved 36 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 35 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/news_letter-2022/news_letter-2022-08-05T13:40:38.089950+01:00.jpg">
+  <img src="https://archive.org/download/news_letter-2022/news_letter-2022-08-05T13:40:38.089950+01:00.jpg"
+     alt="Belfast News Letter at 2022-08-05 13:40:40+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/news_letter-2022/news_letter-2022-08-05T13:40:38.089950+01:00.jpg">August 5 at 1:40 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/news_letter-2022/news_letter-2022-08-05T02:47:22.071825+01:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/news_letter-2022/news_letter-2022-07-31T01:29:58.937926+01:00.jpg">July 31 at 1:30 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/news_letter-2022/news_letter-2022-07-30T13:26:15.019279+01:00.jpg">
-  <img src="https://archive.org/download/news_letter-2022/news_letter-2022-07-30T13:26:15.019279+01:00.jpg"
-     alt="Belfast News Letter at 2022-07-30 13:26:16+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/news_letter-2022/news_letter-2022-07-30T13:26:15.019279+01:00.jpg">July 30 at 1:26 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 29 hyperlink lists with the Internet Archive.
+The archiving routine has saved 30 hyperlink lists with the Internet Archive.
 
 
 
@@ -231,6 +231,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 5 at 1:40 PM](https://archive.org/download/news_letter-2022/news_letter-2022-08-05T13:40:38.089950+01:00.hyperlinks.json) |
 | [August 5 at 2:47 AM](https://archive.org/download/news_letter-2022/news_letter-2022-08-05T02:47:22.071825+01:00.hyperlinks.json) |
 | [August 4 at 1:36 PM](https://archive.org/download/news_letter-2022/news_letter-2022-08-04T13:36:37.775120+01:00.hyperlinks.json) |
 | [August 4 at 1:43 AM](https://archive.org/download/news_letter-2022/news_letter-2022-08-04T01:43:05.845153+01:00.hyperlinks.json) |
@@ -240,12 +241,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 31 at 2:21 PM](https://archive.org/download/news_letter-2022/news_letter-2022-07-31T14:21:46.997612+01:00.hyperlinks.json) |
 | [July 31 at 1:30 AM](https://archive.org/download/news_letter-2022/news_letter-2022-07-31T01:29:58.937926+01:00.hyperlinks.json) |
 | [July 30 at 1:26 PM](https://archive.org/download/news_letter-2022/news_letter-2022-07-30T13:26:15.019279+01:00.hyperlinks.json) |
-| [July 30 at 1:13 AM](https://archive.org/download/news_letter-2022/news_letter-2022-07-30T01:13:35.199986+01:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 33 accessibility trees with the Internet Archive.
+The archiving routine has saved 34 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -336,6 +336,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 5 at 1:40 PM](https://archive.org/download/news_letter-2022/news_letter-2022-08-05T13:40:38.089950+01:00.accessibility.json) |
 | [August 5 at 2:47 AM](https://archive.org/download/news_letter-2022/news_letter-2022-08-05T02:47:22.071825+01:00.accessibility.json) |
 | [August 4 at 1:36 PM](https://archive.org/download/news_letter-2022/news_letter-2022-08-04T13:36:37.775120+01:00.accessibility.json) |
 | [August 4 at 1:43 AM](https://archive.org/download/news_letter-2022/news_letter-2022-08-04T01:43:05.845153+01:00.accessibility.json) |
@@ -345,13 +346,12 @@ Here are the 10 most recent accessibility trees.
 | [August 2 at 1:40 AM](https://archive.org/download/news_letter-2022/news_letter-2022-08-02T01:39:55.566685+01:00.accessibility.json) |
 | [August 1 at 1:26 PM](https://archive.org/download/news_letter-2022/news_letter-2022-08-01T13:26:03.009307+01:00.accessibility.json) |
 | [August 1 at 1:21 AM](https://archive.org/download/news_letter-2022/news_letter-2022-08-01T01:21:19.149724+01:00.accessibility.json) |
-| [July 31 at 2:21 PM](https://archive.org/download/news_letter-2022/news_letter-2022-07-31T14:21:46.997612+01:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 25 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 26 Lighthouse audits with the Internet Archive.
 
 
 
@@ -359,6 +359,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 5 at 1:40 PM](https://archive.org/download/news_letter-2022/news_letter-2022-08-05T13:40:38.089950+01:00.lighthouse.json) |
 | [August 5 at 2:47 AM](https://archive.org/download/news_letter-2022/news_letter-2022-08-05T02:47:22.071825+01:00.lighthouse.json) |
 | [August 4 at 1:36 PM](https://archive.org/download/news_letter-2022/news_letter-2022-08-04T13:36:37.775120+01:00.lighthouse.json) |
 | [August 4 at 1:43 AM](https://archive.org/download/news_letter-2022/news_letter-2022-08-04T01:43:05.845153+01:00.lighthouse.json) |
@@ -368,7 +369,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 2 at 1:40 AM](https://archive.org/download/news_letter-2022/news_letter-2022-08-02T01:39:55.566685+01:00.lighthouse.json) |
 | [August 1 at 1:26 PM](https://archive.org/download/news_letter-2022/news_letter-2022-08-01T13:26:03.009307+01:00.lighthouse.json) |
 | [August 1 at 1:21 AM](https://archive.org/download/news_letter-2022/news_letter-2022-08-01T01:21:19.149724+01:00.lighthouse.json) |
-| [July 31 at 2:21 PM](https://archive.org/download/news_letter-2022/news_letter-2022-07-31T14:21:46.997612+01:00.lighthouse.json) |
 
 
 

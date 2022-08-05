@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 32 screenshots with the Internet Archive.
+The archiving routine has saved 33 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 32 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-05T08:18:05.644962-04:00.jpg">
+  <img src="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-05T08:18:05.644962-04:00.jpg"
+     alt="13WMAZ News at 2022-08-05 08:18:07-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-05T08:18:05.644962-04:00.jpg">August 5 at 8:18 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-04T19:26:54.550215-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-30T19:10:02.363128-04:00.jpg">July 30 at 7:10 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-30T07:07:38.199880-04:00.jpg">
-  <img src="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-30T07:07:38.199880-04:00.jpg"
-     alt="13WMAZ News at 2022-07-30 07:07:42-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-30T07:07:38.199880-04:00.jpg">July 30 at 7:07 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 31 hyperlink lists with the Internet Archive.
+The archiving routine has saved 32 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 5 at 8:18 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-05T08:18:05.644962-04:00.hyperlinks.json) |
 | [August 4 at 7:27 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-04T19:26:54.550215-04:00.hyperlinks.json) |
 | [August 4 at 7:07 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-04T07:07:24.871527-04:00.hyperlinks.json) |
 | [August 3 at 7:14 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-03T19:14:07.396140-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 1 at 7:11 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-01T19:11:00.741158-04:00.hyperlinks.json) |
 | [August 1 at 7:08 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-01T07:08:07.544846-04:00.hyperlinks.json) |
 | [July 31 at 8:05 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-31T20:05:00.205168-04:00.hyperlinks.json) |
-| [July 31 at 7:04 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-31T07:04:54.119501-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 32 accessibility trees with the Internet Archive.
+The archiving routine has saved 33 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 5 at 8:18 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-05T08:18:05.644962-04:00.accessibility.json) |
 | [August 4 at 7:26 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-04T19:26:54.550215-04:00.accessibility.json) |
 | [August 4 at 7:07 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-04T07:07:24.871527-04:00.accessibility.json) |
 | [August 3 at 7:14 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-03T19:14:07.396140-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 1 at 7:11 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-01T19:11:00.741158-04:00.accessibility.json) |
 | [August 1 at 7:08 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-01T07:08:07.544846-04:00.accessibility.json) |
 | [July 31 at 8:05 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-31T20:05:00.205168-04:00.accessibility.json) |
-| [July 31 at 7:04 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-31T07:04:54.119501-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 25 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 26 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 5 at 8:18 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-05T08:18:05.644962-04:00.lighthouse.json) |
 | [August 4 at 7:27 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-04T19:26:54.550215-04:00.lighthouse.json) |
 | [August 4 at 7:07 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-04T07:07:24.871527-04:00.lighthouse.json) |
 | [August 3 at 7:14 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-03T19:14:07.396140-04:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 1 at 7:11 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-01T19:11:00.741158-04:00.lighthouse.json) |
 | [August 1 at 7:08 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-08-01T07:08:07.544846-04:00.lighthouse.json) |
 | [July 31 at 8:05 PM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-31T20:05:00.205168-04:00.lighthouse.json) |
-| [July 31 at 7:05 AM](https://archive.org/download/13wmaznews-2022/13wmaznews-2022-07-31T07:04:54.119501-04:00.lighthouse.json) |
 
 
 

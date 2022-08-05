@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 37 screenshots with the Internet Archive.
+The archiving routine has saved 38 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 37 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-08-05T07:22:50.443595-05:00.jpg">
+  <img src="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-08-05T07:22:50.443595-05:00.jpg"
+     alt="Beaumont Enterprise at 2022-08-05 07:22:53-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-08-05T07:22:50.443595-05:00.jpg">August 5 at 7:22 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-08-04T18:31:07.223129-05:00.jpg">
@@ -210,15 +219,6 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-30T18:13:23.285063-05:00.jpg">July 30 at 6:13 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-30T06:11:46.840461-05:00.jpg">
-  <img src="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-30T06:11:46.840461-05:00.jpg"
-     alt="Beaumont Enterprise at 2022-07-30 06:11:49-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-30T06:11:46.840461-05:00.jpg">July 30 at 6:11 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
@@ -245,7 +245,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 31 accessibility trees with the Internet Archive.
+The archiving routine has saved 32 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -336,6 +336,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 5 at 7:22 AM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-08-05T07:22:50.443595-05:00.accessibility.json) |
 | [August 4 at 6:31 PM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-08-04T18:31:07.223129-05:00.accessibility.json) |
 | [August 4 at 6:11 AM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-08-04T06:11:06.647852-05:00.accessibility.json) |
 | [August 3 at 6:18 PM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-08-03T18:18:11.898954-05:00.accessibility.json) |
@@ -345,13 +346,12 @@ Here are the 10 most recent accessibility trees.
 | [July 31 at 6:08 AM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-31T06:08:02.431198-05:00.accessibility.json) |
 | [July 30 at 6:13 PM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-30T18:13:23.285063-05:00.accessibility.json) |
 | [July 30 at 6:11 AM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-30T06:11:46.840461-05:00.accessibility.json) |
-| [July 29 at 7:00 PM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-29T19:00:53.204402-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 25 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 26 Lighthouse audits with the Internet Archive.
 
 
 
@@ -359,6 +359,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 5 at 7:22 AM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-08-05T07:22:50.443595-05:00.lighthouse.json) |
 | [August 4 at 6:31 PM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-08-04T18:31:07.223129-05:00.lighthouse.json) |
 | [August 4 at 6:11 AM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-08-04T06:11:06.647852-05:00.lighthouse.json) |
 | [August 3 at 6:18 PM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-08-03T18:18:11.898954-05:00.lighthouse.json) |
@@ -368,7 +369,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 1 at 6:14 PM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-08-01T18:14:38.938244-05:00.lighthouse.json) |
 | [August 1 at 6:11 AM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-08-01T06:11:45.201727-05:00.lighthouse.json) |
 | [July 31 at 7:08 PM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-31T19:08:46.835731-05:00.lighthouse.json) |
-| [July 31 at 6:08 AM](https://archive.org/download/bmtenterprise-2022/bmtenterprise-2022-07-31T06:08:02.431198-05:00.lighthouse.json) |
 
 
 

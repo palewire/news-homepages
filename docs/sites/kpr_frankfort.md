@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 9 screenshots with the Internet Archive.
+The archiving routine has saved 10 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-05T08:35:23.854231-04:00.jpg">
+  <img src="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-05T08:35:23.854231-04:00.jpg"
+     alt="WFPL at 2022-08-05 08:35:25-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-05T08:35:23.854231-04:00.jpg">August 5 at 8:35 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-04T21:40:45.214401-04:00.jpg">
@@ -113,7 +122,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 9 hyperlink lists with the Internet Archive.
+The archiving routine has saved 10 hyperlink lists with the Internet Archive.
 
 
 
@@ -121,6 +130,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 5 at 8:35 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-05T08:35:23.854231-04:00.hyperlinks.json) |
 | [August 4 at 9:40 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-04T21:40:45.214401-04:00.hyperlinks.json) |
 | [August 4 at 8:31 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-04T08:31:37.761334-04:00.hyperlinks.json) |
 | [August 3 at 8:38 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-03T20:38:35.349783-04:00.hyperlinks.json) |
@@ -134,7 +144,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 9 accessibility trees with the Internet Archive.
+The archiving routine has saved 10 accessibility trees with the Internet Archive.
 
 
 
@@ -142,6 +152,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 5 at 8:35 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-05T08:35:23.854231-04:00.accessibility.json) |
 | [August 4 at 9:40 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-04T21:40:45.214401-04:00.accessibility.json) |
 | [August 4 at 8:31 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-04T08:31:37.761334-04:00.accessibility.json) |
 | [August 3 at 8:38 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-03T20:38:35.349783-04:00.accessibility.json) |
@@ -156,7 +167,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 9 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 10 Lighthouse audits with the Internet Archive.
 
 
 
@@ -164,6 +175,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 5 at 8:35 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-05T08:35:23.854231-04:00.lighthouse.json) |
 | [August 4 at 9:40 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-04T21:40:45.214401-04:00.lighthouse.json) |
 | [August 4 at 8:31 AM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-04T08:31:37.761334-04:00.lighthouse.json) |
 | [August 3 at 8:38 PM](https://archive.org/download/kpr_frankfort-2022/kpr_frankfort-2022-08-03T20:38:35.349783-04:00.lighthouse.json) |
