@@ -1,5 +1,5 @@
 {
-  "created": 1659583572,
+  "created": 1659660248,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/13/items/heraldscotland-2022",
@@ -2604,31 +2604,73 @@
       "sha1": "66cc1919cdf8d34a817f544baf20a9b49653d6e9"
     },
     {
+      "name": "heraldscotland-2022-08-04T16:23:30.598852+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659626621",
+      "size": "53149",
+      "md5": "3404ab7fde29d9a91733a42b3f1da609",
+      "crc32": "5323d701",
+      "sha1": "d630487a9551af0ccd22538b21abd6cb6a695b2e",
+      "format": "JSON"
+    },
+    {
+      "name": "heraldscotland-2022-08-04T16:23:30.598852+01:00.jpg",
+      "source": "original",
+      "mtime": "1659626618",
+      "size": "251662",
+      "md5": "ae52ceb04962a5673ef57d0de01cb319",
+      "crc32": "c9c561a7",
+      "sha1": "881a76d9161844efe6e5ef9a800d71d06f8b235a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "heraldscotland-2022-08-04T16:23:30.598852+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659626623",
+      "size": "1531",
+      "md5": "cc83fcc1c1cef039a570cea29be5d451",
+      "crc32": "4fe26e64",
+      "sha1": "c0bafa725f401d05af172fb8d7c1c39767c18c0f",
+      "format": "JSON"
+    },
+    {
+      "name": "heraldscotland-2022-08-04T16:23:30.598852+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "heraldscotland-2022-08-04T16:23:30.598852+01:00.jpg",
+      "mtime": "1659630268",
+      "size": "9576",
+      "md5": "b887dd09941386be279df1da5e4ef490",
+      "crc32": "c0ffc82a",
+      "sha1": "61d66659aeb5b1dc022835c74039f18b36f8a51e"
+    },
+    {
       "name": "heraldscotland-2022_archive.torrent",
       "source": "metadata",
-      "btih": "95939b6bfc13cf73cdb71ba45546c59170a93345",
-      "mtime": "1659583539",
-      "size": "55141",
-      "md5": "2753f9243b94845e5307842099009096",
-      "crc32": "61a26ec1",
-      "sha1": "12c546fe0e6591e0b67e38ede23fbd695c754025",
+      "btih": "62be8397fbe46ae6d498bcf9c16566e7cd363b97",
+      "mtime": "1659630320",
+      "size": "55990",
+      "md5": "ed0432a13c97da245db3ed809767a2cf",
+      "crc32": "09d2f7f3",
+      "sha1": "6e44d2cc61f551478fba77e3e21fb68692c5f11f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "heraldscotland-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f2086266779f6bff177e4733f87b87e5",
+      "md5": "133498fccb3510e798aca08c35e7ada2",
       "summation": "md5"
     },
     {
       "name": "heraldscotland-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659583359",
-      "size": "311296",
-      "md5": "24198f31a147a06ebf5fe523a01fc9e6",
-      "crc32": "7f8dadc6",
-      "sha1": "6b57e54855cfd36e1e8738963a4903b54ac73e29",
+      "mtime": "1659626627",
+      "size": "315392",
+      "md5": "7a5f42ec00ed4c7471788963c83a76b4",
+      "crc32": "6f11a4fd",
+      "sha1": "0f2ec63040dfa96ba4bdf297a0e7d90b0bacb83a",
       "format": "Metadata"
     },
     {
@@ -2642,9 +2684,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 252,
-  "item_last_updated": 1659583539,
-  "item_size": 20618247,
+  "files_count": 256,
+  "heraldscotland-2022": [
+    {
+      "url": "https://www.heraldscotland.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_heraldscotland_com-_-2022_08_04_14_53_54.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_heraldscotland_com-_-2022_08_04_14_53_54.report.json",
+      "summary": {
+        "performance": 0.18,
+        "accessibility": 0.73,
+        "best-practices": 0.42,
+        "seo": 0.79,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.heraldscotland.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_heraldscotland_com-_-2022_08_04_14_55_45.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_heraldscotland_com-_-2022_08_04_14_55_45.report.json",
+      "summary": {
+        "performance": 0.21,
+        "accessibility": 0.73,
+        "best-practices": 0.42,
+        "seo": 0.79,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.heraldscotland.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_heraldscotland_com-_-2022_08_04_14_55_07.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_heraldscotland_com-_-2022_08_04_14_55_07.report.json",
+      "summary": {
+        "performance": 0.28,
+        "accessibility": 0.73,
+        "best-practices": 0.42,
+        "seo": 0.79,
+        "pwa": 0.4
+      }
+    }
+  ],
+  "item_last_updated": 1659630320,
+  "item_size": 20939110,
   "metadata": {
     "identifier": "heraldscotland-2022",
     "collection": [
@@ -2661,10 +2744,10 @@
     "publicdate": "2022-07-06 21:13:21",
     "addeddate": "2022-07-06 21:13:21"
   },
-  "server": "ia601406.us.archive.org",
-  "uniq": 711298160,
+  "server": "ia801406.us.archive.org",
+  "uniq": 518607057,
   "workable_servers": [
-    "ia601406.us.archive.org",
-    "ia801406.us.archive.org"
+    "ia801406.us.archive.org",
+    "ia601406.us.archive.org"
   ]
 }

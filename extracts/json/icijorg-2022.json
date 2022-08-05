@@ -1,5 +1,5 @@
 {
-  "created": 1659616077,
+  "created": 1659658586,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/3/items/icijorg-2022",
@@ -5703,31 +5703,94 @@
       "format": "JSON"
     },
     {
+      "name": "icijorg-2022-08-04T07:18:25.129707-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "icijorg-2022-08-04T07:18:25.129707-04:00.jpg",
+      "mtime": "1659617811",
+      "size": "11323",
+      "md5": "d22d27b5a28a9a5ba96434ff2eb04244",
+      "crc32": "238be621",
+      "sha1": "086f602a57cf83e16318b2ed4dd0cf69c4c492fb"
+    },
+    {
+      "name": "icijorg-2022-08-04T19:38:27.764879-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659656313",
+      "size": "18441",
+      "md5": "3527541ea90b2a662819a1c12ba0dc84",
+      "crc32": "acd14af2",
+      "sha1": "7bf4b8f5215f53f140bea57fbfad1d85035b0b03",
+      "format": "JSON"
+    },
+    {
+      "name": "icijorg-2022-08-04T19:38:27.764879-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659656315",
+      "size": "23479",
+      "md5": "87ad55fd53b782b5b370594286d19559",
+      "crc32": "3af9f3c7",
+      "sha1": "4310a50ab32a00b9dc5ca1aa8f358eecdeb2e34a",
+      "format": "JSON"
+    },
+    {
+      "name": "icijorg-2022-08-04T19:38:27.764879-04:00.jpg",
+      "source": "original",
+      "mtime": "1659656311",
+      "size": "319632",
+      "md5": "dcb4862a82baa35863f1f17314670df9",
+      "crc32": "ec9f1062",
+      "sha1": "341a0b66eab45a535aa7082f02f19367350236ff",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "icijorg-2022-08-04T19:38:27.764879-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659656317",
+      "size": "1432",
+      "md5": "f92d05808957a24d207c4cc7e8e7bb51",
+      "crc32": "bf9f8e1e",
+      "sha1": "e671a89fbf282b9a453b55d07f4e1426e4863476",
+      "format": "JSON"
+    },
+    {
+      "name": "icijorg-2022-08-04T19:38:27.764879-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "icijorg-2022-08-04T19:38:27.764879-04:00.jpg",
+      "mtime": "1659658501",
+      "size": "11323",
+      "md5": "d22d27b5a28a9a5ba96434ff2eb04244",
+      "crc32": "238be621",
+      "sha1": "086f602a57cf83e16318b2ed4dd0cf69c4c492fb"
+    },
+    {
       "name": "icijorg-2022_archive.torrent",
       "source": "metadata",
-      "btih": "61554f08d787bf1c05fe92f449e0bf2a81bcf2ca",
-      "mtime": "1659611956",
-      "size": "115516",
-      "md5": "6c614ca56ef73b45e83746f88c07ae96",
-      "crc32": "b462c02e",
-      "sha1": "5dd18fedf9dcea8692117d94b7ada3c911c1625a",
+      "btih": "5933a7d5d1a0ae0d6c2d2281cf599609e8aeffc9",
+      "mtime": "1659658515",
+      "size": "116755",
+      "md5": "2cbd615ce097c18dd7717fa7cbce69d2",
+      "crc32": "663e4d5b",
+      "sha1": "7dc640bc1f8700e1e64b9bcde2f0ac08676949c3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "icijorg-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "90027f35e5035486b257fcf0135644f1",
+      "md5": "29bcab5aa007dc82ca66bed07f93b099",
       "summation": "md5"
     },
     {
       "name": "icijorg-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659611917",
-      "size": "651264",
-      "md5": "177a79b8fdf89457a604c689607c5482",
-      "crc32": "ce879316",
-      "sha1": "76121253d4f47e9e786e6df3634e2b8abd6c9c04",
+      "mtime": "1659656321",
+      "size": "655360",
+      "md5": "0a1ef68200892d4f32df18a8838edf32",
+      "crc32": "54f45440",
+      "sha1": "c363239b71829f3dcd52094723e7c5fdde80b03f",
       "format": "Metadata"
     },
     {
@@ -5741,50 +5804,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 548,
-  "icijorg-2022": [
-    {
-      "url": "https://www.icij.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_icij_org-_-2022_08_04_10_58_01.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_icij_org-_-2022_08_04_10_58_01.report.json",
-      "summary": {
-        "performance": 0.2,
-        "accessibility": 0.88,
-        "best-practices": 1,
-        "seo": 0.98,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.icij.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_icij_org-_-2022_08_04_10_58_39.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_icij_org-_-2022_08_04_10_58_39.report.json",
-      "summary": {
-        "performance": 0.21,
-        "accessibility": 0.88,
-        "best-practices": 1,
-        "seo": 0.98,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.icij.org/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_icij_org-_-2022_08_04_10_58_21.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_icij_org-_-2022_08_04_10_58_21.report.json",
-      "summary": {
-        "performance": 0.2,
-        "accessibility": 0.88,
-        "best-practices": 1,
-        "seo": 0.98,
-        "pwa": 0.4
-      }
-    }
-  ],
-  "item_last_updated": 1659611956,
-  "item_size": 46273153,
+  "files_count": 554,
+  "item_last_updated": 1659658515,
+  "item_size": 46664118,
   "metadata": {
     "identifier": "icijorg-2022",
     "collection": [
@@ -5801,21 +5823,10 @@
     "publicdate": "2022-06-18 03:25:07",
     "addeddate": "2022-06-18 03:25:07"
   },
-  "pending_tasks": true,
-  "server": "ia902508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3352501783,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1843608414,
+  "server": "ia802508.us.archive.org",
+  "uniq": 395418488,
   "workable_servers": [
+    "ia802508.us.archive.org",
     "ia902508.us.archive.org"
   ]
 }

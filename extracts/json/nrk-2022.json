@@ -1,5 +1,5 @@
 {
-  "created": 1659610790,
+  "created": 1659660629,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/33/items/nrk-2022",
@@ -1504,31 +1504,61 @@
       "sha1": "85a9fc949738f1f06607fab36da38b40a6738ac0"
     },
     {
+      "name": "nrk-2022-08-04T14:37:59.907956+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659616681",
+      "size": "21353",
+      "md5": "e40283ed5871e1bf79c79373c9db2f91",
+      "crc32": "242be4c8",
+      "sha1": "7f15ae4a623a566e0cc72de6048c6d1819c06048",
+      "format": "JSON"
+    },
+    {
+      "name": "nrk-2022-08-04T14:37:59.907956+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659616683",
+      "size": "45220",
+      "md5": "e31f825ca7cbe2cb5d11c76fda15d097",
+      "crc32": "aa524173",
+      "sha1": "fe5e11f7b4161bb07b66b27fade97fdb2e336d8d",
+      "format": "JSON"
+    },
+    {
+      "name": "nrk-2022-08-04T14:37:59.907956+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659616685",
+      "size": "1417",
+      "md5": "c434e8b87a676c968c21814c02387e82",
+      "crc32": "65b79dd5",
+      "sha1": "b0859dec6bf4b78efcf504d4a2acc02ec5ca1747",
+      "format": "JSON"
+    },
+    {
       "name": "nrk-2022_archive.torrent",
       "source": "metadata",
-      "btih": "41d18adaf3c1c02b4d422480a1279fb8cf64e945",
-      "mtime": "1659574282",
-      "size": "31010",
-      "md5": "0a65fc2763cd61ef5c1a5cd393cec537",
-      "crc32": "bdcb1c28",
-      "sha1": "95d801cd1c6181e511f2ae45e550e9a2ccda59e0",
+      "btih": "d95c611c0cb531a62a5ce6b9457c9d5368609d49",
+      "mtime": "1659616724",
+      "size": "31630",
+      "md5": "db0f3ee35382c453b4c28d76bde2c059",
+      "crc32": "55049521",
+      "sha1": "05508f5e23a468baaed9d7476bd9c644198d0c58",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nrk-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "81cae9607b3b6b9d2116242bfa1c019f",
+      "md5": "1fd96a633cbbf33cd43a0720c5a26eec",
       "summation": "md5"
     },
     {
       "name": "nrk-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659573848",
-      "size": "192512",
-      "md5": "4ab105da90d6085e5f2fb1133838aa66",
-      "crc32": "4a2c53b6",
-      "sha1": "23401a2c9d7fac21339e0d26f987b9bf282e9982",
+      "mtime": "1659616689",
+      "size": "200704",
+      "md5": "a28ed38bbd4967dcf4d85b18fe6afb4f",
+      "crc32": "f29dacc4",
+      "sha1": "ab7e1c593e794affcf3adcf2fb1fbd690333ab3e",
       "format": "Metadata"
     },
     {
@@ -1542,9 +1572,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 148,
-  "item_last_updated": 1659574282,
-  "item_size": 10590258,
+  "files_count": 151,
+  "item_last_updated": 1659616724,
+  "item_size": 10667060,
   "metadata": {
     "identifier": "nrk-2022",
     "collection": [
@@ -1561,8 +1591,49 @@
     "publicdate": "2022-07-20 11:37:26",
     "addeddate": "2022-07-20 11:37:26"
   },
+  "nrk-2022": [
+    {
+      "url": "https://www.nrk.no/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nrk_no-_-2022_08_04_12_12_18.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nrk_no-_-2022_08_04_12_12_18.report.json",
+      "summary": {
+        "performance": 0.68,
+        "accessibility": 0.94,
+        "best-practices": 1,
+        "seo": 0.99,
+        "pwa": 0.6
+      }
+    },
+    {
+      "url": "https://www.nrk.no/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nrk_no-_-2022_08_04_12_13_20.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nrk_no-_-2022_08_04_12_13_20.report.json",
+      "summary": {
+        "performance": 0.62,
+        "accessibility": 0.94,
+        "best-practices": 1,
+        "seo": 0.99,
+        "pwa": 0.6
+      }
+    },
+    {
+      "url": "https://www.nrk.no/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nrk_no-_-2022_08_04_12_11_15.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nrk_no-_-2022_08_04_12_11_15.report.json",
+      "summary": {
+        "performance": 0.55,
+        "accessibility": 0.94,
+        "best-practices": 0.92,
+        "seo": 0.99,
+        "pwa": 0.6
+      }
+    }
+  ],
   "server": "ia802504.us.archive.org",
-  "uniq": 1968779038,
+  "uniq": 1685278931,
   "workable_servers": [
     "ia802504.us.archive.org",
     "ia902504.us.archive.org"

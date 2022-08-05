@@ -1,5 +1,5 @@
 {
-  "created": 1659616539,
+  "created": 1659626531,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/22/items/phillyinquirer-2022",
@@ -3146,31 +3146,83 @@
       "sha1": "32b0af047580e2109d916268b1013ce7cd93c81f"
     },
     {
+      "name": "phillyinquirer-2022-08-04T08:39:12.489251-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659616755",
+      "size": "17619",
+      "md5": "29d643f08f4cc817ce549e091ce28599",
+      "crc32": "d348e99b",
+      "sha1": "675137420f6d74dbee992bc18984cddb70253f9f",
+      "format": "JSON"
+    },
+    {
+      "name": "phillyinquirer-2022-08-04T08:39:12.489251-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659616762",
+      "size": "12666",
+      "md5": "d022979991e55d2c04caaa3071234e7e",
+      "crc32": "6e71103d",
+      "sha1": "5f00a318a9f8f8f33e225afcd320bd04f27a4692",
+      "format": "JSON"
+    },
+    {
+      "name": "phillyinquirer-2022-08-04T08:39:12.489251-04:00.jpg",
+      "source": "original",
+      "mtime": "1659616754",
+      "size": "337939",
+      "md5": "aea03d1022dad43eedaf66f5d751aaa7",
+      "crc32": "ed373c8b",
+      "sha1": "ede8d38d00e0823152c80f48576f96f055147f17",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "phillyinquirer-2022-08-04T08:39:12.489251-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659616764",
+      "size": "1477",
+      "md5": "256777353954a86c6c536f29d54bde68",
+      "crc32": "268dc757",
+      "sha1": "cd4f875b191221774d48f0b31834c0d98e5ccebc",
+      "format": "JSON"
+    },
+    {
+      "name": "phillyinquirer-2022-08-04T08:39:12.489251-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "phillyinquirer-2022-08-04T08:39:12.489251-04:00.jpg",
+      "mtime": "1659626408",
+      "size": "9753",
+      "md5": "e3d9ebcac96b136e69cd8a0626154a5b",
+      "crc32": "08939900",
+      "sha1": "e8167958240fe206d768c6379e061e3dd30b645c"
+    },
+    {
       "name": "phillyinquirer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e9b5cd75ef911f51b6c79fcb6775750a6638bdab",
-      "mtime": "1659574490",
-      "size": "66508",
-      "md5": "d996b637d897accd40394a778d0ccc9e",
-      "crc32": "0d000d6a",
-      "sha1": "3db136392246b2fbb40ed25ef2f8897ad786c19b",
+      "btih": "2c6efaacaec026e9c77e6f9f34f339862d215b44",
+      "mtime": "1659626452",
+      "size": "67597",
+      "md5": "5210bf83190a637dec0bda1f41e1ed6d",
+      "crc32": "243f2a4f",
+      "sha1": "f0900d480e96a25a32e17646d274a293063745f9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "phillyinquirer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8650d0e2b855d5f70cd4f0bfb83a6a4e",
+      "md5": "a007314afc8da01d81da99c637805d49",
       "summation": "md5"
     },
     {
       "name": "phillyinquirer-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659573957",
-      "size": "372736",
-      "md5": "7dd72a5fa68bce011a60f99eefe60fc2",
-      "crc32": "3a09bdfd",
-      "sha1": "e9932fd321fcd0fe75d96caa01c5c32accefa994",
+      "mtime": "1659616772",
+      "size": "376832",
+      "md5": "3c971c957a1e3165ddfdf2f929b932b2",
+      "crc32": "072d0e7b",
+      "sha1": "d5ccd213935d289063805d1799b167b078eb10d6",
       "format": "Metadata"
     },
     {
@@ -3184,9 +3236,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 304,
-  "item_last_updated": 1659574490,
-  "item_size": 26655268,
+  "files_count": 309,
+  "item_last_updated": 1659626452,
+  "item_size": 27039907,
   "metadata": {
     "identifier": "phillyinquirer-2022",
     "collection": [
@@ -3203,49 +3255,8 @@
     "publicdate": "2022-07-03 15:52:44",
     "addeddate": "2022-07-03 15:52:44"
   },
-  "phillyinquirer-2022": [
-    {
-      "url": "https://www.inquirer.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_inquirer_com-_-2022_08_04_00_18_54.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_inquirer_com-_-2022_08_04_00_18_54.report.json",
-      "summary": {
-        "performance": 0.22,
-        "accessibility": 0.88,
-        "best-practices": 0.92,
-        "seo": 0.86,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.inquirer.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_inquirer_com-_-2022_08_04_00_19_47.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_inquirer_com-_-2022_08_04_00_19_47.report.json",
-      "summary": {
-        "performance": 0.22,
-        "accessibility": 0.88,
-        "best-practices": 0.83,
-        "seo": 0.86,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.inquirer.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_inquirer_com-_-2022_08_04_00_20_46.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_inquirer_com-_-2022_08_04_00_20_46.report.json",
-      "summary": {
-        "performance": 0.27,
-        "accessibility": 0.88,
-        "best-practices": 0.83,
-        "seo": 0.86,
-        "pwa": 0.4
-      }
-    }
-  ],
   "server": "ia801505.us.archive.org",
-  "uniq": 227945167,
+  "uniq": 169891254,
   "workable_servers": [
     "ia801505.us.archive.org",
     "ia601505.us.archive.org"

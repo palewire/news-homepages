@@ -1,5 +1,5 @@
 {
-  "created": 1659616585,
+  "created": 1659660775,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/14/items/pulitzercenter-2022",
@@ -2472,31 +2472,83 @@
       "sha1": "54abe4d9a4d9431c8e3ef359c70b7dacb33da52c"
     },
     {
+      "name": "pulitzercenter-2022-08-04T08:39:15.357739-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659616758",
+      "size": "8818",
+      "md5": "abdc526629052969230dc57d3084f8a8",
+      "crc32": "b5ec6515",
+      "sha1": "709057e139f49177e184b28ef624327430b45b6e",
+      "format": "JSON"
+    },
+    {
+      "name": "pulitzercenter-2022-08-04T08:39:15.357739-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659616759",
+      "size": "16150",
+      "md5": "1cad87f6860ca3b08df30b0da503c00d",
+      "crc32": "ef65131b",
+      "sha1": "43c3cef5fbe1f37962ad17364b3704399057caa7",
+      "format": "JSON"
+    },
+    {
+      "name": "pulitzercenter-2022-08-04T08:39:15.357739-04:00.jpg",
+      "source": "original",
+      "mtime": "1659616756",
+      "size": "184449",
+      "md5": "0027f44c12a0d07adff4f92d4883a675",
+      "crc32": "d6d7ec3b",
+      "sha1": "54b2db48b80dd766a467a03bd1d7a4e5ef4c5723",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pulitzercenter-2022-08-04T08:39:15.357739-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659616761",
+      "size": "1495",
+      "md5": "3bb7ebc363b00cf92dc827b590474e0e",
+      "crc32": "9e4e6f70",
+      "sha1": "eb4276de5b4b2eaf4a60deac572102b1fa2334d4",
+      "format": "JSON"
+    },
+    {
+      "name": "pulitzercenter-2022-08-04T08:39:15.357739-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pulitzercenter-2022-08-04T08:39:15.357739-04:00.jpg",
+      "mtime": "1659622211",
+      "size": "8375",
+      "md5": "cdb596d33d48b1bc2d3ede6cd614f944",
+      "crc32": "ebf6e405",
+      "sha1": "54abe4d9a4d9431c8e3ef359c70b7dacb33da52c"
+    },
+    {
       "name": "pulitzercenter-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1a91dfadd7c15722f1ccd960c376c2aae36b0ca1",
-      "mtime": "1659574172",
-      "size": "52286",
-      "md5": "7aa3d0977d39af88dfdbc7e9e36b659b",
-      "crc32": "ff96a8ed",
-      "sha1": "82b5fc4bce23261e146d16cc15b9e0aea27516bf",
+      "btih": "beee2d1102be215f84d92143d9fcd55c1a83994b",
+      "mtime": "1659622221",
+      "size": "53354",
+      "md5": "083d69f50b2fcb2729858136d39ff6f7",
+      "crc32": "6209b415",
+      "sha1": "8d41fdd05e3e1147b17955b342cc1df614f44e38",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pulitzercenter-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0dfa5f94df2fbc336b5ac1758eb75a50",
+      "md5": "cbcdab6dcf6cbcb67bcf4021b3bf9bb9",
       "summation": "md5"
     },
     {
       "name": "pulitzercenter-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659574013",
-      "size": "303104",
-      "md5": "f167ec5089283bec4d3788c537738f76",
-      "crc32": "de15bd62",
-      "sha1": "96edc580056315f2411041919fcb63865ab5c2e8",
+      "mtime": "1659616769",
+      "size": "307200",
+      "md5": "0bc826869a6f0e677399939665d1ee83",
+      "crc32": "77cc3907",
+      "sha1": "b74c9c2bf1ed1d5179c8a03de31596ca73472cff",
       "format": "Metadata"
     },
     {
@@ -2510,9 +2562,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 240,
-  "item_last_updated": 1659574172,
-  "item_size": 12733902,
+  "files_count": 245,
+  "item_last_updated": 1659622221,
+  "item_size": 12958353,
   "metadata": {
     "identifier": "pulitzercenter-2022",
     "collection": [
@@ -2533,8 +2585,8 @@
     {
       "url": "https://pulitzercenter.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/pulitzercenter_org-_-2022_08_04_00_18_23.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/pulitzercenter_org-_-2022_08_04_00_18_23.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/pulitzercenter_org-_-2022_08_04_12_14_23.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/pulitzercenter_org-_-2022_08_04_12_14_23.report.json",
       "summary": {
         "performance": 0.23,
         "accessibility": 0.96,
@@ -2546,10 +2598,10 @@
     {
       "url": "https://pulitzercenter.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/pulitzercenter_org-_-2022_08_04_00_18_47.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/pulitzercenter_org-_-2022_08_04_00_18_47.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/pulitzercenter_org-_-2022_08_04_12_15_07.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/pulitzercenter_org-_-2022_08_04_12_15_07.report.json",
       "summary": {
-        "performance": 0.33,
+        "performance": 0.37,
         "accessibility": 0.96,
         "best-practices": 0.92,
         "seo": 0.86,
@@ -2559,10 +2611,10 @@
     {
       "url": "https://pulitzercenter.org/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/pulitzercenter_org-_-2022_08_04_00_19_08.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/pulitzercenter_org-_-2022_08_04_00_19_08.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/pulitzercenter_org-_-2022_08_04_12_14_46.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/pulitzercenter_org-_-2022_08_04_12_14_46.report.json",
       "summary": {
-        "performance": 0.3,
+        "performance": 0.36,
         "accessibility": 0.96,
         "best-practices": 0.92,
         "seo": 0.86,
@@ -2571,7 +2623,7 @@
     }
   ],
   "server": "ia601408.us.archive.org",
-  "uniq": 760407693,
+  "uniq": 732452353,
   "workable_servers": [
     "ia601408.us.archive.org",
     "ia801408.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1659616000,
+  "created": 1659660193,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/23/items/freethinkmedia-2022",
@@ -1516,31 +1516,83 @@
       "sha1": "9f434e482d7e1c4645a30ef47dc714e6fc105848"
     },
     {
+      "name": "freethinkmedia-2022-08-04T08:21:42.119737-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659626506",
+      "size": "36617",
+      "md5": "b7ba31ad8389aff964b2f3e3fc80191d",
+      "crc32": "9801dece",
+      "sha1": "7ae0fb3d09e094d1d3c6523c71235c62ee7a08d7",
+      "format": "JSON"
+    },
+    {
+      "name": "freethinkmedia-2022-08-04T08:21:42.119737-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659626507",
+      "size": "28909",
+      "md5": "2e9d6a3da2d2ca4a485db209ca9f6eea",
+      "crc32": "35544f43",
+      "sha1": "af531b3de9ed916952b41f8966cc9086501e284d",
+      "format": "JSON"
+    },
+    {
+      "name": "freethinkmedia-2022-08-04T08:21:42.119737-07:00.jpg",
+      "source": "original",
+      "mtime": "1659626504",
+      "size": "207953",
+      "md5": "03f97b0c9ecd9bf4980a95b8093d272b",
+      "crc32": "32f79dfc",
+      "sha1": "fddc397a54590ddcf842efe9423b2acd9c0e38e5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "freethinkmedia-2022-08-04T08:21:42.119737-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659626509",
+      "size": "1483",
+      "md5": "3fd8faea5a25cc8966390dba3ca0f6f5",
+      "crc32": "056d63d0",
+      "sha1": "8a91077d37de83a47c2fea317276514cd2c83b68",
+      "format": "JSON"
+    },
+    {
+      "name": "freethinkmedia-2022-08-04T08:21:42.119737-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "freethinkmedia-2022-08-04T08:21:42.119737-07:00.jpg",
+      "mtime": "1659629740",
+      "size": "9498",
+      "md5": "2e7403a841915f9035efdbe25579722a",
+      "crc32": "f83070cd",
+      "sha1": "d45e6011c7618c47199e33cec680f984d013d485"
+    },
+    {
       "name": "freethinkmedia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8842f49e1ace6945640cae06ab25eb26c5ebaeb6",
-      "mtime": "1659583422",
-      "size": "32776",
-      "md5": "4c110c537178abab51b2917426ee9af0",
-      "crc32": "80e83d89",
-      "sha1": "67460f1cbb1af56a948b7cecbbf547c13e95c600",
+      "btih": "438c7ad5f37352abb0eb7e3bdd5bef88791f4a6c",
+      "mtime": "1659629745",
+      "size": "33845",
+      "md5": "aed351f33e0878d8427a80225cc379ff",
+      "crc32": "41e728df",
+      "sha1": "ee70ac96ab3d0241fd253e0c42a6ad6e87ccaffb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "freethinkmedia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2ea41bfa5aad16dd6b814b7f1ebb9c5f",
+      "md5": "2a70de30a621a7829c25d1c65f2342df",
       "summation": "md5"
     },
     {
       "name": "freethinkmedia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659583248",
-      "size": "196608",
-      "md5": "0fde9d5cc09ea65ea9ba199fd0f1b32c",
-      "crc32": "1805f5e7",
-      "sha1": "0c0cd9cf845f35ba402b818e16672a4e54f8087b",
+      "mtime": "1659626512",
+      "size": "204800",
+      "md5": "f1fde418654cc3f82ee924b33c981c95",
+      "crc32": "ce70e9b4",
+      "sha1": "ffd39f2544c0497179507f80acb413b2527aa0bb",
       "format": "Metadata"
     },
     {
@@ -1554,15 +1606,15 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 149,
+  "files_count": 154,
   "freethinkmedia-2022": [
     {
       "url": "https://www.freethink.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_freethink_com-_-2022_08_04_02_41_19.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_freethink_com-_-2022_08_04_02_41_19.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_freethink_com-_-2022_08_04_14_50_05.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_freethink_com-_-2022_08_04_14_50_05.report.json",
       "summary": {
-        "performance": 0.47,
+        "performance": 0.51,
         "accessibility": 0.95,
         "best-practices": 0.92,
         "seo": 0.9,
@@ -1572,10 +1624,10 @@
     {
       "url": "https://www.freethink.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_freethink_com-_-2022_08_04_02_42_01.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_freethink_com-_-2022_08_04_02_42_01.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_freethink_com-_-2022_08_04_14_50_38.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_freethink_com-_-2022_08_04_14_50_38.report.json",
       "summary": {
-        "performance": 0.64,
+        "performance": 0.56,
         "accessibility": 0.95,
         "best-practices": 0.92,
         "seo": 0.9,
@@ -1585,10 +1637,10 @@
     {
       "url": "https://www.freethink.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_freethink_com-_-2022_08_04_02_41_41.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_freethink_com-_-2022_08_04_02_41_41.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_freethink_com-_-2022_08_04_14_50_22.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_freethink_com-_-2022_08_04_14_50_22.report.json",
       "summary": {
-        "performance": 0.54,
+        "performance": 0.59,
         "accessibility": 0.95,
         "best-practices": 0.92,
         "seo": 0.9,
@@ -1596,8 +1648,8 @@
       }
     }
   ],
-  "item_last_updated": 1659583422,
-  "item_size": 8449753,
+  "item_last_updated": 1659629745,
+  "item_size": 8743474,
   "metadata": {
     "identifier": "freethinkmedia-2022",
     "collection": [
@@ -1614,10 +1666,10 @@
     "publicdate": "2022-07-21 02:24:31",
     "addeddate": "2022-07-21 02:24:31"
   },
-  "server": "ia601404.us.archive.org",
-  "uniq": 63933642,
+  "server": "ia801404.us.archive.org",
+  "uniq": 1324119422,
   "workable_servers": [
-    "ia601404.us.archive.org",
-    "ia801404.us.archive.org"
+    "ia801404.us.archive.org",
+    "ia601404.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1659616311,
+  "created": 1659660508,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/32/items/mdr_san-2022",
@@ -1004,31 +1004,83 @@
       "sha1": "1f529aafecab53442afa73e97d57969a74816e5a"
     },
     {
+      "name": "mdr_san-2022-08-04T14:35:17.064621+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659616520",
+      "size": "34496",
+      "md5": "6d6603029107ef2afd3448f618f42262",
+      "crc32": "29174c46",
+      "sha1": "e3abf372253c8d8e752e9c4581c05c3fbdda644b",
+      "format": "JSON"
+    },
+    {
+      "name": "mdr_san-2022-08-04T14:35:17.064621+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659616522",
+      "size": "63954",
+      "md5": "c9c794b1a179a0650c6283c4dadea526",
+      "crc32": "bbf04206",
+      "sha1": "8bc7bb29d5141d4b7d576943cf7cf5282d5ad7a2",
+      "format": "JSON"
+    },
+    {
+      "name": "mdr_san-2022-08-04T14:35:17.064621+02:00.jpg",
+      "source": "original",
+      "mtime": "1659616518",
+      "size": "262122",
+      "md5": "24a443f8d25c6d36f9ce0dfaee400511",
+      "crc32": "815f0066",
+      "sha1": "db33aa9c7eab39b3c2a8f708f9a5aa7ae8f53617",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mdr_san-2022-08-04T14:35:17.064621+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659616523",
+      "size": "1612",
+      "md5": "ae3a67b32156c463ebda460621127544",
+      "crc32": "1aacdfcd",
+      "sha1": "cc6d7fe5876186e8ca80ce6818482c37929d3a1a",
+      "format": "JSON"
+    },
+    {
+      "name": "mdr_san-2022-08-04T14:35:17.064621+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mdr_san-2022-08-04T14:35:17.064621+02:00.jpg",
+      "mtime": "1659621483",
+      "size": "10090",
+      "md5": "0525bbb90a32fc2dec2d1f9c1e09ed66",
+      "crc32": "c8517681",
+      "sha1": "607e36c4cb8621e4b5569895db9ab471d36e7652"
+    },
+    {
       "name": "mdr_san-2022_archive.torrent",
       "source": "metadata",
-      "btih": "32bf0951f0b8bcb5fff0d90bd9b58529d7be4cd5",
-      "mtime": "1659573820",
-      "size": "21549",
-      "md5": "d9bed94fe0d2b90af642b26178ea2516",
-      "crc32": "31cfd48f",
-      "sha1": "7dbf35db3e1aeb5e520d426b1502edc19fef184e",
+      "btih": "e92923bebcde99c3503ed0a9f932774b0386de05",
+      "mtime": "1659621515",
+      "size": "22604",
+      "md5": "414da82cfe22d6487863cebdd2889d37",
+      "crc32": "3ab10ee7",
+      "sha1": "3530c717e9144c45a874ba2a1ebb835dd2abf92f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mdr_san-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "69c286d1cd58cf1634fe88b39b7236b8",
+      "md5": "52c3fbb4f3e35aaf9e44f0e85f0731c8",
       "summation": "md5"
     },
     {
       "name": "mdr_san-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659573705",
-      "size": "143360",
-      "md5": "6bf1ab87df707cb7d064a0a93f91a1f6",
-      "crc32": "7562292c",
-      "sha1": "ed260d41cd015afd983dd155c8386332350482ca",
+      "mtime": "1659616528",
+      "size": "147456",
+      "md5": "87b815b94280f755552551df346d77f5",
+      "crc32": "f9686742",
+      "sha1": "6c4dc5abd33312164fce48cb961da8e483198820",
       "format": "Metadata"
     },
     {
@@ -1042,17 +1094,17 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 100,
-  "item_last_updated": 1659573820,
-  "item_size": 7572754,
+  "files_count": 105,
+  "item_last_updated": 1659621515,
+  "item_size": 7950179,
   "mdr_san-2022": [
     {
       "url": "https://www.mdr.de/nachrichten/index.html",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mdr_de-_nachrichten_index_html-2022_08_04_00_11_56.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mdr_de-_nachrichten_index_html-2022_08_04_00_11_56.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mdr_de-_nachrichten_index_html-2022_08_04_12_07_28.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mdr_de-_nachrichten_index_html-2022_08_04_12_07_28.report.json",
       "summary": {
-        "performance": 0.29,
+        "performance": 0.18,
         "accessibility": 0.82,
         "best-practices": 1,
         "seo": 0.93,
@@ -1062,10 +1114,10 @@
     {
       "url": "https://www.mdr.de/nachrichten/index.html",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mdr_de-_nachrichten_index_html-2022_08_04_00_12_17.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mdr_de-_nachrichten_index_html-2022_08_04_00_12_17.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mdr_de-_nachrichten_index_html-2022_08_04_12_08_20.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mdr_de-_nachrichten_index_html-2022_08_04_12_08_20.report.json",
       "summary": {
-        "performance": 0.33,
+        "performance": 0.26,
         "accessibility": 0.82,
         "best-practices": 1,
         "seo": 0.93,
@@ -1075,10 +1127,10 @@
     {
       "url": "https://www.mdr.de/nachrichten/index.html",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mdr_de-_nachrichten_index_html-2022_08_04_00_12_34.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mdr_de-_nachrichten_index_html-2022_08_04_00_12_34.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mdr_de-_nachrichten_index_html-2022_08_04_12_07_56.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mdr_de-_nachrichten_index_html-2022_08_04_12_07_56.report.json",
       "summary": {
-        "performance": 0.33,
+        "performance": 0.25,
         "accessibility": 0.82,
         "best-practices": 1,
         "seo": 0.93,
@@ -1103,7 +1155,7 @@
     "addeddate": "2022-07-26 00:19:02"
   },
   "server": "ia801401.us.archive.org",
-  "uniq": 552250538,
+  "uniq": 65272198,
   "workable_servers": [
     "ia801401.us.archive.org",
     "ia601401.us.archive.org"

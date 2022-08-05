@@ -1,5 +1,5 @@
 {
-  "created": 1659616310,
+  "created": 1659660507,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/27/items/mdjonline-2022",
@@ -1474,31 +1474,83 @@
       "sha1": "8254862b6d7e3a19e7470b89837331836e6c4096"
     },
     {
+      "name": "mdjonline-2022-08-04T11:28:47.283905-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659626930",
+      "size": "47528",
+      "md5": "2705a714876c885171b2868973ae2e9d",
+      "crc32": "3fea5214",
+      "sha1": "28b87c5d04b813891fe49196f7b8cae23ec094f6",
+      "format": "JSON"
+    },
+    {
+      "name": "mdjonline-2022-08-04T11:28:47.283905-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659626933",
+      "size": "55962",
+      "md5": "1d14ff0401e85605e4c26e539f30f58b",
+      "crc32": "d0f604d0",
+      "sha1": "4da88c028c87e6bc78cc3debe38715755e826672",
+      "format": "JSON"
+    },
+    {
+      "name": "mdjonline-2022-08-04T11:28:47.283905-04:00.jpg",
+      "source": "original",
+      "mtime": "1659626928",
+      "size": "344940",
+      "md5": "e961078fc9f7be1a6cdc30b3562ce52a",
+      "crc32": "a852f952",
+      "sha1": "00603c7b6594c476f3f6fc25764bb88c84ac494b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mdjonline-2022-08-04T11:28:47.283905-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659626935",
+      "size": "1486",
+      "md5": "e332da9d2ca9a1d0220e27022e6abbe1",
+      "crc32": "b8c9d71b",
+      "sha1": "d9675c23482d745dbe09cd854b8f1ae3ed1f2521",
+      "format": "JSON"
+    },
+    {
+      "name": "mdjonline-2022-08-04T11:28:47.283905-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mdjonline-2022-08-04T11:28:47.283905-04:00.jpg",
+      "mtime": "1659630618",
+      "size": "10390",
+      "md5": "0dc1a4c868d69271e69c7ae2b913db7c",
+      "crc32": "507364a8",
+      "sha1": "389cc9e40f33587665da392649168b8dd1dbd316"
+    },
+    {
       "name": "mdjonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "70f4d468c0c6f029db7f014735215f16f915ba9c",
-      "mtime": "1659583742",
-      "size": "31388",
-      "md5": "0bf6cc1ccfa171a042914566e8a947d6",
-      "crc32": "2001b375",
-      "sha1": "a830d82aaddbe25990ea3608f2704dd692d4b861",
+      "btih": "913a053e99b722f4c06b83c8b717e562933d713a",
+      "mtime": "1659630624",
+      "size": "32453",
+      "md5": "6b64236a2044b3acfe554b44a9f53e59",
+      "crc32": "468d0ead",
+      "sha1": "2b0f0f21403c2b762395f93a81d3a15b071ba699",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mdjonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3be635bcce737cb29385fadc05e8d244",
+      "md5": "d229a1d4ba6bf2261381ea56bf881040",
       "summation": "md5"
     },
     {
       "name": "mdjonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659583655",
-      "size": "192512",
-      "md5": "7dc8e1de3cbf5972fe11b1dff0aa1fa3",
-      "crc32": "7e9fc7d9",
-      "sha1": "2e4b28b47377c06bad5447a188cfe12a5b50f78c",
+      "mtime": "1659626939",
+      "size": "200704",
+      "md5": "baf49045589e9fa7a02540421c4ad587",
+      "crc32": "18af5d00",
+      "sha1": "103f50b824e90b6d5c98cdb034233f84ab49cb6f",
       "format": "Metadata"
     },
     {
@@ -1512,17 +1564,17 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 145,
-  "item_last_updated": 1659583742,
-  "item_size": 13422146,
+  "files_count": 150,
+  "item_last_updated": 1659630624,
+  "item_size": 13891709,
   "mdjonline-2022": [
     {
       "url": "https://www.mdjonline.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mdjonline_com-_-2022_08_04_02_50_26.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mdjonline_com-_-2022_08_04_02_50_26.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mdjonline_com-_-2022_08_04_15_01_50.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mdjonline_com-_-2022_08_04_15_01_50.report.json",
       "summary": {
-        "performance": 0.2,
+        "performance": 0.21,
         "accessibility": 0.78,
         "best-practices": 0.58,
         "seo": 0.92,
@@ -1532,10 +1584,10 @@
     {
       "url": "https://www.mdjonline.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mdjonline_com-_-2022_08_04_02_51_12.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mdjonline_com-_-2022_08_04_02_51_12.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mdjonline_com-_-2022_08_04_15_02_13.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mdjonline_com-_-2022_08_04_15_02_13.report.json",
       "summary": {
-        "performance": 0.22,
+        "performance": 0.24,
         "accessibility": 0.78,
         "best-practices": 0.58,
         "seo": 0.92,
@@ -1545,10 +1597,10 @@
     {
       "url": "https://www.mdjonline.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mdjonline_com-_-2022_08_04_02_50_50.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mdjonline_com-_-2022_08_04_02_50_50.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mdjonline_com-_-2022_08_04_15_02_35.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mdjonline_com-_-2022_08_04_15_02_35.report.json",
       "summary": {
-        "performance": 0.25,
+        "performance": 0.22,
         "accessibility": 0.78,
         "best-practices": 0.58,
         "seo": 0.92,
@@ -1573,7 +1625,7 @@
     "addeddate": "2022-07-20 23:31:19"
   },
   "server": "ia801404.us.archive.org",
-  "uniq": 46844196,
+  "uniq": 633937869,
   "workable_servers": [
     "ia801404.us.archive.org",
     "ia601404.us.archive.org"

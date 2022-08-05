@@ -1,5 +1,5 @@
 {
-  "created": 1659616183,
+  "created": 1659660382,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/23/items/kqed-2022",
@@ -4216,31 +4216,83 @@
       "sha1": "ebe30e3ca3f66edb0f635b1a567415aa7bab4143"
     },
     {
+      "name": "kqed-2022-08-04T05:31:05.390690-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659616268",
+      "size": "27533",
+      "md5": "a7ad24b870c345e20fc8ec19398d539f",
+      "crc32": "e220cbf8",
+      "sha1": "18e4332149cc238e6cc8cce7187462ac01af45c8",
+      "format": "JSON"
+    },
+    {
+      "name": "kqed-2022-08-04T05:31:05.390690-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659616270",
+      "size": "18249",
+      "md5": "4f5efba4de76789a769d4d3904d604f3",
+      "crc32": "63eb9c51",
+      "sha1": "9b913bec7c2bde061c2ccbfec7c8f3abd98cacfa",
+      "format": "JSON"
+    },
+    {
+      "name": "kqed-2022-08-04T05:31:05.390690-07:00.jpg",
+      "source": "original",
+      "mtime": "1659616266",
+      "size": "248362",
+      "md5": "1999d334917dc53148c3b6290ddcfc8f",
+      "crc32": "9565846d",
+      "sha1": "a519f3ee729babb4cc7e1f2fcc6cef7babfe57ff",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kqed-2022-08-04T05:31:05.390690-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659616271",
+      "size": "1432",
+      "md5": "920de7288679f764198d8bfc64264652",
+      "crc32": "71b6a16a",
+      "sha1": "2cdf12aac03671a6f163d0784375ec056c97d887",
+      "format": "JSON"
+    },
+    {
+      "name": "kqed-2022-08-04T05:31:05.390690-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kqed-2022-08-04T05:31:05.390690-07:00.jpg",
+      "mtime": "1659622154",
+      "size": "9256",
+      "md5": "c7eac306b0af670f6e317b8a07e4f5cf",
+      "crc32": "d258d89b",
+      "sha1": "a0748253212b593564b1d066fb081f6d0316cede"
+    },
+    {
       "name": "kqed-2022_archive.torrent",
       "source": "metadata",
-      "btih": "caa1dbb4e998e144f63e8569814cdb13db8b72bc",
-      "mtime": "1659573620",
-      "size": "84216",
-      "md5": "696c02e46383a07a6736eb32f3694698",
-      "crc32": "17ad4876",
-      "sha1": "1cdb5f9d72f307dbb109627ff82bf233b2ef1361",
+      "btih": "93ab5cd72b5c3368e97cb18fb11cdee15846a2e6",
+      "mtime": "1659622159",
+      "size": "85255",
+      "md5": "82e07e0eea026f3e2ec40d5f9e094a4c",
+      "crc32": "63e86d57",
+      "sha1": "b6388ee21368f76569b6e94af2bce38325762517",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kqed-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "76ad333be896afa46a803aabb7d6f888",
+      "md5": "af076e986b49a43297ecd25db3a47e71",
       "summation": "md5"
     },
     {
       "name": "kqed-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659573511",
-      "size": "483328",
-      "md5": "d5069841ef3b68eb3e483dd28e8b4d5a",
-      "crc32": "104d3147",
-      "sha1": "aecaca9b705ce770bda2e97ecfbb9ae9ccd5aaa7",
+      "mtime": "1659616275",
+      "size": "491520",
+      "md5": "a2f9f7b0f85c706bd5bf28a0da614034",
+      "crc32": "17db716f",
+      "sha1": "0ed8f83ba5b1ac459bbf4c4beb91ae6cca1293a6",
       "format": "Metadata"
     },
     {
@@ -4254,17 +4306,17 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 406,
-  "item_last_updated": 1659573620,
-  "item_size": 28113471,
+  "files_count": 411,
+  "item_last_updated": 1659622159,
+  "item_size": 28427534,
   "kqed-2022": [
     {
       "url": "https://www.kqed.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kqed_org-_-2022_08_04_00_07_40.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kqed_org-_-2022_08_04_00_07_40.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kqed_org-_-2022_08_04_12_03_28.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kqed_org-_-2022_08_04_12_03_28.report.json",
       "summary": {
-        "performance": 0.2,
+        "performance": 0.12,
         "accessibility": 0.88,
         "best-practices": 1,
         "seo": 0.86,
@@ -4274,10 +4326,10 @@
     {
       "url": "https://www.kqed.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kqed_org-_-2022_08_04_00_08_55.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kqed_org-_-2022_08_04_00_08_55.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kqed_org-_-2022_08_04_12_04_31.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kqed_org-_-2022_08_04_12_04_31.report.json",
       "summary": {
-        "performance": 0.13,
+        "performance": 0.16,
         "accessibility": 0.88,
         "best-practices": 1,
         "seo": 0.86,
@@ -4287,10 +4339,10 @@
     {
       "url": "https://www.kqed.org/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kqed_org-_-2022_08_04_00_08_19.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kqed_org-_-2022_08_04_00_08_19.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kqed_org-_-2022_08_04_12_04_01.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kqed_org-_-2022_08_04_12_04_01.report.json",
       "summary": {
-        "performance": 0.13,
+        "performance": 0.15,
         "accessibility": 0.88,
         "best-practices": 1,
         "seo": 0.86,
@@ -4314,10 +4366,10 @@
     "publicdate": "2022-06-24 22:56:44",
     "addeddate": "2022-06-24 22:56:44"
   },
-  "server": "ia601505.us.archive.org",
-  "uniq": 1151382578,
+  "server": "ia801505.us.archive.org",
+  "uniq": 702547956,
   "workable_servers": [
-    "ia601505.us.archive.org",
-    "ia801505.us.archive.org"
+    "ia801505.us.archive.org",
+    "ia601505.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1659616227,
+  "created": 1659649021,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/4/items/lajornada-2022",
@@ -19584,31 +19584,83 @@
       "sha1": "d9208907d309d2c5d0a148cd17e4bf8ec8a05a41"
     },
     {
+      "name": "lajornada-2022-08-04T07:33:08.283699-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659616392",
+      "size": "4490",
+      "md5": "1088c040c4a0a712eadd2e8363374fe8",
+      "crc32": "fa05455a",
+      "sha1": "a85a83eb5893a7b04d8e3f885d23b6bd7d5264d2",
+      "format": "JSON"
+    },
+    {
+      "name": "lajornada-2022-08-04T07:33:08.283699-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659616394",
+      "size": "8569",
+      "md5": "64b7c1ad7d10c5725e2dff3c89235e61",
+      "crc32": "c91245e3",
+      "sha1": "54793825274b55e7454ea14caa740db138eebb57",
+      "format": "JSON"
+    },
+    {
+      "name": "lajornada-2022-08-04T07:33:08.283699-05:00.jpg",
+      "source": "original",
+      "mtime": "1659616390",
+      "size": "125402",
+      "md5": "3d9d14b68ee61c8b5875e8be3999e78a",
+      "crc32": "533a5752",
+      "sha1": "3f72c3e01f9e6d4e3d8ce1613b7c5be06bd60a0a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lajornada-2022-08-04T07:33:08.283699-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659616395",
+      "size": "1495",
+      "md5": "0d1d84e04de2d9982ce922d290856ae1",
+      "crc32": "c5272869",
+      "sha1": "b0655dff51595cb2b97ff69bb648226c618be3d9",
+      "format": "JSON"
+    },
+    {
+      "name": "lajornada-2022-08-04T07:33:08.283699-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lajornada-2022-08-04T07:33:08.283699-05:00.jpg",
+      "mtime": "1659621549",
+      "size": "7788",
+      "md5": "af399640c73529b2dd49242a0f474be0",
+      "crc32": "036fcaf6",
+      "sha1": "7ddcbeecc8d4ebaaf08e626fc8f80704cdab17e6"
+    },
+    {
       "name": "lajornada-2022_archive.torrent",
       "source": "metadata",
-      "btih": "689cffd5ff8460e0f67bb364c235be0b025597b0",
-      "mtime": "1659573991",
-      "size": "397508",
-      "md5": "21ae3e8bf8a79e850934bdfc1ada7c73",
-      "crc32": "d0db614d",
-      "sha1": "56b40afc5d9635c72dd88e53143037b65ef73021",
+      "btih": "fcfda12af459c7a0958d88c875bc818b8afc874e",
+      "mtime": "1659621599",
+      "size": "398567",
+      "md5": "b68285d36728b6729946b3c5b0cdad9a",
+      "crc32": "bb6024ad",
+      "sha1": "90fcb3109a0d05c958bae71c29c4fc5dad054bcc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lajornada-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9d1afdf9bc39c4e29018d39681fd0ed3",
+      "md5": "686a91f4f69d900cde8a681471d99c0b",
       "summation": "md5"
     },
     {
       "name": "lajornada-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659573618",
-      "size": "2154496",
-      "md5": "72b8b13ced9132fec08bc2a348653d36",
-      "crc32": "62984503",
-      "sha1": "f22d9c1a4bba2223835c13ca0b7e9a2ca7adddaa",
+      "mtime": "1659616399",
+      "size": "2162688",
+      "md5": "dfbca3d647078811f9c6b1afc3dcf3a3",
+      "crc32": "b6b9989b",
+      "sha1": "7276dcc1805b107772b8f6acb29d423b0f3c5534",
       "format": "Metadata"
     },
     {
@@ -19622,50 +19674,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1870,
-  "item_last_updated": 1659573991,
-  "item_size": 200150779,
-  "lajornada-2022": [
-    {
-      "url": "https://www.jornada.com.mx/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_jornada_com_mx-_-2022_08_04_00_10_07.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_jornada_com_mx-_-2022_08_04_00_10_07.report.json",
-      "summary": {
-        "performance": 0.24,
-        "accessibility": 0.76,
-        "best-practices": 0.83,
-        "seo": 0.92,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.jornada.com.mx/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_jornada_com_mx-_-2022_08_04_00_10_48.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_jornada_com_mx-_-2022_08_04_00_10_48.report.json",
-      "summary": {
-        "performance": 0.38,
-        "accessibility": 0.76,
-        "best-practices": 0.92,
-        "seo": 0.92,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.jornada.com.mx/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_jornada_com_mx-_-2022_08_04_00_10_31.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_jornada_com_mx-_-2022_08_04_00_10_31.report.json",
-      "summary": {
-        "performance": 0.45,
-        "accessibility": 0.76,
-        "best-practices": 0.92,
-        "seo": 0.92,
-        "pwa": 0.4
-      }
-    }
-  ],
+  "files_count": 1875,
+  "item_last_updated": 1659621599,
+  "item_size": 200307774,
   "metadata": {
     "identifier": "lajornada-2022",
     "collection": [
@@ -19682,10 +19693,10 @@
     "publicdate": "2022-04-15 20:40:39",
     "addeddate": "2022-04-15 20:40:39"
   },
-  "server": "ia801408.us.archive.org",
-  "uniq": 1129546248,
+  "server": "ia601408.us.archive.org",
+  "uniq": 938910913,
   "workable_servers": [
-    "ia801408.us.archive.org",
-    "ia601408.us.archive.org"
+    "ia601408.us.archive.org",
+    "ia801408.us.archive.org"
   ]
 }

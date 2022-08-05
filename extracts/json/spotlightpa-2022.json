@@ -1,5 +1,5 @@
 {
-  "created": 1659616738,
+  "created": 1659660966,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/26/items/spotlightpa-2022",
@@ -2524,31 +2524,83 @@
       "sha1": "194bb746916c4be7ef584e46cd592a3ddcd43a53"
     },
     {
+      "name": "spotlightpa-2022-08-04T08:41:45.285068-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659616909",
+      "size": "33735",
+      "md5": "b28bed4164ece0fd715a5d9b741854f0",
+      "crc32": "0d1b46a4",
+      "sha1": "7d6a2fb527781c0762d57048e965a19b0ccd934b",
+      "format": "JSON"
+    },
+    {
+      "name": "spotlightpa-2022-08-04T08:41:45.285068-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659616910",
+      "size": "26894",
+      "md5": "4eb6701c66628d9e8d7e184fc4cb89cd",
+      "crc32": "703fed7b",
+      "sha1": "7f7363b0aeacc49a30e1de039f5670a84be36505",
+      "format": "JSON"
+    },
+    {
+      "name": "spotlightpa-2022-08-04T08:41:45.285068-04:00.jpg",
+      "source": "original",
+      "mtime": "1659616907",
+      "size": "263184",
+      "md5": "09f756df9e9ee5f846ea1b33dbe2bf3f",
+      "crc32": "0c3b057a",
+      "sha1": "ba1800bef19e01aaf65df08a64708440843cb97e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "spotlightpa-2022-08-04T08:41:45.285068-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659616912",
+      "size": "1494",
+      "md5": "fd4d7d6d02f58d87e5d418d031c77f30",
+      "crc32": "ef0ae1f3",
+      "sha1": "bc58294d7bd80efad7370adcd82260c85e50f306",
+      "format": "JSON"
+    },
+    {
+      "name": "spotlightpa-2022-08-04T08:41:45.285068-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "spotlightpa-2022-08-04T08:41:45.285068-04:00.jpg",
+      "mtime": "1659621974",
+      "size": "9715",
+      "md5": "e1d3c43a08fab58d6f74abb2f65923c6",
+      "crc32": "9340b925",
+      "sha1": "18f238be7dd2c231d8bc155bd429b69a4cf59d91"
+    },
+    {
       "name": "spotlightpa-2022_archive.torrent",
       "source": "metadata",
-      "btih": "802fe421a62efd1229bd812b7032015f3144c913",
-      "mtime": "1659582565",
-      "size": "52904",
-      "md5": "2fc9cd20fa4c5aad9e1954672de5a2ed",
-      "crc32": "27a24e78",
-      "sha1": "fcd13659d5e3c3b5b4b051b6a8271b338188a5c6",
+      "btih": "6b7dd7b5f5bb0a20d787c7df5d2157721bc587e4",
+      "mtime": "1659621980",
+      "size": "53958",
+      "md5": "f407f06724431d79cc98b82756672978",
+      "crc32": "2dea2ad4",
+      "sha1": "009de7ef2f888d63d00ddcefa24861949dae790d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "spotlightpa-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3cb7a31b491a5cf7e547624df7751f91",
+      "md5": "10025f449c0025fe98166267715d2329",
       "summation": "md5"
     },
     {
       "name": "spotlightpa-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659582506",
-      "size": "303104",
-      "md5": "c27b317f5e7843982559aeb9124e414f",
-      "crc32": "1d3b27ca",
-      "sha1": "51795da7be90ab080d59cfce8b7e51d6e176850b",
+      "mtime": "1659616915",
+      "size": "315392",
+      "md5": "2e44bc0ec6716dc0ad3d83a75ecc76a7",
+      "crc32": "e631cb22",
+      "sha1": "d671539316c5192f9b11a461f802d86e905630c7",
       "format": "Metadata"
     },
     {
@@ -2562,9 +2614,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 245,
-  "item_last_updated": 1659582565,
-  "item_size": 18932980,
+  "files_count": 250,
+  "item_last_updated": 1659621980,
+  "item_size": 19281344,
   "metadata": {
     "identifier": "spotlightpa-2022",
     "collection": [
@@ -2581,15 +2633,15 @@
     "publicdate": "2022-07-09 04:04:28",
     "addeddate": "2022-07-09 04:04:28"
   },
-  "server": "ia601503.us.archive.org",
+  "server": "ia801503.us.archive.org",
   "spotlightpa-2022": [
     {
       "url": "https://www.spotlightpa.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_spotlightpa_org-_-2022_08_04_01_44_33.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_spotlightpa_org-_-2022_08_04_01_44_33.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_spotlightpa_org-_-2022_08_04_12_18_35.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_spotlightpa_org-_-2022_08_04_12_18_35.report.json",
       "summary": {
-        "performance": 0.98,
+        "performance": 0.71,
         "accessibility": 0.85,
         "best-practices": 1,
         "seo": 0.77,
@@ -2599,10 +2651,10 @@
     {
       "url": "https://www.spotlightpa.org/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_spotlightpa_org-_-2022_08_04_01_44_44.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_spotlightpa_org-_-2022_08_04_01_44_44.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_spotlightpa_org-_-2022_08_04_12_19_00.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_spotlightpa_org-_-2022_08_04_12_19_00.report.json",
       "summary": {
-        "performance": 0.85,
+        "performance": 0.8,
         "accessibility": 0.85,
         "best-practices": 1,
         "seo": 0.77,
@@ -2612,10 +2664,10 @@
     {
       "url": "https://www.spotlightpa.org/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_spotlightpa_org-_-2022_08_04_01_44_22.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_spotlightpa_org-_-2022_08_04_01_44_22.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_spotlightpa_org-_-2022_08_04_12_18_49.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_spotlightpa_org-_-2022_08_04_12_18_49.report.json",
       "summary": {
-        "performance": 0.91,
+        "performance": 0.96,
         "accessibility": 0.85,
         "best-practices": 1,
         "seo": 0.77,
@@ -2623,9 +2675,9 @@
       }
     }
   ],
-  "uniq": 2103915405,
+  "uniq": 1843210098,
   "workable_servers": [
-    "ia601503.us.archive.org",
-    "ia801503.us.archive.org"
+    "ia801503.us.archive.org",
+    "ia601503.us.archive.org"
   ]
 }

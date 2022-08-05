@@ -1,47 +1,5 @@
 {
-  "6abc-2022": [
-    {
-      "url": "https://6abc.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/6abc_com-_-2022_08_04_10_41_59.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/6abc_com-_-2022_08_04_10_41_59.report.json",
-      "summary": {
-        "performance": 0.24,
-        "accessibility": 0.61,
-        "best-practices": 0.75,
-        "seo": 0.84,
-        "pwa": 0.5
-      }
-    },
-    {
-      "url": "https://6abc.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/6abc_com-_-2022_08_04_10_43_25.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/6abc_com-_-2022_08_04_10_43_25.report.json",
-      "summary": {
-        "performance": 0.24,
-        "accessibility": 0.61,
-        "best-practices": 0.75,
-        "seo": 0.84,
-        "pwa": 0.5
-      }
-    },
-    {
-      "url": "https://6abc.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/6abc_com-_-2022_08_04_10_42_45.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/6abc_com-_-2022_08_04_10_42_45.report.json",
-      "summary": {
-        "performance": 0.41,
-        "accessibility": 0.61,
-        "best-practices": 0.75,
-        "seo": 0.84,
-        "pwa": 0.5
-      }
-    }
-  ],
-  "conflict": 1659615628,
-  "created": 1659615628,
+  "created": 1659657505,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/26/items/6abc-2022",
@@ -3362,31 +3320,94 @@
       "format": "JSON"
     },
     {
+      "name": "6abc-2022-08-04T07:07:47.941172-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "6abc-2022-08-04T07:07:47.941172-04:00.jpg",
+      "mtime": "1659616543",
+      "size": "10614",
+      "md5": "e0ffc3b31c3cc150bb610d99f7ec8ca6",
+      "crc32": "81ffd296",
+      "sha1": "db2baf350be48608d3cea1f1173ab450d081e1f0"
+    },
+    {
+      "name": "6abc-2022-08-04T19:27:33.407251-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659655655",
+      "size": "24034",
+      "md5": "5dcfcbbeed01442225585ffa605a0adb",
+      "crc32": "40254a99",
+      "sha1": "140846d4105e39d7dfb927867ef0a11887c837f3",
+      "format": "JSON"
+    },
+    {
+      "name": "6abc-2022-08-04T19:27:33.407251-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659655657",
+      "size": "25401",
+      "md5": "74ef8f7840a35504e1f79221dd106621",
+      "crc32": "782dd1a6",
+      "sha1": "3456426a66ee6660c13f988a5a7e352bc0060d25",
+      "format": "JSON"
+    },
+    {
+      "name": "6abc-2022-08-04T19:27:33.407251-04:00.jpg",
+      "source": "original",
+      "mtime": "1659655654",
+      "size": "308406",
+      "md5": "f73e2a6b662be632160cbf765988002d",
+      "crc32": "aff44b5b",
+      "sha1": "219830c2f3d25b86a289d03a94a641139ae09aca",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "6abc-2022-08-04T19:27:33.407251-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659655660",
+      "size": "1405",
+      "md5": "0dc211a15dd606b47eb717625588fcbd",
+      "crc32": "d5877a6b",
+      "sha1": "a8faa28a04983d2f35c4f8335dbabf1bfe560eb9",
+      "format": "JSON"
+    },
+    {
+      "name": "6abc-2022-08-04T19:27:33.407251-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "6abc-2022-08-04T19:27:33.407251-04:00.jpg",
+      "mtime": "1659657451",
+      "size": "10113",
+      "md5": "ab66a4dc0f737369897575174aef2ca8",
+      "crc32": "fc8a952f",
+      "sha1": "53bc2bcf7a5b98ab9d04218deeb03639b429b771"
+    },
+    {
       "name": "6abc-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6654fa33460fdefb1758ce39b4f3f644f66a1c0c",
-      "mtime": "1659611317",
-      "size": "67349",
-      "md5": "9b5e67aa499784775f2dd4269eae9113",
-      "crc32": "9689e768",
-      "sha1": "237b064a1a2aa96b41ff9d1fde5e950967c1541e",
+      "btih": "6c8182c581853c38f2222a062dd6d6e89d076fe5",
+      "mtime": "1659657459",
+      "size": "68590",
+      "md5": "994c2612e7e5ebdda46c922ebdc413b7",
+      "crc32": "8929bb62",
+      "sha1": "6b078c3b789b2c2e5063c37ac5bf1d9ca8cdc99d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "6abc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dab82e287320a3731675efee4ddc07b3",
+      "md5": "2cac37a58cb26036ec3d0eccf35d3161",
       "summation": "md5"
     },
     {
       "name": "6abc-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659611279",
-      "size": "393216",
-      "md5": "4d377947b0124a06ec03d87d6e420d1c",
-      "crc32": "a309eda7",
-      "sha1": "fd39dabbf4da8f61d8c387af0283c69a8bf8c2bf",
+      "mtime": "1659655663",
+      "size": "397312",
+      "md5": "e7a2c5263cd9db2c87e988bda38d091e",
+      "crc32": "1b57a7f9",
+      "sha1": "254e3bdfe2a31f280c495d65c200a1107a41d0e2",
       "format": "Metadata"
     },
     {
@@ -3411,9 +3432,9 @@
       "rotation": "0"
     }
   ],
-  "files_count": 322,
-  "item_last_updated": 1659611317,
-  "item_size": 31235495,
+  "files_count": 328,
+  "item_last_updated": 1659657459,
+  "item_size": 31620805,
   "metadata": {
     "identifier": "6abc-2022",
     "collection": [
@@ -3430,21 +3451,10 @@
     "publicdate": "2022-07-03 15:52:54",
     "addeddate": "2022-07-03 15:52:54"
   },
-  "pending_tasks": true,
   "server": "ia801504.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3352495613,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 151428657,
+  "uniq": 480218409,
   "workable_servers": [
-    "ia801504.us.archive.org"
+    "ia801504.us.archive.org",
+    "ia601504.us.archive.org"
   ]
 }

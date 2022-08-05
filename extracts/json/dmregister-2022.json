@@ -1,49 +1,8 @@
 {
-  "created": 1659615900,
+  "created": 1659658391,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/17/items/dmregister-2022",
-  "dmregister-2022": [
-    {
-      "url": "https://www.desmoinesregister.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_desmoinesregister_com-_-2022_08_04_10_52_39.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_desmoinesregister_com-_-2022_08_04_10_52_39.report.json",
-      "summary": {
-        "performance": 0.85,
-        "accessibility": 0.88,
-        "best-practices": 0.92,
-        "seo": 0.93,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://www.desmoinesregister.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_desmoinesregister_com-_-2022_08_04_10_53_23.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_desmoinesregister_com-_-2022_08_04_10_53_23.report.json",
-      "summary": {
-        "performance": 0.88,
-        "accessibility": 0.81,
-        "best-practices": 0.92,
-        "seo": 0.86,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://www.desmoinesregister.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_desmoinesregister_com-_-2022_08_04_10_51_55.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_desmoinesregister_com-_-2022_08_04_10_51_55.report.json",
-      "summary": {
-        "performance": 0.87,
-        "accessibility": 0.92,
-        "best-practices": 0.92,
-        "seo": 0.93,
-        "pwa": 0.3
-      }
-    }
-  ],
   "files": [
     {
       "name": "DMRegister-2022-03-24T22:34:29.846870-05:00.jpg",
@@ -9300,31 +9259,94 @@
       "format": "JSON"
     },
     {
+      "name": "dmregister-2022-08-04T06:15:05.830301-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dmregister-2022-08-04T06:15:05.830301-05:00.jpg",
+      "mtime": "1659617171",
+      "size": "9131",
+      "md5": "47d85d4f645da7733da98541f8eb6feb",
+      "crc32": "ba0a547b",
+      "sha1": "599a8c10c8137f693786eef2806b92533e9e6195"
+    },
+    {
+      "name": "dmregister-2022-08-04T18:34:49.969052-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659656098",
+      "size": "21422",
+      "md5": "e784504ccb3e93602262d045b6df99f2",
+      "crc32": "d25c5076",
+      "sha1": "d4e1eed2990891ab62faceb58f4eb8640ec94155",
+      "format": "JSON"
+    },
+    {
+      "name": "dmregister-2022-08-04T18:34:49.969052-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659656099",
+      "size": "37568",
+      "md5": "3d5380dd910958985a833cb71bc76e03",
+      "crc32": "d4dd78be",
+      "sha1": "538f0a78890e78783290ae9729f1e2ff1fb9ebd6",
+      "format": "JSON"
+    },
+    {
+      "name": "dmregister-2022-08-04T18:34:49.969052-05:00.jpg",
+      "source": "original",
+      "mtime": "1659656096",
+      "size": "276819",
+      "md5": "1eab327f8abd9dabff9829b87ff190fd",
+      "crc32": "0f517b6b",
+      "sha1": "89fc346505a947b13af1432ad6c908bcca3d28ee",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dmregister-2022-08-04T18:34:49.969052-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659656102",
+      "size": "1558",
+      "md5": "18a6a731fd81b5ef522476f8e5cbfa9e",
+      "crc32": "812da406",
+      "sha1": "1c052468c97cf70c58b1e8c45f44ea1e91e08ca3",
+      "format": "JSON"
+    },
+    {
+      "name": "dmregister-2022-08-04T18:34:49.969052-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dmregister-2022-08-04T18:34:49.969052-05:00.jpg",
+      "mtime": "1659658328",
+      "size": "9439",
+      "md5": "8e06229035b287120106cc7a10541e5a",
+      "crc32": "d3e897cd",
+      "sha1": "c8110322540d64d0e3da10c847bbea6b16cedf2c"
+    },
+    {
       "name": "dmregister-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b7cc83f18ddd7f2a2e11a46284d24456c67d6136",
-      "mtime": "1659611762",
-      "size": "188689",
-      "md5": "29a9e7f5fa68c800e5b6cce84abf6d76",
-      "crc32": "f7d53017",
-      "sha1": "ded641f1de413d4831fab7c705f3ad534a51030b",
+      "btih": "b58db46eb77482600d195e66bce2d51bccff9d5e",
+      "mtime": "1659658337",
+      "size": "189944",
+      "md5": "2145cec55090b4a8fd5b7e27b32dfa8a",
+      "crc32": "4b4aee95",
+      "sha1": "66e0734e73c8391b6a6f8c08f8d98dfbeaf9c5fc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dmregister-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1b86296ccdbb2800b315b51a2ea95dc2",
+      "md5": "c39561f632d8fbca215a2585bbae2010",
       "summation": "md5"
     },
     {
       "name": "dmregister-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659611719",
-      "size": "1032192",
-      "md5": "f3d2a51cc4f5c6db465b20bb19b51b39",
-      "crc32": "86bcec1a",
-      "sha1": "e6f51c32afe88b32755f9fcf22dca3dc71566b06",
+      "mtime": "1659656106",
+      "size": "1040384",
+      "md5": "634d1a7b06caf3e3d3a1932e54225121",
+      "crc32": "572c8701",
+      "sha1": "a23684af76697cfad85c7c3809e23cdf392b77bb",
       "format": "Metadata"
     },
     {
@@ -9338,9 +9360,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 886,
-  "item_last_updated": 1659611762,
-  "item_size": 69968383,
+  "files_count": 892,
+  "item_last_updated": 1659658337,
+  "item_size": 70333767,
   "metadata": {
     "identifier": "dmregister-2022",
     "collection": [
@@ -9357,21 +9379,10 @@
     "publicdate": "2022-03-25 03:35:06",
     "addeddate": "2022-03-25 03:35:06"
   },
-  "pending_tasks": true,
   "server": "ia902509.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3352500027,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 230457749,
+  "uniq": 1659545887,
   "workable_servers": [
-    "ia902509.us.archive.org"
+    "ia902509.us.archive.org",
+    "ia802509.us.archive.org"
   ]
 }

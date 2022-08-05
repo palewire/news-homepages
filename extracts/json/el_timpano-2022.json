@@ -1,5 +1,5 @@
 {
-  "created": 1659583478,
+  "created": 1659629520,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/8/items/el_timpano-2022",
@@ -2850,31 +2850,83 @@
       "sha1": "da26ba0d0bbc7613351db55edc3d4cb100b1ab1f"
     },
     {
+      "name": "el_timpano-2022-08-04T08:19:33.214898-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659626376",
+      "size": "10786",
+      "md5": "bc342beafd4c311b9f4d5231e329475b",
+      "crc32": "c22e932b",
+      "sha1": "6b4853be6124f9d677df7fbc886370724fbb296c",
+      "format": "JSON"
+    },
+    {
+      "name": "el_timpano-2022-08-04T08:19:33.214898-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659626378",
+      "size": "9135",
+      "md5": "298c250b32b2c5418862b409f23de45b",
+      "crc32": "845304a7",
+      "sha1": "7dd10da6c4b36cb9ee68027ff0f808931c73d41c",
+      "format": "JSON"
+    },
+    {
+      "name": "el_timpano-2022-08-04T08:19:33.214898-07:00.jpg",
+      "source": "original",
+      "mtime": "1659626374",
+      "size": "220826",
+      "md5": "dbebcaf94a52411f23fcf6ea3e01d97a",
+      "crc32": "560df125",
+      "sha1": "74735d82fd212f175e659564aaa23f1191473855",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "el_timpano-2022-08-04T08:19:33.214898-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659626379",
+      "size": "1477",
+      "md5": "1f2381030f8795153ed790be08244f4a",
+      "crc32": "15698bcb",
+      "sha1": "3971531ef335065f1b4b8fe9f9f88bb32f59ea36",
+      "format": "JSON"
+    },
+    {
+      "name": "el_timpano-2022-08-04T08:19:33.214898-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "el_timpano-2022-08-04T08:19:33.214898-07:00.jpg",
+      "mtime": "1659629501",
+      "size": "8378",
+      "md5": "f755f5ba49b11c4b15c7a561d087e840",
+      "crc32": "720ef48c",
+      "sha1": "52373e157a1f44f4fe0e76fb7fb2831ea59f2054"
+    },
+    {
       "name": "el_timpano-2022_archive.torrent",
       "source": "metadata",
-      "btih": "59c849a49e366abb975fb1bd325c917ec62ceee0",
-      "mtime": "1659583400",
-      "size": "58951",
-      "md5": "0c643256f9814d7c37ba705a751b10a0",
-      "crc32": "56e903b9",
-      "sha1": "4905b5551ccbd917db9d8017f248db04f2bfb9bf",
+      "btih": "dd8c0536c64c6d4e61270b9bc635b54f7f52eb86",
+      "mtime": "1659629512",
+      "size": "59999",
+      "md5": "e8d88afa61d90cff3a4a2cb662b16c3e",
+      "crc32": "927028fd",
+      "sha1": "25680e406d6050222cc4d5aa54e7a8878422156d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "el_timpano-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f5e0add37e9fb48818fde777d8573eb4",
+      "md5": "d85e3eb0e5e89132398058685a5c2806",
       "summation": "md5"
     },
     {
       "name": "el_timpano-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659583138",
-      "size": "344064",
-      "md5": "ac0fc43151d74e9490f5513d1f583896",
-      "crc32": "bce93b6a",
-      "sha1": "0b002541e60b4d148f9024838e1d6dd6de5a5db4",
+      "mtime": "1659626385",
+      "size": "348160",
+      "md5": "7b7333ed6a889bec73df462a3adfe3b9",
+      "crc32": "12627e5c",
+      "sha1": "942e2299d0c7bc081638626e047916192af2f9ef",
       "format": "Metadata"
     },
     {
@@ -2888,9 +2940,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 276,
-  "item_last_updated": 1659583400,
-  "item_size": 15995378,
+  "files_count": 281,
+  "item_last_updated": 1659629512,
+  "item_size": 16251124,
   "metadata": {
     "identifier": "el_timpano-2022",
     "collection": [
@@ -2907,10 +2959,10 @@
     "publicdate": "2022-07-09 03:58:15",
     "addeddate": "2022-07-09 03:58:15"
   },
-  "server": "ia802509.us.archive.org",
-  "uniq": 831151582,
+  "server": "ia902509.us.archive.org",
+  "uniq": 1210082064,
   "workable_servers": [
-    "ia802509.us.archive.org",
-    "ia902509.us.archive.org"
+    "ia902509.us.archive.org",
+    "ia802509.us.archive.org"
   ]
 }

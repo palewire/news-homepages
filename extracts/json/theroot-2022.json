@@ -1,5 +1,5 @@
 {
-  "created": 1659616900,
+  "created": 1659658219,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/11/items/theroot-2022",
@@ -162,31 +162,83 @@
       "sha1": "fcd3c5fef5b11e5540912407d3e28d71edc5bb83"
     },
     {
+      "name": "theroot-2022-08-04T09:56:28.034060-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659621391",
+      "size": "40528",
+      "md5": "2f730241ffc30f9dd6b8ba24377aa44b",
+      "crc32": "9d454552",
+      "sha1": "eeb7763af3e473c0749a07159f4ef787450543d2",
+      "format": "JSON"
+    },
+    {
+      "name": "theroot-2022-08-04T09:56:28.034060-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659621393",
+      "size": "26201",
+      "md5": "8ee55d812ab1a75e9bcfb4f454f64475",
+      "crc32": "62015c5c",
+      "sha1": "5640ff33895a6f757f7a631d859c282e0f55cfb9",
+      "format": "JSON"
+    },
+    {
+      "name": "theroot-2022-08-04T09:56:28.034060-04:00.jpg",
+      "source": "original",
+      "mtime": "1659621390",
+      "size": "287269",
+      "md5": "9f0d75863ac794dcbf2d78ae1007ea5a",
+      "crc32": "14a2e2fb",
+      "sha1": "52441157d4c38f3b5ff6cc1501c7506aab4c4fe6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theroot-2022-08-04T09:56:28.034060-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659621395",
+      "size": "1468",
+      "md5": "0654bc4fc4882e4c18c10a6e475bd314",
+      "crc32": "f8644eba",
+      "sha1": "3ce4a62b63d64ed809182f6ec3505409afd55fa2",
+      "format": "JSON"
+    },
+    {
+      "name": "theroot-2022-08-04T09:56:28.034060-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theroot-2022-08-04T09:56:28.034060-04:00.jpg",
+      "mtime": "1659624891",
+      "size": "11031",
+      "md5": "c83a4c0fcdef59b58997a197d8419450",
+      "crc32": "5a3ea649",
+      "sha1": "0ad7964de8219b6256621240d72171c628d69661"
+    },
+    {
       "name": "theroot-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6ceb2ac022192d56c00c17ce9670698e3b4fc9bc",
-      "mtime": "1659582896",
-      "size": "4549",
-      "md5": "4c0a9c74b3339751d8688374bc3bb199",
-      "crc32": "0bcb7b68",
-      "sha1": "65d30ce1f6b907b3917870a19b29bad0e0f8c28d",
+      "btih": "becc2e447ff46da773c3d4a2cda6b6d80e5df1d3",
+      "mtime": "1659624895",
+      "size": "5584",
+      "md5": "badbf51557950f1df1b26ef515d187b5",
+      "crc32": "b9437214",
+      "sha1": "95ebad7c36ee36dccba02ea9f6e387743ed59634",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theroot-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3c498ee0ffd5da880e72640af076cd09",
+      "md5": "f21b23cd342caa63e96b0fca4834d23f",
       "summation": "md5"
     },
     {
       "name": "theroot-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659582613",
-      "size": "36864",
-      "md5": "d09c733dc09e468e108786bc959cc12a",
-      "crc32": "2d7f2abf",
-      "sha1": "b85955a5a7803dbd64cb7a1aa3f8be05e099434e",
+      "mtime": "1659621398",
+      "size": "40960",
+      "md5": "86b03ef9b088ccc30c9bfbe3fbfb2538",
+      "crc32": "c26607b3",
+      "sha1": "9b5e1f9753b38293743d7deeb975c931b92c2fec",
       "format": "Metadata"
     },
     {
@@ -200,9 +252,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 19,
-  "item_last_updated": 1659582896,
-  "item_size": 1063796,
+  "files_count": 24,
+  "item_last_updated": 1659624895,
+  "item_size": 1435424,
   "metadata": {
     "identifier": "theroot-2022",
     "collection": [
@@ -219,51 +271,10 @@
     "publicdate": "2022-08-03 01:58:21",
     "addeddate": "2022-08-03 01:58:21"
   },
-  "server": "ia802508.us.archive.org",
-  "theroot-2022": [
-    {
-      "url": "https://www.theroot.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theroot_com-_-2022_08_04_01_47_34.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theroot_com-_-2022_08_04_01_47_34.report.json",
-      "summary": {
-        "performance": 0.33,
-        "accessibility": 0.95,
-        "best-practices": 0.83,
-        "seo": 0.89,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.theroot.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theroot_com-_-2022_08_04_01_48_46.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theroot_com-_-2022_08_04_01_48_46.report.json",
-      "summary": {
-        "performance": 0.37,
-        "accessibility": 0.95,
-        "best-practices": 0.83,
-        "seo": 0.89,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.theroot.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theroot_com-_-2022_08_04_01_48_10.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_theroot_com-_-2022_08_04_01_48_10.report.json",
-      "summary": {
-        "performance": 0.32,
-        "accessibility": 0.95,
-        "best-practices": 0.83,
-        "seo": 0.89,
-        "pwa": 0.4
-      }
-    }
-  ],
-  "uniq": 1090308787,
+  "server": "ia902508.us.archive.org",
+  "uniq": 772540571,
   "workable_servers": [
-    "ia802508.us.archive.org",
-    "ia902508.us.archive.org"
+    "ia902508.us.archive.org",
+    "ia802508.us.archive.org"
   ]
 }
