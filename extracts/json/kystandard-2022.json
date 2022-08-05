@@ -1,5 +1,5 @@
 {
-  "created": 1659573966,
+  "created": 1659660401,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/3/items/kystandard-2022",
@@ -380,31 +380,83 @@
       "sha1": "3197a626d3ec3f89f5ff56cc02febe8a29c61201"
     },
     {
+      "name": "kystandard-2022-08-04T08:32:14.776461-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659616337",
+      "size": "20977",
+      "md5": "95a8790a985e1ff0b02cd2aad214fa11",
+      "crc32": "3b6d5a50",
+      "sha1": "b20469078e7fdede09a5db5dd6c3e3c46d9b10c7",
+      "format": "JSON"
+    },
+    {
+      "name": "kystandard-2022-08-04T08:32:14.776461-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659616339",
+      "size": "17677",
+      "md5": "4473294c6df20313d8f220f6c6b7883c",
+      "crc32": "9a989131",
+      "sha1": "fab0f002abcde410638cb9a66aaf56e8ea8d2909",
+      "format": "JSON"
+    },
+    {
+      "name": "kystandard-2022-08-04T08:32:14.776461-04:00.jpg",
+      "source": "original",
+      "mtime": "1659616336",
+      "size": "263380",
+      "md5": "de117cffffd9761aa9af5ceb4157a91d",
+      "crc32": "cb0cadf7",
+      "sha1": "977943fcbedc824cb781c698fa17ba3a72a8bd02",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kystandard-2022-08-04T08:32:14.776461-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659616340",
+      "size": "1630",
+      "md5": "f745cc944eb975c762d6e5b16ed65596",
+      "crc32": "b52b53fd",
+      "sha1": "d97ca36d161d661b7e02b0f88e491a7d3339a727",
+      "format": "JSON"
+    },
+    {
+      "name": "kystandard-2022-08-04T08:32:14.776461-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kystandard-2022-08-04T08:32:14.776461-04:00.jpg",
+      "mtime": "1659621771",
+      "size": "8237",
+      "md5": "deb14ae9c19cc3a6b6685ec6a01164cd",
+      "crc32": "f5700e63",
+      "sha1": "ea8f1d9466f63f853ab1453f6a085f3d61446e34"
+    },
+    {
       "name": "kystandard-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0e27de02c761e357ff445d328601138c6ccb4f38",
-      "mtime": "1659573678",
-      "size": "9044",
-      "md5": "7464abf229a9d9bb6c55e437c9e32644",
-      "crc32": "90bafc2b",
-      "sha1": "63e67d138f0da32fb515d636b55a65695694e72c",
+      "btih": "2aa133f49b5b24aba5e16ef27688c0f6809140a4",
+      "mtime": "1659621778",
+      "size": "10114",
+      "md5": "752428a675d7a19aae490a0fc56bd8a9",
+      "crc32": "96a07d00",
+      "sha1": "44b06eb4a131b6e06562d1b5c1cff510b70abca6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kystandard-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e2d8cecd5a4c710934c104598601a916",
+      "md5": "0aaac39b07250aca34f7084ba9eb6d06",
       "summation": "md5"
     },
     {
       "name": "kystandard-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659573585",
-      "size": "61440",
-      "md5": "d66b94a067ae7a95aee765aeafbb26ea",
-      "crc32": "c8256b4f",
-      "sha1": "407cd4d3f35b085ddb69ec4d1fe099e1f11d9ca3",
+      "mtime": "1659616344",
+      "size": "65536",
+      "md5": "99eab022ede270d741378e4bc02307e9",
+      "crc32": "2e6f4688",
+      "sha1": "c2ebec54732576335556620576fa024537c01315",
       "format": "Metadata"
     },
     {
@@ -418,9 +470,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 40,
-  "item_last_updated": 1659573678,
-  "item_size": 2093261,
+  "files_count": 45,
+  "item_last_updated": 1659621778,
+  "item_size": 2410328,
+  "kystandard-2022": [
+    {
+      "url": "https://www.kystandard.com/news/todaysnews",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kystandard_com-_news_todaysnews-2022_08_04_12_05_03.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kystandard_com-_news_todaysnews-2022_08_04_12_05_03.report.json",
+      "summary": {
+        "performance": 0.25,
+        "accessibility": 0.51,
+        "best-practices": 0.67,
+        "seo": 0.74,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.kystandard.com/news/todaysnews",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kystandard_com-_news_todaysnews-2022_08_04_12_05_32.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kystandard_com-_news_todaysnews-2022_08_04_12_05_32.report.json",
+      "summary": {
+        "performance": 0.62,
+        "accessibility": 0.51,
+        "best-practices": 0.67,
+        "seo": 0.74,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.kystandard.com/news/todaysnews",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kystandard_com-_news_todaysnews-2022_08_04_12_05_17.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_kystandard_com-_news_todaysnews-2022_08_04_12_05_17.report.json",
+      "summary": {
+        "performance": 0.53,
+        "accessibility": 0.74,
+        "best-practices": 0.67,
+        "seo": 0.74,
+        "pwa": 0.4
+      }
+    }
+  ],
   "metadata": {
     "identifier": "kystandard-2022",
     "collection": [
@@ -437,10 +530,10 @@
     "publicdate": "2022-08-01 06:42:01",
     "addeddate": "2022-08-01 06:42:01"
   },
-  "server": "ia601504.us.archive.org",
-  "uniq": 2059105886,
+  "server": "ia801504.us.archive.org",
+  "uniq": 333666647,
   "workable_servers": [
-    "ia601504.us.archive.org",
-    "ia801504.us.archive.org"
+    "ia801504.us.archive.org",
+    "ia601504.us.archive.org"
   ]
 }

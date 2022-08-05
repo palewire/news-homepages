@@ -1,5 +1,5 @@
 {
-  "created": 1659617042,
+  "created": 1659661208,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/18/items/weatherchannel-2022",
@@ -952,31 +952,83 @@
       "sha1": "c1d2d164f66b903e2fd19efce1e9dce2525dbd78"
     },
     {
+      "name": "weatherchannel-2022-08-04T13:09:24.916815-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659632968",
+      "size": "9663",
+      "md5": "c4b7a6286f681f5ae71998dcfe55e9cb",
+      "crc32": "e130c2a1",
+      "sha1": "73005b81dd6c8f1e5172409aaf61de127586b70e",
+      "format": "JSON"
+    },
+    {
+      "name": "weatherchannel-2022-08-04T13:09:24.916815-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659632970",
+      "size": "20606",
+      "md5": "ec24702ba4a879ac88339e947cf378ae",
+      "crc32": "1bf39ec4",
+      "sha1": "f0a6366e85265ef2415946ba00bef8dec07893f6",
+      "format": "JSON"
+    },
+    {
+      "name": "weatherchannel-2022-08-04T13:09:24.916815-04:00.jpg",
+      "source": "original",
+      "mtime": "1659632966",
+      "size": "287262",
+      "md5": "8d1d4126dab56bff530474cb85319fce",
+      "crc32": "f89792db",
+      "sha1": "c626fdd932179075b3fc89ebce66edc6136f4bbc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "weatherchannel-2022-08-04T13:09:24.916815-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659632971",
+      "size": "1432",
+      "md5": "3c1f1b64e1e6537947aef21059e7fae3",
+      "crc32": "c09ea2c6",
+      "sha1": "c239b1590287161dcf691921999416c7dc9bdb25",
+      "format": "JSON"
+    },
+    {
+      "name": "weatherchannel-2022-08-04T13:09:24.916815-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "weatherchannel-2022-08-04T13:09:24.916815-04:00.jpg",
+      "mtime": "1659637875",
+      "size": "10492",
+      "md5": "1962981cf1b11f3d3161e619495fdbbe",
+      "crc32": "16cef4b1",
+      "sha1": "66e3ac1c208d6da5cf452d82dbc31dbd07f3d42f"
+    },
+    {
       "name": "weatherchannel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "93c78e5d57d0f4e577da1f796b7a094341a17dee",
-      "mtime": "1659588435",
-      "size": "21143",
-      "md5": "81616e2877c666c9d5d05afe65ab4843",
-      "crc32": "7d77413c",
-      "sha1": "496461d5dcedf47f73e30c652191e4503f0144ec",
+      "btih": "0587d1b9600118060f713461965b12d2b3b4744d",
+      "mtime": "1659637883",
+      "size": "22232",
+      "md5": "5955520e23e4ba7901cddcde7b293555",
+      "crc32": "6e9fec4d",
+      "sha1": "f6c74052bd66ae3b9e39eb815835cb9b0e42ccc9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "weatherchannel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5a7eac3a54d5f0fd3f8273b881213b88",
+      "md5": "c04fbb79befcd7a29e70b849e7592d48",
       "summation": "md5"
     },
     {
       "name": "weatherchannel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659588123",
-      "size": "135168",
-      "md5": "9fd59ba9b0de1ac2a3a21b36eb375580",
-      "crc32": "3e826a9d",
-      "sha1": "9dea85c017c4b84c3571588644fced7ae71d53e2",
+      "mtime": "1659632974",
+      "size": "143360",
+      "md5": "c7d07e555f044f6a504034a72df82e1e",
+      "crc32": "a82b0b9d",
+      "sha1": "48ffffacbb9bf0b5d9c02ef7d16bafef0828e0e2",
       "format": "Metadata"
     },
     {
@@ -990,9 +1042,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 95,
-  "item_last_updated": 1659588435,
-  "item_size": 6175190,
+  "files_count": 100,
+  "item_last_updated": 1659637883,
+  "item_size": 6513926,
   "metadata": {
     "identifier": "weatherchannel-2022",
     "collection": [
@@ -1009,14 +1061,14 @@
     "publicdate": "2022-07-26 15:49:58",
     "addeddate": "2022-07-26 15:49:58"
   },
-  "server": "ia601409.us.archive.org",
-  "uniq": 428793151,
+  "server": "ia801409.us.archive.org",
+  "uniq": 1359076300,
   "weatherchannel-2022": [
     {
       "url": "https://weather.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/weather_com-_-2022_08_04_04_20_53.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/weather_com-_-2022_08_04_04_20_53.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/weather_com-_-2022_08_04_16_31_17.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/weather_com-_-2022_08_04_16_31_17.report.json",
       "summary": {
         "performance": 0.25,
         "accessibility": 0.83,
@@ -1028,10 +1080,10 @@
     {
       "url": "https://weather.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/weather_com-_-2022_08_04_04_21_19.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/weather_com-_-2022_08_04_04_21_19.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/weather_com-_-2022_08_04_16_32_08.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/weather_com-_-2022_08_04_16_32_08.report.json",
       "summary": {
-        "performance": 0.2,
+        "performance": 0.26,
         "accessibility": 0.83,
         "best-practices": 0.92,
         "seo": 0.86,
@@ -1041,10 +1093,10 @@
     {
       "url": "https://weather.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/weather_com-_-2022_08_04_04_20_22.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/weather_com-_-2022_08_04_04_20_22.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/weather_com-_-2022_08_04_16_31_42.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/weather_com-_-2022_08_04_16_31_42.report.json",
       "summary": {
-        "performance": 0.19,
+        "performance": 0.21,
         "accessibility": 0.83,
         "best-practices": 0.92,
         "seo": 0.86,
@@ -1053,7 +1105,7 @@
     }
   ],
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia801409.us.archive.org",
+    "ia601409.us.archive.org"
   ]
 }

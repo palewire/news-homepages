@@ -1,5 +1,5 @@
 {
-  "created": 1659616639,
+  "created": 1659660824,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/24/items/reviewjournal-2022",
@@ -2830,31 +2830,73 @@
       "sha1": "2bedf56218d791e3e61ae7de79d0a171d137c4f7"
     },
     {
+      "name": "reviewjournal-2022-08-04T10:01:17.638872-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659632483",
+      "size": "55291",
+      "md5": "abde748d3f2702379c368436da8db187",
+      "crc32": "f192e61c",
+      "sha1": "f3c5a8ccbc90fa3a4eeb112672ce7a75364b2755",
+      "format": "JSON"
+    },
+    {
+      "name": "reviewjournal-2022-08-04T10:01:17.638872-07:00.jpg",
+      "source": "original",
+      "mtime": "1659632482",
+      "size": "302039",
+      "md5": "8110c97b5ef1a2386c45539cb5c91082",
+      "crc32": "cd3d0e75",
+      "sha1": "dc408cae591acb1d83910f380f9672e8a8f1d020",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reviewjournal-2022-08-04T10:01:17.638872-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659632485",
+      "size": "1522",
+      "md5": "3a0c887c8aba586df184d5d44fddc155",
+      "crc32": "7d5bd441",
+      "sha1": "8755e20a2219956a7e249a6ebc30fee9153f9bf6",
+      "format": "JSON"
+    },
+    {
+      "name": "reviewjournal-2022-08-04T10:01:17.638872-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reviewjournal-2022-08-04T10:01:17.638872-07:00.jpg",
+      "mtime": "1659637577",
+      "size": "9690",
+      "md5": "1d1ed89eceaabc6d7a58773da297f286",
+      "crc32": "7eaf8e99",
+      "sha1": "0512c1dd761d1b535b97a1b221695490334d173d"
+    },
+    {
       "name": "reviewjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cc88cbbb84026720b3433d85bbe4a4fc21030c69",
-      "mtime": "1659588501",
-      "size": "59825",
-      "md5": "732cb3e319a46298d57187b144d5040f",
-      "crc32": "9f180be7",
-      "sha1": "3dad58a9fb542da8b6fb5308e944b6464b489e18",
+      "btih": "ef4639e9cbd8a0bcacbea90b164ccc191288d7dc",
+      "mtime": "1659637591",
+      "size": "60670",
+      "md5": "d66b00a03f65de9bf508493f62870661",
+      "crc32": "73dd62ad",
+      "sha1": "2186dfc09b5edfeb4757648e62df1be415686b94",
       "format": "Archive BitTorrent"
     },
     {
       "name": "reviewjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4aa5f19d29434e0449ab54d2c4eba026",
+      "md5": "44b53fafedf0204d68960a49091fe686",
       "summation": "md5"
     },
     {
       "name": "reviewjournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659587738",
-      "size": "339968",
-      "md5": "adab168a46fb458704be97befad3d9fd",
-      "crc32": "1cfcd10e",
-      "sha1": "86133d9f4a5759c1dc3c2c89a8c021e84ffd85dc",
+      "mtime": "1659632493",
+      "size": "344064",
+      "md5": "d18e5ecb39fca00808506b1e6f35dd6e",
+      "crc32": "1fbe75e9",
+      "sha1": "1888a6aa300289b7ed53161dc880766df41fb273",
       "format": "Metadata"
     },
     {
@@ -2868,9 +2910,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 274,
-  "item_last_updated": 1659588501,
-  "item_size": 25894199,
+  "files_count": 278,
+  "item_last_updated": 1659637591,
+  "item_size": 26267682,
   "metadata": {
     "identifier": "reviewjournal-2022",
     "collection": [
@@ -2891,10 +2933,10 @@
     {
       "url": "https://www.reviewjournal.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_reviewjournal_com-_-2022_08_04_04_09_23.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_reviewjournal_com-_-2022_08_04_04_09_23.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_reviewjournal_com-_-2022_08_04_16_18_59.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_reviewjournal_com-_-2022_08_04_16_18_59.report.json",
       "summary": {
-        "performance": 0.1,
+        "performance": 0.05,
         "accessibility": 0.87,
         "best-practices": 0.75,
         "seo": 0.81,
@@ -2904,10 +2946,10 @@
     {
       "url": "https://www.reviewjournal.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_reviewjournal_com-_-2022_08_04_04_09_57.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_reviewjournal_com-_-2022_08_04_04_09_57.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_reviewjournal_com-_-2022_08_04_16_20_11.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_reviewjournal_com-_-2022_08_04_16_20_11.report.json",
       "summary": {
-        "performance": 0.09,
+        "performance": 0.08,
         "accessibility": 0.87,
         "best-practices": 0.75,
         "seo": 0.81,
@@ -2917,10 +2959,10 @@
     {
       "url": "https://www.reviewjournal.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_reviewjournal_com-_-2022_08_04_04_10_24.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_reviewjournal_com-_-2022_08_04_04_10_24.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_reviewjournal_com-_-2022_08_04_16_22_02.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_reviewjournal_com-_-2022_08_04_16_22_02.report.json",
       "summary": {
-        "performance": 0.09,
+        "performance": 0.08,
         "accessibility": 0.87,
         "best-practices": 0.75,
         "seo": 0.81,
@@ -2929,7 +2971,7 @@
     }
   ],
   "server": "ia601509.us.archive.org",
-  "uniq": 1175852651,
+  "uniq": 925297037,
   "workable_servers": [
     "ia601509.us.archive.org",
     "ia801509.us.archive.org"

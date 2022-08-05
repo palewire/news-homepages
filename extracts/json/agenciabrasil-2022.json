@@ -1,5 +1,46 @@
 {
-  "created": 1659589574,
+  "agenciabrasil-2022": [
+    {
+      "url": "https://agenciabrasil.ebc.com.br/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/agenciabrasil_ebc_com_br-_-2022_08_04_21_03_53.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/agenciabrasil_ebc_com_br-_-2022_08_04_21_03_53.report.json",
+      "summary": {
+        "performance": 0.31,
+        "accessibility": 0.79,
+        "best-practices": 0.75,
+        "seo": 0.85,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://agenciabrasil.ebc.com.br/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/agenciabrasil_ebc_com_br-_-2022_08_04_21_04_10.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/agenciabrasil_ebc_com_br-_-2022_08_04_21_04_10.report.json",
+      "summary": {
+        "performance": 0.33,
+        "accessibility": 0.79,
+        "best-practices": 0.75,
+        "seo": 0.85,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://agenciabrasil.ebc.com.br/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/agenciabrasil_ebc_com_br-_-2022_08_04_21_03_34.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/agenciabrasil_ebc_com_br-_-2022_08_04_21_03_34.report.json",
+      "summary": {
+        "performance": 0.18,
+        "accessibility": 0.79,
+        "best-practices": 0.75,
+        "seo": 0.85,
+        "pwa": 0.3
+      }
+    }
+  ],
+  "created": 1659659913,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/33/items/agenciabrasil-2022",
@@ -68,31 +109,135 @@
       "sha1": "b92b6b5b8b05e82e20ed2f20023e4a1948c2d1cf"
     },
     {
+      "name": "agenciabrasil-2022-08-04T10:47:34.545375-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659620857",
+      "size": "32446",
+      "md5": "bda0371ff926cec0d3137c723e4c9cf7",
+      "crc32": "b3498c13",
+      "sha1": "84c7eaf7bf11e7f4d8ba5b881bec3b9260a5d18a",
+      "format": "JSON"
+    },
+    {
+      "name": "agenciabrasil-2022-08-04T10:47:34.545375-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659620859",
+      "size": "39019",
+      "md5": "6cfaed330723b61ba4e3ac6ab9c5a0ed",
+      "crc32": "66613f04",
+      "sha1": "5828a6dab1386531520732f1e037c01c62d34344",
+      "format": "JSON"
+    },
+    {
+      "name": "agenciabrasil-2022-08-04T10:47:34.545375-03:00.jpg",
+      "source": "original",
+      "mtime": "1659620856",
+      "size": "218723",
+      "md5": "64f1185559076d49955ae36137904c68",
+      "crc32": "f3f7bf0a",
+      "sha1": "8bfe90e8743d78b44bb644a9a49b7c0c1f0ad3af",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "agenciabrasil-2022-08-04T10:47:34.545375-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659620861",
+      "size": "1548",
+      "md5": "11957dcc17c17a2bf01d5214a8824911",
+      "crc32": "2b4823a9",
+      "sha1": "f4bfa61843ba14dc8e110cafea88576088fd2a19",
+      "format": "JSON"
+    },
+    {
+      "name": "agenciabrasil-2022-08-04T10:47:34.545375-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "agenciabrasil-2022-08-04T10:47:34.545375-03:00.jpg",
+      "mtime": "1659624406",
+      "size": "9558",
+      "md5": "054976a3ad3d772a6f384c66ebe189d7",
+      "crc32": "f1d1d0ac",
+      "sha1": "b27b9e481e0ec4c5e9dac2a47b80715a7af8da5a"
+    },
+    {
+      "name": "agenciabrasil-2022-08-04T18:18:30.635658-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659647913",
+      "size": "33713",
+      "md5": "01db3db38f875ebe5a95ec93030cebc6",
+      "crc32": "c11d9d2f",
+      "sha1": "bf2fccd2b8bf3f603d5e104c604fa04b8c46ca7d",
+      "format": "JSON"
+    },
+    {
+      "name": "agenciabrasil-2022-08-04T18:18:30.635658-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659647916",
+      "size": "41229",
+      "md5": "8f8c6614df272238b5f8484b924eb7bb",
+      "crc32": "3fdc218b",
+      "sha1": "28f0782002000076ccde21571ab70f2dc1724ff3",
+      "format": "JSON"
+    },
+    {
+      "name": "agenciabrasil-2022-08-04T18:18:30.635658-03:00.jpg",
+      "source": "original",
+      "mtime": "1659647912",
+      "size": "254579",
+      "md5": "fe1a867ce383384901fe1474c9233de9",
+      "crc32": "b132b969",
+      "sha1": "41b7f40fb64395dc70d4afdb8f4f7ba62dd9a210",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "agenciabrasil-2022-08-04T18:18:30.635658-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659647918",
+      "size": "1549",
+      "md5": "99676a9422a5d6abb48868a7379fb75b",
+      "crc32": "d1da8f5d",
+      "sha1": "aebd240232073b7814c509971252924066b333f5",
+      "format": "JSON"
+    },
+    {
+      "name": "agenciabrasil-2022-08-04T18:18:30.635658-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "agenciabrasil-2022-08-04T18:18:30.635658-03:00.jpg",
+      "mtime": "1659651492",
+      "size": "9627",
+      "md5": "e3bb712533d6d538f0096b9e59da2f5d",
+      "crc32": "7481da7c",
+      "sha1": "5eeaaaf10a3e9efecc206715892e3c424cbe7298"
+    },
+    {
       "name": "agenciabrasil-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f29c3f060f3ec65af3460938c96c3571749a18c0",
-      "mtime": "1659589542",
-      "size": "2735",
-      "md5": "c54d85459ebdac0ecd2b08d4945ac722",
-      "crc32": "16cbd701",
-      "sha1": "8510f6342cb5be4135ff1de98a0ceaad26bf2e62",
+      "btih": "97887aa1d89b2eabdae881742641d1bdbf4ea7e9",
+      "mtime": "1659651497",
+      "size": "4883",
+      "md5": "4b04b7d1939c3f11fb1de8acdbcac0f9",
+      "crc32": "48078e9a",
+      "sha1": "80a4ac9f2cbe3ecf889b3c20774d8493dd55b7f4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "agenciabrasil-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0a8010bcdfdb8831436d1a7c0752d274",
+      "md5": "a958344dc0888b49e0724e18547e24c0",
       "summation": "md5"
     },
     {
       "name": "agenciabrasil-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659588953",
-      "size": "28672",
-      "md5": "881f36e498f35116176f34a77090ea3e",
-      "crc32": "c19650b4",
-      "sha1": "ff1ac885b727f352c5413ab247d8f079878e43db",
+      "mtime": "1659647927",
+      "size": "36864",
+      "md5": "ba4cfc7050652b80bdbf76779613843f",
+      "crc32": "a4e86896",
+      "sha1": "d3dcd12ab4963ce8d9001d094578b8774e7dda00",
       "format": "Metadata"
     },
     {
@@ -106,9 +251,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 10,
-  "item_last_updated": 1659589542,
-  "item_size": 376986,
+  "files_count": 20,
+  "item_last_updated": 1659651497,
+  "item_size": 1029317,
   "metadata": {
     "identifier": "agenciabrasil-2022",
     "collection": [
@@ -125,10 +270,10 @@
     "publicdate": "2022-08-04 04:55:44",
     "addeddate": "2022-08-04 04:55:44"
   },
-  "server": "ia801405.us.archive.org",
-  "uniq": 332739817,
+  "server": "ia601405.us.archive.org",
+  "uniq": 1949469552,
   "workable_servers": [
-    "ia801405.us.archive.org",
-    "ia601405.us.archive.org"
+    "ia601405.us.archive.org",
+    "ia801405.us.archive.org"
   ]
 }

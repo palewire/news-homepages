@@ -1,5 +1,5 @@
 {
-  "created": 1659616838,
+  "created": 1659637860,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/7/items/thegrio-2022",
@@ -172,31 +172,83 @@
       "sha1": "e2a5b77f98b31088be9b1c000ff9409d4d528ef9"
     },
     {
+      "name": "thegrio-2022-08-04T13:04:59.099091-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659632702",
+      "size": "17619",
+      "md5": "d1db4db20476a875bca54bd69a83ce74",
+      "crc32": "4390360a",
+      "sha1": "8a885572470065fba408d400ef9fbd9a31c63424",
+      "format": "JSON"
+    },
+    {
+      "name": "thegrio-2022-08-04T13:04:59.099091-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659632703",
+      "size": "21261",
+      "md5": "427d610adf6bb7338733679d4d9f268f",
+      "crc32": "d40d6c69",
+      "sha1": "a8a503cfe72820c376411aa088180b9e0d740ad1",
+      "format": "JSON"
+    },
+    {
+      "name": "thegrio-2022-08-04T13:04:59.099091-04:00.jpg",
+      "source": "original",
+      "mtime": "1659632700",
+      "size": "229123",
+      "md5": "411997268588317c4c9c744963011c29",
+      "crc32": "400deffe",
+      "sha1": "3d3f8f2a377eb53a25dae545e36dc2099d27014a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thegrio-2022-08-04T13:04:59.099091-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659632705",
+      "size": "1432",
+      "md5": "f35ee188613c5898190dfc54eac0ae38",
+      "crc32": "9c86a36f",
+      "sha1": "64c7dbe165805b80491d41a354d7e0e0d4a2623c",
+      "format": "JSON"
+    },
+    {
+      "name": "thegrio-2022-08-04T13:04:59.099091-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thegrio-2022-08-04T13:04:59.099091-04:00.jpg",
+      "mtime": "1659637823",
+      "size": "9483",
+      "md5": "34e93c0dd5f3a5258e90cdb1b37f2694",
+      "crc32": "e7103265",
+      "sha1": "7a2f7b811db469e2ebdeb4c95d52b461cd68381b"
+    },
+    {
       "name": "thegrio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4fb72325604f6215433796957ae111a061e96686",
-      "mtime": "1659588182",
-      "size": "4736",
-      "md5": "c478094499c188fa7eebfc61ff0984e4",
-      "crc32": "2e8d03b7",
-      "sha1": "4706489a478727835dc83fe3faf5062ec4080270",
+      "btih": "a833f9a15bc958ba9dbf35ca84a4db004e26a854",
+      "mtime": "1659637825",
+      "size": "5790",
+      "md5": "b64c99e3288a34d431c314805a751085",
+      "crc32": "dd820ca6",
+      "sha1": "bddfbef90fac5924463b568995319ffddc97eeae",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thegrio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8cd96b95784ec57f56e7b61504169e88",
+      "md5": "f78f58a126c19aa826921cacb5548524",
       "summation": "md5"
     },
     {
       "name": "thegrio-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659587928",
-      "size": "36864",
-      "md5": "f129daab81533be8f55750e8a4da2bad",
-      "crc32": "0a5a2b00",
-      "sha1": "01700538dba8136947a94d92bf1ff33afd3a8e27",
+      "mtime": "1659632707",
+      "size": "45056",
+      "md5": "71dcb5d939c7cc95b72a391bb209fff0",
+      "crc32": "91e4c1ea",
+      "sha1": "55d9ac58cf53252b0b8dd4565183a1516e9890f4",
       "format": "Metadata"
     },
     {
@@ -210,9 +262,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 20,
-  "item_last_updated": 1659588182,
-  "item_size": 877315,
+  "files_count": 25,
+  "item_last_updated": 1659637825,
+  "item_size": 1165479,
   "metadata": {
     "identifier": "thegrio-2022",
     "collection": [
@@ -229,51 +281,10 @@
     "publicdate": "2022-08-03 04:46:19",
     "addeddate": "2022-08-03 04:46:19"
   },
-  "server": "ia802504.us.archive.org",
-  "thegrio-2022": [
-    {
-      "url": "https://thegrio.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thegrio_com-_-2022_08_04_04_14_56.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thegrio_com-_-2022_08_04_04_14_56.report.json",
-      "summary": {
-        "performance": 0.36,
-        "accessibility": 0.97,
-        "best-practices": 0.92,
-        "seo": 0.83,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://thegrio.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thegrio_com-_-2022_08_04_04_15_28.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thegrio_com-_-2022_08_04_04_15_28.report.json",
-      "summary": {
-        "performance": 0.56,
-        "accessibility": 0.97,
-        "best-practices": 0.92,
-        "seo": 0.83,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://thegrio.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thegrio_com-_-2022_08_04_04_15_12.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/thegrio_com-_-2022_08_04_04_15_12.report.json",
-      "summary": {
-        "performance": 0.42,
-        "accessibility": 0.97,
-        "best-practices": 0.92,
-        "seo": 0.83,
-        "pwa": 0.3
-      }
-    }
-  ],
-  "uniq": 494322924,
+  "server": "ia902504.us.archive.org",
+  "uniq": 1261127077,
   "workable_servers": [
-    "ia802504.us.archive.org",
-    "ia902504.us.archive.org"
+    "ia902504.us.archive.org",
+    "ia802504.us.archive.org"
   ]
 }

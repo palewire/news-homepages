@@ -1,5 +1,5 @@
 {
-  "created": 1659574283,
+  "created": 1659660719,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/29/items/phillytrib-2022",
@@ -3270,31 +3270,83 @@
       "sha1": "8a8281bc81906a7f09c676edbaca6c94600bc88a"
     },
     {
+      "name": "phillytrib-2022-08-04T08:39:13.614808-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659616757",
+      "size": "26414",
+      "md5": "b35dc8df3efecb23ea8f2f3d27ba2779",
+      "crc32": "3ff00568",
+      "sha1": "cfe2971f3790efee46aa9c209de5da26173750e3",
+      "format": "JSON"
+    },
+    {
+      "name": "phillytrib-2022-08-04T08:39:13.614808-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659616759",
+      "size": "54123",
+      "md5": "258e7b6a95ebab0eaa4606d46a3b27bb",
+      "crc32": "9fb4e38a",
+      "sha1": "d1147bbab358e3d109e6b9cb294f3ed837d4de99",
+      "format": "JSON"
+    },
+    {
+      "name": "phillytrib-2022-08-04T08:39:13.614808-04:00.jpg",
+      "source": "original",
+      "mtime": "1659616755",
+      "size": "355827",
+      "md5": "42b6654c31fd7bf54cd2a1eb29d5a674",
+      "crc32": "265b3795",
+      "sha1": "f30bf79f093465169fa27ad5e75491d18d713581",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "phillytrib-2022-08-04T08:39:13.614808-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659616761",
+      "size": "1495",
+      "md5": "b29ab54b2b2ad0cbf9b28251cbb9d28c",
+      "crc32": "21af8c9e",
+      "sha1": "6aa6c244aa4c2ef9f645c56ff8e7dffe098ba3be",
+      "format": "JSON"
+    },
+    {
+      "name": "phillytrib-2022-08-04T08:39:13.614808-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "phillytrib-2022-08-04T08:39:13.614808-04:00.jpg",
+      "mtime": "1659621951",
+      "size": "11076",
+      "md5": "1fd3dd5f53e80f15036be0c60536fbb2",
+      "crc32": "83b4c03f",
+      "sha1": "8a8281bc81906a7f09c676edbaca6c94600bc88a"
+    },
+    {
       "name": "phillytrib-2022_archive.torrent",
       "source": "metadata",
-      "btih": "498d535aca64e678f412f829be64807c4fc68b36",
-      "mtime": "1659574259",
-      "size": "68039",
-      "md5": "7906c69004798046e69b01ffee444c75",
-      "crc32": "845fb6d0",
-      "sha1": "9af05bbc7773b62fbad32be5683d68e7668bb422",
+      "btih": "a16b8f766422931b881b803094bdf87abf9c8547",
+      "mtime": "1659622012",
+      "size": "69109",
+      "md5": "199946e746591f837466e3c8b43ef97a",
+      "crc32": "e44c24c1",
+      "sha1": "7d32d230ced89f781edfc3d88da7b6e605043e53",
       "format": "Archive BitTorrent"
     },
     {
       "name": "phillytrib-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9f63e9df111dbb9c9ea408a66038efab",
+      "md5": "4b3e3c6e83086f6d90ecc30af42865d3",
       "summation": "md5"
     },
     {
       "name": "phillytrib-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659573970",
-      "size": "385024",
-      "md5": "a7f53fee028e398c7e921221bd344d05",
-      "crc32": "7762b05b",
-      "sha1": "09de94d001636bbe694266ca0bbd8b78b86c196c",
+      "mtime": "1659616772",
+      "size": "389120",
+      "md5": "e8037169a4e73850b9a4a7b2edd01d72",
+      "crc32": "fab2de86",
+      "sha1": "53da07827034cbf3c57d259668d8103071ccdf99",
       "format": "Metadata"
     },
     {
@@ -3308,9 +3360,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 316,
-  "item_last_updated": 1659574259,
-  "item_size": 31450422,
+  "files_count": 321,
+  "item_last_updated": 1659622012,
+  "item_size": 31904523,
   "metadata": {
     "identifier": "phillytrib-2022",
     "collection": [
@@ -3327,10 +3379,51 @@
     "publicdate": "2022-07-03 15:52:45",
     "addeddate": "2022-07-03 15:52:45"
   },
-  "server": "ia902506.us.archive.org",
-  "uniq": 227142304,
+  "phillytrib-2022": [
+    {
+      "url": "https://www.phillytrib.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_phillytrib_com-_-2022_08_04_12_14_38.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_phillytrib_com-_-2022_08_04_12_14_38.report.json",
+      "summary": {
+        "performance": 0.15,
+        "accessibility": 0.97,
+        "best-practices": 0.83,
+        "seo": 0.82,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.phillytrib.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_phillytrib_com-_-2022_08_04_12_14_55.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_phillytrib_com-_-2022_08_04_12_14_55.report.json",
+      "summary": {
+        "performance": 0.14,
+        "accessibility": 0.97,
+        "best-practices": 0.83,
+        "seo": 0.82,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.phillytrib.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_phillytrib_com-_-2022_08_04_12_14_19.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_phillytrib_com-_-2022_08_04_12_14_19.report.json",
+      "summary": {
+        "performance": 0.12,
+        "accessibility": 0.97,
+        "best-practices": 0.83,
+        "seo": 0.82,
+        "pwa": 0.3
+      }
+    }
+  ],
+  "server": "ia802506.us.archive.org",
+  "uniq": 176521347,
   "workable_servers": [
-    "ia902506.us.archive.org",
-    "ia802506.us.archive.org"
+    "ia802506.us.archive.org",
+    "ia902506.us.archive.org"
   ]
 }

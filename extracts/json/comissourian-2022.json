@@ -1,5 +1,5 @@
 {
-  "created": 1659611681,
+  "created": 1659658171,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/15/items/comissourian-2022",
@@ -2883,31 +2883,94 @@
       "format": "JSON"
     },
     {
+      "name": "comissourian-2022-08-04T06:13:11.050596-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "comissourian-2022-08-04T06:13:11.050596-05:00.jpg",
+      "mtime": "1659617049",
+      "size": "9883",
+      "md5": "f4b6e4058f8b5a7d694db39f28773694",
+      "crc32": "09e9bfc1",
+      "sha1": "d628f7c0cfb5c306c3b1f0d217431ecf675b1cbd"
+    },
+    {
+      "name": "comissourian-2022-08-04T18:34:03.389496-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659656049",
+      "size": "31928",
+      "md5": "6d45da0ecb3a793f4899c458896feed9",
+      "crc32": "74884fee",
+      "sha1": "db2e977b0ac0326754c513854dfb8ab096808653",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-08-04T18:34:03.389496-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659656051",
+      "size": "46847",
+      "md5": "caf7516da09919e5adcdf8d564f03c6d",
+      "crc32": "e2d636f2",
+      "sha1": "55b1d6aec76f0a56b06c174a843fa797fb81ec24",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-08-04T18:34:03.389496-05:00.jpg",
+      "source": "original",
+      "mtime": "1659656047",
+      "size": "353608",
+      "md5": "eb23476fd6b5631958bbfe1623cfb78e",
+      "crc32": "1759bdb3",
+      "sha1": "b3db5770ea4372b14a0d8fccd9a6ae6588260b65",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "comissourian-2022-08-04T18:34:03.389496-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659656052",
+      "size": "1567",
+      "md5": "db52d2123706fdaba60279f4ea401d86",
+      "crc32": "97f72fc8",
+      "sha1": "135ee2523f9871f534e9d6b77a6eaff9a23f8e9d",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-08-04T18:34:03.389496-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "comissourian-2022-08-04T18:34:03.389496-05:00.jpg",
+      "mtime": "1659658142",
+      "size": "9586",
+      "md5": "076a9492165da16618cec90a7ae48d1b",
+      "crc32": "dd131575",
+      "sha1": "36f7c7464d45bcded2f5a0ffe8aaa410301b1298"
+    },
+    {
       "name": "comissourian-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1714f711161caf041db15d39707d0af3ea7e1f01",
-      "mtime": "1659611678",
-      "size": "60648",
-      "md5": "ae24ba891a44ff3b2502ab33964b7df9",
-      "crc32": "1bc1de70",
-      "sha1": "7e49cf1bda309879024eaef1fc648d3cf2160ddc",
+      "btih": "b88fbedd31cf43b8cfdcc92e4df739c2469684ee",
+      "mtime": "1659658147",
+      "size": "61915",
+      "md5": "b7066e5ee27b983702a339e9d2353c1d",
+      "crc32": "e86ffee7",
+      "sha1": "c61cea32dbaf013af8239e94900b5ce4932916ba",
       "format": "Archive BitTorrent"
     },
     {
       "name": "comissourian-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1d95fa9fcab241fd26688386aaa163d2",
+      "md5": "53bb8510d0d28df27fea09ea7426dc99",
       "summation": "md5"
     },
     {
       "name": "comissourian-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659611643",
-      "size": "348160",
-      "md5": "c6c2e9707e48ce7999a91bb2674dbe39",
-      "crc32": "8dc0bab3",
-      "sha1": "0e00061c3e32dc29f2b9ee5647dd9a828799abbd",
+      "mtime": "1659656056",
+      "size": "352256",
+      "md5": "b11674dcc954efa3019f45bc776fa5cf",
+      "crc32": "465f4e25",
+      "sha1": "4e12af5134dd71199a4d038c2a0422a7db27ef39",
       "format": "Metadata"
     },
     {
@@ -2921,9 +2984,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 279,
-  "item_last_updated": 1659611678,
-  "item_size": 27864998,
+  "files_count": 285,
+  "item_last_updated": 1659658147,
+  "item_size": 28323780,
   "metadata": {
     "identifier": "comissourian-2022",
     "collection": [
@@ -2940,21 +3003,10 @@
     "publicdate": "2022-07-04 20:47:01",
     "addeddate": "2022-07-04 20:47:01"
   },
-  "pending_tasks": true,
-  "server": "ia601402.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3352499371,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1078475760,
+  "server": "ia801402.us.archive.org",
+  "uniq": 1703942407,
   "workable_servers": [
+    "ia801402.us.archive.org",
     "ia601402.us.archive.org"
   ]
 }

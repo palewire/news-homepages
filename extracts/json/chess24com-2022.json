@@ -3,8 +3,8 @@
     {
       "url": "https://chess24.com/en/read/news",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/chess24_com-_en_read_news-2022_08_04_01_41_48.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/chess24_com-_en_read_news-2022_08_04_01_41_48.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/chess24_com-_en_read_news-2022_08_04_13_23_15.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/chess24_com-_en_read_news-2022_08_04_13_23_15.report.json",
       "summary": {
         "performance": 0.16,
         "accessibility": 0.67,
@@ -16,10 +16,10 @@
     {
       "url": "https://chess24.com/en/read/news",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/chess24_com-_en_read_news-2022_08_04_01_42_32.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/chess24_com-_en_read_news-2022_08_04_01_42_32.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/chess24_com-_en_read_news-2022_08_04_13_23_59.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/chess24_com-_en_read_news-2022_08_04_13_23_59.report.json",
       "summary": {
-        "performance": 0.24,
+        "performance": 0.18,
         "accessibility": 0.67,
         "best-practices": 0.75,
         "seo": 0.84,
@@ -29,10 +29,10 @@
     {
       "url": "https://chess24.com/en/read/news",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/chess24_com-_en_read_news-2022_08_04_01_42_11.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/chess24_com-_en_read_news-2022_08_04_01_42_11.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/chess24_com-_en_read_news-2022_08_04_13_23_40.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/chess24_com-_en_read_news-2022_08_04_13_23_40.report.json",
       "summary": {
-        "performance": 0.21,
+        "performance": 0.19,
         "accessibility": 0.67,
         "best-practices": 0.75,
         "seo": 0.84,
@@ -40,7 +40,7 @@
       }
     }
   ],
-  "created": 1659615787,
+  "created": 1659660008,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/27/items/chess24com-2022",
@@ -1631,31 +1631,83 @@
       "sha1": "e6cd4d979713f0c8051597b4487462f3d7576efa"
     },
     {
+      "name": "chess24com-2022-08-04T15:52:56.428266+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659621178",
+      "size": "1129",
+      "md5": "d63152c3492e2f8f5f92d54d12fdbbd2",
+      "crc32": "92f82513",
+      "sha1": "6b188d73be9d5801488c43e1e73882ef3aa84885",
+      "format": "JSON"
+    },
+    {
+      "name": "chess24com-2022-08-04T15:52:56.428266+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659621180",
+      "size": "30961",
+      "md5": "37f3297ff5e6aa319641623e95ad6400",
+      "crc32": "4bfd7842",
+      "sha1": "866c2dea13583b1da11d6203b389cd7e99857d89",
+      "format": "JSON"
+    },
+    {
+      "name": "chess24com-2022-08-04T15:52:56.428266+02:00.jpg",
+      "source": "original",
+      "mtime": "1659621177",
+      "size": "363233",
+      "md5": "8b4a83ac522f06634a197e17ac3a1ad1",
+      "crc32": "f3dbf09d",
+      "sha1": "22c34936c3be06969265ecf4344c98b50c97bd32",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chess24com-2022-08-04T15:52:56.428266+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659621181",
+      "size": "1540",
+      "md5": "c58ee38db64c602639888ca40472cc36",
+      "crc32": "feea7fd4",
+      "sha1": "cd0a3cf4121407d62f044fdff77b99f1d29e4306",
+      "format": "JSON"
+    },
+    {
+      "name": "chess24com-2022-08-04T15:52:56.428266+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chess24com-2022-08-04T15:52:56.428266+02:00.jpg",
+      "mtime": "1659624634",
+      "size": "10397",
+      "md5": "8b12cdd12fb75befc09c1facb3bcbc9b",
+      "crc32": "1080a49f",
+      "sha1": "a8ab37e303ddf5fd389a45c9f7c8cd84a569d449"
+    },
+    {
       "name": "chess24com-2022_archive.torrent",
       "source": "metadata",
-      "btih": "374d6441f10ae437f3c017cb015a53da4ec281f7",
-      "mtime": "1659582647",
-      "size": "33778",
-      "md5": "e3c18ffa4a843b2332e2d80fd4bc9216",
-      "crc32": "03582e9f",
-      "sha1": "dbc2c8f56e7b898422287dd3afd719f243cfd8e6",
+      "btih": "a98f91a5f850df91d8683511238d2a910f516fdf",
+      "mtime": "1659624638",
+      "size": "34847",
+      "md5": "7e4c66022790b62a65a8eef26891729c",
+      "crc32": "0a725915",
+      "sha1": "162963f71cf5774827430a776b304a09bedda02c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chess24com-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4a1e0032c9edfa2e6c6f8fe1ce0287e9",
+      "md5": "afb73241114e05e0ea838d4568026716",
       "summation": "md5"
     },
     {
       "name": "chess24com-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659582400",
-      "size": "204800",
-      "md5": "ec013b76914616e71cb37487bd941235",
-      "crc32": "4ccfb892",
-      "sha1": "9d6c141e2eb5c88be8c8f916f834e57a41101ae8",
+      "mtime": "1659621187",
+      "size": "208896",
+      "md5": "dcd9347c272c048e1caf6f0a0f2e4f1e",
+      "crc32": "ca8818b4",
+      "sha1": "6fd4f993a9bd57eb7ceb9233cda2be9a5b89de47",
       "format": "Metadata"
     },
     {
@@ -1669,9 +1721,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 156,
-  "item_last_updated": 1659582647,
-  "item_size": 12772383,
+  "files_count": 161,
+  "item_last_updated": 1659624638,
+  "item_size": 13184808,
   "metadata": {
     "identifier": "chess24com-2022",
     "collection": [
@@ -1688,10 +1740,10 @@
     "publicdate": "2022-07-20 11:23:28",
     "addeddate": "2022-07-20 11:23:28"
   },
-  "server": "ia601508.us.archive.org",
-  "uniq": 73924594,
+  "server": "ia801508.us.archive.org",
+  "uniq": 225671588,
   "workable_servers": [
-    "ia601508.us.archive.org",
-    "ia801508.us.archive.org"
+    "ia801508.us.archive.org",
+    "ia601508.us.archive.org"
   ]
 }

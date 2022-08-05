@@ -1,5 +1,5 @@
 {
-  "created": 1659611547,
+  "created": 1659658491,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/27/items/calmatters-2022",
@@ -1463,31 +1463,94 @@
       "format": "JSON"
     },
     {
+      "name": "calmatters-2022-08-04T04:11:41.363050-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "calmatters-2022-08-04T04:11:41.363050-07:00.jpg",
+      "mtime": "1659616939",
+      "size": "10639",
+      "md5": "9010cbc24bb03fad0d43167a6b64ffcf",
+      "crc32": "3f8484dc",
+      "sha1": "dafa7f5c124b1b51742bf0588b3e865c79af1274"
+    },
+    {
+      "name": "calmatters-2022-08-04T16:31:29.994963-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659655893",
+      "size": "50132",
+      "md5": "80447c3759d184e16e4fd70d48ffdef7",
+      "crc32": "d7930536",
+      "sha1": "7ef332c2b7bff6f3dba3543910a4b09e20d2f1ba",
+      "format": "JSON"
+    },
+    {
+      "name": "calmatters-2022-08-04T16:31:29.994963-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659655894",
+      "size": "67426",
+      "md5": "327885b56e61896d8fff76b080e9d8c6",
+      "crc32": "1530c7c2",
+      "sha1": "14bd6a403e1955d1717a19b00d15536f3fecf2bb",
+      "format": "JSON"
+    },
+    {
+      "name": "calmatters-2022-08-04T16:31:29.994963-07:00.jpg",
+      "source": "original",
+      "mtime": "1659655891",
+      "size": "278919",
+      "md5": "f000b0f3b37a59793b392672c428d8e5",
+      "crc32": "98d3a184",
+      "sha1": "531cba236e86aa4ff2f4ca08f4af8a1cd324752a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "calmatters-2022-08-04T16:31:29.994963-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659655896",
+      "size": "1449",
+      "md5": "d4ababe4d6f7a79900fc4a8ce7fbc57e",
+      "crc32": "06c2afbc",
+      "sha1": "dc4d2fdbf1f5fa9161d086fdee36f7624e9fce8c",
+      "format": "JSON"
+    },
+    {
+      "name": "calmatters-2022-08-04T16:31:29.994963-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "calmatters-2022-08-04T16:31:29.994963-07:00.jpg",
+      "mtime": "1659658386",
+      "size": "10340",
+      "md5": "8b5a3fa9aa5adde30ba7f44b1a894731",
+      "crc32": "3410e405",
+      "sha1": "874f7ec565fc5887f2aeeabe8690e568fecd3245"
+    },
+    {
       "name": "calmatters-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9f5930f543774310b819f05390038388a152012a",
-      "mtime": "1659611545",
-      "size": "31269",
-      "md5": "2bf570fbaf01f554b5b0953731da75e8",
-      "crc32": "971121aa",
-      "sha1": "547b1e1769081839b4a84f77f8eedfe7ac152fcd",
+      "btih": "b84dab7bcbe5c0497629951cb0cc9bb533d86f48",
+      "mtime": "1659658392",
+      "size": "32546",
+      "md5": "159cdf7bc8d220763d03946d082b9d6d",
+      "crc32": "cd747444",
+      "sha1": "b8dce2cc9ffbe61524293451027445d658bce501",
       "format": "Archive BitTorrent"
     },
     {
       "name": "calmatters-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "12256bcd1ee5460590255ff5b6ce560f",
+      "md5": "6dbda0b2195e287b1973833480209c22",
       "summation": "md5"
     },
     {
       "name": "calmatters-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659611511",
-      "size": "192512",
-      "md5": "0e5a06d202b2768b9f5fedefaf5ffd39",
-      "crc32": "50a4cb3a",
-      "sha1": "da49ac165bec0c66b0845fba9e20f105bd266947",
+      "mtime": "1659655901",
+      "size": "200704",
+      "md5": "0f5ef80b9b529ef519382a419a12fc52",
+      "crc32": "b45eceaa",
+      "sha1": "e86415550cab9237c2eb860f0461f1971a07a83c",
       "format": "Metadata"
     },
     {
@@ -1501,9 +1564,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 144,
-  "item_last_updated": 1659611545,
-  "item_size": 12080150,
+  "files_count": 150,
+  "item_last_updated": 1659658392,
+  "item_size": 12508524,
   "metadata": {
     "identifier": "calmatters-2022",
     "collection": [
@@ -1520,21 +1583,10 @@
     "publicdate": "2022-07-21 12:54:12",
     "addeddate": "2022-07-21 12:54:12"
   },
-  "pending_tasks": true,
-  "server": "ia902509.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3352498081,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 13738951,
+  "server": "ia802509.us.archive.org",
+  "uniq": 526049185,
   "workable_servers": [
+    "ia802509.us.archive.org",
     "ia902509.us.archive.org"
   ]
 }

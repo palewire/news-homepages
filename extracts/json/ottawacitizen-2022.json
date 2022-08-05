@@ -1,5 +1,5 @@
 {
-  "created": 1659616519,
+  "created": 1659637457,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/4/items/ottawacitizen-2022",
@@ -3922,31 +3922,83 @@
       "sha1": "345655de928e6240f20b715e34e904f7db0db098"
     },
     {
+      "name": "ottawacitizen-2022-08-04T12:58:45.091436-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659632328",
+      "size": "64990",
+      "md5": "121dd53c1ef18fbb9ebb83c7f296de3c",
+      "crc32": "35b059b2",
+      "sha1": "8dbc18608ca66458d6db2c1858183c18617d6a6e",
+      "format": "JSON"
+    },
+    {
+      "name": "ottawacitizen-2022-08-04T12:58:45.091436-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659632329",
+      "size": "50501",
+      "md5": "aa5a027dda74c8c4c0e0358e889d6341",
+      "crc32": "0e493e3b",
+      "sha1": "fb2933ad12589252e6cbb05c32cc58c0d4ec7091",
+      "format": "JSON"
+    },
+    {
+      "name": "ottawacitizen-2022-08-04T12:58:45.091436-04:00.jpg",
+      "source": "original",
+      "mtime": "1659632326",
+      "size": "325641",
+      "md5": "013b86e9a89b5764d4635a4bb2589960",
+      "crc32": "c9e9787f",
+      "sha1": "9cb07148b8c682d19bd004628c9e868aa8b043c5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ottawacitizen-2022-08-04T12:58:45.091436-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659632331",
+      "size": "1483",
+      "md5": "7fa5761bd886a996ebdb883094c24f2c",
+      "crc32": "d0810366",
+      "sha1": "1e4e75a334fe1382c0768055cfc78a3e63662d8f",
+      "format": "JSON"
+    },
+    {
+      "name": "ottawacitizen-2022-08-04T12:58:45.091436-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ottawacitizen-2022-08-04T12:58:45.091436-04:00.jpg",
+      "mtime": "1659637403",
+      "size": "9918",
+      "md5": "834d65592c79995993d90d09ffa660ad",
+      "crc32": "114de4ee",
+      "sha1": "572c12a5a7b3e85a12203ea79f54588658cb06a0"
+    },
+    {
       "name": "ottawacitizen-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a963fff7316d9b253f14a76dc5028d7bfb536c0b",
-      "mtime": "1659587900",
-      "size": "82409",
-      "md5": "6a20a31e9fc95742930038e42687fa25",
-      "crc32": "7fa1cf3b",
-      "sha1": "3e9a1261f4947015d5df7fed5e0323679aca19ce",
+      "btih": "4e92105a8003b2ffba15bc0a473115e5fae0b0dc",
+      "mtime": "1659637439",
+      "size": "83493",
+      "md5": "ef5dee5334a2e4ac89474d37dacfaf64",
+      "crc32": "f7050b4b",
+      "sha1": "e8cd76027ac2e266ba88c6644a6d2008785223b2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ottawacitizen-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0e275ff4c2da6258a037d1c6039d70e6",
+      "md5": "d442812d72c1d3380d23dcef3d8a58e4",
       "summation": "md5"
     },
     {
       "name": "ottawacitizen-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659587601",
-      "size": "454656",
-      "md5": "35975100338223f0b8bc7f3b8b0deffe",
-      "crc32": "816ba964",
-      "sha1": "da4d4e99e171fe58e605753577a9816ba9d90055",
+      "mtime": "1659632342",
+      "size": "462848",
+      "md5": "8f5f3273eab72c5af66c0f4b0e7973c6",
+      "crc32": "3d298e11",
+      "sha1": "5207eba71ced56313215f57df20069aa0acf6faf",
       "format": "Metadata"
     },
     {
@@ -3960,9 +4012,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 378,
-  "item_last_updated": 1659587900,
-  "item_size": 38616069,
+  "files_count": 383,
+  "item_last_updated": 1659637439,
+  "item_size": 39077878,
   "metadata": {
     "identifier": "ottawacitizen-2022",
     "collection": [
@@ -3979,51 +4031,10 @@
     "publicdate": "2022-06-30 22:35:58",
     "addeddate": "2022-06-30 22:35:58"
   },
-  "ottawacitizen-2022": [
-    {
-      "url": "https://ottawacitizen.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ottawacitizen_com-_-2022_08_04_04_05_43.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ottawacitizen_com-_-2022_08_04_04_05_43.report.json",
-      "summary": {
-        "performance": 0.2,
-        "accessibility": 0.93,
-        "best-practices": 0.92,
-        "seo": 0.9,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://ottawacitizen.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ottawacitizen_com-_-2022_08_04_04_06_05.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ottawacitizen_com-_-2022_08_04_04_06_05.report.json",
-      "summary": {
-        "performance": 0.2,
-        "accessibility": 0.93,
-        "best-practices": 0.92,
-        "seo": 0.9,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://ottawacitizen.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ottawacitizen_com-_-2022_08_04_04_06_28.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/ottawacitizen_com-_-2022_08_04_04_06_28.report.json",
-      "summary": {
-        "performance": 0.2,
-        "accessibility": 0.93,
-        "best-practices": 0.92,
-        "seo": 0.9,
-        "pwa": 0.4
-      }
-    }
-  ],
-  "server": "ia601508.us.archive.org",
-  "uniq": 1377474101,
+  "server": "ia801508.us.archive.org",
+  "uniq": 99520735,
   "workable_servers": [
-    "ia601508.us.archive.org",
-    "ia801508.us.archive.org"
+    "ia801508.us.archive.org",
+    "ia601508.us.archive.org"
   ]
 }

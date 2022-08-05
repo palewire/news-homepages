@@ -1,5 +1,5 @@
 {
-  "created": 1659587938,
+  "created": 1659637102,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/6/items/nybooks-2022",
@@ -2850,31 +2850,83 @@
       "sha1": "6c5de77beb206ea7d776cfac5f76612749391880"
     },
     {
+      "name": "nybooks-2022-08-04T12:56:49.937848-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659632214",
+      "size": "20909",
+      "md5": "851aedc4f07e8982e9afdcb3a7fce7f2",
+      "crc32": "0b52ce1d",
+      "sha1": "ac5eb97a2c160f5ec81a35cdc3633d88b2221c48",
+      "format": "JSON"
+    },
+    {
+      "name": "nybooks-2022-08-04T12:56:49.937848-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659632216",
+      "size": "46338",
+      "md5": "2fdf4dd728b98c5ae177cb7dc8017a05",
+      "crc32": "261e6766",
+      "sha1": "f855bf684216cce3a681fe5d0433a5e9f79fcf90",
+      "format": "JSON"
+    },
+    {
+      "name": "nybooks-2022-08-04T12:56:49.937848-04:00.jpg",
+      "source": "original",
+      "mtime": "1659632212",
+      "size": "372185",
+      "md5": "c8df81b5c0b6f98dd5878cc42f627d05",
+      "crc32": "85581692",
+      "sha1": "364cd4e42a4eb947ca09ce074deac0372c1538c3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nybooks-2022-08-04T12:56:49.937848-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659632217",
+      "size": "1468",
+      "md5": "0a1853192e9f4fc2ddfd775d531fc70e",
+      "crc32": "314d665a",
+      "sha1": "533c45c9b0203f9c249d7a3c1ec5ba1fac58cea0",
+      "format": "JSON"
+    },
+    {
+      "name": "nybooks-2022-08-04T12:56:49.937848-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nybooks-2022-08-04T12:56:49.937848-04:00.jpg",
+      "mtime": "1659637059",
+      "size": "10369",
+      "md5": "c2125186965e6ae3a657f58d42479c85",
+      "crc32": "f224c065",
+      "sha1": "6c5de77beb206ea7d776cfac5f76612749391880"
+    },
+    {
       "name": "nybooks-2022_archive.torrent",
       "source": "metadata",
-      "btih": "95a863e4caeded9b5b8e5d070ddf8a7d881a2fb8",
-      "mtime": "1659587918",
-      "size": "58640",
-      "md5": "2472cf72cd73020e2b6fdf5a47f5eb38",
-      "crc32": "515f1f6d",
-      "sha1": "e9129373848ef2d90b21347d085ac18123dc661f",
+      "btih": "b224d2ffa6e98f79a22a0b685c83ea270794e31b",
+      "mtime": "1659637075",
+      "size": "59695",
+      "md5": "e29de9e7e4cad1e8ab6fd3b97dc5fc09",
+      "crc32": "85158f6f",
+      "sha1": "86d83b5b34975c368b705d02c40f525f37556dc8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nybooks-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c6789448ba39e09e2c5520d87660ebf1",
+      "md5": "ec2d227c309052d289b2bb4ec3d88dfe",
       "summation": "md5"
     },
     {
       "name": "nybooks-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659587637",
-      "size": "339968",
-      "md5": "cf70dd215d3bf98b69d3b5cdb4c3cbda",
-      "crc32": "d5321cca",
-      "sha1": "e72b60fddbaee3b79e2671c296d0fc6220057dfd",
+      "mtime": "1659632221",
+      "size": "344064",
+      "md5": "78b506296b433de172a16a18fc058900",
+      "crc32": "bae51b7b",
+      "sha1": "abc8ddcbf340b5415e1772bf03d31c71bced537d",
       "format": "Metadata"
     },
     {
@@ -2888,9 +2940,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 276,
-  "item_last_updated": 1659587918,
-  "item_size": 26897031,
+  "files_count": 281,
+  "item_last_updated": 1659637075,
+  "item_size": 27353451,
   "metadata": {
     "identifier": "nybooks-2022",
     "collection": [
@@ -2908,7 +2960,7 @@
     "addeddate": "2022-07-04 21:50:06"
   },
   "server": "ia601501.us.archive.org",
-  "uniq": 1180451656,
+  "uniq": 55756537,
   "workable_servers": [
     "ia601501.us.archive.org",
     "ia801501.us.archive.org"

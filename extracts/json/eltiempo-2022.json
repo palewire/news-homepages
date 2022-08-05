@@ -1,5 +1,5 @@
 {
-  "created": 1659611759,
+  "created": 1659656204,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/15/items/eltiempo-2022",
@@ -4273,31 +4273,83 @@
       "format": "JSON"
     },
     {
+      "name": "eltiempo-2022-08-04T06:15:04.803817-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "eltiempo-2022-08-04T06:15:04.803817-05:00.jpg",
+      "mtime": "1659617607",
+      "size": "9580",
+      "md5": "9256c315bb4a0c386728392cbc352b7c",
+      "crc32": "e170e6e0",
+      "sha1": "ed22aff55e5d63e9ae1d90348782abe5b0927cb0"
+    },
+    {
+      "name": "eltiempo-2022-08-04T18:35:41.446592-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659656147",
+      "size": "41108",
+      "md5": "d5f37cba51075da35ccd3eb23df7f5b0",
+      "crc32": "5ebd2d0d",
+      "sha1": "82c5c59df5e9b16629b57b1246321d455eee5a59",
+      "format": "JSON"
+    },
+    {
+      "name": "eltiempo-2022-08-04T18:35:41.446592-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659656150",
+      "size": "71207",
+      "md5": "0b2d7011d2af1e90a21bb906bdfca6f1",
+      "crc32": "c307a110",
+      "sha1": "40a76a36efb88e6c37fe297575ccdd01bd88eac2",
+      "format": "JSON"
+    },
+    {
+      "name": "eltiempo-2022-08-04T18:35:41.446592-05:00.jpg",
+      "source": "original",
+      "mtime": "1659656145",
+      "size": "311352",
+      "md5": "3b085df47f1c79afaf2a56d82db60f41",
+      "crc32": "11eb9c05",
+      "sha1": "ca5a56f371ece4eda72209db87346f67d1ad41a2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "eltiempo-2022-08-04T18:35:41.446592-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659656152",
+      "size": "1477",
+      "md5": "9e261a86041e41bdd6f4f093a63b2d36",
+      "crc32": "578961e7",
+      "sha1": "6523a1869121e21d7ccef81a2534d76f997de715",
+      "format": "JSON"
+    },
+    {
       "name": "eltiempo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a09d3a75fda5ad1d28519f6fa9ca9c216dc9544b",
-      "mtime": "1659611757",
-      "size": "87331",
-      "md5": "0c880f43d8d03232557d8b5552297326",
-      "crc32": "b6724f5f",
-      "sha1": "38e2115ae97ea847988cac0ff395378fcdd15401",
+      "btih": "6ccef97f5e187d72eb517c9839c42bc4122400a8",
+      "mtime": "1659656202",
+      "size": "88390",
+      "md5": "0c92f9d91d0c2944993c9adf30009d4f",
+      "crc32": "5902418c",
+      "sha1": "57347c4a04184a66175a889284711a1a2326e27f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "eltiempo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b4446bfca43a2b1bc5df376db5f9404d",
+      "md5": "91f51ede3a54f0dbea278d3253be47e4",
       "summation": "md5"
     },
     {
       "name": "eltiempo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659611719",
-      "size": "487424",
-      "md5": "1ef6a37328369d69ed4333be9e3d020d",
-      "crc32": "274b831a",
-      "sha1": "d3a49272c11a37c170c3dfb62303d60ce1d698ef",
+      "mtime": "1659656158",
+      "size": "491520",
+      "md5": "72833b418030f1e95c386eedfc9a7b0c",
+      "crc32": "2551a738",
+      "sha1": "2ddc13fdf39b0a05416fa8a5784c916276b77c3e",
       "format": "Metadata"
     },
     {
@@ -4311,9 +4363,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 411,
-  "item_last_updated": 1659611757,
-  "item_size": 40210851,
+  "files_count": 416,
+  "item_last_updated": 1659656202,
+  "item_size": 40650730,
   "metadata": {
     "identifier": "eltiempo-2022",
     "collection": [
@@ -4335,15 +4387,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3352499984,
+      "task_id": 3352959165,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 1394487696,
+  "uniq": 1121181737,
   "workable_servers": [
     "ia902509.us.archive.org"
   ]

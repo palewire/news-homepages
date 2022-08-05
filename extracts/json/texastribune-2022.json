@@ -1,5 +1,5 @@
 {
-  "created": 1659582665,
+  "created": 1659661017,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/11/items/texastribune-2022",
@@ -4392,31 +4392,83 @@
       "sha1": "f816390bee341a86d0e70e6687e75b600f920a9a"
     },
     {
+      "name": "texastribune-2022-08-04T08:54:53.890853-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659621297",
+      "size": "37114",
+      "md5": "aa0ac6124cd248a63981655bbadba4a5",
+      "crc32": "2dbbc6fa",
+      "sha1": "de06b1d191b4fb0205ab6dbbf7a4653c59df2a7f",
+      "format": "JSON"
+    },
+    {
+      "name": "texastribune-2022-08-04T08:54:53.890853-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659621299",
+      "size": "21235",
+      "md5": "958777861619cce13879b924d3a3fc1b",
+      "crc32": "f24adfa4",
+      "sha1": "48589289e2c0eaae9e54f2b5d8589f2f70d546f2",
+      "format": "JSON"
+    },
+    {
+      "name": "texastribune-2022-08-04T08:54:53.890853-05:00.jpg",
+      "source": "original",
+      "mtime": "1659621295",
+      "size": "289390",
+      "md5": "309ad14fb67526718acaab01b9b389a0",
+      "crc32": "31df91cd",
+      "sha1": "3e76fe00542dcc98a46357d2a667b3834279d9ab",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "texastribune-2022-08-04T08:54:53.890853-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659621301",
+      "size": "1504",
+      "md5": "a5f213584b6655927c3622849bc745c5",
+      "crc32": "a05efac7",
+      "sha1": "686e78927179a83ed097444a11d0ae7cc48183a9",
+      "format": "JSON"
+    },
+    {
+      "name": "texastribune-2022-08-04T08:54:53.890853-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "texastribune-2022-08-04T08:54:53.890853-05:00.jpg",
+      "mtime": "1659624769",
+      "size": "9404",
+      "md5": "c6ad9746660202ceded4ae2442d48ea5",
+      "crc32": "dd2299af",
+      "sha1": "0ee9b172318d40ad7581c0fab77ab978402a5377"
+    },
+    {
       "name": "texastribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a727d98339f4042f1b69a256ea7ca31e04ff651f",
-      "mtime": "1659582639",
-      "size": "91364",
-      "md5": "4a25f6df9bcf4d3349c35d89700b43ae",
-      "crc32": "61f56835",
-      "sha1": "40292a0d06be0d34d3d3a275f195ec8a82633c81",
+      "btih": "013420414de938a1fe524b6cad198a03cf5bf1ad",
+      "mtime": "1659624774",
+      "size": "92443",
+      "md5": "30e2866768a8a3196712283bf7b3eed5",
+      "crc32": "77e25e02",
+      "sha1": "1456b71245cd1e27d23fb902841484f42290c7a2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "texastribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "09a2427ad304f6af7d074f05c6b0be81",
+      "md5": "e0dacb5add82164182df68ad98d93d46",
       "summation": "md5"
     },
     {
       "name": "texastribune-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659582547",
-      "size": "512000",
-      "md5": "0ae3662a71f899974023e25a6eff7467",
-      "crc32": "246aaafc",
-      "sha1": "b4b8153e4c4a4dacfab3e77f7879f13c37260bd9",
+      "mtime": "1659621305",
+      "size": "516096",
+      "md5": "061342e13d14f15594184aee1029f849",
+      "crc32": "9f149801",
+      "sha1": "c0a8d05ea62a178cc0be97957665de1472b7f8ac",
       "format": "Metadata"
     },
     {
@@ -4430,9 +4482,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 423,
-  "item_last_updated": 1659582639,
-  "item_size": 34943284,
+  "files_count": 428,
+  "item_last_updated": 1659624774,
+  "item_size": 35307106,
   "metadata": {
     "identifier": "texastribune-2022",
     "collection": [
@@ -4450,7 +4502,48 @@
     "addeddate": "2022-06-24 23:02:15"
   },
   "server": "ia801407.us.archive.org",
-  "uniq": 1319931899,
+  "texastribune-2022": [
+    {
+      "url": "https://www.texastribune.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_texastribune_org-_-2022_08_04_13_27_07.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_texastribune_org-_-2022_08_04_13_27_07.report.json",
+      "summary": {
+        "performance": 0.49,
+        "accessibility": 0.98,
+        "best-practices": 1,
+        "seo": 0.92,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.texastribune.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_texastribune_org-_-2022_08_04_13_27_23.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_texastribune_org-_-2022_08_04_13_27_23.report.json",
+      "summary": {
+        "performance": 0.42,
+        "accessibility": 0.98,
+        "best-practices": 1,
+        "seo": 0.92,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.texastribune.org/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_texastribune_org-_-2022_08_04_13_26_51.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_texastribune_org-_-2022_08_04_13_26_51.report.json",
+      "summary": {
+        "performance": 0.36,
+        "accessibility": 0.98,
+        "best-practices": 1,
+        "seo": 0.92,
+        "pwa": 0.4
+      }
+    }
+  ],
+  "uniq": 1412078425,
   "workable_servers": [
     "ia801407.us.archive.org",
     "ia601407.us.archive.org"

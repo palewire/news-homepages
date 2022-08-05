@@ -1,5 +1,5 @@
 {
-  "created": 1659616152,
+  "created": 1659660351,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/13/items/ketv-2022",
@@ -588,31 +588,83 @@
       "sha1": "17fe24d6eb2040a1e59c39dc6b31fddbbb19c20d"
     },
     {
+      "name": "ketv-2022-08-04T07:30:28.401812-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659616231",
+      "size": "28535",
+      "md5": "90d3c9d4cfe8765b83a186835466194a",
+      "crc32": "d1a9caa1",
+      "sha1": "7d318229bd57a490405a5d28bf2ba02eb73d8657",
+      "format": "JSON"
+    },
+    {
+      "name": "ketv-2022-08-04T07:30:28.401812-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659616233",
+      "size": "28586",
+      "md5": "340518f20d6a44209b9bfd10a1ed5489",
+      "crc32": "f13a969c",
+      "sha1": "3738f8ff519b401fcdb59f2b739c19d38d9daed0",
+      "format": "JSON"
+    },
+    {
+      "name": "ketv-2022-08-04T07:30:28.401812-05:00.jpg",
+      "source": "original",
+      "mtime": "1659616229",
+      "size": "279859",
+      "md5": "c9abc9e486fe39daec06a4ece9db69ab",
+      "crc32": "9ddbbfcf",
+      "sha1": "bf1466c81a3d8bfc4dd285b39065983db37e4689",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ketv-2022-08-04T07:30:28.401812-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659616235",
+      "size": "1441",
+      "md5": "333c007ba6bddedc53ae2ac3ef9848c5",
+      "crc32": "df9e9e30",
+      "sha1": "6bcd32f54c0922e9feb93dc1cce58e750180035b",
+      "format": "JSON"
+    },
+    {
+      "name": "ketv-2022-08-04T07:30:28.401812-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ketv-2022-08-04T07:30:28.401812-05:00.jpg",
+      "mtime": "1659621722",
+      "size": "10246",
+      "md5": "3801940c10d790e9967e2666f9fb4ca3",
+      "crc32": "1ef0751d",
+      "sha1": "cb44956623bcbe26bc2a3d5dc682aa2ae7c6d9ed"
+    },
+    {
       "name": "ketv-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4cb21406f908c167507d502fe738e637b8378725",
-      "mtime": "1659573598",
-      "size": "12948",
-      "md5": "eaddcdfb9019f697d93a9399560bc9c3",
-      "crc32": "8964944a",
-      "sha1": "6f68215708e6ee21931acd088fa330b3183452b7",
+      "btih": "c7e074695ff8783761d85db534a6122c9914635a",
+      "mtime": "1659621726",
+      "size": "13988",
+      "md5": "67fe420872436c9914c38021940fdc82",
+      "crc32": "24777289",
+      "sha1": "504e00a8f9bcd46cb1a413d56b58c4a3a7675184",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ketv-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5e66e62d8ad1138d3632b86923208020",
+      "md5": "8cac4b56b87904d631bb698ac8493516",
       "summation": "md5"
     },
     {
       "name": "ketv-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659573479",
-      "size": "81920",
-      "md5": "13fbed87684243a22dcea85128bd9f3f",
-      "crc32": "917797e8",
-      "sha1": "50f45bf52c193742888b2b2d2d59fb20226ac999",
+      "mtime": "1659616239",
+      "size": "86016",
+      "md5": "6766e2b5f3236cb83e04bec33a337ed6",
+      "crc32": "ebd41a5a",
+      "sha1": "a417334073dbf08c8a34beda1f7944d0c970bb08",
       "format": "Metadata"
     },
     {
@@ -626,17 +678,17 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 60,
-  "item_last_updated": 1659573598,
-  "item_size": 3923217,
+  "files_count": 65,
+  "item_last_updated": 1659621726,
+  "item_size": 4277020,
   "ketv-2022": [
     {
       "url": "https://www.ketv.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ketv_com-_-2022_08_04_00_06_47.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ketv_com-_-2022_08_04_00_06_47.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ketv_com-_-2022_08_04_12_03_35.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ketv_com-_-2022_08_04_12_03_35.report.json",
       "summary": {
-        "performance": 0.19,
+        "performance": 0.28,
         "accessibility": 0.98,
         "best-practices": 0.83,
         "seo": 0.86,
@@ -646,8 +698,8 @@
     {
       "url": "https://www.ketv.com/",
       "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ketv_com-_-2022_08_04_00_07_12.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ketv_com-_-2022_08_04_00_07_12.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ketv_com-_-2022_08_04_12_03_55.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ketv_com-_-2022_08_04_12_03_55.report.json",
       "summary": {
         "performance": 0.28,
         "accessibility": 0.98,
@@ -659,12 +711,12 @@
     {
       "url": "https://www.ketv.com/",
       "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ketv_com-_-2022_08_04_00_07_35.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ketv_com-_-2022_08_04_00_07_35.report.json",
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ketv_com-_-2022_08_04_12_03_13.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_ketv_com-_-2022_08_04_12_03_13.report.json",
       "summary": {
-        "performance": 0.28,
+        "performance": 0.26,
         "accessibility": 0.98,
-        "best-practices": 0.83,
+        "best-practices": 0.67,
         "seo": 0.86,
         "pwa": 0.6
       }
@@ -687,7 +739,7 @@
     "addeddate": "2022-07-30 16:34:04"
   },
   "server": "ia601505.us.archive.org",
-  "uniq": 206193854,
+  "uniq": 1501477512,
   "workable_servers": [
     "ia601505.us.archive.org",
     "ia801505.us.archive.org"

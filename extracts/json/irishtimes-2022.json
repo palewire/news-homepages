@@ -1,5 +1,5 @@
 {
-  "created": 1659573731,
+  "created": 1659622057,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/3/items/irishtimes-2022",
@@ -1716,31 +1716,83 @@
       "sha1": "49dcc1945bcf4e571cca4650883979cc2ef3fc8d"
     },
     {
+      "name": "irishtimes-2022-08-04T13:28:58.071151+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659616141",
+      "size": "56448",
+      "md5": "ded04453c61191e9b901fa204fd3e4a6",
+      "crc32": "1ab022d7",
+      "sha1": "d891588271e94a2c5dd05a590c3794f53d31ec5e",
+      "format": "JSON"
+    },
+    {
+      "name": "irishtimes-2022-08-04T13:28:58.071151+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659616143",
+      "size": "44483",
+      "md5": "2fbd541a5fb7e434f45d934c563f4c47",
+      "crc32": "03f51ab7",
+      "sha1": "f01d9bcd4e528beb62ecc9f29f88f03c2a272c01",
+      "format": "JSON"
+    },
+    {
+      "name": "irishtimes-2022-08-04T13:28:58.071151+01:00.jpg",
+      "source": "original",
+      "mtime": "1659616139",
+      "size": "259703",
+      "md5": "efd5589e5908fc65f3509bf88153c012",
+      "crc32": "371f8379",
+      "sha1": "d2b366e09947209b44a00f925914346b41b5123f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "irishtimes-2022-08-04T13:28:58.071151+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659616144",
+      "size": "1486",
+      "md5": "4828035814a1c9c53d57de1b3832b0a1",
+      "crc32": "83495834",
+      "sha1": "ad22b264b96ba5a226003454450cc1003e600d8f",
+      "format": "JSON"
+    },
+    {
+      "name": "irishtimes-2022-08-04T13:28:58.071151+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "irishtimes-2022-08-04T13:28:58.071151+01:00.jpg",
+      "mtime": "1659621537",
+      "size": "8885",
+      "md5": "bb4785632143ee3de3cd6a11c7017db0",
+      "crc32": "65ae2db3",
+      "sha1": "16d5c6495c0a136c845f3e79b7af5fcee9eca90e"
+    },
+    {
       "name": "irishtimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "57310c731ca9c7caac2f87aa966286d8f25c972c",
-      "mtime": "1659573626",
-      "size": "36314",
-      "md5": "200c2611ba08723f6e1f618c6472c573",
-      "crc32": "c65c37b8",
-      "sha1": "502d9e9f7f213ff68fed4d755bb150493c6fe887",
+      "btih": "84ca9d6a959c352d03bde3928ad2a0327ba12be3",
+      "mtime": "1659621540",
+      "size": "37363",
+      "md5": "2437b67debf67d240ff14ed279b0d89a",
+      "crc32": "4d51e571",
+      "sha1": "b7ef807b52e8e923153f039d5938bd5373eb637f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "irishtimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "86d718ec635423e04692f3dcd5e178ed",
+      "md5": "d7faca2e488d492b8a145abf599f9600",
       "summation": "md5"
     },
     {
       "name": "irishtimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659573396",
-      "size": "221184",
-      "md5": "ade9a437a4aa543f95c455fab68cbadb",
-      "crc32": "dd4dc9c8",
-      "sha1": "520ca9db47130d22093c7a0b7f8f276a69bd1155",
+      "mtime": "1659616147",
+      "size": "225280",
+      "md5": "ece3e26af8a3bf6d7c40d9e791894ca1",
+      "crc32": "71a26241",
+      "sha1": "510f775188ca3cb5323e23c3ac308edf9067eda7",
       "format": "Metadata"
     },
     {
@@ -1754,9 +1806,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 168,
-  "item_last_updated": 1659573626,
-  "item_size": 13190159,
+  "files_count": 173,
+  "item_last_updated": 1659621540,
+  "item_size": 13566309,
   "metadata": {
     "identifier": "irishtimes-2022",
     "collection": [
@@ -1773,10 +1825,10 @@
     "publicdate": "2022-07-18 02:24:06",
     "addeddate": "2022-07-18 02:24:06"
   },
-  "server": "ia601506.us.archive.org",
-  "uniq": 695685102,
+  "server": "ia801506.us.archive.org",
+  "uniq": 329284607,
   "workable_servers": [
-    "ia601506.us.archive.org",
-    "ia801506.us.archive.org"
+    "ia801506.us.archive.org",
+    "ia601506.us.archive.org"
   ]
 }
