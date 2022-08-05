@@ -7,7 +7,7 @@ orphan: true
 
 # U.K. national news
 
-The most recent homepages from 10 news sites in this bundle.
+The most recent homepages from 11 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -54,6 +54,15 @@ The most recent homepages from 10 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/ft.html">Financial Times</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/spectator.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/spectator.jpg"
+     alt="Spectator"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/spectator.html">Spectator</a></p>
 </div>
 
 <div class="latest-child">
@@ -121,6 +130,7 @@ The most recent homepages from 10 news sites in this bundle.
 |[Daily Mirror](https://palewi.re/docs/news-homepages/sites/dailymirror.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailymirror.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dailymirror.xml)|
 |[Evening Standard](https://palewi.re/docs/news-homepages/sites/eveningstandard.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/eveningstandard.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/eveningstandard.xml)|
 |[Financial Times](https://palewi.re/docs/news-homepages/sites/ft.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ft.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ft.xml)|
+|[Spectator](https://palewi.re/docs/news-homepages/sites/spectator.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/spectator.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/spectator.xml)|
 |[The Guardian](https://palewi.re/docs/news-homepages/sites/guardian.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/guardian.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/guardian.xml)|
 |[The Independent](https://palewi.re/docs/news-homepages/sites/independent.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/independent.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/independent.xml)|
 |[The Sun](https://palewi.re/docs/news-homepages/sites/thesun.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thesun.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thesun.xml)|

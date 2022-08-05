@@ -7,7 +7,7 @@ orphan: true
 
 # France
 
-The most recent homepages from 14 news sites in this bundle.
+The most recent homepages from 15 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -27,6 +27,15 @@ The most recent homepages from 14 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/bfmtv.html">BFMTV</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/charlie_hebdo_.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/charlie_hebdo_.jpg"
+     alt="Charlie Hebdo"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/charlie_hebdo_.html">Charlie Hebdo</a></p>
 </div>
 
 <div class="latest-child">
@@ -154,6 +163,7 @@ The most recent homepages from 14 news sites in this bundle.
 | :---- | :---------------: | :-- |
 |[20 Minutes](https://palewi.re/docs/news-homepages/sites/20minutes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/20minutes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/20minutes.xml)|
 |[BFMTV](https://palewi.re/docs/news-homepages/sites/bfmtv.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bfmtv.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bfmtv.xml)|
+|[Charlie Hebdo](https://palewi.re/docs/news-homepages/sites/charlie_hebdo_.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/charlie_hebdo_.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/charlie_hebdo_.xml)|
 |[FRANCE 24](https://palewi.re/docs/news-homepages/sites/france24.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/france24.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/france24.xml)|
 |[France 24 English](https://palewi.re/docs/news-homepages/sites/france24_en.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/france24_en.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/france24_en.xml)|
 |[franceinfo](https://palewi.re/docs/news-homepages/sites/franceinfo.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/franceinfo.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/franceinfo.xml)|

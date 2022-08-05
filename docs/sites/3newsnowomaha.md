@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 12 screenshots with the Internet Archive.
+The archiving routine has saved 13 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-08-04T18:26:31.823800-05:00.jpg">
+  <img src="https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-08-04T18:26:31.823800-05:00.jpg"
+     alt="KMTV 3 News Now at 2022-08-04 18:26:33-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-08-04T18:26:31.823800-05:00.jpg">August 4 at 6:26 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-08-04T06:08:39.668082-05:00.jpg">
@@ -127,15 +136,6 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-07-30T14:34:52.423769-05:00.jpg">July 30 at 2:34 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-07-30T11:33:47.628938-05:00.jpg">
-  <img src="https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-07-30T11:33:47.628938-05:00.jpg"
-     alt="KMTV 3 News Now at 2022-07-30 11:33:53-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-07-30T11:33:47.628938-05:00.jpg">July 30 at 11:33 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
@@ -158,7 +158,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 9 accessibility trees with the Internet Archive.
+The archiving routine has saved 10 accessibility trees with the Internet Archive.
 
 
 
@@ -166,6 +166,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 4 at 6:26 PM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-08-04T18:26:31.823800-05:00.accessibility.json) |
 | [August 4 at 6:08 AM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-08-04T06:08:39.668082-05:00.accessibility.json) |
 | [August 3 at 6:14 PM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-08-03T18:14:00.370999-05:00.accessibility.json) |
 | [August 3 at 7:31 AM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-08-03T07:31:31.231279-05:00.accessibility.json) |
@@ -180,7 +181,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 12 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 13 Lighthouse audits with the Internet Archive.
 
 
 
@@ -188,6 +189,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 4 at 6:26 PM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-08-04T18:26:31.823800-05:00.lighthouse.json) |
 | [August 4 at 6:08 AM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-08-04T06:08:39.668082-05:00.lighthouse.json) |
 | [August 3 at 6:14 PM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-08-03T18:14:00.370999-05:00.lighthouse.json) |
 | [August 3 at 7:31 AM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-08-03T07:31:31.231279-05:00.lighthouse.json) |
@@ -197,7 +199,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 1 at 6:08 AM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-08-01T06:08:40.731642-05:00.lighthouse.json) |
 | [July 31 at 7:04 PM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-07-31T19:04:43.379897-05:00.lighthouse.json) |
 | [July 31 at 6:05 AM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-07-31T06:05:23.533626-05:00.lighthouse.json) |
-| [July 30 at 6:10 PM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-07-30T18:10:20.939259-05:00.lighthouse.json) |
 
 
 

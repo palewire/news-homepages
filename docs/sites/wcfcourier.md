@@ -223,7 +223,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 189 hyperlink lists with the Internet Archive.
+The archiving routine has saved 190 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 4 at 12:09 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-08-04T12:09:14.101298-05:00.hyperlinks.json) |
 | [August 3 at 11:41 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-08-03T23:41:33.720309-05:00.hyperlinks.json) |
 | [August 3 at 12:39 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-08-03T12:39:49.233265-05:00.hyperlinks.json) |
 | [August 3 at 12:16 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-08-03T12:16:46.150245-05:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 1 at 11:37 AM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-08-01T11:37:53.448930-05:00.hyperlinks.json) |
 | [August 1 at 11:16 AM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-08-01T11:16:38.826719-05:00.hyperlinks.json) |
 | [July 31 at 11:02 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-31T23:02:39.356741-05:00.hyperlinks.json) |
-| [July 31 at 11:00 AM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-31T11:00:09.371315-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 185 accessibility trees with the Internet Archive.
+The archiving routine has saved 186 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 4 at 12:09 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-08-04T12:09:14.101298-05:00.accessibility.json) |
 | [August 3 at 11:41 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-08-03T23:41:33.720309-05:00.accessibility.json) |
 | [August 3 at 12:39 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-08-03T12:39:49.233265-05:00.accessibility.json) |
 | [August 3 at 12:16 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-08-03T12:16:46.150245-05:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 1 at 11:37 AM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-08-01T11:37:53.448930-05:00.accessibility.json) |
 | [August 1 at 11:16 AM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-08-01T11:16:38.826719-05:00.accessibility.json) |
 | [July 31 at 11:02 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-31T23:02:39.356741-05:00.accessibility.json) |
-| [July 31 at 11:00 AM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-31T11:00:09.371315-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 28 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 29 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 4 at 12:09 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-08-04T12:09:14.101298-05:00.lighthouse.json) |
 | [August 3 at 11:41 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-08-03T23:41:33.720309-05:00.lighthouse.json) |
 | [August 3 at 12:39 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-08-03T12:39:49.233265-05:00.lighthouse.json) |
 | [August 3 at 12:16 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-08-03T12:16:46.150245-05:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 1 at 11:37 AM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-08-01T11:37:53.448930-05:00.lighthouse.json) |
 | [August 1 at 11:16 AM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-08-01T11:16:38.826719-05:00.lighthouse.json) |
 | [July 31 at 11:02 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-31T23:02:39.356741-05:00.lighthouse.json) |
-| [July 31 at 11:00 AM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-07-31T11:00:09.371315-05:00.lighthouse.json) |
 
 
 

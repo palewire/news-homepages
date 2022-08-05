@@ -223,7 +223,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 205 hyperlink lists with the Internet Archive.
+The archiving routine has saved 206 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 4 at 7:30 AM](https://archive.org/download/kccinews-2022/kccinews-2022-08-04T07:30:33.754297-05:00.hyperlinks.json) |
 | [August 3 at 7:36 PM](https://archive.org/download/kccinews-2022/kccinews-2022-08-03T19:36:23.852090-05:00.hyperlinks.json) |
 | [August 3 at 12:39 PM](https://archive.org/download/kccinews-2022/kccinews-2022-08-03T12:39:03.431574-05:00.hyperlinks.json) |
 | [August 3 at 7:47 AM](https://archive.org/download/kccinews-2022/kccinews-2022-08-03T07:47:10.917210-05:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 1 at 11:37 AM](https://archive.org/download/kccinews-2022/kccinews-2022-08-01T11:37:44.394102-05:00.hyperlinks.json) |
 | [August 1 at 7:21 AM](https://archive.org/download/kccinews-2022/kccinews-2022-08-01T07:20:59.345861-05:00.hyperlinks.json) |
 | [July 31 at 7:17 PM](https://archive.org/download/kccinews-2022/kccinews-2022-07-31T19:17:26.902045-05:00.hyperlinks.json) |
-| [July 31 at 8:17 AM](https://archive.org/download/kccinews-2022/kccinews-2022-07-31T08:17:08.023139-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 208 accessibility trees with the Internet Archive.
+The archiving routine has saved 209 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 4 at 7:30 AM](https://archive.org/download/kccinews-2022/kccinews-2022-08-04T07:30:33.754297-05:00.accessibility.json) |
 | [August 3 at 7:36 PM](https://archive.org/download/kccinews-2022/kccinews-2022-08-03T19:36:23.852090-05:00.accessibility.json) |
 | [August 3 at 12:39 PM](https://archive.org/download/kccinews-2022/kccinews-2022-08-03T12:39:03.431574-05:00.accessibility.json) |
 | [August 3 at 7:47 AM](https://archive.org/download/kccinews-2022/kccinews-2022-08-03T07:47:10.917210-05:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 1 at 11:37 AM](https://archive.org/download/kccinews-2022/kccinews-2022-08-01T11:37:44.394102-05:00.accessibility.json) |
 | [August 1 at 7:21 AM](https://archive.org/download/kccinews-2022/kccinews-2022-08-01T07:20:59.345861-05:00.accessibility.json) |
 | [July 31 at 7:17 PM](https://archive.org/download/kccinews-2022/kccinews-2022-07-31T19:17:26.902045-05:00.accessibility.json) |
-| [July 31 at 8:17 AM](https://archive.org/download/kccinews-2022/kccinews-2022-07-31T08:17:08.023139-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 28 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 29 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 4 at 7:30 AM](https://archive.org/download/kccinews-2022/kccinews-2022-08-04T07:30:33.754297-05:00.lighthouse.json) |
 | [August 3 at 7:36 PM](https://archive.org/download/kccinews-2022/kccinews-2022-08-03T19:36:23.852090-05:00.lighthouse.json) |
 | [August 3 at 12:39 PM](https://archive.org/download/kccinews-2022/kccinews-2022-08-03T12:39:03.431574-05:00.lighthouse.json) |
 | [August 3 at 7:47 AM](https://archive.org/download/kccinews-2022/kccinews-2022-08-03T07:47:10.917210-05:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 1 at 11:37 AM](https://archive.org/download/kccinews-2022/kccinews-2022-08-01T11:37:44.394102-05:00.lighthouse.json) |
 | [August 1 at 7:21 AM](https://archive.org/download/kccinews-2022/kccinews-2022-08-01T07:20:59.345861-05:00.lighthouse.json) |
 | [July 31 at 7:17 PM](https://archive.org/download/kccinews-2022/kccinews-2022-07-31T19:17:26.902045-05:00.lighthouse.json) |
-| [July 31 at 8:17 AM](https://archive.org/download/kccinews-2022/kccinews-2022-07-31T08:17:08.023139-05:00.lighthouse.json) |
 
 
 

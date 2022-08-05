@@ -140,7 +140,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 19 hyperlink lists with the Internet Archive.
+The archiving routine has saved 20 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 4 at 5:27 PM](https://archive.org/download/lesoir-2022/lesoir-2022-08-04T17:27:27.586049+02:00.hyperlinks.json) |
 | [August 4 at 5:25 AM](https://archive.org/download/lesoir-2022/lesoir-2022-08-04T05:25:51.933647+02:00.hyperlinks.json) |
 | [August 3 at 7:01 PM](https://archive.org/download/lesoir-2022/lesoir-2022-08-03T19:01:26.683241+02:00.hyperlinks.json) |
 | [August 3 at 6:35 AM](https://archive.org/download/lesoir-2022/lesoir-2022-08-03T06:35:22.295647+02:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 1 at 4:39 AM](https://archive.org/download/lesoir-2022/lesoir-2022-08-01T04:38:54.654599+02:00.hyperlinks.json) |
 | [July 31 at 4:40 PM](https://archive.org/download/lesoir-2022/lesoir-2022-07-31T16:40:11.400570+02:00.hyperlinks.json) |
 | [July 31 at 5:00 AM](https://archive.org/download/lesoir-2022/lesoir-2022-07-31T05:00:22.440373+02:00.hyperlinks.json) |
-| [July 30 at 5:43 PM](https://archive.org/download/lesoir-2022/lesoir-2022-07-30T17:42:56.854127+02:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 19 accessibility trees with the Internet Archive.
+The archiving routine has saved 20 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 4 at 5:27 PM](https://archive.org/download/lesoir-2022/lesoir-2022-08-04T17:27:27.586049+02:00.accessibility.json) |
 | [August 4 at 5:25 AM](https://archive.org/download/lesoir-2022/lesoir-2022-08-04T05:25:51.933647+02:00.accessibility.json) |
 | [August 3 at 7:01 PM](https://archive.org/download/lesoir-2022/lesoir-2022-08-03T19:01:26.683241+02:00.accessibility.json) |
 | [August 3 at 6:35 AM](https://archive.org/download/lesoir-2022/lesoir-2022-08-03T06:35:22.295647+02:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [August 1 at 4:38 AM](https://archive.org/download/lesoir-2022/lesoir-2022-08-01T04:38:54.654599+02:00.accessibility.json) |
 | [July 31 at 4:40 PM](https://archive.org/download/lesoir-2022/lesoir-2022-07-31T16:40:11.400570+02:00.accessibility.json) |
 | [July 31 at 5:00 AM](https://archive.org/download/lesoir-2022/lesoir-2022-07-31T05:00:22.440373+02:00.accessibility.json) |
-| [July 30 at 5:43 PM](https://archive.org/download/lesoir-2022/lesoir-2022-07-30T17:42:56.854127+02:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 19 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 20 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 4 at 5:27 PM](https://archive.org/download/lesoir-2022/lesoir-2022-08-04T17:27:27.586049+02:00.lighthouse.json) |
 | [August 4 at 5:25 AM](https://archive.org/download/lesoir-2022/lesoir-2022-08-04T05:25:51.933647+02:00.lighthouse.json) |
 | [August 3 at 7:01 PM](https://archive.org/download/lesoir-2022/lesoir-2022-08-03T19:01:26.683241+02:00.lighthouse.json) |
 | [August 3 at 6:35 AM](https://archive.org/download/lesoir-2022/lesoir-2022-08-03T06:35:22.295647+02:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 1 at 4:39 AM](https://archive.org/download/lesoir-2022/lesoir-2022-08-01T04:38:54.654599+02:00.lighthouse.json) |
 | [July 31 at 4:40 PM](https://archive.org/download/lesoir-2022/lesoir-2022-07-31T16:40:11.400570+02:00.lighthouse.json) |
 | [July 31 at 5:00 AM](https://archive.org/download/lesoir-2022/lesoir-2022-07-31T05:00:22.440373+02:00.lighthouse.json) |
-| [July 30 at 5:43 PM](https://archive.org/download/lesoir-2022/lesoir-2022-07-30T17:42:56.854127+02:00.lighthouse.json) |
 
 
 

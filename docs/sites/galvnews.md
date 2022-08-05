@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 37 screenshots with the Internet Archive.
+The archiving routine has saved 38 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 37 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/galvnews-2022/galvnews-2022-08-04T18:37:07.057555-05:00.jpg">
+  <img src="https://archive.org/download/galvnews-2022/galvnews-2022-08-04T18:37:07.057555-05:00.jpg"
+     alt="Galveston County Daily News at 2022-08-04 18:37:10-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/galvnews-2022/galvnews-2022-08-04T18:37:07.057555-05:00.jpg">August 4 at 6:37 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/galvnews-2022/galvnews-2022-08-04T06:17:06.911564-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/galvnews-2022/galvnews-2022-07-30T06:17:29.644664-05:00.jpg">July 30 at 6:17 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/galvnews-2022/galvnews-2022-07-29T19:08:20.856460-05:00.jpg">
-  <img src="https://archive.org/download/galvnews-2022/galvnews-2022-07-29T19:08:20.856460-05:00.jpg"
-     alt="Galveston County Daily News at 2022-07-29 19:08:22-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/galvnews-2022/galvnews-2022-07-29T19:08:20.856460-05:00.jpg">July 29 at 7:08 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 35 hyperlink lists with the Internet Archive.
+The archiving routine has saved 36 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 4 at 6:37 PM](https://archive.org/download/galvnews-2022/galvnews-2022-08-04T18:37:07.057555-05:00.hyperlinks.json) |
 | [August 4 at 6:17 AM](https://archive.org/download/galvnews-2022/galvnews-2022-08-04T06:17:06.911564-05:00.hyperlinks.json) |
 | [August 3 at 6:25 PM](https://archive.org/download/galvnews-2022/galvnews-2022-08-03T18:25:51.458446-05:00.hyperlinks.json) |
 | [August 3 at 7:43 AM](https://archive.org/download/galvnews-2022/galvnews-2022-08-03T07:42:59.385395-05:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [August 1 at 6:18 AM](https://archive.org/download/galvnews-2022/galvnews-2022-08-01T06:18:10.814934-05:00.hyperlinks.json) |
 | [July 31 at 7:14 PM](https://archive.org/download/galvnews-2022/galvnews-2022-07-31T19:14:32.784239-05:00.hyperlinks.json) |
 | [July 31 at 6:13 AM](https://archive.org/download/galvnews-2022/galvnews-2022-07-31T06:13:20.691443-05:00.hyperlinks.json) |
-| [July 30 at 6:19 PM](https://archive.org/download/galvnews-2022/galvnews-2022-07-30T18:19:24.470153-05:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -434,7 +434,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 24 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 25 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 4 at 6:37 PM](https://archive.org/download/galvnews-2022/galvnews-2022-08-04T18:37:07.057555-05:00.lighthouse.json) |
 | [August 4 at 6:17 AM](https://archive.org/download/galvnews-2022/galvnews-2022-08-04T06:17:06.911564-05:00.lighthouse.json) |
 | [August 3 at 6:26 PM](https://archive.org/download/galvnews-2022/galvnews-2022-08-03T18:25:51.458446-05:00.lighthouse.json) |
 | [August 3 at 7:43 AM](https://archive.org/download/galvnews-2022/galvnews-2022-08-03T07:42:59.385395-05:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 1 at 6:18 AM](https://archive.org/download/galvnews-2022/galvnews-2022-08-01T06:18:10.814934-05:00.lighthouse.json) |
 | [July 31 at 7:14 PM](https://archive.org/download/galvnews-2022/galvnews-2022-07-31T19:14:32.784239-05:00.lighthouse.json) |
 | [July 31 at 6:13 AM](https://archive.org/download/galvnews-2022/galvnews-2022-07-31T06:13:20.691443-05:00.lighthouse.json) |
-| [July 30 at 6:19 PM](https://archive.org/download/galvnews-2022/galvnews-2022-07-30T18:19:24.470153-05:00.lighthouse.json) |
 
 
 

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 107 screenshots with the Internet Archive.
+The archiving routine has saved 110 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/time-2022/time-2022-08-04T17:22:22.511464-04:00.jpg">
+  <img src="https://archive.org/download/time-2022/time-2022-08-04T17:22:22.511464-04:00.jpg"
+     alt="TIME at 2022-08-04 17:22:28-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/time-2022/time-2022-08-04T17:22:22.511464-04:00.jpg">August 4 at 5:22 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/time-2022/time-2022-08-04T09:58:13.416090-04:00.jpg">
+  <img src="https://archive.org/download/time-2022/time-2022-08-04T09:58:13.416090-04:00.jpg"
+     alt="TIME at 2022-08-04 09:58:15-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/time-2022/time-2022-08-04T09:58:13.416090-04:00.jpg">August 4 at 9:58 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/time-2022/time-2022-08-04T09:46:14.528329-04:00.jpg">
+  <img src="https://archive.org/download/time-2022/time-2022-08-04T09:46:14.528329-04:00.jpg"
+     alt="TIME at 2022-08-04 09:46:16-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/time-2022/time-2022-08-04T09:46:14.528329-04:00.jpg">August 4 at 9:46 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/time-2022/time-2022-08-03T23:11:30.703190-04:00.jpg">
   <img src="https://archive.org/download/time-2022/time-2022-08-03T23:11:30.703190-04:00.jpg"
      alt="TIME at 2022-08-03 23:11:32-04:00 local time"
@@ -192,38 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/time-2022/time-2022-08-01T22:00:37.026970-04:00.jpg">August 1 at 10:00 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/time-2022/time-2022-08-01T17:14:01.647362-04:00.jpg">
-  <img src="https://archive.org/download/time-2022/time-2022-08-01T17:14:01.647362-04:00.jpg"
-     alt="TIME at 2022-08-01 17:14:08-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/time-2022/time-2022-08-01T17:14:01.647362-04:00.jpg">August 1 at 5:14 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/time-2022/time-2022-08-01T10:50:56.145752-04:00.jpg">
-  <img src="https://archive.org/download/time-2022/time-2022-08-01T10:50:56.145752-04:00.jpg"
-     alt="TIME at 2022-08-01 10:50:57-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/time-2022/time-2022-08-01T10:50:56.145752-04:00.jpg">August 1 at 10:50 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/time-2022/time-2022-08-01T09:40:31.909269-04:00.jpg">
-  <img src="https://archive.org/download/time-2022/time-2022-08-01T09:40:31.909269-04:00.jpg"
-     alt="TIME at 2022-08-01 09:40:38-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/time-2022/time-2022-08-01T09:40:31.909269-04:00.jpg">August 1 at 9:40 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 104 hyperlink lists with the Internet Archive.
+The archiving routine has saved 107 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 4 at 5:22 PM](https://archive.org/download/time-2022/time-2022-08-04T17:22:22.511464-04:00.hyperlinks.json) |
+| [August 4 at 9:58 AM](https://archive.org/download/time-2022/time-2022-08-04T09:58:13.416090-04:00.hyperlinks.json) |
+| [August 4 at 9:46 AM](https://archive.org/download/time-2022/time-2022-08-04T09:46:14.528329-04:00.hyperlinks.json) |
 | [August 3 at 11:11 PM](https://archive.org/download/time-2022/time-2022-08-03T23:11:30.703190-04:00.hyperlinks.json) |
 | [August 3 at 5:13 PM](https://archive.org/download/time-2022/time-2022-08-03T17:13:38.524042-04:00.hyperlinks.json) |
 | [August 3 at 10:31 AM](https://archive.org/download/time-2022/time-2022-08-03T10:31:35.551119-04:00.hyperlinks.json) |
@@ -321,14 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 2 at 9:58 PM](https://archive.org/download/time-2022/time-2022-08-02T21:58:12.734986-04:00.hyperlinks.json) |
 | [August 2 at 5:13 PM](https://archive.org/download/time-2022/time-2022-08-02T17:13:34.609467-04:00.hyperlinks.json) |
 | [August 2 at 9:45 AM](https://archive.org/download/time-2022/time-2022-08-02T09:45:41.661204-04:00.hyperlinks.json) |
-| [August 2 at 9:35 AM](https://archive.org/download/time-2022/time-2022-08-02T09:35:44.221418-04:00.hyperlinks.json) |
-| [August 1 at 10:00 PM](https://archive.org/download/time-2022/time-2022-08-01T22:00:37.026970-04:00.hyperlinks.json) |
-| [August 1 at 5:14 PM](https://archive.org/download/time-2022/time-2022-08-01T17:14:01.647362-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 107 accessibility trees with the Internet Archive.
+The archiving routine has saved 110 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 4 at 5:22 PM](https://archive.org/download/time-2022/time-2022-08-04T17:22:22.511464-04:00.accessibility.json) |
+| [August 4 at 9:58 AM](https://archive.org/download/time-2022/time-2022-08-04T09:58:13.416090-04:00.accessibility.json) |
+| [August 4 at 9:46 AM](https://archive.org/download/time-2022/time-2022-08-04T09:46:14.528329-04:00.accessibility.json) |
 | [August 3 at 11:11 PM](https://archive.org/download/time-2022/time-2022-08-03T23:11:30.703190-04:00.accessibility.json) |
 | [August 3 at 5:13 PM](https://archive.org/download/time-2022/time-2022-08-03T17:13:38.524042-04:00.accessibility.json) |
 | [August 3 at 10:31 AM](https://archive.org/download/time-2022/time-2022-08-03T10:31:35.551119-04:00.accessibility.json) |
@@ -426,15 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 2 at 9:58 PM](https://archive.org/download/time-2022/time-2022-08-02T21:58:12.734986-04:00.accessibility.json) |
 | [August 2 at 5:13 PM](https://archive.org/download/time-2022/time-2022-08-02T17:13:34.609467-04:00.accessibility.json) |
 | [August 2 at 9:45 AM](https://archive.org/download/time-2022/time-2022-08-02T09:45:41.661204-04:00.accessibility.json) |
-| [August 2 at 9:35 AM](https://archive.org/download/time-2022/time-2022-08-02T09:35:44.221418-04:00.accessibility.json) |
-| [August 1 at 10:00 PM](https://archive.org/download/time-2022/time-2022-08-01T22:00:37.026970-04:00.accessibility.json) |
-| [August 1 at 5:14 PM](https://archive.org/download/time-2022/time-2022-08-01T17:14:01.647362-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 33 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 36 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 4 at 5:22 PM](https://archive.org/download/time-2022/time-2022-08-04T17:22:22.511464-04:00.lighthouse.json) |
+| [August 4 at 9:58 AM](https://archive.org/download/time-2022/time-2022-08-04T09:58:13.416090-04:00.lighthouse.json) |
+| [August 4 at 9:46 AM](https://archive.org/download/time-2022/time-2022-08-04T09:46:14.528329-04:00.lighthouse.json) |
 | [August 3 at 11:11 PM](https://archive.org/download/time-2022/time-2022-08-03T23:11:30.703190-04:00.lighthouse.json) |
 | [August 3 at 5:13 PM](https://archive.org/download/time-2022/time-2022-08-03T17:13:38.524042-04:00.lighthouse.json) |
 | [August 3 at 10:31 AM](https://archive.org/download/time-2022/time-2022-08-03T10:31:35.551119-04:00.lighthouse.json) |
@@ -532,9 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 2 at 9:58 PM](https://archive.org/download/time-2022/time-2022-08-02T21:58:12.734986-04:00.lighthouse.json) |
 | [August 2 at 5:13 PM](https://archive.org/download/time-2022/time-2022-08-02T17:13:34.609467-04:00.lighthouse.json) |
 | [August 2 at 9:45 AM](https://archive.org/download/time-2022/time-2022-08-02T09:45:41.661204-04:00.lighthouse.json) |
-| [August 2 at 9:35 AM](https://archive.org/download/time-2022/time-2022-08-02T09:35:44.221418-04:00.lighthouse.json) |
-| [August 1 at 10:00 PM](https://archive.org/download/time-2022/time-2022-08-01T22:00:37.026970-04:00.lighthouse.json) |
-| [August 1 at 5:14 PM](https://archive.org/download/time-2022/time-2022-08-01T17:14:01.647362-04:00.lighthouse.json) |
 
 
 
