@@ -118,7 +118,7 @@ def single(handle: str, input_dir: str):
     # Create the headline
     tweet = f"""The {data['name']} homepage at {now_local.strftime('%-I:%M %p')} in {data['location']}
 
-More: https://palewi.re/docs/news-homepages/sites/{data['slug'].lower()}.html"""
+More: https://palewi.re/docs/news-homepages/sites/{data['handle'].lower()}.html"""
 
     # Get the image
     input_path = Path(input_dir)
