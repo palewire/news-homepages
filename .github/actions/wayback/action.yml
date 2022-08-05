@@ -19,18 +19,9 @@ runs:
       name: Install Python dependencies
       uses: ./.github/actions/install
 
-    - id: install-apt-packages
-      name: Install apt packages
-      run: |
-        sudo apt-get update
-        sudo apt install -y curl
-      shell: bash
-
     - id: save-page
       name: Save in Wayback Machine
-      run: |
-        mkdir _dist/
-        pipenv run python -m newshomepages.wayback ${{ inputs.source }} > _dist/${{ inputs.source }}.wayback.json
+      run: pipenv run python -m newshomepages.wayback ${{ inputs.source }} -o _dist
       shell: bash
       env:
         IA_ACCESS_KEY: ${{ inputs.access-key }}
