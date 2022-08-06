@@ -1,5 +1,6 @@
 {
-  "created": 1659747566,
+  "conflict": 1659789399,
+  "created": 1659789399,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/31/items/quillette-2022",
@@ -1882,31 +1883,93 @@
       "sha1": "ca758bfa115eac28780461a2b5177913d79af157"
     },
     {
+      "name": "quillette-2022-08-06T03:12:21.796721+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659751944",
+      "size": "9699",
+      "md5": "edc7e0de9603ea53fac0a29d466b6365",
+      "crc32": "12630dc2",
+      "sha1": "b38a77210e2086f0c839b64d7dde97ba1364a375",
+      "format": "JSON"
+    },
+    {
+      "name": "quillette-2022-08-06T03:12:21.796721+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659751946",
+      "size": "5918",
+      "md5": "634f34c3e086a3d1fce73698fde6503d",
+      "crc32": "b2a626fe",
+      "sha1": "00c997ba8cf8302e5d7384401d21f795f1d3b751",
+      "format": "JSON"
+    },
+    {
+      "name": "quillette-2022-08-06T03:12:21.796721+01:00.jpg",
+      "source": "original",
+      "mtime": "1659751943",
+      "size": "190861",
+      "md5": "28aa57a457840cff5f40f67ca38cd742",
+      "crc32": "1b22bf6c",
+      "sha1": "f72cce1d94a12703a11f6326c3e8707197f108f1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "quillette-2022-08-06T03:12:21.796721+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659751948",
+      "size": "1448",
+      "md5": "670b0a52933aeeb2ceaebcdd53e59927",
+      "crc32": "a6ed61b6",
+      "sha1": "a7d4f14a73ca1d71b26be33f5ada7b4b9a6827c2",
+      "format": "JSON"
+    },
+    {
+      "name": "quillette-2022-08-06T03:12:21.796721+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1659751949",
+      "size": "5085",
+      "md5": "84d22a5963037c98b17a3db98df4a48f",
+      "crc32": "2f8b573e",
+      "sha1": "0ebfe6e56a9f3865ecb6dabef2b639e5993491d6",
+      "format": "JSON"
+    },
+    {
+      "name": "quillette-2022-08-06T03:12:21.796721+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "quillette-2022-08-06T03:12:21.796721+01:00.jpg",
+      "mtime": "1659752020",
+      "size": "9255",
+      "md5": "79334e22dcd5c548eb7f45f4b35f4d62",
+      "crc32": "c8f10019",
+      "sha1": "07877b00944b4fc06ae209eccffbfafeb9e10704"
+    },
+    {
       "name": "quillette-2022_archive.torrent",
       "source": "metadata",
-      "btih": "93f69a8c5725514a46c726c95440f49383bbce99",
-      "mtime": "1659705743",
-      "size": "39249",
-      "md5": "b056d2801b411dd3f01b9e3d3d7bde44",
-      "crc32": "e1cc2c90",
-      "sha1": "e3961ee5e16322fc4ece635b1e8d5b163a4f111d",
+      "btih": "5b38ec202423309313cde7aea96420a8c4dee70a",
+      "mtime": "1659752025",
+      "size": "40499",
+      "md5": "55fae546bf200b829ebc459962cbabfb",
+      "crc32": "da740e9a",
+      "sha1": "909d53fa00066d7d7e1f6f5bf8076539cf9d8fc0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "quillette-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a00d33190904b083886d7d80be3c6a3a",
+      "md5": "9b4a66951ab5d453312b06121489e824",
       "summation": "md5"
     },
     {
       "name": "quillette-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659703522",
-      "size": "237568",
-      "md5": "1fd3c62b06fd7dbc7e89cdc4346741cd",
-      "crc32": "64825d69",
-      "sha1": "e185eaf2c40ed112550bd5fd0e549760671bb818",
+      "mtime": "1659751952",
+      "size": "245760",
+      "md5": "bf6e6cefd27818d7c685c132fd4a7f6e",
+      "crc32": "b495e797",
+      "sha1": "a551390074d3ba565fcbf98a391b9c36739622f9",
       "format": "Metadata"
     },
     {
@@ -1920,9 +1983,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 184,
-  "item_last_updated": 1659705743,
-  "item_size": 9036988,
+  "files_count": 190,
+  "item_last_updated": 1659752025,
+  "item_size": 9268696,
   "metadata": {
     "identifier": "quillette-2022",
     "collection": [
@@ -1939,99 +2002,29 @@
     "publicdate": "2022-07-18 03:31:39",
     "addeddate": "2022-07-18 03:31:39"
   },
-  "quillette-2022": {
-    "url": "https://quillette.com/",
-    "job_id": "spn2-d2b7dfbbdd0c348f1e037d10163f21c9c0bce6e7",
-    "http_status": 200,
-    "outlinks": [
-      "https://quillette.com/tag/comedy/",
-      "https://quillette.com/2022/08/04/death-from-above/",
-      "https://quillette.com/terms-of-service/",
-      "https://quillette.com/tag/podcast/",
-      "https://quillette.com/about/",
-      "https://quillette.com/tag/politics/",
-      "https://quillette.com/2022/08/03/dave-chappelle-vs-the-new-puritans/",
-      "https://twitter.com/Quillette",
-      "https://quillette.com/author/kevin-mims/",
-      "https://quillette.com/privacy-policy/",
-      "https://quillette.com/2022/08/05/the-limits-of-radical-protest/",
-      "https://quillette.com/tag/quillette-weekly/",
-      "https://quillette.com/2022/08/01/the-real-challenges-facing-public-education/",
-      "https://quillette.com/2022/07/31/quillette-weekly-30-july-2022/",
-      "https://quillette.com/tag/science-tech/",
-      "https://quillette.com/2022/08/05/closing-the-tavistock-is-an-important-step/",
-      "https://www.instagram.com/quillette",
-      "https://quillette.com/author/matt-johnson/",
-      "https://quillette.com/2022/07/28/lost-soul-behind-bars/",
-      "https://quillette.com/author/clairelehmann/",
-      "https://quillette.com/subscribe",
-      "https://quillette.com/author/shane-trotter/",
-      "https://forum.quillette.com/",
-      "https://quillette.com/2022/08/03/canadas-unmarked-graves-social-panic/",
-      "https://quillette.com/author/quillette-magazine/",
-      "https://quillette.com/masthead/",
-      "https://quillette.com/author/allan-stratton/",
-      "https://quillette.com/tag/gender-dysphoria/",
-      "https://quillette.com/tag/art-and-culture/",
-      "https://quillette.com/tag/arts-and-culture/",
-      "https://quillette.com/rss/",
-      "https://quillette.com/2022/08/02/go-ask-beatrice/",
-      "https://quillette.com/author/brian-stewart/",
-      "https://quillette.com/2022/07/29/guilty-and-insane/",
-      "https://quillette.com/tag/education/",
-      "https://quillette.com/contribute/",
-      "https://quillette.com/author/bernard/",
-      "https://www.facebook.com/freethoughtlives",
-      "https://quillette.com/contact-us/"
-    ],
-    "timestamp": "20220805113553",
-    "original_url": "https://quillette.com/",
-    "resources": [
-      "https://quillette.com/",
-      "https://quillette.com/public/cards.min.css?v=335bf2b0be",
-      "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap",
-      "https://unpkg.com/@tryghost/portal@1.17.5/umd/portal.min.js",
-      "https://js.stripe.com/v3/",
-      "https://embed.podcasts.apple.com/us/podcast/27-rouge-a-quillette-podcast/id1615476026",
-      "https://quillette.com/public/cards.min.js?v=335bf2b0be",
-      "https://s3.amazonaws.com/prod.static-content.quillette.com/2021/08/Untitled-design---2021-08-26T071952.124.png",
-      "https://embed.podcasts.apple.com/us/podcast/quillette-podcast/id1441708286",
-      "https://fonts.gstatic.com/s/inter/v12/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7.woff2",
-      "https://quillette.com/assets/js/app.min.js?v=335bf2b0be",
-      "https://js.stripe.com/v3/m-outer-3cf1b0ffeaa4c0d0e29f721554c817d6.html",
-      "https://quillette.com/members/api/site/",
-      "https://quillette.com/members/api/member/",
-      "https://s3.amazonaws.com/prod.static-content.quillette.com/2022/08/Bayard-Rustin.png",
-      "https://s3.amazonaws.com/prod.static-content.quillette.com/2022/08/TG.jpg",
-      "https://s3.amazonaws.com/prod.static-content.quillette.com/2022/06/Screen-Shot-2022-06-16-at-1.39.27-pm.png",
-      "https://s3.amazonaws.com/prod.static-content.quillette.com/2021/12/MJ-photo.jpg",
-      "https://s3.amazonaws.com/prod.static-content.quillette.com/2021/08/Q--4--9.png",
-      "https://s3.amazonaws.com/prod.static-content.quillette.com/2022/08/asd.png",
-      "https://s3.amazonaws.com/prod.static-content.quillette.com/2022/08/photo-1600247991036-ab063c4c49ba.jpg",
-      "https://s3.amazonaws.com/prod.static-content.quillette.com/2022/03/Screen-Shot-2022-03-25-at-1.09.27-PM-1.png",
-      "https://s3.amazonaws.com/prod.static-content.quillette.com/2022/08/AYMAN-AL-ZAWAHIRI.png",
-      "https://s3.amazonaws.com/prod.static-content.quillette.com/2021/12/Brian.jpg",
-      "https://s3.amazonaws.com/prod.static-content.quillette.com/2022/07/kenny-eliason-zFSo6bnZJTw-unsplash.jpg",
-      "https://s3.amazonaws.com/prod.static-content.quillette.com/2021/08/IMG_6455.jpg",
-      "https://s3.amazonaws.com/prod.static-content.quillette.com/2021/09/Trotter-Headshot.jpg",
-      "https://s3.amazonaws.com/prod.static-content.quillette.com/2022/07/Quillette-Weekly-5.png",
-      "https://s3.amazonaws.com/prod.static-content.quillette.com/2021/09/claire-head-shot.png",
-      "https://s3.amazonaws.com/prod.static-content.quillette.com/2022/08/Go-Ask-Alice.png",
-      "https://s3.amazonaws.com/prod.static-content.quillette.com/2022/07/Upheaval.jpeg",
-      "https://s3.amazonaws.com/prod.static-content.quillette.com/2022/07/GettyImages-514869694.jpg",
-      "https://quillette.com/favicon.png"
-    ],
-    "duration_sec": 12.9,
-    "status": "success",
-    "counters": {
-      "outlinks": 39,
-      "embeds": 33
-    }
-  },
+  "pending_tasks": true,
   "server": "ia601505.us.archive.org",
-  "uniq": 683037266,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3354703374,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3354703448,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1196322129,
   "workable_servers": [
-    "ia601505.us.archive.org",
-    "ia801505.us.archive.org"
+    "ia601505.us.archive.org"
   ]
 }

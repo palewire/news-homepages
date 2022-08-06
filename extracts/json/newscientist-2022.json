@@ -1,5 +1,5 @@
 {
-  "created": 1659740972,
+  "created": 1659789238,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/27/items/newscientist-2022",
@@ -3006,31 +3006,93 @@
       "sha1": "56f22d2bccd577343e2cc837dd41aca5a667ca9a"
     },
     {
+      "name": "newscientist-2022-08-06T05:56:35.745644+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659761804",
+      "size": "17490",
+      "md5": "da4de8bc83d0b26767c129f5b1d2049d",
+      "crc32": "ce4e717b",
+      "sha1": "7527574e94a89f24ac65585a89e1b73e432e52a3",
+      "format": "JSON"
+    },
+    {
+      "name": "newscientist-2022-08-06T05:56:35.745644+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659761805",
+      "size": "14658",
+      "md5": "22bf1679a58f298ea60668e3abe9ca8b",
+      "crc32": "1cd023f7",
+      "sha1": "55183476069dbd7b3fa59f918e48fbad912c8a53",
+      "format": "JSON"
+    },
+    {
+      "name": "newscientist-2022-08-06T05:56:35.745644+01:00.jpg",
+      "source": "original",
+      "mtime": "1659761802",
+      "size": "306436",
+      "md5": "40ffb8bbbb2ce13dd5ee6bcf54f1a4c9",
+      "crc32": "23dced42",
+      "sha1": "df7c0194eebe229814bd18d2b36af9ef5390f6c0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newscientist-2022-08-06T05:56:35.745644+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659761807",
+      "size": "1513",
+      "md5": "eb9432b50c22e88bde2bb258146fd51a",
+      "crc32": "1d7bc257",
+      "sha1": "c092d19de7b968898c8950fbc301f7b6d7a4b31b",
+      "format": "JSON"
+    },
+    {
+      "name": "newscientist-2022-08-06T05:56:35.745644+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1659761809",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "newscientist-2022-08-06T05:56:35.745644+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newscientist-2022-08-06T05:56:35.745644+01:00.jpg",
+      "mtime": "1659761883",
+      "size": "10682",
+      "md5": "fc42f84baba907131a3e212fa28778e3",
+      "crc32": "fd3ff850",
+      "sha1": "63e9a26ae02ce9ace1d1179dca744fd8fc44017c"
+    },
+    {
       "name": "newscientist-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b332eebb1d5a7b80de058632a9ea6be986954ef3",
-      "mtime": "1659720952",
-      "size": "63067",
-      "md5": "be0df0ac4faa202efce0a62ca40849c9",
-      "crc32": "f0217755",
-      "sha1": "9ecbc4e7dd46d646a63d66a176bdcc52ede12bb3",
+      "btih": "b6619e0e0a4158d2e13d74295bd794419a60bcf3",
+      "mtime": "1659761889",
+      "size": "64337",
+      "md5": "cc588ae1ebc5e53831d4ae713a1c270e",
+      "crc32": "a1e63a29",
+      "sha1": "b3f31569194049b915699c40221a27a40127afec",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newscientist-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8603fcd4f29f486b863c43aa4fe8f77b",
+      "md5": "f574876746e29efbd3a52d275e886fb7",
       "summation": "md5"
     },
     {
       "name": "newscientist-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659720721",
-      "size": "360448",
-      "md5": "4f976b080418068b5347a8377e10f327",
-      "crc32": "e2e3ea6e",
-      "sha1": "6618e521601cb2811cc5dc75075e89b7f3190c7e",
+      "mtime": "1659761813",
+      "size": "368640",
+      "md5": "a964ba2eeb49702f1ee532af5fae282f",
+      "crc32": "aa118a34",
+      "sha1": "43043a9941dd82dd7a3a8d13c6792d2dc420a7de",
       "format": "Metadata"
     },
     {
@@ -3044,9 +3106,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 291,
-  "item_last_updated": 1659720952,
-  "item_size": 22702899,
+  "files_count": 297,
+  "item_last_updated": 1659761889,
+  "item_size": 23063342,
   "metadata": {
     "identifier": "newscientist-2022",
     "collection": [
@@ -3063,8 +3125,13 @@
     "publicdate": "2022-07-04 21:49:18",
     "addeddate": "2022-07-04 21:49:18"
   },
+  "newscientist-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "server": "ia802503.us.archive.org",
-  "uniq": 117163225,
+  "uniq": 1643527648,
   "workable_servers": [
     "ia802503.us.archive.org",
     "ia902503.us.archive.org"

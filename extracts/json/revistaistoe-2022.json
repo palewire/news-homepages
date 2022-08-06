@@ -1,5 +1,5 @@
 {
-  "created": 1659727388,
+  "created": 1659789444,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/16/items/revistaistoe-2022",
@@ -442,31 +442,93 @@
       "sha1": "bb65b48af1312f1e5d37c1e695a2f6028df863be"
     },
     {
+      "name": "revistaistoe-2022-08-05T23:12:22.833863-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659751945",
+      "size": "18987",
+      "md5": "6c779492ec08bfd1c6ec56ef2228f78f",
+      "crc32": "e736d946",
+      "sha1": "955a27e22fe613e1c15b0e9c9e3ab7742b6088d4",
+      "format": "JSON"
+    },
+    {
+      "name": "revistaistoe-2022-08-05T23:12:22.833863-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659751947",
+      "size": "18005",
+      "md5": "602a9b3aff979cc7db2e11f9bb0a026e",
+      "crc32": "cba3f1fc",
+      "sha1": "cfeb81762b845cb5e39b5558b78c0a2535d78a17",
+      "format": "JSON"
+    },
+    {
+      "name": "revistaistoe-2022-08-05T23:12:22.833863-03:00.jpg",
+      "source": "original",
+      "mtime": "1659751944",
+      "size": "244316",
+      "md5": "67c8c1b435862fe5666d57038914bcf4",
+      "crc32": "6cc69ae2",
+      "sha1": "dc50060751d77c6f9ced887aa2a9133865224145",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "revistaistoe-2022-08-05T23:12:22.833863-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659751948",
+      "size": "1440",
+      "md5": "83fa50c5d6fa0ffa252fa2bd9e1c5c7d",
+      "crc32": "d6e4a0c2",
+      "sha1": "2e6aeda777ddfbb4c2844362f158666bf297a3da",
+      "format": "JSON"
+    },
+    {
+      "name": "revistaistoe-2022-08-05T23:12:22.833863-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1659751949",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "revistaistoe-2022-08-05T23:12:22.833863-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "revistaistoe-2022-08-05T23:12:22.833863-03:00.jpg",
+      "mtime": "1659752279",
+      "size": "9996",
+      "md5": "7a92cacdeb002c067601bfd66065d331",
+      "crc32": "c844e99f",
+      "sha1": "4aeba68844878610f8bd585c44544547180864e7"
+    },
+    {
       "name": "revistaistoe-2022_archive.torrent",
       "source": "metadata",
-      "btih": "49d7d60da27821621236eee233270c32b99ab5b8",
-      "mtime": "1659705721",
-      "size": "10455",
-      "md5": "9f4881dc1b63274e5813e09a683269c7",
-      "crc32": "22b389a6",
-      "sha1": "396c48322942d7578ff8f6a2e32f2ae84050ecef",
+      "btih": "30daa539aba8a1da1d37e59595b9d02676bf4a91",
+      "mtime": "1659752319",
+      "size": "11744",
+      "md5": "f8e35857a5d362e545a68b80696c4b2e",
+      "crc32": "16c46610",
+      "sha1": "f7c708480f9c5544a53ddfa5e963da4ef9c86638",
       "format": "Archive BitTorrent"
     },
     {
       "name": "revistaistoe-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dda4e8d1d97846857d3a6b552d3c5a4e",
+      "md5": "c9e5f34c28377b295547fa694e5fc3fd",
       "summation": "md5"
     },
     {
       "name": "revistaistoe-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659703559",
-      "size": "65536",
-      "md5": "32d5112fcd254dc383255718aee1964c",
-      "crc32": "0e4ab359",
-      "sha1": "5f9583074143dc07b0c4d50f5451786966da2223",
+      "mtime": "1659751953",
+      "size": "73728",
+      "md5": "96a66c55c80652e74e131e2fc17272e6",
+      "crc32": "0469d7df",
+      "sha1": "06be8e0ae8e97dd33d4c747106d6e12bd1d22085",
       "format": "Metadata"
     },
     {
@@ -480,9 +542,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 46,
-  "item_last_updated": 1659705721,
-  "item_size": 2979847,
+  "files_count": 52,
+  "item_last_updated": 1659752319,
+  "item_size": 3282274,
   "metadata": {
     "identifier": "revistaistoe-2022",
     "collection": [
@@ -499,10 +561,15 @@
     "publicdate": "2022-08-03 00:43:13",
     "addeddate": "2022-08-03 00:43:13"
   },
-  "server": "ia801403.us.archive.org",
-  "uniq": 1437065349,
+  "revistaistoe-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "server": "ia601403.us.archive.org",
+  "uniq": 1824203053,
   "workable_servers": [
-    "ia801403.us.archive.org",
-    "ia601403.us.archive.org"
+    "ia601403.us.archive.org",
+    "ia801403.us.archive.org"
   ]
 }

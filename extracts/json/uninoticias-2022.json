@@ -1,5 +1,5 @@
 {
-  "created": 1659721341,
+  "created": 1659789691,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/16/items/uninoticias-2022",
@@ -1234,31 +1234,83 @@
       "sha1": "d07bb45b8556c64e209818828a1cefd98f6dacdb"
     },
     {
+      "name": "uninoticias-2022-08-05T22:26:53.821437-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659752816",
+      "size": "15731",
+      "md5": "5c70dee56dbb3062b3975758539468b3",
+      "crc32": "1c84a1dc",
+      "sha1": "4597aa61bdd6cf14da9f2d40536072b95c287f4e",
+      "format": "JSON"
+    },
+    {
+      "name": "uninoticias-2022-08-05T22:26:53.821437-04:00.jpg",
+      "source": "original",
+      "mtime": "1659752814",
+      "size": "256702",
+      "md5": "ed0a455c9e3f3c7baf226caf4db4df2f",
+      "crc32": "433ced56",
+      "sha1": "8dbf38284962f51dc05435367c74891ee9d0e9a8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "uninoticias-2022-08-05T22:26:53.821437-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659752817",
+      "size": "1555",
+      "md5": "a880836108cef51b1e5449e12e6e854a",
+      "crc32": "3f576c14",
+      "sha1": "45d95dba505e6af6175a1f7fd909755e035aa030",
+      "format": "JSON"
+    },
+    {
+      "name": "uninoticias-2022-08-05T22:26:53.821437-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659752818",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "uninoticias-2022-08-05T22:26:53.821437-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "uninoticias-2022-08-05T22:26:53.821437-04:00.jpg",
+      "mtime": "1659753655",
+      "size": "10949",
+      "md5": "ea1b367cae1a4222e3e5c6b9c10158ba",
+      "crc32": "d4a623e1",
+      "sha1": "a29553284fe7a74f0bfdf5ef249340fdb20abdd6"
+    },
+    {
       "name": "uninoticias-2022_archive.torrent",
       "source": "metadata",
-      "btih": "86ddb5e7b17a96c13658e83e096d24339096f4fe",
-      "mtime": "1659721287",
-      "size": "26622",
-      "md5": "73c9a68bb10d3e31d3ea6c19cef39313",
-      "crc32": "dacccc8b",
-      "sha1": "2bcd091effd19e209ec1f3db4ac7db7ba207c50f",
+      "btih": "c99f042ceb7a1813f36832c31dc6d516bbd93cae",
+      "mtime": "1659753658",
+      "size": "27672",
+      "md5": "7975ac0b768529d801c494f8c8b7f465",
+      "crc32": "99db6958",
+      "sha1": "dc6cb162a72f7989ea5427ba55d73f13e22b371f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "uninoticias-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "657c503217bcff786d3f9390dcc788ac",
+      "md5": "74353e20cf57f84e5ad99a901d10ab72",
       "summation": "md5"
     },
     {
       "name": "uninoticias-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659721221",
-      "size": "163840",
-      "md5": "86282a9b30842c9b121a3aef0445e38f",
-      "crc32": "392105f5",
-      "sha1": "8dab83f4232e10c29a3e75e48b1f5fd6788724f9",
+      "mtime": "1659752822",
+      "size": "172032",
+      "md5": "7e05900657283576214bb578a655c052",
+      "crc32": "e63bd4f3",
+      "sha1": "be0a761cad80eb4fa433286e2114ece8f0985d77",
       "format": "Metadata"
     },
     {
@@ -1272,9 +1324,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 122,
-  "item_last_updated": 1659721287,
-  "item_size": 7948518,
+  "files_count": 127,
+  "item_last_updated": 1659753658,
+  "item_size": 8242899,
   "metadata": {
     "identifier": "uninoticias-2022",
     "collection": [
@@ -1292,7 +1344,12 @@
     "addeddate": "2022-07-26 01:37:59"
   },
   "server": "ia802509.us.archive.org",
-  "uniq": 1041527238,
+  "uninoticias-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 98818949,
   "workable_servers": [
     "ia802509.us.archive.org",
     "ia902509.us.archive.org"

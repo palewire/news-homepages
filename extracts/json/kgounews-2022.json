@@ -1,5 +1,5 @@
 {
-  "created": 1659740971,
+  "created": 1659789086,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/23/items/kgounews-2022",
@@ -2638,31 +2638,93 @@
       "sha1": "0f7c5d0dde7b55218678ef84f5605c07fb261792"
     },
     {
+      "name": "kgounews-2022-08-05T23:52:12.761160-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659761536",
+      "size": "20677",
+      "md5": "7832d73d4d6f59185f3a100431a168d1",
+      "crc32": "f10ac416",
+      "sha1": "df2ed5140b1b19b1d7c6387292b52cc2d0cee4e9",
+      "format": "JSON"
+    },
+    {
+      "name": "kgounews-2022-08-05T23:52:12.761160-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659761537",
+      "size": "37309",
+      "md5": "1fd2745a9a96396520c0f13872f12aa0",
+      "crc32": "cf7d6766",
+      "sha1": "bb7468f2e9e5f6cc4d75a8cac198935c96173ece",
+      "format": "JSON"
+    },
+    {
+      "name": "kgounews-2022-08-05T23:52:12.761160-05:00.jpg",
+      "source": "original",
+      "mtime": "1659761534",
+      "size": "240566",
+      "md5": "25ec64fd2c745b55cdcb9b3fef3c42c4",
+      "crc32": "a47ed8c8",
+      "sha1": "08151d28bf7f7969857d2dcd7ce668591c1ce29c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kgounews-2022-08-05T23:52:12.761160-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659761539",
+      "size": "1432",
+      "md5": "25051c86b98ff93d85a5ff39b2a99a3f",
+      "crc32": "fdcf4ab2",
+      "sha1": "f79b753d71d78793810107c1be6814df2c139081",
+      "format": "JSON"
+    },
+    {
+      "name": "kgounews-2022-08-05T23:52:12.761160-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1659761540",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "kgounews-2022-08-05T23:52:12.761160-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kgounews-2022-08-05T23:52:12.761160-05:00.jpg",
+      "mtime": "1659761746",
+      "size": "10104",
+      "md5": "233b8aab4f3bfe72c2bdf16659061287",
+      "crc32": "3a5927fa",
+      "sha1": "fbcba81db811a58a3e40c285ad6e5e0afe254595"
+    },
+    {
       "name": "kgounews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8a3a4345e8c4ffc8afcc62284930f996b6e8e3c4",
-      "mtime": "1659720520",
-      "size": "54468",
-      "md5": "3588283532835dbfbeafef1ea735149d",
-      "crc32": "15a5fa81",
-      "sha1": "7e335b3ba6e3fa152fde2d74608d16c806c63cb5",
+      "btih": "39e95dfba0510356e02bbbaa27c97e210cd541d7",
+      "mtime": "1659761750",
+      "size": "55714",
+      "md5": "281001fa8e5ac79358f44b0978fb0ff7",
+      "crc32": "184b4a9d",
+      "sha1": "775f5835d4d0cca8793399d7f7805a97daf21893",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kgounews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e31cacbc47277f0df44816fcf162e478",
+      "md5": "b03f7b6a5e7d5f90f000d3f2b575be45",
       "summation": "md5"
     },
     {
       "name": "kgounews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659720382",
-      "size": "315392",
-      "md5": "f41056ee6c0e36d29a0d087b7f53a6b4",
-      "crc32": "fdeccd7b",
-      "sha1": "eb072a1d88ff10674111e00fbca056a758c57404",
+      "mtime": "1659761545",
+      "size": "327680",
+      "md5": "ec74eecc0202a92d874b86d835a16cfc",
+      "crc32": "525339a8",
+      "sha1": "dafdf647a0774db08faa5fbca1d4c5c32a8a2317",
       "format": "Metadata"
     },
     {
@@ -2676,9 +2738,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 256,
-  "item_last_updated": 1659720520,
-  "item_size": 18492633,
+  "files_count": 262,
+  "item_last_updated": 1659761750,
+  "item_size": 18816457,
+  "kgounews-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "kgounews-2022",
     "collection": [
@@ -2696,7 +2763,7 @@
     "addeddate": "2022-07-09 04:00:02"
   },
   "server": "ia802505.us.archive.org",
-  "uniq": 486789076,
+  "uniq": 1162283936,
   "workable_servers": [
     "ia802505.us.archive.org",
     "ia902505.us.archive.org"

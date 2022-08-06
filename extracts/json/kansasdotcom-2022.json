@@ -1,5 +1,5 @@
 {
-  "created": 1659720472,
+  "created": 1659762276,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/12/items/kansasdotcom-2022",
@@ -266,31 +266,93 @@
       "sha1": "3ecd08620dac291d3c9e57c7cfd0b9ec867a19b3"
     },
     {
+      "name": "kansasdotcom-2022-08-05T23:51:51.331649-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659761514",
+      "size": "454",
+      "md5": "29e668e668d34cf05135339ccd59ed6f",
+      "crc32": "6b8c9089",
+      "sha1": "429f58f0b4f35dad5d64d59bb33162b8fb151652",
+      "format": "JSON"
+    },
+    {
+      "name": "kansasdotcom-2022-08-05T23:51:51.331649-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659761516",
+      "size": "35355",
+      "md5": "da1d0d97eb7eb96c305337f6cb5b06a2",
+      "crc32": "350aeaea",
+      "sha1": "321cd1aa243cf1995ca04546ae4f0297cfaa105d",
+      "format": "JSON"
+    },
+    {
+      "name": "kansasdotcom-2022-08-05T23:51:51.331649-05:00.jpg",
+      "source": "original",
+      "mtime": "1659761512",
+      "size": "238278",
+      "md5": "2ed6dff9776ee22d0f06b27b0e03bcb1",
+      "crc32": "69924b02",
+      "sha1": "9aceb06968b5f016363ea137dbb259f292615feb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kansasdotcom-2022-08-05T23:51:51.331649-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659761520",
+      "size": "1459",
+      "md5": "e5d2566b96395dc4df3e3102eb23551f",
+      "crc32": "ad40cbdc",
+      "sha1": "e6efcfefa1dba9b6e892af7d49be34e9c30cab42",
+      "format": "JSON"
+    },
+    {
+      "name": "kansasdotcom-2022-08-05T23:51:51.331649-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1659761521",
+      "size": "64025",
+      "md5": "98bacef5d54336b79d640130002329db",
+      "crc32": "cdab2a58",
+      "sha1": "5c06c5e80e0178cdb75a90db5c4223d0d0542032",
+      "format": "JSON"
+    },
+    {
+      "name": "kansasdotcom-2022-08-05T23:51:51.331649-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kansasdotcom-2022-08-05T23:51:51.331649-05:00.jpg",
+      "mtime": "1659761763",
+      "size": "8745",
+      "md5": "3c6e0a655883dc4e5cdbd788cba1f095",
+      "crc32": "87ef7d1b",
+      "sha1": "6fddbc08bfca57b44ee157659d10cae9741a1e4f"
+    },
+    {
       "name": "kansasdotcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "33fec7853b04dd9d6327353614ab538d8eac0816",
-      "mtime": "1659720462",
-      "size": "6789",
-      "md5": "892de1005d23793d55e191af484ce6bd",
-      "crc32": "e0e8cdd2",
-      "sha1": "61cb0bb35ab474c43d5e7563d2aa59ca5a7c0c1a",
+      "btih": "9c9548958978fc3e9ad5c0a60afad0f17c56f4df",
+      "mtime": "1659761857",
+      "size": "8079",
+      "md5": "26181aa5b6b242c4ac143141302c4048",
+      "crc32": "06edea3d",
+      "sha1": "940d851e73be21d22156f9207aea688f73a6a903",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kansasdotcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "132b5805f4fbdd1c7dac3787b8225c5f",
+      "md5": "0b373b42c5cca77c89c687e7bef3c6e8",
       "summation": "md5"
     },
     {
       "name": "kansasdotcom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659720345",
-      "size": "49152",
-      "md5": "fe8d1bfb68fbbf187b12ee8925479b70",
-      "crc32": "39c317d4",
-      "sha1": "43a53b9ac4e4ed138c5387815123895b8e978d68",
+      "mtime": "1659761525",
+      "size": "53248",
+      "md5": "163682a63eedf1e24a5702a1880a04b2",
+      "crc32": "c958e4ea",
+      "sha1": "5aad2079d6c986e0f678b3584bc8ddd0d03eaafe",
       "format": "Metadata"
     },
     {
@@ -304,9 +366,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 29,
-  "item_last_updated": 1659720462,
-  "item_size": 1754615,
+  "files_count": 35,
+  "item_last_updated": 1659761857,
+  "item_size": 2108317,
   "metadata": {
     "identifier": "kansasdotcom-2022",
     "collection": [
@@ -324,7 +386,7 @@
     "addeddate": "2022-08-03 18:53:47"
   },
   "server": "ia801401.us.archive.org",
-  "uniq": 1376516425,
+  "uniq": 89561129,
   "workable_servers": [
     "ia801401.us.archive.org",
     "ia601401.us.archive.org"

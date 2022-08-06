@@ -1,5 +1,5 @@
 {
-  "created": 1659705784,
+  "created": 1659752049,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/19/items/politifact-2022",
@@ -4476,31 +4476,93 @@
       "sha1": "a9eb72531f9103491cb3fb43bd659fcd2240d15f"
     },
     {
+      "name": "politifact-2022-08-05T22:11:47.328738-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659751910",
+      "size": "35963",
+      "md5": "f7de45ff433b891ad73dd6be21e6ddac",
+      "crc32": "2d9f77eb",
+      "sha1": "f75659550d4cafe55f45b63e8159664104553828",
+      "format": "JSON"
+    },
+    {
+      "name": "politifact-2022-08-05T22:11:47.328738-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659751912",
+      "size": "22102",
+      "md5": "ce0256b4c0f0b97593ac7f403939752d",
+      "crc32": "f100f38c",
+      "sha1": "831dc432c842acfe1aa0e63d53c083272d808b87",
+      "format": "JSON"
+    },
+    {
+      "name": "politifact-2022-08-05T22:11:47.328738-04:00.jpg",
+      "source": "original",
+      "mtime": "1659751908",
+      "size": "218730",
+      "md5": "844663f5611e56ddca88c62e73366051",
+      "crc32": "f7b2534b",
+      "sha1": "b30e21ffdcc1ba5a614516678fa96c44fcdc17ec",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "politifact-2022-08-05T22:11:47.328738-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659751914",
+      "size": "1495",
+      "md5": "db680a0be7e53bc717c50359ac27e228",
+      "crc32": "5095ed15",
+      "sha1": "c9445c9eb6b407978880479e6b200100703041d2",
+      "format": "JSON"
+    },
+    {
+      "name": "politifact-2022-08-05T22:11:47.328738-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659751915",
+      "size": "53052",
+      "md5": "c636190aa848cf88209cd561f31cf1f5",
+      "crc32": "68b3b114",
+      "sha1": "3a0d70c3b221db80f8e13e78e90e10ce69369aa7",
+      "format": "JSON"
+    },
+    {
+      "name": "politifact-2022-08-05T22:11:47.328738-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "politifact-2022-08-05T22:11:47.328738-04:00.jpg",
+      "mtime": "1659752027",
+      "size": "9099",
+      "md5": "29db77e9ffa710a064edbbc3718f1989",
+      "crc32": "f4a1f57a",
+      "sha1": "39ed83176dfca3043b83b265b330fdfc1534886f"
+    },
+    {
       "name": "politifact-2022_archive.torrent",
       "source": "metadata",
-      "btih": "85ac4ffb3df0d29747f396eb92b385006fd886eb",
-      "mtime": "1659705749",
-      "size": "91876",
-      "md5": "24b219cac4b27f9c6474e88ec900fd07",
-      "crc32": "9f9c6b79",
-      "sha1": "bf4d1f5a0b3019f7d1bb6c559b53824aa58dfd0a",
+      "btih": "3fdc6f3227f63064830ba50fa28af3c300cf3078",
+      "mtime": "1659752032",
+      "size": "93155",
+      "md5": "cb10f373fa632f2a322addb32bfa3964",
+      "crc32": "be7313ce",
+      "sha1": "220e8b98808f72875c683976468da54c46152747",
       "format": "Archive BitTorrent"
     },
     {
       "name": "politifact-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a3fd892d9cd1b90a3a84d628464c7975",
+      "md5": "f4964984a2c18e18d3aa917e1b95701b",
       "summation": "md5"
     },
     {
       "name": "politifact-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659703487",
-      "size": "520192",
-      "md5": "2a9fccbcdbbffd7e0db3fafa1d7b25e4",
-      "crc32": "64e45a86",
-      "sha1": "159aa61d79c7bd9a983fe678347f9efc930e4159",
+      "mtime": "1659751920",
+      "size": "528384",
+      "md5": "58c128063d0da3759630d71e99eb011e",
+      "crc32": "09eeae6c",
+      "sha1": "478b4e0f11edef64535c0f3cedcb7556bc09cce0",
       "format": "Metadata"
     },
     {
@@ -4514,9 +4576,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 431,
-  "item_last_updated": 1659705749,
-  "item_size": 27233747,
+  "files_count": 437,
+  "item_last_updated": 1659752032,
+  "item_size": 27583659,
   "metadata": {
     "identifier": "politifact-2022",
     "collection": [
@@ -4534,7 +4596,7 @@
     "addeddate": "2022-06-24 22:59:30"
   },
   "server": "ia601407.us.archive.org",
-  "uniq": 1183998361,
+  "uniq": 888264842,
   "workable_servers": [
     "ia601407.us.archive.org",
     "ia801407.us.archive.org"

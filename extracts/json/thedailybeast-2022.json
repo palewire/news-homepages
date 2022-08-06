@@ -1,5 +1,5 @@
 {
-  "created": 1659741020,
+  "created": 1659762435,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/12/items/thedailybeast-2022",
@@ -1390,31 +1390,93 @@
       "sha1": "ae4fe1312a3264c053ab617c3226a393c14edeaf"
     },
     {
+      "name": "thedailybeast-2022-08-06T01:05:46.170795-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659762348",
+      "size": "20210",
+      "md5": "80b16660c31a8ec199bd1cfad60171b2",
+      "crc32": "5a4f8979",
+      "sha1": "bf3fdda1a6d5b878242a1354f082630d4b01bbdd",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailybeast-2022-08-06T01:05:46.170795-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659762350",
+      "size": "18808",
+      "md5": "c885c44dedee2748302bdb009233ad04",
+      "crc32": "ef5e4a49",
+      "sha1": "8c60a7fd63ccb7e216115bfeee3e8bad869fc5c4",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailybeast-2022-08-06T01:05:46.170795-04:00.jpg",
+      "source": "original",
+      "mtime": "1659762347",
+      "size": "329001",
+      "md5": "f2ec5c68e758d8d419dacae58cf5ba54",
+      "crc32": "2c505808",
+      "sha1": "8856e8a70d702846e2ab5cb25290d7a62fd100fb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thedailybeast-2022-08-06T01:05:46.170795-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659762351",
+      "size": "1522",
+      "md5": "45e401c662a33fb831af7a0c89443230",
+      "crc32": "86d0db10",
+      "sha1": "9e0e55c848ee9176e2366e37f2032cda210dfe5e",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailybeast-2022-08-06T01:05:46.170795-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659762353",
+      "size": "85185",
+      "md5": "55a5651233f9bc96e0a76a734bf3c72f",
+      "crc32": "1b1641e6",
+      "sha1": "4a80269ea73a081116042eadd538fa51c7f266fa",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailybeast-2022-08-06T01:05:46.170795-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thedailybeast-2022-08-06T01:05:46.170795-04:00.jpg",
+      "mtime": "1659762409",
+      "size": "10482",
+      "md5": "ac66ae66b384c9e1ea057ca5a5d81b9a",
+      "crc32": "444c1a80",
+      "sha1": "19b3ed935b7d97a95a96345ba387bab38f60ecb0"
+    },
+    {
       "name": "thedailybeast-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f89c1602df314852f9fb9191fc3ff6a06b2fac41",
-      "mtime": "1659722488",
-      "size": "30136",
-      "md5": "9905d4999e86c6e9f8f092c6d593496c",
-      "crc32": "31d1b558",
-      "sha1": "3145370b1c43dce8962f34fb5fb050efcb56b63f",
+      "btih": "493179ea5caee02e9d4182500edfadc2c9bec40e",
+      "mtime": "1659762424",
+      "size": "31434",
+      "md5": "531416ec3e49c1bdd84bf0dfe4fbfb37",
+      "crc32": "5c5ef3f5",
+      "sha1": "4ca027f9d73c5885d3a93f7b28ab073ee39cfe65",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thedailybeast-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f4182890daf682e486ae89ca8024f783",
+      "md5": "bbc4fffb0c634e8ec1462ff0fba60f01",
       "summation": "md5"
     },
     {
       "name": "thedailybeast-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659722425",
-      "size": "184320",
-      "md5": "9946afa015c99809fecc49c96f81e582",
-      "crc32": "bad92adf",
-      "sha1": "dd8423f51de05ab7fe9876bf2e544c6326f9e133",
+      "mtime": "1659762358",
+      "size": "192512",
+      "md5": "408324703fa7d5ae664491a66c90f46f",
+      "crc32": "6e9e2aec",
+      "sha1": "064be2ffd87cdcf49df943017c29594034fa76a3",
       "format": "Metadata"
     },
     {
@@ -1428,9 +1490,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 137,
-  "item_last_updated": 1659722488,
-  "item_size": 9873518,
+  "files_count": 143,
+  "item_last_updated": 1659762424,
+  "item_size": 10348216,
   "metadata": {
     "identifier": "thedailybeast-2022",
     "collection": [
@@ -1448,7 +1510,7 @@
     "addeddate": "2022-07-23 16:04:26"
   },
   "server": "ia902505.us.archive.org",
-  "uniq": 84560875,
+  "uniq": 2068561570,
   "workable_servers": [
     "ia902505.us.archive.org",
     "ia802505.us.archive.org"

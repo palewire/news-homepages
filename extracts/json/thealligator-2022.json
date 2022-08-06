@@ -1,5 +1,5 @@
 {
-  "created": 1659740914,
+  "created": 1659752676,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/0/items/thealligator-2022",
@@ -4540,31 +4540,83 @@
       "sha1": "894b9978452b7b35e1fa9f042bbdb2a850f8e538"
     },
     {
+      "name": "thealligator-2022-08-05T22:23:06.871012-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659752590",
+      "size": "32190",
+      "md5": "4dc6d9e999d4c88d7592d91facb16c94",
+      "crc32": "cd4edaef",
+      "sha1": "40c6f38f3c7cb43338002b3dff1dc08041488ee4",
+      "format": "JSON"
+    },
+    {
+      "name": "thealligator-2022-08-05T22:23:06.871012-04:00.jpg",
+      "source": "original",
+      "mtime": "1659752588",
+      "size": "319687",
+      "md5": "b9b1d276d1db596a9f1275f1c70af549",
+      "crc32": "344fcc6d",
+      "sha1": "9e20fc33edb8d7b1d28c8d266a08194b90f3ba94",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thealligator-2022-08-05T22:23:06.871012-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659752591",
+      "size": "1483",
+      "md5": "6afbeb9bf5e31712cbe51cc1ecc82801",
+      "crc32": "21b3b208",
+      "sha1": "da72c4f8e59ff7736b12c39cc483550c7c644c16",
+      "format": "JSON"
+    },
+    {
+      "name": "thealligator-2022-08-05T22:23:06.871012-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659752593",
+      "size": "61053",
+      "md5": "71cdd61e008b3cce644cddef250b1cff",
+      "crc32": "47ee1dc3",
+      "sha1": "2b9fdcd47c75d42387ec4430f39d67973cc10a42",
+      "format": "JSON"
+    },
+    {
+      "name": "thealligator-2022-08-05T22:23:06.871012-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thealligator-2022-08-05T22:23:06.871012-04:00.jpg",
+      "mtime": "1659752657",
+      "size": "10180",
+      "md5": "09adff3d982d146379d735fd9aa18a56",
+      "crc32": "f4f98875",
+      "sha1": "49b12be6da67117b7baa8ba002b308107ef5ce36"
+    },
+    {
       "name": "thealligator-2022_archive.torrent",
       "source": "metadata",
-      "btih": "590dc015fef80d2b0a3e3bd5b9061706f5dcc177",
-      "mtime": "1659721009",
-      "size": "94490",
-      "md5": "a11315cb3e87270d9f8636a2bb8a8d85",
-      "crc32": "3cde9c24",
-      "sha1": "b25603baf04b2fe1c18a92026e2ed607bf721fa8",
+      "btih": "02eec8b5e6723b9cd08cd5301b5e0ec49f4863ea",
+      "mtime": "1659752663",
+      "size": "95567",
+      "md5": "bdbc433878e0190730a3c6c704cca09c",
+      "crc32": "6aa65449",
+      "sha1": "89100bd0ce37f6225b883626ff3eb36ab89a838c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thealligator-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ff13136371efb3908eb308fed182d845",
+      "md5": "0075a2e533c99a7881dd0cf4baf1c5fb",
       "summation": "md5"
     },
     {
       "name": "thealligator-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659720849",
-      "size": "524288",
-      "md5": "41846057fe5e3f9164f1614e94e3f9d6",
-      "crc32": "ed68d5ce",
-      "sha1": "e29a4c41b99f77dc3cd8175c0fc2dc2a33fae1fa",
+      "mtime": "1659752597",
+      "size": "532480",
+      "md5": "48b35c80b22d9ea9a6e45c385d98d76c",
+      "crc32": "62be86fd",
+      "sha1": "e9dbd9c75cef4203cbde4dbd21d3976dc0fa0074",
       "format": "Metadata"
     },
     {
@@ -4578,9 +4630,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 437,
-  "item_last_updated": 1659721009,
-  "item_size": 38311396,
+  "files_count": 442,
+  "item_last_updated": 1659752663,
+  "item_size": 38745258,
   "metadata": {
     "identifier": "thealligator-2022",
     "collection": [
@@ -4597,10 +4649,10 @@
     "publicdate": "2022-06-24 23:02:17",
     "addeddate": "2022-06-24 23:02:17"
   },
-  "server": "ia801404.us.archive.org",
-  "uniq": 1406939372,
+  "server": "ia601404.us.archive.org",
+  "uniq": 1399970733,
   "workable_servers": [
-    "ia801404.us.archive.org",
-    "ia601404.us.archive.org"
+    "ia601404.us.archive.org",
+    "ia801404.us.archive.org"
   ]
 }

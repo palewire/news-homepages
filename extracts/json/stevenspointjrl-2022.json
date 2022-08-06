@@ -1,5 +1,5 @@
 {
-  "created": 1659740913,
+  "created": 1659789531,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/21/items/stevenspointjrl-2022",
@@ -8976,31 +8976,93 @@
       "sha1": "daadf916e0049d5f8f16cb824d3a9556486151c4"
     },
     {
+      "name": "stevenspointjrl-2022-08-05T21:21:24.419288-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659752491",
+      "size": "22789",
+      "md5": "5da7579a337a8d771889b5ed2023f402",
+      "crc32": "3ea2a364",
+      "sha1": "7eaba3791be6d771c6552a03c7b3d18e22e6f696",
+      "format": "JSON"
+    },
+    {
+      "name": "stevenspointjrl-2022-08-05T21:21:24.419288-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659752492",
+      "size": "31765",
+      "md5": "92f0ea2a746db934262fa0a247d0fddd",
+      "crc32": "b498562f",
+      "sha1": "ed13ec858991c8c41af86567181ef3825de3819d",
+      "format": "JSON"
+    },
+    {
+      "name": "stevenspointjrl-2022-08-05T21:21:24.419288-05:00.jpg",
+      "source": "original",
+      "mtime": "1659752489",
+      "size": "241669",
+      "md5": "56bebb6b923c268867786ed504a63d7d",
+      "crc32": "5c15d4ff",
+      "sha1": "63e08c2cdb4e794aa1369fbcb93639b82c776108",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "stevenspointjrl-2022-08-05T21:21:24.419288-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659752494",
+      "size": "1576",
+      "md5": "6650a27dbc65f3d101148d38bbdac1f9",
+      "crc32": "a4cde4e3",
+      "sha1": "a5a6514d53a4df969d09b423a2baaf4035e50fd4",
+      "format": "JSON"
+    },
+    {
+      "name": "stevenspointjrl-2022-08-05T21:21:24.419288-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1659752496",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "stevenspointjrl-2022-08-05T21:21:24.419288-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "stevenspointjrl-2022-08-05T21:21:24.419288-05:00.jpg",
+      "mtime": "1659752563",
+      "size": "9381",
+      "md5": "7f805e0fbaec0546f1c813168bce3798",
+      "crc32": "f6d9fac8",
+      "sha1": "0bd4ac4684f84db168ec6013d2de92c00082d00a"
+    },
+    {
       "name": "stevenspointjrl-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f367c75ccadbae58a3bcc388cca6aba7398f9ad2",
-      "mtime": "1659720854",
-      "size": "187422",
-      "md5": "3faf74e30ccc7604174d30b42f0dbab2",
-      "crc32": "d02ae24e",
-      "sha1": "6fb15d3623e2e389bb931069ffe93c0048f2117a",
+      "btih": "ccd6ecadfd2b6de344c5d79a849f9fda68fc5c26",
+      "mtime": "1659752572",
+      "size": "188729",
+      "md5": "69e50bd89a83d90843a687baa7814f5a",
+      "crc32": "00a2302b",
+      "sha1": "0f57b30eaad72cdf52e135fb32adca0aef65287a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "stevenspointjrl-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7d54da5b0da4ebb7b976277e01c0248d",
+      "md5": "7c99fd2c9f20cb81795601584652e556",
       "summation": "md5"
     },
     {
       "name": "stevenspointjrl-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659720761",
-      "size": "1007616",
-      "md5": "e061f20a3c99fca1d059b0c806ab5a86",
-      "crc32": "834ef3de",
-      "sha1": "7ae307cbda02c120ce5978817d7446abb3705076",
+      "mtime": "1659752502",
+      "size": "1015808",
+      "md5": "18737a59168e062aa15a1aae96cfb41a",
+      "crc32": "3a61bac0",
+      "sha1": "05e43889eceeb4efc981bb921980533d5a054eac",
       "format": "Metadata"
     },
     {
@@ -9014,9 +9076,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 859,
-  "item_last_updated": 1659720854,
-  "item_size": 72317425,
+  "files_count": 865,
+  "item_last_updated": 1659752572,
+  "item_size": 72634306,
   "metadata": {
     "identifier": "stevenspointjrl-2022",
     "collection": [
@@ -9034,7 +9096,12 @@
     "addeddate": "2022-03-23 23:07:34"
   },
   "server": "ia902505.us.archive.org",
-  "uniq": 1102565260,
+  "stevenspointjrl-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 450121461,
   "workable_servers": [
     "ia902505.us.archive.org",
     "ia802505.us.archive.org"

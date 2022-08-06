@@ -1,5 +1,5 @@
 {
-  "created": 1659740972,
+  "created": 1659789234,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/1/items/newrepublic-2022",
@@ -2452,31 +2452,93 @@
       "sha1": "4d1ab4f70ec66c5cdc33633448eb44f7cc929ce3"
     },
     {
+      "name": "newrepublic-2022-08-06T00:56:38.715390-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659761803",
+      "size": "29990",
+      "md5": "07e5080d7d06e89fe214ce89571da24b",
+      "crc32": "a7778184",
+      "sha1": "280481637f73e193e0b55cf9b3c62eaccc38a672",
+      "format": "JSON"
+    },
+    {
+      "name": "newrepublic-2022-08-06T00:56:38.715390-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659761805",
+      "size": "23465",
+      "md5": "7db7c29f69eacdf0c9199ba1d72e1ee9",
+      "crc32": "cc8d4ed5",
+      "sha1": "1f7e86f918d5eb99bad9aac00dda27f7f2233157",
+      "format": "JSON"
+    },
+    {
+      "name": "newrepublic-2022-08-06T00:56:38.715390-04:00.jpg",
+      "source": "original",
+      "mtime": "1659761802",
+      "size": "248403",
+      "md5": "b9759edee0857426c8386acd459cb72a",
+      "crc32": "d8439774",
+      "sha1": "ad7c34b7c663a3f68611f3ce3efc47c41dfa6c90",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newrepublic-2022-08-06T00:56:38.715390-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659761806",
+      "size": "1468",
+      "md5": "b48a6d66938d1cd71ac55eff6ff208e0",
+      "crc32": "6fc64904",
+      "sha1": "bd0138fd5cbb853f012fca0bd33872456bf5d382",
+      "format": "JSON"
+    },
+    {
+      "name": "newrepublic-2022-08-06T00:56:38.715390-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659761808",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "newrepublic-2022-08-06T00:56:38.715390-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newrepublic-2022-08-06T00:56:38.715390-04:00.jpg",
+      "mtime": "1659761869",
+      "size": "9425",
+      "md5": "fc47d26f3c33bca5c469eb5c0ebcfe08",
+      "crc32": "d9e95f36",
+      "sha1": "883e277e0eca3dfedeccb5649d0c81ab7540df4a"
+    },
+    {
       "name": "newrepublic-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6f4df8b1e4a254fa39c6780bf3343cfd1d95362d",
-      "mtime": "1659725908",
-      "size": "51645",
-      "md5": "16a9cad4b53bb56df057ac0bdc71b3b1",
-      "crc32": "b31a68d4",
-      "sha1": "312de4d86603c7e77da56df48a42b8f041b99b17",
+      "btih": "d66d0064b8e5ec6f0a43ea19123fea730b4e3c14",
+      "mtime": "1659761873",
+      "size": "52928",
+      "md5": "b0fba0a84f8640b8452e6973224a3ff5",
+      "crc32": "5d9011cf",
+      "sha1": "f6132ce45a4d18e799dbcfb7da2f25698dfc431f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newrepublic-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "631d92e7d826107a37affaac4e7f0658",
+      "md5": "8b90dcad0d4f360d0d8f191f7aec5e4a",
       "summation": "md5"
     },
     {
       "name": "newrepublic-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659725627",
-      "size": "303104",
-      "md5": "dc687d547c65f3e1cdd40bd89ada89ea",
-      "crc32": "12a41829",
-      "sha1": "2dad60981ada426e38491f46800b87e6252613f5",
+      "mtime": "1659761812",
+      "size": "315392",
+      "md5": "f3b1fa34b33efcff816dbd3a818f92e5",
+      "crc32": "f737d82d",
+      "sha1": "58d7a5779597f29301fe57074586ed4ece33a922",
       "format": "Metadata"
     },
     {
@@ -2490,9 +2552,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 239,
-  "item_last_updated": 1659725908,
-  "item_size": 17632661,
+  "files_count": 245,
+  "item_last_updated": 1659761873,
+  "item_size": 17959185,
   "metadata": {
     "identifier": "newrepublic-2022",
     "collection": [
@@ -2509,8 +2571,13 @@
     "publicdate": "2022-07-21 03:36:10",
     "addeddate": "2022-07-21 03:36:10"
   },
+  "newrepublic-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "server": "ia801507.us.archive.org",
-  "uniq": 889264653,
+  "uniq": 433786349,
   "workable_servers": [
     "ia801507.us.archive.org",
     "ia601507.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1659740919,
+  "created": 1659789782,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/24/items/whyynews-2022",
@@ -3550,31 +3550,93 @@
       "sha1": "d57b6b63616520c02f489bb416dd46a39b8db824"
     },
     {
+      "name": "whyynews-2022-08-05T22:28:13.536946-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659752897",
+      "size": "29309",
+      "md5": "51a3f5bdfc5a2085c04b4dff8ac15ae6",
+      "crc32": "1e4c7e99",
+      "sha1": "399fc78a8e81b574d3246950a2453ecbe4656854",
+      "format": "JSON"
+    },
+    {
+      "name": "whyynews-2022-08-05T22:28:13.536946-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659752898",
+      "size": "28629",
+      "md5": "b8717a1e87c3b668ca0083274cffb621",
+      "crc32": "a7bf2ce4",
+      "sha1": "4b891822346158d13fa29c678a77cc471479e633",
+      "format": "JSON"
+    },
+    {
+      "name": "whyynews-2022-08-05T22:28:13.536946-04:00.jpg",
+      "source": "original",
+      "mtime": "1659752895",
+      "size": "241770",
+      "md5": "8afb153b1f6733c4732991bdd9c86db2",
+      "crc32": "a92bf8c5",
+      "sha1": "de6881083c3447cd1d468b0c605bd4e997433ec1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "whyynews-2022-08-05T22:28:13.536946-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659752900",
+      "size": "1441",
+      "md5": "341fe1cb9778673f34a75fea90887e78",
+      "crc32": "08ff0877",
+      "sha1": "b6f7d05313fc61046ed1aea976f89b55d0a5ba48",
+      "format": "JSON"
+    },
+    {
+      "name": "whyynews-2022-08-05T22:28:13.536946-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659752901",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "whyynews-2022-08-05T22:28:13.536946-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "whyynews-2022-08-05T22:28:13.536946-04:00.jpg",
+      "mtime": "1659752986",
+      "size": "9443",
+      "md5": "2587fe4274f8d67a49b1c797ffe7c16a",
+      "crc32": "9ead4f58",
+      "sha1": "3f34bab93462c5e4cb0f4eb7a93b3ce5b0637cfc"
+    },
+    {
       "name": "whyynews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0b84573dabbf92d714b56eea640a93069fc81a06",
-      "mtime": "1659721290",
-      "size": "72618",
-      "md5": "ff719881410f9cb38496569efba43095",
-      "crc32": "c2fb0c5d",
-      "sha1": "4ec9321968168728806d62be991f89a933abb4ac",
+      "btih": "a7ddddb58a34e031d1314b01a2c7fffbacefdd2d",
+      "mtime": "1659753007",
+      "size": "73883",
+      "md5": "689ef3bbed687697c9d4f21dc0481a8d",
+      "crc32": "5919a982",
+      "sha1": "ec2b43a2bc475572432f02401d57302bddd9e9ca",
       "format": "Archive BitTorrent"
     },
     {
       "name": "whyynews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5a7c9d9bc36ce4f3adbe9e986bd80b4f",
+      "md5": "09dd575bbf6cff2004c9ad01edd1675b",
       "summation": "md5"
     },
     {
       "name": "whyynews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659721213",
-      "size": "417792",
-      "md5": "e276fe46970edf210c9e1f72c4779e90",
-      "crc32": "c6322b09",
-      "sha1": "6e9d633962f35f47d9f2c6f5d4b0735eeb056a1d",
+      "mtime": "1659752906",
+      "size": "425984",
+      "md5": "dc30edc9c415dd7d7d86c649df21a0ce",
+      "crc32": "d71290c9",
+      "sha1": "b122b9ccc910b9c06b5b3e6e86acbe1c797c112e",
       "format": "Metadata"
     },
     {
@@ -3588,9 +3650,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 343,
-  "item_last_updated": 1659721290,
-  "item_size": 23027022,
+  "files_count": 349,
+  "item_last_updated": 1659753007,
+  "item_size": 23347273,
   "metadata": {
     "identifier": "whyynews-2022",
     "collection": [
@@ -3608,7 +3670,12 @@
     "addeddate": "2022-07-03 15:52:45"
   },
   "server": "ia802508.us.archive.org",
-  "uniq": 1534603969,
+  "uniq": 2094428604,
+  "whyynews-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "workable_servers": [
     "ia802508.us.archive.org",
     "ia902508.us.archive.org"

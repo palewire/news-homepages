@@ -1,5 +1,5 @@
 {
-  "created": 1659721281,
+  "created": 1659752860,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/34/items/tucsonstar-2022",
@@ -2974,31 +2974,93 @@
       "sha1": "f3c937cfa4516f9dde50bfd22fb2e75d3c430848"
     },
     {
+      "name": "tucsonstar-2022-08-05T19:26:08.406251-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659752771",
+      "size": "26168",
+      "md5": "d3a5a24ea03b83f489480f455191e901",
+      "crc32": "134758b0",
+      "sha1": "48c603aff9c8c2fb9b8435b85d972d3b60dd938c",
+      "format": "JSON"
+    },
+    {
+      "name": "tucsonstar-2022-08-05T19:26:08.406251-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659752773",
+      "size": "74508",
+      "md5": "2f8ce65b3a921fab273dc4041e286032",
+      "crc32": "859da065",
+      "sha1": "57908dc6c30c7a71996d8bc0a0679047ff8538ba",
+      "format": "JSON"
+    },
+    {
+      "name": "tucsonstar-2022-08-05T19:26:08.406251-07:00.jpg",
+      "source": "original",
+      "mtime": "1659752769",
+      "size": "319390",
+      "md5": "edbdde0288e20bf221b73975213ec69c",
+      "crc32": "54ac2547",
+      "sha1": "9704540d0fac6d1ef1614bdf766e7952bc5a5d50",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tucsonstar-2022-08-05T19:26:08.406251-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659752775",
+      "size": "1423",
+      "md5": "5796c4c0165b9331f3b3f79a0c053f49",
+      "crc32": "dba6ce15",
+      "sha1": "8e41d9fb671ba7e3a77f3dbd31ae9f53660aa3f5",
+      "format": "JSON"
+    },
+    {
+      "name": "tucsonstar-2022-08-05T19:26:08.406251-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1659752778",
+      "size": "48942",
+      "md5": "43c8851f621d6f9e4c4db46a6568e2d9",
+      "crc32": "d32b0f0d",
+      "sha1": "82c89d517e8ba1ed457f31d201c5645460d9b5a4",
+      "format": "JSON"
+    },
+    {
+      "name": "tucsonstar-2022-08-05T19:26:08.406251-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tucsonstar-2022-08-05T19:26:08.406251-07:00.jpg",
+      "mtime": "1659752834",
+      "size": "12230",
+      "md5": "e9ba07f0d8d81d3a289df386698f8f22",
+      "crc32": "c6b6e7d4",
+      "sha1": "e64486e2c414ad7c815b2f1d3f2ed940ea1fda05"
+    },
+    {
       "name": "tucsonstar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a6640f47d6ea8b029053946016943c5f82190cf3",
-      "mtime": "1659721225",
-      "size": "62056",
-      "md5": "e8f74219ed1e4f0842a21ff6b70a79d0",
-      "crc32": "21c0fe01",
-      "sha1": "e10fa07702c35020281f8d775c8fdb3bdcc512ff",
+      "btih": "cc34c1b63c2f46698fa0544531f753a753a4e33e",
+      "mtime": "1659752843",
+      "size": "63336",
+      "md5": "50d6a81cc56926a2d9380db16f4ca8d4",
+      "crc32": "9f2b3d60",
+      "sha1": "e55b085ada2f39dd4686e33731de15ad5a3c4662",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tucsonstar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "03e3acb0018b93374186e3f219a937bf",
+      "md5": "59bc8b773f1b7fd11ea19d3097102858",
       "summation": "md5"
     },
     {
       "name": "tucsonstar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659721056",
-      "size": "356352",
-      "md5": "681545591a0e9082754283b56ee1d023",
-      "crc32": "0b4eafb3",
-      "sha1": "820be06efaabc67631063999f64c0c4d33cc6431",
+      "mtime": "1659752781",
+      "size": "364544",
+      "md5": "6cccd8f43e7471c7b61ee188cfa316d5",
+      "crc32": "f0805d3b",
+      "sha1": "58c54d569a869ccb08c3433708b3faef4ec76d0e",
       "format": "Metadata"
     },
     {
@@ -3012,9 +3074,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 288,
-  "item_last_updated": 1659721225,
-  "item_size": 28182673,
+  "files_count": 294,
+  "item_last_updated": 1659752843,
+  "item_size": 28674806,
   "metadata": {
     "identifier": "tucsonstar-2022",
     "collection": [
@@ -3032,7 +3094,7 @@
     "addeddate": "2022-07-04 21:48:03"
   },
   "server": "ia801403.us.archive.org",
-  "uniq": 2106597708,
+  "uniq": 1536962482,
   "workable_servers": [
     "ia801403.us.archive.org",
     "ia601403.us.archive.org"

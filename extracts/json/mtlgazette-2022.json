@@ -1,5 +1,5 @@
 {
-  "created": 1659747392,
+  "created": 1659761892,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/31/items/mtlgazette-2022",
@@ -4108,31 +4108,93 @@
       "sha1": "171bdec7a32174ca34d718d10b55f791a57d6a9c"
     },
     {
+      "name": "mtlgazette-2022-08-06T00:56:47.349155-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659761810",
+      "size": "67329",
+      "md5": "759e81a71bffa2dd9eecafbc6b27560c",
+      "crc32": "4fac7180",
+      "sha1": "cf6f4dcad1119cb19b202b7f7db56d00faf62a72",
+      "format": "JSON"
+    },
+    {
+      "name": "mtlgazette-2022-08-06T00:56:47.349155-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659761812",
+      "size": "51259",
+      "md5": "1586d75473e4b118b6b068f2e8ef25be",
+      "crc32": "edba86ca",
+      "sha1": "bfbf570a4d9cf3593e0919944dd636001bbef636",
+      "format": "JSON"
+    },
+    {
+      "name": "mtlgazette-2022-08-06T00:56:47.349155-04:00.jpg",
+      "source": "original",
+      "mtime": "1659761809",
+      "size": "315868",
+      "md5": "564f2962f0145890763a1098fe950389",
+      "crc32": "c88c9186",
+      "sha1": "24450950b7c2d440533e8eb95b95e3b768775181",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mtlgazette-2022-08-06T00:56:47.349155-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659761814",
+      "size": "1504",
+      "md5": "10cd27ab4c6b8b035da541204490be37",
+      "crc32": "60aa9baa",
+      "sha1": "f091da013afbfd740fd1f3596a0dfac36a18dbff",
+      "format": "JSON"
+    },
+    {
+      "name": "mtlgazette-2022-08-06T00:56:47.349155-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659761815",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "mtlgazette-2022-08-06T00:56:47.349155-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mtlgazette-2022-08-06T00:56:47.349155-04:00.jpg",
+      "mtime": "1659761874",
+      "size": "10240",
+      "md5": "ec6b9df0e1c17207eb383e306b4d9d59",
+      "crc32": "365c0a92",
+      "sha1": "7b11355c1beb5aeedfbae3184e95909c08c49414"
+    },
+    {
       "name": "mtlgazette-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3a6142c5fd9e98c1d6995342d84dce5b6bf8a0b7",
-      "mtime": "1659720840",
-      "size": "85128",
-      "md5": "f8b90c2b61778362ce50efde00a36a14",
-      "crc32": "093afb43",
-      "sha1": "9c6815461bdb2f800de7b02914d764bf3d79a9fa",
+      "btih": "ba5279b2351c9a8f4884fe36a8f89766f1548e17",
+      "mtime": "1659761880",
+      "size": "86406",
+      "md5": "5d2c0fc7f06d9b9668aa78643b18a134",
+      "crc32": "7958370d",
+      "sha1": "d145a156034d6d7a54832b85855c91497b262af3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mtlgazette-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b5d1e44b5dd9f210822770cec23fbdd1",
+      "md5": "b4e8e3589c1e307675bc4df04e47e952",
       "summation": "md5"
     },
     {
       "name": "mtlgazette-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659720696",
-      "size": "475136",
-      "md5": "6ed7395e5db42688f60f8bc99d6db899",
-      "crc32": "0b28d9c5",
-      "sha1": "300eb37066deeefb71226dfb73519839720d325e",
+      "mtime": "1659761819",
+      "size": "483328",
+      "md5": "6005cb0337c22b365d64e2f6a284b1c5",
+      "crc32": "2e85107d",
+      "sha1": "2a3722d4523660ef72adde94443ab44f72a6c560",
       "format": "Metadata"
     },
     {
@@ -4146,9 +4208,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 396,
-  "item_last_updated": 1659720840,
-  "item_size": 40097738,
+  "files_count": 402,
+  "item_last_updated": 1659761880,
+  "item_size": 40553610,
   "metadata": {
     "identifier": "mtlgazette-2022",
     "collection": [
@@ -4165,27 +4227,10 @@
     "publicdate": "2022-06-30 22:35:41",
     "addeddate": "2022-06-30 22:35:41"
   },
-  "mtlgazette-2022": {
-    "url": "https://montrealgazette.com/",
-    "job_id": "spn2-79ea48da7536b6217d1b4f7d04b9c51d6f557352",
-    "http_status": 403,
-    "timestamp": "20220805151514",
-    "original_url": "https://montrealgazette.com/",
-    "resources": [
-      "https://montrealgazette.com/",
-      "https://montrealgazette.com/favicon.ico"
-    ],
-    "duration_sec": 6.445,
-    "status": "success",
-    "counters": {
-      "outlinks": 0,
-      "embeds": 2
-    }
-  },
-  "server": "ia802507.us.archive.org",
-  "uniq": 230449572,
+  "server": "ia902507.us.archive.org",
+  "uniq": 360847584,
   "workable_servers": [
-    "ia802507.us.archive.org",
-    "ia902507.us.archive.org"
+    "ia902507.us.archive.org",
+    "ia802507.us.archive.org"
   ]
 }
