@@ -1,5 +1,5 @@
 {
-  "created": 1659703535,
+  "created": 1659722139,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/22/items/rgvfox-2022",
@@ -1862,31 +1862,93 @@
       "sha1": "31f5bd46f906dd5f8826709543e1a12356433738"
     },
     {
+      "name": "rgvfox-2022-08-05T12:54:21.864916-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659722064",
+      "size": "10831",
+      "md5": "a6c892ae772c710c5b90acef0ab261d6",
+      "crc32": "a97af0a2",
+      "sha1": "faa2d6fb643d0ac78a20c256abd9eaae198ebd16",
+      "format": "JSON"
+    },
+    {
+      "name": "rgvfox-2022-08-05T12:54:21.864916-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659722065",
+      "size": "14484",
+      "md5": "54469108c51d4d998d7807d697e6a3ac",
+      "crc32": "246bdcb2",
+      "sha1": "61f0d11b71ecf217a048a3fd16a02622f485fddf",
+      "format": "JSON"
+    },
+    {
+      "name": "rgvfox-2022-08-05T12:54:21.864916-05:00.jpg",
+      "source": "original",
+      "mtime": "1659722063",
+      "size": "214786",
+      "md5": "f2975a2c490bfbd6258d3696e3c9b371",
+      "crc32": "4cf7651e",
+      "sha1": "f29dc23fe19527ba1bf639c4941f4633e28e44d5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rgvfox-2022-08-05T12:54:21.864916-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659722067",
+      "size": "1522",
+      "md5": "3b058785472749dbd50b3b5019ec0d83",
+      "crc32": "1a32cf08",
+      "sha1": "7978fcecd954428621bbf967dc31871ed4590641",
+      "format": "JSON"
+    },
+    {
+      "name": "rgvfox-2022-08-05T12:54:21.864916-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1659722068",
+      "size": "29261",
+      "md5": "2f9b5e00b777b8a5b8acf23702850f2b",
+      "crc32": "508d628b",
+      "sha1": "675e34b11f1aab0bb2a5434c2ab55be97a1cf0b1",
+      "format": "JSON"
+    },
+    {
+      "name": "rgvfox-2022-08-05T12:54:21.864916-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rgvfox-2022-08-05T12:54:21.864916-05:00.jpg",
+      "mtime": "1659722125",
+      "size": "9638",
+      "md5": "c860c96614adff843cc3a1efee61588a",
+      "crc32": "cb6c1118",
+      "sha1": "ba505048ac5460e11bab11d935a1f9a1f310b9b0"
+    },
+    {
       "name": "rgvfox-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f00a0f76aecfcf2e3ac1aad0ca8324c66e41a356",
-      "mtime": "1659677691",
-      "size": "38367",
-      "md5": "af429ad3280ad0e33d0a1a403c85bacd",
-      "crc32": "b3d59d00",
-      "sha1": "a7311d8cb9c23d4b69ce8853d53ed02b4ae9144f",
+      "btih": "b7dff8ccc9ef58be3bce19fef97ad35a0b09dd54",
+      "mtime": "1659722130",
+      "size": "39622",
+      "md5": "52a2c91f673eeec057c83ec583b7b419",
+      "crc32": "fcf725c7",
+      "sha1": "3b09475e3b973d3a6562a323edb5115ed2372d60",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rgvfox-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dc6084f7054234fd28d3acb77f4e8743",
+      "md5": "38f96a1b1f7cb1a46bd90df48af982e6",
       "summation": "md5"
     },
     {
       "name": "rgvfox-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659674423",
-      "size": "237568",
-      "md5": "dd36a800db3c63df5bd21c033c52f89e",
-      "crc32": "9ae9c477",
-      "sha1": "1d5425fc3175ad066524b83a999b60a2e2a3e6bd",
+      "mtime": "1659722073",
+      "size": "241664",
+      "md5": "9604ac861034d94421fff8bb84a0bd20",
+      "crc32": "484e2d9e",
+      "sha1": "a18db59e193d3eb43c146bd39ca0cc245d7163bd",
       "format": "Metadata"
     },
     {
@@ -1900,9 +1962,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 182,
-  "item_last_updated": 1659677691,
-  "item_size": 9801223,
+  "files_count": 188,
+  "item_last_updated": 1659722130,
+  "item_size": 10087096,
   "metadata": {
     "identifier": "rgvfox-2022",
     "collection": [
@@ -1919,49 +1981,8 @@
     "publicdate": "2022-07-18 00:05:25",
     "addeddate": "2022-07-18 00:05:25"
   },
-  "rgvfox-2022": [
-    {
-      "url": "https://foxnewssouthtexas.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/foxnewssouthtexas_com-_-2022_08_05_03_32_01.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/foxnewssouthtexas_com-_-2022_08_05_03_32_01.report.json",
-      "summary": {
-        "performance": 0.25,
-        "accessibility": 0.81,
-        "best-practices": 0.92,
-        "seo": 0.76,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://foxnewssouthtexas.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/foxnewssouthtexas_com-_-2022_08_05_03_32_19.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/foxnewssouthtexas_com-_-2022_08_05_03_32_19.report.json",
-      "summary": {
-        "performance": 0.35,
-        "accessibility": 0.81,
-        "best-practices": 0.92,
-        "seo": 0.76,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://foxnewssouthtexas.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/foxnewssouthtexas_com-_-2022_08_05_03_32_33.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/foxnewssouthtexas_com-_-2022_08_05_03_32_33.report.json",
-      "summary": {
-        "performance": 0.34,
-        "accessibility": 0.81,
-        "best-practices": 0.92,
-        "seo": 0.76,
-        "pwa": 0.4
-      }
-    }
-  ],
   "server": "ia801403.us.archive.org",
-  "uniq": 325394916,
+  "uniq": 55217969,
   "workable_servers": [
     "ia801403.us.archive.org",
     "ia601403.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1659703144,
+  "created": 1659740914,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/33/items/kyivpost-2022",
@@ -11899,21 +11899,32 @@
       "format": "JSON"
     },
     {
+      "name": "kyivpost-2022-08-05T15:37:48.429600+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kyivpost-2022-08-05T15:37:48.429600+03:00.jpg",
+      "mtime": "1659705525",
+      "size": "9417",
+      "md5": "57910655dccc09e3203111b5f22003b8",
+      "crc32": "12604be6",
+      "sha1": "7664622705c354c3d954e215228bf4118e5a9bcd"
+    },
+    {
       "name": "kyivpost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ffdcd934d342dbfe29e9b8c4143acb4dca43428d",
-      "mtime": "1659703139",
-      "size": "239990",
-      "md5": "ccfbf4bf73b7c562dbd819be2799ff20",
-      "crc32": "e72957f3",
-      "sha1": "5ef5d0b8dc5aac8f9631da53ada843c286ac4d18",
+      "btih": "2ccdc92a28575c061ab09fbef74592fa8c597fa6",
+      "mtime": "1659705556",
+      "size": "240194",
+      "md5": "03e0bdea886cff91c82d55327d270d98",
+      "crc32": "89dae2dd",
+      "sha1": "fc3dd8bd4c999e3718d76337a14baef56dd0880d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kyivpost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "410b9e330d5a1f38846fe870fc6925e8",
+      "md5": "c1760a1efd2306de7932c3985637b549",
       "summation": "md5"
     },
     {
@@ -11937,9 +11948,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1136,
-  "item_last_updated": 1659703139,
-  "item_size": 108406617,
+  "files_count": 1137,
+  "item_last_updated": 1659705556,
+  "item_size": 108416238,
   "metadata": {
     "identifier": "kyivpost-2022",
     "collection": [
@@ -11956,21 +11967,10 @@
     "publicdate": "2022-03-23 02:09:01",
     "addeddate": "2022-03-23 02:09:01"
   },
-  "pending_tasks": true,
-  "server": "ia902502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3353459200,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 120514079,
+  "server": "ia802502.us.archive.org",
+  "uniq": 1174591261,
   "workable_servers": [
+    "ia802502.us.archive.org",
     "ia902502.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1659703593,
+  "created": 1659741020,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/2/items/seattletimes-2022",
@@ -2954,31 +2954,93 @@
       "sha1": "65017fb02c4f7116a123328aa94f6d1df05e7520"
     },
     {
+      "name": "seattletimes-2022-08-05T10:55:37.453562-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659722143",
+      "size": "460",
+      "md5": "ad8c228dc6748e8b18c344a1180e4732",
+      "crc32": "fdfce52f",
+      "sha1": "994cd6abd1896cab185e65d75882399f594f6e3f",
+      "format": "JSON"
+    },
+    {
+      "name": "seattletimes-2022-08-05T10:55:37.453562-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659722144",
+      "size": "48049",
+      "md5": "68912134c7f76a7786706a9c4864740b",
+      "crc32": "3c175b9c",
+      "sha1": "7c5e4ce0efb799dc5a7890d6cd7656242a5d66df",
+      "format": "JSON"
+    },
+    {
+      "name": "seattletimes-2022-08-05T10:55:37.453562-07:00.jpg",
+      "source": "original",
+      "mtime": "1659722140",
+      "size": "315420",
+      "md5": "8e8283877fd4e3b8a4633781101f75d3",
+      "crc32": "4f5c4704",
+      "sha1": "715d10d0d869925c6a4ef28cc717a8c9bd062d49",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "seattletimes-2022-08-05T10:55:37.453562-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659722145",
+      "size": "1513",
+      "md5": "b168ca35f0d5127a817e71ba951328d3",
+      "crc32": "eb44e794",
+      "sha1": "a92b698e51dfc8ccd6473d04cd03571351afd48a",
+      "format": "JSON"
+    },
+    {
+      "name": "seattletimes-2022-08-05T10:55:37.453562-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1659722147",
+      "size": "27943",
+      "md5": "9cb45340d24f04c86c3e9c9846154762",
+      "crc32": "de40d22f",
+      "sha1": "8d8b9190246d0563123fa12ed6d18e80557c850f",
+      "format": "JSON"
+    },
+    {
+      "name": "seattletimes-2022-08-05T10:55:37.453562-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "seattletimes-2022-08-05T10:55:37.453562-07:00.jpg",
+      "mtime": "1659722233",
+      "size": "8991",
+      "md5": "c34a46e9ab2a967bbde0647ed9496741",
+      "crc32": "fc20d44e",
+      "sha1": "fd91a8d73112b8cb0c9a13fa5d7e165c5b9cbe30"
+    },
+    {
       "name": "seattletimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e854c72b819ac7cb347ffb59f36234cec9f5e12c",
-      "mtime": "1659677676",
-      "size": "61799",
-      "md5": "edfbfa1a55f440cfe5b602583c793e8b",
-      "crc32": "d7af5fa1",
-      "sha1": "29208c5c1bfb16655fb0837c384d55abf75f74f8",
+      "btih": "75a751d5742bdb332e97bafeb9e5cb9b26eeb48e",
+      "mtime": "1659722238",
+      "size": "63068",
+      "md5": "28742e70085fe8874270e94f330cbc74",
+      "crc32": "d72c70b5",
+      "sha1": "5ff79cf942223d470df3f911c02d297172cf6b25",
       "format": "Archive BitTorrent"
     },
     {
       "name": "seattletimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ab7759fd33bdd16ac6323e09eec9e0d0",
+      "md5": "bbb0d3493b66179e4ca1d72b3dc8d2cc",
       "summation": "md5"
     },
     {
       "name": "seattletimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659674495",
-      "size": "356352",
-      "md5": "77e5319da6b35690fe76afeb8fa2858a",
-      "crc32": "c6562374",
-      "sha1": "9d7fa5f3034f9c2ce3ece0fefc87e7f3ce3fc709",
+      "mtime": "1659722151",
+      "size": "360448",
+      "md5": "1550ac76e59be15834cd7c4ce43772e7",
+      "crc32": "489e118e",
+      "sha1": "cd8a96b875733518e214739c4fefd88863e823cf",
       "format": "Metadata"
     },
     {
@@ -2992,9 +3054,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 286,
-  "item_last_updated": 1659677676,
-  "item_size": 23135621,
+  "files_count": 292,
+  "item_last_updated": 1659722238,
+  "item_size": 23543362,
   "metadata": {
     "identifier": "seattletimes-2022",
     "collection": [
@@ -3011,51 +3073,10 @@
     "publicdate": "2022-07-04 21:53:09",
     "addeddate": "2022-07-04 21:53:09"
   },
-  "seattletimes-2022": [
-    {
-      "url": "https://www.seattletimes.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_seattletimes_com-_-2022_08_05_03_33_19.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_seattletimes_com-_-2022_08_05_03_33_19.report.json",
-      "summary": {
-        "performance": 0.28,
-        "accessibility": 0.71,
-        "best-practices": 0.92,
-        "seo": 0.91,
-        "pwa": 0.7
-      }
-    },
-    {
-      "url": "https://www.seattletimes.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_seattletimes_com-_-2022_08_05_03_33_33.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_seattletimes_com-_-2022_08_05_03_33_33.report.json",
-      "summary": {
-        "performance": 0.26,
-        "accessibility": 0.71,
-        "best-practices": 0.83,
-        "seo": 0.91,
-        "pwa": 0.7
-      }
-    },
-    {
-      "url": "https://www.seattletimes.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_seattletimes_com-_-2022_08_05_03_33_58.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_seattletimes_com-_-2022_08_05_03_33_58.report.json",
-      "summary": {
-        "performance": 0.28,
-        "accessibility": 0.71,
-        "best-practices": 0.92,
-        "seo": 0.91,
-        "pwa": 0.7
-      }
-    }
-  ],
-  "server": "ia902500.us.archive.org",
-  "uniq": 2129627095,
+  "server": "ia802500.us.archive.org",
+  "uniq": 1090121810,
   "workable_servers": [
-    "ia902500.us.archive.org",
-    "ia802500.us.archive.org"
+    "ia802500.us.archive.org",
+    "ia902500.us.archive.org"
   ]
 }

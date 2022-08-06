@@ -1,5 +1,5 @@
 {
-  "created": 1659673576,
+  "created": 1659720945,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/10/items/mcgilldaily-2022",
@@ -1160,31 +1160,93 @@
       "sha1": "19f5cb852d1eb6f5f00d67da37eedb9aa9488aef"
     },
     {
+      "name": "mcgilldaily-2022-08-05T13:30:21.431316-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659720624",
+      "size": "15194",
+      "md5": "0c0bd93fb4e26f610a7b5937aceb4c52",
+      "crc32": "c2f8ee5f",
+      "sha1": "4be80f01395b55efa805d1c0a6db836cc1f46b6f",
+      "format": "JSON"
+    },
+    {
+      "name": "mcgilldaily-2022-08-05T13:30:21.431316-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659720626",
+      "size": "13965",
+      "md5": "7d73c1b4e4cb2c304d23a5056e969109",
+      "crc32": "ece0c476",
+      "sha1": "b5e5a08c6d1b03667f72c073df08b0e6bfac5728",
+      "format": "JSON"
+    },
+    {
+      "name": "mcgilldaily-2022-08-05T13:30:21.431316-04:00.jpg",
+      "source": "original",
+      "mtime": "1659720623",
+      "size": "256759",
+      "md5": "e1518bd5ebf68bf305e5837cea3437ae",
+      "crc32": "280d52cf",
+      "sha1": "ede446700a31760b5cccfbe077e73deb1b8e6e69",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mcgilldaily-2022-08-05T13:30:21.431316-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659720628",
+      "size": "1495",
+      "md5": "4f3ae375aeed9513f48af4c912620626",
+      "crc32": "ac0410ed",
+      "sha1": "896698fa2bb1f3dc0547fa11f09aac42d7035f6d",
+      "format": "JSON"
+    },
+    {
+      "name": "mcgilldaily-2022-08-05T13:30:21.431316-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659720630",
+      "size": "24295",
+      "md5": "379cf1e38965871b0b0ef56259dd3358",
+      "crc32": "e23543ac",
+      "sha1": "7af1d7e6147a84b9572b65b3080f298b86cb3615",
+      "format": "JSON"
+    },
+    {
+      "name": "mcgilldaily-2022-08-05T13:30:21.431316-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mcgilldaily-2022-08-05T13:30:21.431316-04:00.jpg",
+      "mtime": "1659720906",
+      "size": "9481",
+      "md5": "db2b10ec8bbce3d94a743f50d9ecb011",
+      "crc32": "311b1afa",
+      "sha1": "3d4796ead662651bc7a2018170c836b808729eba"
+    },
+    {
       "name": "mcgilldaily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "587f510f1c41311e63b8a173c3af27bb5ed9baf6",
-      "mtime": "1659673367",
-      "size": "25083",
-      "md5": "9150e02b49359794513463a3666a57c2",
-      "crc32": "879de9d8",
-      "sha1": "c05ea401b02ed768c794bea8adfa84e7e2d6960d",
+      "btih": "161401e0eb704b424ecb21f02f07f52ae424303a",
+      "mtime": "1659720916",
+      "size": "26368",
+      "md5": "2001dc4a6f60921abc7d79b8f52b37f0",
+      "crc32": "705438d4",
+      "sha1": "26d8c98942f24dd6a9b394eda279fba850f9ee82",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mcgilldaily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6f6c2c6f344876a45b2a6f107298a609",
+      "md5": "6e3cf43fe58655b9463ba631fae93f2a",
       "summation": "md5"
     },
     {
       "name": "mcgilldaily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659669881",
-      "size": "159744",
-      "md5": "a91b38669ff3fa4933ca2ba1a8463cb4",
-      "crc32": "a0831c0d",
-      "sha1": "e753b3df581352f280c1a3084ce52c09858b6ed6",
+      "mtime": "1659720635",
+      "size": "163840",
+      "md5": "57e86d4c7e7a9abfbcee0ce4c58b9369",
+      "crc32": "f036c66c",
+      "sha1": "e2f305d9cd102d3a41b4125b3a64aa13afa0d5b1",
       "format": "Metadata"
     },
     {
@@ -1198,9 +1260,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 115,
-  "item_last_updated": 1659673367,
-  "item_size": 6627798,
+  "files_count": 121,
+  "item_last_updated": 1659720916,
+  "item_size": 6954368,
   "metadata": {
     "identifier": "mcgilldaily-2022",
     "collection": [
@@ -1218,7 +1280,7 @@
     "addeddate": "2022-07-25 21:24:37"
   },
   "server": "ia801503.us.archive.org",
-  "uniq": 1659827193,
+  "uniq": 1856276618,
   "workable_servers": [
     "ia801503.us.archive.org",
     "ia601503.us.archive.org"

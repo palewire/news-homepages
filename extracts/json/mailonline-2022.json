@@ -1,5 +1,5 @@
 {
-  "created": 1659703170,
+  "created": 1659747362,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/11/items/mailonline-2022",
@@ -5271,21 +5271,32 @@
       "format": "JSON"
     },
     {
+      "name": "mailonline-2022-08-05T13:38:28.617572+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mailonline-2022-08-05T13:38:28.617572+01:00.jpg",
+      "mtime": "1659705448",
+      "size": "10680",
+      "md5": "e0180f0c787b5b820e330c8106169d2a",
+      "crc32": "1730d635",
+      "sha1": "e611c3bc86c7d632ff7e26844bb734754f78ea4d"
+    },
+    {
       "name": "mailonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "90c5e0bccb17b30b99775ceb98048b53f0987e6c",
-      "mtime": "1659703166",
-      "size": "110281",
-      "md5": "17b827c524a349d6cbd4dd7406499054",
-      "crc32": "ec966e92",
-      "sha1": "e6b6db3c4e01db1d7b0b24a4834479561ba3fc65",
+      "btih": "021d34198a3e6349778636a8be87a31795ecff7a",
+      "mtime": "1659705457",
+      "size": "110488",
+      "md5": "0a3c49a6b5eb6936c618d8a1c4b3c7aa",
+      "crc32": "f2846d27",
+      "sha1": "a34c2b7a0c3bffaa86bcc1f40c13b69013e6f935",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mailonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c9b2936e961bcb36ee27e58d09a9ed5c",
+      "md5": "5b5fb242188753777a2951f2678bb601",
       "summation": "md5"
     },
     {
@@ -5309,9 +5320,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 505,
-  "item_last_updated": 1659703166,
-  "item_size": 100866222,
+  "files_count": 506,
+  "item_last_updated": 1659705457,
+  "item_size": 100877109,
+  "mailonline-2022": {
+    "url": "https://www.dailymail.co.uk/home/index.html",
+    "job_id": "spn2-93b5d8cc58edd474e181e989d2c867ecf2f9b853",
+    "message": "The same snapshot had been made 20 minutes, 2 seconds ago. You can make new capture of this URL after 45 minutes."
+  },
   "metadata": {
     "identifier": "mailonline-2022",
     "collection": [
@@ -5328,21 +5344,10 @@
     "publicdate": "2022-06-29 18:55:39",
     "addeddate": "2022-06-29 18:55:39"
   },
-  "pending_tasks": true,
-  "server": "ia601408.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3353459389,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 496745972,
+  "server": "ia801408.us.archive.org",
+  "uniq": 321692136,
   "workable_servers": [
+    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ]
 }

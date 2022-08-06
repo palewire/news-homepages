@@ -1,5 +1,5 @@
 {
-  "created": 1659672292,
+  "created": 1659741633,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/3/items/hartfordcourant-2022",
@@ -954,31 +954,93 @@
       "sha1": "44306f62a31a480153d05cb9abba6c65759f0d98"
     },
     {
+      "name": "hartfordcourant-2022-08-05T13:23:00.976122-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659720184",
+      "size": "62483",
+      "md5": "13d0cfa2aa7ad9402b2ca5e0708003a8",
+      "crc32": "af4b4913",
+      "sha1": "f09d2389b85df8969cf252ca458d93c5367778a8",
+      "format": "JSON"
+    },
+    {
+      "name": "hartfordcourant-2022-08-05T13:23:00.976122-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659720186",
+      "size": "74626",
+      "md5": "1971dcd20d58f17ba1191f94df2ece67",
+      "crc32": "e650df7b",
+      "sha1": "1c0b5248e76d84194ba307ddc7bfc66f6ea1ee8f",
+      "format": "JSON"
+    },
+    {
+      "name": "hartfordcourant-2022-08-05T13:23:00.976122-04:00.jpg",
+      "source": "original",
+      "mtime": "1659720182",
+      "size": "235079",
+      "md5": "595cd9576e821bd43232359a200f6428",
+      "crc32": "3197a8b5",
+      "sha1": "45eb683d920d54145ec6655d7457a66ac9eff5fb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hartfordcourant-2022-08-05T13:23:00.976122-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659720188",
+      "size": "1465",
+      "md5": "a06d01f1d8dbdee911ac0680aa096ffa",
+      "crc32": "3e3a14b8",
+      "sha1": "96ad6bce804bc6a6433a34f33e4906f15ef8e041",
+      "format": "JSON"
+    },
+    {
+      "name": "hartfordcourant-2022-08-05T13:23:00.976122-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659720189",
+      "size": "131707",
+      "md5": "8bfe33df37fe3e08e0ad6b2ae4202d78",
+      "crc32": "ab4527dd",
+      "sha1": "1cbea6bc995ad2a31347faa2290004e456ed0953",
+      "format": "JSON"
+    },
+    {
+      "name": "hartfordcourant-2022-08-05T13:23:00.976122-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hartfordcourant-2022-08-05T13:23:00.976122-04:00.jpg",
+      "mtime": "1659720249",
+      "size": "9040",
+      "md5": "088ccdf51ad8abbb927fb5ec22c44537",
+      "crc32": "fe4d02b4",
+      "sha1": "92c6a4d883d201d3cc67fad0ca1218e145da6647"
+    },
+    {
       "name": "hartfordcourant-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b8638cf9b42e41af85dcec9b269227330cf8b3e3",
-      "mtime": "1659672280",
-      "size": "21261",
-      "md5": "b814d97a57c375e4009cb32c1a1b647c",
-      "crc32": "beaa81da",
-      "sha1": "e47bb3dfbafbd08f77a9b3cbc6fe1db8c53aa959",
+      "btih": "83ea8e2560bbb713029107f7cfec835700511064",
+      "mtime": "1659720257",
+      "size": "22571",
+      "md5": "1aeb38973f4ef00562621bb087826cac",
+      "crc32": "c4bbf77e",
+      "sha1": "178174e67b53c49d3b4dcae868f20518d7601928",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hartfordcourant-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "51d1c0fa3d9c2480249d1eb4a0feec77",
+      "md5": "c073bec06d189ac1478d2adf8fca25b1",
       "summation": "md5"
     },
     {
       "name": "hartfordcourant-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659669513",
-      "size": "135168",
-      "md5": "e4ca518f996c2bd9aa5f705d38170314",
-      "crc32": "aa19150e",
-      "sha1": "574296d112522deb23d940b2b27b01b01324edc3",
+      "mtime": "1659720193",
+      "size": "143360",
+      "md5": "7084784486f3da622562885cd6d817b1",
+      "crc32": "d405b5ca",
+      "sha1": "d842bcb3a07d683cf2cc2a283aaa4bdd06381044",
       "format": "Metadata"
     },
     {
@@ -992,9 +1054,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 95,
-  "item_last_updated": 1659672280,
-  "item_size": 7334058,
+  "files_count": 101,
+  "item_last_updated": 1659720257,
+  "item_size": 7857960,
   "metadata": {
     "identifier": "hartfordcourant-2022",
     "collection": [
@@ -1011,10 +1073,10 @@
     "publicdate": "2022-07-27 02:38:23",
     "addeddate": "2022-07-27 02:38:23"
   },
-  "server": "ia601500.us.archive.org",
-  "uniq": 961927011,
+  "server": "ia801500.us.archive.org",
+  "uniq": 145065303,
   "workable_servers": [
-    "ia601500.us.archive.org",
-    "ia801500.us.archive.org"
+    "ia801500.us.archive.org",
+    "ia601500.us.archive.org"
   ]
 }

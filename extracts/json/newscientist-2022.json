@@ -1,5 +1,5 @@
 {
-  "created": 1659673496,
+  "created": 1659740972,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/27/items/newscientist-2022",
@@ -2954,31 +2954,83 @@
       "sha1": "abf1fc67653f2ace4e87ff9a82c772f0fca09adc"
     },
     {
+      "name": "newscientist-2022-08-05T18:31:52.000281+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659720715",
+      "size": "17901",
+      "md5": "84a25bd8e891373ceccf8520a779987a",
+      "crc32": "f9872749",
+      "sha1": "8d27b2dab440959b3d8ed9d7210fedecbde7da8f",
+      "format": "JSON"
+    },
+    {
+      "name": "newscientist-2022-08-05T18:31:52.000281+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659720716",
+      "size": "14853",
+      "md5": "23519bdcf33d4a6883615ee12cb89423",
+      "crc32": "4842bdeb",
+      "sha1": "8f12d64241f8f4de4535d0f68ab5321486f8a6b3",
+      "format": "JSON"
+    },
+    {
+      "name": "newscientist-2022-08-05T18:31:52.000281+01:00.jpg",
+      "source": "original",
+      "mtime": "1659720713",
+      "size": "329544",
+      "md5": "cf634d7cd89dc8a11a817f5b44e6f730",
+      "crc32": "75116590",
+      "sha1": "76d99bf9aef077799cbcbfe373d2b555556333ef",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newscientist-2022-08-05T18:31:52.000281+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659720718",
+      "size": "1512",
+      "md5": "5a06468a885ba40e254485576894f271",
+      "crc32": "ac2b4725",
+      "sha1": "f4d5a14fe319d456bc938efc321fcf4ac9f7c93b",
+      "format": "JSON"
+    },
+    {
+      "name": "newscientist-2022-08-05T18:31:52.000281+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newscientist-2022-08-05T18:31:52.000281+01:00.jpg",
+      "mtime": "1659720941",
+      "size": "10818",
+      "md5": "ce26b62ad01f6605548c20fbb8653473",
+      "crc32": "49370fb9",
+      "sha1": "56f22d2bccd577343e2cc837dd41aca5a667ca9a"
+    },
+    {
       "name": "newscientist-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b03876d35e919416b10d34c5b4725dc613eab48d",
-      "mtime": "1659673468",
-      "size": "61987",
-      "md5": "e2bec41ebadd2b76bd96271c4ebf1e34",
-      "crc32": "464594f4",
-      "sha1": "ba7e66e37803b8bf964157ef1a5b2f64b55407e8",
+      "btih": "b332eebb1d5a7b80de058632a9ea6be986954ef3",
+      "mtime": "1659720952",
+      "size": "63067",
+      "md5": "be0df0ac4faa202efce0a62ca40849c9",
+      "crc32": "f0217755",
+      "sha1": "9ecbc4e7dd46d646a63d66a176bdcc52ede12bb3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newscientist-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fbcaf24fd2b78ca380f5c4bea60693a7",
+      "md5": "8603fcd4f29f486b863c43aa4fe8f77b",
       "summation": "md5"
     },
     {
       "name": "newscientist-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659669974",
-      "size": "356352",
-      "md5": "018ee2be8e99f37a7eab3a233a0ad46b",
-      "crc32": "5dce8561",
-      "sha1": "f83bff2f4403e0762b94d1a6a49bfb4bf21bb6cb",
+      "mtime": "1659720721",
+      "size": "360448",
+      "md5": "4f976b080418068b5347a8377e10f327",
+      "crc32": "e2e3ea6e",
+      "sha1": "6618e521601cb2811cc5dc75075e89b7f3190c7e",
       "format": "Metadata"
     },
     {
@@ -2992,9 +3044,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 286,
-  "item_last_updated": 1659673468,
-  "item_size": 22323095,
+  "files_count": 291,
+  "item_last_updated": 1659720952,
+  "item_size": 22702899,
   "metadata": {
     "identifier": "newscientist-2022",
     "collection": [
@@ -3011,10 +3063,10 @@
     "publicdate": "2022-07-04 21:49:18",
     "addeddate": "2022-07-04 21:49:18"
   },
-  "server": "ia902503.us.archive.org",
-  "uniq": 1584348044,
+  "server": "ia802503.us.archive.org",
+  "uniq": 117163225,
   "workable_servers": [
-    "ia902503.us.archive.org",
-    "ia802503.us.archive.org"
+    "ia802503.us.archive.org",
+    "ia902503.us.archive.org"
   ]
 }

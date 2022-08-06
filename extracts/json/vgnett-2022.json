@@ -1,5 +1,5 @@
 {
-  "created": 1659703808,
+  "created": 1659747803,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/4/items/vgnett-2022",
@@ -1642,31 +1642,93 @@
       "sha1": "a09ad23c723959fd5a6ba0039a0cabd8aaef53fa"
     },
     {
+      "name": "vgnett-2022-08-05T20:02:10.535207+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659722534",
+      "size": "123811",
+      "md5": "8c9df46a58e6d2cf3e528ee2a9f9a35a",
+      "crc32": "1d7ee304",
+      "sha1": "b02dedc1dd9264c0342cdd85fdc2ab8a42f8167a",
+      "format": "JSON"
+    },
+    {
+      "name": "vgnett-2022-08-05T20:02:10.535207+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659722537",
+      "size": "69680",
+      "md5": "0d3bfed483927775da63b62ff78e79cf",
+      "crc32": "9e9f1e6d",
+      "sha1": "5d244a86fa167420f5094ace495926e340a3cd2d",
+      "format": "JSON"
+    },
+    {
+      "name": "vgnett-2022-08-05T20:02:10.535207+02:00.jpg",
+      "source": "original",
+      "mtime": "1659722533",
+      "size": "251068",
+      "md5": "b9fe770f15c8f11c6e9b78dc5275e7bc",
+      "crc32": "58b5a7fa",
+      "sha1": "17ef55a10c8f64d7350abb09cc63a11285fbf041",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vgnett-2022-08-05T20:02:10.535207+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659722539",
+      "size": "1405",
+      "md5": "769fe241191e4d981bd5809ffe2df664",
+      "crc32": "4a1aa277",
+      "sha1": "a67b28bc255b6085a4a55cd56500f0fafdcc0f23",
+      "format": "JSON"
+    },
+    {
+      "name": "vgnett-2022-08-05T20:02:10.535207+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1659722540",
+      "size": "224",
+      "md5": "013fc7ce947f7e257fe6328aac6ce564",
+      "crc32": "1c3282db",
+      "sha1": "ff78eb696e222b08adaf4e9e16c4ea81ba8d1759",
+      "format": "JSON"
+    },
+    {
+      "name": "vgnett-2022-08-05T20:02:10.535207+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vgnett-2022-08-05T20:02:10.535207+02:00.jpg",
+      "mtime": "1659722677",
+      "size": "11045",
+      "md5": "6955f456d70e4a3320ee838963bc8ffb",
+      "crc32": "0ec9b1cf",
+      "sha1": "1796190dfadb4a15c7519e5b47393d4424ea9fc6"
+    },
+    {
       "name": "vgnett-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ad9f555f1f2445040bbf92d8f7d7d31f0853140d",
-      "mtime": "1659677870",
-      "size": "34369",
-      "md5": "2f32b7edbaa650ee9e477732763440ec",
-      "crc32": "fe596d06",
-      "sha1": "579501ae54d34eb22ac6a79a03360bb6fca560ab",
+      "btih": "048ab12d892b6b290866b96f684fe70ff8e89805",
+      "mtime": "1659722680",
+      "size": "35624",
+      "md5": "929fc76a0b071108922524d044917911",
+      "crc32": "5ddf2142",
+      "sha1": "2520f956728f11229f37baad27012428a1892544",
       "format": "Archive BitTorrent"
     },
     {
       "name": "vgnett-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2e9eb29f95bcd2e448d047782cc45648",
+      "md5": "d226484063c1ee0e73fd2a30c64a7a03",
       "summation": "md5"
     },
     {
       "name": "vgnett-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659674850",
-      "size": "208896",
-      "md5": "2b82e5d2f46e47e5872dbcf616dbe413",
-      "crc32": "19ac7f51",
-      "sha1": "0f8d81d17ccb40b17566bddd4ddcbe54da5b78c7",
+      "mtime": "1659722544",
+      "size": "217088",
+      "md5": "26be8212d71f00354cfd935a48f65fb2",
+      "crc32": "4e4188a4",
+      "sha1": "51f93c4cca5f13aec90ed4902469b0c8e6c0abc8",
       "format": "Metadata"
     },
     {
@@ -1680,9 +1742,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 161,
-  "item_last_updated": 1659677870,
-  "item_size": 16590346,
+  "files_count": 167,
+  "item_last_updated": 1659722680,
+  "item_size": 17057026,
   "metadata": {
     "identifier": "vgnett-2022",
     "collection": [
@@ -1699,51 +1761,15 @@
     "publicdate": "2022-07-20 11:37:24",
     "addeddate": "2022-07-20 11:37:24"
   },
-  "server": "ia801400.us.archive.org",
-  "uniq": 360875322,
-  "vgnett-2022": [
-    {
-      "url": "https://www.vg.no/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vg_no-_-2022_08_05_03_41_55.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vg_no-_-2022_08_05_03_41_55.report.json",
-      "summary": {
-        "performance": 0.58,
-        "accessibility": 0.91,
-        "best-practices": 0.92,
-        "seo": 1,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.vg.no/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vg_no-_-2022_08_05_03_42_33.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vg_no-_-2022_08_05_03_42_33.report.json",
-      "summary": {
-        "performance": 0.6,
-        "accessibility": 0.91,
-        "best-practices": 0.92,
-        "seo": 1,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.vg.no/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vg_no-_-2022_08_05_03_42_14.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_vg_no-_-2022_08_05_03_42_14.report.json",
-      "summary": {
-        "performance": 0.62,
-        "accessibility": 0.91,
-        "best-practices": 0.92,
-        "seo": 1,
-        "pwa": 0.4
-      }
-    }
-  ],
+  "server": "ia601400.us.archive.org",
+  "uniq": 633902323,
+  "vgnett-2022": {
+    "url": "https://www.vg.no/",
+    "job_id": "spn2-068dded7253361d1fb5e0c99b1aa937898b1c228",
+    "message": "The same snapshot had been made 25 minutes, 8 seconds ago. You can make new capture of this URL after 45 minutes."
+  },
   "workable_servers": [
-    "ia801400.us.archive.org",
-    "ia601400.us.archive.org"
+    "ia601400.us.archive.org",
+    "ia801400.us.archive.org"
   ]
 }

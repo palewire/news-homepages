@@ -1,5 +1,5 @@
 {
-  "created": 1659701618,
+  "created": 1659747727,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/23/items/thenewmexican-2022",
@@ -8700,7 +8700,7 @@
     "addeddate": "2022-03-25 03:48:42"
   },
   "pending_tasks": true,
-  "server": "ia802501.us.archive.org",
+  "server": "ia902501.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
@@ -8782,10 +8782,91 @@
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
+    },
+    {
+      "task_id": 3353688607,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3353688620,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3353688635,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3353688646,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3353688673,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 636238315,
+  "thenewmexican-2022": [
+    {
+      "url": "https://www.santafenewmexican.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_santafenewmexican_com-_-2022_08_03_16_25_20.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_santafenewmexican_com-_-2022_08_03_16_25_20.report.json",
+      "summary": {
+        "performance": 0.11,
+        "accessibility": 0.69,
+        "best-practices": 0.83,
+        "seo": 0.84,
+        "pwa": 0.6
+      }
+    },
+    {
+      "url": "https://www.santafenewmexican.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_santafenewmexican_com-_-2022_08_03_16_27_35.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_santafenewmexican_com-_-2022_08_03_16_27_35.report.json",
+      "summary": {
+        "performance": 0.15,
+        "accessibility": 0.69,
+        "best-practices": 0.83,
+        "seo": 0.84,
+        "pwa": 0.6
+      }
+    },
+    {
+      "url": "https://www.santafenewmexican.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_santafenewmexican_com-_-2022_08_03_16_26_28.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_santafenewmexican_com-_-2022_08_03_16_26_28.report.json",
+      "summary": {
+        "performance": 0.12,
+        "accessibility": 0.69,
+        "best-practices": 0.83,
+        "seo": 0.84,
+        "pwa": 0.6
+      }
+    }
+  ],
+  "uniq": 247661996,
   "workable_servers": [
-    "ia802501.us.archive.org"
+    "ia902501.us.archive.org"
   ]
 }

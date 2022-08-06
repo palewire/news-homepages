@@ -1,5 +1,5 @@
 {
-  "created": 1659703104,
+  "created": 1659747326,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/10/items/lehuffpost-2022",
@@ -10451,21 +10451,32 @@
       "format": "JSON"
     },
     {
+      "name": "lehuffpost-2022-08-05T14:37:16.860741+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lehuffpost-2022-08-05T14:37:16.860741+02:00.jpg",
+      "mtime": "1659705562",
+      "size": "8991",
+      "md5": "ae59c701b8d4b3b79699ef6913f0460a",
+      "crc32": "c5799351",
+      "sha1": "67fe73437b20a3d8c76ec878e516ddddf9fca219"
+    },
+    {
       "name": "lehuffpost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6bbace8e3e656d2e6b104b319bb21a1f3045e2ca",
-      "mtime": "1659703100",
-      "size": "213312",
-      "md5": "e691a85c9d2f22ef8827353e3136cf27",
-      "crc32": "ca0fb1fc",
-      "sha1": "c67b055536871ce5e1a6f23324fc7af026e229f8",
+      "btih": "70056e71cb47443c9dd4fb801f9481b2b08763ad",
+      "mtime": "1659705574",
+      "size": "213518",
+      "md5": "e59046d4710fbf95ed6ade9cb0df6a6c",
+      "crc32": "939cd43c",
+      "sha1": "89e83c6107887a4147f4120cdcf2a31a0d0995ff",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lehuffpost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "81182d24d8c4be5de4d55cb1980b392b",
+      "md5": "a36e46fd47996629050897a404e97c08",
       "summation": "md5"
     },
     {
@@ -10489,9 +10500,18 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1001,
-  "item_last_updated": 1659703100,
-  "item_size": 82232332,
+  "files_count": 1002,
+  "item_last_updated": 1659705574,
+  "item_size": 82241529,
+  "lehuffpost-2022": {
+    "url": "https://www.huffingtonpost.fr/",
+    "job_id": "spn2-872982d2a8937208d59948e5f465d0f8e6378bb8",
+    "status_ext": "error:job-failed",
+    "message": "Job failed.",
+    "status": "error",
+    "resources": [],
+    "duration_sec": 0.833
+  },
   "metadata": {
     "identifier": "lehuffpost-2022",
     "collection": [
@@ -10508,21 +10528,10 @@
     "publicdate": "2022-04-09 13:43:32",
     "addeddate": "2022-04-09 13:43:32"
   },
-  "pending_tasks": true,
   "server": "ia902503.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3353458876,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 713144860,
+  "uniq": 1326285714,
   "workable_servers": [
-    "ia902503.us.archive.org"
+    "ia902503.us.archive.org",
+    "ia802503.us.archive.org"
   ]
 }

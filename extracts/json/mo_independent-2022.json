@@ -1,5 +1,5 @@
 {
-  "created": 1659703230,
+  "created": 1659740904,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/3/items/mo_independent-2022",
@@ -3005,21 +3005,32 @@
       "format": "JSON"
     },
     {
+      "name": "mo_independent-2022-08-05T07:39:19.638674-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mo_independent-2022-08-05T07:39:19.638674-05:00.jpg",
+      "mtime": "1659705602",
+      "size": "10607",
+      "md5": "541b4d688f48c6959609ed9b10c4dfd6",
+      "crc32": "116cb4ae",
+      "sha1": "80d6b541c6ed360450b37cd255870a99ad5b598a"
+    },
+    {
       "name": "mo_independent-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4227eb915249cd44385ba3984d4a226b8be7a27d",
-      "mtime": "1659703221",
-      "size": "63704",
-      "md5": "66683ab8843014401bd96a2b01d5baa3",
-      "crc32": "50778cc4",
-      "sha1": "531ba4e1ba2ab2a2ebf138c859e053cb2757a1da",
+      "btih": "9c9041cdc487e795d400ef1448827e882f7776f7",
+      "mtime": "1659705607",
+      "size": "63915",
+      "md5": "e5bad6a6b13be5b828703e6ed746d394",
+      "crc32": "ae9c7c9d",
+      "sha1": "5e3f997f170d88a4a5ec6c0ce675495f08cb75fb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mo_independent-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bad9f81071505258859f62bf28fcd1e2",
+      "md5": "06fd561cdb45f866540e2dc4957fcdab",
       "summation": "md5"
     },
     {
@@ -3043,9 +3054,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 291,
-  "item_last_updated": 1659703221,
-  "item_size": 23865491,
+  "files_count": 292,
+  "item_last_updated": 1659705607,
+  "item_size": 23876309,
   "metadata": {
     "identifier": "mo_independent-2022",
     "collection": [
@@ -3062,21 +3073,10 @@
     "publicdate": "2022-07-04 21:56:43",
     "addeddate": "2022-07-04 21:56:43"
   },
-  "pending_tasks": true,
   "server": "ia601405.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3353459828,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1094137427,
+  "uniq": 2007607440,
   "workable_servers": [
-    "ia601405.us.archive.org"
+    "ia601405.us.archive.org",
+    "ia801405.us.archive.org"
   ]
 }

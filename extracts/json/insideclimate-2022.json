@@ -1,5 +1,5 @@
 {
-  "created": 1659703100,
+  "created": 1659720503,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/6/items/insideclimate-2022",
@@ -2524,31 +2524,93 @@
       "sha1": "5b55163bc35da4e2e8d2b9e0e8365b47f196a7d3"
     },
     {
+      "name": "insideclimate-2022-08-05T13:26:37.008887-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659720401",
+      "size": "23422",
+      "md5": "26a0ee67b00769004726daf7ec5fe74d",
+      "crc32": "7518c96d",
+      "sha1": "b3a48590ab5ca61d7e6cd95ea186a9d08b65270b",
+      "format": "JSON"
+    },
+    {
+      "name": "insideclimate-2022-08-05T13:26:37.008887-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659720402",
+      "size": "25545",
+      "md5": "8ae9c72c30ac289bc46fd689dace4ecf",
+      "crc32": "6e9b07a4",
+      "sha1": "65ba05c64b7193571f1e81c6553a8bc29588979b",
+      "format": "JSON"
+    },
+    {
+      "name": "insideclimate-2022-08-05T13:26:37.008887-04:00.jpg",
+      "source": "original",
+      "mtime": "1659720398",
+      "size": "304353",
+      "md5": "fe89e951661d474c16e510895dd512b5",
+      "crc32": "c1bcd597",
+      "sha1": "169be7aab8a38fc22acd12bf638d2017d65cddc0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "insideclimate-2022-08-05T13:26:37.008887-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659720404",
+      "size": "1507",
+      "md5": "2e132138d73f144e818bec6ce1ffb51a",
+      "crc32": "3c6e2a9c",
+      "sha1": "4b2685c0bb2314eb9bd1c5a76264f497f31d6058",
+      "format": "JSON"
+    },
+    {
+      "name": "insideclimate-2022-08-05T13:26:37.008887-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659720406",
+      "size": "9191",
+      "md5": "566833e233d146266ece87aad5506d6c",
+      "crc32": "30727da4",
+      "sha1": "b31537f73b821df0d03c968914073c1b0acc66fc",
+      "format": "JSON"
+    },
+    {
+      "name": "insideclimate-2022-08-05T13:26:37.008887-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "insideclimate-2022-08-05T13:26:37.008887-04:00.jpg",
+      "mtime": "1659720483",
+      "size": "9847",
+      "md5": "85bbc7ee1a88e3f7ed91163446b1f5ac",
+      "crc32": "e463ab7b",
+      "sha1": "e258040f68983afa16e23fc654f57c7e26b170d0"
+    },
+    {
       "name": "insideclimate-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b8bafea4d532de5651f8c52ee4151af915c7bb78",
-      "mtime": "1659672958",
-      "size": "53488",
-      "md5": "94c4d22ce6ecbcf054668f65bd045b10",
-      "crc32": "0c104b21",
-      "sha1": "2429ed8f1d3cdcc6a94166b2f79ca67a3ad51fac",
+      "btih": "df4ff10a5e2a3ceecd425f9f3476863cb773872c",
+      "mtime": "1659720488",
+      "size": "54764",
+      "md5": "3e18d42edf544d311d5bb16e0ece8782",
+      "crc32": "6aec4b0f",
+      "sha1": "f9c374519830f9ff272dce3f80d9c4f10b296be9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "insideclimate-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a24ad811aa757d6c7ab64f93bb008de1",
+      "md5": "353eb597156f6b9060c5682a805ca0b2",
       "summation": "md5"
     },
     {
       "name": "insideclimate-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659669584",
-      "size": "307200",
-      "md5": "d44d5fc686b4010d6146e3a8e9391330",
-      "crc32": "e8cf8819",
-      "sha1": "61e06258570a9910187a901ccf084556396875d6",
+      "mtime": "1659720410",
+      "size": "315392",
+      "md5": "cbbbea2806dd1f9fb3a92cc636f1ff3c",
+      "crc32": "a068dddc",
+      "sha1": "9fa169adef3013c790b3e4d978ef302b4432d77b",
       "format": "Metadata"
     },
     {
@@ -2562,50 +2624,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 245,
-  "insideclimate-2022": [
-    {
-      "url": "https://insideclimatenews.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/insideclimatenews_org-_-2022_08_05_02_52_36.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/insideclimatenews_org-_-2022_08_05_02_52_36.report.json",
-      "summary": {
-        "performance": 0.85,
-        "accessibility": 0.96,
-        "best-practices": 1,
-        "seo": 0.84,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://insideclimatenews.org/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/insideclimatenews_org-_-2022_08_05_02_53_00.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/insideclimatenews_org-_-2022_08_05_02_53_00.report.json",
-      "summary": {
-        "performance": 1,
-        "accessibility": 0.96,
-        "best-practices": 1,
-        "seo": 0.84,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://insideclimatenews.org/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/insideclimatenews_org-_-2022_08_05_02_52_49.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/insideclimatenews_org-_-2022_08_05_02_52_49.report.json",
-      "summary": {
-        "performance": 1,
-        "accessibility": 0.96,
-        "best-practices": 1,
-        "seo": 0.84,
-        "pwa": 0.4
-      }
-    }
-  ],
-  "item_last_updated": 1659672958,
-  "item_size": 21136110,
+  "files_count": 251,
+  "item_last_updated": 1659720488,
+  "item_size": 21519443,
   "metadata": {
     "identifier": "insideclimate-2022",
     "collection": [
@@ -2622,10 +2643,10 @@
     "publicdate": "2022-07-09 03:59:45",
     "addeddate": "2022-07-09 03:59:45"
   },
-  "server": "ia601504.us.archive.org",
-  "uniq": 587202122,
+  "server": "ia801504.us.archive.org",
+  "uniq": 1727951941,
   "workable_servers": [
-    "ia601504.us.archive.org",
-    "ia801504.us.archive.org"
+    "ia801504.us.archive.org",
+    "ia601504.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1659702895,
+  "created": 1659740903,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/17/items/jn_japanese-2022",
@@ -3935,21 +3935,32 @@
       "format": "JSON"
     },
     {
+      "name": "jn_japanese-2022-08-05T21:33:52.961023+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jn_japanese-2022-08-05T21:33:52.961023+09:00.jpg",
+      "mtime": "1659705325",
+      "size": "9607",
+      "md5": "514693f3f555f81b02533c915c640a46",
+      "crc32": "251eaab1",
+      "sha1": "48e8cf21a81cb69cbd49f5fa62c721601bda3f8e"
+    },
+    {
       "name": "jn_japanese-2022_archive.torrent",
       "source": "metadata",
-      "btih": "50561d065d4e21cc7812cd389d2a5ca778e03420",
-      "mtime": "1659702891",
-      "size": "81957",
-      "md5": "9a7cbbc4705573ea58e797c7bc83d60a",
-      "crc32": "9fe66c90",
-      "sha1": "23da1470de80fc165cf5bf723556de8895a627a5",
+      "btih": "141ea7da9a1d2d482035e94e57ec8e2ce86ab69c",
+      "mtime": "1659705331",
+      "size": "82164",
+      "md5": "72ccc8815086ad920b3164e005a02a56",
+      "crc32": "de9c95c8",
+      "sha1": "52f5463e7842a75cdbbef09f0fddf249baec45c0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jn_japanese-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3223b0ff1e48a01e9a4be0ede6b25a0d",
+      "md5": "eee0d6346ebb361d6cf6e59d8d55a4bf",
       "summation": "md5"
     },
     {
@@ -3973,9 +3984,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 380,
-  "item_last_updated": 1659702891,
-  "item_size": 35964305,
+  "files_count": 381,
+  "item_last_updated": 1659705331,
+  "item_size": 35974119,
   "metadata": {
     "identifier": "jn_japanese-2022",
     "collection": [
@@ -3992,21 +4003,10 @@
     "publicdate": "2022-07-09 02:39:08",
     "addeddate": "2022-07-09 02:39:08"
   },
-  "pending_tasks": true,
-  "server": "ia601403.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3353457029,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 324167558,
+  "server": "ia801403.us.archive.org",
+  "uniq": 459244339,
   "workable_servers": [
+    "ia801403.us.archive.org",
     "ia601403.us.archive.org"
   ]
 }

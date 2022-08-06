@@ -1,5 +1,5 @@
 {
-  "created": 1659682610,
+  "created": 1659740965,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/15/items/dallasfreepress-2022",
@@ -2618,31 +2618,83 @@
       "sha1": "34a32fbab6b04ac88c959046554515693c7bc0d8"
     },
     {
+      "name": "dallasfreepress-2022-08-05T12:17:41.946339-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659719864",
+      "size": "11700",
+      "md5": "68d90c9c329a576ba9bdcce4172260bc",
+      "crc32": "0aab3fb7",
+      "sha1": "20a153e24d2881d7a43a53272aa44f8620360173",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasfreepress-2022-08-05T12:17:41.946339-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659719866",
+      "size": "5592",
+      "md5": "9f07053fc01b6fade20db5f22debc665",
+      "crc32": "63fed8ac",
+      "sha1": "3b1a6371a93d9027f6f4a7766c1af9065aa403d9",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasfreepress-2022-08-05T12:17:41.946339-05:00.jpg",
+      "source": "original",
+      "mtime": "1659719863",
+      "size": "278580",
+      "md5": "028f249484cf1970293be665de0670e9",
+      "crc32": "16ca2a67",
+      "sha1": "be0325f5091fa64fcb357c59e0b32c8e588d1659",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dallasfreepress-2022-08-05T12:17:41.946339-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659719867",
+      "size": "1495",
+      "md5": "d5d2c0b1ae36e9460c460659a03c9cfc",
+      "crc32": "6b25c791",
+      "sha1": "5ff82ab29376c6137f0c3952a0a2089377f56917",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasfreepress-2022-08-05T12:17:41.946339-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dallasfreepress-2022-08-05T12:17:41.946339-05:00.jpg",
+      "mtime": "1659719985",
+      "size": "9611",
+      "md5": "6b5f9b1e1f56f9889535d2075f121d3a",
+      "crc32": "912fcd11",
+      "sha1": "34a32fbab6b04ac88c959046554515693c7bc0d8"
+    },
+    {
       "name": "dallasfreepress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "34c42859e7f2859768627bb452d607c96029e8ed",
-      "mtime": "1659672117",
-      "size": "55668",
-      "md5": "4d89dcac07cd4bc9e8435579d8e2506a",
-      "crc32": "3518c412",
-      "sha1": "e25225f020565d2d6da5d8e2d62aaabcd7e6bb52",
+      "btih": "c7b1827d76b5f3f0b6709bc3069fb5f0f847cf58",
+      "mtime": "1659719989",
+      "size": "56761",
+      "md5": "c80097f9d3e931fc5d38cd72ba99df48",
+      "crc32": "76f5b1ad",
+      "sha1": "a4e5b4815a19b98a63e4ed1cc0d7ead08610014a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dallasfreepress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3c20148e474db83d4f8ab4d0b350f490",
+      "md5": "a0e30b65de5acc2dc118344fc1bfc8f3",
       "summation": "md5"
     },
     {
       "name": "dallasfreepress-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659669256",
-      "size": "319488",
-      "md5": "7b5503f9451a7467571f3ad261819c3e",
-      "crc32": "f62018df",
-      "sha1": "b269f37bf301b3d89f719fa1aaad22fb8aadfb0c",
+      "mtime": "1659719871",
+      "size": "327680",
+      "md5": "33b28172a53fd4444f22017474a68670",
+      "crc32": "4f87da36",
+      "sha1": "6093845aa0ccd26b4399e93766c780fa24be2b40",
       "format": "Metadata"
     },
     {
@@ -2656,9 +2708,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 254,
-  "item_last_updated": 1659672117,
-  "item_size": 16527918,
+  "files_count": 259,
+  "item_last_updated": 1659719989,
+  "item_size": 16844181,
   "metadata": {
     "identifier": "dallasfreepress-2022",
     "collection": [
@@ -2675,10 +2727,10 @@
     "publicdate": "2022-07-09 03:57:39",
     "addeddate": "2022-07-09 03:57:39"
   },
-  "server": "ia801408.us.archive.org",
-  "uniq": 1133469871,
+  "server": "ia601408.us.archive.org",
+  "uniq": 2056607945,
   "workable_servers": [
-    "ia801408.us.archive.org",
-    "ia601408.us.archive.org"
+    "ia601408.us.archive.org",
+    "ia801408.us.archive.org"
   ]
 }

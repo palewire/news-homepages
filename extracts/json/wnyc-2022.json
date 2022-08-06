@@ -1,5 +1,5 @@
 {
-  "created": 1659669032,
+  "created": 1659747853,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/28/items/wnyc-2022",
@@ -4224,31 +4224,155 @@
       "sha1": "9388cb651069c34b91fea9134b6fe33fd2d97c91"
     },
     {
+      "name": "wnyc-2022-08-05T10:17:33.633165-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659709056",
+      "size": "27138",
+      "md5": "cf3e8d20c8b9d8fb8d42c1da9395b787",
+      "crc32": "2e25983d",
+      "sha1": "8226f1a4d826f17e1d75816847dfd4185fb2bdd3",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyc-2022-08-05T10:17:33.633165-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659709058",
+      "size": "24048",
+      "md5": "d372f860485d06b38acb5b74cec8ab78",
+      "crc32": "ab611d4a",
+      "sha1": "cf5431876cf87848ce00377751eba8425b2e7f0e",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyc-2022-08-05T10:17:33.633165-04:00.jpg",
+      "source": "original",
+      "mtime": "1659709055",
+      "size": "175414",
+      "md5": "fb1de34cac84b99282fc804303116ae8",
+      "crc32": "ee0a7211",
+      "sha1": "d5894797d2e496dd47d0d0bc2b6a17406515bb0d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wnyc-2022-08-05T10:17:33.633165-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659709060",
+      "size": "1441",
+      "md5": "c32c1d77207613f4377737bc5711d074",
+      "crc32": "0c7c8bfa",
+      "sha1": "5f040d4c4d6e8830b23329d6b466fa1035d42449",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyc-2022-08-05T10:17:33.633165-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659709062",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyc-2022-08-05T10:17:33.633165-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wnyc-2022-08-05T10:17:33.633165-04:00.jpg",
+      "mtime": "1659709893",
+      "size": "8881",
+      "md5": "3adbdb6600c2b46b5caa322479092feb",
+      "crc32": "2c011ea0",
+      "sha1": "3214e202b45afc6692abc896a00ccdc6ee1c63cb"
+    },
+    {
+      "name": "wnyc-2022-08-05T13:39:54.037233-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659721197",
+      "size": "27138",
+      "md5": "cf3e8d20c8b9d8fb8d42c1da9395b787",
+      "crc32": "2e25983d",
+      "sha1": "8226f1a4d826f17e1d75816847dfd4185fb2bdd3",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyc-2022-08-05T13:39:54.037233-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659721199",
+      "size": "24048",
+      "md5": "d372f860485d06b38acb5b74cec8ab78",
+      "crc32": "ab611d4a",
+      "sha1": "cf5431876cf87848ce00377751eba8425b2e7f0e",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyc-2022-08-05T13:39:54.037233-04:00.jpg",
+      "source": "original",
+      "mtime": "1659721195",
+      "size": "175414",
+      "md5": "fb1de34cac84b99282fc804303116ae8",
+      "crc32": "ee0a7211",
+      "sha1": "d5894797d2e496dd47d0d0bc2b6a17406515bb0d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wnyc-2022-08-05T13:39:54.037233-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659721201",
+      "size": "1441",
+      "md5": "c32c1d77207613f4377737bc5711d074",
+      "crc32": "0c7c8bfa",
+      "sha1": "5f040d4c4d6e8830b23329d6b466fa1035d42449",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyc-2022-08-05T13:39:54.037233-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659721203",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyc-2022-08-05T13:39:54.037233-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wnyc-2022-08-05T13:39:54.037233-04:00.jpg",
+      "mtime": "1659721265",
+      "size": "8881",
+      "md5": "3adbdb6600c2b46b5caa322479092feb",
+      "crc32": "2c011ea0",
+      "sha1": "3214e202b45afc6692abc896a00ccdc6ee1c63cb"
+    },
+    {
       "name": "wnyc-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1d5b185d12e720b5b3ceacaa07d3a361f73ff4c7",
-      "mtime": "1659668003",
-      "size": "84277",
-      "md5": "0a07b25744fcded18da420e94c5cd23e",
-      "crc32": "457d38c9",
-      "sha1": "99f69e7a6881e0bc75e15ce31a1302408c6e3815",
+      "btih": "bc130250ecc6300f5e1e3ed3c81ade1dbd967aac",
+      "mtime": "1659721276",
+      "size": "86739",
+      "md5": "80bc782bb8c6ebe90727e5a24502aac0",
+      "crc32": "72d8ddbe",
+      "sha1": "6df9b6e1fdf864ad5a458877a72ab26d6e75bfb7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wnyc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "69dd6a973d9d9b2ff4a6fa5492d721bd",
+      "md5": "6e03047c08b94fcdeb421565e6fb0a20",
       "summation": "md5"
     },
     {
       "name": "wnyc-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659665056",
-      "size": "487424",
-      "md5": "4dff9c381c053c96a95675514048e607",
-      "crc32": "b4582e2b",
-      "sha1": "20a195a27bc57d3eb0dd35ac233806f6b6dab3bd",
+      "mtime": "1659721207",
+      "size": "499712",
+      "md5": "3899c0992a2376caf08ad8e34204bd25",
+      "crc32": "f67c1ebd",
+      "sha1": "769ed4b85933bd0c33a4782aafaf43fc057e50a2",
       "format": "Metadata"
     },
     {
@@ -4262,9 +4386,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 407,
-  "item_last_updated": 1659668003,
-  "item_size": 24459289,
+  "files_count": 419,
+  "item_last_updated": 1659721276,
+  "item_size": 24948287,
   "metadata": {
     "identifier": "wnyc-2022",
     "collection": [
@@ -4281,10 +4405,15 @@
     "publicdate": "2022-06-27 18:14:25",
     "addeddate": "2022-06-27 18:14:25"
   },
-  "server": "ia601408.us.archive.org",
-  "uniq": 522330013,
+  "server": "ia801408.us.archive.org",
+  "uniq": 1280076775,
+  "wnyc-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "workable_servers": [
-    "ia601408.us.archive.org",
-    "ia801408.us.archive.org"
+    "ia801408.us.archive.org",
+    "ia601408.us.archive.org"
   ]
 }

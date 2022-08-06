@@ -1,5 +1,5 @@
 {
-  "created": 1659703094,
+  "created": 1659747307,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/5/items/le_figaro-2022",
@@ -10537,21 +10537,32 @@
       "format": "JSON"
     },
     {
+      "name": "le_figaro-2022-08-05T14:37:02.363165+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "le_figaro-2022-08-05T14:37:02.363165+02:00.jpg",
+      "mtime": "1659705545",
+      "size": "9313",
+      "md5": "6aca3100d32c94ca2ac321920b3ca2fc",
+      "crc32": "dee1afd1",
+      "sha1": "17a3a789d4e82d74de6c4d040c97c64c12d68ead"
+    },
+    {
       "name": "le_figaro-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8bb277cbbf3f90e59f6f1d997fa7b98724f7328c",
-      "mtime": "1659703090",
-      "size": "215846",
-      "md5": "07136de0f017c9aa8ab29c46faac883f",
-      "crc32": "a612ead5",
-      "sha1": "26d7936b86aaa4ee69fb4f0f9c3124fd02aa8b35",
+      "btih": "1926e1cdc8f76e5adfac7cf7f5e97ea2808572f9",
+      "mtime": "1659705591",
+      "size": "216051",
+      "md5": "6f0b93e9900b3290f76424962ff37afb",
+      "crc32": "1bccd060",
+      "sha1": "a0d87a527987fb9c59ddbc7e06613a60b5f08803",
       "format": "Archive BitTorrent"
     },
     {
       "name": "le_figaro-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9fb309f1de7ceb0e0bd4a49518da833a",
+      "md5": "61ac8cd3bb031714fd5cbf11d09a6723",
       "summation": "md5"
     },
     {
@@ -10575,9 +10586,17 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1009,
-  "item_last_updated": 1659703090,
-  "item_size": 122658107,
+  "files_count": 1010,
+  "item_last_updated": 1659705591,
+  "item_size": 122667625,
+  "le_figaro-2022": {
+    "url": "https://www.lefigaro.fr/",
+    "job_id": "spn2-e7eade8873cc7600692def9e63776d9ea8545975",
+    "status": "error",
+    "status_ext": "error:job-failed",
+    "message": "Job failed",
+    "resources": []
+  },
   "metadata": {
     "identifier": "le_figaro-2022",
     "collection": [
@@ -10594,21 +10613,10 @@
     "publicdate": "2022-04-09 13:41:47",
     "addeddate": "2022-04-09 13:41:47"
   },
-  "pending_tasks": true,
   "server": "ia902501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3353458812,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1123875927,
+  "uniq": 1692850764,
   "workable_servers": [
-    "ia902501.us.archive.org"
+    "ia902501.us.archive.org",
+    "ia802501.us.archive.org"
   ]
 }

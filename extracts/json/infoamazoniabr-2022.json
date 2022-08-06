@@ -1,5 +1,5 @@
 {
-  "created": 1659702845,
+  "created": 1659734738,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/11/items/infoamazoniabr-2022",
@@ -431,21 +431,32 @@
       "format": "JSON"
     },
     {
+      "name": "infoamazoniabr-2022-08-05T09:33:17.303589-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "infoamazoniabr-2022-08-05T09:33:17.303589-03:00.jpg",
+      "mtime": "1659705263",
+      "size": "9839",
+      "md5": "4b58c1b6a62987f8bb1c1b1b372cb387",
+      "crc32": "d623fd98",
+      "sha1": "4b441ff6253645461e4f04fcb2b5e68dfc982803"
+    },
+    {
       "name": "infoamazoniabr-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b07fd9740cdd94b3c7ec4bb0d8f535eda5183a95",
-      "mtime": "1659702842",
-      "size": "10318",
-      "md5": "ec304ee9f4669ee6904ed77b12514477",
-      "crc32": "a2d3299e",
-      "sha1": "a493eaabf5461f8ce98668ede84335278146403f",
+      "btih": "7e39247d30d9820050449efa572c6acfb4e617b4",
+      "mtime": "1659705267",
+      "size": "10528",
+      "md5": "562c722abf5511733b90ef84fca06052",
+      "crc32": "58a6dfe2",
+      "sha1": "b49af39daab90cda72e7690bf1d66563a94b1305",
       "format": "Archive BitTorrent"
     },
     {
       "name": "infoamazoniabr-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0fd7ecd70f678dfef8810e02470819cd",
+      "md5": "ef04888bf60bff2d49533bca853b1093",
       "summation": "md5"
     },
     {
@@ -469,9 +480,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 45,
-  "item_last_updated": 1659702842,
-  "item_size": 2482759,
+  "files_count": 46,
+  "item_last_updated": 1659705267,
+  "item_size": 2492808,
   "metadata": {
     "identifier": "infoamazoniabr-2022",
     "collection": [
@@ -488,21 +499,10 @@
     "publicdate": "2022-08-03 00:33:10",
     "addeddate": "2022-08-03 00:33:10"
   },
-  "pending_tasks": true,
-  "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3353456608,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 174742265,
+  "server": "ia801401.us.archive.org",
+  "uniq": 1767319573,
   "workable_servers": [
+    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

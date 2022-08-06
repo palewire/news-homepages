@@ -1,5 +1,5 @@
 {
-  "created": 1659672162,
+  "created": 1659720027,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/29/items/elpaisuy-2022",
@@ -2576,31 +2576,93 @@
       "sha1": "dfdaa0551a3b3a0ba0c55dfb4c246fe61c299776"
     },
     {
+      "name": "elpaisuy-2022-08-05T14:19:00.617843-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659719944",
+      "size": "53859",
+      "md5": "70d87552bae5c9ad8b9a9a52148ce68e",
+      "crc32": "6fe624dc",
+      "sha1": "089d5314b8c57e3fcc8a80c9a7abeae21b507933",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-08-05T14:19:00.617843-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659719946",
+      "size": "102384",
+      "md5": "fa269f9893e190277b32edb89e89f8a4",
+      "crc32": "52ec0a56",
+      "sha1": "9ecce3d473541117c1e75579a9c5e8fa31425d9e",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-08-05T14:19:00.617843-03:00.jpg",
+      "source": "original",
+      "mtime": "1659719942",
+      "size": "287149",
+      "md5": "bde11aa2527e659edef9c7d43e90ece3",
+      "crc32": "58c83882",
+      "sha1": "9c98b3752eb90aa8b4ae393e75483692f0e580ba",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "elpaisuy-2022-08-05T14:19:00.617843-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659719947",
+      "size": "1483",
+      "md5": "3fb37d24227d2e00c691d84b0f46796b",
+      "crc32": "964d65e2",
+      "sha1": "c158e837e95cf122feaa259af0bc320cdac25927",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-08-05T14:19:00.617843-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1659719949",
+      "size": "1815",
+      "md5": "5373daac0c6919f757465ea53cf9310f",
+      "crc32": "ce1b826f",
+      "sha1": "5ddf784b4bc582444b9488ade68005f27e363998",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-08-05T14:19:00.617843-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "elpaisuy-2022-08-05T14:19:00.617843-03:00.jpg",
+      "mtime": "1659720009",
+      "size": "10729",
+      "md5": "6f1ded6038488f5ad36b32d1437eb7b5",
+      "crc32": "2d8660a6",
+      "sha1": "8506a8dd4b5d8895f1cae3273b4f162f9609a550"
+    },
+    {
       "name": "elpaisuy-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2d03a316e7296df6b05d0505f62c8931fd356990",
-      "mtime": "1659672148",
-      "size": "53464",
-      "md5": "80c25a478c882032a00a2933c154579d",
-      "crc32": "bd8905a0",
-      "sha1": "8384a84ab02f41df500c49ac83adb6f0c1f28565",
+      "btih": "fc6ac0d6c855eb74a4f3aa4dc98c041c55443c8b",
+      "mtime": "1659720016",
+      "size": "54732",
+      "md5": "d8b3c7b261b33a039470bdeafd2c1bd9",
+      "crc32": "8c2fa7d8",
+      "sha1": "3549fa9cb45b23ba7a81f3fbbd9f5e9e8f44db1f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "elpaisuy-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ee9ea09d7c2b810d58d814fce7f85d7a",
+      "md5": "57cb1496c36609c708fbb5795b560ab7",
       "summation": "md5"
     },
     {
       "name": "elpaisuy-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659669330",
-      "size": "311296",
-      "md5": "864d445e2fd9428600e44679f7a33a05",
-      "crc32": "296134fc",
-      "sha1": "0da1a72cb3235ab23802fcd7ca235ab6b95b5df9",
+      "mtime": "1659719956",
+      "size": "315392",
+      "md5": "2a105f723709db370e31d884e65e4ae3",
+      "crc32": "42e3d785",
+      "sha1": "8bd7f4252f1e89cf00ace3a367ca03ce283d23bd",
       "format": "Metadata"
     },
     {
@@ -2614,9 +2676,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 250,
-  "item_last_updated": 1659672148,
-  "item_size": 24516822,
+  "files_count": 256,
+  "item_last_updated": 1659720016,
+  "item_size": 24979605,
   "metadata": {
     "identifier": "elpaisuy-2022",
     "collection": [
@@ -2634,7 +2696,7 @@
     "addeddate": "2022-07-09 03:58:10"
   },
   "server": "ia601401.us.archive.org",
-  "uniq": 647533202,
+  "uniq": 525786744,
   "workable_servers": [
     "ia601401.us.archive.org",
     "ia801401.us.archive.org"

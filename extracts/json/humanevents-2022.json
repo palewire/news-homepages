@@ -1,5 +1,5 @@
 {
-  "created": 1659702784,
+  "created": 1659743373,
   "d1": "ia601806.us.archive.org",
   "d2": "ia801806.us.archive.org",
   "dir": "/20/items/humanevents-2022",
@@ -10395,31 +10395,166 @@
       "format": "JSON"
     },
     {
+      "name": "humanevents-2022-08-05T08:31:58.822963-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "humanevents-2022-08-05T08:31:58.822963-04:00.jpg",
+      "mtime": "1659705378",
+      "size": "10671",
+      "md5": "bddcb5e9170d9a8beb3fcf4726f50f69",
+      "crc32": "fe01cf9d",
+      "sha1": "d41c140eded5bad56ad7d0c0a4032145a6410819"
+    },
+    {
+      "name": "humanevents-2022-08-05T14:56:21.157388-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659725784",
+      "size": "16646",
+      "md5": "ea2592c7ae9e514e2cdbbdff0174e149",
+      "crc32": "5807afd1",
+      "sha1": "52fd8db58c198e2ffcea6968150b76b3776aa907",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-08-05T14:56:21.157388-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659725786",
+      "size": "24671",
+      "md5": "41f48e8a8d6186acdf9ccb99bd8e37d5",
+      "crc32": "d9a85985",
+      "sha1": "cb78f7c15d387cfb1f3ccde5ef0d6663e2a1df2a",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-08-05T14:56:21.157388-04:00.jpg",
+      "source": "original",
+      "mtime": "1659725782",
+      "size": "256008",
+      "md5": "5ba358cb088c6467053b68688e6bf1cf",
+      "crc32": "bf8ac10d",
+      "sha1": "a63095344ce91fd7e461cde100096b22e4418b7f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "humanevents-2022-08-05T14:56:21.157388-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659725791",
+      "size": "1468",
+      "md5": "7e759db4e28b404fb425698d258bfc1f",
+      "crc32": "81b2aefd",
+      "sha1": "200d012ae3db9c8752ea2d775dcaa4cb6eaaa17f",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-08-05T14:56:21.157388-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659725797",
+      "size": "16120",
+      "md5": "6d04926caedf5bd104f991b6e7f45d41",
+      "crc32": "eecaf69b",
+      "sha1": "d85e2f91ae36e136f727c949e7c774cdb25f5a43",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-08-05T14:56:21.157388-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "humanevents-2022-08-05T14:56:21.157388-04:00.jpg",
+      "mtime": "1659725938",
+      "size": "9990",
+      "md5": "3826974a94615a74c8b74884a2e22bd3",
+      "crc32": "9cf66763",
+      "sha1": "8f83dbbcedbd46b917944390ecadbff29fe8fde9"
+    },
+    {
+      "name": "humanevents-2022-08-05T19:37:57.284241-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659742680",
+      "size": "16733",
+      "md5": "fe62919eb5ca4896f67530402edaf2ad",
+      "crc32": "51265b06",
+      "sha1": "d5c5cc3af6259fe191b65e0d88c33e6932935799",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-08-05T19:37:57.284241-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659742682",
+      "size": "25329",
+      "md5": "d4ed1b1f4f08984d19a768121d351f41",
+      "crc32": "d763906a",
+      "sha1": "7b468921e50058267ef81fd5e95edf0cc88e1c9d",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-08-05T19:37:57.284241-04:00.jpg",
+      "source": "original",
+      "mtime": "1659742679",
+      "size": "253791",
+      "md5": "da45495cbe3c15769c2e2927624a825c",
+      "crc32": "11739261",
+      "sha1": "c921275d982d11bf5dcd782d04e8c9cd94c30d3f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "humanevents-2022-08-05T19:37:57.284241-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659742683",
+      "size": "1468",
+      "md5": "31fe60a0fd46f62b465c00fdf5f8261d",
+      "crc32": "d0684826",
+      "sha1": "324744edf2cb6595871d65d5cd546f20b0ccaeaf",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-08-05T19:37:57.284241-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659742685",
+      "size": "18508",
+      "md5": "d0ebf8094af8a737fbcd61e6d0d4b97d",
+      "crc32": "761c86ee",
+      "sha1": "4c46af4ddc0e99e4b15ab97a117c7db79872698a",
+      "format": "JSON"
+    },
+    {
+      "name": "humanevents-2022-08-05T19:37:57.284241-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "humanevents-2022-08-05T19:37:57.284241-04:00.jpg",
+      "mtime": "1659743283",
+      "size": "9948",
+      "md5": "952c60251d4ce2b84e61fd920c633521",
+      "crc32": "723053de",
+      "sha1": "8e2b58c9186f0669f1bd8d7909d328c2148e0bd8"
+    },
+    {
       "name": "humanevents-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e37aed0da4650ac11837d4450c9fa15efeb18f8f",
-      "mtime": "1659702779",
-      "size": "213186",
-      "md5": "dd9611f65cd10c2abf2cb89cbe84eced",
-      "crc32": "b9468ed3",
-      "sha1": "5da4af968e19fa94e48957e7adab4b678a07a4f8",
+      "btih": "1069ea655a35b52077652426771e9999704d183f",
+      "mtime": "1659743323",
+      "size": "215944",
+      "md5": "167cddc8549639fe8ec7c4485873c779",
+      "crc32": "8cd17d5f",
+      "sha1": "3a0bc373ceebaf9eea44f84a02d7dea03c553b54",
       "format": "Archive BitTorrent"
     },
     {
       "name": "humanevents-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "65437d9972a24a5676f142839dd818e9",
+      "md5": "cc5c09f0e77585b3445258ae21fc8895",
       "summation": "md5"
     },
     {
       "name": "humanevents-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659702734",
-      "size": "1167360",
-      "md5": "c404ed77553cecff45d420ce6d51435a",
-      "crc32": "1e0c8be8",
-      "sha1": "4ba47c68308f8541cfd0601a3a2aa103942dff54",
+      "mtime": "1659742690",
+      "size": "1179648",
+      "md5": "ac518210414218a71d8f16f8ddda1a62",
+      "crc32": "7be663d8",
+      "sha1": "138d0e098eb8d51a3fc333b8a0d7d27b1244bc49",
       "format": "Metadata"
     },
     {
@@ -10433,9 +10568,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 995,
-  "item_last_updated": 1659702779,
-  "item_size": 82826714,
+  "files_count": 1008,
+  "item_last_updated": 1659743323,
+  "item_size": 83503111,
   "metadata": {
     "identifier": "humanevents-2022",
     "collection": [
@@ -10452,21 +10587,10 @@
     "publicdate": "2022-03-25 18:47:01",
     "addeddate": "2022-03-25 18:47:01"
   },
-  "pending_tasks": true,
-  "server": "ia601806.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3353456047,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1492667463,
+  "server": "ia801806.us.archive.org",
+  "uniq": 575645785,
   "workable_servers": [
+    "ia801806.us.archive.org",
     "ia601806.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1659678465,
+  "created": 1659722530,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/17/items/theinformation-2022",
@@ -3584,31 +3584,93 @@
       "sha1": "231bf8ae6674ceff7e050b63ebe807f22586fa2c"
     },
     {
+      "name": "theinformation-2022-08-05T10:59:59.435217-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659722401",
+      "size": "16921",
+      "md5": "06b85aff38aef1f0557e0465f3961627",
+      "crc32": "657e7ef1",
+      "sha1": "190b782211729d77796423b717a37cf7f6f31afb",
+      "format": "JSON"
+    },
+    {
+      "name": "theinformation-2022-08-05T10:59:59.435217-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659722405",
+      "size": "9097",
+      "md5": "172e55171f6e08f1f3a30b7675279512",
+      "crc32": "9c5481fd",
+      "sha1": "02669e81639bd16885436346cc683dd99f12b5c7",
+      "format": "JSON"
+    },
+    {
+      "name": "theinformation-2022-08-05T10:59:59.435217-07:00.jpg",
+      "source": "original",
+      "mtime": "1659722400",
+      "size": "169726",
+      "md5": "b841de86b9ef6150c87502be8c74ce66",
+      "crc32": "caaf0fbb",
+      "sha1": "e17bf48744392148e15dfff601bc9e14848937cb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theinformation-2022-08-05T10:59:59.435217-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659722407",
+      "size": "1531",
+      "md5": "6510495d3dd6d6d7f50f1414799aa4f7",
+      "crc32": "dfc520a6",
+      "sha1": "a89f9c3c22ea7d2c75bc9af141621ebe1f92b3bf",
+      "format": "JSON"
+    },
+    {
+      "name": "theinformation-2022-08-05T10:59:59.435217-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1659722408",
+      "size": "15567",
+      "md5": "a02613caca9db4ac7e3519bc3c10230d",
+      "crc32": "ad2a30fb",
+      "sha1": "4ffae569f4f5d2207970db58324e454e6bb3ab4a",
+      "format": "JSON"
+    },
+    {
+      "name": "theinformation-2022-08-05T10:59:59.435217-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theinformation-2022-08-05T10:59:59.435217-07:00.jpg",
+      "mtime": "1659722497",
+      "size": "8968",
+      "md5": "af4049355c6dfd05a880b80b0a429f1b",
+      "crc32": "8ae02a23",
+      "sha1": "4798bc6830d0864771756578a80363fe9e3de57c"
+    },
+    {
       "name": "theinformation-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f38f8696e5e794774c7c7e360a00ad1eba252e79",
-      "mtime": "1659678417",
-      "size": "74990",
-      "md5": "53fb9b9f9aaa6bda63bba8cc7c27c711",
-      "crc32": "54d8a6d0",
-      "sha1": "499af5fdb60ca20299459d847cbc1fe0da21009a",
+      "btih": "528c80c4a9bc2a84ddb2fd40aa8c850176b16352",
+      "mtime": "1659722504",
+      "size": "76292",
+      "md5": "4e8107f7cb7da6b91183e95d8025221d",
+      "crc32": "72bde7b0",
+      "sha1": "3e4411a4d19791001fec1bea9afbc814a81349f0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theinformation-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9f81ed1386186cbcb13c68e50f23ff21",
+      "md5": "3dda8ea46d59146c76e4307314e8fade",
       "summation": "md5"
     },
     {
       "name": "theinformation-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659674651",
-      "size": "425984",
-      "md5": "501b2f1e504467e8075158b299996ac9",
-      "crc32": "25a01341",
-      "sha1": "5fcf45835dc06549d52cd54212c728264f4f2113",
+      "mtime": "1659722414",
+      "size": "430080",
+      "md5": "2d12aa297e9650a73fef750f7040f70b",
+      "crc32": "d3a10231",
+      "sha1": "b6855f449e0ffb3428804301dc715330c6ed7dae",
       "format": "Metadata"
     },
     {
@@ -3622,9 +3684,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 346,
-  "item_last_updated": 1659678417,
-  "item_size": 16122833,
+  "files_count": 352,
+  "item_last_updated": 1659722504,
+  "item_size": 16350041,
   "metadata": {
     "identifier": "theinformation-2022",
     "collection": [
@@ -3641,10 +3703,10 @@
     "publicdate": "2022-07-04 20:17:35",
     "addeddate": "2022-07-04 20:17:35"
   },
-  "server": "ia801504.us.archive.org",
-  "uniq": 84211574,
+  "server": "ia601504.us.archive.org",
+  "uniq": 1424844300,
   "workable_servers": [
-    "ia801504.us.archive.org",
-    "ia601504.us.archive.org"
+    "ia601504.us.archive.org",
+    "ia801504.us.archive.org"
   ]
 }

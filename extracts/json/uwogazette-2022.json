@@ -1,5 +1,5 @@
 {
-  "created": 1659677843,
+  "created": 1659741021,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/20/items/uwogazette-2022",
@@ -1206,31 +1206,83 @@
       "sha1": "06ef6af2f72fa1398a44b2206cedca97ce401433"
     },
     {
+      "name": "uwogazette-2022-08-05T14:02:21.705023-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659722544",
+      "size": "23313",
+      "md5": "b5d5db46afb0956730f249b4ff5d2170",
+      "crc32": "1c703768",
+      "sha1": "351ea8b6b11cc84af1b5dc3bcdf5a2367f524cfe",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-08-05T14:02:21.705023-04:00.jpg",
+      "source": "original",
+      "mtime": "1659722543",
+      "size": "281529",
+      "md5": "c5d7b5ea16e7ff0bedf6e0c189bec618",
+      "crc32": "6c6cccc0",
+      "sha1": "45579c9d907f16f9d43af41bdaaad088f516e70e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "uwogazette-2022-08-05T14:02:21.705023-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659722546",
+      "size": "1486",
+      "md5": "d79b600787a4c5a113a7b2ba7783cd3e",
+      "crc32": "ba3b60f9",
+      "sha1": "8072896bf7a1003c7a4c285bf130c9885a993a35",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-08-05T14:02:21.705023-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659722547",
+      "size": "43548",
+      "md5": "0f4b8529d472932db58fe480753b2700",
+      "crc32": "5d593473",
+      "sha1": "0593fe20721da41f45e6d774c8794a658197d0ba",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-08-05T14:02:21.705023-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "uwogazette-2022-08-05T14:02:21.705023-04:00.jpg",
+      "mtime": "1659722682",
+      "size": "9319",
+      "md5": "447f6b9ce8698f5624ebd04223a0f1b9",
+      "crc32": "0f0e58c7",
+      "sha1": "06ef6af2f72fa1398a44b2206cedca97ce401433"
+    },
+    {
       "name": "uwogazette-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6f5cf66752379ae77eaabd7ea1d1e0d747d9f59c",
-      "mtime": "1659677831",
-      "size": "25836",
-      "md5": "bc13b61459d620bc11f7d0662e8d6051",
-      "crc32": "2f034a9c",
-      "sha1": "ef1e8041972c3b7d40b1056ac1bf17498bbdf6b5",
+      "btih": "9a9bfe274c5dfdadbd06e968e401989adfa3f203",
+      "mtime": "1659722691",
+      "size": "26882",
+      "md5": "838f20ea913c573a4b8ca32c7b264172",
+      "crc32": "99475bef",
+      "sha1": "c31016b988b48793da24c4c1cc32ce3b4b25ffbc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "uwogazette-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cebc54174a3052a2d8de8acca551579c",
+      "md5": "2efbfbebbf8065bb51a52a3e43aefa4c",
       "summation": "md5"
     },
     {
       "name": "uwogazette-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659674759",
-      "size": "159744",
-      "md5": "e4d983cd9adb6935fd7cf46e7661c15d",
-      "crc32": "3b308687",
-      "sha1": "e52469a82cf84f7c8e499b2b0d65de06ef4b81cb",
+      "mtime": "1659722552",
+      "size": "163840",
+      "md5": "b18b68d7864918fb41b252e23f13f3a2",
+      "crc32": "1c5831ee",
+      "sha1": "4dcf959ed25eb7312b82b871edbf7ed4f61407e0",
       "format": "Metadata"
     },
     {
@@ -1244,9 +1296,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 119,
-  "item_last_updated": 1659677831,
-  "item_size": 8549176,
+  "files_count": 124,
+  "item_last_updated": 1659722691,
+  "item_size": 8913513,
   "metadata": {
     "identifier": "uwogazette-2022",
     "collection": [
@@ -1264,7 +1316,7 @@
     "addeddate": "2022-07-24 03:45:41"
   },
   "server": "ia801509.us.archive.org",
-  "uniq": 651825011,
+  "uniq": 973259232,
   "workable_servers": [
     "ia801509.us.archive.org",
     "ia601509.us.archive.org"

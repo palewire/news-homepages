@@ -1,5 +1,5 @@
 {
-  "created": 1659703208,
+  "created": 1659740905,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/4/items/miamiherald-2022",
@@ -2937,21 +2937,32 @@
       "format": "JSON"
     },
     {
+      "name": "miamiherald-2022-08-05T08:39:06.535082-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "miamiherald-2022-08-05T08:39:06.535082-04:00.jpg",
+      "mtime": "1659705490",
+      "size": "10381",
+      "md5": "b4358980feb90e11c5fabaeaf09168af",
+      "crc32": "168ffe10",
+      "sha1": "7411a3b5d9355897371a30a8d45fdeeba2ba0525"
+    },
+    {
       "name": "miamiherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "753c0bd7aa4f1bd7d79bc21625dcacb333bf7abd",
-      "mtime": "1659703201",
-      "size": "60939",
-      "md5": "a12c756805f06e63dfce5073a3c154f1",
-      "crc32": "345c47e0",
-      "sha1": "34056d09970f3491f5034758ff84a360281abd5f",
+      "btih": "2d3fd6dc908b2617661d7aa3f4d77b89a812418e",
+      "mtime": "1659705496",
+      "size": "61147",
+      "md5": "f10573a9a6291c4285a7004de28a36bd",
+      "crc32": "e4d6374a",
+      "sha1": "5fcec2b699065d34b09a1be24213a3bc9b132617",
       "format": "Archive BitTorrent"
     },
     {
       "name": "miamiherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0a194349bb3af7ad52def5405e0a8fa9",
+      "md5": "c711c81440a1481e6db2bc4a4f9a61ff",
       "summation": "md5"
     },
     {
@@ -2975,9 +2986,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 284,
-  "item_last_updated": 1659703201,
-  "item_size": 19943034,
+  "files_count": 285,
+  "item_last_updated": 1659705496,
+  "item_size": 19953623,
   "metadata": {
     "identifier": "miamiherald-2022",
     "collection": [
@@ -2994,21 +3005,10 @@
     "publicdate": "2022-06-24 22:58:26",
     "addeddate": "2022-06-24 22:58:26"
   },
-  "pending_tasks": true,
   "server": "ia601403.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3353459655,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2017430741,
+  "uniq": 1906145850,
   "workable_servers": [
-    "ia601403.us.archive.org"
+    "ia601403.us.archive.org",
+    "ia801403.us.archive.org"
   ]
 }

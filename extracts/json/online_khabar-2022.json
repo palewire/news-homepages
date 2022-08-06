@@ -1,6 +1,5 @@
 {
-  "conflict": 1659703402,
-  "created": 1659703402,
+  "created": 1659740906,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/23/items/online_khabar-2022",
@@ -1265,31 +1264,93 @@
       "sha1": "4801dfad281012ae15355133953e825c246fb7ca"
     },
     {
+      "name": "online_khabar-2022-08-05T18:28:17.495545+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1659703400",
+      "size": "110878",
+      "md5": "a26dffd990c59ecf95d423502853d88e",
+      "crc32": "154bab41",
+      "sha1": "f60fd58449dee10ec67844d752b21ac0f60580cf",
+      "format": "JSON"
+    },
+    {
+      "name": "online_khabar-2022-08-05T18:28:17.495545+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659703402",
+      "size": "107640",
+      "md5": "cd481da717cf744a2d0073dd1913c308",
+      "crc32": "a99e3c04",
+      "sha1": "bb6a81c296c3ead8c4bcb7da50a90ce37980db42",
+      "format": "JSON"
+    },
+    {
+      "name": "online_khabar-2022-08-05T18:28:17.495545+05:45.jpg",
+      "source": "original",
+      "mtime": "1659703399",
+      "size": "190980",
+      "md5": "ec1181614575cc355c186d8d94942a61",
+      "crc32": "f7b22134",
+      "sha1": "51763e94ca53f03c66ed1d3453d0e59a47025e9f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "online_khabar-2022-08-05T18:28:17.495545+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1659703404",
+      "size": "1503",
+      "md5": "d93708a791527afbea808f9a57d08b5b",
+      "crc32": "020856da",
+      "sha1": "b27ca1fbb7b99bd60aeb9e0659087dbb69ada609",
+      "format": "JSON"
+    },
+    {
+      "name": "online_khabar-2022-08-05T18:28:17.495545+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1659703405",
+      "size": "28673",
+      "md5": "e537d526391e20eb7c3e9159031df72b",
+      "crc32": "eeb239d0",
+      "sha1": "3a3b8eb3af35b62de7297d895293f62bd7771114",
+      "format": "JSON"
+    },
+    {
+      "name": "online_khabar-2022-08-05T18:28:17.495545+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "online_khabar-2022-08-05T18:28:17.495545+05:45.jpg",
+      "mtime": "1659705657",
+      "size": "9608",
+      "md5": "2de318d5c5e4084d9a3edd53ca952a09",
+      "crc32": "cb30db83",
+      "sha1": "ed87dcd0b25fd392aa5fd126d9a93c6671903e83"
+    },
+    {
       "name": "online_khabar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "458e1bce199da5b552308e9ba729630eb47850e1",
-      "mtime": "1659666505",
-      "size": "27648",
-      "md5": "b60140b0a15c2528285395b9379d2995",
-      "crc32": "b14686a7",
-      "sha1": "27173b89c79a95313da7198e559d4ffbef1e70cc",
+      "btih": "2feccbb0741c1ca4a1f1744aa031e22499bdbf61",
+      "mtime": "1659705666",
+      "size": "28947",
+      "md5": "a2881729e2f324ad0e9c82b6f7dabe8c",
+      "crc32": "3ef6c839",
+      "sha1": "34da33573b34886a487f40ca3ca5f065713e382b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "online_khabar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bbd6b12a83358ea42011b9e409406786",
+      "md5": "18efb6f1d09b4b7390fbd0c577b15878",
       "summation": "md5"
     },
     {
       "name": "online_khabar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659664014",
-      "size": "167936",
-      "md5": "0974d96141dd2d8f9885b392ba179048",
-      "crc32": "f0dcb2fd",
-      "sha1": "ebcf2b86eedc1214fec2ff25b49b9a783ef7574f",
+      "mtime": "1659703410",
+      "size": "180224",
+      "md5": "5175d1d909c756888654fe6e0582d651",
+      "crc32": "76992dfc",
+      "sha1": "77da977124a1abf2b1d3306dcd653b5a8fcac8b1",
       "format": "Metadata"
     },
     {
@@ -1303,9 +1364,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 125,
-  "item_last_updated": 1659666505,
-  "item_size": 10924824,
+  "files_count": 131,
+  "item_last_updated": 1659705666,
+  "item_size": 11387693,
   "metadata": {
     "identifier": "online_khabar-2022",
     "collection": [
@@ -1322,21 +1383,10 @@
     "publicdate": "2022-07-24 20:38:53",
     "addeddate": "2022-07-24 20:38:53"
   },
-  "pending_tasks": true,
   "server": "ia902509.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3353461260,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1286835821,
+  "uniq": 1075919926,
   "workable_servers": [
-    "ia902509.us.archive.org"
+    "ia902509.us.archive.org",
+    "ia802509.us.archive.org"
   ]
 }

@@ -1,48 +1,7 @@
 {
-  "created": 1659702916,
+  "created": 1659740963,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
-  "dainik_online-2022": [
-    {
-      "url": "https://www.dainikonline.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dainikonline_com-_-2022_08_05_02_44_01.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dainikonline_com-_-2022_08_05_02_44_01.report.json",
-      "summary": {
-        "performance": 0.6,
-        "accessibility": 0.92,
-        "best-practices": 0.83,
-        "seo": 0.84,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.dainikonline.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dainikonline_com-_-2022_08_05_02_44_16.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dainikonline_com-_-2022_08_05_02_44_16.report.json",
-      "summary": {
-        "performance": 0.65,
-        "accessibility": 0.92,
-        "best-practices": 0.83,
-        "seo": 0.84,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.dainikonline.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dainikonline_com-_-2022_08_05_02_43_45.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dainikonline_com-_-2022_08_05_02_43_45.report.json",
-      "summary": {
-        "performance": 0.6,
-        "accessibility": 0.92,
-        "best-practices": 0.83,
-        "seo": 0.84,
-        "pwa": 0.4
-      }
-    }
-  ],
   "dir": "/13/items/dainik_online-2022",
   "files": [
     {
@@ -1283,31 +1242,93 @@
       "sha1": "f2aef18a2003ed1653c597a8e739965be50a8403"
     },
     {
+      "name": "dainik_online-2022-08-05T23:02:40.707470+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1659719863",
+      "size": "73352",
+      "md5": "2dec759670fcfcc70679b52c4fec6b60",
+      "crc32": "02060eea",
+      "sha1": "041e6fb9a4f255b393b04a07eeff2b8a722c8981",
+      "format": "JSON"
+    },
+    {
+      "name": "dainik_online-2022-08-05T23:02:40.707470+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659719864",
+      "size": "54440",
+      "md5": "3cbc36ba976f78fa2b8554a8c656b094",
+      "crc32": "35a5eae4",
+      "sha1": "423ad299bcf84cec462d4524bce923d958754673",
+      "format": "JSON"
+    },
+    {
+      "name": "dainik_online-2022-08-05T23:02:40.707470+05:45.jpg",
+      "source": "original",
+      "mtime": "1659719861",
+      "size": "225824",
+      "md5": "83f613083cd8437e5b55cff415d8f16f",
+      "crc32": "551106e9",
+      "sha1": "ad577711ec1562de76aec6e783cd12f73e26f4a3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dainik_online-2022-08-05T23:02:40.707470+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1659719865",
+      "size": "1513",
+      "md5": "00942c30ddd5f495abf5a25e3c585790",
+      "crc32": "a86166ab",
+      "sha1": "fbe1546cfb210039e702790f58787c75c6fabda4",
+      "format": "JSON"
+    },
+    {
+      "name": "dainik_online-2022-08-05T23:02:40.707470+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1659719867",
+      "size": "16345",
+      "md5": "bf1feb1c76cd03b49ef9ea2100e20b42",
+      "crc32": "02cb6ea9",
+      "sha1": "b9a0f13fec20b889510a8e033edc09a7fdfe09ac",
+      "format": "JSON"
+    },
+    {
+      "name": "dainik_online-2022-08-05T23:02:40.707470+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dainik_online-2022-08-05T23:02:40.707470+05:45.jpg",
+      "mtime": "1659719981",
+      "size": "10800",
+      "md5": "ddada6ea506d89f2ec4c5b75ef34d08a",
+      "crc32": "c6c4fd2d",
+      "sha1": "d76c3d4cea83582d1b3f16c94b444586dac7063b"
+    },
+    {
       "name": "dainik_online-2022_archive.torrent",
       "source": "metadata",
-      "btih": "326b6388ce4e783d8e1fab58592406f0dec97894",
-      "mtime": "1659672044",
-      "size": "27153",
-      "md5": "64f953974c5b4231b5cd87653417b0f8",
-      "crc32": "ab0c20b8",
-      "sha1": "c05bcec278c2e43a3ad46cb1dc28facef685b31b",
+      "btih": "147bcb6ca2404fe78ec7c780cc709a0ecb15eb91",
+      "mtime": "1659719996",
+      "size": "28451",
+      "md5": "7567b06acbc884a404cae3c9353c8fcb",
+      "crc32": "5a2585dd",
+      "sha1": "2d7d9e646e13481e38ca59be220090b6b7610cb2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dainik_online-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "aa73ecb16031dc30b6b4f8795881d0ad",
+      "md5": "808af3cfd2e2c79fa9c2e0944ec3526a",
       "summation": "md5"
     },
     {
       "name": "dainik_online-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659669165",
-      "size": "167936",
-      "md5": "b337bb2db61096a5e9bb077592843524",
-      "crc32": "e0199160",
-      "sha1": "9c1d35b5c3fb5366d963c21b65bc1b49c083a5f2",
+      "mtime": "1659719872",
+      "size": "180224",
+      "md5": "265162855de6ec917589e2c7d145114c",
+      "crc32": "99591179",
+      "sha1": "6ac9bb692df33d88f2b44b48ca6e205532cc5c40",
       "format": "Metadata"
     },
     {
@@ -1321,9 +1342,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 123,
-  "item_last_updated": 1659672044,
-  "item_size": 9360086,
+  "files_count": 129,
+  "item_last_updated": 1659719996,
+  "item_size": 9755946,
   "metadata": {
     "identifier": "dainik_online-2022",
     "collection": [
@@ -1340,10 +1361,10 @@
     "publicdate": "2022-07-24 20:37:14",
     "addeddate": "2022-07-24 20:37:14"
   },
-  "server": "ia801401.us.archive.org",
-  "uniq": 898501532,
+  "server": "ia601401.us.archive.org",
+  "uniq": 1817912615,
   "workable_servers": [
-    "ia801401.us.archive.org",
-    "ia601401.us.archive.org"
+    "ia601401.us.archive.org",
+    "ia801401.us.archive.org"
   ]
 }
