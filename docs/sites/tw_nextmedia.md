@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 8 screenshots with the Internet Archive.
+The archiving routine has saved 9 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/tw_nextmedia-2022/tw_nextmedia-2022-08-06T10:27:12.232851+08:00.jpg">
+  <img src="https://archive.org/download/tw_nextmedia-2022/tw_nextmedia-2022-08-06T10:27:12.232851+08:00.jpg"
+     alt="Apple Daily at 2022-08-06 10:27:13+08:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tw_nextmedia-2022/tw_nextmedia-2022-08-06T10:27:12.232851+08:00.jpg">August 6 at 10:27 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tw_nextmedia-2022/tw_nextmedia-2022-08-06T01:33:36.972077+08:00.jpg">
@@ -104,7 +113,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 8 hyperlink lists with the Internet Archive.
+The archiving routine has saved 9 hyperlink lists with the Internet Archive.
 
 
 
@@ -112,6 +121,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 6 at 10:27 AM](https://archive.org/download/tw_nextmedia-2022/tw_nextmedia-2022-08-06T10:27:12.232851+08:00.hyperlinks.json) |
 | [August 6 at 1:33 AM](https://archive.org/download/tw_nextmedia-2022/tw_nextmedia-2022-08-06T01:33:36.972077+08:00.hyperlinks.json) |
 | [August 5 at 10:14 PM](https://archive.org/download/tw_nextmedia-2022/tw_nextmedia-2022-08-05T22:14:25.177906+08:00.hyperlinks.json) |
 | [August 5 at 10:00 AM](https://archive.org/download/tw_nextmedia-2022/tw_nextmedia-2022-08-05T10:00:19.065053+08:00.hyperlinks.json) |
@@ -124,7 +134,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 8 accessibility trees with the Internet Archive.
+The archiving routine has saved 9 accessibility trees with the Internet Archive.
 
 
 
@@ -132,6 +142,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 6 at 10:27 AM](https://archive.org/download/tw_nextmedia-2022/tw_nextmedia-2022-08-06T10:27:12.232851+08:00.accessibility.json) |
 | [August 6 at 1:33 AM](https://archive.org/download/tw_nextmedia-2022/tw_nextmedia-2022-08-06T01:33:36.972077+08:00.accessibility.json) |
 | [August 5 at 10:14 PM](https://archive.org/download/tw_nextmedia-2022/tw_nextmedia-2022-08-05T22:14:25.177906+08:00.accessibility.json) |
 | [August 5 at 10:00 AM](https://archive.org/download/tw_nextmedia-2022/tw_nextmedia-2022-08-05T10:00:19.065053+08:00.accessibility.json) |
@@ -145,7 +156,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 7 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 8 Lighthouse audits with the Internet Archive.
 
 
 
@@ -153,6 +164,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 6 at 10:27 AM](https://archive.org/download/tw_nextmedia-2022/tw_nextmedia-2022-08-06T10:27:12.232851+08:00.lighthouse.json) |
 | [August 6 at 1:33 AM](https://archive.org/download/tw_nextmedia-2022/tw_nextmedia-2022-08-06T01:33:36.972077+08:00.lighthouse.json) |
 | [August 5 at 10:14 PM](https://archive.org/download/tw_nextmedia-2022/tw_nextmedia-2022-08-05T22:14:25.177906+08:00.lighthouse.json) |
 | [August 5 at 10:00 AM](https://archive.org/download/tw_nextmedia-2022/tw_nextmedia-2022-08-05T10:00:19.065053+08:00.lighthouse.json) |

@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 1 screenshots with the Internet Archive.
+The archiving routine has saved 2 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-08-05T22:12:57.803844-04:00.jpg">
+  <img src="https://archive.org/download/realclearnews-2022/realclearnews-2022-08-05T22:12:57.803844-04:00.jpg"
+     alt="Real Clear Politics at 2022-08-05 22:12:59-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-08-05T22:12:57.803844-04:00.jpg">August 5 at 10:12 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-08-05T08:46:42.017759-04:00.jpg">
@@ -41,7 +50,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 1 hyperlink lists with the Internet Archive.
+The archiving routine has saved 2 hyperlink lists with the Internet Archive.
 
 
 
@@ -49,12 +58,13 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 5 at 10:13 PM](https://archive.org/download/realclearnews-2022/realclearnews-2022-08-05T22:12:57.803844-04:00.hyperlinks.json) |
 | [August 5 at 8:47 AM](https://archive.org/download/realclearnews-2022/realclearnews-2022-08-05T08:46:42.017759-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 1 accessibility trees with the Internet Archive.
+The archiving routine has saved 2 accessibility trees with the Internet Archive.
 
 
 
@@ -62,6 +72,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 5 at 10:13 PM](https://archive.org/download/realclearnews-2022/realclearnews-2022-08-05T22:12:57.803844-04:00.accessibility.json) |
 | [August 5 at 8:46 AM](https://archive.org/download/realclearnews-2022/realclearnews-2022-08-05T08:46:42.017759-04:00.accessibility.json) |
 
 

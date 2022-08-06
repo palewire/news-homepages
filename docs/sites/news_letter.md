@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 36 screenshots with the Internet Archive.
+The archiving routine has saved 37 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 36 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/news_letter-2022/news_letter-2022-08-06T03:07:49.800927+01:00.jpg">
+  <img src="https://archive.org/download/news_letter-2022/news_letter-2022-08-06T03:07:49.800927+01:00.jpg"
+     alt="Belfast News Letter at 2022-08-06 03:07:51+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/news_letter-2022/news_letter-2022-08-06T03:07:49.800927+01:00.jpg">August 6 at 3:07 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/news_letter-2022/news_letter-2022-08-05T13:40:38.089950+01:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/news_letter-2022/news_letter-2022-07-31T14:21:46.997612+01:00.jpg">July 31 at 2:21 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/news_letter-2022/news_letter-2022-07-31T01:29:58.937926+01:00.jpg">
-  <img src="https://archive.org/download/news_letter-2022/news_letter-2022-07-31T01:29:58.937926+01:00.jpg"
-     alt="Belfast News Letter at 2022-07-31 01:30:00+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/news_letter-2022/news_letter-2022-07-31T01:29:58.937926+01:00.jpg">July 31 at 1:30 AM</a></p>
 </div>
 
 </div>
@@ -351,7 +351,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 26 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
 
 
 
@@ -359,6 +359,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 6 at 3:07 AM](https://archive.org/download/news_letter-2022/news_letter-2022-08-06T03:07:49.800927+01:00.lighthouse.json) |
 | [August 5 at 1:40 PM](https://archive.org/download/news_letter-2022/news_letter-2022-08-05T13:40:38.089950+01:00.lighthouse.json) |
 | [August 5 at 2:47 AM](https://archive.org/download/news_letter-2022/news_letter-2022-08-05T02:47:22.071825+01:00.lighthouse.json) |
 | [August 4 at 1:36 PM](https://archive.org/download/news_letter-2022/news_letter-2022-08-04T13:36:37.775120+01:00.lighthouse.json) |
@@ -368,7 +369,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 2 at 1:24 PM](https://archive.org/download/news_letter-2022/news_letter-2022-08-02T13:24:50.739400+01:00.lighthouse.json) |
 | [August 2 at 1:40 AM](https://archive.org/download/news_letter-2022/news_letter-2022-08-02T01:39:55.566685+01:00.lighthouse.json) |
 | [August 1 at 1:26 PM](https://archive.org/download/news_letter-2022/news_letter-2022-08-01T13:26:03.009307+01:00.lighthouse.json) |
-| [August 1 at 1:21 AM](https://archive.org/download/news_letter-2022/news_letter-2022-08-01T01:21:19.149724+01:00.lighthouse.json) |
 
 
 

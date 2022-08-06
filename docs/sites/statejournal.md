@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 10 screenshots with the Internet Archive.
+The archiving routine has saved 11 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/statejournal-2022/statejournal-2022-08-06T01:03:51.960049-04:00.jpg">
+  <img src="https://archive.org/download/statejournal-2022/statejournal-2022-08-06T01:03:51.960049-04:00.jpg"
+     alt="Frankfort State Journal at 2022-08-06 01:03:54-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/statejournal-2022/statejournal-2022-08-06T01:03:51.960049-04:00.jpg">August 6 at 1:03 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/statejournal-2022/statejournal-2022-08-05T13:59:55.097054-04:00.jpg">
@@ -164,7 +173,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 10 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
 
 
 
@@ -172,6 +181,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 6 at 1:03 AM](https://archive.org/download/statejournal-2022/statejournal-2022-08-06T01:03:51.960049-04:00.lighthouse.json) |
 | [August 5 at 2:00 PM](https://archive.org/download/statejournal-2022/statejournal-2022-08-05T13:59:55.097054-04:00.lighthouse.json) |
 | [August 5 at 12:42 AM](https://archive.org/download/statejournal-2022/statejournal-2022-08-05T00:42:29.643724-04:00.lighthouse.json) |
 | [August 4 at 1:03 PM](https://archive.org/download/statejournal-2022/statejournal-2022-08-04T13:03:31.555365-04:00.lighthouse.json) |
@@ -181,7 +191,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 2 at 12:20 PM](https://archive.org/download/statejournal-2022/statejournal-2022-08-02T12:19:46.899236-04:00.lighthouse.json) |
 | [August 2 at 12:26 AM](https://archive.org/download/statejournal-2022/statejournal-2022-08-02T00:26:44.490793-04:00.lighthouse.json) |
 | [August 1 at 12:10 PM](https://archive.org/download/statejournal-2022/statejournal-2022-08-01T12:10:49.751400-04:00.lighthouse.json) |
-| [August 1 at 2:42 AM](https://archive.org/download/statejournal-2022/statejournal-2022-08-01T02:41:47.996956-04:00.lighthouse.json) |
 
 
 

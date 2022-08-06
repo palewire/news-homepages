@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 102 screenshots with the Internet Archive.
+The archiving routine has saved 103 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 102 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-08-06T07:21:42.126414-05:00.jpg">
+  <img src="https://archive.org/download/eltiempo-2022/eltiempo-2022-08-06T07:21:42.126414-05:00.jpg"
+     alt="Tiempo at 2022-08-06 07:21:47-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-08-06T07:21:42.126414-05:00.jpg">August 6 at 7:21 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-08-05T18:34:50.505889-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-31T19:13:14.318128-05:00.jpg">July 31 at 7:13 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-31T06:12:06.302559-05:00.jpg">
-  <img src="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-31T06:12:06.302559-05:00.jpg"
-     alt="Tiempo at 2022-07-31 06:12:10-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/eltiempo-2022/eltiempo-2022-07-31T06:12:06.302559-05:00.jpg">July 31 at 6:12 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 93 hyperlink lists with the Internet Archive.
+The archiving routine has saved 94 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 6 at 7:21 AM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-06T07:21:42.126414-05:00.hyperlinks.json) |
 | [August 5 at 6:34 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-05T18:34:50.505889-05:00.hyperlinks.json) |
 | [August 5 at 7:28 AM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-05T07:28:31.391536-05:00.hyperlinks.json) |
 | [August 4 at 6:35 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-04T18:35:41.446592-05:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 2 at 7:17 AM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-02T07:17:03.146474-05:00.hyperlinks.json) |
 | [August 1 at 6:16 AM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-01T06:16:31.825365-05:00.hyperlinks.json) |
 | [July 31 at 7:13 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-07-31T19:13:14.318128-05:00.hyperlinks.json) |
-| [July 31 at 6:12 AM](https://archive.org/download/eltiempo-2022/eltiempo-2022-07-31T06:12:06.302559-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 98 accessibility trees with the Internet Archive.
+The archiving routine has saved 99 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 6 at 7:21 AM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-06T07:21:42.126414-05:00.accessibility.json) |
 | [August 5 at 6:34 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-05T18:34:50.505889-05:00.accessibility.json) |
 | [August 5 at 7:28 AM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-05T07:28:31.391536-05:00.accessibility.json) |
 | [August 4 at 6:35 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-04T18:35:41.446592-05:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 2 at 6:24 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-02T18:24:21.245215-05:00.accessibility.json) |
 | [August 1 at 6:19 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-01T18:19:44.081547-05:00.accessibility.json) |
 | [August 1 at 6:16 AM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-01T06:16:31.825365-05:00.accessibility.json) |
-| [July 31 at 7:13 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-07-31T19:13:14.318128-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 28 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 6 at 7:21 AM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-06T07:21:42.126414-05:00.lighthouse.json) |
 | [August 5 at 6:34 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-05T18:34:50.505889-05:00.lighthouse.json) |
 | [August 5 at 7:28 AM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-05T07:28:31.391536-05:00.lighthouse.json) |
 | [August 4 at 6:35 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-04T18:35:41.446592-05:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 2 at 6:24 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-02T18:24:21.245215-05:00.lighthouse.json) |
 | [August 2 at 7:17 AM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-02T07:17:03.146474-05:00.lighthouse.json) |
 | [August 1 at 6:19 PM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-01T18:19:44.081547-05:00.lighthouse.json) |
-| [August 1 at 6:16 AM](https://archive.org/download/eltiempo-2022/eltiempo-2022-08-01T06:16:31.825365-05:00.lighthouse.json) |
 
 
 

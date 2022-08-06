@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 10 screenshots with the Internet Archive.
+The archiving routine has saved 11 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-08-05T22:27:45.790397-04:00.jpg">
+  <img src="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-08-05T22:27:45.790397-04:00.jpg"
+     alt="WDRB News at 2022-08-05 22:27:47-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-08-05T22:27:45.790397-04:00.jpg">August 5 at 10:27 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wdrbnews-2022/wdrbnews-2022-08-05T13:38:42.782580-04:00.jpg">
@@ -122,7 +131,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 10 hyperlink lists with the Internet Archive.
+The archiving routine has saved 11 hyperlink lists with the Internet Archive.
 
 
 
@@ -130,6 +139,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 5 at 10:27 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-08-05T22:27:45.790397-04:00.hyperlinks.json) |
 | [August 5 at 1:38 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-08-05T13:38:42.782580-04:00.hyperlinks.json) |
 | [August 5 at 10:16 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-08-05T10:15:55.722209-04:00.hyperlinks.json) |
 | [August 4 at 10:02 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-08-04T22:02:25.341710-04:00.hyperlinks.json) |
@@ -139,12 +149,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 2 at 10:02 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-08-02T22:01:59.719043-04:00.hyperlinks.json) |
 | [August 2 at 9:47 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-08-02T09:47:31.524104-04:00.hyperlinks.json) |
 | [August 1 at 10:02 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-08-01T22:02:33.250754-04:00.hyperlinks.json) |
-| [August 1 at 2:42 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-08-01T02:41:49.686869-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 11 accessibility trees with the Internet Archive.
+The archiving routine has saved 12 accessibility trees with the Internet Archive.
 
 
 
@@ -152,6 +161,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 5 at 10:27 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-08-05T22:27:45.790397-04:00.accessibility.json) |
 | [August 5 at 1:38 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-08-05T13:38:42.782580-04:00.accessibility.json) |
 | [August 5 at 10:15 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-08-05T10:15:55.722209-04:00.accessibility.json) |
 | [August 4 at 10:02 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-08-04T22:02:25.341710-04:00.accessibility.json) |
@@ -161,13 +171,12 @@ Here are the 10 most recent accessibility trees.
 | [August 2 at 10:02 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-08-02T22:01:59.719043-04:00.accessibility.json) |
 | [August 2 at 9:47 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-08-02T09:47:31.524104-04:00.accessibility.json) |
 | [August 1 at 10:02 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-08-01T22:02:33.250754-04:00.accessibility.json) |
-| [August 1 at 10:53 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-08-01T10:53:19.204630-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 12 Lighthouse audits with the Internet Archive.
 
 
 
@@ -175,6 +184,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 5 at 10:27 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-08-05T22:27:45.790397-04:00.lighthouse.json) |
 | [August 5 at 1:38 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-08-05T13:38:42.782580-04:00.lighthouse.json) |
 | [August 5 at 10:16 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-08-05T10:15:55.722209-04:00.lighthouse.json) |
 | [August 4 at 10:02 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-08-04T22:02:25.341710-04:00.lighthouse.json) |
@@ -184,7 +194,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 2 at 10:02 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-08-02T22:01:59.719043-04:00.lighthouse.json) |
 | [August 2 at 9:47 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-08-02T09:47:31.524104-04:00.lighthouse.json) |
 | [August 1 at 10:02 PM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-08-01T22:02:33.250754-04:00.lighthouse.json) |
-| [August 1 at 10:53 AM](https://archive.org/download/wdrbnews-2022/wdrbnews-2022-08-01T10:53:19.204630-04:00.lighthouse.json) |
 
 
 

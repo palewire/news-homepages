@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 213 screenshots with the Internet Archive.
+The archiving routine has saved 214 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 213 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/source_nm-2022/source_nm-2022-08-05T23:05:06.559841-06:00.jpg">
+  <img src="https://archive.org/download/source_nm-2022/source_nm-2022-08-05T23:05:06.559841-06:00.jpg"
+     alt="Source New Mexico at 2022-08-05 23:05:10-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-08-05T23:05:06.559841-06:00.jpg">August 5 at 11:05 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/source_nm-2022/source_nm-2022-08-05T11:56:13.867312-06:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-31T09:56:04.842577-06:00.jpg">July 31 at 9:56 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-30T22:07:37.014893-06:00.jpg">
-  <img src="https://archive.org/download/source_nm-2022/source_nm-2022-07-30T22:07:37.014893-06:00.jpg"
-     alt="Source New Mexico at 2022-07-30 22:07:38-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/source_nm-2022/source_nm-2022-07-30T22:07:37.014893-06:00.jpg">July 30 at 10:07 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 207 hyperlink lists with the Internet Archive.
+The archiving routine has saved 208 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 5 at 11:05 PM](https://archive.org/download/source_nm-2022/source_nm-2022-08-05T23:05:06.559841-06:00.hyperlinks.json) |
 | [August 5 at 11:56 AM](https://archive.org/download/source_nm-2022/source_nm-2022-08-05T11:56:13.867312-06:00.hyperlinks.json) |
 | [August 4 at 10:42 PM](https://archive.org/download/source_nm-2022/source_nm-2022-08-04T22:42:38.424974-06:00.hyperlinks.json) |
 | [August 4 at 11:03 AM](https://archive.org/download/source_nm-2022/source_nm-2022-08-04T11:03:32.589312-06:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 2 at 10:19 AM](https://archive.org/download/source_nm-2022/source_nm-2022-08-02T10:19:15.211658-06:00.hyperlinks.json) |
 | [August 1 at 10:26 PM](https://archive.org/download/source_nm-2022/source_nm-2022-08-01T22:26:17.727326-06:00.hyperlinks.json) |
 | [August 1 at 10:11 AM](https://archive.org/download/source_nm-2022/source_nm-2022-08-01T10:11:01.134262-06:00.hyperlinks.json) |
-| [July 31 at 9:59 PM](https://archive.org/download/source_nm-2022/source_nm-2022-07-31T21:59:08.768111-06:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 207 accessibility trees with the Internet Archive.
+The archiving routine has saved 208 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 5 at 11:05 PM](https://archive.org/download/source_nm-2022/source_nm-2022-08-05T23:05:06.559841-06:00.accessibility.json) |
 | [August 5 at 11:56 AM](https://archive.org/download/source_nm-2022/source_nm-2022-08-05T11:56:13.867312-06:00.accessibility.json) |
 | [August 4 at 10:42 PM](https://archive.org/download/source_nm-2022/source_nm-2022-08-04T22:42:38.424974-06:00.accessibility.json) |
 | [August 4 at 11:03 AM](https://archive.org/download/source_nm-2022/source_nm-2022-08-04T11:03:32.589312-06:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 2 at 10:19 AM](https://archive.org/download/source_nm-2022/source_nm-2022-08-02T10:19:15.211658-06:00.accessibility.json) |
 | [August 1 at 10:26 PM](https://archive.org/download/source_nm-2022/source_nm-2022-08-01T22:26:17.727326-06:00.accessibility.json) |
 | [August 1 at 10:11 AM](https://archive.org/download/source_nm-2022/source_nm-2022-08-01T10:11:01.134262-06:00.accessibility.json) |
-| [July 31 at 9:59 PM](https://archive.org/download/source_nm-2022/source_nm-2022-07-31T21:59:08.768111-06:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 26 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 5 at 11:05 PM](https://archive.org/download/source_nm-2022/source_nm-2022-08-05T23:05:06.559841-06:00.lighthouse.json) |
 | [August 5 at 11:56 AM](https://archive.org/download/source_nm-2022/source_nm-2022-08-05T11:56:13.867312-06:00.lighthouse.json) |
 | [August 4 at 10:42 PM](https://archive.org/download/source_nm-2022/source_nm-2022-08-04T22:42:38.424974-06:00.lighthouse.json) |
 | [August 4 at 11:03 AM](https://archive.org/download/source_nm-2022/source_nm-2022-08-04T11:03:32.589312-06:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 2 at 10:19 AM](https://archive.org/download/source_nm-2022/source_nm-2022-08-02T10:19:15.211658-06:00.lighthouse.json) |
 | [August 1 at 10:26 PM](https://archive.org/download/source_nm-2022/source_nm-2022-08-01T22:26:17.727326-06:00.lighthouse.json) |
 | [August 1 at 10:11 AM](https://archive.org/download/source_nm-2022/source_nm-2022-08-01T10:11:01.134262-06:00.lighthouse.json) |
-| [July 31 at 9:59 PM](https://archive.org/download/source_nm-2022/source_nm-2022-07-31T21:59:08.768111-06:00.lighthouse.json) |
 
 
 

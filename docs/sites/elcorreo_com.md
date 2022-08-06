@@ -77,7 +77,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 17 hyperlink lists with the Internet Archive.
+The archiving routine has saved 18 hyperlink lists with the Internet Archive.
 
 
 
@@ -85,6 +85,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 6 at 6:46 AM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-08-06T06:46:54.689722+02:00.hyperlinks.json) |
 | [August 5 at 7:19 PM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-08-05T19:19:24.919614+02:00.hyperlinks.json) |
 | [August 5 at 5:14 AM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-08-05T05:14:44.750283+02:00.hyperlinks.json) |
 | [August 4 at 5:19 PM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-08-04T17:19:04.253870+02:00.hyperlinks.json) |
@@ -94,7 +95,6 @@ Here are the 10 most recent hyperlink lists.
 | [August 2 at 4:51 PM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-08-02T16:51:56.145083+02:00.hyperlinks.json) |
 | [August 2 at 5:15 AM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-08-02T05:15:02.453718+02:00.hyperlinks.json) |
 | [August 1 at 4:57 PM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-08-01T16:57:11.178156+02:00.hyperlinks.json) |
-| [August 1 at 4:34 AM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-08-01T04:34:18.445552+02:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -117,7 +117,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
 
 
 
@@ -125,6 +125,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 6 at 6:46 AM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-08-06T06:46:54.689722+02:00.lighthouse.json) |
 | [August 5 at 7:19 PM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-08-05T19:19:24.919614+02:00.lighthouse.json) |
 | [August 5 at 5:14 AM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-08-05T05:14:44.750283+02:00.lighthouse.json) |
 | [August 4 at 5:19 PM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-08-04T17:19:04.253870+02:00.lighthouse.json) |
@@ -134,7 +135,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 2 at 4:51 PM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-08-02T16:51:56.145083+02:00.lighthouse.json) |
 | [August 2 at 5:15 AM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-08-02T05:15:02.453718+02:00.lighthouse.json) |
 | [August 1 at 4:57 PM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-08-01T16:57:11.178156+02:00.lighthouse.json) |
-| [August 1 at 4:34 AM](https://archive.org/download/elcorreo_com-2022/elcorreo_com-2022-08-01T04:34:18.445552+02:00.lighthouse.json) |
 
 
 

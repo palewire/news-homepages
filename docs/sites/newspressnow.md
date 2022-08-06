@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 65 screenshots with the Internet Archive.
+The archiving routine has saved 66 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 65 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newspressnow-2022/newspressnow-2022-08-05T23:56:51.320794-05:00.jpg">
+  <img src="https://archive.org/download/newspressnow-2022/newspressnow-2022-08-05T23:56:51.320794-05:00.jpg"
+     alt="St. Joseph News Press at 2022-08-05 23:56:54-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newspressnow-2022/newspressnow-2022-08-05T23:56:51.320794-05:00.jpg">August 5 at 11:56 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newspressnow-2022/newspressnow-2022-08-05T12:31:30.721891-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-31T09:42:48.831534-05:00.jpg">July 31 at 9:42 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-30T22:03:30.512891-05:00.jpg">
-  <img src="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-30T22:03:30.512891-05:00.jpg"
-     alt="St. Joseph News Press at 2022-07-30 22:03:31-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newspressnow-2022/newspressnow-2022-07-30T22:03:30.512891-05:00.jpg">July 30 at 10:03 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 27 hyperlink lists with the Internet Archive.
+The archiving routine has saved 28 hyperlink lists with the Internet Archive.
 
 
 
@@ -231,6 +231,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 5 at 11:56 PM](https://archive.org/download/newspressnow-2022/newspressnow-2022-08-05T23:56:51.320794-05:00.hyperlinks.json) |
 | [August 5 at 12:31 PM](https://archive.org/download/newspressnow-2022/newspressnow-2022-08-05T12:31:30.721891-05:00.hyperlinks.json) |
 | [August 3 at 11:32 PM](https://archive.org/download/newspressnow-2022/newspressnow-2022-08-03T23:32:27.305254-05:00.hyperlinks.json) |
 | [August 1 at 10:22 PM](https://archive.org/download/newspressnow-2022/newspressnow-2022-08-01T22:22:39.748004-05:00.hyperlinks.json) |
@@ -240,12 +241,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 28 at 9:41 PM](https://archive.org/download/newspressnow-2022/newspressnow-2022-07-28T21:41:24.764343-05:00.hyperlinks.json) |
 | [July 28 at 10:47 AM](https://archive.org/download/newspressnow-2022/newspressnow-2022-07-28T10:47:24.186052-05:00.hyperlinks.json) |
 | [July 27 at 9:36 AM](https://archive.org/download/newspressnow-2022/newspressnow-2022-07-27T09:36:16.782908-05:00.hyperlinks.json) |
-| [July 26 at 9:41 AM](https://archive.org/download/newspressnow-2022/newspressnow-2022-07-26T09:41:45.182218-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 34 accessibility trees with the Internet Archive.
+The archiving routine has saved 35 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -336,6 +336,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 5 at 11:56 PM](https://archive.org/download/newspressnow-2022/newspressnow-2022-08-05T23:56:51.320794-05:00.accessibility.json) |
 | [August 5 at 12:31 PM](https://archive.org/download/newspressnow-2022/newspressnow-2022-08-05T12:31:30.721891-05:00.accessibility.json) |
 | [August 4 at 10:31 AM](https://archive.org/download/newspressnow-2022/newspressnow-2022-08-04T10:31:21.063084-05:00.accessibility.json) |
 | [August 1 at 10:22 PM](https://archive.org/download/newspressnow-2022/newspressnow-2022-08-01T22:22:39.748004-05:00.accessibility.json) |
@@ -345,13 +346,12 @@ Here are the 10 most recent accessibility trees.
 | [July 30 at 10:45 AM](https://archive.org/download/newspressnow-2022/newspressnow-2022-07-30T10:45:37.807004-05:00.accessibility.json) |
 | [July 29 at 9:46 AM](https://archive.org/download/newspressnow-2022/newspressnow-2022-07-29T09:46:19.811080-05:00.accessibility.json) |
 | [July 28 at 9:41 PM](https://archive.org/download/newspressnow-2022/newspressnow-2022-07-28T21:41:24.764343-05:00.accessibility.json) |
-| [July 28 at 10:47 AM](https://archive.org/download/newspressnow-2022/newspressnow-2022-07-28T10:47:24.186052-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 26 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
 
 
 
@@ -359,6 +359,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 5 at 11:56 PM](https://archive.org/download/newspressnow-2022/newspressnow-2022-08-05T23:56:51.320794-05:00.lighthouse.json) |
 | [August 5 at 12:31 PM](https://archive.org/download/newspressnow-2022/newspressnow-2022-08-05T12:31:30.721891-05:00.lighthouse.json) |
 | [August 4 at 10:26 PM](https://archive.org/download/newspressnow-2022/newspressnow-2022-08-04T22:26:09.763927-05:00.lighthouse.json) |
 | [August 4 at 10:31 AM](https://archive.org/download/newspressnow-2022/newspressnow-2022-08-04T10:31:21.063084-05:00.lighthouse.json) |
@@ -368,7 +369,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 2 at 11:14 AM](https://archive.org/download/newspressnow-2022/newspressnow-2022-08-02T11:14:11.965406-05:00.lighthouse.json) |
 | [August 1 at 10:22 PM](https://archive.org/download/newspressnow-2022/newspressnow-2022-08-01T22:22:39.748004-05:00.lighthouse.json) |
 | [August 1 at 10:06 AM](https://archive.org/download/newspressnow-2022/newspressnow-2022-08-01T10:06:03.816587-05:00.lighthouse.json) |
-| [July 31 at 9:41 PM](https://archive.org/download/newspressnow-2022/newspressnow-2022-07-31T21:41:20.461132-05:00.lighthouse.json) |
 
 
 

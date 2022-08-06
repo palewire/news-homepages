@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 11 screenshots with the Internet Archive.
+The archiving routine has saved 12 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/whas11-2022/whas11-2022-08-05T22:28:03.578713-04:00.jpg">
+  <img src="https://archive.org/download/whas11-2022/whas11-2022-08-05T22:28:03.578713-04:00.jpg"
+     alt="WHAS11 News at 2022-08-05 22:28:04-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/whas11-2022/whas11-2022-08-05T22:28:03.578713-04:00.jpg">August 5 at 10:28 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/whas11-2022/whas11-2022-08-05T13:39:35.361246-04:00.jpg">
@@ -131,7 +140,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 11 hyperlink lists with the Internet Archive.
+The archiving routine has saved 12 hyperlink lists with the Internet Archive.
 
 
 
@@ -139,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 5 at 10:28 PM](https://archive.org/download/whas11-2022/whas11-2022-08-05T22:28:03.578713-04:00.hyperlinks.json) |
 | [August 5 at 1:39 PM](https://archive.org/download/whas11-2022/whas11-2022-08-05T13:39:35.361246-04:00.hyperlinks.json) |
 | [August 5 at 10:17 AM](https://archive.org/download/whas11-2022/whas11-2022-08-05T10:17:04.204843-04:00.hyperlinks.json) |
 | [August 4 at 10:02 PM](https://archive.org/download/whas11-2022/whas11-2022-08-04T22:02:52.730074-04:00.hyperlinks.json) |
@@ -148,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 2 at 10:00 PM](https://archive.org/download/whas11-2022/whas11-2022-08-02T22:00:47.258406-04:00.hyperlinks.json) |
 | [August 2 at 9:48 AM](https://archive.org/download/whas11-2022/whas11-2022-08-02T09:48:36.913506-04:00.hyperlinks.json) |
 | [August 1 at 10:02 PM](https://archive.org/download/whas11-2022/whas11-2022-08-01T22:02:54.538261-04:00.hyperlinks.json) |
-| [August 1 at 10:52 AM](https://archive.org/download/whas11-2022/whas11-2022-08-01T10:52:49.961925-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 11 accessibility trees with the Internet Archive.
+The archiving routine has saved 12 accessibility trees with the Internet Archive.
 
 
 
@@ -161,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 5 at 10:28 PM](https://archive.org/download/whas11-2022/whas11-2022-08-05T22:28:03.578713-04:00.accessibility.json) |
 | [August 5 at 1:39 PM](https://archive.org/download/whas11-2022/whas11-2022-08-05T13:39:35.361246-04:00.accessibility.json) |
 | [August 5 at 10:17 AM](https://archive.org/download/whas11-2022/whas11-2022-08-05T10:17:04.204843-04:00.accessibility.json) |
 | [August 4 at 10:02 PM](https://archive.org/download/whas11-2022/whas11-2022-08-04T22:02:52.730074-04:00.accessibility.json) |
@@ -170,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [August 2 at 10:00 PM](https://archive.org/download/whas11-2022/whas11-2022-08-02T22:00:47.258406-04:00.accessibility.json) |
 | [August 2 at 9:48 AM](https://archive.org/download/whas11-2022/whas11-2022-08-02T09:48:36.913506-04:00.accessibility.json) |
 | [August 1 at 10:02 PM](https://archive.org/download/whas11-2022/whas11-2022-08-01T22:02:54.538261-04:00.accessibility.json) |
-| [August 1 at 10:52 AM](https://archive.org/download/whas11-2022/whas11-2022-08-01T10:52:49.961925-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 12 Lighthouse audits with the Internet Archive.
 
 
 
@@ -184,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 5 at 10:28 PM](https://archive.org/download/whas11-2022/whas11-2022-08-05T22:28:03.578713-04:00.lighthouse.json) |
 | [August 5 at 1:39 PM](https://archive.org/download/whas11-2022/whas11-2022-08-05T13:39:35.361246-04:00.lighthouse.json) |
 | [August 5 at 10:17 AM](https://archive.org/download/whas11-2022/whas11-2022-08-05T10:17:04.204843-04:00.lighthouse.json) |
 | [August 4 at 10:02 PM](https://archive.org/download/whas11-2022/whas11-2022-08-04T22:02:52.730074-04:00.lighthouse.json) |
@@ -193,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 2 at 10:00 PM](https://archive.org/download/whas11-2022/whas11-2022-08-02T22:00:47.258406-04:00.lighthouse.json) |
 | [August 2 at 9:48 AM](https://archive.org/download/whas11-2022/whas11-2022-08-02T09:48:36.913506-04:00.lighthouse.json) |
 | [August 1 at 10:03 PM](https://archive.org/download/whas11-2022/whas11-2022-08-01T22:02:54.538261-04:00.lighthouse.json) |
-| [August 1 at 10:52 AM](https://archive.org/download/whas11-2022/whas11-2022-08-01T10:52:49.961925-04:00.lighthouse.json) |
 
 
 

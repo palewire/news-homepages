@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 64 screenshots with the Internet Archive.
+The archiving routine has saved 65 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 64 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/news3lv-2022/news3lv-2022-08-05T19:08:41.229551-07:00.jpg">
+  <img src="https://archive.org/download/news3lv-2022/news3lv-2022-08-05T19:08:41.229551-07:00.jpg"
+     alt="KSNV News 3 at 2022-08-05 19:08:42-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/news3lv-2022/news3lv-2022-08-05T19:08:41.229551-07:00.jpg">August 5 at 7:08 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/news3lv-2022/news3lv-2022-08-05T05:40:56.558775-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/news3lv-2022/news3lv-2022-07-31T06:20:59.626561-07:00.jpg">July 31 at 6:21 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/news3lv-2022/news3lv-2022-07-30T17:30:09.823555-07:00.jpg">
-  <img src="https://archive.org/download/news3lv-2022/news3lv-2022-07-30T17:30:09.823555-07:00.jpg"
-     alt="KSNV News 3 at 2022-07-30 17:30:11-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/news3lv-2022/news3lv-2022-07-30T17:30:09.823555-07:00.jpg">July 30 at 5:30 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 60 hyperlink lists with the Internet Archive.
+The archiving routine has saved 61 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 5 at 7:08 PM](https://archive.org/download/news3lv-2022/news3lv-2022-08-05T19:08:41.229551-07:00.hyperlinks.json) |
 | [August 5 at 5:41 AM](https://archive.org/download/news3lv-2022/news3lv-2022-08-05T05:40:56.558775-07:00.hyperlinks.json) |
 | [August 4 at 6:45 PM](https://archive.org/download/news3lv-2022/news3lv-2022-08-04T18:45:29.543045-07:00.hyperlinks.json) |
 | [August 4 at 5:36 AM](https://archive.org/download/news3lv-2022/news3lv-2022-08-04T05:36:36.303574-07:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 2 at 5:25 AM](https://archive.org/download/news3lv-2022/news3lv-2022-08-02T05:25:05.191777-07:00.hyperlinks.json) |
 | [August 1 at 5:39 PM](https://archive.org/download/news3lv-2022/news3lv-2022-08-01T17:39:17.791672-07:00.hyperlinks.json) |
 | [August 1 at 5:26 AM](https://archive.org/download/news3lv-2022/news3lv-2022-08-01T05:26:17.167288-07:00.hyperlinks.json) |
-| [July 31 at 5:21 PM](https://archive.org/download/news3lv-2022/news3lv-2022-07-31T17:21:25.345305-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 64 accessibility trees with the Internet Archive.
+The archiving routine has saved 65 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 5 at 7:08 PM](https://archive.org/download/news3lv-2022/news3lv-2022-08-05T19:08:41.229551-07:00.accessibility.json) |
 | [August 5 at 5:41 AM](https://archive.org/download/news3lv-2022/news3lv-2022-08-05T05:40:56.558775-07:00.accessibility.json) |
 | [August 4 at 6:45 PM](https://archive.org/download/news3lv-2022/news3lv-2022-08-04T18:45:29.543045-07:00.accessibility.json) |
 | [August 4 at 5:36 AM](https://archive.org/download/news3lv-2022/news3lv-2022-08-04T05:36:36.303574-07:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 2 at 5:25 AM](https://archive.org/download/news3lv-2022/news3lv-2022-08-02T05:25:05.191777-07:00.accessibility.json) |
 | [August 1 at 5:39 PM](https://archive.org/download/news3lv-2022/news3lv-2022-08-01T17:39:17.791672-07:00.accessibility.json) |
 | [August 1 at 5:26 AM](https://archive.org/download/news3lv-2022/news3lv-2022-08-01T05:26:17.167288-07:00.accessibility.json) |
-| [July 31 at 5:21 PM](https://archive.org/download/news3lv-2022/news3lv-2022-07-31T17:21:25.345305-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 26 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 5 at 7:08 PM](https://archive.org/download/news3lv-2022/news3lv-2022-08-05T19:08:41.229551-07:00.lighthouse.json) |
 | [August 5 at 5:41 AM](https://archive.org/download/news3lv-2022/news3lv-2022-08-05T05:40:56.558775-07:00.lighthouse.json) |
 | [August 4 at 6:45 PM](https://archive.org/download/news3lv-2022/news3lv-2022-08-04T18:45:29.543045-07:00.lighthouse.json) |
 | [August 4 at 5:36 AM](https://archive.org/download/news3lv-2022/news3lv-2022-08-04T05:36:36.303574-07:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 2 at 5:25 AM](https://archive.org/download/news3lv-2022/news3lv-2022-08-02T05:25:05.191777-07:00.lighthouse.json) |
 | [August 1 at 5:39 PM](https://archive.org/download/news3lv-2022/news3lv-2022-08-01T17:39:17.791672-07:00.lighthouse.json) |
 | [August 1 at 5:26 AM](https://archive.org/download/news3lv-2022/news3lv-2022-08-01T05:26:17.167288-07:00.lighthouse.json) |
-| [July 31 at 5:21 PM](https://archive.org/download/news3lv-2022/news3lv-2022-07-31T17:21:25.345305-07:00.lighthouse.json) |
 
 
 
