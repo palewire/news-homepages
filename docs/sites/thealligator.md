@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 100 screenshots with the Internet Archive.
+The archiving routine has saved 102 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/thealligator-2022/thealligator-2022-08-05T13:33:55.435346-04:00.jpg">
+  <img src="https://archive.org/download/thealligator-2022/thealligator-2022-08-05T13:33:55.435346-04:00.jpg"
+     alt="Alligator at 2022-08-05 13:33:58-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-08-05T13:33:55.435346-04:00.jpg">August 5 at 1:33 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thealligator-2022/thealligator-2022-08-05T10:10:21.688373-04:00.jpg">
+  <img src="https://archive.org/download/thealligator-2022/thealligator-2022-08-05T10:10:21.688373-04:00.jpg"
+     alt="Alligator at 2022-08-05 10:10:23-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-08-05T10:10:21.688373-04:00.jpg">August 5 at 10:10 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/thealligator-2022/thealligator-2022-08-04T21:58:07.897452-04:00.jpg">
   <img src="https://archive.org/download/thealligator-2022/thealligator-2022-08-04T21:58:07.897452-04:00.jpg"
      alt="Alligator at 2022-08-04 21:58:09-04:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-31T09:32:20.111570-04:00.jpg">July 31 at 9:32 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-30T22:46:55.458554-04:00.jpg">
-  <img src="https://archive.org/download/thealligator-2022/thealligator-2022-07-30T22:46:55.458554-04:00.jpg"
-     alt="Alligator at 2022-07-30 22:47:00-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-30T22:46:55.458554-04:00.jpg">July 30 at 10:47 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-30T09:35:12.389091-04:00.jpg">
-  <img src="https://archive.org/download/thealligator-2022/thealligator-2022-07-30T09:35:12.389091-04:00.jpg"
-     alt="Alligator at 2022-07-30 09:35:14-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thealligator-2022/thealligator-2022-07-30T09:35:12.389091-04:00.jpg">July 30 at 9:35 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 97 hyperlink lists with the Internet Archive.
+The archiving routine has saved 99 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 5 at 1:34 PM](https://archive.org/download/thealligator-2022/thealligator-2022-08-05T13:33:55.435346-04:00.hyperlinks.json) |
+| [August 5 at 10:10 AM](https://archive.org/download/thealligator-2022/thealligator-2022-08-05T10:10:21.688373-04:00.hyperlinks.json) |
 | [August 4 at 9:58 PM](https://archive.org/download/thealligator-2022/thealligator-2022-08-04T21:58:07.897452-04:00.hyperlinks.json) |
 | [August 4 at 9:55 AM](https://archive.org/download/thealligator-2022/thealligator-2022-08-04T09:55:16.789467-04:00.hyperlinks.json) |
 | [August 3 at 11:10 PM](https://archive.org/download/thealligator-2022/thealligator-2022-08-03T23:09:55.117022-04:00.hyperlinks.json) |
@@ -322,13 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 2 at 9:43 AM](https://archive.org/download/thealligator-2022/thealligator-2022-08-02T09:43:21.189834-04:00.hyperlinks.json) |
 | [August 1 at 9:59 PM](https://archive.org/download/thealligator-2022/thealligator-2022-08-01T21:59:18.399916-04:00.hyperlinks.json) |
 | [August 1 at 10:48 AM](https://archive.org/download/thealligator-2022/thealligator-2022-08-01T10:48:48.167327-04:00.hyperlinks.json) |
-| [July 31 at 9:27 PM](https://archive.org/download/thealligator-2022/thealligator-2022-07-31T21:27:20.139602-04:00.hyperlinks.json) |
-| [July 31 at 9:32 AM](https://archive.org/download/thealligator-2022/thealligator-2022-07-31T09:32:20.111570-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 98 accessibility trees with the Internet Archive.
+The archiving routine has saved 100 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 5 at 1:33 PM](https://archive.org/download/thealligator-2022/thealligator-2022-08-05T13:33:55.435346-04:00.accessibility.json) |
+| [August 5 at 10:10 AM](https://archive.org/download/thealligator-2022/thealligator-2022-08-05T10:10:21.688373-04:00.accessibility.json) |
 | [August 4 at 9:58 PM](https://archive.org/download/thealligator-2022/thealligator-2022-08-04T21:58:07.897452-04:00.accessibility.json) |
 | [August 4 at 9:55 AM](https://archive.org/download/thealligator-2022/thealligator-2022-08-04T09:55:16.789467-04:00.accessibility.json) |
 | [August 3 at 11:09 PM](https://archive.org/download/thealligator-2022/thealligator-2022-08-03T23:09:55.117022-04:00.accessibility.json) |
@@ -427,14 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 2 at 9:43 AM](https://archive.org/download/thealligator-2022/thealligator-2022-08-02T09:43:21.189834-04:00.accessibility.json) |
 | [August 1 at 9:59 PM](https://archive.org/download/thealligator-2022/thealligator-2022-08-01T21:59:18.399916-04:00.accessibility.json) |
 | [August 1 at 10:48 AM](https://archive.org/download/thealligator-2022/thealligator-2022-08-01T10:48:48.167327-04:00.accessibility.json) |
-| [July 31 at 9:27 PM](https://archive.org/download/thealligator-2022/thealligator-2022-07-31T21:27:20.139602-04:00.accessibility.json) |
-| [July 31 at 9:32 AM](https://archive.org/download/thealligator-2022/thealligator-2022-07-31T09:32:20.111570-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 25 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 5 at 1:34 PM](https://archive.org/download/thealligator-2022/thealligator-2022-08-05T13:33:55.435346-04:00.lighthouse.json) |
+| [August 5 at 10:10 AM](https://archive.org/download/thealligator-2022/thealligator-2022-08-05T10:10:21.688373-04:00.lighthouse.json) |
 | [August 4 at 9:58 PM](https://archive.org/download/thealligator-2022/thealligator-2022-08-04T21:58:07.897452-04:00.lighthouse.json) |
 | [August 4 at 9:55 AM](https://archive.org/download/thealligator-2022/thealligator-2022-08-04T09:55:16.789467-04:00.lighthouse.json) |
 | [August 3 at 11:10 PM](https://archive.org/download/thealligator-2022/thealligator-2022-08-03T23:09:55.117022-04:00.lighthouse.json) |
@@ -450,8 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 2 at 9:43 AM](https://archive.org/download/thealligator-2022/thealligator-2022-08-02T09:43:21.189834-04:00.lighthouse.json) |
 | [August 1 at 9:59 PM](https://archive.org/download/thealligator-2022/thealligator-2022-08-01T21:59:18.399916-04:00.lighthouse.json) |
 | [August 1 at 10:48 AM](https://archive.org/download/thealligator-2022/thealligator-2022-08-01T10:48:48.167327-04:00.lighthouse.json) |
-| [July 31 at 9:27 PM](https://archive.org/download/thealligator-2022/thealligator-2022-07-31T21:27:20.139602-04:00.lighthouse.json) |
-| [July 31 at 9:32 AM](https://archive.org/download/thealligator-2022/thealligator-2022-07-31T09:32:20.111570-04:00.lighthouse.json) |
 
 
 

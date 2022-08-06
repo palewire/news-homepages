@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 64 screenshots with the Internet Archive.
+The archiving routine has saved 65 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 64 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gawker-2022/gawker-2022-08-05T13:22:17.037890-04:00.jpg">
+  <img src="https://archive.org/download/gawker-2022/gawker-2022-08-05T13:22:17.037890-04:00.jpg"
+     alt="Gawker at 2022-08-05 13:22:20-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gawker-2022/gawker-2022-08-05T13:22:17.037890-04:00.jpg">August 5 at 1:22 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gawker-2022/gawker-2022-08-04T23:16:42.186323-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/gawker-2022/gawker-2022-07-30T22:56:38.379850-04:00.jpg">July 30 at 10:56 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/gawker-2022/gawker-2022-07-30T11:38:59.254467-04:00.jpg">
-  <img src="https://archive.org/download/gawker-2022/gawker-2022-07-30T11:38:59.254467-04:00.jpg"
-     alt="Gawker at 2022-07-30 11:39:04-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gawker-2022/gawker-2022-07-30T11:38:59.254467-04:00.jpg">July 30 at 11:39 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 64 hyperlink lists with the Internet Archive.
+The archiving routine has saved 65 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 5 at 1:22 PM](https://archive.org/download/gawker-2022/gawker-2022-08-05T13:22:17.037890-04:00.hyperlinks.json) |
 | [August 4 at 11:16 PM](https://archive.org/download/gawker-2022/gawker-2022-08-04T23:16:42.186323-04:00.hyperlinks.json) |
 | [August 4 at 11:21 AM](https://archive.org/download/gawker-2022/gawker-2022-08-04T11:21:14.737883-04:00.hyperlinks.json) |
 | [August 3 at 11:20 PM](https://archive.org/download/gawker-2022/gawker-2022-08-03T23:20:31.403305-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 1 at 11:16 PM](https://archive.org/download/gawker-2022/gawker-2022-08-01T23:16:30.893841-04:00.hyperlinks.json) |
 | [August 1 at 10:58 AM](https://archive.org/download/gawker-2022/gawker-2022-08-01T10:58:09.656554-04:00.hyperlinks.json) |
 | [July 31 at 10:34 PM](https://archive.org/download/gawker-2022/gawker-2022-07-31T22:34:54.911938-04:00.hyperlinks.json) |
-| [July 31 at 10:36 AM](https://archive.org/download/gawker-2022/gawker-2022-07-31T10:36:26.044111-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 64 accessibility trees with the Internet Archive.
+The archiving routine has saved 65 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 5 at 1:22 PM](https://archive.org/download/gawker-2022/gawker-2022-08-05T13:22:17.037890-04:00.accessibility.json) |
 | [August 4 at 11:16 PM](https://archive.org/download/gawker-2022/gawker-2022-08-04T23:16:42.186323-04:00.accessibility.json) |
 | [August 4 at 11:21 AM](https://archive.org/download/gawker-2022/gawker-2022-08-04T11:21:14.737883-04:00.accessibility.json) |
 | [August 3 at 11:20 PM](https://archive.org/download/gawker-2022/gawker-2022-08-03T23:20:31.403305-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 1 at 11:16 PM](https://archive.org/download/gawker-2022/gawker-2022-08-01T23:16:30.893841-04:00.accessibility.json) |
 | [August 1 at 10:58 AM](https://archive.org/download/gawker-2022/gawker-2022-08-01T10:58:09.656554-04:00.accessibility.json) |
 | [July 31 at 10:34 PM](https://archive.org/download/gawker-2022/gawker-2022-07-31T22:34:54.911938-04:00.accessibility.json) |
-| [July 31 at 10:36 AM](https://archive.org/download/gawker-2022/gawker-2022-07-31T10:36:26.044111-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 25 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 26 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 5 at 1:22 PM](https://archive.org/download/gawker-2022/gawker-2022-08-05T13:22:17.037890-04:00.lighthouse.json) |
 | [August 4 at 11:16 PM](https://archive.org/download/gawker-2022/gawker-2022-08-04T23:16:42.186323-04:00.lighthouse.json) |
 | [August 4 at 11:21 AM](https://archive.org/download/gawker-2022/gawker-2022-08-04T11:21:14.737883-04:00.lighthouse.json) |
 | [August 3 at 11:20 PM](https://archive.org/download/gawker-2022/gawker-2022-08-03T23:20:31.403305-04:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 1 at 11:16 PM](https://archive.org/download/gawker-2022/gawker-2022-08-01T23:16:30.893841-04:00.lighthouse.json) |
 | [August 1 at 10:58 AM](https://archive.org/download/gawker-2022/gawker-2022-08-01T10:58:09.656554-04:00.lighthouse.json) |
 | [July 31 at 10:35 PM](https://archive.org/download/gawker-2022/gawker-2022-07-31T22:34:54.911938-04:00.lighthouse.json) |
-| [July 31 at 10:36 AM](https://archive.org/download/gawker-2022/gawker-2022-07-31T10:36:26.044111-04:00.lighthouse.json) |
 
 
 

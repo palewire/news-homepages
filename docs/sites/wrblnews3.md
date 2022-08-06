@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 28 screenshots with the Internet Archive.
+The archiving routine has saved 29 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-08-05T14:06:43.787872-04:00.jpg">
+  <img src="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-08-05T14:06:43.787872-04:00.jpg"
+     alt="WRBL News 3 at 2022-08-05 14:06:44-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-08-05T14:06:43.787872-04:00.jpg">August 5 at 2:06 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-08-05T00:48:03.254294-04:00.jpg">
@@ -127,15 +136,6 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-07-31T00:12:34.918342-04:00.jpg">July 31 at 12:12 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-07-30T12:02:39.775001-04:00.jpg">
-  <img src="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-07-30T12:02:39.775001-04:00.jpg"
-     alt="WRBL News 3 at 2022-07-30 12:02:41-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wrblnews3-2022/wrblnews3-2022-07-30T12:02:39.775001-04:00.jpg">July 30 at 12:02 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
@@ -162,7 +162,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 27 accessibility trees with the Internet Archive.
+The archiving routine has saved 28 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 5 at 2:06 PM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-08-05T14:06:43.787872-04:00.accessibility.json) |
 | [August 5 at 12:48 AM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-08-05T00:48:03.254294-04:00.accessibility.json) |
 | [August 4 at 1:10 PM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-08-04T13:10:18.307784-04:00.accessibility.json) |
 | [August 4 at 12:42 AM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-08-04T00:42:45.626085-04:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [August 2 at 12:31 AM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-08-02T00:31:05.158307-04:00.accessibility.json) |
 | [August 1 at 12:16 PM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-08-01T12:16:50.428825-04:00.accessibility.json) |
 | [August 1 at 12:03 AM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-08-01T00:03:47.345545-04:00.accessibility.json) |
-| [July 31 at 12:00 PM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-07-31T12:00:36.809111-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 25 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 26 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 5 at 2:06 PM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-08-05T14:06:43.787872-04:00.lighthouse.json) |
 | [August 5 at 12:48 AM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-08-05T00:48:03.254294-04:00.lighthouse.json) |
 | [August 4 at 1:10 PM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-08-04T13:10:18.307784-04:00.lighthouse.json) |
 | [August 4 at 12:42 AM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-08-04T00:42:45.626085-04:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 2 at 12:31 AM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-08-02T00:31:05.158307-04:00.lighthouse.json) |
 | [August 1 at 12:16 PM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-08-01T12:16:50.428825-04:00.lighthouse.json) |
 | [August 1 at 12:03 AM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-08-01T00:03:47.345545-04:00.lighthouse.json) |
-| [July 31 at 12:00 PM](https://archive.org/download/wrblnews3-2022/wrblnews3-2022-07-31T12:00:36.809111-04:00.lighthouse.json) |
 
 
 

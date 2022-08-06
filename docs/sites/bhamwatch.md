@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 56 screenshots with the Internet Archive.
+The archiving routine has saved 57 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 56 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-08-05T18:27:09.751634-05:00.jpg">
+  <img src="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-08-05T18:27:09.751634-05:00.jpg"
+     alt="BirminghamWatch at 2022-08-05 18:27:11-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-08-05T18:27:09.751634-05:00.jpg">August 5 at 6:27 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-08-05T07:22:03.482202-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-31T06:08:05.961716-05:00.jpg">July 31 at 6:08 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-30T18:14:05.075399-05:00.jpg">
-  <img src="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-30T18:14:05.075399-05:00.jpg"
-     alt="BirminghamWatch at 2022-07-30 18:14:06-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-30T18:14:05.075399-05:00.jpg">July 30 at 6:14 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 56 hyperlink lists with the Internet Archive.
+The archiving routine has saved 57 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 5 at 6:27 PM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-08-05T18:27:09.751634-05:00.hyperlinks.json) |
 | [August 5 at 7:22 AM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-08-05T07:22:03.482202-05:00.hyperlinks.json) |
 | [August 4 at 6:30 PM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-08-04T18:30:22.966164-05:00.hyperlinks.json) |
 | [August 4 at 6:10 AM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-08-04T06:10:20.429526-05:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 2 at 7:11 AM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-08-02T07:11:34.277280-05:00.hyperlinks.json) |
 | [August 1 at 6:14 PM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-08-01T18:14:34.206793-05:00.hyperlinks.json) |
 | [August 1 at 6:12 AM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-08-01T06:11:59.404456-05:00.hyperlinks.json) |
-| [July 31 at 7:07 PM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-31T19:07:46.779207-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 56 accessibility trees with the Internet Archive.
+The archiving routine has saved 57 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 5 at 6:27 PM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-08-05T18:27:09.751634-05:00.accessibility.json) |
 | [August 5 at 7:22 AM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-08-05T07:22:03.482202-05:00.accessibility.json) |
 | [August 4 at 6:30 PM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-08-04T18:30:22.966164-05:00.accessibility.json) |
 | [August 4 at 6:10 AM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-08-04T06:10:20.429526-05:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 2 at 7:11 AM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-08-02T07:11:34.277280-05:00.accessibility.json) |
 | [August 1 at 6:14 PM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-08-01T18:14:34.206793-05:00.accessibility.json) |
 | [August 1 at 6:12 AM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-08-01T06:11:59.404456-05:00.accessibility.json) |
-| [July 31 at 7:07 PM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-31T19:07:46.779207-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 26 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 5 at 6:27 PM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-08-05T18:27:09.751634-05:00.lighthouse.json) |
 | [August 5 at 7:22 AM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-08-05T07:22:03.482202-05:00.lighthouse.json) |
 | [August 4 at 6:30 PM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-08-04T18:30:22.966164-05:00.lighthouse.json) |
 | [August 4 at 6:10 AM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-08-04T06:10:20.429526-05:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 2 at 7:11 AM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-08-02T07:11:34.277280-05:00.lighthouse.json) |
 | [August 1 at 6:14 PM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-08-01T18:14:34.206793-05:00.lighthouse.json) |
 | [August 1 at 6:12 AM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-08-01T06:11:59.404456-05:00.lighthouse.json) |
-| [July 31 at 7:07 PM](https://archive.org/download/bhamwatch-2022/bhamwatch-2022-07-31T19:07:46.779207-05:00.lighthouse.json) |
 
 
 

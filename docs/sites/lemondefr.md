@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 238 screenshots with the Internet Archive.
+The archiving routine has saved 239 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 238 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-08-05T19:28:02.368575+02:00.jpg">
+  <img src="https://archive.org/download/lemondefr-2022/lemondefr-2022-08-05T19:28:02.368575+02:00.jpg"
+     alt="Le Monde at 2022-08-05 19:28:18+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-08-05T19:28:02.368575+02:00.jpg">August 5 at 7:28 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-08-05T10:11:46.425464+02:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-08-02T05:20:14.597867+02:00.jpg">August 2 at 5:20 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-08-01T17:03:00.092725+02:00.jpg">
-  <img src="https://archive.org/download/lemondefr-2022/lemondefr-2022-08-01T17:03:00.092725+02:00.jpg"
-     alt="Le Monde at 2022-08-01 17:03:05+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lemondefr-2022/lemondefr-2022-08-01T17:03:00.092725+02:00.jpg">August 1 at 5:03 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 239 hyperlink lists with the Internet Archive.
+The archiving routine has saved 240 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 5 at 7:28 PM](https://archive.org/download/lemondefr-2022/lemondefr-2022-08-05T19:28:02.368575+02:00.hyperlinks.json) |
 | [August 5 at 10:11 AM](https://archive.org/download/lemondefr-2022/lemondefr-2022-08-05T10:11:46.425464+02:00.hyperlinks.json) |
 | [August 5 at 5:23 AM](https://archive.org/download/lemondefr-2022/lemondefr-2022-08-05T05:23:16.427244+02:00.hyperlinks.json) |
 | [August 4 at 5:26 PM](https://archive.org/download/lemondefr-2022/lemondefr-2022-08-04T17:26:49.399899+02:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 3 at 10:14 AM](https://archive.org/download/lemondefr-2022/lemondefr-2022-08-03T10:14:01.969142+02:00.hyperlinks.json) |
 | [August 3 at 6:35 AM](https://archive.org/download/lemondefr-2022/lemondefr-2022-08-03T06:35:14.431258+02:00.hyperlinks.json) |
 | [August 2 at 4:57 PM](https://archive.org/download/lemondefr-2022/lemondefr-2022-08-02T16:57:30.761523+02:00.hyperlinks.json) |
-| [August 2 at 10:12 AM](https://archive.org/download/lemondefr-2022/lemondefr-2022-08-02T10:12:24.640857+02:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 239 accessibility trees with the Internet Archive.
+The archiving routine has saved 240 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 5 at 7:28 PM](https://archive.org/download/lemondefr-2022/lemondefr-2022-08-05T19:28:02.368575+02:00.accessibility.json) |
 | [August 5 at 10:11 AM](https://archive.org/download/lemondefr-2022/lemondefr-2022-08-05T10:11:46.425464+02:00.accessibility.json) |
 | [August 5 at 5:23 AM](https://archive.org/download/lemondefr-2022/lemondefr-2022-08-05T05:23:16.427244+02:00.accessibility.json) |
 | [August 4 at 5:26 PM](https://archive.org/download/lemondefr-2022/lemondefr-2022-08-04T17:26:49.399899+02:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 3 at 10:14 AM](https://archive.org/download/lemondefr-2022/lemondefr-2022-08-03T10:14:01.969142+02:00.accessibility.json) |
 | [August 3 at 6:35 AM](https://archive.org/download/lemondefr-2022/lemondefr-2022-08-03T06:35:14.431258+02:00.accessibility.json) |
 | [August 2 at 4:57 PM](https://archive.org/download/lemondefr-2022/lemondefr-2022-08-02T16:57:30.761523+02:00.accessibility.json) |
-| [August 2 at 10:12 AM](https://archive.org/download/lemondefr-2022/lemondefr-2022-08-02T10:12:24.640857+02:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 38 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 39 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 5 at 7:28 PM](https://archive.org/download/lemondefr-2022/lemondefr-2022-08-05T19:28:02.368575+02:00.lighthouse.json) |
 | [August 5 at 10:11 AM](https://archive.org/download/lemondefr-2022/lemondefr-2022-08-05T10:11:46.425464+02:00.lighthouse.json) |
 | [August 5 at 5:23 AM](https://archive.org/download/lemondefr-2022/lemondefr-2022-08-05T05:23:16.427244+02:00.lighthouse.json) |
 | [August 4 at 5:27 PM](https://archive.org/download/lemondefr-2022/lemondefr-2022-08-04T17:26:49.399899+02:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 3 at 10:14 AM](https://archive.org/download/lemondefr-2022/lemondefr-2022-08-03T10:14:01.969142+02:00.lighthouse.json) |
 | [August 3 at 6:35 AM](https://archive.org/download/lemondefr-2022/lemondefr-2022-08-03T06:35:14.431258+02:00.lighthouse.json) |
 | [August 2 at 4:57 PM](https://archive.org/download/lemondefr-2022/lemondefr-2022-08-02T16:57:30.761523+02:00.lighthouse.json) |
-| [August 2 at 10:12 AM](https://archive.org/download/lemondefr-2022/lemondefr-2022-08-02T10:12:24.640857+02:00.lighthouse.json) |
 
 
 

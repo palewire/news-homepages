@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 25 screenshots with the Internet Archive.
+The archiving routine has saved 26 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/occrp-2022/occrp-2022-08-05T19:50:04.472457+02:00.jpg">
+  <img src="https://archive.org/download/occrp-2022/occrp-2022-08-05T19:50:04.472457+02:00.jpg"
+     alt="Organized Crime and Corruption Reporting Project at 2022-08-05 19:50:07+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/occrp-2022/occrp-2022-08-05T19:50:04.472457+02:00.jpg">August 5 at 7:50 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/occrp-2022/occrp-2022-08-05T06:36:59.566030+02:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/occrp-2022/occrp-2022-07-31T06:03:35.336037+02:00.jpg">July 31 at 6:03 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/occrp-2022/occrp-2022-07-30T17:53:23.468686+02:00.jpg">
-  <img src="https://archive.org/download/occrp-2022/occrp-2022-07-30T17:53:23.468686+02:00.jpg"
-     alt="Organized Crime and Corruption Reporting Project at 2022-07-30 17:53:25+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/occrp-2022/occrp-2022-07-30T17:53:23.468686+02:00.jpg">July 30 at 5:53 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 25 hyperlink lists with the Internet Archive.
+The archiving routine has saved 26 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 5 at 7:50 PM](https://archive.org/download/occrp-2022/occrp-2022-08-05T19:50:04.472457+02:00.hyperlinks.json) |
 | [August 5 at 6:37 AM](https://archive.org/download/occrp-2022/occrp-2022-08-05T06:36:59.566030+02:00.hyperlinks.json) |
 | [August 4 at 6:56 PM](https://archive.org/download/occrp-2022/occrp-2022-08-04T18:56:47.699691+02:00.hyperlinks.json) |
 | [August 4 at 6:32 AM](https://archive.org/download/occrp-2022/occrp-2022-08-04T06:32:13.397260+02:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 2 at 6:22 AM](https://archive.org/download/occrp-2022/occrp-2022-08-02T06:22:00.559820+02:00.hyperlinks.json) |
 | [August 1 at 6:06 PM](https://archive.org/download/occrp-2022/occrp-2022-08-01T18:06:46.032575+02:00.hyperlinks.json) |
 | [August 1 at 5:54 AM](https://archive.org/download/occrp-2022/occrp-2022-08-01T05:54:38.841821+02:00.hyperlinks.json) |
-| [July 31 at 5:52 PM](https://archive.org/download/occrp-2022/occrp-2022-07-31T17:51:59.715913+02:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 25 accessibility trees with the Internet Archive.
+The archiving routine has saved 26 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 5 at 7:50 PM](https://archive.org/download/occrp-2022/occrp-2022-08-05T19:50:04.472457+02:00.accessibility.json) |
 | [August 5 at 6:37 AM](https://archive.org/download/occrp-2022/occrp-2022-08-05T06:36:59.566030+02:00.accessibility.json) |
 | [August 4 at 6:56 PM](https://archive.org/download/occrp-2022/occrp-2022-08-04T18:56:47.699691+02:00.accessibility.json) |
 | [August 4 at 6:32 AM](https://archive.org/download/occrp-2022/occrp-2022-08-04T06:32:13.397260+02:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [August 2 at 6:22 AM](https://archive.org/download/occrp-2022/occrp-2022-08-02T06:22:00.559820+02:00.accessibility.json) |
 | [August 1 at 6:06 PM](https://archive.org/download/occrp-2022/occrp-2022-08-01T18:06:46.032575+02:00.accessibility.json) |
 | [August 1 at 5:54 AM](https://archive.org/download/occrp-2022/occrp-2022-08-01T05:54:38.841821+02:00.accessibility.json) |
-| [July 31 at 5:52 PM](https://archive.org/download/occrp-2022/occrp-2022-07-31T17:51:59.715913+02:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 25 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 26 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 5 at 7:50 PM](https://archive.org/download/occrp-2022/occrp-2022-08-05T19:50:04.472457+02:00.lighthouse.json) |
 | [August 5 at 6:37 AM](https://archive.org/download/occrp-2022/occrp-2022-08-05T06:36:59.566030+02:00.lighthouse.json) |
 | [August 4 at 6:56 PM](https://archive.org/download/occrp-2022/occrp-2022-08-04T18:56:47.699691+02:00.lighthouse.json) |
 | [August 4 at 6:32 AM](https://archive.org/download/occrp-2022/occrp-2022-08-04T06:32:13.397260+02:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 2 at 6:22 AM](https://archive.org/download/occrp-2022/occrp-2022-08-02T06:22:00.559820+02:00.lighthouse.json) |
 | [August 1 at 6:06 PM](https://archive.org/download/occrp-2022/occrp-2022-08-01T18:06:46.032575+02:00.lighthouse.json) |
 | [August 1 at 5:54 AM](https://archive.org/download/occrp-2022/occrp-2022-08-01T05:54:38.841821+02:00.lighthouse.json) |
-| [July 31 at 5:52 PM](https://archive.org/download/occrp-2022/occrp-2022-07-31T17:51:59.715913+02:00.lighthouse.json) |
 
 
 

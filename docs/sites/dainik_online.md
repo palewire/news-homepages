@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 23 screenshots with the Internet Archive.
+The archiving routine has saved 24 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dainik_online-2022/dainik_online-2022-08-05T23:02:40.707470+05:45.jpg">
+  <img src="https://archive.org/download/dainik_online-2022/dainik_online-2022-08-05T23:02:40.707470+05:45.jpg"
+     alt="Danik Online at 2022-08-05 23:02:41+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dainik_online-2022/dainik_online-2022-08-05T23:02:40.707470+05:45.jpg">August 5 at 11:02 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dainik_online-2022/dainik_online-2022-08-05T08:57:36.512379+05:45.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dainik_online-2022/dainik_online-2022-07-30T21:21:48.093641+05:45.jpg">July 30 at 9:21 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dainik_online-2022/dainik_online-2022-07-30T08:22:30.315371+05:45.jpg">
-  <img src="https://archive.org/download/dainik_online-2022/dainik_online-2022-07-30T08:22:30.315371+05:45.jpg"
-     alt="Danik Online at 2022-07-30 08:22:32+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dainik_online-2022/dainik_online-2022-07-30T08:22:30.315371+05:45.jpg">July 30 at 8:22 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 24 hyperlink lists with the Internet Archive.
+The archiving routine has saved 25 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 5 at 11:02 PM](https://archive.org/download/dainik_online-2022/dainik_online-2022-08-05T23:02:40.707470+05:45.hyperlinks.json) |
 | [August 5 at 8:57 AM](https://archive.org/download/dainik_online-2022/dainik_online-2022-08-05T08:57:36.512379+05:45.hyperlinks.json) |
 | [August 4 at 9:02 PM](https://archive.org/download/dainik_online-2022/dainik_online-2022-08-04T21:02:44.278237+05:45.hyperlinks.json) |
 | [August 4 at 9:02 AM](https://archive.org/download/dainik_online-2022/dainik_online-2022-08-04T09:02:17.914494+05:45.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 2 at 8:58 AM](https://archive.org/download/dainik_online-2022/dainik_online-2022-08-02T08:58:04.481005+05:45.hyperlinks.json) |
 | [August 1 at 8:41 PM](https://archive.org/download/dainik_online-2022/dainik_online-2022-08-01T20:41:01.771295+05:45.hyperlinks.json) |
 | [August 1 at 8:18 AM](https://archive.org/download/dainik_online-2022/dainik_online-2022-08-01T08:17:58.214076+05:45.hyperlinks.json) |
-| [July 31 at 8:18 PM](https://archive.org/download/dainik_online-2022/dainik_online-2022-07-31T20:18:53.234444+05:45.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 24 accessibility trees with the Internet Archive.
+The archiving routine has saved 25 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 5 at 11:02 PM](https://archive.org/download/dainik_online-2022/dainik_online-2022-08-05T23:02:40.707470+05:45.accessibility.json) |
 | [August 5 at 8:57 AM](https://archive.org/download/dainik_online-2022/dainik_online-2022-08-05T08:57:36.512379+05:45.accessibility.json) |
 | [August 4 at 9:02 PM](https://archive.org/download/dainik_online-2022/dainik_online-2022-08-04T21:02:44.278237+05:45.accessibility.json) |
 | [August 4 at 9:02 AM](https://archive.org/download/dainik_online-2022/dainik_online-2022-08-04T09:02:17.914494+05:45.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [August 2 at 8:58 AM](https://archive.org/download/dainik_online-2022/dainik_online-2022-08-02T08:58:04.481005+05:45.accessibility.json) |
 | [August 1 at 8:41 PM](https://archive.org/download/dainik_online-2022/dainik_online-2022-08-01T20:41:01.771295+05:45.accessibility.json) |
 | [August 1 at 8:18 AM](https://archive.org/download/dainik_online-2022/dainik_online-2022-08-01T08:17:58.214076+05:45.accessibility.json) |
-| [July 31 at 8:18 PM](https://archive.org/download/dainik_online-2022/dainik_online-2022-07-31T20:18:53.234444+05:45.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 24 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 25 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 5 at 11:02 PM](https://archive.org/download/dainik_online-2022/dainik_online-2022-08-05T23:02:40.707470+05:45.lighthouse.json) |
 | [August 5 at 8:57 AM](https://archive.org/download/dainik_online-2022/dainik_online-2022-08-05T08:57:36.512379+05:45.lighthouse.json) |
 | [August 4 at 9:02 PM](https://archive.org/download/dainik_online-2022/dainik_online-2022-08-04T21:02:44.278237+05:45.lighthouse.json) |
 | [August 4 at 9:02 AM](https://archive.org/download/dainik_online-2022/dainik_online-2022-08-04T09:02:17.914494+05:45.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 2 at 8:58 AM](https://archive.org/download/dainik_online-2022/dainik_online-2022-08-02T08:58:04.481005+05:45.lighthouse.json) |
 | [August 1 at 8:41 PM](https://archive.org/download/dainik_online-2022/dainik_online-2022-08-01T20:41:01.771295+05:45.lighthouse.json) |
 | [August 1 at 8:18 AM](https://archive.org/download/dainik_online-2022/dainik_online-2022-08-01T08:17:58.214076+05:45.lighthouse.json) |
-| [July 31 at 8:18 PM](https://archive.org/download/dainik_online-2022/dainik_online-2022-07-31T20:18:53.234444+05:45.lighthouse.json) |
 
 
 

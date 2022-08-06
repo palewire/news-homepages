@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 38 screenshots with the Internet Archive.
+The archiving routine has saved 40 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/thr-2022/thr-2022-08-05T10:33:34.948102-07:00.jpg">
+  <img src="https://archive.org/download/thr-2022/thr-2022-08-05T10:33:34.948102-07:00.jpg"
+     alt="Hollywood Reporter at 2022-08-05 10:33:36-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thr-2022/thr-2022-08-05T10:33:34.948102-07:00.jpg">August 5 at 10:33 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thr-2022/thr-2022-08-05T07:13:43.417082-07:00.jpg">
+  <img src="https://archive.org/download/thr-2022/thr-2022-08-05T07:13:43.417082-07:00.jpg"
+     alt="Hollywood Reporter at 2022-08-05 07:13:45-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thr-2022/thr-2022-08-05T07:13:43.417082-07:00.jpg">August 5 at 7:13 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/thr-2022/thr-2022-08-04T18:59:43.256266-07:00.jpg">
   <img src="https://archive.org/download/thr-2022/thr-2022-08-04T18:59:43.256266-07:00.jpg"
      alt="Hollywood Reporter at 2022-08-04 18:59:44-07:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thr-2022/thr-2022-07-31T06:33:42.796342-07:00.jpg">July 31 at 6:33 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thr-2022/thr-2022-07-30T19:49:56.353829-07:00.jpg">
-  <img src="https://archive.org/download/thr-2022/thr-2022-07-30T19:49:56.353829-07:00.jpg"
-     alt="Hollywood Reporter at 2022-07-30 19:49:58-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thr-2022/thr-2022-07-30T19:49:56.353829-07:00.jpg">July 30 at 7:49 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thr-2022/thr-2022-07-30T06:36:45.897455-07:00.jpg">
-  <img src="https://archive.org/download/thr-2022/thr-2022-07-30T06:36:45.897455-07:00.jpg"
-     alt="Hollywood Reporter at 2022-07-30 06:36:47-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thr-2022/thr-2022-07-30T06:36:45.897455-07:00.jpg">July 30 at 6:36 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 34 hyperlink lists with the Internet Archive.
+The archiving routine has saved 36 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 5 at 10:33 AM](https://archive.org/download/thr-2022/thr-2022-08-05T10:33:34.948102-07:00.hyperlinks.json) |
+| [August 5 at 7:13 AM](https://archive.org/download/thr-2022/thr-2022-08-05T07:13:43.417082-07:00.hyperlinks.json) |
 | [August 4 at 6:57 AM](https://archive.org/download/thr-2022/thr-2022-08-04T06:56:54.960711-07:00.hyperlinks.json) |
 | [August 3 at 8:11 PM](https://archive.org/download/thr-2022/thr-2022-08-03T20:11:28.809715-07:00.hyperlinks.json) |
 | [August 3 at 7:31 AM](https://archive.org/download/thr-2022/thr-2022-08-03T07:31:31.346362-07:00.hyperlinks.json) |
@@ -322,13 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 1 at 7:00 PM](https://archive.org/download/thr-2022/thr-2022-08-01T19:00:49.404232-07:00.hyperlinks.json) |
 | [August 1 at 7:50 AM](https://archive.org/download/thr-2022/thr-2022-08-01T07:50:12.052307-07:00.hyperlinks.json) |
 | [July 31 at 6:29 PM](https://archive.org/download/thr-2022/thr-2022-07-31T18:29:00.453468-07:00.hyperlinks.json) |
-| [July 31 at 6:33 AM](https://archive.org/download/thr-2022/thr-2022-07-31T06:33:42.796342-07:00.hyperlinks.json) |
-| [July 30 at 7:50 PM](https://archive.org/download/thr-2022/thr-2022-07-30T19:49:56.353829-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 37 accessibility trees with the Internet Archive.
+The archiving routine has saved 39 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 5 at 10:33 AM](https://archive.org/download/thr-2022/thr-2022-08-05T10:33:34.948102-07:00.accessibility.json) |
+| [August 5 at 7:13 AM](https://archive.org/download/thr-2022/thr-2022-08-05T07:13:43.417082-07:00.accessibility.json) |
 | [August 4 at 6:59 PM](https://archive.org/download/thr-2022/thr-2022-08-04T18:59:43.256266-07:00.accessibility.json) |
 | [August 4 at 6:56 AM](https://archive.org/download/thr-2022/thr-2022-08-04T06:56:54.960711-07:00.accessibility.json) |
 | [August 3 at 8:11 PM](https://archive.org/download/thr-2022/thr-2022-08-03T20:11:28.809715-07:00.accessibility.json) |
@@ -427,14 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 2 at 6:44 AM](https://archive.org/download/thr-2022/thr-2022-08-02T06:44:54.097409-07:00.accessibility.json) |
 | [August 1 at 7:00 PM](https://archive.org/download/thr-2022/thr-2022-08-01T19:00:49.404232-07:00.accessibility.json) |
 | [August 1 at 7:50 AM](https://archive.org/download/thr-2022/thr-2022-08-01T07:50:12.052307-07:00.accessibility.json) |
-| [July 31 at 6:29 PM](https://archive.org/download/thr-2022/thr-2022-07-31T18:29:00.453468-07:00.accessibility.json) |
-| [July 31 at 6:33 AM](https://archive.org/download/thr-2022/thr-2022-07-31T06:33:42.796342-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 26 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 28 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 5 at 10:33 AM](https://archive.org/download/thr-2022/thr-2022-08-05T10:33:34.948102-07:00.lighthouse.json) |
+| [August 5 at 7:13 AM](https://archive.org/download/thr-2022/thr-2022-08-05T07:13:43.417082-07:00.lighthouse.json) |
 | [August 4 at 6:59 PM](https://archive.org/download/thr-2022/thr-2022-08-04T18:59:43.256266-07:00.lighthouse.json) |
 | [August 4 at 6:57 AM](https://archive.org/download/thr-2022/thr-2022-08-04T06:56:54.960711-07:00.lighthouse.json) |
 | [August 3 at 8:11 PM](https://archive.org/download/thr-2022/thr-2022-08-03T20:11:28.809715-07:00.lighthouse.json) |
@@ -450,8 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 2 at 6:45 AM](https://archive.org/download/thr-2022/thr-2022-08-02T06:44:54.097409-07:00.lighthouse.json) |
 | [August 1 at 7:00 PM](https://archive.org/download/thr-2022/thr-2022-08-01T19:00:49.404232-07:00.lighthouse.json) |
 | [August 1 at 7:50 AM](https://archive.org/download/thr-2022/thr-2022-08-01T07:50:12.052307-07:00.lighthouse.json) |
-| [July 31 at 6:29 PM](https://archive.org/download/thr-2022/thr-2022-07-31T18:29:00.453468-07:00.lighthouse.json) |
-| [July 31 at 6:33 AM](https://archive.org/download/thr-2022/thr-2022-07-31T06:33:42.796342-07:00.lighthouse.json) |
 
 
 

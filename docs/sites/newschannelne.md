@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 12 screenshots with the Internet Archive.
+The archiving routine has saved 13 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-08-05T07:41:28.860257-05:00.jpg">
+  <img src="https://archive.org/download/newschannelne-2022/newschannelne-2022-08-05T07:41:28.860257-05:00.jpg"
+     alt="News Channel Nebraska at 2022-08-05 07:41:30-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-08-05T07:41:28.860257-05:00.jpg">August 5 at 7:41 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-08-04T20:45:45.868458-05:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-07-30T19:30:01.144582-05:00.jpg">July 30 at 7:30 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-07-30T14:34:48.046779-05:00.jpg">
-  <img src="https://archive.org/download/newschannelne-2022/newschannelne-2022-07-30T14:34:48.046779-05:00.jpg"
-     alt="News Channel Nebraska at 2022-07-30 14:34:53-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newschannelne-2022/newschannelne-2022-07-30T14:34:48.046779-05:00.jpg">July 30 at 2:34 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 12 hyperlink lists with the Internet Archive.
+The archiving routine has saved 13 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 5 at 7:41 AM](https://archive.org/download/newschannelne-2022/newschannelne-2022-08-05T07:41:28.860257-05:00.hyperlinks.json) |
 | [August 4 at 8:45 PM](https://archive.org/download/newschannelne-2022/newschannelne-2022-08-04T20:45:45.868458-05:00.hyperlinks.json) |
 | [August 4 at 7:37 AM](https://archive.org/download/newschannelne-2022/newschannelne-2022-08-04T07:37:51.348956-05:00.hyperlinks.json) |
 | [August 3 at 7:43 PM](https://archive.org/download/newschannelne-2022/newschannelne-2022-08-03T19:43:09.543391-05:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 1 at 7:40 PM](https://archive.org/download/newschannelne-2022/newschannelne-2022-08-01T19:40:12.503430-05:00.hyperlinks.json) |
 | [August 1 at 7:26 AM](https://archive.org/download/newschannelne-2022/newschannelne-2022-08-01T07:26:32.178361-05:00.hyperlinks.json) |
 | [July 31 at 7:22 PM](https://archive.org/download/newschannelne-2022/newschannelne-2022-07-31T19:22:07.206103-05:00.hyperlinks.json) |
-| [July 31 at 8:20 AM](https://archive.org/download/newschannelne-2022/newschannelne-2022-07-31T08:20:34.655708-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 12 accessibility trees with the Internet Archive.
+The archiving routine has saved 13 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 5 at 7:41 AM](https://archive.org/download/newschannelne-2022/newschannelne-2022-08-05T07:41:28.860257-05:00.accessibility.json) |
 | [August 4 at 8:45 PM](https://archive.org/download/newschannelne-2022/newschannelne-2022-08-04T20:45:45.868458-05:00.accessibility.json) |
 | [August 4 at 7:37 AM](https://archive.org/download/newschannelne-2022/newschannelne-2022-08-04T07:37:51.348956-05:00.accessibility.json) |
 | [August 3 at 7:43 PM](https://archive.org/download/newschannelne-2022/newschannelne-2022-08-03T19:43:09.543391-05:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [August 1 at 7:40 PM](https://archive.org/download/newschannelne-2022/newschannelne-2022-08-01T19:40:12.503430-05:00.accessibility.json) |
 | [August 1 at 7:26 AM](https://archive.org/download/newschannelne-2022/newschannelne-2022-08-01T07:26:32.178361-05:00.accessibility.json) |
 | [July 31 at 7:22 PM](https://archive.org/download/newschannelne-2022/newschannelne-2022-07-31T19:22:07.206103-05:00.accessibility.json) |
-| [July 31 at 8:20 AM](https://archive.org/download/newschannelne-2022/newschannelne-2022-07-31T08:20:34.655708-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 12 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 13 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 5 at 7:41 AM](https://archive.org/download/newschannelne-2022/newschannelne-2022-08-05T07:41:28.860257-05:00.lighthouse.json) |
 | [August 4 at 8:45 PM](https://archive.org/download/newschannelne-2022/newschannelne-2022-08-04T20:45:45.868458-05:00.lighthouse.json) |
 | [August 4 at 7:37 AM](https://archive.org/download/newschannelne-2022/newschannelne-2022-08-04T07:37:51.348956-05:00.lighthouse.json) |
 | [August 3 at 7:43 PM](https://archive.org/download/newschannelne-2022/newschannelne-2022-08-03T19:43:09.543391-05:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 1 at 7:40 PM](https://archive.org/download/newschannelne-2022/newschannelne-2022-08-01T19:40:12.503430-05:00.lighthouse.json) |
 | [August 1 at 7:26 AM](https://archive.org/download/newschannelne-2022/newschannelne-2022-08-01T07:26:32.178361-05:00.lighthouse.json) |
 | [July 31 at 7:22 PM](https://archive.org/download/newschannelne-2022/newschannelne-2022-07-31T19:22:07.206103-05:00.lighthouse.json) |
-| [July 31 at 8:20 AM](https://archive.org/download/newschannelne-2022/newschannelne-2022-07-31T08:20:34.655708-05:00.lighthouse.json) |
 
 
 

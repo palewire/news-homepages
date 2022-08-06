@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 65 screenshots with the Internet Archive.
+The archiving routine has saved 67 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-08-05T10:42:49.290499-07:00.jpg">
+  <img src="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-08-05T10:42:49.290499-07:00.jpg"
+     alt="Local News Matters at 2022-08-05 10:42:52-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-08-05T10:42:49.290499-07:00.jpg">August 5 at 10:42 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-08-05T07:04:50.425706-07:00.jpg">
+  <img src="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-08-05T07:04:50.425706-07:00.jpg"
+     alt="Local News Matters at 2022-08-05 07:04:53-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-08-05T07:04:50.425706-07:00.jpg">August 5 at 7:04 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-08-04T18:55:08.199980-07:00.jpg">
   <img src="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-08-04T18:55:08.199980-07:00.jpg"
      alt="Local News Matters at 2022-08-04 18:55:09-07:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-31T06:28:37.090213-07:00.jpg">July 31 at 6:28 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-30T19:44:14.947620-07:00.jpg">
-  <img src="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-30T19:44:14.947620-07:00.jpg"
-     alt="Local News Matters at 2022-07-30 19:44:16-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-30T19:44:14.947620-07:00.jpg">July 30 at 7:44 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-30T06:31:36.608281-07:00.jpg">
-  <img src="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-30T06:31:36.608281-07:00.jpg"
-     alt="Local News Matters at 2022-07-30 06:31:38-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-30T06:31:36.608281-07:00.jpg">July 30 at 6:31 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 65 hyperlink lists with the Internet Archive.
+The archiving routine has saved 67 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 5 at 10:42 AM](https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-08-05T10:42:49.290499-07:00.hyperlinks.json) |
+| [August 5 at 7:04 AM](https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-08-05T07:04:50.425706-07:00.hyperlinks.json) |
 | [August 4 at 6:55 PM](https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-08-04T18:55:08.199980-07:00.hyperlinks.json) |
 | [August 4 at 6:50 AM](https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-08-04T06:50:40.083033-07:00.hyperlinks.json) |
 | [August 3 at 8:05 PM](https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-08-03T20:05:05.797001-07:00.hyperlinks.json) |
@@ -322,13 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 2 at 6:40 AM](https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-08-02T06:40:00.300940-07:00.hyperlinks.json) |
 | [August 1 at 6:54 PM](https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-08-01T18:54:41.995250-07:00.hyperlinks.json) |
 | [August 1 at 7:44 AM](https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-08-01T07:44:21.704828-07:00.hyperlinks.json) |
-| [July 31 at 6:23 PM](https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-31T18:23:42.975379-07:00.hyperlinks.json) |
-| [July 31 at 6:28 AM](https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-31T06:28:37.090213-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 65 accessibility trees with the Internet Archive.
+The archiving routine has saved 67 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 5 at 10:42 AM](https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-08-05T10:42:49.290499-07:00.accessibility.json) |
+| [August 5 at 7:04 AM](https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-08-05T07:04:50.425706-07:00.accessibility.json) |
 | [August 4 at 6:55 PM](https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-08-04T18:55:08.199980-07:00.accessibility.json) |
 | [August 4 at 6:50 AM](https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-08-04T06:50:40.083033-07:00.accessibility.json) |
 | [August 3 at 8:05 PM](https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-08-03T20:05:05.797001-07:00.accessibility.json) |
@@ -427,14 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 2 at 6:40 AM](https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-08-02T06:40:00.300940-07:00.accessibility.json) |
 | [August 1 at 6:54 PM](https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-08-01T18:54:41.995250-07:00.accessibility.json) |
 | [August 1 at 7:44 AM](https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-08-01T07:44:21.704828-07:00.accessibility.json) |
-| [July 31 at 6:23 PM](https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-31T18:23:42.975379-07:00.accessibility.json) |
-| [July 31 at 6:28 AM](https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-31T06:28:37.090213-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 26 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 28 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 5 at 10:42 AM](https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-08-05T10:42:49.290499-07:00.lighthouse.json) |
+| [August 5 at 7:04 AM](https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-08-05T07:04:50.425706-07:00.lighthouse.json) |
 | [August 4 at 6:55 PM](https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-08-04T18:55:08.199980-07:00.lighthouse.json) |
 | [August 4 at 6:50 AM](https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-08-04T06:50:40.083033-07:00.lighthouse.json) |
 | [August 3 at 8:05 PM](https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-08-03T20:05:05.797001-07:00.lighthouse.json) |
@@ -450,8 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 2 at 6:40 AM](https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-08-02T06:40:00.300940-07:00.lighthouse.json) |
 | [August 1 at 6:54 PM](https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-08-01T18:54:41.995250-07:00.lighthouse.json) |
 | [August 1 at 7:44 AM](https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-08-01T07:44:21.704828-07:00.lighthouse.json) |
-| [July 31 at 6:23 PM](https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-31T18:23:42.975379-07:00.lighthouse.json) |
-| [July 31 at 6:28 AM](https://archive.org/download/bcn_foundation-2022/bcn_foundation-2022-07-31T06:28:37.090213-07:00.lighthouse.json) |
 
 
 

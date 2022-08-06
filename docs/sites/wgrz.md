@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 5 screenshots with the Internet Archive.
+The archiving routine has saved 7 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wgrz-2022/wgrz-2022-08-05T13:39:16.294903-04:00.jpg">
+  <img src="https://archive.org/download/wgrz-2022/wgrz-2022-08-05T13:39:16.294903-04:00.jpg"
+     alt="WGRZ at 2022-08-05 13:39:17-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wgrz-2022/wgrz-2022-08-05T13:39:16.294903-04:00.jpg">August 5 at 1:39 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wgrz-2022/wgrz-2022-08-05T10:17:16.061914-04:00.jpg">
+  <img src="https://archive.org/download/wgrz-2022/wgrz-2022-08-05T10:17:16.061914-04:00.jpg"
+     alt="WGRZ at 2022-08-05 10:17:17-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wgrz-2022/wgrz-2022-08-05T10:17:16.061914-04:00.jpg">August 5 at 10:17 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wgrz-2022/wgrz-2022-08-04T22:02:34.223361-04:00.jpg">
@@ -77,7 +95,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 5 hyperlink lists with the Internet Archive.
+The archiving routine has saved 7 hyperlink lists with the Internet Archive.
 
 
 
@@ -85,6 +103,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 5 at 1:39 PM](https://archive.org/download/wgrz-2022/wgrz-2022-08-05T13:39:16.294903-04:00.hyperlinks.json) |
+| [August 5 at 10:17 AM](https://archive.org/download/wgrz-2022/wgrz-2022-08-05T10:17:16.061914-04:00.hyperlinks.json) |
 | [August 4 at 10:02 PM](https://archive.org/download/wgrz-2022/wgrz-2022-08-04T22:02:34.223361-04:00.hyperlinks.json) |
 | [August 4 at 9:59 AM](https://archive.org/download/wgrz-2022/wgrz-2022-08-04T09:59:51.058807-04:00.hyperlinks.json) |
 | [August 3 at 11:13 PM](https://archive.org/download/wgrz-2022/wgrz-2022-08-03T23:13:39.968054-04:00.hyperlinks.json) |
@@ -94,7 +114,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 5 accessibility trees with the Internet Archive.
+The archiving routine has saved 7 accessibility trees with the Internet Archive.
 
 
 
@@ -102,6 +122,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 5 at 1:39 PM](https://archive.org/download/wgrz-2022/wgrz-2022-08-05T13:39:16.294903-04:00.accessibility.json) |
+| [August 5 at 10:17 AM](https://archive.org/download/wgrz-2022/wgrz-2022-08-05T10:17:16.061914-04:00.accessibility.json) |
 | [August 4 at 10:02 PM](https://archive.org/download/wgrz-2022/wgrz-2022-08-04T22:02:34.223361-04:00.accessibility.json) |
 | [August 4 at 9:59 AM](https://archive.org/download/wgrz-2022/wgrz-2022-08-04T09:59:51.058807-04:00.accessibility.json) |
 | [August 3 at 11:13 PM](https://archive.org/download/wgrz-2022/wgrz-2022-08-03T23:13:39.968054-04:00.accessibility.json) |
