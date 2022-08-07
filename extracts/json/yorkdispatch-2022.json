@@ -1,5 +1,5 @@
 {
-  "created": 1659833913,
+  "created": 1659847911,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/26/items/yorkdispatch-2022",
@@ -1544,31 +1544,83 @@
       "sha1": "2e0532b4bc5a1593b46a0ef3a6d23f6cf585c5f6"
     },
     {
+      "name": "yorkdispatch-2022-08-07T00:50:22.096712-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659847825",
+      "size": "20578",
+      "md5": "f27aec7e74b46df09a65a8f4e419fdef",
+      "crc32": "9f8d5b3d",
+      "sha1": "e058ebf4d2ca1297586cbaaf2a55ab3ff658d0ca",
+      "format": "JSON"
+    },
+    {
+      "name": "yorkdispatch-2022-08-07T00:50:22.096712-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659847826",
+      "size": "30465",
+      "md5": "296406e5bb068348edd1a2d6c3aad82b",
+      "crc32": "b620b9ba",
+      "sha1": "681dbd3e9a8cbc215cb1d9c9835f19dea45a8bc4",
+      "format": "JSON"
+    },
+    {
+      "name": "yorkdispatch-2022-08-07T00:50:22.096712-04:00.jpg",
+      "source": "original",
+      "mtime": "1659847823",
+      "size": "288753",
+      "md5": "65cf4c5485ff907a52c0021579850c2c",
+      "crc32": "176df177",
+      "sha1": "65747f2d976022cadad34417c412a72465cdf1af",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "yorkdispatch-2022-08-07T00:50:22.096712-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659847828",
+      "size": "1511",
+      "md5": "2f635fa252267999e8d9bdb75a079758",
+      "crc32": "3ac35e40",
+      "sha1": "c83416c2f2514901602c560acfa9339b89bb21e0",
+      "format": "JSON"
+    },
+    {
+      "name": "yorkdispatch-2022-08-07T00:50:22.096712-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "yorkdispatch-2022-08-07T00:50:22.096712-04:00.jpg",
+      "mtime": "1659847897",
+      "size": "9547",
+      "md5": "d1020bb4b1e3e2bf912ed010fe1aba5c",
+      "crc32": "ed671f70",
+      "sha1": "3fa8ea602a7b842c329ededfbc22cf8fb89b83ba"
+    },
+    {
       "name": "yorkdispatch-2022_archive.torrent",
       "source": "metadata",
-      "btih": "16f6da40d91f1751fde8b54fca0ad2a6ec2e999d",
-      "mtime": "1659803652",
-      "size": "33196",
-      "md5": "6a2bc7c20e7b67b8b03d6a91e0df9f92",
-      "crc32": "c49c2815",
-      "sha1": "0f116a43ffa5da1d8c38439269511c567bce95f3",
+      "btih": "080fe6536acb0aa436848ede630c6b1c644cfecc",
+      "mtime": "1659847902",
+      "size": "34255",
+      "md5": "a7e52a3c6d4913600b414c0374cafbc4",
+      "crc32": "af961128",
+      "sha1": "ab3a21709dbe19b6504e03d320ed887730331be3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "yorkdispatch-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "38bfa413303f338aacc696844af18236",
+      "md5": "4c5efb8ad98e5c5390cf5a724136b013",
       "summation": "md5"
     },
     {
       "name": "yorkdispatch-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659803590",
-      "size": "204800",
-      "md5": "391614ed2727ee3ebbfcfa0462097b25",
-      "crc32": "4fec2574",
-      "sha1": "f0e7451a1155db6120a1de952cc35e6fa7b07e68",
+      "mtime": "1659847835",
+      "size": "208896",
+      "md5": "804702d3030ebbdc8da650ff55574ea2",
+      "crc32": "8848b4b0",
+      "sha1": "39c93dcd2a03a7792accf26f028508207c65e2ee",
       "format": "Metadata"
     },
     {
@@ -1582,9 +1634,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 152,
-  "item_last_updated": 1659803652,
-  "item_size": 10590252,
+  "files_count": 157,
+  "item_last_updated": 1659847902,
+  "item_size": 10946261,
   "metadata": {
     "identifier": "yorkdispatch-2022",
     "collection": [
@@ -1602,14 +1654,9 @@
     "addeddate": "2022-07-23 16:10:31"
   },
   "server": "ia601506.us.archive.org",
-  "uniq": 497404281,
+  "uniq": 2138239363,
   "workable_servers": [
     "ia601506.us.archive.org",
     "ia801506.us.archive.org"
-  ],
-  "yorkdispatch-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  }
+  ]
 }

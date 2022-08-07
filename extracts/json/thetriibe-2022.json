@@ -1,5 +1,5 @@
 {
-  "created": 1659804427,
+  "created": 1659876570,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/3/items/thetriibe-2022",
@@ -7160,31 +7160,93 @@
       "sha1": "b9c078ee2746f6ba023650628c1aa0fc4cbfe07b"
     },
     {
+      "name": "thetriibe-2022-08-06T22:13:28.673583-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659842012",
+      "size": "8982",
+      "md5": "32c6ae6490d86fad945acaa9a6c4401e",
+      "crc32": "b25fa63a",
+      "sha1": "de18752b035fc2faa978deb39c813633fac526ee",
+      "format": "JSON"
+    },
+    {
+      "name": "thetriibe-2022-08-06T22:13:28.673583-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659842014",
+      "size": "8488",
+      "md5": "d1a2fc29bd74f2974b5788aff6a1e8d1",
+      "crc32": "1ae4d2ff",
+      "sha1": "64c15f05938bc5eb237bf9487daf83a268eb890e",
+      "format": "JSON"
+    },
+    {
+      "name": "thetriibe-2022-08-06T22:13:28.673583-05:00.jpg",
+      "source": "original",
+      "mtime": "1659842010",
+      "size": "364750",
+      "md5": "248ca691de7587fdb4b0ccbb5040e6fd",
+      "crc32": "a6efd5ec",
+      "sha1": "a1aa5f210f4eed19eb62b5d6ab87fa0cb045c739",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thetriibe-2022-08-06T22:13:28.673583-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659842015",
+      "size": "1450",
+      "md5": "8e9aabc9b923ff31b81de52e4f0b871c",
+      "crc32": "add6d646",
+      "sha1": "d40ec1fb76734b078e3ab6dec2f34b08585dd9e2",
+      "format": "JSON"
+    },
+    {
+      "name": "thetriibe-2022-08-06T22:13:28.673583-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1659842017",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thetriibe-2022-08-06T22:13:28.673583-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thetriibe-2022-08-06T22:13:28.673583-05:00.jpg",
+      "mtime": "1659842079",
+      "size": "11896",
+      "md5": "9279148938220b937211657a8ed02cca",
+      "crc32": "6ffc618d",
+      "sha1": "fabb700c3005bc9e1c71fe059cc9504c35a497f5"
+    },
+    {
       "name": "thetriibe-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c6bb93c4c43a39cb44a71259e40e046e58546d4f",
-      "mtime": "1659804416",
-      "size": "145831",
-      "md5": "dc7816ce0e730885c5fc55ff29f85611",
-      "crc32": "82d211df",
-      "sha1": "f4de99bd28687f0519b93fdef6064760caeef3d1",
+      "btih": "9bf051c98eb236a599f476341c41a1502c1d684d",
+      "mtime": "1659842090",
+      "size": "147101",
+      "md5": "786bdab8a327d4f508360018d6d6479c",
+      "crc32": "d29cd3eb",
+      "sha1": "b3f3e8cb9558eeb8f4437ee24dce345574bb170e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thetriibe-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0e7457e4483f5d2cae9925e59f8a3956",
+      "md5": "325a8a7e4c6d0f1313b5b1ebdb83e1e7",
       "summation": "md5"
     },
     {
       "name": "thetriibe-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659804331",
-      "size": "823296",
-      "md5": "02cda6ce4d549d9dc5eac6c672e9a284",
-      "crc32": "ee360a69",
-      "sha1": "27cf5f18c127970f16f6383fb2d8c72c736267f3",
+      "mtime": "1659842022",
+      "size": "827392",
+      "md5": "e07409e3052af5d34e6e3859e23c80e6",
+      "crc32": "bb566700",
+      "sha1": "cf6532e7e9ae698ce3c3993d8b4f070160538565",
       "format": "Metadata"
     },
     {
@@ -7198,9 +7260,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 688,
-  "item_last_updated": 1659804416,
-  "item_size": 54381169,
+  "files_count": 694,
+  "item_last_updated": 1659842090,
+  "item_size": 54782303,
   "metadata": {
     "identifier": "thetriibe-2022",
     "collection": [
@@ -7217,10 +7279,15 @@
     "publicdate": "2022-06-19 23:29:01",
     "addeddate": "2022-06-19 23:29:01"
   },
-  "server": "ia801508.us.archive.org",
-  "uniq": 639334119,
+  "server": "ia601508.us.archive.org",
+  "thetriibe-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 1337466214,
   "workable_servers": [
-    "ia801508.us.archive.org",
-    "ia601508.us.archive.org"
+    "ia601508.us.archive.org",
+    "ia801508.us.archive.org"
   ]
 }

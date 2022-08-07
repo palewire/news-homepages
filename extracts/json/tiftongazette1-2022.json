@@ -1,5 +1,5 @@
 {
-  "created": 1659833699,
+  "created": 1659842040,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/15/items/tiftongazette1-2022",
@@ -1670,31 +1670,83 @@
       "sha1": "154a734096a3142fc73c1449a5b0751aa134d9a6"
     },
     {
+      "name": "tiftongazette1-2022-08-06T23:12:29.490651-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659841953",
+      "size": "50225",
+      "md5": "dd6309dfd00f120375fdb8c058ca1952",
+      "crc32": "10031ba3",
+      "sha1": "f4bbc7ee487508bc2e24929970ad64ca3b1de98a",
+      "format": "JSON"
+    },
+    {
+      "name": "tiftongazette1-2022-08-06T23:12:29.490651-04:00.jpg",
+      "source": "original",
+      "mtime": "1659841952",
+      "size": "298866",
+      "md5": "4366a336185611cc5486fd6ce55cdbd5",
+      "crc32": "6e142ed2",
+      "sha1": "f8fa570b50700b498b1dfa45aafb11f0644f037d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tiftongazette1-2022-08-06T23:12:29.490651-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659841955",
+      "size": "1522",
+      "md5": "51f95d6e16c9ec7ccca2b5c53717822b",
+      "crc32": "3194fb7e",
+      "sha1": "70ff3e8e505c6610717f91f0ca946ea820cd55f5",
+      "format": "JSON"
+    },
+    {
+      "name": "tiftongazette1-2022-08-06T23:12:29.490651-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659841957",
+      "size": "76584",
+      "md5": "fdaf575b71c39b274ba285e6b295554b",
+      "crc32": "3df3734d",
+      "sha1": "e2e2b50722b20ad97691874b6eabf581ebc18f41",
+      "format": "JSON"
+    },
+    {
+      "name": "tiftongazette1-2022-08-06T23:12:29.490651-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tiftongazette1-2022-08-06T23:12:29.490651-04:00.jpg",
+      "mtime": "1659842008",
+      "size": "9975",
+      "md5": "32b6f2c40e528efb8cb87a9190d16149",
+      "crc32": "469d9623",
+      "sha1": "3f12dea72a7634dcafc20177827b4e390fe0a75a"
+    },
+    {
       "name": "tiftongazette1-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2c8590bbb21daee1ff19281b9c438e16afe1a26b",
-      "mtime": "1659794326",
-      "size": "35885",
-      "md5": "a8737b60ebb04a1af7c5930c46b8e8c5",
-      "crc32": "3257b634",
-      "sha1": "5ccb97cb8c20b46ed824c30ada15a80d473219db",
+      "btih": "f954b7e95aaa1272cd6a0969e5f188226899ecb8",
+      "mtime": "1659842014",
+      "size": "36968",
+      "md5": "1ca409a5fe7f559c0c97264361b0f89f",
+      "crc32": "7f6bfd8b",
+      "sha1": "a8810ecf7af081cc22e5c1bd6bc2c9fada6d88fe",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tiftongazette1-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "09ccdca6b769982b111a5dbe06681c0e",
+      "md5": "fc9e22614562e6617ab65503567a96e6",
       "summation": "md5"
     },
     {
       "name": "tiftongazette1-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659794255",
-      "size": "208896",
-      "md5": "da4a7d1ab85eac456d60a4ea43577848",
-      "crc32": "8161e14f",
-      "sha1": "6402b7911884e711e8dd44d96ea05f63217ed7c9",
+      "mtime": "1659841961",
+      "size": "217088",
+      "md5": "cf3ec8717f6180e170bd7e9fcf0780c8",
+      "crc32": "4f5cf7ee",
+      "sha1": "b4a0e052807d8b0899505f63518528c3d00a4f79",
       "format": "Metadata"
     },
     {
@@ -1708,9 +1760,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 163,
-  "item_last_updated": 1659794326,
-  "item_size": 14416103,
+  "files_count": 168,
+  "item_last_updated": 1659842014,
+  "item_size": 14862550,
   "metadata": {
     "identifier": "tiftongazette1-2022",
     "collection": [
@@ -1727,15 +1779,10 @@
     "publicdate": "2022-07-20 23:31:20",
     "addeddate": "2022-07-20 23:31:20"
   },
-  "server": "ia902506.us.archive.org",
-  "tiftongazette1-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "uniq": 1990728553,
+  "server": "ia802506.us.archive.org",
+  "uniq": 767574806,
   "workable_servers": [
-    "ia902506.us.archive.org",
-    "ia802506.us.archive.org"
+    "ia802506.us.archive.org",
+    "ia902506.us.archive.org"
   ]
 }

@@ -1,5 +1,6 @@
 {
-  "created": 1659833092,
+  "conflict": 1659876129,
+  "created": 1659876129,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/21/items/npr-2022",
@@ -8439,10 +8440,21 @@
     "publicdate": "2022-06-24 22:58:47",
     "addeddate": "2022-06-24 22:58:47"
   },
+  "pending_tasks": true,
   "server": "ia601409.us.archive.org",
-  "uniq": 542561675,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3356001162,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1610848450,
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia601409.us.archive.org"
   ]
 }

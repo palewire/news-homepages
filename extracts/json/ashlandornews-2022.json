@@ -1,5 +1,5 @@
 {
-  "created": 1659832071,
+  "created": 1659875039,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/1/items/ashlandornews-2022",
@@ -2824,31 +2824,93 @@
       "sha1": "db6bcafeca439bb289cb2357848750f809190be1"
     },
     {
+      "name": "ashlandornews-2022-08-07T05:21:48.041510-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659874913",
+      "size": "23832",
+      "md5": "b1b7ac78d297975dcf196646506a4ff3",
+      "crc32": "dfe6e20a",
+      "sha1": "fb84af8b12007c9f05a3b2a0cb88af3095caf245",
+      "format": "JSON"
+    },
+    {
+      "name": "ashlandornews-2022-08-07T05:21:48.041510-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659874915",
+      "size": "20386",
+      "md5": "d8df929fec8b28e42ebe59c7f1e920a8",
+      "crc32": "323e231f",
+      "sha1": "5af248cbb95050f10b150c0b1b2492d2b0de4e65",
+      "format": "JSON"
+    },
+    {
+      "name": "ashlandornews-2022-08-07T05:21:48.041510-07:00.jpg",
+      "source": "original",
+      "mtime": "1659874911",
+      "size": "333823",
+      "md5": "ea6f2a1a3b2ca270cee4022678117d96",
+      "crc32": "60088f3b",
+      "sha1": "7c30354cb0f1db494acd1db7ac629031fa5d1f31",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ashlandornews-2022-08-07T05:21:48.041510-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659874917",
+      "size": "1432",
+      "md5": "2cba3bcbf7ebb56094902c261b2162bc",
+      "crc32": "86deb10e",
+      "sha1": "f4a31dd4c8c8fae3df897faef45d604a416fe401",
+      "format": "JSON"
+    },
+    {
+      "name": "ashlandornews-2022-08-07T05:21:48.041510-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1659874918",
+      "size": "10928",
+      "md5": "6058950a70a794dfc1065a6e946a63a4",
+      "crc32": "4637a3cb",
+      "sha1": "bd8bb645ac76955f40611eff38c45dfb8e63a190",
+      "format": "JSON"
+    },
+    {
+      "name": "ashlandornews-2022-08-07T05:21:48.041510-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ashlandornews-2022-08-07T05:21:48.041510-07:00.jpg",
+      "mtime": "1659875028",
+      "size": "9375",
+      "md5": "71dc33672b982e1f7e6e1a5d07bd3275",
+      "crc32": "81c42bcb",
+      "sha1": "21314bbf34b8ac8dcc87c2cb88e67e2356caffe1"
+    },
+    {
       "name": "ashlandornews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b92a7da0a09908a886bd17a781bf7d83420b30d7",
-      "mtime": "1659832048",
-      "size": "59770",
-      "md5": "85ab311ff86b6d7312808904bb5aeabf",
-      "crc32": "a94d06a1",
-      "sha1": "438e28895c975aea199b98c335ab4780f9f2ae25",
+      "btih": "ef8f421e13e4cf9811c2c5da238ceba7e3ccdff1",
+      "mtime": "1659875032",
+      "size": "61067",
+      "md5": "ddc2f47d5bb6e54289beaeaaf4efe6c6",
+      "crc32": "c35ce9cb",
+      "sha1": "fbf275b4a11918bb4f5a2cba17950bc4270514d1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ashlandornews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4c29bdbc8c9cf359707bcbdbf00c5d0c",
+      "md5": "6f0736cf7456e905fbb232cccf2ee463",
       "summation": "md5"
     },
     {
       "name": "ashlandornews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659831937",
-      "size": "344064",
-      "md5": "e69694326ba2b3e0c575515a084c8454",
-      "crc32": "f36b01ab",
-      "sha1": "b7f449b16e31f3d6567c973eea71b53ee6374520",
+      "mtime": "1659874922",
+      "size": "352256",
+      "md5": "72903a6e199655d442575cbf0a6ae357",
+      "crc32": "bb21dc7c",
+      "sha1": "ff938c7835f9d067ccca155ac8eea42a069c4ca4",
       "format": "Metadata"
     },
     {
@@ -2862,9 +2924,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 274,
-  "item_last_updated": 1659832048,
-  "item_size": 24394273,
+  "files_count": 280,
+  "item_last_updated": 1659875032,
+  "item_size": 24803538,
   "metadata": {
     "identifier": "ashlandornews-2022",
     "collection": [
@@ -2881,10 +2943,10 @@
     "publicdate": "2022-07-09 03:55:50",
     "addeddate": "2022-07-09 03:55:50"
   },
-  "server": "ia601408.us.archive.org",
-  "uniq": 1175051558,
+  "server": "ia801408.us.archive.org",
+  "uniq": 20869123,
   "workable_servers": [
-    "ia601408.us.archive.org",
-    "ia801408.us.archive.org"
+    "ia801408.us.archive.org",
+    "ia601408.us.archive.org"
   ]
 }

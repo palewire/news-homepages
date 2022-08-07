@@ -1,5 +1,5 @@
 {
-  "created": 1659833244,
+  "created": 1659876219,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/13/items/pajaropolitico-2022",
@@ -20453,21 +20453,32 @@
       "format": "JSON"
     },
     {
+      "name": "pajaropolitico-2022-08-06T19:45:34.474150-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pajaropolitico-2022-08-06T19:45:34.474150-05:00.jpg",
+      "mtime": "1659833348",
+      "size": "9935",
+      "md5": "9c32afb663a8c74429c81e65712d0f8f",
+      "crc32": "03f8b9b5",
+      "sha1": "82c9ac016d96be9f7ff4d453be41dc106ab1d5b8"
+    },
+    {
       "name": "pajaropolitico-2022_archive.torrent",
       "source": "metadata",
-      "btih": "74c017b7f511a940dd5dfb30ed9db3a2bfb6293a",
-      "mtime": "1659833240",
-      "size": "423111",
-      "md5": "88ce8bdb9d6d8994fcbe2984d1440cc9",
-      "crc32": "a5cb6491",
-      "sha1": "14182251c6466513365e75f300a7fad894152726",
+      "btih": "c1015b6aebe7a607b0497d8b2ce1c67dcad3e762",
+      "mtime": "1659833384",
+      "size": "423321",
+      "md5": "4051b9e83841d7f8d89132a6a0ddc841",
+      "crc32": "b820492c",
+      "sha1": "fcf393973d65257e95db6d1f6f03c9859ba31a63",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pajaropolitico-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1e8b15058ee9113bad55041781e942fc",
+      "md5": "80b7911290ad9b73aa71e7b13ed1507d",
       "summation": "md5"
     },
     {
@@ -20491,9 +20502,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1953,
-  "item_last_updated": 1659833240,
-  "item_size": 154775476,
+  "files_count": 1954,
+  "item_last_updated": 1659833384,
+  "item_size": 154785621,
   "metadata": {
     "identifier": "pajaropolitico-2022",
     "collection": [
@@ -20510,21 +20521,15 @@
     "publicdate": "2022-04-15 20:41:09",
     "addeddate": "2022-04-15 20:41:09"
   },
-  "pending_tasks": true,
+  "pajaropolitico-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "server": "ia902505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3355385118,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1150859829,
+  "uniq": 980991435,
   "workable_servers": [
-    "ia902505.us.archive.org"
+    "ia902505.us.archive.org",
+    "ia802505.us.archive.org"
   ]
 }

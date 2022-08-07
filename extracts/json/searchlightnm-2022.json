@@ -1,6 +1,5 @@
 {
-  "conflict": 1659833390,
-  "created": 1659833390,
+  "created": 1659833465,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/1/items/searchlightnm-2022",
@@ -5654,29 +5653,10 @@
     "publicdate": "2022-06-19 23:28:31",
     "addeddate": "2022-06-19 23:28:31"
   },
-  "pending_tasks": true,
-  "server": "ia601500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3355386394,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3355387067,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 944839340,
+  "server": "ia801500.us.archive.org",
+  "uniq": 1035785403,
   "workable_servers": [
+    "ia801500.us.archive.org",
     "ia601500.us.archive.org"
   ]
 }

@@ -1,5 +1,6 @@
 {
-  "created": 1659833370,
+  "conflict": 1659876304,
+  "created": 1659876304,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/16/items/revistaistoe-2022",
@@ -617,21 +618,32 @@
       "format": "JSON"
     },
     {
+      "name": "revistaistoe-2022-08-06T21:48:40.829344-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "revistaistoe-2022-08-06T21:48:40.829344-03:00.jpg",
+      "mtime": "1659833415",
+      "size": "10392",
+      "md5": "1acf975415eb7d03d940ad10dc9f6518",
+      "crc32": "9b8914a6",
+      "sha1": "5c992f5e765165fcb54651443959fdfd5dfd72a8"
+    },
+    {
       "name": "revistaistoe-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7287db1cf69b1fc1a015b938b10515931db5f406",
-      "mtime": "1659833367",
-      "size": "14096",
-      "md5": "901a9909507605bc069dde175b63e84c",
-      "crc32": "1ba93f3a",
-      "sha1": "f898b2473b3cb1131063f53d39c812cdb1a5625c",
+      "btih": "c2e99ce486b25f75cc447736decf49309a3c242b",
+      "mtime": "1659833418",
+      "size": "14305",
+      "md5": "91005ae8766256277b7a8a7624575db8",
+      "crc32": "ee0d102c",
+      "sha1": "bfb83726003686f66ecbe1d428ed8fc88c8dce0c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "revistaistoe-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5ed7acd021f9236d1cc56cb2e9e7041e",
+      "md5": "c11aa30712bd0840bebb0a5fb847ce5c",
       "summation": "md5"
     },
     {
@@ -655,9 +667,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 63,
-  "item_last_updated": 1659833367,
-  "item_size": 3993520,
+  "files_count": 64,
+  "item_last_updated": 1659833418,
+  "item_size": 4004121,
   "metadata": {
     "identifier": "revistaistoe-2022",
     "collection": [
@@ -679,15 +691,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3355386732,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3356002455,
+      "cmd": "archive.php",
+      "priority": -5,
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
     }
   ],
-  "uniq": 2073327192,
+  "uniq": 952961743,
   "workable_servers": [
     "ia601403.us.archive.org"
   ]

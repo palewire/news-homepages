@@ -1,5 +1,6 @@
 {
-  "created": 1659833165,
+  "conflict": 1659876132,
+  "created": 1659876132,
   "d1": "ia601002.us.archive.org",
   "d2": "ia801002.us.archive.org",
   "dir": "/8/items/nro-2022",
@@ -10439,10 +10440,21 @@
     "publicdate": "2022-03-25 18:26:53",
     "addeddate": "2022-03-25 18:26:53"
   },
-  "server": "ia801002.us.archive.org",
-  "uniq": 1117021842,
+  "pending_tasks": true,
+  "server": "ia601002.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3356001096,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 181788915,
   "workable_servers": [
-    "ia801002.us.archive.org",
     "ia601002.us.archive.org"
   ]
 }

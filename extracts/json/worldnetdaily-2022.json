@@ -1,5 +1,5 @@
 {
-  "created": 1659833880,
+  "created": 1659847989,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/13/items/worldnetdaily-2022",
@@ -2968,31 +2968,93 @@
       "sha1": "5eda3795cc9944851918c76b661a8e2c67f7120a"
     },
     {
+      "name": "worldnetdaily-2022-08-07T00:49:41.866446-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659847784",
+      "size": "21590",
+      "md5": "d63fedc073cebfe10e58c49c99c1342a",
+      "crc32": "9e1af3a4",
+      "sha1": "5c0aab0e9a4dcc64c404cd313474f11c3ea2282c",
+      "format": "JSON"
+    },
+    {
+      "name": "worldnetdaily-2022-08-07T00:49:41.866446-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659847787",
+      "size": "49583",
+      "md5": "bcd7a730034583f70bc6cc8c7473bba8",
+      "crc32": "a603e9d6",
+      "sha1": "aba780348ddac41ad9be2906a7bb5a7a8ad02b16",
+      "format": "JSON"
+    },
+    {
+      "name": "worldnetdaily-2022-08-07T00:49:41.866446-04:00.jpg",
+      "source": "original",
+      "mtime": "1659847782",
+      "size": "335680",
+      "md5": "3e9584024d7e782d1ebde550306c3030",
+      "crc32": "3a995a28",
+      "sha1": "dc67185f9a7633cbd076220f52e8897068c131dd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "worldnetdaily-2022-08-07T00:49:41.866446-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659847788",
+      "size": "1432",
+      "md5": "22726162372bda9b7c8478d34b137545",
+      "crc32": "e394d977",
+      "sha1": "a541a92e373a01a70f1d4e9d7d16ce5874e6cca0",
+      "format": "JSON"
+    },
+    {
+      "name": "worldnetdaily-2022-08-07T00:49:41.866446-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659847789",
+      "size": "96",
+      "md5": "37d08b1b3f65da8b429f819ca8697d77",
+      "crc32": "bb4726ee",
+      "sha1": "7954f51c7ead634c3d91a17b1ce0709f7c5371d5",
+      "format": "JSON"
+    },
+    {
+      "name": "worldnetdaily-2022-08-07T00:49:41.866446-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "worldnetdaily-2022-08-07T00:49:41.866446-04:00.jpg",
+      "mtime": "1659847872",
+      "size": "12076",
+      "md5": "740f14bcf208cca1007b3c40246c16fb",
+      "crc32": "08ce0242",
+      "sha1": "1fd96629dc742ad6c968bf8f76f6f21a8ef9b584"
+    },
+    {
       "name": "worldnetdaily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "10dc1d4a24a470e1a34b32779dee9b4cb33c270f",
-      "mtime": "1659811346",
-      "size": "62879",
-      "md5": "c61ce4d95c9c185f3a276e937ea69dcf",
-      "crc32": "6350c45a",
-      "sha1": "67eb124dec50195a2ac1292535ac94aa0d53a878",
+      "btih": "3451c827491e01ea38144d405f634bb4850380cc",
+      "mtime": "1659847879",
+      "size": "64174",
+      "md5": "8166fff0980eca1c222c98b6046051c0",
+      "crc32": "1b6ff9f9",
+      "sha1": "aa78dd3b08174ca738ff167a7f05adb4ff464866",
       "format": "Archive BitTorrent"
     },
     {
       "name": "worldnetdaily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "783e1321ecbd134ee62806e20daa8fb9",
+      "md5": "8b986839df389b4ab869d84708f3ed90",
       "summation": "md5"
     },
     {
       "name": "worldnetdaily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659811289",
-      "size": "360448",
-      "md5": "94f51b5ee62dcee4fc987fe622aef92f",
-      "crc32": "31c4abfb",
-      "sha1": "7998d3650b07e86f9def53d01c3ff68b6366e06e",
+      "mtime": "1659847796",
+      "size": "368640",
+      "md5": "689b7e7721bb3d2101ec5907b6519138",
+      "crc32": "ee15d328",
+      "sha1": "901787c1b870d0fff46903a28a918c94852e2cc4",
       "format": "Metadata"
     },
     {
@@ -3006,9 +3068,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 288,
-  "item_last_updated": 1659811346,
-  "item_size": 26660210,
+  "files_count": 294,
+  "item_last_updated": 1659847879,
+  "item_size": 27090154,
   "metadata": {
     "identifier": "worldnetdaily-2022",
     "collection": [
@@ -3025,14 +3087,10 @@
     "publicdate": "2022-07-17 15:04:09",
     "addeddate": "2022-07-17 15:04:09"
   },
-  "server": "ia902500.us.archive.org",
-  "uniq": 440184825,
+  "server": "ia802500.us.archive.org",
+  "uniq": 1373590979,
   "workable_servers": [
-    "ia902500.us.archive.org",
-    "ia802500.us.archive.org"
-  ],
-  "worldnetdaily-2022": {
-    "url": "https://www.wnd.com/",
-    "job_id": "spn2-4f1a760af824d3524563eb774ff30d5fbeeba0a4"
-  }
+    "ia802500.us.archive.org",
+    "ia902500.us.archive.org"
+  ]
 }

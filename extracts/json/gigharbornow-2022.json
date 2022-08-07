@@ -1,5 +1,5 @@
 {
-  "created": 1659802365,
+  "created": 1659875881,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/26/items/gigharbornow-2022",
@@ -2762,31 +2762,93 @@
       "sha1": "d1af379231934a56b5056444ea87584931458daa"
     },
     {
+      "name": "gigharbornow-2022-08-06T20:22:34.615850-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659842559",
+      "size": "25245",
+      "md5": "b3da64a6c07868becabc1067c9ed3863",
+      "crc32": "87955aad",
+      "sha1": "b78c8f6ae3acd7463b8187e59ecbe96a0ea9e4b0",
+      "format": "JSON"
+    },
+    {
+      "name": "gigharbornow-2022-08-06T20:22:34.615850-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659842561",
+      "size": "28535",
+      "md5": "a77eb12f0434980c951b98a5294fdf75",
+      "crc32": "6609f8b0",
+      "sha1": "e29775f03b0ee7b0963166d35479c070983a0921",
+      "format": "JSON"
+    },
+    {
+      "name": "gigharbornow-2022-08-06T20:22:34.615850-07:00.jpg",
+      "source": "original",
+      "mtime": "1659842557",
+      "size": "160124",
+      "md5": "09967303ae3874cd2f104ac497251235",
+      "crc32": "1265ad93",
+      "sha1": "a9b7917ba6e13d58638395d05e0b2fb1144d774e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gigharbornow-2022-08-06T20:22:34.615850-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659842563",
+      "size": "1513",
+      "md5": "0e15933785861c5ea881e42adb8b634c",
+      "crc32": "fb9c2406",
+      "sha1": "865f0867f8b0387fb82918a705188adda98bb2b6",
+      "format": "JSON"
+    },
+    {
+      "name": "gigharbornow-2022-08-06T20:22:34.615850-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1659842564",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "gigharbornow-2022-08-06T20:22:34.615850-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gigharbornow-2022-08-06T20:22:34.615850-07:00.jpg",
+      "mtime": "1659842615",
+      "size": "8963",
+      "md5": "08415c416f25f8b8640361d7caadf3df",
+      "crc32": "6438ea7b",
+      "sha1": "e2744f56a2988c9e71e20db06e711c98342ad48f"
+    },
+    {
       "name": "gigharbornow-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c4d4111e54ee0d3332af26417e9d735ddd5379ae",
-      "mtime": "1659802357",
-      "size": "57848",
-      "md5": "8a0ec1c0d1f209e7eeb3e5290fb6a1ec",
-      "crc32": "d05069e6",
-      "sha1": "e8f5c6683a67542b43e8e2105e107ea3a7fa8bdf",
+      "btih": "1a8b1f5110a058067a2071777163b9ccdf113d2a",
+      "mtime": "1659842618",
+      "size": "59117",
+      "md5": "7d9f5fe71d6372a5061bb48fc6d81a65",
+      "crc32": "2510fb85",
+      "sha1": "268ca297fbf779818c8ac18873392214c35dd266",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gigharbornow-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "46f4010a27e3d3135c6703baae2bf0f7",
+      "md5": "9e37e23617f7e7480b242f1cb9c3f18c",
       "summation": "md5"
     },
     {
       "name": "gigharbornow-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659802297",
-      "size": "339968",
-      "md5": "80d1df455df6cf63b1a19cf2a3015b49",
-      "crc32": "91bc9caa",
-      "sha1": "e0158cd1233612a01df4cb3802ed661d20ead0ed",
+      "mtime": "1659842567",
+      "size": "344064",
+      "md5": "7b60f298a98efa6c762e3b8d80c8b77c",
+      "crc32": "299acdbc",
+      "sha1": "bd4973915c38bf2f554af9819760c68bf54a122a",
       "format": "Metadata"
     },
     {
@@ -2800,9 +2862,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 268,
-  "item_last_updated": 1659802357,
-  "item_size": 14305971,
+  "files_count": 274,
+  "gigharbornow-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "item_last_updated": 1659842618,
+  "item_size": 14535918,
   "metadata": {
     "identifier": "gigharbornow-2022",
     "collection": [
@@ -2820,7 +2887,7 @@
     "addeddate": "2022-07-09 03:58:50"
   },
   "server": "ia902508.us.archive.org",
-  "uniq": 1892847363,
+  "uniq": 1101771560,
   "workable_servers": [
     "ia902508.us.archive.org",
     "ia802508.us.archive.org"

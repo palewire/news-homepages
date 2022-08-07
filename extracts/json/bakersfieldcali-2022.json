@@ -1,5 +1,5 @@
 {
-  "created": 1659832111,
+  "created": 1659874965,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/22/items/bakersfieldcali-2022",
@@ -2764,31 +2764,93 @@
       "sha1": "305736470fc331d208bd354dd4f3edc9c4492626"
     },
     {
+      "name": "bakersfieldcali-2022-08-07T05:21:29.709338-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659874894",
+      "size": "36813",
+      "md5": "c8f47d3bc9e4525ab3e17d8a4243a1c3",
+      "crc32": "241febe0",
+      "sha1": "f0b8e597261769f6a104381ba27817918d0514bb",
+      "format": "JSON"
+    },
+    {
+      "name": "bakersfieldcali-2022-08-07T05:21:29.709338-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659874896",
+      "size": "62769",
+      "md5": "85201382d34fa72f73e2cac8ad9965d7",
+      "crc32": "aad730d1",
+      "sha1": "b3144b41694c48a7d775927c666d4ba8fb28b892",
+      "format": "JSON"
+    },
+    {
+      "name": "bakersfieldcali-2022-08-07T05:21:29.709338-07:00.jpg",
+      "source": "original",
+      "mtime": "1659874893",
+      "size": "295702",
+      "md5": "48f5c2a473b649b13f3ce5e4a70b1e0b",
+      "crc32": "92986301",
+      "sha1": "b2fc7c37d543e875f539c03db9476055e5d4891e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bakersfieldcali-2022-08-07T05:21:29.709338-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659874898",
+      "size": "1504",
+      "md5": "2e65904fbc1ce111caeeb6bf532ae256",
+      "crc32": "ca7211a1",
+      "sha1": "5d977d854a6246d2f421c65924a45eefb5f7879f",
+      "format": "JSON"
+    },
+    {
+      "name": "bakersfieldcali-2022-08-07T05:21:29.709338-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1659874899",
+      "size": "68364",
+      "md5": "17b74705082c7a47ef83d3b5e63f90b4",
+      "crc32": "02093996",
+      "sha1": "30b0c433b492ace1b6a965a4807881ee770087c1",
+      "format": "JSON"
+    },
+    {
+      "name": "bakersfieldcali-2022-08-07T05:21:29.709338-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bakersfieldcali-2022-08-07T05:21:29.709338-07:00.jpg",
+      "mtime": "1659874950",
+      "size": "9331",
+      "md5": "6adcfc18663a26dbf3045d9877ddcafe",
+      "crc32": "ca4da8a0",
+      "sha1": "a3b50efe70e54cccff03c15160ebcbe783212e30"
+    },
+    {
       "name": "bakersfieldcali-2022_archive.torrent",
       "source": "metadata",
-      "btih": "694fc997531547bcdcb84e5baffa7a011dfc555d",
-      "mtime": "1659832058",
-      "size": "58973",
-      "md5": "32a0a626fc6cf544c2ca6233189c7f82",
-      "crc32": "6249f80c",
-      "sha1": "b9f0ada3902623b49b0ec97b61747d708c8ca128",
+      "btih": "315fc4c0088396fb771303f9b9d5ef97182f2336",
+      "mtime": "1659874953",
+      "size": "60282",
+      "md5": "ccf103b1a84622f41eef46a49823dc40",
+      "crc32": "e61d752c",
+      "sha1": "9491794b6883ad88f2e1bb2fda68b2d8e36dbb1a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bakersfieldcali-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "384103a6db0833e05dd22df9d3bbe190",
+      "md5": "e0e795038445ce803bd4c118634d5000",
       "summation": "md5"
     },
     {
       "name": "bakersfieldcali-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659831989",
-      "size": "335872",
-      "md5": "a9075ef68bb3b8abb40d8e74d83abb9b",
-      "crc32": "19d2ee34",
-      "sha1": "1a1ce63e1c6b78a2506233fa23451baa7b57e358",
+      "mtime": "1659874904",
+      "size": "344064",
+      "md5": "848bd0880359b54c606f22739736db24",
+      "crc32": "ec0ae90d",
+      "sha1": "17e4b29a18b18f2452b494daa2f718080200d361",
       "format": "Metadata"
     },
     {
@@ -2802,9 +2864,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 268,
-  "item_last_updated": 1659832058,
-  "item_size": 23478068,
+  "files_count": 274,
+  "item_last_updated": 1659874953,
+  "item_size": 23962052,
   "metadata": {
     "identifier": "bakersfieldcali-2022",
     "collection": [
@@ -2822,7 +2884,7 @@
     "addeddate": "2022-07-09 03:55:56"
   },
   "server": "ia802506.us.archive.org",
-  "uniq": 853837023,
+  "uniq": 1444516554,
   "workable_servers": [
     "ia802506.us.archive.org",
     "ia902506.us.archive.org"
