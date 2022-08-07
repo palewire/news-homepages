@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 31 screenshots with the Internet Archive.
+The archiving routine has saved 32 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 31 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-08-06T07:56:14.515523-06:00.jpg">
+  <img src="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-08-06T07:56:14.515523-06:00.jpg"
+     alt="Daily Climate at 2022-08-06 07:56:16-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-08-06T07:56:14.515523-06:00.jpg">August 6 at 7:56 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-08-05T20:23:51.400444-06:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-08-01T08:49:44.867448-06:00.jpg">August 1 at 8:49 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-31T19:27:50.751596-06:00.jpg">
-  <img src="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-31T19:27:50.751596-06:00.jpg"
-     alt="Daily Climate at 2022-07-31 19:27:52-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-07-31T19:27:50.751596-06:00.jpg">July 31 at 7:27 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 31 hyperlink lists with the Internet Archive.
+The archiving routine has saved 32 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 6 at 7:56 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-08-06T07:56:14.515523-06:00.hyperlinks.json) |
 | [August 5 at 8:23 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-08-05T20:23:51.400444-06:00.hyperlinks.json) |
 | [August 5 at 11:34 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-08-05T11:34:16.420615-06:00.hyperlinks.json) |
 | [August 5 at 8:11 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-08-05T08:11:15.918413-06:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 3 at 8:30 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-08-03T08:29:57.526945-06:00.hyperlinks.json) |
 | [August 2 at 7:56 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-08-02T19:56:52.678271-06:00.hyperlinks.json) |
 | [August 2 at 7:44 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-08-02T07:44:11.645013-06:00.hyperlinks.json) |
-| [August 1 at 7:59 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-08-01T19:59:49.442453-06:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 31 accessibility trees with the Internet Archive.
+The archiving routine has saved 32 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 6 at 7:56 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-08-06T07:56:14.515523-06:00.accessibility.json) |
 | [August 5 at 8:23 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-08-05T20:23:51.400444-06:00.accessibility.json) |
 | [August 5 at 11:34 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-08-05T11:34:16.420615-06:00.accessibility.json) |
 | [August 5 at 8:11 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-08-05T08:11:15.918413-06:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 3 at 8:30 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-08-03T08:29:57.526945-06:00.accessibility.json) |
 | [August 2 at 7:56 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-08-02T19:56:52.678271-06:00.accessibility.json) |
 | [August 2 at 7:44 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-08-02T07:44:11.645013-06:00.accessibility.json) |
-| [August 1 at 7:59 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-08-01T19:59:49.442453-06:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 29 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 6 at 7:56 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-08-06T07:56:14.515523-06:00.lighthouse.json) |
 | [August 5 at 8:23 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-08-05T20:23:51.400444-06:00.lighthouse.json) |
 | [August 5 at 11:34 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-08-05T11:34:16.420615-06:00.lighthouse.json) |
 | [August 5 at 8:11 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-08-05T08:11:15.918413-06:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 3 at 8:30 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-08-03T08:29:57.526945-06:00.lighthouse.json) |
 | [August 2 at 7:56 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-08-02T19:56:52.678271-06:00.lighthouse.json) |
 | [August 2 at 7:44 AM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-08-02T07:44:11.645013-06:00.lighthouse.json) |
-| [August 1 at 7:59 PM](https://archive.org/download/thedailyclimate-2022/thedailyclimate-2022-08-01T19:59:49.442453-06:00.lighthouse.json) |
 
 
 

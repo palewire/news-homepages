@@ -434,7 +434,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 26 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 6 at 9:22 AM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-06T09:22:34.651859-07:00.lighthouse.json) |
 | [August 5 at 9:59 PM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-05T21:59:34.640409-07:00.lighthouse.json) |
 | [August 5 at 10:52 AM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-05T10:52:37.664867-07:00.lighthouse.json) |
 | [August 4 at 9:38 PM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-04T21:38:14.737990-07:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 2 at 9:40 PM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-02T21:40:19.482114-07:00.lighthouse.json) |
 | [August 2 at 9:17 AM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-02T09:17:04.049165-07:00.lighthouse.json) |
 | [August 1 at 9:22 PM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-01T21:22:51.059736-07:00.lighthouse.json) |
-| [August 1 at 9:08 AM](https://archive.org/download/portlandmercury-2022/portlandmercury-2022-08-01T09:08:16.633572-07:00.lighthouse.json) |
 
 
 

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 58 screenshots with the Internet Archive.
+The archiving routine has saved 60 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-08-06T14:39:47.540562-04:00.jpg">
+  <img src="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-08-06T14:39:47.540562-04:00.jpg"
+     alt="First Things at 2022-08-06 14:39:48-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-08-06T14:39:47.540562-04:00.jpg">August 6 at 2:39 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-08-06T12:09:52.721734-04:00.jpg">
+  <img src="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-08-06T12:09:52.721734-04:00.jpg"
+     alt="First Things at 2022-08-06 12:09:55-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-08-06T12:09:52.721734-04:00.jpg">August 6 at 12:09 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-08-06T00:47:51.257837-04:00.jpg">
   <img src="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-08-06T00:47:51.257837-04:00.jpg"
      alt="First Things at 2022-08-06 00:47:53-04:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-08-03T00:28:40.607670-04:00.jpg">August 3 at 12:28 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-08-02T14:36:23.345937-04:00.jpg">
-  <img src="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-08-02T14:36:23.345937-04:00.jpg"
-     alt="First Things at 2022-08-02 14:36:24-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-08-02T14:36:23.345937-04:00.jpg">August 2 at 2:36 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-08-02T10:52:41.950442-04:00.jpg">
-  <img src="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-08-02T10:52:41.950442-04:00.jpg"
-     alt="First Things at 2022-08-02 10:52:47-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-08-02T10:52:41.950442-04:00.jpg">August 2 at 10:52 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 58 hyperlink lists with the Internet Archive.
+The archiving routine has saved 60 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 6 at 2:39 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-08-06T14:39:47.540562-04:00.hyperlinks.json) |
+| [August 6 at 12:09 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-08-06T12:09:52.721734-04:00.hyperlinks.json) |
 | [August 6 at 12:47 AM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-08-06T00:47:51.257837-04:00.hyperlinks.json) |
 | [August 5 at 2:56 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-08-05T14:55:58.584385-04:00.hyperlinks.json) |
 | [August 5 at 1:22 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-08-05T13:22:30.466463-04:00.hyperlinks.json) |
@@ -322,13 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 4 at 11:20 AM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-08-04T11:20:44.388746-04:00.hyperlinks.json) |
 | [August 3 at 11:20 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-08-03T23:20:44.848100-04:00.hyperlinks.json) |
 | [August 3 at 2:39 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-08-03T14:39:35.747847-04:00.hyperlinks.json) |
-| [August 3 at 12:55 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-08-03T12:55:01.785973-04:00.hyperlinks.json) |
-| [August 3 at 12:28 AM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-08-03T00:28:40.607670-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 58 accessibility trees with the Internet Archive.
+The archiving routine has saved 60 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 6 at 2:39 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-08-06T14:39:47.540562-04:00.accessibility.json) |
+| [August 6 at 12:09 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-08-06T12:09:52.721734-04:00.accessibility.json) |
 | [August 6 at 12:47 AM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-08-06T00:47:51.257837-04:00.accessibility.json) |
 | [August 5 at 2:56 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-08-05T14:55:58.584385-04:00.accessibility.json) |
 | [August 5 at 1:22 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-08-05T13:22:30.466463-04:00.accessibility.json) |
@@ -427,14 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 4 at 11:20 AM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-08-04T11:20:44.388746-04:00.accessibility.json) |
 | [August 3 at 11:20 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-08-03T23:20:44.848100-04:00.accessibility.json) |
 | [August 3 at 2:39 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-08-03T14:39:35.747847-04:00.accessibility.json) |
-| [August 3 at 12:55 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-08-03T12:55:01.785973-04:00.accessibility.json) |
-| [August 3 at 12:28 AM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-08-03T00:28:40.607670-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 40 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 42 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 6 at 2:39 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-08-06T14:39:47.540562-04:00.lighthouse.json) |
+| [August 6 at 12:10 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-08-06T12:09:52.721734-04:00.lighthouse.json) |
 | [August 6 at 12:47 AM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-08-06T00:47:51.257837-04:00.lighthouse.json) |
 | [August 5 at 2:56 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-08-05T14:55:58.584385-04:00.lighthouse.json) |
 | [August 5 at 1:22 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-08-05T13:22:30.466463-04:00.lighthouse.json) |
@@ -533,8 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 4 at 11:20 AM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-08-04T11:20:44.388746-04:00.lighthouse.json) |
 | [August 3 at 11:20 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-08-03T23:20:44.848100-04:00.lighthouse.json) |
 | [August 3 at 2:39 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-08-03T14:39:35.747847-04:00.lighthouse.json) |
-| [August 3 at 12:55 PM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-08-03T12:55:01.785973-04:00.lighthouse.json) |
-| [August 3 at 12:28 AM](https://archive.org/download/firstthingsmag-2022/firstthingsmag-2022-08-03T00:28:40.607670-04:00.lighthouse.json) |
 
 
 

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 58 screenshots with the Internet Archive.
+The archiving routine has saved 60 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/alternet-2022/alternet-2022-08-06T20:22:19.065818-04:00.jpg">
+  <img src="https://archive.org/download/alternet-2022/alternet-2022-08-06T20:22:19.065818-04:00.jpg"
+     alt="AlterNet at 2022-08-06 20:22:26-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/alternet-2022/alternet-2022-08-06T20:22:19.065818-04:00.jpg">August 6 at 8:22 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/alternet-2022/alternet-2022-08-06T14:41:45.802466-04:00.jpg">
+  <img src="https://archive.org/download/alternet-2022/alternet-2022-08-06T14:41:45.802466-04:00.jpg"
+     alt="AlterNet at 2022-08-06 14:41:48-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/alternet-2022/alternet-2022-08-06T14:41:45.802466-04:00.jpg">August 6 at 2:41 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/alternet-2022/alternet-2022-08-06T08:13:46.805737-04:00.jpg">
   <img src="https://archive.org/download/alternet-2022/alternet-2022-08-06T08:13:46.805737-04:00.jpg"
      alt="AlterNet at 2022-08-06 08:13:49-04:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/alternet-2022/alternet-2022-08-02T19:17:42.518397-04:00.jpg">August 2 at 7:17 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/alternet-2022/alternet-2022-08-02T14:38:19.558208-04:00.jpg">
-  <img src="https://archive.org/download/alternet-2022/alternet-2022-08-02T14:38:19.558208-04:00.jpg"
-     alt="AlterNet at 2022-08-02 14:38:21-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/alternet-2022/alternet-2022-08-02T14:38:19.558208-04:00.jpg">August 2 at 2:38 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/alternet-2022/alternet-2022-08-02T08:09:31.699485-04:00.jpg">
-  <img src="https://archive.org/download/alternet-2022/alternet-2022-08-02T08:09:31.699485-04:00.jpg"
-     alt="AlterNet at 2022-08-02 08:09:33-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/alternet-2022/alternet-2022-08-02T08:09:31.699485-04:00.jpg">August 2 at 8:09 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 59 hyperlink lists with the Internet Archive.
+The archiving routine has saved 61 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 6 at 8:22 PM](https://archive.org/download/alternet-2022/alternet-2022-08-06T20:22:19.065818-04:00.hyperlinks.json) |
+| [August 6 at 2:41 PM](https://archive.org/download/alternet-2022/alternet-2022-08-06T14:41:45.802466-04:00.hyperlinks.json) |
 | [August 6 at 8:13 AM](https://archive.org/download/alternet-2022/alternet-2022-08-06T08:13:46.805737-04:00.hyperlinks.json) |
 | [August 5 at 7:26 PM](https://archive.org/download/alternet-2022/alternet-2022-08-05T19:26:38.516256-04:00.hyperlinks.json) |
 | [August 5 at 2:51 PM](https://archive.org/download/alternet-2022/alternet-2022-08-05T14:51:38.923468-04:00.hyperlinks.json) |
@@ -322,13 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 4 at 2:45 PM](https://archive.org/download/alternet-2022/alternet-2022-08-04T14:45:39.442098-04:00.hyperlinks.json) |
 | [August 4 at 7:08 AM](https://archive.org/download/alternet-2022/alternet-2022-08-04T07:08:36.419158-04:00.hyperlinks.json) |
 | [August 3 at 7:15 PM](https://archive.org/download/alternet-2022/alternet-2022-08-03T19:15:32.964271-04:00.hyperlinks.json) |
-| [August 3 at 2:40 PM](https://archive.org/download/alternet-2022/alternet-2022-08-03T14:40:11.281321-04:00.hyperlinks.json) |
-| [August 3 at 8:33 AM](https://archive.org/download/alternet-2022/alternet-2022-08-03T08:33:37.123106-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 59 accessibility trees with the Internet Archive.
+The archiving routine has saved 61 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 6 at 8:22 PM](https://archive.org/download/alternet-2022/alternet-2022-08-06T20:22:19.065818-04:00.accessibility.json) |
+| [August 6 at 2:41 PM](https://archive.org/download/alternet-2022/alternet-2022-08-06T14:41:45.802466-04:00.accessibility.json) |
 | [August 6 at 8:13 AM](https://archive.org/download/alternet-2022/alternet-2022-08-06T08:13:46.805737-04:00.accessibility.json) |
 | [August 5 at 7:26 PM](https://archive.org/download/alternet-2022/alternet-2022-08-05T19:26:38.516256-04:00.accessibility.json) |
 | [August 5 at 2:51 PM](https://archive.org/download/alternet-2022/alternet-2022-08-05T14:51:38.923468-04:00.accessibility.json) |
@@ -427,14 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 4 at 2:45 PM](https://archive.org/download/alternet-2022/alternet-2022-08-04T14:45:39.442098-04:00.accessibility.json) |
 | [August 4 at 7:08 AM](https://archive.org/download/alternet-2022/alternet-2022-08-04T07:08:36.419158-04:00.accessibility.json) |
 | [August 3 at 7:15 PM](https://archive.org/download/alternet-2022/alternet-2022-08-03T19:15:32.964271-04:00.accessibility.json) |
-| [August 3 at 2:40 PM](https://archive.org/download/alternet-2022/alternet-2022-08-03T14:40:11.281321-04:00.accessibility.json) |
-| [August 3 at 8:33 AM](https://archive.org/download/alternet-2022/alternet-2022-08-03T08:33:37.123106-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 42 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 44 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 6 at 8:22 PM](https://archive.org/download/alternet-2022/alternet-2022-08-06T20:22:19.065818-04:00.lighthouse.json) |
+| [August 6 at 2:41 PM](https://archive.org/download/alternet-2022/alternet-2022-08-06T14:41:45.802466-04:00.lighthouse.json) |
 | [August 6 at 8:13 AM](https://archive.org/download/alternet-2022/alternet-2022-08-06T08:13:46.805737-04:00.lighthouse.json) |
 | [August 5 at 7:26 PM](https://archive.org/download/alternet-2022/alternet-2022-08-05T19:26:38.516256-04:00.lighthouse.json) |
 | [August 5 at 2:51 PM](https://archive.org/download/alternet-2022/alternet-2022-08-05T14:51:38.923468-04:00.lighthouse.json) |
@@ -533,8 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 4 at 2:45 PM](https://archive.org/download/alternet-2022/alternet-2022-08-04T14:45:39.442098-04:00.lighthouse.json) |
 | [August 4 at 7:08 AM](https://archive.org/download/alternet-2022/alternet-2022-08-04T07:08:36.419158-04:00.lighthouse.json) |
 | [August 3 at 7:15 PM](https://archive.org/download/alternet-2022/alternet-2022-08-03T19:15:32.964271-04:00.lighthouse.json) |
-| [August 3 at 2:40 PM](https://archive.org/download/alternet-2022/alternet-2022-08-03T14:40:11.281321-04:00.lighthouse.json) |
-| [August 3 at 8:33 AM](https://archive.org/download/alternet-2022/alternet-2022-08-03T08:33:37.123106-04:00.lighthouse.json) |
 
 
 

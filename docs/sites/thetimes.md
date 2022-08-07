@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 346 screenshots with the Internet Archive.
+The archiving routine has saved 347 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 346 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thetimes-2022/thetimes-2022-08-06T14:57:31.113122+01:00.jpg">
+  <img src="https://archive.org/download/thetimes-2022/thetimes-2022-08-06T14:57:31.113122+01:00.jpg"
+     alt="The Times at 2022-08-06 14:57:32+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-08-06T14:57:31.113122+01:00.jpg">August 6 at 2:57 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thetimes-2022/thetimes-2022-08-06T10:08:43.360380+01:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-08-03T10:10:17.093180+01:00.jpg">August 3 at 10:10 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thetimes-2022/thetimes-2022-08-03T02:58:09.405669+01:00.jpg">
-  <img src="https://archive.org/download/thetimes-2022/thetimes-2022-08-03T02:58:09.405669+01:00.jpg"
-     alt="The Times at 2022-08-03 02:58:23+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-08-03T02:58:09.405669+01:00.jpg">August 3 at 2:58 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 329 hyperlink lists with the Internet Archive.
+The archiving routine has saved 330 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 6 at 2:57 PM](https://archive.org/download/thetimes-2022/thetimes-2022-08-06T14:57:31.113122+01:00.hyperlinks.json) |
 | [August 6 at 10:08 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-06T10:08:43.360380+01:00.hyperlinks.json) |
 | [August 6 at 3:25 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-06T03:25:42.413488+01:00.hyperlinks.json) |
 | [August 5 at 6:37 PM](https://archive.org/download/thetimes-2022/thetimes-2022-08-05T18:36:58.174182+01:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 4 at 2:57 PM](https://archive.org/download/thetimes-2022/thetimes-2022-08-04T14:57:41.497134+01:00.hyperlinks.json) |
 | [August 4 at 10:08 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-04T10:08:47.141404+01:00.hyperlinks.json) |
 | [August 4 at 4:11 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-04T04:11:36.200860+01:00.hyperlinks.json) |
-| [August 3 at 3:31 PM](https://archive.org/download/thetimes-2022/thetimes-2022-08-03T15:31:07.992230+01:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 332 accessibility trees with the Internet Archive.
+The archiving routine has saved 333 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 6 at 2:57 PM](https://archive.org/download/thetimes-2022/thetimes-2022-08-06T14:57:31.113122+01:00.accessibility.json) |
 | [August 6 at 10:08 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-06T10:08:43.360380+01:00.accessibility.json) |
 | [August 6 at 3:25 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-06T03:25:42.413488+01:00.accessibility.json) |
 | [August 5 at 6:37 PM](https://archive.org/download/thetimes-2022/thetimes-2022-08-05T18:36:58.174182+01:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 4 at 2:57 PM](https://archive.org/download/thetimes-2022/thetimes-2022-08-04T14:57:41.497134+01:00.accessibility.json) |
 | [August 4 at 10:08 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-04T10:08:47.141404+01:00.accessibility.json) |
 | [August 4 at 4:11 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-04T04:11:36.200860+01:00.accessibility.json) |
-| [August 3 at 3:31 PM](https://archive.org/download/thetimes-2022/thetimes-2022-08-03T15:31:07.992230+01:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 43 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 44 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 6 at 2:57 PM](https://archive.org/download/thetimes-2022/thetimes-2022-08-06T14:57:31.113122+01:00.lighthouse.json) |
 | [August 6 at 10:08 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-06T10:08:43.360380+01:00.lighthouse.json) |
 | [August 6 at 3:25 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-06T03:25:42.413488+01:00.lighthouse.json) |
 | [August 5 at 6:37 PM](https://archive.org/download/thetimes-2022/thetimes-2022-08-05T18:36:58.174182+01:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 4 at 2:57 PM](https://archive.org/download/thetimes-2022/thetimes-2022-08-04T14:57:41.497134+01:00.lighthouse.json) |
 | [August 4 at 10:08 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-04T10:08:47.141404+01:00.lighthouse.json) |
 | [August 4 at 4:11 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-04T04:11:36.200860+01:00.lighthouse.json) |
-| [August 3 at 3:31 PM](https://archive.org/download/thetimes-2022/thetimes-2022-08-03T15:31:07.992230+01:00.lighthouse.json) |
 
 
 

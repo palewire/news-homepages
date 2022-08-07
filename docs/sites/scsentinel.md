@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 65 screenshots with the Internet Archive.
+The archiving routine has saved 66 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 65 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/scsentinel-2022/scsentinel-2022-08-06T09:25:12.905560-07:00.jpg">
+  <img src="https://archive.org/download/scsentinel-2022/scsentinel-2022-08-06T09:25:12.905560-07:00.jpg"
+     alt="Santa Cruz Sentinel at 2022-08-06 09:25:14-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/scsentinel-2022/scsentinel-2022-08-06T09:25:12.905560-07:00.jpg">August 6 at 9:25 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/scsentinel-2022/scsentinel-2022-08-05T22:02:20.518301-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/scsentinel-2022/scsentinel-2022-07-31T20:57:45.554093-07:00.jpg">July 31 at 8:57 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/scsentinel-2022/scsentinel-2022-07-31T08:55:57.628133-07:00.jpg">
-  <img src="https://archive.org/download/scsentinel-2022/scsentinel-2022-07-31T08:55:57.628133-07:00.jpg"
-     alt="Santa Cruz Sentinel at 2022-07-31 08:55:58-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/scsentinel-2022/scsentinel-2022-07-31T08:55:57.628133-07:00.jpg">July 31 at 8:55 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 62 hyperlink lists with the Internet Archive.
+The archiving routine has saved 63 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 6 at 9:25 AM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-06T09:25:12.905560-07:00.hyperlinks.json) |
 | [August 5 at 10:02 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-05T22:02:20.518301-07:00.hyperlinks.json) |
 | [August 5 at 10:55 AM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-05T10:55:39.721746-07:00.hyperlinks.json) |
 | [August 4 at 9:41 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-04T21:41:18.302221-07:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 2 at 9:43 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-02T21:43:13.882919-07:00.hyperlinks.json) |
 | [August 2 at 9:18 AM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-02T09:18:24.381159-07:00.hyperlinks.json) |
 | [August 1 at 9:25 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-01T21:25:17.472001-07:00.hyperlinks.json) |
-| [August 1 at 9:10 AM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-01T09:10:03.515454-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 65 accessibility trees with the Internet Archive.
+The archiving routine has saved 66 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 6 at 9:25 AM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-06T09:25:12.905560-07:00.accessibility.json) |
 | [August 5 at 10:02 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-05T22:02:20.518301-07:00.accessibility.json) |
 | [August 5 at 10:55 AM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-05T10:55:39.721746-07:00.accessibility.json) |
 | [August 4 at 9:41 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-04T21:41:18.302221-07:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 2 at 9:43 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-02T21:43:13.882919-07:00.accessibility.json) |
 | [August 2 at 9:18 AM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-02T09:18:24.381159-07:00.accessibility.json) |
 | [August 1 at 9:25 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-01T21:25:17.472001-07:00.accessibility.json) |
-| [August 1 at 9:10 AM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-01T09:10:03.515454-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 28 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 6 at 9:25 AM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-06T09:25:12.905560-07:00.lighthouse.json) |
 | [August 5 at 10:02 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-05T22:02:20.518301-07:00.lighthouse.json) |
 | [August 5 at 10:55 AM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-05T10:55:39.721746-07:00.lighthouse.json) |
 | [August 4 at 9:41 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-04T21:41:18.302221-07:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 2 at 9:43 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-02T21:43:13.882919-07:00.lighthouse.json) |
 | [August 2 at 9:18 AM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-02T09:18:24.381159-07:00.lighthouse.json) |
 | [August 1 at 9:25 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-01T21:25:17.472001-07:00.lighthouse.json) |
-| [August 1 at 9:10 AM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-01T09:10:03.515454-07:00.lighthouse.json) |
 
 
 

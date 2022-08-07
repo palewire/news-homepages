@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 133 screenshots with the Internet Archive.
+The archiving routine has saved 134 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 133 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/propublica-2022/propublica-2022-08-06T12:23:18.339013-04:00.jpg">
+  <img src="https://archive.org/download/propublica-2022/propublica-2022-08-06T12:23:18.339013-04:00.jpg"
+     alt="ProPublica at 2022-08-06 12:23:22-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/propublica-2022/propublica-2022-08-06T12:23:18.339013-04:00.jpg">August 6 at 12:23 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/propublica-2022/propublica-2022-08-06T01:01:10.315676-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-31T23:56:18.345480-04:00.jpg">July 31 at 11:56 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/propublica-2022/propublica-2022-07-31T11:53:19.731095-04:00.jpg">
-  <img src="https://archive.org/download/propublica-2022/propublica-2022-07-31T11:53:19.731095-04:00.jpg"
-     alt="ProPublica at 2022-07-31 11:53:21-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/propublica-2022/propublica-2022-07-31T11:53:19.731095-04:00.jpg">July 31 at 11:53 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 135 hyperlink lists with the Internet Archive.
+The archiving routine has saved 136 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 6 at 12:23 PM](https://archive.org/download/propublica-2022/propublica-2022-08-06T12:23:18.339013-04:00.hyperlinks.json) |
 | [August 6 at 1:01 AM](https://archive.org/download/propublica-2022/propublica-2022-08-06T01:01:10.315676-04:00.hyperlinks.json) |
 | [August 5 at 1:52 PM](https://archive.org/download/propublica-2022/propublica-2022-08-05T13:52:09.929377-04:00.hyperlinks.json) |
 | [August 5 at 12:39 AM](https://archive.org/download/propublica-2022/propublica-2022-08-05T00:39:04.214147-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 3 at 12:40 AM](https://archive.org/download/propublica-2022/propublica-2022-08-03T00:40:25.734980-04:00.hyperlinks.json) |
 | [August 2 at 12:16 PM](https://archive.org/download/propublica-2022/propublica-2022-08-02T12:16:35.878227-04:00.hyperlinks.json) |
 | [August 2 at 12:23 AM](https://archive.org/download/propublica-2022/propublica-2022-08-02T00:23:51.137742-04:00.hyperlinks.json) |
-| [August 1 at 12:08 PM](https://archive.org/download/propublica-2022/propublica-2022-08-01T12:08:50.729683-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 134 accessibility trees with the Internet Archive.
+The archiving routine has saved 135 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 6 at 12:23 PM](https://archive.org/download/propublica-2022/propublica-2022-08-06T12:23:18.339013-04:00.accessibility.json) |
 | [August 6 at 1:01 AM](https://archive.org/download/propublica-2022/propublica-2022-08-06T01:01:10.315676-04:00.accessibility.json) |
 | [August 5 at 1:52 PM](https://archive.org/download/propublica-2022/propublica-2022-08-05T13:52:09.929377-04:00.accessibility.json) |
 | [August 5 at 12:39 AM](https://archive.org/download/propublica-2022/propublica-2022-08-05T00:39:04.214147-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 3 at 12:40 AM](https://archive.org/download/propublica-2022/propublica-2022-08-03T00:40:25.734980-04:00.accessibility.json) |
 | [August 2 at 12:16 PM](https://archive.org/download/propublica-2022/propublica-2022-08-02T12:16:35.878227-04:00.accessibility.json) |
 | [August 2 at 12:23 AM](https://archive.org/download/propublica-2022/propublica-2022-08-02T00:23:51.137742-04:00.accessibility.json) |
-| [August 1 at 12:08 PM](https://archive.org/download/propublica-2022/propublica-2022-08-01T12:08:50.729683-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 28 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 6 at 12:23 PM](https://archive.org/download/propublica-2022/propublica-2022-08-06T12:23:18.339013-04:00.lighthouse.json) |
 | [August 6 at 1:01 AM](https://archive.org/download/propublica-2022/propublica-2022-08-06T01:01:10.315676-04:00.lighthouse.json) |
 | [August 5 at 1:52 PM](https://archive.org/download/propublica-2022/propublica-2022-08-05T13:52:09.929377-04:00.lighthouse.json) |
 | [August 5 at 12:39 AM](https://archive.org/download/propublica-2022/propublica-2022-08-05T00:39:04.214147-04:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 3 at 12:40 AM](https://archive.org/download/propublica-2022/propublica-2022-08-03T00:40:25.734980-04:00.lighthouse.json) |
 | [August 2 at 12:16 PM](https://archive.org/download/propublica-2022/propublica-2022-08-02T12:16:35.878227-04:00.lighthouse.json) |
 | [August 2 at 12:24 AM](https://archive.org/download/propublica-2022/propublica-2022-08-02T00:23:51.137742-04:00.lighthouse.json) |
-| [August 1 at 12:09 PM](https://archive.org/download/propublica-2022/propublica-2022-08-01T12:08:50.729683-04:00.lighthouse.json) |
 
 
 

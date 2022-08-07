@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 7 screenshots with the Internet Archive.
+The archiving routine has saved 8 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kakenews-2022/kakenews-2022-08-06T19:35:22.973388-05:00.jpg">
+  <img src="https://archive.org/download/kakenews-2022/kakenews-2022-08-06T19:35:22.973388-05:00.jpg"
+     alt="KAKE News at 2022-08-06 19:35:24-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kakenews-2022/kakenews-2022-08-06T19:35:22.973388-05:00.jpg">August 6 at 7:35 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kakenews-2022/kakenews-2022-08-06T07:27:49.953493-05:00.jpg">
@@ -95,7 +104,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 4 hyperlink lists with the Internet Archive.
+The archiving routine has saved 5 hyperlink lists with the Internet Archive.
 
 
 
@@ -103,6 +112,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 6 at 7:35 PM](https://archive.org/download/kakenews-2022/kakenews-2022-08-06T19:35:22.973388-05:00.hyperlinks.json) |
 | [August 6 at 7:27 AM](https://archive.org/download/kakenews-2022/kakenews-2022-08-06T07:27:49.953493-05:00.hyperlinks.json) |
 | [August 5 at 9:03 PM](https://archive.org/download/kakenews-2022/kakenews-2022-08-05T21:03:28.349004-05:00.hyperlinks.json) |
 | [August 4 at 7:30 AM](https://archive.org/download/kakenews-2022/kakenews-2022-08-04T07:29:57.122410-05:00.hyperlinks.json) |
@@ -130,7 +140,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 7 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 8 Lighthouse audits with the Internet Archive.
 
 
 
@@ -138,6 +148,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 6 at 7:35 PM](https://archive.org/download/kakenews-2022/kakenews-2022-08-06T19:35:22.973388-05:00.lighthouse.json) |
 | [August 6 at 7:27 AM](https://archive.org/download/kakenews-2022/kakenews-2022-08-06T07:27:49.953493-05:00.lighthouse.json) |
 | [August 5 at 9:03 PM](https://archive.org/download/kakenews-2022/kakenews-2022-08-05T21:03:28.349004-05:00.lighthouse.json) |
 | [August 5 at 7:35 AM](https://archive.org/download/kakenews-2022/kakenews-2022-08-05T07:35:27.104728-05:00.lighthouse.json) |

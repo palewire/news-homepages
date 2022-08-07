@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 316 screenshots with the Internet Archive.
+The archiving routine has saved 318 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/laist-2022/laist-2022-08-06T11:38:18.578358-07:00.jpg">
+  <img src="https://archive.org/download/laist-2022/laist-2022-08-06T11:38:18.578358-07:00.jpg"
+     alt="LAist at 2022-08-06 11:38:20-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/laist-2022/laist-2022-08-06T11:38:18.578358-07:00.jpg">August 6 at 11:38 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/laist-2022/laist-2022-08-06T09:17:18.744773-07:00.jpg">
+  <img src="https://archive.org/download/laist-2022/laist-2022-08-06T09:17:18.744773-07:00.jpg"
+     alt="LAist at 2022-08-06 09:17:20-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/laist-2022/laist-2022-08-06T09:17:18.744773-07:00.jpg">August 6 at 9:17 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/laist-2022/laist-2022-08-05T21:53:27.808977-07:00.jpg">
   <img src="https://archive.org/download/laist-2022/laist-2022-08-05T21:53:27.808977-07:00.jpg"
      alt="LAist at 2022-08-05 21:53:29-07:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/laist-2022/laist-2022-08-02T21:33:51.032211-07:00.jpg">August 2 at 9:33 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/laist-2022/laist-2022-08-02T11:11:35.715462-07:00.jpg">
-  <img src="https://archive.org/download/laist-2022/laist-2022-08-02T11:11:35.715462-07:00.jpg"
-     alt="LAist at 2022-08-02 11:11:44-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/laist-2022/laist-2022-08-02T11:11:35.715462-07:00.jpg">August 2 at 11:11 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/laist-2022/laist-2022-08-02T07:56:51.198375-07:00.jpg">
-  <img src="https://archive.org/download/laist-2022/laist-2022-08-02T07:56:51.198375-07:00.jpg"
-     alt="LAist at 2022-08-02 07:56:52-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/laist-2022/laist-2022-08-02T07:56:51.198375-07:00.jpg">August 2 at 7:56 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 302 hyperlink lists with the Internet Archive.
+The archiving routine has saved 304 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 6 at 11:38 AM](https://archive.org/download/laist-2022/laist-2022-08-06T11:38:18.578358-07:00.hyperlinks.json) |
+| [August 6 at 9:17 AM](https://archive.org/download/laist-2022/laist-2022-08-06T09:17:18.744773-07:00.hyperlinks.json) |
 | [August 5 at 9:53 PM](https://archive.org/download/laist-2022/laist-2022-08-05T21:53:27.808977-07:00.hyperlinks.json) |
 | [August 5 at 11:50 AM](https://archive.org/download/laist-2022/laist-2022-08-05T11:50:32.597544-07:00.hyperlinks.json) |
 | [August 5 at 10:26 AM](https://archive.org/download/laist-2022/laist-2022-08-05T10:26:40.859310-07:00.hyperlinks.json) |
@@ -322,13 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 4 at 8:27 AM](https://archive.org/download/laist-2022/laist-2022-08-04T08:26:52.380395-07:00.hyperlinks.json) |
 | [August 3 at 8:25 PM](https://archive.org/download/laist-2022/laist-2022-08-03T20:25:47.486595-07:00.hyperlinks.json) |
 | [August 3 at 11:37 AM](https://archive.org/download/laist-2022/laist-2022-08-03T11:37:52.761024-07:00.hyperlinks.json) |
-| [August 3 at 10:00 AM](https://archive.org/download/laist-2022/laist-2022-08-03T10:00:37.362004-07:00.hyperlinks.json) |
-| [August 2 at 9:33 PM](https://archive.org/download/laist-2022/laist-2022-08-02T21:33:51.032211-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 304 accessibility trees with the Internet Archive.
+The archiving routine has saved 306 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 6 at 11:38 AM](https://archive.org/download/laist-2022/laist-2022-08-06T11:38:18.578358-07:00.accessibility.json) |
+| [August 6 at 9:17 AM](https://archive.org/download/laist-2022/laist-2022-08-06T09:17:18.744773-07:00.accessibility.json) |
 | [August 5 at 9:53 PM](https://archive.org/download/laist-2022/laist-2022-08-05T21:53:27.808977-07:00.accessibility.json) |
 | [August 5 at 11:50 AM](https://archive.org/download/laist-2022/laist-2022-08-05T11:50:32.597544-07:00.accessibility.json) |
 | [August 5 at 10:26 AM](https://archive.org/download/laist-2022/laist-2022-08-05T10:26:40.859310-07:00.accessibility.json) |
@@ -427,14 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 4 at 8:27 AM](https://archive.org/download/laist-2022/laist-2022-08-04T08:26:52.380395-07:00.accessibility.json) |
 | [August 3 at 8:25 PM](https://archive.org/download/laist-2022/laist-2022-08-03T20:25:47.486595-07:00.accessibility.json) |
 | [August 3 at 11:37 AM](https://archive.org/download/laist-2022/laist-2022-08-03T11:37:52.761024-07:00.accessibility.json) |
-| [August 3 at 10:00 AM](https://archive.org/download/laist-2022/laist-2022-08-03T10:00:37.362004-07:00.accessibility.json) |
-| [August 2 at 9:33 PM](https://archive.org/download/laist-2022/laist-2022-08-02T21:33:51.032211-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 40 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 42 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 6 at 11:38 AM](https://archive.org/download/laist-2022/laist-2022-08-06T11:38:18.578358-07:00.lighthouse.json) |
+| [August 6 at 9:17 AM](https://archive.org/download/laist-2022/laist-2022-08-06T09:17:18.744773-07:00.lighthouse.json) |
 | [August 5 at 9:53 PM](https://archive.org/download/laist-2022/laist-2022-08-05T21:53:27.808977-07:00.lighthouse.json) |
 | [August 5 at 11:50 AM](https://archive.org/download/laist-2022/laist-2022-08-05T11:50:32.597544-07:00.lighthouse.json) |
 | [August 5 at 10:26 AM](https://archive.org/download/laist-2022/laist-2022-08-05T10:26:40.859310-07:00.lighthouse.json) |
@@ -533,8 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 4 at 8:27 AM](https://archive.org/download/laist-2022/laist-2022-08-04T08:26:52.380395-07:00.lighthouse.json) |
 | [August 3 at 8:25 PM](https://archive.org/download/laist-2022/laist-2022-08-03T20:25:47.486595-07:00.lighthouse.json) |
 | [August 3 at 11:38 AM](https://archive.org/download/laist-2022/laist-2022-08-03T11:37:52.761024-07:00.lighthouse.json) |
-| [August 3 at 10:00 AM](https://archive.org/download/laist-2022/laist-2022-08-03T10:00:37.362004-07:00.lighthouse.json) |
-| [August 2 at 9:34 PM](https://archive.org/download/laist-2022/laist-2022-08-02T21:33:51.032211-07:00.lighthouse.json) |
 
 
 

@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 8 screenshots with the Internet Archive.
+The archiving routine has saved 9 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wgrz-2022/wgrz-2022-08-06T10:00:07.505194-04:00.jpg">
+  <img src="https://archive.org/download/wgrz-2022/wgrz-2022-08-06T10:00:07.505194-04:00.jpg"
+     alt="WGRZ at 2022-08-06 10:00:09-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wgrz-2022/wgrz-2022-08-06T10:00:07.505194-04:00.jpg">August 6 at 10:00 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wgrz-2022/wgrz-2022-08-05T22:27:44.726666-04:00.jpg">
@@ -104,7 +113,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 8 hyperlink lists with the Internet Archive.
+The archiving routine has saved 9 hyperlink lists with the Internet Archive.
 
 
 
@@ -112,6 +121,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 6 at 10:00 AM](https://archive.org/download/wgrz-2022/wgrz-2022-08-06T10:00:07.505194-04:00.hyperlinks.json) |
 | [August 5 at 10:27 PM](https://archive.org/download/wgrz-2022/wgrz-2022-08-05T22:27:44.726666-04:00.hyperlinks.json) |
 | [August 5 at 1:39 PM](https://archive.org/download/wgrz-2022/wgrz-2022-08-05T13:39:16.294903-04:00.hyperlinks.json) |
 | [August 5 at 10:17 AM](https://archive.org/download/wgrz-2022/wgrz-2022-08-05T10:17:16.061914-04:00.hyperlinks.json) |
@@ -124,7 +134,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 8 accessibility trees with the Internet Archive.
+The archiving routine has saved 9 accessibility trees with the Internet Archive.
 
 
 
@@ -132,6 +142,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 6 at 10:00 AM](https://archive.org/download/wgrz-2022/wgrz-2022-08-06T10:00:07.505194-04:00.accessibility.json) |
 | [August 5 at 10:27 PM](https://archive.org/download/wgrz-2022/wgrz-2022-08-05T22:27:44.726666-04:00.accessibility.json) |
 | [August 5 at 1:39 PM](https://archive.org/download/wgrz-2022/wgrz-2022-08-05T13:39:16.294903-04:00.accessibility.json) |
 | [August 5 at 10:17 AM](https://archive.org/download/wgrz-2022/wgrz-2022-08-05T10:17:16.061914-04:00.accessibility.json) |

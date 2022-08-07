@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 162 screenshots with the Internet Archive.
+The archiving routine has saved 163 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 162 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theonion-2022/theonion-2022-08-06T08:56:55.574883-05:00.jpg">
+  <img src="https://archive.org/download/theonion-2022/theonion-2022-08-06T08:56:55.574883-05:00.jpg"
+     alt="Onion at 2022-08-06 08:56:56-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theonion-2022/theonion-2022-08-06T08:56:55.574883-05:00.jpg">August 6 at 8:56 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theonion-2022/theonion-2022-08-05T21:23:55.200460-05:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/theonion-2022/theonion-2022-08-01T09:49:17.671120-05:00.jpg">August 1 at 9:49 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/theonion-2022/theonion-2022-07-31T20:28:17.936423-05:00.jpg">
-  <img src="https://archive.org/download/theonion-2022/theonion-2022-07-31T20:28:17.936423-05:00.jpg"
-     alt="Onion at 2022-07-31 20:28:19-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theonion-2022/theonion-2022-07-31T20:28:17.936423-05:00.jpg">July 31 at 8:28 PM</a></p>
 </div>
 
 </div>
@@ -434,7 +434,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 29 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 6 at 8:56 AM](https://archive.org/download/theonion-2022/theonion-2022-08-06T08:56:55.574883-05:00.lighthouse.json) |
 | [August 5 at 9:24 PM](https://archive.org/download/theonion-2022/theonion-2022-08-05T21:23:55.200460-05:00.lighthouse.json) |
 | [August 5 at 12:35 PM](https://archive.org/download/theonion-2022/theonion-2022-08-05T12:35:48.339856-05:00.lighthouse.json) |
 | [August 5 at 9:13 AM](https://archive.org/download/theonion-2022/theonion-2022-08-05T09:13:44.115129-05:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 3 at 9:31 AM](https://archive.org/download/theonion-2022/theonion-2022-08-03T09:31:19.585204-05:00.lighthouse.json) |
 | [August 2 at 8:57 PM](https://archive.org/download/theonion-2022/theonion-2022-08-02T20:57:29.368195-05:00.lighthouse.json) |
 | [August 2 at 8:44 AM](https://archive.org/download/theonion-2022/theonion-2022-08-02T08:44:14.104962-05:00.lighthouse.json) |
-| [August 1 at 9:00 PM](https://archive.org/download/theonion-2022/theonion-2022-08-01T21:00:27.825833-05:00.lighthouse.json) |
 
 
 

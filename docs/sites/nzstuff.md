@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 2 screenshots with the Internet Archive.
+The archiving routine has saved 4 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nzstuff-2022/nzstuff-2022-08-07T12:43:36.570213+12:00.jpg">
+  <img src="https://archive.org/download/nzstuff-2022/nzstuff-2022-08-07T12:43:36.570213+12:00.jpg"
+     alt="Stuff at 2022-08-07 12:43:38+12:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nzstuff-2022/nzstuff-2022-08-07T12:43:36.570213+12:00.jpg">August 7 at 12:43 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nzstuff-2022/nzstuff-2022-08-07T00:34:45.946291+12:00.jpg">
+  <img src="https://archive.org/download/nzstuff-2022/nzstuff-2022-08-07T00:34:45.946291+12:00.jpg"
+     alt="Stuff at 2022-08-07 00:34:47+12:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nzstuff-2022/nzstuff-2022-08-07T00:34:45.946291+12:00.jpg">August 7 at 12:34 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nzstuff-2022/nzstuff-2022-08-06T14:10:23.620926+12:00.jpg">
@@ -50,7 +68,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 2 hyperlink lists with the Internet Archive.
+The archiving routine has saved 4 hyperlink lists with the Internet Archive.
 
 
 
@@ -58,13 +76,15 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 7 at 12:43 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-07T12:43:36.570213+12:00.hyperlinks.json) |
+| [August 7 at 12:34 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-07T00:34:45.946291+12:00.hyperlinks.json) |
 | [August 6 at 2:10 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-06T14:10:23.620926+12:00.hyperlinks.json) |
 | [August 6 at 12:42 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-06T00:42:04.323046+12:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 2 accessibility trees with the Internet Archive.
+The archiving routine has saved 4 accessibility trees with the Internet Archive.
 
 
 
@@ -72,6 +92,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 7 at 12:43 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-07T12:43:36.570213+12:00.accessibility.json) |
+| [August 7 at 12:34 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-07T00:34:45.946291+12:00.accessibility.json) |
 | [August 6 at 2:10 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-06T14:10:23.620926+12:00.accessibility.json) |
 | [August 6 at 12:42 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-06T00:42:04.323046+12:00.accessibility.json) |
 
@@ -79,7 +101,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 2 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 4 Lighthouse audits with the Internet Archive.
 
 
 
@@ -87,6 +109,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 7 at 12:43 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-07T12:43:36.570213+12:00.lighthouse.json) |
+| [August 7 at 12:34 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-07T00:34:45.946291+12:00.lighthouse.json) |
 | [August 6 at 2:10 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-06T14:10:23.620926+12:00.lighthouse.json) |
 | [August 6 at 12:42 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-08-06T00:42:04.323046+12:00.lighthouse.json) |
 

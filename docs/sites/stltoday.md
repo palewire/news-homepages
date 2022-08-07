@@ -223,7 +223,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 80 hyperlink lists with the Internet Archive.
+The archiving routine has saved 81 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 6 at 11:27 AM](https://archive.org/download/stltoday-2022/stltoday-2022-08-06T11:27:09.633588-05:00.hyperlinks.json) |
 | [August 6 at 12:04 AM](https://archive.org/download/stltoday-2022/stltoday-2022-08-06T00:04:29.606590-05:00.hyperlinks.json) |
 | [August 5 at 12:57 PM](https://archive.org/download/stltoday-2022/stltoday-2022-08-05T12:57:00.015887-05:00.hyperlinks.json) |
 | [August 4 at 11:42 PM](https://archive.org/download/stltoday-2022/stltoday-2022-08-04T23:42:54.962470-05:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 2 at 11:45 PM](https://archive.org/download/stltoday-2022/stltoday-2022-08-02T23:45:04.942682-05:00.hyperlinks.json) |
 | [August 2 at 11:20 AM](https://archive.org/download/stltoday-2022/stltoday-2022-08-02T11:20:35.981886-05:00.hyperlinks.json) |
 | [August 1 at 11:27 PM](https://archive.org/download/stltoday-2022/stltoday-2022-08-01T23:26:55.411798-05:00.hyperlinks.json) |
-| [July 31 at 11:00 PM](https://archive.org/download/stltoday-2022/stltoday-2022-07-31T23:00:00.216882-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 88 accessibility trees with the Internet Archive.
+The archiving routine has saved 89 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 6 at 11:27 AM](https://archive.org/download/stltoday-2022/stltoday-2022-08-06T11:27:09.633588-05:00.accessibility.json) |
 | [August 6 at 12:04 AM](https://archive.org/download/stltoday-2022/stltoday-2022-08-06T00:04:29.606590-05:00.accessibility.json) |
 | [August 5 at 12:57 PM](https://archive.org/download/stltoday-2022/stltoday-2022-08-05T12:57:00.015887-05:00.accessibility.json) |
 | [August 4 at 11:42 PM](https://archive.org/download/stltoday-2022/stltoday-2022-08-04T23:42:54.962470-05:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 2 at 11:45 PM](https://archive.org/download/stltoday-2022/stltoday-2022-08-02T23:45:04.942682-05:00.accessibility.json) |
 | [August 2 at 11:20 AM](https://archive.org/download/stltoday-2022/stltoday-2022-08-02T11:20:35.981886-05:00.accessibility.json) |
 | [August 1 at 11:26 PM](https://archive.org/download/stltoday-2022/stltoday-2022-08-01T23:26:55.411798-05:00.accessibility.json) |
-| [August 1 at 11:11 AM](https://archive.org/download/stltoday-2022/stltoday-2022-08-01T11:11:23.223818-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 28 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 6 at 11:27 AM](https://archive.org/download/stltoday-2022/stltoday-2022-08-06T11:27:09.633588-05:00.lighthouse.json) |
 | [August 6 at 12:04 AM](https://archive.org/download/stltoday-2022/stltoday-2022-08-06T00:04:29.606590-05:00.lighthouse.json) |
 | [August 5 at 12:57 PM](https://archive.org/download/stltoday-2022/stltoday-2022-08-05T12:57:00.015887-05:00.lighthouse.json) |
 | [August 4 at 11:43 PM](https://archive.org/download/stltoday-2022/stltoday-2022-08-04T23:42:54.962470-05:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 2 at 11:45 PM](https://archive.org/download/stltoday-2022/stltoday-2022-08-02T23:45:04.942682-05:00.lighthouse.json) |
 | [August 2 at 11:20 AM](https://archive.org/download/stltoday-2022/stltoday-2022-08-02T11:20:35.981886-05:00.lighthouse.json) |
 | [August 1 at 11:27 PM](https://archive.org/download/stltoday-2022/stltoday-2022-08-01T23:26:55.411798-05:00.lighthouse.json) |
-| [August 1 at 11:11 AM](https://archive.org/download/stltoday-2022/stltoday-2022-08-01T11:11:23.223818-05:00.lighthouse.json) |
 
 
 

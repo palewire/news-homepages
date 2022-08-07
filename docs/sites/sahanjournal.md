@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 212 screenshots with the Internet Archive.
+The archiving routine has saved 214 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-08-06T19:47:11.876054-05:00.jpg">
+  <img src="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-08-06T19:47:11.876054-05:00.jpg"
+     alt="Sahan Journal at 2022-08-06 19:47:17-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-08-06T19:47:11.876054-05:00.jpg">August 6 at 7:47 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-08-06T07:37:58.852099-05:00.jpg">
+  <img src="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-08-06T07:37:58.852099-05:00.jpg"
+     alt="Sahan Journal at 2022-08-06 07:38:00-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-08-06T07:37:58.852099-05:00.jpg">August 6 at 7:38 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-08-05T21:12:37.386063-05:00.jpg">
   <img src="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-08-05T21:12:37.386063-05:00.jpg"
      alt="Sahan Journal at 2022-08-05 21:12:40-05:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-08-01T07:29:43.784435-05:00.jpg">August 1 at 7:29 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-31T19:24:38.236482-05:00.jpg">
-  <img src="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-31T19:24:38.236482-05:00.jpg"
-     alt="Sahan Journal at 2022-07-31 19:24:42-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-31T19:24:38.236482-05:00.jpg">July 31 at 7:24 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-31T08:24:37.105786-05:00.jpg">
-  <img src="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-31T08:24:37.105786-05:00.jpg"
-     alt="Sahan Journal at 2022-07-31 08:24:38-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sahanjournal-2022/sahanjournal-2022-07-31T08:24:37.105786-05:00.jpg">July 31 at 8:24 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 213 hyperlink lists with the Internet Archive.
+The archiving routine has saved 215 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 6 at 7:47 PM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-08-06T19:47:11.876054-05:00.hyperlinks.json) |
+| [August 6 at 7:38 AM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-08-06T07:37:58.852099-05:00.hyperlinks.json) |
 | [August 5 at 9:12 PM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-08-05T21:12:37.386063-05:00.hyperlinks.json) |
 | [August 5 at 7:46 AM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-08-05T07:46:37.638823-05:00.hyperlinks.json) |
 | [August 4 at 8:49 PM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-08-04T20:49:01.341539-05:00.hyperlinks.json) |
@@ -322,13 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 3 at 7:57 AM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-08-03T07:57:24.929141-05:00.hyperlinks.json) |
 | [August 2 at 7:44 PM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-08-02T19:44:30.975572-05:00.hyperlinks.json) |
 | [August 2 at 7:29 AM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-08-02T07:29:08.125388-05:00.hyperlinks.json) |
-| [August 1 at 7:43 PM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-08-01T19:43:25.894816-05:00.hyperlinks.json) |
-| [August 1 at 7:29 AM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-08-01T07:29:43.784435-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 212 accessibility trees with the Internet Archive.
+The archiving routine has saved 214 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 6 at 7:47 PM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-08-06T19:47:11.876054-05:00.accessibility.json) |
+| [August 6 at 7:38 AM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-08-06T07:37:58.852099-05:00.accessibility.json) |
 | [August 5 at 9:12 PM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-08-05T21:12:37.386063-05:00.accessibility.json) |
 | [August 5 at 7:46 AM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-08-05T07:46:37.638823-05:00.accessibility.json) |
 | [August 4 at 8:49 PM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-08-04T20:49:01.341539-05:00.accessibility.json) |
@@ -427,14 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 3 at 7:57 AM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-08-03T07:57:24.929141-05:00.accessibility.json) |
 | [August 2 at 7:44 PM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-08-02T19:44:30.975572-05:00.accessibility.json) |
 | [August 2 at 7:29 AM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-08-02T07:29:08.125388-05:00.accessibility.json) |
-| [August 1 at 7:43 PM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-08-01T19:43:25.894816-05:00.accessibility.json) |
-| [August 1 at 7:29 AM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-08-01T07:29:43.784435-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 29 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 6 at 7:47 PM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-08-06T19:47:11.876054-05:00.lighthouse.json) |
+| [August 6 at 7:38 AM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-08-06T07:37:58.852099-05:00.lighthouse.json) |
 | [August 5 at 9:12 PM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-08-05T21:12:37.386063-05:00.lighthouse.json) |
 | [August 5 at 7:46 AM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-08-05T07:46:37.638823-05:00.lighthouse.json) |
 | [August 4 at 8:49 PM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-08-04T20:49:01.341539-05:00.lighthouse.json) |
@@ -450,8 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 3 at 7:57 AM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-08-03T07:57:24.929141-05:00.lighthouse.json) |
 | [August 2 at 7:44 PM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-08-02T19:44:30.975572-05:00.lighthouse.json) |
 | [August 2 at 7:29 AM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-08-02T07:29:08.125388-05:00.lighthouse.json) |
-| [August 1 at 7:43 PM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-08-01T19:43:25.894816-05:00.lighthouse.json) |
-| [August 1 at 7:29 AM](https://archive.org/download/sahanjournal-2022/sahanjournal-2022-08-01T07:29:43.784435-05:00.lighthouse.json) |
 
 
 
