@@ -1,5 +1,6 @@
 {
-  "created": 1659788991,
+  "conflict": 1659832762,
+  "created": 1659832762,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/11/items/infoamazoniabr-2022",
@@ -566,31 +567,93 @@
       "sha1": "4b441ff6253645461e4f04fcb2b5e68dfc982803"
     },
     {
+      "name": "infoamazoniabr-2022-08-06T21:35:24.927811-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659832528",
+      "size": "24139",
+      "md5": "c02d23d626647acd77d2d74417183a80",
+      "crc32": "fa0d3d4a",
+      "sha1": "534c3ca25ad51a3bc3287f504764b8b590d9419f",
+      "format": "JSON"
+    },
+    {
+      "name": "infoamazoniabr-2022-08-06T21:35:24.927811-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659832530",
+      "size": "22456",
+      "md5": "91afa5162418aaecc4ce3cb1abe2567f",
+      "crc32": "fefbc5a6",
+      "sha1": "f40847a358db58cd3ea99a67a05a6e8bd573312f",
+      "format": "JSON"
+    },
+    {
+      "name": "infoamazoniabr-2022-08-06T21:35:24.927811-03:00.jpg",
+      "source": "original",
+      "mtime": "1659832526",
+      "size": "240548",
+      "md5": "dc7032bdba1e3323a035b4d441a5f762",
+      "crc32": "ec0ca1e9",
+      "sha1": "a7236ce0e5ccf4daa2b5414f56b44102b013e95b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "infoamazoniabr-2022-08-06T21:35:24.927811-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659832531",
+      "size": "1468",
+      "md5": "a78e5a9739b3cac9c90a4f9745ea1225",
+      "crc32": "8b364129",
+      "sha1": "563e8fdbe341af86f97f0183bddbbb1ef8e59a53",
+      "format": "JSON"
+    },
+    {
+      "name": "infoamazoniabr-2022-08-06T21:35:24.927811-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1659832532",
+      "size": "12026",
+      "md5": "ba3bedf31d6fce5b60b29b5ac02aa8a8",
+      "crc32": "65cb8654",
+      "sha1": "129bf8c37b5d36395c70c341c13657312c3fe6eb",
+      "format": "JSON"
+    },
+    {
+      "name": "infoamazoniabr-2022-08-06T21:35:24.927811-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "infoamazoniabr-2022-08-06T21:35:24.927811-03:00.jpg",
+      "mtime": "1659832757",
+      "size": "9839",
+      "md5": "4b58c1b6a62987f8bb1c1b1b372cb387",
+      "crc32": "d623fd98",
+      "sha1": "4b441ff6253645461e4f04fcb2b5e68dfc982803"
+    },
+    {
       "name": "infoamazoniabr-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a6389ea46fb49aa52095257bd18fe9361eaf4b60",
-      "mtime": "1659788979",
-      "size": "13112",
-      "md5": "3777499685316e1865a7ce6befc38358",
-      "crc32": "289dff83",
-      "sha1": "6f684ba2be74d34b044d5c65f30a0454b9db12fe",
+      "btih": "906f5fc958a25c2ee867a27e4e2cb115484238a7",
+      "mtime": "1659832760",
+      "size": "14415",
+      "md5": "1df17aa8a1fe035d3ce782503eb7c397",
+      "crc32": "b9c2a342",
+      "sha1": "55042d954250ce34748c9b3e25f97c06eb252529",
       "format": "Archive BitTorrent"
     },
     {
       "name": "infoamazoniabr-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "80c091bc6d8de6f176bea997e1f59a51",
+      "md5": "b41712d8ac26aa66dd6127a963328b5d",
       "summation": "md5"
     },
     {
       "name": "infoamazoniabr-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659788912",
-      "size": "81920",
-      "md5": "e3124a01a96836a5074c7c4913d91b0e",
-      "crc32": "713f29b3",
-      "sha1": "ffc14a8f9c987fa14c27ac771e77b8a164af6f3c",
+      "mtime": "1659832537",
+      "size": "86016",
+      "md5": "d0129137e424cec37e4b48e4b386de77",
+      "crc32": "f2ee5766",
+      "sha1": "8e675891280bea262682dbcaf98e9c57db00b2ad",
       "format": "Metadata"
     },
     {
@@ -604,9 +667,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 58,
-  "item_last_updated": 1659788979,
-  "item_size": 3121340,
+  "files_count": 64,
+  "item_last_updated": 1659832760,
+  "item_size": 3437215,
   "metadata": {
     "identifier": "infoamazoniabr-2022",
     "collection": [
@@ -623,10 +686,29 @@
     "publicdate": "2022-08-03 00:33:10",
     "addeddate": "2022-08-03 00:33:10"
   },
+  "pending_tasks": true,
   "server": "ia601401.us.archive.org",
-  "uniq": 1975520439,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3355374887,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3355377908,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 32986396,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia601401.us.archive.org"
   ]
 }

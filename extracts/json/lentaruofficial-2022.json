@@ -1,5 +1,5 @@
 {
-  "created": 1659763360,
+  "created": 1659833089,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/6/items/lentaruofficial-2022",
@@ -3090,31 +3090,93 @@
       "sha1": "5d65f06bbb41a379cc27f2a2150a955acb2a342e"
     },
     {
+      "name": "lentaruofficial-2022-08-06T19:16:05.864848+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659802569",
+      "size": "79165",
+      "md5": "ca57b3b3c329bc0dcf2028d4f7e668e6",
+      "crc32": "a8222348",
+      "sha1": "d4ccfac0e5b025eb2f67e5c37e86dd12e1ce51fd",
+      "format": "JSON"
+    },
+    {
+      "name": "lentaruofficial-2022-08-06T19:16:05.864848+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659802570",
+      "size": "74563",
+      "md5": "06cf6067638554e83100a182e3eab683",
+      "crc32": "1045647f",
+      "sha1": "650da6e39f787af13e49b91402d319004ec9e045",
+      "format": "JSON"
+    },
+    {
+      "name": "lentaruofficial-2022-08-06T19:16:05.864848+03:00.jpg",
+      "source": "original",
+      "mtime": "1659802567",
+      "size": "235510",
+      "md5": "6b70a952e84eff3506e12ca230b16305",
+      "crc32": "f65219fc",
+      "sha1": "5069ec01181dd95ff611dc8846df23530b3ede52",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lentaruofficial-2022-08-06T19:16:05.864848+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659802572",
+      "size": "1417",
+      "md5": "a716bc5368f3e9b7ba8074071fe7e2ea",
+      "crc32": "3fe41687",
+      "sha1": "0fd3e73aab6ae4a3837f4d0d9b33559845023960",
+      "format": "JSON"
+    },
+    {
+      "name": "lentaruofficial-2022-08-06T19:16:05.864848+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1659802573",
+      "size": "331",
+      "md5": "3fed2df33bf79314eccbd452c969ab6c",
+      "crc32": "2d58f3a8",
+      "sha1": "ce7eabe92acc0c2bd2944496dc279e1bc54f3a16",
+      "format": "JSON"
+    },
+    {
+      "name": "lentaruofficial-2022-08-06T19:16:05.864848+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lentaruofficial-2022-08-06T19:16:05.864848+03:00.jpg",
+      "mtime": "1659802642",
+      "size": "8581",
+      "md5": "4b7205435ef5c8660d801f7658e724a0",
+      "crc32": "bafd08cf",
+      "sha1": "de1805362a0a3492b1d5fea84c1933da10fdf041"
+    },
+    {
       "name": "lentaruofficial-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c57f71a1d4245d896d84d576217a0f4d5284abe5",
-      "mtime": "1659763218",
-      "size": "66075",
-      "md5": "42f8d88f21f9fb676660a7c7ee05c4f9",
-      "crc32": "95d640e4",
-      "sha1": "c64a11ab424462d7139cd10809e6cbd3513d75bd",
+      "btih": "a4f7f148da2209fb19406ccb1380841403251696",
+      "mtime": "1659802648",
+      "size": "67362",
+      "md5": "9925aee457c5646afcac01f252e37840",
+      "crc32": "01d1388e",
+      "sha1": "6e804d1e858b6a30ef8c82c856dbabae21ec262b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lentaruofficial-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "71a5c95ad4be53e60b3abaaf0d1a945a",
+      "md5": "2f53f59b895cf392df7768fa972fd6fc",
       "summation": "md5"
     },
     {
       "name": "lentaruofficial-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659763011",
-      "size": "380928",
-      "md5": "b39511bdc11c13d7e8788cee997b7328",
-      "crc32": "2a90767b",
-      "sha1": "3c071d71dd490f68dd0ba04eed068ae7eea56ef7",
+      "mtime": "1659802577",
+      "size": "389120",
+      "md5": "64e0d151e90fad8f248ad71b0696f0ad",
+      "crc32": "d0cc642e",
+      "sha1": "c66d3bc848343c28c17ba2882ad43de0f774abe1",
       "format": "Metadata"
     },
     {
@@ -3128,9 +3190,24 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 300,
-  "item_last_updated": 1659763218,
-  "item_size": 27914539,
+  "files_count": 306,
+  "item_last_updated": 1659802648,
+  "item_size": 28323585,
+  "lentaruofficial-2022": {
+    "url": "https://lenta.ru/",
+    "job_id": "spn2-5988c655382afeac5d0b30dc509d191baf9bbcdd",
+    "status": "success",
+    "counters": {
+      "embeds": 54,
+      "outlinks": 70
+    },
+    "resources": [],
+    "http_status": 200,
+    "timestamp": "20220806133344",
+    "original_url": "https://lenta.ru/",
+    "outlinks": [],
+    "duration_sec": 14.602
+  },
   "metadata": {
     "identifier": "lentaruofficial-2022",
     "collection": [
@@ -3147,10 +3224,10 @@
     "publicdate": "2022-07-16 20:49:02",
     "addeddate": "2022-07-16 20:49:02"
   },
-  "server": "ia601505.us.archive.org",
-  "uniq": 266076115,
+  "server": "ia801505.us.archive.org",
+  "uniq": 485391905,
   "workable_servers": [
-    "ia601505.us.archive.org",
-    "ia801505.us.archive.org"
+    "ia801505.us.archive.org",
+    "ia601505.us.archive.org"
   ]
 }

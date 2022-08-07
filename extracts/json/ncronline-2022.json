@@ -1,6 +1,5 @@
 {
-  "conflict": 1659789214,
-  "created": 1659789214,
+  "created": 1659833023,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/12/items/ncronline-2022",
@@ -2701,31 +2700,155 @@
       "sha1": "414b9976e52e69d4eb2b758d84f5d3ccb249c1e5"
     },
     {
+      "name": "ncronline-2022-08-06T07:33:26.297578-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659789209",
+      "size": "74969",
+      "md5": "9c155f937d496708c1476eb37f4a8605",
+      "crc32": "5b29320f",
+      "sha1": "0e9d80106e2bc3e7d70d6398b44547ff90a16b8c",
+      "format": "JSON"
+    },
+    {
+      "name": "ncronline-2022-08-06T07:33:26.297578-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659789211",
+      "size": "44129",
+      "md5": "e18e58b0691b8ccfe5146bf4023d7895",
+      "crc32": "054348cb",
+      "sha1": "80c20c0aa49628774b3ea758575a8b4d20f8e6eb",
+      "format": "JSON"
+    },
+    {
+      "name": "ncronline-2022-08-06T07:33:26.297578-05:00.jpg",
+      "source": "original",
+      "mtime": "1659789208",
+      "size": "238572",
+      "md5": "f3ee764784f89c22c3ae561d26c50c77",
+      "crc32": "38c88ca3",
+      "sha1": "0b8bf50fa5de2329294fd96fdfe26a2135f5c53f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ncronline-2022-08-06T07:33:26.297578-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659789212",
+      "size": "1486",
+      "md5": "2b6ec250214a16413748670386ebd16c",
+      "crc32": "0ae2201a",
+      "sha1": "95272c6b26dbb2c47bbce8ba08d20e01faf2ad67",
+      "format": "JSON"
+    },
+    {
+      "name": "ncronline-2022-08-06T07:33:26.297578-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1659789214",
+      "size": "31660",
+      "md5": "c1ca8423c560948a63249ed79aadf8a2",
+      "crc32": "76868b5c",
+      "sha1": "f162314707c0faa30bcb27e70db36b458a7288b9",
+      "format": "JSON"
+    },
+    {
+      "name": "ncronline-2022-08-06T07:33:26.297578-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ncronline-2022-08-06T07:33:26.297578-05:00.jpg",
+      "mtime": "1659789276",
+      "size": "9444",
+      "md5": "06f4f3db72e927422b26a943cc4531fd",
+      "crc32": "ba5b4bf0",
+      "sha1": "7cf82ba9b5819be4fc7fe455c413591aa05809bf"
+    },
+    {
+      "name": "ncronline-2022-08-06T19:42:17.711655-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659832941",
+      "size": "74753",
+      "md5": "afb178c111c5ab99e7db6fd22ec0e5de",
+      "crc32": "610890d9",
+      "sha1": "a0eeea17b77092fdb3c3632e4a01d74b34416dcc",
+      "format": "JSON"
+    },
+    {
+      "name": "ncronline-2022-08-06T19:42:17.711655-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659832946",
+      "size": "44229",
+      "md5": "fbbe159a4533b600e6a57d784bd3bfbb",
+      "crc32": "a25c2bfb",
+      "sha1": "ffacc030f581eb567fc0bbe15b5a60cf9f754350",
+      "format": "JSON"
+    },
+    {
+      "name": "ncronline-2022-08-06T19:42:17.711655-05:00.jpg",
+      "source": "original",
+      "mtime": "1659832939",
+      "size": "238572",
+      "md5": "f3ee764784f89c22c3ae561d26c50c77",
+      "crc32": "38c88ca3",
+      "sha1": "0b8bf50fa5de2329294fd96fdfe26a2135f5c53f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ncronline-2022-08-06T19:42:17.711655-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659832949",
+      "size": "1486",
+      "md5": "18f8f2f285e2fe9a0cea5c5197286a4d",
+      "crc32": "4655d529",
+      "sha1": "f26bff24f05afeb190af4f43c1ac4a1a9b147588",
+      "format": "JSON"
+    },
+    {
+      "name": "ncronline-2022-08-06T19:42:17.711655-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1659832959",
+      "size": "32093",
+      "md5": "9a2f398edbb67e00114ba8d578a471ca",
+      "crc32": "014da877",
+      "sha1": "7a23a61653b079f9d7258a9a1a252cb866b332d3",
+      "format": "JSON"
+    },
+    {
+      "name": "ncronline-2022-08-06T19:42:17.711655-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ncronline-2022-08-06T19:42:17.711655-05:00.jpg",
+      "mtime": "1659833013",
+      "size": "9444",
+      "md5": "06f4f3db72e927422b26a943cc4531fd",
+      "crc32": "ba5b4bf0",
+      "sha1": "7cf82ba9b5819be4fc7fe455c413591aa05809bf"
+    },
+    {
       "name": "ncronline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5d4520ac5cad8311cf7ff84c8ac8538cb70f6a61",
-      "mtime": "1659751797",
-      "size": "56158",
-      "md5": "66be890a9df4f1378dce47d972d1f0ec",
-      "crc32": "fafae1e5",
-      "sha1": "7ec5b21326b925178cab896e1257537501f4456a",
+      "btih": "4dde32f2132e48531f7a54339a8570cb857c89e5",
+      "mtime": "1659833016",
+      "size": "58684",
+      "md5": "9cf7101fd91c1a5401fe3361c3720e4b",
+      "crc32": "90e06047",
+      "sha1": "e8b07278b15e04f64272e7444a976b689da1993d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ncronline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6feae210a36ea70925c18c44289905cc",
+      "md5": "256b31c8222421d6de0add4ef1f149c5",
       "summation": "md5"
     },
     {
       "name": "ncronline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659751742",
-      "size": "327680",
-      "md5": "170e98608e616fd731938384c3140f49",
-      "crc32": "f3429f59",
-      "sha1": "f0893c5de35e67b63ddb4389d575936012fa62a3",
+      "mtime": "1659832963",
+      "size": "339968",
+      "md5": "818a494a5633447bc55353a04b78c5e1",
+      "crc32": "33cb192a",
+      "sha1": "22a03b0d641a15e9e57a5376ce2e7a62b8135533",
       "format": "Metadata"
     },
     {
@@ -2739,9 +2862,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 262,
-  "item_last_updated": 1659751797,
-  "item_size": 23739361,
+  "files_count": 274,
+  "item_last_updated": 1659833016,
+  "item_size": 24555012,
   "metadata": {
     "identifier": "ncronline-2022",
     "collection": [
@@ -2758,21 +2881,10 @@
     "publicdate": "2022-07-09 04:01:00",
     "addeddate": "2022-07-09 04:01:00"
   },
-  "pending_tasks": true,
   "server": "ia902503.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3354700564,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1117560257,
+  "uniq": 1697193003,
   "workable_servers": [
-    "ia902503.us.archive.org"
+    "ia902503.us.archive.org",
+    "ia802503.us.archive.org"
   ]
 }

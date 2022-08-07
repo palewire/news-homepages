@@ -1,5 +1,5 @@
 {
-  "created": 1659761475,
+  "created": 1659824212,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/2/items/espn-2022",
@@ -3098,31 +3098,93 @@
       "sha1": "5a9b2a58b1cc0724a58ec909ae6773292fc6079c"
     },
     {
+      "name": "espn-2022-08-06T12:09:42.460535-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659802196",
+      "size": "43848",
+      "md5": "5683bcacbf540ae17623a0a1f47cf8e4",
+      "crc32": "40886d28",
+      "sha1": "b28d874951f85a426082d21d41127caf36547a2b",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-08-06T12:09:42.460535-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659802198",
+      "size": "142274",
+      "md5": "699282e6fe966f933d5ac8789b30213a",
+      "crc32": "02e8ec60",
+      "sha1": "425f963b8752dc96e9bb9967b30eaea77aa6b2b5",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-08-06T12:09:42.460535-04:00.jpg",
+      "source": "original",
+      "mtime": "1659802193",
+      "size": "366253",
+      "md5": "3941bc66dc9efc5c2234e042d42b660b",
+      "crc32": "1a3f8352",
+      "sha1": "5f2ab083b6a35f91dc61adf61b602147523e68b8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "espn-2022-08-06T12:09:42.460535-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659802199",
+      "size": "1441",
+      "md5": "d529682ceb91b8de2258c7d65f2cb15d",
+      "crc32": "07fda361",
+      "sha1": "d1f34ebf1da49ee95aa2256a1032d2f5b796873a",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-08-06T12:09:42.460535-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659802201",
+      "size": "70631",
+      "md5": "959fd2ec4073c75483b3b7f7530164d8",
+      "crc32": "6dff6f57",
+      "sha1": "7a58dfd031b2c453305e3fbe7bd2faf09da59f35",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-08-06T12:09:42.460535-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "espn-2022-08-06T12:09:42.460535-04:00.jpg",
+      "mtime": "1659802374",
+      "size": "10975",
+      "md5": "95a3e238da306c38468874e32cf65375",
+      "crc32": "b67ea116",
+      "sha1": "4b5bc1554c8acd32f02a9c97d719d3d3cdf34d00"
+    },
+    {
       "name": "espn-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3b5face305fae463b3498e178bc5e91cc0f4f817",
-      "mtime": "1659761452",
-      "size": "63010",
-      "md5": "bc458a3932d4afd3857650c4e2c92a44",
-      "crc32": "10fa17f1",
-      "sha1": "4334dfa0aa1a8c60d2af44ddb3767a7c318ba7e1",
+      "btih": "9d49267c645767b012fa7b3fe9bda1e2e05a915d",
+      "mtime": "1659802405",
+      "size": "64255",
+      "md5": "987d651cf5148f19ae9b07fe55e1cbd8",
+      "crc32": "233dce66",
+      "sha1": "d3caf3261d781147646566e7f61f6ab38d838082",
       "format": "Archive BitTorrent"
     },
     {
       "name": "espn-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e0a7f8a1850eaa9787f3e0320ec7406a",
+      "md5": "958ef56a3ac605934aef9c2237d719aa",
       "summation": "md5"
     },
     {
       "name": "espn-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659761267",
-      "size": "372736",
-      "md5": "fc520c3f05884df999260c2d05444af0",
-      "crc32": "5765491e",
-      "sha1": "a1772b10a97a234b2ee03f054a4bdf776ffc6f8b",
+      "mtime": "1659802209",
+      "size": "376832",
+      "md5": "4abe8206c8f730bf1bca0bc6a829dc64",
+      "crc32": "19a27230",
+      "sha1": "3c20e4f0cd45bdabd5bdbfbd13a1e4c65a07606a",
       "format": "Metadata"
     },
     {
@@ -3136,9 +3198,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 300,
-  "item_last_updated": 1659761452,
-  "item_size": 33315525,
+  "files_count": 306,
+  "item_last_updated": 1659802405,
+  "item_size": 33956288,
   "metadata": {
     "identifier": "espn-2022",
     "collection": [
@@ -3155,10 +3217,10 @@
     "publicdate": "2022-07-04 20:48:15",
     "addeddate": "2022-07-04 20:48:15"
   },
-  "server": "ia802503.us.archive.org",
-  "uniq": 609818133,
+  "server": "ia902503.us.archive.org",
+  "uniq": 653531062,
   "workable_servers": [
-    "ia802503.us.archive.org",
-    "ia902503.us.archive.org"
+    "ia902503.us.archive.org",
+    "ia802503.us.archive.org"
   ]
 }

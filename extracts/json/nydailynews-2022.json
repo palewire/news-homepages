@@ -1,5 +1,6 @@
 {
-  "created": 1659751936,
+  "conflict": 1659833152,
+  "created": 1659833152,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/6/items/nydailynews-2022",
@@ -3154,31 +3155,145 @@
       "sha1": "9dedefe6339a5364b69e1b717e393255d6c9b608"
     },
     {
+      "name": "nydailynews-2022-08-06T08:34:53.988777-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659789297",
+      "size": "76323",
+      "md5": "4a90a34a30038d2ca485e1ce599491b6",
+      "crc32": "b81f2c55",
+      "sha1": "982cbc936807e23de44f303f94e5422dc464ef60",
+      "format": "JSON"
+    },
+    {
+      "name": "nydailynews-2022-08-06T08:34:53.988777-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659789298",
+      "size": "115453",
+      "md5": "8957321719e356f7aa7add5e432095b4",
+      "crc32": "48196d1b",
+      "sha1": "b82c7f9d1bc966afd10fe327ca52d447f0f024c8",
+      "format": "JSON"
+    },
+    {
+      "name": "nydailynews-2022-08-06T08:34:53.988777-04:00.jpg",
+      "source": "original",
+      "mtime": "1659789295",
+      "size": "223263",
+      "md5": "81dda503723ed1c362e855d9247aed88",
+      "crc32": "eb7035be",
+      "sha1": "bf43c27dffc3cf2922cbff0130f9a89ae07b79f0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nydailynews-2022-08-06T08:34:53.988777-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659789300",
+      "size": "1504",
+      "md5": "8159affa2cdf83c99dd4b8599362280e",
+      "crc32": "30412962",
+      "sha1": "bb88860a22958c91eca25c04e3f7c23428acf667",
+      "format": "JSON"
+    },
+    {
+      "name": "nydailynews-2022-08-06T08:34:53.988777-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659789302",
+      "size": "133248",
+      "md5": "ed477788e7c65971a09074083fb5d2ab",
+      "crc32": "9e1b5684",
+      "sha1": "63b415cd5c7f817a736835e00cc80369dd9214a9",
+      "format": "JSON"
+    },
+    {
+      "name": "nydailynews-2022-08-06T08:34:53.988777-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nydailynews-2022-08-06T08:34:53.988777-04:00.jpg",
+      "mtime": "1659789551",
+      "size": "9325",
+      "md5": "6aaa1f1f1dd583b85990c7780d656e4c",
+      "crc32": "dd7168dd",
+      "sha1": "296e54616de94e225b47f113eace1d94c0d3933d"
+    },
+    {
+      "name": "nydailynews-2022-08-06T20:43:27.260386-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659833018",
+      "size": "76755",
+      "md5": "1583029768dc908b589912ee22908582",
+      "crc32": "82af76f8",
+      "sha1": "13423ac467ce011871ca624204b10361a831f881",
+      "format": "JSON"
+    },
+    {
+      "name": "nydailynews-2022-08-06T20:43:27.260386-04:00.jpg",
+      "source": "original",
+      "mtime": "1659833016",
+      "size": "237418",
+      "md5": "10c0637ef00108686bcc792be731d226",
+      "crc32": "d02c74cd",
+      "sha1": "563281403e0298969945769b6a66b76f7af4bd99",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nydailynews-2022-08-06T20:43:27.260386-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659833020",
+      "size": "1504",
+      "md5": "add1613e02c3bd69b1ecaa459f7f265d",
+      "crc32": "621d7622",
+      "sha1": "48305287de02128e5b7a597fadd1cf51f413c178",
+      "format": "JSON"
+    },
+    {
+      "name": "nydailynews-2022-08-06T20:43:27.260386-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659833022",
+      "size": "66402",
+      "md5": "1db1c54cbb852f5d81adf7592e94a7e8",
+      "crc32": "be739f99",
+      "sha1": "47beceec0a50542f82ee088dd6c7bc1163e61e63",
+      "format": "JSON"
+    },
+    {
+      "name": "nydailynews-2022-08-06T20:43:27.260386-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nydailynews-2022-08-06T20:43:27.260386-04:00.jpg",
+      "mtime": "1659833143",
+      "size": "9348",
+      "md5": "e0db0e862a8a6bf6cf61787093db8950",
+      "crc32": "876bf0d5",
+      "sha1": "9ddd4a51e23499aee1931b409879c7fa675cadd2"
+    },
+    {
       "name": "nydailynews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "680d1afd95a2155b37c651d4b9d2f17758fc63dd",
-      "mtime": "1659751918",
-      "size": "65987",
-      "md5": "82e05a94a084edb7cf750b344dcddb32",
-      "crc32": "b1ddf5d5",
-      "sha1": "19072135c8ed9077230e52320798216f8eafd650",
+      "btih": "6bb010d7cda20e9be2a8186dad875d132b384fb5",
+      "mtime": "1659833150",
+      "size": "68345",
+      "md5": "87da68fe6b9fdccac4eceab29a9cde6c",
+      "crc32": "87c25ab0",
+      "sha1": "a2dd97bd1e25ec37ed7090d61fff3f11642a22c8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nydailynews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0a65c1c32ce3df74ca69f75c39966a39",
+      "md5": "22ae5c38b39462cb08b76939e28fee22",
       "summation": "md5"
     },
     {
       "name": "nydailynews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659751834",
-      "size": "372736",
-      "md5": "4a1c9315f43794ae65c68d695e1c01be",
-      "crc32": "38c4ecf0",
-      "sha1": "57763c89ccecf598e86da5395fa4e762bae22991",
+      "mtime": "1659833031",
+      "size": "385024",
+      "md5": "2b877cf9de4bf0520f1014f91986212d",
+      "crc32": "3162d66a",
+      "sha1": "e3b39d8a9db40e861019b544d99a1e4115c33569",
       "format": "Metadata"
     },
     {
@@ -3192,9 +3307,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 305,
-  "item_last_updated": 1659751918,
-  "item_size": 30435771,
+  "files_count": 316,
+  "item_last_updated": 1659833150,
+  "item_size": 31400960,
   "metadata": {
     "identifier": "nydailynews-2022",
     "collection": [
@@ -3211,10 +3326,21 @@
     "publicdate": "2022-07-04 21:50:33",
     "addeddate": "2022-07-04 21:50:33"
   },
+  "pending_tasks": true,
   "server": "ia601501.us.archive.org",
-  "uniq": 1295712746,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3355383652,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1041045726,
   "workable_servers": [
-    "ia601501.us.archive.org",
-    "ia801501.us.archive.org"
+    "ia601501.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1659789080,
+  "created": 1659832755,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/20/items/lagrangenews-2022",
@@ -1796,31 +1796,93 @@
       "sha1": "62525a18e888ce0670f1d3a5bc86d4b657d32cfb"
     },
     {
+      "name": "lagrangenews-2022-08-06T20:38:10.134463-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659832694",
+      "size": "20942",
+      "md5": "c2f3575fb80b34935ce45ef9d983bb82",
+      "crc32": "91d96352",
+      "sha1": "e7e5a0e4e77b32f70cfb8ccb05a987bfbe8aaaac",
+      "format": "JSON"
+    },
+    {
+      "name": "lagrangenews-2022-08-06T20:38:10.134463-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659832695",
+      "size": "11783",
+      "md5": "4f17cacd61460807368819ec12e10946",
+      "crc32": "899a5e58",
+      "sha1": "f0cb6511e9bfa9bc6697f0ea68d481a69241d0a6",
+      "format": "JSON"
+    },
+    {
+      "name": "lagrangenews-2022-08-06T20:38:10.134463-04:00.jpg",
+      "source": "original",
+      "mtime": "1659832692",
+      "size": "246147",
+      "md5": "04cec5eb74840c72941879eca1b94614",
+      "crc32": "adceab04",
+      "sha1": "b5ef6cbd5ff34bb20d4cd69c78c710392cbf005d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lagrangenews-2022-08-06T20:38:10.134463-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659832697",
+      "size": "1504",
+      "md5": "5e12424a39d6b3e556cb6c9c25ee26e5",
+      "crc32": "eb5a47f0",
+      "sha1": "5df4b803b9bd0ab7ce59afdd321d1f58959d6f7a",
+      "format": "JSON"
+    },
+    {
+      "name": "lagrangenews-2022-08-06T20:38:10.134463-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659832699",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "lagrangenews-2022-08-06T20:38:10.134463-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lagrangenews-2022-08-06T20:38:10.134463-04:00.jpg",
+      "mtime": "1659832746",
+      "size": "8535",
+      "md5": "bca7dcc36bccde74fc37298f9c8fb3d0",
+      "crc32": "550e9b83",
+      "sha1": "b7ff39403fe76bf085839a1df4cdb360f9441922"
+    },
+    {
       "name": "lagrangenews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "923ce3aa5a7daf804e63d52ba6b58256e4da20e3",
-      "mtime": "1659789070",
-      "size": "38244",
-      "md5": "bb45203bdece1cf2cc7b669b7a7c6c4d",
-      "crc32": "348f9808",
-      "sha1": "048171c91838ab38518ffa18ca21fee9fb249de7",
+      "btih": "bc6d0bffb3d6a1f8bae011f617c57244803bfc2a",
+      "mtime": "1659832749",
+      "size": "39513",
+      "md5": "1d9aaf61a4edc45b6cbdbbc471143307",
+      "crc32": "2ced8687",
+      "sha1": "85929176d093d389137b3210f71e5ee167b1362c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lagrangenews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7047bef93268ae891fe84c2314679b59",
+      "md5": "158e3459316e082bac7e4331f074a4af",
       "summation": "md5"
     },
     {
       "name": "lagrangenews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659789018",
-      "size": "233472",
-      "md5": "0a0544b2fa126cc2496aeae4854eb3ca",
-      "crc32": "62fa632b",
-      "sha1": "f7e78bd1531ec94a1574478abd6574e142eaa06c",
+      "mtime": "1659832702",
+      "size": "237568",
+      "md5": "1e892ca202ed993cd4ac5b8e25a49b18",
+      "crc32": "a453ca4b",
+      "sha1": "ce121f7031fbcefa3748d3dc855058bb7c0d02d9",
       "format": "Metadata"
     },
     {
@@ -1834,9 +1896,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 176,
-  "item_last_updated": 1659789070,
-  "item_size": 10180244,
+  "files_count": 182,
+  "item_last_updated": 1659832749,
+  "item_size": 10474722,
   "metadata": {
     "identifier": "lagrangenews-2022",
     "collection": [
@@ -1853,10 +1915,10 @@
     "publicdate": "2022-07-20 23:31:04",
     "addeddate": "2022-07-20 23:31:04"
   },
-  "server": "ia601409.us.archive.org",
-  "uniq": 1203734678,
+  "server": "ia801409.us.archive.org",
+  "uniq": 197650628,
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia801409.us.archive.org",
+    "ia601409.us.archive.org"
   ]
 }

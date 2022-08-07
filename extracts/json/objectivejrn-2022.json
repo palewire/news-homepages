@@ -1,5 +1,5 @@
 {
-  "created": 1659789315,
+  "created": 1659802943,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/27/items/objectivejrn-2022",
@@ -2700,31 +2700,93 @@
       "sha1": "cab30bda5ca25b7100487982179ff2a78e8b81ac"
     },
     {
+      "name": "objectivejrn-2022-08-06T09:21:04.023330-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659802866",
+      "size": "14720",
+      "md5": "e97b114e4fdb9cabcf0b8332738e9ec8",
+      "crc32": "622b4c33",
+      "sha1": "fde9df5e00f08a88bf37d9fa6be1db11f559f7c5",
+      "format": "JSON"
+    },
+    {
+      "name": "objectivejrn-2022-08-06T09:21:04.023330-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659802868",
+      "size": "12090",
+      "md5": "6fa847bea217c6d963b4920d868d30f8",
+      "crc32": "b8246141",
+      "sha1": "165f745fbee4bb7c108e32eb8a6b5bf286e2fc2f",
+      "format": "JSON"
+    },
+    {
+      "name": "objectivejrn-2022-08-06T09:21:04.023330-07:00.jpg",
+      "source": "original",
+      "mtime": "1659802865",
+      "size": "235580",
+      "md5": "f6c44648048ddf37da6388c3288c7c92",
+      "crc32": "610b9bc4",
+      "sha1": "dd918277fea7479841cf41703c65c60352962dbb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "objectivejrn-2022-08-06T09:21:04.023330-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659802869",
+      "size": "1528",
+      "md5": "04f1a7c0fee00846c063f8e52edc67de",
+      "crc32": "4b2bc8e1",
+      "sha1": "8a7613b4c145f228db43115f8e4a0158a1364c13",
+      "format": "JSON"
+    },
+    {
+      "name": "objectivejrn-2022-08-06T09:21:04.023330-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1659802870",
+      "size": "9335",
+      "md5": "6b2e495f5f032060205c6647c4217ba5",
+      "crc32": "85b33612",
+      "sha1": "0eec478a6e0d44107df1b692f132ddd5dc406236",
+      "format": "JSON"
+    },
+    {
+      "name": "objectivejrn-2022-08-06T09:21:04.023330-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "objectivejrn-2022-08-06T09:21:04.023330-07:00.jpg",
+      "mtime": "1659802929",
+      "size": "10071",
+      "md5": "59a8ac7364139f19a2fe0b2c577b4dd7",
+      "crc32": "cfb848ad",
+      "sha1": "ded109253454fc41aede92e8d87e7f65e5c36492"
+    },
+    {
       "name": "objectivejrn-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c26422ee11cbcdf7ddadf5e956648efbbf6e1019",
-      "mtime": "1659761995",
-      "size": "56662",
-      "md5": "b1ddd91a074c546ca9f0d92bc53d7941",
-      "crc32": "efc643dc",
-      "sha1": "f84c1b012cd9aabb8411b1648d25c64ce2b96edb",
+      "btih": "97d68c76b35c649f1b7b899305321dcede2c2865",
+      "mtime": "1659802935",
+      "size": "57933",
+      "md5": "2575525a8102f04751eda083b71e87df",
+      "crc32": "dce75676",
+      "sha1": "fb1a38fb26c2ceb023f55901d9344bfea956fdb4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "objectivejrn-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d3b5ba34f8765b1e52d650ee1c8a064b",
+      "md5": "b8c4744dec58448c56b6f09fc9882693",
       "summation": "md5"
     },
     {
       "name": "objectivejrn-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659761920",
-      "size": "327680",
-      "md5": "755c51bd5d595568f1f346f526bc2880",
-      "crc32": "dbbd19a9",
-      "sha1": "6cc0eff9ce7a52b2c701800b305d49a3e373420f",
+      "mtime": "1659802877",
+      "size": "339968",
+      "md5": "93768a5853373886c5a21af766ca40c7",
+      "crc32": "af492c9b",
+      "sha1": "92b4413e9a32e12e2d71130a9cac5ba894c3e0e8",
       "format": "Metadata"
     },
     {
@@ -2738,9 +2800,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 262,
-  "item_last_updated": 1659761995,
-  "item_size": 16329574,
+  "files_count": 268,
+  "item_last_updated": 1659802935,
+  "item_size": 16626457,
   "metadata": {
     "identifier": "objectivejrn-2022",
     "collection": [
@@ -2757,12 +2819,8 @@
     "publicdate": "2022-07-09 04:01:28",
     "addeddate": "2022-07-09 04:01:28"
   },
-  "objectivejrn-2022": {
-    "url": "https://objectivejournalism.org/",
-    "job_id": "spn2-7c030fd8e7f6d8ae317fe89b59a58a83e4d09bcd"
-  },
   "server": "ia601401.us.archive.org",
-  "uniq": 733864165,
+  "uniq": 821335401,
   "workable_servers": [
     "ia601401.us.archive.org",
     "ia801401.us.archive.org"

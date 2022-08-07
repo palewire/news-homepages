@@ -1,5 +1,5 @@
 {
-  "created": 1659762200,
+  "created": 1659833340,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/28/items/progressoms-2022",
@@ -348,31 +348,93 @@
       "sha1": "ef553bd4dc73f269d6652e5bd9fef72fe9806513"
     },
     {
+      "name": "progressoms-2022-08-06T13:23:55.862159-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659803038",
+      "size": "1147",
+      "md5": "e28aa1c516420589d46d18367c4217b7",
+      "crc32": "f7f3bd54",
+      "sha1": "1a868eac0427a3f4a02a8c5e5cc8da5c3c0dfbe0",
+      "format": "JSON"
+    },
+    {
+      "name": "progressoms-2022-08-06T13:23:55.862159-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659803039",
+      "size": "33237",
+      "md5": "93c07f0be79caa9c4ea5e7c99814966a",
+      "crc32": "fc77d091",
+      "sha1": "aaa0075506e76a228b60b911f481bc1ec7966df7",
+      "format": "JSON"
+    },
+    {
+      "name": "progressoms-2022-08-06T13:23:55.862159-03:00.jpg",
+      "source": "original",
+      "mtime": "1659803037",
+      "size": "306085",
+      "md5": "6a7fc49c54d076742b06ffdc5b75dcc3",
+      "crc32": "fd17cf24",
+      "sha1": "c0f14757b69a74539a25129e475dfd9e0ae4527b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "progressoms-2022-08-06T13:23:55.862159-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659803041",
+      "size": "1512",
+      "md5": "184e6dda8dfd068e1c481958de9db74c",
+      "crc32": "c6f60d58",
+      "sha1": "8d0a6a8d3b02315ceb8a237cc4fde8327b28752b",
+      "format": "JSON"
+    },
+    {
+      "name": "progressoms-2022-08-06T13:23:55.862159-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1659803042",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "progressoms-2022-08-06T13:23:55.862159-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "progressoms-2022-08-06T13:23:55.862159-03:00.jpg",
+      "mtime": "1659803090",
+      "size": "11119",
+      "md5": "ff7c397b62bdfae4d631b99a51dda32e",
+      "crc32": "ce021299",
+      "sha1": "af93535a24d849ff41d0d1ab0bb31cf7b1aff955"
+    },
+    {
       "name": "progressoms-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c1e780b41d9a82114bbcf554de42bb07f2e9dd04",
-      "mtime": "1659762168",
-      "size": "8480",
-      "md5": "958cfbfc7938b3aab006a5bd4cd35a69",
-      "crc32": "4314e45e",
-      "sha1": "25f55512a4bbbcc7cfee348ebb18b93dd08d74ef",
+      "btih": "8cf75959139087544730a99944030fd4245250c0",
+      "mtime": "1659803093",
+      "size": "9743",
+      "md5": "936819f4bb74e841ff8241976c85abdb",
+      "crc32": "ca19e227",
+      "sha1": "98195720822d2c8364ecb94b9299e0a1dc0f45f5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "progressoms-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5c64136c8e69976e53e73539a217611b",
+      "md5": "9eacd2181aab7da16369d7cc0bec1a31",
       "summation": "md5"
     },
     {
       "name": "progressoms-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659762057",
-      "size": "57344",
-      "md5": "5f4e626c181b23ff27fa93ec1b5f4548",
-      "crc32": "053e9494",
-      "sha1": "a50a879205eecf98556b0da9c4b8e07ab509ac71",
+      "mtime": "1659803048",
+      "size": "65536",
+      "md5": "23c8efb5535b87abcd9df40e5b97fb7d",
+      "crc32": "67cd9726",
+      "sha1": "f5619ad8ccbdabe1b2afd6f1a35929b66bf13626",
       "format": "Metadata"
     },
     {
@@ -386,9 +448,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 37,
-  "item_last_updated": 1659762168,
-  "item_size": 2214076,
+  "files_count": 43,
+  "item_last_updated": 1659803093,
+  "item_size": 2576833,
   "metadata": {
     "identifier": "progressoms-2022",
     "collection": [
@@ -405,10 +467,15 @@
     "publicdate": "2022-08-04 04:56:28",
     "addeddate": "2022-08-04 04:56:28"
   },
-  "server": "ia801506.us.archive.org",
-  "uniq": 1898529598,
+  "progressoms-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "server": "ia601506.us.archive.org",
+  "uniq": 527219216,
   "workable_servers": [
-    "ia801506.us.archive.org",
-    "ia601506.us.archive.org"
+    "ia601506.us.archive.org",
+    "ia801506.us.archive.org"
   ]
 }

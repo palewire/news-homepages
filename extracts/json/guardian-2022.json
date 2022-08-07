@@ -1,5 +1,5 @@
 {
-  "created": 1659784334,
+  "created": 1659832880,
   "d1": "ia902206.us.archive.org",
   "d2": "ia802206.us.archive.org",
   "dir": "/20/items/guardian-2022",
@@ -14790,31 +14790,93 @@
       "sha1": "d9f3e3a5097a52b6bc93023f39ea03f428b88b88"
     },
     {
+      "name": "guardian-2022-08-06T17:12:10.161037+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659802334",
+      "size": "44766",
+      "md5": "a5f40ea99f90b898621fc8b802dc3a65",
+      "crc32": "ce3b2433",
+      "sha1": "8a2e52b1e51bf4f4dde0f0022f84af1bf364c1fc",
+      "format": "JSON"
+    },
+    {
+      "name": "guardian-2022-08-06T17:12:10.161037+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659802335",
+      "size": "97243",
+      "md5": "e79df9e9eafd68908795c1ae00e57754",
+      "crc32": "dc8c4eb3",
+      "sha1": "f4504ab270c7f8dce2bc3a6cc133d617b0ee7461",
+      "format": "JSON"
+    },
+    {
+      "name": "guardian-2022-08-06T17:12:10.161037+01:00.jpg",
+      "source": "original",
+      "mtime": "1659802332",
+      "size": "358499",
+      "md5": "75495688163975e4fd3943d3b2d0c43f",
+      "crc32": "8d98c3d1",
+      "sha1": "fcaeefc3195890c4c1f90cc1ef713ac2b610a85a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "guardian-2022-08-06T17:12:10.161037+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659802336",
+      "size": "1522",
+      "md5": "96c848b32bc33c4ef32a273e988b2355",
+      "crc32": "0658568e",
+      "sha1": "1f466b94c8d0844d74cb375b62abc98ca790b100",
+      "format": "JSON"
+    },
+    {
+      "name": "guardian-2022-08-06T17:12:10.161037+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1659802338",
+      "size": "232",
+      "md5": "472e121ac00ab5edb51f434266c8bc5f",
+      "crc32": "6fb5653d",
+      "sha1": "781834feabf4415d50b10bcafda1585ed1606b6e",
+      "format": "JSON"
+    },
+    {
+      "name": "guardian-2022-08-06T17:12:10.161037+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "guardian-2022-08-06T17:12:10.161037+01:00.jpg",
+      "mtime": "1659802455",
+      "size": "10380",
+      "md5": "5279dff1d0a0cae0ea612ff760f2caae",
+      "crc32": "94ce6fff",
+      "sha1": "dc0b4d2da7e71ed03a9bf8c1dad2eaaed9bbad44"
+    },
+    {
       "name": "guardian-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a73e479c0156a7c504e0f4f5e6ac2eb55aeb53e9",
-      "mtime": "1659777034",
-      "size": "300806",
-      "md5": "d86b87c06dc91ec027893136bb1cc2bd",
-      "crc32": "0019dde7",
-      "sha1": "8656889d7911cc29144bc5f7444caa4f77a1c920",
+      "btih": "842115d6d1f359390446de0c785f0118ef173ba3",
+      "mtime": "1659802488",
+      "size": "302072",
+      "md5": "50b25811d41dd1e39586a8a1d58754f8",
+      "crc32": "de18bfd0",
+      "sha1": "7be368e844542a6bafd2e578f88b91f88e1e1c72",
       "format": "Archive BitTorrent"
     },
     {
       "name": "guardian-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dce87c92e2c639ca994572990bdb7c32",
+      "md5": "e58f80fbb6eb3aded726c201a410f718",
       "summation": "md5"
     },
     {
       "name": "guardian-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659776924",
-      "size": "1626112",
-      "md5": "3523b12e78938ee751482ffc70128295",
-      "crc32": "0e2a159e",
-      "sha1": "c281ff058d669e3d2fd701d052389a9ad511cbb0",
+      "mtime": "1659802344",
+      "size": "1638400",
+      "md5": "ac96266a21c1d9cf773d27820bc6bf49",
+      "crc32": "9d03e1f3",
+      "sha1": "91c3cda2b518d34471e5bad4f12555e5d3beed29",
       "format": "Metadata"
     },
     {
@@ -14828,9 +14890,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1413,
-  "item_last_updated": 1659777034,
-  "item_size": 180292212,
+  "files_count": 1419,
+  "guardian-2022": {
+    "url": "https://theguardian.com/uk",
+    "job_id": "spn2-f836330a4cac4f0afa8619498028e1c469a118cc",
+    "message": "The same snapshot had been made 8 minutes, 15 seconds ago. You can make new capture of this URL after 45 minutes."
+  },
+  "item_last_updated": 1659802488,
+  "item_size": 180818408,
   "metadata": {
     "identifier": "guardian-2022",
     "collection": [
@@ -14847,10 +14914,10 @@
     "publicdate": "2022-03-23 08:03:23",
     "addeddate": "2022-03-23 08:03:23"
   },
-  "server": "ia902206.us.archive.org",
-  "uniq": 271392861,
+  "server": "ia802206.us.archive.org",
+  "uniq": 1818873360,
   "workable_servers": [
-    "ia902206.us.archive.org",
-    "ia802206.us.archive.org"
+    "ia802206.us.archive.org",
+    "ia902206.us.archive.org"
   ]
 }

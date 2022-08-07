@@ -1,5 +1,5 @@
 {
-  "created": 1659789777,
+  "created": 1659794615,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/21/items/wfxl-2022",
@@ -1778,31 +1778,83 @@
       "sha1": "9be6335e6e16376716a563b3fdb9359eab551877"
     },
     {
+      "name": "wfxl-2022-08-06T10:00:10.125700-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659794414",
+      "size": "43204",
+      "md5": "f908a47016cf410f0935eb03ae5022b5",
+      "crc32": "3925e81e",
+      "sha1": "29fa157f0eee0f90fc29f0fa9288d7395eaa8e57",
+      "format": "JSON"
+    },
+    {
+      "name": "wfxl-2022-08-06T10:00:10.125700-04:00.jpg",
+      "source": "original",
+      "mtime": "1659794412",
+      "size": "279993",
+      "md5": "5261e5cd6549bb756d4135a2c893b43e",
+      "crc32": "61860e1f",
+      "sha1": "177c807ed6d3eb5e38baf2d10e66510b185eae0b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wfxl-2022-08-06T10:00:10.125700-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659794416",
+      "size": "1405",
+      "md5": "f69503ee7a0c4ed563d41f8341e55785",
+      "crc32": "3e28e6fe",
+      "sha1": "44db4b24c43fee524ac73043afc7cd3a2930856a",
+      "format": "JSON"
+    },
+    {
+      "name": "wfxl-2022-08-06T10:00:10.125700-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659794418",
+      "size": "243982",
+      "md5": "d654d325ac445cd9375fa6082d2be246",
+      "crc32": "389f8aac",
+      "sha1": "da293a9df08807806ba0b56e256b552bd70297f8",
+      "format": "JSON"
+    },
+    {
+      "name": "wfxl-2022-08-06T10:00:10.125700-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wfxl-2022-08-06T10:00:10.125700-04:00.jpg",
+      "mtime": "1659794546",
+      "size": "9910",
+      "md5": "39f98e0a2ad7c12dcae87366be334240",
+      "crc32": "bf5f5a80",
+      "sha1": "b4ffbfb50486c508aaac9ecd8da0cdbbd5986734"
+    },
+    {
       "name": "wfxl-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e5b678883bce45cb1d7b74d44439067b8c328490",
-      "mtime": "1659753171",
-      "size": "36602",
-      "md5": "8da9106716b5625b6b9fcf58f23c2355",
-      "crc32": "90f0742e",
-      "sha1": "82e540cb862bdaa4bc6b2eec5c742fe91f236c49",
+      "btih": "5dc73e773deb18edf8a1899739b472abf3bdac0f",
+      "mtime": "1659794551",
+      "size": "37639",
+      "md5": "f14aa9499b0044c6f7e017cd168b5ee0",
+      "crc32": "29a624bc",
+      "sha1": "74dab6ccf9cf4fb9bc5dcb9dcddfd1d102123d07",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wfxl-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "152374bb1977d8e90595523eee81800e",
+      "md5": "9fb7f825eea7d35471b49e2586ca9efd",
       "summation": "md5"
     },
     {
       "name": "wfxl-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659752902",
-      "size": "225280",
-      "md5": "a5d32e3ddd8caa473d3eb978b9fa6100",
-      "crc32": "e45d418c",
-      "sha1": "831df42da92489c4747fc02d10d4fcf6bc23eb18",
+      "mtime": "1659794422",
+      "size": "229376",
+      "md5": "817685b24ae42d4a0eeb58fd2f2e94d7",
+      "crc32": "e2b34e6f",
+      "sha1": "97adebd34258acdd56a2c7d94a42dc230f95c0cd",
       "format": "Metadata"
     },
     {
@@ -1816,9 +1868,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 174,
-  "item_last_updated": 1659753171,
-  "item_size": 15311574,
+  "files_count": 179,
+  "item_last_updated": 1659794551,
+  "item_size": 15895201,
   "metadata": {
     "identifier": "wfxl-2022",
     "collection": [
@@ -1836,12 +1888,7 @@
     "addeddate": "2022-07-20 23:31:54"
   },
   "server": "ia801404.us.archive.org",
-  "uniq": 31658433,
-  "wfxl-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
+  "uniq": 478580539,
   "workable_servers": [
     "ia801404.us.archive.org",
     "ia601404.us.archive.org"

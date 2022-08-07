@@ -1,5 +1,5 @@
 {
-  "created": 1659773706,
+  "created": 1659833097,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/5/items/libe-2022",
@@ -10566,31 +10566,93 @@
       "sha1": "9dcdfed2930c3a82cd92e4aa7267674bd1c49c07"
     },
     {
+      "name": "libe-2022-08-06T18:16:30.505987+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659802604",
+      "size": "105981",
+      "md5": "df95c48cc6e5b8dd49619aafbbc92944",
+      "crc32": "17e450fb",
+      "sha1": "af54a749f61d650ca9a52ebad3e4f5f63064d410",
+      "format": "JSON"
+    },
+    {
+      "name": "libe-2022-08-06T18:16:30.505987+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659802605",
+      "size": "64619",
+      "md5": "3477681de7206b6798a964f64604ebf0",
+      "crc32": "ac54689a",
+      "sha1": "31e41132ac1160f706b63e2f25f7ad0c4ba2ae6d",
+      "format": "JSON"
+    },
+    {
+      "name": "libe-2022-08-06T18:16:30.505987+02:00.jpg",
+      "source": "original",
+      "mtime": "1659802602",
+      "size": "360302",
+      "md5": "b76777220489f4ba68925d23ef339ca5",
+      "crc32": "588086e1",
+      "sha1": "bf01c3bd3673ce76179ec3bf9d24c3b033e4896f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "libe-2022-08-06T18:16:30.505987+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659802607",
+      "size": "1468",
+      "md5": "439d8ac9be542c8ddc77accad5895809",
+      "crc32": "a7c204bc",
+      "sha1": "1c1e8f0d2e5dc23ad239798a72153dd030f7d9d5",
+      "format": "JSON"
+    },
+    {
+      "name": "libe-2022-08-06T18:16:30.505987+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1659802609",
+      "size": "246",
+      "md5": "9b1c459305d22be4f348d9b51f103735",
+      "crc32": "eb1ec439",
+      "sha1": "9d7e3a787ae71345fc6d3ce63418403441d1644a",
+      "format": "JSON"
+    },
+    {
+      "name": "libe-2022-08-06T18:16:30.505987+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "libe-2022-08-06T18:16:30.505987+02:00.jpg",
+      "mtime": "1659802728",
+      "size": "9930",
+      "md5": "31f7397d55445f1beac9b45471303629",
+      "crc32": "51f9f144",
+      "sha1": "aa4667a0bd041175a1436bf312407ce22588fea4"
+    },
+    {
       "name": "libe-2022_archive.torrent",
       "source": "metadata",
-      "btih": "42bf6612d001d4d7ea077a4d545b306b0a4141b6",
-      "mtime": "1659773695",
-      "size": "211321",
-      "md5": "f19506544eb50ed737803b0b25888dfc",
-      "crc32": "91ddae24",
-      "sha1": "88bfb9a2fd739daf469c55d8a9b7e0ea258b415c",
+      "btih": "a420dc476ea7d4453c70b408d2160569bb01ba76",
+      "mtime": "1659802756",
+      "size": "212563",
+      "md5": "56219e3341e3a402d8916d3834f03f52",
+      "crc32": "f6750964",
+      "sha1": "5f7963c4437bddb8ce8ed42b34aa0122e3c54de8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "libe-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "550a8d6f27eccf7acb1e78f96d390a49",
+      "md5": "39e3b082bef46ed01effcb54fe51964e",
       "summation": "md5"
     },
     {
       "name": "libe-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659773572",
-      "size": "1175552",
-      "md5": "152d9b19127a2ae7b8c4119b166d6c2f",
-      "crc32": "fd3d2f05",
-      "sha1": "675cd13afa504998fd7d641bcdf4e255c3afff8a",
+      "mtime": "1659802629",
+      "size": "1183744",
+      "md5": "37acd58d391b5f87c23b4796bac80cc8",
+      "crc32": "4a4554b7",
+      "sha1": "4703e5b2122d3a1ee120d2bd31fcee9057007cee",
       "format": "Metadata"
     },
     {
@@ -10604,9 +10666,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1012,
-  "item_last_updated": 1659773695,
-  "item_size": 123756852,
+  "files_count": 1018,
+  "item_last_updated": 1659802756,
+  "item_size": 124308832,
+  "libe-2022": {
+    "message": "This URL has been already captured 10 times today. Please try again tomorrow. Please email us at \"info@archive.org\" if you would like to discuss this more.",
+    "status": "error",
+    "status_ext": "error:too-many-daily-captures"
+  },
   "metadata": {
     "identifier": "libe-2022",
     "collection": [
@@ -10624,7 +10691,7 @@
     "addeddate": "2022-04-09 13:43:11"
   },
   "server": "ia802507.us.archive.org",
-  "uniq": 222255266,
+  "uniq": 141113054,
   "workable_servers": [
     "ia802507.us.archive.org",
     "ia902507.us.archive.org"

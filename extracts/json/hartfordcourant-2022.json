@@ -1,5 +1,5 @@
 {
-  "created": 1659789031,
+  "created": 1659802399,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/3/items/hartfordcourant-2022",
@@ -1078,31 +1078,93 @@
       "sha1": "8af18e0acfb413888fca3c1d404eacf75746a646"
     },
     {
+      "name": "hartfordcourant-2022-08-06T12:11:55.391305-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659802320",
+      "size": "62849",
+      "md5": "9028474aaea3df09aa4e7efb28f4fc15",
+      "crc32": "a17ccbd5",
+      "sha1": "54771fedc355e2f26e3785af547f6e5c9d4a1dd2",
+      "format": "JSON"
+    },
+    {
+      "name": "hartfordcourant-2022-08-06T12:11:55.391305-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659802321",
+      "size": "73913",
+      "md5": "cfb855e7d8a58666ace5d01693ecbe21",
+      "crc32": "d829c832",
+      "sha1": "adf54db7d82e57bf0af78447f96c908a6df39b4c",
+      "format": "JSON"
+    },
+    {
+      "name": "hartfordcourant-2022-08-06T12:11:55.391305-04:00.jpg",
+      "source": "original",
+      "mtime": "1659802318",
+      "size": "258982",
+      "md5": "1364f7e624cac760d3884f94fa5ec8c4",
+      "crc32": "8b1e763e",
+      "sha1": "72e91f74ebb03d011e6a105b426e00a46788f441",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hartfordcourant-2022-08-06T12:11:55.391305-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659802324",
+      "size": "1468",
+      "md5": "49cf98abc0b6885af773208a518fc25b",
+      "crc32": "3fad52b5",
+      "sha1": "0e636da01a5f6b25c573a421f1543a75379448e3",
+      "format": "JSON"
+    },
+    {
+      "name": "hartfordcourant-2022-08-06T12:11:55.391305-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659802326",
+      "size": "76812",
+      "md5": "7d6a0c3c63554df318ae52d9d6380d1a",
+      "crc32": "cf9ebf58",
+      "sha1": "796ec32d27ddd39b9f846589e472673fba22c940",
+      "format": "JSON"
+    },
+    {
+      "name": "hartfordcourant-2022-08-06T12:11:55.391305-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hartfordcourant-2022-08-06T12:11:55.391305-04:00.jpg",
+      "mtime": "1659802382",
+      "size": "9208",
+      "md5": "466e3e200199e19a80d343097b75cf02",
+      "crc32": "0d5d6d6c",
+      "sha1": "ef1f5bf430a240535659551a4bd2ae6ac8d769ea"
+    },
+    {
       "name": "hartfordcourant-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cfc3a4e4bd0f8d9639f228f1e3ac96535d5191bd",
-      "mtime": "1659761469",
-      "size": "23878",
-      "md5": "d313348c3b66e37ad0d274d3a8d47685",
-      "crc32": "2e5c8605",
-      "sha1": "e1c7996693728f3bc872c13a6cfe07a1e077f92b",
+      "btih": "85cd2020c78b3335b65ab59a40f512b7f1b00141",
+      "mtime": "1659802387",
+      "size": "25187",
+      "md5": "f25ef798c49a39cb38324b1c6855d4ab",
+      "crc32": "cbeccef9",
+      "sha1": "64348f028469cf86c3a157f202753477311bcf8d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hartfordcourant-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0d8d21bd1ee506bee2926a8d131e4e27",
+      "md5": "3c7040930e087f06aa10d47266063582",
       "summation": "md5"
     },
     {
       "name": "hartfordcourant-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659761398",
-      "size": "147456",
-      "md5": "e235ef54119bbbfaed7484f5a71906a2",
-      "crc32": "dfa47baf",
-      "sha1": "11d313514f9bb10ae4a173c9435e414dc5e75ce5",
+      "mtime": "1659802331",
+      "size": "155648",
+      "md5": "892633e5a26a30c24d2d5eec6bb2842b",
+      "crc32": "9abf04ab",
+      "sha1": "62aa531333a9601defd242018ffe61341fecb12e",
       "format": "Metadata"
     },
     {
@@ -1116,14 +1178,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 107,
-  "hartfordcourant-2022": {
-    "url": "https://www.courant.com/",
-    "job_id": "spn2-729ddf56a0b5a0c58c82346964c44597e9e7dcd2",
-    "message": "The same snapshot had been made 4 minutes, 53 seconds ago. You can make new capture of this URL after 45 minutes."
-  },
-  "item_last_updated": 1659761469,
-  "item_size": 8264117,
+  "files_count": 113,
+  "item_last_updated": 1659802387,
+  "item_size": 8756850,
   "metadata": {
     "identifier": "hartfordcourant-2022",
     "collection": [
@@ -1141,7 +1198,7 @@
     "addeddate": "2022-07-27 02:38:23"
   },
   "server": "ia801500.us.archive.org",
-  "uniq": 1234418406,
+  "uniq": 1414964850,
   "workable_servers": [
     "ia801500.us.archive.org",
     "ia601500.us.archive.org"

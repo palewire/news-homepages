@@ -1,5 +1,5 @@
 {
-  "created": 1659757345,
+  "created": 1659793939,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/24/items/asahi-2022",
@@ -3782,31 +3782,83 @@
       "sha1": "9d3e4a33f849810b5a8ab4c82c1bb6c188d52b45"
     },
     {
+      "name": "asahi-2022-08-06T22:50:09.301120+09:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659793812",
+      "size": "129593",
+      "md5": "a9020a3e12d22019d1e207281f5b1c98",
+      "crc32": "a86fc906",
+      "sha1": "13afd7e6598a8b7ab7368fbf78465f59beacabc4",
+      "format": "JSON"
+    },
+    {
+      "name": "asahi-2022-08-06T22:50:09.301120+09:00.jpg",
+      "source": "original",
+      "mtime": "1659793811",
+      "size": "313319",
+      "md5": "cbdad4eeb8614a85edecb80206ee17b4",
+      "crc32": "826bf2a6",
+      "sha1": "f412256e6cdca12dbd094c23ae19c3e408762956",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "asahi-2022-08-06T22:50:09.301120+09:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659793817",
+      "size": "1474",
+      "md5": "5a83dbe6bc32cee2bc3a2c13db62a717",
+      "crc32": "959435eb",
+      "sha1": "e2d12c2fa377e2f4b1d33ad4d42ea99a5761628f",
+      "format": "JSON"
+    },
+    {
+      "name": "asahi-2022-08-06T22:50:09.301120+09:00.wayback.json",
+      "source": "original",
+      "mtime": "1659793821",
+      "size": "53750",
+      "md5": "b16f5beeeaf58380d978ce2677750c1f",
+      "crc32": "6c0d126d",
+      "sha1": "2fc7408acc725ea9ae2acbcdf1820bd9e63459d7",
+      "format": "JSON"
+    },
+    {
+      "name": "asahi-2022-08-06T22:50:09.301120+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "asahi-2022-08-06T22:50:09.301120+09:00.jpg",
+      "mtime": "1659793910",
+      "size": "9644",
+      "md5": "e25570d3e3f3a0f2e9f3aa17387b8131",
+      "crc32": "61ec962f",
+      "sha1": "50fbf0ce7c327b617f3bfb061d6c36d799fe05a8"
+    },
+    {
       "name": "asahi-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5760d65c1a8f692bc13a775ab7826e6c15fb368b",
-      "mtime": "1659757330",
-      "size": "76719",
-      "md5": "b63ca8ec2b8171ab20f4a416911cc004",
-      "crc32": "0a305372",
-      "sha1": "1f6b7585e148c977143eb79415380ab665b19497",
+      "btih": "9bc93aafa7372d3e54781f518effc774f9b8cf12",
+      "mtime": "1659793925",
+      "size": "77761",
+      "md5": "c2b6c1b9656b0bd71950790af0842def",
+      "crc32": "af88114e",
+      "sha1": "f7807f6ba9787e24d490fe8143800836b9be28af",
       "format": "Archive BitTorrent"
     },
     {
       "name": "asahi-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "db61d5aa28ed0dae45908e3ef3ca0e3f",
+      "md5": "9a8dfa33bd46e913d2a3e32cb96bfae2",
       "summation": "md5"
     },
     {
       "name": "asahi-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659757040",
-      "size": "430080",
-      "md5": "71c3fb58ccb0aa812bb7a494d60d1ba6",
-      "crc32": "c6070be9",
-      "sha1": "cceb5ce7e3d9d69fae30fb21b7943bd51d52e9be",
+      "mtime": "1659793826",
+      "size": "438272",
+      "md5": "bc7b4c0fc48d82ef3eb5d7d6e6ba6b9e",
+      "crc32": "5cfd5850",
+      "sha1": "c136ee7ee4f0839d50006580404153d7a478d5bd",
       "format": "Metadata"
     },
     {
@@ -3820,9 +3872,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 364,
-  "item_last_updated": 1659757330,
-  "item_size": 46045268,
+  "files_count": 369,
+  "item_last_updated": 1659793925,
+  "item_size": 46562282,
   "metadata": {
     "identifier": "asahi-2022",
     "collection": [
@@ -3839,10 +3891,10 @@
     "publicdate": "2022-07-09 02:39:04",
     "addeddate": "2022-07-09 02:39:04"
   },
-  "server": "ia601507.us.archive.org",
-  "uniq": 875698467,
+  "server": "ia801507.us.archive.org",
+  "uniq": 392034176,
   "workable_servers": [
-    "ia601507.us.archive.org",
-    "ia801507.us.archive.org"
+    "ia801507.us.archive.org",
+    "ia601507.us.archive.org"
   ]
 }

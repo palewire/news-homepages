@@ -1,5 +1,5 @@
 {
-  "created": 1659789203,
+  "created": 1659833183,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/27/items/mwtnews-2022",
@@ -1884,31 +1884,93 @@
       "sha1": "bdb2ba705fb72b45a8059eafdf5ca571e52e7611"
     },
     {
+      "name": "mwtnews-2022-08-06T11:18:06.456502-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659802689",
+      "size": "56333",
+      "md5": "5757a2d6ca389a68f7db43074a027104",
+      "crc32": "6014faa0",
+      "sha1": "92fda93b6c2960036e2fd3252f27404a8a2f1940",
+      "format": "JSON"
+    },
+    {
+      "name": "mwtnews-2022-08-06T11:18:06.456502-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659802691",
+      "size": "65662",
+      "md5": "dd885c7c6e5eee5821ed851a5aa26f37",
+      "crc32": "023c1ab2",
+      "sha1": "0aba01d3c3b978ed77cab3d9f983146d165fa905",
+      "format": "JSON"
+    },
+    {
+      "name": "mwtnews-2022-08-06T11:18:06.456502-05:00.jpg",
+      "source": "original",
+      "mtime": "1659802688",
+      "size": "311842",
+      "md5": "8d13059495fbe87bd40c3d15bfb55f53",
+      "crc32": "1378c685",
+      "sha1": "e4ea1ca3ea3c4be594020411a2ba20cd0c22db3e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mwtnews-2022-08-06T11:18:06.456502-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659802693",
+      "size": "1430",
+      "md5": "b52d6d2e861a4474b660b4893f08138c",
+      "crc32": "0f689014",
+      "sha1": "33b5a0966ae55c11164187effb5eeee978be9b81",
+      "format": "JSON"
+    },
+    {
+      "name": "mwtnews-2022-08-06T11:18:06.456502-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1659802695",
+      "size": "96",
+      "md5": "dc2127eec6206d47616523a03255ce36",
+      "crc32": "5d6bd8e8",
+      "sha1": "52a49827691170a93cadca57dd3ac183b790908b",
+      "format": "JSON"
+    },
+    {
+      "name": "mwtnews-2022-08-06T11:18:06.456502-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mwtnews-2022-08-06T11:18:06.456502-05:00.jpg",
+      "mtime": "1659802768",
+      "size": "10233",
+      "md5": "2577da86cf06c581f93b184ac209e022",
+      "crc32": "e60e8fbd",
+      "sha1": "3a09b2b880214ae15331333253633fdec311322a"
+    },
+    {
       "name": "mwtnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f617ea405033dd8c074713b35f19394b8fb05c16",
-      "mtime": "1659761852",
-      "size": "39266",
-      "md5": "c135633ceb98a5ec173639a5a6a6a09f",
-      "crc32": "add403e4",
-      "sha1": "eb555517bea7cfae6aa8e1e98f594ec3bf71ab1e",
+      "btih": "0ecf813c8368b2d77142a3845c2eeabbb56be8f5",
+      "mtime": "1659802775",
+      "size": "40525",
+      "md5": "1ffa528fb617b57266b2424c5d67cc04",
+      "crc32": "2430b074",
+      "sha1": "7abc17b9318f2b91dc5dff6e66589680277ce5b9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mwtnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8979d1540e8daf04f8507c05d6dc8a03",
+      "md5": "4d8dc8c29f543652e339a5ef4358634e",
       "summation": "md5"
     },
     {
       "name": "mwtnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659761800",
-      "size": "237568",
-      "md5": "e9391d824312533f29860b1ab82bfeca",
-      "crc32": "b8c0231f",
-      "sha1": "568e48ef6133ada96bbddc9568a4908054b956cd",
+      "mtime": "1659802698",
+      "size": "245760",
+      "md5": "3aebab7d868b2ec7f43eb1235c0fbb2b",
+      "crc32": "52977da1",
+      "sha1": "a24a666012892773df6413e882b2f604cd84a1ac",
       "format": "Metadata"
     },
     {
@@ -1922,9 +1984,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 184,
-  "item_last_updated": 1659761852,
-  "item_size": 17449258,
+  "files_count": 190,
+  "item_last_updated": 1659802775,
+  "item_size": 17904305,
   "metadata": {
     "identifier": "mwtnews-2022",
     "collection": [
@@ -1942,12 +2004,11 @@
     "addeddate": "2022-07-18 00:04:52"
   },
   "mwtnews-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
+    "url": "https://www.mrt.com/",
+    "job_id": "spn2-0ed5a424e828ddd0ae98baeec11144154aff3ba0"
   },
   "server": "ia801505.us.archive.org",
-  "uniq": 252938990,
+  "uniq": 6895305,
   "workable_servers": [
     "ia801505.us.archive.org",
     "ia601505.us.archive.org"

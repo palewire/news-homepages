@@ -1,5 +1,5 @@
 {
-  "created": 1659788345,
+  "created": 1659832131,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/10/items/brunswick_news-2022",
@@ -1786,31 +1786,93 @@
       "sha1": "f83325e6a9b20e147956ec671be4dfc282c17b4c"
     },
     {
+      "name": "brunswick_news-2022-08-06T20:26:15.821827-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659831979",
+      "size": "26150",
+      "md5": "115af4a46663250ac3c3f8e0c7b3a8ca",
+      "crc32": "d66ce34b",
+      "sha1": "e319a67eb3c53dd6f7e8dfbd77b9500b546cc091",
+      "format": "JSON"
+    },
+    {
+      "name": "brunswick_news-2022-08-06T20:26:15.821827-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659831983",
+      "size": "75596",
+      "md5": "39fe2ec41d530784e18f0ec4367e4b66",
+      "crc32": "92a4ecb2",
+      "sha1": "5898b316f81ac72abc50751b9de8bd6dc4a631c5",
+      "format": "JSON"
+    },
+    {
+      "name": "brunswick_news-2022-08-06T20:26:15.821827-04:00.jpg",
+      "source": "original",
+      "mtime": "1659831977",
+      "size": "283127",
+      "md5": "42f48fcb56711995431d84d00811a28d",
+      "crc32": "57ddbd6b",
+      "sha1": "2c3f89d31d59a2c74de70ffe2a3d38475e5c39c4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "brunswick_news-2022-08-06T20:26:15.821827-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659831985",
+      "size": "1513",
+      "md5": "645b10123e58abb42f2ee36e43dd1d14",
+      "crc32": "bba3557f",
+      "sha1": "5c4e39c5be635813424dde96b2f34cda479b4950",
+      "format": "JSON"
+    },
+    {
+      "name": "brunswick_news-2022-08-06T20:26:15.821827-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659831987",
+      "size": "35363",
+      "md5": "96f551b7aed05184b837270b02e001d2",
+      "crc32": "1269697d",
+      "sha1": "d974d17ad5b688c747d4247468a3d01e5caf1b6e",
+      "format": "JSON"
+    },
+    {
+      "name": "brunswick_news-2022-08-06T20:26:15.821827-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "brunswick_news-2022-08-06T20:26:15.821827-04:00.jpg",
+      "mtime": "1659832079",
+      "size": "9139",
+      "md5": "2015555188a139f5374e1e60d8ccd481",
+      "crc32": "5336572f",
+      "sha1": "7dca9abd7baf2fc0d2e9d305921d222cd1f483a4"
+    },
+    {
       "name": "brunswick_news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f10be69dd8e895c3241be8d6aed62d3066ef5bd5",
-      "mtime": "1659788330",
-      "size": "38527",
-      "md5": "cce0b8eeefa8c4465e7dbfe32500448d",
-      "crc32": "25ec03e2",
-      "sha1": "f376dd09a3072d12e93b62fcb74f768afe5a0cae",
+      "btih": "5c3564d639e8be0b65ef18f97b29c4a425df66a2",
+      "mtime": "1659832092",
+      "size": "39830",
+      "md5": "842084271606021d4fef3faa40e2022c",
+      "crc32": "579538ac",
+      "sha1": "b861bacdc1ef60d981e61e5a47a67aef32c0914d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "brunswick_news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4bcb30e71719b9910ed792ce717457ad",
+      "md5": "785eaa2aaf2d5e2db5387b50654d6459",
       "summation": "md5"
     },
     {
       "name": "brunswick_news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659788248",
-      "size": "229376",
-      "md5": "9ac675c5d1cf91f8f3c4664b5e0b6710",
-      "crc32": "84ff1029",
-      "sha1": "9d486467d2f939aaf0c8f1d769815ec1161c1689",
+      "mtime": "1659832013",
+      "size": "237568",
+      "md5": "568aad0099910dc8ad2b941d54597363",
+      "crc32": "c5ea7f58",
+      "sha1": "67f73d0b9d9479491a29ee97c920dd8f8282dd8a",
       "format": "Metadata"
     },
     {
@@ -1824,9 +1886,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 175,
-  "item_last_updated": 1659788330,
-  "item_size": 14076698,
+  "files_count": 181,
+  "item_last_updated": 1659832092,
+  "item_size": 14517081,
   "metadata": {
     "identifier": "brunswick_news-2022",
     "collection": [
@@ -1844,7 +1906,7 @@
     "addeddate": "2022-07-20 23:30:25"
   },
   "server": "ia801509.us.archive.org",
-  "uniq": 414604467,
+  "uniq": 1445436444,
   "workable_servers": [
     "ia801509.us.archive.org",
     "ia601509.us.archive.org"

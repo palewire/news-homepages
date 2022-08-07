@@ -1,5 +1,5 @@
 {
-  "created": 1659752696,
+  "created": 1659794246,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/9/items/thebabylonbee-2022",
@@ -192,31 +192,93 @@
       "sha1": "6888322d098988eaacd93288dcabf9567e851461"
     },
     {
+      "name": "thebabylonbee-2022-08-06T09:56:21.339998-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659794184",
+      "size": "19709",
+      "md5": "7eb65329b9f3deb877180a50dff11d00",
+      "crc32": "50f5f33f",
+      "sha1": "100364b0c760ba7df072d9d078b440955873624d",
+      "format": "JSON"
+    },
+    {
+      "name": "thebabylonbee-2022-08-06T09:56:21.339998-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659794186",
+      "size": "17213",
+      "md5": "bce2e6321a8dde2c84dae1d547276a9b",
+      "crc32": "ba7116d8",
+      "sha1": "b39d5f9cf6a1fc2760bed6e43024e4d4dba4543e",
+      "format": "JSON"
+    },
+    {
+      "name": "thebabylonbee-2022-08-06T09:56:21.339998-04:00.jpg",
+      "source": "original",
+      "mtime": "1659794182",
+      "size": "184156",
+      "md5": "5419be0b77625ea0b70849cfd6b978f1",
+      "crc32": "e881bbcb",
+      "sha1": "e3754ef31b99da626e1924ca8b286faf2adb26ad",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thebabylonbee-2022-08-06T09:56:21.339998-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659794187",
+      "size": "1459",
+      "md5": "c63453387f09059de3dd76a4dd88d14e",
+      "crc32": "e671817e",
+      "sha1": "b892290d639a5ad342eadc1191f2b1c01534a43b",
+      "format": "JSON"
+    },
+    {
+      "name": "thebabylonbee-2022-08-06T09:56:21.339998-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659794188",
+      "size": "87154",
+      "md5": "82b4fe9c6de75e185de284b18c313d16",
+      "crc32": "af93b800",
+      "sha1": "6817adbcdae2fa81f1c5d24d4d3637b9352231f9",
+      "format": "JSON"
+    },
+    {
+      "name": "thebabylonbee-2022-08-06T09:56:21.339998-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thebabylonbee-2022-08-06T09:56:21.339998-04:00.jpg",
+      "mtime": "1659794238",
+      "size": "7522",
+      "md5": "39e9ba0691fbcbe16f024cabd2aa2678",
+      "crc32": "794f872d",
+      "sha1": "3aa756092cc60b74fdffdb7fb2f063158ccc773a"
+    },
+    {
       "name": "thebabylonbee-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1985ab6ac03a81848c6d88195d60bae75cf59c44",
-      "mtime": "1659752671",
-      "size": "5303",
-      "md5": "1422f09b4dd8bdeb47f063eddfd5b470",
-      "crc32": "d056eaf4",
-      "sha1": "a51b4b4df21c5702520925f117d9a8ad15b21473",
+      "btih": "4b446467b9aea7b0b16cb75d2a0f1099a3300a2f",
+      "mtime": "1659794240",
+      "size": "6600",
+      "md5": "4cba52d638e0d95b54c6cf936ea389b6",
+      "crc32": "cd916fc7",
+      "sha1": "a2a17102c494fa4f538bd4fc032a757c82d1e9d2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thebabylonbee-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f3254bb3a343513eb408c177aec27e38",
+      "md5": "0674d425836b74a94b604f4f9bfb997d",
       "summation": "md5"
     },
     {
       "name": "thebabylonbee-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659752593",
-      "size": "40960",
-      "md5": "ebbafe36421b749ced1a735198378ef1",
-      "crc32": "e4233cd8",
-      "sha1": "352792796a8940c80947e4b89043302b4e2e3385",
+      "mtime": "1659794191",
+      "size": "49152",
+      "md5": "be67da933a36e389189dfc4fdc15b18c",
+      "crc32": "046bbca2",
+      "sha1": "2573d212c63e6cd880608612acd3f475b576d619",
       "format": "Metadata"
     },
     {
@@ -230,9 +292,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 22,
-  "item_last_updated": 1659752671,
-  "item_size": 1051317,
+  "files_count": 28,
+  "item_last_updated": 1659794240,
+  "item_size": 1378019,
   "metadata": {
     "identifier": "thebabylonbee-2022",
     "collection": [
@@ -250,7 +312,7 @@
     "addeddate": "2022-08-05 14:11:17"
   },
   "server": "ia801407.us.archive.org",
-  "uniq": 865459970,
+  "uniq": 1352199787,
   "workable_servers": [
     "ia801407.us.archive.org",
     "ia601407.us.archive.org"

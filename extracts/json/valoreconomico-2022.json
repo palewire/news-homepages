@@ -1,5 +1,5 @@
 {
-  "created": 1659762560,
+  "created": 1659833750,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/0/items/valoreconomico-2022",
@@ -348,31 +348,93 @@
       "sha1": "5049db5beba4a4b51fbf5e3d511b944fa826766e"
     },
     {
+      "name": "valoreconomico-2022-08-06T13:30:35.513347-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659803437",
+      "size": "67779",
+      "md5": "792e938df24b6640a7607ef8deceefd8",
+      "crc32": "7c6c3bfd",
+      "sha1": "d23d67637fda084e50fca275f1434cbeeff617b7",
+      "format": "JSON"
+    },
+    {
+      "name": "valoreconomico-2022-08-06T13:30:35.513347-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659803439",
+      "size": "62479",
+      "md5": "b446e0f52f6760d83a83322a5d3445c0",
+      "crc32": "60b804f2",
+      "sha1": "13b18509bb7902b2163c8a702f03f62b1f11e217",
+      "format": "JSON"
+    },
+    {
+      "name": "valoreconomico-2022-08-06T13:30:35.513347-03:00.jpg",
+      "source": "original",
+      "mtime": "1659803436",
+      "size": "231172",
+      "md5": "165c0e5b841a0751cf4f0e3b0058b789",
+      "crc32": "76a7cc3f",
+      "sha1": "090c0bbc93b50bade01c7f485a65d63d00f045e5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "valoreconomico-2022-08-06T13:30:35.513347-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659803440",
+      "size": "1468",
+      "md5": "4cd78829615242d3b554f2ea1d159fe6",
+      "crc32": "2d24f6bc",
+      "sha1": "f48ad3d988aa35e00cbc38f63371106b66ca66e0",
+      "format": "JSON"
+    },
+    {
+      "name": "valoreconomico-2022-08-06T13:30:35.513347-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1659803442",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "valoreconomico-2022-08-06T13:30:35.513347-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "valoreconomico-2022-08-06T13:30:35.513347-03:00.jpg",
+      "mtime": "1659803493",
+      "size": "8538",
+      "md5": "b0b8d379aa559d87175a4541a34ab8c2",
+      "crc32": "75e23bff",
+      "sha1": "ba0398d4febe135745b35932a0819b049d5fd998"
+    },
+    {
       "name": "valoreconomico-2022_archive.torrent",
       "source": "metadata",
-      "btih": "def5ac0789328ed73ce11c557864780b09ecad0c",
-      "mtime": "1659762547",
-      "size": "8601",
-      "md5": "5865bcbed4ae5fe868c5a2b99c27dee8",
-      "crc32": "ecbf0aa9",
-      "sha1": "c7d9ae5ac6c4e46658955d3716c0a7648292d04b",
+      "btih": "b41036ddddc9a76681cdbf0cbc9c28540ea00de2",
+      "mtime": "1659803495",
+      "size": "9902",
+      "md5": "366cf2d4b84ddbaf5f73c69f2c30529a",
+      "crc32": "9790a0b7",
+      "sha1": "24041440047c9bd18e952aa1023bb8dd9a729adb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "valoreconomico-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9561b7ccfa39cc983e07262de77ede12",
+      "md5": "4044867c132140e12f8a4c1713de9b98",
       "summation": "md5"
     },
     {
       "name": "valoreconomico-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659762492",
-      "size": "57344",
-      "md5": "4bd4cdd0638c6707b8074e4f8d32cdc5",
-      "crc32": "989d0184",
-      "sha1": "75b4bbe3b3de8fb8bc681deace0c5a9cd3be2cda",
+      "mtime": "1659803446",
+      "size": "65536",
+      "md5": "43d77514c17533531a5675eea6f1ec9d",
+      "crc32": "d202f6e7",
+      "sha1": "8d754a549216f8c63e1fba214e5df9c7bbe39331",
       "format": "Metadata"
     },
     {
@@ -386,9 +448,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 37,
-  "item_last_updated": 1659762547,
-  "item_size": 2285366,
+  "files_count": 43,
+  "item_last_updated": 1659803495,
+  "item_size": 2666497,
   "metadata": {
     "identifier": "valoreconomico-2022",
     "collection": [
@@ -405,10 +467,15 @@
     "publicdate": "2022-08-04 04:56:45",
     "addeddate": "2022-08-04 04:56:45"
   },
-  "server": "ia601500.us.archive.org",
-  "uniq": 1124264400,
+  "server": "ia801500.us.archive.org",
+  "uniq": 2140047721,
+  "valoreconomico-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "workable_servers": [
-    "ia601500.us.archive.org",
-    "ia801500.us.archive.org"
+    "ia801500.us.archive.org",
+    "ia601500.us.archive.org"
   ]
 }

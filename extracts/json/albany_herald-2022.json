@@ -1,5 +1,5 @@
 {
-  "created": 1659788141,
+  "created": 1659832019,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/27/items/albany_herald-2022",
@@ -1694,31 +1694,83 @@
       "sha1": "aeb10c653817900f0d48b07824bd1b1175bf9cc6"
     },
     {
+      "name": "albany_herald-2022-08-06T20:21:53.195207-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659831726",
+      "size": "64462",
+      "md5": "0e97990a9557363c8fbe984b68c78d4b",
+      "crc32": "5d7c921d",
+      "sha1": "134a6f320b50b5c92ec1dcc08c2239cf7eb8308b",
+      "format": "JSON"
+    },
+    {
+      "name": "albany_herald-2022-08-06T20:21:53.195207-04:00.jpg",
+      "source": "original",
+      "mtime": "1659831720",
+      "size": "316252",
+      "md5": "2ab0f574f4cdabf1e3af799b722f43b5",
+      "crc32": "19b282d0",
+      "sha1": "ef4c4e864ae7e6954f1e016c8c15e04144349d62",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "albany_herald-2022-08-06T20:21:53.195207-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659831732",
+      "size": "1510",
+      "md5": "66e7ff3fec1ce61107e00ad49ec9b460",
+      "crc32": "193e0e1b",
+      "sha1": "ba5e1b2e24a3a40b3f5efc2c3227d745a6938917",
+      "format": "JSON"
+    },
+    {
+      "name": "albany_herald-2022-08-06T20:21:53.195207-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659831737",
+      "size": "246847",
+      "md5": "01c1d3368bacc7eb9666fc470331e569",
+      "crc32": "0b281cd2",
+      "sha1": "4bd51539cc430e31388d01655e8504d0baf3f025",
+      "format": "JSON"
+    },
+    {
+      "name": "albany_herald-2022-08-06T20:21:53.195207-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "albany_herald-2022-08-06T20:21:53.195207-04:00.jpg",
+      "mtime": "1659832000",
+      "size": "11191",
+      "md5": "6844abc3ecbcbe6f5d2aa752c7c28612",
+      "crc32": "b03aa4d6",
+      "sha1": "039880bc672d94ba7a95be36cd8edb9f3ea412e4"
+    },
+    {
       "name": "albany_herald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2125c3867c3f80e4aa4c2f9e2540ccf4a2c3b751",
-      "mtime": "1659788132",
-      "size": "36606",
-      "md5": "b38d49d65acaeb1afcb904e2869b6b5b",
-      "crc32": "6eb27efd",
-      "sha1": "6cc457dec55b0bbfcf1ee5b2c1f1b721197434f3",
+      "btih": "412086a7e06ee4ea19b1f7f914b2d84b18b38c5c",
+      "mtime": "1659832007",
+      "size": "37709",
+      "md5": "f75d09e98524737093835b7d96355f59",
+      "crc32": "91bf110d",
+      "sha1": "3bb17e6f84dcca0a93d2d96fb6c612c16aa7f8a9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "albany_herald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "75f1184c68461f8ba9e742e3778f1ecc",
+      "md5": "fa9d54583013ace71cb67276aac9dbdd",
       "summation": "md5"
     },
     {
       "name": "albany_herald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659788083",
-      "size": "221184",
-      "md5": "111b151aac7c5211dbddc87e854c97cc",
-      "crc32": "ea8d4ef0",
-      "sha1": "775f54e357323a916895de986cebb4fcf168a581",
+      "mtime": "1659831866",
+      "size": "225280",
+      "md5": "b175984db982fa6f7bf12e658b555dfc",
+      "crc32": "0f404249",
+      "sha1": "18a938fa570f75fffce14f2f2345ef2de258732d",
       "format": "Metadata"
     },
     {
@@ -1732,9 +1784,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 166,
-  "item_last_updated": 1659788132,
-  "item_size": 17249842,
+  "files_count": 171,
+  "item_last_updated": 1659832007,
+  "item_size": 17895303,
   "metadata": {
     "identifier": "albany_herald-2022",
     "collection": [
@@ -1751,10 +1803,10 @@
     "publicdate": "2022-07-20 23:30:34",
     "addeddate": "2022-07-20 23:30:34"
   },
-  "server": "ia801406.us.archive.org",
-  "uniq": 1227760713,
+  "server": "ia601406.us.archive.org",
+  "uniq": 748737062,
   "workable_servers": [
-    "ia801406.us.archive.org",
-    "ia601406.us.archive.org"
+    "ia601406.us.archive.org",
+    "ia801406.us.archive.org"
   ]
 }
