@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 246 screenshots with the Internet Archive.
+The archiving routine has saved 247 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 246 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-07T05:28:12.690324-07:00.jpg">
+  <img src="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-07T05:28:12.690324-07:00.jpg"
+     alt="East Bay Times at 2022-08-07 05:28:18-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-07T05:28:12.690324-07:00.jpg">August 7 at 5:28 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-06T17:30:54.459639-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-01T16:20:02.581213-07:00.jpg">August 1 at 4:20 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-01T04:16:03.098092-07:00.jpg">
-  <img src="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-01T04:16:03.098092-07:00.jpg"
-     alt="East Bay Times at 2022-08-01 04:16:13-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-01T04:16:03.098092-07:00.jpg">August 1 at 4:16 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 234 hyperlink lists with the Internet Archive.
+The archiving routine has saved 235 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 7 at 5:28 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-07T05:28:12.690324-07:00.hyperlinks.json) |
 | [August 6 at 5:31 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-06T17:30:54.459639-07:00.hyperlinks.json) |
 | [August 6 at 5:24 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-06T05:23:52.751275-07:00.hyperlinks.json) |
 | [August 5 at 4:33 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-05T16:33:22.777826-07:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 3 at 4:24 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-03T16:24:34.243788-07:00.hyperlinks.json) |
 | [August 3 at 5:40 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-03T05:40:30.245145-07:00.hyperlinks.json) |
 | [August 2 at 4:24 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-02T16:24:09.550640-07:00.hyperlinks.json) |
-| [August 2 at 5:16 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-02T05:15:52.877573-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 237 accessibility trees with the Internet Archive.
+The archiving routine has saved 238 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 7 at 5:28 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-07T05:28:12.690324-07:00.accessibility.json) |
 | [August 6 at 5:31 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-06T17:30:54.459639-07:00.accessibility.json) |
 | [August 6 at 5:24 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-06T05:23:52.751275-07:00.accessibility.json) |
 | [August 5 at 4:33 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-05T16:33:22.777826-07:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 3 at 4:24 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-03T16:24:34.243788-07:00.accessibility.json) |
 | [August 3 at 5:40 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-03T05:40:30.245145-07:00.accessibility.json) |
 | [August 2 at 4:24 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-02T16:24:09.550640-07:00.accessibility.json) |
-| [August 2 at 5:16 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-02T05:15:52.877573-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 29 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 7 at 5:28 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-07T05:28:12.690324-07:00.lighthouse.json) |
 | [August 6 at 5:31 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-06T17:30:54.459639-07:00.lighthouse.json) |
 | [August 6 at 5:24 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-06T05:23:52.751275-07:00.lighthouse.json) |
 | [August 5 at 4:33 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-05T16:33:22.777826-07:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 3 at 4:24 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-03T16:24:34.243788-07:00.lighthouse.json) |
 | [August 3 at 5:40 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-03T05:40:30.245145-07:00.lighthouse.json) |
 | [August 2 at 4:24 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-02T16:24:09.550640-07:00.lighthouse.json) |
-| [August 2 at 5:16 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-02T05:15:52.877573-07:00.lighthouse.json) |
 
 
 

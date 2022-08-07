@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 6 screenshots with the Internet Archive.
+The archiving routine has saved 7 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/opovo-2022/opovo-2022-08-07T01:37:55.887377-03:00.jpg">
+  <img src="https://archive.org/download/opovo-2022/opovo-2022-08-07T01:37:55.887377-03:00.jpg"
+     alt="O Povo at 2022-08-07 01:37:57-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/opovo-2022/opovo-2022-08-07T01:37:55.887377-03:00.jpg">August 7 at 1:37 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/opovo-2022/opovo-2022-08-06T13:21:39.114910-03:00.jpg">
@@ -117,7 +126,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 6 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 7 Lighthouse audits with the Internet Archive.
 
 
 
@@ -125,6 +134,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 7 at 1:37 AM](https://archive.org/download/opovo-2022/opovo-2022-08-07T01:37:55.887377-03:00.lighthouse.json) |
 | [August 6 at 1:21 PM](https://archive.org/download/opovo-2022/opovo-2022-08-06T13:21:39.114910-03:00.lighthouse.json) |
 | [August 6 at 1:59 AM](https://archive.org/download/opovo-2022/opovo-2022-08-06T01:59:05.027592-03:00.lighthouse.json) |
 | [August 5 at 2:50 PM](https://archive.org/download/opovo-2022/opovo-2022-08-05T14:49:57.612723-03:00.lighthouse.json) |

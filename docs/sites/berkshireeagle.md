@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 19 screenshots with the Internet Archive.
+The archiving routine has saved 20 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-07T08:21:41.920207-04:00.jpg">
+  <img src="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-07T08:21:41.920207-04:00.jpg"
+     alt="Berkshire Eagle at 2022-08-07 08:21:44-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-07T08:21:41.920207-04:00.jpg">August 7 at 8:21 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-06T20:25:18.704041-04:00.jpg">
@@ -127,15 +136,6 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-01T19:14:49.109288-04:00.jpg">August 1 at 7:14 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-01T07:11:23.248933-04:00.jpg">
-  <img src="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-01T07:11:23.248933-04:00.jpg"
-     alt="Berkshire Eagle at 2022-08-01 07:11:25-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-01T07:11:23.248933-04:00.jpg">August 1 at 7:11 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
@@ -162,7 +162,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 17 accessibility trees with the Internet Archive.
+The archiving routine has saved 18 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 7 at 8:21 AM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-07T08:21:41.920207-04:00.accessibility.json) |
 | [August 6 at 8:25 PM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-06T20:25:18.704041-04:00.accessibility.json) |
 | [August 6 at 8:16 AM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-06T08:16:07.824305-04:00.accessibility.json) |
 | [August 5 at 7:27 PM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-05T19:27:20.699128-04:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [August 3 at 7:18 PM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-03T19:18:08.441029-04:00.accessibility.json) |
 | [August 3 at 8:35 AM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-03T08:35:07.957081-04:00.accessibility.json) |
 | [August 2 at 7:18 PM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-02T19:18:43.784563-04:00.accessibility.json) |
-| [August 2 at 8:11 AM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-02T08:11:21.338023-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 19 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 7 at 8:21 AM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-07T08:21:41.920207-04:00.lighthouse.json) |
 | [August 6 at 8:25 PM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-06T20:25:18.704041-04:00.lighthouse.json) |
 | [August 5 at 7:27 PM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-05T19:27:20.699128-04:00.lighthouse.json) |
 | [August 5 at 8:22 AM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-05T08:21:46.842171-04:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 3 at 8:35 AM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-03T08:35:07.957081-04:00.lighthouse.json) |
 | [August 2 at 7:18 PM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-02T19:18:43.784563-04:00.lighthouse.json) |
 | [August 2 at 8:11 AM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-02T08:11:21.338023-04:00.lighthouse.json) |
-| [August 1 at 7:14 PM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-01T19:14:49.109288-04:00.lighthouse.json) |
 
 
 

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 40 screenshots with the Internet Archive.
+The archiving routine has saved 41 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 40 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-06T22:29:19.126375-05:00.jpg">
+  <img src="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-06T22:29:19.126375-05:00.jpg"
+     alt="Midland Reporter-Telegram at 2022-08-06 22:29:21-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-06T22:29:19.126375-05:00.jpg">August 6 at 10:29 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-06T11:18:06.456502-05:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-08-01T10:05:25.403915-05:00.jpg">August 1 at 10:05 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-07-31T21:40:41.138840-05:00.jpg">
-  <img src="https://archive.org/download/mwtnews-2022/mwtnews-2022-07-31T21:40:41.138840-05:00.jpg"
-     alt="Midland Reporter-Telegram at 2022-07-31 21:40:43-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mwtnews-2022/mwtnews-2022-07-31T21:40:41.138840-05:00.jpg">July 31 at 9:40 PM</a></p>
 </div>
 
 </div>
@@ -328,7 +328,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 38 accessibility trees with the Internet Archive.
+The archiving routine has saved 39 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 6 at 10:29 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-06T22:29:19.126375-05:00.accessibility.json) |
 | [August 6 at 11:18 AM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-06T11:18:06.456502-05:00.accessibility.json) |
 | [August 5 at 11:56 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-05T23:56:31.393952-05:00.accessibility.json) |
 | [August 5 at 12:32 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-05T12:32:40.683818-05:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 3 at 12:03 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-03T12:03:51.946594-05:00.accessibility.json) |
 | [August 2 at 11:37 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-02T23:37:29.376111-05:00.accessibility.json) |
 | [August 2 at 9:59 AM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-02T09:59:25.664856-05:00.accessibility.json) |
-| [August 1 at 10:22 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-01T22:22:06.330811-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 28 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 29 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 6 at 10:29 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-06T22:29:19.126375-05:00.lighthouse.json) |
 | [August 6 at 11:18 AM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-06T11:18:06.456502-05:00.lighthouse.json) |
 | [August 5 at 11:56 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-05T23:56:31.393952-05:00.lighthouse.json) |
 | [August 5 at 12:32 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-05T12:32:40.683818-05:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 3 at 12:03 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-03T12:03:51.946594-05:00.lighthouse.json) |
 | [August 2 at 11:37 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-02T23:37:29.376111-05:00.lighthouse.json) |
 | [August 2 at 9:59 AM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-02T09:59:25.664856-05:00.lighthouse.json) |
-| [August 1 at 10:22 PM](https://archive.org/download/mwtnews-2022/mwtnews-2022-08-01T22:22:06.330811-05:00.lighthouse.json) |
 
 
 

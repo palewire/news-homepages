@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 120 screenshots with the Internet Archive.
+The archiving routine has saved 121 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 120 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-08-07T00:38:13.405187-04:00.jpg">
+  <img src="https://archive.org/download/okayplayer-2022/okayplayer-2022-08-07T00:38:13.405187-04:00.jpg"
+     alt="okayplayer at 2022-08-07 00:38:17-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-08-07T00:38:13.405187-04:00.jpg">August 7 at 12:38 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-08-06T12:21:19.655307-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-08-01T12:06:56.193987-04:00.jpg">August 1 at 12:07 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-07-31T23:54:45.759551-04:00.jpg">
-  <img src="https://archive.org/download/okayplayer-2022/okayplayer-2022-07-31T23:54:45.759551-04:00.jpg"
-     alt="okayplayer at 2022-07-31 23:54:48-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-07-31T23:54:45.759551-04:00.jpg">July 31 at 11:54 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 123 hyperlink lists with the Internet Archive.
+The archiving routine has saved 124 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 7 at 12:38 AM](https://archive.org/download/okayplayer-2022/okayplayer-2022-08-07T00:38:13.405187-04:00.hyperlinks.json) |
 | [August 6 at 12:21 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-08-06T12:21:19.655307-04:00.hyperlinks.json) |
 | [August 6 at 12:59 AM](https://archive.org/download/okayplayer-2022/okayplayer-2022-08-06T00:59:26.055531-04:00.hyperlinks.json) |
 | [August 5 at 1:50 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-08-05T13:50:00.145948-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 3 at 1:06 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-08-03T13:06:39.534671-04:00.hyperlinks.json) |
 | [August 3 at 12:39 AM](https://archive.org/download/okayplayer-2022/okayplayer-2022-08-03T00:39:04.705814-04:00.hyperlinks.json) |
 | [August 2 at 12:15 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-08-02T12:15:17.789868-04:00.hyperlinks.json) |
-| [August 2 at 12:22 AM](https://archive.org/download/okayplayer-2022/okayplayer-2022-08-02T00:22:22.835485-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 123 accessibility trees with the Internet Archive.
+The archiving routine has saved 124 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 7 at 12:38 AM](https://archive.org/download/okayplayer-2022/okayplayer-2022-08-07T00:38:13.405187-04:00.accessibility.json) |
 | [August 6 at 12:21 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-08-06T12:21:19.655307-04:00.accessibility.json) |
 | [August 6 at 12:59 AM](https://archive.org/download/okayplayer-2022/okayplayer-2022-08-06T00:59:26.055531-04:00.accessibility.json) |
 | [August 5 at 1:50 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-08-05T13:50:00.145948-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 3 at 1:06 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-08-03T13:06:39.534671-04:00.accessibility.json) |
 | [August 3 at 12:39 AM](https://archive.org/download/okayplayer-2022/okayplayer-2022-08-03T00:39:04.705814-04:00.accessibility.json) |
 | [August 2 at 12:15 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-08-02T12:15:17.789868-04:00.accessibility.json) |
-| [August 2 at 12:22 AM](https://archive.org/download/okayplayer-2022/okayplayer-2022-08-02T00:22:22.835485-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 28 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 29 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 7 at 12:38 AM](https://archive.org/download/okayplayer-2022/okayplayer-2022-08-07T00:38:13.405187-04:00.lighthouse.json) |
 | [August 6 at 12:21 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-08-06T12:21:19.655307-04:00.lighthouse.json) |
 | [August 6 at 12:59 AM](https://archive.org/download/okayplayer-2022/okayplayer-2022-08-06T00:59:26.055531-04:00.lighthouse.json) |
 | [August 5 at 1:50 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-08-05T13:50:00.145948-04:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 3 at 1:06 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-08-03T13:06:39.534671-04:00.lighthouse.json) |
 | [August 3 at 12:39 AM](https://archive.org/download/okayplayer-2022/okayplayer-2022-08-03T00:39:04.705814-04:00.lighthouse.json) |
 | [August 2 at 12:15 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-08-02T12:15:17.789868-04:00.lighthouse.json) |
-| [August 2 at 12:22 AM](https://archive.org/download/okayplayer-2022/okayplayer-2022-08-02T00:22:22.835485-04:00.lighthouse.json) |
 
 
 

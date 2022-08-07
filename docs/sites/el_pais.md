@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 19 screenshots with the Internet Archive.
+The archiving routine has saved 20 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/el_pais-2022/el_pais-2022-08-07T05:20:10.936094+02:00.jpg">
+  <img src="https://archive.org/download/el_pais-2022/el_pais-2022-08-07T05:20:10.936094+02:00.jpg"
+     alt="El Pais at 2022-08-07 05:20:12+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/el_pais-2022/el_pais-2022-08-07T05:20:10.936094+02:00.jpg">August 7 at 5:20 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/el_pais-2022/el_pais-2022-08-06T18:09:07.570103+02:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/el_pais-2022/el_pais-2022-08-01T16:56:07.877229+02:00.jpg">August 1 at 4:56 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/el_pais-2022/el_pais-2022-08-01T04:33:38.409050+02:00.jpg">
-  <img src="https://archive.org/download/el_pais-2022/el_pais-2022-08-01T04:33:38.409050+02:00.jpg"
-     alt="El Pais at 2022-08-01 04:33:40+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/el_pais-2022/el_pais-2022-08-01T04:33:38.409050+02:00.jpg">August 1 at 4:33 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 19 hyperlink lists with the Internet Archive.
+The archiving routine has saved 20 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 7 at 5:20 AM](https://archive.org/download/el_pais-2022/el_pais-2022-08-07T05:20:10.936094+02:00.hyperlinks.json) |
 | [August 6 at 6:09 PM](https://archive.org/download/el_pais-2022/el_pais-2022-08-06T18:09:07.570103+02:00.hyperlinks.json) |
 | [August 6 at 6:46 AM](https://archive.org/download/el_pais-2022/el_pais-2022-08-06T06:46:51.338090+02:00.hyperlinks.json) |
 | [August 5 at 7:19 PM](https://archive.org/download/el_pais-2022/el_pais-2022-08-05T19:19:13.204446+02:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 3 at 6:54 PM](https://archive.org/download/el_pais-2022/el_pais-2022-08-03T18:54:06.978077+02:00.hyperlinks.json) |
 | [August 3 at 6:27 AM](https://archive.org/download/el_pais-2022/el_pais-2022-08-03T06:27:33.521936+02:00.hyperlinks.json) |
 | [August 2 at 4:51 PM](https://archive.org/download/el_pais-2022/el_pais-2022-08-02T16:51:05.372228+02:00.hyperlinks.json) |
-| [August 2 at 5:14 AM](https://archive.org/download/el_pais-2022/el_pais-2022-08-02T05:14:45.476659+02:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 19 accessibility trees with the Internet Archive.
+The archiving routine has saved 20 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 7 at 5:20 AM](https://archive.org/download/el_pais-2022/el_pais-2022-08-07T05:20:10.936094+02:00.accessibility.json) |
 | [August 6 at 6:09 PM](https://archive.org/download/el_pais-2022/el_pais-2022-08-06T18:09:07.570103+02:00.accessibility.json) |
 | [August 6 at 6:46 AM](https://archive.org/download/el_pais-2022/el_pais-2022-08-06T06:46:51.338090+02:00.accessibility.json) |
 | [August 5 at 7:19 PM](https://archive.org/download/el_pais-2022/el_pais-2022-08-05T19:19:13.204446+02:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [August 3 at 6:54 PM](https://archive.org/download/el_pais-2022/el_pais-2022-08-03T18:54:06.978077+02:00.accessibility.json) |
 | [August 3 at 6:27 AM](https://archive.org/download/el_pais-2022/el_pais-2022-08-03T06:27:33.521936+02:00.accessibility.json) |
 | [August 2 at 4:51 PM](https://archive.org/download/el_pais-2022/el_pais-2022-08-02T16:51:05.372228+02:00.accessibility.json) |
-| [August 2 at 5:14 AM](https://archive.org/download/el_pais-2022/el_pais-2022-08-02T05:14:45.476659+02:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 19 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 20 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 7 at 5:20 AM](https://archive.org/download/el_pais-2022/el_pais-2022-08-07T05:20:10.936094+02:00.lighthouse.json) |
 | [August 6 at 6:09 PM](https://archive.org/download/el_pais-2022/el_pais-2022-08-06T18:09:07.570103+02:00.lighthouse.json) |
 | [August 6 at 6:46 AM](https://archive.org/download/el_pais-2022/el_pais-2022-08-06T06:46:51.338090+02:00.lighthouse.json) |
 | [August 5 at 7:19 PM](https://archive.org/download/el_pais-2022/el_pais-2022-08-05T19:19:13.204446+02:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 3 at 6:54 PM](https://archive.org/download/el_pais-2022/el_pais-2022-08-03T18:54:06.978077+02:00.lighthouse.json) |
 | [August 3 at 6:27 AM](https://archive.org/download/el_pais-2022/el_pais-2022-08-03T06:27:33.521936+02:00.lighthouse.json) |
 | [August 2 at 4:51 PM](https://archive.org/download/el_pais-2022/el_pais-2022-08-02T16:51:05.372228+02:00.lighthouse.json) |
-| [August 2 at 5:14 AM](https://archive.org/download/el_pais-2022/el_pais-2022-08-02T05:14:45.476659+02:00.lighthouse.json) |
 
 
 

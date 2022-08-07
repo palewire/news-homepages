@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 68 screenshots with the Internet Archive.
+The archiving routine has saved 69 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 68 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-07T08:39:29.029008-04:00.jpg">
+  <img src="https://archive.org/download/natgeo-2022/natgeo-2022-08-07T08:39:29.029008-04:00.jpg"
+     alt="National Geographic at 2022-08-07 08:39:32-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-07T08:39:29.029008-04:00.jpg">August 7 at 8:39 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-06T20:41:35.669755-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-01T20:38:36.720583-04:00.jpg">August 1 at 8:38 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-01T08:26:01.000039-04:00.jpg">
-  <img src="https://archive.org/download/natgeo-2022/natgeo-2022-08-01T08:26:01.000039-04:00.jpg"
-     alt="National Geographic at 2022-08-01 08:26:04-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-01T08:26:01.000039-04:00.jpg">August 1 at 8:26 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 68 hyperlink lists with the Internet Archive.
+The archiving routine has saved 69 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 7 at 8:39 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-07T08:39:29.029008-04:00.hyperlinks.json) |
 | [August 6 at 8:41 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-06T20:41:35.669755-04:00.hyperlinks.json) |
 | [August 6 at 8:32 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-06T08:32:31.698258-04:00.hyperlinks.json) |
 | [August 5 at 10:06 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-05T22:06:37.556937-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 3 at 8:42 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-03T20:42:07.466666-04:00.hyperlinks.json) |
 | [August 3 at 8:51 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-03T08:51:52.329166-04:00.hyperlinks.json) |
 | [August 2 at 8:38 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-02T20:38:00.925883-04:00.hyperlinks.json) |
-| [August 2 at 8:24 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-02T08:24:13.562513-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 68 accessibility trees with the Internet Archive.
+The archiving routine has saved 69 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 7 at 8:39 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-07T08:39:29.029008-04:00.accessibility.json) |
 | [August 6 at 8:41 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-06T20:41:35.669755-04:00.accessibility.json) |
 | [August 6 at 8:32 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-06T08:32:31.698258-04:00.accessibility.json) |
 | [August 5 at 10:06 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-05T22:06:37.556937-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 3 at 8:42 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-03T20:42:07.466666-04:00.accessibility.json) |
 | [August 3 at 8:51 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-03T08:51:52.329166-04:00.accessibility.json) |
 | [August 2 at 8:38 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-02T20:38:00.925883-04:00.accessibility.json) |
-| [August 2 at 8:24 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-02T08:24:13.562513-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 29 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 7 at 8:39 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-07T08:39:29.029008-04:00.lighthouse.json) |
 | [August 6 at 8:41 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-06T20:41:35.669755-04:00.lighthouse.json) |
 | [August 6 at 8:32 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-06T08:32:31.698258-04:00.lighthouse.json) |
 | [August 5 at 10:06 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-05T22:06:37.556937-04:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 3 at 8:42 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-03T20:42:07.466666-04:00.lighthouse.json) |
 | [August 3 at 8:52 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-03T08:51:52.329166-04:00.lighthouse.json) |
 | [August 2 at 8:38 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-02T20:38:00.925883-04:00.lighthouse.json) |
-| [August 2 at 8:24 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-02T08:24:13.562513-04:00.lighthouse.json) |
 
 
 

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 210 screenshots with the Internet Archive.
+The archiving routine has saved 211 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 210 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-08-06T23:49:04.486123-05:00.jpg">
+  <img src="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-08-06T23:49:04.486123-05:00.jpg"
+     alt="Waterloo-Cedar Falls Courier at 2022-08-06 23:49:06-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-08-06T23:49:04.486123-05:00.jpg">August 6 at 11:49 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-08-06T11:32:29.844138-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-08-01T11:37:53.448930-05:00.jpg">August 1 at 11:37 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-08-01T11:16:38.826719-05:00.jpg">
-  <img src="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-08-01T11:16:38.826719-05:00.jpg"
-     alt="Waterloo-Cedar Falls Courier at 2022-08-01 11:16:51-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wcfcourier-2022/wcfcourier-2022-08-01T11:16:38.826719-05:00.jpg">August 1 at 11:16 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 195 hyperlink lists with the Internet Archive.
+The archiving routine has saved 196 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 6 at 11:49 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-08-06T23:49:04.486123-05:00.hyperlinks.json) |
 | [August 6 at 11:32 AM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-08-06T11:32:29.844138-05:00.hyperlinks.json) |
 | [August 6 at 12:09 AM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-08-06T00:09:27.421505-05:00.hyperlinks.json) |
 | [August 5 at 1:07 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-08-05T13:07:00.733724-05:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [August 3 at 11:41 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-08-03T23:41:33.720309-05:00.hyperlinks.json) |
 | [August 3 at 12:39 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-08-03T12:39:49.233265-05:00.hyperlinks.json) |
 | [August 3 at 12:16 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-08-03T12:16:46.150245-05:00.hyperlinks.json) |
-| [August 2 at 11:50 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-08-02T23:50:19.193704-05:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -434,7 +434,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 34 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 35 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 6 at 11:49 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-08-06T23:49:04.486123-05:00.lighthouse.json) |
 | [August 6 at 11:32 AM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-08-06T11:32:29.844138-05:00.lighthouse.json) |
 | [August 6 at 12:09 AM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-08-06T00:09:27.421505-05:00.lighthouse.json) |
 | [August 5 at 1:07 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-08-05T13:07:00.733724-05:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 3 at 11:41 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-08-03T23:41:33.720309-05:00.lighthouse.json) |
 | [August 3 at 12:39 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-08-03T12:39:49.233265-05:00.lighthouse.json) |
 | [August 3 at 12:16 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-08-03T12:16:46.150245-05:00.lighthouse.json) |
-| [August 2 at 11:50 PM](https://archive.org/download/wcfcourier-2022/wcfcourier-2022-08-02T23:50:19.193704-05:00.lighthouse.json) |
 
 
 

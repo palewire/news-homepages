@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 23 screenshots with the Internet Archive.
+The archiving routine has saved 24 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-08-06T23:10:51.036885-04:00.jpg">
+  <img src="https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-08-06T23:10:51.036885-04:00.jpg"
+     alt="Buffalo News at 2022-08-06 23:10:52-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-08-06T23:10:51.036885-04:00.jpg">August 6 at 11:10 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-08-06T09:56:20.400089-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-08-01T21:58:53.078190-04:00.jpg">August 1 at 9:58 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-08-01T10:49:05.040709-04:00.jpg">
-  <img src="https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-08-01T10:49:05.040709-04:00.jpg"
-     alt="Buffalo News at 2022-08-01 10:49:06-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-08-01T10:49:05.040709-04:00.jpg">August 1 at 10:49 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 22 hyperlink lists with the Internet Archive.
+The archiving routine has saved 23 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 6 at 11:10 PM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-08-06T23:10:51.036885-04:00.hyperlinks.json) |
 | [August 6 at 9:56 AM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-08-06T09:56:20.400089-04:00.hyperlinks.json) |
 | [August 5 at 10:22 PM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-08-05T22:22:42.764505-04:00.hyperlinks.json) |
 | [August 5 at 1:35 PM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-08-05T13:35:41.481749-04:00.hyperlinks.json) |
@@ -157,7 +158,6 @@ Here are the 10 most recent hyperlink lists.
 | [August 3 at 11:09 PM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-08-03T23:09:22.301293-04:00.hyperlinks.json) |
 | [August 3 at 10:29 AM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-08-03T10:29:36.296787-04:00.hyperlinks.json) |
 | [August 2 at 9:56 PM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-08-02T21:56:42.950748-04:00.hyperlinks.json) |
-| [August 2 at 9:43 AM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-08-02T09:43:45.599141-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -185,7 +185,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 24 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 6 at 11:10 PM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-08-06T23:10:51.036885-04:00.lighthouse.json) |
 | [August 6 at 9:56 AM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-08-06T09:56:20.400089-04:00.lighthouse.json) |
 | [August 5 at 10:22 PM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-08-05T22:22:42.764505-04:00.lighthouse.json) |
 | [August 5 at 1:35 PM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-08-05T13:35:41.481749-04:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 3 at 11:09 PM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-08-03T23:09:22.301293-04:00.lighthouse.json) |
 | [August 3 at 10:29 AM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-08-03T10:29:36.296787-04:00.lighthouse.json) |
 | [August 2 at 9:56 PM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-08-02T21:56:42.950748-04:00.lighthouse.json) |
-| [August 2 at 9:43 AM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-08-02T09:43:45.599141-04:00.lighthouse.json) |
 
 
 
