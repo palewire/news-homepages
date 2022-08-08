@@ -1,5 +1,5 @@
 {
-  "created": 1659847489,
+  "created": 1659920913,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/32/items/setopati-2022",
@@ -1512,31 +1512,93 @@
       "sha1": "dc3d21d41bc72bc3f8c66d1d7909a7da735e59b2"
     },
     {
+      "name": "setopati-2022-08-07T22:49:45.590766+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1659891888",
+      "size": "128449",
+      "md5": "826f2d481bd128361461c5ff242d9779",
+      "crc32": "e4801600",
+      "sha1": "94897c5d81f4c2fa167994afd590ffda038c547d",
+      "format": "JSON"
+    },
+    {
+      "name": "setopati-2022-08-07T22:49:45.590766+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659891889",
+      "size": "121886",
+      "md5": "774a25dc2fdcee7d055e0aa942bf3de3",
+      "crc32": "d1a87f5f",
+      "sha1": "bc2c603345bc96af710857bbc940a9fe23d3f1b6",
+      "format": "JSON"
+    },
+    {
+      "name": "setopati-2022-08-07T22:49:45.590766+05:45.jpg",
+      "source": "original",
+      "mtime": "1659891886",
+      "size": "282390",
+      "md5": "64d312ae1920d1581896df59c0857e56",
+      "crc32": "4cc049e5",
+      "sha1": "773b25b453bb2532beea1046cd0df33545e8d233",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "setopati-2022-08-07T22:49:45.590766+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1659891891",
+      "size": "1468",
+      "md5": "95668c4bb9ede6bbdd159083c0e9cee5",
+      "crc32": "52c7d82c",
+      "sha1": "8e099ca7b87ea7afcd18c0ab100b812794298e9b",
+      "format": "JSON"
+    },
+    {
+      "name": "setopati-2022-08-07T22:49:45.590766+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1659891893",
+      "size": "229",
+      "md5": "afa1e8b4dd4ee14b7f3a44880ba85c5b",
+      "crc32": "f648c336",
+      "sha1": "e67e62b7ea0c8b53f01020633f142cc21aaabb37",
+      "format": "JSON"
+    },
+    {
+      "name": "setopati-2022-08-07T22:49:45.590766+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "setopati-2022-08-07T22:49:45.590766+05:45.jpg",
+      "mtime": "1659891940",
+      "size": "9494",
+      "md5": "c39f81940c2adca9ff3ad8c34964e5ca",
+      "crc32": "8c127c9e",
+      "sha1": "c6cd6239dc9a79d913a623fa5adfbecb120eb395"
+    },
+    {
       "name": "setopati-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9087eb45b2923f5e883b8654a6c6b3349c97527f",
-      "mtime": "1659847483",
-      "size": "32128",
-      "md5": "7b1bfa352722777ceebf2587f7ff3d80",
-      "crc32": "8fc5124b",
-      "sha1": "515ca08acda930394f2d2ab4c1d60338ed631122",
+      "btih": "0bc8534ebeaf18021e12622c1b025009f3255c70",
+      "mtime": "1659891943",
+      "size": "33395",
+      "md5": "d8f17db3f999670bfeaebdd6ab0522ce",
+      "crc32": "a4b8c6c0",
+      "sha1": "1bb1c6efcdfb248bd9e50e4a5ec7883c2034e1f9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "setopati-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "110c106f584fd8961ead941421e2a8c0",
+      "md5": "e2e3379b6719b3ea5943be847ce73885",
       "summation": "md5"
     },
     {
       "name": "setopati-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659847436",
-      "size": "200704",
-      "md5": "17d46c7b7c0eb0c7b0c43115ff44fd61",
-      "crc32": "2edeb1a6",
-      "sha1": "53d629c83e4f3daeb9f7eaf9e2c487650c69fb83",
+      "mtime": "1659891898",
+      "size": "208896",
+      "md5": "c8bf73fa43ab191167d0b4c3b1d37f23",
+      "crc32": "fc42a947",
+      "sha1": "3107e13c26443c5dde55e817ecadc8a2c3aee3b7",
       "format": "Metadata"
     },
     {
@@ -1550,9 +1612,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 149,
-  "item_last_updated": 1659847483,
-  "item_size": 13946864,
+  "files_count": 155,
+  "item_last_updated": 1659891943,
+  "item_size": 14500239,
   "metadata": {
     "identifier": "setopati-2022",
     "collection": [
@@ -1570,7 +1632,16 @@
     "addeddate": "2022-07-24 20:39:32"
   },
   "server": "ia801507.us.archive.org",
-  "uniq": 1647846970,
+  "setopati-2022": {
+    "url": "https://www.setopati.com/",
+    "job_id": "spn2-cd08cf34c8cf5c138c25c370a31abf3f7ee325b6",
+    "status_ext": "error:job-failed",
+    "message": "Job failed.",
+    "status": "error",
+    "resources": [],
+    "duration_sec": 1.04
+  },
+  "uniq": 648502253,
   "workable_servers": [
     "ia801507.us.archive.org",
     "ia601507.us.archive.org"

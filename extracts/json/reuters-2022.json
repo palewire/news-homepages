@@ -1,5 +1,5 @@
 {
-  "created": 1659833297,
+  "created": 1659917701,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/1/items/reuters-2022",
@@ -4612,31 +4612,93 @@
       "sha1": "d6ca4b4761df83bcdce730ea08dd4c14fe11e797"
     },
     {
+      "name": "reuters-2022-08-07T08:44:28.699770-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659876272",
+      "size": "32658",
+      "md5": "fd628bb61f2f1c39fd3bc7788f836db9",
+      "crc32": "fd66df5f",
+      "sha1": "c6b2d53631ec25530aba2ebbecf2a1ffd425381f",
+      "format": "JSON"
+    },
+    {
+      "name": "reuters-2022-08-07T08:44:28.699770-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659876273",
+      "size": "22797",
+      "md5": "4a7ffb221f5af19c3b88fb3daeed336b",
+      "crc32": "23a4fd19",
+      "sha1": "9e2703d889011e8d395f21b69891ca80361665bd",
+      "format": "JSON"
+    },
+    {
+      "name": "reuters-2022-08-07T08:44:28.699770-04:00.jpg",
+      "source": "original",
+      "mtime": "1659876270",
+      "size": "280334",
+      "md5": "e69cf9f00d6ecd91161ac10aa195fa6a",
+      "crc32": "81a593e7",
+      "sha1": "2fe6f5e346ebd7d4f145f034446aa6a7103a47eb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reuters-2022-08-07T08:44:28.699770-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659876275",
+      "size": "1468",
+      "md5": "b12b98f50aa2043dcb2a29788b79c00b",
+      "crc32": "e28f5a69",
+      "sha1": "b8655f9899e5800f033ff0edbb22ca9d5a2cc80b",
+      "format": "JSON"
+    },
+    {
+      "name": "reuters-2022-08-07T08:44:28.699770-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659876277",
+      "size": "14283",
+      "md5": "9e8193596da75d3e23477ca3e6848b40",
+      "crc32": "ad58d3fc",
+      "sha1": "526c993735a3f7b5358a7b76bfdb24cc258cd199",
+      "format": "JSON"
+    },
+    {
+      "name": "reuters-2022-08-07T08:44:28.699770-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reuters-2022-08-07T08:44:28.699770-04:00.jpg",
+      "mtime": "1659876858",
+      "size": "8871",
+      "md5": "408060960cf60efeaacae35713a21bb9",
+      "crc32": "825a7af9",
+      "sha1": "8195c3bc07a59adb90c53f4a7e12d8a554d9d87b"
+    },
+    {
       "name": "reuters-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8ed37da2ae22edfa9fde0106218ccb40e3cfb1e1",
-      "mtime": "1659833289",
-      "size": "93414",
-      "md5": "a7257a93e861977342581bc662d603ce",
-      "crc32": "81a50adf",
-      "sha1": "fa2cdc0d6f35bf1dc6b9cf24855b83970a853b3a",
+      "btih": "79b30be52f11ed9b9902e69c902b8dbed0a1bfb9",
+      "mtime": "1659876892",
+      "size": "94675",
+      "md5": "2962ce04b2a1c52928ebc217c901b800",
+      "crc32": "63fcc5bb",
+      "sha1": "78a980ec0a3a43e81a00acfd75169dc93063d114",
       "format": "Archive BitTorrent"
     },
     {
       "name": "reuters-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a77a755d3439ac88fabbd84fec2aeb0f",
+      "md5": "dd40877c18a5fc57b87e3d6a7e0512c4",
       "summation": "md5"
     },
     {
       "name": "reuters-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659833226",
-      "size": "532480",
-      "md5": "d73cdb32ae8c9b074a5ad39097e7b3ed",
-      "crc32": "ad9e5055",
-      "sha1": "05ebb0533321dcb5202740b459f1f4020a30142a",
+      "mtime": "1659876411",
+      "size": "540672",
+      "md5": "87270edf5644c2f72d61fcb436c42765",
+      "crc32": "5942ee2f",
+      "sha1": "69358aee790cf42613c5f1f4af7e87f2aba39715",
       "format": "Metadata"
     },
     {
@@ -4650,9 +4712,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 444,
-  "item_last_updated": 1659833289,
-  "item_size": 31721046,
+  "files_count": 450,
+  "item_last_updated": 1659876892,
+  "item_size": 32090910,
   "metadata": {
     "identifier": "reuters-2022",
     "collection": [
@@ -4669,53 +4731,10 @@
     "publicdate": "2022-06-24 23:00:05",
     "addeddate": "2022-06-24 23:00:05"
   },
-  "pending_tasks": true,
   "server": "ia902504.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3356002260,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3356002271,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    },
-    {
-      "task_id": 3356002279,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    },
-    {
-      "task_id": 3356002291,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    },
-    {
-      "task_id": 3356002306,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1140421024,
+  "uniq": 1711524506,
   "workable_servers": [
-    "ia902504.us.archive.org"
+    "ia902504.us.archive.org",
+    "ia802504.us.archive.org"
   ]
 }

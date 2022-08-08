@@ -1,5 +1,6 @@
 {
-  "created": 1659875967,
+  "conflict": 1659920509,
+  "created": 1659920509,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/24/items/mddailyrecord-2022",
@@ -2691,10 +2692,21 @@
     "publicdate": "2022-07-13 02:25:07",
     "addeddate": "2022-07-13 02:25:07"
   },
+  "pending_tasks": true,
   "server": "ia601501.us.archive.org",
-  "uniq": 605027863,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3356568765,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1454913502,
   "workable_servers": [
-    "ia601501.us.archive.org",
-    "ia801501.us.archive.org"
+    "ia601501.us.archive.org"
   ]
 }

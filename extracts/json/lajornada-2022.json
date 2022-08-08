@@ -1,5 +1,6 @@
 {
-  "created": 1659875980,
+  "conflict": 1659920400,
+  "created": 1659920400,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/4/items/lajornada-2022",
@@ -20055,10 +20056,21 @@
     "publicdate": "2022-04-15 20:40:39",
     "addeddate": "2022-04-15 20:40:39"
   },
+  "pending_tasks": true,
   "server": "ia601408.us.archive.org",
-  "uniq": 882099837,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3356565962,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 707647654,
   "workable_servers": [
-    "ia601408.us.archive.org",
-    "ia801408.us.archive.org"
+    "ia601408.us.archive.org"
   ]
 }

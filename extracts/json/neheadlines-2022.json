@@ -1,5 +1,6 @@
 {
-  "created": 1659876094,
+  "conflict": 1659920586,
+  "created": 1659920586,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/27/items/neheadlines-2022",
@@ -851,10 +852,21 @@
     "publicdate": "2022-08-01 06:42:14",
     "addeddate": "2022-08-01 06:42:14"
   },
+  "pending_tasks": true,
   "server": "ia601504.us.archive.org",
-  "uniq": 74151834,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3356570825,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 410934320,
   "workable_servers": [
-    "ia601504.us.archive.org",
-    "ia801504.us.archive.org"
+    "ia601504.us.archive.org"
   ]
 }

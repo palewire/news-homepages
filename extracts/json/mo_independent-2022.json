@@ -1,5 +1,6 @@
 {
-  "created": 1659876028,
+  "conflict": 1659920535,
+  "created": 1659920535,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/3/items/mo_independent-2022",
@@ -3321,10 +3322,21 @@
     "publicdate": "2022-07-04 21:56:43",
     "addeddate": "2022-07-04 21:56:43"
   },
-  "server": "ia801405.us.archive.org",
-  "uniq": 982692029,
+  "pending_tasks": true,
+  "server": "ia601405.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3356569477,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1930570931,
   "workable_servers": [
-    "ia801405.us.archive.org",
     "ia601405.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1659876291,
+  "created": 1659920827,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/31/items/quillette-2022",
@@ -2068,31 +2068,93 @@
       "sha1": "07877b00944b4fc06ae209eccffbfafeb9e10704"
     },
     {
+      "name": "quillette-2022-08-07T13:45:17.587586+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659876320",
+      "size": "9672",
+      "md5": "3a76947be5fa0a07c304e9e34cf2be21",
+      "crc32": "71ecd7b5",
+      "sha1": "b48185fcaa3bea766b095e8fcde515929baee24a",
+      "format": "JSON"
+    },
+    {
+      "name": "quillette-2022-08-07T13:45:17.587586+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659876321",
+      "size": "5898",
+      "md5": "bb361fe7cb1ead5afb1aca9633cddb0c",
+      "crc32": "908914e4",
+      "sha1": "062fe0f637772a9758f5a1c8e27441ab8202fb0b",
+      "format": "JSON"
+    },
+    {
+      "name": "quillette-2022-08-07T13:45:17.587586+01:00.jpg",
+      "source": "original",
+      "mtime": "1659876318",
+      "size": "216412",
+      "md5": "b3cb875b09ddcfa7a52aa72469aaccb2",
+      "crc32": "ad1fe6da",
+      "sha1": "28857ddb3644b2acc70789e3c64c0dcae2cebb0a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "quillette-2022-08-07T13:45:17.587586+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659876323",
+      "size": "1450",
+      "md5": "7263111675642d6286acdf41534c9817",
+      "crc32": "5b503db7",
+      "sha1": "7409086d09a0146f5ceb879998c38dcf343c0896",
+      "format": "JSON"
+    },
+    {
+      "name": "quillette-2022-08-07T13:45:17.587586+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1659876324",
+      "size": "98",
+      "md5": "c4b78fc6a011632f3ec01f7bd89b2a21",
+      "crc32": "d5253c05",
+      "sha1": "0b7e2d2fac667826d8d287e93f138a81e2d7994b",
+      "format": "JSON"
+    },
+    {
+      "name": "quillette-2022-08-07T13:45:17.587586+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "quillette-2022-08-07T13:45:17.587586+01:00.jpg",
+      "mtime": "1659876375",
+      "size": "9679",
+      "md5": "3092c883b26ff6b32eddf5a1eea9ff2f",
+      "crc32": "51007196",
+      "sha1": "a3fdbe7c02b525a4b0938b6c8f0732654843c05a"
+    },
+    {
       "name": "quillette-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7ba2788c38b6ddc4a25567e3f00dc84ebe4c70ae",
-      "mtime": "1659833224",
-      "size": "43018",
-      "md5": "d73eac07dfecdd626bdbf573a9f87daf",
-      "crc32": "0d634e86",
-      "sha1": "bc511fa25c8ab446ec148a7af3dbfe8610dc90d5",
+      "btih": "fee3caab351bd0c86d74825a9348d2d9ca12fa39",
+      "mtime": "1659876378",
+      "size": "44266",
+      "md5": "0c1f00b85d5bc737f77c60fdf041d116",
+      "crc32": "d917c9bf",
+      "sha1": "50f6ca2b5a4c2cbc691e19196f0dde0eea64a10c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "quillette-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6fe0adb0f8a47e2785ef85b65f77f505",
+      "md5": "ca982a81721b2cf1ef1c7c25f020ef06",
       "summation": "md5"
     },
     {
       "name": "quillette-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659833164",
-      "size": "258048",
-      "md5": "2e784c5d6210c65eecc9a6e9d9043019",
-      "crc32": "7ac331d5",
-      "sha1": "f4538feba73c770345ea39be95e5f686fa5ad203",
+      "mtime": "1659876330",
+      "size": "270336",
+      "md5": "8beee19b3b58ee21893731d7ef856a22",
+      "crc32": "02aec604",
+      "sha1": "1530afd6bd5c30def3252eef924c22ca02ad8bb9",
       "format": "Metadata"
     },
     {
@@ -2106,9 +2168,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 202,
-  "item_last_updated": 1659833224,
-  "item_size": 9723068,
+  "files_count": 208,
+  "item_last_updated": 1659876378,
+  "item_size": 9979813,
   "metadata": {
     "identifier": "quillette-2022",
     "collection": [
@@ -2126,14 +2188,13 @@
     "addeddate": "2022-07-18 03:31:39"
   },
   "quillette-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
+    "url": "https://quillette.com/",
+    "job_id": "spn2-d2b7dfbbdd0c348f1e037d10163f21c9c0bce6e7"
   },
-  "server": "ia601505.us.archive.org",
-  "uniq": 228555480,
+  "server": "ia801505.us.archive.org",
+  "uniq": 680718885,
   "workable_servers": [
-    "ia601505.us.archive.org",
-    "ia801505.us.archive.org"
+    "ia801505.us.archive.org",
+    "ia601505.us.archive.org"
   ]
 }

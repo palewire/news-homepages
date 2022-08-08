@@ -1,5 +1,6 @@
 {
-  "created": 1659876094,
+  "conflict": 1659920549,
+  "created": 1659920549,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/20/items/mstodaynews-2022",
@@ -1851,10 +1852,21 @@
     "publicdate": "2022-07-22 03:36:08",
     "addeddate": "2022-07-22 03:36:08"
   },
-  "server": "ia801407.us.archive.org",
-  "uniq": 1592651335,
+  "pending_tasks": true,
+  "server": "ia601407.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3356569914,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 128033508,
   "workable_servers": [
-    "ia801407.us.archive.org",
     "ia601407.us.archive.org"
   ]
 }

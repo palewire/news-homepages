@@ -1,5 +1,6 @@
 {
-  "created": 1659876067,
+  "conflict": 1659920585,
+  "created": 1659920585,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/17/items/nebpublicmedia-2022",
@@ -1007,10 +1008,21 @@
     "publicdate": "2022-07-30 19:35:07",
     "addeddate": "2022-07-30 19:35:07"
   },
-  "server": "ia802504.us.archive.org",
-  "uniq": 548398428,
+  "pending_tasks": true,
+  "server": "ia902504.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3356570801,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1072488488,
   "workable_servers": [
-    "ia802504.us.archive.org",
     "ia902504.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1659876342,
+  "created": 1659920867,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/15/items/rt_com-2022",
@@ -3330,31 +3330,93 @@
       "sha1": "97bacc384ffa6c2bf80ffc31c47849df940d60e4"
     },
     {
+      "name": "rt_com-2022-08-07T20:04:15.441517+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659891863",
+      "size": "20215",
+      "md5": "d2fa522ebe093d56aa2ed4d2eda40a6d",
+      "crc32": "5be8a604",
+      "sha1": "a01693be0e8f2f541545017c1310fda17a23dd76",
+      "format": "JSON"
+    },
+    {
+      "name": "rt_com-2022-08-07T20:04:15.441517+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659891864",
+      "size": "26504",
+      "md5": "68a0e4eabf1be8dd07e25c4c2dac991d",
+      "crc32": "e01cd37e",
+      "sha1": "73e7a2618532f94bf117924f20e1c2bc0e82c618",
+      "format": "JSON"
+    },
+    {
+      "name": "rt_com-2022-08-07T20:04:15.441517+03:00.jpg",
+      "source": "original",
+      "mtime": "1659891856",
+      "size": "339470",
+      "md5": "1ba575f6b32204603dc6b38afb7e1b54",
+      "crc32": "5bb3dd78",
+      "sha1": "f8a22bf0a2b3eb2c8db8b085c7ffd7e38b441b02",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rt_com-2022-08-07T20:04:15.441517+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659891866",
+      "size": "1421",
+      "md5": "350b394ac468af52a4ef23799ccefff7",
+      "crc32": "a57397ce",
+      "sha1": "d1fec3a52943acbdd59795be7a8a85e0fc807ef1",
+      "format": "JSON"
+    },
+    {
+      "name": "rt_com-2022-08-07T20:04:15.441517+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1659891868",
+      "size": "335",
+      "md5": "5ff664afffb60de262440107d6797501",
+      "crc32": "d7d68668",
+      "sha1": "e8839b9e13d5b95a0bcdf366e2567c202068d87f",
+      "format": "JSON"
+    },
+    {
+      "name": "rt_com-2022-08-07T20:04:15.441517+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rt_com-2022-08-07T20:04:15.441517+03:00.jpg",
+      "mtime": "1659891920",
+      "size": "11272",
+      "md5": "b16591d60fb2316712a926abb4367f03",
+      "crc32": "9a5f8a2f",
+      "sha1": "0deec499330dbb5f26416e666c5d20c589f2b063"
+    },
+    {
       "name": "rt_com-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8d0f9910c30598d2a01c10e05e0a8228979ff0ed",
-      "mtime": "1659849115",
-      "size": "68041",
-      "md5": "0cc42b5cfa5e530cd7f7b621dab2e73f",
-      "crc32": "47bb298e",
-      "sha1": "001a26af4e829c35d77ab672de885b294cb34bef",
+      "btih": "9656e08cf0a4ef51a9ecdce806a06d59197c0746",
+      "mtime": "1659891925",
+      "size": "69295",
+      "md5": "baa4fa11ebcbe672da0a167c5516fe07",
+      "crc32": "a1d7275c",
+      "sha1": "f5eea9b859a11816616538765d2b86ed5a68214c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rt_com-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "848a767984c328439b8c788a4111ec20",
+      "md5": "670cd8fc8bc85c31796c1c725c97d224",
       "summation": "md5"
     },
     {
       "name": "rt_com-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659849051",
-      "size": "401408",
-      "md5": "8d1fe425276bf81420e15abbbaaab155",
-      "crc32": "c9e2321b",
-      "sha1": "ddc88a023f70ef62e45addcc4ec4ae1d5249ea5b",
+      "mtime": "1659891872",
+      "size": "409600",
+      "md5": "750088dc02d44cb987058cb6503c6284",
+      "crc32": "2bca23b2",
+      "sha1": "1d4549ef803636842171f0a86c2eb04d96a3d43f",
       "format": "Metadata"
     },
     {
@@ -3368,9 +3430,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 323,
-  "item_last_updated": 1659849115,
-  "item_size": 26110374,
+  "files_count": 329,
+  "item_last_updated": 1659891925,
+  "item_size": 26519037,
   "metadata": {
     "identifier": "rt_com-2022",
     "collection": [
@@ -3390,12 +3452,22 @@
   "rt_com-2022": {
     "url": "https://www.rt.com/",
     "job_id": "spn2-434ead0ec26e2574e3b6f4e4c1550007fc1a1806",
-    "message": "The same snapshot had been made 39 minutes, 33 seconds ago. You can make new capture of this URL after 45 minutes."
+    "http_status": 200,
+    "outlinks": [],
+    "timestamp": "20220807135101",
+    "original_url": "https://www.rt.com/",
+    "resources": [],
+    "duration_sec": 12.421,
+    "status": "success",
+    "counters": {
+      "outlinks": 70,
+      "embeds": 76
+    }
   },
-  "server": "ia601406.us.archive.org",
-  "uniq": 1310683685,
+  "server": "ia801406.us.archive.org",
+  "uniq": 1389310632,
   "workable_servers": [
-    "ia601406.us.archive.org",
-    "ia801406.us.archive.org"
+    "ia801406.us.archive.org",
+    "ia601406.us.archive.org"
   ]
 }

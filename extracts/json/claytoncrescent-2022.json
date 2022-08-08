@@ -1,5 +1,5 @@
 {
-  "created": 1659875226,
+  "created": 1659919635,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/14/items/claytoncrescent-2022",
@@ -2886,31 +2886,93 @@
       "sha1": "15f40b5b614f12f4014cd51f543b0fddc07b78c0"
     },
     {
+      "name": "claytoncrescent-2022-08-07T20:45:36.890170-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659919545",
+      "size": "26141",
+      "md5": "7dbe62b8d898b73a60afc1aece69d90c",
+      "crc32": "1459e65c",
+      "sha1": "f310fad574657422a6e5d5bb2faf086f800816cf",
+      "format": "JSON"
+    },
+    {
+      "name": "claytoncrescent-2022-08-07T20:45:36.890170-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659919547",
+      "size": "41847",
+      "md5": "e63baa87b4f649894f6c8473e8a7cc86",
+      "crc32": "a447badc",
+      "sha1": "f96a119798d05d07a6a0f3f75347ea41fba8506e",
+      "format": "JSON"
+    },
+    {
+      "name": "claytoncrescent-2022-08-07T20:45:36.890170-04:00.jpg",
+      "source": "original",
+      "mtime": "1659919544",
+      "size": "321466",
+      "md5": "2f007c519cd48422d3834cb73971720a",
+      "crc32": "66371959",
+      "sha1": "1ef587776d635e2adca2b270edfad6165da6a9f5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "claytoncrescent-2022-08-07T20:45:36.890170-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659919548",
+      "size": "1495",
+      "md5": "90628a92ed65f0eb3666559aaaa087be",
+      "crc32": "9119bfbb",
+      "sha1": "c64b622f3f341c5cb5354595e88137057e635e68",
+      "format": "JSON"
+    },
+    {
+      "name": "claytoncrescent-2022-08-07T20:45:36.890170-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659919550",
+      "size": "22808",
+      "md5": "dcf19e1c36a2a17eee538068441a1172",
+      "crc32": "0af2baab",
+      "sha1": "4b12f10da2d6a03e92bf8febfd0500a4d137019f",
+      "format": "JSON"
+    },
+    {
+      "name": "claytoncrescent-2022-08-07T20:45:36.890170-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "claytoncrescent-2022-08-07T20:45:36.890170-04:00.jpg",
+      "mtime": "1659919614",
+      "size": "10401",
+      "md5": "e815053775ee0712d2ae68cab2699e4c",
+      "crc32": "984376bd",
+      "sha1": "7ecfdbfba6cc52e56930e0d69a1a79cbce843f20"
+    },
+    {
       "name": "claytoncrescent-2022_archive.torrent",
       "source": "metadata",
-      "btih": "51347ce8370b95203337448a2c1e4d0e9361eb7b",
-      "mtime": "1659875217",
-      "size": "61486",
-      "md5": "e9030f98f3b9bdaf58b9f78bad3f53a0",
-      "crc32": "8c47e340",
-      "sha1": "b445105415de6519edc3c3b38310b396a7af9604",
+      "btih": "9066a1749a6bfd1d34e399dd8207829270ad26c0",
+      "mtime": "1659919621",
+      "size": "62796",
+      "md5": "1128bfa973f4942e7a95138f1a1d1310",
+      "crc32": "a9b0dfcb",
+      "sha1": "0772111a17e4d12a451d291a50063b76f8659adb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "claytoncrescent-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "600a0abd5685587ba1cc729767d27b7b",
+      "md5": "5352c961f218cc4f4d42546d3c50a073",
       "summation": "md5"
     },
     {
       "name": "claytoncrescent-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659875158",
-      "size": "352256",
-      "md5": "4eaa5555160a06b7150246080aaba14b",
-      "crc32": "083107d4",
-      "sha1": "97c371e37e7632530f4fc6e2626d8e684012232d",
+      "mtime": "1659919556",
+      "size": "360448",
+      "md5": "c416cba70820572b7433ff3ebb96fbf1",
+      "crc32": "9b01bffa",
+      "sha1": "95896c870fa1c30c05c57eb60738f260d41a530a",
       "format": "Metadata"
     },
     {
@@ -2924,9 +2986,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 280,
-  "item_last_updated": 1659875217,
-  "item_size": 20158666,
+  "files_count": 286,
+  "item_last_updated": 1659919621,
+  "item_size": 20592326,
   "metadata": {
     "identifier": "claytoncrescent-2022",
     "collection": [
@@ -2943,10 +3005,10 @@
     "publicdate": "2022-07-09 03:56:58",
     "addeddate": "2022-07-09 03:56:58"
   },
-  "server": "ia801501.us.archive.org",
-  "uniq": 708988096,
+  "server": "ia601501.us.archive.org",
+  "uniq": 856666390,
   "workable_servers": [
-    "ia801501.us.archive.org",
-    "ia601501.us.archive.org"
+    "ia601501.us.archive.org",
+    "ia801501.us.archive.org"
   ]
 }

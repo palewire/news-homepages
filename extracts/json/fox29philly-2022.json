@@ -1,5 +1,5 @@
 {
-  "created": 1659875474,
+  "created": 1659919955,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/31/items/fox29philly-2022",
@@ -3684,31 +3684,93 @@
       "sha1": "0e988b08480e1dce3cc51506d70cd4637082e35c"
     },
     {
+      "name": "fox29philly-2022-08-07T20:50:40.678435-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659919851",
+      "size": "37971",
+      "md5": "4d53861e8402e245d2bed38c8bc4a4eb",
+      "crc32": "a2663048",
+      "sha1": "6a94c6fb39434d69562b161b4db46a5bf34a21b5",
+      "format": "JSON"
+    },
+    {
+      "name": "fox29philly-2022-08-07T20:50:40.678435-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659919852",
+      "size": "36275",
+      "md5": "2a855a2948d4e0abf08bca843ed5d670",
+      "crc32": "311d9c0b",
+      "sha1": "5f828ce92456074ab14226a63d44dd941a8f813e",
+      "format": "JSON"
+    },
+    {
+      "name": "fox29philly-2022-08-07T20:50:40.678435-04:00.jpg",
+      "source": "original",
+      "mtime": "1659919849",
+      "size": "362725",
+      "md5": "b0a5cfdd9f7528e1f638cf541901d395",
+      "crc32": "4cea378c",
+      "sha1": "3de3b9ed82f7684f80c1561824884044872b3627",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fox29philly-2022-08-07T20:50:40.678435-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659919854",
+      "size": "1450",
+      "md5": "e4cf5612ec6a47176a5f5ed684103cd0",
+      "crc32": "9b8b1d0e",
+      "sha1": "3a2052d7baa27af6eeff74b9469f991b6b42e149",
+      "format": "JSON"
+    },
+    {
+      "name": "fox29philly-2022-08-07T20:50:40.678435-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659919855",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "fox29philly-2022-08-07T20:50:40.678435-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fox29philly-2022-08-07T20:50:40.678435-04:00.jpg",
+      "mtime": "1659919932",
+      "size": "10640",
+      "md5": "21f02ddf60c7463a9cd04e9b703c7d30",
+      "crc32": "a6723599",
+      "sha1": "3ca79d82258a51610b12f8e14dd299aab2bc5114"
+    },
+    {
       "name": "fox29philly-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a73a8c0b0d6ef06d943427bfe30a28ae6d5d2408",
-      "mtime": "1659875466",
-      "size": "76916",
-      "md5": "c946f27ce5c117a469f8b1792c3049a6",
-      "crc32": "7782c548",
-      "sha1": "8bc43e141de4b24d7e4316cb17acc780d00399d9",
+      "btih": "b1fadea5c9024dac9568e5a2eca3827918c54cd4",
+      "mtime": "1659919940",
+      "size": "78180",
+      "md5": "e1b97edd2735a68cb03fac428405d7e4",
+      "crc32": "0ee70aac",
+      "sha1": "ecd1c599779bde96843e84a5a7cc5400b2fefe5a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fox29philly-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "84067488adfbb245b56bf48ed8c7c802",
+      "md5": "4e41c3cdfa5a9e1f8061eb5543edc50e",
       "summation": "md5"
     },
     {
       "name": "fox29philly-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659875398",
-      "size": "438272",
-      "md5": "2e3c902df53926d5b6863c1e15376367",
-      "crc32": "d372f962",
-      "sha1": "8243182ce27d0b99328d92e037bba247cecbab3d",
+      "mtime": "1659919867",
+      "size": "446464",
+      "md5": "42b4f0d0bad4ab54851d3191d0a6cad8",
+      "crc32": "3674f6bc",
+      "sha1": "05c5b1f0ed47267c6ec46f6ae54e951042de14fd",
       "format": "Metadata"
     },
     {
@@ -3722,9 +3784,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 356,
-  "item_last_updated": 1659875466,
-  "item_size": 34181713,
+  "files_count": 362,
+  "item_last_updated": 1659919940,
+  "item_size": 34640432,
   "metadata": {
     "identifier": "fox29philly-2022",
     "collection": [
@@ -3741,10 +3803,10 @@
     "publicdate": "2022-07-03 15:52:47",
     "addeddate": "2022-07-03 15:52:47"
   },
-  "server": "ia801501.us.archive.org",
-  "uniq": 2124009433,
+  "server": "ia601501.us.archive.org",
+  "uniq": 1987277323,
   "workable_servers": [
-    "ia801501.us.archive.org",
-    "ia601501.us.archive.org"
+    "ia601501.us.archive.org",
+    "ia801501.us.archive.org"
   ]
 }

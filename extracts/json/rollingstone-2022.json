@@ -1,5 +1,5 @@
 {
-  "created": 1659876337,
+  "created": 1659920863,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/19/items/rollingstone-2022",
@@ -4462,31 +4462,93 @@
       "sha1": "55669e51216c0bbdad2f943ed56b773cdb4b52f1"
     },
     {
+      "name": "rollingstone-2022-08-07T08:45:46.205535-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659876349",
+      "size": "25355",
+      "md5": "e964f120962fba5f8702fcf582fa32ae",
+      "crc32": "9bb458c6",
+      "sha1": "c02d0d39fca31d7fde5eaf2cf476a171583ed91b",
+      "format": "JSON"
+    },
+    {
+      "name": "rollingstone-2022-08-07T08:45:46.205535-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659876350",
+      "size": "53167",
+      "md5": "7b66215b1ed2ebf3f2af02a7c1dc573a",
+      "crc32": "1ec979fc",
+      "sha1": "642689bc2b5f3020486f901d221cd7dfbca51ee2",
+      "format": "JSON"
+    },
+    {
+      "name": "rollingstone-2022-08-07T08:45:46.205535-04:00.jpg",
+      "source": "original",
+      "mtime": "1659876347",
+      "size": "338906",
+      "md5": "9f1930876c2843e01a1c130c6cdb07d4",
+      "crc32": "1ca798ca",
+      "sha1": "3bf788208b9f09dc4cba0bf9ec4e32d578aa0ee0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rollingstone-2022-08-07T08:45:46.205535-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659876351",
+      "size": "1513",
+      "md5": "ff1aa08e6a20d6e137868f20848b9d32",
+      "crc32": "4a485234",
+      "sha1": "3a7559c22f9bbc73e302e022d119315dc74fee40",
+      "format": "JSON"
+    },
+    {
+      "name": "rollingstone-2022-08-07T08:45:46.205535-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659876353",
+      "size": "105",
+      "md5": "4096a66993e80e79137c28ddfc02b9b9",
+      "crc32": "067e3f30",
+      "sha1": "ab214a841829b942733507a4eb4910ec1d372e25",
+      "format": "JSON"
+    },
+    {
+      "name": "rollingstone-2022-08-07T08:45:46.205535-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rollingstone-2022-08-07T08:45:46.205535-04:00.jpg",
+      "mtime": "1659876415",
+      "size": "11889",
+      "md5": "ff74a7a554bff41eebd1823b6c836194",
+      "crc32": "d7ad1d65",
+      "sha1": "2adf5f1615925423e98af9dd4d86f98066d7b57b"
+    },
+    {
       "name": "rollingstone-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1b3079532d69bfcafc00e3bfa4b552cfd8cd21e4",
-      "mtime": "1659833316",
-      "size": "92973",
-      "md5": "de34aabfc1154c186c05b09b7e18b642",
-      "crc32": "27788b28",
-      "sha1": "b55b5a7b8d0a8883b5817a8ef7a3d518e493b356",
+      "btih": "46d6f461bbd705d832c3ae49e9065f8c47734255",
+      "mtime": "1659876419",
+      "size": "94263",
+      "md5": "888a5e6548206e4914e4a3d0f84c956f",
+      "crc32": "5bbb6c6f",
+      "sha1": "afd27fa1e9aa1217c0116d866706f92357f1398f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rollingstone-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4c498a7917bab240438ca63e7a6af419",
+      "md5": "a795e8082023bf8b499fc1ffc4b5289c",
       "summation": "md5"
     },
     {
       "name": "rollingstone-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659833253",
-      "size": "512000",
-      "md5": "b00d4233f232f2c31f65910592dc53be",
-      "crc32": "7f69cae3",
-      "sha1": "fc151ad8ab1b2fa5409b8c78ae6b1cea68da0f4e",
+      "mtime": "1659876359",
+      "size": "520192",
+      "md5": "181e028304bae430b695c575df0e24aa",
+      "crc32": "a452fed0",
+      "sha1": "88f72f459f5ccb6c2cb7895a3ee757fb611d0b0c",
       "format": "Metadata"
     },
     {
@@ -4500,9 +4562,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 429,
-  "item_last_updated": 1659833316,
-  "item_size": 43694259,
+  "files_count": 435,
+  "item_last_updated": 1659876419,
+  "item_size": 44134676,
   "metadata": {
     "identifier": "rollingstone-2022",
     "collection": [
@@ -4520,12 +4582,11 @@
     "addeddate": "2022-06-24 23:00:28"
   },
   "rollingstone-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
+    "url": "https://www.rollingstone.com/",
+    "job_id": "spn2-9374e9ca159e4f3c5f85e9037146b7b350a32dca"
   },
   "server": "ia801500.us.archive.org",
-  "uniq": 1864615931,
+  "uniq": 381701584,
   "workable_servers": [
     "ia801500.us.archive.org",
     "ia601500.us.archive.org"

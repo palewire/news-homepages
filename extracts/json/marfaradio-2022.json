@@ -1,5 +1,5 @@
 {
-  "created": 1659875938,
+  "created": 1659920445,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/24/items/marfaradio-2022",
@@ -2162,31 +2162,82 @@
       "sha1": "415a7122642dd631cf3f363f1c1028c708ead35d"
     },
     {
+      "name": "marfaradio-2022-08-07T19:59:50.960641-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659920395",
+      "size": "26515",
+      "md5": "d61d72f65e0aa609277b1addfc2e55d3",
+      "crc32": "ece8e383",
+      "sha1": "62ac994a00e337aaa19d1c676f3d8617e524c5b3",
+      "format": "JSON"
+    },
+    {
+      "name": "marfaradio-2022-08-07T19:59:50.960641-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659920397",
+      "size": "24409",
+      "md5": "b591673f4e032204a452e561650b6767",
+      "crc32": "1fe68ec4",
+      "sha1": "4038eb8a9ebb8f4bd4d8312bf6deccba8a1d1069",
+      "format": "JSON"
+    },
+    {
+      "name": "marfaradio-2022-08-07T19:59:50.960641-05:00.jpg",
+      "source": "original",
+      "mtime": "1659920393",
+      "size": "257640",
+      "md5": "979397eb15cb5c60cfc2b89eed2a904e",
+      "crc32": "ef782726",
+      "sha1": "1e6ed9b81690517ec9d6169232bb71fa88abdc31",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "marfaradio-2022-08-07T19:59:50.960641-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659920399",
+      "size": "1513",
+      "md5": "c3b55d1c067aa90c695d94dd2bddbf2b",
+      "crc32": "aa7e06eb",
+      "sha1": "525fcfb1bdc3cf60fee679a42e15e515a3e301b3",
+      "format": "JSON"
+    },
+    {
+      "name": "marfaradio-2022-08-07T19:59:50.960641-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1659920401",
+      "size": "14353",
+      "md5": "64c350468b54c9c3bf6a8b58f38bdcb3",
+      "crc32": "8dcdf2de",
+      "sha1": "328f84d54d3869498707d485e787719812237a59",
+      "format": "JSON"
+    },
+    {
       "name": "marfaradio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "620a2e1f2266f813ed99d5ed85beb728b70e3367",
-      "mtime": "1659875933",
-      "size": "45347",
-      "md5": "d618c1c3dde213c91ea71734ed72d245",
-      "crc32": "b2867fc4",
-      "sha1": "fc8dac9074a79a3faa78378c510fc0af7332832b",
+      "btih": "fab411e652a4b4272294fbdac747f20502c169ff",
+      "mtime": "1659920442",
+      "size": "46420",
+      "md5": "97d6242a13ef1aca436e9e13ec0ea792",
+      "crc32": "8a77539c",
+      "sha1": "e99e2f565b6c3bb918336c976c5384dee53850c3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "marfaradio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5aca3e2c1298a71b3cc106058c03e44c",
+      "md5": "ce056cf6c0c2fa0420796f42d39420da",
       "summation": "md5"
     },
     {
       "name": "marfaradio-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659875888",
-      "size": "274432",
-      "md5": "b7c8722a1d15e974ff2fc73d7836a231",
-      "crc32": "a42ce264",
-      "sha1": "d6cb000d712ab20a230c5928aa9d443f86d58d37",
+      "mtime": "1659920407",
+      "size": "278528",
+      "md5": "10d33b100eb77770968765948a192506",
+      "crc32": "0a97d8f2",
+      "sha1": "703a502783885603de4939bc8f19a9b99dbcf2c0",
       "format": "Metadata"
     },
     {
@@ -2200,9 +2251,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 211,
-  "item_last_updated": 1659875933,
-  "item_size": 13908387,
+  "files_count": 216,
+  "item_last_updated": 1659920442,
+  "item_size": 14237986,
   "metadata": {
     "identifier": "marfaradio-2022",
     "collection": [
@@ -2219,10 +2270,21 @@
     "publicdate": "2022-07-18 00:04:45",
     "addeddate": "2022-07-18 00:04:45"
   },
-  "server": "ia802506.us.archive.org",
-  "uniq": 778768429,
+  "pending_tasks": true,
+  "server": "ia902506.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3356567054,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1581967008,
   "workable_servers": [
-    "ia802506.us.archive.org",
     "ia902506.us.archive.org"
   ]
 }

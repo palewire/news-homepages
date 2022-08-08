@@ -1,5 +1,5 @@
 {
-  "created": 1659876348,
+  "created": 1659920882,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/26/items/sankei_news-2022",
@@ -3836,31 +3836,83 @@
       "sha1": "77a9b293ec1dd55928a0983c1fec961ab9b7917a"
     },
     {
+      "name": "sankei_news-2022-08-07T21:45:45.530557+09:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659876351",
+      "size": "87780",
+      "md5": "4dc92f07608e72f086c7ae5e280f2b8f",
+      "crc32": "965c0650",
+      "sha1": "3da48b1d17d856e526e892320c38f896da746a10",
+      "format": "JSON"
+    },
+    {
+      "name": "sankei_news-2022-08-07T21:45:45.530557+09:00.jpg",
+      "source": "original",
+      "mtime": "1659876349",
+      "size": "361401",
+      "md5": "781d6becf5193378a43fafa2b2d6c9ec",
+      "crc32": "81d5da91",
+      "sha1": "a378d0fb7817c05e01b3391c54e8af04ec3318a8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sankei_news-2022-08-07T21:45:45.530557+09:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659876352",
+      "size": "1459",
+      "md5": "c0870bc459189753130f39b0bab41d1a",
+      "crc32": "13a1ed92",
+      "sha1": "2f3a3e0380861afe3a7fa84ba632e8fa81d1caf0",
+      "format": "JSON"
+    },
+    {
+      "name": "sankei_news-2022-08-07T21:45:45.530557+09:00.wayback.json",
+      "source": "original",
+      "mtime": "1659876354",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "sankei_news-2022-08-07T21:45:45.530557+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sankei_news-2022-08-07T21:45:45.530557+09:00.jpg",
+      "mtime": "1659876411",
+      "size": "10882",
+      "md5": "f9c85ed9f4b0aa55406ebe4703ee4cbc",
+      "crc32": "1d206b06",
+      "sha1": "409bb62332fe03b8a3f7a8be18eba9a7f86a490f"
+    },
+    {
       "name": "sankei_news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "59cfe5f6d10d30e5c8000c34f259de0c1969f5c6",
-      "mtime": "1659842310",
-      "size": "79884",
-      "md5": "d68389cbeac0b56ae1e6a07cee3771dc",
-      "crc32": "2730deae",
-      "sha1": "9ae18c0d0600d76c7569971af291817fa51d8f10",
+      "btih": "b70a5dd5344d1972a3a80c9516957a30a9d3fab4",
+      "mtime": "1659876415",
+      "size": "80951",
+      "md5": "366a4dd56eb931beb080c8609d176204",
+      "crc32": "f1cb5dfd",
+      "sha1": "4dd3678831ce6eac8041740cdf0852dd024cffdc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sankei_news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b7207da81ec0c191b4b521e35a84ac2a",
+      "md5": "1a2882c59b886f19ff3734198d85ce38",
       "summation": "md5"
     },
     {
       "name": "sankei_news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659842236",
-      "size": "442368",
-      "md5": "25afde0f8f7b2bb171ade60146d655bb",
-      "crc32": "6e39ee13",
-      "sha1": "c6421e85996abbd6e06f7d897c7e7f9e18d166cf",
+      "mtime": "1659876358",
+      "size": "446464",
+      "md5": "6c3eb6e354cdbe619426bc16b65f1aa2",
+      "crc32": "ed94212a",
+      "sha1": "c7141142e42056cb8e373fc66ff989e07bcc682c",
       "format": "Metadata"
     },
     {
@@ -3874,9 +3926,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 369,
-  "item_last_updated": 1659842310,
-  "item_size": 45232552,
+  "files_count": 374,
+  "item_last_updated": 1659876415,
+  "item_size": 45699439,
   "metadata": {
     "identifier": "sankei_news-2022",
     "collection": [
@@ -3893,10 +3945,15 @@
     "publicdate": "2022-07-09 02:39:00",
     "addeddate": "2022-07-09 02:39:00"
   },
-  "server": "ia802507.us.archive.org",
-  "uniq": 748703566,
+  "sankei_news-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "server": "ia902507.us.archive.org",
+  "uniq": 889663080,
   "workable_servers": [
-    "ia802507.us.archive.org",
-    "ia902507.us.archive.org"
+    "ia902507.us.archive.org",
+    "ia802507.us.archive.org"
   ]
 }

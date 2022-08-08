@@ -1,5 +1,5 @@
 {
-  "created": 1659875451,
+  "created": 1659919986,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/34/items/gainesvillesun-2022",
@@ -1858,31 +1858,93 @@
       "sha1": "140d72b93800b2868e1128eece9c840bc6962cf5"
     },
     {
+      "name": "gainesvillesun-2022-08-07T20:51:54.342953-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659919918",
+      "size": "22027",
+      "md5": "d4ef7a4f8d48c8e1973f03bba5741c94",
+      "crc32": "90b47f05",
+      "sha1": "ac803e1cee2a283d3faf927bb676bacc58c066e5",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-08-07T20:51:54.342953-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659919919",
+      "size": "28979",
+      "md5": "df6b2395b31d23288ffcd7a7383eb7f7",
+      "crc32": "4eae2116",
+      "sha1": "d11653882b2e510a483147088be002af4a4dc3fc",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-08-07T20:51:54.342953-04:00.jpg",
+      "source": "original",
+      "mtime": "1659919917",
+      "size": "264259",
+      "md5": "8f6761001b76f6bfba0368f50dcc2f49",
+      "crc32": "0d63f3fa",
+      "sha1": "15c204037995fc700fe16a71ab1f0fb0ad1566c4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gainesvillesun-2022-08-07T20:51:54.342953-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659919921",
+      "size": "1504",
+      "md5": "25eec5b6f932dd6338d45b6b15ba715e",
+      "crc32": "6a32ab51",
+      "sha1": "1299759785b60c35c61805e42a8a8a851cffd550",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-08-07T20:51:54.342953-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659919922",
+      "size": "73305",
+      "md5": "a6440dafed8469d12ef502e7aadea9c0",
+      "crc32": "43738ccf",
+      "sha1": "fd502a497f91878c785a38e57708f72a2c767b7e",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-08-07T20:51:54.342953-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gainesvillesun-2022-08-07T20:51:54.342953-04:00.jpg",
+      "mtime": "1659919973",
+      "size": "9260",
+      "md5": "7ab0ba3cca937bb562cde22b37102979",
+      "crc32": "d7c9eed9",
+      "sha1": "6d647ad4a18503fa365a4bdbe27e441e30b03179"
+    },
+    {
       "name": "gainesvillesun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4be888d688431499a34e32970905b8fb6203a9de",
-      "mtime": "1659875445",
-      "size": "39984",
-      "md5": "0c16d0e2519ea02af200a43582672636",
-      "crc32": "7fcb0786",
-      "sha1": "10a7d8be494bb1166e769200fb5ff068a10e31c6",
+      "btih": "ab4649f54de9d2c69d0eae2a64aedaa6d2e28095",
+      "mtime": "1659919979",
+      "size": "41287",
+      "md5": "4dbd723f60aa37fc5f37213c9f48b885",
+      "crc32": "f3c76bc3",
+      "sha1": "f8bd86df528e466b2c0de5e4771fa66fc38174d6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gainesvillesun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7c74cd0d1ca96b581f624079a3671941",
+      "md5": "f497e4ff53076cfeeb2b31c1e078eccc",
       "summation": "md5"
     },
     {
       "name": "gainesvillesun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659875396",
-      "size": "237568",
-      "md5": "58a77278bf72726e80c0073886771426",
-      "crc32": "9b30a8f4",
-      "sha1": "da60ea373fff79d01f7feae18949fd09290d1739",
+      "mtime": "1659919926",
+      "size": "245760",
+      "md5": "8bbc3ac614ef38b508562da4f12a030f",
+      "crc32": "74f62ff1",
+      "sha1": "c5a9187ccf01c2c7619cc316d5f8312f177d8d99",
       "format": "Metadata"
     },
     {
@@ -1896,9 +1958,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 182,
-  "item_last_updated": 1659875445,
-  "item_size": 12742241,
+  "files_count": 188,
+  "item_last_updated": 1659919979,
+  "item_size": 13151070,
   "metadata": {
     "identifier": "gainesvillesun-2022",
     "collection": [
@@ -1915,10 +1977,10 @@
     "publicdate": "2022-07-21 02:23:50",
     "addeddate": "2022-07-21 02:23:50"
   },
-  "server": "ia902503.us.archive.org",
-  "uniq": 999649102,
+  "server": "ia802503.us.archive.org",
+  "uniq": 1035019995,
   "workable_servers": [
-    "ia902503.us.archive.org",
-    "ia802503.us.archive.org"
+    "ia802503.us.archive.org",
+    "ia902503.us.archive.org"
   ]
 }

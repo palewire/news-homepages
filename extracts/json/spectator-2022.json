@@ -1,5 +1,5 @@
 {
-  "created": 1659876400,
+  "created": 1659920952,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/26/items/spectator-2022",
@@ -450,31 +450,83 @@
       "sha1": "07f040b3f0563fe42107f27960327b2666743452"
     },
     {
+      "name": "spectator-2022-08-07T18:05:38.665655+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659891941",
+      "size": "31319",
+      "md5": "5cf5987e0d57756faef2c5ebe882fbfd",
+      "crc32": "c4b603d9",
+      "sha1": "dd1a784b4f74244faf93ff2b30722ce538f8852c",
+      "format": "JSON"
+    },
+    {
+      "name": "spectator-2022-08-07T18:05:38.665655+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659891943",
+      "size": "54367",
+      "md5": "5c1e2d82a46063af881b03d318cc9307",
+      "crc32": "cbbb3c9c",
+      "sha1": "4dc0e8a670f738fc08afdbc9e3ecb9812345832c",
+      "format": "JSON"
+    },
+    {
+      "name": "spectator-2022-08-07T18:05:38.665655+01:00.jpg",
+      "source": "original",
+      "mtime": "1659891940",
+      "size": "240930",
+      "md5": "59bb28fab22f436a19abb4bb383f0bc5",
+      "crc32": "c8f3b6fd",
+      "sha1": "c2c4897251043494e2800f31414259ab447189d9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "spectator-2022-08-07T18:05:38.665655+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659891944",
+      "size": "1504",
+      "md5": "44fda49797e59aeaed05164c167a143f",
+      "crc32": "50c171be",
+      "sha1": "e3fb3ff764a64c90c6d64f9b17338a70bbba9a6e",
+      "format": "JSON"
+    },
+    {
+      "name": "spectator-2022-08-07T18:05:38.665655+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "spectator-2022-08-07T18:05:38.665655+01:00.jpg",
+      "mtime": "1659891989",
+      "size": "9024",
+      "md5": "1d77f94844a83e2de99d0c429fac88cb",
+      "crc32": "8595b13c",
+      "sha1": "7032ca7cf296ec2935cd17b1a9742d1bf03fbc1b"
+    },
+    {
       "name": "spectator-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d7dff8ec3b89acf76edee0879a7dfa5ba8a36f41",
-      "mtime": "1659863436",
-      "size": "10483",
-      "md5": "a23cda3b9e8a861b8e51e59b76b5d50a",
-      "crc32": "0420bf71",
-      "sha1": "7cee4669214920323385babe6833f6069466f71c",
+      "btih": "8e5d417b517b6c8e3f950284026e530f627f486e",
+      "mtime": "1659891992",
+      "size": "11547",
+      "md5": "0ac6cb02c925fd3f3d2d5966c595caac",
+      "crc32": "c1dedcec",
+      "sha1": "40f88cccab7e60c74205f69dcfe36213ffc009da",
       "format": "Archive BitTorrent"
     },
     {
       "name": "spectator-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e096c9cb8b4eee6058a25affaf8173ca",
+      "md5": "28617d415266e8774eb7baafe5ab6fa6",
       "summation": "md5"
     },
     {
       "name": "spectator-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659863389",
-      "size": "69632",
-      "md5": "8300a880de1e22258c8d01204829149c",
-      "crc32": "980788d9",
-      "sha1": "8fda1c2551454ed00aa45637bccf9f39f834c454",
+      "mtime": "1659891947",
+      "size": "73728",
+      "md5": "515bc39aa083c5c24b6a5b8635d46786",
+      "crc32": "65799c86",
+      "sha1": "8989bcfe699fc70870b117df7c93ee88f284a405",
       "format": "Metadata"
     },
     {
@@ -488,9 +540,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 47,
-  "item_last_updated": 1659863436,
-  "item_size": 2507970,
+  "files_count": 52,
+  "item_last_updated": 1659891992,
+  "item_size": 2850274,
   "metadata": {
     "identifier": "spectator-2022",
     "collection": [
@@ -507,43 +559,51 @@
     "publicdate": "2022-08-05 09:09:16",
     "addeddate": "2022-08-05 09:09:16"
   },
-  "server": "ia801408.us.archive.org",
-  "spectator-2022": {
-    "url": "https://www.spectator.co.uk/",
-    "job_id": "spn2-7cf501ff1db72da7ff7a37e3c4c42f0f133b54c7",
-    "http_status": 404,
-    "timestamp": "20220807090431",
-    "original_url": "https://www.spectator.co.uk/",
-    "resources": [
-      "https://www.spectator.co.uk/",
-      "https://use.typekit.net/xkz5olp.css",
-      "https://code.jquery.com/jquery-3.4.1.slim.min.js",
-      "https://p.typekit.net/p.css?s=1&k=xkz5olp&ht=tk&f=15627.15629.6812.6813.6814.6817.25769.25770.25771.25772&a=87485564&app=typekit&e=css",
-      "https://www.spectator.co.uk/iubenda.css",
-      "https://www.spectator.co.uk/main.css?v=1658758278461",
-      "https://cdn.iubenda.com/cs/iubenda_cs.js",
-      "https://www.spectator.co.uk/main.js?v=1658758278461",
-      "https://www.npttech.com/advertising.js",
-      "https://www.spectator.co.uk/iubenda.css",
-      "https://cdn.iubenda.com/cookie_solution/iubenda_cs/1.40.1/core-en.js",
-      "https://www.iubenda.com/cookie-solution/confs/js/84586425.js",
-      "https://www.spectator.co.uk/main.js?v=1658758278461",
-      "https://www.spectator.co.uk/favicon-32x32.png",
-      "https://hits-i.iubenda.com/write?db=hits1",
-      "https://www.spectator.co.uk/favicon-16x16.png",
-      "https://www.spectator.co.uk/favicon-96x96.png",
-      "https://www.spectator.co.uk/android-chrome-192x192.png"
-    ],
-    "duration_sec": 7.854,
-    "status": "success",
-    "counters": {
-      "outlinks": 0,
-      "embeds": 18
+  "server": "ia601408.us.archive.org",
+  "spectator-2022": [
+    {
+      "url": "https://www.spectator.co.uk/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_spectator_co_uk-_-2022_08_07_16_21_49.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_spectator_co_uk-_-2022_08_07_16_21_49.report.json",
+      "summary": {
+        "performance": 0.06,
+        "accessibility": 0.77,
+        "best-practices": 0.83,
+        "seo": 0.91,
+        "pwa": 0.6
+      }
+    },
+    {
+      "url": "https://www.spectator.co.uk/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_spectator_co_uk-_-2022_08_07_16_22_19.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_spectator_co_uk-_-2022_08_07_16_22_19.report.json",
+      "summary": {
+        "performance": 0.05,
+        "accessibility": 0.77,
+        "best-practices": 0.83,
+        "seo": 0.91,
+        "pwa": 0.6
+      }
+    },
+    {
+      "url": "https://www.spectator.co.uk/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_spectator_co_uk-_-2022_08_07_16_21_16.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_spectator_co_uk-_-2022_08_07_16_21_16.report.json",
+      "summary": {
+        "performance": 0.05,
+        "accessibility": 0.77,
+        "best-practices": 0.83,
+        "seo": 0.91,
+        "pwa": 0.6
+      }
     }
-  },
-  "uniq": 574922870,
+  ],
+  "uniq": 981433199,
   "workable_servers": [
-    "ia801408.us.archive.org",
-    "ia601408.us.archive.org"
+    "ia601408.us.archive.org",
+    "ia801408.us.archive.org"
   ]
 }

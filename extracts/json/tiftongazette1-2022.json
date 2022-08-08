@@ -1,5 +1,5 @@
 {
-  "created": 1659842040,
+  "created": 1659906168,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/15/items/tiftongazette1-2022",
@@ -1722,31 +1722,83 @@
       "sha1": "3f12dea72a7634dcafc20177827b4e390fe0a75a"
     },
     {
+      "name": "tiftongazette1-2022-08-07T10:08:20.287295-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659881303",
+      "size": "42261",
+      "md5": "e75ffeb840b6dd223f84b3b031c73ecd",
+      "crc32": "60aebc0c",
+      "sha1": "be32601ab04d53dd8fc769532676a44aea482c03",
+      "format": "JSON"
+    },
+    {
+      "name": "tiftongazette1-2022-08-07T10:08:20.287295-04:00.jpg",
+      "source": "original",
+      "mtime": "1659881301",
+      "size": "309225",
+      "md5": "a7d8d26da211c37c2c08298949035583",
+      "crc32": "e531c134",
+      "sha1": "7479ef38994684b474bd18dfc2f10f8fe3db3ca2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tiftongazette1-2022-08-07T10:08:20.287295-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659881305",
+      "size": "1522",
+      "md5": "90961015c2b445f08f8d8f98dc58ef21",
+      "crc32": "0d84ec90",
+      "sha1": "100329c311a12bef568f7ce787552bfc2d044c41",
+      "format": "JSON"
+    },
+    {
+      "name": "tiftongazette1-2022-08-07T10:08:20.287295-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659881306",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "tiftongazette1-2022-08-07T10:08:20.287295-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tiftongazette1-2022-08-07T10:08:20.287295-04:00.jpg",
+      "mtime": "1659881357",
+      "size": "9638",
+      "md5": "6fae6fc4a9b7dbb2cca36e90f64293fe",
+      "crc32": "e976f045",
+      "sha1": "02f8fe53ad6a94bca780806b440facde14e02b8e"
+    },
+    {
       "name": "tiftongazette1-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f954b7e95aaa1272cd6a0969e5f188226899ecb8",
-      "mtime": "1659842014",
-      "size": "36968",
-      "md5": "1ca409a5fe7f559c0c97264361b0f89f",
-      "crc32": "7f6bfd8b",
-      "sha1": "a8810ecf7af081cc22e5c1bd6bc2c9fada6d88fe",
+      "btih": "b3cae6596b32176223a63a42482b992b93e0ccf7",
+      "mtime": "1659881360",
+      "size": "38032",
+      "md5": "02fa4c247e759118465572ad84a67579",
+      "crc32": "a8ed98eb",
+      "sha1": "01ba16b2780235f11af2e0ebe600814816a23dc6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tiftongazette1-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fc9e22614562e6617ab65503567a96e6",
+      "md5": "162ac4feb3b51efc569edf132131e5a3",
       "summation": "md5"
     },
     {
       "name": "tiftongazette1-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659841961",
-      "size": "217088",
-      "md5": "cf3ec8717f6180e170bd7e9fcf0780c8",
-      "crc32": "4f5cf7ee",
-      "sha1": "b4a0e052807d8b0899505f63518528c3d00a4f79",
+      "mtime": "1659881309",
+      "size": "221184",
+      "md5": "567f3145f7817a7ebacf884867aa31bb",
+      "crc32": "264ced12",
+      "sha1": "bea2bca46f63f3f3c355aa1a92a6c881b1e001b6",
       "format": "Metadata"
     },
     {
@@ -1760,9 +1812,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 168,
-  "item_last_updated": 1659842014,
-  "item_size": 14862550,
+  "files_count": 173,
+  "item_last_updated": 1659881360,
+  "item_size": 15230558,
   "metadata": {
     "identifier": "tiftongazette1-2022",
     "collection": [
@@ -1779,10 +1831,10 @@
     "publicdate": "2022-07-20 23:31:20",
     "addeddate": "2022-07-20 23:31:20"
   },
-  "server": "ia802506.us.archive.org",
-  "uniq": 767574806,
+  "server": "ia902506.us.archive.org",
+  "uniq": 36350176,
   "workable_servers": [
-    "ia802506.us.archive.org",
-    "ia902506.us.archive.org"
+    "ia902506.us.archive.org",
+    "ia802506.us.archive.org"
   ]
 }

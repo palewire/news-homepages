@@ -1,5 +1,5 @@
 {
-  "created": 1659849138,
+  "created": 1659891603,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/18/items/novayagazeta_eu-2022",
@@ -3246,31 +3246,93 @@
       "sha1": "0cc8d82279e808c9b3467361e4876971fb409aab"
     },
     {
+      "name": "novayagazeta_eu-2022-08-07T19:58:43.629216+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659891527",
+      "size": "147",
+      "md5": "ca4f3972977d7e19441785808682afff",
+      "crc32": "dac727e7",
+      "sha1": "931e986b27e7ae84d8d4d600fbc7aa3cd9b694e0",
+      "format": "JSON"
+    },
+    {
+      "name": "novayagazeta_eu-2022-08-07T19:58:43.629216+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659891528",
+      "size": "2",
+      "md5": "d751713988987e9331980363e24189ce",
+      "crc32": "0d4cbb29",
+      "sha1": "97d170e1550eee4afc0af065b78cda302a97674c",
+      "format": "JSON"
+    },
+    {
+      "name": "novayagazeta_eu-2022-08-07T19:58:43.629216+03:00.jpg",
+      "source": "original",
+      "mtime": "1659891525",
+      "size": "265020",
+      "md5": "f8f7fc84d6ec27aaf7d4ddf78ed8205f",
+      "crc32": "1bd2a135",
+      "sha1": "411b03860917d652f38e05bcb286ac7771757199",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "novayagazeta_eu-2022-08-07T19:58:43.629216+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659891530",
+      "size": "1449",
+      "md5": "666f04bfb7f61e468975496b7d1a727c",
+      "crc32": "571b778a",
+      "sha1": "9b2f52b7268ed57a1e7750e37810c83dec9d0333",
+      "format": "JSON"
+    },
+    {
+      "name": "novayagazeta_eu-2022-08-07T19:58:43.629216+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1659891537",
+      "size": "14114",
+      "md5": "b544a7ed5333365d165e6e4e80e69f1e",
+      "crc32": "af2ffa8f",
+      "sha1": "6f3d1ec8207367f1c7d40040fde9a3168e8b1429",
+      "format": "JSON"
+    },
+    {
+      "name": "novayagazeta_eu-2022-08-07T19:58:43.629216+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "novayagazeta_eu-2022-08-07T19:58:43.629216+03:00.jpg",
+      "mtime": "1659891589",
+      "size": "10533",
+      "md5": "4611f036ef1d9ad0626b06c40e30f733",
+      "crc32": "3b497f85",
+      "sha1": "401fbca42fc8ec2fb523a268282f91340a0d47f6"
+    },
+    {
       "name": "novayagazeta_eu-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4fbaef222bf78cebf715ca57a42c848d337610fa",
-      "mtime": "1659849122",
-      "size": "68671",
-      "md5": "1f3fa359ae6240c25dbbc610ca63cd70",
-      "crc32": "be0957c6",
-      "sha1": "3309526356c4382dd840dcbc09748068d9a884df",
+      "btih": "39f52877e9f2d90b3d03a35abd029ba0d0e5e667",
+      "mtime": "1659891592",
+      "size": "69975",
+      "md5": "40d961e1c606c04fa2c92af9a691a9f4",
+      "crc32": "7f50f6f7",
+      "sha1": "4ef370ecce4ca3808b6ac61ece632e891145b3cd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "novayagazeta_eu-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0c7ea80469e71fa13e1866d8c7f22c68",
+      "md5": "0659bbc639771562374a48c464cabdce",
       "summation": "md5"
     },
     {
       "name": "novayagazeta_eu-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659849050",
-      "size": "401408",
-      "md5": "0a1b1ea182067f5f4660239a2bf54bfe",
-      "crc32": "e83712d2",
-      "sha1": "7799700c88bc7a95e91a10d600ce7afbea5c76cb",
+      "mtime": "1659891542",
+      "size": "409600",
+      "md5": "4b6b1106bcf1592ac754a8cf4eaeac44",
+      "crc32": "aea96462",
+      "sha1": "ec2513e0249ccdefa936d2ae6a2a1d0ccdc253c5",
       "format": "Metadata"
     },
     {
@@ -3284,9 +3346,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 315,
-  "item_last_updated": 1659849122,
-  "item_size": 20990633,
+  "files_count": 321,
+  "item_last_updated": 1659891592,
+  "item_size": 21291394,
   "metadata": {
     "identifier": "novayagazeta_eu-2022",
     "collection": [
@@ -3304,7 +3366,7 @@
     "addeddate": "2022-07-16 20:48:55"
   },
   "server": "ia801404.us.archive.org",
-  "uniq": 736332176,
+  "uniq": 1538648887,
   "workable_servers": [
     "ia801404.us.archive.org",
     "ia601404.us.archive.org"
