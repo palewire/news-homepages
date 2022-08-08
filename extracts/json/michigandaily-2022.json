@@ -1,5 +1,5 @@
 {
-  "created": 1659891409,
+  "created": 1659935778,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/24/items/michigandaily-2022",
@@ -1418,31 +1418,93 @@
       "sha1": "044dd9822fa6db0625c0595a8027cbd1c6eefde1"
     },
     {
+      "name": "michigandaily-2022-08-08T01:15:10.463994-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659935713",
+      "size": "24707",
+      "md5": "659ef2123b2d1a69bf7d354998316875",
+      "crc32": "660508db",
+      "sha1": "791c1e1220aaf3c2dc9ff094ec683a6de4db4e6b",
+      "format": "JSON"
+    },
+    {
+      "name": "michigandaily-2022-08-08T01:15:10.463994-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659935715",
+      "size": "30142",
+      "md5": "ba92ef07ca255f3f555ca7aeebec3e64",
+      "crc32": "e9a82cc8",
+      "sha1": "6fef723cf48a24ae0651c06878bb9ac8de1fed70",
+      "format": "JSON"
+    },
+    {
+      "name": "michigandaily-2022-08-08T01:15:10.463994-04:00.jpg",
+      "source": "original",
+      "mtime": "1659935711",
+      "size": "250920",
+      "md5": "85eac7bf297e2af1d2ec5c07faf7c110",
+      "crc32": "c0627634",
+      "sha1": "0f35b6dca2af8bd578cd9287dd3bb75e3518582f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "michigandaily-2022-08-08T01:15:10.463994-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659935717",
+      "size": "1512",
+      "md5": "3fe571b198f5f210334398593d20cc46",
+      "crc32": "f81d8aaa",
+      "sha1": "7910654eaef1dc4601892c9cdb7a1e106f7ff4ea",
+      "format": "JSON"
+    },
+    {
+      "name": "michigandaily-2022-08-08T01:15:10.463994-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659935718",
+      "size": "26127",
+      "md5": "8ed76c2021ab740409474441e542b5d8",
+      "crc32": "f808d557",
+      "sha1": "479f75c97d0352f78f1779530d12e06436643076",
+      "format": "JSON"
+    },
+    {
+      "name": "michigandaily-2022-08-08T01:15:10.463994-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "michigandaily-2022-08-08T01:15:10.463994-04:00.jpg",
+      "mtime": "1659935767",
+      "size": "9108",
+      "md5": "9e9cde7c6e4f95c5f7197580ede5c7d5",
+      "crc32": "93778ea0",
+      "sha1": "a15392bd88860ff0eea79d3f1be63f776a34ae3c"
+    },
+    {
       "name": "michigandaily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0363147ac74b530df494082a50cb969f47fed236",
-      "mtime": "1659891404",
-      "size": "30720",
-      "md5": "43ec5316320e5e8ed39f6c0e89fb5206",
-      "crc32": "be56cfb9",
-      "sha1": "0df4de0f5afd411f7595cc75a486446c1d22093c",
+      "btih": "1597ffa47e8880558e78b27d056f7ce9e2cc353a",
+      "mtime": "1659935770",
+      "size": "32017",
+      "md5": "3323b7b3f8f5d12abcd922e3b0934d9b",
+      "crc32": "0ea480a5",
+      "sha1": "8df3ef565cb17b51bf17630fd862488ea6751822",
       "format": "Archive BitTorrent"
     },
     {
       "name": "michigandaily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b1c81acf84ddfa6c810e3ddc41c37d53",
+      "md5": "d703ce2d09ba7ba96fe1012995a8da8b",
       "summation": "md5"
     },
     {
       "name": "michigandaily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659891359",
-      "size": "192512",
-      "md5": "b0becc3e848c71256cef77a686836685",
-      "crc32": "8c6d62f6",
-      "sha1": "a16b87997f913565f5c5e854ac8f70a62420f8e4",
+      "mtime": "1659935725",
+      "size": "196608",
+      "md5": "6583daaa5069019276ddc3c186e67e14",
+      "crc32": "20cc0c9b",
+      "sha1": "55078130633ee1c8a755addba2ceb8e9b61451a9",
       "format": "Metadata"
     },
     {
@@ -1456,9 +1518,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 140,
-  "item_last_updated": 1659891404,
-  "item_size": 8827188,
+  "files_count": 146,
+  "item_last_updated": 1659935770,
+  "item_size": 9175097,
   "metadata": {
     "identifier": "michigandaily-2022",
     "collection": [
@@ -1475,10 +1537,10 @@
     "publicdate": "2022-07-26 02:47:30",
     "addeddate": "2022-07-26 02:47:30"
   },
-  "server": "ia601409.us.archive.org",
-  "uniq": 1773548956,
+  "server": "ia801409.us.archive.org",
+  "uniq": 706791856,
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia801409.us.archive.org",
+    "ia601409.us.archive.org"
   ]
 }

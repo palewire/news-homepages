@@ -1,6 +1,5 @@
 {
-  "conflict": 1659920559,
-  "created": 1659920559,
+  "created": 1659962656,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/4/items/miamiherald-2022",
@@ -3208,31 +3207,83 @@
       "format": "JSON"
     },
     {
+      "name": "miamiherald-2022-08-07T21:01:36.594981-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "miamiherald-2022-08-07T21:01:36.594981-04:00.jpg",
+      "mtime": "1659920565",
+      "size": "10282",
+      "md5": "7f3b98e93ed51d6b0b3a93c3feb0f557",
+      "crc32": "e07d37e0",
+      "sha1": "7a5c73fd87b5be34e29d7ac796b0fd8589cbec85"
+    },
+    {
+      "name": "miamiherald-2022-08-08T08:43:25.713634-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659962608",
+      "size": "459",
+      "md5": "53c8ab97d65fbf4a56cf017725d9dc06",
+      "crc32": "333d1cdd",
+      "sha1": "8087402d06740206cd7f9f3a18ac711719e1604d",
+      "format": "JSON"
+    },
+    {
+      "name": "miamiherald-2022-08-08T08:43:25.713634-04:00.jpg",
+      "source": "original",
+      "mtime": "1659962607",
+      "size": "281822",
+      "md5": "6455e150573b681f20f88fb59a027942",
+      "crc32": "92153346",
+      "sha1": "11100426effa7165a8b7b64d8b4e43f9ce2a374e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "miamiherald-2022-08-08T08:43:25.713634-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659962610",
+      "size": "1497",
+      "md5": "9eb2aaba7e1ff318db995e10835d1115",
+      "crc32": "9f8abfcb",
+      "sha1": "5d966bf88a16f6a1a7ee45280e267269f41f8162",
+      "format": "JSON"
+    },
+    {
+      "name": "miamiherald-2022-08-08T08:43:25.713634-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659962612",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "miamiherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0b33c2667ba594f1339cdec38b5757a634e60e24",
-      "mtime": "1659920551",
-      "size": "66477",
-      "md5": "5e70477ba208cc754d8c0cad39d714cb",
-      "crc32": "4ca0217f",
-      "sha1": "7c4e38c63913aaaf96b039657fdaa616c5fd6335",
+      "btih": "6904906d7393bc062e810ac4c057f39169dd65b1",
+      "mtime": "1659962652",
+      "size": "67525",
+      "md5": "e9864afa71d8f2d775be17ee3220783c",
+      "crc32": "4184e696",
+      "sha1": "d8a6cd4b9e91fe181367284238d15d97f1c9c79b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "miamiherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "32a438352d86a6979334e8547aa81ebe",
+      "md5": "62c8b66c4c93f0fde330fce2775bd9e7",
       "summation": "md5"
     },
     {
       "name": "miamiherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659920514",
-      "size": "380928",
-      "md5": "80997b0680614279ec4b28c7347b9852",
-      "crc32": "15c90309",
-      "sha1": "d672b65d4ea715b40d4174fd7ac321ba99eb433c",
+      "mtime": "1659962616",
+      "size": "385024",
+      "md5": "e7974fd0e2c0666e9ff43faa146538bd",
+      "crc32": "77a4cd0b",
+      "sha1": "51c17219725f00f17618ea7db119c5586217fdb5",
       "format": "Metadata"
     },
     {
@@ -3246,9 +3297,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 310,
-  "item_last_updated": 1659920551,
-  "item_size": 21711364,
+  "files_count": 315,
+  "item_last_updated": 1659962652,
+  "item_size": 22010770,
   "metadata": {
     "identifier": "miamiherald-2022",
     "collection": [
@@ -3270,7 +3321,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3356570068,
+      "task_id": 3357228364,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 1,
@@ -3278,7 +3329,7 @@
       "status": "running"
     }
   ],
-  "uniq": 421219501,
+  "uniq": 1449263956,
   "workable_servers": [
     "ia601403.us.archive.org"
   ]

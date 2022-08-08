@@ -1,5 +1,5 @@
 {
-  "created": 1659920830,
+  "created": 1659963183,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/12/items/qz-2022",
@@ -5584,31 +5584,93 @@
       "sha1": "27e284cb0bc650d562dd8c2f6e271e99abcef295"
     },
     {
+      "name": "qz-2022-08-08T01:21:34.837729-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659936100",
+      "size": "11749",
+      "md5": "62dcaa17a8dd148692e2d1e7869a4fcd",
+      "crc32": "8afe9a3c",
+      "sha1": "97d71b5b0579cb4086d12c5dde5728f70f91d39a",
+      "format": "JSON"
+    },
+    {
+      "name": "qz-2022-08-08T01:21:34.837729-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659936101",
+      "size": "12748",
+      "md5": "2ac10ccf83e176e306246b7d21d91386",
+      "crc32": "f742bc6a",
+      "sha1": "c86fae115b37dfd25a1d54a1aae0bb76914ffcb9",
+      "format": "JSON"
+    },
+    {
+      "name": "qz-2022-08-08T01:21:34.837729-04:00.jpg",
+      "source": "original",
+      "mtime": "1659936099",
+      "size": "218828",
+      "md5": "444d6a06fae36f3d0af83664ea37212b",
+      "crc32": "785f9917",
+      "sha1": "ed6582a640d0e5f2688043dfe8c695d405c5a6f1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "qz-2022-08-08T01:21:34.837729-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659936103",
+      "size": "1387",
+      "md5": "803ca1bdb90ce89aa452d8c3b98fe510",
+      "crc32": "a7d462fe",
+      "sha1": "a38cc62d5717fd3d4f196b5c2004d60b76c1b11f",
+      "format": "JSON"
+    },
+    {
+      "name": "qz-2022-08-08T01:21:34.837729-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659936105",
+      "size": "327",
+      "md5": "a947846118e9e066637a1d57bd0459ae",
+      "crc32": "5eea23db",
+      "sha1": "c80eaf5b1907eb560e9192571c11a56540f16aa1",
+      "format": "JSON"
+    },
+    {
+      "name": "qz-2022-08-08T01:21:34.837729-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "qz-2022-08-08T01:21:34.837729-04:00.jpg",
+      "mtime": "1659936338",
+      "size": "8420",
+      "md5": "3aa6a28c53cb6b97c576b14a7493ede7",
+      "crc32": "fd4f6e49",
+      "sha1": "2bd5468c72ed57740f9c4e46850aeb9ecdb40e6d"
+    },
+    {
       "name": "qz-2022_archive.torrent",
       "source": "metadata",
-      "btih": "699354a1c7cb59cf3351fc2a0cf2aff8980d035d",
-      "mtime": "1659891833",
-      "size": "110060",
-      "md5": "6aa7158e021a6ec02010389623bd88a1",
-      "crc32": "542f9e4c",
-      "sha1": "1b825c90260212a34a9fd1fd28a82c800b1946b7",
+      "btih": "79680dbe4bda9230e13e01302d80258f49980521",
+      "mtime": "1659936361",
+      "size": "111269",
+      "md5": "55770f7ba38b5d983a385569162a7a01",
+      "crc32": "28b402e7",
+      "sha1": "916242a0c3d1db8af94c2971fc68234dbe925a58",
       "format": "Archive BitTorrent"
     },
     {
       "name": "qz-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "261439b1d3d287842fbd1c499b23b360",
+      "md5": "05a53fe702eb447d8fd6bf59256793f5",
       "summation": "md5"
     },
     {
       "name": "qz-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659891779",
-      "size": "634880",
-      "md5": "2d80ab644d781247a39620fa34c8db18",
-      "crc32": "ca320dbf",
-      "sha1": "c5d33c5b79f18e681facf28b05a8d9f22f4e191b",
+      "mtime": "1659936109",
+      "size": "643072",
+      "md5": "33ce9cc592a866cc6879cc68e4d3d6e6",
+      "crc32": "3c760851",
+      "sha1": "adfe56de1522a81ac0890d58c64690eb684da426",
       "format": "Metadata"
     },
     {
@@ -5622,9 +5684,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 537,
-  "item_last_updated": 1659891833,
-  "item_size": 35259033,
+  "files_count": 543,
+  "item_last_updated": 1659936361,
+  "item_size": 35521893,
   "metadata": {
     "identifier": "qz-2022",
     "collection": [
@@ -5644,10 +5706,20 @@
   "qz-2022": {
     "url": "https://qz.com/",
     "job_id": "spn2-59c93df0628ac8f9af1152a9925cd009c6c3ec7a",
-    "message": "The same snapshot had been made 24 minutes, 53 seconds ago. You can make new capture of this URL after 45 minutes."
+    "http_status": 200,
+    "outlinks": [],
+    "timestamp": "20220808035713",
+    "original_url": "https://qz.com/",
+    "resources": [],
+    "duration_sec": 11.696,
+    "status": "success",
+    "counters": {
+      "outlinks": 70,
+      "embeds": 80
+    }
   },
   "server": "ia801405.us.archive.org",
-  "uniq": 583854523,
+  "uniq": 1190391186,
   "workable_servers": [
     "ia801405.us.archive.org",
     "ia601405.us.archive.org"

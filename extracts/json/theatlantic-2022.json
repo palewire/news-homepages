@@ -1,5 +1,5 @@
 {
-  "created": 1659921043,
+  "created": 1659963386,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/17/items/theatlantic-2022",
@@ -4804,31 +4804,93 @@
       "sha1": "c356513d09fba01efe295e59412c6adee3653fd4"
     },
     {
+      "name": "theatlantic-2022-08-07T22:33:20.655418-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659926004",
+      "size": "27374",
+      "md5": "763f913a18800616214497f242c5dd8e",
+      "crc32": "4ee6d631",
+      "sha1": "3e9135e38821f692b13e1683151aa2e922dd5034",
+      "format": "JSON"
+    },
+    {
+      "name": "theatlantic-2022-08-07T22:33:20.655418-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659926006",
+      "size": "31495",
+      "md5": "156c23af74b1bccdce99247ad674cc9e",
+      "crc32": "ab714b79",
+      "sha1": "4a7958de3b799fa1b6dca1b1c249f11b4021413b",
+      "format": "JSON"
+    },
+    {
+      "name": "theatlantic-2022-08-07T22:33:20.655418-04:00.jpg",
+      "source": "original",
+      "mtime": "1659926002",
+      "size": "257235",
+      "md5": "ec36ede8cf342ffaadf17364a216e311",
+      "crc32": "0510a6fa",
+      "sha1": "1ac0f79be74b413eaa219bc1d0de5dc33ed8141c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theatlantic-2022-08-07T22:33:20.655418-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659926007",
+      "size": "1504",
+      "md5": "448109aae740b92e9c149deaeb338c7b",
+      "crc32": "a3d86d4b",
+      "sha1": "95a58937fd22aabc2e0eb56bed76b809ef766de2",
+      "format": "JSON"
+    },
+    {
+      "name": "theatlantic-2022-08-07T22:33:20.655418-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659926009",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "theatlantic-2022-08-07T22:33:20.655418-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theatlantic-2022-08-07T22:33:20.655418-04:00.jpg",
+      "mtime": "1659926092",
+      "size": "9668",
+      "md5": "13f72eb2c4f56cd3615bc5385ffc17d0",
+      "crc32": "f628531a",
+      "sha1": "b246d53b10bda28851477a76610b354a77c808a6"
+    },
+    {
       "name": "theatlantic-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8a5a1e8d74a828207545aab0c365de0f94c7201d",
-      "mtime": "1659881276",
-      "size": "99493",
-      "md5": "c66ffadf776e686e65256f70e3e6f992",
-      "crc32": "47f7b41e",
-      "sha1": "82ac13c906211babf4eec8969573b5d59ff5407f",
+      "btih": "b161da46ab33207f25eae753c766a959cc5fa154",
+      "mtime": "1659926097",
+      "size": "100776",
+      "md5": "1e289ac212e6962dda62d75cb301cf04",
+      "crc32": "655ddee2",
+      "sha1": "74439fe5e3cf44ed07d871994c605144b7a6ca76",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theatlantic-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b29c7e2a88f6063c004e63b2e7f53402",
+      "md5": "40b534a674229bfbdf5cf068c6a6f665",
       "summation": "md5"
     },
     {
       "name": "theatlantic-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659881222",
-      "size": "557056",
-      "md5": "a4dca69b44d2b7a7a93b324827bde05f",
-      "crc32": "3c206c74",
-      "sha1": "ebac71e7921eec8f14057687a5a2cac9aa06bfb8",
+      "mtime": "1659926011",
+      "size": "573440",
+      "md5": "9d405db85944c1bcad39d7d804da07fb",
+      "crc32": "9cd4f96b",
+      "sha1": "d1b497473e237251fa067291da01a8a4d6b1bf4e",
       "format": "Metadata"
     },
     {
@@ -4842,9 +4904,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 463,
-  "item_last_updated": 1659881276,
-  "item_size": 37033246,
+  "files_count": 469,
+  "item_last_updated": 1659926097,
+  "item_size": 37378391,
   "metadata": {
     "identifier": "theatlantic-2022",
     "collection": [
@@ -4867,7 +4929,7 @@
     "status": "error",
     "status_ext": "error:user-session-limit"
   },
-  "uniq": 1309000598,
+  "uniq": 1412191846,
   "workable_servers": [
     "ia801407.us.archive.org",
     "ia601407.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1659920415,
+  "created": 1659935550,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/0/items/jornaloglobo-2022",
@@ -784,31 +784,93 @@
       "sha1": "0d7bbd8b546fc54197b072ab6e9ab4fbabf1bb2b"
     },
     {
+      "name": "jornaloglobo-2022-08-08T02:11:25.811322-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659935488",
+      "size": "42509",
+      "md5": "af59c3e86f5e465f8e57f9057794f61a",
+      "crc32": "2325066a",
+      "sha1": "e9f0b068aa8efbb6863e62db5e898620eab27a8f",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaloglobo-2022-08-08T02:11:25.811322-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659935490",
+      "size": "46744",
+      "md5": "0f13ec5792031476640d92cf7c46fed6",
+      "crc32": "ef6f1799",
+      "sha1": "934fcdb19f53f8effdf02df81ef12a9c936db8b4",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaloglobo-2022-08-08T02:11:25.811322-03:00.jpg",
+      "source": "original",
+      "mtime": "1659935487",
+      "size": "280848",
+      "md5": "079f792bcdeeb5e16d8442ba937ccdd3",
+      "crc32": "eecc4e9b",
+      "sha1": "63c9633b501cbc1eba71276b3db39c158ceff22a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jornaloglobo-2022-08-08T02:11:25.811322-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659935491",
+      "size": "1474",
+      "md5": "3463419a199ea2ba02b934843dc6acd9",
+      "crc32": "07d4014b",
+      "sha1": "f8a34838af33496dde518ad8809b483e7993c0db",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaloglobo-2022-08-08T02:11:25.811322-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1659935493",
+      "size": "101",
+      "md5": "ae72660ce92e51eed8a4ab6d3e25ee91",
+      "crc32": "7d3bbc5a",
+      "sha1": "cb4a512c60d4ceaca4189fefc7c305c7935adcbc",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaloglobo-2022-08-08T02:11:25.811322-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jornaloglobo-2022-08-08T02:11:25.811322-03:00.jpg",
+      "mtime": "1659935541",
+      "size": "10060",
+      "md5": "409670cd6f15b654e0ea647476cca072",
+      "crc32": "824504d5",
+      "sha1": "726304d3a1d8a765ee28f78f8e92c090f0e1b6a9"
+    },
+    {
       "name": "jornaloglobo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4d41a50ad1f9eccb2bd5a646bca24684187feff6",
-      "mtime": "1659901385",
-      "size": "17537",
-      "md5": "51b482b82b129b2ca32edbf430352284",
-      "crc32": "d55f2520",
-      "sha1": "5791324dd6185343518ef4c9e151eab2f5074e2b",
+      "btih": "d8a3b3265136e6012de18bede33387e986d84e0a",
+      "mtime": "1659935545",
+      "size": "18827",
+      "md5": "07edaba8d621813cfcd31223954253fb",
+      "crc32": "5a9245de",
+      "sha1": "46e81d9b50cf62e48a34291c2abce94b2ffcf909",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jornaloglobo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cf1515435a5a57e7430fb0b2dcc0e3fe",
+      "md5": "15c253c7856e533d853481c87b68fd01",
       "summation": "md5"
     },
     {
       "name": "jornaloglobo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659901337",
-      "size": "110592",
-      "md5": "36caef3eb18bdaf80ce5f279fa374a0a",
-      "crc32": "5296ffb5",
-      "sha1": "66a31fbc986e8d1a6dfb5833d2b8e36761426719",
+      "mtime": "1659935498",
+      "size": "126976",
+      "md5": "71dea4bc6d5ac50d29c3dd7101f374e4",
+      "crc32": "1df7f547",
+      "sha1": "60b8c5bbc0120e15bd6ee16602b3fe7a14289c8d",
       "format": "Metadata"
     },
     {
@@ -822,50 +884,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 79,
-  "item_last_updated": 1659901385,
-  "item_size": 5396351,
-  "jornaloglobo-2022": [
-    {
-      "url": "https://oglobo.globo.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/oglobo_globo_com-_-2022_08_07_19_35_19.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/oglobo_globo_com-_-2022_08_07_19_35_19.report.json",
-      "summary": {
-        "performance": 0.15,
-        "accessibility": 0.8,
-        "best-practices": 0.83,
-        "seo": 0.85,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://oglobo.globo.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/oglobo_globo_com-_-2022_08_07_19_36_06.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/oglobo_globo_com-_-2022_08_07_19_36_06.report.json",
-      "summary": {
-        "performance": 0.15,
-        "accessibility": 0.8,
-        "best-practices": 0.83,
-        "seo": 0.85,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://oglobo.globo.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/oglobo_globo_com-_-2022_08_07_19_37_19.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/oglobo_globo_com-_-2022_08_07_19_37_19.report.json",
-      "summary": {
-        "performance": 0.16,
-        "accessibility": 0.8,
-        "best-practices": 0.83,
-        "seo": 0.85,
-        "pwa": 0.4
-      }
-    }
-  ],
+  "files_count": 85,
+  "item_last_updated": 1659935545,
+  "item_size": 5795761,
   "metadata": {
     "identifier": "jornaloglobo-2022",
     "collection": [
@@ -882,10 +903,10 @@
     "publicdate": "2022-08-02 14:55:56",
     "addeddate": "2022-08-02 14:55:56"
   },
-  "server": "ia902509.us.archive.org",
-  "uniq": 2009168019,
+  "server": "ia802509.us.archive.org",
+  "uniq": 1849754705,
   "workable_servers": [
-    "ia902509.us.archive.org",
-    "ia802509.us.archive.org"
+    "ia802509.us.archive.org",
+    "ia902509.us.archive.org"
   ]
 }

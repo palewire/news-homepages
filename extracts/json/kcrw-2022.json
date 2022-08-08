@@ -1,5 +1,5 @@
 {
-  "created": 1659897731,
+  "created": 1659962835,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/5/items/kcrw-2022",
@@ -3108,31 +3108,93 @@
       "sha1": "730a41dbe879c43ad4094e0673420203403b1011"
     },
     {
+      "name": "kcrw-2022-08-07T22:11:52.132314-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659935514",
+      "size": "50232",
+      "md5": "58cbc4cb286386725c81f5a6eea233ee",
+      "crc32": "c9b23ccd",
+      "sha1": "7303ff4395b6bfd7be89ef9b54c7ef5f86cb1fc6",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrw-2022-08-07T22:11:52.132314-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659935516",
+      "size": "27278",
+      "md5": "9aa643deb9a332bde08ba625b788878a",
+      "crc32": "48fff779",
+      "sha1": "1fcd01fd21b08ffb899affbc6882e8ad77ce628e",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrw-2022-08-07T22:11:52.132314-07:00.jpg",
+      "source": "original",
+      "mtime": "1659935513",
+      "size": "256430",
+      "md5": "44a256446c8c14460a91e4c3bb497924",
+      "crc32": "e86b8b5b",
+      "sha1": "c24adff1de9c449b98c1c05e8d98f6b026d0069e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kcrw-2022-08-07T22:11:52.132314-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659935518",
+      "size": "1441",
+      "md5": "dca95706481bd7a91043a9a2fdb180ac",
+      "crc32": "e5a66f00",
+      "sha1": "fea031df1e8b3efd8e7fe8c4df0b02e0fcaac43c",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrw-2022-08-07T22:11:52.132314-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1659935519",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrw-2022-08-07T22:11:52.132314-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kcrw-2022-08-07T22:11:52.132314-07:00.jpg",
+      "mtime": "1659935608",
+      "size": "10112",
+      "md5": "e5261014e0e77548a8e58b7a5935802a",
+      "crc32": "2d41c37f",
+      "sha1": "428e6ac57d8b605a6267d5519e6195c768074557"
+    },
+    {
       "name": "kcrw-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d4dbd5a850d768a2c1e58abd17e1864d1e587e1e",
-      "mtime": "1659897718",
-      "size": "62863",
-      "md5": "da47cbaf0b99e8f0e6dbea9caf0898e9",
-      "crc32": "65a579f4",
-      "sha1": "66b76729ffb92b622f4f2ae567bdf83f9fc4518d",
+      "btih": "51db27c03c77930dc732d050851728f125e91f09",
+      "mtime": "1659935613",
+      "size": "64105",
+      "md5": "efb917754b77b0c4c87884ca126cdbae",
+      "crc32": "87d27611",
+      "sha1": "9d63d58657c9c91196631997c235f6eac1092f43",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kcrw-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "acd485856037ddf581bd42de253adeaa",
+      "md5": "6003363fdeae416b89f3d6acc7ef5435",
       "summation": "md5"
     },
     {
       "name": "kcrw-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659897657",
-      "size": "380928",
-      "md5": "49f1681f3b642e15ca091547d5725cc1",
-      "crc32": "7827ec52",
-      "sha1": "3030a97f469ea9f7b6978e158507edcb15649375",
+      "mtime": "1659935525",
+      "size": "389120",
+      "md5": "6ebac73cde8575313f25af5e1db9fd2b",
+      "crc32": "84d4211b",
+      "sha1": "4e747fbc111f3bcfba491ba6ffca2aba21794524",
       "format": "Metadata"
     },
     {
@@ -3146,9 +3208,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 302,
-  "item_last_updated": 1659897718,
-  "item_size": 20451968,
+  "files_count": 308,
+  "item_last_updated": 1659935613,
+  "item_size": 20807097,
+  "kcrw-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "kcrw-2022",
     "collection": [
@@ -3166,7 +3233,7 @@
     "addeddate": "2022-07-18 02:24:29"
   },
   "server": "ia801509.us.archive.org",
-  "uniq": 548185276,
+  "uniq": 960195910,
   "workable_servers": [
     "ia801509.us.archive.org",
     "ia601509.us.archive.org"

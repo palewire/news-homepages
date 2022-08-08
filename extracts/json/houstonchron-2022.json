@@ -1,5 +1,5 @@
 {
-  "created": 1659920034,
+  "created": 1659958207,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/25/items/houstonchron-2022",
@@ -3210,31 +3210,93 @@
       "sha1": "4145b9f5554a09fcb884391c9b97c2bb834d1d50"
     },
     {
+      "name": "houstonchron-2022-08-08T06:28:35.340134-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659958118",
+      "size": "67148",
+      "md5": "5697601ecae2407317493e227e41605b",
+      "crc32": "92689cea",
+      "sha1": "6fe9a67797e818f4aa20f633e87fb5c59dea480f",
+      "format": "JSON"
+    },
+    {
+      "name": "houstonchron-2022-08-08T06:28:35.340134-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659958120",
+      "size": "79064",
+      "md5": "109f762d150c9f46245bff4a49a4bad5",
+      "crc32": "5b4f567a",
+      "sha1": "df8e06e767d206e0f1be9c7092b6e38fedbee159",
+      "format": "JSON"
+    },
+    {
+      "name": "houstonchron-2022-08-08T06:28:35.340134-05:00.jpg",
+      "source": "original",
+      "mtime": "1659958116",
+      "size": "334915",
+      "md5": "2bd5a1ce1e99ff9a06920be1bfd04e88",
+      "crc32": "48121daf",
+      "sha1": "bd68f7f50728a80923c4d3151bfbeb67b87671e7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "houstonchron-2022-08-08T06:28:35.340134-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659958121",
+      "size": "1549",
+      "md5": "a7361da31c2812fb64bd86592d3fd1df",
+      "crc32": "960c1cf4",
+      "sha1": "b888daba0ff739a58d808c154e8d65806a0ee7de",
+      "format": "JSON"
+    },
+    {
+      "name": "houstonchron-2022-08-08T06:28:35.340134-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1659958123",
+      "size": "109",
+      "md5": "1905adab346064cba8f74dc69df68f59",
+      "crc32": "f7af0349",
+      "sha1": "62cd8cc479e2585267af1328c7833bd238aa5b68",
+      "format": "JSON"
+    },
+    {
+      "name": "houstonchron-2022-08-08T06:28:35.340134-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "houstonchron-2022-08-08T06:28:35.340134-05:00.jpg",
+      "mtime": "1659958179",
+      "size": "10584",
+      "md5": "735b129dc9d7aab221c1aaf468a8501d",
+      "crc32": "370bda80",
+      "sha1": "5b76339f89a4c8cafe39ee424a36e6bc2b219239"
+    },
+    {
       "name": "houstonchron-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e7a8731ad6a3aaee7e34c7d0f707c7230656fe20",
-      "mtime": "1659920015",
-      "size": "67663",
-      "md5": "90e1e8e3c59f0ac44ca791f964fba829",
-      "crc32": "7eb4edcd",
-      "sha1": "b57b603ff50cf6dd4b4a56cece2e7490eeb04092",
+      "btih": "5dcd9772baf02dc3a499f68a219a0d3c4cb9854b",
+      "mtime": "1659958196",
+      "size": "68953",
+      "md5": "45d4e7ee5f8bf65cb05c4b1d4049506a",
+      "crc32": "5af02cb7",
+      "sha1": "b260aa2fc7902a840b237e726b7615228b239482",
       "format": "Archive BitTorrent"
     },
     {
       "name": "houstonchron-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0a54a0dea647127263f7aabc963389f1",
+      "md5": "993656a133ede1de19703f37a35439fa",
       "summation": "md5"
     },
     {
       "name": "houstonchron-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659919949",
-      "size": "385024",
-      "md5": "865bcc3e27b7bc94b2d28273dbf3cc4c",
-      "crc32": "dafe6dd0",
-      "sha1": "3d3fffcda8296b313e4e163fb9275148f21c9b81",
+      "mtime": "1659958127",
+      "size": "397312",
+      "md5": "0799456ef2f4cef66c39e6b4aed5b6ac",
+      "crc32": "4cb45f20",
+      "sha1": "95f9d03812d33779f1a59e6aca1e2b7a6e7f7000",
       "format": "Metadata"
     },
     {
@@ -3248,9 +3310,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 311,
-  "item_last_updated": 1659920015,
-  "item_size": 31939700,
+  "files_count": 317,
+  "item_last_updated": 1659958196,
+  "item_size": 32446647,
   "metadata": {
     "identifier": "houstonchron-2022",
     "collection": [
@@ -3268,7 +3330,7 @@
     "addeddate": "2022-07-04 21:54:16"
   },
   "server": "ia801400.us.archive.org",
-  "uniq": 1471950529,
+  "uniq": 2054260171,
   "workable_servers": [
     "ia801400.us.archive.org",
     "ia601400.us.archive.org"

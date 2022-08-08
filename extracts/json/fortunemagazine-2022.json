@@ -1,5 +1,5 @@
 {
-  "created": 1659919972,
+  "created": 1659958138,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/21/items/fortunemagazine-2022",
@@ -5488,31 +5488,93 @@
       "sha1": "ee3967c2f65f57796e607add426bedf7ffb17892"
     },
     {
+      "name": "fortunemagazine-2022-08-08T07:27:24.825410-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659958053",
+      "size": "71664",
+      "md5": "69ebdbaaa5c43e8d48023e11313af7e5",
+      "crc32": "a8b6dc31",
+      "sha1": "9470b69beb59b2986b02f670eb2f1c492579318f",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-08-08T07:27:24.825410-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659958056",
+      "size": "53419",
+      "md5": "e177fd0db615e0fa3e7b7513f4bfbf94",
+      "crc32": "5bd3e5fb",
+      "sha1": "c90d4d341c969a94da0bf23cd5521234515bc8f4",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-08-08T07:27:24.825410-04:00.jpg",
+      "source": "original",
+      "mtime": "1659958052",
+      "size": "246723",
+      "md5": "cb5559387634e03293fc78d1fb5cd92a",
+      "crc32": "d1ba1f14",
+      "sha1": "f6f17a49327d85e2a7a9cfa767633c2211156d66",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fortunemagazine-2022-08-08T07:27:24.825410-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659958058",
+      "size": "1423",
+      "md5": "c8205dadde03e451068b9c6679662e34",
+      "crc32": "23e8818d",
+      "sha1": "fbe3baf2c2acb503a0c72b057b851ed865c80db1",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-08-08T07:27:24.825410-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659958059",
+      "size": "12858",
+      "md5": "0743f0b933664aa77ee57df466726997",
+      "crc32": "462480e3",
+      "sha1": "fbcbcc60b217cb4d7f69d1d2c027066c02bebb7c",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-08-08T07:27:24.825410-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fortunemagazine-2022-08-08T07:27:24.825410-04:00.jpg",
+      "mtime": "1659958120",
+      "size": "8963",
+      "md5": "234f2dc7b12a2038f5a2f5ee6e3932dc",
+      "crc32": "9a43bdd5",
+      "sha1": "b97abaf42ef14c5ed4a79a2826348bdf14ae7ee4"
+    },
+    {
       "name": "fortunemagazine-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3bd769e7e4659bb0e8a71c49511391c07684978f",
-      "mtime": "1659919922",
-      "size": "115851",
-      "md5": "dc30f3120a038bd2e02caac2e28547dc",
-      "crc32": "361507f4",
-      "sha1": "54ef18ab4f3969c9ae901c486efe3b6b811b4d98",
+      "btih": "bc5789059ab6e7f4542cc18b8531b581bd083f5b",
+      "mtime": "1659958126",
+      "size": "117160",
+      "md5": "28342ed727e52f4d174be3d7ce1b9a69",
+      "crc32": "fd8590a2",
+      "sha1": "81b67e33f0f52f0bb4e3944e02f2f2827c2a1fb0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fortunemagazine-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "83c5b3de9a8b116f5d33d0073ffe78b2",
+      "md5": "cd97f2cca50cf3ebccd0e1077aa37b6d",
       "summation": "md5"
     },
     {
       "name": "fortunemagazine-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659919861",
-      "size": "638976",
-      "md5": "f69796b0fa32c687d0392b7d179e4900",
-      "crc32": "a70af9fc",
-      "sha1": "8205ebe5b260f0ee3cf02eb6758f6ffd1fda4b0e",
+      "mtime": "1659958065",
+      "size": "647168",
+      "md5": "ceaca5a348ec8be1355131f4b9a26d96",
+      "crc32": "c7702463",
+      "sha1": "22dbc486f4eb5e3ed7f94f1077d25026e050e143",
       "format": "Metadata"
     },
     {
@@ -5526,9 +5588,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 528,
-  "item_last_updated": 1659919922,
-  "item_size": 52671155,
+  "files_count": 534,
+  "item_last_updated": 1659958126,
+  "item_size": 53075706,
   "metadata": {
     "identifier": "fortunemagazine-2022",
     "collection": [
@@ -5546,7 +5608,7 @@
     "addeddate": "2022-06-19 23:24:03"
   },
   "server": "ia801506.us.archive.org",
-  "uniq": 1370523837,
+  "uniq": 1636494691,
   "workable_servers": [
     "ia801506.us.archive.org",
     "ia601506.us.archive.org"

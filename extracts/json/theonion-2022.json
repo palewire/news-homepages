@@ -1,5 +1,5 @@
 {
-  "created": 1659921100,
+  "created": 1659959093,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/8/items/theonion-2022",
@@ -6786,31 +6786,83 @@
       "sha1": "3009ef87dbd52326c7b79e85404ef549c4a84575"
     },
     {
+      "name": "theonion-2022-08-07T21:34:59.339155-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659926102",
+      "size": "34653",
+      "md5": "67612ab6cdf6832b4930bb52d4d342aa",
+      "crc32": "a8736b28",
+      "sha1": "e0203ca7af7f986febe7b7633537a5cf075a934f",
+      "format": "JSON"
+    },
+    {
+      "name": "theonion-2022-08-07T21:34:59.339155-05:00.jpg",
+      "source": "original",
+      "mtime": "1659926100",
+      "size": "287928",
+      "md5": "0aa112479abc4c86e04f4c95b6611178",
+      "crc32": "202fc3b7",
+      "sha1": "b12987ac37017e2c471fd9b01ed1c5f686bba024",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theonion-2022-08-07T21:34:59.339155-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659926104",
+      "size": "1474",
+      "md5": "1a5af9f05148f1876a410fb8ada8ddb6",
+      "crc32": "bd017a5e",
+      "sha1": "6d7102a5201c683d2fa76cddacee984a2d49d7e9",
+      "format": "JSON"
+    },
+    {
+      "name": "theonion-2022-08-07T21:34:59.339155-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1659926105",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "theonion-2022-08-07T21:34:59.339155-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theonion-2022-08-07T21:34:59.339155-05:00.jpg",
+      "mtime": "1659926172",
+      "size": "10008",
+      "md5": "d6741045cce0aeb1225108d6b4af591a",
+      "crc32": "6a61be63",
+      "sha1": "a23f6039a49a87b00772720ba801d7194c5aec46"
+    },
+    {
       "name": "theonion-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e524719d723614bdc87445948d5139777d14516b",
-      "mtime": "1659881337",
-      "size": "137183",
-      "md5": "9e0b0688fd4eea6a8ba0b02ea9418bc1",
-      "crc32": "f053b2ef",
-      "sha1": "790271d2a9e123d3ade841b7042723b11611adb8",
+      "btih": "1007e5af418c7dcf59447ce1e04b6ed7d600cd23",
+      "mtime": "1659926186",
+      "size": "138238",
+      "md5": "4fa3614d6c0e7383c936b316f8d37a29",
+      "crc32": "13e5b15c",
+      "sha1": "aa096b207a06d30969516e6e35e1d89be16e5d33",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theonion-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b6f5b6e446e692c7382e6305c29a60b8",
+      "md5": "7cbbc4a4c2cfdc9f62ac0d6556885d6c",
       "summation": "md5"
     },
     {
       "name": "theonion-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659881276",
-      "size": "745472",
-      "md5": "ac61055ba838bdcefcaf41ea37521eca",
-      "crc32": "4d176fb7",
-      "sha1": "63f3bd31aefc077144dead47f68a1534033deae7",
+      "mtime": "1659926111",
+      "size": "753664",
+      "md5": "c70974cbd58824eb213438858eb08900",
+      "crc32": "a6e75623",
+      "sha1": "407fe02bb9b050b3193816159b241ea2c955ff3e",
       "format": "Metadata"
     },
     {
@@ -6824,9 +6876,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 649,
-  "item_last_updated": 1659881337,
-  "item_size": 56508745,
+  "files_count": 654,
+  "item_last_updated": 1659926186,
+  "item_size": 56852257,
   "metadata": {
     "identifier": "theonion-2022",
     "collection": [
@@ -6843,14 +6895,10 @@
     "publicdate": "2022-05-25 16:00:43",
     "addeddate": "2022-05-25 16:00:43"
   },
-  "server": "ia601502.us.archive.org",
-  "theonion-2022": {
-    "url": "https://theonion.com",
-    "job_id": "spn2-8d466724a167ab1e4ee714cbe3b75ec9ec7489ff"
-  },
-  "uniq": 1870685189,
+  "server": "ia801502.us.archive.org",
+  "uniq": 1263686274,
   "workable_servers": [
-    "ia601502.us.archive.org",
-    "ia801502.us.archive.org"
+    "ia801502.us.archive.org",
+    "ia601502.us.archive.org"
   ]
 }

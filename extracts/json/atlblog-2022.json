@@ -1,14 +1,5 @@
 {
-  "atlblog-2022": {
-    "url": "https://abovethelaw.com/",
-    "job_id": "spn2-fcef0f6f51e430a7552a5474e4b7852fe261ed45",
-    "status_ext": "error:job-failed",
-    "message": "Job failed.",
-    "status": "error",
-    "resources": [],
-    "duration_sec": 0.747
-  },
-  "created": 1659920059,
+  "created": 1659925835,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/10/items/atlblog-2022",
@@ -3199,31 +3190,93 @@
       "sha1": "0af8f0e389cd8a9a8c9e8c0564b7401262a36d58"
     },
     {
+      "name": "atlblog-2022-08-07T22:28:38.215536-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659925721",
+      "size": "28943",
+      "md5": "fb63c3eb2bc06dc968a81dee0b06302c",
+      "crc32": "933e8a2e",
+      "sha1": "596f79d79c703903ebb59425157a51abe2c34dd2",
+      "format": "JSON"
+    },
+    {
+      "name": "atlblog-2022-08-07T22:28:38.215536-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659925725",
+      "size": "39290",
+      "md5": "4dfcfbe810c99d87ef5060ab9ff3e2b4",
+      "crc32": "debc9fd0",
+      "sha1": "b0d1da49eeb3e1dfc514ec2ecb4a3af9a42e939e",
+      "format": "JSON"
+    },
+    {
+      "name": "atlblog-2022-08-07T22:28:38.215536-04:00.jpg",
+      "source": "original",
+      "mtime": "1659925720",
+      "size": "297688",
+      "md5": "3d653fdd809509ac25b5ee9e552428f7",
+      "crc32": "5401895e",
+      "sha1": "01f72efc1f3bd70aa75ab241b65a1a64f711131a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "atlblog-2022-08-07T22:28:38.215536-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659925726",
+      "size": "1467",
+      "md5": "423ea2babc4d271d8aca5b297499a410",
+      "crc32": "a8ae0937",
+      "sha1": "2226dc173ee25c10826c364d20fa2165e7b8e3d3",
+      "format": "JSON"
+    },
+    {
+      "name": "atlblog-2022-08-07T22:28:38.215536-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659925728",
+      "size": "72906",
+      "md5": "357c4be901ecf9947ddb15d04f058b8e",
+      "crc32": "6f19cd26",
+      "sha1": "a8698c32474be311b33e7babadfb6f8922c9f94f",
+      "format": "JSON"
+    },
+    {
+      "name": "atlblog-2022-08-07T22:28:38.215536-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "atlblog-2022-08-07T22:28:38.215536-04:00.jpg",
+      "mtime": "1659925809",
+      "size": "9776",
+      "md5": "9832fb5f9edcbae4ad47f91c3fa3bf1a",
+      "crc32": "f3c0e6d0",
+      "sha1": "0af8f0e389cd8a9a8c9e8c0564b7401262a36d58"
+    },
+    {
       "name": "atlblog-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c048295ff4036690e35c3058ab7f927ca2f90517",
-      "mtime": "1659897976",
-      "size": "65502",
-      "md5": "b02770014ab6c2597410f3ffec9e0bb9",
-      "crc32": "6fc13450",
-      "sha1": "470472ff40bd70fc697802a6c0ccabcc8710ba2a",
+      "btih": "4d0bdbd41168749444108cdd32e238f370808bd7",
+      "mtime": "1659925814",
+      "size": "66763",
+      "md5": "55af07454133c2e17b6752c3a2c3ec85",
+      "crc32": "38f86f58",
+      "sha1": "a57be93a86313be43da7ab846503262b6cca1495",
       "format": "Archive BitTorrent"
     },
     {
       "name": "atlblog-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "519338cef6ed43568002f0ec539e1627",
+      "md5": "e3ecda00764e473e4d6c293f3d9eed33",
       "summation": "md5"
     },
     {
       "name": "atlblog-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659897924",
-      "size": "389120",
-      "md5": "0cf3ea71a7a2377b87cd0a637a2505cc",
-      "crc32": "9b748174",
-      "sha1": "84e745405d4e466820c7fb91495016ca4b72567c",
+      "mtime": "1659925732",
+      "size": "397312",
+      "md5": "64ea4c444515229f677688ca6da9ba0c",
+      "crc32": "a4563f03",
+      "sha1": "82ee46d94924b1b6a5bbc85cfd9a5e3bb17cea7d",
       "format": "Metadata"
     },
     {
@@ -3237,9 +3290,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 310,
-  "item_last_updated": 1659897976,
-  "item_size": 22186274,
+  "files_count": 316,
+  "item_last_updated": 1659925814,
+  "item_size": 22645797,
   "metadata": {
     "identifier": "atlblog-2022",
     "collection": [
@@ -3256,10 +3309,10 @@
     "publicdate": "2022-07-19 01:14:59",
     "addeddate": "2022-07-19 01:14:59"
   },
-  "server": "ia801406.us.archive.org",
-  "uniq": 1499292236,
+  "server": "ia601406.us.archive.org",
+  "uniq": 2031709283,
   "workable_servers": [
-    "ia801406.us.archive.org",
-    "ia601406.us.archive.org"
+    "ia601406.us.archive.org",
+    "ia801406.us.archive.org"
   ]
 }

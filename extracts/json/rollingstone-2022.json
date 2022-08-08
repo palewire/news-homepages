@@ -1,5 +1,5 @@
 {
-  "created": 1659920863,
+  "created": 1659963088,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/19/items/rollingstone-2022",
@@ -4524,31 +4524,155 @@
       "sha1": "2adf5f1615925423e98af9dd4d86f98066d7b57b"
     },
     {
+      "name": "rollingstone-2022-08-07T21:08:32.159736-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659920914",
+      "size": "25081",
+      "md5": "7ee828619ccc4a2751aa0fb43c3e7ef8",
+      "crc32": "aa506f27",
+      "sha1": "e6748f18501ce1f4e2f4ae640d27cb908665dbb3",
+      "format": "JSON"
+    },
+    {
+      "name": "rollingstone-2022-08-07T21:08:32.159736-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659920922",
+      "size": "53291",
+      "md5": "eb6a6b0fda2aef9457fd24e3a81b6e5a",
+      "crc32": "90b53a12",
+      "sha1": "f265f95868e465c99ec9f9b843e70ff8ba1ebf9a",
+      "format": "JSON"
+    },
+    {
+      "name": "rollingstone-2022-08-07T21:08:32.159736-04:00.jpg",
+      "source": "original",
+      "mtime": "1659920913",
+      "size": "349073",
+      "md5": "55eae8de62727d8b6087661404b7b700",
+      "crc32": "2c0f63e8",
+      "sha1": "3d7c68a5f0f41d727d3281b237452b325cc4b9d3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rollingstone-2022-08-07T21:08:32.159736-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659920924",
+      "size": "1513",
+      "md5": "113be27af803c094cbb0186621c6df2a",
+      "crc32": "52774725",
+      "sha1": "64b3f3fbd0cd7cecfa607d48edb856c098e45992",
+      "format": "JSON"
+    },
+    {
+      "name": "rollingstone-2022-08-07T21:08:32.159736-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659920927",
+      "size": "208076",
+      "md5": "a7f1dea835dc04cff930f0d576e045b6",
+      "crc32": "8d25330a",
+      "sha1": "03e789c0b401ab5b11578e14b3cdfa52f7ae509e",
+      "format": "JSON"
+    },
+    {
+      "name": "rollingstone-2022-08-07T21:08:32.159736-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rollingstone-2022-08-07T21:08:32.159736-04:00.jpg",
+      "mtime": "1659920976",
+      "size": "11676",
+      "md5": "e153313e4debcdb57598ab4feb28900c",
+      "crc32": "d8485596",
+      "sha1": "4bb98ebbc71f832f18bfce4d65e43b313c332c5e"
+    },
+    {
+      "name": "rollingstone-2022-08-08T08:50:12.205925-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659963019",
+      "size": "25811",
+      "md5": "ff31b724f3f657356cfaee088e2466d5",
+      "crc32": "c536651a",
+      "sha1": "6604008742e79b4ef64e429510d1a0bb1080cb31",
+      "format": "JSON"
+    },
+    {
+      "name": "rollingstone-2022-08-08T08:50:12.205925-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659963021",
+      "size": "53989",
+      "md5": "fce3b3b5d38d12c7b7f410d87a1bfb96",
+      "crc32": "798f06d2",
+      "sha1": "939edfeda8e9738e5b97aa02a4096a6ffbdf9bc1",
+      "format": "JSON"
+    },
+    {
+      "name": "rollingstone-2022-08-08T08:50:12.205925-04:00.jpg",
+      "source": "original",
+      "mtime": "1659963017",
+      "size": "348810",
+      "md5": "badd5b7b1e86ba573490bf3668d2ebee",
+      "crc32": "be908739",
+      "sha1": "2e4eea6ba4312290c84407111ae004a7adf627b5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rollingstone-2022-08-08T08:50:12.205925-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659963022",
+      "size": "1513",
+      "md5": "66346c659f386122fd827ba116d47d89",
+      "crc32": "2d8d15c0",
+      "sha1": "dbe44a2b7eac114f28e3f9022e9f5f0266df01e1",
+      "format": "JSON"
+    },
+    {
+      "name": "rollingstone-2022-08-08T08:50:12.205925-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659963024",
+      "size": "126917",
+      "md5": "b9af5b32ebb4c4aae6fb8b01d218bdad",
+      "crc32": "e3d176d1",
+      "sha1": "ac6f6a0feb079c15bbadade23a4c1b6677260e03",
+      "format": "JSON"
+    },
+    {
+      "name": "rollingstone-2022-08-08T08:50:12.205925-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rollingstone-2022-08-08T08:50:12.205925-04:00.jpg",
+      "mtime": "1659963074",
+      "size": "11646",
+      "md5": "2f52178b0cf2e4ec72f1205656e79547",
+      "crc32": "29f9b7d7",
+      "sha1": "ad20345dcdac2d81629e755a94603fa16bbae152"
+    },
+    {
       "name": "rollingstone-2022_archive.torrent",
       "source": "metadata",
-      "btih": "46d6f461bbd705d832c3ae49e9065f8c47734255",
-      "mtime": "1659876419",
-      "size": "94263",
-      "md5": "888a5e6548206e4914e4a3d0f84c956f",
-      "crc32": "5bbb6c6f",
-      "sha1": "afd27fa1e9aa1217c0116d866706f92357f1398f",
+      "btih": "b00165d4c5d284f16208b876c8e6f7db7f9f82db",
+      "mtime": "1659963079",
+      "size": "96849",
+      "md5": "644bdf9086a4ab62bf7b16d24d88a4ba",
+      "crc32": "51350f79",
+      "sha1": "e46e8128c90a49d1837dceff66dea9ec63bc9823",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rollingstone-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a795e8082023bf8b499fc1ffc4b5289c",
+      "md5": "52b28c0cd3ce485ad5c16b618ecefbe3",
       "summation": "md5"
     },
     {
       "name": "rollingstone-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659876359",
-      "size": "520192",
-      "md5": "181e028304bae430b695c575df0e24aa",
-      "crc32": "a452fed0",
-      "sha1": "88f72f459f5ccb6c2cb7895a3ee757fb611d0b0c",
+      "mtime": "1659963028",
+      "size": "532480",
+      "md5": "4b4e9cddc8af995c4a0d36c5389670bb",
+      "crc32": "5ea514e3",
+      "sha1": "aa1eedd8f0fc66721d4b5c3d9b4fcaf35c1a1743",
       "format": "Metadata"
     },
     {
@@ -4562,9 +4686,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 435,
-  "item_last_updated": 1659876419,
-  "item_size": 44134676,
+  "files_count": 447,
+  "item_last_updated": 1659963079,
+  "item_size": 45366946,
   "metadata": {
     "identifier": "rollingstone-2022",
     "collection": [
@@ -4581,12 +4705,8 @@
     "publicdate": "2022-06-24 23:00:28",
     "addeddate": "2022-06-24 23:00:28"
   },
-  "rollingstone-2022": {
-    "url": "https://www.rollingstone.com/",
-    "job_id": "spn2-9374e9ca159e4f3c5f85e9037146b7b350a32dca"
-  },
   "server": "ia801500.us.archive.org",
-  "uniq": 381701584,
+  "uniq": 578946771,
   "workable_servers": [
     "ia801500.us.archive.org",
     "ia601500.us.archive.org"

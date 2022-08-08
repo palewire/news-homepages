@@ -1,7 +1,11 @@
 {
-  "created": 1659919735,
+  "created": 1659962487,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
+  "diariope-2022": {
+    "url": "https://www.diariodepernambuco.com.br/",
+    "job_id": "spn2-2f7a03a0ffee01688297a6a7c5c64878c1722a0e"
+  },
   "dir": "/33/items/diariope-2022",
   "files": [
     {
@@ -658,31 +662,93 @@
       "sha1": "8e24552e12725fb628915e9e9f5f72a1e93d6045"
     },
     {
+      "name": "diariope-2022-08-08T08:25:37.612659-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659957940",
+      "size": "28842",
+      "md5": "a32daaf384fb7f866d3c09fc08d3fb64",
+      "crc32": "6d00e233",
+      "sha1": "76e50cc14ff29356414aab0751691d53830b7dee",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-08-08T08:25:37.612659-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659957942",
+      "size": "24894",
+      "md5": "5427934fdeae86dc0f7399703618ab48",
+      "crc32": "1e8d625f",
+      "sha1": "259c772f38a8f2a351d3b256d502a9f06a324fd7",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-08-08T08:25:37.612659-03:00.jpg",
+      "source": "original",
+      "mtime": "1659957939",
+      "size": "332242",
+      "md5": "ea6920de8c49a9a3d3a651fb0c4d21ae",
+      "crc32": "920844fc",
+      "sha1": "6acfa0f84167feb0141886d99148425c5bd1a4a1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "diariope-2022-08-08T08:25:37.612659-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659957943",
+      "size": "1591",
+      "md5": "1af5f7c1691c65c8d6804d5e840761c4",
+      "crc32": "be61bd3d",
+      "sha1": "c7ad0c71f582d2c83a6f68b008f7fed511abcf72",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-08-08T08:25:37.612659-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1659957945",
+      "size": "114",
+      "md5": "fc3f49ad0d4189ba478e4fe2aa51c52d",
+      "crc32": "c5217cf2",
+      "sha1": "7c01fd8ca29d40ef909e2e58088b404f82ef1340",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-08-08T08:25:37.612659-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "diariope-2022-08-08T08:25:37.612659-03:00.jpg",
+      "mtime": "1659958016",
+      "size": "10560",
+      "md5": "c668689a0e3ff5b9b23b60bbedfcea03",
+      "crc32": "51f990f3",
+      "sha1": "8e24552e12725fb628915e9e9f5f72a1e93d6045"
+    },
+    {
       "name": "diariope-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5cc670aaea67c007c25c19665379e44cafa75d0e",
-      "mtime": "1659919727",
-      "size": "14701",
-      "md5": "63bea95462bf7a10496b3f951096218e",
-      "crc32": "e309c25c",
-      "sha1": "daf02d58d0142fab059f29d04e8de972a26ff214",
+      "btih": "8f90a72851ca46487e41fa0154e4c4f997c16fc7",
+      "mtime": "1659958050",
+      "size": "15968",
+      "md5": "567cb5bf18a6ad53050a2bb645bb1b08",
+      "crc32": "134efa75",
+      "sha1": "7ec80d0cf0d1f7f05166df5db996c87176ab4d30",
       "format": "Archive BitTorrent"
     },
     {
       "name": "diariope-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d67415a822fba8fced3547d4850142bb",
+      "md5": "7f909ab5ea33f3d76e06bb152d1a3448",
       "summation": "md5"
     },
     {
       "name": "diariope-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659919682",
-      "size": "90112",
-      "md5": "7620a15659ad087e081cf74aa9502e19",
-      "crc32": "89cf4df0",
-      "sha1": "57a646f544df33e85fa7953bc8f4159c2905fd7f",
+      "mtime": "1659957949",
+      "size": "106496",
+      "md5": "8a26c42b2101e8c9b65058e5c1428258",
+      "crc32": "316af0d5",
+      "sha1": "83646d8fbbd8d6ffd75a9761209a734b3e427f0c",
       "format": "Metadata"
     },
     {
@@ -696,9 +762,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 67,
-  "item_last_updated": 1659919727,
-  "item_size": 4923278,
+  "files_count": 73,
+  "item_last_updated": 1659958050,
+  "item_size": 5339172,
   "metadata": {
     "identifier": "diariope-2022",
     "collection": [
@@ -715,10 +781,10 @@
     "publicdate": "2022-08-04 04:55:38",
     "addeddate": "2022-08-04 04:55:38"
   },
-  "server": "ia801400.us.archive.org",
-  "uniq": 1791814209,
+  "server": "ia601400.us.archive.org",
+  "uniq": 997418623,
   "workable_servers": [
-    "ia801400.us.archive.org",
-    "ia601400.us.archive.org"
+    "ia601400.us.archive.org",
+    "ia801400.us.archive.org"
   ]
 }

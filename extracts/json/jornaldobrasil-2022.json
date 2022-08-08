@@ -1,6 +1,5 @@
 {
-  "conflict": 1659920389,
-  "created": 1659920389,
+  "created": 1659962404,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/11/items/jornaldobrasil-2022",
@@ -659,31 +658,93 @@
       "sha1": "3a11b155060f53427a44381dc7fe909c7f486547"
     },
     {
+      "name": "jornaldobrasil-2022-08-08T09:38:09.590834-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659962292",
+      "size": "28157",
+      "md5": "3fe7294214201cdf90ca81aa04e165f0",
+      "crc32": "53818fe4",
+      "sha1": "a48558933705b25af4c08e548ea1830faceca367",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaldobrasil-2022-08-08T09:38:09.590834-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659962294",
+      "size": "31830",
+      "md5": "d05575d053d590920a2f8851c6cf5926",
+      "crc32": "4626504e",
+      "sha1": "8d32f1a8aab579697bdfef24abf22b827ef38654",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaldobrasil-2022-08-08T09:38:09.590834-03:00.jpg",
+      "source": "original",
+      "mtime": "1659962291",
+      "size": "318853",
+      "md5": "b7b8d0ba9709a4e69e4dcb729cf6dbd6",
+      "crc32": "35f95650",
+      "sha1": "dd6ae2c1320a0a7b5d5cc0747ce14de70aaab584",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jornaldobrasil-2022-08-08T09:38:09.590834-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659962295",
+      "size": "1426",
+      "md5": "ab7b53e170828151c8db8d7fae9dcfe7",
+      "crc32": "ea7b89e4",
+      "sha1": "4e6939c6da16dc578c01d188cdc73f756dfe2687",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaldobrasil-2022-08-08T09:38:09.590834-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1659962297",
+      "size": "57742",
+      "md5": "bdeb647d26c99952b01fdb90c4c6fbe5",
+      "crc32": "da1911c5",
+      "sha1": "5ef38a8d223779622a7e25b288c82bbc1b90cb1a",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaldobrasil-2022-08-08T09:38:09.590834-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jornaldobrasil-2022-08-08T09:38:09.590834-03:00.jpg",
+      "mtime": "1659962371",
+      "size": "10591",
+      "md5": "031b2cf8514ec8f720d36f8479ca975e",
+      "crc32": "74cc98ae",
+      "sha1": "08cbf2a7f2455d882e49e94518077424b46df138"
+    },
+    {
       "name": "jornaldobrasil-2022_archive.torrent",
       "source": "metadata",
-      "btih": "df47a99d0ec20067fbe78f2a9ff1bf338661efa5",
-      "mtime": "1659920341",
-      "size": "15129",
-      "md5": "e42ba5e366b5d6650269716843cfc0bf",
-      "crc32": "ebd77b27",
-      "sha1": "32ca08164ecc22f61007a3c593e561240e9a8529",
+      "btih": "b552fa11a671fe3388f09346eeaba489eb0110ff",
+      "mtime": "1659962383",
+      "size": "16434",
+      "md5": "231bc6782891bee72d7998e69d236940",
+      "crc32": "5c10aa95",
+      "sha1": "63d07f18abdd45eb0ac37b043b3a3de68eec4e7d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jornaldobrasil-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4cd23e7ef4d6a2fe22875952abf62e4e",
+      "md5": "b4a02fd2a137e40dc70fddc7866fa973",
       "summation": "md5"
     },
     {
       "name": "jornaldobrasil-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659920228",
-      "size": "98304",
-      "md5": "9e066e016bdf297fe3d9c68ea9e1006d",
-      "crc32": "c5d98130",
-      "sha1": "1c594c1b74ecfeab1aaabf22cce191060689dc89",
+      "mtime": "1659962304",
+      "size": "106496",
+      "md5": "cf766b7d5b1260bbb39486c45b3ad23c",
+      "crc32": "335581bf",
+      "sha1": "ba6fc7ce8dccc09462f4d7b69e798c785c987698",
       "format": "Metadata"
     },
     {
@@ -697,9 +758,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 67,
-  "item_last_updated": 1659920341,
-  "item_size": 4847355,
+  "files_count": 73,
+  "item_last_updated": 1659962383,
+  "item_size": 5305451,
   "metadata": {
     "identifier": "jornaldobrasil-2022",
     "collection": [
@@ -716,29 +777,10 @@
     "publicdate": "2022-08-04 04:55:22",
     "addeddate": "2022-08-04 04:55:22"
   },
-  "pending_tasks": true,
   "server": "ia601507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3356563845,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3356565847,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1985265638,
+  "uniq": 1125806224,
   "workable_servers": [
-    "ia601507.us.archive.org"
+    "ia601507.us.archive.org",
+    "ia801507.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1659916310,
+  "created": 1659963484,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/11/items/theroot-2022",
@@ -578,31 +578,83 @@
       "sha1": "6b39ba2e20c6af3642d762e264d2b19359b56313"
     },
     {
+      "name": "theroot-2022-08-07T22:35:05.723014-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659926108",
+      "size": "26472",
+      "md5": "b1a0c94e63bab934ed797b5283193082",
+      "crc32": "a6c6c806",
+      "sha1": "718063319b2015e80092f6ae4450c35838442e8c",
+      "format": "JSON"
+    },
+    {
+      "name": "theroot-2022-08-07T22:35:05.723014-04:00.jpg",
+      "source": "original",
+      "mtime": "1659926107",
+      "size": "266288",
+      "md5": "d31e9592896b9176da8135a205f0a5e1",
+      "crc32": "9c6d1a00",
+      "sha1": "2342f7bed5925cb6d7e672365100f883a02b4d87",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theroot-2022-08-07T22:35:05.723014-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659926110",
+      "size": "1465",
+      "md5": "d2c9f463f01da68762c018c76cb9bf40",
+      "crc32": "0aedbc96",
+      "sha1": "8bd1ad768497eb3776b31b347a932088425239b5",
+      "format": "JSON"
+    },
+    {
+      "name": "theroot-2022-08-07T22:35:05.723014-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659926112",
+      "size": "100",
+      "md5": "5f6884efde9b52f6e5947b28d0fd6fbc",
+      "crc32": "f8ba9ee6",
+      "sha1": "ef9eb0a4bb737f04b0dbbaea2708cd1f6c5d82fd",
+      "format": "JSON"
+    },
+    {
+      "name": "theroot-2022-08-07T22:35:05.723014-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theroot-2022-08-07T22:35:05.723014-04:00.jpg",
+      "mtime": "1659926168",
+      "size": "10389",
+      "md5": "27c4df851499e4d255a8651c1b3d7b20",
+      "crc32": "1e2142a4",
+      "sha1": "28bf0a0961649956508fc75762ba44f6afe1f6bb"
+    },
+    {
       "name": "theroot-2022_archive.torrent",
       "source": "metadata",
-      "btih": "816d419e00c52f40c85262284aaa341ec4366ca7",
-      "mtime": "1659881303",
-      "size": "12924",
-      "md5": "947a77ad59c489c61147b4e383e76966",
-      "crc32": "7804000f",
-      "sha1": "e5b5235832a1d18de50f17f0c061d10c2ec9b94c",
+      "btih": "e71873990197cc9bac1a3b31a1a53fbaf389ce65",
+      "mtime": "1659926174",
+      "size": "13951",
+      "md5": "2a4137afc2c12bacc2d09417a63b4fd1",
+      "crc32": "cf2f4ef5",
+      "sha1": "3315b9e3c8877f5e930eb84101359a67db31c8c2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theroot-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "53235009071ba5f38ff42f32506f72c9",
+      "md5": "385389740d548936d47c265d1cbb4487",
       "summation": "md5"
     },
     {
       "name": "theroot-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659881258",
-      "size": "81920",
-      "md5": "e0071d8cbe7b66c8687f58bb93aeb523",
-      "crc32": "bc837d5d",
-      "sha1": "80cf992e4d9c80bc2bcff2c466b4e9ff94c157fb",
+      "mtime": "1659926116",
+      "size": "86016",
+      "md5": "b954152f3c5e22724f501f4d488e9c87",
+      "crc32": "329a2095",
+      "sha1": "5c01188aef0f4d96c3e407732deee4296f6f3f19",
       "format": "Metadata"
     },
     {
@@ -616,9 +668,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 59,
-  "item_last_updated": 1659881303,
-  "item_size": 4251703,
+  "files_count": 64,
+  "item_last_updated": 1659926174,
+  "item_size": 4561540,
   "metadata": {
     "identifier": "theroot-2022",
     "collection": [
@@ -635,10 +687,14 @@
     "publicdate": "2022-08-03 01:58:21",
     "addeddate": "2022-08-03 01:58:21"
   },
-  "server": "ia902508.us.archive.org",
-  "uniq": 704505661,
+  "server": "ia802508.us.archive.org",
+  "theroot-2022": {
+    "url": "https://www.theroot.com/",
+    "job_id": "spn2-2abf20edcea0730fe460e597c00645fdf04e43a5"
+  },
+  "uniq": 1620325533,
   "workable_servers": [
-    "ia902508.us.archive.org",
-    "ia802508.us.archive.org"
+    "ia802508.us.archive.org",
+    "ia902508.us.archive.org"
   ]
 }

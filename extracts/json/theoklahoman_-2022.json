@@ -1,5 +1,5 @@
 {
-  "created": 1659921095,
+  "created": 1659963472,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/7/items/theoklahoman_-2022",
@@ -4808,31 +4808,83 @@
       "sha1": "eb09a49f3daf7f4619abcae7b7f2cf96b6c9129b"
     },
     {
+      "name": "theoklahoman_-2022-08-07T21:34:53.951038-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659926097",
+      "size": "41384",
+      "md5": "19dcd4811ac40d3ea7cf852041e24784",
+      "crc32": "36f2a66d",
+      "sha1": "c0391b65a21cfa03c8bbe56d01889809cd35ca4f",
+      "format": "JSON"
+    },
+    {
+      "name": "theoklahoman_-2022-08-07T21:34:53.951038-05:00.jpg",
+      "source": "original",
+      "mtime": "1659926095",
+      "size": "249586",
+      "md5": "d95d2fe11c2a622397536901e9ba7df7",
+      "crc32": "fa5db3b8",
+      "sha1": "ddb4e5743f7978755be4f4cfc2a7b20999a17446",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theoklahoman_-2022-08-07T21:34:53.951038-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659926099",
+      "size": "1486",
+      "md5": "6780253b131fc80ab246a5d439056bfd",
+      "crc32": "8bd9be7b",
+      "sha1": "14b1250c94a99d83b0b087d4087cb0b2b751531f",
+      "format": "JSON"
+    },
+    {
+      "name": "theoklahoman_-2022-08-07T21:34:53.951038-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1659926100",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "theoklahoman_-2022-08-07T21:34:53.951038-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theoklahoman_-2022-08-07T21:34:53.951038-05:00.jpg",
+      "mtime": "1659926157",
+      "size": "9633",
+      "md5": "b20bb78bffa6438479125779865e6b55",
+      "crc32": "4ab849b1",
+      "sha1": "a142b3ac93b73c5aee355b82ff28120159d23be3"
+    },
+    {
       "name": "theoklahoman_-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b3576e39e9957faf491fc59c833cab3f7dfd34c5",
-      "mtime": "1659881324",
-      "size": "100299",
-      "md5": "30f031cd0cc1ba6a487018fbf865597f",
-      "crc32": "075764ea",
-      "sha1": "dc22d06335f66de3de420e4cf39cbde258e5a4c9",
+      "btih": "cd1bfe3d096effb5da387dd00eb6cc3baf1147c6",
+      "mtime": "1659926167",
+      "size": "101375",
+      "md5": "ac6b748821da3aa402b65eee631135d1",
+      "crc32": "0774300d",
+      "sha1": "c778b1d3807718bc3c86f72d78705710bcfe3a92",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theoklahoman_-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0bc51331d53cbcbaeb633dfc8bd71dd8",
+      "md5": "4475d39d12b1d052d108ef3ddba771e3",
       "summation": "md5"
     },
     {
       "name": "theoklahoman_-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659881260",
-      "size": "565248",
-      "md5": "640bb2915a5fb72986546deb8beb3ab8",
-      "crc32": "b20a409c",
-      "sha1": "08b256e8abcbd9d1aa9100b649ceabe6fb1d6614",
+      "mtime": "1659926105",
+      "size": "569344",
+      "md5": "75d0200a481ec6b43d41daefda086e3b",
+      "crc32": "a9f06b6c",
+      "sha1": "e7c4f1c58e1a194c8dde837b989141198e457f78",
       "format": "Metadata"
     },
     {
@@ -4846,9 +4898,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 463,
-  "item_last_updated": 1659881324,
-  "item_size": 35681701,
+  "files_count": 468,
+  "item_last_updated": 1659926167,
+  "item_size": 35989164,
   "metadata": {
     "identifier": "theoklahoman_-2022",
     "collection": [
@@ -4865,14 +4917,15 @@
     "publicdate": "2022-06-24 23:02:53",
     "addeddate": "2022-06-24 23:02:53"
   },
-  "server": "ia801404.us.archive.org",
+  "server": "ia601404.us.archive.org",
   "theoklahoman_-2022": {
-    "url": "https://www.oklahoman.com/",
-    "job_id": "spn2-f643d171b3a87659cdd56e9c6fa26cbe6cb68d90"
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
   },
-  "uniq": 2026591844,
+  "uniq": 857041189,
   "workable_servers": [
-    "ia801404.us.archive.org",
-    "ia601404.us.archive.org"
+    "ia601404.us.archive.org",
+    "ia801404.us.archive.org"
   ]
 }

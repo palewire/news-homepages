@@ -1,5 +1,5 @@
 {
-  "created": 1659892549,
+  "created": 1659948554,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/9/items/unichicago-2022",
@@ -1638,31 +1638,93 @@
       "sha1": "077fdc7937f3401e3f8389169bb00d687d888014"
     },
     {
+      "name": "unichicago-2022-08-08T00:28:56.754435-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659936544",
+      "size": "24381",
+      "md5": "dfa0834ec8d564fcd85f1d9fa0e0e3a3",
+      "crc32": "93385eac",
+      "sha1": "50d8a3704425daefb95bcb31c77632aeb72025c4",
+      "format": "JSON"
+    },
+    {
+      "name": "unichicago-2022-08-08T00:28:56.754435-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659936545",
+      "size": "19481",
+      "md5": "491c7d5e38fe8c090fe0327267813744",
+      "crc32": "06a9eed3",
+      "sha1": "c93a44b2c20f307b00538c40d8509e145d01f35b",
+      "format": "JSON"
+    },
+    {
+      "name": "unichicago-2022-08-08T00:28:56.754435-05:00.jpg",
+      "source": "original",
+      "mtime": "1659936538",
+      "size": "270166",
+      "md5": "ef71a272aa02d3f9f60c2aca5741ff6d",
+      "crc32": "2f5287cb",
+      "sha1": "11a7d63434001ff71ac30f37def141f80cab467d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "unichicago-2022-08-08T00:28:56.754435-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659936547",
+      "size": "1648",
+      "md5": "1a806bbb0b71b04958e2f5fdea521588",
+      "crc32": "167a4cc0",
+      "sha1": "ec6de46ee538714ad742cc5e570f56c00895cc37",
+      "format": "JSON"
+    },
+    {
+      "name": "unichicago-2022-08-08T00:28:56.754435-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1659936549",
+      "size": "103509",
+      "md5": "3e37593983e69240fa2adbf113dc093b",
+      "crc32": "996a2cc1",
+      "sha1": "dc30f2952c8afb2d353825871b7b8b68c6d180c4",
+      "format": "JSON"
+    },
+    {
+      "name": "unichicago-2022-08-08T00:28:56.754435-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "unichicago-2022-08-08T00:28:56.754435-05:00.jpg",
+      "mtime": "1659936601",
+      "size": "10379",
+      "md5": "ab038e9dba0cd0f85acf580f1126c9d3",
+      "crc32": "b84a749a",
+      "sha1": "3efa56300ae4f20e02afa8919feb6f00033268b9"
+    },
+    {
       "name": "unichicago-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f5aa5bf7775fb547f5ed3321f797af8be1513043",
-      "mtime": "1659892542",
-      "size": "34727",
-      "md5": "2aff8d87f64f1f772afdc3f20e727117",
-      "crc32": "cc812649",
-      "sha1": "9239505615d4aac64508ef2390b194ea4bbbd2c7",
+      "btih": "cb67e64be4cf611db0819e692df8962af74e4f28",
+      "mtime": "1659936612",
+      "size": "35988",
+      "md5": "86d2e45e8cbfd4568b02a815f9e1109a",
+      "crc32": "c60e0d92",
+      "sha1": "bb5efefafc65f34b640ec6f59859d44c180cd5a3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "unichicago-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "aacb6ddb0829982aa995df3fee410844",
+      "md5": "321dff06fce47e9c2e3b4a41ee9c7511",
       "summation": "md5"
     },
     {
       "name": "unichicago-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659892494",
-      "size": "212992",
-      "md5": "e93b7f702daf3331452a32e1c3a5cbd8",
-      "crc32": "eaeba034",
-      "sha1": "7433c8060bde0ed3392f54a8c0c2ed2b2b95e110",
+      "mtime": "1659936553",
+      "size": "225280",
+      "md5": "db6295df597ef98740a44189d587e03d",
+      "crc32": "a0c372fb",
+      "sha1": "1ee1d135ed18cdec84ebb62145a08362398d7380",
       "format": "Metadata"
     },
     {
@@ -1676,9 +1738,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 161,
-  "item_last_updated": 1659892542,
-  "item_size": 10074231,
+  "files_count": 167,
+  "item_last_updated": 1659936612,
+  "item_size": 10517344,
   "metadata": {
     "identifier": "unichicago-2022",
     "collection": [
@@ -1695,10 +1757,10 @@
     "publicdate": "2022-07-28 20:05:24",
     "addeddate": "2022-07-28 20:05:24"
   },
-  "server": "ia801504.us.archive.org",
-  "uniq": 453881773,
+  "server": "ia601504.us.archive.org",
+  "uniq": 658607696,
   "workable_servers": [
-    "ia801504.us.archive.org",
-    "ia601504.us.archive.org"
+    "ia601504.us.archive.org",
+    "ia801504.us.archive.org"
   ]
 }

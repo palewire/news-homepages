@@ -1,5 +1,5 @@
 {
-  "created": 1659920345,
+  "created": 1659935482,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/3/items/heraldleader-2022",
@@ -786,31 +786,93 @@
       "sha1": "1c63ac9aa4dc2f463854ba78d8ba37277398d461"
     },
     {
+      "name": "heraldleader-2022-08-08T01:09:47.653087-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659935390",
+      "size": "455",
+      "md5": "c5400fafc7fc2b404df53e93f86ad96b",
+      "crc32": "24bbfa18",
+      "sha1": "37e82dfee656d5ecbd219cb50a9128b44ee481d5",
+      "format": "JSON"
+    },
+    {
+      "name": "heraldleader-2022-08-08T01:09:47.653087-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659935392",
+      "size": "38011",
+      "md5": "4f54f59ae7c1c2221a7f2245deb85bdd",
+      "crc32": "d120a09b",
+      "sha1": "a1d5ea041853bc0c745238ccc845b65270026512",
+      "format": "JSON"
+    },
+    {
+      "name": "heraldleader-2022-08-08T01:09:47.653087-04:00.jpg",
+      "source": "original",
+      "mtime": "1659935389",
+      "size": "286055",
+      "md5": "0af886e25084319324bd03bfc2bc2480",
+      "crc32": "83af8ecb",
+      "sha1": "e9b4d219c0953d63341792044966c00db606b029",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "heraldleader-2022-08-08T01:09:47.653087-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659935393",
+      "size": "1476",
+      "md5": "44fab92988d23578a43c492aa4df4dfc",
+      "crc32": "0c5b2609",
+      "sha1": "99ae92d993c69da00cad3dbcb2e698653b571f8f",
+      "format": "JSON"
+    },
+    {
+      "name": "heraldleader-2022-08-08T01:09:47.653087-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659935395",
+      "size": "75332",
+      "md5": "cb852f57ea243e611fcc8c065f6855d0",
+      "crc32": "beefe495",
+      "sha1": "22cbb057e81b7ba8931f6a89b25fc098b56ac153",
+      "format": "JSON"
+    },
+    {
+      "name": "heraldleader-2022-08-08T01:09:47.653087-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "heraldleader-2022-08-08T01:09:47.653087-04:00.jpg",
+      "mtime": "1659935450",
+      "size": "9735",
+      "md5": "0980b7c910951cace97bf55c70ade794",
+      "crc32": "ce0180e0",
+      "sha1": "50c976fd700c553a6c937285e958438349abe939"
+    },
+    {
       "name": "heraldleader-2022_archive.torrent",
       "source": "metadata",
-      "btih": "78e48a28313848e39f353f490fe4eb4f60afdae7",
-      "mtime": "1659891127",
-      "size": "17490",
-      "md5": "433654c37c85c906be5d2c60bd0474d4",
-      "crc32": "4d9fb5f1",
-      "sha1": "9abc1362a7312550854ec017096435cd7e2ceab3",
+      "btih": "8de10a780da0fc6cc84eb594a4ff875d447f56d1",
+      "mtime": "1659935460",
+      "size": "18779",
+      "md5": "248c6a6badb667da848f418e69369a87",
+      "crc32": "086d4f4e",
+      "sha1": "a992181a22c9a9f5b03ce7bba96a31cfeb10ad07",
       "format": "Archive BitTorrent"
     },
     {
       "name": "heraldleader-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "516c49220ce554d1984f3b44213d6474",
+      "md5": "1f5b9dd2b78f04443fe6c6d28162d7c3",
       "summation": "md5"
     },
     {
       "name": "heraldleader-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659891077",
-      "size": "110592",
-      "md5": "9b6b1e808542b94ce7d202b0b66d7104",
-      "crc32": "f98932f9",
-      "sha1": "be30bb653af3ed983df4a20e0f655d9dbf64d026",
+      "mtime": "1659935400",
+      "size": "126976",
+      "md5": "2513fb23326589715e287b2e525e7f88",
+      "crc32": "e4431124",
+      "sha1": "d0d14d1bde6e0f22cfe3115068dab386b7110d92",
       "format": "Metadata"
     },
     {
@@ -824,13 +886,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 79,
-  "heraldleader-2022": {
-    "url": "https://www.kentucky.com/",
-    "job_id": "spn2-41cbed40e17cfe45ec6863ca8dd5ed68fc740e79"
-  },
-  "item_last_updated": 1659891127,
-  "item_size": 5527369,
+  "files_count": 85,
+  "item_last_updated": 1659935460,
+  "item_size": 5956106,
   "metadata": {
     "identifier": "heraldleader-2022",
     "collection": [
@@ -848,7 +906,7 @@
     "addeddate": "2022-08-01 06:42:16"
   },
   "server": "ia801501.us.archive.org",
-  "uniq": 2103644773,
+  "uniq": 2052406558,
   "workable_servers": [
     "ia801501.us.archive.org",
     "ia601501.us.archive.org"

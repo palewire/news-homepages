@@ -1,5 +1,5 @@
 {
-  "created": 1659920131,
+  "created": 1659962367,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/8/items/indiatoday-2022",
@@ -1522,31 +1522,93 @@
       "sha1": "460a6e9b013ed8ff6dd108e1878a8288be750afc"
     },
     {
+      "name": "indiatoday-2022-08-08T18:08:10.090841+05:30.accessibility.json",
+      "source": "original",
+      "mtime": "1659962294",
+      "size": "58957",
+      "md5": "cab55fe56abb0841db4ec2ed8c2185da",
+      "crc32": "2d379afa",
+      "sha1": "a808fafdb9f19f8767f24e165aac6425fbbe750c",
+      "format": "JSON"
+    },
+    {
+      "name": "indiatoday-2022-08-08T18:08:10.090841+05:30.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659962297",
+      "size": "57834",
+      "md5": "295fb68b48568ee3a4b25a302d733841",
+      "crc32": "a5aaedc9",
+      "sha1": "cfaca6143288c6818ef88fa8199d8cd08bd26f66",
+      "format": "JSON"
+    },
+    {
+      "name": "indiatoday-2022-08-08T18:08:10.090841+05:30.jpg",
+      "source": "original",
+      "mtime": "1659962292",
+      "size": "320136",
+      "md5": "235c01fa4cfa5afbfdd8050ea98cf08a",
+      "crc32": "9f681df0",
+      "sha1": "226f7b20398b2469c79eb61362b8ba6281a02858",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "indiatoday-2022-08-08T18:08:10.090841+05:30.lighthouse.json",
+      "source": "original",
+      "mtime": "1659962298",
+      "size": "1485",
+      "md5": "41de07305e56f0aa8a00038051e6ff86",
+      "crc32": "0fde5543",
+      "sha1": "4c51a81c7d6f78a2e3465680f50abb9df3933917",
+      "format": "JSON"
+    },
+    {
+      "name": "indiatoday-2022-08-08T18:08:10.090841+05:30.wayback.json",
+      "source": "original",
+      "mtime": "1659962300",
+      "size": "58693",
+      "md5": "6bf86bef0980c75e43e6cd753ea47043",
+      "crc32": "172412a9",
+      "sha1": "4aaaaddb11c6bccc51e11bcc283a50785f938385",
+      "format": "JSON"
+    },
+    {
+      "name": "indiatoday-2022-08-08T18:08:10.090841+05:30_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "indiatoday-2022-08-08T18:08:10.090841+05:30.jpg",
+      "mtime": "1659962353",
+      "size": "10410",
+      "md5": "25b153b72043dbf112bcf0ef4cd5a8c4",
+      "crc32": "c098adfa",
+      "sha1": "e1bbd48dc6a5f85e1413f1842b30b462faa3e618"
+    },
+    {
       "name": "indiatoday-2022_archive.torrent",
       "source": "metadata",
-      "btih": "03702f7be1397bab9b526f3434b5279f63ce82c4",
-      "mtime": "1659920121",
-      "size": "32590",
-      "md5": "d6b685f64ebf141cfdb7cf57f8460505",
-      "crc32": "d693de45",
-      "sha1": "0d5a2ce8c7f0b4d638aaf2d0c031db085c43d7e5",
+      "btih": "1a2d67a99d717c42cc99e50940cffa05215907b0",
+      "mtime": "1659962357",
+      "size": "33870",
+      "md5": "c315d931042f35d3e78fc3d2b8e44b08",
+      "crc32": "45c352dc",
+      "sha1": "2de029ebb12fa622ef8a10993604a23a6f2e28c2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "indiatoday-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "29b5bce02f65f810025fa84de7a5bec6",
+      "md5": "ab600d2935fbd66facbe332cee946ac5",
       "summation": "md5"
     },
     {
       "name": "indiatoday-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659920068",
-      "size": "200704",
-      "md5": "a4fd76c6ec31a3f253c8fc98a47a03d2",
-      "crc32": "ae2af96f",
-      "sha1": "96ea9f30513534f809f00a8094883027eb8863b7",
+      "mtime": "1659962304",
+      "size": "208896",
+      "md5": "4b4b0cb4b2180f49cc158211d72e4165",
+      "crc32": "db5d2f37",
+      "sha1": "9fca27cbf68d20bd36ec5d7a6819e1c373d439b0",
       "format": "Metadata"
     },
     {
@@ -1560,9 +1622,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 150,
-  "item_last_updated": 1659920121,
-  "item_size": 13309771,
+  "files_count": 156,
+  "item_last_updated": 1659962357,
+  "item_size": 13826758,
   "metadata": {
     "identifier": "indiatoday-2022",
     "collection": [
@@ -1579,10 +1641,10 @@
     "publicdate": "2022-07-26 00:16:43",
     "addeddate": "2022-07-26 00:16:43"
   },
-  "server": "ia601505.us.archive.org",
-  "uniq": 2074655545,
+  "server": "ia801505.us.archive.org",
+  "uniq": 976161663,
   "workable_servers": [
-    "ia601505.us.archive.org",
-    "ia801505.us.archive.org"
+    "ia801505.us.archive.org",
+    "ia601505.us.archive.org"
   ]
 }

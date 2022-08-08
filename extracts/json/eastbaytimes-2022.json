@@ -1,5 +1,5 @@
 {
-  "created": 1659919907,
+  "created": 1659958019,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/23/items/eastbaytimes-2022",
@@ -10592,31 +10592,93 @@
       "sha1": "f812b3a37af8fe011702b77318f7d0c7c5eece4f"
     },
     {
+      "name": "eastbaytimes-2022-08-08T04:25:15.515846-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659957928",
+      "size": "38837",
+      "md5": "530f22a5a216e32af9997053e15a99de",
+      "crc32": "54c65e39",
+      "sha1": "a66f1764753a783b9d043969d8d5be0ab834fd27",
+      "format": "JSON"
+    },
+    {
+      "name": "eastbaytimes-2022-08-08T04:25:15.515846-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659957930",
+      "size": "56495",
+      "md5": "68f20d05be494377731356ded834e716",
+      "crc32": "7fe84f92",
+      "sha1": "8d18106e404d946c00d5d07b3ee554419b0470db",
+      "format": "JSON"
+    },
+    {
+      "name": "eastbaytimes-2022-08-08T04:25:15.515846-07:00.jpg",
+      "source": "original",
+      "mtime": "1659957926",
+      "size": "278471",
+      "md5": "6d1d9a95eb7e8145b231a471c0a85400",
+      "crc32": "69b5f420",
+      "sha1": "68fb69aa7851c58b69565270319cee1f6fb7c3f2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "eastbaytimes-2022-08-08T04:25:15.515846-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659957931",
+      "size": "1513",
+      "md5": "0fc8b16fe885afbceef9cc02ac067932",
+      "crc32": "5d98fbd4",
+      "sha1": "ea2849adfca99db41f1d9ab87f115318481b56d3",
+      "format": "JSON"
+    },
+    {
+      "name": "eastbaytimes-2022-08-08T04:25:15.515846-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1659957933",
+      "size": "40886",
+      "md5": "dd73df82de7b5d0123ac46cc8e298086",
+      "crc32": "ca9e20f1",
+      "sha1": "736e8da43caf320f4e2c577c335e00f43916d09c",
+      "format": "JSON"
+    },
+    {
+      "name": "eastbaytimes-2022-08-08T04:25:15.515846-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "eastbaytimes-2022-08-08T04:25:15.515846-07:00.jpg",
+      "mtime": "1659957999",
+      "size": "9354",
+      "md5": "8fecd7cf107be7f6c64f6e37d853a046",
+      "crc32": "10bc7683",
+      "sha1": "c1d973c26bad6c0300c550be31f8993c2a29eb92"
+    },
+    {
       "name": "eastbaytimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4ba02eebb5b9783204bc6ecf6dc877e80e6d5e4a",
-      "mtime": "1659919886",
-      "size": "218442",
-      "md5": "4870c50df791c171d794ba3fc793eaed",
-      "crc32": "e27c9541",
-      "sha1": "8caa1b6ed30f226decc814a08f5b412c1de93a62",
+      "btih": "3134b91d0c903d323db236e8bf221ee891d95e24",
+      "mtime": "1659958010",
+      "size": "219733",
+      "md5": "c3f7c61f47c03c7041d36cfd8e48f469",
+      "crc32": "b596ddf1",
+      "sha1": "030300c2caafd702f09a3b675ec8c592d444825b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "eastbaytimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dec47411a1f923fd2cdb8ecc00236ff8",
+      "md5": "652471e6de600b49613b6e5deedca4b7",
       "summation": "md5"
     },
     {
       "name": "eastbaytimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659919731",
-      "size": "1183744",
-      "md5": "33eac1069cb52206983abb44c3af60e0",
-      "crc32": "54e9d8f4",
-      "sha1": "ad6684a57ffd1cb3b4cd5110646aa7d41f5e41e4",
+      "mtime": "1659957937",
+      "size": "1187840",
+      "md5": "7bc66123a6044fdc816f2c2d28b2aeca",
+      "crc32": "6edb7302",
+      "sha1": "5eafd75be6081f6bf023c9b2c8117841af5af3b3",
       "format": "Metadata"
     },
     {
@@ -10630,9 +10692,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1013,
-  "item_last_updated": 1659919886,
-  "item_size": 99470510,
+  "files_count": 1019,
+  "item_last_updated": 1659958010,
+  "item_size": 99901453,
   "metadata": {
     "identifier": "eastbaytimes-2022",
     "collection": [
@@ -10650,7 +10712,7 @@
     "addeddate": "2022-03-23 02:08:59"
   },
   "server": "ia902504.us.archive.org",
-  "uniq": 2083749596,
+  "uniq": 329399767,
   "workable_servers": [
     "ia902504.us.archive.org",
     "ia802504.us.archive.org"

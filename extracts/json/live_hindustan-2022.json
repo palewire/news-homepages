@@ -1,5 +1,5 @@
 {
-  "created": 1659920503,
+  "created": 1659962651,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/26/items/live_hindustan-2022",
@@ -1324,31 +1324,93 @@
       "sha1": "4c8e9801ea955194410d2e2da0b38b92a5a63b5a"
     },
     {
+      "name": "live_hindustan-2022-08-08T18:12:41.694827+05:30.accessibility.json",
+      "source": "original",
+      "mtime": "1659962568",
+      "size": "122400",
+      "md5": "84344e108aeeffdd89f65d5da8d955c5",
+      "crc32": "efd9879a",
+      "sha1": "c1d26b8f59b7a20de3845ed8ed384e57f973aa88",
+      "format": "JSON"
+    },
+    {
+      "name": "live_hindustan-2022-08-08T18:12:41.694827+05:30.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659962569",
+      "size": "132208",
+      "md5": "525255ef04eaa041686583e97484c525",
+      "crc32": "6885acea",
+      "sha1": "6b9a0823aad0d57b43734837467980b873e883bf",
+      "format": "JSON"
+    },
+    {
+      "name": "live_hindustan-2022-08-08T18:12:41.694827+05:30.jpg",
+      "source": "original",
+      "mtime": "1659962564",
+      "size": "360691",
+      "md5": "044c601a9d7813f0bff34bd782e85481",
+      "crc32": "87e3bb73",
+      "sha1": "475b8510414ac6858cb4f67667868abef086af1d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "live_hindustan-2022-08-08T18:12:41.694827+05:30.lighthouse.json",
+      "source": "original",
+      "mtime": "1659962571",
+      "size": "1522",
+      "md5": "0c35dd804b256f10298e0ee042acfb76",
+      "crc32": "37ebeaf2",
+      "sha1": "d950f9d4f664adef8cc4c6621cc27f70910de98f",
+      "format": "JSON"
+    },
+    {
+      "name": "live_hindustan-2022-08-08T18:12:41.694827+05:30.wayback.json",
+      "source": "original",
+      "mtime": "1659962573",
+      "size": "29225",
+      "md5": "a2d00d771aa6e92f1681f81d87efeef6",
+      "crc32": "dfa70ba3",
+      "sha1": "b43ed9967d718a5eccba322489f6b5c2c625eebb",
+      "format": "JSON"
+    },
+    {
+      "name": "live_hindustan-2022-08-08T18:12:41.694827+05:30_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "live_hindustan-2022-08-08T18:12:41.694827+05:30.jpg",
+      "mtime": "1659962634",
+      "size": "10916",
+      "md5": "db8bb3bf3cd4500e4f33a6b5c95b7088",
+      "crc32": "6bf0908e",
+      "sha1": "2197da70ccebf3729400231d28c0125f691b8585"
+    },
+    {
       "name": "live_hindustan-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d54c293e4d71a02147bea9d285f8aba115e49c27",
-      "mtime": "1659920491",
-      "size": "29252",
-      "md5": "da03d9200aa6325dacb1ac51e8627cc4",
-      "crc32": "9f68e621",
-      "sha1": "f5183262f6888f019e722cd4edaecc947c01566d",
+      "btih": "7f694d71224120c665c971653f9ca81794c33ffe",
+      "mtime": "1659962639",
+      "size": "30558",
+      "md5": "67355ba76db9a354fd4fef0dd0960435",
+      "crc32": "74b940d1",
+      "sha1": "1bf802734445d9ddaad3d5d3f7ec2b8b2633f091",
       "format": "Archive BitTorrent"
     },
     {
       "name": "live_hindustan-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d0d5e36bf28dcb2a8574164b1b1632ee",
+      "md5": "4685c46fc7b6c61ad67cd54b5286170b",
       "summation": "md5"
     },
     {
       "name": "live_hindustan-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659920403",
-      "size": "180224",
-      "md5": "c0d8f5e5a5396b3fcc35aa37768db433",
-      "crc32": "b87d5c22",
-      "sha1": "2a1c10473c3e30d8bf69b946a14dd671cde7cf4f",
+      "mtime": "1659962577",
+      "size": "188416",
+      "md5": "50a5f4431158eae875933ac3cb22dc06",
+      "crc32": "3be4e450",
+      "sha1": "2e8d387e22ca5ed9ef81904d57916d751fd63bf9",
       "format": "Metadata"
     },
     {
@@ -1362,9 +1424,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 131,
-  "item_last_updated": 1659920491,
-  "item_size": 15025328,
+  "files_count": 137,
+  "item_last_updated": 1659962639,
+  "item_size": 15691788,
   "metadata": {
     "identifier": "live_hindustan-2022",
     "collection": [
@@ -1381,10 +1443,10 @@
     "publicdate": "2022-07-27 17:18:19",
     "addeddate": "2022-07-27 17:18:19"
   },
-  "server": "ia902503.us.archive.org",
-  "uniq": 1704051521,
+  "server": "ia802503.us.archive.org",
+  "uniq": 244146109,
   "workable_servers": [
-    "ia902503.us.archive.org",
-    "ia802503.us.archive.org"
+    "ia802503.us.archive.org",
+    "ia902503.us.archive.org"
   ]
 }

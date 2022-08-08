@@ -1,5 +1,5 @@
 {
-  "created": 1659906168,
+  "created": 1659963532,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/15/items/tiftongazette1-2022",
@@ -1774,31 +1774,73 @@
       "sha1": "02f8fe53ad6a94bca780806b440facde14e02b8e"
     },
     {
+      "name": "tiftongazette1-2022-08-07T22:36:42.761379-04:00.jpg",
+      "source": "original",
+      "mtime": "1659926204",
+      "size": "311396",
+      "md5": "4bf9253b3e1976f3fc04ec05825b362d",
+      "crc32": "4dc92bea",
+      "sha1": "59cd352b1b2338182d4d2f058cad0b2a4431c087",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tiftongazette1-2022-08-07T22:36:42.761379-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659926205",
+      "size": "1522",
+      "md5": "1fddff8cc8c3118f1ca42c3fba37eb14",
+      "crc32": "571879fc",
+      "sha1": "238de17a685fd3cdbc08a6440969302a7bc431c9",
+      "format": "JSON"
+    },
+    {
+      "name": "tiftongazette1-2022-08-07T22:36:42.761379-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659926207",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "tiftongazette1-2022-08-07T22:36:42.761379-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tiftongazette1-2022-08-07T22:36:42.761379-04:00.jpg",
+      "mtime": "1659926257",
+      "size": "9687",
+      "md5": "a5c3b8e38a8fd196c45eaef069996338",
+      "crc32": "07a3f509",
+      "sha1": "70bcbacaf33556fe39ab85180e5679672e35ca53"
+    },
+    {
       "name": "tiftongazette1-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b3cae6596b32176223a63a42482b992b93e0ccf7",
-      "mtime": "1659881360",
-      "size": "38032",
-      "md5": "02fa4c247e759118465572ad84a67579",
-      "crc32": "a8ed98eb",
-      "sha1": "01ba16b2780235f11af2e0ebe600814816a23dc6",
+      "btih": "5008cc99aa062f3f7bc83d6b6b1fe9f677c44d51",
+      "mtime": "1659926263",
+      "size": "38896",
+      "md5": "cf4c5355ea8763bef897907a547ddb32",
+      "crc32": "3e53c6d2",
+      "sha1": "99dfc97dc68d426a68c4af8274e45ce5a3432b80",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tiftongazette1-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "162ac4feb3b51efc569edf132131e5a3",
+      "md5": "f31551f27ec4400e3b9b4b5396bda6d3",
       "summation": "md5"
     },
     {
       "name": "tiftongazette1-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659881309",
-      "size": "221184",
-      "md5": "567f3145f7817a7ebacf884867aa31bb",
-      "crc32": "264ced12",
-      "sha1": "bea2bca46f63f3f3c355aa1a92a6c881b1e001b6",
+      "mtime": "1659926212",
+      "size": "225280",
+      "md5": "f465c3d9eba30a54ece54f83e327336d",
+      "crc32": "f03fd3d6",
+      "sha1": "8cf9a08d4cf79cf6f6a1268897ea99683dec4658",
       "format": "Metadata"
     },
     {
@@ -1812,9 +1854,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 173,
-  "item_last_updated": 1659881360,
-  "item_size": 15230558,
+  "files_count": 177,
+  "item_last_updated": 1659926263,
+  "item_size": 15558325,
   "metadata": {
     "identifier": "tiftongazette1-2022",
     "collection": [
@@ -1831,10 +1873,15 @@
     "publicdate": "2022-07-20 23:31:20",
     "addeddate": "2022-07-20 23:31:20"
   },
-  "server": "ia902506.us.archive.org",
-  "uniq": 36350176,
+  "server": "ia802506.us.archive.org",
+  "tiftongazette1-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 168936734,
   "workable_servers": [
-    "ia902506.us.archive.org",
-    "ia802506.us.archive.org"
+    "ia802506.us.archive.org",
+    "ia902506.us.archive.org"
   ]
 }

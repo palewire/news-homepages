@@ -1,5 +1,5 @@
 {
-  "created": 1659891972,
+  "created": 1659963271,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/32/items/semafor-2022",
@@ -4690,31 +4690,93 @@
       "sha1": "721a04d1e53df220f69c97bdab6aac68e54949f2"
     },
     {
+      "name": "semafor-2022-08-08T01:23:59.244130-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659936243",
+      "size": "1020",
+      "md5": "577508857464d73a19f2f805c724958e",
+      "crc32": "a9747920",
+      "sha1": "097623954df12053c9f7e536c51b9fcc49f4e4d4",
+      "format": "JSON"
+    },
+    {
+      "name": "semafor-2022-08-08T01:23:59.244130-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659936245",
+      "size": "265",
+      "md5": "6763f1a03b3561a39c526971954daaab",
+      "crc32": "2503c8f5",
+      "sha1": "c29fc228db4980a7cec3785feb557e014c389d05",
+      "format": "JSON"
+    },
+    {
+      "name": "semafor-2022-08-08T01:23:59.244130-04:00.jpg",
+      "source": "original",
+      "mtime": "1659936242",
+      "size": "120591",
+      "md5": "5c9d411dade13929df7e85d5e49fb085",
+      "crc32": "e6df942b",
+      "sha1": "075994d434a88b0c075369088542199a6c756dbb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "semafor-2022-08-08T01:23:59.244130-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659936246",
+      "size": "1440",
+      "md5": "fbd58873253f96d785e6c56eec3925ab",
+      "crc32": "d3c583fb",
+      "sha1": "f4a5ba125fe4c323cb8cdae961a68fb4e2c3f141",
+      "format": "JSON"
+    },
+    {
+      "name": "semafor-2022-08-08T01:23:59.244130-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659936248",
+      "size": "5892",
+      "md5": "bc81daca2ac3530b529317c7a0e3dd83",
+      "crc32": "7d57a057",
+      "sha1": "76ca961d97faad914419ad3e7843aad593245580",
+      "format": "JSON"
+    },
+    {
+      "name": "semafor-2022-08-08T01:23:59.244130-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "semafor-2022-08-08T01:23:59.244130-04:00.jpg",
+      "mtime": "1659936308",
+      "size": "7540",
+      "md5": "fe167ed44d93763a75e61ded6291d529",
+      "crc32": "e2209472",
+      "sha1": "721a04d1e53df220f69c97bdab6aac68e54949f2"
+    },
+    {
       "name": "semafor-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c1922bacc9cb91037f9071e35b512e6c5054ae4f",
-      "mtime": "1659891965",
-      "size": "94123",
-      "md5": "31953f9426726597eb51e14e8beef4f2",
-      "crc32": "74413f49",
-      "sha1": "7ac2e3f56e0f8e77f33bc8d30a1190092088fe22",
+      "btih": "53ca63c2838456a5362b7d12ce3e7b7b08b070f9",
+      "mtime": "1659936313",
+      "size": "95360",
+      "md5": "aebc2ef327ccfb3f2a20816fce975e86",
+      "crc32": "c8a0426f",
+      "sha1": "bd0589377c9fad5b7194a5b3300f0ffeda11651f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "semafor-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8005b8b6d7fcd146554e0b6a80a3061d",
+      "md5": "5984e26464c6142f25c6a0c7a970104f",
       "summation": "md5"
     },
     {
       "name": "semafor-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659891907",
-      "size": "544768",
-      "md5": "c0ba350038bd39ff26867e9c9e2d3acb",
-      "crc32": "c2c098b0",
-      "sha1": "06163df261a5d768ef7d1298155a6403c0b2cc88",
+      "mtime": "1659936251",
+      "size": "552960",
+      "md5": "2fe0c3286f796c5f566f8aedbeff3f73",
+      "crc32": "43b6a9f1",
+      "sha1": "9644e251505e5d4baa8ca002f6a9114a0e696e00",
       "format": "Metadata"
     },
     {
@@ -4728,9 +4790,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 452,
-  "item_last_updated": 1659891965,
-  "item_size": 14003614,
+  "files_count": 458,
+  "item_last_updated": 1659936313,
+  "item_size": 14149791,
   "metadata": {
     "identifier": "semafor-2022",
     "collection": [
@@ -4747,8 +4809,67 @@
     "publicdate": "2022-06-24 23:02:08",
     "addeddate": "2022-06-24 23:02:08"
   },
+  "semafor-2022": {
+    "url": "https://www.semafor.com/",
+    "job_id": "spn2-576ad7a72449dd224e54e238c3ee60ae6021c680",
+    "status": "success",
+    "counters": {
+      "embeds": 38,
+      "outlinks": 4
+    },
+    "resources": [
+      "https://www.semafor.com/",
+      "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4027331421239624",
+      "https://www.semafor.com/_next/static/css/149a567cd34f9442.css",
+      "https://www.semafor.com/_next/static/chunks/webpack-6d3a1171a6f9879d.js",
+      "https://www.semafor.com/_next/static/chunks/framework-4556c45dd113b893.js",
+      "https://www.semafor.com/_next/static/chunks/main-aff9f5cd95c9bd16.js",
+      "https://static.ads-twitter.com/uwt.js",
+      "https://www.semafor.com/_next/static/chunks/pages/_app-f4a7f2fe444047e7.js",
+      "https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202208020101/show_ads_impl_fy2019.js?bust=31068758",
+      "https://www.semafor.com/_next/static/media/semafor-logo.fa9d2381.svg",
+      "https://www.semafor.com/_next/static/chunks/327-b0fd9c8953fbddfa.js",
+      "https://www.semafor.com/images/poster.jpg",
+      "https://www.semafor.com/_next/static/chunks/pages/index-de0e36914733f065.js",
+      "https://googleads.g.doubleclick.net/pagead/html/r20220803/r20190131/zrt_lookup.html",
+      "https://fonts.gstatic.com/s/rubik/v21/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4iFV0UzdYPFkZVO.woff",
+      "https://www.semafor.com/_next/static/media/FeatureFlatText-Regular.41496320.otf",
+      "https://www.semafor.com/_next/static/media/FeatureFlatDisp-Regular.705f8c73.otf",
+      "https://www.semafor.com/_next/static/m1YyBL07ZOMoDXcn0LLbL/_buildManifest.js",
+      "https://www.semafor.com/_next/static/m1YyBL07ZOMoDXcn0LLbL/_ssgManifest.js",
+      "https://t.co/i/adsct?bci=3&eci=2&event_id=485b4104-45b8-4fd6-a86c-d4f141e9b120&events=[[\"pageview\",{}]]&p_id=Twitter&p_user_id=0&pl_id=53c47a4d-635a-43e0-8f7e-4c218149b5e7&tw_document_href=https://www.semafor.com/&tw_iframe_status=0&tw_order_quantity=0&tw_sale_amount=0&txn_id=o95w8&type=javascript&version=2.3.26",
+      "https://3b03fd5b-054a-48f3-a5bc-75231ffcd249.app.try-snowplow.com/v3/try.js",
+      "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-4027331421239624&output=html&adk=1812271804&adf=3025194257&lmt=1659642769&plat=9:32768,16:8388608,17:32,24:32,25:32,30:1048576,32:32&format=0x0&url=https://www.semafor.com/&ea=0&pra=5&wgl=1&dt=1659934634244&bpp=11&bdt=275&idt=549&shv=r20220803&mjsv=m202208020101&ptt=9&saldr=aa&abxe=1&nras=1&correlator=2632441423617&frm=20&pv=2&ga_vid=787725930.1659934635&ga_sid=1659934635&ga_hid=1953669628&ga_fc=0&u_tz=0&u_his=50&u_h=1000&u_w=1600&u_ah=1000&u_aw=1600&u_cd=24&u_sd=1&dmc=8&adx=-12245933&ady=-12245933&biw=1040&bih=8324&scr_x=0&scr_y=0&eid=44759875,44759926,44759837,44763505,44761792,31068758,42531605&oid=2&pvsid=887661566088426&tmod=1339143856&uas=0&nvt=1&eae=2&fc=1920&brdim=10,10,10,10,1600,0,1100,900,1040,8324&vis=1&rsz=||s|&abl=NS&fu=32768&bc=31&ifi=1&uci=a!1&fsb=1&dtd=648",
+      "https://partner.googleadservices.com/gampad/cookie.js?domain=www.semafor.com&callback=_gfp_s_&client=ca-pub-4027331421239624&gpid_exp=1",
+      "https://adservice.google.com/adsid/integrator.js?domain=www.semafor.com",
+      "https://cdn.segment.com/analytics.js/v1/UW7ALZCxqMpAONr5eaXpNzBhtqzRBmcs/analytics.min.js",
+      "https://www.semafor.com/_next/static/chunks/pages/meet-the-team-004d9f884e3828a6.js",
+      "https://www.semafor.com/_next/static/chunks/pages/about-us-3bd6bc028c16cae6.js",
+      "https://www.semafor.com/_next/static/chunks/pages/about-us-3bd6bc028c16cae6.js",
+      "https://cdn.segment.com/v1/projects/UW7ALZCxqMpAONr5eaXpNzBhtqzRBmcs/settings",
+      "https://www.semafor.com/_next/static/chunks/pages/meet-the-team-004d9f884e3828a6.js",
+      "https://api.segment.io/v1/p",
+      "https://firebasestorage.googleapis.com/v0/b/semafor-stage.appspot.com/o/web.mp4?alt=media&token=c89302d9-125b-4841-9d50-33de26836525",
+      "https://pagead2.googlesyndication.com/getconfig/sodar?sv=200&tid=gda&tv=r20220803&st=env",
+      "https://www.semafor.com/favicon.ico",
+      "https://tpc.googlesyndication.com/sodar/sodar2.js",
+      "https://www.google.com/recaptcha/api2/aframe",
+      "https://tpc.googlesyndication.com/sodar/sodar2/225/runner.html",
+      "https://pagead2.googlesyndication.com/pagead/sodar?id=sodar2&v=225&t=2&li=gda_r20220803&jk=887661566088426&bg=!i4iliMzNAAZGjrx1Zo47ACkAdvg8WtwEtsEaq8ymO7_ar_4Y6Vg8_O5jYz5dRXugujAaicX-vpkdTAIAAAHQUgAAAAloAQcKALi3heK0SA3kw_Y3tey0lxLY9wIbkJKtdskhpUmuDeEpAmHxdHgq3Vrniw-As_TGPQarxBi64SIsq4HCOnntx00160ijfgzNboDR2HwJWq2ghM9jvkN6jWmFo1lef7imJhSKrMgNsUUdzqS6BuNMZOk7Dyj6gifRWk4y8_4zKFnfLrhOrUMQaBjujmDJhmTra7UexAK751aVJdD09gHNMNkxY6gT_K159rRS8Ayy0eaXXVNM-BQsl2QEmQKiZZ_0e1qzK8pGYdQ_4jLtuZPGRXeCSOpj3hkazVeLBiaEMBBrfc7zG4tIUQjuBidof01UV8DBqs4iLw1XRVch1P_FLY4PhSHYbQ6TD6fiQFqUsqwNZg4in1pFlRYJ3M6WpGrR6V0Gmkt5V_cfihmCz6q1h2gGOYf_duJY2KnAM0kpGkltv_JVVidCud-cTsTK60hRl1fvfBoos99tZe826RkXdPVGaXNdyhrArngYqqseUOimoqYMp49lscbnEWuMg0w7o2C0hfa32afLEJrA9ZuzB4EX68rTCjXadIya6OHlQlES5QpCoEA364UKovyiXNRgB9fpHjRfVV-82laRBLQJ2F6zNivRIu2cB9XPqC7mFcO59tI2MI3AL-FBwbE2djBLvQAatfNxb8syZilXGKPHDr-5S5X6iPyoKE6z4Pheo2wXehBzzLHW26xThzKR3MlIqcukL0i6Xe2YjNgV1rfPWi41zqptWOzyYR2xUR05u3jr2pN6-DSMxwiNSHmgWvbePGFJELQnzRiPR8CoU3U05w4wKkTf7lM-Z_9ieS7Xf7e928l15MyKKx36pUY-0xyscZWTbgTPnblYNRKGxnsD-HmqDDRvtbWR41Wn5VdLJRctQtg0JgI3k5fHVhq7luwWDY5SdnowNwSxAjxqtiCzFEHEp21dkkXB1U2orWTYUT38FheIAizOcODS4s9J8KFb-NxfsYQH03PO7qxbVc61BiYxwOJILI_a4VEFdiBQ9s_IKI6LSd9jesgl3jPVC0utepRiR6JCmiQtYMKyGDTCsWdjcQzuiwDueTfRsvcKygv3Te0Ob44O3gUy_qJjnlJrrSNLMwmgrDiDamt2VWLRrE-NDLm7gJhbacjGsGzhK2xJNsss0FHj42g9TSCMGz4"
+    ],
+    "http_status": 200,
+    "timestamp": "20220808045713",
+    "original_url": "https://www.semafor.com/",
+    "outlinks": [
+      "https://www.semafor.com/about-us",
+      "https://www.semafor.com/meet-the-team",
+      "https://www.semafor.com/privacy.html",
+      "https://boards.greenhouse.io/semafor"
+    ],
+    "duration_sec": 7.917
+  },
   "server": "ia801407.us.archive.org",
-  "uniq": 178612079,
+  "uniq": 645368537,
   "workable_servers": [
     "ia801407.us.archive.org",
     "ia601407.us.archive.org"

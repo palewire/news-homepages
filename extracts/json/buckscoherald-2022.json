@@ -1,5 +1,5 @@
 {
-  "created": 1659919536,
+  "created": 1659957725,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/12/items/buckscoherald-2022",
@@ -2926,31 +2926,93 @@
       "sha1": "441edbbf1d2d32fba84b5a95feb16dbe134044e2"
     },
     {
+      "name": "buckscoherald-2022-08-08T07:20:20.289979-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659957625",
+      "size": "41006",
+      "md5": "0ed557ec6a4ca3551dd28931e2f6f6d5",
+      "crc32": "8caa661f",
+      "sha1": "5e67f83fd2847289f2e88b104cb5a087150ce6f0",
+      "format": "JSON"
+    },
+    {
+      "name": "buckscoherald-2022-08-08T07:20:20.289979-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659957626",
+      "size": "51247",
+      "md5": "b89c1184d79575682939d369e7f34348",
+      "crc32": "e4a0d436",
+      "sha1": "6ad18bd41ae007c98f863b0b681eb3fe5d03e6d5",
+      "format": "JSON"
+    },
+    {
+      "name": "buckscoherald-2022-08-08T07:20:20.289979-04:00.jpg",
+      "source": "original",
+      "mtime": "1659957623",
+      "size": "230109",
+      "md5": "1e175b316e3954095737e4af5da69c5c",
+      "crc32": "db5dc8d2",
+      "sha1": "ca5508302aa694b18639d11bda4c38e128d58926",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "buckscoherald-2022-08-08T07:20:20.289979-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659957628",
+      "size": "1519",
+      "md5": "5de41f624fc6f577d64438f4084522a3",
+      "crc32": "beaa8a1a",
+      "sha1": "13e8dcd9ea116fc8dc8cd9c5cbe152fa8ec41bab",
+      "format": "JSON"
+    },
+    {
+      "name": "buckscoherald-2022-08-08T07:20:20.289979-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659957630",
+      "size": "41618",
+      "md5": "2ed517a64735b7d07057d070a423bc14",
+      "crc32": "e834fa36",
+      "sha1": "33f85e4326bbeb5adff1109da193f46f078e05c4",
+      "format": "JSON"
+    },
+    {
+      "name": "buckscoherald-2022-08-08T07:20:20.289979-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "buckscoherald-2022-08-08T07:20:20.289979-04:00.jpg",
+      "mtime": "1659957699",
+      "size": "8549",
+      "md5": "e17fa4334888abf83b7347b83da45f6a",
+      "crc32": "3d55f677",
+      "sha1": "f869c1174b93f5a0f3c0fee54cbf78fc02bd2a4f"
+    },
+    {
       "name": "buckscoherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "13e6936a7db80f661d252ccf1b6ae363c040fc22",
-      "mtime": "1659919521",
-      "size": "61914",
-      "md5": "0bff7a517bfad867c6c6bb6355bd2ac7",
-      "crc32": "b32c40b3",
-      "sha1": "539d2fa0a801fd76fd383f943ec4cdee9584cdb0",
+      "btih": "606d57e2681a7040909ddc907f2fd8f3408c831f",
+      "mtime": "1659957703",
+      "size": "63211",
+      "md5": "eb22b26c3516d8c045ce5775cce3406a",
+      "crc32": "d1643da8",
+      "sha1": "a2feca9708e913aeb1fe3364e8ec422a7b280e5b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "buckscoherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "68178e48173c11c48155fa79481da711",
+      "md5": "90f8b6d205e144d04984a18be48159e1",
       "summation": "md5"
     },
     {
       "name": "buckscoherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659919434",
-      "size": "356352",
-      "md5": "2b099dc0e31da0827fd6fd27f9740ea6",
-      "crc32": "0c473995",
-      "sha1": "5706ddb7fe36a83957285e440a3992f3d73ba799",
+      "mtime": "1659957634",
+      "size": "364544",
+      "md5": "e18db6f2eb13e013efb4650e8d116325",
+      "crc32": "00e831b8",
+      "sha1": "5589166e6e8ca996ee8ac31907dfef4f1c2fc871",
       "format": "Metadata"
     },
     {
@@ -2964,9 +3026,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 284,
-  "item_last_updated": 1659919521,
-  "item_size": 24374141,
+  "files_count": 290,
+  "item_last_updated": 1659957703,
+  "item_size": 24757678,
   "metadata": {
     "identifier": "buckscoherald-2022",
     "collection": [
@@ -2984,7 +3046,7 @@
     "addeddate": "2022-07-09 03:57:03"
   },
   "server": "ia902506.us.archive.org",
-  "uniq": 846764679,
+  "uniq": 660324612,
   "workable_servers": [
     "ia902506.us.archive.org",
     "ia802506.us.archive.org"
