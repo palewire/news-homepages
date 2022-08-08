@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 63 screenshots with the Internet Archive.
+The archiving routine has saved 64 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 63 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/joplinglobe-2022/joplinglobe-2022-08-08T07:38:05.182556-05:00.jpg">
+  <img src="https://archive.org/download/joplinglobe-2022/joplinglobe-2022-08-08T07:38:05.182556-05:00.jpg"
+     alt="Joplin Globe at 2022-08-08 07:38:08-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/joplinglobe-2022/joplinglobe-2022-08-08T07:38:05.182556-05:00.jpg">August 8 at 7:38 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/joplinglobe-2022/joplinglobe-2022-08-07T19:56:07.661867-05:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/joplinglobe-2022/joplinglobe-2022-08-02T07:20:06.854328-05:00.jpg">August 2 at 7:20 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/joplinglobe-2022/joplinglobe-2022-08-01T19:33:36.709765-05:00.jpg">
-  <img src="https://archive.org/download/joplinglobe-2022/joplinglobe-2022-08-01T19:33:36.709765-05:00.jpg"
-     alt="Joplin Globe at 2022-08-01 19:33:40-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/joplinglobe-2022/joplinglobe-2022-08-01T19:33:36.709765-05:00.jpg">August 1 at 7:33 PM</a></p>
 </div>
 
 </div>
@@ -434,7 +434,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 31 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 8 at 7:38 AM](https://archive.org/download/joplinglobe-2022/joplinglobe-2022-08-08T07:38:05.182556-05:00.lighthouse.json) |
 | [August 7 at 7:56 PM](https://archive.org/download/joplinglobe-2022/joplinglobe-2022-08-07T19:56:07.661867-05:00.lighthouse.json) |
 | [August 7 at 7:34 AM](https://archive.org/download/joplinglobe-2022/joplinglobe-2022-08-07T07:34:10.406049-05:00.lighthouse.json) |
 | [August 6 at 7:35 PM](https://archive.org/download/joplinglobe-2022/joplinglobe-2022-08-06T19:35:41.067886-05:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 4 at 8:39 PM](https://archive.org/download/joplinglobe-2022/joplinglobe-2022-08-04T20:39:50.148204-05:00.lighthouse.json) |
 | [August 4 at 7:29 AM](https://archive.org/download/joplinglobe-2022/joplinglobe-2022-08-04T07:29:17.484088-05:00.lighthouse.json) |
 | [August 3 at 7:39 PM](https://archive.org/download/joplinglobe-2022/joplinglobe-2022-08-03T19:39:21.426459-05:00.lighthouse.json) |
-| [August 3 at 7:47 AM](https://archive.org/download/joplinglobe-2022/joplinglobe-2022-08-03T07:47:12.396496-05:00.lighthouse.json) |
 
 
 

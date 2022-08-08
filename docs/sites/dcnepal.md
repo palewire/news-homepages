@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 29 screenshots with the Internet Archive.
+The archiving routine has saved 30 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-08-08T10:49:53.993863+05:45.jpg">
+  <img src="https://archive.org/download/dcnepal-2022/dcnepal-2022-08-08T10:49:53.993863+05:45.jpg"
+     alt="DC Nepal at 2022-08-08 10:49:55+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-08-08T10:49:53.993863+05:45.jpg">August 8 at 10:49 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-08-07T22:30:07.948647+05:45.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-08-02T20:34:54.560938+05:45.jpg">August 2 at 8:34 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-08-02T08:58:30.532100+05:45.jpg">
-  <img src="https://archive.org/download/dcnepal-2022/dcnepal-2022-08-02T08:58:30.532100+05:45.jpg"
-     alt="DC Nepal at 2022-08-02 08:58:32+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dcnepal-2022/dcnepal-2022-08-02T08:58:30.532100+05:45.jpg">August 2 at 8:58 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 29 hyperlink lists with the Internet Archive.
+The archiving routine has saved 30 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 8 at 10:49 AM](https://archive.org/download/dcnepal-2022/dcnepal-2022-08-08T10:49:53.993863+05:45.hyperlinks.json) |
 | [August 7 at 10:30 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-08-07T22:30:07.948647+05:45.hyperlinks.json) |
 | [August 7 at 9:04 AM](https://archive.org/download/dcnepal-2022/dcnepal-2022-08-07T09:04:01.236181+05:45.hyperlinks.json) |
 | [August 6 at 9:53 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-08-06T21:53:17.982086+05:45.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 4 at 9:02 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-08-04T21:02:45.774483+05:45.hyperlinks.json) |
 | [August 4 at 9:04 AM](https://archive.org/download/dcnepal-2022/dcnepal-2022-08-04T09:03:58.051012+05:45.hyperlinks.json) |
 | [August 3 at 10:38 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-08-03T22:38:25.426117+05:45.hyperlinks.json) |
-| [August 3 at 10:12 AM](https://archive.org/download/dcnepal-2022/dcnepal-2022-08-03T10:12:02.645961+05:45.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 29 accessibility trees with the Internet Archive.
+The archiving routine has saved 30 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 8 at 10:49 AM](https://archive.org/download/dcnepal-2022/dcnepal-2022-08-08T10:49:53.993863+05:45.accessibility.json) |
 | [August 7 at 10:30 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-08-07T22:30:07.948647+05:45.accessibility.json) |
 | [August 7 at 9:04 AM](https://archive.org/download/dcnepal-2022/dcnepal-2022-08-07T09:04:01.236181+05:45.accessibility.json) |
 | [August 6 at 9:53 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-08-06T21:53:17.982086+05:45.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [August 4 at 9:02 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-08-04T21:02:45.774483+05:45.accessibility.json) |
 | [August 4 at 9:04 AM](https://archive.org/download/dcnepal-2022/dcnepal-2022-08-04T09:03:58.051012+05:45.accessibility.json) |
 | [August 3 at 10:38 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-08-03T22:38:25.426117+05:45.accessibility.json) |
-| [August 3 at 10:12 AM](https://archive.org/download/dcnepal-2022/dcnepal-2022-08-03T10:12:02.645961+05:45.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 29 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 8 at 10:50 AM](https://archive.org/download/dcnepal-2022/dcnepal-2022-08-08T10:49:53.993863+05:45.lighthouse.json) |
 | [August 7 at 10:30 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-08-07T22:30:07.948647+05:45.lighthouse.json) |
 | [August 7 at 9:04 AM](https://archive.org/download/dcnepal-2022/dcnepal-2022-08-07T09:04:01.236181+05:45.lighthouse.json) |
 | [August 6 at 9:53 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-08-06T21:53:17.982086+05:45.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 4 at 9:02 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-08-04T21:02:45.774483+05:45.lighthouse.json) |
 | [August 4 at 9:04 AM](https://archive.org/download/dcnepal-2022/dcnepal-2022-08-04T09:03:58.051012+05:45.lighthouse.json) |
 | [August 3 at 10:38 PM](https://archive.org/download/dcnepal-2022/dcnepal-2022-08-03T22:38:25.426117+05:45.lighthouse.json) |
-| [August 3 at 10:12 AM](https://archive.org/download/dcnepal-2022/dcnepal-2022-08-03T10:12:02.645961+05:45.lighthouse.json) |
 
 
 

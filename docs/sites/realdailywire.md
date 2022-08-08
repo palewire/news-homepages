@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 246 screenshots with the Internet Archive.
+The archiving routine has saved 247 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 246 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-08-08T01:22:02.275221-04:00.jpg">
+  <img src="https://archive.org/download/realdailywire-2022/realdailywire-2022-08-08T01:22:02.275221-04:00.jpg"
+     alt="Daily Wire at 2022-08-08 01:22:19-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-08-08T01:22:02.275221-04:00.jpg">August 8 at 1:22 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-08-07T14:43:40.757524-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-08-04T13:00:22.063929-04:00.jpg">August 4 at 1:00 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-08-04T00:35:04.181996-04:00.jpg">
-  <img src="https://archive.org/download/realdailywire-2022/realdailywire-2022-08-04T00:35:04.181996-04:00.jpg"
-     alt="Daily Wire at 2022-08-04 00:35:05-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/realdailywire-2022/realdailywire-2022-08-04T00:35:04.181996-04:00.jpg">August 4 at 12:35 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 226 hyperlink lists with the Internet Archive.
+The archiving routine has saved 227 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 8 at 1:22 AM](https://archive.org/download/realdailywire-2022/realdailywire-2022-08-08T01:22:02.275221-04:00.hyperlinks.json) |
 | [August 7 at 2:43 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-08-07T14:43:40.757524-04:00.hyperlinks.json) |
 | [August 5 at 2:56 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-08-05T14:56:17.314305-04:00.hyperlinks.json) |
 | [August 5 at 1:53 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-08-05T13:53:05.137087-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 3 at 12:41 AM](https://archive.org/download/realdailywire-2022/realdailywire-2022-08-03T00:41:13.077928-04:00.hyperlinks.json) |
 | [August 2 at 12:17 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-08-02T12:17:05.960817-04:00.hyperlinks.json) |
 | [August 2 at 12:24 AM](https://archive.org/download/realdailywire-2022/realdailywire-2022-08-02T00:24:24.142170-04:00.hyperlinks.json) |
-| [August 1 at 2:39 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-08-01T14:39:05.380718-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 232 accessibility trees with the Internet Archive.
+The archiving routine has saved 233 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 8 at 1:22 AM](https://archive.org/download/realdailywire-2022/realdailywire-2022-08-08T01:22:02.275221-04:00.accessibility.json) |
 | [August 7 at 1:03 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-08-07T13:03:23.211747-04:00.accessibility.json) |
 | [August 7 at 12:41 AM](https://archive.org/download/realdailywire-2022/realdailywire-2022-08-07T00:41:36.841622-04:00.accessibility.json) |
 | [August 6 at 12:24 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-08-06T12:24:27.205058-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 4 at 2:44 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-08-04T14:44:52.431407-04:00.accessibility.json) |
 | [August 4 at 1:00 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-08-04T13:00:22.063929-04:00.accessibility.json) |
 | [August 4 at 12:35 AM](https://archive.org/download/realdailywire-2022/realdailywire-2022-08-04T00:35:04.181996-04:00.accessibility.json) |
-| [August 3 at 12:41 AM](https://archive.org/download/realdailywire-2022/realdailywire-2022-08-03T00:41:13.077928-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 45 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 46 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 8 at 1:22 AM](https://archive.org/download/realdailywire-2022/realdailywire-2022-08-08T01:22:02.275221-04:00.lighthouse.json) |
 | [August 7 at 2:43 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-08-07T14:43:40.757524-04:00.lighthouse.json) |
 | [August 7 at 1:03 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-08-07T13:03:23.211747-04:00.lighthouse.json) |
 | [August 7 at 12:41 AM](https://archive.org/download/realdailywire-2022/realdailywire-2022-08-07T00:41:36.841622-04:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 5 at 2:56 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-08-05T14:56:17.314305-04:00.lighthouse.json) |
 | [August 5 at 1:53 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-08-05T13:53:05.137087-04:00.lighthouse.json) |
 | [August 5 at 12:39 AM](https://archive.org/download/realdailywire-2022/realdailywire-2022-08-05T00:39:30.875700-04:00.lighthouse.json) |
-| [August 4 at 2:44 PM](https://archive.org/download/realdailywire-2022/realdailywire-2022-08-04T14:44:52.431407-04:00.lighthouse.json) |
 
 
 

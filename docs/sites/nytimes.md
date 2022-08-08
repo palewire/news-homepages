@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 878 screenshots with the Internet Archive.
+The archiving routine has saved 879 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 878 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nytimes-2022/nytimes-2022-08-08T01:18:12.211937-04:00.jpg">
+  <img src="https://archive.org/download/nytimes-2022/nytimes-2022-08-08T01:18:12.211937-04:00.jpg"
+     alt="New York Times at 2022-08-08 01:18:26-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-08-08T01:18:12.211937-04:00.jpg">August 8 at 1:18 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nytimes-2022/nytimes-2022-08-07T17:14:31.652997-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-08-05T10:01:20.177439-04:00.jpg">August 5 at 10:01 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nytimes-2022/nytimes-2022-08-05T00:36:55.119164-04:00.jpg">
-  <img src="https://archive.org/download/nytimes-2022/nytimes-2022-08-05T00:36:55.119164-04:00.jpg"
-     alt="New York Times at 2022-08-05 00:37:04-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-08-05T00:36:55.119164-04:00.jpg">August 5 at 12:37 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 818 hyperlink lists with the Internet Archive.
+The archiving routine has saved 819 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 8 at 1:18 AM](https://archive.org/download/nytimes-2022/nytimes-2022-08-08T01:18:12.211937-04:00.hyperlinks.json) |
 | [August 7 at 5:15 PM](https://archive.org/download/nytimes-2022/nytimes-2022-08-07T17:14:31.652997-04:00.hyperlinks.json) |
 | [August 7 at 12:59 PM](https://archive.org/download/nytimes-2022/nytimes-2022-08-07T12:59:27.333626-04:00.hyperlinks.json) |
 | [August 7 at 9:57 AM](https://archive.org/download/nytimes-2022/nytimes-2022-08-07T09:57:20.914340-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 6 at 9:48 AM](https://archive.org/download/nytimes-2022/nytimes-2022-08-06T09:48:19.171967-04:00.hyperlinks.json) |
 | [August 6 at 12:58 AM](https://archive.org/download/nytimes-2022/nytimes-2022-08-06T00:58:27.004441-04:00.hyperlinks.json) |
 | [August 5 at 5:15 PM](https://archive.org/download/nytimes-2022/nytimes-2022-08-05T17:14:57.936818-04:00.hyperlinks.json) |
-| [August 5 at 1:50 PM](https://archive.org/download/nytimes-2022/nytimes-2022-08-05T13:49:45.647006-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 822 accessibility trees with the Internet Archive.
+The archiving routine has saved 823 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 8 at 1:18 AM](https://archive.org/download/nytimes-2022/nytimes-2022-08-08T01:18:12.211937-04:00.accessibility.json) |
 | [August 7 at 5:14 PM](https://archive.org/download/nytimes-2022/nytimes-2022-08-07T17:14:31.652997-04:00.accessibility.json) |
 | [August 7 at 12:59 PM](https://archive.org/download/nytimes-2022/nytimes-2022-08-07T12:59:27.333626-04:00.accessibility.json) |
 | [August 7 at 9:57 AM](https://archive.org/download/nytimes-2022/nytimes-2022-08-07T09:57:20.914340-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 6 at 9:48 AM](https://archive.org/download/nytimes-2022/nytimes-2022-08-06T09:48:19.171967-04:00.accessibility.json) |
 | [August 6 at 12:58 AM](https://archive.org/download/nytimes-2022/nytimes-2022-08-06T00:58:27.004441-04:00.accessibility.json) |
 | [August 5 at 5:15 PM](https://archive.org/download/nytimes-2022/nytimes-2022-08-05T17:14:57.936818-04:00.accessibility.json) |
-| [August 5 at 1:50 PM](https://archive.org/download/nytimes-2022/nytimes-2022-08-05T13:49:45.647006-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 61 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 62 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 8 at 1:18 AM](https://archive.org/download/nytimes-2022/nytimes-2022-08-08T01:18:12.211937-04:00.lighthouse.json) |
 | [August 7 at 5:15 PM](https://archive.org/download/nytimes-2022/nytimes-2022-08-07T17:14:31.652997-04:00.lighthouse.json) |
 | [August 7 at 12:59 PM](https://archive.org/download/nytimes-2022/nytimes-2022-08-07T12:59:27.333626-04:00.lighthouse.json) |
 | [August 7 at 9:57 AM](https://archive.org/download/nytimes-2022/nytimes-2022-08-07T09:57:20.914340-04:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 6 at 9:48 AM](https://archive.org/download/nytimes-2022/nytimes-2022-08-06T09:48:19.171967-04:00.lighthouse.json) |
 | [August 6 at 12:58 AM](https://archive.org/download/nytimes-2022/nytimes-2022-08-06T00:58:27.004441-04:00.lighthouse.json) |
 | [August 5 at 5:15 PM](https://archive.org/download/nytimes-2022/nytimes-2022-08-05T17:14:57.936818-04:00.lighthouse.json) |
-| [August 5 at 1:50 PM](https://archive.org/download/nytimes-2022/nytimes-2022-08-05T13:49:45.647006-04:00.lighthouse.json) |
 
 
 

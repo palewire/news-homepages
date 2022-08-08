@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 43 screenshots with the Internet Archive.
+The archiving routine has saved 44 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 43 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kxan_news-2022/kxan_news-2022-08-08T07:41:25.378113-05:00.jpg">
+  <img src="https://archive.org/download/kxan_news-2022/kxan_news-2022-08-08T07:41:25.378113-05:00.jpg"
+     alt="KXAN at 2022-08-08 07:41:26-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kxan_news-2022/kxan_news-2022-08-08T07:41:25.378113-05:00.jpg">August 8 at 7:41 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kxan_news-2022/kxan_news-2022-08-07T19:58:10.325559-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kxan_news-2022/kxan_news-2022-08-02T19:36:08.680726-05:00.jpg">August 2 at 7:36 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kxan_news-2022/kxan_news-2022-08-02T07:21:24.014256-05:00.jpg">
-  <img src="https://archive.org/download/kxan_news-2022/kxan_news-2022-08-02T07:21:24.014256-05:00.jpg"
-     alt="KXAN at 2022-08-02 07:21:26-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kxan_news-2022/kxan_news-2022-08-02T07:21:24.014256-05:00.jpg">August 2 at 7:21 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 43 hyperlink lists with the Internet Archive.
+The archiving routine has saved 44 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 8 at 7:41 AM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-08T07:41:25.378113-05:00.hyperlinks.json) |
 | [August 7 at 7:58 PM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-07T19:58:10.325559-05:00.hyperlinks.json) |
 | [August 7 at 7:35 AM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-07T07:35:51.610150-05:00.hyperlinks.json) |
 | [August 6 at 7:38 PM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-06T19:37:56.501708-05:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 4 at 8:41 PM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-04T20:41:24.415076-05:00.hyperlinks.json) |
 | [August 4 at 7:31 AM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-04T07:31:35.920123-05:00.hyperlinks.json) |
 | [August 3 at 7:39 PM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-03T19:39:09.235870-05:00.hyperlinks.json) |
-| [August 3 at 7:49 AM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-03T07:48:57.185753-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 43 accessibility trees with the Internet Archive.
+The archiving routine has saved 44 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 8 at 7:41 AM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-08T07:41:25.378113-05:00.accessibility.json) |
 | [August 7 at 7:58 PM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-07T19:58:10.325559-05:00.accessibility.json) |
 | [August 7 at 7:35 AM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-07T07:35:51.610150-05:00.accessibility.json) |
 | [August 6 at 7:38 PM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-06T19:37:56.501708-05:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 4 at 8:41 PM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-04T20:41:24.415076-05:00.accessibility.json) |
 | [August 4 at 7:31 AM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-04T07:31:35.920123-05:00.accessibility.json) |
 | [August 3 at 7:39 PM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-03T19:39:09.235870-05:00.accessibility.json) |
-| [August 3 at 7:48 AM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-03T07:48:57.185753-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 31 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 8 at 7:41 AM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-08T07:41:25.378113-05:00.lighthouse.json) |
 | [August 7 at 7:58 PM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-07T19:58:10.325559-05:00.lighthouse.json) |
 | [August 7 at 7:35 AM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-07T07:35:51.610150-05:00.lighthouse.json) |
 | [August 6 at 7:38 PM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-06T19:37:56.501708-05:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 4 at 8:41 PM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-04T20:41:24.415076-05:00.lighthouse.json) |
 | [August 4 at 7:31 AM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-04T07:31:35.920123-05:00.lighthouse.json) |
 | [August 3 at 7:39 PM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-03T19:39:09.235870-05:00.lighthouse.json) |
-| [August 3 at 7:49 AM](https://archive.org/download/kxan_news-2022/kxan_news-2022-08-03T07:48:57.185753-05:00.lighthouse.json) |
 
 
 

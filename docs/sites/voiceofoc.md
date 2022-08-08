@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 89 screenshots with the Internet Archive.
+The archiving routine has saved 90 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 89 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-07T22:29:30.733953-07:00.jpg">
+  <img src="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-07T22:29:30.733953-07:00.jpg"
+     alt="Voice of OC at 2022-08-07 22:29:35-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-07T22:29:30.733953-07:00.jpg">August 7 at 10:29 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-07T11:42:09.427595-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-04T10:08:46.967916-07:00.jpg">August 4 at 10:08 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-03T21:41:30.568311-07:00.jpg">
-  <img src="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-03T21:41:30.568311-07:00.jpg"
-     alt="Voice of OC at 2022-08-03 21:41:32-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-03T21:41:30.568311-07:00.jpg">August 3 at 9:41 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 89 hyperlink lists with the Internet Archive.
+The archiving routine has saved 90 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 7 at 10:29 PM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-07T22:29:30.733953-07:00.hyperlinks.json) |
 | [August 7 at 11:42 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-07T11:42:09.427595-07:00.hyperlinks.json) |
 | [August 7 at 10:10 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-07T10:09:55.733089-07:00.hyperlinks.json) |
 | [August 6 at 9:48 PM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-06T21:47:51.251114-07:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 5 at 11:52 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-05T11:52:00.133813-07:00.hyperlinks.json) |
 | [August 5 at 11:02 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-05T11:02:52.089511-07:00.hyperlinks.json) |
 | [August 4 at 9:46 PM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-04T21:46:49.178131-07:00.hyperlinks.json) |
-| [August 4 at 11:43 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-04T11:43:43.468290-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 87 accessibility trees with the Internet Archive.
+The archiving routine has saved 88 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 7 at 10:29 PM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-07T22:29:30.733953-07:00.accessibility.json) |
 | [August 7 at 10:10 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-07T10:09:55.733089-07:00.accessibility.json) |
 | [August 6 at 9:47 PM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-06T21:47:51.251114-07:00.accessibility.json) |
 | [August 6 at 11:39 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-06T11:38:50.893466-07:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 5 at 11:02 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-05T11:02:52.089511-07:00.accessibility.json) |
 | [August 4 at 9:46 PM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-04T21:46:49.178131-07:00.accessibility.json) |
 | [August 4 at 11:43 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-04T11:43:43.468290-07:00.accessibility.json) |
-| [August 4 at 10:08 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-04T10:08:46.967916-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 45 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 46 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 7 at 10:29 PM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-07T22:29:30.733953-07:00.lighthouse.json) |
 | [August 7 at 11:42 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-07T11:42:09.427595-07:00.lighthouse.json) |
 | [August 7 at 10:10 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-07T10:09:55.733089-07:00.lighthouse.json) |
 | [August 6 at 9:48 PM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-06T21:47:51.251114-07:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 5 at 11:52 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-05T11:52:00.133813-07:00.lighthouse.json) |
 | [August 5 at 11:02 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-05T11:02:52.089511-07:00.lighthouse.json) |
 | [August 4 at 9:46 PM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-04T21:46:49.178131-07:00.lighthouse.json) |
-| [August 4 at 11:43 AM](https://archive.org/download/voiceofoc-2022/voiceofoc-2022-08-04T11:43:43.468290-07:00.lighthouse.json) |
 
 
 

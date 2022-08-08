@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 37 screenshots with the Internet Archive.
+The archiving routine has saved 38 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 37 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-08-08T07:28:04.891196-04:00.jpg">
+  <img src="https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-08-08T07:28:04.891196-04:00.jpg"
+     alt="Gainesville Sun at 2022-08-08 07:28:08-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-08-08T07:28:04.891196-04:00.jpg">August 8 at 7:28 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-08-07T20:51:54.342953-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-08-02T19:25:55.703108-04:00.jpg">August 2 at 7:25 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-08-02T08:17:20.325753-04:00.jpg">
-  <img src="https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-08-02T08:17:20.325753-04:00.jpg"
-     alt="Gainesville Sun at 2022-08-02 08:17:23-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-08-02T08:17:20.325753-04:00.jpg">August 2 at 8:17 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 36 hyperlink lists with the Internet Archive.
+The archiving routine has saved 37 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 8 at 7:28 AM](https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-08-08T07:28:04.891196-04:00.hyperlinks.json) |
 | [August 7 at 8:51 PM](https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-08-07T20:51:54.342953-04:00.hyperlinks.json) |
 | [August 7 at 8:29 AM](https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-08-07T08:29:44.741798-04:00.hyperlinks.json) |
 | [August 6 at 8:33 PM](https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-08-06T20:33:46.357905-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 4 at 7:37 PM](https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-08-04T19:37:07.587225-04:00.hyperlinks.json) |
 | [August 4 at 7:16 AM](https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-08-04T07:16:47.497844-04:00.hyperlinks.json) |
 | [August 3 at 7:26 PM](https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-08-03T19:26:14.062275-04:00.hyperlinks.json) |
-| [August 2 at 7:26 PM](https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-08-02T19:25:55.703108-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 36 accessibility trees with the Internet Archive.
+The archiving routine has saved 37 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 8 at 7:28 AM](https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-08-08T07:28:04.891196-04:00.accessibility.json) |
 | [August 7 at 8:51 PM](https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-08-07T20:51:54.342953-04:00.accessibility.json) |
 | [August 7 at 8:29 AM](https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-08-07T08:29:44.741798-04:00.accessibility.json) |
 | [August 6 at 8:33 PM](https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-08-06T20:33:46.357905-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 4 at 7:37 PM](https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-08-04T19:37:07.587225-04:00.accessibility.json) |
 | [August 4 at 7:16 AM](https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-08-04T07:16:47.497844-04:00.accessibility.json) |
 | [August 3 at 7:26 PM](https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-08-03T19:26:14.062275-04:00.accessibility.json) |
-| [August 3 at 8:43 AM](https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-08-03T08:43:09.769591-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 31 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 8 at 7:28 AM](https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-08-08T07:28:04.891196-04:00.lighthouse.json) |
 | [August 7 at 8:52 PM](https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-08-07T20:51:54.342953-04:00.lighthouse.json) |
 | [August 7 at 8:29 AM](https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-08-07T08:29:44.741798-04:00.lighthouse.json) |
 | [August 6 at 8:33 PM](https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-08-06T20:33:46.357905-04:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 4 at 7:37 PM](https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-08-04T19:37:07.587225-04:00.lighthouse.json) |
 | [August 4 at 7:16 AM](https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-08-04T07:16:47.497844-04:00.lighthouse.json) |
 | [August 3 at 7:26 PM](https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-08-03T19:26:14.062275-04:00.lighthouse.json) |
-| [August 3 at 8:43 AM](https://archive.org/download/gainesvillesun-2022/gainesvillesun-2022-08-03T08:43:09.769591-04:00.lighthouse.json) |
 
 
 

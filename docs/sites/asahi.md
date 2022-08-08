@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 92 screenshots with the Internet Archive.
+The archiving routine has saved 94 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/asahi-2022/asahi-2022-08-08T12:51:37.096198+09:00.jpg">
+  <img src="https://archive.org/download/asahi-2022/asahi-2022-08-08T12:51:37.096198+09:00.jpg"
+     alt="Asahi Shimbun at 2022-08-08 12:51:38+09:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/asahi-2022/asahi-2022-08-08T12:51:37.096198+09:00.jpg">August 8 at 12:51 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/asahi-2022/asahi-2022-08-08T11:29:43.117488+09:00.jpg">
+  <img src="https://archive.org/download/asahi-2022/asahi-2022-08-08T11:29:43.117488+09:00.jpg"
+     alt="Asahi Shimbun at 2022-08-08 11:29:46+09:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/asahi-2022/asahi-2022-08-08T11:29:43.117488+09:00.jpg">August 8 at 11:29 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/asahi-2022/asahi-2022-08-07T23:00:25.386474+09:00.jpg">
   <img src="https://archive.org/download/asahi-2022/asahi-2022-08-07T23:00:25.386474+09:00.jpg"
      alt="Asahi Shimbun at 2022-08-07 23:00:27+09:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/asahi-2022/asahi-2022-08-05T10:53:45.824598+09:00.jpg">August 5 at 10:53 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/asahi-2022/asahi-2022-08-04T22:48:58.264732+09:00.jpg">
-  <img src="https://archive.org/download/asahi-2022/asahi-2022-08-04T22:48:58.264732+09:00.jpg"
-     alt="Asahi Shimbun at 2022-08-04 22:48:59+09:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/asahi-2022/asahi-2022-08-04T22:48:58.264732+09:00.jpg">August 4 at 10:48 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/asahi-2022/asahi-2022-08-04T12:15:07.542813+09:00.jpg">
-  <img src="https://archive.org/download/asahi-2022/asahi-2022-08-04T12:15:07.542813+09:00.jpg"
-     alt="Asahi Shimbun at 2022-08-04 12:15:09+09:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/asahi-2022/asahi-2022-08-04T12:15:07.542813+09:00.jpg">August 4 at 12:15 PM</a></p>
 </div>
 
 </div>
@@ -328,7 +328,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 71 accessibility trees with the Internet Archive.
+The archiving routine has saved 73 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 8 at 12:51 PM](https://archive.org/download/asahi-2022/asahi-2022-08-08T12:51:37.096198+09:00.accessibility.json) |
+| [August 8 at 11:29 AM](https://archive.org/download/asahi-2022/asahi-2022-08-08T11:29:43.117488+09:00.accessibility.json) |
 | [August 6 at 10:50 PM](https://archive.org/download/asahi-2022/asahi-2022-08-06T22:50:09.301120+09:00.accessibility.json) |
 | [August 6 at 12:37 PM](https://archive.org/download/asahi-2022/asahi-2022-08-06T12:37:04.336157+09:00.accessibility.json) |
 | [August 6 at 2:42 AM](https://archive.org/download/asahi-2022/asahi-2022-08-06T02:42:36.494505+09:00.accessibility.json) |
@@ -427,14 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 5 at 10:53 AM](https://archive.org/download/asahi-2022/asahi-2022-08-05T10:53:45.824598+09:00.accessibility.json) |
 | [August 4 at 10:49 PM](https://archive.org/download/asahi-2022/asahi-2022-08-04T22:48:58.264732+09:00.accessibility.json) |
 | [August 3 at 12:14 PM](https://archive.org/download/asahi-2022/asahi-2022-08-03T12:14:20.576386+09:00.accessibility.json) |
-| [August 3 at 10:52 AM](https://archive.org/download/asahi-2022/asahi-2022-08-03T10:52:01.951197+09:00.accessibility.json) |
-| [August 2 at 10:38 PM](https://archive.org/download/asahi-2022/asahi-2022-08-02T22:38:39.204356+09:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 47 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 49 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 8 at 12:51 PM](https://archive.org/download/asahi-2022/asahi-2022-08-08T12:51:37.096198+09:00.lighthouse.json) |
+| [August 8 at 11:29 AM](https://archive.org/download/asahi-2022/asahi-2022-08-08T11:29:43.117488+09:00.lighthouse.json) |
 | [August 7 at 11:00 PM](https://archive.org/download/asahi-2022/asahi-2022-08-07T23:00:25.386474+09:00.lighthouse.json) |
 | [August 7 at 12:16 PM](https://archive.org/download/asahi-2022/asahi-2022-08-07T12:16:31.477551+09:00.lighthouse.json) |
 | [August 7 at 12:04 PM](https://archive.org/download/asahi-2022/asahi-2022-08-07T12:04:21.552211+09:00.lighthouse.json) |
@@ -533,8 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 6 at 11:17 AM](https://archive.org/download/asahi-2022/asahi-2022-08-06T11:17:44.830313+09:00.lighthouse.json) |
 | [August 6 at 2:42 AM](https://archive.org/download/asahi-2022/asahi-2022-08-06T02:42:36.494505+09:00.lighthouse.json) |
 | [August 5 at 11:05 PM](https://archive.org/download/asahi-2022/asahi-2022-08-05T23:05:32.630104+09:00.lighthouse.json) |
-| [August 5 at 12:10 PM](https://archive.org/download/asahi-2022/asahi-2022-08-05T12:10:51.858080+09:00.lighthouse.json) |
-| [August 5 at 10:53 AM](https://archive.org/download/asahi-2022/asahi-2022-08-05T10:53:45.824598+09:00.lighthouse.json) |
 
 
 

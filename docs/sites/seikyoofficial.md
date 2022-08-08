@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 91 screenshots with the Internet Archive.
+The archiving routine has saved 93 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-08-08T14:23:41.328033+09:00.jpg">
+  <img src="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-08-08T14:23:41.328033+09:00.jpg"
+     alt="Seikyo Shimbun at 2022-08-08 14:23:43+09:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-08-08T14:23:41.328033+09:00.jpg">August 8 at 2:23 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-08-08T12:51:56.514063+09:00.jpg">
+  <img src="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-08-08T12:51:56.514063+09:00.jpg"
+     alt="Seikyo Shimbun at 2022-08-08 12:51:57+09:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-08-08T12:51:56.514063+09:00.jpg">August 8 at 12:51 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-08-08T02:04:56.327602+09:00.jpg">
   <img src="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-08-08T02:04:56.327602+09:00.jpg"
      alt="Seikyo Shimbun at 2022-08-08 02:04:57+09:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-08-05T02:01:50.145619+09:00.jpg">August 5 at 2:02 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-08-04T13:36:38.683224+09:00.jpg">
-  <img src="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-08-04T13:36:38.683224+09:00.jpg"
-     alt="Seikyo Shimbun at 2022-08-04 13:36:40+09:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-08-04T13:36:38.683224+09:00.jpg">August 4 at 1:36 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-08-04T12:15:57.882044+09:00.jpg">
-  <img src="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-08-04T12:15:57.882044+09:00.jpg"
-     alt="Seikyo Shimbun at 2022-08-04 12:15:59+09:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-08-04T12:15:57.882044+09:00.jpg">August 4 at 12:15 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 91 hyperlink lists with the Internet Archive.
+The archiving routine has saved 93 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 8 at 2:23 PM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-08-08T14:23:41.328033+09:00.hyperlinks.json) |
+| [August 8 at 12:52 PM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-08-08T12:51:56.514063+09:00.hyperlinks.json) |
 | [August 8 at 2:05 AM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-08-08T02:04:56.327602+09:00.hyperlinks.json) |
 | [August 7 at 1:42 PM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-08-07T13:42:41.824430+09:00.hyperlinks.json) |
 | [August 7 at 12:17 PM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-08-07T12:17:07.434016+09:00.hyperlinks.json) |
@@ -322,13 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 6 at 12:37 PM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-08-06T12:37:10.711153+09:00.hyperlinks.json) |
 | [August 6 at 2:56 AM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-08-06T02:55:50.148172+09:00.hyperlinks.json) |
 | [August 5 at 1:41 PM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-08-05T13:40:58.906145+09:00.hyperlinks.json) |
-| [August 5 at 12:11 PM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-08-05T12:10:59.510002+09:00.hyperlinks.json) |
-| [August 5 at 2:02 AM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-08-05T02:01:50.145619+09:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 91 accessibility trees with the Internet Archive.
+The archiving routine has saved 93 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 8 at 2:23 PM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-08-08T14:23:41.328033+09:00.accessibility.json) |
+| [August 8 at 12:51 PM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-08-08T12:51:56.514063+09:00.accessibility.json) |
 | [August 8 at 2:04 AM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-08-08T02:04:56.327602+09:00.accessibility.json) |
 | [August 7 at 1:42 PM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-08-07T13:42:41.824430+09:00.accessibility.json) |
 | [August 7 at 12:17 PM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-08-07T12:17:07.434016+09:00.accessibility.json) |
@@ -427,14 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 6 at 12:37 PM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-08-06T12:37:10.711153+09:00.accessibility.json) |
 | [August 6 at 2:56 AM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-08-06T02:55:50.148172+09:00.accessibility.json) |
 | [August 5 at 1:41 PM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-08-05T13:40:58.906145+09:00.accessibility.json) |
-| [August 5 at 12:11 PM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-08-05T12:10:59.510002+09:00.accessibility.json) |
-| [August 5 at 2:02 AM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-08-05T02:01:50.145619+09:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 45 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 47 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 8 at 2:23 PM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-08-08T14:23:41.328033+09:00.lighthouse.json) |
+| [August 8 at 12:52 PM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-08-08T12:51:56.514063+09:00.lighthouse.json) |
 | [August 8 at 2:05 AM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-08-08T02:04:56.327602+09:00.lighthouse.json) |
 | [August 7 at 1:42 PM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-08-07T13:42:41.824430+09:00.lighthouse.json) |
 | [August 7 at 12:17 PM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-08-07T12:17:07.434016+09:00.lighthouse.json) |
@@ -533,8 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 6 at 12:37 PM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-08-06T12:37:10.711153+09:00.lighthouse.json) |
 | [August 6 at 2:56 AM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-08-06T02:55:50.148172+09:00.lighthouse.json) |
 | [August 5 at 1:41 PM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-08-05T13:40:58.906145+09:00.lighthouse.json) |
-| [August 5 at 12:11 PM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-08-05T12:10:59.510002+09:00.lighthouse.json) |
-| [August 5 at 2:02 AM](https://archive.org/download/seikyoofficial-2022/seikyoofficial-2022-08-05T02:01:50.145619+09:00.lighthouse.json) |
 
 
 

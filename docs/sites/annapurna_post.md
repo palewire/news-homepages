@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 28 screenshots with the Internet Archive.
+The archiving routine has saved 29 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-08T17:03:07.050457+05:45.jpg">
+  <img src="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-08T17:03:07.050457+05:45.jpg"
+     alt="Annapurna Post at 2022-08-08 17:03:09+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-08T17:03:07.050457+05:45.jpg">August 8 at 5:03 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-08T06:25:17.279755+05:45.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-03T05:02:26.481258+05:45.jpg">August 3 at 5:02 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-02T17:55:14.439402+05:45.jpg">
-  <img src="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-02T17:55:14.439402+05:45.jpg"
-     alt="Annapurna Post at 2022-08-02 17:55:15+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-02T17:55:14.439402+05:45.jpg">August 2 at 5:55 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 28 hyperlink lists with the Internet Archive.
+The archiving routine has saved 29 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 8 at 5:03 PM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-08T17:03:07.050457+05:45.hyperlinks.json) |
 | [August 8 at 6:25 AM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-08T06:25:17.279755+05:45.hyperlinks.json) |
 | [August 7 at 6:05 PM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-07T18:04:57.990016+05:45.hyperlinks.json) |
 | [August 7 at 6:08 AM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-07T06:08:15.951470+05:45.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 5 at 5:11 AM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-05T05:11:35.301279+05:45.hyperlinks.json) |
 | [August 4 at 4:54 PM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-04T16:53:59.061129+05:45.hyperlinks.json) |
 | [August 4 at 5:00 AM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-04T05:00:23.892667+05:45.hyperlinks.json) |
-| [August 3 at 6:18 PM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-03T18:18:42.439804+05:45.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 28 accessibility trees with the Internet Archive.
+The archiving routine has saved 29 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 8 at 5:03 PM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-08T17:03:07.050457+05:45.accessibility.json) |
 | [August 8 at 6:25 AM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-08T06:25:17.279755+05:45.accessibility.json) |
 | [August 7 at 6:05 PM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-07T18:04:57.990016+05:45.accessibility.json) |
 | [August 7 at 6:08 AM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-07T06:08:15.951470+05:45.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [August 5 at 5:11 AM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-05T05:11:35.301279+05:45.accessibility.json) |
 | [August 4 at 4:54 PM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-04T16:53:59.061129+05:45.accessibility.json) |
 | [August 4 at 5:00 AM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-04T05:00:23.892667+05:45.accessibility.json) |
-| [August 3 at 6:18 PM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-03T18:18:42.439804+05:45.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 29 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 8 at 5:03 PM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-08T17:03:07.050457+05:45.lighthouse.json) |
 | [August 8 at 6:25 AM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-08T06:25:17.279755+05:45.lighthouse.json) |
 | [August 7 at 6:05 PM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-07T18:04:57.990016+05:45.lighthouse.json) |
 | [August 7 at 6:08 AM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-07T06:08:15.951470+05:45.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 5 at 5:11 AM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-05T05:11:35.301279+05:45.lighthouse.json) |
 | [August 4 at 4:54 PM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-04T16:53:59.061129+05:45.lighthouse.json) |
 | [August 4 at 5:00 AM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-04T05:00:23.892667+05:45.lighthouse.json) |
-| [August 3 at 6:18 PM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-03T18:18:42.439804+05:45.lighthouse.json) |
 
 
 

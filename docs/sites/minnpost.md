@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 217 screenshots with the Internet Archive.
+The archiving routine has saved 218 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 217 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/minnpost-2022/minnpost-2022-08-08T07:43:21.283891-05:00.jpg">
+  <img src="https://archive.org/download/minnpost-2022/minnpost-2022-08-08T07:43:21.283891-05:00.jpg"
+     alt="MinnPost at 2022-08-08 07:43:25-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/minnpost-2022/minnpost-2022-08-08T07:43:21.283891-05:00.jpg">August 8 at 7:43 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/minnpost-2022/minnpost-2022-08-07T20:01:32.576045-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/minnpost-2022/minnpost-2022-08-02T19:37:37.974097-05:00.jpg">August 2 at 7:37 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/minnpost-2022/minnpost-2022-08-02T07:23:37.553833-05:00.jpg">
-  <img src="https://archive.org/download/minnpost-2022/minnpost-2022-08-02T07:23:37.553833-05:00.jpg"
-     alt="MinnPost at 2022-08-02 07:23:42-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/minnpost-2022/minnpost-2022-08-02T07:23:37.553833-05:00.jpg">August 2 at 7:23 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 216 hyperlink lists with the Internet Archive.
+The archiving routine has saved 217 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 8 at 7:43 AM](https://archive.org/download/minnpost-2022/minnpost-2022-08-08T07:43:21.283891-05:00.hyperlinks.json) |
 | [August 7 at 8:01 PM](https://archive.org/download/minnpost-2022/minnpost-2022-08-07T20:01:32.576045-05:00.hyperlinks.json) |
 | [August 7 at 7:38 AM](https://archive.org/download/minnpost-2022/minnpost-2022-08-07T07:38:32.554785-05:00.hyperlinks.json) |
 | [August 6 at 7:40 PM](https://archive.org/download/minnpost-2022/minnpost-2022-08-06T19:40:23.171678-05:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 4 at 8:44 PM](https://archive.org/download/minnpost-2022/minnpost-2022-08-04T20:44:04.405830-05:00.hyperlinks.json) |
 | [August 4 at 7:35 AM](https://archive.org/download/minnpost-2022/minnpost-2022-08-04T07:35:04.337203-05:00.hyperlinks.json) |
 | [August 3 at 7:41 PM](https://archive.org/download/minnpost-2022/minnpost-2022-08-03T19:41:27.734457-05:00.hyperlinks.json) |
-| [August 3 at 7:51 AM](https://archive.org/download/minnpost-2022/minnpost-2022-08-03T07:51:13.234344-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 217 accessibility trees with the Internet Archive.
+The archiving routine has saved 218 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 8 at 7:43 AM](https://archive.org/download/minnpost-2022/minnpost-2022-08-08T07:43:21.283891-05:00.accessibility.json) |
 | [August 7 at 8:01 PM](https://archive.org/download/minnpost-2022/minnpost-2022-08-07T20:01:32.576045-05:00.accessibility.json) |
 | [August 7 at 7:38 AM](https://archive.org/download/minnpost-2022/minnpost-2022-08-07T07:38:32.554785-05:00.accessibility.json) |
 | [August 6 at 7:40 PM](https://archive.org/download/minnpost-2022/minnpost-2022-08-06T19:40:23.171678-05:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 4 at 8:44 PM](https://archive.org/download/minnpost-2022/minnpost-2022-08-04T20:44:04.405830-05:00.accessibility.json) |
 | [August 4 at 7:35 AM](https://archive.org/download/minnpost-2022/minnpost-2022-08-04T07:35:04.337203-05:00.accessibility.json) |
 | [August 3 at 7:41 PM](https://archive.org/download/minnpost-2022/minnpost-2022-08-03T19:41:27.734457-05:00.accessibility.json) |
-| [August 3 at 7:51 AM](https://archive.org/download/minnpost-2022/minnpost-2022-08-03T07:51:13.234344-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 31 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 8 at 7:43 AM](https://archive.org/download/minnpost-2022/minnpost-2022-08-08T07:43:21.283891-05:00.lighthouse.json) |
 | [August 7 at 8:01 PM](https://archive.org/download/minnpost-2022/minnpost-2022-08-07T20:01:32.576045-05:00.lighthouse.json) |
 | [August 7 at 7:38 AM](https://archive.org/download/minnpost-2022/minnpost-2022-08-07T07:38:32.554785-05:00.lighthouse.json) |
 | [August 6 at 7:40 PM](https://archive.org/download/minnpost-2022/minnpost-2022-08-06T19:40:23.171678-05:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 4 at 8:44 PM](https://archive.org/download/minnpost-2022/minnpost-2022-08-04T20:44:04.405830-05:00.lighthouse.json) |
 | [August 4 at 7:35 AM](https://archive.org/download/minnpost-2022/minnpost-2022-08-04T07:35:04.337203-05:00.lighthouse.json) |
 | [August 3 at 7:41 PM](https://archive.org/download/minnpost-2022/minnpost-2022-08-03T19:41:27.734457-05:00.lighthouse.json) |
-| [August 3 at 7:51 AM](https://archive.org/download/minnpost-2022/minnpost-2022-08-03T07:51:13.234344-05:00.lighthouse.json) |
 
 
 

@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 5 screenshots with the Internet Archive.
+The archiving routine has saved 7 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/privateeyenews-2022/privateeyenews-2022-08-08T13:49:32.193000+01:00.jpg">
+  <img src="https://archive.org/download/privateeyenews-2022/privateeyenews-2022-08-08T13:49:32.193000+01:00.jpg"
+     alt="Private Eye at 2022-08-08 13:49:34+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/privateeyenews-2022/privateeyenews-2022-08-08T13:49:32.193000+01:00.jpg">August 8 at 1:49 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/privateeyenews-2022/privateeyenews-2022-08-08T02:06:36.061559+01:00.jpg">
+  <img src="https://archive.org/download/privateeyenews-2022/privateeyenews-2022-08-08T02:06:36.061559+01:00.jpg"
+     alt="Private Eye at 2022-08-08 02:06:38+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/privateeyenews-2022/privateeyenews-2022-08-08T02:06:36.061559+01:00.jpg">August 8 at 2:06 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/privateeyenews-2022/privateeyenews-2022-08-07T13:44:39.706062+01:00.jpg">
@@ -77,7 +95,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 5 hyperlink lists with the Internet Archive.
+The archiving routine has saved 7 hyperlink lists with the Internet Archive.
 
 
 
@@ -85,6 +103,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 8 at 1:49 PM](https://archive.org/download/privateeyenews-2022/privateeyenews-2022-08-08T13:49:32.193000+01:00.hyperlinks.json) |
+| [August 8 at 2:06 AM](https://archive.org/download/privateeyenews-2022/privateeyenews-2022-08-08T02:06:36.061559+01:00.hyperlinks.json) |
 | [August 7 at 1:44 PM](https://archive.org/download/privateeyenews-2022/privateeyenews-2022-08-07T13:44:39.706062+01:00.hyperlinks.json) |
 | [August 7 at 1:45 AM](https://archive.org/download/privateeyenews-2022/privateeyenews-2022-08-07T01:45:32.354849+01:00.hyperlinks.json) |
 | [August 6 at 1:35 PM](https://archive.org/download/privateeyenews-2022/privateeyenews-2022-08-06T13:35:08.066079+01:00.hyperlinks.json) |
@@ -94,7 +114,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 5 accessibility trees with the Internet Archive.
+The archiving routine has saved 7 accessibility trees with the Internet Archive.
 
 
 
@@ -102,6 +122,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 8 at 1:49 PM](https://archive.org/download/privateeyenews-2022/privateeyenews-2022-08-08T13:49:32.193000+01:00.accessibility.json) |
+| [August 8 at 2:06 AM](https://archive.org/download/privateeyenews-2022/privateeyenews-2022-08-08T02:06:36.061559+01:00.accessibility.json) |
 | [August 7 at 1:44 PM](https://archive.org/download/privateeyenews-2022/privateeyenews-2022-08-07T13:44:39.706062+01:00.accessibility.json) |
 | [August 7 at 1:45 AM](https://archive.org/download/privateeyenews-2022/privateeyenews-2022-08-07T01:45:32.354849+01:00.accessibility.json) |
 | [August 6 at 1:35 PM](https://archive.org/download/privateeyenews-2022/privateeyenews-2022-08-06T13:35:08.066079+01:00.accessibility.json) |
@@ -112,7 +134,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 5 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 7 Lighthouse audits with the Internet Archive.
 
 
 
@@ -120,6 +142,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 8 at 1:49 PM](https://archive.org/download/privateeyenews-2022/privateeyenews-2022-08-08T13:49:32.193000+01:00.lighthouse.json) |
+| [August 8 at 2:06 AM](https://archive.org/download/privateeyenews-2022/privateeyenews-2022-08-08T02:06:36.061559+01:00.lighthouse.json) |
 | [August 7 at 1:44 PM](https://archive.org/download/privateeyenews-2022/privateeyenews-2022-08-07T13:44:39.706062+01:00.lighthouse.json) |
 | [August 7 at 1:45 AM](https://archive.org/download/privateeyenews-2022/privateeyenews-2022-08-07T01:45:32.354849+01:00.lighthouse.json) |
 | [August 6 at 1:35 PM](https://archive.org/download/privateeyenews-2022/privateeyenews-2022-08-06T13:35:08.066079+01:00.lighthouse.json) |

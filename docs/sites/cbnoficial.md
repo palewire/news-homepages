@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 2 screenshots with the Internet Archive.
+The archiving routine has saved 3 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-08T08:21:20.233988-03:00.jpg">
+  <img src="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-08T08:21:20.233988-03:00.jpg"
+     alt="Rádio CBN at 2022-08-08 08:21:21-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-08T08:21:20.233988-03:00.jpg">August 8 at 8:21 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-07T21:44:14.959263-03:00.jpg">
@@ -63,7 +72,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 2 accessibility trees with the Internet Archive.
+The archiving routine has saved 3 accessibility trees with the Internet Archive.
 
 
 
@@ -71,6 +80,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 8 at 8:21 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-08T08:21:20.233988-03:00.accessibility.json) |
 | [August 7 at 9:44 PM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-07T21:44:14.959263-03:00.accessibility.json) |
 | [August 7 at 4:42 PM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-07T16:42:04.642859-03:00.accessibility.json) |
 
@@ -78,7 +88,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 2 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 3 Lighthouse audits with the Internet Archive.
 
 
 
@@ -86,6 +96,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 8 at 8:21 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-08T08:21:20.233988-03:00.lighthouse.json) |
 | [August 7 at 9:44 PM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-07T21:44:14.959263-03:00.lighthouse.json) |
 | [August 7 at 4:42 PM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-07T16:42:04.642859-03:00.lighthouse.json) |
 

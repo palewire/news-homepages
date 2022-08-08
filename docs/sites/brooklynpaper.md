@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 11 screenshots with the Internet Archive.
+The archiving routine has saved 12 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/brooklynpaper-2022/brooklynpaper-2022-08-07T22:29:53.619482-04:00.jpg">
+  <img src="https://archive.org/download/brooklynpaper-2022/brooklynpaper-2022-08-07T22:29:53.619482-04:00.jpg"
+     alt="Brooklyn Paper at 2022-08-07 22:29:54-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/brooklynpaper-2022/brooklynpaper-2022-08-07T22:29:53.619482-04:00.jpg">August 7 at 10:29 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/brooklynpaper-2022/brooklynpaper-2022-08-07T10:02:55.374553-04:00.jpg">
@@ -131,7 +140,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 11 hyperlink lists with the Internet Archive.
+The archiving routine has saved 12 hyperlink lists with the Internet Archive.
 
 
 
@@ -139,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 7 at 10:29 PM](https://archive.org/download/brooklynpaper-2022/brooklynpaper-2022-08-07T22:29:53.619482-04:00.hyperlinks.json) |
 | [August 7 at 10:02 AM](https://archive.org/download/brooklynpaper-2022/brooklynpaper-2022-08-07T10:02:55.374553-04:00.hyperlinks.json) |
 | [August 6 at 11:06 PM](https://archive.org/download/brooklynpaper-2022/brooklynpaper-2022-08-06T23:06:28.399775-04:00.hyperlinks.json) |
 | [August 6 at 9:52 AM](https://archive.org/download/brooklynpaper-2022/brooklynpaper-2022-08-06T09:52:35.061755-04:00.hyperlinks.json) |
@@ -148,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 4 at 9:55 PM](https://archive.org/download/brooklynpaper-2022/brooklynpaper-2022-08-04T21:55:19.150637-04:00.hyperlinks.json) |
 | [August 4 at 9:51 AM](https://archive.org/download/brooklynpaper-2022/brooklynpaper-2022-08-04T09:51:43.254212-04:00.hyperlinks.json) |
 | [August 3 at 11:05 PM](https://archive.org/download/brooklynpaper-2022/brooklynpaper-2022-08-03T23:05:27.041661-04:00.hyperlinks.json) |
-| [August 3 at 10:26 AM](https://archive.org/download/brooklynpaper-2022/brooklynpaper-2022-08-03T10:26:09.252369-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 11 accessibility trees with the Internet Archive.
+The archiving routine has saved 12 accessibility trees with the Internet Archive.
 
 
 
@@ -161,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 7 at 10:29 PM](https://archive.org/download/brooklynpaper-2022/brooklynpaper-2022-08-07T22:29:53.619482-04:00.accessibility.json) |
 | [August 7 at 10:02 AM](https://archive.org/download/brooklynpaper-2022/brooklynpaper-2022-08-07T10:02:55.374553-04:00.accessibility.json) |
 | [August 6 at 11:06 PM](https://archive.org/download/brooklynpaper-2022/brooklynpaper-2022-08-06T23:06:28.399775-04:00.accessibility.json) |
 | [August 6 at 9:52 AM](https://archive.org/download/brooklynpaper-2022/brooklynpaper-2022-08-06T09:52:35.061755-04:00.accessibility.json) |
@@ -170,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [August 4 at 9:55 PM](https://archive.org/download/brooklynpaper-2022/brooklynpaper-2022-08-04T21:55:19.150637-04:00.accessibility.json) |
 | [August 4 at 9:51 AM](https://archive.org/download/brooklynpaper-2022/brooklynpaper-2022-08-04T09:51:43.254212-04:00.accessibility.json) |
 | [August 3 at 11:05 PM](https://archive.org/download/brooklynpaper-2022/brooklynpaper-2022-08-03T23:05:27.041661-04:00.accessibility.json) |
-| [August 3 at 10:26 AM](https://archive.org/download/brooklynpaper-2022/brooklynpaper-2022-08-03T10:26:09.252369-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 12 Lighthouse audits with the Internet Archive.
 
 
 
@@ -184,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 7 at 10:29 PM](https://archive.org/download/brooklynpaper-2022/brooklynpaper-2022-08-07T22:29:53.619482-04:00.lighthouse.json) |
 | [August 7 at 10:03 AM](https://archive.org/download/brooklynpaper-2022/brooklynpaper-2022-08-07T10:02:55.374553-04:00.lighthouse.json) |
 | [August 6 at 11:06 PM](https://archive.org/download/brooklynpaper-2022/brooklynpaper-2022-08-06T23:06:28.399775-04:00.lighthouse.json) |
 | [August 6 at 9:52 AM](https://archive.org/download/brooklynpaper-2022/brooklynpaper-2022-08-06T09:52:35.061755-04:00.lighthouse.json) |
@@ -193,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 4 at 9:55 PM](https://archive.org/download/brooklynpaper-2022/brooklynpaper-2022-08-04T21:55:19.150637-04:00.lighthouse.json) |
 | [August 4 at 9:51 AM](https://archive.org/download/brooklynpaper-2022/brooklynpaper-2022-08-04T09:51:43.254212-04:00.lighthouse.json) |
 | [August 3 at 11:05 PM](https://archive.org/download/brooklynpaper-2022/brooklynpaper-2022-08-03T23:05:27.041661-04:00.lighthouse.json) |
-| [August 3 at 10:26 AM](https://archive.org/download/brooklynpaper-2022/brooklynpaper-2022-08-03T10:26:09.252369-04:00.lighthouse.json) |
 
 
 

@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 14 screenshots with the Internet Archive.
+The archiving routine has saved 15 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/courierjournal-2022/courierjournal-2022-08-07T22:32:00.509845-04:00.jpg">
+  <img src="https://archive.org/download/courierjournal-2022/courierjournal-2022-08-07T22:32:00.509845-04:00.jpg"
+     alt="Louisville Courier-Journal at 2022-08-07 22:32:01-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/courierjournal-2022/courierjournal-2022-08-07T22:32:00.509845-04:00.jpg">August 7 at 10:32 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/courierjournal-2022/courierjournal-2022-08-07T10:04:24.005219-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/courierjournal-2022/courierjournal-2022-08-02T21:55:06.110840-04:00.jpg">August 2 at 9:55 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/courierjournal-2022/courierjournal-2022-08-02T09:41:56.116763-04:00.jpg">
-  <img src="https://archive.org/download/courierjournal-2022/courierjournal-2022-08-02T09:41:56.116763-04:00.jpg"
-     alt="Louisville Courier-Journal at 2022-08-02 09:41:57-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/courierjournal-2022/courierjournal-2022-08-02T09:41:56.116763-04:00.jpg">August 2 at 9:41 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 15 hyperlink lists with the Internet Archive.
+The archiving routine has saved 16 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 7 at 10:32 PM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-07T22:32:00.509845-04:00.hyperlinks.json) |
 | [August 7 at 10:04 AM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-07T10:04:24.005219-04:00.hyperlinks.json) |
 | [August 6 at 11:08 PM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-06T23:08:18.326374-04:00.hyperlinks.json) |
 | [August 6 at 9:54 AM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-06T09:54:21.008348-04:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 4 at 9:56 PM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-04T21:56:54.397228-04:00.hyperlinks.json) |
 | [August 4 at 9:53 AM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-04T09:53:32.533502-04:00.hyperlinks.json) |
 | [August 3 at 11:07 PM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-03T23:07:43.808361-04:00.hyperlinks.json) |
-| [August 3 at 10:28 AM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-03T10:28:10.303981-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 15 accessibility trees with the Internet Archive.
+The archiving routine has saved 16 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 7 at 10:32 PM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-07T22:32:00.509845-04:00.accessibility.json) |
 | [August 7 at 10:04 AM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-07T10:04:24.005219-04:00.accessibility.json) |
 | [August 6 at 11:08 PM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-06T23:08:18.326374-04:00.accessibility.json) |
 | [August 6 at 9:54 AM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-06T09:54:21.008348-04:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [August 4 at 9:56 PM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-04T21:56:54.397228-04:00.accessibility.json) |
 | [August 4 at 9:53 AM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-04T09:53:32.533502-04:00.accessibility.json) |
 | [August 3 at 11:07 PM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-03T23:07:43.808361-04:00.accessibility.json) |
-| [August 3 at 10:28 AM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-03T10:28:10.303981-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 15 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 16 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 7 at 10:32 PM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-07T22:32:00.509845-04:00.lighthouse.json) |
 | [August 7 at 10:04 AM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-07T10:04:24.005219-04:00.lighthouse.json) |
 | [August 6 at 11:08 PM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-06T23:08:18.326374-04:00.lighthouse.json) |
 | [August 6 at 9:54 AM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-06T09:54:21.008348-04:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 4 at 9:56 PM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-04T21:56:54.397228-04:00.lighthouse.json) |
 | [August 4 at 9:53 AM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-04T09:53:32.533502-04:00.lighthouse.json) |
 | [August 3 at 11:07 PM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-03T23:07:43.808361-04:00.lighthouse.json) |
-| [August 3 at 10:28 AM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-03T10:28:10.303981-04:00.lighthouse.json) |
 
 
 

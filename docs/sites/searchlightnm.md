@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 126 screenshots with the Internet Archive.
+The archiving routine has saved 128 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-08T06:51:31.992663-06:00.jpg">
+  <img src="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-08T06:51:31.992663-06:00.jpg"
+     alt="Searchlight New Mexico at 2022-08-08 06:51:35-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-08T06:51:31.992663-06:00.jpg">August 8 at 6:51 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-07T19:10:10.252141-06:00.jpg">
+  <img src="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-07T19:10:10.252141-06:00.jpg"
+     alt="Searchlight New Mexico at 2022-08-07 19:10:11-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-07T19:10:10.252141-06:00.jpg">August 7 at 7:10 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-07T06:46:58.198615-06:00.jpg">
   <img src="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-07T06:46:58.198615-06:00.jpg"
      alt="Searchlight New Mexico at 2022-08-07 06:47:00-06:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-02T18:44:10.347295-06:00.jpg">August 2 at 6:44 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-02T06:28:59.775509-06:00.jpg">
-  <img src="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-02T06:28:59.775509-06:00.jpg"
-     alt="Searchlight New Mexico at 2022-08-02 06:29:01-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-02T06:28:59.775509-06:00.jpg">August 2 at 6:29 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-01T18:44:19.060871-06:00.jpg">
-  <img src="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-01T18:44:19.060871-06:00.jpg"
-     alt="Searchlight New Mexico at 2022-08-01 18:44:22-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-01T18:44:19.060871-06:00.jpg">August 1 at 6:44 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 126 hyperlink lists with the Internet Archive.
+The archiving routine has saved 128 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 8 at 6:51 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-08T06:51:31.992663-06:00.hyperlinks.json) |
+| [August 7 at 7:10 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-07T19:10:10.252141-06:00.hyperlinks.json) |
 | [August 7 at 6:47 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-07T06:46:58.198615-06:00.hyperlinks.json) |
 | [August 6 at 6:48 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-06T18:48:16.920167-06:00.hyperlinks.json) |
 | [August 6 at 6:38 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-06T06:38:17.077840-06:00.hyperlinks.json) |
@@ -322,13 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 4 at 7:50 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-04T19:50:01.237746-06:00.hyperlinks.json) |
 | [August 4 at 6:44 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-04T06:44:19.885844-06:00.hyperlinks.json) |
 | [August 3 at 6:49 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-03T18:48:59.791887-06:00.hyperlinks.json) |
-| [August 3 at 6:58 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-03T06:58:35.830152-06:00.hyperlinks.json) |
-| [August 2 at 6:44 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-02T18:44:10.347295-06:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 126 accessibility trees with the Internet Archive.
+The archiving routine has saved 128 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 8 at 6:51 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-08T06:51:31.992663-06:00.accessibility.json) |
+| [August 7 at 7:10 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-07T19:10:10.252141-06:00.accessibility.json) |
 | [August 7 at 6:47 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-07T06:46:58.198615-06:00.accessibility.json) |
 | [August 6 at 6:48 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-06T18:48:16.920167-06:00.accessibility.json) |
 | [August 6 at 6:38 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-06T06:38:17.077840-06:00.accessibility.json) |
@@ -427,21 +429,104 @@ Here are the 10 most recent accessibility trees.
 | [August 4 at 7:50 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-04T19:50:01.237746-06:00.accessibility.json) |
 | [August 4 at 6:44 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-04T06:44:19.885844-06:00.accessibility.json) |
 | [August 3 at 6:49 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-03T18:48:59.791887-06:00.accessibility.json) |
-| [August 3 at 6:58 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-03T06:58:35.830152-06:00.accessibility.json) |
-| [August 2 at 6:44 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-02T18:44:10.347295-06:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
 
+
+  <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specLighthouse = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/lighthouse/searchlightnm.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--lighthouse", specLighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 8 at 6:51 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-08T06:51:31.992663-06:00.lighthouse.json) |
+| [August 7 at 7:10 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-07T19:10:10.252141-06:00.lighthouse.json) |
 | [August 7 at 6:47 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-07T06:46:58.198615-06:00.lighthouse.json) |
 | [August 6 at 6:48 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-06T18:48:16.920167-06:00.lighthouse.json) |
 | [August 6 at 6:38 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-06T06:38:17.077840-06:00.lighthouse.json) |
@@ -450,8 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 4 at 6:44 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-04T06:44:19.885844-06:00.lighthouse.json) |
 | [August 3 at 6:49 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-03T18:48:59.791887-06:00.lighthouse.json) |
 | [August 3 at 6:58 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-03T06:58:35.830152-06:00.lighthouse.json) |
-| [August 2 at 6:44 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-02T18:44:10.347295-06:00.lighthouse.json) |
-| [August 2 at 6:29 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-02T06:28:59.775509-06:00.lighthouse.json) |
 
 
 

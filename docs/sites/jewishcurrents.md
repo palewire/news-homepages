@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 60 screenshots with the Internet Archive.
+The archiving routine has saved 61 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 60 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-08T08:38:31.118060-04:00.jpg">
+  <img src="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-08T08:38:31.118060-04:00.jpg"
+     alt="Jewish Currents at 2022-08-08 08:38:33-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-08T08:38:31.118060-04:00.jpg">August 8 at 8:38 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-07T20:56:06.427199-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-02T20:33:19.601001-04:00.jpg">August 2 at 8:33 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-02T08:19:30.584762-04:00.jpg">
-  <img src="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-02T08:19:30.584762-04:00.jpg"
-     alt="Jewish Currents at 2022-08-02 08:19:32-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-02T08:19:30.584762-04:00.jpg">August 2 at 8:19 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 60 hyperlink lists with the Internet Archive.
+The archiving routine has saved 61 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 8 at 8:38 AM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-08T08:38:31.118060-04:00.hyperlinks.json) |
 | [August 7 at 8:56 PM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-07T20:56:06.427199-04:00.hyperlinks.json) |
 | [August 7 at 8:33 AM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-07T08:33:01.006286-04:00.hyperlinks.json) |
 | [August 6 at 8:35 PM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-06T20:35:25.697573-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 4 at 9:39 PM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-04T21:39:26.339585-04:00.hyperlinks.json) |
 | [August 4 at 8:29 AM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-04T08:29:42.093535-04:00.hyperlinks.json) |
 | [August 3 at 8:37 PM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-03T20:36:48.032399-04:00.hyperlinks.json) |
-| [August 3 at 8:46 AM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-03T08:45:59.674611-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 60 accessibility trees with the Internet Archive.
+The archiving routine has saved 61 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 8 at 8:38 AM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-08T08:38:31.118060-04:00.accessibility.json) |
 | [August 7 at 8:56 PM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-07T20:56:06.427199-04:00.accessibility.json) |
 | [August 7 at 8:33 AM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-07T08:33:01.006286-04:00.accessibility.json) |
 | [August 6 at 8:35 PM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-06T20:35:25.697573-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 4 at 9:39 PM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-04T21:39:26.339585-04:00.accessibility.json) |
 | [August 4 at 8:29 AM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-04T08:29:42.093535-04:00.accessibility.json) |
 | [August 3 at 8:37 PM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-03T20:36:48.032399-04:00.accessibility.json) |
-| [August 3 at 8:46 AM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-03T08:45:59.674611-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 31 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 8 at 8:38 AM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-08T08:38:31.118060-04:00.lighthouse.json) |
 | [August 7 at 8:56 PM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-07T20:56:06.427199-04:00.lighthouse.json) |
 | [August 7 at 8:33 AM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-07T08:33:01.006286-04:00.lighthouse.json) |
 | [August 6 at 8:35 PM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-06T20:35:25.697573-04:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 4 at 9:39 PM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-04T21:39:26.339585-04:00.lighthouse.json) |
 | [August 4 at 8:29 AM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-04T08:29:42.093535-04:00.lighthouse.json) |
 | [August 3 at 8:37 PM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-03T20:36:48.032399-04:00.lighthouse.json) |
-| [August 3 at 8:46 AM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-03T08:45:59.674611-04:00.lighthouse.json) |
 
 
 

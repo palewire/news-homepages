@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 216 screenshots with the Internet Archive.
+The archiving routine has saved 217 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 216 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-08-07T23:27:37.931045-06:00.jpg">
+  <img src="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-08-07T23:27:37.931045-06:00.jpg"
+     alt="Santa Fe New Mexican at 2022-08-07 23:27:42-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-08-07T23:27:37.931045-06:00.jpg">August 7 at 11:27 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-08-07T11:08:24.388599-06:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-08-02T10:22:25.527631-06:00.jpg">August 2 at 10:22 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-08-01T22:28:31.452267-06:00.jpg">
-  <img src="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-08-01T22:28:31.452267-06:00.jpg"
-     alt="Santa Fe New Mexican at 2022-08-01 22:28:32-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thenewmexican-2022/thenewmexican-2022-08-01T22:28:31.452267-06:00.jpg">August 1 at 10:28 PM</a></p>
 </div>
 
 </div>
@@ -328,7 +328,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 198 accessibility trees with the Internet Archive.
+The archiving routine has saved 199 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 7 at 11:27 PM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-08-07T23:27:37.931045-06:00.accessibility.json) |
 | [August 7 at 11:08 AM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-08-07T11:08:24.388599-06:00.accessibility.json) |
 | [August 6 at 10:46 PM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-08-06T22:46:15.413626-06:00.accessibility.json) |
 | [August 5 at 11:07 PM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-08-05T23:07:47.054193-06:00.accessibility.json) |
@@ -428,20 +429,103 @@ Here are the 10 most recent accessibility trees.
 | [August 1 at 10:28 PM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-08-01T22:28:31.452267-06:00.accessibility.json) |
 | [July 31 at 10:01 PM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-31T22:00:59.441731-06:00.accessibility.json) |
 | [July 31 at 9:57 AM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-31T09:57:31.338419-06:00.accessibility.json) |
-| [July 30 at 10:09 PM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-07-30T22:09:47.674114-06:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 31 Lighthouse audits with the Internet Archive.
 
+
+  <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specLighthouse = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/lighthouse/thenewmexican.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--lighthouse", specLighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 7 at 11:27 PM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-08-07T23:27:37.931045-06:00.lighthouse.json) |
 | [August 7 at 11:08 AM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-08-07T11:08:24.388599-06:00.lighthouse.json) |
 | [August 6 at 10:46 PM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-08-06T22:46:15.413626-06:00.lighthouse.json) |
 | [August 6 at 10:28 AM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-08-06T10:28:45.710523-06:00.lighthouse.json) |
@@ -451,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 4 at 11:06 AM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-08-04T11:06:10.948400-06:00.lighthouse.json) |
 | [August 3 at 10:40 PM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-08-03T22:39:58.909898-06:00.lighthouse.json) |
 | [August 3 at 11:14 AM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-08-03T11:14:39.551008-06:00.lighthouse.json) |
-| [August 2 at 10:46 PM](https://archive.org/download/thenewmexican-2022/thenewmexican-2022-08-02T22:46:43.753527-06:00.lighthouse.json) |
 
 
 

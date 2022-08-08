@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 5 screenshots with the Internet Archive.
+The archiving routine has saved 7 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-08-08T08:50:13.245959-04:00.jpg">
+  <img src="https://archive.org/download/realclearnews-2022/realclearnews-2022-08-08T08:50:13.245959-04:00.jpg"
+     alt="Real Clear Politics at 2022-08-08 08:50:14-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-08-08T08:50:13.245959-04:00.jpg">August 8 at 8:50 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-08-07T21:08:15.503585-04:00.jpg">
+  <img src="https://archive.org/download/realclearnews-2022/realclearnews-2022-08-07T21:08:15.503585-04:00.jpg"
+     alt="Real Clear Politics at 2022-08-07 21:08:16-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-08-07T21:08:15.503585-04:00.jpg">August 7 at 9:08 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-08-07T08:44:51.296550-04:00.jpg">
@@ -77,7 +95,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 5 hyperlink lists with the Internet Archive.
+The archiving routine has saved 7 hyperlink lists with the Internet Archive.
 
 
 
@@ -85,6 +103,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 8 at 8:50 AM](https://archive.org/download/realclearnews-2022/realclearnews-2022-08-08T08:50:13.245959-04:00.hyperlinks.json) |
+| [August 7 at 9:08 PM](https://archive.org/download/realclearnews-2022/realclearnews-2022-08-07T21:08:15.503585-04:00.hyperlinks.json) |
 | [August 7 at 8:44 AM](https://archive.org/download/realclearnews-2022/realclearnews-2022-08-07T08:44:51.296550-04:00.hyperlinks.json) |
 | [August 6 at 8:46 PM](https://archive.org/download/realclearnews-2022/realclearnews-2022-08-06T20:46:18.010492-04:00.hyperlinks.json) |
 | [August 6 at 8:37 AM](https://archive.org/download/realclearnews-2022/realclearnews-2022-08-06T08:37:11.355546-04:00.hyperlinks.json) |
@@ -94,7 +114,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 5 accessibility trees with the Internet Archive.
+The archiving routine has saved 7 accessibility trees with the Internet Archive.
 
 
 
@@ -102,6 +122,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 8 at 8:50 AM](https://archive.org/download/realclearnews-2022/realclearnews-2022-08-08T08:50:13.245959-04:00.accessibility.json) |
+| [August 7 at 9:08 PM](https://archive.org/download/realclearnews-2022/realclearnews-2022-08-07T21:08:15.503585-04:00.accessibility.json) |
 | [August 7 at 8:44 AM](https://archive.org/download/realclearnews-2022/realclearnews-2022-08-07T08:44:51.296550-04:00.accessibility.json) |
 | [August 6 at 8:46 PM](https://archive.org/download/realclearnews-2022/realclearnews-2022-08-06T20:46:18.010492-04:00.accessibility.json) |
 | [August 6 at 8:37 AM](https://archive.org/download/realclearnews-2022/realclearnews-2022-08-06T08:37:11.355546-04:00.accessibility.json) |

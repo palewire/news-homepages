@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 11 screenshots with the Internet Archive.
+The archiving routine has saved 12 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/diariope-2022/diariope-2022-08-08T08:25:37.612659-03:00.jpg">
+  <img src="https://archive.org/download/diariope-2022/diariope-2022-08-08T08:25:37.612659-03:00.jpg"
+     alt="Diario de Pernambuco at 2022-08-08 08:25:39-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/diariope-2022/diariope-2022-08-08T08:25:37.612659-03:00.jpg">August 8 at 8:25 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/diariope-2022/diariope-2022-08-07T21:47:49.697821-03:00.jpg">
@@ -131,7 +140,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 11 hyperlink lists with the Internet Archive.
+The archiving routine has saved 12 hyperlink lists with the Internet Archive.
 
 
 
@@ -139,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 8 at 8:25 AM](https://archive.org/download/diariope-2022/diariope-2022-08-08T08:25:37.612659-03:00.hyperlinks.json) |
 | [August 7 at 9:47 PM](https://archive.org/download/diariope-2022/diariope-2022-08-07T21:47:49.697821-03:00.hyperlinks.json) |
 | [August 7 at 4:42 PM](https://archive.org/download/diariope-2022/diariope-2022-08-07T16:42:05.828289-03:00.hyperlinks.json) |
 | [August 7 at 9:26 AM](https://archive.org/download/diariope-2022/diariope-2022-08-07T09:26:28.449005-03:00.hyperlinks.json) |
@@ -148,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 5 at 9:26 AM](https://archive.org/download/diariope-2022/diariope-2022-08-05T09:26:11.338846-03:00.hyperlinks.json) |
 | [August 4 at 8:34 PM](https://archive.org/download/diariope-2022/diariope-2022-08-04T20:34:21.842374-03:00.hyperlinks.json) |
 | [August 4 at 6:18 PM](https://archive.org/download/diariope-2022/diariope-2022-08-04T18:18:50.023569-03:00.hyperlinks.json) |
-| [August 4 at 8:12 AM](https://archive.org/download/diariope-2022/diariope-2022-08-04T08:12:46.152161-03:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 11 accessibility trees with the Internet Archive.
+The archiving routine has saved 12 accessibility trees with the Internet Archive.
 
 
 
@@ -161,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 8 at 8:25 AM](https://archive.org/download/diariope-2022/diariope-2022-08-08T08:25:37.612659-03:00.accessibility.json) |
 | [August 7 at 9:47 PM](https://archive.org/download/diariope-2022/diariope-2022-08-07T21:47:49.697821-03:00.accessibility.json) |
 | [August 7 at 4:42 PM](https://archive.org/download/diariope-2022/diariope-2022-08-07T16:42:05.828289-03:00.accessibility.json) |
 | [August 7 at 9:26 AM](https://archive.org/download/diariope-2022/diariope-2022-08-07T09:26:28.449005-03:00.accessibility.json) |
@@ -170,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [August 5 at 9:26 AM](https://archive.org/download/diariope-2022/diariope-2022-08-05T09:26:11.338846-03:00.accessibility.json) |
 | [August 4 at 8:34 PM](https://archive.org/download/diariope-2022/diariope-2022-08-04T20:34:21.842374-03:00.accessibility.json) |
 | [August 4 at 6:18 PM](https://archive.org/download/diariope-2022/diariope-2022-08-04T18:18:50.023569-03:00.accessibility.json) |
-| [August 4 at 8:12 AM](https://archive.org/download/diariope-2022/diariope-2022-08-04T08:12:46.152161-03:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 12 Lighthouse audits with the Internet Archive.
 
 
 
@@ -184,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 8 at 8:25 AM](https://archive.org/download/diariope-2022/diariope-2022-08-08T08:25:37.612659-03:00.lighthouse.json) |
 | [August 7 at 9:47 PM](https://archive.org/download/diariope-2022/diariope-2022-08-07T21:47:49.697821-03:00.lighthouse.json) |
 | [August 7 at 4:42 PM](https://archive.org/download/diariope-2022/diariope-2022-08-07T16:42:05.828289-03:00.lighthouse.json) |
 | [August 7 at 9:26 AM](https://archive.org/download/diariope-2022/diariope-2022-08-07T09:26:28.449005-03:00.lighthouse.json) |
@@ -193,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 5 at 9:26 AM](https://archive.org/download/diariope-2022/diariope-2022-08-05T09:26:11.338846-03:00.lighthouse.json) |
 | [August 4 at 8:34 PM](https://archive.org/download/diariope-2022/diariope-2022-08-04T20:34:21.842374-03:00.lighthouse.json) |
 | [August 4 at 6:18 PM](https://archive.org/download/diariope-2022/diariope-2022-08-04T18:18:50.023569-03:00.lighthouse.json) |
-| [August 4 at 8:12 AM](https://archive.org/download/diariope-2022/diariope-2022-08-04T08:12:46.152161-03:00.lighthouse.json) |
 
 
 

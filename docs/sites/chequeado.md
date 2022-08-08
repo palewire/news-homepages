@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 127 screenshots with the Internet Archive.
+The archiving routine has saved 128 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 127 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/chequeado-2022/chequeado-2022-08-08T08:22:55.177865-03:00.jpg">
+  <img src="https://archive.org/download/chequeado-2022/chequeado-2022-08-08T08:22:55.177865-03:00.jpg"
+     alt="Chequeado at 2022-08-08 08:22:59-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chequeado-2022/chequeado-2022-08-08T08:22:55.177865-03:00.jpg">August 8 at 8:22 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chequeado-2022/chequeado-2022-08-07T21:44:54.338553-03:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/chequeado-2022/chequeado-2022-08-02T20:21:47.906510-03:00.jpg">August 2 at 8:21 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/chequeado-2022/chequeado-2022-08-02T09:12:49.439720-03:00.jpg">
-  <img src="https://archive.org/download/chequeado-2022/chequeado-2022-08-02T09:12:49.439720-03:00.jpg"
-     alt="Chequeado at 2022-08-02 09:12:54-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/chequeado-2022/chequeado-2022-08-02T09:12:49.439720-03:00.jpg">August 2 at 9:12 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 124 hyperlink lists with the Internet Archive.
+The archiving routine has saved 125 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 8 at 8:23 AM](https://archive.org/download/chequeado-2022/chequeado-2022-08-08T08:22:55.177865-03:00.hyperlinks.json) |
 | [August 7 at 9:44 PM](https://archive.org/download/chequeado-2022/chequeado-2022-08-07T21:44:54.338553-03:00.hyperlinks.json) |
 | [August 7 at 9:24 AM](https://archive.org/download/chequeado-2022/chequeado-2022-08-07T09:24:45.515471-03:00.hyperlinks.json) |
 | [August 6 at 9:27 PM](https://archive.org/download/chequeado-2022/chequeado-2022-08-06T21:27:21.716996-03:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 4 at 8:32 PM](https://archive.org/download/chequeado-2022/chequeado-2022-08-04T20:32:44.815794-03:00.hyperlinks.json) |
 | [August 4 at 8:12 AM](https://archive.org/download/chequeado-2022/chequeado-2022-08-04T08:12:04.430430-03:00.hyperlinks.json) |
 | [August 3 at 8:20 PM](https://archive.org/download/chequeado-2022/chequeado-2022-08-03T20:20:16.550691-03:00.hyperlinks.json) |
-| [August 2 at 8:21 PM](https://archive.org/download/chequeado-2022/chequeado-2022-08-02T20:21:47.906510-03:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 127 accessibility trees with the Internet Archive.
+The archiving routine has saved 128 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 8 at 8:23 AM](https://archive.org/download/chequeado-2022/chequeado-2022-08-08T08:22:55.177865-03:00.accessibility.json) |
 | [August 7 at 9:44 PM](https://archive.org/download/chequeado-2022/chequeado-2022-08-07T21:44:54.338553-03:00.accessibility.json) |
 | [August 7 at 9:24 AM](https://archive.org/download/chequeado-2022/chequeado-2022-08-07T09:24:45.515471-03:00.accessibility.json) |
 | [August 6 at 9:27 PM](https://archive.org/download/chequeado-2022/chequeado-2022-08-06T21:27:21.716996-03:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 4 at 8:32 PM](https://archive.org/download/chequeado-2022/chequeado-2022-08-04T20:32:44.815794-03:00.accessibility.json) |
 | [August 4 at 8:12 AM](https://archive.org/download/chequeado-2022/chequeado-2022-08-04T08:12:04.430430-03:00.accessibility.json) |
 | [August 3 at 8:20 PM](https://archive.org/download/chequeado-2022/chequeado-2022-08-03T20:20:16.550691-03:00.accessibility.json) |
-| [August 3 at 9:37 AM](https://archive.org/download/chequeado-2022/chequeado-2022-08-03T09:37:40.855473-03:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 26 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 8 at 8:23 AM](https://archive.org/download/chequeado-2022/chequeado-2022-08-08T08:22:55.177865-03:00.lighthouse.json) |
 | [August 7 at 9:24 AM](https://archive.org/download/chequeado-2022/chequeado-2022-08-07T09:24:45.515471-03:00.lighthouse.json) |
 | [August 6 at 9:27 PM](https://archive.org/download/chequeado-2022/chequeado-2022-08-06T21:27:21.716996-03:00.lighthouse.json) |
 | [August 6 at 9:18 AM](https://archive.org/download/chequeado-2022/chequeado-2022-08-06T09:18:16.871886-03:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 4 at 8:12 AM](https://archive.org/download/chequeado-2022/chequeado-2022-08-04T08:12:04.430430-03:00.lighthouse.json) |
 | [August 3 at 9:37 AM](https://archive.org/download/chequeado-2022/chequeado-2022-08-03T09:37:40.855473-03:00.lighthouse.json) |
 | [August 2 at 8:21 PM](https://archive.org/download/chequeado-2022/chequeado-2022-08-02T20:21:47.906510-03:00.lighthouse.json) |
-| [August 2 at 9:13 AM](https://archive.org/download/chequeado-2022/chequeado-2022-08-02T09:12:49.439720-03:00.lighthouse.json) |
 
 
 

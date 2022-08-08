@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 43 screenshots with the Internet Archive.
+The archiving routine has saved 44 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 43 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/startelegram-2022/startelegram-2022-08-08T00:25:23.470326-05:00.jpg">
+  <img src="https://archive.org/download/startelegram-2022/startelegram-2022-08-08T00:25:23.470326-05:00.jpg"
+     alt="Fort Worth Star-Telegram at 2022-08-08 00:25:24-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/startelegram-2022/startelegram-2022-08-08T00:25:23.470326-05:00.jpg">August 8 at 12:25 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/startelegram-2022/startelegram-2022-08-07T12:06:52.558805-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/startelegram-2022/startelegram-2022-08-02T11:19:23.742835-05:00.jpg">August 2 at 11:19 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/startelegram-2022/startelegram-2022-08-01T23:25:59.870442-05:00.jpg">
-  <img src="https://archive.org/download/startelegram-2022/startelegram-2022-08-01T23:25:59.870442-05:00.jpg"
-     alt="Fort Worth Star-Telegram at 2022-08-01 23:26:01-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/startelegram-2022/startelegram-2022-08-01T23:25:59.870442-05:00.jpg">August 1 at 11:26 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 32 hyperlink lists with the Internet Archive.
+The archiving routine has saved 33 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 8 at 12:25 AM](https://archive.org/download/startelegram-2022/startelegram-2022-08-08T00:25:23.470326-05:00.hyperlinks.json) |
 | [August 7 at 12:06 PM](https://archive.org/download/startelegram-2022/startelegram-2022-08-07T12:06:52.558805-05:00.hyperlinks.json) |
 | [August 6 at 12:03 AM](https://archive.org/download/startelegram-2022/startelegram-2022-08-06T00:03:54.904168-05:00.hyperlinks.json) |
 | [August 4 at 12:03 PM](https://archive.org/download/startelegram-2022/startelegram-2022-08-04T12:03:25.258157-05:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 1 at 11:11 AM](https://archive.org/download/startelegram-2022/startelegram-2022-08-01T11:11:47.751425-05:00.hyperlinks.json) |
 | [July 31 at 10:58 PM](https://archive.org/download/startelegram-2022/startelegram-2022-07-31T22:58:28.406264-05:00.hyperlinks.json) |
 | [July 30 at 11:08 PM](https://archive.org/download/startelegram-2022/startelegram-2022-07-30T23:08:04.357989-05:00.hyperlinks.json) |
-| [July 30 at 10:57 AM](https://archive.org/download/startelegram-2022/startelegram-2022-07-30T10:57:53.974393-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 43 accessibility trees with the Internet Archive.
+The archiving routine has saved 44 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 8 at 12:25 AM](https://archive.org/download/startelegram-2022/startelegram-2022-08-08T00:25:23.470326-05:00.accessibility.json) |
 | [August 7 at 12:06 PM](https://archive.org/download/startelegram-2022/startelegram-2022-08-07T12:06:52.558805-05:00.accessibility.json) |
 | [August 6 at 11:44 PM](https://archive.org/download/startelegram-2022/startelegram-2022-08-06T23:44:02.052653-05:00.accessibility.json) |
 | [August 6 at 11:26 AM](https://archive.org/download/startelegram-2022/startelegram-2022-08-06T11:26:37.951776-05:00.accessibility.json) |
@@ -428,20 +429,103 @@ Here are the 10 most recent accessibility trees.
 | [August 4 at 12:03 PM](https://archive.org/download/startelegram-2022/startelegram-2022-08-04T12:03:25.258157-05:00.accessibility.json) |
 | [August 3 at 11:36 PM](https://archive.org/download/startelegram-2022/startelegram-2022-08-03T23:36:44.297960-05:00.accessibility.json) |
 | [August 3 at 12:11 PM](https://archive.org/download/startelegram-2022/startelegram-2022-08-03T12:11:46.551261-05:00.accessibility.json) |
-| [August 2 at 11:43 PM](https://archive.org/download/startelegram-2022/startelegram-2022-08-02T23:43:27.718514-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 31 Lighthouse audits with the Internet Archive.
 
+
+  <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specLighthouse = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/lighthouse/startelegram.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--lighthouse", specLighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 8 at 12:25 AM](https://archive.org/download/startelegram-2022/startelegram-2022-08-08T00:25:23.470326-05:00.lighthouse.json) |
 | [August 7 at 12:06 PM](https://archive.org/download/startelegram-2022/startelegram-2022-08-07T12:06:52.558805-05:00.lighthouse.json) |
 | [August 6 at 11:44 PM](https://archive.org/download/startelegram-2022/startelegram-2022-08-06T23:44:02.052653-05:00.lighthouse.json) |
 | [August 6 at 11:26 AM](https://archive.org/download/startelegram-2022/startelegram-2022-08-06T11:26:37.951776-05:00.lighthouse.json) |
@@ -451,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 4 at 12:03 PM](https://archive.org/download/startelegram-2022/startelegram-2022-08-04T12:03:25.258157-05:00.lighthouse.json) |
 | [August 3 at 11:36 PM](https://archive.org/download/startelegram-2022/startelegram-2022-08-03T23:36:44.297960-05:00.lighthouse.json) |
 | [August 3 at 12:11 PM](https://archive.org/download/startelegram-2022/startelegram-2022-08-03T12:11:46.551261-05:00.lighthouse.json) |
-| [August 2 at 11:43 PM](https://archive.org/download/startelegram-2022/startelegram-2022-08-02T23:43:27.718514-05:00.lighthouse.json) |
 
 
 
