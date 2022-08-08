@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 7 screenshots with the Internet Archive.
+The archiving routine has saved 9 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-08-07T20:45:36.262268-04:00.jpg">
+  <img src="https://archive.org/download/cityjournal-2022/cityjournal-2022-08-07T20:45:36.262268-04:00.jpg"
+     alt="City Journal at 2022-08-07 20:45:39-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-08-07T20:45:36.262268-04:00.jpg">August 7 at 8:45 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-08-07T14:42:28.718376-04:00.jpg">
+  <img src="https://archive.org/download/cityjournal-2022/cityjournal-2022-08-07T14:42:28.718376-04:00.jpg"
+     alt="City Journal at 2022-08-07 14:42:31-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-08-07T14:42:28.718376-04:00.jpg">August 7 at 2:42 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-08-07T08:25:24.053591-04:00.jpg">
@@ -95,7 +113,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 7 hyperlink lists with the Internet Archive.
+The archiving routine has saved 9 hyperlink lists with the Internet Archive.
 
 
 
@@ -103,6 +121,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 7 at 8:45 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-08-07T20:45:36.262268-04:00.hyperlinks.json) |
+| [August 7 at 2:42 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-08-07T14:42:28.718376-04:00.hyperlinks.json) |
 | [August 7 at 8:25 AM](https://archive.org/download/cityjournal-2022/cityjournal-2022-08-07T08:25:24.053591-04:00.hyperlinks.json) |
 | [August 6 at 8:27 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-08-06T20:27:27.672330-04:00.hyperlinks.json) |
 | [August 6 at 2:39 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-08-06T14:39:45.759189-04:00.hyperlinks.json) |
@@ -114,7 +134,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 7 accessibility trees with the Internet Archive.
+The archiving routine has saved 9 accessibility trees with the Internet Archive.
 
 
 
@@ -122,6 +142,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 7 at 8:45 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-08-07T20:45:36.262268-04:00.accessibility.json) |
+| [August 7 at 2:42 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-08-07T14:42:28.718376-04:00.accessibility.json) |
 | [August 7 at 8:25 AM](https://archive.org/download/cityjournal-2022/cityjournal-2022-08-07T08:25:24.053591-04:00.accessibility.json) |
 | [August 6 at 8:27 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-08-06T20:27:27.672330-04:00.accessibility.json) |
 | [August 6 at 2:39 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-08-06T14:39:45.759189-04:00.accessibility.json) |
@@ -134,7 +156,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 7 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 9 Lighthouse audits with the Internet Archive.
 
 
 
@@ -142,6 +164,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 7 at 8:45 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-08-07T20:45:36.262268-04:00.lighthouse.json) |
+| [August 7 at 2:42 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-08-07T14:42:28.718376-04:00.lighthouse.json) |
 | [August 7 at 8:25 AM](https://archive.org/download/cityjournal-2022/cityjournal-2022-08-07T08:25:24.053591-04:00.lighthouse.json) |
 | [August 6 at 8:27 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-08-06T20:27:27.672330-04:00.lighthouse.json) |
 | [August 6 at 2:39 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-08-06T14:39:45.759189-04:00.lighthouse.json) |

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 290 screenshots with the Internet Archive.
+The archiving routine has saved 291 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 290 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-08-07T19:55:15.475585+03:00.jpg">
+  <img src="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-08-07T19:55:15.475585+03:00.jpg"
+     alt="Meduza at 2022-08-07 19:55:31+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-08-07T19:55:15.475585+03:00.jpg">August 7 at 7:55 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-08-07T06:28:34.930805+03:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-08-02T06:21:44.094244+03:00.jpg">August 2 at 6:21 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-08-01T18:04:22.492987+03:00.jpg">
-  <img src="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-08-01T18:04:22.492987+03:00.jpg"
-     alt="Meduza at 2022-08-01 18:04:32+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/meduzaproject-2022/meduzaproject-2022-08-01T18:04:22.492987+03:00.jpg">August 1 at 6:04 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 272 hyperlink lists with the Internet Archive.
+The archiving routine has saved 273 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 7 at 7:55 PM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-08-07T19:55:15.475585+03:00.hyperlinks.json) |
 | [August 7 at 6:28 AM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-08-07T06:28:34.930805+03:00.hyperlinks.json) |
 | [August 6 at 7:18 PM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-08-06T19:17:57.163105+03:00.hyperlinks.json) |
 | [August 6 at 7:55 AM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-08-06T07:55:28.245950+03:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 4 at 6:27 AM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-08-04T06:27:04.989598+03:00.hyperlinks.json) |
 | [August 3 at 8:02 PM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-08-03T20:02:44.461684+03:00.hyperlinks.json) |
 | [August 3 at 7:36 AM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-08-03T07:36:08.682433+03:00.hyperlinks.json) |
-| [August 2 at 5:58 PM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-08-02T17:58:20.861539+03:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 273 accessibility trees with the Internet Archive.
+The archiving routine has saved 274 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 7 at 7:55 PM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-08-07T19:55:15.475585+03:00.accessibility.json) |
 | [August 7 at 6:28 AM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-08-07T06:28:34.930805+03:00.accessibility.json) |
 | [August 6 at 7:18 PM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-08-06T19:17:57.163105+03:00.accessibility.json) |
 | [August 6 at 7:55 AM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-08-06T07:55:28.245950+03:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 4 at 6:27 AM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-08-04T06:27:04.989598+03:00.accessibility.json) |
 | [August 3 at 8:02 PM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-08-03T20:02:44.461684+03:00.accessibility.json) |
 | [August 3 at 7:36 AM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-08-03T07:36:08.682433+03:00.accessibility.json) |
-| [August 2 at 5:58 PM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-08-02T17:58:20.861539+03:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 29 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 7 at 7:55 PM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-08-07T19:55:15.475585+03:00.lighthouse.json) |
 | [August 7 at 6:28 AM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-08-07T06:28:34.930805+03:00.lighthouse.json) |
 | [August 6 at 7:18 PM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-08-06T19:17:57.163105+03:00.lighthouse.json) |
 | [August 6 at 7:55 AM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-08-06T07:55:28.245950+03:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 4 at 6:27 AM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-08-04T06:27:04.989598+03:00.lighthouse.json) |
 | [August 3 at 8:02 PM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-08-03T20:02:44.461684+03:00.lighthouse.json) |
 | [August 3 at 7:36 AM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-08-03T07:36:08.682433+03:00.lighthouse.json) |
-| [August 2 at 5:58 PM](https://archive.org/download/meduzaproject-2022/meduzaproject-2022-08-02T17:58:20.861539+03:00.lighthouse.json) |
 
 
 

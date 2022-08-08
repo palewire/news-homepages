@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 78 screenshots with the Internet Archive.
+The archiving routine has saved 79 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 78 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-08-07T08:44:02.092099-04:00.jpg">
+  <img src="https://archive.org/download/phillytrib-2022/phillytrib-2022-08-07T08:44:02.092099-04:00.jpg"
+     alt="Philadelphia Tribune at 2022-08-07 08:44:03-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-08-07T08:44:02.092099-04:00.jpg">August 7 at 8:44 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-08-06T20:45:33.502280-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-08-01T20:42:15.356212-04:00.jpg">August 1 at 8:42 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-08-01T08:28:24.071459-04:00.jpg">
-  <img src="https://archive.org/download/phillytrib-2022/phillytrib-2022-08-01T08:28:24.071459-04:00.jpg"
-     alt="Philadelphia Tribune at 2022-08-01 08:28:27-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/phillytrib-2022/phillytrib-2022-08-01T08:28:24.071459-04:00.jpg">August 1 at 8:28 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 78 hyperlink lists with the Internet Archive.
+The archiving routine has saved 79 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 7 at 8:44 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-08-07T08:44:02.092099-04:00.hyperlinks.json) |
 | [August 6 at 8:45 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-08-06T20:45:33.502280-04:00.hyperlinks.json) |
 | [August 6 at 8:37 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-08-06T08:37:02.565337-04:00.hyperlinks.json) |
 | [August 5 at 10:10 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-08-05T22:10:48.341699-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 3 at 8:46 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-08-03T20:45:57.296307-04:00.hyperlinks.json) |
 | [August 3 at 8:55 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-08-03T08:55:38.289906-04:00.hyperlinks.json) |
 | [August 2 at 8:42 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-08-02T20:41:57.320744-04:00.hyperlinks.json) |
-| [August 2 at 8:27 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-08-02T08:27:30.775647-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 78 accessibility trees with the Internet Archive.
+The archiving routine has saved 79 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 7 at 8:44 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-08-07T08:44:02.092099-04:00.accessibility.json) |
 | [August 6 at 8:45 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-08-06T20:45:33.502280-04:00.accessibility.json) |
 | [August 6 at 8:37 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-08-06T08:37:02.565337-04:00.accessibility.json) |
 | [August 5 at 10:10 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-08-05T22:10:48.341699-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 3 at 8:46 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-08-03T20:45:57.296307-04:00.accessibility.json) |
 | [August 3 at 8:55 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-08-03T08:55:38.289906-04:00.accessibility.json) |
 | [August 2 at 8:42 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-08-02T20:41:57.320744-04:00.accessibility.json) |
-| [August 2 at 8:27 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-08-02T08:27:30.775647-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 29 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 7 at 8:44 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-08-07T08:44:02.092099-04:00.lighthouse.json) |
 | [August 6 at 8:45 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-08-06T20:45:33.502280-04:00.lighthouse.json) |
 | [August 6 at 8:37 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-08-06T08:37:02.565337-04:00.lighthouse.json) |
 | [August 5 at 10:10 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-08-05T22:10:48.341699-04:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 3 at 8:46 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-08-03T20:45:57.296307-04:00.lighthouse.json) |
 | [August 3 at 8:55 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-08-03T08:55:38.289906-04:00.lighthouse.json) |
 | [August 2 at 8:42 PM](https://archive.org/download/phillytrib-2022/phillytrib-2022-08-02T20:41:57.320744-04:00.lighthouse.json) |
-| [August 2 at 8:27 AM](https://archive.org/download/phillytrib-2022/phillytrib-2022-08-02T08:27:30.775647-04:00.lighthouse.json) |
 
 
 

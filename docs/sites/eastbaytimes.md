@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 247 screenshots with the Internet Archive.
+The archiving routine has saved 248 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 247 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-07T17:48:32.134060-07:00.jpg">
+  <img src="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-07T17:48:32.134060-07:00.jpg"
+     alt="East Bay Times at 2022-08-07 17:48:38-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-07T17:48:32.134060-07:00.jpg">August 7 at 5:48 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-07T05:28:12.690324-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-02T05:15:52.877573-07:00.jpg">August 2 at 5:15 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-01T16:20:02.581213-07:00.jpg">
-  <img src="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-01T16:20:02.581213-07:00.jpg"
-     alt="East Bay Times at 2022-08-01 16:20:04-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-01T16:20:02.581213-07:00.jpg">August 1 at 4:20 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 235 hyperlink lists with the Internet Archive.
+The archiving routine has saved 236 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 7 at 5:48 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-07T17:48:32.134060-07:00.hyperlinks.json) |
 | [August 7 at 5:28 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-07T05:28:12.690324-07:00.hyperlinks.json) |
 | [August 6 at 5:31 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-06T17:30:54.459639-07:00.hyperlinks.json) |
 | [August 6 at 5:24 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-06T05:23:52.751275-07:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 4 at 4:15 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-04T04:15:02.358368-07:00.hyperlinks.json) |
 | [August 3 at 4:24 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-03T16:24:34.243788-07:00.hyperlinks.json) |
 | [August 3 at 5:40 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-03T05:40:30.245145-07:00.hyperlinks.json) |
-| [August 2 at 4:24 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-02T16:24:09.550640-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 238 accessibility trees with the Internet Archive.
+The archiving routine has saved 239 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 7 at 5:48 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-07T17:48:32.134060-07:00.accessibility.json) |
 | [August 7 at 5:28 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-07T05:28:12.690324-07:00.accessibility.json) |
 | [August 6 at 5:31 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-06T17:30:54.459639-07:00.accessibility.json) |
 | [August 6 at 5:24 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-06T05:23:52.751275-07:00.accessibility.json) |
@@ -428,20 +429,103 @@ Here are the 10 most recent accessibility trees.
 | [August 4 at 4:15 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-04T04:15:02.358368-07:00.accessibility.json) |
 | [August 3 at 4:24 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-03T16:24:34.243788-07:00.accessibility.json) |
 | [August 3 at 5:40 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-03T05:40:30.245145-07:00.accessibility.json) |
-| [August 2 at 4:24 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-02T16:24:09.550640-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 31 Lighthouse audits with the Internet Archive.
 
+
+  <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specLighthouse = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/lighthouse/eastbaytimes.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--lighthouse", specLighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 7 at 5:48 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-07T17:48:32.134060-07:00.lighthouse.json) |
 | [August 7 at 5:28 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-07T05:28:12.690324-07:00.lighthouse.json) |
 | [August 6 at 5:31 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-06T17:30:54.459639-07:00.lighthouse.json) |
 | [August 6 at 5:24 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-06T05:23:52.751275-07:00.lighthouse.json) |
@@ -451,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 4 at 4:15 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-04T04:15:02.358368-07:00.lighthouse.json) |
 | [August 3 at 4:24 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-03T16:24:34.243788-07:00.lighthouse.json) |
 | [August 3 at 5:40 AM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-03T05:40:30.245145-07:00.lighthouse.json) |
-| [August 2 at 4:24 PM](https://archive.org/download/eastbaytimes-2022/eastbaytimes-2022-08-02T16:24:09.550640-07:00.lighthouse.json) |
 
 
 

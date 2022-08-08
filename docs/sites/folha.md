@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 12 screenshots with the Internet Archive.
+The archiving routine has saved 14 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/folha-2022/folha-2022-08-07T16:42:22.640470-03:00.jpg">
+  <img src="https://archive.org/download/folha-2022/folha-2022-08-07T16:42:22.640470-03:00.jpg"
+     alt="Folha de S.Paulo at 2022-08-07 16:42:24-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/folha-2022/folha-2022-08-07T16:42:22.640470-03:00.jpg">August 7 at 4:42 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/folha-2022/folha-2022-08-07T13:46:49.090657-03:00.jpg">
+  <img src="https://archive.org/download/folha-2022/folha-2022-08-07T13:46:49.090657-03:00.jpg"
+     alt="Folha de S.Paulo at 2022-08-07 13:46:50-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/folha-2022/folha-2022-08-07T13:46:49.090657-03:00.jpg">August 7 at 1:46 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/folha-2022/folha-2022-08-07T00:21:25.947841-03:00.jpg">
@@ -118,29 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/folha-2022/folha-2022-08-03T13:55:59.658856-03:00.jpg">August 3 at 1:56 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/folha-2022/folha-2022-08-03T01:29:05.489174-03:00.jpg">
-  <img src="https://archive.org/download/folha-2022/folha-2022-08-03T01:29:05.489174-03:00.jpg"
-     alt="Folha de S.Paulo at 2022-08-03 01:29:06-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/folha-2022/folha-2022-08-03T01:29:05.489174-03:00.jpg">August 3 at 1:29 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/folha-2022/folha-2022-08-02T11:53:16.815992-03:00.jpg">
-  <img src="https://archive.org/download/folha-2022/folha-2022-08-02T11:53:16.815992-03:00.jpg"
-     alt="Folha de S.Paulo at 2022-08-02 11:53:22-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/folha-2022/folha-2022-08-02T11:53:16.815992-03:00.jpg">August 2 at 11:53 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 12 hyperlink lists with the Internet Archive.
+The archiving routine has saved 14 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 7 at 4:42 PM](https://archive.org/download/folha-2022/folha-2022-08-07T16:42:22.640470-03:00.hyperlinks.json) |
+| [August 7 at 1:46 PM](https://archive.org/download/folha-2022/folha-2022-08-07T13:46:49.090657-03:00.hyperlinks.json) |
 | [August 7 at 12:21 AM](https://archive.org/download/folha-2022/folha-2022-08-07T00:21:25.947841-03:00.hyperlinks.json) |
 | [August 6 at 1:10 PM](https://archive.org/download/folha-2022/folha-2022-08-06T13:10:33.935877-03:00.hyperlinks.json) |
 | [August 6 at 1:48 AM](https://archive.org/download/folha-2022/folha-2022-08-06T01:48:00.258162-03:00.hyperlinks.json) |
@@ -156,13 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 4 at 6:18 PM](https://archive.org/download/folha-2022/folha-2022-08-04T18:18:55.160192-03:00.hyperlinks.json) |
 | [August 4 at 12:21 PM](https://archive.org/download/folha-2022/folha-2022-08-04T12:21:22.247039-03:00.hyperlinks.json) |
 | [August 4 at 1:55 AM](https://archive.org/download/folha-2022/folha-2022-08-04T01:55:06.758567-03:00.hyperlinks.json) |
-| [August 4 at 12:20 AM](https://archive.org/download/folha-2022/folha-2022-08-04T00:20:34.206760-03:00.hyperlinks.json) |
-| [August 3 at 1:56 PM](https://archive.org/download/folha-2022/folha-2022-08-03T13:55:59.658856-03:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 12 accessibility trees with the Internet Archive.
+The archiving routine has saved 14 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 7 at 4:42 PM](https://archive.org/download/folha-2022/folha-2022-08-07T16:42:22.640470-03:00.accessibility.json) |
+| [August 7 at 1:46 PM](https://archive.org/download/folha-2022/folha-2022-08-07T13:46:49.090657-03:00.accessibility.json) |
 | [August 7 at 12:21 AM](https://archive.org/download/folha-2022/folha-2022-08-07T00:21:25.947841-03:00.accessibility.json) |
 | [August 6 at 1:10 PM](https://archive.org/download/folha-2022/folha-2022-08-06T13:10:33.935877-03:00.accessibility.json) |
 | [August 6 at 1:48 AM](https://archive.org/download/folha-2022/folha-2022-08-06T01:48:00.258162-03:00.accessibility.json) |
@@ -178,14 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [August 4 at 6:18 PM](https://archive.org/download/folha-2022/folha-2022-08-04T18:18:55.160192-03:00.accessibility.json) |
 | [August 4 at 12:21 PM](https://archive.org/download/folha-2022/folha-2022-08-04T12:21:22.247039-03:00.accessibility.json) |
 | [August 4 at 1:55 AM](https://archive.org/download/folha-2022/folha-2022-08-04T01:55:06.758567-03:00.accessibility.json) |
-| [August 4 at 12:20 AM](https://archive.org/download/folha-2022/folha-2022-08-04T00:20:34.206760-03:00.accessibility.json) |
-| [August 3 at 1:56 PM](https://archive.org/download/folha-2022/folha-2022-08-03T13:55:59.658856-03:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 12 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 14 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 7 at 4:42 PM](https://archive.org/download/folha-2022/folha-2022-08-07T16:42:22.640470-03:00.lighthouse.json) |
+| [August 7 at 1:46 PM](https://archive.org/download/folha-2022/folha-2022-08-07T13:46:49.090657-03:00.lighthouse.json) |
 | [August 7 at 12:21 AM](https://archive.org/download/folha-2022/folha-2022-08-07T00:21:25.947841-03:00.lighthouse.json) |
 | [August 6 at 1:10 PM](https://archive.org/download/folha-2022/folha-2022-08-06T13:10:33.935877-03:00.lighthouse.json) |
 | [August 6 at 1:48 AM](https://archive.org/download/folha-2022/folha-2022-08-06T01:48:00.258162-03:00.lighthouse.json) |
@@ -201,8 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 4 at 6:19 PM](https://archive.org/download/folha-2022/folha-2022-08-04T18:18:55.160192-03:00.lighthouse.json) |
 | [August 4 at 12:21 PM](https://archive.org/download/folha-2022/folha-2022-08-04T12:21:22.247039-03:00.lighthouse.json) |
 | [August 4 at 1:55 AM](https://archive.org/download/folha-2022/folha-2022-08-04T01:55:06.758567-03:00.lighthouse.json) |
-| [August 4 at 12:20 AM](https://archive.org/download/folha-2022/folha-2022-08-04T00:20:34.206760-03:00.lighthouse.json) |
-| [August 3 at 1:56 PM](https://archive.org/download/folha-2022/folha-2022-08-03T13:55:59.658856-03:00.lighthouse.json) |
 
 
 

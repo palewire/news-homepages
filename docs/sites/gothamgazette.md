@@ -122,7 +122,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 10 hyperlink lists with the Internet Archive.
+The archiving routine has saved 11 hyperlink lists with the Internet Archive.
 
 
 
@@ -130,6 +130,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 7 at 8:52 PM](https://archive.org/download/gothamgazette-2022/gothamgazette-2022-08-07T20:52:16.659320-04:00.hyperlinks.json) |
 | [August 7 at 8:30 AM](https://archive.org/download/gothamgazette-2022/gothamgazette-2022-08-07T08:30:32.083073-04:00.hyperlinks.json) |
 | [August 6 at 8:33 PM](https://archive.org/download/gothamgazette-2022/gothamgazette-2022-08-06T20:33:25.792387-04:00.hyperlinks.json) |
 | [August 6 at 8:24 AM](https://archive.org/download/gothamgazette-2022/gothamgazette-2022-08-06T08:24:09.541150-04:00.hyperlinks.json) |
@@ -139,12 +140,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 4 at 7:16 AM](https://archive.org/download/gothamgazette-2022/gothamgazette-2022-08-04T07:16:48.204968-04:00.hyperlinks.json) |
 | [August 3 at 7:25 PM](https://archive.org/download/gothamgazette-2022/gothamgazette-2022-08-03T19:25:45.613409-04:00.hyperlinks.json) |
 | [August 3 at 8:43 AM](https://archive.org/download/gothamgazette-2022/gothamgazette-2022-08-03T08:43:01.789818-04:00.hyperlinks.json) |
-| [August 2 at 7:26 PM](https://archive.org/download/gothamgazette-2022/gothamgazette-2022-08-02T19:26:20.333530-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 10 accessibility trees with the Internet Archive.
+The archiving routine has saved 11 accessibility trees with the Internet Archive.
 
 
 
@@ -152,6 +152,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 7 at 8:52 PM](https://archive.org/download/gothamgazette-2022/gothamgazette-2022-08-07T20:52:16.659320-04:00.accessibility.json) |
 | [August 7 at 8:30 AM](https://archive.org/download/gothamgazette-2022/gothamgazette-2022-08-07T08:30:32.083073-04:00.accessibility.json) |
 | [August 6 at 8:33 PM](https://archive.org/download/gothamgazette-2022/gothamgazette-2022-08-06T20:33:25.792387-04:00.accessibility.json) |
 | [August 6 at 8:24 AM](https://archive.org/download/gothamgazette-2022/gothamgazette-2022-08-06T08:24:09.541150-04:00.accessibility.json) |
@@ -161,13 +162,12 @@ Here are the 10 most recent accessibility trees.
 | [August 4 at 7:16 AM](https://archive.org/download/gothamgazette-2022/gothamgazette-2022-08-04T07:16:48.204968-04:00.accessibility.json) |
 | [August 3 at 7:25 PM](https://archive.org/download/gothamgazette-2022/gothamgazette-2022-08-03T19:25:45.613409-04:00.accessibility.json) |
 | [August 3 at 8:43 AM](https://archive.org/download/gothamgazette-2022/gothamgazette-2022-08-03T08:43:01.789818-04:00.accessibility.json) |
-| [August 2 at 7:26 PM](https://archive.org/download/gothamgazette-2022/gothamgazette-2022-08-02T19:26:20.333530-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 10 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
 
 
 
@@ -175,6 +175,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 7 at 8:52 PM](https://archive.org/download/gothamgazette-2022/gothamgazette-2022-08-07T20:52:16.659320-04:00.lighthouse.json) |
 | [August 7 at 8:30 AM](https://archive.org/download/gothamgazette-2022/gothamgazette-2022-08-07T08:30:32.083073-04:00.lighthouse.json) |
 | [August 6 at 8:33 PM](https://archive.org/download/gothamgazette-2022/gothamgazette-2022-08-06T20:33:25.792387-04:00.lighthouse.json) |
 | [August 6 at 8:24 AM](https://archive.org/download/gothamgazette-2022/gothamgazette-2022-08-06T08:24:09.541150-04:00.lighthouse.json) |
@@ -184,7 +185,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 4 at 7:16 AM](https://archive.org/download/gothamgazette-2022/gothamgazette-2022-08-04T07:16:48.204968-04:00.lighthouse.json) |
 | [August 3 at 7:25 PM](https://archive.org/download/gothamgazette-2022/gothamgazette-2022-08-03T19:25:45.613409-04:00.lighthouse.json) |
 | [August 3 at 8:43 AM](https://archive.org/download/gothamgazette-2022/gothamgazette-2022-08-03T08:43:01.789818-04:00.lighthouse.json) |
-| [August 2 at 7:26 PM](https://archive.org/download/gothamgazette-2022/gothamgazette-2022-08-02T19:26:20.333530-04:00.lighthouse.json) |
 
 
 

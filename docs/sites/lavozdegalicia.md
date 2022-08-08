@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 20 screenshots with the Internet Archive.
+The archiving routine has saved 21 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-08-07T18:53:59.887130+02:00.jpg">
+  <img src="https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-08-07T18:53:59.887130+02:00.jpg"
+     alt="La Voz de Galicia at 2022-08-07 18:54:01+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-08-07T18:53:59.887130+02:00.jpg">August 7 at 6:54 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-08-07T05:26:34.199722+02:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-08-02T05:19:39.165773+02:00.jpg">August 2 at 5:19 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-08-01T17:02:55.805620+02:00.jpg">
-  <img src="https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-08-01T17:02:55.805620+02:00.jpg"
-     alt="La Voz de Galicia at 2022-08-01 17:02:57+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-08-01T17:02:55.805620+02:00.jpg">August 1 at 5:02 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 20 hyperlink lists with the Internet Archive.
+The archiving routine has saved 21 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 7 at 6:54 PM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-08-07T18:53:59.887130+02:00.hyperlinks.json) |
 | [August 7 at 5:26 AM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-08-07T05:26:34.199722+02:00.hyperlinks.json) |
 | [August 6 at 6:16 PM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-08-06T18:16:02.298791+02:00.hyperlinks.json) |
 | [August 6 at 6:53 AM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-08-06T06:53:39.087019+02:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 4 at 5:26 AM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-08-04T05:26:55.671709+02:00.hyperlinks.json) |
 | [August 3 at 7:01 PM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-08-03T19:01:34.737242+02:00.hyperlinks.json) |
 | [August 3 at 6:34 AM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-08-03T06:34:03.203975+02:00.hyperlinks.json) |
-| [August 2 at 4:57 PM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-08-02T16:57:15.485033+02:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 20 accessibility trees with the Internet Archive.
+The archiving routine has saved 21 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 7 at 6:54 PM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-08-07T18:53:59.887130+02:00.accessibility.json) |
 | [August 7 at 5:26 AM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-08-07T05:26:34.199722+02:00.accessibility.json) |
 | [August 6 at 6:16 PM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-08-06T18:16:02.298791+02:00.accessibility.json) |
 | [August 6 at 6:53 AM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-08-06T06:53:39.087019+02:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [August 4 at 5:26 AM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-08-04T05:26:55.671709+02:00.accessibility.json) |
 | [August 3 at 7:01 PM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-08-03T19:01:34.737242+02:00.accessibility.json) |
 | [August 3 at 6:34 AM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-08-03T06:34:03.203975+02:00.accessibility.json) |
-| [August 2 at 4:57 PM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-08-02T16:57:15.485033+02:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 20 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 21 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 7 at 6:54 PM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-08-07T18:53:59.887130+02:00.lighthouse.json) |
 | [August 7 at 5:26 AM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-08-07T05:26:34.199722+02:00.lighthouse.json) |
 | [August 6 at 6:16 PM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-08-06T18:16:02.298791+02:00.lighthouse.json) |
 | [August 6 at 6:53 AM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-08-06T06:53:39.087019+02:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 4 at 5:27 AM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-08-04T05:26:55.671709+02:00.lighthouse.json) |
 | [August 3 at 7:01 PM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-08-03T19:01:34.737242+02:00.lighthouse.json) |
 | [August 3 at 6:34 AM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-08-03T06:34:03.203975+02:00.lighthouse.json) |
-| [August 2 at 4:57 PM](https://archive.org/download/lavozdegalicia-2022/lavozdegalicia-2022-08-02T16:57:15.485033+02:00.lighthouse.json) |
 
 
 

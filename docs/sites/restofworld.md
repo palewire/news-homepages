@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 26 screenshots with the Internet Archive.
+The archiving routine has saved 27 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/restofworld-2022/restofworld-2022-08-07T13:03:11.901156-04:00.jpg">
+  <img src="https://archive.org/download/restofworld-2022/restofworld-2022-08-07T13:03:11.901156-04:00.jpg"
+     alt="Rest of World at 2022-08-07 13:03:13-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/restofworld-2022/restofworld-2022-08-07T13:03:11.901156-04:00.jpg">August 7 at 1:03 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/restofworld-2022/restofworld-2022-08-07T00:41:16.614488-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/restofworld-2022/restofworld-2022-08-02T00:24:36.065523-04:00.jpg">August 2 at 12:24 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/restofworld-2022/restofworld-2022-08-01T12:08:35.687683-04:00.jpg">
-  <img src="https://archive.org/download/restofworld-2022/restofworld-2022-08-01T12:08:35.687683-04:00.jpg"
-     alt="Rest of World at 2022-08-01 12:08:37-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/restofworld-2022/restofworld-2022-08-01T12:08:35.687683-04:00.jpg">August 1 at 12:08 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 26 hyperlink lists with the Internet Archive.
+The archiving routine has saved 27 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 7 at 1:03 PM](https://archive.org/download/restofworld-2022/restofworld-2022-08-07T13:03:11.901156-04:00.hyperlinks.json) |
 | [August 7 at 12:41 AM](https://archive.org/download/restofworld-2022/restofworld-2022-08-07T00:41:16.614488-04:00.hyperlinks.json) |
 | [August 6 at 12:24 PM](https://archive.org/download/restofworld-2022/restofworld-2022-08-06T12:24:18.254205-04:00.hyperlinks.json) |
 | [August 6 at 1:02 AM](https://archive.org/download/restofworld-2022/restofworld-2022-08-06T01:02:01.660142-04:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 4 at 12:34 AM](https://archive.org/download/restofworld-2022/restofworld-2022-08-04T00:34:39.497106-04:00.hyperlinks.json) |
 | [August 3 at 1:09 PM](https://archive.org/download/restofworld-2022/restofworld-2022-08-03T13:08:52.365795-04:00.hyperlinks.json) |
 | [August 3 at 12:41 AM](https://archive.org/download/restofworld-2022/restofworld-2022-08-03T00:41:45.579775-04:00.hyperlinks.json) |
-| [August 2 at 12:17 PM](https://archive.org/download/restofworld-2022/restofworld-2022-08-02T12:17:42.978001-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 26 accessibility trees with the Internet Archive.
+The archiving routine has saved 27 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 7 at 1:03 PM](https://archive.org/download/restofworld-2022/restofworld-2022-08-07T13:03:11.901156-04:00.accessibility.json) |
 | [August 7 at 12:41 AM](https://archive.org/download/restofworld-2022/restofworld-2022-08-07T00:41:16.614488-04:00.accessibility.json) |
 | [August 6 at 12:24 PM](https://archive.org/download/restofworld-2022/restofworld-2022-08-06T12:24:18.254205-04:00.accessibility.json) |
 | [August 6 at 1:02 AM](https://archive.org/download/restofworld-2022/restofworld-2022-08-06T01:02:01.660142-04:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [August 4 at 12:34 AM](https://archive.org/download/restofworld-2022/restofworld-2022-08-04T00:34:39.497106-04:00.accessibility.json) |
 | [August 3 at 1:08 PM](https://archive.org/download/restofworld-2022/restofworld-2022-08-03T13:08:52.365795-04:00.accessibility.json) |
 | [August 3 at 12:41 AM](https://archive.org/download/restofworld-2022/restofworld-2022-08-03T00:41:45.579775-04:00.accessibility.json) |
-| [August 2 at 12:17 PM](https://archive.org/download/restofworld-2022/restofworld-2022-08-02T12:17:42.978001-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 26 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 7 at 1:03 PM](https://archive.org/download/restofworld-2022/restofworld-2022-08-07T13:03:11.901156-04:00.lighthouse.json) |
 | [August 7 at 12:41 AM](https://archive.org/download/restofworld-2022/restofworld-2022-08-07T00:41:16.614488-04:00.lighthouse.json) |
 | [August 6 at 12:24 PM](https://archive.org/download/restofworld-2022/restofworld-2022-08-06T12:24:18.254205-04:00.lighthouse.json) |
 | [August 6 at 1:02 AM](https://archive.org/download/restofworld-2022/restofworld-2022-08-06T01:02:01.660142-04:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 4 at 12:34 AM](https://archive.org/download/restofworld-2022/restofworld-2022-08-04T00:34:39.497106-04:00.lighthouse.json) |
 | [August 3 at 1:09 PM](https://archive.org/download/restofworld-2022/restofworld-2022-08-03T13:08:52.365795-04:00.lighthouse.json) |
 | [August 3 at 12:41 AM](https://archive.org/download/restofworld-2022/restofworld-2022-08-03T00:41:45.579775-04:00.lighthouse.json) |
-| [August 2 at 12:17 PM](https://archive.org/download/restofworld-2022/restofworld-2022-08-02T12:17:42.978001-04:00.lighthouse.json) |
 
 
 

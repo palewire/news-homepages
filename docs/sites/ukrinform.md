@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 277 screenshots with the Internet Archive.
+The archiving routine has saved 278 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 277 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-07T20:10:21.817982+03:00.jpg">
+  <img src="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-07T20:10:21.817982+03:00.jpg"
+     alt="Ukrinform at 2022-08-07 20:10:27+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-07T20:10:21.817982+03:00.jpg">August 7 at 8:10 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-07T07:47:04.351449+03:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-02T07:29:40.759580+03:00.jpg">August 2 at 7:29 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-01T19:14:06.093511+03:00.jpg">
-  <img src="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-01T19:14:06.093511+03:00.jpg"
-     alt="Ukrinform at 2022-08-01 19:14:11+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ukrinform-2022/ukrinform-2022-08-01T19:14:06.093511+03:00.jpg">August 1 at 7:14 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 269 hyperlink lists with the Internet Archive.
+The archiving routine has saved 270 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 7 at 8:10 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-07T20:10:21.817982+03:00.hyperlinks.json) |
 | [August 7 at 7:47 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-07T07:47:04.351449+03:00.hyperlinks.json) |
 | [August 6 at 7:30 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-06T19:30:42.208246+03:00.hyperlinks.json) |
 | [August 6 at 8:07 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-06T08:07:03.968715+03:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 4 at 7:40 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-04T07:39:59.780889+03:00.hyperlinks.json) |
 | [August 3 at 8:15 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-03T20:15:14.988525+03:00.hyperlinks.json) |
 | [August 3 at 7:48 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-03T07:48:05.949712+03:00.hyperlinks.json) |
-| [August 2 at 7:24 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-02T19:24:10.789948+03:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 265 accessibility trees with the Internet Archive.
+The archiving routine has saved 266 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 7 at 8:10 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-07T20:10:21.817982+03:00.accessibility.json) |
 | [August 7 at 7:47 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-07T07:47:04.351449+03:00.accessibility.json) |
 | [August 6 at 7:30 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-06T19:30:42.208246+03:00.accessibility.json) |
 | [August 6 at 8:07 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-06T08:07:03.968715+03:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 4 at 7:40 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-04T07:39:59.780889+03:00.accessibility.json) |
 | [August 3 at 8:15 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-03T20:15:14.988525+03:00.accessibility.json) |
 | [August 3 at 7:48 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-03T07:48:05.949712+03:00.accessibility.json) |
-| [August 2 at 7:24 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-02T19:24:10.789948+03:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 29 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 7 at 8:10 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-07T20:10:21.817982+03:00.lighthouse.json) |
 | [August 7 at 7:47 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-07T07:47:04.351449+03:00.lighthouse.json) |
 | [August 6 at 7:30 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-06T19:30:42.208246+03:00.lighthouse.json) |
 | [August 6 at 8:07 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-06T08:07:03.968715+03:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 4 at 7:40 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-04T07:39:59.780889+03:00.lighthouse.json) |
 | [August 3 at 8:15 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-03T20:15:14.988525+03:00.lighthouse.json) |
 | [August 3 at 7:48 AM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-03T07:48:05.949712+03:00.lighthouse.json) |
-| [August 2 at 7:24 PM](https://archive.org/download/ukrinform-2022/ukrinform-2022-08-02T19:24:10.789948+03:00.lighthouse.json) |
 
 
 

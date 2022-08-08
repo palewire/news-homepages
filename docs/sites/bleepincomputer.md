@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 28 screenshots with the Internet Archive.
+The archiving routine has saved 29 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-07T20:42:10.781044-04:00.jpg">
+  <img src="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-07T20:42:10.781044-04:00.jpg"
+     alt="BleepingComputer at 2022-08-07 20:42:13-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-07T20:42:10.781044-04:00.jpg">August 7 at 8:42 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-07T08:22:35.421158-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-02T08:12:06.525632-04:00.jpg">August 2 at 8:12 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-01T19:14:27.392978-04:00.jpg">
-  <img src="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-01T19:14:27.392978-04:00.jpg"
-     alt="BleepingComputer at 2022-08-01 19:14:30-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-01T19:14:27.392978-04:00.jpg">August 1 at 7:14 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 27 hyperlink lists with the Internet Archive.
+The archiving routine has saved 28 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 7 at 8:42 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-07T20:42:10.781044-04:00.hyperlinks.json) |
 | [August 6 at 8:25 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-06T20:25:12.439664-04:00.hyperlinks.json) |
 | [August 6 at 8:16 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-06T08:16:41.885915-04:00.hyperlinks.json) |
 | [August 5 at 7:27 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-05T19:27:40.509756-04:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 3 at 7:18 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-03T19:18:37.256731-04:00.hyperlinks.json) |
 | [August 3 at 8:36 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-03T08:36:09.438123-04:00.hyperlinks.json) |
 | [August 2 at 7:18 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-02T19:18:49.937710-04:00.hyperlinks.json) |
-| [August 2 at 8:12 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-02T08:12:06.525632-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 28 accessibility trees with the Internet Archive.
+The archiving routine has saved 29 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 7 at 8:42 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-07T20:42:10.781044-04:00.accessibility.json) |
 | [August 7 at 8:22 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-07T08:22:35.421158-04:00.accessibility.json) |
 | [August 6 at 8:25 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-06T20:25:12.439664-04:00.accessibility.json) |
 | [August 6 at 8:16 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-06T08:16:41.885915-04:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [August 4 at 7:10 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-04T07:10:33.586247-04:00.accessibility.json) |
 | [August 3 at 7:18 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-03T19:18:37.256731-04:00.accessibility.json) |
 | [August 3 at 8:36 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-03T08:36:09.438123-04:00.accessibility.json) |
-| [August 2 at 7:18 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-02T19:18:49.937710-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 28 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 29 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 7 at 8:42 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-07T20:42:10.781044-04:00.lighthouse.json) |
 | [August 7 at 8:22 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-07T08:22:35.421158-04:00.lighthouse.json) |
 | [August 6 at 8:25 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-06T20:25:12.439664-04:00.lighthouse.json) |
 | [August 6 at 8:16 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-06T08:16:41.885915-04:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 4 at 7:10 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-04T07:10:33.586247-04:00.lighthouse.json) |
 | [August 3 at 7:18 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-03T19:18:37.256731-04:00.lighthouse.json) |
 | [August 3 at 8:36 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-03T08:36:09.438123-04:00.lighthouse.json) |
-| [August 2 at 7:18 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-02T19:18:49.937710-04:00.lighthouse.json) |
 
 
 

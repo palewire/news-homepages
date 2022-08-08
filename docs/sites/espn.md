@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 68 screenshots with the Internet Archive.
+The archiving routine has saved 69 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 68 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/espn-2022/espn-2022-08-07T12:48:43.104709-04:00.jpg">
+  <img src="https://archive.org/download/espn-2022/espn-2022-08-07T12:48:43.104709-04:00.jpg"
+     alt="ESPN at 2022-08-07 12:48:44-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/espn-2022/espn-2022-08-07T12:48:43.104709-04:00.jpg">August 7 at 12:48 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/espn-2022/espn-2022-08-06T23:20:22.020530-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/espn-2022/espn-2022-08-01T23:14:31.933145-04:00.jpg">August 1 at 11:14 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/espn-2022/espn-2022-08-01T10:58:00.277111-04:00.jpg">
-  <img src="https://archive.org/download/espn-2022/espn-2022-08-01T10:58:00.277111-04:00.jpg"
-     alt="ESPN at 2022-08-01 10:58:05-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/espn-2022/espn-2022-08-01T10:58:00.277111-04:00.jpg">August 1 at 10:58 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 69 hyperlink lists with the Internet Archive.
+The archiving routine has saved 70 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 7 at 12:48 PM](https://archive.org/download/espn-2022/espn-2022-08-07T12:48:43.104709-04:00.hyperlinks.json) |
 | [August 6 at 11:20 PM](https://archive.org/download/espn-2022/espn-2022-08-06T23:20:22.020530-04:00.hyperlinks.json) |
 | [August 6 at 12:09 PM](https://archive.org/download/espn-2022/espn-2022-08-06T12:09:42.460535-04:00.hyperlinks.json) |
 | [August 6 at 12:47 AM](https://archive.org/download/espn-2022/espn-2022-08-06T00:47:32.046805-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 3 at 11:18 PM](https://archive.org/download/espn-2022/espn-2022-08-03T23:18:27.575044-04:00.hyperlinks.json) |
 | [August 3 at 12:55 PM](https://archive.org/download/espn-2022/espn-2022-08-03T12:55:09.985599-04:00.hyperlinks.json) |
 | [August 3 at 12:28 AM](https://archive.org/download/espn-2022/espn-2022-08-03T00:28:15.096655-04:00.hyperlinks.json) |
-| [August 2 at 10:52 AM](https://archive.org/download/espn-2022/espn-2022-08-02T10:52:24.392206-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 69 accessibility trees with the Internet Archive.
+The archiving routine has saved 70 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 7 at 12:48 PM](https://archive.org/download/espn-2022/espn-2022-08-07T12:48:43.104709-04:00.accessibility.json) |
 | [August 6 at 11:20 PM](https://archive.org/download/espn-2022/espn-2022-08-06T23:20:22.020530-04:00.accessibility.json) |
 | [August 6 at 12:09 PM](https://archive.org/download/espn-2022/espn-2022-08-06T12:09:42.460535-04:00.accessibility.json) |
 | [August 6 at 12:47 AM](https://archive.org/download/espn-2022/espn-2022-08-06T00:47:32.046805-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 3 at 11:18 PM](https://archive.org/download/espn-2022/espn-2022-08-03T23:18:27.575044-04:00.accessibility.json) |
 | [August 3 at 12:55 PM](https://archive.org/download/espn-2022/espn-2022-08-03T12:55:09.985599-04:00.accessibility.json) |
 | [August 3 at 12:28 AM](https://archive.org/download/espn-2022/espn-2022-08-03T00:28:15.096655-04:00.accessibility.json) |
-| [August 2 at 10:52 AM](https://archive.org/download/espn-2022/espn-2022-08-02T10:52:24.392206-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 29 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
 
 
 
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 7 at 12:48 PM](https://archive.org/download/espn-2022/espn-2022-08-07T12:48:43.104709-04:00.lighthouse.json) |
 | [August 6 at 11:20 PM](https://archive.org/download/espn-2022/espn-2022-08-06T23:20:22.020530-04:00.lighthouse.json) |
 | [August 6 at 12:09 PM](https://archive.org/download/espn-2022/espn-2022-08-06T12:09:42.460535-04:00.lighthouse.json) |
 | [August 6 at 12:47 AM](https://archive.org/download/espn-2022/espn-2022-08-06T00:47:32.046805-04:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 3 at 11:18 PM](https://archive.org/download/espn-2022/espn-2022-08-03T23:18:27.575044-04:00.lighthouse.json) |
 | [August 3 at 12:55 PM](https://archive.org/download/espn-2022/espn-2022-08-03T12:55:09.985599-04:00.lighthouse.json) |
 | [August 3 at 12:28 AM](https://archive.org/download/espn-2022/espn-2022-08-03T00:28:15.096655-04:00.lighthouse.json) |
-| [August 2 at 10:52 AM](https://archive.org/download/espn-2022/espn-2022-08-02T10:52:24.392206-04:00.lighthouse.json) |
 
 
 
