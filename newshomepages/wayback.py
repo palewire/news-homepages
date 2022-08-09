@@ -5,6 +5,7 @@ from pathlib import Path
 
 import click
 import requests
+from requests.adapters import HTTPAdapter, Retry
 from rich import print
 
 from . import utils
@@ -55,7 +56,7 @@ def cli(handle: str, output_dir: str):
 
             # Check in our capture
             status_url = f"https://web.archive.org/save/status/{capture_data['job_id']}"
-            status_response = requests.get(status_url)
+            status_response = _request(status_url)
             status_data = status_response.json()
 
             # If it's a success, we're done
@@ -85,6 +86,13 @@ def cli(handle: str, output_dir: str):
     slug = site["handle"].lower()
     with open(output_path / f"{slug}.wayback.json", "w") as fp:
         json.dump(capture_data, fp, indent=2)
+
+
+def _request(url):
+    s = requests.Session()
+    retries = Retry(total=3, backoff_factor=1)
+    s.mount("https://", HTTPAdapter(max_retries=retries))
+    return s.get(url)
 
 
 if __name__ == "__main__":
