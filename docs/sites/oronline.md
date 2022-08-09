@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 28 screenshots with the Internet Archive.
+The archiving routine has saved 29 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/oronline-2022/oronline-2022-08-09T01:02:56.960454-04:00.jpg">
+  <img src="https://archive.org/download/oronline-2022/oronline-2022-08-09T01:02:56.960454-04:00.jpg"
+     alt="Observer-Reporter at 2022-08-09 01:02:58-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/oronline-2022/oronline-2022-08-09T01:02:56.960454-04:00.jpg">August 9 at 1:02 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oronline-2022/oronline-2022-08-08T13:13:23.676267-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/oronline-2022/oronline-2022-08-03T13:07:39.976226-04:00.jpg">August 3 at 1:07 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/oronline-2022/oronline-2022-08-03T00:39:21.965422-04:00.jpg">
-  <img src="https://archive.org/download/oronline-2022/oronline-2022-08-03T00:39:21.965422-04:00.jpg"
-     alt="Observer-Reporter at 2022-08-03 00:39:24-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/oronline-2022/oronline-2022-08-03T00:39:21.965422-04:00.jpg">August 3 at 12:39 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 15 hyperlink lists with the Internet Archive.
+The archiving routine has saved 16 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 9 at 1:03 AM](https://archive.org/download/oronline-2022/oronline-2022-08-09T01:02:56.960454-04:00.hyperlinks.json) |
 | [August 8 at 1:19 AM](https://archive.org/download/oronline-2022/oronline-2022-08-08T01:19:20.396854-04:00.hyperlinks.json) |
 | [August 7 at 12:38 AM](https://archive.org/download/oronline-2022/oronline-2022-08-07T00:37:54.947771-04:00.hyperlinks.json) |
 | [August 6 at 12:22 PM](https://archive.org/download/oronline-2022/oronline-2022-08-06T12:22:01.311523-04:00.hyperlinks.json) |
@@ -157,7 +158,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 31 at 12:03 AM](https://archive.org/download/oronline-2022/oronline-2022-07-31T00:03:36.380473-04:00.hyperlinks.json) |
 | [July 29 at 11:49 PM](https://archive.org/download/oronline-2022/oronline-2022-07-29T23:49:56.983123-04:00.hyperlinks.json) |
 | [July 29 at 11:51 AM](https://archive.org/download/oronline-2022/oronline-2022-07-29T11:51:53.330518-04:00.hyperlinks.json) |
-| [July 28 at 11:46 PM](https://archive.org/download/oronline-2022/oronline-2022-07-28T23:46:23.929430-04:00.hyperlinks.json) |
 
 
 ## Accessibility

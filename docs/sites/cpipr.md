@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 64 screenshots with the Internet Archive.
+The archiving routine has saved 65 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 64 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cpipr-2022/cpipr-2022-08-08T22:23:05.298064-04:00.jpg">
+  <img src="https://archive.org/download/cpipr-2022/cpipr-2022-08-08T22:23:05.298064-04:00.jpg"
+     alt="Centro de Periodismo Investigativo at 2022-08-08 22:23:06-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cpipr-2022/cpipr-2022-08-08T22:23:05.298064-04:00.jpg">August 8 at 10:23 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cpipr-2022/cpipr-2022-08-08T10:19:25.942654-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/cpipr-2022/cpipr-2022-08-03T23:08:36.467265-04:00.jpg">August 3 at 11:08 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/cpipr-2022/cpipr-2022-08-03T10:28:59.154192-04:00.jpg">
-  <img src="https://archive.org/download/cpipr-2022/cpipr-2022-08-03T10:28:59.154192-04:00.jpg"
-     alt="Centro de Periodismo Investigativo at 2022-08-03 10:29:01-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cpipr-2022/cpipr-2022-08-03T10:28:59.154192-04:00.jpg">August 3 at 10:29 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 64 hyperlink lists with the Internet Archive.
+The archiving routine has saved 65 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 8 at 10:23 PM](https://archive.org/download/cpipr-2022/cpipr-2022-08-08T22:23:05.298064-04:00.hyperlinks.json) |
 | [August 8 at 10:19 AM](https://archive.org/download/cpipr-2022/cpipr-2022-08-08T10:19:25.942654-04:00.hyperlinks.json) |
 | [August 7 at 10:32 PM](https://archive.org/download/cpipr-2022/cpipr-2022-08-07T22:32:43.954582-04:00.hyperlinks.json) |
 | [August 7 at 10:04 AM](https://archive.org/download/cpipr-2022/cpipr-2022-08-07T10:04:18.204394-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 5 at 1:46 PM](https://archive.org/download/cpipr-2022/cpipr-2022-08-05T13:46:49.908184-04:00.hyperlinks.json) |
 | [August 5 at 10:08 AM](https://archive.org/download/cpipr-2022/cpipr-2022-08-05T10:08:32.268259-04:00.hyperlinks.json) |
 | [August 4 at 9:56 PM](https://archive.org/download/cpipr-2022/cpipr-2022-08-04T21:56:50.652236-04:00.hyperlinks.json) |
-| [August 4 at 9:53 AM](https://archive.org/download/cpipr-2022/cpipr-2022-08-04T09:53:43.179128-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 64 accessibility trees with the Internet Archive.
+The archiving routine has saved 65 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 8 at 10:23 PM](https://archive.org/download/cpipr-2022/cpipr-2022-08-08T22:23:05.298064-04:00.accessibility.json) |
 | [August 8 at 10:19 AM](https://archive.org/download/cpipr-2022/cpipr-2022-08-08T10:19:25.942654-04:00.accessibility.json) |
 | [August 7 at 10:32 PM](https://archive.org/download/cpipr-2022/cpipr-2022-08-07T22:32:43.954582-04:00.accessibility.json) |
 | [August 7 at 10:04 AM](https://archive.org/download/cpipr-2022/cpipr-2022-08-07T10:04:18.204394-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 5 at 1:46 PM](https://archive.org/download/cpipr-2022/cpipr-2022-08-05T13:46:49.908184-04:00.accessibility.json) |
 | [August 5 at 10:08 AM](https://archive.org/download/cpipr-2022/cpipr-2022-08-05T10:08:32.268259-04:00.accessibility.json) |
 | [August 4 at 9:56 PM](https://archive.org/download/cpipr-2022/cpipr-2022-08-04T21:56:50.652236-04:00.accessibility.json) |
-| [August 4 at 9:53 AM](https://archive.org/download/cpipr-2022/cpipr-2022-08-04T09:53:43.179128-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 34 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 35 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 8 at 10:23 PM](https://archive.org/download/cpipr-2022/cpipr-2022-08-08T22:23:05.298064-04:00.lighthouse.json) |
 | [August 8 at 10:19 AM](https://archive.org/download/cpipr-2022/cpipr-2022-08-08T10:19:25.942654-04:00.lighthouse.json) |
 | [August 7 at 10:32 PM](https://archive.org/download/cpipr-2022/cpipr-2022-08-07T22:32:43.954582-04:00.lighthouse.json) |
 | [August 7 at 10:04 AM](https://archive.org/download/cpipr-2022/cpipr-2022-08-07T10:04:18.204394-04:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 5 at 1:46 PM](https://archive.org/download/cpipr-2022/cpipr-2022-08-05T13:46:49.908184-04:00.lighthouse.json) |
 | [August 5 at 10:08 AM](https://archive.org/download/cpipr-2022/cpipr-2022-08-05T10:08:32.268259-04:00.lighthouse.json) |
 | [August 4 at 9:56 PM](https://archive.org/download/cpipr-2022/cpipr-2022-08-04T21:56:50.652236-04:00.lighthouse.json) |
-| [August 4 at 9:53 AM](https://archive.org/download/cpipr-2022/cpipr-2022-08-04T09:53:43.179128-04:00.lighthouse.json) |
 
 
 

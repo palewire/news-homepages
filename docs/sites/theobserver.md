@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 61 screenshots with the Internet Archive.
+The archiving routine has saved 62 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 61 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theobserver-2022/theobserver-2022-08-09T01:12:12.226444-04:00.jpg">
+  <img src="https://archive.org/download/theobserver-2022/theobserver-2022-08-09T01:12:12.226444-04:00.jpg"
+     alt="Charlotte Observer at 2022-08-09 01:12:13-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theobserver-2022/theobserver-2022-08-09T01:12:12.226444-04:00.jpg">August 9 at 1:12 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theobserver-2022/theobserver-2022-08-08T13:22:36.623746-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/theobserver-2022/theobserver-2022-08-03T13:14:42.766981-04:00.jpg">August 3 at 1:14 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/theobserver-2022/theobserver-2022-08-03T00:47:03.364729-04:00.jpg">
-  <img src="https://archive.org/download/theobserver-2022/theobserver-2022-08-03T00:47:03.364729-04:00.jpg"
-     alt="Charlotte Observer at 2022-08-03 00:47:04-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theobserver-2022/theobserver-2022-08-03T00:47:03.364729-04:00.jpg">August 3 at 12:47 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 46 hyperlink lists with the Internet Archive.
+The archiving routine has saved 47 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 9 at 1:12 AM](https://archive.org/download/theobserver-2022/theobserver-2022-08-09T01:12:12.226444-04:00.hyperlinks.json) |
 | [August 8 at 1:22 PM](https://archive.org/download/theobserver-2022/theobserver-2022-08-08T13:22:36.623746-04:00.hyperlinks.json) |
 | [August 4 at 12:40 AM](https://archive.org/download/theobserver-2022/theobserver-2022-08-04T00:40:01.289395-04:00.hyperlinks.json) |
 | [August 3 at 1:14 PM](https://archive.org/download/theobserver-2022/theobserver-2022-08-03T13:14:42.766981-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [July 31 at 11:57 AM](https://archive.org/download/theobserver-2022/theobserver-2022-07-31T11:57:45.414930-04:00.hyperlinks.json) |
 | [July 31 at 12:09 AM](https://archive.org/download/theobserver-2022/theobserver-2022-07-31T00:09:51.981800-04:00.hyperlinks.json) |
 | [July 30 at 12:00 PM](https://archive.org/download/theobserver-2022/theobserver-2022-07-30T12:00:04.882609-04:00.hyperlinks.json) |
-| [July 29 at 11:56 PM](https://archive.org/download/theobserver-2022/theobserver-2022-07-29T23:55:56.436402-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 62 accessibility trees with the Internet Archive.
+The archiving routine has saved 63 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 9 at 1:12 AM](https://archive.org/download/theobserver-2022/theobserver-2022-08-09T01:12:12.226444-04:00.accessibility.json) |
 | [August 8 at 1:22 PM](https://archive.org/download/theobserver-2022/theobserver-2022-08-08T13:22:36.623746-04:00.accessibility.json) |
 | [August 8 at 1:28 AM](https://archive.org/download/theobserver-2022/theobserver-2022-08-08T01:28:07.340293-04:00.accessibility.json) |
 | [August 7 at 1:08 PM](https://archive.org/download/theobserver-2022/theobserver-2022-08-07T13:08:21.734884-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 5 at 2:00 PM](https://archive.org/download/theobserver-2022/theobserver-2022-08-05T14:00:50.180830-04:00.accessibility.json) |
 | [August 5 at 12:45 AM](https://archive.org/download/theobserver-2022/theobserver-2022-08-05T00:45:34.078167-04:00.accessibility.json) |
 | [August 4 at 1:06 PM](https://archive.org/download/theobserver-2022/theobserver-2022-08-04T13:06:08.506921-04:00.accessibility.json) |
-| [August 4 at 12:40 AM](https://archive.org/download/theobserver-2022/theobserver-2022-08-04T00:40:01.289395-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 33 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 9 at 1:12 AM](https://archive.org/download/theobserver-2022/theobserver-2022-08-09T01:12:12.226444-04:00.lighthouse.json) |
 | [August 8 at 1:22 PM](https://archive.org/download/theobserver-2022/theobserver-2022-08-08T13:22:36.623746-04:00.lighthouse.json) |
 | [August 8 at 1:28 AM](https://archive.org/download/theobserver-2022/theobserver-2022-08-08T01:28:07.340293-04:00.lighthouse.json) |
 | [August 7 at 1:08 PM](https://archive.org/download/theobserver-2022/theobserver-2022-08-07T13:08:21.734884-04:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 5 at 2:00 PM](https://archive.org/download/theobserver-2022/theobserver-2022-08-05T14:00:50.180830-04:00.lighthouse.json) |
 | [August 5 at 12:45 AM](https://archive.org/download/theobserver-2022/theobserver-2022-08-05T00:45:34.078167-04:00.lighthouse.json) |
 | [August 4 at 1:06 PM](https://archive.org/download/theobserver-2022/theobserver-2022-08-04T13:06:08.506921-04:00.lighthouse.json) |
-| [August 4 at 12:40 AM](https://archive.org/download/theobserver-2022/theobserver-2022-08-04T00:40:01.289395-04:00.lighthouse.json) |
 
 
 

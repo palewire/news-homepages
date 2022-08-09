@@ -140,7 +140,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 16 hyperlink lists with the Internet Archive.
+The archiving routine has saved 17 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 9 at 9:50 AM](https://archive.org/download/infoamazoniabr-2022/infoamazoniabr-2022-08-09T09:50:10.951643-03:00.hyperlinks.json) |
 | [August 8 at 9:45 PM](https://archive.org/download/infoamazoniabr-2022/infoamazoniabr-2022-08-08T21:45:52.263704-03:00.hyperlinks.json) |
 | [August 8 at 9:38 AM](https://archive.org/download/infoamazoniabr-2022/infoamazoniabr-2022-08-08T09:38:09.050717-03:00.hyperlinks.json) |
 | [August 7 at 9:53 PM](https://archive.org/download/infoamazoniabr-2022/infoamazoniabr-2022-08-07T21:53:33.315053-03:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 6 at 9:28 AM](https://archive.org/download/infoamazoniabr-2022/infoamazoniabr-2022-08-06T09:28:19.451261-03:00.hyperlinks.json) |
 | [August 5 at 11:01 PM](https://archive.org/download/infoamazoniabr-2022/infoamazoniabr-2022-08-05T23:01:01.990857-03:00.hyperlinks.json) |
 | [August 5 at 9:33 AM](https://archive.org/download/infoamazoniabr-2022/infoamazoniabr-2022-08-05T09:33:17.303589-03:00.hyperlinks.json) |
-| [August 4 at 10:38 PM](https://archive.org/download/infoamazoniabr-2022/infoamazoniabr-2022-08-04T22:38:45.504450-03:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 16 accessibility trees with the Internet Archive.
+The archiving routine has saved 17 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 9 at 9:50 AM](https://archive.org/download/infoamazoniabr-2022/infoamazoniabr-2022-08-09T09:50:10.951643-03:00.accessibility.json) |
 | [August 8 at 9:45 PM](https://archive.org/download/infoamazoniabr-2022/infoamazoniabr-2022-08-08T21:45:52.263704-03:00.accessibility.json) |
 | [August 8 at 9:38 AM](https://archive.org/download/infoamazoniabr-2022/infoamazoniabr-2022-08-08T09:38:09.050717-03:00.accessibility.json) |
 | [August 7 at 9:53 PM](https://archive.org/download/infoamazoniabr-2022/infoamazoniabr-2022-08-07T21:53:33.315053-03:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [August 6 at 9:28 AM](https://archive.org/download/infoamazoniabr-2022/infoamazoniabr-2022-08-06T09:28:19.451261-03:00.accessibility.json) |
 | [August 5 at 11:01 PM](https://archive.org/download/infoamazoniabr-2022/infoamazoniabr-2022-08-05T23:01:01.990857-03:00.accessibility.json) |
 | [August 5 at 9:33 AM](https://archive.org/download/infoamazoniabr-2022/infoamazoniabr-2022-08-05T09:33:17.303589-03:00.accessibility.json) |
-| [August 4 at 10:38 PM](https://archive.org/download/infoamazoniabr-2022/infoamazoniabr-2022-08-04T22:38:45.504450-03:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 16 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 9 at 9:50 AM](https://archive.org/download/infoamazoniabr-2022/infoamazoniabr-2022-08-09T09:50:10.951643-03:00.lighthouse.json) |
 | [August 8 at 9:45 PM](https://archive.org/download/infoamazoniabr-2022/infoamazoniabr-2022-08-08T21:45:52.263704-03:00.lighthouse.json) |
 | [August 8 at 9:38 AM](https://archive.org/download/infoamazoniabr-2022/infoamazoniabr-2022-08-08T09:38:09.050717-03:00.lighthouse.json) |
 | [August 7 at 9:53 PM](https://archive.org/download/infoamazoniabr-2022/infoamazoniabr-2022-08-07T21:53:33.315053-03:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 6 at 9:28 AM](https://archive.org/download/infoamazoniabr-2022/infoamazoniabr-2022-08-06T09:28:19.451261-03:00.lighthouse.json) |
 | [August 5 at 11:01 PM](https://archive.org/download/infoamazoniabr-2022/infoamazoniabr-2022-08-05T23:01:01.990857-03:00.lighthouse.json) |
 | [August 5 at 9:33 AM](https://archive.org/download/infoamazoniabr-2022/infoamazoniabr-2022-08-05T09:33:17.303589-03:00.lighthouse.json) |
-| [August 4 at 10:38 PM](https://archive.org/download/infoamazoniabr-2022/infoamazoniabr-2022-08-04T22:38:45.504450-03:00.lighthouse.json) |
 
 
 

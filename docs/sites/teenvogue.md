@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 46 screenshots with the Internet Archive.
+The archiving routine has saved 47 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 46 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-08-08T22:23:20.053319-04:00.jpg">
+  <img src="https://archive.org/download/teenvogue-2022/teenvogue-2022-08-08T22:23:20.053319-04:00.jpg"
+     alt="Teen Vogue at 2022-08-08 22:23:21-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-08-08T22:23:20.053319-04:00.jpg">August 8 at 10:23 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-08-08T10:20:10.734987-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-08-03T23:08:29.598321-04:00.jpg">August 3 at 11:08 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-08-03T10:28:50.382669-04:00.jpg">
-  <img src="https://archive.org/download/teenvogue-2022/teenvogue-2022-08-03T10:28:50.382669-04:00.jpg"
-     alt="Teen Vogue at 2022-08-03 10:28:51-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/teenvogue-2022/teenvogue-2022-08-03T10:28:50.382669-04:00.jpg">August 3 at 10:28 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 46 hyperlink lists with the Internet Archive.
+The archiving routine has saved 47 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 8 at 10:23 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-08T22:23:20.053319-04:00.hyperlinks.json) |
 | [August 8 at 10:20 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-08T10:20:10.734987-04:00.hyperlinks.json) |
 | [August 7 at 10:33 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-07T22:33:28.969592-04:00.hyperlinks.json) |
 | [August 7 at 10:04 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-07T10:04:48.891377-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 5 at 1:33 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-05T13:33:31.180106-04:00.hyperlinks.json) |
 | [August 5 at 10:10 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-05T10:10:18.272136-04:00.hyperlinks.json) |
 | [August 4 at 9:57 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-04T21:57:55.064051-04:00.hyperlinks.json) |
-| [August 4 at 9:54 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-04T09:54:47.563182-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 46 accessibility trees with the Internet Archive.
+The archiving routine has saved 47 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 8 at 10:23 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-08T22:23:20.053319-04:00.accessibility.json) |
 | [August 8 at 10:20 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-08T10:20:10.734987-04:00.accessibility.json) |
 | [August 7 at 10:33 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-07T22:33:28.969592-04:00.accessibility.json) |
 | [August 7 at 10:04 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-07T10:04:48.891377-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 5 at 1:33 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-05T13:33:31.180106-04:00.accessibility.json) |
 | [August 5 at 10:10 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-05T10:10:18.272136-04:00.accessibility.json) |
 | [August 4 at 9:57 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-04T21:57:55.064051-04:00.accessibility.json) |
-| [August 4 at 9:54 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-04T09:54:47.563182-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 34 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 35 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 8 at 10:23 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-08T22:23:20.053319-04:00.lighthouse.json) |
 | [August 8 at 10:20 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-08T10:20:10.734987-04:00.lighthouse.json) |
 | [August 7 at 10:33 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-07T22:33:28.969592-04:00.lighthouse.json) |
 | [August 7 at 10:04 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-07T10:04:48.891377-04:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 5 at 1:33 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-05T13:33:31.180106-04:00.lighthouse.json) |
 | [August 5 at 10:10 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-05T10:10:18.272136-04:00.lighthouse.json) |
 | [August 4 at 9:58 PM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-04T21:57:55.064051-04:00.lighthouse.json) |
-| [August 4 at 9:54 AM](https://archive.org/download/teenvogue-2022/teenvogue-2022-08-04T09:54:47.563182-04:00.lighthouse.json) |
 
 
 
