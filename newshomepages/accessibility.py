@@ -34,7 +34,7 @@ def _get_accessibility(data: dict, output_dir: str):
         "-o",
         str(output_path / f"{data['handle'].lower()}.accessibility.json"),
         "--timeout",
-        str(60 * 1000),
+        str(60 * 1000 * 3),
     ]
     javascript = utils.get_javascript(data["handle"])
     if javascript:
