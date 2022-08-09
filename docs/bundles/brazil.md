@@ -7,7 +7,7 @@ orphan: true
 
 # Brazil
 
-The most recent homepages from 35 news sites in this bundle.
+The most recent homepages from 37 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -75,6 +75,15 @@ The most recent homepages from 35 news sites in this bundle.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/diariopopularrs.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/diariopopularrs.jpg"
+     alt="Diário Popular"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/diariopopularrs.html">Diário Popular</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/em_com.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/em_com.jpg"
      alt="Estado de Minas"
@@ -108,6 +117,15 @@ The most recent homepages from 35 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/folha.html">Folha de S.Paulo</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/diarioonline.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/diarioonline.jpg"
+     alt="Fortaleza"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/diarioonline.html">Fortaleza</a></p>
 </div>
 
 <div class="latest-child">
@@ -348,10 +366,12 @@ The most recent homepages from 35 news sites in this bundle.
 |[CNN Brasil](https://palewi.re/docs/news-homepages/sites/cnnbrasil.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cnnbrasil.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/cnnbrasil.xml)|
 |[Correio Braziliense](https://palewi.re/docs/news-homepages/sites/correio.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/correio.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/correio.xml)|
 |[Diario de Pernambuco](https://palewi.re/docs/news-homepages/sites/diariope.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/diariope.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/diariope.xml)|
+|[Diário Popular](https://palewi.re/docs/news-homepages/sites/diariopopularrs.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/diariopopularrs.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/diariopopularrs.xml)|
 |[Estado de Minas](https://palewi.re/docs/news-homepages/sites/em_com.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/em_com.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/em_com.xml)|
 |[Estadão](https://palewi.re/docs/news-homepages/sites/estadao.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/estadao.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/estadao.xml)|
 |[Fiquem Sabendo](https://palewi.re/docs/news-homepages/sites/_fiquemsabendo.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/_fiquemsabendo.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/_fiquemsabendo.xml)|
 |[Folha de S.Paulo](https://palewi.re/docs/news-homepages/sites/folha.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/folha.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/folha.xml)|
+|[Fortaleza](https://palewi.re/docs/news-homepages/sites/diarioonline.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/diarioonline.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/diarioonline.xml)|
 |[g1](https://palewi.re/docs/news-homepages/sites/g1.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/g1.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/g1.xml)|
 |[Gazeta do Povo](https://palewi.re/docs/news-homepages/sites/gazetadopovo.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gazetadopovo.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gazetadopovo.xml)|
 |[InfoAmazonia](https://palewi.re/docs/news-homepages/sites/infoamazoniabr.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/infoamazoniabr.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/infoamazoniabr.xml)|

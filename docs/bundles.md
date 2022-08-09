@@ -3,10 +3,11 @@
 
 # Bundle directory
 
-The archiving routine is currently organized into 52 bundles of sites.
+The archiving routine is currently organized into 53 bundles of sites.
 
 | Bundle  | RSS |
 | :-----  | :-- |
+|[Argentina](https://palewi.re/docs/news-homepages/bundles/argentina.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/argentina.xml)|
 |[Arizona](https://palewi.re/docs/news-homepages/bundles/arizona.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/arizona.xml)|
 |[Brazil](https://palewi.re/docs/news-homepages/bundles/brazil.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/brazil.xml)|
 |[California Bay Area](https://palewi.re/docs/news-homepages/bundles/bay-area.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/bay-area.xml)|

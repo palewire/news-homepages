@@ -16,7 +16,7 @@ orphan: true
 | Twitter handle | [@diarioonline](https://www.twitter.com/diarioonline)                                                                                  |
 | Location       | America/Sao_Paulo                                                                                                                              |
 | Timezone       | America/Sao_Paulo                                                                                                                              |
-| Bundles        |  |
+| Bundles        | <a href="../bundles/brazil.html">Brazil</a>  |
 
 ## Screenshots
 

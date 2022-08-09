@@ -16,7 +16,7 @@ orphan: true
 | Twitter handle | [@Chequeado](https://www.twitter.com/Chequeado)                                                                                  |
 | Location       | Buenos Aires                                                                                                                              |
 | Timezone       | America/Buenos_Aires                                                                                                                              |
-| Bundles        |  |
+| Bundles        | <a href="../bundles/argentina.html">Argentina</a>  |
 
 ## Screenshots
 
