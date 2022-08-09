@@ -434,7 +434,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 33 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 8 at 5:55 PM](https://archive.org/download/news3lv-2022/news3lv-2022-08-08T17:54:59.032309-07:00.lighthouse.json) |
 | [August 8 at 5:46 AM](https://archive.org/download/news3lv-2022/news3lv-2022-08-08T05:46:47.907004-07:00.lighthouse.json) |
 | [August 7 at 6:03 PM](https://archive.org/download/news3lv-2022/news3lv-2022-08-07T18:03:16.080189-07:00.lighthouse.json) |
 | [August 7 at 5:41 AM](https://archive.org/download/news3lv-2022/news3lv-2022-08-07T05:41:47.725970-07:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 5 at 5:41 AM](https://archive.org/download/news3lv-2022/news3lv-2022-08-05T05:40:56.558775-07:00.lighthouse.json) |
 | [August 4 at 6:45 PM](https://archive.org/download/news3lv-2022/news3lv-2022-08-04T18:45:29.543045-07:00.lighthouse.json) |
 | [August 4 at 5:36 AM](https://archive.org/download/news3lv-2022/news3lv-2022-08-04T05:36:36.303574-07:00.lighthouse.json) |
-| [August 3 at 5:43 PM](https://archive.org/download/news3lv-2022/news3lv-2022-08-03T17:42:54.855678-07:00.lighthouse.json) |
 
 
 

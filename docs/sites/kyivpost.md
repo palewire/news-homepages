@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 293 screenshots with the Internet Archive.
+The archiving routine has saved 294 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 293 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-08-09T03:49:13.809687+03:00.jpg">
+  <img src="https://archive.org/download/kyivpost-2022/kyivpost-2022-08-09T03:49:13.809687+03:00.jpg"
+     alt="KyivPost at 2022-08-09 03:49:20+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-08-09T03:49:13.809687+03:00.jpg">August 9 at 3:49 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-08-08T15:40:57.370972+03:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-08-03T15:49:12.762525+03:00.jpg">August 3 at 3:49 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-08-03T03:33:05.297270+03:00.jpg">
-  <img src="https://archive.org/download/kyivpost-2022/kyivpost-2022-08-03T03:33:05.297270+03:00.jpg"
-     alt="KyivPost at 2022-08-03 03:33:12+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kyivpost-2022/kyivpost-2022-08-03T03:33:05.297270+03:00.jpg">August 3 at 3:33 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 273 hyperlink lists with the Internet Archive.
+The archiving routine has saved 274 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 9 at 3:49 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-09T03:49:13.809687+03:00.hyperlinks.json) |
 | [August 8 at 3:41 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-08T15:40:57.370972+03:00.hyperlinks.json) |
 | [August 8 at 3:58 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-08T03:57:52.055132+03:00.hyperlinks.json) |
 | [August 7 at 3:36 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-07T15:35:55.386216+03:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 5 at 3:37 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-05T15:37:48.429600+03:00.hyperlinks.json) |
 | [August 5 at 4:41 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-05T04:41:44.592824+03:00.hyperlinks.json) |
 | [August 4 at 3:32 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-04T15:31:55.338957+03:00.hyperlinks.json) |
-| [August 4 at 3:39 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-04T03:39:07.193409+03:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 270 accessibility trees with the Internet Archive.
+The archiving routine has saved 271 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 9 at 3:49 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-09T03:49:13.809687+03:00.accessibility.json) |
 | [August 8 at 3:41 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-08T15:40:57.370972+03:00.accessibility.json) |
 | [August 8 at 3:57 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-08T03:57:52.055132+03:00.accessibility.json) |
 | [August 7 at 3:36 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-07T15:35:55.386216+03:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 5 at 3:37 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-05T15:37:48.429600+03:00.accessibility.json) |
 | [August 5 at 4:41 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-05T04:41:44.592824+03:00.accessibility.json) |
 | [August 4 at 3:31 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-04T15:31:55.338957+03:00.accessibility.json) |
-| [August 4 at 3:39 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-04T03:39:07.193409+03:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 33 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 9 at 3:49 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-09T03:49:13.809687+03:00.lighthouse.json) |
 | [August 8 at 3:41 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-08T15:40:57.370972+03:00.lighthouse.json) |
 | [August 8 at 3:58 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-08T03:57:52.055132+03:00.lighthouse.json) |
 | [August 7 at 3:36 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-07T15:35:55.386216+03:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 5 at 3:37 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-05T15:37:48.429600+03:00.lighthouse.json) |
 | [August 5 at 4:41 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-05T04:41:44.592824+03:00.lighthouse.json) |
 | [August 4 at 3:32 PM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-04T15:31:55.338957+03:00.lighthouse.json) |
-| [August 4 at 3:39 AM](https://archive.org/download/kyivpost-2022/kyivpost-2022-08-04T03:39:07.193409+03:00.lighthouse.json) |
 
 
 

@@ -3,7 +3,7 @@
 
 # Site directory
 
-The archiving routine is currently capturing 762 sites.
+The archiving routine is currently capturing 763 sites.
 
 A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/all.xml). An OPML file collecting all individual RSS feeds is at [opml.xml](https://palewi.re/docs/news-homepages/rss/sites/opml.xml).
 
@@ -264,6 +264,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[Flint Beat](https://palewi.re/docs/news-homepages/sites/flintbeat.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/flintbeat.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/flintbeat.xml)|
 |[Florida Bulldog](https://palewi.re/docs/news-homepages/sites/florida_bulldog.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/florida_bulldog.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/florida_bulldog.xml)|
 |[Florida Phoenix](https://palewi.re/docs/news-homepages/sites/flphoenixnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/flphoenixnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/flphoenixnews.xml)|
+|[Florida Politics](https://palewi.re/docs/news-homepages/sites/fla_pol.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/fla_pol.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/fla_pol.xml)|
 |[Folha de S.Paulo](https://palewi.re/docs/news-homepages/sites/folha.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/folha.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/folha.xml)|
 |[Foreign Policy](https://palewi.re/docs/news-homepages/sites/foreignpolicy.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/foreignpolicy.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/foreignpolicy.xml)|
 |[Fort Worth Report](https://palewi.re/docs/news-homepages/sites/fortworthreport.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/fortworthreport.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/fortworthreport.xml)|

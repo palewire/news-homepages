@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 29 screenshots with the Internet Archive.
+The archiving routine has saved 30 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-08T10:25:30.630040-07:00.jpg">
+  <img src="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-08T10:25:30.630040-07:00.jpg"
+     alt="Windows Central at 2022-08-08 10:25:35-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-08T10:25:30.630040-07:00.jpg">August 8 at 10:25 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-07T22:32:07.992791-07:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-02T21:49:40.423418-07:00.jpg">August 2 at 9:49 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-02T09:25:03.857081-07:00.jpg">
-  <img src="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-02T09:25:03.857081-07:00.jpg"
-     alt="Windows Central at 2022-08-02 09:25:05-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/windowscentral-2022/windowscentral-2022-08-02T09:25:03.857081-07:00.jpg">August 2 at 9:25 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 28 hyperlink lists with the Internet Archive.
+The archiving routine has saved 29 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 8 at 10:25 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-08T10:25:30.630040-07:00.hyperlinks.json) |
 | [August 7 at 10:32 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-07T22:32:07.992791-07:00.hyperlinks.json) |
 | [August 7 at 10:12 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-07T10:12:43.538532-07:00.hyperlinks.json) |
 | [August 6 at 9:49 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-06T21:49:53.317324-07:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 4 at 9:48 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-04T21:48:03.121656-07:00.hyperlinks.json) |
 | [August 4 at 10:10 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-04T10:09:56.870023-07:00.hyperlinks.json) |
 | [August 3 at 9:42 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-03T21:42:49.388203-07:00.hyperlinks.json) |
-| [August 3 at 10:17 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-03T10:17:04.137626-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 28 accessibility trees with the Internet Archive.
+The archiving routine has saved 29 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 8 at 10:25 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-08T10:25:30.630040-07:00.accessibility.json) |
 | [August 7 at 10:32 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-07T22:32:07.992791-07:00.accessibility.json) |
 | [August 7 at 10:12 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-07T10:12:43.538532-07:00.accessibility.json) |
 | [August 6 at 9:49 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-06T21:49:53.317324-07:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [August 4 at 9:48 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-04T21:48:03.121656-07:00.accessibility.json) |
 | [August 4 at 10:10 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-04T10:09:56.870023-07:00.accessibility.json) |
 | [August 3 at 9:42 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-03T21:42:49.388203-07:00.accessibility.json) |
-| [August 3 at 10:17 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-03T10:17:04.137626-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 28 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 8 at 10:25 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-08T10:25:30.630040-07:00.lighthouse.json) |
 | [August 7 at 10:32 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-07T22:32:07.992791-07:00.lighthouse.json) |
 | [August 7 at 10:12 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-07T10:12:43.538532-07:00.lighthouse.json) |
 | [August 6 at 9:50 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-06T21:49:53.317324-07:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 4 at 9:48 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-04T21:48:03.121656-07:00.lighthouse.json) |
 | [August 4 at 10:10 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-04T10:09:56.870023-07:00.lighthouse.json) |
 | [August 3 at 9:42 PM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-03T21:42:49.388203-07:00.lighthouse.json) |
-| [August 3 at 10:17 AM](https://archive.org/download/windowscentral-2022/windowscentral-2022-08-03T10:17:04.137626-07:00.lighthouse.json) |
 
 
 

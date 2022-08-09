@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 81 screenshots with the Internet Archive.
+The archiving routine has saved 83 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-08-08T19:37:18.735580-05:00.jpg">
+  <img src="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-08-08T19:37:18.735580-05:00.jpg"
+     alt="Cicero Independiente at 2022-08-08 19:37:28-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-08-08T19:37:18.735580-05:00.jpg">August 8 at 7:37 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-08-08T12:44:22.260129-05:00.jpg">
+  <img src="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-08-08T12:44:22.260129-05:00.jpg"
+     alt="Cicero Independiente at 2022-08-08 12:44:23-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-08-08T12:44:22.260129-05:00.jpg">August 8 at 12:44 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-08-08T06:22:23.095718-05:00.jpg">
   <img src="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-08-08T06:22:23.095718-05:00.jpg"
      alt="Cicero Independiente at 2022-08-08 06:22:24-05:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-08-05T07:24:38.904456-05:00.jpg">August 5 at 7:24 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-08-04T18:32:35.572461-05:00.jpg">
-  <img src="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-08-04T18:32:35.572461-05:00.jpg"
-     alt="Cicero Independiente at 2022-08-04 18:32:36-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-08-04T18:32:35.572461-05:00.jpg">August 4 at 6:32 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-08-04T12:11:38.968033-05:00.jpg">
-  <img src="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-08-04T12:11:38.968033-05:00.jpg"
-     alt="Cicero Independiente at 2022-08-04 12:11:41-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-08-04T12:11:38.968033-05:00.jpg">August 4 at 12:11 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 80 hyperlink lists with the Internet Archive.
+The archiving routine has saved 81 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 8 at 12:44 PM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-08-08T12:44:22.260129-05:00.hyperlinks.json) |
 | [August 8 at 6:22 AM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-08-08T06:22:23.095718-05:00.hyperlinks.json) |
 | [August 7 at 7:45 PM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-08-07T19:45:31.027402-05:00.hyperlinks.json) |
 | [August 7 at 7:24 AM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-08-07T07:24:35.402728-05:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 5 at 6:30 PM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-08-05T18:30:10.381932-05:00.hyperlinks.json) |
 | [August 5 at 1:08 PM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-08-05T13:08:32.333131-05:00.hyperlinks.json) |
 | [August 5 at 7:24 AM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-08-05T07:24:38.904456-05:00.hyperlinks.json) |
-| [August 4 at 6:32 PM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-08-04T18:32:35.572461-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 82 accessibility trees with the Internet Archive.
+The archiving routine has saved 84 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 8 at 7:37 PM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-08-08T19:37:18.735580-05:00.accessibility.json) |
+| [August 8 at 12:44 PM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-08-08T12:44:22.260129-05:00.accessibility.json) |
 | [August 8 at 6:22 AM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-08-08T06:22:23.095718-05:00.accessibility.json) |
 | [August 7 at 7:45 PM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-08-07T19:45:31.027402-05:00.accessibility.json) |
 | [August 7 at 12:13 PM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-08-07T12:13:11.494004-05:00.accessibility.json) |
@@ -427,14 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 6 at 11:44 AM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-08-06T11:44:34.170157-05:00.accessibility.json) |
 | [August 6 at 7:18 AM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-08-06T07:18:51.515032-05:00.accessibility.json) |
 | [August 5 at 6:30 PM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-08-05T18:30:10.381932-05:00.accessibility.json) |
-| [August 5 at 1:08 PM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-08-05T13:08:32.333131-05:00.accessibility.json) |
-| [August 5 at 7:24 AM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-08-05T07:24:38.904456-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 48 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 50 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 8 at 7:37 PM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-08-08T19:37:18.735580-05:00.lighthouse.json) |
+| [August 8 at 12:44 PM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-08-08T12:44:22.260129-05:00.lighthouse.json) |
 | [August 8 at 6:22 AM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-08-08T06:22:23.095718-05:00.lighthouse.json) |
 | [August 7 at 7:45 PM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-08-07T19:45:31.027402-05:00.lighthouse.json) |
 | [August 7 at 12:13 PM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-08-07T12:13:11.494004-05:00.lighthouse.json) |
@@ -533,8 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 6 at 11:44 AM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-08-06T11:44:34.170157-05:00.lighthouse.json) |
 | [August 6 at 7:19 AM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-08-06T07:18:51.515032-05:00.lighthouse.json) |
 | [August 5 at 6:30 PM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-08-05T18:30:10.381932-05:00.lighthouse.json) |
-| [August 5 at 1:08 PM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-08-05T13:08:32.333131-05:00.lighthouse.json) |
-| [August 5 at 7:24 AM](https://archive.org/download/ciceronoticias-2022/ciceronoticias-2022-08-05T07:24:38.904456-05:00.lighthouse.json) |
 
 
 

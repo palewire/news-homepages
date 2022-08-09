@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 43 screenshots with the Internet Archive.
+The archiving routine has saved 44 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 43 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/getfandom-2022/getfandom-2022-08-08T10:00:06.546808-07:00.jpg">
+  <img src="https://archive.org/download/getfandom-2022/getfandom-2022-08-08T10:00:06.546808-07:00.jpg"
+     alt="Fandom at 2022-08-08 10:00:07-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/getfandom-2022/getfandom-2022-08-08T10:00:06.546808-07:00.jpg">August 8 at 10:00 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/getfandom-2022/getfandom-2022-08-07T22:08:29.059689-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/getfandom-2022/getfandom-2022-08-02T21:29:56.214403-07:00.jpg">August 2 at 9:29 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/getfandom-2022/getfandom-2022-08-02T07:53:08.758508-07:00.jpg">
-  <img src="https://archive.org/download/getfandom-2022/getfandom-2022-08-02T07:53:08.758508-07:00.jpg"
-     alt="Fandom at 2022-08-02 07:53:10-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/getfandom-2022/getfandom-2022-08-02T07:53:08.758508-07:00.jpg">August 2 at 7:53 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 43 hyperlink lists with the Internet Archive.
+The archiving routine has saved 44 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 8 at 10:00 AM](https://archive.org/download/getfandom-2022/getfandom-2022-08-08T10:00:06.546808-07:00.hyperlinks.json) |
 | [August 7 at 10:08 PM](https://archive.org/download/getfandom-2022/getfandom-2022-08-07T22:08:29.059689-07:00.hyperlinks.json) |
 | [August 7 at 9:49 AM](https://archive.org/download/getfandom-2022/getfandom-2022-08-07T09:49:02.671818-07:00.hyperlinks.json) |
 | [August 6 at 8:23 PM](https://archive.org/download/getfandom-2022/getfandom-2022-08-06T20:23:17.495141-07:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 4 at 8:17 PM](https://archive.org/download/getfandom-2022/getfandom-2022-08-04T20:17:32.316103-07:00.hyperlinks.json) |
 | [August 4 at 8:22 AM](https://archive.org/download/getfandom-2022/getfandom-2022-08-04T08:22:21.224359-07:00.hyperlinks.json) |
 | [August 3 at 8:22 PM](https://archive.org/download/getfandom-2022/getfandom-2022-08-03T20:22:19.117774-07:00.hyperlinks.json) |
-| [August 3 at 9:57 AM](https://archive.org/download/getfandom-2022/getfandom-2022-08-03T09:57:11.553082-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 43 accessibility trees with the Internet Archive.
+The archiving routine has saved 44 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 8 at 10:00 AM](https://archive.org/download/getfandom-2022/getfandom-2022-08-08T10:00:06.546808-07:00.accessibility.json) |
 | [August 7 at 10:08 PM](https://archive.org/download/getfandom-2022/getfandom-2022-08-07T22:08:29.059689-07:00.accessibility.json) |
 | [August 7 at 9:49 AM](https://archive.org/download/getfandom-2022/getfandom-2022-08-07T09:49:02.671818-07:00.accessibility.json) |
 | [August 6 at 8:23 PM](https://archive.org/download/getfandom-2022/getfandom-2022-08-06T20:23:17.495141-07:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 4 at 8:17 PM](https://archive.org/download/getfandom-2022/getfandom-2022-08-04T20:17:32.316103-07:00.accessibility.json) |
 | [August 4 at 8:22 AM](https://archive.org/download/getfandom-2022/getfandom-2022-08-04T08:22:21.224359-07:00.accessibility.json) |
 | [August 3 at 8:22 PM](https://archive.org/download/getfandom-2022/getfandom-2022-08-03T20:22:19.117774-07:00.accessibility.json) |
-| [August 3 at 9:57 AM](https://archive.org/download/getfandom-2022/getfandom-2022-08-03T09:57:11.553082-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 31 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 8 at 10:00 AM](https://archive.org/download/getfandom-2022/getfandom-2022-08-08T10:00:06.546808-07:00.lighthouse.json) |
 | [August 7 at 10:08 PM](https://archive.org/download/getfandom-2022/getfandom-2022-08-07T22:08:29.059689-07:00.lighthouse.json) |
 | [August 7 at 9:49 AM](https://archive.org/download/getfandom-2022/getfandom-2022-08-07T09:49:02.671818-07:00.lighthouse.json) |
 | [August 6 at 8:23 PM](https://archive.org/download/getfandom-2022/getfandom-2022-08-06T20:23:17.495141-07:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 4 at 8:17 PM](https://archive.org/download/getfandom-2022/getfandom-2022-08-04T20:17:32.316103-07:00.lighthouse.json) |
 | [August 4 at 8:22 AM](https://archive.org/download/getfandom-2022/getfandom-2022-08-04T08:22:21.224359-07:00.lighthouse.json) |
 | [August 3 at 8:22 PM](https://archive.org/download/getfandom-2022/getfandom-2022-08-03T20:22:19.117774-07:00.lighthouse.json) |
-| [August 3 at 9:57 AM](https://archive.org/download/getfandom-2022/getfandom-2022-08-03T09:57:11.553082-07:00.lighthouse.json) |
 
 
 

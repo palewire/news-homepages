@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 16 screenshots with the Internet Archive.
+The archiving routine has saved 17 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-08-08T19:53:36.386978-05:00.jpg">
+  <img src="https://archive.org/download/neheadlines-2022/neheadlines-2022-08-08T19:53:36.386978-05:00.jpg"
+     alt="Hardin News-Enterprise at 2022-08-08 19:53:39-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-08-08T19:53:36.386978-05:00.jpg">August 8 at 7:53 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-08-08T07:45:05.303083-05:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-08-03T07:52:12.653201-05:00.jpg">August 3 at 7:52 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-08-02T19:38:51.108137-05:00.jpg">
-  <img src="https://archive.org/download/neheadlines-2022/neheadlines-2022-08-02T19:38:51.108137-05:00.jpg"
-     alt="Hardin News-Enterprise at 2022-08-02 19:38:53-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-08-02T19:38:51.108137-05:00.jpg">August 2 at 7:38 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 16 hyperlink lists with the Internet Archive.
+The archiving routine has saved 17 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 8 at 7:53 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-08-08T19:53:36.386978-05:00.hyperlinks.json) |
 | [August 8 at 7:45 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-08-08T07:45:05.303083-05:00.hyperlinks.json) |
 | [August 7 at 8:03 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-08-07T20:02:59.473042-05:00.hyperlinks.json) |
 | [August 7 at 7:40 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-08-07T07:40:30.965281-05:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 5 at 7:40 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-08-05T07:40:30.698024-05:00.hyperlinks.json) |
 | [August 4 at 8:44 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-08-04T20:44:33.447338-05:00.hyperlinks.json) |
 | [August 4 at 7:36 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-08-04T07:36:28.181817-05:00.hyperlinks.json) |
-| [August 3 at 7:43 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-08-03T19:43:12.651217-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 16 accessibility trees with the Internet Archive.
+The archiving routine has saved 17 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 8 at 7:53 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-08-08T19:53:36.386978-05:00.accessibility.json) |
 | [August 8 at 7:45 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-08-08T07:45:05.303083-05:00.accessibility.json) |
 | [August 7 at 8:03 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-08-07T20:02:59.473042-05:00.accessibility.json) |
 | [August 7 at 7:40 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-08-07T07:40:30.965281-05:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [August 5 at 7:40 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-08-05T07:40:30.698024-05:00.accessibility.json) |
 | [August 4 at 8:44 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-08-04T20:44:33.447338-05:00.accessibility.json) |
 | [August 4 at 7:36 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-08-04T07:36:28.181817-05:00.accessibility.json) |
-| [August 3 at 7:43 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-08-03T19:43:12.651217-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 16 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 8 at 7:53 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-08-08T19:53:36.386978-05:00.lighthouse.json) |
 | [August 8 at 7:45 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-08-08T07:45:05.303083-05:00.lighthouse.json) |
 | [August 7 at 8:03 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-08-07T20:02:59.473042-05:00.lighthouse.json) |
 | [August 7 at 7:40 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-08-07T07:40:30.965281-05:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 5 at 7:40 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-08-05T07:40:30.698024-05:00.lighthouse.json) |
 | [August 4 at 8:44 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-08-04T20:44:33.447338-05:00.lighthouse.json) |
 | [August 4 at 7:36 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-08-04T07:36:28.181817-05:00.lighthouse.json) |
-| [August 3 at 7:43 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-08-03T19:43:12.651217-05:00.lighthouse.json) |
 
 
 

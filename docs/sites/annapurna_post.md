@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 29 screenshots with the Internet Archive.
+The archiving routine has saved 30 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-09T06:17:19.692137+05:45.jpg">
+  <img src="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-09T06:17:19.692137+05:45.jpg"
+     alt="Annapurna Post at 2022-08-09 06:17:22+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-09T06:17:19.692137+05:45.jpg">August 9 at 6:17 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-08T17:03:07.050457+05:45.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-03T18:18:42.439804+05:45.jpg">August 3 at 6:18 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-03T05:02:26.481258+05:45.jpg">
-  <img src="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-03T05:02:26.481258+05:45.jpg"
-     alt="Annapurna Post at 2022-08-03 05:02:28+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-03T05:02:26.481258+05:45.jpg">August 3 at 5:02 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 29 hyperlink lists with the Internet Archive.
+The archiving routine has saved 30 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 9 at 6:17 AM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-09T06:17:19.692137+05:45.hyperlinks.json) |
 | [August 8 at 5:03 PM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-08T17:03:07.050457+05:45.hyperlinks.json) |
 | [August 8 at 6:25 AM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-08T06:25:17.279755+05:45.hyperlinks.json) |
 | [August 7 at 6:05 PM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-07T18:04:57.990016+05:45.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 5 at 6:04 PM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-05T18:04:47.331909+05:45.hyperlinks.json) |
 | [August 5 at 5:11 AM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-05T05:11:35.301279+05:45.hyperlinks.json) |
 | [August 4 at 4:54 PM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-04T16:53:59.061129+05:45.hyperlinks.json) |
-| [August 4 at 5:00 AM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-04T05:00:23.892667+05:45.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 29 accessibility trees with the Internet Archive.
+The archiving routine has saved 30 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 9 at 6:17 AM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-09T06:17:19.692137+05:45.accessibility.json) |
 | [August 8 at 5:03 PM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-08T17:03:07.050457+05:45.accessibility.json) |
 | [August 8 at 6:25 AM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-08T06:25:17.279755+05:45.accessibility.json) |
 | [August 7 at 6:05 PM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-07T18:04:57.990016+05:45.accessibility.json) |
@@ -179,20 +180,103 @@ Here are the 10 most recent accessibility trees.
 | [August 5 at 6:04 PM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-05T18:04:47.331909+05:45.accessibility.json) |
 | [August 5 at 5:11 AM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-05T05:11:35.301279+05:45.accessibility.json) |
 | [August 4 at 4:54 PM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-04T16:53:59.061129+05:45.accessibility.json) |
-| [August 4 at 5:00 AM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-04T05:00:23.892667+05:45.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 31 Lighthouse audits with the Internet Archive.
 
+
+  <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specLighthouse = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/lighthouse/annapurna_post.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--lighthouse", specLighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 9 at 6:17 AM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-09T06:17:19.692137+05:45.lighthouse.json) |
 | [August 8 at 5:03 PM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-08T17:03:07.050457+05:45.lighthouse.json) |
 | [August 8 at 6:25 AM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-08T06:25:17.279755+05:45.lighthouse.json) |
 | [August 7 at 6:05 PM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-07T18:04:57.990016+05:45.lighthouse.json) |
@@ -202,7 +286,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 5 at 6:04 PM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-05T18:04:47.331909+05:45.lighthouse.json) |
 | [August 5 at 5:11 AM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-05T05:11:35.301279+05:45.lighthouse.json) |
 | [August 4 at 4:54 PM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-04T16:53:59.061129+05:45.lighthouse.json) |
-| [August 4 at 5:00 AM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-08-04T05:00:23.892667+05:45.lighthouse.json) |
 
 
 

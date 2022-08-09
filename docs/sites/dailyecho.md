@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 56 screenshots with the Internet Archive.
+The archiving routine has saved 57 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 56 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-08T17:55:42.935597+01:00.jpg">
+  <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-08T17:55:42.935597+01:00.jpg"
+     alt="Daily Echo at 2022-08-08 17:55:45+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-08T17:55:42.935597+01:00.jpg">August 8 at 5:55 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-08T06:04:27.222328+01:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-02T15:49:18.884856+01:00.jpg">August 2 at 3:49 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-02T04:12:50.944239+01:00.jpg">
-  <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-02T04:12:50.944239+01:00.jpg"
-     alt="Daily Echo at 2022-08-02 04:12:52+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-02T04:12:50.944239+01:00.jpg">August 2 at 4:12 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 52 hyperlink lists with the Internet Archive.
+The archiving routine has saved 53 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 8 at 5:55 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-08T17:55:42.935597+01:00.hyperlinks.json) |
 | [August 8 at 6:04 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-08T06:04:27.222328+01:00.hyperlinks.json) |
 | [August 7 at 5:43 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-07T17:43:43.916377+01:00.hyperlinks.json) |
 | [August 7 at 4:18 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-07T04:18:19.298205+01:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [August 4 at 4:17 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-04T16:17:00.057668+01:00.hyperlinks.json) |
 | [August 4 at 4:16 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-04T04:16:51.361928+01:00.hyperlinks.json) |
 | [August 3 at 5:52 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-03T17:52:02.304852+01:00.hyperlinks.json) |
-| [August 3 at 5:26 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-03T05:26:16.337904+01:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -434,7 +434,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 31 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 8 at 5:55 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-08T17:55:42.935597+01:00.lighthouse.json) |
 | [August 8 at 6:04 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-08T06:04:27.222328+01:00.lighthouse.json) |
 | [August 7 at 5:43 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-07T17:43:43.916377+01:00.lighthouse.json) |
 | [August 7 at 4:18 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-07T04:18:19.298205+01:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 5 at 4:12 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-05T04:12:35.105406+01:00.lighthouse.json) |
 | [August 4 at 4:17 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-04T16:17:00.057668+01:00.lighthouse.json) |
 | [August 4 at 4:16 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-04T04:16:51.361928+01:00.lighthouse.json) |
-| [August 3 at 5:52 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-03T17:52:02.304852+01:00.lighthouse.json) |
 
 
 

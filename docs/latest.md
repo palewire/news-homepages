@@ -3,7 +3,7 @@
 
 # Latest screenshots
 
-The most recent homepages captured from 762 news sites.
+The most recent homepages captured from 763 news sites.
 
 <div class="latest-parent">
 
@@ -2300,6 +2300,15 @@ The most recent homepages captured from 762 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/flphoenixnews.html">Florida Phoenix</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/fla_pol.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/fla_pol.jpg"
+     alt="Florida Politics"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/fla_pol.html">Florida Politics</a></p>
 </div>
 
 <div class="latest-child">

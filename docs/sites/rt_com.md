@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 70 screenshots with the Internet Archive.
+The archiving routine has saved 71 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 70 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rt_com-2022/rt_com-2022-08-08T20:17:27.435772+03:00.jpg">
+  <img src="https://archive.org/download/rt_com-2022/rt_com-2022-08-08T20:17:27.435772+03:00.jpg"
+     alt="RT at 2022-08-08 20:17:29+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rt_com-2022/rt_com-2022-08-08T20:17:27.435772+03:00.jpg">August 8 at 8:17 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rt_com-2022/rt_com-2022-08-08T08:41:35.794146+03:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/rt_com-2022/rt_com-2022-08-05T07:41:19.860072+03:00.jpg">August 5 at 7:41 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/rt_com-2022/rt_com-2022-08-04T20:02:07.364258+03:00.jpg">
-  <img src="https://archive.org/download/rt_com-2022/rt_com-2022-08-04T20:02:07.364258+03:00.jpg"
-     alt="RT at 2022-08-04 20:02:09+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rt_com-2022/rt_com-2022-08-04T20:02:07.364258+03:00.jpg">August 4 at 8:02 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 70 hyperlink lists with the Internet Archive.
+The archiving routine has saved 71 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 8 at 8:17 PM](https://archive.org/download/rt_com-2022/rt_com-2022-08-08T20:17:27.435772+03:00.hyperlinks.json) |
 | [August 8 at 8:41 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-08T08:41:35.794146+03:00.hyperlinks.json) |
 | [August 8 at 8:23 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-08T08:23:10.946839+03:00.hyperlinks.json) |
 | [August 7 at 8:04 PM](https://archive.org/download/rt_com-2022/rt_com-2022-08-07T20:04:15.441517+03:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 6 at 8:16 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-06T08:16:42.100497+03:00.hyperlinks.json) |
 | [August 6 at 8:02 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-06T08:02:32.387321+03:00.hyperlinks.json) |
 | [August 5 at 8:54 PM](https://archive.org/download/rt_com-2022/rt_com-2022-08-05T20:54:40.661805+03:00.hyperlinks.json) |
-| [August 5 at 8:22 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-05T08:22:30.570264+03:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 69 accessibility trees with the Internet Archive.
+The archiving routine has saved 70 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 8 at 8:17 PM](https://archive.org/download/rt_com-2022/rt_com-2022-08-08T20:17:27.435772+03:00.accessibility.json) |
 | [August 8 at 8:41 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-08T08:41:35.794146+03:00.accessibility.json) |
 | [August 8 at 8:23 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-08T08:23:10.946839+03:00.accessibility.json) |
 | [August 7 at 8:04 PM](https://archive.org/download/rt_com-2022/rt_com-2022-08-07T20:04:15.441517+03:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 6 at 8:16 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-06T08:16:42.100497+03:00.accessibility.json) |
 | [August 6 at 8:02 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-06T08:02:32.387321+03:00.accessibility.json) |
 | [August 5 at 8:54 PM](https://archive.org/download/rt_com-2022/rt_com-2022-08-05T20:54:40.661805+03:00.accessibility.json) |
-| [August 5 at 8:22 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-05T08:22:30.570264+03:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 47 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 48 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 8 at 8:17 PM](https://archive.org/download/rt_com-2022/rt_com-2022-08-08T20:17:27.435772+03:00.lighthouse.json) |
 | [August 8 at 8:41 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-08T08:41:35.794146+03:00.lighthouse.json) |
 | [August 8 at 8:23 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-08T08:23:10.946839+03:00.lighthouse.json) |
 | [August 7 at 8:04 PM](https://archive.org/download/rt_com-2022/rt_com-2022-08-07T20:04:15.441517+03:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 6 at 8:16 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-06T08:16:42.100497+03:00.lighthouse.json) |
 | [August 6 at 8:02 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-06T08:02:32.387321+03:00.lighthouse.json) |
 | [August 5 at 8:54 PM](https://archive.org/download/rt_com-2022/rt_com-2022-08-05T20:54:40.661805+03:00.lighthouse.json) |
-| [August 5 at 8:22 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-05T08:22:30.570264+03:00.lighthouse.json) |
 
 
 

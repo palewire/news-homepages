@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 62 screenshots with the Internet Archive.
+The archiving routine has saved 63 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 62 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ncronline-2022/ncronline-2022-08-08T19:53:34.593736-05:00.jpg">
+  <img src="https://archive.org/download/ncronline-2022/ncronline-2022-08-08T19:53:34.593736-05:00.jpg"
+     alt="National Catholic Reporter at 2022-08-08 19:53:38-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ncronline-2022/ncronline-2022-08-08T19:53:34.593736-05:00.jpg">August 8 at 7:53 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ncronline-2022/ncronline-2022-08-08T07:45:22.668078-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ncronline-2022/ncronline-2022-08-03T07:52:16.941117-05:00.jpg">August 3 at 7:52 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ncronline-2022/ncronline-2022-08-02T19:38:44.096881-05:00.jpg">
-  <img src="https://archive.org/download/ncronline-2022/ncronline-2022-08-02T19:38:44.096881-05:00.jpg"
-     alt="National Catholic Reporter at 2022-08-02 19:38:46-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ncronline-2022/ncronline-2022-08-02T19:38:44.096881-05:00.jpg">August 2 at 7:38 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 62 hyperlink lists with the Internet Archive.
+The archiving routine has saved 63 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 8 at 7:53 PM](https://archive.org/download/ncronline-2022/ncronline-2022-08-08T19:53:34.593736-05:00.hyperlinks.json) |
 | [August 8 at 7:45 AM](https://archive.org/download/ncronline-2022/ncronline-2022-08-08T07:45:22.668078-05:00.hyperlinks.json) |
 | [August 7 at 8:03 PM](https://archive.org/download/ncronline-2022/ncronline-2022-08-07T20:03:09.416551-05:00.hyperlinks.json) |
 | [August 7 at 7:40 AM](https://archive.org/download/ncronline-2022/ncronline-2022-08-07T07:40:29.170836-05:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 5 at 7:40 AM](https://archive.org/download/ncronline-2022/ncronline-2022-08-05T07:40:14.628955-05:00.hyperlinks.json) |
 | [August 4 at 8:45 PM](https://archive.org/download/ncronline-2022/ncronline-2022-08-04T20:45:00.796849-05:00.hyperlinks.json) |
 | [August 4 at 7:36 AM](https://archive.org/download/ncronline-2022/ncronline-2022-08-04T07:36:23.294300-05:00.hyperlinks.json) |
-| [August 3 at 7:42 PM](https://archive.org/download/ncronline-2022/ncronline-2022-08-03T19:42:13.470009-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 62 accessibility trees with the Internet Archive.
+The archiving routine has saved 63 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 8 at 7:53 PM](https://archive.org/download/ncronline-2022/ncronline-2022-08-08T19:53:34.593736-05:00.accessibility.json) |
 | [August 8 at 7:45 AM](https://archive.org/download/ncronline-2022/ncronline-2022-08-08T07:45:22.668078-05:00.accessibility.json) |
 | [August 7 at 8:03 PM](https://archive.org/download/ncronline-2022/ncronline-2022-08-07T20:03:09.416551-05:00.accessibility.json) |
 | [August 7 at 7:40 AM](https://archive.org/download/ncronline-2022/ncronline-2022-08-07T07:40:29.170836-05:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 5 at 7:40 AM](https://archive.org/download/ncronline-2022/ncronline-2022-08-05T07:40:14.628955-05:00.accessibility.json) |
 | [August 4 at 8:45 PM](https://archive.org/download/ncronline-2022/ncronline-2022-08-04T20:45:00.796849-05:00.accessibility.json) |
 | [August 4 at 7:36 AM](https://archive.org/download/ncronline-2022/ncronline-2022-08-04T07:36:23.294300-05:00.accessibility.json) |
-| [August 3 at 7:42 PM](https://archive.org/download/ncronline-2022/ncronline-2022-08-03T19:42:13.470009-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 33 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 8 at 7:53 PM](https://archive.org/download/ncronline-2022/ncronline-2022-08-08T19:53:34.593736-05:00.lighthouse.json) |
 | [August 8 at 7:45 AM](https://archive.org/download/ncronline-2022/ncronline-2022-08-08T07:45:22.668078-05:00.lighthouse.json) |
 | [August 7 at 8:03 PM](https://archive.org/download/ncronline-2022/ncronline-2022-08-07T20:03:09.416551-05:00.lighthouse.json) |
 | [August 7 at 7:40 AM](https://archive.org/download/ncronline-2022/ncronline-2022-08-07T07:40:29.170836-05:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 5 at 7:40 AM](https://archive.org/download/ncronline-2022/ncronline-2022-08-05T07:40:14.628955-05:00.lighthouse.json) |
 | [August 4 at 8:45 PM](https://archive.org/download/ncronline-2022/ncronline-2022-08-04T20:45:00.796849-05:00.lighthouse.json) |
 | [August 4 at 7:36 AM](https://archive.org/download/ncronline-2022/ncronline-2022-08-04T07:36:23.294300-05:00.lighthouse.json) |
-| [August 3 at 7:42 PM](https://archive.org/download/ncronline-2022/ncronline-2022-08-03T19:42:13.470009-05:00.lighthouse.json) |
 
 
 

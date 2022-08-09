@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 92 screenshots with the Internet Archive.
+The archiving routine has saved 94 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/thenation-2022/thenation-2022-08-08T14:39:34.441677-04:00.jpg">
+  <img src="https://archive.org/download/thenation-2022/thenation-2022-08-08T14:39:34.441677-04:00.jpg"
+     alt="The Nation at 2022-08-08 14:39:36-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thenation-2022/thenation-2022-08-08T14:39:34.441677-04:00.jpg">August 8 at 2:39 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thenation-2022/thenation-2022-08-08T10:23:11.821516-04:00.jpg">
+  <img src="https://archive.org/download/thenation-2022/thenation-2022-08-08T10:23:11.821516-04:00.jpg"
+     alt="The Nation at 2022-08-08 10:23:13-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thenation-2022/thenation-2022-08-08T10:23:11.821516-04:00.jpg">August 8 at 10:23 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/thenation-2022/thenation-2022-08-07T22:35:20.675412-04:00.jpg">
   <img src="https://archive.org/download/thenation-2022/thenation-2022-08-07T22:35:20.675412-04:00.jpg"
      alt="The Nation at 2022-08-07 22:35:22-04:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thenation-2022/thenation-2022-08-04T21:59:01.702159-04:00.jpg">August 4 at 9:59 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thenation-2022/thenation-2022-08-04T14:46:54.328731-04:00.jpg">
-  <img src="https://archive.org/download/thenation-2022/thenation-2022-08-04T14:46:54.328731-04:00.jpg"
-     alt="The Nation at 2022-08-04 14:46:56-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thenation-2022/thenation-2022-08-04T14:46:54.328731-04:00.jpg">August 4 at 2:46 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thenation-2022/thenation-2022-08-04T09:55:55.688316-04:00.jpg">
-  <img src="https://archive.org/download/thenation-2022/thenation-2022-08-04T09:55:55.688316-04:00.jpg"
-     alt="The Nation at 2022-08-04 09:55:57-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thenation-2022/thenation-2022-08-04T09:55:55.688316-04:00.jpg">August 4 at 9:55 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 92 hyperlink lists with the Internet Archive.
+The archiving routine has saved 94 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 8 at 2:39 PM](https://archive.org/download/thenation-2022/thenation-2022-08-08T14:39:34.441677-04:00.hyperlinks.json) |
+| [August 8 at 10:23 AM](https://archive.org/download/thenation-2022/thenation-2022-08-08T10:23:11.821516-04:00.hyperlinks.json) |
 | [August 7 at 10:35 PM](https://archive.org/download/thenation-2022/thenation-2022-08-07T22:35:20.675412-04:00.hyperlinks.json) |
 | [August 7 at 2:46 PM](https://archive.org/download/thenation-2022/thenation-2022-08-07T14:45:54.428680-04:00.hyperlinks.json) |
 | [August 7 at 10:07 AM](https://archive.org/download/thenation-2022/thenation-2022-08-07T10:07:28.844560-04:00.hyperlinks.json) |
@@ -322,13 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 6 at 9:56 AM](https://archive.org/download/thenation-2022/thenation-2022-08-06T09:56:36.636762-04:00.hyperlinks.json) |
 | [August 5 at 10:24 PM](https://archive.org/download/thenation-2022/thenation-2022-08-05T22:23:56.227901-04:00.hyperlinks.json) |
 | [August 5 at 1:38 PM](https://archive.org/download/thenation-2022/thenation-2022-08-05T13:38:07.838763-04:00.hyperlinks.json) |
-| [August 5 at 10:12 AM](https://archive.org/download/thenation-2022/thenation-2022-08-05T10:12:09.551147-04:00.hyperlinks.json) |
-| [August 4 at 9:59 PM](https://archive.org/download/thenation-2022/thenation-2022-08-04T21:59:01.702159-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 92 accessibility trees with the Internet Archive.
+The archiving routine has saved 94 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 8 at 2:39 PM](https://archive.org/download/thenation-2022/thenation-2022-08-08T14:39:34.441677-04:00.accessibility.json) |
+| [August 8 at 10:23 AM](https://archive.org/download/thenation-2022/thenation-2022-08-08T10:23:11.821516-04:00.accessibility.json) |
 | [August 7 at 10:35 PM](https://archive.org/download/thenation-2022/thenation-2022-08-07T22:35:20.675412-04:00.accessibility.json) |
 | [August 7 at 2:46 PM](https://archive.org/download/thenation-2022/thenation-2022-08-07T14:45:54.428680-04:00.accessibility.json) |
 | [August 7 at 10:07 AM](https://archive.org/download/thenation-2022/thenation-2022-08-07T10:07:28.844560-04:00.accessibility.json) |
@@ -427,14 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 6 at 9:56 AM](https://archive.org/download/thenation-2022/thenation-2022-08-06T09:56:36.636762-04:00.accessibility.json) |
 | [August 5 at 10:23 PM](https://archive.org/download/thenation-2022/thenation-2022-08-05T22:23:56.227901-04:00.accessibility.json) |
 | [August 5 at 1:38 PM](https://archive.org/download/thenation-2022/thenation-2022-08-05T13:38:07.838763-04:00.accessibility.json) |
-| [August 5 at 10:12 AM](https://archive.org/download/thenation-2022/thenation-2022-08-05T10:12:09.551147-04:00.accessibility.json) |
-| [August 4 at 9:59 PM](https://archive.org/download/thenation-2022/thenation-2022-08-04T21:59:01.702159-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 49 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 51 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 8 at 2:39 PM](https://archive.org/download/thenation-2022/thenation-2022-08-08T14:39:34.441677-04:00.lighthouse.json) |
+| [August 8 at 10:23 AM](https://archive.org/download/thenation-2022/thenation-2022-08-08T10:23:11.821516-04:00.lighthouse.json) |
 | [August 7 at 10:35 PM](https://archive.org/download/thenation-2022/thenation-2022-08-07T22:35:20.675412-04:00.lighthouse.json) |
 | [August 7 at 2:46 PM](https://archive.org/download/thenation-2022/thenation-2022-08-07T14:45:54.428680-04:00.lighthouse.json) |
 | [August 7 at 10:07 AM](https://archive.org/download/thenation-2022/thenation-2022-08-07T10:07:28.844560-04:00.lighthouse.json) |
@@ -533,8 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 6 at 9:56 AM](https://archive.org/download/thenation-2022/thenation-2022-08-06T09:56:36.636762-04:00.lighthouse.json) |
 | [August 5 at 10:24 PM](https://archive.org/download/thenation-2022/thenation-2022-08-05T22:23:56.227901-04:00.lighthouse.json) |
 | [August 5 at 2:53 PM](https://archive.org/download/thenation-2022/thenation-2022-08-05T14:53:40.569870-04:00.lighthouse.json) |
-| [August 5 at 1:38 PM](https://archive.org/download/thenation-2022/thenation-2022-08-05T13:38:07.838763-04:00.lighthouse.json) |
-| [August 5 at 10:12 AM](https://archive.org/download/thenation-2022/thenation-2022-08-05T10:12:09.551147-04:00.lighthouse.json) |
 
 
 

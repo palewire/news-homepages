@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 24 screenshots with the Internet Archive.
+The archiving routine has saved 25 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-08T22:46:38.735536+05:30.jpg">
+  <img src="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-08T22:46:38.735536+05:30.jpg"
+     alt="Prabhat Khabar at 2022-08-08 22:46:42+05:30 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-08T22:46:38.735536+05:30.jpg">August 8 at 10:46 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-08T10:50:05.770597+05:30.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-03T10:10:42.031580+05:30.jpg">August 3 at 10:10 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-02T21:46:26.110492+05:30.jpg">
-  <img src="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-02T21:46:26.110492+05:30.jpg"
-     alt="Prabhat Khabar at 2022-08-02 21:46:28+05:30 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-02T21:46:26.110492+05:30.jpg">August 2 at 9:46 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 24 hyperlink lists with the Internet Archive.
+The archiving routine has saved 25 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 8 at 10:46 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-08T22:46:38.735536+05:30.hyperlinks.json) |
 | [August 8 at 10:50 AM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-08T10:50:05.770597+05:30.hyperlinks.json) |
 | [August 7 at 10:31 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-07T22:31:13.224778+05:30.hyperlinks.json) |
 | [August 7 at 10:09 AM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-07T10:09:20.039341+05:30.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 5 at 10:08 AM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-05T10:08:21.645247+05:30.hyperlinks.json) |
 | [August 4 at 10:29 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-04T22:29:26.436005+05:30.hyperlinks.json) |
 | [August 4 at 10:03 AM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-04T10:03:37.239319+05:30.hyperlinks.json) |
-| [August 3 at 10:38 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-03T22:38:08.314640+05:30.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 24 accessibility trees with the Internet Archive.
+The archiving routine has saved 25 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 8 at 10:46 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-08T22:46:38.735536+05:30.accessibility.json) |
 | [August 8 at 10:50 AM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-08T10:50:05.770597+05:30.accessibility.json) |
 | [August 7 at 10:31 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-07T22:31:13.224778+05:30.accessibility.json) |
 | [August 7 at 10:09 AM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-07T10:09:20.039341+05:30.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [August 5 at 10:08 AM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-05T10:08:21.645247+05:30.accessibility.json) |
 | [August 4 at 10:29 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-04T22:29:26.436005+05:30.accessibility.json) |
 | [August 4 at 10:03 AM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-04T10:03:37.239319+05:30.accessibility.json) |
-| [August 3 at 10:38 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-03T22:38:08.314640+05:30.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 24 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 25 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 8 at 10:46 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-08T22:46:38.735536+05:30.lighthouse.json) |
 | [August 8 at 10:50 AM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-08T10:50:05.770597+05:30.lighthouse.json) |
 | [August 7 at 10:31 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-07T22:31:13.224778+05:30.lighthouse.json) |
 | [August 7 at 10:09 AM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-07T10:09:20.039341+05:30.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 5 at 10:08 AM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-05T10:08:21.645247+05:30.lighthouse.json) |
 | [August 4 at 10:29 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-04T22:29:26.436005+05:30.lighthouse.json) |
 | [August 4 at 10:03 AM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-04T10:03:37.239319+05:30.lighthouse.json) |
-| [August 3 at 10:38 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-03T22:38:08.314640+05:30.lighthouse.json) |
 
 
 

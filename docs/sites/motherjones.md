@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 152 screenshots with the Internet Archive.
+The archiving routine has saved 154 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/motherjones-2022/motherjones-2022-08-08T17:52:29.328649-07:00.jpg">
+  <img src="https://archive.org/download/motherjones-2022/motherjones-2022-08-08T17:52:29.328649-07:00.jpg"
+     alt="Mother Jones at 2022-08-08 17:52:36-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/motherjones-2022/motherjones-2022-08-08T17:52:29.328649-07:00.jpg">August 8 at 5:52 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/motherjones-2022/motherjones-2022-08-08T11:39:44.789155-07:00.jpg">
+  <img src="https://archive.org/download/motherjones-2022/motherjones-2022-08-08T11:39:44.789155-07:00.jpg"
+     alt="Mother Jones at 2022-08-08 11:39:50-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/motherjones-2022/motherjones-2022-08-08T11:39:44.789155-07:00.jpg">August 8 at 11:39 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/motherjones-2022/motherjones-2022-08-08T05:44:15.831605-07:00.jpg">
   <img src="https://archive.org/download/motherjones-2022/motherjones-2022-08-08T05:44:15.831605-07:00.jpg"
      alt="Mother Jones at 2022-08-08 05:44:21-07:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/motherjones-2022/motherjones-2022-08-04T18:44:09.770678-07:00.jpg">August 4 at 6:44 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/motherjones-2022/motherjones-2022-08-04T11:46:50.269433-07:00.jpg">
-  <img src="https://archive.org/download/motherjones-2022/motherjones-2022-08-04T11:46:50.269433-07:00.jpg"
-     alt="Mother Jones at 2022-08-04 11:46:51-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/motherjones-2022/motherjones-2022-08-04T11:46:50.269433-07:00.jpg">August 4 at 11:46 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/motherjones-2022/motherjones-2022-08-04T05:35:28.472807-07:00.jpg">
-  <img src="https://archive.org/download/motherjones-2022/motherjones-2022-08-04T05:35:28.472807-07:00.jpg"
-     alt="Mother Jones at 2022-08-04 05:35:30-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/motherjones-2022/motherjones-2022-08-04T05:35:28.472807-07:00.jpg">August 4 at 5:35 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 155 hyperlink lists with the Internet Archive.
+The archiving routine has saved 157 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 8 at 5:52 PM](https://archive.org/download/motherjones-2022/motherjones-2022-08-08T17:52:29.328649-07:00.hyperlinks.json) |
+| [August 8 at 11:39 AM](https://archive.org/download/motherjones-2022/motherjones-2022-08-08T11:39:44.789155-07:00.hyperlinks.json) |
 | [August 8 at 5:44 AM](https://archive.org/download/motherjones-2022/motherjones-2022-08-08T05:44:15.831605-07:00.hyperlinks.json) |
 | [August 7 at 6:01 PM](https://archive.org/download/motherjones-2022/motherjones-2022-08-07T18:01:38.004602-07:00.hyperlinks.json) |
 | [August 7 at 11:45 AM](https://archive.org/download/motherjones-2022/motherjones-2022-08-07T11:45:36.729621-07:00.hyperlinks.json) |
@@ -322,13 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 6 at 11:42 AM](https://archive.org/download/motherjones-2022/motherjones-2022-08-06T11:42:13.042493-07:00.hyperlinks.json) |
 | [August 6 at 5:31 AM](https://archive.org/download/motherjones-2022/motherjones-2022-08-06T05:31:43.329231-07:00.hyperlinks.json) |
 | [August 5 at 7:07 PM](https://archive.org/download/motherjones-2022/motherjones-2022-08-05T19:06:59.973035-07:00.hyperlinks.json) |
-| [August 5 at 11:53 AM](https://archive.org/download/motherjones-2022/motherjones-2022-08-05T11:53:22.968388-07:00.hyperlinks.json) |
-| [August 5 at 5:39 AM](https://archive.org/download/motherjones-2022/motherjones-2022-08-05T05:39:17.478520-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 155 accessibility trees with the Internet Archive.
+The archiving routine has saved 157 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 8 at 5:52 PM](https://archive.org/download/motherjones-2022/motherjones-2022-08-08T17:52:29.328649-07:00.accessibility.json) |
+| [August 8 at 11:39 AM](https://archive.org/download/motherjones-2022/motherjones-2022-08-08T11:39:44.789155-07:00.accessibility.json) |
 | [August 8 at 5:44 AM](https://archive.org/download/motherjones-2022/motherjones-2022-08-08T05:44:15.831605-07:00.accessibility.json) |
 | [August 7 at 6:01 PM](https://archive.org/download/motherjones-2022/motherjones-2022-08-07T18:01:38.004602-07:00.accessibility.json) |
 | [August 7 at 11:45 AM](https://archive.org/download/motherjones-2022/motherjones-2022-08-07T11:45:36.729621-07:00.accessibility.json) |
@@ -427,14 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 6 at 11:42 AM](https://archive.org/download/motherjones-2022/motherjones-2022-08-06T11:42:13.042493-07:00.accessibility.json) |
 | [August 6 at 5:31 AM](https://archive.org/download/motherjones-2022/motherjones-2022-08-06T05:31:43.329231-07:00.accessibility.json) |
 | [August 5 at 7:07 PM](https://archive.org/download/motherjones-2022/motherjones-2022-08-05T19:06:59.973035-07:00.accessibility.json) |
-| [August 5 at 11:53 AM](https://archive.org/download/motherjones-2022/motherjones-2022-08-05T11:53:22.968388-07:00.accessibility.json) |
-| [August 5 at 5:39 AM](https://archive.org/download/motherjones-2022/motherjones-2022-08-05T05:39:17.478520-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 48 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 50 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 8 at 5:52 PM](https://archive.org/download/motherjones-2022/motherjones-2022-08-08T17:52:29.328649-07:00.lighthouse.json) |
+| [August 8 at 11:40 AM](https://archive.org/download/motherjones-2022/motherjones-2022-08-08T11:39:44.789155-07:00.lighthouse.json) |
 | [August 8 at 5:44 AM](https://archive.org/download/motherjones-2022/motherjones-2022-08-08T05:44:15.831605-07:00.lighthouse.json) |
 | [August 7 at 6:01 PM](https://archive.org/download/motherjones-2022/motherjones-2022-08-07T18:01:38.004602-07:00.lighthouse.json) |
 | [August 7 at 11:45 AM](https://archive.org/download/motherjones-2022/motherjones-2022-08-07T11:45:36.729621-07:00.lighthouse.json) |
@@ -533,8 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 6 at 11:42 AM](https://archive.org/download/motherjones-2022/motherjones-2022-08-06T11:42:13.042493-07:00.lighthouse.json) |
 | [August 6 at 5:31 AM](https://archive.org/download/motherjones-2022/motherjones-2022-08-06T05:31:43.329231-07:00.lighthouse.json) |
 | [August 5 at 7:07 PM](https://archive.org/download/motherjones-2022/motherjones-2022-08-05T19:06:59.973035-07:00.lighthouse.json) |
-| [August 5 at 11:53 AM](https://archive.org/download/motherjones-2022/motherjones-2022-08-05T11:53:22.968388-07:00.lighthouse.json) |
-| [August 5 at 5:39 AM](https://archive.org/download/motherjones-2022/motherjones-2022-08-05T05:39:17.478520-07:00.lighthouse.json) |
 
 
 
