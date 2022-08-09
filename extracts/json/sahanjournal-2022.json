@@ -1,5 +1,6 @@
 {
-  "created": 1660006835,
+  "conflict": 1660050290,
+  "created": 1660050290,
   "d1": "ia601002.us.archive.org",
   "d2": "ia801002.us.archive.org",
   "dir": "/3/items/sahanjournal-2022",
@@ -9581,21 +9582,32 @@
       "format": "JSON"
     },
     {
+      "name": "sahanjournal-2022-08-08T19:59:20.093425-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sahanjournal-2022-08-08T19:59:20.093425-05:00.jpg",
+      "mtime": "1660006893",
+      "size": "10550",
+      "md5": "fe51bf22d6d556bf1a93352c83acd146",
+      "crc32": "8d62a6dd",
+      "sha1": "c807a077371c2bf7ff69d83cf0b1cd70b10e0557"
+    },
+    {
       "name": "sahanjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f67f1311b6c15de8917519e7b517a62891067e3a",
-      "mtime": "1660006830",
-      "size": "197851",
-      "md5": "45151c80b2a2d2495bf8901f5065e897",
-      "crc32": "2fca9cdf",
-      "sha1": "f208a4ff394f4fdfdd5c4b8a9dc2a890b3311e82",
+      "btih": "98d6ba17f509bd4670c000a5b074ead083af2c72",
+      "mtime": "1660006975",
+      "size": "198060",
+      "md5": "085b4c7805c4cde4fad0a56e93c56f0b",
+      "crc32": "8dba3f12",
+      "sha1": "a06819e793f3f3815e70f4b32d59776b6b43f9cf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sahanjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "58dbbc8b5a9b7071e2db7a332c7eb5df",
+      "md5": "4659db349d73e2622d3ba34184504d89",
       "summation": "md5"
     },
     {
@@ -9619,9 +9631,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 918,
-  "item_last_updated": 1660006830,
-  "item_size": 79287939,
+  "files_count": 919,
+  "item_last_updated": 1660006975,
+  "item_size": 79298698,
   "metadata": {
     "identifier": "sahanjournal-2022",
     "collection": [
@@ -9643,15 +9655,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3357857436,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3358564386,
+      "cmd": "archive.php",
+      "priority": -5,
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
     }
   ],
-  "uniq": 966252432,
+  "uniq": 456904193,
   "workable_servers": [
     "ia601002.us.archive.org"
   ]

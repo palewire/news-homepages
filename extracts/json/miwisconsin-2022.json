@@ -1,5 +1,5 @@
 {
-  "created": 1660006549,
+  "created": 1660050022,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/15/items/miwisconsin-2022",
@@ -3010,31 +3010,93 @@
       "sha1": "d67faf7c54592c42c10d58b309bd2557bdf458ee"
     },
     {
+      "name": "miwisconsin-2022-08-08T22:50:36.924034-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660017041",
+      "size": "42015",
+      "md5": "f84db022b96261b41d9d5282338aae0d",
+      "crc32": "551fcea2",
+      "sha1": "bb5b22ecd0502bc1da824e1eb34814bf135f3f85",
+      "format": "JSON"
+    },
+    {
+      "name": "miwisconsin-2022-08-08T22:50:36.924034-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660017043",
+      "size": "58635",
+      "md5": "547222b887142d461486813bdc279dc7",
+      "crc32": "9fa448a6",
+      "sha1": "7896247155bd25f410b6e3c2d13df9db4996548e",
+      "format": "JSON"
+    },
+    {
+      "name": "miwisconsin-2022-08-08T22:50:36.924034-05:00.jpg",
+      "source": "original",
+      "mtime": "1660017038",
+      "size": "221733",
+      "md5": "e5e89abff0fee9f9c83573cbd405b6e7",
+      "crc32": "8e1515ff",
+      "sha1": "ea852fff63bba901552e8d99a44f3a99c84bf72a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "miwisconsin-2022-08-08T22:50:36.924034-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660017045",
+      "size": "1468",
+      "md5": "ddb2ffe07c5281ff63af804997053e78",
+      "crc32": "41aeac97",
+      "sha1": "3dd834fdda6284cc641ca9555f8b26466b7a6959",
+      "format": "JSON"
+    },
+    {
+      "name": "miwisconsin-2022-08-08T22:50:36.924034-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660017047",
+      "size": "100",
+      "md5": "c8283cedbc62aef025032a791d62e851",
+      "crc32": "0a30697e",
+      "sha1": "888f48250b1c7064af1b990f87057a42c0ab2f0f",
+      "format": "JSON"
+    },
+    {
+      "name": "miwisconsin-2022-08-08T22:50:36.924034-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "miwisconsin-2022-08-08T22:50:36.924034-05:00.jpg",
+      "mtime": "1660017141",
+      "size": "9870",
+      "md5": "5e8fab129a5636c1e1eb8c93d87f3d67",
+      "crc32": "835fa99e",
+      "sha1": "fc6da39f0fecbfec3b4f813b6cc0e46c74ea7608"
+    },
+    {
       "name": "miwisconsin-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8884457b6ff12da99261ae9c1266d227a25d2456",
-      "mtime": "1659978691",
-      "size": "62860",
-      "md5": "040206603b22160647afdb43d4d2a4d6",
-      "crc32": "122ef1fe",
-      "sha1": "17027134aef3e7ad1c95ce54ea3a25efa9b55b10",
+      "btih": "ecdde1be63e46e2378974a1a58c08d2d5b28300f",
+      "mtime": "1660017152",
+      "size": "64143",
+      "md5": "6a064d32084e8587aede46b1a8f1e459",
+      "crc32": "25b7632a",
+      "sha1": "fba3bb6214f17ccb02bebb5916f96fa25615a79f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "miwisconsin-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6229fc22d16a08d372d777156cfd8f82",
+      "md5": "5b3ccd25dd84705240105d9288096c17",
       "summation": "md5"
     },
     {
       "name": "miwisconsin-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659978628",
-      "size": "364544",
-      "md5": "61d1734a356835b07dc7216d18963a16",
-      "crc32": "899592fc",
-      "sha1": "94178d5e9123855994aa4f92fbdc1a4e9118ed56",
+      "mtime": "1660017051",
+      "size": "372736",
+      "md5": "305edc19cf69c29a411ec45cbbe67dbd",
+      "crc32": "98687343",
+      "sha1": "7da8c6d5ad41ba3d49c72a5e121530364c58da14",
       "format": "Metadata"
     },
     {
@@ -3048,9 +3110,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 292,
-  "item_last_updated": 1659978691,
-  "item_size": 21014849,
+  "files_count": 298,
+  "item_last_updated": 1660017152,
+  "item_size": 21358145,
   "metadata": {
     "identifier": "miwisconsin-2022",
     "collection": [
@@ -3071,10 +3133,10 @@
     "url": "https://miwisconsin.com/",
     "job_id": "spn2-3729e8d76e7e8ee2d0d8142810d6f1996a466b22"
   },
-  "server": "ia601502.us.archive.org",
-  "uniq": 1457013247,
+  "server": "ia801502.us.archive.org",
+  "uniq": 670380713,
   "workable_servers": [
-    "ia601502.us.archive.org",
-    "ia801502.us.archive.org"
+    "ia801502.us.archive.org",
+    "ia601502.us.archive.org"
   ]
 }

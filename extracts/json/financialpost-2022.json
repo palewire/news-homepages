@@ -1,5 +1,5 @@
 {
-  "created": 1660006212,
+  "created": 1660049620,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/6/items/financialpost-2022",
@@ -4470,31 +4470,93 @@
       "sha1": "6f38111515ab9c9ade7051ebcc60e8a1a65ff5ef"
     },
     {
+      "name": "financialpost-2022-08-08T23:42:06.113977-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660016530",
+      "size": "66228",
+      "md5": "f0a133acbcad7b014fc1fd3314b69c9c",
+      "crc32": "c1cf34eb",
+      "sha1": "b1c56b81392c51a657e624231051822316d2f8c3",
+      "format": "JSON"
+    },
+    {
+      "name": "financialpost-2022-08-08T23:42:06.113977-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660016532",
+      "size": "47342",
+      "md5": "90ba6da95dab0ffe27d9c52ecd89f717",
+      "crc32": "791cfa20",
+      "sha1": "90b1b8cf41480606a9a18419c8b526f31bf358df",
+      "format": "JSON"
+    },
+    {
+      "name": "financialpost-2022-08-08T23:42:06.113977-04:00.jpg",
+      "source": "original",
+      "mtime": "1660016528",
+      "size": "321720",
+      "md5": "2ab66ee73c198440d7b64a6c97447e61",
+      "crc32": "f2311602",
+      "sha1": "dede9b2812c45ed2bd36a349314fa3bc6523b584",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "financialpost-2022-08-08T23:42:06.113977-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660016536",
+      "size": "1485",
+      "md5": "1ba469117a5893bcb3ca3fd54f22b271",
+      "crc32": "bba328cf",
+      "sha1": "4c6d881835134fca6c62b88266f91bc1690644fa",
+      "format": "JSON"
+    },
+    {
+      "name": "financialpost-2022-08-08T23:42:06.113977-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660016538",
+      "size": "408",
+      "md5": "807163580d911a880e70c71c0d6aed6d",
+      "crc32": "23c1042c",
+      "sha1": "d6dcd8825199ddd01af9b1d83e5552423e6b7a26",
+      "format": "JSON"
+    },
+    {
+      "name": "financialpost-2022-08-08T23:42:06.113977-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "financialpost-2022-08-08T23:42:06.113977-04:00.jpg",
+      "mtime": "1660016613",
+      "size": "10344",
+      "md5": "39b1790da0f739871925a6e45ec14d2b",
+      "crc32": "483929b8",
+      "sha1": "bad437e968b6aee996f2f8e8c8abc28d6d3c7934"
+    },
+    {
       "name": "financialpost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "866bfd824d9524cbe30a4f3a233b10162e85734b",
-      "mtime": "1659978166",
-      "size": "93875",
-      "md5": "fea4a5d1562bc0a2dc05eccc1e85b1d6",
-      "crc32": "4895550f",
-      "sha1": "b2615d1b46e06012ef377671ad7dab46052e851f",
+      "btih": "24bd526497cfd45a5ff2d68e4d0fd8d182e303a6",
+      "mtime": "1660016622",
+      "size": "95171",
+      "md5": "2c7836f2ca44e2626aa92ef71c0ed723",
+      "crc32": "bfada276",
+      "sha1": "c270b862fe589d537dd0a1ec8daed4f35cae835a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "financialpost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "be7a4a92866ffc82fc0e965f7ec2792e",
+      "md5": "c3c9fd8aac53744d74c77d9614ac85e1",
       "summation": "md5"
     },
     {
       "name": "financialpost-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659978068",
-      "size": "524288",
-      "md5": "beb21b913b69111ad5e6c72503e67f47",
-      "crc32": "7eea86ee",
-      "sha1": "dc9d706ac995f7fbddd615d386227923a7b7e5ed",
+      "mtime": "1660016540",
+      "size": "532480",
+      "md5": "139b5440b678c4769a1f70301dc79b9a",
+      "crc32": "f98b1643",
+      "sha1": "528d01e434df0a476bfc060539196fcb23544650",
       "format": "Metadata"
     },
     {
@@ -4508,50 +4570,26 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 431,
-  "financialpost-2022": [
-    {
-      "url": "https://financialpost.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/financialpost_com-_-2022_08_08_15_12_32.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/financialpost_com-_-2022_08_08_15_12_32.report.json",
-      "summary": {
-        "performance": 0.23,
-        "accessibility": 0.93,
-        "best-practices": 0.92,
-        "seo": 0.91,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://financialpost.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/financialpost_com-_-2022_08_08_15_12_55.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/financialpost_com-_-2022_08_08_15_12_55.report.json",
-      "summary": {
-        "performance": 0.21,
-        "accessibility": 0.93,
-        "best-practices": 0.92,
-        "seo": 0.91,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://financialpost.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/financialpost_com-_-2022_08_08_15_13_19.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/financialpost_com-_-2022_08_08_15_13_19.report.json",
-      "summary": {
-        "performance": 0.23,
-        "accessibility": 0.93,
-        "best-practices": 0.92,
-        "seo": 0.91,
-        "pwa": 0.4
-      }
+  "files_count": 437,
+  "financialpost-2022": {
+    "url": "https://financialpost.com/",
+    "job_id": "spn2-a05068bd832f1a1520ed9b41659c918cb0722845",
+    "http_status": 403,
+    "timestamp": "20220809032828",
+    "original_url": "https://financialpost.com/",
+    "resources": [
+      "https://financialpost.com/",
+      "https://financialpost.com/favicon.ico"
+    ],
+    "duration_sec": 5.86,
+    "status": "success",
+    "counters": {
+      "outlinks": 0,
+      "embeds": 2
     }
-  ],
-  "item_last_updated": 1659978166,
-  "item_size": 42862420,
+  },
+  "item_last_updated": 1660016622,
+  "item_size": 43319435,
   "metadata": {
     "identifier": "financialpost-2022",
     "collection": [
@@ -4568,10 +4606,10 @@
     "publicdate": "2022-06-30 22:35:47",
     "addeddate": "2022-06-30 22:35:47"
   },
-  "server": "ia601404.us.archive.org",
-  "uniq": 363003630,
+  "server": "ia801404.us.archive.org",
+  "uniq": 2005668099,
   "workable_servers": [
-    "ia601404.us.archive.org",
-    "ia801404.us.archive.org"
+    "ia801404.us.archive.org",
+    "ia601404.us.archive.org"
   ]
 }

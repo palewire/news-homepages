@@ -1,5 +1,5 @@
 {
-  "created": 1659968923,
+  "created": 1660050749,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/32/items/wgrz-2022",
@@ -642,31 +642,83 @@
       "sha1": "fb27d2fcff8e0616093024532c4194df8e33642c"
     },
     {
+      "name": "wgrz-2022-08-08T22:29:44.415146-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660012187",
+      "size": "1147",
+      "md5": "cfc7e6268d993faa5a3ac9b5bfe574c3",
+      "crc32": "a60a8a1a",
+      "sha1": "77fc062fff93f6228acca831929e15f76c9862cf",
+      "format": "JSON"
+    },
+    {
+      "name": "wgrz-2022-08-08T22:29:44.415146-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660012189",
+      "size": "664",
+      "md5": "bca834909ee238a2d788907dac737110",
+      "crc32": "e6f34670",
+      "sha1": "e57edecff6d75a85fcb497a42d4cba3b48ba9517",
+      "format": "JSON"
+    },
+    {
+      "name": "wgrz-2022-08-08T22:29:44.415146-04:00.jpg",
+      "source": "original",
+      "mtime": "1660012186",
+      "size": "63160",
+      "md5": "64f902277850b3efe96e2001edd4b730",
+      "crc32": "f537ad26",
+      "sha1": "4403aa8c36aaba35c89a499cc527f014508d9645",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wgrz-2022-08-08T22:29:44.415146-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660012191",
+      "size": "2408",
+      "md5": "593158095085b07c3a66c6fbfd40f3a1",
+      "crc32": "b6fb1fe4",
+      "sha1": "f62cfdb3731a5083e45d8d7271a01c53629c0d5b",
+      "format": "JSON"
+    },
+    {
+      "name": "wgrz-2022-08-08T22:29:44.415146-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wgrz-2022-08-08T22:29:44.415146-04:00.jpg",
+      "mtime": "1660012283",
+      "size": "6552",
+      "md5": "861cc21164c129751c528e6c0737ccbe",
+      "crc32": "270e8b54",
+      "sha1": "fb27d2fcff8e0616093024532c4194df8e33642c"
+    },
+    {
       "name": "wgrz-2022_archive.torrent",
       "source": "metadata",
-      "btih": "63994b479b3870b11962b5f42f36ba400b27c810",
-      "mtime": "1659968887",
-      "size": "13747",
-      "md5": "218c3cf57a23f7d11e92076a2cbf479e",
-      "crc32": "7ace3264",
-      "sha1": "a61281d4da0773e3e9308494974e325b9794625d",
+      "btih": "d0c87be747554b4eb047c755e50f52e6aed3764e",
+      "mtime": "1660012294",
+      "size": "14779",
+      "md5": "6318782a04cfa297424443949d4d1c8e",
+      "crc32": "802ce140",
+      "sha1": "f0c215c59e77f910306e892157c58a6d40a515ae",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wgrz-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1920e39c9475098c8821e830465cb16c",
+      "md5": "9c1e632b58a72fe3ef2041dac8fe4bb3",
       "summation": "md5"
     },
     {
       "name": "wgrz-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659968832",
-      "size": "86016",
-      "md5": "becd7b8951ebfa398cd629676b15e7ae",
-      "crc32": "5a64d54d",
-      "sha1": "995dde44ea5a60eb329b8550db33df9724174f48",
+      "mtime": "1660012195",
+      "size": "90112",
+      "md5": "75604c26cc4305a5bb691b60bd112d34",
+      "crc32": "8d6ee140",
+      "sha1": "96551f7231ba49fe705d3a70010dee646e07fcb8",
       "format": "Metadata"
     },
     {
@@ -680,9 +732,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 65,
-  "item_last_updated": 1659968887,
-  "item_size": 1052936,
+  "files_count": 70,
+  "item_last_updated": 1660012294,
+  "item_size": 1131995,
   "metadata": {
     "identifier": "wgrz-2022",
     "collection": [
@@ -700,7 +752,50 @@
     "addeddate": "2022-08-03 02:01:34"
   },
   "server": "ia801402.us.archive.org",
-  "uniq": 59833655,
+  "uniq": 974131250,
+  "wgrz-2022": {
+    "url": "https://www.wgrz.com/WGRZ",
+    "job_id": "spn2-266c9bb37c503166202349fa299aacf32634a92b",
+    "http_status": 404,
+    "timestamp": "20220809020933",
+    "original_url": "https://www.wgrz.com/WGRZ",
+    "resources": [
+      "https://www.wgrz.com/WGRZ",
+      "https://www.wgrz.com/critical.min.css",
+      "https://www.wgrz.com/themes/warm.css",
+      "https://tags.tiqcdn.com/utag/tegna/wgrz-redesign-desktop/prod/utag.js",
+      "https://www.wgrz.com/modules.min_6.6.3.css",
+      "https://www.wgrz.com/assets/shared-images/logos/wgrz.png",
+      "https://cdn.taboola.com/libtrc/tegna-network1/loader.js",
+      "https://c.amazon-adsystem.com/aax2/apstag.js",
+      "https://www.googletagservices.com/tag/js/gpt.js",
+      "https://native.sharethrough.com/assets/sfp.js?utv=ut4.44.202107201637",
+      "https://www.wgrz.com/assets/shared-images/backgrounds/diag-5x5-blue-2x.png",
+      "https://www.wgrz.com/images/error/magnify.png",
+      "https://www.wgrz.com/assets/fonts/proximanova-extrabold-webfont.woff2",
+      "https://www.wgrz.com/assets/fonts/proximanova-regular-webfont.woff2",
+      "https://www.wgrz.com/assets/fonts/proximanova-semibold-webfont.woff2",
+      "https://sb.scorecardresearch.com/beacon.js",
+      "https://cdn.opecloud.com/ope-undefined.js",
+      "https://www.wgrz.com/undefined",
+      "https://c.amazon-adsystem.com/bao-csm/aps-comm/aps_csm.js",
+      "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2022080401.js?cb=31068846",
+      "https://securepubads.g.doubleclick.net/pagead/ppub_config?ippd=www.wgrz.com",
+      "https://sb.scorecardresearch.com/b?c1=2&c2=19962895&name=404&comscorekw=error&category=error&ns__t=1660010973973&ns_c=UTF-8&c8=404 Not Found | wgrz.com&c7=https://www.wgrz.com/WGRZ&c9=",
+      "https://sb.scorecardresearch.com/b?c1=7&c2=34354936&c3=1&cs_it=b3&cv=3.8.0.210223&ns__t=1660010974086&ns_c=UTF-8&c7=https://www.wgrz.com/WGRZ&c8=404 Not Found | wgrz.com&c9=",
+      "https://sb.scorecardresearch.com/internal-c2/default/cs.js",
+      "https://tags.tiqcdn.com/utag/tegna/wgrz-redesign-desktop/prod/utag.557.js?utv=ut4.44.202005210431",
+      "https://i.simpli.fi/dpx?cid=c8e58c20-b2b0-0136-5199-067f653fa718&",
+      "https://tags.tiqcdn.com/utag/tiqapp/utag.v.js?a=tegna/wgrz-redesign-desktop/202208042011&cb=1660010974211",
+      "https://www.wgrz.com/assets/favicons/WGRZ.png"
+    ],
+    "duration_sec": 6.424,
+    "status": "success",
+    "counters": {
+      "outlinks": 0,
+      "embeds": 28
+    }
+  },
   "workable_servers": [
     "ia801402.us.archive.org",
     "ia601402.us.archive.org"

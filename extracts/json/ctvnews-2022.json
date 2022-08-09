@@ -1,5 +1,10 @@
 {
-  "created": 1659968467,
+  "created": 1660049540,
+  "ctvnews-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/12/items/ctvnews-2022",
@@ -4166,31 +4171,83 @@
       "sha1": "876ca98dbbb31a6e47f6ad20723ecb6e6aae45c5"
     },
     {
+      "name": "ctvnews-2022-08-08T22:22:51.662550-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660011775",
+      "size": "79759",
+      "md5": "956febecb8a547ed388f121cad7043f5",
+      "crc32": "cec52178",
+      "sha1": "f3720c2fb9a8dc652967be360174d5be63fd046b",
+      "format": "JSON"
+    },
+    {
+      "name": "ctvnews-2022-08-08T22:22:51.662550-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660011776",
+      "size": "94660",
+      "md5": "72b96fb0ab31cf969709b658406ec0c3",
+      "crc32": "651274b1",
+      "sha1": "4042331f7bf0145e864ee73d81694d4384a1cbcb",
+      "format": "JSON"
+    },
+    {
+      "name": "ctvnews-2022-08-08T22:22:51.662550-04:00.jpg",
+      "source": "original",
+      "mtime": "1660011773",
+      "size": "311252",
+      "md5": "3e5156987d0b58f87e1a2aa5db0a1e60",
+      "crc32": "bb246bcf",
+      "sha1": "a5588eb69121ec1ddbf94063ba6cde54ef4a718c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ctvnews-2022-08-08T22:22:51.662550-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660011778",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "ctvnews-2022-08-08T22:22:51.662550-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ctvnews-2022-08-08T22:22:51.662550-04:00.jpg",
+      "mtime": "1660011977",
+      "size": "10335",
+      "md5": "68f53d91ca57a6e3db1a2d807f581f0d",
+      "crc32": "849f4df5",
+      "sha1": "1db75490d5bc6fe4be6de1691fb7e1479bcc5cf5"
+    },
+    {
       "name": "ctvnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2629efb803ee47b3b1bba032427c4314f960f83d",
-      "mtime": "1659968439",
-      "size": "84991",
-      "md5": "7e80cf43ed4cd4668b06f80791113c0c",
-      "crc32": "7f542735",
-      "sha1": "c4bc5feccff92708161bbbdb4a8b8f6d500ec772",
+      "btih": "7e310f94d2e40616ec79485ab4bb68eafded3a14",
+      "mtime": "1660011983",
+      "size": "86042",
+      "md5": "bd9b6a77f99a54562b1be7e2a99aa114",
+      "crc32": "be962ae6",
+      "sha1": "cc2f8f1dcf9b762a6db9d2de424e4dfaafa63d32",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ctvnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3b6227d67c568e1364b858d7d2c34198",
+      "md5": "e06ed79a99dee6c3cabb0d43f155a310",
       "summation": "md5"
     },
     {
       "name": "ctvnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659968388",
-      "size": "471040",
-      "md5": "fb1a4820e615112a276f94cd3707a320",
-      "crc32": "7a9ab049",
-      "sha1": "43ffc50a0bb7a53a3272df2b230dd66932176bdf",
+      "mtime": "1660011782",
+      "size": "475136",
+      "md5": "29c4380468c54c3d885cde3a01662ea1",
+      "crc32": "897a192c",
+      "sha1": "cbdf9ce42eb4aa7ac78f03cdd037b2fcd2c789ca",
       "format": "Metadata"
     },
     {
@@ -4204,9 +4261,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 400,
-  "item_last_updated": 1659968439,
-  "item_size": 50136303,
+  "files_count": 405,
+  "item_last_updated": 1660011983,
+  "item_size": 50637658,
   "metadata": {
     "identifier": "ctvnews-2022",
     "collection": [
@@ -4224,7 +4281,7 @@
     "addeddate": "2022-06-30 22:35:40"
   },
   "server": "ia802505.us.archive.org",
-  "uniq": 47041384,
+  "uniq": 913294894,
   "workable_servers": [
     "ia802505.us.archive.org",
     "ia902505.us.archive.org"

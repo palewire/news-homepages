@@ -1,5 +1,5 @@
 {
-  "created": 1660007156,
+  "created": 1660022279,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/9/items/unichicago-2022",
@@ -1804,31 +1804,83 @@
       "sha1": "2ddd640356c5a0f31343a8862743e8cc495d446f"
     },
     {
+      "name": "unichicago-2022-08-09T00:13:39.866393-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660022022",
+      "size": "23836",
+      "md5": "25654852b803569d610661b5605a83f3",
+      "crc32": "d2b092c7",
+      "sha1": "ea532a655e8190062c7bca2b7526fab96b94419a",
+      "format": "JSON"
+    },
+    {
+      "name": "unichicago-2022-08-09T00:13:39.866393-05:00.jpg",
+      "source": "original",
+      "mtime": "1660022021",
+      "size": "263003",
+      "md5": "4267a80669a8547c7b134b8fb337f0f1",
+      "crc32": "c28fdff2",
+      "sha1": "482855fd85a69937b958dcfcf8a4a832f89a77c2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "unichicago-2022-08-09T00:13:39.866393-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660022024",
+      "size": "1648",
+      "md5": "a9107459332f9ea495ff51797a8c42c1",
+      "crc32": "a129d416",
+      "sha1": "8ab53b784984bc8f58167b6d13647c40a587adf4",
+      "format": "JSON"
+    },
+    {
+      "name": "unichicago-2022-08-09T00:13:39.866393-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660022026",
+      "size": "128075",
+      "md5": "5812754a950ac09cf98ead8c6b02d2f8",
+      "crc32": "b204b4c4",
+      "sha1": "7e9e895673584f4decd9818089288959e8101941",
+      "format": "JSON"
+    },
+    {
+      "name": "unichicago-2022-08-09T00:13:39.866393-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "unichicago-2022-08-09T00:13:39.866393-05:00.jpg",
+      "mtime": "1660022187",
+      "size": "10313",
+      "md5": "0c90e5dc1a8aeb307cfac31ce5204b32",
+      "crc32": "75a9d555",
+      "sha1": "163f4a284b9703f8a8308ff351893b895409641d"
+    },
+    {
       "name": "unichicago-2022_archive.torrent",
       "source": "metadata",
-      "btih": "77cdbc76fc13c9ceebadaf5698ca4975ec5bea5e",
-      "mtime": "1659980789",
-      "size": "38121",
-      "md5": "0fd272e4e15f8119adcc4e119e36bd99",
-      "crc32": "441e41e0",
-      "sha1": "d13cc51478ced2e76dbb08002eda6978bd08f761",
+      "btih": "e207fa8d74de14edfb5599427c87e24246519aaa",
+      "mtime": "1660022191",
+      "size": "39189",
+      "md5": "417631b5c617b173a762a232d1b5436e",
+      "crc32": "57b5721e",
+      "sha1": "dcdc1788590e3b00473a6accaa2c5073a9f3b650",
       "format": "Archive BitTorrent"
     },
     {
       "name": "unichicago-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b6aabe42367ab063ae170fbe69ebe6df",
+      "md5": "30007e0772731c722826e2c17eeb65fc",
       "summation": "md5"
     },
     {
       "name": "unichicago-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659980735",
-      "size": "233472",
-      "md5": "dfea89c086e2b4e50f6ed126a3f5d483",
-      "crc32": "6d7e0d61",
-      "sha1": "ad4235eef9df7cc4c39ecf55c83f8f3bdbdd83f7",
+      "mtime": "1660022031",
+      "size": "241664",
+      "md5": "98a72b84d8b1f00c4a64261d72086b01",
+      "crc32": "37294ac6",
+      "sha1": "39f00f94567ba52fb52ee34a5aabf22867572a69",
       "format": "Metadata"
     },
     {
@@ -1842,9 +1894,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 177,
-  "item_last_updated": 1659980789,
-  "item_size": 11279273,
+  "files_count": 182,
+  "item_last_updated": 1660022191,
+  "item_size": 11715408,
   "metadata": {
     "identifier": "unichicago-2022",
     "collection": [
@@ -1861,15 +1913,10 @@
     "publicdate": "2022-07-28 20:05:24",
     "addeddate": "2022-07-28 20:05:24"
   },
-  "server": "ia601504.us.archive.org",
-  "unichicago-2022": {
-    "url": "https://www.univision.com/local/chicago-wgbo",
-    "job_id": "spn2-eb121edaecfef0ed48cb2557b2e305ff23fd5235",
-    "message": "The same snapshot had been made 43 minutes, 46 seconds ago. You can make new capture of this URL after 45 minutes."
-  },
-  "uniq": 1457310456,
+  "server": "ia801504.us.archive.org",
+  "uniq": 516778155,
   "workable_servers": [
-    "ia601504.us.archive.org",
-    "ia801504.us.archive.org"
+    "ia801504.us.archive.org",
+    "ia601504.us.archive.org"
   ]
 }

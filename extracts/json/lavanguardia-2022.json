@@ -1,5 +1,5 @@
 {
-  "created": 1660006288,
+  "created": 1660049849,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/15/items/lavanguardia-2022",
@@ -1268,31 +1268,83 @@
       "sha1": "6b722026b8e8d6d7da99807a594f0f30578753cd"
     },
     {
+      "name": "lavanguardia-2022-08-09T14:54:59.404454+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660049703",
+      "size": "57183",
+      "md5": "c309862bb30c533fe7f161d8f9b8d5c2",
+      "crc32": "f5dbe1b2",
+      "sha1": "741f3e737238cddd0ea8e3a1fcd850b1f0bb256a",
+      "format": "JSON"
+    },
+    {
+      "name": "lavanguardia-2022-08-09T14:54:59.404454+02:00.jpg",
+      "source": "original",
+      "mtime": "1660049702",
+      "size": "261254",
+      "md5": "98c9a4ee9950603736b76c3e0fdfc943",
+      "crc32": "8ed68f4a",
+      "sha1": "2bb22d983e3b4e840ff5612fc4c24651a53bacb1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lavanguardia-2022-08-09T14:54:59.404454+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660049705",
+      "size": "1513",
+      "md5": "c98ee9dc16a9759ee905b9c694882205",
+      "crc32": "b54a3f86",
+      "sha1": "6f98ed00e04ffafdaf4b8acbf612005827a31d2e",
+      "format": "JSON"
+    },
+    {
+      "name": "lavanguardia-2022-08-09T14:54:59.404454+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1660049707",
+      "size": "20593",
+      "md5": "7c9ec6f4cf92db12ba27e30c480305e6",
+      "crc32": "08289d58",
+      "sha1": "d93cf99cecd69a44b9c36a990259f0aafe3332ce",
+      "format": "JSON"
+    },
+    {
+      "name": "lavanguardia-2022-08-09T14:54:59.404454+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lavanguardia-2022-08-09T14:54:59.404454+02:00.jpg",
+      "mtime": "1660049782",
+      "size": "9492",
+      "md5": "599e0d60a6e556df32ac6968e2f4fbef",
+      "crc32": "b3ec368c",
+      "sha1": "03b07eb2560cb180246bc734bd7c9aef03a1fb91"
+    },
+    {
       "name": "lavanguardia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "df57b871884e6623cf866758b9d8c891b9fc2cd1",
-      "mtime": "1660006271",
-      "size": "27623",
-      "md5": "25fbdbafffb818e11a295f7d165288cf",
-      "crc32": "d60e1eb8",
-      "sha1": "c6902045d4ea44634211b14133194f99b80ec25a",
+      "btih": "35297b0be83c2b6c24aa2b6c2eda1f09b5a26eac",
+      "mtime": "1660049788",
+      "size": "28699",
+      "md5": "ceaa11fa1e8a56d597c50646e94348da",
+      "crc32": "899c851c",
+      "sha1": "23528e99369a4cca1ea2fb123baf6ddbfed004bd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lavanguardia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a90f6090665d5ce45a6544e116ee5f59",
+      "md5": "53f8b72b1bb1665ac39314d672357356",
       "summation": "md5"
     },
     {
       "name": "lavanguardia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660006201",
-      "size": "176128",
-      "md5": "e1a1be28e238bd81a9b8030a6c91190c",
-      "crc32": "d1b2bc17",
-      "sha1": "19c32d84897559a02ba8eb790e5ba084f0a8d4e7",
+      "mtime": "1660049710",
+      "size": "184320",
+      "md5": "c9cb1d2d6b3d1c341599f8a4c9cf1ae7",
+      "crc32": "b8bee4df",
+      "sha1": "10a8fcef8877ed1d59d7ce29baa4083e57b88db8",
       "format": "Metadata"
     },
     {
@@ -1306,9 +1358,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 126,
-  "item_last_updated": 1660006271,
-  "item_size": 8321076,
+  "files_count": 131,
+  "item_last_updated": 1660049788,
+  "item_size": 8680379,
   "metadata": {
     "identifier": "lavanguardia-2022",
     "collection": [
@@ -1325,10 +1377,10 @@
     "publicdate": "2022-07-28 18:53:54",
     "addeddate": "2022-07-28 18:53:54"
   },
-  "server": "ia601503.us.archive.org",
-  "uniq": 1749313555,
+  "server": "ia801503.us.archive.org",
+  "uniq": 246100320,
   "workable_servers": [
-    "ia601503.us.archive.org",
-    "ia801503.us.archive.org"
+    "ia801503.us.archive.org",
+    "ia601503.us.archive.org"
   ]
 }

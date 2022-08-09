@@ -1,6 +1,6 @@
 {
-  "conflict": 1660006442,
-  "created": 1660006442,
+  "conflict": 1660049806,
+  "created": 1660049806,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/4/items/lajornada-2022",
@@ -20185,31 +20185,88 @@
       "sha1": "5ef07ba03e7d05a1063d08917f68ca3690de6a65"
     },
     {
+      "name": "lajornada-2022-08-09T07:54:49.162715-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660049694",
+      "size": "4466",
+      "md5": "8595f7cf3ef9138525e74aee77c18552",
+      "crc32": "022338f5",
+      "sha1": "353fffa65c244b4dd5f3f7dc4b0b0127eaddb74e",
+      "format": "JSON"
+    },
+    {
+      "name": "lajornada-2022-08-09T07:54:49.162715-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660049696",
+      "size": "8546",
+      "md5": "c062f6b0c6915ccd86aba9b3e1108b5b",
+      "crc32": "ad1cd3ff",
+      "sha1": "8da57dfed6595011031cbc61b7e305b5cfcd8274",
+      "format": "JSON"
+    },
+    {
+      "name": "lajornada-2022-08-09T07:54:49.162715-05:00.jpg",
+      "source": "original",
+      "mtime": "1660049691",
+      "size": "140511",
+      "md5": "2227409e8ae4fe06eb27b1aec8ef25ef",
+      "crc32": "686ae88c",
+      "sha1": "924787e76e3cca72edd867e32f71347d066a8a6b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lajornada-2022-08-09T07:54:49.162715-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660049697",
+      "size": "1495",
+      "md5": "8e2e58ac1c8a64a3824e28bfe4fbd940",
+      "crc32": "95157058",
+      "sha1": "e9227752f48e08b045ea0e4543015a554f53ae38",
+      "format": "JSON"
+    },
+    {
+      "name": "lajornada-2022-08-09T07:54:49.162715-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660049700",
+      "size": "24075",
+      "md5": "770bc531a8af3e8809250cfb92975718",
+      "crc32": "5761e8d2",
+      "sha1": "6f4978785d09b48e0edb76700df8fd413e790040",
+      "format": "JSON"
+    },
+    {
+      "name": "lajornada-2022-08-09T07:54:49.162715-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lajornada-2022-08-09T07:54:49.162715-05:00.jpg"
+    },
+    {
       "name": "lajornada-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6c9d7e03b32647f4e53fcbb42eb4e292fad95374",
-      "mtime": "1660006437",
-      "size": "409697",
-      "md5": "167f61661f29b6570a12546622da6813",
-      "crc32": "f373039c",
-      "sha1": "a45fd0f9419fcfbfce3602a697f555feed2d3486",
+      "btih": "38297ad8bacf5c8d7e7627fcdf6d885de693e799",
+      "mtime": "1660049764",
+      "size": "410743",
+      "md5": "6031177d906c1e8339df77e0c46eb729",
+      "crc32": "e91dece7",
+      "sha1": "7071740afe898d6a7a6fd65ef593f48039549934",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lajornada-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dbb60512188d1e7beb520df4cf112020",
+      "md5": "43173cc17eb4ccaf9542d2bf268b17f1",
       "summation": "md5"
     },
     {
       "name": "lajornada-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660006180",
-      "size": "2224128",
-      "md5": "8ba69e80b1e7f94d6a86cd0e13bb9e53",
-      "crc32": "f13ffca2",
-      "sha1": "fbcab624a247d248604988408aa8db30f503fafb",
+      "mtime": "1660049702",
+      "size": "2236416",
+      "md5": "66231d599ae8f7d3aaf6a459bb8841ea",
+      "crc32": "c928f3f7",
+      "sha1": "40d361278f5ae6378a041708d8ac9aaf0977366c",
       "format": "Metadata"
     },
     {
@@ -20223,9 +20280,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1928,
-  "item_last_updated": 1660006437,
-  "item_size": 202419719,
+  "files_count": 1934,
+  "item_last_updated": 1660049764,
+  "item_size": 202612146,
   "metadata": {
     "identifier": "lajornada-2022",
     "collection": [
@@ -20247,23 +20304,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3357848835,
+      "task_id": 3358554790,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
-    },
-    {
-      "task_id": 3357851481,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
     }
   ],
-  "uniq": 1819177470,
+  "uniq": 918772895,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1660005837,
+  "created": 1660049301,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/35/items/fox5atlanta-2022",
@@ -2106,31 +2106,93 @@
       "sha1": "fbc18d4168f92ff4665781e45f3d2aba7441b240"
     },
     {
+      "name": "fox5atlanta-2022-08-09T08:46:40.947607-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660049204",
+      "size": "45870",
+      "md5": "580aa8454374f07957c395f287cf24bc",
+      "crc32": "8623e3f0",
+      "sha1": "c69daac34cab539b63badd48c6141251bf4ec466",
+      "format": "JSON"
+    },
+    {
+      "name": "fox5atlanta-2022-08-09T08:46:40.947607-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660049206",
+      "size": "37063",
+      "md5": "db1a6090ded75926ce432873a7116a3b",
+      "crc32": "f8ce0994",
+      "sha1": "27a068506683cd6d0e65207a1c67a51e4c5bc926",
+      "format": "JSON"
+    },
+    {
+      "name": "fox5atlanta-2022-08-09T08:46:40.947607-04:00.jpg",
+      "source": "original",
+      "mtime": "1660049202",
+      "size": "333518",
+      "md5": "81c2594932e250fb4c152e9f090469cf",
+      "crc32": "acd9fcc1",
+      "sha1": "a245cea534f687745a7d58bfedb6d6e73bc6bd19",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fox5atlanta-2022-08-09T08:46:40.947607-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660049208",
+      "size": "1504",
+      "md5": "5ee220df534ba4237687c7cc55314527",
+      "crc32": "e8530dad",
+      "sha1": "103d2e1efa320f57ef9ab6760f00368c22c97a4e",
+      "format": "JSON"
+    },
+    {
+      "name": "fox5atlanta-2022-08-09T08:46:40.947607-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660049209",
+      "size": "103",
+      "md5": "0e4cdefeebac52e0357b05f1d218cd0b",
+      "crc32": "75067bbb",
+      "sha1": "e696f23759b9b1726f4f50e8b1b77c9f2b1b6ffb",
+      "format": "JSON"
+    },
+    {
+      "name": "fox5atlanta-2022-08-09T08:46:40.947607-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fox5atlanta-2022-08-09T08:46:40.947607-04:00.jpg",
+      "mtime": "1660049277",
+      "size": "10439",
+      "md5": "c79aef1acf4405253a0da0b0a769dc7d",
+      "crc32": "8b2b7b78",
+      "sha1": "e76662a898d55e0edcdae030f68c2c1a3bd15329"
+    },
+    {
       "name": "fox5atlanta-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a38dba7323b0ce82b63c55eac05d6faf051337cf",
-      "mtime": "1660005829",
-      "size": "44726",
-      "md5": "f07e7b5766d76071d0e3b89217908758",
-      "crc32": "aeecf904",
-      "sha1": "05074d398e4356f15b8c0dd4dfe4388efbc6e3a9",
+      "btih": "f0ec9d475713de0d1ef40d124a0aff3a507b32c1",
+      "mtime": "1660049282",
+      "size": "46010",
+      "md5": "1a53a1ee5699e02026de5045453f5edb",
+      "crc32": "f24fbbf4",
+      "sha1": "0d4eadca36b4742d2b9c29e04b2ea2d491b84517",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fox5atlanta-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b2c38bbe6abcbc2600245520da04410f",
+      "md5": "23298517f411e0963c3443eefd33735d",
       "summation": "md5"
     },
     {
       "name": "fox5atlanta-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660005769",
-      "size": "270336",
-      "md5": "5f09e41bf4c41d5ffd04e24b3b3ec9bb",
-      "crc32": "948acd95",
-      "sha1": "3eff732fcb1b7377d25670558c0c31088908fc01",
+      "mtime": "1660049214",
+      "size": "278528",
+      "md5": "3f1b83a3c5a623a882c2f92250f7b90c",
+      "crc32": "c86ac070",
+      "sha1": "9d6e5cceca217b52137636ac1658e0f038cba1c7",
       "format": "Metadata"
     },
     {
@@ -2144,9 +2206,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 206,
-  "item_last_updated": 1660005829,
-  "item_size": 18244391,
+  "files_count": 212,
+  "item_last_updated": 1660049282,
+  "item_size": 18682364,
   "metadata": {
     "identifier": "fox5atlanta-2022",
     "collection": [
@@ -2163,10 +2225,10 @@
     "publicdate": "2022-07-20 23:30:58",
     "addeddate": "2022-07-20 23:30:58"
   },
-  "server": "ia801405.us.archive.org",
-  "uniq": 1266486428,
+  "server": "ia601405.us.archive.org",
+  "uniq": 1592204790,
   "workable_servers": [
-    "ia801405.us.archive.org",
-    "ia601405.us.archive.org"
+    "ia601405.us.archive.org",
+    "ia801405.us.archive.org"
   ]
 }

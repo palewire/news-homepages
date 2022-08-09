@@ -1,10 +1,5 @@
 {
-  "ajenglish-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1660005937,
+  "created": 1660048800,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/8/items/ajenglish-2022",
@@ -4947,31 +4942,93 @@
       "sha1": "6a036fb5b7269fbb2bfe7568beed382a34beef38"
     },
     {
+      "name": "ajenglish-2022-08-09T15:36:40.635013+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660048603",
+      "size": "18215",
+      "md5": "b02c248ea6b3b7becdb9523564c1f62d",
+      "crc32": "00261144",
+      "sha1": "d17e44780187bfe9cacac2aed565c0144a6445df",
+      "format": "JSON"
+    },
+    {
+      "name": "ajenglish-2022-08-09T15:36:40.635013+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660048604",
+      "size": "10197",
+      "md5": "717cbb0b7900d99868f50b307465e205",
+      "crc32": "369fa249",
+      "sha1": "28c64c75903072a648c69821ef163a8c6dc79671",
+      "format": "JSON"
+    },
+    {
+      "name": "ajenglish-2022-08-09T15:36:40.635013+03:00.jpg",
+      "source": "original",
+      "mtime": "1660048601",
+      "size": "311132",
+      "md5": "2ac696a59cfe76109f83488b61c837ea",
+      "crc32": "844cba31",
+      "sha1": "4be2eb24eda0ee0b4f00cf2d8357e259e7c08899",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ajenglish-2022-08-09T15:36:40.635013+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660048606",
+      "size": "1474",
+      "md5": "3d62c800dad31f7a4ee6a5b21e9b2431",
+      "crc32": "4013ef59",
+      "sha1": "2441a31ad76dd15230a97a41e5b8969ed7eb9c67",
+      "format": "JSON"
+    },
+    {
+      "name": "ajenglish-2022-08-09T15:36:40.635013+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1660048607",
+      "size": "28897",
+      "md5": "53b6a3fc80e979d915b14cf7ed19bce0",
+      "crc32": "488ccb0b",
+      "sha1": "e279cbfaf10f2681ec750b6936be2f97afba75a2",
+      "format": "JSON"
+    },
+    {
+      "name": "ajenglish-2022-08-09T15:36:40.635013+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ajenglish-2022-08-09T15:36:40.635013+03:00.jpg",
+      "mtime": "1660048786",
+      "size": "10286",
+      "md5": "680ca372b00df74374aa693fac635e0a",
+      "crc32": "12ec1d61",
+      "sha1": "f934c329fdd194e89058a334195299c769acd617"
+    },
+    {
       "name": "ajenglish-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8a35bcda362bb3bae76605dac46654dae8b66c0f",
-      "mtime": "1660005181",
-      "size": "101236",
-      "md5": "3091bdbf087c634f840175e2115462dd",
-      "crc32": "258de345",
-      "sha1": "34ca84b5950310a3a906d44d42dec0091dbceb1a",
+      "btih": "a469e39069a3fc356d6199ea3c4a79fb41effe03",
+      "mtime": "1660048791",
+      "size": "102490",
+      "md5": "de1eab3fa0557e26c08eb7ec57c466b1",
+      "crc32": "2fe3f4d8",
+      "sha1": "f3f84e33386ddc7838c33a8591848c9f4b07f15b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ajenglish-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "40f65ade4e187073e022eb05c154dfcd",
+      "md5": "1d73c7e9f9f6123cd7ffe6e2b94a6488",
       "summation": "md5"
     },
     {
       "name": "ajenglish-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660005080",
-      "size": "569344",
-      "md5": "e61f00044e8abbd89f121042111c5b75",
-      "crc32": "d7391433",
-      "sha1": "37b097d0ee8496a6954e7fe160c3772dd3f55dad",
+      "mtime": "1660048611",
+      "size": "581632",
+      "md5": "6c0cb63464cdc4efc019f7f7906d2a21",
+      "crc32": "69ec4f6a",
+      "sha1": "4e7fb2439eb534ea8148d84848b67f5fa189b691",
       "format": "Metadata"
     },
     {
@@ -4985,9 +5042,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 476,
-  "item_last_updated": 1660005181,
-  "item_size": 36854478,
+  "files_count": 482,
+  "item_last_updated": 1660048791,
+  "item_size": 37248221,
   "metadata": {
     "identifier": "ajenglish-2022",
     "collection": [
@@ -5005,7 +5062,7 @@
     "addeddate": "2022-06-24 22:52:32"
   },
   "server": "ia801404.us.archive.org",
-  "uniq": 1830075951,
+  "uniq": 1575001062,
   "workable_servers": [
     "ia801404.us.archive.org",
     "ia601404.us.archive.org"

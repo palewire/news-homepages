@@ -1,5 +1,6 @@
 {
-  "created": 1660006885,
+  "conflict": 1660050338,
+  "created": 1660050338,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/15/items/shillsalmanac-2022",
@@ -1443,21 +1444,32 @@
       "format": "JSON"
     },
     {
+      "name": "shillsalmanac-2022-08-08T21:00:37.831724-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "shillsalmanac-2022-08-08T21:00:37.831724-04:00.jpg",
+      "mtime": "1660007016",
+      "size": "9765",
+      "md5": "89d674ee2638d4c15a416e2cb0fe8057",
+      "crc32": "a6ac2cc4",
+      "sha1": "794a7be50b637c5241e05fb60cdf06b49e48c8c9"
+    },
+    {
       "name": "shillsalmanac-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a5e277bfcc47e37219caa23f619464c8f9583f26",
-      "mtime": "1660006883",
-      "size": "31127",
-      "md5": "fe4050ff5d655ddb2d71a9425f5426b9",
-      "crc32": "14a6973b",
-      "sha1": "4366ec3c6f044a471c766bcf80a2ea107a3e500e",
+      "btih": "bab4581ada3c02c0bb4b1f517d09e4ed5779309d",
+      "mtime": "1660007051",
+      "size": "31336",
+      "md5": "a2e68946d0b171c213910bd00a2e72e7",
+      "crc32": "27c012f4",
+      "sha1": "406cf78fe47543c4a5569985320c2021a87720ca",
       "format": "Archive BitTorrent"
     },
     {
       "name": "shillsalmanac-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0d462cf284f091426e12144a45e2bbc9",
+      "md5": "bab02e48ecfa8bdce008ce690d31b442",
       "summation": "md5"
     },
     {
@@ -1481,9 +1493,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 142,
-  "item_last_updated": 1660006883,
-  "item_size": 9834095,
+  "files_count": 143,
+  "item_last_updated": 1660007051,
+  "item_size": 9844069,
   "metadata": {
     "identifier": "shillsalmanac-2022",
     "collection": [
@@ -1505,15 +1517,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3357858543,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "task_id": 3358565867,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 1950064343,
+  "uniq": 575735332,
   "workable_servers": [
     "ia902500.us.archive.org"
   ]

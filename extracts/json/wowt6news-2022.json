@@ -1,5 +1,5 @@
 {
-  "created": 1659969028,
+  "created": 1660050775,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/13/items/wowt6news-2022",
@@ -1188,31 +1188,93 @@
       "sha1": "9ae3f04118f1372ea456aa64341361893f288af7"
     },
     {
+      "name": "wowt6news-2022-08-08T21:30:04.441014-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660012208",
+      "size": "34054",
+      "md5": "acf5c24084daaeadaba29e7c63573404",
+      "crc32": "169d8388",
+      "sha1": "d1002a3365bd67efc8006b0c6866fdfe46ce4619",
+      "format": "JSON"
+    },
+    {
+      "name": "wowt6news-2022-08-08T21:30:04.441014-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660012210",
+      "size": "18574",
+      "md5": "edecf76cd9a8b4235279367d0751cd27",
+      "crc32": "65ca5f52",
+      "sha1": "01e7209c0cf0932ab8355eeede8c0e84d2563107",
+      "format": "JSON"
+    },
+    {
+      "name": "wowt6news-2022-08-08T21:30:04.441014-05:00.jpg",
+      "source": "original",
+      "mtime": "1660012206",
+      "size": "353117",
+      "md5": "b6dff3f8178254aa840af7230f58e5c8",
+      "crc32": "2ce19949",
+      "sha1": "ec83c7e3932a1335f6710a2efa361ee47d66db7a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wowt6news-2022-08-08T21:30:04.441014-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660012212",
+      "size": "1441",
+      "md5": "658b219f739f7d4883c1ea936ed9b4a7",
+      "crc32": "102814d9",
+      "sha1": "8282b7262321f4cfb125916fe3cdc05be7559629",
+      "format": "JSON"
+    },
+    {
+      "name": "wowt6news-2022-08-08T21:30:04.441014-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660012213",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "wowt6news-2022-08-08T21:30:04.441014-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wowt6news-2022-08-08T21:30:04.441014-05:00.jpg",
+      "mtime": "1660012303",
+      "size": "10965",
+      "md5": "b7a6732280e47ce3d9cef9054ba48f0b",
+      "crc32": "0260895b",
+      "sha1": "4d8e1a6e6a399e64c7bf28ef5090c2587b8e2430"
+    },
+    {
       "name": "wowt6news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "91aaf61a459961abad503775d26c84f4524ddd5d",
-      "mtime": "1659969022",
-      "size": "25610",
-      "md5": "eaee2ca62022871ec3b8d97bcfb098e0",
-      "crc32": "dd72eeea",
-      "sha1": "f05da77c7339d8933b7dc15a9e0f2c12f7a8680f",
+      "btih": "7867c7120850b4736acafd5fd6aa3dcb9dd7774f",
+      "mtime": "1660012311",
+      "size": "26862",
+      "md5": "8c1a8cb929b9edbc56e29ba070571c4e",
+      "crc32": "ae19aa34",
+      "sha1": "bcfefe6650377ae5b4c7b94ab1d95dc52bb1e663",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wowt6news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7cb674c21617dcbda9ac4c80049e1174",
+      "md5": "dd5bcc4f5bdf7295b8f30c60b6f5f976",
       "summation": "md5"
     },
     {
       "name": "wowt6news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659968975",
-      "size": "163840",
-      "md5": "2f424a583c660b29f3d91b9897076332",
-      "crc32": "57aaabcd",
-      "sha1": "14e9dc9535d732dac7bc593ec921072649fb1fc0",
+      "mtime": "1660012217",
+      "size": "172032",
+      "md5": "e94ae1e28e4a511ddd4e8d3efe111199",
+      "crc32": "e17c84da",
+      "sha1": "f40a7e70d047ea1b7c88dc401a714b2b81ab47bc",
       "format": "Metadata"
     },
     {
@@ -1226,9 +1288,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 118,
-  "item_last_updated": 1659969022,
-  "item_size": 9494721,
+  "files_count": 124,
+  "item_last_updated": 1660012311,
+  "item_size": 9922518,
   "metadata": {
     "identifier": "wowt6news-2022",
     "collection": [
@@ -1245,10 +1307,15 @@
     "publicdate": "2022-07-30 16:33:51",
     "addeddate": "2022-07-30 16:33:51"
   },
-  "server": "ia801408.us.archive.org",
-  "uniq": 1589496179,
+  "server": "ia601408.us.archive.org",
+  "uniq": 1570359546,
   "workable_servers": [
-    "ia801408.us.archive.org",
-    "ia601408.us.archive.org"
-  ]
+    "ia601408.us.archive.org",
+    "ia801408.us.archive.org"
+  ],
+  "wowt6news-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  }
 }

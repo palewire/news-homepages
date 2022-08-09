@@ -1,5 +1,5 @@
 {
-  "created": 1660007012,
+  "created": 1660050456,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/5/items/thebafflermag-2022",
@@ -3388,31 +3388,93 @@
       "sha1": "950709c44673053bfab3ea089aa7b65903e0fcb9"
     },
     {
+      "name": "thebafflermag-2022-08-09T01:10:56.100805-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660021859",
+      "size": "15218",
+      "md5": "f623b4c031606c76264ca1fd7cc0f6ce",
+      "crc32": "10fbc65d",
+      "sha1": "2ecaf575ec2ea27f9e097f2bfc81e24acf9ba362",
+      "format": "JSON"
+    },
+    {
+      "name": "thebafflermag-2022-08-09T01:10:56.100805-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660021860",
+      "size": "19075",
+      "md5": "a396467e90b1c85d6952f948ca6771b9",
+      "crc32": "628d0799",
+      "sha1": "dd52f710578e51211a421d078db7f1554aebda0b",
+      "format": "JSON"
+    },
+    {
+      "name": "thebafflermag-2022-08-09T01:10:56.100805-04:00.jpg",
+      "source": "original",
+      "mtime": "1660021857",
+      "size": "249863",
+      "md5": "14df8b5097ecec30c2cfee5d68b708dc",
+      "crc32": "7a7583ca",
+      "sha1": "38447e3497a50c92777a20d0676ad6921f8d5af0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thebafflermag-2022-08-09T01:10:56.100805-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660021862",
+      "size": "1449",
+      "md5": "62190bb6bc6be30f2549cfd0278a416f",
+      "crc32": "55cff7bc",
+      "sha1": "e202c2605f12488077dbfa7f7e53095ece65b34e",
+      "format": "JSON"
+    },
+    {
+      "name": "thebafflermag-2022-08-09T01:10:56.100805-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660021863",
+      "size": "230",
+      "md5": "0e3d2a507bd495d7bbab9ec8e3ade183",
+      "crc32": "54cf9f9d",
+      "sha1": "7fe51d5d60de007b1964fb9f4cefd89c7a91919a",
+      "format": "JSON"
+    },
+    {
+      "name": "thebafflermag-2022-08-09T01:10:56.100805-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thebafflermag-2022-08-09T01:10:56.100805-04:00.jpg",
+      "mtime": "1660021922",
+      "size": "10104",
+      "md5": "631dfd11c68d7ab73eeb1bdba5a903af",
+      "crc32": "797e29c5",
+      "sha1": "950709c44673053bfab3ea089aa7b65903e0fcb9"
+    },
+    {
       "name": "thebafflermag-2022_archive.torrent",
       "source": "metadata",
-      "btih": "084f02bb2c7b7c6fa4ed610948addff52be94fe4",
-      "mtime": "1659984078",
-      "size": "71346",
-      "md5": "308df5465c7a1d4873ee76f858fcff71",
-      "crc32": "a56a214d",
-      "sha1": "693a445fd09ef3d0d6e2ae18bac485d1608f1daf",
+      "btih": "bb4a9ed46d032395870cfdc39023375fa1780cde",
+      "mtime": "1660021930",
+      "size": "72622",
+      "md5": "982d680543529f607e9f79b628f6b8b0",
+      "crc32": "f5e04479",
+      "sha1": "3c4c9e34f7faf4d01403819eda304e5441e17385",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thebafflermag-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5ec079239415bbdb3748b575adf8fab6",
+      "md5": "c80cf124df9a1ff3da9a598d7d07cbdf",
       "summation": "md5"
     },
     {
       "name": "thebafflermag-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659983985",
-      "size": "417792",
-      "md5": "950026089a644b42b7a321a562c50ebd",
-      "crc32": "6fa2de01",
-      "sha1": "0ee9b09511f02d5b220f6ea82fc204694890014f",
+      "mtime": "1660021868",
+      "size": "425984",
+      "md5": "6c6c4f70057ec9aaef45cbb160bd4230",
+      "crc32": "9eff4a8f",
+      "sha1": "f570acf7c1075c0f3fe8b4136dc433e98fbe44f1",
       "format": "Metadata"
     },
     {
@@ -3426,9 +3488,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 329,
-  "item_last_updated": 1659984078,
-  "item_size": 20092694,
+  "files_count": 335,
+  "item_last_updated": 1660021930,
+  "item_size": 20398101,
   "metadata": {
     "identifier": "thebafflermag-2022",
     "collection": [
@@ -3449,44 +3511,9 @@
   "thebafflermag-2022": {
     "url": "https://thebaffler.com/",
     "job_id": "spn2-620845112997c63b188e0ace5b257eaec189cdeb",
-    "status": "success",
-    "resources": [
-      "https://thebaffler.com/",
-      "https://thebaffler.com/wp-content/plugins/elasticpress/dist/css/related-posts-block-styles.min.css?ver=4.2.2",
-      "https://thebaffler.com/wp-content/themes/salviadiez/public/styles/app.css?id=fcfc7e2e5a97103d03d7f973342196f9",
-      "https://thebaffler.com/wp-content/uploads/mc4wp-stylesheets/bundle.css?ver=1630618792",
-      "https://thebaffler.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.1",
-      "https://thebaffler.com/wp-content/plugins/elasticpress/dist/css/autosuggest-styles.min.css?ver=26e3c1cd915b73e742ab41d02cd86563",
-      "https://thebaffler.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2",
-      "https://thebaffler.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0",
-      "https://thebaffler.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9",
-      "https://thebaffler.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0",
-      "https://thebaffler.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.1",
-      "https://thebaffler.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-contact-form-7-tracker.js?ver=1.16.1",
-      "https://thebaffler.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.16.1",
-      "https://thebaffler.com/wp-content/plugins/elasticpress/dist/js/autosuggest-script.min.js?ver=5c609d7ba064036a58c72be668e0515d",
-      "https://thebaffler.com/wp-content/themes/salviadiez/public/scripts/vendor.js?id=2497cf3e50159b772fc37925976b5bab",
-      "https://thebaffler.com/wp-content/themes/salviadiez/public/scripts/app.js?id=273f2fc47eb303e69b1ef67416526bd4",
-      "https://thebaffler.com/wp-content/uploads/2022/07/b64-rodriques-williamson-700x1065.png",
-      "https://thebaffler.com/wp-includes/js/wp-emoji-release.min.js?ver=6.0.1",
-      "https://thebaffler.com/wp-content/uploads/2022/08/Friar_Bacons_Brazen_Head-700x531.png",
-      "https://thebaffler.com/wp-content/uploads/2022/08/p8i3bvj0zvtfcdzpgcqs-1-700x531.jpg",
-      "https://thebaffler.com/wp-content/uploads/2022/07/Suzuki01-700x531.jpg",
-      "https://thebaffler.com/wp-content/uploads/2022/07/b64-cover-482x696-1.jpg",
-      "https://thebaffler.com/wp-content/uploads/2022/07/Sunday_Afternoon_Greenwich_Avenue_by_George_Ault_1925-700x531.jpeg",
-      "https://thebaffler.com/wp-content/uploads/2022/07/3c15063v-700x532.jpg"
-    ],
-    "timestamp": "20220808165011",
-    "counters": {
-      "outlinks": 64,
-      "embeds": 32
-    },
-    "http_status": 200,
-    "outlinks": [],
-    "original_url": "https://thebaffler.com/",
-    "duration_sec": 10.555
+    "message": "The same snapshot had been made 10 minutes, 52 seconds ago. You can make new capture of this URL after 45 minutes."
   },
-  "uniq": 373849550,
+  "uniq": 1895148759,
   "workable_servers": [
     "ia601409.us.archive.org",
     "ia801409.us.archive.org"

@@ -1,6 +1,5 @@
 {
-  "conflict": 1660006603,
-  "created": 1660006603,
+  "created": 1660050038,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/16/items/newschannelne-2022",
@@ -1127,31 +1126,82 @@
       "sha1": "7c270f4e82639e650c087cfa3ca6c0b741d9a688"
     },
     {
+      "name": "newschannelne-2022-08-09T07:59:46.501218-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660049989",
+      "size": "22274",
+      "md5": "b687179e92b00cd6a548fd16ffec4086",
+      "crc32": "b5e65296",
+      "sha1": "ebe6ae9d3523eacba1366b01e917b4f549ffb7de",
+      "format": "JSON"
+    },
+    {
+      "name": "newschannelne-2022-08-09T07:59:46.501218-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660049991",
+      "size": "21992",
+      "md5": "5f2b35d265d2db05ff07359d4be3dad6",
+      "crc32": "70a5ec09",
+      "sha1": "16c18578e051ae0779021e2f8827ff953edadef8",
+      "format": "JSON"
+    },
+    {
+      "name": "newschannelne-2022-08-09T07:59:46.501218-05:00.jpg",
+      "source": "original",
+      "mtime": "1660049988",
+      "size": "240180",
+      "md5": "23ec61b1e93009675f3119cfbf8c143f",
+      "crc32": "5c7e5d86",
+      "sha1": "f2d53d9597ad5cfe7f187f11535c62bd20db78e9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newschannelne-2022-08-09T07:59:46.501218-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660049992",
+      "size": "1594",
+      "md5": "6a59089c985f7fc46a882d1e433434b0",
+      "crc32": "217236b4",
+      "sha1": "78eb51fd630522f9691479f39a42227e90642965",
+      "format": "JSON"
+    },
+    {
+      "name": "newschannelne-2022-08-09T07:59:46.501218-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660049994",
+      "size": "17238",
+      "md5": "43dff3cf068fb00c5a0adcbc3f7cd53b",
+      "crc32": "269a88fa",
+      "sha1": "45ae3076b53fa53383392b98017acc2ef5de73bd",
+      "format": "JSON"
+    },
+    {
       "name": "newschannelne-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c4c05d6f56693e8227f3c81c3a0b561ca81872c5",
-      "mtime": "1660006601",
-      "size": "24686",
-      "md5": "9418c80214560ad93cdbcfd34fb98d8a",
-      "crc32": "44a884c3",
-      "sha1": "98f93317c9d476498321ffd5cf84465e76e08a01",
+      "btih": "3a21b56eeff1ea44b9a874cc1a38f4058a05a5e5",
+      "mtime": "1660050035",
+      "size": "25754",
+      "md5": "919b1b9e8321d24da1c255712ac35d80",
+      "crc32": "0937eb7b",
+      "sha1": "997554f524990d482d52089bc8c73644d2153e94",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newschannelne-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fe00706ab42437a5079e43995e0a78d1",
+      "md5": "e33f0abe7da4c81cef2d17a6bb6b8e86",
       "summation": "md5"
     },
     {
       "name": "newschannelne-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660006550",
-      "size": "155648",
-      "md5": "acce9de82edd0199d11b902b52aa0cb5",
-      "crc32": "8c3bd856",
-      "sha1": "11fdf58525efb691c40bf6d8552f9226d0ea2507",
+      "mtime": "1660049999",
+      "size": "163840",
+      "md5": "d142fba00cf5c58506fe88685b359a83",
+      "crc32": "1b9aef2b",
+      "sha1": "874ecf586c9a45e4e267e1f766a016cac8ffc771",
       "format": "Metadata"
     },
     {
@@ -1165,9 +1215,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 112,
-  "item_last_updated": 1660006601,
-  "item_size": 6446372,
+  "files_count": 117,
+  "item_last_updated": 1660050035,
+  "item_size": 6758910,
   "metadata": {
     "identifier": "newschannelne-2022",
     "collection": [
@@ -1189,15 +1239,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3357853695,
-      "cmd": "bup.php",
-      "priority": -5,
+      "task_id": 3358558667,
+      "cmd": "derive.php",
+      "priority": -6,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 76223107,
+  "uniq": 1419665734,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

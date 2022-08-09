@@ -1,5 +1,6 @@
 {
-  "created": 1660006888,
+  "conflict": 1660050326,
+  "created": 1660050326,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/12/items/slate-2022",
@@ -5983,21 +5984,32 @@
       "format": "JSON"
     },
     {
+      "name": "slate-2022-08-08T21:00:30.174082-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "slate-2022-08-08T21:00:30.174082-04:00.jpg",
+      "mtime": "1660006958",
+      "size": "9555",
+      "md5": "a587902b7ae3586ff86039968936bb12",
+      "crc32": "72206fb6",
+      "sha1": "5c2963cf29eeb07adb9f713c7a31e12f814373c1"
+    },
+    {
       "name": "slate-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8b0b3b08f4152f6e3c7c8ed959b96481408ea3a1",
-      "mtime": "1660006883",
-      "size": "120057",
-      "md5": "34b940fdcc45a6a94b9aa5a00e52c1b9",
-      "crc32": "74504980",
-      "sha1": "3febe6f345a250e0958069a9fb30d8258ed16fa8",
+      "btih": "2ee7888b068fd6eda0feed19669abf92fb1220fa",
+      "mtime": "1660007023",
+      "size": "120258",
+      "md5": "6e5f8a6c2d4cede0d101c7e23c1c59e4",
+      "crc32": "3b2b5f0f",
+      "sha1": "1ad2068d2a7b2eeb2660811e7ddb95e4a3a7763e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "slate-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fcc4e953a033cb3eb043973f6bccf18d",
+      "md5": "83e8b1e81f167280887b46f9e2389eba",
       "summation": "md5"
     },
     {
@@ -6021,9 +6033,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 576,
-  "item_last_updated": 1660006883,
-  "item_size": 44838833,
+  "files_count": 577,
+  "item_last_updated": 1660007023,
+  "item_size": 44848589,
   "metadata": {
     "identifier": "slate-2022",
     "collection": [
@@ -6045,7 +6057,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3357857375,
+      "task_id": 3358565569,
       "cmd": "archive.php",
       "priority": -5,
       "wait_admin": 1,
@@ -6053,7 +6065,7 @@
       "status": "running"
     }
   ],
-  "uniq": 1240622769,
+  "uniq": 1195515486,
   "workable_servers": [
     "ia601405.us.archive.org"
   ]

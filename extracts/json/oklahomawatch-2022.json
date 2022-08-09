@@ -1,6 +1,5 @@
 {
-  "conflict": 1660006686,
-  "created": 1660006686,
+  "created": 1660050078,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/12/items/oklahomawatch-2022",
@@ -3073,31 +3072,82 @@
       "sha1": "f3dad0d1304f266a5193080884aef6c475fd5038"
     },
     {
+      "name": "oklahomawatch-2022-08-09T08:00:23.724465-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660050028",
+      "size": "12251",
+      "md5": "48741807aa5b1ccf3d4429ba42c56391",
+      "crc32": "4c85c350",
+      "sha1": "4e1088062ce0a538aa409a84ae99e0a71bb54c1f",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-08-09T08:00:23.724465-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660050030",
+      "size": "24080",
+      "md5": "67f5940c6128caef0faadf450c8e0ad9",
+      "crc32": "d64b3d88",
+      "sha1": "e1a67017bbc2db305c68489c4d4b6245f752d04e",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-08-09T08:00:23.724465-05:00.jpg",
+      "source": "original",
+      "mtime": "1660050026",
+      "size": "282797",
+      "md5": "94adf77d33a43ebe171b225c488965f8",
+      "crc32": "e4b7f75b",
+      "sha1": "1390eedb031394c51c9b04e76d9d7e3b43b2c5c9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oklahomawatch-2022-08-09T08:00:23.724465-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660050032",
+      "size": "1477",
+      "md5": "0fe8fd9df908518791fbedf7ebd18f19",
+      "crc32": "9ede824f",
+      "sha1": "7443e7e781afbf15bcd3909e7a1fc63ae7e5fd1e",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-08-09T08:00:23.724465-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660050033",
+      "size": "14837",
+      "md5": "625cc215cf4cfbccc5a8afb41f05df7b",
+      "crc32": "6bf36869",
+      "sha1": "5450fc16b51d76d0c918c051600524cb61fed531",
+      "format": "JSON"
+    },
+    {
       "name": "oklahomawatch-2022_archive.torrent",
       "source": "metadata",
-      "btih": "27066eb7c9ca803fe6a1f806f6b824d8c5f3346f",
-      "mtime": "1660006684",
-      "size": "64859",
-      "md5": "962cd82cd519f5c1f5b7a2603e4bfadd",
-      "crc32": "fc4ca47c",
-      "sha1": "cf4e9318d5a1aef4a166fcad92a4a1642f820886",
+      "btih": "f175811897f382e847dd0a4fcd1519ae3d716a39",
+      "mtime": "1660050074",
+      "size": "65927",
+      "md5": "38946d9bba80664334a0abf56b2470ee",
+      "crc32": "2f3b1aed",
+      "sha1": "bc41b74fc99e144125098fe731b84edbac9d9edd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "oklahomawatch-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4a408c23590173e5388a284610ab5cee",
+      "md5": "ba0371f8c913d683079083ef74414242",
       "summation": "md5"
     },
     {
       "name": "oklahomawatch-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660006587",
-      "size": "372736",
-      "md5": "963261f74252bf71b1ccff3292c362ac",
-      "crc32": "73a39dbf",
-      "sha1": "12c3f054b3bb404aeec882078c03435591d19a7c",
+      "mtime": "1660050038",
+      "size": "380928",
+      "md5": "b6976959fed493b88a942376cce56f92",
+      "crc32": "5b9fadae",
+      "sha1": "6006c298e32dd0c7ac3c85c4ca21ac5d73e6882f",
       "format": "Metadata"
     },
     {
@@ -3111,9 +3161,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 298,
-  "item_last_updated": 1660006684,
-  "item_size": 22168217,
+  "files_count": 303,
+  "item_last_updated": 1660050074,
+  "item_size": 22512919,
   "metadata": {
     "identifier": "oklahomawatch-2022",
     "collection": [
@@ -3135,23 +3185,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3357854074,
+      "task_id": 3358559629,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
-    },
-    {
-      "task_id": 3357855101,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
     }
   ],
-  "uniq": 1906322912,
+  "uniq": 1875516158,
   "workable_servers": [
     "ia601502.us.archive.org"
   ]

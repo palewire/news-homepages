@@ -1,6 +1,6 @@
 {
-  "conflict": 1660006849,
-  "created": 1660006849,
+  "conflict": 1660050275,
+  "created": 1660050275,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/29/items/savannahnow-2022",
@@ -2069,24 +2069,29 @@
       "name": "savannahnow-2022-08-08T20:59:30.963445-04:00_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "savannahnow-2022-08-08T20:59:30.963445-04:00.jpg"
+      "original": "savannahnow-2022-08-08T20:59:30.963445-04:00.jpg",
+      "mtime": "1660006846",
+      "size": "9059",
+      "md5": "e76044e1710136658a57d8412d00b336",
+      "crc32": "b74d1e41",
+      "sha1": "562b7910e1296c9034eb5b2450a215e0a4cf7533"
     },
     {
       "name": "savannahnow-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6e9f57052bf7148906526f4759cf6487e2222f4c",
-      "mtime": "1660006820",
-      "size": "43704",
-      "md5": "e9daada3abbd9bef3a1eb45b6eac48c8",
-      "crc32": "50a377b0",
-      "sha1": "16fddde7cb3662477c88b238403de0df514a9017",
+      "btih": "25e992da24d13d055642b695ffc73d73659fe72c",
+      "mtime": "1660006860",
+      "size": "43911",
+      "md5": "dacb1ed813216ca232705ebc48d46e02",
+      "crc32": "00c89408",
+      "sha1": "6ef37e9db2d4ee3e063ab0a2efdf263b625c95de",
       "format": "Archive BitTorrent"
     },
     {
       "name": "savannahnow-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "83d5833f6df17ccb6265e066f503cf93",
+      "md5": "32a97aa89a274c22b1f687447683f136",
       "summation": "md5"
     },
     {
@@ -2111,8 +2116,8 @@
     }
   ],
   "files_count": 203,
-  "item_last_updated": 1660006820,
-  "item_size": 14297199,
+  "item_last_updated": 1660006860,
+  "item_size": 14306465,
   "metadata": {
     "identifier": "savannahnow-2022",
     "collection": [
@@ -2134,15 +2139,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3357857280,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3358564389,
+      "cmd": "archive.php",
+      "priority": -5,
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
     }
   ],
-  "uniq": 163756388,
+  "uniq": 1943253128,
   "workable_servers": [
     "ia902505.us.archive.org"
   ]

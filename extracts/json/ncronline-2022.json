@@ -1,5 +1,6 @@
 {
-  "created": 1660006530,
+  "conflict": 1660050018,
+  "created": 1660050018,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/12/items/ncronline-2022",
@@ -3072,31 +3073,78 @@
       "sha1": "b66cee526ca4bf7dc2165403a1e7db607359036d"
     },
     {
+      "name": "ncronline-2022-08-09T07:58:31.998345-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660049917",
+      "size": "74137",
+      "md5": "45cfdc99a8507545f6b1b58a49801658",
+      "crc32": "4dac2f8d",
+      "sha1": "7efbc561d5e7c82a98a95c0e34e79eea7b071b35",
+      "format": "JSON"
+    },
+    {
+      "name": "ncronline-2022-08-09T07:58:31.998345-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660049918",
+      "size": "44475",
+      "md5": "42b0645698602d3c85e9476a77435f60",
+      "crc32": "44652377",
+      "sha1": "08c2946bf5a0cb936d733df300207c2cb4df36ea",
+      "format": "JSON"
+    },
+    {
+      "name": "ncronline-2022-08-09T07:58:31.998345-05:00.jpg",
+      "source": "original",
+      "mtime": "1660049915",
+      "size": "283308",
+      "md5": "3b68d2df17271c444984ba949340a89f",
+      "crc32": "73285d49",
+      "sha1": "440fd0d65dcd6cc9b4bac0490649be2426d39340",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ncronline-2022-08-09T07:58:31.998345-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660049920",
+      "size": "1485",
+      "md5": "4812b3813a1d615373da69df3e6ffae7",
+      "crc32": "6c41d60a",
+      "sha1": "d21ea98c07ee5e2dfcb44367a660d6d75ede8cfa",
+      "format": "JSON"
+    },
+    {
+      "name": "ncronline-2022-08-09T07:58:31.998345-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ncronline-2022-08-09T07:58:31.998345-05:00.jpg"
+    },
+    {
       "name": "ncronline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fa2654ee36d926943243a36cf17399601eef0bee",
-      "mtime": "1660006510",
-      "size": "63758",
-      "md5": "038ed9bb9a340c2a3dce233b8aaa1467",
-      "crc32": "12819617",
-      "sha1": "81978c5df66b1f10adff4cf2f300f049721c2111",
+      "btih": "93f3796fd40933c857342dba09d461d2a450c8e8",
+      "mtime": "1660049961",
+      "size": "64617",
+      "md5": "40208e4b78179211dadc21fd493e1da6",
+      "crc32": "eb955956",
+      "sha1": "f30407b3c9d93396f5b75549cc59bf19fad89160",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ncronline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "20f950393918127b7b60074f841529fd",
+      "md5": "fd9c80e65fa19104668b184392d2451e",
       "summation": "md5"
     },
     {
       "name": "ncronline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660006429",
-      "size": "372736",
-      "md5": "b645ada2d448b6be68bb5c1e3d6f676e",
-      "crc32": "7a143904",
-      "sha1": "c2167da5a86c2d7b6f9486f3be33ccfc8819bf59",
+      "mtime": "1660049924",
+      "size": "376832",
+      "md5": "a7f2528986b87fbf6a35523059c7491d",
+      "crc32": "a5daaa9e",
+      "sha1": "844e792ed4fe7ca6a5cd2b491c977584077bb781",
       "format": "Metadata"
     },
     {
@@ -3110,9 +3158,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 298,
-  "item_last_updated": 1660006510,
-  "item_size": 26241028,
+  "files_count": 303,
+  "item_last_updated": 1660049961,
+  "item_size": 26649388,
   "metadata": {
     "identifier": "ncronline-2022",
     "collection": [
@@ -3129,10 +3177,21 @@
     "publicdate": "2022-07-09 04:01:00",
     "addeddate": "2022-07-09 04:01:00"
   },
-  "server": "ia802503.us.archive.org",
-  "uniq": 162596115,
+  "pending_tasks": true,
+  "server": "ia902503.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3358557233,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 2004269856,
   "workable_servers": [
-    "ia802503.us.archive.org",
     "ia902503.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1660006510,
+  "created": 1660049963,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/4/items/nbcphiladelphia-2022",
@@ -3870,31 +3870,82 @@
       "sha1": "c5990eabb36061d4151a6824ac642fe9699b315a"
     },
     {
+      "name": "nbcphiladelphia-2022-08-09T08:58:09.967619-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660049908",
+      "size": "51079",
+      "md5": "ff7afa9f173a90cc3bd8a9716ddbc9e8",
+      "crc32": "0496f9d1",
+      "sha1": "d09ee66d121d24fd7455da72b2ea36621be1803a",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcphiladelphia-2022-08-09T08:58:09.967619-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660049909",
+      "size": "60806",
+      "md5": "03b5880e2272321da6ee2e214ae21880",
+      "crc32": "67d5e2a9",
+      "sha1": "593bff9e6b3ca6a09939e17f4bcd520dcc463bb5",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcphiladelphia-2022-08-09T08:58:09.967619-04:00.jpg",
+      "source": "original",
+      "mtime": "1660049897",
+      "size": "285941",
+      "md5": "2f3767c7d2e936b344d6f86ed2b2beb8",
+      "crc32": "64ee628c",
+      "sha1": "07414bf5a7e9f6aa9785d7106ae1ec55eb553af2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nbcphiladelphia-2022-08-09T08:58:09.967619-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660049911",
+      "size": "1540",
+      "md5": "c2bdc5c42bc8b4aa941ae8d8e65b7eb6",
+      "crc32": "ea514f17",
+      "sha1": "af5bf44495a24fc0d8464ba7c0053aa8845b4229",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcphiladelphia-2022-08-09T08:58:09.967619-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660049913",
+      "size": "128211",
+      "md5": "b19d968a3955b5bc4e5aa6acf15f2d75",
+      "crc32": "2746fe03",
+      "sha1": "c468a6ba9f908afa703bb64b3755f88dd8eebffc",
+      "format": "JSON"
+    },
+    {
       "name": "nbcphiladelphia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5a977ac17513e9b6ebfea76e5c204e34ccfa1b55",
-      "mtime": "1660006498",
-      "size": "82136",
-      "md5": "2516bc1dbf889d5efcc9dbcc553f7a72",
-      "crc32": "4469d9d6",
-      "sha1": "c2c05744b9f4d4b0bc7bc973cb1e059b8c43dc60",
+      "btih": "8bbef82e8c42e9cfdc546d790ddd041aedbf6637",
+      "mtime": "1660049957",
+      "size": "83235",
+      "md5": "ebb325af5cdbeef8a1563eec0bb3715f",
+      "crc32": "f66fffe4",
+      "sha1": "ac405872d8b4a6b2d8e08ffabdb5b0f60b633758",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nbcphiladelphia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1c51299b49030ca0e99956ad64d09117",
+      "md5": "882be80c2349b540942acbba9a3ba281",
       "summation": "md5"
     },
     {
       "name": "nbcphiladelphia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660006429",
-      "size": "462848",
-      "md5": "b90dc2239094fc813e618e7814713608",
-      "crc32": "475e7781",
-      "sha1": "229467bf2c687aff99d79c4cb7dee0a3fb437dcb",
+      "mtime": "1660049916",
+      "size": "475136",
+      "md5": "28e997098aa7a70ad915b9c99dc33279",
+      "crc32": "8f0d84d9",
+      "sha1": "0e46527461cecd46dc1d0d8bc36c92da67d41647",
       "format": "Metadata"
     },
     {
@@ -3908,9 +3959,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 374,
-  "item_last_updated": 1660006498,
-  "item_size": 34130455,
+  "files_count": 379,
+  "item_last_updated": 1660049957,
+  "item_size": 34671419,
   "metadata": {
     "identifier": "nbcphiladelphia-2022",
     "collection": [
@@ -3927,10 +3978,21 @@
     "publicdate": "2022-07-03 15:52:43",
     "addeddate": "2022-07-03 15:52:43"
   },
-  "server": "ia801401.us.archive.org",
-  "uniq": 1430572465,
+  "pending_tasks": true,
+  "server": "ia601401.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3358557221,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 201956442,
   "workable_servers": [
-    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

@@ -1,48 +1,7 @@
 {
-  "created": 1660006136,
+  "created": 1660016486,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
-  "dailytarheel-2022": [
-    {
-      "url": "https://www.dailytarheel.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dailytarheel_com-_-2022_08_08_15_09_27.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dailytarheel_com-_-2022_08_08_15_09_27.report.json",
-      "summary": {
-        "performance": 0.28,
-        "accessibility": 0.82,
-        "best-practices": 0.92,
-        "seo": 0.9,
-        "pwa": 0.7
-      }
-    },
-    {
-      "url": "https://www.dailytarheel.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dailytarheel_com-_-2022_08_08_15_09_59.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dailytarheel_com-_-2022_08_08_15_09_59.report.json",
-      "summary": {
-        "performance": 0.24,
-        "accessibility": 0.82,
-        "best-practices": 0.92,
-        "seo": 0.9,
-        "pwa": 0.7
-      }
-    },
-    {
-      "url": "https://www.dailytarheel.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dailytarheel_com-_-2022_08_08_15_09_44.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dailytarheel_com-_-2022_08_08_15_09_44.report.json",
-      "summary": {
-        "performance": 0.36,
-        "accessibility": 0.82,
-        "best-practices": 0.92,
-        "seo": 0.9,
-        "pwa": 0.7
-      }
-    }
-  ],
   "dir": "/31/items/dailytarheel-2022",
   "files": [
     {
@@ -3167,31 +3126,93 @@
       "sha1": "c189961ff5c647764e903e3f42159f807c4964ee"
     },
     {
+      "name": "dailytarheel-2022-08-08T23:38:53.306862-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660016337",
+      "size": "31038",
+      "md5": "84ad976a1b61e3b6ea81ee8ae6a1391b",
+      "crc32": "00499ff1",
+      "sha1": "9cb020274730cb53ef34dd7b3f98058744c58e54",
+      "format": "JSON"
+    },
+    {
+      "name": "dailytarheel-2022-08-08T23:38:53.306862-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660016341",
+      "size": "29607",
+      "md5": "474b1225251194ce76f8e5e58b91fe02",
+      "crc32": "e44bde35",
+      "sha1": "8b5bc60d6242da1f0082942035e6121603240738",
+      "format": "JSON"
+    },
+    {
+      "name": "dailytarheel-2022-08-08T23:38:53.306862-04:00.jpg",
+      "source": "original",
+      "mtime": "1660016335",
+      "size": "339393",
+      "md5": "088d1100f61778d826a73f857eea1bdc",
+      "crc32": "4c8f2a63",
+      "sha1": "8d519bc0d9e969ebf4da1df39673f9a85c1b59a1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailytarheel-2022-08-08T23:38:53.306862-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660016343",
+      "size": "1513",
+      "md5": "9e5eb8c547d7c6a2926f2897eb23fbfd",
+      "crc32": "51af7e8c",
+      "sha1": "65b7b4cc15447a388e2e86cfc0cdbc6eab3ba4ca",
+      "format": "JSON"
+    },
+    {
+      "name": "dailytarheel-2022-08-08T23:38:53.306862-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660016345",
+      "size": "26620",
+      "md5": "22522893723664f6293396f03a85e30f",
+      "crc32": "5b5ba0d4",
+      "sha1": "1299b5bedb127a7629b2a1bc3a6e34a422c15cd3",
+      "format": "JSON"
+    },
+    {
+      "name": "dailytarheel-2022-08-08T23:38:53.306862-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailytarheel-2022-08-08T23:38:53.306862-04:00.jpg",
+      "mtime": "1660016459",
+      "size": "9382",
+      "md5": "682fcdfefeed95715b1910c14af63a7f",
+      "crc32": "561dca71",
+      "sha1": "52e35d18f692b7b1ca28f1723c000509ed4c06d4"
+    },
+    {
       "name": "dailytarheel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9fb631ba2d0869b9b8d1797e169067bfd04d0f9e",
-      "mtime": "1659977848",
-      "size": "65706",
-      "md5": "8b2fe8fe423e2d9a83a19820eb09afe6",
-      "crc32": "f33805cd",
-      "sha1": "ec41a202c96705d3d0f5c44b67bd4e2ac9168375",
+      "btih": "957e4259eace9aaa3e4d68f2d730349a55e4ec10",
+      "mtime": "1660016470",
+      "size": "66997",
+      "md5": "d2e6da2ad654d6a8095d6065fb9f7869",
+      "crc32": "fd70fd8d",
+      "sha1": "42121ce24e60921d13505e79a23d97d9681080ad",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailytarheel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e8a1690175c9ff55adc079ebee2be57a",
+      "md5": "85e7d07dee67140546448a9af5cef52b",
       "summation": "md5"
     },
     {
       "name": "dailytarheel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659977778",
-      "size": "376832",
-      "md5": "cccbaa2781ab6bf462e9cb39e6fb8a6e",
-      "crc32": "3872de8b",
-      "sha1": "f83e68d4e41e1a67fb188bb9923f2d814fe436dd",
+      "mtime": "1660016351",
+      "size": "385024",
+      "md5": "b2366a34a6ef50ddc2166f0a0a345691",
+      "crc32": "c0494f58",
+      "sha1": "9d5cf523262b81b6a79bcba4158f566f5739de84",
       "format": "Metadata"
     },
     {
@@ -3205,9 +3226,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 303,
-  "item_last_updated": 1659977848,
-  "item_size": 26587034,
+  "files_count": 309,
+  "item_last_updated": 1660016470,
+  "item_size": 27034070,
   "metadata": {
     "identifier": "dailytarheel-2022",
     "collection": [
@@ -3224,10 +3245,10 @@
     "publicdate": "2022-07-09 03:57:38",
     "addeddate": "2022-07-09 03:57:38"
   },
-  "server": "ia801507.us.archive.org",
-  "uniq": 1970810681,
+  "server": "ia601507.us.archive.org",
+  "uniq": 467845359,
   "workable_servers": [
-    "ia801507.us.archive.org",
-    "ia601507.us.archive.org"
+    "ia601507.us.archive.org",
+    "ia801507.us.archive.org"
   ]
 }

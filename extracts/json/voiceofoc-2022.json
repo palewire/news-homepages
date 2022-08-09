@@ -1,5 +1,5 @@
 {
-  "created": 1659982576,
+  "created": 1660050694,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/13/items/voiceofoc-2022",
@@ -4450,31 +4450,93 @@
       "sha1": "27bb8e7b9e7a72ecd320b6557413d88cb026b6d5"
     },
     {
+      "name": "voiceofoc-2022-08-08T22:13:58.890771-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660022043",
+      "size": "25058",
+      "md5": "35d7d5380894c4bbaceb63a01ffc3d8e",
+      "crc32": "f8f5d766",
+      "sha1": "df7328c973b762b7d670df16fded7ca26bb30fca",
+      "format": "JSON"
+    },
+    {
+      "name": "voiceofoc-2022-08-08T22:13:58.890771-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660022045",
+      "size": "34014",
+      "md5": "1a0c1846ce6881a4e54de9e71f5dad00",
+      "crc32": "2dec6b96",
+      "sha1": "872f57ee2dd2afc220d7335f9c6cd1929bc62ff0",
+      "format": "JSON"
+    },
+    {
+      "name": "voiceofoc-2022-08-08T22:13:58.890771-07:00.jpg",
+      "source": "original",
+      "mtime": "1660022042",
+      "size": "272460",
+      "md5": "6d200990c52dfe9cdec89ddf6f684e9f",
+      "crc32": "99a97df2",
+      "sha1": "52496fa31b330b36d3ebaba7715ffa70bc411a3b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "voiceofoc-2022-08-08T22:13:58.890771-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660022046",
+      "size": "1441",
+      "md5": "ec7066908b16a678d6d85c4c8d5ddcce",
+      "crc32": "8028ff15",
+      "sha1": "f2edc447da222419ec856a8aa4114bd0ed5f0e99",
+      "format": "JSON"
+    },
+    {
+      "name": "voiceofoc-2022-08-08T22:13:58.890771-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660022047",
+      "size": "231",
+      "md5": "ea938e3430980340b43373a097504291",
+      "crc32": "77ecb180",
+      "sha1": "29530b84077138c3585f5f834e24f84515b5b762",
+      "format": "JSON"
+    },
+    {
+      "name": "voiceofoc-2022-08-08T22:13:58.890771-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "voiceofoc-2022-08-08T22:13:58.890771-07:00.jpg",
+      "mtime": "1660022126",
+      "size": "10634",
+      "md5": "ea02d5fffc2b9a3560b7d6232d049573",
+      "crc32": "455c7bb6",
+      "sha1": "56faa87791bacd76af6852005c269ff388730af3"
+    },
+    {
       "name": "voiceofoc-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e7c86572262890289d94600c47a0cf6deb696718",
-      "mtime": "1659982543",
-      "size": "91690",
-      "md5": "50f60b58a71052db4b3e0b72a9c610f2",
-      "crc32": "02b538fc",
-      "sha1": "eb08be26665908deae2e2033cf4f6fd1d97efe19",
+      "btih": "aa0be8f0f892eb2ff84b20f5127c6e77199a1246",
+      "mtime": "1660022144",
+      "size": "92942",
+      "md5": "fc5b4c228bb5d7e20a56fde19aa76e2b",
+      "crc32": "4da5174c",
+      "sha1": "3935c21d2673e231b9b40023f98d7f52f6ff95bb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "voiceofoc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "16ebc2f227ff11ebca4494769410c9ea",
+      "md5": "10fc5aee053d489bfe6a4d972a36e3e5",
       "summation": "md5"
     },
     {
       "name": "voiceofoc-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659982472",
-      "size": "528384",
-      "md5": "e5ae330d1b4bea21f815b3c4686587ca",
-      "crc32": "e52ca9aa",
-      "sha1": "29b2ac8dfa451fea68f258ad5f32a2e1b7765757",
+      "mtime": "1660022053",
+      "size": "536576",
+      "md5": "c84c7242aa268ed615db838a2300e784",
+      "crc32": "c2507e7d",
+      "sha1": "3f7af40e065302e2699c5febb2a9cf2db19bba62",
       "format": "Metadata"
     },
     {
@@ -4488,9 +4550,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 430,
-  "item_last_updated": 1659982543,
-  "item_size": 35225227,
+  "files_count": 436,
+  "item_last_updated": 1660022144,
+  "item_size": 35578509,
   "metadata": {
     "identifier": "voiceofoc-2022",
     "collection": [
@@ -4508,7 +4570,16 @@
     "addeddate": "2022-07-09 04:04:32"
   },
   "server": "ia801408.us.archive.org",
-  "uniq": 2132398855,
+  "uniq": 256252902,
+  "voiceofoc-2022": {
+    "url": "https://www.voiceofoc.org/",
+    "job_id": "spn2-adb93d0651dff1851e5fc5e6791e0f853c070cac",
+    "status_ext": "error:job-failed",
+    "message": "Job failed.",
+    "status": "error",
+    "resources": [],
+    "duration_sec": 0.722
+  },
   "workable_servers": [
     "ia801408.us.archive.org",
     "ia601408.us.archive.org"

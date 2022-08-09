@@ -1,6 +1,6 @@
 {
-  "conflict": 1660006663,
-  "created": 1660006663,
+  "conflict": 1660050116,
+  "created": 1660050116,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/13/items/pajaropolitico-2022",
@@ -20651,31 +20651,93 @@
       "sha1": "99897818d9faec883a74240ebc33160eef44d6e1"
     },
     {
+      "name": "pajaropolitico-2022-08-08T19:57:18.710356-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660006660",
+      "size": "21928",
+      "md5": "da726afbe215b93ddb52fd7bbfcc63a3",
+      "crc32": "6b24accb",
+      "sha1": "71cbbdc8058f1577fae920973a6be25edd0742d8",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-08-08T19:57:18.710356-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660006662",
+      "size": "20949",
+      "md5": "576201f5034b4c36cd6914cd8400e5b0",
+      "crc32": "9272bb48",
+      "sha1": "4abe4debd2ca205edc0d4097217906a993ba952e",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-08-08T19:57:18.710356-05:00.jpg",
+      "source": "original",
+      "mtime": "1660006658",
+      "size": "268500",
+      "md5": "50520a82d5b546bb58f79873c2bbe97d",
+      "crc32": "ce24b48b",
+      "sha1": "177e0ffe0ee00a85c84afcd1aef547c21911857c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pajaropolitico-2022-08-08T19:57:18.710356-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660006664",
+      "size": "1531",
+      "md5": "57f2361f5309fad7e6359effa99de24e",
+      "crc32": "56822cf3",
+      "sha1": "913f3ffad9ca43bbc38b76763d9f1e9faa1ea853",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-08-08T19:57:18.710356-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660006666",
+      "size": "103563",
+      "md5": "e8933573c69d7a576ac2368b0d8a9e37",
+      "crc32": "dd296329",
+      "sha1": "e22c2d0e8f7e4147990b9ea770448ba797a2e267",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-08-08T19:57:18.710356-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pajaropolitico-2022-08-08T19:57:18.710356-05:00.jpg",
+      "mtime": "1660006849",
+      "size": "9904",
+      "md5": "a19b8624a3d3f17ba9f3eb2e59ce6bc4",
+      "crc32": "8133a804",
+      "sha1": "1fef9c2282bfa6216251f265c9452bb8cb414b44"
+    },
+    {
       "name": "pajaropolitico-2022_archive.torrent",
       "source": "metadata",
-      "btih": "75d2c159c2d05c1e05000c726326b27e8795d8c5",
-      "mtime": "1659963101",
-      "size": "427212",
-      "md5": "9d65b0d5d6d33fff531522729019d757",
-      "crc32": "e7f33ff3",
-      "sha1": "9f7e121faebdc43ce92be0399a964cae0c6ebebc",
+      "btih": "0c94109899d43fba247a889248d35ad25063920a",
+      "mtime": "1660006884",
+      "size": "428516",
+      "md5": "4678049628fc6fb7fc7646b11573864b",
+      "crc32": "dd525fe6",
+      "sha1": "a2906305db93431546f484f62efc1f07148876e4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pajaropolitico-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f9ad7fc9bcc277525db86eee317428fd",
+      "md5": "1d28c2a634b441bbe3e821114d522f01",
       "summation": "md5"
     },
     {
       "name": "pajaropolitico-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659962908",
-      "size": "2289664",
-      "md5": "0e57dd496fcf994cbf9ba9d4f4c14b82",
-      "crc32": "14d3952b",
-      "sha1": "1fa3863014ecda1bd88a49d60d3d9ba4946d1120",
+      "mtime": "1660006669",
+      "size": "2297856",
+      "md5": "addfe620b134d3e5f5636283a64c7aee",
+      "crc32": "8bd1fdf7",
+      "sha1": "11fd8db735923cac9cb2b4ba1a50a8bc83c78d97",
       "format": "Metadata"
     },
     {
@@ -20689,9 +20751,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1972,
-  "item_last_updated": 1659963101,
-  "item_size": 156100172,
+  "files_count": 1978,
+  "item_last_updated": 1660006884,
+  "item_size": 156536043,
   "metadata": {
     "identifier": "pajaropolitico-2022",
     "collection": [
@@ -20713,7 +20775,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3357854665,
+      "task_id": 3358560416,
       "cmd": "archive.php",
       "priority": -5,
       "wait_admin": 1,
@@ -20721,7 +20783,7 @@
       "status": "running"
     }
   ],
-  "uniq": 2099409391,
+  "uniq": 1685489528,
   "workable_servers": [
     "ia902505.us.archive.org"
   ]

@@ -1,5 +1,6 @@
 {
-  "created": 1660006604,
+  "conflict": 1660050029,
+  "created": 1660050029,
   "d1": "ia601002.us.archive.org",
   "d2": "ia801002.us.archive.org",
   "dir": "/8/items/nro-2022",
@@ -10733,21 +10734,32 @@
       "format": "JSON"
     },
     {
+      "name": "nro-2022-08-08T20:55:23.755765-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nro-2022-08-08T20:55:23.755765-04:00.jpg",
+      "mtime": "1660006642",
+      "size": "9642",
+      "md5": "16a6d83be984999b9ac1ce5836f22c02",
+      "crc32": "b7b7cad4",
+      "sha1": "d3bec56535e134d260e33abba1b08f45841f7fe5"
+    },
+    {
       "name": "nro-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ccef79dd7f02397d45e87d693aa89ba374aea58f",
-      "mtime": "1660006600",
-      "size": "212816",
-      "md5": "55d569e9a1443b631f2b5340d779537d",
-      "crc32": "c4b81ec5",
-      "sha1": "a1bd98a1892aa7e278a5a14ceb7b298d568ad9d4",
+      "btih": "ccae71ec79b9bee76908b659ad77a16fcb7190b3",
+      "mtime": "1660006662",
+      "size": "213015",
+      "md5": "4eb7a2208a6c7b56d380cc6437a472f3",
+      "crc32": "2db1549a",
+      "sha1": "8f978a8bb9ca58e2da271bc2c6d9392467bd656a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nro-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0f7fc453648f43f25621cd56a8bedf1c",
+      "md5": "e2ae863c6058ea29bccfdf7c0f838d0f",
       "summation": "md5"
     },
     {
@@ -10771,9 +10783,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1027,
-  "item_last_updated": 1660006600,
-  "item_size": 112499266,
+  "files_count": 1028,
+  "item_last_updated": 1660006662,
+  "item_size": 112509107,
   "metadata": {
     "identifier": "nro-2022",
     "collection": [
@@ -10795,15 +10807,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3357853717,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3358557981,
+      "cmd": "archive.php",
+      "priority": -5,
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
     }
   ],
-  "uniq": 1700306902,
+  "uniq": 1233669212,
   "workable_servers": [
     "ia601002.us.archive.org"
   ]

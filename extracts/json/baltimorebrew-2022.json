@@ -1,5 +1,5 @@
 {
-  "created": 1660005968,
+  "created": 1660048761,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/15/items/baltimorebrew-2022",
@@ -2756,31 +2756,82 @@
       "sha1": "70a490cb5ad09604f9490873371e5b1c30841219"
     },
     {
+      "name": "baltimorebrew-2022-08-09T08:38:19.696491-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660048704",
+      "size": "18383",
+      "md5": "f1b3e5463a2f78ccf3f4e27617fb98d3",
+      "crc32": "753b7b41",
+      "sha1": "953fc664736b4a3def421d12891d9d621b482c5d",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimorebrew-2022-08-09T08:38:19.696491-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660048705",
+      "size": "15585",
+      "md5": "0b7240e3b1e43a068047c7e3b07b0c86",
+      "crc32": "069dc1e9",
+      "sha1": "7bde771458492337d32cc62842255b28dcdf6f13",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimorebrew-2022-08-09T08:38:19.696491-04:00.jpg",
+      "source": "original",
+      "mtime": "1660048702",
+      "size": "256751",
+      "md5": "364e1403d296eae5bead6b10d735a42e",
+      "crc32": "4586b893",
+      "sha1": "4bae7bfe7c51968866be3bd61be8d487a22664f4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "baltimorebrew-2022-08-09T08:38:19.696491-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660048707",
+      "size": "1522",
+      "md5": "d00542cb1b4e62eaee3c3ca03bff9a53",
+      "crc32": "02504650",
+      "sha1": "ea351794fe8de6b66be61cd9b2376104dcbd3376",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimorebrew-2022-08-09T08:38:19.696491-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660048709",
+      "size": "12018",
+      "md5": "ab0b401da1a99be59db1a25facea8f30",
+      "crc32": "739b88b9",
+      "sha1": "1aaf9864326255ef6d6510598a5b9b4926343d73",
+      "format": "JSON"
+    },
+    {
       "name": "baltimorebrew-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b8bac86e19aabd685294acd72e5b30954908b9db",
-      "mtime": "1660005956",
-      "size": "58251",
-      "md5": "ad770b35a0affb6ade2f930a6d004c7e",
-      "crc32": "2c061af8",
-      "sha1": "d705b92471e5873cbd2d72c365645176dcfa0c9e",
+      "btih": "846cf076a1547089dd3a4b2d01710b27589fc00b",
+      "mtime": "1660048752",
+      "size": "59339",
+      "md5": "00337116bf956828b89773ffc1f839b8",
+      "crc32": "8f6d6ce6",
+      "sha1": "3a6e4b0dc146f73d02210b645e9e5724d54ff83a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "baltimorebrew-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b515c5c1f779d79507a63cc37616f7b9",
+      "md5": "d96a8dd2694f7fa4738bfab62671f1f8",
       "summation": "md5"
     },
     {
       "name": "baltimorebrew-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660005820",
-      "size": "344064",
-      "md5": "38d39ec87aaf55bc97892c42fe598229",
-      "crc32": "55fe85e4",
-      "sha1": "c8642a19e4b08d49d1af36e633e3c0d46c368137",
+      "mtime": "1660048714",
+      "size": "348160",
+      "md5": "885064afce915c167a33e86a4ed913bd",
+      "crc32": "c6dc6afa",
+      "sha1": "6668f3d80280116630604b0f5577b51e0160d37b",
       "format": "Metadata"
     },
     {
@@ -2794,9 +2845,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 268,
-  "item_last_updated": 1660005956,
-  "item_size": 17826256,
+  "files_count": 273,
+  "item_last_updated": 1660048752,
+  "item_size": 18135699,
   "metadata": {
     "identifier": "baltimorebrew-2022",
     "collection": [
@@ -2813,10 +2864,21 @@
     "publicdate": "2022-07-13 02:24:41",
     "addeddate": "2022-07-13 02:24:41"
   },
-  "server": "ia801409.us.archive.org",
-  "uniq": 708162897,
+  "pending_tasks": true,
+  "server": "ia601409.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3358541602,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 793137865,
   "workable_servers": [
-    "ia801409.us.archive.org",
     "ia601409.us.archive.org"
   ]
 }

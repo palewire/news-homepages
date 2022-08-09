@@ -1,5 +1,5 @@
 {
-  "created": 1660005927,
+  "created": 1660049465,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/2/items/foxla-2022",
@@ -14124,31 +14124,82 @@
       "sha1": "158b5b5d745b9cd94a5c797cef83d3abe6781198"
     },
     {
+      "name": "foxla-2022-08-09T05:49:47.399421-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660049391",
+      "size": "44261",
+      "md5": "629063c2e3ceffb9d5eda3a1c27efefc",
+      "crc32": "e1c58c46",
+      "sha1": "ebfb8209163d5b60079e864fd019395f716bd380",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-08-09T05:49:47.399421-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660049393",
+      "size": "38686",
+      "md5": "da7a443429d7f1de3f0ec8006975abff",
+      "crc32": "49508b9d",
+      "sha1": "61f7fd02076600812ddb5003d898507c8dff3d3f",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-08-09T05:49:47.399421-07:00.jpg",
+      "source": "original",
+      "mtime": "1660049389",
+      "size": "310087",
+      "md5": "0efa78723c845e9f67688954e0fffe3e",
+      "crc32": "a3c44682",
+      "sha1": "23a0598665d4849634d6121aec2ac4515780432f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxla-2022-08-09T05:49:47.399421-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660049395",
+      "size": "1447",
+      "md5": "d8d609b7806520f7a6d99275546e079f",
+      "crc32": "34811b35",
+      "sha1": "c5f5e03f7420ff9f83bf81d3627a7c80e0db0fb9",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-08-09T05:49:47.399421-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660049402",
+      "size": "98",
+      "md5": "9ce6f1b632211048467f661e0dd4aac7",
+      "crc32": "7d40a01d",
+      "sha1": "bba13540dca129e603cb401a8bebedffaa598942",
+      "format": "JSON"
+    },
+    {
       "name": "foxla-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d86f1055c92322beae980a638e3bc3f30124bf0a",
-      "mtime": "1660005913",
-      "size": "281823",
-      "md5": "7d0c65ef4655d1000cb7f34a532f275b",
-      "crc32": "b9f5e159",
-      "sha1": "79743319ae011856949b357e0bb17a703a3a233d",
+      "btih": "4113b41f95f4ffbeed95b14103246d3b2ab34434",
+      "mtime": "1660049455",
+      "size": "282868",
+      "md5": "504f6fd7381f2327df26ac05eb40a5e3",
+      "crc32": "5d6eba1a",
+      "sha1": "7c9bd33ef4d1629fa70309ba1d11b9bf80a536db",
       "format": "Archive BitTorrent"
     },
     {
       "name": "foxla-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8753a8b751efb4b46a0be4d37a0da9e6",
+      "md5": "fbbb3c2411aec92165722b07bfa58dfe",
       "summation": "md5"
     },
     {
       "name": "foxla-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660005785",
-      "size": "1552384",
-      "md5": "65b4c0720011f1c4b6451b2f1b00f085",
-      "crc32": "e8036504",
-      "sha1": "9a87da9267010bb6e750e933d0005e0bffcdc1c7",
+      "mtime": "1660049406",
+      "size": "1564672",
+      "md5": "ead9a222f781b2ee0db2c7705d9860fe",
+      "crc32": "8879ef25",
+      "sha1": "64dd98df70b93182a9e03e9060d6f50fc6f13106",
       "format": "Metadata"
     },
     {
@@ -14162,9 +14213,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1350,
-  "item_last_updated": 1660005913,
-  "item_size": 136929762,
+  "files_count": 1355,
+  "item_last_updated": 1660049455,
+  "item_size": 137337674,
   "metadata": {
     "identifier": "foxla-2022",
     "collection": [
@@ -14181,10 +14232,21 @@
     "publicdate": "2022-03-23 20:59:13",
     "addeddate": "2022-03-23 20:59:13"
   },
-  "server": "ia801403.us.archive.org",
-  "uniq": 1844666148,
+  "pending_tasks": true,
+  "server": "ia601403.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3358550501,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 2055055390,
   "workable_servers": [
-    "ia801403.us.archive.org",
     "ia601403.us.archive.org"
   ]
 }

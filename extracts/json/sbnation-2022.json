@@ -1,5 +1,6 @@
 {
-  "created": 1660006848,
+  "conflict": 1660050272,
+  "created": 1660050272,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/4/items/sbnation-2022",
@@ -4857,21 +4858,32 @@
       "format": "JSON"
     },
     {
+      "name": "sbnation-2022-08-08T20:59:39.641301-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sbnation-2022-08-08T20:59:39.641301-04:00.jpg",
+      "mtime": "1660006876",
+      "size": "10758",
+      "md5": "6bfc3ccda01fc11ed5ac60a603fbebfe",
+      "crc32": "efa9d649",
+      "sha1": "00f9ac04e1f5d51bb21bc0e21c661134c8add8f1"
+    },
+    {
       "name": "sbnation-2022_archive.torrent",
       "source": "metadata",
-      "btih": "eb89514ca00da76b7b6a7874e732d9d1f5e2c0b1",
-      "mtime": "1660006845",
-      "size": "99634",
-      "md5": "521ed59b65db02e6747573e492a066bf",
-      "crc32": "5a88d2cf",
-      "sha1": "365c4255e1c54f61734c2bd97e2e8344581ae2a6",
+      "btih": "7199e780a5f157d60ce32a6c089822d53eaad6dd",
+      "mtime": "1660006898",
+      "size": "99839",
+      "md5": "3d2e29f984c167d403da7cfe1d970545",
+      "crc32": "24704ffe",
+      "sha1": "47075d7017fa9b9e0ec3b6ba9b6aad737af5338c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sbnation-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f47eb6985a42d11899582c6076035465",
+      "md5": "c93a923d8b94d163a9edc4399e70b91e",
       "summation": "md5"
     },
     {
@@ -4895,9 +4907,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 468,
-  "item_last_updated": 1660006845,
-  "item_size": 48761229,
+  "files_count": 469,
+  "item_last_updated": 1660006898,
+  "item_size": 48772192,
   "metadata": {
     "identifier": "sbnation-2022",
     "collection": [
@@ -4919,15 +4931,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3357857735,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3358564349,
+      "cmd": "archive.php",
+      "priority": -5,
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
     }
   ],
-  "uniq": 1448777044,
+  "uniq": 1444931391,
   "workable_servers": [
     "ia601403.us.archive.org"
   ]
