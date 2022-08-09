@@ -1,5 +1,5 @@
 {
-  "created": 1659935758,
+  "created": 1660006528,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/27/items/mdjonline-2022",
@@ -1940,31 +1940,93 @@
       "sha1": "905e7c4e4a0658fa7ed149382b43c6bfafb2567a"
     },
     {
+      "name": "mdjonline-2022-08-08T13:08:43.713638-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659978529",
+      "size": "48003",
+      "md5": "d085434c4345b53854a641c18702c8c9",
+      "crc32": "713eb8d6",
+      "sha1": "f715e29cee30288940103a76c4d8a948b15e07f0",
+      "format": "JSON"
+    },
+    {
+      "name": "mdjonline-2022-08-08T13:08:43.713638-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659978531",
+      "size": "56077",
+      "md5": "f696c03f67ba432e36c0ebfb8ba4e5dd",
+      "crc32": "42e1b48d",
+      "sha1": "d2061ebb890621c30cd2ab4787f1c5f987d9a69d",
+      "format": "JSON"
+    },
+    {
+      "name": "mdjonline-2022-08-08T13:08:43.713638-04:00.jpg",
+      "source": "original",
+      "mtime": "1659978527",
+      "size": "308220",
+      "md5": "c571f1944d92a9e314ae6608e08d66d7",
+      "crc32": "c4498371",
+      "sha1": "e2e910451ffbb51e6a8207de68ff04dc5ddeeb01",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mdjonline-2022-08-08T13:08:43.713638-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659978533",
+      "size": "1486",
+      "md5": "e73adf672cb76feaa1708c3398ccd49a",
+      "crc32": "83dfb4d5",
+      "sha1": "e18ac89a41c5137fb471671b7d7161fa8a8e8edb",
+      "format": "JSON"
+    },
+    {
+      "name": "mdjonline-2022-08-08T13:08:43.713638-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659978535",
+      "size": "101",
+      "md5": "8e053d1de215426093650b3bd2a78e5d",
+      "crc32": "f9f9f481",
+      "sha1": "f66985831845e3065440fca55239514ef73d910d",
+      "format": "JSON"
+    },
+    {
+      "name": "mdjonline-2022-08-08T13:08:43.713638-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mdjonline-2022-08-08T13:08:43.713638-04:00.jpg",
+      "mtime": "1659978595",
+      "size": "10101",
+      "md5": "648a9a3918b07600a966b6c909339c8e",
+      "crc32": "118311c9",
+      "sha1": "bcdcbdfed7b71c8c3eb6b8c85d432c615e19babb"
+    },
+    {
       "name": "mdjonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "50fe7eb925b9b80eeaf7fdfb131cd2b13fe76e5f",
-      "mtime": "1659935750",
-      "size": "40953",
-      "md5": "3ef75db5236c4b4720f884480eef65b5",
-      "crc32": "69f17d9f",
-      "sha1": "f9cee0fbc45f8f48682a40d57c4ad05c79b757ec",
+      "btih": "fba14453ca45fb4e6fd786c58505a954e253235b",
+      "mtime": "1659978600",
+      "size": "42205",
+      "md5": "ef9ed87fd83330c09eb8e574d8890b52",
+      "crc32": "a9c433e1",
+      "sha1": "ed79cbc8557688f374f1efd19011cef12eb9f475",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mdjonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3270eb3fee582635e7101b3d41a0931d",
+      "md5": "02005e128abf9bfa12421b9fa56d787d",
       "summation": "md5"
     },
     {
       "name": "mdjonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659935699",
-      "size": "249856",
-      "md5": "dc41b03aee3cd31bcd0da84e17b89c2f",
-      "crc32": "649ae843",
-      "sha1": "8940cb74aaa485e2444124112ae0e7ea99d899f1",
+      "mtime": "1659978538",
+      "size": "253952",
+      "md5": "198f18a6d8c3e160f6636dc8207e35b8",
+      "crc32": "9e345b58",
+      "sha1": "095a9188452ddfc0bafb29233e8a5a2d9574d9ec",
       "format": "Metadata"
     },
     {
@@ -1978,9 +2040,13 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 190,
-  "item_last_updated": 1659935750,
-  "item_size": 17375396,
+  "files_count": 196,
+  "item_last_updated": 1659978600,
+  "item_size": 17804732,
+  "mdjonline-2022": {
+    "url": "https://www.mdjonline.com",
+    "job_id": "spn2-50a2ada1183bb21634e442c0560ab43019feac89"
+  },
   "metadata": {
     "identifier": "mdjonline-2022",
     "collection": [
@@ -1998,7 +2064,7 @@
     "addeddate": "2022-07-20 23:31:19"
   },
   "server": "ia601404.us.archive.org",
-  "uniq": 1219102215,
+  "uniq": 33572599,
   "workable_servers": [
     "ia601404.us.archive.org",
     "ia801404.us.archive.org"

@@ -1,5 +1,6 @@
 {
-  "created": 1659962951,
+  "conflict": 1660006708,
+  "created": 1660006708,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/29/items/phillytrib-2022",
@@ -3797,21 +3798,32 @@
       "format": "JSON"
     },
     {
+      "name": "phillytrib-2022-08-08T08:48:18.237264-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "phillytrib-2022-08-08T08:48:18.237264-04:00.jpg",
+      "mtime": "1659963322",
+      "size": "10843",
+      "md5": "6fe52721cf151fd06a75153e6d74e97c",
+      "crc32": "3511cadd",
+      "sha1": "a18c6e40de60c3ac738ad471e1c81982dd55b824"
+    },
+    {
       "name": "phillytrib-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2b2089347c30bb641d507a482fdfd4b115ee31ab",
-      "mtime": "1659962948",
-      "size": "78908",
-      "md5": "41724a2d5a81f4a0d7fbbf8da916bb36",
-      "crc32": "762b2a97",
-      "sha1": "4d88bd8325ef15f1a4d5c612091061b98ba0f366",
+      "btih": "52575ed53d5ad68c9e73f4841d74e50a456f6fc7",
+      "mtime": "1659963346",
+      "size": "79115",
+      "md5": "76b252e4cf27518edf9b01b113cc09ab",
+      "crc32": "4044b861",
+      "sha1": "2f80e91b2b369c2ec23ad4014c2d372568940718",
       "format": "Archive BitTorrent"
     },
     {
       "name": "phillytrib-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a4cef4085c9dde6260564200da17fc9d",
+      "md5": "6b459128978d2e47b42c5fbb24da534c",
       "summation": "md5"
     },
     {
@@ -3835,9 +3847,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 367,
-  "item_last_updated": 1659962948,
-  "item_size": 35630955,
+  "files_count": 368,
+  "item_last_updated": 1659963346,
+  "item_size": 35642005,
   "metadata": {
     "identifier": "phillytrib-2022",
     "collection": [
@@ -3859,15 +3871,31 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3357231584,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3357855336,
+      "cmd": "archive.php",
+      "priority": -5,
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
+    },
+    {
+      "task_id": 3357855358,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3357855391,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 587669504,
+  "uniq": 1135131332,
   "workable_servers": [
     "ia902506.us.archive.org"
   ]

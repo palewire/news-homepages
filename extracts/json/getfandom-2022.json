@@ -1,5 +1,5 @@
 {
-  "created": 1659935460,
+  "created": 1660006280,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/35/items/getfandom-2022",
@@ -2192,31 +2192,93 @@
       "sha1": "157e67c10b220d866e67c3522c418b1077a6eec9"
     },
     {
+      "name": "getfandom-2022-08-08T10:00:06.546808-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659978009",
+      "size": "14856",
+      "md5": "5aec0d27360ee5465af71b49916d02cd",
+      "crc32": "4e06b9a8",
+      "sha1": "f44de23b2ff6cf669c15c485217888f270f6642d",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-08-08T10:00:06.546808-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659978010",
+      "size": "22883",
+      "md5": "71d328948c59b5461fd74567e98349c0",
+      "crc32": "1a0efa34",
+      "sha1": "e04086420c73e1ce67b5b182c3e988ab1e7b36ba",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-08-08T10:00:06.546808-07:00.jpg",
+      "source": "original",
+      "mtime": "1659978007",
+      "size": "291947",
+      "md5": "55ef402289e54cacce1c52386d8370b5",
+      "crc32": "340e5560",
+      "sha1": "83b76c386e463fc589cf85b0b27b16cfc072cf35",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "getfandom-2022-08-08T10:00:06.546808-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659978011",
+      "size": "1459",
+      "md5": "531d945bac6dd952bdc73495d67e635a",
+      "crc32": "75cf2f8c",
+      "sha1": "7d7fc1bd4b256c2010c3a4cc6379b07cc44ee493",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-08-08T10:00:06.546808-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1659978013",
+      "size": "230",
+      "md5": "ca9cbc0740b83bef873e7428606ecf34",
+      "crc32": "0494c2bf",
+      "sha1": "eb104d6b30b5cd2ba09eadb42b9fbfa3997275f6",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-08-08T10:00:06.546808-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "getfandom-2022-08-08T10:00:06.546808-07:00.jpg",
+      "mtime": "1659978072",
+      "size": "10574",
+      "md5": "df967c6e16935720b4b7f3549fef1cfa",
+      "crc32": "bbcc0c30",
+      "sha1": "157e67c10b220d866e67c3522c418b1077a6eec9"
+    },
+    {
       "name": "getfandom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bc2effa451216dcdeb4f44b52a87f3a7f30bd006",
-      "mtime": "1659935449",
-      "size": "45850",
-      "md5": "72a952e5f3f84e643f35931ed7d925b2",
-      "crc32": "285b4387",
-      "sha1": "1b4410c2e6a87d34987d9128311c86eaab5eb70f",
+      "btih": "9621bac0aa784431c09adb1a9b7d9750b79f6352",
+      "mtime": "1659978076",
+      "size": "47122",
+      "md5": "5dac783ffd63079cea91e4d2b57ec96e",
+      "crc32": "5866bfdb",
+      "sha1": "440590947c2960c11b03b05d9078f599c8facc15",
       "format": "Archive BitTorrent"
     },
     {
       "name": "getfandom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4f239d3ff59eb76d4a288196ef0cde72",
+      "md5": "23ed96a9571b7324d3e862087b0e4ad6",
       "summation": "md5"
     },
     {
       "name": "getfandom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659935396",
-      "size": "278528",
-      "md5": "daa114245f31daca5df8d38c55d893fb",
-      "crc32": "01e371ee",
-      "sha1": "9ff60cb52236a7f093ef4abd670fa21bd7e33b68",
+      "mtime": "1659978017",
+      "size": "282624",
+      "md5": "15ee4a13882d9138c9549ef696318a9c",
+      "crc32": "a3cf4a47",
+      "sha1": "a14c966fe14b9005acadb46a2f0704cc82b56d88",
       "format": "Metadata"
     },
     {
@@ -2230,9 +2292,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 214,
-  "item_last_updated": 1659935449,
-  "item_size": 15198455,
+  "files_count": 220,
+  "getfandom-2022": {
+    "url": "https://www.fandom.com/",
+    "job_id": "spn2-188960549d8fd2f056eda337545946039bf9563f",
+    "message": "The same snapshot had been made 35 minutes, 28 seconds ago. You can make new capture of this URL after 45 minutes."
+  },
+  "item_last_updated": 1659978076,
+  "item_size": 15545772,
   "metadata": {
     "identifier": "getfandom-2022",
     "collection": [
@@ -2250,7 +2317,7 @@
     "addeddate": "2022-07-18 02:22:01"
   },
   "server": "ia801500.us.archive.org",
-  "uniq": 815208511,
+  "uniq": 1820212278,
   "workable_servers": [
     "ia801500.us.archive.org",
     "ia601500.us.archive.org"

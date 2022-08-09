@@ -1,5 +1,5 @@
 {
-  "created": 1659937372,
+  "created": 1660006257,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/15/items/gazetaru-2022",
@@ -3484,31 +3484,93 @@
       "sha1": "04cf0f347f131efc404d31f57a9b68a63ff16f11"
     },
     {
+      "name": "gazetaru-2022-08-08T19:59:15.757231+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659977960",
+      "size": "71784",
+      "md5": "18f489ff7c0e7d7ecf9027d1e80b50a6",
+      "crc32": "04882cd7",
+      "sha1": "5a1ce3060a7d12983cd0afa5bdce866896499fc8",
+      "format": "JSON"
+    },
+    {
+      "name": "gazetaru-2022-08-08T19:59:15.757231+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659977962",
+      "size": "63916",
+      "md5": "b6fcd0233c039e40bf3990cbf70165fa",
+      "crc32": "d2b622b7",
+      "sha1": "e1802150c8e936f0d675673c6b583234371f001d",
+      "format": "JSON"
+    },
+    {
+      "name": "gazetaru-2022-08-08T19:59:15.757231+03:00.jpg",
+      "source": "original",
+      "mtime": "1659977958",
+      "size": "268569",
+      "md5": "69706a57fb53ed17e2fe7de04e08a39a",
+      "crc32": "a0f6da94",
+      "sha1": "e33302dcbff5586fbc8b09349f1e7df9ef834fef",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gazetaru-2022-08-08T19:59:15.757231+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659977963",
+      "size": "1425",
+      "md5": "599f1ff381ba7614ebc44a6793326d2f",
+      "crc32": "738e56d2",
+      "sha1": "8886f56d0e44fd828f2b742a3cbb3a7691bbeee0",
+      "format": "JSON"
+    },
+    {
+      "name": "gazetaru-2022-08-08T19:59:15.757231+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1659977966",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "gazetaru-2022-08-08T19:59:15.757231+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gazetaru-2022-08-08T19:59:15.757231+03:00.jpg",
+      "mtime": "1659978031",
+      "size": "9531",
+      "md5": "23a50b16c08d70b5ddc25642e71a9179",
+      "crc32": "8e9241d9",
+      "sha1": "30e98d775af1c8d85f4ce37ab2a0d2f03a0f7ef2"
+    },
+    {
       "name": "gazetaru-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dd14c748428ea2c5cd4f20fe6503202dc0a1464e",
-      "mtime": "1659937364",
-      "size": "71863",
-      "md5": "c3f832ae1c942c705a59f48bacf4b920",
-      "crc32": "4edaa770",
-      "sha1": "a9ad1023228433f3e40d7358b5aab74ef80d2974",
+      "btih": "1416e1930a4d7c90240996c5d7ccc7f346a1f915",
+      "mtime": "1659978043",
+      "size": "73128",
+      "md5": "407f011483b87cd5040786885fd320fe",
+      "crc32": "69a23cbc",
+      "sha1": "5940c85f74ab6d71a5e61d9d2df9439e9ac2b62d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gazetaru-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2c8e85c4df46f5b2dc78fd5a77e7376e",
+      "md5": "06a54940ed53936cde5e92ef7752ccd2",
       "summation": "md5"
     },
     {
       "name": "gazetaru-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659937310",
-      "size": "421888",
-      "md5": "bdc43c36b33ff2a213b3e0678796846e",
-      "crc32": "66215a00",
-      "sha1": "4ad472c1a3a19bb0d6282c037267443586237324",
+      "mtime": "1659977972",
+      "size": "434176",
+      "md5": "c67802ede5d261d3df026892f92b35f5",
+      "crc32": "91959786",
+      "sha1": "965846136036222ee4ee232d64cfc3673c2c3052",
       "format": "Metadata"
     },
     {
@@ -3522,9 +3584,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 338,
-  "item_last_updated": 1659937364,
-  "item_size": 28699867,
+  "files_count": 344,
+  "gazetaru-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "item_last_updated": 1659978043,
+  "item_size": 29128847,
   "metadata": {
     "identifier": "gazetaru-2022",
     "collection": [
@@ -3542,7 +3609,7 @@
     "addeddate": "2022-07-16 20:49:01"
   },
   "server": "ia801400.us.archive.org",
-  "uniq": 1716264444,
+  "uniq": 57252018,
   "workable_servers": [
     "ia801400.us.archive.org",
     "ia601400.us.archive.org"

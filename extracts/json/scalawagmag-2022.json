@@ -1,5 +1,5 @@
 {
-  "created": 1659963248,
+  "created": 1659979150,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/0/items/scalawagmag-2022",
@@ -1688,31 +1688,93 @@
       "sha1": "de9206e324055a3ca9c7fe20e5ffa9de15f97857"
     },
     {
+      "name": "scalawagmag-2022-08-08T13:17:34.739266-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659979058",
+      "size": "31358",
+      "md5": "791ef025816f8f730a507d3ba251f096",
+      "crc32": "6037b22a",
+      "sha1": "5d3a4e1039c7198ca2b7adcca4c3c0260eeb30fb",
+      "format": "JSON"
+    },
+    {
+      "name": "scalawagmag-2022-08-08T13:17:34.739266-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659979060",
+      "size": "25235",
+      "md5": "bde939b2d5890a8676961ba5b4a76222",
+      "crc32": "1f4e5696",
+      "sha1": "dbecef143179d25cbf54c9294437e763fe29238f",
+      "format": "JSON"
+    },
+    {
+      "name": "scalawagmag-2022-08-08T13:17:34.739266-04:00.jpg",
+      "source": "original",
+      "mtime": "1659979056",
+      "size": "357602",
+      "md5": "378eb6a706bfe8c1a38fb39a4e36602f",
+      "crc32": "1c16453d",
+      "sha1": "e68c7b4fab58e3ab70c07e4b7eb5e6f49dba6cd9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "scalawagmag-2022-08-08T13:17:34.739266-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659979062",
+      "size": "1512",
+      "md5": "40308b3216c8b7136de0f519c2c987cf",
+      "crc32": "50e56f41",
+      "sha1": "5c70e9136113d63cf17496070df0ed2583ba5021",
+      "format": "JSON"
+    },
+    {
+      "name": "scalawagmag-2022-08-08T13:17:34.739266-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659979063",
+      "size": "18269",
+      "md5": "b404221e388258fe8d0fcd410d69f40d",
+      "crc32": "4c0e00a1",
+      "sha1": "84d6bce93f35021ecf1486e084568dab525be310",
+      "format": "JSON"
+    },
+    {
+      "name": "scalawagmag-2022-08-08T13:17:34.739266-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "scalawagmag-2022-08-08T13:17:34.739266-04:00.jpg",
+      "mtime": "1659979130",
+      "size": "11205",
+      "md5": "dc7bba06406b0cf4fa3367e089ff11ca",
+      "crc32": "407b47a1",
+      "sha1": "de9206e324055a3ca9c7fe20e5ffa9de15f97857"
+    },
+    {
       "name": "scalawagmag-2022_archive.torrent",
       "source": "metadata",
-      "btih": "93b220d950c4df15166f99170f94f37cd206e55b",
-      "mtime": "1659936267",
-      "size": "36017",
-      "md5": "2f95bd16cdc281b88635bd37f92d764f",
-      "crc32": "b798aa7c",
-      "sha1": "a2b55700d11af6c64e96f8ac05411ee7e7a6fb02",
+      "btih": "8357fa767e07cab2dad03c020a548e4c74e969b3",
+      "mtime": "1659979135",
+      "size": "37303",
+      "md5": "ed72578565a61a891456ea4640243d23",
+      "crc32": "3a77e47a",
+      "sha1": "4f04e05b732190159a3204507ef5c56dbd544bde",
       "format": "Archive BitTorrent"
     },
     {
       "name": "scalawagmag-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1f196dae7fac592843d83d0911ce8c00",
+      "md5": "9f8c5be3c6676234891a09d98761c5de",
       "summation": "md5"
     },
     {
       "name": "scalawagmag-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659936221",
-      "size": "225280",
-      "md5": "7201979284e5f7a44936368d9ff68150",
-      "crc32": "af7b263a",
-      "sha1": "33f6328746fb47347c36e6c8a5df53a5ec0399ef",
+      "mtime": "1659979067",
+      "size": "229376",
+      "md5": "46ab70cb48a41aae418b001947d34de6",
+      "crc32": "41304af2",
+      "sha1": "b67b27e7596a855786b63c78f7d88879c90df81f",
       "format": "Metadata"
     },
     {
@@ -1726,9 +1788,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 166,
-  "item_last_updated": 1659936267,
-  "item_size": 10733644,
+  "files_count": 172,
+  "item_last_updated": 1659979135,
+  "item_size": 11184207,
   "metadata": {
     "identifier": "scalawagmag-2022",
     "collection": [
@@ -1745,14 +1807,10 @@
     "publicdate": "2022-07-24 06:22:54",
     "addeddate": "2022-07-24 06:22:54"
   },
-  "scalawagmag-2022": {
-    "url": "https://scalawagmagazine.org/",
-    "job_id": "spn2-561537a79f4365efef99363ce9e0ab06dcc08ee3"
-  },
-  "server": "ia601406.us.archive.org",
-  "uniq": 643427756,
+  "server": "ia801406.us.archive.org",
+  "uniq": 1587109598,
   "workable_servers": [
-    "ia601406.us.archive.org",
-    "ia801406.us.archive.org"
+    "ia801406.us.archive.org",
+    "ia601406.us.archive.org"
   ]
 }

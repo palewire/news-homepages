@@ -1,5 +1,6 @@
 {
-  "created": 1659963187,
+  "conflict": 1660006851,
+  "created": 1660006851,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/33/items/sltimes-2022",
@@ -6290,31 +6291,93 @@
       "sha1": "9937ec7150b5aeacc9513d58f9b94d4dbbe61a88"
     },
     {
+      "name": "sltimes-2022-08-08T12:46:47.025921-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659980811",
+      "size": "28335",
+      "md5": "52d4383803eaffbbfe95b618096c6b18",
+      "crc32": "25477715",
+      "sha1": "e6e7ca3fc5d22f246c948ed4c715062ad48b0ff7",
+      "format": "JSON"
+    },
+    {
+      "name": "sltimes-2022-08-08T12:46:47.025921-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659980813",
+      "size": "20183",
+      "md5": "4e2660dca83af39a52bbf1ad88dc86ee",
+      "crc32": "8b3d4932",
+      "sha1": "38b0ba62c8112465b3a134f2eb2bdaf753d273d7",
+      "format": "JSON"
+    },
+    {
+      "name": "sltimes-2022-08-08T12:46:47.025921-05:00.jpg",
+      "source": "original",
+      "mtime": "1659980809",
+      "size": "343741",
+      "md5": "de2b1663207217f08a9ad6384be67d81",
+      "crc32": "04b8619e",
+      "sha1": "0b9ba65e037f0e94cb5d74d99e2251ba1eb91718",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sltimes-2022-08-08T12:46:47.025921-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659980814",
+      "size": "1485",
+      "md5": "0e790c3357d8133da6016fb5d112c9d4",
+      "crc32": "fcf8e834",
+      "sha1": "df7bd55ef81c4a39ed7f9ec6ee1d057e406fe8d2",
+      "format": "JSON"
+    },
+    {
+      "name": "sltimes-2022-08-08T12:46:47.025921-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1659980816",
+      "size": "21136",
+      "md5": "a60ac3fffa96fe1ca36782f3f11ddcaa",
+      "crc32": "ce52b2fa",
+      "sha1": "258ba20b6b13df9280be9443109d9225204ee253",
+      "format": "JSON"
+    },
+    {
+      "name": "sltimes-2022-08-08T12:46:47.025921-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sltimes-2022-08-08T12:46:47.025921-05:00.jpg",
+      "mtime": "1659980900",
+      "size": "10706",
+      "md5": "359e33c28a05e819a9f5a5e6215542ee",
+      "crc32": "ce701b4c",
+      "sha1": "1d2bd3ee18204aeda18a9117c818a45ab7c33e03"
+    },
+    {
       "name": "sltimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "41a29ba0457e36bd0bfe9d328261dcfc3b5e8976",
-      "mtime": "1659963173",
-      "size": "127982",
-      "md5": "d733de1f1da49847345ed52c3b282d22",
-      "crc32": "3647cc9e",
-      "sha1": "5148f680edcf77cdf817f98f5e1c52e50da8d91a",
+      "btih": "69ff0b3a117dc19ff0afe14e2256dbbb70fcc0a7",
+      "mtime": "1659980912",
+      "size": "129244",
+      "md5": "6645aa9135dbe827536cf56acadb2c5b",
+      "crc32": "99d6b613",
+      "sha1": "238248761f28aa2ffb290705a5d6b2bf3396e325",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sltimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8407b9892cc86aa4589c6ea1c67871df",
+      "md5": "23e9e032a58ed75d11bf6c42f45001f4",
       "summation": "md5"
     },
     {
       "name": "sltimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659963114",
-      "size": "724992",
-      "md5": "e82cfa2352680046b1192f58babc7af1",
-      "crc32": "54cd9f27",
-      "sha1": "eec8cfe03e3dd93fd8bbbe207571043e40aafd49",
+      "mtime": "1659980819",
+      "size": "729088",
+      "md5": "2caa95ae3b970735f983edde816d8d4e",
+      "crc32": "72ddc3df",
+      "sha1": "f970abfd7810ea84b7db585169a691631e669c96",
       "format": "Metadata"
     },
     {
@@ -6328,9 +6391,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 605,
-  "item_last_updated": 1659963173,
-  "item_size": 61673799,
+  "files_count": 611,
+  "item_last_updated": 1659980912,
+  "item_size": 62104743,
   "metadata": {
     "identifier": "sltimes-2022",
     "collection": [
@@ -6347,10 +6410,21 @@
     "publicdate": "2022-06-19 23:28:16",
     "addeddate": "2022-06-19 23:28:16"
   },
-  "server": "ia801502.us.archive.org",
-  "uniq": 1809234713,
+  "pending_tasks": true,
+  "server": "ia601502.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3357857741,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1146866004,
   "workable_servers": [
-    "ia801502.us.archive.org",
     "ia601502.us.archive.org"
   ]
 }

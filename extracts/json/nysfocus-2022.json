@@ -1,5 +1,5 @@
 {
-  "created": 1659935987,
+  "created": 1659978893,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/35/items/nysfocus-2022",
@@ -3074,31 +3074,93 @@
       "sha1": "8ded6ea9af5fc37c76bdfb813a62d54c5a0d3e95"
     },
     {
+      "name": "nysfocus-2022-08-08T13:12:51.974529-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659978775",
+      "size": "54664",
+      "md5": "3321e800bc7341eb3e212580d6ebeae4",
+      "crc32": "cc54b639",
+      "sha1": "7e22c180a4bf00158889afdb54ab8fbc085865e6",
+      "format": "JSON"
+    },
+    {
+      "name": "nysfocus-2022-08-08T13:12:51.974529-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659978777",
+      "size": "46390",
+      "md5": "e48067ed18d2a182bb9948ec04c64293",
+      "crc32": "8e3ed690",
+      "sha1": "631140cdadf3b82d81fdd5f72c5fcb6cdacdc556",
+      "format": "JSON"
+    },
+    {
+      "name": "nysfocus-2022-08-08T13:12:51.974529-04:00.jpg",
+      "source": "original",
+      "mtime": "1659978773",
+      "size": "256557",
+      "md5": "c232cb91eca8b9e4c53162b8bccecd31",
+      "crc32": "62c0ff6c",
+      "sha1": "f80660e833beac16c53fc605b5878448b945b4cd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nysfocus-2022-08-08T13:12:51.974529-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659978779",
+      "size": "1476",
+      "md5": "5e95fe51c1b0a511d17a8430d18021d4",
+      "crc32": "2321fa47",
+      "sha1": "5a1239ef0d6d7170ea86db8463ea0a1e78f8e932",
+      "format": "JSON"
+    },
+    {
+      "name": "nysfocus-2022-08-08T13:12:51.974529-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659978780",
+      "size": "14653",
+      "md5": "9d6710997faf0603079f8f824cb93c2d",
+      "crc32": "1009370a",
+      "sha1": "5eb9ef62944aeae8028ae502f7d3d44c3ab4782b",
+      "format": "JSON"
+    },
+    {
+      "name": "nysfocus-2022-08-08T13:12:51.974529-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nysfocus-2022-08-08T13:12:51.974529-04:00.jpg",
+      "mtime": "1659978866",
+      "size": "9537",
+      "md5": "dc8652ab02cf9087995b2dc33f8c3d2e",
+      "crc32": "bd14221f",
+      "sha1": "8ded6ea9af5fc37c76bdfb813a62d54c5a0d3e95"
+    },
+    {
       "name": "nysfocus-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7dc3a92b2fe90f21c449114e42dd2beae4b4fb97",
-      "mtime": "1659935963",
-      "size": "63320",
-      "md5": "ad5544b65f0a330266e066b1a24a1b2b",
-      "crc32": "b54b3617",
-      "sha1": "8f36015c7afbafb44673dc0b1222a3ef2c9e0c43",
+      "btih": "50f316f4872ecfe40cf130886ce6974b56f7eec3",
+      "mtime": "1659978870",
+      "size": "64587",
+      "md5": "a8ec9b9d43af216b78f7830e43ad7258",
+      "crc32": "e9d552cb",
+      "sha1": "bfbb0f470bde879153176ad15a67085b2451a1c5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nysfocus-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "db0c45d8cf247450f912402b436db36d",
+      "md5": "e519d499ed72cbb432866e776dfb5f90",
       "summation": "md5"
     },
     {
       "name": "nysfocus-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659935893",
-      "size": "372736",
-      "md5": "79b6458fc312026003a889b6cfb3db29",
-      "crc32": "b13549ec",
-      "sha1": "9ff8458d4ddb57d5082b68047a308ea4d98ac0b9",
+      "mtime": "1659978784",
+      "size": "376832",
+      "md5": "754ef9359ae83e64765c50394281b6ab",
+      "crc32": "5a647328",
+      "sha1": "829ffd1898229295b0bb6be3f557259d6674b76e",
       "format": "Metadata"
     },
     {
@@ -3112,9 +3174,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 298,
-  "item_last_updated": 1659935963,
-  "item_size": 23562747,
+  "files_count": 304,
+  "item_last_updated": 1659978870,
+  "item_size": 23951387,
   "metadata": {
     "identifier": "nysfocus-2022",
     "collection": [
@@ -3131,10 +3193,10 @@
     "publicdate": "2022-07-09 04:00:54",
     "addeddate": "2022-07-09 04:00:54"
   },
-  "server": "ia802503.us.archive.org",
-  "uniq": 1985081843,
+  "server": "ia902503.us.archive.org",
+  "uniq": 1276149691,
   "workable_servers": [
-    "ia802503.us.archive.org",
-    "ia902503.us.archive.org"
+    "ia902503.us.archive.org",
+    "ia802503.us.archive.org"
   ]
 }

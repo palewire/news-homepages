@@ -1,5 +1,5 @@
 {
-  "created": 1659936393,
+  "created": 1660006913,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/28/items/statesman-2022",
@@ -2224,31 +2224,83 @@
       "sha1": "c17d7222b771333077d23017ceb8340622c3ce8c"
     },
     {
+      "name": "statesman-2022-08-08T12:20:39.344713-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659979241",
+      "size": "21661",
+      "md5": "0b4c5222989b0b59b1498868300be88a",
+      "crc32": "1cd1ff8e",
+      "sha1": "da4067dd325cf9d8533535fd0fd21b2e4c58d004",
+      "format": "JSON"
+    },
+    {
+      "name": "statesman-2022-08-08T12:20:39.344713-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659979243",
+      "size": "45580",
+      "md5": "92dd68eb92bd164d90623c1feb76b151",
+      "crc32": "3ed0db36",
+      "sha1": "2d6fb56aaba0b365a6aee30b4867e0a3250ca7bc",
+      "format": "JSON"
+    },
+    {
+      "name": "statesman-2022-08-08T12:20:39.344713-05:00.jpg",
+      "source": "original",
+      "mtime": "1659979240",
+      "size": "297806",
+      "md5": "345fa6660af4bc1373ab1685ca3ada6b",
+      "crc32": "6da1001b",
+      "sha1": "6036c7fc5fc8e40cccb17a0ce6d1e0673f24466d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "statesman-2022-08-08T12:20:39.344713-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659979244",
+      "size": "1486",
+      "md5": "869e0eb70b9f498ebdb66070f91c106c",
+      "crc32": "c6e8907a",
+      "sha1": "b9b040096c2d7359a3db0051469660c4a312cd30",
+      "format": "JSON"
+    },
+    {
+      "name": "statesman-2022-08-08T12:20:39.344713-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "statesman-2022-08-08T12:20:39.344713-05:00.jpg",
+      "mtime": "1659979559",
+      "size": "9100",
+      "md5": "e4f709e1caad1800a1d807a2bb987a00",
+      "crc32": "7245a74c",
+      "sha1": "e4f96219b8d0b4523bdd42fe7782a68106d13e06"
+    },
+    {
       "name": "statesman-2022_archive.torrent",
       "source": "metadata",
-      "btih": "26582bfc73b6a55dd12f88543a37b72f596b972b",
-      "mtime": "1659936387",
-      "size": "46434",
-      "md5": "43cb829862738c432860c2ac9294eb99",
-      "crc32": "74ac9721",
-      "sha1": "07b817399a29f6031b669613442613c7f8e353d2",
+      "btih": "c65ae0b819084b1d9457eee24db36288093a90f7",
+      "mtime": "1659979665",
+      "size": "47498",
+      "md5": "6bbfbf27fe2d91a1e49b2300978053f5",
+      "crc32": "97827964",
+      "sha1": "01c8c855036b4d147278f6fd611f6ff8f26a0196",
       "format": "Archive BitTorrent"
     },
     {
       "name": "statesman-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "aaa7bf3acd440c84e7d6c81ae65e36ae",
+      "md5": "4580af9c1234f5958e408a7dd3182bc4",
       "summation": "md5"
     },
     {
       "name": "statesman-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659936336",
-      "size": "278528",
-      "md5": "ff9ec74856e0c43a4cc07372e5e48ac2",
-      "crc32": "a824ab3b",
-      "sha1": "aee709c109cfbd8016a5780ba43f315fe991a601",
+      "mtime": "1659979248",
+      "size": "286720",
+      "md5": "3ed9b075cdef7ade86807a3d92abfe82",
+      "crc32": "4ad4cf52",
+      "sha1": "c5eb18042de51f02712388a6e35b87df56f2db51",
       "format": "Metadata"
     },
     {
@@ -2262,9 +2314,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 217,
-  "item_last_updated": 1659936387,
-  "item_size": 14906007,
+  "files_count": 222,
+  "item_last_updated": 1659979665,
+  "item_size": 15290896,
   "metadata": {
     "identifier": "statesman-2022",
     "collection": [
@@ -2282,7 +2334,48 @@
     "addeddate": "2022-07-18 00:05:33"
   },
   "server": "ia902502.us.archive.org",
-  "uniq": 2078968135,
+  "statesman-2022": [
+    {
+      "url": "https://www.statesman.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_statesman_com-_-2022_08_08_16_32_41.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_statesman_com-_-2022_08_08_16_32_41.report.json",
+      "summary": {
+        "performance": 0.44,
+        "accessibility": 0.87,
+        "best-practices": 0.92,
+        "seo": 0.92,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.statesman.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_statesman_com-_-2022_08_08_16_33_52.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_statesman_com-_-2022_08_08_16_33_52.report.json",
+      "summary": {
+        "performance": 0.43,
+        "accessibility": 0.87,
+        "best-practices": 0.92,
+        "seo": 0.92,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://www.statesman.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_statesman_com-_-2022_08_08_16_31_42.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_statesman_com-_-2022_08_08_16_31_42.report.json",
+      "summary": {
+        "performance": 0.34,
+        "accessibility": 0.87,
+        "best-practices": 0.92,
+        "seo": 0.92,
+        "pwa": 0.3
+      }
+    }
+  ],
+  "uniq": 451959234,
   "workable_servers": [
     "ia902502.us.archive.org",
     "ia802502.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1659963060,
+  "created": 1660006666,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/28/items/poder360-2022",
@@ -202,31 +202,82 @@
       "sha1": "38fdccf43a2ef2f49e87073181e1e2f2ef362210"
     },
     {
+      "name": "poder360-2022-08-08T21:56:55.630821-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660006619",
+      "size": "38514",
+      "md5": "003fe62f3e30b551daf8c5653e947ef6",
+      "crc32": "7ffcd313",
+      "sha1": "b7deb9fdb6ba42ae28a40a184516f90a1c997fb7",
+      "format": "JSON"
+    },
+    {
+      "name": "poder360-2022-08-08T21:56:55.630821-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660006620",
+      "size": "34597",
+      "md5": "73b9c1b0a33ce6f1527d5f5ff479f49e",
+      "crc32": "29aeca4a",
+      "sha1": "a9ff8fc0b6cbf7055aac8b931e0dc1889c56f195",
+      "format": "JSON"
+    },
+    {
+      "name": "poder360-2022-08-08T21:56:55.630821-03:00.jpg",
+      "source": "original",
+      "mtime": "1660006617",
+      "size": "281852",
+      "md5": "59dd167ae08d78fe574f6c2db2cc1069",
+      "crc32": "bdab54a7",
+      "sha1": "33c2976507b886eef784fa8814944a985af39a44",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "poder360-2022-08-08T21:56:55.630821-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660006622",
+      "size": "1504",
+      "md5": "fce72c7f93cc648435cab2fcda06c03c",
+      "crc32": "00aee03d",
+      "sha1": "80c0d58975ca205b12f5061372fd41a5e0dcbe6e",
+      "format": "JSON"
+    },
+    {
+      "name": "poder360-2022-08-08T21:56:55.630821-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1660006623",
+      "size": "28532",
+      "md5": "bc59598f13a4d9047d7a8fcfae4a4f7c",
+      "crc32": "284d8af5",
+      "sha1": "976616076e9f7cc930f4f3d1318e9a7b8d503a6f",
+      "format": "JSON"
+    },
+    {
       "name": "poder360-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9093bed49a79caf2931ee9019a487f1edb0c9da1",
-      "mtime": "1659963033",
-      "size": "5407",
-      "md5": "6b7cb937bf7ba5a09407ac6c1927af33",
-      "crc32": "8b290a10",
-      "sha1": "2c10a1cebc368191773c421665751593661cf40c",
+      "btih": "eb13876082c8e4df846ddf2b4f836c3e5c4bce38",
+      "mtime": "1660006664",
+      "size": "6470",
+      "md5": "d86904b9141a2d3352c6e13d8fc43510",
+      "crc32": "a7a45c70",
+      "sha1": "7b02e2ecc37fde4ccb92b91fbfb519289619e902",
       "format": "Archive BitTorrent"
     },
     {
       "name": "poder360-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c6e51f7e11252cfe9f8964f99305dbe3",
+      "md5": "1b2bbb252f557cdd16ed71b1419e1815",
       "summation": "md5"
     },
     {
       "name": "poder360-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659962922",
-      "size": "40960",
-      "md5": "4037cf4f2bca359cdc416204ca8e5c17",
-      "crc32": "d4a1c63d",
-      "sha1": "377c3bce9d2e9072c1b0e1c9b18e4f24a585846b",
+      "mtime": "1660006629",
+      "size": "49152",
+      "md5": "5846185b9a5474db6b708e6871bb1f7d",
+      "crc32": "69e8ba6f",
+      "sha1": "34e27f8cfcb412ca5e5440cec7d19dea147c868e",
       "format": "Metadata"
     },
     {
@@ -240,9 +291,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 23,
-  "item_last_updated": 1659963033,
-  "item_size": 1249761,
+  "files_count": 28,
+  "item_last_updated": 1660006664,
+  "item_size": 1644015,
   "metadata": {
     "identifier": "poder360-2022",
     "collection": [
@@ -259,10 +310,21 @@
     "publicdate": "2022-08-07 19:43:59",
     "addeddate": "2022-08-07 19:43:59"
   },
+  "pending_tasks": true,
   "server": "ia601507.us.archive.org",
-  "uniq": 1994321757,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3357854782,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 105262929,
   "workable_servers": [
-    "ia601507.us.archive.org",
-    "ia801507.us.archive.org"
+    "ia601507.us.archive.org"
   ]
 }

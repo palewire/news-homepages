@@ -1,5 +1,5 @@
 {
-  "created": 1659957830,
+  "created": 1660005450,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/27/items/calmatters-2022",
@@ -1960,31 +1960,93 @@
       "sha1": "adcb95c70873423ca0b8066770ec2c4634b28111"
     },
     {
+      "name": "calmatters-2022-08-08T17:35:55.997412-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660005364",
+      "size": "50157",
+      "md5": "b2f6caba633b60115434319c450790a5",
+      "crc32": "59812254",
+      "sha1": "a4b9518fda83ee5b50099578e0b959eb14bf878b",
+      "format": "JSON"
+    },
+    {
+      "name": "calmatters-2022-08-08T17:35:55.997412-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660005365",
+      "size": "67478",
+      "md5": "06835d7054f87fe3521db18fff1480e5",
+      "crc32": "5ecf0bbc",
+      "sha1": "4a464555e37d592a23ff97893c297a4fb0292543",
+      "format": "JSON"
+    },
+    {
+      "name": "calmatters-2022-08-08T17:35:55.997412-07:00.jpg",
+      "source": "original",
+      "mtime": "1660005362",
+      "size": "285456",
+      "md5": "43f0445c7be7fd57edac35384e749c57",
+      "crc32": "f27e0969",
+      "sha1": "71c4b9d42f384e030e7fe67e7adeee130bc26234",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "calmatters-2022-08-08T17:35:55.997412-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660005367",
+      "size": "1450",
+      "md5": "2b05e53004d119a60b4d88a9bc04ac05",
+      "crc32": "c183f292",
+      "sha1": "0fbafd2179849b8365eb3b1ef01f2d5dd3cf5cde",
+      "format": "JSON"
+    },
+    {
+      "name": "calmatters-2022-08-08T17:35:55.997412-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660005368",
+      "size": "21266",
+      "md5": "e44d31a256cac887b354dc1a1764867a",
+      "crc32": "dbace8f3",
+      "sha1": "6b08781648c534e2722f8048803a82a0e5550629",
+      "format": "JSON"
+    },
+    {
+      "name": "calmatters-2022-08-08T17:35:55.997412-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "calmatters-2022-08-08T17:35:55.997412-07:00.jpg",
+      "mtime": "1660005427",
+      "size": "10401",
+      "md5": "0f9c0b54644213a83a84df83a4e012e2",
+      "crc32": "a6024d02",
+      "sha1": "267656446f5b3c1818ad2a2ac41e7af9f4e4f0c4"
+    },
+    {
       "name": "calmatters-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4c1a58ee670a8d2e98b9897bed84f35b082c859c",
-      "mtime": "1659957799",
-      "size": "41484",
-      "md5": "35da6734d5cac4302732d5f54f0f8f43",
-      "crc32": "eb05f9e7",
-      "sha1": "086052c95c77994b0cea1ebb49a945897155ff53",
+      "btih": "1c45c60958285778e04c81c05719bcbbfd8aa97c",
+      "mtime": "1660005433",
+      "size": "42764",
+      "md5": "5b30af6e02aa0ebec92a2b3b0fd5332c",
+      "crc32": "0456197f",
+      "sha1": "def724c27de2493a33680e11288deebbc3ed3d99",
       "format": "Archive BitTorrent"
     },
     {
       "name": "calmatters-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c8a3f879968ad160bd640218a0ead7d4",
+      "md5": "a9dca84c72305d88be8db599650bf3c3",
       "summation": "md5"
     },
     {
       "name": "calmatters-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659957725",
-      "size": "249856",
-      "md5": "4961050e422d851f731ba8bd386cb0ea",
-      "crc32": "ad3e82d2",
-      "sha1": "7cee89ecdd16ae295537702838e422366d6d96f1",
+      "mtime": "1660005373",
+      "size": "258048",
+      "md5": "6b360268b083fd0e11856021515b5d43",
+      "crc32": "04ea6be8",
+      "sha1": "2543a17fc7eab34187335c13b43120d67a33a0b0",
       "format": "Metadata"
     },
     {
@@ -1998,9 +2060,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 192,
-  "item_last_updated": 1659957799,
-  "item_size": 15592897,
+  "files_count": 198,
+  "item_last_updated": 1660005433,
+  "item_size": 16038577,
   "metadata": {
     "identifier": "calmatters-2022",
     "collection": [
@@ -2018,7 +2080,7 @@
     "addeddate": "2022-07-21 12:54:12"
   },
   "server": "ia802509.us.archive.org",
-  "uniq": 1530053293,
+  "uniq": 776262082,
   "workable_servers": [
     "ia802509.us.archive.org",
     "ia902509.us.archive.org"

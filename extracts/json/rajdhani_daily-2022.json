@@ -1,5 +1,6 @@
 {
-  "created": 1659963075,
+  "conflict": 1660006771,
+  "created": 1660006771,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/34/items/rajdhani_daily-2022",
@@ -1755,10 +1756,21 @@
     "publicdate": "2022-07-24 20:38:58",
     "addeddate": "2022-07-24 20:38:58"
   },
+  "pending_tasks": true,
   "server": "ia601408.us.archive.org",
-  "uniq": 1934216992,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3357856501,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1605415640,
   "workable_servers": [
-    "ia601408.us.archive.org",
-    "ia801408.us.archive.org"
+    "ia601408.us.archive.org"
   ]
 }

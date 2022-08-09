@@ -1,5 +1,6 @@
 {
-  "created": 1659962837,
+  "conflict": 1660006603,
+  "created": 1660006603,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/16/items/newschannelne-2022",
@@ -1064,31 +1065,93 @@
       "sha1": "db7b13109110417311488b96f914fdfb70fe679a"
     },
     {
+      "name": "newschannelne-2022-08-08T19:55:37.770272-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660006541",
+      "size": "22270",
+      "md5": "fbd1e47f718632d418357ce3ee117f40",
+      "crc32": "34decd24",
+      "sha1": "603269e60406baa5fbd7faf6956e31ad22073b34",
+      "format": "JSON"
+    },
+    {
+      "name": "newschannelne-2022-08-08T19:55:37.770272-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660006543",
+      "size": "21886",
+      "md5": "b7af9ff24b173c4aeccee0909e6d4059",
+      "crc32": "2d60993a",
+      "sha1": "6de6964cf4546cd9f02532f7ab19d34ee27c51ec",
+      "format": "JSON"
+    },
+    {
+      "name": "newschannelne-2022-08-08T19:55:37.770272-05:00.jpg",
+      "source": "original",
+      "mtime": "1660006539",
+      "size": "233731",
+      "md5": "a32179f5e0c734e265e833e4f5188871",
+      "crc32": "22749b4a",
+      "sha1": "ccf60fab404a7e28bbab1bbfb55985fd569732d8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newschannelne-2022-08-08T19:55:37.770272-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660006544",
+      "size": "1594",
+      "md5": "c3a6f2fa4c6086e7e5f80c8940b17874",
+      "crc32": "6176e2a2",
+      "sha1": "5e112b5590952f9af15f547dcada4f1fee4235d0",
+      "format": "JSON"
+    },
+    {
+      "name": "newschannelne-2022-08-08T19:55:37.770272-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660006546",
+      "size": "17168",
+      "md5": "11dd076395681bde1ec0cf0dc0193be5",
+      "crc32": "a967cb0b",
+      "sha1": "1a4ffe4da8363417d0ae6c6ebf429816c2d5682f",
+      "format": "JSON"
+    },
+    {
+      "name": "newschannelne-2022-08-08T19:55:37.770272-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newschannelne-2022-08-08T19:55:37.770272-05:00.jpg",
+      "mtime": "1660006596",
+      "size": "9432",
+      "md5": "4c3c34843a459e8d54efff1d5990c722",
+      "crc32": "891c4a2f",
+      "sha1": "7c270f4e82639e650c087cfa3ca6c0b741d9a688"
+    },
+    {
       "name": "newschannelne-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6856f57db33efc3983763e0fd0499fe38263524b",
-      "mtime": "1659962831",
-      "size": "23389",
-      "md5": "d54bf9c4d99b8acdd85f51179f1a5270",
-      "crc32": "9b1b76bb",
-      "sha1": "b760b4578f02607238a01b2383397ac2216eeec7",
+      "btih": "c4c05d6f56693e8227f3c81c3a0b561ca81872c5",
+      "mtime": "1660006601",
+      "size": "24686",
+      "md5": "9418c80214560ad93cdbcfd34fb98d8a",
+      "crc32": "44a884c3",
+      "sha1": "98f93317c9d476498321ffd5cf84465e76e08a01",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newschannelne-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d4b1a112168e3b186eeff69188646bcd",
+      "md5": "fe00706ab42437a5079e43995e0a78d1",
       "summation": "md5"
     },
     {
       "name": "newschannelne-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659962775",
-      "size": "151552",
-      "md5": "d6037248d699f8c5d924df2e5b70e090",
-      "crc32": "c6675327",
-      "sha1": "efcc419ca6de16dc0aea55576e204505e7323e85",
+      "mtime": "1660006550",
+      "size": "155648",
+      "md5": "acce9de82edd0199d11b902b52aa0cb5",
+      "crc32": "8c3bd856",
+      "sha1": "11fdf58525efb691c40bf6d8552f9226d0ea2507",
       "format": "Metadata"
     },
     {
@@ -1102,9 +1165,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 106,
-  "item_last_updated": 1659962831,
-  "item_size": 6134898,
+  "files_count": 112,
+  "item_last_updated": 1660006601,
+  "item_size": 6446372,
   "metadata": {
     "identifier": "newschannelne-2022",
     "collection": [
@@ -1121,10 +1184,21 @@
     "publicdate": "2022-07-30 19:35:12",
     "addeddate": "2022-07-30 19:35:12"
   },
-  "server": "ia801401.us.archive.org",
-  "uniq": 2085220327,
+  "pending_tasks": true,
+  "server": "ia601401.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3357853695,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 76223107,
   "workable_servers": [
-    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

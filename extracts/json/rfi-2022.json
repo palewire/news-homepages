@@ -1,5 +1,6 @@
 {
-  "created": 1659963144,
+  "conflict": 1660006752,
+  "created": 1660006752,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/10/items/rfi-2022",
@@ -5693,10 +5694,21 @@
     "publicdate": "2022-06-30 22:26:42",
     "addeddate": "2022-06-30 22:26:42"
   },
+  "pending_tasks": true,
   "server": "ia601506.us.archive.org",
-  "uniq": 817617299,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3357856106,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1599467067,
   "workable_servers": [
-    "ia601506.us.archive.org",
-    "ia801506.us.archive.org"
+    "ia601506.us.archive.org"
   ]
 }

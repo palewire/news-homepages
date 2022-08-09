@@ -1,7 +1,48 @@
 {
-  "created": 1659935184,
+  "created": 1660006143,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
+  "dainik_online-2022": [
+    {
+      "url": "https://www.dainikonline.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dainikonline_com-_-2022_08_08_15_10_10.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dainikonline_com-_-2022_08_08_15_10_10.report.json",
+      "summary": {
+        "performance": 0.67,
+        "accessibility": 0.92,
+        "best-practices": 0.83,
+        "seo": 0.85,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.dainikonline.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dainikonline_com-_-2022_08_08_15_10_23.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dainikonline_com-_-2022_08_08_15_10_23.report.json",
+      "summary": {
+        "performance": 0.68,
+        "accessibility": 0.92,
+        "best-practices": 0.83,
+        "seo": 0.85,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.dainikonline.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dainikonline_com-_-2022_08_08_15_09_57.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dainikonline_com-_-2022_08_08_15_09_57.report.json",
+      "summary": {
+        "performance": 0.62,
+        "accessibility": 0.92,
+        "best-practices": 0.83,
+        "seo": 0.85,
+        "pwa": 0.4
+      }
+    }
+  ],
   "dir": "/13/items/dainik_online-2022",
   "files": [
     {
@@ -1614,31 +1655,83 @@
       "sha1": "b6d9c2924f6689ba4297e5474fbe3f7acd1755d4"
     },
     {
+      "name": "dainik_online-2022-08-08T22:41:45.412443+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1659977809",
+      "size": "74370",
+      "md5": "024a259f79cefb6d5188b144945487c6",
+      "crc32": "a517b98b",
+      "sha1": "59eb5278db9d704fe46acacda7a3802be37dae97",
+      "format": "JSON"
+    },
+    {
+      "name": "dainik_online-2022-08-08T22:41:45.412443+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659977813",
+      "size": "55337",
+      "md5": "a39db4b4cc82dceffe5d707f502808f2",
+      "crc32": "5ed39c31",
+      "sha1": "b481dd47b5002afda0c8f74f6c99faf75f067da3",
+      "format": "JSON"
+    },
+    {
+      "name": "dainik_online-2022-08-08T22:41:45.412443+05:45.jpg",
+      "source": "original",
+      "mtime": "1659977808",
+      "size": "289565",
+      "md5": "336b98b895af833fc213199a9b9ecb23",
+      "crc32": "5431fc8c",
+      "sha1": "163bfa9208c49c322911bf64796bf7145241c0fa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dainik_online-2022-08-08T22:41:45.412443+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1659977815",
+      "size": "1513",
+      "md5": "c79aca329d259bf9cbcd0fa0436fa36c",
+      "crc32": "4e2ef3ae",
+      "sha1": "9b78736d15122a00eb1033778c2434eb04438420",
+      "format": "JSON"
+    },
+    {
+      "name": "dainik_online-2022-08-08T22:41:45.412443+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dainik_online-2022-08-08T22:41:45.412443+05:45.jpg",
+      "mtime": "1659977898",
+      "size": "10696",
+      "md5": "272dbe6c912d3ab1eb9225d94dff7afd",
+      "crc32": "3ec7aa51",
+      "sha1": "0001c7cd810dc394b9382dc46f5719365c784f7b"
+    },
+    {
       "name": "dainik_online-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b6e806a94d6c3fdb4973f3bd76d1c9c6dd99b9b3",
-      "mtime": "1659935177",
-      "size": "34919",
-      "md5": "7f86dbbbe2d32918ffc084a0dc186094",
-      "crc32": "ba964ab3",
-      "sha1": "e7a074b8c79894bcf0c6fb93daecc1e4a69d47b1",
+      "btih": "4927574da9cc7bfd56089a5031f83a6251eaf1b0",
+      "mtime": "1659977905",
+      "size": "36004",
+      "md5": "eeebd68ee9f004d444a7dab2f6beb8d6",
+      "crc32": "c6c68194",
+      "sha1": "bb0e7d3a58af29b8e70efec76c3fccde723ab5bc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dainik_online-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7a1d5c06c0512069b805f599d67ec001",
+      "md5": "c3d5ee8347f5aaae07dd2e6157853ce6",
       "summation": "md5"
     },
     {
       "name": "dainik_online-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659935124",
-      "size": "217088",
-      "md5": "f1614f8334131d981518331452d5b85f",
-      "crc32": "c0ad2c83",
-      "sha1": "1a7c990b4ac3dc16e91a22c137a8a382255d5e74",
+      "mtime": "1659977820",
+      "size": "221184",
+      "md5": "ddabcc1211b008cd7f2d931010d70cf3",
+      "crc32": "f8ba131a",
+      "sha1": "32f1da0e6ecf458fdb732676348828db8b1edf22",
       "format": "Metadata"
     },
     {
@@ -1652,9 +1745,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 159,
-  "item_last_updated": 1659935177,
-  "item_size": 11712699,
+  "files_count": 164,
+  "item_last_updated": 1659977905,
+  "item_size": 12149361,
   "metadata": {
     "identifier": "dainik_online-2022",
     "collection": [
@@ -1671,10 +1764,10 @@
     "publicdate": "2022-07-24 20:37:14",
     "addeddate": "2022-07-24 20:37:14"
   },
-  "server": "ia801401.us.archive.org",
-  "uniq": 1006800409,
+  "server": "ia601401.us.archive.org",
+  "uniq": 1215145737,
   "workable_servers": [
-    "ia801401.us.archive.org",
-    "ia601401.us.archive.org"
+    "ia601401.us.archive.org",
+    "ia801401.us.archive.org"
   ]
 }

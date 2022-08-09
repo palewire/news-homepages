@@ -1,10 +1,5 @@
 {
-  "created": 1659962452,
-  "ctvnews-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
+  "created": 1659968467,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/12/items/ctvnews-2022",
@@ -4119,31 +4114,83 @@
       "sha1": "a7e202859e8c1175879046e2c1b3c57d9a51ef79"
     },
     {
+      "name": "ctvnews-2022-08-08T10:19:37.101865-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659968380",
+      "size": "76949",
+      "md5": "b060653616ecba65b47016f68dc6e2d4",
+      "crc32": "9fe8e517",
+      "sha1": "77c3c691ce8c210b79aca1c9de32ca4d08e22536",
+      "format": "JSON"
+    },
+    {
+      "name": "ctvnews-2022-08-08T10:19:37.101865-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659968382",
+      "size": "92130",
+      "md5": "8f33c3f06359e6938dbc1c21fc704572",
+      "crc32": "e68243cb",
+      "sha1": "39df2345549c77187028d10bbeb77c11737d493c",
+      "format": "JSON"
+    },
+    {
+      "name": "ctvnews-2022-08-08T10:19:37.101865-04:00.jpg",
+      "source": "original",
+      "mtime": "1659968378",
+      "size": "326030",
+      "md5": "b83fbbb9b0cd72dcd93f3dfe0b6d779e",
+      "crc32": "6d1aca78",
+      "sha1": "fac199b81488d08365d0603be516f3a1878477e2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ctvnews-2022-08-08T10:19:37.101865-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659968384",
+      "size": "16464",
+      "md5": "28ad9b4dee36aebe308a6a084da822a0",
+      "crc32": "7c3fab23",
+      "sha1": "db6a4b532afa8f84a9eacc044f92d7add6e959b0",
+      "format": "JSON"
+    },
+    {
+      "name": "ctvnews-2022-08-08T10:19:37.101865-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ctvnews-2022-08-08T10:19:37.101865-04:00.jpg",
+      "mtime": "1659968434",
+      "size": "10029",
+      "md5": "095e799dfeee80092092ccb4e0ed32b6",
+      "crc32": "fe81434d",
+      "sha1": "876ca98dbbb31a6e47f6ad20723ecb6e6aae45c5"
+    },
+    {
       "name": "ctvnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "37a048c9913a8c25618919e5039818de603169d3",
-      "mtime": "1659926103",
-      "size": "83938",
-      "md5": "d841d9ce4e40c74914cbb8ba86d50b3f",
-      "crc32": "dd08d329",
-      "sha1": "e83de7ade8c8abb381ccf7da248483b6a121a3cf",
+      "btih": "2629efb803ee47b3b1bba032427c4314f960f83d",
+      "mtime": "1659968439",
+      "size": "84991",
+      "md5": "7e80cf43ed4cd4668b06f80791113c0c",
+      "crc32": "7f542735",
+      "sha1": "c4bc5feccff92708161bbbdb4a8b8f6d500ec772",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ctvnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2239631fe00eb8ff207ea570dd8aa6ce",
+      "md5": "3b6227d67c568e1364b858d7d2c34198",
       "summation": "md5"
     },
     {
       "name": "ctvnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659926036",
-      "size": "462848",
-      "md5": "3f92b3a4b0417250a03ea159bc318f14",
-      "crc32": "f876da3d",
-      "sha1": "b4c2daf1eebe548bfc9f7a7c5d22f2a431f2b712",
+      "mtime": "1659968388",
+      "size": "471040",
+      "md5": "fb1a4820e615112a276f94cd3707a320",
+      "crc32": "7a9ab049",
+      "sha1": "43ffc50a0bb7a53a3272df2b230dd66932176bdf",
       "format": "Metadata"
     },
     {
@@ -4157,9 +4204,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 395,
-  "item_last_updated": 1659926103,
-  "item_size": 49605456,
+  "files_count": 400,
+  "item_last_updated": 1659968439,
+  "item_size": 50136303,
   "metadata": {
     "identifier": "ctvnews-2022",
     "collection": [
@@ -4177,7 +4224,7 @@
     "addeddate": "2022-06-30 22:35:40"
   },
   "server": "ia802505.us.archive.org",
-  "uniq": 186076459,
+  "uniq": 47041384,
   "workable_servers": [
     "ia802505.us.archive.org",
     "ia902505.us.archive.org"

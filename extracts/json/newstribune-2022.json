@@ -1,6 +1,6 @@
 {
-  "conflict": 1659963015,
-  "created": 1659963015,
+  "conflict": 1660006600,
+  "created": 1660006600,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/13/items/newstribune-2022",
@@ -3351,34 +3351,90 @@
       "name": "newstribune-2022-08-08T07:48:25.426777-05:00_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "newstribune-2022-08-08T07:48:25.426777-05:00.jpg"
+      "original": "newstribune-2022-08-08T07:48:25.426777-05:00.jpg",
+      "mtime": "1659963011",
+      "size": "9406",
+      "md5": "71625be48737c1835f89497d1a3f02e9",
+      "crc32": "596ac5c5",
+      "sha1": "bf3f98995dcb2453525f58d36743dc8ec4130f94"
+    },
+    {
+      "name": "newstribune-2022-08-08T19:54:42.242091-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660006486",
+      "size": "23345",
+      "md5": "f6c0beaee5e0de5617f7fd30a9986561",
+      "crc32": "25a56d9d",
+      "sha1": "84d5b1b74ebce494bad0a43b701b21a2a29ab975",
+      "format": "JSON"
+    },
+    {
+      "name": "newstribune-2022-08-08T19:54:42.242091-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660006488",
+      "size": "13356",
+      "md5": "a46359d740528891e3992a775090dd9d",
+      "crc32": "9ef23efe",
+      "sha1": "f7a3ffb82d47b4ad3d5141531ccad595b0634a8f",
+      "format": "JSON"
+    },
+    {
+      "name": "newstribune-2022-08-08T19:54:42.242091-05:00.jpg",
+      "source": "original",
+      "mtime": "1660006485",
+      "size": "320602",
+      "md5": "fb2b1fa8fd09aafab6f27790f66ab492",
+      "crc32": "86c6c111",
+      "sha1": "963e2ced3e100e7c84bec1cf13f89ef431e01acb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newstribune-2022-08-08T19:54:42.242091-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660006489",
+      "size": "1495",
+      "md5": "d2bbc381a61b6064b03b9796652e0b46",
+      "crc32": "dc491bb1",
+      "sha1": "1db0654242f81874eeb7726966bc9c33d0627139",
+      "format": "JSON"
+    },
+    {
+      "name": "newstribune-2022-08-08T19:54:42.242091-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660006491",
+      "size": "34770",
+      "md5": "3e996f685931bbf899eb406b9e311ff6",
+      "crc32": "09d554f1",
+      "sha1": "e54965c86bd720c3b380b8d7726582d2a64c0169",
+      "format": "JSON"
     },
     {
       "name": "newstribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "882e528c89de4f00685bbddd95ee09fd9b512faa",
-      "mtime": "1659962956",
-      "size": "69761",
-      "md5": "609007fb51fe9484b89d191beab8b092",
-      "crc32": "5bdaff79",
-      "sha1": "7289855570a34c65084804db6433285853da4f69",
+      "btih": "91ea34f2071ad1dffeb558d07b626cfc41456f58",
+      "mtime": "1660006531",
+      "size": "71047",
+      "md5": "ab7128c92cc4b8210906289f60fd080b",
+      "crc32": "a142744f",
+      "sha1": "9177bbf7221e28110d743bc3fb6929a21b10577b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newstribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c38f589912e9788e49f59c2877255edd",
+      "md5": "4b614719ea68f0cdb1762077102a0c36",
       "summation": "md5"
     },
     {
       "name": "newstribune-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659962919",
-      "size": "401408",
-      "md5": "ff962ca82137b7542d0dff184ba845e0",
-      "crc32": "8d8a3918",
-      "sha1": "2d2df2b4146571cd41ccc593994334f17ca9c2ea",
+      "mtime": "1660006496",
+      "size": "409600",
+      "md5": "e820aca733e3f4fc9cfc50007d9345fc",
+      "crc32": "e01d84e7",
+      "sha1": "0a9ce781252dfa1db108f3b847f23b344b24eb14",
       "format": "Metadata"
     },
     {
@@ -3392,9 +3448,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 325,
-  "item_last_updated": 1659962956,
-  "item_size": 25588443,
+  "files_count": 330,
+  "item_last_updated": 1660006531,
+  "item_size": 26000895,
   "metadata": {
     "identifier": "newstribune-2022",
     "collection": [
@@ -3416,7 +3472,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3357231679,
+      "task_id": 3357852798,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 1,
@@ -3424,7 +3480,7 @@
       "status": "running"
     }
   ],
-  "uniq": 1042869827,
+  "uniq": 370988333,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]

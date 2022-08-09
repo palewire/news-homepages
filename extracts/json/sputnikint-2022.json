@@ -1,5 +1,6 @@
 {
-  "created": 1659963213,
+  "conflict": 1660006895,
+  "created": 1660006895,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/26/items/sputnikint-2022",
@@ -3675,10 +3676,21 @@
     "publicdate": "2022-07-16 20:31:44",
     "addeddate": "2022-07-16 20:31:44"
   },
+  "pending_tasks": true,
   "server": "ia601502.us.archive.org",
-  "uniq": 451929116,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3357858696,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 489504955,
   "workable_servers": [
-    "ia601502.us.archive.org",
-    "ia801502.us.archive.org"
+    "ia601502.us.archive.org"
   ]
 }

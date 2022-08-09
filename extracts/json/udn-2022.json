@@ -1,5 +1,5 @@
 {
-  "created": 1659963579,
+  "created": 1660007147,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/19/items/udn-2022",
@@ -700,31 +700,93 @@
       "sha1": "307713ae0b7adc4e1b75f0140a790bb5f4a1197a"
     },
     {
+      "name": "udn-2022-08-09T01:22:30.243131+08:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659979353",
+      "size": "90878",
+      "md5": "7a3d544a40f23fc3b918e4efb4813497",
+      "crc32": "4b1b2c02",
+      "sha1": "0dcf0c304491a52987059b30e8431eb19d40d11f",
+      "format": "JSON"
+    },
+    {
+      "name": "udn-2022-08-09T01:22:30.243131+08:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659979355",
+      "size": "121151",
+      "md5": "1dd4eacc35cbb8998f056bdfb6e54b25",
+      "crc32": "032228c7",
+      "sha1": "43b9a2e69d561949e44f012dadef7b62bc897392",
+      "format": "JSON"
+    },
+    {
+      "name": "udn-2022-08-09T01:22:30.243131+08:00.jpg",
+      "source": "original",
+      "mtime": "1659979352",
+      "size": "312596",
+      "md5": "d57470c706cde1ce2e460dabd9525336",
+      "crc32": "8ab1ebec",
+      "sha1": "757995e81db741ee822d8a068967cd89f457ddcb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "udn-2022-08-09T01:22:30.243131+08:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659979357",
+      "size": "1486",
+      "md5": "fbe6f5e91b409396f1955e6205382751",
+      "crc32": "e45cfd75",
+      "sha1": "e7975221358ca048b6ac0b15e61c144b7102fd52",
+      "format": "JSON"
+    },
+    {
+      "name": "udn-2022-08-09T01:22:30.243131+08:00.wayback.json",
+      "source": "original",
+      "mtime": "1659979365",
+      "size": "3079",
+      "md5": "0e4402a93f9f719e76caef53b34e247b",
+      "crc32": "92f94594",
+      "sha1": "61709f2a475b3e390230da908814785fe64c2dc2",
+      "format": "JSON"
+    },
+    {
+      "name": "udn-2022-08-09T01:22:30.243131+08:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "udn-2022-08-09T01:22:30.243131+08:00.jpg",
+      "mtime": "1659979418",
+      "size": "10172",
+      "md5": "386a9d04e3849da0b26bd81850cf0407",
+      "crc32": "33141ce2",
+      "sha1": "96febbfafa426ae14cedaf95018c250c45699806"
+    },
+    {
       "name": "udn-2022_archive.torrent",
       "source": "metadata",
-      "btih": "130e23e15bf967311ca000d5bc7b0b0d4d3c397b",
-      "mtime": "1659936577",
-      "size": "15242",
-      "md5": "b10ec192663426e02417788e70639c7c",
-      "crc32": "ba23c6ac",
-      "sha1": "e79e7e71eb77fdc7db7f0172c1055d98fc8e531a",
+      "btih": "c3461199dab0afff3c552add74809aeb2e6ee632",
+      "mtime": "1659979424",
+      "size": "16481",
+      "md5": "755fdf5ca26b37ba026a0ac656c3a7f4",
+      "crc32": "fc16c03a",
+      "sha1": "033dcf309736f7006887275de8adfa6efd9ffad6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "udn-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ca26fdd19e313e3f50f3166420afc8a7",
+      "md5": "fb3b4fbcc9a805fe4cd4b9ab73924826",
       "summation": "md5"
     },
     {
       "name": "udn-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659936530",
-      "size": "94208",
-      "md5": "8089b74f0128570f06919c981be57402",
-      "crc32": "cbee5d8a",
-      "sha1": "2d1a4b6f103ffce91a4c8a095acea869abd90a1f",
+      "mtime": "1659979369",
+      "size": "110592",
+      "md5": "446bb2491113f4fd9a9f76034c3bcc31",
+      "crc32": "0bee6948",
+      "sha1": "f42ef859cf7a501bcfa9b3588d158324615e268e",
       "format": "Metadata"
     },
     {
@@ -738,9 +800,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 71,
-  "item_last_updated": 1659936577,
-  "item_size": 7131811,
+  "files_count": 77,
+  "item_last_updated": 1659979424,
+  "item_size": 7688796,
   "metadata": {
     "identifier": "udn-2022",
     "collection": [
@@ -760,9 +822,57 @@
   "server": "ia601403.us.archive.org",
   "udn-2022": {
     "url": "https://udn.com/",
-    "job_id": "spn2-46874e258493b08e94a9ee46081f276a103dd0d2"
+    "job_id": "spn2-46874e258493b08e94a9ee46081f276a103dd0d2",
+    "status": "success",
+    "counters": {
+      "embeds": 394,
+      "outlinks": 70
+    },
+    "resources": [
+      "https://udn.com/",
+      "https://udn.com/news/index",
+      "https://unpkg.com/pure-md5@0.1.13/lib/index.js",
+      "https://s.udn.com.tw/static/font-icons/css/fontello.css?202208051543",
+      "https://s.udn.com.tw/static/font-icons/css/animation.css?202208051543",
+      "https://cdn.innity.net/zone.js",
+      "https://udn.com/static/css/index.css?202208051543",
+      "https://udn.com/static/js/vendor.bundle.js?202208051543",
+      "https://udn.com/static/css/google-dfp-native.css?202208051543",
+      "https://udn.com/static/js/index.bundle.js?202208051543",
+      "https://udn.com/static/js/google-dfp-native.js?202208051543",
+      "https://udn.com/static/js/vendor_head.bundle.js?202208051543",
+      "https://www.gstatic.com/firebasejs/7.14.0/firebase-app.js?2020041701",
+      "https://www.gstatic.com/firebasejs/7.14.0/firebase-messaging.js?2020041701",
+      "https://www.gstatic.com/firebasejs/7.14.0/firebase-performance.js?2020041701",
+      "https://udn.com/static/js/utils_head.bundle.js?202208051543",
+      "https://fonts.googleapis.com/css?family=Noto+Sans+TC:300,400,500&display=swap&subset=chinese-traditional",
+      "https://udn.com/static/fcm/fcm_init.js?2020041701",
+      "https://p.udn.com.tw/upf/static/common/prebid4.35.0_20210415.js",
+      "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+      "https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js",
+      "https://udn.com/static/img/logo.svg?2020020601",
+      "https://udn.com/static/img/logo_name.svg?2020020601",
+      "https://udn.com/upf/news/2021/orange-promotion-logo.gif",
+      "https://pgw.udn.com.tw/gw/photo.php?u=http://uc.udn.com.tw/photo/2022/08/04/realtime/18207553.jpg&s=Y&x=148&y=122&sw=981&sh=654&exp=3600&w=300&q=20",
+      "https://pgw.udn.com.tw/gw/photo.php?u=http://uc.udn.com.tw/photo/2022/08/05/0/18216407.jpg&s=Y&x=70&y=0&sw=828&sh=552&exp=3600&w=300&q=20",
+      "https://pgw.udn.com.tw/gw/photo.php?u=http://uc.udn.com.tw/photo/top_push/2022/08/05/729938.gif&w=300&q=20",
+      "https://pgw.udn.com.tw/gw/photo.php?u=http://uc.udn.com.tw/photo/topic/2022/08/03/18203530.jpg&s=Y&x=125&y=88&sh=708&sw=1062&exp=3600&w=300&q=20",
+      "https://pgw.udn.com.tw/gw/photo.php?u=http://uc.udn.com.tw/photo/topic/2022/07/28/18156304.jpg&exp=3600&w=300&q=20",
+      "https://static.criteo.net/js/ld/publishertag.js",
+      "https://sb.scorecardresearch.com/beacon.js",
+      "https://cdn.taboola.com/libtrc/udntw-udndesktop/loader.js",
+      "https://connect.facebook.net/en_US/fbevents.js",
+      "https://ds-aksb-a.akamaihd.net/aksb.min.js",
+      "https://s.udn.com.tw/static/font-icons/font/fontello.woff2?36700888",
+      "https://pgw.udn.com.tw/gw/photo.php?u=http://uc.udn.com.tw/photo/2022/08/08/realtime/18243599.jpg&s=Y&x=0&y=668&sw=812&sh=541&exp=3600&q=20"
+    ],
+    "http_status": 200,
+    "timestamp": "20220808154053",
+    "original_url": "https://udn.com/news/index",
+    "outlinks": [],
+    "duration_sec": 19.201
   },
-  "uniq": 915481002,
+  "uniq": 1261349628,
   "workable_servers": [
     "ia601403.us.archive.org",
     "ia801403.us.archive.org"

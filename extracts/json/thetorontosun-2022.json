@@ -1,5 +1,5 @@
 {
-  "created": 1659960961,
+  "created": 1660007101,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/33/items/thetorontosun-2022",
@@ -4386,31 +4386,93 @@
       "sha1": "9d449621a7ab37d95f2beaa5a58c770e4a0fc9b5"
     },
     {
+      "name": "thetorontosun-2022-08-08T13:22:26.283042-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1659979351",
+      "size": "80674",
+      "md5": "e3ca5b3de0c587d185d363f1dc7947f4",
+      "crc32": "00aedaf2",
+      "sha1": "df574c1cdb4c7482449e627b119d368c25ffe521",
+      "format": "JSON"
+    },
+    {
+      "name": "thetorontosun-2022-08-08T13:22:26.283042-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1659979353",
+      "size": "58330",
+      "md5": "a9f68358c8f53f9f27b1e8e5efa2896d",
+      "crc32": "8c18f659",
+      "sha1": "a2af02ef6b5b23b1abf131ca06e1e23afa0831e8",
+      "format": "JSON"
+    },
+    {
+      "name": "thetorontosun-2022-08-08T13:22:26.283042-04:00.jpg",
+      "source": "original",
+      "mtime": "1659979349",
+      "size": "354948",
+      "md5": "3bb61870540d9f6ce1a67037387064aa",
+      "crc32": "e9bcc37b",
+      "sha1": "5ff82e49db4b9e971e1373368a7e6dcc9184c61e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thetorontosun-2022-08-08T13:22:26.283042-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1659979355",
+      "size": "1459",
+      "md5": "e6f7afbd5e1ab397ff0e1569387ffbd0",
+      "crc32": "1e9f211d",
+      "sha1": "6eceedd4f7c031959227bf175371667c0e62c59c",
+      "format": "JSON"
+    },
+    {
+      "name": "thetorontosun-2022-08-08T13:22:26.283042-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1659979356",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thetorontosun-2022-08-08T13:22:26.283042-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thetorontosun-2022-08-08T13:22:26.283042-04:00.jpg",
+      "mtime": "1659979475",
+      "size": "11532",
+      "md5": "530825e019a1f0a1c2f9c532a6494136",
+      "crc32": "844ede4f",
+      "sha1": "6a415b60301bd6e95244bf1310601f2e263d7304"
+    },
+    {
       "name": "thetorontosun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b03f78137d3ab9b4eb9eb34761986f9462291a10",
-      "mtime": "1659936605",
-      "size": "92434",
-      "md5": "8aa1e285df72dec72cf15446b4430371",
-      "crc32": "c8732bfb",
-      "sha1": "ae07c11d3b3dec7d0c2226abaf99d17b9e74f1d9",
+      "btih": "df6341b2741bc0ee6c7aa8c4793404ae567e10e9",
+      "mtime": "1659979579",
+      "size": "93730",
+      "md5": "f049542f177454aebf4825f819e183bb",
+      "crc32": "b1b340b4",
+      "sha1": "369959a2b63209cc745b5eb1aae5f417935c575a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thetorontosun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "14754beb456ff61d296df55fa21c5597",
+      "md5": "0e1a9eb48fbaa5996123b77738c5a8e4",
       "summation": "md5"
     },
     {
       "name": "thetorontosun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659936535",
-      "size": "516096",
-      "md5": "e7ad3de62bc1d15120841f604a0ad93f",
-      "crc32": "8c9a380b",
-      "sha1": "b04a8ca9723eef2d97ec9a5449b081d2e0cea345",
+      "mtime": "1659979360",
+      "size": "524288",
+      "md5": "6a63532bd82feba7a6e032b02162df8a",
+      "crc32": "645270f1",
+      "sha1": "5e476f4c82d0384a7e6b6fb77d124e0d3ba7e586",
       "format": "Metadata"
     },
     {
@@ -4424,9 +4486,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 423,
-  "item_last_updated": 1659936605,
-  "item_size": 49276928,
+  "files_count": 429,
+  "item_last_updated": 1659979579,
+  "item_size": 49793561,
   "metadata": {
     "identifier": "thetorontosun-2022",
     "collection": [
@@ -4444,7 +4506,12 @@
     "addeddate": "2022-06-30 22:37:08"
   },
   "server": "ia601400.us.archive.org",
-  "uniq": 491995596,
+  "thetorontosun-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 454283498,
   "workable_servers": [
     "ia601400.us.archive.org",
     "ia801400.us.archive.org"
