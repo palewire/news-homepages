@@ -1,5 +1,5 @@
 {
-  "created": 1660006553,
+  "created": 1660093086,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/26/items/naya_patrika-2022",
@@ -1760,31 +1760,83 @@
       "sha1": "191b13f67441c99259557ed7e5f467afa974dde2"
     },
     {
+      "name": "naya_patrika-2022-08-09T18:42:23.534342+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1660049847",
+      "size": "67185",
+      "md5": "4cd4b2b0bff53786eeb0eb75eca7ec6f",
+      "crc32": "79d164fa",
+      "sha1": "42ed6d72d7fa175bca6490092239e285e5709a36",
+      "format": "JSON"
+    },
+    {
+      "name": "naya_patrika-2022-08-09T18:42:23.534342+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660049848",
+      "size": "75838",
+      "md5": "e510049f645bb9dae7861bbe8eac1158",
+      "crc32": "b628a933",
+      "sha1": "10edec9d7ef0f04d08af67690b923a42ce1c8e29",
+      "format": "JSON"
+    },
+    {
+      "name": "naya_patrika-2022-08-09T18:42:23.534342+05:45.jpg",
+      "source": "original",
+      "mtime": "1660049845",
+      "size": "230798",
+      "md5": "a5bc424c0cb554bde8937bbd5d792dd9",
+      "crc32": "72fe8f57",
+      "sha1": "2211fb326a4de2107f2f5fc2ef5f328971ee9585",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "naya_patrika-2022-08-09T18:42:23.534342+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1660049850",
+      "size": "1548",
+      "md5": "8e4e01dd4925ad6e59c4c11b911527c7",
+      "crc32": "605b41ea",
+      "sha1": "f4a4915db3c83a9ef50a7de564e6ab2a482c32aa",
+      "format": "JSON"
+    },
+    {
+      "name": "naya_patrika-2022-08-09T18:42:23.534342+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "naya_patrika-2022-08-09T18:42:23.534342+05:45.jpg",
+      "mtime": "1660049993",
+      "size": "9798",
+      "md5": "eaa45b163770017f5691b03bd7a06667",
+      "crc32": "ee48f2f9",
+      "sha1": "7fefb23e340442dec01ee883d584286c02e54206"
+    },
+    {
       "name": "naya_patrika-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6691b64b93e34b8f600de876a9fafc49eedadb97",
-      "mtime": "1660006520",
-      "size": "37708",
-      "md5": "01d75a03b13ace9b9b46348d69da4167",
-      "crc32": "556f5d46",
-      "sha1": "9a73eab1122b309d1f7605105c0307833763d087",
+      "btih": "95fd92882ede5d21cf5443f1ae82d81ee104ca7f",
+      "mtime": "1660049997",
+      "size": "38787",
+      "md5": "5f0a5b3977b68a9106d216f2b82f6ab6",
+      "crc32": "54647711",
+      "sha1": "12736095e6cbb3fb522603e1ce7f8f5105035793",
       "format": "Archive BitTorrent"
     },
     {
       "name": "naya_patrika-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b0dfbbe54b2700ae58c0a2fcedf00fa4",
+      "md5": "12396804c8cb760ef2073b7460c1dac6",
       "summation": "md5"
     },
     {
       "name": "naya_patrika-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660006402",
-      "size": "233472",
-      "md5": "e41d6903fd23e0b0fd07f1eda6870419",
-      "crc32": "7a5a0076",
-      "sha1": "f3401fec993a322cb27b5b339ab3625843e26763",
+      "mtime": "1660049855",
+      "size": "237568",
+      "md5": "3683350c64cf5934d29ce00b3cde27f3",
+      "crc32": "54edae5b",
+      "sha1": "1108112da82b567f906b7f836dc2f498fe35b9c7",
       "format": "Metadata"
     },
     {
@@ -1798,9 +1850,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 173,
-  "item_last_updated": 1660006520,
-  "item_size": 12427448,
+  "files_count": 178,
+  "item_last_updated": 1660049997,
+  "item_size": 12817790,
   "metadata": {
     "identifier": "naya_patrika-2022",
     "collection": [
@@ -1817,8 +1869,49 @@
     "publicdate": "2022-07-24 20:38:21",
     "addeddate": "2022-07-24 20:38:21"
   },
+  "naya_patrika-2022": [
+    {
+      "url": "https://www.nayapatrikadaily.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nayapatrikadaily_com-_-2022_08_09_12_22_58.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nayapatrikadaily_com-_-2022_08_09_12_22_58.report.json",
+      "summary": {
+        "performance": 0.4,
+        "accessibility": 0.76,
+        "best-practices": 0.75,
+        "seo": 0.75,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.nayapatrikadaily.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nayapatrikadaily_com-_-2022_08_09_12_23_43.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nayapatrikadaily_com-_-2022_08_09_12_23_43.report.json",
+      "summary": {
+        "performance": 0.58,
+        "accessibility": 0.76,
+        "best-practices": 0.75,
+        "seo": 0.75,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.nayapatrikadaily.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nayapatrikadaily_com-_-2022_08_09_12_23_21.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_nayapatrikadaily_com-_-2022_08_09_12_23_21.report.json",
+      "summary": {
+        "performance": 0.58,
+        "accessibility": 0.76,
+        "best-practices": 0.75,
+        "seo": 0.75,
+        "pwa": 0.4
+      }
+    }
+  ],
   "server": "ia801501.us.archive.org",
-  "uniq": 898673495,
+  "uniq": 1249844513,
   "workable_servers": [
     "ia801501.us.archive.org",
     "ia601501.us.archive.org"

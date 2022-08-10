@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 80 screenshots with the Internet Archive.
+The archiving routine has saved 82 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-08-09T13:58:38.368291-04:00.jpg">
+  <img src="https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-08-09T13:58:38.368291-04:00.jpg"
+     alt="Philadelphia Citizen at 2022-08-09 13:58:40-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-08-09T13:58:38.368291-04:00.jpg">August 9 at 1:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-08-09T01:11:19.446174-04:00.jpg">
+  <img src="https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-08-09T01:11:19.446174-04:00.jpg"
+     alt="Philadelphia Citizen at 2022-08-09 01:11:21-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-08-09T01:11:19.446174-04:00.jpg">August 9 at 1:11 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-08-08T13:22:26.309711-04:00.jpg">
   <img src="https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-08-08T13:22:26.309711-04:00.jpg"
      alt="Philadelphia Citizen at 2022-08-08 13:22:29-04:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-08-04T00:39:30.364700-04:00.jpg">August 4 at 12:39 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-08-03T13:14:42.572726-04:00.jpg">
-  <img src="https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-08-03T13:14:42.572726-04:00.jpg"
-     alt="Philadelphia Citizen at 2022-08-03 13:14:44-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-08-03T13:14:42.572726-04:00.jpg">August 3 at 1:14 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-08-03T00:46:34.526593-04:00.jpg">
-  <img src="https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-08-03T00:46:34.526593-04:00.jpg"
-     alt="Philadelphia Citizen at 2022-08-03 00:46:36-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-08-03T00:46:34.526593-04:00.jpg">August 3 at 12:46 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 80 hyperlink lists with the Internet Archive.
+The archiving routine has saved 82 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 9 at 1:58 PM](https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-08-09T13:58:38.368291-04:00.hyperlinks.json) |
+| [August 9 at 1:11 AM](https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-08-09T01:11:19.446174-04:00.hyperlinks.json) |
 | [August 8 at 1:22 PM](https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-08-08T13:22:26.309711-04:00.hyperlinks.json) |
 | [August 8 at 1:28 AM](https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-08-08T01:28:11.822056-04:00.hyperlinks.json) |
 | [August 7 at 1:08 PM](https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-08-07T13:08:42.795658-04:00.hyperlinks.json) |
@@ -322,13 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 6 at 1:06 AM](https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-08-06T01:06:40.714425-04:00.hyperlinks.json) |
 | [August 5 at 1:59 PM](https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-08-05T13:59:29.229373-04:00.hyperlinks.json) |
 | [August 5 at 12:45 AM](https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-08-05T00:45:11.962179-04:00.hyperlinks.json) |
-| [August 4 at 1:07 PM](https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-08-04T13:07:19.189083-04:00.hyperlinks.json) |
-| [August 4 at 12:39 AM](https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-08-04T00:39:30.364700-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 80 accessibility trees with the Internet Archive.
+The archiving routine has saved 82 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 9 at 1:58 PM](https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-08-09T13:58:38.368291-04:00.accessibility.json) |
+| [August 9 at 1:11 AM](https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-08-09T01:11:19.446174-04:00.accessibility.json) |
 | [August 8 at 1:22 PM](https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-08-08T13:22:26.309711-04:00.accessibility.json) |
 | [August 8 at 1:28 AM](https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-08-08T01:28:11.822056-04:00.accessibility.json) |
 | [August 7 at 1:08 PM](https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-08-07T13:08:42.795658-04:00.accessibility.json) |
@@ -427,14 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 6 at 1:06 AM](https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-08-06T01:06:40.714425-04:00.accessibility.json) |
 | [August 5 at 1:59 PM](https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-08-05T13:59:29.229373-04:00.accessibility.json) |
 | [August 5 at 12:45 AM](https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-08-05T00:45:11.962179-04:00.accessibility.json) |
-| [August 4 at 1:07 PM](https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-08-04T13:07:19.189083-04:00.accessibility.json) |
-| [August 4 at 12:39 AM](https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-08-04T00:39:30.364700-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 34 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 9 at 1:58 PM](https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-08-09T13:58:38.368291-04:00.lighthouse.json) |
+| [August 9 at 1:11 AM](https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-08-09T01:11:19.446174-04:00.lighthouse.json) |
 | [August 8 at 1:22 PM](https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-08-08T13:22:26.309711-04:00.lighthouse.json) |
 | [August 8 at 1:28 AM](https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-08-08T01:28:11.822056-04:00.lighthouse.json) |
 | [August 7 at 1:08 PM](https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-08-07T13:08:42.795658-04:00.lighthouse.json) |
@@ -533,8 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 6 at 1:06 AM](https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-08-06T01:06:40.714425-04:00.lighthouse.json) |
 | [August 5 at 1:59 PM](https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-08-05T13:59:29.229373-04:00.lighthouse.json) |
 | [August 5 at 12:45 AM](https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-08-05T00:45:11.962179-04:00.lighthouse.json) |
-| [August 4 at 1:07 PM](https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-08-04T13:07:19.189083-04:00.lighthouse.json) |
-| [August 4 at 12:39 AM](https://archive.org/download/thephilacitizen-2022/thephilacitizen-2022-08-04T00:39:30.364700-04:00.lighthouse.json) |
 
 
 

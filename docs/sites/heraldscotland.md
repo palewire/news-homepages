@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 68 screenshots with the Internet Archive.
+The archiving routine has saved 70 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/heraldscotland-2022/heraldscotland-2022-08-09T18:25:58.620601+01:00.jpg">
+  <img src="https://archive.org/download/heraldscotland-2022/heraldscotland-2022-08-09T18:25:58.620601+01:00.jpg"
+     alt="Daily Herald at 2022-08-09 18:26:00+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/heraldscotland-2022/heraldscotland-2022-08-09T18:25:58.620601+01:00.jpg">August 9 at 6:26 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/heraldscotland-2022/heraldscotland-2022-08-09T04:46:52.139201+01:00.jpg">
+  <img src="https://archive.org/download/heraldscotland-2022/heraldscotland-2022-08-09T04:46:52.139201+01:00.jpg"
+     alt="Daily Herald at 2022-08-09 04:46:54+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/heraldscotland-2022/heraldscotland-2022-08-09T04:46:52.139201+01:00.jpg">August 9 at 4:46 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/heraldscotland-2022/heraldscotland-2022-08-08T18:03:03.473356+01:00.jpg">
   <img src="https://archive.org/download/heraldscotland-2022/heraldscotland-2022-08-08T18:03:03.473356+01:00.jpg"
      alt="Daily Herald at 2022-08-08 18:03:08+01:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/heraldscotland-2022/heraldscotland-2022-08-04T04:22:31.733828+01:00.jpg">August 4 at 4:22 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/heraldscotland-2022/heraldscotland-2022-08-03T17:57:22.163140+01:00.jpg">
-  <img src="https://archive.org/download/heraldscotland-2022/heraldscotland-2022-08-03T17:57:22.163140+01:00.jpg"
-     alt="Daily Herald at 2022-08-03 17:57:28+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/heraldscotland-2022/heraldscotland-2022-08-03T17:57:22.163140+01:00.jpg">August 3 at 5:57 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/heraldscotland-2022/heraldscotland-2022-08-03T05:30:37.905232+01:00.jpg">
-  <img src="https://archive.org/download/heraldscotland-2022/heraldscotland-2022-08-03T05:30:37.905232+01:00.jpg"
-     alt="Daily Herald at 2022-08-03 05:30:40+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/heraldscotland-2022/heraldscotland-2022-08-03T05:30:37.905232+01:00.jpg">August 3 at 5:30 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 59 hyperlink lists with the Internet Archive.
+The archiving routine has saved 61 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 9 at 6:26 PM](https://archive.org/download/heraldscotland-2022/heraldscotland-2022-08-09T18:25:58.620601+01:00.hyperlinks.json) |
+| [August 9 at 4:47 AM](https://archive.org/download/heraldscotland-2022/heraldscotland-2022-08-09T04:46:52.139201+01:00.hyperlinks.json) |
 | [August 8 at 6:03 PM](https://archive.org/download/heraldscotland-2022/heraldscotland-2022-08-08T18:03:03.473356+01:00.hyperlinks.json) |
 | [August 8 at 6:09 AM](https://archive.org/download/heraldscotland-2022/heraldscotland-2022-08-08T06:09:20.444623+01:00.hyperlinks.json) |
 | [August 7 at 5:50 PM](https://archive.org/download/heraldscotland-2022/heraldscotland-2022-08-07T17:50:25.208553+01:00.hyperlinks.json) |
@@ -322,13 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 6 at 5:50 AM](https://archive.org/download/heraldscotland-2022/heraldscotland-2022-08-06T05:50:11.612632+01:00.hyperlinks.json) |
 | [August 5 at 4:18 AM](https://archive.org/download/heraldscotland-2022/heraldscotland-2022-08-05T04:18:38.224301+01:00.hyperlinks.json) |
 | [August 4 at 4:23 PM](https://archive.org/download/heraldscotland-2022/heraldscotland-2022-08-04T16:23:30.598852+01:00.hyperlinks.json) |
-| [August 3 at 5:57 PM](https://archive.org/download/heraldscotland-2022/heraldscotland-2022-08-03T17:57:22.163140+01:00.hyperlinks.json) |
-| [August 3 at 5:30 AM](https://archive.org/download/heraldscotland-2022/heraldscotland-2022-08-03T05:30:37.905232+01:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 62 accessibility trees with the Internet Archive.
+The archiving routine has saved 64 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 9 at 6:26 PM](https://archive.org/download/heraldscotland-2022/heraldscotland-2022-08-09T18:25:58.620601+01:00.accessibility.json) |
+| [August 9 at 4:46 AM](https://archive.org/download/heraldscotland-2022/heraldscotland-2022-08-09T04:46:52.139201+01:00.accessibility.json) |
 | [August 8 at 6:03 PM](https://archive.org/download/heraldscotland-2022/heraldscotland-2022-08-08T18:03:03.473356+01:00.accessibility.json) |
 | [August 8 at 6:09 AM](https://archive.org/download/heraldscotland-2022/heraldscotland-2022-08-08T06:09:20.444623+01:00.accessibility.json) |
 | [August 7 at 5:50 PM](https://archive.org/download/heraldscotland-2022/heraldscotland-2022-08-07T17:50:25.208553+01:00.accessibility.json) |
@@ -427,14 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 6 at 5:50 AM](https://archive.org/download/heraldscotland-2022/heraldscotland-2022-08-06T05:50:11.612632+01:00.accessibility.json) |
 | [August 5 at 4:18 AM](https://archive.org/download/heraldscotland-2022/heraldscotland-2022-08-05T04:18:38.224301+01:00.accessibility.json) |
 | [August 3 at 5:57 PM](https://archive.org/download/heraldscotland-2022/heraldscotland-2022-08-03T17:57:22.163140+01:00.accessibility.json) |
-| [August 3 at 5:30 AM](https://archive.org/download/heraldscotland-2022/heraldscotland-2022-08-03T05:30:37.905232+01:00.accessibility.json) |
-| [August 2 at 3:55 PM](https://archive.org/download/heraldscotland-2022/heraldscotland-2022-08-02T15:55:03.492314+01:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 34 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 9 at 6:26 PM](https://archive.org/download/heraldscotland-2022/heraldscotland-2022-08-09T18:25:58.620601+01:00.lighthouse.json) |
+| [August 9 at 4:47 AM](https://archive.org/download/heraldscotland-2022/heraldscotland-2022-08-09T04:46:52.139201+01:00.lighthouse.json) |
 | [August 8 at 6:03 PM](https://archive.org/download/heraldscotland-2022/heraldscotland-2022-08-08T18:03:03.473356+01:00.lighthouse.json) |
 | [August 8 at 6:09 AM](https://archive.org/download/heraldscotland-2022/heraldscotland-2022-08-08T06:09:20.444623+01:00.lighthouse.json) |
 | [August 7 at 5:50 PM](https://archive.org/download/heraldscotland-2022/heraldscotland-2022-08-07T17:50:25.208553+01:00.lighthouse.json) |
@@ -533,8 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 6 at 5:50 AM](https://archive.org/download/heraldscotland-2022/heraldscotland-2022-08-06T05:50:11.612632+01:00.lighthouse.json) |
 | [August 5 at 6:24 PM](https://archive.org/download/heraldscotland-2022/heraldscotland-2022-08-05T18:23:59.611475+01:00.lighthouse.json) |
 | [August 5 at 4:18 AM](https://archive.org/download/heraldscotland-2022/heraldscotland-2022-08-05T04:18:38.224301+01:00.lighthouse.json) |
-| [August 4 at 4:23 PM](https://archive.org/download/heraldscotland-2022/heraldscotland-2022-08-04T16:23:30.598852+01:00.lighthouse.json) |
-| [August 4 at 4:22 AM](https://archive.org/download/heraldscotland-2022/heraldscotland-2022-08-04T04:22:31.733828+01:00.lighthouse.json) |
 
 
 

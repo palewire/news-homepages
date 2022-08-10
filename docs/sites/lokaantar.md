@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 31 screenshots with the Internet Archive.
+The archiving routine has saved 32 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 31 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-09T18:40:37.914507+05:45.jpg">
+  <img src="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-09T18:40:37.914507+05:45.jpg"
+     alt="Lokantar at 2022-08-09 18:40:39+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-09T18:40:37.914507+05:45.jpg">August 9 at 6:40 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-09T06:36:52.475280+05:45.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-04T06:25:45.207934+05:45.jpg">August 4 at 6:25 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-03T18:34:47.013965+05:45.jpg">
-  <img src="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-03T18:34:47.013965+05:45.jpg"
-     alt="Lokantar at 2022-08-03 18:34:50+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-03T18:34:47.013965+05:45.jpg">August 3 at 6:34 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 32 hyperlink lists with the Internet Archive.
+The archiving routine has saved 33 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 9 at 6:40 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-09T18:40:37.914507+05:45.hyperlinks.json) |
 | [August 9 at 6:36 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-09T06:36:52.475280+05:45.hyperlinks.json) |
 | [August 8 at 6:28 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-08T18:28:09.773753+05:45.hyperlinks.json) |
 | [August 8 at 6:45 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-08T06:45:50.226964+05:45.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 6 at 7:50 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-06T07:50:01.325417+05:45.hyperlinks.json) |
 | [August 5 at 6:23 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-05T18:23:49.164481+05:45.hyperlinks.json) |
 | [August 5 at 7:28 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-05T07:28:14.563814+05:45.hyperlinks.json) |
-| [August 4 at 6:21 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-04T18:20:55.480533+05:45.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 32 accessibility trees with the Internet Archive.
+The archiving routine has saved 33 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 9 at 6:40 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-09T18:40:37.914507+05:45.accessibility.json) |
 | [August 9 at 6:36 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-09T06:36:52.475280+05:45.accessibility.json) |
 | [August 8 at 6:28 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-08T18:28:09.773753+05:45.accessibility.json) |
 | [August 8 at 6:45 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-08T06:45:50.226964+05:45.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 6 at 7:50 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-06T07:50:01.325417+05:45.accessibility.json) |
 | [August 5 at 6:23 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-05T18:23:49.164481+05:45.accessibility.json) |
 | [August 5 at 7:28 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-05T07:28:14.563814+05:45.accessibility.json) |
-| [August 4 at 6:20 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-04T18:20:55.480533+05:45.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 33 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 9 at 6:40 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-09T18:40:37.914507+05:45.lighthouse.json) |
 | [August 9 at 6:37 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-09T06:36:52.475280+05:45.lighthouse.json) |
 | [August 8 at 6:28 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-08T18:28:09.773753+05:45.lighthouse.json) |
 | [August 8 at 6:45 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-08T06:45:50.226964+05:45.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 6 at 7:50 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-06T07:50:01.325417+05:45.lighthouse.json) |
 | [August 5 at 6:23 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-05T18:23:49.164481+05:45.lighthouse.json) |
 | [August 5 at 7:28 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-05T07:28:14.563814+05:45.lighthouse.json) |
-| [August 4 at 6:21 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-04T18:20:55.480533+05:45.lighthouse.json) |
 
 
 

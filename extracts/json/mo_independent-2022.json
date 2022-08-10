@@ -1,5 +1,6 @@
 {
-  "created": 1660006461,
+  "conflict": 1660093021,
+  "created": 1660093021,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/3/items/mo_independent-2022",
@@ -3450,31 +3451,93 @@
       "sha1": "4ad0530e0cf24cf0bfb966ef5c5db2550e6eb8bf"
     },
     {
+      "name": "mo_independent-2022-08-09T07:57:20.094159-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660049843",
+      "size": "16248",
+      "md5": "e6ea328e65d525c9a6b280a36548c80e",
+      "crc32": "b7c47405",
+      "sha1": "c610202cf449745316548557d9436405ca618375",
+      "format": "JSON"
+    },
+    {
+      "name": "mo_independent-2022-08-09T07:57:20.094159-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660049844",
+      "size": "13961",
+      "md5": "c7d1fe31cc373cae7618ae496cddc0e2",
+      "crc32": "014a6714",
+      "sha1": "abe91d9dbdd67baabbf0c8b8ebfa3c141536bb8b",
+      "format": "JSON"
+    },
+    {
+      "name": "mo_independent-2022-08-09T07:57:20.094159-05:00.jpg",
+      "source": "original",
+      "mtime": "1660049841",
+      "size": "320965",
+      "md5": "3e7dfc4b665f997a1a88fe495453ad10",
+      "crc32": "c1449322",
+      "sha1": "a40e6181f82d442c81b51b0105afc060051ff50b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mo_independent-2022-08-09T07:57:20.094159-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660049845",
+      "size": "1540",
+      "md5": "618f1beef2adcfb495c580405f1cdadd",
+      "crc32": "9059e104",
+      "sha1": "8abffd947f114e3d6d838cd4d35366d9bf30f492",
+      "format": "JSON"
+    },
+    {
+      "name": "mo_independent-2022-08-09T07:57:20.094159-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660049847",
+      "size": "10438",
+      "md5": "19f02469add05f1ada3ad849761fdf1e",
+      "crc32": "e7f30ae2",
+      "sha1": "b8b773e531311b3ae0c15ae4b5c6b6a756e850e7",
+      "format": "JSON"
+    },
+    {
+      "name": "mo_independent-2022-08-09T07:57:20.094159-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mo_independent-2022-08-09T07:57:20.094159-05:00.jpg",
+      "mtime": "1660050102",
+      "size": "10525",
+      "md5": "b5000396663cde94d868ecbab8994c00",
+      "crc32": "e156ab19",
+      "sha1": "30428b116b4cfa272571cb8edad086e6cf33af0f"
+    },
+    {
       "name": "mo_independent-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4dbc30ad1a7e3d6c320c52028df5290bae65c30b",
-      "mtime": "1660006431",
-      "size": "73004",
-      "md5": "7ded59519ca98d46825eb8592a671baf",
-      "crc32": "7d722b87",
-      "sha1": "ed32aea1f910f43f72f5f0d372926f193ad3153c",
+      "btih": "1b2e0d3f5fc80bb885885c9cb09215eb1f11d43d",
+      "mtime": "1660050109",
+      "size": "74308",
+      "md5": "aa41e01eff618f9fe662161b766d8f9b",
+      "crc32": "be8e1fb1",
+      "sha1": "caf6f82c0b706e5428a9019ad7bfcda38b49bda7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mo_independent-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2438e2b63594bce6da4592149526399e",
+      "md5": "c127b2d57cdcfb9aece4d0b7f6fdc4cf",
       "summation": "md5"
     },
     {
       "name": "mo_independent-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660006364",
-      "size": "417792",
-      "md5": "707dce62f72abaf0247d513b718e4a59",
-      "crc32": "daae2bc0",
-      "sha1": "160fc15cc91200cbdcdb16ea765f0e89fd8cf74c",
+      "mtime": "1660049852",
+      "size": "425984",
+      "md5": "f6aa3c793a14f55d90f99573dfb203a4",
+      "crc32": "9a0cc4eb",
+      "sha1": "6e36c898ba81aab228682994dbf493db6e035747",
       "format": "Metadata"
     },
     {
@@ -3488,9 +3551,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 334,
-  "item_last_updated": 1660006431,
-  "item_size": 26576811,
+  "files_count": 340,
+  "item_last_updated": 1660050109,
+  "item_size": 26959984,
   "metadata": {
     "identifier": "mo_independent-2022",
     "collection": [
@@ -3507,10 +3570,21 @@
     "publicdate": "2022-07-04 21:56:43",
     "addeddate": "2022-07-04 21:56:43"
   },
-  "server": "ia801405.us.archive.org",
-  "uniq": 486439748,
+  "pending_tasks": true,
+  "server": "ia601405.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3359262183,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 354971290,
   "workable_servers": [
-    "ia801405.us.archive.org",
     "ia601405.us.archive.org"
   ]
 }

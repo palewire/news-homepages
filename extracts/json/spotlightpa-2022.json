@@ -1,6 +1,5 @@
 {
-  "conflict": 1660006870,
-  "created": 1660006870,
+  "created": 1660093389,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/26/items/spotlightpa-2022",
@@ -3063,31 +3062,155 @@
       "sha1": "2f76121d87de35c30490819b6c71c45e1cc84fe2"
     },
     {
+      "name": "spotlightpa-2022-08-08T21:01:04.149017-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660006870",
+      "size": "33297",
+      "md5": "1fe3c8929974a791e7e542006bd6ad4b",
+      "crc32": "65277da0",
+      "sha1": "3b02b7fe1455e29ff5eb4ac4e2903a9d63744bbc",
+      "format": "JSON"
+    },
+    {
+      "name": "spotlightpa-2022-08-08T21:01:04.149017-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660006873",
+      "size": "25999",
+      "md5": "866405c91b83550c4f7012f3f0c5e338",
+      "crc32": "faa74910",
+      "sha1": "93d80887536a690bb8c8ed0df7835910c0931f7d",
+      "format": "JSON"
+    },
+    {
+      "name": "spotlightpa-2022-08-08T21:01:04.149017-04:00.jpg",
+      "source": "original",
+      "mtime": "1660006867",
+      "size": "264383",
+      "md5": "a5adc346da9a10ce13e9cbaf5b5e58ef",
+      "crc32": "025d749b",
+      "sha1": "17f646336bfeb7dfa4746cff4c872c4b4fbf0e57",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "spotlightpa-2022-08-08T21:01:04.149017-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660006874",
+      "size": "1495",
+      "md5": "bacae4b102a62831958f1bd153037aab",
+      "crc32": "579efb5a",
+      "sha1": "1ef80694c7a2e64c50876017446f85d9a87569cb",
+      "format": "JSON"
+    },
+    {
+      "name": "spotlightpa-2022-08-08T21:01:04.149017-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660006876",
+      "size": "13331",
+      "md5": "b408123805774201bb1d05707316ae85",
+      "crc32": "5cd4f411",
+      "sha1": "be15dfaeef0195b7ec542007fce856e8de844100",
+      "format": "JSON"
+    },
+    {
+      "name": "spotlightpa-2022-08-08T21:01:04.149017-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "spotlightpa-2022-08-08T21:01:04.149017-04:00.jpg",
+      "mtime": "1660006933",
+      "size": "9659",
+      "md5": "ebb4f363d826bb8927f2c3eb4e435113",
+      "crc32": "75b20e47",
+      "sha1": "58c333e44b4840fbe9b48d0149919000df93dcd1"
+    },
+    {
+      "name": "spotlightpa-2022-08-09T09:06:04.166324-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660050370",
+      "size": "33266",
+      "md5": "4504a3aca10d730f0cf00c9d8823efa2",
+      "crc32": "fc372170",
+      "sha1": "96fe6727b23f002f2dadcc069e0672bd6c550865",
+      "format": "JSON"
+    },
+    {
+      "name": "spotlightpa-2022-08-09T09:06:04.166324-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660050372",
+      "size": "26926",
+      "md5": "c51f0231e8c2fd7389f5a03295c8b126",
+      "crc32": "5a2e76ef",
+      "sha1": "977a49c654cc99f55e3f8ad53eb321e2b875768e",
+      "format": "JSON"
+    },
+    {
+      "name": "spotlightpa-2022-08-09T09:06:04.166324-04:00.jpg",
+      "source": "original",
+      "mtime": "1660050368",
+      "size": "264079",
+      "md5": "ca18b06bb9fd92eb09224eaa932760ea",
+      "crc32": "5418a7ce",
+      "sha1": "bd07dcafa4cf9b4929dd8c06ede6dedded0d5758",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "spotlightpa-2022-08-09T09:06:04.166324-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660050374",
+      "size": "1495",
+      "md5": "e4a03faa7b8e4d3115f464765589a309",
+      "crc32": "f11ddb22",
+      "sha1": "a67c05f5f18bac02d8d97b59d3c4f10834a6e787",
+      "format": "JSON"
+    },
+    {
+      "name": "spotlightpa-2022-08-09T09:06:04.166324-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660050375",
+      "size": "104",
+      "md5": "a33ae2faced10a2609977c6bbb3108ef",
+      "crc32": "cd741e4d",
+      "sha1": "b9f85d21c1ecea3faa11b472450ea86bd12dd5d8",
+      "format": "JSON"
+    },
+    {
+      "name": "spotlightpa-2022-08-09T09:06:04.166324-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "spotlightpa-2022-08-09T09:06:04.166324-04:00.jpg",
+      "mtime": "1660050605",
+      "size": "9657",
+      "md5": "eb895c978744212b50ef26c346b8da49",
+      "crc32": "66817078",
+      "sha1": "7c04e42ebf506f1da8f2b41032e4ede822c2151d"
+    },
+    {
       "name": "spotlightpa-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1f4e553063b057e193ccb3a72d0f146b3d3b5436",
-      "mtime": "1659963170",
-      "size": "63987",
-      "md5": "d6379de8b9d921b54e98dbc64ca0b2f3",
-      "crc32": "7b730c96",
-      "sha1": "45839dfe2e7c036a589974b01435b46225180204",
+      "btih": "f66603d10b13e7b75304a1fba77378f0a46ef497",
+      "mtime": "1660050611",
+      "size": "66535",
+      "md5": "c607e5dc7051a6d581971850760417d3",
+      "crc32": "0f4a14e8",
+      "sha1": "9c13b468ec13360f393b8638f90c9a632eba9141",
       "format": "Archive BitTorrent"
     },
     {
       "name": "spotlightpa-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4c6119b71818fda2f7a6c2fa94c8b044",
+      "md5": "582d0e961b1865932dfcaec272ca3546",
       "summation": "md5"
     },
     {
       "name": "spotlightpa-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1659963123",
-      "size": "372736",
-      "md5": "41e7e6ee8b056d46e82554b3807bbc38",
-      "crc32": "b4c6fa95",
-      "sha1": "aafb2ada5bb5ccfc2b094cbce6240662b0ce60a7",
+      "mtime": "1660050379",
+      "size": "385024",
+      "md5": "e7188c4d329323b48073b755a6a35da5",
+      "crc32": "9e34e3dc",
+      "sha1": "1370891b6fac46eaa8501e63cf6341d11a7c29bc",
       "format": "Metadata"
     },
     {
@@ -3101,9 +3224,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 297,
-  "item_last_updated": 1659963170,
-  "item_size": 22135182,
+  "files_count": 309,
+  "item_last_updated": 1660050611,
+  "item_size": 22833709,
   "metadata": {
     "identifier": "spotlightpa-2022",
     "collection": [
@@ -3120,21 +3243,14 @@
     "publicdate": "2022-07-09 04:04:28",
     "addeddate": "2022-07-09 04:04:28"
   },
-  "pending_tasks": true,
   "server": "ia601503.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3357858131,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1507213430,
+  "spotlightpa-2022": {
+    "url": "https://www.spotlightpa.org/",
+    "job_id": "spn2-e58067582c99b65b900e7097641710b9ebe2eee1"
+  },
+  "uniq": 1386453308,
   "workable_servers": [
-    "ia601503.us.archive.org"
+    "ia601503.us.archive.org",
+    "ia801503.us.archive.org"
   ]
 }

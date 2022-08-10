@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 25 screenshots with the Internet Archive.
+The archiving routine has saved 27 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-08-09T23:20:17.584994+05:30.jpg">
+  <img src="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-08-09T23:20:17.584994+05:30.jpg"
+     alt="Punjab Kesari at 2022-08-09 23:20:19+05:30 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-08-09T23:20:17.584994+05:30.jpg">August 9 at 11:20 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-08-09T10:35:06.167981+05:30.jpg">
+  <img src="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-08-09T10:35:06.167981+05:30.jpg"
+     alt="Punjab Kesari at 2022-08-09 10:35:07+05:30 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-08-09T10:35:06.167981+05:30.jpg">August 9 at 10:35 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-08-08T22:45:57.954483+05:30.jpg">
@@ -118,29 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-08-04T10:04:36.281702+05:30.jpg">August 4 at 10:04 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-08-03T22:39:14.967193+05:30.jpg">
-  <img src="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-08-03T22:39:14.967193+05:30.jpg"
-     alt="Punjab Kesari at 2022-08-03 22:39:17+05:30 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-08-03T22:39:14.967193+05:30.jpg">August 3 at 10:39 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-08-03T10:11:28.350130+05:30.jpg">
-  <img src="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-08-03T10:11:28.350130+05:30.jpg"
-     alt="Punjab Kesari at 2022-08-03 10:11:29+05:30 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/punjabkesari-2022/punjabkesari-2022-08-03T10:11:28.350130+05:30.jpg">August 3 at 10:11 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 24 hyperlink lists with the Internet Archive.
+The archiving routine has saved 25 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 9 at 10:35 AM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-08-09T10:35:06.167981+05:30.hyperlinks.json) |
 | [August 8 at 10:46 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-08-08T22:45:57.954483+05:30.hyperlinks.json) |
 | [August 8 at 10:50 AM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-08-08T10:50:53.997453+05:30.hyperlinks.json) |
 | [August 7 at 10:32 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-08-07T22:32:48.078931+05:30.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 5 at 11:23 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-08-05T23:23:07.175944+05:30.hyperlinks.json) |
 | [August 5 at 10:09 AM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-08-05T10:09:48.450967+05:30.hyperlinks.json) |
 | [August 4 at 10:30 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-08-04T22:30:23.548593+05:30.hyperlinks.json) |
-| [August 4 at 10:04 AM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-08-04T10:04:36.281702+05:30.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 25 accessibility trees with the Internet Archive.
+The archiving routine has saved 27 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 9 at 11:20 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-08-09T23:20:17.584994+05:30.accessibility.json) |
+| [August 9 at 10:35 AM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-08-09T10:35:06.167981+05:30.accessibility.json) |
 | [August 8 at 10:46 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-08-08T22:45:57.954483+05:30.accessibility.json) |
 | [August 8 at 10:50 AM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-08-08T10:50:53.997453+05:30.accessibility.json) |
 | [August 7 at 10:32 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-08-07T22:32:48.078931+05:30.accessibility.json) |
@@ -178,14 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [August 6 at 10:31 AM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-08-06T10:31:02.415171+05:30.accessibility.json) |
 | [August 5 at 11:23 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-08-05T23:23:07.175944+05:30.accessibility.json) |
 | [August 5 at 10:09 AM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-08-05T10:09:48.450967+05:30.accessibility.json) |
-| [August 4 at 10:30 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-08-04T22:30:23.548593+05:30.accessibility.json) |
-| [August 4 at 10:04 AM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-08-04T10:04:36.281702+05:30.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 25 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 9 at 11:20 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-08-09T23:20:17.584994+05:30.lighthouse.json) |
+| [August 9 at 10:35 AM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-08-09T10:35:06.167981+05:30.lighthouse.json) |
 | [August 8 at 10:46 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-08-08T22:45:57.954483+05:30.lighthouse.json) |
 | [August 8 at 10:51 AM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-08-08T10:50:53.997453+05:30.lighthouse.json) |
 | [August 7 at 10:32 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-08-07T22:32:48.078931+05:30.lighthouse.json) |
@@ -201,8 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 6 at 10:31 AM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-08-06T10:31:02.415171+05:30.lighthouse.json) |
 | [August 5 at 11:23 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-08-05T23:23:07.175944+05:30.lighthouse.json) |
 | [August 5 at 10:09 AM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-08-05T10:09:48.450967+05:30.lighthouse.json) |
-| [August 4 at 10:30 PM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-08-04T22:30:23.548593+05:30.lighthouse.json) |
-| [August 4 at 10:04 AM](https://archive.org/download/punjabkesari-2022/punjabkesari-2022-08-04T10:04:36.281702+05:30.lighthouse.json) |
 
 
 

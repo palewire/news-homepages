@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 73 screenshots with the Internet Archive.
+The archiving routine has saved 75 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/deadspin-2022/deadspin-2022-08-09T19:27:26.361290-04:00.jpg">
+  <img src="https://archive.org/download/deadspin-2022/deadspin-2022-08-09T19:27:26.361290-04:00.jpg"
+     alt="Deadspin at 2022-08-09 19:27:28-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/deadspin-2022/deadspin-2022-08-09T19:27:26.361290-04:00.jpg">August 9 at 7:27 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/deadspin-2022/deadspin-2022-08-09T08:43:45.105461-04:00.jpg">
+  <img src="https://archive.org/download/deadspin-2022/deadspin-2022-08-09T08:43:45.105461-04:00.jpg"
+     alt="Deadspin at 2022-08-09 08:43:53-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/deadspin-2022/deadspin-2022-08-09T08:43:45.105461-04:00.jpg">August 9 at 8:43 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/deadspin-2022/deadspin-2022-08-08T20:39:12.107241-04:00.jpg">
   <img src="https://archive.org/download/deadspin-2022/deadspin-2022-08-08T20:39:12.107241-04:00.jpg"
      alt="Deadspin at 2022-08-08 20:39:16-04:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/deadspin-2022/deadspin-2022-08-04T07:14:21.751326-04:00.jpg">August 4 at 7:14 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/deadspin-2022/deadspin-2022-08-03T19:23:08.120707-04:00.jpg">
-  <img src="https://archive.org/download/deadspin-2022/deadspin-2022-08-03T19:23:08.120707-04:00.jpg"
-     alt="Deadspin at 2022-08-03 19:23:09-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/deadspin-2022/deadspin-2022-08-03T19:23:08.120707-04:00.jpg">August 3 at 7:23 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/deadspin-2022/deadspin-2022-08-03T08:40:17.236554-04:00.jpg">
-  <img src="https://archive.org/download/deadspin-2022/deadspin-2022-08-03T08:40:17.236554-04:00.jpg"
-     alt="Deadspin at 2022-08-03 08:40:25-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/deadspin-2022/deadspin-2022-08-03T08:40:17.236554-04:00.jpg">August 3 at 8:40 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 51 hyperlink lists with the Internet Archive.
+The archiving routine has saved 53 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 9 at 7:27 PM](https://archive.org/download/deadspin-2022/deadspin-2022-08-09T19:27:26.361290-04:00.hyperlinks.json) |
+| [August 9 at 8:43 AM](https://archive.org/download/deadspin-2022/deadspin-2022-08-09T08:43:45.105461-04:00.hyperlinks.json) |
 | [August 8 at 8:39 PM](https://archive.org/download/deadspin-2022/deadspin-2022-08-08T20:39:12.107241-04:00.hyperlinks.json) |
 | [August 8 at 7:24 AM](https://archive.org/download/deadspin-2022/deadspin-2022-08-08T07:24:38.767336-04:00.hyperlinks.json) |
 | [August 7 at 8:47 PM](https://archive.org/download/deadspin-2022/deadspin-2022-08-07T20:47:45.465870-04:00.hyperlinks.json) |
@@ -322,13 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 4 at 7:14 AM](https://archive.org/download/deadspin-2022/deadspin-2022-08-04T07:14:21.751326-04:00.hyperlinks.json) |
 | [August 3 at 7:23 PM](https://archive.org/download/deadspin-2022/deadspin-2022-08-03T19:23:08.120707-04:00.hyperlinks.json) |
 | [August 3 at 8:40 AM](https://archive.org/download/deadspin-2022/deadspin-2022-08-03T08:40:17.236554-04:00.hyperlinks.json) |
-| [August 2 at 7:22 PM](https://archive.org/download/deadspin-2022/deadspin-2022-08-02T19:22:45.719061-04:00.hyperlinks.json) |
-| [July 31 at 8:12 PM](https://archive.org/download/deadspin-2022/deadspin-2022-07-31T20:12:16.337619-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 72 accessibility trees with the Internet Archive.
+The archiving routine has saved 74 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 9 at 7:27 PM](https://archive.org/download/deadspin-2022/deadspin-2022-08-09T19:27:26.361290-04:00.accessibility.json) |
+| [August 9 at 8:43 AM](https://archive.org/download/deadspin-2022/deadspin-2022-08-09T08:43:45.105461-04:00.accessibility.json) |
 | [August 8 at 8:39 PM](https://archive.org/download/deadspin-2022/deadspin-2022-08-08T20:39:12.107241-04:00.accessibility.json) |
 | [August 8 at 7:24 AM](https://archive.org/download/deadspin-2022/deadspin-2022-08-08T07:24:38.767336-04:00.accessibility.json) |
 | [August 7 at 8:47 PM](https://archive.org/download/deadspin-2022/deadspin-2022-08-07T20:47:45.465870-04:00.accessibility.json) |
@@ -427,14 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 6 at 8:20 AM](https://archive.org/download/deadspin-2022/deadspin-2022-08-06T08:20:14.904475-04:00.accessibility.json) |
 | [August 5 at 7:32 PM](https://archive.org/download/deadspin-2022/deadspin-2022-08-05T19:32:22.705445-04:00.accessibility.json) |
 | [August 5 at 8:27 AM](https://archive.org/download/deadspin-2022/deadspin-2022-08-05T08:27:39.624516-04:00.accessibility.json) |
-| [August 4 at 7:34 PM](https://archive.org/download/deadspin-2022/deadspin-2022-08-04T19:34:19.739282-04:00.accessibility.json) |
-| [August 4 at 7:14 AM](https://archive.org/download/deadspin-2022/deadspin-2022-08-04T07:14:21.751326-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 33 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 35 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 9 at 7:27 PM](https://archive.org/download/deadspin-2022/deadspin-2022-08-09T19:27:26.361290-04:00.lighthouse.json) |
+| [August 9 at 8:43 AM](https://archive.org/download/deadspin-2022/deadspin-2022-08-09T08:43:45.105461-04:00.lighthouse.json) |
 | [August 8 at 8:39 PM](https://archive.org/download/deadspin-2022/deadspin-2022-08-08T20:39:12.107241-04:00.lighthouse.json) |
 | [August 8 at 7:24 AM](https://archive.org/download/deadspin-2022/deadspin-2022-08-08T07:24:38.767336-04:00.lighthouse.json) |
 | [August 7 at 8:47 PM](https://archive.org/download/deadspin-2022/deadspin-2022-08-07T20:47:45.465870-04:00.lighthouse.json) |
@@ -533,8 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 6 at 8:20 AM](https://archive.org/download/deadspin-2022/deadspin-2022-08-06T08:20:14.904475-04:00.lighthouse.json) |
 | [August 5 at 7:32 PM](https://archive.org/download/deadspin-2022/deadspin-2022-08-05T19:32:22.705445-04:00.lighthouse.json) |
 | [August 5 at 8:27 AM](https://archive.org/download/deadspin-2022/deadspin-2022-08-05T08:27:39.624516-04:00.lighthouse.json) |
-| [August 4 at 7:34 PM](https://archive.org/download/deadspin-2022/deadspin-2022-08-04T19:34:19.739282-04:00.lighthouse.json) |
-| [August 4 at 7:14 AM](https://archive.org/download/deadspin-2022/deadspin-2022-08-04T07:14:21.751326-04:00.lighthouse.json) |
 
 
 
