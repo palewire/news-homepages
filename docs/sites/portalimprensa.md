@@ -68,7 +68,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 4 hyperlink lists with the Internet Archive.
+The archiving routine has saved 5 hyperlink lists with the Internet Archive.
 
 
 
@@ -76,6 +76,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 9 at 2:49 PM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-09T14:49:13.228959-03:00.hyperlinks.json) |
 | [August 9 at 2:04 AM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-09T02:04:26.517795-03:00.hyperlinks.json) |
 | [August 8 at 2:14 PM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-08T14:14:45.834260-03:00.hyperlinks.json) |
 | [August 8 at 2:21 AM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-08T02:21:53.001059-03:00.hyperlinks.json) |
@@ -84,7 +85,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 4 accessibility trees with the Internet Archive.
+The archiving routine has saved 5 accessibility trees with the Internet Archive.
 
 
 
@@ -92,6 +93,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 9 at 2:49 PM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-09T14:49:13.228959-03:00.accessibility.json) |
 | [August 9 at 2:04 AM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-09T02:04:26.517795-03:00.accessibility.json) |
 | [August 8 at 2:14 PM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-08T14:14:45.834260-03:00.accessibility.json) |
 | [August 8 at 2:21 AM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-08T02:21:53.001059-03:00.accessibility.json) |
@@ -101,7 +103,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 4 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 5 Lighthouse audits with the Internet Archive.
 
 
 
@@ -109,6 +111,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 9 at 2:49 PM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-09T14:49:13.228959-03:00.lighthouse.json) |
 | [August 9 at 2:04 AM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-09T02:04:26.517795-03:00.lighthouse.json) |
 | [August 8 at 2:14 PM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-08T14:14:45.834260-03:00.lighthouse.json) |
 | [August 8 at 2:21 AM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-08T02:21:53.001059-03:00.lighthouse.json) |

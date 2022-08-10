@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 64 screenshots with the Internet Archive.
+The archiving routine has saved 65 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 64 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-09T18:24:33.261721-05:00.jpg">
+  <img src="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-09T18:24:33.261721-05:00.jpg"
+     alt="Capitol News Illinois at 2022-08-09 18:24:35-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-09T18:24:33.261721-05:00.jpg">August 9 at 6:24 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-09T07:40:25.829952-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-04T06:11:29.132384-05:00.jpg">August 4 at 6:11 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-03T18:20:47.059164-05:00.jpg">
-  <img src="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-03T18:20:47.059164-05:00.jpg"
-     alt="Capitol News Illinois at 2022-08-03 18:20:50-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-03T18:20:47.059164-05:00.jpg">August 3 at 6:20 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 64 hyperlink lists with the Internet Archive.
+The archiving routine has saved 65 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 9 at 6:24 PM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-09T18:24:33.261721-05:00.hyperlinks.json) |
 | [August 9 at 7:40 AM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-09T07:40:25.829952-05:00.hyperlinks.json) |
 | [August 8 at 7:35 PM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-08T19:35:28.600742-05:00.hyperlinks.json) |
 | [August 8 at 6:21 AM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-08T06:21:20.296217-05:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 6 at 7:17 AM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-06T07:17:36.439212-05:00.hyperlinks.json) |
 | [August 5 at 6:29 PM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-05T18:29:41.834436-05:00.hyperlinks.json) |
 | [August 5 at 7:24 AM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-05T07:24:19.559501-05:00.hyperlinks.json) |
-| [August 4 at 6:32 PM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-04T18:32:33.959910-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 64 accessibility trees with the Internet Archive.
+The archiving routine has saved 65 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 9 at 6:24 PM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-09T18:24:33.261721-05:00.accessibility.json) |
 | [August 9 at 7:40 AM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-09T07:40:25.829952-05:00.accessibility.json) |
 | [August 8 at 7:35 PM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-08T19:35:28.600742-05:00.accessibility.json) |
 | [August 8 at 6:21 AM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-08T06:21:20.296217-05:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 6 at 7:17 AM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-06T07:17:36.439212-05:00.accessibility.json) |
 | [August 5 at 6:29 PM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-05T18:29:41.834436-05:00.accessibility.json) |
 | [August 5 at 7:24 AM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-05T07:24:19.559501-05:00.accessibility.json) |
-| [August 4 at 6:32 PM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-04T18:32:33.959910-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 34 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 35 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 9 at 6:24 PM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-09T18:24:33.261721-05:00.lighthouse.json) |
 | [August 9 at 7:40 AM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-09T07:40:25.829952-05:00.lighthouse.json) |
 | [August 8 at 7:35 PM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-08T19:35:28.600742-05:00.lighthouse.json) |
 | [August 8 at 6:21 AM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-08T06:21:20.296217-05:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 6 at 7:17 AM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-06T07:17:36.439212-05:00.lighthouse.json) |
 | [August 5 at 6:29 PM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-05T18:29:41.834436-05:00.lighthouse.json) |
 | [August 5 at 7:24 AM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-05T07:24:19.559501-05:00.lighthouse.json) |
-| [August 4 at 6:32 PM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-04T18:32:33.959910-05:00.lighthouse.json) |
 
 
 

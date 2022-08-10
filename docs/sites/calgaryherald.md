@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 101 screenshots with the Internet Archive.
+The archiving routine has saved 102 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 101 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/calgaryherald-2022/calgaryherald-2022-08-09T08:35:44.149572-06:00.jpg">
+  <img src="https://archive.org/download/calgaryherald-2022/calgaryherald-2022-08-09T08:35:44.149572-06:00.jpg"
+     alt="Calgary Herald at 2022-08-09 08:35:50-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/calgaryherald-2022/calgaryherald-2022-08-09T08:35:44.149572-06:00.jpg">August 9 at 8:35 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/calgaryherald-2022/calgaryherald-2022-08-08T20:21:13.563761-06:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/calgaryherald-2022/calgaryherald-2022-08-04T07:51:47.284200-06:00.jpg">August 4 at 7:51 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/calgaryherald-2022/calgaryherald-2022-08-03T21:05:44.219481-06:00.jpg">
-  <img src="https://archive.org/download/calgaryherald-2022/calgaryherald-2022-08-03T21:05:44.219481-06:00.jpg"
-     alt="Calgary Herald at 2022-08-03 21:05:46-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/calgaryherald-2022/calgaryherald-2022-08-03T21:05:44.219481-06:00.jpg">August 3 at 9:05 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 100 hyperlink lists with the Internet Archive.
+The archiving routine has saved 101 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 9 at 8:35 AM](https://archive.org/download/calgaryherald-2022/calgaryherald-2022-08-09T08:35:44.149572-06:00.hyperlinks.json) |
 | [August 8 at 8:21 PM](https://archive.org/download/calgaryherald-2022/calgaryherald-2022-08-08T20:21:13.563761-06:00.hyperlinks.json) |
 | [August 8 at 8:16 AM](https://archive.org/download/calgaryherald-2022/calgaryherald-2022-08-08T08:16:22.717199-06:00.hyperlinks.json) |
 | [August 7 at 8:30 PM](https://archive.org/download/calgaryherald-2022/calgaryherald-2022-08-07T20:30:00.688159-06:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 5 at 8:19 PM](https://archive.org/download/calgaryherald-2022/calgaryherald-2022-08-05T20:18:56.460020-06:00.hyperlinks.json) |
 | [August 5 at 11:44 AM](https://archive.org/download/calgaryherald-2022/calgaryherald-2022-08-05T11:44:34.905891-06:00.hyperlinks.json) |
 | [August 5 at 8:07 AM](https://archive.org/download/calgaryherald-2022/calgaryherald-2022-08-05T08:06:56.152200-06:00.hyperlinks.json) |
-| [August 4 at 7:55 PM](https://archive.org/download/calgaryherald-2022/calgaryherald-2022-08-04T19:55:00.828489-06:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 99 accessibility trees with the Internet Archive.
+The archiving routine has saved 100 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 9 at 8:35 AM](https://archive.org/download/calgaryherald-2022/calgaryherald-2022-08-09T08:35:44.149572-06:00.accessibility.json) |
 | [August 8 at 8:21 PM](https://archive.org/download/calgaryherald-2022/calgaryherald-2022-08-08T20:21:13.563761-06:00.accessibility.json) |
 | [August 8 at 8:16 AM](https://archive.org/download/calgaryherald-2022/calgaryherald-2022-08-08T08:16:22.717199-06:00.accessibility.json) |
 | [August 7 at 8:30 PM](https://archive.org/download/calgaryherald-2022/calgaryherald-2022-08-07T20:30:00.688159-06:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 5 at 8:19 PM](https://archive.org/download/calgaryherald-2022/calgaryherald-2022-08-05T20:18:56.460020-06:00.accessibility.json) |
 | [August 5 at 11:44 AM](https://archive.org/download/calgaryherald-2022/calgaryherald-2022-08-05T11:44:34.905891-06:00.accessibility.json) |
 | [August 5 at 8:06 AM](https://archive.org/download/calgaryherald-2022/calgaryherald-2022-08-05T08:06:56.152200-06:00.accessibility.json) |
-| [August 4 at 7:55 PM](https://archive.org/download/calgaryherald-2022/calgaryherald-2022-08-04T19:55:00.828489-06:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 35 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 36 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 9 at 8:35 AM](https://archive.org/download/calgaryherald-2022/calgaryherald-2022-08-09T08:35:44.149572-06:00.lighthouse.json) |
 | [August 8 at 8:21 PM](https://archive.org/download/calgaryherald-2022/calgaryherald-2022-08-08T20:21:13.563761-06:00.lighthouse.json) |
 | [August 8 at 8:16 AM](https://archive.org/download/calgaryherald-2022/calgaryherald-2022-08-08T08:16:22.717199-06:00.lighthouse.json) |
 | [August 7 at 8:30 PM](https://archive.org/download/calgaryherald-2022/calgaryherald-2022-08-07T20:30:00.688159-06:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 5 at 8:19 PM](https://archive.org/download/calgaryherald-2022/calgaryherald-2022-08-05T20:18:56.460020-06:00.lighthouse.json) |
 | [August 5 at 11:44 AM](https://archive.org/download/calgaryherald-2022/calgaryherald-2022-08-05T11:44:34.905891-06:00.lighthouse.json) |
 | [August 5 at 8:07 AM](https://archive.org/download/calgaryherald-2022/calgaryherald-2022-08-05T08:06:56.152200-06:00.lighthouse.json) |
-| [August 4 at 7:55 PM](https://archive.org/download/calgaryherald-2022/calgaryherald-2022-08-04T19:55:00.828489-06:00.lighthouse.json) |
 
 
 

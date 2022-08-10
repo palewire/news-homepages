@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 106 screenshots with the Internet Archive.
+The archiving routine has saved 107 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 106 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-08-09T11:49:11.370659-06:00.jpg">
+  <img src="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-08-09T11:49:11.370659-06:00.jpg"
+     alt="Prensa Grafica at 2022-08-09 11:49:17-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-08-09T11:49:11.370659-06:00.jpg">August 9 at 11:49 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-08-08T23:04:14.067348-06:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-08-03T22:33:36.146615-06:00.jpg">August 3 at 10:33 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-08-03T11:08:09.770249-06:00.jpg">
-  <img src="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-08-03T11:08:09.770249-06:00.jpg"
-     alt="Prensa Grafica at 2022-08-03 11:08:13-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/prensagrafica-2022/prensagrafica-2022-08-03T11:08:09.770249-06:00.jpg">August 3 at 11:08 AM</a></p>
 </div>
 
 </div>
@@ -328,7 +328,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 105 accessibility trees with the Internet Archive.
+The archiving routine has saved 106 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 9 at 11:49 AM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-08-09T11:49:11.370659-06:00.accessibility.json) |
 | [August 8 at 11:04 PM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-08-08T23:04:14.067348-06:00.accessibility.json) |
 | [August 8 at 11:14 AM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-08-08T11:14:45.392245-06:00.accessibility.json) |
 | [August 7 at 11:21 PM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-08-07T23:21:12.200449-06:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 5 at 11:01 PM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-08-05T23:01:15.032589-06:00.accessibility.json) |
 | [August 5 at 11:52 AM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-08-05T11:52:06.786363-06:00.accessibility.json) |
 | [August 4 at 10:39 PM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-08-04T22:39:54.754215-06:00.accessibility.json) |
-| [August 4 at 10:59 AM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-08-04T10:59:44.257201-06:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 33 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 34 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 9 at 11:49 AM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-08-09T11:49:11.370659-06:00.lighthouse.json) |
 | [August 8 at 11:04 PM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-08-08T23:04:14.067348-06:00.lighthouse.json) |
 | [August 8 at 11:14 AM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-08-08T11:14:45.392245-06:00.lighthouse.json) |
 | [August 7 at 11:21 PM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-08-07T23:21:12.200449-06:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 5 at 11:01 PM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-08-05T23:01:15.032589-06:00.lighthouse.json) |
 | [August 5 at 11:52 AM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-08-05T11:52:06.786363-06:00.lighthouse.json) |
 | [August 4 at 10:39 PM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-08-04T22:39:54.754215-06:00.lighthouse.json) |
-| [August 4 at 10:59 AM](https://archive.org/download/prensagrafica-2022/prensagrafica-2022-08-04T10:59:44.257201-06:00.lighthouse.json) |
 
 
 

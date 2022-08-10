@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 225 screenshots with the Internet Archive.
+The archiving routine has saved 226 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 225 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/presscitizen-2022/presscitizen-2022-08-09T12:50:26.105660-05:00.jpg">
+  <img src="https://archive.org/download/presscitizen-2022/presscitizen-2022-08-09T12:50:26.105660-05:00.jpg"
+     alt="Iowa City Press-Citizen at 2022-08-09 12:50:27-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/presscitizen-2022/presscitizen-2022-08-09T12:50:26.105660-05:00.jpg">August 9 at 12:50 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/presscitizen-2022/presscitizen-2022-08-09T00:04:43.219617-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/presscitizen-2022/presscitizen-2022-08-04T23:38:44.864895-05:00.jpg">August 4 at 11:38 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/presscitizen-2022/presscitizen-2022-08-04T12:00:05.886946-05:00.jpg">
-  <img src="https://archive.org/download/presscitizen-2022/presscitizen-2022-08-04T12:00:05.886946-05:00.jpg"
-     alt="Iowa City Press-Citizen at 2022-08-04 12:00:07-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/presscitizen-2022/presscitizen-2022-08-04T12:00:05.886946-05:00.jpg">August 4 at 12:00 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 217 hyperlink lists with the Internet Archive.
+The archiving routine has saved 218 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 9 at 12:50 PM](https://archive.org/download/presscitizen-2022/presscitizen-2022-08-09T12:50:26.105660-05:00.hyperlinks.json) |
 | [August 9 at 12:04 AM](https://archive.org/download/presscitizen-2022/presscitizen-2022-08-09T00:04:43.219617-05:00.hyperlinks.json) |
 | [August 8 at 12:46 PM](https://archive.org/download/presscitizen-2022/presscitizen-2022-08-08T12:46:47.668569-05:00.hyperlinks.json) |
 | [August 8 at 12:15 PM](https://archive.org/download/presscitizen-2022/presscitizen-2022-08-08T12:15:27.977636-05:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 6 at 11:23 AM](https://archive.org/download/presscitizen-2022/presscitizen-2022-08-06T11:23:08.162034-05:00.hyperlinks.json) |
 | [August 6 at 12:00 AM](https://archive.org/download/presscitizen-2022/presscitizen-2022-08-06T00:00:28.140130-05:00.hyperlinks.json) |
 | [August 5 at 1:06 PM](https://archive.org/download/presscitizen-2022/presscitizen-2022-08-05T13:06:38.053093-05:00.hyperlinks.json) |
-| [August 5 at 12:52 PM](https://archive.org/download/presscitizen-2022/presscitizen-2022-08-05T12:52:12.835215-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 217 accessibility trees with the Internet Archive.
+The archiving routine has saved 218 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 9 at 12:50 PM](https://archive.org/download/presscitizen-2022/presscitizen-2022-08-09T12:50:26.105660-05:00.accessibility.json) |
 | [August 9 at 12:04 AM](https://archive.org/download/presscitizen-2022/presscitizen-2022-08-09T00:04:43.219617-05:00.accessibility.json) |
 | [August 8 at 12:46 PM](https://archive.org/download/presscitizen-2022/presscitizen-2022-08-08T12:46:47.668569-05:00.accessibility.json) |
 | [August 8 at 12:15 PM](https://archive.org/download/presscitizen-2022/presscitizen-2022-08-08T12:15:27.977636-05:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 6 at 11:23 AM](https://archive.org/download/presscitizen-2022/presscitizen-2022-08-06T11:23:08.162034-05:00.accessibility.json) |
 | [August 6 at 12:00 AM](https://archive.org/download/presscitizen-2022/presscitizen-2022-08-06T00:00:28.140130-05:00.accessibility.json) |
 | [August 5 at 1:06 PM](https://archive.org/download/presscitizen-2022/presscitizen-2022-08-05T13:06:38.053093-05:00.accessibility.json) |
-| [August 5 at 12:52 PM](https://archive.org/download/presscitizen-2022/presscitizen-2022-08-05T12:52:12.835215-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 40 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 41 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 9 at 12:50 PM](https://archive.org/download/presscitizen-2022/presscitizen-2022-08-09T12:50:26.105660-05:00.lighthouse.json) |
 | [August 9 at 12:04 AM](https://archive.org/download/presscitizen-2022/presscitizen-2022-08-09T00:04:43.219617-05:00.lighthouse.json) |
 | [August 8 at 12:46 PM](https://archive.org/download/presscitizen-2022/presscitizen-2022-08-08T12:46:47.668569-05:00.lighthouse.json) |
 | [August 8 at 12:15 PM](https://archive.org/download/presscitizen-2022/presscitizen-2022-08-08T12:15:27.977636-05:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 6 at 11:23 AM](https://archive.org/download/presscitizen-2022/presscitizen-2022-08-06T11:23:08.162034-05:00.lighthouse.json) |
 | [August 6 at 12:00 AM](https://archive.org/download/presscitizen-2022/presscitizen-2022-08-06T00:00:28.140130-05:00.lighthouse.json) |
 | [August 5 at 1:06 PM](https://archive.org/download/presscitizen-2022/presscitizen-2022-08-05T13:06:38.053093-05:00.lighthouse.json) |
-| [August 5 at 12:52 PM](https://archive.org/download/presscitizen-2022/presscitizen-2022-08-05T12:52:12.835215-05:00.lighthouse.json) |
 
 
 

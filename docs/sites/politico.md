@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 93 screenshots with the Internet Archive.
+The archiving routine has saved 94 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 93 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/politico-2022/politico-2022-08-09T13:48:17.684410-04:00.jpg">
+  <img src="https://archive.org/download/politico-2022/politico-2022-08-09T13:48:17.684410-04:00.jpg"
+     alt="POLITICO at 2022-08-09 13:48:22-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/politico-2022/politico-2022-08-09T13:48:17.684410-04:00.jpg">August 9 at 1:48 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/politico-2022/politico-2022-08-09T01:04:27.019095-04:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/politico-2022/politico-2022-08-03T13:09:21.760921-04:00.jpg">August 3 at 1:09 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/politico-2022/politico-2022-08-03T00:40:09.138648-04:00.jpg">
-  <img src="https://archive.org/download/politico-2022/politico-2022-08-03T00:40:09.138648-04:00.jpg"
-     alt="POLITICO at 2022-08-03 00:40:10-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/politico-2022/politico-2022-08-03T00:40:09.138648-04:00.jpg">August 3 at 12:40 AM</a></p>
 </div>
 
 </div>
@@ -328,7 +328,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 93 accessibility trees with the Internet Archive.
+The archiving routine has saved 94 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 9 at 1:48 PM](https://archive.org/download/politico-2022/politico-2022-08-09T13:48:17.684410-04:00.accessibility.json) |
 | [August 9 at 1:04 AM](https://archive.org/download/politico-2022/politico-2022-08-09T01:04:27.019095-04:00.accessibility.json) |
 | [August 8 at 1:14 PM](https://archive.org/download/politico-2022/politico-2022-08-08T13:14:07.216655-04:00.accessibility.json) |
 | [August 8 at 1:19 AM](https://archive.org/download/politico-2022/politico-2022-08-08T01:19:49.188186-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 5 at 1:52 PM](https://archive.org/download/politico-2022/politico-2022-08-05T13:52:42.739258-04:00.accessibility.json) |
 | [August 5 at 12:38 AM](https://archive.org/download/politico-2022/politico-2022-08-05T00:38:43.717013-04:00.accessibility.json) |
 | [August 4 at 12:59 PM](https://archive.org/download/politico-2022/politico-2022-08-04T12:59:05.089699-04:00.accessibility.json) |
-| [August 4 at 12:34 AM](https://archive.org/download/politico-2022/politico-2022-08-04T00:34:00.315369-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 33 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 9 at 1:48 PM](https://archive.org/download/politico-2022/politico-2022-08-09T13:48:17.684410-04:00.lighthouse.json) |
 | [August 9 at 1:04 AM](https://archive.org/download/politico-2022/politico-2022-08-09T01:04:27.019095-04:00.lighthouse.json) |
 | [August 8 at 1:14 PM](https://archive.org/download/politico-2022/politico-2022-08-08T13:14:07.216655-04:00.lighthouse.json) |
 | [August 8 at 1:19 AM](https://archive.org/download/politico-2022/politico-2022-08-08T01:19:49.188186-04:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 6 at 12:59 AM](https://archive.org/download/politico-2022/politico-2022-08-06T00:59:33.073174-04:00.lighthouse.json) |
 | [August 5 at 1:52 PM](https://archive.org/download/politico-2022/politico-2022-08-05T13:52:42.739258-04:00.lighthouse.json) |
 | [August 5 at 12:38 AM](https://archive.org/download/politico-2022/politico-2022-08-05T00:38:43.717013-04:00.lighthouse.json) |
-| [August 4 at 12:59 PM](https://archive.org/download/politico-2022/politico-2022-08-04T12:59:05.089699-04:00.lighthouse.json) |
 
 
 

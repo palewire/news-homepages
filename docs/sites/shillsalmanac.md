@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 29 screenshots with the Internet Archive.
+The archiving routine has saved 30 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/shillsalmanac-2022/shillsalmanac-2022-08-09T09:05:31.893098-04:00.jpg">
+  <img src="https://archive.org/download/shillsalmanac-2022/shillsalmanac-2022-08-09T09:05:31.893098-04:00.jpg"
+     alt="South Hills Almanac at 2022-08-09 09:05:36-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/shillsalmanac-2022/shillsalmanac-2022-08-09T09:05:31.893098-04:00.jpg">August 9 at 9:05 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/shillsalmanac-2022/shillsalmanac-2022-08-08T21:00:37.831724-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/shillsalmanac-2022/shillsalmanac-2022-08-03T20:48:23.867622-04:00.jpg">August 3 at 8:48 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/shillsalmanac-2022/shillsalmanac-2022-08-03T08:58:21.372031-04:00.jpg">
-  <img src="https://archive.org/download/shillsalmanac-2022/shillsalmanac-2022-08-03T08:58:21.372031-04:00.jpg"
-     alt="South Hills Almanac at 2022-08-03 08:58:23-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/shillsalmanac-2022/shillsalmanac-2022-08-03T08:58:21.372031-04:00.jpg">August 3 at 8:58 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 22 hyperlink lists with the Internet Archive.
+The archiving routine has saved 23 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 9 at 9:05 AM](https://archive.org/download/shillsalmanac-2022/shillsalmanac-2022-08-09T09:05:31.893098-04:00.hyperlinks.json) |
 | [August 8 at 8:51 AM](https://archive.org/download/shillsalmanac-2022/shillsalmanac-2022-08-08T08:51:34.717601-04:00.hyperlinks.json) |
 | [August 7 at 8:46 AM](https://archive.org/download/shillsalmanac-2022/shillsalmanac-2022-08-07T08:46:25.449068-04:00.hyperlinks.json) |
 | [August 6 at 8:38 AM](https://archive.org/download/shillsalmanac-2022/shillsalmanac-2022-08-06T08:38:42.497569-04:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 3 at 8:48 PM](https://archive.org/download/shillsalmanac-2022/shillsalmanac-2022-08-03T20:48:23.867622-04:00.hyperlinks.json) |
 | [August 3 at 8:58 AM](https://archive.org/download/shillsalmanac-2022/shillsalmanac-2022-08-03T08:58:21.372031-04:00.hyperlinks.json) |
 | [August 2 at 8:29 AM](https://archive.org/download/shillsalmanac-2022/shillsalmanac-2022-08-02T08:29:28.095647-04:00.hyperlinks.json) |
-| [August 1 at 8:44 PM](https://archive.org/download/shillsalmanac-2022/shillsalmanac-2022-08-01T20:44:06.419940-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 24 accessibility trees with the Internet Archive.
+The archiving routine has saved 25 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 9 at 9:05 AM](https://archive.org/download/shillsalmanac-2022/shillsalmanac-2022-08-09T09:05:31.893098-04:00.accessibility.json) |
 | [August 8 at 9:00 PM](https://archive.org/download/shillsalmanac-2022/shillsalmanac-2022-08-08T21:00:37.831724-04:00.accessibility.json) |
 | [August 8 at 8:51 AM](https://archive.org/download/shillsalmanac-2022/shillsalmanac-2022-08-08T08:51:34.717601-04:00.accessibility.json) |
 | [August 7 at 9:12 PM](https://archive.org/download/shillsalmanac-2022/shillsalmanac-2022-08-07T21:12:00.694959-04:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [August 4 at 9:50 PM](https://archive.org/download/shillsalmanac-2022/shillsalmanac-2022-08-04T21:50:18.756089-04:00.accessibility.json) |
 | [August 4 at 8:41 AM](https://archive.org/download/shillsalmanac-2022/shillsalmanac-2022-08-04T08:41:04.698025-04:00.accessibility.json) |
 | [August 3 at 8:48 PM](https://archive.org/download/shillsalmanac-2022/shillsalmanac-2022-08-03T20:48:23.867622-04:00.accessibility.json) |
-| [August 3 at 8:58 AM](https://archive.org/download/shillsalmanac-2022/shillsalmanac-2022-08-03T08:58:21.372031-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 28 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 9 at 9:05 AM](https://archive.org/download/shillsalmanac-2022/shillsalmanac-2022-08-09T09:05:31.893098-04:00.lighthouse.json) |
 | [August 8 at 9:00 PM](https://archive.org/download/shillsalmanac-2022/shillsalmanac-2022-08-08T21:00:37.831724-04:00.lighthouse.json) |
 | [August 8 at 8:51 AM](https://archive.org/download/shillsalmanac-2022/shillsalmanac-2022-08-08T08:51:34.717601-04:00.lighthouse.json) |
 | [August 7 at 9:12 PM](https://archive.org/download/shillsalmanac-2022/shillsalmanac-2022-08-07T21:12:00.694959-04:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 5 at 8:46 AM](https://archive.org/download/shillsalmanac-2022/shillsalmanac-2022-08-05T08:46:38.364098-04:00.lighthouse.json) |
 | [August 4 at 9:50 PM](https://archive.org/download/shillsalmanac-2022/shillsalmanac-2022-08-04T21:50:18.756089-04:00.lighthouse.json) |
 | [August 4 at 8:41 AM](https://archive.org/download/shillsalmanac-2022/shillsalmanac-2022-08-04T08:41:04.698025-04:00.lighthouse.json) |
-| [August 3 at 8:48 PM](https://archive.org/download/shillsalmanac-2022/shillsalmanac-2022-08-03T20:48:23.867622-04:00.lighthouse.json) |
 
 
 

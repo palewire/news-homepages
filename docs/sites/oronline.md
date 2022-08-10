@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 29 screenshots with the Internet Archive.
+The archiving routine has saved 30 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/oronline-2022/oronline-2022-08-09T13:47:46.873916-04:00.jpg">
+  <img src="https://archive.org/download/oronline-2022/oronline-2022-08-09T13:47:46.873916-04:00.jpg"
+     alt="Observer-Reporter at 2022-08-09 13:47:48-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/oronline-2022/oronline-2022-08-09T13:47:46.873916-04:00.jpg">August 9 at 1:47 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oronline-2022/oronline-2022-08-09T01:02:56.960454-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/oronline-2022/oronline-2022-08-04T00:33:00.519292-04:00.jpg">August 4 at 12:33 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/oronline-2022/oronline-2022-08-03T13:07:39.976226-04:00.jpg">
-  <img src="https://archive.org/download/oronline-2022/oronline-2022-08-03T13:07:39.976226-04:00.jpg"
-     alt="Observer-Reporter at 2022-08-03 13:07:41-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/oronline-2022/oronline-2022-08-03T13:07:39.976226-04:00.jpg">August 3 at 1:07 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 16 hyperlink lists with the Internet Archive.
+The archiving routine has saved 17 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 9 at 1:47 PM](https://archive.org/download/oronline-2022/oronline-2022-08-09T13:47:46.873916-04:00.hyperlinks.json) |
 | [August 9 at 1:03 AM](https://archive.org/download/oronline-2022/oronline-2022-08-09T01:02:56.960454-04:00.hyperlinks.json) |
 | [August 8 at 1:19 AM](https://archive.org/download/oronline-2022/oronline-2022-08-08T01:19:20.396854-04:00.hyperlinks.json) |
 | [August 7 at 12:38 AM](https://archive.org/download/oronline-2022/oronline-2022-08-07T00:37:54.947771-04:00.hyperlinks.json) |
@@ -157,7 +158,6 @@ Here are the 10 most recent hyperlink lists.
 | [July 31 at 11:52 AM](https://archive.org/download/oronline-2022/oronline-2022-07-31T11:52:14.742247-04:00.hyperlinks.json) |
 | [July 31 at 12:03 AM](https://archive.org/download/oronline-2022/oronline-2022-07-31T00:03:36.380473-04:00.hyperlinks.json) |
 | [July 29 at 11:49 PM](https://archive.org/download/oronline-2022/oronline-2022-07-29T23:49:56.983123-04:00.hyperlinks.json) |
-| [July 29 at 11:51 AM](https://archive.org/download/oronline-2022/oronline-2022-07-29T11:51:53.330518-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -185,7 +185,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 26 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 9 at 1:47 PM](https://archive.org/download/oronline-2022/oronline-2022-08-09T13:47:46.873916-04:00.lighthouse.json) |
 | [August 8 at 1:19 AM](https://archive.org/download/oronline-2022/oronline-2022-08-08T01:19:20.396854-04:00.lighthouse.json) |
 | [August 7 at 12:38 AM](https://archive.org/download/oronline-2022/oronline-2022-08-07T00:37:54.947771-04:00.lighthouse.json) |
 | [August 6 at 12:22 PM](https://archive.org/download/oronline-2022/oronline-2022-08-06T12:22:01.311523-04:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 4 at 12:58 PM](https://archive.org/download/oronline-2022/oronline-2022-08-04T12:58:40.273356-04:00.lighthouse.json) |
 | [August 4 at 12:33 AM](https://archive.org/download/oronline-2022/oronline-2022-08-04T00:33:00.519292-04:00.lighthouse.json) |
 | [August 3 at 1:07 PM](https://archive.org/download/oronline-2022/oronline-2022-08-03T13:07:39.976226-04:00.lighthouse.json) |
-| [August 3 at 12:39 AM](https://archive.org/download/oronline-2022/oronline-2022-08-03T00:39:21.965422-04:00.lighthouse.json) |
 
 
 

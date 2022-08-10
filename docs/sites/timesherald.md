@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 42 screenshots with the Internet Archive.
+The archiving routine has saved 43 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 42 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/timesherald-2022/timesherald-2022-08-09T10:42:27.067665-04:00.jpg">
+  <img src="https://archive.org/download/timesherald-2022/timesherald-2022-08-09T10:42:27.067665-04:00.jpg"
+     alt="The Newnan Times-Herald at 2022-08-09 10:42:32-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/timesherald-2022/timesherald-2022-08-09T10:42:27.067665-04:00.jpg">August 9 at 10:42 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/timesherald-2022/timesherald-2022-08-08T22:26:54.273627-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/timesherald-2022/timesherald-2022-08-04T09:57:27.341349-04:00.jpg">August 4 at 9:57 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/timesherald-2022/timesherald-2022-08-03T23:11:51.350566-04:00.jpg">
-  <img src="https://archive.org/download/timesherald-2022/timesherald-2022-08-03T23:11:51.350566-04:00.jpg"
-     alt="The Newnan Times-Herald at 2022-08-03 23:11:52-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/timesherald-2022/timesherald-2022-08-03T23:11:51.350566-04:00.jpg">August 3 at 11:11 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 42 hyperlink lists with the Internet Archive.
+The archiving routine has saved 43 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 9 at 10:42 AM](https://archive.org/download/timesherald-2022/timesherald-2022-08-09T10:42:27.067665-04:00.hyperlinks.json) |
 | [August 8 at 10:26 PM](https://archive.org/download/timesherald-2022/timesherald-2022-08-08T22:26:54.273627-04:00.hyperlinks.json) |
 | [August 8 at 10:24 AM](https://archive.org/download/timesherald-2022/timesherald-2022-08-08T10:23:51.536129-04:00.hyperlinks.json) |
 | [August 7 at 10:37 PM](https://archive.org/download/timesherald-2022/timesherald-2022-08-07T22:37:29.539359-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 5 at 10:25 PM](https://archive.org/download/timesherald-2022/timesherald-2022-08-05T22:25:27.837599-04:00.hyperlinks.json) |
 | [August 5 at 1:37 PM](https://archive.org/download/timesherald-2022/timesherald-2022-08-05T13:37:35.122339-04:00.hyperlinks.json) |
 | [August 5 at 10:13 AM](https://archive.org/download/timesherald-2022/timesherald-2022-08-05T10:13:42.187757-04:00.hyperlinks.json) |
-| [August 4 at 9:59 PM](https://archive.org/download/timesherald-2022/timesherald-2022-08-04T21:59:52.376259-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 42 accessibility trees with the Internet Archive.
+The archiving routine has saved 43 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 9 at 10:42 AM](https://archive.org/download/timesherald-2022/timesherald-2022-08-09T10:42:27.067665-04:00.accessibility.json) |
 | [August 8 at 10:26 PM](https://archive.org/download/timesherald-2022/timesherald-2022-08-08T22:26:54.273627-04:00.accessibility.json) |
 | [August 8 at 10:23 AM](https://archive.org/download/timesherald-2022/timesherald-2022-08-08T10:23:51.536129-04:00.accessibility.json) |
 | [August 7 at 10:37 PM](https://archive.org/download/timesherald-2022/timesherald-2022-08-07T22:37:29.539359-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 5 at 10:25 PM](https://archive.org/download/timesherald-2022/timesherald-2022-08-05T22:25:27.837599-04:00.accessibility.json) |
 | [August 5 at 1:37 PM](https://archive.org/download/timesherald-2022/timesherald-2022-08-05T13:37:35.122339-04:00.accessibility.json) |
 | [August 5 at 10:13 AM](https://archive.org/download/timesherald-2022/timesherald-2022-08-05T10:13:42.187757-04:00.accessibility.json) |
-| [August 4 at 9:59 PM](https://archive.org/download/timesherald-2022/timesherald-2022-08-04T21:59:52.376259-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 35 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 36 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 9 at 10:42 AM](https://archive.org/download/timesherald-2022/timesherald-2022-08-09T10:42:27.067665-04:00.lighthouse.json) |
 | [August 8 at 10:27 PM](https://archive.org/download/timesherald-2022/timesherald-2022-08-08T22:26:54.273627-04:00.lighthouse.json) |
 | [August 8 at 10:24 AM](https://archive.org/download/timesherald-2022/timesherald-2022-08-08T10:23:51.536129-04:00.lighthouse.json) |
 | [August 7 at 10:37 PM](https://archive.org/download/timesherald-2022/timesherald-2022-08-07T22:37:29.539359-04:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 5 at 10:25 PM](https://archive.org/download/timesherald-2022/timesherald-2022-08-05T22:25:27.837599-04:00.lighthouse.json) |
 | [August 5 at 1:37 PM](https://archive.org/download/timesherald-2022/timesherald-2022-08-05T13:37:35.122339-04:00.lighthouse.json) |
 | [August 5 at 10:13 AM](https://archive.org/download/timesherald-2022/timesherald-2022-08-05T10:13:42.187757-04:00.lighthouse.json) |
-| [August 4 at 9:59 PM](https://archive.org/download/timesherald-2022/timesherald-2022-08-04T21:59:52.376259-04:00.lighthouse.json) |
 
 
 

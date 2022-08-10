@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 2 screenshots with the Internet Archive.
+The archiving routine has saved 3 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/fla_pol-2022/fla_pol-2022-08-09T19:30:09.203415-04:00.jpg">
+  <img src="https://archive.org/download/fla_pol-2022/fla_pol-2022-08-09T19:30:09.203415-04:00.jpg"
+     alt="Florida Politics at 2022-08-09 19:30:10-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/fla_pol-2022/fla_pol-2022-08-09T19:30:09.203415-04:00.jpg">August 9 at 7:30 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fla_pol-2022/fla_pol-2022-08-09T08:45:18.837616-04:00.jpg">
@@ -50,7 +59,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 2 hyperlink lists with the Internet Archive.
+The archiving routine has saved 3 hyperlink lists with the Internet Archive.
 
 
 
@@ -58,13 +67,14 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 9 at 7:30 PM](https://archive.org/download/fla_pol-2022/fla_pol-2022-08-09T19:30:09.203415-04:00.hyperlinks.json) |
 | [August 9 at 8:45 AM](https://archive.org/download/fla_pol-2022/fla_pol-2022-08-09T08:45:18.837616-04:00.hyperlinks.json) |
 | [August 8 at 11:37 PM](https://archive.org/download/fla_pol-2022/fla_pol-2022-08-08T23:37:00.592347-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 2 accessibility trees with the Internet Archive.
+The archiving routine has saved 3 accessibility trees with the Internet Archive.
 
 
 
@@ -72,6 +82,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 9 at 7:30 PM](https://archive.org/download/fla_pol-2022/fla_pol-2022-08-09T19:30:09.203415-04:00.accessibility.json) |
 | [August 9 at 8:45 AM](https://archive.org/download/fla_pol-2022/fla_pol-2022-08-09T08:45:18.837616-04:00.accessibility.json) |
 | [August 8 at 11:37 PM](https://archive.org/download/fla_pol-2022/fla_pol-2022-08-08T23:37:00.592347-04:00.accessibility.json) |
 
@@ -79,7 +90,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 1 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 2 Lighthouse audits with the Internet Archive.
 
 
 
@@ -87,6 +98,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 9 at 7:30 PM](https://archive.org/download/fla_pol-2022/fla_pol-2022-08-09T19:30:09.203415-04:00.lighthouse.json) |
 | [August 9 at 8:45 AM](https://archive.org/download/fla_pol-2022/fla_pol-2022-08-09T08:45:18.837616-04:00.lighthouse.json) |
 
 

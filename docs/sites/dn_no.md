@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 42 screenshots with the Internet Archive.
+The archiving routine has saved 43 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 42 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dn_no-2022/dn_no-2022-08-10T01:29:29.984600+02:00.jpg">
+  <img src="https://archive.org/download/dn_no-2022/dn_no-2022-08-10T01:29:29.984600+02:00.jpg"
+     alt="Dagens Næringsliv at 2022-08-10 01:29:32+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-08-10T01:29:29.984600+02:00.jpg">August 10 at 1:29 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dn_no-2022/dn_no-2022-08-09T14:43:57.334649+02:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-08-04T13:15:34.539134+02:00.jpg">August 4 at 1:15 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dn_no-2022/dn_no-2022-08-04T01:23:50.957002+02:00.jpg">
-  <img src="https://archive.org/download/dn_no-2022/dn_no-2022-08-04T01:23:50.957002+02:00.jpg"
-     alt="Dagens Næringsliv at 2022-08-04 01:23:54+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-08-04T01:23:50.957002+02:00.jpg">August 4 at 1:23 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 42 hyperlink lists with the Internet Archive.
+The archiving routine has saved 43 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 10 at 1:29 AM](https://archive.org/download/dn_no-2022/dn_no-2022-08-10T01:29:29.984600+02:00.hyperlinks.json) |
 | [August 9 at 2:44 PM](https://archive.org/download/dn_no-2022/dn_no-2022-08-09T14:43:57.334649+02:00.hyperlinks.json) |
 | [August 9 at 2:40 AM](https://archive.org/download/dn_no-2022/dn_no-2022-08-09T02:40:50.804991+02:00.hyperlinks.json) |
 | [August 8 at 1:25 PM](https://archive.org/download/dn_no-2022/dn_no-2022-08-08T13:25:28.375366+02:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 6 at 2:21 PM](https://archive.org/download/dn_no-2022/dn_no-2022-08-06T14:21:24.639004+02:00.hyperlinks.json) |
 | [August 6 at 1:33 AM](https://archive.org/download/dn_no-2022/dn_no-2022-08-06T01:33:15.914487+02:00.hyperlinks.json) |
 | [August 5 at 2:28 PM](https://archive.org/download/dn_no-2022/dn_no-2022-08-05T14:28:48.787359+02:00.hyperlinks.json) |
-| [August 5 at 1:35 AM](https://archive.org/download/dn_no-2022/dn_no-2022-08-05T01:35:14.159736+02:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 42 accessibility trees with the Internet Archive.
+The archiving routine has saved 43 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 10 at 1:29 AM](https://archive.org/download/dn_no-2022/dn_no-2022-08-10T01:29:29.984600+02:00.accessibility.json) |
 | [August 9 at 2:44 PM](https://archive.org/download/dn_no-2022/dn_no-2022-08-09T14:43:57.334649+02:00.accessibility.json) |
 | [August 9 at 2:40 AM](https://archive.org/download/dn_no-2022/dn_no-2022-08-09T02:40:50.804991+02:00.accessibility.json) |
 | [August 8 at 1:25 PM](https://archive.org/download/dn_no-2022/dn_no-2022-08-08T13:25:28.375366+02:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 6 at 2:21 PM](https://archive.org/download/dn_no-2022/dn_no-2022-08-06T14:21:24.639004+02:00.accessibility.json) |
 | [August 6 at 1:33 AM](https://archive.org/download/dn_no-2022/dn_no-2022-08-06T01:33:15.914487+02:00.accessibility.json) |
 | [August 5 at 2:28 PM](https://archive.org/download/dn_no-2022/dn_no-2022-08-05T14:28:48.787359+02:00.accessibility.json) |
-| [August 5 at 1:35 AM](https://archive.org/download/dn_no-2022/dn_no-2022-08-05T01:35:14.159736+02:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 34 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 35 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 10 at 1:29 AM](https://archive.org/download/dn_no-2022/dn_no-2022-08-10T01:29:29.984600+02:00.lighthouse.json) |
 | [August 9 at 2:44 PM](https://archive.org/download/dn_no-2022/dn_no-2022-08-09T14:43:57.334649+02:00.lighthouse.json) |
 | [August 9 at 2:40 AM](https://archive.org/download/dn_no-2022/dn_no-2022-08-09T02:40:50.804991+02:00.lighthouse.json) |
 | [August 8 at 1:25 PM](https://archive.org/download/dn_no-2022/dn_no-2022-08-08T13:25:28.375366+02:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 6 at 2:21 PM](https://archive.org/download/dn_no-2022/dn_no-2022-08-06T14:21:24.639004+02:00.lighthouse.json) |
 | [August 6 at 1:33 AM](https://archive.org/download/dn_no-2022/dn_no-2022-08-06T01:33:15.914487+02:00.lighthouse.json) |
 | [August 5 at 2:28 PM](https://archive.org/download/dn_no-2022/dn_no-2022-08-05T14:28:48.787359+02:00.lighthouse.json) |
-| [August 5 at 1:35 AM](https://archive.org/download/dn_no-2022/dn_no-2022-08-05T01:35:14.159736+02:00.lighthouse.json) |
 
 
 
