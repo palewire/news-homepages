@@ -144,6 +144,7 @@ def _screenshot(
             ".omaha-background",  # Takeover ad
             ".sqs-popup-overlay",  # Overlay popup
             "#gcomPromo",  # Overlay found on Brazilian sites
+            ".Campaign",
         ]
         target_str = ",".join(target_list)
         javascript = f"""
