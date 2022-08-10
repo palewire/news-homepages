@@ -1,5 +1,6 @@
 {
-  "created": 1660049862,
+  "conflict": 1660092995,
+  "created": 1660092995,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/16/items/marshallproj-2022",
@@ -6377,21 +6378,32 @@
       "format": "JSON"
     },
     {
+      "name": "marshallproj-2022-08-09T08:56:44.832744-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "marshallproj-2022-08-09T08:56:44.832744-04:00.jpg",
+      "mtime": "1660050047",
+      "size": "8767",
+      "md5": "9e151f34c0c846e68c16fe57b32ac273",
+      "crc32": "eeb995b0",
+      "sha1": "50b42c57a1466b05d7052870bdfed7e055268509"
+    },
+    {
       "name": "marshallproj-2022_archive.torrent",
       "source": "metadata",
-      "btih": "00feaa98598685486afbe1ebcd573fd6dfc5975f",
-      "mtime": "1660049859",
-      "size": "131471",
-      "md5": "0be1d28264ec230f91e31e0a8a041c39",
-      "crc32": "ae5977b1",
-      "sha1": "0da432090a019522eca98078dda6539e042e894a",
+      "btih": "6db79cbb553c1cd11fe35f1bdc6bc4911dd8b043",
+      "mtime": "1660050058",
+      "size": "131679",
+      "md5": "b4eaa0b11825c693d34da741a8c8f948",
+      "crc32": "e11dd124",
+      "sha1": "ebbcf4689e39d428dc17206acc88a291ff5be04e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "marshallproj-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "23458d2717f4384fdd36a997a8d9084b",
+      "md5": "b7762313674d47ca49eb774e4b96a02d",
       "summation": "md5"
     },
     {
@@ -6415,9 +6427,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 613,
-  "item_last_updated": 1660049859,
-  "item_size": 33605257,
+  "files_count": 614,
+  "item_last_updated": 1660050058,
+  "item_size": 33614232,
   "metadata": {
     "identifier": "marshallproj-2022",
     "collection": [
@@ -6439,15 +6451,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3358556045,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3359261736,
+      "cmd": "archive.php",
+      "priority": -5,
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
     }
   ],
-  "uniq": 605182877,
+  "uniq": 2010338581,
   "workable_servers": [
     "ia902503.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1660050464,
+  "created": 1660093478,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/27/items/thecityny-2022",
@@ -6084,31 +6084,93 @@
       "sha1": "10429be2d80cea3e812ddb23e19b9b2be826312c"
     },
     {
+      "name": "thecityny-2022-08-09T10:39:46.909172-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660055991",
+      "size": "31363",
+      "md5": "9db53042d90c3939026fca7bbe3ab589",
+      "crc32": "c48c7a88",
+      "sha1": "25ebd205f78dc98ce6b9fe4c8b490da86d32a467",
+      "format": "JSON"
+    },
+    {
+      "name": "thecityny-2022-08-09T10:39:46.909172-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660055993",
+      "size": "38307",
+      "md5": "1db84f07f51818b1d850621937d6e987",
+      "crc32": "9b3fd03f",
+      "sha1": "7319e85d7a1abd12cd52fc352627f956b8b6e815",
+      "format": "JSON"
+    },
+    {
+      "name": "thecityny-2022-08-09T10:39:46.909172-04:00.jpg",
+      "source": "original",
+      "mtime": "1660055990",
+      "size": "244754",
+      "md5": "8348e4b583f7d3f29e0fb034e5285905",
+      "crc32": "6f183f86",
+      "sha1": "561f0a53068a9282caba4d5e84a6bfea0ceb0970",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thecityny-2022-08-09T10:39:46.909172-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660055994",
+      "size": "1459",
+      "md5": "6ce1d728a269aa5603dca802fa38d20d",
+      "crc32": "f944b08e",
+      "sha1": "c4f45587d6306f5b464a184e158a862539068a19",
+      "format": "JSON"
+    },
+    {
+      "name": "thecityny-2022-08-09T10:39:46.909172-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660055996",
+      "size": "265",
+      "md5": "fa25121960d81d0cfc6774281f3dbf81",
+      "crc32": "708f488a",
+      "sha1": "2907736c957f2e130ca995cd248a2a672b4d3cf7",
+      "format": "JSON"
+    },
+    {
+      "name": "thecityny-2022-08-09T10:39:46.909172-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thecityny-2022-08-09T10:39:46.909172-04:00.jpg",
+      "mtime": "1660056319",
+      "size": "9347",
+      "md5": "8f5b11a9aaf0fab29c35946448238716",
+      "crc32": "17b2f7a3",
+      "sha1": "9c946a7a5e27eefdf2a0c88fb35c75cc47b17b39"
+    },
+    {
       "name": "thecityny-2022_archive.torrent",
       "source": "metadata",
-      "btih": "469da13649c2c14fdf6d1ae65eacf453470231f7",
-      "mtime": "1660011979",
-      "size": "124163",
-      "md5": "eb26a19b001363bb8272e03c86a3b253",
-      "crc32": "16a66976",
-      "sha1": "fcb92be7957dcf1b7dc204f2fc00549b6b2776b1",
+      "btih": "06a8b3f4cbcb0197130d2c4a59d981844f0e2780",
+      "mtime": "1660056327",
+      "size": "125434",
+      "md5": "a1516cec673b2e12c2afbd260f0ad33b",
+      "crc32": "a80d311e",
+      "sha1": "4cadd129c8f20c4d9f91724257c36456245d4193",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thecityny-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f2b1abed8cbf3370ffaa6caf8892d5ac",
+      "md5": "9553dc3dbcf247e4c621a859767dfe8c",
       "summation": "md5"
     },
     {
       "name": "thecityny-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660011905",
-      "size": "700416",
-      "md5": "47900ac01d79b0f850b691a07f93e11a",
-      "crc32": "e1c4d584",
-      "sha1": "953eae5cb45cb092deb8054b332728fae925e4d6",
+      "mtime": "1660055999",
+      "size": "708608",
+      "md5": "1a175aed9240e6d0f1994702f956f2e4",
+      "crc32": "ba1cb9be",
+      "sha1": "91e6c36d630d4a7b253302cbc45db4acd3874ce2",
       "format": "Metadata"
     },
     {
@@ -6122,9 +6184,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 585,
-  "item_last_updated": 1660011979,
-  "item_size": 43364295,
+  "files_count": 591,
+  "item_last_updated": 1660056327,
+  "item_size": 43699253,
   "metadata": {
     "identifier": "thecityny-2022",
     "collection": [
@@ -6141,50 +6203,15 @@
     "publicdate": "2022-06-19 23:28:39",
     "addeddate": "2022-06-19 23:28:39"
   },
-  "server": "ia801400.us.archive.org",
+  "server": "ia601400.us.archive.org",
   "thecityny-2022": {
     "url": "https://www.thecity.nyc/",
     "job_id": "spn2-80b1b943b4689828f2b47cccd8387ef5a6436451",
-    "http_status": 200,
-    "outlinks": [],
-    "timestamp": "20220809003412",
-    "original_url": "https://www.thecity.nyc/",
-    "resources": [
-      "https://www.thecity.nyc/",
-      "https://fonts.voxmedia.com/unison/thecity/SharpGroteskMedium20.woff2",
-      "https://fonts.voxmedia.com/unison/thecity/SharpGroteskSmBold15.woff2",
-      "https://fonts.voxmedia.com/unison/thecity/SharpGroteskBook20.woff2",
-      "https://fonts.voxmedia.com/unison/thecity/SharpGroteskLight20.woff2",
-      "https://thecity.brightspotcdn.com/resource/00000180-0a53-d629-adfc-4ef7434a0000/styles/style-1/All.min.2a3b9b4f97252ff27bbebe0415909af2.gz.css?v=1212",
-      "https://thecity.brightspotcdn.com/resource/00000180-0a53-d629-adfc-4ef7434a0000/webcomponents-loader/webcomponents-loader.2938a610ca02c611209b1a5ba2884385.gz.js",
-      "https://htlbid.com/v3/thecity.nyc/htlbid.js",
-      "https://fonts.voxmedia.com/unison/unison_base/graphik/graphik-regular.woff2",
-      "https://thecity.brightspotcdn.com/resource/00000180-0a53-d629-adfc-4ef7434a0000/_resource/analytics/bsp-analytics.min.3d492319d8b084de04ab3a208c32f0b5.gz.js",
-      "https://thecity.brightspotcdn.com/resource/00000180-0a53-d629-adfc-4ef7434a0000/styles/style-1/All.min.a57a9f7144420ba76c7a94447d23ef8f.gz.js",
-      "https://thecity.brightspotcdn.com/dims4/default/953cfb6/2147483647/strip/true/crop/1000x312+0+0/resize/480x150!/quality/90/?url=https://chorus-production-thecity.s3.amazonaws.com/brightspot/b9/6e/c622a45e44ee974a741595fbcefb/city-logo-png8-smaller.0.png",
-      "https://www.npttech.com/advertising.js",
-      "https://htlbid.com/v3/thecity.nyc/htlbid.css",
-      "https://connect.facebook.net/en_US/sdk.js",
-      "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
-      "https://player.ex.co/player/3efe0816-3b5b-468f-82e9-f1434b67d119",
-      "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2022080401.js",
-      "https://securepubads.g.doubleclick.net/pagead/ppub_config?ippd=www.thecity.nyc",
-      "https://connect.facebook.net/en_US/sdk.js?hash=134f476448bd9deb765df84ac706d71f",
-      "https://thecity.brightspotcdn.com/dims4/default/9b05d13/2147483647/strip/true/crop/3000x1688+0+156/resize/800x450!/format/webp/quality/90/?url=https://cdn.vox-cdn.com/thumbor/jmcHHluoSztfOcrB7u3wKZfTR5M=/0x0:3000x2000/3000x2000/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/23925232/080422_bk_judicial_convention_1.jpg",
-      "https://thecity.brightspotcdn.com/dims4/default/1739ab5/2147483647/strip/true/crop/3000x1689+0+153/resize/444x250!/format/webp/quality/90/?url=https://cdn.vox-cdn.com/thumbor/yVah7-bfPG58duLBgn07VvVt4Bo=/0x0:3000x1996/3000x1996/filters:focal(1500x998:1501x999)/cdn.vox-cdn.com/uploads/chorus_asset/file/23926265/08.05.2022_1.jpg",
-      "https://thecity.brightspotcdn.com/dims4/default/9e11656/2147483647/strip/true/crop/3000x1689+0+155/resize/570x321!/format/webp/quality/90/?url=https://cdn.vox-cdn.com/thumbor/MwVdNczT3SPky5XNvtfezrK0MsE=/0x0:3000x2000/3000x2000/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/23615562/060922_times_square_crowd_1.jpg",
-      "https://thecity.brightspotcdn.com/dims4/default/cfe534b/2147483647/strip/true/crop/6000x3378+0+311/resize/444x250!/format/webp/quality/90/?url=https://cdn.vox-cdn.com/thumbor/l3dEUu_5Tkx5XaPWRKUIsUDM7gI=/0x0:6000x4000/6000x4000/filters:focal(3000x2000:3001x2001)/cdn.vox-cdn.com/uploads/chorus_asset/file/23931204/DSC_0191.JPG"
-    ],
-    "duration_sec": 10.15,
-    "status": "success",
-    "counters": {
-      "outlinks": 70,
-      "embeds": 93
-    }
+    "message": "The capture will start in ~1 minute because our service is currently overloaded. You may close your browser window and the page will still be saved."
   },
-  "uniq": 119001202,
+  "uniq": 714285991,
   "workable_servers": [
-    "ia801400.us.archive.org",
-    "ia601400.us.archive.org"
+    "ia601400.us.archive.org",
+    "ia801400.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1660050412,
+  "created": 1660093428,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/7/items/techmeme-2022",
@@ -6420,31 +6420,83 @@
       "sha1": "52e5ee22f0d06d9caa016ac7d017bdbfbd26cc70"
     },
     {
+      "name": "techmeme-2022-08-09T10:55:05.712348-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660067708",
+      "size": "111350",
+      "md5": "4e1a1d4a753762a540b7e78209937ef8",
+      "crc32": "db2987d8",
+      "sha1": "aec507980f73b5a94d7f3d2a4c58152ad3288cae",
+      "format": "JSON"
+    },
+    {
+      "name": "techmeme-2022-08-09T10:55:05.712348-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660067710",
+      "size": "230058",
+      "md5": "d9abdfad61bacac9bd64d7d1680cdf69",
+      "crc32": "97c71cf3",
+      "sha1": "22cd061e38cfef3aaea5666f33af56f714d9b4b9",
+      "format": "JSON"
+    },
+    {
+      "name": "techmeme-2022-08-09T10:55:05.712348-07:00.jpg",
+      "source": "original",
+      "mtime": "1660067707",
+      "size": "495645",
+      "md5": "d272c8e012e98e8900c5e984eb7268cb",
+      "crc32": "941ee5f3",
+      "sha1": "e334b33099fb2d4b7c37d434aa1f05f74d7de53d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "techmeme-2022-08-09T10:55:05.712348-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660067711",
+      "size": "1486",
+      "md5": "3e8fa214433922dcd933fb5b2eab304e",
+      "crc32": "6fe8489f",
+      "sha1": "5ec004ca503578f0505b791a742b1b1d23b89095",
+      "format": "JSON"
+    },
+    {
+      "name": "techmeme-2022-08-09T10:55:05.712348-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "techmeme-2022-08-09T10:55:05.712348-07:00.jpg",
+      "mtime": "1660067845",
+      "size": "9337",
+      "md5": "f87ef5d2e6e15cf238f287b8c8d67b65",
+      "crc32": "fb9bfde9",
+      "sha1": "4f3ec6637647cd5782e52cce9bfab05867c0b4e3"
+    },
+    {
       "name": "techmeme-2022_archive.torrent",
       "source": "metadata",
-      "btih": "854c81f73bae0af777f2e058cae31d6ab1306629",
-      "mtime": "1660021952",
-      "size": "133176",
-      "md5": "977b303c0147497753f5657157f070ec",
-      "crc32": "81fc5805",
-      "sha1": "bd2c8b581c00670aabd8bf3f36c5c9c715a9b121",
+      "btih": "4b55ddfc40aef78871429940b2fd7ddbab8735a0",
+      "mtime": "1660067855",
+      "size": "134237",
+      "md5": "9aba6e704191a349f8f4441c1703e31f",
+      "crc32": "abd22f55",
+      "sha1": "d34266f3d0df6f73f0759870dc111c853c92d275",
       "format": "Archive BitTorrent"
     },
     {
       "name": "techmeme-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1b0bf9f55c9cb8f9f4adebb15b07f72a",
+      "md5": "fa66c07b3fad57cbe1c7d60abf81f303",
       "summation": "md5"
     },
     {
       "name": "techmeme-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660021838",
-      "size": "733184",
-      "md5": "0b68d54edde0eb98c01ff8a7816f9a20",
-      "crc32": "d3d12501",
-      "sha1": "e155cd0cfdef75bdbb2d74f866e2036d16ea925e",
+      "mtime": "1660067718",
+      "size": "737280",
+      "md5": "da1ac6a7fc43fadcc7d924cf5266d524",
+      "crc32": "73072597",
+      "sha1": "136891794b0686222bfe4e7656fddcdffd499d24",
       "format": "Metadata"
     },
     {
@@ -6458,9 +6510,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 617,
-  "item_last_updated": 1660021952,
-  "item_size": 114985953,
+  "files_count": 622,
+  "item_last_updated": 1660067855,
+  "item_size": 115838986,
   "metadata": {
     "identifier": "techmeme-2022",
     "collection": [
@@ -6477,14 +6529,51 @@
     "publicdate": "2022-06-17 17:26:33",
     "addeddate": "2022-06-17 17:26:33"
   },
-  "server": "ia801407.us.archive.org",
-  "techmeme-2022": {
-    "url": "https://www.techmeme.com/",
-    "job_id": "spn2-51361eba725b285e516557b35ecb77f89d39cbfe"
-  },
-  "uniq": 1384931785,
+  "server": "ia601407.us.archive.org",
+  "techmeme-2022": [
+    {
+      "url": "https://www.techmeme.com/m/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_techmeme_com-_m_-2022_08_09_16_54_33.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_techmeme_com-_m_-2022_08_09_16_54_33.report.json",
+      "summary": {
+        "performance": 0.93,
+        "accessibility": 0.57,
+        "best-practices": 0.92,
+        "seo": 1,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.techmeme.com/m/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_techmeme_com-_m_-2022_08_09_16_54_44.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_techmeme_com-_m_-2022_08_09_16_54_44.report.json",
+      "summary": {
+        "performance": 0.94,
+        "accessibility": 0.57,
+        "best-practices": 0.92,
+        "seo": 1,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.techmeme.com/m/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_techmeme_com-_m_-2022_08_09_16_54_22.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_techmeme_com-_m_-2022_08_09_16_54_22.report.json",
+      "summary": {
+        "performance": 0.93,
+        "accessibility": 0.57,
+        "best-practices": 0.92,
+        "seo": 1,
+        "pwa": 0.4
+      }
+    }
+  ],
+  "uniq": 1796788444,
   "workable_servers": [
-    "ia801407.us.archive.org",
-    "ia601407.us.archive.org"
+    "ia601407.us.archive.org",
+    "ia801407.us.archive.org"
   ]
 }

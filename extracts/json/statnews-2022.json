@@ -1,5 +1,5 @@
 {
-  "created": 1660050382,
+  "created": 1660093397,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/6/items/statnews-2022",
@@ -1874,31 +1874,93 @@
       "sha1": "daab8903df77785527ed5137e4a892cb7201dd19"
     },
     {
+      "name": "statnews-2022-08-09T13:55:03.741694-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660067713",
+      "size": "32466",
+      "md5": "e7bc98811c4278bdbeda44a23fd54056",
+      "crc32": "cb636caa",
+      "sha1": "abaecc76f00a1b5c6494a34901f3e077a1664789",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-08-09T13:55:03.741694-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660067718",
+      "size": "37278",
+      "md5": "c6ed1e7191680e304f6f87c3ded02bb7",
+      "crc32": "8c23179b",
+      "sha1": "a0c2ff1eeeca8f7b9e93d530ada9bc1c08d8d742",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-08-09T13:55:03.741694-04:00.jpg",
+      "source": "original",
+      "mtime": "1660067711",
+      "size": "265694",
+      "md5": "dc4e8947653f52e2f5b914ba1770f22d",
+      "crc32": "5d98fcdc",
+      "sha1": "87e8e51d44c93ab457a915d7c102d386c3e23990",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "statnews-2022-08-09T13:55:03.741694-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660067719",
+      "size": "1473",
+      "md5": "704edda212363895a9bdb8fc56d15e4e",
+      "crc32": "fe24ff55",
+      "sha1": "30f76f76aedb596a4035968e8dc1c83b57dcdeab",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-08-09T13:55:03.741694-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660067721",
+      "size": "246",
+      "md5": "9b1c459305d22be4f348d9b51f103735",
+      "crc32": "eb1ec439",
+      "sha1": "9d7e3a787ae71345fc6d3ce63418403441d1644a",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-08-09T13:55:03.741694-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "statnews-2022-08-09T13:55:03.741694-04:00.jpg",
+      "mtime": "1660067806",
+      "size": "9867",
+      "md5": "54bf89614b52884e83c4deb9b41c8ee9",
+      "crc32": "4bd10361",
+      "sha1": "f72c2618ae8fbe89601fdd8e65068d93b353ccac"
+    },
+    {
       "name": "statnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "00863a73be23817d2b6a640a242dd57d93763f58",
-      "mtime": "1660022087",
-      "size": "39304",
-      "md5": "1dc75458dd3effdce84a6428bb3b32e6",
-      "crc32": "7ba67282",
-      "sha1": "b66962a6711cbad17ee045f8763bd5ab03685491",
+      "btih": "23013f452056ab56796469e934152993389004da",
+      "mtime": "1660067816",
+      "size": "40569",
+      "md5": "f21805a3cf0435be8939a6ef39e7e473",
+      "crc32": "bbf2da24",
+      "sha1": "fc181f2be63fd2dd51f27d15e69c07fa2f5b6717",
       "format": "Archive BitTorrent"
     },
     {
       "name": "statnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dcc64b845b07dc8868574576ad427ca9",
+      "md5": "709fe4a5901d49bc2084d979aae48d4d",
       "summation": "md5"
     },
     {
       "name": "statnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660021807",
-      "size": "245760",
-      "md5": "a5af54f5cfc5d4c06ccf99c7167cc0c6",
-      "crc32": "0a8e12b3",
-      "sha1": "135616f4476b3bf16af2bd28983b468846231564",
+      "mtime": "1660067727",
+      "size": "249856",
+      "md5": "e33487097dff51c5dd9ef00f8af47045",
+      "crc32": "f6f45bf3",
+      "sha1": "70935c5d4126abc4a9d30736be7404ce872135e7",
       "format": "Metadata"
     },
     {
@@ -1912,9 +1974,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 184,
-  "item_last_updated": 1660022087,
-  "item_size": 12586939,
+  "files_count": 190,
+  "item_last_updated": 1660067816,
+  "item_size": 12939324,
   "metadata": {
     "identifier": "statnews-2022",
     "collection": [
@@ -1931,14 +1993,15 @@
     "publicdate": "2022-07-23 04:23:24",
     "addeddate": "2022-07-23 04:23:24"
   },
-  "server": "ia801507.us.archive.org",
+  "server": "ia601507.us.archive.org",
   "statnews-2022": {
-    "url": "https://www.statnews.com/",
-    "job_id": "spn2-db75a7e357ec8c6e7290f61dd5b59f0b13a5f869"
+    "message": "This URL has been already captured 10 times today. Please try again tomorrow. Please email us at \"info@archive.org\" if you would like to discuss this more.",
+    "status": "error",
+    "status_ext": "error:too-many-daily-captures"
   },
-  "uniq": 1400514338,
+  "uniq": 2048552742,
   "workable_servers": [
-    "ia801507.us.archive.org",
-    "ia601507.us.archive.org"
+    "ia601507.us.archive.org",
+    "ia801507.us.archive.org"
   ]
 }

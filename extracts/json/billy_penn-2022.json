@@ -1,10 +1,10 @@
 {
   "billy_penn-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
+    "url": "https://billypenn.com/",
+    "job_id": "spn2-5e25b29187fc1043279725c2da06a895b46f42f5",
+    "message": "The capture will start in ~1 minute because our service is currently overloaded. You may close your browser window and the page will still be saved."
   },
-  "created": 1660049443,
+  "created": 1660092645,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/30/items/billy_penn-2022",
@@ -4031,31 +4031,93 @@
       "sha1": "6f9c17be279c820a77fc9d8af558c543e992f932"
     },
     {
+      "name": "billy_penn-2022-08-09T10:32:57.474961-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660055582",
+      "size": "28187",
+      "md5": "e5c2a8a483498733abc62078c5fedd12",
+      "crc32": "b9ff9101",
+      "sha1": "f16d377ac3306ef9d141469f9980c890d6e46fbb",
+      "format": "JSON"
+    },
+    {
+      "name": "billy_penn-2022-08-09T10:32:57.474961-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660055583",
+      "size": "28955",
+      "md5": "dffeaecf7006a747b7a427565208298e",
+      "crc32": "bc9596a5",
+      "sha1": "6a5256e5916ecdf52bcca11c7a9263b39847123b",
+      "format": "JSON"
+    },
+    {
+      "name": "billy_penn-2022-08-09T10:32:57.474961-04:00.jpg",
+      "source": "original",
+      "mtime": "1660055580",
+      "size": "323353",
+      "md5": "bc656f2a6bbf4732977105bb6cb0e137",
+      "crc32": "607eb4d2",
+      "sha1": "362802d0ec6858d62ed658ddb0dd0f61ff3aa019",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "billy_penn-2022-08-09T10:32:57.474961-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660055585",
+      "size": "1450",
+      "md5": "0f9bc88ab14ae1be08957e81a6dfcdb6",
+      "crc32": "03146e24",
+      "sha1": "ac50aa6bf7bcf6053ac350d958f362d668d933f1",
+      "format": "JSON"
+    },
+    {
+      "name": "billy_penn-2022-08-09T10:32:57.474961-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660055587",
+      "size": "263",
+      "md5": "c442ec53d75359f1f0dd9cb7b8592368",
+      "crc32": "e26c965e",
+      "sha1": "c2cef20dcf746a482632f55b0e5bb2edc78bf772",
+      "format": "JSON"
+    },
+    {
+      "name": "billy_penn-2022-08-09T10:32:57.474961-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "billy_penn-2022-08-09T10:32:57.474961-04:00.jpg",
+      "mtime": "1660055657",
+      "size": "9903",
+      "md5": "93688819545492e510e3450cf9632a8a",
+      "crc32": "9aac9090",
+      "sha1": "d47f06142852254ef01f0c4b2863928d1655ed08"
+    },
+    {
       "name": "billy_penn-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e233e943fae0933723705d55c757ae9cd03f677b",
-      "mtime": "1660011703",
-      "size": "83411",
-      "md5": "14ffbfdcc15f2d7c17d4f2f5830060ce",
-      "crc32": "b270b17e",
-      "sha1": "a06e95e3898af32f7cf7e74591807e16657a9d9a",
+      "btih": "c8fc7b56fbf3d06b872e52848d1cf197e50e9e84",
+      "mtime": "1660055666",
+      "size": "84688",
+      "md5": "6101e5b9d4bb69368ceeba205ac6445e",
+      "crc32": "bed851d1",
+      "sha1": "b6efa81b3e247b9da84abceffab2353ef63d6a49",
       "format": "Archive BitTorrent"
     },
     {
       "name": "billy_penn-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b3f161aa90de88d14ab203096baf6605",
+      "md5": "3eeef4e21aff0afe6be2219820c59e8f",
       "summation": "md5"
     },
     {
       "name": "billy_penn-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660011648",
-      "size": "475136",
-      "md5": "a5eee489dbb406111c76001545be24ed",
-      "crc32": "8d51a4fa",
-      "sha1": "f16e72e1b4166d65e1afc37039e3fdd4008f0e5f",
+      "mtime": "1660055591",
+      "size": "483328",
+      "md5": "cfea7ea6e355b10f32983859aa65ee20",
+      "crc32": "b23b0e3d",
+      "sha1": "0b9e4fd775d3b69776dd78be8ec1423ee1d56e46",
       "format": "Metadata"
     },
     {
@@ -4069,9 +4131,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 389,
-  "item_last_updated": 1660011703,
-  "item_size": 34121800,
+  "files_count": 395,
+  "item_last_updated": 1660055666,
+  "item_size": 34523380,
   "metadata": {
     "identifier": "billy_penn-2022",
     "collection": [
@@ -4089,7 +4151,7 @@
     "addeddate": "2022-07-03 15:52:45"
   },
   "server": "ia601506.us.archive.org",
-  "uniq": 1135261932,
+  "uniq": 434441794,
   "workable_servers": [
     "ia601506.us.archive.org",
     "ia801506.us.archive.org"

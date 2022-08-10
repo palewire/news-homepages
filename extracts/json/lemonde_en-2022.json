@@ -1,5 +1,6 @@
 {
-  "created": 1660049851,
+  "conflict": 1660092952,
+  "created": 1660092952,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/6/items/lemonde_en-2022",
@@ -11349,10 +11350,21 @@
     "publicdate": "2022-04-09 13:40:13",
     "addeddate": "2022-04-09 13:40:13"
   },
+  "pending_tasks": true,
   "server": "ia601401.us.archive.org",
-  "uniq": 683412614,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3359260904,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 871383737,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia601401.us.archive.org"
   ]
 }

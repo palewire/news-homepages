@@ -1,5 +1,6 @@
 {
-  "created": 1660049895,
+  "conflict": 1660093056,
+  "created": 1660093056,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/15/items/mtvnews-2022",
@@ -2367,21 +2368,32 @@
       "format": "JSON"
     },
     {
+      "name": "mtvnews-2022-08-09T08:57:24.627491-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mtvnews-2022-08-09T08:57:24.627491-04:00.jpg",
+      "mtime": "1660050131",
+      "size": "11203",
+      "md5": "00269e4cfff61de232a857275f5fa199",
+      "crc32": "1a3bebee",
+      "sha1": "4ebbf9a0975af1304d5740f119ce289924250d8c"
+    },
+    {
       "name": "mtvnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b9780668736fb38205ed6e220f9804c79a6002db",
-      "mtime": "1660049892",
-      "size": "48824",
-      "md5": "8ae79feb5e699781cf2f561244558ad9",
-      "crc32": "f9bc2190",
-      "sha1": "1f4cd9f5b957f43026bf7e25f78b2ed0e4788eab",
+      "btih": "2478138f7ce16a337566f19a1e0bf2b2619f5e25",
+      "mtime": "1660050135",
+      "size": "49028",
+      "md5": "7dd3ed461a920faf35072225565546ec",
+      "crc32": "9d6bbc87",
+      "sha1": "cd29220b2209abf892a3b8ff4bed2912b6bb090f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mtvnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a7ee01111925e2a26c06aa5fb4a4a1d7",
+      "md5": "02e8b3ac331be98563069f6e0019e9f2",
       "summation": "md5"
     },
     {
@@ -2405,9 +2417,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 231,
-  "item_last_updated": 1660049892,
-  "item_size": 14399552,
+  "files_count": 232,
+  "item_last_updated": 1660050135,
+  "item_size": 14410959,
   "metadata": {
     "identifier": "mtvnews-2022",
     "collection": [
@@ -2429,15 +2441,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3358556467,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3359262859,
+      "cmd": "archive.php",
+      "priority": -5,
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
     }
   ],
-  "uniq": 2084782277,
+  "uniq": 739495806,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

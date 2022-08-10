@@ -1,5 +1,5 @@
 {
-  "created": 1660050546,
+  "created": 1660093524,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/11/items/theroot-2022",
@@ -754,31 +754,83 @@
       "sha1": "eedd919f1bf4f82065a9822bb590e5ab2c862c19"
     },
     {
+      "name": "theroot-2022-08-09T10:41:47.270739-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660056111",
+      "size": "40432",
+      "md5": "d0237d8fa68a2091f24c53d927d96a5c",
+      "crc32": "10ae120f",
+      "sha1": "6aa880f35419e8b27fc87756891ca58c213603e0",
+      "format": "JSON"
+    },
+    {
+      "name": "theroot-2022-08-09T10:41:47.270739-04:00.jpg",
+      "source": "original",
+      "mtime": "1660056108",
+      "size": "289927",
+      "md5": "0dc8d63f14d65bd7d1ed72ba6c557a4a",
+      "crc32": "1387e3c0",
+      "sha1": "62183650884828bc6507b5cc9aa233cd41837cc2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theroot-2022-08-09T10:41:47.270739-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660056112",
+      "size": "1468",
+      "md5": "9827d8935cf429feb7729cdb2516fd7e",
+      "crc32": "728aed0d",
+      "sha1": "8f0d252f8143e041c571292c358b580bf481cd67",
+      "format": "JSON"
+    },
+    {
+      "name": "theroot-2022-08-09T10:41:47.270739-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660056114",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "theroot-2022-08-09T10:41:47.270739-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theroot-2022-08-09T10:41:47.270739-04:00.jpg",
+      "mtime": "1660056166",
+      "size": "10807",
+      "md5": "479c54694a07fe65b537e8a1e6f1c4e6",
+      "crc32": "6dc0b535",
+      "sha1": "a430634cd5a2b6899e9a37e163938b9639cf2dd3"
+    },
+    {
       "name": "theroot-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6ec55c9cb256b0d968e98191a9d414f007680067",
-      "mtime": "1660012198",
-      "size": "16475",
-      "md5": "9ed5e469bdb06ec6c2a7e0fea5819c48",
-      "crc32": "7268551e",
-      "sha1": "197ffe5d79deda9137d5a0537c01584c0a398a80",
+      "btih": "0b317db83985771352b66f20ae0c2a17efbee9d3",
+      "mtime": "1660056175",
+      "size": "17525",
+      "md5": "824a72a5887f54388dee17e5dd35e89b",
+      "crc32": "d072db1e",
+      "sha1": "afaca43f0f3ccc14f64180063aada827f4c9095a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theroot-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e6356255902a97cf3f9206e432f31dd2",
+      "md5": "41372b3cd0df7eff54d60fa2bc208b10",
       "summation": "md5"
     },
     {
       "name": "theroot-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660011962",
-      "size": "106496",
-      "md5": "e0531298690286fad7e6937452f5e034",
-      "crc32": "d44ceb2d",
-      "sha1": "2502e2dfedca207d0ee30ed8c65c6e6e55245863",
+      "mtime": "1660056118",
+      "size": "114688",
+      "md5": "9d7d61d095153cfd451b61570e55822d",
+      "crc32": "809f93be",
+      "sha1": "c31b3d0f3ba6bf6679ebe803055fc085b48350a2",
       "format": "Metadata"
     },
     {
@@ -792,9 +844,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 76,
-  "item_last_updated": 1660012198,
-  "item_size": 5469621,
+  "files_count": 81,
+  "item_last_updated": 1660056175,
+  "item_size": 5821699,
   "metadata": {
     "identifier": "theroot-2022",
     "collection": [
@@ -813,10 +865,11 @@
   },
   "server": "ia802508.us.archive.org",
   "theroot-2022": {
-    "url": "https://www.theroot.com/",
-    "job_id": "spn2-2abf20edcea0730fe460e597c00645fdf04e43a5"
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
   },
-  "uniq": 634971118,
+  "uniq": 599211750,
   "workable_servers": [
     "ia802508.us.archive.org",
     "ia902508.us.archive.org"

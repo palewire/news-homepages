@@ -1,5 +1,5 @@
 {
-  "created": 1660050193,
+  "created": 1660093200,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/0/items/people-2022",
@@ -3240,31 +3240,93 @@
       "sha1": "7a353982744e13a88485e53dacd38abe1209d71c"
     },
     {
+      "name": "people-2022-08-09T13:50:09.673719-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660067420",
+      "size": "35065",
+      "md5": "264c6167001b7ecf243c6c3efb6f96c9",
+      "crc32": "e2e4eefe",
+      "sha1": "f23b221fca35bd8a7d46eb66ca237ecc49b33732",
+      "format": "JSON"
+    },
+    {
+      "name": "people-2022-08-09T13:50:09.673719-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660067422",
+      "size": "52351",
+      "md5": "f4c2094634a3b6471c8e99c2f2c575cb",
+      "crc32": "6b086008",
+      "sha1": "cbca40deab88ce7706247ec6ae9378ab22babcb3",
+      "format": "JSON"
+    },
+    {
+      "name": "people-2022-08-09T13:50:09.673719-04:00.jpg",
+      "source": "original",
+      "mtime": "1660067418",
+      "size": "306869",
+      "md5": "a3948f08b1dc6189231c7f80c25a96c5",
+      "crc32": "d4a74bfa",
+      "sha1": "d024a443f8ea889f718f9bf363657ac18d483f44",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "people-2022-08-09T13:50:09.673719-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660067423",
+      "size": "1419",
+      "md5": "7c788ed5e074d6d005b93cbc7df7b861",
+      "crc32": "3f19d180",
+      "sha1": "6fb9db7febde7fb5ea4a72a931d6aa969f370824",
+      "format": "JSON"
+    },
+    {
+      "name": "people-2022-08-09T13:50:09.673719-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660067425",
+      "size": "336",
+      "md5": "46fd15d6974c4c3cbae61c48a0dc3714",
+      "crc32": "20766d98",
+      "sha1": "3f738a2b16d932e28774a2e583416e8c415aacd7",
+      "format": "JSON"
+    },
+    {
+      "name": "people-2022-08-09T13:50:09.673719-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "people-2022-08-09T13:50:09.673719-04:00.jpg",
+      "mtime": "1660067593",
+      "size": "10295",
+      "md5": "773d7b39f6f7ea50a0d7522b05d1b345",
+      "crc32": "c632e554",
+      "sha1": "242891ea5bfa4668c64ff46bfb3b5d8f9d0148e9"
+    },
+    {
       "name": "people-2022_archive.torrent",
       "source": "metadata",
-      "btih": "60fe40024272ab4bcbbc9811937e0a2040fd7c8c",
-      "mtime": "1660021605",
-      "size": "66022",
-      "md5": "431ddca0d543a4f64eeca78c0cbb2a60",
-      "crc32": "16347500",
-      "sha1": "973392a5234aed8a844fd10cd242d59aeb1b52df",
+      "btih": "1f1b76ffdecc3a9de106fd7b5b19011f088949f7",
+      "mtime": "1660067597",
+      "size": "67276",
+      "md5": "a0040dc4483e366eb2272a830e3e54e7",
+      "crc32": "38a6d59c",
+      "sha1": "7f7202c6b800ad7b81a5c32245aaeb10b301db14",
       "format": "Archive BitTorrent"
     },
     {
       "name": "people-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "05523e57c74f04fab13d307cec1ac2dc",
+      "md5": "31f7c78e8cafc31aa98a739426e9cd45",
       "summation": "md5"
     },
     {
       "name": "people-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660021480",
-      "size": "380928",
-      "md5": "881c29ff20ee9aba34af6c6836ef44af",
-      "crc32": "568e1670",
-      "sha1": "5c6afe8eae1853911a9a5ff3753c8a710bb81279",
+      "mtime": "1660067431",
+      "size": "389120",
+      "md5": "5f2a4464209b280e7a363cc3900ddc00",
+      "crc32": "8c4b176d",
+      "sha1": "848e5f828cbab01a7300fb7aef70ca1264672f04",
       "format": "Metadata"
     },
     {
@@ -3278,9 +3340,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 313,
-  "item_last_updated": 1660021605,
-  "item_size": 30257303,
+  "files_count": 319,
+  "item_last_updated": 1660067597,
+  "item_size": 30673084,
   "metadata": {
     "identifier": "people-2022",
     "collection": [
@@ -3299,12 +3361,23 @@
   },
   "people-2022": {
     "url": "https://people.com/",
-    "job_id": "spn2-04044647947a25aadb6c04b1e24fc01086c85576"
+    "job_id": "spn2-04044647947a25aadb6c04b1e24fc01086c85576",
+    "status": "success",
+    "counters": {
+      "embeds": 274,
+      "outlinks": 70
+    },
+    "resources": [],
+    "http_status": 200,
+    "timestamp": "20220809155151",
+    "original_url": "https://people.com/",
+    "outlinks": [],
+    "duration_sec": 33.274
   },
-  "server": "ia902507.us.archive.org",
-  "uniq": 150104479,
+  "server": "ia802507.us.archive.org",
+  "uniq": 1843783783,
   "workable_servers": [
-    "ia902507.us.archive.org",
-    "ia802507.us.archive.org"
+    "ia802507.us.archive.org",
+    "ia902507.us.archive.org"
   ]
 }

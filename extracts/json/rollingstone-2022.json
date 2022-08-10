@@ -1,6 +1,5 @@
 {
-  "conflict": 1660050242,
-  "created": 1660050242,
+  "created": 1660050415,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/19/items/rollingstone-2022",
@@ -4711,31 +4710,93 @@
       "sha1": "876fd413d9258ccc6ce3c0881607050bdd99b84a"
     },
     {
+      "name": "rollingstone-2022-08-09T09:03:55.316548-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660050240",
+      "size": "25568",
+      "md5": "5237fa1399a10e5a1ddf601521608d20",
+      "crc32": "53579746",
+      "sha1": "daabe3ad307a1702aadc426b4e9cc5a15526d298",
+      "format": "JSON"
+    },
+    {
+      "name": "rollingstone-2022-08-09T09:03:55.316548-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660050242",
+      "size": "53019",
+      "md5": "36959b6df880db867637fe3c31e38caa",
+      "crc32": "201b1cc3",
+      "sha1": "a5101606eab2165fd726741c767f8d7a1929950a",
+      "format": "JSON"
+    },
+    {
+      "name": "rollingstone-2022-08-09T09:03:55.316548-04:00.jpg",
+      "source": "original",
+      "mtime": "1660050238",
+      "size": "339848",
+      "md5": "5e50ec4b30764e8a7b906d1bd01afc97",
+      "crc32": "f0ac6c92",
+      "sha1": "b570ff9cc63342ddee17a99a0c37a5e56104ccbd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rollingstone-2022-08-09T09:03:55.316548-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660050244",
+      "size": "1513",
+      "md5": "ac3b4102905674153493b2420f036490",
+      "crc32": "1a2955d8",
+      "sha1": "41b75b88a21d7a5de5dc3a69c87b0ec988711449",
+      "format": "JSON"
+    },
+    {
+      "name": "rollingstone-2022-08-09T09:03:55.316548-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660050246",
+      "size": "177723",
+      "md5": "5f36a2bebff4f2e7a136f6db70830ec9",
+      "crc32": "b5d731f1",
+      "sha1": "31dba51a09d37b23ed4dc2bbb566426815285b5a",
+      "format": "JSON"
+    },
+    {
+      "name": "rollingstone-2022-08-09T09:03:55.316548-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rollingstone-2022-08-09T09:03:55.316548-04:00.jpg",
+      "mtime": "1660050379",
+      "size": "11800",
+      "md5": "7e217bf9594f830aeb85678a5f5b13a6",
+      "crc32": "ba5cb87c",
+      "sha1": "67377cb8c0957ad0a514de6050c64c4985f8df8f"
+    },
+    {
       "name": "rollingstone-2022_archive.torrent",
       "source": "metadata",
-      "btih": "79251cf3a3401f22ac3561d33d41864c8e2eead2",
-      "mtime": "1660006913",
-      "size": "98142",
-      "md5": "adfc8905e432ed5a053589422a376ce4",
-      "crc32": "6b17580b",
-      "sha1": "4611a4bee1f81abb47a67a2c8805563b37f3028a",
+      "btih": "6f9f423f5ee606eb6c799db03e7b1e68b9cf422f",
+      "mtime": "1660050387",
+      "size": "99435",
+      "md5": "0d98d3877bf8ed47542bd50036423dd2",
+      "crc32": "4d9c42b3",
+      "sha1": "e8bab758cb08c31e1f9e0759a53eac886a2e7a54",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rollingstone-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "205bb96ff0aa1a57038bf81b7a6abfb3",
+      "md5": "3dbf08154ae21c7868a2b881887877e5",
       "summation": "md5"
     },
     {
       "name": "rollingstone-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660006810",
-      "size": "540672",
-      "md5": "dd4dd976d4e0747207fb8bfebf1718b0",
-      "crc32": "196736de",
-      "sha1": "bdffec260268d9774269fd3b81c4b17bc896c271",
+      "mtime": "1660050251",
+      "size": "548864",
+      "md5": "c59b564ef7dd268af79e0aff46c88ff8",
+      "crc32": "6d7024f3",
+      "sha1": "81b6e0cce281ec5e6966d1810ab8c33c99e73713",
       "format": "Metadata"
     },
     {
@@ -4749,9 +4810,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 453,
-  "item_last_updated": 1660006913,
-  "item_size": 46049624,
+  "files_count": 459,
+  "item_last_updated": 1660050387,
+  "item_size": 46668580,
   "metadata": {
     "identifier": "rollingstone-2022",
     "collection": [
@@ -4768,21 +4829,10 @@
     "publicdate": "2022-06-24 23:00:28",
     "addeddate": "2022-06-24 23:00:28"
   },
-  "pending_tasks": true,
   "server": "ia601500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3358563642,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 766872705,
+  "uniq": 663310068,
   "workable_servers": [
-    "ia601500.us.archive.org"
+    "ia601500.us.archive.org",
+    "ia801500.us.archive.org"
   ]
 }

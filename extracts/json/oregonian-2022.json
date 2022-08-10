@@ -1,5 +1,5 @@
 {
-  "created": 1660050169,
+  "created": 1660093190,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/1/items/oregonian-2022",
@@ -3491,21 +3491,32 @@
       "format": "JSON"
     },
     {
+      "name": "oregonian-2022-08-09T06:01:52.678916-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oregonian-2022-08-09T06:01:52.678916-07:00.jpg",
+      "mtime": "1660050498",
+      "size": "7941",
+      "md5": "b314e4e4e8c3c88feb820987f955fbc3",
+      "crc32": "0dd854c0",
+      "sha1": "c57ea2da0ee8c773a82e97b1bf6a84b49cf696fe"
+    },
+    {
       "name": "oregonian-2022_archive.torrent",
       "source": "metadata",
-      "btih": "124d0fda0e3b12b0e2d745fb4eb1716b3509c23a",
-      "mtime": "1660050166",
-      "size": "72062",
-      "md5": "95e25a6347df9685e9e8bc23731d0aee",
-      "crc32": "31c4b504",
-      "sha1": "c637fbbe2bdf297f3a069ec3e4c663c139b1b885",
+      "btih": "4eee8ac90e35706006277093d9fb65ecf3bc2294",
+      "mtime": "1660050586",
+      "size": "72267",
+      "md5": "cf07015964620adc9c222ee8f78e8528",
+      "crc32": "4fda0b1c",
+      "sha1": "ec0c5985da1c8fbc7611d332473072fccdcef145",
       "format": "Archive BitTorrent"
     },
     {
       "name": "oregonian-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f5727db709b8cdd5fc1eb93216b3078d",
+      "md5": "7d2cd996775d75c6e344db04586441a4",
       "summation": "md5"
     },
     {
@@ -3529,9 +3540,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 338,
-  "item_last_updated": 1660050166,
-  "item_size": 25775095,
+  "files_count": 339,
+  "item_last_updated": 1660050586,
+  "item_size": 25783241,
   "metadata": {
     "identifier": "oregonian-2022",
     "collection": [
@@ -3548,21 +3559,19 @@
     "publicdate": "2022-07-04 21:50:57",
     "addeddate": "2022-07-04 21:50:57"
   },
-  "pending_tasks": true,
+  "oregonian-2022": {
+    "url": "https://www.oregonlive.com/",
+    "job_id": "spn2-906cfca03c9f4580379d8ce8ed0b21451d81aba6",
+    "status": "error",
+    "status_ext": "error:job-failed",
+    "duration_sec": 0.619,
+    "resources": [],
+    "message": "Job failed."
+  },
   "server": "ia601406.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3358561776,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 2073846779,
+  "uniq": 2093067792,
   "workable_servers": [
-    "ia601406.us.archive.org"
+    "ia601406.us.archive.org",
+    "ia801406.us.archive.org"
   ]
 }

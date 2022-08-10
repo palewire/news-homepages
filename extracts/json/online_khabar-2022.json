@@ -1,5 +1,5 @@
 {
-  "created": 1660050111,
+  "created": 1660093184,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/23/items/online_khabar-2022",
@@ -1801,21 +1801,32 @@
       "format": "JSON"
     },
     {
+      "name": "online_khabar-2022-08-09T18:45:59.872108+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "online_khabar-2022-08-09T18:45:59.872108+05:45.jpg",
+      "mtime": "1660050388",
+      "size": "9718",
+      "md5": "1c141f9ef83e40572356a1894fbd4f5e",
+      "crc32": "2186435d",
+      "sha1": "9ce1ebc6a8299c19dd097ba759263a5c2f6fe7ab"
+    },
+    {
       "name": "online_khabar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ca8670bebdef534d7b5f8a14928718736fd4c1e6",
-      "mtime": "1660050109",
-      "size": "38889",
-      "md5": "ed1f0b37be94fc62c2183e9c56a4a129",
-      "crc32": "2fe615ac",
-      "sha1": "670f1f027780a171313ecf4e26de4e802dcc6e87",
+      "btih": "505453b3947b0b5cafee5820150a8c159ccbbed2",
+      "mtime": "1660050392",
+      "size": "39098",
+      "md5": "dd65bad3eff3d548ef407ed9614a8573",
+      "crc32": "ef17a637",
+      "sha1": "295ff0ae0397f9c1d1219aa4652f745a4b764bdc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "online_khabar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "99c012d1bd0fe329c448f0be6e23a273",
+      "md5": "3fe3b7b91f39276a3e3d1cc47c4d242d",
       "summation": "md5"
     },
     {
@@ -1839,9 +1850,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 177,
-  "item_last_updated": 1660050109,
-  "item_size": 15007232,
+  "files_count": 178,
+  "item_last_updated": 1660050392,
+  "item_size": 15017159,
   "metadata": {
     "identifier": "online_khabar-2022",
     "collection": [
@@ -1858,21 +1869,14 @@
     "publicdate": "2022-07-24 20:38:53",
     "addeddate": "2022-07-24 20:38:53"
   },
-  "pending_tasks": true,
-  "server": "ia902509.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3358560387,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1487302797,
+  "online_khabar-2022": {
+    "url": "https://www.onlinekhabar.com/",
+    "job_id": "spn2-b2452c8fa26ce35d39b74196e25124a9a931b5e9"
+  },
+  "server": "ia802509.us.archive.org",
+  "uniq": 144670190,
   "workable_servers": [
+    "ia802509.us.archive.org",
     "ia902509.us.archive.org"
   ]
 }

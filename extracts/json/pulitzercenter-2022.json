@@ -1,5 +1,5 @@
 {
-  "created": 1660050206,
+  "created": 1660093241,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/14/items/pulitzercenter-2022",
@@ -3123,21 +3123,32 @@
       "format": "JSON"
     },
     {
+      "name": "pulitzercenter-2022-08-09T09:02:36.103808-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pulitzercenter-2022-08-09T09:02:36.103808-04:00.jpg",
+      "mtime": "1660050337",
+      "size": "8650",
+      "md5": "619215f29cff7fc8dfb2e02704c2a98f",
+      "crc32": "6bbc71e4",
+      "sha1": "aeccd820e2918fbaef70ec04fc8561fb337469d1"
+    },
+    {
       "name": "pulitzercenter-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8cd0b7d02786defae3318c0f778922008e4034f8",
-      "mtime": "1660050204",
-      "size": "65848",
-      "md5": "ac144b6073419c8dc58d7ed8ddcd514f",
-      "crc32": "d74f24fe",
-      "sha1": "283486e4f1b68e3481d82bd41ce0699162b7dbe0",
+      "btih": "9a2fb186234a3e140b21fa921c0b557faa5dae8b",
+      "mtime": "1660050351",
+      "size": "66058",
+      "md5": "e449141d8a87565836537a6af7e8171d",
+      "crc32": "d9ada615",
+      "sha1": "1e013fc3d5388ae47bf33826076e252c8b23cc04",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pulitzercenter-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "58d141932ea22134b2bf5b7810825d83",
+      "md5": "4d0977051c851945dbb2eb860c94890a",
       "summation": "md5"
     },
     {
@@ -3161,9 +3172,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 303,
-  "item_last_updated": 1660050204,
-  "item_size": 15438986,
+  "files_count": 304,
+  "item_last_updated": 1660050351,
+  "item_size": 15447846,
   "metadata": {
     "identifier": "pulitzercenter-2022",
     "collection": [
@@ -3180,21 +3191,19 @@
     "publicdate": "2022-07-09 04:01:52",
     "addeddate": "2022-07-09 04:01:52"
   },
-  "pending_tasks": true,
+  "pulitzercenter-2022": {
+    "url": "http://www.pulitzercenter.org/",
+    "job_id": "spn2-fd1830f5fa072099d19b35a74fdac85834efd86d",
+    "status_ext": "error:job-failed",
+    "message": "Job failed.",
+    "status": "error",
+    "resources": [],
+    "duration_sec": 0.792
+  },
   "server": "ia601408.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3358562861,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1691318464,
+  "uniq": 2005215614,
   "workable_servers": [
-    "ia601408.us.archive.org"
+    "ia601408.us.archive.org",
+    "ia801408.us.archive.org"
   ]
 }

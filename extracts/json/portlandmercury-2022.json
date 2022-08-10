@@ -1,5 +1,5 @@
 {
-  "created": 1660050214,
+  "created": 1660093216,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/10/items/portlandmercury-2022",
@@ -2750,31 +2750,93 @@
       "sha1": "6a051ebbfade9fe9f2a84ac10b409719fd7728a9"
     },
     {
+      "name": "portlandmercury-2022-08-09T10:48:27.711806-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660067311",
+      "size": "20836",
+      "md5": "8c3f42b4bcc274a2ea3978c09ad7fb37",
+      "crc32": "f1d702ea",
+      "sha1": "305e1ef76476685da7920df13418216c8cf91df9",
+      "format": "JSON"
+    },
+    {
+      "name": "portlandmercury-2022-08-09T10:48:27.711806-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660067313",
+      "size": "21277",
+      "md5": "223d8c519980ecd0ecf4105fbf0bdf50",
+      "crc32": "453043db",
+      "sha1": "0bce65294e2538261d622219b6731f18c90de5a3",
+      "format": "JSON"
+    },
+    {
+      "name": "portlandmercury-2022-08-09T10:48:27.711806-07:00.jpg",
+      "source": "original",
+      "mtime": "1660067309",
+      "size": "353830",
+      "md5": "92b0412b3baefb74775e79d3ae092dac",
+      "crc32": "338ed65a",
+      "sha1": "c13d8ac36e17895fd41b375630e6853b1a386d1a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "portlandmercury-2022-08-09T10:48:27.711806-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660067314",
+      "size": "1540",
+      "md5": "f329fe437ac75e288d6bbd08c650750a",
+      "crc32": "91e5db1f",
+      "sha1": "a999fc7e2d9bcd2f828a31e0f3e7b6bb924f1a38",
+      "format": "JSON"
+    },
+    {
+      "name": "portlandmercury-2022-08-09T10:48:27.711806-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660067316",
+      "size": "237",
+      "md5": "5c3901cba388d1e9f7ff4ce61088ace2",
+      "crc32": "9e1cef04",
+      "sha1": "247bce5d632cb4104a48db4e889fa46a446cf55b",
+      "format": "JSON"
+    },
+    {
+      "name": "portlandmercury-2022-08-09T10:48:27.711806-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "portlandmercury-2022-08-09T10:48:27.711806-07:00.jpg",
+      "mtime": "1660067527",
+      "size": "10578",
+      "md5": "d46a53aa5ec812a991b094d695f69da4",
+      "crc32": "dd9ba385",
+      "sha1": "ab25e115e8dc1cc226bc4a9f821625d2e21332e3"
+    },
+    {
       "name": "portlandmercury-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a1599a7651f32dee492b89f2846007d9109eb687",
-      "mtime": "1660021568",
-      "size": "58938",
-      "md5": "d68505f452e5180ee072b76ab53718f4",
-      "crc32": "5c22990f",
-      "sha1": "d6a1ae726b19eee1554396bae9b94d5881c01dd4",
+      "btih": "c35a45d9735240db119255c6b2f3fe9d5f1db948",
+      "mtime": "1660067536",
+      "size": "60246",
+      "md5": "5e87fb954f4de1de751a88bab9601e1f",
+      "crc32": "e70c87cf",
+      "sha1": "08ab755ca0270835bc0c6ca7bda465f9d2d10d8b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "portlandmercury-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b3868c808c7f3953a73828ee35bd0717",
+      "md5": "1595aba0e7d9bbdbebcdf324d8bee88a",
       "summation": "md5"
     },
     {
       "name": "portlandmercury-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660021473",
-      "size": "348160",
-      "md5": "9639653e23b7cebec8f1444ca99bcce6",
-      "crc32": "594b00ca",
-      "sha1": "342a2b8340d1882d817998e77558952c74512ff1",
+      "mtime": "1660067321",
+      "size": "352256",
+      "md5": "0fa6dfdeb510d6dec14663f58d3c6fad",
+      "crc32": "6d9491ab",
+      "sha1": "2d9f24b3d93d9425d864aa997b9efd9b6d7ea8ca",
       "format": "Metadata"
     },
     {
@@ -2788,9 +2850,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 268,
-  "item_last_updated": 1660021568,
-  "item_size": 18087223,
+  "files_count": 274,
+  "item_last_updated": 1660067536,
+  "item_size": 18500925,
   "metadata": {
     "identifier": "portlandmercury-2022",
     "collection": [
@@ -2813,11 +2875,11 @@
     "status_ext": "error:job-failed",
     "status": "error",
     "resources": [],
-    "duration_sec": 0.663,
+    "duration_sec": 0.688,
     "message": "Job failed."
   },
   "server": "ia801408.us.archive.org",
-  "uniq": 362025699,
+  "uniq": 896788221,
   "workable_servers": [
     "ia801408.us.archive.org",
     "ia601408.us.archive.org"

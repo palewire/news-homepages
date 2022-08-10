@@ -1,6 +1,6 @@
 {
-  "conflict": 1660049806,
-  "created": 1660049806,
+  "conflict": 1660092930,
+  "created": 1660092930,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/4/items/lajornada-2022",
@@ -20239,24 +20239,29 @@
       "name": "lajornada-2022-08-09T07:54:49.162715-05:00_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "lajornada-2022-08-09T07:54:49.162715-05:00.jpg"
+      "original": "lajornada-2022-08-09T07:54:49.162715-05:00.jpg",
+      "mtime": "1660049801",
+      "size": "8237",
+      "md5": "5f6ccf8f9baf4f9c08b5abc2218d1c40",
+      "crc32": "c35942f0",
+      "sha1": "badda7e08ab9afa35eb74fb4f80c1ff5faeada93"
     },
     {
       "name": "lajornada-2022_archive.torrent",
       "source": "metadata",
-      "btih": "38297ad8bacf5c8d7e7627fcdf6d885de693e799",
-      "mtime": "1660049764",
-      "size": "410743",
-      "md5": "6031177d906c1e8339df77e0c46eb729",
-      "crc32": "e91dece7",
-      "sha1": "7071740afe898d6a7a6fd65ef593f48039549934",
+      "btih": "ac366e6e64953d8b2a60d829615c6c0caff8a671",
+      "mtime": "1660050112",
+      "size": "410948",
+      "md5": "ac536b7bcb8cd42e9b256286c4c962bb",
+      "crc32": "60984709",
+      "sha1": "adb0ede905291c720d2abf0e80426cdb17ca37ad",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lajornada-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "43173cc17eb4ccaf9542d2bf268b17f1",
+      "md5": "8a0ca0a872fc850309c2ae056a1721ff",
       "summation": "md5"
     },
     {
@@ -20281,8 +20286,8 @@
     }
   ],
   "files_count": 1934,
-  "item_last_updated": 1660049764,
-  "item_size": 202612146,
+  "item_last_updated": 1660050112,
+  "item_size": 202620588,
   "metadata": {
     "identifier": "lajornada-2022",
     "collection": [
@@ -20304,15 +20309,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3358554790,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3359260489,
+      "cmd": "archive.php",
+      "priority": -5,
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
     }
   ],
-  "uniq": 918772895,
+  "uniq": 204257344,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

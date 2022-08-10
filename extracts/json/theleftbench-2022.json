@@ -1,5 +1,5 @@
 {
-  "created": 1660050497,
+  "created": 1660093502,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/26/items/theleftbench-2022",
@@ -1882,31 +1882,41 @@
       "format": "JSON"
     },
     {
+      "name": "theleftbench-2022-08-09T10:40:40.988140-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660056042",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "theleftbench-2022_archive.torrent",
       "source": "metadata",
-      "btih": "de5144d487ec04161020b2bd48d379045287197f",
-      "mtime": "1660011953",
-      "size": "40188",
-      "md5": "2ad6288f9d0de6c2dfd03716dfaace5c",
-      "crc32": "b51c8949",
-      "sha1": "71a330432d0ba6dfdeb5265191bf7e538e9eec3d",
+      "btih": "78ac6a8307781edfc76d905c4cfd59876a0cf0f6",
+      "mtime": "1660056082",
+      "size": "40398",
+      "md5": "cc44c16cfbd68721e111096d85c12e81",
+      "crc32": "d7abbd8d",
+      "sha1": "4f89402f7f5f06ecf0760046dcd196196eabfa7b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theleftbench-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b52dd2b1fc6224e459a9e4a253c197fc",
+      "md5": "db6087fe1c09d3ae915fa513aea96554",
       "summation": "md5"
     },
     {
       "name": "theleftbench-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660011920",
-      "size": "237568",
-      "md5": "f6ac956639fdcbc1a52f22114867c559",
-      "crc32": "d2e16d12",
-      "sha1": "f282dc8c0831e96901c38b89522dc3528878cd4c",
+      "mtime": "1660056048",
+      "size": "241664",
+      "md5": "88bb810eaddf94c28f4a29e48c1bd255",
+      "crc32": "70171cd4",
+      "sha1": "3b821c3be9c1422865c9880375ae63e137ada70e",
       "format": "Metadata"
     },
     {
@@ -1920,9 +1930,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 184,
-  "item_last_updated": 1660011953,
-  "item_size": 16763663,
+  "files_count": 185,
+  "item_last_updated": 1660056082,
+  "item_size": 16768171,
   "metadata": {
     "identifier": "theleftbench-2022",
     "collection": [
@@ -1939,19 +1949,15 @@
     "publicdate": "2022-07-12 20:46:28",
     "addeddate": "2022-07-12 20:46:28"
   },
-  "server": "ia801401.us.archive.org",
+  "server": "ia601401.us.archive.org",
   "theleftbench-2022": {
-    "url": "https://theleftbench.com/",
-    "job_id": "spn2-0dd6377824522e4902c4cad305baf13821920676",
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
     "status": "error",
-    "status_ext": "error:gateway-timeout",
-    "duration_sec": 5.315,
-    "resources": [],
-    "message": "The server didn't respond in time for https://theleftbench.com/."
+    "status_ext": "error:user-session-limit"
   },
-  "uniq": 304862520,
+  "uniq": 131443172,
   "workable_servers": [
-    "ia801401.us.archive.org",
-    "ia601401.us.archive.org"
+    "ia601401.us.archive.org",
+    "ia801401.us.archive.org"
   ]
 }

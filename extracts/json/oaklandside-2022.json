@@ -1,5 +1,5 @@
 {
-  "created": 1660050107,
+  "created": 1660093161,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/30/items/oaklandside-2022",
@@ -10787,21 +10787,32 @@
       "format": "JSON"
     },
     {
+      "name": "oaklandside-2022-08-09T06:00:37.828701-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oaklandside-2022-08-09T06:00:37.828701-07:00.jpg",
+      "mtime": "1660050304",
+      "size": "10462",
+      "md5": "c5d0281dfe54a3abbda312168873370f",
+      "crc32": "39a9427d",
+      "sha1": "eeb7305bc26e04f0b00c9c30a38df31aef9899a0"
+    },
+    {
       "name": "oaklandside-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1965e0ba7f20428b681cd4d7543c4142426d4832",
-      "mtime": "1660050104",
-      "size": "221703",
-      "md5": "55289e1e42abadb2ed2b9a9137b1c803",
-      "crc32": "627b716f",
-      "sha1": "ad2650f00f41816372e3755d3dc75fefaa5fed67",
+      "btih": "cfa796ca4e2dc7b272382e7a43ab3d578af404cc",
+      "mtime": "1660050317",
+      "size": "221911",
+      "md5": "44cbb7ae31fa96c047721b8b220fa987",
+      "crc32": "7a6f9394",
+      "sha1": "08a5a51b5676c7e9763a03ae667091c37a970127",
       "format": "Archive BitTorrent"
     },
     {
       "name": "oaklandside-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "571e3d0ce1b41b4ad774d312a547892c",
+      "md5": "f1b04a15803fd7c903e68a630b7c94f3",
       "summation": "md5"
     },
     {
@@ -10825,9 +10836,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1032,
-  "item_last_updated": 1660050104,
-  "item_size": 105233754,
+  "files_count": 1033,
+  "item_last_updated": 1660050317,
+  "item_size": 105244424,
   "metadata": {
     "identifier": "oaklandside-2022",
     "collection": [
@@ -10844,21 +10855,14 @@
     "publicdate": "2022-03-23 02:09:27",
     "addeddate": "2022-03-23 02:09:27"
   },
-  "pending_tasks": true,
-  "server": "ia902503.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3358560308,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 198821548,
+  "oaklandside-2022": {
+    "url": "https://oaklandside.org/",
+    "job_id": "spn2-dc109842de134a4931812f6875c1178244dcf6c2"
+  },
+  "server": "ia802503.us.archive.org",
+  "uniq": 2104457229,
   "workable_servers": [
+    "ia802503.us.archive.org",
     "ia902503.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1660050249,
+  "created": 1660093256,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/34/items/rajdhani_daily-2022",
@@ -1811,21 +1811,32 @@
       "format": "JSON"
     },
     {
+      "name": "rajdhani_daily-2022-08-09T18:48:17.479174+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rajdhani_daily-2022-08-09T18:48:17.479174+05:45.jpg",
+      "mtime": "1660050375",
+      "size": "10690",
+      "md5": "5d27848c433d81ab7ae799a4f97c97b6",
+      "crc32": "68f19528",
+      "sha1": "0bb8c1e0bbed3824e83c542833bd0e40fdae1d41"
+    },
+    {
       "name": "rajdhani_daily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3068f75c145108a614a0bda3585dfdcaaca977a1",
-      "mtime": "1660050247",
-      "size": "39141",
-      "md5": "8946456585c4208c353cfe275e8737fb",
-      "crc32": "a2b4c3ee",
-      "sha1": "d366006db3d1104e7955985f60394d2319c0eebe",
+      "btih": "b1dc52a6433b3289aec85bd9aaf549e1380375c8",
+      "mtime": "1660050381",
+      "size": "39352",
+      "md5": "95a77abf5c25a0beeba5fc0549077601",
+      "crc32": "1c5487af",
+      "sha1": "9ade0169bff2f73cb5ba1bf6dcd29fc71d955fe7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rajdhani_daily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "416a075855ba9a304aec6d305564a0d4",
+      "md5": "4cb81b4cb15dcc223dc2fcd956a22faf",
       "summation": "md5"
     },
     {
@@ -1849,9 +1860,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 178,
-  "item_last_updated": 1660050247,
-  "item_size": 12577534,
+  "files_count": 179,
+  "item_last_updated": 1660050381,
+  "item_size": 12588435,
   "metadata": {
     "identifier": "rajdhani_daily-2022",
     "collection": [
@@ -1868,21 +1879,14 @@
     "publicdate": "2022-07-24 20:38:58",
     "addeddate": "2022-07-24 20:38:58"
   },
-  "pending_tasks": true,
-  "server": "ia601408.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3358563929,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 289254788,
+  "rajdhani_daily-2022": {
+    "url": "https://rajdhanidaily.com/",
+    "job_id": "spn2-b2f0c814cc7dcaeef9fb2fb7900ff9a8f637070d"
+  },
+  "server": "ia801408.us.archive.org",
+  "uniq": 1221948828,
   "workable_servers": [
+    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ]
 }

@@ -1,5 +1,6 @@
 {
-  "created": 1660049809,
+  "conflict": 1660092965,
+  "created": 1660092965,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/20/items/lagrangenews-2022",
@@ -2168,31 +2169,82 @@
       "sha1": "f5df0aa88c1e5d7e772bcac75169645f63bf4fef"
     },
     {
+      "name": "lagrangenews-2022-08-09T20:54:52.311788-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660092896",
+      "size": "21137",
+      "md5": "6988a1fec3d618f61b9f6c8a18395f8d",
+      "crc32": "90bd964e",
+      "sha1": "b55744ee691e866e19aea92ca0ca8ec207393385",
+      "format": "JSON"
+    },
+    {
+      "name": "lagrangenews-2022-08-09T20:54:52.311788-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660092898",
+      "size": "11871",
+      "md5": "63a5114c6f96bb632bc86d21d6c9e4de",
+      "crc32": "4666af80",
+      "sha1": "04aafd707d003ff4d3c785fbd38af25a1c8c3671",
+      "format": "JSON"
+    },
+    {
+      "name": "lagrangenews-2022-08-09T20:54:52.311788-04:00.jpg",
+      "source": "original",
+      "mtime": "1660092895",
+      "size": "212206",
+      "md5": "8140415892e7341fee68c51e38351a2d",
+      "crc32": "3dd584da",
+      "sha1": "7e7dc1384569240b467a239f81a91b5d07d7c84b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lagrangenews-2022-08-09T20:54:52.311788-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660092899",
+      "size": "1504",
+      "md5": "16b751076cbc401edbe2fc42162655c1",
+      "crc32": "3c34513e",
+      "sha1": "c374a5bd5185463ebb712c4d87ce0381f89e82cf",
+      "format": "JSON"
+    },
+    {
+      "name": "lagrangenews-2022-08-09T20:54:52.311788-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660092901",
+      "size": "9750",
+      "md5": "59e9fe9f233c0a2b66e438ad99393198",
+      "crc32": "3e7ba75c",
+      "sha1": "6edf9c2894509942cfef574bbef372e81cf911aa",
+      "format": "JSON"
+    },
+    {
       "name": "lagrangenews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "edcb83469fbdb922b206bcb4009e790e7bca3686",
-      "mtime": "1660049798",
-      "size": "45922",
-      "md5": "59d2f342200b1cd644703f66d28c7690",
-      "crc32": "6e8e10cc",
-      "sha1": "0bd8fc0673da614dead4f4b93de40d2c523cc4f2",
+      "btih": "9df0b2a736c38a56d46d3d77c078f474be849ef1",
+      "mtime": "1660092941",
+      "size": "47004",
+      "md5": "d7f0aafae0ee85c97de50788d1abc97f",
+      "crc32": "b0d4c336",
+      "sha1": "0b7949517f0c69f90eea5eb0888b12b5dbf5e096",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lagrangenews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2056d642c31f4c4b9c862625bc411298",
+      "md5": "efd521f087ccb26d573c1256386e5aef",
       "summation": "md5"
     },
     {
       "name": "lagrangenews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660049737",
-      "size": "278528",
-      "md5": "850c8dafb5e0b48c26fbce6ef219df3c",
-      "crc32": "fbfc5219",
-      "sha1": "188f11f1763868cc0dfe3a9067fe8d07e40694b2",
+      "mtime": "1660092905",
+      "size": "282624",
+      "md5": "048bf64250498fedc54f31e2829b1b30",
+      "crc32": "bf89cc75",
+      "sha1": "9f950c65cbdb317e815d271c73aa1f1838ca9fd5",
       "format": "Metadata"
     },
     {
@@ -2206,9 +2258,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 212,
-  "item_last_updated": 1660049798,
-  "item_size": 12015072,
+  "files_count": 217,
+  "item_last_updated": 1660092941,
+  "item_size": 12276718,
   "metadata": {
     "identifier": "lagrangenews-2022",
     "collection": [
@@ -2225,10 +2277,21 @@
     "publicdate": "2022-07-20 23:31:04",
     "addeddate": "2022-07-20 23:31:04"
   },
-  "server": "ia801409.us.archive.org",
-  "uniq": 884240024,
+  "pending_tasks": true,
+  "server": "ia601409.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3359260769,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 108374228,
   "workable_servers": [
-    "ia801409.us.archive.org",
     "ia601409.us.archive.org"
   ]
 }

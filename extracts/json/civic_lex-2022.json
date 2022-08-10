@@ -1,10 +1,10 @@
 {
   "civic_lex-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
+    "url": "https://civiclex.org/",
+    "job_id": "spn2-ab5f15e727edadf7f9ef74dfa14a881c031b0622",
+    "message": "The capture will start in ~1 minute because our service is currently overloaded. You may close your browser window and the page will still be saved."
   },
-  "created": 1660049502,
+  "created": 1660092702,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/6/items/civic_lex-2022",
@@ -3191,31 +3191,93 @@
       "sha1": "9870b5290ad3308f3d4619ba07c1cfd1359a39ec"
     },
     {
+      "name": "civic_lex-2022-08-09T10:36:11.832450-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660055774",
+      "size": "12635",
+      "md5": "3bbeafaea735f0c435ad6fb55cf5c330",
+      "crc32": "88532a44",
+      "sha1": "10246b5da585e57c6f7c0456cba9dfe5cdb2d688",
+      "format": "JSON"
+    },
+    {
+      "name": "civic_lex-2022-08-09T10:36:11.832450-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660055775",
+      "size": "9608",
+      "md5": "fb8b8d9db6e8c889300542ec7d40c3cd",
+      "crc32": "08fc8e60",
+      "sha1": "b1dd823f10a50c321dfb45717f0418b234ddf8d4",
+      "format": "JSON"
+    },
+    {
+      "name": "civic_lex-2022-08-09T10:36:11.832450-04:00.jpg",
+      "source": "original",
+      "mtime": "1660055772",
+      "size": "156474",
+      "md5": "1970622dc4449813ad986857d8cc2a14",
+      "crc32": "f466910d",
+      "sha1": "9e6a54e0aba69f48b4beeb59d9cc00685b24bf00",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "civic_lex-2022-08-09T10:36:11.832450-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660055777",
+      "size": "1477",
+      "md5": "340fd1c4fd1966bd7bf1995d030a74f6",
+      "crc32": "b24423a3",
+      "sha1": "7efb9a0ddcfc8d240f22d0971447ab8774e38368",
+      "format": "JSON"
+    },
+    {
+      "name": "civic_lex-2022-08-09T10:36:11.832450-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660055778",
+      "size": "262",
+      "md5": "c7c93db14965a5e49f39105e541571f9",
+      "crc32": "39effabb",
+      "sha1": "1d8f88927a6535962e1ccd2edecabe7247e3d8b6",
+      "format": "JSON"
+    },
+    {
+      "name": "civic_lex-2022-08-09T10:36:11.832450-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "civic_lex-2022-08-09T10:36:11.832450-04:00.jpg",
+      "mtime": "1660056041",
+      "size": "8763",
+      "md5": "fdd8d5c46f6da9c556de413249b24428",
+      "crc32": "05babe80",
+      "sha1": "9870b5290ad3308f3d4619ba07c1cfd1359a39ec"
+    },
+    {
       "name": "civic_lex-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ea5118fa07f93cfe1bc67f1b26e25319ec71f87b",
-      "mtime": "1660011996",
-      "size": "65443",
-      "md5": "b55066d3d540f3e1d19f6113771aef2a",
-      "crc32": "bfb48286",
-      "sha1": "ab644828ab77df443d83ab154072a2a7d366f699",
+      "btih": "ce047fd2ac75bb1fff1a38859ec563268be2aad6",
+      "mtime": "1660056046",
+      "size": "66693",
+      "md5": "96125d482e9347ace02d97c51165841a",
+      "crc32": "2696b43a",
+      "sha1": "265d1d3ba5506f3dc87efcaba9d9bb6037400be3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "civic_lex-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "76c8a74c1f47a52023dc1d6eb2dfe86b",
+      "md5": "493702f2cdf26312cac645693ea47ccf",
       "summation": "md5"
     },
     {
       "name": "civic_lex-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660011758",
-      "size": "385024",
-      "md5": "3eae5291338a17600ab3658a911e06e4",
-      "crc32": "675815ad",
-      "sha1": "87cc756107e56b753ec5b653675779eff0395a10",
+      "mtime": "1660055787",
+      "size": "393216",
+      "md5": "c92bcf3c31bb50433309fe29a6aea742",
+      "crc32": "e8acefa1",
+      "sha1": "e351a598a8527c5e11345756a2793e0a9d3da293",
       "format": "Metadata"
     },
     {
@@ -3229,9 +3291,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 309,
-  "item_last_updated": 1660011996,
-  "item_size": 12844629,
+  "files_count": 315,
+  "item_last_updated": 1660056046,
+  "item_size": 13043290,
   "metadata": {
     "identifier": "civic_lex-2022",
     "collection": [
@@ -3248,10 +3310,10 @@
     "publicdate": "2022-07-09 03:57:14",
     "addeddate": "2022-07-09 03:57:14"
   },
-  "server": "ia801507.us.archive.org",
-  "uniq": 184696581,
+  "server": "ia601507.us.archive.org",
+  "uniq": 1319842764,
   "workable_servers": [
-    "ia801507.us.archive.org",
-    "ia601507.us.archive.org"
+    "ia601507.us.archive.org",
+    "ia801507.us.archive.org"
   ]
 }

@@ -1,6 +1,5 @@
 {
-  "conflict": 1660050018,
-  "created": 1660050018,
+  "created": 1660093095,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/27/items/neheadlines-2022",
@@ -1035,24 +1034,29 @@
       "name": "neheadlines-2022-08-09T07:58:31.853839-05:00_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "neheadlines-2022-08-09T07:58:31.853839-05:00.jpg"
+      "original": "neheadlines-2022-08-09T07:58:31.853839-05:00.jpg",
+      "mtime": "1660050012",
+      "size": "10051",
+      "md5": "5cda3d11065e2a21d7b60f9d0da8763b",
+      "crc32": "d019caa1",
+      "sha1": "c76cf2ae1872c7cf4ecd0735f1099ed2f4b3d0e8"
     },
     {
       "name": "neheadlines-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cbb5d6e36fa2ca155519858ba7a3a23ffe6d6951",
-      "mtime": "1660049958",
-      "size": "22644",
-      "md5": "1cd6b30289d20d9c47bd461a2efe586f",
-      "crc32": "829263cb",
-      "sha1": "a8bf19b4daa9601062d8d9f8b8f77582dda62a8a",
+      "btih": "91e7eac4cd83b9c6b45e4ffcfc87b1206395c4d1",
+      "mtime": "1660050056",
+      "size": "22852",
+      "md5": "18cbd062a30afa548c6ac7951f56965a",
+      "crc32": "1e232b15",
+      "sha1": "47a58eb976234a4c88ea4e882458073742c593bc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "neheadlines-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c6f3accea6f03381586444d5688c65cb",
+      "md5": "613678458fe3d2491b6acea1af19056c",
       "summation": "md5"
     },
     {
@@ -1077,8 +1081,8 @@
     }
   ],
   "files_count": 104,
-  "item_last_updated": 1660049958,
-  "item_size": 8705212,
+  "item_last_updated": 1660050056,
+  "item_size": 8715471,
   "metadata": {
     "identifier": "neheadlines-2022",
     "collection": [
@@ -1095,21 +1099,14 @@
     "publicdate": "2022-08-01 06:42:14",
     "addeddate": "2022-08-01 06:42:14"
   },
-  "pending_tasks": true,
-  "server": "ia601504.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3358557210,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1153817525,
+  "neheadlines-2022": {
+    "url": "https://www.thenewsenterprise.com/",
+    "job_id": "spn2-5f8cbd869b7a5566c34178d31c028ae5db476103"
+  },
+  "server": "ia801504.us.archive.org",
+  "uniq": 2025722826,
   "workable_servers": [
+    "ia801504.us.archive.org",
     "ia601504.us.archive.org"
   ]
 }

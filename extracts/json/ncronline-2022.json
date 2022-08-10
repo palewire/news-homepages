@@ -1,6 +1,5 @@
 {
-  "conflict": 1660050018,
-  "created": 1660050018,
+  "created": 1660050576,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/12/items/ncronline-2022",
@@ -3117,24 +3116,29 @@
       "name": "ncronline-2022-08-09T07:58:31.998345-05:00_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "ncronline-2022-08-09T07:58:31.998345-05:00.jpg"
+      "original": "ncronline-2022-08-09T07:58:31.998345-05:00.jpg",
+      "mtime": "1660050013",
+      "size": "10201",
+      "md5": "06d82093e23e96e88c9ed04dc6b037d6",
+      "crc32": "cb642a3d",
+      "sha1": "b66cee526ca4bf7dc2165403a1e7db607359036d"
     },
     {
       "name": "ncronline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "93f3796fd40933c857342dba09d461d2a450c8e8",
-      "mtime": "1660049961",
-      "size": "64617",
-      "md5": "40208e4b78179211dadc21fd493e1da6",
-      "crc32": "eb955956",
-      "sha1": "f30407b3c9d93396f5b75549cc59bf19fad89160",
+      "btih": "52d0d3c4df367b9225c8ca1b8ad65c658142e770",
+      "mtime": "1660050056",
+      "size": "64823",
+      "md5": "7036d15862d92b7ddf477be00346fd97",
+      "crc32": "0cfc1044",
+      "sha1": "b672e0ce26ae77a0c915c40a4064920fad46ae7a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ncronline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fd9c80e65fa19104668b184392d2451e",
+      "md5": "20653d6e92f9248dfdf4216a04de5a50",
       "summation": "md5"
     },
     {
@@ -3159,8 +3163,8 @@
     }
   ],
   "files_count": 303,
-  "item_last_updated": 1660049961,
-  "item_size": 26649388,
+  "item_last_updated": 1660050056,
+  "item_size": 26659795,
   "metadata": {
     "identifier": "ncronline-2022",
     "collection": [
@@ -3177,21 +3181,10 @@
     "publicdate": "2022-07-09 04:01:00",
     "addeddate": "2022-07-09 04:01:00"
   },
-  "pending_tasks": true,
   "server": "ia902503.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3358557233,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 2004269856,
+  "uniq": 118472076,
   "workable_servers": [
-    "ia902503.us.archive.org"
+    "ia902503.us.archive.org",
+    "ia802503.us.archive.org"
   ]
 }

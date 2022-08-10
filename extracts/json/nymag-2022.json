@@ -1,5 +1,5 @@
 {
-  "created": 1660050071,
+  "created": 1660050500,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/29/items/nymag-2022",
@@ -3629,21 +3629,32 @@
       "format": "JSON"
     },
     {
+      "name": "nymag-2022-08-09T09:00:13.401975-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nymag-2022-08-09T09:00:13.401975-04:00.jpg",
+      "mtime": "1660050344",
+      "size": "9760",
+      "md5": "25dc284c5f3a1682754e05fbf73406c5",
+      "crc32": "4b283614",
+      "sha1": "9ef89c27ba4e4c96b7711a0c9b2e6e0ebb1c1033"
+    },
+    {
       "name": "nymag-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0452b0d57bf7c165ea0d3b94714e695b76ddd248",
-      "mtime": "1660050065",
-      "size": "73731",
-      "md5": "9ded298b51bbcd3574307858de1008fc",
-      "crc32": "696ed434",
-      "sha1": "c4aea6528c8d11e4c59aa1472ef03fbaffee395d",
+      "btih": "5622d3f5fc29518f3c11b39e21b33cc23d306139",
+      "mtime": "1660050356",
+      "size": "73932",
+      "md5": "aa05ffb3a74048249c74c1717dd0eb4a",
+      "crc32": "0b93ae8b",
+      "sha1": "6c3276032d6f19d081a973bb3e03237d01ccfdc1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nymag-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "87a9a72245278cfbf3fec075863201c3",
+      "md5": "2360a5eb810672eba98e0e67400967fb",
       "summation": "md5"
     },
     {
@@ -3667,9 +3678,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 351,
-  "item_last_updated": 1660050065,
-  "item_size": 36072634,
+  "files_count": 352,
+  "item_last_updated": 1660050356,
+  "item_size": 36082595,
   "metadata": {
     "identifier": "nymag-2022",
     "collection": [
@@ -3686,21 +3697,10 @@
     "publicdate": "2022-07-04 21:50:24",
     "addeddate": "2022-07-04 21:50:24"
   },
-  "pending_tasks": true,
-  "server": "ia601502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3358559409,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 640151161,
+  "server": "ia801502.us.archive.org",
+  "uniq": 1686493407,
   "workable_servers": [
+    "ia801502.us.archive.org",
     "ia601502.us.archive.org"
   ]
 }

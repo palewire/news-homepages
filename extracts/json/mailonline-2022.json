@@ -1,5 +1,6 @@
 {
-  "created": 1660049844,
+  "conflict": 1660092995,
+  "created": 1660092995,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/11/items/mailonline-2022",
@@ -5865,21 +5866,32 @@
       "format": "JSON"
     },
     {
+      "name": "mailonline-2022-08-09T13:56:22.915428+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mailonline-2022-08-09T13:56:22.915428+01:00.jpg",
+      "mtime": "1660049989",
+      "size": "10699",
+      "md5": "1a62e624afda93d171f7a0f1059470c8",
+      "crc32": "d24550a4",
+      "sha1": "265165c4e3eb80315dab03669427dfd7817fa286"
+    },
+    {
       "name": "mailonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4dc639eb18e75f24dc234efaaefcc4cf933dc6bb",
-      "mtime": "1660049838",
-      "size": "122493",
-      "md5": "5d3fd1e00ec2d2f79cf3d2700e26ae54",
-      "crc32": "f4a28f27",
-      "sha1": "83923f113ad43d9e2176212e461d607d21dc0ec3",
+      "btih": "ec0d67e33baec73ed3296c2aa417481f840ffc78",
+      "mtime": "1660049996",
+      "size": "122700",
+      "md5": "704156e4f07eaea72c8b7508f86cc656",
+      "crc32": "a2d10f48",
+      "sha1": "d989ecdfc6c9cf0e5e577057593957daf0fa8525",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mailonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "829aade470c6780ec0fb648832c62ee7",
+      "md5": "319f9bf3521e0a888aad3fb5cb356a3e",
       "summation": "md5"
     },
     {
@@ -5903,9 +5915,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 562,
-  "item_last_updated": 1660049838,
-  "item_size": 109024371,
+  "files_count": 563,
+  "item_last_updated": 1660049996,
+  "item_size": 109035277,
   "metadata": {
     "identifier": "mailonline-2022",
     "collection": [
@@ -5927,15 +5939,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3358555762,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3359261732,
+      "cmd": "archive.php",
+      "priority": -5,
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
     }
   ],
-  "uniq": 844242304,
+  "uniq": 2063399746,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

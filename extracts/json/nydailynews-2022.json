@@ -1,5 +1,5 @@
 {
-  "created": 1660050071,
+  "created": 1660093149,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/6/items/nydailynews-2022",
@@ -3557,21 +3557,32 @@
       "format": "JSON"
     },
     {
+      "name": "nydailynews-2022-08-09T09:00:13.058288-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nydailynews-2022-08-09T09:00:13.058288-04:00.jpg",
+      "mtime": "1660050150",
+      "size": "9426",
+      "md5": "7e1058271c073f35649c16d92b3c06b6",
+      "crc32": "0436cc5f",
+      "sha1": "a5ba4270e805070c85b800a9a2dfd5d8a39189da"
+    },
+    {
       "name": "nydailynews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "455dd4dc6848986aa21ff189ae4c7ee3be5baefd",
-      "mtime": "1660050068",
-      "size": "74349",
-      "md5": "a3c6a8576679cca541400fbdbedc37f7",
-      "crc32": "79094640",
-      "sha1": "0fc5ea2916779d2101d374e6ab3a594c5357b005",
+      "btih": "6e8b339ce0c9f55fb516db25964d141c560d88e7",
+      "mtime": "1660050159",
+      "size": "74556",
+      "md5": "f5c1a4f80361be7fe42ab57f685ff6c2",
+      "crc32": "2d7c89a0",
+      "sha1": "2be36841eefd426e4c5e57fdbafe1b20dd24b37c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nydailynews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2616c5f4dd6dea4d51ba1c92ced53149",
+      "md5": "d232b66a37c01ea014e7ad686522ed56",
       "summation": "md5"
     },
     {
@@ -3595,9 +3606,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 344,
-  "item_last_updated": 1660050068,
-  "item_size": 33714783,
+  "files_count": 345,
+  "item_last_updated": 1660050159,
+  "item_size": 33724416,
   "metadata": {
     "identifier": "nydailynews-2022",
     "collection": [
@@ -3614,21 +3625,19 @@
     "publicdate": "2022-07-04 21:50:33",
     "addeddate": "2022-07-04 21:50:33"
   },
-  "pending_tasks": true,
+  "nydailynews-2022": {
+    "url": "https://www.nydailynews.com/",
+    "job_id": "spn2-a71728204165fc44ffcada445c2e4d7572e108b1",
+    "status_ext": "error:job-failed",
+    "status": "error",
+    "resources": [],
+    "duration_sec": 0.672,
+    "message": "Job failed."
+  },
   "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3358559402,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 154818318,
+  "uniq": 1970104620,
   "workable_servers": [
-    "ia601501.us.archive.org"
+    "ia601501.us.archive.org",
+    "ia801501.us.archive.org"
   ]
 }

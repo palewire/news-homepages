@@ -1,6 +1,5 @@
 {
-  "conflict": 1660050054,
-  "created": 1660050054,
+  "created": 1660093096,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/18/items/nepalkhabar24-2022",
@@ -1870,29 +1869,51 @@
     "publicdate": "2022-07-24 20:38:33",
     "addeddate": "2022-07-24 20:38:33"
   },
-  "pending_tasks": true,
-  "server": "ia902505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "nepalkhabar24-2022": [
     {
-      "task_id": 3358557480,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "url": "https://nepalkhabar.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nepalkhabar_com-_-2022_08_09_12_23_29.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nepalkhabar_com-_-2022_08_09_12_23_29.report.json",
+      "summary": {
+        "performance": 0.29,
+        "accessibility": 0.77,
+        "best-practices": 0.75,
+        "seo": 0.81,
+        "pwa": 0.4
+      }
     },
     {
-      "task_id": 3358559029,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "url": "https://nepalkhabar.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nepalkhabar_com-_-2022_08_09_12_23_57.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nepalkhabar_com-_-2022_08_09_12_23_57.report.json",
+      "summary": {
+        "performance": 0.12,
+        "accessibility": 0.77,
+        "best-practices": 0.75,
+        "seo": 0.81,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://nepalkhabar.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nepalkhabar_com-_-2022_08_09_12_24_26.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/nepalkhabar_com-_-2022_08_09_12_24_26.report.json",
+      "summary": {
+        "performance": 0.13,
+        "accessibility": 0.77,
+        "best-practices": 0.75,
+        "seo": 0.81,
+        "pwa": 0.4
+      }
     }
   ],
-  "uniq": 1945048846,
+  "server": "ia802505.us.archive.org",
+  "uniq": 1797335357,
   "workable_servers": [
+    "ia802505.us.archive.org",
     "ia902505.us.archive.org"
   ]
 }

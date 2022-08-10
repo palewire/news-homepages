@@ -1,5 +1,5 @@
 {
-  "created": 1660050038,
+  "created": 1660078312,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/16/items/newschannelne-2022",
@@ -1177,21 +1177,32 @@
       "format": "JSON"
     },
     {
+      "name": "newschannelne-2022-08-09T07:59:46.501218-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newschannelne-2022-08-09T07:59:46.501218-05:00.jpg",
+      "mtime": "1660050187",
+      "size": "9313",
+      "md5": "a57fd164916f9802f579f3f180dee41f",
+      "crc32": "b212e717",
+      "sha1": "a9af801ca4a3ba6d11c4192c7fec6ffe6499dab2"
+    },
+    {
       "name": "newschannelne-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3a21b56eeff1ea44b9a874cc1a38f4058a05a5e5",
-      "mtime": "1660050035",
-      "size": "25754",
-      "md5": "919b1b9e8321d24da1c255712ac35d80",
-      "crc32": "0937eb7b",
-      "sha1": "997554f524990d482d52089bc8c73644d2153e94",
+      "btih": "18c27ff2443257ab3f2bb2d4475d4ef0348a1f67",
+      "mtime": "1660050190",
+      "size": "25963",
+      "md5": "0aeea399fea3bdfc3566cbf768d51c48",
+      "crc32": "27e0dd9d",
+      "sha1": "6a4208a0f457390ad2289e77e31efa22ab5a9cb6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newschannelne-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e33f0abe7da4c81cef2d17a6bb6b8e86",
+      "md5": "d4a0e7dd4690e1834fd66ebb6b8d80ba",
       "summation": "md5"
     },
     {
@@ -1215,9 +1226,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 117,
-  "item_last_updated": 1660050035,
-  "item_size": 6758910,
+  "files_count": 118,
+  "item_last_updated": 1660050190,
+  "item_size": 6768432,
   "metadata": {
     "identifier": "newschannelne-2022",
     "collection": [
@@ -1234,21 +1245,10 @@
     "publicdate": "2022-07-30 19:35:12",
     "addeddate": "2022-07-30 19:35:12"
   },
-  "pending_tasks": true,
-  "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3358558667,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1419665734,
+  "server": "ia801401.us.archive.org",
+  "uniq": 771575937,
   "workable_servers": [
+    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

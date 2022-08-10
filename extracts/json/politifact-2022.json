@@ -1,5 +1,5 @@
 {
-  "created": 1660050200,
+  "created": 1660093214,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/19/items/politifact-2022",
@@ -4961,21 +4961,32 @@
       "format": "JSON"
     },
     {
+      "name": "politifact-2022-08-09T09:02:21.000155-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "politifact-2022-08-09T09:02:21.000155-04:00.jpg",
+      "mtime": "1660050278",
+      "size": "8735",
+      "md5": "e691d40d1f32611d23ab935c138c1438",
+      "crc32": "6091fe86",
+      "sha1": "dc7c76258cbe31b4a3629b9d74aea2c809f485ff"
+    },
+    {
       "name": "politifact-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bbd2900b735e2456323ccc2e865120a1941bbbb3",
-      "mtime": "1660050195",
-      "size": "101840",
-      "md5": "9bc92fd0348fc6a0ad23d10c5d7a9de2",
-      "crc32": "c6eb4bd1",
-      "sha1": "51ca9481895f176449693c1d1ca2d322d0f342c0",
+      "btih": "11c7b82ba89f5b24b88446123e62274510f94dad",
+      "mtime": "1660050292",
+      "size": "102046",
+      "md5": "8a1858d6c726a649bada04280660fd60",
+      "crc32": "69a43375",
+      "sha1": "3d5f1a43eeccfaffcab67663afaba05e6ae84562",
       "format": "Archive BitTorrent"
     },
     {
       "name": "politifact-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1cda425bda33a629dfaa7ac2f0073d73",
+      "md5": "a44d9a1802c5e81bc9323d72657f7d9a",
       "summation": "md5"
     },
     {
@@ -4999,9 +5010,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 478,
-  "item_last_updated": 1660050195,
-  "item_size": 29886608,
+  "files_count": 479,
+  "item_last_updated": 1660050292,
+  "item_size": 29895549,
   "metadata": {
     "identifier": "politifact-2022",
     "collection": [
@@ -5018,21 +5029,14 @@
     "publicdate": "2022-06-24 22:59:30",
     "addeddate": "2022-06-24 22:59:30"
   },
-  "pending_tasks": true,
+  "politifact-2022": {
+    "url": "https://www.politifact.com/",
+    "job_id": "spn2-bdf118f78b4a174c86a8f0c2387b664d62231c3e"
+  },
   "server": "ia601407.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3358562687,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 866720575,
+  "uniq": 2037970012,
   "workable_servers": [
-    "ia601407.us.archive.org"
+    "ia601407.us.archive.org",
+    "ia801407.us.archive.org"
   ]
 }

@@ -1,6 +1,5 @@
 {
-  "conflict": 1660050309,
-  "created": 1660050309,
+  "created": 1660093328,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/15/items/scottishsun-2022",
@@ -3105,31 +3104,83 @@
       "sha1": "07fe48dfeb346cd3ed4746448f1548924066b1c1"
     },
     {
+      "name": "scottishsun-2022-08-09T14:05:05.143601+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660050310",
+      "size": "81679",
+      "md5": "38190f87049991c0dd4dd5cc358b868c",
+      "crc32": "f9fcc329",
+      "sha1": "65f3062bedc840705f5f6452e0fe8ab033188db7",
+      "format": "JSON"
+    },
+    {
+      "name": "scottishsun-2022-08-09T14:05:05.143601+01:00.jpg",
+      "source": "original",
+      "mtime": "1660050308",
+      "size": "315960",
+      "md5": "b5c66f86605a37c729133f517b81b5b6",
+      "crc32": "30585a77",
+      "sha1": "05c7a59d4322bf70605341540d9b81fdd8165d73",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "scottishsun-2022-08-09T14:05:05.143601+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660050311",
+      "size": "1549",
+      "md5": "225c9ffeb424487c2113b95b67dc8f91",
+      "crc32": "70f4a5a4",
+      "sha1": "d23631194fca1e4837301f654a8410fe96cfe43f",
+      "format": "JSON"
+    },
+    {
+      "name": "scottishsun-2022-08-09T14:05:05.143601+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1660050314",
+      "size": "240",
+      "md5": "edafa735ec81bbdb5536ee77ecd3c252",
+      "crc32": "c78854bd",
+      "sha1": "13ada9c428440c92ac7175ddb0e157d187fb883f",
+      "format": "JSON"
+    },
+    {
+      "name": "scottishsun-2022-08-09T14:05:05.143601+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "scottishsun-2022-08-09T14:05:05.143601+01:00.jpg",
+      "mtime": "1660050575",
+      "size": "10968",
+      "md5": "237ea877d4a3adfe4ea1aab82086d2cf",
+      "crc32": "b671453d",
+      "sha1": "caa5ad4dbfb8470b477cd0700a86d008d65192be"
+    },
+    {
       "name": "scottishsun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b0beb2fdba3354d1ee9b2d66c6be69c1d14ed521",
-      "mtime": "1660006899",
-      "size": "65314",
-      "md5": "db917f8a12aee38a5e2c85a75f96e809",
-      "crc32": "a6c58276",
-      "sha1": "215ed53440fab0473e9074a73099a539fdd91dc7",
+      "btih": "9cdb9f505e2cb8fd9a7d70760ff291750c0fc799",
+      "mtime": "1660050580",
+      "size": "66384",
+      "md5": "b7998c3f98edc84e03ed16b2dd1cff16",
+      "crc32": "5259b1d7",
+      "sha1": "0a0d8943c3fe6b643ba8383f2f0b1a03a1850cd0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "scottishsun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "89d595fc8807495fb05fab3b7b2919c6",
+      "md5": "0c07cdc66bb1836d87cfe653461aefe3",
       "summation": "md5"
     },
     {
       "name": "scottishsun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660006817",
-      "size": "376832",
-      "md5": "cad3f2b095ebee05616bef2ac3cdb346",
-      "crc32": "5ffeaa30",
-      "sha1": "6870bf0c9329f8ff44762663b0e99421cfd40410",
+      "mtime": "1660050318",
+      "size": "380928",
+      "md5": "ee023f5f48b98522e797bc139cbbfb1b",
+      "crc32": "fb9b8c7d",
+      "sha1": "8165032cd91d32f777a51104399b589ce75b934d",
       "format": "Metadata"
     },
     {
@@ -3143,9 +3194,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 301,
-  "item_last_updated": 1660006899,
-  "item_size": 32158183,
+  "files_count": 306,
+  "item_last_updated": 1660050580,
+  "item_size": 32573745,
   "metadata": {
     "identifier": "scottishsun-2022",
     "collection": [
@@ -3162,21 +3213,15 @@
     "publicdate": "2022-07-10 15:44:24",
     "addeddate": "2022-07-10 15:44:24"
   },
-  "pending_tasks": true,
-  "server": "ia601509.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3358565139,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1763825973,
+  "scottishsun-2022": {
+    "url": "https://www.thescottishsun.co.uk/",
+    "job_id": "spn2-48a6162cc1151b58a50840005e2fd5e074336194",
+    "message": "The same snapshot had been made 17 minutes, 30 seconds ago. You can make new capture of this URL after 45 minutes."
+  },
+  "server": "ia801509.us.archive.org",
+  "uniq": 462628982,
   "workable_servers": [
+    "ia801509.us.archive.org",
     "ia601509.us.archive.org"
   ]
 }

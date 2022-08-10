@@ -1,6 +1,5 @@
 {
-  "conflict": 1660050061,
-  "created": 1660050061,
+  "created": 1660093103,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/14/items/news3lv-2022",
@@ -3348,21 +3347,32 @@
       "format": "JSON"
     },
     {
+      "name": "news3lv-2022-08-09T05:58:29.796845-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "news3lv-2022-08-09T05:58:29.796845-07:00.jpg",
+      "mtime": "1660050063",
+      "size": "10248",
+      "md5": "669d15b18b033783790c9c81b89bdb1b",
+      "crc32": "10490350",
+      "sha1": "a91889a2c1a4172d1e219a6fce1f366114ad098f"
+    },
+    {
       "name": "news3lv-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8ddaef25d3fecd84519c7ca48020d23d1c9931d9",
-      "mtime": "1660049955",
-      "size": "68698",
-      "md5": "b8a3ee487ec3a4df62e788a65a46a21f",
-      "crc32": "8b349486",
-      "sha1": "34c911bb48701af441dc54dae8a85ce6171e6258",
+      "btih": "eb0ef8d861742563a0b2a776b599f3f19aeeac7f",
+      "mtime": "1660050078",
+      "size": "68902",
+      "md5": "dd9c91da400d000b748ef3d4a356b457",
+      "crc32": "125949f8",
+      "sha1": "07e1dcad7b50daf1bc6bf0be062a2ecf923b3e3b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "news3lv-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b2223766f710cab881d8952aba104902",
+      "md5": "8d1d558fc46a9c8eab1ad721707dd7eb",
       "summation": "md5"
     },
     {
@@ -3386,9 +3396,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 324,
-  "item_last_updated": 1660049955,
-  "item_size": 30810411,
+  "files_count": 325,
+  "item_last_updated": 1660050078,
+  "item_size": 30820863,
   "metadata": {
     "identifier": "news3lv-2022",
     "collection": [
@@ -3405,21 +3415,51 @@
     "publicdate": "2022-07-04 21:49:25",
     "addeddate": "2022-07-04 21:49:25"
   },
-  "pending_tasks": true,
-  "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "news3lv-2022": [
     {
-      "task_id": 3358557180,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "url": "https://news3lv.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/news3lv_com-_-2022_08_09_12_24_03.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/news3lv_com-_-2022_08_09_12_24_03.report.json",
+      "summary": {
+        "performance": 0.05,
+        "accessibility": 0.93,
+        "best-practices": 0.83,
+        "seo": 0.84,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://news3lv.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/news3lv_com-_-2022_08_09_12_24_27.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/news3lv_com-_-2022_08_09_12_24_27.report.json",
+      "summary": {
+        "performance": 0.05,
+        "accessibility": 0.93,
+        "best-practices": 0.83,
+        "seo": 0.84,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://news3lv.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/news3lv_com-_-2022_08_09_12_24_46.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/news3lv_com-_-2022_08_09_12_24_46.report.json",
+      "summary": {
+        "performance": 0.08,
+        "accessibility": 0.93,
+        "best-practices": 0.83,
+        "seo": 0.84,
+        "pwa": 0.3
+      }
     }
   ],
-  "uniq": 1092915128,
+  "server": "ia601505.us.archive.org",
+  "uniq": 1805865209,
   "workable_servers": [
-    "ia601505.us.archive.org"
+    "ia601505.us.archive.org",
+    "ia801505.us.archive.org"
   ]
 }

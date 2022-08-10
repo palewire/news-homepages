@@ -1,5 +1,6 @@
 {
-  "created": 1660049871,
+  "conflict": 1660093033,
+  "created": 1660093033,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/28/items/minnpost-2022",
@@ -9665,21 +9666,32 @@
       "format": "JSON"
     },
     {
+      "name": "minnpost-2022-08-09T07:56:48.987918-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "minnpost-2022-08-09T07:56:48.987918-05:00.jpg",
+      "mtime": "1660050183",
+      "size": "9982",
+      "md5": "a7165d9bc46efa7e0d28516f02dfefee",
+      "crc32": "b967de21",
+      "sha1": "f86d6bd867d222a2cfc4222b258d468da2c4d7f9"
+    },
+    {
       "name": "minnpost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fe99371d4b863181ce62444157dfea87e35bc5a3",
-      "mtime": "1660049868",
-      "size": "196042",
-      "md5": "623760382c7f4e04816901c753bc5701",
-      "crc32": "4d7c33ad",
-      "sha1": "b3709d095d8651dc63c59887c42aff1f63e162f6",
+      "btih": "3a406fc5b562b98db7a5221b6c55ea440237161b",
+      "mtime": "1660050194",
+      "size": "196246",
+      "md5": "b06c2aaec63951a6a4afeed5ce41b071",
+      "crc32": "ef2d8ea6",
+      "sha1": "e19071596d380dd33e863df61d9d6bf1a800053e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "minnpost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "290dbc7d7c0e7c631da92011d84a56e0",
+      "md5": "06bef98caf79ec5ea6f1a342c5bacf19",
       "summation": "md5"
     },
     {
@@ -9703,9 +9715,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 926,
-  "item_last_updated": 1660049868,
-  "item_size": 86719365,
+  "files_count": 927,
+  "item_last_updated": 1660050194,
+  "item_size": 86729551,
   "metadata": {
     "identifier": "minnpost-2022",
     "collection": [
@@ -9727,15 +9739,23 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3358556189,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3359262431,
+      "cmd": "archive.php",
+      "priority": -5,
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
+    },
+    {
+      "task_id": 3359262539,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 641417632,
+  "uniq": 469979255,
   "workable_servers": [
     "ia902502.us.archive.org"
   ]

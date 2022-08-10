@@ -1,6 +1,5 @@
 {
-  "conflict": 1660050143,
-  "created": 1660050143,
+  "created": 1660093157,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/8/items/nzstuff-2022",
@@ -564,21 +563,32 @@
       "format": "JSON"
     },
     {
+      "name": "nzstuff-2022-08-10T01:00:10.551832+12:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nzstuff-2022-08-10T01:00:10.551832+12:00.jpg",
+      "mtime": "1660050146",
+      "size": "9175",
+      "md5": "e3bee6dc2d90b147b74d730344057874",
+      "crc32": "8a688351",
+      "sha1": "027b88e1f8ee060ec7f1028b910f3ee587ce984a"
+    },
+    {
       "name": "nzstuff-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bc7b27b7549fb293f45939384e48304076ce673a",
-      "mtime": "1660050062",
-      "size": "12700",
-      "md5": "aa43ee7ca01dcf3e481717e9f721568d",
-      "crc32": "4303145d",
-      "sha1": "6cba8833c0231e51161caf0882211438a3736de1",
+      "btih": "97cea8b3dd3b2df9ec942dd77227d9df5ba28b98",
+      "mtime": "1660050152",
+      "size": "12923",
+      "md5": "cbfe3afb48748a96f74459e20cd62b99",
+      "crc32": "3b77ea8a",
+      "sha1": "3928fe89e32d0da73f26e557c980c0973f3e39c4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nzstuff-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "14210643575a4b1899275138061dd0bb",
+      "md5": "280ef14aa0cbf9cb6b27116adc3a3340",
       "summation": "md5"
     },
     {
@@ -602,9 +612,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 58,
-  "item_last_updated": 1660050062,
-  "item_size": 4199819,
+  "files_count": 59,
+  "item_last_updated": 1660050152,
+  "item_size": 4209217,
   "metadata": {
     "identifier": "nzstuff-2022",
     "collection": [
@@ -621,21 +631,19 @@
     "publicdate": "2022-08-05 12:42:19",
     "addeddate": "2022-08-05 12:42:19"
   },
-  "pending_tasks": true,
-  "server": "ia601408.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3358559286,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 912435205,
+  "nzstuff-2022": {
+    "url": "https://www.stuff.co.nz/",
+    "job_id": "spn2-9d9fcbbdb75cd9a542fa0191d49c5512c24e4f72",
+    "status_ext": "error:job-failed",
+    "message": "Job failed.",
+    "status": "error",
+    "resources": [],
+    "duration_sec": 0.576
+  },
+  "server": "ia801408.us.archive.org",
+  "uniq": 828587864,
   "workable_servers": [
+    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ]
 }
