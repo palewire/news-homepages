@@ -3,7 +3,7 @@
 
 # Bundle directory
 
-The archiving routine is currently organized into 53 bundles of sites.
+The archiving routine is currently organized into 54 bundles of sites.
 
 | Bundle  | RSS |
 | :-----  | :-- |
@@ -24,6 +24,7 @@ The archiving routine is currently organized into 53 bundles of sites.
 |[India](https://palewi.re/docs/news-homepages/bundles/india.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/india.xml)|
 |[Iowa](https://palewi.re/docs/news-homepages/bundles/iowa.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/iowa.xml)|
 |[Ireland](https://palewi.re/docs/news-homepages/bundles/ireland.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/ireland.xml)|
+|[Italy](https://palewi.re/docs/news-homepages/bundles/italy.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/italy.xml)|
 |[Japan](https://palewi.re/docs/news-homepages/bundles/japan.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/japan.xml)|
 |[Kansas](https://palewi.re/docs/news-homepages/bundles/kansas.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/kansas.xml)|
 |[Kentucky](https://palewi.re/docs/news-homepages/bundles/kentucky.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/kentucky.xml)|

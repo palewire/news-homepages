@@ -3,7 +3,7 @@
 
 # Latest screenshots
 
-The most recent homepages captured from 772 news sites.
+The most recent homepages captured from 780 news sites.
 
 <div class="latest-parent">
 
@@ -203,6 +203,15 @@ The most recent homepages captured from 772 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/atlblog.html">Above the Law</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/adnkronos.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/adnkronos.jpg"
+     alt="Adnkronos"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/adnkronos.html">Adnkronos</a></p>
 </div>
 
 <div class="latest-child">
@@ -806,6 +815,15 @@ The most recent homepages captured from 772 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/bfmtv.html">BFMTV</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/bild.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bild.jpg"
+     alt="Bild"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/bild.html">Bild</a></p>
 </div>
 
 <div class="latest-child">
@@ -1547,6 +1565,15 @@ The most recent homepages captured from 772 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/corriere.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/corriere.jpg"
+     alt="Corriere della Sera"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/corriere.html">Corriere della Sera</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/cqnow.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cqnow.jpg"
      alt="CQ"
@@ -1898,6 +1925,15 @@ The most recent homepages captured from 772 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/derspiegel.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/derspiegel.jpg"
+     alt="Der Spiegel"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/derspiegel.html">Der Spiegel</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/dmregister.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dmregister.jpg"
      alt="Des Moines Register"
@@ -2021,6 +2057,15 @@ The most recent homepages captured from 772 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/telegraphherald.html">Dubuque Telegraph Herald</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/dwnews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dwnews.jpg"
+     alt="DW"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/dwnews.html">DW</a></p>
 </div>
 
 <div class="latest-child">
@@ -3524,6 +3569,15 @@ The most recent homepages captured from 772 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/larazon_es.html">La Razón</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/lastampa.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lastampa.jpg"
+     alt="La Stampa"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/lastampa.html">La Stampa</a></p>
 </div>
 
 <div class="latest-child">
@@ -5174,6 +5228,15 @@ The most recent homepages captured from 772 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/repubblica.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/repubblica.jpg"
+     alt="Repubblica"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/repubblica.html">Repubblica</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/restofworld.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/restofworld.jpg"
      alt="Rest of World"
@@ -5765,6 +5828,15 @@ The most recent homepages captured from 772 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/nzstuff.html">Stuff</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/sz.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sz.jpg"
+     alt="Süddeutsche Zeitung"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/sz.html">Süddeutsche Zeitung</a></p>
 </div>
 
 <div class="latest-child">
