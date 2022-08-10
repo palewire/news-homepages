@@ -355,15 +355,19 @@ def _get_json_url(url):
     output_path = cache_dir / urlparse(url).path.split("/")[-1]
     if output_path.exists():
         print(f":book: Reading in cached file {output_path}")
-        return pd.read_csv(output_path)
+        return pd.read_json(output_path)
+    else:
+        # Get the URL
+        print(f":link: Downloading {url}")
+        r = requests.get(url)
+        data = r.json()
 
-    # Get the URL
-    print(f":link: Downloading {url}")
-    r = requests.get(url)
-    data = r.json()
+        # Parse as a dataframe
+        df = pd.DataFrame(data)
 
-    # Parse as a dataframe
-    df = pd.DataFrame(data)
+        # Write to cache
+        df.to_json(output_path, orient="records", indent=2)
+        print(f":pencil: Writing to cached file {output_path}")
 
     # Add columns
     metadata = utils.parse_archive_url(url)
@@ -371,9 +375,6 @@ def _get_json_url(url):
     df["item_identifier"] = metadata["identifier"]
     df["file_timestamp"] = metadata["timestamp"]
     df["file_url"] = url
-
-    # Write to cache
-    df.to_csv(output_path, index=False)
 
     # Return dataframe
     return df
