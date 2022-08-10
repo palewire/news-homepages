@@ -3,6 +3,7 @@ import json
 import os
 import time
 from datetime import datetime
+from urllib.parse import urlparse
 
 import click
 import internetarchive
@@ -125,7 +126,7 @@ def download_hyperlinks(handle):
         return
 
     # Go get the files
-    for url in missing_files:
+    for url in sorted(missing_files):
         df = _get_json_url(url)
         output_df = pd.concat([output_df, df])
         time.sleep(1)
@@ -346,6 +347,16 @@ def consolidate():
 
 
 def _get_json_url(url):
+    # Prepare a cache
+    cache_dir = utils.THIS_DIR.parent / ".cache"
+    cache_dir.mkdir(parents=True, exist_ok=True)
+
+    # Check if the file has been downloaded
+    output_path = cache_dir / urlparse(url).path.split("/")[-1]
+    if output_path.exists():
+        print(f":book: Reading in cached file {output_path}")
+        return pd.read_csv(output_path)
+
     # Get the URL
     print(f":link: Downloading {url}")
     r = requests.get(url)
@@ -360,6 +371,9 @@ def _get_json_url(url):
     df["item_identifier"] = metadata["identifier"]
     df["file_timestamp"] = metadata["timestamp"]
     df["file_url"] = url
+
+    # Write to cache
+    df.to_csv(output_path, index=False)
 
     # Return dataframe
     return df
