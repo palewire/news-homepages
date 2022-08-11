@@ -1,6 +1,5 @@
 {
-  "conflict": 1660092980,
-  "created": 1660092980,
+  "created": 1660179183,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/5/items/le_figaro-2022",
@@ -11293,31 +11292,268 @@
       "sha1": "933576d27b970d409a75c6ba63cdafdf7722f32c"
     },
     {
+      "name": "le_figaro-2022-08-10T02:55:50.847472+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660092975",
+      "size": "97855",
+      "md5": "4a1eff87f24523a48b7299b51a49b797",
+      "crc32": "dfaf78e0",
+      "sha1": "99b2d6ab7024b119f74efbc06ad08b72f66b409d",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-08-10T02:55:50.847472+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660092977",
+      "size": "114001",
+      "md5": "c36ce6df10bb5da65497882a0357abea",
+      "crc32": "5a037928",
+      "sha1": "444a34e57e1190a117fba85ad61674f3dbe57c43",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-08-10T02:55:50.847472+02:00.jpg",
+      "source": "original",
+      "mtime": "1660092973",
+      "size": "320532",
+      "md5": "5f89f4f3acc7cec42cce2514d73d39be",
+      "crc32": "463a2b17",
+      "sha1": "a17a9997b0302a4dd425cb0c882a45766e479bef",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "le_figaro-2022-08-10T02:55:50.847472+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660092978",
+      "size": "1467",
+      "md5": "078512ef440377b8f1038ab727150663",
+      "crc32": "695dc329",
+      "sha1": "800c0d248a2929a434f2dcca4024cb0eb6b2c677",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-08-10T02:55:50.847472+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1660092980",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-08-10T02:55:50.847472+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "le_figaro-2022-08-10T02:55:50.847472+02:00.jpg",
+      "mtime": "1660093251",
+      "size": "10003",
+      "md5": "93d54957c5bf69ea6b3adede9e5c6b40",
+      "crc32": "3e2268c9",
+      "sha1": "7d3ecc7ff64c94829807a8d4a56d85c59dcc0bf6"
+    },
+    {
+      "name": "le_figaro-2022-08-10T10:10:38.305802+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660119046",
+      "size": "97107",
+      "md5": "63e9d601952c046d9e7a97fd6fb06aee",
+      "crc32": "fa34caa6",
+      "sha1": "104509d4b75f8b9595797d311281e72801a03835",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-08-10T10:10:38.305802+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660119047",
+      "size": "112978",
+      "md5": "a7069b72109ae3828185f4a64a59e35e",
+      "crc32": "67b35657",
+      "sha1": "1226acba5104dd8d240459d86aceb3f2e62702ca",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-08-10T10:10:38.305802+02:00.jpg",
+      "source": "original",
+      "mtime": "1660119045",
+      "size": "265332",
+      "md5": "99040b0dc269c28ac0d9ca23aa20e067",
+      "crc32": "b682281e",
+      "sha1": "fddb266056633627968eb3164bc15c7fecc5146c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "le_figaro-2022-08-10T10:10:38.305802+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660119049",
+      "size": "1467",
+      "md5": "838c9dcd4c6b6b035e6fa8466cb6bfc2",
+      "crc32": "79837657",
+      "sha1": "74e2904536f8305c784b79e5e90e5bfff04704d1",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-08-10T10:10:38.305802+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1660119050",
+      "size": "100",
+      "md5": "445e05b6139cb382973afe008efb219a",
+      "crc32": "544b30b9",
+      "sha1": "61d69c71738fb17f3a3c927c745b0eeb7a727d1f",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-08-10T10:10:38.305802+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "le_figaro-2022-08-10T10:10:38.305802+02:00.jpg",
+      "mtime": "1660119240",
+      "size": "9715",
+      "md5": "54a50b91d2ad3adcc10232907fa322d9",
+      "crc32": "4d7f6389",
+      "sha1": "84847c66e2d7220f339d7725ac99c67b44333692"
+    },
+    {
+      "name": "le_figaro-2022-08-10T15:09:30.613834+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660136981",
+      "size": "98427",
+      "md5": "154486a9e2d6f6c20317c4f735c7f6d3",
+      "crc32": "db108ab5",
+      "sha1": "76de4f140f39fc59f048a1927cad0196d150d64a",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-08-10T15:09:30.613834+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660136983",
+      "size": "114425",
+      "md5": "83112e2d47cb6aad49c8b1da7feab60e",
+      "crc32": "2f3c27ae",
+      "sha1": "68dd3e2c3770d885e07dc95dc11cbe497d6f2eaa",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-08-10T15:09:30.613834+02:00.jpg",
+      "source": "original",
+      "mtime": "1660136980",
+      "size": "286409",
+      "md5": "a0c5e36607d0025d74ad21a36d196237",
+      "crc32": "3b80cd2f",
+      "sha1": "b10d30499404bbb3104d7adda77408ba29c35fc6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "le_figaro-2022-08-10T15:09:30.613834+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660136985",
+      "size": "1468",
+      "md5": "f1fb9e45433c6efe0a8c0e89bab81cd7",
+      "crc32": "26916a1d",
+      "sha1": "f5e6797a99183bc0f628392f30e4a3d429b5b58d",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-08-10T15:09:30.613834+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1660136986",
+      "size": "100",
+      "md5": "445e05b6139cb382973afe008efb219a",
+      "crc32": "544b30b9",
+      "sha1": "61d69c71738fb17f3a3c927c745b0eeb7a727d1f",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-08-10T15:09:30.613834+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "le_figaro-2022-08-10T15:09:30.613834+02:00.jpg",
+      "mtime": "1660137181",
+      "size": "9631",
+      "md5": "f84d31fcf24e46859cd9fb699fa58407",
+      "crc32": "4f8f3f0c",
+      "sha1": "2a122cd246db351a15f9ae7c0b1e25122ae75c72"
+    },
+    {
+      "name": "le_figaro-2022-08-11T02:51:46.980189+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660179116",
+      "size": "94818",
+      "md5": "6456c20cd416d433238a3260b96fda7f",
+      "crc32": "2efbf360",
+      "sha1": "61e01c624cca1ec6c07f64dfa63dc189e84dac60",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-08-11T02:51:46.980189+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660179117",
+      "size": "108422",
+      "md5": "9dbeca9678b1e5301829c8ca3cbc6b01",
+      "crc32": "35466ff1",
+      "sha1": "268b80826834f644a4548fe64675991d22601c2e",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-08-11T02:51:46.980189+02:00.jpg",
+      "source": "original",
+      "mtime": "1660179114",
+      "size": "326454",
+      "md5": "66c0dc64690c93786a51fd5516d20346",
+      "crc32": "a62bcabe",
+      "sha1": "c0c4bd32d80fce559377ff9338b7608d449926bd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "le_figaro-2022-08-11T02:51:46.980189+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660179119",
+      "size": "1468",
+      "md5": "9952f6e3da54618b2c081561f8a4f0ab",
+      "crc32": "ce8449bc",
+      "sha1": "fe54d88478a2708d4421a1bc90680b6c9d4923dc",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-08-11T02:51:46.980189+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1660179121",
+      "size": "266",
+      "md5": "055c9a916be8d0ddf7438a2169b70504",
+      "crc32": "5a9e4721",
+      "sha1": "ba55fbae8e83ec14d59e738e4414fda89108509c",
+      "format": "JSON"
+    },
+    {
       "name": "le_figaro-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dcf1c782b3d394c17c9eb5ea5f2b38718ce5a97e",
-      "mtime": "1660049853",
-      "size": "231329",
-      "md5": "856ee8b2ada5e2f3a49afd037c9b91f2",
-      "crc32": "fe872715",
-      "sha1": "2459d9db45508184dde75b62dbb9bd90ad2f92f9",
+      "btih": "42d4cc6accbb3fd60319146e4c751896c6fc0b64",
+      "mtime": "1660179176",
+      "size": "236213",
+      "md5": "358f05de3e3402ecddb72b6a7caf80d7",
+      "crc32": "a84e9307",
+      "sha1": "bc3417640078e4ba67a6e2d66fe4feacddb483ed",
       "format": "Archive BitTorrent"
     },
     {
       "name": "le_figaro-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c56a6074511a09f04dff252d4599a625",
+      "md5": "fb7e50e36f14ec714a99f73aaed54fec",
       "summation": "md5"
     },
     {
       "name": "le_figaro-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660049723",
-      "size": "1269760",
-      "md5": "2e45b60439f2d8b17609a3df2c9d8613",
-      "crc32": "2b953f42",
-      "sha1": "212e6a9a475c48e8ab2ccbc983c3e15142d96ccb",
+      "mtime": "1660179126",
+      "size": "1306624",
+      "md5": "4e1c338ab6e000fe3aa601ca062190d4",
+      "crc32": "ad1a6d8b",
+      "sha1": "a03631c26a3c2d4dff16f737b611b869daa24cf4",
       "format": "Metadata"
     },
     {
@@ -11331,9 +11567,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1082,
-  "item_last_updated": 1660049853,
-  "item_size": 129082446,
+  "files_count": 1105,
+  "item_last_updated": 1660179176,
+  "item_size": 131196841,
   "metadata": {
     "identifier": "le_figaro-2022",
     "collection": [
@@ -11355,15 +11591,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3359261347,
-      "cmd": "archive.php",
-      "priority": -5,
+      "task_id": 3360656865,
+      "cmd": "derive.php",
+      "priority": -6,
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
     }
   ],
-  "uniq": 152537279,
+  "uniq": 695226052,
   "workable_servers": [
     "ia902501.us.archive.org"
   ]

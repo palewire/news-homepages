@@ -1,5 +1,5 @@
 {
-  "created": 1660067998,
+  "created": 1660156395,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/14/items/thejournal_ie-2022",
@@ -2368,31 +2368,155 @@
       "sha1": "7877b9b3be6fbbd220e5f189b8c8990ed80b0aa0"
     },
     {
+      "name": "thejournal_ie-2022-08-10T06:34:59.259738+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660109705",
+      "size": "64163",
+      "md5": "5be58bdd4637a6e38c4dfb8c4e3010cc",
+      "crc32": "cd3c1bee",
+      "sha1": "1491f95a07b44deef0140bdbb57ed3f48fbd57ad",
+      "format": "JSON"
+    },
+    {
+      "name": "thejournal_ie-2022-08-10T06:34:59.259738+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660109707",
+      "size": "61505",
+      "md5": "271bee72d91007e09fdda74592f6d4f4",
+      "crc32": "d573c34e",
+      "sha1": "f2e3ca82b345c51a8a3391b047c91c9b0f2d3bc7",
+      "format": "JSON"
+    },
+    {
+      "name": "thejournal_ie-2022-08-10T06:34:59.259738+01:00.jpg",
+      "source": "original",
+      "mtime": "1660109703",
+      "size": "302296",
+      "md5": "9a328ef8aa693657af51f77c77371f57",
+      "crc32": "31bb2670",
+      "sha1": "a710f01a42b402460f7db88b0d684c277cb4d397",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thejournal_ie-2022-08-10T06:34:59.259738+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660109709",
+      "size": "1486",
+      "md5": "40c87426490dcb7ca274409b6f156470",
+      "crc32": "3ed66f96",
+      "sha1": "723fd5164fe3a01c268e7fd2c8a75187cf5656d8",
+      "format": "JSON"
+    },
+    {
+      "name": "thejournal_ie-2022-08-10T06:34:59.259738+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1660109711",
+      "size": "17882",
+      "md5": "619b9a1add94196f322c57f162f55b7c",
+      "crc32": "a472473c",
+      "sha1": "807565e2fc0acca2ec9352621d32c78f1f2847d1",
+      "format": "JSON"
+    },
+    {
+      "name": "thejournal_ie-2022-08-10T06:34:59.259738+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thejournal_ie-2022-08-10T06:34:59.259738+01:00.jpg",
+      "mtime": "1660109785",
+      "size": "9569",
+      "md5": "ff587463826b2e3829d2ab2ba424d48f",
+      "crc32": "0642ae3f",
+      "sha1": "0bf9547c87c8b58567ece8b084508f123c8aa0ae"
+    },
+    {
+      "name": "thejournal_ie-2022-08-10T19:25:57.577473+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660155975",
+      "size": "64313",
+      "md5": "88c61b44b49fc66e41c417e9d79d4169",
+      "crc32": "d1da15e6",
+      "sha1": "cb3b9e11d000426ad6e290c584a778901b822882",
+      "format": "JSON"
+    },
+    {
+      "name": "thejournal_ie-2022-08-10T19:25:57.577473+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660155982",
+      "size": "61298",
+      "md5": "df9e782e0d93e96a514d4b862284e863",
+      "crc32": "d3da1319",
+      "sha1": "67481e81f87d17f7dc249fda485166f54c9cfb85",
+      "format": "JSON"
+    },
+    {
+      "name": "thejournal_ie-2022-08-10T19:25:57.577473+01:00.jpg",
+      "source": "original",
+      "mtime": "1660155967",
+      "size": "306551",
+      "md5": "069537b6e9036849cf25d66ac954bb4b",
+      "crc32": "31f917e4",
+      "sha1": "72f387b39ef8cfab80c9f0c39a741a4c76c8db28",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thejournal_ie-2022-08-10T19:25:57.577473+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660155988",
+      "size": "1486",
+      "md5": "8877199a8ce21e20d9b28ac0134e2a52",
+      "crc32": "3dfe0e44",
+      "sha1": "ad5147757000bafbc6092acb1eb75fa764f5dbb6",
+      "format": "JSON"
+    },
+    {
+      "name": "thejournal_ie-2022-08-10T19:25:57.577473+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1660155993",
+      "size": "102",
+      "md5": "4c17085b13c95e79bb23a492cc17ef7c",
+      "crc32": "0be6fd90",
+      "sha1": "60f91fc8d80f09623d3c246dca6a4b346ce3a90a",
+      "format": "JSON"
+    },
+    {
+      "name": "thejournal_ie-2022-08-10T19:25:57.577473+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thejournal_ie-2022-08-10T19:25:57.577473+01:00.jpg",
+      "mtime": "1660156381",
+      "size": "9343",
+      "md5": "9f0acb2b48104aff177d74ca69ac0724",
+      "crc32": "7034704b",
+      "sha1": "bbc22ff4b4669354d87741892f2c8b14de6b6476"
+    },
+    {
       "name": "thejournal_ie-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1b24962f32064266ba1f03117ac384c856c96ec5",
-      "mtime": "1660067987",
-      "size": "50519",
-      "md5": "4a16fb493174766d788c8915a0283dd8",
-      "crc32": "6265a94f",
-      "sha1": "cc09bfe1306e8d980c1158fa6c031f41b9756849",
+      "btih": "ab5e77d9552cf2132a90e4852d40b824c9ccf3a7",
+      "mtime": "1660156385",
+      "size": "53111",
+      "md5": "37a68d3c442f80013055b1ac1bac7374",
+      "crc32": "5b8764c2",
+      "sha1": "532d895289086f94dc53cf2132e180d0483a6e7f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thejournal_ie-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "307d46b262ea76c417897b10c390085b",
+      "md5": "0df8a28a7490a622f5a41cd0865137b6",
       "summation": "md5"
     },
     {
       "name": "thejournal_ie-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660067811",
-      "size": "294912",
-      "md5": "dc316f0dbf7eaad72ea02de5667711a1",
-      "crc32": "a1003c90",
-      "sha1": "0f9a0b07616c3cd210195058a36fbb1090e22bd9",
+      "mtime": "1660156257",
+      "size": "315392",
+      "md5": "038fb5e1ad423c5c0e39ac8c22b349d2",
+      "crc32": "acaa3c72",
+      "sha1": "141cbf337201625d5e4d8c158da79855c50f8e42",
       "format": "Metadata"
     },
     {
@@ -2406,9 +2530,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 231,
-  "item_last_updated": 1660067987,
-  "item_size": 20980425,
+  "files_count": 243,
+  "item_last_updated": 1660156385,
+  "item_size": 21903491,
   "metadata": {
     "identifier": "thejournal_ie-2022",
     "collection": [
@@ -2426,7 +2550,7 @@
     "addeddate": "2022-07-18 04:17:36"
   },
   "server": "ia902502.us.archive.org",
-  "uniq": 2111912912,
+  "uniq": 113719618,
   "workable_servers": [
     "ia902502.us.archive.org",
     "ia802502.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1660088075,
+  "created": 1660178998,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/9/items/freebeacon-2022",
@@ -3616,31 +3616,217 @@
       "sha1": "2e1b0658af68521f05f84a29f7b440f07c7c5ad9"
     },
     {
+      "name": "freebeacon-2022-08-10T09:00:45.099078-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660136452",
+      "size": "15746",
+      "md5": "9a8808b603bef99ff3ee1a7b22ff11f5",
+      "crc32": "26659ea7",
+      "sha1": "f173dbbb3047ccbdcc7b9ae1ff1984d982f12692",
+      "format": "JSON"
+    },
+    {
+      "name": "freebeacon-2022-08-10T09:00:45.099078-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660136454",
+      "size": "18148",
+      "md5": "eaeb98b1f053582b2e9f4e69370733a6",
+      "crc32": "a0a986e1",
+      "sha1": "77a74134dc81164708215a84d9a86c8b1029e6f5",
+      "format": "JSON"
+    },
+    {
+      "name": "freebeacon-2022-08-10T09:00:45.099078-04:00.jpg",
+      "source": "original",
+      "mtime": "1660136451",
+      "size": "303866",
+      "md5": "1042ae57e63e9d6b1b942a8dd5a93655",
+      "crc32": "e7494350",
+      "sha1": "5780f5c3a5cbf2538827cd881aeb484f7382f510",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "freebeacon-2022-08-10T09:00:45.099078-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660136456",
+      "size": "1459",
+      "md5": "26b3c1e3e7540ad1548938a03b5e1d30",
+      "crc32": "10009136",
+      "sha1": "e3219393e535f8c7e28da9acc0cd4254ee6ad5aa",
+      "format": "JSON"
+    },
+    {
+      "name": "freebeacon-2022-08-10T09:00:45.099078-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660136457",
+      "size": "99",
+      "md5": "cd86fd1dc80ef01519f3888fc2454572",
+      "crc32": "a0cdb13a",
+      "sha1": "a887a2a32bf7303aa5c41fcbee8bd276db3e32cd",
+      "format": "JSON"
+    },
+    {
+      "name": "freebeacon-2022-08-10T09:00:45.099078-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "freebeacon-2022-08-10T09:00:45.099078-04:00.jpg",
+      "mtime": "1660136744",
+      "size": "10066",
+      "md5": "ce68b568bab791dba62d62a51c2f9253",
+      "crc32": "3e0aba24",
+      "sha1": "c495ff8068b6d3cbadc28b76b9090751aabf37a4"
+    },
+    {
+      "name": "freebeacon-2022-08-10T15:37:53.346423-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660160278",
+      "size": "16391",
+      "md5": "51a39896bc73824b21b65758211dbc8c",
+      "crc32": "fd7e26eb",
+      "sha1": "dfc549582103477ca66ae34574c2f5ab24e8e38f",
+      "format": "JSON"
+    },
+    {
+      "name": "freebeacon-2022-08-10T15:37:53.346423-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660160281",
+      "size": "18374",
+      "md5": "a809935d6f8c26a2c650b4e8c10c9e64",
+      "crc32": "0378f60d",
+      "sha1": "eca9ef41ff03c13827b832fa563663b839922bbd",
+      "format": "JSON"
+    },
+    {
+      "name": "freebeacon-2022-08-10T15:37:53.346423-04:00.jpg",
+      "source": "original",
+      "mtime": "1660160276",
+      "size": "302993",
+      "md5": "e7562401e86674e3058218d8156479a0",
+      "crc32": "2b8b8983",
+      "sha1": "fbafb899253d0a6bf94b54f29ff0711f6e5acbc5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "freebeacon-2022-08-10T15:37:53.346423-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660160282",
+      "size": "1458",
+      "md5": "a13636916367f00ebc72b43bbd756039",
+      "crc32": "067133a0",
+      "sha1": "4030af18c30c77d78b156c44fc9188c53999c66b",
+      "format": "JSON"
+    },
+    {
+      "name": "freebeacon-2022-08-10T15:37:53.346423-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660160284",
+      "size": "99",
+      "md5": "cd86fd1dc80ef01519f3888fc2454572",
+      "crc32": "a0cdb13a",
+      "sha1": "a887a2a32bf7303aa5c41fcbee8bd276db3e32cd",
+      "format": "JSON"
+    },
+    {
+      "name": "freebeacon-2022-08-10T15:37:53.346423-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "freebeacon-2022-08-10T15:37:53.346423-04:00.jpg",
+      "mtime": "1660160415",
+      "size": "9944",
+      "md5": "facf9e24197564a3783a469c3a248e97",
+      "crc32": "36258525",
+      "sha1": "1b225a2a38a83d2f0f941dab5e42828e2f7b4cb1"
+    },
+    {
+      "name": "freebeacon-2022-08-10T20:45:22.816899-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660178728",
+      "size": "16021",
+      "md5": "cfc001d9dcef0d5f1bafbf9182813bcc",
+      "crc32": "8c753f06",
+      "sha1": "045e4432f79d9027d878e31c78a565a6dc31a520",
+      "format": "JSON"
+    },
+    {
+      "name": "freebeacon-2022-08-10T20:45:22.816899-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660178730",
+      "size": "18437",
+      "md5": "9ea071bdf91718be1875dd4133cd7927",
+      "crc32": "b66e409b",
+      "sha1": "06ba31bffd7d1f52b26983510667bdf98df35971",
+      "format": "JSON"
+    },
+    {
+      "name": "freebeacon-2022-08-10T20:45:22.816899-04:00.jpg",
+      "source": "original",
+      "mtime": "1660178725",
+      "size": "268988",
+      "md5": "7e583b065ec9eb7ad7cca774693ff004",
+      "crc32": "81a667b6",
+      "sha1": "c377af1196c5e3fc54bc415e463e5cde72466f35",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "freebeacon-2022-08-10T20:45:22.816899-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660178731",
+      "size": "1458",
+      "md5": "fbbd82fa39d2925778f60d9051b04f5f",
+      "crc32": "ed7ed4a4",
+      "sha1": "609adc0ecf1f3f8c5349f4eebd747513def4833d",
+      "format": "JSON"
+    },
+    {
+      "name": "freebeacon-2022-08-10T20:45:22.816899-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660178733",
+      "size": "99",
+      "md5": "cd86fd1dc80ef01519f3888fc2454572",
+      "crc32": "a0cdb13a",
+      "sha1": "a887a2a32bf7303aa5c41fcbee8bd276db3e32cd",
+      "format": "JSON"
+    },
+    {
+      "name": "freebeacon-2022-08-10T20:45:22.816899-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "freebeacon-2022-08-10T20:45:22.816899-04:00.jpg",
+      "mtime": "1660178957",
+      "size": "9688",
+      "md5": "feee4b6eec81038410646d844b6faa12",
+      "crc32": "1b84415f",
+      "sha1": "bd8b6a9ff1ec8ea3d75fbcd606e0184ac6dfb4bc"
+    },
+    {
       "name": "freebeacon-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1dfce6cbc7b0bd1e9ade64ef9a022697880f6965",
-      "mtime": "1660088059",
-      "size": "75136",
-      "md5": "215a20674dd0a9d2b9359675c830d31e",
-      "crc32": "dc7cebb1",
-      "sha1": "f493b1b197c44a1413642893de15ccb457a5763b",
+      "btih": "d15a2f0a4fcb5b9bb7a3578b0d11ff27f9db44bb",
+      "mtime": "1660178961",
+      "size": "78945",
+      "md5": "3c27294ad10bf6d301bd844d7bd2fd1b",
+      "crc32": "33d99649",
+      "sha1": "e3b447a2b876693823f012b7b5b88892666c0fca",
       "format": "Archive BitTorrent"
     },
     {
       "name": "freebeacon-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "66af74f21005828573696e6ae0c2f70d",
+      "md5": "d8ad98ea82496d6be17822a7fa74ec16",
       "summation": "md5"
     },
     {
       "name": "freebeacon-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660087893",
-      "size": "442368",
-      "md5": "f93ef570694809a5dded8d6f6da4d788",
-      "crc32": "9110305c",
-      "sha1": "a2de7f223f70f13650ffa4dbe514a6e27e3429be",
+      "mtime": "1660178738",
+      "size": "462848",
+      "md5": "d35f6ddf98b2663fd301b3a875517dc0",
+      "crc32": "1414d665",
+      "sha1": "f761814c5283dc269349d40b787ed0b92f95a2b9",
       "format": "Metadata"
     },
     {
@@ -3654,9 +3840,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 351,
-  "item_last_updated": 1660088059,
-  "item_size": 24273127,
+  "files_count": 369,
+  "item_last_updated": 1660178961,
+  "item_size": 25310750,
   "metadata": {
     "identifier": "freebeacon-2022",
     "collection": [
@@ -3673,10 +3859,10 @@
     "publicdate": "2022-07-17 15:03:23",
     "addeddate": "2022-07-17 15:03:23"
   },
-  "server": "ia601406.us.archive.org",
-  "uniq": 2006576209,
+  "server": "ia801406.us.archive.org",
+  "uniq": 433801116,
   "workable_servers": [
-    "ia601406.us.archive.org",
-    "ia801406.us.archive.org"
+    "ia801406.us.archive.org",
+    "ia601406.us.archive.org"
   ]
 }

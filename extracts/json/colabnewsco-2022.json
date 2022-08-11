@@ -1,10 +1,10 @@
 {
   "colabnewsco-2022": {
-    "url": "https://colabnews.co/",
-    "job_id": "spn2-2b98aa0d45b6d6754d795ddc57186dfb4434bb8c",
-    "message": "The capture will start in ~2 minutes because our service is currently overloaded. You may close your browser window and the page will still be saved."
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
   },
-  "created": 1660092716,
+  "created": 1660178977,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/23/items/colabnewsco-2022",
@@ -3253,31 +3253,155 @@
       "sha1": "c0c90b09489661890c30f23484cc8ce86b9eaef3"
     },
     {
+      "name": "colabnewsco-2022-08-09T20:35:07.689669-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660098910",
+      "size": "11274",
+      "md5": "40af8ae56a62c10a6b3ce4a855658922",
+      "crc32": "91cf5849",
+      "sha1": "71965e72e239f5757af47200ee649f94e73779b0",
+      "format": "JSON"
+    },
+    {
+      "name": "colabnewsco-2022-08-09T20:35:07.689669-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660098912",
+      "size": "10027",
+      "md5": "c4ad48bf8a25d8a134eef700ce24d917",
+      "crc32": "bc8e8a90",
+      "sha1": "674d42c4608c468f56f78811e49b14072bf78fb8",
+      "format": "JSON"
+    },
+    {
+      "name": "colabnewsco-2022-08-09T20:35:07.689669-06:00.jpg",
+      "source": "original",
+      "mtime": "1660098909",
+      "size": "228924",
+      "md5": "df5a95737d0dd850f9b819bd69ca29a6",
+      "crc32": "514db04d",
+      "sha1": "632c52d0bb2a6bff90b60e7f4e2e9e9065ef991a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "colabnewsco-2022-08-09T20:35:07.689669-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660098913",
+      "size": "1441",
+      "md5": "43ec03d8b423a17180cf2d4da9499811",
+      "crc32": "c4fa020e",
+      "sha1": "35ef24a6b205c4697a0e9e4077bdb85baa095811",
+      "format": "JSON"
+    },
+    {
+      "name": "colabnewsco-2022-08-09T20:35:07.689669-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1660098915",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "colabnewsco-2022-08-09T20:35:07.689669-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "colabnewsco-2022-08-09T20:35:07.689669-06:00.jpg",
+      "mtime": "1660098987",
+      "size": "8152",
+      "md5": "272d11ba877fcf51ae22943a5f2ab10d",
+      "crc32": "a70e3e22",
+      "sha1": "c0c90b09489661890c30f23484cc8ce86b9eaef3"
+    },
+    {
+      "name": "colabnewsco-2022-08-10T11:51:46.261638-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660153911",
+      "size": "11301",
+      "md5": "c5c582c9c8d2f5e2a42d63337cfc51b2",
+      "crc32": "f197ce56",
+      "sha1": "d2914be965da020ac5e7415192684008bc6f4591",
+      "format": "JSON"
+    },
+    {
+      "name": "colabnewsco-2022-08-10T11:51:46.261638-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660153912",
+      "size": "10028",
+      "md5": "0c30df6b6d7698e7276d11a181cf54a8",
+      "crc32": "bdaddead",
+      "sha1": "b9164af9b0a019fc13d9c6389e9458a04a2e2b56",
+      "format": "JSON"
+    },
+    {
+      "name": "colabnewsco-2022-08-10T11:51:46.261638-06:00.jpg",
+      "source": "original",
+      "mtime": "1660153909",
+      "size": "228924",
+      "md5": "df5a95737d0dd850f9b819bd69ca29a6",
+      "crc32": "514db04d",
+      "sha1": "632c52d0bb2a6bff90b60e7f4e2e9e9065ef991a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "colabnewsco-2022-08-10T11:51:46.261638-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660153914",
+      "size": "1441",
+      "md5": "fde3c3c86eec1c59f646a24e61749ee0",
+      "crc32": "3ec9ae66",
+      "sha1": "3987504891e368ee274cf66c7a8daaca6ca55b1e",
+      "format": "JSON"
+    },
+    {
+      "name": "colabnewsco-2022-08-10T11:51:46.261638-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1660153916",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "colabnewsco-2022-08-10T11:51:46.261638-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "colabnewsco-2022-08-10T11:51:46.261638-06:00.jpg",
+      "mtime": "1660154097",
+      "size": "8152",
+      "md5": "272d11ba877fcf51ae22943a5f2ab10d",
+      "crc32": "a70e3e22",
+      "sha1": "c0c90b09489661890c30f23484cc8ce86b9eaef3"
+    },
+    {
       "name": "colabnewsco-2022_archive.torrent",
       "source": "metadata",
-      "btih": "92ed42adc44aa61630227fff93cf292561c8e881",
-      "mtime": "1660056125",
-      "size": "67565",
-      "md5": "57b943ac4239a0b1df00c08e3448cf33",
-      "crc32": "85eff790",
-      "sha1": "7adb26a500979ef3e66c490c0b4a5006f630c61e",
+      "btih": "6d7dfaf0ba4701cff1048ca3f6a1e06095ddbaf5",
+      "mtime": "1660154138",
+      "size": "70111",
+      "md5": "117081d4c3a8856d9fd504d6116d7d3b",
+      "crc32": "f32fe378",
+      "sha1": "39d6679ea6f47c16e840a986941115804a0a8e71",
       "format": "Archive BitTorrent"
     },
     {
       "name": "colabnewsco-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4f93ae3b7184a1316ac70bdcdfbaf129",
+      "md5": "e0b740b3add0ec782303a86fe36299e6",
       "summation": "md5"
     },
     {
       "name": "colabnewsco-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660055886",
-      "size": "397312",
-      "md5": "bf490309f44e401cdc1f8617841d94ab",
-      "crc32": "fd2c3ee1",
-      "sha1": "0a217323c6725314cc9f1c2571d565de4c3ded6c",
+      "mtime": "1660153919",
+      "size": "413696",
+      "md5": "f2ee2689fe5247018da6c0f24d5d2158",
+      "crc32": "45a8be05",
+      "sha1": "9ce0859a878a89c65f241d500a32131bd374666d",
       "format": "Metadata"
     },
     {
@@ -3291,9 +3415,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 315,
-  "item_last_updated": 1660056125,
-  "item_size": 17584496,
+  "files_count": 327,
+  "item_last_updated": 1660154138,
+  "item_size": 18123494,
   "metadata": {
     "identifier": "colabnewsco-2022",
     "collection": [
@@ -3311,7 +3435,7 @@
     "addeddate": "2022-07-09 03:57:02"
   },
   "server": "ia802500.us.archive.org",
-  "uniq": 935220634,
+  "uniq": 366713675,
   "workable_servers": [
     "ia802500.us.archive.org",
     "ia902500.us.archive.org"
