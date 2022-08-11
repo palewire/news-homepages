@@ -9,6 +9,7 @@ import click
 import internetarchive
 import pandas as pd
 import requests
+from requests.adapters import HTTPAdapter, Retry
 from rich import print
 from rich.progress import track
 
@@ -168,7 +169,7 @@ def download_lighthouse(handle):
         return
 
     # Go get the files
-    for url in missing_files:
+    for url in sorted(missing_files):
         df = _get_json_url(url)
         output_df = pd.concat([output_df, df])
         time.sleep(1)
@@ -359,7 +360,10 @@ def _get_json_url(url):
     else:
         # Get the URL
         print(f":link: Downloading {url}")
-        r = requests.get(url)
+        s = requests.Session()
+        retries = Retry(total=3, backoff_factor=1)
+        s.mount("https://", HTTPAdapter(max_retries=retries))
+        r = s.get(url)
         data = r.json()
 
         # Parse as a dataframe
