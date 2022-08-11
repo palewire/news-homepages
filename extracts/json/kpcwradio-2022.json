@@ -1,5 +1,5 @@
 {
-  "created": 1660179303,
+  "created": 1660225324,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/0/items/kpcwradio-2022",
@@ -3236,31 +3236,93 @@
       "sha1": "815ceb215d7a96c727c202a9144a49ecc7c7aa66"
     },
     {
+      "name": "kpcwradio-2022-08-10T21:56:07.981355-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660190171",
+      "size": "19403",
+      "md5": "937e72256f37fa58106a6bc094a4bdc4",
+      "crc32": "138adaf9",
+      "sha1": "c3e1e4d033e56676e698221a428261ce95c87096",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-08-10T21:56:07.981355-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660190172",
+      "size": "37027",
+      "md5": "ad3a535530a6a69382e8c0d9a5d880b0",
+      "crc32": "964a7112",
+      "sha1": "51c827a0df60bfd48e30e69f984b3d27480ff5eb",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-08-10T21:56:07.981355-06:00.jpg",
+      "source": "original",
+      "mtime": "1660190169",
+      "size": "287968",
+      "md5": "72711f8002657cadea010d3776108481",
+      "crc32": "c1886c1f",
+      "sha1": "f689cf69730140cfe307cdab691876e2ce572136",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpcwradio-2022-08-10T21:56:07.981355-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660190174",
+      "size": "1441",
+      "md5": "bef32f72953cbee484e6adf8446bb33a",
+      "crc32": "08e02cb9",
+      "sha1": "fa2c20a5187f3e2f166072d67d7f5cc0c8273c0d",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-08-10T21:56:07.981355-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1660190176",
+      "size": "264",
+      "md5": "956e014a13cd53fed40a75fcced0c2ef",
+      "crc32": "d0c09826",
+      "sha1": "39123e8802b77626df1e7d2df0921e0973f87588",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-08-10T21:56:07.981355-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpcwradio-2022-08-10T21:56:07.981355-06:00.jpg",
+      "mtime": "1660191013",
+      "size": "10308",
+      "md5": "4178fb0244cc2ed91ced0b4ab63e26ea",
+      "crc32": "755e38a8",
+      "sha1": "eb564bc42b4e7bbdaa5d0f671f93678bbe45ac9e"
+    },
+    {
       "name": "kpcwradio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "db6db2769d3595ca3607b5d392edcb4df70fb593",
-      "mtime": "1660155048",
-      "size": "66990",
-      "md5": "6d5420af425dc3267a2b809d19cadee0",
-      "crc32": "88aab3ee",
-      "sha1": "bbcccf79e61d6692bd7bd9c58b8dc88b06708f63",
+      "btih": "1596aa213f75ed552a214552de01693925f31a15",
+      "mtime": "1660191017",
+      "size": "68262",
+      "md5": "252814a02d053b47cf468d3152cb4276",
+      "crc32": "56f17fe7",
+      "sha1": "d0af815f7ada0be8f5bd3d3dd384ae3afdd38bcb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kpcwradio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3c7f323d08be9735abc6fd0003d5e050",
+      "md5": "0e1945a4d7630cb8cde73b6dfc577c8b",
       "summation": "md5"
     },
     {
       "name": "kpcwradio-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660154930",
-      "size": "393216",
-      "md5": "92f7a3fa4c7de8e4a50e7df686fe17d4",
-      "crc32": "4d9c2bef",
-      "sha1": "128a43770708c39a8a38af60cc1d58727fe83936",
+      "mtime": "1660190181",
+      "size": "397312",
+      "md5": "8f8fa438499073f4e203ec4bcf39eff1",
+      "crc32": "f0d528df",
+      "sha1": "51b41e488aff477ed030d416498ebf0269e17ea8",
       "format": "Metadata"
     },
     {
@@ -3274,12 +3336,13 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 314,
-  "item_last_updated": 1660155048,
-  "item_size": 22439489,
+  "files_count": 320,
+  "item_last_updated": 1660191017,
+  "item_size": 22801268,
   "kpcwradio-2022": {
     "url": "https://www.kpcw.org/",
-    "job_id": "spn2-38282b34dd19489302dd6e284c6394731e337cfe"
+    "job_id": "spn2-38282b34dd19489302dd6e284c6394731e337cfe",
+    "message": "The capture will start in ~30 minutes because our service is currently overloaded. You may close your browser window and the page will still be saved."
   },
   "metadata": {
     "identifier": "kpcwradio-2022",
@@ -3297,10 +3360,10 @@
     "publicdate": "2022-07-09 04:00:05",
     "addeddate": "2022-07-09 04:00:05"
   },
-  "server": "ia601500.us.archive.org",
-  "uniq": 2112009418,
+  "server": "ia801500.us.archive.org",
+  "uniq": 5463814,
   "workable_servers": [
-    "ia601500.us.archive.org",
-    "ia801500.us.archive.org"
+    "ia801500.us.archive.org",
+    "ia601500.us.archive.org"
   ]
 }

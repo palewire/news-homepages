@@ -1,5 +1,5 @@
 {
-  "created": 1660179254,
+  "created": 1660225221,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/35/items/jacobin-2022",
@@ -4894,31 +4894,93 @@
       "sha1": "e70af8f0464945e90da5b83c7e4c3018d4555530"
     },
     {
+      "name": "jacobin-2022-08-10T23:54:49.071422-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660190092",
+      "size": "21047",
+      "md5": "8693c74b765f37f4585c3837acaedd09",
+      "crc32": "53455081",
+      "sha1": "e51346d58031f0bfd23c9b1ae2d38e1559cefccf",
+      "format": "JSON"
+    },
+    {
+      "name": "jacobin-2022-08-10T23:54:49.071422-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660190093",
+      "size": "13748",
+      "md5": "c48c0e7cfe190d864b09382ab3dc2ca7",
+      "crc32": "8c61e29a",
+      "sha1": "06d51ae835f45deb2a2c9b33a0b57eecfb601c81",
+      "format": "JSON"
+    },
+    {
+      "name": "jacobin-2022-08-10T23:54:49.071422-04:00.jpg",
+      "source": "original",
+      "mtime": "1660190090",
+      "size": "280413",
+      "md5": "9d111aa36a80d1254c4bd30dc1939df3",
+      "crc32": "7e898ea3",
+      "sha1": "526c8ca98d324f5c65c5f81c5e28145c9edeee16",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jacobin-2022-08-10T23:54:49.071422-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660190095",
+      "size": "1432",
+      "md5": "1f621f5542a6a8975e6f3ea18d2732b3",
+      "crc32": "1f4db367",
+      "sha1": "96dfa96682be0de21be19e68443f7ad2d66f90fc",
+      "format": "JSON"
+    },
+    {
+      "name": "jacobin-2022-08-10T23:54:49.071422-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660190097",
+      "size": "263",
+      "md5": "8b18f30ab21bb50ef3648ecd99f2bb73",
+      "crc32": "e416c031",
+      "sha1": "d78c02ac735a1495b8bf8eb52e2e8e4917e7d98d",
+      "format": "JSON"
+    },
+    {
+      "name": "jacobin-2022-08-10T23:54:49.071422-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jacobin-2022-08-10T23:54:49.071422-04:00.jpg",
+      "mtime": "1660190919",
+      "size": "9790",
+      "md5": "12862651131b182521a76558262f7ec2",
+      "crc32": "e2e02653",
+      "sha1": "cef018710bf766f0d64a32ced494121d7445452d"
+    },
+    {
       "name": "jacobin-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8dca57980022c9bff0268d56769d09ee4ba0279c",
-      "mtime": "1660160501",
-      "size": "99649",
-      "md5": "d0c801f28fc6c8f620454ad7262af3c5",
-      "crc32": "e72a880b",
-      "sha1": "cd5f04648c612ca6996197589852d5498e1843de",
+      "btih": "a44526b636b04739942acc26567f31bf0a5c2c30",
+      "mtime": "1660190925",
+      "size": "100888",
+      "md5": "6b2adcbf86fa40b147bb50d488f917c8",
+      "crc32": "f284c36f",
+      "sha1": "610296d7436654e1d96ea5787b175f9ad94e6885",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jacobin-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8c70d772e1687b192f66a54efd31f730",
+      "md5": "6ef79001409fba9d0fd3aa28377c8352",
       "summation": "md5"
     },
     {
       "name": "jacobin-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660160419",
-      "size": "577536",
-      "md5": "5c1505abeed84c4a786714d9fddc5d09",
-      "crc32": "aaf17ddc",
-      "sha1": "c3623759c20b93f9ff755765aa8bb68e1d5a0e4c",
+      "mtime": "1660190100",
+      "size": "585728",
+      "md5": "063cd4d391d378ab4ceec3b3937df98d",
+      "crc32": "d733e143",
+      "sha1": "1963032f07c56262a26538dedd7ea60857d7197c",
       "format": "Metadata"
     },
     {
@@ -4932,17 +4994,13 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 473,
-  "item_last_updated": 1660160501,
-  "item_size": 34708337,
+  "files_count": 479,
+  "item_last_updated": 1660190925,
+  "item_size": 35044461,
   "jacobin-2022": {
     "url": "https://jacobin.com/",
     "job_id": "spn2-d3b3c505f0a76349a7ac62e0a54b9111074de390",
-    "status_ext": "error:job-failed",
-    "message": "Job failed.",
-    "status": "error",
-    "resources": [],
-    "duration_sec": 0.884
+    "message": "The capture will start in ~31 minutes because our service is currently overloaded. You may close your browser window and the page will still be saved."
   },
   "metadata": {
     "identifier": "jacobin-2022",
@@ -4961,7 +5019,7 @@
     "addeddate": "2022-07-04 21:54:25"
   },
   "server": "ia902505.us.archive.org",
-  "uniq": 1478065821,
+  "uniq": 1014493840,
   "workable_servers": [
     "ia902505.us.archive.org",
     "ia802505.us.archive.org"

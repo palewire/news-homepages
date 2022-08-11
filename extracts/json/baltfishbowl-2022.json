@@ -1,10 +1,9 @@
 {
   "baltfishbowl-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
+    "url": "https://baltimorefishbowl.com/",
+    "job_id": "spn2-23e1189769c3bd1d6caf6eba575b33db2824a51c"
   },
-  "created": 1660178871,
+  "created": 1660224730,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/19/items/baltfishbowl-2022",
@@ -3083,31 +3082,93 @@
       "sha1": "036c60ef8e0d3fcf4e4c6b3fff0da945ed063d09"
     },
     {
+      "name": "baltfishbowl-2022-08-10T22:22:30.581586-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660184554",
+      "size": "24646",
+      "md5": "56b73f69761c6cac406ca5aac2dfa9f9",
+      "crc32": "04560669",
+      "sha1": "a842e57cafb0daf456ca49c720ef07963d7b3755",
+      "format": "JSON"
+    },
+    {
+      "name": "baltfishbowl-2022-08-10T22:22:30.581586-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660184556",
+      "size": "23086",
+      "md5": "4087d2157beba797256abc264a10d40d",
+      "crc32": "fd9ae826",
+      "sha1": "d6d57ec017fe2750afc4618ea5101dbbb53e0fbb",
+      "format": "JSON"
+    },
+    {
+      "name": "baltfishbowl-2022-08-10T22:22:30.581586-04:00.jpg",
+      "source": "original",
+      "mtime": "1660184552",
+      "size": "235448",
+      "md5": "db4c075f02aca41dc285c4d2a9a03bbb",
+      "crc32": "ed4c224b",
+      "sha1": "74989793f27e1ff24ab7735f23f1438a8e8e3847",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "baltfishbowl-2022-08-10T22:22:30.581586-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660184559",
+      "size": "1519",
+      "md5": "532d5c297ba3718d365f3a0602e29304",
+      "crc32": "87ca2e83",
+      "sha1": "f6ec7a69b2845f0c27b751d2c9159bb68bbc23a6",
+      "format": "JSON"
+    },
+    {
+      "name": "baltfishbowl-2022-08-10T22:22:30.581586-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660184560",
+      "size": "106",
+      "md5": "0c9bb581df0e255e29b6fcd665cad41a",
+      "crc32": "286b856c",
+      "sha1": "b87bada5388351af255ce56dc304dab4f3067d76",
+      "format": "JSON"
+    },
+    {
+      "name": "baltfishbowl-2022-08-10T22:22:30.581586-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baltfishbowl-2022-08-10T22:22:30.581586-04:00.jpg",
+      "mtime": "1660184784",
+      "size": "9132",
+      "md5": "8eaa02621b6b1297c034f359d209bf7b",
+      "crc32": "2c2c3701",
+      "sha1": "06efd20d9ea82b00e08558559db1ebc74b97e45a"
+    },
+    {
       "name": "baltfishbowl-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a17bc111a9f3f1ae90c1643f5e81abb223c6e7a7",
-      "mtime": "1660153537",
-      "size": "64680",
-      "md5": "3ac66c5fa876e0ba9eb35b53d05d864d",
-      "crc32": "5ba10e08",
-      "sha1": "9a9b8c642388112e72671ff62d7fc901f4806423",
+      "btih": "b408af0c16b76f1eb34870c4fd68b76ebe232812",
+      "mtime": "1660184788",
+      "size": "65949",
+      "md5": "294f59278ea6156affdd27d859e46917",
+      "crc32": "8e43ef4c",
+      "sha1": "484e703a8f7f5a55f5c4a539210261880e80e2ff",
       "format": "Archive BitTorrent"
     },
     {
       "name": "baltfishbowl-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e283a6565d6c8caff8e51be1594a62f7",
+      "md5": "62272517197b9a1f3fa0b448931dc590",
       "summation": "md5"
     },
     {
       "name": "baltfishbowl-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660153424",
-      "size": "376832",
-      "md5": "8b65c7bf7d4b000d6b094e89d970e1c2",
-      "crc32": "a44a4b5e",
-      "sha1": "fe2f2c32f1e7f0428cd53fde44d8e4d087f6faf9",
+      "mtime": "1660184564",
+      "size": "385024",
+      "md5": "311492dd9ddb66bf579888dd692f359d",
+      "crc32": "9b48cf3d",
+      "sha1": "d89a4035b3f6e9b6eb55d658f82b8a7158847dc7",
       "format": "Metadata"
     },
     {
@@ -3121,9 +3182,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 299,
-  "item_last_updated": 1660153537,
-  "item_size": 21151717,
+  "files_count": 305,
+  "item_last_updated": 1660184788,
+  "item_size": 21455115,
   "metadata": {
     "identifier": "baltfishbowl-2022",
     "collection": [
@@ -3141,7 +3202,7 @@
     "addeddate": "2022-07-13 02:24:39"
   },
   "server": "ia802502.us.archive.org",
-  "uniq": 1089620955,
+  "uniq": 1452545167,
   "workable_servers": [
     "ia802502.us.archive.org",
     "ia902502.us.archive.org"

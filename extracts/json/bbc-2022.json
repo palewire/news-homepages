@@ -1,14 +1,10 @@
 {
   "bbc-2022": {
-    "url": "https://www.bbc.com/news",
-    "job_id": "spn2-2b552f29abb38a0d6e262bdf51b292d5d8127e09",
-    "status_ext": "error:job-failed",
+    "message": "This URL has been already captured 10 times today. Please try again tomorrow. Please email us at \"info@archive.org\" if you would like to discuss this more.",
     "status": "error",
-    "resources": [],
-    "duration_sec": 0.857,
-    "message": "Job failed."
+    "status_ext": "error:too-many-daily-captures"
   },
-  "created": 1660178886,
+  "created": 1660224744,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/3/items/bbc-2022",
@@ -15859,31 +15855,155 @@
       "sha1": "5f4d58407a836493596daea7f9769d55165f2be7"
     },
     {
+      "name": "bbc-2022-08-11T03:23:16.030353+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660184605",
+      "size": "24848",
+      "md5": "781b7275feadbe8dff89b1eaea74773d",
+      "crc32": "42b31e7b",
+      "sha1": "97b45f313d8b22691dc295075d9b8bc269419b30",
+      "format": "JSON"
+    },
+    {
+      "name": "bbc-2022-08-11T03:23:16.030353+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660184607",
+      "size": "27428",
+      "md5": "f7f3838edcbf22ed67b0ea9b176ea6f4",
+      "crc32": "2703dee6",
+      "sha1": "4705a273593a24fa0538e213b2459b170cf7d200",
+      "format": "JSON"
+    },
+    {
+      "name": "bbc-2022-08-11T03:23:16.030353+01:00.jpg",
+      "source": "original",
+      "mtime": "1660184597",
+      "size": "311027",
+      "md5": "ca9e02181540d73f9ab4778c168309ce",
+      "crc32": "f6ad8215",
+      "sha1": "d66911712760d80d1690efa05e8778418a6acabc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bbc-2022-08-11T03:23:16.030353+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660184608",
+      "size": "1468",
+      "md5": "30593dc0f0c3c49e20f8e12cfbfd5327",
+      "crc32": "321467e2",
+      "sha1": "1d35c19a8d638342a990392f7ab4cb77c5c95ac0",
+      "format": "JSON"
+    },
+    {
+      "name": "bbc-2022-08-11T03:23:16.030353+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1660184610",
+      "size": "100",
+      "md5": "ff13dd63c8cb7d330ad1a66fcda1b7c4",
+      "crc32": "cb101ea5",
+      "sha1": "f093a091ce08b36698ef71d915a26a4b83d88ec2",
+      "format": "JSON"
+    },
+    {
+      "name": "bbc-2022-08-11T03:23:16.030353+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bbc-2022-08-11T03:23:16.030353+01:00.jpg",
+      "mtime": "1660184805",
+      "size": "10475",
+      "md5": "cdeea4eab211d8f7ef17e8784e235b7c",
+      "crc32": "8a8b7c6d",
+      "sha1": "d5cd3cea03c1abb66ca7588e0d50ffe339a4d063"
+    },
+    {
+      "name": "bbc-2022-08-11T10:10:32.805222+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660209042",
+      "size": "24492",
+      "md5": "123613754da9a172129902e5b6c921c4",
+      "crc32": "93c56d4e",
+      "sha1": "68d741ac2b0a7fc5a72bdff6d024af201880397d",
+      "format": "JSON"
+    },
+    {
+      "name": "bbc-2022-08-11T10:10:32.805222+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660209044",
+      "size": "27283",
+      "md5": "4f75e62dfcdbe220a4620c309081cd8c",
+      "crc32": "aaf9b081",
+      "sha1": "a918989891da2508e18b9390d4f66f148e0b7e3c",
+      "format": "JSON"
+    },
+    {
+      "name": "bbc-2022-08-11T10:10:32.805222+01:00.jpg",
+      "source": "original",
+      "mtime": "1660209041",
+      "size": "318887",
+      "md5": "eee0685d548bf02bce4fe6f2b07b6efc",
+      "crc32": "ca89b5e0",
+      "sha1": "7d94f102119c3048a8d0a6c8525b51679fedb380",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bbc-2022-08-11T10:10:32.805222+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660209046",
+      "size": "1467",
+      "md5": "447efc8260d09930a25bc69181fa8ab4",
+      "crc32": "d983ec21",
+      "sha1": "e4fc067ffda5aefe81df5211db495b8355a2fe0f",
+      "format": "JSON"
+    },
+    {
+      "name": "bbc-2022-08-11T10:10:32.805222+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1660209048",
+      "size": "246",
+      "md5": "9b1c459305d22be4f348d9b51f103735",
+      "crc32": "eb1ec439",
+      "sha1": "9d7e3a787ae71345fc6d3ce63418403441d1644a",
+      "format": "JSON"
+    },
+    {
+      "name": "bbc-2022-08-11T10:10:32.805222+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bbc-2022-08-11T10:10:32.805222+01:00.jpg",
+      "mtime": "1660212609",
+      "size": "10401",
+      "md5": "9072f5342ba74afb75248117cb8b60db",
+      "crc32": "5fbda91b",
+      "sha1": "3ad583238f1df7ec2204e9575eb6e2c5c6d858f9"
+    },
+    {
       "name": "bbc-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2775725585facc764a53c538921fd5f6bd9b8c77",
-      "mtime": "1660153642",
-      "size": "312886",
-      "md5": "91fe7dc9387639a8b67b9b6b75bfd063",
-      "crc32": "85b1a925",
-      "sha1": "307733d08e3cdaf968a812ee054a7431769a4ccd",
+      "btih": "1e0d84953d32201657cd361ab7ad6f00d8becf91",
+      "mtime": "1660212642",
+      "size": "315338",
+      "md5": "8c88eb328a4807b888848403099b88a0",
+      "crc32": "7d08965a",
+      "sha1": "65fea82c8ba53d883352adbac93d290bc0e18bfa",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bbc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a8c214241e48ec1d0dbd1c881ea65e1e",
+      "md5": "13218a8379da32d523bd0d5917439cfe",
       "summation": "md5"
     },
     {
       "name": "bbc-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660153475",
-      "size": "1740800",
-      "md5": "69eef9b2ebb9670969ef5b7ca835e9d8",
-      "crc32": "03cae96f",
-      "sha1": "445ecfa975461e7f4eec094f4dacf8a1d929af20",
+      "mtime": "1660209053",
+      "size": "1757184",
+      "md5": "db07e67624ba84b8b08d3626d0d2aa63",
+      "crc32": "c1717004",
+      "sha1": "7bcce36ae330a61e4a89d8831a05ff7734c65815",
       "format": "Metadata"
     },
     {
@@ -15897,9 +16017,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1515,
-  "item_last_updated": 1660153642,
-  "item_size": 146177364,
+  "files_count": 1527,
+  "item_last_updated": 1660212642,
+  "item_size": 146954322,
   "metadata": {
     "identifier": "bbc-2022",
     "collection": [
@@ -15917,7 +16037,7 @@
     "addeddate": "2022-03-23 01:47:02"
   },
   "server": "ia902502.us.archive.org",
-  "uniq": 1414226862,
+  "uniq": 648505833,
   "workable_servers": [
     "ia902502.us.archive.org",
     "ia802502.us.archive.org"

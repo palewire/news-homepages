@@ -1,5 +1,5 @@
 {
-  "created": 1660178756,
+  "created": 1660220788,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/21/items/discovermag-2022",
@@ -3590,31 +3590,83 @@
       "sha1": "bab72ad027b01b4151b67c5a6c8a68c72727a32a"
     },
     {
+      "name": "discovermag-2022-08-11T07:40:05.426181-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660218011",
+      "size": "20831",
+      "md5": "2facb3cb82bd70b90d12a0a1accd0c4b",
+      "crc32": "60d38150",
+      "sha1": "842e24c21a0b5897b9dafe96f5badb999f226a55",
+      "format": "JSON"
+    },
+    {
+      "name": "discovermag-2022-08-11T07:40:05.426181-04:00.jpg",
+      "source": "original",
+      "mtime": "1660218009",
+      "size": "275476",
+      "md5": "18ee54ce1dbc31e800beb25cb3d10969",
+      "crc32": "86810428",
+      "sha1": "3f3dff3807f5204be1e8ea7fe8558c55bb534367",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "discovermag-2022-08-11T07:40:05.426181-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660218013",
+      "size": "1549",
+      "md5": "e83a8bf5df5b039b0e797014f51e4e58",
+      "crc32": "ca7c1f92",
+      "sha1": "9f56df8e24f01f8932f61f431d95da7fff6bbda1",
+      "format": "JSON"
+    },
+    {
+      "name": "discovermag-2022-08-11T07:40:05.426181-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660218015",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "discovermag-2022-08-11T07:40:05.426181-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "discovermag-2022-08-11T07:40:05.426181-04:00.jpg",
+      "mtime": "1660220577",
+      "size": "8353",
+      "md5": "f2e2e6d3bb287d0633ecd34da00e6ec8",
+      "crc32": "7f4d3674",
+      "sha1": "bab72ad027b01b4151b67c5a6c8a68c72727a32a"
+    },
+    {
       "name": "discovermag-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d736dd8fa4676ff6b3432255198bc5ea7e5f18c1",
-      "mtime": "1660178742",
-      "size": "74632",
-      "md5": "e4a677b363a9a4dbdd697fd5b66ef38c",
-      "crc32": "dfe51b87",
-      "sha1": "3d5614fd3c23e735d2b311fec9e078bc7c7f0396",
+      "btih": "663ed46264f64e4096a0ea40a9a9e5ca486a0706",
+      "mtime": "1660220588",
+      "size": "75701",
+      "md5": "bbd18b92f47a7cbb2b39545a8f5b30de",
+      "crc32": "26afdf13",
+      "sha1": "36aaec7896276f6cba7378359ffb1c066e0f2dd7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "discovermag-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b2b762ac2031e4790658bd9def0dc93b",
+      "md5": "edd108084a58efaff4ba2dffbc1c1a9b",
       "summation": "md5"
     },
     {
       "name": "discovermag-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660178590",
-      "size": "430080",
-      "md5": "9aeda13b8ae595f02516917275eedd74",
-      "crc32": "ca23f138",
-      "sha1": "e702b5622febab125eb8fc3dfbbf40dd73fea648",
+      "mtime": "1660218024",
+      "size": "434176",
+      "md5": "d1f688f686b4eb1756a210491dc5c129",
+      "crc32": "662880eb",
+      "sha1": "b7ae33cf14f2ad2d997ae1ec2b0516e4a844e04e",
       "format": "Metadata"
     },
     {
@@ -3628,9 +3680,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 347,
-  "item_last_updated": 1660178742,
-  "item_size": 27705571,
+  "files_count": 352,
+  "item_last_updated": 1660220588,
+  "item_size": 28017147,
   "metadata": {
     "identifier": "discovermag-2022",
     "collection": [
@@ -3647,10 +3699,10 @@
     "publicdate": "2022-07-04 20:47:27",
     "addeddate": "2022-07-04 20:47:27"
   },
-  "server": "ia802506.us.archive.org",
-  "uniq": 922290240,
+  "server": "ia902506.us.archive.org",
+  "uniq": 1171066207,
   "workable_servers": [
-    "ia802506.us.archive.org",
-    "ia902506.us.archive.org"
+    "ia902506.us.archive.org",
+    "ia802506.us.archive.org"
   ]
 }

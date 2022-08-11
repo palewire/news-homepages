@@ -1,10 +1,9 @@
 {
   "cnn-2022": {
     "url": "https://www.cnn.com/",
-    "job_id": "spn2-53bfa4b7bb9d31f894ce128811d273c13c45b412",
-    "message": "The capture will start in ~1 minute because our service is currently overloaded. You may close your browser window and the page will still be saved."
+    "job_id": "spn2-53bfa4b7bb9d31f894ce128811d273c13c45b412"
   },
-  "created": 1660178973,
+  "created": 1660224888,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/6/items/cnn-2022",
@@ -28627,31 +28626,93 @@
       "sha1": "660fd123dd8bf11f6763fc3da91e63eb27d5a758"
     },
     {
+      "name": "cnn-2022-08-10T22:25:05.568960-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660184708",
+      "size": "30867",
+      "md5": "2e04de9734bdc6752b35482de1854abf",
+      "crc32": "84464641",
+      "sha1": "6417d71d2c9dcc2515123802b49a5acc546d144e",
+      "format": "JSON"
+    },
+    {
+      "name": "cnn-2022-08-10T22:25:05.568960-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660184710",
+      "size": "28648",
+      "md5": "da584172f506e86cef552f720dea59ac",
+      "crc32": "cb703060",
+      "sha1": "66273f3c304580c9ec1e94191df3af4f79ff505d",
+      "format": "JSON"
+    },
+    {
+      "name": "cnn-2022-08-10T22:25:05.568960-04:00.jpg",
+      "source": "original",
+      "mtime": "1660184707",
+      "size": "343069",
+      "md5": "54a2ad8725d59d6b73817c6f5136a3e7",
+      "crc32": "44adc9c8",
+      "sha1": "e309c3af81ed3d953cf2631db29a31c28534b723",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cnn-2022-08-10T22:25:05.568960-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660184712",
+      "size": "1429",
+      "md5": "a622d9a532b6fff8fd8af9d58d862186",
+      "crc32": "8aedf253",
+      "sha1": "73edba634a9a60f3dfe91d6f44c104eec5a87514",
+      "format": "JSON"
+    },
+    {
+      "name": "cnn-2022-08-10T22:25:05.568960-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660184714",
+      "size": "96",
+      "md5": "23880cdf271999a4521053dbedfca3f7",
+      "crc32": "a9876d53",
+      "sha1": "30d8adda3c886ce6c0fa7f708e05ec749052cc0b",
+      "format": "JSON"
+    },
+    {
+      "name": "cnn-2022-08-10T22:25:05.568960-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cnn-2022-08-10T22:25:05.568960-04:00.jpg",
+      "mtime": "1660185006",
+      "size": "10128",
+      "md5": "23eb0f6af6434a5067e89e0f9384655f",
+      "crc32": "cc68e9d3",
+      "sha1": "10b06b0fcd1d46d9be2858bab4d2e4837378ea4d"
+    },
+    {
       "name": "cnn-2022_archive.torrent",
       "source": "metadata",
-      "btih": "93db3d280473f9c10fec6df0c32a6bd22900b1ee",
-      "mtime": "1660166704",
-      "size": "563209",
-      "md5": "f6b46378fc89f34578581402172c0034",
-      "crc32": "f21cee57",
-      "sha1": "f084ffb25000b90601ffebb1c14e7262da4e5978",
+      "btih": "050d24fcaf6cfe9d4035c8e36594776dba8b9dd4",
+      "mtime": "1660185215",
+      "size": "564444",
+      "md5": "5203979d107f0e5896a6862458a631b8",
+      "crc32": "0cac9545",
+      "sha1": "d3eb68edfd47745ea6430c362eda041b7f40e875",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cnn-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9807f786f1698af34d5b5b5af101181d",
+      "md5": "c543e88395a701387d57cf88c0464856",
       "summation": "md5"
     },
     {
       "name": "cnn-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660166214",
-      "size": "3088384",
-      "md5": "7457c3add1a70e33294bd22c969eac6f",
-      "crc32": "2d920ba6",
-      "sha1": "541a96955edbc4abc04807c61aec1d3faa34c3c4",
+      "mtime": "1660184729",
+      "size": "3092480",
+      "md5": "2400dff8aecbf5750e5818356968b579",
+      "crc32": "3bf7e70b",
+      "sha1": "f4da1a60164956c301d94be29034361b2cc9bae2",
       "format": "Metadata"
     },
     {
@@ -28665,9 +28726,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2728,
-  "item_last_updated": 1660166704,
-  "item_size": 294396975,
+  "files_count": 2734,
+  "item_last_updated": 1660185215,
+  "item_size": 294816543,
   "metadata": {
     "identifier": "cnn-2022",
     "collection": [
@@ -28684,10 +28745,10 @@
     "publicdate": "2022-03-23 01:45:45",
     "addeddate": "2022-03-23 01:45:45"
   },
-  "server": "ia601504.us.archive.org",
-  "uniq": 501686813,
+  "server": "ia801504.us.archive.org",
+  "uniq": 1722620761,
   "workable_servers": [
-    "ia601504.us.archive.org",
-    "ia801504.us.archive.org"
+    "ia801504.us.archive.org",
+    "ia601504.us.archive.org"
   ]
 }

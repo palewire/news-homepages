@@ -1,5 +1,5 @@
 {
-  "created": 1660161971,
+  "created": 1660225876,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/3/items/suntimes-2022",
@@ -6982,31 +6982,93 @@
       "sha1": "bcb0b13ca74c85e34f528773d56a11ee5f4d55a0"
     },
     {
+      "name": "suntimes-2022-08-10T21:25:28.722282-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660184744",
+      "size": "38902",
+      "md5": "bdc20d19ad4f8a71bb89c62391d32ce1",
+      "crc32": "912e303b",
+      "sha1": "bf1db971a2a8deb312495f0f903897922b476331",
+      "format": "JSON"
+    },
+    {
+      "name": "suntimes-2022-08-10T21:25:28.722282-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660184746",
+      "size": "57256",
+      "md5": "5bc8d240409e649e6174cab3e7eb7e3e",
+      "crc32": "310a39dd",
+      "sha1": "e8c733a1ef8f4ea02cd2bbaf7a91b85e1d404177",
+      "format": "JSON"
+    },
+    {
+      "name": "suntimes-2022-08-10T21:25:28.722282-05:00.jpg",
+      "source": "original",
+      "mtime": "1660184742",
+      "size": "272087",
+      "md5": "53f840ea591626075ce439706cc91baa",
+      "crc32": "65de1aae",
+      "sha1": "9bd04fc1df68e648950b15978d2e1990aead4f93",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "suntimes-2022-08-10T21:25:28.722282-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660184748",
+      "size": "1511",
+      "md5": "1742c21599446c6b9194378fa84e3011",
+      "crc32": "fb5dd555",
+      "sha1": "085e94bf5ced4e6c2a71401b78aec6dd22d06413",
+      "format": "JSON"
+    },
+    {
+      "name": "suntimes-2022-08-10T21:25:28.722282-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660184750",
+      "size": "105",
+      "md5": "34206c9af2e41d6bad8debe454420e1d",
+      "crc32": "420ac463",
+      "sha1": "5a54bd1f02e2ac8d880b5c5a45efe62929462f7b",
+      "format": "JSON"
+    },
+    {
+      "name": "suntimes-2022-08-10T21:25:28.722282-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "suntimes-2022-08-10T21:25:28.722282-05:00.jpg",
+      "mtime": "1660184975",
+      "size": "10024",
+      "md5": "2e54b85d11feb8992292803851cbe9e9",
+      "crc32": "e80c51b6",
+      "sha1": "de52839006bb6a10dc3e653f1cf92b3934fe8312"
+    },
+    {
       "name": "suntimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "29c53c33c3553359075ae54e8cfdd28fdfb4ce58",
-      "mtime": "1660160295",
-      "size": "142071",
-      "md5": "be0cf6f55793d9a5691c03c2d3aa390a",
-      "crc32": "6603c8db",
-      "sha1": "96e49eb2d99b24ae9cc38b938374fb6526e0b2a2",
+      "btih": "4e2f6ef24fab07acec4291719c92e4185d293e72",
+      "mtime": "1660184984",
+      "size": "143337",
+      "md5": "14eade758876f8c83245595a882e4a4a",
+      "crc32": "607de683",
+      "sha1": "d9084eca5f7a696c032790f4c699f48283b601c0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "suntimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "999db792feda785d5ef40a4af73b6edf",
+      "md5": "f18cb6c5845b02c07ec971e74402dc4f",
       "summation": "md5"
     },
     {
       "name": "suntimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660160061",
-      "size": "806912",
-      "md5": "7990c6ca826ad0cb9f1be773156d2519",
-      "crc32": "b2f50734",
-      "sha1": "79041a47d5b0cd93934cc982d40f922f233e7204",
+      "mtime": "1660184754",
+      "size": "815104",
+      "md5": "d92e16daafd661b235c45c1e936e4a8f",
+      "crc32": "81423b49",
+      "sha1": "7e2b2b6b2b3dfdebae746a4e7903f432a1a28f83",
       "format": "Metadata"
     },
     {
@@ -7020,9 +7082,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 672,
-  "item_last_updated": 1660160295,
-  "item_size": 53429720,
+  "files_count": 678,
+  "item_last_updated": 1660184984,
+  "item_size": 53819063,
   "metadata": {
     "identifier": "suntimes-2022",
     "collection": [
@@ -7039,10 +7101,14 @@
     "publicdate": "2022-06-24 23:02:19",
     "addeddate": "2022-06-24 23:02:19"
   },
-  "server": "ia802503.us.archive.org",
-  "uniq": 70922129,
+  "server": "ia902503.us.archive.org",
+  "suntimes-2022": {
+    "url": "https://chicago.suntimes.com/",
+    "job_id": "spn2-e47350cbd559d97c0e1d2ceba8a9b8d3cec23870"
+  },
+  "uniq": 1954063987,
   "workable_servers": [
-    "ia802503.us.archive.org",
-    "ia902503.us.archive.org"
+    "ia902503.us.archive.org",
+    "ia802503.us.archive.org"
   ]
 }

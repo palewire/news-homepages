@@ -1,5 +1,5 @@
 {
-  "created": 1660174699,
+  "created": 1660226021,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/4/items/thelasentinel-2022",
@@ -14216,31 +14216,93 @@
       "sha1": "c5010b5f39af0053042f29c1a6b53ee81531a093"
     },
     {
+      "name": "thelasentinel-2022-08-10T22:28:43.051120-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660195726",
+      "size": "44500",
+      "md5": "3010e6c147842201e603180fa203bffa",
+      "crc32": "ef67319c",
+      "sha1": "2b40d711ab8742642bdb23be78953638722d8dc0",
+      "format": "JSON"
+    },
+    {
+      "name": "thelasentinel-2022-08-10T22:28:43.051120-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660195728",
+      "size": "51177",
+      "md5": "9743f48a5d48e72ccf9a87c3dd03db2e",
+      "crc32": "89cfc639",
+      "sha1": "93952f85b00b90c791790265b850ebe55e5e2801",
+      "format": "JSON"
+    },
+    {
+      "name": "thelasentinel-2022-08-10T22:28:43.051120-07:00.jpg",
+      "source": "original",
+      "mtime": "1660195725",
+      "size": "294441",
+      "md5": "328ee515d7e19c7b5d1e4dfedc6bc763",
+      "crc32": "4212f141",
+      "sha1": "d3c95b2cfb26944309799370ffc574fdae59a3bd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thelasentinel-2022-08-10T22:28:43.051120-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660195729",
+      "size": "1459",
+      "md5": "a55fe55559fc6b93cb7de8d339f94cd1",
+      "crc32": "c872ee9c",
+      "sha1": "290820e1bf76597e5d8b3fc90cd792f82e8e37a3",
+      "format": "JSON"
+    },
+    {
+      "name": "thelasentinel-2022-08-10T22:28:43.051120-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660195731",
+      "size": "264",
+      "md5": "9d34ea534364f8643fe322e88249dd1f",
+      "crc32": "398853f3",
+      "sha1": "d39fc6d003b72eae1874e1e6c7651b7b27fee3dc",
+      "format": "JSON"
+    },
+    {
+      "name": "thelasentinel-2022-08-10T22:28:43.051120-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thelasentinel-2022-08-10T22:28:43.051120-07:00.jpg",
+      "mtime": "1660196414",
+      "size": "10991",
+      "md5": "eb8f40dc2409ba22ac20782622662df8",
+      "crc32": "4aecc64b",
+      "sha1": "2b249fa3c7b8894433dd49d1be91ed5592e19dcd"
+    },
+    {
       "name": "thelasentinel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d9489fd4297f31975f8034242264636df36cc8b3",
-      "mtime": "1660160375",
-      "size": "295433",
-      "md5": "44f81fd9e0bb65014f022e1ad1f9af5d",
-      "crc32": "b7c068e6",
-      "sha1": "62210a2594d8eca5e30984bbf08bfe0e66887d50",
+      "btih": "3868c8697a95b450c164d3a827b8f461758208f1",
+      "mtime": "1660196637",
+      "size": "296729",
+      "md5": "acf0d65825918e8a79e8cc7b89686165",
+      "crc32": "dd22c135",
+      "sha1": "ae99fd76c153b9972c4f1fb30576a47dbd2b63bc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thelasentinel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "21896df059b412aeeb950602f6f5f1ba",
+      "md5": "06e70da4b2f19d4b36607511e23426fd",
       "summation": "md5"
     },
     {
       "name": "thelasentinel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660160211",
-      "size": "1593344",
-      "md5": "8cb8dd9f59f5f2f211a2e7626267e8c5",
-      "crc32": "92b4a9d7",
-      "sha1": "49963943e6e789033ffde69acfffd4e55fc7ffa7",
+      "mtime": "1660195735",
+      "size": "1597440",
+      "md5": "52e0aa7afaf1f2e057fd3825c4413288",
+      "crc32": "fac93fc4",
+      "sha1": "c7eaaf7b0c1a610e1b071840d7063bd7f5332585",
       "format": "Metadata"
     },
     {
@@ -14254,9 +14316,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1360,
-  "item_last_updated": 1660160375,
-  "item_size": 152795528,
+  "files_count": 1366,
+  "item_last_updated": 1660196637,
+  "item_size": 153203752,
   "metadata": {
     "identifier": "thelasentinel-2022",
     "collection": [
@@ -14273,10 +14335,15 @@
     "publicdate": "2022-03-25 02:05:03",
     "addeddate": "2022-03-25 02:05:03"
   },
-  "server": "ia902503.us.archive.org",
-  "uniq": 2016110225,
+  "server": "ia802503.us.archive.org",
+  "thelasentinel-2022": {
+    "url": "https://lasentinel.net/",
+    "job_id": "spn2-c2764079d867f378d03eda6729d0e224b0e9b588",
+    "message": "The capture will start in ~1 minute because our service is currently overloaded. You may close your browser window and the page will still be saved."
+  },
+  "uniq": 1832413483,
   "workable_servers": [
-    "ia902503.us.archive.org",
-    "ia802503.us.archive.org"
+    "ia802503.us.archive.org",
+    "ia902503.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1660179836,
+  "created": 1660226115,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/19/items/ujyaalo-2022",
@@ -2028,31 +2028,93 @@
       "sha1": "0ff06eb949b7cef683ce761505abb93d2a8e95d9"
     },
     {
+      "name": "ujyaalo-2022-08-11T08:15:05.767011+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1660185008",
+      "size": "93975",
+      "md5": "2dabfce8f1fa10789c53cc972c643af5",
+      "crc32": "bc7d6585",
+      "sha1": "81afd777960a7ebefbffebba22205edf68abddaa",
+      "format": "JSON"
+    },
+    {
+      "name": "ujyaalo-2022-08-11T08:15:05.767011+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660185009",
+      "size": "71427",
+      "md5": "6386842a3523f65cedf4e0dafa150e5a",
+      "crc32": "61460dbe",
+      "sha1": "bb6a7a1e1da092d217eb1813e265abc91d9cd8fc",
+      "format": "JSON"
+    },
+    {
+      "name": "ujyaalo-2022-08-11T08:15:05.767011+05:45.jpg",
+      "source": "original",
+      "mtime": "1660185006",
+      "size": "255265",
+      "md5": "ef025148548c833b0419b94de0246fe8",
+      "crc32": "3cddd589",
+      "sha1": "396c74da803bb19d155afe66ee6e13ec736def17",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ujyaalo-2022-08-11T08:15:05.767011+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1660185011",
+      "size": "1485",
+      "md5": "887598b030caead0a86a8668969eb58e",
+      "crc32": "c66a022f",
+      "sha1": "94e05b20200f94e74957dc6455b831697257aabc",
+      "format": "JSON"
+    },
+    {
+      "name": "ujyaalo-2022-08-11T08:15:05.767011+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1660185012",
+      "size": "102",
+      "md5": "cf0ce37a64faf8c3353b22963374c71c",
+      "crc32": "5259bcb6",
+      "sha1": "88154d49a77ad82c0cbc40dd0a4622798ddb6e89",
+      "format": "JSON"
+    },
+    {
+      "name": "ujyaalo-2022-08-11T08:15:05.767011+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ujyaalo-2022-08-11T08:15:05.767011+05:45.jpg",
+      "mtime": "1660185155",
+      "size": "10004",
+      "md5": "d409cc15466be44b3bf4aa0044c663c6",
+      "crc32": "a16673c6",
+      "sha1": "1a1e1f20910944865eceac827ade64a98c349acf"
+    },
+    {
       "name": "ujyaalo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7bdb13f6e999bafdb3645350d924695765b2f881",
-      "mtime": "1660154192",
-      "size": "42350",
-      "md5": "b3a90b795eb7c890339f487ae6f116d6",
-      "crc32": "85da81d6",
-      "sha1": "4c0df085e628074cb5ee86f828dd71777e38b4c8",
+      "btih": "5af2cbbde1cf1603dc5ee601dddaba27f2382612",
+      "mtime": "1660185162",
+      "size": "43610",
+      "md5": "bc44f339ef51dc1966a42404cd867702",
+      "crc32": "79a8bcfd",
+      "sha1": "cfbd9877426b76695f31437092842789404072f9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ujyaalo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "62f6ae9fb3c4a410f60bab9b7f48d208",
+      "md5": "d8d3cdff3a3ea24d4a13b64ce6acf588",
       "summation": "md5"
     },
     {
       "name": "ujyaalo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660153970",
-      "size": "262144",
-      "md5": "4bec65181adcef3b518584c223e5370e",
-      "crc32": "117c5ed7",
-      "sha1": "c6b519e837b50a3f10bc8b7932a7f44d4dd736f0",
+      "mtime": "1660185018",
+      "size": "274432",
+      "md5": "8cde91d803f0c736c73e1c5a55ddd1e7",
+      "crc32": "f9bc1ca5",
+      "sha1": "42035035c24931c89a2ea3cc5f14126514e7200e",
       "format": "Metadata"
     },
     {
@@ -2066,9 +2128,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 199,
-  "item_last_updated": 1660154192,
-  "item_size": 16179734,
+  "files_count": 205,
+  "item_last_updated": 1660185162,
+  "item_size": 16625540,
   "metadata": {
     "identifier": "ujyaalo-2022",
     "collection": [
@@ -2090,7 +2152,7 @@
     "url": "https://ujyaaloonline.com/",
     "job_id": "spn2-5b64ac8dea3663443602de83c43865816ba479f2"
   },
-  "uniq": 1418662300,
+  "uniq": 186059465,
   "workable_servers": [
     "ia801401.us.archive.org",
     "ia601401.us.archive.org"

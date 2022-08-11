@@ -1,5 +1,5 @@
 {
-  "created": 1660179563,
+  "created": 1660225721,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/30/items/rnz_news-2022",
@@ -728,31 +728,93 @@
       "format": "JSON"
     },
     {
+      "name": "rnz_news-2022-08-11T17:23:10.217749+12:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660195394",
+      "size": "25052",
+      "md5": "cd5df5555b168e085a8b516e903702a1",
+      "crc32": "05d4e882",
+      "sha1": "9acb0dd09bb7c637116c3aa040d089e86f1a1e9a",
+      "format": "JSON"
+    },
+    {
+      "name": "rnz_news-2022-08-11T17:23:10.217749+12:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660195395",
+      "size": "28005",
+      "md5": "baf23f822df12348b176b7e15aa792a1",
+      "crc32": "e49e745d",
+      "sha1": "f12fbbc74900bd3ff59314a0248af1cc6f1a8ac5",
+      "format": "JSON"
+    },
+    {
+      "name": "rnz_news-2022-08-11T17:23:10.217749+12:00.jpg",
+      "source": "original",
+      "mtime": "1660195392",
+      "size": "304189",
+      "md5": "f43a72b508880a85488cdb46e075434d",
+      "crc32": "e1930c10",
+      "sha1": "1c867c45883edbbf37b9a6e6af3d577ec1ebad4f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rnz_news-2022-08-11T17:23:10.217749+12:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660195397",
+      "size": "1486",
+      "md5": "a16fadaf4e85a4e8c7a16ed517728f95",
+      "crc32": "4af8a7ef",
+      "sha1": "1eeac90c080e02f56cd5a785536239133c5ebb1e",
+      "format": "JSON"
+    },
+    {
+      "name": "rnz_news-2022-08-11T17:23:10.217749+12:00.wayback.json",
+      "source": "original",
+      "mtime": "1660195398",
+      "size": "102",
+      "md5": "37062d28f0038a5ce0a971b1eac67fdd",
+      "crc32": "4dc010da",
+      "sha1": "d3ab7d48a51762e985417c6114896eafb32a1790",
+      "format": "JSON"
+    },
+    {
+      "name": "rnz_news-2022-08-11T17:23:10.217749+12:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rnz_news-2022-08-11T17:23:10.217749+12:00.jpg",
+      "mtime": "1660196025",
+      "size": "9700",
+      "md5": "a5516ce34306ccd93116c7342e3f8816",
+      "crc32": "3b35ae3f",
+      "sha1": "70cea987c07cfcf08bdd7c9b212b749a2c86e058"
+    },
+    {
       "name": "rnz_news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cb808f0f45d3ee4a1f1e9bf5eaf60756ca85ce5e",
-      "mtime": "1660156197",
-      "size": "16135",
-      "md5": "a0ddbf8a1c1747c82fabf36e804105d3",
-      "crc32": "fcc39ba5",
-      "sha1": "a7ce8ba0dbfd30eb8a46bc067f10ae3c4a160e0b",
+      "btih": "a57dcf43b9aefaf7fbbbce549d3766f347f59785",
+      "mtime": "1660196029",
+      "size": "17400",
+      "md5": "54f5cf5c70215592fb521d4940c3fed7",
+      "crc32": "8f53cafb",
+      "sha1": "65647032426fc6e7c769f95df93bc24567dde60f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rnz_news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "20bf1e4dbd08c5a32411e75d90107464",
+      "md5": "a403667b9d3efe7e2c530d5b5387bf50",
       "summation": "md5"
     },
     {
       "name": "rnz_news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660156160",
-      "size": "110592",
-      "md5": "98df37f15c9bb4988264aaf7d8383bb0",
-      "crc32": "c5f1e0c3",
-      "sha1": "6a2a1fa3fb9261cef3a3ba7e8b81300286a3cc01",
+      "mtime": "1660195402",
+      "size": "114688",
+      "md5": "81652c2fa945b660fd44fb73501f968c",
+      "crc32": "06a728ca",
+      "sha1": "4c70158f28e20ff64d231419b6244b921953b33f",
       "format": "Metadata"
     },
     {
@@ -766,9 +828,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 74,
-  "item_last_updated": 1660156197,
-  "item_size": 4480914,
+  "files_count": 80,
+  "item_last_updated": 1660196029,
+  "item_size": 4854809,
   "metadata": {
     "identifier": "rnz_news-2022",
     "collection": [
@@ -786,12 +848,11 @@
     "addeddate": "2022-08-05 04:40:00"
   },
   "rnz_news-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
+    "url": "https://www.rnz.co.nz/news",
+    "job_id": "spn2-30bf8352959ac90ecfea5f67cf977e4b53c1664e"
   },
   "server": "ia801506.us.archive.org",
-  "uniq": 65106471,
+  "uniq": 170475235,
   "workable_servers": [
     "ia801506.us.archive.org",
     "ia601506.us.archive.org"

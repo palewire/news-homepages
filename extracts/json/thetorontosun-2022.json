@@ -1,5 +1,5 @@
 {
-  "created": 1660178251,
+  "created": 1660212276,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/33/items/thetorontosun-2022",
@@ -4696,31 +4696,93 @@
       "sha1": "1d3c21a8c0388610b80c0da545ade598aae4b4f2"
     },
     {
+      "name": "thetorontosun-2022-08-11T01:28:41.646092-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660195724",
+      "size": "84453",
+      "md5": "717dd5052106ec09ce9774c5df19ac1b",
+      "crc32": "0d699455",
+      "sha1": "c5a0e2765bdc4dd14c7b8309e09d820736939487",
+      "format": "JSON"
+    },
+    {
+      "name": "thetorontosun-2022-08-11T01:28:41.646092-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660195726",
+      "size": "56793",
+      "md5": "bc4554051cf963e0177134e143e2e2b7",
+      "crc32": "64c7843c",
+      "sha1": "9af55a198f13ffefffbba3e34595aa91a3f8ec37",
+      "format": "JSON"
+    },
+    {
+      "name": "thetorontosun-2022-08-11T01:28:41.646092-04:00.jpg",
+      "source": "original",
+      "mtime": "1660195723",
+      "size": "351539",
+      "md5": "a493780ffdbac821a1beb78f65d7a843",
+      "crc32": "b5ffed2f",
+      "sha1": "41765c0e8709a8a5bc3ae31ce9d85c0c3baaf511",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thetorontosun-2022-08-11T01:28:41.646092-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660195728",
+      "size": "1459",
+      "md5": "7b165f0070789e1977dc6fbae03ee62d",
+      "crc32": "c20e67e7",
+      "sha1": "67d74a81979b7245a073ad15e33526b4972a1631",
+      "format": "JSON"
+    },
+    {
+      "name": "thetorontosun-2022-08-11T01:28:41.646092-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660195729",
+      "size": "264",
+      "md5": "b235c07c22229135eb7876e312f3ae8c",
+      "crc32": "e6e9cbc7",
+      "sha1": "ec076576edf789b4f2ebd49182a7c15071988ee9",
+      "format": "JSON"
+    },
+    {
+      "name": "thetorontosun-2022-08-11T01:28:41.646092-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thetorontosun-2022-08-11T01:28:41.646092-04:00.jpg",
+      "mtime": "1660196342",
+      "size": "11613",
+      "md5": "ae49791138ee28bae260145b9aea613a",
+      "crc32": "e1825cfb",
+      "sha1": "3d248923358faa88b99d0147c54668428a2c0b12"
+    },
+    {
       "name": "thetorontosun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "aff8f7bae5beb642ba9373f6f1952ed966ec1373",
-      "mtime": "1660156444",
-      "size": "98914",
-      "md5": "c874d2850a123cd12ac924dcd94f2660",
-      "crc32": "779dd305",
-      "sha1": "5b90abf80adbd5251d2d69abac12c45997189de1",
+      "btih": "8e816486ac43b499c0a8261a3200d48e2fde95b7",
+      "mtime": "1660196352",
+      "size": "100210",
+      "md5": "01ab04a6380b9418c08df42565c76ad8",
+      "crc32": "f864e7a2",
+      "sha1": "6791c110ceb5881716838a69fbced06f2d02630b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thetorontosun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7373074395cbb06e23a85cfddaa2e3c9",
+      "md5": "c035ff8aa48c7e9682dbe7f8fb6b32b2",
       "summation": "md5"
     },
     {
       "name": "thetorontosun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660156277",
-      "size": "557056",
-      "md5": "495e6c7fa214ee15f0ffa7e8796d7717",
-      "crc32": "57f029b5",
-      "sha1": "2bcf1da1b67f7b1c638c6875dda0b5b77322e2f4",
+      "mtime": "1660195734",
+      "size": "565248",
+      "md5": "612f81a3ca66d02b5e53f28c9d8c0885",
+      "crc32": "9f146b47",
+      "sha1": "235bdb61164f18e9f4990008b7f9b1fa11152eb0",
       "format": "Metadata"
     },
     {
@@ -4734,9 +4796,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 453,
-  "item_last_updated": 1660156444,
-  "item_size": 51817047,
+  "files_count": 459,
+  "item_last_updated": 1660196352,
+  "item_size": 52332656,
   "metadata": {
     "identifier": "thetorontosun-2022",
     "collection": [
@@ -4754,7 +4816,7 @@
     "addeddate": "2022-06-30 22:37:08"
   },
   "server": "ia801400.us.archive.org",
-  "uniq": 99273238,
+  "uniq": 1005873554,
   "workable_servers": [
     "ia801400.us.archive.org",
     "ia601400.us.archive.org"

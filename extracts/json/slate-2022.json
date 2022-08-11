@@ -1,5 +1,5 @@
 {
-  "created": 1660179608,
+  "created": 1660225798,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/12/items/slate-2022",
@@ -6282,31 +6282,93 @@
       "sha1": "1db65a4150b9c96f5ef48a59b2bbd0aefa9b6f8e"
     },
     {
+      "name": "slate-2022-08-10T21:00:04.607419-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660179611",
+      "size": "37119",
+      "md5": "ed0d01b6164728d6ac047f80af9a0dd1",
+      "crc32": "59267322",
+      "sha1": "d355921c6f63438e137bd809bd88401764d5f73f",
+      "format": "JSON"
+    },
+    {
+      "name": "slate-2022-08-10T21:00:04.607419-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660179613",
+      "size": "52660",
+      "md5": "2ea6bfcf9bb4f0cecd10874c5d5061b1",
+      "crc32": "ea356377",
+      "sha1": "fd37126a6cff8b972d75c16c8f0b524a6747047b",
+      "format": "JSON"
+    },
+    {
+      "name": "slate-2022-08-10T21:00:04.607419-04:00.jpg",
+      "source": "original",
+      "mtime": "1660179609",
+      "size": "238511",
+      "md5": "bfc9811ac94fa343da6018f733f8b15f",
+      "crc32": "e96ce42e",
+      "sha1": "70d504c566f6cd8ad96a1901b37594090c647e7b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "slate-2022-08-10T21:00:04.607419-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660179615",
+      "size": "1414",
+      "md5": "591258e5fe1e93723598c9d66cf2e7bf",
+      "crc32": "34f1efb9",
+      "sha1": "af2784fb510fa57d9e10f466d0bc93be27b96b27",
+      "format": "JSON"
+    },
+    {
+      "name": "slate-2022-08-10T21:00:04.607419-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660179616",
+      "size": "260",
+      "md5": "92528a4995150faa24bb509654562fd6",
+      "crc32": "877a6305",
+      "sha1": "4e6292d216018ed063f240cae88dabd1b34642b1",
+      "format": "JSON"
+    },
+    {
+      "name": "slate-2022-08-10T21:00:04.607419-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "slate-2022-08-10T21:00:04.607419-04:00.jpg",
+      "mtime": "1660180000",
+      "size": "9446",
+      "md5": "af34163bc3408301d4a9fcd234676872",
+      "crc32": "79654ca8",
+      "sha1": "5e75045d81fa59393fc60a2458617975d54a243d"
+    },
+    {
       "name": "slate-2022_archive.torrent",
       "source": "metadata",
-      "btih": "befacc7404257b3f1fcb8b609bd8716ea026701d",
-      "mtime": "1660160658",
-      "size": "126057",
-      "md5": "1511632d412843c7d4d0aafc94feb8bf",
-      "crc32": "7e93418a",
-      "sha1": "45f0c1fd526a2b87f6ab91fb37ebac4df87b2df4",
+      "btih": "25ca4e5cc7b027d4ece48bc952bbce7672aae8e9",
+      "mtime": "1660180007",
+      "size": "127284",
+      "md5": "34b55e10a4a909caaf71c75ba916e87f",
+      "crc32": "b1f6c9d0",
+      "sha1": "21920166badec19f22808c6b417702b3d4dd7841",
       "format": "Archive BitTorrent"
     },
     {
       "name": "slate-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f86f3fd5bd64675daa71d5ea4a546c23",
+      "md5": "d06a672cf41f0e651c4322d251fef51d",
       "summation": "md5"
     },
     {
       "name": "slate-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660160488",
-      "size": "729088",
-      "md5": "305b9cb832cec12670dde87d1e058bf6",
-      "crc32": "ef883fe9",
-      "sha1": "c65ef693cc4f3832c0e55f95a8cd94f41a0a1067",
+      "mtime": "1660179664",
+      "size": "737280",
+      "md5": "f35040d8175af1aafd4900403ba5197d",
+      "crc32": "17e5412a",
+      "sha1": "bfcc545ef956d98207523eb83f6f84d8b1931179",
       "format": "Metadata"
     },
     {
@@ -6320,9 +6382,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 605,
-  "item_last_updated": 1660160658,
-  "item_size": 46400018,
+  "files_count": 611,
+  "item_last_updated": 1660180007,
+  "item_size": 46748847,
   "metadata": {
     "identifier": "slate-2022",
     "collection": [
@@ -6339,53 +6401,15 @@
     "publicdate": "2022-06-24 23:01:12",
     "addeddate": "2022-06-24 23:01:12"
   },
-  "pending_tasks": true,
-  "server": "ia601405.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3360664153,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    },
-    {
-      "task_id": 3360664192,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    },
-    {
-      "task_id": 3360664246,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    },
-    {
-      "task_id": 3360664305,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    },
-    {
-      "task_id": 3360664347,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 558474534,
+  "server": "ia801405.us.archive.org",
+  "slate-2022": {
+    "url": "https://slate.com/",
+    "job_id": "spn2-c94e53198f17c7c593ebe6ebf79473a77fa3d891",
+    "message": "The capture will start in ~2 minutes because our service is currently overloaded. You may close your browser window and the page will still be saved."
+  },
+  "uniq": 955335563,
   "workable_servers": [
+    "ia801405.us.archive.org",
     "ia601405.us.archive.org"
   ]
 }

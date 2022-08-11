@@ -1,5 +1,5 @@
 {
-  "created": 1660179913,
+  "created": 1660226273,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/35/items/wcfcourier-2022",
@@ -9464,31 +9464,93 @@
       "sha1": "674e49b5e62eff68e2c9f78b83cb1add2ddb807a"
     },
     {
+      "name": "wcfcourier-2022-08-11T00:31:46.846448-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660195913",
+      "size": "25199",
+      "md5": "f22f80828c703b7b0f5d336e30a6276d",
+      "crc32": "45418283",
+      "sha1": "a6cb6528a9a2fc24c9482d3d19848fe1d615f5b3",
+      "format": "JSON"
+    },
+    {
+      "name": "wcfcourier-2022-08-11T00:31:46.846448-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660195915",
+      "size": "77374",
+      "md5": "565efc6bb26a7d9e31d15c734157dfb2",
+      "crc32": "205675af",
+      "sha1": "8ba0e1db1d018a42bfb4493de8ef31137d68d9f5",
+      "format": "JSON"
+    },
+    {
+      "name": "wcfcourier-2022-08-11T00:31:46.846448-05:00.jpg",
+      "source": "original",
+      "mtime": "1660195912",
+      "size": "289657",
+      "md5": "4ea96bebc03bdaecd12a495df2215f20",
+      "crc32": "44a78ae0",
+      "sha1": "70634c475f66d4f097455138211a21d79a807c0c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wcfcourier-2022-08-11T00:31:46.846448-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660195917",
+      "size": "1459",
+      "md5": "7077690352392afaa384d1444ac8c65a",
+      "crc32": "472b474e",
+      "sha1": "3dcafa7c5ba16d9525c394cbbf5c47cee1b5e41f",
+      "format": "JSON"
+    },
+    {
+      "name": "wcfcourier-2022-08-11T00:31:46.846448-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660195918",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "wcfcourier-2022-08-11T00:31:46.846448-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wcfcourier-2022-08-11T00:31:46.846448-05:00.jpg",
+      "mtime": "1660196487",
+      "size": "11751",
+      "md5": "3e03d5ff4747ab6cf37b92ee63354b79",
+      "crc32": "13dd78fe",
+      "sha1": "2046fba4d1a95fd7fb203477fe022dabefabbc3b"
+    },
+    {
       "name": "wcfcourier-2022_archive.torrent",
       "source": "metadata",
-      "btih": "59042c7d8d3275c553a4f89b0d8254a626a0fbe6",
-      "mtime": "1660158164",
-      "size": "193784",
-      "md5": "0e6d6a51c5887454a1887da3f543d944",
-      "crc32": "c2193956",
-      "sha1": "210a1c3c18095a9f2b2e469159715f2acd982f3f",
+      "btih": "0abe0f4a0288e13b10fc02c7bdabb140eadebffc",
+      "mtime": "1660196503",
+      "size": "195062",
+      "md5": "ee8668b96713c0f49c1a162bf17b3560",
+      "crc32": "c3e5413c",
+      "sha1": "3e7bf43a0b46ba04230cf0de9e5596674c2a4f83",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wcfcourier-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "29b4c5da1fa4e8c1a87fb7e069765e7a",
+      "md5": "08dc769f5a090f1132436e4ed335faf6",
       "summation": "md5"
     },
     {
       "name": "wcfcourier-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660157813",
-      "size": "1060864",
-      "md5": "1ac6a7c9fed61e5060106efd4cfca06b",
-      "crc32": "f22f6623",
-      "sha1": "898917a2d8cb0bb29398d4c6fd23b3a2e641baa2",
+      "mtime": "1660195923",
+      "size": "1064960",
+      "md5": "6dc91cff550daa80f0c3c17697f84e23",
+      "crc32": "cb6c586e",
+      "sha1": "e27ac0c3e1b4012b7c5ef5afef67f5bcef6cc2e9",
       "format": "Metadata"
     },
     {
@@ -9502,9 +9564,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 906,
-  "item_last_updated": 1660158164,
-  "item_size": 90502101,
+  "files_count": 912,
+  "item_last_updated": 1660196503,
+  "item_size": 90913117,
   "metadata": {
     "identifier": "wcfcourier-2022",
     "collection": [
@@ -9522,11 +9584,11 @@
     "addeddate": "2022-03-25 14:09:45"
   },
   "server": "ia801407.us.archive.org",
-  "uniq": 854856564,
+  "uniq": 1482262819,
   "wcfcourier-2022": {
-    "url": "https://wcfcourier.com/",
-    "job_id": "spn2-0a7690f0b38e0d9d617ad33d3fc8cda7669381bd",
-    "message": "The capture will start in ~1 minute because our service is currently overloaded. You may close your browser window and the page will still be saved."
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
   },
   "workable_servers": [
     "ia801407.us.archive.org",

@@ -1,5 +1,5 @@
 {
-  "created": 1660137790,
+  "created": 1660225823,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/33/items/spectrumnews-2022",
@@ -5126,31 +5126,93 @@
       "sha1": "7f7f2f563ee5c75603ec7b9511e1fb2187221cdf"
     },
     {
+      "name": "spectrumnews-2022-08-10T19:00:46.759106-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660179649",
+      "size": "22717",
+      "md5": "51cbef36e962e8b65f98d7a8faca26f3",
+      "crc32": "a0b5b719",
+      "sha1": "c05bb860587e51ea8a9434ad13e5f11a9f358745",
+      "format": "JSON"
+    },
+    {
+      "name": "spectrumnews-2022-08-10T19:00:46.759106-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660179651",
+      "size": "31691",
+      "md5": "5a0baee39c818f9e4027fb6fbada73b4",
+      "crc32": "26a0dc20",
+      "sha1": "bc4b010ce23ce52d43525d50c5d79f8d56b57b78",
+      "format": "JSON"
+    },
+    {
+      "name": "spectrumnews-2022-08-10T19:00:46.759106-06:00.jpg",
+      "source": "original",
+      "mtime": "1660179647",
+      "size": "256019",
+      "md5": "ad87b0b4ef6766e163ca6fb4d035f994",
+      "crc32": "8027d9ea",
+      "sha1": "fd7e8e79e737c42ab9e5d65c6172b651c44ad975",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "spectrumnews-2022-08-10T19:00:46.759106-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660179653",
+      "size": "1504",
+      "md5": "a24ba4f42d7ddadb1fec9a300a4dca53",
+      "crc32": "cfbcb04d",
+      "sha1": "70452dcb11af41b4670a1a93699d4817df0a2f01",
+      "format": "JSON"
+    },
+    {
+      "name": "spectrumnews-2022-08-10T19:00:46.759106-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1660179654",
+      "size": "270",
+      "md5": "5b7d79a37da999414ad7e7237da5c2a9",
+      "crc32": "99693aa7",
+      "sha1": "2bd9de9d9d785bd8846da245bf071769e71070e5",
+      "format": "JSON"
+    },
+    {
+      "name": "spectrumnews-2022-08-10T19:00:46.759106-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "spectrumnews-2022-08-10T19:00:46.759106-06:00.jpg",
+      "mtime": "1660179798",
+      "size": "9137",
+      "md5": "8db8e593f893ce3c9db5648515ed8007",
+      "crc32": "cf302747",
+      "sha1": "3aa0563437c2816bc62d14e58a3c366d7d2a25c6"
+    },
+    {
       "name": "spectrumnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4d4752f17920f0c89f023f29d8ad7a26dececd70",
-      "mtime": "1660137773",
-      "size": "106434",
-      "md5": "ac60bd1c29a05e40009e354adf726ce6",
-      "crc32": "23bad394",
-      "sha1": "6865d9d883409f9e167c660e91a2625c89af3146",
+      "btih": "c41e5d980741cd02f42e50396aa791a77f5baed0",
+      "mtime": "1660179805",
+      "size": "107703",
+      "md5": "bc795222e087b663723cbe606b7743d5",
+      "crc32": "3a91cb99",
+      "sha1": "947c05ff145ce728397b7e9dfacbf5c14b59540f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "spectrumnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f754dbf98d8bc7e9e690a6a5b4a1fca5",
+      "md5": "bf9cd5386703ca39b197e0bd04c1d6e6",
       "summation": "md5"
     },
     {
       "name": "spectrumnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660137626",
-      "size": "602112",
-      "md5": "188699498427a3f4f51b790fcbdeccd1",
-      "crc32": "74afac53",
-      "sha1": "0f7b4a77e06d89feaf959aba3effcf5d18c72ac2",
+      "mtime": "1660179673",
+      "size": "606208",
+      "md5": "e5f9374139b64d3f51cded5897f37f42",
+      "crc32": "7c6d684a",
+      "sha1": "73c351b38a3ddc292805e1619d97c935b8d66648",
       "format": "Metadata"
     },
     {
@@ -5164,9 +5226,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 494,
-  "item_last_updated": 1660137773,
-  "item_size": 35829281,
+  "files_count": 500,
+  "item_last_updated": 1660179805,
+  "item_size": 36155984,
   "metadata": {
     "identifier": "spectrumnews-2022",
     "collection": [
@@ -5183,10 +5245,15 @@
     "publicdate": "2022-06-24 23:02:15",
     "addeddate": "2022-06-24 23:02:15"
   },
-  "server": "ia802507.us.archive.org",
-  "uniq": 2122842153,
+  "server": "ia902507.us.archive.org",
+  "spectrumnews-2022": {
+    "url": "https://www.thespectrum.com/",
+    "job_id": "spn2-7862712e63b689c763f0c1e8420af4f338fb70e3",
+    "message": "The capture will start in ~2 minutes because our service is currently overloaded. You may close your browser window and the page will still be saved."
+  },
+  "uniq": 244335172,
   "workable_servers": [
-    "ia802507.us.archive.org",
-    "ia902507.us.archive.org"
+    "ia902507.us.archive.org",
+    "ia802507.us.archive.org"
   ]
 }

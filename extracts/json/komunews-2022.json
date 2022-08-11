@@ -1,5 +1,5 @@
 {
-  "created": 1660179079,
+  "created": 1660224977,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/31/items/komunews-2022",
@@ -5096,31 +5096,82 @@
       "sha1": "8fb65e4a758b7643523d88b2955e49f0661f8603"
     },
     {
+      "name": "komunews-2022-08-11T08:35:18.249824-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660224923",
+      "size": "25360",
+      "md5": "1b40a34ef41058f086898f4a679e90d1",
+      "crc32": "3b8ac2b2",
+      "sha1": "fdcb81a842344434c76f4df1777c07e75dfa8611",
+      "format": "JSON"
+    },
+    {
+      "name": "komunews-2022-08-11T08:35:18.249824-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660224925",
+      "size": "46248",
+      "md5": "016f0d867cee5ef6f786565f836485da",
+      "crc32": "4af6573e",
+      "sha1": "3df9a2f546c056bb05c7546e052cdbef708e10ec",
+      "format": "JSON"
+    },
+    {
+      "name": "komunews-2022-08-11T08:35:18.249824-05:00.jpg",
+      "source": "original",
+      "mtime": "1660224922",
+      "size": "301449",
+      "md5": "5e185a99eb0428312cda015250c783cb",
+      "crc32": "73d57e2e",
+      "sha1": "709233e4468fdc107377441339e022847ed342da",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "komunews-2022-08-11T08:35:18.249824-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660224927",
+      "size": "1435",
+      "md5": "068487447c1a66bd5088c174c2d967d9",
+      "crc32": "0c63129d",
+      "sha1": "9d8ac6453ee3b24b2e64ff30080cff7efa81e9eb",
+      "format": "JSON"
+    },
+    {
+      "name": "komunews-2022-08-11T08:35:18.249824-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660224929",
+      "size": "226",
+      "md5": "9e46ac1ef73823c1142add844f813f91",
+      "crc32": "6f3162eb",
+      "sha1": "f66eadbaf67ce752c487f122e615748303bb91ad",
+      "format": "JSON"
+    },
+    {
       "name": "komunews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ae59f0a8abb66e8e76d6ffca75fcadf00a636232",
-      "mtime": "1660179070",
-      "size": "104205",
-      "md5": "e5c1524171836cd428c1af3c62770b20",
-      "crc32": "a4647fe0",
-      "sha1": "2d9eb749e0cf1662e2343a03247ff14f52e08575",
+      "btih": "71237d4197fcdb88fdc34eb0d676c3b6acb5e69a",
+      "mtime": "1660224971",
+      "size": "105266",
+      "md5": "a17758af2a1502e1f2e946de17dafb68",
+      "crc32": "0088de9d",
+      "sha1": "2b617d79413f17aa9028cc45b1c8153827265284",
       "format": "Archive BitTorrent"
     },
     {
       "name": "komunews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c7d7c35568aceaa467986df12af809d2",
+      "md5": "fb9e6be185f4d77f48aff81e37dcac27",
       "summation": "md5"
     },
     {
       "name": "komunews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660178963",
-      "size": "598016",
-      "md5": "a4d4051d8ae3c0d2d8572e2b05040ca9",
-      "crc32": "69147b46",
-      "sha1": "37266d3f179d7b4f446edd33314d0f7f8c859424",
+      "mtime": "1660224933",
+      "size": "602112",
+      "md5": "a35122592c55decfcf9c1f949537de59",
+      "crc32": "8a44875a",
+      "sha1": "5f04c31437d97fbb0d5a06d6ade064372d4fd94c",
       "format": "Metadata"
     },
     {
@@ -5134,9 +5185,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 491,
-  "item_last_updated": 1660179070,
-  "item_size": 43825436,
+  "files_count": 496,
+  "item_last_updated": 1660224971,
+  "item_size": 44205311,
   "metadata": {
     "identifier": "komunews-2022",
     "collection": [
@@ -5153,10 +5204,21 @@
     "publicdate": "2022-06-24 22:57:45",
     "addeddate": "2022-06-24 22:57:45"
   },
+  "pending_tasks": true,
   "server": "ia601407.us.archive.org",
-  "uniq": 243314829,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3361491362,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 384613930,
   "workable_servers": [
-    "ia601407.us.archive.org",
-    "ia801407.us.archive.org"
+    "ia601407.us.archive.org"
   ]
 }

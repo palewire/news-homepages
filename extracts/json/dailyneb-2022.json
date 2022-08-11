@@ -1,8 +1,11 @@
 {
-  "conflict": 1660178820,
-  "created": 1660178820,
+  "created": 1660224936,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
+  "dailyneb-2022": {
+    "url": "https://www.dailynebraskan.com/",
+    "job_id": "spn2-916754dbdf946f18f4c52f41eff2606baf613362"
+  },
   "dir": "/10/items/dailyneb-2022",
   "files": [
     {
@@ -1405,31 +1408,93 @@
       "sha1": "9e8444d885d1bf2d5353d8892c5861eb56043992"
     },
     {
+      "name": "dailyneb-2022-08-11T06:39:38.967569-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660217983",
+      "size": "15952",
+      "md5": "b7cb577ea398e321da5966c7060e69e2",
+      "crc32": "299f72b4",
+      "sha1": "9e7e4008bc7625b7c03de16d8ab32b0fa37651f6",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyneb-2022-08-11T06:39:38.967569-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660217989",
+      "size": "30537",
+      "md5": "852147a50ac7e954a867e350a3573b6b",
+      "crc32": "f7bdeb0e",
+      "sha1": "16bda8be79a91aa4edf5614beda531ecd875a016",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyneb-2022-08-11T06:39:38.967569-05:00.jpg",
+      "source": "original",
+      "mtime": "1660217982",
+      "size": "276065",
+      "md5": "958a8409efc9a872b81239abc9a06b5e",
+      "crc32": "d4e58c56",
+      "sha1": "02328931b4c711db95d607f53c234741ddc7c884",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailyneb-2022-08-11T06:39:38.967569-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660217990",
+      "size": "1531",
+      "md5": "b2cfd69cdb850795b717c81f8b885cc1",
+      "crc32": "a2c102a5",
+      "sha1": "4e2eeff5cd3eacd5354eea6b7088b79405cd09c2",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyneb-2022-08-11T06:39:38.967569-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660217992",
+      "size": "107",
+      "md5": "3b702088edc76716d7a93aa8823731f7",
+      "crc32": "032b8edc",
+      "sha1": "d9042d2a71cea091c31b6ab9ca6d60990f72b021",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyneb-2022-08-11T06:39:38.967569-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailyneb-2022-08-11T06:39:38.967569-05:00.jpg",
+      "mtime": "1660220496",
+      "size": "10507",
+      "md5": "dc371954a57d624aad1ec7f92e769195",
+      "crc32": "e6c8a83a",
+      "sha1": "a7d73eb4c8043c00c0995a3950da41db09ff1e2e"
+    },
+    {
       "name": "dailyneb-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bfaebf11415197e22af9a30ae33f39679cda174a",
-      "mtime": "1660178774",
-      "size": "29804",
-      "md5": "9b8e49ee8f81909aa6cc7fa482fdc4ae",
-      "crc32": "27422e48",
-      "sha1": "039f51412d620f6c3c625b4498a3d4b3d09d07b3",
+      "btih": "a0e6ab6ad4b0afa5240436f7280c643af087f80e",
+      "mtime": "1660220502",
+      "size": "31070",
+      "md5": "1c00b8897611046a322ef90e028065f8",
+      "crc32": "ffb0b9b4",
+      "sha1": "a5a0440740e00b5571eaf2ceaa74688af1b10525",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailyneb-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d2d499f067cab296d88bec9eabfbcfa0",
+      "md5": "0bbcc2db66e0f173d290e90bc84421c1",
       "summation": "md5"
     },
     {
       "name": "dailyneb-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660178562",
-      "size": "192512",
-      "md5": "f0f22356eb67124e5e4ac1c7cf4b02ff",
-      "crc32": "fe22e8b7",
-      "sha1": "639d21ea408bbdb93971944f11d02db58d0787e7",
+      "mtime": "1660217998",
+      "size": "200704",
+      "md5": "50a5538e813f2d995ad62d54386f5ae6",
+      "crc32": "4266afdd",
+      "sha1": "81d296af415210d67ae900baee5f0cc83a5f4bd1",
       "format": "Metadata"
     },
     {
@@ -1443,9 +1508,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 139,
-  "item_last_updated": 1660178774,
-  "item_size": 8373681,
+  "files_count": 145,
+  "item_last_updated": 1660220502,
+  "item_size": 8717838,
   "metadata": {
     "identifier": "dailyneb-2022",
     "collection": [
@@ -1462,29 +1527,10 @@
     "publicdate": "2022-07-30 16:33:37",
     "addeddate": "2022-07-30 16:33:37"
   },
-  "pending_tasks": true,
-  "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3360647784,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3360651449,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1887056215,
+  "server": "ia801501.us.archive.org",
+  "uniq": 693446190,
   "workable_servers": [
+    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

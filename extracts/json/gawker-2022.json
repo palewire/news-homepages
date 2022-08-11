@@ -1,5 +1,5 @@
 {
-  "created": 1660154695,
+  "created": 1660225104,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/15/items/gawker-2022",
@@ -3626,31 +3626,93 @@
       "sha1": "efa6cbf8257cd0a36f2f421fd3c9c3c943445c2e"
     },
     {
+      "name": "gawker-2022-08-10T23:51:18.321460-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660189882",
+      "size": "9572",
+      "md5": "741f15835689bc6dab00dd57a2afa7ef",
+      "crc32": "7f84cbbb",
+      "sha1": "c0ddc666eec1fb1a089d64167a91e87d0aecc99a",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-08-10T23:51:18.321460-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660189884",
+      "size": "11287",
+      "md5": "4479b9cb84bb5d0fede0a6c5a19943bf",
+      "crc32": "8100b1c8",
+      "sha1": "af920ed408d70db9d29c8998ee548cb359dd56e8",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-08-10T23:51:18.321460-04:00.jpg",
+      "source": "original",
+      "mtime": "1660189881",
+      "size": "277373",
+      "md5": "9467853b053efe789da83c6bcb369654",
+      "crc32": "32d338a6",
+      "sha1": "a94182b2247bc64f03a51987fb93c72beb44e534",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gawker-2022-08-10T23:51:18.321460-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660189885",
+      "size": "1441",
+      "md5": "fed2961d9732095be721586b522750b1",
+      "crc32": "40ebdc09",
+      "sha1": "81085510968deb97ebddc6d62ad6d28b18e37de9",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-08-10T23:51:18.321460-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660189887",
+      "size": "266",
+      "md5": "c6238cc2163d8f1b709f0a352b092a66",
+      "crc32": "9ba5f560",
+      "sha1": "89b867755a8e66dd74451423d15d83de216c51ad",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-08-10T23:51:18.321460-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gawker-2022-08-10T23:51:18.321460-04:00.jpg",
+      "mtime": "1660190789",
+      "size": "10862",
+      "md5": "7310fe2793971430e32ef0d5cafe8277",
+      "crc32": "49d2f6b9",
+      "sha1": "e62c2763e1917ac750d89ade923fab09f75278f8"
+    },
+    {
       "name": "gawker-2022_archive.torrent",
       "source": "metadata",
-      "btih": "230a81ca463e1dab82b299ec9575dced43c62a20",
-      "mtime": "1660154671",
-      "size": "73648",
-      "md5": "a9e6e4c6634d824236a472059730688d",
-      "crc32": "38cb4299",
-      "sha1": "9e14ac1fafb41472da701d1ea5a2ddc94497f902",
+      "btih": "dcf0335c57dd473e7930fc2feb49992bd9f637b1",
+      "mtime": "1660190793",
+      "size": "74901",
+      "md5": "f12217eb049461458f2d2bcebe37c32f",
+      "crc32": "b0e23439",
+      "sha1": "4e67f6eb658e947abd1da56a9b618273541a8049",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gawker-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "23fbe8fc9b9274f50c71bb1ed45c5180",
+      "md5": "9e597681c849c29b99377239ed9092ea",
       "summation": "md5"
     },
     {
       "name": "gawker-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660154583",
-      "size": "434176",
-      "md5": "ce281184caad15e8f070bbf081369373",
-      "crc32": "6c6c80ef",
-      "sha1": "461099f3f24ff422ae413f4caaecc5ec82cc3f9a",
+      "mtime": "1660189891",
+      "size": "442368",
+      "md5": "13b020287abd4d82e2e26307c001b977",
+      "crc32": "701ebf05",
+      "sha1": "9a31cbbf99be50b5b6e6dcdb4e8447f91615513a",
       "format": "Metadata"
     },
     {
@@ -3664,9 +3726,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 351,
-  "item_last_updated": 1660154671,
-  "item_size": 24587239,
+  "files_count": 357,
+  "gawker-2022": {
+    "url": "https://www.gawker.com/",
+    "job_id": "spn2-adc457c15cf34f2a08e079050f773696cf0850cc",
+    "message": "The capture will start in ~31 minutes because our service is currently overloaded. You may close your browser window and the page will still be saved."
+  },
+  "item_last_updated": 1660190793,
+  "item_size": 24907485,
   "metadata": {
     "identifier": "gawker-2022",
     "collection": [
@@ -3684,7 +3751,7 @@
     "addeddate": "2022-07-04 21:53:36"
   },
   "server": "ia802508.us.archive.org",
-  "uniq": 315747464,
+  "uniq": 1720470997,
   "workable_servers": [
     "ia802508.us.archive.org",
     "ia902508.us.archive.org"

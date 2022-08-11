@@ -1,5 +1,5 @@
 {
-  "created": 1660179386,
+  "created": 1660191186,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/29/items/mlnow-2022",
@@ -3626,31 +3626,93 @@
       "sha1": "43894212c7a0997827a112ee3f0864cbbea98040"
     },
     {
+      "name": "mlnow-2022-08-10T20:59:26.081149-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660190369",
+      "size": "16498",
+      "md5": "026d5ff237fe0204cc3aefee7ea7a4b9",
+      "crc32": "6de41a60",
+      "sha1": "43f64697806ac5be052946180f369275c324f245",
+      "format": "JSON"
+    },
+    {
+      "name": "mlnow-2022-08-10T20:59:26.081149-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660190372",
+      "size": "16705",
+      "md5": "b8d2a0966678a2865600d904c50c7c5e",
+      "crc32": "44c1ebde",
+      "sha1": "e0bcc7583804ff0d70da76008d2a7b274c3dc749",
+      "format": "JSON"
+    },
+    {
+      "name": "mlnow-2022-08-10T20:59:26.081149-07:00.jpg",
+      "source": "original",
+      "mtime": "1660190367",
+      "size": "300717",
+      "md5": "762edccae3ce4ea149fb201a6b40ef7a",
+      "crc32": "e00f1e73",
+      "sha1": "8e61235c088cb4dfe3752bef0b7e45d3c82c8ed6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mlnow-2022-08-10T20:59:26.081149-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660190373",
+      "size": "1468",
+      "md5": "1ca97193ecf13ab209d77d32b7460695",
+      "crc32": "afd448ce",
+      "sha1": "5f78d00ddd48852fd72d1e71424510a3e4cfbd4e",
+      "format": "JSON"
+    },
+    {
+      "name": "mlnow-2022-08-10T20:59:26.081149-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660190375",
+      "size": "268",
+      "md5": "4b532772f47fa8c4cbf2dd72b1049fb6",
+      "crc32": "eb41fbca",
+      "sha1": "d316549d82319bf36f0fc32e21d799f909f98c86",
+      "format": "JSON"
+    },
+    {
+      "name": "mlnow-2022-08-10T20:59:26.081149-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mlnow-2022-08-10T20:59:26.081149-07:00.jpg",
+      "mtime": "1660191149",
+      "size": "10337",
+      "md5": "210d01ee6210f6755342ed9bed7816a9",
+      "crc32": "f7f3f796",
+      "sha1": "3186a1bd6968706424c4a180438cbbd91f01ff90"
+    },
+    {
       "name": "mlnow-2022_archive.torrent",
       "source": "metadata",
-      "btih": "02460e03798d41227009d412f7c104f576c4ea90",
-      "mtime": "1660155229",
-      "size": "73280",
-      "md5": "9859f388ec4b6c259bba5baebf8ca097",
-      "crc32": "fe36e820",
-      "sha1": "bf39e17358396ec97e46fbd1aeccb1acdfbe8a6e",
+      "btih": "c9fe39da074f17e3f5930af15b047faf0a494040",
+      "mtime": "1660191155",
+      "size": "74528",
+      "md5": "b34e0db9a997c006a3ceba685332b592",
+      "crc32": "bb46eeed",
+      "sha1": "da50ffc214b8f178a013a575a6a689a9e01980f8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mlnow-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "36a4c14a26ca9e87483f3494c609fbeb",
+      "md5": "8b736f79ddda94c66a2d4f3a59ce3a0e",
       "summation": "md5"
     },
     {
       "name": "mlnow-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660155146",
-      "size": "430080",
-      "md5": "2a80a12b18fa037f2a07b8fdab304566",
-      "crc32": "ae5a2ba5",
-      "sha1": "b2ff05ee81e53dcc4c5beeab581793a7de838ed7",
+      "mtime": "1660190378",
+      "size": "438272",
+      "md5": "89e900ae7a7a9060f738f8a7256bd1be",
+      "crc32": "af6d2efe",
+      "sha1": "7d3450e3f1200ee6c1a68b7c9aa9b20ccdf86734",
       "format": "Metadata"
     },
     {
@@ -3664,9 +3726,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 351,
-  "item_last_updated": 1660155229,
-  "item_size": 23628576,
+  "files_count": 357,
+  "item_last_updated": 1660191155,
+  "item_size": 23984009,
   "metadata": {
     "identifier": "mlnow-2022",
     "collection": [
@@ -3683,12 +3745,8 @@
     "publicdate": "2022-07-09 04:00:13",
     "addeddate": "2022-07-09 04:00:13"
   },
-  "mlnow-2022": {
-    "url": "https://missionlocal.org/",
-    "job_id": "spn2-449992d6d66a0c7197dcab17219e7e48522623fe"
-  },
   "server": "ia802507.us.archive.org",
-  "uniq": 1393523049,
+  "uniq": 1961176874,
   "workable_servers": [
     "ia802507.us.archive.org",
     "ia902507.us.archive.org"

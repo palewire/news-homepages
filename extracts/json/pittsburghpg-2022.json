@@ -1,5 +1,5 @@
 {
-  "created": 1660179478,
+  "created": 1660196024,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/24/items/pittsburghpg-2022",
@@ -1770,31 +1770,93 @@
       "sha1": "0899ca7d11d2e6615c9b92fcd8d592fb5ebc6b95"
     },
     {
+      "name": "pittsburghpg-2022-08-11T01:21:35.574449-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660195299",
+      "size": "44565",
+      "md5": "7b82236899acd4ef56dc5142200b78a5",
+      "crc32": "e21732b7",
+      "sha1": "1d5bfb84adcff05f3a821ec909d55a21b5382370",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-08-11T01:21:35.574449-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660195301",
+      "size": "88064",
+      "md5": "e386fe6c07417dcb0dc5ac3d84916e58",
+      "crc32": "e5871461",
+      "sha1": "3a891329285e56c5e6da1ef2a180e7b69984e6b1",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-08-11T01:21:35.574449-04:00.jpg",
+      "source": "original",
+      "mtime": "1660195297",
+      "size": "313064",
+      "md5": "77ff8eaa89934272dc70d39651d6bb26",
+      "crc32": "0a510e5c",
+      "sha1": "b51f58cd41f6adc396cdfae3ffee481712d1eea7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pittsburghpg-2022-08-11T01:21:35.574449-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660195302",
+      "size": "1509",
+      "md5": "6329f174b4e2594e711c064871301379",
+      "crc32": "ea8dae19",
+      "sha1": "ac14b9b89b06c9f66729792e034c2d7392534858",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-08-11T01:21:35.574449-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660195304",
+      "size": "270",
+      "md5": "5b34721e094e7d06041c3d3723c4d048",
+      "crc32": "0b400c57",
+      "sha1": "91c216cc006afcd1d11362fd8dcc460b0aafac95",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-08-11T01:21:35.574449-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pittsburghpg-2022-08-11T01:21:35.574449-04:00.jpg",
+      "mtime": "1660196002",
+      "size": "9757",
+      "md5": "798004d6f224af9db9821a4eb0e580f0",
+      "crc32": "63eee489",
+      "sha1": "ea17fae45f35630e51978ea00e83e1a5ae4e585a"
+    },
+    {
       "name": "pittsburghpg-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c5426143ffc335b8a3abb9ea27b26b32ee6eced0",
-      "mtime": "1660156292",
-      "size": "38030",
-      "md5": "17ce902038a518ce34f62f1c84c790e3",
-      "crc32": "0d4b2bdd",
-      "sha1": "edfb16dfc1c4e6f1d2f4623620fcc39d39fbac83",
+      "btih": "75b7c3aefaa8078bed9525a29a155be2767b51eb",
+      "mtime": "1660196011",
+      "size": "39319",
+      "md5": "31881a7b3ff0079d6b411314487129f9",
+      "crc32": "4c12b0f5",
+      "sha1": "a804c07662c3e802659ed900079fd1d26cb30931",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pittsburghpg-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bc3d574966c5e3a5947f7b7fdbb0faf7",
+      "md5": "2eb8df55e74ce2d24e679c29e910b653",
       "summation": "md5"
     },
     {
       "name": "pittsburghpg-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660155427",
-      "size": "233472",
-      "md5": "42a7c8d04c0602dc78e5815bf15d5239",
-      "crc32": "716917d8",
-      "sha1": "d6ff782f89462b0304ea9972aaf6f064f2bf047d",
+      "mtime": "1660195308",
+      "size": "241664",
+      "md5": "a78dddceb71b0236f365af968bce3e15",
+      "crc32": "88c2f536",
+      "sha1": "2bdd315b14b5812f8b042dcb7f86f989dfa16597",
       "format": "Metadata"
     },
     {
@@ -1808,9 +1870,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 174,
-  "item_last_updated": 1660156292,
-  "item_size": 15400195,
+  "files_count": 180,
+  "item_last_updated": 1660196011,
+  "item_size": 15866905,
   "metadata": {
     "identifier": "pittsburghpg-2022",
     "collection": [
@@ -1827,12 +1889,8 @@
     "publicdate": "2022-07-26 03:54:28",
     "addeddate": "2022-07-26 03:54:28"
   },
-  "pittsburghpg-2022": {
-    "url": "https://www.post-gazette.com/",
-    "job_id": "spn2-4997c5762c772559af4dc7d26b01a60dddccf46c"
-  },
   "server": "ia801400.us.archive.org",
-  "uniq": 2053261692,
+  "uniq": 2035112727,
   "workable_servers": [
     "ia801400.us.archive.org",
     "ia601400.us.archive.org"

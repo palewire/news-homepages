@@ -1,5 +1,5 @@
 {
-  "created": 1660179341,
+  "created": 1660191017,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/12/items/lesoir-2022",
@@ -1746,31 +1746,93 @@
       "sha1": "18d305124908c44c94051a608f47c201c998dc56"
     },
     {
+      "name": "lesoir-2022-08-11T05:57:50.685660+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660190275",
+      "size": "68715",
+      "md5": "34a098954879bd7805c3313cbda97fba",
+      "crc32": "6c030f42",
+      "sha1": "c90c7c8ca3cf5d2f66fec36431d1d5440a387a6f",
+      "format": "JSON"
+    },
+    {
+      "name": "lesoir-2022-08-11T05:57:50.685660+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660190276",
+      "size": "70853",
+      "md5": "9244c4fd3f766af10700893bab6f12af",
+      "crc32": "99ee4dfa",
+      "sha1": "1bde7b58fcef4728c30373c0c55ce4855e5b6cab",
+      "format": "JSON"
+    },
+    {
+      "name": "lesoir-2022-08-11T05:57:50.685660+02:00.jpg",
+      "source": "original",
+      "mtime": "1660190273",
+      "size": "234701",
+      "md5": "d810dec463114c34877767864a983937",
+      "crc32": "098fd782",
+      "sha1": "2371cab676889481d810072a94bb37d296c5e882",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lesoir-2022-08-11T05:57:50.685660+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660190278",
+      "size": "1440",
+      "md5": "3b7f917e3cdf6bc354dfbd177689c572",
+      "crc32": "d71619c9",
+      "sha1": "bdea8d44b211ecfeb95bb5eb77ac39341045e406",
+      "format": "JSON"
+    },
+    {
+      "name": "lesoir-2022-08-11T05:57:50.685660+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1660190280",
+      "size": "265",
+      "md5": "311ae4710d16ad571e3a729633dbf650",
+      "crc32": "a6134680",
+      "sha1": "177751737cf2da01c3c8799c28d70a6d12722593",
+      "format": "JSON"
+    },
+    {
+      "name": "lesoir-2022-08-11T05:57:50.685660+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lesoir-2022-08-11T05:57:50.685660+02:00.jpg",
+      "mtime": "1660190996",
+      "size": "9028",
+      "md5": "20725e6a67b2b3e0a935d61485e7445b",
+      "crc32": "5d600fb4",
+      "sha1": "32a394df1ff0d5b00274c491e163ae158dbdcfd5"
+    },
+    {
       "name": "lesoir-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5f242cc78b1efd43af6224042b971829b54a183b",
-      "mtime": "1660155223",
-      "size": "36482",
-      "md5": "00bd7747ea0d0159201da7a2daa665ba",
-      "crc32": "2d61ea4a",
-      "sha1": "72061dd1453ff4cebe002d650341ab4c43769f40",
+      "btih": "36505c5cba5c70ce7f7c706a3c40f8a81c896023",
+      "mtime": "1660191006",
+      "size": "37715",
+      "md5": "0fe2b8d2a5624c6a23b58f9c94f87cd2",
+      "crc32": "2ee97d4d",
+      "sha1": "c283aa31c7081dc4d1d479dccfe525ba56cd4e62",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lesoir-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8f738abfedb6ae56aa498fe734e9bbbb",
+      "md5": "a040b3f7dc3c0081581234568c24ab62",
       "summation": "md5"
     },
     {
       "name": "lesoir-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660155017",
-      "size": "233472",
-      "md5": "104e4291add8a6253f9e31f8eae046eb",
-      "crc32": "bcf5762a",
-      "sha1": "25739a817a92ad8374f9b74f1014eb004cb8274c",
+      "mtime": "1660190284",
+      "size": "241664",
+      "md5": "b51a3873ed747f910969d93fd2420c96",
+      "crc32": "e3731e4d",
+      "sha1": "ee78d6d866f19004140a9ebf3e3ce9e3aa5aaf6d",
       "format": "Metadata"
     },
     {
@@ -1784,24 +1846,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 172,
-  "item_last_updated": 1660155223,
-  "item_size": 12645137,
-  "lesoir-2022": {
-    "url": "https://www.lesoir.be/",
-    "job_id": "spn2-c4fb719f015e8a88252f2aef74d8994d5aebe695",
-    "status": "success",
-    "counters": {
-      "embeds": 57,
-      "outlinks": 70
-    },
-    "resources": [],
-    "http_status": 200,
-    "timestamp": "20220810142427",
-    "original_url": "https://www.lesoir.be/",
-    "outlinks": [],
-    "duration_sec": 41.214
-  },
+  "files_count": 178,
+  "item_last_updated": 1660191006,
+  "item_size": 13039564,
   "metadata": {
     "identifier": "lesoir-2022",
     "collection": [
@@ -1818,10 +1865,10 @@
     "publicdate": "2022-07-26 02:47:01",
     "addeddate": "2022-07-26 02:47:01"
   },
-  "server": "ia902505.us.archive.org",
-  "uniq": 497296941,
+  "server": "ia802505.us.archive.org",
+  "uniq": 1440661283,
   "workable_servers": [
-    "ia902505.us.archive.org",
-    "ia802505.us.archive.org"
+    "ia802505.us.archive.org",
+    "ia902505.us.archive.org"
   ]
 }

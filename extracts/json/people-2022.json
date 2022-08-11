@@ -1,5 +1,5 @@
 {
-  "created": 1660176912,
+  "created": 1660225592,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/0/items/people-2022",
@@ -3416,31 +3416,93 @@
       "sha1": "648a8be5d241de9e945b4ab376036150d7924239"
     },
     {
+      "name": "people-2022-08-11T01:21:04.940619-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660195270",
+      "size": "35122",
+      "md5": "9f5e84d410ea56a6d62e5a1bc71084b7",
+      "crc32": "597ef080",
+      "sha1": "3834a5dcd4c68113cd4021d4af0115bc35be4208",
+      "format": "JSON"
+    },
+    {
+      "name": "people-2022-08-11T01:21:04.940619-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660195272",
+      "size": "56563",
+      "md5": "0055f30ca2327892cb3f2b43841782b9",
+      "crc32": "7fb8c5d6",
+      "sha1": "5ccac013ad99e80d44adc9af904c64b9c9ee8504",
+      "format": "JSON"
+    },
+    {
+      "name": "people-2022-08-11T01:21:04.940619-04:00.jpg",
+      "source": "original",
+      "mtime": "1660195269",
+      "size": "312904",
+      "md5": "11000bc6f5c9de3abd38090757cecc2e",
+      "crc32": "fc4eace1",
+      "sha1": "8020057dc5adddd0dfd9cb48311f77b5fc49c347",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "people-2022-08-11T01:21:04.940619-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660195274",
+      "size": "1420",
+      "md5": "287af0de73df301ef643303de99496c5",
+      "crc32": "5e3ea69a",
+      "sha1": "e61134952c41375922cfea6a89379995ee955bb0",
+      "format": "JSON"
+    },
+    {
+      "name": "people-2022-08-11T01:21:04.940619-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660195275",
+      "size": "260",
+      "md5": "a93e69121e091b056faac030ff2e0d39",
+      "crc32": "49558568",
+      "sha1": "c181a0a7d1685a6e1781152610e9157bc8830e11",
+      "format": "JSON"
+    },
+    {
+      "name": "people-2022-08-11T01:21:04.940619-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "people-2022-08-11T01:21:04.940619-04:00.jpg",
+      "mtime": "1660197315",
+      "size": "10165",
+      "md5": "1a380832c4c2fcacfcb651ff90baa50a",
+      "crc32": "47ebfc07",
+      "sha1": "044cffb82d83b4c9e2b74e448a95f6ca72fd086a"
+    },
+    {
       "name": "people-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0c2b8f77f323ede756d97e5f8f06015e358c1749",
-      "mtime": "1660155682",
-      "size": "69576",
-      "md5": "06055709fc678bbbfcfd3257604a3300",
-      "crc32": "5840eba0",
-      "sha1": "f74dfa7327566e41636e007251113712fa485e30",
+      "btih": "6dd168a60f7512a738f1061819792faf2d1b2983",
+      "mtime": "1660197352",
+      "size": "70810",
+      "md5": "8f2223c8d659b850967b14ebbcdf9fa6",
+      "crc32": "b7d7da0d",
+      "sha1": "8e58468433aeedf5dd7db99cb9524b52c449bd1f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "people-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "370992d1fddaa077a8e2d7bcb8b59d81",
+      "md5": "c9ae5feef10900a2c8cb4357e5d62912",
       "summation": "md5"
     },
     {
       "name": "people-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660155415",
-      "size": "401408",
-      "md5": "0ec5e5b7fac1082586b2e6b315aaf50c",
-      "crc32": "9c72d8ac",
-      "sha1": "c41f91f84608f09385cb9f6902d84e348f28e628",
+      "mtime": "1660195279",
+      "size": "405504",
+      "md5": "f10abab3427857d76c74929decf31b21",
+      "crc32": "f8374670",
+      "sha1": "e2080c0f7832a40d24829d55a7cc31240ffc4d39",
       "format": "Metadata"
     },
     {
@@ -3454,9 +3516,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 330,
-  "item_last_updated": 1660155682,
-  "item_size": 31573215,
+  "files_count": 336,
+  "item_last_updated": 1660197352,
+  "item_size": 31994979,
   "metadata": {
     "identifier": "people-2022",
     "collection": [
@@ -3473,10 +3535,15 @@
     "publicdate": "2022-07-04 21:50:55",
     "addeddate": "2022-07-04 21:50:55"
   },
-  "server": "ia902507.us.archive.org",
-  "uniq": 1691562033,
+  "people-2022": {
+    "url": "https://people.com/",
+    "job_id": "spn2-04044647947a25aadb6c04b1e24fc01086c85576",
+    "message": "The capture will start in ~1 minute because our service is currently overloaded. You may close your browser window and the page will still be saved."
+  },
+  "server": "ia802507.us.archive.org",
+  "uniq": 768330563,
   "workable_servers": [
-    "ia902507.us.archive.org",
-    "ia802507.us.archive.org"
+    "ia802507.us.archive.org",
+    "ia902507.us.archive.org"
   ]
 }

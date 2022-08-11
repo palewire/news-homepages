@@ -1,5 +1,5 @@
 {
-  "created": 1660179414,
+  "created": 1660225537,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/29/items/nymag-2022",
@@ -3815,21 +3815,32 @@
       "format": "JSON"
     },
     {
+      "name": "nymag-2022-08-10T20:56:02.253489-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nymag-2022-08-10T20:56:02.253489-04:00.jpg",
+      "mtime": "1660179644",
+      "size": "9879",
+      "md5": "42e72b0fb4b889658c250d59c86c6bc1",
+      "crc32": "4053934a",
+      "sha1": "094ff7a35d9bb766ccd02cc34c1461eb21370f9c"
+    },
+    {
       "name": "nymag-2022_archive.torrent",
       "source": "metadata",
-      "btih": "39fab91c2ace872dd6eca8868c340805b689f421",
-      "mtime": "1660179411",
-      "size": "77474",
-      "md5": "d7eceb2bac20876e6fa141b8c87ab406",
-      "crc32": "1ab08a0f",
-      "sha1": "350f3f2b28fbbca6756caa348db68f1f741fae19",
+      "btih": "760038682f3e6a5bf280d522ce8fb8ce8c588a61",
+      "mtime": "1660179648",
+      "size": "77675",
+      "md5": "e111a2eceec83ccfcd7ebe95db2b96dc",
+      "crc32": "e5c0caf3",
+      "sha1": "1c08fa710534835ea68eddcacbe8ca9b62e2ca75",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nymag-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "66d447e7adb7fdecb9fc6c3820d5a7e9",
+      "md5": "c4abab6f8947482dc792d4aa520b6ef6",
       "summation": "md5"
     },
     {
@@ -3853,9 +3864,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 369,
-  "item_last_updated": 1660179411,
-  "item_size": 37581884,
+  "files_count": 370,
+  "item_last_updated": 1660179648,
+  "item_size": 37591964,
   "metadata": {
     "identifier": "nymag-2022",
     "collection": [
@@ -3872,21 +3883,15 @@
     "publicdate": "2022-07-04 21:50:24",
     "addeddate": "2022-07-04 21:50:24"
   },
-  "pending_tasks": true,
-  "server": "ia601502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3360660941,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 759660622,
+  "nymag-2022": {
+    "url": "https://nymag.com/",
+    "job_id": "spn2-23e4a9e1cc4455d1d33119d0e09fc329c7d324f3",
+    "message": "The capture will start in ~3 minutes because our service is currently overloaded. You may close your browser window and the page will still be saved."
+  },
+  "server": "ia801502.us.archive.org",
+  "uniq": 1434736682,
   "workable_servers": [
+    "ia801502.us.archive.org",
     "ia601502.us.archive.org"
   ]
 }

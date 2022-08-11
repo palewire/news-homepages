@@ -1,5 +1,5 @@
 {
-  "created": 1660179712,
+  "created": 1660225961,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/27/items/thecityny-2022",
@@ -6270,31 +6270,93 @@
       "sha1": "dca101a03929b0fba831c88c9f8c6d00c974a2c0"
     },
     {
+      "name": "thecityny-2022-08-10T22:27:48.206068-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660184887",
+      "size": "31182",
+      "md5": "820d5a2aacb623fcb9a64663a9c088ac",
+      "crc32": "622e34bf",
+      "sha1": "14c8486668a03d87415f362e606e33274664b0c5",
+      "format": "JSON"
+    },
+    {
+      "name": "thecityny-2022-08-10T22:27:48.206068-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660184888",
+      "size": "38219",
+      "md5": "2d988d5cf5e607378ee3bf49a10e8c8f",
+      "crc32": "675fc13d",
+      "sha1": "a25914165782b844d4072a47967ccae3bb44e76b",
+      "format": "JSON"
+    },
+    {
+      "name": "thecityny-2022-08-10T22:27:48.206068-04:00.jpg",
+      "source": "original",
+      "mtime": "1660184886",
+      "size": "238375",
+      "md5": "1bfb88a86f9b80d3fefeb7c1f642db96",
+      "crc32": "abc117d6",
+      "sha1": "0d5f1900dd66c6becce4d482dd4d8c262f78e7b8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thecityny-2022-08-10T22:27:48.206068-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660184890",
+      "size": "1459",
+      "md5": "d9e640dd259d6151ebad10161e26b1aa",
+      "crc32": "b44fb3c8",
+      "sha1": "d546a584455b88af712f929e419c677854578131",
+      "format": "JSON"
+    },
+    {
+      "name": "thecityny-2022-08-10T22:27:48.206068-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660184891",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thecityny-2022-08-10T22:27:48.206068-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thecityny-2022-08-10T22:27:48.206068-04:00.jpg",
+      "mtime": "1660185316",
+      "size": "9236",
+      "md5": "9ea0fd5be7216a4383b7cca314a4a3ed",
+      "crc32": "7418d874",
+      "sha1": "5d842ae0703c93b8de6ed401ea9d8c01cb92410f"
+    },
+    {
       "name": "thecityny-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7208ad0023cbd8e5d54a8adbf6052a0b5e38c2b2",
-      "mtime": "1660153933",
-      "size": "127956",
-      "md5": "db4cbf3c9e76519ed9c02e30c3c2f143",
-      "crc32": "8236bb82",
-      "sha1": "396ef5f00b2b1a6cc803d41572d73231fd0c4537",
+      "btih": "993ea772c6fbc1deb75a6fdd91d7fbb4d00c1b9e",
+      "mtime": "1660185324",
+      "size": "129207",
+      "md5": "3b20a14ff9d5345a405b0b7a95d13fa0",
+      "crc32": "6ffbcd33",
+      "sha1": "e8f1cd7e4eb5abcf5c57cbec281e38e0f53e7048",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thecityny-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ba38d3f5e099baf39ec74f8d97eb6b37",
+      "md5": "d2ad86d356fd70529f25657f6a28a24d",
       "summation": "md5"
     },
     {
       "name": "thecityny-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660153773",
-      "size": "720896",
-      "md5": "22f700ba84ae5ed16f0f8933c87c869d",
-      "crc32": "f926f91e",
-      "sha1": "a26a6b2219027de65765e873586b9d7564addf39",
+      "mtime": "1660184900",
+      "size": "729088",
+      "md5": "75294cb0f06d1893ecf3bf6cf88b3c93",
+      "crc32": "3a936560",
+      "sha1": "6e4bc0f30edf5dc10922a17455434f41855a83d8",
       "format": "Metadata"
     },
     {
@@ -6308,9 +6370,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 603,
-  "item_last_updated": 1660153933,
-  "item_size": 44356259,
+  "files_count": 609,
+  "item_last_updated": 1660185324,
+  "item_size": 44684375,
   "metadata": {
     "identifier": "thecityny-2022",
     "collection": [
@@ -6329,10 +6391,11 @@
   },
   "server": "ia801400.us.archive.org",
   "thecityny-2022": {
-    "url": "https://www.thecity.nyc/",
-    "job_id": "spn2-80b1b943b4689828f2b47cccd8387ef5a6436451"
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
   },
-  "uniq": 1843767535,
+  "uniq": 1045364436,
   "workable_servers": [
     "ia801400.us.archive.org",
     "ia601400.us.archive.org"

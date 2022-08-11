@@ -1,5 +1,5 @@
 {
-  "created": 1660179576,
+  "created": 1660225743,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/2/items/salon-2022",
@@ -3546,31 +3546,93 @@
       "sha1": "48e993fa6f4f984934040f30f94a4b110d486acb"
     },
     {
+      "name": "salon-2022-08-11T01:24:55.257127-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660195498",
+      "size": "13261",
+      "md5": "13782a9a7b49b900a94a81fa36022c94",
+      "crc32": "a23e2f78",
+      "sha1": "9f60c1217f01b91a41f8b0f513507f202a7824a2",
+      "format": "JSON"
+    },
+    {
+      "name": "salon-2022-08-11T01:24:55.257127-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660195499",
+      "size": "45014",
+      "md5": "450ccbcbac6fe55aa68a054dda9c5631",
+      "crc32": "aa99a7ca",
+      "sha1": "356291e6ec2730183dfcc3ca25bd69d337c20e77",
+      "format": "JSON"
+    },
+    {
+      "name": "salon-2022-08-11T01:24:55.257127-04:00.jpg",
+      "source": "original",
+      "mtime": "1660195496",
+      "size": "330521",
+      "md5": "f3abda32262ce90b21f750b072d6f7e6",
+      "crc32": "57b12df1",
+      "sha1": "c5ac332be2aa77f19935943e3d5e591d1e556a43",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "salon-2022-08-11T01:24:55.257127-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660195501",
+      "size": "1449",
+      "md5": "cd2b9a37b3a0d61baef06edb5c57c1a4",
+      "crc32": "e5188247",
+      "sha1": "b3d8ade8175220a4642a139b9e344021ca79a4cf",
+      "format": "JSON"
+    },
+    {
+      "name": "salon-2022-08-11T01:24:55.257127-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660195502",
+      "size": "263",
+      "md5": "951a34e5e3229929b188fff8e7c6891b",
+      "crc32": "ca37744a",
+      "sha1": "f1cc49da6db2217a2e48ce8e07b9f1b9a12603d7",
+      "format": "JSON"
+    },
+    {
+      "name": "salon-2022-08-11T01:24:55.257127-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "salon-2022-08-11T01:24:55.257127-04:00.jpg",
+      "mtime": "1660196154",
+      "size": "10462",
+      "md5": "0632f852ad1a30ad5fc7ccc465b6fe1a",
+      "crc32": "ff5d7ccc",
+      "sha1": "e18c7f0a1c5c0e76007fce55fb404f41221f40ed"
+    },
+    {
       "name": "salon-2022_archive.torrent",
       "source": "metadata",
-      "btih": "89cfa0d5e21a497abbbaf3a6ca26e698958a8990",
-      "mtime": "1660160578",
-      "size": "72032",
-      "md5": "bafc97cdf17656e48a28d96545fe38a4",
-      "crc32": "570c4ed7",
-      "sha1": "59db58297889e0bde3b6553e474b3b2d9ff1506c",
+      "btih": "ce98b42fc51343abad4efac1d7e99f1f8e9d58a7",
+      "mtime": "1660196162",
+      "size": "73260",
+      "md5": "526379a28df5e605a73f6605e28f6efe",
+      "crc32": "dd4c4da5",
+      "sha1": "c9b860634dc197009236d1f2ab1118152e5b1a81",
       "format": "Archive BitTorrent"
     },
     {
       "name": "salon-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0cecd5af4ede13642c168da021506c81",
+      "md5": "7a138816e18534572384667be025b87c",
       "summation": "md5"
     },
     {
       "name": "salon-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660160468",
-      "size": "425984",
-      "md5": "95bc5e402faa974862096b9564151f0d",
-      "crc32": "9f743fc2",
-      "sha1": "0995684121f463dd24e618b38a193ab979fa49f3",
+      "mtime": "1660195508",
+      "size": "438272",
+      "md5": "bb955083f22baf3dc59f30f069f776be",
+      "crc32": "cb3d46dc",
+      "sha1": "4297722ff771384e3d0fc8744a0d2871c0a2d48f",
       "format": "Metadata"
     },
     {
@@ -3584,9 +3646,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 344,
-  "item_last_updated": 1660160578,
-  "item_size": 26882471,
+  "files_count": 350,
+  "item_last_updated": 1660196162,
+  "item_size": 27296957,
   "metadata": {
     "identifier": "salon-2022",
     "collection": [
@@ -3606,22 +3668,12 @@
   "salon-2022": {
     "url": "https://www.salon.com/",
     "job_id": "spn2-59a661bf77eeb6b1737a8b939af5c4e4db5919a2",
-    "status": "success",
-    "resources": [],
-    "timestamp": "20220810173420",
-    "counters": {
-      "outlinks": 70,
-      "embeds": 44
-    },
-    "http_status": 200,
-    "outlinks": [],
-    "original_url": "https://www.salon.com/",
-    "duration_sec": 19.963
+    "message": "The capture will start in ~1 minute because our service is currently overloaded. You may close your browser window and the page will still be saved."
   },
-  "server": "ia801406.us.archive.org",
-  "uniq": 1520456306,
+  "server": "ia601406.us.archive.org",
+  "uniq": 1198118159,
   "workable_servers": [
-    "ia801406.us.archive.org",
-    "ia601406.us.archive.org"
+    "ia601406.us.archive.org",
+    "ia801406.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1660179125,
+  "created": 1660225081,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/15/items/frednewspost-2022",
@@ -9896,31 +9896,93 @@
       "sha1": "189a4cd4b70f5deb4d1d7767e43f01108b0ca02f"
     },
     {
+      "name": "frednewspost-2022-08-10T23:51:13.158298-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660189876",
+      "size": "38125",
+      "md5": "c3971d4a2481cc3775ac8fbc04e6f479",
+      "crc32": "a93b1666",
+      "sha1": "258afa4e9f76e2807cb43b711c4751a53a0dcfc6",
+      "format": "JSON"
+    },
+    {
+      "name": "frednewspost-2022-08-10T23:51:13.158298-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660189877",
+      "size": "97321",
+      "md5": "6694040af66967cf4663e356f86c187a",
+      "crc32": "480690c3",
+      "sha1": "b9a7b1d8ee189f2a2faf0fe50774e95d6be0db3f",
+      "format": "JSON"
+    },
+    {
+      "name": "frednewspost-2022-08-10T23:51:13.158298-04:00.jpg",
+      "source": "original",
+      "mtime": "1660189874",
+      "size": "314279",
+      "md5": "b5ac3c444b959aaed3b73599da0f1313",
+      "crc32": "6badd8e2",
+      "sha1": "e3d7c2548e8aa1f69d280713776be02a6475096a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "frednewspost-2022-08-10T23:51:13.158298-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660189879",
+      "size": "1558",
+      "md5": "f54d7205ce633de1c9cc691162417511",
+      "crc32": "dc6bf0d2",
+      "sha1": "0dffe711ef3c02605ce27511a0930ebb70fd4fd9",
+      "format": "JSON"
+    },
+    {
+      "name": "frednewspost-2022-08-10T23:51:13.158298-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660189880",
+      "size": "277",
+      "md5": "db27a3e9b6bd3a3a3a5619ec6260393a",
+      "crc32": "84c88e60",
+      "sha1": "3c7ecb12fb1b9a407efe09913a04f15b8d90b14d",
+      "format": "JSON"
+    },
+    {
+      "name": "frednewspost-2022-08-10T23:51:13.158298-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "frednewspost-2022-08-10T23:51:13.158298-04:00.jpg",
+      "mtime": "1660190794",
+      "size": "9462",
+      "md5": "5f8c0a38982e57a850fa265920d1e21a",
+      "crc32": "eb8689cf",
+      "sha1": "f46294aa3a6e7dc7cd11408b92c482abb6461ba5"
+    },
+    {
       "name": "frednewspost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "74721d647ce938d3fe08acf3f68be73bde75a634",
-      "mtime": "1660154726",
-      "size": "205113",
-      "md5": "5cb0ea5f7401b6b0f17f48b9e7bae12d",
-      "crc32": "5deb81f7",
-      "sha1": "70215e1aa6723e6abbcb4b90eafce9e79f051acc",
+      "btih": "76be275d370e85347ca3dc8916d72db9415080cf",
+      "mtime": "1660190806",
+      "size": "206402",
+      "md5": "543aae2c4e49de1b31853a4c02577d80",
+      "crc32": "a8163c39",
+      "sha1": "cfb0a5fea22d563f2b13e06627e7ee7c5f9c3af7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "frednewspost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "faacb76526d806cfa824461036268d89",
+      "md5": "ca1f5a7bea9ce569fa4db13ff93c30ff",
       "summation": "md5"
     },
     {
       "name": "frednewspost-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660154545",
-      "size": "1118208",
-      "md5": "0fb5799b4a91881f22c36308c6fbb16c",
-      "crc32": "df17d870",
-      "sha1": "c10874d2c0b42f310bdc3542e8b007c8c2302029",
+      "mtime": "1660189885",
+      "size": "1122304",
+      "md5": "9c9c6a989df0f64157447b6a5d9b30c6",
+      "crc32": "9e16205a",
+      "sha1": "f7e6afd508788c274a970d217562b97682bc9ba5",
       "format": "Metadata"
     },
     {
@@ -9934,14 +9996,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 948,
+  "files_count": 954,
   "frednewspost-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
+    "url": "https://www.fredericknewspost.com/",
+    "job_id": "spn2-e8dddfcb553f61746eec10d8242220245accfeb8",
+    "message": "The capture will start in ~30 minutes because our service is currently overloaded. You may close your browser window and the page will still be saved."
   },
-  "item_last_updated": 1660154726,
-  "item_size": 108307935,
+  "item_last_updated": 1660190806,
+  "item_size": 108774342,
   "metadata": {
     "identifier": "frednewspost-2022",
     "collection": [
@@ -9959,7 +10021,7 @@
     "addeddate": "2022-04-01 13:18:01"
   },
   "server": "ia902507.us.archive.org",
-  "uniq": 1761004224,
+  "uniq": 876087078,
   "workable_servers": [
     "ia902507.us.archive.org",
     "ia802507.us.archive.org"

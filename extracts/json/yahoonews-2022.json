@@ -1,5 +1,5 @@
 {
-  "created": 1660179969,
+  "created": 1660226392,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/21/items/yahoonews-2022",
@@ -9394,31 +9394,93 @@
       "sha1": "c01752ea79639c04f89cb8e944228e6debcf5c5d"
     },
     {
+      "name": "yahoonews-2022-08-10T22:33:03.115120-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660185197",
+      "size": "36924",
+      "md5": "c7dc83ae17df86fd148f6ba4a59a4d8c",
+      "crc32": "25ed799b",
+      "sha1": "618d8dc3c955992ca412aea31a1f032e754f40fa",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-08-10T22:33:03.115120-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660185199",
+      "size": "19647",
+      "md5": "df162f04e0df7cfd71c209bdf92ff110",
+      "crc32": "fb472d9b",
+      "sha1": "168eaa8fa354dbc2639ec09c146248a848a30c4c",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-08-10T22:33:03.115120-04:00.jpg",
+      "source": "original",
+      "mtime": "1660185196",
+      "size": "310431",
+      "md5": "c16deb3fe93506bdaf6cb3b428a9d2b9",
+      "crc32": "a040dd85",
+      "sha1": "c7468c7a58a4dae486bc550699cfd70a4b1e888a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "yahoonews-2022-08-10T22:33:03.115120-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660185200",
+      "size": "1456",
+      "md5": "eba57a2f0dc0d1aa91a1080f18cbdcb6",
+      "crc32": "5c461bb7",
+      "sha1": "48ef26b9b3a05ed5aa7d3f72c30be1c750e6c8a0",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-08-10T22:33:03.115120-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660185202",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-08-10T22:33:03.115120-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "yahoonews-2022-08-10T22:33:03.115120-04:00.jpg",
+      "mtime": "1660185452",
+      "size": "10040",
+      "md5": "800ae7e64ce99eb01073d705f0886680",
+      "crc32": "a8cff176",
+      "sha1": "786500577cd51fb1ca6c62f39cc83db926941eaa"
+    },
+    {
       "name": "yahoonews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "40abc213c0c8d0b3eb0ceddeedbad3a6ad1574b9",
-      "mtime": "1660166399",
-      "size": "192037",
-      "md5": "2250b5eee5eb84f470f7443214eef1c1",
-      "crc32": "cbb75dff",
-      "sha1": "10c5249bb7ff8995d4ec839405d04ddf92ebfc7c",
+      "btih": "db7bfe7b23c90012ea3d95855974ec374a8d3fef",
+      "mtime": "1660185780",
+      "size": "193309",
+      "md5": "506768a18496209a6640f41ce0b85b38",
+      "crc32": "d953404a",
+      "sha1": "4fab62f42fd97ba6a14e07e54ba2cf7777d0b098",
       "format": "Archive BitTorrent"
     },
     {
       "name": "yahoonews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cff540259940d43bce1b2341c0fceba4",
+      "md5": "f29b1cbfd9eed55b82c45408bdbe102e",
       "summation": "md5"
     },
     {
       "name": "yahoonews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660166208",
-      "size": "1081344",
-      "md5": "c6a5af4a4e338fc911b45f23cc41d3de",
-      "crc32": "3dac7168",
-      "sha1": "dd88141320878ca2b5754cbd5addb60db32e220a",
+      "mtime": "1660185208",
+      "size": "1089536",
+      "md5": "d261464d88e5d5cd33ae5c974fba4a68",
+      "crc32": "97b31277",
+      "sha1": "768b4b5021481d82ea2e3d663992563a933c9499",
       "format": "Metadata"
     },
     {
@@ -9432,9 +9494,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 903,
-  "item_last_updated": 1660166399,
-  "item_size": 79771427,
+  "files_count": 909,
+  "item_last_updated": 1660185780,
+  "item_size": 80159591,
   "metadata": {
     "identifier": "yahoonews-2022",
     "collection": [
@@ -9451,15 +9513,15 @@
     "publicdate": "2022-06-24 23:04:11",
     "addeddate": "2022-06-24 23:04:11"
   },
-  "server": "ia601403.us.archive.org",
-  "uniq": 415004149,
+  "server": "ia801403.us.archive.org",
+  "uniq": 231509803,
   "workable_servers": [
-    "ia601403.us.archive.org",
-    "ia801403.us.archive.org"
+    "ia801403.us.archive.org",
+    "ia601403.us.archive.org"
   ],
   "yahoonews-2022": {
-    "url": "https://news.yahoo.com/",
-    "job_id": "spn2-5d226e5fcaae6136a3d709228511e15a21a6d99f",
-    "message": "The capture will start in ~2 minutes because our service is currently overloaded. You may close your browser window and the page will still be saved."
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
   }
 }

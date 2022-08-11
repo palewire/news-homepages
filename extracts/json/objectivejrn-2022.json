@@ -1,5 +1,5 @@
 {
-  "created": 1660155516,
+  "created": 1660225553,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/27/items/objectivejrn-2022",
@@ -3258,31 +3258,93 @@
       "sha1": "a4bdeb959e4fa0410c33b9735159e8f43f97443c"
     },
     {
+      "name": "objectivejrn-2022-08-10T22:19:34.735685-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660195177",
+      "size": "16052",
+      "md5": "1ca086af6d85e1c2cb169ddd487c4d81",
+      "crc32": "8d1f407a",
+      "sha1": "2ba35b27f4f61c3966f630f9b8af935e18d468b3",
+      "format": "JSON"
+    },
+    {
+      "name": "objectivejrn-2022-08-10T22:19:34.735685-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660195179",
+      "size": "12782",
+      "md5": "0c48fbc70bc1f964568b9f2cb9a9b983",
+      "crc32": "5c2c09cf",
+      "sha1": "0df3e257603ea5c61d870db813465efbbd0e4320",
+      "format": "JSON"
+    },
+    {
+      "name": "objectivejrn-2022-08-10T22:19:34.735685-07:00.jpg",
+      "source": "original",
+      "mtime": "1660195176",
+      "size": "293027",
+      "md5": "86fe3e947fefdd4d46918a84cbfc8acd",
+      "crc32": "98d51ee6",
+      "sha1": "ed3a2722013b26268d2853dd8a2ace62019a1b6c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "objectivejrn-2022-08-10T22:19:34.735685-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660195180",
+      "size": "1530",
+      "md5": "ecb7d1a13a9a4b26132cafa26d781269",
+      "crc32": "5738a432",
+      "sha1": "d807da98b6630f38db259c9ed13cc0fb2bde18f2",
+      "format": "JSON"
+    },
+    {
+      "name": "objectivejrn-2022-08-10T22:19:34.735685-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660195182",
+      "size": "273",
+      "md5": "2f4b8a5a695b646790b9fb0a1886c21d",
+      "crc32": "48248eda",
+      "sha1": "0880ca5ca68c76508f8e06047b0fc61eac78512b",
+      "format": "JSON"
+    },
+    {
+      "name": "objectivejrn-2022-08-10T22:19:34.735685-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "objectivejrn-2022-08-10T22:19:34.735685-07:00.jpg",
+      "mtime": "1660196156",
+      "size": "10599",
+      "md5": "97d095832f47081af10cfb6c914020f0",
+      "crc32": "d3bc52f8",
+      "sha1": "a4bdeb959e4fa0410c33b9735159e8f43f97443c"
+    },
+    {
       "name": "objectivejrn-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d7065632d0d7b2f2622e1a94aea8fbb4c16a74f9",
-      "mtime": "1660155419",
-      "size": "68204",
-      "md5": "eb899b1d994dd314126024d19d1a06e7",
-      "crc32": "d36fa470",
-      "sha1": "6d3509812753ef63c93e2ddcf3e22179e94a323b",
+      "btih": "9c1d784dafdf669632a38a9c01bbb6c656ed9603",
+      "mtime": "1660196164",
+      "size": "69494",
+      "md5": "a7778f46ee6275657bcd055a975e5432",
+      "crc32": "840be26d",
+      "sha1": "2216079d8f44e27df39b1a033204c7367d03eda7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "objectivejrn-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6a2b2f8f456cafa6592ed87988888684",
+      "md5": "3beb906811141707cbe870b5657a911b",
       "summation": "md5"
     },
     {
       "name": "objectivejrn-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660155326",
-      "size": "397312",
-      "md5": "447fd2a92ad09409cc01e1ddd5e9619e",
-      "crc32": "7aed9fc4",
-      "sha1": "9c2fe3b2c533f4e6d4181d717adb0950065fb1df",
+      "mtime": "1660195191",
+      "size": "405504",
+      "md5": "a231f873edcb8b5725f932b848f87015",
+      "crc32": "72528575",
+      "sha1": "ceb285b472d090fbf7783fe05b997ac6445f1da6",
       "format": "Metadata"
     },
     {
@@ -3296,9 +3358,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 316,
-  "item_last_updated": 1660155419,
-  "item_size": 19135537,
+  "files_count": 322,
+  "item_last_updated": 1660196164,
+  "item_size": 19479282,
   "metadata": {
     "identifier": "objectivejrn-2022",
     "collection": [
@@ -3315,10 +3377,15 @@
     "publicdate": "2022-07-09 04:01:28",
     "addeddate": "2022-07-09 04:01:28"
   },
-  "server": "ia601401.us.archive.org",
-  "uniq": 1974002512,
+  "objectivejrn-2022": {
+    "url": "https://objectivejournalism.org/",
+    "job_id": "spn2-7c030fd8e7f6d8ae317fe89b59a58a83e4d09bcd",
+    "message": "The capture will start in ~1 minute because our service is currently overloaded. You may close your browser window and the page will still be saved."
+  },
+  "server": "ia801401.us.archive.org",
+  "uniq": 1355460393,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia801401.us.archive.org",
+    "ia601401.us.archive.org"
   ]
 }

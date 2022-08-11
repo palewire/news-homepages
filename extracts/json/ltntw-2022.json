@@ -1,5 +1,5 @@
 {
-  "created": 1660179358,
+  "created": 1660225421,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/31/items/ltntw-2022",
@@ -1000,31 +1000,93 @@
       "sha1": "c1827756efc5084eed8ced91182e04bcbfc1dfd5"
     },
     {
+      "name": "ltntw-2022-08-11T11:58:11.046964+08:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660190296",
+      "size": "84561",
+      "md5": "000e7acbe487eda98b3b2d81abe9c399",
+      "crc32": "f797e49f",
+      "sha1": "08cd080d8621a9fd13e5962dc6b1d4f59cbb2600",
+      "format": "JSON"
+    },
+    {
+      "name": "ltntw-2022-08-11T11:58:11.046964+08:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660190297",
+      "size": "78417",
+      "md5": "8e60214c30cd209893e90b81a8fe0782",
+      "crc32": "3b7c7463",
+      "sha1": "1a5e33c508fda3d3203fdede5b5acde2c27d6c93",
+      "format": "JSON"
+    },
+    {
+      "name": "ltntw-2022-08-11T11:58:11.046964+08:00.jpg",
+      "source": "original",
+      "mtime": "1660190294",
+      "size": "439402",
+      "md5": "ef8b1f0eabd0815fb612291090c99dc0",
+      "crc32": "abc2fc87",
+      "sha1": "8c0ae73099b973ee5281eec4d6387649e8f1d7bb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ltntw-2022-08-11T11:58:11.046964+08:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660190299",
+      "size": "1459",
+      "md5": "8fb8231ba06a1b56ffa766399d644555",
+      "crc32": "4ae6b438",
+      "sha1": "ffe2494fb6a890ff514588fa44afe73ffbc891a0",
+      "format": "JSON"
+    },
+    {
+      "name": "ltntw-2022-08-11T11:58:11.046964+08:00.wayback.json",
+      "source": "original",
+      "mtime": "1660190300",
+      "size": "266",
+      "md5": "e10797f7fb374b15e515690dd51649ff",
+      "crc32": "d5c7a34b",
+      "sha1": "64ab6a65a06a4c2dbd2ff6113d326864a8cc62e2",
+      "format": "JSON"
+    },
+    {
+      "name": "ltntw-2022-08-11T11:58:11.046964+08:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ltntw-2022-08-11T11:58:11.046964+08:00.jpg",
+      "mtime": "1660191029",
+      "size": "11426",
+      "md5": "b1f8c70ab2a5a3f2cb128f3748be16df",
+      "crc32": "b9ce2b8d",
+      "sha1": "7a610b216beec61a8f4cb28b09c2fff7afcb9e67"
+    },
+    {
       "name": "ltntw-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0da0107e5002e47a40b1b0820cbf6dbae47b8c47",
-      "mtime": "1660155335",
-      "size": "21469",
-      "md5": "8e042b04c346972c0b7f41f197bfa2e8",
-      "crc32": "c7aabe87",
-      "sha1": "84504ed4ede893de93f17c732e7c14fe37acc17b",
+      "btih": "d636b57eef1bb4dc73741b632f3717ff3a9cdda9",
+      "mtime": "1660191037",
+      "size": "22717",
+      "md5": "a2110f1973eff59daff33a92fc1cc989",
+      "crc32": "f8609580",
+      "sha1": "669e5d67d187a4beb03b9d6b0f63c49b8c591d80",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ltntw-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b7bca7dd02f8cab8ed1b89795454fcb9",
+      "md5": "e27a0e8c653393aa1cd05860afac12db",
       "summation": "md5"
     },
     {
       "name": "ltntw-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660155054",
-      "size": "143360",
-      "md5": "0109618a2ee46cc739212cdda1a523f6",
-      "crc32": "0b5adafa",
-      "sha1": "72574589696de582beea024a5dfb16f7d2977ea5",
+      "mtime": "1660190305",
+      "size": "151552",
+      "md5": "a74563a488596d70d129b1a941e65c2d",
+      "crc32": "8085c209",
+      "sha1": "22098a254430e4d69c50246e198fb02b21311455",
       "format": "Metadata"
     },
     {
@@ -1038,12 +1100,13 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 100,
-  "item_last_updated": 1660155335,
-  "item_size": 10691894,
+  "files_count": 106,
+  "item_last_updated": 1660191037,
+  "item_size": 11316865,
   "ltntw-2022": {
     "url": "https://www.ltn.com.tw/",
-    "job_id": "spn2-3746bd6f0f4f40b2d82171f242201b8e876eacb2"
+    "job_id": "spn2-3746bd6f0f4f40b2d82171f242201b8e876eacb2",
+    "message": "The capture will start in ~28 minutes because our service is currently overloaded. You may close your browser window and the page will still be saved."
   },
   "metadata": {
     "identifier": "ltntw-2022",
@@ -1062,7 +1125,7 @@
     "addeddate": "2022-08-02 14:57:59"
   },
   "server": "ia801403.us.archive.org",
-  "uniq": 1242622233,
+  "uniq": 977029263,
   "workable_servers": [
     "ia801403.us.archive.org",
     "ia601403.us.archive.org"

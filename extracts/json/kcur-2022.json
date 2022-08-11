@@ -1,5 +1,5 @@
 {
-  "created": 1660179275,
+  "created": 1660225278,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/26/items/kcur-2022",
@@ -3258,31 +3258,93 @@
       "sha1": "35c428caa218143d0e6343e8edda63049cbd4ee4"
     },
     {
+      "name": "kcur-2022-08-10T22:55:52.048744-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660190156",
+      "size": "21183",
+      "md5": "b2ba6d9852beb52eb6c0b016594b053d",
+      "crc32": "df422ee0",
+      "sha1": "0bc7a112a6c1641eb2c4f85e8d8e65ff3a475ad9",
+      "format": "JSON"
+    },
+    {
+      "name": "kcur-2022-08-10T22:55:52.048744-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660190158",
+      "size": "39943",
+      "md5": "f248507c3a1364fdbce328b75c31fba9",
+      "crc32": "e7ab17f5",
+      "sha1": "5ab4a4fecaded399c82e1a4f8cc0611f2b28fabf",
+      "format": "JSON"
+    },
+    {
+      "name": "kcur-2022-08-10T22:55:52.048744-05:00.jpg",
+      "source": "original",
+      "mtime": "1660190154",
+      "size": "262168",
+      "md5": "3dd74818a90ed21a146cf1bcf4024b77",
+      "crc32": "b8d5c471",
+      "sha1": "698381c33edeb86530bb4a54c4589fc8d8eec71a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kcur-2022-08-10T22:55:52.048744-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660190160",
+      "size": "1441",
+      "md5": "7426faa17adae2ebf2b0929d932196fb",
+      "crc32": "344d3e64",
+      "sha1": "d4e97b83d22873a3ae5ff73dac9f3e721c7bf05a",
+      "format": "JSON"
+    },
+    {
+      "name": "kcur-2022-08-10T22:55:52.048744-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660190161",
+      "size": "263",
+      "md5": "cc85382ca621256bdf8670470481df2f",
+      "crc32": "52cbd362",
+      "sha1": "df28f86a8937dcce05a9b53faf8bbdbde3bfcc98",
+      "format": "JSON"
+    },
+    {
+      "name": "kcur-2022-08-10T22:55:52.048744-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kcur-2022-08-10T22:55:52.048744-05:00.jpg",
+      "mtime": "1660190973",
+      "size": "10961",
+      "md5": "921a7d972807711e74556fc353e9315b",
+      "crc32": "e64ebc4a",
+      "sha1": "b7f09fc476b10a141dcc24f6ac08e67399925b6e"
+    },
+    {
       "name": "kcur-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ce974c3d0f6feda760bc7b8c6063048adfb8af82",
-      "mtime": "1660154999",
-      "size": "65889",
-      "md5": "a997789ac605aea1d4f5f7f3ca19285f",
-      "crc32": "fc8b1bdb",
-      "sha1": "7f178ddf39ed381c466075f088b5715a789a2e82",
+      "btih": "473a61a01aa613ca374563eaf6052c6375109d78",
+      "mtime": "1660190976",
+      "size": "67131",
+      "md5": "ef406f99c11248be8060957e0ecc2f39",
+      "crc32": "eb2fb69e",
+      "sha1": "7d71127c50580efb3bde2266aff5c25cd523b40b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kcur-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "01caa6156c0a63edda1cc863f2de4e16",
+      "md5": "87a88e1f40184fa1ce11212aa17f9a9d",
       "summation": "md5"
     },
     {
       "name": "kcur-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660154898",
-      "size": "393216",
-      "md5": "d4617b358feb398ef83acb1b4ab2852f",
-      "crc32": "4a150337",
-      "sha1": "3e3e7cf5a7bb16c3439e4602091a736702ec7ea6",
+      "mtime": "1660190167",
+      "size": "401408",
+      "md5": "3baa22aeff3b4337f034f6ccfe12f86c",
+      "crc32": "e3bd1b85",
+      "sha1": "29642a151d5abecccaf9207bea77e223690651a7",
       "format": "Metadata"
     },
     {
@@ -3296,12 +3358,13 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 316,
-  "item_last_updated": 1660154999,
-  "item_size": 24389545,
+  "files_count": 322,
+  "item_last_updated": 1660190976,
+  "item_size": 24734938,
   "kcur-2022": {
     "url": "http://www.kcur.org/",
-    "job_id": "spn2-3b7abb827fee67e154660983516ef5b923708b3c"
+    "job_id": "spn2-3b7abb827fee67e154660983516ef5b923708b3c",
+    "message": "The capture will start in ~30 minutes because our service is currently overloaded. You may close your browser window and the page will still be saved."
   },
   "metadata": {
     "identifier": "kcur-2022",
@@ -3320,7 +3383,7 @@
     "addeddate": "2022-07-09 03:59:38"
   },
   "server": "ia601404.us.archive.org",
-  "uniq": 2068291761,
+  "uniq": 1861024124,
   "workable_servers": [
     "ia601404.us.archive.org",
     "ia801404.us.archive.org"

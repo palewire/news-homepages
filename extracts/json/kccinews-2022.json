@@ -1,5 +1,5 @@
 {
-  "created": 1660179191,
+  "created": 1660224960,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/5/items/kccinews-2022",
@@ -10092,31 +10092,82 @@
       "sha1": "05c49e618711b31e223232e829d6ce8eb755d110"
     },
     {
+      "name": "kccinews-2022-08-11T08:34:55.906133-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660224904",
+      "size": "26444",
+      "md5": "03642617a659dcc0568bcf471ca40b03",
+      "crc32": "2dafc680",
+      "sha1": "0e44ed6000aae92f7d6ca324e981644beae2d59c",
+      "format": "JSON"
+    },
+    {
+      "name": "kccinews-2022-08-11T08:34:55.906133-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660224906",
+      "size": "24244",
+      "md5": "7873f1b0e9ab000d6c3347a9d0772cd9",
+      "crc32": "48f31b0b",
+      "sha1": "e87e63d74b524ec6b2fe765765e8a9649738d9e0",
+      "format": "JSON"
+    },
+    {
+      "name": "kccinews-2022-08-11T08:34:55.906133-05:00.jpg",
+      "source": "original",
+      "mtime": "1660224903",
+      "size": "287842",
+      "md5": "8137b3d07f95849c90b966dfe3265fee",
+      "crc32": "0e079f49",
+      "sha1": "6d30438574605d0b6bca79972b31969c149924de",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kccinews-2022-08-11T08:34:55.906133-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660224908",
+      "size": "1441",
+      "md5": "c7144b9b977173b471605dfb5865770d",
+      "crc32": "6d227f5b",
+      "sha1": "5ee61d73c863b17b22b6700e585448013926fae8",
+      "format": "JSON"
+    },
+    {
+      "name": "kccinews-2022-08-11T08:34:55.906133-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660224909",
+      "size": "97",
+      "md5": "c4135d6d1a9646d80c1ce3726138523e",
+      "crc32": "15636faf",
+      "sha1": "13361ef3adc3c61c0925d5265bd97bd143a17e2f",
+      "format": "JSON"
+    },
+    {
       "name": "kccinews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b39532f0a7d311e6c1370c2e3310be284b4723fd",
-      "mtime": "1660179161",
-      "size": "204501",
-      "md5": "2abbdae56dbe56eb00ef38f200dddbcb",
-      "crc32": "5ed1231c",
-      "sha1": "acd5793d62e378cc6ea78137de95ecf08ba901c5",
+      "btih": "f08b440b5a75dde34bb323c9c27f88d67f8b5763",
+      "mtime": "1660224955",
+      "size": "205561",
+      "md5": "fcd1cfde9717b9f9da6ceba25c36fc00",
+      "crc32": "79600124",
+      "sha1": "35d44cb9f867f9e35f302dac16b5086ef3225029",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kccinews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2f95a86cfedb5f17e153832affc7510e",
+      "md5": "6c56ed42ad8136ff8ae10b72ea01ac0b",
       "summation": "md5"
     },
     {
       "name": "kccinews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660178941",
-      "size": "1134592",
-      "md5": "bf434bdf5d78fea9877bc0af262aca13",
-      "crc32": "fb5ce81c",
-      "sha1": "7c6a50effcaecea3678646a051813a3bf3ce1027",
+      "mtime": "1660224914",
+      "size": "1142784",
+      "md5": "a941627d2c1822e268c348d8a3a809d0",
+      "crc32": "d6c817e7",
+      "sha1": "ab3a8bfd8136e5fdecd13af3442e098fbb559bcf",
       "format": "Metadata"
     },
     {
@@ -10130,9 +10181,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 967,
-  "item_last_updated": 1660179161,
-  "item_size": 84455339,
+  "files_count": 972,
+  "item_last_updated": 1660224955,
+  "item_size": 84804659,
   "metadata": {
     "identifier": "kccinews-2022",
     "collection": [
@@ -10149,10 +10200,21 @@
     "publicdate": "2022-03-25 03:36:10",
     "addeddate": "2022-03-25 03:36:10"
   },
+  "pending_tasks": true,
   "server": "ia601504.us.archive.org",
-  "uniq": 2102033061,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3361491055,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 951001028,
   "workable_servers": [
-    "ia601504.us.archive.org",
-    "ia801504.us.archive.org"
+    "ia601504.us.archive.org"
   ]
 }

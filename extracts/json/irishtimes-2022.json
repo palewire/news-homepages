@@ -1,5 +1,5 @@
 {
-  "created": 1660178952,
+  "created": 1660224845,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/3/items/irishtimes-2022",
@@ -2564,31 +2564,72 @@
       "sha1": "7a5f3cd7d5ba02ae882fa3261dff4d5e22462434"
     },
     {
+      "name": "irishtimes-2022-08-11T14:33:14.894261+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660224799",
+      "size": "56937",
+      "md5": "dea8997720cc502300b3055f1d99fb6a",
+      "crc32": "641f237c",
+      "sha1": "3603d9a09b866cb1ae271c64d377ba33ea3078af",
+      "format": "JSON"
+    },
+    {
+      "name": "irishtimes-2022-08-11T14:33:14.894261+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660224802",
+      "size": "44495",
+      "md5": "9e7c85f076c6966ad0551c7404376d5e",
+      "crc32": "06158b17",
+      "sha1": "4883f8467079746b3f144f21153ab5e2426cdb71",
+      "format": "JSON"
+    },
+    {
+      "name": "irishtimes-2022-08-11T14:33:14.894261+01:00.jpg",
+      "source": "original",
+      "mtime": "1660224797",
+      "size": "252427",
+      "md5": "d0fa1a49a34497c88636bac6e6ff730a",
+      "crc32": "feee2fdb",
+      "sha1": "2c7b093cd0c0009b49fed20f7dd3984b16045df8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "irishtimes-2022-08-11T14:33:14.894261+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660224804",
+      "size": "1486",
+      "md5": "f3a18b0908f939dcf6468b8a33a8a3a5",
+      "crc32": "9f650e46",
+      "sha1": "8c5b4bc4707c331f78d3204c7ef20b4fefd1fdfa",
+      "format": "JSON"
+    },
+    {
       "name": "irishtimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ea1fc45205080cae21bbdb3c75440365e8b6ac19",
-      "mtime": "1660178943",
-      "size": "53732",
-      "md5": "df00530e7ff74e4a436dafeaea27e1b1",
-      "crc32": "e03facb3",
-      "sha1": "f875dddfa0382b10680feb1a35829e864062d59b",
+      "btih": "e6ecc2bfa43948bbee0d2046be90c515eb09c3aa",
+      "mtime": "1660224842",
+      "size": "54575",
+      "md5": "6bcfa3749bfda6678b86756a52226d51",
+      "crc32": "0fbc3e0b",
+      "sha1": "66e2cbb8ff3ed16a4ea885d103635016601205d8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "irishtimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4fa8e399c9c0c7ac3e4c69185d56c6da",
+      "md5": "4ed3e3484e1c5f0ae92ed9f9343beb34",
       "summation": "md5"
     },
     {
       "name": "irishtimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660178880",
-      "size": "323584",
-      "md5": "823c6cdb669f986cc6f7466388582cdb",
-      "crc32": "a84080e5",
-      "sha1": "ac9a2b6b3a7d8b7f6ee18e191b67fd81d44bce52",
+      "mtime": "1660224807",
+      "size": "327680",
+      "md5": "90d322c52a99d18152f5c9160bc4ec3d",
+      "crc32": "7102bcf1",
+      "sha1": "71dd59d212f8ffb0805213cee5e24e75de558769",
       "format": "Metadata"
     },
     {
@@ -2602,9 +2643,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 250,
-  "item_last_updated": 1660178943,
-  "item_size": 18971780,
+  "files_count": 254,
+  "item_last_updated": 1660224842,
+  "item_size": 19332064,
   "metadata": {
     "identifier": "irishtimes-2022",
     "collection": [
@@ -2621,10 +2662,21 @@
     "publicdate": "2022-07-18 02:24:06",
     "addeddate": "2022-07-18 02:24:06"
   },
+  "pending_tasks": true,
   "server": "ia601506.us.archive.org",
-  "uniq": 1360860184,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3361488652,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1306032357,
   "workable_servers": [
-    "ia601506.us.archive.org",
-    "ia801506.us.archive.org"
+    "ia601506.us.archive.org"
   ]
 }

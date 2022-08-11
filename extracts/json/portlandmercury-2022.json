@@ -1,5 +1,5 @@
 {
-  "created": 1660179486,
+  "created": 1660225619,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/10/items/portlandmercury-2022",
@@ -2936,31 +2936,83 @@
       "sha1": "c0ca9f2dbf5a3659394af2844eee080e82ec3274"
     },
     {
+      "name": "portlandmercury-2022-08-10T22:21:28.969742-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660195293",
+      "size": "20963",
+      "md5": "267d117363ec5f4a6397da784cbd2146",
+      "crc32": "725b362e",
+      "sha1": "73406a0fcedcccf5c90e6479193cc9f899d8c95b",
+      "format": "JSON"
+    },
+    {
+      "name": "portlandmercury-2022-08-10T22:21:28.969742-07:00.jpg",
+      "source": "original",
+      "mtime": "1660195291",
+      "size": "312836",
+      "md5": "98c56be7994a38bb67d6e0fdc9d1e993",
+      "crc32": "06a23306",
+      "sha1": "01296dc73abe722254af6d925b095b124e050318",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "portlandmercury-2022-08-10T22:21:28.969742-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660195294",
+      "size": "1540",
+      "md5": "940c76f3d3f18314b057a466a9524e1b",
+      "crc32": "627ef66f",
+      "sha1": "85d5fd0169e03bb68d81bead5a4c3d3cfc16ef33",
+      "format": "JSON"
+    },
+    {
+      "name": "portlandmercury-2022-08-10T22:21:28.969742-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660195296",
+      "size": "273",
+      "md5": "092b40f8c2e978aa588adc692efd459e",
+      "crc32": "df3f48a6",
+      "sha1": "afa7233ea99ed9308171647b712f4c3f1d12bb75",
+      "format": "JSON"
+    },
+    {
+      "name": "portlandmercury-2022-08-10T22:21:28.969742-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "portlandmercury-2022-08-10T22:21:28.969742-07:00.jpg",
+      "mtime": "1660196181",
+      "size": "10485",
+      "md5": "84626a1a03e84045bcb165a03e9b8592",
+      "crc32": "ef4ebdcd",
+      "sha1": "34eec2913b5828a5d1483aa6ee24a34a2e9d2d2c"
+    },
+    {
       "name": "portlandmercury-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3a7cf81bfe702bd2db14ea561a86c5368ba94d86",
-      "mtime": "1660156405",
-      "size": "62844",
-      "md5": "6881471e3a8593b832fbce42bcf1fa2b",
-      "crc32": "3e81a65a",
-      "sha1": "e137baf9116a67924f760271d847c91dedd6b249",
+      "btih": "55566c9d30d542b411e1ae337a11c9971765fc1e",
+      "mtime": "1660196186",
+      "size": "63934",
+      "md5": "fbaa15a6f56af87dda9a7aadfa7e799f",
+      "crc32": "90fcb0cb",
+      "sha1": "e85a2b8b9f9c9078e9beb6468e39cb9709780d06",
       "format": "Archive BitTorrent"
     },
     {
       "name": "portlandmercury-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "70bded30177190231be47dab06ae3dba",
+      "md5": "f2b49b19e2bd7799aee79d66883d994e",
       "summation": "md5"
     },
     {
       "name": "portlandmercury-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660155477",
-      "size": "368640",
-      "md5": "f55c9bbdc18d723f3f1b6af02c2b2ff0",
-      "crc32": "b940b6d7",
-      "sha1": "9bd9947eb78a785e4b43a619d2577aa2e625fc4d",
+      "mtime": "1660195300",
+      "size": "376832",
+      "md5": "fdfb7f64d17dd399f5b3d87101fc908c",
+      "crc32": "2efffd83",
+      "sha1": "d8c8b884868377061760636d9cf0c4c9f0c950e3",
       "format": "Metadata"
     },
     {
@@ -2974,9 +3026,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 286,
-  "item_last_updated": 1660156405,
-  "item_size": 19311211,
+  "files_count": 291,
+  "item_last_updated": 1660196186,
+  "item_size": 19666590,
   "metadata": {
     "identifier": "portlandmercury-2022",
     "collection": [
@@ -2996,16 +3048,12 @@
   "portlandmercury-2022": {
     "url": "https://www.portlandmercury.com/",
     "job_id": "spn2-5a5c3201b1a2f52859870de23d34de8631cbdfa4",
-    "status_ext": "error:job-failed",
-    "message": "Job failed.",
-    "status": "error",
-    "resources": [],
-    "duration_sec": 0.672
+    "message": "The capture will start in ~1 minute because our service is currently overloaded. You may close your browser window and the page will still be saved."
   },
-  "server": "ia801408.us.archive.org",
-  "uniq": 587328475,
+  "server": "ia601408.us.archive.org",
+  "uniq": 731959156,
   "workable_servers": [
-    "ia801408.us.archive.org",
-    "ia601408.us.archive.org"
+    "ia601408.us.archive.org",
+    "ia801408.us.archive.org"
   ]
 }

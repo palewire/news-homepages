@@ -1,5 +1,5 @@
 {
-  "created": 1660179509,
+  "created": 1660225646,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/13/items/prismreports-2022",
@@ -3258,31 +3258,93 @@
       "sha1": "2bbe1d71ba59e7c97a43e1e5701f9cab1933f296"
     },
     {
+      "name": "prismreports-2022-08-10T22:21:38.623774-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660195302",
+      "size": "20332",
+      "md5": "2562c4f42df0c7e34d9ba1892328cb23",
+      "crc32": "6e547f05",
+      "sha1": "9c35604b6457b6a9b6c6125d86b29c52f939209a",
+      "format": "JSON"
+    },
+    {
+      "name": "prismreports-2022-08-10T22:21:38.623774-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660195303",
+      "size": "20995",
+      "md5": "acff32128818a248a369d000c9c768e2",
+      "crc32": "8dc7e173",
+      "sha1": "5f169c5aa0e4cae512f1157fcc6d48993641b159",
+      "format": "JSON"
+    },
+    {
+      "name": "prismreports-2022-08-10T22:21:38.623774-07:00.jpg",
+      "source": "original",
+      "mtime": "1660195300",
+      "size": "356416",
+      "md5": "9d4a9dc8edf4950e9298352eddd73c9a",
+      "crc32": "8f7704de",
+      "sha1": "3fb824d6de920effd6e1f0f3b6d83f0e0aefda89",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "prismreports-2022-08-10T22:21:38.623774-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660195304",
+      "size": "1468",
+      "md5": "98b1c9da234ae74c0b1bee68652bb25a",
+      "crc32": "53fec5c1",
+      "sha1": "6b785a42bb88595cfb1431bbf76d57a297c2b53b",
+      "format": "JSON"
+    },
+    {
+      "name": "prismreports-2022-08-10T22:21:38.623774-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660195306",
+      "size": "258",
+      "md5": "abfad45a4b2cbefb47b0745785c6916d",
+      "crc32": "0795066c",
+      "sha1": "607db4714e6a312dfcceb1f02cd5f762b67a65fa",
+      "format": "JSON"
+    },
+    {
+      "name": "prismreports-2022-08-10T22:21:38.623774-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "prismreports-2022-08-10T22:21:38.623774-07:00.jpg",
+      "mtime": "1660196109",
+      "size": "10545",
+      "md5": "0834d4b7bc15a37b12710757d0bfd1d6",
+      "crc32": "c7aa6c65",
+      "sha1": "c8e2b45c6d52a93088b3e8712cdb785b2f934a2b"
+    },
+    {
       "name": "prismreports-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2d081d3d076989c07ba127009e05f769abb5c8fb",
-      "mtime": "1660160248",
-      "size": "68479",
-      "md5": "f030ad4768204172a113bdef657e9f81",
-      "crc32": "29252a75",
-      "sha1": "38cc7442452529c1581bc77da1d38642d863c698",
+      "btih": "a3c8eb594771ccc3b4d10200eb0a69507b2abda3",
+      "mtime": "1660196118",
+      "size": "69770",
+      "md5": "0bb1dd8f3dcbf8e196ed1b23a96ec6af",
+      "crc32": "0ed77969",
+      "sha1": "20376cbc1ba3b082ad1e586022945fab5a8fe9f9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "prismreports-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8731312411df7fd8df4e3c798d54c4eb",
+      "md5": "29a2454895aad4fcb0a10ad683cab094",
       "summation": "md5"
     },
     {
       "name": "prismreports-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660156157",
-      "size": "397312",
-      "md5": "15a1628a591de13ded380fa6fc6636b5",
-      "crc32": "937d8b45",
-      "sha1": "0b73e6836dc2447b884d0e6587ad65e3d80d52ae",
+      "mtime": "1660195311",
+      "size": "405504",
+      "md5": "84af54851463809d6d1059b6c4eed93a",
+      "crc32": "4097e1d6",
+      "sha1": "a2ffe0266df125b960fc62b64b1a50d2a3470115",
       "format": "Metadata"
     },
     {
@@ -3296,9 +3358,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 316,
-  "item_last_updated": 1660160248,
-  "item_size": 25513645,
+  "files_count": 322,
+  "item_last_updated": 1660196118,
+  "item_size": 25933142,
   "metadata": {
     "identifier": "prismreports-2022",
     "collection": [
@@ -3317,10 +3379,11 @@
   },
   "prismreports-2022": {
     "url": "https://prismreports.org/",
-    "job_id": "spn2-a24f44ba9127e5ad9fcbe6c05e7e201e3635a20c"
+    "job_id": "spn2-a24f44ba9127e5ad9fcbe6c05e7e201e3635a20c",
+    "message": "The capture will start in ~ because our service is currently overloaded. You may close your browser window and the page will still be saved."
   },
   "server": "ia902502.us.archive.org",
-  "uniq": 807885034,
+  "uniq": 1392954661,
   "workable_servers": [
     "ia902502.us.archive.org",
     "ia802502.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1660179445,
+  "created": 1660225568,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/19/items/ocregister-2022",
@@ -14316,31 +14316,93 @@
       "sha1": "69ab7671b2705133b983b2648c189fe4b72b058b"
     },
     {
+      "name": "ocregister-2022-08-10T22:20:02.099568-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660195204",
+      "size": "39299",
+      "md5": "6329657b7992885ecb96e848b1f1e3c5",
+      "crc32": "22e83c6f",
+      "sha1": "92c6d549f8846a5e7a9423dc6ec9cf8eeee76d1e",
+      "format": "JSON"
+    },
+    {
+      "name": "ocregister-2022-08-10T22:20:02.099568-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660195206",
+      "size": "53285",
+      "md5": "bc3e044aeef10673a94c5e8ac0cfc333",
+      "crc32": "f68b4689",
+      "sha1": "9e9580a2048b2591d5244babb84f01a8ceb7b850",
+      "format": "JSON"
+    },
+    {
+      "name": "ocregister-2022-08-10T22:20:02.099568-07:00.jpg",
+      "source": "original",
+      "mtime": "1660195203",
+      "size": "266789",
+      "md5": "bd5436fe5dfcddedd88fc20983fd1e16",
+      "crc32": "26b02bb9",
+      "sha1": "9b0bbba24f3336cc0fe19563b1e03d6b566352f0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ocregister-2022-08-10T22:20:02.099568-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660195207",
+      "size": "1495",
+      "md5": "b2dd3783004ce4fc156544b855fc32c1",
+      "crc32": "2c00dc17",
+      "sha1": "c2e64fe7006e569b2ae11df77d93714f1368197f",
+      "format": "JSON"
+    },
+    {
+      "name": "ocregister-2022-08-10T22:20:02.099568-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660195209",
+      "size": "268",
+      "md5": "49cc68ecde7d03bf0e7cf1db437e63af",
+      "crc32": "5e7a9e96",
+      "sha1": "248bab9a43ae21eadc5f2865e82d5d9b8a2e4a50",
+      "format": "JSON"
+    },
+    {
+      "name": "ocregister-2022-08-10T22:20:02.099568-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ocregister-2022-08-10T22:20:02.099568-07:00.jpg",
+      "mtime": "1660195929",
+      "size": "9094",
+      "md5": "b1b61f2b490b50b76d06096e35782854",
+      "crc32": "62730df4",
+      "sha1": "139ed3167f0967968b9edede9f1f38181cae472f"
+    },
+    {
       "name": "ocregister-2022_archive.torrent",
       "source": "metadata",
-      "btih": "141b622e5401d15cf10872eb951c750535da239e",
-      "mtime": "1660160480",
-      "size": "292563",
-      "md5": "1ae0f82dd6d1f2449025f802dbf4292a",
-      "crc32": "16e592c4",
-      "sha1": "2dbdd453a9267730da4f8ec408f5d6fb16ca0701",
+      "btih": "4c59776c2fe86e0d67cd5cc3bf25a539821dd282",
+      "mtime": "1660195985",
+      "size": "293840",
+      "md5": "dc82b076f77d2fd095b11975331d7c11",
+      "crc32": "45dc957c",
+      "sha1": "f773135638ed43903e60ca2325d8ed5ed1363948",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ocregister-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0190b4ace30c4a9ff551ab94e56d1724",
+      "md5": "8afbd5c9afda7c6a9df3d595d04c055e",
       "summation": "md5"
     },
     {
       "name": "ocregister-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660160223",
-      "size": "1593344",
-      "md5": "dbeede6f33ffd0bf8a777a93d075a133",
-      "crc32": "fa560457",
-      "sha1": "0a7275c928d1c313cc0511001e6290cf7ae3af41",
+      "mtime": "1660195213",
+      "size": "1601536",
+      "md5": "ca229b49d17082481bac86d631f2d573",
+      "crc32": "95e82c15",
+      "sha1": "27fb9de9548b1bd23043f2980a749c6952cc6ff5",
       "format": "Metadata"
     },
     {
@@ -14354,9 +14416,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1369,
-  "item_last_updated": 1660160480,
-  "item_size": 144340281,
+  "files_count": 1375,
+  "item_last_updated": 1660195985,
+  "item_size": 144719980,
   "metadata": {
     "identifier": "ocregister-2022",
     "collection": [
@@ -14376,22 +14438,12 @@
   "ocregister-2022": {
     "url": "https://www.ocregister.com/",
     "job_id": "spn2-0e4dcd4e2a7a69ea103aee92a96456fe53b8875e",
-    "status": "success",
-    "resources": [],
-    "timestamp": "20220810172811",
-    "counters": {
-      "outlinks": 70,
-      "embeds": 255
-    },
-    "http_status": 200,
-    "outlinks": [],
-    "original_url": "https://www.ocregister.com/",
-    "duration_sec": 78.139
+    "message": "The capture will start in ~1 minute because our service is currently overloaded. You may close your browser window and the page will still be saved."
   },
-  "server": "ia802502.us.archive.org",
-  "uniq": 686155930,
+  "server": "ia902502.us.archive.org",
+  "uniq": 1068088402,
   "workable_servers": [
-    "ia802502.us.archive.org",
-    "ia902502.us.archive.org"
+    "ia902502.us.archive.org",
+    "ia802502.us.archive.org"
   ]
 }

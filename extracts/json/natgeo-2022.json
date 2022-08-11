@@ -1,5 +1,5 @@
 {
-  "created": 1660179294,
+  "created": 1660225391,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/0/items/natgeo-2022",
@@ -3677,31 +3677,83 @@
       "format": "JSON"
     },
     {
+      "name": "natgeo-2022-08-10T20:53:55.193069-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "natgeo-2022-08-10T20:53:55.193069-04:00.jpg",
+      "mtime": "1660179490",
+      "size": "10485",
+      "md5": "a0ee4b7e6e9259c5f1341da2b345ac48",
+      "crc32": "8b6fbf6e",
+      "sha1": "570764cadd576a1783d71237f076ac2fe215d342"
+    },
+    {
+      "name": "natgeo-2022-08-11T09:42:19.196285-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660225343",
+      "size": "34046",
+      "md5": "0e26b151644cf95c705e5fd4be914efc",
+      "crc32": "3fca5610",
+      "sha1": "1e1ef0f2f0dd1b376247a5ae3826069f279c09b8",
+      "format": "JSON"
+    },
+    {
+      "name": "natgeo-2022-08-11T09:42:19.196285-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660225345",
+      "size": "20679",
+      "md5": "be3be0dcb511bc7bb4602f5fad23996b",
+      "crc32": "f2737d7d",
+      "sha1": "9afeb1e009a0cb25b5782ad7bf5d369882ced90c",
+      "format": "JSON"
+    },
+    {
+      "name": "natgeo-2022-08-11T09:42:19.196285-04:00.jpg",
+      "source": "original",
+      "mtime": "1660225342",
+      "size": "234226",
+      "md5": "0445e72e90bbcccd6098129c05e4172d",
+      "crc32": "1b961c6a",
+      "sha1": "3a8b6aa2745b1941590a2b6c30e965af31174bb0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "natgeo-2022-08-11T09:42:19.196285-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660225347",
+      "size": "1564",
+      "md5": "714f76bddf76596477ab0ff6dd39af5f",
+      "crc32": "1936f20f",
+      "sha1": "fe7c6fcf9a99b1e75ce66f977d420154a30d1b0c",
+      "format": "JSON"
+    },
+    {
       "name": "natgeo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1715e3c2b4c14ee1b3a0be17e5d8533e3203f4ce",
-      "mtime": "1660179289",
-      "size": "74732",
-      "md5": "466fc45cc10ce891e623ab6369390598",
-      "crc32": "1b8efee9",
-      "sha1": "3a4faec25ef4f3f764c638061658fe84ea58ae87",
+      "btih": "a6b79f2bc2c9b6feaffca7d7f9aca2db71aca703",
+      "mtime": "1660225388",
+      "size": "75762",
+      "md5": "787c2c9b718eb73023877acf6905e7d8",
+      "crc32": "e8eb647f",
+      "sha1": "8a0ee6e15e05f6ecfc44c3fdaf0dbc58bfdbd035",
       "format": "Archive BitTorrent"
     },
     {
       "name": "natgeo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1a64430a89731403ed65ff34dd0f725c",
+      "md5": "673f4848721a6d2616b9743a4196361d",
       "summation": "md5"
     },
     {
       "name": "natgeo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660179252",
-      "size": "442368",
-      "md5": "2f8d976ecd7328659eea7b3f31b243e6",
-      "crc32": "5827b198",
-      "sha1": "37c94e014b4c3e32d05b6c413eb921f56b727d9a",
+      "mtime": "1660225351",
+      "size": "450560",
+      "md5": "98f9dd3d324a29812d718abcccbf3480",
+      "crc32": "cbd6e1a9",
+      "sha1": "06ebc27a5a3c31b214908d86eb797ed4ebf09d9c",
       "format": "Metadata"
     },
     {
@@ -3715,9 +3767,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 356,
-  "item_last_updated": 1660179289,
-  "item_size": 24326913,
+  "files_count": 361,
+  "item_last_updated": 1660225388,
+  "item_size": 24637135,
   "metadata": {
     "identifier": "natgeo-2022",
     "collection": [
@@ -3739,15 +3791,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3360659063,
+      "task_id": 3361498798,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 2130133914,
+  "uniq": 1655282057,
   "workable_servers": [
     "ia601405.us.archive.org"
   ]

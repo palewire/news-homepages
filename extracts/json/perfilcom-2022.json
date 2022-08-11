@@ -1,5 +1,5 @@
 {
-  "created": 1660179468,
+  "created": 1660225592,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/18/items/perfilcom-2022",
@@ -160,31 +160,93 @@
       "sha1": "f539b87160e76cb1ac01ad98e0e390924254b701"
     },
     {
+      "name": "perfilcom-2022-08-11T02:21:48.118782-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660195310",
+      "size": "73877",
+      "md5": "a4ae8c086b182a8493fd89d7623c77b5",
+      "crc32": "e78a93c9",
+      "sha1": "e70c70d26f19300ed36c4036ebdbc1bb190b8679",
+      "format": "JSON"
+    },
+    {
+      "name": "perfilcom-2022-08-11T02:21:48.118782-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660195311",
+      "size": "132342",
+      "md5": "f647693f3c65788474ddce4f6b24cc2a",
+      "crc32": "327f3787",
+      "sha1": "cca73ef39079fd6504da35e647d99081c212b4b2",
+      "format": "JSON"
+    },
+    {
+      "name": "perfilcom-2022-08-11T02:21:48.118782-03:00.jpg",
+      "source": "original",
+      "mtime": "1660195309",
+      "size": "330066",
+      "md5": "f4515c29017d3cf601bf9a3bf824c595",
+      "crc32": "b8c3765b",
+      "sha1": "5c3840c72aad4a18b7686728d3e810c03135e285",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "perfilcom-2022-08-11T02:21:48.118782-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660195313",
+      "size": "1459",
+      "md5": "65dcf55b67f273303049236b7d90424c",
+      "crc32": "a0f03f67",
+      "sha1": "1d24cbe5814eee29da8c3f7dd1037e27aa22caf4",
+      "format": "JSON"
+    },
+    {
+      "name": "perfilcom-2022-08-11T02:21:48.118782-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1660195315",
+      "size": "264",
+      "md5": "9a1db02156e7fbdc5b2e6074c135edda",
+      "crc32": "17115a22",
+      "sha1": "12e5f4cc389550e5e310d0d84e7116db05d94003",
+      "format": "JSON"
+    },
+    {
+      "name": "perfilcom-2022-08-11T02:21:48.118782-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "perfilcom-2022-08-11T02:21:48.118782-03:00.jpg",
+      "mtime": "1660195990",
+      "size": "10002",
+      "md5": "223e19b1e1eff9906d988edf0df617ed",
+      "crc32": "20c55fd5",
+      "sha1": "11629fb3a965bd17a0a1d2b3b30936ce8871df69"
+    },
+    {
       "name": "perfilcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "318837b11d4a39404fb66bea567591f0e9ee4b27",
-      "mtime": "1660156409",
-      "size": "4600",
-      "md5": "d594a25157f0a6a703d4bc27383e0ed2",
-      "crc32": "ecfc89c5",
-      "sha1": "8c3cac6b7843e7b5ce90cb789847959dcafe01b9",
+      "btih": "ecdb5b7f471e1e139c4a966bd9ad94131c5a3817",
+      "mtime": "1660195992",
+      "size": "5873",
+      "md5": "a81d6ac56cf5b7162daad5fdf099d856",
+      "crc32": "bb5f1a88",
+      "sha1": "0781f8d6cff6d8923b9ae7db1ed969068ce73685",
       "format": "Archive BitTorrent"
     },
     {
       "name": "perfilcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8ecf7dd728fd6a0f052372dd8ee15f96",
+      "md5": "097978df716080ff04b9ae94b38dd54c",
       "summation": "md5"
     },
     {
       "name": "perfilcom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660155536",
-      "size": "36864",
-      "md5": "049720bf0050e2b013c840d5241317ed",
-      "crc32": "ce8f2ec2",
-      "sha1": "8a2aaf673d4c8f7cb9673168df9ee149eb3f004a",
+      "mtime": "1660195320",
+      "size": "45056",
+      "md5": "e6a4ea5f4f4c8bcbfe6de308f54b1a1c",
+      "crc32": "6f63af54",
+      "sha1": "b1796b96fdcc9bfd98ba872629a5b2b2bb3b70c0",
       "format": "Metadata"
     },
     {
@@ -198,9 +260,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 19,
-  "item_last_updated": 1660156409,
-  "item_size": 1184724,
+  "files_count": 25,
+  "item_last_updated": 1660195992,
+  "item_size": 1742199,
   "metadata": {
     "identifier": "perfilcom-2022",
     "collection": [
@@ -219,12 +281,13 @@
   },
   "perfilcom-2022": {
     "url": "https://www.perfil.com/",
-    "job_id": "spn2-ff0d96b023c195d7c3cd80d3acd8672457b2355a"
+    "job_id": "spn2-ff0d96b023c195d7c3cd80d3acd8672457b2355a",
+    "message": "The capture will start in ~1 minute because our service is currently overloaded. You may close your browser window and the page will still be saved."
   },
-  "server": "ia801409.us.archive.org",
-  "uniq": 1788540608,
+  "server": "ia601409.us.archive.org",
+  "uniq": 458981237,
   "workable_servers": [
-    "ia801409.us.archive.org",
-    "ia601409.us.archive.org"
+    "ia601409.us.archive.org",
+    "ia801409.us.archive.org"
   ]
 }

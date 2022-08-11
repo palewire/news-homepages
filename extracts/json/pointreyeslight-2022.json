@@ -1,6 +1,5 @@
 {
-  "conflict": 1660179454,
-  "created": 1660179454,
+  "created": 1660225613,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/26/items/pointreyeslight-2022",
@@ -4855,31 +4854,93 @@
       "sha1": "843db1686ec9b739e376d8cd12f6180334c052d3"
     },
     {
+      "name": "pointreyeslight-2022-08-10T17:57:29.108658-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660179454",
+      "size": "1051",
+      "md5": "4af4a7a9dc347380cf6087bcd9f6f496",
+      "crc32": "eab81c50",
+      "sha1": "50746e80b843251bf34344669c929a29d170510a",
+      "format": "JSON"
+    },
+    {
+      "name": "pointreyeslight-2022-08-10T17:57:29.108658-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660179455",
+      "size": "5666",
+      "md5": "c8745582b54d29098eaab72e17339673",
+      "crc32": "9010f153",
+      "sha1": "9c5c9ae5294fe29458987c8a8a7c583bba9dfaef",
+      "format": "JSON"
+    },
+    {
+      "name": "pointreyeslight-2022-08-10T17:57:29.108658-07:00.jpg",
+      "source": "original",
+      "mtime": "1660179452",
+      "size": "267955",
+      "md5": "feba357e57ca6d4206a0ec7516821a35",
+      "crc32": "293d5f75",
+      "sha1": "961ce783962ad1c73a4da073002afd41cca89170",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pointreyeslight-2022-08-10T17:57:29.108658-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660179457",
+      "size": "1513",
+      "md5": "46f68832bfd801f4a55f6bdbe4c7ab2c",
+      "crc32": "8a38e980",
+      "sha1": "ae1a9f45345335c3d75712b1385d6eab974b7180",
+      "format": "JSON"
+    },
+    {
+      "name": "pointreyeslight-2022-08-10T17:57:29.108658-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660179458",
+      "size": "271",
+      "md5": "8ae2c58fbcbbf2ad4173610c5b698b9b",
+      "crc32": "d41e08b6",
+      "sha1": "eae93a3aca476145ddf58963ed81125b070831fb",
+      "format": "JSON"
+    },
+    {
+      "name": "pointreyeslight-2022-08-10T17:57:29.108658-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pointreyeslight-2022-08-10T17:57:29.108658-07:00.jpg",
+      "mtime": "1660179552",
+      "size": "9205",
+      "md5": "5cbd02f936d63461d40cf4ce0d991f5c",
+      "crc32": "342fbc05",
+      "sha1": "03b24e045caeac71e3aaa4e6af0de2a9529c59ee"
+    },
+    {
       "name": "pointreyeslight-2022_archive.torrent",
       "source": "metadata",
-      "btih": "782168009552eee9038d42089b1290d091714fc0",
-      "mtime": "1660137608",
-      "size": "101725",
-      "md5": "4291c2d2bc454f7b98dfdfca357f2c53",
-      "crc32": "c64b1969",
-      "sha1": "e08929f44838d17897b8e276ead1494dd0e6b1fa",
+      "btih": "28913ba2bcd8899807fbab8b3a35125d6090a4c5",
+      "mtime": "1660179557",
+      "size": "103030",
+      "md5": "621e541f684cd1f71be41a3eddc4eeb9",
+      "crc32": "7281e3de",
+      "sha1": "5f8df5027191858034ebc5dd84257521413c258b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pointreyeslight-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7987660d4984d122183b66fab0a60a22",
+      "md5": "240a06655791aa0dc3a65cb5cb3d3561",
       "summation": "md5"
     },
     {
       "name": "pointreyeslight-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660137344",
-      "size": "573440",
-      "md5": "e2ed1a6c2bc0ea2c589e135703be422c",
-      "crc32": "91c8302f",
-      "sha1": "8ecca52d42d930307fb29aec3cc39f88af28f24d",
+      "mtime": "1660179464",
+      "size": "581632",
+      "md5": "b7d0aacc56bcce6676dba4b59b4b031e",
+      "crc32": "a6c08610",
+      "sha1": "7b84c1232befc1522aa82f43750fa08eda1efb59",
       "format": "Metadata"
     },
     {
@@ -4893,9 +4954,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 468,
-  "item_last_updated": 1660137608,
-  "item_size": 28335335,
+  "files_count": 474,
+  "item_last_updated": 1660179557,
+  "item_size": 28630493,
   "metadata": {
     "identifier": "pointreyeslight-2022",
     "collection": [
@@ -4912,21 +4973,15 @@
     "publicdate": "2022-06-30 20:48:29",
     "addeddate": "2022-06-30 20:48:29"
   },
-  "pending_tasks": true,
-  "server": "ia601408.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3360661480,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1678806147,
+  "pointreyeslight-2022": {
+    "url": "https://www.ptreyeslight.com/",
+    "job_id": "spn2-7868b9604ebd1e822290bae628982e3121a915a6",
+    "message": "The capture will start in ~3 minutes because our service is currently overloaded. You may close your browser window and the page will still be saved."
+  },
+  "server": "ia801408.us.archive.org",
+  "uniq": 1176635099,
   "workable_servers": [
+    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ]
 }

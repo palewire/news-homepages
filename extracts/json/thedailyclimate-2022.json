@@ -1,5 +1,5 @@
 {
-  "created": 1660179714,
+  "created": 1660225965,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/28/items/thedailyclimate-2022",
@@ -2196,31 +2196,93 @@
       "sha1": "bc15c453535fecf642e13f378deca2d76877321f"
     },
     {
+      "name": "thedailyclimate-2022-08-10T20:27:21.234348-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660184844",
+      "size": "27757",
+      "md5": "f94e8cbb62b3f3e3e4128b4cb2f3833c",
+      "crc32": "0d7c4a7c",
+      "sha1": "b2714c5e16c31f6dd39dfaab8e9172213a124891",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-08-10T20:27:21.234348-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660184846",
+      "size": "44809",
+      "md5": "7719d25cb59833bbce9bf0356c987b9f",
+      "crc32": "fcbbc1be",
+      "sha1": "aeaee4c6e89c0fa1671199b1360b60da58fe2a6b",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-08-10T20:27:21.234348-06:00.jpg",
+      "source": "original",
+      "mtime": "1660184842",
+      "size": "283569",
+      "md5": "0252049f8413f315da2dc9c172c6657f",
+      "crc32": "91684491",
+      "sha1": "8210c741efac0b2a72469dc4b5116e0171531721",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thedailyclimate-2022-08-10T20:27:21.234348-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660184847",
+      "size": "1504",
+      "md5": "5d9dc9ec45b88136670399f78225eb00",
+      "crc32": "e663faa0",
+      "sha1": "1acea8b5cc45261905a3ff0cb4ce92fb873d3f2c",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-08-10T20:27:21.234348-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1660184849",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-08-10T20:27:21.234348-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thedailyclimate-2022-08-10T20:27:21.234348-06:00.jpg",
+      "mtime": "1660184999",
+      "size": "10383",
+      "md5": "277e8887f696cebed73e03d545671173",
+      "crc32": "db62d584",
+      "sha1": "369fce88f3cdef62bace397e25aac35f727f4cc9"
+    },
+    {
       "name": "thedailyclimate-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5e08f27d46394a075003d85c561c6c497f415fa1",
-      "mtime": "1660153833",
-      "size": "47383",
-      "md5": "6f3fd060bc2bd32182eefaa523d81ec5",
-      "crc32": "43e03813",
-      "sha1": "438137253c278026edb896a4f213033e39afc1f4",
+      "btih": "a687f957628c0b17862745a2e03aa99129cac40a",
+      "mtime": "1660185011",
+      "size": "48671",
+      "md5": "70d8d907f3c5334883fdf520c872e3e7",
+      "crc32": "f8d6b36a",
+      "sha1": "677e88b25bcee1280217719cef10adf29d551a56",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thedailyclimate-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ea36288b35e0f9460c50ef2b8a62b737",
+      "md5": "c9decc5559965217eb6960ac5a53dc34",
       "summation": "md5"
     },
     {
       "name": "thedailyclimate-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660153751",
-      "size": "282624",
-      "md5": "b9368ef47f672ea69109e5f30387e7ac",
-      "crc32": "2a741ce6",
-      "sha1": "98cb46b4074984cdebbac8f193aa7ac567b5d702",
+      "mtime": "1660184857",
+      "size": "290816",
+      "md5": "1f39fbb7a15d47183f0de6b64a04da21",
+      "crc32": "fcb44843",
+      "sha1": "c5b9e1695c55cf6b4e67d9dd9effd272ca052d42",
       "format": "Metadata"
     },
     {
@@ -2234,9 +2296,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 215,
-  "item_last_updated": 1660153833,
-  "item_size": 14750446,
+  "files_count": 221,
+  "item_last_updated": 1660185011,
+  "item_size": 15128150,
   "metadata": {
     "identifier": "thedailyclimate-2022",
     "collection": [
@@ -2255,10 +2317,11 @@
   },
   "server": "ia902508.us.archive.org",
   "thedailyclimate-2022": {
-    "url": "https://www.dailyclimate.org/",
-    "job_id": "spn2-cfcaac16fbe966d59ecdff7059bb02ee83468d2d"
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
   },
-  "uniq": 1917571078,
+  "uniq": 709297277,
   "workable_servers": [
     "ia902508.us.archive.org",
     "ia802508.us.archive.org"

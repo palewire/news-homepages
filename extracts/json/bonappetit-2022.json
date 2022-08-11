@@ -1,5 +1,5 @@
 {
-  "created": 1660153669,
+  "created": 1660184982,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/10/items/bonappetit-2022",
@@ -5218,31 +5218,83 @@
       "sha1": "443d2bd03bc79ed28590b22f815e3a645b44ee4a"
     },
     {
+      "name": "bonappetit-2022-08-10T22:22:36.899181-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660184560",
+      "size": "61234",
+      "md5": "410dcb2278fffd2da7ecdc3d975c9c5f",
+      "crc32": "e28640be",
+      "sha1": "8671daf13d20cd1e110bd117301c8debb1b25bef",
+      "format": "JSON"
+    },
+    {
+      "name": "bonappetit-2022-08-10T22:22:36.899181-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660184562",
+      "size": "23185",
+      "md5": "08d6f32a94caf569a02b63eaeda871e6",
+      "crc32": "599a0361",
+      "sha1": "2e9e672bd4999c80c06bcae0d2d705ab2f7aa9c0",
+      "format": "JSON"
+    },
+    {
+      "name": "bonappetit-2022-08-10T22:22:36.899181-04:00.jpg",
+      "source": "original",
+      "mtime": "1660184558",
+      "size": "268246",
+      "md5": "927b5442a2713a4a2b091012ebaccdf4",
+      "crc32": "8ecc94ea",
+      "sha1": "561d699384c2b430692642d6382de63ff5eb985f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bonappetit-2022-08-10T22:22:36.899181-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660184564",
+      "size": "1495",
+      "md5": "dc570d1674a894acac139e0f97b8241c",
+      "crc32": "92dda165",
+      "sha1": "34a49f56a593659e6a4e10b3497dd269d57391b2",
+      "format": "JSON"
+    },
+    {
+      "name": "bonappetit-2022-08-10T22:22:36.899181-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bonappetit-2022-08-10T22:22:36.899181-04:00.jpg",
+      "mtime": "1660184816",
+      "size": "9833",
+      "md5": "cade66c90cdd1b363643610de0a27ebf",
+      "crc32": "0178fcb5",
+      "sha1": "074df4e70fdb8c4101e567d930ef223a71369c0a"
+    },
+    {
       "name": "bonappetit-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dd0459ab0862c52e6798dfb4e8e2473a9abfbe8f",
-      "mtime": "1660153585",
-      "size": "107676",
-      "md5": "9187506c5f4ac4e9cd0d3fafd22b2077",
-      "crc32": "a40f7076",
-      "sha1": "97ad6f2fb4b70ea8091d6fa1c0a8b3cd1bd2740e",
+      "btih": "069c2e3992dcce6eb0aa00cea0b98a917cf4a687",
+      "mtime": "1660184854",
+      "size": "108745",
+      "md5": "3377e90fd205e058b40a520ba99e93e4",
+      "crc32": "a2b30479",
+      "sha1": "94562e7f9861ba38f3ded556a43bdeeca9ecc010",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bonappetit-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7a4339691acf0e72e3e8de2798590fed",
+      "md5": "820a9c5b6cb247640f7eca35fe2d1d79",
       "summation": "md5"
     },
     {
       "name": "bonappetit-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660153470",
-      "size": "610304",
-      "md5": "fa9537ad19e67a5e52e671ca48f1ccb3",
-      "crc32": "00336f7e",
-      "sha1": "073e18633018e900326ef1205aaee394c27884f9",
+      "mtime": "1660184575",
+      "size": "618496",
+      "md5": "beff8e6d3d25c314f80419170226e3dc",
+      "crc32": "62de77a3",
+      "sha1": "e58336667a63f76c70a7889f2a0e24868663e457",
       "format": "Metadata"
     },
     {
@@ -5256,9 +5308,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 503,
-  "item_last_updated": 1660153585,
-  "item_size": 44347146,
+  "files_count": 508,
+  "item_last_updated": 1660184854,
+  "item_size": 44720400,
   "metadata": {
     "identifier": "bonappetit-2022",
     "collection": [
@@ -5276,7 +5328,7 @@
     "addeddate": "2022-06-24 22:53:00"
   },
   "server": "ia801400.us.archive.org",
-  "uniq": 1007843560,
+  "uniq": 1487238980,
   "workable_servers": [
     "ia801400.us.archive.org",
     "ia601400.us.archive.org"

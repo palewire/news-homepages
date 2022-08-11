@@ -1,5 +1,5 @@
 {
-  "created": 1660165014,
+  "created": 1660225826,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/12/items/startelegram-2022",
@@ -2394,31 +2394,83 @@
       "sha1": "b8fd177a28424ce1059088431925966f4aa5ef04"
     },
     {
+      "name": "startelegram-2022-08-11T00:24:54.139340-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660195497",
+      "size": "461",
+      "md5": "4fff1a9de09df0c52b71e79d26d9ddcf",
+      "crc32": "7c5dd360",
+      "sha1": "3e347e7734cd0b92ed4cae070a205c21b957c601",
+      "format": "JSON"
+    },
+    {
+      "name": "startelegram-2022-08-11T00:24:54.139340-05:00.jpg",
+      "source": "original",
+      "mtime": "1660195496",
+      "size": "242411",
+      "md5": "804b69ce1d4b4cefb3e48056fe47933e",
+      "crc32": "4c4842bf",
+      "sha1": "1ec260248cc5b59f39ef46449a72fc6978a7b220",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "startelegram-2022-08-11T00:24:54.139340-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660195499",
+      "size": "1521",
+      "md5": "42bf24df1c73ecf2caa7424f2b8c4be6",
+      "crc32": "8b993f94",
+      "sha1": "b904930ca8e2be6085eb659efc7de306597248b4",
+      "format": "JSON"
+    },
+    {
+      "name": "startelegram-2022-08-11T00:24:54.139340-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660195501",
+      "size": "271",
+      "md5": "011aec020d8fc27ed1762c58a16927c4",
+      "crc32": "a699f231",
+      "sha1": "a586536257ce876475bb10baad3890a373475b7d",
+      "format": "JSON"
+    },
+    {
+      "name": "startelegram-2022-08-11T00:24:54.139340-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "startelegram-2022-08-11T00:24:54.139340-05:00.jpg",
+      "mtime": "1660196290",
+      "size": "9049",
+      "md5": "ccc5211ceb834b9f9185713336ec2ee5",
+      "crc32": "2de2664e",
+      "sha1": "53012e2010ed2697b524b5378e07b15d1644947a"
+    },
+    {
       "name": "startelegram-2022_archive.torrent",
       "source": "metadata",
-      "btih": "92703b971666d7404839be247ceefd949e37286d",
-      "mtime": "1660164896",
-      "size": "50401",
-      "md5": "cf799a319af7e195aad22aa524e62cb2",
-      "crc32": "5f4fd9cb",
-      "sha1": "fd95068f00ac3f3f8d7a1bce84e3ec513396ec90",
+      "btih": "eae0d0b9d6bbc71d530c926233491ecb40e7299f",
+      "mtime": "1660196299",
+      "size": "51453",
+      "md5": "1886d6bd2fbdd78d143c83eff070e04d",
+      "crc32": "8ac04d23",
+      "sha1": "5b46adcea864a1ff6f2cbd3440561e7c3912709e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "startelegram-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a63e44f491f0d4487cf1b14a58eff5c3",
+      "md5": "ccf5f1e0420eec2a072b43afa381de75",
       "summation": "md5"
     },
     {
       "name": "startelegram-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660156240",
-      "size": "294912",
-      "md5": "6f18c14cb7c0a1a3086928490229632d",
-      "crc32": "177d27b0",
-      "sha1": "9933e74c54b9b90ce86e043c2b2f3b2a3dcf2388",
+      "mtime": "1660195506",
+      "size": "299008",
+      "md5": "728b09d88d8883275f40212cf351d906",
+      "crc32": "2501a0c9",
+      "sha1": "e80e8ee19f6cc44118c0ff686bb041b70abafcf7",
       "format": "Metadata"
     },
     {
@@ -2432,9 +2484,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 233,
-  "item_last_updated": 1660164896,
-  "item_size": 16555547,
+  "files_count": 238,
+  "item_last_updated": 1660196299,
+  "item_size": 16814408,
   "metadata": {
     "identifier": "startelegram-2022",
     "collection": [
@@ -2452,7 +2504,12 @@
     "addeddate": "2022-07-18 00:05:19"
   },
   "server": "ia601401.us.archive.org",
-  "uniq": 469563547,
+  "startelegram-2022": {
+    "url": "https://www.star-telegram.com/",
+    "job_id": "spn2-2500f176d4a976889b252662e892bd35cf75d6b3",
+    "message": "The capture will start in ~1 minute because our service is currently overloaded. You may close your browser window and the page will still be saved."
+  },
+  "uniq": 309602375,
   "workable_servers": [
     "ia601401.us.archive.org",
     "ia801401.us.archive.org"

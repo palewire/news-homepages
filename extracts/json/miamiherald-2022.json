@@ -1,5 +1,5 @@
 {
-  "created": 1660179236,
+  "created": 1660225302,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/4/items/miamiherald-2022",
@@ -3549,31 +3549,93 @@
       "format": "JSON"
     },
     {
+      "name": "miamiherald-2022-08-10T20:52:58.620120-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "miamiherald-2022-08-10T20:52:58.620120-04:00.jpg",
+      "mtime": "1660179388",
+      "size": "10662",
+      "md5": "fa6f9461dffc764baa3bc25906901eb4",
+      "crc32": "2b60eb73",
+      "sha1": "db78e558a9724d3065508e503a93bbb9f0acc41c"
+    },
+    {
+      "name": "miamiherald-2022-08-11T09:40:34.312833-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660225238",
+      "size": "459",
+      "md5": "94183e2a661ee7fdc884f41a21982e1e",
+      "crc32": "c920bf0b",
+      "sha1": "9fa1e47ea4211690459535ccc0ccce54acad763f",
+      "format": "JSON"
+    },
+    {
+      "name": "miamiherald-2022-08-11T09:40:34.312833-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660225239",
+      "size": "48285",
+      "md5": "c7ace65da7dcc1689c3c100fa0f86335",
+      "crc32": "e24273e0",
+      "sha1": "e0ccfcb6d55eb09ddc97e446d259306b0b3a0075",
+      "format": "JSON"
+    },
+    {
+      "name": "miamiherald-2022-08-11T09:40:34.312833-04:00.jpg",
+      "source": "original",
+      "mtime": "1660225236",
+      "size": "265504",
+      "md5": "719dbaf0b603d1d4bb4e722945609f81",
+      "crc32": "8e29d7cc",
+      "sha1": "a9bc51b141df9cc3d0aed2c9655e834c7ca4c900",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "miamiherald-2022-08-11T09:40:34.312833-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660225241",
+      "size": "1493",
+      "md5": "df9e8f23620ae1f414158d54a2e87e3d",
+      "crc32": "6e5a5505",
+      "sha1": "f1b1f8754866c8020d230e760759726b83e6b24f",
+      "format": "JSON"
+    },
+    {
+      "name": "miamiherald-2022-08-11T09:40:34.312833-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660225243",
+      "size": "104",
+      "md5": "e884c043bde279fc9be885f632b1f38b",
+      "crc32": "de0525e6",
+      "sha1": "c22307084ec2e2286d84287b1b318a65ad92bef8",
+      "format": "JSON"
+    },
+    {
       "name": "miamiherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "306cd251f058d271d03bba30928bb41e483f553d",
-      "mtime": "1660179233",
-      "size": "73491",
-      "md5": "200322fa8634e6c96ceed53cb1dee713",
-      "crc32": "bf558a92",
-      "sha1": "27e960cf8d449ec6df6d13bf591ebf942681a938",
+      "btih": "c23a9f6768d953b11549cdea06303c445f43f8ee",
+      "mtime": "1660225296",
+      "size": "74773",
+      "md5": "11b5d40def35c3d286639d1042e19ec6",
+      "crc32": "4ce80b5a",
+      "sha1": "966b9c3bd773d59fa466d514e68975a70e3cfec9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "miamiherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "96af7016f3c1bafab1ba28c634f9bfaf",
+      "md5": "6806ae9c2f845b00541945e31e4a4c9c",
       "summation": "md5"
     },
     {
       "name": "miamiherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660179195",
-      "size": "425984",
-      "md5": "17973ef82819cbe772e6f9df2a2bbb37",
-      "crc32": "35c0f1ad",
-      "sha1": "c213b84e35a3ba3e442e7bf8499c01d8850113a7",
+      "mtime": "1660225254",
+      "size": "430080",
+      "md5": "9cd4e342363b643626c92f06f82d571c",
+      "crc32": "aa37a9f8",
+      "sha1": "1fd1adfd8bc9152c99d8bf4982c6e64f06ac9f0f",
       "format": "Metadata"
     },
     {
@@ -3587,9 +3649,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 343,
-  "item_last_updated": 1660179233,
-  "item_size": 23935042,
+  "files_count": 349,
+  "item_last_updated": 1660225296,
+  "item_size": 24266927,
   "metadata": {
     "identifier": "miamiherald-2022",
     "collection": [
@@ -3611,15 +3673,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3360658122,
+      "task_id": 3361497048,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 370141314,
+  "uniq": 1485256745,
   "workable_servers": [
     "ia601403.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1660154941,
+  "created": 1660225153,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/28/items/grist-2022",
@@ -3258,31 +3258,93 @@
       "sha1": "b885e6267862ff8e138c5b39715ba87f9c9ec02f"
     },
     {
+      "name": "grist-2022-08-10T20:52:47.905076-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660189971",
+      "size": "44755",
+      "md5": "36681b8d3cfeb15b6893f92ac79550a9",
+      "crc32": "e5ef102e",
+      "sha1": "8d859035697febbf8696596327f755ce62519378",
+      "format": "JSON"
+    },
+    {
+      "name": "grist-2022-08-10T20:52:47.905076-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660189974",
+      "size": "35623",
+      "md5": "17506b6f8dc7803ad8b7fc9006cbaed1",
+      "crc32": "958ecd05",
+      "sha1": "1dfa6d27d49ac5d75179e72a3bbce84bf713e33b",
+      "format": "JSON"
+    },
+    {
+      "name": "grist-2022-08-10T20:52:47.905076-07:00.jpg",
+      "source": "original",
+      "mtime": "1660189969",
+      "size": "249354",
+      "md5": "87ddce536f53218e276895b5379095f9",
+      "crc32": "062434c1",
+      "sha1": "0049b2b5dc051eb5335ec82d17981127bc4bd988",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "grist-2022-08-10T20:52:47.905076-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660189975",
+      "size": "1414",
+      "md5": "ce68deb5db9cbd8ac06e9b6a7250f205",
+      "crc32": "c3445845",
+      "sha1": "1067711d3ed0bdba3ebc405c736ffed46f6f13b7",
+      "format": "JSON"
+    },
+    {
+      "name": "grist-2022-08-10T20:52:47.905076-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660189977",
+      "size": "261",
+      "md5": "e65d2f02f8b90c35c1665c0bfd55a7de",
+      "crc32": "26a2c0bd",
+      "sha1": "49c4df9c25cde02eceee487fda0e070ac791aa6a",
+      "format": "JSON"
+    },
+    {
+      "name": "grist-2022-08-10T20:52:47.905076-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "grist-2022-08-10T20:52:47.905076-07:00.jpg",
+      "mtime": "1660190667",
+      "size": "9057",
+      "md5": "9675d3b6a3ac5737381c0fd12994a61a",
+      "crc32": "1984f676",
+      "sha1": "b885e6267862ff8e138c5b39715ba87f9c9ec02f"
+    },
+    {
       "name": "grist-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6748a18acdae592a62b8da281f232fbbe954cac3",
-      "mtime": "1660154920",
-      "size": "66050",
-      "md5": "0eb38391520db4f7ddd75074ac22905a",
-      "crc32": "9066b5be",
-      "sha1": "15ef0001556166208182b630a22740079b37ade1",
+      "btih": "e7d141d090109e7f832ef4c03cdff4b3c08360e7",
+      "mtime": "1660190676",
+      "size": "67297",
+      "md5": "8b5128d425207a253b5f0cad42b7609d",
+      "crc32": "6b377553",
+      "sha1": "318f3368b10d3fee0bf5eb0fc81ed46d3a10a470",
       "format": "Archive BitTorrent"
     },
     {
       "name": "grist-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "820ff9e93e254d87b9d69c08c834eaac",
+      "md5": "63cb88baad459ee1502f1596a350bdbe",
       "summation": "md5"
     },
     {
       "name": "grist-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660154727",
-      "size": "393216",
-      "md5": "c0326cf23a91f7a2d0aac92e463203f4",
-      "crc32": "85dd18ce",
-      "sha1": "893624914ecd095b39674c85051db4263db90768",
+      "mtime": "1660189980",
+      "size": "401408",
+      "md5": "2a361588db16e82a00309368610b6fa4",
+      "crc32": "89e17426",
+      "sha1": "c44c274b52a5d16f68c4cec356160e57c453a9e7",
       "format": "Metadata"
     },
     {
@@ -3296,9 +3358,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 316,
-  "item_last_updated": 1660154920,
-  "item_size": 21858289,
+  "files_count": 322,
+  "grist-2022": {
+    "url": "https://grist.org/",
+    "job_id": "spn2-6d934b94571539aab7cf0ed28f383158f0ed8a92",
+    "message": "The capture will start in ~31 minutes because our service is currently overloaded. You may close your browser window and the page will still be saved."
+  },
+  "item_last_updated": 1660190676,
+  "item_size": 22208192,
   "metadata": {
     "identifier": "grist-2022",
     "collection": [
@@ -3316,7 +3383,7 @@
     "addeddate": "2022-07-09 03:58:54"
   },
   "server": "ia801502.us.archive.org",
-  "uniq": 1732663939,
+  "uniq": 158455104,
   "workable_servers": [
     "ia801502.us.archive.org",
     "ia601502.us.archive.org"

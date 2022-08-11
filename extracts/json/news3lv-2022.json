@@ -1,5 +1,5 @@
 {
-  "created": 1660179328,
+  "created": 1660225478,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/14/items/news3lv-2022",
@@ -3523,31 +3523,83 @@
       "format": "JSON"
     },
     {
+      "name": "news3lv-2022-08-10T17:54:20.795295-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "news3lv-2022-08-10T17:54:20.795295-07:00.jpg",
+      "mtime": "1660179491",
+      "size": "9807",
+      "md5": "2b1f8ab1c84d515e52d518da9afd3463",
+      "crc32": "bd651248",
+      "sha1": "1ac21ea57dae300c88466e6f4da3cda3d9bf5619"
+    },
+    {
+      "name": "news3lv-2022-08-11T06:43:39.793871-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660225429",
+      "size": "51832",
+      "md5": "5beb4c94d793b59d85a17c0f6c7f1b91",
+      "crc32": "e26305a4",
+      "sha1": "e8c5c8149b7d563c99e1021fdd84e64d386df16a",
+      "format": "JSON"
+    },
+    {
+      "name": "news3lv-2022-08-11T06:43:39.793871-07:00.jpg",
+      "source": "original",
+      "mtime": "1660225427",
+      "size": "275992",
+      "md5": "5319f31b63aca1f91d0a2d5411b94f4d",
+      "crc32": "d297d2a0",
+      "sha1": "29996a96bce79d09136e53d5c0e419ce35ff5473",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "news3lv-2022-08-11T06:43:39.793871-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660225430",
+      "size": "1432",
+      "md5": "8710a3fafbad475baca9e5d32f320eda",
+      "crc32": "75dadf83",
+      "sha1": "b1d126c1cd8ecbc8fa76f7ca181479547373e1a4",
+      "format": "JSON"
+    },
+    {
+      "name": "news3lv-2022-08-11T06:43:39.793871-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660225433",
+      "size": "96",
+      "md5": "8cabdc87b3ee5e69f73e421e0f0690f2",
+      "crc32": "36009155",
+      "sha1": "dcda85248d791c70d76624866b5c1ba0467144d6",
+      "format": "JSON"
+    },
+    {
       "name": "news3lv-2022_archive.torrent",
       "source": "metadata",
-      "btih": "218bbc6e22e5d71e7ea5fdee6b87675db320fac9",
-      "mtime": "1660179323",
-      "size": "72267",
-      "md5": "79b81b3f925dbaf3b064dac709fc7a4f",
-      "crc32": "07693186",
-      "sha1": "73143eedf4d3cd3b4a5d65e260be4e755c2a42a1",
+      "btih": "50123af753b7f3f2a8ff4165580d8747c547f1a4",
+      "mtime": "1660225475",
+      "size": "73295",
+      "md5": "ecd938b5aea68476dc75505e79c63ca0",
+      "crc32": "c6cad8cc",
+      "sha1": "5f08f2bce39f91a9a11fcadb92c56e77c8f47ef9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "news3lv-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4abb419687a7b1a33cd5d81bde900a74",
+      "md5": "52af9c47f776d4b44bb77e8f8f221cd5",
       "summation": "md5"
     },
     {
       "name": "news3lv-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660179284",
-      "size": "421888",
-      "md5": "cfed35c45178c6ccf214b7a2f22d262f",
-      "crc32": "8d4eac51",
-      "sha1": "5bdbc3e6f4648dfbf38a70a3c258a013bceadcc4",
+      "mtime": "1660225436",
+      "size": "425984",
+      "md5": "c9603f7d972e0fbeac52bc9d18f6288a",
+      "crc32": "b6971a82",
+      "sha1": "d42032bf068dab8a0fa846d0c6549af721e332e0",
       "format": "Metadata"
     },
     {
@@ -3561,9 +3613,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 341,
-  "item_last_updated": 1660179323,
-  "item_size": 32067219,
+  "files_count": 346,
+  "item_last_updated": 1660225475,
+  "item_size": 32411502,
   "metadata": {
     "identifier": "news3lv-2022",
     "collection": [
@@ -3585,15 +3637,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3360659505,
+      "task_id": 3361500651,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 337069054,
+  "uniq": 1646740010,
   "workable_servers": [
     "ia601505.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1660156421,
+  "created": 1660225882,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/0/items/teamtrace-2022",
@@ -3226,31 +3226,93 @@
       "sha1": "31fe3e4e1f2039057186904a8770b039dac0db44"
     },
     {
+      "name": "teamtrace-2022-08-11T01:26:53.678128-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660195617",
+      "size": "13580",
+      "md5": "fd6c73d22871b368e05146705e6e831d",
+      "crc32": "2d802950",
+      "sha1": "c330c7c021382cf9d5f1312290cda9949c8b3cdc",
+      "format": "JSON"
+    },
+    {
+      "name": "teamtrace-2022-08-11T01:26:53.678128-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660195618",
+      "size": "13018",
+      "md5": "bc311bb085ce0af158320634b842b372",
+      "crc32": "7b9f1984",
+      "sha1": "44aa6c31f16f99f90898fdeff69f5aee5cff3ca0",
+      "format": "JSON"
+    },
+    {
+      "name": "teamtrace-2022-08-11T01:26:53.678128-04:00.jpg",
+      "source": "original",
+      "mtime": "1660195616",
+      "size": "223597",
+      "md5": "5d51e98863e435f7110dafe19de9701a",
+      "crc32": "c3b64abb",
+      "sha1": "7b3bc63d7978ded8a5eeed6bda77add1c02cfddc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "teamtrace-2022-08-11T01:26:53.678128-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660195620",
+      "size": "1467",
+      "md5": "a05efc3f0fae4726c592e7338cc1330c",
+      "crc32": "4be28304",
+      "sha1": "cb2638a779413e0d55967399ad8d8f5410502831",
+      "format": "JSON"
+    },
+    {
+      "name": "teamtrace-2022-08-11T01:26:53.678128-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660195621",
+      "size": "266",
+      "md5": "d109b7121f86db27d4bec6dfef017ae1",
+      "crc32": "a6a60114",
+      "sha1": "24cf56121c0006ad3803efdf2b49b7bb0dc91f96",
+      "format": "JSON"
+    },
+    {
+      "name": "teamtrace-2022-08-11T01:26:53.678128-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "teamtrace-2022-08-11T01:26:53.678128-04:00.jpg",
+      "mtime": "1660196843",
+      "size": "9212",
+      "md5": "b46f529a3b793563aeaeae647e46548f",
+      "crc32": "be52d256",
+      "sha1": "a34e1cdd55719e03fe5071eadcff8da78747a0f5"
+    },
+    {
       "name": "teamtrace-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c04f74df36bf081b1ff0b44da562b380cd00a791",
-      "mtime": "1660156399",
-      "size": "66536",
-      "md5": "094a1880116cf0daac3896b3ccf71380",
-      "crc32": "e8637297",
-      "sha1": "f6a27c6a32f586acd14786dc60657f886ed84ecb",
+      "btih": "ab987f872fd0d91b8120f393a5e92fabab25c13b",
+      "mtime": "1660196866",
+      "size": "67787",
+      "md5": "d9a59545aaa07cfc0ac1d66d0ea84381",
+      "crc32": "b29521fb",
+      "sha1": "70decafde406300a89dfcbe65b7e07c6315907a4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "teamtrace-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1ed88d9271ba30feb1a5af528dda8424",
+      "md5": "46c871a32fca157da25cd4032bd0f436",
       "summation": "md5"
     },
     {
       "name": "teamtrace-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660156251",
-      "size": "389120",
-      "md5": "b1f1670291a4e13b29436290132c054c",
-      "crc32": "f693c038",
-      "sha1": "ff29f35052f56adbc6fac7627dd8f16c811bb6f5",
+      "mtime": "1660195627",
+      "size": "397312",
+      "md5": "4dacab540a557accb34f0faf70f033b2",
+      "crc32": "0f901bfd",
+      "sha1": "01965c68861ec212b24f882a0bdd68687e13b8ee",
       "format": "Metadata"
     },
     {
@@ -3264,9 +3326,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 313,
-  "item_last_updated": 1660156399,
-  "item_size": 17518907,
+  "files_count": 319,
+  "item_last_updated": 1660196866,
+  "item_size": 17789490,
   "metadata": {
     "identifier": "teamtrace-2022",
     "collection": [
@@ -3284,7 +3346,12 @@
     "addeddate": "2022-07-09 04:03:05"
   },
   "server": "ia801401.us.archive.org",
-  "uniq": 2093224841,
+  "teamtrace-2022": {
+    "url": "https://www.thetrace.org/",
+    "job_id": "spn2-86d8b7912d016a39a68df5dd62d8bdcd40ac4a14",
+    "message": "The capture will start in ~1 minute because our service is currently overloaded. You may close your browser window and the page will still be saved."
+  },
+  "uniq": 579250805,
   "workable_servers": [
     "ia801401.us.archive.org",
     "ia601401.us.archive.org"

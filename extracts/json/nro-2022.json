@@ -1,6 +1,5 @@
 {
-  "conflict": 1660179387,
-  "created": 1660179387,
+  "created": 1660225528,
   "d1": "ia601002.us.archive.org",
   "d2": "ia801002.us.archive.org",
   "dir": "/8/items/nro-2022",
@@ -11055,31 +11054,93 @@
       "sha1": "740b080b86776c0c5cde2d2f71d000cb9fb29587"
     },
     {
+      "name": "nro-2022-08-10T20:55:56.990168-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660179373",
+      "size": "61210",
+      "md5": "3b13498e7b441270bc817d2d9bceae8e",
+      "crc32": "dabebb92",
+      "sha1": "1715d1d167158ca37f3b87d21016616c3dbcd6f5",
+      "format": "JSON"
+    },
+    {
+      "name": "nro-2022-08-10T20:55:56.990168-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660179375",
+      "size": "107515",
+      "md5": "8bd3185013b55ab5bddbf14a0e9007e1",
+      "crc32": "0ef97c76",
+      "sha1": "b8f0600f69948b05908ec6ce4b480c28ce101622",
+      "format": "JSON"
+    },
+    {
+      "name": "nro-2022-08-10T20:55:56.990168-04:00.jpg",
+      "source": "original",
+      "mtime": "1660179372",
+      "size": "294423",
+      "md5": "1e9ab837a90e8479c466a21cb0558e7b",
+      "crc32": "bcaf901e",
+      "sha1": "8e9d45a9c35ad71473fd6af781c7a62d985a3636",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nro-2022-08-10T20:55:56.990168-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660179376",
+      "size": "1528",
+      "md5": "2cdfa637d515980486e081ca07023554",
+      "crc32": "2f291a0e",
+      "sha1": "87bebb9799fcabcaa5530165e398511df49a2710",
+      "format": "JSON"
+    },
+    {
+      "name": "nro-2022-08-10T20:55:56.990168-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660179377",
+      "size": "273",
+      "md5": "13ba69674b5501b3b3e6f6b8d38bb633",
+      "crc32": "0095ba46",
+      "sha1": "3e2c54f22bb3ffecf4fb12ae7123ac06f330b859",
+      "format": "JSON"
+    },
+    {
+      "name": "nro-2022-08-10T20:55:56.990168-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nro-2022-08-10T20:55:56.990168-04:00.jpg",
+      "mtime": "1660179517",
+      "size": "9943",
+      "md5": "485e605623daef559d11bf52270e7417",
+      "crc32": "e63aa86b",
+      "sha1": "e86995d3673e51bdcbcfa6aa986002b2253bf089"
+    },
+    {
       "name": "nro-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f0e9a8d71748b84acca6fb26701d6a159bb20dac",
-      "mtime": "1660160502",
-      "size": "219178",
-      "md5": "92b7340e3fd7a94e881c07bd0a4e6cc7",
-      "crc32": "60f65cfd",
-      "sha1": "dc8001596a0db70065c124fd515c22830e14ca69",
+      "btih": "984f077cc0560a665441d1ba86e1956cdf2cf8b4",
+      "mtime": "1660179555",
+      "size": "220414",
+      "md5": "5d32e5249ea1400df5baf20acce1da8f",
+      "crc32": "33aab24b",
+      "sha1": "bfbe25ca732110ce724cd84bb794e0eea889744d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nro-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "88225c419c200f2a2338023f7e7bb258",
+      "md5": "8af90e9432b85a2d9028a619fc2ba44d",
       "summation": "md5"
     },
     {
       "name": "nro-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660160357",
-      "size": "1224704",
-      "md5": "629b1121ee3bf0fc7b09bd933e04d643",
-      "crc32": "a2e4af7e",
-      "sha1": "d11e21215aa1c9c142c0362e0c6c7b2cc7513f78",
+      "mtime": "1660179395",
+      "size": "1232896",
+      "md5": "1b5d52f7e052aebba3ed271c3db4963b",
+      "crc32": "571b580a",
+      "sha1": "bd81a09840cc61a98a6e7d550132913ceca23bbd",
       "format": "Metadata"
     },
     {
@@ -11093,9 +11154,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1058,
-  "item_last_updated": 1660160502,
-  "item_size": 115017355,
+  "files_count": 1064,
+  "item_last_updated": 1660179555,
+  "item_size": 115501675,
   "metadata": {
     "identifier": "nro-2022",
     "collection": [
@@ -11112,21 +11173,15 @@
     "publicdate": "2022-03-25 18:26:53",
     "addeddate": "2022-03-25 18:26:53"
   },
-  "pending_tasks": true,
+  "nro-2022": {
+    "url": "https://www.nationalreview.com/",
+    "job_id": "spn2-2ab2bcb856f279b02131bc08e8b14426ce3518bb",
+    "message": "The capture will start in ~3 minutes because our service is currently overloaded. You may close your browser window and the page will still be saved."
+  },
   "server": "ia601002.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3360660228,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1975267209,
+  "uniq": 46345773,
   "workable_servers": [
-    "ia601002.us.archive.org"
+    "ia601002.us.archive.org",
+    "ia801002.us.archive.org"
   ]
 }

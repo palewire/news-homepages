@@ -1,5 +1,13 @@
 {
-  "created": 1660178205,
+  "adnkronos-2022": {
+    "url": "https://www.adnkronos.com/",
+    "job_id": "spn2-0aff3fc2e64c63d7350f8d723539052909a9fcce",
+    "status": "error",
+    "status_ext": "error:job-failed",
+    "message": "Job failed",
+    "resources": []
+  },
+  "created": 1660224667,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/4/items/adnkronos-2022",
@@ -78,31 +86,93 @@
       "sha1": "17d9e6ec50cb315441ec3be773cdb870cba7c290"
     },
     {
+      "name": "adnkronos-2022-08-11T13:30:01.197271+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660217404",
+      "size": "95134",
+      "md5": "d8841c5eb0f931110d348496b4591142",
+      "crc32": "e6bd9380",
+      "sha1": "932de9e31220a44ad39173b53afa40afeb7d0118",
+      "format": "JSON"
+    },
+    {
+      "name": "adnkronos-2022-08-11T13:30:01.197271+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660217407",
+      "size": "100544",
+      "md5": "15e354a5f9ea633a6cdb65679b0030e1",
+      "crc32": "5a458b19",
+      "sha1": "245b8f3143e5ac7c8ba5d94b03b5045c0aa4ead3",
+      "format": "JSON"
+    },
+    {
+      "name": "adnkronos-2022-08-11T13:30:01.197271+02:00.jpg",
+      "source": "original",
+      "mtime": "1660217403",
+      "size": "167615",
+      "md5": "a996c5c0bbc0dc3aa22bfdd81d65fee6",
+      "crc32": "c260c8f9",
+      "sha1": "8bbb4d8879350266c30fb4d45bbf6c14f1053012",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "adnkronos-2022-08-11T13:30:01.197271+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660217408",
+      "size": "1486",
+      "md5": "91b20752a6ceca4b26474e721665f123",
+      "crc32": "75757c35",
+      "sha1": "616619eb74351cf6da4e3df76f389a100c527deb",
+      "format": "JSON"
+    },
+    {
+      "name": "adnkronos-2022-08-11T13:30:01.197271+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1660217410",
+      "size": "205",
+      "md5": "f64c9d0b9cbb7bb1e468ce460af0a80f",
+      "crc32": "eed64572",
+      "sha1": "09f3849754a1c55afc95577251f169d423996900",
+      "format": "JSON"
+    },
+    {
+      "name": "adnkronos-2022-08-11T13:30:01.197271+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "adnkronos-2022-08-11T13:30:01.197271+02:00.jpg",
+      "mtime": "1660220677",
+      "size": "7576",
+      "md5": "7434277de74bbd2db4da460a9a6167ca",
+      "crc32": "048291f6",
+      "sha1": "ffc1c5f35fa7986dccff15949c060480c07040fa"
+    },
+    {
       "name": "adnkronos-2022_archive.torrent",
       "source": "metadata",
-      "btih": "faa0ff7a22fd02feabffd9f8bf9d558c5c3be251",
-      "mtime": "1660178198",
-      "size": "2883",
-      "md5": "6c7eebbdd0a29ffe83271df85d9f4a4b",
-      "crc32": "d4b25697",
-      "sha1": "c2ef39e7053e18b516bcfa02fd8c443f46239d2c",
+      "btih": "3b5ad0a86688fcb01256bdcee49d88d2640b298a",
+      "mtime": "1660220682",
+      "size": "4155",
+      "md5": "572210507f8c7c9be6a34bcbb58f93fb",
+      "crc32": "75c728ef",
+      "sha1": "f288313b28dd8201bcdfb549ffbb310d7f46f0ca",
       "format": "Archive BitTorrent"
     },
     {
       "name": "adnkronos-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3dab48be2d54cf8dcf70f385c46ef8bc",
+      "md5": "37d9dedef7f0c8e9de3991918a88ffe6",
       "summation": "md5"
     },
     {
       "name": "adnkronos-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660178133",
-      "size": "28672",
-      "md5": "ca8d962f7206c2232b2d3950459d02f5",
-      "crc32": "f659dbc8",
-      "sha1": "fa1b153c1f25cb2b57423118e0bdb68fc00c89ef",
+      "mtime": "1660217415",
+      "size": "36864",
+      "md5": "55434b85dd6141fe370ad32cbcf64c1b",
+      "crc32": "ba0cfccd",
+      "sha1": "2ec8ef48e236e31e22042e3d9add0a1d512c78e8",
       "format": "Metadata"
     },
     {
@@ -116,9 +186,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 11,
-  "item_last_updated": 1660178198,
-  "item_size": 412142,
+  "files_count": 17,
+  "item_last_updated": 1660220682,
+  "item_size": 794166,
   "metadata": {
     "identifier": "adnkronos-2022",
     "collection": [
@@ -136,7 +206,7 @@
     "addeddate": "2022-08-11 00:35:22"
   },
   "server": "ia902506.us.archive.org",
-  "uniq": 1771954907,
+  "uniq": 1131949861,
   "workable_servers": [
     "ia902506.us.archive.org",
     "ia802506.us.archive.org"

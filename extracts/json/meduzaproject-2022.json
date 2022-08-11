@@ -1,5 +1,5 @@
 {
-  "created": 1660176921,
+  "created": 1660225446,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/7/items/meduzaproject-2022",
@@ -12610,31 +12610,93 @@
       "sha1": "5d8fea076abf31ceb7fcb01b128a3ad91d9439e0"
     },
     {
+      "name": "meduzaproject-2022-08-11T06:58:47.278130+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660190331",
+      "size": "38196",
+      "md5": "fd269294d33f775c8d5aa082afb3d771",
+      "crc32": "77b13514",
+      "sha1": "04b95817dfdddc34c560a5f773b846c25430b011",
+      "format": "JSON"
+    },
+    {
+      "name": "meduzaproject-2022-08-11T06:58:47.278130+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660190333",
+      "size": "27814",
+      "md5": "4c1746da33e0a928e465c62fa954cd61",
+      "crc32": "1d6889f2",
+      "sha1": "4c4e428c9dd4784a34f429d081a7c3ccc42029dc",
+      "format": "JSON"
+    },
+    {
+      "name": "meduzaproject-2022-08-11T06:58:47.278130+03:00.jpg",
+      "source": "original",
+      "mtime": "1660190329",
+      "size": "267702",
+      "md5": "6200ec32565cbe4720c561aabfcf6995",
+      "crc32": "c762ce01",
+      "sha1": "d9b34ff9c26a09bed7e7588f9dacbdb33a0a32fd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "meduzaproject-2022-08-11T06:58:47.278130+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660190335",
+      "size": "1413",
+      "md5": "f5139226547d85400bd0de133331cab7",
+      "crc32": "4c035fd1",
+      "sha1": "282602e421bfd27ba002316d6fc15c9267b26be7",
+      "format": "JSON"
+    },
+    {
+      "name": "meduzaproject-2022-08-11T06:58:47.278130+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1660190337",
+      "size": "261",
+      "md5": "a7560482b86b3698a15786b88647b659",
+      "crc32": "f2daf896",
+      "sha1": "842ba1b113bd1dc0647843d1f89d4f9ed7f7b1c9",
+      "format": "JSON"
+    },
+    {
+      "name": "meduzaproject-2022-08-11T06:58:47.278130+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "meduzaproject-2022-08-11T06:58:47.278130+03:00.jpg",
+      "mtime": "1660191158",
+      "size": "9915",
+      "md5": "7eea746906271ae94f0150fc8abebe06",
+      "crc32": "1d6b71ae",
+      "sha1": "7ad7a1dd80103e297ede59dffd917991d2a3f7ef"
+    },
+    {
       "name": "meduzaproject-2022_archive.torrent",
       "source": "metadata",
-      "btih": "39af295667024baced3da130106ff478a5cb3821",
-      "mtime": "1660155863",
-      "size": "260578",
-      "md5": "afc75b15985087d6005086e4ade525b1",
-      "crc32": "2c5144a6",
-      "sha1": "af0cc26a05a0c526302eb04f2f05a6d14abb4f48",
+      "btih": "b26efa2d4a7cce4c78d01db9a11fff6571cd1863",
+      "mtime": "1660191208",
+      "size": "261873",
+      "md5": "17527e7a589a110a545208e48ec52221",
+      "crc32": "e3983a46",
+      "sha1": "33d1a894402592e3086fde20d27512c85df772e0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "meduzaproject-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "99d81b8071fed715a1edca933d441cbf",
+      "md5": "e630f7f864b0de8915b154d95112712c",
       "summation": "md5"
     },
     {
       "name": "meduzaproject-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660155178",
-      "size": "1400832",
-      "md5": "3465657d55fbf6ad34d5b49604fbb820",
-      "crc32": "12bde625",
-      "sha1": "ee68d69721bf8b27c6a97e8cc01fc9bba7d46772",
+      "mtime": "1660190342",
+      "size": "1409024",
+      "md5": "d98cfd69a418b41d78899dbe4ea02e91",
+      "crc32": "9e9c561c",
+      "sha1": "124c6eaa61d521ededaa602b851ba7e35919c8d0",
       "format": "Metadata"
     },
     {
@@ -12648,9 +12710,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1205,
-  "item_last_updated": 1660155863,
-  "item_size": 111718831,
+  "files_count": 1211,
+  "item_last_updated": 1660191208,
+  "item_size": 112073619,
+  "meduzaproject-2022": {
+    "url": "https://meduza.io/",
+    "job_id": "spn2-5dcb16af7ef4b916936748156ebf94a3bf7f72da",
+    "message": "The capture will start in ~29 minutes because our service is currently overloaded. You may close your browser window and the page will still be saved."
+  },
   "metadata": {
     "identifier": "meduzaproject-2022",
     "collection": [
@@ -12667,10 +12734,10 @@
     "publicdate": "2022-03-23 02:09:21",
     "addeddate": "2022-03-23 02:09:21"
   },
-  "server": "ia802508.us.archive.org",
-  "uniq": 1028521534,
+  "server": "ia902508.us.archive.org",
+  "uniq": 1051412322,
   "workable_servers": [
-    "ia802508.us.archive.org",
-    "ia902508.us.archive.org"
+    "ia902508.us.archive.org",
+    "ia802508.us.archive.org"
   ]
 }

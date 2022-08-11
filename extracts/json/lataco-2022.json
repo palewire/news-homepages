@@ -1,5 +1,5 @@
 {
-  "created": 1660179208,
+  "created": 1660225154,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/35/items/lataco-2022",
@@ -4884,31 +4884,82 @@
       "sha1": "64d3a49ebb2a10f40860ab3fb068b658d50b4be2"
     },
     {
+      "name": "lataco-2022-08-11T06:38:21.965427-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660225105",
+      "size": "18654",
+      "md5": "d0f0e737aaff721c16c5524ee58d8bcb",
+      "crc32": "cdfa45da",
+      "sha1": "3d243edc03aef9d8dce9e076d1cb8f3cbc24e569",
+      "format": "JSON"
+    },
+    {
+      "name": "lataco-2022-08-11T06:38:21.965427-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660225106",
+      "size": "12506",
+      "md5": "c36137feabee66f35d3a869a2d9760d5",
+      "crc32": "1f0cd6c6",
+      "sha1": "a888469c72f7e4f27157f02b0c0e02be93e7ccf3",
+      "format": "JSON"
+    },
+    {
+      "name": "lataco-2022-08-11T06:38:21.965427-07:00.jpg",
+      "source": "original",
+      "mtime": "1660225103",
+      "size": "275126",
+      "md5": "54679908586b6fed09b7576cb96290f7",
+      "crc32": "66758809",
+      "sha1": "143098d69fab6a9bc7f6df1be2049dd38ac9ab81",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lataco-2022-08-11T06:38:21.965427-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660225108",
+      "size": "1459",
+      "md5": "e4f32f47bc445c05cd30443598300e7a",
+      "crc32": "622bf5aa",
+      "sha1": "002db275b27b00682fe8dd13a670089a3d0756d1",
+      "format": "JSON"
+    },
+    {
+      "name": "lataco-2022-08-11T06:38:21.965427-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660225109",
+      "size": "61002",
+      "md5": "9a47553fd31c0eb0356738342ff45ec0",
+      "crc32": "68ea12fb",
+      "sha1": "7bbccf6c5e1892ffb26f935506ae2cc819008cfd",
+      "format": "JSON"
+    },
+    {
       "name": "lataco-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9a38a9cab12533b337d940de6cfe7dff9c88f29d",
-      "mtime": "1660179196",
-      "size": "98873",
-      "md5": "74fd30c5791f391ea270902d4f421936",
-      "crc32": "5f15ede4",
-      "sha1": "22e15328aeefb77b7bd2eddee19d0d8eead0677e",
+      "btih": "12904767fa0b74ff03d578b7e9e3bb643e4bd30f",
+      "mtime": "1660225151",
+      "size": "99926",
+      "md5": "1d41075a22d9796aee0045bc70c5d75b",
+      "crc32": "5fcf28b7",
+      "sha1": "99b50523e80c07a8b84ff6cbd03fd943f3ffa020",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lataco-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "babb8b34f19d699e3005e527faeeb9f0",
+      "md5": "935987f17c398886da82fcbe59e449d6",
       "summation": "md5"
     },
     {
       "name": "lataco-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660179114",
-      "size": "577536",
-      "md5": "c95e8c84c87f420381053089a1bb011b",
-      "crc32": "35f4571f",
-      "sha1": "8939ef6e34c63fa94a73aeb4b1a6dce23d7110f9",
+      "mtime": "1660225113",
+      "size": "585728",
+      "md5": "b7ccf3304d82dded546da56c773e7980",
+      "crc32": "158249cb",
+      "sha1": "48c9956517984a094cd69b9224cf4c56edb86991",
       "format": "Metadata"
     },
     {
@@ -4922,9 +4973,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 472,
-  "item_last_updated": 1660179196,
-  "item_size": 31997445,
+  "files_count": 477,
+  "item_last_updated": 1660225151,
+  "item_size": 32375437,
   "metadata": {
     "identifier": "lataco-2022",
     "collection": [
@@ -4941,10 +4992,21 @@
     "publicdate": "2022-07-09 04:00:32",
     "addeddate": "2022-07-09 04:00:32"
   },
+  "pending_tasks": true,
   "server": "ia902509.us.archive.org",
-  "uniq": 1108626726,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3361494537,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 265916554,
   "workable_servers": [
-    "ia902509.us.archive.org",
-    "ia802509.us.archive.org"
+    "ia902509.us.archive.org"
   ]
 }

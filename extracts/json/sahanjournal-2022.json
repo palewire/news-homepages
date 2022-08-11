@@ -1,6 +1,5 @@
 {
-  "conflict": 1660179557,
-  "created": 1660179557,
+  "created": 1660225739,
   "d1": "ia601002.us.archive.org",
   "d2": "ia801002.us.archive.org",
   "dir": "/3/items/sahanjournal-2022",
@@ -9779,31 +9778,93 @@
       "sha1": "afbeffc6ec672240788011d726fdd81cf1653610"
     },
     {
+      "name": "sahanjournal-2022-08-10T19:58:59.055275-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660179545",
+      "size": "25158",
+      "md5": "dc9e5ad0b74a1c5ee67269c1df33151a",
+      "crc32": "d5fe603b",
+      "sha1": "07ba9be75d350fc31e6e5523e21d4b928ec7d52c",
+      "format": "JSON"
+    },
+    {
+      "name": "sahanjournal-2022-08-10T19:58:59.055275-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660179547",
+      "size": "27736",
+      "md5": "aa7918d9af1f4f0727dd949aabf442fa",
+      "crc32": "9e794f2f",
+      "sha1": "5c68f888d149a1b6f3cac201d2ab8e30268553bf",
+      "format": "JSON"
+    },
+    {
+      "name": "sahanjournal-2022-08-10T19:58:59.055275-05:00.jpg",
+      "source": "original",
+      "mtime": "1660179544",
+      "size": "240491",
+      "md5": "461dc4b94e249caccaa673463e576fe0",
+      "crc32": "19fc6794",
+      "sha1": "8d6c82f32859706089283c902a969d3eadabd5eb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sahanjournal-2022-08-10T19:58:59.055275-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660179549",
+      "size": "1468",
+      "md5": "04950385858928f8e6f4886b815f9f80",
+      "crc32": "5c80f78d",
+      "sha1": "cc8c328d03eed44bfa8e57241ca11c5cba66d5b3",
+      "format": "JSON"
+    },
+    {
+      "name": "sahanjournal-2022-08-10T19:58:59.055275-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660179551",
+      "size": "267",
+      "md5": "b9f9bc1c270c855b2687eb7876694613",
+      "crc32": "442b2f42",
+      "sha1": "f4d11cd09f996cef7fa527c099a854daec76f937",
+      "format": "JSON"
+    },
+    {
+      "name": "sahanjournal-2022-08-10T19:58:59.055275-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sahanjournal-2022-08-10T19:58:59.055275-05:00.jpg",
+      "mtime": "1660179820",
+      "size": "10356",
+      "md5": "25524ef90e1c12d6490054cb06805c5a",
+      "crc32": "be7c49e2",
+      "sha1": "64d26a775609870152a16118a3551ea6df0a28f4"
+    },
+    {
       "name": "sahanjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "05d3b530db4871a3c15a29f7bc5607dc4de14ba5",
-      "mtime": "1660137776",
-      "size": "201914",
-      "md5": "c25966075d72713098031ba90676dc94",
-      "crc32": "dc2adbbd",
-      "sha1": "bfa4fa0121a576b41a93201e38d53ea3c1420825",
+      "btih": "07cca0cbe9b5a34f0d2fe7c08c118682a5d4aa9e",
+      "mtime": "1660179850",
+      "size": "203204",
+      "md5": "a21638f2e5f2d660615b931671c1b511",
+      "crc32": "a3ca2e7d",
+      "sha1": "e125fe0925bd3196de7a33c12840d65401ef12cc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sahanjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2f7dcd7968b92cf9c00ddd04f6d9dc55",
+      "md5": "953da2b1d7460a362f144e11b3f5d7c9",
       "summation": "md5"
     },
     {
       "name": "sahanjournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660137515",
-      "size": "1105920",
-      "md5": "b8c6e082e6853cb0b693d5b8642fa816",
-      "crc32": "62e5af6f",
-      "sha1": "72720a58e3edf9fcfee6abeb822e6ea532c345c7",
+      "mtime": "1660179563",
+      "size": "1114112",
+      "md5": "3b305aa63a3b24714170494aebaa67cb",
+      "crc32": "1566f17f",
+      "sha1": "52dc3dafe255cef0354e1f0f3975b6a8d4b873a8",
       "format": "Metadata"
     },
     {
@@ -9817,9 +9878,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 937,
-  "item_last_updated": 1660137776,
-  "item_size": 80368750,
+  "files_count": 943,
+  "item_last_updated": 1660179850,
+  "item_size": 80683708,
   "metadata": {
     "identifier": "sahanjournal-2022",
     "collection": [
@@ -9836,21 +9897,15 @@
     "publicdate": "2022-04-01 22:42:14",
     "addeddate": "2022-04-01 22:42:14"
   },
-  "pending_tasks": true,
-  "server": "ia601002.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3360662961,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 652162238,
+  "sahanjournal-2022": {
+    "url": "https://sahanjournal.com/",
+    "job_id": "spn2-24b36b54bf934cde9e46ced6af4c7356b013c92e",
+    "message": "The capture will start in ~2 minutes because our service is currently overloaded. You may close your browser window and the page will still be saved."
+  },
+  "server": "ia801002.us.archive.org",
+  "uniq": 121688494,
   "workable_servers": [
+    "ia801002.us.archive.org",
     "ia601002.us.archive.org"
   ]
 }

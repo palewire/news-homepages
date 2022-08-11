@@ -1,5 +1,5 @@
 {
-  "created": 1660179333,
+  "created": 1660225383,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/14/items/ledevoir-2022",
@@ -4728,31 +4728,93 @@
       "sha1": "b2c96b004e2a53aa91dd69f234e5a2f5a8a4f2d3"
     },
     {
+      "name": "ledevoir-2022-08-10T23:57:33.565852-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660190261",
+      "size": "41047",
+      "md5": "1c8eb2bdd537a0372fd08a7b7a2dfd83",
+      "crc32": "2c72f995",
+      "sha1": "a707bd872fc4c57c9152ea506768f73e70b0389d",
+      "format": "JSON"
+    },
+    {
+      "name": "ledevoir-2022-08-10T23:57:33.565852-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660190263",
+      "size": "117777",
+      "md5": "f1245a87c8fb08c12f736acf8191cdd3",
+      "crc32": "e09a43ab",
+      "sha1": "45464ee0e55ef577efcbca317d4b94470ae7e9d8",
+      "format": "JSON"
+    },
+    {
+      "name": "ledevoir-2022-08-10T23:57:33.565852-04:00.jpg",
+      "source": "original",
+      "mtime": "1660190260",
+      "size": "265019",
+      "md5": "3ec32222c426ab005d4dcf44275eaffc",
+      "crc32": "f88d3230",
+      "sha1": "182074ec6d51c8bc6338af348f93f7157a312f31",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ledevoir-2022-08-10T23:57:33.565852-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660190265",
+      "size": "1477",
+      "md5": "596032638e358b8455a86514f46a0aee",
+      "crc32": "bab245c1",
+      "sha1": "3044772be667206b862c9a01f4821b0a72b4ddfd",
+      "format": "JSON"
+    },
+    {
+      "name": "ledevoir-2022-08-10T23:57:33.565852-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660190266",
+      "size": "268",
+      "md5": "61866e19136fe27b6731fd90c9ccbff2",
+      "crc32": "6aa42279",
+      "sha1": "ccbfd897ea6d53e0fd51b74e308fc5ea3fb00191",
+      "format": "JSON"
+    },
+    {
+      "name": "ledevoir-2022-08-10T23:57:33.565852-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ledevoir-2022-08-10T23:57:33.565852-04:00.jpg",
+      "mtime": "1660191019",
+      "size": "9483",
+      "md5": "1935b9403c6eb1489641c8409289a453",
+      "crc32": "c3e14006",
+      "sha1": "382d25e3c3b2694f23ed34b13a36949725936872"
+    },
+    {
       "name": "ledevoir-2022_archive.torrent",
       "source": "metadata",
-      "btih": "852c3a96c9ff13ed748476163f805bc8c5133b0b",
-      "mtime": "1660155089",
-      "size": "97107",
-      "md5": "0edeb74c910ab5096172f6afd34d5134",
-      "crc32": "a7c09d1f",
-      "sha1": "90ce652394c5c348822e2a3c7e6d9e94ae6b05e4",
+      "btih": "d8b8d83f9129aff5411d7339c6f4e799081e964e",
+      "mtime": "1660191062",
+      "size": "98353",
+      "md5": "4f8749d85676d1d4494ba74df612c934",
+      "crc32": "868d3787",
+      "sha1": "502ad6750956c77a19a9ac996ab151b2847ae4eb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ledevoir-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b959593e51ecba7dc20ba9574883dea9",
+      "md5": "1aecc6f621560ada1c1eeb38aa00f2ac",
       "summation": "md5"
     },
     {
       "name": "ledevoir-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660154990",
-      "size": "552960",
-      "md5": "03720778416a08f6955cc76ce9d039a7",
-      "crc32": "61e720c0",
-      "sha1": "1975ef9b862e5490a6498d40a45f83732703b6c6",
+      "mtime": "1660190271",
+      "size": "561152",
+      "md5": "5d759ea9c45cdcf56e4f8b88a37e0df7",
+      "crc32": "c45734b6",
+      "sha1": "ce1a13af47612cb5a3907bac840db6d8232c8b05",
       "format": "Metadata"
     },
     {
@@ -4766,12 +4828,13 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 456,
-  "item_last_updated": 1660155089,
-  "item_size": 47302451,
+  "files_count": 462,
+  "item_last_updated": 1660191062,
+  "item_size": 47746960,
   "ledevoir-2022": {
     "url": "https://www.ledevoir.com/",
-    "job_id": "spn2-2c144e96ad64db6ff5226035b6595650b06d31dd"
+    "job_id": "spn2-2c144e96ad64db6ff5226035b6595650b06d31dd",
+    "message": "The capture will start in ~28 minutes because our service is currently overloaded. You may close your browser window and the page will still be saved."
   },
   "metadata": {
     "identifier": "ledevoir-2022",
@@ -4790,7 +4853,7 @@
     "addeddate": "2022-06-30 22:35:31"
   },
   "server": "ia802504.us.archive.org",
-  "uniq": 1491588639,
+  "uniq": 1149402673,
   "workable_servers": [
     "ia802504.us.archive.org",
     "ia902504.us.archive.org"

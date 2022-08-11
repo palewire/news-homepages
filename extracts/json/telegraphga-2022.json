@@ -1,5 +1,5 @@
 {
-  "created": 1660179687,
+  "created": 1660225911,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/27/items/telegraphga-2022",
@@ -2192,31 +2192,93 @@
       "sha1": "804550501db1ad765053f7ce9268a04b67b9fd32"
     },
     {
+      "name": "telegraphga-2022-08-11T01:26:57.392751-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660195622",
+      "size": "453",
+      "md5": "c7153b662657d4e26b4a20f13e44b6f1",
+      "crc32": "58ed9e44",
+      "sha1": "ceea9acbcba1dcd7a5f7ea35c7e87dd2c6abec86",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphga-2022-08-11T01:26:57.392751-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660195623",
+      "size": "35587",
+      "md5": "46ea904c9ebcfa43cff9d408f292832f",
+      "crc32": "4dbc718c",
+      "sha1": "cd60d7e2b453bb093406b924b3d60332ba6bf153",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphga-2022-08-11T01:26:57.392751-04:00.jpg",
+      "source": "original",
+      "mtime": "1660195620",
+      "size": "279681",
+      "md5": "96dbefd834ae8fe2e16192ff6cadcdd4",
+      "crc32": "2386eba0",
+      "sha1": "8846feb86db26206dfca5ebcc0bf890181d1abf1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphga-2022-08-11T01:26:57.392751-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660195624",
+      "size": "1449",
+      "md5": "0cbb1895e9cd45387c40a585d5d1a7ad",
+      "crc32": "6a9945f9",
+      "sha1": "18b6503ac09ec75e5852e304f0229b6d38b12ede",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphga-2022-08-11T01:26:57.392751-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660195626",
+      "size": "262",
+      "md5": "1802cbf6261f91e9c172c626dbc6d579",
+      "crc32": "6218506d",
+      "sha1": "84048c379ec71abce7b64ce1d510b075da1c3f71",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphga-2022-08-11T01:26:57.392751-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphga-2022-08-11T01:26:57.392751-04:00.jpg",
+      "mtime": "1660196271",
+      "size": "9730",
+      "md5": "9ff591382045679adea68d0363723a3f",
+      "crc32": "3a670546",
+      "sha1": "65478626d17ed6b68bd983829375f6a93b7eccde"
+    },
+    {
       "name": "telegraphga-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c05b6e49afad1dfe93680165bfb8e7e49742ce2d",
-      "mtime": "1660156480",
-      "size": "46110",
-      "md5": "10c6b9bf827d30d6964b4e8389a8be64",
-      "crc32": "e82e87e5",
-      "sha1": "1b7a52eda6db87a08486af8ed4966ce500ae61d9",
+      "btih": "e0c70b4e2adfca291c60b8833218cc235f88778f",
+      "mtime": "1660196286",
+      "size": "47391",
+      "md5": "d7877558f10dae105ea21cae2f9d16ec",
+      "crc32": "e283c9d5",
+      "sha1": "e84fb356408fcab0123b26b7743fef4573b16265",
       "format": "Archive BitTorrent"
     },
     {
       "name": "telegraphga-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9548792157e90676c614b7c76affc3ee",
+      "md5": "1a40fdf3d1cf5f5d678f02c0fb91075a",
       "summation": "md5"
     },
     {
       "name": "telegraphga-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660156251",
-      "size": "278528",
-      "md5": "eac8d1fb5058e79e85ec80cf03718cd9",
-      "crc32": "b8d3266f",
-      "sha1": "d877478d73932c429f3d74f8e63db997a44344b7",
+      "mtime": "1660195629",
+      "size": "282624",
+      "md5": "6530140a85f4b4c10dabdbcda0c72206",
+      "crc32": "a6821cab",
+      "sha1": "891518f36d3ce4a4c264cc6e1c632b8672bc1323",
       "format": "Metadata"
     },
     {
@@ -2230,9 +2292,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 214,
-  "item_last_updated": 1660156480,
-  "item_size": 14453744,
+  "files_count": 220,
+  "item_last_updated": 1660196286,
+  "item_size": 14786283,
   "metadata": {
     "identifier": "telegraphga-2022",
     "collection": [
@@ -2251,11 +2313,11 @@
   },
   "server": "ia902502.us.archive.org",
   "telegraphga-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
+    "url": "https://www.macon.com",
+    "job_id": "spn2-fd2e35bf2c5001baddf547ac186a0e0e1b335a0a",
+    "message": "The capture will start in ~1 minute because our service is currently overloaded. You may close your browser window and the page will still be saved."
   },
-  "uniq": 420630667,
+  "uniq": 1703738383,
   "workable_servers": [
     "ia902502.us.archive.org",
     "ia802502.us.archive.org"

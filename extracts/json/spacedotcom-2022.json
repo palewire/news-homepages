@@ -1,5 +1,6 @@
 {
-  "created": 1660179642,
+  "conflict": 1660225803,
+  "created": 1660225803,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/7/items/spacedotcom-2022",
@@ -1658,31 +1659,93 @@
       "sha1": "d1f5d486a45fe61d7e08ab26df43110a3b8979c2"
     },
     {
+      "name": "spacedotcom-2022-08-10T21:00:57.064792-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660179659",
+      "size": "22016",
+      "md5": "07a29f7bce1dd553b9a382b236d8444f",
+      "crc32": "4cd095fc",
+      "sha1": "0f0a21fa4f47ea7ded402e69d66b17620ff2144e",
+      "format": "JSON"
+    },
+    {
+      "name": "spacedotcom-2022-08-10T21:00:57.064792-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660179661",
+      "size": "19711",
+      "md5": "9c1e4d0bc763318f25869c7a935a06e6",
+      "crc32": "c9e46d42",
+      "sha1": "af5575a3bc68ed9d133c3b92608833ec3898800a",
+      "format": "JSON"
+    },
+    {
+      "name": "spacedotcom-2022-08-10T21:00:57.064792-04:00.jpg",
+      "source": "original",
+      "mtime": "1660179658",
+      "size": "243432",
+      "md5": "bdf886beada8b0bc4971228ef1afeb70",
+      "crc32": "66db2c4d",
+      "sha1": "e8c95d978a69b31550b6c9438ca4eeb27497979f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "spacedotcom-2022-08-10T21:00:57.064792-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660179662",
+      "size": "1447",
+      "md5": "61724e6dafe40b69ceb88ea5d723f8be",
+      "crc32": "f0ec9272",
+      "sha1": "859c0ec95d09879b22df8e5ab4de8258ecf37d3d",
+      "format": "JSON"
+    },
+    {
+      "name": "spacedotcom-2022-08-10T21:00:57.064792-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660179664",
+      "size": "264",
+      "md5": "1d83c65512ed4d36651614a448966fa3",
+      "crc32": "99fe46e3",
+      "sha1": "1845a42a570011a647baa402b406b0efad83fa90",
+      "format": "JSON"
+    },
+    {
+      "name": "spacedotcom-2022-08-10T21:00:57.064792-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "spacedotcom-2022-08-10T21:00:57.064792-04:00.jpg",
+      "mtime": "1660179729",
+      "size": "9963",
+      "md5": "508e2467e66af6fa8b0fd0becc9cb889",
+      "crc32": "cd36acf2",
+      "sha1": "49381285d1a05698d15494fa2377ee5243689b97"
+    },
+    {
       "name": "spacedotcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cf372f8c92da1426fb571509683f1ae96d7c3afc",
-      "mtime": "1660137735",
-      "size": "35291",
-      "md5": "c5a00f2475ee4abeda7c7931e46413e4",
-      "crc32": "10b746b0",
-      "sha1": "26cc109c99e6ed05a837a6b77497ec8c35c66b37",
+      "btih": "8eb7e4fc5692a76366444e22dfd00e1b88fbb97f",
+      "mtime": "1660179737",
+      "size": "36554",
+      "md5": "487c9bcda871f9da3c0049991bb08cfd",
+      "crc32": "35c91b5e",
+      "sha1": "b5f8b06098b65bbc561b709cf11f18ff4dd1d39f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "spacedotcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "06148e0bc54cef9c8b46befcfe21741d",
+      "md5": "3a5d1ede3b50d54f304a96f0b51c1f68",
       "summation": "md5"
     },
     {
       "name": "spacedotcom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660137622",
-      "size": "221184",
-      "md5": "4257ac3939c3f50fc139b4d915aa2de6",
-      "crc32": "0f43d274",
-      "sha1": "7782d1ecca83c501ff08d0015b5193a3ddc8bfe6",
+      "mtime": "1660179668",
+      "size": "225280",
+      "md5": "6249364a16a0b6af67f67486342aa829",
+      "crc32": "af110981",
+      "sha1": "96132a2ed06723e6cef9cad3677eeb7ff96fe4bb",
       "format": "Metadata"
     },
     {
@@ -1696,9 +1759,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 163,
-  "item_last_updated": 1660137735,
-  "item_size": 9500560,
+  "files_count": 169,
+  "item_last_updated": 1660179737,
+  "item_size": 9802752,
   "metadata": {
     "identifier": "spacedotcom-2022",
     "collection": [
@@ -1715,14 +1778,21 @@
     "publicdate": "2022-07-26 12:30:10",
     "addeddate": "2022-07-26 12:30:10"
   },
+  "pending_tasks": true,
   "server": "ia601408.us.archive.org",
-  "spacedotcom-2022": {
-    "url": "https://www.space.com/",
-    "job_id": "spn2-6b23131bbb508ad95ec903727d012f6a9f793006"
-  },
-  "uniq": 824215513,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3361506384,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1068080882,
   "workable_servers": [
-    "ia601408.us.archive.org",
-    "ia801408.us.archive.org"
+    "ia601408.us.archive.org"
   ]
 }

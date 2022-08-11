@@ -1,6 +1,6 @@
 {
-  "conflict": 1660179425,
-  "created": 1660179425,
+  "conflict": 1660225569,
+  "created": 1660225569,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/4/items/ottumwacourier-2022",
@@ -4997,31 +4997,93 @@
       "sha1": "8bfdc745ca9c216a08289e039ec9c48662bbbce5"
     },
     {
+      "name": "ottumwacourier-2022-08-10T19:57:01.151664-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660179424",
+      "size": "50932",
+      "md5": "4cd0745f2fe60bd7128a30efdbd31054",
+      "crc32": "5ab45980",
+      "sha1": "ad089f0fc3d20df0caeb263758cea7802f02da3d",
+      "format": "JSON"
+    },
+    {
+      "name": "ottumwacourier-2022-08-10T19:57:01.151664-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660179426",
+      "size": "73732",
+      "md5": "41f40259f4efe69bf25800adfc83881e",
+      "crc32": "57135377",
+      "sha1": "c632a86c4fcc5fa7a8022c03db8ee7acbed1fb1d",
+      "format": "JSON"
+    },
+    {
+      "name": "ottumwacourier-2022-08-10T19:57:01.151664-05:00.jpg",
+      "source": "original",
+      "mtime": "1660179422",
+      "size": "312624",
+      "md5": "179a7252180bcc78b24c76c11f1295cb",
+      "crc32": "ffcd151c",
+      "sha1": "be1734e363ede22ae7247a374190de4bae326677",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ottumwacourier-2022-08-10T19:57:01.151664-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660179428",
+      "size": "1531",
+      "md5": "b0a12b052d22703dbcf9c250a91023b5",
+      "crc32": "c0b5c66d",
+      "sha1": "e06f859b4ef0c7a58a0a4972419f25ac74e12192",
+      "format": "JSON"
+    },
+    {
+      "name": "ottumwacourier-2022-08-10T19:57:01.151664-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660179429",
+      "size": "273",
+      "md5": "bae6f425667c7cfd88aeaec8d9a930e8",
+      "crc32": "68e4c201",
+      "sha1": "811ba9c828c1c0849a4e8f425bc45abdbd225a86",
+      "format": "JSON"
+    },
+    {
+      "name": "ottumwacourier-2022-08-10T19:57:01.151664-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ottumwacourier-2022-08-10T19:57:01.151664-05:00.jpg",
+      "mtime": "1660179609",
+      "size": "9664",
+      "md5": "fd8c83d03cfe01e5bbf83c6f2011463d",
+      "crc32": "f6a3cca6",
+      "sha1": "e6b803c3dcfe0d6a3fd4781551f4fa312d0bb648"
+    },
+    {
       "name": "ottumwacourier-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3b1de214d47594335ee47d526d072732dfec2bfc",
-      "mtime": "1660157835",
-      "size": "104367",
-      "md5": "72b5f71464666c82c0299221ea8f8833",
-      "crc32": "0169ce5f",
-      "sha1": "223e0865e748938e0ee89985e23ddf0865579acf",
+      "btih": "30e52f3c4cbe4000b5392bfc2279694cc19adad8",
+      "mtime": "1660179615",
+      "size": "105668",
+      "md5": "5fa47dab98e6ea39b1393a35eb8ba73a",
+      "crc32": "9851993c",
+      "sha1": "921f8a7574885e2561f2b1687c27cf9fa5aabed2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ottumwacourier-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4e0f74af10430227dad61cd7aa00eeb8",
+      "md5": "2e4a9f59c1c71a02bb07c0d4336a4560",
       "summation": "md5"
     },
     {
       "name": "ottumwacourier-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660157654",
-      "size": "552960",
-      "md5": "19799d838cf24abaa2b34f79b6cbd072",
-      "crc32": "8b17055b",
-      "sha1": "4d14dd9df6cc48687f5d60044be103cb7ba5a259",
+      "mtime": "1660179435",
+      "size": "565248",
+      "md5": "0988c9991e12856e572357bc962ba4a7",
+      "crc32": "02e172c5",
+      "sha1": "506d21440146a78e988e18da731cab3d19db1f37",
       "format": "Metadata"
     },
     {
@@ -5035,9 +5097,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 478,
-  "item_last_updated": 1660157835,
-  "item_size": 55023094,
+  "files_count": 484,
+  "item_last_updated": 1660179615,
+  "item_size": 55485439,
   "metadata": {
     "identifier": "ottumwacourier-2022",
     "collection": [
@@ -5059,7 +5121,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3360661059,
+      "task_id": 3361502167,
       "cmd": "archive.php",
       "priority": -5,
       "wait_admin": 1,
@@ -5067,7 +5129,7 @@
       "status": "running"
     }
   ],
-  "uniq": 1298876380,
+  "uniq": 31999201,
   "workable_servers": [
     "ia902509.us.archive.org"
   ]

@@ -1,8 +1,13 @@
 {
-  "created": 1660155252,
+  "created": 1660225019,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/6/items/fastcompany-2022",
+  "fastcompany-2022": {
+    "url": "https://www.fastcompany.com/",
+    "job_id": "spn2-47f6b63223683ecefab7bd06fcb4b6f6e57b21f0",
+    "message": "The capture will start in ~30 minutes because our service is currently overloaded. You may close your browser window and the page will still be saved."
+  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -3588,31 +3593,83 @@
       "sha1": "1fcb126bf725edaddb91fa0d49d0e1ae0a99bac9"
     },
     {
+      "name": "fastcompany-2022-08-10T23:51:07.073147-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660189873",
+      "size": "34170",
+      "md5": "fd8cc6607faf8d214028fdf4dff5c678",
+      "crc32": "4cb8225d",
+      "sha1": "f3b521ecf9a3bd64bc2b7dc3b653ba4bb9f70aa0",
+      "format": "JSON"
+    },
+    {
+      "name": "fastcompany-2022-08-10T23:51:07.073147-04:00.jpg",
+      "source": "original",
+      "mtime": "1660189872",
+      "size": "416072",
+      "md5": "e196d85c8681f7df5a1b7f9ed05f65a5",
+      "crc32": "d9be7a0a",
+      "sha1": "5b6679334ce3f39caf300487f43e831900eeacdf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fastcompany-2022-08-10T23:51:07.073147-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660189875",
+      "size": "1504",
+      "md5": "c263e57c4b67a9c907831547cd32b7a2",
+      "crc32": "51ce320f",
+      "sha1": "a67498c01caf2ef14da5b893f13feb95d4ac2bb9",
+      "format": "JSON"
+    },
+    {
+      "name": "fastcompany-2022-08-10T23:51:07.073147-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660189876",
+      "size": "271",
+      "md5": "48984762ab07ef2bd92896019034539a",
+      "crc32": "18da3226",
+      "sha1": "bb8c9b292f9cef9bd386d13b854051195d9691d3",
+      "format": "JSON"
+    },
+    {
+      "name": "fastcompany-2022-08-10T23:51:07.073147-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fastcompany-2022-08-10T23:51:07.073147-04:00.jpg",
+      "mtime": "1660190605",
+      "size": "13663",
+      "md5": "f7c501b2082310f0bbe75ce6814cd5f0",
+      "crc32": "d64ed022",
+      "sha1": "e087fed36664da0144f22ec1f44b2e4a7abddff9"
+    },
+    {
       "name": "fastcompany-2022_archive.torrent",
       "source": "metadata",
-      "btih": "151179604c0e7dc525869bfe0a15f68a31c2aea8",
-      "mtime": "1660155170",
-      "size": "74982",
-      "md5": "da2c5a5b9130a0ab4441aa5c56451712",
-      "crc32": "5003723b",
-      "sha1": "a43d9b09d0bb9c1d5106fe484234589393920055",
+      "btih": "7ccb5455391e48c5f79d075fb956263ea4d7ce9e",
+      "mtime": "1660190614",
+      "size": "76052",
+      "md5": "2ffaf46c7f71de7f455627e81716353f",
+      "crc32": "e8af6d9f",
+      "sha1": "c062296b4d8a038598b840aaad3728896c60205b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fastcompany-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fe6a731468bc3a14fd830a0bc6c0f5a3",
+      "md5": "e36f87b2a60b963fdd14c4d2f772005e",
       "summation": "md5"
     },
     {
       "name": "fastcompany-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660154707",
-      "size": "430080",
-      "md5": "1fca95ad6a22bddef6e50d4d78306c9c",
-      "crc32": "56781f86",
-      "sha1": "047b0a829bdadcfbc5e461ffdecc333b0ea1dee5",
+      "mtime": "1660189880",
+      "size": "434176",
+      "md5": "1828f730d8561ad1a883b2a1c7f67787",
+      "crc32": "8250938c",
+      "sha1": "129ca33946b15c7fb025c604e9d87d3d71a1c921",
       "format": "Metadata"
     },
     {
@@ -3626,9 +3683,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 347,
-  "item_last_updated": 1660155170,
-  "item_size": 35606552,
+  "files_count": 352,
+  "item_last_updated": 1660190614,
+  "item_size": 36077398,
   "metadata": {
     "identifier": "fastcompany-2022",
     "collection": [
@@ -3645,10 +3702,10 @@
     "publicdate": "2022-07-04 20:48:13",
     "addeddate": "2022-07-04 20:48:13"
   },
-  "server": "ia801505.us.archive.org",
-  "uniq": 1411662748,
+  "server": "ia601505.us.archive.org",
+  "uniq": 128177267,
   "workable_servers": [
-    "ia801505.us.archive.org",
-    "ia601505.us.archive.org"
+    "ia601505.us.archive.org",
+    "ia801505.us.archive.org"
   ]
 }

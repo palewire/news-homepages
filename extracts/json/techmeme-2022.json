@@ -1,5 +1,5 @@
 {
-  "created": 1660179678,
+  "created": 1660225901,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/7/items/techmeme-2022",
@@ -6596,31 +6596,93 @@
       "sha1": "abe138030f2b2019fa7abbef555ae7accec7dc3e"
     },
     {
+      "name": "techmeme-2022-08-10T22:26:21.052869-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660195584",
+      "size": "117661",
+      "md5": "a0d1a02c1f0a146593262f919256be7c",
+      "crc32": "7cf6e37a",
+      "sha1": "2f6603513f360684df604a48b880aa28cedf8489",
+      "format": "JSON"
+    },
+    {
+      "name": "techmeme-2022-08-10T22:26:21.052869-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660195586",
+      "size": "232177",
+      "md5": "cb3c3764a36c589890342eed1109aca3",
+      "crc32": "5f4a217b",
+      "sha1": "a80233fdda7f384ec6598d1c23c3a09830dfef55",
+      "format": "JSON"
+    },
+    {
+      "name": "techmeme-2022-08-10T22:26:21.052869-07:00.jpg",
+      "source": "original",
+      "mtime": "1660195582",
+      "size": "473707",
+      "md5": "293bb06cd938214d0f581a1d5f9f3ff5",
+      "crc32": "4819b783",
+      "sha1": "8204585b18a3b414bacf2769d0e01051faec9384",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "techmeme-2022-08-10T22:26:21.052869-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660195587",
+      "size": "1486",
+      "md5": "e69dd941258180a745f99892b2200456",
+      "crc32": "cad7b27c",
+      "sha1": "6c7e88c023bcb09964340663581151e83526bbd6",
+      "format": "JSON"
+    },
+    {
+      "name": "techmeme-2022-08-10T22:26:21.052869-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660195589",
+      "size": "266",
+      "md5": "e7e3b8d88e3c5189f276843b113f1c50",
+      "crc32": "6a910cde",
+      "sha1": "bc0abd0aeea81f040abf4e3589636a96b6620149",
+      "format": "JSON"
+    },
+    {
+      "name": "techmeme-2022-08-10T22:26:21.052869-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "techmeme-2022-08-10T22:26:21.052869-07:00.jpg",
+      "mtime": "1660196249",
+      "size": "9380",
+      "md5": "4e69e2e00d6cb44bbf006f35ab9ea483",
+      "crc32": "04e5a7fd",
+      "sha1": "fff1d8df2dd2982cba13b07780100b9af411065d"
+    },
+    {
       "name": "techmeme-2022_archive.torrent",
       "source": "metadata",
-      "btih": "501118ad202f60b817fc3321f87dc75b968ff528",
-      "mtime": "1660156429",
-      "size": "136812",
-      "md5": "caa80a920fa27657979534ce20bab93a",
-      "crc32": "c1b68418",
-      "sha1": "32f7066193e2b8e19039507773368eaad20f07ab",
+      "btih": "95f6a8bc1efa926961b1accc84f1a703da44839a",
+      "mtime": "1660196263",
+      "size": "138079",
+      "md5": "6d249fe62fe64c091ea83963f3a74a90",
+      "crc32": "17e97d44",
+      "sha1": "c83413a8592000eea7b52057683c85bf40c10478",
       "format": "Archive BitTorrent"
     },
     {
       "name": "techmeme-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3587fa63147a8304b799e1d9a6ca7a01",
+      "md5": "c20264fbb3c03c5a5d51222bd3b6c7b2",
       "summation": "md5"
     },
     {
       "name": "techmeme-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660156259",
-      "size": "757760",
-      "md5": "8c57152c636b260fb310fb4018d672b4",
-      "crc32": "d98450a7",
-      "sha1": "e2d8a4516b542cfbe27d399906b2ab35d2ad7f59",
+      "mtime": "1660195594",
+      "size": "761856",
+      "md5": "96c1079c0ed85fc83ace0b649e7ccc6a",
+      "crc32": "f513d464",
+      "sha1": "ceb2bcffa2be9f1979a09936c0295be84f67af13",
       "format": "Metadata"
     },
     {
@@ -6634,9 +6696,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 634,
-  "item_last_updated": 1660156429,
-  "item_size": 117599073,
+  "files_count": 640,
+  "item_last_updated": 1660196263,
+  "item_size": 118439113,
   "metadata": {
     "identifier": "techmeme-2022",
     "collection": [
@@ -6655,11 +6717,11 @@
   },
   "server": "ia801407.us.archive.org",
   "techmeme-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
+    "url": "https://www.techmeme.com/",
+    "job_id": "spn2-51361eba725b285e516557b35ecb77f89d39cbfe",
+    "message": "The capture will start in ~1 minute because our service is currently overloaded. You may close your browser window and the page will still be saved."
   },
-  "uniq": 1778929940,
+  "uniq": 418510160,
   "workable_servers": [
     "ia801407.us.archive.org",
     "ia601407.us.archive.org"

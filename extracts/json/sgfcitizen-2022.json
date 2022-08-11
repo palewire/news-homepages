@@ -1,5 +1,5 @@
 {
-  "created": 1660179634,
+  "created": 1660225794,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/12/items/sgfcitizen-2022",
@@ -3258,31 +3258,93 @@
       "sha1": "e340d888f6273cd33e72057e5981c1f780e27ebf"
     },
     {
+      "name": "sgfcitizen-2022-08-11T00:25:44.120317-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660195547",
+      "size": "33194",
+      "md5": "c07d956486ac734f009f3c64867cdcef",
+      "crc32": "a01f05c6",
+      "sha1": "9ee5209c6e0b4093fa8e9498caa55a23f728e88c",
+      "format": "JSON"
+    },
+    {
+      "name": "sgfcitizen-2022-08-11T00:25:44.120317-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660195549",
+      "size": "36564",
+      "md5": "9b703013ec08acff63a00c3e0d65dfb7",
+      "crc32": "761597ca",
+      "sha1": "7ab719c9f4dcb709378ecc5943a41a2b37cb01c2",
+      "format": "JSON"
+    },
+    {
+      "name": "sgfcitizen-2022-08-11T00:25:44.120317-05:00.jpg",
+      "source": "original",
+      "mtime": "1660195546",
+      "size": "294820",
+      "md5": "6c3960405a9353fbc966c3600a7530d1",
+      "crc32": "685f3a5a",
+      "sha1": "f77985f246cf1e0db6d3f6039bbc5135a35f6424",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sgfcitizen-2022-08-11T00:25:44.120317-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660195550",
+      "size": "1459",
+      "md5": "a583c17053228039531e02b7453f5d0c",
+      "crc32": "8fd3b9c6",
+      "sha1": "7a40f80de201c646a9f1bd62f403ccb08acbdd03",
+      "format": "JSON"
+    },
+    {
+      "name": "sgfcitizen-2022-08-11T00:25:44.120317-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660195551",
+      "size": "264",
+      "md5": "44175fc675cf0e5ded6e160a834bc999",
+      "crc32": "e6cd2a09",
+      "sha1": "27854b93e5444caf5771cae261a44fe10b8540cf",
+      "format": "JSON"
+    },
+    {
+      "name": "sgfcitizen-2022-08-11T00:25:44.120317-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sgfcitizen-2022-08-11T00:25:44.120317-05:00.jpg",
+      "mtime": "1660196288",
+      "size": "9506",
+      "md5": "f1f06e5c4722eaeb4af835395870224e",
+      "crc32": "b6b9c8a8",
+      "sha1": "c16032d729359b3f46cc6942a3e8ca02df6bdd6c"
+    },
+    {
       "name": "sgfcitizen-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c1817f3f748d6c33810beec3b83bd6b6149538d5",
-      "mtime": "1660157082",
-      "size": "67754",
-      "md5": "df8b7563d6cc19b3354409000a3dd748",
-      "crc32": "0e528063",
-      "sha1": "d9aaa51526f1005769ea13d05252fc0110b0fbd0",
+      "btih": "785585276ade915048e44e802773a1bf717f851b",
+      "mtime": "1660196308",
+      "size": "69031",
+      "md5": "906bcbb9071f7c800e1a5307bd9455fc",
+      "crc32": "edc0168b",
+      "sha1": "44048843c3e16b0c6d125ac982f41122df2643f0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sgfcitizen-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e20891207b64739233bd4ef5748909f4",
+      "md5": "8723e35726fd11f22f172f72b23f718b",
       "summation": "md5"
     },
     {
       "name": "sgfcitizen-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660156190",
-      "size": "393216",
-      "md5": "e755c674b67dd9ecd58ca46c34125732",
-      "crc32": "3bbbf62c",
-      "sha1": "275559368a4d39e8a32ab93479510054bc91f224",
+      "mtime": "1660195579",
+      "size": "405504",
+      "md5": "3d3376bf9d424ac72a633e3f6104e31b",
+      "crc32": "ddd2c999",
+      "sha1": "16eda3d0451b35609863e02eb1120a446d1a00a7",
       "format": "Metadata"
     },
     {
@@ -3296,9 +3358,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 316,
-  "item_last_updated": 1660157082,
-  "item_size": 24454347,
+  "files_count": 322,
+  "item_last_updated": 1660196308,
+  "item_size": 24843719,
   "metadata": {
     "identifier": "sgfcitizen-2022",
     "collection": [
@@ -3318,9 +3380,10 @@
   "server": "ia801401.us.archive.org",
   "sgfcitizen-2022": {
     "url": "https://sgfcitizen.org/",
-    "job_id": "spn2-3eaf6d38ee674dd632601ee631105e51971f2f59"
+    "job_id": "spn2-3eaf6d38ee674dd632601ee631105e51971f2f59",
+    "message": "The capture will start in ~1 minute because our service is currently overloaded. You may close your browser window and the page will still be saved."
   },
-  "uniq": 504962321,
+  "uniq": 1218558950,
   "workable_servers": [
     "ia801401.us.archive.org",
     "ia601401.us.archive.org"

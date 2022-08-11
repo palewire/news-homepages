@@ -1,5 +1,5 @@
 {
-  "created": 1660166709,
+  "created": 1660225841,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/0/items/sternde-2022",
@@ -1790,31 +1790,93 @@
       "sha1": "1163aa658fc184f8bf35aab3ca9bb47e107e9bcb"
     },
     {
+      "name": "sternde-2022-08-11T07:26:37.076357+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660195599",
+      "size": "103125",
+      "md5": "1eb354cff790fa76288eba8ef60bae15",
+      "crc32": "15fa43f0",
+      "sha1": "c0b549825bdb150db9c39fc0f19394b9ea8c0785",
+      "format": "JSON"
+    },
+    {
+      "name": "sternde-2022-08-11T07:26:37.076357+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660195601",
+      "size": "96770",
+      "md5": "a18d043d15dcd244b3063532e8823bd7",
+      "crc32": "1cb46f50",
+      "sha1": "d7c4da553b54262fb258b7ef11ee09c64b18e859",
+      "format": "JSON"
+    },
+    {
+      "name": "sternde-2022-08-11T07:26:37.076357+02:00.jpg",
+      "source": "original",
+      "mtime": "1660195598",
+      "size": "221645",
+      "md5": "625065cd4c36761726827a8b78225fa4",
+      "crc32": "b98e6d20",
+      "sha1": "ae996b44e9c03cae0e79a0f60242bbfd8ff48b54",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sternde-2022-08-11T07:26:37.076357+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660195603",
+      "size": "1432",
+      "md5": "e22c4437f8567a0d7199252dbb4cf2d1",
+      "crc32": "63d70609",
+      "sha1": "8a9784013eca3889934c00fa6ab6ca17400f974c",
+      "format": "JSON"
+    },
+    {
+      "name": "sternde-2022-08-11T07:26:37.076357+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1660195604",
+      "size": "262",
+      "md5": "10b386964374a06067610140c4f6d17e",
+      "crc32": "59acbe41",
+      "sha1": "7fe04eae0bbfc9583f4bcb3b238b7e55f5022473",
+      "format": "JSON"
+    },
+    {
+      "name": "sternde-2022-08-11T07:26:37.076357+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sternde-2022-08-11T07:26:37.076357+02:00.jpg",
+      "mtime": "1660196345",
+      "size": "9216",
+      "md5": "8f009184bc01ba15f06ab2057cc569aa",
+      "crc32": "ba998b47",
+      "sha1": "504ffa9766dbb542087faa514396e0d6edefb5e5"
+    },
+    {
       "name": "sternde-2022_archive.torrent",
       "source": "metadata",
-      "btih": "42ffce995bf62231533eeac88a94b5da90ff03b2",
-      "mtime": "1660156447",
-      "size": "37527",
-      "md5": "9706d5d66a30eab07be2b5768c189ae1",
-      "crc32": "78cf8394",
-      "sha1": "0bc15cc9ef1464e21159d99004dc698c900b5468",
+      "btih": "9f54207cf70049ed06d7a6841f53f339ad5da6f5",
+      "mtime": "1660196352",
+      "size": "38787",
+      "md5": "ceffed5a73bba94edf535fb805a8b451",
+      "crc32": "47388336",
+      "sha1": "43751167fe88d40ec209d7096a1e7c1860f9fb0e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sternde-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8d8951a3e070e2c74858eb18c922ad47",
+      "md5": "7963d59faea4a18ac5ee370c4c9c567b",
       "summation": "md5"
     },
     {
       "name": "sternde-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660156252",
-      "size": "237568",
-      "md5": "8bcfc86949c163590b05d087102fd7be",
-      "crc32": "f226a8e8",
-      "sha1": "6617508e0a3dbf786e177bd7bc12e5d332de6be0",
+      "mtime": "1660195609",
+      "size": "241664",
+      "md5": "e0dbcb929b14fd062a5557d057ebac42",
+      "crc32": "71491b72",
+      "sha1": "21da620b251e9d2f5e4826cc666a3a6d3b9f3c05",
       "format": "Metadata"
     },
     {
@@ -1828,9 +1890,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 176,
-  "item_last_updated": 1660156447,
-  "item_size": 14068295,
+  "files_count": 182,
+  "item_last_updated": 1660196352,
+  "item_size": 14506101,
   "metadata": {
     "identifier": "sternde-2022",
     "collection": [
@@ -1848,7 +1910,12 @@
     "addeddate": "2022-07-26 03:57:37"
   },
   "server": "ia802507.us.archive.org",
-  "uniq": 23880569,
+  "sternde-2022": {
+    "url": "https://www.stern.de/",
+    "job_id": "spn2-35d3f7db9238abc2a04cb5224abc00787487b6d9",
+    "message": "The capture will start in ~1 minute because our service is currently overloaded. You may close your browser window and the page will still be saved."
+  },
+  "uniq": 1855510212,
   "workable_servers": [
     "ia802507.us.archive.org",
     "ia902507.us.archive.org"

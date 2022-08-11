@@ -1,5 +1,5 @@
 {
-  "created": 1660156436,
+  "created": 1660226195,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/28/items/verge-2022",
@@ -5714,31 +5714,93 @@
       "sha1": "9c9f80e186110ae591650d288c66f1e9bb261f4c"
     },
     {
+      "name": "verge-2022-08-11T01:30:08.316277-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660195813",
+      "size": "36822",
+      "md5": "61a56a547a5b2a0174b24e0c96649ef0",
+      "crc32": "983104c6",
+      "sha1": "f94f456ece403b23c515278e5cb94f8237c98461",
+      "format": "JSON"
+    },
+    {
+      "name": "verge-2022-08-11T01:30:08.316277-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660195815",
+      "size": "58288",
+      "md5": "6401b58c93298a5cc8b5eca2af05bd6c",
+      "crc32": "a3311e37",
+      "sha1": "87970cde203da989e28c1a16ea752221ea66bc93",
+      "format": "JSON"
+    },
+    {
+      "name": "verge-2022-08-11T01:30:08.316277-04:00.jpg",
+      "source": "original",
+      "mtime": "1660195812",
+      "size": "314335",
+      "md5": "38615001c243195504ae799dac8e2e31",
+      "crc32": "18e0a657",
+      "sha1": "597309fd584d9f48bf962c2245201cde630076c6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "verge-2022-08-11T01:30:08.316277-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660195817",
+      "size": "1477",
+      "md5": "39e0090b6d6a7c3f4d315d891fcd78d1",
+      "crc32": "1df9c04a",
+      "sha1": "b2a0c4aacc4e1e529c5b04465c3b4b90b6b9d22c",
+      "format": "JSON"
+    },
+    {
+      "name": "verge-2022-08-11T01:30:08.316277-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660195818",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "verge-2022-08-11T01:30:08.316277-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "verge-2022-08-11T01:30:08.316277-04:00.jpg",
+      "mtime": "1660196401",
+      "size": "12700",
+      "md5": "92e1b914479d4060dfdee801862f265f",
+      "crc32": "3e05886c",
+      "sha1": "7577926dab8c60dc584d270df09b4b951375bf94"
+    },
+    {
       "name": "verge-2022_archive.torrent",
       "source": "metadata",
-      "btih": "75068ec8abae0d5b62a53c0a4cf8f5511a479daa",
-      "mtime": "1660156415",
-      "size": "115362",
-      "md5": "bb5ed46b09a7818d644dc597cd87a605",
-      "crc32": "ec562d28",
-      "sha1": "7ddac8dd3199f4c7d51a6425841c645c96715799",
+      "btih": "6d4e64cd133f58a78ec8146bd8e39d83478222e5",
+      "mtime": "1660196409",
+      "size": "116610",
+      "md5": "3d9164e0f4b0328b3213b7a3a889e031",
+      "crc32": "9a41c314",
+      "sha1": "c28028b43b9672970327e1337906140d7bc0a422",
       "format": "Archive BitTorrent"
     },
     {
       "name": "verge-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "888b152e345febdd4b38316809cee6da",
+      "md5": "062a4be036bda55e033272439b9a0c83",
       "summation": "md5"
     },
     {
       "name": "verge-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660156327",
-      "size": "659456",
-      "md5": "be3d6d454bdce2c134e7a39de3c630fc",
-      "crc32": "787a8e69",
-      "sha1": "614321028fc01b51ded330bcf75ae41508531a7a",
+      "mtime": "1660195827",
+      "size": "663552",
+      "md5": "080addc322c8a550730a6038951f12fc",
+      "crc32": "2dc83683",
+      "sha1": "3f9dd643eb4f8d86e86c54b261d5b732b7e83973",
       "format": "Metadata"
     },
     {
@@ -5752,9 +5814,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 550,
-  "item_last_updated": 1660156415,
-  "item_size": 58139858,
+  "files_count": 556,
+  "item_last_updated": 1660196409,
+  "item_size": 58569026,
   "metadata": {
     "identifier": "verge-2022",
     "collection": [
@@ -5772,7 +5834,12 @@
     "addeddate": "2022-06-24 23:03:27"
   },
   "server": "ia801400.us.archive.org",
-  "uniq": 1597628638,
+  "uniq": 1252096868,
+  "verge-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "workable_servers": [
     "ia801400.us.archive.org",
     "ia601400.us.archive.org"

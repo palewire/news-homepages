@@ -1,5 +1,5 @@
 {
-  "created": 1660157239,
+  "created": 1660225720,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/29/items/ringer-2022",
@@ -5936,31 +5936,93 @@
       "sha1": "adeaa11b6597361d7181a3d3b055731686057e27"
     },
     {
+      "name": "ringer-2022-08-10T22:22:45.359457-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660195369",
+      "size": "47291",
+      "md5": "1957a350fb9f94d022b776740bfbd238",
+      "crc32": "49d78167",
+      "sha1": "5e8cbb397ccb64fc2f1ee56722cc5da9e0bbec74",
+      "format": "JSON"
+    },
+    {
+      "name": "ringer-2022-08-10T22:22:45.359457-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660195370",
+      "size": "59239",
+      "md5": "8312c50236a9e241b96295360501c775",
+      "crc32": "6e668126",
+      "sha1": "6fe49db48f60de8b68ae36a241a19e1b151ba195",
+      "format": "JSON"
+    },
+    {
+      "name": "ringer-2022-08-10T22:22:45.359457-07:00.jpg",
+      "source": "original",
+      "mtime": "1660195367",
+      "size": "320215",
+      "md5": "1c13ab03c89871ba3c48ee4456bd0d92",
+      "crc32": "5c805b7d",
+      "sha1": "7539e5409cea6b2b78587139b2377d2b5aa4244d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ringer-2022-08-10T22:22:45.359457-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660195372",
+      "size": "1486",
+      "md5": "39359bdd39d381c19b639607505f1dd4",
+      "crc32": "0e9bf54b",
+      "sha1": "0e713026d7a49444e06228307af034ed0d4cae4a",
+      "format": "JSON"
+    },
+    {
+      "name": "ringer-2022-08-10T22:22:45.359457-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660195374",
+      "size": "102",
+      "md5": "226a4dc61633212f07d308f050798fc9",
+      "crc32": "78e500e1",
+      "sha1": "e00eb31d060f54c8ece802d6a7322b7d5313a2e4",
+      "format": "JSON"
+    },
+    {
+      "name": "ringer-2022-08-10T22:22:45.359457-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ringer-2022-08-10T22:22:45.359457-07:00.jpg",
+      "mtime": "1660196036",
+      "size": "10797",
+      "md5": "02fceca5665c761c8f52551fd3f0d312",
+      "crc32": "b0db2ea1",
+      "sha1": "14598a1dbb382bff82401708927552355ee5503d"
+    },
+    {
       "name": "ringer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7b4919570b98d28192c656c46697e21b3858f272",
-      "mtime": "1660157131",
-      "size": "120229",
-      "md5": "093add42e7d1dc8ccc59f790f46a8adc",
-      "crc32": "4c2f2ebf",
-      "sha1": "00f1b5911700bef4b58530b142aba2b124eace2a",
+      "btih": "b535a6210e2afd1d3bdde9d326093d8ef71021e6",
+      "mtime": "1660196052",
+      "size": "121483",
+      "md5": "96134ee6f511cba46f8087cd56ec5560",
+      "crc32": "738192ec",
+      "sha1": "e78885ec6bca224076302c374497e3fbc2ad5f2f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ringer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ce710964940da9225a054af7b8588d0f",
+      "md5": "b76bf63aee9a11dcfd6379bd2fe936a3",
       "summation": "md5"
     },
     {
       "name": "ringer-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660156165",
-      "size": "684032",
-      "md5": "5ef8a43e81841e7c8749dcd13810a8d7",
-      "crc32": "3c08dfb7",
-      "sha1": "9c97729f71ded0452c9e2637591f7694f7c112fc",
+      "mtime": "1660195378",
+      "size": "688128",
+      "md5": "283f3d0f2ce9b41b721a12b82c5cd2be",
+      "crc32": "79f31d6a",
+      "sha1": "87d4a367a70bdf7e0c869a2ed34beffa0ed8c74f",
       "format": "Metadata"
     },
     {
@@ -5974,9 +6036,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 571,
-  "item_last_updated": 1660157131,
-  "item_size": 58731603,
+  "files_count": 577,
+  "item_last_updated": 1660196052,
+  "item_size": 59176083,
   "metadata": {
     "identifier": "ringer-2022",
     "collection": [
@@ -5993,8 +6055,12 @@
     "publicdate": "2022-06-19 23:27:48",
     "addeddate": "2022-06-19 23:27:48"
   },
+  "ringer-2022": {
+    "url": "https://www.theringer.com/",
+    "job_id": "spn2-2e370c630e1b2f06bae8aedd003fb5742d66b1c6"
+  },
   "server": "ia802504.us.archive.org",
-  "uniq": 2081979944,
+  "uniq": 1515429333,
   "workable_servers": [
     "ia802504.us.archive.org",
     "ia902504.us.archive.org"

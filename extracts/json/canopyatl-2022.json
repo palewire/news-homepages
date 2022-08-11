@@ -1,9 +1,5 @@
 {
-  "canopyatl-2022": {
-    "url": "http://canopyatlanta.org/",
-    "job_id": "spn2-8ec46b9c1e73ea1d7016de5237c9cf12f6160563"
-  },
-  "created": 1660178915,
+  "created": 1660220254,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/12/items/canopyatl-2022",
@@ -3418,31 +3414,83 @@
       "sha1": "f660f83821ad4ab7ef481a51b03789c4e95e5dbc"
     },
     {
+      "name": "canopyatl-2022-08-10T22:23:35.754152-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660184619",
+      "size": "6155",
+      "md5": "54f23ddfccfc45310e1c900d30b8ba4c",
+      "crc32": "f5eb4203",
+      "sha1": "67d829d1e9912684d8d8627deff70ebd1ab4dcbc",
+      "format": "JSON"
+    },
+    {
+      "name": "canopyatl-2022-08-10T22:23:35.754152-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660184621",
+      "size": "9913",
+      "md5": "573d797d61efad602f0bfffad67677ee",
+      "crc32": "6833b24d",
+      "sha1": "6660286fdd9cc2997e6cc593efa791fe485ce77a",
+      "format": "JSON"
+    },
+    {
+      "name": "canopyatl-2022-08-10T22:23:35.754152-04:00.jpg",
+      "source": "original",
+      "mtime": "1660184617",
+      "size": "217274",
+      "md5": "0592d39c2f5cdee503962a9138a916e3",
+      "crc32": "7533fa58",
+      "sha1": "279b500b718db2c455219b4820fdf4fceaa8d038",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "canopyatl-2022-08-10T22:23:35.754152-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660184624",
+      "size": "1483",
+      "md5": "02b15f720e61cbc39d308c688a03b883",
+      "crc32": "81b21aed",
+      "sha1": "a0f39e8b78c66a9aca06da41da8b6c74e3a930cb",
+      "format": "JSON"
+    },
+    {
+      "name": "canopyatl-2022-08-10T22:23:35.754152-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "canopyatl-2022-08-10T22:23:35.754152-04:00.jpg",
+      "mtime": "1660184791",
+      "size": "9391",
+      "md5": "7b1e2b75281dd89e8ee4efa5504dbfdf",
+      "crc32": "a869a951",
+      "sha1": "2708a48188dfc33eb9e0eab6d9378e4e855dad1d"
+    },
+    {
       "name": "canopyatl-2022_archive.torrent",
       "source": "metadata",
-      "btih": "518f12ab4c8f99cef82eba7e8e631bdb007e1231",
-      "mtime": "1660153564",
-      "size": "70134",
-      "md5": "30c9ce85fbe9c5ab32b5fee2465cbcee",
-      "crc32": "c3ed6cd8",
-      "sha1": "3f3ef530d1831e2815820c66db1ddcdb1adaa215",
+      "btih": "b89918bb3405c3907e0c1ed9aa66bed5afab4c0a",
+      "mtime": "1660184801",
+      "size": "71196",
+      "md5": "94703d335d18df6c261d14c6c2daa35d",
+      "crc32": "c26e02d6",
+      "sha1": "6168b1c25e7b070a42af02ff19496b54fad91785",
       "format": "Archive BitTorrent"
     },
     {
       "name": "canopyatl-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e20142db6d36fa7af50317d3992fae37",
+      "md5": "10f67acd5c2d3434cc1efa2b65271233",
       "summation": "md5"
     },
     {
       "name": "canopyatl-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660153462",
-      "size": "413696",
-      "md5": "92e02e13127d4709f52ddabc1a16fb3b",
-      "crc32": "0f9f84d1",
-      "sha1": "4f0fba7508b65e81b383fbb2013408375e11b15f",
+      "mtime": "1660184629",
+      "size": "417792",
+      "md5": "99bf086e63b2b7ed31c039ed4f26c223",
+      "crc32": "43aab7d2",
+      "sha1": "1a2086efa6c2ff6d23df0b2ccd359eebcb7ec52f",
       "format": "Metadata"
     },
     {
@@ -3456,9 +3504,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 331,
-  "item_last_updated": 1660153564,
-  "item_size": 17241396,
+  "files_count": 336,
+  "item_last_updated": 1660184801,
+  "item_size": 17490770,
   "metadata": {
     "identifier": "canopyatl-2022",
     "collection": [
@@ -3476,7 +3524,7 @@
     "addeddate": "2022-07-09 03:56:21"
   },
   "server": "ia801405.us.archive.org",
-  "uniq": 2108402035,
+  "uniq": 1018897323,
   "workable_servers": [
     "ia801405.us.archive.org",
     "ia601405.us.archive.org"

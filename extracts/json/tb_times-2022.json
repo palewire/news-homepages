@@ -1,5 +1,5 @@
 {
-  "created": 1660156397,
+  "created": 1660225881,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/12/items/tb_times-2022",
@@ -1758,31 +1758,93 @@
       "format": "JSON"
     },
     {
+      "name": "tb_times-2022-08-11T01:26:33.447117-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660195596",
+      "size": "40028",
+      "md5": "f66e94ffda890e3a66b4718e5a8eee7e",
+      "crc32": "cdf8f75a",
+      "sha1": "3b8bc9879346c732deed73bd32c7e1935ae247b2",
+      "format": "JSON"
+    },
+    {
+      "name": "tb_times-2022-08-11T01:26:33.447117-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660195598",
+      "size": "34980",
+      "md5": "91e609f57199bf43c407426ca59b78d8",
+      "crc32": "c53c09ca",
+      "sha1": "c0f8a92512b519f9857e2827a5e5153e2a25c124",
+      "format": "JSON"
+    },
+    {
+      "name": "tb_times-2022-08-11T01:26:33.447117-04:00.jpg",
+      "source": "original",
+      "mtime": "1660195595",
+      "size": "308947",
+      "md5": "52fa636989b94a95c44b6978c0f44f1e",
+      "crc32": "c40c8689",
+      "sha1": "18c961da3aa59e4f2aef0800c6bd5fbf5613576f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tb_times-2022-08-11T01:26:33.447117-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660195600",
+      "size": "1477",
+      "md5": "6978a24ddacc2943c9b2a03730ebc6ae",
+      "crc32": "56d1841b",
+      "sha1": "7b79f60a5b7db1dbea9892b3f4ae43dfbb3e4c37",
+      "format": "JSON"
+    },
+    {
+      "name": "tb_times-2022-08-11T01:26:33.447117-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660195601",
+      "size": "266",
+      "md5": "b65623251fe2d971b76a6974c22f9556",
+      "crc32": "39dd16db",
+      "sha1": "0fe0b916df9a7dbc0c4fbbeece737cf2f738f5fe",
+      "format": "JSON"
+    },
+    {
+      "name": "tb_times-2022-08-11T01:26:33.447117-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tb_times-2022-08-11T01:26:33.447117-04:00.jpg",
+      "mtime": "1660196293",
+      "size": "10341",
+      "md5": "61eb90213a1bd95803d341ca403b1ccf",
+      "crc32": "f5a6f298",
+      "sha1": "67d3af4ba5242ed5e7b9f1284d5310da7cd9fe1a"
+    },
+    {
       "name": "tb_times-2022_archive.torrent",
       "source": "metadata",
-      "btih": "611e5fe51b441a3ed4e71740272fa170dc75758f",
-      "mtime": "1660156291",
-      "size": "37076",
-      "md5": "195327bc1f80e08d30d29de78e4c919c",
-      "crc32": "beca050f",
-      "sha1": "c00931e240eac3ba3217f69d57d0508aa8be7621",
+      "btih": "30cdbd8b107e847d425bd2160c396c60811175ec",
+      "mtime": "1660196297",
+      "size": "38342",
+      "md5": "e6e7eb3d96976e320bafdc095415ac83",
+      "crc32": "75cf3756",
+      "sha1": "7bee6523c1386e7800cd2deb57d819ab2c08cfe5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tb_times-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "481d0d1ddbf5dcdada99fd53261e9a00",
+      "md5": "f81a6538aa00b13c0b51e4844eb00453",
       "summation": "md5"
     },
     {
       "name": "tb_times-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660156254",
-      "size": "233472",
-      "md5": "07dae42cd4a5729549f3fcb978f40336",
-      "crc32": "3cd6808d",
-      "sha1": "1cbea8644739e2b33c7247fe38b887f3628a4c0c",
+      "mtime": "1660195604",
+      "size": "241664",
+      "md5": "7b03b507571c7652b7fc0002f4f69ef1",
+      "crc32": "1b5da648",
+      "sha1": "73de2ca0dce787777dffb1ec9fc5425998efffb6",
       "format": "Metadata"
     },
     {
@@ -1796,9 +1858,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 173,
-  "item_last_updated": 1660156291,
-  "item_size": 13368405,
+  "files_count": 179,
+  "item_last_updated": 1660196297,
+  "item_size": 13773902,
   "metadata": {
     "identifier": "tb_times-2022",
     "collection": [
@@ -1816,7 +1878,12 @@
     "addeddate": "2022-07-26 03:58:53"
   },
   "server": "ia902508.us.archive.org",
-  "uniq": 1152448016,
+  "tb_times-2022": {
+    "url": "https://www.tampabay.com/",
+    "job_id": "spn2-5fb28c7f233f576199134d96187d7dbbce16686b",
+    "message": "The capture will start in ~1 minute because our service is currently overloaded. You may close your browser window and the page will still be saved."
+  },
+  "uniq": 363073131,
   "workable_servers": [
     "ia902508.us.archive.org",
     "ia802508.us.archive.org"

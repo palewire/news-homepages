@@ -1,5 +1,5 @@
 {
-  "created": 1660179505,
+  "created": 1660225643,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/25/items/pressenterprise-2022",
@@ -14264,31 +14264,93 @@
       "sha1": "cd3db346a07a6afa88215a26a894e1f773821cec"
     },
     {
+      "name": "pressenterprise-2022-08-10T22:21:41.569219-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660195307",
+      "size": "32959",
+      "md5": "d0508d837f3eef649723e203f0f43929",
+      "crc32": "c6e449d2",
+      "sha1": "e1a04adb2c6e7800121437c22e76195c6f21ddbb",
+      "format": "JSON"
+    },
+    {
+      "name": "pressenterprise-2022-08-10T22:21:41.569219-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660195309",
+      "size": "45433",
+      "md5": "4882168f58ee00767d3af8932d618945",
+      "crc32": "79f6ccaa",
+      "sha1": "df7f9706dbbeef4be18ace67e5e740b7c9c66c75",
+      "format": "JSON"
+    },
+    {
+      "name": "pressenterprise-2022-08-10T22:21:41.569219-07:00.jpg",
+      "source": "original",
+      "mtime": "1660195306",
+      "size": "306945",
+      "md5": "d4457d8db6c220aff8f94a49131be65d",
+      "crc32": "849977e5",
+      "sha1": "37ad4458af68fcbca5e691016b5a631f885095c5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pressenterprise-2022-08-10T22:21:41.569219-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660195310",
+      "size": "1423",
+      "md5": "3e41abc125db3ce4238332f0c8c89638",
+      "crc32": "bed04633",
+      "sha1": "d31e651fef4268959b96018c6d7b2aff7c480393",
+      "format": "JSON"
+    },
+    {
+      "name": "pressenterprise-2022-08-10T22:21:41.569219-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660195312",
+      "size": "260",
+      "md5": "b54ef99cc57d0eb72b5cd8a76a488e5d",
+      "crc32": "a66de589",
+      "sha1": "3563ccd1db3b0de0f05ec0d4ff4d752bcf178309",
+      "format": "JSON"
+    },
+    {
+      "name": "pressenterprise-2022-08-10T22:21:41.569219-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pressenterprise-2022-08-10T22:21:41.569219-07:00.jpg",
+      "mtime": "1660196027",
+      "size": "9522",
+      "md5": "7e7c4e62495980c90451aefde2a32882",
+      "crc32": "6608dacc",
+      "sha1": "d340bd9a245f8d116abcb4c4214a210d14c691bb"
+    },
+    {
       "name": "pressenterprise-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3fd25f52940c4fe333b9819debee41421d334ea2",
-      "mtime": "1660160353",
-      "size": "298174",
-      "md5": "18a777722f553f722205b944b6f78db7",
-      "crc32": "5ad33a81",
-      "sha1": "40caf2ddfb096c6f900eec1ac6c3fe249002d06a",
+      "btih": "fff926b243aa3bca519297efe808d946bb236666",
+      "mtime": "1660196094",
+      "size": "299481",
+      "md5": "178a32274f88721555556d9a892be20b",
+      "crc32": "bf1e3de8",
+      "sha1": "c9a513be0c27779415b04afb99394ef65b44806a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pressenterprise-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d251fc5bc51ea790672ef9e32900209e",
+      "md5": "40947e8a4c2e54b7dae7ace0b8bd3abe",
       "summation": "md5"
     },
     {
       "name": "pressenterprise-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660160214",
-      "size": "1601536",
-      "md5": "7221107bddd8c1d2059ae3bd0f25590f",
-      "crc32": "dc3b777f",
-      "sha1": "61b34e5ff436595f109537bcb2a8b3e61810b1bd",
+      "mtime": "1660195317",
+      "size": "1605632",
+      "md5": "01bbc934f4e531a31d0dced4e8196fe9",
+      "crc32": "9191aae8",
+      "sha1": "cf5282a2ca191fe277b4ae0d6598f2f60fb8936b",
       "format": "Metadata"
     },
     {
@@ -14302,9 +14364,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1364,
-  "item_last_updated": 1660160353,
-  "item_size": 139498857,
+  "files_count": 1370,
+  "item_last_updated": 1660196094,
+  "item_size": 139900802,
   "metadata": {
     "identifier": "pressenterprise-2022",
     "collection": [
@@ -14324,16 +14386,12 @@
   "pressenterprise-2022": {
     "url": "https://www.pe.com/",
     "job_id": "spn2-0e1104def739b55f56fd1fb90688617a08ac193f",
-    "status_ext": "error:job-failed",
-    "message": "Job failed.",
-    "status": "error",
-    "resources": [],
-    "duration_sec": 1.339
+    "message": "The capture will start in ~1 minute because our service is currently overloaded. You may close your browser window and the page will still be saved."
   },
-  "server": "ia802504.us.archive.org",
-  "uniq": 367053404,
+  "server": "ia902504.us.archive.org",
+  "uniq": 479015999,
   "workable_servers": [
-    "ia802504.us.archive.org",
-    "ia902504.us.archive.org"
+    "ia902504.us.archive.org",
+    "ia802504.us.archive.org"
   ]
 }

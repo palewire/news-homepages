@@ -1,5 +1,5 @@
 {
-  "created": 1660179476,
+  "created": 1660225606,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/31/items/pitchfork-2022",
@@ -6862,31 +6862,93 @@
       "sha1": "07be027e1c6524044af9f98c2ecb1153a8b0fb58"
     },
     {
+      "name": "pitchfork-2022-08-11T00:21:22.713647-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660195285",
+      "size": "25402",
+      "md5": "e6b8f7ff3b8fbfec2247e11b19f35a77",
+      "crc32": "428a845b",
+      "sha1": "597aa773f45a68f3c055deb69dbf008acd2481d0",
+      "format": "JSON"
+    },
+    {
+      "name": "pitchfork-2022-08-11T00:21:22.713647-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660195287",
+      "size": "14494",
+      "md5": "72b4a6211e5df7e5580f82889bcb89d6",
+      "crc32": "70e17fc3",
+      "sha1": "8cc00394ef2369214d03e0409a14273311e985ae",
+      "format": "JSON"
+    },
+    {
+      "name": "pitchfork-2022-08-11T00:21:22.713647-05:00.jpg",
+      "source": "original",
+      "mtime": "1660195284",
+      "size": "260085",
+      "md5": "a91ab20abd73979932b219ca0e8d2c9d",
+      "crc32": "1b5dac00",
+      "sha1": "29559d11738f2b185d89cd8729a43ec40df2f11b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pitchfork-2022-08-11T00:21:22.713647-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660195288",
+      "size": "1450",
+      "md5": "4a4a80c2f962135943ed87324bf73b75",
+      "crc32": "1295bbd4",
+      "sha1": "a76bb1f9192b5098500ce6462b952634e68b244c",
+      "format": "JSON"
+    },
+    {
+      "name": "pitchfork-2022-08-11T00:21:22.713647-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660195290",
+      "size": "263",
+      "md5": "57a9d717779dec7dcf4b7e05b919849b",
+      "crc32": "906c4bfa",
+      "sha1": "0adb37c1dbc7332c642a8c318f6a5d698b0c7c75",
+      "format": "JSON"
+    },
+    {
+      "name": "pitchfork-2022-08-11T00:21:22.713647-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pitchfork-2022-08-11T00:21:22.713647-05:00.jpg",
+      "mtime": "1660196039",
+      "size": "9362",
+      "md5": "9698e192c8c5d486eba1052107a443b5",
+      "crc32": "58df3867",
+      "sha1": "e91f7b9d70cacf3b08e8c32d73990783243ed8c2"
+    },
+    {
       "name": "pitchfork-2022_archive.torrent",
       "source": "metadata",
-      "btih": "159a81f05da5b8aff16d5e1f53edb281e4bf7d9c",
-      "mtime": "1660160314",
-      "size": "139769",
-      "md5": "c77734891b4957a6138706ba462967b7",
-      "crc32": "319b2bd7",
-      "sha1": "8071113f68892a031186d9022038e6a0928064a8",
+      "btih": "ed33535187befa696b8469144ec04ea7087104a4",
+      "mtime": "1660196051",
+      "size": "141020",
+      "md5": "5beecd7bc6cfa2e6729eddb50552f227",
+      "crc32": "f6ad2d33",
+      "sha1": "d804dc46f78e520ab6da9d0777b1c220eef16375",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pitchfork-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "eefa63e50a1234291c4a8d806ec8e579",
+      "md5": "741f1696ffb4b2baad068dd402cec4ef",
       "summation": "md5"
     },
     {
       "name": "pitchfork-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660160036",
-      "size": "790528",
-      "md5": "0a6bdda942064b7c3796a4690cb305a8",
-      "crc32": "f55b1cb5",
-      "sha1": "fad2bb66b807e417c2ff5480bbfb86a2953a69e7",
+      "mtime": "1660195294",
+      "size": "798720",
+      "md5": "d6f49b54377dce6ab260533603c2e836",
+      "crc32": "6d3ded9f",
+      "sha1": "42d175f985e3166b0d24090fd53265e9ff83b098",
       "format": "Metadata"
     },
     {
@@ -6900,9 +6962,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 660,
-  "item_last_updated": 1660160314,
-  "item_size": 42208974,
+  "files_count": 666,
+  "item_last_updated": 1660196051,
+  "item_size": 42529473,
   "metadata": {
     "identifier": "pitchfork-2022",
     "collection": [
@@ -6919,49 +6981,13 @@
     "publicdate": "2022-06-24 22:59:44",
     "addeddate": "2022-06-24 22:59:44"
   },
-  "pitchfork-2022": [
-    {
-      "url": "https://pitchfork.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/pitchfork_com-_-2022_08_10_18_51_14.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/pitchfork_com-_-2022_08_10_18_51_14.report.json",
-      "summary": {
-        "performance": 0.21,
-        "accessibility": 0.9,
-        "best-practices": 0.83,
-        "seo": 0.84,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://pitchfork.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/pitchfork_com-_-2022_08_10_18_52_18.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/pitchfork_com-_-2022_08_10_18_52_18.report.json",
-      "summary": {
-        "performance": 0.21,
-        "accessibility": 0.9,
-        "best-practices": 0.83,
-        "seo": 0.84,
-        "pwa": 0.3
-      }
-    },
-    {
-      "url": "https://pitchfork.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/pitchfork_com-_-2022_08_10_18_51_49.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/pitchfork_com-_-2022_08_10_18_51_49.report.json",
-      "summary": {
-        "performance": 0.22,
-        "accessibility": 0.9,
-        "best-practices": 0.83,
-        "seo": 0.84,
-        "pwa": 0.3
-      }
-    }
-  ],
+  "pitchfork-2022": {
+    "url": "https://pitchfork.com/",
+    "job_id": "spn2-823c12b03be385446743e1ba283aac52d1196df5",
+    "message": "The capture will start in ~1 minute because our service is currently overloaded. You may close your browser window and the page will still be saved."
+  },
   "server": "ia801507.us.archive.org",
-  "uniq": 531482626,
+  "uniq": 381962859,
   "workable_servers": [
     "ia801507.us.archive.org",
     "ia601507.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1660178817,
+  "created": 1660221445,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/25/items/fivethirtyeight-2022",
@@ -6038,31 +6038,93 @@
       "sha1": "9a7c2b07a2e4b900806c46f0be754f452b54ad25"
     },
     {
+      "name": "fivethirtyeight-2022-08-11T07:42:46.981503-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660218171",
+      "size": "19314",
+      "md5": "78d1bb83cceaffa64055f3c7e01725d1",
+      "crc32": "c2083b8b",
+      "sha1": "94392bd1812cf50c18bb08a23f0b5802909a7823",
+      "format": "JSON"
+    },
+    {
+      "name": "fivethirtyeight-2022-08-11T07:42:46.981503-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660218173",
+      "size": "20232",
+      "md5": "62e480436daa8f6b7e36ef54828dd788",
+      "crc32": "99bf9487",
+      "sha1": "9785393fa3cf048c69863d7f18fded986f216ec2",
+      "format": "JSON"
+    },
+    {
+      "name": "fivethirtyeight-2022-08-11T07:42:46.981503-04:00.jpg",
+      "source": "original",
+      "mtime": "1660218168",
+      "size": "259235",
+      "md5": "3513383e285c8931c2d122e9612f9e1c",
+      "crc32": "9e8307b3",
+      "sha1": "5f563d04519a987365817d642feb167574505eed",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fivethirtyeight-2022-08-11T07:42:46.981503-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660218174",
+      "size": "1504",
+      "md5": "1c246cb9714143ce53e8f7c47f2ba1fc",
+      "crc32": "9ea164a2",
+      "sha1": "7e9d6403c30c60970f1cf302e0479b7d1b3a1864",
+      "format": "JSON"
+    },
+    {
+      "name": "fivethirtyeight-2022-08-11T07:42:46.981503-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660218176",
+      "size": "269",
+      "md5": "6ff7b0f90ed6022851a7e61a53f1003a",
+      "crc32": "c8ffe4a6",
+      "sha1": "1a0d62fb15a18c6db4ef3885a9cb825fc4c8c13a",
+      "format": "JSON"
+    },
+    {
+      "name": "fivethirtyeight-2022-08-11T07:42:46.981503-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fivethirtyeight-2022-08-11T07:42:46.981503-04:00.jpg",
+      "mtime": "1660220958",
+      "size": "9077",
+      "md5": "c806373846bed64e647bcaa3289c62e7",
+      "crc32": "21516ec0",
+      "sha1": "5f30e3187a3b8b589ae9886a85c5c5e8d9319add"
+    },
+    {
       "name": "fivethirtyeight-2022_archive.torrent",
       "source": "metadata",
-      "btih": "af94aa35f961b0180927a46d6c1311ca7bd604db",
-      "mtime": "1660178805",
-      "size": "126797",
-      "md5": "928346aac1d7ccce7634e722656a1049",
-      "crc32": "ed33f88f",
-      "sha1": "28110945bbcd1d39174c1b942f0675ba251ff416",
+      "btih": "6793b34e53553cefb533929c4d880984a32edb01",
+      "mtime": "1660220966",
+      "size": "128084",
+      "md5": "99d1fd59ed8fa2702d9673d11019b3f4",
+      "crc32": "8dcd4a64",
+      "sha1": "eeb3808c2b81c0ad2455a61878880bf283e8c749",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fivethirtyeight-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "57a18c3bfb49722136bda53dc8543320",
+      "md5": "a60d8f7253a8280d2bb94b199a2db110",
       "summation": "md5"
     },
     {
       "name": "fivethirtyeight-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660178669",
-      "size": "708608",
-      "md5": "9d79178940f3e0f163d8997ca617dbf9",
-      "crc32": "4c13171d",
-      "sha1": "d02e8f3f2e2326ea501d11ce92c97170d4fc21f4",
+      "mtime": "1660218183",
+      "size": "712704",
+      "md5": "af6bdec22721a0e02670f3137578e286",
+      "crc32": "f294465d",
+      "sha1": "0243b9ba9c6ba1a72d0662a68f4a5d456c7d8bd6",
       "format": "Metadata"
     },
     {
@@ -6076,9 +6138,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 581,
-  "item_last_updated": 1660178805,
-  "item_size": 41692702,
+  "files_count": 587,
+  "item_last_updated": 1660220966,
+  "item_size": 42007716,
   "metadata": {
     "identifier": "fivethirtyeight-2022",
     "collection": [
@@ -6095,10 +6157,10 @@
     "publicdate": "2022-06-19 23:24:21",
     "addeddate": "2022-06-19 23:24:21"
   },
-  "server": "ia601501.us.archive.org",
-  "uniq": 1901114254,
+  "server": "ia801501.us.archive.org",
+  "uniq": 1840610892,
   "workable_servers": [
-    "ia601501.us.archive.org",
-    "ia801501.us.archive.org"
+    "ia801501.us.archive.org",
+    "ia601501.us.archive.org"
   ]
 }

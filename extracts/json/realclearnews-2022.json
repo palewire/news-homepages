@@ -1,5 +1,5 @@
 {
-  "created": 1660137813,
+  "created": 1660225681,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/6/items/realclearnews-2022",
@@ -578,31 +578,83 @@
       "sha1": "d7dcc6ae1fdddad3d9d5e864d0526c466de6a821"
     },
     {
+      "name": "realclearnews-2022-08-10T20:58:55.348186-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660179537",
+      "size": "161",
+      "md5": "b3fc1ae5b5a7028736d79c1ef50ce6eb",
+      "crc32": "837fa67e",
+      "sha1": "fc80bdf0e3eb433f99a11f1e02a7c22401d714b9",
+      "format": "JSON"
+    },
+    {
+      "name": "realclearnews-2022-08-10T20:58:55.348186-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660179538",
+      "size": "2",
+      "md5": "d751713988987e9331980363e24189ce",
+      "crc32": "0d4cbb29",
+      "sha1": "97d170e1550eee4afc0af065b78cda302a97674c",
+      "format": "JSON"
+    },
+    {
+      "name": "realclearnews-2022-08-10T20:58:55.348186-04:00.jpg",
+      "source": "original",
+      "mtime": "1660179536",
+      "size": "466037",
+      "md5": "f693f6c70c5bc17a48f0e3c7c37f7f82",
+      "crc32": "2552e675",
+      "sha1": "0fcfeddf5d1b7e5f01b991fe07494658b165ae86",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "realclearnews-2022-08-10T20:58:55.348186-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660179540",
+      "size": "241",
+      "md5": "5eeffdc408556a6bab243b837e18c96b",
+      "crc32": "22eb0cc9",
+      "sha1": "e1405ea9fa9901c3069ed1eb37afc439c35671cb",
+      "format": "JSON"
+    },
+    {
+      "name": "realclearnews-2022-08-10T20:58:55.348186-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "realclearnews-2022-08-10T20:58:55.348186-04:00.jpg",
+      "mtime": "1660179749",
+      "size": "10460",
+      "md5": "8205930a4706d06dd07254eacb52bd1f",
+      "crc32": "f6bb4a0d",
+      "sha1": "39e8a8d2e52400d7c7fd8162001baa187fae88c1"
+    },
+    {
       "name": "realclearnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8d745d5598f3be38b6054580615cb6708346245b",
-      "mtime": "1660137758",
-      "size": "13327",
-      "md5": "b0d7f7577cd221a2950893fea0ac0604",
-      "crc32": "6b9946c8",
-      "sha1": "283bf7b34166c6c4fc8dd7cd1c3a15aadbdba6fe",
+      "btih": "695eb0d53c4cd698308dba780d2618977ae7ff4c",
+      "mtime": "1660179751",
+      "size": "14402",
+      "md5": "8008cf3af236e5df6b1b59437af48103",
+      "crc32": "75ecc834",
+      "sha1": "516b50909783981d64dd9dae1148ddcd71dcc9b9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "realclearnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f39d288b0ce34dd85d104095a7be67e5",
+      "md5": "4164343d1b5710f72cf151b2d3e7ee4f",
       "summation": "md5"
     },
     {
       "name": "realclearnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660137492",
-      "size": "81920",
-      "md5": "8ff9288542e009da2d43ebaff5ea4d47",
-      "crc32": "e8bb9766",
-      "sha1": "7f28334e4787fa198fc4a0bd5351cbd4a511c724",
+      "mtime": "1660179548",
+      "size": "86016",
+      "md5": "b03e47a700236c216dfb856f81872c79",
+      "crc32": "d01ed4dd",
+      "sha1": "8777e2739c4df0357debbd5e38189d7d84be42a8",
       "format": "Metadata"
     },
     {
@@ -616,9 +668,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 59,
-  "item_last_updated": 1660137758,
-  "item_size": 6569376,
+  "files_count": 64,
+  "item_last_updated": 1660179751,
+  "item_size": 7051448,
   "metadata": {
     "identifier": "realclearnews-2022",
     "collection": [
@@ -635,10 +687,15 @@
     "publicdate": "2022-08-05 12:46:57",
     "addeddate": "2022-08-05 12:46:57"
   },
-  "server": "ia601404.us.archive.org",
-  "uniq": 1998508934,
+  "realclearnews-2022": {
+    "url": "https://www.realclearpolitics.com/",
+    "job_id": "spn2-1fed5b3b55c6a9530913f26b40122fec6570f064",
+    "message": "The same snapshot had been made 20 minutes, 12 seconds ago. You can make new capture of this URL after 45 minutes."
+  },
+  "server": "ia801404.us.archive.org",
+  "uniq": 46365608,
   "workable_servers": [
-    "ia601404.us.archive.org",
-    "ia801404.us.archive.org"
+    "ia801404.us.archive.org",
+    "ia601404.us.archive.org"
   ]
 }

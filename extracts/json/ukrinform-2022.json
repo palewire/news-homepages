@@ -1,5 +1,5 @@
 {
-  "created": 1660179842,
+  "created": 1660226132,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/29/items/ukrinform-2022",
@@ -12170,31 +12170,93 @@
       "format": "JSON"
     },
     {
+      "name": "ukrinform-2022-08-11T08:30:03.315582+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660195811",
+      "size": "62348",
+      "md5": "5dcfda48dc1ccf277510bba6720638f8",
+      "crc32": "ded201d6",
+      "sha1": "1a0138e347a75f9190c837d4c90bf992527ddb47",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-08-11T08:30:03.315582+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660195813",
+      "size": "57986",
+      "md5": "dbb4db5a4a65e58403661ea4658004e9",
+      "crc32": "3f661135",
+      "sha1": "702d68621d1fba7316e2369567ad6c903023d4cd",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-08-11T08:30:03.315582+03:00.jpg",
+      "source": "original",
+      "mtime": "1660195809",
+      "size": "283708",
+      "md5": "67bf003df612d3aaf6cf76478b6e810e",
+      "crc32": "51fe6a57",
+      "sha1": "85fc62e98b0b52347febfee88adcd30c5ec3ef15",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ukrinform-2022-08-11T08:30:03.315582+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660195814",
+      "size": "1477",
+      "md5": "f446268e32061f0c7fedf15ef33cf9f1",
+      "crc32": "a61bd84f",
+      "sha1": "cbc16bc5d070dfca9068029eac376677cc8792b6",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-08-11T08:30:03.315582+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1660195816",
+      "size": "266",
+      "md5": "14ff2aa08753e96bc1f5e91eb9f2cd90",
+      "crc32": "cb10c3c6",
+      "sha1": "d476764063a28bbb56637f53d8430212df69b75b",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-08-11T08:30:03.315582+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ukrinform-2022-08-11T08:30:03.315582+03:00.jpg",
+      "mtime": "1660196451",
+      "size": "9655",
+      "md5": "bf6b6a3b2e51679fa4e7ca714ed3ea26",
+      "crc32": "a4f54915",
+      "sha1": "452592a6cf15ed09a40ec8c0e09570965b0d5492"
+    },
+    {
       "name": "ukrinform-2022_archive.torrent",
       "source": "metadata",
-      "btih": "df48fa064e8d1291016ce1183a8ba1a750248ee6",
-      "mtime": "1660156343",
-      "size": "247891",
-      "md5": "1798d9331610a73668ab6d7b01311bd2",
-      "crc32": "a4f4dcd7",
-      "sha1": "3b43b8bd5f688f8d2f504fa9e3024fa06ff48700",
+      "btih": "a4096003109c59e8246e6bd0aaacc17f367cc64e",
+      "mtime": "1660196472",
+      "size": "249162",
+      "md5": "0a4f3311f6b2d44e8d8c65ffdf764457",
+      "crc32": "c9d0f1c5",
+      "sha1": "b16f67cedc27edff2282c5dfea32f3f1fa295ad9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ukrinform-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c170c5f36dfef9eacb5f263d4614416c",
+      "md5": "c9d062472aafbf32ca8dc5efa2f5fe76",
       "summation": "md5"
     },
     {
       "name": "ukrinform-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660156279",
-      "size": "1351680",
-      "md5": "afb158b293ccc269a89020737c8307be",
-      "crc32": "7f6d0b8d",
-      "sha1": "b4e773b6487e0afebc4744fcb1f9503d5f609c6a",
+      "mtime": "1660195820",
+      "size": "1355776",
+      "md5": "4bf5236884d0247500b09f584d45a096",
+      "crc32": "2c63f670",
+      "sha1": "7a82a268e8b47a1c8f6fd4258282a010fdc2c7d8",
       "format": "Metadata"
     },
     {
@@ -12208,9 +12270,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1164,
-  "item_last_updated": 1660156343,
-  "item_size": 127987306,
+  "files_count": 1170,
+  "item_last_updated": 1660196472,
+  "item_size": 128408113,
   "metadata": {
     "identifier": "ukrinform-2022",
     "collection": [
@@ -12230,9 +12292,10 @@
   "server": "ia801409.us.archive.org",
   "ukrinform-2022": {
     "url": "https://www.ukrinform.ua/",
-    "job_id": "spn2-3748ac7b4b0c381335aad989531830b8b73076e2"
+    "job_id": "spn2-3748ac7b4b0c381335aad989531830b8b73076e2",
+    "message": "The capture will start in ~1 minute because our service is currently overloaded. You may close your browser window and the page will still be saved."
   },
-  "uniq": 275260395,
+  "uniq": 358506773,
   "workable_servers": [
     "ia801409.us.archive.org",
     "ia601409.us.archive.org"

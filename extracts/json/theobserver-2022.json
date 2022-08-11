@@ -1,5 +1,5 @@
 {
-  "created": 1660156443,
+  "created": 1660226031,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/35/items/theobserver-2022",
@@ -3056,31 +3056,83 @@
       "sha1": "ea29b90a1b86e78a17ccd79fd523a4c75b1b55ea"
     },
     {
+      "name": "theobserver-2022-08-11T01:28:35.345711-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660195720",
+      "size": "465",
+      "md5": "366f9626c16eee9f541c23444cef0746",
+      "crc32": "39bb9b1f",
+      "sha1": "e39e249f23618951926217e8ebc7581a5f6a1fef",
+      "format": "JSON"
+    },
+    {
+      "name": "theobserver-2022-08-11T01:28:35.345711-04:00.jpg",
+      "source": "original",
+      "mtime": "1660195718",
+      "size": "298198",
+      "md5": "1bd54ac28fa39b7bfad2a3aaab14cb2c",
+      "crc32": "952c9dc2",
+      "sha1": "ecae0e807dc73155e022e0c169989d5e61bcd483",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theobserver-2022-08-11T01:28:35.345711-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660195721",
+      "size": "1551",
+      "md5": "6e872f538fc2c6c539610e133f0a3be5",
+      "crc32": "503d3964",
+      "sha1": "b37eba8495fad3cead93fbccf9de17792dbf2a8b",
+      "format": "JSON"
+    },
+    {
+      "name": "theobserver-2022-08-11T01:28:35.345711-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660195723",
+      "size": "275",
+      "md5": "c6358c9a7e83f8b22566a3f17239cfb6",
+      "crc32": "54bb71f1",
+      "sha1": "2ee1ac121f4aa4f38b34177566934148eef46e32",
+      "format": "JSON"
+    },
+    {
+      "name": "theobserver-2022-08-11T01:28:35.345711-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theobserver-2022-08-11T01:28:35.345711-04:00.jpg",
+      "mtime": "1660196329",
+      "size": "10406",
+      "md5": "59a6a3ad612704b065b5296535094690",
+      "crc32": "63a978b5",
+      "sha1": "49429b085e485c0096e475943c857073782d456e"
+    },
+    {
       "name": "theobserver-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ce784834b158a25c3bfec772f80473ba62c54ab8",
-      "mtime": "1660156404",
-      "size": "63603",
-      "md5": "33919555ddede21250ee108f360abd11",
-      "crc32": "5d80fb52",
-      "sha1": "b1a378ebb8df3e9cfa3593f9ed443fa3b2019fa9",
+      "btih": "e446314a21b5b3569e060b1f65f4da751d0230a6",
+      "mtime": "1660196336",
+      "size": "64671",
+      "md5": "0a69ba08f6e4c5df1d4aea4920b1fcea",
+      "crc32": "ee028877",
+      "sha1": "6f09f2e8b380c5d644edf9916587049aabd848b7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theobserver-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e3384f4d10e0e057bd0169dc20bc7ac4",
+      "md5": "b8505644f0e1a015192bd218c514ec4f",
       "summation": "md5"
     },
     {
       "name": "theobserver-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660156267",
-      "size": "368640",
-      "md5": "2356ae26064c4068e0a3f1fd07c8b82c",
-      "crc32": "ff7ce753",
-      "sha1": "80883e0c4c1d26d52f03be164a25d73d258f3c2d",
+      "mtime": "1660195727",
+      "size": "372736",
+      "md5": "733a6c4cbffb9c895b5d2ce9cce81e3d",
+      "crc32": "726ed81b",
+      "sha1": "f11023ec249d822f833099a14702225863e9a553",
       "format": "Metadata"
     },
     {
@@ -3094,9 +3146,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 296,
-  "item_last_updated": 1660156404,
-  "item_size": 22564861,
+  "files_count": 301,
+  "item_last_updated": 1660196336,
+  "item_size": 22880920,
   "metadata": {
     "identifier": "theobserver-2022",
     "collection": [
@@ -3114,7 +3166,12 @@
     "addeddate": "2022-07-10 14:53:55"
   },
   "server": "ia801409.us.archive.org",
-  "uniq": 1859125615,
+  "theobserver-2022": {
+    "url": "https://www.charlotteobserver.com/",
+    "job_id": "spn2-29ed60473d7eb3d16247434fe103b32e9ef3aad6",
+    "message": "The capture will start in ~1 minute because our service is currently overloaded. You may close your browser window and the page will still be saved."
+  },
+  "uniq": 1555648917,
   "workable_servers": [
     "ia801409.us.archive.org",
     "ia601409.us.archive.org"

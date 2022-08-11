@@ -1,5 +1,5 @@
 {
-  "created": 1660178517,
+  "created": 1660220245,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/3/items/baltimorebanner-2022",
@@ -6554,31 +6554,93 @@
       "sha1": "11ed15b1ee64c71c6db6975cc0802617876e6f7c"
     },
     {
+      "name": "baltimorebanner-2022-08-11T07:34:21.980259-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660217665",
+      "size": "32266",
+      "md5": "3eef44d9d5e6401f08a1ff37e1cec0a2",
+      "crc32": "58524a9b",
+      "sha1": "f4b633d9295408c10c5252b88d067c37fb80fd61",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimorebanner-2022-08-11T07:34:21.980259-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660217667",
+      "size": "27707",
+      "md5": "1c1fe5ba1232b2afc6be1763b5f740b0",
+      "crc32": "18a8c8d9",
+      "sha1": "41d668b8a38ade068b08bb725a6c45917d1842d8",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimorebanner-2022-08-11T07:34:21.980259-04:00.jpg",
+      "source": "original",
+      "mtime": "1660217664",
+      "size": "289927",
+      "md5": "ea4c702beb9bd392962599f4ac76ce3b",
+      "crc32": "706dce1c",
+      "sha1": "0027dff38b8d907d5af8d6b55c7bc3c43842a862",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "baltimorebanner-2022-08-11T07:34:21.980259-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660217669",
+      "size": "1567",
+      "md5": "533117f7b11f7f566130f52ab589805e",
+      "crc32": "ee602f4b",
+      "sha1": "45e26a77ef098051988412a9863f7cbcede28ca3",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimorebanner-2022-08-11T07:34:21.980259-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660217670",
+      "size": "39041",
+      "md5": "649a3aa5d716fb6b2da8860ccb4a8b80",
+      "crc32": "888ca809",
+      "sha1": "17dd439ad55056f2d33b3444cb69b9594398b737",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimorebanner-2022-08-11T07:34:21.980259-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baltimorebanner-2022-08-11T07:34:21.980259-04:00.jpg",
+      "mtime": "1660220221",
+      "size": "9654",
+      "md5": "a9526107c4ea8ec1dae65384556933c9",
+      "crc32": "e1675764",
+      "sha1": "942e7fc125c211201220602da616f20f00aea62c"
+    },
+    {
       "name": "baltimorebanner-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a306857f9b254cadfa0b2b25f29aee0b4dda00f0",
-      "mtime": "1660178494",
-      "size": "137462",
-      "md5": "cd449888bd6af11223cbef90fc2e1f89",
-      "crc32": "5d51e506",
-      "sha1": "805ed1922d10e611f99d78a0792d2e2584487319",
+      "btih": "1071295fcb3bcde5540a9e956aadc63c405cfe88",
+      "mtime": "1660220236",
+      "size": "138771",
+      "md5": "d20d85f255f34572468306971dd1c861",
+      "crc32": "79c5b538",
+      "sha1": "6dbed6565509d493478a217fcd22b06b39184a1a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "baltimorebanner-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "286a85f823580d43029c8fa090d9b6dc",
+      "md5": "1569b1754ff5a43526e508d6e5469355",
       "summation": "md5"
     },
     {
       "name": "baltimorebanner-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660178248",
-      "size": "757760",
-      "md5": "3bcb7b560a69bb0de65ceb8a01947d0f",
-      "crc32": "666aaca9",
-      "sha1": "093c9a0239ef85d2307d883f0a38576d479e864a",
+      "mtime": "1660217675",
+      "size": "765952",
+      "md5": "b896f8e02d4383b72fcb31be4bbc47f6",
+      "crc32": "7f0908a7",
+      "sha1": "582466da0a6a0850049a52ac339dd200a04516ef",
       "format": "Metadata"
     },
     {
@@ -6592,9 +6654,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 630,
-  "item_last_updated": 1660178494,
-  "item_size": 46589725,
+  "files_count": 636,
+  "item_last_updated": 1660220236,
+  "item_size": 46999388,
   "metadata": {
     "identifier": "baltimorebanner-2022",
     "collection": [
@@ -6611,10 +6673,10 @@
     "publicdate": "2022-06-18 17:07:17",
     "addeddate": "2022-06-18 17:07:17"
   },
-  "server": "ia802504.us.archive.org",
-  "uniq": 1490807067,
+  "server": "ia902504.us.archive.org",
+  "uniq": 1610000371,
   "workable_servers": [
-    "ia802504.us.archive.org",
-    "ia902504.us.archive.org"
+    "ia902504.us.archive.org",
+    "ia802504.us.archive.org"
   ]
 }

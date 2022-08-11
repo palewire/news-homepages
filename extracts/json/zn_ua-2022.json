@@ -1,5 +1,5 @@
 {
-  "created": 1660179986,
+  "created": 1660226409,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/16/items/zn_ua-2022",
@@ -12596,31 +12596,93 @@
       "format": "JSON"
     },
     {
+      "name": "zn_ua-2022-08-11T08:33:01.156687+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660195993",
+      "size": "114985",
+      "md5": "19f939aa38f1bd7962cf8264345dd184",
+      "crc32": "2b7b333e",
+      "sha1": "971ce401f6a26f6da4a8fd6935d3da91628cf5eb",
+      "format": "JSON"
+    },
+    {
+      "name": "zn_ua-2022-08-11T08:33:01.156687+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660195995",
+      "size": "114387",
+      "md5": "191d2fee09e07fc4da6d8f6a0940c9ed",
+      "crc32": "fee07d74",
+      "sha1": "fad4719c83f30672024cc17a2fc2b7861178759f",
+      "format": "JSON"
+    },
+    {
+      "name": "zn_ua-2022-08-11T08:33:01.156687+03:00.jpg",
+      "source": "original",
+      "mtime": "1660195992",
+      "size": "250559",
+      "md5": "ed0d829e5a9f559af32b40e12c1b67fe",
+      "crc32": "3f9c6612",
+      "sha1": "ba4ad1289004573ad729c2b96bde0cc412bd08d4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "zn_ua-2022-08-11T08:33:01.156687+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660195997",
+      "size": "1378",
+      "md5": "bf0f6afaba081c840f56a4bf5ed3f11f",
+      "crc32": "0f35e63a",
+      "sha1": "d53f7259d8caa8361352af7ef888d42a179dc73f",
+      "format": "JSON"
+    },
+    {
+      "name": "zn_ua-2022-08-11T08:33:01.156687+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1660195999",
+      "size": "255",
+      "md5": "8dc56cb0345428391bf22ef673ee97a6",
+      "crc32": "5547a69f",
+      "sha1": "79c06b26f525e67bcff10ea4372cd96b7857eaae",
+      "format": "JSON"
+    },
+    {
+      "name": "zn_ua-2022-08-11T08:33:01.156687+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "zn_ua-2022-08-11T08:33:01.156687+03:00.jpg",
+      "mtime": "1660196601",
+      "size": "9320",
+      "md5": "53f7cfcd4b9a06b15187b2ae0e376cef",
+      "crc32": "2db6956c",
+      "sha1": "a14fad872eadc12c23cd61f558f914d0e1b0bcc1"
+    },
+    {
       "name": "zn_ua-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bfe9dbe3469a7776034547e65abbb9c988cd41a0",
-      "mtime": "1660156450",
-      "size": "252739",
-      "md5": "64e177bd472ea1afc79deafcadfd93a0",
-      "crc32": "f196c62b",
-      "sha1": "2fb76ef5fa92b49410daf831977bea8b333f0f1f",
+      "btih": "877d7195a71825d9e96f3799782c722a4727ac6f",
+      "mtime": "1660196634",
+      "size": "253988",
+      "md5": "af03be1c4b6f1bd3d1add30c091ba1a2",
+      "crc32": "0aca60fb",
+      "sha1": "f0b3eb0c1553c86d8ba001715ec41036abeef24a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "zn_ua-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f30ebce15cd8b404c96e6cc11104fc62",
+      "md5": "0450c7007da261360888029171b3e493",
       "summation": "md5"
     },
     {
       "name": "zn_ua-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660156399",
-      "size": "1388544",
-      "md5": "cfac0b04abc11baa90074278947829a0",
-      "crc32": "80da0206",
-      "sha1": "01a1eae7566dcfd38c92af37c2e63500b6cb60a4",
+      "mtime": "1660196004",
+      "size": "1392640",
+      "md5": "a36ca2ccd7759a7c6a1009c00ade6b66",
+      "crc32": "b371399f",
+      "sha1": "69e764aba46330374b74497f944df5be9c20a2a3",
       "format": "Metadata"
     },
     {
@@ -12634,9 +12696,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1204,
-  "item_last_updated": 1660156450,
-  "item_size": 150299427,
+  "files_count": 1210,
+  "item_last_updated": 1660196634,
+  "item_size": 150795656,
   "metadata": {
     "identifier": "zn_ua-2022",
     "collection": [
@@ -12654,13 +12716,14 @@
     "addeddate": "2022-03-23 17:49:10"
   },
   "server": "ia802509.us.archive.org",
-  "uniq": 1565535348,
+  "uniq": 571941094,
   "workable_servers": [
     "ia802509.us.archive.org",
     "ia902509.us.archive.org"
   ],
   "zn_ua-2022": {
     "url": "https://zn.ua/",
-    "job_id": "spn2-f59b8a59b1547beabae0b1e9fb3efa5aabf8d5e0"
+    "job_id": "spn2-f59b8a59b1547beabae0b1e9fb3efa5aabf8d5e0",
+    "message": "The capture will start in ~1 minute because our service is currently overloaded. You may close your browser window and the page will still be saved."
   }
 }

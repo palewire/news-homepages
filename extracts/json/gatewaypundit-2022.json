@@ -1,5 +1,5 @@
 {
-  "created": 1660179148,
+  "created": 1660225101,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/2/items/gatewaypundit-2022",
@@ -5622,31 +5622,93 @@
       "sha1": "9c52f91cd89b79107ec247cdb9875461c466da43"
     },
     {
+      "name": "gatewaypundit-2022-08-10T22:52:00.670156-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660189922",
+      "size": "33524",
+      "md5": "2b73ebf285359ac68a3d751a34645d0f",
+      "crc32": "97d91511",
+      "sha1": "470b177ec8720aa6f91bb8458f97793bb987cdbb",
+      "format": "JSON"
+    },
+    {
+      "name": "gatewaypundit-2022-08-10T22:52:00.670156-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660189924",
+      "size": "72966",
+      "md5": "09cec836dad9d0d9a7b8b8e4824d8ed9",
+      "crc32": "1cf3d65e",
+      "sha1": "a422e4cdcc1d44b1b5e59d2ab57dbd8dbf90bda0",
+      "format": "JSON"
+    },
+    {
+      "name": "gatewaypundit-2022-08-10T22:52:00.670156-05:00.jpg",
+      "source": "original",
+      "mtime": "1660189921",
+      "size": "338290",
+      "md5": "cab2387f18249c11ddd740bb5267b887",
+      "crc32": "e75f2706",
+      "sha1": "c8726b682b9eac80dd2b41b243313743cc1b0c0b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gatewaypundit-2022-08-10T22:52:00.670156-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660189925",
+      "size": "1549",
+      "md5": "4327ee17e5d132e1fe79d6ef99890db5",
+      "crc32": "474f76e6",
+      "sha1": "67d668e81088cbb229932b992553b65ce2843770",
+      "format": "JSON"
+    },
+    {
+      "name": "gatewaypundit-2022-08-10T22:52:00.670156-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660189927",
+      "size": "276",
+      "md5": "8f136f9bc6013c4959ecb6af15e67716",
+      "crc32": "9e85bf82",
+      "sha1": "57fce3c7c1c75e02948a6566b6e4b4631848d5fe",
+      "format": "JSON"
+    },
+    {
+      "name": "gatewaypundit-2022-08-10T22:52:00.670156-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gatewaypundit-2022-08-10T22:52:00.670156-05:00.jpg",
+      "mtime": "1660190675",
+      "size": "10816",
+      "md5": "704f42bbd9495af4740e188412a8d5bb",
+      "crc32": "936d1e1b",
+      "sha1": "f55aa76e17da5b50020388bc07c28cbb2f5da2de"
+    },
+    {
       "name": "gatewaypundit-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5142008b354d367f905047399f5589fe95fa4505",
-      "mtime": "1660160450",
-      "size": "117973",
-      "md5": "8aa699dbc2c5f5a2c790fb476186aa59",
-      "crc32": "cca4ec57",
-      "sha1": "5cff8ee94ed188b399524320fa295eb2050c3289",
+      "btih": "a58f398d349aa94f5f730bc44ca85366d2a6db0c",
+      "mtime": "1660190684",
+      "size": "119249",
+      "md5": "074a2b8b9808e9c59e112e7a77c9446c",
+      "crc32": "e4bc3221",
+      "sha1": "75f0feb0f4eb43bb6f8748522dafe9cbd7fd6563",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gatewaypundit-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e032171781efb412261b0010bdacdcf8",
+      "md5": "930550c99788f038cfea9d38d9ebf908",
       "summation": "md5"
     },
     {
       "name": "gatewaypundit-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660160307",
-      "size": "663552",
-      "md5": "ad3936fc174f982163dd156149189d4d",
-      "crc32": "4f650817",
-      "sha1": "201a79f1da35eef8cba27b1cf901395bb1efeb9f",
+      "mtime": "1660189938",
+      "size": "671744",
+      "md5": "f67733c3212b65345bd36cfb8a8ed38b",
+      "crc32": "34af75f4",
+      "sha1": "6b984b49fd227f4e774902ffb315c620e9e3e4a8",
       "format": "Metadata"
     },
     {
@@ -5660,14 +5722,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 542,
+  "files_count": 548,
   "gatewaypundit-2022": {
     "url": "https://www.thegatewaypundit.com/",
     "job_id": "spn2-b819b2b21f6c5cf2ff6a03ae9fc1e46c81b74892",
-    "message": "The same snapshot had been made 12 minutes, 56 seconds ago. You can make new capture of this URL after 45 minutes."
+    "message": "The capture will start in ~31 minutes because our service is currently overloaded. You may close your browser window and the page will still be saved."
   },
-  "item_last_updated": 1660160450,
-  "item_size": 54685798,
+  "item_last_updated": 1660190684,
+  "item_size": 55152687,
   "metadata": {
     "identifier": "gatewaypundit-2022",
     "collection": [
@@ -5685,7 +5747,7 @@
     "addeddate": "2022-07-02 15:24:15"
   },
   "server": "ia601500.us.archive.org",
-  "uniq": 118454004,
+  "uniq": 2133576039,
   "workable_servers": [
     "ia601500.us.archive.org",
     "ia801500.us.archive.org"

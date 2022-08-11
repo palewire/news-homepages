@@ -1,5 +1,6 @@
 {
-  "created": 1660179412,
+  "conflict": 1660225510,
+  "created": 1660225510,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/6/items/nydailynews-2022",
@@ -3733,21 +3734,32 @@
       "format": "JSON"
     },
     {
+      "name": "nydailynews-2022-08-10T20:55:54.134593-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nydailynews-2022-08-10T20:55:54.134593-04:00.jpg",
+      "mtime": "1660179609",
+      "size": "9452",
+      "md5": "07b031ff6d0fed0e04d41ab6d0a680e0",
+      "crc32": "dc453d8a",
+      "sha1": "3c32938cfc80ec772c6239d58d72d4cfec09644a"
+    },
+    {
       "name": "nydailynews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9f545e87a1a56622da0997e41d554ffffeaca96d",
-      "mtime": "1660179409",
-      "size": "77966",
-      "md5": "55bd93ef33b92aad2875c005d7d78804",
-      "crc32": "39de2b9d",
-      "sha1": "9a1f4c2cfd029a5263a582cf7f3f3df8649ad42f",
+      "btih": "64e52e6e4ab4a337dd0c6f022310438fb82c9228",
+      "mtime": "1660179615",
+      "size": "78173",
+      "md5": "9a05a48335ce1c36abc4594d6b1ddd0b",
+      "crc32": "3337558c",
+      "sha1": "96ed3378025da65e4fe74b0fb1f73acc8da117e8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nydailynews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1d25ecca9b80a307bb74e0117716e53e",
+      "md5": "be6240c4d575ea026ce5608fd3ec59c1",
       "summation": "md5"
     },
     {
@@ -3771,9 +3783,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 361,
-  "item_last_updated": 1660179409,
-  "item_size": 34959555,
+  "files_count": 362,
+  "item_last_updated": 1660179615,
+  "item_size": 34969214,
   "metadata": {
     "identifier": "nydailynews-2022",
     "collection": [
@@ -3795,15 +3807,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3360660900,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "task_id": 3361501157,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 456863389,
+  "uniq": 976432277,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]

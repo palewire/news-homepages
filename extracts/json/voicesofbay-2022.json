@@ -1,5 +1,5 @@
 {
-  "created": 1660179883,
+  "created": 1660221746,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/32/items/voicesofbay-2022",
@@ -3614,31 +3614,93 @@
       "format": "JSON"
     },
     {
+      "name": "voicesofbay-2022-08-10T22:30:47.434802-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660195849",
+      "size": "31133",
+      "md5": "af155b0a1bfd4d4619f971bcc477596b",
+      "crc32": "562b480d",
+      "sha1": "e998d484c487ab07a44fc8cc05588e04f6cddbf9",
+      "format": "JSON"
+    },
+    {
+      "name": "voicesofbay-2022-08-10T22:30:47.434802-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660195851",
+      "size": "14740",
+      "md5": "bedc27aaf5e5a6eaa98db249f834e85c",
+      "crc32": "8ee2b31f",
+      "sha1": "c981e369d8edacc33403c1b0a61b711b0bfdb3bb",
+      "format": "JSON"
+    },
+    {
+      "name": "voicesofbay-2022-08-10T22:30:47.434802-07:00.jpg",
+      "source": "original",
+      "mtime": "1660195848",
+      "size": "171044",
+      "md5": "aecb85f3af498ee32b42f14e2a2b9978",
+      "crc32": "b9e0e911",
+      "sha1": "5ecdc33bf4a67ccf346cc1b40cb5cb947938ae9f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "voicesofbay-2022-08-10T22:30:47.434802-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660195852",
+      "size": "1540",
+      "md5": "414ea1a7ee7bca260aa54e0bd495a410",
+      "crc32": "b0b01a63",
+      "sha1": "35edbbfceee8fe90a9c2d66d0816d71030139d51",
+      "format": "JSON"
+    },
+    {
+      "name": "voicesofbay-2022-08-10T22:30:47.434802-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660195854",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "voicesofbay-2022-08-10T22:30:47.434802-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "voicesofbay-2022-08-10T22:30:47.434802-07:00.jpg",
+      "mtime": "1660196471",
+      "size": "8025",
+      "md5": "69da60dc86e2d2e38ea8869d6627fcd4",
+      "crc32": "a02d416a",
+      "sha1": "9e87cae3ce679bf86690b4de13d3ad24203774e6"
+    },
+    {
       "name": "voicesofbay-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b00eaa343d5bc1f6d0697436551cc2f2e0100d8e",
-      "mtime": "1660156354",
-      "size": "75005",
-      "md5": "b0265bc2c0b185ce7a44c8591b60b8d2",
-      "crc32": "eceea2dd",
-      "sha1": "c36e35b04424260a8dbf4fcb3d068fa91f522b4d",
+      "btih": "dc2185cc034b6ccf2251e663fd72022080c4cfe0",
+      "mtime": "1660196475",
+      "size": "76268",
+      "md5": "cf7d0f9089eaec43c7093d570756718d",
+      "crc32": "adb0404b",
+      "sha1": "ea381614162af6d78d4bfdc8fb0f059c4d275383",
       "format": "Archive BitTorrent"
     },
     {
       "name": "voicesofbay-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2e364fdd2af7affe66ef21b38ee2eeb1",
+      "md5": "24dbc330da0340aa16f1c63d7e2936df",
       "summation": "md5"
     },
     {
       "name": "voicesofbay-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660156313",
-      "size": "438272",
-      "md5": "0aed9205f8343e56b1a4481689468707",
-      "crc32": "b224a30e",
-      "sha1": "657302136d79375e572fc39cc8b65ae6451fc7ef",
+      "mtime": "1660195859",
+      "size": "442368",
+      "md5": "e862284782d7b1aae8a7b60ec8092ce6",
+      "crc32": "21badefd",
+      "sha1": "6e8ee2be662a55d525ae9e457ff81972ffc48f6b",
       "format": "Metadata"
     },
     {
@@ -3652,9 +3714,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 350,
-  "item_last_updated": 1660156354,
-  "item_size": 18510442,
+  "files_count": 356,
+  "item_last_updated": 1660196475,
+  "item_size": 18742485,
   "metadata": {
     "identifier": "voicesofbay-2022",
     "collection": [
@@ -3671,14 +3733,10 @@
     "publicdate": "2022-07-09 04:04:49",
     "addeddate": "2022-07-09 04:04:49"
   },
-  "server": "ia801503.us.archive.org",
-  "uniq": 918288009,
-  "voicesofbay-2022": {
-    "url": "https://voicesofmontereybay.org/",
-    "job_id": "spn2-09a6c3dae4cd1bd77077d63a30bdf26a750697b0"
-  },
+  "server": "ia601503.us.archive.org",
+  "uniq": 1721552655,
   "workable_servers": [
-    "ia801503.us.archive.org",
-    "ia601503.us.archive.org"
+    "ia601503.us.archive.org",
+    "ia801503.us.archive.org"
   ]
 }

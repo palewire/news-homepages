@@ -1,5 +1,5 @@
 {
-  "created": 1660179719,
+  "created": 1660225970,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/8/items/thedbk-2022",
@@ -9838,31 +9838,93 @@
       "format": "JSON"
     },
     {
+      "name": "thedbk-2022-08-11T01:28:12.610889-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660195700",
+      "size": "41256",
+      "md5": "9b2a5838766a0c8bde4a305fd767e68c",
+      "crc32": "7aed6732",
+      "sha1": "9edfb387cddfcca4e31c2c800c35fa066269abb4",
+      "format": "JSON"
+    },
+    {
+      "name": "thedbk-2022-08-11T01:28:12.610889-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660195701",
+      "size": "41758",
+      "md5": "a309680538c9b1b7a6543fae9bbe8c5d",
+      "crc32": "4b2ce248",
+      "sha1": "1c9b37761856b45e9749d971803fb51b14555e7a",
+      "format": "JSON"
+    },
+    {
+      "name": "thedbk-2022-08-11T01:28:12.610889-04:00.jpg",
+      "source": "original",
+      "mtime": "1660195699",
+      "size": "312487",
+      "md5": "e558697a6eaa1faddbccb8e1a4b65bc6",
+      "crc32": "410c6921",
+      "sha1": "bd0141a2bb20be3252a84acab26374f2b98cc28f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thedbk-2022-08-11T01:28:12.610889-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660195703",
+      "size": "1425",
+      "md5": "c1b2d61b0cb329bdf6d69fc054c48ac3",
+      "crc32": "59544c0b",
+      "sha1": "08d53de925a59fc7a6f3dfb517b0cbd4a48972ef",
+      "format": "JSON"
+    },
+    {
+      "name": "thedbk-2022-08-11T01:28:12.610889-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660195704",
+      "size": "261",
+      "md5": "d425a6ea9848f933d2fdb1f26ae2d7f6",
+      "crc32": "5ab91c64",
+      "sha1": "c291c27eb90bb76551c65be79151b62009b27b01",
+      "format": "JSON"
+    },
+    {
+      "name": "thedbk-2022-08-11T01:28:12.610889-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thedbk-2022-08-11T01:28:12.610889-04:00.jpg",
+      "mtime": "1660196691",
+      "size": "10895",
+      "md5": "4bea943c4d0180e5304e6196d314cd90",
+      "crc32": "94d8ba31",
+      "sha1": "6509722dcc0accc395eb9c542f1bfd2f1ae873ed"
+    },
+    {
       "name": "thedbk-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cd6a9c62bba417829bf8857f1f0c1d84975f381b",
-      "mtime": "1660156312",
-      "size": "197993",
-      "md5": "e8ad9ac212fb90348c6b079fc44eacdb",
-      "crc32": "a13015de",
-      "sha1": "8210a9632a9ac8546c83271eb746514845730a67",
+      "btih": "a257d3648eafd6bc11b664d9c5f980e286e5d101",
+      "mtime": "1660196716",
+      "size": "199247",
+      "md5": "4ea3acc23e9f8c035a42f80c318d33ee",
+      "crc32": "8f56bfeb",
+      "sha1": "43b75691d0fed225eca70c2c79df26caa2258e2f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thedbk-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "972cbcc8b02191a884c8942fabd4bc29",
+      "md5": "6689bac900a5e9ca5f1e9328773d1781",
       "summation": "md5"
     },
     {
       "name": "thedbk-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660156267",
-      "size": "1105920",
-      "md5": "59d23e9daa46a9d1ad96da6f4465de1c",
-      "crc32": "1e6433e5",
-      "sha1": "90f154b66a53983b709faeb2adf2dc1e4c210b36",
+      "mtime": "1660195710",
+      "size": "1114112",
+      "md5": "eafb0f6b0a2df877fefc7380a3414a13",
+      "crc32": "a25fd664",
+      "sha1": "8b454b4efe487f6a6ca5a5b85a9003bb3580c3f6",
       "format": "Metadata"
     },
     {
@@ -9876,9 +9938,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 943,
-  "item_last_updated": 1660156312,
-  "item_size": 92455921,
+  "files_count": 949,
+  "item_last_updated": 1660196716,
+  "item_size": 92873449,
   "metadata": {
     "identifier": "thedbk-2022",
     "collection": [
@@ -9898,9 +9960,10 @@
   "server": "ia802508.us.archive.org",
   "thedbk-2022": {
     "url": "https://dbknews.com/",
-    "job_id": "spn2-1d0daccd4ad927e72dd5edeeea42c1ea95a1a2f2"
+    "job_id": "spn2-1d0daccd4ad927e72dd5edeeea42c1ea95a1a2f2",
+    "message": "The capture will start in ~1 minute because our service is currently overloaded. You may close your browser window and the page will still be saved."
   },
-  "uniq": 388665678,
+  "uniq": 354267449,
   "workable_servers": [
     "ia802508.us.archive.org",
     "ia902508.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1660179916,
+  "created": 1660196438,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/29/items/wfaa-2022",
@@ -2492,31 +2492,83 @@
       "format": "JSON"
     },
     {
+      "name": "wfaa-2022-08-11T00:31:48.143044-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660195911",
+      "size": "6706",
+      "md5": "616bb4024ec9ce43f8c6712e393652a7",
+      "crc32": "c2a65cd8",
+      "sha1": "7f9a7c4007793918a1a14c0cc6088a920ab9580c",
+      "format": "JSON"
+    },
+    {
+      "name": "wfaa-2022-08-11T00:31:48.143044-05:00.jpg",
+      "source": "original",
+      "mtime": "1660195910",
+      "size": "264129",
+      "md5": "5ab213e8fdc92d6822b3afc11af30798",
+      "crc32": "e2a5eb16",
+      "sha1": "e8e71c291e39614f75636e56f9ced66ec5d8fad2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wfaa-2022-08-11T00:31:48.143044-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660195913",
+      "size": "1440",
+      "md5": "40ea6224885b35a8105e37576da0e3af",
+      "crc32": "91bef911",
+      "sha1": "88f8946c5938f7aa888c7ce9db4168d691608869",
+      "format": "JSON"
+    },
+    {
+      "name": "wfaa-2022-08-11T00:31:48.143044-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660195914",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "wfaa-2022-08-11T00:31:48.143044-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wfaa-2022-08-11T00:31:48.143044-05:00.jpg",
+      "mtime": "1660196422",
+      "size": "9610",
+      "md5": "8bbb4d10d675a69d66dacad5802e4e68",
+      "crc32": "fc35f96c",
+      "sha1": "a132066b4b17c4526f7ba2a2f869805d9bcd2ef0"
+    },
+    {
       "name": "wfaa-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5e846e54802b1d99103e85d526784218b105012c",
-      "mtime": "1660156519",
-      "size": "50680",
-      "md5": "c617b13d367b93574553c70e46c0e496",
-      "crc32": "bac6ec54",
-      "sha1": "6721505d1414fd784c0b582d328bfc6fdd23cbf3",
+      "btih": "e02f812bdc1008cd3cd10989b1ae6c089d4201e0",
+      "mtime": "1660196428",
+      "size": "51693",
+      "md5": "eaa1d3751b1c7ce2b4ec32f54e6e8c62",
+      "crc32": "153d6209",
+      "sha1": "ee986c6ad1b90ba59c6c898571a480cfa6966057",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wfaa-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "635266f996f85c9f39d9a5cffd4e80ce",
+      "md5": "db1cd9e73282fdf53f422f23aca40406",
       "summation": "md5"
     },
     {
       "name": "wfaa-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660156479",
-      "size": "311296",
-      "md5": "17c0fcaf585b6bc3ae233d3b713437a2",
-      "crc32": "dc156011",
-      "sha1": "a6f738cbede32a16bb9657fbcbb257f0f11807b1",
+      "mtime": "1660195919",
+      "size": "315392",
+      "md5": "64678a96520c7d040762cfbee7412652",
+      "crc32": "30295252",
+      "sha1": "523fcd68c4ff2b07ef1791cd60e9c33b06ae69f7",
       "format": "Metadata"
     },
     {
@@ -2530,9 +2582,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 243,
-  "item_last_updated": 1660156519,
-  "item_size": 17492595,
+  "files_count": 248,
+  "item_last_updated": 1660196428,
+  "item_size": 17779791,
   "metadata": {
     "identifier": "wfaa-2022",
     "collection": [
@@ -2550,12 +2602,7 @@
     "addeddate": "2022-07-18 00:06:04"
   },
   "server": "ia801500.us.archive.org",
-  "uniq": 1290144236,
-  "wfaa-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
+  "uniq": 1258093592,
   "workable_servers": [
     "ia801500.us.archive.org",
     "ia601500.us.archive.org"

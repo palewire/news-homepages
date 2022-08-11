@@ -1,5 +1,5 @@
 {
-  "created": 1660179808,
+  "created": 1660226091,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/1/items/timesherald-2022",
@@ -2406,31 +2406,93 @@
       "sha1": "7b3dd1bbbeb73717d4db9113912763fd14a3b1d1"
     },
     {
+      "name": "timesherald-2022-08-10T22:28:46.015932-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660184929",
+      "size": "35359",
+      "md5": "a1cba04563f0625ac17d4812583618bf",
+      "crc32": "47e3df91",
+      "sha1": "cc33a52ad061486286bfa1dea36b13468852db40",
+      "format": "JSON"
+    },
+    {
+      "name": "timesherald-2022-08-10T22:28:46.015932-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660184930",
+      "size": "24963",
+      "md5": "d533c9e2eee80242ff84a482e74764f6",
+      "crc32": "52ca487a",
+      "sha1": "360a0d7b4e1e9c98f9040660289eeeb436db75b0",
+      "format": "JSON"
+    },
+    {
+      "name": "timesherald-2022-08-10T22:28:46.015932-04:00.jpg",
+      "source": "original",
+      "mtime": "1660184927",
+      "size": "269454",
+      "md5": "1abcda830a2d7e7dc46916795005d7f5",
+      "crc32": "c8f29604",
+      "sha1": "8824fcd016f9dfe648f7a1f79fe32ab25c73d7e8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "timesherald-2022-08-10T22:28:46.015932-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660184932",
+      "size": "1476",
+      "md5": "8df8a91575e83f840516d6d2eaa32527",
+      "crc32": "598d7b02",
+      "sha1": "4280a50c192c57f7396029f79a21dc46a0ec9e1d",
+      "format": "JSON"
+    },
+    {
+      "name": "timesherald-2022-08-10T22:28:46.015932-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660184933",
+      "size": "104",
+      "md5": "2ffd51792a5d58a24db1524277c7e7e8",
+      "crc32": "e97cda1d",
+      "sha1": "eccc11cf0511c4d3e619612f9e1a94958103a1b6",
+      "format": "JSON"
+    },
+    {
+      "name": "timesherald-2022-08-10T22:28:46.015932-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "timesherald-2022-08-10T22:28:46.015932-04:00.jpg",
+      "mtime": "1660185133",
+      "size": "8988",
+      "md5": "2d0bc56b474260a9b5053abd91e6f6cf",
+      "crc32": "dea29e5f",
+      "sha1": "9a05f05704e247e89a91ed54e81d417b175ff91c"
+    },
+    {
       "name": "timesherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9fd79b93509e3c05868f9781834f5ff5a31f46ca",
-      "mtime": "1660153962",
-      "size": "50672",
-      "md5": "2bb50e08572a2f91f06d7926b38fc848",
-      "crc32": "1b3f61a4",
-      "sha1": "08e8d0631372abc5fea19a98a492531178a0d876",
+      "btih": "c325ff709b2988683ad350d75e40a32121b3c08c",
+      "mtime": "1660185144",
+      "size": "51935",
+      "md5": "d2af90205ed29d4e1826526edb757b36",
+      "crc32": "06180ed9",
+      "sha1": "3f58d8c3fa2485e2a4716e8556b7b41641572f8f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "timesherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f228dd21acec1a1daf81dd83f4148cf8",
+      "md5": "149e12be80e9ddf18d2704a13c4aeb4c",
       "summation": "md5"
     },
     {
       "name": "timesherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660153895",
-      "size": "303104",
-      "md5": "3128d74ee3dfdf4f626715c7c4764a9b",
-      "crc32": "5dea3cc8",
-      "sha1": "c5166a626173213428cd7e1330358a2d83c672fa",
+      "mtime": "1660184938",
+      "size": "315392",
+      "md5": "8077204cb088d4b6fef77aacc82bd3cb",
+      "crc32": "bc593272",
+      "sha1": "e268dff0fedf349da04f983d14885880dd5fa994",
       "format": "Metadata"
     },
     {
@@ -2444,9 +2506,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 235,
-  "item_last_updated": 1660153962,
-  "item_size": 14755621,
+  "files_count": 241,
+  "item_last_updated": 1660185144,
+  "item_size": 15109516,
   "metadata": {
     "identifier": "timesherald-2022",
     "collection": [
@@ -2465,11 +2527,10 @@
   },
   "server": "ia801407.us.archive.org",
   "timesherald-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
+    "url": "https://www.times-herald.com",
+    "job_id": "spn2-5572070fcd4490beb9603eb4b0c267c467e7a75b"
   },
-  "uniq": 1343820582,
+  "uniq": 665021578,
   "workable_servers": [
     "ia801407.us.archive.org",
     "ia601407.us.archive.org"

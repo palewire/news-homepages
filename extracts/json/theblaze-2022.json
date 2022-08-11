@@ -1,5 +1,5 @@
 {
-  "created": 1660160737,
+  "created": 1660225949,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/21/items/theblaze-2022",
@@ -11298,31 +11298,93 @@
       "sha1": "24db5d7bebc48f26890fa22bbd253a2c7d567c90"
     },
     {
+      "name": "theblaze-2022-08-11T01:27:18.247857-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660195644",
+      "size": "48440",
+      "md5": "3354732cc68113d29ef7285705305b75",
+      "crc32": "9ee6e4e9",
+      "sha1": "968e256f3be49618d954d53628ce493d3b95c211",
+      "format": "JSON"
+    },
+    {
+      "name": "theblaze-2022-08-11T01:27:18.247857-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660195646",
+      "size": "84351",
+      "md5": "30e8d81454959d4d00a03c2584f26373",
+      "crc32": "1e4115c5",
+      "sha1": "16a42413930123cf2968f4e99fd3c38aee543e66",
+      "format": "JSON"
+    },
+    {
+      "name": "theblaze-2022-08-11T01:27:18.247857-04:00.jpg",
+      "source": "original",
+      "mtime": "1660195643",
+      "size": "281894",
+      "md5": "2415159fc4039d3aeb3e24c67c9db527",
+      "crc32": "3f88bf0d",
+      "sha1": "d63fe7e946755197310b818c0bf486c9d444f11d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theblaze-2022-08-11T01:27:18.247857-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660195647",
+      "size": "1477",
+      "md5": "d31c9a87a52a2ce3776f25110068b918",
+      "crc32": "9e8665e2",
+      "sha1": "316c2b11eac1c35e66498f14816f6c234fdf20a7",
+      "format": "JSON"
+    },
+    {
+      "name": "theblaze-2022-08-11T01:27:18.247857-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660195649",
+      "size": "266",
+      "md5": "67e23bf8fb5d9c5b412dc5c383c991e5",
+      "crc32": "da6db4fa",
+      "sha1": "6257468eb728040e41000527cf8fa357848c7da9",
+      "format": "JSON"
+    },
+    {
+      "name": "theblaze-2022-08-11T01:27:18.247857-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theblaze-2022-08-11T01:27:18.247857-04:00.jpg",
+      "mtime": "1660196284",
+      "size": "10521",
+      "md5": "29213f14b1c017a7143d5595b6b7cedf",
+      "crc32": "a3f34e1e",
+      "sha1": "af787b3c745f1a24798d68e9733d53b708ab7a76"
+    },
+    {
       "name": "theblaze-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2ab3ce898ca45eddfba8edb317c1b22080814e6c",
-      "mtime": "1660160675",
-      "size": "229325",
-      "md5": "fefdbc724a92eb580e95147977c6443e",
-      "crc32": "0d30486e",
-      "sha1": "697306d09fb9c76890ad60e05740682c2e9e0976",
+      "btih": "b7f84ce2e2c36537b88e5efba8188cb6878e473c",
+      "mtime": "1660196307",
+      "size": "230591",
+      "md5": "79752490a7953d7ed48021fa15660ba2",
+      "crc32": "908fa81b",
+      "sha1": "8be16806177b310c4c89ad0b39e7e87d5eff6fb3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theblaze-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1d3c9385d6b6fef332ee05f4a67cdd80",
+      "md5": "f5c6ba27cc9797008dabbb4b945be6cd",
       "summation": "md5"
     },
     {
       "name": "theblaze-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660160359",
-      "size": "1265664",
-      "md5": "abf8931164db64293c54b356ac4ca3ec",
-      "crc32": "31832f84",
-      "sha1": "e0b04252fabf55760c4dfaff49987923dcc285f7",
+      "mtime": "1660195655",
+      "size": "1273856",
+      "md5": "a57c05e1f1f1813681f17861005c2ecf",
+      "crc32": "7f833ce2",
+      "sha1": "49172ecff57c81d420cf0dbc25ea449d22dc0deb",
       "format": "Metadata"
     },
     {
@@ -11336,9 +11398,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1082,
-  "item_last_updated": 1660160675,
-  "item_size": 109502627,
+  "files_count": 1088,
+  "item_last_updated": 1660196307,
+  "item_size": 109939034,
   "metadata": {
     "identifier": "theblaze-2022",
     "collection": [
@@ -11355,10 +11417,15 @@
     "publicdate": "2022-03-25 18:27:04",
     "addeddate": "2022-03-25 18:27:04"
   },
-  "server": "ia802502.us.archive.org",
-  "uniq": 1417021203,
+  "server": "ia902502.us.archive.org",
+  "theblaze-2022": {
+    "url": "https://www.theblaze.com/",
+    "job_id": "spn2-c82dc2f50207633f2dcbd0ec8c411e7396a4884b",
+    "message": "The capture will start in ~1 minute because our service is currently overloaded. You may close your browser window and the page will still be saved."
+  },
+  "uniq": 1014875155,
   "workable_servers": [
-    "ia802502.us.archive.org",
-    "ia902502.us.archive.org"
+    "ia902502.us.archive.org",
+    "ia802502.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1660179534,
+  "created": 1660225695,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/31/items/repubblica-2022",
@@ -68,31 +68,93 @@
       "sha1": "50e479d1dca7318a41bdfd41e94db4696fcf24d2"
     },
     {
+      "name": "repubblica-2022-08-11T07:23:12.644502+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660195395",
+      "size": "82366",
+      "md5": "0ff0bcee318549f9f5e4778d2fecd1c8",
+      "crc32": "64e371e0",
+      "sha1": "1c13c1e1a2553e218287f50a8e72989c7c3fd098",
+      "format": "JSON"
+    },
+    {
+      "name": "repubblica-2022-08-11T07:23:12.644502+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660195397",
+      "size": "136832",
+      "md5": "e32a102ed10f0039a3748cc1cfa88b75",
+      "crc32": "4396b257",
+      "sha1": "d5b65429df2f8ba8c78bf33c3f1e85c7b7a73537",
+      "format": "JSON"
+    },
+    {
+      "name": "repubblica-2022-08-11T07:23:12.644502+02:00.jpg",
+      "source": "original",
+      "mtime": "1660195394",
+      "size": "277969",
+      "md5": "e567568cd543611a694da053f38f18ea",
+      "crc32": "c3c5a1ff",
+      "sha1": "3e1abd0dfd4d45e920d144c0cafb0e8a48a25fe8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "repubblica-2022-08-11T07:23:12.644502+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660195398",
+      "size": "1486",
+      "md5": "46c2644857781408df7b8836a95c9ea6",
+      "crc32": "10c3e69c",
+      "sha1": "304f5556e9b4a641820c3923665f39de96c141e3",
+      "format": "JSON"
+    },
+    {
+      "name": "repubblica-2022-08-11T07:23:12.644502+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1660195400",
+      "size": "102",
+      "md5": "2e98794ea1e49d13e64d37b6c88f1a8f",
+      "crc32": "dae2f42f",
+      "sha1": "d303bd5ccc49cb741ea3dfecd1eedb537523bee4",
+      "format": "JSON"
+    },
+    {
+      "name": "repubblica-2022-08-11T07:23:12.644502+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "repubblica-2022-08-11T07:23:12.644502+02:00.jpg",
+      "mtime": "1660196030",
+      "size": "9091",
+      "md5": "565ecfb36858c8b37bb96e93953594f1",
+      "crc32": "40914c33",
+      "sha1": "ace45e8be5177b87500ef907be7b45dc582b0429"
+    },
+    {
       "name": "repubblica-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5f116fa21cbb1e1973a0856303db37612502544d",
-      "mtime": "1660156406",
-      "size": "2714",
-      "md5": "7cd96c179c97ae38810ad4104899c0cf",
-      "crc32": "88abecf1",
-      "sha1": "228608e121cbd01e6b173518c1df5aa48b4f6523",
+      "btih": "fd8ab58c5b45c462b45dd825659f5458fce7aa8f",
+      "mtime": "1660196034",
+      "size": "3992",
+      "md5": "e67a9572c62457074f988442a353a631",
+      "crc32": "ff07356e",
+      "sha1": "fdd289790f4504b9fb0a20cafffea86d9fe59912",
       "format": "Archive BitTorrent"
     },
     {
       "name": "repubblica-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0c04f3231ae829f065b538c915d4adf2",
+      "md5": "3f633a873ebea1b577264eed974a78d8",
       "summation": "md5"
     },
     {
       "name": "repubblica-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660156302",
-      "size": "28672",
-      "md5": "58cf24db543c727c753e9f0c4af48860",
-      "crc32": "f5e368a9",
-      "sha1": "039b61426546ecb5c4e804163e04983bdc3c81a6",
+      "mtime": "1660195403",
+      "size": "32768",
+      "md5": "56544f77781fa4b4a8a0280bf209c53c",
+      "crc32": "8dba2511",
+      "sha1": "4029c214ee436b98f2fcb7e90e272a6462ed374e",
       "format": "Metadata"
     },
     {
@@ -106,9 +168,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 10,
-  "item_last_updated": 1660156406,
-  "item_size": 596976,
+  "files_count": 16,
+  "item_last_updated": 1660196034,
+  "item_size": 1110196,
   "metadata": {
     "identifier": "repubblica-2022",
     "collection": [
@@ -125,51 +187,14 @@
     "publicdate": "2022-08-10 18:29:12",
     "addeddate": "2022-08-10 18:29:12"
   },
-  "repubblica-2022": [
-    {
-      "url": "https://www.repubblica.it/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_repubblica_it-_-2022_08_10_17_08_06.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_repubblica_it-_-2022_08_10_17_08_06.report.json",
-      "summary": {
-        "performance": 0.51,
-        "accessibility": 0.75,
-        "best-practices": 0.75,
-        "seo": 0.84,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.repubblica.it/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_repubblica_it-_-2022_08_10_17_08_40.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_repubblica_it-_-2022_08_10_17_08_40.report.json",
-      "summary": {
-        "performance": 0.7,
-        "accessibility": 0.75,
-        "best-practices": 0.75,
-        "seo": 0.84,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.repubblica.it/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_repubblica_it-_-2022_08_10_17_08_25.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_repubblica_it-_-2022_08_10_17_08_25.report.json",
-      "summary": {
-        "performance": 0.52,
-        "accessibility": 0.75,
-        "best-practices": 0.75,
-        "seo": 0.84,
-        "pwa": 0.4
-      }
-    }
-  ],
-  "server": "ia802504.us.archive.org",
-  "uniq": 544952584,
+  "repubblica-2022": {
+    "url": "https://www.repubblica.it/",
+    "job_id": "spn2-b230aeb08d72cbd0d90b12fac523ddf6f9fb9e2b"
+  },
+  "server": "ia902504.us.archive.org",
+  "uniq": 1868880448,
   "workable_servers": [
-    "ia802504.us.archive.org",
-    "ia902504.us.archive.org"
+    "ia902504.us.archive.org",
+    "ia802504.us.archive.org"
   ]
 }
