@@ -6,6 +6,7 @@ from urllib.parse import urlparse
 
 import pandas as pd
 import pytz
+from iso3166 import countries
 
 # Set paths for key files
 THIS_DIR = Path(__file__).parent.absolute()
@@ -63,6 +64,7 @@ def get_site_df() -> pd.DataFrame:
     """
     df = pd.read_csv(SITES_PATH).sort_values("handle")
     df["bundle_list"] = df.bundle.str.split("|")
+    df["country_name"] = df.country.apply(lambda x: countries.get(x))
     return df
 
 
