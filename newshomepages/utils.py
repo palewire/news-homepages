@@ -51,7 +51,7 @@ def get_site_df() -> pd.DataFrame:
     """
     df = pd.read_csv(SITES_PATH).sort_values("handle")
     df["bundle_list"] = df.bundle.str.split("|")
-    df["country_name"] = df.country.apply(lambda x: countries.get(x))
+    df["country_name"] = df.country.apply(lambda x: countries.get(x).name)
     return df
 
 
