@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 1 screenshots with the Internet Archive.
+The archiving routine has saved 3 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/clarincom-2022/clarincom-2022-08-10T14:46:13.824533-03:00.jpg">
+  <img src="https://archive.org/download/clarincom-2022/clarincom-2022-08-10T14:46:13.824533-03:00.jpg"
+     alt="Clarín at 2022-08-10 14:46:15-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/clarincom-2022/clarincom-2022-08-10T14:46:13.824533-03:00.jpg">August 10 at 2:46 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/clarincom-2022/clarincom-2022-08-09T23:33:41.971285-03:00.jpg">
+  <img src="https://archive.org/download/clarincom-2022/clarincom-2022-08-09T23:33:41.971285-03:00.jpg"
+     alt="Clarín at 2022-08-09 23:33:44-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/clarincom-2022/clarincom-2022-08-09T23:33:41.971285-03:00.jpg">August 9 at 11:33 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/clarincom-2022/clarincom-2022-08-09T11:35:57.391597-03:00.jpg">
@@ -41,7 +59,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 1 hyperlink lists with the Internet Archive.
+The archiving routine has saved 3 hyperlink lists with the Internet Archive.
 
 
 
@@ -49,12 +67,14 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 10 at 2:46 PM](https://archive.org/download/clarincom-2022/clarincom-2022-08-10T14:46:13.824533-03:00.hyperlinks.json) |
+| [August 9 at 11:33 PM](https://archive.org/download/clarincom-2022/clarincom-2022-08-09T23:33:41.971285-03:00.hyperlinks.json) |
 | [August 9 at 11:36 AM](https://archive.org/download/clarincom-2022/clarincom-2022-08-09T11:35:57.391597-03:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 1 accessibility trees with the Internet Archive.
+The archiving routine has saved 3 accessibility trees with the Internet Archive.
 
 
 
@@ -62,13 +82,15 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 10 at 2:46 PM](https://archive.org/download/clarincom-2022/clarincom-2022-08-10T14:46:13.824533-03:00.accessibility.json) |
+| [August 9 at 11:33 PM](https://archive.org/download/clarincom-2022/clarincom-2022-08-09T23:33:41.971285-03:00.accessibility.json) |
 | [August 9 at 11:36 AM](https://archive.org/download/clarincom-2022/clarincom-2022-08-09T11:35:57.391597-03:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 1 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 3 Lighthouse audits with the Internet Archive.
 
 
 
@@ -76,6 +98,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 10 at 2:46 PM](https://archive.org/download/clarincom-2022/clarincom-2022-08-10T14:46:13.824533-03:00.lighthouse.json) |
+| [August 9 at 11:33 PM](https://archive.org/download/clarincom-2022/clarincom-2022-08-09T23:33:41.971285-03:00.lighthouse.json) |
 | [August 9 at 11:36 AM](https://archive.org/download/clarincom-2022/clarincom-2022-08-09T11:35:57.391597-03:00.lighthouse.json) |
 
 

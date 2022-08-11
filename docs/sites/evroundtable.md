@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 95 screenshots with the Internet Archive.
+The archiving routine has saved 98 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-08-10T19:44:00.029215-05:00.jpg">
+  <img src="https://archive.org/download/evroundtable-2022/evroundtable-2022-08-10T19:44:00.029215-05:00.jpg"
+     alt="Evanston RoundTable at 2022-08-10 19:44:01-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-08-10T19:44:00.029215-05:00.jpg">August 10 at 7:44 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-08-10T14:34:15.667328-05:00.jpg">
+  <img src="https://archive.org/download/evroundtable-2022/evroundtable-2022-08-10T14:34:15.667328-05:00.jpg"
+     alt="Evanston RoundTable at 2022-08-10 14:34:19-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-08-10T14:34:15.667328-05:00.jpg">August 10 at 2:34 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-08-10T07:58:46.264177-05:00.jpg">
+  <img src="https://archive.org/download/evroundtable-2022/evroundtable-2022-08-10T07:58:46.264177-05:00.jpg"
+     alt="Evanston RoundTable at 2022-08-10 07:58:47-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-08-10T07:58:46.264177-05:00.jpg">August 10 at 7:58 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-08-09T18:29:17.594252-05:00.jpg">
   <img src="https://archive.org/download/evroundtable-2022/evroundtable-2022-08-09T18:29:17.594252-05:00.jpg"
      alt="Evanston RoundTable at 2022-08-09 18:29:20-05:00 local time"
@@ -192,38 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-08-07T07:29:10.467878-05:00.jpg">August 7 at 7:29 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-08-06T19:32:19.861957-05:00.jpg">
-  <img src="https://archive.org/download/evroundtable-2022/evroundtable-2022-08-06T19:32:19.861957-05:00.jpg"
-     alt="Evanston RoundTable at 2022-08-06 19:32:24-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-08-06T19:32:19.861957-05:00.jpg">August 6 at 7:32 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-08-06T11:44:22.283628-05:00.jpg">
-  <img src="https://archive.org/download/evroundtable-2022/evroundtable-2022-08-06T11:44:22.283628-05:00.jpg"
-     alt="Evanston RoundTable at 2022-08-06 11:44:24-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-08-06T11:44:22.283628-05:00.jpg">August 6 at 11:44 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-08-06T07:22:01.338396-05:00.jpg">
-  <img src="https://archive.org/download/evroundtable-2022/evroundtable-2022-08-06T07:22:01.338396-05:00.jpg"
-     alt="Evanston RoundTable at 2022-08-06 07:22:02-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/evroundtable-2022/evroundtable-2022-08-06T07:22:01.338396-05:00.jpg">August 6 at 7:22 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 96 hyperlink lists with the Internet Archive.
+The archiving routine has saved 99 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 10 at 7:44 PM](https://archive.org/download/evroundtable-2022/evroundtable-2022-08-10T19:44:00.029215-05:00.hyperlinks.json) |
+| [August 10 at 2:34 PM](https://archive.org/download/evroundtable-2022/evroundtable-2022-08-10T14:34:15.667328-05:00.hyperlinks.json) |
+| [August 10 at 7:58 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-08-10T07:58:46.264177-05:00.hyperlinks.json) |
 | [August 9 at 6:29 PM](https://archive.org/download/evroundtable-2022/evroundtable-2022-08-09T18:29:17.594252-05:00.hyperlinks.json) |
 | [August 9 at 1:02 PM](https://archive.org/download/evroundtable-2022/evroundtable-2022-08-09T13:02:38.133506-05:00.hyperlinks.json) |
 | [August 9 at 7:45 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-08-09T07:45:02.220559-05:00.hyperlinks.json) |
@@ -321,14 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 8 at 12:45 PM](https://archive.org/download/evroundtable-2022/evroundtable-2022-08-08T12:45:08.156737-05:00.hyperlinks.json) |
 | [August 8 at 6:26 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-08-08T06:26:49.824050-05:00.hyperlinks.json) |
 | [August 7 at 7:49 PM](https://archive.org/download/evroundtable-2022/evroundtable-2022-08-07T19:49:39.162251-05:00.hyperlinks.json) |
-| [August 7 at 12:13 PM](https://archive.org/download/evroundtable-2022/evroundtable-2022-08-07T12:13:18.399735-05:00.hyperlinks.json) |
-| [August 7 at 7:29 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-08-07T07:29:10.467878-05:00.hyperlinks.json) |
-| [August 6 at 7:32 PM](https://archive.org/download/evroundtable-2022/evroundtable-2022-08-06T19:32:19.861957-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 96 accessibility trees with the Internet Archive.
+The archiving routine has saved 99 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 10 at 7:44 PM](https://archive.org/download/evroundtable-2022/evroundtable-2022-08-10T19:44:00.029215-05:00.accessibility.json) |
+| [August 10 at 2:34 PM](https://archive.org/download/evroundtable-2022/evroundtable-2022-08-10T14:34:15.667328-05:00.accessibility.json) |
+| [August 10 at 7:58 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-08-10T07:58:46.264177-05:00.accessibility.json) |
 | [August 9 at 6:29 PM](https://archive.org/download/evroundtable-2022/evroundtable-2022-08-09T18:29:17.594252-05:00.accessibility.json) |
 | [August 9 at 1:02 PM](https://archive.org/download/evroundtable-2022/evroundtable-2022-08-09T13:02:38.133506-05:00.accessibility.json) |
 | [August 9 at 7:45 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-08-09T07:45:02.220559-05:00.accessibility.json) |
@@ -426,15 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 8 at 12:45 PM](https://archive.org/download/evroundtable-2022/evroundtable-2022-08-08T12:45:08.156737-05:00.accessibility.json) |
 | [August 8 at 6:26 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-08-08T06:26:49.824050-05:00.accessibility.json) |
 | [August 7 at 7:49 PM](https://archive.org/download/evroundtable-2022/evroundtable-2022-08-07T19:49:39.162251-05:00.accessibility.json) |
-| [August 7 at 12:13 PM](https://archive.org/download/evroundtable-2022/evroundtable-2022-08-07T12:13:18.399735-05:00.accessibility.json) |
-| [August 7 at 7:29 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-08-07T07:29:10.467878-05:00.accessibility.json) |
-| [August 6 at 7:32 PM](https://archive.org/download/evroundtable-2022/evroundtable-2022-08-06T19:32:19.861957-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 53 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 56 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 10 at 7:44 PM](https://archive.org/download/evroundtable-2022/evroundtable-2022-08-10T19:44:00.029215-05:00.lighthouse.json) |
+| [August 10 at 2:34 PM](https://archive.org/download/evroundtable-2022/evroundtable-2022-08-10T14:34:15.667328-05:00.lighthouse.json) |
+| [August 10 at 7:58 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-08-10T07:58:46.264177-05:00.lighthouse.json) |
 | [August 9 at 6:29 PM](https://archive.org/download/evroundtable-2022/evroundtable-2022-08-09T18:29:17.594252-05:00.lighthouse.json) |
 | [August 9 at 1:02 PM](https://archive.org/download/evroundtable-2022/evroundtable-2022-08-09T13:02:38.133506-05:00.lighthouse.json) |
 | [August 9 at 7:45 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-08-09T07:45:02.220559-05:00.lighthouse.json) |
@@ -532,9 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 8 at 12:45 PM](https://archive.org/download/evroundtable-2022/evroundtable-2022-08-08T12:45:08.156737-05:00.lighthouse.json) |
 | [August 8 at 6:26 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-08-08T06:26:49.824050-05:00.lighthouse.json) |
 | [August 7 at 7:49 PM](https://archive.org/download/evroundtable-2022/evroundtable-2022-08-07T19:49:39.162251-05:00.lighthouse.json) |
-| [August 7 at 12:13 PM](https://archive.org/download/evroundtable-2022/evroundtable-2022-08-07T12:13:18.399735-05:00.lighthouse.json) |
-| [August 7 at 7:29 AM](https://archive.org/download/evroundtable-2022/evroundtable-2022-08-07T07:29:10.467878-05:00.lighthouse.json) |
-| [August 6 at 7:32 PM](https://archive.org/download/evroundtable-2022/evroundtable-2022-08-06T19:32:19.861957-05:00.lighthouse.json) |
 
 
 

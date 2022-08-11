@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 522 screenshots with the Internet Archive.
+The archiving routine has saved 527 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,51 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T20:54:14.156338-04:00.jpg">
+  <img src="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T20:54:14.156338-04:00.jpg"
+     alt="NBC News at 2022-08-10 20:54:27-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T20:54:14.156338-04:00.jpg">August 10 at 8:54 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T17:16:22.680720-04:00.jpg">
+  <img src="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T17:16:22.680720-04:00.jpg"
+     alt="NBC News at 2022-08-10 17:16:34-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T17:16:22.680720-04:00.jpg">August 10 at 5:16 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T10:50:19.401162-04:00.jpg">
+  <img src="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T10:50:19.401162-04:00.jpg"
+     alt="NBC News at 2022-08-10 10:50:21-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T10:50:19.401162-04:00.jpg">August 10 at 10:50 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T09:11:57.999017-04:00.jpg">
+  <img src="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T09:11:57.999017-04:00.jpg"
+     alt="NBC News at 2022-08-10 09:12:26-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T09:11:57.999017-04:00.jpg">August 10 at 9:12 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-09T20:59:19.220306-04:00.jpg">
+  <img src="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-09T20:59:19.220306-04:00.jpg"
+     alt="NBC News at 2022-08-09 20:59:20-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-09T20:59:19.220306-04:00.jpg">August 9 at 8:59 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-09T17:14:16.148170-04:00.jpg">
   <img src="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-09T17:14:16.148170-04:00.jpg"
      alt="NBC News at 2022-08-09 17:14:26-04:00 local time"
@@ -174,56 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-08T08:44:29.467520-04:00.jpg">August 8 at 8:44 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-07T21:03:47.420878-04:00.jpg">
-  <img src="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-07T21:03:47.420878-04:00.jpg"
-     alt="NBC News at 2022-08-07 21:03:49-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-07T21:03:47.420878-04:00.jpg">August 7 at 9:03 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-07T17:14:49.313393-04:00.jpg">
-  <img src="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-07T17:14:49.313393-04:00.jpg"
-     alt="NBC News at 2022-08-07 17:15:11-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-07T17:14:49.313393-04:00.jpg">August 7 at 5:15 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-07T09:57:08.879573-04:00.jpg">
-  <img src="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-07T09:57:08.879573-04:00.jpg"
-     alt="NBC News at 2022-08-07 09:57:11-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-07T09:57:08.879573-04:00.jpg">August 7 at 9:57 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-07T08:40:06.958630-04:00.jpg">
-  <img src="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-07T08:40:06.958630-04:00.jpg"
-     alt="NBC News at 2022-08-07 08:40:15-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-07T08:40:06.958630-04:00.jpg">August 7 at 8:40 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-06T20:41:20.337917-04:00.jpg">
-  <img src="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-06T20:41:20.337917-04:00.jpg"
-     alt="NBC News at 2022-08-06 20:41:22-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-06T20:41:20.337917-04:00.jpg">August 6 at 8:41 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 503 hyperlink lists with the Internet Archive.
+The archiving routine has saved 508 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 10 at 8:54 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T20:54:14.156338-04:00.hyperlinks.json) |
+| [August 10 at 5:16 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T17:16:22.680720-04:00.hyperlinks.json) |
+| [August 10 at 10:50 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T10:50:19.401162-04:00.hyperlinks.json) |
+| [August 10 at 9:12 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T09:11:57.999017-04:00.hyperlinks.json) |
+| [August 9 at 8:59 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-09T20:59:19.220306-04:00.hyperlinks.json) |
 | [August 9 at 5:14 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-09T17:14:16.148170-04:00.hyperlinks.json) |
 | [August 9 at 10:27 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-09T10:27:25.527129-04:00.hyperlinks.json) |
 | [August 9 at 8:57 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-09T08:57:44.997975-04:00.hyperlinks.json) |
 | [August 8 at 8:54 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-08T20:54:17.048906-04:00.hyperlinks.json) |
 | [August 8 at 5:13 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-08T17:13:35.958954-04:00.hyperlinks.json) |
-| [August 8 at 10:08 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-08T10:08:11.137403-04:00.hyperlinks.json) |
-| [August 8 at 8:45 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-08T08:44:29.467520-04:00.hyperlinks.json) |
-| [August 7 at 9:03 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-07T21:03:47.420878-04:00.hyperlinks.json) |
-| [August 7 at 5:15 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-07T17:14:49.313393-04:00.hyperlinks.json) |
-| [August 7 at 9:57 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-07T09:57:08.879573-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 505 accessibility trees with the Internet Archive.
+The archiving routine has saved 510 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,22 +419,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 10 at 8:54 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T20:54:14.156338-04:00.accessibility.json) |
+| [August 10 at 5:16 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T17:16:22.680720-04:00.accessibility.json) |
+| [August 10 at 10:50 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T10:50:19.401162-04:00.accessibility.json) |
+| [August 10 at 9:12 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T09:11:57.999017-04:00.accessibility.json) |
+| [August 9 at 8:59 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-09T20:59:19.220306-04:00.accessibility.json) |
 | [August 9 at 5:14 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-09T17:14:16.148170-04:00.accessibility.json) |
 | [August 9 at 10:27 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-09T10:27:25.527129-04:00.accessibility.json) |
 | [August 9 at 8:57 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-09T08:57:44.997975-04:00.accessibility.json) |
 | [August 8 at 8:54 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-08T20:54:17.048906-04:00.accessibility.json) |
 | [August 8 at 5:13 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-08T17:13:35.958954-04:00.accessibility.json) |
-| [August 8 at 10:08 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-08T10:08:11.137403-04:00.accessibility.json) |
-| [August 8 at 8:45 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-08T08:44:29.467520-04:00.accessibility.json) |
-| [August 7 at 9:03 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-07T21:03:47.420878-04:00.accessibility.json) |
-| [August 7 at 5:15 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-07T17:14:49.313393-04:00.accessibility.json) |
-| [August 7 at 9:57 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-07T09:57:08.879573-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 69 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 74 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,16 +525,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 10 at 8:54 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T20:54:14.156338-04:00.lighthouse.json) |
+| [August 10 at 5:16 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T17:16:22.680720-04:00.lighthouse.json) |
+| [August 10 at 10:50 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T10:50:19.401162-04:00.lighthouse.json) |
+| [August 10 at 9:12 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T09:11:57.999017-04:00.lighthouse.json) |
+| [August 9 at 8:59 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-09T20:59:19.220306-04:00.lighthouse.json) |
 | [August 9 at 5:14 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-09T17:14:16.148170-04:00.lighthouse.json) |
 | [August 9 at 10:27 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-09T10:27:25.527129-04:00.lighthouse.json) |
 | [August 9 at 8:57 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-09T08:57:44.997975-04:00.lighthouse.json) |
 | [August 8 at 8:54 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-08T20:54:17.048906-04:00.lighthouse.json) |
 | [August 8 at 5:13 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-08T17:13:35.958954-04:00.lighthouse.json) |
-| [August 8 at 10:08 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-08T10:08:11.137403-04:00.lighthouse.json) |
-| [August 8 at 8:45 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-08T08:44:29.467520-04:00.lighthouse.json) |
-| [August 7 at 9:03 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-07T21:03:47.420878-04:00.lighthouse.json) |
-| [August 7 at 5:15 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-07T17:14:49.313393-04:00.lighthouse.json) |
-| [August 7 at 9:57 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-07T09:57:08.879573-04:00.lighthouse.json) |
 
 
 

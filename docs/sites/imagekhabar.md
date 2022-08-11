@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 33 screenshots with the Internet Archive.
+The archiving routine has saved 35 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-10T23:51:08.357888+05:45.jpg">
+  <img src="https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-10T23:51:08.357888+05:45.jpg"
+     alt="Imagekhabar at 2022-08-10 23:51:09+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-10T23:51:08.357888+05:45.jpg">August 10 at 11:51 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-10T09:46:22.678253+05:45.jpg">
+  <img src="https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-10T09:46:22.678253+05:45.jpg"
+     alt="Imagekhabar at 2022-08-10 09:46:25+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-10T09:46:22.678253+05:45.jpg">August 10 at 9:46 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-09T23:11:48.864414+05:45.jpg">
   <img src="https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-09T23:11:48.864414+05:45.jpg"
      alt="Imagekhabar at 2022-08-09 23:11:51+05:45 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-05T09:04:52.424082+05:45.jpg">August 5 at 9:04 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-04T21:08:43.567163+05:45.jpg">
-  <img src="https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-04T21:08:43.567163+05:45.jpg"
-     alt="Imagekhabar at 2022-08-04 21:08:45+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-04T21:08:43.567163+05:45.jpg">August 4 at 9:08 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-04T09:07:35.211743+05:45.jpg">
-  <img src="https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-04T09:07:35.211743+05:45.jpg"
-     alt="Imagekhabar at 2022-08-04 09:07:37+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-04T09:07:35.211743+05:45.jpg">August 4 at 9:07 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 32 hyperlink lists with the Internet Archive.
+The archiving routine has saved 34 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 10 at 11:51 PM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-10T23:51:08.357888+05:45.hyperlinks.json) |
+| [August 10 at 9:46 AM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-10T09:46:22.678253+05:45.hyperlinks.json) |
 | [August 9 at 11:11 PM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-09T23:11:48.864414+05:45.hyperlinks.json) |
 | [August 9 at 9:30 AM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-09T09:30:38.079529+05:45.hyperlinks.json) |
 | [August 8 at 10:46 PM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-08T22:46:21.047446+05:45.hyperlinks.json) |
@@ -322,13 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 7 at 9:09 AM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-07T09:08:57.010964+05:45.hyperlinks.json) |
 | [August 6 at 9:57 PM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-06T21:57:41.469997+05:45.hyperlinks.json) |
 | [August 6 at 10:36 AM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-06T10:35:55.237105+05:45.hyperlinks.json) |
-| [August 5 at 11:09 PM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-05T23:09:18.137523+05:45.hyperlinks.json) |
-| [August 5 at 9:04 AM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-05T09:04:52.424082+05:45.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 33 accessibility trees with the Internet Archive.
+The archiving routine has saved 35 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 10 at 11:51 PM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-10T23:51:08.357888+05:45.accessibility.json) |
+| [August 10 at 9:46 AM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-10T09:46:22.678253+05:45.accessibility.json) |
 | [August 9 at 11:11 PM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-09T23:11:48.864414+05:45.accessibility.json) |
 | [August 9 at 9:30 AM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-09T09:30:38.079529+05:45.accessibility.json) |
 | [August 8 at 10:46 PM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-08T22:46:21.047446+05:45.accessibility.json) |
@@ -427,14 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 7 at 9:08 AM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-07T09:08:57.010964+05:45.accessibility.json) |
 | [August 6 at 9:57 PM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-06T21:57:41.469997+05:45.accessibility.json) |
 | [August 6 at 10:35 AM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-06T10:35:55.237105+05:45.accessibility.json) |
-| [August 5 at 11:09 PM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-05T23:09:18.137523+05:45.accessibility.json) |
-| [August 5 at 9:04 AM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-05T09:04:52.424082+05:45.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 33 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 35 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 10 at 11:51 PM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-10T23:51:08.357888+05:45.lighthouse.json) |
+| [August 10 at 9:46 AM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-10T09:46:22.678253+05:45.lighthouse.json) |
 | [August 9 at 11:11 PM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-09T23:11:48.864414+05:45.lighthouse.json) |
 | [August 9 at 9:30 AM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-09T09:30:38.079529+05:45.lighthouse.json) |
 | [August 8 at 10:46 PM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-08T22:46:21.047446+05:45.lighthouse.json) |
@@ -533,8 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 7 at 9:09 AM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-07T09:08:57.010964+05:45.lighthouse.json) |
 | [August 6 at 9:57 PM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-06T21:57:41.469997+05:45.lighthouse.json) |
 | [August 6 at 10:36 AM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-06T10:35:55.237105+05:45.lighthouse.json) |
-| [August 5 at 11:09 PM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-05T23:09:18.137523+05:45.lighthouse.json) |
-| [August 5 at 9:04 AM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-05T09:04:52.424082+05:45.lighthouse.json) |
 
 
 

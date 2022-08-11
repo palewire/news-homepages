@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 27 screenshots with the Internet Archive.
+The archiving routine has saved 29 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-08-10T14:33:42.261612-04:00.jpg">
+  <img src="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-08-10T14:33:42.261612-04:00.jpg"
+     alt="WPLG Local 10 News at 2022-08-10 14:33:43-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-08-10T14:33:42.261612-04:00.jpg">August 10 at 2:33 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-08-10T01:37:57.927047-04:00.jpg">
+  <img src="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-08-10T01:37:57.927047-04:00.jpg"
+     alt="WPLG Local 10 News at 2022-08-10 01:37:59-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-08-10T01:37:57.927047-04:00.jpg">August 10 at 1:37 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-08-09T14:01:01.139955-04:00.jpg">
@@ -118,29 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-08-05T00:48:37.093495-04:00.jpg">August 5 at 12:48 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-08-04T13:10:09.376208-04:00.jpg">
-  <img src="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-08-04T13:10:09.376208-04:00.jpg"
-     alt="WPLG Local 10 News at 2022-08-04 13:10:13-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-08-04T13:10:09.376208-04:00.jpg">August 4 at 1:10 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-08-04T00:42:47.017920-04:00.jpg">
-  <img src="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-08-04T00:42:47.017920-04:00.jpg"
-     alt="WPLG Local 10 News at 2022-08-04 00:42:48-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wplglocal10-2022/wplglocal10-2022-08-04T00:42:47.017920-04:00.jpg">August 4 at 12:42 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 27 hyperlink lists with the Internet Archive.
+The archiving routine has saved 29 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 10 at 2:33 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-08-10T14:33:42.261612-04:00.hyperlinks.json) |
+| [August 10 at 1:38 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-08-10T01:37:57.927047-04:00.hyperlinks.json) |
 | [August 9 at 2:01 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-08-09T14:01:01.139955-04:00.hyperlinks.json) |
 | [August 9 at 1:15 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-08-09T01:15:29.533434-04:00.hyperlinks.json) |
 | [August 8 at 1:25 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-08-08T13:25:23.259015-04:00.hyperlinks.json) |
@@ -156,13 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 7 at 12:49 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-08-07T00:49:13.391340-04:00.hyperlinks.json) |
 | [August 6 at 12:32 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-08-06T12:32:07.131929-04:00.hyperlinks.json) |
 | [August 6 at 1:09 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-08-06T01:09:52.390602-04:00.hyperlinks.json) |
-| [August 5 at 2:05 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-08-05T14:05:15.564030-04:00.hyperlinks.json) |
-| [August 5 at 12:48 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-08-05T00:48:37.093495-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 27 accessibility trees with the Internet Archive.
+The archiving routine has saved 29 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 10 at 2:33 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-08-10T14:33:42.261612-04:00.accessibility.json) |
+| [August 10 at 1:38 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-08-10T01:37:57.927047-04:00.accessibility.json) |
 | [August 9 at 2:01 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-08-09T14:01:01.139955-04:00.accessibility.json) |
 | [August 9 at 1:15 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-08-09T01:15:29.533434-04:00.accessibility.json) |
 | [August 8 at 1:25 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-08-08T13:25:23.259015-04:00.accessibility.json) |
@@ -178,14 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [August 7 at 12:49 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-08-07T00:49:13.391340-04:00.accessibility.json) |
 | [August 6 at 12:32 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-08-06T12:32:07.131929-04:00.accessibility.json) |
 | [August 6 at 1:09 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-08-06T01:09:52.390602-04:00.accessibility.json) |
-| [August 5 at 2:05 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-08-05T14:05:15.564030-04:00.accessibility.json) |
-| [August 5 at 12:48 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-08-05T00:48:37.093495-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 29 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 10 at 2:33 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-08-10T14:33:42.261612-04:00.lighthouse.json) |
+| [August 10 at 1:38 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-08-10T01:37:57.927047-04:00.lighthouse.json) |
 | [August 9 at 2:01 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-08-09T14:01:01.139955-04:00.lighthouse.json) |
 | [August 9 at 1:15 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-08-09T01:15:29.533434-04:00.lighthouse.json) |
 | [August 8 at 1:25 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-08-08T13:25:23.259015-04:00.lighthouse.json) |
@@ -201,8 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 7 at 12:49 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-08-07T00:49:13.391340-04:00.lighthouse.json) |
 | [August 6 at 12:32 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-08-06T12:32:07.131929-04:00.lighthouse.json) |
 | [August 6 at 1:09 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-08-06T01:09:52.390602-04:00.lighthouse.json) |
-| [August 5 at 2:05 PM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-08-05T14:05:15.564030-04:00.lighthouse.json) |
-| [August 5 at 12:48 AM](https://archive.org/download/wplglocal10-2022/wplglocal10-2022-08-05T00:48:37.093495-04:00.lighthouse.json) |
 
 
 

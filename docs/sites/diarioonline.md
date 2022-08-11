@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 10 screenshots with the Internet Archive.
+The archiving routine has saved 12 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/diarioonline-2022/diarioonline-2022-08-10T14:59:49.063483-03:00.jpg">
+  <img src="https://archive.org/download/diarioonline-2022/diarioonline-2022-08-10T14:59:49.063483-03:00.jpg"
+     alt="Fortaleza at 2022-08-10 14:59:50-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/diarioonline-2022/diarioonline-2022-08-10T14:59:49.063483-03:00.jpg">August 10 at 2:59 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/diarioonline-2022/diarioonline-2022-08-10T10:20:14.523040-03:00.jpg">
+  <img src="https://archive.org/download/diarioonline-2022/diarioonline-2022-08-10T10:20:14.523040-03:00.jpg"
+     alt="Fortaleza at 2022-08-10 10:20:16-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/diarioonline-2022/diarioonline-2022-08-10T10:20:14.523040-03:00.jpg">August 10 at 10:20 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/diarioonline-2022/diarioonline-2022-08-09T14:19:55.549953-03:00.jpg">
@@ -122,7 +140,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 10 hyperlink lists with the Internet Archive.
+The archiving routine has saved 13 hyperlink lists with the Internet Archive.
 
 
 
@@ -130,6 +148,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 10 at 2:59 PM](https://archive.org/download/diarioonline-2022/diarioonline-2022-08-10T14:59:49.063483-03:00.hyperlinks.json) |
+| [August 10 at 10:20 AM](https://archive.org/download/diarioonline-2022/diarioonline-2022-08-10T10:20:14.523040-03:00.hyperlinks.json) |
+| [August 10 at 12:56 AM](https://archive.org/download/diarioonline-2022/diarioonline-2022-08-10T00:56:11.596837-03:00.hyperlinks.json) |
 | [August 9 at 2:20 PM](https://archive.org/download/diarioonline-2022/diarioonline-2022-08-09T14:19:55.549953-03:00.hyperlinks.json) |
 | [August 9 at 12:40 AM](https://archive.org/download/diarioonline-2022/diarioonline-2022-08-09T00:40:24.338749-03:00.hyperlinks.json) |
 | [August 8 at 1:56 PM](https://archive.org/download/diarioonline-2022/diarioonline-2022-08-08T13:56:40.169932-03:00.hyperlinks.json) |
@@ -137,14 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 7 at 1:45 PM](https://archive.org/download/diarioonline-2022/diarioonline-2022-08-07T13:45:38.028370-03:00.hyperlinks.json) |
 | [August 7 at 12:19 AM](https://archive.org/download/diarioonline-2022/diarioonline-2022-08-07T00:19:39.500044-03:00.hyperlinks.json) |
 | [August 6 at 1:08 PM](https://archive.org/download/diarioonline-2022/diarioonline-2022-08-06T13:08:09.332151-03:00.hyperlinks.json) |
-| [August 6 at 1:45 AM](https://archive.org/download/diarioonline-2022/diarioonline-2022-08-06T01:45:45.713128-03:00.hyperlinks.json) |
-| [August 5 at 2:18 PM](https://archive.org/download/diarioonline-2022/diarioonline-2022-08-05T14:18:26.366917-03:00.hyperlinks.json) |
-| [August 5 at 12:14 AM](https://archive.org/download/diarioonline-2022/diarioonline-2022-08-05T00:14:12.094958-03:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 10 accessibility trees with the Internet Archive.
+The archiving routine has saved 13 accessibility trees with the Internet Archive.
 
 
 
@@ -152,6 +170,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 10 at 2:59 PM](https://archive.org/download/diarioonline-2022/diarioonline-2022-08-10T14:59:49.063483-03:00.accessibility.json) |
+| [August 10 at 10:20 AM](https://archive.org/download/diarioonline-2022/diarioonline-2022-08-10T10:20:14.523040-03:00.accessibility.json) |
+| [August 10 at 12:56 AM](https://archive.org/download/diarioonline-2022/diarioonline-2022-08-10T00:56:11.596837-03:00.accessibility.json) |
 | [August 9 at 2:19 PM](https://archive.org/download/diarioonline-2022/diarioonline-2022-08-09T14:19:55.549953-03:00.accessibility.json) |
 | [August 9 at 12:40 AM](https://archive.org/download/diarioonline-2022/diarioonline-2022-08-09T00:40:24.338749-03:00.accessibility.json) |
 | [August 8 at 1:56 PM](https://archive.org/download/diarioonline-2022/diarioonline-2022-08-08T13:56:40.169932-03:00.accessibility.json) |
@@ -159,15 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [August 7 at 1:45 PM](https://archive.org/download/diarioonline-2022/diarioonline-2022-08-07T13:45:38.028370-03:00.accessibility.json) |
 | [August 7 at 12:19 AM](https://archive.org/download/diarioonline-2022/diarioonline-2022-08-07T00:19:39.500044-03:00.accessibility.json) |
 | [August 6 at 1:08 PM](https://archive.org/download/diarioonline-2022/diarioonline-2022-08-06T13:08:09.332151-03:00.accessibility.json) |
-| [August 6 at 1:45 AM](https://archive.org/download/diarioonline-2022/diarioonline-2022-08-06T01:45:45.713128-03:00.accessibility.json) |
-| [August 5 at 2:18 PM](https://archive.org/download/diarioonline-2022/diarioonline-2022-08-05T14:18:26.366917-03:00.accessibility.json) |
-| [August 5 at 12:14 AM](https://archive.org/download/diarioonline-2022/diarioonline-2022-08-05T00:14:12.094958-03:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 10 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 13 Lighthouse audits with the Internet Archive.
 
 
 
@@ -175,6 +193,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 10 at 2:59 PM](https://archive.org/download/diarioonline-2022/diarioonline-2022-08-10T14:59:49.063483-03:00.lighthouse.json) |
+| [August 10 at 10:20 AM](https://archive.org/download/diarioonline-2022/diarioonline-2022-08-10T10:20:14.523040-03:00.lighthouse.json) |
+| [August 10 at 12:56 AM](https://archive.org/download/diarioonline-2022/diarioonline-2022-08-10T00:56:11.596837-03:00.lighthouse.json) |
 | [August 9 at 2:20 PM](https://archive.org/download/diarioonline-2022/diarioonline-2022-08-09T14:19:55.549953-03:00.lighthouse.json) |
 | [August 9 at 12:40 AM](https://archive.org/download/diarioonline-2022/diarioonline-2022-08-09T00:40:24.338749-03:00.lighthouse.json) |
 | [August 8 at 1:56 PM](https://archive.org/download/diarioonline-2022/diarioonline-2022-08-08T13:56:40.169932-03:00.lighthouse.json) |
@@ -182,9 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 7 at 1:45 PM](https://archive.org/download/diarioonline-2022/diarioonline-2022-08-07T13:45:38.028370-03:00.lighthouse.json) |
 | [August 7 at 12:19 AM](https://archive.org/download/diarioonline-2022/diarioonline-2022-08-07T00:19:39.500044-03:00.lighthouse.json) |
 | [August 6 at 1:08 PM](https://archive.org/download/diarioonline-2022/diarioonline-2022-08-06T13:08:09.332151-03:00.lighthouse.json) |
-| [August 6 at 1:45 AM](https://archive.org/download/diarioonline-2022/diarioonline-2022-08-06T01:45:45.713128-03:00.lighthouse.json) |
-| [August 5 at 2:18 PM](https://archive.org/download/diarioonline-2022/diarioonline-2022-08-05T14:18:26.366917-03:00.lighthouse.json) |
-| [August 5 at 12:14 AM](https://archive.org/download/diarioonline-2022/diarioonline-2022-08-05T00:14:12.094958-03:00.lighthouse.json) |
 
 
 

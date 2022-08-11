@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 39 screenshots with the Internet Archive.
+The archiving routine has saved 42 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/nrk-2022/nrk-2022-08-11T02:55:54.255221+02:00.jpg">
+  <img src="https://archive.org/download/nrk-2022/nrk-2022-08-11T02:55:54.255221+02:00.jpg"
+     alt="NRK at 2022-08-11 02:55:56+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nrk-2022/nrk-2022-08-11T02:55:54.255221+02:00.jpg">August 11 at 2:55 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nrk-2022/nrk-2022-08-10T15:13:43.617214+02:00.jpg">
+  <img src="https://archive.org/download/nrk-2022/nrk-2022-08-10T15:13:43.617214+02:00.jpg"
+     alt="NRK at 2022-08-10 15:13:46+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nrk-2022/nrk-2022-08-10T15:13:43.617214+02:00.jpg">August 10 at 3:13 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nrk-2022/nrk-2022-08-10T03:00:06.358558+02:00.jpg">
+  <img src="https://archive.org/download/nrk-2022/nrk-2022-08-10T03:00:06.358558+02:00.jpg"
+     alt="NRK at 2022-08-10 03:00:07+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nrk-2022/nrk-2022-08-10T03:00:06.358558+02:00.jpg">August 10 at 3:00 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/nrk-2022/nrk-2022-08-09T14:59:52.399964+02:00.jpg">
   <img src="https://archive.org/download/nrk-2022/nrk-2022-08-09T14:59:52.399964+02:00.jpg"
      alt="NRK at 2022-08-09 14:59:55+02:00 local time"
@@ -192,38 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nrk-2022/nrk-2022-08-05T14:41:54.467970+02:00.jpg">August 5 at 2:41 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nrk-2022/nrk-2022-08-05T03:45:59.521012+02:00.jpg">
-  <img src="https://archive.org/download/nrk-2022/nrk-2022-08-05T03:45:59.521012+02:00.jpg"
-     alt="NRK at 2022-08-05 03:46:01+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nrk-2022/nrk-2022-08-05T03:45:59.521012+02:00.jpg">August 5 at 3:46 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nrk-2022/nrk-2022-08-04T02:43:56.144178+02:00.jpg">
-  <img src="https://archive.org/download/nrk-2022/nrk-2022-08-04T02:43:56.144178+02:00.jpg"
-     alt="NRK at 2022-08-04 02:43:58+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nrk-2022/nrk-2022-08-04T02:43:56.144178+02:00.jpg">August 4 at 2:43 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nrk-2022/nrk-2022-08-03T14:53:31.949893+02:00.jpg">
-  <img src="https://archive.org/download/nrk-2022/nrk-2022-08-03T14:53:31.949893+02:00.jpg"
-     alt="NRK at 2022-08-03 14:53:33+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nrk-2022/nrk-2022-08-03T14:53:31.949893+02:00.jpg">August 3 at 2:53 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 42 hyperlink lists with the Internet Archive.
+The archiving routine has saved 45 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 11 at 2:56 AM](https://archive.org/download/nrk-2022/nrk-2022-08-11T02:55:54.255221+02:00.hyperlinks.json) |
+| [August 10 at 3:13 PM](https://archive.org/download/nrk-2022/nrk-2022-08-10T15:13:43.617214+02:00.hyperlinks.json) |
+| [August 10 at 3:00 AM](https://archive.org/download/nrk-2022/nrk-2022-08-10T03:00:06.358558+02:00.hyperlinks.json) |
 | [August 9 at 2:59 PM](https://archive.org/download/nrk-2022/nrk-2022-08-09T14:59:52.399964+02:00.hyperlinks.json) |
 | [August 9 at 2:55 AM](https://archive.org/download/nrk-2022/nrk-2022-08-09T02:55:07.041553+02:00.hyperlinks.json) |
 | [August 8 at 2:46 PM](https://archive.org/download/nrk-2022/nrk-2022-08-08T14:46:44.964542+02:00.hyperlinks.json) |
@@ -321,14 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 7 at 2:42 PM](https://archive.org/download/nrk-2022/nrk-2022-08-07T14:42:50.592185+02:00.hyperlinks.json) |
 | [August 7 at 2:43 AM](https://archive.org/download/nrk-2022/nrk-2022-08-07T02:43:42.396622+02:00.hyperlinks.json) |
 | [August 6 at 2:34 PM](https://archive.org/download/nrk-2022/nrk-2022-08-06T14:34:32.615719+02:00.hyperlinks.json) |
-| [August 6 at 4:09 AM](https://archive.org/download/nrk-2022/nrk-2022-08-06T04:08:56.199908+02:00.hyperlinks.json) |
-| [August 5 at 2:41 PM](https://archive.org/download/nrk-2022/nrk-2022-08-05T14:41:54.467970+02:00.hyperlinks.json) |
-| [August 5 at 3:46 AM](https://archive.org/download/nrk-2022/nrk-2022-08-05T03:45:59.521012+02:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 42 accessibility trees with the Internet Archive.
+The archiving routine has saved 45 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 11 at 2:55 AM](https://archive.org/download/nrk-2022/nrk-2022-08-11T02:55:54.255221+02:00.accessibility.json) |
+| [August 10 at 3:13 PM](https://archive.org/download/nrk-2022/nrk-2022-08-10T15:13:43.617214+02:00.accessibility.json) |
+| [August 10 at 3:00 AM](https://archive.org/download/nrk-2022/nrk-2022-08-10T03:00:06.358558+02:00.accessibility.json) |
 | [August 9 at 2:59 PM](https://archive.org/download/nrk-2022/nrk-2022-08-09T14:59:52.399964+02:00.accessibility.json) |
 | [August 9 at 2:55 AM](https://archive.org/download/nrk-2022/nrk-2022-08-09T02:55:07.041553+02:00.accessibility.json) |
 | [August 8 at 2:46 PM](https://archive.org/download/nrk-2022/nrk-2022-08-08T14:46:44.964542+02:00.accessibility.json) |
@@ -426,15 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 7 at 2:42 PM](https://archive.org/download/nrk-2022/nrk-2022-08-07T14:42:50.592185+02:00.accessibility.json) |
 | [August 7 at 2:43 AM](https://archive.org/download/nrk-2022/nrk-2022-08-07T02:43:42.396622+02:00.accessibility.json) |
 | [August 6 at 2:34 PM](https://archive.org/download/nrk-2022/nrk-2022-08-06T14:34:32.615719+02:00.accessibility.json) |
-| [August 6 at 4:08 AM](https://archive.org/download/nrk-2022/nrk-2022-08-06T04:08:56.199908+02:00.accessibility.json) |
-| [August 5 at 2:41 PM](https://archive.org/download/nrk-2022/nrk-2022-08-05T14:41:54.467970+02:00.accessibility.json) |
-| [August 5 at 3:46 AM](https://archive.org/download/nrk-2022/nrk-2022-08-05T03:45:59.521012+02:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 34 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 37 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 11 at 2:56 AM](https://archive.org/download/nrk-2022/nrk-2022-08-11T02:55:54.255221+02:00.lighthouse.json) |
+| [August 10 at 3:13 PM](https://archive.org/download/nrk-2022/nrk-2022-08-10T15:13:43.617214+02:00.lighthouse.json) |
+| [August 10 at 3:00 AM](https://archive.org/download/nrk-2022/nrk-2022-08-10T03:00:06.358558+02:00.lighthouse.json) |
 | [August 9 at 2:59 PM](https://archive.org/download/nrk-2022/nrk-2022-08-09T14:59:52.399964+02:00.lighthouse.json) |
 | [August 9 at 2:55 AM](https://archive.org/download/nrk-2022/nrk-2022-08-09T02:55:07.041553+02:00.lighthouse.json) |
 | [August 8 at 2:46 PM](https://archive.org/download/nrk-2022/nrk-2022-08-08T14:46:44.964542+02:00.lighthouse.json) |
@@ -532,9 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 7 at 2:42 PM](https://archive.org/download/nrk-2022/nrk-2022-08-07T14:42:50.592185+02:00.lighthouse.json) |
 | [August 7 at 2:43 AM](https://archive.org/download/nrk-2022/nrk-2022-08-07T02:43:42.396622+02:00.lighthouse.json) |
 | [August 6 at 2:34 PM](https://archive.org/download/nrk-2022/nrk-2022-08-06T14:34:32.615719+02:00.lighthouse.json) |
-| [August 6 at 4:09 AM](https://archive.org/download/nrk-2022/nrk-2022-08-06T04:08:56.199908+02:00.lighthouse.json) |
-| [August 5 at 2:42 PM](https://archive.org/download/nrk-2022/nrk-2022-08-05T14:41:54.467970+02:00.lighthouse.json) |
-| [August 5 at 3:46 AM](https://archive.org/download/nrk-2022/nrk-2022-08-05T03:45:59.521012+02:00.lighthouse.json) |
 
 
 

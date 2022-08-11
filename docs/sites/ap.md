@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 173 screenshots with the Internet Archive.
+The archiving routine has saved 176 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/ap-2022/ap-2022-08-10T20:35:59.297579-04:00.jpg">
+  <img src="https://archive.org/download/ap-2022/ap-2022-08-10T20:35:59.297579-04:00.jpg"
+     alt="Associated Press at 2022-08-10 20:36:05-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ap-2022/ap-2022-08-10T20:35:59.297579-04:00.jpg">August 10 at 8:36 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ap-2022/ap-2022-08-10T10:48:54.436332-04:00.jpg">
+  <img src="https://archive.org/download/ap-2022/ap-2022-08-10T10:48:54.436332-04:00.jpg"
+     alt="Associated Press at 2022-08-10 10:48:56-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ap-2022/ap-2022-08-10T10:48:54.436332-04:00.jpg">August 10 at 10:48 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ap-2022/ap-2022-08-10T08:50:03.948107-04:00.jpg">
+  <img src="https://archive.org/download/ap-2022/ap-2022-08-10T08:50:03.948107-04:00.jpg"
+     alt="Associated Press at 2022-08-10 08:50:08-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ap-2022/ap-2022-08-10T08:50:03.948107-04:00.jpg">August 10 at 8:50 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/ap-2022/ap-2022-08-09T19:20:53.642793-04:00.jpg">
   <img src="https://archive.org/download/ap-2022/ap-2022-08-09T19:20:53.642793-04:00.jpg"
      alt="Associated Press at 2022-08-09 19:20:58-04:00 local time"
@@ -192,38 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ap-2022/ap-2022-08-07T20:39:59.523815-04:00.jpg">August 7 at 8:40 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ap-2022/ap-2022-08-07T17:14:40.625555-04:00.jpg">
-  <img src="https://archive.org/download/ap-2022/ap-2022-08-07T17:14:40.625555-04:00.jpg"
-     alt="Associated Press at 2022-08-07 17:14:42-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ap-2022/ap-2022-08-07T17:14:40.625555-04:00.jpg">August 7 at 5:14 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ap-2022/ap-2022-08-07T09:57:05.763115-04:00.jpg">
-  <img src="https://archive.org/download/ap-2022/ap-2022-08-07T09:57:05.763115-04:00.jpg"
-     alt="Associated Press at 2022-08-07 09:57:07-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ap-2022/ap-2022-08-07T09:57:05.763115-04:00.jpg">August 7 at 9:57 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ap-2022/ap-2022-08-07T08:20:09.021334-04:00.jpg">
-  <img src="https://archive.org/download/ap-2022/ap-2022-08-07T08:20:09.021334-04:00.jpg"
-     alt="Associated Press at 2022-08-07 08:20:14-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ap-2022/ap-2022-08-07T08:20:09.021334-04:00.jpg">August 7 at 8:20 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 150 hyperlink lists with the Internet Archive.
+The archiving routine has saved 153 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 10 at 8:36 PM](https://archive.org/download/ap-2022/ap-2022-08-10T20:35:59.297579-04:00.hyperlinks.json) |
+| [August 10 at 5:16 PM](https://archive.org/download/ap-2022/ap-2022-08-10T17:16:21.566219-04:00.hyperlinks.json) |
+| [August 10 at 10:48 AM](https://archive.org/download/ap-2022/ap-2022-08-10T10:48:54.436332-04:00.hyperlinks.json) |
 | [August 9 at 5:14 PM](https://archive.org/download/ap-2022/ap-2022-08-09T17:14:23.144582-04:00.hyperlinks.json) |
 | [August 9 at 8:36 AM](https://archive.org/download/ap-2022/ap-2022-08-09T08:36:20.479306-04:00.hyperlinks.json) |
 | [August 8 at 8:35 PM](https://archive.org/download/ap-2022/ap-2022-08-08T20:35:20.496413-04:00.hyperlinks.json) |
@@ -321,14 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 8 at 7:18 AM](https://archive.org/download/ap-2022/ap-2022-08-08T07:18:08.626087-04:00.hyperlinks.json) |
 | [August 7 at 5:14 PM](https://archive.org/download/ap-2022/ap-2022-08-07T17:14:40.625555-04:00.hyperlinks.json) |
 | [August 6 at 8:23 PM](https://archive.org/download/ap-2022/ap-2022-08-06T20:22:47.085331-04:00.hyperlinks.json) |
-| [August 6 at 8:14 AM](https://archive.org/download/ap-2022/ap-2022-08-06T08:14:36.576855-04:00.hyperlinks.json) |
-| [August 5 at 7:25 PM](https://archive.org/download/ap-2022/ap-2022-08-05T19:25:30.495628-04:00.hyperlinks.json) |
-| [August 5 at 5:15 PM](https://archive.org/download/ap-2022/ap-2022-08-05T17:14:58.191338-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 166 accessibility trees with the Internet Archive.
+The archiving routine has saved 170 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,22 +419,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 10 at 8:36 PM](https://archive.org/download/ap-2022/ap-2022-08-10T20:35:59.297579-04:00.accessibility.json) |
+| [August 10 at 5:16 PM](https://archive.org/download/ap-2022/ap-2022-08-10T17:16:21.566219-04:00.accessibility.json) |
+| [August 10 at 10:48 AM](https://archive.org/download/ap-2022/ap-2022-08-10T10:48:54.436332-04:00.accessibility.json) |
+| [August 10 at 8:50 AM](https://archive.org/download/ap-2022/ap-2022-08-10T08:50:03.948107-04:00.accessibility.json) |
 | [August 9 at 7:21 PM](https://archive.org/download/ap-2022/ap-2022-08-09T19:20:53.642793-04:00.accessibility.json) |
 | [August 9 at 5:14 PM](https://archive.org/download/ap-2022/ap-2022-08-09T17:14:23.144582-04:00.accessibility.json) |
 | [August 9 at 10:26 AM](https://archive.org/download/ap-2022/ap-2022-08-09T10:26:38.554631-04:00.accessibility.json) |
 | [August 9 at 8:36 AM](https://archive.org/download/ap-2022/ap-2022-08-09T08:36:20.479306-04:00.accessibility.json) |
 | [August 8 at 8:35 PM](https://archive.org/download/ap-2022/ap-2022-08-08T20:35:20.496413-04:00.accessibility.json) |
 | [August 8 at 5:13 PM](https://archive.org/download/ap-2022/ap-2022-08-08T17:13:42.870599-04:00.accessibility.json) |
-| [August 8 at 10:07 AM](https://archive.org/download/ap-2022/ap-2022-08-08T10:07:38.996828-04:00.accessibility.json) |
-| [August 8 at 7:18 AM](https://archive.org/download/ap-2022/ap-2022-08-08T07:18:08.626087-04:00.accessibility.json) |
-| [August 7 at 8:40 PM](https://archive.org/download/ap-2022/ap-2022-08-07T20:39:59.523815-04:00.accessibility.json) |
-| [August 7 at 5:14 PM](https://archive.org/download/ap-2022/ap-2022-08-07T17:14:40.625555-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 70 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 74 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,16 +525,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 10 at 8:36 PM](https://archive.org/download/ap-2022/ap-2022-08-10T20:35:59.297579-04:00.lighthouse.json) |
+| [August 10 at 5:16 PM](https://archive.org/download/ap-2022/ap-2022-08-10T17:16:21.566219-04:00.lighthouse.json) |
+| [August 10 at 10:49 AM](https://archive.org/download/ap-2022/ap-2022-08-10T10:48:54.436332-04:00.lighthouse.json) |
+| [August 10 at 8:50 AM](https://archive.org/download/ap-2022/ap-2022-08-10T08:50:03.948107-04:00.lighthouse.json) |
 | [August 9 at 7:21 PM](https://archive.org/download/ap-2022/ap-2022-08-09T19:20:53.642793-04:00.lighthouse.json) |
 | [August 9 at 5:14 PM](https://archive.org/download/ap-2022/ap-2022-08-09T17:14:23.144582-04:00.lighthouse.json) |
 | [August 9 at 10:26 AM](https://archive.org/download/ap-2022/ap-2022-08-09T10:26:38.554631-04:00.lighthouse.json) |
 | [August 9 at 8:36 AM](https://archive.org/download/ap-2022/ap-2022-08-09T08:36:20.479306-04:00.lighthouse.json) |
 | [August 8 at 8:35 PM](https://archive.org/download/ap-2022/ap-2022-08-08T20:35:20.496413-04:00.lighthouse.json) |
 | [August 8 at 5:13 PM](https://archive.org/download/ap-2022/ap-2022-08-08T17:13:42.870599-04:00.lighthouse.json) |
-| [August 8 at 10:07 AM](https://archive.org/download/ap-2022/ap-2022-08-08T10:07:38.996828-04:00.lighthouse.json) |
-| [August 8 at 7:18 AM](https://archive.org/download/ap-2022/ap-2022-08-08T07:18:08.626087-04:00.lighthouse.json) |
-| [August 7 at 8:40 PM](https://archive.org/download/ap-2022/ap-2022-08-07T20:39:59.523815-04:00.lighthouse.json) |
-| [August 7 at 5:14 PM](https://archive.org/download/ap-2022/ap-2022-08-07T17:14:40.625555-04:00.lighthouse.json) |
 
 
 

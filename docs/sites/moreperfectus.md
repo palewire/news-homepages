@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 54 screenshots with the Internet Archive.
+The archiving routine has saved 58 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-10T20:53:06.376287-04:00.jpg">
+  <img src="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-10T20:53:06.376287-04:00.jpg"
+     alt="More Perfect Union at 2022-08-10 20:53:09-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-10T20:53:06.376287-04:00.jpg">August 10 at 8:53 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-10T15:40:22.841965-04:00.jpg">
+  <img src="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-10T15:40:22.841965-04:00.jpg"
+     alt="More Perfect Union at 2022-08-10 15:40:25-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-10T15:40:22.841965-04:00.jpg">August 10 at 3:40 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-10T09:10:42.477358-04:00.jpg">
+  <img src="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-10T09:10:42.477358-04:00.jpg"
+     alt="More Perfect Union at 2022-08-10 09:10:45-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-10T09:10:42.477358-04:00.jpg">August 10 at 9:10 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-09T20:57:04.488341-04:00.jpg">
+  <img src="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-09T20:57:04.488341-04:00.jpg"
+     alt="More Perfect Union at 2022-08-09 20:57:05-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-09T20:57:04.488341-04:00.jpg">August 9 at 8:57 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-09T14:46:31.112317-04:00.jpg">
   <img src="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-09T14:46:31.112317-04:00.jpg"
      alt="More Perfect Union at 2022-08-09 14:46:33-04:00 local time"
@@ -183,47 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-07T08:38:59.043305-04:00.jpg">August 7 at 8:39 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-06T20:41:00.481997-04:00.jpg">
-  <img src="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-06T20:41:00.481997-04:00.jpg"
-     alt="More Perfect Union at 2022-08-06 20:41:02-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-06T20:41:00.481997-04:00.jpg">August 6 at 8:41 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-06T14:41:53.419622-04:00.jpg">
-  <img src="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-06T14:41:53.419622-04:00.jpg"
-     alt="More Perfect Union at 2022-08-06 14:41:56-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-06T14:41:53.419622-04:00.jpg">August 6 at 2:41 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-06T08:32:08.072297-04:00.jpg">
-  <img src="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-06T08:32:08.072297-04:00.jpg"
-     alt="More Perfect Union at 2022-08-06 08:32:10-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-06T08:32:08.072297-04:00.jpg">August 6 at 8:32 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-05T22:06:02.697866-04:00.jpg">
-  <img src="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-05T22:06:02.697866-04:00.jpg"
-     alt="More Perfect Union at 2022-08-05 22:06:04-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-05T22:06:02.697866-04:00.jpg">August 5 at 10:06 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 53 hyperlink lists with the Internet Archive.
+The archiving routine has saved 57 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 10 at 8:53 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-10T20:53:06.376287-04:00.hyperlinks.json) |
+| [August 10 at 3:40 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-10T15:40:22.841965-04:00.hyperlinks.json) |
+| [August 10 at 9:10 AM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-10T09:10:42.477358-04:00.hyperlinks.json) |
+| [August 9 at 8:57 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-09T20:57:04.488341-04:00.hyperlinks.json) |
 | [August 9 at 2:46 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-09T14:46:31.112317-04:00.hyperlinks.json) |
 | [August 9 at 8:57 AM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-09T08:57:11.113333-04:00.hyperlinks.json) |
 | [August 8 at 8:53 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-08T20:52:57.832990-04:00.hyperlinks.json) |
 | [August 8 at 2:38 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-08T14:38:42.047081-04:00.hyperlinks.json) |
 | [August 8 at 8:44 AM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-08T08:44:23.795608-04:00.hyperlinks.json) |
 | [August 7 at 9:01 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-07T21:01:34.392158-04:00.hyperlinks.json) |
-| [August 7 at 2:44 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-07T14:44:49.216110-04:00.hyperlinks.json) |
-| [August 7 at 8:39 AM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-07T08:38:59.043305-04:00.hyperlinks.json) |
-| [August 6 at 8:41 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-06T20:41:00.481997-04:00.hyperlinks.json) |
-| [August 6 at 2:41 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-06T14:41:53.419622-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 54 accessibility trees with the Internet Archive.
+The archiving routine has saved 58 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,22 +419,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 10 at 8:53 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-10T20:53:06.376287-04:00.accessibility.json) |
+| [August 10 at 3:40 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-10T15:40:22.841965-04:00.accessibility.json) |
+| [August 10 at 9:10 AM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-10T09:10:42.477358-04:00.accessibility.json) |
+| [August 9 at 8:57 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-09T20:57:04.488341-04:00.accessibility.json) |
 | [August 9 at 2:46 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-09T14:46:31.112317-04:00.accessibility.json) |
 | [August 9 at 8:57 AM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-09T08:57:11.113333-04:00.accessibility.json) |
 | [August 8 at 8:53 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-08T20:52:57.832990-04:00.accessibility.json) |
 | [August 8 at 2:38 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-08T14:38:42.047081-04:00.accessibility.json) |
 | [August 8 at 8:44 AM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-08T08:44:23.795608-04:00.accessibility.json) |
 | [August 7 at 9:01 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-07T21:01:34.392158-04:00.accessibility.json) |
-| [August 7 at 2:44 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-07T14:44:49.216110-04:00.accessibility.json) |
-| [August 7 at 8:39 AM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-07T08:38:59.043305-04:00.accessibility.json) |
-| [August 6 at 8:41 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-06T20:41:00.481997-04:00.accessibility.json) |
-| [August 6 at 2:41 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-06T14:41:53.419622-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 52 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 56 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,16 +525,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 10 at 8:53 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-10T20:53:06.376287-04:00.lighthouse.json) |
+| [August 10 at 3:40 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-10T15:40:22.841965-04:00.lighthouse.json) |
+| [August 10 at 9:10 AM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-10T09:10:42.477358-04:00.lighthouse.json) |
+| [August 9 at 8:57 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-09T20:57:04.488341-04:00.lighthouse.json) |
 | [August 9 at 2:46 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-09T14:46:31.112317-04:00.lighthouse.json) |
 | [August 9 at 8:57 AM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-09T08:57:11.113333-04:00.lighthouse.json) |
 | [August 8 at 8:53 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-08T20:52:57.832990-04:00.lighthouse.json) |
 | [August 8 at 2:38 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-08T14:38:42.047081-04:00.lighthouse.json) |
 | [August 8 at 8:44 AM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-08T08:44:23.795608-04:00.lighthouse.json) |
 | [August 7 at 9:01 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-07T21:01:34.392158-04:00.lighthouse.json) |
-| [August 7 at 2:44 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-07T14:44:49.216110-04:00.lighthouse.json) |
-| [August 7 at 8:39 AM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-07T08:38:59.043305-04:00.lighthouse.json) |
-| [August 6 at 8:41 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-06T20:41:00.481997-04:00.lighthouse.json) |
-| [August 6 at 2:42 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-08-06T14:41:53.419622-04:00.lighthouse.json) |
 
 
 

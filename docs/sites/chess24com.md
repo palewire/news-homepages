@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 44 screenshots with the Internet Archive.
+The archiving routine has saved 46 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/chess24com-2022/chess24com-2022-08-10T19:45:27.139281+02:00.jpg">
+  <img src="https://archive.org/download/chess24com-2022/chess24com-2022-08-10T19:45:27.139281+02:00.jpg"
+     alt="chess24 at 2022-08-10 19:45:33+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chess24com-2022/chess24com-2022-08-10T19:45:27.139281+02:00.jpg">August 10 at 7:45 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/chess24com-2022/chess24com-2022-08-10T04:33:56.905446+02:00.jpg">
+  <img src="https://archive.org/download/chess24com-2022/chess24com-2022-08-10T04:33:56.905446+02:00.jpg"
+     alt="chess24 at 2022-08-10 04:33:58+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chess24com-2022/chess24com-2022-08-10T04:33:56.905446+02:00.jpg">August 10 at 4:33 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/chess24com-2022/chess24com-2022-08-09T16:35:43.765643+02:00.jpg">
   <img src="https://archive.org/download/chess24com-2022/chess24com-2022-08-09T16:35:43.765643+02:00.jpg"
      alt="chess24 at 2022-08-09 16:35:46+02:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/chess24com-2022/chess24com-2022-08-05T16:09:27.037557+02:00.jpg">August 5 at 4:09 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/chess24com-2022/chess24com-2022-08-05T03:55:54.982788+02:00.jpg">
-  <img src="https://archive.org/download/chess24com-2022/chess24com-2022-08-05T03:55:54.982788+02:00.jpg"
-     alt="chess24 at 2022-08-05 03:55:56+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/chess24com-2022/chess24com-2022-08-05T03:55:54.982788+02:00.jpg">August 5 at 3:55 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/chess24com-2022/chess24com-2022-08-04T15:52:56.428266+02:00.jpg">
-  <img src="https://archive.org/download/chess24com-2022/chess24com-2022-08-04T15:52:56.428266+02:00.jpg"
-     alt="chess24 at 2022-08-04 15:52:57+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/chess24com-2022/chess24com-2022-08-04T15:52:56.428266+02:00.jpg">August 4 at 3:52 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 42 hyperlink lists with the Internet Archive.
+The archiving routine has saved 44 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 10 at 7:45 PM](https://archive.org/download/chess24com-2022/chess24com-2022-08-10T19:45:27.139281+02:00.hyperlinks.json) |
+| [August 10 at 4:34 AM](https://archive.org/download/chess24com-2022/chess24com-2022-08-10T04:33:56.905446+02:00.hyperlinks.json) |
 | [August 9 at 4:35 PM](https://archive.org/download/chess24com-2022/chess24com-2022-08-09T16:35:43.765643+02:00.hyperlinks.json) |
 | [August 8 at 4:18 PM](https://archive.org/download/chess24com-2022/chess24com-2022-08-08T16:18:15.283820+02:00.hyperlinks.json) |
 | [August 8 at 4:31 AM](https://archive.org/download/chess24com-2022/chess24com-2022-08-08T04:31:17.277792+02:00.hyperlinks.json) |
@@ -322,13 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 6 at 3:53 PM](https://archive.org/download/chess24com-2022/chess24com-2022-08-06T15:53:50.119742+02:00.hyperlinks.json) |
 | [August 6 at 4:19 AM](https://archive.org/download/chess24com-2022/chess24com-2022-08-06T04:19:22.048165+02:00.hyperlinks.json) |
 | [August 5 at 7:45 PM](https://archive.org/download/chess24com-2022/chess24com-2022-08-05T19:45:33.177641+02:00.hyperlinks.json) |
-| [August 5 at 4:09 PM](https://archive.org/download/chess24com-2022/chess24com-2022-08-05T16:09:27.037557+02:00.hyperlinks.json) |
-| [August 5 at 3:55 AM](https://archive.org/download/chess24com-2022/chess24com-2022-08-05T03:55:54.982788+02:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 44 accessibility trees with the Internet Archive.
+The archiving routine has saved 46 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 10 at 7:45 PM](https://archive.org/download/chess24com-2022/chess24com-2022-08-10T19:45:27.139281+02:00.accessibility.json) |
+| [August 10 at 4:33 AM](https://archive.org/download/chess24com-2022/chess24com-2022-08-10T04:33:56.905446+02:00.accessibility.json) |
 | [August 9 at 4:35 PM](https://archive.org/download/chess24com-2022/chess24com-2022-08-09T16:35:43.765643+02:00.accessibility.json) |
 | [August 9 at 4:20 AM](https://archive.org/download/chess24com-2022/chess24com-2022-08-09T04:20:46.092622+02:00.accessibility.json) |
 | [August 8 at 4:18 PM](https://archive.org/download/chess24com-2022/chess24com-2022-08-08T16:18:15.283820+02:00.accessibility.json) |
@@ -427,14 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 7 at 5:07 AM](https://archive.org/download/chess24com-2022/chess24com-2022-08-07T05:07:23.967290+02:00.accessibility.json) |
 | [August 6 at 3:53 PM](https://archive.org/download/chess24com-2022/chess24com-2022-08-06T15:53:50.119742+02:00.accessibility.json) |
 | [August 6 at 4:19 AM](https://archive.org/download/chess24com-2022/chess24com-2022-08-06T04:19:22.048165+02:00.accessibility.json) |
-| [August 5 at 7:45 PM](https://archive.org/download/chess24com-2022/chess24com-2022-08-05T19:45:33.177641+02:00.accessibility.json) |
-| [August 5 at 4:09 PM](https://archive.org/download/chess24com-2022/chess24com-2022-08-05T16:09:27.037557+02:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 36 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 38 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 10 at 7:45 PM](https://archive.org/download/chess24com-2022/chess24com-2022-08-10T19:45:27.139281+02:00.lighthouse.json) |
+| [August 10 at 4:34 AM](https://archive.org/download/chess24com-2022/chess24com-2022-08-10T04:33:56.905446+02:00.lighthouse.json) |
 | [August 9 at 4:35 PM](https://archive.org/download/chess24com-2022/chess24com-2022-08-09T16:35:43.765643+02:00.lighthouse.json) |
 | [August 9 at 4:20 AM](https://archive.org/download/chess24com-2022/chess24com-2022-08-09T04:20:46.092622+02:00.lighthouse.json) |
 | [August 8 at 4:18 PM](https://archive.org/download/chess24com-2022/chess24com-2022-08-08T16:18:15.283820+02:00.lighthouse.json) |
@@ -533,8 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 7 at 5:07 AM](https://archive.org/download/chess24com-2022/chess24com-2022-08-07T05:07:23.967290+02:00.lighthouse.json) |
 | [August 6 at 3:54 PM](https://archive.org/download/chess24com-2022/chess24com-2022-08-06T15:53:50.119742+02:00.lighthouse.json) |
 | [August 6 at 4:19 AM](https://archive.org/download/chess24com-2022/chess24com-2022-08-06T04:19:22.048165+02:00.lighthouse.json) |
-| [August 5 at 7:45 PM](https://archive.org/download/chess24com-2022/chess24com-2022-08-05T19:45:33.177641+02:00.lighthouse.json) |
-| [August 5 at 4:09 PM](https://archive.org/download/chess24com-2022/chess24com-2022-08-05T16:09:27.037557+02:00.lighthouse.json) |
 
 
 

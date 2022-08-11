@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 35 screenshots with the Internet Archive.
+The archiving routine has saved 37 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-08-10T20:46:30.046780-04:00.jpg">
+  <img src="https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-08-10T20:46:30.046780-04:00.jpg"
+     alt="HuffPost Canada at 2022-08-10 20:46:32-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-08-10T20:46:30.046780-04:00.jpg">August 10 at 8:46 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-08-10T09:02:37.577813-04:00.jpg">
+  <img src="https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-08-10T09:02:37.577813-04:00.jpg"
+     alt="HuffPost Canada at 2022-08-10 09:02:40-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-08-10T09:02:37.577813-04:00.jpg">August 10 at 9:02 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-08-09T19:33:09.184089-04:00.jpg">
   <img src="https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-08-09T19:33:09.184089-04:00.jpg"
      alt="HuffPost Canada at 2022-08-09 19:33:10-04:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-08-05T08:31:48.076986-04:00.jpg">August 5 at 8:31 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-08-04T19:38:58.745555-04:00.jpg">
-  <img src="https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-08-04T19:38:58.745555-04:00.jpg"
-     alt="HuffPost Canada at 2022-08-04 19:39:00-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-08-04T19:38:58.745555-04:00.jpg">August 4 at 7:39 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-08-04T07:17:43.487580-04:00.jpg">
-  <img src="https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-08-04T07:17:43.487580-04:00.jpg"
-     alt="HuffPost Canada at 2022-08-04 07:17:45-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-08-04T07:17:43.487580-04:00.jpg">August 4 at 7:17 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 33 hyperlink lists with the Internet Archive.
+The archiving routine has saved 35 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 10 at 8:46 PM](https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-08-10T20:46:30.046780-04:00.hyperlinks.json) |
+| [August 10 at 9:02 AM](https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-08-10T09:02:37.577813-04:00.hyperlinks.json) |
 | [August 9 at 7:33 PM](https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-08-09T19:33:09.184089-04:00.hyperlinks.json) |
 | [August 9 at 8:50 AM](https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-08-09T08:49:58.209608-04:00.hyperlinks.json) |
 | [August 8 at 8:44 PM](https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-08-08T20:44:10.443699-04:00.hyperlinks.json) |
@@ -322,13 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 7 at 8:31 AM](https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-08-07T08:31:50.944186-04:00.hyperlinks.json) |
 | [August 6 at 8:34 PM](https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-08-06T20:34:12.390996-04:00.hyperlinks.json) |
 | [August 6 at 8:24 AM](https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-08-06T08:24:18.101908-04:00.hyperlinks.json) |
-| [August 5 at 7:37 PM](https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-08-05T19:37:33.202539-04:00.hyperlinks.json) |
-| [August 5 at 8:31 AM](https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-08-05T08:31:48.076986-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 35 accessibility trees with the Internet Archive.
+The archiving routine has saved 37 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 10 at 8:46 PM](https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-08-10T20:46:30.046780-04:00.accessibility.json) |
+| [August 10 at 9:02 AM](https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-08-10T09:02:37.577813-04:00.accessibility.json) |
 | [August 9 at 7:33 PM](https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-08-09T19:33:09.184089-04:00.accessibility.json) |
 | [August 9 at 8:50 AM](https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-08-09T08:49:58.209608-04:00.accessibility.json) |
 | [August 8 at 8:44 PM](https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-08-08T20:44:10.443699-04:00.accessibility.json) |
@@ -427,14 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 7 at 8:31 AM](https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-08-07T08:31:50.944186-04:00.accessibility.json) |
 | [August 6 at 8:34 PM](https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-08-06T20:34:12.390996-04:00.accessibility.json) |
 | [August 6 at 8:24 AM](https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-08-06T08:24:18.101908-04:00.accessibility.json) |
-| [August 5 at 7:37 PM](https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-08-05T19:37:33.202539-04:00.accessibility.json) |
-| [August 5 at 8:31 AM](https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-08-05T08:31:48.076986-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 35 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 37 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 10 at 8:46 PM](https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-08-10T20:46:30.046780-04:00.lighthouse.json) |
+| [August 10 at 9:02 AM](https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-08-10T09:02:37.577813-04:00.lighthouse.json) |
 | [August 9 at 7:33 PM](https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-08-09T19:33:09.184089-04:00.lighthouse.json) |
 | [August 9 at 8:50 AM](https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-08-09T08:49:58.209608-04:00.lighthouse.json) |
 | [August 8 at 8:44 PM](https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-08-08T20:44:10.443699-04:00.lighthouse.json) |
@@ -533,8 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 7 at 8:31 AM](https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-08-07T08:31:50.944186-04:00.lighthouse.json) |
 | [August 6 at 8:34 PM](https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-08-06T20:34:12.390996-04:00.lighthouse.json) |
 | [August 6 at 8:24 AM](https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-08-06T08:24:18.101908-04:00.lighthouse.json) |
-| [August 5 at 7:37 PM](https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-08-05T19:37:33.202539-04:00.lighthouse.json) |
-| [August 5 at 8:31 AM](https://archive.org/download/huffpostcanada-2022/huffpostcanada-2022-08-05T08:31:48.076986-04:00.lighthouse.json) |
 
 
 

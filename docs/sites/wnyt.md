@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 17 screenshots with the Internet Archive.
+The archiving routine has saved 19 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-10T13:55:59.425066-04:00.jpg">
+  <img src="https://archive.org/download/wnyt-2022/wnyt-2022-08-10T13:55:59.425066-04:00.jpg"
+     alt="WNYT NewsChannel 13 at 2022-08-10 13:56:00-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-10T13:55:59.425066-04:00.jpg">August 10 at 1:56 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-09T22:44:04.025580-04:00.jpg">
+  <img src="https://archive.org/download/wnyt-2022/wnyt-2022-08-09T22:44:04.025580-04:00.jpg"
+     alt="WNYT NewsChannel 13 at 2022-08-09 22:44:05-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-09T22:44:04.025580-04:00.jpg">August 9 at 10:44 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-09T10:46:20.587860-04:00.jpg">
@@ -118,29 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-05T10:17:58.915964-04:00.jpg">August 5 at 10:18 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-04T22:03:00.926861-04:00.jpg">
-  <img src="https://archive.org/download/wnyt-2022/wnyt-2022-08-04T22:03:00.926861-04:00.jpg"
-     alt="WNYT NewsChannel 13 at 2022-08-04 22:03:02-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-04T22:03:00.926861-04:00.jpg">August 4 at 10:03 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-04T10:00:45.968352-04:00.jpg">
-  <img src="https://archive.org/download/wnyt-2022/wnyt-2022-08-04T10:00:45.968352-04:00.jpg"
-     alt="WNYT NewsChannel 13 at 2022-08-04 10:00:49-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wnyt-2022/wnyt-2022-08-04T10:00:45.968352-04:00.jpg">August 4 at 10:00 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 17 hyperlink lists with the Internet Archive.
+The archiving routine has saved 18 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 10 at 1:56 PM](https://archive.org/download/wnyt-2022/wnyt-2022-08-10T13:55:59.425066-04:00.hyperlinks.json) |
 | [August 9 at 10:46 AM](https://archive.org/download/wnyt-2022/wnyt-2022-08-09T10:46:20.587860-04:00.hyperlinks.json) |
 | [August 8 at 10:29 PM](https://archive.org/download/wnyt-2022/wnyt-2022-08-08T22:29:52.073910-04:00.hyperlinks.json) |
 | [August 8 at 10:27 AM](https://archive.org/download/wnyt-2022/wnyt-2022-08-08T10:27:28.812568-04:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 6 at 10:01 AM](https://archive.org/download/wnyt-2022/wnyt-2022-08-06T10:01:09.469906-04:00.hyperlinks.json) |
 | [August 5 at 10:28 PM](https://archive.org/download/wnyt-2022/wnyt-2022-08-05T22:28:49.974355-04:00.hyperlinks.json) |
 | [August 5 at 1:39 PM](https://archive.org/download/wnyt-2022/wnyt-2022-08-05T13:39:37.554200-04:00.hyperlinks.json) |
-| [August 5 at 10:18 AM](https://archive.org/download/wnyt-2022/wnyt-2022-08-05T10:17:58.915964-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 17 accessibility trees with the Internet Archive.
+The archiving routine has saved 19 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 10 at 1:56 PM](https://archive.org/download/wnyt-2022/wnyt-2022-08-10T13:55:59.425066-04:00.accessibility.json) |
+| [August 9 at 10:44 PM](https://archive.org/download/wnyt-2022/wnyt-2022-08-09T22:44:04.025580-04:00.accessibility.json) |
 | [August 9 at 10:46 AM](https://archive.org/download/wnyt-2022/wnyt-2022-08-09T10:46:20.587860-04:00.accessibility.json) |
 | [August 8 at 10:29 PM](https://archive.org/download/wnyt-2022/wnyt-2022-08-08T22:29:52.073910-04:00.accessibility.json) |
 | [August 8 at 10:27 AM](https://archive.org/download/wnyt-2022/wnyt-2022-08-08T10:27:28.812568-04:00.accessibility.json) |
@@ -178,14 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [August 6 at 11:16 PM](https://archive.org/download/wnyt-2022/wnyt-2022-08-06T23:16:47.291456-04:00.accessibility.json) |
 | [August 6 at 10:01 AM](https://archive.org/download/wnyt-2022/wnyt-2022-08-06T10:01:09.469906-04:00.accessibility.json) |
 | [August 5 at 10:28 PM](https://archive.org/download/wnyt-2022/wnyt-2022-08-05T22:28:49.974355-04:00.accessibility.json) |
-| [August 5 at 1:39 PM](https://archive.org/download/wnyt-2022/wnyt-2022-08-05T13:39:37.554200-04:00.accessibility.json) |
-| [August 5 at 10:18 AM](https://archive.org/download/wnyt-2022/wnyt-2022-08-05T10:17:58.915964-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 19 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 10 at 1:56 PM](https://archive.org/download/wnyt-2022/wnyt-2022-08-10T13:55:59.425066-04:00.lighthouse.json) |
+| [August 9 at 10:44 PM](https://archive.org/download/wnyt-2022/wnyt-2022-08-09T22:44:04.025580-04:00.lighthouse.json) |
 | [August 9 at 10:46 AM](https://archive.org/download/wnyt-2022/wnyt-2022-08-09T10:46:20.587860-04:00.lighthouse.json) |
 | [August 8 at 10:29 PM](https://archive.org/download/wnyt-2022/wnyt-2022-08-08T22:29:52.073910-04:00.lighthouse.json) |
 | [August 8 at 10:27 AM](https://archive.org/download/wnyt-2022/wnyt-2022-08-08T10:27:28.812568-04:00.lighthouse.json) |
@@ -201,8 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 6 at 11:16 PM](https://archive.org/download/wnyt-2022/wnyt-2022-08-06T23:16:47.291456-04:00.lighthouse.json) |
 | [August 6 at 10:01 AM](https://archive.org/download/wnyt-2022/wnyt-2022-08-06T10:01:09.469906-04:00.lighthouse.json) |
 | [August 5 at 10:28 PM](https://archive.org/download/wnyt-2022/wnyt-2022-08-05T22:28:49.974355-04:00.lighthouse.json) |
-| [August 5 at 1:39 PM](https://archive.org/download/wnyt-2022/wnyt-2022-08-05T13:39:37.554200-04:00.lighthouse.json) |
-| [August 5 at 10:18 AM](https://archive.org/download/wnyt-2022/wnyt-2022-08-05T10:17:58.915964-04:00.lighthouse.json) |
 
 
 

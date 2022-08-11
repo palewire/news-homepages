@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 43 screenshots with the Internet Archive.
+The archiving routine has saved 45 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/wtvm-2022/wtvm-2022-08-10T13:55:31.366886-04:00.jpg">
+  <img src="https://archive.org/download/wtvm-2022/wtvm-2022-08-10T13:55:31.366886-04:00.jpg"
+     alt="WTVM News Leader 9 at 2022-08-10 13:55:34-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wtvm-2022/wtvm-2022-08-10T13:55:31.366886-04:00.jpg">August 10 at 1:55 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wtvm-2022/wtvm-2022-08-09T22:44:31.044014-04:00.jpg">
+  <img src="https://archive.org/download/wtvm-2022/wtvm-2022-08-09T22:44:31.044014-04:00.jpg"
+     alt="WTVM News Leader 9 at 2022-08-09 22:44:38-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wtvm-2022/wtvm-2022-08-09T22:44:31.044014-04:00.jpg">August 9 at 10:44 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/wtvm-2022/wtvm-2022-08-09T10:46:58.324740-04:00.jpg">
   <img src="https://archive.org/download/wtvm-2022/wtvm-2022-08-09T10:46:58.324740-04:00.jpg"
      alt="WTVM News Leader 9 at 2022-08-09 10:47:00-04:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wtvm-2022/wtvm-2022-08-05T10:18:18.451993-04:00.jpg">August 5 at 10:18 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wtvm-2022/wtvm-2022-08-04T22:03:38.236601-04:00.jpg">
-  <img src="https://archive.org/download/wtvm-2022/wtvm-2022-08-04T22:03:38.236601-04:00.jpg"
-     alt="WTVM News Leader 9 at 2022-08-04 22:03:41-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wtvm-2022/wtvm-2022-08-04T22:03:38.236601-04:00.jpg">August 4 at 10:03 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wtvm-2022/wtvm-2022-08-04T10:01:48.846292-04:00.jpg">
-  <img src="https://archive.org/download/wtvm-2022/wtvm-2022-08-04T10:01:48.846292-04:00.jpg"
-     alt="WTVM News Leader 9 at 2022-08-04 10:01:53-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wtvm-2022/wtvm-2022-08-04T10:01:48.846292-04:00.jpg">August 4 at 10:01 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 43 hyperlink lists with the Internet Archive.
+The archiving routine has saved 45 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 10 at 1:55 PM](https://archive.org/download/wtvm-2022/wtvm-2022-08-10T13:55:31.366886-04:00.hyperlinks.json) |
+| [August 9 at 10:44 PM](https://archive.org/download/wtvm-2022/wtvm-2022-08-09T22:44:31.044014-04:00.hyperlinks.json) |
 | [August 9 at 10:47 AM](https://archive.org/download/wtvm-2022/wtvm-2022-08-09T10:46:58.324740-04:00.hyperlinks.json) |
 | [August 8 at 10:30 PM](https://archive.org/download/wtvm-2022/wtvm-2022-08-08T22:30:18.258389-04:00.hyperlinks.json) |
 | [August 8 at 10:28 AM](https://archive.org/download/wtvm-2022/wtvm-2022-08-08T10:27:57.663744-04:00.hyperlinks.json) |
@@ -322,13 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 6 at 11:16 PM](https://archive.org/download/wtvm-2022/wtvm-2022-08-06T23:16:40.305109-04:00.hyperlinks.json) |
 | [August 6 at 10:01 AM](https://archive.org/download/wtvm-2022/wtvm-2022-08-06T10:01:28.645137-04:00.hyperlinks.json) |
 | [August 5 at 10:29 PM](https://archive.org/download/wtvm-2022/wtvm-2022-08-05T22:28:58.594704-04:00.hyperlinks.json) |
-| [August 5 at 1:41 PM](https://archive.org/download/wtvm-2022/wtvm-2022-08-05T13:41:38.234670-04:00.hyperlinks.json) |
-| [August 5 at 10:18 AM](https://archive.org/download/wtvm-2022/wtvm-2022-08-05T10:18:18.451993-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 43 accessibility trees with the Internet Archive.
+The archiving routine has saved 45 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 10 at 1:55 PM](https://archive.org/download/wtvm-2022/wtvm-2022-08-10T13:55:31.366886-04:00.accessibility.json) |
+| [August 9 at 10:44 PM](https://archive.org/download/wtvm-2022/wtvm-2022-08-09T22:44:31.044014-04:00.accessibility.json) |
 | [August 9 at 10:47 AM](https://archive.org/download/wtvm-2022/wtvm-2022-08-09T10:46:58.324740-04:00.accessibility.json) |
 | [August 8 at 10:30 PM](https://archive.org/download/wtvm-2022/wtvm-2022-08-08T22:30:18.258389-04:00.accessibility.json) |
 | [August 8 at 10:28 AM](https://archive.org/download/wtvm-2022/wtvm-2022-08-08T10:27:57.663744-04:00.accessibility.json) |
@@ -427,14 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 6 at 11:16 PM](https://archive.org/download/wtvm-2022/wtvm-2022-08-06T23:16:40.305109-04:00.accessibility.json) |
 | [August 6 at 10:01 AM](https://archive.org/download/wtvm-2022/wtvm-2022-08-06T10:01:28.645137-04:00.accessibility.json) |
 | [August 5 at 10:29 PM](https://archive.org/download/wtvm-2022/wtvm-2022-08-05T22:28:58.594704-04:00.accessibility.json) |
-| [August 5 at 1:41 PM](https://archive.org/download/wtvm-2022/wtvm-2022-08-05T13:41:38.234670-04:00.accessibility.json) |
-| [August 5 at 10:18 AM](https://archive.org/download/wtvm-2022/wtvm-2022-08-05T10:18:18.451993-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 36 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 38 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 10 at 1:55 PM](https://archive.org/download/wtvm-2022/wtvm-2022-08-10T13:55:31.366886-04:00.lighthouse.json) |
+| [August 9 at 10:44 PM](https://archive.org/download/wtvm-2022/wtvm-2022-08-09T22:44:31.044014-04:00.lighthouse.json) |
 | [August 9 at 10:47 AM](https://archive.org/download/wtvm-2022/wtvm-2022-08-09T10:46:58.324740-04:00.lighthouse.json) |
 | [August 8 at 10:30 PM](https://archive.org/download/wtvm-2022/wtvm-2022-08-08T22:30:18.258389-04:00.lighthouse.json) |
 | [August 8 at 10:28 AM](https://archive.org/download/wtvm-2022/wtvm-2022-08-08T10:27:57.663744-04:00.lighthouse.json) |
@@ -533,8 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 6 at 11:16 PM](https://archive.org/download/wtvm-2022/wtvm-2022-08-06T23:16:40.305109-04:00.lighthouse.json) |
 | [August 6 at 10:01 AM](https://archive.org/download/wtvm-2022/wtvm-2022-08-06T10:01:28.645137-04:00.lighthouse.json) |
 | [August 5 at 10:29 PM](https://archive.org/download/wtvm-2022/wtvm-2022-08-05T22:28:58.594704-04:00.lighthouse.json) |
-| [August 5 at 1:41 PM](https://archive.org/download/wtvm-2022/wtvm-2022-08-05T13:41:38.234670-04:00.lighthouse.json) |
-| [August 5 at 10:18 AM](https://archive.org/download/wtvm-2022/wtvm-2022-08-05T10:18:18.451993-04:00.lighthouse.json) |
 
 
 

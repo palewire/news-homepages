@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 10 screenshots with the Internet Archive.
+The archiving routine has saved 12 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-10T13:49:40.326070-04:00.jpg">
+  <img src="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-10T13:49:40.326070-04:00.jpg"
+     alt="Babylon Bee at 2022-08-10 13:49:41-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-10T13:49:40.326070-04:00.jpg">August 10 at 1:49 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-09T22:37:35.663344-04:00.jpg">
+  <img src="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-09T22:37:35.663344-04:00.jpg"
+     alt="Babylon Bee at 2022-08-09 22:37:36-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-09T22:37:35.663344-04:00.jpg">August 9 at 10:37 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-09T10:39:00.788279-04:00.jpg">
@@ -122,7 +140,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 10 hyperlink lists with the Internet Archive.
+The archiving routine has saved 12 hyperlink lists with the Internet Archive.
 
 
 
@@ -130,6 +148,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 10 at 1:49 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-10T13:49:40.326070-04:00.hyperlinks.json) |
+| [August 9 at 10:37 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-09T22:37:35.663344-04:00.hyperlinks.json) |
 | [August 9 at 10:39 AM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-09T10:39:00.788279-04:00.hyperlinks.json) |
 | [August 8 at 10:26 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-08T22:26:53.318178-04:00.hyperlinks.json) |
 | [August 8 at 10:22 AM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-08T10:22:04.298906-04:00.hyperlinks.json) |
@@ -138,13 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 6 at 11:10 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-06T23:10:39.149279-04:00.hyperlinks.json) |
 | [August 6 at 9:56 AM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-06T09:56:21.339998-04:00.hyperlinks.json) |
 | [August 5 at 10:23 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-05T22:23:02.414930-04:00.hyperlinks.json) |
-| [August 5 at 1:34 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-05T13:34:11.416811-04:00.hyperlinks.json) |
-| [August 5 at 10:11 AM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-05T10:11:00.774452-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 9 accessibility trees with the Internet Archive.
+The archiving routine has saved 11 accessibility trees with the Internet Archive.
 
 
 
@@ -152,6 +170,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 10 at 1:49 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-10T13:49:40.326070-04:00.accessibility.json) |
+| [August 9 at 10:37 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-09T22:37:35.663344-04:00.accessibility.json) |
 | [August 9 at 10:39 AM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-09T10:39:00.788279-04:00.accessibility.json) |
 | [August 8 at 10:26 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-08T22:26:53.318178-04:00.accessibility.json) |
 | [August 8 at 10:22 AM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-08T10:22:04.298906-04:00.accessibility.json) |
@@ -160,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [August 6 at 11:10 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-06T23:10:39.149279-04:00.accessibility.json) |
 | [August 6 at 9:56 AM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-06T09:56:21.339998-04:00.accessibility.json) |
 | [August 5 at 10:23 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-05T22:23:02.414930-04:00.accessibility.json) |
-| [August 5 at 1:34 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-05T13:34:11.416811-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 10 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 12 Lighthouse audits with the Internet Archive.
 
 
 
@@ -174,6 +193,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 10 at 1:49 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-10T13:49:40.326070-04:00.lighthouse.json) |
+| [August 9 at 10:37 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-09T22:37:35.663344-04:00.lighthouse.json) |
 | [August 9 at 10:39 AM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-09T10:39:00.788279-04:00.lighthouse.json) |
 | [August 8 at 10:26 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-08T22:26:53.318178-04:00.lighthouse.json) |
 | [August 8 at 10:22 AM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-08T10:22:04.298906-04:00.lighthouse.json) |
@@ -182,8 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 6 at 11:10 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-06T23:10:39.149279-04:00.lighthouse.json) |
 | [August 6 at 9:56 AM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-06T09:56:21.339998-04:00.lighthouse.json) |
 | [August 5 at 10:23 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-05T22:23:02.414930-04:00.lighthouse.json) |
-| [August 5 at 1:34 PM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-05T13:34:11.416811-04:00.lighthouse.json) |
-| [August 5 at 10:11 AM](https://archive.org/download/thebabylonbee-2022/thebabylonbee-2022-08-05T10:11:00.774452-04:00.lighthouse.json) |
 
 
 

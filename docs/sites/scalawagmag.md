@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 34 screenshots with the Internet Archive.
+The archiving routine has saved 36 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-10T14:22:58.474271-04:00.jpg">
+  <img src="https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-10T14:22:58.474271-04:00.jpg"
+     alt="Scalawag at 2022-08-10 14:23:09-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-10T14:22:58.474271-04:00.jpg">August 10 at 2:23 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-10T01:30:27.263003-04:00.jpg">
+  <img src="https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-10T01:30:27.263003-04:00.jpg"
+     alt="Scalawag at 2022-08-10 01:30:28-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-10T01:30:27.263003-04:00.jpg">August 10 at 1:30 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-09T13:52:15.732198-04:00.jpg">
   <img src="https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-09T13:52:15.732198-04:00.jpg"
      alt="Scalawag at 2022-08-09 13:52:18-04:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-05T00:41:32.196360-04:00.jpg">August 5 at 12:41 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-04T13:04:05.972973-04:00.jpg">
-  <img src="https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-04T13:04:05.972973-04:00.jpg"
-     alt="Scalawag at 2022-08-04 13:04:07-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-04T13:04:05.972973-04:00.jpg">August 4 at 1:04 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-04T00:35:24.173542-04:00.jpg">
-  <img src="https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-04T00:35:24.173542-04:00.jpg"
-     alt="Scalawag at 2022-08-04 00:35:27-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-04T00:35:24.173542-04:00.jpg">August 4 at 12:35 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 34 hyperlink lists with the Internet Archive.
+The archiving routine has saved 36 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 10 at 2:23 PM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-10T14:22:58.474271-04:00.hyperlinks.json) |
+| [August 10 at 1:30 AM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-10T01:30:27.263003-04:00.hyperlinks.json) |
 | [August 9 at 1:52 PM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-09T13:52:15.732198-04:00.hyperlinks.json) |
 | [August 9 at 1:08 AM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-09T01:08:05.853885-04:00.hyperlinks.json) |
 | [August 8 at 1:17 PM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-08T13:17:34.739266-04:00.hyperlinks.json) |
@@ -322,13 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 7 at 12:43 AM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-07T00:42:56.641565-04:00.hyperlinks.json) |
 | [August 6 at 12:25 PM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-06T12:25:07.443345-04:00.hyperlinks.json) |
 | [August 6 at 1:02 AM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-06T01:02:29.491102-04:00.hyperlinks.json) |
-| [August 5 at 1:55 PM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-05T13:55:19.899831-04:00.hyperlinks.json) |
-| [August 5 at 12:41 AM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-05T00:41:32.196360-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 34 accessibility trees with the Internet Archive.
+The archiving routine has saved 36 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 10 at 2:23 PM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-10T14:22:58.474271-04:00.accessibility.json) |
+| [August 10 at 1:30 AM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-10T01:30:27.263003-04:00.accessibility.json) |
 | [August 9 at 1:52 PM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-09T13:52:15.732198-04:00.accessibility.json) |
 | [August 9 at 1:08 AM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-09T01:08:05.853885-04:00.accessibility.json) |
 | [August 8 at 1:17 PM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-08T13:17:34.739266-04:00.accessibility.json) |
@@ -427,14 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 7 at 12:43 AM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-07T00:42:56.641565-04:00.accessibility.json) |
 | [August 6 at 12:25 PM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-06T12:25:07.443345-04:00.accessibility.json) |
 | [August 6 at 1:02 AM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-06T01:02:29.491102-04:00.accessibility.json) |
-| [August 5 at 1:55 PM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-05T13:55:19.899831-04:00.accessibility.json) |
-| [August 5 at 12:41 AM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-05T00:41:32.196360-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 34 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 36 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 10 at 2:23 PM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-10T14:22:58.474271-04:00.lighthouse.json) |
+| [August 10 at 1:30 AM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-10T01:30:27.263003-04:00.lighthouse.json) |
 | [August 9 at 1:52 PM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-09T13:52:15.732198-04:00.lighthouse.json) |
 | [August 9 at 1:08 AM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-09T01:08:05.853885-04:00.lighthouse.json) |
 | [August 8 at 1:17 PM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-08T13:17:34.739266-04:00.lighthouse.json) |
@@ -533,8 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 7 at 12:43 AM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-07T00:42:56.641565-04:00.lighthouse.json) |
 | [August 6 at 12:25 PM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-06T12:25:07.443345-04:00.lighthouse.json) |
 | [August 6 at 1:02 AM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-06T01:02:29.491102-04:00.lighthouse.json) |
-| [August 5 at 1:55 PM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-05T13:55:19.899831-04:00.lighthouse.json) |
-| [August 5 at 12:41 AM](https://archive.org/download/scalawagmag-2022/scalawagmag-2022-08-05T00:41:32.196360-04:00.lighthouse.json) |
 
 
 

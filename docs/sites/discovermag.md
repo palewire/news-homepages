@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 75 screenshots with the Internet Archive.
+The archiving routine has saved 77 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/discovermag-2022/discovermag-2022-08-10T20:43:01.014655-04:00.jpg">
+  <img src="https://archive.org/download/discovermag-2022/discovermag-2022-08-10T20:43:01.014655-04:00.jpg"
+     alt="Discover at 2022-08-10 20:43:04-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-08-10T20:43:01.014655-04:00.jpg">August 10 at 8:43 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/discovermag-2022/discovermag-2022-08-10T08:57:38.211195-04:00.jpg">
+  <img src="https://archive.org/download/discovermag-2022/discovermag-2022-08-10T08:57:38.211195-04:00.jpg"
+     alt="Discover at 2022-08-10 08:57:46-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-08-10T08:57:38.211195-04:00.jpg">August 10 at 8:57 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/discovermag-2022/discovermag-2022-08-09T19:29:28.371722-04:00.jpg">
   <img src="https://archive.org/download/discovermag-2022/discovermag-2022-08-09T19:29:28.371722-04:00.jpg"
      alt="Discover at 2022-08-09 19:29:31-04:00 local time"
@@ -199,24 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-08-05T08:27:32.791864-04:00.jpg">August 5 at 8:27 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/discovermag-2022/discovermag-2022-08-04T19:35:56.858384-04:00.jpg">
-  <img src="https://archive.org/download/discovermag-2022/discovermag-2022-08-04T19:35:56.858384-04:00.jpg"
-     alt="Discover at 2022-08-04 19:35:59-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-08-04T19:35:56.858384-04:00.jpg">August 4 at 7:35 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/discovermag-2022/discovermag-2022-08-04T07:14:09.164868-04:00.jpg">
-  <img src="https://archive.org/download/discovermag-2022/discovermag-2022-08-04T07:14:09.164868-04:00.jpg"
-     alt="Discover at 2022-08-04 07:14:13-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-08-04T07:14:09.164868-04:00.jpg">August 4 at 7:14 AM</a></p>
 </div>
 
 </div>
@@ -328,7 +328,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 69 accessibility trees with the Internet Archive.
+The archiving routine has saved 71 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 10 at 8:43 PM](https://archive.org/download/discovermag-2022/discovermag-2022-08-10T20:43:01.014655-04:00.accessibility.json) |
+| [August 10 at 8:57 AM](https://archive.org/download/discovermag-2022/discovermag-2022-08-10T08:57:38.211195-04:00.accessibility.json) |
 | [August 9 at 7:29 PM](https://archive.org/download/discovermag-2022/discovermag-2022-08-09T19:29:28.371722-04:00.accessibility.json) |
 | [August 9 at 8:44 AM](https://archive.org/download/discovermag-2022/discovermag-2022-08-09T08:44:13.093672-04:00.accessibility.json) |
 | [August 8 at 8:40 PM](https://archive.org/download/discovermag-2022/discovermag-2022-08-08T20:40:08.627436-04:00.accessibility.json) |
@@ -427,14 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 7 at 8:27 AM](https://archive.org/download/discovermag-2022/discovermag-2022-08-07T08:27:35.189332-04:00.accessibility.json) |
 | [August 6 at 8:30 PM](https://archive.org/download/discovermag-2022/discovermag-2022-08-06T20:30:34.825652-04:00.accessibility.json) |
 | [August 6 at 8:21 AM](https://archive.org/download/discovermag-2022/discovermag-2022-08-06T08:21:26.519719-04:00.accessibility.json) |
-| [August 5 at 7:35 PM](https://archive.org/download/discovermag-2022/discovermag-2022-08-05T19:35:25.366885-04:00.accessibility.json) |
-| [August 4 at 7:36 PM](https://archive.org/download/discovermag-2022/discovermag-2022-08-04T19:35:56.858384-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 35 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 37 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 10 at 8:43 PM](https://archive.org/download/discovermag-2022/discovermag-2022-08-10T20:43:01.014655-04:00.lighthouse.json) |
+| [August 10 at 8:57 AM](https://archive.org/download/discovermag-2022/discovermag-2022-08-10T08:57:38.211195-04:00.lighthouse.json) |
 | [August 9 at 7:29 PM](https://archive.org/download/discovermag-2022/discovermag-2022-08-09T19:29:28.371722-04:00.lighthouse.json) |
 | [August 9 at 8:44 AM](https://archive.org/download/discovermag-2022/discovermag-2022-08-09T08:44:13.093672-04:00.lighthouse.json) |
 | [August 8 at 8:40 PM](https://archive.org/download/discovermag-2022/discovermag-2022-08-08T20:40:08.627436-04:00.lighthouse.json) |
@@ -533,8 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 7 at 8:27 AM](https://archive.org/download/discovermag-2022/discovermag-2022-08-07T08:27:35.189332-04:00.lighthouse.json) |
 | [August 6 at 8:30 PM](https://archive.org/download/discovermag-2022/discovermag-2022-08-06T20:30:34.825652-04:00.lighthouse.json) |
 | [August 6 at 8:21 AM](https://archive.org/download/discovermag-2022/discovermag-2022-08-06T08:21:26.519719-04:00.lighthouse.json) |
-| [August 5 at 7:35 PM](https://archive.org/download/discovermag-2022/discovermag-2022-08-05T19:35:25.366885-04:00.lighthouse.json) |
-| [August 5 at 8:27 AM](https://archive.org/download/discovermag-2022/discovermag-2022-08-05T08:27:32.791864-04:00.lighthouse.json) |
 
 
 

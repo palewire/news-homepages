@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 38 screenshots with the Internet Archive.
+The archiving routine has saved 41 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-10T20:54:08.558620-04:00.jpg">
+  <img src="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-10T20:54:08.558620-04:00.jpg"
+     alt="Mississippi Today at 2022-08-10 20:54:10-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-10T20:54:08.558620-04:00.jpg">August 10 at 8:54 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-10T09:11:43.492280-04:00.jpg">
+  <img src="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-10T09:11:43.492280-04:00.jpg"
+     alt="Mississippi Today at 2022-08-10 09:11:46-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-10T09:11:43.492280-04:00.jpg">August 10 at 9:11 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-09T20:57:52.907861-04:00.jpg">
+  <img src="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-09T20:57:52.907861-04:00.jpg"
+     alt="Mississippi Today at 2022-08-09 20:57:54-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-09T20:57:52.907861-04:00.jpg">August 9 at 8:57 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-09T08:57:12.277815-04:00.jpg">
   <img src="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-09T08:57:12.277815-04:00.jpg"
      alt="Mississippi Today at 2022-08-09 08:57:15-04:00 local time"
@@ -192,38 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-05T08:39:53.619260-04:00.jpg">August 5 at 8:39 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-04T21:44:33.883793-04:00.jpg">
-  <img src="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-04T21:44:33.883793-04:00.jpg"
-     alt="Mississippi Today at 2022-08-04 21:44:35-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-04T21:44:33.883793-04:00.jpg">August 4 at 9:44 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-04T08:35:38.522814-04:00.jpg">
-  <img src="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-04T08:35:38.522814-04:00.jpg"
-     alt="Mississippi Today at 2022-08-04 08:35:40-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-04T08:35:38.522814-04:00.jpg">August 4 at 8:35 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-03T20:41:25.010635-04:00.jpg">
-  <img src="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-03T20:41:25.010635-04:00.jpg"
-     alt="Mississippi Today at 2022-08-03 20:41:27-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-03T20:41:25.010635-04:00.jpg">August 3 at 8:41 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 38 hyperlink lists with the Internet Archive.
+The archiving routine has saved 41 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 10 at 8:54 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-10T20:54:08.558620-04:00.hyperlinks.json) |
+| [August 10 at 9:11 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-10T09:11:43.492280-04:00.hyperlinks.json) |
+| [August 9 at 8:57 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-09T20:57:52.907861-04:00.hyperlinks.json) |
 | [August 9 at 8:57 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-09T08:57:12.277815-04:00.hyperlinks.json) |
 | [August 8 at 8:52 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-08T20:52:37.227052-04:00.hyperlinks.json) |
 | [August 8 at 8:44 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-08T08:44:07.569496-04:00.hyperlinks.json) |
@@ -321,14 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 7 at 8:40 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-07T08:40:22.833463-04:00.hyperlinks.json) |
 | [August 6 at 8:40 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-06T20:40:50.707471-04:00.hyperlinks.json) |
 | [August 6 at 8:32 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-06T08:32:15.207403-04:00.hyperlinks.json) |
-| [August 5 at 10:06 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-05T22:06:46.578091-04:00.hyperlinks.json) |
-| [August 5 at 8:40 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-05T08:39:53.619260-04:00.hyperlinks.json) |
-| [August 4 at 9:44 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-04T21:44:33.883793-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 38 accessibility trees with the Internet Archive.
+The archiving routine has saved 41 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 10 at 8:54 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-10T20:54:08.558620-04:00.accessibility.json) |
+| [August 10 at 9:11 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-10T09:11:43.492280-04:00.accessibility.json) |
+| [August 9 at 8:57 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-09T20:57:52.907861-04:00.accessibility.json) |
 | [August 9 at 8:57 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-09T08:57:12.277815-04:00.accessibility.json) |
 | [August 8 at 8:52 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-08T20:52:37.227052-04:00.accessibility.json) |
 | [August 8 at 8:44 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-08T08:44:07.569496-04:00.accessibility.json) |
@@ -426,15 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 7 at 8:40 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-07T08:40:22.833463-04:00.accessibility.json) |
 | [August 6 at 8:40 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-06T20:40:50.707471-04:00.accessibility.json) |
 | [August 6 at 8:32 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-06T08:32:15.207403-04:00.accessibility.json) |
-| [August 5 at 10:06 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-05T22:06:46.578091-04:00.accessibility.json) |
-| [August 5 at 8:39 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-05T08:39:53.619260-04:00.accessibility.json) |
-| [August 4 at 9:44 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-04T21:44:33.883793-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 34 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 37 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 10 at 8:54 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-10T20:54:08.558620-04:00.lighthouse.json) |
+| [August 10 at 9:11 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-10T09:11:43.492280-04:00.lighthouse.json) |
+| [August 9 at 8:57 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-09T20:57:52.907861-04:00.lighthouse.json) |
 | [August 9 at 8:57 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-09T08:57:12.277815-04:00.lighthouse.json) |
 | [August 8 at 8:52 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-08T20:52:37.227052-04:00.lighthouse.json) |
 | [August 8 at 8:44 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-08T08:44:07.569496-04:00.lighthouse.json) |
@@ -532,9 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 7 at 8:40 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-07T08:40:22.833463-04:00.lighthouse.json) |
 | [August 6 at 8:40 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-06T20:40:50.707471-04:00.lighthouse.json) |
 | [August 6 at 8:32 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-06T08:32:15.207403-04:00.lighthouse.json) |
-| [August 5 at 10:06 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-05T22:06:46.578091-04:00.lighthouse.json) |
-| [August 5 at 8:40 AM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-05T08:39:53.619260-04:00.lighthouse.json) |
-| [August 4 at 9:44 PM](https://archive.org/download/mstodaynews-2022/mstodaynews-2022-08-04T21:44:33.883793-04:00.lighthouse.json) |
 
 
 

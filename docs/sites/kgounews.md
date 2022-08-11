@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 64 screenshots with the Internet Archive.
+The archiving routine has saved 66 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/kgounews-2022/kgounews-2022-08-10T13:07:54.137202-05:00.jpg">
+  <img src="https://archive.org/download/kgounews-2022/kgounews-2022-08-10T13:07:54.137202-05:00.jpg"
+     alt="KGOU at 2022-08-10 13:07:58-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-08-10T13:07:54.137202-05:00.jpg">August 10 at 1:07 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kgounews-2022/kgounews-2022-08-09T23:04:45.684871-05:00.jpg">
+  <img src="https://archive.org/download/kgounews-2022/kgounews-2022-08-09T23:04:45.684871-05:00.jpg"
+     alt="KGOU at 2022-08-09 23:04:49-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-08-09T23:04:45.684871-05:00.jpg">August 9 at 11:04 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/kgounews-2022/kgounews-2022-08-09T12:28:49.960784-05:00.jpg">
   <img src="https://archive.org/download/kgounews-2022/kgounews-2022-08-09T12:28:49.960784-05:00.jpg"
      alt="KGOU at 2022-08-09 12:28:53-05:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-08-04T22:22:16.924491-05:00.jpg">August 4 at 10:22 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kgounews-2022/kgounews-2022-08-04T10:26:05.530560-05:00.jpg">
-  <img src="https://archive.org/download/kgounews-2022/kgounews-2022-08-04T10:26:05.530560-05:00.jpg"
-     alt="KGOU at 2022-08-04 10:26:07-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-08-04T10:26:05.530560-05:00.jpg">August 4 at 10:26 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kgounews-2022/kgounews-2022-08-03T22:24:39.785495-05:00.jpg">
-  <img src="https://archive.org/download/kgounews-2022/kgounews-2022-08-03T22:24:39.785495-05:00.jpg"
-     alt="KGOU at 2022-08-03 22:24:41-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kgounews-2022/kgounews-2022-08-03T22:24:39.785495-05:00.jpg">August 3 at 10:24 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 64 hyperlink lists with the Internet Archive.
+The archiving routine has saved 66 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 10 at 1:08 PM](https://archive.org/download/kgounews-2022/kgounews-2022-08-10T13:07:54.137202-05:00.hyperlinks.json) |
+| [August 9 at 11:04 PM](https://archive.org/download/kgounews-2022/kgounews-2022-08-09T23:04:45.684871-05:00.hyperlinks.json) |
 | [August 9 at 12:28 PM](https://archive.org/download/kgounews-2022/kgounews-2022-08-09T12:28:49.960784-05:00.hyperlinks.json) |
 | [August 8 at 10:48 PM](https://archive.org/download/kgounews-2022/kgounews-2022-08-08T22:48:36.294235-05:00.hyperlinks.json) |
 | [August 8 at 12:06 PM](https://archive.org/download/kgounews-2022/kgounews-2022-08-08T12:06:53.436192-05:00.hyperlinks.json) |
@@ -322,13 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 6 at 10:25 PM](https://archive.org/download/kgounews-2022/kgounews-2022-08-06T22:25:15.385371-05:00.hyperlinks.json) |
 | [August 6 at 11:14 AM](https://archive.org/download/kgounews-2022/kgounews-2022-08-06T11:14:20.888981-05:00.hyperlinks.json) |
 | [August 5 at 11:52 PM](https://archive.org/download/kgounews-2022/kgounews-2022-08-05T23:52:12.761160-05:00.hyperlinks.json) |
-| [August 5 at 12:26 PM](https://archive.org/download/kgounews-2022/kgounews-2022-08-05T12:26:03.638645-05:00.hyperlinks.json) |
-| [August 4 at 10:22 PM](https://archive.org/download/kgounews-2022/kgounews-2022-08-04T22:22:16.924491-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 64 accessibility trees with the Internet Archive.
+The archiving routine has saved 66 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 10 at 1:08 PM](https://archive.org/download/kgounews-2022/kgounews-2022-08-10T13:07:54.137202-05:00.accessibility.json) |
+| [August 9 at 11:04 PM](https://archive.org/download/kgounews-2022/kgounews-2022-08-09T23:04:45.684871-05:00.accessibility.json) |
 | [August 9 at 12:28 PM](https://archive.org/download/kgounews-2022/kgounews-2022-08-09T12:28:49.960784-05:00.accessibility.json) |
 | [August 8 at 10:48 PM](https://archive.org/download/kgounews-2022/kgounews-2022-08-08T22:48:36.294235-05:00.accessibility.json) |
 | [August 8 at 12:06 PM](https://archive.org/download/kgounews-2022/kgounews-2022-08-08T12:06:53.436192-05:00.accessibility.json) |
@@ -427,14 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 6 at 10:25 PM](https://archive.org/download/kgounews-2022/kgounews-2022-08-06T22:25:15.385371-05:00.accessibility.json) |
 | [August 6 at 11:14 AM](https://archive.org/download/kgounews-2022/kgounews-2022-08-06T11:14:20.888981-05:00.accessibility.json) |
 | [August 5 at 11:52 PM](https://archive.org/download/kgounews-2022/kgounews-2022-08-05T23:52:12.761160-05:00.accessibility.json) |
-| [August 5 at 12:26 PM](https://archive.org/download/kgounews-2022/kgounews-2022-08-05T12:26:03.638645-05:00.accessibility.json) |
-| [August 4 at 10:22 PM](https://archive.org/download/kgounews-2022/kgounews-2022-08-04T22:22:16.924491-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 34 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 36 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 10 at 1:08 PM](https://archive.org/download/kgounews-2022/kgounews-2022-08-10T13:07:54.137202-05:00.lighthouse.json) |
+| [August 9 at 11:04 PM](https://archive.org/download/kgounews-2022/kgounews-2022-08-09T23:04:45.684871-05:00.lighthouse.json) |
 | [August 9 at 12:28 PM](https://archive.org/download/kgounews-2022/kgounews-2022-08-09T12:28:49.960784-05:00.lighthouse.json) |
 | [August 8 at 10:48 PM](https://archive.org/download/kgounews-2022/kgounews-2022-08-08T22:48:36.294235-05:00.lighthouse.json) |
 | [August 8 at 12:07 PM](https://archive.org/download/kgounews-2022/kgounews-2022-08-08T12:06:53.436192-05:00.lighthouse.json) |
@@ -533,8 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 6 at 10:25 PM](https://archive.org/download/kgounews-2022/kgounews-2022-08-06T22:25:15.385371-05:00.lighthouse.json) |
 | [August 6 at 11:14 AM](https://archive.org/download/kgounews-2022/kgounews-2022-08-06T11:14:20.888981-05:00.lighthouse.json) |
 | [August 5 at 11:52 PM](https://archive.org/download/kgounews-2022/kgounews-2022-08-05T23:52:12.761160-05:00.lighthouse.json) |
-| [August 5 at 12:26 PM](https://archive.org/download/kgounews-2022/kgounews-2022-08-05T12:26:03.638645-05:00.lighthouse.json) |
-| [August 4 at 10:22 PM](https://archive.org/download/kgounews-2022/kgounews-2022-08-04T22:22:16.924491-05:00.lighthouse.json) |
 
 
 

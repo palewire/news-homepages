@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 64 screenshots with the Internet Archive.
+The archiving routine has saved 66 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/edsource-2022/edsource-2022-08-10T17:44:22.934112-07:00.jpg">
+  <img src="https://archive.org/download/edsource-2022/edsource-2022-08-10T17:44:22.934112-07:00.jpg"
+     alt="EdSource at 2022-08-10 17:44:26-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/edsource-2022/edsource-2022-08-10T17:44:22.934112-07:00.jpg">August 10 at 5:44 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/edsource-2022/edsource-2022-08-10T05:58:49.815337-07:00.jpg">
+  <img src="https://archive.org/download/edsource-2022/edsource-2022-08-10T05:58:49.815337-07:00.jpg"
+     alt="EdSource at 2022-08-10 05:58:52-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/edsource-2022/edsource-2022-08-10T05:58:49.815337-07:00.jpg">August 10 at 5:58 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/edsource-2022/edsource-2022-08-09T16:29:14.792851-07:00.jpg">
   <img src="https://archive.org/download/edsource-2022/edsource-2022-08-09T16:29:14.792851-07:00.jpg"
      alt="EdSource at 2022-08-09 16:29:18-07:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/edsource-2022/edsource-2022-08-05T05:28:00.043389-07:00.jpg">August 5 at 5:28 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/edsource-2022/edsource-2022-08-04T16:35:40.129024-07:00.jpg">
-  <img src="https://archive.org/download/edsource-2022/edsource-2022-08-04T16:35:40.129024-07:00.jpg"
-     alt="EdSource at 2022-08-04 16:35:41-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/edsource-2022/edsource-2022-08-04T16:35:40.129024-07:00.jpg">August 4 at 4:35 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/edsource-2022/edsource-2022-08-04T04:15:30.346120-07:00.jpg">
-  <img src="https://archive.org/download/edsource-2022/edsource-2022-08-04T04:15:30.346120-07:00.jpg"
-     alt="EdSource at 2022-08-04 04:15:33-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/edsource-2022/edsource-2022-08-04T04:15:30.346120-07:00.jpg">August 4 at 4:15 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 64 hyperlink lists with the Internet Archive.
+The archiving routine has saved 66 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 10 at 5:44 PM](https://archive.org/download/edsource-2022/edsource-2022-08-10T17:44:22.934112-07:00.hyperlinks.json) |
+| [August 10 at 5:58 AM](https://archive.org/download/edsource-2022/edsource-2022-08-10T05:58:49.815337-07:00.hyperlinks.json) |
 | [August 9 at 4:29 PM](https://archive.org/download/edsource-2022/edsource-2022-08-09T16:29:14.792851-07:00.hyperlinks.json) |
 | [August 9 at 5:45 AM](https://archive.org/download/edsource-2022/edsource-2022-08-09T05:45:14.609005-07:00.hyperlinks.json) |
 | [August 8 at 5:40 PM](https://archive.org/download/edsource-2022/edsource-2022-08-08T17:40:25.670803-07:00.hyperlinks.json) |
@@ -322,13 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 7 at 5:28 AM](https://archive.org/download/edsource-2022/edsource-2022-08-07T05:28:00.801608-07:00.hyperlinks.json) |
 | [August 6 at 5:30 PM](https://archive.org/download/edsource-2022/edsource-2022-08-06T17:30:47.593062-07:00.hyperlinks.json) |
 | [August 6 at 5:21 AM](https://archive.org/download/edsource-2022/edsource-2022-08-06T05:21:32.114567-07:00.hyperlinks.json) |
-| [August 5 at 4:33 PM](https://archive.org/download/edsource-2022/edsource-2022-08-05T16:33:38.246961-07:00.hyperlinks.json) |
-| [August 5 at 5:28 AM](https://archive.org/download/edsource-2022/edsource-2022-08-05T05:28:00.043389-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 65 accessibility trees with the Internet Archive.
+The archiving routine has saved 67 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 10 at 5:44 PM](https://archive.org/download/edsource-2022/edsource-2022-08-10T17:44:22.934112-07:00.accessibility.json) |
+| [August 10 at 5:58 AM](https://archive.org/download/edsource-2022/edsource-2022-08-10T05:58:49.815337-07:00.accessibility.json) |
 | [August 9 at 4:29 PM](https://archive.org/download/edsource-2022/edsource-2022-08-09T16:29:14.792851-07:00.accessibility.json) |
 | [August 9 at 5:45 AM](https://archive.org/download/edsource-2022/edsource-2022-08-09T05:45:14.609005-07:00.accessibility.json) |
 | [August 8 at 5:40 PM](https://archive.org/download/edsource-2022/edsource-2022-08-08T17:40:25.670803-07:00.accessibility.json) |
@@ -427,14 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 7 at 5:28 AM](https://archive.org/download/edsource-2022/edsource-2022-08-07T05:28:00.801608-07:00.accessibility.json) |
 | [August 6 at 5:30 PM](https://archive.org/download/edsource-2022/edsource-2022-08-06T17:30:47.593062-07:00.accessibility.json) |
 | [August 6 at 5:21 AM](https://archive.org/download/edsource-2022/edsource-2022-08-06T05:21:32.114567-07:00.accessibility.json) |
-| [August 5 at 4:33 PM](https://archive.org/download/edsource-2022/edsource-2022-08-05T16:33:38.246961-07:00.accessibility.json) |
-| [August 5 at 5:28 AM](https://archive.org/download/edsource-2022/edsource-2022-08-05T05:28:00.043389-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 35 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 37 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 10 at 5:44 PM](https://archive.org/download/edsource-2022/edsource-2022-08-10T17:44:22.934112-07:00.lighthouse.json) |
+| [August 10 at 5:58 AM](https://archive.org/download/edsource-2022/edsource-2022-08-10T05:58:49.815337-07:00.lighthouse.json) |
 | [August 9 at 4:29 PM](https://archive.org/download/edsource-2022/edsource-2022-08-09T16:29:14.792851-07:00.lighthouse.json) |
 | [August 9 at 5:45 AM](https://archive.org/download/edsource-2022/edsource-2022-08-09T05:45:14.609005-07:00.lighthouse.json) |
 | [August 8 at 5:40 PM](https://archive.org/download/edsource-2022/edsource-2022-08-08T17:40:25.670803-07:00.lighthouse.json) |
@@ -533,8 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 7 at 5:28 AM](https://archive.org/download/edsource-2022/edsource-2022-08-07T05:28:00.801608-07:00.lighthouse.json) |
 | [August 6 at 5:30 PM](https://archive.org/download/edsource-2022/edsource-2022-08-06T17:30:47.593062-07:00.lighthouse.json) |
 | [August 6 at 5:21 AM](https://archive.org/download/edsource-2022/edsource-2022-08-06T05:21:32.114567-07:00.lighthouse.json) |
-| [August 5 at 4:33 PM](https://archive.org/download/edsource-2022/edsource-2022-08-05T16:33:38.246961-07:00.lighthouse.json) |
-| [August 5 at 5:28 AM](https://archive.org/download/edsource-2022/edsource-2022-08-05T05:28:00.043389-07:00.lighthouse.json) |
 
 
 
