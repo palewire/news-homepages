@@ -109,6 +109,18 @@ def get_sites_in_bundle(slug: str) -> typing.List[typing.Dict]:
     return [s for s in site_list if bundle["slug"] in s["bundle_list"]]
 
 
+def get_sites_in_country(slug: str) -> typing.List[typing.Dict]:
+    """Get all the sites in the provided country.
+
+    Args:
+        slug (str): The two digit alpha code of the country.
+
+    Returns a list of site dictionaries.
+    """
+    site_list = get_site_list()
+    return [s for s in site_list if slug.upper() == s["country"]]
+
+
 def get_accessibility_list() -> typing.List[typing.Dict[str, typing.Any]]:
     """Get the full list of accessibility from our extracts.
 

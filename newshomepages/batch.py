@@ -32,6 +32,14 @@ def sites_by_bundle(bundle: str):
     _dump(site_list)
 
 
+@cli.command()
+@click.argument("country")
+def sites_by_country(country: str):
+    """Print site handles in the provided country as a JSON list."""
+    site_list = utils.get_sites_in_country(country)
+    _dump(site_list)
+
+
 def _dump(site_list: typing.List):
     """Print out the provided site list as JSON."""
     handle_list = [s["handle"].lower() for s in site_list]
