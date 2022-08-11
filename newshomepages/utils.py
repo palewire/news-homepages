@@ -41,20 +41,7 @@ def get_site_list():
 
     Returns a list of dictionaries.
     """
-    # Open the site list
-    with open(SITES_PATH) as fh:
-        site_reader = csv.DictReader(fh)
-        site_list = list(site_reader)
-
-    # Sort it alphabetically
-    sorted_list = sorted(site_list, key=lambda x: x["handle"])
-
-    # Split the bundles in a list
-    for s in sorted_list:
-        s["bundle_list"] = s["bundle"].split("|")
-
-    # Return it
-    return sorted_list
+    return get_site_df().to_dict(orient="records")
 
 
 def get_site_df() -> pd.DataFrame:
