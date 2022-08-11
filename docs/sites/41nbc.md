@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 44 screenshots with the Internet Archive.
+The archiving routine has saved 45 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 44 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/41nbc-2022/41nbc-2022-08-11T07:29:59.508427-04:00.jpg">
+  <img src="https://archive.org/download/41nbc-2022/41nbc-2022-08-11T07:29:59.508427-04:00.jpg"
+     alt="41NBC / WMGT at 2022-08-11 07:30:04-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/41nbc-2022/41nbc-2022-08-11T07:29:59.508427-04:00.jpg">August 11 at 7:30 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/41nbc-2022/41nbc-2022-08-10T20:34:55.644497-04:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/41nbc-2022/41nbc-2022-08-05T19:23:51.286936-04:00.jpg">August 5 at 7:23 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/41nbc-2022/41nbc-2022-08-05T08:18:48.086944-04:00.jpg">
-  <img src="https://archive.org/download/41nbc-2022/41nbc-2022-08-05T08:18:48.086944-04:00.jpg"
-     alt="41NBC / WMGT at 2022-08-05 08:18:49-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/41nbc-2022/41nbc-2022-08-05T08:18:48.086944-04:00.jpg">August 5 at 8:18 AM</a></p>
 </div>
 
 </div>
@@ -328,7 +328,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 36 accessibility trees with the Internet Archive.
+The archiving routine has saved 37 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 11 at 7:30 AM](https://archive.org/download/41nbc-2022/41nbc-2022-08-11T07:29:59.508427-04:00.accessibility.json) |
 | [August 10 at 8:35 PM](https://archive.org/download/41nbc-2022/41nbc-2022-08-10T20:34:55.644497-04:00.accessibility.json) |
 | [August 10 at 8:50 AM](https://archive.org/download/41nbc-2022/41nbc-2022-08-10T08:50:24.241752-04:00.accessibility.json) |
 | [August 9 at 7:18 PM](https://archive.org/download/41nbc-2022/41nbc-2022-08-09T19:18:16.113568-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 6 at 8:20 PM](https://archive.org/download/41nbc-2022/41nbc-2022-08-06T20:20:21.398833-04:00.accessibility.json) |
 | [August 5 at 7:23 PM](https://archive.org/download/41nbc-2022/41nbc-2022-08-05T19:23:51.286936-04:00.accessibility.json) |
 | [August 5 at 8:18 AM](https://archive.org/download/41nbc-2022/41nbc-2022-08-05T08:18:48.086944-04:00.accessibility.json) |
-| [August 4 at 7:08 AM](https://archive.org/download/41nbc-2022/41nbc-2022-08-04T07:08:10.527603-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 37 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 38 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 11 at 7:30 AM](https://archive.org/download/41nbc-2022/41nbc-2022-08-11T07:29:59.508427-04:00.lighthouse.json) |
 | [August 10 at 8:35 PM](https://archive.org/download/41nbc-2022/41nbc-2022-08-10T20:34:55.644497-04:00.lighthouse.json) |
 | [August 10 at 8:50 AM](https://archive.org/download/41nbc-2022/41nbc-2022-08-10T08:50:24.241752-04:00.lighthouse.json) |
 | [August 9 at 7:18 PM](https://archive.org/download/41nbc-2022/41nbc-2022-08-09T19:18:16.113568-04:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 7 at 8:38 PM](https://archive.org/download/41nbc-2022/41nbc-2022-08-07T20:38:25.280990-04:00.lighthouse.json) |
 | [August 7 at 8:19 AM](https://archive.org/download/41nbc-2022/41nbc-2022-08-07T08:19:22.229401-04:00.lighthouse.json) |
 | [August 6 at 8:21 PM](https://archive.org/download/41nbc-2022/41nbc-2022-08-06T20:20:21.398833-04:00.lighthouse.json) |
-| [August 6 at 8:13 AM](https://archive.org/download/41nbc-2022/41nbc-2022-08-06T08:12:58.434421-04:00.lighthouse.json) |
 
 
 

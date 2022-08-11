@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 144 screenshots with the Internet Archive.
+The archiving routine has saved 145 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 144 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-08-10T23:52:58.263670-04:00.jpg">
+  <img src="https://archive.org/download/globeandmail-2022/globeandmail-2022-08-10T23:52:58.263670-04:00.jpg"
+     alt="The Globe and Mail at 2022-08-10 23:53:02-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-08-10T23:52:58.263670-04:00.jpg">August 10 at 11:53 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-08-10T19:24:11.176345-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-08-08T19:18:49.503903-04:00.jpg">August 8 at 7:18 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-08-08T13:43:45.142977-04:00.jpg">
-  <img src="https://archive.org/download/globeandmail-2022/globeandmail-2022-08-08T13:43:45.142977-04:00.jpg"
-     alt="The Globe and Mail at 2022-08-08 13:43:49-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/globeandmail-2022/globeandmail-2022-08-08T13:43:45.142977-04:00.jpg">August 8 at 1:43 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 145 hyperlink lists with the Internet Archive.
+The archiving routine has saved 146 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 10 at 11:53 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-08-10T23:52:58.263670-04:00.hyperlinks.json) |
 | [August 10 at 7:24 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-08-10T19:24:11.176345-04:00.hyperlinks.json) |
 | [August 10 at 2:52 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-08-10T14:52:10.185629-04:00.hyperlinks.json) |
 | [August 10 at 2:03 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-08-10T14:03:33.130307-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 9 at 2:01 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-08-09T14:01:19.754294-04:00.hyperlinks.json) |
 | [August 9 at 1:25 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-08-09T13:25:11.059487-04:00.hyperlinks.json) |
 | [August 9 at 7:20 AM](https://archive.org/download/globeandmail-2022/globeandmail-2022-08-09T07:20:23.211397-04:00.hyperlinks.json) |
-| [August 8 at 11:44 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-08-08T23:44:36.731909-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 145 accessibility trees with the Internet Archive.
+The archiving routine has saved 146 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 10 at 11:53 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-08-10T23:52:58.263670-04:00.accessibility.json) |
 | [August 10 at 7:24 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-08-10T19:24:11.176345-04:00.accessibility.json) |
 | [August 10 at 2:52 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-08-10T14:52:10.185629-04:00.accessibility.json) |
 | [August 10 at 2:03 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-08-10T14:03:33.130307-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 9 at 2:01 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-08-09T14:01:19.754294-04:00.accessibility.json) |
 | [August 9 at 1:25 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-08-09T13:25:11.059487-04:00.accessibility.json) |
 | [August 9 at 7:20 AM](https://archive.org/download/globeandmail-2022/globeandmail-2022-08-09T07:20:23.211397-04:00.accessibility.json) |
-| [August 8 at 11:44 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-08-08T23:44:36.731909-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 81 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 82 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 10 at 11:53 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-08-10T23:52:58.263670-04:00.lighthouse.json) |
 | [August 10 at 7:24 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-08-10T19:24:11.176345-04:00.lighthouse.json) |
 | [August 10 at 2:52 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-08-10T14:52:10.185629-04:00.lighthouse.json) |
 | [August 10 at 2:03 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-08-10T14:03:33.130307-04:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 9 at 2:01 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-08-09T14:01:19.754294-04:00.lighthouse.json) |
 | [August 9 at 1:25 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-08-09T13:25:11.059487-04:00.lighthouse.json) |
 | [August 9 at 7:20 AM](https://archive.org/download/globeandmail-2022/globeandmail-2022-08-09T07:20:23.211397-04:00.lighthouse.json) |
-| [August 8 at 11:44 PM](https://archive.org/download/globeandmail-2022/globeandmail-2022-08-08T23:44:36.731909-04:00.lighthouse.json) |
 
 
 

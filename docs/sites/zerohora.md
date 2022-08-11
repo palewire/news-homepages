@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 16 screenshots with the Internet Archive.
+The archiving routine has saved 18 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/zerohora-2022/zerohora-2022-08-11T10:30:07.005529-03:00.jpg">
+  <img src="https://archive.org/download/zerohora-2022/zerohora-2022-08-11T10:30:07.005529-03:00.jpg"
+     alt="Zero Hora at 2022-08-11 10:30:11-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/zerohora-2022/zerohora-2022-08-11T10:30:07.005529-03:00.jpg">August 11 at 10:30 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/zerohora-2022/zerohora-2022-08-11T02:32:54.341033-03:00.jpg">
+  <img src="https://archive.org/download/zerohora-2022/zerohora-2022-08-11T02:32:54.341033-03:00.jpg"
+     alt="Zero Hora at 2022-08-11 02:32:56-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/zerohora-2022/zerohora-2022-08-11T02:32:54.341033-03:00.jpg">August 11 at 2:32 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/zerohora-2022/zerohora-2022-08-10T10:22:31.242306-03:00.jpg">
@@ -118,29 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/zerohora-2022/zerohora-2022-08-06T13:33:10.136609-03:00.jpg">August 6 at 1:33 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/zerohora-2022/zerohora-2022-08-06T02:10:16.932107-03:00.jpg">
-  <img src="https://archive.org/download/zerohora-2022/zerohora-2022-08-06T02:10:16.932107-03:00.jpg"
-     alt="Zero Hora at 2022-08-06 02:10:18-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/zerohora-2022/zerohora-2022-08-06T02:10:16.932107-03:00.jpg">August 6 at 2:10 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/zerohora-2022/zerohora-2022-08-05T15:06:06.850959-03:00.jpg">
-  <img src="https://archive.org/download/zerohora-2022/zerohora-2022-08-05T15:06:06.850959-03:00.jpg"
-     alt="Zero Hora at 2022-08-05 15:06:08-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/zerohora-2022/zerohora-2022-08-05T15:06:06.850959-03:00.jpg">August 5 at 3:06 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 17 hyperlink lists with the Internet Archive.
+The archiving routine has saved 19 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 11 at 10:30 AM](https://archive.org/download/zerohora-2022/zerohora-2022-08-11T10:30:07.005529-03:00.hyperlinks.json) |
+| [August 11 at 2:32 AM](https://archive.org/download/zerohora-2022/zerohora-2022-08-11T02:32:54.341033-03:00.hyperlinks.json) |
 | [August 10 at 3:32 PM](https://archive.org/download/zerohora-2022/zerohora-2022-08-10T15:32:34.207976-03:00.hyperlinks.json) |
 | [August 10 at 10:22 AM](https://archive.org/download/zerohora-2022/zerohora-2022-08-10T10:22:31.242306-03:00.hyperlinks.json) |
 | [August 10 at 2:39 AM](https://archive.org/download/zerohora-2022/zerohora-2022-08-10T02:39:40.463706-03:00.hyperlinks.json) |
@@ -156,13 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 8 at 2:26 PM](https://archive.org/download/zerohora-2022/zerohora-2022-08-08T14:26:33.725576-03:00.hyperlinks.json) |
 | [August 8 at 2:32 AM](https://archive.org/download/zerohora-2022/zerohora-2022-08-08T02:32:13.123370-03:00.hyperlinks.json) |
 | [August 7 at 4:44 PM](https://archive.org/download/zerohora-2022/zerohora-2022-08-07T16:43:56.788533-03:00.hyperlinks.json) |
-| [August 7 at 2:12 PM](https://archive.org/download/zerohora-2022/zerohora-2022-08-07T14:12:51.541571-03:00.hyperlinks.json) |
-| [August 7 at 1:50 AM](https://archive.org/download/zerohora-2022/zerohora-2022-08-07T01:50:35.737949-03:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 17 accessibility trees with the Internet Archive.
+The archiving routine has saved 19 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 11 at 10:30 AM](https://archive.org/download/zerohora-2022/zerohora-2022-08-11T10:30:07.005529-03:00.accessibility.json) |
+| [August 11 at 2:32 AM](https://archive.org/download/zerohora-2022/zerohora-2022-08-11T02:32:54.341033-03:00.accessibility.json) |
 | [August 10 at 3:32 PM](https://archive.org/download/zerohora-2022/zerohora-2022-08-10T15:32:34.207976-03:00.accessibility.json) |
 | [August 10 at 10:22 AM](https://archive.org/download/zerohora-2022/zerohora-2022-08-10T10:22:31.242306-03:00.accessibility.json) |
 | [August 10 at 2:39 AM](https://archive.org/download/zerohora-2022/zerohora-2022-08-10T02:39:40.463706-03:00.accessibility.json) |
@@ -178,14 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [August 8 at 2:26 PM](https://archive.org/download/zerohora-2022/zerohora-2022-08-08T14:26:33.725576-03:00.accessibility.json) |
 | [August 8 at 2:32 AM](https://archive.org/download/zerohora-2022/zerohora-2022-08-08T02:32:13.123370-03:00.accessibility.json) |
 | [August 7 at 4:43 PM](https://archive.org/download/zerohora-2022/zerohora-2022-08-07T16:43:56.788533-03:00.accessibility.json) |
-| [August 7 at 2:12 PM](https://archive.org/download/zerohora-2022/zerohora-2022-08-07T14:12:51.541571-03:00.accessibility.json) |
-| [August 7 at 1:50 AM](https://archive.org/download/zerohora-2022/zerohora-2022-08-07T01:50:35.737949-03:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 19 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 11 at 10:30 AM](https://archive.org/download/zerohora-2022/zerohora-2022-08-11T10:30:07.005529-03:00.lighthouse.json) |
+| [August 11 at 2:33 AM](https://archive.org/download/zerohora-2022/zerohora-2022-08-11T02:32:54.341033-03:00.lighthouse.json) |
 | [August 10 at 3:32 PM](https://archive.org/download/zerohora-2022/zerohora-2022-08-10T15:32:34.207976-03:00.lighthouse.json) |
 | [August 10 at 10:22 AM](https://archive.org/download/zerohora-2022/zerohora-2022-08-10T10:22:31.242306-03:00.lighthouse.json) |
 | [August 10 at 2:39 AM](https://archive.org/download/zerohora-2022/zerohora-2022-08-10T02:39:40.463706-03:00.lighthouse.json) |
@@ -201,8 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 8 at 2:26 PM](https://archive.org/download/zerohora-2022/zerohora-2022-08-08T14:26:33.725576-03:00.lighthouse.json) |
 | [August 8 at 2:32 AM](https://archive.org/download/zerohora-2022/zerohora-2022-08-08T02:32:13.123370-03:00.lighthouse.json) |
 | [August 7 at 4:44 PM](https://archive.org/download/zerohora-2022/zerohora-2022-08-07T16:43:56.788533-03:00.lighthouse.json) |
-| [August 7 at 2:12 PM](https://archive.org/download/zerohora-2022/zerohora-2022-08-07T14:12:51.541571-03:00.lighthouse.json) |
-| [August 7 at 1:50 AM](https://archive.org/download/zerohora-2022/zerohora-2022-08-07T01:50:35.737949-03:00.lighthouse.json) |
 
 
 

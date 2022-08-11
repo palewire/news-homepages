@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 148 screenshots with the Internet Archive.
+The archiving routine has saved 149 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 148 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/suntimes-2022/suntimes-2022-08-10T21:25:28.722282-05:00.jpg">
+  <img src="https://archive.org/download/suntimes-2022/suntimes-2022-08-10T21:25:28.722282-05:00.jpg"
+     alt="Chicago Sun-Times at 2022-08-10 21:25:42-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/suntimes-2022/suntimes-2022-08-10T21:25:28.722282-05:00.jpg">August 10 at 9:25 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/suntimes-2022/suntimes-2022-08-10T14:34:07.161845-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/suntimes-2022/suntimes-2022-08-07T09:05:00.835130-05:00.jpg">August 7 at 9:05 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/suntimes-2022/suntimes-2022-08-06T22:09:31.909999-05:00.jpg">
-  <img src="https://archive.org/download/suntimes-2022/suntimes-2022-08-06T22:09:31.909999-05:00.jpg"
-     alt="Chicago Sun-Times at 2022-08-06 22:09:33-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/suntimes-2022/suntimes-2022-08-06T22:09:31.909999-05:00.jpg">August 6 at 10:09 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 147 hyperlink lists with the Internet Archive.
+The archiving routine has saved 148 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 10 at 9:25 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-10T21:25:28.722282-05:00.hyperlinks.json) |
 | [August 10 at 2:34 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-10T14:34:07.161845-05:00.hyperlinks.json) |
 | [August 10 at 12:52 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-10T12:51:44.441598-05:00.hyperlinks.json) |
 | [August 9 at 9:36 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-09T21:36:19.876607-05:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 8 at 12:45 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-08T12:45:21.599508-05:00.hyperlinks.json) |
 | [August 8 at 9:19 AM](https://archive.org/download/suntimes-2022/suntimes-2022-08-08T09:19:39.261759-05:00.hyperlinks.json) |
 | [August 7 at 9:33 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-07T21:33:02.040387-05:00.hyperlinks.json) |
-| [August 7 at 12:14 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-07T12:14:35.505076-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 150 accessibility trees with the Internet Archive.
+The archiving routine has saved 151 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 10 at 9:25 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-10T21:25:28.722282-05:00.accessibility.json) |
 | [August 10 at 2:34 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-10T14:34:07.161845-05:00.accessibility.json) |
 | [August 10 at 12:51 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-10T12:51:44.441598-05:00.accessibility.json) |
 | [August 9 at 9:36 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-09T21:36:19.876607-05:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 8 at 12:45 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-08T12:45:21.599508-05:00.accessibility.json) |
 | [August 8 at 9:19 AM](https://archive.org/download/suntimes-2022/suntimes-2022-08-08T09:19:39.261759-05:00.accessibility.json) |
 | [August 7 at 9:33 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-07T21:33:02.040387-05:00.accessibility.json) |
-| [August 7 at 12:14 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-07T12:14:35.505076-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 57 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 58 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 10 at 9:25 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-10T21:25:28.722282-05:00.lighthouse.json) |
 | [August 10 at 2:34 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-10T14:34:07.161845-05:00.lighthouse.json) |
 | [August 10 at 12:52 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-10T12:51:44.441598-05:00.lighthouse.json) |
 | [August 9 at 9:36 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-09T21:36:19.876607-05:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 8 at 12:45 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-08T12:45:21.599508-05:00.lighthouse.json) |
 | [August 8 at 9:19 AM](https://archive.org/download/suntimes-2022/suntimes-2022-08-08T09:19:39.261759-05:00.lighthouse.json) |
 | [August 7 at 9:33 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-07T21:33:02.040387-05:00.lighthouse.json) |
-| [August 7 at 12:14 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-07T12:14:35.505076-05:00.lighthouse.json) |
 
 
 

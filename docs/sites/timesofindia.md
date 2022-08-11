@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 37 screenshots with the Internet Archive.
+The archiving routine has saved 38 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 37 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/timesofindia-2022/timesofindia-2022-08-11T10:58:54.137114+05:30.jpg">
+  <img src="https://archive.org/download/timesofindia-2022/timesofindia-2022-08-11T10:58:54.137114+05:30.jpg"
+     alt="Times of India at 2022-08-11 10:58:56+05:30 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/timesofindia-2022/timesofindia-2022-08-11T10:58:54.137114+05:30.jpg">August 11 at 10:58 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/timesofindia-2022/timesofindia-2022-08-10T23:58:24.981286+05:30.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/timesofindia-2022/timesofindia-2022-08-05T23:30:21.047886+05:30.jpg">August 5 at 11:30 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/timesofindia-2022/timesofindia-2022-08-05T10:15:18.147602+05:30.jpg">
-  <img src="https://archive.org/download/timesofindia-2022/timesofindia-2022-08-05T10:15:18.147602+05:30.jpg"
-     alt="Times of India at 2022-08-05 10:15:20+05:30 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/timesofindia-2022/timesofindia-2022-08-05T10:15:18.147602+05:30.jpg">August 5 at 10:15 AM</a></p>
 </div>
 
 </div>
@@ -351,7 +351,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 37 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 38 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 11 at 10:58 AM](https://archive.org/download/timesofindia-2022/timesofindia-2022-08-11T10:58:54.137114+05:30.lighthouse.json) |
 | [August 10 at 11:58 PM](https://archive.org/download/timesofindia-2022/timesofindia-2022-08-10T23:58:24.981286+05:30.lighthouse.json) |
 | [August 10 at 11:05 AM](https://archive.org/download/timesofindia-2022/timesofindia-2022-08-10T11:05:38.200837+05:30.lighthouse.json) |
 | [August 9 at 11:27 PM](https://archive.org/download/timesofindia-2022/timesofindia-2022-08-09T23:27:27.175565+05:30.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 7 at 10:38 PM](https://archive.org/download/timesofindia-2022/timesofindia-2022-08-07T22:38:50.607653+05:30.lighthouse.json) |
 | [August 7 at 10:16 AM](https://archive.org/download/timesofindia-2022/timesofindia-2022-08-07T10:16:15.397662+05:30.lighthouse.json) |
 | [August 6 at 9:59 PM](https://archive.org/download/timesofindia-2022/timesofindia-2022-08-06T21:59:34.853995+05:30.lighthouse.json) |
-| [August 6 at 10:37 AM](https://archive.org/download/timesofindia-2022/timesofindia-2022-08-06T10:36:54.859427+05:30.lighthouse.json) |
 
 
 

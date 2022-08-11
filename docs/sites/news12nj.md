@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 32 screenshots with the Internet Archive.
+The archiving routine has saved 33 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 32 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/news12nj-2022/news12nj-2022-08-11T09:43:27.037201-04:00.jpg">
+  <img src="https://archive.org/download/news12nj-2022/news12nj-2022-08-11T09:43:27.037201-04:00.jpg"
+     alt="News12NJ at 2022-08-11 09:43:30-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/news12nj-2022/news12nj-2022-08-11T09:43:27.037201-04:00.jpg">August 11 at 9:43 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/news12nj-2022/news12nj-2022-08-10T20:54:44.712685-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/news12nj-2022/news12nj-2022-08-05T22:08:32.516210-04:00.jpg">August 5 at 10:08 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/news12nj-2022/news12nj-2022-08-05T08:40:33.966198-04:00.jpg">
-  <img src="https://archive.org/download/news12nj-2022/news12nj-2022-08-05T08:40:33.966198-04:00.jpg"
-     alt="News12NJ at 2022-08-05 08:40:36-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/news12nj-2022/news12nj-2022-08-05T08:40:33.966198-04:00.jpg">August 5 at 8:40 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 31 hyperlink lists with the Internet Archive.
+The archiving routine has saved 32 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 11 at 9:43 AM](https://archive.org/download/news12nj-2022/news12nj-2022-08-11T09:43:27.037201-04:00.hyperlinks.json) |
 | [August 10 at 8:54 PM](https://archive.org/download/news12nj-2022/news12nj-2022-08-10T20:54:44.712685-04:00.hyperlinks.json) |
 | [August 10 at 9:12 AM](https://archive.org/download/news12nj-2022/news12nj-2022-08-10T09:12:00.276312-04:00.hyperlinks.json) |
 | [August 9 at 8:58 AM](https://archive.org/download/news12nj-2022/news12nj-2022-08-09T08:58:54.860019-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 6 at 8:42 PM](https://archive.org/download/news12nj-2022/news12nj-2022-08-06T20:42:06.090110-04:00.hyperlinks.json) |
 | [August 6 at 8:33 AM](https://archive.org/download/news12nj-2022/news12nj-2022-08-06T08:33:38.366530-04:00.hyperlinks.json) |
 | [August 5 at 10:08 PM](https://archive.org/download/news12nj-2022/news12nj-2022-08-05T22:08:32.516210-04:00.hyperlinks.json) |
-| [August 5 at 8:40 AM](https://archive.org/download/news12nj-2022/news12nj-2022-08-05T08:40:33.966198-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 33 accessibility trees with the Internet Archive.
+The archiving routine has saved 34 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 11 at 9:43 AM](https://archive.org/download/news12nj-2022/news12nj-2022-08-11T09:43:27.037201-04:00.accessibility.json) |
 | [August 10 at 8:54 PM](https://archive.org/download/news12nj-2022/news12nj-2022-08-10T20:54:44.712685-04:00.accessibility.json) |
 | [August 10 at 9:12 AM](https://archive.org/download/news12nj-2022/news12nj-2022-08-10T09:12:00.276312-04:00.accessibility.json) |
 | [August 9 at 8:59 PM](https://archive.org/download/news12nj-2022/news12nj-2022-08-09T20:59:07.332444-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 7 at 9:03 PM](https://archive.org/download/news12nj-2022/news12nj-2022-08-07T21:03:12.310519-04:00.accessibility.json) |
 | [August 7 at 8:41 AM](https://archive.org/download/news12nj-2022/news12nj-2022-08-07T08:41:22.212479-04:00.accessibility.json) |
 | [August 6 at 8:42 PM](https://archive.org/download/news12nj-2022/news12nj-2022-08-06T20:42:06.090110-04:00.accessibility.json) |
-| [August 6 at 8:33 AM](https://archive.org/download/news12nj-2022/news12nj-2022-08-06T08:33:38.366530-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 33 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 34 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 11 at 9:43 AM](https://archive.org/download/news12nj-2022/news12nj-2022-08-11T09:43:27.037201-04:00.lighthouse.json) |
 | [August 10 at 8:54 PM](https://archive.org/download/news12nj-2022/news12nj-2022-08-10T20:54:44.712685-04:00.lighthouse.json) |
 | [August 10 at 9:12 AM](https://archive.org/download/news12nj-2022/news12nj-2022-08-10T09:12:00.276312-04:00.lighthouse.json) |
 | [August 9 at 8:59 PM](https://archive.org/download/news12nj-2022/news12nj-2022-08-09T20:59:07.332444-04:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 7 at 9:03 PM](https://archive.org/download/news12nj-2022/news12nj-2022-08-07T21:03:12.310519-04:00.lighthouse.json) |
 | [August 7 at 8:41 AM](https://archive.org/download/news12nj-2022/news12nj-2022-08-07T08:41:22.212479-04:00.lighthouse.json) |
 | [August 6 at 8:42 PM](https://archive.org/download/news12nj-2022/news12nj-2022-08-06T20:42:06.090110-04:00.lighthouse.json) |
-| [August 6 at 8:33 AM](https://archive.org/download/news12nj-2022/news12nj-2022-08-06T08:33:38.366530-04:00.lighthouse.json) |
 
 
 

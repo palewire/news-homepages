@@ -245,7 +245,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 31 accessibility trees with the Internet Archive.
+The archiving routine has saved 32 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -336,6 +336,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 10 at 10:29 PM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-10T22:29:49.497796-04:00.accessibility.json) |
 | [August 10 at 1:52 PM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-10T13:52:27.702132-04:00.accessibility.json) |
 | [August 9 at 10:43 AM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-09T10:43:24.068839-04:00.accessibility.json) |
 | [August 8 at 10:28 PM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-08T22:28:11.724601-04:00.accessibility.json) |
@@ -345,13 +346,12 @@ Here are the 10 most recent accessibility trees.
 | [August 6 at 11:13 PM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-06T23:13:51.183843-04:00.accessibility.json) |
 | [August 6 at 9:59 AM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-06T09:59:02.531520-04:00.accessibility.json) |
 | [August 5 at 10:26 PM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-05T22:26:53.821437-04:00.accessibility.json) |
-| [August 5 at 1:40 PM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-05T13:40:05.218872-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 34 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 35 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -442,6 +442,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 10 at 10:29 PM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-10T22:29:49.497796-04:00.lighthouse.json) |
 | [August 10 at 1:52 PM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-10T13:52:27.702132-04:00.lighthouse.json) |
 | [August 9 at 10:41 PM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-09T22:41:08.707059-04:00.lighthouse.json) |
 | [August 9 at 10:43 AM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-09T10:43:24.068839-04:00.lighthouse.json) |
@@ -451,7 +452,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 7 at 10:09 AM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-07T10:09:34.636524-04:00.lighthouse.json) |
 | [August 6 at 11:13 PM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-06T23:13:51.183843-04:00.lighthouse.json) |
 | [August 6 at 9:59 AM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-06T09:59:02.531520-04:00.lighthouse.json) |
-| [August 5 at 10:26 PM](https://archive.org/download/uninoticias-2022/uninoticias-2022-08-05T22:26:53.821437-04:00.lighthouse.json) |
 
 
 

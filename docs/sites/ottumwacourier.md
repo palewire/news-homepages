@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 125 screenshots with the Internet Archive.
+The archiving routine has saved 126 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 125 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-08-10T19:57:01.151664-05:00.jpg">
+  <img src="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-08-10T19:57:01.151664-05:00.jpg"
+     alt="Ottumwa Courier at 2022-08-10 19:57:02-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-08-10T19:57:01.151664-05:00.jpg">August 10 at 7:57 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-08-10T13:54:01.755958-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-08-06T07:36:06.748989-05:00.jpg">August 6 at 7:36 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-08-05T21:10:35.074309-05:00.jpg">
-  <img src="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-08-05T21:10:35.074309-05:00.jpg"
-     alt="Ottumwa Courier at 2022-08-05 21:10:36-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-08-05T21:10:35.074309-05:00.jpg">August 5 at 9:10 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 81 hyperlink lists with the Internet Archive.
+The archiving routine has saved 82 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 10 at 7:57 PM](https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-08-10T19:57:01.151664-05:00.hyperlinks.json) |
 | [August 10 at 1:54 PM](https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-08-10T13:54:01.755958-05:00.hyperlinks.json) |
 | [August 9 at 8:04 PM](https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-08-09T20:04:02.137393-05:00.hyperlinks.json) |
 | [August 8 at 7:57 PM](https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-08-08T19:57:21.102156-05:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 4 at 8:47 PM](https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-08-04T20:47:11.833205-05:00.hyperlinks.json) |
 | [August 3 at 7:45 PM](https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-08-03T19:45:44.388392-05:00.hyperlinks.json) |
 | [August 3 at 12:39 PM](https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-08-03T12:39:33.265254-05:00.hyperlinks.json) |
-| [August 3 at 7:54 AM](https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-08-03T07:54:47.952124-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 84 accessibility trees with the Internet Archive.
+The archiving routine has saved 85 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 10 at 7:57 PM](https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-08-10T19:57:01.151664-05:00.accessibility.json) |
 | [August 10 at 1:54 PM](https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-08-10T13:54:01.755958-05:00.accessibility.json) |
 | [August 10 at 8:14 AM](https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-08-10T08:14:44.991852-05:00.accessibility.json) |
 | [August 8 at 12:46 PM](https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-08-08T12:46:42.839341-05:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 5 at 7:43 AM](https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-08-05T07:43:40.931586-05:00.accessibility.json) |
 | [August 4 at 8:47 PM](https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-08-04T20:47:11.833205-05:00.accessibility.json) |
 | [August 4 at 7:38 AM](https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-08-04T07:38:31.816179-05:00.accessibility.json) |
-| [August 3 at 7:45 PM](https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-08-03T19:45:44.388392-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 44 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 45 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 10 at 7:57 PM](https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-08-10T19:57:01.151664-05:00.lighthouse.json) |
 | [August 10 at 1:54 PM](https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-08-10T13:54:01.755958-05:00.lighthouse.json) |
 | [August 10 at 8:14 AM](https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-08-10T08:14:44.991852-05:00.lighthouse.json) |
 | [August 9 at 8:04 PM](https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-08-09T20:04:02.137393-05:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 8 at 7:48 AM](https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-08-08T07:48:41.687899-05:00.lighthouse.json) |
 | [August 7 at 8:06 PM](https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-08-07T20:06:44.921750-05:00.lighthouse.json) |
 | [August 7 at 7:42 AM](https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-08-07T07:42:52.952200-05:00.lighthouse.json) |
-| [August 6 at 7:45 PM](https://archive.org/download/ottumwacourier-2022/ottumwacourier-2022-08-06T19:44:57.011598-05:00.lighthouse.json) |
 
 
 

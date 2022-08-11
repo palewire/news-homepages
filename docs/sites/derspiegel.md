@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 0 screenshots with the Internet Archive.
+The archiving routine has saved 1 screenshots with the Internet Archive.
 
 
 
@@ -28,11 +28,20 @@ Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
 
+<div class="latest-child">
+ <a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-08-11T05:48:18.219789+02:00.jpg">
+  <img src="https://archive.org/download/derspiegel-2022/derspiegel-2022-08-11T05:48:18.219789+02:00.jpg"
+     alt="Der Spiegel at 2022-08-11 05:48:23+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-08-11T05:48:18.219789+02:00.jpg">August 11 at 5:48 AM</a></p>
+</div>
+
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 0 hyperlink lists with the Internet Archive.
+The archiving routine has saved 1 hyperlink lists with the Internet Archive.
 
 
 
@@ -40,11 +49,12 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 11 at 5:48 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-11T05:48:18.219789+02:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 0 accessibility trees with the Internet Archive.
+The archiving routine has saved 1 accessibility trees with the Internet Archive.
 
 
 
@@ -52,12 +62,13 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 11 at 5:48 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-11T05:48:18.219789+02:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 0 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 1 Lighthouse audits with the Internet Archive.
 
 
 
@@ -65,6 +76,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 11 at 5:48 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-11T05:48:18.219789+02:00.lighthouse.json) |
 
 
 
@@ -74,3 +86,4 @@ Assets are stored in the following collections at archive.org:
 
 | Item  |
 | :---- |
+|[derspiegel-2022](https://archive.org/details/derspiegel-2022)|

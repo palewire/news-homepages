@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 9 screenshots with the Internet Archive.
+The archiving routine has saved 11 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-11T10:27:55.966038-03:00.jpg">
+  <img src="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-11T10:27:55.966038-03:00.jpg"
+     alt="Rádio CBN at 2022-08-11 10:27:57-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-11T10:27:55.966038-03:00.jpg">August 11 at 10:27 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-11T08:36:51.847603-03:00.jpg">
+  <img src="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-11T08:36:51.847603-03:00.jpg"
+     alt="Rádio CBN at 2022-08-11 08:36:53-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-11T08:36:51.847603-03:00.jpg">August 11 at 8:36 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-10T21:39:07.768383-03:00.jpg">
@@ -127,7 +145,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 5 accessibility trees with the Internet Archive.
+The archiving routine has saved 7 accessibility trees with the Internet Archive.
 
 
 
@@ -135,6 +153,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 11 at 10:27 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-11T10:27:55.966038-03:00.accessibility.json) |
+| [August 11 at 8:36 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-11T08:36:51.847603-03:00.accessibility.json) |
 | [August 10 at 9:54 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-10T09:54:22.745683-03:00.accessibility.json) |
 | [August 9 at 8:24 PM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-09T20:24:43.972840-03:00.accessibility.json) |
 | [August 8 at 8:21 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-08T08:21:20.233988-03:00.accessibility.json) |
@@ -145,7 +165,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 9 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
 
 
 
@@ -153,6 +173,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 11 at 10:28 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-11T10:27:55.966038-03:00.lighthouse.json) |
+| [August 11 at 8:36 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-11T08:36:51.847603-03:00.lighthouse.json) |
 | [August 10 at 9:39 PM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-10T21:39:07.768383-03:00.lighthouse.json) |
 | [August 10 at 10:20 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-10T10:20:22.516477-03:00.lighthouse.json) |
 | [August 10 at 9:54 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-10T09:54:22.745683-03:00.lighthouse.json) |
@@ -161,7 +183,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 8 at 9:36 PM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-08T21:35:57.166587-03:00.lighthouse.json) |
 | [August 8 at 8:21 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-08T08:21:20.233988-03:00.lighthouse.json) |
 | [August 7 at 9:44 PM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-07T21:44:14.959263-03:00.lighthouse.json) |
-| [August 7 at 4:42 PM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-07T16:42:04.642859-03:00.lighthouse.json) |
 
 
 

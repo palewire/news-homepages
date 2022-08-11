@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 19 screenshots with the Internet Archive.
+The archiving routine has saved 20 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wave3news-2022/wave3news-2022-08-11T01:31:22.809630-04:00.jpg">
+  <img src="https://archive.org/download/wave3news-2022/wave3news-2022-08-11T01:31:22.809630-04:00.jpg"
+     alt="WAVE at 2022-08-11 01:31:26-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wave3news-2022/wave3news-2022-08-11T01:31:22.809630-04:00.jpg">August 11 at 1:31 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wave3news-2022/wave3news-2022-08-10T01:38:52.951307-04:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wave3news-2022/wave3news-2022-08-05T00:47:17.170285-04:00.jpg">August 5 at 12:47 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wave3news-2022/wave3news-2022-08-04T13:10:03.174998-04:00.jpg">
-  <img src="https://archive.org/download/wave3news-2022/wave3news-2022-08-04T13:10:03.174998-04:00.jpg"
-     alt="WAVE at 2022-08-04 13:10:04-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wave3news-2022/wave3news-2022-08-04T13:10:03.174998-04:00.jpg">August 4 at 1:10 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 20 hyperlink lists with the Internet Archive.
+The archiving routine has saved 21 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 11 at 1:31 AM](https://archive.org/download/wave3news-2022/wave3news-2022-08-11T01:31:22.809630-04:00.hyperlinks.json) |
 | [August 10 at 2:31 PM](https://archive.org/download/wave3news-2022/wave3news-2022-08-10T14:31:46.469766-04:00.hyperlinks.json) |
 | [August 10 at 1:38 AM](https://archive.org/download/wave3news-2022/wave3news-2022-08-10T01:38:52.951307-04:00.hyperlinks.json) |
 | [August 9 at 1:59 PM](https://archive.org/download/wave3news-2022/wave3news-2022-08-09T13:59:49.268217-04:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 7 at 1:10 PM](https://archive.org/download/wave3news-2022/wave3news-2022-08-07T13:10:54.645103-04:00.hyperlinks.json) |
 | [August 7 at 12:49 AM](https://archive.org/download/wave3news-2022/wave3news-2022-08-07T00:49:02.686387-04:00.hyperlinks.json) |
 | [August 6 at 12:31 PM](https://archive.org/download/wave3news-2022/wave3news-2022-08-06T12:31:42.075937-04:00.hyperlinks.json) |
-| [August 6 at 1:09 AM](https://archive.org/download/wave3news-2022/wave3news-2022-08-06T01:09:10.149676-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 20 accessibility trees with the Internet Archive.
+The archiving routine has saved 21 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 11 at 1:31 AM](https://archive.org/download/wave3news-2022/wave3news-2022-08-11T01:31:22.809630-04:00.accessibility.json) |
 | [August 10 at 2:31 PM](https://archive.org/download/wave3news-2022/wave3news-2022-08-10T14:31:46.469766-04:00.accessibility.json) |
 | [August 10 at 1:38 AM](https://archive.org/download/wave3news-2022/wave3news-2022-08-10T01:38:52.951307-04:00.accessibility.json) |
 | [August 9 at 1:59 PM](https://archive.org/download/wave3news-2022/wave3news-2022-08-09T13:59:49.268217-04:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [August 7 at 1:10 PM](https://archive.org/download/wave3news-2022/wave3news-2022-08-07T13:10:54.645103-04:00.accessibility.json) |
 | [August 7 at 12:49 AM](https://archive.org/download/wave3news-2022/wave3news-2022-08-07T00:49:02.686387-04:00.accessibility.json) |
 | [August 6 at 12:31 PM](https://archive.org/download/wave3news-2022/wave3news-2022-08-06T12:31:42.075937-04:00.accessibility.json) |
-| [August 6 at 1:09 AM](https://archive.org/download/wave3news-2022/wave3news-2022-08-06T01:09:10.149676-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 20 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 21 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 11 at 1:31 AM](https://archive.org/download/wave3news-2022/wave3news-2022-08-11T01:31:22.809630-04:00.lighthouse.json) |
 | [August 10 at 2:31 PM](https://archive.org/download/wave3news-2022/wave3news-2022-08-10T14:31:46.469766-04:00.lighthouse.json) |
 | [August 10 at 1:38 AM](https://archive.org/download/wave3news-2022/wave3news-2022-08-10T01:38:52.951307-04:00.lighthouse.json) |
 | [August 9 at 1:59 PM](https://archive.org/download/wave3news-2022/wave3news-2022-08-09T13:59:49.268217-04:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 7 at 1:11 PM](https://archive.org/download/wave3news-2022/wave3news-2022-08-07T13:10:54.645103-04:00.lighthouse.json) |
 | [August 7 at 12:49 AM](https://archive.org/download/wave3news-2022/wave3news-2022-08-07T00:49:02.686387-04:00.lighthouse.json) |
 | [August 6 at 12:31 PM](https://archive.org/download/wave3news-2022/wave3news-2022-08-06T12:31:42.075937-04:00.lighthouse.json) |
-| [August 6 at 1:09 AM](https://archive.org/download/wave3news-2022/wave3news-2022-08-06T01:09:10.149676-04:00.lighthouse.json) |
 
 
 

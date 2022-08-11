@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 31 screenshots with the Internet Archive.
+The archiving routine has saved 32 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 31 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/spacenews_inc-2022/spacenews_inc-2022-08-10T21:00:33.235081-04:00.jpg">
+  <img src="https://archive.org/download/spacenews_inc-2022/spacenews_inc-2022-08-10T21:00:33.235081-04:00.jpg"
+     alt="Space News at 2022-08-10 21:00:34-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/spacenews_inc-2022/spacenews_inc-2022-08-10T21:00:33.235081-04:00.jpg">August 10 at 9:00 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/spacenews_inc-2022/spacenews_inc-2022-08-10T09:19:36.423313-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/spacenews_inc-2022/spacenews_inc-2022-08-05T08:47:28.309218-04:00.jpg">August 5 at 8:47 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/spacenews_inc-2022/spacenews_inc-2022-08-04T21:50:26.118049-04:00.jpg">
-  <img src="https://archive.org/download/spacenews_inc-2022/spacenews_inc-2022-08-04T21:50:26.118049-04:00.jpg"
-     alt="Space News at 2022-08-04 21:50:27-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/spacenews_inc-2022/spacenews_inc-2022-08-04T21:50:26.118049-04:00.jpg">August 4 at 9:50 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 31 hyperlink lists with the Internet Archive.
+The archiving routine has saved 32 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 10 at 9:00 PM](https://archive.org/download/spacenews_inc-2022/spacenews_inc-2022-08-10T21:00:33.235081-04:00.hyperlinks.json) |
 | [August 10 at 9:19 AM](https://archive.org/download/spacenews_inc-2022/spacenews_inc-2022-08-10T09:19:36.423313-04:00.hyperlinks.json) |
 | [August 9 at 9:06 PM](https://archive.org/download/spacenews_inc-2022/spacenews_inc-2022-08-09T21:06:52.228855-04:00.hyperlinks.json) |
 | [August 9 at 9:06 AM](https://archive.org/download/spacenews_inc-2022/spacenews_inc-2022-08-09T09:05:55.020675-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 7 at 8:47 AM](https://archive.org/download/spacenews_inc-2022/spacenews_inc-2022-08-07T08:47:11.136720-04:00.hyperlinks.json) |
 | [August 6 at 8:48 PM](https://archive.org/download/spacenews_inc-2022/spacenews_inc-2022-08-06T20:48:49.962300-04:00.hyperlinks.json) |
 | [August 6 at 8:40 AM](https://archive.org/download/spacenews_inc-2022/spacenews_inc-2022-08-06T08:40:14.686254-04:00.hyperlinks.json) |
-| [August 5 at 10:14 PM](https://archive.org/download/spacenews_inc-2022/spacenews_inc-2022-08-05T22:14:20.055343-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 31 accessibility trees with the Internet Archive.
+The archiving routine has saved 32 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 10 at 9:00 PM](https://archive.org/download/spacenews_inc-2022/spacenews_inc-2022-08-10T21:00:33.235081-04:00.accessibility.json) |
 | [August 10 at 9:19 AM](https://archive.org/download/spacenews_inc-2022/spacenews_inc-2022-08-10T09:19:36.423313-04:00.accessibility.json) |
 | [August 9 at 9:06 PM](https://archive.org/download/spacenews_inc-2022/spacenews_inc-2022-08-09T21:06:52.228855-04:00.accessibility.json) |
 | [August 9 at 9:06 AM](https://archive.org/download/spacenews_inc-2022/spacenews_inc-2022-08-09T09:05:55.020675-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 7 at 8:47 AM](https://archive.org/download/spacenews_inc-2022/spacenews_inc-2022-08-07T08:47:11.136720-04:00.accessibility.json) |
 | [August 6 at 8:48 PM](https://archive.org/download/spacenews_inc-2022/spacenews_inc-2022-08-06T20:48:49.962300-04:00.accessibility.json) |
 | [August 6 at 8:40 AM](https://archive.org/download/spacenews_inc-2022/spacenews_inc-2022-08-06T08:40:14.686254-04:00.accessibility.json) |
-| [August 5 at 10:14 PM](https://archive.org/download/spacenews_inc-2022/spacenews_inc-2022-08-05T22:14:20.055343-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 31 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 10 at 9:00 PM](https://archive.org/download/spacenews_inc-2022/spacenews_inc-2022-08-10T21:00:33.235081-04:00.lighthouse.json) |
 | [August 10 at 9:19 AM](https://archive.org/download/spacenews_inc-2022/spacenews_inc-2022-08-10T09:19:36.423313-04:00.lighthouse.json) |
 | [August 9 at 9:06 PM](https://archive.org/download/spacenews_inc-2022/spacenews_inc-2022-08-09T21:06:52.228855-04:00.lighthouse.json) |
 | [August 9 at 9:06 AM](https://archive.org/download/spacenews_inc-2022/spacenews_inc-2022-08-09T09:05:55.020675-04:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 7 at 8:47 AM](https://archive.org/download/spacenews_inc-2022/spacenews_inc-2022-08-07T08:47:11.136720-04:00.lighthouse.json) |
 | [August 6 at 8:48 PM](https://archive.org/download/spacenews_inc-2022/spacenews_inc-2022-08-06T20:48:49.962300-04:00.lighthouse.json) |
 | [August 6 at 8:40 AM](https://archive.org/download/spacenews_inc-2022/spacenews_inc-2022-08-06T08:40:14.686254-04:00.lighthouse.json) |
-| [August 5 at 10:14 PM](https://archive.org/download/spacenews_inc-2022/spacenews_inc-2022-08-05T22:14:20.055343-04:00.lighthouse.json) |
 
 
 

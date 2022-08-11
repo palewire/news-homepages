@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 253 screenshots with the Internet Archive.
+The archiving routine has saved 255 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/libe-2022/libe-2022-08-11T10:13:01.114434+02:00.jpg">
+  <img src="https://archive.org/download/libe-2022/libe-2022-08-11T10:13:01.114434+02:00.jpg"
+     alt="Libération at 2022-08-11 10:13:03+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/libe-2022/libe-2022-08-11T10:13:01.114434+02:00.jpg">August 11 at 10:13 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/libe-2022/libe-2022-08-11T05:58:26.920072+02:00.jpg">
+  <img src="https://archive.org/download/libe-2022/libe-2022-08-11T05:58:26.920072+02:00.jpg"
+     alt="Libération at 2022-08-11 05:58:28+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/libe-2022/libe-2022-08-11T05:58:26.920072+02:00.jpg">August 11 at 5:58 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/libe-2022/libe-2022-08-10T20:10:49.350604+02:00.jpg">
   <img src="https://archive.org/download/libe-2022/libe-2022-08-10T20:10:49.350604+02:00.jpg"
      alt="Libération at 2022-08-10 20:10:50+02:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/libe-2022/libe-2022-08-07T18:54:14.232237+02:00.jpg">August 7 at 6:54 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/libe-2022/libe-2022-08-07T10:12:14.828798+02:00.jpg">
-  <img src="https://archive.org/download/libe-2022/libe-2022-08-07T10:12:14.828798+02:00.jpg"
-     alt="Libération at 2022-08-07 10:12:16+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/libe-2022/libe-2022-08-07T10:12:14.828798+02:00.jpg">August 7 at 10:12 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/libe-2022/libe-2022-08-07T05:27:11.462828+02:00.jpg">
-  <img src="https://archive.org/download/libe-2022/libe-2022-08-07T05:27:11.462828+02:00.jpg"
-     alt="Libération at 2022-08-07 05:27:12+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/libe-2022/libe-2022-08-07T05:27:11.462828+02:00.jpg">August 7 at 5:27 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 254 hyperlink lists with the Internet Archive.
+The archiving routine has saved 256 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 11 at 10:13 AM](https://archive.org/download/libe-2022/libe-2022-08-11T10:13:01.114434+02:00.hyperlinks.json) |
+| [August 11 at 5:58 AM](https://archive.org/download/libe-2022/libe-2022-08-11T05:58:26.920072+02:00.hyperlinks.json) |
 | [August 10 at 8:10 PM](https://archive.org/download/libe-2022/libe-2022-08-10T20:10:49.350604+02:00.hyperlinks.json) |
 | [August 10 at 10:10 AM](https://archive.org/download/libe-2022/libe-2022-08-10T10:10:37.707512+02:00.hyperlinks.json) |
 | [August 10 at 6:05 AM](https://archive.org/download/libe-2022/libe-2022-08-10T06:05:13.409539+02:00.hyperlinks.json) |
@@ -322,13 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 9 at 5:50 AM](https://archive.org/download/libe-2022/libe-2022-08-09T05:50:04.026943+02:00.hyperlinks.json) |
 | [August 8 at 7:08 PM](https://archive.org/download/libe-2022/libe-2022-08-08T19:07:56.470244+02:00.hyperlinks.json) |
 | [August 8 at 10:11 AM](https://archive.org/download/libe-2022/libe-2022-08-08T10:11:02.320982+02:00.hyperlinks.json) |
-| [August 8 at 7:13 AM](https://archive.org/download/libe-2022/libe-2022-08-08T07:13:37.956910+02:00.hyperlinks.json) |
-| [August 7 at 6:54 PM](https://archive.org/download/libe-2022/libe-2022-08-07T18:54:14.232237+02:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 255 accessibility trees with the Internet Archive.
+The archiving routine has saved 257 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 11 at 10:13 AM](https://archive.org/download/libe-2022/libe-2022-08-11T10:13:01.114434+02:00.accessibility.json) |
+| [August 11 at 5:58 AM](https://archive.org/download/libe-2022/libe-2022-08-11T05:58:26.920072+02:00.accessibility.json) |
 | [August 10 at 8:10 PM](https://archive.org/download/libe-2022/libe-2022-08-10T20:10:49.350604+02:00.accessibility.json) |
 | [August 10 at 10:10 AM](https://archive.org/download/libe-2022/libe-2022-08-10T10:10:37.707512+02:00.accessibility.json) |
 | [August 10 at 6:05 AM](https://archive.org/download/libe-2022/libe-2022-08-10T06:05:13.409539+02:00.accessibility.json) |
@@ -427,14 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 9 at 5:50 AM](https://archive.org/download/libe-2022/libe-2022-08-09T05:50:04.026943+02:00.accessibility.json) |
 | [August 8 at 7:07 PM](https://archive.org/download/libe-2022/libe-2022-08-08T19:07:56.470244+02:00.accessibility.json) |
 | [August 8 at 10:11 AM](https://archive.org/download/libe-2022/libe-2022-08-08T10:11:02.320982+02:00.accessibility.json) |
-| [August 8 at 7:13 AM](https://archive.org/download/libe-2022/libe-2022-08-08T07:13:37.956910+02:00.accessibility.json) |
-| [August 7 at 6:54 PM](https://archive.org/download/libe-2022/libe-2022-08-07T18:54:14.232237+02:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 53 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 55 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 11 at 10:13 AM](https://archive.org/download/libe-2022/libe-2022-08-11T10:13:01.114434+02:00.lighthouse.json) |
+| [August 11 at 5:58 AM](https://archive.org/download/libe-2022/libe-2022-08-11T05:58:26.920072+02:00.lighthouse.json) |
 | [August 10 at 8:10 PM](https://archive.org/download/libe-2022/libe-2022-08-10T20:10:49.350604+02:00.lighthouse.json) |
 | [August 10 at 10:10 AM](https://archive.org/download/libe-2022/libe-2022-08-10T10:10:37.707512+02:00.lighthouse.json) |
 | [August 10 at 6:05 AM](https://archive.org/download/libe-2022/libe-2022-08-10T06:05:13.409539+02:00.lighthouse.json) |
@@ -533,8 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 9 at 5:50 AM](https://archive.org/download/libe-2022/libe-2022-08-09T05:50:04.026943+02:00.lighthouse.json) |
 | [August 8 at 7:08 PM](https://archive.org/download/libe-2022/libe-2022-08-08T19:07:56.470244+02:00.lighthouse.json) |
 | [August 8 at 10:11 AM](https://archive.org/download/libe-2022/libe-2022-08-08T10:11:02.320982+02:00.lighthouse.json) |
-| [August 8 at 7:13 AM](https://archive.org/download/libe-2022/libe-2022-08-08T07:13:37.956910+02:00.lighthouse.json) |
-| [August 7 at 6:54 PM](https://archive.org/download/libe-2022/libe-2022-08-07T18:54:14.232237+02:00.lighthouse.json) |
 
 
 

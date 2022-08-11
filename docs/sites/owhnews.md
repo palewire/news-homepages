@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 23 screenshots with the Internet Archive.
+The archiving routine has saved 24 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/owhnews-2022/owhnews-2022-08-10T19:57:35.715584-05:00.jpg">
+  <img src="https://archive.org/download/owhnews-2022/owhnews-2022-08-10T19:57:35.715584-05:00.jpg"
+     alt="Omaha World Herald at 2022-08-10 19:57:37-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/owhnews-2022/owhnews-2022-08-10T19:57:35.715584-05:00.jpg">August 10 at 7:57 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/owhnews-2022/owhnews-2022-08-10T08:15:18.577880-05:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/owhnews-2022/owhnews-2022-08-04T20:47:09.945128-05:00.jpg">August 4 at 8:47 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/owhnews-2022/owhnews-2022-08-04T07:39:06.924283-05:00.jpg">
-  <img src="https://archive.org/download/owhnews-2022/owhnews-2022-08-04T07:39:06.924283-05:00.jpg"
-     alt="Omaha World Herald at 2022-08-04 07:39:08-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/owhnews-2022/owhnews-2022-08-04T07:39:06.924283-05:00.jpg">August 4 at 7:39 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 21 hyperlink lists with the Internet Archive.
+The archiving routine has saved 22 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 10 at 7:57 PM](https://archive.org/download/owhnews-2022/owhnews-2022-08-10T19:57:35.715584-05:00.hyperlinks.json) |
 | [August 10 at 8:15 AM](https://archive.org/download/owhnews-2022/owhnews-2022-08-10T08:15:18.577880-05:00.hyperlinks.json) |
 | [August 9 at 8:02 PM](https://archive.org/download/owhnews-2022/owhnews-2022-08-09T20:02:05.129610-05:00.hyperlinks.json) |
 | [August 9 at 8:01 AM](https://archive.org/download/owhnews-2022/owhnews-2022-08-09T08:01:26.542809-05:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 6 at 7:44 PM](https://archive.org/download/owhnews-2022/owhnews-2022-08-06T19:44:45.588654-05:00.hyperlinks.json) |
 | [August 6 at 7:36 AM](https://archive.org/download/owhnews-2022/owhnews-2022-08-06T07:36:47.748697-05:00.hyperlinks.json) |
 | [August 5 at 9:10 PM](https://archive.org/download/owhnews-2022/owhnews-2022-08-05T21:10:29.922428-05:00.hyperlinks.json) |
-| [August 5 at 7:44 AM](https://archive.org/download/owhnews-2022/owhnews-2022-08-05T07:43:58.380310-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 23 accessibility trees with the Internet Archive.
+The archiving routine has saved 24 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 10 at 7:57 PM](https://archive.org/download/owhnews-2022/owhnews-2022-08-10T19:57:35.715584-05:00.accessibility.json) |
 | [August 10 at 8:15 AM](https://archive.org/download/owhnews-2022/owhnews-2022-08-10T08:15:18.577880-05:00.accessibility.json) |
 | [August 9 at 8:02 PM](https://archive.org/download/owhnews-2022/owhnews-2022-08-09T20:02:05.129610-05:00.accessibility.json) |
 | [August 9 at 8:01 AM](https://archive.org/download/owhnews-2022/owhnews-2022-08-09T08:01:26.542809-05:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [August 7 at 7:43 AM](https://archive.org/download/owhnews-2022/owhnews-2022-08-07T07:43:09.934288-05:00.accessibility.json) |
 | [August 6 at 7:44 PM](https://archive.org/download/owhnews-2022/owhnews-2022-08-06T19:44:45.588654-05:00.accessibility.json) |
 | [August 6 at 7:36 AM](https://archive.org/download/owhnews-2022/owhnews-2022-08-06T07:36:47.748697-05:00.accessibility.json) |
-| [August 5 at 9:10 PM](https://archive.org/download/owhnews-2022/owhnews-2022-08-05T21:10:29.922428-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 24 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 25 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 10 at 7:57 PM](https://archive.org/download/owhnews-2022/owhnews-2022-08-10T19:57:35.715584-05:00.lighthouse.json) |
 | [August 10 at 8:15 AM](https://archive.org/download/owhnews-2022/owhnews-2022-08-10T08:15:18.577880-05:00.lighthouse.json) |
 | [August 9 at 8:02 PM](https://archive.org/download/owhnews-2022/owhnews-2022-08-09T20:02:05.129610-05:00.lighthouse.json) |
 | [August 9 at 8:01 AM](https://archive.org/download/owhnews-2022/owhnews-2022-08-09T08:01:26.542809-05:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 7 at 7:43 AM](https://archive.org/download/owhnews-2022/owhnews-2022-08-07T07:43:09.934288-05:00.lighthouse.json) |
 | [August 6 at 7:44 PM](https://archive.org/download/owhnews-2022/owhnews-2022-08-06T19:44:45.588654-05:00.lighthouse.json) |
 | [August 6 at 7:36 AM](https://archive.org/download/owhnews-2022/owhnews-2022-08-06T07:36:47.748697-05:00.lighthouse.json) |
-| [August 5 at 9:10 PM](https://archive.org/download/owhnews-2022/owhnews-2022-08-05T21:10:29.922428-05:00.lighthouse.json) |
 
 
 

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 65 screenshots with the Internet Archive.
+The archiving routine has saved 66 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 65 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/austinvida-2022/austinvida-2022-08-11T06:31:41.570216-05:00.jpg">
+  <img src="https://archive.org/download/austinvida-2022/austinvida-2022-08-11T06:31:41.570216-05:00.jpg"
+     alt="Austin Vida at 2022-08-11 06:31:43-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/austinvida-2022/austinvida-2022-08-11T06:31:41.570216-05:00.jpg">August 11 at 6:31 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/austinvida-2022/austinvida-2022-08-10T19:36:16.213839-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/austinvida-2022/austinvida-2022-08-05T18:25:44.760874-05:00.jpg">August 5 at 6:25 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/austinvida-2022/austinvida-2022-08-05T07:20:51.306611-05:00.jpg">
-  <img src="https://archive.org/download/austinvida-2022/austinvida-2022-08-05T07:20:51.306611-05:00.jpg"
-     alt="Austin Vida at 2022-08-05 07:20:55-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/austinvida-2022/austinvida-2022-08-05T07:20:51.306611-05:00.jpg">August 5 at 7:20 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 65 hyperlink lists with the Internet Archive.
+The archiving routine has saved 66 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 11 at 6:31 AM](https://archive.org/download/austinvida-2022/austinvida-2022-08-11T06:31:41.570216-05:00.hyperlinks.json) |
 | [August 10 at 7:36 PM](https://archive.org/download/austinvida-2022/austinvida-2022-08-10T19:36:16.213839-05:00.hyperlinks.json) |
 | [August 10 at 7:51 AM](https://archive.org/download/austinvida-2022/austinvida-2022-08-10T07:51:07.157211-05:00.hyperlinks.json) |
 | [August 9 at 6:20 PM](https://archive.org/download/austinvida-2022/austinvida-2022-08-09T18:20:21.788112-05:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 7 at 7:40 PM](https://archive.org/download/austinvida-2022/austinvida-2022-08-07T19:40:47.177306-05:00.hyperlinks.json) |
 | [August 7 at 7:21 AM](https://archive.org/download/austinvida-2022/austinvida-2022-08-07T07:21:46.923157-05:00.hyperlinks.json) |
 | [August 6 at 7:24 PM](https://archive.org/download/austinvida-2022/austinvida-2022-08-06T19:23:48.368591-05:00.hyperlinks.json) |
-| [August 6 at 7:15 AM](https://archive.org/download/austinvida-2022/austinvida-2022-08-06T07:14:55.844919-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 65 accessibility trees with the Internet Archive.
+The archiving routine has saved 66 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 11 at 6:31 AM](https://archive.org/download/austinvida-2022/austinvida-2022-08-11T06:31:41.570216-05:00.accessibility.json) |
 | [August 10 at 7:36 PM](https://archive.org/download/austinvida-2022/austinvida-2022-08-10T19:36:16.213839-05:00.accessibility.json) |
 | [August 10 at 7:51 AM](https://archive.org/download/austinvida-2022/austinvida-2022-08-10T07:51:07.157211-05:00.accessibility.json) |
 | [August 9 at 6:20 PM](https://archive.org/download/austinvida-2022/austinvida-2022-08-09T18:20:21.788112-05:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 7 at 7:40 PM](https://archive.org/download/austinvida-2022/austinvida-2022-08-07T19:40:47.177306-05:00.accessibility.json) |
 | [August 7 at 7:21 AM](https://archive.org/download/austinvida-2022/austinvida-2022-08-07T07:21:46.923157-05:00.accessibility.json) |
 | [August 6 at 7:23 PM](https://archive.org/download/austinvida-2022/austinvida-2022-08-06T19:23:48.368591-05:00.accessibility.json) |
-| [August 6 at 7:15 AM](https://archive.org/download/austinvida-2022/austinvida-2022-08-06T07:14:55.844919-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 37 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 38 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 11 at 6:31 AM](https://archive.org/download/austinvida-2022/austinvida-2022-08-11T06:31:41.570216-05:00.lighthouse.json) |
 | [August 10 at 7:36 PM](https://archive.org/download/austinvida-2022/austinvida-2022-08-10T19:36:16.213839-05:00.lighthouse.json) |
 | [August 10 at 7:51 AM](https://archive.org/download/austinvida-2022/austinvida-2022-08-10T07:51:07.157211-05:00.lighthouse.json) |
 | [August 9 at 6:20 PM](https://archive.org/download/austinvida-2022/austinvida-2022-08-09T18:20:21.788112-05:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 7 at 7:40 PM](https://archive.org/download/austinvida-2022/austinvida-2022-08-07T19:40:47.177306-05:00.lighthouse.json) |
 | [August 7 at 7:21 AM](https://archive.org/download/austinvida-2022/austinvida-2022-08-07T07:21:46.923157-05:00.lighthouse.json) |
 | [August 6 at 7:24 PM](https://archive.org/download/austinvida-2022/austinvida-2022-08-06T19:23:48.368591-05:00.lighthouse.json) |
-| [August 6 at 7:15 AM](https://archive.org/download/austinvida-2022/austinvida-2022-08-06T07:14:55.844919-05:00.lighthouse.json) |
 
 
 

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 133 screenshots with the Internet Archive.
+The archiving routine has saved 134 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 133 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/chequeado-2022/chequeado-2022-08-11T08:37:00.424493-03:00.jpg">
+  <img src="https://archive.org/download/chequeado-2022/chequeado-2022-08-11T08:37:00.424493-03:00.jpg"
+     alt="Chequeado at 2022-08-11 08:37:01-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chequeado-2022/chequeado-2022-08-11T08:37:00.424493-03:00.jpg">August 11 at 8:37 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chequeado-2022/chequeado-2022-08-10T21:40:38.166228-03:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/chequeado-2022/chequeado-2022-08-05T20:29:23.636102-03:00.jpg">August 5 at 8:29 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/chequeado-2022/chequeado-2022-08-05T09:24:23.914799-03:00.jpg">
-  <img src="https://archive.org/download/chequeado-2022/chequeado-2022-08-05T09:24:23.914799-03:00.jpg"
-     alt="Chequeado at 2022-08-05 09:24:25-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/chequeado-2022/chequeado-2022-08-05T09:24:23.914799-03:00.jpg">August 5 at 9:24 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 128 hyperlink lists with the Internet Archive.
+The archiving routine has saved 129 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 11 at 8:37 AM](https://archive.org/download/chequeado-2022/chequeado-2022-08-11T08:37:00.424493-03:00.hyperlinks.json) |
 | [August 10 at 9:56 AM](https://archive.org/download/chequeado-2022/chequeado-2022-08-10T09:56:43.045410-03:00.hyperlinks.json) |
 | [August 9 at 8:25 PM](https://archive.org/download/chequeado-2022/chequeado-2022-08-09T20:25:12.734232-03:00.hyperlinks.json) |
 | [August 9 at 9:41 AM](https://archive.org/download/chequeado-2022/chequeado-2022-08-09T09:41:32.419697-03:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 6 at 9:27 PM](https://archive.org/download/chequeado-2022/chequeado-2022-08-06T21:27:21.716996-03:00.hyperlinks.json) |
 | [August 6 at 9:18 AM](https://archive.org/download/chequeado-2022/chequeado-2022-08-06T09:18:16.871886-03:00.hyperlinks.json) |
 | [August 5 at 8:29 PM](https://archive.org/download/chequeado-2022/chequeado-2022-08-05T20:29:23.636102-03:00.hyperlinks.json) |
-| [August 5 at 9:24 AM](https://archive.org/download/chequeado-2022/chequeado-2022-08-05T09:24:23.914799-03:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 133 accessibility trees with the Internet Archive.
+The archiving routine has saved 134 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 11 at 8:37 AM](https://archive.org/download/chequeado-2022/chequeado-2022-08-11T08:37:00.424493-03:00.accessibility.json) |
 | [August 10 at 9:40 PM](https://archive.org/download/chequeado-2022/chequeado-2022-08-10T21:40:38.166228-03:00.accessibility.json) |
 | [August 10 at 9:56 AM](https://archive.org/download/chequeado-2022/chequeado-2022-08-10T09:56:43.045410-03:00.accessibility.json) |
 | [August 9 at 8:25 PM](https://archive.org/download/chequeado-2022/chequeado-2022-08-09T20:25:12.734232-03:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 7 at 9:44 PM](https://archive.org/download/chequeado-2022/chequeado-2022-08-07T21:44:54.338553-03:00.accessibility.json) |
 | [August 7 at 9:24 AM](https://archive.org/download/chequeado-2022/chequeado-2022-08-07T09:24:45.515471-03:00.accessibility.json) |
 | [August 6 at 9:27 PM](https://archive.org/download/chequeado-2022/chequeado-2022-08-06T21:27:21.716996-03:00.accessibility.json) |
-| [August 6 at 9:18 AM](https://archive.org/download/chequeado-2022/chequeado-2022-08-06T09:18:16.871886-03:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 31 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 11 at 8:37 AM](https://archive.org/download/chequeado-2022/chequeado-2022-08-11T08:37:00.424493-03:00.lighthouse.json) |
 | [August 10 at 9:40 PM](https://archive.org/download/chequeado-2022/chequeado-2022-08-10T21:40:38.166228-03:00.lighthouse.json) |
 | [August 9 at 8:25 PM](https://archive.org/download/chequeado-2022/chequeado-2022-08-09T20:25:12.734232-03:00.lighthouse.json) |
 | [August 9 at 9:41 AM](https://archive.org/download/chequeado-2022/chequeado-2022-08-09T09:41:32.419697-03:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 6 at 9:27 PM](https://archive.org/download/chequeado-2022/chequeado-2022-08-06T21:27:21.716996-03:00.lighthouse.json) |
 | [August 6 at 9:18 AM](https://archive.org/download/chequeado-2022/chequeado-2022-08-06T09:18:16.871886-03:00.lighthouse.json) |
 | [August 5 at 8:29 PM](https://archive.org/download/chequeado-2022/chequeado-2022-08-05T20:29:23.636102-03:00.lighthouse.json) |
-| [August 5 at 9:24 AM](https://archive.org/download/chequeado-2022/chequeado-2022-08-05T09:24:23.914799-03:00.lighthouse.json) |
 
 
 

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 251 screenshots with the Internet Archive.
+The archiving routine has saved 252 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 251 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/oann-2022/oann-2022-08-10T20:56:31.448986-04:00.jpg">
+  <img src="https://archive.org/download/oann-2022/oann-2022-08-10T20:56:31.448986-04:00.jpg"
+     alt="One America News Network at 2022-08-10 20:56:35-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/oann-2022/oann-2022-08-10T20:56:31.448986-04:00.jpg">August 10 at 8:56 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oann-2022/oann-2022-08-10T15:38:35.585239-04:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/oann-2022/oann-2022-08-07T08:42:53.948642-04:00.jpg">August 7 at 8:42 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/oann-2022/oann-2022-08-06T20:44:32.960646-04:00.jpg">
-  <img src="https://archive.org/download/oann-2022/oann-2022-08-06T20:44:32.960646-04:00.jpg"
-     alt="One America News Network at 2022-08-06 20:44:37-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/oann-2022/oann-2022-08-06T20:44:32.960646-04:00.jpg">August 6 at 8:44 PM</a></p>
 </div>
 
 </div>
@@ -328,7 +328,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 189 accessibility trees with the Internet Archive.
+The archiving routine has saved 190 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 10 at 8:56 PM](https://archive.org/download/oann-2022/oann-2022-08-10T20:56:31.448986-04:00.accessibility.json) |
 | [August 10 at 3:38 PM](https://archive.org/download/oann-2022/oann-2022-08-10T15:38:35.585239-04:00.accessibility.json) |
 | [August 9 at 9:03 PM](https://archive.org/download/oann-2022/oann-2022-08-09T21:03:06.347646-04:00.accessibility.json) |
 | [August 9 at 2:44 PM](https://archive.org/download/oann-2022/oann-2022-08-09T14:44:30.879541-04:00.accessibility.json) |
@@ -428,7 +429,6 @@ Here are the 10 most recent accessibility trees.
 | [August 7 at 8:42 AM](https://archive.org/download/oann-2022/oann-2022-08-07T08:42:53.948642-04:00.accessibility.json) |
 | [August 6 at 8:44 PM](https://archive.org/download/oann-2022/oann-2022-08-06T20:44:32.960646-04:00.accessibility.json) |
 | [August 6 at 2:40 PM](https://archive.org/download/oann-2022/oann-2022-08-06T14:40:19.700615-04:00.accessibility.json) |
-| [August 6 at 8:35 AM](https://archive.org/download/oann-2022/oann-2022-08-06T08:35:12.304706-04:00.accessibility.json) |
 
 
 

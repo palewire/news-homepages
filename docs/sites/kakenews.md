@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 16 screenshots with the Internet Archive.
+The archiving routine has saved 17 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kakenews-2022/kakenews-2022-08-11T08:33:20.490356-05:00.jpg">
+  <img src="https://archive.org/download/kakenews-2022/kakenews-2022-08-11T08:33:20.490356-05:00.jpg"
+     alt="KAKE News at 2022-08-11 08:33:22-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kakenews-2022/kakenews-2022-08-11T08:33:20.490356-05:00.jpg">August 11 at 8:33 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kakenews-2022/kakenews-2022-08-10T19:48:42.921565-05:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kakenews-2022/kakenews-2022-08-05T21:03:28.349004-05:00.jpg">August 5 at 9:03 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kakenews-2022/kakenews-2022-08-05T07:35:27.104728-05:00.jpg">
-  <img src="https://archive.org/download/kakenews-2022/kakenews-2022-08-05T07:35:27.104728-05:00.jpg"
-     alt="KAKE News at 2022-08-05 07:35:28-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kakenews-2022/kakenews-2022-08-05T07:35:27.104728-05:00.jpg">August 5 at 7:35 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 13 hyperlink lists with the Internet Archive.
+The archiving routine has saved 14 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 11 at 8:33 AM](https://archive.org/download/kakenews-2022/kakenews-2022-08-11T08:33:20.490356-05:00.hyperlinks.json) |
 | [August 10 at 7:48 PM](https://archive.org/download/kakenews-2022/kakenews-2022-08-10T19:48:42.921565-05:00.hyperlinks.json) |
 | [August 10 at 8:06 AM](https://archive.org/download/kakenews-2022/kakenews-2022-08-10T08:06:01.148306-05:00.hyperlinks.json) |
 | [August 9 at 7:51 PM](https://archive.org/download/kakenews-2022/kakenews-2022-08-09T19:51:04.414500-05:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 7 at 7:56 PM](https://archive.org/download/kakenews-2022/kakenews-2022-08-07T19:56:33.903669-05:00.hyperlinks.json) |
 | [August 7 at 7:34 AM](https://archive.org/download/kakenews-2022/kakenews-2022-08-07T07:34:24.745780-05:00.hyperlinks.json) |
 | [August 6 at 7:35 PM](https://archive.org/download/kakenews-2022/kakenews-2022-08-06T19:35:22.973388-05:00.hyperlinks.json) |
-| [August 6 at 7:27 AM](https://archive.org/download/kakenews-2022/kakenews-2022-08-06T07:27:49.953493-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 12 accessibility trees with the Internet Archive.
+The archiving routine has saved 13 accessibility trees with the Internet Archive.
 
 
 
@@ -170,6 +170,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 11 at 8:33 AM](https://archive.org/download/kakenews-2022/kakenews-2022-08-11T08:33:20.490356-05:00.accessibility.json) |
 | [August 10 at 7:48 PM](https://archive.org/download/kakenews-2022/kakenews-2022-08-10T19:48:42.921565-05:00.accessibility.json) |
 | [August 10 at 8:06 AM](https://archive.org/download/kakenews-2022/kakenews-2022-08-10T08:06:01.148306-05:00.accessibility.json) |
 | [August 9 at 7:51 PM](https://archive.org/download/kakenews-2022/kakenews-2022-08-09T19:51:04.414500-05:00.accessibility.json) |
@@ -179,13 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [August 6 at 7:27 AM](https://archive.org/download/kakenews-2022/kakenews-2022-08-06T07:27:49.953493-05:00.accessibility.json) |
 | [August 5 at 9:03 PM](https://archive.org/download/kakenews-2022/kakenews-2022-08-05T21:03:28.349004-05:00.accessibility.json) |
 | [August 5 at 7:35 AM](https://archive.org/download/kakenews-2022/kakenews-2022-08-05T07:35:27.104728-05:00.accessibility.json) |
-| [August 4 at 8:40 PM](https://archive.org/download/kakenews-2022/kakenews-2022-08-04T20:40:05.048827-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 16 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
 
 
 
@@ -193,6 +193,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 11 at 8:33 AM](https://archive.org/download/kakenews-2022/kakenews-2022-08-11T08:33:20.490356-05:00.lighthouse.json) |
 | [August 10 at 7:48 PM](https://archive.org/download/kakenews-2022/kakenews-2022-08-10T19:48:42.921565-05:00.lighthouse.json) |
 | [August 10 at 8:06 AM](https://archive.org/download/kakenews-2022/kakenews-2022-08-10T08:06:01.148306-05:00.lighthouse.json) |
 | [August 9 at 7:51 PM](https://archive.org/download/kakenews-2022/kakenews-2022-08-09T19:51:04.414500-05:00.lighthouse.json) |
@@ -202,7 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 7 at 7:56 PM](https://archive.org/download/kakenews-2022/kakenews-2022-08-07T19:56:33.903669-05:00.lighthouse.json) |
 | [August 7 at 7:34 AM](https://archive.org/download/kakenews-2022/kakenews-2022-08-07T07:34:24.745780-05:00.lighthouse.json) |
 | [August 6 at 7:35 PM](https://archive.org/download/kakenews-2022/kakenews-2022-08-06T19:35:22.973388-05:00.lighthouse.json) |
-| [August 6 at 7:27 AM](https://archive.org/download/kakenews-2022/kakenews-2022-08-06T07:27:49.953493-05:00.lighthouse.json) |
 
 
 

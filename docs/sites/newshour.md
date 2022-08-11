@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 198 screenshots with the Internet Archive.
+The archiving routine has saved 199 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 198 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newshour-2022/newshour-2022-08-11T09:43:28.254922-04:00.jpg">
+  <img src="https://archive.org/download/newshour-2022/newshour-2022-08-11T09:43:28.254922-04:00.jpg"
+     alt="PBS News Hour at 2022-08-11 09:43:35-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newshour-2022/newshour-2022-08-11T09:43:28.254922-04:00.jpg">August 11 at 9:43 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newshour-2022/newshour-2022-08-10T20:55:19.783826-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/newshour-2022/newshour-2022-08-08T10:08:11.180172-04:00.jpg">August 8 at 10:08 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/newshour-2022/newshour-2022-08-08T08:46:21.796736-04:00.jpg">
-  <img src="https://archive.org/download/newshour-2022/newshour-2022-08-08T08:46:21.796736-04:00.jpg"
-     alt="PBS News Hour at 2022-08-08 08:46:27-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newshour-2022/newshour-2022-08-08T08:46:21.796736-04:00.jpg">August 8 at 8:46 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 200 hyperlink lists with the Internet Archive.
+The archiving routine has saved 201 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 11 at 9:43 AM](https://archive.org/download/newshour-2022/newshour-2022-08-11T09:43:28.254922-04:00.hyperlinks.json) |
 | [August 10 at 8:55 PM](https://archive.org/download/newshour-2022/newshour-2022-08-10T20:55:19.783826-04:00.hyperlinks.json) |
 | [August 10 at 5:16 PM](https://archive.org/download/newshour-2022/newshour-2022-08-10T17:16:28.194238-04:00.hyperlinks.json) |
 | [August 10 at 10:50 AM](https://archive.org/download/newshour-2022/newshour-2022-08-10T10:50:22.967457-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 9 at 8:58 AM](https://archive.org/download/newshour-2022/newshour-2022-08-09T08:58:49.396243-04:00.hyperlinks.json) |
 | [August 8 at 8:54 PM](https://archive.org/download/newshour-2022/newshour-2022-08-08T20:54:38.309312-04:00.hyperlinks.json) |
 | [August 8 at 5:14 PM](https://archive.org/download/newshour-2022/newshour-2022-08-08T17:13:42.318157-04:00.hyperlinks.json) |
-| [August 8 at 10:08 AM](https://archive.org/download/newshour-2022/newshour-2022-08-08T10:08:11.180172-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 201 accessibility trees with the Internet Archive.
+The archiving routine has saved 202 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 11 at 9:43 AM](https://archive.org/download/newshour-2022/newshour-2022-08-11T09:43:28.254922-04:00.accessibility.json) |
 | [August 10 at 8:55 PM](https://archive.org/download/newshour-2022/newshour-2022-08-10T20:55:19.783826-04:00.accessibility.json) |
 | [August 10 at 5:16 PM](https://archive.org/download/newshour-2022/newshour-2022-08-10T17:16:28.194238-04:00.accessibility.json) |
 | [August 10 at 10:50 AM](https://archive.org/download/newshour-2022/newshour-2022-08-10T10:50:22.967457-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 9 at 10:27 AM](https://archive.org/download/newshour-2022/newshour-2022-08-09T10:27:34.678129-04:00.accessibility.json) |
 | [August 9 at 8:58 AM](https://archive.org/download/newshour-2022/newshour-2022-08-09T08:58:49.396243-04:00.accessibility.json) |
 | [August 8 at 8:54 PM](https://archive.org/download/newshour-2022/newshour-2022-08-08T20:54:38.309312-04:00.accessibility.json) |
-| [August 8 at 5:13 PM](https://archive.org/download/newshour-2022/newshour-2022-08-08T17:13:42.318157-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 74 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 75 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 11 at 9:43 AM](https://archive.org/download/newshour-2022/newshour-2022-08-11T09:43:28.254922-04:00.lighthouse.json) |
 | [August 10 at 8:55 PM](https://archive.org/download/newshour-2022/newshour-2022-08-10T20:55:19.783826-04:00.lighthouse.json) |
 | [August 10 at 5:16 PM](https://archive.org/download/newshour-2022/newshour-2022-08-10T17:16:28.194238-04:00.lighthouse.json) |
 | [August 10 at 10:50 AM](https://archive.org/download/newshour-2022/newshour-2022-08-10T10:50:22.967457-04:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 9 at 10:27 AM](https://archive.org/download/newshour-2022/newshour-2022-08-09T10:27:34.678129-04:00.lighthouse.json) |
 | [August 9 at 8:58 AM](https://archive.org/download/newshour-2022/newshour-2022-08-09T08:58:49.396243-04:00.lighthouse.json) |
 | [August 8 at 8:54 PM](https://archive.org/download/newshour-2022/newshour-2022-08-08T20:54:38.309312-04:00.lighthouse.json) |
-| [August 8 at 5:14 PM](https://archive.org/download/newshour-2022/newshour-2022-08-08T17:13:42.318157-04:00.lighthouse.json) |
 
 
 

@@ -223,7 +223,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 316 hyperlink lists with the Internet Archive.
+The archiving routine has saved 317 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 10 at 8:57 PM](https://archive.org/download/laist-2022/laist-2022-08-10T20:57:37.194712-07:00.hyperlinks.json) |
 | [August 10 at 12:36 PM](https://archive.org/download/laist-2022/laist-2022-08-10T12:36:20.135500-07:00.hyperlinks.json) |
 | [August 10 at 11:12 AM](https://archive.org/download/laist-2022/laist-2022-08-10T11:12:00.799306-07:00.hyperlinks.json) |
 | [August 9 at 9:04 PM](https://archive.org/download/laist-2022/laist-2022-08-09T21:04:31.739695-07:00.hyperlinks.json) |
@@ -323,7 +324,6 @@ Here are the 10 most recent hyperlink lists.
 | [August 8 at 11:13 AM](https://archive.org/download/laist-2022/laist-2022-08-08T11:13:00.399956-07:00.hyperlinks.json) |
 | [August 8 at 10:06 AM](https://archive.org/download/laist-2022/laist-2022-08-08T10:06:11.864125-07:00.hyperlinks.json) |
 | [August 7 at 10:12 PM](https://archive.org/download/laist-2022/laist-2022-08-07T22:12:49.599566-07:00.hyperlinks.json) |
-| [August 7 at 11:41 AM](https://archive.org/download/laist-2022/laist-2022-08-07T11:41:31.716359-07:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -434,7 +434,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 54 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 55 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 10 at 8:58 PM](https://archive.org/download/laist-2022/laist-2022-08-10T20:57:37.194712-07:00.lighthouse.json) |
 | [August 10 at 12:36 PM](https://archive.org/download/laist-2022/laist-2022-08-10T12:36:20.135500-07:00.lighthouse.json) |
 | [August 10 at 11:12 AM](https://archive.org/download/laist-2022/laist-2022-08-10T11:12:00.799306-07:00.lighthouse.json) |
 | [August 9 at 9:04 PM](https://archive.org/download/laist-2022/laist-2022-08-09T21:04:31.739695-07:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 8 at 11:13 AM](https://archive.org/download/laist-2022/laist-2022-08-08T11:13:00.399956-07:00.lighthouse.json) |
 | [August 8 at 10:06 AM](https://archive.org/download/laist-2022/laist-2022-08-08T10:06:11.864125-07:00.lighthouse.json) |
 | [August 7 at 10:12 PM](https://archive.org/download/laist-2022/laist-2022-08-07T22:12:49.599566-07:00.lighthouse.json) |
-| [August 7 at 11:41 AM](https://archive.org/download/laist-2022/laist-2022-08-07T11:41:31.716359-07:00.lighthouse.json) |
 
 
 

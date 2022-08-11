@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 42 screenshots with the Internet Archive.
+The archiving routine has saved 43 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 42 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gpbnews-2022/gpbnews-2022-08-10T23:52:55.759585-04:00.jpg">
+  <img src="https://archive.org/download/gpbnews-2022/gpbnews-2022-08-10T23:52:55.759585-04:00.jpg"
+     alt="Georgia Public Broadcasting at 2022-08-10 23:52:57-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gpbnews-2022/gpbnews-2022-08-10T23:52:55.759585-04:00.jpg">August 10 at 11:52 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gpbnews-2022/gpbnews-2022-08-10T14:06:07.988190-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/gpbnews-2022/gpbnews-2022-08-04T23:18:21.863395-04:00.jpg">August 4 at 11:18 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/gpbnews-2022/gpbnews-2022-08-04T11:22:21.939907-04:00.jpg">
-  <img src="https://archive.org/download/gpbnews-2022/gpbnews-2022-08-04T11:22:21.939907-04:00.jpg"
-     alt="Georgia Public Broadcasting at 2022-08-04 11:22:23-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gpbnews-2022/gpbnews-2022-08-04T11:22:21.939907-04:00.jpg">August 4 at 11:22 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 43 hyperlink lists with the Internet Archive.
+The archiving routine has saved 44 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 10 at 11:53 PM](https://archive.org/download/gpbnews-2022/gpbnews-2022-08-10T23:52:55.759585-04:00.hyperlinks.json) |
 | [August 10 at 2:06 PM](https://archive.org/download/gpbnews-2022/gpbnews-2022-08-10T14:06:07.988190-04:00.hyperlinks.json) |
 | [August 10 at 12:00 AM](https://archive.org/download/gpbnews-2022/gpbnews-2022-08-10T00:00:43.806701-04:00.hyperlinks.json) |
 | [August 9 at 1:25 PM](https://archive.org/download/gpbnews-2022/gpbnews-2022-08-09T13:25:10.282315-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 7 at 12:49 PM](https://archive.org/download/gpbnews-2022/gpbnews-2022-08-07T12:49:20.895114-04:00.hyperlinks.json) |
 | [August 6 at 11:22 PM](https://archive.org/download/gpbnews-2022/gpbnews-2022-08-06T23:22:53.126952-04:00.hyperlinks.json) |
 | [August 6 at 12:13 PM](https://archive.org/download/gpbnews-2022/gpbnews-2022-08-06T12:13:45.458850-04:00.hyperlinks.json) |
-| [August 6 at 12:50 AM](https://archive.org/download/gpbnews-2022/gpbnews-2022-08-06T00:50:10.928532-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 43 accessibility trees with the Internet Archive.
+The archiving routine has saved 44 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 10 at 11:52 PM](https://archive.org/download/gpbnews-2022/gpbnews-2022-08-10T23:52:55.759585-04:00.accessibility.json) |
 | [August 10 at 2:06 PM](https://archive.org/download/gpbnews-2022/gpbnews-2022-08-10T14:06:07.988190-04:00.accessibility.json) |
 | [August 10 at 12:00 AM](https://archive.org/download/gpbnews-2022/gpbnews-2022-08-10T00:00:43.806701-04:00.accessibility.json) |
 | [August 9 at 1:25 PM](https://archive.org/download/gpbnews-2022/gpbnews-2022-08-09T13:25:10.282315-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 7 at 12:49 PM](https://archive.org/download/gpbnews-2022/gpbnews-2022-08-07T12:49:20.895114-04:00.accessibility.json) |
 | [August 6 at 11:22 PM](https://archive.org/download/gpbnews-2022/gpbnews-2022-08-06T23:22:53.126952-04:00.accessibility.json) |
 | [August 6 at 12:13 PM](https://archive.org/download/gpbnews-2022/gpbnews-2022-08-06T12:13:45.458850-04:00.accessibility.json) |
-| [August 6 at 12:50 AM](https://archive.org/download/gpbnews-2022/gpbnews-2022-08-06T00:50:10.928532-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 36 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 37 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 10 at 11:53 PM](https://archive.org/download/gpbnews-2022/gpbnews-2022-08-10T23:52:55.759585-04:00.lighthouse.json) |
 | [August 10 at 2:06 PM](https://archive.org/download/gpbnews-2022/gpbnews-2022-08-10T14:06:07.988190-04:00.lighthouse.json) |
 | [August 10 at 12:00 AM](https://archive.org/download/gpbnews-2022/gpbnews-2022-08-10T00:00:43.806701-04:00.lighthouse.json) |
 | [August 9 at 1:25 PM](https://archive.org/download/gpbnews-2022/gpbnews-2022-08-09T13:25:10.282315-04:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 7 at 12:49 PM](https://archive.org/download/gpbnews-2022/gpbnews-2022-08-07T12:49:20.895114-04:00.lighthouse.json) |
 | [August 6 at 11:22 PM](https://archive.org/download/gpbnews-2022/gpbnews-2022-08-06T23:22:53.126952-04:00.lighthouse.json) |
 | [August 6 at 12:13 PM](https://archive.org/download/gpbnews-2022/gpbnews-2022-08-06T12:13:45.458850-04:00.lighthouse.json) |
-| [August 6 at 12:50 AM](https://archive.org/download/gpbnews-2022/gpbnews-2022-08-06T00:50:10.928532-04:00.lighthouse.json) |
 
 
 

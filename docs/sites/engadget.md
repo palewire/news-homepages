@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 91 screenshots with the Internet Archive.
+The archiving routine has saved 92 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 91 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/engadget-2022/engadget-2022-08-10T20:50:48.289222-07:00.jpg">
+  <img src="https://archive.org/download/engadget-2022/engadget-2022-08-10T20:50:48.289222-07:00.jpg"
+     alt="Engadget at 2022-08-10 20:50:49-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/engadget-2022/engadget-2022-08-10T20:50:48.289222-07:00.jpg">August 10 at 8:50 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/engadget-2022/engadget-2022-08-10T11:01:20.177928-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/engadget-2022/engadget-2022-08-05T10:20:05.823786-07:00.jpg">August 5 at 10:20 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/engadget-2022/engadget-2022-08-04T20:15:33.705382-07:00.jpg">
-  <img src="https://archive.org/download/engadget-2022/engadget-2022-08-04T20:15:33.705382-07:00.jpg"
-     alt="Engadget at 2022-08-04 20:15:35-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/engadget-2022/engadget-2022-08-04T20:15:33.705382-07:00.jpg">August 4 at 8:15 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 91 hyperlink lists with the Internet Archive.
+The archiving routine has saved 92 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 10 at 8:50 PM](https://archive.org/download/engadget-2022/engadget-2022-08-10T20:50:48.289222-07:00.hyperlinks.json) |
 | [August 10 at 11:01 AM](https://archive.org/download/engadget-2022/engadget-2022-08-10T11:01:20.177928-07:00.hyperlinks.json) |
 | [August 9 at 8:58 PM](https://archive.org/download/engadget-2022/engadget-2022-08-09T20:57:58.377841-07:00.hyperlinks.json) |
 | [August 9 at 10:22 AM](https://archive.org/download/engadget-2022/engadget-2022-08-09T10:22:47.870929-07:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 7 at 9:47 AM](https://archive.org/download/engadget-2022/engadget-2022-08-07T09:47:48.971144-07:00.hyperlinks.json) |
 | [August 6 at 8:20 PM](https://archive.org/download/engadget-2022/engadget-2022-08-06T20:20:20.354502-07:00.hyperlinks.json) |
 | [August 6 at 9:09 AM](https://archive.org/download/engadget-2022/engadget-2022-08-06T09:09:27.895058-07:00.hyperlinks.json) |
-| [August 5 at 9:47 PM](https://archive.org/download/engadget-2022/engadget-2022-08-05T21:47:32.621477-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 91 accessibility trees with the Internet Archive.
+The archiving routine has saved 92 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 10 at 8:50 PM](https://archive.org/download/engadget-2022/engadget-2022-08-10T20:50:48.289222-07:00.accessibility.json) |
 | [August 10 at 11:01 AM](https://archive.org/download/engadget-2022/engadget-2022-08-10T11:01:20.177928-07:00.accessibility.json) |
 | [August 9 at 8:58 PM](https://archive.org/download/engadget-2022/engadget-2022-08-09T20:57:58.377841-07:00.accessibility.json) |
 | [August 9 at 10:22 AM](https://archive.org/download/engadget-2022/engadget-2022-08-09T10:22:47.870929-07:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 7 at 9:47 AM](https://archive.org/download/engadget-2022/engadget-2022-08-07T09:47:48.971144-07:00.accessibility.json) |
 | [August 6 at 8:20 PM](https://archive.org/download/engadget-2022/engadget-2022-08-06T20:20:20.354502-07:00.accessibility.json) |
 | [August 6 at 9:09 AM](https://archive.org/download/engadget-2022/engadget-2022-08-06T09:09:27.895058-07:00.accessibility.json) |
-| [August 5 at 9:47 PM](https://archive.org/download/engadget-2022/engadget-2022-08-05T21:47:32.621477-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 37 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 38 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 10 at 8:50 PM](https://archive.org/download/engadget-2022/engadget-2022-08-10T20:50:48.289222-07:00.lighthouse.json) |
 | [August 10 at 11:01 AM](https://archive.org/download/engadget-2022/engadget-2022-08-10T11:01:20.177928-07:00.lighthouse.json) |
 | [August 9 at 8:58 PM](https://archive.org/download/engadget-2022/engadget-2022-08-09T20:57:58.377841-07:00.lighthouse.json) |
 | [August 9 at 10:22 AM](https://archive.org/download/engadget-2022/engadget-2022-08-09T10:22:47.870929-07:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 7 at 9:47 AM](https://archive.org/download/engadget-2022/engadget-2022-08-07T09:47:48.971144-07:00.lighthouse.json) |
 | [August 6 at 8:20 PM](https://archive.org/download/engadget-2022/engadget-2022-08-06T20:20:20.354502-07:00.lighthouse.json) |
 | [August 6 at 9:09 AM](https://archive.org/download/engadget-2022/engadget-2022-08-06T09:09:27.895058-07:00.lighthouse.json) |
-| [August 5 at 9:47 PM](https://archive.org/download/engadget-2022/engadget-2022-08-05T21:47:32.621477-07:00.lighthouse.json) |
 
 
 

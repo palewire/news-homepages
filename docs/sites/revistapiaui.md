@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 8 screenshots with the Internet Archive.
+The archiving routine has saved 10 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-11T10:29:46.514441-03:00.jpg">
+  <img src="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-11T10:29:46.514441-03:00.jpg"
+     alt="revista piauí at 2022-08-11 10:29:48-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-11T10:29:46.514441-03:00.jpg">August 11 at 10:29 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-11T02:23:36.492504-03:00.jpg">
+  <img src="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-11T02:23:36.492504-03:00.jpg"
+     alt="revista piauí at 2022-08-11 02:23:37-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-11T02:23:36.492504-03:00.jpg">August 11 at 2:23 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-10T15:20:15.945292-03:00.jpg">
@@ -104,7 +122,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 8 hyperlink lists with the Internet Archive.
+The archiving routine has saved 10 hyperlink lists with the Internet Archive.
 
 
 
@@ -112,6 +130,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 11 at 10:29 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-11T10:29:46.514441-03:00.hyperlinks.json) |
+| [August 11 at 2:23 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-11T02:23:36.492504-03:00.hyperlinks.json) |
 | [August 10 at 3:21 PM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-10T15:20:15.945292-03:00.hyperlinks.json) |
 | [August 10 at 10:22 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-10T10:21:56.393947-03:00.hyperlinks.json) |
 | [August 10 at 2:30 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-10T02:29:59.173331-03:00.hyperlinks.json) |
@@ -124,7 +144,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 8 accessibility trees with the Internet Archive.
+The archiving routine has saved 10 accessibility trees with the Internet Archive.
 
 
 
@@ -132,6 +152,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 11 at 10:29 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-11T10:29:46.514441-03:00.accessibility.json) |
+| [August 11 at 2:23 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-11T02:23:36.492504-03:00.accessibility.json) |
 | [August 10 at 3:20 PM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-10T15:20:15.945292-03:00.accessibility.json) |
 | [August 10 at 10:21 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-10T10:21:56.393947-03:00.accessibility.json) |
 | [August 10 at 2:30 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-10T02:29:59.173331-03:00.accessibility.json) |
@@ -145,7 +167,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 8 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 10 Lighthouse audits with the Internet Archive.
 
 
 
@@ -153,6 +175,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 11 at 10:29 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-11T10:29:46.514441-03:00.lighthouse.json) |
+| [August 11 at 2:23 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-11T02:23:36.492504-03:00.lighthouse.json) |
 | [August 10 at 3:21 PM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-10T15:20:15.945292-03:00.lighthouse.json) |
 | [August 10 at 10:22 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-10T10:21:56.393947-03:00.lighthouse.json) |
 | [August 10 at 2:30 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-08-10T02:29:59.173331-03:00.lighthouse.json) |

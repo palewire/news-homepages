@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 3 screenshots with the Internet Archive.
+The archiving routine has saved 4 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/clarincom-2022/clarincom-2022-08-10T23:25:08.986829-03:00.jpg">
+  <img src="https://archive.org/download/clarincom-2022/clarincom-2022-08-10T23:25:08.986829-03:00.jpg"
+     alt="Clarín at 2022-08-10 23:25:10-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/clarincom-2022/clarincom-2022-08-10T23:25:08.986829-03:00.jpg">August 10 at 11:25 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/clarincom-2022/clarincom-2022-08-10T14:46:13.824533-03:00.jpg">
@@ -59,7 +68,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 3 hyperlink lists with the Internet Archive.
+The archiving routine has saved 4 hyperlink lists with the Internet Archive.
 
 
 
@@ -67,6 +76,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 10 at 11:25 PM](https://archive.org/download/clarincom-2022/clarincom-2022-08-10T23:25:08.986829-03:00.hyperlinks.json) |
 | [August 10 at 2:46 PM](https://archive.org/download/clarincom-2022/clarincom-2022-08-10T14:46:13.824533-03:00.hyperlinks.json) |
 | [August 9 at 11:33 PM](https://archive.org/download/clarincom-2022/clarincom-2022-08-09T23:33:41.971285-03:00.hyperlinks.json) |
 | [August 9 at 11:36 AM](https://archive.org/download/clarincom-2022/clarincom-2022-08-09T11:35:57.391597-03:00.hyperlinks.json) |
@@ -74,7 +84,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 3 accessibility trees with the Internet Archive.
+The archiving routine has saved 4 accessibility trees with the Internet Archive.
 
 
 
@@ -82,6 +92,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 10 at 11:25 PM](https://archive.org/download/clarincom-2022/clarincom-2022-08-10T23:25:08.986829-03:00.accessibility.json) |
 | [August 10 at 2:46 PM](https://archive.org/download/clarincom-2022/clarincom-2022-08-10T14:46:13.824533-03:00.accessibility.json) |
 | [August 9 at 11:33 PM](https://archive.org/download/clarincom-2022/clarincom-2022-08-09T23:33:41.971285-03:00.accessibility.json) |
 | [August 9 at 11:36 AM](https://archive.org/download/clarincom-2022/clarincom-2022-08-09T11:35:57.391597-03:00.accessibility.json) |
@@ -90,7 +101,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 3 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 4 Lighthouse audits with the Internet Archive.
 
 
 
@@ -98,6 +109,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 10 at 11:25 PM](https://archive.org/download/clarincom-2022/clarincom-2022-08-10T23:25:08.986829-03:00.lighthouse.json) |
 | [August 10 at 2:46 PM](https://archive.org/download/clarincom-2022/clarincom-2022-08-10T14:46:13.824533-03:00.lighthouse.json) |
 | [August 9 at 11:33 PM](https://archive.org/download/clarincom-2022/clarincom-2022-08-09T23:33:41.971285-03:00.lighthouse.json) |
 | [August 9 at 11:36 AM](https://archive.org/download/clarincom-2022/clarincom-2022-08-09T11:35:57.391597-03:00.lighthouse.json) |

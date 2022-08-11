@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 196 screenshots with the Internet Archive.
+The archiving routine has saved 197 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 196 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/business-2022/business-2022-08-10T22:23:41.738688-04:00.jpg">
+  <img src="https://archive.org/download/business-2022/business-2022-08-10T22:23:41.738688-04:00.jpg"
+     alt="Bloomberg at 2022-08-10 22:23:43-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/business-2022/business-2022-08-10T22:23:41.738688-04:00.jpg">August 10 at 10:23 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/business-2022/business-2022-08-10T17:16:38.976010-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/business-2022/business-2022-08-08T10:07:52.566219-04:00.jpg">August 8 at 10:07 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/business-2022/business-2022-08-07T22:29:42.952322-04:00.jpg">
-  <img src="https://archive.org/download/business-2022/business-2022-08-07T22:29:42.952322-04:00.jpg"
-     alt="Bloomberg at 2022-08-07 22:29:52-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/business-2022/business-2022-08-07T22:29:42.952322-04:00.jpg">August 7 at 10:29 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 195 hyperlink lists with the Internet Archive.
+The archiving routine has saved 196 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 10 at 10:23 PM](https://archive.org/download/business-2022/business-2022-08-10T22:23:41.738688-04:00.hyperlinks.json) |
 | [August 10 at 5:16 PM](https://archive.org/download/business-2022/business-2022-08-10T17:16:38.976010-04:00.hyperlinks.json) |
 | [August 10 at 1:45 PM](https://archive.org/download/business-2022/business-2022-08-10T13:44:57.455070-04:00.hyperlinks.json) |
 | [August 10 at 10:48 AM](https://archive.org/download/business-2022/business-2022-08-10T10:48:36.992585-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 8 at 5:14 PM](https://archive.org/download/business-2022/business-2022-08-08T17:14:00.147474-04:00.hyperlinks.json) |
 | [August 8 at 10:16 AM](https://archive.org/download/business-2022/business-2022-08-08T10:16:34.812097-04:00.hyperlinks.json) |
 | [August 8 at 10:07 AM](https://archive.org/download/business-2022/business-2022-08-08T10:07:52.566219-04:00.hyperlinks.json) |
-| [August 7 at 10:29 PM](https://archive.org/download/business-2022/business-2022-08-07T22:29:42.952322-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 201 accessibility trees with the Internet Archive.
+The archiving routine has saved 202 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 10 at 10:23 PM](https://archive.org/download/business-2022/business-2022-08-10T22:23:41.738688-04:00.accessibility.json) |
 | [August 10 at 5:16 PM](https://archive.org/download/business-2022/business-2022-08-10T17:16:38.976010-04:00.accessibility.json) |
 | [August 10 at 1:45 PM](https://archive.org/download/business-2022/business-2022-08-10T13:44:57.455070-04:00.accessibility.json) |
 | [August 10 at 10:48 AM](https://archive.org/download/business-2022/business-2022-08-10T10:48:36.992585-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 9 at 10:26 AM](https://archive.org/download/business-2022/business-2022-08-09T10:26:46.760314-04:00.accessibility.json) |
 | [August 8 at 10:20 PM](https://archive.org/download/business-2022/business-2022-08-08T22:20:44.931143-04:00.accessibility.json) |
 | [August 8 at 5:14 PM](https://archive.org/download/business-2022/business-2022-08-08T17:14:00.147474-04:00.accessibility.json) |
-| [August 8 at 10:16 AM](https://archive.org/download/business-2022/business-2022-08-08T10:16:34.812097-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 75 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 76 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 10 at 10:23 PM](https://archive.org/download/business-2022/business-2022-08-10T22:23:41.738688-04:00.lighthouse.json) |
 | [August 10 at 5:16 PM](https://archive.org/download/business-2022/business-2022-08-10T17:16:38.976010-04:00.lighthouse.json) |
 | [August 10 at 1:45 PM](https://archive.org/download/business-2022/business-2022-08-10T13:44:57.455070-04:00.lighthouse.json) |
 | [August 10 at 10:48 AM](https://archive.org/download/business-2022/business-2022-08-10T10:48:36.992585-04:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 9 at 10:26 AM](https://archive.org/download/business-2022/business-2022-08-09T10:26:46.760314-04:00.lighthouse.json) |
 | [August 8 at 10:20 PM](https://archive.org/download/business-2022/business-2022-08-08T22:20:44.931143-04:00.lighthouse.json) |
 | [August 8 at 5:14 PM](https://archive.org/download/business-2022/business-2022-08-08T17:14:00.147474-04:00.lighthouse.json) |
-| [August 8 at 10:16 AM](https://archive.org/download/business-2022/business-2022-08-08T10:16:34.812097-04:00.lighthouse.json) |
 
 
 

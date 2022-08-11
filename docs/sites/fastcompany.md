@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 76 screenshots with the Internet Archive.
+The archiving routine has saved 77 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 76 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-10T23:51:07.073147-04:00.jpg">
+  <img src="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-10T23:51:07.073147-04:00.jpg"
+     alt="Fast Company at 2022-08-10 23:51:12-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-10T23:51:07.073147-04:00.jpg">August 10 at 11:51 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-10T14:04:50.775148-04:00.jpg">
@@ -208,15 +217,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-05T13:20:12.196407-04:00.jpg">August 5 at 1:20 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-04T23:16:02.407477-04:00.jpg">
-  <img src="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-04T23:16:02.407477-04:00.jpg"
-     alt="Fast Company at 2022-08-04 23:16:04-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-04T23:16:02.407477-04:00.jpg">August 4 at 11:16 PM</a></p>
 </div>
 
 </div>
@@ -328,7 +328,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 71 accessibility trees with the Internet Archive.
+The archiving routine has saved 72 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 10 at 11:51 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-10T23:51:07.073147-04:00.accessibility.json) |
 | [August 10 at 2:04 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-10T14:04:50.775148-04:00.accessibility.json) |
 | [August 9 at 11:57 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-09T23:57:33.520710-04:00.accessibility.json) |
 | [August 9 at 1:21 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-09T13:21:49.343189-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 7 at 12:47 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-07T12:47:43.808900-04:00.accessibility.json) |
 | [August 6 at 11:21 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-06T23:21:45.777658-04:00.accessibility.json) |
 | [August 6 at 12:10 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-06T12:10:02.412529-04:00.accessibility.json) |
-| [August 6 at 12:47 AM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-06T00:47:40.449791-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 36 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 37 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 10 at 11:51 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-10T23:51:07.073147-04:00.lighthouse.json) |
 | [August 10 at 2:05 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-10T14:04:50.775148-04:00.lighthouse.json) |
 | [August 9 at 11:57 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-09T23:57:33.520710-04:00.lighthouse.json) |
 | [August 9 at 1:21 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-09T13:21:49.343189-04:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 7 at 12:47 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-07T12:47:43.808900-04:00.lighthouse.json) |
 | [August 6 at 11:21 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-06T23:21:45.777658-04:00.lighthouse.json) |
 | [August 6 at 12:10 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-06T12:10:02.412529-04:00.lighthouse.json) |
-| [August 6 at 12:47 AM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-06T00:47:40.449791-04:00.lighthouse.json) |
 
 
 

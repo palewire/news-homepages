@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 77 screenshots with the Internet Archive.
+The archiving routine has saved 78 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 77 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cqnow-2022/cqnow-2022-08-11T07:38:23.225253-04:00.jpg">
+  <img src="https://archive.org/download/cqnow-2022/cqnow-2022-08-11T07:38:23.225253-04:00.jpg"
+     alt="CQ at 2022-08-11 07:38:26-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-08-11T07:38:23.225253-04:00.jpg">August 11 at 7:38 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cqnow-2022/cqnow-2022-08-10T20:41:43.576784-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-08-05T19:31:52.130390-04:00.jpg">August 5 at 7:31 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/cqnow-2022/cqnow-2022-08-05T08:26:34.632144-04:00.jpg">
-  <img src="https://archive.org/download/cqnow-2022/cqnow-2022-08-05T08:26:34.632144-04:00.jpg"
-     alt="CQ at 2022-08-05 08:26:35-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-08-05T08:26:34.632144-04:00.jpg">August 5 at 8:26 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 77 hyperlink lists with the Internet Archive.
+The archiving routine has saved 78 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 11 at 7:38 AM](https://archive.org/download/cqnow-2022/cqnow-2022-08-11T07:38:23.225253-04:00.hyperlinks.json) |
 | [August 10 at 8:41 PM](https://archive.org/download/cqnow-2022/cqnow-2022-08-10T20:41:43.576784-04:00.hyperlinks.json) |
 | [August 10 at 8:58 AM](https://archive.org/download/cqnow-2022/cqnow-2022-08-10T08:58:31.348155-04:00.hyperlinks.json) |
 | [August 9 at 7:26 PM](https://archive.org/download/cqnow-2022/cqnow-2022-08-09T19:26:47.098260-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 7 at 8:46 PM](https://archive.org/download/cqnow-2022/cqnow-2022-08-07T20:46:48.975229-04:00.hyperlinks.json) |
 | [August 7 at 8:26 AM](https://archive.org/download/cqnow-2022/cqnow-2022-08-07T08:26:00.336355-04:00.hyperlinks.json) |
 | [August 6 at 8:29 PM](https://archive.org/download/cqnow-2022/cqnow-2022-08-06T20:29:01.535424-04:00.hyperlinks.json) |
-| [August 6 at 8:19 AM](https://archive.org/download/cqnow-2022/cqnow-2022-08-06T08:19:41.332773-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 77 accessibility trees with the Internet Archive.
+The archiving routine has saved 78 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 11 at 7:38 AM](https://archive.org/download/cqnow-2022/cqnow-2022-08-11T07:38:23.225253-04:00.accessibility.json) |
 | [August 10 at 8:41 PM](https://archive.org/download/cqnow-2022/cqnow-2022-08-10T20:41:43.576784-04:00.accessibility.json) |
 | [August 10 at 8:58 AM](https://archive.org/download/cqnow-2022/cqnow-2022-08-10T08:58:31.348155-04:00.accessibility.json) |
 | [August 9 at 7:26 PM](https://archive.org/download/cqnow-2022/cqnow-2022-08-09T19:26:47.098260-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 7 at 8:46 PM](https://archive.org/download/cqnow-2022/cqnow-2022-08-07T20:46:48.975229-04:00.accessibility.json) |
 | [August 7 at 8:26 AM](https://archive.org/download/cqnow-2022/cqnow-2022-08-07T08:26:00.336355-04:00.accessibility.json) |
 | [August 6 at 8:29 PM](https://archive.org/download/cqnow-2022/cqnow-2022-08-06T20:29:01.535424-04:00.accessibility.json) |
-| [August 6 at 8:19 AM](https://archive.org/download/cqnow-2022/cqnow-2022-08-06T08:19:41.332773-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 37 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 38 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 11 at 7:38 AM](https://archive.org/download/cqnow-2022/cqnow-2022-08-11T07:38:23.225253-04:00.lighthouse.json) |
 | [August 10 at 8:41 PM](https://archive.org/download/cqnow-2022/cqnow-2022-08-10T20:41:43.576784-04:00.lighthouse.json) |
 | [August 10 at 8:58 AM](https://archive.org/download/cqnow-2022/cqnow-2022-08-10T08:58:31.348155-04:00.lighthouse.json) |
 | [August 9 at 7:26 PM](https://archive.org/download/cqnow-2022/cqnow-2022-08-09T19:26:47.098260-04:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 7 at 8:46 PM](https://archive.org/download/cqnow-2022/cqnow-2022-08-07T20:46:48.975229-04:00.lighthouse.json) |
 | [August 7 at 8:26 AM](https://archive.org/download/cqnow-2022/cqnow-2022-08-07T08:26:00.336355-04:00.lighthouse.json) |
 | [August 6 at 8:29 PM](https://archive.org/download/cqnow-2022/cqnow-2022-08-06T20:29:01.535424-04:00.lighthouse.json) |
-| [August 6 at 8:19 AM](https://archive.org/download/cqnow-2022/cqnow-2022-08-06T08:19:41.332773-04:00.lighthouse.json) |
 
 
 
