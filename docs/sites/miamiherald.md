@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 78 screenshots with the Internet Archive.
+The archiving routine has saved 80 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-11T09:40:34.312833-04:00.jpg">
-  <img src="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-11T09:40:34.312833-04:00.jpg"
-     alt="Miami Herald at 2022-08-11 02:40:36-04:00 local time"
+ <a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-12T09:23:57.716091-04:00.jpg">
+  <img src="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-12T09:23:57.716091-04:00.jpg"
+     alt="Miami Herald at 2022-08-12 09:24:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-11T09:40:34.312833-04:00.jpg">August 11 at 2:40 AM</a></p>
+ <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-12T09:23:57.716091-04:00.jpg">August 12 at 9:24 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-12T05:19:40.045558-04:00.jpg">
+  <img src="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-12T05:19:40.045558-04:00.jpg"
+     alt="Miami Herald at 2022-08-12 05:19:42-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-12T05:19:40.045558-04:00.jpg">August 12 at 5:19 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-11T09:40:34.312833-04:00.jpg">
+  <img src="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-11T09:40:34.312833-04:00.jpg"
+     alt="Miami Herald at 2022-08-11 09:40:36-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-11T09:40:34.312833-04:00.jpg">August 11 at 9:40 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-10T20:52:58.620120-04:00.jpg">
   <img src="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-10T20:52:58.620120-04:00.jpg"
-     alt="Miami Herald at 2022-08-10 13:53:04-04:00 local time"
+     alt="Miami Herald at 2022-08-10 20:53:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-10T20:52:58.620120-04:00.jpg">August 10 at 1:53 PM</a></p>
+ <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-10T20:52:58.620120-04:00.jpg">August 10 at 8:53 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-10T09:10:15.337592-04:00.jpg">
   <img src="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-10T09:10:15.337592-04:00.jpg"
-     alt="Miami Herald at 2022-08-10 02:10:20-04:00 local time"
+     alt="Miami Herald at 2022-08-10 09:10:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-10T09:10:15.337592-04:00.jpg">August 10 at 2:10 AM</a></p>
+ <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-10T09:10:15.337592-04:00.jpg">August 10 at 9:10 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-09T20:57:09.183216-04:00.jpg">
   <img src="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-09T20:57:09.183216-04:00.jpg"
-     alt="Miami Herald at 2022-08-09 13:57:12-04:00 local time"
+     alt="Miami Herald at 2022-08-09 20:57:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-09T20:57:09.183216-04:00.jpg">August 9 at 1:57 PM</a></p>
+ <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-09T20:57:09.183216-04:00.jpg">August 9 at 8:57 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-09T08:56:40.054222-04:00.jpg">
   <img src="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-09T08:56:40.054222-04:00.jpg"
-     alt="Miami Herald at 2022-08-09 01:56:43-04:00 local time"
+     alt="Miami Herald at 2022-08-09 08:56:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-09T08:56:40.054222-04:00.jpg">August 9 at 1:56 AM</a></p>
+ <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-09T08:56:40.054222-04:00.jpg">August 9 at 8:56 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-08T20:52:02.026264-04:00.jpg">
   <img src="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-08T20:52:02.026264-04:00.jpg"
-     alt="Miami Herald at 2022-08-08 13:52:04-04:00 local time"
+     alt="Miami Herald at 2022-08-08 20:52:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-08T20:52:02.026264-04:00.jpg">August 8 at 1:52 PM</a></p>
+ <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-08T20:52:02.026264-04:00.jpg">August 8 at 8:52 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-08T08:43:25.713634-04:00.jpg">
   <img src="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-08T08:43:25.713634-04:00.jpg"
-     alt="Miami Herald at 2022-08-08 01:43:27-04:00 local time"
+     alt="Miami Herald at 2022-08-08 08:43:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-08T08:43:25.713634-04:00.jpg">August 8 at 1:43 AM</a></p>
+ <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-08T08:43:25.713634-04:00.jpg">August 8 at 8:43 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-07T21:01:36.594981-04:00.jpg">
   <img src="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-07T21:01:36.594981-04:00.jpg"
-     alt="Miami Herald at 2022-08-07 14:01:39-04:00 local time"
+     alt="Miami Herald at 2022-08-07 21:01:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-07T21:01:36.594981-04:00.jpg">August 7 at 2:01 PM</a></p>
+ <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-07T21:01:36.594981-04:00.jpg">August 7 at 9:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-07T08:38:35.243698-04:00.jpg">
   <img src="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-07T08:38:35.243698-04:00.jpg"
-     alt="Miami Herald at 2022-08-07 01:38:37-04:00 local time"
+     alt="Miami Herald at 2022-08-07 08:38:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-07T08:38:35.243698-04:00.jpg">August 7 at 1:38 AM</a></p>
+ <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-07T08:38:35.243698-04:00.jpg">August 7 at 8:38 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-06T20:40:41.164641-04:00.jpg">
   <img src="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-06T20:40:41.164641-04:00.jpg"
-     alt="Miami Herald at 2022-08-06 13:40:43-04:00 local time"
+     alt="Miami Herald at 2022-08-06 20:40:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-06T20:40:41.164641-04:00.jpg">August 6 at 1:40 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-06T08:31:25.022067-04:00.jpg">
-  <img src="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-06T08:31:25.022067-04:00.jpg"
-     alt="Miami Herald at 2022-08-06 01:31:28-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-06T08:31:25.022067-04:00.jpg">August 6 at 1:31 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-05T22:07:11.248016-04:00.jpg">
-  <img src="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-05T22:07:11.248016-04:00.jpg"
-     alt="Miami Herald at 2022-08-05 15:07:13-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-05T22:07:11.248016-04:00.jpg">August 5 at 3:07 PM</a></p>
+ <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-06T20:40:41.164641-04:00.jpg">August 6 at 8:40 PM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 60 hyperlink lists with the Internet Archive.
+The archiving routine has saved 61 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 11 at 2:40 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-11T09:40:34.312833-04:00.hyperlinks.json) |
-| [August 10 at 2:10 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-10T09:10:15.337592-04:00.hyperlinks.json) |
-| [August 9 at 1:57 PM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-09T20:57:09.183216-04:00.hyperlinks.json) |
-| [August 9 at 1:56 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-09T08:56:40.054222-04:00.hyperlinks.json) |
-| [August 7 at 2:01 PM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-07T21:01:36.594981-04:00.hyperlinks.json) |
-| [August 4 at 1:35 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-04T08:35:08.864491-04:00.hyperlinks.json) |
-| [August 3 at 1:41 PM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-03T20:41:21.173119-04:00.hyperlinks.json) |
-| [August 3 at 1:50 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-03T08:50:21.755519-04:00.hyperlinks.json) |
-| [August 2 at 1:23 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-02T08:23:15.797075-04:00.hyperlinks.json) |
-| [August 1 at 1:37 PM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-01T20:37:48.381279-04:00.hyperlinks.json) |
+| [August 12 at 5:19 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-12T05:19:40.045558-04:00.hyperlinks.json) |
+| [August 11 at 9:40 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-11T09:40:34.312833-04:00.hyperlinks.json) |
+| [August 10 at 9:10 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-10T09:10:15.337592-04:00.hyperlinks.json) |
+| [August 9 at 8:57 PM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-09T20:57:09.183216-04:00.hyperlinks.json) |
+| [August 9 at 8:56 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-09T08:56:40.054222-04:00.hyperlinks.json) |
+| [August 7 at 9:01 PM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-07T21:01:36.594981-04:00.hyperlinks.json) |
+| [August 4 at 8:35 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-04T08:35:08.864491-04:00.hyperlinks.json) |
+| [August 3 at 8:41 PM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-03T20:41:21.173119-04:00.hyperlinks.json) |
+| [August 3 at 8:50 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-03T08:50:21.755519-04:00.hyperlinks.json) |
+| [August 2 at 8:23 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-02T08:23:15.797075-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 78 accessibility trees with the Internet Archive.
+The archiving routine has saved 80 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,22 +419,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 11 at 2:40 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-11T09:40:34.312833-04:00.accessibility.json) |
-| [August 10 at 1:53 PM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-10T20:52:58.620120-04:00.accessibility.json) |
-| [August 10 at 2:10 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-10T09:10:15.337592-04:00.accessibility.json) |
-| [August 9 at 1:57 PM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-09T20:57:09.183216-04:00.accessibility.json) |
-| [August 9 at 1:56 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-09T08:56:40.054222-04:00.accessibility.json) |
-| [August 8 at 1:52 PM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-08T20:52:02.026264-04:00.accessibility.json) |
-| [August 8 at 1:43 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-08T08:43:25.713634-04:00.accessibility.json) |
-| [August 7 at 2:01 PM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-07T21:01:36.594981-04:00.accessibility.json) |
-| [August 7 at 1:38 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-07T08:38:35.243698-04:00.accessibility.json) |
-| [August 6 at 1:40 PM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-06T20:40:41.164641-04:00.accessibility.json) |
+| [August 12 at 9:24 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-12T09:23:57.716091-04:00.accessibility.json) |
+| [August 12 at 5:19 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-12T05:19:40.045558-04:00.accessibility.json) |
+| [August 11 at 9:40 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-11T09:40:34.312833-04:00.accessibility.json) |
+| [August 10 at 8:53 PM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-10T20:52:58.620120-04:00.accessibility.json) |
+| [August 10 at 9:10 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-10T09:10:15.337592-04:00.accessibility.json) |
+| [August 9 at 8:57 PM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-09T20:57:09.183216-04:00.accessibility.json) |
+| [August 9 at 8:56 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-09T08:56:40.054222-04:00.accessibility.json) |
+| [August 8 at 8:52 PM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-08T20:52:02.026264-04:00.accessibility.json) |
+| [August 8 at 8:43 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-08T08:43:25.713634-04:00.accessibility.json) |
+| [August 7 at 9:01 PM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-07T21:01:36.594981-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 38 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 40 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,16 +525,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 11 at 2:40 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-11T09:40:34.312833-04:00.lighthouse.json) |
-| [August 10 at 1:53 PM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-10T20:52:58.620120-04:00.lighthouse.json) |
-| [August 10 at 2:10 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-10T09:10:15.337592-04:00.lighthouse.json) |
-| [August 9 at 1:57 PM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-09T20:57:09.183216-04:00.lighthouse.json) |
-| [August 9 at 1:56 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-09T08:56:40.054222-04:00.lighthouse.json) |
-| [August 8 at 1:52 PM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-08T20:52:02.026264-04:00.lighthouse.json) |
-| [August 8 at 1:43 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-08T08:43:25.713634-04:00.lighthouse.json) |
-| [August 7 at 2:01 PM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-07T21:01:36.594981-04:00.lighthouse.json) |
-| [August 7 at 1:38 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-07T08:38:35.243698-04:00.lighthouse.json) |
-| [August 6 at 1:40 PM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-06T20:40:41.164641-04:00.lighthouse.json) |
+| [August 12 at 9:24 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-12T09:23:57.716091-04:00.lighthouse.json) |
+| [August 12 at 5:19 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-12T05:19:40.045558-04:00.lighthouse.json) |
+| [August 11 at 9:40 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-11T09:40:34.312833-04:00.lighthouse.json) |
+| [August 10 at 8:53 PM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-10T20:52:58.620120-04:00.lighthouse.json) |
+| [August 10 at 9:10 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-10T09:10:15.337592-04:00.lighthouse.json) |
+| [August 9 at 8:57 PM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-09T20:57:09.183216-04:00.lighthouse.json) |
+| [August 9 at 8:56 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-09T08:56:40.054222-04:00.lighthouse.json) |
+| [August 8 at 8:52 PM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-08T20:52:02.026264-04:00.lighthouse.json) |
+| [August 8 at 8:43 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-08T08:43:25.713634-04:00.lighthouse.json) |
+| [August 7 at 9:01 PM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-07T21:01:36.594981-04:00.lighthouse.json) |
 
 
 

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 4 screenshots with the Internet Archive.
+The archiving routine has saved 6 screenshots with the Internet Archive.
 
 
 
@@ -29,46 +29,64 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-11T02:19:46.020178-03:00.jpg">
-  <img src="https://archive.org/download/pagina12-2022/pagina12-2022-08-11T02:19:46.020178-03:00.jpg"
-     alt="Página/12 at 2022-08-10 19:19:47-03:00 local time"
+ <a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-12T06:42:11.783603-03:00.jpg">
+  <img src="https://archive.org/download/pagina12-2022/pagina12-2022-08-12T06:42:11.783603-03:00.jpg"
+     alt="Página/12 at 2022-08-12 06:42:12-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-11T02:19:46.020178-03:00.jpg">August 10 at 7:19 PM</a></p>
+ <p><a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-12T06:42:11.783603-03:00.jpg">August 12 at 6:42 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-11T15:50:46.931768-03:00.jpg">
+  <img src="https://archive.org/download/pagina12-2022/pagina12-2022-08-11T15:50:46.931768-03:00.jpg"
+     alt="Página/12 at 2022-08-11 15:50:48-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-11T15:50:46.931768-03:00.jpg">August 11 at 3:50 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-11T02:19:46.020178-03:00.jpg">
+  <img src="https://archive.org/download/pagina12-2022/pagina12-2022-08-11T02:19:46.020178-03:00.jpg"
+     alt="Página/12 at 2022-08-11 02:19:47-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-11T02:19:46.020178-03:00.jpg">August 11 at 2:19 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-10T15:16:24.240651-03:00.jpg">
   <img src="https://archive.org/download/pagina12-2022/pagina12-2022-08-10T15:16:24.240651-03:00.jpg"
-     alt="Página/12 at 2022-08-10 08:16:26-03:00 local time"
+     alt="Página/12 at 2022-08-10 15:16:26-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-10T15:16:24.240651-03:00.jpg">August 10 at 8:16 AM</a></p>
+ <p><a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-10T15:16:24.240651-03:00.jpg">August 10 at 3:16 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-10T02:26:00.911821-03:00.jpg">
   <img src="https://archive.org/download/pagina12-2022/pagina12-2022-08-10T02:26:00.911821-03:00.jpg"
-     alt="Página/12 at 2022-08-09 19:26:02-03:00 local time"
+     alt="Página/12 at 2022-08-10 02:26:02-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-10T02:26:00.911821-03:00.jpg">August 9 at 7:26 PM</a></p>
+ <p><a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-10T02:26:00.911821-03:00.jpg">August 10 at 2:26 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-09T14:47:42.110455-03:00.jpg">
   <img src="https://archive.org/download/pagina12-2022/pagina12-2022-08-09T14:47:42.110455-03:00.jpg"
-     alt="Página/12 at 2022-08-09 07:47:48-03:00 local time"
+     alt="Página/12 at 2022-08-09 14:47:48-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-09T14:47:42.110455-03:00.jpg">August 9 at 7:47 AM</a></p>
+ <p><a href="https://archive.org/download/pagina12-2022/pagina12-2022-08-09T14:47:42.110455-03:00.jpg">August 9 at 2:47 PM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 4 hyperlink lists with the Internet Archive.
+The archiving routine has saved 5 hyperlink lists with the Internet Archive.
 
 
 
@@ -76,15 +94,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 10 at 7:19 PM](https://archive.org/download/pagina12-2022/pagina12-2022-08-11T02:19:46.020178-03:00.hyperlinks.json) |
-| [August 10 at 8:16 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-10T15:16:24.240651-03:00.hyperlinks.json) |
-| [August 9 at 7:26 PM](https://archive.org/download/pagina12-2022/pagina12-2022-08-10T02:26:00.911821-03:00.hyperlinks.json) |
-| [August 9 at 7:48 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-09T14:47:42.110455-03:00.hyperlinks.json) |
+| [August 11 at 3:50 PM](https://archive.org/download/pagina12-2022/pagina12-2022-08-11T15:50:46.931768-03:00.hyperlinks.json) |
+| [August 11 at 2:19 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-11T02:19:46.020178-03:00.hyperlinks.json) |
+| [August 10 at 3:16 PM](https://archive.org/download/pagina12-2022/pagina12-2022-08-10T15:16:24.240651-03:00.hyperlinks.json) |
+| [August 10 at 2:26 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-10T02:26:00.911821-03:00.hyperlinks.json) |
+| [August 9 at 2:48 PM](https://archive.org/download/pagina12-2022/pagina12-2022-08-09T14:47:42.110455-03:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 3 accessibility trees with the Internet Archive.
+The archiving routine has saved 4 accessibility trees with the Internet Archive.
 
 
 
@@ -92,15 +111,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 10 at 7:19 PM](https://archive.org/download/pagina12-2022/pagina12-2022-08-11T02:19:46.020178-03:00.accessibility.json) |
-| [August 10 at 8:16 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-10T15:16:24.240651-03:00.accessibility.json) |
-| [August 9 at 7:47 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-09T14:47:42.110455-03:00.accessibility.json) |
+| [August 11 at 3:50 PM](https://archive.org/download/pagina12-2022/pagina12-2022-08-11T15:50:46.931768-03:00.accessibility.json) |
+| [August 11 at 2:19 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-11T02:19:46.020178-03:00.accessibility.json) |
+| [August 10 at 3:16 PM](https://archive.org/download/pagina12-2022/pagina12-2022-08-10T15:16:24.240651-03:00.accessibility.json) |
+| [August 9 at 2:47 PM](https://archive.org/download/pagina12-2022/pagina12-2022-08-09T14:47:42.110455-03:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 4 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 6 Lighthouse audits with the Internet Archive.
 
 
 
@@ -108,10 +128,12 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 10 at 7:19 PM](https://archive.org/download/pagina12-2022/pagina12-2022-08-11T02:19:46.020178-03:00.lighthouse.json) |
-| [August 10 at 8:16 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-10T15:16:24.240651-03:00.lighthouse.json) |
-| [August 9 at 7:26 PM](https://archive.org/download/pagina12-2022/pagina12-2022-08-10T02:26:00.911821-03:00.lighthouse.json) |
-| [August 9 at 7:48 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-09T14:47:42.110455-03:00.lighthouse.json) |
+| [August 12 at 6:42 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-12T06:42:11.783603-03:00.lighthouse.json) |
+| [August 11 at 3:50 PM](https://archive.org/download/pagina12-2022/pagina12-2022-08-11T15:50:46.931768-03:00.lighthouse.json) |
+| [August 11 at 2:19 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-11T02:19:46.020178-03:00.lighthouse.json) |
+| [August 10 at 3:16 PM](https://archive.org/download/pagina12-2022/pagina12-2022-08-10T15:16:24.240651-03:00.lighthouse.json) |
+| [August 10 at 2:26 AM](https://archive.org/download/pagina12-2022/pagina12-2022-08-10T02:26:00.911821-03:00.lighthouse.json) |
+| [August 9 at 2:48 PM](https://archive.org/download/pagina12-2022/pagina12-2022-08-09T14:47:42.110455-03:00.lighthouse.json) |
 
 
 

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 585 screenshots with the Internet Archive.
+The archiving routine has saved 590 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/latimes-2022/latimes-2022-08-10T20:57:05.582294-07:00.jpg">
-  <img src="https://archive.org/download/latimes-2022/latimes-2022-08-10T20:57:05.582294-07:00.jpg"
-     alt="Los Angeles Times at 2022-08-10 13:57:07-07:00 local time"
+ <a href="https://archive.org/download/latimes-2022/latimes-2022-08-12T03:03:01.859860-07:00.jpg">
+  <img src="https://archive.org/download/latimes-2022/latimes-2022-08-12T03:03:01.859860-07:00.jpg"
+     alt="Los Angeles Times at 2022-08-12 03:03:10-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/latimes-2022/latimes-2022-08-10T20:57:05.582294-07:00.jpg">August 10 at 1:57 PM</a></p>
+ <p><a href="https://archive.org/download/latimes-2022/latimes-2022-08-12T03:03:01.859860-07:00.jpg">August 12 at 3:03 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/latimes-2022/latimes-2022-08-11T12:44:42.203828-07:00.jpg">
+  <img src="https://archive.org/download/latimes-2022/latimes-2022-08-11T12:44:42.203828-07:00.jpg"
+     alt="Los Angeles Times at 2022-08-11 12:44:44-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/latimes-2022/latimes-2022-08-11T12:44:42.203828-07:00.jpg">August 11 at 12:44 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/latimes-2022/latimes-2022-08-11T12:41:31.697030-07:00.jpg">
+  <img src="https://archive.org/download/latimes-2022/latimes-2022-08-11T12:41:31.697030-07:00.jpg"
+     alt="Los Angeles Times at 2022-08-11 12:41:33-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/latimes-2022/latimes-2022-08-11T12:41:31.697030-07:00.jpg">August 11 at 12:41 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/latimes-2022/latimes-2022-08-11T11:44:27.511198-07:00.jpg">
+  <img src="https://archive.org/download/latimes-2022/latimes-2022-08-11T11:44:27.511198-07:00.jpg"
+     alt="Los Angeles Times at 2022-08-11 11:44:29-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/latimes-2022/latimes-2022-08-11T11:44:27.511198-07:00.jpg">August 11 at 11:44 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/latimes-2022/latimes-2022-08-11T09:53:48.662542-07:00.jpg">
+  <img src="https://archive.org/download/latimes-2022/latimes-2022-08-11T09:53:48.662542-07:00.jpg"
+     alt="Los Angeles Times at 2022-08-11 09:53:52-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/latimes-2022/latimes-2022-08-11T09:53:48.662542-07:00.jpg">August 11 at 9:53 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/latimes-2022/latimes-2022-08-10T20:57:05.582294-07:00.jpg">
+  <img src="https://archive.org/download/latimes-2022/latimes-2022-08-10T20:57:05.582294-07:00.jpg"
+     alt="Los Angeles Times at 2022-08-10 20:57:07-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/latimes-2022/latimes-2022-08-10T20:57:05.582294-07:00.jpg">August 10 at 8:57 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/latimes-2022/latimes-2022-08-10T20:44:25.546842-07:00.jpg">
   <img src="https://archive.org/download/latimes-2022/latimes-2022-08-10T20:44:25.546842-07:00.jpg"
-     alt="Los Angeles Times at 2022-08-10 13:44:27-07:00 local time"
+     alt="Los Angeles Times at 2022-08-10 20:44:27-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/latimes-2022/latimes-2022-08-10T20:44:25.546842-07:00.jpg">August 10 at 1:44 PM</a></p>
+ <p><a href="https://archive.org/download/latimes-2022/latimes-2022-08-10T20:44:25.546842-07:00.jpg">August 10 at 8:44 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/latimes-2022/latimes-2022-08-10T12:41:46.686934-07:00.jpg">
   <img src="https://archive.org/download/latimes-2022/latimes-2022-08-10T12:41:46.686934-07:00.jpg"
-     alt="Los Angeles Times at 2022-08-10 05:41:47-07:00 local time"
+     alt="Los Angeles Times at 2022-08-10 12:41:47-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/latimes-2022/latimes-2022-08-10T12:41:46.686934-07:00.jpg">August 10 at 5:41 AM</a></p>
+ <p><a href="https://archive.org/download/latimes-2022/latimes-2022-08-10T12:41:46.686934-07:00.jpg">August 10 at 12:41 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/latimes-2022/latimes-2022-08-10T12:36:28.730043-07:00.jpg">
   <img src="https://archive.org/download/latimes-2022/latimes-2022-08-10T12:36:28.730043-07:00.jpg"
-     alt="Los Angeles Times at 2022-08-10 05:36:30-07:00 local time"
+     alt="Los Angeles Times at 2022-08-10 12:36:30-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/latimes-2022/latimes-2022-08-10T12:36:28.730043-07:00.jpg">August 10 at 5:36 AM</a></p>
+ <p><a href="https://archive.org/download/latimes-2022/latimes-2022-08-10T12:36:28.730043-07:00.jpg">August 10 at 12:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/latimes-2022/latimes-2022-08-10T11:09:23.493261-07:00.jpg">
   <img src="https://archive.org/download/latimes-2022/latimes-2022-08-10T11:09:23.493261-07:00.jpg"
-     alt="Los Angeles Times at 2022-08-10 04:09:25-07:00 local time"
+     alt="Los Angeles Times at 2022-08-10 11:09:25-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/latimes-2022/latimes-2022-08-10T11:09:23.493261-07:00.jpg">August 10 at 4:09 AM</a></p>
+ <p><a href="https://archive.org/download/latimes-2022/latimes-2022-08-10T11:09:23.493261-07:00.jpg">August 10 at 11:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/latimes-2022/latimes-2022-08-10T09:06:57.732465-07:00.jpg">
   <img src="https://archive.org/download/latimes-2022/latimes-2022-08-10T09:06:57.732465-07:00.jpg"
-     alt="Los Angeles Times at 2022-08-10 02:07:00-07:00 local time"
+     alt="Los Angeles Times at 2022-08-10 09:07:00-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/latimes-2022/latimes-2022-08-10T09:06:57.732465-07:00.jpg">August 10 at 2:07 AM</a></p>
+ <p><a href="https://archive.org/download/latimes-2022/latimes-2022-08-10T09:06:57.732465-07:00.jpg">August 10 at 9:07 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/latimes-2022/latimes-2022-08-09T21:04:42.362812-07:00.jpg">
   <img src="https://archive.org/download/latimes-2022/latimes-2022-08-09T21:04:42.362812-07:00.jpg"
-     alt="Los Angeles Times at 2022-08-09 14:04:44-07:00 local time"
+     alt="Los Angeles Times at 2022-08-09 21:04:44-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/latimes-2022/latimes-2022-08-09T21:04:42.362812-07:00.jpg">August 9 at 2:04 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/latimes-2022/latimes-2022-08-09T20:51:53.111123-07:00.jpg">
-  <img src="https://archive.org/download/latimes-2022/latimes-2022-08-09T20:51:53.111123-07:00.jpg"
-     alt="Los Angeles Times at 2022-08-09 13:51:54-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/latimes-2022/latimes-2022-08-09T20:51:53.111123-07:00.jpg">August 9 at 1:51 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/latimes-2022/latimes-2022-08-09T12:04:50.759127-07:00.jpg">
-  <img src="https://archive.org/download/latimes-2022/latimes-2022-08-09T12:04:50.759127-07:00.jpg"
-     alt="Los Angeles Times at 2022-08-09 05:04:53-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/latimes-2022/latimes-2022-08-09T12:04:50.759127-07:00.jpg">August 9 at 5:04 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/latimes-2022/latimes-2022-08-09T11:42:14.202937-07:00.jpg">
-  <img src="https://archive.org/download/latimes-2022/latimes-2022-08-09T11:42:14.202937-07:00.jpg"
-     alt="Los Angeles Times at 2022-08-09 04:42:15-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/latimes-2022/latimes-2022-08-09T11:42:14.202937-07:00.jpg">August 9 at 4:42 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/latimes-2022/latimes-2022-08-09T10:30:13.460458-07:00.jpg">
-  <img src="https://archive.org/download/latimes-2022/latimes-2022-08-09T10:30:13.460458-07:00.jpg"
-     alt="Los Angeles Times at 2022-08-09 03:30:15-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/latimes-2022/latimes-2022-08-09T10:30:13.460458-07:00.jpg">August 9 at 3:30 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/latimes-2022/latimes-2022-08-09T09:01:57.610056-07:00.jpg">
-  <img src="https://archive.org/download/latimes-2022/latimes-2022-08-09T09:01:57.610056-07:00.jpg"
-     alt="Los Angeles Times at 2022-08-09 02:02:00-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/latimes-2022/latimes-2022-08-09T09:01:57.610056-07:00.jpg">August 9 at 2:02 AM</a></p>
+ <p><a href="https://archive.org/download/latimes-2022/latimes-2022-08-09T21:04:42.362812-07:00.jpg">August 9 at 9:04 PM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 545 hyperlink lists with the Internet Archive.
+The archiving routine has saved 550 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 10 at 1:57 PM](https://archive.org/download/latimes-2022/latimes-2022-08-10T20:57:05.582294-07:00.hyperlinks.json) |
-| [August 10 at 1:44 PM](https://archive.org/download/latimes-2022/latimes-2022-08-10T20:44:25.546842-07:00.hyperlinks.json) |
-| [August 10 at 5:36 AM](https://archive.org/download/latimes-2022/latimes-2022-08-10T12:36:28.730043-07:00.hyperlinks.json) |
-| [August 10 at 4:09 AM](https://archive.org/download/latimes-2022/latimes-2022-08-10T11:09:23.493261-07:00.hyperlinks.json) |
-| [August 10 at 2:07 AM](https://archive.org/download/latimes-2022/latimes-2022-08-10T09:06:57.732465-07:00.hyperlinks.json) |
-| [August 9 at 2:04 PM](https://archive.org/download/latimes-2022/latimes-2022-08-09T21:04:42.362812-07:00.hyperlinks.json) |
-| [August 9 at 1:51 PM](https://archive.org/download/latimes-2022/latimes-2022-08-09T20:51:53.111123-07:00.hyperlinks.json) |
-| [August 9 at 5:05 AM](https://archive.org/download/latimes-2022/latimes-2022-08-09T12:04:50.759127-07:00.hyperlinks.json) |
-| [August 9 at 4:42 AM](https://archive.org/download/latimes-2022/latimes-2022-08-09T11:42:14.202937-07:00.hyperlinks.json) |
-| [August 9 at 3:30 AM](https://archive.org/download/latimes-2022/latimes-2022-08-09T10:30:13.460458-07:00.hyperlinks.json) |
+| [August 12 at 3:03 AM](https://archive.org/download/latimes-2022/latimes-2022-08-12T03:03:01.859860-07:00.hyperlinks.json) |
+| [August 11 at 12:44 PM](https://archive.org/download/latimes-2022/latimes-2022-08-11T12:44:42.203828-07:00.hyperlinks.json) |
+| [August 11 at 12:41 PM](https://archive.org/download/latimes-2022/latimes-2022-08-11T12:41:31.697030-07:00.hyperlinks.json) |
+| [August 11 at 11:44 AM](https://archive.org/download/latimes-2022/latimes-2022-08-11T11:44:27.511198-07:00.hyperlinks.json) |
+| [August 11 at 9:53 AM](https://archive.org/download/latimes-2022/latimes-2022-08-11T09:53:48.662542-07:00.hyperlinks.json) |
+| [August 10 at 8:57 PM](https://archive.org/download/latimes-2022/latimes-2022-08-10T20:57:05.582294-07:00.hyperlinks.json) |
+| [August 10 at 8:44 PM](https://archive.org/download/latimes-2022/latimes-2022-08-10T20:44:25.546842-07:00.hyperlinks.json) |
+| [August 10 at 12:36 PM](https://archive.org/download/latimes-2022/latimes-2022-08-10T12:36:28.730043-07:00.hyperlinks.json) |
+| [August 10 at 11:09 AM](https://archive.org/download/latimes-2022/latimes-2022-08-10T11:09:23.493261-07:00.hyperlinks.json) |
+| [August 10 at 9:07 AM](https://archive.org/download/latimes-2022/latimes-2022-08-10T09:06:57.732465-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 555 accessibility trees with the Internet Archive.
+The archiving routine has saved 560 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,22 +419,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 10 at 1:57 PM](https://archive.org/download/latimes-2022/latimes-2022-08-10T20:57:05.582294-07:00.accessibility.json) |
-| [August 10 at 1:44 PM](https://archive.org/download/latimes-2022/latimes-2022-08-10T20:44:25.546842-07:00.accessibility.json) |
-| [August 10 at 5:41 AM](https://archive.org/download/latimes-2022/latimes-2022-08-10T12:41:46.686934-07:00.accessibility.json) |
-| [August 10 at 5:36 AM](https://archive.org/download/latimes-2022/latimes-2022-08-10T12:36:28.730043-07:00.accessibility.json) |
-| [August 10 at 4:09 AM](https://archive.org/download/latimes-2022/latimes-2022-08-10T11:09:23.493261-07:00.accessibility.json) |
-| [August 10 at 2:07 AM](https://archive.org/download/latimes-2022/latimes-2022-08-10T09:06:57.732465-07:00.accessibility.json) |
-| [August 9 at 2:04 PM](https://archive.org/download/latimes-2022/latimes-2022-08-09T21:04:42.362812-07:00.accessibility.json) |
-| [August 9 at 1:51 PM](https://archive.org/download/latimes-2022/latimes-2022-08-09T20:51:53.111123-07:00.accessibility.json) |
-| [August 9 at 5:04 AM](https://archive.org/download/latimes-2022/latimes-2022-08-09T12:04:50.759127-07:00.accessibility.json) |
-| [August 9 at 4:42 AM](https://archive.org/download/latimes-2022/latimes-2022-08-09T11:42:14.202937-07:00.accessibility.json) |
+| [August 12 at 3:03 AM](https://archive.org/download/latimes-2022/latimes-2022-08-12T03:03:01.859860-07:00.accessibility.json) |
+| [August 11 at 12:44 PM](https://archive.org/download/latimes-2022/latimes-2022-08-11T12:44:42.203828-07:00.accessibility.json) |
+| [August 11 at 12:41 PM](https://archive.org/download/latimes-2022/latimes-2022-08-11T12:41:31.697030-07:00.accessibility.json) |
+| [August 11 at 11:44 AM](https://archive.org/download/latimes-2022/latimes-2022-08-11T11:44:27.511198-07:00.accessibility.json) |
+| [August 11 at 9:53 AM](https://archive.org/download/latimes-2022/latimes-2022-08-11T09:53:48.662542-07:00.accessibility.json) |
+| [August 10 at 8:57 PM](https://archive.org/download/latimes-2022/latimes-2022-08-10T20:57:05.582294-07:00.accessibility.json) |
+| [August 10 at 8:44 PM](https://archive.org/download/latimes-2022/latimes-2022-08-10T20:44:25.546842-07:00.accessibility.json) |
+| [August 10 at 12:41 PM](https://archive.org/download/latimes-2022/latimes-2022-08-10T12:41:46.686934-07:00.accessibility.json) |
+| [August 10 at 12:36 PM](https://archive.org/download/latimes-2022/latimes-2022-08-10T12:36:28.730043-07:00.accessibility.json) |
+| [August 10 at 11:09 AM](https://archive.org/download/latimes-2022/latimes-2022-08-10T11:09:23.493261-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 112 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 117 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,16 +525,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 10 at 1:57 PM](https://archive.org/download/latimes-2022/latimes-2022-08-10T20:57:05.582294-07:00.lighthouse.json) |
-| [August 10 at 1:44 PM](https://archive.org/download/latimes-2022/latimes-2022-08-10T20:44:25.546842-07:00.lighthouse.json) |
-| [August 10 at 5:41 AM](https://archive.org/download/latimes-2022/latimes-2022-08-10T12:41:46.686934-07:00.lighthouse.json) |
-| [August 10 at 5:36 AM](https://archive.org/download/latimes-2022/latimes-2022-08-10T12:36:28.730043-07:00.lighthouse.json) |
-| [August 10 at 4:09 AM](https://archive.org/download/latimes-2022/latimes-2022-08-10T11:09:23.493261-07:00.lighthouse.json) |
-| [August 10 at 2:07 AM](https://archive.org/download/latimes-2022/latimes-2022-08-10T09:06:57.732465-07:00.lighthouse.json) |
-| [August 9 at 2:04 PM](https://archive.org/download/latimes-2022/latimes-2022-08-09T21:04:42.362812-07:00.lighthouse.json) |
-| [August 9 at 1:51 PM](https://archive.org/download/latimes-2022/latimes-2022-08-09T20:51:53.111123-07:00.lighthouse.json) |
-| [August 9 at 5:05 AM](https://archive.org/download/latimes-2022/latimes-2022-08-09T12:04:50.759127-07:00.lighthouse.json) |
-| [August 9 at 4:42 AM](https://archive.org/download/latimes-2022/latimes-2022-08-09T11:42:14.202937-07:00.lighthouse.json) |
+| [August 12 at 3:03 AM](https://archive.org/download/latimes-2022/latimes-2022-08-12T03:03:01.859860-07:00.lighthouse.json) |
+| [August 11 at 12:44 PM](https://archive.org/download/latimes-2022/latimes-2022-08-11T12:44:42.203828-07:00.lighthouse.json) |
+| [August 11 at 12:41 PM](https://archive.org/download/latimes-2022/latimes-2022-08-11T12:41:31.697030-07:00.lighthouse.json) |
+| [August 11 at 11:44 AM](https://archive.org/download/latimes-2022/latimes-2022-08-11T11:44:27.511198-07:00.lighthouse.json) |
+| [August 11 at 9:53 AM](https://archive.org/download/latimes-2022/latimes-2022-08-11T09:53:48.662542-07:00.lighthouse.json) |
+| [August 10 at 8:57 PM](https://archive.org/download/latimes-2022/latimes-2022-08-10T20:57:05.582294-07:00.lighthouse.json) |
+| [August 10 at 8:44 PM](https://archive.org/download/latimes-2022/latimes-2022-08-10T20:44:25.546842-07:00.lighthouse.json) |
+| [August 10 at 12:41 PM](https://archive.org/download/latimes-2022/latimes-2022-08-10T12:41:46.686934-07:00.lighthouse.json) |
+| [August 10 at 12:36 PM](https://archive.org/download/latimes-2022/latimes-2022-08-10T12:36:28.730043-07:00.lighthouse.json) |
+| [August 10 at 11:09 AM](https://archive.org/download/latimes-2022/latimes-2022-08-10T11:09:23.493261-07:00.lighthouse.json) |
 
 
 

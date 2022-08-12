@@ -1,5 +1,6 @@
 {
-  "created": 1660224959,
+  "conflict": 1660310666,
+  "created": 1660310666,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/18/items/jezebel-2022",
@@ -3247,31 +3248,188 @@
       "format": "JSON"
     },
     {
+      "name": "jezebel-2022-08-11T09:35:10.670293-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jezebel-2022-08-11T09:35:10.670293-04:00.jpg",
+      "mtime": "1660225825",
+      "size": "10167",
+      "md5": "4320174fd0ea5857b235b489e8689309",
+      "crc32": "5e1798a9",
+      "sha1": "750deb333870b054d6bc52dd5690ef91036d4d87"
+    },
+    {
+      "name": "jezebel-2022-08-11T15:42:43.899910-04:00.jpg",
+      "source": "original",
+      "mtime": "1660246967",
+      "size": "275302",
+      "md5": "ae83fbbeba1cce372abfd05de9b432c7",
+      "crc32": "239d36af",
+      "sha1": "9fdf573802e841460396f4104da1e21aabca1490",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jezebel-2022-08-11T15:42:43.899910-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660246969",
+      "size": "1431",
+      "md5": "95ebbe8cfcc836ac27adfe0c52bbc2fc",
+      "crc32": "c9f617e8",
+      "sha1": "37c8215fcf773983c9e5c19e6a5917270d24d0c5",
+      "format": "JSON"
+    },
+    {
+      "name": "jezebel-2022-08-11T15:42:43.899910-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660246971",
+      "size": "96",
+      "md5": "1a3afcae4514e8d69e33a4302b4ebecb",
+      "crc32": "7e42899b",
+      "sha1": "ebfb43099949af8b9ad07796af965630ab014f66",
+      "format": "JSON"
+    },
+    {
+      "name": "jezebel-2022-08-11T15:42:43.899910-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jezebel-2022-08-11T15:42:43.899910-04:00.jpg",
+      "mtime": "1660247093",
+      "size": "10162",
+      "md5": "11491d1966d18c2184dfa1e4039fa8a8",
+      "crc32": "962a2a91",
+      "sha1": "ef73065b66da417d50c42213bc525d33b72e0c91"
+    },
+    {
+      "name": "jezebel-2022-08-12T05:15:31.262249-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660295735",
+      "size": "21669",
+      "md5": "8b9f9ffabe6a5a627f71ace2493826ca",
+      "crc32": "650785f3",
+      "sha1": "aa0b8c829b218d912b672bfc2c8071f5382b57b4",
+      "format": "JSON"
+    },
+    {
+      "name": "jezebel-2022-08-12T05:15:31.262249-04:00.jpg",
+      "source": "original",
+      "mtime": "1660295734",
+      "size": "272858",
+      "md5": "9cad897d9d8a751a2913bad0380e3b90",
+      "crc32": "7dcda85f",
+      "sha1": "63a729c51d9f2d717b4444b268691450d2a8d965",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jezebel-2022-08-12T05:15:31.262249-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660295737",
+      "size": "1432",
+      "md5": "1a8fe7d1cb0743c1f77284efbf3568f0",
+      "crc32": "eacdd86d",
+      "sha1": "8c73098fd1496f4dbedb178dcb2d86f01dc961f2",
+      "format": "JSON"
+    },
+    {
+      "name": "jezebel-2022-08-12T05:15:31.262249-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660295738",
+      "size": "227",
+      "md5": "e44ea53955939f003d0a38af462e158a",
+      "crc32": "2953503b",
+      "sha1": "86749d9b6ddaf3888893022d43312254f730c44b",
+      "format": "JSON"
+    },
+    {
+      "name": "jezebel-2022-08-12T05:15:31.262249-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jezebel-2022-08-12T05:15:31.262249-04:00.jpg",
+      "mtime": "1660295870",
+      "size": "10360",
+      "md5": "21fae06756226e6dbef1bed9eda9d3df",
+      "crc32": "a2e9a727",
+      "sha1": "2049fb3e219da8818b8e8ff8daa07aa05458a8d7"
+    },
+    {
+      "name": "jezebel-2022-08-12T09:18:15.582838-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660310303",
+      "size": "16249",
+      "md5": "17f50927b12d6992eeb600991edfae0b",
+      "crc32": "1fc1a723",
+      "sha1": "84c675bc171373c98e9df0ec2113f47de4d44262",
+      "format": "JSON"
+    },
+    {
+      "name": "jezebel-2022-08-12T09:18:15.582838-04:00.jpg",
+      "source": "original",
+      "mtime": "1660310300",
+      "size": "272858",
+      "md5": "9cad897d9d8a751a2913bad0380e3b90",
+      "crc32": "7dcda85f",
+      "sha1": "63a729c51d9f2d717b4444b268691450d2a8d965",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jezebel-2022-08-12T09:18:15.582838-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660310305",
+      "size": "1431",
+      "md5": "9f2a815fb55cc39c3d330088376d704d",
+      "crc32": "e2cf924a",
+      "sha1": "91ec8708bd5d19c361f9cda3fa14a781407c0822",
+      "format": "JSON"
+    },
+    {
+      "name": "jezebel-2022-08-12T09:18:15.582838-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660310308",
+      "size": "97452",
+      "md5": "8c630e2c016b4816686a658b7629cc59",
+      "crc32": "b2081542",
+      "sha1": "df9d4f8ec1d29f37bdd85e949ee62752b928fd48",
+      "format": "JSON"
+    },
+    {
+      "name": "jezebel-2022-08-12T09:18:15.582838-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jezebel-2022-08-12T09:18:15.582838-04:00.jpg",
+      "mtime": "1660310658",
+      "size": "10360",
+      "md5": "21fae06756226e6dbef1bed9eda9d3df",
+      "crc32": "a2e9a727",
+      "sha1": "2049fb3e219da8818b8e8ff8daa07aa05458a8d7"
+    },
+    {
       "name": "jezebel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "09d9cecb463893ef39d77d817375f314e5ddae38",
-      "mtime": "1660224956",
-      "size": "66257",
-      "md5": "94feac91d2b0c51668be209796f76bc7",
-      "crc32": "2322a58b",
-      "sha1": "9ca9b1b01c2302bfa377227bb304339dfdb01032",
+      "btih": "60a57998e7a4a0322a4deee4e4148e0f24af27c3",
+      "mtime": "1660310664",
+      "size": "69373",
+      "md5": "bfef040c09868d0192941e437cbd53d4",
+      "crc32": "95bf1212",
+      "sha1": "7dcad0a4f007a2182cde7dde39660efa61ef93d9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jezebel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "16ea66b7da63bd07485feac3e8d63889",
+      "md5": "6a0052dcb97247d84220aa5a22dcf38a",
       "summation": "md5"
     },
     {
       "name": "jezebel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660224919",
-      "size": "385024",
-      "md5": "891fd8c749ae9acf915c6f7dcb1deb7f",
-      "crc32": "bde59782",
-      "sha1": "4d5fc95bb75f416dfca2558142a718061d1fd450",
+      "mtime": "1660310311",
+      "size": "401408",
+      "md5": "fe8d8c48c464e3495dbbe137bcf51541",
+      "crc32": "24a3223c",
+      "sha1": "60fe021a4d4dbfbf582f510109f011a6de89747c",
       "format": "Metadata"
     },
     {
@@ -3285,9 +3443,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 314,
-  "item_last_updated": 1660224956,
-  "item_size": 24229229,
+  "files_count": 329,
+  "item_last_updated": 1660310664,
+  "item_size": 25250783,
   "metadata": {
     "identifier": "jezebel-2022",
     "collection": [
@@ -3309,15 +3467,23 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3361491031,
+      "task_id": 3363457809,
       "cmd": "derive.php",
       "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3363464323,
+      "cmd": "bup.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 1908417153,
+  "uniq": 1027942593,
   "workable_servers": [
     "ia902508.us.archive.org"
   ]

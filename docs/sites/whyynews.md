@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 88 screenshots with the Internet Archive.
+The archiving routine has saved 90 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/whyynews-2022/whyynews-2022-08-10T22:31:38.766817-04:00.jpg">
-  <img src="https://archive.org/download/whyynews-2022/whyynews-2022-08-10T22:31:38.766817-04:00.jpg"
-     alt="WHYY at 2022-08-10 15:31:40-04:00 local time"
+ <a href="https://archive.org/download/whyynews-2022/whyynews-2022-08-12T05:39:08.709582-04:00.jpg">
+  <img src="https://archive.org/download/whyynews-2022/whyynews-2022-08-12T05:39:08.709582-04:00.jpg"
+     alt="WHYY at 2022-08-12 05:39:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-08-10T22:31:38.766817-04:00.jpg">August 10 at 3:31 PM</a></p>
+ <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-08-12T05:39:08.709582-04:00.jpg">August 12 at 5:39 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/whyynews-2022/whyynews-2022-08-11T13:12:41.334961-04:00.jpg">
+  <img src="https://archive.org/download/whyynews-2022/whyynews-2022-08-11T13:12:41.334961-04:00.jpg"
+     alt="WHYY at 2022-08-11 13:12:42-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-08-11T13:12:41.334961-04:00.jpg">August 11 at 1:12 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/whyynews-2022/whyynews-2022-08-10T22:31:38.766817-04:00.jpg">
+  <img src="https://archive.org/download/whyynews-2022/whyynews-2022-08-10T22:31:38.766817-04:00.jpg"
+     alt="WHYY at 2022-08-10 22:31:40-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-08-10T22:31:38.766817-04:00.jpg">August 10 at 10:31 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/whyynews-2022/whyynews-2022-08-10T13:54:28.328166-04:00.jpg">
   <img src="https://archive.org/download/whyynews-2022/whyynews-2022-08-10T13:54:28.328166-04:00.jpg"
-     alt="WHYY at 2022-08-10 06:54:33-04:00 local time"
+     alt="WHYY at 2022-08-10 13:54:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-08-10T13:54:28.328166-04:00.jpg">August 10 at 6:54 AM</a></p>
+ <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-08-10T13:54:28.328166-04:00.jpg">August 10 at 1:54 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/whyynews-2022/whyynews-2022-08-09T22:43:06.332946-04:00.jpg">
   <img src="https://archive.org/download/whyynews-2022/whyynews-2022-08-09T22:43:06.332946-04:00.jpg"
-     alt="WHYY at 2022-08-09 15:43:07-04:00 local time"
+     alt="WHYY at 2022-08-09 22:43:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-08-09T22:43:06.332946-04:00.jpg">August 9 at 3:43 PM</a></p>
+ <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-08-09T22:43:06.332946-04:00.jpg">August 9 at 10:43 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/whyynews-2022/whyynews-2022-08-09T10:45:08.430068-04:00.jpg">
   <img src="https://archive.org/download/whyynews-2022/whyynews-2022-08-09T10:45:08.430068-04:00.jpg"
-     alt="WHYY at 2022-08-09 03:45:11-04:00 local time"
+     alt="WHYY at 2022-08-09 10:45:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-08-09T10:45:08.430068-04:00.jpg">August 9 at 3:45 AM</a></p>
+ <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-08-09T10:45:08.430068-04:00.jpg">August 9 at 10:45 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/whyynews-2022/whyynews-2022-08-08T22:29:49.816771-04:00.jpg">
   <img src="https://archive.org/download/whyynews-2022/whyynews-2022-08-08T22:29:49.816771-04:00.jpg"
-     alt="WHYY at 2022-08-08 15:29:51-04:00 local time"
+     alt="WHYY at 2022-08-08 22:29:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-08-08T22:29:49.816771-04:00.jpg">August 8 at 3:29 PM</a></p>
+ <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-08-08T22:29:49.816771-04:00.jpg">August 8 at 10:29 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/whyynews-2022/whyynews-2022-08-08T10:28:13.105118-04:00.jpg">
   <img src="https://archive.org/download/whyynews-2022/whyynews-2022-08-08T10:28:13.105118-04:00.jpg"
-     alt="WHYY at 2022-08-08 03:28:15-04:00 local time"
+     alt="WHYY at 2022-08-08 10:28:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-08-08T10:28:13.105118-04:00.jpg">August 8 at 3:28 AM</a></p>
+ <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-08-08T10:28:13.105118-04:00.jpg">August 8 at 10:28 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/whyynews-2022/whyynews-2022-08-07T22:39:19.335634-04:00.jpg">
   <img src="https://archive.org/download/whyynews-2022/whyynews-2022-08-07T22:39:19.335634-04:00.jpg"
-     alt="WHYY at 2022-08-07 15:39:21-04:00 local time"
+     alt="WHYY at 2022-08-07 22:39:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-08-07T22:39:19.335634-04:00.jpg">August 7 at 3:39 PM</a></p>
+ <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-08-07T22:39:19.335634-04:00.jpg">August 7 at 10:39 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/whyynews-2022/whyynews-2022-08-07T10:11:06.651901-04:00.jpg">
   <img src="https://archive.org/download/whyynews-2022/whyynews-2022-08-07T10:11:06.651901-04:00.jpg"
-     alt="WHYY at 2022-08-07 03:11:13-04:00 local time"
+     alt="WHYY at 2022-08-07 10:11:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-08-07T10:11:06.651901-04:00.jpg">August 7 at 3:11 AM</a></p>
+ <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-08-07T10:11:06.651901-04:00.jpg">August 7 at 10:11 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/whyynews-2022/whyynews-2022-08-06T23:16:53.018704-04:00.jpg">
   <img src="https://archive.org/download/whyynews-2022/whyynews-2022-08-06T23:16:53.018704-04:00.jpg"
-     alt="WHYY at 2022-08-06 16:16:54-04:00 local time"
+     alt="WHYY at 2022-08-06 23:16:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-08-06T23:16:53.018704-04:00.jpg">August 6 at 4:16 PM</a></p>
+ <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-08-06T23:16:53.018704-04:00.jpg">August 6 at 11:16 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/whyynews-2022/whyynews-2022-08-06T10:00:39.854827-04:00.jpg">
   <img src="https://archive.org/download/whyynews-2022/whyynews-2022-08-06T10:00:39.854827-04:00.jpg"
-     alt="WHYY at 2022-08-06 03:00:42-04:00 local time"
+     alt="WHYY at 2022-08-06 10:00:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-08-06T10:00:39.854827-04:00.jpg">August 6 at 3:00 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/whyynews-2022/whyynews-2022-08-05T22:28:13.536946-04:00.jpg">
-  <img src="https://archive.org/download/whyynews-2022/whyynews-2022-08-05T22:28:13.536946-04:00.jpg"
-     alt="WHYY at 2022-08-05 15:28:15-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-08-05T22:28:13.536946-04:00.jpg">August 5 at 3:28 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/whyynews-2022/whyynews-2022-08-05T13:40:00.482546-04:00.jpg">
-  <img src="https://archive.org/download/whyynews-2022/whyynews-2022-08-05T13:40:00.482546-04:00.jpg"
-     alt="WHYY at 2022-08-05 06:40:02-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-08-05T13:40:00.482546-04:00.jpg">August 5 at 6:40 AM</a></p>
+ <p><a href="https://archive.org/download/whyynews-2022/whyynews-2022-08-06T10:00:39.854827-04:00.jpg">August 6 at 10:00 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 88 hyperlink lists with the Internet Archive.
+The archiving routine has saved 91 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 10 at 3:31 PM](https://archive.org/download/whyynews-2022/whyynews-2022-08-10T22:31:38.766817-04:00.hyperlinks.json) |
-| [August 10 at 6:54 AM](https://archive.org/download/whyynews-2022/whyynews-2022-08-10T13:54:28.328166-04:00.hyperlinks.json) |
-| [August 9 at 3:43 PM](https://archive.org/download/whyynews-2022/whyynews-2022-08-09T22:43:06.332946-04:00.hyperlinks.json) |
-| [August 9 at 3:45 AM](https://archive.org/download/whyynews-2022/whyynews-2022-08-09T10:45:08.430068-04:00.hyperlinks.json) |
-| [August 8 at 3:29 PM](https://archive.org/download/whyynews-2022/whyynews-2022-08-08T22:29:49.816771-04:00.hyperlinks.json) |
-| [August 8 at 3:28 AM](https://archive.org/download/whyynews-2022/whyynews-2022-08-08T10:28:13.105118-04:00.hyperlinks.json) |
-| [August 7 at 3:39 PM](https://archive.org/download/whyynews-2022/whyynews-2022-08-07T22:39:19.335634-04:00.hyperlinks.json) |
-| [August 7 at 3:11 AM](https://archive.org/download/whyynews-2022/whyynews-2022-08-07T10:11:06.651901-04:00.hyperlinks.json) |
-| [August 6 at 4:16 PM](https://archive.org/download/whyynews-2022/whyynews-2022-08-06T23:16:53.018704-04:00.hyperlinks.json) |
-| [August 6 at 3:00 AM](https://archive.org/download/whyynews-2022/whyynews-2022-08-06T10:00:39.854827-04:00.hyperlinks.json) |
+| [August 12 at 5:39 AM](https://archive.org/download/whyynews-2022/whyynews-2022-08-12T05:39:08.709582-04:00.hyperlinks.json) |
+| [August 11 at 10:10 PM](https://archive.org/download/whyynews-2022/whyynews-2022-08-11T22:10:04.264308-04:00.hyperlinks.json) |
+| [August 11 at 1:12 PM](https://archive.org/download/whyynews-2022/whyynews-2022-08-11T13:12:41.334961-04:00.hyperlinks.json) |
+| [August 10 at 10:31 PM](https://archive.org/download/whyynews-2022/whyynews-2022-08-10T22:31:38.766817-04:00.hyperlinks.json) |
+| [August 10 at 1:54 PM](https://archive.org/download/whyynews-2022/whyynews-2022-08-10T13:54:28.328166-04:00.hyperlinks.json) |
+| [August 9 at 10:43 PM](https://archive.org/download/whyynews-2022/whyynews-2022-08-09T22:43:06.332946-04:00.hyperlinks.json) |
+| [August 9 at 10:45 AM](https://archive.org/download/whyynews-2022/whyynews-2022-08-09T10:45:08.430068-04:00.hyperlinks.json) |
+| [August 8 at 10:29 PM](https://archive.org/download/whyynews-2022/whyynews-2022-08-08T22:29:49.816771-04:00.hyperlinks.json) |
+| [August 8 at 10:28 AM](https://archive.org/download/whyynews-2022/whyynews-2022-08-08T10:28:13.105118-04:00.hyperlinks.json) |
+| [August 7 at 10:39 PM](https://archive.org/download/whyynews-2022/whyynews-2022-08-07T22:39:19.335634-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 88 accessibility trees with the Internet Archive.
+The archiving routine has saved 91 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,22 +419,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 10 at 3:31 PM](https://archive.org/download/whyynews-2022/whyynews-2022-08-10T22:31:38.766817-04:00.accessibility.json) |
-| [August 10 at 6:54 AM](https://archive.org/download/whyynews-2022/whyynews-2022-08-10T13:54:28.328166-04:00.accessibility.json) |
-| [August 9 at 3:43 PM](https://archive.org/download/whyynews-2022/whyynews-2022-08-09T22:43:06.332946-04:00.accessibility.json) |
-| [August 9 at 3:45 AM](https://archive.org/download/whyynews-2022/whyynews-2022-08-09T10:45:08.430068-04:00.accessibility.json) |
-| [August 8 at 3:29 PM](https://archive.org/download/whyynews-2022/whyynews-2022-08-08T22:29:49.816771-04:00.accessibility.json) |
-| [August 8 at 3:28 AM](https://archive.org/download/whyynews-2022/whyynews-2022-08-08T10:28:13.105118-04:00.accessibility.json) |
-| [August 7 at 3:39 PM](https://archive.org/download/whyynews-2022/whyynews-2022-08-07T22:39:19.335634-04:00.accessibility.json) |
-| [August 7 at 3:11 AM](https://archive.org/download/whyynews-2022/whyynews-2022-08-07T10:11:06.651901-04:00.accessibility.json) |
-| [August 6 at 4:16 PM](https://archive.org/download/whyynews-2022/whyynews-2022-08-06T23:16:53.018704-04:00.accessibility.json) |
-| [August 6 at 3:00 AM](https://archive.org/download/whyynews-2022/whyynews-2022-08-06T10:00:39.854827-04:00.accessibility.json) |
+| [August 12 at 5:39 AM](https://archive.org/download/whyynews-2022/whyynews-2022-08-12T05:39:08.709582-04:00.accessibility.json) |
+| [August 11 at 10:10 PM](https://archive.org/download/whyynews-2022/whyynews-2022-08-11T22:10:04.264308-04:00.accessibility.json) |
+| [August 11 at 1:12 PM](https://archive.org/download/whyynews-2022/whyynews-2022-08-11T13:12:41.334961-04:00.accessibility.json) |
+| [August 10 at 10:31 PM](https://archive.org/download/whyynews-2022/whyynews-2022-08-10T22:31:38.766817-04:00.accessibility.json) |
+| [August 10 at 1:54 PM](https://archive.org/download/whyynews-2022/whyynews-2022-08-10T13:54:28.328166-04:00.accessibility.json) |
+| [August 9 at 10:43 PM](https://archive.org/download/whyynews-2022/whyynews-2022-08-09T22:43:06.332946-04:00.accessibility.json) |
+| [August 9 at 10:45 AM](https://archive.org/download/whyynews-2022/whyynews-2022-08-09T10:45:08.430068-04:00.accessibility.json) |
+| [August 8 at 10:29 PM](https://archive.org/download/whyynews-2022/whyynews-2022-08-08T22:29:49.816771-04:00.accessibility.json) |
+| [August 8 at 10:28 AM](https://archive.org/download/whyynews-2022/whyynews-2022-08-08T10:28:13.105118-04:00.accessibility.json) |
+| [August 7 at 10:39 PM](https://archive.org/download/whyynews-2022/whyynews-2022-08-07T22:39:19.335634-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 39 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 42 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,16 +525,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 10 at 3:31 PM](https://archive.org/download/whyynews-2022/whyynews-2022-08-10T22:31:38.766817-04:00.lighthouse.json) |
-| [August 10 at 6:54 AM](https://archive.org/download/whyynews-2022/whyynews-2022-08-10T13:54:28.328166-04:00.lighthouse.json) |
-| [August 9 at 3:43 PM](https://archive.org/download/whyynews-2022/whyynews-2022-08-09T22:43:06.332946-04:00.lighthouse.json) |
-| [August 9 at 3:45 AM](https://archive.org/download/whyynews-2022/whyynews-2022-08-09T10:45:08.430068-04:00.lighthouse.json) |
-| [August 8 at 3:29 PM](https://archive.org/download/whyynews-2022/whyynews-2022-08-08T22:29:49.816771-04:00.lighthouse.json) |
-| [August 8 at 3:28 AM](https://archive.org/download/whyynews-2022/whyynews-2022-08-08T10:28:13.105118-04:00.lighthouse.json) |
-| [August 7 at 3:39 PM](https://archive.org/download/whyynews-2022/whyynews-2022-08-07T22:39:19.335634-04:00.lighthouse.json) |
-| [August 7 at 3:11 AM](https://archive.org/download/whyynews-2022/whyynews-2022-08-07T10:11:06.651901-04:00.lighthouse.json) |
-| [August 6 at 4:16 PM](https://archive.org/download/whyynews-2022/whyynews-2022-08-06T23:16:53.018704-04:00.lighthouse.json) |
-| [August 6 at 3:00 AM](https://archive.org/download/whyynews-2022/whyynews-2022-08-06T10:00:39.854827-04:00.lighthouse.json) |
+| [August 12 at 5:39 AM](https://archive.org/download/whyynews-2022/whyynews-2022-08-12T05:39:08.709582-04:00.lighthouse.json) |
+| [August 11 at 10:10 PM](https://archive.org/download/whyynews-2022/whyynews-2022-08-11T22:10:04.264308-04:00.lighthouse.json) |
+| [August 11 at 1:12 PM](https://archive.org/download/whyynews-2022/whyynews-2022-08-11T13:12:41.334961-04:00.lighthouse.json) |
+| [August 10 at 10:31 PM](https://archive.org/download/whyynews-2022/whyynews-2022-08-10T22:31:38.766817-04:00.lighthouse.json) |
+| [August 10 at 1:54 PM](https://archive.org/download/whyynews-2022/whyynews-2022-08-10T13:54:28.328166-04:00.lighthouse.json) |
+| [August 9 at 10:43 PM](https://archive.org/download/whyynews-2022/whyynews-2022-08-09T22:43:06.332946-04:00.lighthouse.json) |
+| [August 9 at 10:45 AM](https://archive.org/download/whyynews-2022/whyynews-2022-08-09T10:45:08.430068-04:00.lighthouse.json) |
+| [August 8 at 10:29 PM](https://archive.org/download/whyynews-2022/whyynews-2022-08-08T22:29:49.816771-04:00.lighthouse.json) |
+| [August 8 at 10:28 AM](https://archive.org/download/whyynews-2022/whyynews-2022-08-08T10:28:13.105118-04:00.lighthouse.json) |
+| [August 7 at 10:39 PM](https://archive.org/download/whyynews-2022/whyynews-2022-08-07T22:39:19.335634-04:00.lighthouse.json) |
 
 
 

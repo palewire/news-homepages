@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 79 screenshots with the Internet Archive.
+The archiving routine has saved 82 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/rt_com-2022/rt_com-2022-08-11T08:43:42.946010+03:00.jpg">
-  <img src="https://archive.org/download/rt_com-2022/rt_com-2022-08-11T08:43:42.946010+03:00.jpg"
-     alt="RT at 2022-08-11 01:43:44+03:00 local time"
+ <a href="https://archive.org/download/rt_com-2022/rt_com-2022-08-12T12:52:45.408642+03:00.jpg">
+  <img src="https://archive.org/download/rt_com-2022/rt_com-2022-08-12T12:52:45.408642+03:00.jpg"
+     alt="RT at 2022-08-12 12:52:47+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rt_com-2022/rt_com-2022-08-11T08:43:42.946010+03:00.jpg">August 11 at 1:43 AM</a></p>
+ <p><a href="https://archive.org/download/rt_com-2022/rt_com-2022-08-12T12:52:45.408642+03:00.jpg">August 12 at 12:52 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rt_com-2022/rt_com-2022-08-12T12:44:52.979188+03:00.jpg">
+  <img src="https://archive.org/download/rt_com-2022/rt_com-2022-08-12T12:44:52.979188+03:00.jpg"
+     alt="RT at 2022-08-12 12:44:58+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rt_com-2022/rt_com-2022-08-12T12:44:52.979188+03:00.jpg">August 12 at 12:44 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rt_com-2022/rt_com-2022-08-11T21:54:34.120599+03:00.jpg">
+  <img src="https://archive.org/download/rt_com-2022/rt_com-2022-08-11T21:54:34.120599+03:00.jpg"
+     alt="RT at 2022-08-11 21:54:35+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rt_com-2022/rt_com-2022-08-11T21:54:34.120599+03:00.jpg">August 11 at 9:54 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rt_com-2022/rt_com-2022-08-11T08:43:42.946010+03:00.jpg">
+  <img src="https://archive.org/download/rt_com-2022/rt_com-2022-08-11T08:43:42.946010+03:00.jpg"
+     alt="RT at 2022-08-11 08:43:44+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rt_com-2022/rt_com-2022-08-11T08:43:42.946010+03:00.jpg">August 11 at 8:43 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rt_com-2022/rt_com-2022-08-11T08:23:42.265677+03:00.jpg">
   <img src="https://archive.org/download/rt_com-2022/rt_com-2022-08-11T08:23:42.265677+03:00.jpg"
-     alt="RT at 2022-08-11 01:23:44+03:00 local time"
+     alt="RT at 2022-08-11 08:23:44+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rt_com-2022/rt_com-2022-08-11T08:23:42.265677+03:00.jpg">August 11 at 1:23 AM</a></p>
+ <p><a href="https://archive.org/download/rt_com-2022/rt_com-2022-08-11T08:23:42.265677+03:00.jpg">August 11 at 8:23 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rt_com-2022/rt_com-2022-08-10T21:20:38.536356+03:00.jpg">
   <img src="https://archive.org/download/rt_com-2022/rt_com-2022-08-10T21:20:38.536356+03:00.jpg"
-     alt="RT at 2022-08-10 14:20:50+03:00 local time"
+     alt="RT at 2022-08-10 21:20:50+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rt_com-2022/rt_com-2022-08-10T21:20:38.536356+03:00.jpg">August 10 at 2:20 PM</a></p>
+ <p><a href="https://archive.org/download/rt_com-2022/rt_com-2022-08-10T21:20:38.536356+03:00.jpg">August 10 at 9:20 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rt_com-2022/rt_com-2022-08-10T08:39:33.987535+03:00.jpg">
   <img src="https://archive.org/download/rt_com-2022/rt_com-2022-08-10T08:39:33.987535+03:00.jpg"
-     alt="RT at 2022-08-10 01:39:34+03:00 local time"
+     alt="RT at 2022-08-10 08:39:34+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rt_com-2022/rt_com-2022-08-10T08:39:33.987535+03:00.jpg">August 10 at 1:39 AM</a></p>
+ <p><a href="https://archive.org/download/rt_com-2022/rt_com-2022-08-10T08:39:33.987535+03:00.jpg">August 10 at 8:39 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rt_com-2022/rt_com-2022-08-10T08:32:18.994391+03:00.jpg">
   <img src="https://archive.org/download/rt_com-2022/rt_com-2022-08-10T08:32:18.994391+03:00.jpg"
-     alt="RT at 2022-08-10 01:32:20+03:00 local time"
+     alt="RT at 2022-08-10 08:32:20+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rt_com-2022/rt_com-2022-08-10T08:32:18.994391+03:00.jpg">August 10 at 1:32 AM</a></p>
+ <p><a href="https://archive.org/download/rt_com-2022/rt_com-2022-08-10T08:32:18.994391+03:00.jpg">August 10 at 8:32 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rt_com-2022/rt_com-2022-08-09T20:51:54.801618+03:00.jpg">
   <img src="https://archive.org/download/rt_com-2022/rt_com-2022-08-09T20:51:54.801618+03:00.jpg"
-     alt="RT at 2022-08-09 13:52:00+03:00 local time"
+     alt="RT at 2022-08-09 20:52:00+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rt_com-2022/rt_com-2022-08-09T20:51:54.801618+03:00.jpg">August 9 at 1:52 PM</a></p>
+ <p><a href="https://archive.org/download/rt_com-2022/rt_com-2022-08-09T20:51:54.801618+03:00.jpg">August 9 at 8:52 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rt_com-2022/rt_com-2022-08-09T08:23:21.541617+03:00.jpg">
   <img src="https://archive.org/download/rt_com-2022/rt_com-2022-08-09T08:23:21.541617+03:00.jpg"
-     alt="RT at 2022-08-09 01:23:22+03:00 local time"
+     alt="RT at 2022-08-09 08:23:22+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rt_com-2022/rt_com-2022-08-09T08:23:21.541617+03:00.jpg">August 9 at 1:23 AM</a></p>
+ <p><a href="https://archive.org/download/rt_com-2022/rt_com-2022-08-09T08:23:21.541617+03:00.jpg">August 9 at 8:23 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rt_com-2022/rt_com-2022-08-09T08:07:33.720005+03:00.jpg">
   <img src="https://archive.org/download/rt_com-2022/rt_com-2022-08-09T08:07:33.720005+03:00.jpg"
-     alt="RT at 2022-08-09 01:07:35+03:00 local time"
+     alt="RT at 2022-08-09 08:07:35+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rt_com-2022/rt_com-2022-08-09T08:07:33.720005+03:00.jpg">August 9 at 1:07 AM</a></p>
+ <p><a href="https://archive.org/download/rt_com-2022/rt_com-2022-08-09T08:07:33.720005+03:00.jpg">August 9 at 8:07 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rt_com-2022/rt_com-2022-08-08T20:17:27.435772+03:00.jpg">
   <img src="https://archive.org/download/rt_com-2022/rt_com-2022-08-08T20:17:27.435772+03:00.jpg"
-     alt="RT at 2022-08-08 13:17:29+03:00 local time"
+     alt="RT at 2022-08-08 20:17:29+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rt_com-2022/rt_com-2022-08-08T20:17:27.435772+03:00.jpg">August 8 at 1:17 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/rt_com-2022/rt_com-2022-08-08T08:41:35.794146+03:00.jpg">
-  <img src="https://archive.org/download/rt_com-2022/rt_com-2022-08-08T08:41:35.794146+03:00.jpg"
-     alt="RT at 2022-08-08 01:41:37+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rt_com-2022/rt_com-2022-08-08T08:41:35.794146+03:00.jpg">August 8 at 1:41 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/rt_com-2022/rt_com-2022-08-08T08:23:10.946839+03:00.jpg">
-  <img src="https://archive.org/download/rt_com-2022/rt_com-2022-08-08T08:23:10.946839+03:00.jpg"
-     alt="RT at 2022-08-08 01:23:12+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rt_com-2022/rt_com-2022-08-08T08:23:10.946839+03:00.jpg">August 8 at 1:23 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/rt_com-2022/rt_com-2022-08-07T20:04:15.441517+03:00.jpg">
-  <img src="https://archive.org/download/rt_com-2022/rt_com-2022-08-07T20:04:15.441517+03:00.jpg"
-     alt="RT at 2022-08-07 13:04:16+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rt_com-2022/rt_com-2022-08-07T20:04:15.441517+03:00.jpg">August 7 at 1:04 PM</a></p>
+ <p><a href="https://archive.org/download/rt_com-2022/rt_com-2022-08-08T20:17:27.435772+03:00.jpg">August 8 at 8:17 PM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 79 hyperlink lists with the Internet Archive.
+The archiving routine has saved 82 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 11 at 1:43 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-11T08:43:42.946010+03:00.hyperlinks.json) |
-| [August 11 at 1:23 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-11T08:23:42.265677+03:00.hyperlinks.json) |
-| [August 10 at 2:21 PM](https://archive.org/download/rt_com-2022/rt_com-2022-08-10T21:20:38.536356+03:00.hyperlinks.json) |
-| [August 10 at 1:39 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-10T08:39:33.987535+03:00.hyperlinks.json) |
-| [August 10 at 1:32 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-10T08:32:18.994391+03:00.hyperlinks.json) |
-| [August 9 at 1:52 PM](https://archive.org/download/rt_com-2022/rt_com-2022-08-09T20:51:54.801618+03:00.hyperlinks.json) |
-| [August 9 at 1:23 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-09T08:23:21.541617+03:00.hyperlinks.json) |
-| [August 9 at 1:07 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-09T08:07:33.720005+03:00.hyperlinks.json) |
-| [August 8 at 1:17 PM](https://archive.org/download/rt_com-2022/rt_com-2022-08-08T20:17:27.435772+03:00.hyperlinks.json) |
-| [August 8 at 1:41 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-08T08:41:35.794146+03:00.hyperlinks.json) |
+| [August 12 at 12:52 PM](https://archive.org/download/rt_com-2022/rt_com-2022-08-12T12:52:45.408642+03:00.hyperlinks.json) |
+| [August 12 at 12:45 PM](https://archive.org/download/rt_com-2022/rt_com-2022-08-12T12:44:52.979188+03:00.hyperlinks.json) |
+| [August 11 at 9:54 PM](https://archive.org/download/rt_com-2022/rt_com-2022-08-11T21:54:34.120599+03:00.hyperlinks.json) |
+| [August 11 at 8:43 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-11T08:43:42.946010+03:00.hyperlinks.json) |
+| [August 11 at 8:23 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-11T08:23:42.265677+03:00.hyperlinks.json) |
+| [August 10 at 9:21 PM](https://archive.org/download/rt_com-2022/rt_com-2022-08-10T21:20:38.536356+03:00.hyperlinks.json) |
+| [August 10 at 8:39 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-10T08:39:33.987535+03:00.hyperlinks.json) |
+| [August 10 at 8:32 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-10T08:32:18.994391+03:00.hyperlinks.json) |
+| [August 9 at 8:52 PM](https://archive.org/download/rt_com-2022/rt_com-2022-08-09T20:51:54.801618+03:00.hyperlinks.json) |
+| [August 9 at 8:23 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-09T08:23:21.541617+03:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 78 accessibility trees with the Internet Archive.
+The archiving routine has saved 81 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,22 +419,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 11 at 1:43 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-11T08:43:42.946010+03:00.accessibility.json) |
-| [August 11 at 1:23 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-11T08:23:42.265677+03:00.accessibility.json) |
-| [August 10 at 2:21 PM](https://archive.org/download/rt_com-2022/rt_com-2022-08-10T21:20:38.536356+03:00.accessibility.json) |
-| [August 10 at 1:39 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-10T08:39:33.987535+03:00.accessibility.json) |
-| [August 10 at 1:32 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-10T08:32:18.994391+03:00.accessibility.json) |
-| [August 9 at 1:52 PM](https://archive.org/download/rt_com-2022/rt_com-2022-08-09T20:51:54.801618+03:00.accessibility.json) |
-| [August 9 at 1:23 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-09T08:23:21.541617+03:00.accessibility.json) |
-| [August 9 at 1:07 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-09T08:07:33.720005+03:00.accessibility.json) |
-| [August 8 at 1:17 PM](https://archive.org/download/rt_com-2022/rt_com-2022-08-08T20:17:27.435772+03:00.accessibility.json) |
-| [August 8 at 1:41 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-08T08:41:35.794146+03:00.accessibility.json) |
+| [August 12 at 12:52 PM](https://archive.org/download/rt_com-2022/rt_com-2022-08-12T12:52:45.408642+03:00.accessibility.json) |
+| [August 12 at 12:45 PM](https://archive.org/download/rt_com-2022/rt_com-2022-08-12T12:44:52.979188+03:00.accessibility.json) |
+| [August 11 at 9:54 PM](https://archive.org/download/rt_com-2022/rt_com-2022-08-11T21:54:34.120599+03:00.accessibility.json) |
+| [August 11 at 8:43 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-11T08:43:42.946010+03:00.accessibility.json) |
+| [August 11 at 8:23 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-11T08:23:42.265677+03:00.accessibility.json) |
+| [August 10 at 9:21 PM](https://archive.org/download/rt_com-2022/rt_com-2022-08-10T21:20:38.536356+03:00.accessibility.json) |
+| [August 10 at 8:39 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-10T08:39:33.987535+03:00.accessibility.json) |
+| [August 10 at 8:32 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-10T08:32:18.994391+03:00.accessibility.json) |
+| [August 9 at 8:52 PM](https://archive.org/download/rt_com-2022/rt_com-2022-08-09T20:51:54.801618+03:00.accessibility.json) |
+| [August 9 at 8:23 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-09T08:23:21.541617+03:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 56 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 59 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,16 +525,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 11 at 1:43 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-11T08:43:42.946010+03:00.lighthouse.json) |
-| [August 11 at 1:23 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-11T08:23:42.265677+03:00.lighthouse.json) |
-| [August 10 at 2:21 PM](https://archive.org/download/rt_com-2022/rt_com-2022-08-10T21:20:38.536356+03:00.lighthouse.json) |
-| [August 10 at 1:39 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-10T08:39:33.987535+03:00.lighthouse.json) |
-| [August 10 at 1:32 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-10T08:32:18.994391+03:00.lighthouse.json) |
-| [August 9 at 1:52 PM](https://archive.org/download/rt_com-2022/rt_com-2022-08-09T20:51:54.801618+03:00.lighthouse.json) |
-| [August 9 at 1:23 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-09T08:23:21.541617+03:00.lighthouse.json) |
-| [August 9 at 1:07 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-09T08:07:33.720005+03:00.lighthouse.json) |
-| [August 8 at 1:17 PM](https://archive.org/download/rt_com-2022/rt_com-2022-08-08T20:17:27.435772+03:00.lighthouse.json) |
-| [August 8 at 1:41 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-08T08:41:35.794146+03:00.lighthouse.json) |
+| [August 12 at 12:52 PM](https://archive.org/download/rt_com-2022/rt_com-2022-08-12T12:52:45.408642+03:00.lighthouse.json) |
+| [August 12 at 12:45 PM](https://archive.org/download/rt_com-2022/rt_com-2022-08-12T12:44:52.979188+03:00.lighthouse.json) |
+| [August 11 at 9:54 PM](https://archive.org/download/rt_com-2022/rt_com-2022-08-11T21:54:34.120599+03:00.lighthouse.json) |
+| [August 11 at 8:43 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-11T08:43:42.946010+03:00.lighthouse.json) |
+| [August 11 at 8:23 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-11T08:23:42.265677+03:00.lighthouse.json) |
+| [August 10 at 9:21 PM](https://archive.org/download/rt_com-2022/rt_com-2022-08-10T21:20:38.536356+03:00.lighthouse.json) |
+| [August 10 at 8:39 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-10T08:39:33.987535+03:00.lighthouse.json) |
+| [August 10 at 8:32 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-10T08:32:18.994391+03:00.lighthouse.json) |
+| [August 9 at 8:52 PM](https://archive.org/download/rt_com-2022/rt_com-2022-08-09T20:51:54.801618+03:00.lighthouse.json) |
+| [August 9 at 8:23 AM](https://archive.org/download/rt_com-2022/rt_com-2022-08-09T08:23:21.541617+03:00.lighthouse.json) |
 
 
 

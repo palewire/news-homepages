@@ -1,5 +1,5 @@
 {
-  "created": 1660221447,
+  "created": 1660305034,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/16/items/gothamgazette-2022",
@@ -1060,31 +1060,155 @@
       "sha1": "6cd7f2656afab2c00cf4deec8c9c826d6514b948"
     },
     {
+      "name": "gothamgazette-2022-08-11T19:28:49.239964-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660260532",
+      "size": "27955",
+      "md5": "adc8823df4bf91c2959dd00ba7eae509",
+      "crc32": "b4fdc1fe",
+      "sha1": "4e3b425fbacbc897a92ff48ed49a0790fb0b4738",
+      "format": "JSON"
+    },
+    {
+      "name": "gothamgazette-2022-08-11T19:28:49.239964-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660260533",
+      "size": "16253",
+      "md5": "ac990e0c038b1e5a4ac73b11c45a9467",
+      "crc32": "54ff6507",
+      "sha1": "2bab4aa1f9f8733cd81d9f51f21e0338a4f8ba3f",
+      "format": "JSON"
+    },
+    {
+      "name": "gothamgazette-2022-08-11T19:28:49.239964-04:00.jpg",
+      "source": "original",
+      "mtime": "1660260530",
+      "size": "313768",
+      "md5": "4a4ab3af9bb944fb1da1ca0d4ba68be3",
+      "crc32": "45e89e0d",
+      "sha1": "62581ca94b13ccb367a1252e92882400b14ab7fa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gothamgazette-2022-08-11T19:28:49.239964-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660260535",
+      "size": "1519",
+      "md5": "25e7613c918494c70dd74cd9c117bee8",
+      "crc32": "3d573977",
+      "sha1": "ba8c30eda8db3666a2daf37625e17998ee8c804b",
+      "format": "JSON"
+    },
+    {
+      "name": "gothamgazette-2022-08-11T19:28:49.239964-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660260536",
+      "size": "23125",
+      "md5": "8f3c516ae0a67855f412d423e750df3b",
+      "crc32": "8906b865",
+      "sha1": "3919cc8adf21f2344a70ab76716c5ef1620a62c8",
+      "format": "JSON"
+    },
+    {
+      "name": "gothamgazette-2022-08-11T19:28:49.239964-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gothamgazette-2022-08-11T19:28:49.239964-04:00.jpg",
+      "mtime": "1660260728",
+      "size": "10001",
+      "md5": "3cc4f8ef85893433cc0199fa8ce3d00e",
+      "crc32": "d9c4b75d",
+      "sha1": "501f505d0421ba65b571c514c3dec51fdb45397e"
+    },
+    {
+      "name": "gothamgazette-2022-08-12T07:45:00.867515-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660304704",
+      "size": "27757",
+      "md5": "c7421ddfb258a32307d1401298fd08ab",
+      "crc32": "3554eb10",
+      "sha1": "28d9e9d334b9f0b0bff36134187b29e519bd2631",
+      "format": "JSON"
+    },
+    {
+      "name": "gothamgazette-2022-08-12T07:45:00.867515-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660304706",
+      "size": "16144",
+      "md5": "a2540420a1b4e8cc9043a1b4d61caf1b",
+      "crc32": "510050d4",
+      "sha1": "78da97d2139fb42587d4b6e850087d21638b07a7",
+      "format": "JSON"
+    },
+    {
+      "name": "gothamgazette-2022-08-12T07:45:00.867515-04:00.jpg",
+      "source": "original",
+      "mtime": "1660304702",
+      "size": "283528",
+      "md5": "3f871f1b59ae3302e98a06dc352b2d8a",
+      "crc32": "8a585085",
+      "sha1": "d6cff2dc004ebd0cda4c07c30a21c4c16dc0064b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gothamgazette-2022-08-12T07:45:00.867515-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660304708",
+      "size": "1515",
+      "md5": "cddbf3ea33a306157e2f536efd71be92",
+      "crc32": "267e12e3",
+      "sha1": "a76f2fb18be2ce8103b1a8bbaf594325f70ca140",
+      "format": "JSON"
+    },
+    {
+      "name": "gothamgazette-2022-08-12T07:45:00.867515-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660304709",
+      "size": "23522",
+      "md5": "0b2c5b4540422a067948436a55c93730",
+      "crc32": "9cabe350",
+      "sha1": "f78ac88386b8c626035d731eb84b53a51b32b329",
+      "format": "JSON"
+    },
+    {
+      "name": "gothamgazette-2022-08-12T07:45:00.867515-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gothamgazette-2022-08-12T07:45:00.867515-04:00.jpg",
+      "mtime": "1660304999",
+      "size": "10327",
+      "md5": "c50b08789efd7e638f981d90a2602fce",
+      "crc32": "973c21b3",
+      "sha1": "5ba323d0f45c114b4435179ec3beb6bada96bca1"
+    },
+    {
       "name": "gothamgazette-2022_archive.torrent",
       "source": "metadata",
-      "btih": "94c4724c2659b08c88f3bf09ff9a0d2103157bc5",
-      "mtime": "1660220959",
-      "size": "23410",
-      "md5": "d7af02be5c26ee9c89065a239127145f",
-      "crc32": "0875a8cb",
-      "sha1": "ca694198fa695daa5ba61ade72cacea28f584254",
+      "btih": "b08982d4fcda2876c981b05002bf6b7336658258",
+      "mtime": "1660305003",
+      "size": "25986",
+      "md5": "ff916b481fd33933314cc0bd7d4d627e",
+      "crc32": "402b14c8",
+      "sha1": "acf78def8870b667f08a3eb66fc8a094dfd49925",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gothamgazette-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "980daf2bfcf634b2884cd4759bd17923",
+      "md5": "b1ed7e6dd1d7c384d70c24dad0c35c61",
       "summation": "md5"
     },
     {
       "name": "gothamgazette-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660218263",
-      "size": "151552",
-      "md5": "69ec5e07730787241379c9e25fad0efd",
-      "crc32": "c9e18f18",
-      "sha1": "74f2025d9088e34ab7f5aa8882bedf1a510c55ee",
+      "mtime": "1660304712",
+      "size": "167936",
+      "md5": "1a503d769693a78408ea629405070d26",
+      "crc32": "789c0329",
+      "sha1": "38c8dd86d0cc14b7abbd2386fae254b442174d14",
       "format": "Metadata"
     },
     {
@@ -1098,9 +1222,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 106,
-  "item_last_updated": 1660220959,
-  "item_size": 6341593,
+  "files_count": 118,
+  "item_last_updated": 1660305003,
+  "item_size": 7115967,
   "metadata": {
     "identifier": "gothamgazette-2022",
     "collection": [
@@ -1118,7 +1242,7 @@
     "addeddate": "2022-08-02 23:26:38"
   },
   "server": "ia801503.us.archive.org",
-  "uniq": 2070018856,
+  "uniq": 986053574,
   "workable_servers": [
     "ia801503.us.archive.org",
     "ia601503.us.archive.org"

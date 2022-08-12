@@ -1,6 +1,5 @@
 {
-  "conflict": 1660225653,
-  "created": 1660225653,
+  "created": 1660311045,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/31/items/quillette-2022",
@@ -2565,31 +2564,206 @@
       "sha1": "27e6882ee29d626dbf2503b8aead019baa68b301"
     },
     {
+      "name": "quillette-2022-08-11T14:47:25.286243+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660225653",
+      "size": "9699",
+      "md5": "0f6e1677ab4cfca57cd4f799a805e6e0",
+      "crc32": "21a4fd78",
+      "sha1": "793e208c5b91ef0b75764ea4872f373a991b9e9a",
+      "format": "JSON"
+    },
+    {
+      "name": "quillette-2022-08-11T14:47:25.286243+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660225655",
+      "size": "6021",
+      "md5": "3abf84dd6e900875ca5e6ae436a55f27",
+      "crc32": "bcb855b1",
+      "sha1": "1df1d4c8dd9859ba4f3cf5917bf1e138d75509de",
+      "format": "JSON"
+    },
+    {
+      "name": "quillette-2022-08-11T14:47:25.286243+01:00.jpg",
+      "source": "original",
+      "mtime": "1660225652",
+      "size": "226139",
+      "md5": "aeae9097a016fef99fcbf0578672c098",
+      "crc32": "846411ed",
+      "sha1": "1ea9525e2f7ee4b408890ee9f2351758451be580",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "quillette-2022-08-11T14:47:25.286243+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660225656",
+      "size": "1450",
+      "md5": "48f7d4246651917400cd3c19ac0c61ac",
+      "crc32": "3bb2ec1c",
+      "sha1": "71474e00f6901b9e34027c5e7aaa3e5d89931602",
+      "format": "JSON"
+    },
+    {
+      "name": "quillette-2022-08-11T14:47:25.286243+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1660225658",
+      "size": "255",
+      "md5": "5cfd8533b4840a843f22cdb8b34c8252",
+      "crc32": "2415ce89",
+      "sha1": "7989ab15f95c43ac24b2e9d3704638d10615e3b7",
+      "format": "JSON"
+    },
+    {
+      "name": "quillette-2022-08-11T14:47:25.286243+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "quillette-2022-08-11T14:47:25.286243+01:00.jpg",
+      "mtime": "1660227503",
+      "size": "9407",
+      "md5": "e2b341b94b6ae552184b3c828ee8d173",
+      "crc32": "94a6f9e8",
+      "sha1": "9c13c8b03eb3f827a30deaaba8d5fc60f52f8e84"
+    },
+    {
+      "name": "quillette-2022-08-12T10:25:08.282179+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660296311",
+      "size": "9337",
+      "md5": "0d9efd60ff6707ee5d60bee0874bc6c4",
+      "crc32": "4c6e4071",
+      "sha1": "6b4e967325968d39df98390d21b30950509377ae",
+      "format": "JSON"
+    },
+    {
+      "name": "quillette-2022-08-12T10:25:08.282179+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660296312",
+      "size": "5949",
+      "md5": "25212a5b535432a47c8edcd06e0905e0",
+      "crc32": "9c715239",
+      "sha1": "d3243279327afc77606469289f8813ef7c511e2b",
+      "format": "JSON"
+    },
+    {
+      "name": "quillette-2022-08-12T10:25:08.282179+01:00.jpg",
+      "source": "original",
+      "mtime": "1660296309",
+      "size": "189549",
+      "md5": "3f43b96dd2311e3435377503a67d38de",
+      "crc32": "ab978b05",
+      "sha1": "f11d928b4c1a8358cef7d033360db07b1a58e652",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "quillette-2022-08-12T10:25:08.282179+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660296314",
+      "size": "1449",
+      "md5": "a5ee6128824df95bf60f4ddf4c733c7b",
+      "crc32": "f509ee9d",
+      "sha1": "9a308295cf8894634ae282efa7127759b6826e3d",
+      "format": "JSON"
+    },
+    {
+      "name": "quillette-2022-08-12T10:25:08.282179+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1660296315",
+      "size": "5079",
+      "md5": "a0092fbc56c6bde1f41addec5f032437",
+      "crc32": "3928dc87",
+      "sha1": "c435389ecad99ca1545e3831158a7465c92ed97d",
+      "format": "JSON"
+    },
+    {
+      "name": "quillette-2022-08-12T10:25:08.282179+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "quillette-2022-08-12T10:25:08.282179+01:00.jpg",
+      "mtime": "1660296421",
+      "size": "9186",
+      "md5": "2d903d8c4eeaa62ef4d2f88332f776bf",
+      "crc32": "431ee36d",
+      "sha1": "a49d84c026ae7938e462903428abcc6aca2e8b33"
+    },
+    {
+      "name": "quillette-2022-08-12T14:29:53.528886+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660310997",
+      "size": "9751",
+      "md5": "77d5598a3282510eb2f64efc8008423b",
+      "crc32": "86adba9b",
+      "sha1": "a178bfeb15978fa56be5d488df9f6bfc47cdd005",
+      "format": "JSON"
+    },
+    {
+      "name": "quillette-2022-08-12T14:29:53.528886+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660310999",
+      "size": "6127",
+      "md5": "b12799671603f068aaa70a32f1bab108",
+      "crc32": "6904509d",
+      "sha1": "4b3740628b21c5338cb48c3922e591c06008cbf0",
+      "format": "JSON"
+    },
+    {
+      "name": "quillette-2022-08-12T14:29:53.528886+01:00.jpg",
+      "source": "original",
+      "mtime": "1660310996",
+      "size": "189549",
+      "md5": "3f43b96dd2311e3435377503a67d38de",
+      "crc32": "ab978b05",
+      "sha1": "f11d928b4c1a8358cef7d033360db07b1a58e652",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "quillette-2022-08-12T14:29:53.528886+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660311000",
+      "size": "1449",
+      "md5": "6df8cf819b9b1e9aaf5fff92e4b1742a",
+      "crc32": "2b6ae54a",
+      "sha1": "964a38cd29ab6e8fd6f25f43dc1c7a98230c56c6",
+      "format": "JSON"
+    },
+    {
+      "name": "quillette-2022-08-12T14:29:53.528886+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1660311003",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "quillette-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1ebbbddda38a6289aa71b6da9db3eaad5e053a76",
-      "mtime": "1660179927",
-      "size": "53096",
-      "md5": "b4a81914b1c160b0fa4933d6227ed304",
-      "crc32": "56e00f97",
-      "sha1": "5b31fe5b0ca25b631d9f98830ebb9b9266dc9eac",
+      "btih": "1704df2708dc698b41ba3d774fdf8bde4dfb9435",
+      "mtime": "1660311042",
+      "size": "56659",
+      "md5": "0b9ba4973ee5d972c737084b4da99e5c",
+      "crc32": "b15722f8",
+      "sha1": "98939340c6fc1cd1fcb9cc1666a5d4927cc1d982",
       "format": "Archive BitTorrent"
     },
     {
       "name": "quillette-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "61e67d29671bc10436179bebba526bbe",
+      "md5": "8f88dd5576238a8416d06f554080e2cf",
       "summation": "md5"
     },
     {
       "name": "quillette-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660179535",
-      "size": "323584",
-      "md5": "50b4db894541ed5e6e6fc28693fb1d0b",
-      "crc32": "f3b52f89",
-      "sha1": "9c720407d4d8c55ef52c95ba9ceb8d9946c8250b",
+      "mtime": "1660311006",
+      "size": "348160",
+      "md5": "59d4874a1ecb9ac23cfd5d33c826f3d7",
+      "crc32": "70571ffe",
+      "sha1": "354a796dd90862dd60a73a6f7248d0e0245fa90a",
       "format": "Metadata"
     },
     {
@@ -2603,9 +2777,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 250,
-  "item_last_updated": 1660179927,
-  "item_size": 11701425,
+  "files_count": 267,
+  "item_last_updated": 1660311042,
+  "item_size": 12410162,
   "metadata": {
     "identifier": "quillette-2022",
     "collection": [
@@ -2627,15 +2801,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3361503804,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "task_id": 3363471785,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 2122262037,
+  "uniq": 136142088,
   "workable_servers": [
     "ia601505.us.archive.org"
   ]

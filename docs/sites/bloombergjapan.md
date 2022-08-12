@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 50 screenshots with the Internet Archive.
+The archiving routine has saved 52 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-11T12:44:31.131286+09:00.jpg">
-  <img src="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-11T12:44:31.131286+09:00.jpg"
-     alt="Bloomberg Japan at 2022-08-11 05:44:32+09:00 local time"
+ <a href="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-12T18:30:10.760915+09:00.jpg">
+  <img src="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-12T18:30:10.760915+09:00.jpg"
+     alt="Bloomberg Japan at 2022-08-12 18:30:14+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-11T12:44:31.131286+09:00.jpg">August 11 at 5:44 AM</a></p>
+ <p><a href="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-12T18:30:10.760915+09:00.jpg">August 12 at 6:30 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-12T02:02:08.533748+09:00.jpg">
+  <img src="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-12T02:02:08.533748+09:00.jpg"
+     alt="Bloomberg Japan at 2022-08-12 02:02:10+09:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-12T02:02:08.533748+09:00.jpg">August 12 at 2:02 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-11T12:44:31.131286+09:00.jpg">
+  <img src="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-11T12:44:31.131286+09:00.jpg"
+     alt="Bloomberg Japan at 2022-08-11 12:44:32+09:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-11T12:44:31.131286+09:00.jpg">August 11 at 12:44 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-11T11:22:53.002524+09:00.jpg">
   <img src="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-11T11:22:53.002524+09:00.jpg"
-     alt="Bloomberg Japan at 2022-08-11 04:22:54+09:00 local time"
+     alt="Bloomberg Japan at 2022-08-11 11:22:54+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-11T11:22:53.002524+09:00.jpg">August 11 at 4:22 AM</a></p>
+ <p><a href="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-11T11:22:53.002524+09:00.jpg">August 11 at 11:22 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-11T02:44:38.451055+09:00.jpg">
   <img src="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-11T02:44:38.451055+09:00.jpg"
-     alt="Bloomberg Japan at 2022-08-10 19:44:39+09:00 local time"
+     alt="Bloomberg Japan at 2022-08-11 02:44:39+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-11T02:44:38.451055+09:00.jpg">August 10 at 7:44 PM</a></p>
+ <p><a href="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-11T02:44:38.451055+09:00.jpg">August 11 at 2:44 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-10T12:52:40.143903+09:00.jpg">
   <img src="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-10T12:52:40.143903+09:00.jpg"
-     alt="Bloomberg Japan at 2022-08-10 05:52:43+09:00 local time"
+     alt="Bloomberg Japan at 2022-08-10 12:52:43+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-10T12:52:40.143903+09:00.jpg">August 10 at 5:52 AM</a></p>
+ <p><a href="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-10T12:52:40.143903+09:00.jpg">August 10 at 12:52 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-10T11:32:17.923372+09:00.jpg">
   <img src="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-10T11:32:17.923372+09:00.jpg"
-     alt="Bloomberg Japan at 2022-08-10 04:32:23+09:00 local time"
+     alt="Bloomberg Japan at 2022-08-10 11:32:23+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-10T11:32:17.923372+09:00.jpg">August 10 at 4:32 AM</a></p>
+ <p><a href="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-10T11:32:17.923372+09:00.jpg">August 10 at 11:32 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-09T23:32:56.189604+09:00.jpg">
   <img src="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-09T23:32:56.189604+09:00.jpg"
-     alt="Bloomberg Japan at 2022-08-09 16:32:59+09:00 local time"
+     alt="Bloomberg Japan at 2022-08-09 23:32:59+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-09T23:32:56.189604+09:00.jpg">August 9 at 4:32 PM</a></p>
+ <p><a href="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-09T23:32:56.189604+09:00.jpg">August 9 at 11:32 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-09T12:37:04.278133+09:00.jpg">
   <img src="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-09T12:37:04.278133+09:00.jpg"
-     alt="Bloomberg Japan at 2022-08-09 05:37:07+09:00 local time"
+     alt="Bloomberg Japan at 2022-08-09 12:37:07+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-09T12:37:04.278133+09:00.jpg">August 9 at 5:37 AM</a></p>
+ <p><a href="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-09T12:37:04.278133+09:00.jpg">August 9 at 12:37 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-09T11:21:31.289760+09:00.jpg">
   <img src="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-09T11:21:31.289760+09:00.jpg"
-     alt="Bloomberg Japan at 2022-08-09 04:21:32+09:00 local time"
+     alt="Bloomberg Japan at 2022-08-09 11:21:32+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-09T11:21:31.289760+09:00.jpg">August 9 at 4:21 AM</a></p>
+ <p><a href="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-09T11:21:31.289760+09:00.jpg">August 9 at 11:21 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-08T23:16:37.937974+09:00.jpg">
   <img src="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-08T23:16:37.937974+09:00.jpg"
-     alt="Bloomberg Japan at 2022-08-08 16:16:39+09:00 local time"
+     alt="Bloomberg Japan at 2022-08-08 23:16:39+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-08T23:16:37.937974+09:00.jpg">August 8 at 4:16 PM</a></p>
+ <p><a href="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-08T23:16:37.937974+09:00.jpg">August 8 at 11:16 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-08T12:51:43.181104+09:00.jpg">
   <img src="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-08T12:51:43.181104+09:00.jpg"
-     alt="Bloomberg Japan at 2022-08-08 05:51:44+09:00 local time"
+     alt="Bloomberg Japan at 2022-08-08 12:51:44+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-08T12:51:43.181104+09:00.jpg">August 8 at 5:51 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-08T11:29:34.576131+09:00.jpg">
-  <img src="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-08T11:29:34.576131+09:00.jpg"
-     alt="Bloomberg Japan at 2022-08-08 04:29:35+09:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-08T11:29:34.576131+09:00.jpg">August 8 at 4:29 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-07T23:02:00.347578+09:00.jpg">
-  <img src="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-07T23:02:00.347578+09:00.jpg"
-     alt="Bloomberg Japan at 2022-08-07 16:02:02+09:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-07T23:02:00.347578+09:00.jpg">August 7 at 4:02 PM</a></p>
+ <p><a href="https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-08T12:51:43.181104+09:00.jpg">August 8 at 12:51 PM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 52 hyperlink lists with the Internet Archive.
+The archiving routine has saved 55 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 11 at 5:44 AM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-11T12:44:31.131286+09:00.hyperlinks.json) |
-| [August 11 at 4:22 AM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-11T11:22:53.002524+09:00.hyperlinks.json) |
-| [August 10 at 7:44 PM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-11T02:44:38.451055+09:00.hyperlinks.json) |
-| [August 10 at 5:52 AM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-10T12:52:40.143903+09:00.hyperlinks.json) |
-| [August 10 at 4:32 AM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-10T11:32:17.923372+09:00.hyperlinks.json) |
-| [August 9 at 4:33 PM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-09T23:32:56.189604+09:00.hyperlinks.json) |
-| [August 9 at 5:37 AM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-09T12:37:04.278133+09:00.hyperlinks.json) |
-| [August 9 at 4:21 AM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-09T11:21:31.289760+09:00.hyperlinks.json) |
-| [August 8 at 4:16 PM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-08T23:16:37.937974+09:00.hyperlinks.json) |
-| [August 8 at 5:51 AM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-08T12:51:43.181104+09:00.hyperlinks.json) |
+| [August 12 at 6:30 PM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-12T18:30:10.760915+09:00.hyperlinks.json) |
+| [August 12 at 11:02 AM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-12T11:02:04.083210+09:00.hyperlinks.json) |
+| [August 12 at 2:02 AM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-12T02:02:08.533748+09:00.hyperlinks.json) |
+| [August 11 at 12:44 PM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-11T12:44:31.131286+09:00.hyperlinks.json) |
+| [August 11 at 11:22 AM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-11T11:22:53.002524+09:00.hyperlinks.json) |
+| [August 11 at 2:44 AM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-11T02:44:38.451055+09:00.hyperlinks.json) |
+| [August 10 at 12:52 PM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-10T12:52:40.143903+09:00.hyperlinks.json) |
+| [August 10 at 11:32 AM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-10T11:32:17.923372+09:00.hyperlinks.json) |
+| [August 9 at 11:33 PM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-09T23:32:56.189604+09:00.hyperlinks.json) |
+| [August 9 at 12:37 PM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-09T12:37:04.278133+09:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 50 accessibility trees with the Internet Archive.
+The archiving routine has saved 53 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,22 +419,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 11 at 5:44 AM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-11T12:44:31.131286+09:00.accessibility.json) |
-| [August 11 at 4:22 AM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-11T11:22:53.002524+09:00.accessibility.json) |
-| [August 10 at 7:44 PM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-11T02:44:38.451055+09:00.accessibility.json) |
-| [August 10 at 5:52 AM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-10T12:52:40.143903+09:00.accessibility.json) |
-| [August 10 at 4:32 AM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-10T11:32:17.923372+09:00.accessibility.json) |
-| [August 9 at 4:33 PM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-09T23:32:56.189604+09:00.accessibility.json) |
-| [August 9 at 5:37 AM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-09T12:37:04.278133+09:00.accessibility.json) |
-| [August 9 at 4:21 AM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-09T11:21:31.289760+09:00.accessibility.json) |
-| [August 8 at 4:16 PM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-08T23:16:37.937974+09:00.accessibility.json) |
-| [August 8 at 5:51 AM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-08T12:51:43.181104+09:00.accessibility.json) |
+| [August 12 at 6:30 PM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-12T18:30:10.760915+09:00.accessibility.json) |
+| [August 12 at 11:02 AM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-12T11:02:04.083210+09:00.accessibility.json) |
+| [August 12 at 2:02 AM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-12T02:02:08.533748+09:00.accessibility.json) |
+| [August 11 at 12:44 PM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-11T12:44:31.131286+09:00.accessibility.json) |
+| [August 11 at 11:22 AM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-11T11:22:53.002524+09:00.accessibility.json) |
+| [August 11 at 2:44 AM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-11T02:44:38.451055+09:00.accessibility.json) |
+| [August 10 at 12:52 PM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-10T12:52:40.143903+09:00.accessibility.json) |
+| [August 10 at 11:32 AM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-10T11:32:17.923372+09:00.accessibility.json) |
+| [August 9 at 11:33 PM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-09T23:32:56.189604+09:00.accessibility.json) |
+| [August 9 at 12:37 PM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-09T12:37:04.278133+09:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 52 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 55 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,16 +525,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 11 at 5:44 AM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-11T12:44:31.131286+09:00.lighthouse.json) |
-| [August 11 at 4:23 AM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-11T11:22:53.002524+09:00.lighthouse.json) |
-| [August 10 at 7:44 PM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-11T02:44:38.451055+09:00.lighthouse.json) |
-| [August 10 at 5:52 AM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-10T12:52:40.143903+09:00.lighthouse.json) |
-| [August 10 at 4:32 AM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-10T11:32:17.923372+09:00.lighthouse.json) |
-| [August 9 at 4:33 PM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-09T23:32:56.189604+09:00.lighthouse.json) |
-| [August 9 at 5:37 AM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-09T12:37:04.278133+09:00.lighthouse.json) |
-| [August 9 at 4:21 AM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-09T11:21:31.289760+09:00.lighthouse.json) |
-| [August 8 at 4:16 PM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-08T23:16:37.937974+09:00.lighthouse.json) |
-| [August 8 at 5:51 AM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-08T12:51:43.181104+09:00.lighthouse.json) |
+| [August 12 at 6:30 PM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-12T18:30:10.760915+09:00.lighthouse.json) |
+| [August 12 at 11:02 AM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-12T11:02:04.083210+09:00.lighthouse.json) |
+| [August 12 at 2:02 AM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-12T02:02:08.533748+09:00.lighthouse.json) |
+| [August 11 at 12:44 PM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-11T12:44:31.131286+09:00.lighthouse.json) |
+| [August 11 at 11:23 AM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-11T11:22:53.002524+09:00.lighthouse.json) |
+| [August 11 at 2:44 AM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-11T02:44:38.451055+09:00.lighthouse.json) |
+| [August 10 at 12:52 PM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-10T12:52:40.143903+09:00.lighthouse.json) |
+| [August 10 at 11:32 AM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-10T11:32:17.923372+09:00.lighthouse.json) |
+| [August 9 at 11:33 PM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-09T23:32:56.189604+09:00.lighthouse.json) |
+| [August 9 at 12:37 PM](https://archive.org/download/bloombergjapan-2022/bloombergjapan-2022-08-09T12:37:04.278133+09:00.lighthouse.json) |
 
 
 

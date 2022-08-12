@@ -1,10 +1,10 @@
 {
   "conversationus-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
+    "url": "https://theconversation.com/us",
+    "job_id": "spn2-3b61fe808600c97694a496c7eb79eee59ae6568e",
+    "message": "The same snapshot had been made 24 minutes, 57 seconds ago. You can make new capture of this URL after 45 minutes."
   },
-  "created": 1660224900,
+  "created": 1660310449,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/23/items/conversationus-2022",
@@ -3417,31 +3417,195 @@
       "sha1": "9beb0ea24ce47f940e74b13440eeef74b1f609be"
     },
     {
+      "name": "conversationus-2022-08-11T13:04:10.166022-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660237455",
+      "size": "53108",
+      "md5": "fcdb369a932361af2638861dc27de3b4",
+      "crc32": "5d60c607",
+      "sha1": "9ee1b1acf58fb99a06d866ecdf999571777f4278",
+      "format": "JSON"
+    },
+    {
+      "name": "conversationus-2022-08-11T13:04:10.166022-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660237457",
+      "size": "42410",
+      "md5": "1844420dae9e4ff980398ffd853535c5",
+      "crc32": "81694465",
+      "sha1": "03bcc9245fed00c021ad2be8139a9734f4fa2755",
+      "format": "JSON"
+    },
+    {
+      "name": "conversationus-2022-08-11T13:04:10.166022-04:00.jpg",
+      "source": "original",
+      "mtime": "1660237453",
+      "size": "244725",
+      "md5": "aa6b342b10cb1d3de645fa22bc097dac",
+      "crc32": "02ce36d1",
+      "sha1": "df84c6794e2f8561b4e032a75c8d4a86ec515bf2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "conversationus-2022-08-11T13:04:10.166022-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660237459",
+      "size": "1503",
+      "md5": "783289075937633bb40e58e1974f6084",
+      "crc32": "3004ede9",
+      "sha1": "7760a78cb364c899e77f4f21e958a1c493263bc8",
+      "format": "JSON"
+    },
+    {
+      "name": "conversationus-2022-08-11T13:04:10.166022-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660237461",
+      "size": "236",
+      "md5": "5a53ce5efb26e2912052bdaab89314ba",
+      "crc32": "811efd9f",
+      "sha1": "883335846b9c185cbd7816885661415c0b00ab41",
+      "format": "JSON"
+    },
+    {
+      "name": "conversationus-2022-08-11T13:04:10.166022-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "conversationus-2022-08-11T13:04:10.166022-04:00.jpg",
+      "mtime": "1660237917",
+      "size": "10183",
+      "md5": "5b0298749487eae576232e9440919979",
+      "crc32": "9e187307",
+      "sha1": "470ea42ed46870d22585c57675b87a2d8427c277"
+    },
+    {
+      "name": "conversationus-2022-08-11T22:03:52.491921-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660269834",
+      "size": "52726",
+      "md5": "d3b055b97d45b85fb790dff72e592f32",
+      "crc32": "bceab678",
+      "sha1": "1d60daa43b5f05be3e2e110195cf7720218ea661",
+      "format": "JSON"
+    },
+    {
+      "name": "conversationus-2022-08-11T22:03:52.491921-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660269835",
+      "size": "42494",
+      "md5": "dd7e479f66d5329ed8d3284c53a1538e",
+      "crc32": "7e149dca",
+      "sha1": "9c76bd778e79002578a7da8c0838bd27f73bd6f2",
+      "format": "JSON"
+    },
+    {
+      "name": "conversationus-2022-08-11T22:03:52.491921-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660269837",
+      "size": "1504",
+      "md5": "076f4e210dbe52633a3fc84c25bc8ff8",
+      "crc32": "5e4cf21d",
+      "sha1": "862689dd6e24c21869ed1c3182c92389be5d6922",
+      "format": "JSON"
+    },
+    {
+      "name": "conversationus-2022-08-11T22:03:52.491921-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660269838",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "conversationus-2022-08-12T05:32:21.266038-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660296746",
+      "size": "52726",
+      "md5": "d3b055b97d45b85fb790dff72e592f32",
+      "crc32": "bceab678",
+      "sha1": "1d60daa43b5f05be3e2e110195cf7720218ea661",
+      "format": "JSON"
+    },
+    {
+      "name": "conversationus-2022-08-12T05:32:21.266038-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660296747",
+      "size": "42494",
+      "md5": "dd7e479f66d5329ed8d3284c53a1538e",
+      "crc32": "7e149dca",
+      "sha1": "9c76bd778e79002578a7da8c0838bd27f73bd6f2",
+      "format": "JSON"
+    },
+    {
+      "name": "conversationus-2022-08-12T05:32:21.266038-04:00.jpg",
+      "source": "original",
+      "mtime": "1660296744",
+      "size": "244725",
+      "md5": "aa6b342b10cb1d3de645fa22bc097dac",
+      "crc32": "02ce36d1",
+      "sha1": "df84c6794e2f8561b4e032a75c8d4a86ec515bf2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "conversationus-2022-08-12T05:32:21.266038-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660296749",
+      "size": "1504",
+      "md5": "df3a185505435a104578a80bbecadf9c",
+      "crc32": "a273e531",
+      "sha1": "885e93170b713aa1be5b2a6c8d4c0ea2899c04a4",
+      "format": "JSON"
+    },
+    {
+      "name": "conversationus-2022-08-12T05:32:21.266038-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660296752",
+      "size": "237",
+      "md5": "7d304a210863127d73666cbac4e98cf8",
+      "crc32": "67ad2558",
+      "sha1": "b88e19fc61d8109bb63bcecb6a710d389d84b132",
+      "format": "JSON"
+    },
+    {
+      "name": "conversationus-2022-08-12T05:32:21.266038-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "conversationus-2022-08-12T05:32:21.266038-04:00.jpg",
+      "mtime": "1660296965",
+      "size": "10183",
+      "md5": "5b0298749487eae576232e9440919979",
+      "crc32": "9e187307",
+      "sha1": "470ea42ed46870d22585c57675b87a2d8427c277"
+    },
+    {
       "name": "conversationus-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0e6e3ca09bb095cc8f06b02f3c39121f0aa4af3c",
-      "mtime": "1660185015",
-      "size": "72391",
-      "md5": "40bcaa8320289a76dbe9d5fc8ae96833",
-      "crc32": "447dd608",
-      "sha1": "5e90d9d584787e1d6e390e9b272b8321e1b81f3e",
+      "btih": "5bd715af632508b5c62edb5d150ff07c060efbb7",
+      "mtime": "1660296971",
+      "size": "75860",
+      "md5": "de7beddedb038405a70ffd5740ff8c29",
+      "crc32": "a3093a55",
+      "sha1": "5ca81e104a75c2fd314e7ca8a93aceb5d18f2cf1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "conversationus-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "403faaf850d3cc8531462d6a4287ec4c",
+      "md5": "8cbcc82f8f765f7c05218fc98238f1b5",
       "summation": "md5"
     },
     {
       "name": "conversationus-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660184734",
-      "size": "417792",
-      "md5": "e51839138f36f9902b4f0c370216e71e",
-      "crc32": "4171354f",
-      "sha1": "b351b020395e7e9fe598bbbbbd0e64bac368471e",
+      "mtime": "1660296821",
+      "size": "438272",
+      "md5": "02c19770aaf9e8399f70ec807951150a",
+      "crc32": "1783ce23",
+      "sha1": "0232b728a9230b3a20807499070fba05581a374d",
       "format": "Metadata"
     },
     {
@@ -3455,9 +3619,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 331,
-  "item_last_updated": 1660185015,
-  "item_size": 27169942,
+  "files_count": 347,
+  "item_last_updated": 1660296971,
+  "item_size": 27994851,
   "metadata": {
     "identifier": "conversationus-2022",
     "collection": [
@@ -3475,7 +3639,7 @@
     "addeddate": "2022-07-09 03:57:31"
   },
   "server": "ia801504.us.archive.org",
-  "uniq": 930216972,
+  "uniq": 1593768124,
   "workable_servers": [
     "ia801504.us.archive.org",
     "ia601504.us.archive.org"

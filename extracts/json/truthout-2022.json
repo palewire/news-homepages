@@ -1,5 +1,5 @@
 {
-  "created": 1660226105,
+  "created": 1660310785,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/35/items/truthout-2022",
@@ -3800,31 +3800,217 @@
       "sha1": "1560ffc7115ec759a83a1416481a441ebf72ae83"
     },
     {
+      "name": "truthout-2022-08-11T11:59:49.694633-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660244395",
+      "size": "32630",
+      "md5": "3967b36c5007b0fabadc93ff7d1f83a2",
+      "crc32": "f4563a14",
+      "sha1": "7842a77e30c853d16d9b470cfe3dd223c6811a97",
+      "format": "JSON"
+    },
+    {
+      "name": "truthout-2022-08-11T11:59:49.694633-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660244397",
+      "size": "23135",
+      "md5": "121dcbdf7432b1d5410a267598c700b6",
+      "crc32": "d552090d",
+      "sha1": "f3b97c488d64bf011ae1d5d0075287d5c03a9bc2",
+      "format": "JSON"
+    },
+    {
+      "name": "truthout-2022-08-11T11:59:49.694633-07:00.jpg",
+      "source": "original",
+      "mtime": "1660244393",
+      "size": "239664",
+      "md5": "e5875116b3215c85a6c937bec40f95e5",
+      "crc32": "65321c93",
+      "sha1": "de4e7fb8ae6a95bc82d2488e391b0dc874a99d88",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "truthout-2022-08-11T11:59:49.694633-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660244398",
+      "size": "1432",
+      "md5": "77b24e7c0d98760dbd821eaf7c0336df",
+      "crc32": "741502af",
+      "sha1": "f7da43b794f825f9fe73cea47667dc985a5f8969",
+      "format": "JSON"
+    },
+    {
+      "name": "truthout-2022-08-11T11:59:49.694633-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660244400",
+      "size": "11210",
+      "md5": "d9c09d1b05b403c39782f744cdeffec5",
+      "crc32": "f4ee93ed",
+      "sha1": "9a2a15003feeb561772d1fe3e04621346571aaa7",
+      "format": "JSON"
+    },
+    {
+      "name": "truthout-2022-08-11T11:59:49.694633-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "truthout-2022-08-11T11:59:49.694633-07:00.jpg",
+      "mtime": "1660244557",
+      "size": "9755",
+      "md5": "2e8de5717acbebc0ac1190edc8f8e2d5",
+      "crc32": "9f3d1d62",
+      "sha1": "b1b26d487f8ba6f016fe8b85556ce7c81d5146b3"
+    },
+    {
+      "name": "truthout-2022-08-11T12:44:11.613829-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660247054",
+      "size": "32734",
+      "md5": "4d4b9b313e77b0e28a98a08a96904fbf",
+      "crc32": "0cb150ee",
+      "sha1": "3e5231ff6cab683b2cc42a4ac0b956e77279b0e1",
+      "format": "JSON"
+    },
+    {
+      "name": "truthout-2022-08-11T12:44:11.613829-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660247056",
+      "size": "23192",
+      "md5": "3f756e6f8841eaa0bd6b71ca9f1ed034",
+      "crc32": "d3b18901",
+      "sha1": "dbaa65525da95b46fecf0af8ec1b9ba9ee3ef4f0",
+      "format": "JSON"
+    },
+    {
+      "name": "truthout-2022-08-11T12:44:11.613829-07:00.jpg",
+      "source": "original",
+      "mtime": "1660247052",
+      "size": "244105",
+      "md5": "7b5b3a5d7d4c5879a16cc5332c190d16",
+      "crc32": "d53b8d44",
+      "sha1": "1a05dad237573dee79e0048b715fd52813925ece",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "truthout-2022-08-11T12:44:11.613829-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660247057",
+      "size": "1428",
+      "md5": "180d18274113823bf0b5ebfc9f92bff2",
+      "crc32": "c8dbdf70",
+      "sha1": "7b1d2dd1666924ac4543d02ceb6b7418083c7f86",
+      "format": "JSON"
+    },
+    {
+      "name": "truthout-2022-08-11T12:44:11.613829-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660247059",
+      "size": "339",
+      "md5": "65be67c70224472d259101557e704edb",
+      "crc32": "41fa0111",
+      "sha1": "4c8e325013a23a427d89c3cb7462f454adf7b528",
+      "format": "JSON"
+    },
+    {
+      "name": "truthout-2022-08-11T12:44:11.613829-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "truthout-2022-08-11T12:44:11.613829-07:00.jpg",
+      "mtime": "1660247223",
+      "size": "9810",
+      "md5": "d4dc4f49fe53febf1406005288279833",
+      "crc32": "e1c69d0c",
+      "sha1": "fe6dd8d91f1093d1ef33c8f0fdfa93f09ca5f595"
+    },
+    {
+      "name": "truthout-2022-08-12T02:50:27.723661-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660297830",
+      "size": "32743",
+      "md5": "4336a62b80efdbd30286fdc7ba0d8dcb",
+      "crc32": "3f633e30",
+      "sha1": "e02bf195abebd683f7644bed6809dd479daf9251",
+      "format": "JSON"
+    },
+    {
+      "name": "truthout-2022-08-12T02:50:27.723661-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660297831",
+      "size": "23184",
+      "md5": "beba1e79f0e36875966b89a5723ed31d",
+      "crc32": "121ffbb7",
+      "sha1": "61dd538906b785ca779abf332f924eaae129e7e6",
+      "format": "JSON"
+    },
+    {
+      "name": "truthout-2022-08-12T02:50:27.723661-07:00.jpg",
+      "source": "original",
+      "mtime": "1660297828",
+      "size": "201978",
+      "md5": "094f201a6f8ad2bbaf53f3bdf146e4e4",
+      "crc32": "7409b496",
+      "sha1": "60174637f7b39c49072e7eab7180c8898b47e8e5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "truthout-2022-08-12T02:50:27.723661-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660297833",
+      "size": "1431",
+      "md5": "872e7102f2292b17bfdf41756eb7cd39",
+      "crc32": "8bdc296b",
+      "sha1": "fae1956880bb52014a075bbeaf7373c2476ee879",
+      "format": "JSON"
+    },
+    {
+      "name": "truthout-2022-08-12T02:50:27.723661-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660297834",
+      "size": "11294",
+      "md5": "8e6bd4a97524c8624fbac427d415c28b",
+      "crc32": "af67fcc5",
+      "sha1": "358b85633b98ee7955372fbbdd21c5c05e9bf868",
+      "format": "JSON"
+    },
+    {
+      "name": "truthout-2022-08-12T02:50:27.723661-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "truthout-2022-08-12T02:50:27.723661-07:00.jpg",
+      "mtime": "1660297972",
+      "size": "8383",
+      "md5": "4dc8d3f5dc7f8393fd097a12c597431a",
+      "crc32": "3000d9aa",
+      "sha1": "1dd906c010288d43c7248c1695949ef4b8b36efa"
+    },
+    {
       "name": "truthout-2022_archive.torrent",
       "source": "metadata",
-      "btih": "54d344174dec04d09e2e7cd7fd504bc8f048f465",
-      "mtime": "1660196377",
-      "size": "78160",
-      "md5": "e24305da9c2ecba0f14a96e302bd0813",
-      "crc32": "940e303c",
-      "sha1": "26d4a9753506d14e501011f720657e3315db84aa",
+      "btih": "e5fc9c5d55f9cab612b6272cac6a7755d5e058a2",
+      "mtime": "1660297981",
+      "size": "81939",
+      "md5": "4ab58f59212c418a36c06a993833b414",
+      "crc32": "3b254775",
+      "sha1": "f36b463f8a3875ae47b1cfb29293712b44849d3e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "truthout-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "50045002c4744e7676761735c2356fb3",
+      "md5": "ed13e3cf8fa40cc89da60116486cf4a4",
       "summation": "md5"
     },
     {
       "name": "truthout-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660195769",
-      "size": "466944",
-      "md5": "e450c40cfcf4278881acab908b38ee35",
-      "crc32": "06b78a3b",
-      "sha1": "9a65c6fb741709b38631c8b88141a91411686fa2",
+      "mtime": "1660297839",
+      "size": "487424",
+      "md5": "7a23f74dff0b2c2df07750cb6fa6f228",
+      "crc32": "eef0c677",
+      "sha1": "95b50b944a0b7ce3a13b484201c84105a7cf52d9",
       "format": "Metadata"
     },
     {
@@ -3838,9 +4024,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 369,
-  "item_last_updated": 1660196377,
-  "item_size": 24193712,
+  "files_count": 387,
+  "item_last_updated": 1660297981,
+  "item_size": 25126418,
   "metadata": {
     "identifier": "truthout-2022",
     "collection": [
@@ -3857,15 +4043,10 @@
     "publicdate": "2022-07-17 15:59:53",
     "addeddate": "2022-07-17 15:59:53"
   },
-  "server": "ia902507.us.archive.org",
-  "truthout-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "uniq": 251248226,
+  "server": "ia802507.us.archive.org",
+  "uniq": 2059061544,
   "workable_servers": [
-    "ia902507.us.archive.org",
-    "ia802507.us.archive.org"
+    "ia802507.us.archive.org",
+    "ia902507.us.archive.org"
   ]
 }

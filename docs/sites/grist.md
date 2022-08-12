@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 67 screenshots with the Internet Archive.
+The archiving routine has saved 69 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/grist-2022/grist-2022-08-10T20:52:47.905076-07:00.jpg">
-  <img src="https://archive.org/download/grist-2022/grist-2022-08-10T20:52:47.905076-07:00.jpg"
-     alt="Grist at 2022-08-10 13:52:49-07:00 local time"
+ <a href="https://archive.org/download/grist-2022/grist-2022-08-12T02:59:35.920026-07:00.jpg">
+  <img src="https://archive.org/download/grist-2022/grist-2022-08-12T02:59:35.920026-07:00.jpg"
+     alt="Grist at 2022-08-12 02:59:38-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/grist-2022/grist-2022-08-10T20:52:47.905076-07:00.jpg">August 10 at 1:52 PM</a></p>
+ <p><a href="https://archive.org/download/grist-2022/grist-2022-08-12T02:59:35.920026-07:00.jpg">August 12 at 2:59 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/grist-2022/grist-2022-08-11T11:40:24.445083-07:00.jpg">
+  <img src="https://archive.org/download/grist-2022/grist-2022-08-11T11:40:24.445083-07:00.jpg"
+     alt="Grist at 2022-08-11 11:40:36-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/grist-2022/grist-2022-08-11T11:40:24.445083-07:00.jpg">August 11 at 11:40 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/grist-2022/grist-2022-08-10T20:52:47.905076-07:00.jpg">
+  <img src="https://archive.org/download/grist-2022/grist-2022-08-10T20:52:47.905076-07:00.jpg"
+     alt="Grist at 2022-08-10 20:52:49-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/grist-2022/grist-2022-08-10T20:52:47.905076-07:00.jpg">August 10 at 8:52 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/grist-2022/grist-2022-08-10T11:05:13.841317-07:00.jpg">
   <img src="https://archive.org/download/grist-2022/grist-2022-08-10T11:05:13.841317-07:00.jpg"
-     alt="Grist at 2022-08-10 04:05:17-07:00 local time"
+     alt="Grist at 2022-08-10 11:05:17-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/grist-2022/grist-2022-08-10T11:05:13.841317-07:00.jpg">August 10 at 4:05 AM</a></p>
+ <p><a href="https://archive.org/download/grist-2022/grist-2022-08-10T11:05:13.841317-07:00.jpg">August 10 at 11:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/grist-2022/grist-2022-08-09T21:00:55.265043-07:00.jpg">
   <img src="https://archive.org/download/grist-2022/grist-2022-08-09T21:00:55.265043-07:00.jpg"
-     alt="Grist at 2022-08-09 14:00:56-07:00 local time"
+     alt="Grist at 2022-08-09 21:00:56-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/grist-2022/grist-2022-08-09T21:00:55.265043-07:00.jpg">August 9 at 2:00 PM</a></p>
+ <p><a href="https://archive.org/download/grist-2022/grist-2022-08-09T21:00:55.265043-07:00.jpg">August 9 at 9:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/grist-2022/grist-2022-08-09T10:25:11.113572-07:00.jpg">
   <img src="https://archive.org/download/grist-2022/grist-2022-08-09T10:25:11.113572-07:00.jpg"
-     alt="Grist at 2022-08-09 03:25:13-07:00 local time"
+     alt="Grist at 2022-08-09 10:25:13-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/grist-2022/grist-2022-08-09T10:25:11.113572-07:00.jpg">August 9 at 3:25 AM</a></p>
+ <p><a href="https://archive.org/download/grist-2022/grist-2022-08-09T10:25:11.113572-07:00.jpg">August 9 at 10:25 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/grist-2022/grist-2022-08-08T20:44:53.236775-07:00.jpg">
   <img src="https://archive.org/download/grist-2022/grist-2022-08-08T20:44:53.236775-07:00.jpg"
-     alt="Grist at 2022-08-08 13:44:55-07:00 local time"
+     alt="Grist at 2022-08-08 20:44:55-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/grist-2022/grist-2022-08-08T20:44:53.236775-07:00.jpg">August 8 at 1:44 PM</a></p>
+ <p><a href="https://archive.org/download/grist-2022/grist-2022-08-08T20:44:53.236775-07:00.jpg">August 8 at 8:44 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/grist-2022/grist-2022-08-08T10:01:31.444274-07:00.jpg">
   <img src="https://archive.org/download/grist-2022/grist-2022-08-08T10:01:31.444274-07:00.jpg"
-     alt="Grist at 2022-08-08 03:01:34-07:00 local time"
+     alt="Grist at 2022-08-08 10:01:34-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/grist-2022/grist-2022-08-08T10:01:31.444274-07:00.jpg">August 8 at 3:01 AM</a></p>
+ <p><a href="https://archive.org/download/grist-2022/grist-2022-08-08T10:01:31.444274-07:00.jpg">August 8 at 10:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/grist-2022/grist-2022-08-07T22:09:31.287544-07:00.jpg">
   <img src="https://archive.org/download/grist-2022/grist-2022-08-07T22:09:31.287544-07:00.jpg"
-     alt="Grist at 2022-08-07 15:09:32-07:00 local time"
+     alt="Grist at 2022-08-07 22:09:32-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/grist-2022/grist-2022-08-07T22:09:31.287544-07:00.jpg">August 7 at 3:09 PM</a></p>
+ <p><a href="https://archive.org/download/grist-2022/grist-2022-08-07T22:09:31.287544-07:00.jpg">August 7 at 10:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/grist-2022/grist-2022-08-07T09:49:14.949189-07:00.jpg">
   <img src="https://archive.org/download/grist-2022/grist-2022-08-07T09:49:14.949189-07:00.jpg"
-     alt="Grist at 2022-08-07 02:49:16-07:00 local time"
+     alt="Grist at 2022-08-07 09:49:16-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/grist-2022/grist-2022-08-07T09:49:14.949189-07:00.jpg">August 7 at 2:49 AM</a></p>
+ <p><a href="https://archive.org/download/grist-2022/grist-2022-08-07T09:49:14.949189-07:00.jpg">August 7 at 9:49 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/grist-2022/grist-2022-08-06T20:24:02.561644-07:00.jpg">
   <img src="https://archive.org/download/grist-2022/grist-2022-08-06T20:24:02.561644-07:00.jpg"
-     alt="Grist at 2022-08-06 13:24:04-07:00 local time"
+     alt="Grist at 2022-08-06 20:24:04-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/grist-2022/grist-2022-08-06T20:24:02.561644-07:00.jpg">August 6 at 1:24 PM</a></p>
+ <p><a href="https://archive.org/download/grist-2022/grist-2022-08-06T20:24:02.561644-07:00.jpg">August 6 at 8:24 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/grist-2022/grist-2022-08-06T09:12:42.086653-07:00.jpg">
   <img src="https://archive.org/download/grist-2022/grist-2022-08-06T09:12:42.086653-07:00.jpg"
-     alt="Grist at 2022-08-06 02:12:44-07:00 local time"
+     alt="Grist at 2022-08-06 09:12:44-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/grist-2022/grist-2022-08-06T09:12:42.086653-07:00.jpg">August 6 at 2:12 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/grist-2022/grist-2022-08-05T21:50:36.261620-07:00.jpg">
-  <img src="https://archive.org/download/grist-2022/grist-2022-08-05T21:50:36.261620-07:00.jpg"
-     alt="Grist at 2022-08-05 14:50:38-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/grist-2022/grist-2022-08-05T21:50:36.261620-07:00.jpg">August 5 at 2:50 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/grist-2022/grist-2022-08-05T10:23:01.778352-07:00.jpg">
-  <img src="https://archive.org/download/grist-2022/grist-2022-08-05T10:23:01.778352-07:00.jpg"
-     alt="Grist at 2022-08-05 03:23:04-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/grist-2022/grist-2022-08-05T10:23:01.778352-07:00.jpg">August 5 at 3:23 AM</a></p>
+ <p><a href="https://archive.org/download/grist-2022/grist-2022-08-06T09:12:42.086653-07:00.jpg">August 6 at 9:12 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 67 hyperlink lists with the Internet Archive.
+The archiving routine has saved 69 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 10 at 1:52 PM](https://archive.org/download/grist-2022/grist-2022-08-10T20:52:47.905076-07:00.hyperlinks.json) |
-| [August 10 at 4:05 AM](https://archive.org/download/grist-2022/grist-2022-08-10T11:05:13.841317-07:00.hyperlinks.json) |
-| [August 9 at 2:01 PM](https://archive.org/download/grist-2022/grist-2022-08-09T21:00:55.265043-07:00.hyperlinks.json) |
-| [August 9 at 3:25 AM](https://archive.org/download/grist-2022/grist-2022-08-09T10:25:11.113572-07:00.hyperlinks.json) |
-| [August 8 at 1:44 PM](https://archive.org/download/grist-2022/grist-2022-08-08T20:44:53.236775-07:00.hyperlinks.json) |
-| [August 8 at 3:01 AM](https://archive.org/download/grist-2022/grist-2022-08-08T10:01:31.444274-07:00.hyperlinks.json) |
-| [August 7 at 3:09 PM](https://archive.org/download/grist-2022/grist-2022-08-07T22:09:31.287544-07:00.hyperlinks.json) |
-| [August 7 at 2:49 AM](https://archive.org/download/grist-2022/grist-2022-08-07T09:49:14.949189-07:00.hyperlinks.json) |
-| [August 6 at 1:24 PM](https://archive.org/download/grist-2022/grist-2022-08-06T20:24:02.561644-07:00.hyperlinks.json) |
-| [August 6 at 2:12 AM](https://archive.org/download/grist-2022/grist-2022-08-06T09:12:42.086653-07:00.hyperlinks.json) |
+| [August 12 at 2:59 AM](https://archive.org/download/grist-2022/grist-2022-08-12T02:59:35.920026-07:00.hyperlinks.json) |
+| [August 11 at 11:40 AM](https://archive.org/download/grist-2022/grist-2022-08-11T11:40:24.445083-07:00.hyperlinks.json) |
+| [August 10 at 8:52 PM](https://archive.org/download/grist-2022/grist-2022-08-10T20:52:47.905076-07:00.hyperlinks.json) |
+| [August 10 at 11:05 AM](https://archive.org/download/grist-2022/grist-2022-08-10T11:05:13.841317-07:00.hyperlinks.json) |
+| [August 9 at 9:01 PM](https://archive.org/download/grist-2022/grist-2022-08-09T21:00:55.265043-07:00.hyperlinks.json) |
+| [August 9 at 10:25 AM](https://archive.org/download/grist-2022/grist-2022-08-09T10:25:11.113572-07:00.hyperlinks.json) |
+| [August 8 at 8:44 PM](https://archive.org/download/grist-2022/grist-2022-08-08T20:44:53.236775-07:00.hyperlinks.json) |
+| [August 8 at 10:01 AM](https://archive.org/download/grist-2022/grist-2022-08-08T10:01:31.444274-07:00.hyperlinks.json) |
+| [August 7 at 10:09 PM](https://archive.org/download/grist-2022/grist-2022-08-07T22:09:31.287544-07:00.hyperlinks.json) |
+| [August 7 at 9:49 AM](https://archive.org/download/grist-2022/grist-2022-08-07T09:49:14.949189-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 67 accessibility trees with the Internet Archive.
+The archiving routine has saved 69 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,22 +419,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 10 at 1:52 PM](https://archive.org/download/grist-2022/grist-2022-08-10T20:52:47.905076-07:00.accessibility.json) |
-| [August 10 at 4:05 AM](https://archive.org/download/grist-2022/grist-2022-08-10T11:05:13.841317-07:00.accessibility.json) |
-| [August 9 at 2:00 PM](https://archive.org/download/grist-2022/grist-2022-08-09T21:00:55.265043-07:00.accessibility.json) |
-| [August 9 at 3:25 AM](https://archive.org/download/grist-2022/grist-2022-08-09T10:25:11.113572-07:00.accessibility.json) |
-| [August 8 at 1:44 PM](https://archive.org/download/grist-2022/grist-2022-08-08T20:44:53.236775-07:00.accessibility.json) |
-| [August 8 at 3:01 AM](https://archive.org/download/grist-2022/grist-2022-08-08T10:01:31.444274-07:00.accessibility.json) |
-| [August 7 at 3:09 PM](https://archive.org/download/grist-2022/grist-2022-08-07T22:09:31.287544-07:00.accessibility.json) |
-| [August 7 at 2:49 AM](https://archive.org/download/grist-2022/grist-2022-08-07T09:49:14.949189-07:00.accessibility.json) |
-| [August 6 at 1:24 PM](https://archive.org/download/grist-2022/grist-2022-08-06T20:24:02.561644-07:00.accessibility.json) |
-| [August 6 at 2:12 AM](https://archive.org/download/grist-2022/grist-2022-08-06T09:12:42.086653-07:00.accessibility.json) |
+| [August 12 at 2:59 AM](https://archive.org/download/grist-2022/grist-2022-08-12T02:59:35.920026-07:00.accessibility.json) |
+| [August 11 at 11:40 AM](https://archive.org/download/grist-2022/grist-2022-08-11T11:40:24.445083-07:00.accessibility.json) |
+| [August 10 at 8:52 PM](https://archive.org/download/grist-2022/grist-2022-08-10T20:52:47.905076-07:00.accessibility.json) |
+| [August 10 at 11:05 AM](https://archive.org/download/grist-2022/grist-2022-08-10T11:05:13.841317-07:00.accessibility.json) |
+| [August 9 at 9:00 PM](https://archive.org/download/grist-2022/grist-2022-08-09T21:00:55.265043-07:00.accessibility.json) |
+| [August 9 at 10:25 AM](https://archive.org/download/grist-2022/grist-2022-08-09T10:25:11.113572-07:00.accessibility.json) |
+| [August 8 at 8:44 PM](https://archive.org/download/grist-2022/grist-2022-08-08T20:44:53.236775-07:00.accessibility.json) |
+| [August 8 at 10:01 AM](https://archive.org/download/grist-2022/grist-2022-08-08T10:01:31.444274-07:00.accessibility.json) |
+| [August 7 at 10:09 PM](https://archive.org/download/grist-2022/grist-2022-08-07T22:09:31.287544-07:00.accessibility.json) |
+| [August 7 at 9:49 AM](https://archive.org/download/grist-2022/grist-2022-08-07T09:49:14.949189-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 37 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 39 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,16 +525,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 10 at 1:52 PM](https://archive.org/download/grist-2022/grist-2022-08-10T20:52:47.905076-07:00.lighthouse.json) |
-| [August 10 at 4:05 AM](https://archive.org/download/grist-2022/grist-2022-08-10T11:05:13.841317-07:00.lighthouse.json) |
-| [August 9 at 2:01 PM](https://archive.org/download/grist-2022/grist-2022-08-09T21:00:55.265043-07:00.lighthouse.json) |
-| [August 9 at 3:25 AM](https://archive.org/download/grist-2022/grist-2022-08-09T10:25:11.113572-07:00.lighthouse.json) |
-| [August 8 at 1:45 PM](https://archive.org/download/grist-2022/grist-2022-08-08T20:44:53.236775-07:00.lighthouse.json) |
-| [August 8 at 3:01 AM](https://archive.org/download/grist-2022/grist-2022-08-08T10:01:31.444274-07:00.lighthouse.json) |
-| [August 7 at 3:09 PM](https://archive.org/download/grist-2022/grist-2022-08-07T22:09:31.287544-07:00.lighthouse.json) |
-| [August 7 at 2:49 AM](https://archive.org/download/grist-2022/grist-2022-08-07T09:49:14.949189-07:00.lighthouse.json) |
-| [August 6 at 1:24 PM](https://archive.org/download/grist-2022/grist-2022-08-06T20:24:02.561644-07:00.lighthouse.json) |
-| [August 6 at 2:12 AM](https://archive.org/download/grist-2022/grist-2022-08-06T09:12:42.086653-07:00.lighthouse.json) |
+| [August 12 at 2:59 AM](https://archive.org/download/grist-2022/grist-2022-08-12T02:59:35.920026-07:00.lighthouse.json) |
+| [August 11 at 11:40 AM](https://archive.org/download/grist-2022/grist-2022-08-11T11:40:24.445083-07:00.lighthouse.json) |
+| [August 10 at 8:52 PM](https://archive.org/download/grist-2022/grist-2022-08-10T20:52:47.905076-07:00.lighthouse.json) |
+| [August 10 at 11:05 AM](https://archive.org/download/grist-2022/grist-2022-08-10T11:05:13.841317-07:00.lighthouse.json) |
+| [August 9 at 9:01 PM](https://archive.org/download/grist-2022/grist-2022-08-09T21:00:55.265043-07:00.lighthouse.json) |
+| [August 9 at 10:25 AM](https://archive.org/download/grist-2022/grist-2022-08-09T10:25:11.113572-07:00.lighthouse.json) |
+| [August 8 at 8:45 PM](https://archive.org/download/grist-2022/grist-2022-08-08T20:44:53.236775-07:00.lighthouse.json) |
+| [August 8 at 10:01 AM](https://archive.org/download/grist-2022/grist-2022-08-08T10:01:31.444274-07:00.lighthouse.json) |
+| [August 7 at 10:09 PM](https://archive.org/download/grist-2022/grist-2022-08-07T22:09:31.287544-07:00.lighthouse.json) |
+| [August 7 at 9:49 AM](https://archive.org/download/grist-2022/grist-2022-08-07T09:49:14.949189-07:00.lighthouse.json) |
 
 
 
