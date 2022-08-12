@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 226 screenshots with the Internet Archive.
+The archiving routine has saved 228 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/startribune-2022/startribune-2022-08-10T21:25:33.002565-05:00.jpg">
-  <img src="https://archive.org/download/startribune-2022/startribune-2022-08-10T21:25:33.002565-05:00.jpg"
-     alt="Minneapolis Star Tribune at 2022-08-10 14:25:34-05:00 local time"
+ <a href="https://archive.org/download/startribune-2022/startribune-2022-08-12T04:32:46.015457-05:00.jpg">
+  <img src="https://archive.org/download/startribune-2022/startribune-2022-08-12T04:32:46.015457-05:00.jpg"
+     alt="Minneapolis Star Tribune at 2022-08-12 04:32:53-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/startribune-2022/startribune-2022-08-10T21:25:33.002565-05:00.jpg">August 10 at 2:25 PM</a></p>
+ <p><a href="https://archive.org/download/startribune-2022/startribune-2022-08-12T04:32:46.015457-05:00.jpg">August 12 at 4:32 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/startribune-2022/startribune-2022-08-11T12:06:03.612915-05:00.jpg">
+  <img src="https://archive.org/download/startribune-2022/startribune-2022-08-11T12:06:03.612915-05:00.jpg"
+     alt="Minneapolis Star Tribune at 2022-08-11 12:06:09-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/startribune-2022/startribune-2022-08-11T12:06:03.612915-05:00.jpg">August 11 at 12:06 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/startribune-2022/startribune-2022-08-10T21:25:33.002565-05:00.jpg">
+  <img src="https://archive.org/download/startribune-2022/startribune-2022-08-10T21:25:33.002565-05:00.jpg"
+     alt="Minneapolis Star Tribune at 2022-08-10 21:25:34-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/startribune-2022/startribune-2022-08-10T21:25:33.002565-05:00.jpg">August 10 at 9:25 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/startribune-2022/startribune-2022-08-10T12:47:28.758072-05:00.jpg">
   <img src="https://archive.org/download/startribune-2022/startribune-2022-08-10T12:47:28.758072-05:00.jpg"
-     alt="Minneapolis Star Tribune at 2022-08-10 05:47:34-05:00 local time"
+     alt="Minneapolis Star Tribune at 2022-08-10 12:47:34-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/startribune-2022/startribune-2022-08-10T12:47:28.758072-05:00.jpg">August 10 at 5:47 AM</a></p>
+ <p><a href="https://archive.org/download/startribune-2022/startribune-2022-08-10T12:47:28.758072-05:00.jpg">August 10 at 12:47 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/startribune-2022/startribune-2022-08-09T21:35:39.949117-05:00.jpg">
   <img src="https://archive.org/download/startribune-2022/startribune-2022-08-09T21:35:39.949117-05:00.jpg"
-     alt="Minneapolis Star Tribune at 2022-08-09 14:35:41-05:00 local time"
+     alt="Minneapolis Star Tribune at 2022-08-09 21:35:41-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/startribune-2022/startribune-2022-08-09T21:35:39.949117-05:00.jpg">August 9 at 2:35 PM</a></p>
+ <p><a href="https://archive.org/download/startribune-2022/startribune-2022-08-09T21:35:39.949117-05:00.jpg">August 9 at 9:35 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/startribune-2022/startribune-2022-08-09T09:37:17.473058-05:00.jpg">
   <img src="https://archive.org/download/startribune-2022/startribune-2022-08-09T09:37:17.473058-05:00.jpg"
-     alt="Minneapolis Star Tribune at 2022-08-09 02:37:21-05:00 local time"
+     alt="Minneapolis Star Tribune at 2022-08-09 09:37:21-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/startribune-2022/startribune-2022-08-09T09:37:17.473058-05:00.jpg">August 9 at 2:37 AM</a></p>
+ <p><a href="https://archive.org/download/startribune-2022/startribune-2022-08-09T09:37:17.473058-05:00.jpg">August 9 at 9:37 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/startribune-2022/startribune-2022-08-08T21:23:11.956494-05:00.jpg">
   <img src="https://archive.org/download/startribune-2022/startribune-2022-08-08T21:23:11.956494-05:00.jpg"
-     alt="Minneapolis Star Tribune at 2022-08-08 14:23:13-05:00 local time"
+     alt="Minneapolis Star Tribune at 2022-08-08 21:23:13-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/startribune-2022/startribune-2022-08-08T21:23:11.956494-05:00.jpg">August 8 at 2:23 PM</a></p>
+ <p><a href="https://archive.org/download/startribune-2022/startribune-2022-08-08T21:23:11.956494-05:00.jpg">August 8 at 9:23 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/startribune-2022/startribune-2022-08-08T09:22:18.338091-05:00.jpg">
   <img src="https://archive.org/download/startribune-2022/startribune-2022-08-08T09:22:18.338091-05:00.jpg"
-     alt="Minneapolis Star Tribune at 2022-08-08 02:22:20-05:00 local time"
+     alt="Minneapolis Star Tribune at 2022-08-08 09:22:20-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/startribune-2022/startribune-2022-08-08T09:22:18.338091-05:00.jpg">August 8 at 2:22 AM</a></p>
+ <p><a href="https://archive.org/download/startribune-2022/startribune-2022-08-08T09:22:18.338091-05:00.jpg">August 8 at 9:22 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/startribune-2022/startribune-2022-08-07T21:33:24.313345-05:00.jpg">
   <img src="https://archive.org/download/startribune-2022/startribune-2022-08-07T21:33:24.313345-05:00.jpg"
-     alt="Minneapolis Star Tribune at 2022-08-07 14:33:28-05:00 local time"
+     alt="Minneapolis Star Tribune at 2022-08-07 21:33:28-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/startribune-2022/startribune-2022-08-07T21:33:24.313345-05:00.jpg">August 7 at 2:33 PM</a></p>
+ <p><a href="https://archive.org/download/startribune-2022/startribune-2022-08-07T21:33:24.313345-05:00.jpg">August 7 at 9:33 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/startribune-2022/startribune-2022-08-07T09:04:23.488091-05:00.jpg">
   <img src="https://archive.org/download/startribune-2022/startribune-2022-08-07T09:04:23.488091-05:00.jpg"
-     alt="Minneapolis Star Tribune at 2022-08-07 02:04:25-05:00 local time"
+     alt="Minneapolis Star Tribune at 2022-08-07 09:04:25-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/startribune-2022/startribune-2022-08-07T09:04:23.488091-05:00.jpg">August 7 at 2:04 AM</a></p>
+ <p><a href="https://archive.org/download/startribune-2022/startribune-2022-08-07T09:04:23.488091-05:00.jpg">August 7 at 9:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/startribune-2022/startribune-2022-08-06T22:09:06.495508-05:00.jpg">
   <img src="https://archive.org/download/startribune-2022/startribune-2022-08-06T22:09:06.495508-05:00.jpg"
-     alt="Minneapolis Star Tribune at 2022-08-06 15:09:07-05:00 local time"
+     alt="Minneapolis Star Tribune at 2022-08-06 22:09:07-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/startribune-2022/startribune-2022-08-06T22:09:06.495508-05:00.jpg">August 6 at 3:09 PM</a></p>
+ <p><a href="https://archive.org/download/startribune-2022/startribune-2022-08-06T22:09:06.495508-05:00.jpg">August 6 at 10:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/startribune-2022/startribune-2022-08-06T08:55:02.982456-05:00.jpg">
   <img src="https://archive.org/download/startribune-2022/startribune-2022-08-06T08:55:02.982456-05:00.jpg"
-     alt="Minneapolis Star Tribune at 2022-08-06 01:55:04-05:00 local time"
+     alt="Minneapolis Star Tribune at 2022-08-06 08:55:04-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/startribune-2022/startribune-2022-08-06T08:55:02.982456-05:00.jpg">August 6 at 1:55 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/startribune-2022/startribune-2022-08-05T21:21:26.395734-05:00.jpg">
-  <img src="https://archive.org/download/startribune-2022/startribune-2022-08-05T21:21:26.395734-05:00.jpg"
-     alt="Minneapolis Star Tribune at 2022-08-05 14:21:28-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/startribune-2022/startribune-2022-08-05T21:21:26.395734-05:00.jpg">August 5 at 2:21 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/startribune-2022/startribune-2022-08-05T12:31:56.908836-05:00.jpg">
-  <img src="https://archive.org/download/startribune-2022/startribune-2022-08-05T12:31:56.908836-05:00.jpg"
-     alt="Minneapolis Star Tribune at 2022-08-05 05:32:01-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/startribune-2022/startribune-2022-08-05T12:31:56.908836-05:00.jpg">August 5 at 5:32 AM</a></p>
+ <p><a href="https://archive.org/download/startribune-2022/startribune-2022-08-06T08:55:02.982456-05:00.jpg">August 6 at 8:55 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 221 hyperlink lists with the Internet Archive.
+The archiving routine has saved 224 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 10 at 2:25 PM](https://archive.org/download/startribune-2022/startribune-2022-08-10T21:25:33.002565-05:00.hyperlinks.json) |
-| [August 10 at 5:47 AM](https://archive.org/download/startribune-2022/startribune-2022-08-10T12:47:28.758072-05:00.hyperlinks.json) |
-| [August 9 at 2:35 PM](https://archive.org/download/startribune-2022/startribune-2022-08-09T21:35:39.949117-05:00.hyperlinks.json) |
-| [August 9 at 2:37 AM](https://archive.org/download/startribune-2022/startribune-2022-08-09T09:37:17.473058-05:00.hyperlinks.json) |
-| [August 8 at 2:23 PM](https://archive.org/download/startribune-2022/startribune-2022-08-08T21:23:11.956494-05:00.hyperlinks.json) |
-| [August 8 at 2:22 AM](https://archive.org/download/startribune-2022/startribune-2022-08-08T09:22:18.338091-05:00.hyperlinks.json) |
-| [August 7 at 2:33 PM](https://archive.org/download/startribune-2022/startribune-2022-08-07T21:33:24.313345-05:00.hyperlinks.json) |
-| [August 7 at 2:04 AM](https://archive.org/download/startribune-2022/startribune-2022-08-07T09:04:23.488091-05:00.hyperlinks.json) |
-| [August 6 at 3:09 PM](https://archive.org/download/startribune-2022/startribune-2022-08-06T22:09:06.495508-05:00.hyperlinks.json) |
-| [August 6 at 1:55 AM](https://archive.org/download/startribune-2022/startribune-2022-08-06T08:55:02.982456-05:00.hyperlinks.json) |
+| [August 12 at 4:32 AM](https://archive.org/download/startribune-2022/startribune-2022-08-12T04:32:46.015457-05:00.hyperlinks.json) |
+| [August 11 at 9:04 PM](https://archive.org/download/startribune-2022/startribune-2022-08-11T21:04:55.035120-05:00.hyperlinks.json) |
+| [August 11 at 12:06 PM](https://archive.org/download/startribune-2022/startribune-2022-08-11T12:06:03.612915-05:00.hyperlinks.json) |
+| [August 10 at 9:25 PM](https://archive.org/download/startribune-2022/startribune-2022-08-10T21:25:33.002565-05:00.hyperlinks.json) |
+| [August 10 at 12:47 PM](https://archive.org/download/startribune-2022/startribune-2022-08-10T12:47:28.758072-05:00.hyperlinks.json) |
+| [August 9 at 9:35 PM](https://archive.org/download/startribune-2022/startribune-2022-08-09T21:35:39.949117-05:00.hyperlinks.json) |
+| [August 9 at 9:37 AM](https://archive.org/download/startribune-2022/startribune-2022-08-09T09:37:17.473058-05:00.hyperlinks.json) |
+| [August 8 at 9:23 PM](https://archive.org/download/startribune-2022/startribune-2022-08-08T21:23:11.956494-05:00.hyperlinks.json) |
+| [August 8 at 9:22 AM](https://archive.org/download/startribune-2022/startribune-2022-08-08T09:22:18.338091-05:00.hyperlinks.json) |
+| [August 7 at 9:33 PM](https://archive.org/download/startribune-2022/startribune-2022-08-07T21:33:24.313345-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 225 accessibility trees with the Internet Archive.
+The archiving routine has saved 228 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,22 +419,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 10 at 2:25 PM](https://archive.org/download/startribune-2022/startribune-2022-08-10T21:25:33.002565-05:00.accessibility.json) |
-| [August 10 at 5:47 AM](https://archive.org/download/startribune-2022/startribune-2022-08-10T12:47:28.758072-05:00.accessibility.json) |
-| [August 9 at 2:35 PM](https://archive.org/download/startribune-2022/startribune-2022-08-09T21:35:39.949117-05:00.accessibility.json) |
-| [August 9 at 2:37 AM](https://archive.org/download/startribune-2022/startribune-2022-08-09T09:37:17.473058-05:00.accessibility.json) |
-| [August 8 at 2:23 PM](https://archive.org/download/startribune-2022/startribune-2022-08-08T21:23:11.956494-05:00.accessibility.json) |
-| [August 8 at 2:22 AM](https://archive.org/download/startribune-2022/startribune-2022-08-08T09:22:18.338091-05:00.accessibility.json) |
-| [August 7 at 2:33 PM](https://archive.org/download/startribune-2022/startribune-2022-08-07T21:33:24.313345-05:00.accessibility.json) |
-| [August 7 at 2:04 AM](https://archive.org/download/startribune-2022/startribune-2022-08-07T09:04:23.488091-05:00.accessibility.json) |
-| [August 6 at 3:09 PM](https://archive.org/download/startribune-2022/startribune-2022-08-06T22:09:06.495508-05:00.accessibility.json) |
-| [August 6 at 1:55 AM](https://archive.org/download/startribune-2022/startribune-2022-08-06T08:55:02.982456-05:00.accessibility.json) |
+| [August 12 at 4:32 AM](https://archive.org/download/startribune-2022/startribune-2022-08-12T04:32:46.015457-05:00.accessibility.json) |
+| [August 11 at 9:04 PM](https://archive.org/download/startribune-2022/startribune-2022-08-11T21:04:55.035120-05:00.accessibility.json) |
+| [August 11 at 12:06 PM](https://archive.org/download/startribune-2022/startribune-2022-08-11T12:06:03.612915-05:00.accessibility.json) |
+| [August 10 at 9:25 PM](https://archive.org/download/startribune-2022/startribune-2022-08-10T21:25:33.002565-05:00.accessibility.json) |
+| [August 10 at 12:47 PM](https://archive.org/download/startribune-2022/startribune-2022-08-10T12:47:28.758072-05:00.accessibility.json) |
+| [August 9 at 9:35 PM](https://archive.org/download/startribune-2022/startribune-2022-08-09T21:35:39.949117-05:00.accessibility.json) |
+| [August 9 at 9:37 AM](https://archive.org/download/startribune-2022/startribune-2022-08-09T09:37:17.473058-05:00.accessibility.json) |
+| [August 8 at 9:23 PM](https://archive.org/download/startribune-2022/startribune-2022-08-08T21:23:11.956494-05:00.accessibility.json) |
+| [August 8 at 9:22 AM](https://archive.org/download/startribune-2022/startribune-2022-08-08T09:22:18.338091-05:00.accessibility.json) |
+| [August 7 at 9:33 PM](https://archive.org/download/startribune-2022/startribune-2022-08-07T21:33:24.313345-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 39 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 42 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,16 +525,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 10 at 2:25 PM](https://archive.org/download/startribune-2022/startribune-2022-08-10T21:25:33.002565-05:00.lighthouse.json) |
-| [August 10 at 5:47 AM](https://archive.org/download/startribune-2022/startribune-2022-08-10T12:47:28.758072-05:00.lighthouse.json) |
-| [August 9 at 2:35 PM](https://archive.org/download/startribune-2022/startribune-2022-08-09T21:35:39.949117-05:00.lighthouse.json) |
-| [August 9 at 2:37 AM](https://archive.org/download/startribune-2022/startribune-2022-08-09T09:37:17.473058-05:00.lighthouse.json) |
-| [August 8 at 2:23 PM](https://archive.org/download/startribune-2022/startribune-2022-08-08T21:23:11.956494-05:00.lighthouse.json) |
-| [August 8 at 2:22 AM](https://archive.org/download/startribune-2022/startribune-2022-08-08T09:22:18.338091-05:00.lighthouse.json) |
-| [August 7 at 2:33 PM](https://archive.org/download/startribune-2022/startribune-2022-08-07T21:33:24.313345-05:00.lighthouse.json) |
-| [August 7 at 2:04 AM](https://archive.org/download/startribune-2022/startribune-2022-08-07T09:04:23.488091-05:00.lighthouse.json) |
-| [August 6 at 3:09 PM](https://archive.org/download/startribune-2022/startribune-2022-08-06T22:09:06.495508-05:00.lighthouse.json) |
-| [August 6 at 1:55 AM](https://archive.org/download/startribune-2022/startribune-2022-08-06T08:55:02.982456-05:00.lighthouse.json) |
+| [August 12 at 4:32 AM](https://archive.org/download/startribune-2022/startribune-2022-08-12T04:32:46.015457-05:00.lighthouse.json) |
+| [August 11 at 9:05 PM](https://archive.org/download/startribune-2022/startribune-2022-08-11T21:04:55.035120-05:00.lighthouse.json) |
+| [August 11 at 12:06 PM](https://archive.org/download/startribune-2022/startribune-2022-08-11T12:06:03.612915-05:00.lighthouse.json) |
+| [August 10 at 9:25 PM](https://archive.org/download/startribune-2022/startribune-2022-08-10T21:25:33.002565-05:00.lighthouse.json) |
+| [August 10 at 12:47 PM](https://archive.org/download/startribune-2022/startribune-2022-08-10T12:47:28.758072-05:00.lighthouse.json) |
+| [August 9 at 9:35 PM](https://archive.org/download/startribune-2022/startribune-2022-08-09T21:35:39.949117-05:00.lighthouse.json) |
+| [August 9 at 9:37 AM](https://archive.org/download/startribune-2022/startribune-2022-08-09T09:37:17.473058-05:00.lighthouse.json) |
+| [August 8 at 9:23 PM](https://archive.org/download/startribune-2022/startribune-2022-08-08T21:23:11.956494-05:00.lighthouse.json) |
+| [August 8 at 9:22 AM](https://archive.org/download/startribune-2022/startribune-2022-08-08T09:22:18.338091-05:00.lighthouse.json) |
+| [August 7 at 9:33 PM](https://archive.org/download/startribune-2022/startribune-2022-08-07T21:33:24.313345-05:00.lighthouse.json) |
 
 
 

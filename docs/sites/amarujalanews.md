@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 31 screenshots with the Internet Archive.
+The archiving routine has saved 33 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,118 +112,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-11T07:50:42.751141+05:30.jpg">
-  <img src="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-11T07:50:42.751141+05:30.jpg"
-     alt="Amar Ujala at 2022-08-11 00:50:44+05:30 local time"
+ <a href="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-12T14:58:54.691201+05:30.jpg">
+  <img src="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-12T14:58:54.691201+05:30.jpg"
+     alt="Amar Ujala at 2022-08-12 14:58:55+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-11T07:50:42.751141+05:30.jpg">August 11 at 12:50 AM</a></p>
+ <p><a href="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-12T14:58:54.691201+05:30.jpg">August 12 at 2:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-11T22:28:25.761866+05:30.jpg">
+  <img src="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-11T22:28:25.761866+05:30.jpg"
+     alt="Amar Ujala at 2022-08-11 22:28:30+05:30 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-11T22:28:25.761866+05:30.jpg">August 11 at 10:28 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-11T07:50:42.751141+05:30.jpg">
+  <img src="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-11T07:50:42.751141+05:30.jpg"
+     alt="Amar Ujala at 2022-08-11 07:50:44+05:30 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-11T07:50:42.751141+05:30.jpg">August 11 at 7:50 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-10T23:11:27.472968+05:30.jpg">
   <img src="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-10T23:11:27.472968+05:30.jpg"
-     alt="Amar Ujala at 2022-08-10 16:11:28+05:30 local time"
+     alt="Amar Ujala at 2022-08-10 23:11:28+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-10T23:11:27.472968+05:30.jpg">August 10 at 4:11 PM</a></p>
+ <p><a href="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-10T23:11:27.472968+05:30.jpg">August 10 at 11:11 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-10T08:00:39.767574+05:30.jpg">
   <img src="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-10T08:00:39.767574+05:30.jpg"
-     alt="Amar Ujala at 2022-08-10 01:00:41+05:30 local time"
+     alt="Amar Ujala at 2022-08-10 08:00:41+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-10T08:00:39.767574+05:30.jpg">August 10 at 1:00 AM</a></p>
+ <p><a href="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-10T08:00:39.767574+05:30.jpg">August 10 at 8:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-09T20:01:41.224169+05:30.jpg">
   <img src="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-09T20:01:41.224169+05:30.jpg"
-     alt="Amar Ujala at 2022-08-09 13:01:42+05:30 local time"
+     alt="Amar Ujala at 2022-08-09 20:01:42+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-09T20:01:41.224169+05:30.jpg">August 9 at 1:01 PM</a></p>
+ <p><a href="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-09T20:01:41.224169+05:30.jpg">August 9 at 8:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-09T07:47:51.252563+05:30.jpg">
   <img src="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-09T07:47:51.252563+05:30.jpg"
-     alt="Amar Ujala at 2022-08-09 00:47:54+05:30 local time"
+     alt="Amar Ujala at 2022-08-09 07:47:54+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-09T07:47:51.252563+05:30.jpg">August 9 at 12:47 AM</a></p>
+ <p><a href="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-09T07:47:51.252563+05:30.jpg">August 9 at 7:47 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-08T19:43:56.156102+05:30.jpg">
   <img src="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-08T19:43:56.156102+05:30.jpg"
-     alt="Amar Ujala at 2022-08-08 12:43:57+05:30 local time"
+     alt="Amar Ujala at 2022-08-08 19:43:57+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-08T19:43:56.156102+05:30.jpg">August 8 at 12:43 PM</a></p>
+ <p><a href="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-08T19:43:56.156102+05:30.jpg">August 8 at 7:43 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-08T07:57:43.025749+05:30.jpg">
   <img src="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-08T07:57:43.025749+05:30.jpg"
-     alt="Amar Ujala at 2022-08-08 00:57:44+05:30 local time"
+     alt="Amar Ujala at 2022-08-08 07:57:44+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-08T07:57:43.025749+05:30.jpg">August 8 at 12:57 AM</a></p>
+ <p><a href="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-08T07:57:43.025749+05:30.jpg">August 8 at 7:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-07T19:30:41.377776+05:30.jpg">
   <img src="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-07T19:30:41.377776+05:30.jpg"
-     alt="Amar Ujala at 2022-08-07 12:30:42+05:30 local time"
+     alt="Amar Ujala at 2022-08-07 19:30:42+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-07T19:30:41.377776+05:30.jpg">August 7 at 12:30 PM</a></p>
+ <p><a href="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-07T19:30:41.377776+05:30.jpg">August 7 at 7:30 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-07T08:35:28.171022+05:30.jpg">
   <img src="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-07T08:35:28.171022+05:30.jpg"
-     alt="Amar Ujala at 2022-08-07 01:35:29+05:30 local time"
+     alt="Amar Ujala at 2022-08-07 08:35:29+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-07T08:35:28.171022+05:30.jpg">August 7 at 1:35 AM</a></p>
+ <p><a href="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-07T08:35:28.171022+05:30.jpg">August 7 at 8:35 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-06T19:19:57.051765+05:30.jpg">
   <img src="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-06T19:19:57.051765+05:30.jpg"
-     alt="Amar Ujala at 2022-08-06 12:19:59+05:30 local time"
+     alt="Amar Ujala at 2022-08-06 19:19:59+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-06T19:19:57.051765+05:30.jpg">August 6 at 12:19 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-06T07:46:05.796776+05:30.jpg">
-  <img src="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-06T07:46:05.796776+05:30.jpg"
-     alt="Amar Ujala at 2022-08-06 00:46:08+05:30 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-06T07:46:05.796776+05:30.jpg">August 6 at 12:46 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-05T23:12:01.504971+05:30.jpg">
-  <img src="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-05T23:12:01.504971+05:30.jpg"
-     alt="Amar Ujala at 2022-08-05 16:12:05+05:30 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-05T23:12:01.504971+05:30.jpg">August 5 at 4:12 PM</a></p>
+ <p><a href="https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-06T19:19:57.051765+05:30.jpg">August 6 at 7:19 PM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 31 hyperlink lists with the Internet Archive.
+The archiving routine has saved 34 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,21 +314,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 11 at 12:50 AM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-11T07:50:42.751141+05:30.hyperlinks.json) |
-| [August 10 at 4:11 PM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-10T23:11:27.472968+05:30.hyperlinks.json) |
-| [August 10 at 1:00 AM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-10T08:00:39.767574+05:30.hyperlinks.json) |
-| [August 9 at 1:01 PM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-09T20:01:41.224169+05:30.hyperlinks.json) |
-| [August 9 at 12:47 AM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-09T07:47:51.252563+05:30.hyperlinks.json) |
-| [August 8 at 12:44 PM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-08T19:43:56.156102+05:30.hyperlinks.json) |
-| [August 8 at 12:57 AM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-08T07:57:43.025749+05:30.hyperlinks.json) |
-| [August 7 at 12:30 PM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-07T19:30:41.377776+05:30.hyperlinks.json) |
-| [August 7 at 1:35 AM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-07T08:35:28.171022+05:30.hyperlinks.json) |
-| [August 6 at 12:20 PM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-06T19:19:57.051765+05:30.hyperlinks.json) |
+| [August 12 at 2:58 PM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-12T14:58:54.691201+05:30.hyperlinks.json) |
+| [August 12 at 7:30 AM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-12T07:30:42.436722+05:30.hyperlinks.json) |
+| [August 11 at 10:28 PM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-11T22:28:25.761866+05:30.hyperlinks.json) |
+| [August 11 at 7:50 AM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-11T07:50:42.751141+05:30.hyperlinks.json) |
+| [August 10 at 11:11 PM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-10T23:11:27.472968+05:30.hyperlinks.json) |
+| [August 10 at 8:00 AM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-10T08:00:39.767574+05:30.hyperlinks.json) |
+| [August 9 at 8:01 PM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-09T20:01:41.224169+05:30.hyperlinks.json) |
+| [August 9 at 7:47 AM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-09T07:47:51.252563+05:30.hyperlinks.json) |
+| [August 8 at 7:44 PM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-08T19:43:56.156102+05:30.hyperlinks.json) |
+| [August 8 at 7:57 AM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-08T07:57:43.025749+05:30.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 31 accessibility trees with the Internet Archive.
+The archiving routine has saved 34 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,22 +419,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 11 at 12:50 AM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-11T07:50:42.751141+05:30.accessibility.json) |
-| [August 10 at 4:11 PM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-10T23:11:27.472968+05:30.accessibility.json) |
-| [August 10 at 1:00 AM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-10T08:00:39.767574+05:30.accessibility.json) |
-| [August 9 at 1:01 PM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-09T20:01:41.224169+05:30.accessibility.json) |
-| [August 9 at 12:47 AM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-09T07:47:51.252563+05:30.accessibility.json) |
-| [August 8 at 12:43 PM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-08T19:43:56.156102+05:30.accessibility.json) |
-| [August 8 at 12:57 AM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-08T07:57:43.025749+05:30.accessibility.json) |
-| [August 7 at 12:30 PM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-07T19:30:41.377776+05:30.accessibility.json) |
-| [August 7 at 1:35 AM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-07T08:35:28.171022+05:30.accessibility.json) |
-| [August 6 at 12:20 PM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-06T19:19:57.051765+05:30.accessibility.json) |
+| [August 12 at 2:58 PM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-12T14:58:54.691201+05:30.accessibility.json) |
+| [August 12 at 7:30 AM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-12T07:30:42.436722+05:30.accessibility.json) |
+| [August 11 at 10:28 PM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-11T22:28:25.761866+05:30.accessibility.json) |
+| [August 11 at 7:50 AM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-11T07:50:42.751141+05:30.accessibility.json) |
+| [August 10 at 11:11 PM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-10T23:11:27.472968+05:30.accessibility.json) |
+| [August 10 at 8:00 AM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-10T08:00:39.767574+05:30.accessibility.json) |
+| [August 9 at 8:01 PM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-09T20:01:41.224169+05:30.accessibility.json) |
+| [August 9 at 7:47 AM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-09T07:47:51.252563+05:30.accessibility.json) |
+| [August 8 at 7:43 PM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-08T19:43:56.156102+05:30.accessibility.json) |
+| [August 8 at 7:57 AM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-08T07:57:43.025749+05:30.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 31 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 34 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,16 +525,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 11 at 12:50 AM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-11T07:50:42.751141+05:30.lighthouse.json) |
-| [August 10 at 4:11 PM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-10T23:11:27.472968+05:30.lighthouse.json) |
-| [August 10 at 1:00 AM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-10T08:00:39.767574+05:30.lighthouse.json) |
-| [August 9 at 1:01 PM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-09T20:01:41.224169+05:30.lighthouse.json) |
-| [August 9 at 12:48 AM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-09T07:47:51.252563+05:30.lighthouse.json) |
-| [August 8 at 12:44 PM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-08T19:43:56.156102+05:30.lighthouse.json) |
-| [August 8 at 12:57 AM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-08T07:57:43.025749+05:30.lighthouse.json) |
-| [August 7 at 12:30 PM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-07T19:30:41.377776+05:30.lighthouse.json) |
-| [August 7 at 1:35 AM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-07T08:35:28.171022+05:30.lighthouse.json) |
-| [August 6 at 12:20 PM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-06T19:19:57.051765+05:30.lighthouse.json) |
+| [August 12 at 2:58 PM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-12T14:58:54.691201+05:30.lighthouse.json) |
+| [August 12 at 7:30 AM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-12T07:30:42.436722+05:30.lighthouse.json) |
+| [August 11 at 10:28 PM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-11T22:28:25.761866+05:30.lighthouse.json) |
+| [August 11 at 7:50 AM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-11T07:50:42.751141+05:30.lighthouse.json) |
+| [August 10 at 11:11 PM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-10T23:11:27.472968+05:30.lighthouse.json) |
+| [August 10 at 8:00 AM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-10T08:00:39.767574+05:30.lighthouse.json) |
+| [August 9 at 8:01 PM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-09T20:01:41.224169+05:30.lighthouse.json) |
+| [August 9 at 7:48 AM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-09T07:47:51.252563+05:30.lighthouse.json) |
+| [August 8 at 7:44 PM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-08T19:43:56.156102+05:30.lighthouse.json) |
+| [August 8 at 7:57 AM](https://archive.org/download/amarujalanews-2022/amarujalanews-2022-08-08T07:57:43.025749+05:30.lighthouse.json) |
 
 
 
