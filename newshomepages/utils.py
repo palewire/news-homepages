@@ -50,7 +50,14 @@ def get_site_df() -> pd.DataFrame:
     Returns a DataFrame.
     """
     df = pd.read_csv(SITES_PATH).sort_values("handle")
-    df["bundle_list"] = df.bundle.str.split("|")
+
+    def _split_bundle(row):
+        if not pd.isnull(row["bundle"]):
+            return row["bundle"].split("|")
+        else:
+            return []
+
+    df["bundle_list"] = df.apply(_split_bundle, axis=1)
     df["country_name"] = df.country.apply(lambda x: iso3166.countries.get(x).name)
     return df
 
