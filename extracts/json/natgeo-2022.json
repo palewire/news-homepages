@@ -1,5 +1,5 @@
 {
-  "created": 1660225391,
+  "created": 1660310729,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/0/items/natgeo-2022",
@@ -3729,31 +3729,155 @@
       "format": "JSON"
     },
     {
+      "name": "natgeo-2022-08-11T09:42:19.196285-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "natgeo-2022-08-11T09:42:19.196285-04:00.jpg",
+      "mtime": "1660226212",
+      "size": "10474",
+      "md5": "9637673d1632be6578b3a6f129e59d66",
+      "crc32": "bf96f1a8",
+      "sha1": "c1974086405d54c8e1efe80e402254e9db995265"
+    },
+    {
+      "name": "natgeo-2022-08-12T05:20:53.941853-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660296059",
+      "size": "38993",
+      "md5": "9f2e3e0dad1815e15891b1d1de6cc4a6",
+      "crc32": "40912df3",
+      "sha1": "a8bd3604ac486c78f8d3c1a9ecf71ef6ce5f946c",
+      "format": "JSON"
+    },
+    {
+      "name": "natgeo-2022-08-12T05:20:53.941853-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660296060",
+      "size": "25303",
+      "md5": "bf32ca753e0cbd345ef6d054ca9204bd",
+      "crc32": "a200f168",
+      "sha1": "3de34c0ef3bdc7f69d533daabdaafd8140322d80",
+      "format": "JSON"
+    },
+    {
+      "name": "natgeo-2022-08-12T05:20:53.941853-04:00.jpg",
+      "source": "original",
+      "mtime": "1660296057",
+      "size": "226092",
+      "md5": "8900f5c54c695c4d2ed46d327df5301a",
+      "crc32": "3e9ca2a5",
+      "sha1": "664502186e9283eb81ea68e635ee43fe6f7b3819",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "natgeo-2022-08-12T05:20:53.941853-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660296062",
+      "size": "1564",
+      "md5": "fde8605c36ad96f5a23ceb348ab5baa8",
+      "crc32": "b90be20e",
+      "sha1": "2df17a08c2dcc8095ba5190dbd1445cf3a930419",
+      "format": "JSON"
+    },
+    {
+      "name": "natgeo-2022-08-12T05:20:53.941853-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660296063",
+      "size": "44512",
+      "md5": "bc10cc4c9a70a0de05bf7bcb9e6f7030",
+      "crc32": "0a1776e9",
+      "sha1": "0d213139a52e323cb8a474c28f24f22af9d47293",
+      "format": "JSON"
+    },
+    {
+      "name": "natgeo-2022-08-12T05:20:53.941853-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "natgeo-2022-08-12T05:20:53.941853-04:00.jpg",
+      "mtime": "1660296259",
+      "size": "9919",
+      "md5": "22447e73198aafa82ac30ef95a59786b",
+      "crc32": "1ece9a78",
+      "sha1": "b040fd486f47cf904a2ec5c772b4d9e62aea5a11"
+    },
+    {
+      "name": "natgeo-2022-08-12T09:24:28.916971-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660310677",
+      "size": "38813",
+      "md5": "4faff6e7609b979764258b0f9bad0064",
+      "crc32": "dceb7816",
+      "sha1": "648b9a473c3b182867a5c1ed6626d47e2cf1699c",
+      "format": "JSON"
+    },
+    {
+      "name": "natgeo-2022-08-12T09:24:28.916971-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660310679",
+      "size": "25144",
+      "md5": "956952158b0549f6c8705180a8bb562d",
+      "crc32": "5cb60178",
+      "sha1": "09e58ace6fda9b661fc13c02012c5b4c1632310f",
+      "format": "JSON"
+    },
+    {
+      "name": "natgeo-2022-08-12T09:24:28.916971-04:00.jpg",
+      "source": "original",
+      "mtime": "1660310673",
+      "size": "227528",
+      "md5": "08fb4a7b5dd9474f6e060c56a6cab38d",
+      "crc32": "3d2c7986",
+      "sha1": "86dad12bc79444ce3c311ed0c217d3221c9e28cf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "natgeo-2022-08-12T09:24:28.916971-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660310681",
+      "size": "1564",
+      "md5": "3deda9b6b6788a6067b5dad015395049",
+      "crc32": "0ee8a33f",
+      "sha1": "6f4d87c530da7a6d509f2d95d2250b409ffa6c0f",
+      "format": "JSON"
+    },
+    {
+      "name": "natgeo-2022-08-12T09:24:28.916971-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660310683",
+      "size": "78106",
+      "md5": "70d208dfdb22bc90c72adcb6c997bff1",
+      "crc32": "38273ac2",
+      "sha1": "1153541803803f148bcfcaa3cb9f0984bb3f4a01",
+      "format": "JSON"
+    },
+    {
       "name": "natgeo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a6b79f2bc2c9b6feaffca7d7f9aca2db71aca703",
-      "mtime": "1660225388",
-      "size": "75762",
-      "md5": "787c2c9b718eb73023877acf6905e7d8",
-      "crc32": "e8eb647f",
-      "sha1": "8a0ee6e15e05f6ecfc44c3fdaf0dbc58bfdbd035",
+      "btih": "dd4b06c6011feb0c5fe96e48f546c075aaf31479",
+      "mtime": "1660310724",
+      "size": "78273",
+      "md5": "a1be5b4549cd577cca80c2ccf97a2573",
+      "crc32": "495ba7b2",
+      "sha1": "74d5c491ea553cb83769c92e4ef8e4eeb88681eb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "natgeo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "673f4848721a6d2616b9743a4196361d",
+      "md5": "4565e29ec6cca2949eecbfa4aceaea8e",
       "summation": "md5"
     },
     {
       "name": "natgeo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660225351",
-      "size": "450560",
-      "md5": "98f9dd3d324a29812d718abcccbf3480",
-      "crc32": "cbd6e1a9",
-      "sha1": "06ebc27a5a3c31b214908d86eb797ed4ebf09d9c",
+      "mtime": "1660310688",
+      "size": "462848",
+      "md5": "075020219d8c0aa45baed5a072f954cb",
+      "crc32": "4bee4116",
+      "sha1": "d0a66b9cfee0686a224a98af53af05ae334e0785",
       "format": "Metadata"
     },
     {
@@ -3767,9 +3891,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 361,
-  "item_last_updated": 1660225388,
-  "item_size": 24637135,
+  "files_count": 373,
+  "item_last_updated": 1660310724,
+  "item_size": 25379946,
   "metadata": {
     "identifier": "natgeo-2022",
     "collection": [
@@ -3791,7 +3915,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3361498798,
+      "task_id": 3363465522,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -3799,7 +3923,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1655282057,
+  "uniq": 569948477,
   "workable_servers": [
     "ia601405.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1660225739,
+  "created": 1660311097,
   "d1": "ia601002.us.archive.org",
   "d2": "ia801002.us.archive.org",
   "dir": "/3/items/sahanjournal-2022",
@@ -9840,31 +9840,206 @@
       "sha1": "64d26a775609870152a16118a3551ea6df0a28f4"
     },
     {
+      "name": "sahanjournal-2022-08-11T08:49:10.194849-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660225753",
+      "size": "25158",
+      "md5": "dc9e5ad0b74a1c5ee67269c1df33151a",
+      "crc32": "d5fe603b",
+      "sha1": "07ba9be75d350fc31e6e5523e21d4b928ec7d52c",
+      "format": "JSON"
+    },
+    {
+      "name": "sahanjournal-2022-08-11T08:49:10.194849-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660225755",
+      "size": "27736",
+      "md5": "aa7918d9af1f4f0727dd949aabf442fa",
+      "crc32": "9e794f2f",
+      "sha1": "5c68f888d149a1b6f3cac201d2ab8e30268553bf",
+      "format": "JSON"
+    },
+    {
+      "name": "sahanjournal-2022-08-11T08:49:10.194849-05:00.jpg",
+      "source": "original",
+      "mtime": "1660225751",
+      "size": "240499",
+      "md5": "41c717cb38d1535d5fd6ddfe3d78c88c",
+      "crc32": "7b4c6e4b",
+      "sha1": "44740f790efa8ac8ff2019da5f1192be6f2dbf4a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sahanjournal-2022-08-11T08:49:10.194849-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660225756",
+      "size": "1468",
+      "md5": "0e051cf07f93d4b86f5cafe76078d8c3",
+      "crc32": "42734983",
+      "sha1": "26e82fc1486ee52273a707b48410f9fb1a6af980",
+      "format": "JSON"
+    },
+    {
+      "name": "sahanjournal-2022-08-11T08:49:10.194849-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660225758",
+      "size": "267",
+      "md5": "b9f9bc1c270c855b2687eb7876694613",
+      "crc32": "442b2f42",
+      "sha1": "f4d11cd09f996cef7fa527c099a854daec76f937",
+      "format": "JSON"
+    },
+    {
+      "name": "sahanjournal-2022-08-11T08:49:10.194849-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sahanjournal-2022-08-11T08:49:10.194849-05:00.jpg",
+      "mtime": "1660226559",
+      "size": "10356",
+      "md5": "195b598ef062b5fab4bebbbbc2b97fe4",
+      "crc32": "9b1e7551",
+      "sha1": "0bcfec65272a481ca3ee091e83fdb14d9eb6c90e"
+    },
+    {
+      "name": "sahanjournal-2022-08-12T04:26:20.452022-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660296386",
+      "size": "25112",
+      "md5": "ce0bbf1ba0324ea12760378c28d0fb2b",
+      "crc32": "41cd49d3",
+      "sha1": "92e3ac71ebc28f5595340b6ac66c944ff31d96b1",
+      "format": "JSON"
+    },
+    {
+      "name": "sahanjournal-2022-08-12T04:26:20.452022-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660296388",
+      "size": "27661",
+      "md5": "e6bba4fab7238d6fddeb1ed344e1c1f6",
+      "crc32": "3ca19f62",
+      "sha1": "db432360a28f7814ae14e7e87478a1773b55e75d",
+      "format": "JSON"
+    },
+    {
+      "name": "sahanjournal-2022-08-12T04:26:20.452022-05:00.jpg",
+      "source": "original",
+      "mtime": "1660296384",
+      "size": "255103",
+      "md5": "5dcd84b7886b6d166d22f8ec7a67f28f",
+      "crc32": "776b993f",
+      "sha1": "481ffe0abc65b40db13aaf317078cf18409e1620",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sahanjournal-2022-08-12T04:26:20.452022-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660296390",
+      "size": "1467",
+      "md5": "fd79b98e07f972c6d72be251ffe1c4a5",
+      "crc32": "0f5c7d47",
+      "sha1": "46e6cca6f7d2837dc1506dfd0a3d64a556157cfd",
+      "format": "JSON"
+    },
+    {
+      "name": "sahanjournal-2022-08-12T04:26:20.452022-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660296391",
+      "size": "34006",
+      "md5": "a2a993291c5ea4ab4da9fc75f6bb728f",
+      "crc32": "9b23263b",
+      "sha1": "9d1953e4a1080b3fb9e77be647315a095e65e3bb",
+      "format": "JSON"
+    },
+    {
+      "name": "sahanjournal-2022-08-12T04:26:20.452022-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sahanjournal-2022-08-12T04:26:20.452022-05:00.jpg",
+      "mtime": "1660296597",
+      "size": "10859",
+      "md5": "905e237431a79c735c9ed8267d8d4677",
+      "crc32": "0794ce51",
+      "sha1": "5c1d7f2c71dab73199d9d56f1bcf46ebec35efdd"
+    },
+    {
+      "name": "sahanjournal-2022-08-12T08:30:28.509800-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660311035",
+      "size": "25112",
+      "md5": "ce0bbf1ba0324ea12760378c28d0fb2b",
+      "crc32": "41cd49d3",
+      "sha1": "92e3ac71ebc28f5595340b6ac66c944ff31d96b1",
+      "format": "JSON"
+    },
+    {
+      "name": "sahanjournal-2022-08-12T08:30:28.509800-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660311036",
+      "size": "27661",
+      "md5": "e6bba4fab7238d6fddeb1ed344e1c1f6",
+      "crc32": "3ca19f62",
+      "sha1": "db432360a28f7814ae14e7e87478a1773b55e75d",
+      "format": "JSON"
+    },
+    {
+      "name": "sahanjournal-2022-08-12T08:30:28.509800-05:00.jpg",
+      "source": "original",
+      "mtime": "1660311033",
+      "size": "255103",
+      "md5": "5dcd84b7886b6d166d22f8ec7a67f28f",
+      "crc32": "776b993f",
+      "sha1": "481ffe0abc65b40db13aaf317078cf18409e1620",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sahanjournal-2022-08-12T08:30:28.509800-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660311038",
+      "size": "1468",
+      "md5": "b478424d70b2e94be335dfecc3fbf63f",
+      "crc32": "ad60669e",
+      "sha1": "dfd23ee2697dc4d5161a7c2f91425f5403688cb4",
+      "format": "JSON"
+    },
+    {
+      "name": "sahanjournal-2022-08-12T08:30:28.509800-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660311040",
+      "size": "33516",
+      "md5": "7919ab461ee4505081903e0eb764c738",
+      "crc32": "1428f34a",
+      "sha1": "9253200d3bd9727f24bd34329eeb37bcd33fbca3",
+      "format": "JSON"
+    },
+    {
       "name": "sahanjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "07cca0cbe9b5a34f0d2fe7c08c118682a5d4aa9e",
-      "mtime": "1660179850",
-      "size": "203204",
-      "md5": "a21638f2e5f2d660615b931671c1b511",
-      "crc32": "a3ca2e7d",
-      "sha1": "e125fe0925bd3196de7a33c12840d65401ef12cc",
+      "btih": "ec86c9f998f0a2813b7b7472a02f022fd316699a",
+      "mtime": "1660311091",
+      "size": "206849",
+      "md5": "ce45f2adfda73ec0b2915164c280df7d",
+      "crc32": "daa992f9",
+      "sha1": "291eaea30b472902e044be3c5e8ded82ac071dfd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sahanjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "953da2b1d7460a362f144e11b3f5d7c9",
+      "md5": "4ae5509cb42f1734a50b6acedb837e6a",
       "summation": "md5"
     },
     {
       "name": "sahanjournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660179563",
-      "size": "1114112",
-      "md5": "3b305aa63a3b24714170494aebaa67cb",
-      "crc32": "1566f17f",
-      "sha1": "52dc3dafe255cef0354e1f0f3975b6a8d4b873a8",
+      "mtime": "1660311043",
+      "size": "1134592",
+      "md5": "f28e6f3e89c15b772266d8ae34027350",
+      "crc32": "ccfc02f4",
+      "sha1": "fbe697c7fbed862a6238e1200ba72d4b24519a51",
       "format": "Metadata"
     },
     {
@@ -9878,9 +10053,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 943,
-  "item_last_updated": 1660179850,
-  "item_size": 80683708,
+  "files_count": 960,
+  "item_last_updated": 1660311091,
+  "item_size": 81710385,
   "metadata": {
     "identifier": "sahanjournal-2022",
     "collection": [
@@ -9897,15 +10072,21 @@
     "publicdate": "2022-04-01 22:42:14",
     "addeddate": "2022-04-01 22:42:14"
   },
-  "sahanjournal-2022": {
-    "url": "https://sahanjournal.com/",
-    "job_id": "spn2-24b36b54bf934cde9e46ced6af4c7356b013c92e",
-    "message": "The capture will start in ~2 minutes because our service is currently overloaded. You may close your browser window and the page will still be saved."
-  },
-  "server": "ia801002.us.archive.org",
-  "uniq": 121688494,
+  "pending_tasks": true,
+  "server": "ia601002.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3363472954,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 2040034317,
   "workable_servers": [
-    "ia801002.us.archive.org",
     "ia601002.us.archive.org"
   ]
 }

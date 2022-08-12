@@ -1,5 +1,5 @@
 {
-  "created": 1660225163,
+  "created": 1660310573,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/33/items/kyivpost-2022",
@@ -12643,31 +12643,155 @@
       "format": "JSON"
     },
     {
+      "name": "kyivpost-2022-08-11T16:38:08.849467+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kyivpost-2022-08-11T16:38:08.849467+03:00.jpg",
+      "mtime": "1660226009",
+      "size": "9210",
+      "md5": "b28b2f64f882eddef64ad4be4dc4509a",
+      "crc32": "d0e3fb8a",
+      "sha1": "70ca9ec2cc3ec500d685b328849a050a8020626f"
+    },
+    {
+      "name": "kyivpost-2022-08-12T12:17:37.755567+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660295871",
+      "size": "23014",
+      "md5": "7b52b37b534375ab2656b49c2cd7654c",
+      "crc32": "4218448c",
+      "sha1": "3677aefa5c62d095ac48d3a32fba18fb9cfb8786",
+      "format": "JSON"
+    },
+    {
+      "name": "kyivpost-2022-08-12T12:17:37.755567+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660295873",
+      "size": "38054",
+      "md5": "7259260c4e9fa7d996667d2b5a72cb9b",
+      "crc32": "7492aa28",
+      "sha1": "d01340fcb1670ae2995042c5dc1fb9f25b601451",
+      "format": "JSON"
+    },
+    {
+      "name": "kyivpost-2022-08-12T12:17:37.755567+03:00.jpg",
+      "source": "original",
+      "mtime": "1660295870",
+      "size": "239121",
+      "md5": "a8f8dd006eb5c587a79bdec6ba3b309f",
+      "crc32": "13ab2467",
+      "sha1": "05840d44fe7a26b40355651e61663aa4a4bf8e17",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kyivpost-2022-08-12T12:17:37.755567+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660295874",
+      "size": "1477",
+      "md5": "54ffab6269dc84336cdd9e8e9549db0c",
+      "crc32": "519f0e46",
+      "sha1": "b86f2c0933b2d3f7e62de630c7750f58c139c6bf",
+      "format": "JSON"
+    },
+    {
+      "name": "kyivpost-2022-08-12T12:17:37.755567+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1660295876",
+      "size": "231",
+      "md5": "681eb890a6608f3828936f3a333fb539",
+      "crc32": "d76616f6",
+      "sha1": "f9389a376387ff17308871b89713117d6754a980",
+      "format": "JSON"
+    },
+    {
+      "name": "kyivpost-2022-08-12T12:17:37.755567+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kyivpost-2022-08-12T12:17:37.755567+03:00.jpg",
+      "mtime": "1660296011",
+      "size": "9003",
+      "md5": "c30888d1f997eaf9ce40e203cc4851f7",
+      "crc32": "a51bcab9",
+      "sha1": "2438e602dcea746bdfae17485dc08d3d5d8dda93"
+    },
+    {
+      "name": "kyivpost-2022-08-12T16:21:28.189765+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660310503",
+      "size": "23098",
+      "md5": "73c2cb1551cdb3cdb4e6ce27ceedb2d6",
+      "crc32": "4910c778",
+      "sha1": "d37aa52d01bf7a91a4cffaaf30cacea1733f4b9c",
+      "format": "JSON"
+    },
+    {
+      "name": "kyivpost-2022-08-12T16:21:28.189765+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660310505",
+      "size": "38412",
+      "md5": "188b4c9905d3b85a3c718e3c658a40b3",
+      "crc32": "9c981aef",
+      "sha1": "8bae5d03c7e8e4abc61da76e7ec56bf553f14445",
+      "format": "JSON"
+    },
+    {
+      "name": "kyivpost-2022-08-12T16:21:28.189765+03:00.jpg",
+      "source": "original",
+      "mtime": "1660310501",
+      "size": "262499",
+      "md5": "92d2f71efe1d516ea1c85407fb0aa3f3",
+      "crc32": "a15236b8",
+      "sha1": "982939d3abbfc4cecaf13dfc72c994fe945a949c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kyivpost-2022-08-12T16:21:28.189765+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660310507",
+      "size": "1476",
+      "md5": "1a089cd93b9a67e7369092f8b8d90fb6",
+      "crc32": "f7cbbe1b",
+      "sha1": "2b40b457876da41f8e9c2f2b8fd179e0f042cb09",
+      "format": "JSON"
+    },
+    {
+      "name": "kyivpost-2022-08-12T16:21:28.189765+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1660310508",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "kyivpost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0c97b543222e6ab81e76c86ccb49f72bd3e9b4de",
-      "mtime": "1660225157",
-      "size": "255098",
-      "md5": "4af3b79d7afabbefe4a5a1d86d5637c2",
-      "crc32": "bc01f527",
-      "sha1": "97d0848d11e0aed768dc164e1403406959b904c1",
+      "btih": "d10a7f798326eb45529f3ec34d03a99c107ec7d3",
+      "mtime": "1660310567",
+      "size": "257608",
+      "md5": "6c4b3f6c0f5aa1457c1fdaca5344f793",
+      "crc32": "3de36f8b",
+      "sha1": "4edf62ae99e8644910284504ccb10ac75d641e91",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kyivpost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6bcc1d91de2459e281047f347178f34f",
+      "md5": "b6fb42a44f61920495bd64ad977a5fb9",
       "summation": "md5"
     },
     {
       "name": "kyivpost-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660225111",
-      "size": "1388544",
-      "md5": "0d0f15e5a3c0283ced29c0695329589c",
-      "crc32": "c553e71f",
-      "sha1": "bb31892292905ff2414f580909b3d260c9397af6",
+      "mtime": "1660310514",
+      "size": "1409024",
+      "md5": "8655b1769625fb7d08af1e4247443e91",
+      "crc32": "2dd41169",
+      "sha1": "b2a6af3b6b339b9b716b91b639be7bfc5f373f97",
       "format": "Metadata"
     },
     {
@@ -12681,9 +12805,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1208,
-  "item_last_updated": 1660225157,
-  "item_size": 112636109,
+  "files_count": 1220,
+  "item_last_updated": 1660310567,
+  "item_size": 113304896,
   "metadata": {
     "identifier": "kyivpost-2022",
     "collection": [
@@ -12705,7 +12829,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3361494659,
+      "task_id": 3363462352,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12713,7 +12837,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 154874812,
+  "uniq": 1739678409,
   "workable_servers": [
     "ia902502.us.archive.org"
   ]

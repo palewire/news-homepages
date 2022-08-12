@@ -1,5 +1,5 @@
 {
-  "created": 1660184931,
+  "created": 1660296770,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/10/items/brooklynpaper-2022",
@@ -1082,31 +1082,185 @@
       "sha1": "2156c3c1bbf75839a1405ddbfc9739058c84c4c4"
     },
     {
+      "name": "brooklynpaper-2022-08-11T13:02:04.582821-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660237328",
+      "size": "16884",
+      "md5": "48df489aaaad9862889238466b6cd5cc",
+      "crc32": "20aacd14",
+      "sha1": "b982b5d147ba0d0b7869ca834d27e595d01f21a7",
+      "format": "JSON"
+    },
+    {
+      "name": "brooklynpaper-2022-08-11T13:02:04.582821-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660237330",
+      "size": "18260",
+      "md5": "01de3d0c280d05c1adf70ea460f14b0f",
+      "crc32": "3381291a",
+      "sha1": "9d158a5bda5cde9f5d4119aa922362059f3d15bc",
+      "format": "JSON"
+    },
+    {
+      "name": "brooklynpaper-2022-08-11T13:02:04.582821-04:00.jpg",
+      "source": "original",
+      "mtime": "1660237326",
+      "size": "266351",
+      "md5": "7d7c11685e4e81d09063bb3bd8e3bab4",
+      "crc32": "df807bfc",
+      "sha1": "8879a22ec8c2a29f021ecd4efb4d32306686d8e3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "brooklynpaper-2022-08-11T13:02:04.582821-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660237332",
+      "size": "1521",
+      "md5": "b445a3bedb126c090c6721ba33625fa3",
+      "crc32": "4bf6fdff",
+      "sha1": "0c4e166e27d755044bc74e1c5765355cc15f35c1",
+      "format": "JSON"
+    },
+    {
+      "name": "brooklynpaper-2022-08-11T13:02:04.582821-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "brooklynpaper-2022-08-11T13:02:04.582821-04:00.jpg",
+      "mtime": "1660238316",
+      "size": "10307",
+      "md5": "3b3ce11e4ac71f9c3f803c18210466f0",
+      "crc32": "230c05b8",
+      "sha1": "3855f13d0d13491069641c3fa1716cb7b03c48d2"
+    },
+    {
+      "name": "brooklynpaper-2022-08-11T22:02:20.908779-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660269742",
+      "size": "16571",
+      "md5": "d685001cebb3d5ea9e6733afa64e69ae",
+      "crc32": "9c95ed11",
+      "sha1": "eb1884324f7e7469469575df19bdbad2e5255b1e",
+      "format": "JSON"
+    },
+    {
+      "name": "brooklynpaper-2022-08-11T22:02:20.908779-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660269744",
+      "size": "18594",
+      "md5": "4cfcd1554c6943b7a2f78f3830af261f",
+      "crc32": "eed6dfbe",
+      "sha1": "732bdab555054808c4726e58c24c7da8cc6571c0",
+      "format": "JSON"
+    },
+    {
+      "name": "brooklynpaper-2022-08-11T22:02:20.908779-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660269745",
+      "size": "1522",
+      "md5": "058ef26f8e441e200d7d4033cf36b9e4",
+      "crc32": "0d23f8d4",
+      "sha1": "9435ed383d35bef256727bcf49777bf36b9d2429",
+      "format": "JSON"
+    },
+    {
+      "name": "brooklynpaper-2022-08-11T22:02:20.908779-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660269747",
+      "size": "32348",
+      "md5": "578b49187ecb2e90efa432ecccdfb6dd",
+      "crc32": "5af44506",
+      "sha1": "4faf04f5766fef5744d016ad32703d62bc5f105e",
+      "format": "JSON"
+    },
+    {
+      "name": "brooklynpaper-2022-08-12T05:30:10.756592-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660296614",
+      "size": "16565",
+      "md5": "23ecfdcf11307e61281c28ccad1a5284",
+      "crc32": "441c8507",
+      "sha1": "ba8f6d054012c00052097ee0ccf7289525e5db81",
+      "format": "JSON"
+    },
+    {
+      "name": "brooklynpaper-2022-08-12T05:30:10.756592-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660296615",
+      "size": "18643",
+      "md5": "2887d25e902cf1217dad6e727a20b711",
+      "crc32": "01e5b716",
+      "sha1": "164a3b87a6ddc92b91212e8f5ae82b32cc164c4c",
+      "format": "JSON"
+    },
+    {
+      "name": "brooklynpaper-2022-08-12T05:30:10.756592-04:00.jpg",
+      "source": "original",
+      "mtime": "1660296612",
+      "size": "274096",
+      "md5": "e029d22e069c95111d3b445e33bb956b",
+      "crc32": "43c4ad05",
+      "sha1": "82c6e1cf947c98e3edc36f25eb97f255e7531f4a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "brooklynpaper-2022-08-12T05:30:10.756592-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660296617",
+      "size": "1522",
+      "md5": "65acf1584cfe99f3b3fabc899edb6cf3",
+      "crc32": "5fc88fe0",
+      "sha1": "81f58bb0725ad5784bf24fed0837cf7019fcc11d",
+      "format": "JSON"
+    },
+    {
+      "name": "brooklynpaper-2022-08-12T05:30:10.756592-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660296619",
+      "size": "32597",
+      "md5": "d1d9ff900743dad55e14cacf3bd70d5c",
+      "crc32": "e9703a79",
+      "sha1": "26ece211c5681b3e243becf6231abfde870172af",
+      "format": "JSON"
+    },
+    {
+      "name": "brooklynpaper-2022-08-12T05:30:10.756592-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "brooklynpaper-2022-08-12T05:30:10.756592-04:00.jpg",
+      "mtime": "1660296747",
+      "size": "10473",
+      "md5": "76dec24a527d3a4ee425d89a8f600f02",
+      "crc32": "cbe5912b",
+      "sha1": "1b89cbffabae135d8f147fdb42941bfb42d1ff9a"
+    },
+    {
       "name": "brooklynpaper-2022_archive.torrent",
       "source": "metadata",
-      "btih": "29886efff9f5df937a3739caaa64ed39aa675477",
-      "mtime": "1660184894",
-      "size": "23840",
-      "md5": "acb21eea25c4baf148ce6dad15bcfa39",
-      "crc32": "611c37bf",
-      "sha1": "e591a7c9638d25569138dc11c4ef5a1aaeebd796",
+      "btih": "1e07823d473bd22f86b0ffebe20425f9f88831c2",
+      "mtime": "1660296753",
+      "size": "27066",
+      "md5": "f57559946b4191bc62efdd43d2b5cb34",
+      "crc32": "dcfa9a48",
+      "sha1": "3f125108414e8bc09009c7f62941f738918f68f4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "brooklynpaper-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d8b0fed4a7ae96d9bef3b5c7a2ebb7e5",
+      "md5": "68043e0382948edadebacda715c9fa9f",
       "summation": "md5"
     },
     {
       "name": "brooklynpaper-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660184609",
-      "size": "155648",
-      "md5": "4361567fa90659f23438f01da63a7ca0",
-      "crc32": "42b980eb",
-      "sha1": "b7cdb89976dbdb5380c4263fd11e1dae8db8de70",
+      "mtime": "1660296623",
+      "size": "172032",
+      "md5": "6d71bc0b2f2563c90ec4f5da35492149",
+      "crc32": "1d3e4dcd",
+      "sha1": "25cd59af7289dd421044e06712307c5bd5977a19",
       "format": "Metadata"
     },
     {
@@ -1120,9 +1274,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 108,
-  "item_last_updated": 1660184894,
-  "item_size": 6334836,
+  "files_count": 123,
+  "item_last_updated": 1660296753,
+  "item_size": 7090700,
   "metadata": {
     "identifier": "brooklynpaper-2022",
     "collection": [
@@ -1139,10 +1293,10 @@
     "publicdate": "2022-08-03 01:54:23",
     "addeddate": "2022-08-03 01:54:23"
   },
-  "server": "ia801404.us.archive.org",
-  "uniq": 675410099,
+  "server": "ia601404.us.archive.org",
+  "uniq": 1860753935,
   "workable_servers": [
-    "ia801404.us.archive.org",
-    "ia601404.us.archive.org"
+    "ia601404.us.archive.org",
+    "ia801404.us.archive.org"
   ]
 }
