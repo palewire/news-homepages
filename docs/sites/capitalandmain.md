@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-10T19:23:53.798470-07:00.jpg">
   <img src="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-10T19:23:53.798470-07:00.jpg"
-     alt="Capital & Main at 2022-08-10 19:23:55-07:00 local time"
+     alt="Capital & Main at 2022-08-10 12:23:55-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-10T19:23:53.798470-07:00.jpg">August 10 at 7:23 PM</a></p>
+ <p><a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-10T19:23:53.798470-07:00.jpg">August 10 at 12:23 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-10T12:38:46.030834-07:00.jpg">
   <img src="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-10T12:38:46.030834-07:00.jpg"
-     alt="Capital & Main at 2022-08-10 12:38:48-07:00 local time"
+     alt="Capital & Main at 2022-08-10 05:38:48-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-10T12:38:46.030834-07:00.jpg">August 10 at 12:38 PM</a></p>
+ <p><a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-10T12:38:46.030834-07:00.jpg">August 10 at 5:38 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-10T10:45:00.515188-07:00.jpg">
   <img src="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-10T10:45:00.515188-07:00.jpg"
-     alt="Capital & Main at 2022-08-10 10:45:03-07:00 local time"
+     alt="Capital & Main at 2022-08-10 03:45:03-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-10T10:45:00.515188-07:00.jpg">August 10 at 10:45 AM</a></p>
+ <p><a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-10T10:45:00.515188-07:00.jpg">August 10 at 3:45 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-09T19:33:42.810192-07:00.jpg">
   <img src="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-09T19:33:42.810192-07:00.jpg"
-     alt="Capital & Main at 2022-08-09 19:33:44-07:00 local time"
+     alt="Capital & Main at 2022-08-09 12:33:44-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-09T19:33:42.810192-07:00.jpg">August 9 at 7:33 PM</a></p>
+ <p><a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-09T19:33:42.810192-07:00.jpg">August 9 at 12:33 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-09T11:41:14.605196-07:00.jpg">
   <img src="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-09T11:41:14.605196-07:00.jpg"
-     alt="Capital & Main at 2022-08-09 11:41:19-07:00 local time"
+     alt="Capital & Main at 2022-08-09 04:41:19-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-09T11:41:14.605196-07:00.jpg">August 9 at 11:41 AM</a></p>
+ <p><a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-09T11:41:14.605196-07:00.jpg">August 9 at 4:41 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-09T07:37:40.667543-07:00.jpg">
   <img src="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-09T07:37:40.667543-07:00.jpg"
-     alt="Capital & Main at 2022-08-09 07:37:43-07:00 local time"
+     alt="Capital & Main at 2022-08-09 00:37:43-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-09T07:37:40.667543-07:00.jpg">August 9 at 7:37 AM</a></p>
+ <p><a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-09T07:37:40.667543-07:00.jpg">August 9 at 12:37 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-08T19:20:50.059284-07:00.jpg">
   <img src="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-08T19:20:50.059284-07:00.jpg"
-     alt="Capital & Main at 2022-08-08 19:20:52-07:00 local time"
+     alt="Capital & Main at 2022-08-08 12:20:52-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-08T19:20:50.059284-07:00.jpg">August 8 at 7:20 PM</a></p>
+ <p><a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-08T19:20:50.059284-07:00.jpg">August 8 at 12:20 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-08T11:14:14.538436-07:00.jpg">
   <img src="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-08T11:14:14.538436-07:00.jpg"
-     alt="Capital & Main at 2022-08-08 11:14:18-07:00 local time"
+     alt="Capital & Main at 2022-08-08 04:14:18-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-08T11:14:14.538436-07:00.jpg">August 8 at 11:14 AM</a></p>
+ <p><a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-08T11:14:14.538436-07:00.jpg">August 8 at 4:14 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-08T07:18:11.623997-07:00.jpg">
   <img src="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-08T07:18:11.623997-07:00.jpg"
-     alt="Capital & Main at 2022-08-08 07:18:14-07:00 local time"
+     alt="Capital & Main at 2022-08-08 00:18:14-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-08T07:18:11.623997-07:00.jpg">August 8 at 7:18 AM</a></p>
+ <p><a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-08T07:18:11.623997-07:00.jpg">August 8 at 12:18 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-07T19:31:40.700139-07:00.jpg">
   <img src="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-07T19:31:40.700139-07:00.jpg"
-     alt="Capital & Main at 2022-08-07 19:31:42-07:00 local time"
+     alt="Capital & Main at 2022-08-07 12:31:42-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-07T19:31:40.700139-07:00.jpg">August 7 at 7:31 PM</a></p>
+ <p><a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-07T19:31:40.700139-07:00.jpg">August 7 at 12:31 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-07T11:40:45.669116-07:00.jpg">
   <img src="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-07T11:40:45.669116-07:00.jpg"
-     alt="Capital & Main at 2022-08-07 11:40:49-07:00 local time"
+     alt="Capital & Main at 2022-08-07 04:40:49-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-07T11:40:45.669116-07:00.jpg">August 7 at 11:40 AM</a></p>
+ <p><a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-07T11:40:45.669116-07:00.jpg">August 7 at 4:40 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-07T07:02:22.376972-07:00.jpg">
   <img src="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-07T07:02:22.376972-07:00.jpg"
-     alt="Capital & Main at 2022-08-07 07:02:27-07:00 local time"
+     alt="Capital & Main at 2022-08-07 00:02:27-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-07T07:02:22.376972-07:00.jpg">August 7 at 7:02 AM</a></p>
+ <p><a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-07T07:02:22.376972-07:00.jpg">August 7 at 12:02 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 10 at 7:23 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-10T19:23:53.798470-07:00.hyperlinks.json) |
-| [August 10 at 12:38 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-10T12:38:46.030834-07:00.hyperlinks.json) |
-| [August 10 at 10:45 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-10T10:45:00.515188-07:00.hyperlinks.json) |
-| [August 9 at 7:33 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-09T19:33:42.810192-07:00.hyperlinks.json) |
-| [August 9 at 11:41 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-09T11:41:14.605196-07:00.hyperlinks.json) |
-| [August 9 at 7:37 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-09T07:37:40.667543-07:00.hyperlinks.json) |
-| [August 8 at 7:20 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-08T19:20:50.059284-07:00.hyperlinks.json) |
-| [August 8 at 11:14 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-08T11:14:14.538436-07:00.hyperlinks.json) |
-| [August 8 at 7:18 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-08T07:18:11.623997-07:00.hyperlinks.json) |
-| [August 7 at 7:31 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-07T19:31:40.700139-07:00.hyperlinks.json) |
+| [August 10 at 12:23 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-10T19:23:53.798470-07:00.hyperlinks.json) |
+| [August 10 at 5:38 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-10T12:38:46.030834-07:00.hyperlinks.json) |
+| [August 10 at 3:45 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-10T10:45:00.515188-07:00.hyperlinks.json) |
+| [August 9 at 12:33 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-09T19:33:42.810192-07:00.hyperlinks.json) |
+| [August 9 at 4:41 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-09T11:41:14.605196-07:00.hyperlinks.json) |
+| [August 9 at 12:37 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-09T07:37:40.667543-07:00.hyperlinks.json) |
+| [August 8 at 12:20 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-08T19:20:50.059284-07:00.hyperlinks.json) |
+| [August 8 at 4:14 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-08T11:14:14.538436-07:00.hyperlinks.json) |
+| [August 8 at 12:18 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-08T07:18:11.623997-07:00.hyperlinks.json) |
+| [August 7 at 12:31 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-07T19:31:40.700139-07:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 10 at 7:23 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-10T19:23:53.798470-07:00.accessibility.json) |
-| [August 10 at 12:38 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-10T12:38:46.030834-07:00.accessibility.json) |
-| [August 10 at 10:45 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-10T10:45:00.515188-07:00.accessibility.json) |
-| [August 9 at 7:33 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-09T19:33:42.810192-07:00.accessibility.json) |
-| [August 9 at 11:41 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-09T11:41:14.605196-07:00.accessibility.json) |
-| [August 9 at 7:37 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-09T07:37:40.667543-07:00.accessibility.json) |
-| [August 8 at 7:20 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-08T19:20:50.059284-07:00.accessibility.json) |
-| [August 8 at 11:14 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-08T11:14:14.538436-07:00.accessibility.json) |
-| [August 8 at 7:18 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-08T07:18:11.623997-07:00.accessibility.json) |
-| [August 7 at 7:31 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-07T19:31:40.700139-07:00.accessibility.json) |
+| [August 10 at 12:23 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-10T19:23:53.798470-07:00.accessibility.json) |
+| [August 10 at 5:38 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-10T12:38:46.030834-07:00.accessibility.json) |
+| [August 10 at 3:45 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-10T10:45:00.515188-07:00.accessibility.json) |
+| [August 9 at 12:33 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-09T19:33:42.810192-07:00.accessibility.json) |
+| [August 9 at 4:41 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-09T11:41:14.605196-07:00.accessibility.json) |
+| [August 9 at 12:37 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-09T07:37:40.667543-07:00.accessibility.json) |
+| [August 8 at 12:20 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-08T19:20:50.059284-07:00.accessibility.json) |
+| [August 8 at 4:14 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-08T11:14:14.538436-07:00.accessibility.json) |
+| [August 8 at 12:18 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-08T07:18:11.623997-07:00.accessibility.json) |
+| [August 7 at 12:31 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-07T19:31:40.700139-07:00.accessibility.json) |
 
 
 
@@ -525,16 +525,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 10 at 7:24 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-10T19:23:53.798470-07:00.lighthouse.json) |
-| [August 10 at 12:38 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-10T12:38:46.030834-07:00.lighthouse.json) |
-| [August 10 at 10:45 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-10T10:45:00.515188-07:00.lighthouse.json) |
-| [August 9 at 7:33 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-09T19:33:42.810192-07:00.lighthouse.json) |
-| [August 9 at 11:41 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-09T11:41:14.605196-07:00.lighthouse.json) |
-| [August 9 at 7:37 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-09T07:37:40.667543-07:00.lighthouse.json) |
-| [August 8 at 7:20 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-08T19:20:50.059284-07:00.lighthouse.json) |
-| [August 8 at 11:14 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-08T11:14:14.538436-07:00.lighthouse.json) |
-| [August 8 at 7:18 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-08T07:18:11.623997-07:00.lighthouse.json) |
-| [August 7 at 7:31 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-07T19:31:40.700139-07:00.lighthouse.json) |
+| [August 10 at 12:24 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-10T19:23:53.798470-07:00.lighthouse.json) |
+| [August 10 at 5:38 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-10T12:38:46.030834-07:00.lighthouse.json) |
+| [August 10 at 3:45 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-10T10:45:00.515188-07:00.lighthouse.json) |
+| [August 9 at 12:33 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-09T19:33:42.810192-07:00.lighthouse.json) |
+| [August 9 at 4:41 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-09T11:41:14.605196-07:00.lighthouse.json) |
+| [August 9 at 12:37 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-09T07:37:40.667543-07:00.lighthouse.json) |
+| [August 8 at 12:20 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-08T19:20:50.059284-07:00.lighthouse.json) |
+| [August 8 at 4:14 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-08T11:14:14.538436-07:00.lighthouse.json) |
+| [August 8 at 12:18 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-08T07:18:11.623997-07:00.lighthouse.json) |
+| [August 7 at 12:31 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-08-07T19:31:40.700139-07:00.lighthouse.json) |
 
 
 

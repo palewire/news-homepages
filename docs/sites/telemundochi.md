@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-10T21:26:23.987399-05:00.jpg">
   <img src="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-10T21:26:23.987399-05:00.jpg"
-     alt="Telemundo Chicago at 2022-08-10 21:26:25-05:00 local time"
+     alt="Telemundo Chicago at 2022-08-10 14:26:25-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-10T21:26:23.987399-05:00.jpg">August 10 at 9:26 PM</a></p>
+ <p><a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-10T21:26:23.987399-05:00.jpg">August 10 at 2:26 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-10T14:34:00.789528-05:00.jpg">
   <img src="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-10T14:34:00.789528-05:00.jpg"
-     alt="Telemundo Chicago at 2022-08-10 14:34:01-05:00 local time"
+     alt="Telemundo Chicago at 2022-08-10 07:34:01-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-10T14:34:00.789528-05:00.jpg">August 10 at 2:34 PM</a></p>
+ <p><a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-10T14:34:00.789528-05:00.jpg">August 10 at 7:34 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-10T12:48:00.668537-05:00.jpg">
   <img src="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-10T12:48:00.668537-05:00.jpg"
-     alt="Telemundo Chicago at 2022-08-10 12:48:03-05:00 local time"
+     alt="Telemundo Chicago at 2022-08-10 05:48:03-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-10T12:48:00.668537-05:00.jpg">August 10 at 12:48 PM</a></p>
+ <p><a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-10T12:48:00.668537-05:00.jpg">August 10 at 5:48 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-09T21:36:27.954810-05:00.jpg">
   <img src="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-09T21:36:27.954810-05:00.jpg"
-     alt="Telemundo Chicago at 2022-08-09 21:36:31-05:00 local time"
+     alt="Telemundo Chicago at 2022-08-09 14:36:31-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-09T21:36:27.954810-05:00.jpg">August 9 at 9:36 PM</a></p>
+ <p><a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-09T21:36:27.954810-05:00.jpg">August 9 at 2:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-09T13:03:35.697160-05:00.jpg">
   <img src="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-09T13:03:35.697160-05:00.jpg"
-     alt="Telemundo Chicago at 2022-08-09 13:03:39-05:00 local time"
+     alt="Telemundo Chicago at 2022-08-09 06:03:39-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-09T13:03:35.697160-05:00.jpg">August 9 at 1:03 PM</a></p>
+ <p><a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-09T13:03:35.697160-05:00.jpg">August 9 at 6:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-09T09:39:16.874809-05:00.jpg">
   <img src="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-09T09:39:16.874809-05:00.jpg"
-     alt="Telemundo Chicago at 2022-08-09 09:39:19-05:00 local time"
+     alt="Telemundo Chicago at 2022-08-09 02:39:19-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-09T09:39:16.874809-05:00.jpg">August 9 at 9:39 AM</a></p>
+ <p><a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-09T09:39:16.874809-05:00.jpg">August 9 at 2:39 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-08T21:23:41.820996-05:00.jpg">
   <img src="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-08T21:23:41.820996-05:00.jpg"
-     alt="Telemundo Chicago at 2022-08-08 21:23:43-05:00 local time"
+     alt="Telemundo Chicago at 2022-08-08 14:23:43-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-08T21:23:41.820996-05:00.jpg">August 8 at 9:23 PM</a></p>
+ <p><a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-08T21:23:41.820996-05:00.jpg">August 8 at 2:23 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-08T12:44:21.458631-05:00.jpg">
   <img src="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-08T12:44:21.458631-05:00.jpg"
-     alt="Telemundo Chicago at 2022-08-08 12:44:26-05:00 local time"
+     alt="Telemundo Chicago at 2022-08-08 05:44:26-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-08T12:44:21.458631-05:00.jpg">August 8 at 12:44 PM</a></p>
+ <p><a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-08T12:44:21.458631-05:00.jpg">August 8 at 5:44 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-08T09:19:53.665084-05:00.jpg">
   <img src="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-08T09:19:53.665084-05:00.jpg"
-     alt="Telemundo Chicago at 2022-08-08 09:19:55-05:00 local time"
+     alt="Telemundo Chicago at 2022-08-08 02:19:55-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-08T09:19:53.665084-05:00.jpg">August 8 at 9:19 AM</a></p>
+ <p><a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-08T09:19:53.665084-05:00.jpg">August 8 at 2:19 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-07T21:33:06.229439-05:00.jpg">
   <img src="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-07T21:33:06.229439-05:00.jpg"
-     alt="Telemundo Chicago at 2022-08-07 21:33:07-05:00 local time"
+     alt="Telemundo Chicago at 2022-08-07 14:33:07-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-07T21:33:06.229439-05:00.jpg">August 7 at 9:33 PM</a></p>
+ <p><a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-07T21:33:06.229439-05:00.jpg">August 7 at 2:33 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-07T12:14:34.424924-05:00.jpg">
   <img src="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-07T12:14:34.424924-05:00.jpg"
-     alt="Telemundo Chicago at 2022-08-07 12:14:36-05:00 local time"
+     alt="Telemundo Chicago at 2022-08-07 05:14:36-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-07T12:14:34.424924-05:00.jpg">August 7 at 12:14 PM</a></p>
+ <p><a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-07T12:14:34.424924-05:00.jpg">August 7 at 5:14 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-07T09:04:42.182209-05:00.jpg">
   <img src="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-07T09:04:42.182209-05:00.jpg"
-     alt="Telemundo Chicago at 2022-08-07 09:04:45-05:00 local time"
+     alt="Telemundo Chicago at 2022-08-07 02:04:45-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-07T09:04:42.182209-05:00.jpg">August 7 at 9:04 AM</a></p>
+ <p><a href="https://archive.org/download/telemundochi-2022/telemundochi-2022-08-07T09:04:42.182209-05:00.jpg">August 7 at 2:04 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 10 at 9:26 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-10T21:26:23.987399-05:00.hyperlinks.json) |
-| [August 10 at 2:34 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-10T14:34:00.789528-05:00.hyperlinks.json) |
-| [August 10 at 12:48 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-10T12:48:00.668537-05:00.hyperlinks.json) |
-| [August 9 at 9:36 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-09T21:36:27.954810-05:00.hyperlinks.json) |
-| [August 9 at 1:03 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-09T13:03:35.697160-05:00.hyperlinks.json) |
-| [August 9 at 9:39 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-09T09:39:16.874809-05:00.hyperlinks.json) |
-| [August 8 at 9:23 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-08T21:23:41.820996-05:00.hyperlinks.json) |
-| [August 8 at 12:44 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-08T12:44:21.458631-05:00.hyperlinks.json) |
-| [August 8 at 9:20 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-08T09:19:53.665084-05:00.hyperlinks.json) |
-| [August 7 at 9:33 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-07T21:33:06.229439-05:00.hyperlinks.json) |
+| [August 10 at 2:26 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-10T21:26:23.987399-05:00.hyperlinks.json) |
+| [August 10 at 7:34 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-10T14:34:00.789528-05:00.hyperlinks.json) |
+| [August 10 at 5:48 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-10T12:48:00.668537-05:00.hyperlinks.json) |
+| [August 9 at 2:36 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-09T21:36:27.954810-05:00.hyperlinks.json) |
+| [August 9 at 6:03 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-09T13:03:35.697160-05:00.hyperlinks.json) |
+| [August 9 at 2:39 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-09T09:39:16.874809-05:00.hyperlinks.json) |
+| [August 8 at 2:23 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-08T21:23:41.820996-05:00.hyperlinks.json) |
+| [August 8 at 5:44 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-08T12:44:21.458631-05:00.hyperlinks.json) |
+| [August 8 at 2:20 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-08T09:19:53.665084-05:00.hyperlinks.json) |
+| [August 7 at 2:33 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-07T21:33:06.229439-05:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 10 at 9:26 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-10T21:26:23.987399-05:00.accessibility.json) |
-| [August 10 at 2:34 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-10T14:34:00.789528-05:00.accessibility.json) |
-| [August 10 at 12:48 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-10T12:48:00.668537-05:00.accessibility.json) |
-| [August 9 at 9:36 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-09T21:36:27.954810-05:00.accessibility.json) |
-| [August 9 at 1:03 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-09T13:03:35.697160-05:00.accessibility.json) |
-| [August 9 at 9:39 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-09T09:39:16.874809-05:00.accessibility.json) |
-| [August 8 at 9:23 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-08T21:23:41.820996-05:00.accessibility.json) |
-| [August 8 at 12:44 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-08T12:44:21.458631-05:00.accessibility.json) |
-| [August 8 at 9:19 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-08T09:19:53.665084-05:00.accessibility.json) |
-| [August 7 at 9:33 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-07T21:33:06.229439-05:00.accessibility.json) |
+| [August 10 at 2:26 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-10T21:26:23.987399-05:00.accessibility.json) |
+| [August 10 at 7:34 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-10T14:34:00.789528-05:00.accessibility.json) |
+| [August 10 at 5:48 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-10T12:48:00.668537-05:00.accessibility.json) |
+| [August 9 at 2:36 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-09T21:36:27.954810-05:00.accessibility.json) |
+| [August 9 at 6:03 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-09T13:03:35.697160-05:00.accessibility.json) |
+| [August 9 at 2:39 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-09T09:39:16.874809-05:00.accessibility.json) |
+| [August 8 at 2:23 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-08T21:23:41.820996-05:00.accessibility.json) |
+| [August 8 at 5:44 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-08T12:44:21.458631-05:00.accessibility.json) |
+| [August 8 at 2:19 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-08T09:19:53.665084-05:00.accessibility.json) |
+| [August 7 at 2:33 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-07T21:33:06.229439-05:00.accessibility.json) |
 
 
 
@@ -525,16 +525,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 10 at 9:26 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-10T21:26:23.987399-05:00.lighthouse.json) |
-| [August 10 at 2:34 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-10T14:34:00.789528-05:00.lighthouse.json) |
-| [August 10 at 12:48 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-10T12:48:00.668537-05:00.lighthouse.json) |
-| [August 9 at 9:36 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-09T21:36:27.954810-05:00.lighthouse.json) |
-| [August 9 at 1:03 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-09T13:03:35.697160-05:00.lighthouse.json) |
-| [August 9 at 9:39 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-09T09:39:16.874809-05:00.lighthouse.json) |
-| [August 8 at 9:23 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-08T21:23:41.820996-05:00.lighthouse.json) |
-| [August 8 at 12:44 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-08T12:44:21.458631-05:00.lighthouse.json) |
-| [August 8 at 9:20 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-08T09:19:53.665084-05:00.lighthouse.json) |
-| [August 7 at 9:33 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-07T21:33:06.229439-05:00.lighthouse.json) |
+| [August 10 at 2:26 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-10T21:26:23.987399-05:00.lighthouse.json) |
+| [August 10 at 7:34 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-10T14:34:00.789528-05:00.lighthouse.json) |
+| [August 10 at 5:48 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-10T12:48:00.668537-05:00.lighthouse.json) |
+| [August 9 at 2:36 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-09T21:36:27.954810-05:00.lighthouse.json) |
+| [August 9 at 6:03 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-09T13:03:35.697160-05:00.lighthouse.json) |
+| [August 9 at 2:39 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-09T09:39:16.874809-05:00.lighthouse.json) |
+| [August 8 at 2:23 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-08T21:23:41.820996-05:00.lighthouse.json) |
+| [August 8 at 5:44 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-08T12:44:21.458631-05:00.lighthouse.json) |
+| [August 8 at 2:20 AM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-08T09:19:53.665084-05:00.lighthouse.json) |
+| [August 7 at 2:33 PM](https://archive.org/download/telemundochi-2022/telemundochi-2022-08-07T21:33:06.229439-05:00.lighthouse.json) |
 
 
 

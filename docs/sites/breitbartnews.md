@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-11T07:35:54.957415-04:00.jpg">
   <img src="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-11T07:35:54.957415-04:00.jpg"
-     alt="Breitbart at 2022-08-11 07:36:00-04:00 local time"
+     alt="Breitbart at 2022-08-11 00:36:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-11T07:35:54.957415-04:00.jpg">August 11 at 7:36 AM</a></p>
+ <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-11T07:35:54.957415-04:00.jpg">August 11 at 12:36 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-10T20:39:18.543774-04:00.jpg">
   <img src="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-10T20:39:18.543774-04:00.jpg"
-     alt="Breitbart at 2022-08-10 20:39:23-04:00 local time"
+     alt="Breitbart at 2022-08-10 13:39:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-10T20:39:18.543774-04:00.jpg">August 10 at 8:39 PM</a></p>
+ <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-10T20:39:18.543774-04:00.jpg">August 10 at 1:39 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-10T15:37:15.421020-04:00.jpg">
   <img src="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-10T15:37:15.421020-04:00.jpg"
-     alt="Breitbart at 2022-08-10 15:37:22-04:00 local time"
+     alt="Breitbart at 2022-08-10 08:37:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-10T15:37:15.421020-04:00.jpg">August 10 at 3:37 PM</a></p>
+ <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-10T15:37:15.421020-04:00.jpg">August 10 at 8:37 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-10T08:52:58.870365-04:00.jpg">
   <img src="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-10T08:52:58.870365-04:00.jpg"
-     alt="Breitbart at 2022-08-10 08:53:05-04:00 local time"
+     alt="Breitbart at 2022-08-10 01:53:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-10T08:52:58.870365-04:00.jpg">August 10 at 8:53 AM</a></p>
+ <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-10T08:52:58.870365-04:00.jpg">August 10 at 1:53 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-09T19:23:26.400023-04:00.jpg">
   <img src="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-09T19:23:26.400023-04:00.jpg"
-     alt="Breitbart at 2022-08-09 19:23:34-04:00 local time"
+     alt="Breitbart at 2022-08-09 12:23:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-09T19:23:26.400023-04:00.jpg">August 9 at 7:23 PM</a></p>
+ <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-09T19:23:26.400023-04:00.jpg">August 9 at 12:23 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-09T14:43:09.503345-04:00.jpg">
   <img src="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-09T14:43:09.503345-04:00.jpg"
-     alt="Breitbart at 2022-08-09 14:43:16-04:00 local time"
+     alt="Breitbart at 2022-08-09 07:43:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-09T14:43:09.503345-04:00.jpg">August 9 at 2:43 PM</a></p>
+ <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-09T14:43:09.503345-04:00.jpg">August 9 at 7:43 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-09T08:39:50.635358-04:00.jpg">
   <img src="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-09T08:39:50.635358-04:00.jpg"
-     alt="Breitbart at 2022-08-09 08:39:58-04:00 local time"
+     alt="Breitbart at 2022-08-09 01:39:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-09T08:39:50.635358-04:00.jpg">August 9 at 8:39 AM</a></p>
+ <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-09T08:39:50.635358-04:00.jpg">August 9 at 1:39 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-08T20:35:27.550241-04:00.jpg">
   <img src="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-08T20:35:27.550241-04:00.jpg"
-     alt="Breitbart at 2022-08-08 20:35:28-04:00 local time"
+     alt="Breitbart at 2022-08-08 13:35:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-08T20:35:27.550241-04:00.jpg">August 8 at 8:35 PM</a></p>
+ <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-08T20:35:27.550241-04:00.jpg">August 8 at 1:35 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-08T14:40:17.474164-04:00.jpg">
   <img src="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-08T14:40:17.474164-04:00.jpg"
-     alt="Breitbart at 2022-08-08 14:40:31-04:00 local time"
+     alt="Breitbart at 2022-08-08 07:40:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-08T14:40:17.474164-04:00.jpg">August 8 at 2:40 PM</a></p>
+ <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-08T14:40:17.474164-04:00.jpg">August 8 at 7:40 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-08T07:20:23.303547-04:00.jpg">
   <img src="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-08T07:20:23.303547-04:00.jpg"
-     alt="Breitbart at 2022-08-08 07:20:38-04:00 local time"
+     alt="Breitbart at 2022-08-08 00:20:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-08T07:20:23.303547-04:00.jpg">August 8 at 7:20 AM</a></p>
+ <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-08T07:20:23.303547-04:00.jpg">August 8 at 12:20 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-07T20:44:21.423186-04:00.jpg">
   <img src="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-07T20:44:21.423186-04:00.jpg"
-     alt="Breitbart at 2022-08-07 20:44:35-04:00 local time"
+     alt="Breitbart at 2022-08-07 13:44:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-07T20:44:21.423186-04:00.jpg">August 7 at 8:44 PM</a></p>
+ <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-07T20:44:21.423186-04:00.jpg">August 7 at 1:44 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-07T14:42:19.698723-04:00.jpg">
   <img src="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-07T14:42:19.698723-04:00.jpg"
-     alt="Breitbart at 2022-08-07 14:42:26-04:00 local time"
+     alt="Breitbart at 2022-08-07 07:42:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-07T14:42:19.698723-04:00.jpg">August 7 at 2:42 PM</a></p>
+ <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-07T14:42:19.698723-04:00.jpg">August 7 at 7:42 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 11 at 7:36 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-11T07:35:54.957415-04:00.hyperlinks.json) |
-| [August 10 at 8:39 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-10T20:39:18.543774-04:00.hyperlinks.json) |
-| [August 10 at 3:37 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-10T15:37:15.421020-04:00.hyperlinks.json) |
-| [August 10 at 8:53 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-10T08:52:58.870365-04:00.hyperlinks.json) |
-| [August 9 at 7:23 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-09T19:23:26.400023-04:00.hyperlinks.json) |
-| [August 9 at 2:43 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-09T14:43:09.503345-04:00.hyperlinks.json) |
-| [August 9 at 8:40 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-09T08:39:50.635358-04:00.hyperlinks.json) |
-| [August 8 at 8:35 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-08T20:35:27.550241-04:00.hyperlinks.json) |
-| [August 8 at 2:40 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-08T14:40:17.474164-04:00.hyperlinks.json) |
-| [August 8 at 7:20 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-08T07:20:23.303547-04:00.hyperlinks.json) |
+| [August 11 at 12:36 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-11T07:35:54.957415-04:00.hyperlinks.json) |
+| [August 10 at 1:39 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-10T20:39:18.543774-04:00.hyperlinks.json) |
+| [August 10 at 8:37 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-10T15:37:15.421020-04:00.hyperlinks.json) |
+| [August 10 at 1:53 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-10T08:52:58.870365-04:00.hyperlinks.json) |
+| [August 9 at 12:23 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-09T19:23:26.400023-04:00.hyperlinks.json) |
+| [August 9 at 7:43 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-09T14:43:09.503345-04:00.hyperlinks.json) |
+| [August 9 at 1:40 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-09T08:39:50.635358-04:00.hyperlinks.json) |
+| [August 8 at 1:35 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-08T20:35:27.550241-04:00.hyperlinks.json) |
+| [August 8 at 7:40 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-08T14:40:17.474164-04:00.hyperlinks.json) |
+| [August 8 at 12:20 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-08T07:20:23.303547-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 11 at 7:36 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-11T07:35:54.957415-04:00.accessibility.json) |
-| [August 10 at 8:39 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-10T20:39:18.543774-04:00.accessibility.json) |
-| [August 10 at 3:37 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-10T15:37:15.421020-04:00.accessibility.json) |
-| [August 10 at 8:53 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-10T08:52:58.870365-04:00.accessibility.json) |
-| [August 9 at 7:23 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-09T19:23:26.400023-04:00.accessibility.json) |
-| [August 9 at 2:43 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-09T14:43:09.503345-04:00.accessibility.json) |
-| [August 9 at 8:39 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-09T08:39:50.635358-04:00.accessibility.json) |
-| [August 8 at 8:35 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-08T20:35:27.550241-04:00.accessibility.json) |
-| [August 8 at 2:40 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-08T14:40:17.474164-04:00.accessibility.json) |
-| [August 8 at 7:20 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-08T07:20:23.303547-04:00.accessibility.json) |
+| [August 11 at 12:36 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-11T07:35:54.957415-04:00.accessibility.json) |
+| [August 10 at 1:39 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-10T20:39:18.543774-04:00.accessibility.json) |
+| [August 10 at 8:37 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-10T15:37:15.421020-04:00.accessibility.json) |
+| [August 10 at 1:53 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-10T08:52:58.870365-04:00.accessibility.json) |
+| [August 9 at 12:23 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-09T19:23:26.400023-04:00.accessibility.json) |
+| [August 9 at 7:43 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-09T14:43:09.503345-04:00.accessibility.json) |
+| [August 9 at 1:39 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-09T08:39:50.635358-04:00.accessibility.json) |
+| [August 8 at 1:35 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-08T20:35:27.550241-04:00.accessibility.json) |
+| [August 8 at 7:40 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-08T14:40:17.474164-04:00.accessibility.json) |
+| [August 8 at 12:20 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-08T07:20:23.303547-04:00.accessibility.json) |
 
 
 
@@ -525,16 +525,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 11 at 7:36 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-11T07:35:54.957415-04:00.lighthouse.json) |
-| [August 10 at 8:39 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-10T20:39:18.543774-04:00.lighthouse.json) |
-| [August 10 at 3:37 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-10T15:37:15.421020-04:00.lighthouse.json) |
-| [August 10 at 8:53 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-10T08:52:58.870365-04:00.lighthouse.json) |
-| [August 9 at 7:23 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-09T19:23:26.400023-04:00.lighthouse.json) |
-| [August 9 at 2:43 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-09T14:43:09.503345-04:00.lighthouse.json) |
-| [August 9 at 8:40 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-09T08:39:50.635358-04:00.lighthouse.json) |
-| [August 8 at 8:35 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-08T20:35:27.550241-04:00.lighthouse.json) |
-| [August 8 at 2:40 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-08T14:40:17.474164-04:00.lighthouse.json) |
-| [August 8 at 7:20 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-08T07:20:23.303547-04:00.lighthouse.json) |
+| [August 11 at 12:36 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-11T07:35:54.957415-04:00.lighthouse.json) |
+| [August 10 at 1:39 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-10T20:39:18.543774-04:00.lighthouse.json) |
+| [August 10 at 8:37 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-10T15:37:15.421020-04:00.lighthouse.json) |
+| [August 10 at 1:53 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-10T08:52:58.870365-04:00.lighthouse.json) |
+| [August 9 at 12:23 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-09T19:23:26.400023-04:00.lighthouse.json) |
+| [August 9 at 7:43 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-09T14:43:09.503345-04:00.lighthouse.json) |
+| [August 9 at 1:40 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-09T08:39:50.635358-04:00.lighthouse.json) |
+| [August 8 at 1:35 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-08T20:35:27.550241-04:00.lighthouse.json) |
+| [August 8 at 7:40 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-08T14:40:17.474164-04:00.lighthouse.json) |
+| [August 8 at 12:20 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-08T07:20:23.303547-04:00.lighthouse.json) |
 
 
 

@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/thedbk-2022/thedbk-2022-08-11T01:28:12.610889-04:00.jpg">
   <img src="https://archive.org/download/thedbk-2022/thedbk-2022-08-11T01:28:12.610889-04:00.jpg"
-     alt="The Diamondback at 2022-08-11 01:28:19-04:00 local time"
+     alt="The Diamondback at 2022-08-10 18:28:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-08-11T01:28:12.610889-04:00.jpg">August 11 at 1:28 AM</a></p>
+ <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-08-11T01:28:12.610889-04:00.jpg">August 10 at 6:28 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thedbk-2022/thedbk-2022-08-10T01:34:48.332992-04:00.jpg">
   <img src="https://archive.org/download/thedbk-2022/thedbk-2022-08-10T01:34:48.332992-04:00.jpg"
-     alt="The Diamondback at 2022-08-10 01:34:50-04:00 local time"
+     alt="The Diamondback at 2022-08-09 18:34:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-08-10T01:34:48.332992-04:00.jpg">August 10 at 1:34 AM</a></p>
+ <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-08-10T01:34:48.332992-04:00.jpg">August 9 at 6:34 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thedbk-2022/thedbk-2022-08-09T13:54:52.622346-04:00.jpg">
   <img src="https://archive.org/download/thedbk-2022/thedbk-2022-08-09T13:54:52.622346-04:00.jpg"
-     alt="The Diamondback at 2022-08-09 13:54:54-04:00 local time"
+     alt="The Diamondback at 2022-08-09 06:54:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-08-09T13:54:52.622346-04:00.jpg">August 9 at 1:54 PM</a></p>
+ <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-08-09T13:54:52.622346-04:00.jpg">August 9 at 6:54 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thedbk-2022/thedbk-2022-08-09T01:11:27.745423-04:00.jpg">
   <img src="https://archive.org/download/thedbk-2022/thedbk-2022-08-09T01:11:27.745423-04:00.jpg"
-     alt="The Diamondback at 2022-08-09 01:11:31-04:00 local time"
+     alt="The Diamondback at 2022-08-08 18:11:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-08-09T01:11:27.745423-04:00.jpg">August 9 at 1:11 AM</a></p>
+ <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-08-09T01:11:27.745423-04:00.jpg">August 8 at 6:11 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thedbk-2022/thedbk-2022-08-08T13:20:58.524766-04:00.jpg">
   <img src="https://archive.org/download/thedbk-2022/thedbk-2022-08-08T13:20:58.524766-04:00.jpg"
-     alt="The Diamondback at 2022-08-08 13:21:04-04:00 local time"
+     alt="The Diamondback at 2022-08-08 06:21:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-08-08T13:20:58.524766-04:00.jpg">August 8 at 1:21 PM</a></p>
+ <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-08-08T13:20:58.524766-04:00.jpg">August 8 at 6:21 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thedbk-2022/thedbk-2022-08-08T01:27:10.084824-04:00.jpg">
   <img src="https://archive.org/download/thedbk-2022/thedbk-2022-08-08T01:27:10.084824-04:00.jpg"
-     alt="The Diamondback at 2022-08-08 01:27:14-04:00 local time"
+     alt="The Diamondback at 2022-08-07 18:27:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-08-08T01:27:10.084824-04:00.jpg">August 8 at 1:27 AM</a></p>
+ <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-08-08T01:27:10.084824-04:00.jpg">August 7 at 6:27 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thedbk-2022/thedbk-2022-08-07T13:07:51.702460-04:00.jpg">
   <img src="https://archive.org/download/thedbk-2022/thedbk-2022-08-07T13:07:51.702460-04:00.jpg"
-     alt="The Diamondback at 2022-08-07 13:08:00-04:00 local time"
+     alt="The Diamondback at 2022-08-07 06:08:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-08-07T13:07:51.702460-04:00.jpg">August 7 at 1:08 PM</a></p>
+ <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-08-07T13:07:51.702460-04:00.jpg">August 7 at 6:08 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thedbk-2022/thedbk-2022-08-07T00:45:36.470519-04:00.jpg">
   <img src="https://archive.org/download/thedbk-2022/thedbk-2022-08-07T00:45:36.470519-04:00.jpg"
-     alt="The Diamondback at 2022-08-07 00:45:45-04:00 local time"
+     alt="The Diamondback at 2022-08-06 17:45:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-08-07T00:45:36.470519-04:00.jpg">August 7 at 12:45 AM</a></p>
+ <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-08-07T00:45:36.470519-04:00.jpg">August 6 at 5:45 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thedbk-2022/thedbk-2022-08-06T12:28:35.135038-04:00.jpg">
   <img src="https://archive.org/download/thedbk-2022/thedbk-2022-08-06T12:28:35.135038-04:00.jpg"
-     alt="The Diamondback at 2022-08-06 12:28:38-04:00 local time"
+     alt="The Diamondback at 2022-08-06 05:28:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-08-06T12:28:35.135038-04:00.jpg">August 6 at 12:28 PM</a></p>
+ <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-08-06T12:28:35.135038-04:00.jpg">August 6 at 5:28 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thedbk-2022/thedbk-2022-08-06T01:05:28.961443-04:00.jpg">
   <img src="https://archive.org/download/thedbk-2022/thedbk-2022-08-06T01:05:28.961443-04:00.jpg"
-     alt="The Diamondback at 2022-08-06 01:05:30-04:00 local time"
+     alt="The Diamondback at 2022-08-05 18:05:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-08-06T01:05:28.961443-04:00.jpg">August 6 at 1:05 AM</a></p>
+ <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-08-06T01:05:28.961443-04:00.jpg">August 5 at 6:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thedbk-2022/thedbk-2022-08-05T13:59:26.689872-04:00.jpg">
   <img src="https://archive.org/download/thedbk-2022/thedbk-2022-08-05T13:59:26.689872-04:00.jpg"
-     alt="The Diamondback at 2022-08-05 13:59:27-04:00 local time"
+     alt="The Diamondback at 2022-08-05 06:59:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-08-05T13:59:26.689872-04:00.jpg">August 5 at 1:59 PM</a></p>
+ <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-08-05T13:59:26.689872-04:00.jpg">August 5 at 6:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thedbk-2022/thedbk-2022-08-05T00:44:20.555530-04:00.jpg">
   <img src="https://archive.org/download/thedbk-2022/thedbk-2022-08-05T00:44:20.555530-04:00.jpg"
-     alt="The Diamondback at 2022-08-05 00:44:27-04:00 local time"
+     alt="The Diamondback at 2022-08-04 17:44:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-08-05T00:44:20.555530-04:00.jpg">August 5 at 12:44 AM</a></p>
+ <p><a href="https://archive.org/download/thedbk-2022/thedbk-2022-08-05T00:44:20.555530-04:00.jpg">August 4 at 5:44 PM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 11 at 1:28 AM](https://archive.org/download/thedbk-2022/thedbk-2022-08-11T01:28:12.610889-04:00.hyperlinks.json) |
-| [August 10 at 2:27 PM](https://archive.org/download/thedbk-2022/thedbk-2022-08-10T14:27:40.900467-04:00.hyperlinks.json) |
-| [August 10 at 1:34 AM](https://archive.org/download/thedbk-2022/thedbk-2022-08-10T01:34:48.332992-04:00.hyperlinks.json) |
-| [August 9 at 1:55 PM](https://archive.org/download/thedbk-2022/thedbk-2022-08-09T13:54:52.622346-04:00.hyperlinks.json) |
-| [August 9 at 1:11 AM](https://archive.org/download/thedbk-2022/thedbk-2022-08-09T01:11:27.745423-04:00.hyperlinks.json) |
-| [August 8 at 1:21 PM](https://archive.org/download/thedbk-2022/thedbk-2022-08-08T13:20:58.524766-04:00.hyperlinks.json) |
-| [August 8 at 1:27 AM](https://archive.org/download/thedbk-2022/thedbk-2022-08-08T01:27:10.084824-04:00.hyperlinks.json) |
-| [August 7 at 1:08 PM](https://archive.org/download/thedbk-2022/thedbk-2022-08-07T13:07:51.702460-04:00.hyperlinks.json) |
-| [August 7 at 12:45 AM](https://archive.org/download/thedbk-2022/thedbk-2022-08-07T00:45:36.470519-04:00.hyperlinks.json) |
-| [August 6 at 12:28 PM](https://archive.org/download/thedbk-2022/thedbk-2022-08-06T12:28:35.135038-04:00.hyperlinks.json) |
+| [August 10 at 6:28 PM](https://archive.org/download/thedbk-2022/thedbk-2022-08-11T01:28:12.610889-04:00.hyperlinks.json) |
+| [August 10 at 7:27 AM](https://archive.org/download/thedbk-2022/thedbk-2022-08-10T14:27:40.900467-04:00.hyperlinks.json) |
+| [August 9 at 6:34 PM](https://archive.org/download/thedbk-2022/thedbk-2022-08-10T01:34:48.332992-04:00.hyperlinks.json) |
+| [August 9 at 6:55 AM](https://archive.org/download/thedbk-2022/thedbk-2022-08-09T13:54:52.622346-04:00.hyperlinks.json) |
+| [August 8 at 6:11 PM](https://archive.org/download/thedbk-2022/thedbk-2022-08-09T01:11:27.745423-04:00.hyperlinks.json) |
+| [August 8 at 6:21 AM](https://archive.org/download/thedbk-2022/thedbk-2022-08-08T13:20:58.524766-04:00.hyperlinks.json) |
+| [August 7 at 6:27 PM](https://archive.org/download/thedbk-2022/thedbk-2022-08-08T01:27:10.084824-04:00.hyperlinks.json) |
+| [August 7 at 6:08 AM](https://archive.org/download/thedbk-2022/thedbk-2022-08-07T13:07:51.702460-04:00.hyperlinks.json) |
+| [August 6 at 5:45 PM](https://archive.org/download/thedbk-2022/thedbk-2022-08-07T00:45:36.470519-04:00.hyperlinks.json) |
+| [August 6 at 5:28 AM](https://archive.org/download/thedbk-2022/thedbk-2022-08-06T12:28:35.135038-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 11 at 1:28 AM](https://archive.org/download/thedbk-2022/thedbk-2022-08-11T01:28:12.610889-04:00.accessibility.json) |
-| [August 10 at 2:27 PM](https://archive.org/download/thedbk-2022/thedbk-2022-08-10T14:27:40.900467-04:00.accessibility.json) |
-| [August 10 at 1:34 AM](https://archive.org/download/thedbk-2022/thedbk-2022-08-10T01:34:48.332992-04:00.accessibility.json) |
-| [August 9 at 1:55 PM](https://archive.org/download/thedbk-2022/thedbk-2022-08-09T13:54:52.622346-04:00.accessibility.json) |
-| [August 9 at 1:11 AM](https://archive.org/download/thedbk-2022/thedbk-2022-08-09T01:11:27.745423-04:00.accessibility.json) |
-| [August 8 at 1:21 PM](https://archive.org/download/thedbk-2022/thedbk-2022-08-08T13:20:58.524766-04:00.accessibility.json) |
-| [August 8 at 1:27 AM](https://archive.org/download/thedbk-2022/thedbk-2022-08-08T01:27:10.084824-04:00.accessibility.json) |
-| [August 7 at 1:08 PM](https://archive.org/download/thedbk-2022/thedbk-2022-08-07T13:07:51.702460-04:00.accessibility.json) |
-| [August 7 at 12:45 AM](https://archive.org/download/thedbk-2022/thedbk-2022-08-07T00:45:36.470519-04:00.accessibility.json) |
-| [August 6 at 12:28 PM](https://archive.org/download/thedbk-2022/thedbk-2022-08-06T12:28:35.135038-04:00.accessibility.json) |
+| [August 10 at 6:28 PM](https://archive.org/download/thedbk-2022/thedbk-2022-08-11T01:28:12.610889-04:00.accessibility.json) |
+| [August 10 at 7:27 AM](https://archive.org/download/thedbk-2022/thedbk-2022-08-10T14:27:40.900467-04:00.accessibility.json) |
+| [August 9 at 6:34 PM](https://archive.org/download/thedbk-2022/thedbk-2022-08-10T01:34:48.332992-04:00.accessibility.json) |
+| [August 9 at 6:55 AM](https://archive.org/download/thedbk-2022/thedbk-2022-08-09T13:54:52.622346-04:00.accessibility.json) |
+| [August 8 at 6:11 PM](https://archive.org/download/thedbk-2022/thedbk-2022-08-09T01:11:27.745423-04:00.accessibility.json) |
+| [August 8 at 6:21 AM](https://archive.org/download/thedbk-2022/thedbk-2022-08-08T13:20:58.524766-04:00.accessibility.json) |
+| [August 7 at 6:27 PM](https://archive.org/download/thedbk-2022/thedbk-2022-08-08T01:27:10.084824-04:00.accessibility.json) |
+| [August 7 at 6:08 AM](https://archive.org/download/thedbk-2022/thedbk-2022-08-07T13:07:51.702460-04:00.accessibility.json) |
+| [August 6 at 5:45 PM](https://archive.org/download/thedbk-2022/thedbk-2022-08-07T00:45:36.470519-04:00.accessibility.json) |
+| [August 6 at 5:28 AM](https://archive.org/download/thedbk-2022/thedbk-2022-08-06T12:28:35.135038-04:00.accessibility.json) |
 
 
 
@@ -525,16 +525,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 11 at 1:28 AM](https://archive.org/download/thedbk-2022/thedbk-2022-08-11T01:28:12.610889-04:00.lighthouse.json) |
-| [August 10 at 2:27 PM](https://archive.org/download/thedbk-2022/thedbk-2022-08-10T14:27:40.900467-04:00.lighthouse.json) |
-| [August 10 at 1:34 AM](https://archive.org/download/thedbk-2022/thedbk-2022-08-10T01:34:48.332992-04:00.lighthouse.json) |
-| [August 9 at 1:55 PM](https://archive.org/download/thedbk-2022/thedbk-2022-08-09T13:54:52.622346-04:00.lighthouse.json) |
-| [August 9 at 1:11 AM](https://archive.org/download/thedbk-2022/thedbk-2022-08-09T01:11:27.745423-04:00.lighthouse.json) |
-| [August 8 at 1:21 PM](https://archive.org/download/thedbk-2022/thedbk-2022-08-08T13:20:58.524766-04:00.lighthouse.json) |
-| [August 8 at 1:27 AM](https://archive.org/download/thedbk-2022/thedbk-2022-08-08T01:27:10.084824-04:00.lighthouse.json) |
-| [August 7 at 1:08 PM](https://archive.org/download/thedbk-2022/thedbk-2022-08-07T13:07:51.702460-04:00.lighthouse.json) |
-| [August 7 at 12:45 AM](https://archive.org/download/thedbk-2022/thedbk-2022-08-07T00:45:36.470519-04:00.lighthouse.json) |
-| [August 6 at 12:28 PM](https://archive.org/download/thedbk-2022/thedbk-2022-08-06T12:28:35.135038-04:00.lighthouse.json) |
+| [August 10 at 6:28 PM](https://archive.org/download/thedbk-2022/thedbk-2022-08-11T01:28:12.610889-04:00.lighthouse.json) |
+| [August 10 at 7:27 AM](https://archive.org/download/thedbk-2022/thedbk-2022-08-10T14:27:40.900467-04:00.lighthouse.json) |
+| [August 9 at 6:34 PM](https://archive.org/download/thedbk-2022/thedbk-2022-08-10T01:34:48.332992-04:00.lighthouse.json) |
+| [August 9 at 6:55 AM](https://archive.org/download/thedbk-2022/thedbk-2022-08-09T13:54:52.622346-04:00.lighthouse.json) |
+| [August 8 at 6:11 PM](https://archive.org/download/thedbk-2022/thedbk-2022-08-09T01:11:27.745423-04:00.lighthouse.json) |
+| [August 8 at 6:21 AM](https://archive.org/download/thedbk-2022/thedbk-2022-08-08T13:20:58.524766-04:00.lighthouse.json) |
+| [August 7 at 6:27 PM](https://archive.org/download/thedbk-2022/thedbk-2022-08-08T01:27:10.084824-04:00.lighthouse.json) |
+| [August 7 at 6:08 AM](https://archive.org/download/thedbk-2022/thedbk-2022-08-07T13:07:51.702460-04:00.lighthouse.json) |
+| [August 6 at 5:45 PM](https://archive.org/download/thedbk-2022/thedbk-2022-08-07T00:45:36.470519-04:00.lighthouse.json) |
+| [August 6 at 5:28 AM](https://archive.org/download/thedbk-2022/thedbk-2022-08-06T12:28:35.135038-04:00.lighthouse.json) |
 
 
 

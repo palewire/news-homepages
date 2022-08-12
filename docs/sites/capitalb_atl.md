@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-11T07:35:56.366505-04:00.jpg">
   <img src="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-11T07:35:56.366505-04:00.jpg"
-     alt="Capital B Atlanta at 2022-08-11 07:35:58-04:00 local time"
+     alt="Capital B Atlanta at 2022-08-11 00:35:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-11T07:35:56.366505-04:00.jpg">August 11 at 7:35 AM</a></p>
+ <p><a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-11T07:35:56.366505-04:00.jpg">August 11 at 12:35 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-10T20:39:23.941540-04:00.jpg">
   <img src="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-10T20:39:23.941540-04:00.jpg"
-     alt="Capital B Atlanta at 2022-08-10 20:39:26-04:00 local time"
+     alt="Capital B Atlanta at 2022-08-10 13:39:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-10T20:39:23.941540-04:00.jpg">August 10 at 8:39 PM</a></p>
+ <p><a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-10T20:39:23.941540-04:00.jpg">August 10 at 1:39 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-10T08:53:22.865346-04:00.jpg">
   <img src="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-10T08:53:22.865346-04:00.jpg"
-     alt="Capital B Atlanta at 2022-08-10 08:53:26-04:00 local time"
+     alt="Capital B Atlanta at 2022-08-10 01:53:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-10T08:53:22.865346-04:00.jpg">August 10 at 8:53 AM</a></p>
+ <p><a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-10T08:53:22.865346-04:00.jpg">August 10 at 1:53 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-09T19:23:52.902656-04:00.jpg">
   <img src="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-09T19:23:52.902656-04:00.jpg"
-     alt="Capital B Atlanta at 2022-08-09 19:23:55-04:00 local time"
+     alt="Capital B Atlanta at 2022-08-09 12:23:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-09T19:23:52.902656-04:00.jpg">August 9 at 7:23 PM</a></p>
+ <p><a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-09T19:23:52.902656-04:00.jpg">August 9 at 12:23 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-09T08:40:10.501575-04:00.jpg">
   <img src="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-09T08:40:10.501575-04:00.jpg"
-     alt="Capital B Atlanta at 2022-08-09 08:40:12-04:00 local time"
+     alt="Capital B Atlanta at 2022-08-09 01:40:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-09T08:40:10.501575-04:00.jpg">August 9 at 8:40 AM</a></p>
+ <p><a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-09T08:40:10.501575-04:00.jpg">August 9 at 1:40 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-08T20:35:44.485379-04:00.jpg">
   <img src="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-08T20:35:44.485379-04:00.jpg"
-     alt="Capital B Atlanta at 2022-08-08 20:35:48-04:00 local time"
+     alt="Capital B Atlanta at 2022-08-08 13:35:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-08T20:35:44.485379-04:00.jpg">August 8 at 8:35 PM</a></p>
+ <p><a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-08T20:35:44.485379-04:00.jpg">August 8 at 1:35 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-08T07:22:05.455149-04:00.jpg">
   <img src="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-08T07:22:05.455149-04:00.jpg"
-     alt="Capital B Atlanta at 2022-08-08 07:22:07-04:00 local time"
+     alt="Capital B Atlanta at 2022-08-08 00:22:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-08T07:22:05.455149-04:00.jpg">August 8 at 7:22 AM</a></p>
+ <p><a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-08T07:22:05.455149-04:00.jpg">August 8 at 12:22 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-07T20:43:35.431244-04:00.jpg">
   <img src="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-07T20:43:35.431244-04:00.jpg"
-     alt="Capital B Atlanta at 2022-08-07 20:43:37-04:00 local time"
+     alt="Capital B Atlanta at 2022-08-07 13:43:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-07T20:43:35.431244-04:00.jpg">August 7 at 8:43 PM</a></p>
+ <p><a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-07T20:43:35.431244-04:00.jpg">August 7 at 1:43 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-07T08:24:42.642054-04:00.jpg">
   <img src="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-07T08:24:42.642054-04:00.jpg"
-     alt="Capital B Atlanta at 2022-08-07 08:24:44-04:00 local time"
+     alt="Capital B Atlanta at 2022-08-07 01:24:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-07T08:24:42.642054-04:00.jpg">August 7 at 8:24 AM</a></p>
+ <p><a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-07T08:24:42.642054-04:00.jpg">August 7 at 1:24 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-06T20:26:36.207781-04:00.jpg">
   <img src="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-06T20:26:36.207781-04:00.jpg"
-     alt="Capital B Atlanta at 2022-08-06 20:26:38-04:00 local time"
+     alt="Capital B Atlanta at 2022-08-06 13:26:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-06T20:26:36.207781-04:00.jpg">August 6 at 8:26 PM</a></p>
+ <p><a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-06T20:26:36.207781-04:00.jpg">August 6 at 1:26 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-06T08:18:05.354623-04:00.jpg">
   <img src="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-06T08:18:05.354623-04:00.jpg"
-     alt="Capital B Atlanta at 2022-08-06 08:18:07-04:00 local time"
+     alt="Capital B Atlanta at 2022-08-06 01:18:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-06T08:18:05.354623-04:00.jpg">August 6 at 8:18 AM</a></p>
+ <p><a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-06T08:18:05.354623-04:00.jpg">August 6 at 1:18 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-05T19:29:08.278407-04:00.jpg">
   <img src="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-05T19:29:08.278407-04:00.jpg"
-     alt="Capital B Atlanta at 2022-08-05 19:29:10-04:00 local time"
+     alt="Capital B Atlanta at 2022-08-05 12:29:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-05T19:29:08.278407-04:00.jpg">August 5 at 7:29 PM</a></p>
+ <p><a href="https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-05T19:29:08.278407-04:00.jpg">August 5 at 12:29 PM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 11 at 7:36 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-11T07:35:56.366505-04:00.hyperlinks.json) |
-| [August 10 at 8:39 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-10T20:39:23.941540-04:00.hyperlinks.json) |
-| [August 10 at 8:53 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-10T08:53:22.865346-04:00.hyperlinks.json) |
-| [August 9 at 7:23 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-09T19:23:52.902656-04:00.hyperlinks.json) |
-| [August 9 at 8:40 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-09T08:40:10.501575-04:00.hyperlinks.json) |
-| [August 8 at 8:35 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-08T20:35:44.485379-04:00.hyperlinks.json) |
-| [August 8 at 7:22 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-08T07:22:05.455149-04:00.hyperlinks.json) |
-| [August 7 at 8:43 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-07T20:43:35.431244-04:00.hyperlinks.json) |
-| [August 7 at 8:24 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-07T08:24:42.642054-04:00.hyperlinks.json) |
-| [August 6 at 8:26 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-06T20:26:36.207781-04:00.hyperlinks.json) |
+| [August 11 at 12:36 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-11T07:35:56.366505-04:00.hyperlinks.json) |
+| [August 10 at 1:39 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-10T20:39:23.941540-04:00.hyperlinks.json) |
+| [August 10 at 1:53 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-10T08:53:22.865346-04:00.hyperlinks.json) |
+| [August 9 at 12:23 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-09T19:23:52.902656-04:00.hyperlinks.json) |
+| [August 9 at 1:40 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-09T08:40:10.501575-04:00.hyperlinks.json) |
+| [August 8 at 1:35 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-08T20:35:44.485379-04:00.hyperlinks.json) |
+| [August 8 at 12:22 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-08T07:22:05.455149-04:00.hyperlinks.json) |
+| [August 7 at 1:43 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-07T20:43:35.431244-04:00.hyperlinks.json) |
+| [August 7 at 1:24 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-07T08:24:42.642054-04:00.hyperlinks.json) |
+| [August 6 at 1:26 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-06T20:26:36.207781-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 11 at 7:36 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-11T07:35:56.366505-04:00.accessibility.json) |
-| [August 10 at 8:39 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-10T20:39:23.941540-04:00.accessibility.json) |
-| [August 10 at 8:53 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-10T08:53:22.865346-04:00.accessibility.json) |
-| [August 9 at 7:23 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-09T19:23:52.902656-04:00.accessibility.json) |
-| [August 9 at 8:40 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-09T08:40:10.501575-04:00.accessibility.json) |
-| [August 8 at 8:35 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-08T20:35:44.485379-04:00.accessibility.json) |
-| [August 8 at 7:22 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-08T07:22:05.455149-04:00.accessibility.json) |
-| [August 7 at 8:43 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-07T20:43:35.431244-04:00.accessibility.json) |
-| [August 7 at 8:24 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-07T08:24:42.642054-04:00.accessibility.json) |
-| [August 6 at 8:26 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-06T20:26:36.207781-04:00.accessibility.json) |
+| [August 11 at 12:36 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-11T07:35:56.366505-04:00.accessibility.json) |
+| [August 10 at 1:39 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-10T20:39:23.941540-04:00.accessibility.json) |
+| [August 10 at 1:53 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-10T08:53:22.865346-04:00.accessibility.json) |
+| [August 9 at 12:23 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-09T19:23:52.902656-04:00.accessibility.json) |
+| [August 9 at 1:40 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-09T08:40:10.501575-04:00.accessibility.json) |
+| [August 8 at 1:35 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-08T20:35:44.485379-04:00.accessibility.json) |
+| [August 8 at 12:22 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-08T07:22:05.455149-04:00.accessibility.json) |
+| [August 7 at 1:43 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-07T20:43:35.431244-04:00.accessibility.json) |
+| [August 7 at 1:24 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-07T08:24:42.642054-04:00.accessibility.json) |
+| [August 6 at 1:26 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-06T20:26:36.207781-04:00.accessibility.json) |
 
 
 
@@ -525,16 +525,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 11 at 7:36 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-11T07:35:56.366505-04:00.lighthouse.json) |
-| [August 10 at 8:39 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-10T20:39:23.941540-04:00.lighthouse.json) |
-| [August 10 at 8:53 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-10T08:53:22.865346-04:00.lighthouse.json) |
-| [August 9 at 7:24 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-09T19:23:52.902656-04:00.lighthouse.json) |
-| [August 9 at 8:40 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-09T08:40:10.501575-04:00.lighthouse.json) |
-| [August 8 at 8:35 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-08T20:35:44.485379-04:00.lighthouse.json) |
-| [August 8 at 7:22 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-08T07:22:05.455149-04:00.lighthouse.json) |
-| [August 7 at 8:43 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-07T20:43:35.431244-04:00.lighthouse.json) |
-| [August 7 at 8:24 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-07T08:24:42.642054-04:00.lighthouse.json) |
-| [August 6 at 8:26 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-06T20:26:36.207781-04:00.lighthouse.json) |
+| [August 11 at 12:36 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-11T07:35:56.366505-04:00.lighthouse.json) |
+| [August 10 at 1:39 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-10T20:39:23.941540-04:00.lighthouse.json) |
+| [August 10 at 1:53 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-10T08:53:22.865346-04:00.lighthouse.json) |
+| [August 9 at 12:24 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-09T19:23:52.902656-04:00.lighthouse.json) |
+| [August 9 at 1:40 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-09T08:40:10.501575-04:00.lighthouse.json) |
+| [August 8 at 1:35 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-08T20:35:44.485379-04:00.lighthouse.json) |
+| [August 8 at 12:22 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-08T07:22:05.455149-04:00.lighthouse.json) |
+| [August 7 at 1:43 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-07T20:43:35.431244-04:00.lighthouse.json) |
+| [August 7 at 1:24 AM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-07T08:24:42.642054-04:00.lighthouse.json) |
+| [August 6 at 1:26 PM](https://archive.org/download/capitalb_atl-2022/capitalb_atl-2022-08-06T20:26:36.207781-04:00.lighthouse.json) |
 
 
 

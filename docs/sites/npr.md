@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/npr-2022/npr-2022-08-10T20:55:41.949318-04:00.jpg">
   <img src="https://archive.org/download/npr-2022/npr-2022-08-10T20:55:41.949318-04:00.jpg"
-     alt="NPR at 2022-08-10 20:55:48-04:00 local time"
+     alt="NPR at 2022-08-10 13:55:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/npr-2022/npr-2022-08-10T20:55:41.949318-04:00.jpg">August 10 at 8:55 PM</a></p>
+ <p><a href="https://archive.org/download/npr-2022/npr-2022-08-10T20:55:41.949318-04:00.jpg">August 10 at 1:55 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/npr-2022/npr-2022-08-10T17:16:32.819389-04:00.jpg">
   <img src="https://archive.org/download/npr-2022/npr-2022-08-10T17:16:32.819389-04:00.jpg"
-     alt="NPR at 2022-08-10 17:16:34-04:00 local time"
+     alt="NPR at 2022-08-10 10:16:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/npr-2022/npr-2022-08-10T17:16:32.819389-04:00.jpg">August 10 at 5:16 PM</a></p>
+ <p><a href="https://archive.org/download/npr-2022/npr-2022-08-10T17:16:32.819389-04:00.jpg">August 10 at 10:16 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/npr-2022/npr-2022-08-10T10:50:26.628129-04:00.jpg">
   <img src="https://archive.org/download/npr-2022/npr-2022-08-10T10:50:26.628129-04:00.jpg"
-     alt="NPR at 2022-08-10 10:50:28-04:00 local time"
+     alt="NPR at 2022-08-10 03:50:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/npr-2022/npr-2022-08-10T10:50:26.628129-04:00.jpg">August 10 at 10:50 AM</a></p>
+ <p><a href="https://archive.org/download/npr-2022/npr-2022-08-10T10:50:26.628129-04:00.jpg">August 10 at 3:50 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/npr-2022/npr-2022-08-10T09:13:50.520824-04:00.jpg">
   <img src="https://archive.org/download/npr-2022/npr-2022-08-10T09:13:50.520824-04:00.jpg"
-     alt="NPR at 2022-08-10 09:13:54-04:00 local time"
+     alt="NPR at 2022-08-10 02:13:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/npr-2022/npr-2022-08-10T09:13:50.520824-04:00.jpg">August 10 at 9:13 AM</a></p>
+ <p><a href="https://archive.org/download/npr-2022/npr-2022-08-10T09:13:50.520824-04:00.jpg">August 10 at 2:13 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/npr-2022/npr-2022-08-09T21:00:07.065142-04:00.jpg">
   <img src="https://archive.org/download/npr-2022/npr-2022-08-09T21:00:07.065142-04:00.jpg"
-     alt="NPR at 2022-08-09 21:00:09-04:00 local time"
+     alt="NPR at 2022-08-09 14:00:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/npr-2022/npr-2022-08-09T21:00:07.065142-04:00.jpg">August 9 at 9:00 PM</a></p>
+ <p><a href="https://archive.org/download/npr-2022/npr-2022-08-09T21:00:07.065142-04:00.jpg">August 9 at 2:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/npr-2022/npr-2022-08-09T17:14:24.294643-04:00.jpg">
   <img src="https://archive.org/download/npr-2022/npr-2022-08-09T17:14:24.294643-04:00.jpg"
-     alt="NPR at 2022-08-09 17:14:26-04:00 local time"
+     alt="NPR at 2022-08-09 10:14:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/npr-2022/npr-2022-08-09T17:14:24.294643-04:00.jpg">August 9 at 5:14 PM</a></p>
+ <p><a href="https://archive.org/download/npr-2022/npr-2022-08-09T17:14:24.294643-04:00.jpg">August 9 at 10:14 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/npr-2022/npr-2022-08-09T10:28:19.779152-04:00.jpg">
   <img src="https://archive.org/download/npr-2022/npr-2022-08-09T10:28:19.779152-04:00.jpg"
-     alt="NPR at 2022-08-09 10:28:22-04:00 local time"
+     alt="NPR at 2022-08-09 03:28:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/npr-2022/npr-2022-08-09T10:28:19.779152-04:00.jpg">August 9 at 10:28 AM</a></p>
+ <p><a href="https://archive.org/download/npr-2022/npr-2022-08-09T10:28:19.779152-04:00.jpg">August 9 at 3:28 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/npr-2022/npr-2022-08-09T08:59:58.170491-04:00.jpg">
   <img src="https://archive.org/download/npr-2022/npr-2022-08-09T08:59:58.170491-04:00.jpg"
-     alt="NPR at 2022-08-09 09:00:03-04:00 local time"
+     alt="NPR at 2022-08-09 02:00:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/npr-2022/npr-2022-08-09T08:59:58.170491-04:00.jpg">August 9 at 9:00 AM</a></p>
+ <p><a href="https://archive.org/download/npr-2022/npr-2022-08-09T08:59:58.170491-04:00.jpg">August 9 at 2:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/npr-2022/npr-2022-08-08T20:55:28.817902-04:00.jpg">
   <img src="https://archive.org/download/npr-2022/npr-2022-08-08T20:55:28.817902-04:00.jpg"
-     alt="NPR at 2022-08-08 20:55:30-04:00 local time"
+     alt="NPR at 2022-08-08 13:55:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/npr-2022/npr-2022-08-08T20:55:28.817902-04:00.jpg">August 8 at 8:55 PM</a></p>
+ <p><a href="https://archive.org/download/npr-2022/npr-2022-08-08T20:55:28.817902-04:00.jpg">August 8 at 1:55 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/npr-2022/npr-2022-08-08T17:13:41.156705-04:00.jpg">
   <img src="https://archive.org/download/npr-2022/npr-2022-08-08T17:13:41.156705-04:00.jpg"
-     alt="NPR at 2022-08-08 17:13:45-04:00 local time"
+     alt="NPR at 2022-08-08 10:13:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/npr-2022/npr-2022-08-08T17:13:41.156705-04:00.jpg">August 8 at 5:13 PM</a></p>
+ <p><a href="https://archive.org/download/npr-2022/npr-2022-08-08T17:13:41.156705-04:00.jpg">August 8 at 10:13 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/npr-2022/npr-2022-08-08T10:07:52.664416-04:00.jpg">
   <img src="https://archive.org/download/npr-2022/npr-2022-08-08T10:07:52.664416-04:00.jpg"
-     alt="NPR at 2022-08-08 10:07:54-04:00 local time"
+     alt="NPR at 2022-08-08 03:07:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/npr-2022/npr-2022-08-08T10:07:52.664416-04:00.jpg">August 8 at 10:07 AM</a></p>
+ <p><a href="https://archive.org/download/npr-2022/npr-2022-08-08T10:07:52.664416-04:00.jpg">August 8 at 3:07 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/npr-2022/npr-2022-08-08T08:47:29.599432-04:00.jpg">
   <img src="https://archive.org/download/npr-2022/npr-2022-08-08T08:47:29.599432-04:00.jpg"
-     alt="NPR at 2022-08-08 08:47:34-04:00 local time"
+     alt="NPR at 2022-08-08 01:47:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/npr-2022/npr-2022-08-08T08:47:29.599432-04:00.jpg">August 8 at 8:47 AM</a></p>
+ <p><a href="https://archive.org/download/npr-2022/npr-2022-08-08T08:47:29.599432-04:00.jpg">August 8 at 1:47 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 10 at 8:55 PM](https://archive.org/download/npr-2022/npr-2022-08-10T20:55:41.949318-04:00.hyperlinks.json) |
-| [August 10 at 5:16 PM](https://archive.org/download/npr-2022/npr-2022-08-10T17:16:32.819389-04:00.hyperlinks.json) |
-| [August 10 at 10:50 AM](https://archive.org/download/npr-2022/npr-2022-08-10T10:50:26.628129-04:00.hyperlinks.json) |
-| [August 10 at 9:13 AM](https://archive.org/download/npr-2022/npr-2022-08-10T09:13:50.520824-04:00.hyperlinks.json) |
-| [August 9 at 9:00 PM](https://archive.org/download/npr-2022/npr-2022-08-09T21:00:07.065142-04:00.hyperlinks.json) |
-| [August 9 at 5:14 PM](https://archive.org/download/npr-2022/npr-2022-08-09T17:14:24.294643-04:00.hyperlinks.json) |
-| [August 9 at 10:28 AM](https://archive.org/download/npr-2022/npr-2022-08-09T10:28:19.779152-04:00.hyperlinks.json) |
-| [August 9 at 9:00 AM](https://archive.org/download/npr-2022/npr-2022-08-09T08:59:58.170491-04:00.hyperlinks.json) |
-| [August 8 at 8:55 PM](https://archive.org/download/npr-2022/npr-2022-08-08T20:55:28.817902-04:00.hyperlinks.json) |
-| [August 8 at 5:13 PM](https://archive.org/download/npr-2022/npr-2022-08-08T17:13:41.156705-04:00.hyperlinks.json) |
+| [August 10 at 1:55 PM](https://archive.org/download/npr-2022/npr-2022-08-10T20:55:41.949318-04:00.hyperlinks.json) |
+| [August 10 at 10:16 AM](https://archive.org/download/npr-2022/npr-2022-08-10T17:16:32.819389-04:00.hyperlinks.json) |
+| [August 10 at 3:50 AM](https://archive.org/download/npr-2022/npr-2022-08-10T10:50:26.628129-04:00.hyperlinks.json) |
+| [August 10 at 2:13 AM](https://archive.org/download/npr-2022/npr-2022-08-10T09:13:50.520824-04:00.hyperlinks.json) |
+| [August 9 at 2:00 PM](https://archive.org/download/npr-2022/npr-2022-08-09T21:00:07.065142-04:00.hyperlinks.json) |
+| [August 9 at 10:14 AM](https://archive.org/download/npr-2022/npr-2022-08-09T17:14:24.294643-04:00.hyperlinks.json) |
+| [August 9 at 3:28 AM](https://archive.org/download/npr-2022/npr-2022-08-09T10:28:19.779152-04:00.hyperlinks.json) |
+| [August 9 at 2:00 AM](https://archive.org/download/npr-2022/npr-2022-08-09T08:59:58.170491-04:00.hyperlinks.json) |
+| [August 8 at 1:55 PM](https://archive.org/download/npr-2022/npr-2022-08-08T20:55:28.817902-04:00.hyperlinks.json) |
+| [August 8 at 10:13 AM](https://archive.org/download/npr-2022/npr-2022-08-08T17:13:41.156705-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 10 at 8:55 PM](https://archive.org/download/npr-2022/npr-2022-08-10T20:55:41.949318-04:00.accessibility.json) |
-| [August 10 at 5:16 PM](https://archive.org/download/npr-2022/npr-2022-08-10T17:16:32.819389-04:00.accessibility.json) |
-| [August 10 at 10:50 AM](https://archive.org/download/npr-2022/npr-2022-08-10T10:50:26.628129-04:00.accessibility.json) |
-| [August 10 at 9:13 AM](https://archive.org/download/npr-2022/npr-2022-08-10T09:13:50.520824-04:00.accessibility.json) |
-| [August 9 at 9:00 PM](https://archive.org/download/npr-2022/npr-2022-08-09T21:00:07.065142-04:00.accessibility.json) |
-| [August 9 at 5:14 PM](https://archive.org/download/npr-2022/npr-2022-08-09T17:14:24.294643-04:00.accessibility.json) |
-| [August 9 at 10:28 AM](https://archive.org/download/npr-2022/npr-2022-08-09T10:28:19.779152-04:00.accessibility.json) |
-| [August 9 at 9:00 AM](https://archive.org/download/npr-2022/npr-2022-08-09T08:59:58.170491-04:00.accessibility.json) |
-| [August 8 at 8:55 PM](https://archive.org/download/npr-2022/npr-2022-08-08T20:55:28.817902-04:00.accessibility.json) |
-| [August 8 at 5:13 PM](https://archive.org/download/npr-2022/npr-2022-08-08T17:13:41.156705-04:00.accessibility.json) |
+| [August 10 at 1:55 PM](https://archive.org/download/npr-2022/npr-2022-08-10T20:55:41.949318-04:00.accessibility.json) |
+| [August 10 at 10:16 AM](https://archive.org/download/npr-2022/npr-2022-08-10T17:16:32.819389-04:00.accessibility.json) |
+| [August 10 at 3:50 AM](https://archive.org/download/npr-2022/npr-2022-08-10T10:50:26.628129-04:00.accessibility.json) |
+| [August 10 at 2:13 AM](https://archive.org/download/npr-2022/npr-2022-08-10T09:13:50.520824-04:00.accessibility.json) |
+| [August 9 at 2:00 PM](https://archive.org/download/npr-2022/npr-2022-08-09T21:00:07.065142-04:00.accessibility.json) |
+| [August 9 at 10:14 AM](https://archive.org/download/npr-2022/npr-2022-08-09T17:14:24.294643-04:00.accessibility.json) |
+| [August 9 at 3:28 AM](https://archive.org/download/npr-2022/npr-2022-08-09T10:28:19.779152-04:00.accessibility.json) |
+| [August 9 at 2:00 AM](https://archive.org/download/npr-2022/npr-2022-08-09T08:59:58.170491-04:00.accessibility.json) |
+| [August 8 at 1:55 PM](https://archive.org/download/npr-2022/npr-2022-08-08T20:55:28.817902-04:00.accessibility.json) |
+| [August 8 at 10:13 AM](https://archive.org/download/npr-2022/npr-2022-08-08T17:13:41.156705-04:00.accessibility.json) |
 
 
 
@@ -525,16 +525,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 10 at 8:55 PM](https://archive.org/download/npr-2022/npr-2022-08-10T20:55:41.949318-04:00.lighthouse.json) |
-| [August 10 at 5:16 PM](https://archive.org/download/npr-2022/npr-2022-08-10T17:16:32.819389-04:00.lighthouse.json) |
-| [August 10 at 10:50 AM](https://archive.org/download/npr-2022/npr-2022-08-10T10:50:26.628129-04:00.lighthouse.json) |
-| [August 10 at 9:13 AM](https://archive.org/download/npr-2022/npr-2022-08-10T09:13:50.520824-04:00.lighthouse.json) |
-| [August 9 at 9:00 PM](https://archive.org/download/npr-2022/npr-2022-08-09T21:00:07.065142-04:00.lighthouse.json) |
-| [August 9 at 5:14 PM](https://archive.org/download/npr-2022/npr-2022-08-09T17:14:24.294643-04:00.lighthouse.json) |
-| [August 9 at 10:28 AM](https://archive.org/download/npr-2022/npr-2022-08-09T10:28:19.779152-04:00.lighthouse.json) |
-| [August 9 at 9:00 AM](https://archive.org/download/npr-2022/npr-2022-08-09T08:59:58.170491-04:00.lighthouse.json) |
-| [August 8 at 8:55 PM](https://archive.org/download/npr-2022/npr-2022-08-08T20:55:28.817902-04:00.lighthouse.json) |
-| [August 8 at 5:13 PM](https://archive.org/download/npr-2022/npr-2022-08-08T17:13:41.156705-04:00.lighthouse.json) |
+| [August 10 at 1:55 PM](https://archive.org/download/npr-2022/npr-2022-08-10T20:55:41.949318-04:00.lighthouse.json) |
+| [August 10 at 10:16 AM](https://archive.org/download/npr-2022/npr-2022-08-10T17:16:32.819389-04:00.lighthouse.json) |
+| [August 10 at 3:50 AM](https://archive.org/download/npr-2022/npr-2022-08-10T10:50:26.628129-04:00.lighthouse.json) |
+| [August 10 at 2:13 AM](https://archive.org/download/npr-2022/npr-2022-08-10T09:13:50.520824-04:00.lighthouse.json) |
+| [August 9 at 2:00 PM](https://archive.org/download/npr-2022/npr-2022-08-09T21:00:07.065142-04:00.lighthouse.json) |
+| [August 9 at 10:14 AM](https://archive.org/download/npr-2022/npr-2022-08-09T17:14:24.294643-04:00.lighthouse.json) |
+| [August 9 at 3:28 AM](https://archive.org/download/npr-2022/npr-2022-08-09T10:28:19.779152-04:00.lighthouse.json) |
+| [August 9 at 2:00 AM](https://archive.org/download/npr-2022/npr-2022-08-09T08:59:58.170491-04:00.lighthouse.json) |
+| [August 8 at 1:55 PM](https://archive.org/download/npr-2022/npr-2022-08-08T20:55:28.817902-04:00.lighthouse.json) |
+| [August 8 at 10:13 AM](https://archive.org/download/npr-2022/npr-2022-08-08T17:13:41.156705-04:00.lighthouse.json) |
 
 
 

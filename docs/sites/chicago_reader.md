@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-11T06:36:44.722643-05:00.jpg">
   <img src="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-11T06:36:44.722643-05:00.jpg"
-     alt="Chicago Reader at 2022-08-11 06:36:47-05:00 local time"
+     alt="Chicago Reader at 2022-08-10 23:36:47-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-11T06:36:44.722643-05:00.jpg">August 11 at 6:36 AM</a></p>
+ <p><a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-11T06:36:44.722643-05:00.jpg">August 10 at 11:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-10T19:40:25.059574-05:00.jpg">
   <img src="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-10T19:40:25.059574-05:00.jpg"
-     alt="Chicago Reader at 2022-08-10 19:40:33-05:00 local time"
+     alt="Chicago Reader at 2022-08-10 12:40:33-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-10T19:40:25.059574-05:00.jpg">August 10 at 7:40 PM</a></p>
+ <p><a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-10T19:40:25.059574-05:00.jpg">August 10 at 12:40 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-10T14:33:14.207794-05:00.jpg">
   <img src="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-10T14:33:14.207794-05:00.jpg"
-     alt="Chicago Reader at 2022-08-10 14:33:18-05:00 local time"
+     alt="Chicago Reader at 2022-08-10 07:33:18-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-10T14:33:14.207794-05:00.jpg">August 10 at 2:33 PM</a></p>
+ <p><a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-10T14:33:14.207794-05:00.jpg">August 10 at 7:33 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-10T07:54:49.216069-05:00.jpg">
   <img src="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-10T07:54:49.216069-05:00.jpg"
-     alt="Chicago Reader at 2022-08-10 07:54:56-05:00 local time"
+     alt="Chicago Reader at 2022-08-10 00:54:56-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-10T07:54:49.216069-05:00.jpg">August 10 at 7:54 AM</a></p>
+ <p><a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-10T07:54:49.216069-05:00.jpg">August 10 at 12:54 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-09T18:26:34.921226-05:00.jpg">
   <img src="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-09T18:26:34.921226-05:00.jpg"
-     alt="Chicago Reader at 2022-08-09 18:26:36-05:00 local time"
+     alt="Chicago Reader at 2022-08-09 11:26:36-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-09T18:26:34.921226-05:00.jpg">August 9 at 6:26 PM</a></p>
+ <p><a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-09T18:26:34.921226-05:00.jpg">August 9 at 11:26 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-09T13:02:44.019667-05:00.jpg">
   <img src="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-09T13:02:44.019667-05:00.jpg"
-     alt="Chicago Reader at 2022-08-09 13:02:45-05:00 local time"
+     alt="Chicago Reader at 2022-08-09 06:02:45-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-09T13:02:44.019667-05:00.jpg">August 9 at 1:02 PM</a></p>
+ <p><a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-09T13:02:44.019667-05:00.jpg">August 9 at 6:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-09T07:41:34.281118-05:00.jpg">
   <img src="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-09T07:41:34.281118-05:00.jpg"
-     alt="Chicago Reader at 2022-08-09 07:41:41-05:00 local time"
+     alt="Chicago Reader at 2022-08-09 00:41:41-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-09T07:41:34.281118-05:00.jpg">August 9 at 7:41 AM</a></p>
+ <p><a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-09T07:41:34.281118-05:00.jpg">August 9 at 12:41 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-08T19:36:33.068236-05:00.jpg">
   <img src="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-08T19:36:33.068236-05:00.jpg"
-     alt="Chicago Reader at 2022-08-08 19:36:37-05:00 local time"
+     alt="Chicago Reader at 2022-08-08 12:36:37-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-08T19:36:33.068236-05:00.jpg">August 8 at 7:36 PM</a></p>
+ <p><a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-08T19:36:33.068236-05:00.jpg">August 8 at 12:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-08T12:44:26.372163-05:00.jpg">
   <img src="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-08T12:44:26.372163-05:00.jpg"
-     alt="Chicago Reader at 2022-08-08 12:44:30-05:00 local time"
+     alt="Chicago Reader at 2022-08-08 05:44:30-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-08T12:44:26.372163-05:00.jpg">August 8 at 12:44 PM</a></p>
+ <p><a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-08T12:44:26.372163-05:00.jpg">August 8 at 5:44 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-08T06:22:25.467407-05:00.jpg">
   <img src="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-08T06:22:25.467407-05:00.jpg"
-     alt="Chicago Reader at 2022-08-08 06:22:27-05:00 local time"
+     alt="Chicago Reader at 2022-08-07 23:22:27-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-08T06:22:25.467407-05:00.jpg">August 8 at 6:22 AM</a></p>
+ <p><a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-08T06:22:25.467407-05:00.jpg">August 7 at 11:22 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-07T19:44:55.451641-05:00.jpg">
   <img src="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-07T19:44:55.451641-05:00.jpg"
-     alt="Chicago Reader at 2022-08-07 19:44:59-05:00 local time"
+     alt="Chicago Reader at 2022-08-07 12:44:59-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-07T19:44:55.451641-05:00.jpg">August 7 at 7:44 PM</a></p>
+ <p><a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-07T19:44:55.451641-05:00.jpg">August 7 at 12:44 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-07T12:13:33.154452-05:00.jpg">
   <img src="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-07T12:13:33.154452-05:00.jpg"
-     alt="Chicago Reader at 2022-08-07 12:13:36-05:00 local time"
+     alt="Chicago Reader at 2022-08-07 05:13:36-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-07T12:13:33.154452-05:00.jpg">August 7 at 12:13 PM</a></p>
+ <p><a href="https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-07T12:13:33.154452-05:00.jpg">August 7 at 5:13 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 11 at 6:36 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-11T06:36:44.722643-05:00.hyperlinks.json) |
-| [August 10 at 7:40 PM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-10T19:40:25.059574-05:00.hyperlinks.json) |
-| [August 10 at 2:33 PM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-10T14:33:14.207794-05:00.hyperlinks.json) |
-| [August 10 at 7:55 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-10T07:54:49.216069-05:00.hyperlinks.json) |
-| [August 9 at 6:26 PM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-09T18:26:34.921226-05:00.hyperlinks.json) |
-| [August 9 at 1:02 PM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-09T13:02:44.019667-05:00.hyperlinks.json) |
-| [August 9 at 7:41 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-09T07:41:34.281118-05:00.hyperlinks.json) |
-| [August 8 at 7:36 PM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-08T19:36:33.068236-05:00.hyperlinks.json) |
-| [August 8 at 12:44 PM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-08T12:44:26.372163-05:00.hyperlinks.json) |
-| [August 8 at 6:22 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-08T06:22:25.467407-05:00.hyperlinks.json) |
+| [August 10 at 11:36 PM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-11T06:36:44.722643-05:00.hyperlinks.json) |
+| [August 10 at 12:40 PM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-10T19:40:25.059574-05:00.hyperlinks.json) |
+| [August 10 at 7:33 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-10T14:33:14.207794-05:00.hyperlinks.json) |
+| [August 10 at 12:55 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-10T07:54:49.216069-05:00.hyperlinks.json) |
+| [August 9 at 11:26 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-09T18:26:34.921226-05:00.hyperlinks.json) |
+| [August 9 at 6:02 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-09T13:02:44.019667-05:00.hyperlinks.json) |
+| [August 9 at 12:41 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-09T07:41:34.281118-05:00.hyperlinks.json) |
+| [August 8 at 12:36 PM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-08T19:36:33.068236-05:00.hyperlinks.json) |
+| [August 8 at 5:44 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-08T12:44:26.372163-05:00.hyperlinks.json) |
+| [August 7 at 11:22 PM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-08T06:22:25.467407-05:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 11 at 6:36 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-11T06:36:44.722643-05:00.accessibility.json) |
-| [August 10 at 7:40 PM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-10T19:40:25.059574-05:00.accessibility.json) |
-| [August 10 at 2:33 PM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-10T14:33:14.207794-05:00.accessibility.json) |
-| [August 10 at 7:54 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-10T07:54:49.216069-05:00.accessibility.json) |
-| [August 9 at 6:26 PM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-09T18:26:34.921226-05:00.accessibility.json) |
-| [August 9 at 1:02 PM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-09T13:02:44.019667-05:00.accessibility.json) |
-| [August 9 at 7:41 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-09T07:41:34.281118-05:00.accessibility.json) |
-| [August 8 at 7:36 PM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-08T19:36:33.068236-05:00.accessibility.json) |
-| [August 8 at 12:44 PM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-08T12:44:26.372163-05:00.accessibility.json) |
-| [August 8 at 6:22 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-08T06:22:25.467407-05:00.accessibility.json) |
+| [August 10 at 11:36 PM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-11T06:36:44.722643-05:00.accessibility.json) |
+| [August 10 at 12:40 PM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-10T19:40:25.059574-05:00.accessibility.json) |
+| [August 10 at 7:33 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-10T14:33:14.207794-05:00.accessibility.json) |
+| [August 10 at 12:54 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-10T07:54:49.216069-05:00.accessibility.json) |
+| [August 9 at 11:26 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-09T18:26:34.921226-05:00.accessibility.json) |
+| [August 9 at 6:02 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-09T13:02:44.019667-05:00.accessibility.json) |
+| [August 9 at 12:41 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-09T07:41:34.281118-05:00.accessibility.json) |
+| [August 8 at 12:36 PM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-08T19:36:33.068236-05:00.accessibility.json) |
+| [August 8 at 5:44 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-08T12:44:26.372163-05:00.accessibility.json) |
+| [August 7 at 11:22 PM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-08T06:22:25.467407-05:00.accessibility.json) |
 
 
 
@@ -525,16 +525,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 11 at 6:36 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-11T06:36:44.722643-05:00.lighthouse.json) |
-| [August 10 at 7:40 PM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-10T19:40:25.059574-05:00.lighthouse.json) |
-| [August 10 at 2:33 PM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-10T14:33:14.207794-05:00.lighthouse.json) |
-| [August 10 at 7:55 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-10T07:54:49.216069-05:00.lighthouse.json) |
-| [August 9 at 6:26 PM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-09T18:26:34.921226-05:00.lighthouse.json) |
-| [August 9 at 1:02 PM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-09T13:02:44.019667-05:00.lighthouse.json) |
-| [August 9 at 7:41 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-09T07:41:34.281118-05:00.lighthouse.json) |
-| [August 8 at 7:36 PM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-08T19:36:33.068236-05:00.lighthouse.json) |
-| [August 8 at 12:44 PM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-08T12:44:26.372163-05:00.lighthouse.json) |
-| [August 8 at 6:22 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-08T06:22:25.467407-05:00.lighthouse.json) |
+| [August 10 at 11:36 PM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-11T06:36:44.722643-05:00.lighthouse.json) |
+| [August 10 at 12:40 PM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-10T19:40:25.059574-05:00.lighthouse.json) |
+| [August 10 at 7:33 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-10T14:33:14.207794-05:00.lighthouse.json) |
+| [August 10 at 12:55 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-10T07:54:49.216069-05:00.lighthouse.json) |
+| [August 9 at 11:26 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-09T18:26:34.921226-05:00.lighthouse.json) |
+| [August 9 at 6:02 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-09T13:02:44.019667-05:00.lighthouse.json) |
+| [August 9 at 12:41 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-09T07:41:34.281118-05:00.lighthouse.json) |
+| [August 8 at 12:36 PM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-08T19:36:33.068236-05:00.lighthouse.json) |
+| [August 8 at 5:44 AM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-08T12:44:26.372163-05:00.lighthouse.json) |
+| [August 7 at 11:22 PM](https://archive.org/download/chicago_reader-2022/chicago_reader-2022-08-08T06:22:25.467407-05:00.lighthouse.json) |
 
 
 

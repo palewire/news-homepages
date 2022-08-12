@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-11T07:42:55.903798-04:00.jpg">
   <img src="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-11T07:42:55.903798-04:00.jpg"
-     alt="FOX29 Philly at 2022-08-11 07:42:58-04:00 local time"
+     alt="FOX29 Philly at 2022-08-11 00:42:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-11T07:42:55.903798-04:00.jpg">August 11 at 7:42 AM</a></p>
+ <p><a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-11T07:42:55.903798-04:00.jpg">August 11 at 12:42 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-10T20:45:36.705357-04:00.jpg">
   <img src="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-10T20:45:36.705357-04:00.jpg"
-     alt="FOX29 Philly at 2022-08-10 20:45:39-04:00 local time"
+     alt="FOX29 Philly at 2022-08-10 13:45:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-10T20:45:36.705357-04:00.jpg">August 10 at 8:45 PM</a></p>
+ <p><a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-10T20:45:36.705357-04:00.jpg">August 10 at 1:45 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-10T09:00:12.212309-04:00.jpg">
   <img src="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-10T09:00:12.212309-04:00.jpg"
-     alt="FOX29 Philly at 2022-08-10 09:00:16-04:00 local time"
+     alt="FOX29 Philly at 2022-08-10 02:00:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-10T09:00:12.212309-04:00.jpg">August 10 at 9:00 AM</a></p>
+ <p><a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-10T09:00:12.212309-04:00.jpg">August 10 at 2:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-09T19:30:26.614798-04:00.jpg">
   <img src="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-09T19:30:26.614798-04:00.jpg"
-     alt="FOX29 Philly at 2022-08-09 19:30:30-04:00 local time"
+     alt="FOX29 Philly at 2022-08-09 12:30:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-09T19:30:26.614798-04:00.jpg">August 9 at 7:30 PM</a></p>
+ <p><a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-09T19:30:26.614798-04:00.jpg">August 9 at 12:30 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-09T08:46:20.294401-04:00.jpg">
   <img src="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-09T08:46:20.294401-04:00.jpg"
-     alt="FOX29 Philly at 2022-08-09 08:46:23-04:00 local time"
+     alt="FOX29 Philly at 2022-08-09 01:46:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-09T08:46:20.294401-04:00.jpg">August 9 at 8:46 AM</a></p>
+ <p><a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-09T08:46:20.294401-04:00.jpg">August 9 at 1:46 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-08T20:42:15.542433-04:00.jpg">
   <img src="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-08T20:42:15.542433-04:00.jpg"
-     alt="FOX29 Philly at 2022-08-08 20:42:17-04:00 local time"
+     alt="FOX29 Philly at 2022-08-08 13:42:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-08T20:42:15.542433-04:00.jpg">August 8 at 8:42 PM</a></p>
+ <p><a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-08T20:42:15.542433-04:00.jpg">August 8 at 1:42 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-08T07:27:10.205922-04:00.jpg">
   <img src="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-08T07:27:10.205922-04:00.jpg"
-     alt="FOX29 Philly at 2022-08-08 07:27:11-04:00 local time"
+     alt="FOX29 Philly at 2022-08-08 00:27:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-08T07:27:10.205922-04:00.jpg">August 8 at 7:27 AM</a></p>
+ <p><a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-08T07:27:10.205922-04:00.jpg">August 8 at 12:27 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-07T20:50:40.678435-04:00.jpg">
   <img src="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-07T20:50:40.678435-04:00.jpg"
-     alt="FOX29 Philly at 2022-08-07 20:50:49-04:00 local time"
+     alt="FOX29 Philly at 2022-08-07 13:50:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-07T20:50:40.678435-04:00.jpg">August 7 at 8:50 PM</a></p>
+ <p><a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-07T20:50:40.678435-04:00.jpg">August 7 at 1:50 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-07T08:29:38.838301-04:00.jpg">
   <img src="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-07T08:29:38.838301-04:00.jpg"
-     alt="FOX29 Philly at 2022-08-07 08:29:48-04:00 local time"
+     alt="FOX29 Philly at 2022-08-07 01:29:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-07T08:29:38.838301-04:00.jpg">August 7 at 8:29 AM</a></p>
+ <p><a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-07T08:29:38.838301-04:00.jpg">August 7 at 1:29 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-06T20:32:27.202838-04:00.jpg">
   <img src="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-06T20:32:27.202838-04:00.jpg"
-     alt="FOX29 Philly at 2022-08-06 20:32:35-04:00 local time"
+     alt="FOX29 Philly at 2022-08-06 13:32:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-06T20:32:27.202838-04:00.jpg">August 6 at 8:32 PM</a></p>
+ <p><a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-06T20:32:27.202838-04:00.jpg">August 6 at 1:32 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-06T08:23:14.392400-04:00.jpg">
   <img src="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-06T08:23:14.392400-04:00.jpg"
-     alt="FOX29 Philly at 2022-08-06 08:23:18-04:00 local time"
+     alt="FOX29 Philly at 2022-08-06 01:23:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-06T08:23:14.392400-04:00.jpg">August 6 at 8:23 AM</a></p>
+ <p><a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-06T08:23:14.392400-04:00.jpg">August 6 at 1:23 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-05T19:36:04.946460-04:00.jpg">
   <img src="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-05T19:36:04.946460-04:00.jpg"
-     alt="FOX29 Philly at 2022-08-05 19:36:06-04:00 local time"
+     alt="FOX29 Philly at 2022-08-05 12:36:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-05T19:36:04.946460-04:00.jpg">August 5 at 7:36 PM</a></p>
+ <p><a href="https://archive.org/download/fox29philly-2022/fox29philly-2022-08-05T19:36:04.946460-04:00.jpg">August 5 at 12:36 PM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 11 at 7:43 AM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-11T07:42:55.903798-04:00.hyperlinks.json) |
-| [August 10 at 8:45 PM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-10T20:45:36.705357-04:00.hyperlinks.json) |
-| [August 10 at 9:00 AM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-10T09:00:12.212309-04:00.hyperlinks.json) |
-| [August 9 at 7:30 PM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-09T19:30:26.614798-04:00.hyperlinks.json) |
-| [August 9 at 8:46 AM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-09T08:46:20.294401-04:00.hyperlinks.json) |
-| [August 8 at 8:42 PM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-08T20:42:15.542433-04:00.hyperlinks.json) |
-| [August 8 at 7:27 AM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-08T07:27:10.205922-04:00.hyperlinks.json) |
-| [August 7 at 8:50 PM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-07T20:50:40.678435-04:00.hyperlinks.json) |
-| [August 7 at 8:29 AM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-07T08:29:38.838301-04:00.hyperlinks.json) |
-| [August 6 at 8:32 PM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-06T20:32:27.202838-04:00.hyperlinks.json) |
+| [August 11 at 12:43 AM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-11T07:42:55.903798-04:00.hyperlinks.json) |
+| [August 10 at 1:45 PM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-10T20:45:36.705357-04:00.hyperlinks.json) |
+| [August 10 at 2:00 AM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-10T09:00:12.212309-04:00.hyperlinks.json) |
+| [August 9 at 12:30 PM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-09T19:30:26.614798-04:00.hyperlinks.json) |
+| [August 9 at 1:46 AM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-09T08:46:20.294401-04:00.hyperlinks.json) |
+| [August 8 at 1:42 PM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-08T20:42:15.542433-04:00.hyperlinks.json) |
+| [August 8 at 12:27 AM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-08T07:27:10.205922-04:00.hyperlinks.json) |
+| [August 7 at 1:50 PM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-07T20:50:40.678435-04:00.hyperlinks.json) |
+| [August 7 at 1:29 AM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-07T08:29:38.838301-04:00.hyperlinks.json) |
+| [August 6 at 1:32 PM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-06T20:32:27.202838-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 11 at 7:42 AM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-11T07:42:55.903798-04:00.accessibility.json) |
-| [August 10 at 8:45 PM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-10T20:45:36.705357-04:00.accessibility.json) |
-| [August 10 at 9:00 AM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-10T09:00:12.212309-04:00.accessibility.json) |
-| [August 9 at 7:30 PM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-09T19:30:26.614798-04:00.accessibility.json) |
-| [August 9 at 8:46 AM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-09T08:46:20.294401-04:00.accessibility.json) |
-| [August 8 at 8:42 PM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-08T20:42:15.542433-04:00.accessibility.json) |
-| [August 8 at 7:27 AM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-08T07:27:10.205922-04:00.accessibility.json) |
-| [August 7 at 8:50 PM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-07T20:50:40.678435-04:00.accessibility.json) |
-| [August 7 at 8:29 AM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-07T08:29:38.838301-04:00.accessibility.json) |
-| [August 6 at 8:32 PM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-06T20:32:27.202838-04:00.accessibility.json) |
+| [August 11 at 12:42 AM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-11T07:42:55.903798-04:00.accessibility.json) |
+| [August 10 at 1:45 PM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-10T20:45:36.705357-04:00.accessibility.json) |
+| [August 10 at 2:00 AM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-10T09:00:12.212309-04:00.accessibility.json) |
+| [August 9 at 12:30 PM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-09T19:30:26.614798-04:00.accessibility.json) |
+| [August 9 at 1:46 AM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-09T08:46:20.294401-04:00.accessibility.json) |
+| [August 8 at 1:42 PM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-08T20:42:15.542433-04:00.accessibility.json) |
+| [August 8 at 12:27 AM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-08T07:27:10.205922-04:00.accessibility.json) |
+| [August 7 at 1:50 PM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-07T20:50:40.678435-04:00.accessibility.json) |
+| [August 7 at 1:29 AM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-07T08:29:38.838301-04:00.accessibility.json) |
+| [August 6 at 1:32 PM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-06T20:32:27.202838-04:00.accessibility.json) |
 
 
 
@@ -525,16 +525,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 11 at 7:43 AM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-11T07:42:55.903798-04:00.lighthouse.json) |
-| [August 10 at 8:45 PM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-10T20:45:36.705357-04:00.lighthouse.json) |
-| [August 10 at 9:00 AM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-10T09:00:12.212309-04:00.lighthouse.json) |
-| [August 9 at 7:30 PM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-09T19:30:26.614798-04:00.lighthouse.json) |
-| [August 9 at 8:46 AM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-09T08:46:20.294401-04:00.lighthouse.json) |
-| [August 8 at 8:42 PM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-08T20:42:15.542433-04:00.lighthouse.json) |
-| [August 8 at 7:27 AM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-08T07:27:10.205922-04:00.lighthouse.json) |
-| [August 7 at 8:50 PM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-07T20:50:40.678435-04:00.lighthouse.json) |
-| [August 7 at 8:29 AM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-07T08:29:38.838301-04:00.lighthouse.json) |
-| [August 6 at 8:32 PM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-06T20:32:27.202838-04:00.lighthouse.json) |
+| [August 11 at 12:43 AM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-11T07:42:55.903798-04:00.lighthouse.json) |
+| [August 10 at 1:45 PM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-10T20:45:36.705357-04:00.lighthouse.json) |
+| [August 10 at 2:00 AM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-10T09:00:12.212309-04:00.lighthouse.json) |
+| [August 9 at 12:30 PM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-09T19:30:26.614798-04:00.lighthouse.json) |
+| [August 9 at 1:46 AM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-09T08:46:20.294401-04:00.lighthouse.json) |
+| [August 8 at 1:42 PM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-08T20:42:15.542433-04:00.lighthouse.json) |
+| [August 8 at 12:27 AM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-08T07:27:10.205922-04:00.lighthouse.json) |
+| [August 7 at 1:50 PM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-07T20:50:40.678435-04:00.lighthouse.json) |
+| [August 7 at 1:29 AM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-07T08:29:38.838301-04:00.lighthouse.json) |
+| [August 6 at 1:32 PM](https://archive.org/download/fox29philly-2022/fox29philly-2022-08-06T20:32:27.202838-04:00.lighthouse.json) |
 
 
 

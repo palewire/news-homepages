@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/oregonian-2022/oregonian-2022-08-10T17:56:57.237940-07:00.jpg">
   <img src="https://archive.org/download/oregonian-2022/oregonian-2022-08-10T17:56:57.237940-07:00.jpg"
-     alt="Oregonian at 2022-08-10 17:57:00-07:00 local time"
+     alt="Oregonian at 2022-08-10 10:57:00-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-08-10T17:56:57.237940-07:00.jpg">August 10 at 5:57 PM</a></p>
+ <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-08-10T17:56:57.237940-07:00.jpg">August 10 at 10:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oregonian-2022/oregonian-2022-08-10T06:16:41.320561-07:00.jpg">
   <img src="https://archive.org/download/oregonian-2022/oregonian-2022-08-10T06:16:41.320561-07:00.jpg"
-     alt="Oregonian at 2022-08-10 06:16:43-07:00 local time"
+     alt="Oregonian at 2022-08-09 23:16:43-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-08-10T06:16:41.320561-07:00.jpg">August 10 at 6:16 AM</a></p>
+ <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-08-10T06:16:41.320561-07:00.jpg">August 9 at 11:16 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oregonian-2022/oregonian-2022-08-09T18:01:33.508827-07:00.jpg">
   <img src="https://archive.org/download/oregonian-2022/oregonian-2022-08-09T18:01:33.508827-07:00.jpg"
-     alt="Oregonian at 2022-08-09 18:01:35-07:00 local time"
+     alt="Oregonian at 2022-08-09 11:01:35-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-08-09T18:01:33.508827-07:00.jpg">August 9 at 6:01 PM</a></p>
+ <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-08-09T18:01:33.508827-07:00.jpg">August 9 at 11:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oregonian-2022/oregonian-2022-08-09T06:01:52.678916-07:00.jpg">
   <img src="https://archive.org/download/oregonian-2022/oregonian-2022-08-09T06:01:52.678916-07:00.jpg"
-     alt="Oregonian at 2022-08-09 06:01:56-07:00 local time"
+     alt="Oregonian at 2022-08-08 23:01:56-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-08-09T06:01:52.678916-07:00.jpg">August 9 at 6:01 AM</a></p>
+ <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-08-09T06:01:52.678916-07:00.jpg">August 8 at 11:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oregonian-2022/oregonian-2022-08-08T17:56:51.278297-07:00.jpg">
   <img src="https://archive.org/download/oregonian-2022/oregonian-2022-08-08T17:56:51.278297-07:00.jpg"
-     alt="Oregonian at 2022-08-08 17:56:54-07:00 local time"
+     alt="Oregonian at 2022-08-08 10:56:54-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-08-08T17:56:51.278297-07:00.jpg">August 8 at 5:56 PM</a></p>
+ <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-08-08T17:56:51.278297-07:00.jpg">August 8 at 10:56 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oregonian-2022/oregonian-2022-08-08T05:48:33.763516-07:00.jpg">
   <img src="https://archive.org/download/oregonian-2022/oregonian-2022-08-08T05:48:33.763516-07:00.jpg"
-     alt="Oregonian at 2022-08-08 05:48:36-07:00 local time"
+     alt="Oregonian at 2022-08-07 22:48:36-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-08-08T05:48:33.763516-07:00.jpg">August 8 at 5:48 AM</a></p>
+ <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-08-08T05:48:33.763516-07:00.jpg">August 7 at 10:48 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oregonian-2022/oregonian-2022-08-07T18:06:32.467172-07:00.jpg">
   <img src="https://archive.org/download/oregonian-2022/oregonian-2022-08-07T18:06:32.467172-07:00.jpg"
-     alt="Oregonian at 2022-08-07 18:06:34-07:00 local time"
+     alt="Oregonian at 2022-08-07 11:06:34-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-08-07T18:06:32.467172-07:00.jpg">August 7 at 6:06 PM</a></p>
+ <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-08-07T18:06:32.467172-07:00.jpg">August 7 at 11:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oregonian-2022/oregonian-2022-08-07T05:43:23.093751-07:00.jpg">
   <img src="https://archive.org/download/oregonian-2022/oregonian-2022-08-07T05:43:23.093751-07:00.jpg"
-     alt="Oregonian at 2022-08-07 05:43:24-07:00 local time"
+     alt="Oregonian at 2022-08-06 22:43:24-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-08-07T05:43:23.093751-07:00.jpg">August 7 at 5:43 AM</a></p>
+ <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-08-07T05:43:23.093751-07:00.jpg">August 6 at 10:43 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oregonian-2022/oregonian-2022-08-06T17:44:33.820019-07:00.jpg">
   <img src="https://archive.org/download/oregonian-2022/oregonian-2022-08-06T17:44:33.820019-07:00.jpg"
-     alt="Oregonian at 2022-08-06 17:44:36-07:00 local time"
+     alt="Oregonian at 2022-08-06 10:44:36-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-08-06T17:44:33.820019-07:00.jpg">August 6 at 5:44 PM</a></p>
+ <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-08-06T17:44:33.820019-07:00.jpg">August 6 at 10:44 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oregonian-2022/oregonian-2022-08-06T05:35:37.506817-07:00.jpg">
   <img src="https://archive.org/download/oregonian-2022/oregonian-2022-08-06T05:35:37.506817-07:00.jpg"
-     alt="Oregonian at 2022-08-06 05:35:39-07:00 local time"
+     alt="Oregonian at 2022-08-05 22:35:39-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-08-06T05:35:37.506817-07:00.jpg">August 6 at 5:35 AM</a></p>
+ <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-08-06T05:35:37.506817-07:00.jpg">August 5 at 10:35 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oregonian-2022/oregonian-2022-08-05T19:10:31.365423-07:00.jpg">
   <img src="https://archive.org/download/oregonian-2022/oregonian-2022-08-05T19:10:31.365423-07:00.jpg"
-     alt="Oregonian at 2022-08-05 19:10:34-07:00 local time"
+     alt="Oregonian at 2022-08-05 12:10:34-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-08-05T19:10:31.365423-07:00.jpg">August 5 at 7:10 PM</a></p>
+ <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-08-05T19:10:31.365423-07:00.jpg">August 5 at 12:10 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oregonian-2022/oregonian-2022-08-05T05:44:08.886990-07:00.jpg">
   <img src="https://archive.org/download/oregonian-2022/oregonian-2022-08-05T05:44:08.886990-07:00.jpg"
-     alt="Oregonian at 2022-08-05 05:44:09-07:00 local time"
+     alt="Oregonian at 2022-08-04 22:44:09-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-08-05T05:44:08.886990-07:00.jpg">August 5 at 5:44 AM</a></p>
+ <p><a href="https://archive.org/download/oregonian-2022/oregonian-2022-08-05T05:44:08.886990-07:00.jpg">August 4 at 10:44 PM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 10 at 5:57 PM](https://archive.org/download/oregonian-2022/oregonian-2022-08-10T17:56:57.237940-07:00.hyperlinks.json) |
-| [August 10 at 6:16 AM](https://archive.org/download/oregonian-2022/oregonian-2022-08-10T06:16:41.320561-07:00.hyperlinks.json) |
-| [August 9 at 6:01 PM](https://archive.org/download/oregonian-2022/oregonian-2022-08-09T18:01:33.508827-07:00.hyperlinks.json) |
-| [August 9 at 6:02 AM](https://archive.org/download/oregonian-2022/oregonian-2022-08-09T06:01:52.678916-07:00.hyperlinks.json) |
-| [August 8 at 5:56 PM](https://archive.org/download/oregonian-2022/oregonian-2022-08-08T17:56:51.278297-07:00.hyperlinks.json) |
-| [August 8 at 5:48 AM](https://archive.org/download/oregonian-2022/oregonian-2022-08-08T05:48:33.763516-07:00.hyperlinks.json) |
-| [August 7 at 6:06 PM](https://archive.org/download/oregonian-2022/oregonian-2022-08-07T18:06:32.467172-07:00.hyperlinks.json) |
-| [August 7 at 5:43 AM](https://archive.org/download/oregonian-2022/oregonian-2022-08-07T05:43:23.093751-07:00.hyperlinks.json) |
-| [August 6 at 5:44 PM](https://archive.org/download/oregonian-2022/oregonian-2022-08-06T17:44:33.820019-07:00.hyperlinks.json) |
-| [August 6 at 5:35 AM](https://archive.org/download/oregonian-2022/oregonian-2022-08-06T05:35:37.506817-07:00.hyperlinks.json) |
+| [August 10 at 10:57 AM](https://archive.org/download/oregonian-2022/oregonian-2022-08-10T17:56:57.237940-07:00.hyperlinks.json) |
+| [August 9 at 11:16 PM](https://archive.org/download/oregonian-2022/oregonian-2022-08-10T06:16:41.320561-07:00.hyperlinks.json) |
+| [August 9 at 11:01 AM](https://archive.org/download/oregonian-2022/oregonian-2022-08-09T18:01:33.508827-07:00.hyperlinks.json) |
+| [August 8 at 11:02 PM](https://archive.org/download/oregonian-2022/oregonian-2022-08-09T06:01:52.678916-07:00.hyperlinks.json) |
+| [August 8 at 10:56 AM](https://archive.org/download/oregonian-2022/oregonian-2022-08-08T17:56:51.278297-07:00.hyperlinks.json) |
+| [August 7 at 10:48 PM](https://archive.org/download/oregonian-2022/oregonian-2022-08-08T05:48:33.763516-07:00.hyperlinks.json) |
+| [August 7 at 11:06 AM](https://archive.org/download/oregonian-2022/oregonian-2022-08-07T18:06:32.467172-07:00.hyperlinks.json) |
+| [August 6 at 10:43 PM](https://archive.org/download/oregonian-2022/oregonian-2022-08-07T05:43:23.093751-07:00.hyperlinks.json) |
+| [August 6 at 10:44 AM](https://archive.org/download/oregonian-2022/oregonian-2022-08-06T17:44:33.820019-07:00.hyperlinks.json) |
+| [August 5 at 10:35 PM](https://archive.org/download/oregonian-2022/oregonian-2022-08-06T05:35:37.506817-07:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 10 at 5:57 PM](https://archive.org/download/oregonian-2022/oregonian-2022-08-10T17:56:57.237940-07:00.accessibility.json) |
-| [August 10 at 6:16 AM](https://archive.org/download/oregonian-2022/oregonian-2022-08-10T06:16:41.320561-07:00.accessibility.json) |
-| [August 9 at 6:01 PM](https://archive.org/download/oregonian-2022/oregonian-2022-08-09T18:01:33.508827-07:00.accessibility.json) |
-| [August 9 at 6:01 AM](https://archive.org/download/oregonian-2022/oregonian-2022-08-09T06:01:52.678916-07:00.accessibility.json) |
-| [August 8 at 5:56 PM](https://archive.org/download/oregonian-2022/oregonian-2022-08-08T17:56:51.278297-07:00.accessibility.json) |
-| [August 8 at 5:48 AM](https://archive.org/download/oregonian-2022/oregonian-2022-08-08T05:48:33.763516-07:00.accessibility.json) |
-| [August 7 at 6:06 PM](https://archive.org/download/oregonian-2022/oregonian-2022-08-07T18:06:32.467172-07:00.accessibility.json) |
-| [August 7 at 5:43 AM](https://archive.org/download/oregonian-2022/oregonian-2022-08-07T05:43:23.093751-07:00.accessibility.json) |
-| [August 6 at 5:44 PM](https://archive.org/download/oregonian-2022/oregonian-2022-08-06T17:44:33.820019-07:00.accessibility.json) |
-| [August 6 at 5:35 AM](https://archive.org/download/oregonian-2022/oregonian-2022-08-06T05:35:37.506817-07:00.accessibility.json) |
+| [August 10 at 10:57 AM](https://archive.org/download/oregonian-2022/oregonian-2022-08-10T17:56:57.237940-07:00.accessibility.json) |
+| [August 9 at 11:16 PM](https://archive.org/download/oregonian-2022/oregonian-2022-08-10T06:16:41.320561-07:00.accessibility.json) |
+| [August 9 at 11:01 AM](https://archive.org/download/oregonian-2022/oregonian-2022-08-09T18:01:33.508827-07:00.accessibility.json) |
+| [August 8 at 11:01 PM](https://archive.org/download/oregonian-2022/oregonian-2022-08-09T06:01:52.678916-07:00.accessibility.json) |
+| [August 8 at 10:56 AM](https://archive.org/download/oregonian-2022/oregonian-2022-08-08T17:56:51.278297-07:00.accessibility.json) |
+| [August 7 at 10:48 PM](https://archive.org/download/oregonian-2022/oregonian-2022-08-08T05:48:33.763516-07:00.accessibility.json) |
+| [August 7 at 11:06 AM](https://archive.org/download/oregonian-2022/oregonian-2022-08-07T18:06:32.467172-07:00.accessibility.json) |
+| [August 6 at 10:43 PM](https://archive.org/download/oregonian-2022/oregonian-2022-08-07T05:43:23.093751-07:00.accessibility.json) |
+| [August 6 at 10:44 AM](https://archive.org/download/oregonian-2022/oregonian-2022-08-06T17:44:33.820019-07:00.accessibility.json) |
+| [August 5 at 10:35 PM](https://archive.org/download/oregonian-2022/oregonian-2022-08-06T05:35:37.506817-07:00.accessibility.json) |
 
 
 
@@ -525,16 +525,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 10 at 5:57 PM](https://archive.org/download/oregonian-2022/oregonian-2022-08-10T17:56:57.237940-07:00.lighthouse.json) |
-| [August 10 at 6:16 AM](https://archive.org/download/oregonian-2022/oregonian-2022-08-10T06:16:41.320561-07:00.lighthouse.json) |
-| [August 9 at 6:01 PM](https://archive.org/download/oregonian-2022/oregonian-2022-08-09T18:01:33.508827-07:00.lighthouse.json) |
-| [August 9 at 6:02 AM](https://archive.org/download/oregonian-2022/oregonian-2022-08-09T06:01:52.678916-07:00.lighthouse.json) |
-| [August 8 at 5:56 PM](https://archive.org/download/oregonian-2022/oregonian-2022-08-08T17:56:51.278297-07:00.lighthouse.json) |
-| [August 8 at 5:48 AM](https://archive.org/download/oregonian-2022/oregonian-2022-08-08T05:48:33.763516-07:00.lighthouse.json) |
-| [August 7 at 6:06 PM](https://archive.org/download/oregonian-2022/oregonian-2022-08-07T18:06:32.467172-07:00.lighthouse.json) |
-| [August 7 at 5:43 AM](https://archive.org/download/oregonian-2022/oregonian-2022-08-07T05:43:23.093751-07:00.lighthouse.json) |
-| [August 6 at 5:44 PM](https://archive.org/download/oregonian-2022/oregonian-2022-08-06T17:44:33.820019-07:00.lighthouse.json) |
-| [August 6 at 5:35 AM](https://archive.org/download/oregonian-2022/oregonian-2022-08-06T05:35:37.506817-07:00.lighthouse.json) |
+| [August 10 at 10:57 AM](https://archive.org/download/oregonian-2022/oregonian-2022-08-10T17:56:57.237940-07:00.lighthouse.json) |
+| [August 9 at 11:16 PM](https://archive.org/download/oregonian-2022/oregonian-2022-08-10T06:16:41.320561-07:00.lighthouse.json) |
+| [August 9 at 11:01 AM](https://archive.org/download/oregonian-2022/oregonian-2022-08-09T18:01:33.508827-07:00.lighthouse.json) |
+| [August 8 at 11:02 PM](https://archive.org/download/oregonian-2022/oregonian-2022-08-09T06:01:52.678916-07:00.lighthouse.json) |
+| [August 8 at 10:56 AM](https://archive.org/download/oregonian-2022/oregonian-2022-08-08T17:56:51.278297-07:00.lighthouse.json) |
+| [August 7 at 10:48 PM](https://archive.org/download/oregonian-2022/oregonian-2022-08-08T05:48:33.763516-07:00.lighthouse.json) |
+| [August 7 at 11:06 AM](https://archive.org/download/oregonian-2022/oregonian-2022-08-07T18:06:32.467172-07:00.lighthouse.json) |
+| [August 6 at 10:43 PM](https://archive.org/download/oregonian-2022/oregonian-2022-08-07T05:43:23.093751-07:00.lighthouse.json) |
+| [August 6 at 10:44 AM](https://archive.org/download/oregonian-2022/oregonian-2022-08-06T17:44:33.820019-07:00.lighthouse.json) |
+| [August 5 at 10:35 PM](https://archive.org/download/oregonian-2022/oregonian-2022-08-06T05:35:37.506817-07:00.lighthouse.json) |
 
 
 

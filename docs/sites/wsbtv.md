@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-11T01:32:11.336218-04:00.jpg">
   <img src="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-11T01:32:11.336218-04:00.jpg"
-     alt="WSB-TV at 2022-08-11 01:32:16-04:00 local time"
+     alt="WSB-TV at 2022-08-10 18:32:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-11T01:32:11.336218-04:00.jpg">August 11 at 1:32 AM</a></p>
+ <p><a href="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-11T01:32:11.336218-04:00.jpg">August 10 at 6:32 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-10T14:32:37.033557-04:00.jpg">
   <img src="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-10T14:32:37.033557-04:00.jpg"
-     alt="WSB-TV at 2022-08-10 14:32:42-04:00 local time"
+     alt="WSB-TV at 2022-08-10 07:32:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-10T14:32:37.033557-04:00.jpg">August 10 at 2:32 PM</a></p>
+ <p><a href="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-10T14:32:37.033557-04:00.jpg">August 10 at 7:32 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-10T01:38:54.145233-04:00.jpg">
   <img src="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-10T01:38:54.145233-04:00.jpg"
-     alt="WSB-TV at 2022-08-10 01:38:56-04:00 local time"
+     alt="WSB-TV at 2022-08-09 18:38:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-10T01:38:54.145233-04:00.jpg">August 10 at 1:38 AM</a></p>
+ <p><a href="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-10T01:38:54.145233-04:00.jpg">August 9 at 6:38 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-09T14:01:22.608281-04:00.jpg">
   <img src="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-09T14:01:22.608281-04:00.jpg"
-     alt="WSB-TV at 2022-08-09 14:01:25-04:00 local time"
+     alt="WSB-TV at 2022-08-09 07:01:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-09T14:01:22.608281-04:00.jpg">August 9 at 2:01 PM</a></p>
+ <p><a href="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-09T14:01:22.608281-04:00.jpg">August 9 at 7:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-09T01:15:28.936159-04:00.jpg">
   <img src="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-09T01:15:28.936159-04:00.jpg"
-     alt="WSB-TV at 2022-08-09 01:15:30-04:00 local time"
+     alt="WSB-TV at 2022-08-08 18:15:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-09T01:15:28.936159-04:00.jpg">August 9 at 1:15 AM</a></p>
+ <p><a href="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-09T01:15:28.936159-04:00.jpg">August 8 at 6:15 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-08T13:25:07.620605-04:00.jpg">
   <img src="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-08T13:25:07.620605-04:00.jpg"
-     alt="WSB-TV at 2022-08-08 13:25:09-04:00 local time"
+     alt="WSB-TV at 2022-08-08 06:25:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-08T13:25:07.620605-04:00.jpg">August 8 at 1:25 PM</a></p>
+ <p><a href="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-08T13:25:07.620605-04:00.jpg">August 8 at 6:25 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-08T01:31:24.481493-04:00.jpg">
   <img src="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-08T01:31:24.481493-04:00.jpg"
-     alt="WSB-TV at 2022-08-08 01:31:26-04:00 local time"
+     alt="WSB-TV at 2022-08-07 18:31:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-08T01:31:24.481493-04:00.jpg">August 8 at 1:31 AM</a></p>
+ <p><a href="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-08T01:31:24.481493-04:00.jpg">August 7 at 6:31 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-07T13:12:58.393531-04:00.jpg">
   <img src="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-07T13:12:58.393531-04:00.jpg"
-     alt="WSB-TV at 2022-08-07 13:13:01-04:00 local time"
+     alt="WSB-TV at 2022-08-07 06:13:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-07T13:12:58.393531-04:00.jpg">August 7 at 1:13 PM</a></p>
+ <p><a href="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-07T13:12:58.393531-04:00.jpg">August 7 at 6:13 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-07T00:50:00.183313-04:00.jpg">
   <img src="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-07T00:50:00.183313-04:00.jpg"
-     alt="WSB-TV at 2022-08-07 00:50:01-04:00 local time"
+     alt="WSB-TV at 2022-08-06 17:50:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-07T00:50:00.183313-04:00.jpg">August 7 at 12:50 AM</a></p>
+ <p><a href="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-07T00:50:00.183313-04:00.jpg">August 6 at 5:50 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-06T12:32:05.668583-04:00.jpg">
   <img src="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-06T12:32:05.668583-04:00.jpg"
-     alt="WSB-TV at 2022-08-06 12:32:07-04:00 local time"
+     alt="WSB-TV at 2022-08-06 05:32:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-06T12:32:05.668583-04:00.jpg">August 6 at 12:32 PM</a></p>
+ <p><a href="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-06T12:32:05.668583-04:00.jpg">August 6 at 5:32 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-06T01:10:19.603502-04:00.jpg">
   <img src="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-06T01:10:19.603502-04:00.jpg"
-     alt="WSB-TV at 2022-08-06 01:10:20-04:00 local time"
+     alt="WSB-TV at 2022-08-05 18:10:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-06T01:10:19.603502-04:00.jpg">August 6 at 1:10 AM</a></p>
+ <p><a href="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-06T01:10:19.603502-04:00.jpg">August 5 at 6:10 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-05T14:05:04.291668-04:00.jpg">
   <img src="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-05T14:05:04.291668-04:00.jpg"
-     alt="WSB-TV at 2022-08-05 14:05:06-04:00 local time"
+     alt="WSB-TV at 2022-08-05 07:05:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-05T14:05:04.291668-04:00.jpg">August 5 at 2:05 PM</a></p>
+ <p><a href="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-05T14:05:04.291668-04:00.jpg">August 5 at 7:05 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 11 at 1:32 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-11T01:32:11.336218-04:00.hyperlinks.json) |
-| [August 10 at 1:38 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-10T01:38:54.145233-04:00.hyperlinks.json) |
-| [August 9 at 2:01 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-09T14:01:22.608281-04:00.hyperlinks.json) |
-| [August 9 at 1:15 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-09T01:15:28.936159-04:00.hyperlinks.json) |
-| [August 8 at 1:25 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-08T13:25:07.620605-04:00.hyperlinks.json) |
-| [August 8 at 1:31 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-08T01:31:24.481493-04:00.hyperlinks.json) |
-| [August 7 at 1:13 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-07T13:12:58.393531-04:00.hyperlinks.json) |
-| [August 7 at 12:50 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-07T00:50:00.183313-04:00.hyperlinks.json) |
-| [August 6 at 12:32 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-06T12:32:05.668583-04:00.hyperlinks.json) |
-| [August 6 at 1:10 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-06T01:10:19.603502-04:00.hyperlinks.json) |
+| [August 10 at 6:32 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-11T01:32:11.336218-04:00.hyperlinks.json) |
+| [August 9 at 6:38 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-10T01:38:54.145233-04:00.hyperlinks.json) |
+| [August 9 at 7:01 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-09T14:01:22.608281-04:00.hyperlinks.json) |
+| [August 8 at 6:15 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-09T01:15:28.936159-04:00.hyperlinks.json) |
+| [August 8 at 6:25 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-08T13:25:07.620605-04:00.hyperlinks.json) |
+| [August 7 at 6:31 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-08T01:31:24.481493-04:00.hyperlinks.json) |
+| [August 7 at 6:13 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-07T13:12:58.393531-04:00.hyperlinks.json) |
+| [August 6 at 5:50 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-07T00:50:00.183313-04:00.hyperlinks.json) |
+| [August 6 at 5:32 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-06T12:32:05.668583-04:00.hyperlinks.json) |
+| [August 5 at 6:10 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-06T01:10:19.603502-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 11 at 1:32 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-11T01:32:11.336218-04:00.accessibility.json) |
-| [August 10 at 2:32 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-10T14:32:37.033557-04:00.accessibility.json) |
-| [August 10 at 1:38 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-10T01:38:54.145233-04:00.accessibility.json) |
-| [August 9 at 2:01 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-09T14:01:22.608281-04:00.accessibility.json) |
-| [August 8 at 1:25 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-08T13:25:07.620605-04:00.accessibility.json) |
-| [August 8 at 1:31 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-08T01:31:24.481493-04:00.accessibility.json) |
-| [August 7 at 1:13 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-07T13:12:58.393531-04:00.accessibility.json) |
-| [August 7 at 12:50 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-07T00:50:00.183313-04:00.accessibility.json) |
-| [August 6 at 12:32 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-06T12:32:05.668583-04:00.accessibility.json) |
-| [August 6 at 1:10 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-06T01:10:19.603502-04:00.accessibility.json) |
+| [August 10 at 6:32 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-11T01:32:11.336218-04:00.accessibility.json) |
+| [August 10 at 7:32 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-10T14:32:37.033557-04:00.accessibility.json) |
+| [August 9 at 6:38 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-10T01:38:54.145233-04:00.accessibility.json) |
+| [August 9 at 7:01 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-09T14:01:22.608281-04:00.accessibility.json) |
+| [August 8 at 6:25 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-08T13:25:07.620605-04:00.accessibility.json) |
+| [August 7 at 6:31 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-08T01:31:24.481493-04:00.accessibility.json) |
+| [August 7 at 6:13 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-07T13:12:58.393531-04:00.accessibility.json) |
+| [August 6 at 5:50 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-07T00:50:00.183313-04:00.accessibility.json) |
+| [August 6 at 5:32 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-06T12:32:05.668583-04:00.accessibility.json) |
+| [August 5 at 6:10 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-06T01:10:19.603502-04:00.accessibility.json) |
 
 
 
@@ -525,16 +525,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 11 at 1:32 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-11T01:32:11.336218-04:00.lighthouse.json) |
-| [August 10 at 2:32 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-10T14:32:37.033557-04:00.lighthouse.json) |
-| [August 9 at 2:01 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-09T14:01:22.608281-04:00.lighthouse.json) |
-| [August 9 at 1:15 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-09T01:15:28.936159-04:00.lighthouse.json) |
-| [August 8 at 1:25 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-08T13:25:07.620605-04:00.lighthouse.json) |
-| [August 7 at 1:13 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-07T13:12:58.393531-04:00.lighthouse.json) |
-| [August 7 at 12:50 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-07T00:50:00.183313-04:00.lighthouse.json) |
-| [August 6 at 12:32 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-06T12:32:05.668583-04:00.lighthouse.json) |
-| [August 6 at 1:10 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-06T01:10:19.603502-04:00.lighthouse.json) |
-| [August 5 at 2:05 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-05T14:05:04.291668-04:00.lighthouse.json) |
+| [August 10 at 6:32 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-11T01:32:11.336218-04:00.lighthouse.json) |
+| [August 10 at 7:32 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-10T14:32:37.033557-04:00.lighthouse.json) |
+| [August 9 at 7:01 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-09T14:01:22.608281-04:00.lighthouse.json) |
+| [August 8 at 6:15 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-09T01:15:28.936159-04:00.lighthouse.json) |
+| [August 8 at 6:25 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-08T13:25:07.620605-04:00.lighthouse.json) |
+| [August 7 at 6:13 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-07T13:12:58.393531-04:00.lighthouse.json) |
+| [August 6 at 5:50 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-07T00:50:00.183313-04:00.lighthouse.json) |
+| [August 6 at 5:32 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-06T12:32:05.668583-04:00.lighthouse.json) |
+| [August 5 at 6:10 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-06T01:10:19.603502-04:00.lighthouse.json) |
+| [August 5 at 7:05 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-05T14:05:04.291668-04:00.lighthouse.json) |
 
 
 

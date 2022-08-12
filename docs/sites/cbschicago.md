@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/cbschicago-2022/cbschicago-2022-08-10T21:23:44.108111-05:00.jpg">
   <img src="https://archive.org/download/cbschicago-2022/cbschicago-2022-08-10T21:23:44.108111-05:00.jpg"
-     alt="CBS Chicago at 2022-08-10 21:23:46-05:00 local time"
+     alt="CBS Chicago at 2022-08-10 14:23:46-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbschicago-2022/cbschicago-2022-08-10T21:23:44.108111-05:00.jpg">August 10 at 9:23 PM</a></p>
+ <p><a href="https://archive.org/download/cbschicago-2022/cbschicago-2022-08-10T21:23:44.108111-05:00.jpg">August 10 at 2:23 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbschicago-2022/cbschicago-2022-08-10T14:33:12.146823-05:00.jpg">
   <img src="https://archive.org/download/cbschicago-2022/cbschicago-2022-08-10T14:33:12.146823-05:00.jpg"
-     alt="CBS Chicago at 2022-08-10 14:33:14-05:00 local time"
+     alt="CBS Chicago at 2022-08-10 07:33:14-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbschicago-2022/cbschicago-2022-08-10T14:33:12.146823-05:00.jpg">August 10 at 2:33 PM</a></p>
+ <p><a href="https://archive.org/download/cbschicago-2022/cbschicago-2022-08-10T14:33:12.146823-05:00.jpg">August 10 at 7:33 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbschicago-2022/cbschicago-2022-08-10T12:45:49.187204-05:00.jpg">
   <img src="https://archive.org/download/cbschicago-2022/cbschicago-2022-08-10T12:45:49.187204-05:00.jpg"
-     alt="CBS Chicago at 2022-08-10 12:45:52-05:00 local time"
+     alt="CBS Chicago at 2022-08-10 05:45:52-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbschicago-2022/cbschicago-2022-08-10T12:45:49.187204-05:00.jpg">August 10 at 12:45 PM</a></p>
+ <p><a href="https://archive.org/download/cbschicago-2022/cbschicago-2022-08-10T12:45:49.187204-05:00.jpg">August 10 at 5:45 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbschicago-2022/cbschicago-2022-08-09T21:34:30.785601-05:00.jpg">
   <img src="https://archive.org/download/cbschicago-2022/cbschicago-2022-08-09T21:34:30.785601-05:00.jpg"
-     alt="CBS Chicago at 2022-08-09 21:34:31-05:00 local time"
+     alt="CBS Chicago at 2022-08-09 14:34:31-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbschicago-2022/cbschicago-2022-08-09T21:34:30.785601-05:00.jpg">August 9 at 9:34 PM</a></p>
+ <p><a href="https://archive.org/download/cbschicago-2022/cbschicago-2022-08-09T21:34:30.785601-05:00.jpg">August 9 at 2:34 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbschicago-2022/cbschicago-2022-08-09T13:02:38.866865-05:00.jpg">
   <img src="https://archive.org/download/cbschicago-2022/cbschicago-2022-08-09T13:02:38.866865-05:00.jpg"
-     alt="CBS Chicago at 2022-08-09 13:02:41-05:00 local time"
+     alt="CBS Chicago at 2022-08-09 06:02:41-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbschicago-2022/cbschicago-2022-08-09T13:02:38.866865-05:00.jpg">August 9 at 1:02 PM</a></p>
+ <p><a href="https://archive.org/download/cbschicago-2022/cbschicago-2022-08-09T13:02:38.866865-05:00.jpg">August 9 at 6:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbschicago-2022/cbschicago-2022-08-09T09:35:29.932726-05:00.jpg">
   <img src="https://archive.org/download/cbschicago-2022/cbschicago-2022-08-09T09:35:29.932726-05:00.jpg"
-     alt="CBS Chicago at 2022-08-09 09:35:31-05:00 local time"
+     alt="CBS Chicago at 2022-08-09 02:35:31-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbschicago-2022/cbschicago-2022-08-09T09:35:29.932726-05:00.jpg">August 9 at 9:35 AM</a></p>
+ <p><a href="https://archive.org/download/cbschicago-2022/cbschicago-2022-08-09T09:35:29.932726-05:00.jpg">August 9 at 2:35 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbschicago-2022/cbschicago-2022-08-08T21:21:30.294106-05:00.jpg">
   <img src="https://archive.org/download/cbschicago-2022/cbschicago-2022-08-08T21:21:30.294106-05:00.jpg"
-     alt="CBS Chicago at 2022-08-08 21:21:32-05:00 local time"
+     alt="CBS Chicago at 2022-08-08 14:21:32-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbschicago-2022/cbschicago-2022-08-08T21:21:30.294106-05:00.jpg">August 8 at 9:21 PM</a></p>
+ <p><a href="https://archive.org/download/cbschicago-2022/cbschicago-2022-08-08T21:21:30.294106-05:00.jpg">August 8 at 2:21 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbschicago-2022/cbschicago-2022-08-08T12:44:13.946063-05:00.jpg">
   <img src="https://archive.org/download/cbschicago-2022/cbschicago-2022-08-08T12:44:13.946063-05:00.jpg"
-     alt="CBS Chicago at 2022-08-08 12:44:16-05:00 local time"
+     alt="CBS Chicago at 2022-08-08 05:44:16-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbschicago-2022/cbschicago-2022-08-08T12:44:13.946063-05:00.jpg">August 8 at 12:44 PM</a></p>
+ <p><a href="https://archive.org/download/cbschicago-2022/cbschicago-2022-08-08T12:44:13.946063-05:00.jpg">August 8 at 5:44 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbschicago-2022/cbschicago-2022-08-08T09:19:12.317622-05:00.jpg">
   <img src="https://archive.org/download/cbschicago-2022/cbschicago-2022-08-08T09:19:12.317622-05:00.jpg"
-     alt="CBS Chicago at 2022-08-08 09:19:13-05:00 local time"
+     alt="CBS Chicago at 2022-08-08 02:19:13-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbschicago-2022/cbschicago-2022-08-08T09:19:12.317622-05:00.jpg">August 8 at 9:19 AM</a></p>
+ <p><a href="https://archive.org/download/cbschicago-2022/cbschicago-2022-08-08T09:19:12.317622-05:00.jpg">August 8 at 2:19 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbschicago-2022/cbschicago-2022-08-07T21:31:48.916850-05:00.jpg">
   <img src="https://archive.org/download/cbschicago-2022/cbschicago-2022-08-07T21:31:48.916850-05:00.jpg"
-     alt="CBS Chicago at 2022-08-07 21:31:50-05:00 local time"
+     alt="CBS Chicago at 2022-08-07 14:31:50-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbschicago-2022/cbschicago-2022-08-07T21:31:48.916850-05:00.jpg">August 7 at 9:31 PM</a></p>
+ <p><a href="https://archive.org/download/cbschicago-2022/cbschicago-2022-08-07T21:31:48.916850-05:00.jpg">August 7 at 2:31 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbschicago-2022/cbschicago-2022-08-07T12:13:19.460872-05:00.jpg">
   <img src="https://archive.org/download/cbschicago-2022/cbschicago-2022-08-07T12:13:19.460872-05:00.jpg"
-     alt="CBS Chicago at 2022-08-07 12:13:22-05:00 local time"
+     alt="CBS Chicago at 2022-08-07 05:13:22-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbschicago-2022/cbschicago-2022-08-07T12:13:19.460872-05:00.jpg">August 7 at 12:13 PM</a></p>
+ <p><a href="https://archive.org/download/cbschicago-2022/cbschicago-2022-08-07T12:13:19.460872-05:00.jpg">August 7 at 5:13 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbschicago-2022/cbschicago-2022-08-07T09:02:48.123432-05:00.jpg">
   <img src="https://archive.org/download/cbschicago-2022/cbschicago-2022-08-07T09:02:48.123432-05:00.jpg"
-     alt="CBS Chicago at 2022-08-07 09:02:49-05:00 local time"
+     alt="CBS Chicago at 2022-08-07 02:02:49-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbschicago-2022/cbschicago-2022-08-07T09:02:48.123432-05:00.jpg">August 7 at 9:02 AM</a></p>
+ <p><a href="https://archive.org/download/cbschicago-2022/cbschicago-2022-08-07T09:02:48.123432-05:00.jpg">August 7 at 2:02 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 10 at 9:23 PM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-10T21:23:44.108111-05:00.hyperlinks.json) |
-| [August 10 at 2:33 PM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-10T14:33:12.146823-05:00.hyperlinks.json) |
-| [August 10 at 12:45 PM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-10T12:45:49.187204-05:00.hyperlinks.json) |
-| [August 9 at 9:34 PM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-09T21:34:30.785601-05:00.hyperlinks.json) |
-| [August 9 at 1:02 PM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-09T13:02:38.866865-05:00.hyperlinks.json) |
-| [August 9 at 9:35 AM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-09T09:35:29.932726-05:00.hyperlinks.json) |
-| [August 8 at 9:21 PM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-08T21:21:30.294106-05:00.hyperlinks.json) |
-| [August 8 at 12:44 PM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-08T12:44:13.946063-05:00.hyperlinks.json) |
-| [August 8 at 9:19 AM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-08T09:19:12.317622-05:00.hyperlinks.json) |
-| [August 7 at 9:31 PM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-07T21:31:48.916850-05:00.hyperlinks.json) |
+| [August 10 at 2:23 PM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-10T21:23:44.108111-05:00.hyperlinks.json) |
+| [August 10 at 7:33 AM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-10T14:33:12.146823-05:00.hyperlinks.json) |
+| [August 10 at 5:45 AM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-10T12:45:49.187204-05:00.hyperlinks.json) |
+| [August 9 at 2:34 PM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-09T21:34:30.785601-05:00.hyperlinks.json) |
+| [August 9 at 6:02 AM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-09T13:02:38.866865-05:00.hyperlinks.json) |
+| [August 9 at 2:35 AM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-09T09:35:29.932726-05:00.hyperlinks.json) |
+| [August 8 at 2:21 PM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-08T21:21:30.294106-05:00.hyperlinks.json) |
+| [August 8 at 5:44 AM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-08T12:44:13.946063-05:00.hyperlinks.json) |
+| [August 8 at 2:19 AM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-08T09:19:12.317622-05:00.hyperlinks.json) |
+| [August 7 at 2:31 PM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-07T21:31:48.916850-05:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 10 at 9:23 PM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-10T21:23:44.108111-05:00.accessibility.json) |
-| [August 10 at 2:33 PM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-10T14:33:12.146823-05:00.accessibility.json) |
-| [August 10 at 12:45 PM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-10T12:45:49.187204-05:00.accessibility.json) |
-| [August 9 at 9:34 PM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-09T21:34:30.785601-05:00.accessibility.json) |
-| [August 9 at 1:02 PM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-09T13:02:38.866865-05:00.accessibility.json) |
-| [August 9 at 9:35 AM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-09T09:35:29.932726-05:00.accessibility.json) |
-| [August 8 at 9:21 PM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-08T21:21:30.294106-05:00.accessibility.json) |
-| [August 8 at 12:44 PM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-08T12:44:13.946063-05:00.accessibility.json) |
-| [August 8 at 9:19 AM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-08T09:19:12.317622-05:00.accessibility.json) |
-| [August 7 at 9:31 PM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-07T21:31:48.916850-05:00.accessibility.json) |
+| [August 10 at 2:23 PM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-10T21:23:44.108111-05:00.accessibility.json) |
+| [August 10 at 7:33 AM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-10T14:33:12.146823-05:00.accessibility.json) |
+| [August 10 at 5:45 AM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-10T12:45:49.187204-05:00.accessibility.json) |
+| [August 9 at 2:34 PM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-09T21:34:30.785601-05:00.accessibility.json) |
+| [August 9 at 6:02 AM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-09T13:02:38.866865-05:00.accessibility.json) |
+| [August 9 at 2:35 AM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-09T09:35:29.932726-05:00.accessibility.json) |
+| [August 8 at 2:21 PM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-08T21:21:30.294106-05:00.accessibility.json) |
+| [August 8 at 5:44 AM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-08T12:44:13.946063-05:00.accessibility.json) |
+| [August 8 at 2:19 AM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-08T09:19:12.317622-05:00.accessibility.json) |
+| [August 7 at 2:31 PM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-07T21:31:48.916850-05:00.accessibility.json) |
 
 
 
@@ -525,16 +525,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 10 at 9:23 PM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-10T21:23:44.108111-05:00.lighthouse.json) |
-| [August 10 at 2:33 PM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-10T14:33:12.146823-05:00.lighthouse.json) |
-| [August 10 at 12:45 PM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-10T12:45:49.187204-05:00.lighthouse.json) |
-| [August 9 at 9:34 PM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-09T21:34:30.785601-05:00.lighthouse.json) |
-| [August 9 at 1:02 PM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-09T13:02:38.866865-05:00.lighthouse.json) |
-| [August 9 at 9:35 AM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-09T09:35:29.932726-05:00.lighthouse.json) |
-| [August 8 at 9:21 PM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-08T21:21:30.294106-05:00.lighthouse.json) |
-| [August 8 at 12:44 PM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-08T12:44:13.946063-05:00.lighthouse.json) |
-| [August 8 at 9:19 AM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-08T09:19:12.317622-05:00.lighthouse.json) |
-| [August 7 at 9:31 PM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-07T21:31:48.916850-05:00.lighthouse.json) |
+| [August 10 at 2:23 PM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-10T21:23:44.108111-05:00.lighthouse.json) |
+| [August 10 at 7:33 AM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-10T14:33:12.146823-05:00.lighthouse.json) |
+| [August 10 at 5:45 AM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-10T12:45:49.187204-05:00.lighthouse.json) |
+| [August 9 at 2:34 PM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-09T21:34:30.785601-05:00.lighthouse.json) |
+| [August 9 at 6:02 AM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-09T13:02:38.866865-05:00.lighthouse.json) |
+| [August 9 at 2:35 AM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-09T09:35:29.932726-05:00.lighthouse.json) |
+| [August 8 at 2:21 PM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-08T21:21:30.294106-05:00.lighthouse.json) |
+| [August 8 at 5:44 AM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-08T12:44:13.946063-05:00.lighthouse.json) |
+| [August 8 at 2:19 AM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-08T09:19:12.317622-05:00.lighthouse.json) |
+| [August 7 at 2:31 PM](https://archive.org/download/cbschicago-2022/cbschicago-2022-08-07T21:31:48.916850-05:00.lighthouse.json) |
 
 
 

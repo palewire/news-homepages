@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-10T22:23:35.855190-07:00.jpg">
   <img src="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-10T22:23:35.855190-07:00.jpg"
-     alt="Las Vegas Review-Journal at 2022-08-10 22:23:38-07:00 local time"
+     alt="Las Vegas Review-Journal at 2022-08-10 15:23:38-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-10T22:23:35.855190-07:00.jpg">August 10 at 10:23 PM</a></p>
+ <p><a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-10T22:23:35.855190-07:00.jpg">August 10 at 3:23 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-10T11:20:13.639250-07:00.jpg">
   <img src="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-10T11:20:13.639250-07:00.jpg"
-     alt="Las Vegas Review-Journal at 2022-08-10 11:20:29-07:00 local time"
+     alt="Las Vegas Review-Journal at 2022-08-10 04:20:29-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-10T11:20:13.639250-07:00.jpg">August 10 at 11:20 AM</a></p>
+ <p><a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-10T11:20:13.639250-07:00.jpg">August 10 at 4:20 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-09T22:29:30.141667-07:00.jpg">
   <img src="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-09T22:29:30.141667-07:00.jpg"
-     alt="Las Vegas Review-Journal at 2022-08-09 22:29:33-07:00 local time"
+     alt="Las Vegas Review-Journal at 2022-08-09 15:29:33-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-09T22:29:30.141667-07:00.jpg">August 9 at 10:29 PM</a></p>
+ <p><a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-09T22:29:30.141667-07:00.jpg">August 9 at 3:29 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-09T10:50:36.703400-07:00.jpg">
   <img src="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-09T10:50:36.703400-07:00.jpg"
-     alt="Las Vegas Review-Journal at 2022-08-09 10:50:38-07:00 local time"
+     alt="Las Vegas Review-Journal at 2022-08-09 03:50:38-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-09T10:50:36.703400-07:00.jpg">August 9 at 10:50 AM</a></p>
+ <p><a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-09T10:50:36.703400-07:00.jpg">August 9 at 3:50 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-08T22:06:16.476018-07:00.jpg">
   <img src="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-08T22:06:16.476018-07:00.jpg"
-     alt="Las Vegas Review-Journal at 2022-08-08 22:06:19-07:00 local time"
+     alt="Las Vegas Review-Journal at 2022-08-08 15:06:19-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-08T22:06:16.476018-07:00.jpg">August 8 at 10:06 PM</a></p>
+ <p><a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-08T22:06:16.476018-07:00.jpg">August 8 at 3:06 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-08T10:16:17.768842-07:00.jpg">
   <img src="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-08T10:16:17.768842-07:00.jpg"
-     alt="Las Vegas Review-Journal at 2022-08-08 10:16:19-07:00 local time"
+     alt="Las Vegas Review-Journal at 2022-08-08 03:16:19-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-08T10:16:17.768842-07:00.jpg">August 8 at 10:16 AM</a></p>
+ <p><a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-08T10:16:17.768842-07:00.jpg">August 8 at 3:16 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-07T22:22:31.205340-07:00.jpg">
   <img src="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-07T22:22:31.205340-07:00.jpg"
-     alt="Las Vegas Review-Journal at 2022-08-07 22:22:32-07:00 local time"
+     alt="Las Vegas Review-Journal at 2022-08-07 15:22:32-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-07T22:22:31.205340-07:00.jpg">August 7 at 10:22 PM</a></p>
+ <p><a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-07T22:22:31.205340-07:00.jpg">August 7 at 3:22 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-07T10:03:28.253059-07:00.jpg">
   <img src="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-07T10:03:28.253059-07:00.jpg"
-     alt="Las Vegas Review-Journal at 2022-08-07 10:03:31-07:00 local time"
+     alt="Las Vegas Review-Journal at 2022-08-07 03:03:31-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-07T10:03:28.253059-07:00.jpg">August 7 at 10:03 AM</a></p>
+ <p><a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-07T10:03:28.253059-07:00.jpg">August 7 at 3:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-06T21:41:39.199309-07:00.jpg">
   <img src="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-06T21:41:39.199309-07:00.jpg"
-     alt="Las Vegas Review-Journal at 2022-08-06 21:41:40-07:00 local time"
+     alt="Las Vegas Review-Journal at 2022-08-06 14:41:40-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-06T21:41:39.199309-07:00.jpg">August 6 at 9:41 PM</a></p>
+ <p><a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-06T21:41:39.199309-07:00.jpg">August 6 at 2:41 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-06T09:24:47.005793-07:00.jpg">
   <img src="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-06T09:24:47.005793-07:00.jpg"
-     alt="Las Vegas Review-Journal at 2022-08-06 09:24:48-07:00 local time"
+     alt="Las Vegas Review-Journal at 2022-08-06 02:24:48-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-06T09:24:47.005793-07:00.jpg">August 6 at 9:24 AM</a></p>
+ <p><a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-06T09:24:47.005793-07:00.jpg">August 6 at 2:24 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-05T22:01:49.125990-07:00.jpg">
   <img src="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-05T22:01:49.125990-07:00.jpg"
-     alt="Las Vegas Review-Journal at 2022-08-05 22:01:53-07:00 local time"
+     alt="Las Vegas Review-Journal at 2022-08-05 15:01:53-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-05T22:01:49.125990-07:00.jpg">August 5 at 10:01 PM</a></p>
+ <p><a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-05T22:01:49.125990-07:00.jpg">August 5 at 3:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-05T10:53:52.812382-07:00.jpg">
   <img src="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-05T10:53:52.812382-07:00.jpg"
-     alt="Las Vegas Review-Journal at 2022-08-05 10:53:55-07:00 local time"
+     alt="Las Vegas Review-Journal at 2022-08-05 03:53:55-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-05T10:53:52.812382-07:00.jpg">August 5 at 10:53 AM</a></p>
+ <p><a href="https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-05T10:53:52.812382-07:00.jpg">August 5 at 3:53 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 10 at 10:23 PM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-10T22:23:35.855190-07:00.hyperlinks.json) |
-| [August 10 at 11:21 AM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-10T11:20:13.639250-07:00.hyperlinks.json) |
-| [August 9 at 10:29 PM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-09T22:29:30.141667-07:00.hyperlinks.json) |
-| [August 9 at 10:50 AM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-09T10:50:36.703400-07:00.hyperlinks.json) |
-| [August 8 at 10:06 PM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-08T22:06:16.476018-07:00.hyperlinks.json) |
-| [August 8 at 10:16 AM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-08T10:16:17.768842-07:00.hyperlinks.json) |
-| [August 7 at 10:22 PM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-07T22:22:31.205340-07:00.hyperlinks.json) |
-| [August 7 at 10:03 AM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-07T10:03:28.253059-07:00.hyperlinks.json) |
-| [August 6 at 9:41 PM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-06T21:41:39.199309-07:00.hyperlinks.json) |
-| [August 6 at 9:24 AM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-06T09:24:47.005793-07:00.hyperlinks.json) |
+| [August 10 at 3:23 PM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-10T22:23:35.855190-07:00.hyperlinks.json) |
+| [August 10 at 4:21 AM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-10T11:20:13.639250-07:00.hyperlinks.json) |
+| [August 9 at 3:29 PM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-09T22:29:30.141667-07:00.hyperlinks.json) |
+| [August 9 at 3:50 AM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-09T10:50:36.703400-07:00.hyperlinks.json) |
+| [August 8 at 3:06 PM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-08T22:06:16.476018-07:00.hyperlinks.json) |
+| [August 8 at 3:16 AM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-08T10:16:17.768842-07:00.hyperlinks.json) |
+| [August 7 at 3:22 PM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-07T22:22:31.205340-07:00.hyperlinks.json) |
+| [August 7 at 3:03 AM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-07T10:03:28.253059-07:00.hyperlinks.json) |
+| [August 6 at 2:41 PM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-06T21:41:39.199309-07:00.hyperlinks.json) |
+| [August 6 at 2:24 AM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-06T09:24:47.005793-07:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 10 at 10:23 PM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-10T22:23:35.855190-07:00.accessibility.json) |
-| [August 10 at 11:20 AM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-10T11:20:13.639250-07:00.accessibility.json) |
-| [August 9 at 10:29 PM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-09T22:29:30.141667-07:00.accessibility.json) |
-| [August 9 at 10:50 AM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-09T10:50:36.703400-07:00.accessibility.json) |
-| [August 8 at 10:06 PM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-08T22:06:16.476018-07:00.accessibility.json) |
-| [August 8 at 10:16 AM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-08T10:16:17.768842-07:00.accessibility.json) |
-| [August 7 at 10:22 PM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-07T22:22:31.205340-07:00.accessibility.json) |
-| [August 7 at 10:03 AM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-07T10:03:28.253059-07:00.accessibility.json) |
-| [August 6 at 9:41 PM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-06T21:41:39.199309-07:00.accessibility.json) |
-| [August 6 at 9:24 AM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-06T09:24:47.005793-07:00.accessibility.json) |
+| [August 10 at 3:23 PM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-10T22:23:35.855190-07:00.accessibility.json) |
+| [August 10 at 4:20 AM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-10T11:20:13.639250-07:00.accessibility.json) |
+| [August 9 at 3:29 PM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-09T22:29:30.141667-07:00.accessibility.json) |
+| [August 9 at 3:50 AM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-09T10:50:36.703400-07:00.accessibility.json) |
+| [August 8 at 3:06 PM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-08T22:06:16.476018-07:00.accessibility.json) |
+| [August 8 at 3:16 AM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-08T10:16:17.768842-07:00.accessibility.json) |
+| [August 7 at 3:22 PM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-07T22:22:31.205340-07:00.accessibility.json) |
+| [August 7 at 3:03 AM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-07T10:03:28.253059-07:00.accessibility.json) |
+| [August 6 at 2:41 PM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-06T21:41:39.199309-07:00.accessibility.json) |
+| [August 6 at 2:24 AM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-06T09:24:47.005793-07:00.accessibility.json) |
 
 
 
@@ -525,16 +525,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 10 at 10:23 PM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-10T22:23:35.855190-07:00.lighthouse.json) |
-| [August 10 at 11:21 AM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-10T11:20:13.639250-07:00.lighthouse.json) |
-| [August 9 at 10:29 PM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-09T22:29:30.141667-07:00.lighthouse.json) |
-| [August 9 at 10:50 AM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-09T10:50:36.703400-07:00.lighthouse.json) |
-| [August 8 at 10:06 PM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-08T22:06:16.476018-07:00.lighthouse.json) |
-| [August 8 at 10:16 AM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-08T10:16:17.768842-07:00.lighthouse.json) |
-| [August 7 at 10:22 PM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-07T22:22:31.205340-07:00.lighthouse.json) |
-| [August 7 at 10:03 AM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-07T10:03:28.253059-07:00.lighthouse.json) |
-| [August 6 at 9:41 PM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-06T21:41:39.199309-07:00.lighthouse.json) |
-| [August 6 at 9:24 AM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-06T09:24:47.005793-07:00.lighthouse.json) |
+| [August 10 at 3:23 PM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-10T22:23:35.855190-07:00.lighthouse.json) |
+| [August 10 at 4:21 AM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-10T11:20:13.639250-07:00.lighthouse.json) |
+| [August 9 at 3:29 PM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-09T22:29:30.141667-07:00.lighthouse.json) |
+| [August 9 at 3:50 AM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-09T10:50:36.703400-07:00.lighthouse.json) |
+| [August 8 at 3:06 PM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-08T22:06:16.476018-07:00.lighthouse.json) |
+| [August 8 at 3:16 AM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-08T10:16:17.768842-07:00.lighthouse.json) |
+| [August 7 at 3:22 PM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-07T22:22:31.205340-07:00.lighthouse.json) |
+| [August 7 at 3:03 AM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-07T10:03:28.253059-07:00.lighthouse.json) |
+| [August 6 at 2:41 PM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-06T21:41:39.199309-07:00.lighthouse.json) |
+| [August 6 at 2:24 AM](https://archive.org/download/reviewjournal-2022/reviewjournal-2022-08-06T09:24:47.005793-07:00.lighthouse.json) |
 
 
 

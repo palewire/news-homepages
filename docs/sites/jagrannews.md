@@ -31,109 +31,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-11T19:03:41.907803+05:30.jpg">
   <img src="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-11T19:03:41.907803+05:30.jpg"
-     alt="Dainik Jagram at 2022-08-11 19:03:45+05:30 local time"
+     alt="Dainik Jagram at 2022-08-11 12:03:45+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-11T19:03:41.907803+05:30.jpg">August 11 at 7:03 PM</a></p>
+ <p><a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-11T19:03:41.907803+05:30.jpg">August 11 at 12:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-11T06:17:48.620775+05:30.jpg">
   <img src="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-11T06:17:48.620775+05:30.jpg"
-     alt="Dainik Jagram at 2022-08-11 06:17:52+05:30 local time"
+     alt="Dainik Jagram at 2022-08-10 23:17:52+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-11T06:17:48.620775+05:30.jpg">August 11 at 6:17 AM</a></p>
+ <p><a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-11T06:17:48.620775+05:30.jpg">August 10 at 11:17 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-10T18:33:58.127623+05:30.jpg">
   <img src="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-10T18:33:58.127623+05:30.jpg"
-     alt="Dainik Jagram at 2022-08-10 18:33:59+05:30 local time"
+     alt="Dainik Jagram at 2022-08-10 11:33:59+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-10T18:33:58.127623+05:30.jpg">August 10 at 6:33 PM</a></p>
+ <p><a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-10T18:33:58.127623+05:30.jpg">August 10 at 11:33 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-10T06:20:40.279174+05:30.jpg">
   <img src="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-10T06:20:40.279174+05:30.jpg"
-     alt="Dainik Jagram at 2022-08-10 06:20:43+05:30 local time"
+     alt="Dainik Jagram at 2022-08-09 23:20:43+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-10T06:20:40.279174+05:30.jpg">August 10 at 6:20 AM</a></p>
+ <p><a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-10T06:20:40.279174+05:30.jpg">August 9 at 11:20 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-09T18:20:27.366259+05:30.jpg">
   <img src="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-09T18:20:27.366259+05:30.jpg"
-     alt="Dainik Jagram at 2022-08-09 18:20:31+05:30 local time"
+     alt="Dainik Jagram at 2022-08-09 11:20:31+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-09T18:20:27.366259+05:30.jpg">August 9 at 6:20 PM</a></p>
+ <p><a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-09T18:20:27.366259+05:30.jpg">August 9 at 11:20 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-09T06:18:03.032454+05:30.jpg">
   <img src="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-09T06:18:03.032454+05:30.jpg"
-     alt="Dainik Jagram at 2022-08-09 06:18:05+05:30 local time"
+     alt="Dainik Jagram at 2022-08-08 23:18:05+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-09T06:18:03.032454+05:30.jpg">August 9 at 6:18 AM</a></p>
+ <p><a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-09T06:18:03.032454+05:30.jpg">August 8 at 11:18 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-08T18:08:29.647682+05:30.jpg">
   <img src="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-08T18:08:29.647682+05:30.jpg"
-     alt="Dainik Jagram at 2022-08-08 18:08:30+05:30 local time"
+     alt="Dainik Jagram at 2022-08-08 11:08:30+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-08T18:08:29.647682+05:30.jpg">August 8 at 6:08 PM</a></p>
+ <p><a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-08T18:08:29.647682+05:30.jpg">August 8 at 11:08 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-08T06:26:01.744761+05:30.jpg">
   <img src="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-08T06:26:01.744761+05:30.jpg"
-     alt="Dainik Jagram at 2022-08-08 06:26:04+05:30 local time"
+     alt="Dainik Jagram at 2022-08-07 23:26:04+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-08T06:26:01.744761+05:30.jpg">August 8 at 6:26 AM</a></p>
+ <p><a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-08T06:26:01.744761+05:30.jpg">August 7 at 11:26 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-07T18:02:36.028789+05:30.jpg">
   <img src="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-07T18:02:36.028789+05:30.jpg"
-     alt="Dainik Jagram at 2022-08-07 18:02:39+05:30 local time"
+     alt="Dainik Jagram at 2022-08-07 11:02:39+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-07T18:02:36.028789+05:30.jpg">August 7 at 6:02 PM</a></p>
+ <p><a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-07T18:02:36.028789+05:30.jpg">August 7 at 11:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-07T06:05:30.191361+05:30.jpg">
   <img src="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-07T06:05:30.191361+05:30.jpg"
-     alt="Dainik Jagram at 2022-08-07 06:05:31+05:30 local time"
+     alt="Dainik Jagram at 2022-08-06 23:05:31+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-07T06:05:30.191361+05:30.jpg">August 7 at 6:05 AM</a></p>
+ <p><a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-07T06:05:30.191361+05:30.jpg">August 6 at 11:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-06T17:56:24.734966+05:30.jpg">
   <img src="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-06T17:56:24.734966+05:30.jpg"
-     alt="Dainik Jagram at 2022-08-06 17:56:27+05:30 local time"
+     alt="Dainik Jagram at 2022-08-06 10:56:27+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-06T17:56:24.734966+05:30.jpg">August 6 at 5:56 PM</a></p>
+ <p><a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-06T17:56:24.734966+05:30.jpg">August 6 at 10:56 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-06T07:31:02.704530+05:30.jpg">
   <img src="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-06T07:31:02.704530+05:30.jpg"
-     alt="Dainik Jagram at 2022-08-06 07:31:06+05:30 local time"
+     alt="Dainik Jagram at 2022-08-06 00:31:06+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-06T07:31:02.704530+05:30.jpg">August 6 at 7:31 AM</a></p>
+ <p><a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-06T07:31:02.704530+05:30.jpg">August 6 at 12:31 AM</a></p>
 </div>
 
 </div>
@@ -231,16 +231,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 11 at 7:03 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-11T19:03:41.907803+05:30.hyperlinks.json) |
-| [August 11 at 6:17 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-11T06:17:48.620775+05:30.hyperlinks.json) |
-| [August 10 at 6:34 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-10T18:33:58.127623+05:30.hyperlinks.json) |
-| [August 10 at 6:20 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-10T06:20:40.279174+05:30.hyperlinks.json) |
-| [August 9 at 6:20 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-09T18:20:27.366259+05:30.hyperlinks.json) |
-| [August 9 at 6:18 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-09T06:18:03.032454+05:30.hyperlinks.json) |
-| [August 8 at 6:08 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-08T18:08:29.647682+05:30.hyperlinks.json) |
-| [August 8 at 6:26 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-08T06:26:01.744761+05:30.hyperlinks.json) |
-| [August 7 at 6:02 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-07T18:02:36.028789+05:30.hyperlinks.json) |
-| [August 7 at 6:05 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-07T06:05:30.191361+05:30.hyperlinks.json) |
+| [August 11 at 12:03 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-11T19:03:41.907803+05:30.hyperlinks.json) |
+| [August 10 at 11:17 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-11T06:17:48.620775+05:30.hyperlinks.json) |
+| [August 10 at 11:34 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-10T18:33:58.127623+05:30.hyperlinks.json) |
+| [August 9 at 11:20 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-10T06:20:40.279174+05:30.hyperlinks.json) |
+| [August 9 at 11:20 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-09T18:20:27.366259+05:30.hyperlinks.json) |
+| [August 8 at 11:18 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-09T06:18:03.032454+05:30.hyperlinks.json) |
+| [August 8 at 11:08 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-08T18:08:29.647682+05:30.hyperlinks.json) |
+| [August 7 at 11:26 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-08T06:26:01.744761+05:30.hyperlinks.json) |
+| [August 7 at 11:02 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-07T18:02:36.028789+05:30.hyperlinks.json) |
+| [August 6 at 11:05 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-07T06:05:30.191361+05:30.hyperlinks.json) |
 
 
 ## Accessibility
@@ -336,16 +336,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 11 at 7:03 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-11T19:03:41.907803+05:30.accessibility.json) |
-| [August 11 at 6:17 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-11T06:17:48.620775+05:30.accessibility.json) |
-| [August 10 at 6:34 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-10T18:33:58.127623+05:30.accessibility.json) |
-| [August 10 at 6:20 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-10T06:20:40.279174+05:30.accessibility.json) |
-| [August 9 at 6:20 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-09T18:20:27.366259+05:30.accessibility.json) |
-| [August 9 at 6:18 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-09T06:18:03.032454+05:30.accessibility.json) |
-| [August 8 at 6:08 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-08T18:08:29.647682+05:30.accessibility.json) |
-| [August 8 at 6:26 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-08T06:26:01.744761+05:30.accessibility.json) |
-| [August 7 at 6:02 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-07T18:02:36.028789+05:30.accessibility.json) |
-| [August 7 at 6:05 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-07T06:05:30.191361+05:30.accessibility.json) |
+| [August 11 at 12:03 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-11T19:03:41.907803+05:30.accessibility.json) |
+| [August 10 at 11:17 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-11T06:17:48.620775+05:30.accessibility.json) |
+| [August 10 at 11:34 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-10T18:33:58.127623+05:30.accessibility.json) |
+| [August 9 at 11:20 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-10T06:20:40.279174+05:30.accessibility.json) |
+| [August 9 at 11:20 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-09T18:20:27.366259+05:30.accessibility.json) |
+| [August 8 at 11:18 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-09T06:18:03.032454+05:30.accessibility.json) |
+| [August 8 at 11:08 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-08T18:08:29.647682+05:30.accessibility.json) |
+| [August 7 at 11:26 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-08T06:26:01.744761+05:30.accessibility.json) |
+| [August 7 at 11:02 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-07T18:02:36.028789+05:30.accessibility.json) |
+| [August 6 at 11:05 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-07T06:05:30.191361+05:30.accessibility.json) |
 
 
 
@@ -442,16 +442,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 11 at 7:03 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-11T19:03:41.907803+05:30.lighthouse.json) |
-| [August 11 at 6:17 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-11T06:17:48.620775+05:30.lighthouse.json) |
-| [August 10 at 6:34 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-10T18:33:58.127623+05:30.lighthouse.json) |
-| [August 10 at 6:20 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-10T06:20:40.279174+05:30.lighthouse.json) |
-| [August 9 at 6:20 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-09T18:20:27.366259+05:30.lighthouse.json) |
-| [August 9 at 6:18 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-09T06:18:03.032454+05:30.lighthouse.json) |
-| [August 8 at 6:08 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-08T18:08:29.647682+05:30.lighthouse.json) |
-| [August 8 at 6:26 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-08T06:26:01.744761+05:30.lighthouse.json) |
-| [August 7 at 6:02 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-07T18:02:36.028789+05:30.lighthouse.json) |
-| [August 7 at 6:05 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-07T06:05:30.191361+05:30.lighthouse.json) |
+| [August 11 at 12:03 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-11T19:03:41.907803+05:30.lighthouse.json) |
+| [August 10 at 11:17 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-11T06:17:48.620775+05:30.lighthouse.json) |
+| [August 10 at 11:34 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-10T18:33:58.127623+05:30.lighthouse.json) |
+| [August 9 at 11:20 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-10T06:20:40.279174+05:30.lighthouse.json) |
+| [August 9 at 11:20 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-09T18:20:27.366259+05:30.lighthouse.json) |
+| [August 8 at 11:18 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-09T06:18:03.032454+05:30.lighthouse.json) |
+| [August 8 at 11:08 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-08T18:08:29.647682+05:30.lighthouse.json) |
+| [August 7 at 11:26 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-08T06:26:01.744761+05:30.lighthouse.json) |
+| [August 7 at 11:02 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-07T18:02:36.028789+05:30.lighthouse.json) |
+| [August 6 at 11:05 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-07T06:05:30.191361+05:30.lighthouse.json) |
 
 
 

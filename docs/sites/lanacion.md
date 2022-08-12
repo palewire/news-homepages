@@ -31,37 +31,37 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-11T10:38:24.041789-03:00.jpg">
   <img src="https://archive.org/download/lanacion-2022/lanacion-2022-08-11T10:38:24.041789-03:00.jpg"
-     alt="La Nacion at 2022-08-11 10:38:25-03:00 local time"
+     alt="La Nacion at 2022-08-11 03:38:25-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-11T10:38:24.041789-03:00.jpg">August 11 at 10:38 AM</a></p>
+ <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-11T10:38:24.041789-03:00.jpg">August 11 at 3:38 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-10T21:50:40.281077-03:00.jpg">
   <img src="https://archive.org/download/lanacion-2022/lanacion-2022-08-10T21:50:40.281077-03:00.jpg"
-     alt="La Nacion at 2022-08-10 21:50:41-03:00 local time"
+     alt="La Nacion at 2022-08-10 14:50:41-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-10T21:50:40.281077-03:00.jpg">August 10 at 9:50 PM</a></p>
+ <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-10T21:50:40.281077-03:00.jpg">August 10 at 2:50 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-10T10:08:07.491723-03:00.jpg">
   <img src="https://archive.org/download/lanacion-2022/lanacion-2022-08-10T10:08:07.491723-03:00.jpg"
-     alt="La Nacion at 2022-08-10 10:08:08-03:00 local time"
+     alt="La Nacion at 2022-08-10 03:08:08-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-10T10:08:07.491723-03:00.jpg">August 10 at 10:08 AM</a></p>
+ <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-10T10:08:07.491723-03:00.jpg">August 10 at 3:08 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-09T21:54:42.203874-03:00.jpg">
   <img src="https://archive.org/download/lanacion-2022/lanacion-2022-08-09T21:54:42.203874-03:00.jpg"
-     alt="La Nacion at 2022-08-09 21:54:48-03:00 local time"
+     alt="La Nacion at 2022-08-09 14:54:48-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-09T21:54:42.203874-03:00.jpg">August 9 at 9:54 PM</a></p>
+ <p><a href="https://archive.org/download/lanacion-2022/lanacion-2022-08-09T21:54:42.203874-03:00.jpg">August 9 at 2:54 PM</a></p>
 </div>
 
 </div>
@@ -76,10 +76,10 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 11 at 10:38 AM](https://archive.org/download/lanacion-2022/lanacion-2022-08-11T10:38:24.041789-03:00.hyperlinks.json) |
-| [August 10 at 9:50 PM](https://archive.org/download/lanacion-2022/lanacion-2022-08-10T21:50:40.281077-03:00.hyperlinks.json) |
-| [August 10 at 10:08 AM](https://archive.org/download/lanacion-2022/lanacion-2022-08-10T10:08:07.491723-03:00.hyperlinks.json) |
-| [August 9 at 9:55 PM](https://archive.org/download/lanacion-2022/lanacion-2022-08-09T21:54:42.203874-03:00.hyperlinks.json) |
+| [August 11 at 3:38 AM](https://archive.org/download/lanacion-2022/lanacion-2022-08-11T10:38:24.041789-03:00.hyperlinks.json) |
+| [August 10 at 2:50 PM](https://archive.org/download/lanacion-2022/lanacion-2022-08-10T21:50:40.281077-03:00.hyperlinks.json) |
+| [August 10 at 3:08 AM](https://archive.org/download/lanacion-2022/lanacion-2022-08-10T10:08:07.491723-03:00.hyperlinks.json) |
+| [August 9 at 2:55 PM](https://archive.org/download/lanacion-2022/lanacion-2022-08-09T21:54:42.203874-03:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -92,10 +92,10 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 11 at 10:38 AM](https://archive.org/download/lanacion-2022/lanacion-2022-08-11T10:38:24.041789-03:00.accessibility.json) |
-| [August 10 at 9:50 PM](https://archive.org/download/lanacion-2022/lanacion-2022-08-10T21:50:40.281077-03:00.accessibility.json) |
-| [August 10 at 10:08 AM](https://archive.org/download/lanacion-2022/lanacion-2022-08-10T10:08:07.491723-03:00.accessibility.json) |
-| [August 9 at 9:55 PM](https://archive.org/download/lanacion-2022/lanacion-2022-08-09T21:54:42.203874-03:00.accessibility.json) |
+| [August 11 at 3:38 AM](https://archive.org/download/lanacion-2022/lanacion-2022-08-11T10:38:24.041789-03:00.accessibility.json) |
+| [August 10 at 2:50 PM](https://archive.org/download/lanacion-2022/lanacion-2022-08-10T21:50:40.281077-03:00.accessibility.json) |
+| [August 10 at 3:08 AM](https://archive.org/download/lanacion-2022/lanacion-2022-08-10T10:08:07.491723-03:00.accessibility.json) |
+| [August 9 at 2:55 PM](https://archive.org/download/lanacion-2022/lanacion-2022-08-09T21:54:42.203874-03:00.accessibility.json) |
 
 
 
@@ -109,10 +109,10 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 11 at 10:38 AM](https://archive.org/download/lanacion-2022/lanacion-2022-08-11T10:38:24.041789-03:00.lighthouse.json) |
-| [August 10 at 9:50 PM](https://archive.org/download/lanacion-2022/lanacion-2022-08-10T21:50:40.281077-03:00.lighthouse.json) |
-| [August 10 at 10:08 AM](https://archive.org/download/lanacion-2022/lanacion-2022-08-10T10:08:07.491723-03:00.lighthouse.json) |
-| [August 9 at 9:55 PM](https://archive.org/download/lanacion-2022/lanacion-2022-08-09T21:54:42.203874-03:00.lighthouse.json) |
+| [August 11 at 3:38 AM](https://archive.org/download/lanacion-2022/lanacion-2022-08-11T10:38:24.041789-03:00.lighthouse.json) |
+| [August 10 at 2:50 PM](https://archive.org/download/lanacion-2022/lanacion-2022-08-10T21:50:40.281077-03:00.lighthouse.json) |
+| [August 10 at 3:08 AM](https://archive.org/download/lanacion-2022/lanacion-2022-08-10T10:08:07.491723-03:00.lighthouse.json) |
+| [August 9 at 2:55 PM](https://archive.org/download/lanacion-2022/lanacion-2022-08-09T21:54:42.203874-03:00.lighthouse.json) |
 
 
 

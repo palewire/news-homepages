@@ -31,109 +31,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-11T10:51:08.255061+05:30.jpg">
   <img src="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-11T10:51:08.255061+05:30.jpg"
-     alt="Prabhat Khabar at 2022-08-11 10:51:11+05:30 local time"
+     alt="Prabhat Khabar at 2022-08-11 03:51:11+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-11T10:51:08.255061+05:30.jpg">August 11 at 10:51 AM</a></p>
+ <p><a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-11T10:51:08.255061+05:30.jpg">August 11 at 3:51 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-10T23:47:45.086095+05:30.jpg">
   <img src="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-10T23:47:45.086095+05:30.jpg"
-     alt="Prabhat Khabar at 2022-08-10 23:47:46+05:30 local time"
+     alt="Prabhat Khabar at 2022-08-10 16:47:46+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-10T23:47:45.086095+05:30.jpg">August 10 at 11:47 PM</a></p>
+ <p><a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-10T23:47:45.086095+05:30.jpg">August 10 at 4:47 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-10T10:57:25.129942+05:30.jpg">
   <img src="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-10T10:57:25.129942+05:30.jpg"
-     alt="Prabhat Khabar at 2022-08-10 10:57:28+05:30 local time"
+     alt="Prabhat Khabar at 2022-08-10 03:57:28+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-10T10:57:25.129942+05:30.jpg">August 10 at 10:57 AM</a></p>
+ <p><a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-10T10:57:25.129942+05:30.jpg">August 10 at 3:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-09T23:18:44.102986+05:30.jpg">
   <img src="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-09T23:18:44.102986+05:30.jpg"
-     alt="Prabhat Khabar at 2022-08-09 23:18:46+05:30 local time"
+     alt="Prabhat Khabar at 2022-08-09 16:18:46+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-09T23:18:44.102986+05:30.jpg">August 9 at 11:18 PM</a></p>
+ <p><a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-09T23:18:44.102986+05:30.jpg">August 9 at 4:18 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-09T10:34:03.018729+05:30.jpg">
   <img src="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-09T10:34:03.018729+05:30.jpg"
-     alt="Prabhat Khabar at 2022-08-09 10:34:06+05:30 local time"
+     alt="Prabhat Khabar at 2022-08-09 03:34:06+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-09T10:34:03.018729+05:30.jpg">August 9 at 10:34 AM</a></p>
+ <p><a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-09T10:34:03.018729+05:30.jpg">August 9 at 3:34 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-08T22:46:38.735536+05:30.jpg">
   <img src="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-08T22:46:38.735536+05:30.jpg"
-     alt="Prabhat Khabar at 2022-08-08 22:46:42+05:30 local time"
+     alt="Prabhat Khabar at 2022-08-08 15:46:42+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-08T22:46:38.735536+05:30.jpg">August 8 at 10:46 PM</a></p>
+ <p><a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-08T22:46:38.735536+05:30.jpg">August 8 at 3:46 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-08T10:50:05.770597+05:30.jpg">
   <img src="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-08T10:50:05.770597+05:30.jpg"
-     alt="Prabhat Khabar at 2022-08-08 10:50:08+05:30 local time"
+     alt="Prabhat Khabar at 2022-08-08 03:50:08+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-08T10:50:05.770597+05:30.jpg">August 8 at 10:50 AM</a></p>
+ <p><a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-08T10:50:05.770597+05:30.jpg">August 8 at 3:50 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-07T22:31:13.224778+05:30.jpg">
   <img src="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-07T22:31:13.224778+05:30.jpg"
-     alt="Prabhat Khabar at 2022-08-07 22:31:17+05:30 local time"
+     alt="Prabhat Khabar at 2022-08-07 15:31:17+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-07T22:31:13.224778+05:30.jpg">August 7 at 10:31 PM</a></p>
+ <p><a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-07T22:31:13.224778+05:30.jpg">August 7 at 3:31 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-07T10:09:20.039341+05:30.jpg">
   <img src="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-07T10:09:20.039341+05:30.jpg"
-     alt="Prabhat Khabar at 2022-08-07 10:09:22+05:30 local time"
+     alt="Prabhat Khabar at 2022-08-07 03:09:22+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-07T10:09:20.039341+05:30.jpg">August 7 at 10:09 AM</a></p>
+ <p><a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-07T10:09:20.039341+05:30.jpg">August 7 at 3:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-06T21:53:09.679032+05:30.jpg">
   <img src="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-06T21:53:09.679032+05:30.jpg"
-     alt="Prabhat Khabar at 2022-08-06 21:53:11+05:30 local time"
+     alt="Prabhat Khabar at 2022-08-06 14:53:11+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-06T21:53:09.679032+05:30.jpg">August 6 at 9:53 PM</a></p>
+ <p><a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-06T21:53:09.679032+05:30.jpg">August 6 at 2:53 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-06T10:30:52.040469+05:30.jpg">
   <img src="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-06T10:30:52.040469+05:30.jpg"
-     alt="Prabhat Khabar at 2022-08-06 10:30:53+05:30 local time"
+     alt="Prabhat Khabar at 2022-08-06 03:30:53+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-06T10:30:52.040469+05:30.jpg">August 6 at 10:30 AM</a></p>
+ <p><a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-06T10:30:52.040469+05:30.jpg">August 6 at 3:30 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-05T23:21:32.803621+05:30.jpg">
   <img src="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-05T23:21:32.803621+05:30.jpg"
-     alt="Prabhat Khabar at 2022-08-05 23:21:35+05:30 local time"
+     alt="Prabhat Khabar at 2022-08-05 16:21:35+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-05T23:21:32.803621+05:30.jpg">August 5 at 11:21 PM</a></p>
+ <p><a href="https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-05T23:21:32.803621+05:30.jpg">August 5 at 4:21 PM</a></p>
 </div>
 
 </div>
@@ -148,16 +148,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 11 at 10:51 AM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-11T10:51:08.255061+05:30.hyperlinks.json) |
-| [August 10 at 11:47 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-10T23:47:45.086095+05:30.hyperlinks.json) |
-| [August 10 at 10:57 AM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-10T10:57:25.129942+05:30.hyperlinks.json) |
-| [August 9 at 11:18 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-09T23:18:44.102986+05:30.hyperlinks.json) |
-| [August 9 at 10:34 AM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-09T10:34:03.018729+05:30.hyperlinks.json) |
-| [August 8 at 10:46 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-08T22:46:38.735536+05:30.hyperlinks.json) |
-| [August 8 at 10:50 AM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-08T10:50:05.770597+05:30.hyperlinks.json) |
-| [August 7 at 10:31 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-07T22:31:13.224778+05:30.hyperlinks.json) |
-| [August 7 at 10:09 AM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-07T10:09:20.039341+05:30.hyperlinks.json) |
-| [August 6 at 9:53 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-06T21:53:09.679032+05:30.hyperlinks.json) |
+| [August 11 at 3:51 AM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-11T10:51:08.255061+05:30.hyperlinks.json) |
+| [August 10 at 4:47 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-10T23:47:45.086095+05:30.hyperlinks.json) |
+| [August 10 at 3:57 AM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-10T10:57:25.129942+05:30.hyperlinks.json) |
+| [August 9 at 4:18 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-09T23:18:44.102986+05:30.hyperlinks.json) |
+| [August 9 at 3:34 AM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-09T10:34:03.018729+05:30.hyperlinks.json) |
+| [August 8 at 3:46 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-08T22:46:38.735536+05:30.hyperlinks.json) |
+| [August 8 at 3:50 AM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-08T10:50:05.770597+05:30.hyperlinks.json) |
+| [August 7 at 3:31 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-07T22:31:13.224778+05:30.hyperlinks.json) |
+| [August 7 at 3:09 AM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-07T10:09:20.039341+05:30.hyperlinks.json) |
+| [August 6 at 2:53 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-06T21:53:09.679032+05:30.hyperlinks.json) |
 
 
 ## Accessibility
@@ -170,16 +170,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 11 at 10:51 AM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-11T10:51:08.255061+05:30.accessibility.json) |
-| [August 10 at 11:47 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-10T23:47:45.086095+05:30.accessibility.json) |
-| [August 10 at 10:57 AM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-10T10:57:25.129942+05:30.accessibility.json) |
-| [August 9 at 11:18 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-09T23:18:44.102986+05:30.accessibility.json) |
-| [August 9 at 10:34 AM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-09T10:34:03.018729+05:30.accessibility.json) |
-| [August 8 at 10:46 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-08T22:46:38.735536+05:30.accessibility.json) |
-| [August 8 at 10:50 AM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-08T10:50:05.770597+05:30.accessibility.json) |
-| [August 7 at 10:31 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-07T22:31:13.224778+05:30.accessibility.json) |
-| [August 7 at 10:09 AM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-07T10:09:20.039341+05:30.accessibility.json) |
-| [August 6 at 9:53 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-06T21:53:09.679032+05:30.accessibility.json) |
+| [August 11 at 3:51 AM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-11T10:51:08.255061+05:30.accessibility.json) |
+| [August 10 at 4:47 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-10T23:47:45.086095+05:30.accessibility.json) |
+| [August 10 at 3:57 AM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-10T10:57:25.129942+05:30.accessibility.json) |
+| [August 9 at 4:18 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-09T23:18:44.102986+05:30.accessibility.json) |
+| [August 9 at 3:34 AM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-09T10:34:03.018729+05:30.accessibility.json) |
+| [August 8 at 3:46 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-08T22:46:38.735536+05:30.accessibility.json) |
+| [August 8 at 3:50 AM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-08T10:50:05.770597+05:30.accessibility.json) |
+| [August 7 at 3:31 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-07T22:31:13.224778+05:30.accessibility.json) |
+| [August 7 at 3:09 AM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-07T10:09:20.039341+05:30.accessibility.json) |
+| [August 6 at 2:53 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-06T21:53:09.679032+05:30.accessibility.json) |
 
 
 
@@ -193,16 +193,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 11 at 10:51 AM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-11T10:51:08.255061+05:30.lighthouse.json) |
-| [August 10 at 11:48 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-10T23:47:45.086095+05:30.lighthouse.json) |
-| [August 10 at 10:57 AM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-10T10:57:25.129942+05:30.lighthouse.json) |
-| [August 9 at 11:18 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-09T23:18:44.102986+05:30.lighthouse.json) |
-| [August 9 at 10:34 AM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-09T10:34:03.018729+05:30.lighthouse.json) |
-| [August 8 at 10:46 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-08T22:46:38.735536+05:30.lighthouse.json) |
-| [August 8 at 10:50 AM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-08T10:50:05.770597+05:30.lighthouse.json) |
-| [August 7 at 10:31 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-07T22:31:13.224778+05:30.lighthouse.json) |
-| [August 7 at 10:09 AM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-07T10:09:20.039341+05:30.lighthouse.json) |
-| [August 6 at 9:53 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-06T21:53:09.679032+05:30.lighthouse.json) |
+| [August 11 at 3:51 AM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-11T10:51:08.255061+05:30.lighthouse.json) |
+| [August 10 at 4:48 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-10T23:47:45.086095+05:30.lighthouse.json) |
+| [August 10 at 3:57 AM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-10T10:57:25.129942+05:30.lighthouse.json) |
+| [August 9 at 4:18 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-09T23:18:44.102986+05:30.lighthouse.json) |
+| [August 9 at 3:34 AM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-09T10:34:03.018729+05:30.lighthouse.json) |
+| [August 8 at 3:46 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-08T22:46:38.735536+05:30.lighthouse.json) |
+| [August 8 at 3:50 AM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-08T10:50:05.770597+05:30.lighthouse.json) |
+| [August 7 at 3:31 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-07T22:31:13.224778+05:30.lighthouse.json) |
+| [August 7 at 3:09 AM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-07T10:09:20.039341+05:30.lighthouse.json) |
+| [August 6 at 2:53 PM](https://archive.org/download/prabhatkhabar-2022/prabhatkhabar-2022-08-06T21:53:09.679032+05:30.lighthouse.json) |
 
 
 

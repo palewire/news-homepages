@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/therealnews-2022/therealnews-2022-08-10T22:28:11.119924-04:00.jpg">
   <img src="https://archive.org/download/therealnews-2022/therealnews-2022-08-10T22:28:11.119924-04:00.jpg"
-     alt="Real News at 2022-08-10 22:28:13-04:00 local time"
+     alt="Real News at 2022-08-10 15:28:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-08-10T22:28:11.119924-04:00.jpg">August 10 at 10:28 PM</a></p>
+ <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-08-10T22:28:11.119924-04:00.jpg">August 10 at 3:28 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/therealnews-2022/therealnews-2022-08-10T13:50:07.612077-04:00.jpg">
   <img src="https://archive.org/download/therealnews-2022/therealnews-2022-08-10T13:50:07.612077-04:00.jpg"
-     alt="Real News at 2022-08-10 13:50:09-04:00 local time"
+     alt="Real News at 2022-08-10 06:50:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-08-10T13:50:07.612077-04:00.jpg">August 10 at 1:50 PM</a></p>
+ <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-08-10T13:50:07.612077-04:00.jpg">August 10 at 6:50 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/therealnews-2022/therealnews-2022-08-09T22:39:05.211025-04:00.jpg">
   <img src="https://archive.org/download/therealnews-2022/therealnews-2022-08-09T22:39:05.211025-04:00.jpg"
-     alt="Real News at 2022-08-09 22:39:09-04:00 local time"
+     alt="Real News at 2022-08-09 15:39:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-08-09T22:39:05.211025-04:00.jpg">August 9 at 10:39 PM</a></p>
+ <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-08-09T22:39:05.211025-04:00.jpg">August 9 at 3:39 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/therealnews-2022/therealnews-2022-08-09T10:41:01.727402-04:00.jpg">
   <img src="https://archive.org/download/therealnews-2022/therealnews-2022-08-09T10:41:01.727402-04:00.jpg"
-     alt="Real News at 2022-08-09 10:41:05-04:00 local time"
+     alt="Real News at 2022-08-09 03:41:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-08-09T10:41:01.727402-04:00.jpg">August 9 at 10:41 AM</a></p>
+ <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-08-09T10:41:01.727402-04:00.jpg">August 9 at 3:41 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/therealnews-2022/therealnews-2022-08-08T22:26:05.980881-04:00.jpg">
   <img src="https://archive.org/download/therealnews-2022/therealnews-2022-08-08T22:26:05.980881-04:00.jpg"
-     alt="Real News at 2022-08-08 22:26:08-04:00 local time"
+     alt="Real News at 2022-08-08 15:26:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-08-08T22:26:05.980881-04:00.jpg">August 8 at 10:26 PM</a></p>
+ <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-08-08T22:26:05.980881-04:00.jpg">August 8 at 3:26 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/therealnews-2022/therealnews-2022-08-08T10:22:53.663074-04:00.jpg">
   <img src="https://archive.org/download/therealnews-2022/therealnews-2022-08-08T10:22:53.663074-04:00.jpg"
-     alt="Real News at 2022-08-08 10:22:55-04:00 local time"
+     alt="Real News at 2022-08-08 03:22:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-08-08T10:22:53.663074-04:00.jpg">August 8 at 10:22 AM</a></p>
+ <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-08-08T10:22:53.663074-04:00.jpg">August 8 at 3:22 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/therealnews-2022/therealnews-2022-08-07T22:35:28.647973-04:00.jpg">
   <img src="https://archive.org/download/therealnews-2022/therealnews-2022-08-07T22:35:28.647973-04:00.jpg"
-     alt="Real News at 2022-08-07 22:35:30-04:00 local time"
+     alt="Real News at 2022-08-07 15:35:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-08-07T22:35:28.647973-04:00.jpg">August 7 at 10:35 PM</a></p>
+ <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-08-07T22:35:28.647973-04:00.jpg">August 7 at 3:35 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/therealnews-2022/therealnews-2022-08-07T10:06:45.953789-04:00.jpg">
   <img src="https://archive.org/download/therealnews-2022/therealnews-2022-08-07T10:06:45.953789-04:00.jpg"
-     alt="Real News at 2022-08-07 10:06:47-04:00 local time"
+     alt="Real News at 2022-08-07 03:06:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-08-07T10:06:45.953789-04:00.jpg">August 7 at 10:06 AM</a></p>
+ <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-08-07T10:06:45.953789-04:00.jpg">August 7 at 3:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/therealnews-2022/therealnews-2022-08-06T23:11:35.460156-04:00.jpg">
   <img src="https://archive.org/download/therealnews-2022/therealnews-2022-08-06T23:11:35.460156-04:00.jpg"
-     alt="Real News at 2022-08-06 23:11:38-04:00 local time"
+     alt="Real News at 2022-08-06 16:11:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-08-06T23:11:35.460156-04:00.jpg">August 6 at 11:11 PM</a></p>
+ <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-08-06T23:11:35.460156-04:00.jpg">August 6 at 4:11 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/therealnews-2022/therealnews-2022-08-06T09:57:10.031507-04:00.jpg">
   <img src="https://archive.org/download/therealnews-2022/therealnews-2022-08-06T09:57:10.031507-04:00.jpg"
-     alt="Real News at 2022-08-06 09:57:17-04:00 local time"
+     alt="Real News at 2022-08-06 02:57:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-08-06T09:57:10.031507-04:00.jpg">August 6 at 9:57 AM</a></p>
+ <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-08-06T09:57:10.031507-04:00.jpg">August 6 at 2:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/therealnews-2022/therealnews-2022-08-05T22:24:34.054960-04:00.jpg">
   <img src="https://archive.org/download/therealnews-2022/therealnews-2022-08-05T22:24:34.054960-04:00.jpg"
-     alt="Real News at 2022-08-05 22:24:40-04:00 local time"
+     alt="Real News at 2022-08-05 15:24:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-08-05T22:24:34.054960-04:00.jpg">August 5 at 10:24 PM</a></p>
+ <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-08-05T22:24:34.054960-04:00.jpg">August 5 at 3:24 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/therealnews-2022/therealnews-2022-08-05T13:34:57.594308-04:00.jpg">
   <img src="https://archive.org/download/therealnews-2022/therealnews-2022-08-05T13:34:57.594308-04:00.jpg"
-     alt="Real News at 2022-08-05 13:35:00-04:00 local time"
+     alt="Real News at 2022-08-05 06:35:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-08-05T13:34:57.594308-04:00.jpg">August 5 at 1:35 PM</a></p>
+ <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-08-05T13:34:57.594308-04:00.jpg">August 5 at 6:35 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 10 at 10:28 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-10T22:28:11.119924-04:00.hyperlinks.json) |
-| [August 10 at 1:50 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-10T13:50:07.612077-04:00.hyperlinks.json) |
-| [August 9 at 10:39 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-09T22:39:05.211025-04:00.hyperlinks.json) |
-| [August 9 at 10:41 AM](https://archive.org/download/therealnews-2022/therealnews-2022-08-09T10:41:01.727402-04:00.hyperlinks.json) |
-| [August 8 at 10:26 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-08T22:26:05.980881-04:00.hyperlinks.json) |
-| [August 8 at 10:22 AM](https://archive.org/download/therealnews-2022/therealnews-2022-08-08T10:22:53.663074-04:00.hyperlinks.json) |
-| [August 7 at 10:35 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-07T22:35:28.647973-04:00.hyperlinks.json) |
-| [August 7 at 10:06 AM](https://archive.org/download/therealnews-2022/therealnews-2022-08-07T10:06:45.953789-04:00.hyperlinks.json) |
-| [August 6 at 11:11 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-06T23:11:35.460156-04:00.hyperlinks.json) |
-| [August 6 at 9:57 AM](https://archive.org/download/therealnews-2022/therealnews-2022-08-06T09:57:10.031507-04:00.hyperlinks.json) |
+| [August 10 at 3:28 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-10T22:28:11.119924-04:00.hyperlinks.json) |
+| [August 10 at 6:50 AM](https://archive.org/download/therealnews-2022/therealnews-2022-08-10T13:50:07.612077-04:00.hyperlinks.json) |
+| [August 9 at 3:39 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-09T22:39:05.211025-04:00.hyperlinks.json) |
+| [August 9 at 3:41 AM](https://archive.org/download/therealnews-2022/therealnews-2022-08-09T10:41:01.727402-04:00.hyperlinks.json) |
+| [August 8 at 3:26 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-08T22:26:05.980881-04:00.hyperlinks.json) |
+| [August 8 at 3:22 AM](https://archive.org/download/therealnews-2022/therealnews-2022-08-08T10:22:53.663074-04:00.hyperlinks.json) |
+| [August 7 at 3:35 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-07T22:35:28.647973-04:00.hyperlinks.json) |
+| [August 7 at 3:06 AM](https://archive.org/download/therealnews-2022/therealnews-2022-08-07T10:06:45.953789-04:00.hyperlinks.json) |
+| [August 6 at 4:11 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-06T23:11:35.460156-04:00.hyperlinks.json) |
+| [August 6 at 2:57 AM](https://archive.org/download/therealnews-2022/therealnews-2022-08-06T09:57:10.031507-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 10 at 10:28 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-10T22:28:11.119924-04:00.accessibility.json) |
-| [August 10 at 1:50 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-10T13:50:07.612077-04:00.accessibility.json) |
-| [August 9 at 10:39 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-09T22:39:05.211025-04:00.accessibility.json) |
-| [August 9 at 10:41 AM](https://archive.org/download/therealnews-2022/therealnews-2022-08-09T10:41:01.727402-04:00.accessibility.json) |
-| [August 8 at 10:26 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-08T22:26:05.980881-04:00.accessibility.json) |
-| [August 8 at 10:22 AM](https://archive.org/download/therealnews-2022/therealnews-2022-08-08T10:22:53.663074-04:00.accessibility.json) |
-| [August 7 at 10:35 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-07T22:35:28.647973-04:00.accessibility.json) |
-| [August 7 at 10:06 AM](https://archive.org/download/therealnews-2022/therealnews-2022-08-07T10:06:45.953789-04:00.accessibility.json) |
-| [August 6 at 11:11 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-06T23:11:35.460156-04:00.accessibility.json) |
-| [August 6 at 9:57 AM](https://archive.org/download/therealnews-2022/therealnews-2022-08-06T09:57:10.031507-04:00.accessibility.json) |
+| [August 10 at 3:28 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-10T22:28:11.119924-04:00.accessibility.json) |
+| [August 10 at 6:50 AM](https://archive.org/download/therealnews-2022/therealnews-2022-08-10T13:50:07.612077-04:00.accessibility.json) |
+| [August 9 at 3:39 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-09T22:39:05.211025-04:00.accessibility.json) |
+| [August 9 at 3:41 AM](https://archive.org/download/therealnews-2022/therealnews-2022-08-09T10:41:01.727402-04:00.accessibility.json) |
+| [August 8 at 3:26 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-08T22:26:05.980881-04:00.accessibility.json) |
+| [August 8 at 3:22 AM](https://archive.org/download/therealnews-2022/therealnews-2022-08-08T10:22:53.663074-04:00.accessibility.json) |
+| [August 7 at 3:35 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-07T22:35:28.647973-04:00.accessibility.json) |
+| [August 7 at 3:06 AM](https://archive.org/download/therealnews-2022/therealnews-2022-08-07T10:06:45.953789-04:00.accessibility.json) |
+| [August 6 at 4:11 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-06T23:11:35.460156-04:00.accessibility.json) |
+| [August 6 at 2:57 AM](https://archive.org/download/therealnews-2022/therealnews-2022-08-06T09:57:10.031507-04:00.accessibility.json) |
 
 
 
@@ -525,16 +525,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 10 at 10:28 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-10T22:28:11.119924-04:00.lighthouse.json) |
-| [August 10 at 1:50 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-10T13:50:07.612077-04:00.lighthouse.json) |
-| [August 9 at 10:39 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-09T22:39:05.211025-04:00.lighthouse.json) |
-| [August 9 at 10:41 AM](https://archive.org/download/therealnews-2022/therealnews-2022-08-09T10:41:01.727402-04:00.lighthouse.json) |
-| [August 8 at 10:26 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-08T22:26:05.980881-04:00.lighthouse.json) |
-| [August 8 at 10:23 AM](https://archive.org/download/therealnews-2022/therealnews-2022-08-08T10:22:53.663074-04:00.lighthouse.json) |
-| [August 7 at 10:35 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-07T22:35:28.647973-04:00.lighthouse.json) |
-| [August 7 at 10:06 AM](https://archive.org/download/therealnews-2022/therealnews-2022-08-07T10:06:45.953789-04:00.lighthouse.json) |
-| [August 6 at 11:11 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-06T23:11:35.460156-04:00.lighthouse.json) |
-| [August 6 at 9:57 AM](https://archive.org/download/therealnews-2022/therealnews-2022-08-06T09:57:10.031507-04:00.lighthouse.json) |
+| [August 10 at 3:28 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-10T22:28:11.119924-04:00.lighthouse.json) |
+| [August 10 at 6:50 AM](https://archive.org/download/therealnews-2022/therealnews-2022-08-10T13:50:07.612077-04:00.lighthouse.json) |
+| [August 9 at 3:39 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-09T22:39:05.211025-04:00.lighthouse.json) |
+| [August 9 at 3:41 AM](https://archive.org/download/therealnews-2022/therealnews-2022-08-09T10:41:01.727402-04:00.lighthouse.json) |
+| [August 8 at 3:26 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-08T22:26:05.980881-04:00.lighthouse.json) |
+| [August 8 at 3:23 AM](https://archive.org/download/therealnews-2022/therealnews-2022-08-08T10:22:53.663074-04:00.lighthouse.json) |
+| [August 7 at 3:35 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-07T22:35:28.647973-04:00.lighthouse.json) |
+| [August 7 at 3:06 AM](https://archive.org/download/therealnews-2022/therealnews-2022-08-07T10:06:45.953789-04:00.lighthouse.json) |
+| [August 6 at 4:11 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-06T23:11:35.460156-04:00.lighthouse.json) |
+| [August 6 at 2:57 AM](https://archive.org/download/therealnews-2022/therealnews-2022-08-06T09:57:10.031507-04:00.lighthouse.json) |
 
 
 
