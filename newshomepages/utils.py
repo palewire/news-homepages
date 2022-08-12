@@ -150,20 +150,7 @@ def get_accessibility_list() -> typing.List[typing.Dict[str, typing.Any]]:
 
     Returns a list of dictionaries.
     """
-    # Open the screenshot list
-    with open(EXTRACT_DIR / "csv" / "accessibility-files.csv") as fh:
-        obj_list: typing.List[typing.Dict[str, typing.Any]] = list(csv.DictReader(fh))
-
-    # Convert the timestamps to Python datetime objects
-    for obj in obj_list:
-        dt = datetime.strptime(obj["mtime"], "%Y-%m-%d %H:%M:%S")
-        obj["mtime"] = dt.astimezone(pytz.utc)
-
-    # Sort it reverse chron
-    sorted_list = sorted(obj_list, key=lambda x: x["mtime"], reverse=True)
-
-    # Return it
-    return sorted_list
+    return get_accessibility_df().to_dict(orient="records")
 
 
 def get_accessibility_df() -> pd.DataFrame:
@@ -179,20 +166,7 @@ def get_screenshot_list() -> typing.List[typing.Dict[str, typing.Any]]:
 
     Returns a list of dictionaries.
     """
-    # Open the screenshot list
-    with open(EXTRACT_DIR / "csv" / "screenshot-files.csv") as fh:
-        obj_list: typing.List[typing.Dict[str, typing.Any]] = list(csv.DictReader(fh))
-
-    # Convert the timestamps to Python datetime objects
-    for obj in obj_list:
-        dt = datetime.strptime(obj["mtime"], "%Y-%m-%d %H:%M:%S")
-        obj["mtime"] = dt.astimezone(pytz.utc)
-
-    # Sort it reverse chron
-    sorted_list = sorted(obj_list, key=lambda x: x["mtime"], reverse=True)
-
-    # Return it
-    return sorted_list
+    return get_screenshot_df().to_dict(orient="records")
 
 
 def get_screenshot_df() -> pd.DataFrame:
@@ -208,20 +182,7 @@ def get_hyperlink_list() -> typing.List[typing.Dict[str, typing.Any]]:
 
     Returns a list of dictionaries.
     """
-    # Open the screenshot list
-    with open(EXTRACT_DIR / "csv" / "hyperlink-files.csv") as fh:
-        obj_list: typing.List[typing.Dict[str, typing.Any]] = list(csv.DictReader(fh))
-
-    # Convert the timestamps to Python datetime objects
-    for obj in obj_list:
-        dt = datetime.strptime(obj["mtime"], "%Y-%m-%d %H:%M:%S")
-        obj["mtime"] = dt.astimezone(pytz.utc)
-
-    # Sort it reverse chron
-    sorted_list = sorted(obj_list, key=lambda x: x["mtime"], reverse=True)
-
-    # Return it
-    return sorted_list
+    return get_hyperlink_df().to_dict(orient="records")
 
 
 def get_hyperlink_df() -> pd.DataFrame:
@@ -237,20 +198,7 @@ def get_lighthouse_list() -> typing.List[typing.Dict[str, typing.Any]]:
 
     Returns a list of dictionaries.
     """
-    # Open the screenshot list
-    with open(EXTRACT_DIR / "csv" / "lighthouse-files.csv") as fh:
-        obj_list: typing.List[typing.Dict[str, typing.Any]] = list(csv.DictReader(fh))
-
-    # Convert the timestamps to Python datetime objects
-    for obj in obj_list:
-        dt = datetime.strptime(obj["mtime"], "%Y-%m-%d %H:%M:%S")
-        obj["mtime"] = dt.astimezone(pytz.utc)
-
-    # Sort it reverse chron
-    sorted_list = sorted(obj_list, key=lambda x: x["mtime"], reverse=True)
-
-    # Return it
-    return sorted_list
+    return get_lighthouse_df().to_dict(orient="records")
 
 
 def get_lighthouse_df() -> pd.DataFrame:
@@ -283,6 +231,15 @@ def _get_extract_files_df(name) -> pd.DataFrame:
             "md5",
             "sha1",
         ],
+        dtype={
+            "identifier": str,
+            "handle": str,
+            "file_name": str,
+            "url": str,
+            "size": int,
+            "md5": str,
+            "sha1": str,
+        },
     )
     df["mtime"] = df.mtime.dt.tz_localize(pytz.utc)
     df["date"] = pd.to_datetime(df.mtime.dt.date)

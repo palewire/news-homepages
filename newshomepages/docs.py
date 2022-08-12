@@ -1,4 +1,3 @@
-import csv
 import warnings
 from pathlib import Path
 
@@ -107,98 +106,87 @@ def country_detail():
 def site_detail():
     """Create source detail pages."""
     # Get all sites
-    site_list = sorted(utils.get_site_list(), key=lambda x: x["name"].lower())
+    site_list = utils.get_site_list()
     print(f":newspaper: Creating {len(site_list)} site detail pages")
 
     # Get all screenshots and items
     csv_dir = utils.EXTRACT_DIR / "csv"
-    screenshot_list = utils.get_screenshot_list()
-    hyperlink_list = utils.get_hyperlink_list()
-    accessibility_list = utils.get_accessibility_list()
-    lighthouse_list = utils.get_lighthouse_list()
-    item_list = list(csv.DictReader(open(csv_dir / "items.csv")))
+    screenshot_df = utils.get_screenshot_df()
+    hyperlink_df = utils.get_hyperlink_df()
+    accessibility_df = utils.get_accessibility_df()
+    lighthouse_df = utils.get_lighthouse_df()
+    item_df = pd.read_csv(csv_dir / "items.csv", dtype=str)
 
     # For each site ...
     for site in track(site_list):
         # Get all the bundles linked to this site
         site["bundle_list"] = [utils.get_bundle(b) for b in site["bundle_list"] if b]
 
-        # Get the screenshots for this site
-        screenshots = [
-            s for s in screenshot_list if s["handle"].lower() == site["handle"].lower()
-        ]
-
-        # Get most 12 recent screenshots
-        most_recent_screenshots = sorted(
-            screenshots, key=lambda x: x["mtime"], reverse=True
-        )[:12]
-
-        # Set the local time
+        # Get the site's timezone
         site_tz = pytz.timezone(site["timezone"])
-        for s in most_recent_screenshots:
-            s["local_time"] = s["local_time"] = s["mtime"].astimezone(site_tz)
+
+        # Get the screenshots for this site
+        screenshots = screenshot_df[
+            screenshot_df.handle.str.lower() == site["handle"].lower()
+        ]
+        most_recent_screenshots = screenshots.sort_values(
+            "mtime", ascending=False
+        ).head(12)
+        most_recent_screenshots["local_time"] = most_recent_screenshots.mtime.apply(
+            lambda x: x.astimezone(site_tz)
+        )
 
         # Get the hyperlinks for this site
-        hyperlinks = [
-            h for h in hyperlink_list if h["handle"].lower() == site["handle"].lower()
+        hyperlinks = hyperlink_df[
+            hyperlink_df.handle.str.lower() == site["handle"].lower()
         ]
-
-        # Get most 10 recent hyperlinks
-        most_recent_hyperlinks = sorted(
-            hyperlinks, key=lambda x: x["mtime"], reverse=True
-        )[:10]
-
-        # Set the local time
-        site_tz = pytz.timezone(site["timezone"])
-        for s in most_recent_hyperlinks:
-            s["local_time"] = s["local_time"] = s["mtime"].astimezone(site_tz)
+        most_recent_hyperlinks = hyperlinks.sort_values("mtime", ascending=False).head(
+            10
+        )
+        most_recent_hyperlinks["local_time"] = most_recent_hyperlinks.mtime.apply(
+            lambda x: x.astimezone(site_tz)
+        )
 
         # Get the accessibility for this site
-        accessibility = [
-            h
-            for h in accessibility_list
-            if h["handle"].lower() == site["handle"].lower()
+        accessibility = accessibility_df[
+            accessibility_df.handle.str.lower() == site["handle"].lower()
         ]
-
-        # Get most 10 recent accessibility
-        most_recent_accessibility = sorted(
-            accessibility, key=lambda x: x["mtime"], reverse=True
-        )[:10]
-
-        # Set the local time
-        site_tz = pytz.timezone(site["timezone"])
-        for s in most_recent_accessibility:
-            s["local_time"] = s["local_time"] = s["mtime"].astimezone(site_tz)
+        most_recent_accessibility = accessibility.sort_values(
+            "mtime", ascending=False
+        ).head(10)
+        most_recent_accessibility["local_time"] = most_recent_accessibility.mtime.apply(
+            lambda x: x.astimezone(site_tz)
+        )
 
         # Get the lighthouse for this site
-        lighthouse = [
-            h for h in lighthouse_list if h["handle"].lower() == site["handle"].lower()
+        lighthouse = lighthouse_df[
+            lighthouse_df.handle.str.lower() == site["handle"].lower()
         ]
-
-        # Get most 10 recent accessibility
-        most_recent_lighthouse = sorted(
-            lighthouse, key=lambda x: x["mtime"], reverse=True
-        )[:10]
-
-        # Set the local time
-        site_tz = pytz.timezone(site["timezone"])
-        for s in most_recent_lighthouse:
-            s["local_time"] = s["local_time"] = s["mtime"].astimezone(site_tz)
+        most_recent_lighthouse = lighthouse.sort_values("mtime", ascending=False).head(
+            10
+        )
+        most_recent_lighthouse["local_time"] = most_recent_lighthouse.mtime.apply(
+            lambda x: x.astimezone(site_tz)
+        )
 
         # Render the template
         context = {
             "site": site,
             "screenshots": len(screenshots),
-            "most_recent_screenshots": most_recent_screenshots,
+            "most_recent_screenshots": most_recent_screenshots.to_dict(
+                orient="records"
+            ),
             "hyperlinks": len(hyperlinks),
-            "most_recent_hyperlinks": most_recent_hyperlinks,
+            "most_recent_hyperlinks": most_recent_hyperlinks.to_dict(orient="records"),
             "accessibility": len(accessibility),
-            "most_recent_accessibility": most_recent_accessibility,
+            "most_recent_accessibility": most_recent_accessibility.to_dict(
+                orient="records"
+            ),
             "lighthouse": len(lighthouse),
-            "most_recent_lighthouse": most_recent_lighthouse,
-            "items": [
-                i for i in item_list if i["handle"].lower() == site["handle"].lower()
-            ],
+            "most_recent_lighthouse": most_recent_lighthouse.to_dict(orient="records"),
+            "items": item_df[
+                item_df.handle.str.lower() == site["handle"].lower()
+            ].to_dict(orient="records"),
         }
         _write_template("site_detail.md", context, f"sites/{site['handle'].lower()}.md")
 
@@ -213,12 +201,7 @@ def site_detail_screenshot_chart():
     )
 
     # Get all screenshots
-    screenshots_df = pd.read_csv(
-        utils.EXTRACT_DIR / "csv" / "screenshot-files.csv",
-        parse_dates=["mtime"],
-        usecols=["identifier", "handle", "file_name", "mtime"],
-    )
-    screenshots_df["date"] = pd.to_datetime(screenshots_df.mtime.dt.date)
+    screenshots_df = utils.get_screenshot_df()
 
     # Ignore pandas warnings
     warnings.filterwarnings("ignore")
@@ -251,12 +234,7 @@ def site_detail_hyperlink_chart():
     )
 
     # Get all screenshots
-    hyperlinks_df = pd.read_csv(
-        utils.EXTRACT_DIR / "csv" / "hyperlink-files.csv",
-        parse_dates=["mtime"],
-        usecols=["identifier", "handle", "file_name", "mtime"],
-    )
-    hyperlinks_df["date"] = pd.to_datetime(hyperlinks_df.mtime.dt.date)
+    hyperlinks_df = utils.get_hyperlink_df()
 
     # Ignore pandas warnings
     warnings.filterwarnings("ignore")
@@ -289,12 +267,7 @@ def site_detail_accessibility_chart():
     )
 
     # Get all accessibility files
-    accessibility_df = pd.read_csv(
-        utils.EXTRACT_DIR / "csv" / "accessibility-files.csv",
-        parse_dates=["mtime"],
-        usecols=["identifier", "handle", "file_name", "mtime"],
-    )
-    accessibility_df["date"] = pd.to_datetime(accessibility_df.mtime.dt.date)
+    accessibility_df = utils.get_accessibility_df()
 
     # Ignore pandas warnings
     warnings.filterwarnings("ignore")
@@ -327,12 +300,7 @@ def site_detail_lighthouse_chart():
     )
 
     # Get all accessibility files
-    lighthouse_df = pd.read_csv(
-        utils.EXTRACT_DIR / "csv" / "lighthouse-files.csv",
-        parse_dates=["mtime"],
-        usecols=["identifier", "handle", "file_name", "mtime"],
-    )
-    lighthouse_df["date"] = pd.to_datetime(lighthouse_df.mtime.dt.date)
+    lighthouse_df = utils.get_lighthouse_df()
 
     # Ignore pandas warnings
     warnings.filterwarnings("ignore")
