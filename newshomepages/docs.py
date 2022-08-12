@@ -29,12 +29,7 @@ def latest_screenshots():
     """Create page showing all of the latest screenshots."""
     site_list = sorted(utils.get_site_list(), key=lambda x: x["name"].lower())
     print(f":camera: Creating latest screenshots page with {len(site_list)} sites")
-
-    template = TEMPLATE_ENV.get_template("latest.md.tmpl")
-    md = template.render(site_list=site_list)
-
-    with open(PARENT_DIR / "docs" / "latest.md", "w") as fh:
-        fh.write(md)
+    _write_template("latest.md", dict(site_list=site_list))
 
 
 @cli.command()
@@ -42,12 +37,7 @@ def source_list():
     """Create source list."""
     site_list = sorted(utils.get_site_list(), key=lambda x: x["name"].lower())
     print(":newspaper: Creating site list page")
-
-    template = TEMPLATE_ENV.get_template("sources.md.tmpl")
-    md = template.render(site_list=site_list)
-
-    with open(PARENT_DIR / "docs" / "sources.md", "w") as fh:
-        fh.write(md)
+    _write_template("sources.md", dict(site_list=site_list))
 
 
 @cli.command()
@@ -55,12 +45,7 @@ def bundle_list():
     """Create bundle list."""
     bundle_list = sorted(utils.get_bundle_list(), key=lambda x: x["name"].lower())
     print(":basket: Creating bundle list page")
-
-    template = TEMPLATE_ENV.get_template("bundles.md.tmpl")
-    md = template.render(bundle_list=bundle_list)
-
-    with open(PARENT_DIR / "docs" / "bundles.md", "w") as fh:
-        fh.write(md)
+    _write_template("bundles.md", dict(bundle_list=bundle_list))
 
 
 @cli.command()
@@ -95,11 +80,7 @@ def bundle_detail():
             "bundle": bundle,
             "site_list": sorted(site_list, key=lambda x: x["name"].lower()),
         }
-        template = TEMPLATE_ENV.get_template("bundle_detail.md.tmpl")
-        md = template.render(**context)
-
-        with open(PARENT_DIR / "docs" / "bundles" / f"{bundle['slug']}.md", "w") as fh:
-            fh.write(md)
+        _write_template("bundle_detail.md", context, f"bundles/{bundle['slug']}.md")
 
 
 @cli.command()
@@ -219,13 +200,7 @@ def site_detail():
                 i for i in item_list if i["handle"].lower() == site["handle"].lower()
             ],
         }
-        template = TEMPLATE_ENV.get_template("site_detail.md.tmpl")
-        md = template.render(**context)
-
-        with open(
-            PARENT_DIR / "docs" / "sites" / f"{site['handle'].lower()}.md", "w"
-        ) as fh:
-            fh.write(md)
+        _write_template("site_detail.md", context, f"sites/{site['handle'].lower()}.md")
 
 
 @cli.command()
