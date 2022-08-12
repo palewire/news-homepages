@@ -58,17 +58,12 @@ def bundles():
             )["name"]
 
         # Render the template
-        template = TEMPLATE_ENV.get_template("bundle.rss.tmpl")
-        rss = template.render(
+        context = dict(
             now=now,
             obj=bundle,
             file_list=trimmed_list,
         )
-
-        # Write it out
-        rss_path = RSS_DIR / "bundles" / f"{bundle['slug']}.xml"
-        with open(rss_path, "w") as fh:
-            fh.write(rss)
+        _write_template("bundle.rss", context, f"bundles/{bundle['slug']}.xml")
 
 
 @cli.command()
@@ -103,12 +98,6 @@ def sites():
 
     merged_df["local_time"] = merged_df.apply(_localize, axis=1)
 
-    # Set our output directory
-    SITE_DIR = RSS_DIR / "sites"
-
-    # Get the template for the site feed
-    template = TEMPLATE_ENV.get_template("site.rss.tmpl")
-
     # Loop through all sites
     for site in track(site_df.to_dict(orient="records")):
         file_list = (
@@ -119,16 +108,12 @@ def sites():
         )
 
         # Render the page
-        rss = template.render(
+        context = dict(
             now=now,
             obj=site,
             file_list=file_list,
         )
-
-        # Write it out
-        rss_path = SITE_DIR / f"{site['handle'].lower()}.xml"
-        with open(rss_path, "w") as fh:
-            fh.write(rss)
+        _write_template("site.rss", context, f"sites/{site['handle'].lower()}.xml")
 
     # Create full feed
     print("Creating RSS feed of latest 100 screenshots across all sites")
@@ -140,10 +125,8 @@ def sites():
         final_list.append(file_)
 
     # Write it out
-    template = TEMPLATE_ENV.get_template("all.rss.tmpl")
-    all_ = template.render(file_list=final_list, now=now)
-    with open(SITE_DIR / "all.xml", "w") as fh:
-        fh.write(all_)
+    context = dict(file_list=final_list, now=now)
+    _write_template("all.rss", context, "sites/all.xml")
 
 
 def _write_template(template_name, context, output_name=None):
