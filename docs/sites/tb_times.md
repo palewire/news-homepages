@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-11T01:26:33.447117-04:00.jpg">
   <img src="https://archive.org/download/tb_times-2022/tb_times-2022-08-11T01:26:33.447117-04:00.jpg"
-     alt="Tampa Bay Times at 2022-08-11 01:26:35-04:00 local time"
+     alt="Tampa Bay Times at 2022-08-10 18:26:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-11T01:26:33.447117-04:00.jpg">August 11 at 1:26 AM</a></p>
+ <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-11T01:26:33.447117-04:00.jpg">August 10 at 6:26 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-10T01:32:41.632190-04:00.jpg">
   <img src="https://archive.org/download/tb_times-2022/tb_times-2022-08-10T01:32:41.632190-04:00.jpg"
-     alt="Tampa Bay Times at 2022-08-10 01:32:44-04:00 local time"
+     alt="Tampa Bay Times at 2022-08-09 18:32:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-10T01:32:41.632190-04:00.jpg">August 10 at 1:32 AM</a></p>
+ <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-10T01:32:41.632190-04:00.jpg">August 9 at 6:32 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-09T13:54:35.206434-04:00.jpg">
   <img src="https://archive.org/download/tb_times-2022/tb_times-2022-08-09T13:54:35.206434-04:00.jpg"
-     alt="Tampa Bay Times at 2022-08-09 13:54:36-04:00 local time"
+     alt="Tampa Bay Times at 2022-08-09 06:54:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-09T13:54:35.206434-04:00.jpg">August 9 at 1:54 PM</a></p>
+ <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-09T13:54:35.206434-04:00.jpg">August 9 at 6:54 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-09T01:09:43.412118-04:00.jpg">
   <img src="https://archive.org/download/tb_times-2022/tb_times-2022-08-09T01:09:43.412118-04:00.jpg"
-     alt="Tampa Bay Times at 2022-08-09 01:09:45-04:00 local time"
+     alt="Tampa Bay Times at 2022-08-08 18:09:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-09T01:09:43.412118-04:00.jpg">August 9 at 1:09 AM</a></p>
+ <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-09T01:09:43.412118-04:00.jpg">August 8 at 6:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-08T13:20:24.971506-04:00.jpg">
   <img src="https://archive.org/download/tb_times-2022/tb_times-2022-08-08T13:20:24.971506-04:00.jpg"
-     alt="Tampa Bay Times at 2022-08-08 13:20:25-04:00 local time"
+     alt="Tampa Bay Times at 2022-08-08 06:20:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-08T13:20:24.971506-04:00.jpg">August 8 at 1:20 PM</a></p>
+ <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-08T13:20:24.971506-04:00.jpg">August 8 at 6:20 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-08T01:25:04.570994-04:00.jpg">
   <img src="https://archive.org/download/tb_times-2022/tb_times-2022-08-08T01:25:04.570994-04:00.jpg"
-     alt="Tampa Bay Times at 2022-08-08 01:25:06-04:00 local time"
+     alt="Tampa Bay Times at 2022-08-07 18:25:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-08T01:25:04.570994-04:00.jpg">August 8 at 1:25 AM</a></p>
+ <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-08T01:25:04.570994-04:00.jpg">August 7 at 6:25 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-07T13:06:50.013958-04:00.jpg">
   <img src="https://archive.org/download/tb_times-2022/tb_times-2022-08-07T13:06:50.013958-04:00.jpg"
-     alt="Tampa Bay Times at 2022-08-07 13:06:51-04:00 local time"
+     alt="Tampa Bay Times at 2022-08-07 06:06:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-07T13:06:50.013958-04:00.jpg">August 7 at 1:06 PM</a></p>
+ <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-07T13:06:50.013958-04:00.jpg">August 7 at 6:06 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-07T00:44:06.728343-04:00.jpg">
   <img src="https://archive.org/download/tb_times-2022/tb_times-2022-08-07T00:44:06.728343-04:00.jpg"
-     alt="Tampa Bay Times at 2022-08-07 00:44:08-04:00 local time"
+     alt="Tampa Bay Times at 2022-08-06 17:44:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-07T00:44:06.728343-04:00.jpg">August 7 at 12:44 AM</a></p>
+ <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-07T00:44:06.728343-04:00.jpg">August 6 at 5:44 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-06T12:27:59.823834-04:00.jpg">
   <img src="https://archive.org/download/tb_times-2022/tb_times-2022-08-06T12:27:59.823834-04:00.jpg"
-     alt="Tampa Bay Times at 2022-08-06 12:28:00-04:00 local time"
+     alt="Tampa Bay Times at 2022-08-06 05:28:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-06T12:27:59.823834-04:00.jpg">August 6 at 12:28 PM</a></p>
+ <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-06T12:27:59.823834-04:00.jpg">August 6 at 5:28 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-06T01:05:03.998631-04:00.jpg">
   <img src="https://archive.org/download/tb_times-2022/tb_times-2022-08-06T01:05:03.998631-04:00.jpg"
-     alt="Tampa Bay Times at 2022-08-06 01:05:05-04:00 local time"
+     alt="Tampa Bay Times at 2022-08-05 18:05:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-06T01:05:03.998631-04:00.jpg">August 6 at 1:05 AM</a></p>
+ <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-06T01:05:03.998631-04:00.jpg">August 5 at 6:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-05T13:57:36.346313-04:00.jpg">
   <img src="https://archive.org/download/tb_times-2022/tb_times-2022-08-05T13:57:36.346313-04:00.jpg"
-     alt="Tampa Bay Times at 2022-08-05 13:57:37-04:00 local time"
+     alt="Tampa Bay Times at 2022-08-05 06:57:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-05T13:57:36.346313-04:00.jpg">August 5 at 1:57 PM</a></p>
+ <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-05T13:57:36.346313-04:00.jpg">August 5 at 6:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-05T00:42:35.524568-04:00.jpg">
   <img src="https://archive.org/download/tb_times-2022/tb_times-2022-08-05T00:42:35.524568-04:00.jpg"
-     alt="Tampa Bay Times at 2022-08-05 00:42:37-04:00 local time"
+     alt="Tampa Bay Times at 2022-08-04 17:42:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-05T00:42:35.524568-04:00.jpg">August 5 at 12:42 AM</a></p>
+ <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-05T00:42:35.524568-04:00.jpg">August 4 at 5:42 PM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 11 at 1:26 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-11T01:26:33.447117-04:00.hyperlinks.json) |
-| [August 10 at 2:26 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-10T14:25:51.634551-04:00.hyperlinks.json) |
-| [August 10 at 1:32 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-10T01:32:41.632190-04:00.hyperlinks.json) |
-| [August 9 at 1:54 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-09T13:54:35.206434-04:00.hyperlinks.json) |
-| [August 9 at 1:09 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-09T01:09:43.412118-04:00.hyperlinks.json) |
-| [August 8 at 1:25 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-08T01:25:04.570994-04:00.hyperlinks.json) |
-| [August 7 at 1:06 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-07T13:06:50.013958-04:00.hyperlinks.json) |
-| [August 7 at 12:44 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-07T00:44:06.728343-04:00.hyperlinks.json) |
-| [August 6 at 12:28 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-06T12:27:59.823834-04:00.hyperlinks.json) |
-| [August 6 at 1:05 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-06T01:05:03.998631-04:00.hyperlinks.json) |
+| [August 10 at 6:26 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-11T01:26:33.447117-04:00.hyperlinks.json) |
+| [August 10 at 7:26 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-10T14:25:51.634551-04:00.hyperlinks.json) |
+| [August 9 at 6:32 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-10T01:32:41.632190-04:00.hyperlinks.json) |
+| [August 9 at 6:54 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-09T13:54:35.206434-04:00.hyperlinks.json) |
+| [August 8 at 6:09 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-09T01:09:43.412118-04:00.hyperlinks.json) |
+| [August 7 at 6:25 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-08T01:25:04.570994-04:00.hyperlinks.json) |
+| [August 7 at 6:06 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-07T13:06:50.013958-04:00.hyperlinks.json) |
+| [August 6 at 5:44 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-07T00:44:06.728343-04:00.hyperlinks.json) |
+| [August 6 at 5:28 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-06T12:27:59.823834-04:00.hyperlinks.json) |
+| [August 5 at 6:05 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-06T01:05:03.998631-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 11 at 1:26 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-11T01:26:33.447117-04:00.accessibility.json) |
-| [August 10 at 2:25 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-10T14:25:51.634551-04:00.accessibility.json) |
-| [August 10 at 1:32 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-10T01:32:41.632190-04:00.accessibility.json) |
-| [August 9 at 1:54 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-09T13:54:35.206434-04:00.accessibility.json) |
-| [August 9 at 1:09 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-09T01:09:43.412118-04:00.accessibility.json) |
-| [August 8 at 1:20 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-08T13:20:24.971506-04:00.accessibility.json) |
-| [August 8 at 1:25 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-08T01:25:04.570994-04:00.accessibility.json) |
-| [August 7 at 1:06 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-07T13:06:50.013958-04:00.accessibility.json) |
-| [August 7 at 12:44 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-07T00:44:06.728343-04:00.accessibility.json) |
-| [August 6 at 12:28 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-06T12:27:59.823834-04:00.accessibility.json) |
+| [August 10 at 6:26 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-11T01:26:33.447117-04:00.accessibility.json) |
+| [August 10 at 7:25 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-10T14:25:51.634551-04:00.accessibility.json) |
+| [August 9 at 6:32 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-10T01:32:41.632190-04:00.accessibility.json) |
+| [August 9 at 6:54 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-09T13:54:35.206434-04:00.accessibility.json) |
+| [August 8 at 6:09 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-09T01:09:43.412118-04:00.accessibility.json) |
+| [August 8 at 6:20 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-08T13:20:24.971506-04:00.accessibility.json) |
+| [August 7 at 6:25 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-08T01:25:04.570994-04:00.accessibility.json) |
+| [August 7 at 6:06 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-07T13:06:50.013958-04:00.accessibility.json) |
+| [August 6 at 5:44 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-07T00:44:06.728343-04:00.accessibility.json) |
+| [August 6 at 5:28 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-06T12:27:59.823834-04:00.accessibility.json) |
 
 
 
@@ -525,16 +525,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 11 at 1:26 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-11T01:26:33.447117-04:00.lighthouse.json) |
-| [August 10 at 2:26 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-10T14:25:51.634551-04:00.lighthouse.json) |
-| [August 10 at 1:32 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-10T01:32:41.632190-04:00.lighthouse.json) |
-| [August 9 at 1:54 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-09T13:54:35.206434-04:00.lighthouse.json) |
-| [August 9 at 1:09 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-09T01:09:43.412118-04:00.lighthouse.json) |
-| [August 8 at 1:20 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-08T13:20:24.971506-04:00.lighthouse.json) |
-| [August 8 at 1:25 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-08T01:25:04.570994-04:00.lighthouse.json) |
-| [August 7 at 1:06 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-07T13:06:50.013958-04:00.lighthouse.json) |
-| [August 7 at 12:44 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-07T00:44:06.728343-04:00.lighthouse.json) |
-| [August 6 at 12:28 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-06T12:27:59.823834-04:00.lighthouse.json) |
+| [August 10 at 6:26 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-11T01:26:33.447117-04:00.lighthouse.json) |
+| [August 10 at 7:26 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-10T14:25:51.634551-04:00.lighthouse.json) |
+| [August 9 at 6:32 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-10T01:32:41.632190-04:00.lighthouse.json) |
+| [August 9 at 6:54 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-09T13:54:35.206434-04:00.lighthouse.json) |
+| [August 8 at 6:09 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-09T01:09:43.412118-04:00.lighthouse.json) |
+| [August 8 at 6:20 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-08T13:20:24.971506-04:00.lighthouse.json) |
+| [August 7 at 6:25 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-08T01:25:04.570994-04:00.lighthouse.json) |
+| [August 7 at 6:06 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-07T13:06:50.013958-04:00.lighthouse.json) |
+| [August 6 at 5:44 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-07T00:44:06.728343-04:00.lighthouse.json) |
+| [August 6 at 5:28 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-06T12:27:59.823834-04:00.lighthouse.json) |
 
 
 

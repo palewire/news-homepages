@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-11T19:24:48.369604+05:45.jpg">
   <img src="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-11T19:24:48.369604+05:45.jpg"
-     alt="Lokantar at 2022-08-11 19:24:49+05:45 local time"
+     alt="Lokantar at 2022-08-11 12:24:49+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-11T19:24:48.369604+05:45.jpg">August 11 at 7:24 PM</a></p>
+ <p><a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-11T19:24:48.369604+05:45.jpg">August 11 at 12:24 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-11T06:37:57.097327+05:45.jpg">
   <img src="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-11T06:37:57.097327+05:45.jpg"
-     alt="Lokantar at 2022-08-11 06:37:58+05:45 local time"
+     alt="Lokantar at 2022-08-10 23:37:58+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-11T06:37:57.097327+05:45.jpg">August 11 at 6:37 AM</a></p>
+ <p><a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-11T06:37:57.097327+05:45.jpg">August 10 at 11:37 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-10T18:53:35.890291+05:45.jpg">
   <img src="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-10T18:53:35.890291+05:45.jpg"
-     alt="Lokantar at 2022-08-10 18:53:41+05:45 local time"
+     alt="Lokantar at 2022-08-10 11:53:41+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-10T18:53:35.890291+05:45.jpg">August 10 at 6:53 PM</a></p>
+ <p><a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-10T18:53:35.890291+05:45.jpg">August 10 at 11:53 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-09T18:40:37.914507+05:45.jpg">
   <img src="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-09T18:40:37.914507+05:45.jpg"
-     alt="Lokantar at 2022-08-09 18:40:39+05:45 local time"
+     alt="Lokantar at 2022-08-09 11:40:39+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-09T18:40:37.914507+05:45.jpg">August 9 at 6:40 PM</a></p>
+ <p><a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-09T18:40:37.914507+05:45.jpg">August 9 at 11:40 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-09T06:36:52.475280+05:45.jpg">
   <img src="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-09T06:36:52.475280+05:45.jpg"
-     alt="Lokantar at 2022-08-09 06:36:55+05:45 local time"
+     alt="Lokantar at 2022-08-08 23:36:55+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-09T06:36:52.475280+05:45.jpg">August 9 at 6:36 AM</a></p>
+ <p><a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-09T06:36:52.475280+05:45.jpg">August 8 at 11:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-08T18:28:09.773753+05:45.jpg">
   <img src="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-08T18:28:09.773753+05:45.jpg"
-     alt="Lokantar at 2022-08-08 18:28:11+05:45 local time"
+     alt="Lokantar at 2022-08-08 11:28:11+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-08T18:28:09.773753+05:45.jpg">August 8 at 6:28 PM</a></p>
+ <p><a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-08T18:28:09.773753+05:45.jpg">August 8 at 11:28 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-08T06:45:50.226964+05:45.jpg">
   <img src="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-08T06:45:50.226964+05:45.jpg"
-     alt="Lokantar at 2022-08-08 06:45:52+05:45 local time"
+     alt="Lokantar at 2022-08-07 23:45:52+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-08T06:45:50.226964+05:45.jpg">August 8 at 6:45 AM</a></p>
+ <p><a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-08T06:45:50.226964+05:45.jpg">August 7 at 11:45 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-07T18:22:57.521371+05:45.jpg">
   <img src="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-07T18:22:57.521371+05:45.jpg"
-     alt="Lokantar at 2022-08-07 18:23:00+05:45 local time"
+     alt="Lokantar at 2022-08-07 11:23:00+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-07T18:22:57.521371+05:45.jpg">August 7 at 6:23 PM</a></p>
+ <p><a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-07T18:22:57.521371+05:45.jpg">August 7 at 11:23 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-07T06:24:29.579836+05:45.jpg">
   <img src="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-07T06:24:29.579836+05:45.jpg"
-     alt="Lokantar at 2022-08-07 06:24:31+05:45 local time"
+     alt="Lokantar at 2022-08-06 23:24:31+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-07T06:24:29.579836+05:45.jpg">August 7 at 6:24 AM</a></p>
+ <p><a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-07T06:24:29.579836+05:45.jpg">August 6 at 11:24 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-06T18:17:16.914399+05:45.jpg">
   <img src="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-06T18:17:16.914399+05:45.jpg"
-     alt="Lokantar at 2022-08-06 18:17:20+05:45 local time"
+     alt="Lokantar at 2022-08-06 11:17:20+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-06T18:17:16.914399+05:45.jpg">August 6 at 6:17 PM</a></p>
+ <p><a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-06T18:17:16.914399+05:45.jpg">August 6 at 11:17 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-06T07:50:01.325417+05:45.jpg">
   <img src="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-06T07:50:01.325417+05:45.jpg"
-     alt="Lokantar at 2022-08-06 07:50:02+05:45 local time"
+     alt="Lokantar at 2022-08-06 00:50:02+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-06T07:50:01.325417+05:45.jpg">August 6 at 7:50 AM</a></p>
+ <p><a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-06T07:50:01.325417+05:45.jpg">August 6 at 12:50 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-05T18:23:49.164481+05:45.jpg">
   <img src="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-05T18:23:49.164481+05:45.jpg"
-     alt="Lokantar at 2022-08-05 18:23:50+05:45 local time"
+     alt="Lokantar at 2022-08-05 11:23:50+05:45 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-05T18:23:49.164481+05:45.jpg">August 5 at 6:23 PM</a></p>
+ <p><a href="https://archive.org/download/lokaantar-2022/lokaantar-2022-08-05T18:23:49.164481+05:45.jpg">August 5 at 11:23 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 11 at 7:24 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-11T19:24:48.369604+05:45.hyperlinks.json) |
-| [August 11 at 6:38 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-11T06:37:57.097327+05:45.hyperlinks.json) |
-| [August 10 at 6:53 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-10T18:53:35.890291+05:45.hyperlinks.json) |
-| [August 10 at 6:41 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-10T06:41:07.456533+05:45.hyperlinks.json) |
-| [August 9 at 6:40 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-09T18:40:37.914507+05:45.hyperlinks.json) |
-| [August 9 at 6:36 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-09T06:36:52.475280+05:45.hyperlinks.json) |
-| [August 8 at 6:28 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-08T18:28:09.773753+05:45.hyperlinks.json) |
-| [August 8 at 6:45 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-08T06:45:50.226964+05:45.hyperlinks.json) |
-| [August 7 at 6:23 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-07T18:22:57.521371+05:45.hyperlinks.json) |
-| [August 7 at 6:24 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-07T06:24:29.579836+05:45.hyperlinks.json) |
+| [August 11 at 12:24 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-11T19:24:48.369604+05:45.hyperlinks.json) |
+| [August 10 at 11:38 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-11T06:37:57.097327+05:45.hyperlinks.json) |
+| [August 10 at 11:53 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-10T18:53:35.890291+05:45.hyperlinks.json) |
+| [August 9 at 11:41 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-10T06:41:07.456533+05:45.hyperlinks.json) |
+| [August 9 at 11:40 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-09T18:40:37.914507+05:45.hyperlinks.json) |
+| [August 8 at 11:36 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-09T06:36:52.475280+05:45.hyperlinks.json) |
+| [August 8 at 11:28 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-08T18:28:09.773753+05:45.hyperlinks.json) |
+| [August 7 at 11:45 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-08T06:45:50.226964+05:45.hyperlinks.json) |
+| [August 7 at 11:23 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-07T18:22:57.521371+05:45.hyperlinks.json) |
+| [August 6 at 11:24 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-07T06:24:29.579836+05:45.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 11 at 7:24 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-11T19:24:48.369604+05:45.accessibility.json) |
-| [August 11 at 6:38 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-11T06:37:57.097327+05:45.accessibility.json) |
-| [August 10 at 6:53 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-10T18:53:35.890291+05:45.accessibility.json) |
-| [August 10 at 6:41 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-10T06:41:07.456533+05:45.accessibility.json) |
-| [August 9 at 6:40 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-09T18:40:37.914507+05:45.accessibility.json) |
-| [August 9 at 6:36 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-09T06:36:52.475280+05:45.accessibility.json) |
-| [August 8 at 6:28 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-08T18:28:09.773753+05:45.accessibility.json) |
-| [August 8 at 6:45 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-08T06:45:50.226964+05:45.accessibility.json) |
-| [August 7 at 6:23 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-07T18:22:57.521371+05:45.accessibility.json) |
-| [August 7 at 6:24 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-07T06:24:29.579836+05:45.accessibility.json) |
+| [August 11 at 12:24 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-11T19:24:48.369604+05:45.accessibility.json) |
+| [August 10 at 11:38 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-11T06:37:57.097327+05:45.accessibility.json) |
+| [August 10 at 11:53 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-10T18:53:35.890291+05:45.accessibility.json) |
+| [August 9 at 11:41 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-10T06:41:07.456533+05:45.accessibility.json) |
+| [August 9 at 11:40 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-09T18:40:37.914507+05:45.accessibility.json) |
+| [August 8 at 11:36 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-09T06:36:52.475280+05:45.accessibility.json) |
+| [August 8 at 11:28 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-08T18:28:09.773753+05:45.accessibility.json) |
+| [August 7 at 11:45 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-08T06:45:50.226964+05:45.accessibility.json) |
+| [August 7 at 11:23 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-07T18:22:57.521371+05:45.accessibility.json) |
+| [August 6 at 11:24 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-07T06:24:29.579836+05:45.accessibility.json) |
 
 
 
@@ -525,16 +525,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 11 at 7:24 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-11T19:24:48.369604+05:45.lighthouse.json) |
-| [August 11 at 6:38 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-11T06:37:57.097327+05:45.lighthouse.json) |
-| [August 10 at 6:53 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-10T18:53:35.890291+05:45.lighthouse.json) |
-| [August 10 at 6:41 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-10T06:41:07.456533+05:45.lighthouse.json) |
-| [August 9 at 6:40 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-09T18:40:37.914507+05:45.lighthouse.json) |
-| [August 9 at 6:37 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-09T06:36:52.475280+05:45.lighthouse.json) |
-| [August 8 at 6:28 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-08T18:28:09.773753+05:45.lighthouse.json) |
-| [August 8 at 6:45 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-08T06:45:50.226964+05:45.lighthouse.json) |
-| [August 7 at 6:23 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-07T18:22:57.521371+05:45.lighthouse.json) |
-| [August 7 at 6:24 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-07T06:24:29.579836+05:45.lighthouse.json) |
+| [August 11 at 12:24 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-11T19:24:48.369604+05:45.lighthouse.json) |
+| [August 10 at 11:38 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-11T06:37:57.097327+05:45.lighthouse.json) |
+| [August 10 at 11:53 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-10T18:53:35.890291+05:45.lighthouse.json) |
+| [August 9 at 11:41 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-10T06:41:07.456533+05:45.lighthouse.json) |
+| [August 9 at 11:40 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-09T18:40:37.914507+05:45.lighthouse.json) |
+| [August 8 at 11:37 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-09T06:36:52.475280+05:45.lighthouse.json) |
+| [August 8 at 11:28 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-08T18:28:09.773753+05:45.lighthouse.json) |
+| [August 7 at 11:45 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-08T06:45:50.226964+05:45.lighthouse.json) |
+| [August 7 at 11:23 AM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-07T18:22:57.521371+05:45.lighthouse.json) |
+| [August 6 at 11:24 PM](https://archive.org/download/lokaantar-2022/lokaantar-2022-08-07T06:24:29.579836+05:45.lighthouse.json) |
 
 
 

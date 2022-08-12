@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-11T07:38:15.025430-04:00.jpg">
   <img src="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-11T07:38:15.025430-04:00.jpg"
-     alt="Carolina Public Press at 2022-08-11 07:38:24-04:00 local time"
+     alt="Carolina Public Press at 2022-08-11 00:38:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-11T07:38:15.025430-04:00.jpg">August 11 at 7:38 AM</a></p>
+ <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-11T07:38:15.025430-04:00.jpg">August 11 at 12:38 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-10T20:41:34.285226-04:00.jpg">
   <img src="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-10T20:41:34.285226-04:00.jpg"
-     alt="Carolina Public Press at 2022-08-10 20:41:52-04:00 local time"
+     alt="Carolina Public Press at 2022-08-10 13:41:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-10T20:41:34.285226-04:00.jpg">August 10 at 8:41 PM</a></p>
+ <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-10T20:41:34.285226-04:00.jpg">August 10 at 1:41 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-10T08:55:39.426996-04:00.jpg">
   <img src="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-10T08:55:39.426996-04:00.jpg"
-     alt="Carolina Public Press at 2022-08-10 08:55:49-04:00 local time"
+     alt="Carolina Public Press at 2022-08-10 01:55:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-10T08:55:39.426996-04:00.jpg">August 10 at 8:55 AM</a></p>
+ <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-10T08:55:39.426996-04:00.jpg">August 10 at 1:55 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-09T19:28:21.395094-04:00.jpg">
   <img src="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-09T19:28:21.395094-04:00.jpg"
-     alt="Carolina Public Press at 2022-08-09 19:28:26-04:00 local time"
+     alt="Carolina Public Press at 2022-08-09 12:28:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-09T19:28:21.395094-04:00.jpg">August 9 at 7:28 PM</a></p>
+ <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-09T19:28:21.395094-04:00.jpg">August 9 at 12:28 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-09T08:42:32.219026-04:00.jpg">
   <img src="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-09T08:42:32.219026-04:00.jpg"
-     alt="Carolina Public Press at 2022-08-09 08:42:36-04:00 local time"
+     alt="Carolina Public Press at 2022-08-09 01:42:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-09T08:42:32.219026-04:00.jpg">August 9 at 8:42 AM</a></p>
+ <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-09T08:42:32.219026-04:00.jpg">August 9 at 1:42 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-08T20:37:53.155459-04:00.jpg">
   <img src="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-08T20:37:53.155459-04:00.jpg"
-     alt="Carolina Public Press at 2022-08-08 20:37:57-04:00 local time"
+     alt="Carolina Public Press at 2022-08-08 13:37:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-08T20:37:53.155459-04:00.jpg">August 8 at 8:37 PM</a></p>
+ <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-08T20:37:53.155459-04:00.jpg">August 8 at 1:37 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-08T07:23:47.361435-04:00.jpg">
   <img src="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-08T07:23:47.361435-04:00.jpg"
-     alt="Carolina Public Press at 2022-08-08 07:23:51-04:00 local time"
+     alt="Carolina Public Press at 2022-08-08 00:23:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-08T07:23:47.361435-04:00.jpg">August 8 at 7:23 AM</a></p>
+ <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-08T07:23:47.361435-04:00.jpg">August 8 at 12:23 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-07T20:47:02.815330-04:00.jpg">
   <img src="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-07T20:47:02.815330-04:00.jpg"
-     alt="Carolina Public Press at 2022-08-07 20:47:07-04:00 local time"
+     alt="Carolina Public Press at 2022-08-07 13:47:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-07T20:47:02.815330-04:00.jpg">August 7 at 8:47 PM</a></p>
+ <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-07T20:47:02.815330-04:00.jpg">August 7 at 1:47 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-07T08:25:57.447635-04:00.jpg">
   <img src="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-07T08:25:57.447635-04:00.jpg"
-     alt="Carolina Public Press at 2022-08-07 08:26:02-04:00 local time"
+     alt="Carolina Public Press at 2022-08-07 01:26:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-07T08:25:57.447635-04:00.jpg">August 7 at 8:26 AM</a></p>
+ <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-07T08:25:57.447635-04:00.jpg">August 7 at 1:26 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-06T20:28:32.088658-04:00.jpg">
   <img src="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-06T20:28:32.088658-04:00.jpg"
-     alt="Carolina Public Press at 2022-08-06 20:28:35-04:00 local time"
+     alt="Carolina Public Press at 2022-08-06 13:28:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-06T20:28:32.088658-04:00.jpg">August 6 at 8:28 PM</a></p>
+ <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-06T20:28:32.088658-04:00.jpg">August 6 at 1:28 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-06T08:20:16.757449-04:00.jpg">
   <img src="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-06T08:20:16.757449-04:00.jpg"
-     alt="Carolina Public Press at 2022-08-06 08:20:20-04:00 local time"
+     alt="Carolina Public Press at 2022-08-06 01:20:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-06T08:20:16.757449-04:00.jpg">August 6 at 8:20 AM</a></p>
+ <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-06T08:20:16.757449-04:00.jpg">August 6 at 1:20 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-05T19:31:39.937521-04:00.jpg">
   <img src="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-05T19:31:39.937521-04:00.jpg"
-     alt="Carolina Public Press at 2022-08-05 19:31:40-04:00 local time"
+     alt="Carolina Public Press at 2022-08-05 12:31:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-05T19:31:39.937521-04:00.jpg">August 5 at 7:31 PM</a></p>
+ <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-05T19:31:39.937521-04:00.jpg">August 5 at 12:31 PM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 11 at 7:38 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-11T07:38:15.025430-04:00.hyperlinks.json) |
-| [August 10 at 8:41 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-10T20:41:34.285226-04:00.hyperlinks.json) |
-| [August 10 at 8:55 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-10T08:55:39.426996-04:00.hyperlinks.json) |
-| [August 9 at 7:28 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-09T19:28:21.395094-04:00.hyperlinks.json) |
-| [August 9 at 8:42 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-09T08:42:32.219026-04:00.hyperlinks.json) |
-| [August 8 at 8:38 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-08T20:37:53.155459-04:00.hyperlinks.json) |
-| [August 8 at 7:23 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-08T07:23:47.361435-04:00.hyperlinks.json) |
-| [August 7 at 8:47 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-07T20:47:02.815330-04:00.hyperlinks.json) |
-| [August 7 at 8:26 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-07T08:25:57.447635-04:00.hyperlinks.json) |
-| [August 6 at 8:28 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-06T20:28:32.088658-04:00.hyperlinks.json) |
+| [August 11 at 12:38 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-11T07:38:15.025430-04:00.hyperlinks.json) |
+| [August 10 at 1:41 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-10T20:41:34.285226-04:00.hyperlinks.json) |
+| [August 10 at 1:55 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-10T08:55:39.426996-04:00.hyperlinks.json) |
+| [August 9 at 12:28 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-09T19:28:21.395094-04:00.hyperlinks.json) |
+| [August 9 at 1:42 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-09T08:42:32.219026-04:00.hyperlinks.json) |
+| [August 8 at 1:38 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-08T20:37:53.155459-04:00.hyperlinks.json) |
+| [August 8 at 12:23 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-08T07:23:47.361435-04:00.hyperlinks.json) |
+| [August 7 at 1:47 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-07T20:47:02.815330-04:00.hyperlinks.json) |
+| [August 7 at 1:26 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-07T08:25:57.447635-04:00.hyperlinks.json) |
+| [August 6 at 1:28 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-06T20:28:32.088658-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 11 at 7:38 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-11T07:38:15.025430-04:00.accessibility.json) |
-| [August 10 at 8:41 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-10T20:41:34.285226-04:00.accessibility.json) |
-| [August 10 at 8:55 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-10T08:55:39.426996-04:00.accessibility.json) |
-| [August 9 at 7:28 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-09T19:28:21.395094-04:00.accessibility.json) |
-| [August 9 at 8:42 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-09T08:42:32.219026-04:00.accessibility.json) |
-| [August 8 at 8:37 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-08T20:37:53.155459-04:00.accessibility.json) |
-| [August 8 at 7:23 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-08T07:23:47.361435-04:00.accessibility.json) |
-| [August 7 at 8:47 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-07T20:47:02.815330-04:00.accessibility.json) |
-| [August 7 at 8:26 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-07T08:25:57.447635-04:00.accessibility.json) |
-| [August 6 at 8:28 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-06T20:28:32.088658-04:00.accessibility.json) |
+| [August 11 at 12:38 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-11T07:38:15.025430-04:00.accessibility.json) |
+| [August 10 at 1:41 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-10T20:41:34.285226-04:00.accessibility.json) |
+| [August 10 at 1:55 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-10T08:55:39.426996-04:00.accessibility.json) |
+| [August 9 at 12:28 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-09T19:28:21.395094-04:00.accessibility.json) |
+| [August 9 at 1:42 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-09T08:42:32.219026-04:00.accessibility.json) |
+| [August 8 at 1:37 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-08T20:37:53.155459-04:00.accessibility.json) |
+| [August 8 at 12:23 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-08T07:23:47.361435-04:00.accessibility.json) |
+| [August 7 at 1:47 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-07T20:47:02.815330-04:00.accessibility.json) |
+| [August 7 at 1:26 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-07T08:25:57.447635-04:00.accessibility.json) |
+| [August 6 at 1:28 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-06T20:28:32.088658-04:00.accessibility.json) |
 
 
 
@@ -525,16 +525,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 11 at 7:38 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-11T07:38:15.025430-04:00.lighthouse.json) |
-| [August 10 at 8:41 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-10T20:41:34.285226-04:00.lighthouse.json) |
-| [August 10 at 8:55 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-10T08:55:39.426996-04:00.lighthouse.json) |
-| [August 9 at 7:28 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-09T19:28:21.395094-04:00.lighthouse.json) |
-| [August 9 at 8:42 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-09T08:42:32.219026-04:00.lighthouse.json) |
-| [August 8 at 8:38 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-08T20:37:53.155459-04:00.lighthouse.json) |
-| [August 8 at 7:23 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-08T07:23:47.361435-04:00.lighthouse.json) |
-| [August 7 at 8:47 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-07T20:47:02.815330-04:00.lighthouse.json) |
-| [August 7 at 8:26 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-07T08:25:57.447635-04:00.lighthouse.json) |
-| [August 6 at 8:28 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-06T20:28:32.088658-04:00.lighthouse.json) |
+| [August 11 at 12:38 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-11T07:38:15.025430-04:00.lighthouse.json) |
+| [August 10 at 1:41 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-10T20:41:34.285226-04:00.lighthouse.json) |
+| [August 10 at 1:55 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-10T08:55:39.426996-04:00.lighthouse.json) |
+| [August 9 at 12:28 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-09T19:28:21.395094-04:00.lighthouse.json) |
+| [August 9 at 1:42 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-09T08:42:32.219026-04:00.lighthouse.json) |
+| [August 8 at 1:38 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-08T20:37:53.155459-04:00.lighthouse.json) |
+| [August 8 at 12:23 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-08T07:23:47.361435-04:00.lighthouse.json) |
+| [August 7 at 1:47 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-07T20:47:02.815330-04:00.lighthouse.json) |
+| [August 7 at 1:26 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-07T08:25:57.447635-04:00.lighthouse.json) |
+| [August 6 at 1:28 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-06T20:28:32.088658-04:00.lighthouse.json) |
 
 
 

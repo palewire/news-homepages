@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-11T06:36:35.910612-05:00.jpg">
   <img src="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-11T06:36:35.910612-05:00.jpg"
-     alt="Capitol News Illinois at 2022-08-11 06:36:37-05:00 local time"
+     alt="Capitol News Illinois at 2022-08-10 23:36:37-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-11T06:36:35.910612-05:00.jpg">August 11 at 6:36 AM</a></p>
+ <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-11T06:36:35.910612-05:00.jpg">August 10 at 11:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-10T19:39:08.213913-05:00.jpg">
   <img src="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-10T19:39:08.213913-05:00.jpg"
-     alt="Capitol News Illinois at 2022-08-10 19:39:13-05:00 local time"
+     alt="Capitol News Illinois at 2022-08-10 12:39:13-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-10T19:39:08.213913-05:00.jpg">August 10 at 7:39 PM</a></p>
+ <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-10T19:39:08.213913-05:00.jpg">August 10 at 12:39 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-10T07:53:27.592526-05:00.jpg">
   <img src="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-10T07:53:27.592526-05:00.jpg"
-     alt="Capitol News Illinois at 2022-08-10 07:53:31-05:00 local time"
+     alt="Capitol News Illinois at 2022-08-10 00:53:31-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-10T07:53:27.592526-05:00.jpg">August 10 at 7:53 AM</a></p>
+ <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-10T07:53:27.592526-05:00.jpg">August 10 at 12:53 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-09T18:24:33.261721-05:00.jpg">
   <img src="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-09T18:24:33.261721-05:00.jpg"
-     alt="Capitol News Illinois at 2022-08-09 18:24:35-05:00 local time"
+     alt="Capitol News Illinois at 2022-08-09 11:24:35-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-09T18:24:33.261721-05:00.jpg">August 9 at 6:24 PM</a></p>
+ <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-09T18:24:33.261721-05:00.jpg">August 9 at 11:24 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-09T07:40:25.829952-05:00.jpg">
   <img src="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-09T07:40:25.829952-05:00.jpg"
-     alt="Capitol News Illinois at 2022-08-09 07:40:27-05:00 local time"
+     alt="Capitol News Illinois at 2022-08-09 00:40:27-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-09T07:40:25.829952-05:00.jpg">August 9 at 7:40 AM</a></p>
+ <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-09T07:40:25.829952-05:00.jpg">August 9 at 12:40 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-08T19:35:28.600742-05:00.jpg">
   <img src="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-08T19:35:28.600742-05:00.jpg"
-     alt="Capitol News Illinois at 2022-08-08 19:35:31-05:00 local time"
+     alt="Capitol News Illinois at 2022-08-08 12:35:31-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-08T19:35:28.600742-05:00.jpg">August 8 at 7:35 PM</a></p>
+ <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-08T19:35:28.600742-05:00.jpg">August 8 at 12:35 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-08T06:21:20.296217-05:00.jpg">
   <img src="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-08T06:21:20.296217-05:00.jpg"
-     alt="Capitol News Illinois at 2022-08-08 06:21:22-05:00 local time"
+     alt="Capitol News Illinois at 2022-08-07 23:21:22-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-08T06:21:20.296217-05:00.jpg">August 8 at 6:21 AM</a></p>
+ <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-08T06:21:20.296217-05:00.jpg">August 7 at 11:21 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-07T19:43:26.981604-05:00.jpg">
   <img src="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-07T19:43:26.981604-05:00.jpg"
-     alt="Capitol News Illinois at 2022-08-07 19:43:31-05:00 local time"
+     alt="Capitol News Illinois at 2022-08-07 12:43:31-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-07T19:43:26.981604-05:00.jpg">August 7 at 7:43 PM</a></p>
+ <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-07T19:43:26.981604-05:00.jpg">August 7 at 12:43 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-07T07:23:59.626896-05:00.jpg">
   <img src="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-07T07:23:59.626896-05:00.jpg"
-     alt="Capitol News Illinois at 2022-08-07 07:24:02-05:00 local time"
+     alt="Capitol News Illinois at 2022-08-07 00:24:02-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-07T07:23:59.626896-05:00.jpg">August 7 at 7:24 AM</a></p>
+ <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-07T07:23:59.626896-05:00.jpg">August 7 at 12:24 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-06T19:26:41.405766-05:00.jpg">
   <img src="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-06T19:26:41.405766-05:00.jpg"
-     alt="Capitol News Illinois at 2022-08-06 19:26:44-05:00 local time"
+     alt="Capitol News Illinois at 2022-08-06 12:26:44-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-06T19:26:41.405766-05:00.jpg">August 6 at 7:26 PM</a></p>
+ <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-06T19:26:41.405766-05:00.jpg">August 6 at 12:26 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-06T07:17:36.439212-05:00.jpg">
   <img src="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-06T07:17:36.439212-05:00.jpg"
-     alt="Capitol News Illinois at 2022-08-06 07:17:39-05:00 local time"
+     alt="Capitol News Illinois at 2022-08-06 00:17:39-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-06T07:17:36.439212-05:00.jpg">August 6 at 7:17 AM</a></p>
+ <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-06T07:17:36.439212-05:00.jpg">August 6 at 12:17 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-05T18:29:41.834436-05:00.jpg">
   <img src="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-05T18:29:41.834436-05:00.jpg"
-     alt="Capitol News Illinois at 2022-08-05 18:29:43-05:00 local time"
+     alt="Capitol News Illinois at 2022-08-05 11:29:43-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-05T18:29:41.834436-05:00.jpg">August 5 at 6:29 PM</a></p>
+ <p><a href="https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-05T18:29:41.834436-05:00.jpg">August 5 at 11:29 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 11 at 6:36 AM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-11T06:36:35.910612-05:00.hyperlinks.json) |
-| [August 10 at 7:39 PM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-10T19:39:08.213913-05:00.hyperlinks.json) |
-| [August 10 at 7:53 AM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-10T07:53:27.592526-05:00.hyperlinks.json) |
-| [August 9 at 6:24 PM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-09T18:24:33.261721-05:00.hyperlinks.json) |
-| [August 9 at 7:40 AM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-09T07:40:25.829952-05:00.hyperlinks.json) |
-| [August 8 at 7:35 PM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-08T19:35:28.600742-05:00.hyperlinks.json) |
-| [August 8 at 6:21 AM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-08T06:21:20.296217-05:00.hyperlinks.json) |
-| [August 7 at 7:43 PM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-07T19:43:26.981604-05:00.hyperlinks.json) |
-| [August 7 at 7:24 AM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-07T07:23:59.626896-05:00.hyperlinks.json) |
-| [August 6 at 7:26 PM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-06T19:26:41.405766-05:00.hyperlinks.json) |
+| [August 10 at 11:36 PM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-11T06:36:35.910612-05:00.hyperlinks.json) |
+| [August 10 at 12:39 PM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-10T19:39:08.213913-05:00.hyperlinks.json) |
+| [August 10 at 12:53 AM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-10T07:53:27.592526-05:00.hyperlinks.json) |
+| [August 9 at 11:24 AM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-09T18:24:33.261721-05:00.hyperlinks.json) |
+| [August 9 at 12:40 AM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-09T07:40:25.829952-05:00.hyperlinks.json) |
+| [August 8 at 12:35 PM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-08T19:35:28.600742-05:00.hyperlinks.json) |
+| [August 7 at 11:21 PM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-08T06:21:20.296217-05:00.hyperlinks.json) |
+| [August 7 at 12:43 PM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-07T19:43:26.981604-05:00.hyperlinks.json) |
+| [August 7 at 12:24 AM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-07T07:23:59.626896-05:00.hyperlinks.json) |
+| [August 6 at 12:26 PM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-06T19:26:41.405766-05:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 11 at 6:36 AM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-11T06:36:35.910612-05:00.accessibility.json) |
-| [August 10 at 7:39 PM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-10T19:39:08.213913-05:00.accessibility.json) |
-| [August 10 at 7:53 AM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-10T07:53:27.592526-05:00.accessibility.json) |
-| [August 9 at 6:24 PM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-09T18:24:33.261721-05:00.accessibility.json) |
-| [August 9 at 7:40 AM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-09T07:40:25.829952-05:00.accessibility.json) |
-| [August 8 at 7:35 PM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-08T19:35:28.600742-05:00.accessibility.json) |
-| [August 8 at 6:21 AM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-08T06:21:20.296217-05:00.accessibility.json) |
-| [August 7 at 7:43 PM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-07T19:43:26.981604-05:00.accessibility.json) |
-| [August 7 at 7:24 AM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-07T07:23:59.626896-05:00.accessibility.json) |
-| [August 6 at 7:26 PM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-06T19:26:41.405766-05:00.accessibility.json) |
+| [August 10 at 11:36 PM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-11T06:36:35.910612-05:00.accessibility.json) |
+| [August 10 at 12:39 PM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-10T19:39:08.213913-05:00.accessibility.json) |
+| [August 10 at 12:53 AM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-10T07:53:27.592526-05:00.accessibility.json) |
+| [August 9 at 11:24 AM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-09T18:24:33.261721-05:00.accessibility.json) |
+| [August 9 at 12:40 AM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-09T07:40:25.829952-05:00.accessibility.json) |
+| [August 8 at 12:35 PM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-08T19:35:28.600742-05:00.accessibility.json) |
+| [August 7 at 11:21 PM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-08T06:21:20.296217-05:00.accessibility.json) |
+| [August 7 at 12:43 PM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-07T19:43:26.981604-05:00.accessibility.json) |
+| [August 7 at 12:24 AM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-07T07:23:59.626896-05:00.accessibility.json) |
+| [August 6 at 12:26 PM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-06T19:26:41.405766-05:00.accessibility.json) |
 
 
 
@@ -525,16 +525,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 11 at 6:36 AM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-11T06:36:35.910612-05:00.lighthouse.json) |
-| [August 10 at 7:39 PM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-10T19:39:08.213913-05:00.lighthouse.json) |
-| [August 10 at 7:53 AM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-10T07:53:27.592526-05:00.lighthouse.json) |
-| [August 9 at 6:24 PM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-09T18:24:33.261721-05:00.lighthouse.json) |
-| [August 9 at 7:40 AM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-09T07:40:25.829952-05:00.lighthouse.json) |
-| [August 8 at 7:35 PM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-08T19:35:28.600742-05:00.lighthouse.json) |
-| [August 8 at 6:21 AM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-08T06:21:20.296217-05:00.lighthouse.json) |
-| [August 7 at 7:43 PM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-07T19:43:26.981604-05:00.lighthouse.json) |
-| [August 7 at 7:24 AM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-07T07:23:59.626896-05:00.lighthouse.json) |
-| [August 6 at 7:26 PM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-06T19:26:41.405766-05:00.lighthouse.json) |
+| [August 10 at 11:36 PM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-11T06:36:35.910612-05:00.lighthouse.json) |
+| [August 10 at 12:39 PM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-10T19:39:08.213913-05:00.lighthouse.json) |
+| [August 10 at 12:53 AM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-10T07:53:27.592526-05:00.lighthouse.json) |
+| [August 9 at 11:24 AM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-09T18:24:33.261721-05:00.lighthouse.json) |
+| [August 9 at 12:40 AM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-09T07:40:25.829952-05:00.lighthouse.json) |
+| [August 8 at 12:35 PM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-08T19:35:28.600742-05:00.lighthouse.json) |
+| [August 7 at 11:21 PM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-08T06:21:20.296217-05:00.lighthouse.json) |
+| [August 7 at 12:43 PM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-07T19:43:26.981604-05:00.lighthouse.json) |
+| [August 7 at 12:24 AM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-07T07:23:59.626896-05:00.lighthouse.json) |
+| [August 6 at 12:26 PM](https://archive.org/download/capitolnewsil-2022/capitolnewsil-2022-08-06T19:26:41.405766-05:00.lighthouse.json) |
 
 
 

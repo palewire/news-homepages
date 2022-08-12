@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-11T07:36:13.415807-04:00.jpg">
   <img src="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-11T07:36:13.415807-04:00.jpg"
-     alt="Bucks County Herald at 2022-08-11 07:36:17-04:00 local time"
+     alt="Bucks County Herald at 2022-08-11 00:36:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-11T07:36:13.415807-04:00.jpg">August 11 at 7:36 AM</a></p>
+ <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-11T07:36:13.415807-04:00.jpg">August 11 at 12:36 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-10T08:53:24.745754-04:00.jpg">
   <img src="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-10T08:53:24.745754-04:00.jpg"
-     alt="Bucks County Herald at 2022-08-10 08:53:33-04:00 local time"
+     alt="Bucks County Herald at 2022-08-10 01:53:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-10T08:53:24.745754-04:00.jpg">August 10 at 8:53 AM</a></p>
+ <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-10T08:53:24.745754-04:00.jpg">August 10 at 1:53 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-09T19:23:41.496722-04:00.jpg">
   <img src="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-09T19:23:41.496722-04:00.jpg"
-     alt="Bucks County Herald at 2022-08-09 19:23:45-04:00 local time"
+     alt="Bucks County Herald at 2022-08-09 12:23:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-09T19:23:41.496722-04:00.jpg">August 9 at 7:23 PM</a></p>
+ <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-09T19:23:41.496722-04:00.jpg">August 9 at 12:23 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-09T08:40:18.504904-04:00.jpg">
   <img src="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-09T08:40:18.504904-04:00.jpg"
-     alt="Bucks County Herald at 2022-08-09 08:40:22-04:00 local time"
+     alt="Bucks County Herald at 2022-08-09 01:40:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-09T08:40:18.504904-04:00.jpg">August 9 at 8:40 AM</a></p>
+ <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-09T08:40:18.504904-04:00.jpg">August 9 at 1:40 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-08T20:36:03.199094-04:00.jpg">
   <img src="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-08T20:36:03.199094-04:00.jpg"
-     alt="Bucks County Herald at 2022-08-08 20:36:06-04:00 local time"
+     alt="Bucks County Herald at 2022-08-08 13:36:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-08T20:36:03.199094-04:00.jpg">August 8 at 8:36 PM</a></p>
+ <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-08T20:36:03.199094-04:00.jpg">August 8 at 1:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-08T07:20:20.289979-04:00.jpg">
   <img src="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-08T07:20:20.289979-04:00.jpg"
-     alt="Bucks County Herald at 2022-08-08 07:20:23-04:00 local time"
+     alt="Bucks County Herald at 2022-08-08 00:20:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-08T07:20:20.289979-04:00.jpg">August 8 at 7:20 AM</a></p>
+ <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-08T07:20:20.289979-04:00.jpg">August 8 at 12:20 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-07T20:43:41.155874-04:00.jpg">
   <img src="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-07T20:43:41.155874-04:00.jpg"
-     alt="Bucks County Herald at 2022-08-07 20:43:44-04:00 local time"
+     alt="Bucks County Herald at 2022-08-07 13:43:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-07T20:43:41.155874-04:00.jpg">August 7 at 8:43 PM</a></p>
+ <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-07T20:43:41.155874-04:00.jpg">August 7 at 1:43 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-07T08:23:41.352061-04:00.jpg">
   <img src="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-07T08:23:41.352061-04:00.jpg"
-     alt="Bucks County Herald at 2022-08-07 08:23:44-04:00 local time"
+     alt="Bucks County Herald at 2022-08-07 01:23:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-07T08:23:41.352061-04:00.jpg">August 7 at 8:23 AM</a></p>
+ <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-07T08:23:41.352061-04:00.jpg">August 7 at 1:23 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-06T20:26:08.705234-04:00.jpg">
   <img src="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-06T20:26:08.705234-04:00.jpg"
-     alt="Bucks County Herald at 2022-08-06 20:26:12-04:00 local time"
+     alt="Bucks County Herald at 2022-08-06 13:26:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-06T20:26:08.705234-04:00.jpg">August 6 at 8:26 PM</a></p>
+ <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-06T20:26:08.705234-04:00.jpg">August 6 at 1:26 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-06T08:17:44.069872-04:00.jpg">
   <img src="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-06T08:17:44.069872-04:00.jpg"
-     alt="Bucks County Herald at 2022-08-06 08:17:46-04:00 local time"
+     alt="Bucks County Herald at 2022-08-06 01:17:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-06T08:17:44.069872-04:00.jpg">August 6 at 8:17 AM</a></p>
+ <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-06T08:17:44.069872-04:00.jpg">August 6 at 1:17 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-05T19:29:31.977822-04:00.jpg">
   <img src="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-05T19:29:31.977822-04:00.jpg"
-     alt="Bucks County Herald at 2022-08-05 19:29:33-04:00 local time"
+     alt="Bucks County Herald at 2022-08-05 12:29:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-05T19:29:31.977822-04:00.jpg">August 5 at 7:29 PM</a></p>
+ <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-05T19:29:31.977822-04:00.jpg">August 5 at 12:29 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-05T08:23:45.503671-04:00.jpg">
   <img src="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-05T08:23:45.503671-04:00.jpg"
-     alt="Bucks County Herald at 2022-08-05 08:23:46-04:00 local time"
+     alt="Bucks County Herald at 2022-08-05 01:23:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-05T08:23:45.503671-04:00.jpg">August 5 at 8:23 AM</a></p>
+ <p><a href="https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-05T08:23:45.503671-04:00.jpg">August 5 at 1:23 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 11 at 7:36 AM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-11T07:36:13.415807-04:00.hyperlinks.json) |
-| [August 10 at 8:39 PM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-10T20:39:46.028482-04:00.hyperlinks.json) |
-| [August 10 at 8:53 AM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-10T08:53:24.745754-04:00.hyperlinks.json) |
-| [August 9 at 7:23 PM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-09T19:23:41.496722-04:00.hyperlinks.json) |
-| [August 9 at 8:40 AM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-09T08:40:18.504904-04:00.hyperlinks.json) |
-| [August 8 at 8:36 PM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-08T20:36:03.199094-04:00.hyperlinks.json) |
-| [August 8 at 7:20 AM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-08T07:20:20.289979-04:00.hyperlinks.json) |
-| [August 7 at 8:43 PM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-07T20:43:41.155874-04:00.hyperlinks.json) |
-| [August 7 at 8:23 AM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-07T08:23:41.352061-04:00.hyperlinks.json) |
-| [August 6 at 8:26 PM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-06T20:26:08.705234-04:00.hyperlinks.json) |
+| [August 11 at 12:36 AM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-11T07:36:13.415807-04:00.hyperlinks.json) |
+| [August 10 at 1:39 PM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-10T20:39:46.028482-04:00.hyperlinks.json) |
+| [August 10 at 1:53 AM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-10T08:53:24.745754-04:00.hyperlinks.json) |
+| [August 9 at 12:23 PM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-09T19:23:41.496722-04:00.hyperlinks.json) |
+| [August 9 at 1:40 AM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-09T08:40:18.504904-04:00.hyperlinks.json) |
+| [August 8 at 1:36 PM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-08T20:36:03.199094-04:00.hyperlinks.json) |
+| [August 8 at 12:20 AM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-08T07:20:20.289979-04:00.hyperlinks.json) |
+| [August 7 at 1:43 PM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-07T20:43:41.155874-04:00.hyperlinks.json) |
+| [August 7 at 1:23 AM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-07T08:23:41.352061-04:00.hyperlinks.json) |
+| [August 6 at 1:26 PM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-06T20:26:08.705234-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 11 at 7:36 AM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-11T07:36:13.415807-04:00.accessibility.json) |
-| [August 10 at 8:39 PM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-10T20:39:46.028482-04:00.accessibility.json) |
-| [August 10 at 8:53 AM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-10T08:53:24.745754-04:00.accessibility.json) |
-| [August 9 at 7:23 PM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-09T19:23:41.496722-04:00.accessibility.json) |
-| [August 9 at 8:40 AM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-09T08:40:18.504904-04:00.accessibility.json) |
-| [August 8 at 8:36 PM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-08T20:36:03.199094-04:00.accessibility.json) |
-| [August 8 at 7:20 AM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-08T07:20:20.289979-04:00.accessibility.json) |
-| [August 7 at 8:43 PM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-07T20:43:41.155874-04:00.accessibility.json) |
-| [August 7 at 8:23 AM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-07T08:23:41.352061-04:00.accessibility.json) |
-| [August 6 at 8:26 PM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-06T20:26:08.705234-04:00.accessibility.json) |
+| [August 11 at 12:36 AM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-11T07:36:13.415807-04:00.accessibility.json) |
+| [August 10 at 1:39 PM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-10T20:39:46.028482-04:00.accessibility.json) |
+| [August 10 at 1:53 AM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-10T08:53:24.745754-04:00.accessibility.json) |
+| [August 9 at 12:23 PM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-09T19:23:41.496722-04:00.accessibility.json) |
+| [August 9 at 1:40 AM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-09T08:40:18.504904-04:00.accessibility.json) |
+| [August 8 at 1:36 PM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-08T20:36:03.199094-04:00.accessibility.json) |
+| [August 8 at 12:20 AM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-08T07:20:20.289979-04:00.accessibility.json) |
+| [August 7 at 1:43 PM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-07T20:43:41.155874-04:00.accessibility.json) |
+| [August 7 at 1:23 AM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-07T08:23:41.352061-04:00.accessibility.json) |
+| [August 6 at 1:26 PM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-06T20:26:08.705234-04:00.accessibility.json) |
 
 
 
@@ -525,16 +525,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 11 at 7:36 AM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-11T07:36:13.415807-04:00.lighthouse.json) |
-| [August 10 at 8:39 PM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-10T20:39:46.028482-04:00.lighthouse.json) |
-| [August 10 at 8:53 AM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-10T08:53:24.745754-04:00.lighthouse.json) |
-| [August 9 at 7:23 PM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-09T19:23:41.496722-04:00.lighthouse.json) |
-| [August 9 at 8:40 AM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-09T08:40:18.504904-04:00.lighthouse.json) |
-| [August 8 at 8:36 PM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-08T20:36:03.199094-04:00.lighthouse.json) |
-| [August 8 at 7:20 AM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-08T07:20:20.289979-04:00.lighthouse.json) |
-| [August 7 at 8:43 PM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-07T20:43:41.155874-04:00.lighthouse.json) |
-| [August 7 at 8:23 AM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-07T08:23:41.352061-04:00.lighthouse.json) |
-| [August 6 at 8:26 PM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-06T20:26:08.705234-04:00.lighthouse.json) |
+| [August 11 at 12:36 AM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-11T07:36:13.415807-04:00.lighthouse.json) |
+| [August 10 at 1:39 PM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-10T20:39:46.028482-04:00.lighthouse.json) |
+| [August 10 at 1:53 AM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-10T08:53:24.745754-04:00.lighthouse.json) |
+| [August 9 at 12:23 PM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-09T19:23:41.496722-04:00.lighthouse.json) |
+| [August 9 at 1:40 AM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-09T08:40:18.504904-04:00.lighthouse.json) |
+| [August 8 at 1:36 PM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-08T20:36:03.199094-04:00.lighthouse.json) |
+| [August 8 at 12:20 AM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-08T07:20:20.289979-04:00.lighthouse.json) |
+| [August 7 at 1:43 PM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-07T20:43:41.155874-04:00.lighthouse.json) |
+| [August 7 at 1:23 AM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-07T08:23:41.352061-04:00.lighthouse.json) |
+| [August 6 at 1:26 PM](https://archive.org/download/buckscoherald-2022/buckscoherald-2022-08-06T20:26:08.705234-04:00.lighthouse.json) |
 
 
 

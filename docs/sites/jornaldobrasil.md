@@ -31,109 +31,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-11T10:33:15.304740-03:00.jpg">
   <img src="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-11T10:33:15.304740-03:00.jpg"
-     alt="Jornal do Brasil at 2022-08-11 10:33:17-03:00 local time"
+     alt="Jornal do Brasil at 2022-08-11 03:33:17-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-11T10:33:15.304740-03:00.jpg">August 11 at 10:33 AM</a></p>
+ <p><a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-11T10:33:15.304740-03:00.jpg">August 11 at 3:33 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-11T10:28:52.166718-03:00.jpg">
   <img src="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-11T10:28:52.166718-03:00.jpg"
-     alt="Jornal do Brasil at 2022-08-11 10:28:53-03:00 local time"
+     alt="Jornal do Brasil at 2022-08-11 03:28:53-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-11T10:28:52.166718-03:00.jpg">August 11 at 10:28 AM</a></p>
+ <p><a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-11T10:28:52.166718-03:00.jpg">August 11 at 3:28 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-10T21:49:06.137418-03:00.jpg">
   <img src="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-10T21:49:06.137418-03:00.jpg"
-     alt="Jornal do Brasil at 2022-08-10 21:49:08-03:00 local time"
+     alt="Jornal do Brasil at 2022-08-10 14:49:08-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-10T21:49:06.137418-03:00.jpg">August 10 at 9:49 PM</a></p>
+ <p><a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-10T21:49:06.137418-03:00.jpg">August 10 at 2:49 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-10T10:22:18.427220-03:00.jpg">
   <img src="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-10T10:22:18.427220-03:00.jpg"
-     alt="Jornal do Brasil at 2022-08-10 10:22:19-03:00 local time"
+     alt="Jornal do Brasil at 2022-08-10 03:22:19-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-10T10:22:18.427220-03:00.jpg">August 10 at 10:22 AM</a></p>
+ <p><a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-10T10:22:18.427220-03:00.jpg">August 10 at 3:22 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-10T10:05:16.520993-03:00.jpg">
   <img src="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-10T10:05:16.520993-03:00.jpg"
-     alt="Jornal do Brasil at 2022-08-10 10:05:18-03:00 local time"
+     alt="Jornal do Brasil at 2022-08-10 03:05:18-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-10T10:05:16.520993-03:00.jpg">August 10 at 10:05 AM</a></p>
+ <p><a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-10T10:05:16.520993-03:00.jpg">August 10 at 3:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-09T21:50:42.874597-03:00.jpg">
   <img src="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-09T21:50:42.874597-03:00.jpg"
-     alt="Jornal do Brasil at 2022-08-09 21:50:44-03:00 local time"
+     alt="Jornal do Brasil at 2022-08-09 14:50:44-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-09T21:50:42.874597-03:00.jpg">August 9 at 9:50 PM</a></p>
+ <p><a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-09T21:50:42.874597-03:00.jpg">August 9 at 2:50 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-09T09:51:53.334490-03:00.jpg">
   <img src="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-09T09:51:53.334490-03:00.jpg"
-     alt="Jornal do Brasil at 2022-08-09 09:51:55-03:00 local time"
+     alt="Jornal do Brasil at 2022-08-09 02:51:55-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-09T09:51:53.334490-03:00.jpg">August 9 at 9:51 AM</a></p>
+ <p><a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-09T09:51:53.334490-03:00.jpg">August 9 at 2:51 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-08T21:45:54.973429-03:00.jpg">
   <img src="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-08T21:45:54.973429-03:00.jpg"
-     alt="Jornal do Brasil at 2022-08-08 21:45:56-03:00 local time"
+     alt="Jornal do Brasil at 2022-08-08 14:45:56-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-08T21:45:54.973429-03:00.jpg">August 8 at 9:45 PM</a></p>
+ <p><a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-08T21:45:54.973429-03:00.jpg">August 8 at 2:45 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-08T09:38:09.590834-03:00.jpg">
   <img src="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-08T09:38:09.590834-03:00.jpg"
-     alt="Jornal do Brasil at 2022-08-08 09:38:11-03:00 local time"
+     alt="Jornal do Brasil at 2022-08-08 02:38:11-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-08T09:38:09.590834-03:00.jpg">August 8 at 9:38 AM</a></p>
+ <p><a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-08T09:38:09.590834-03:00.jpg">August 8 at 2:38 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-07T21:56:54.531939-03:00.jpg">
   <img src="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-07T21:56:54.531939-03:00.jpg"
-     alt="Jornal do Brasil at 2022-08-07 21:56:57-03:00 local time"
+     alt="Jornal do Brasil at 2022-08-07 14:56:57-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-07T21:56:54.531939-03:00.jpg">August 7 at 9:56 PM</a></p>
+ <p><a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-07T21:56:54.531939-03:00.jpg">August 7 at 2:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-07T16:42:04.275141-03:00.jpg">
   <img src="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-07T16:42:04.275141-03:00.jpg"
-     alt="Jornal do Brasil at 2022-08-07 16:42:06-03:00 local time"
+     alt="Jornal do Brasil at 2022-08-07 09:42:06-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-07T16:42:04.275141-03:00.jpg">August 7 at 4:42 PM</a></p>
+ <p><a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-07T16:42:04.275141-03:00.jpg">August 7 at 9:42 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-07T09:34:41.290137-03:00.jpg">
   <img src="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-07T09:34:41.290137-03:00.jpg"
-     alt="Jornal do Brasil at 2022-08-07 09:34:42-03:00 local time"
+     alt="Jornal do Brasil at 2022-08-07 02:34:42-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-07T09:34:41.290137-03:00.jpg">August 7 at 9:34 AM</a></p>
+ <p><a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-07T09:34:41.290137-03:00.jpg">August 7 at 2:34 AM</a></p>
 </div>
 
 </div>
@@ -148,16 +148,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 11 at 10:33 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-11T10:33:15.304740-03:00.hyperlinks.json) |
-| [August 11 at 10:28 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-11T10:28:52.166718-03:00.hyperlinks.json) |
-| [August 10 at 9:49 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-10T21:49:06.137418-03:00.hyperlinks.json) |
-| [August 10 at 10:22 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-10T10:22:18.427220-03:00.hyperlinks.json) |
-| [August 10 at 10:05 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-10T10:05:16.520993-03:00.hyperlinks.json) |
-| [August 9 at 9:50 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-09T21:50:42.874597-03:00.hyperlinks.json) |
-| [August 9 at 9:51 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-09T09:51:53.334490-03:00.hyperlinks.json) |
-| [August 8 at 9:45 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-08T21:45:54.973429-03:00.hyperlinks.json) |
-| [August 8 at 9:38 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-08T09:38:09.590834-03:00.hyperlinks.json) |
-| [August 7 at 9:57 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-07T21:56:54.531939-03:00.hyperlinks.json) |
+| [August 11 at 3:33 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-11T10:33:15.304740-03:00.hyperlinks.json) |
+| [August 11 at 3:28 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-11T10:28:52.166718-03:00.hyperlinks.json) |
+| [August 10 at 2:49 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-10T21:49:06.137418-03:00.hyperlinks.json) |
+| [August 10 at 3:22 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-10T10:22:18.427220-03:00.hyperlinks.json) |
+| [August 10 at 3:05 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-10T10:05:16.520993-03:00.hyperlinks.json) |
+| [August 9 at 2:50 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-09T21:50:42.874597-03:00.hyperlinks.json) |
+| [August 9 at 2:51 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-09T09:51:53.334490-03:00.hyperlinks.json) |
+| [August 8 at 2:45 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-08T21:45:54.973429-03:00.hyperlinks.json) |
+| [August 8 at 2:38 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-08T09:38:09.590834-03:00.hyperlinks.json) |
+| [August 7 at 2:57 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-07T21:56:54.531939-03:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -170,16 +170,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 11 at 10:33 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-11T10:33:15.304740-03:00.accessibility.json) |
-| [August 11 at 10:28 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-11T10:28:52.166718-03:00.accessibility.json) |
-| [August 10 at 9:49 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-10T21:49:06.137418-03:00.accessibility.json) |
-| [August 10 at 10:22 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-10T10:22:18.427220-03:00.accessibility.json) |
-| [August 10 at 10:05 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-10T10:05:16.520993-03:00.accessibility.json) |
-| [August 9 at 9:50 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-09T21:50:42.874597-03:00.accessibility.json) |
-| [August 9 at 9:51 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-09T09:51:53.334490-03:00.accessibility.json) |
-| [August 8 at 9:45 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-08T21:45:54.973429-03:00.accessibility.json) |
-| [August 8 at 9:38 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-08T09:38:09.590834-03:00.accessibility.json) |
-| [August 7 at 9:56 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-07T21:56:54.531939-03:00.accessibility.json) |
+| [August 11 at 3:33 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-11T10:33:15.304740-03:00.accessibility.json) |
+| [August 11 at 3:28 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-11T10:28:52.166718-03:00.accessibility.json) |
+| [August 10 at 2:49 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-10T21:49:06.137418-03:00.accessibility.json) |
+| [August 10 at 3:22 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-10T10:22:18.427220-03:00.accessibility.json) |
+| [August 10 at 3:05 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-10T10:05:16.520993-03:00.accessibility.json) |
+| [August 9 at 2:50 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-09T21:50:42.874597-03:00.accessibility.json) |
+| [August 9 at 2:51 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-09T09:51:53.334490-03:00.accessibility.json) |
+| [August 8 at 2:45 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-08T21:45:54.973429-03:00.accessibility.json) |
+| [August 8 at 2:38 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-08T09:38:09.590834-03:00.accessibility.json) |
+| [August 7 at 2:56 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-07T21:56:54.531939-03:00.accessibility.json) |
 
 
 
@@ -193,16 +193,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 11 at 10:33 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-11T10:33:15.304740-03:00.lighthouse.json) |
-| [August 11 at 10:28 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-11T10:28:52.166718-03:00.lighthouse.json) |
-| [August 10 at 9:49 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-10T21:49:06.137418-03:00.lighthouse.json) |
-| [August 10 at 10:22 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-10T10:22:18.427220-03:00.lighthouse.json) |
-| [August 10 at 10:05 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-10T10:05:16.520993-03:00.lighthouse.json) |
-| [August 9 at 9:50 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-09T21:50:42.874597-03:00.lighthouse.json) |
-| [August 9 at 9:52 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-09T09:51:53.334490-03:00.lighthouse.json) |
-| [August 8 at 9:46 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-08T21:45:54.973429-03:00.lighthouse.json) |
-| [August 8 at 9:38 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-08T09:38:09.590834-03:00.lighthouse.json) |
-| [August 7 at 9:57 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-07T21:56:54.531939-03:00.lighthouse.json) |
+| [August 11 at 3:33 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-11T10:33:15.304740-03:00.lighthouse.json) |
+| [August 11 at 3:28 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-11T10:28:52.166718-03:00.lighthouse.json) |
+| [August 10 at 2:49 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-10T21:49:06.137418-03:00.lighthouse.json) |
+| [August 10 at 3:22 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-10T10:22:18.427220-03:00.lighthouse.json) |
+| [August 10 at 3:05 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-10T10:05:16.520993-03:00.lighthouse.json) |
+| [August 9 at 2:50 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-09T21:50:42.874597-03:00.lighthouse.json) |
+| [August 9 at 2:52 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-09T09:51:53.334490-03:00.lighthouse.json) |
+| [August 8 at 2:46 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-08T21:45:54.973429-03:00.lighthouse.json) |
+| [August 8 at 2:38 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-08T09:38:09.590834-03:00.lighthouse.json) |
+| [August 7 at 2:57 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-07T21:56:54.531939-03:00.lighthouse.json) |
 
 
 

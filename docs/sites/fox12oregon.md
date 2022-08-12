@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-10T20:50:51.600012-07:00.jpg">
   <img src="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-10T20:50:51.600012-07:00.jpg"
-     alt="Fox 12 Oregon at 2022-08-10 20:50:55-07:00 local time"
+     alt="Fox 12 Oregon at 2022-08-10 13:50:55-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-10T20:50:51.600012-07:00.jpg">August 10 at 8:50 PM</a></p>
+ <p><a href="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-10T20:50:51.600012-07:00.jpg">August 10 at 1:50 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-10T11:01:51.952319-07:00.jpg">
   <img src="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-10T11:01:51.952319-07:00.jpg"
-     alt="Fox 12 Oregon at 2022-08-10 11:01:53-07:00 local time"
+     alt="Fox 12 Oregon at 2022-08-10 04:01:53-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-10T11:01:51.952319-07:00.jpg">August 10 at 11:01 AM</a></p>
+ <p><a href="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-10T11:01:51.952319-07:00.jpg">August 10 at 4:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-09T20:58:33.099261-07:00.jpg">
   <img src="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-09T20:58:33.099261-07:00.jpg"
-     alt="Fox 12 Oregon at 2022-08-09 20:58:35-07:00 local time"
+     alt="Fox 12 Oregon at 2022-08-09 13:58:35-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-09T20:58:33.099261-07:00.jpg">August 9 at 8:58 PM</a></p>
+ <p><a href="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-09T20:58:33.099261-07:00.jpg">August 9 at 1:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-09T10:23:04.371125-07:00.jpg">
   <img src="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-09T10:23:04.371125-07:00.jpg"
-     alt="Fox 12 Oregon at 2022-08-09 10:23:07-07:00 local time"
+     alt="Fox 12 Oregon at 2022-08-09 03:23:07-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-09T10:23:04.371125-07:00.jpg">August 9 at 10:23 AM</a></p>
+ <p><a href="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-09T10:23:04.371125-07:00.jpg">August 9 at 3:23 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-08T20:43:14.243334-07:00.jpg">
   <img src="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-08T20:43:14.243334-07:00.jpg"
-     alt="Fox 12 Oregon at 2022-08-08 20:43:16-07:00 local time"
+     alt="Fox 12 Oregon at 2022-08-08 13:43:16-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-08T20:43:14.243334-07:00.jpg">August 8 at 8:43 PM</a></p>
+ <p><a href="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-08T20:43:14.243334-07:00.jpg">August 8 at 1:43 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-08T09:59:12.408957-07:00.jpg">
   <img src="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-08T09:59:12.408957-07:00.jpg"
-     alt="Fox 12 Oregon at 2022-08-08 09:59:14-07:00 local time"
+     alt="Fox 12 Oregon at 2022-08-08 02:59:14-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-08T09:59:12.408957-07:00.jpg">August 8 at 9:59 AM</a></p>
+ <p><a href="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-08T09:59:12.408957-07:00.jpg">August 8 at 2:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-07T22:07:34.575028-07:00.jpg">
   <img src="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-07T22:07:34.575028-07:00.jpg"
-     alt="Fox 12 Oregon at 2022-08-07 22:07:37-07:00 local time"
+     alt="Fox 12 Oregon at 2022-08-07 15:07:37-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-07T22:07:34.575028-07:00.jpg">August 7 at 10:07 PM</a></p>
+ <p><a href="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-07T22:07:34.575028-07:00.jpg">August 7 at 3:07 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-07T09:47:31.749934-07:00.jpg">
   <img src="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-07T09:47:31.749934-07:00.jpg"
-     alt="Fox 12 Oregon at 2022-08-07 09:47:33-07:00 local time"
+     alt="Fox 12 Oregon at 2022-08-07 02:47:33-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-07T09:47:31.749934-07:00.jpg">August 7 at 9:47 AM</a></p>
+ <p><a href="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-07T09:47:31.749934-07:00.jpg">August 7 at 2:47 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-06T20:21:28.374240-07:00.jpg">
   <img src="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-06T20:21:28.374240-07:00.jpg"
-     alt="Fox 12 Oregon at 2022-08-06 20:21:35-07:00 local time"
+     alt="Fox 12 Oregon at 2022-08-06 13:21:35-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-06T20:21:28.374240-07:00.jpg">August 6 at 8:21 PM</a></p>
+ <p><a href="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-06T20:21:28.374240-07:00.jpg">August 6 at 1:21 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-06T09:09:51.170757-07:00.jpg">
   <img src="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-06T09:09:51.170757-07:00.jpg"
-     alt="Fox 12 Oregon at 2022-08-06 09:09:54-07:00 local time"
+     alt="Fox 12 Oregon at 2022-08-06 02:09:54-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-06T09:09:51.170757-07:00.jpg">August 6 at 9:09 AM</a></p>
+ <p><a href="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-06T09:09:51.170757-07:00.jpg">August 6 at 2:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-05T21:48:08.021478-07:00.jpg">
   <img src="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-05T21:48:08.021478-07:00.jpg"
-     alt="Fox 12 Oregon at 2022-08-05 21:48:10-07:00 local time"
+     alt="Fox 12 Oregon at 2022-08-05 14:48:10-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-05T21:48:08.021478-07:00.jpg">August 5 at 9:48 PM</a></p>
+ <p><a href="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-05T21:48:08.021478-07:00.jpg">August 5 at 2:48 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-05T10:20:09.182119-07:00.jpg">
   <img src="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-05T10:20:09.182119-07:00.jpg"
-     alt="Fox 12 Oregon at 2022-08-05 10:20:18-07:00 local time"
+     alt="Fox 12 Oregon at 2022-08-05 03:20:18-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-05T10:20:09.182119-07:00.jpg">August 5 at 10:20 AM</a></p>
+ <p><a href="https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-05T10:20:09.182119-07:00.jpg">August 5 at 3:20 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 10 at 8:51 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-10T20:50:51.600012-07:00.hyperlinks.json) |
-| [August 10 at 11:01 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-10T11:01:51.952319-07:00.hyperlinks.json) |
-| [August 9 at 8:58 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-09T20:58:33.099261-07:00.hyperlinks.json) |
-| [August 8 at 8:43 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-08T20:43:14.243334-07:00.hyperlinks.json) |
-| [August 8 at 9:59 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-08T09:59:12.408957-07:00.hyperlinks.json) |
-| [August 7 at 10:07 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-07T22:07:34.575028-07:00.hyperlinks.json) |
-| [August 7 at 9:47 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-07T09:47:31.749934-07:00.hyperlinks.json) |
-| [August 6 at 8:21 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-06T20:21:28.374240-07:00.hyperlinks.json) |
-| [August 6 at 9:09 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-06T09:09:51.170757-07:00.hyperlinks.json) |
-| [August 5 at 9:48 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-05T21:48:08.021478-07:00.hyperlinks.json) |
+| [August 10 at 1:51 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-10T20:50:51.600012-07:00.hyperlinks.json) |
+| [August 10 at 4:01 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-10T11:01:51.952319-07:00.hyperlinks.json) |
+| [August 9 at 1:58 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-09T20:58:33.099261-07:00.hyperlinks.json) |
+| [August 8 at 1:43 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-08T20:43:14.243334-07:00.hyperlinks.json) |
+| [August 8 at 2:59 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-08T09:59:12.408957-07:00.hyperlinks.json) |
+| [August 7 at 3:07 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-07T22:07:34.575028-07:00.hyperlinks.json) |
+| [August 7 at 2:47 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-07T09:47:31.749934-07:00.hyperlinks.json) |
+| [August 6 at 1:21 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-06T20:21:28.374240-07:00.hyperlinks.json) |
+| [August 6 at 2:09 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-06T09:09:51.170757-07:00.hyperlinks.json) |
+| [August 5 at 2:48 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-05T21:48:08.021478-07:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 10 at 8:50 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-10T20:50:51.600012-07:00.accessibility.json) |
-| [August 10 at 11:01 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-10T11:01:51.952319-07:00.accessibility.json) |
-| [August 9 at 8:58 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-09T20:58:33.099261-07:00.accessibility.json) |
-| [August 9 at 10:23 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-09T10:23:04.371125-07:00.accessibility.json) |
-| [August 8 at 8:43 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-08T20:43:14.243334-07:00.accessibility.json) |
-| [August 8 at 9:59 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-08T09:59:12.408957-07:00.accessibility.json) |
-| [August 7 at 10:07 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-07T22:07:34.575028-07:00.accessibility.json) |
-| [August 7 at 9:47 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-07T09:47:31.749934-07:00.accessibility.json) |
-| [August 6 at 8:21 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-06T20:21:28.374240-07:00.accessibility.json) |
-| [August 6 at 9:09 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-06T09:09:51.170757-07:00.accessibility.json) |
+| [August 10 at 1:50 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-10T20:50:51.600012-07:00.accessibility.json) |
+| [August 10 at 4:01 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-10T11:01:51.952319-07:00.accessibility.json) |
+| [August 9 at 1:58 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-09T20:58:33.099261-07:00.accessibility.json) |
+| [August 9 at 3:23 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-09T10:23:04.371125-07:00.accessibility.json) |
+| [August 8 at 1:43 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-08T20:43:14.243334-07:00.accessibility.json) |
+| [August 8 at 2:59 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-08T09:59:12.408957-07:00.accessibility.json) |
+| [August 7 at 3:07 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-07T22:07:34.575028-07:00.accessibility.json) |
+| [August 7 at 2:47 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-07T09:47:31.749934-07:00.accessibility.json) |
+| [August 6 at 1:21 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-06T20:21:28.374240-07:00.accessibility.json) |
+| [August 6 at 2:09 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-06T09:09:51.170757-07:00.accessibility.json) |
 
 
 
@@ -525,16 +525,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 10 at 8:51 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-10T20:50:51.600012-07:00.lighthouse.json) |
-| [August 10 at 11:01 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-10T11:01:51.952319-07:00.lighthouse.json) |
-| [August 9 at 8:58 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-09T20:58:33.099261-07:00.lighthouse.json) |
-| [August 9 at 10:23 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-09T10:23:04.371125-07:00.lighthouse.json) |
-| [August 8 at 8:43 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-08T20:43:14.243334-07:00.lighthouse.json) |
-| [August 8 at 9:59 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-08T09:59:12.408957-07:00.lighthouse.json) |
-| [August 7 at 10:07 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-07T22:07:34.575028-07:00.lighthouse.json) |
-| [August 7 at 9:47 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-07T09:47:31.749934-07:00.lighthouse.json) |
-| [August 6 at 8:21 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-06T20:21:28.374240-07:00.lighthouse.json) |
-| [August 6 at 9:10 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-06T09:09:51.170757-07:00.lighthouse.json) |
+| [August 10 at 1:51 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-10T20:50:51.600012-07:00.lighthouse.json) |
+| [August 10 at 4:01 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-10T11:01:51.952319-07:00.lighthouse.json) |
+| [August 9 at 1:58 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-09T20:58:33.099261-07:00.lighthouse.json) |
+| [August 9 at 3:23 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-09T10:23:04.371125-07:00.lighthouse.json) |
+| [August 8 at 1:43 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-08T20:43:14.243334-07:00.lighthouse.json) |
+| [August 8 at 2:59 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-08T09:59:12.408957-07:00.lighthouse.json) |
+| [August 7 at 3:07 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-07T22:07:34.575028-07:00.lighthouse.json) |
+| [August 7 at 2:47 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-07T09:47:31.749934-07:00.lighthouse.json) |
+| [August 6 at 1:21 PM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-06T20:21:28.374240-07:00.lighthouse.json) |
+| [August 6 at 2:10 AM](https://archive.org/download/fox12oregon-2022/fox12oregon-2022-08-06T09:09:51.170757-07:00.lighthouse.json) |
 
 
 

@@ -31,10 +31,10 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/sz-2022/sz-2022-08-11T03:00:26.190642+02:00.jpg">
   <img src="https://archive.org/download/sz-2022/sz-2022-08-11T03:00:26.190642+02:00.jpg"
-     alt="Süddeutsche Zeitung at 2022-08-11 03:00:32+02:00 local time"
+     alt="Süddeutsche Zeitung at 2022-08-10 20:00:32+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/sz-2022/sz-2022-08-11T03:00:26.190642+02:00.jpg">August 11 at 3:00 AM</a></p>
+ <p><a href="https://archive.org/download/sz-2022/sz-2022-08-11T03:00:26.190642+02:00.jpg">August 10 at 8:00 PM</a></p>
 </div>
 
 </div>
@@ -49,7 +49,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 11 at 3:00 AM](https://archive.org/download/sz-2022/sz-2022-08-11T03:00:26.190642+02:00.hyperlinks.json) |
+| [August 10 at 8:00 PM](https://archive.org/download/sz-2022/sz-2022-08-11T03:00:26.190642+02:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -62,7 +62,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 11 at 3:00 AM](https://archive.org/download/sz-2022/sz-2022-08-11T03:00:26.190642+02:00.accessibility.json) |
+| [August 10 at 8:00 PM](https://archive.org/download/sz-2022/sz-2022-08-11T03:00:26.190642+02:00.accessibility.json) |
 
 
 
@@ -76,7 +76,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 11 at 3:00 AM](https://archive.org/download/sz-2022/sz-2022-08-11T03:00:26.190642+02:00.lighthouse.json) |
+| [August 10 at 8:00 PM](https://archive.org/download/sz-2022/sz-2022-08-11T03:00:26.190642+02:00.lighthouse.json) |
 
 
 

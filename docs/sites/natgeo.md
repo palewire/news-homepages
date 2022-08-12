@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-11T09:42:19.196285-04:00.jpg">
   <img src="https://archive.org/download/natgeo-2022/natgeo-2022-08-11T09:42:19.196285-04:00.jpg"
-     alt="National Geographic at 2022-08-11 09:42:22-04:00 local time"
+     alt="National Geographic at 2022-08-11 02:42:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-11T09:42:19.196285-04:00.jpg">August 11 at 9:42 AM</a></p>
+ <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-11T09:42:19.196285-04:00.jpg">August 11 at 2:42 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-10T20:53:55.193069-04:00.jpg">
   <img src="https://archive.org/download/natgeo-2022/natgeo-2022-08-10T20:53:55.193069-04:00.jpg"
-     alt="National Geographic at 2022-08-10 20:54:00-04:00 local time"
+     alt="National Geographic at 2022-08-10 13:54:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-10T20:53:55.193069-04:00.jpg">August 10 at 8:54 PM</a></p>
+ <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-10T20:53:55.193069-04:00.jpg">August 10 at 1:54 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-10T09:10:37.662941-04:00.jpg">
   <img src="https://archive.org/download/natgeo-2022/natgeo-2022-08-10T09:10:37.662941-04:00.jpg"
-     alt="National Geographic at 2022-08-10 09:10:41-04:00 local time"
+     alt="National Geographic at 2022-08-10 02:10:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-10T09:10:37.662941-04:00.jpg">August 10 at 9:10 AM</a></p>
+ <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-10T09:10:37.662941-04:00.jpg">August 10 at 2:10 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-09T20:58:47.699383-04:00.jpg">
   <img src="https://archive.org/download/natgeo-2022/natgeo-2022-08-09T20:58:47.699383-04:00.jpg"
-     alt="National Geographic at 2022-08-09 20:58:49-04:00 local time"
+     alt="National Geographic at 2022-08-09 13:58:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-09T20:58:47.699383-04:00.jpg">August 9 at 8:58 PM</a></p>
+ <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-09T20:58:47.699383-04:00.jpg">August 9 at 1:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-09T08:57:03.948991-04:00.jpg">
   <img src="https://archive.org/download/natgeo-2022/natgeo-2022-08-09T08:57:03.948991-04:00.jpg"
-     alt="National Geographic at 2022-08-09 08:57:07-04:00 local time"
+     alt="National Geographic at 2022-08-09 01:57:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-09T08:57:03.948991-04:00.jpg">August 9 at 8:57 AM</a></p>
+ <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-09T08:57:03.948991-04:00.jpg">August 9 at 1:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-08T20:52:50.038957-04:00.jpg">
   <img src="https://archive.org/download/natgeo-2022/natgeo-2022-08-08T20:52:50.038957-04:00.jpg"
-     alt="National Geographic at 2022-08-08 20:53:00-04:00 local time"
+     alt="National Geographic at 2022-08-08 13:53:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-08T20:52:50.038957-04:00.jpg">August 8 at 8:53 PM</a></p>
+ <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-08T20:52:50.038957-04:00.jpg">August 8 at 1:53 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-08T08:45:04.789396-04:00.jpg">
   <img src="https://archive.org/download/natgeo-2022/natgeo-2022-08-08T08:45:04.789396-04:00.jpg"
-     alt="National Geographic at 2022-08-08 08:45:06-04:00 local time"
+     alt="National Geographic at 2022-08-08 01:45:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-08T08:45:04.789396-04:00.jpg">August 8 at 8:45 AM</a></p>
+ <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-08T08:45:04.789396-04:00.jpg">August 8 at 1:45 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-07T21:01:38.557828-04:00.jpg">
   <img src="https://archive.org/download/natgeo-2022/natgeo-2022-08-07T21:01:38.557828-04:00.jpg"
-     alt="National Geographic at 2022-08-07 21:01:41-04:00 local time"
+     alt="National Geographic at 2022-08-07 14:01:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-07T21:01:38.557828-04:00.jpg">August 7 at 9:01 PM</a></p>
+ <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-07T21:01:38.557828-04:00.jpg">August 7 at 2:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-07T08:39:29.029008-04:00.jpg">
   <img src="https://archive.org/download/natgeo-2022/natgeo-2022-08-07T08:39:29.029008-04:00.jpg"
-     alt="National Geographic at 2022-08-07 08:39:32-04:00 local time"
+     alt="National Geographic at 2022-08-07 01:39:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-07T08:39:29.029008-04:00.jpg">August 7 at 8:39 AM</a></p>
+ <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-07T08:39:29.029008-04:00.jpg">August 7 at 1:39 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-06T20:41:35.669755-04:00.jpg">
   <img src="https://archive.org/download/natgeo-2022/natgeo-2022-08-06T20:41:35.669755-04:00.jpg"
-     alt="National Geographic at 2022-08-06 20:41:37-04:00 local time"
+     alt="National Geographic at 2022-08-06 13:41:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-06T20:41:35.669755-04:00.jpg">August 6 at 8:41 PM</a></p>
+ <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-06T20:41:35.669755-04:00.jpg">August 6 at 1:41 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-06T08:32:31.698258-04:00.jpg">
   <img src="https://archive.org/download/natgeo-2022/natgeo-2022-08-06T08:32:31.698258-04:00.jpg"
-     alt="National Geographic at 2022-08-06 08:32:34-04:00 local time"
+     alt="National Geographic at 2022-08-06 01:32:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-06T08:32:31.698258-04:00.jpg">August 6 at 8:32 AM</a></p>
+ <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-06T08:32:31.698258-04:00.jpg">August 6 at 1:32 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-05T22:06:37.556937-04:00.jpg">
   <img src="https://archive.org/download/natgeo-2022/natgeo-2022-08-05T22:06:37.556937-04:00.jpg"
-     alt="National Geographic at 2022-08-05 22:06:39-04:00 local time"
+     alt="National Geographic at 2022-08-05 15:06:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-05T22:06:37.556937-04:00.jpg">August 5 at 10:06 PM</a></p>
+ <p><a href="https://archive.org/download/natgeo-2022/natgeo-2022-08-05T22:06:37.556937-04:00.jpg">August 5 at 3:06 PM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 11 at 9:42 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-11T09:42:19.196285-04:00.hyperlinks.json) |
-| [August 10 at 8:54 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-10T20:53:55.193069-04:00.hyperlinks.json) |
-| [August 10 at 9:10 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-10T09:10:37.662941-04:00.hyperlinks.json) |
-| [August 9 at 8:58 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-09T20:58:47.699383-04:00.hyperlinks.json) |
-| [August 9 at 8:57 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-09T08:57:03.948991-04:00.hyperlinks.json) |
-| [August 8 at 8:53 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-08T20:52:50.038957-04:00.hyperlinks.json) |
-| [August 8 at 8:45 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-08T08:45:04.789396-04:00.hyperlinks.json) |
-| [August 7 at 9:01 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-07T21:01:38.557828-04:00.hyperlinks.json) |
-| [August 7 at 8:39 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-07T08:39:29.029008-04:00.hyperlinks.json) |
-| [August 6 at 8:41 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-06T20:41:35.669755-04:00.hyperlinks.json) |
+| [August 11 at 2:42 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-11T09:42:19.196285-04:00.hyperlinks.json) |
+| [August 10 at 1:54 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-10T20:53:55.193069-04:00.hyperlinks.json) |
+| [August 10 at 2:10 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-10T09:10:37.662941-04:00.hyperlinks.json) |
+| [August 9 at 1:58 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-09T20:58:47.699383-04:00.hyperlinks.json) |
+| [August 9 at 1:57 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-09T08:57:03.948991-04:00.hyperlinks.json) |
+| [August 8 at 1:53 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-08T20:52:50.038957-04:00.hyperlinks.json) |
+| [August 8 at 1:45 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-08T08:45:04.789396-04:00.hyperlinks.json) |
+| [August 7 at 2:01 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-07T21:01:38.557828-04:00.hyperlinks.json) |
+| [August 7 at 1:39 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-07T08:39:29.029008-04:00.hyperlinks.json) |
+| [August 6 at 1:41 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-06T20:41:35.669755-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 11 at 9:42 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-11T09:42:19.196285-04:00.accessibility.json) |
-| [August 10 at 8:54 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-10T20:53:55.193069-04:00.accessibility.json) |
-| [August 10 at 9:10 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-10T09:10:37.662941-04:00.accessibility.json) |
-| [August 9 at 8:58 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-09T20:58:47.699383-04:00.accessibility.json) |
-| [August 9 at 8:57 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-09T08:57:03.948991-04:00.accessibility.json) |
-| [August 8 at 8:53 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-08T20:52:50.038957-04:00.accessibility.json) |
-| [August 8 at 8:45 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-08T08:45:04.789396-04:00.accessibility.json) |
-| [August 7 at 9:01 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-07T21:01:38.557828-04:00.accessibility.json) |
-| [August 7 at 8:39 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-07T08:39:29.029008-04:00.accessibility.json) |
-| [August 6 at 8:41 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-06T20:41:35.669755-04:00.accessibility.json) |
+| [August 11 at 2:42 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-11T09:42:19.196285-04:00.accessibility.json) |
+| [August 10 at 1:54 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-10T20:53:55.193069-04:00.accessibility.json) |
+| [August 10 at 2:10 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-10T09:10:37.662941-04:00.accessibility.json) |
+| [August 9 at 1:58 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-09T20:58:47.699383-04:00.accessibility.json) |
+| [August 9 at 1:57 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-09T08:57:03.948991-04:00.accessibility.json) |
+| [August 8 at 1:53 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-08T20:52:50.038957-04:00.accessibility.json) |
+| [August 8 at 1:45 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-08T08:45:04.789396-04:00.accessibility.json) |
+| [August 7 at 2:01 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-07T21:01:38.557828-04:00.accessibility.json) |
+| [August 7 at 1:39 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-07T08:39:29.029008-04:00.accessibility.json) |
+| [August 6 at 1:41 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-06T20:41:35.669755-04:00.accessibility.json) |
 
 
 
@@ -525,16 +525,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 11 at 9:42 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-11T09:42:19.196285-04:00.lighthouse.json) |
-| [August 10 at 8:54 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-10T20:53:55.193069-04:00.lighthouse.json) |
-| [August 10 at 9:10 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-10T09:10:37.662941-04:00.lighthouse.json) |
-| [August 9 at 8:58 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-09T20:58:47.699383-04:00.lighthouse.json) |
-| [August 9 at 8:57 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-09T08:57:03.948991-04:00.lighthouse.json) |
-| [August 8 at 8:53 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-08T20:52:50.038957-04:00.lighthouse.json) |
-| [August 8 at 8:45 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-08T08:45:04.789396-04:00.lighthouse.json) |
-| [August 7 at 9:01 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-07T21:01:38.557828-04:00.lighthouse.json) |
-| [August 7 at 8:39 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-07T08:39:29.029008-04:00.lighthouse.json) |
-| [August 6 at 8:41 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-06T20:41:35.669755-04:00.lighthouse.json) |
+| [August 11 at 2:42 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-11T09:42:19.196285-04:00.lighthouse.json) |
+| [August 10 at 1:54 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-10T20:53:55.193069-04:00.lighthouse.json) |
+| [August 10 at 2:10 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-10T09:10:37.662941-04:00.lighthouse.json) |
+| [August 9 at 1:58 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-09T20:58:47.699383-04:00.lighthouse.json) |
+| [August 9 at 1:57 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-09T08:57:03.948991-04:00.lighthouse.json) |
+| [August 8 at 1:53 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-08T20:52:50.038957-04:00.lighthouse.json) |
+| [August 8 at 1:45 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-08T08:45:04.789396-04:00.lighthouse.json) |
+| [August 7 at 2:01 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-07T21:01:38.557828-04:00.lighthouse.json) |
+| [August 7 at 1:39 AM](https://archive.org/download/natgeo-2022/natgeo-2022-08-07T08:39:29.029008-04:00.lighthouse.json) |
+| [August 6 at 1:41 PM](https://archive.org/download/natgeo-2022/natgeo-2022-08-06T20:41:35.669755-04:00.lighthouse.json) |
 
 
 

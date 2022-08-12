@@ -31,10 +31,10 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-08-11T05:48:18.219789+02:00.jpg">
   <img src="https://archive.org/download/derspiegel-2022/derspiegel-2022-08-11T05:48:18.219789+02:00.jpg"
-     alt="Der Spiegel at 2022-08-11 05:48:23+02:00 local time"
+     alt="Der Spiegel at 2022-08-10 22:48:23+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-08-11T05:48:18.219789+02:00.jpg">August 11 at 5:48 AM</a></p>
+ <p><a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-08-11T05:48:18.219789+02:00.jpg">August 10 at 10:48 PM</a></p>
 </div>
 
 </div>
@@ -49,7 +49,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 11 at 5:48 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-11T05:48:18.219789+02:00.hyperlinks.json) |
+| [August 10 at 10:48 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-11T05:48:18.219789+02:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -62,7 +62,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 11 at 5:48 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-11T05:48:18.219789+02:00.accessibility.json) |
+| [August 10 at 10:48 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-11T05:48:18.219789+02:00.accessibility.json) |
 
 
 
@@ -76,7 +76,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 11 at 5:48 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-11T05:48:18.219789+02:00.lighthouse.json) |
+| [August 10 at 10:48 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-11T05:48:18.219789+02:00.lighthouse.json) |
 
 
 

@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/newsweek-2022/newsweek-2022-08-11T09:43:30.528442-04:00.jpg">
   <img src="https://archive.org/download/newsweek-2022/newsweek-2022-08-11T09:43:30.528442-04:00.jpg"
-     alt="Newsweek at 2022-08-11 09:43:35-04:00 local time"
+     alt="Newsweek at 2022-08-11 02:43:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-08-11T09:43:30.528442-04:00.jpg">August 11 at 9:43 AM</a></p>
+ <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-08-11T09:43:30.528442-04:00.jpg">August 11 at 2:43 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsweek-2022/newsweek-2022-08-10T20:55:31.109976-04:00.jpg">
   <img src="https://archive.org/download/newsweek-2022/newsweek-2022-08-10T20:55:31.109976-04:00.jpg"
-     alt="Newsweek at 2022-08-10 20:55:34-04:00 local time"
+     alt="Newsweek at 2022-08-10 13:55:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-08-10T20:55:31.109976-04:00.jpg">August 10 at 8:55 PM</a></p>
+ <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-08-10T20:55:31.109976-04:00.jpg">August 10 at 1:55 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsweek-2022/newsweek-2022-08-10T09:12:32.273716-04:00.jpg">
   <img src="https://archive.org/download/newsweek-2022/newsweek-2022-08-10T09:12:32.273716-04:00.jpg"
-     alt="Newsweek at 2022-08-10 09:12:36-04:00 local time"
+     alt="Newsweek at 2022-08-10 02:12:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-08-10T09:12:32.273716-04:00.jpg">August 10 at 9:12 AM</a></p>
+ <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-08-10T09:12:32.273716-04:00.jpg">August 10 at 2:12 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsweek-2022/newsweek-2022-08-09T20:59:56.574411-04:00.jpg">
   <img src="https://archive.org/download/newsweek-2022/newsweek-2022-08-09T20:59:56.574411-04:00.jpg"
-     alt="Newsweek at 2022-08-09 20:59:58-04:00 local time"
+     alt="Newsweek at 2022-08-09 13:59:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-08-09T20:59:56.574411-04:00.jpg">August 9 at 8:59 PM</a></p>
+ <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-08-09T20:59:56.574411-04:00.jpg">August 9 at 1:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsweek-2022/newsweek-2022-08-09T09:03:30.566573-04:00.jpg">
   <img src="https://archive.org/download/newsweek-2022/newsweek-2022-08-09T09:03:30.566573-04:00.jpg"
-     alt="Newsweek at 2022-08-09 09:03:32-04:00 local time"
+     alt="Newsweek at 2022-08-09 02:03:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-08-09T09:03:30.566573-04:00.jpg">August 9 at 9:03 AM</a></p>
+ <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-08-09T09:03:30.566573-04:00.jpg">August 9 at 2:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsweek-2022/newsweek-2022-08-08T20:55:41.129766-04:00.jpg">
   <img src="https://archive.org/download/newsweek-2022/newsweek-2022-08-08T20:55:41.129766-04:00.jpg"
-     alt="Newsweek at 2022-08-08 20:55:46-04:00 local time"
+     alt="Newsweek at 2022-08-08 13:55:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-08-08T20:55:41.129766-04:00.jpg">August 8 at 8:55 PM</a></p>
+ <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-08-08T20:55:41.129766-04:00.jpg">August 8 at 1:55 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsweek-2022/newsweek-2022-08-08T08:46:35.367361-04:00.jpg">
   <img src="https://archive.org/download/newsweek-2022/newsweek-2022-08-08T08:46:35.367361-04:00.jpg"
-     alt="Newsweek at 2022-08-08 08:46:40-04:00 local time"
+     alt="Newsweek at 2022-08-08 01:46:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-08-08T08:46:35.367361-04:00.jpg">August 8 at 8:46 AM</a></p>
+ <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-08-08T08:46:35.367361-04:00.jpg">August 8 at 1:46 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsweek-2022/newsweek-2022-08-07T21:03:54.498995-04:00.jpg">
   <img src="https://archive.org/download/newsweek-2022/newsweek-2022-08-07T21:03:54.498995-04:00.jpg"
-     alt="Newsweek at 2022-08-07 21:03:56-04:00 local time"
+     alt="Newsweek at 2022-08-07 14:03:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-08-07T21:03:54.498995-04:00.jpg">August 7 at 9:03 PM</a></p>
+ <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-08-07T21:03:54.498995-04:00.jpg">August 7 at 2:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsweek-2022/newsweek-2022-08-07T08:41:39.105938-04:00.jpg">
   <img src="https://archive.org/download/newsweek-2022/newsweek-2022-08-07T08:41:39.105938-04:00.jpg"
-     alt="Newsweek at 2022-08-07 08:41:42-04:00 local time"
+     alt="Newsweek at 2022-08-07 01:41:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-08-07T08:41:39.105938-04:00.jpg">August 7 at 8:41 AM</a></p>
+ <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-08-07T08:41:39.105938-04:00.jpg">August 7 at 1:41 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsweek-2022/newsweek-2022-08-06T20:42:58.786192-04:00.jpg">
   <img src="https://archive.org/download/newsweek-2022/newsweek-2022-08-06T20:42:58.786192-04:00.jpg"
-     alt="Newsweek at 2022-08-06 20:43:00-04:00 local time"
+     alt="Newsweek at 2022-08-06 13:43:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-08-06T20:42:58.786192-04:00.jpg">August 6 at 8:43 PM</a></p>
+ <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-08-06T20:42:58.786192-04:00.jpg">August 6 at 1:43 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsweek-2022/newsweek-2022-08-06T08:34:09.967358-04:00.jpg">
   <img src="https://archive.org/download/newsweek-2022/newsweek-2022-08-06T08:34:09.967358-04:00.jpg"
-     alt="Newsweek at 2022-08-06 08:34:11-04:00 local time"
+     alt="Newsweek at 2022-08-06 01:34:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-08-06T08:34:09.967358-04:00.jpg">August 6 at 8:34 AM</a></p>
+ <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-08-06T08:34:09.967358-04:00.jpg">August 6 at 1:34 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsweek-2022/newsweek-2022-08-05T22:08:55.566661-04:00.jpg">
   <img src="https://archive.org/download/newsweek-2022/newsweek-2022-08-05T22:08:55.566661-04:00.jpg"
-     alt="Newsweek at 2022-08-05 22:08:57-04:00 local time"
+     alt="Newsweek at 2022-08-05 15:08:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-08-05T22:08:55.566661-04:00.jpg">August 5 at 10:08 PM</a></p>
+ <p><a href="https://archive.org/download/newsweek-2022/newsweek-2022-08-05T22:08:55.566661-04:00.jpg">August 5 at 3:08 PM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 11 at 9:43 AM](https://archive.org/download/newsweek-2022/newsweek-2022-08-11T09:43:30.528442-04:00.hyperlinks.json) |
-| [August 10 at 8:55 PM](https://archive.org/download/newsweek-2022/newsweek-2022-08-10T20:55:31.109976-04:00.hyperlinks.json) |
-| [August 10 at 9:12 AM](https://archive.org/download/newsweek-2022/newsweek-2022-08-10T09:12:32.273716-04:00.hyperlinks.json) |
-| [August 9 at 9:00 PM](https://archive.org/download/newsweek-2022/newsweek-2022-08-09T20:59:56.574411-04:00.hyperlinks.json) |
-| [August 9 at 9:03 AM](https://archive.org/download/newsweek-2022/newsweek-2022-08-09T09:03:30.566573-04:00.hyperlinks.json) |
-| [August 8 at 8:55 PM](https://archive.org/download/newsweek-2022/newsweek-2022-08-08T20:55:41.129766-04:00.hyperlinks.json) |
-| [August 8 at 8:46 AM](https://archive.org/download/newsweek-2022/newsweek-2022-08-08T08:46:35.367361-04:00.hyperlinks.json) |
-| [August 7 at 9:03 PM](https://archive.org/download/newsweek-2022/newsweek-2022-08-07T21:03:54.498995-04:00.hyperlinks.json) |
-| [August 7 at 8:41 AM](https://archive.org/download/newsweek-2022/newsweek-2022-08-07T08:41:39.105938-04:00.hyperlinks.json) |
-| [August 6 at 8:43 PM](https://archive.org/download/newsweek-2022/newsweek-2022-08-06T20:42:58.786192-04:00.hyperlinks.json) |
+| [August 11 at 2:43 AM](https://archive.org/download/newsweek-2022/newsweek-2022-08-11T09:43:30.528442-04:00.hyperlinks.json) |
+| [August 10 at 1:55 PM](https://archive.org/download/newsweek-2022/newsweek-2022-08-10T20:55:31.109976-04:00.hyperlinks.json) |
+| [August 10 at 2:12 AM](https://archive.org/download/newsweek-2022/newsweek-2022-08-10T09:12:32.273716-04:00.hyperlinks.json) |
+| [August 9 at 2:00 PM](https://archive.org/download/newsweek-2022/newsweek-2022-08-09T20:59:56.574411-04:00.hyperlinks.json) |
+| [August 9 at 2:03 AM](https://archive.org/download/newsweek-2022/newsweek-2022-08-09T09:03:30.566573-04:00.hyperlinks.json) |
+| [August 8 at 1:55 PM](https://archive.org/download/newsweek-2022/newsweek-2022-08-08T20:55:41.129766-04:00.hyperlinks.json) |
+| [August 8 at 1:46 AM](https://archive.org/download/newsweek-2022/newsweek-2022-08-08T08:46:35.367361-04:00.hyperlinks.json) |
+| [August 7 at 2:03 PM](https://archive.org/download/newsweek-2022/newsweek-2022-08-07T21:03:54.498995-04:00.hyperlinks.json) |
+| [August 7 at 1:41 AM](https://archive.org/download/newsweek-2022/newsweek-2022-08-07T08:41:39.105938-04:00.hyperlinks.json) |
+| [August 6 at 1:43 PM](https://archive.org/download/newsweek-2022/newsweek-2022-08-06T20:42:58.786192-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 11 at 9:43 AM](https://archive.org/download/newsweek-2022/newsweek-2022-08-11T09:43:30.528442-04:00.accessibility.json) |
-| [August 10 at 8:55 PM](https://archive.org/download/newsweek-2022/newsweek-2022-08-10T20:55:31.109976-04:00.accessibility.json) |
-| [August 10 at 9:12 AM](https://archive.org/download/newsweek-2022/newsweek-2022-08-10T09:12:32.273716-04:00.accessibility.json) |
-| [August 9 at 8:59 PM](https://archive.org/download/newsweek-2022/newsweek-2022-08-09T20:59:56.574411-04:00.accessibility.json) |
-| [August 9 at 9:03 AM](https://archive.org/download/newsweek-2022/newsweek-2022-08-09T09:03:30.566573-04:00.accessibility.json) |
-| [August 8 at 8:55 PM](https://archive.org/download/newsweek-2022/newsweek-2022-08-08T20:55:41.129766-04:00.accessibility.json) |
-| [August 8 at 8:46 AM](https://archive.org/download/newsweek-2022/newsweek-2022-08-08T08:46:35.367361-04:00.accessibility.json) |
-| [August 7 at 9:03 PM](https://archive.org/download/newsweek-2022/newsweek-2022-08-07T21:03:54.498995-04:00.accessibility.json) |
-| [August 7 at 8:41 AM](https://archive.org/download/newsweek-2022/newsweek-2022-08-07T08:41:39.105938-04:00.accessibility.json) |
-| [August 6 at 8:43 PM](https://archive.org/download/newsweek-2022/newsweek-2022-08-06T20:42:58.786192-04:00.accessibility.json) |
+| [August 11 at 2:43 AM](https://archive.org/download/newsweek-2022/newsweek-2022-08-11T09:43:30.528442-04:00.accessibility.json) |
+| [August 10 at 1:55 PM](https://archive.org/download/newsweek-2022/newsweek-2022-08-10T20:55:31.109976-04:00.accessibility.json) |
+| [August 10 at 2:12 AM](https://archive.org/download/newsweek-2022/newsweek-2022-08-10T09:12:32.273716-04:00.accessibility.json) |
+| [August 9 at 1:59 PM](https://archive.org/download/newsweek-2022/newsweek-2022-08-09T20:59:56.574411-04:00.accessibility.json) |
+| [August 9 at 2:03 AM](https://archive.org/download/newsweek-2022/newsweek-2022-08-09T09:03:30.566573-04:00.accessibility.json) |
+| [August 8 at 1:55 PM](https://archive.org/download/newsweek-2022/newsweek-2022-08-08T20:55:41.129766-04:00.accessibility.json) |
+| [August 8 at 1:46 AM](https://archive.org/download/newsweek-2022/newsweek-2022-08-08T08:46:35.367361-04:00.accessibility.json) |
+| [August 7 at 2:03 PM](https://archive.org/download/newsweek-2022/newsweek-2022-08-07T21:03:54.498995-04:00.accessibility.json) |
+| [August 7 at 1:41 AM](https://archive.org/download/newsweek-2022/newsweek-2022-08-07T08:41:39.105938-04:00.accessibility.json) |
+| [August 6 at 1:43 PM](https://archive.org/download/newsweek-2022/newsweek-2022-08-06T20:42:58.786192-04:00.accessibility.json) |
 
 
 
@@ -525,16 +525,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 11 at 9:43 AM](https://archive.org/download/newsweek-2022/newsweek-2022-08-11T09:43:30.528442-04:00.lighthouse.json) |
-| [August 10 at 8:55 PM](https://archive.org/download/newsweek-2022/newsweek-2022-08-10T20:55:31.109976-04:00.lighthouse.json) |
-| [August 10 at 9:12 AM](https://archive.org/download/newsweek-2022/newsweek-2022-08-10T09:12:32.273716-04:00.lighthouse.json) |
-| [August 9 at 9:00 PM](https://archive.org/download/newsweek-2022/newsweek-2022-08-09T20:59:56.574411-04:00.lighthouse.json) |
-| [August 9 at 9:03 AM](https://archive.org/download/newsweek-2022/newsweek-2022-08-09T09:03:30.566573-04:00.lighthouse.json) |
-| [August 8 at 8:55 PM](https://archive.org/download/newsweek-2022/newsweek-2022-08-08T20:55:41.129766-04:00.lighthouse.json) |
-| [August 8 at 8:46 AM](https://archive.org/download/newsweek-2022/newsweek-2022-08-08T08:46:35.367361-04:00.lighthouse.json) |
-| [August 7 at 9:04 PM](https://archive.org/download/newsweek-2022/newsweek-2022-08-07T21:03:54.498995-04:00.lighthouse.json) |
-| [August 7 at 8:41 AM](https://archive.org/download/newsweek-2022/newsweek-2022-08-07T08:41:39.105938-04:00.lighthouse.json) |
-| [August 6 at 8:43 PM](https://archive.org/download/newsweek-2022/newsweek-2022-08-06T20:42:58.786192-04:00.lighthouse.json) |
+| [August 11 at 2:43 AM](https://archive.org/download/newsweek-2022/newsweek-2022-08-11T09:43:30.528442-04:00.lighthouse.json) |
+| [August 10 at 1:55 PM](https://archive.org/download/newsweek-2022/newsweek-2022-08-10T20:55:31.109976-04:00.lighthouse.json) |
+| [August 10 at 2:12 AM](https://archive.org/download/newsweek-2022/newsweek-2022-08-10T09:12:32.273716-04:00.lighthouse.json) |
+| [August 9 at 2:00 PM](https://archive.org/download/newsweek-2022/newsweek-2022-08-09T20:59:56.574411-04:00.lighthouse.json) |
+| [August 9 at 2:03 AM](https://archive.org/download/newsweek-2022/newsweek-2022-08-09T09:03:30.566573-04:00.lighthouse.json) |
+| [August 8 at 1:55 PM](https://archive.org/download/newsweek-2022/newsweek-2022-08-08T20:55:41.129766-04:00.lighthouse.json) |
+| [August 8 at 1:46 AM](https://archive.org/download/newsweek-2022/newsweek-2022-08-08T08:46:35.367361-04:00.lighthouse.json) |
+| [August 7 at 2:04 PM](https://archive.org/download/newsweek-2022/newsweek-2022-08-07T21:03:54.498995-04:00.lighthouse.json) |
+| [August 7 at 1:41 AM](https://archive.org/download/newsweek-2022/newsweek-2022-08-07T08:41:39.105938-04:00.lighthouse.json) |
+| [August 6 at 1:43 PM](https://archive.org/download/newsweek-2022/newsweek-2022-08-06T20:42:58.786192-04:00.lighthouse.json) |
 
 
 

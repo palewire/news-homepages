@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/cqnow-2022/cqnow-2022-08-11T07:38:23.225253-04:00.jpg">
   <img src="https://archive.org/download/cqnow-2022/cqnow-2022-08-11T07:38:23.225253-04:00.jpg"
-     alt="CQ at 2022-08-11 07:38:26-04:00 local time"
+     alt="CQ at 2022-08-11 00:38:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-08-11T07:38:23.225253-04:00.jpg">August 11 at 7:38 AM</a></p>
+ <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-08-11T07:38:23.225253-04:00.jpg">August 11 at 12:38 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cqnow-2022/cqnow-2022-08-10T20:41:43.576784-04:00.jpg">
   <img src="https://archive.org/download/cqnow-2022/cqnow-2022-08-10T20:41:43.576784-04:00.jpg"
-     alt="CQ at 2022-08-10 20:41:48-04:00 local time"
+     alt="CQ at 2022-08-10 13:41:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-08-10T20:41:43.576784-04:00.jpg">August 10 at 8:41 PM</a></p>
+ <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-08-10T20:41:43.576784-04:00.jpg">August 10 at 1:41 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cqnow-2022/cqnow-2022-08-10T08:58:31.348155-04:00.jpg">
   <img src="https://archive.org/download/cqnow-2022/cqnow-2022-08-10T08:58:31.348155-04:00.jpg"
-     alt="CQ at 2022-08-10 08:58:39-04:00 local time"
+     alt="CQ at 2022-08-10 01:58:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-08-10T08:58:31.348155-04:00.jpg">August 10 at 8:58 AM</a></p>
+ <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-08-10T08:58:31.348155-04:00.jpg">August 10 at 1:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cqnow-2022/cqnow-2022-08-09T19:26:47.098260-04:00.jpg">
   <img src="https://archive.org/download/cqnow-2022/cqnow-2022-08-09T19:26:47.098260-04:00.jpg"
-     alt="CQ at 2022-08-09 19:26:50-04:00 local time"
+     alt="CQ at 2022-08-09 12:26:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-08-09T19:26:47.098260-04:00.jpg">August 9 at 7:26 PM</a></p>
+ <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-08-09T19:26:47.098260-04:00.jpg">August 9 at 12:26 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cqnow-2022/cqnow-2022-08-09T08:43:38.405219-04:00.jpg">
   <img src="https://archive.org/download/cqnow-2022/cqnow-2022-08-09T08:43:38.405219-04:00.jpg"
-     alt="CQ at 2022-08-09 08:43:41-04:00 local time"
+     alt="CQ at 2022-08-09 01:43:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-08-09T08:43:38.405219-04:00.jpg">August 9 at 8:43 AM</a></p>
+ <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-08-09T08:43:38.405219-04:00.jpg">August 9 at 1:43 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cqnow-2022/cqnow-2022-08-08T20:39:00.347561-04:00.jpg">
   <img src="https://archive.org/download/cqnow-2022/cqnow-2022-08-08T20:39:00.347561-04:00.jpg"
-     alt="CQ at 2022-08-08 20:39:02-04:00 local time"
+     alt="CQ at 2022-08-08 13:39:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-08-08T20:39:00.347561-04:00.jpg">August 8 at 8:39 PM</a></p>
+ <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-08-08T20:39:00.347561-04:00.jpg">August 8 at 1:39 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cqnow-2022/cqnow-2022-08-08T07:23:36.180126-04:00.jpg">
   <img src="https://archive.org/download/cqnow-2022/cqnow-2022-08-08T07:23:36.180126-04:00.jpg"
-     alt="CQ at 2022-08-08 07:23:38-04:00 local time"
+     alt="CQ at 2022-08-08 00:23:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-08-08T07:23:36.180126-04:00.jpg">August 8 at 7:23 AM</a></p>
+ <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-08-08T07:23:36.180126-04:00.jpg">August 8 at 12:23 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cqnow-2022/cqnow-2022-08-07T20:46:48.975229-04:00.jpg">
   <img src="https://archive.org/download/cqnow-2022/cqnow-2022-08-07T20:46:48.975229-04:00.jpg"
-     alt="CQ at 2022-08-07 20:46:53-04:00 local time"
+     alt="CQ at 2022-08-07 13:46:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-08-07T20:46:48.975229-04:00.jpg">August 7 at 8:46 PM</a></p>
+ <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-08-07T20:46:48.975229-04:00.jpg">August 7 at 1:46 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cqnow-2022/cqnow-2022-08-07T08:26:00.336355-04:00.jpg">
   <img src="https://archive.org/download/cqnow-2022/cqnow-2022-08-07T08:26:00.336355-04:00.jpg"
-     alt="CQ at 2022-08-07 08:26:04-04:00 local time"
+     alt="CQ at 2022-08-07 01:26:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-08-07T08:26:00.336355-04:00.jpg">August 7 at 8:26 AM</a></p>
+ <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-08-07T08:26:00.336355-04:00.jpg">August 7 at 1:26 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cqnow-2022/cqnow-2022-08-06T20:29:01.535424-04:00.jpg">
   <img src="https://archive.org/download/cqnow-2022/cqnow-2022-08-06T20:29:01.535424-04:00.jpg"
-     alt="CQ at 2022-08-06 20:29:04-04:00 local time"
+     alt="CQ at 2022-08-06 13:29:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-08-06T20:29:01.535424-04:00.jpg">August 6 at 8:29 PM</a></p>
+ <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-08-06T20:29:01.535424-04:00.jpg">August 6 at 1:29 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cqnow-2022/cqnow-2022-08-06T08:19:41.332773-04:00.jpg">
   <img src="https://archive.org/download/cqnow-2022/cqnow-2022-08-06T08:19:41.332773-04:00.jpg"
-     alt="CQ at 2022-08-06 08:19:44-04:00 local time"
+     alt="CQ at 2022-08-06 01:19:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-08-06T08:19:41.332773-04:00.jpg">August 6 at 8:19 AM</a></p>
+ <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-08-06T08:19:41.332773-04:00.jpg">August 6 at 1:19 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cqnow-2022/cqnow-2022-08-05T19:31:52.130390-04:00.jpg">
   <img src="https://archive.org/download/cqnow-2022/cqnow-2022-08-05T19:31:52.130390-04:00.jpg"
-     alt="CQ at 2022-08-05 19:31:53-04:00 local time"
+     alt="CQ at 2022-08-05 12:31:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-08-05T19:31:52.130390-04:00.jpg">August 5 at 7:31 PM</a></p>
+ <p><a href="https://archive.org/download/cqnow-2022/cqnow-2022-08-05T19:31:52.130390-04:00.jpg">August 5 at 12:31 PM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 11 at 7:38 AM](https://archive.org/download/cqnow-2022/cqnow-2022-08-11T07:38:23.225253-04:00.hyperlinks.json) |
-| [August 10 at 8:41 PM](https://archive.org/download/cqnow-2022/cqnow-2022-08-10T20:41:43.576784-04:00.hyperlinks.json) |
-| [August 10 at 8:58 AM](https://archive.org/download/cqnow-2022/cqnow-2022-08-10T08:58:31.348155-04:00.hyperlinks.json) |
-| [August 9 at 7:26 PM](https://archive.org/download/cqnow-2022/cqnow-2022-08-09T19:26:47.098260-04:00.hyperlinks.json) |
-| [August 9 at 8:43 AM](https://archive.org/download/cqnow-2022/cqnow-2022-08-09T08:43:38.405219-04:00.hyperlinks.json) |
-| [August 8 at 8:39 PM](https://archive.org/download/cqnow-2022/cqnow-2022-08-08T20:39:00.347561-04:00.hyperlinks.json) |
-| [August 8 at 7:23 AM](https://archive.org/download/cqnow-2022/cqnow-2022-08-08T07:23:36.180126-04:00.hyperlinks.json) |
-| [August 7 at 8:46 PM](https://archive.org/download/cqnow-2022/cqnow-2022-08-07T20:46:48.975229-04:00.hyperlinks.json) |
-| [August 7 at 8:26 AM](https://archive.org/download/cqnow-2022/cqnow-2022-08-07T08:26:00.336355-04:00.hyperlinks.json) |
-| [August 6 at 8:29 PM](https://archive.org/download/cqnow-2022/cqnow-2022-08-06T20:29:01.535424-04:00.hyperlinks.json) |
+| [August 11 at 12:38 AM](https://archive.org/download/cqnow-2022/cqnow-2022-08-11T07:38:23.225253-04:00.hyperlinks.json) |
+| [August 10 at 1:41 PM](https://archive.org/download/cqnow-2022/cqnow-2022-08-10T20:41:43.576784-04:00.hyperlinks.json) |
+| [August 10 at 1:58 AM](https://archive.org/download/cqnow-2022/cqnow-2022-08-10T08:58:31.348155-04:00.hyperlinks.json) |
+| [August 9 at 12:26 PM](https://archive.org/download/cqnow-2022/cqnow-2022-08-09T19:26:47.098260-04:00.hyperlinks.json) |
+| [August 9 at 1:43 AM](https://archive.org/download/cqnow-2022/cqnow-2022-08-09T08:43:38.405219-04:00.hyperlinks.json) |
+| [August 8 at 1:39 PM](https://archive.org/download/cqnow-2022/cqnow-2022-08-08T20:39:00.347561-04:00.hyperlinks.json) |
+| [August 8 at 12:23 AM](https://archive.org/download/cqnow-2022/cqnow-2022-08-08T07:23:36.180126-04:00.hyperlinks.json) |
+| [August 7 at 1:46 PM](https://archive.org/download/cqnow-2022/cqnow-2022-08-07T20:46:48.975229-04:00.hyperlinks.json) |
+| [August 7 at 1:26 AM](https://archive.org/download/cqnow-2022/cqnow-2022-08-07T08:26:00.336355-04:00.hyperlinks.json) |
+| [August 6 at 1:29 PM](https://archive.org/download/cqnow-2022/cqnow-2022-08-06T20:29:01.535424-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 11 at 7:38 AM](https://archive.org/download/cqnow-2022/cqnow-2022-08-11T07:38:23.225253-04:00.accessibility.json) |
-| [August 10 at 8:41 PM](https://archive.org/download/cqnow-2022/cqnow-2022-08-10T20:41:43.576784-04:00.accessibility.json) |
-| [August 10 at 8:58 AM](https://archive.org/download/cqnow-2022/cqnow-2022-08-10T08:58:31.348155-04:00.accessibility.json) |
-| [August 9 at 7:26 PM](https://archive.org/download/cqnow-2022/cqnow-2022-08-09T19:26:47.098260-04:00.accessibility.json) |
-| [August 9 at 8:43 AM](https://archive.org/download/cqnow-2022/cqnow-2022-08-09T08:43:38.405219-04:00.accessibility.json) |
-| [August 8 at 8:39 PM](https://archive.org/download/cqnow-2022/cqnow-2022-08-08T20:39:00.347561-04:00.accessibility.json) |
-| [August 8 at 7:23 AM](https://archive.org/download/cqnow-2022/cqnow-2022-08-08T07:23:36.180126-04:00.accessibility.json) |
-| [August 7 at 8:46 PM](https://archive.org/download/cqnow-2022/cqnow-2022-08-07T20:46:48.975229-04:00.accessibility.json) |
-| [August 7 at 8:26 AM](https://archive.org/download/cqnow-2022/cqnow-2022-08-07T08:26:00.336355-04:00.accessibility.json) |
-| [August 6 at 8:29 PM](https://archive.org/download/cqnow-2022/cqnow-2022-08-06T20:29:01.535424-04:00.accessibility.json) |
+| [August 11 at 12:38 AM](https://archive.org/download/cqnow-2022/cqnow-2022-08-11T07:38:23.225253-04:00.accessibility.json) |
+| [August 10 at 1:41 PM](https://archive.org/download/cqnow-2022/cqnow-2022-08-10T20:41:43.576784-04:00.accessibility.json) |
+| [August 10 at 1:58 AM](https://archive.org/download/cqnow-2022/cqnow-2022-08-10T08:58:31.348155-04:00.accessibility.json) |
+| [August 9 at 12:26 PM](https://archive.org/download/cqnow-2022/cqnow-2022-08-09T19:26:47.098260-04:00.accessibility.json) |
+| [August 9 at 1:43 AM](https://archive.org/download/cqnow-2022/cqnow-2022-08-09T08:43:38.405219-04:00.accessibility.json) |
+| [August 8 at 1:39 PM](https://archive.org/download/cqnow-2022/cqnow-2022-08-08T20:39:00.347561-04:00.accessibility.json) |
+| [August 8 at 12:23 AM](https://archive.org/download/cqnow-2022/cqnow-2022-08-08T07:23:36.180126-04:00.accessibility.json) |
+| [August 7 at 1:46 PM](https://archive.org/download/cqnow-2022/cqnow-2022-08-07T20:46:48.975229-04:00.accessibility.json) |
+| [August 7 at 1:26 AM](https://archive.org/download/cqnow-2022/cqnow-2022-08-07T08:26:00.336355-04:00.accessibility.json) |
+| [August 6 at 1:29 PM](https://archive.org/download/cqnow-2022/cqnow-2022-08-06T20:29:01.535424-04:00.accessibility.json) |
 
 
 
@@ -525,16 +525,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 11 at 7:38 AM](https://archive.org/download/cqnow-2022/cqnow-2022-08-11T07:38:23.225253-04:00.lighthouse.json) |
-| [August 10 at 8:41 PM](https://archive.org/download/cqnow-2022/cqnow-2022-08-10T20:41:43.576784-04:00.lighthouse.json) |
-| [August 10 at 8:58 AM](https://archive.org/download/cqnow-2022/cqnow-2022-08-10T08:58:31.348155-04:00.lighthouse.json) |
-| [August 9 at 7:26 PM](https://archive.org/download/cqnow-2022/cqnow-2022-08-09T19:26:47.098260-04:00.lighthouse.json) |
-| [August 9 at 8:43 AM](https://archive.org/download/cqnow-2022/cqnow-2022-08-09T08:43:38.405219-04:00.lighthouse.json) |
-| [August 8 at 8:39 PM](https://archive.org/download/cqnow-2022/cqnow-2022-08-08T20:39:00.347561-04:00.lighthouse.json) |
-| [August 8 at 7:23 AM](https://archive.org/download/cqnow-2022/cqnow-2022-08-08T07:23:36.180126-04:00.lighthouse.json) |
-| [August 7 at 8:46 PM](https://archive.org/download/cqnow-2022/cqnow-2022-08-07T20:46:48.975229-04:00.lighthouse.json) |
-| [August 7 at 8:26 AM](https://archive.org/download/cqnow-2022/cqnow-2022-08-07T08:26:00.336355-04:00.lighthouse.json) |
-| [August 6 at 8:29 PM](https://archive.org/download/cqnow-2022/cqnow-2022-08-06T20:29:01.535424-04:00.lighthouse.json) |
+| [August 11 at 12:38 AM](https://archive.org/download/cqnow-2022/cqnow-2022-08-11T07:38:23.225253-04:00.lighthouse.json) |
+| [August 10 at 1:41 PM](https://archive.org/download/cqnow-2022/cqnow-2022-08-10T20:41:43.576784-04:00.lighthouse.json) |
+| [August 10 at 1:58 AM](https://archive.org/download/cqnow-2022/cqnow-2022-08-10T08:58:31.348155-04:00.lighthouse.json) |
+| [August 9 at 12:26 PM](https://archive.org/download/cqnow-2022/cqnow-2022-08-09T19:26:47.098260-04:00.lighthouse.json) |
+| [August 9 at 1:43 AM](https://archive.org/download/cqnow-2022/cqnow-2022-08-09T08:43:38.405219-04:00.lighthouse.json) |
+| [August 8 at 1:39 PM](https://archive.org/download/cqnow-2022/cqnow-2022-08-08T20:39:00.347561-04:00.lighthouse.json) |
+| [August 8 at 12:23 AM](https://archive.org/download/cqnow-2022/cqnow-2022-08-08T07:23:36.180126-04:00.lighthouse.json) |
+| [August 7 at 1:46 PM](https://archive.org/download/cqnow-2022/cqnow-2022-08-07T20:46:48.975229-04:00.lighthouse.json) |
+| [August 7 at 1:26 AM](https://archive.org/download/cqnow-2022/cqnow-2022-08-07T08:26:00.336355-04:00.lighthouse.json) |
+| [August 6 at 1:29 PM](https://archive.org/download/cqnow-2022/cqnow-2022-08-06T20:29:01.535424-04:00.lighthouse.json) |
 
 
 

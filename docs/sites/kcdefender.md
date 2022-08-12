@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-08-11T08:35:28.110769-05:00.jpg">
   <img src="https://archive.org/download/kcdefender-2022/kcdefender-2022-08-11T08:35:28.110769-05:00.jpg"
-     alt="Kansas City Defender at 2022-08-11 08:35:29-05:00 local time"
+     alt="Kansas City Defender at 2022-08-11 01:35:29-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-08-11T08:35:28.110769-05:00.jpg">August 11 at 8:35 AM</a></p>
+ <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-08-11T08:35:28.110769-05:00.jpg">August 11 at 1:35 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-08-10T19:48:47.930258-05:00.jpg">
   <img src="https://archive.org/download/kcdefender-2022/kcdefender-2022-08-10T19:48:47.930258-05:00.jpg"
-     alt="Kansas City Defender at 2022-08-10 19:48:51-05:00 local time"
+     alt="Kansas City Defender at 2022-08-10 12:48:51-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-08-10T19:48:47.930258-05:00.jpg">August 10 at 7:48 PM</a></p>
+ <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-08-10T19:48:47.930258-05:00.jpg">August 10 at 12:48 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-08-10T08:05:38.938413-05:00.jpg">
   <img src="https://archive.org/download/kcdefender-2022/kcdefender-2022-08-10T08:05:38.938413-05:00.jpg"
-     alt="Kansas City Defender at 2022-08-10 08:05:40-05:00 local time"
+     alt="Kansas City Defender at 2022-08-10 01:05:40-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-08-10T08:05:38.938413-05:00.jpg">August 10 at 8:05 AM</a></p>
+ <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-08-10T08:05:38.938413-05:00.jpg">August 10 at 1:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-08-09T19:50:42.521211-05:00.jpg">
   <img src="https://archive.org/download/kcdefender-2022/kcdefender-2022-08-09T19:50:42.521211-05:00.jpg"
-     alt="Kansas City Defender at 2022-08-09 19:50:49-05:00 local time"
+     alt="Kansas City Defender at 2022-08-09 12:50:49-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-08-09T19:50:42.521211-05:00.jpg">August 9 at 7:50 PM</a></p>
+ <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-08-09T19:50:42.521211-05:00.jpg">August 9 at 12:50 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-08-09T07:51:42.798385-05:00.jpg">
   <img src="https://archive.org/download/kcdefender-2022/kcdefender-2022-08-09T07:51:42.798385-05:00.jpg"
-     alt="Kansas City Defender at 2022-08-09 07:51:45-05:00 local time"
+     alt="Kansas City Defender at 2022-08-09 00:51:45-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-08-09T07:51:42.798385-05:00.jpg">August 9 at 7:51 AM</a></p>
+ <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-08-09T07:51:42.798385-05:00.jpg">August 9 at 12:51 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-08-08T19:47:26.396565-05:00.jpg">
   <img src="https://archive.org/download/kcdefender-2022/kcdefender-2022-08-08T19:47:26.396565-05:00.jpg"
-     alt="Kansas City Defender at 2022-08-08 19:47:29-05:00 local time"
+     alt="Kansas City Defender at 2022-08-08 12:47:29-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-08-08T19:47:26.396565-05:00.jpg">August 8 at 7:47 PM</a></p>
+ <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-08-08T19:47:26.396565-05:00.jpg">August 8 at 12:47 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-08-08T07:39:31.781783-05:00.jpg">
   <img src="https://archive.org/download/kcdefender-2022/kcdefender-2022-08-08T07:39:31.781783-05:00.jpg"
-     alt="Kansas City Defender at 2022-08-08 07:39:38-05:00 local time"
+     alt="Kansas City Defender at 2022-08-08 00:39:38-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-08-08T07:39:31.781783-05:00.jpg">August 8 at 7:39 AM</a></p>
+ <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-08-08T07:39:31.781783-05:00.jpg">August 8 at 12:39 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-08-07T19:56:01.762857-05:00.jpg">
   <img src="https://archive.org/download/kcdefender-2022/kcdefender-2022-08-07T19:56:01.762857-05:00.jpg"
-     alt="Kansas City Defender at 2022-08-07 19:56:03-05:00 local time"
+     alt="Kansas City Defender at 2022-08-07 12:56:03-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-08-07T19:56:01.762857-05:00.jpg">August 7 at 7:56 PM</a></p>
+ <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-08-07T19:56:01.762857-05:00.jpg">August 7 at 12:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-08-07T07:34:26.208710-05:00.jpg">
   <img src="https://archive.org/download/kcdefender-2022/kcdefender-2022-08-07T07:34:26.208710-05:00.jpg"
-     alt="Kansas City Defender at 2022-08-07 07:34:29-05:00 local time"
+     alt="Kansas City Defender at 2022-08-07 00:34:29-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-08-07T07:34:26.208710-05:00.jpg">August 7 at 7:34 AM</a></p>
+ <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-08-07T07:34:26.208710-05:00.jpg">August 7 at 12:34 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-08-06T19:36:32.217011-05:00.jpg">
   <img src="https://archive.org/download/kcdefender-2022/kcdefender-2022-08-06T19:36:32.217011-05:00.jpg"
-     alt="Kansas City Defender at 2022-08-06 19:36:33-05:00 local time"
+     alt="Kansas City Defender at 2022-08-06 12:36:33-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-08-06T19:36:32.217011-05:00.jpg">August 6 at 7:36 PM</a></p>
+ <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-08-06T19:36:32.217011-05:00.jpg">August 6 at 12:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-08-06T07:28:24.089170-05:00.jpg">
   <img src="https://archive.org/download/kcdefender-2022/kcdefender-2022-08-06T07:28:24.089170-05:00.jpg"
-     alt="Kansas City Defender at 2022-08-06 07:28:25-05:00 local time"
+     alt="Kansas City Defender at 2022-08-06 00:28:25-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-08-06T07:28:24.089170-05:00.jpg">August 6 at 7:28 AM</a></p>
+ <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-08-06T07:28:24.089170-05:00.jpg">August 6 at 12:28 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-08-05T21:02:03.839030-05:00.jpg">
   <img src="https://archive.org/download/kcdefender-2022/kcdefender-2022-08-05T21:02:03.839030-05:00.jpg"
-     alt="Kansas City Defender at 2022-08-05 21:02:05-05:00 local time"
+     alt="Kansas City Defender at 2022-08-05 14:02:05-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-08-05T21:02:03.839030-05:00.jpg">August 5 at 9:02 PM</a></p>
+ <p><a href="https://archive.org/download/kcdefender-2022/kcdefender-2022-08-05T21:02:03.839030-05:00.jpg">August 5 at 2:02 PM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 11 at 8:35 AM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-11T08:35:28.110769-05:00.hyperlinks.json) |
-| [August 10 at 7:48 PM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-10T19:48:47.930258-05:00.hyperlinks.json) |
-| [August 10 at 8:05 AM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-10T08:05:38.938413-05:00.hyperlinks.json) |
-| [August 9 at 7:50 PM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-09T19:50:42.521211-05:00.hyperlinks.json) |
-| [August 9 at 7:51 AM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-09T07:51:42.798385-05:00.hyperlinks.json) |
-| [August 8 at 7:47 PM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-08T19:47:26.396565-05:00.hyperlinks.json) |
-| [August 8 at 7:39 AM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-08T07:39:31.781783-05:00.hyperlinks.json) |
-| [August 7 at 7:56 PM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-07T19:56:01.762857-05:00.hyperlinks.json) |
-| [August 7 at 7:34 AM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-07T07:34:26.208710-05:00.hyperlinks.json) |
-| [August 6 at 7:36 PM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-06T19:36:32.217011-05:00.hyperlinks.json) |
+| [August 11 at 1:35 AM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-11T08:35:28.110769-05:00.hyperlinks.json) |
+| [August 10 at 12:48 PM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-10T19:48:47.930258-05:00.hyperlinks.json) |
+| [August 10 at 1:05 AM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-10T08:05:38.938413-05:00.hyperlinks.json) |
+| [August 9 at 12:50 PM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-09T19:50:42.521211-05:00.hyperlinks.json) |
+| [August 9 at 12:51 AM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-09T07:51:42.798385-05:00.hyperlinks.json) |
+| [August 8 at 12:47 PM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-08T19:47:26.396565-05:00.hyperlinks.json) |
+| [August 8 at 12:39 AM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-08T07:39:31.781783-05:00.hyperlinks.json) |
+| [August 7 at 12:56 PM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-07T19:56:01.762857-05:00.hyperlinks.json) |
+| [August 7 at 12:34 AM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-07T07:34:26.208710-05:00.hyperlinks.json) |
+| [August 6 at 12:36 PM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-06T19:36:32.217011-05:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 11 at 8:35 AM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-11T08:35:28.110769-05:00.accessibility.json) |
-| [August 10 at 7:48 PM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-10T19:48:47.930258-05:00.accessibility.json) |
-| [August 10 at 8:05 AM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-10T08:05:38.938413-05:00.accessibility.json) |
-| [August 9 at 7:50 PM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-09T19:50:42.521211-05:00.accessibility.json) |
-| [August 9 at 7:51 AM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-09T07:51:42.798385-05:00.accessibility.json) |
-| [August 8 at 7:47 PM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-08T19:47:26.396565-05:00.accessibility.json) |
-| [August 8 at 7:39 AM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-08T07:39:31.781783-05:00.accessibility.json) |
-| [August 7 at 7:56 PM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-07T19:56:01.762857-05:00.accessibility.json) |
-| [August 7 at 7:34 AM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-07T07:34:26.208710-05:00.accessibility.json) |
-| [August 6 at 7:36 PM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-06T19:36:32.217011-05:00.accessibility.json) |
+| [August 11 at 1:35 AM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-11T08:35:28.110769-05:00.accessibility.json) |
+| [August 10 at 12:48 PM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-10T19:48:47.930258-05:00.accessibility.json) |
+| [August 10 at 1:05 AM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-10T08:05:38.938413-05:00.accessibility.json) |
+| [August 9 at 12:50 PM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-09T19:50:42.521211-05:00.accessibility.json) |
+| [August 9 at 12:51 AM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-09T07:51:42.798385-05:00.accessibility.json) |
+| [August 8 at 12:47 PM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-08T19:47:26.396565-05:00.accessibility.json) |
+| [August 8 at 12:39 AM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-08T07:39:31.781783-05:00.accessibility.json) |
+| [August 7 at 12:56 PM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-07T19:56:01.762857-05:00.accessibility.json) |
+| [August 7 at 12:34 AM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-07T07:34:26.208710-05:00.accessibility.json) |
+| [August 6 at 12:36 PM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-06T19:36:32.217011-05:00.accessibility.json) |
 
 
 
@@ -525,16 +525,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 11 at 8:35 AM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-11T08:35:28.110769-05:00.lighthouse.json) |
-| [August 10 at 7:48 PM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-10T19:48:47.930258-05:00.lighthouse.json) |
-| [August 10 at 8:05 AM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-10T08:05:38.938413-05:00.lighthouse.json) |
-| [August 9 at 7:50 PM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-09T19:50:42.521211-05:00.lighthouse.json) |
-| [August 9 at 7:51 AM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-09T07:51:42.798385-05:00.lighthouse.json) |
-| [August 8 at 7:47 PM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-08T19:47:26.396565-05:00.lighthouse.json) |
-| [August 8 at 7:39 AM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-08T07:39:31.781783-05:00.lighthouse.json) |
-| [August 7 at 7:56 PM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-07T19:56:01.762857-05:00.lighthouse.json) |
-| [August 7 at 7:34 AM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-07T07:34:26.208710-05:00.lighthouse.json) |
-| [August 6 at 7:36 PM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-06T19:36:32.217011-05:00.lighthouse.json) |
+| [August 11 at 1:35 AM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-11T08:35:28.110769-05:00.lighthouse.json) |
+| [August 10 at 12:48 PM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-10T19:48:47.930258-05:00.lighthouse.json) |
+| [August 10 at 1:05 AM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-10T08:05:38.938413-05:00.lighthouse.json) |
+| [August 9 at 12:50 PM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-09T19:50:42.521211-05:00.lighthouse.json) |
+| [August 9 at 12:51 AM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-09T07:51:42.798385-05:00.lighthouse.json) |
+| [August 8 at 12:47 PM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-08T19:47:26.396565-05:00.lighthouse.json) |
+| [August 8 at 12:39 AM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-08T07:39:31.781783-05:00.lighthouse.json) |
+| [August 7 at 12:56 PM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-07T19:56:01.762857-05:00.lighthouse.json) |
+| [August 7 at 12:34 AM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-07T07:34:26.208710-05:00.lighthouse.json) |
+| [August 6 at 12:36 PM](https://archive.org/download/kcdefender-2022/kcdefender-2022-08-06T19:36:32.217011-05:00.lighthouse.json) |
 
 
 

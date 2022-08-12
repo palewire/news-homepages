@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-11T07:43:35.230979-04:00.jpg">
   <img src="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-11T07:43:35.230979-04:00.jpg"
-     alt="Washington Free Beacon at 2022-08-11 07:43:42-04:00 local time"
+     alt="Washington Free Beacon at 2022-08-11 00:43:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-11T07:43:35.230979-04:00.jpg">August 11 at 7:43 AM</a></p>
+ <p><a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-11T07:43:35.230979-04:00.jpg">August 11 at 12:43 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-10T20:45:22.816899-04:00.jpg">
   <img src="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-10T20:45:22.816899-04:00.jpg"
-     alt="Washington Free Beacon at 2022-08-10 20:45:25-04:00 local time"
+     alt="Washington Free Beacon at 2022-08-10 13:45:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-10T20:45:22.816899-04:00.jpg">August 10 at 8:45 PM</a></p>
+ <p><a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-10T20:45:22.816899-04:00.jpg">August 10 at 1:45 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-10T15:37:53.346423-04:00.jpg">
   <img src="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-10T15:37:53.346423-04:00.jpg"
-     alt="Washington Free Beacon at 2022-08-10 15:37:56-04:00 local time"
+     alt="Washington Free Beacon at 2022-08-10 08:37:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-10T15:37:53.346423-04:00.jpg">August 10 at 3:37 PM</a></p>
+ <p><a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-10T15:37:53.346423-04:00.jpg">August 10 at 8:37 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-10T09:00:45.099078-04:00.jpg">
   <img src="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-10T09:00:45.099078-04:00.jpg"
-     alt="Washington Free Beacon at 2022-08-10 09:00:51-04:00 local time"
+     alt="Washington Free Beacon at 2022-08-10 02:00:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-10T09:00:45.099078-04:00.jpg">August 10 at 9:00 AM</a></p>
+ <p><a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-10T09:00:45.099078-04:00.jpg">August 10 at 2:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-09T19:31:22.760265-04:00.jpg">
   <img src="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-09T19:31:22.760265-04:00.jpg"
-     alt="Washington Free Beacon at 2022-08-09 19:31:24-04:00 local time"
+     alt="Washington Free Beacon at 2022-08-09 12:31:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-09T19:31:22.760265-04:00.jpg">August 9 at 7:31 PM</a></p>
+ <p><a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-09T19:31:22.760265-04:00.jpg">August 9 at 12:31 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-09T14:44:03.155856-04:00.jpg">
   <img src="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-09T14:44:03.155856-04:00.jpg"
-     alt="Washington Free Beacon at 2022-08-09 14:44:05-04:00 local time"
+     alt="Washington Free Beacon at 2022-08-09 07:44:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-09T14:44:03.155856-04:00.jpg">August 9 at 2:44 PM</a></p>
+ <p><a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-09T14:44:03.155856-04:00.jpg">August 9 at 7:44 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-09T08:46:51.560317-04:00.jpg">
   <img src="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-09T08:46:51.560317-04:00.jpg"
-     alt="Washington Free Beacon at 2022-08-09 08:46:52-04:00 local time"
+     alt="Washington Free Beacon at 2022-08-09 01:46:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-09T08:46:51.560317-04:00.jpg">August 9 at 8:46 AM</a></p>
+ <p><a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-09T08:46:51.560317-04:00.jpg">August 9 at 1:46 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-08T20:42:22.906206-04:00.jpg">
   <img src="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-08T20:42:22.906206-04:00.jpg"
-     alt="Washington Free Beacon at 2022-08-08 20:42:26-04:00 local time"
+     alt="Washington Free Beacon at 2022-08-08 13:42:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-08T20:42:22.906206-04:00.jpg">August 8 at 8:42 PM</a></p>
+ <p><a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-08T20:42:22.906206-04:00.jpg">August 8 at 1:42 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-08T14:41:51.360401-04:00.jpg">
   <img src="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-08T14:41:51.360401-04:00.jpg"
-     alt="Washington Free Beacon at 2022-08-08 14:41:54-04:00 local time"
+     alt="Washington Free Beacon at 2022-08-08 07:41:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-08T14:41:51.360401-04:00.jpg">August 8 at 2:41 PM</a></p>
+ <p><a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-08T14:41:51.360401-04:00.jpg">August 8 at 7:41 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-08T07:27:25.057652-04:00.jpg">
   <img src="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-08T07:27:25.057652-04:00.jpg"
-     alt="Washington Free Beacon at 2022-08-08 07:27:26-04:00 local time"
+     alt="Washington Free Beacon at 2022-08-08 00:27:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-08T07:27:25.057652-04:00.jpg">August 8 at 7:27 AM</a></p>
+ <p><a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-08T07:27:25.057652-04:00.jpg">August 8 at 12:27 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-07T20:51:34.517259-04:00.jpg">
   <img src="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-07T20:51:34.517259-04:00.jpg"
-     alt="Washington Free Beacon at 2022-08-07 20:51:37-04:00 local time"
+     alt="Washington Free Beacon at 2022-08-07 13:51:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-07T20:51:34.517259-04:00.jpg">August 7 at 8:51 PM</a></p>
+ <p><a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-07T20:51:34.517259-04:00.jpg">August 7 at 1:51 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-07T14:42:57.926624-04:00.jpg">
   <img src="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-07T14:42:57.926624-04:00.jpg"
-     alt="Washington Free Beacon at 2022-08-07 14:42:59-04:00 local time"
+     alt="Washington Free Beacon at 2022-08-07 07:42:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-07T14:42:57.926624-04:00.jpg">August 7 at 2:42 PM</a></p>
+ <p><a href="https://archive.org/download/freebeacon-2022/freebeacon-2022-08-07T14:42:57.926624-04:00.jpg">August 7 at 7:42 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 11 at 7:43 AM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-11T07:43:35.230979-04:00.hyperlinks.json) |
-| [August 10 at 8:45 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-10T20:45:22.816899-04:00.hyperlinks.json) |
-| [August 10 at 3:38 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-10T15:37:53.346423-04:00.hyperlinks.json) |
-| [August 10 at 9:00 AM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-10T09:00:45.099078-04:00.hyperlinks.json) |
-| [August 9 at 7:31 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-09T19:31:22.760265-04:00.hyperlinks.json) |
-| [August 9 at 2:44 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-09T14:44:03.155856-04:00.hyperlinks.json) |
-| [August 9 at 8:46 AM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-09T08:46:51.560317-04:00.hyperlinks.json) |
-| [August 8 at 8:42 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-08T20:42:22.906206-04:00.hyperlinks.json) |
-| [August 8 at 2:41 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-08T14:41:51.360401-04:00.hyperlinks.json) |
-| [August 8 at 7:27 AM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-08T07:27:25.057652-04:00.hyperlinks.json) |
+| [August 11 at 12:43 AM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-11T07:43:35.230979-04:00.hyperlinks.json) |
+| [August 10 at 1:45 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-10T20:45:22.816899-04:00.hyperlinks.json) |
+| [August 10 at 8:38 AM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-10T15:37:53.346423-04:00.hyperlinks.json) |
+| [August 10 at 2:00 AM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-10T09:00:45.099078-04:00.hyperlinks.json) |
+| [August 9 at 12:31 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-09T19:31:22.760265-04:00.hyperlinks.json) |
+| [August 9 at 7:44 AM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-09T14:44:03.155856-04:00.hyperlinks.json) |
+| [August 9 at 1:46 AM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-09T08:46:51.560317-04:00.hyperlinks.json) |
+| [August 8 at 1:42 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-08T20:42:22.906206-04:00.hyperlinks.json) |
+| [August 8 at 7:41 AM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-08T14:41:51.360401-04:00.hyperlinks.json) |
+| [August 8 at 12:27 AM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-08T07:27:25.057652-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 11 at 7:43 AM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-11T07:43:35.230979-04:00.accessibility.json) |
-| [August 10 at 8:45 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-10T20:45:22.816899-04:00.accessibility.json) |
-| [August 10 at 3:37 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-10T15:37:53.346423-04:00.accessibility.json) |
-| [August 10 at 9:00 AM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-10T09:00:45.099078-04:00.accessibility.json) |
-| [August 9 at 7:31 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-09T19:31:22.760265-04:00.accessibility.json) |
-| [August 9 at 2:44 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-09T14:44:03.155856-04:00.accessibility.json) |
-| [August 9 at 8:46 AM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-09T08:46:51.560317-04:00.accessibility.json) |
-| [August 8 at 8:42 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-08T20:42:22.906206-04:00.accessibility.json) |
-| [August 8 at 2:41 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-08T14:41:51.360401-04:00.accessibility.json) |
-| [August 8 at 7:27 AM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-08T07:27:25.057652-04:00.accessibility.json) |
+| [August 11 at 12:43 AM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-11T07:43:35.230979-04:00.accessibility.json) |
+| [August 10 at 1:45 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-10T20:45:22.816899-04:00.accessibility.json) |
+| [August 10 at 8:37 AM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-10T15:37:53.346423-04:00.accessibility.json) |
+| [August 10 at 2:00 AM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-10T09:00:45.099078-04:00.accessibility.json) |
+| [August 9 at 12:31 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-09T19:31:22.760265-04:00.accessibility.json) |
+| [August 9 at 7:44 AM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-09T14:44:03.155856-04:00.accessibility.json) |
+| [August 9 at 1:46 AM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-09T08:46:51.560317-04:00.accessibility.json) |
+| [August 8 at 1:42 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-08T20:42:22.906206-04:00.accessibility.json) |
+| [August 8 at 7:41 AM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-08T14:41:51.360401-04:00.accessibility.json) |
+| [August 8 at 12:27 AM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-08T07:27:25.057652-04:00.accessibility.json) |
 
 
 
@@ -525,16 +525,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 11 at 7:43 AM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-11T07:43:35.230979-04:00.lighthouse.json) |
-| [August 10 at 8:45 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-10T20:45:22.816899-04:00.lighthouse.json) |
-| [August 10 at 3:38 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-10T15:37:53.346423-04:00.lighthouse.json) |
-| [August 10 at 9:00 AM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-10T09:00:45.099078-04:00.lighthouse.json) |
-| [August 9 at 7:31 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-09T19:31:22.760265-04:00.lighthouse.json) |
-| [August 9 at 2:44 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-09T14:44:03.155856-04:00.lighthouse.json) |
-| [August 9 at 8:46 AM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-09T08:46:51.560317-04:00.lighthouse.json) |
-| [August 8 at 8:42 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-08T20:42:22.906206-04:00.lighthouse.json) |
-| [August 8 at 2:41 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-08T14:41:51.360401-04:00.lighthouse.json) |
-| [August 8 at 7:27 AM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-08T07:27:25.057652-04:00.lighthouse.json) |
+| [August 11 at 12:43 AM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-11T07:43:35.230979-04:00.lighthouse.json) |
+| [August 10 at 1:45 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-10T20:45:22.816899-04:00.lighthouse.json) |
+| [August 10 at 8:38 AM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-10T15:37:53.346423-04:00.lighthouse.json) |
+| [August 10 at 2:00 AM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-10T09:00:45.099078-04:00.lighthouse.json) |
+| [August 9 at 12:31 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-09T19:31:22.760265-04:00.lighthouse.json) |
+| [August 9 at 7:44 AM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-09T14:44:03.155856-04:00.lighthouse.json) |
+| [August 9 at 1:46 AM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-09T08:46:51.560317-04:00.lighthouse.json) |
+| [August 8 at 1:42 PM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-08T20:42:22.906206-04:00.lighthouse.json) |
+| [August 8 at 7:41 AM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-08T14:41:51.360401-04:00.lighthouse.json) |
+| [August 8 at 12:27 AM](https://archive.org/download/freebeacon-2022/freebeacon-2022-08-08T07:27:25.057652-04:00.lighthouse.json) |
 
 
 

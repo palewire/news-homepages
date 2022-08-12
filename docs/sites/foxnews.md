@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-10T23:51:27.649383-04:00.jpg">
   <img src="https://archive.org/download/foxnews-2022/foxnews-2022-08-10T23:51:27.649383-04:00.jpg"
-     alt="Fox News at 2022-08-10 23:51:55-04:00 local time"
+     alt="Fox News at 2022-08-10 16:51:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-10T23:51:27.649383-04:00.jpg">August 10 at 11:51 PM</a></p>
+ <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-10T23:51:27.649383-04:00.jpg">August 10 at 4:51 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-10T17:16:24.278370-04:00.jpg">
   <img src="https://archive.org/download/foxnews-2022/foxnews-2022-08-10T17:16:24.278370-04:00.jpg"
-     alt="Fox News at 2022-08-10 17:16:53-04:00 local time"
+     alt="Fox News at 2022-08-10 10:16:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-10T17:16:24.278370-04:00.jpg">August 10 at 5:16 PM</a></p>
+ <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-10T17:16:24.278370-04:00.jpg">August 10 at 10:16 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-10T15:37:50.749667-04:00.jpg">
   <img src="https://archive.org/download/foxnews-2022/foxnews-2022-08-10T15:37:50.749667-04:00.jpg"
-     alt="Fox News at 2022-08-10 15:38:35-04:00 local time"
+     alt="Fox News at 2022-08-10 08:38:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-10T15:37:50.749667-04:00.jpg">August 10 at 3:38 PM</a></p>
+ <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-10T15:37:50.749667-04:00.jpg">August 10 at 8:38 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-10T14:02:27.054788-04:00.jpg">
   <img src="https://archive.org/download/foxnews-2022/foxnews-2022-08-10T14:02:27.054788-04:00.jpg"
-     alt="Fox News at 2022-08-10 14:02:50-04:00 local time"
+     alt="Fox News at 2022-08-10 07:02:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-10T14:02:27.054788-04:00.jpg">August 10 at 2:02 PM</a></p>
+ <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-10T14:02:27.054788-04:00.jpg">August 10 at 7:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-10T10:50:33.212165-04:00.jpg">
   <img src="https://archive.org/download/foxnews-2022/foxnews-2022-08-10T10:50:33.212165-04:00.jpg"
-     alt="Fox News at 2022-08-10 10:50:44-04:00 local time"
+     alt="Fox News at 2022-08-10 03:50:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-10T10:50:33.212165-04:00.jpg">August 10 at 10:50 AM</a></p>
+ <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-10T10:50:33.212165-04:00.jpg">August 10 at 3:50 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-09T23:59:08.907232-04:00.jpg">
   <img src="https://archive.org/download/foxnews-2022/foxnews-2022-08-09T23:59:08.907232-04:00.jpg"
-     alt="Fox News at 2022-08-09 23:59:19-04:00 local time"
+     alt="Fox News at 2022-08-09 16:59:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-09T23:59:08.907232-04:00.jpg">August 9 at 11:59 PM</a></p>
+ <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-09T23:59:08.907232-04:00.jpg">August 9 at 4:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-09T17:14:21.786255-04:00.jpg">
   <img src="https://archive.org/download/foxnews-2022/foxnews-2022-08-09T17:14:21.786255-04:00.jpg"
-     alt="Fox News at 2022-08-09 17:14:33-04:00 local time"
+     alt="Fox News at 2022-08-09 10:14:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-09T17:14:21.786255-04:00.jpg">August 9 at 5:14 PM</a></p>
+ <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-09T17:14:21.786255-04:00.jpg">August 9 at 10:14 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-09T14:43:54.487318-04:00.jpg">
   <img src="https://archive.org/download/foxnews-2022/foxnews-2022-08-09T14:43:54.487318-04:00.jpg"
-     alt="Fox News at 2022-08-09 14:43:56-04:00 local time"
+     alt="Fox News at 2022-08-09 07:43:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-09T14:43:54.487318-04:00.jpg">August 9 at 2:43 PM</a></p>
+ <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-09T14:43:54.487318-04:00.jpg">August 9 at 7:43 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-09T13:26:49.590074-04:00.jpg">
   <img src="https://archive.org/download/foxnews-2022/foxnews-2022-08-09T13:26:49.590074-04:00.jpg"
-     alt="Fox News at 2022-08-09 13:26:51-04:00 local time"
+     alt="Fox News at 2022-08-09 06:26:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-09T13:26:49.590074-04:00.jpg">August 9 at 1:26 PM</a></p>
+ <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-09T13:26:49.590074-04:00.jpg">August 9 at 6:26 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-09T10:27:04.473453-04:00.jpg">
   <img src="https://archive.org/download/foxnews-2022/foxnews-2022-08-09T10:27:04.473453-04:00.jpg"
-     alt="Fox News at 2022-08-09 10:27:31-04:00 local time"
+     alt="Fox News at 2022-08-09 03:27:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-09T10:27:04.473453-04:00.jpg">August 9 at 10:27 AM</a></p>
+ <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-09T10:27:04.473453-04:00.jpg">August 9 at 3:27 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-08T23:43:06.255894-04:00.jpg">
   <img src="https://archive.org/download/foxnews-2022/foxnews-2022-08-08T23:43:06.255894-04:00.jpg"
-     alt="Fox News at 2022-08-08 23:43:30-04:00 local time"
+     alt="Fox News at 2022-08-08 16:43:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-08T23:43:06.255894-04:00.jpg">August 8 at 11:43 PM</a></p>
+ <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-08T23:43:06.255894-04:00.jpg">August 8 at 4:43 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-08T17:13:33.325972-04:00.jpg">
   <img src="https://archive.org/download/foxnews-2022/foxnews-2022-08-08T17:13:33.325972-04:00.jpg"
-     alt="Fox News at 2022-08-08 17:13:35-04:00 local time"
+     alt="Fox News at 2022-08-08 10:13:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-08T17:13:33.325972-04:00.jpg">August 8 at 5:13 PM</a></p>
+ <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-08-08T17:13:33.325972-04:00.jpg">August 8 at 10:13 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 10 at 11:51 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-10T23:51:27.649383-04:00.hyperlinks.json) |
-| [August 10 at 3:38 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-10T15:37:50.749667-04:00.hyperlinks.json) |
-| [August 10 at 10:50 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-10T10:50:33.212165-04:00.hyperlinks.json) |
-| [August 9 at 5:14 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-09T17:14:21.786255-04:00.hyperlinks.json) |
-| [August 9 at 2:43 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-09T14:43:54.487318-04:00.hyperlinks.json) |
-| [August 9 at 1:26 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-09T13:26:49.590074-04:00.hyperlinks.json) |
-| [August 9 at 10:27 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-09T10:27:04.473453-04:00.hyperlinks.json) |
-| [August 8 at 11:43 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-08T23:43:06.255894-04:00.hyperlinks.json) |
-| [August 8 at 5:13 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-08T17:13:33.325972-04:00.hyperlinks.json) |
-| [August 8 at 2:41 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-08T14:40:36.658957-04:00.hyperlinks.json) |
+| [August 10 at 4:51 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-10T23:51:27.649383-04:00.hyperlinks.json) |
+| [August 10 at 8:38 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-10T15:37:50.749667-04:00.hyperlinks.json) |
+| [August 10 at 3:50 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-10T10:50:33.212165-04:00.hyperlinks.json) |
+| [August 9 at 10:14 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-09T17:14:21.786255-04:00.hyperlinks.json) |
+| [August 9 at 7:43 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-09T14:43:54.487318-04:00.hyperlinks.json) |
+| [August 9 at 6:26 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-09T13:26:49.590074-04:00.hyperlinks.json) |
+| [August 9 at 3:27 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-09T10:27:04.473453-04:00.hyperlinks.json) |
+| [August 8 at 4:43 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-08T23:43:06.255894-04:00.hyperlinks.json) |
+| [August 8 at 10:13 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-08T17:13:33.325972-04:00.hyperlinks.json) |
+| [August 8 at 7:41 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-08T14:40:36.658957-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 10 at 11:51 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-10T23:51:27.649383-04:00.accessibility.json) |
-| [August 10 at 5:16 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-10T17:16:24.278370-04:00.accessibility.json) |
-| [August 10 at 3:38 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-10T15:37:50.749667-04:00.accessibility.json) |
-| [August 10 at 2:02 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-10T14:02:27.054788-04:00.accessibility.json) |
-| [August 10 at 10:50 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-10T10:50:33.212165-04:00.accessibility.json) |
-| [August 9 at 11:59 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-09T23:59:08.907232-04:00.accessibility.json) |
-| [August 9 at 5:14 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-09T17:14:21.786255-04:00.accessibility.json) |
-| [August 9 at 2:43 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-09T14:43:54.487318-04:00.accessibility.json) |
-| [August 9 at 1:26 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-09T13:26:49.590074-04:00.accessibility.json) |
-| [August 9 at 10:27 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-09T10:27:04.473453-04:00.accessibility.json) |
+| [August 10 at 4:51 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-10T23:51:27.649383-04:00.accessibility.json) |
+| [August 10 at 10:16 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-10T17:16:24.278370-04:00.accessibility.json) |
+| [August 10 at 8:38 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-10T15:37:50.749667-04:00.accessibility.json) |
+| [August 10 at 7:02 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-10T14:02:27.054788-04:00.accessibility.json) |
+| [August 10 at 3:50 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-10T10:50:33.212165-04:00.accessibility.json) |
+| [August 9 at 4:59 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-09T23:59:08.907232-04:00.accessibility.json) |
+| [August 9 at 10:14 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-09T17:14:21.786255-04:00.accessibility.json) |
+| [August 9 at 7:43 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-09T14:43:54.487318-04:00.accessibility.json) |
+| [August 9 at 6:26 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-09T13:26:49.590074-04:00.accessibility.json) |
+| [August 9 at 3:27 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-09T10:27:04.473453-04:00.accessibility.json) |
 
 
 
@@ -525,16 +525,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 10 at 11:52 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-10T23:51:27.649383-04:00.lighthouse.json) |
-| [August 10 at 5:16 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-10T17:16:24.278370-04:00.lighthouse.json) |
-| [August 10 at 3:38 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-10T15:37:50.749667-04:00.lighthouse.json) |
-| [August 10 at 2:02 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-10T14:02:27.054788-04:00.lighthouse.json) |
-| [August 10 at 10:50 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-10T10:50:33.212165-04:00.lighthouse.json) |
-| [August 9 at 11:59 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-09T23:59:08.907232-04:00.lighthouse.json) |
-| [August 9 at 5:14 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-09T17:14:21.786255-04:00.lighthouse.json) |
-| [August 9 at 2:44 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-09T14:43:54.487318-04:00.lighthouse.json) |
-| [August 9 at 1:26 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-09T13:26:49.590074-04:00.lighthouse.json) |
-| [August 9 at 10:27 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-09T10:27:04.473453-04:00.lighthouse.json) |
+| [August 10 at 4:52 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-10T23:51:27.649383-04:00.lighthouse.json) |
+| [August 10 at 10:16 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-10T17:16:24.278370-04:00.lighthouse.json) |
+| [August 10 at 8:38 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-10T15:37:50.749667-04:00.lighthouse.json) |
+| [August 10 at 7:02 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-10T14:02:27.054788-04:00.lighthouse.json) |
+| [August 10 at 3:50 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-10T10:50:33.212165-04:00.lighthouse.json) |
+| [August 9 at 4:59 PM](https://archive.org/download/foxnews-2022/foxnews-2022-08-09T23:59:08.907232-04:00.lighthouse.json) |
+| [August 9 at 10:14 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-09T17:14:21.786255-04:00.lighthouse.json) |
+| [August 9 at 7:44 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-09T14:43:54.487318-04:00.lighthouse.json) |
+| [August 9 at 6:26 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-09T13:26:49.590074-04:00.lighthouse.json) |
+| [August 9 at 3:27 AM](https://archive.org/download/foxnews-2022/foxnews-2022-08-09T10:27:04.473453-04:00.lighthouse.json) |
 
 
 

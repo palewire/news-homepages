@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-10T18:59:56.295831-06:00.jpg">
   <img src="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-10T18:59:56.295831-06:00.jpg"
-     alt="Searchlight New Mexico at 2022-08-10 18:59:58-06:00 local time"
+     alt="Searchlight New Mexico at 2022-08-10 11:59:58-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-10T18:59:56.295831-06:00.jpg">August 10 at 6:59 PM</a></p>
+ <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-10T18:59:56.295831-06:00.jpg">August 10 at 11:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-10T07:19:03.918833-06:00.jpg">
   <img src="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-10T07:19:03.918833-06:00.jpg"
-     alt="Searchlight New Mexico at 2022-08-10 07:19:05-06:00 local time"
+     alt="Searchlight New Mexico at 2022-08-10 00:19:05-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-10T07:19:03.918833-06:00.jpg">August 10 at 7:19 AM</a></p>
+ <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-10T07:19:03.918833-06:00.jpg">August 10 at 12:19 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-09T19:06:38.055655-06:00.jpg">
   <img src="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-09T19:06:38.055655-06:00.jpg"
-     alt="Searchlight New Mexico at 2022-08-09 19:06:39-06:00 local time"
+     alt="Searchlight New Mexico at 2022-08-09 12:06:39-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-09T19:06:38.055655-06:00.jpg">August 9 at 7:06 PM</a></p>
+ <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-09T19:06:38.055655-06:00.jpg">August 9 at 12:06 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-09T07:05:07.848408-06:00.jpg">
   <img src="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-09T07:05:07.848408-06:00.jpg"
-     alt="Searchlight New Mexico at 2022-08-09 07:05:09-06:00 local time"
+     alt="Searchlight New Mexico at 2022-08-09 00:05:09-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-09T07:05:07.848408-06:00.jpg">August 9 at 7:05 AM</a></p>
+ <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-09T07:05:07.848408-06:00.jpg">August 9 at 12:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-08T19:00:08.160706-06:00.jpg">
   <img src="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-08T19:00:08.160706-06:00.jpg"
-     alt="Searchlight New Mexico at 2022-08-08 19:00:12-06:00 local time"
+     alt="Searchlight New Mexico at 2022-08-08 12:00:12-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-08T19:00:08.160706-06:00.jpg">August 8 at 7:00 PM</a></p>
+ <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-08T19:00:08.160706-06:00.jpg">August 8 at 12:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-08T06:51:31.992663-06:00.jpg">
   <img src="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-08T06:51:31.992663-06:00.jpg"
-     alt="Searchlight New Mexico at 2022-08-08 06:51:35-06:00 local time"
+     alt="Searchlight New Mexico at 2022-08-07 23:51:35-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-08T06:51:31.992663-06:00.jpg">August 8 at 6:51 AM</a></p>
+ <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-08T06:51:31.992663-06:00.jpg">August 7 at 11:51 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-07T19:10:10.252141-06:00.jpg">
   <img src="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-07T19:10:10.252141-06:00.jpg"
-     alt="Searchlight New Mexico at 2022-08-07 19:10:11-06:00 local time"
+     alt="Searchlight New Mexico at 2022-08-07 12:10:11-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-07T19:10:10.252141-06:00.jpg">August 7 at 7:10 PM</a></p>
+ <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-07T19:10:10.252141-06:00.jpg">August 7 at 12:10 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-07T06:46:58.198615-06:00.jpg">
   <img src="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-07T06:46:58.198615-06:00.jpg"
-     alt="Searchlight New Mexico at 2022-08-07 06:47:00-06:00 local time"
+     alt="Searchlight New Mexico at 2022-08-06 23:47:00-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-07T06:46:58.198615-06:00.jpg">August 7 at 6:47 AM</a></p>
+ <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-07T06:46:58.198615-06:00.jpg">August 6 at 11:47 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-06T18:48:16.920167-06:00.jpg">
   <img src="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-06T18:48:16.920167-06:00.jpg"
-     alt="Searchlight New Mexico at 2022-08-06 18:48:17-06:00 local time"
+     alt="Searchlight New Mexico at 2022-08-06 11:48:17-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-06T18:48:16.920167-06:00.jpg">August 6 at 6:48 PM</a></p>
+ <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-06T18:48:16.920167-06:00.jpg">August 6 at 11:48 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-06T06:38:17.077840-06:00.jpg">
   <img src="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-06T06:38:17.077840-06:00.jpg"
-     alt="Searchlight New Mexico at 2022-08-06 06:38:18-06:00 local time"
+     alt="Searchlight New Mexico at 2022-08-05 23:38:18-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-06T06:38:17.077840-06:00.jpg">August 6 at 6:38 AM</a></p>
+ <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-06T06:38:17.077840-06:00.jpg">August 5 at 11:38 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-05T20:13:47.798515-06:00.jpg">
   <img src="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-05T20:13:47.798515-06:00.jpg"
-     alt="Searchlight New Mexico at 2022-08-05 20:13:50-06:00 local time"
+     alt="Searchlight New Mexico at 2022-08-05 13:13:50-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-05T20:13:47.798515-06:00.jpg">August 5 at 8:13 PM</a></p>
+ <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-05T20:13:47.798515-06:00.jpg">August 5 at 1:13 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-05T06:47:13.667120-06:00.jpg">
   <img src="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-05T06:47:13.667120-06:00.jpg"
-     alt="Searchlight New Mexico at 2022-08-05 06:47:15-06:00 local time"
+     alt="Searchlight New Mexico at 2022-08-04 23:47:15-06:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-05T06:47:13.667120-06:00.jpg">August 5 at 6:47 AM</a></p>
+ <p><a href="https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-05T06:47:13.667120-06:00.jpg">August 4 at 11:47 PM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 10 at 7:00 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-10T18:59:56.295831-06:00.hyperlinks.json) |
-| [August 10 at 7:19 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-10T07:19:03.918833-06:00.hyperlinks.json) |
-| [August 9 at 7:06 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-09T19:06:38.055655-06:00.hyperlinks.json) |
-| [August 9 at 7:05 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-09T07:05:07.848408-06:00.hyperlinks.json) |
-| [August 8 at 7:00 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-08T19:00:08.160706-06:00.hyperlinks.json) |
-| [August 8 at 6:51 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-08T06:51:31.992663-06:00.hyperlinks.json) |
-| [August 7 at 7:10 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-07T19:10:10.252141-06:00.hyperlinks.json) |
-| [August 7 at 6:47 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-07T06:46:58.198615-06:00.hyperlinks.json) |
-| [August 6 at 6:48 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-06T18:48:16.920167-06:00.hyperlinks.json) |
-| [August 6 at 6:38 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-06T06:38:17.077840-06:00.hyperlinks.json) |
+| [August 10 at 12:00 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-10T18:59:56.295831-06:00.hyperlinks.json) |
+| [August 10 at 12:19 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-10T07:19:03.918833-06:00.hyperlinks.json) |
+| [August 9 at 12:06 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-09T19:06:38.055655-06:00.hyperlinks.json) |
+| [August 9 at 12:05 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-09T07:05:07.848408-06:00.hyperlinks.json) |
+| [August 8 at 12:00 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-08T19:00:08.160706-06:00.hyperlinks.json) |
+| [August 7 at 11:51 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-08T06:51:31.992663-06:00.hyperlinks.json) |
+| [August 7 at 12:10 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-07T19:10:10.252141-06:00.hyperlinks.json) |
+| [August 6 at 11:47 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-07T06:46:58.198615-06:00.hyperlinks.json) |
+| [August 6 at 11:48 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-06T18:48:16.920167-06:00.hyperlinks.json) |
+| [August 5 at 11:38 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-06T06:38:17.077840-06:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 10 at 7:00 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-10T18:59:56.295831-06:00.accessibility.json) |
-| [August 10 at 7:19 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-10T07:19:03.918833-06:00.accessibility.json) |
-| [August 9 at 7:06 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-09T19:06:38.055655-06:00.accessibility.json) |
-| [August 9 at 7:05 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-09T07:05:07.848408-06:00.accessibility.json) |
-| [August 8 at 7:00 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-08T19:00:08.160706-06:00.accessibility.json) |
-| [August 8 at 6:51 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-08T06:51:31.992663-06:00.accessibility.json) |
-| [August 7 at 7:10 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-07T19:10:10.252141-06:00.accessibility.json) |
-| [August 7 at 6:47 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-07T06:46:58.198615-06:00.accessibility.json) |
-| [August 6 at 6:48 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-06T18:48:16.920167-06:00.accessibility.json) |
-| [August 6 at 6:38 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-06T06:38:17.077840-06:00.accessibility.json) |
+| [August 10 at 12:00 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-10T18:59:56.295831-06:00.accessibility.json) |
+| [August 10 at 12:19 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-10T07:19:03.918833-06:00.accessibility.json) |
+| [August 9 at 12:06 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-09T19:06:38.055655-06:00.accessibility.json) |
+| [August 9 at 12:05 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-09T07:05:07.848408-06:00.accessibility.json) |
+| [August 8 at 12:00 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-08T19:00:08.160706-06:00.accessibility.json) |
+| [August 7 at 11:51 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-08T06:51:31.992663-06:00.accessibility.json) |
+| [August 7 at 12:10 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-07T19:10:10.252141-06:00.accessibility.json) |
+| [August 6 at 11:47 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-07T06:46:58.198615-06:00.accessibility.json) |
+| [August 6 at 11:48 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-06T18:48:16.920167-06:00.accessibility.json) |
+| [August 5 at 11:38 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-06T06:38:17.077840-06:00.accessibility.json) |
 
 
 
@@ -525,16 +525,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 10 at 7:00 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-10T18:59:56.295831-06:00.lighthouse.json) |
-| [August 10 at 7:19 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-10T07:19:03.918833-06:00.lighthouse.json) |
-| [August 9 at 7:06 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-09T19:06:38.055655-06:00.lighthouse.json) |
-| [August 9 at 7:05 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-09T07:05:07.848408-06:00.lighthouse.json) |
-| [August 8 at 7:00 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-08T19:00:08.160706-06:00.lighthouse.json) |
-| [August 8 at 6:51 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-08T06:51:31.992663-06:00.lighthouse.json) |
-| [August 7 at 7:10 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-07T19:10:10.252141-06:00.lighthouse.json) |
-| [August 7 at 6:47 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-07T06:46:58.198615-06:00.lighthouse.json) |
-| [August 6 at 6:48 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-06T18:48:16.920167-06:00.lighthouse.json) |
-| [August 6 at 6:38 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-06T06:38:17.077840-06:00.lighthouse.json) |
+| [August 10 at 12:00 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-10T18:59:56.295831-06:00.lighthouse.json) |
+| [August 10 at 12:19 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-10T07:19:03.918833-06:00.lighthouse.json) |
+| [August 9 at 12:06 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-09T19:06:38.055655-06:00.lighthouse.json) |
+| [August 9 at 12:05 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-09T07:05:07.848408-06:00.lighthouse.json) |
+| [August 8 at 12:00 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-08T19:00:08.160706-06:00.lighthouse.json) |
+| [August 7 at 11:51 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-08T06:51:31.992663-06:00.lighthouse.json) |
+| [August 7 at 12:10 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-07T19:10:10.252141-06:00.lighthouse.json) |
+| [August 6 at 11:47 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-07T06:46:58.198615-06:00.lighthouse.json) |
+| [August 6 at 11:48 AM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-06T18:48:16.920167-06:00.lighthouse.json) |
+| [August 5 at 11:38 PM](https://archive.org/download/searchlightnm-2022/searchlightnm-2022-08-06T06:38:17.077840-06:00.lighthouse.json) |
 
 
 

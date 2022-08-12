@@ -114,109 +114,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-10T23:59:41.545669-04:00.jpg">
   <img src="https://archive.org/download/mmfa-2022/mmfa-2022-08-10T23:59:41.545669-04:00.jpg"
-     alt="Media Matters at 2022-08-10 23:59:43-04:00 local time"
+     alt="Media Matters at 2022-08-10 16:59:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-10T23:59:41.545669-04:00.jpg">August 10 at 11:59 PM</a></p>
+ <p><a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-10T23:59:41.545669-04:00.jpg">August 10 at 4:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-10T15:40:25.991650-04:00.jpg">
   <img src="https://archive.org/download/mmfa-2022/mmfa-2022-08-10T15:40:25.991650-04:00.jpg"
-     alt="Media Matters at 2022-08-10 15:40:28-04:00 local time"
+     alt="Media Matters at 2022-08-10 08:40:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-10T15:40:25.991650-04:00.jpg">August 10 at 3:40 PM</a></p>
+ <p><a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-10T15:40:25.991650-04:00.jpg">August 10 at 8:40 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-10T14:12:26.975634-04:00.jpg">
   <img src="https://archive.org/download/mmfa-2022/mmfa-2022-08-10T14:12:26.975634-04:00.jpg"
-     alt="Media Matters at 2022-08-10 14:12:28-04:00 local time"
+     alt="Media Matters at 2022-08-10 07:12:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-10T14:12:26.975634-04:00.jpg">August 10 at 2:12 PM</a></p>
+ <p><a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-10T14:12:26.975634-04:00.jpg">August 10 at 7:12 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-10T00:07:01.131640-04:00.jpg">
   <img src="https://archive.org/download/mmfa-2022/mmfa-2022-08-10T00:07:01.131640-04:00.jpg"
-     alt="Media Matters at 2022-08-10 00:07:02-04:00 local time"
+     alt="Media Matters at 2022-08-09 17:07:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-10T00:07:01.131640-04:00.jpg">August 10 at 12:07 AM</a></p>
+ <p><a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-10T00:07:01.131640-04:00.jpg">August 9 at 5:07 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-09T14:46:40.358038-04:00.jpg">
   <img src="https://archive.org/download/mmfa-2022/mmfa-2022-08-09T14:46:40.358038-04:00.jpg"
-     alt="Media Matters at 2022-08-09 14:46:41-04:00 local time"
+     alt="Media Matters at 2022-08-09 07:46:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-09T14:46:40.358038-04:00.jpg">August 9 at 2:46 PM</a></p>
+ <p><a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-09T14:46:40.358038-04:00.jpg">August 9 at 7:46 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-09T13:34:37.934325-04:00.jpg">
   <img src="https://archive.org/download/mmfa-2022/mmfa-2022-08-09T13:34:37.934325-04:00.jpg"
-     alt="Media Matters at 2022-08-09 13:34:39-04:00 local time"
+     alt="Media Matters at 2022-08-09 06:34:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-09T13:34:37.934325-04:00.jpg">August 9 at 1:34 PM</a></p>
+ <p><a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-09T13:34:37.934325-04:00.jpg">August 9 at 6:34 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-08T23:51:33.454137-04:00.jpg">
   <img src="https://archive.org/download/mmfa-2022/mmfa-2022-08-08T23:51:33.454137-04:00.jpg"
-     alt="Media Matters at 2022-08-08 23:51:35-04:00 local time"
+     alt="Media Matters at 2022-08-08 16:51:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-08T23:51:33.454137-04:00.jpg">August 8 at 11:51 PM</a></p>
+ <p><a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-08T23:51:33.454137-04:00.jpg">August 8 at 4:51 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-08T14:38:59.215207-04:00.jpg">
   <img src="https://archive.org/download/mmfa-2022/mmfa-2022-08-08T14:38:59.215207-04:00.jpg"
-     alt="Media Matters at 2022-08-08 14:39:01-04:00 local time"
+     alt="Media Matters at 2022-08-08 07:39:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-08T14:38:59.215207-04:00.jpg">August 8 at 2:39 PM</a></p>
+ <p><a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-08T14:38:59.215207-04:00.jpg">August 8 at 7:39 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-08T13:09:02.151278-04:00.jpg">
   <img src="https://archive.org/download/mmfa-2022/mmfa-2022-08-08T13:09:02.151278-04:00.jpg"
-     alt="Media Matters at 2022-08-08 13:09:05-04:00 local time"
+     alt="Media Matters at 2022-08-08 06:09:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-08T13:09:02.151278-04:00.jpg">August 8 at 1:09 PM</a></p>
+ <p><a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-08T13:09:02.151278-04:00.jpg">August 8 at 6:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-08T01:16:58.330849-04:00.jpg">
   <img src="https://archive.org/download/mmfa-2022/mmfa-2022-08-08T01:16:58.330849-04:00.jpg"
-     alt="Media Matters at 2022-08-08 01:17:01-04:00 local time"
+     alt="Media Matters at 2022-08-07 18:17:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-08T01:16:58.330849-04:00.jpg">August 8 at 1:17 AM</a></p>
+ <p><a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-08T01:16:58.330849-04:00.jpg">August 7 at 6:17 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-07T14:45:27.260476-04:00.jpg">
   <img src="https://archive.org/download/mmfa-2022/mmfa-2022-08-07T14:45:27.260476-04:00.jpg"
-     alt="Media Matters at 2022-08-07 14:45:28-04:00 local time"
+     alt="Media Matters at 2022-08-07 07:45:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-07T14:45:27.260476-04:00.jpg">August 7 at 2:45 PM</a></p>
+ <p><a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-07T14:45:27.260476-04:00.jpg">August 7 at 7:45 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-07T12:56:11.672490-04:00.jpg">
   <img src="https://archive.org/download/mmfa-2022/mmfa-2022-08-07T12:56:11.672490-04:00.jpg"
-     alt="Media Matters at 2022-08-07 12:56:12-04:00 local time"
+     alt="Media Matters at 2022-08-07 05:56:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-07T12:56:11.672490-04:00.jpg">August 7 at 12:56 PM</a></p>
+ <p><a href="https://archive.org/download/mmfa-2022/mmfa-2022-08-07T12:56:11.672490-04:00.jpg">August 7 at 5:56 AM</a></p>
 </div>
 
 </div>
@@ -314,16 +314,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 10 at 11:59 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-10T23:59:41.545669-04:00.hyperlinks.json) |
-| [August 10 at 3:40 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-10T15:40:25.991650-04:00.hyperlinks.json) |
-| [August 10 at 2:12 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-10T14:12:26.975634-04:00.hyperlinks.json) |
-| [August 10 at 12:07 AM](https://archive.org/download/mmfa-2022/mmfa-2022-08-10T00:07:01.131640-04:00.hyperlinks.json) |
-| [August 9 at 2:46 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-09T14:46:40.358038-04:00.hyperlinks.json) |
-| [August 9 at 1:34 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-09T13:34:37.934325-04:00.hyperlinks.json) |
-| [August 8 at 11:51 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-08T23:51:33.454137-04:00.hyperlinks.json) |
-| [August 8 at 2:39 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-08T14:38:59.215207-04:00.hyperlinks.json) |
-| [August 8 at 1:09 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-08T13:09:02.151278-04:00.hyperlinks.json) |
-| [August 8 at 1:17 AM](https://archive.org/download/mmfa-2022/mmfa-2022-08-08T01:16:58.330849-04:00.hyperlinks.json) |
+| [August 10 at 4:59 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-10T23:59:41.545669-04:00.hyperlinks.json) |
+| [August 10 at 8:40 AM](https://archive.org/download/mmfa-2022/mmfa-2022-08-10T15:40:25.991650-04:00.hyperlinks.json) |
+| [August 10 at 7:12 AM](https://archive.org/download/mmfa-2022/mmfa-2022-08-10T14:12:26.975634-04:00.hyperlinks.json) |
+| [August 9 at 5:07 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-10T00:07:01.131640-04:00.hyperlinks.json) |
+| [August 9 at 7:46 AM](https://archive.org/download/mmfa-2022/mmfa-2022-08-09T14:46:40.358038-04:00.hyperlinks.json) |
+| [August 9 at 6:34 AM](https://archive.org/download/mmfa-2022/mmfa-2022-08-09T13:34:37.934325-04:00.hyperlinks.json) |
+| [August 8 at 4:51 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-08T23:51:33.454137-04:00.hyperlinks.json) |
+| [August 8 at 7:39 AM](https://archive.org/download/mmfa-2022/mmfa-2022-08-08T14:38:59.215207-04:00.hyperlinks.json) |
+| [August 8 at 6:09 AM](https://archive.org/download/mmfa-2022/mmfa-2022-08-08T13:09:02.151278-04:00.hyperlinks.json) |
+| [August 7 at 6:17 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-08T01:16:58.330849-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -419,16 +419,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 10 at 11:59 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-10T23:59:41.545669-04:00.accessibility.json) |
-| [August 10 at 3:40 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-10T15:40:25.991650-04:00.accessibility.json) |
-| [August 10 at 2:12 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-10T14:12:26.975634-04:00.accessibility.json) |
-| [August 10 at 12:07 AM](https://archive.org/download/mmfa-2022/mmfa-2022-08-10T00:07:01.131640-04:00.accessibility.json) |
-| [August 9 at 2:46 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-09T14:46:40.358038-04:00.accessibility.json) |
-| [August 9 at 1:34 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-09T13:34:37.934325-04:00.accessibility.json) |
-| [August 8 at 11:51 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-08T23:51:33.454137-04:00.accessibility.json) |
-| [August 8 at 2:39 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-08T14:38:59.215207-04:00.accessibility.json) |
-| [August 8 at 1:09 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-08T13:09:02.151278-04:00.accessibility.json) |
-| [August 8 at 1:17 AM](https://archive.org/download/mmfa-2022/mmfa-2022-08-08T01:16:58.330849-04:00.accessibility.json) |
+| [August 10 at 4:59 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-10T23:59:41.545669-04:00.accessibility.json) |
+| [August 10 at 8:40 AM](https://archive.org/download/mmfa-2022/mmfa-2022-08-10T15:40:25.991650-04:00.accessibility.json) |
+| [August 10 at 7:12 AM](https://archive.org/download/mmfa-2022/mmfa-2022-08-10T14:12:26.975634-04:00.accessibility.json) |
+| [August 9 at 5:07 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-10T00:07:01.131640-04:00.accessibility.json) |
+| [August 9 at 7:46 AM](https://archive.org/download/mmfa-2022/mmfa-2022-08-09T14:46:40.358038-04:00.accessibility.json) |
+| [August 9 at 6:34 AM](https://archive.org/download/mmfa-2022/mmfa-2022-08-09T13:34:37.934325-04:00.accessibility.json) |
+| [August 8 at 4:51 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-08T23:51:33.454137-04:00.accessibility.json) |
+| [August 8 at 7:39 AM](https://archive.org/download/mmfa-2022/mmfa-2022-08-08T14:38:59.215207-04:00.accessibility.json) |
+| [August 8 at 6:09 AM](https://archive.org/download/mmfa-2022/mmfa-2022-08-08T13:09:02.151278-04:00.accessibility.json) |
+| [August 7 at 6:17 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-08T01:16:58.330849-04:00.accessibility.json) |
 
 
 
@@ -525,16 +525,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 10 at 11:59 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-10T23:59:41.545669-04:00.lighthouse.json) |
-| [August 10 at 3:40 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-10T15:40:25.991650-04:00.lighthouse.json) |
-| [August 10 at 2:12 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-10T14:12:26.975634-04:00.lighthouse.json) |
-| [August 10 at 12:07 AM](https://archive.org/download/mmfa-2022/mmfa-2022-08-10T00:07:01.131640-04:00.lighthouse.json) |
-| [August 9 at 2:46 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-09T14:46:40.358038-04:00.lighthouse.json) |
-| [August 9 at 1:34 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-09T13:34:37.934325-04:00.lighthouse.json) |
-| [August 8 at 11:51 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-08T23:51:33.454137-04:00.lighthouse.json) |
-| [August 8 at 2:39 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-08T14:38:59.215207-04:00.lighthouse.json) |
-| [August 8 at 1:09 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-08T13:09:02.151278-04:00.lighthouse.json) |
-| [August 8 at 1:17 AM](https://archive.org/download/mmfa-2022/mmfa-2022-08-08T01:16:58.330849-04:00.lighthouse.json) |
+| [August 10 at 4:59 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-10T23:59:41.545669-04:00.lighthouse.json) |
+| [August 10 at 8:40 AM](https://archive.org/download/mmfa-2022/mmfa-2022-08-10T15:40:25.991650-04:00.lighthouse.json) |
+| [August 10 at 7:12 AM](https://archive.org/download/mmfa-2022/mmfa-2022-08-10T14:12:26.975634-04:00.lighthouse.json) |
+| [August 9 at 5:07 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-10T00:07:01.131640-04:00.lighthouse.json) |
+| [August 9 at 7:46 AM](https://archive.org/download/mmfa-2022/mmfa-2022-08-09T14:46:40.358038-04:00.lighthouse.json) |
+| [August 9 at 6:34 AM](https://archive.org/download/mmfa-2022/mmfa-2022-08-09T13:34:37.934325-04:00.lighthouse.json) |
+| [August 8 at 4:51 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-08T23:51:33.454137-04:00.lighthouse.json) |
+| [August 8 at 7:39 AM](https://archive.org/download/mmfa-2022/mmfa-2022-08-08T14:38:59.215207-04:00.lighthouse.json) |
+| [August 8 at 6:09 AM](https://archive.org/download/mmfa-2022/mmfa-2022-08-08T13:09:02.151278-04:00.lighthouse.json) |
+| [August 7 at 6:17 PM](https://archive.org/download/mmfa-2022/mmfa-2022-08-08T01:16:58.330849-04:00.lighthouse.json) |
 
 
 
