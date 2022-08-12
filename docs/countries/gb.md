@@ -7,7 +7,7 @@ orphan: true
 
 # United Kingdom of Great Britain and Northern Ireland
 
-The most recent homepages from 23 news sites in this country.
+The most recent homepages from 24 news sites in this country.
 
 <div class="latest-parent">
 
@@ -81,6 +81,15 @@ The most recent homepages from 23 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/dailymirror.html">Daily Mirror</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/daily_record.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/daily_record.jpg"
+     alt="Daily Record"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/daily_record.html">Daily Record</a></p>
 </div>
 
 <div class="latest-child">
@@ -232,6 +241,7 @@ The most recent homepages from 23 news sites in this country.
 |[Daily Herald](https://palewi.re/docs/news-homepages/sites/heraldscotland.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/heraldscotland.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/heraldscotland.xml)|
 |[Daily Mail](https://palewi.re/docs/news-homepages/sites/mailonline.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mailonline.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mailonline.xml)|
 |[Daily Mirror](https://palewi.re/docs/news-homepages/sites/dailymirror.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dailymirror.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/dailymirror.xml)|
+|[Daily Record](https://palewi.re/docs/news-homepages/sites/daily_record.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/daily_record.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/daily_record.xml)|
 |[Economist](https://palewi.re/docs/news-homepages/sites/theeconomist.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theeconomist.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theeconomist.xml)|
 |[Evening Standard](https://palewi.re/docs/news-homepages/sites/eveningstandard.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/eveningstandard.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/eveningstandard.xml)|
 |[Financial Times](https://palewi.re/docs/news-homepages/sites/ft.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ft.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ft.xml)|

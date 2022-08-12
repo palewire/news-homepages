@@ -7,18 +7,9 @@ orphan: true
 
 # Ukraine
 
-The most recent homepages from 7 news sites in this country.
+The most recent homepages from 6 news sites in this country.
 
 <div class="latest-parent">
-
-<div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/daily_record.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/daily_record.jpg"
-     alt="Daily Record"
-     loading="lazy">
- </a>
- <p><a href="../sites/daily_record.html">Daily Record</a></p>
-</div>
 
 <div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/hromadskeua.html">
@@ -80,7 +71,6 @@ The most recent homepages from 7 news sites in this country.
 
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |
-|[Daily Record](https://palewi.re/docs/news-homepages/sites/daily_record.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/daily_record.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/daily_record.xml)|
 |[hromadske](https://palewi.re/docs/news-homepages/sites/hromadskeua.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hromadskeua.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/hromadskeua.xml)|
 |[Kyiv Independent](https://palewi.re/docs/news-homepages/sites/kyivindependent.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kyivindependent.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/kyivindependent.xml)|
 |[KyivPost](https://palewi.re/docs/news-homepages/sites/kyivpost.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kyivpost.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/kyivpost.xml)|
