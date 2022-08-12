@@ -25,7 +25,7 @@ def bundles():
     """Create bundle feeds."""
     # Get data
     bundle_list = utils.get_bundle_list()
-    screenshot_list = utils.get_screenshot_list()
+    screenshot_df = utils.get_screenshot_df()
     print(f":basket: Creating RSS feeds for {len(bundle_list)} bundles")
 
     # Set timestamp for feeds
@@ -39,13 +39,12 @@ def bundles():
 
         # Pull all of the screenshots for the sites
         handle_list = [s["handle"].lower() for s in site_list]
-        file_list = [s for s in screenshot_list if s["handle"].lower() in handle_list]
-
-        # Sort reverse chron
-        sorted_list = sorted(file_list, key=lambda x: x["mtime"], reverse=True)
+        file_list = screenshot_df[
+            screenshot_df.handle.str.lower().isin(handle_list)
+        ].sort_values("mtime", ascending=False)
 
         # Trim to the latest 50 items
-        trimmed_list = sorted_list[:50]
+        trimmed_list = file_list.head(50).to_dict(orient="records")
 
         # Localize the the timestamp in each file
         bundle_tz = pytz.timezone(bundle["timezone"])
