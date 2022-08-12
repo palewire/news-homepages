@@ -168,21 +168,21 @@ jobs:
         name: Commit
         uses: ./.github/actions/commit
 
-#  mosaic:
-#    name: Create JPG mosaic
-#    runs-on: ubuntu-latest
-#    timeout-minutes: 15
-#    needs: [jpg]
-#    steps:
-#      - id: checkout
-#        name: Checkout
-#        uses: actions/checkout@v3
+  mosaic:
+    name: Create JPG mosaic
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    needs: [jpg]
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
 
-#      - id: mosaic
-#        name: Mosaic
-#        uses: ./.github/actions/mosaic
-#        with:
-#          command: jpg
+      - id: mosaic
+        name: Mosaic
+        uses: ./.github/actions/mosaic
+        with:
+          command: jpg
 
 #  discord:
 #    name: Post to Discord

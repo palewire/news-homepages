@@ -87,7 +87,11 @@ def get_country_df() -> pd.DataFrame:
 
     Returns a pandas DataFrame.
     """
-    return pd.DataFrame(iso3166.countries_by_name.values()).sort_values("name")
+    country_df = pd.DataFrame(iso3166.countries_by_name.values()).sort_values("name")
+    country_df["timezone_list"] = country_df.alpha2.apply(
+        lambda x: pytz.country_timezones.get(x, [])
+    )
+    return country_df
 
 
 def get_site(handle: str) -> typing.Dict:
