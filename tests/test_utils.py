@@ -8,6 +8,14 @@ def test_sites():
     assert utils.get_site("latimes")["name"] == "Los Angeles Times"
     unique_handles = {i["handle"].lower() for i in site_list}
     assert len(site_list) == len(unique_handles)
+    # Make sure all the required fields are filled in
+    site_df = utils.get_site_df()
+    assert not site_df.handle.isnull().any()
+    assert not site_df.url.isnull().any()
+    assert not site_df.name.isnull().any()
+    assert not site_df.location.isnull().any()
+    assert not site_df.timezone.isnull().any()
+    assert not site_df.country.isnull().any()
 
 
 def test_bundles():
