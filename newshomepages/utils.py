@@ -49,7 +49,8 @@ def get_site_df() -> pd.DataFrame:
 
     Returns a DataFrame.
     """
-    df = pd.read_csv(SITES_PATH).sort_values("handle")
+    df = pd.read_csv(SITES_PATH, dtype={"wait": str}).sort_values("handle")
+    df["wait"].fillna("", inplace=True)
 
     def _split_bundle(row):
         if not pd.isnull(row["bundle"]):
