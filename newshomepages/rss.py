@@ -74,18 +74,9 @@ def bundles():
 @cli.command()
 def opml():
     """Create an OPML file with all site feeds."""
-    print(":newspaper: Creating file for sites")
-
-    # Get a list of all sites
-    site_list = utils.get_site_list()
-
-    # Create an OPML that collects them all
-    template = TEMPLATE_ENV.get_template("sites.opml.tmpl")
-    opml = template.render(site_list=site_list)
-
-    # Write it out
-    with open(RSS_DIR / "sites" / "opml.xml", "w") as fh:
-        fh.write(opml)
+    print(":newspaper: Creating OPML file listing RSS feeds for all sites")
+    context = dict(site_list=utils.get_site_list())
+    _write_template("sites.opml", context, "sites/opml.xml")
 
 
 @cli.command()
@@ -153,6 +144,14 @@ def sites():
     all_ = template.render(file_list=final_list, now=now)
     with open(SITE_DIR / "all.xml", "w") as fh:
         fh.write(all_)
+
+
+def _write_template(template_name, context, output_name=None):
+    template = TEMPLATE_ENV.get_template(f"{template_name}.tmpl")
+    md = template.render(**context)
+    output_path = RSS_DIR / (output_name or template_name)
+    with open(output_path, "w") as fh:
+        fh.write(md)
 
 
 if __name__ == "__main__":
