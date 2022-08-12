@@ -64,6 +64,23 @@ def bundle_list():
 
 
 @cli.command()
+def country_list():
+    """Create country list."""
+    # Get data
+    country_list = utils.get_country_list()
+    for c in country_list:
+        c["site_list"] = utils.get_sites_in_country(c["alpha2"])
+    print("🗺️ Creating country list page")
+    _write_template(
+        "countries.md",
+        dict(
+            has_list=[c for c in country_list if len(c["site_list"])],
+            hasnot_list=[c for c in country_list if not len(c["site_list"])],
+        ),
+    )
+
+
+@cli.command()
 def bundle_detail():
     """Create bundle detail pages."""
     # Get all bundles
@@ -83,6 +100,26 @@ def bundle_detail():
 
         with open(PARENT_DIR / "docs" / "bundles" / f"{bundle['slug']}.md", "w") as fh:
             fh.write(md)
+
+
+@cli.command()
+def country_detail():
+    """Create country detail pages."""
+    country_list = utils.get_country_list()
+    print(f"🗺️reating {len(country_list)} country detail pages")
+
+    # For each site ...
+    for obj in track(country_list):
+        site_list = utils.get_sites_in_country(obj["alpha2"])
+        if not len(site_list):
+            continue
+        context = {
+            "country": obj,
+            "site_list": sorted(site_list, key=lambda x: x["name"].lower()),
+        }
+        _write_template(
+            "country_detail.md", context, f"countries/{obj['alpha2'].lower()}.md"
+        )
 
 
 @cli.command()
@@ -361,6 +398,14 @@ def _count_by_date(df, field):
 
     # Return it back
     return trimmed
+
+
+def _write_template(template_name, context, output_name=None):
+    template = TEMPLATE_ENV.get_template(f"{template_name}.tmpl")
+    md = template.render(**context)
+    output_path = PARENT_DIR / "docs" / (output_name or template_name)
+    with open(output_path, "w") as fh:
+        fh.write(md)
 
 
 def _write_chart_json(df, path):

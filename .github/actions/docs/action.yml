@@ -23,6 +23,11 @@ runs:
       run: pipenv run python -m newshomepages.docs bundle-list;
       shell: bash
 
+    - id: country-list
+      name: Update country list
+      run: pipenv run python -m newshomepages.docs country-list;
+      shell: bash
+
     - id: site-detail
       name: Update site detail
       run: pipenv run python -m newshomepages.docs site-detail;
@@ -51,6 +56,11 @@ runs:
     - id: bundle-detail
       name: Update bundle detail
       run: pipenv run python -m newshomepages.docs bundle-detail;
+      shell: bash
+
+    - id: country-detail
+      name: Update country detail
+      run: pipenv run python -m newshomepages.docs country-detail;
       shell: bash
 
     - id: configure-github

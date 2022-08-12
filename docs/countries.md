@@ -1,0 +1,263 @@
+```{include} _templates/nav.html
+```
+
+# Country directory
+
+The archiving routine is currently saving sites in 29 countries.
+
+| Country  | Sites |
+| :------- | :---- |
+|[Argentina](https://palewi.re/docs/news-homepages/countries/ar.html)|9|
+|[Australia](https://palewi.re/docs/news-homepages/countries/au.html)|1|
+|[Belgium](https://palewi.re/docs/news-homepages/countries/be.html)|1|
+|[Bosnia and Herzegovina](https://palewi.re/docs/news-homepages/countries/ba.html)|1|
+|[Brazil](https://palewi.re/docs/news-homepages/countries/br.html)|37|
+|[Canada](https://palewi.re/docs/news-homepages/countries/ca.html)|20|
+|[Colombia](https://palewi.re/docs/news-homepages/countries/co.html)|2|
+|[El Salvador](https://palewi.re/docs/news-homepages/countries/sv.html)|1|
+|[France](https://palewi.re/docs/news-homepages/countries/fr.html)|16|
+|[Georgia](https://palewi.re/docs/news-homepages/countries/ge.html)|1|
+|[Germany](https://palewi.re/docs/news-homepages/countries/de.html)|9|
+|[India](https://palewi.re/docs/news-homepages/countries/in.html)|9|
+|[Ireland](https://palewi.re/docs/news-homepages/countries/ie.html)|6|
+|[Italy](https://palewi.re/docs/news-homepages/countries/it.html)|4|
+|[Japan](https://palewi.re/docs/news-homepages/countries/jp.html)|9|
+|[Latvia](https://palewi.re/docs/news-homepages/countries/lv.html)|1|
+|[Lebanon](https://palewi.re/docs/news-homepages/countries/lb.html)|1|
+|[Mexico](https://palewi.re/docs/news-homepages/countries/mx.html)|4|
+|[Nepal](https://palewi.re/docs/news-homepages/countries/np.html)|24|
+|[New Zealand](https://palewi.re/docs/news-homepages/countries/nz.html)|4|
+|[Norway](https://palewi.re/docs/news-homepages/countries/no.html)|8|
+|[Qatar](https://palewi.re/docs/news-homepages/countries/qa.html)|1|
+|[Russian Federation](https://palewi.re/docs/news-homepages/countries/ru.html)|8|
+|[Spain](https://palewi.re/docs/news-homepages/countries/es.html)|13|
+|[Taiwan, Province of China](https://palewi.re/docs/news-homepages/countries/tw.html)|4|
+|[Ukraine](https://palewi.re/docs/news-homepages/countries/ua.html)|7|
+|[United Kingdom of Great Britain and Northern Ireland](https://palewi.re/docs/news-homepages/countries/gb.html)|23|
+|[United States of America](https://palewi.re/docs/news-homepages/countries/us.html)|555|
+|[Uruguay](https://palewi.re/docs/news-homepages/countries/uy.html)|1|
+
+
+The system is not yet archiving sites in the following 221 countries. Help us expand our coverage. Read [our guide to adding sites](https://palewi.re/docs/news-homepages/adding.html) and make a contribution.
+
+* Afghanistan
+* Albania
+* Algeria
+* American Samoa
+* Andorra
+* Angola
+* Anguilla
+* Antarctica
+* Antigua and Barbuda
+* Armenia
+* Aruba
+* Austria
+* Azerbaijan
+* Bahamas
+* Bahrain
+* Bangladesh
+* Barbados
+* Belarus
+* Belize
+* Benin
+* Bermuda
+* Bhutan
+* Bolivia, Plurinational State of
+* Bonaire, Sint Eustatius and Saba
+* Botswana
+* Bouvet Island
+* British Indian Ocean Territory
+* Brunei Darussalam
+* Bulgaria
+* Burkina Faso
+* Burundi
+* Cabo Verde
+* Cambodia
+* Cameroon
+* Cayman Islands
+* Central African Republic
+* Chad
+* Chile
+* China
+* Christmas Island
+* Cocos (Keeling) Islands
+* Comoros
+* Congo
+* Congo, Democratic Republic of the
+* Cook Islands
+* Costa Rica
+* Croatia
+* Cuba
+* Curaçao
+* Cyprus
+* Czechia
+* Côte d'Ivoire
+* Denmark
+* Djibouti
+* Dominica
+* Dominican Republic
+* Ecuador
+* Egypt
+* Equatorial Guinea
+* Eritrea
+* Estonia
+* Eswatini
+* Ethiopia
+* Falkland Islands (Malvinas)
+* Faroe Islands
+* Fiji
+* Finland
+* French Guiana
+* French Polynesia
+* French Southern Territories
+* Gabon
+* Gambia
+* Ghana
+* Gibraltar
+* Greece
+* Greenland
+* Grenada
+* Guadeloupe
+* Guam
+* Guatemala
+* Guernsey
+* Guinea
+* Guinea-Bissau
+* Guyana
+* Haiti
+* Heard Island and McDonald Islands
+* Holy See
+* Honduras
+* Hong Kong
+* Hungary
+* Iceland
+* Indonesia
+* Iran, Islamic Republic of
+* Iraq
+* Isle of Man
+* Israel
+* Jamaica
+* Jersey
+* Jordan
+* Kazakhstan
+* Kenya
+* Kiribati
+* Korea, Democratic People's Republic of
+* Korea, Republic of
+* Kosovo
+* Kuwait
+* Kyrgyzstan
+* Lao People's Democratic Republic
+* Lesotho
+* Liberia
+* Libya
+* Liechtenstein
+* Lithuania
+* Luxembourg
+* Macao
+* Madagascar
+* Malawi
+* Malaysia
+* Maldives
+* Mali
+* Malta
+* Marshall Islands
+* Martinique
+* Mauritania
+* Mauritius
+* Mayotte
+* Micronesia, Federated States of
+* Moldova, Republic of
+* Monaco
+* Mongolia
+* Montenegro
+* Montserrat
+* Morocco
+* Mozambique
+* Myanmar
+* Namibia
+* Nauru
+* Netherlands
+* New Caledonia
+* Nicaragua
+* Niger
+* Nigeria
+* Niue
+* Norfolk Island
+* North Macedonia
+* Northern Mariana Islands
+* Oman
+* Pakistan
+* Palau
+* Palestine, State of
+* Panama
+* Papua New Guinea
+* Paraguay
+* Peru
+* Philippines
+* Pitcairn
+* Poland
+* Portugal
+* Puerto Rico
+* Romania
+* Rwanda
+* Réunion
+* Saint Barthélemy
+* Saint Helena, Ascension and Tristan da Cunha
+* Saint Kitts and Nevis
+* Saint Lucia
+* Saint Martin (French part)
+* Saint Pierre and Miquelon
+* Saint Vincent and the Grenadines
+* Samoa
+* San Marino
+* Sao Tome and Principe
+* Saudi Arabia
+* Senegal
+* Serbia
+* Seychelles
+* Sierra Leone
+* Singapore
+* Sint Maarten (Dutch part)
+* Slovakia
+* Slovenia
+* Solomon Islands
+* Somalia
+* South Africa
+* South Georgia and the South Sandwich Islands
+* South Sudan
+* Sri Lanka
+* Sudan
+* Suriname
+* Svalbard and Jan Mayen
+* Sweden
+* Switzerland
+* Syrian Arab Republic
+* Tajikistan
+* Tanzania, United Republic of
+* Thailand
+* Timor-Leste
+* Togo
+* Tokelau
+* Tonga
+* Trinidad and Tobago
+* Tunisia
+* Turkmenistan
+* Turks and Caicos Islands
+* Tuvalu
+* Türkiye
+* Uganda
+* United Arab Emirates
+* United States Minor Outlying Islands
+* Uzbekistan
+* Vanuatu
+* Venezuela, Bolivarian Republic of
+* Viet Nam
+* Virgin Islands, British
+* Virgin Islands, U.S.
+* Wallis and Futuna
+* Western Sahara
+* Yemen
+* Zambia
+* Zimbabwe
+* Åland Islands

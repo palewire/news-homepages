@@ -4,9 +4,9 @@ from datetime import datetime
 from pathlib import Path
 from urllib.parse import urlparse
 
+import iso3166
 import pandas as pd
 import pytz
-from iso3166 import countries
 
 # Set paths for key files
 THIS_DIR = Path(__file__).parent.absolute()
@@ -51,7 +51,7 @@ def get_site_df() -> pd.DataFrame:
     """
     df = pd.read_csv(SITES_PATH).sort_values("handle")
     df["bundle_list"] = df.bundle.str.split("|")
-    df["country_name"] = df.country.apply(lambda x: countries.get(x).name)
+    df["country_name"] = df.country.apply(lambda x: iso3166.countries.get(x).name)
     return df
 
 
@@ -64,6 +64,22 @@ def get_bundle_list() -> typing.List[typing.Dict]:
         bundle_reader = csv.DictReader(fh)
         bundle_list = list(bundle_reader)
     return bundle_list
+
+
+def get_country_list():
+    """Get the full list of countries.
+
+    Returns a list of dictionaries.
+    """
+    return get_country_df().to_dict(orient="records")
+
+
+def get_country_df() -> pd.DataFrame:
+    """Get the list of countries.
+
+    Returns a pandas DataFrame.
+    """
+    return pd.DataFrame(iso3166.countries_by_name.values()).sort_values("name")
 
 
 def get_site(handle: str) -> typing.Dict:

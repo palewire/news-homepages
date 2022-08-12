@@ -13,6 +13,7 @@ An open-source archive that gathers, saves and shares news homepages
 
 latest
 sources
+countries
 bundles
 extracts
 ```
