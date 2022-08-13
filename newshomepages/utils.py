@@ -98,6 +98,24 @@ def get_country_df() -> pd.DataFrame:
     return country_df
 
 
+def get_language_list():
+    """Get the list of languages.
+
+    Returns a list of dictionaries.
+    """
+    return get_language_df().to_dict(orient="records")
+
+
+def get_language_df() -> pd.DataFrame:
+    """Get the list of languages.
+
+    Returns a pandas DataFrame.
+    """
+    site_df = get_site_df()
+    language_list = list(site_df.language.unique())
+    return pd.DataFrame([iso639.Language.from_part1(x) for x in language_list])
+
+
 def get_site(handle: str) -> typing.Dict:
     """Get the metadata for the provided site.
 
