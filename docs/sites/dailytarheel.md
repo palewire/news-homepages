@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@dailytarheel](https://www.twitter.com/dailytarheel)                                                                                  |
 | Location       | Chapel Hill                                                                                                                              |
 | Timezone       | America/New_York                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/north-carolina.html">North Carolina</a>  |
 
 ## Screenshots

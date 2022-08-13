@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@TheOklahoman_](https://www.twitter.com/TheOklahoman_)                                                                                  |
 | Location       | Oklahoma City                                                                                                                              |
 | Timezone       | America/Chicago                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        |  |
 
 ## Screenshots

@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@jacobin](https://www.twitter.com/jacobin)                                                                                  |
 | Location       | New York City                                                                                                                              |
 | Timezone       | America/New_York                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/us-left-wing.html">U.S. left wing</a>  |
 
 ## Screenshots

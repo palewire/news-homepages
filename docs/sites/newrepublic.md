@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@newrepublic](https://www.twitter.com/newrepublic)                                                                                  |
 | Location       | New York City                                                                                                                              |
 | Timezone       | America/New_York                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/us-left-wing.html">U.S. left wing</a>  |
 
 ## Screenshots

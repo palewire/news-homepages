@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@Corriere](https://www.twitter.com/Corriere)                                                                                  |
 | Location       | Milano                                                                                                                              |
 | Timezone       | Europe/Berlin                                                                                                                              |
+| Country        | [Italy](https://palewi.re/docs/news-homepages/countries/it.html)
+| Language       | [Italian](https://palewi.re/docs/news-homepages/languages/it.html)
 | Bundles        | <a href="../bundles/italy.html">Italy</a>  |
 
 ## Screenshots

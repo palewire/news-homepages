@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@jdemontreal](https://www.twitter.com/jdemontreal)                                                                                  |
 | Location       | Montreal                                                                                                                              |
 | Timezone       | America/New_York                                                                                                                              |
+| Country        | [Canada](https://palewi.re/docs/news-homepages/countries/ca.html)
+| Language       | [French](https://palewi.re/docs/news-homepages/languages/fr.html)
 | Bundles        | <a href="../bundles/canada.html">Canada</a>  |
 
 ## Screenshots

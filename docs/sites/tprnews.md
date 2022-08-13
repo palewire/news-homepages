@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@TPRNews](https://www.twitter.com/TPRNews)                                                                                  |
 | Location       | San Antonio                                                                                                                              |
 | Timezone       | America/Chicago                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/texas.html">Texas</a>  |
 
 ## Screenshots

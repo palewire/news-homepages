@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@meduzaproject](https://www.twitter.com/meduzaproject)                                                                                  |
 | Location       | Riga                                                                                                                              |
 | Timezone       | Europe/Riga                                                                                                                              |
+| Country        | [Latvia](https://palewi.re/docs/news-homepages/countries/lv.html)
+| Language       | [Russian](https://palewi.re/docs/news-homepages/languages/ru.html)
 | Bundles        | <a href="../bundles/eastern-europe.html">Eastern Europe</a>  |
 
 ## Screenshots

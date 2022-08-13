@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@populardiario](https://www.twitter.com/populardiario)                                                                                  |
 | Location       | Sarandi                                                                                                                              |
 | Timezone       | America/Buenos_Aires                                                                                                                              |
+| Country        | [Argentina](https://palewi.re/docs/news-homepages/countries/ar.html)
+| Language       | [Spanish](https://palewi.re/docs/news-homepages/languages/es.html)
 | Bundles        | <a href="../bundles/argentina.html">Argentina</a>  |
 
 ## Screenshots

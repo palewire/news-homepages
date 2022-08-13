@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@stlpublicradio](https://www.twitter.com/stlpublicradio)                                                                                  |
 | Location       | St. Louis                                                                                                                              |
 | Timezone       | America/Chicago                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/missouri.html">Missouri</a>  |
 
 ## Screenshots

@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@abc7breaking](https://www.twitter.com/abc7breaking)                                                                                  |
 | Location       | El Paso                                                                                                                              |
 | Timezone       | America/Denver                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/texas.html">Texas</a>  |
 
 ## Screenshots

@@ -11,11 +11,13 @@ orphan: true
 
 | Attribute      | Value                                                                                                                                            |
 | :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Site           | [https://timesofindia.indiatimes.com/us](https://timesofindia.indiatimes.com/us)                                                                                                                 |
+| Site           | [https://timesofindia.indiatimes.com/?loc=in](https://timesofindia.indiatimes.com/?loc=in)                                                                                                                 |
 | RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/timesofindia.xml)                                                              |
 | Twitter handle | [@timesofindia](https://www.twitter.com/timesofindia)                                                                                  |
 | Location       | New Delhi                                                                                                                              |
 | Timezone       | Asia/Kolkata                                                                                                                              |
+| Country        | [India](https://palewi.re/docs/news-homepages/countries/in.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/india.html">India</a>  |
 
 ## Screenshots

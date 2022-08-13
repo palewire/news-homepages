@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@FLPhoenixNews](https://www.twitter.com/FLPhoenixNews)                                                                                  |
 | Location       | Tallahassee                                                                                                                              |
 | Timezone       | America/New_York                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/florida.html">Florida</a>  |
 
 ## Screenshots

@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@calgaryherald](https://www.twitter.com/calgaryherald)                                                                                  |
 | Location       | Calgary                                                                                                                              |
 | Timezone       | America/Edmonton                                                                                                                              |
+| Country        | [Canada](https://palewi.re/docs/news-homepages/countries/ca.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/canada.html">Canada</a>  |
 
 ## Screenshots

@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@agenciapublica](https://www.twitter.com/agenciapublica)                                                                                  |
 | Location       | Sao Paulo                                                                                                                              |
 | Timezone       | America/Sao_Paulo                                                                                                                              |
+| Country        | [Brazil](https://palewi.re/docs/news-homepages/countries/br.html)
+| Language       | [Portuguese](https://palewi.re/docs/news-homepages/languages/pt.html)
 | Bundles        | <a href="../bundles/brazil.html">Brazil</a>  |
 
 ## Screenshots

@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@ArizCIR](https://www.twitter.com/ArizCIR)                                                                                  |
 | Location       | Phoenix                                                                                                                              |
 | Timezone       | America/Los_Angeles                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/arizona.html">Arizona</a>  |
 
 ## Screenshots

@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@prensagrafica](https://www.twitter.com/prensagrafica)                                                                                  |
 | Location       | San Salvador                                                                                                                              |
 | Timezone       | America/Denver                                                                                                                              |
+| Country        | [El Salvador](https://palewi.re/docs/news-homepages/countries/sv.html)
+| Language       | [Spanish](https://palewi.re/docs/news-homepages/languages/es.html)
 | Bundles        |  |
 
 ## Screenshots

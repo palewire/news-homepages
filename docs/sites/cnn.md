@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@cnn](https://www.twitter.com/cnn)                                                                                  |
 | Location       | Atlanta                                                                                                                              |
 | Timezone       | US/Eastern                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/us-national.html">U.S. national news</a>  |
 
 ## Screenshots

@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@ELTIEMPO](https://www.twitter.com/ELTIEMPO)                                                                                  |
 | Location       | Bogatá                                                                                                                              |
 | Timezone       | America/Bogota                                                                                                                              |
+| Country        | [Colombia](https://palewi.re/docs/news-homepages/countries/co.html)
+| Language       | [Spanish](https://palewi.re/docs/news-homepages/languages/es.html)
 | Bundles        |  |
 
 ## Screenshots

@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@reveal](https://www.twitter.com/reveal)                                                                                  |
 | Location       | Emeryville                                                                                                                              |
 | Timezone       | America/Los_Angeles                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        |  |
 
 ## Screenshots

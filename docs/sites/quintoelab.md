@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@quintoelab](https://www.twitter.com/quintoelab)                                                                                  |
 | Location       | Mexico City                                                                                                                              |
 | Timezone       | America/Mexico_City                                                                                                                              |
+| Country        | [Mexico](https://palewi.re/docs/news-homepages/countries/mx.html)
+| Language       | [Spanish](https://palewi.re/docs/news-homepages/languages/es.html)
 | Bundles        | <a href="../bundles/mexico.html">Mexico</a>  |
 
 ## Screenshots

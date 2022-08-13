@@ -5,7 +5,7 @@ orphan: true
 ```{include} ../_templates/nav.html
 ```
 
-# In These Times 
+# In These Times
 
 ![In These Times ](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/inthesetimesmag.jpg)
 
@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@inthesetimesmag](https://www.twitter.com/inthesetimesmag)                                                                                  |
 | Location       | Chicago                                                                                                                              |
 | Timezone       | America/Chicago                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/us-left-wing.html">U.S. left wing</a>  |
 
 ## Screenshots

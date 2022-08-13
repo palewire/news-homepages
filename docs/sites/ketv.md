@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@KETV](https://www.twitter.com/KETV)                                                                                  |
 | Location       | Omaha                                                                                                                              |
 | Timezone       | America/Chicago                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/nebraska.html">Nebraska</a>  |
 
 ## Screenshots

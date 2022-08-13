@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@TelemundoCHI](https://www.twitter.com/TelemundoCHI)                                                                                  |
 | Location       | Chicago                                                                                                                              |
 | Timezone       | America/Chicago                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [Spanish](https://palewi.re/docs/news-homepages/languages/es.html)
 | Bundles        | <a href="../bundles/chicago.html">Chicago</a>  |
 
 ## Screenshots

@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@techcrunch](https://www.twitter.com/techcrunch)                                                                                  |
 | Location       | San Francisco                                                                                                                              |
 | Timezone       | America/Los_Angeles                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/tech.html">Technology</a>  |
 
 ## Screenshots

@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@georgiastraight](https://www.twitter.com/georgiastraight)                                                                                  |
 | Location       | Vancouver                                                                                                                              |
 | Timezone       | America/Vancouver                                                                                                                              |
+| Country        | [Canada](https://palewi.re/docs/news-homepages/countries/ca.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/canada.html">Canada</a>  |
 
 ## Screenshots

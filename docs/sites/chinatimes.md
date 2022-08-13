@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@chinatimes](https://www.twitter.com/chinatimes)                                                                                  |
 | Location       | Taipei City                                                                                                                              |
 | Timezone       | Asia/Taipei                                                                                                                              |
+| Country        | [Taiwan, Province of China](https://palewi.re/docs/news-homepages/countries/tw.html)
+| Language       | [Chinese](https://palewi.re/docs/news-homepages/languages/zh.html)
 | Bundles        | <a href="../bundles/taiwan.html">Taiwan</a>  |
 
 ## Screenshots

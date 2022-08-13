@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@karobar_daily](https://www.twitter.com/karobar_daily)                                                                                  |
 | Location       | Kathmandu                                                                                                                              |
 | Timezone       | Asia/Kathmandu                                                                                                                              |
+| Country        | [Nepal](https://palewi.re/docs/news-homepages/countries/np.html)
+| Language       | [Nepali (macrolanguage)](https://palewi.re/docs/news-homepages/languages/ne.html)
 | Bundles        | <a href="../bundles/nepal.html">Nepal</a>  |
 
 ## Screenshots

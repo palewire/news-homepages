@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@ArkNewsOrg](https://www.twitter.com/ArkNewsOrg)                                                                                  |
 | Location       | Little Rock                                                                                                                              |
 | Timezone       | America/Chicago                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        |  |
 
 ## Screenshots

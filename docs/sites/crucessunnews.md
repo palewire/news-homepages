@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@CrucesSunNews](https://www.twitter.com/CrucesSunNews)                                                                                  |
 | Location       | Las Cruces                                                                                                                              |
 | Timezone       | America/Denver                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/new-mexico.html">New Mexico</a>  |
 
 ## Screenshots

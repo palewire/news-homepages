@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@NCRonline](https://www.twitter.com/NCRonline)                                                                                  |
 | Location       | Kansas City                                                                                                                              |
 | Timezone       | America/Chicago                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        |  |
 
 ## Screenshots

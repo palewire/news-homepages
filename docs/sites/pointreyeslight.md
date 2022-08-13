@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@PointReyesLight](https://www.twitter.com/PointReyesLight)                                                                                  |
 | Location       | Point Reyes                                                                                                                              |
 | Timezone       | America/Los_Angeles                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/bay-area.html">California Bay Area</a>  |
 
 ## Screenshots

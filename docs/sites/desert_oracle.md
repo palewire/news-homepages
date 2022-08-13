@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@Desert_Oracle](https://www.twitter.com/Desert_Oracle)                                                                                  |
 | Location       | Joshua Tree                                                                                                                              |
 | Timezone       | America/Los_Angeles                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        |  |
 
 ## Screenshots

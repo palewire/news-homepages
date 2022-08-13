@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@MO_Independent](https://www.twitter.com/MO_Independent)                                                                                  |
 | Location       | Jefferson City                                                                                                                              |
 | Timezone       | America/Chicago                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/missouri.html">Missouri</a>  |
 
 ## Screenshots

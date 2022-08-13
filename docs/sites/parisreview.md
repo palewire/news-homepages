@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@parisreview](https://www.twitter.com/parisreview)                                                                                  |
 | Location       | Paris                                                                                                                              |
 | Timezone       | Europe/Paris                                                                                                                              |
+| Country        | [France](https://palewi.re/docs/news-homepages/countries/fr.html)
+| Language       | [French](https://palewi.re/docs/news-homepages/languages/fr.html)
 | Bundles        |  |
 
 ## Screenshots

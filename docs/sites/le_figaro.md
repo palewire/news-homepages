@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@Le_Figaro](https://www.twitter.com/Le_Figaro)                                                                                  |
 | Location       | Paris                                                                                                                              |
 | Timezone       | Europe/Paris                                                                                                                              |
+| Country        | [France](https://palewi.re/docs/news-homepages/countries/fr.html)
+| Language       | [French](https://palewi.re/docs/news-homepages/languages/fr.html)
 | Bundles        | <a href="../bundles/france.html">France</a>  |
 
 ## Screenshots

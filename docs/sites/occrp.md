@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@occrp](https://www.twitter.com/occrp)                                                                                  |
 | Location       | Sarajevo                                                                                                                              |
 | Timezone       | Europe/Sarajevo                                                                                                                              |
+| Country        | [Bosnia and Herzegovina](https://palewi.re/docs/news-homepages/countries/ba.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        |  |
 
 ## Screenshots

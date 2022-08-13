@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@getFANDOM](https://www.twitter.com/getFANDOM)                                                                                  |
 | Location       | San Francisco                                                                                                                              |
 | Timezone       | America/Los_Angeles                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/entertainment.html">Entertainment</a>  |
 
 ## Screenshots

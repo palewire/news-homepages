@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@politico](https://www.twitter.com/politico)                                                                                  |
 | Location       | Washington                                                                                                                              |
 | Timezone       | America/New_York                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/capitol-hill.html">Capitol Hill</a>  |
 
 ## Screenshots

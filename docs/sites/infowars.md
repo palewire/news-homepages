@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@infowars](https://www.twitter.com/infowars)                                                                                  |
 | Location       | Austin                                                                                                                              |
 | Timezone       | America/Chicago                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/us-right-wing.html">U.S. right wing</a>  |
 
 ## Screenshots

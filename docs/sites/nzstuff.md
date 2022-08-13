@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@NZStuff](https://www.twitter.com/NZStuff)                                                                                  |
 | Location       | Auckland                                                                                                                              |
 | Timezone       | Pacific/Auckland                                                                                                                              |
+| Country        | [New Zealand](https://palewi.re/docs/news-homepages/countries/nz.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/new-zealand.html">New Zealand</a>  |
 
 ## Screenshots

@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@rianru](https://www.twitter.com/rianru)                                                                                  |
 | Location       | Moscow                                                                                                                              |
 | Timezone       | Europe/Moscow                                                                                                                              |
+| Country        | [Russian Federation](https://palewi.re/docs/news-homepages/countries/ru.html)
+| Language       | [Russian](https://palewi.re/docs/news-homepages/languages/ru.html)
 | Bundles        | <a href="../bundles/russia.html">Russia</a>  |
 
 ## Screenshots

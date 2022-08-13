@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@OCMediaorg](https://www.twitter.com/OCMediaorg)                                                                                  |
 | Location       | Tbilisi                                                                                                                              |
 | Timezone       | Asia/Tbilisi                                                                                                                              |
+| Country        | [Georgia](https://palewi.re/docs/news-homepages/countries/ge.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/eastern-europe.html">Eastern Europe</a>  |
 
 ## Screenshots

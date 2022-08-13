@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@NAYA_PATRIKA](https://www.twitter.com/NAYA_PATRIKA)                                                                                  |
 | Location       | Kathmandu                                                                                                                              |
 | Timezone       | Asia/Kathmandu                                                                                                                              |
+| Country        | [Nepal](https://palewi.re/docs/news-homepages/countries/np.html)
+| Language       | [Nepali (macrolanguage)](https://palewi.re/docs/news-homepages/languages/ne.html)
 | Bundles        | <a href="../bundles/nepal.html">Nepal</a>  |
 
 ## Screenshots

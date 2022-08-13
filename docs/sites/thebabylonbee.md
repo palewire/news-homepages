@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@TheBabylonBee](https://www.twitter.com/TheBabylonBee)                                                                                  |
 | Location       | Jupiter                                                                                                                              |
 | Timezone       | America/New_York                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/satire.html">Satire</a>  |
 
 ## Screenshots

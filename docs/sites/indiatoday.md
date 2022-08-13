@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@IndiaToday](https://www.twitter.com/IndiaToday)                                                                                  |
 | Location       | Noida                                                                                                                              |
 | Timezone       | Asia/Kolkata                                                                                                                              |
+| Country        | [India](https://palewi.re/docs/news-homepages/countries/in.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/india.html">India</a>  |
 
 ## Screenshots

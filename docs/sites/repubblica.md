@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@repubblica](https://www.twitter.com/repubblica)                                                                                  |
 | Location       | Rome                                                                                                                              |
 | Timezone       | Europe/Berlin                                                                                                                              |
+| Country        | [Italy](https://palewi.re/docs/news-homepages/countries/it.html)
+| Language       | [Italian](https://palewi.re/docs/news-homepages/languages/it.html)
 | Bundles        | <a href="../bundles/italy.html">Italy</a>  |
 
 ## Screenshots

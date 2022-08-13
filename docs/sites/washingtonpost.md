@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@washingtonpost](https://www.twitter.com/washingtonpost)                                                                                  |
 | Location       | Washington                                                                                                                              |
 | Timezone       | America/New_York                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/us-national.html">U.S. national news</a>,  <a href="../bundles/maryland.html">Maryland</a>  |
 
 ## Screenshots

@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@civio](https://www.twitter.com/civio)                                                                                  |
 | Location       | Madrid                                                                                                                              |
 | Timezone       | Europe/Madrid                                                                                                                              |
+| Country        | [Spain](https://palewi.re/docs/news-homepages/countries/es.html)
+| Language       | [Spanish](https://palewi.re/docs/news-homepages/languages/es.html)
 | Bundles        |  |
 
 ## Screenshots

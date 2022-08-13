@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@KVPR](https://www.twitter.com/KVPR)                                                                                  |
 | Location       | Clovis                                                                                                                              |
 | Timezone       | America/Los_Angeles                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        |  |
 
 ## Screenshots

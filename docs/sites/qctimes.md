@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@qctimes](https://www.twitter.com/qctimes)                                                                                  |
 | Location       | Davenport                                                                                                                              |
 | Timezone       | America/Chicago                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/iowa.html">Iowa</a>  |
 
 ## Screenshots

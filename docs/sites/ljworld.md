@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@LJWorld](https://www.twitter.com/LJWorld)                                                                                  |
 | Location       | Lawrence                                                                                                                              |
 | Timezone       | America/Chicago                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/kansas.html">Kansas</a>  |
 
 ## Screenshots

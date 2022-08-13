@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@dailypenn](https://www.twitter.com/dailypenn)                                                                                  |
 | Location       | Philadelphia                                                                                                                              |
 | Timezone       | America/New_York                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/philadelphia.html">Philadelphia</a>,  <a href="../bundles/student.html">Student</a>  |
 
 ## Screenshots

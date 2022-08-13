@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@KPR_Frankfort](https://www.twitter.com/KPR_Frankfort)                                                                                  |
 | Location       | Louisville                                                                                                                              |
 | Timezone       | America/New_York                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/kentucky.html">Kentucky</a>  |
 
 ## Screenshots

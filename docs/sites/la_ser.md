@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@La_SER](https://www.twitter.com/La_SER)                                                                                  |
 | Location       | Madrid                                                                                                                              |
 | Timezone       | Europe/Madrid                                                                                                                              |
+| Country        | [Spain](https://palewi.re/docs/news-homepages/countries/es.html)
+| Language       | [Spanish](https://palewi.re/docs/news-homepages/languages/es.html)
 | Bundles        | <a href="../bundles/spain.html">Spain</a>  |
 
 ## Screenshots

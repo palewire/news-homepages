@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@NiemanLab](https://www.twitter.com/NiemanLab)                                                                                  |
 | Location       | Cambridge                                                                                                                              |
 | Timezone       | America/New_York                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/massachusetts.html">Massachusetts</a>  |
 
 ## Screenshots

@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@TheScotsman](https://www.twitter.com/TheScotsman)                                                                                  |
 | Location       | Scotland                                                                                                                              |
 | Timezone       | Europe/London                                                                                                                              |
+| Country        | [United Kingdom of Great Britain and Northern Ireland](https://palewi.re/docs/news-homepages/countries/gb.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/scotland.html">Scotland</a>  |
 
 ## Screenshots

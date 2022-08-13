@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@fox12oregon](https://www.twitter.com/fox12oregon)                                                                                  |
 | Location       | Beaverton                                                                                                                              |
 | Timezone       | America/Los_Angeles                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/oregon.html">Oregon</a>  |
 
 ## Screenshots

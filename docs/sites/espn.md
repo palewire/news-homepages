@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@espn](https://www.twitter.com/espn)                                                                                  |
 | Location       | Stamford                                                                                                                              |
 | Timezone       | America/New_York                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/sports.html">Sports</a>  |
 
 ## Screenshots

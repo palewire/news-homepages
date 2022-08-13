@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@capgaznews](https://www.twitter.com/capgaznews)                                                                                  |
 | Location       | Annapolis                                                                                                                              |
 | Timezone       | America/New_York                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/maryland.html">Maryland</a>  |
 
 ## Screenshots

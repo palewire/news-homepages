@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@amarujalanews](https://www.twitter.com/amarujalanews)                                                                                  |
 | Location       | New Delhi                                                                                                                              |
 | Timezone       | Asia/Kolkata                                                                                                                              |
+| Country        | [India](https://palewi.re/docs/news-homepages/countries/in.html)
+| Language       | [Hindi](https://palewi.re/docs/news-homepages/languages/hi.html)
 | Bundles        | <a href="../bundles/india.html">India</a>  |
 
 ## Screenshots

@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@TheRioTimes](https://www.twitter.com/TheRioTimes)                                                                                  |
 | Location       | Rio de Janeiro                                                                                                                              |
 | Timezone       | America/Sao_Paulo                                                                                                                              |
+| Country        | [Brazil](https://palewi.re/docs/news-homepages/countries/br.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/brazil.html">Brazil</a>,  <a href="../bundles/sports.html">Sports</a>  |
 
 ## Screenshots

@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@ChessBase](https://www.twitter.com/ChessBase)                                                                                  |
 | Location       | Hamburg                                                                                                                              |
 | Timezone       | Europe/Berlin                                                                                                                              |
+| Country        | [Germany](https://palewi.re/docs/news-homepages/countries/de.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/chess.html">Chess</a>  |
 
 ## Screenshots

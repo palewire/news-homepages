@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@yorkdispatch](https://www.twitter.com/yorkdispatch)                                                                                  |
 | Location       | York                                                                                                                              |
 | Timezone       | America/New_York                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        |  |
 
 ## Screenshots

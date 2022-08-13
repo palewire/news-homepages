@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@colabnewsco](https://www.twitter.com/colabnewsco)                                                                                  |
 | Location       | Denver                                                                                                                              |
 | Timezone       | America/Denver                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        |  |
 
 ## Screenshots

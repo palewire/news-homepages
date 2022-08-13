@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@News3LV](https://www.twitter.com/News3LV)                                                                                  |
 | Location       | Las Vegas                                                                                                                              |
 | Timezone       | America/Los_Angeles                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/las-vegas.html">Las Vegas</a>  |
 
 ## Screenshots

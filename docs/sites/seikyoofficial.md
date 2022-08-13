@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@seikyoofficial](https://www.twitter.com/seikyoofficial)                                                                                  |
 | Location       | Tokyo                                                                                                                              |
 | Timezone       | Asia/Tokyo                                                                                                                              |
+| Country        | [Japan](https://palewi.re/docs/news-homepages/countries/jp.html)
+| Language       | [Japanese](https://palewi.re/docs/news-homepages/languages/ja.html)
 | Bundles        | <a href="../bundles/japan.html">Japan</a>  |
 
 ## Screenshots

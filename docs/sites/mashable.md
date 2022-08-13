@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@mashable](https://www.twitter.com/mashable)                                                                                  |
 | Location       | Silicon Valley                                                                                                                              |
 | Timezone       | America/Los_Angeles                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/tech.html">Technology</a>  |
 
 ## Screenshots

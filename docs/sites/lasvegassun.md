@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@LasVegasSun](https://www.twitter.com/LasVegasSun)                                                                                  |
 | Location       | Las Vegas                                                                                                                              |
 | Timezone       | America/Los_Angeles                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/las-vegas.html">Las Vegas</a>  |
 
 ## Screenshots

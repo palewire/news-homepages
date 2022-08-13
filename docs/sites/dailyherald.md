@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@dailyherald](https://www.twitter.com/dailyherald)                                                                                  |
 | Location       | Arlington                                                                                                                              |
 | Timezone       | America/Chicago                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/chicago.html">Chicago</a>  |
 
 ## Screenshots

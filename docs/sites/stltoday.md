@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@stltoday](https://www.twitter.com/stltoday)                                                                                  |
 | Location       | St. Louis                                                                                                                              |
 | Timezone       | America/Chicago                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/missouri.html">Missouri</a>  |
 
 ## Screenshots

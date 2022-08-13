@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@AspenJournalism](https://www.twitter.com/AspenJournalism)                                                                                  |
 | Location       | Aspen                                                                                                                              |
 | Timezone       | America/Denver                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        |  |
 
 ## Screenshots

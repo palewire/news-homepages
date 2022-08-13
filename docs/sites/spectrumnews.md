@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@SpectrumNews](https://www.twitter.com/SpectrumNews)                                                                                  |
 | Location       | Salt Lake City                                                                                                                              |
 | Timezone       | America/Denver                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        |  |
 
 ## Screenshots

@@ -11,11 +11,13 @@ orphan: true
 
 | Attribute      | Value                                                                                                                                            |
 | :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Site           | [https://www.kyivpost.com/](https://www.kyivpost.com/)                                                                                                                 |
+| Site           | [https://www.kyivpost.com/uk/](https://www.kyivpost.com/uk/)                                                                                                                 |
 | RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/kyivpost.xml)                                                              |
 | Twitter handle | [@KyivPost](https://www.twitter.com/KyivPost)                                                                                  |
 | Location       | Kiev                                                                                                                              |
 | Timezone       | Europe/Kiev                                                                                                                              |
+| Country        | [Ukraine](https://palewi.re/docs/news-homepages/countries/ua.html)
+| Language       | [Ukrainian](https://palewi.re/docs/news-homepages/languages/uk.html)
 | Bundles        | <a href="../bundles/eastern-europe.html">Eastern Europe</a>  |
 
 ## Screenshots

@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@CNET](https://www.twitter.com/CNET)                                                                                  |
 | Location       | San Francisco                                                                                                                              |
 | Timezone       | America/Los_Angeles                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/tech.html">Technology</a>  |
 
 ## Screenshots

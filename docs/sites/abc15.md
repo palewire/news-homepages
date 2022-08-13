@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@ABC15](https://www.twitter.com/ABC15)                                                                                  |
 | Location       | Phoenix                                                                                                                              |
 | Timezone       | America/Phoenix                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/arizona.html">Arizona</a>  |
 
 ## Screenshots

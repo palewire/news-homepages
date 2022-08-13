@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@KCRG](https://www.twitter.com/KCRG)                                                                                  |
 | Location       | Cedar Rapids                                                                                                                              |
 | Timezone       | America/Chicago                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/iowa.html">Iowa</a>  |
 
 ## Screenshots

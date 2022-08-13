@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@3NewsNowOmaha](https://www.twitter.com/3NewsNowOmaha)                                                                                  |
 | Location       | Omaha                                                                                                                              |
 | Timezone       | America/Chicago                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/nebraska.html">Nebraska</a>  |
 
 ## Screenshots

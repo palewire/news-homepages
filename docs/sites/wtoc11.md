@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@WTOC11](https://www.twitter.com/WTOC11)                                                                                  |
 | Location       | Savannah                                                                                                                              |
 | Timezone       | America/New_York                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/georgia.html">Georgia</a>  |
 
 ## Screenshots

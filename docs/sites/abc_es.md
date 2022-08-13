@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@abc_es](https://www.twitter.com/abc_es)                                                                                  |
 | Location       | Madrid                                                                                                                              |
 | Timezone       | Europe/Madrid                                                                                                                              |
+| Country        | [Spain](https://palewi.re/docs/news-homepages/countries/es.html)
+| Language       | [Spanish](https://palewi.re/docs/news-homepages/languages/es.html)
 | Bundles        | <a href="../bundles/spain.html">Spain</a>  |
 
 ## Screenshots

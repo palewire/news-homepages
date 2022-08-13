@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@News_Letter](https://www.twitter.com/News_Letter)                                                                                  |
 | Location       | Belfast                                                                                                                              |
 | Timezone       | Europe/Dublin                                                                                                                              |
+| Country        | [United Kingdom of Great Britain and Northern Ireland](https://palewi.re/docs/news-homepages/countries/gb.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        |  |
 
 ## Screenshots

@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@azds](https://www.twitter.com/azds)                                                                                  |
 | Location       | Flagstaff                                                                                                                              |
 | Timezone       | America/Phoenix                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/arizona.html">Arizona</a>  |
 
 ## Screenshots

@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@deshsanchar1](https://www.twitter.com/deshsanchar1)                                                                                  |
 | Location       | Kathmandu                                                                                                                              |
 | Timezone       | Asia/Kathmandu                                                                                                                              |
+| Country        | [Nepal](https://palewi.re/docs/news-homepages/countries/np.html)
+| Language       | [Nepali (macrolanguage)](https://palewi.re/docs/news-homepages/languages/ne.html)
 | Bundles        | <a href="../bundles/nepal.html">Nepal</a>  |
 
 ## Screenshots

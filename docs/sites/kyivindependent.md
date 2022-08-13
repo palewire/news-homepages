@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@kyivindependent](https://www.twitter.com/kyivindependent)                                                                                  |
 | Location       | Kiev                                                                                                                              |
 | Timezone       | Europe/Kiev                                                                                                                              |
+| Country        | [Ukraine](https://palewi.re/docs/news-homepages/countries/ua.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/eastern-europe.html">Eastern Europe</a>  |
 
 ## Screenshots

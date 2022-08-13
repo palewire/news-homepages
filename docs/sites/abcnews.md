@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@abcnews](https://www.twitter.com/abcnews)                                                                                  |
 | Location       | Sydney                                                                                                                              |
 | Timezone       | Australia/Sydney                                                                                                                              |
+| Country        | [Australia](https://palewi.re/docs/news-homepages/countries/au.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        |  |
 
 ## Screenshots

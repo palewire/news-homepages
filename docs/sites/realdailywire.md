@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@realDailyWire](https://www.twitter.com/realDailyWire)                                                                                  |
 | Location       | Nashville                                                                                                                              |
 | Timezone       | America/New_York                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/us-right-wing.html">U.S. right wing</a>  |
 
 ## Screenshots

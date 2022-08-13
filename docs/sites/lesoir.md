@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@lesoir](https://www.twitter.com/lesoir)                                                                                  |
 | Location       | Brussels                                                                                                                              |
 | Timezone       | Europe/Brussels                                                                                                                              |
+| Country        | [Belgium](https://palewi.re/docs/news-homepages/countries/be.html)
+| Language       | [French](https://palewi.re/docs/news-homepages/languages/fr.html)
 | Bundles        |  |
 
 ## Screenshots

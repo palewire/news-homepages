@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@larazon_es](https://www.twitter.com/larazon_es)                                                                                  |
 | Location       | Madrid                                                                                                                              |
 | Timezone       | Europe/Madrid                                                                                                                              |
+| Country        | [Spain](https://palewi.re/docs/news-homepages/countries/es.html)
+| Language       | [Spanish](https://palewi.re/docs/news-homepages/languages/es.html)
 | Bundles        | <a href="../bundles/spain.html">Spain</a>  |
 
 ## Screenshots

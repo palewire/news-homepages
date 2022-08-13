@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@btno](https://www.twitter.com/btno)                                                                                  |
 | Location       | Bergen                                                                                                                              |
 | Timezone       | Europe/Oslo                                                                                                                              |
+| Country        | [Norway](https://palewi.re/docs/news-homepages/countries/no.html)
+| Language       | [Norwegian](https://palewi.re/docs/news-homepages/languages/no.html)
 | Bundles        | <a href="../bundles/norway.html">Norway</a>  |
 
 ## Screenshots

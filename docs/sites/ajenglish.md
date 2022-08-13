@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@AJEnglish](https://www.twitter.com/AJEnglish)                                                                                  |
 | Location       | Doha                                                                                                                              |
 | Timezone       | Asia/Qatar                                                                                                                              |
+| Country        | [Qatar](https://palewi.re/docs/news-homepages/countries/qa.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        |  |
 
 ## Screenshots

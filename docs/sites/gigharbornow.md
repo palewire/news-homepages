@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@gigharbornow](https://www.twitter.com/gigharbornow)                                                                                  |
 | Location       | Gig Harbor                                                                                                                              |
 | Timezone       | America/Los_Angeles                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/washington.html">Washington</a>  |
 
 ## Screenshots

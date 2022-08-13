@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@newscientist](https://www.twitter.com/newscientist)                                                                                  |
 | Location       | London                                                                                                                              |
 | Timezone       | Europe/London                                                                                                                              |
+| Country        | [United Kingdom of Great Britain and Northern Ireland](https://palewi.re/docs/news-homepages/countries/gb.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        |  |
 
 ## Screenshots

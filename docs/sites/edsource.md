@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@EdSource](https://www.twitter.com/EdSource)                                                                                  |
 | Location       | Oakland                                                                                                                              |
 | Timezone       | America/Los_Angeles                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        |  |
 
 ## Screenshots

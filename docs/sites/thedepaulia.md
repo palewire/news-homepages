@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@TheDePaulia](https://www.twitter.com/TheDePaulia)                                                                                  |
 | Location       | Chicago                                                                                                                              |
 | Timezone       | America/Chicago                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/chicago.html">Chicago</a>,  <a href="../bundles/student.html">Student</a>  |
 
 ## Screenshots

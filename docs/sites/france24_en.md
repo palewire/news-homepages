@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@France24_en](https://www.twitter.com/France24_en)                                                                                  |
 | Location       | Paris                                                                                                                              |
 | Timezone       | Europe/Paris                                                                                                                              |
+| Country        | [France](https://palewi.re/docs/news-homepages/countries/fr.html)
+| Language       | [French](https://palewi.re/docs/news-homepages/languages/fr.html)
 | Bundles        | <a href="../bundles/france.html">France</a>  |
 
 ## Screenshots

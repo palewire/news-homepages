@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@GalvNews](https://www.twitter.com/GalvNews)                                                                                  |
 | Location       | Galveston                                                                                                                              |
 | Timezone       | America/Chicago                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/texas.html">Texas</a>  |
 
 ## Screenshots

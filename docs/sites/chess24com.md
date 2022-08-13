@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@chess24com](https://www.twitter.com/chess24com)                                                                                  |
 | Location       | Hamburg                                                                                                                              |
 | Timezone       | Europe/Berlin                                                                                                                              |
+| Country        | [Germany](https://palewi.re/docs/news-homepages/countries/de.html)
+| Language       | [German](https://palewi.re/docs/news-homepages/languages/de.html)
 | Bundles        | <a href="../bundles/chess.html">Chess</a>  |
 
 ## Screenshots

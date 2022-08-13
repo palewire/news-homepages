@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@WRDW_WAGT](https://www.twitter.com/WRDW_WAGT)                                                                                  |
 | Location       | Augusta                                                                                                                              |
 | Timezone       | America/New_York                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/georgia.html">Georgia</a>  |
 
 ## Screenshots

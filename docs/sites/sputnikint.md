@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@SputnikInt](https://www.twitter.com/SputnikInt)                                                                                  |
 | Location       | Moscow                                                                                                                              |
 | Timezone       | Europe/Moscow                                                                                                                              |
+| Country        | [Russian Federation](https://palewi.re/docs/news-homepages/countries/ru.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/russia.html">Russia</a>  |
 
 ## Screenshots

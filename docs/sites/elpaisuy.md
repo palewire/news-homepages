@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@elpaisuy](https://www.twitter.com/elpaisuy)                                                                                  |
 | Location       | Montevideo                                                                                                                              |
 | Timezone       | America/Montevideo                                                                                                                              |
+| Country        | [Uruguay](https://palewi.re/docs/news-homepages/countries/uy.html)
+| Language       | [Spanish](https://palewi.re/docs/news-homepages/languages/es.html)
 | Bundles        |  |
 
 ## Screenshots

@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@JoplinGlobe](https://www.twitter.com/JoplinGlobe)                                                                                  |
 | Location       | Joplin                                                                                                                              |
 | Timezone       | America/Chicago                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/missouri.html">Missouri</a>  |
 
 ## Screenshots

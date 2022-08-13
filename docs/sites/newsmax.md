@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@newsmax](https://www.twitter.com/newsmax)                                                                                  |
 | Location       | Boca Raton                                                                                                                              |
 | Timezone       | America/New_York                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/us-right-wing.html">U.S. right wing</a>  |
 
 ## Screenshots

@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@MDR_SAN](https://www.twitter.com/MDR_SAN)                                                                                  |
 | Location       | Magdeburg                                                                                                                              |
 | Timezone       | Europe/Berlin                                                                                                                              |
+| Country        | [Germany](https://palewi.re/docs/news-homepages/countries/de.html)
+| Language       | [German](https://palewi.re/docs/news-homepages/languages/de.html)
 | Bundles        | <a href="../bundles/germany.html">Germany</a>  |
 
 ## Screenshots

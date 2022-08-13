@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@ABQJournal](https://www.twitter.com/ABQJournal)                                                                                  |
 | Location       | Albuquerque                                                                                                                              |
 | Timezone       | America/Denver                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/new-mexico.html">New Mexico</a>  |
 
 ## Screenshots

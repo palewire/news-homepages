@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@11AliveNews](https://www.twitter.com/11AliveNews)                                                                                  |
 | Location       | Atlanta                                                                                                                              |
 | Timezone       | America/New_York                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/georgia.html">Georgia</a>  |
 
 ## Screenshots

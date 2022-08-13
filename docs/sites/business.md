@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@business](https://www.twitter.com/business)                                                                                  |
 | Location       | New York City                                                                                                                              |
 | Timezone       | America/New_York                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/us-national.html">U.S. national news</a>  |
 
 ## Screenshots

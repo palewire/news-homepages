@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@ThePublicSource](https://www.twitter.com/ThePublicSource)                                                                                  |
 | Location       | Beirut                                                                                                                              |
 | Timezone       | Asia/Beirut                                                                                                                              |
+| Country        | [Lebanon](https://palewi.re/docs/news-homepages/countries/lb.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        |  |
 
 ## Screenshots

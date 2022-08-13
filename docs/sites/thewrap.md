@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@TheWrap](https://www.twitter.com/TheWrap)                                                                                  |
 | Location       | Los Angeles                                                                                                                              |
 | Timezone       | America/Los_Angeles                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/entertainment.html">Entertainment</a>  |
 
 ## Screenshots

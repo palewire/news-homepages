@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@gradynewsource](https://www.twitter.com/gradynewsource)                                                                                  |
 | Location       | Athens                                                                                                                              |
 | Timezone       | America/New_York                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/georgia.html">Georgia</a>,  <a href="../bundles/student.html">Student</a>  |
 
 ## Screenshots

@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@diarioonline](https://www.twitter.com/diarioonline)                                                                                  |
 | Location       | America/Sao_Paulo                                                                                                                              |
 | Timezone       | America/Sao_Paulo                                                                                                                              |
+| Country        | [Brazil](https://palewi.re/docs/news-homepages/countries/br.html)
+| Language       | [Portuguese](https://palewi.re/docs/news-homepages/languages/pt.html)
 | Bundles        | <a href="../bundles/brazil.html">Brazil</a>  |
 
 ## Screenshots

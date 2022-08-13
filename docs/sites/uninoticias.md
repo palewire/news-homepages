@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@UniNoticias](https://www.twitter.com/UniNoticias)                                                                                  |
 | Location       | New York City                                                                                                                              |
 | Timezone       | America/New_York                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [Spanish](https://palewi.re/docs/news-homepages/languages/es.html)
 | Bundles        |  |
 
 ## Screenshots

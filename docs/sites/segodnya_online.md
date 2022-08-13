@@ -11,11 +11,13 @@ orphan: true
 
 | Attribute      | Value                                                                                                                                            |
 | :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Site           | [https://www.segodnya.ua/allnews.html](https://www.segodnya.ua/allnews.html)                                                                                                                 |
+| Site           | [https://www.segodnya.ua/ua/allnews.html](https://www.segodnya.ua/ua/allnews.html)                                                                                                                 |
 | RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/segodnya_online.xml)                                                              |
 | Twitter handle | [@segodnya_online](https://www.twitter.com/segodnya_online)                                                                                  |
 | Location       | Kiev                                                                                                                              |
 | Timezone       | Europe/Kiev                                                                                                                              |
+| Country        | [Ukraine](https://palewi.re/docs/news-homepages/countries/ua.html)
+| Language       | [Ukrainian](https://palewi.re/docs/news-homepages/languages/uk.html)
 | Bundles        | <a href="../bundles/eastern-europe.html">Eastern Europe</a>  |
 
 ## Screenshots

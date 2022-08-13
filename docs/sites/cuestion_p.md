@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@cuestion_p](https://www.twitter.com/cuestion_p)                                                                                  |
 | Location       | Bogatá                                                                                                                              |
 | Timezone       | America/Bogota                                                                                                                              |
+| Country        | [Colombia](https://palewi.re/docs/news-homepages/countries/co.html)
+| Language       | [Spanish](https://palewi.re/docs/news-homepages/languages/es.html)
 | Bundles        |  |
 
 ## Screenshots

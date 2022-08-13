@@ -16,6 +16,8 @@ orphan: true
 | Twitter handle | [@BmtEnterprise](https://www.twitter.com/BmtEnterprise)                                                                                  |
 | Location       | Beaumont                                                                                                                              |
 | Timezone       | America/Chicago                                                                                                                              |
+| Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
+| Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/texas.html">Texas</a>  |
 
 ## Screenshots
