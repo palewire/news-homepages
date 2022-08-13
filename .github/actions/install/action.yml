@@ -18,7 +18,9 @@ runs:
 
     - id: install-python-dependencies
       name: Install Python dependencies
-      run: pipenv install --dev
+      run: |
+        pipenv install --dev
+        pipenv run pip install certifi
       shell: bash
 
     - id: pip-freeze
