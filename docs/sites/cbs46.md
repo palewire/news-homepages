@@ -116,109 +116,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/cbs46-2022/cbs46-2022-08-12T12:20:42.142434-04:00.jpg">
   <img src="https://archive.org/download/cbs46-2022/cbs46-2022-08-12T12:20:42.142434-04:00.jpg"
-     alt="CBS46 at 2022-08-12 12:20:43-04:00 local time"
+     alt="CBS46 at 2022-08-12 05:20:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbs46-2022/cbs46-2022-08-12T12:20:42.142434-04:00.jpg">August 12 at 12:20 PM</a></p>
+ <p><a href="https://archive.org/download/cbs46-2022/cbs46-2022-08-12T12:20:42.142434-04:00.jpg">August 12 at 5:20 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbs46-2022/cbs46-2022-08-12T05:31:42.963806-04:00.jpg">
   <img src="https://archive.org/download/cbs46-2022/cbs46-2022-08-12T05:31:42.963806-04:00.jpg"
-     alt="CBS46 at 2022-08-12 05:31:44-04:00 local time"
+     alt="CBS46 at 2022-08-11 22:31:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbs46-2022/cbs46-2022-08-12T05:31:42.963806-04:00.jpg">August 12 at 5:31 AM</a></p>
+ <p><a href="https://archive.org/download/cbs46-2022/cbs46-2022-08-12T05:31:42.963806-04:00.jpg">August 11 at 10:31 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbs46-2022/cbs46-2022-08-11T13:02:01.071701-04:00.jpg">
   <img src="https://archive.org/download/cbs46-2022/cbs46-2022-08-11T13:02:01.071701-04:00.jpg"
-     alt="CBS46 at 2022-08-11 13:02:08-04:00 local time"
+     alt="CBS46 at 2022-08-11 06:02:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbs46-2022/cbs46-2022-08-11T13:02:01.071701-04:00.jpg">August 11 at 1:02 PM</a></p>
+ <p><a href="https://archive.org/download/cbs46-2022/cbs46-2022-08-11T13:02:01.071701-04:00.jpg">August 11 at 6:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbs46-2022/cbs46-2022-08-10T13:45:34.351222-04:00.jpg">
   <img src="https://archive.org/download/cbs46-2022/cbs46-2022-08-10T13:45:34.351222-04:00.jpg"
-     alt="CBS46 at 2022-08-10 13:45:35-04:00 local time"
+     alt="CBS46 at 2022-08-10 06:45:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbs46-2022/cbs46-2022-08-10T13:45:34.351222-04:00.jpg">August 10 at 1:45 PM</a></p>
+ <p><a href="https://archive.org/download/cbs46-2022/cbs46-2022-08-10T13:45:34.351222-04:00.jpg">August 10 at 6:45 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbs46-2022/cbs46-2022-08-09T22:34:03.483510-04:00.jpg">
   <img src="https://archive.org/download/cbs46-2022/cbs46-2022-08-09T22:34:03.483510-04:00.jpg"
-     alt="CBS46 at 2022-08-09 22:34:05-04:00 local time"
+     alt="CBS46 at 2022-08-09 15:34:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbs46-2022/cbs46-2022-08-09T22:34:03.483510-04:00.jpg">August 9 at 10:34 PM</a></p>
+ <p><a href="https://archive.org/download/cbs46-2022/cbs46-2022-08-09T22:34:03.483510-04:00.jpg">August 9 at 3:34 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbs46-2022/cbs46-2022-08-09T10:35:27.888474-04:00.jpg">
   <img src="https://archive.org/download/cbs46-2022/cbs46-2022-08-09T10:35:27.888474-04:00.jpg"
-     alt="CBS46 at 2022-08-09 10:35:29-04:00 local time"
+     alt="CBS46 at 2022-08-09 03:35:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbs46-2022/cbs46-2022-08-09T10:35:27.888474-04:00.jpg">August 9 at 10:35 AM</a></p>
+ <p><a href="https://archive.org/download/cbs46-2022/cbs46-2022-08-09T10:35:27.888474-04:00.jpg">August 9 at 3:35 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbs46-2022/cbs46-2022-08-08T22:21:47.567466-04:00.jpg">
   <img src="https://archive.org/download/cbs46-2022/cbs46-2022-08-08T22:21:47.567466-04:00.jpg"
-     alt="CBS46 at 2022-08-08 22:21:49-04:00 local time"
+     alt="CBS46 at 2022-08-08 15:21:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbs46-2022/cbs46-2022-08-08T22:21:47.567466-04:00.jpg">August 8 at 10:21 PM</a></p>
+ <p><a href="https://archive.org/download/cbs46-2022/cbs46-2022-08-08T22:21:47.567466-04:00.jpg">August 8 at 3:21 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbs46-2022/cbs46-2022-08-08T10:18:06.613754-04:00.jpg">
   <img src="https://archive.org/download/cbs46-2022/cbs46-2022-08-08T10:18:06.613754-04:00.jpg"
-     alt="CBS46 at 2022-08-08 10:18:12-04:00 local time"
+     alt="CBS46 at 2022-08-08 03:18:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbs46-2022/cbs46-2022-08-08T10:18:06.613754-04:00.jpg">August 8 at 10:18 AM</a></p>
+ <p><a href="https://archive.org/download/cbs46-2022/cbs46-2022-08-08T10:18:06.613754-04:00.jpg">August 8 at 3:18 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbs46-2022/cbs46-2022-08-07T22:31:19.368569-04:00.jpg">
   <img src="https://archive.org/download/cbs46-2022/cbs46-2022-08-07T22:31:19.368569-04:00.jpg"
-     alt="CBS46 at 2022-08-07 22:31:20-04:00 local time"
+     alt="CBS46 at 2022-08-07 15:31:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbs46-2022/cbs46-2022-08-07T22:31:19.368569-04:00.jpg">August 7 at 10:31 PM</a></p>
+ <p><a href="https://archive.org/download/cbs46-2022/cbs46-2022-08-07T22:31:19.368569-04:00.jpg">August 7 at 3:31 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbs46-2022/cbs46-2022-08-07T10:02:51.484543-04:00.jpg">
   <img src="https://archive.org/download/cbs46-2022/cbs46-2022-08-07T10:02:51.484543-04:00.jpg"
-     alt="CBS46 at 2022-08-07 10:02:52-04:00 local time"
+     alt="CBS46 at 2022-08-07 03:02:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbs46-2022/cbs46-2022-08-07T10:02:51.484543-04:00.jpg">August 7 at 10:02 AM</a></p>
+ <p><a href="https://archive.org/download/cbs46-2022/cbs46-2022-08-07T10:02:51.484543-04:00.jpg">August 7 at 3:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbs46-2022/cbs46-2022-08-06T23:07:09.363563-04:00.jpg">
   <img src="https://archive.org/download/cbs46-2022/cbs46-2022-08-06T23:07:09.363563-04:00.jpg"
-     alt="CBS46 at 2022-08-06 23:07:11-04:00 local time"
+     alt="CBS46 at 2022-08-06 16:07:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbs46-2022/cbs46-2022-08-06T23:07:09.363563-04:00.jpg">August 6 at 11:07 PM</a></p>
+ <p><a href="https://archive.org/download/cbs46-2022/cbs46-2022-08-06T23:07:09.363563-04:00.jpg">August 6 at 4:07 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbs46-2022/cbs46-2022-08-06T09:53:21.526402-04:00.jpg">
   <img src="https://archive.org/download/cbs46-2022/cbs46-2022-08-06T09:53:21.526402-04:00.jpg"
-     alt="CBS46 at 2022-08-06 09:53:23-04:00 local time"
+     alt="CBS46 at 2022-08-06 02:53:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cbs46-2022/cbs46-2022-08-06T09:53:21.526402-04:00.jpg">August 6 at 9:53 AM</a></p>
+ <p><a href="https://archive.org/download/cbs46-2022/cbs46-2022-08-06T09:53:21.526402-04:00.jpg">August 6 at 2:53 AM</a></p>
 </div>
 
 </div>
@@ -316,16 +316,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 12 at 12:20 PM](https://archive.org/download/cbs46-2022/cbs46-2022-08-12T12:20:42.142434-04:00.hyperlinks.json) |
-| [August 12 at 5:31 AM](https://archive.org/download/cbs46-2022/cbs46-2022-08-12T05:31:42.963806-04:00.hyperlinks.json) |
-| [August 11 at 10:02 PM](https://archive.org/download/cbs46-2022/cbs46-2022-08-11T22:02:41.157957-04:00.hyperlinks.json) |
-| [August 11 at 1:02 PM](https://archive.org/download/cbs46-2022/cbs46-2022-08-11T13:02:01.071701-04:00.hyperlinks.json) |
-| [August 10 at 10:23 PM](https://archive.org/download/cbs46-2022/cbs46-2022-08-10T22:23:37.966254-04:00.hyperlinks.json) |
-| [August 10 at 1:45 PM](https://archive.org/download/cbs46-2022/cbs46-2022-08-10T13:45:34.351222-04:00.hyperlinks.json) |
-| [August 9 at 10:34 PM](https://archive.org/download/cbs46-2022/cbs46-2022-08-09T22:34:03.483510-04:00.hyperlinks.json) |
-| [August 9 at 10:35 AM](https://archive.org/download/cbs46-2022/cbs46-2022-08-09T10:35:27.888474-04:00.hyperlinks.json) |
-| [August 8 at 10:21 PM](https://archive.org/download/cbs46-2022/cbs46-2022-08-08T22:21:47.567466-04:00.hyperlinks.json) |
-| [August 8 at 10:18 AM](https://archive.org/download/cbs46-2022/cbs46-2022-08-08T10:18:06.613754-04:00.hyperlinks.json) |
+| [August 12 at 5:20 AM](https://archive.org/download/cbs46-2022/cbs46-2022-08-12T12:20:42.142434-04:00.hyperlinks.json) |
+| [August 11 at 10:31 PM](https://archive.org/download/cbs46-2022/cbs46-2022-08-12T05:31:42.963806-04:00.hyperlinks.json) |
+| [August 11 at 3:02 PM](https://archive.org/download/cbs46-2022/cbs46-2022-08-11T22:02:41.157957-04:00.hyperlinks.json) |
+| [August 11 at 6:02 AM](https://archive.org/download/cbs46-2022/cbs46-2022-08-11T13:02:01.071701-04:00.hyperlinks.json) |
+| [August 10 at 3:23 PM](https://archive.org/download/cbs46-2022/cbs46-2022-08-10T22:23:37.966254-04:00.hyperlinks.json) |
+| [August 10 at 6:45 AM](https://archive.org/download/cbs46-2022/cbs46-2022-08-10T13:45:34.351222-04:00.hyperlinks.json) |
+| [August 9 at 3:34 PM](https://archive.org/download/cbs46-2022/cbs46-2022-08-09T22:34:03.483510-04:00.hyperlinks.json) |
+| [August 9 at 3:35 AM](https://archive.org/download/cbs46-2022/cbs46-2022-08-09T10:35:27.888474-04:00.hyperlinks.json) |
+| [August 8 at 3:21 PM](https://archive.org/download/cbs46-2022/cbs46-2022-08-08T22:21:47.567466-04:00.hyperlinks.json) |
+| [August 8 at 3:18 AM](https://archive.org/download/cbs46-2022/cbs46-2022-08-08T10:18:06.613754-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -421,16 +421,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 12 at 12:20 PM](https://archive.org/download/cbs46-2022/cbs46-2022-08-12T12:20:42.142434-04:00.accessibility.json) |
-| [August 12 at 5:31 AM](https://archive.org/download/cbs46-2022/cbs46-2022-08-12T05:31:42.963806-04:00.accessibility.json) |
-| [August 11 at 10:02 PM](https://archive.org/download/cbs46-2022/cbs46-2022-08-11T22:02:41.157957-04:00.accessibility.json) |
-| [August 11 at 1:02 PM](https://archive.org/download/cbs46-2022/cbs46-2022-08-11T13:02:01.071701-04:00.accessibility.json) |
-| [August 10 at 10:23 PM](https://archive.org/download/cbs46-2022/cbs46-2022-08-10T22:23:37.966254-04:00.accessibility.json) |
-| [August 10 at 1:45 PM](https://archive.org/download/cbs46-2022/cbs46-2022-08-10T13:45:34.351222-04:00.accessibility.json) |
-| [August 9 at 10:34 PM](https://archive.org/download/cbs46-2022/cbs46-2022-08-09T22:34:03.483510-04:00.accessibility.json) |
-| [August 9 at 10:35 AM](https://archive.org/download/cbs46-2022/cbs46-2022-08-09T10:35:27.888474-04:00.accessibility.json) |
-| [August 8 at 10:21 PM](https://archive.org/download/cbs46-2022/cbs46-2022-08-08T22:21:47.567466-04:00.accessibility.json) |
-| [August 8 at 10:18 AM](https://archive.org/download/cbs46-2022/cbs46-2022-08-08T10:18:06.613754-04:00.accessibility.json) |
+| [August 12 at 5:20 AM](https://archive.org/download/cbs46-2022/cbs46-2022-08-12T12:20:42.142434-04:00.accessibility.json) |
+| [August 11 at 10:31 PM](https://archive.org/download/cbs46-2022/cbs46-2022-08-12T05:31:42.963806-04:00.accessibility.json) |
+| [August 11 at 3:02 PM](https://archive.org/download/cbs46-2022/cbs46-2022-08-11T22:02:41.157957-04:00.accessibility.json) |
+| [August 11 at 6:02 AM](https://archive.org/download/cbs46-2022/cbs46-2022-08-11T13:02:01.071701-04:00.accessibility.json) |
+| [August 10 at 3:23 PM](https://archive.org/download/cbs46-2022/cbs46-2022-08-10T22:23:37.966254-04:00.accessibility.json) |
+| [August 10 at 6:45 AM](https://archive.org/download/cbs46-2022/cbs46-2022-08-10T13:45:34.351222-04:00.accessibility.json) |
+| [August 9 at 3:34 PM](https://archive.org/download/cbs46-2022/cbs46-2022-08-09T22:34:03.483510-04:00.accessibility.json) |
+| [August 9 at 3:35 AM](https://archive.org/download/cbs46-2022/cbs46-2022-08-09T10:35:27.888474-04:00.accessibility.json) |
+| [August 8 at 3:21 PM](https://archive.org/download/cbs46-2022/cbs46-2022-08-08T22:21:47.567466-04:00.accessibility.json) |
+| [August 8 at 3:18 AM](https://archive.org/download/cbs46-2022/cbs46-2022-08-08T10:18:06.613754-04:00.accessibility.json) |
 
 
 
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 12 at 12:20 PM](https://archive.org/download/cbs46-2022/cbs46-2022-08-12T12:20:42.142434-04:00.lighthouse.json) |
-| [August 12 at 5:31 AM](https://archive.org/download/cbs46-2022/cbs46-2022-08-12T05:31:42.963806-04:00.lighthouse.json) |
-| [August 11 at 10:02 PM](https://archive.org/download/cbs46-2022/cbs46-2022-08-11T22:02:41.157957-04:00.lighthouse.json) |
-| [August 11 at 1:02 PM](https://archive.org/download/cbs46-2022/cbs46-2022-08-11T13:02:01.071701-04:00.lighthouse.json) |
-| [August 10 at 10:23 PM](https://archive.org/download/cbs46-2022/cbs46-2022-08-10T22:23:37.966254-04:00.lighthouse.json) |
-| [August 10 at 1:45 PM](https://archive.org/download/cbs46-2022/cbs46-2022-08-10T13:45:34.351222-04:00.lighthouse.json) |
-| [August 9 at 10:34 PM](https://archive.org/download/cbs46-2022/cbs46-2022-08-09T22:34:03.483510-04:00.lighthouse.json) |
-| [August 9 at 10:35 AM](https://archive.org/download/cbs46-2022/cbs46-2022-08-09T10:35:27.888474-04:00.lighthouse.json) |
-| [August 8 at 10:21 PM](https://archive.org/download/cbs46-2022/cbs46-2022-08-08T22:21:47.567466-04:00.lighthouse.json) |
-| [August 8 at 10:18 AM](https://archive.org/download/cbs46-2022/cbs46-2022-08-08T10:18:06.613754-04:00.lighthouse.json) |
+| [August 12 at 5:20 AM](https://archive.org/download/cbs46-2022/cbs46-2022-08-12T12:20:42.142434-04:00.lighthouse.json) |
+| [August 11 at 10:31 PM](https://archive.org/download/cbs46-2022/cbs46-2022-08-12T05:31:42.963806-04:00.lighthouse.json) |
+| [August 11 at 3:02 PM](https://archive.org/download/cbs46-2022/cbs46-2022-08-11T22:02:41.157957-04:00.lighthouse.json) |
+| [August 11 at 6:02 AM](https://archive.org/download/cbs46-2022/cbs46-2022-08-11T13:02:01.071701-04:00.lighthouse.json) |
+| [August 10 at 3:23 PM](https://archive.org/download/cbs46-2022/cbs46-2022-08-10T22:23:37.966254-04:00.lighthouse.json) |
+| [August 10 at 6:45 AM](https://archive.org/download/cbs46-2022/cbs46-2022-08-10T13:45:34.351222-04:00.lighthouse.json) |
+| [August 9 at 3:34 PM](https://archive.org/download/cbs46-2022/cbs46-2022-08-09T22:34:03.483510-04:00.lighthouse.json) |
+| [August 9 at 3:35 AM](https://archive.org/download/cbs46-2022/cbs46-2022-08-09T10:35:27.888474-04:00.lighthouse.json) |
+| [August 8 at 3:21 PM](https://archive.org/download/cbs46-2022/cbs46-2022-08-08T22:21:47.567466-04:00.lighthouse.json) |
+| [August 8 at 3:18 AM](https://archive.org/download/cbs46-2022/cbs46-2022-08-08T10:18:06.613754-04:00.lighthouse.json) |
 
 
 

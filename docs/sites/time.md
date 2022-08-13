@@ -116,109 +116,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/time-2022/time-2022-08-12T17:12:48.747362-04:00.jpg">
   <img src="https://archive.org/download/time-2022/time-2022-08-12T17:12:48.747362-04:00.jpg"
-     alt="TIME at 2022-08-12 17:12:55-04:00 local time"
+     alt="TIME at 2022-08-12 10:12:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/time-2022/time-2022-08-12T17:12:48.747362-04:00.jpg">August 12 at 5:12 PM</a></p>
+ <p><a href="https://archive.org/download/time-2022/time-2022-08-12T17:12:48.747362-04:00.jpg">August 12 at 10:12 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/time-2022/time-2022-08-12T12:25:58.293613-04:00.jpg">
   <img src="https://archive.org/download/time-2022/time-2022-08-12T12:25:58.293613-04:00.jpg"
-     alt="TIME at 2022-08-12 12:25:59-04:00 local time"
+     alt="TIME at 2022-08-12 05:25:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/time-2022/time-2022-08-12T12:25:58.293613-04:00.jpg">August 12 at 12:25 PM</a></p>
+ <p><a href="https://archive.org/download/time-2022/time-2022-08-12T12:25:58.293613-04:00.jpg">August 12 at 5:25 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/time-2022/time-2022-08-12T12:13:55.168712-04:00.jpg">
   <img src="https://archive.org/download/time-2022/time-2022-08-12T12:13:55.168712-04:00.jpg"
-     alt="TIME at 2022-08-12 12:13:58-04:00 local time"
+     alt="TIME at 2022-08-12 05:13:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/time-2022/time-2022-08-12T12:13:55.168712-04:00.jpg">August 12 at 12:13 PM</a></p>
+ <p><a href="https://archive.org/download/time-2022/time-2022-08-12T12:13:55.168712-04:00.jpg">August 12 at 5:13 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/time-2022/time-2022-08-12T05:36:34.715575-04:00.jpg">
   <img src="https://archive.org/download/time-2022/time-2022-08-12T05:36:34.715575-04:00.jpg"
-     alt="TIME at 2022-08-12 05:36:38-04:00 local time"
+     alt="TIME at 2022-08-11 22:36:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/time-2022/time-2022-08-12T05:36:34.715575-04:00.jpg">August 12 at 5:36 AM</a></p>
+ <p><a href="https://archive.org/download/time-2022/time-2022-08-12T05:36:34.715575-04:00.jpg">August 11 at 10:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/time-2022/time-2022-08-11T17:12:30.445038-04:00.jpg">
   <img src="https://archive.org/download/time-2022/time-2022-08-11T17:12:30.445038-04:00.jpg"
-     alt="TIME at 2022-08-11 17:12:36-04:00 local time"
+     alt="TIME at 2022-08-11 10:12:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/time-2022/time-2022-08-11T17:12:30.445038-04:00.jpg">August 11 at 5:12 PM</a></p>
+ <p><a href="https://archive.org/download/time-2022/time-2022-08-11T17:12:30.445038-04:00.jpg">August 11 at 10:12 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/time-2022/time-2022-08-11T13:09:38.937016-04:00.jpg">
   <img src="https://archive.org/download/time-2022/time-2022-08-11T13:09:38.937016-04:00.jpg"
-     alt="TIME at 2022-08-11 13:09:40-04:00 local time"
+     alt="TIME at 2022-08-11 06:09:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/time-2022/time-2022-08-11T13:09:38.937016-04:00.jpg">August 11 at 1:09 PM</a></p>
+ <p><a href="https://archive.org/download/time-2022/time-2022-08-11T13:09:38.937016-04:00.jpg">August 11 at 6:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/time-2022/time-2022-08-11T12:55:45.240084-04:00.jpg">
   <img src="https://archive.org/download/time-2022/time-2022-08-11T12:55:45.240084-04:00.jpg"
-     alt="TIME at 2022-08-11 12:55:47-04:00 local time"
+     alt="TIME at 2022-08-11 05:55:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/time-2022/time-2022-08-11T12:55:45.240084-04:00.jpg">August 11 at 12:55 PM</a></p>
+ <p><a href="https://archive.org/download/time-2022/time-2022-08-11T12:55:45.240084-04:00.jpg">August 11 at 5:55 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/time-2022/time-2022-08-10T22:29:03.697722-04:00.jpg">
   <img src="https://archive.org/download/time-2022/time-2022-08-10T22:29:03.697722-04:00.jpg"
-     alt="TIME at 2022-08-10 22:29:04-04:00 local time"
+     alt="TIME at 2022-08-10 15:29:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/time-2022/time-2022-08-10T22:29:03.697722-04:00.jpg">August 10 at 10:29 PM</a></p>
+ <p><a href="https://archive.org/download/time-2022/time-2022-08-10T22:29:03.697722-04:00.jpg">August 10 at 3:29 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/time-2022/time-2022-08-10T17:16:25.278021-04:00.jpg">
   <img src="https://archive.org/download/time-2022/time-2022-08-10T17:16:25.278021-04:00.jpg"
-     alt="TIME at 2022-08-10 17:16:27-04:00 local time"
+     alt="TIME at 2022-08-10 10:16:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/time-2022/time-2022-08-10T17:16:25.278021-04:00.jpg">August 10 at 5:16 PM</a></p>
+ <p><a href="https://archive.org/download/time-2022/time-2022-08-10T17:16:25.278021-04:00.jpg">August 10 at 10:16 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/time-2022/time-2022-08-10T13:53:22.535570-04:00.jpg">
   <img src="https://archive.org/download/time-2022/time-2022-08-10T13:53:22.535570-04:00.jpg"
-     alt="TIME at 2022-08-10 13:53:27-04:00 local time"
+     alt="TIME at 2022-08-10 06:53:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/time-2022/time-2022-08-10T13:53:22.535570-04:00.jpg">August 10 at 1:53 PM</a></p>
+ <p><a href="https://archive.org/download/time-2022/time-2022-08-10T13:53:22.535570-04:00.jpg">August 10 at 6:53 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/time-2022/time-2022-08-10T10:50:50.073331-04:00.jpg">
   <img src="https://archive.org/download/time-2022/time-2022-08-10T10:50:50.073331-04:00.jpg"
-     alt="TIME at 2022-08-10 10:50:54-04:00 local time"
+     alt="TIME at 2022-08-10 03:50:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/time-2022/time-2022-08-10T10:50:50.073331-04:00.jpg">August 10 at 10:50 AM</a></p>
+ <p><a href="https://archive.org/download/time-2022/time-2022-08-10T10:50:50.073331-04:00.jpg">August 10 at 3:50 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/time-2022/time-2022-08-09T22:41:59.664187-04:00.jpg">
   <img src="https://archive.org/download/time-2022/time-2022-08-09T22:41:59.664187-04:00.jpg"
-     alt="TIME at 2022-08-09 22:42:03-04:00 local time"
+     alt="TIME at 2022-08-09 15:42:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/time-2022/time-2022-08-09T22:41:59.664187-04:00.jpg">August 9 at 10:42 PM</a></p>
+ <p><a href="https://archive.org/download/time-2022/time-2022-08-09T22:41:59.664187-04:00.jpg">August 9 at 3:42 PM</a></p>
 </div>
 
 </div>
@@ -316,16 +316,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 12 at 5:12 PM](https://archive.org/download/time-2022/time-2022-08-12T17:12:48.747362-04:00.hyperlinks.json) |
-| [August 12 at 12:26 PM](https://archive.org/download/time-2022/time-2022-08-12T12:25:58.293613-04:00.hyperlinks.json) |
-| [August 12 at 12:14 PM](https://archive.org/download/time-2022/time-2022-08-12T12:13:55.168712-04:00.hyperlinks.json) |
-| [August 12 at 5:36 AM](https://archive.org/download/time-2022/time-2022-08-12T05:36:34.715575-04:00.hyperlinks.json) |
-| [August 11 at 10:07 PM](https://archive.org/download/time-2022/time-2022-08-11T22:07:40.431244-04:00.hyperlinks.json) |
-| [August 11 at 5:12 PM](https://archive.org/download/time-2022/time-2022-08-11T17:12:30.445038-04:00.hyperlinks.json) |
-| [August 11 at 1:09 PM](https://archive.org/download/time-2022/time-2022-08-11T13:09:38.937016-04:00.hyperlinks.json) |
-| [August 11 at 12:55 PM](https://archive.org/download/time-2022/time-2022-08-11T12:55:45.240084-04:00.hyperlinks.json) |
-| [August 10 at 10:29 PM](https://archive.org/download/time-2022/time-2022-08-10T22:29:03.697722-04:00.hyperlinks.json) |
-| [August 10 at 5:16 PM](https://archive.org/download/time-2022/time-2022-08-10T17:16:25.278021-04:00.hyperlinks.json) |
+| [August 12 at 10:12 AM](https://archive.org/download/time-2022/time-2022-08-12T17:12:48.747362-04:00.hyperlinks.json) |
+| [August 12 at 5:26 AM](https://archive.org/download/time-2022/time-2022-08-12T12:25:58.293613-04:00.hyperlinks.json) |
+| [August 12 at 5:14 AM](https://archive.org/download/time-2022/time-2022-08-12T12:13:55.168712-04:00.hyperlinks.json) |
+| [August 11 at 10:36 PM](https://archive.org/download/time-2022/time-2022-08-12T05:36:34.715575-04:00.hyperlinks.json) |
+| [August 11 at 3:07 PM](https://archive.org/download/time-2022/time-2022-08-11T22:07:40.431244-04:00.hyperlinks.json) |
+| [August 11 at 10:12 AM](https://archive.org/download/time-2022/time-2022-08-11T17:12:30.445038-04:00.hyperlinks.json) |
+| [August 11 at 6:09 AM](https://archive.org/download/time-2022/time-2022-08-11T13:09:38.937016-04:00.hyperlinks.json) |
+| [August 11 at 5:55 AM](https://archive.org/download/time-2022/time-2022-08-11T12:55:45.240084-04:00.hyperlinks.json) |
+| [August 10 at 3:29 PM](https://archive.org/download/time-2022/time-2022-08-10T22:29:03.697722-04:00.hyperlinks.json) |
+| [August 10 at 10:16 AM](https://archive.org/download/time-2022/time-2022-08-10T17:16:25.278021-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -421,16 +421,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 12 at 5:12 PM](https://archive.org/download/time-2022/time-2022-08-12T17:12:48.747362-04:00.accessibility.json) |
-| [August 12 at 12:26 PM](https://archive.org/download/time-2022/time-2022-08-12T12:25:58.293613-04:00.accessibility.json) |
-| [August 12 at 12:14 PM](https://archive.org/download/time-2022/time-2022-08-12T12:13:55.168712-04:00.accessibility.json) |
-| [August 12 at 5:36 AM](https://archive.org/download/time-2022/time-2022-08-12T05:36:34.715575-04:00.accessibility.json) |
-| [August 11 at 10:07 PM](https://archive.org/download/time-2022/time-2022-08-11T22:07:40.431244-04:00.accessibility.json) |
-| [August 11 at 5:12 PM](https://archive.org/download/time-2022/time-2022-08-11T17:12:30.445038-04:00.accessibility.json) |
-| [August 11 at 1:09 PM](https://archive.org/download/time-2022/time-2022-08-11T13:09:38.937016-04:00.accessibility.json) |
-| [August 11 at 12:55 PM](https://archive.org/download/time-2022/time-2022-08-11T12:55:45.240084-04:00.accessibility.json) |
-| [August 10 at 10:29 PM](https://archive.org/download/time-2022/time-2022-08-10T22:29:03.697722-04:00.accessibility.json) |
-| [August 10 at 5:16 PM](https://archive.org/download/time-2022/time-2022-08-10T17:16:25.278021-04:00.accessibility.json) |
+| [August 12 at 10:12 AM](https://archive.org/download/time-2022/time-2022-08-12T17:12:48.747362-04:00.accessibility.json) |
+| [August 12 at 5:26 AM](https://archive.org/download/time-2022/time-2022-08-12T12:25:58.293613-04:00.accessibility.json) |
+| [August 12 at 5:14 AM](https://archive.org/download/time-2022/time-2022-08-12T12:13:55.168712-04:00.accessibility.json) |
+| [August 11 at 10:36 PM](https://archive.org/download/time-2022/time-2022-08-12T05:36:34.715575-04:00.accessibility.json) |
+| [August 11 at 3:07 PM](https://archive.org/download/time-2022/time-2022-08-11T22:07:40.431244-04:00.accessibility.json) |
+| [August 11 at 10:12 AM](https://archive.org/download/time-2022/time-2022-08-11T17:12:30.445038-04:00.accessibility.json) |
+| [August 11 at 6:09 AM](https://archive.org/download/time-2022/time-2022-08-11T13:09:38.937016-04:00.accessibility.json) |
+| [August 11 at 5:55 AM](https://archive.org/download/time-2022/time-2022-08-11T12:55:45.240084-04:00.accessibility.json) |
+| [August 10 at 3:29 PM](https://archive.org/download/time-2022/time-2022-08-10T22:29:03.697722-04:00.accessibility.json) |
+| [August 10 at 10:16 AM](https://archive.org/download/time-2022/time-2022-08-10T17:16:25.278021-04:00.accessibility.json) |
 
 
 
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 12 at 5:13 PM](https://archive.org/download/time-2022/time-2022-08-12T17:12:48.747362-04:00.lighthouse.json) |
-| [August 12 at 12:26 PM](https://archive.org/download/time-2022/time-2022-08-12T12:25:58.293613-04:00.lighthouse.json) |
-| [August 12 at 12:14 PM](https://archive.org/download/time-2022/time-2022-08-12T12:13:55.168712-04:00.lighthouse.json) |
-| [August 12 at 5:36 AM](https://archive.org/download/time-2022/time-2022-08-12T05:36:34.715575-04:00.lighthouse.json) |
-| [August 11 at 10:07 PM](https://archive.org/download/time-2022/time-2022-08-11T22:07:40.431244-04:00.lighthouse.json) |
-| [August 11 at 5:12 PM](https://archive.org/download/time-2022/time-2022-08-11T17:12:30.445038-04:00.lighthouse.json) |
-| [August 11 at 1:09 PM](https://archive.org/download/time-2022/time-2022-08-11T13:09:38.937016-04:00.lighthouse.json) |
-| [August 11 at 12:55 PM](https://archive.org/download/time-2022/time-2022-08-11T12:55:45.240084-04:00.lighthouse.json) |
-| [August 10 at 10:29 PM](https://archive.org/download/time-2022/time-2022-08-10T22:29:03.697722-04:00.lighthouse.json) |
-| [August 10 at 5:16 PM](https://archive.org/download/time-2022/time-2022-08-10T17:16:25.278021-04:00.lighthouse.json) |
+| [August 12 at 10:13 AM](https://archive.org/download/time-2022/time-2022-08-12T17:12:48.747362-04:00.lighthouse.json) |
+| [August 12 at 5:26 AM](https://archive.org/download/time-2022/time-2022-08-12T12:25:58.293613-04:00.lighthouse.json) |
+| [August 12 at 5:14 AM](https://archive.org/download/time-2022/time-2022-08-12T12:13:55.168712-04:00.lighthouse.json) |
+| [August 11 at 10:36 PM](https://archive.org/download/time-2022/time-2022-08-12T05:36:34.715575-04:00.lighthouse.json) |
+| [August 11 at 3:07 PM](https://archive.org/download/time-2022/time-2022-08-11T22:07:40.431244-04:00.lighthouse.json) |
+| [August 11 at 10:12 AM](https://archive.org/download/time-2022/time-2022-08-11T17:12:30.445038-04:00.lighthouse.json) |
+| [August 11 at 6:09 AM](https://archive.org/download/time-2022/time-2022-08-11T13:09:38.937016-04:00.lighthouse.json) |
+| [August 11 at 5:55 AM](https://archive.org/download/time-2022/time-2022-08-11T12:55:45.240084-04:00.lighthouse.json) |
+| [August 10 at 3:29 PM](https://archive.org/download/time-2022/time-2022-08-10T22:29:03.697722-04:00.lighthouse.json) |
+| [August 10 at 10:16 AM](https://archive.org/download/time-2022/time-2022-08-10T17:16:25.278021-04:00.lighthouse.json) |
 
 
 

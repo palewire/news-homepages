@@ -116,109 +116,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/msnbc-2022/msnbc-2022-08-12T17:12:53.016134-04:00.jpg">
   <img src="https://archive.org/download/msnbc-2022/msnbc-2022-08-12T17:12:53.016134-04:00.jpg"
-     alt="MSNBC at 2022-08-12 17:12:55-04:00 local time"
+     alt="MSNBC at 2022-08-12 10:12:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/msnbc-2022/msnbc-2022-08-12T17:12:53.016134-04:00.jpg">August 12 at 5:12 PM</a></p>
+ <p><a href="https://archive.org/download/msnbc-2022/msnbc-2022-08-12T17:12:53.016134-04:00.jpg">August 12 at 10:12 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/msnbc-2022/msnbc-2022-08-12T15:17:08.396755-04:00.jpg">
   <img src="https://archive.org/download/msnbc-2022/msnbc-2022-08-12T15:17:08.396755-04:00.jpg"
-     alt="MSNBC at 2022-08-12 15:17:10-04:00 local time"
+     alt="MSNBC at 2022-08-12 08:17:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/msnbc-2022/msnbc-2022-08-12T15:17:08.396755-04:00.jpg">August 12 at 3:17 PM</a></p>
+ <p><a href="https://archive.org/download/msnbc-2022/msnbc-2022-08-12T15:17:08.396755-04:00.jpg">August 12 at 8:17 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/msnbc-2022/msnbc-2022-08-12T13:57:06.849731-04:00.jpg">
   <img src="https://archive.org/download/msnbc-2022/msnbc-2022-08-12T13:57:06.849731-04:00.jpg"
-     alt="MSNBC at 2022-08-12 13:57:08-04:00 local time"
+     alt="MSNBC at 2022-08-12 06:57:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/msnbc-2022/msnbc-2022-08-12T13:57:06.849731-04:00.jpg">August 12 at 1:57 PM</a></p>
+ <p><a href="https://archive.org/download/msnbc-2022/msnbc-2022-08-12T13:57:06.849731-04:00.jpg">August 12 at 6:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/msnbc-2022/msnbc-2022-08-12T06:05:43.134965-04:00.jpg">
   <img src="https://archive.org/download/msnbc-2022/msnbc-2022-08-12T06:05:43.134965-04:00.jpg"
-     alt="MSNBC at 2022-08-12 06:06:03-04:00 local time"
+     alt="MSNBC at 2022-08-11 23:06:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/msnbc-2022/msnbc-2022-08-12T06:05:43.134965-04:00.jpg">August 12 at 6:06 AM</a></p>
+ <p><a href="https://archive.org/download/msnbc-2022/msnbc-2022-08-12T06:05:43.134965-04:00.jpg">August 11 at 11:06 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/msnbc-2022/msnbc-2022-08-11T17:12:30.573870-04:00.jpg">
   <img src="https://archive.org/download/msnbc-2022/msnbc-2022-08-11T17:12:30.573870-04:00.jpg"
-     alt="MSNBC at 2022-08-11 17:12:33-04:00 local time"
+     alt="MSNBC at 2022-08-11 10:12:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/msnbc-2022/msnbc-2022-08-11T17:12:30.573870-04:00.jpg">August 11 at 5:12 PM</a></p>
+ <p><a href="https://archive.org/download/msnbc-2022/msnbc-2022-08-11T17:12:30.573870-04:00.jpg">August 11 at 10:12 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/msnbc-2022/msnbc-2022-08-11T15:43:02.848313-04:00.jpg">
   <img src="https://archive.org/download/msnbc-2022/msnbc-2022-08-11T15:43:02.848313-04:00.jpg"
-     alt="MSNBC at 2022-08-11 15:43:05-04:00 local time"
+     alt="MSNBC at 2022-08-11 08:43:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/msnbc-2022/msnbc-2022-08-11T15:43:02.848313-04:00.jpg">August 11 at 3:43 PM</a></p>
+ <p><a href="https://archive.org/download/msnbc-2022/msnbc-2022-08-11T15:43:02.848313-04:00.jpg">August 11 at 8:43 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/msnbc-2022/msnbc-2022-08-11T14:47:13.403552-04:00.jpg">
   <img src="https://archive.org/download/msnbc-2022/msnbc-2022-08-11T14:47:13.403552-04:00.jpg"
-     alt="MSNBC at 2022-08-11 14:47:15-04:00 local time"
+     alt="MSNBC at 2022-08-11 07:47:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/msnbc-2022/msnbc-2022-08-11T14:47:13.403552-04:00.jpg">August 11 at 2:47 PM</a></p>
+ <p><a href="https://archive.org/download/msnbc-2022/msnbc-2022-08-11T14:47:13.403552-04:00.jpg">August 11 at 7:47 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/msnbc-2022/msnbc-2022-08-11T12:55:25.040860-04:00.jpg">
   <img src="https://archive.org/download/msnbc-2022/msnbc-2022-08-11T12:55:25.040860-04:00.jpg"
-     alt="MSNBC at 2022-08-11 12:55:27-04:00 local time"
+     alt="MSNBC at 2022-08-11 05:55:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/msnbc-2022/msnbc-2022-08-11T12:55:25.040860-04:00.jpg">August 11 at 12:55 PM</a></p>
+ <p><a href="https://archive.org/download/msnbc-2022/msnbc-2022-08-11T12:55:25.040860-04:00.jpg">August 11 at 5:55 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/msnbc-2022/msnbc-2022-08-10T23:59:47.484541-04:00.jpg">
   <img src="https://archive.org/download/msnbc-2022/msnbc-2022-08-10T23:59:47.484541-04:00.jpg"
-     alt="MSNBC at 2022-08-10 23:59:56-04:00 local time"
+     alt="MSNBC at 2022-08-10 16:59:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/msnbc-2022/msnbc-2022-08-10T23:59:47.484541-04:00.jpg">August 10 at 11:59 PM</a></p>
+ <p><a href="https://archive.org/download/msnbc-2022/msnbc-2022-08-10T23:59:47.484541-04:00.jpg">August 10 at 4:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/msnbc-2022/msnbc-2022-08-10T17:16:37.810325-04:00.jpg">
   <img src="https://archive.org/download/msnbc-2022/msnbc-2022-08-10T17:16:37.810325-04:00.jpg"
-     alt="MSNBC at 2022-08-10 17:16:39-04:00 local time"
+     alt="MSNBC at 2022-08-10 10:16:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/msnbc-2022/msnbc-2022-08-10T17:16:37.810325-04:00.jpg">August 10 at 5:16 PM</a></p>
+ <p><a href="https://archive.org/download/msnbc-2022/msnbc-2022-08-10T17:16:37.810325-04:00.jpg">August 10 at 10:16 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/msnbc-2022/msnbc-2022-08-10T15:40:30.897353-04:00.jpg">
   <img src="https://archive.org/download/msnbc-2022/msnbc-2022-08-10T15:40:30.897353-04:00.jpg"
-     alt="MSNBC at 2022-08-10 15:40:32-04:00 local time"
+     alt="MSNBC at 2022-08-10 08:40:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/msnbc-2022/msnbc-2022-08-10T15:40:30.897353-04:00.jpg">August 10 at 3:40 PM</a></p>
+ <p><a href="https://archive.org/download/msnbc-2022/msnbc-2022-08-10T15:40:30.897353-04:00.jpg">August 10 at 8:40 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/msnbc-2022/msnbc-2022-08-10T14:12:16.075459-04:00.jpg">
   <img src="https://archive.org/download/msnbc-2022/msnbc-2022-08-10T14:12:16.075459-04:00.jpg"
-     alt="MSNBC at 2022-08-10 14:12:18-04:00 local time"
+     alt="MSNBC at 2022-08-10 07:12:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/msnbc-2022/msnbc-2022-08-10T14:12:16.075459-04:00.jpg">August 10 at 2:12 PM</a></p>
+ <p><a href="https://archive.org/download/msnbc-2022/msnbc-2022-08-10T14:12:16.075459-04:00.jpg">August 10 at 7:12 AM</a></p>
 </div>
 
 </div>
@@ -316,16 +316,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 12 at 5:12 PM](https://archive.org/download/msnbc-2022/msnbc-2022-08-12T17:12:53.016134-04:00.hyperlinks.json) |
-| [August 12 at 3:17 PM](https://archive.org/download/msnbc-2022/msnbc-2022-08-12T15:17:08.396755-04:00.hyperlinks.json) |
-| [August 12 at 1:57 PM](https://archive.org/download/msnbc-2022/msnbc-2022-08-12T13:57:06.849731-04:00.hyperlinks.json) |
-| [August 12 at 6:06 AM](https://archive.org/download/msnbc-2022/msnbc-2022-08-12T06:05:43.134965-04:00.hyperlinks.json) |
-| [August 11 at 5:12 PM](https://archive.org/download/msnbc-2022/msnbc-2022-08-11T17:12:30.573870-04:00.hyperlinks.json) |
-| [August 11 at 3:43 PM](https://archive.org/download/msnbc-2022/msnbc-2022-08-11T15:43:02.848313-04:00.hyperlinks.json) |
-| [August 11 at 2:47 PM](https://archive.org/download/msnbc-2022/msnbc-2022-08-11T14:47:13.403552-04:00.hyperlinks.json) |
-| [August 11 at 12:55 PM](https://archive.org/download/msnbc-2022/msnbc-2022-08-11T12:55:25.040860-04:00.hyperlinks.json) |
-| [August 11 at 12:00 AM](https://archive.org/download/msnbc-2022/msnbc-2022-08-10T23:59:47.484541-04:00.hyperlinks.json) |
-| [August 10 at 5:16 PM](https://archive.org/download/msnbc-2022/msnbc-2022-08-10T17:16:37.810325-04:00.hyperlinks.json) |
+| [August 12 at 10:12 AM](https://archive.org/download/msnbc-2022/msnbc-2022-08-12T17:12:53.016134-04:00.hyperlinks.json) |
+| [August 12 at 8:17 AM](https://archive.org/download/msnbc-2022/msnbc-2022-08-12T15:17:08.396755-04:00.hyperlinks.json) |
+| [August 12 at 6:57 AM](https://archive.org/download/msnbc-2022/msnbc-2022-08-12T13:57:06.849731-04:00.hyperlinks.json) |
+| [August 11 at 11:06 PM](https://archive.org/download/msnbc-2022/msnbc-2022-08-12T06:05:43.134965-04:00.hyperlinks.json) |
+| [August 11 at 10:12 AM](https://archive.org/download/msnbc-2022/msnbc-2022-08-11T17:12:30.573870-04:00.hyperlinks.json) |
+| [August 11 at 8:43 AM](https://archive.org/download/msnbc-2022/msnbc-2022-08-11T15:43:02.848313-04:00.hyperlinks.json) |
+| [August 11 at 7:47 AM](https://archive.org/download/msnbc-2022/msnbc-2022-08-11T14:47:13.403552-04:00.hyperlinks.json) |
+| [August 11 at 5:55 AM](https://archive.org/download/msnbc-2022/msnbc-2022-08-11T12:55:25.040860-04:00.hyperlinks.json) |
+| [August 10 at 5:00 PM](https://archive.org/download/msnbc-2022/msnbc-2022-08-10T23:59:47.484541-04:00.hyperlinks.json) |
+| [August 10 at 10:16 AM](https://archive.org/download/msnbc-2022/msnbc-2022-08-10T17:16:37.810325-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -421,16 +421,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 12 at 5:12 PM](https://archive.org/download/msnbc-2022/msnbc-2022-08-12T17:12:53.016134-04:00.accessibility.json) |
-| [August 12 at 3:17 PM](https://archive.org/download/msnbc-2022/msnbc-2022-08-12T15:17:08.396755-04:00.accessibility.json) |
-| [August 12 at 1:57 PM](https://archive.org/download/msnbc-2022/msnbc-2022-08-12T13:57:06.849731-04:00.accessibility.json) |
-| [August 12 at 6:06 AM](https://archive.org/download/msnbc-2022/msnbc-2022-08-12T06:05:43.134965-04:00.accessibility.json) |
-| [August 11 at 5:12 PM](https://archive.org/download/msnbc-2022/msnbc-2022-08-11T17:12:30.573870-04:00.accessibility.json) |
-| [August 11 at 3:43 PM](https://archive.org/download/msnbc-2022/msnbc-2022-08-11T15:43:02.848313-04:00.accessibility.json) |
-| [August 11 at 2:47 PM](https://archive.org/download/msnbc-2022/msnbc-2022-08-11T14:47:13.403552-04:00.accessibility.json) |
-| [August 11 at 12:55 PM](https://archive.org/download/msnbc-2022/msnbc-2022-08-11T12:55:25.040860-04:00.accessibility.json) |
-| [August 10 at 11:59 PM](https://archive.org/download/msnbc-2022/msnbc-2022-08-10T23:59:47.484541-04:00.accessibility.json) |
-| [August 10 at 5:16 PM](https://archive.org/download/msnbc-2022/msnbc-2022-08-10T17:16:37.810325-04:00.accessibility.json) |
+| [August 12 at 10:12 AM](https://archive.org/download/msnbc-2022/msnbc-2022-08-12T17:12:53.016134-04:00.accessibility.json) |
+| [August 12 at 8:17 AM](https://archive.org/download/msnbc-2022/msnbc-2022-08-12T15:17:08.396755-04:00.accessibility.json) |
+| [August 12 at 6:57 AM](https://archive.org/download/msnbc-2022/msnbc-2022-08-12T13:57:06.849731-04:00.accessibility.json) |
+| [August 11 at 11:06 PM](https://archive.org/download/msnbc-2022/msnbc-2022-08-12T06:05:43.134965-04:00.accessibility.json) |
+| [August 11 at 10:12 AM](https://archive.org/download/msnbc-2022/msnbc-2022-08-11T17:12:30.573870-04:00.accessibility.json) |
+| [August 11 at 8:43 AM](https://archive.org/download/msnbc-2022/msnbc-2022-08-11T15:43:02.848313-04:00.accessibility.json) |
+| [August 11 at 7:47 AM](https://archive.org/download/msnbc-2022/msnbc-2022-08-11T14:47:13.403552-04:00.accessibility.json) |
+| [August 11 at 5:55 AM](https://archive.org/download/msnbc-2022/msnbc-2022-08-11T12:55:25.040860-04:00.accessibility.json) |
+| [August 10 at 4:59 PM](https://archive.org/download/msnbc-2022/msnbc-2022-08-10T23:59:47.484541-04:00.accessibility.json) |
+| [August 10 at 10:16 AM](https://archive.org/download/msnbc-2022/msnbc-2022-08-10T17:16:37.810325-04:00.accessibility.json) |
 
 
 
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 12 at 5:13 PM](https://archive.org/download/msnbc-2022/msnbc-2022-08-12T17:12:53.016134-04:00.lighthouse.json) |
-| [August 12 at 3:17 PM](https://archive.org/download/msnbc-2022/msnbc-2022-08-12T15:17:08.396755-04:00.lighthouse.json) |
-| [August 12 at 1:57 PM](https://archive.org/download/msnbc-2022/msnbc-2022-08-12T13:57:06.849731-04:00.lighthouse.json) |
-| [August 12 at 6:06 AM](https://archive.org/download/msnbc-2022/msnbc-2022-08-12T06:05:43.134965-04:00.lighthouse.json) |
-| [August 11 at 5:12 PM](https://archive.org/download/msnbc-2022/msnbc-2022-08-11T17:12:30.573870-04:00.lighthouse.json) |
-| [August 11 at 3:43 PM](https://archive.org/download/msnbc-2022/msnbc-2022-08-11T15:43:02.848313-04:00.lighthouse.json) |
-| [August 11 at 2:47 PM](https://archive.org/download/msnbc-2022/msnbc-2022-08-11T14:47:13.403552-04:00.lighthouse.json) |
-| [August 11 at 12:55 PM](https://archive.org/download/msnbc-2022/msnbc-2022-08-11T12:55:25.040860-04:00.lighthouse.json) |
-| [August 11 at 12:00 AM](https://archive.org/download/msnbc-2022/msnbc-2022-08-10T23:59:47.484541-04:00.lighthouse.json) |
-| [August 10 at 5:16 PM](https://archive.org/download/msnbc-2022/msnbc-2022-08-10T17:16:37.810325-04:00.lighthouse.json) |
+| [August 12 at 10:13 AM](https://archive.org/download/msnbc-2022/msnbc-2022-08-12T17:12:53.016134-04:00.lighthouse.json) |
+| [August 12 at 8:17 AM](https://archive.org/download/msnbc-2022/msnbc-2022-08-12T15:17:08.396755-04:00.lighthouse.json) |
+| [August 12 at 6:57 AM](https://archive.org/download/msnbc-2022/msnbc-2022-08-12T13:57:06.849731-04:00.lighthouse.json) |
+| [August 11 at 11:06 PM](https://archive.org/download/msnbc-2022/msnbc-2022-08-12T06:05:43.134965-04:00.lighthouse.json) |
+| [August 11 at 10:12 AM](https://archive.org/download/msnbc-2022/msnbc-2022-08-11T17:12:30.573870-04:00.lighthouse.json) |
+| [August 11 at 8:43 AM](https://archive.org/download/msnbc-2022/msnbc-2022-08-11T15:43:02.848313-04:00.lighthouse.json) |
+| [August 11 at 7:47 AM](https://archive.org/download/msnbc-2022/msnbc-2022-08-11T14:47:13.403552-04:00.lighthouse.json) |
+| [August 11 at 5:55 AM](https://archive.org/download/msnbc-2022/msnbc-2022-08-11T12:55:25.040860-04:00.lighthouse.json) |
+| [August 10 at 5:00 PM](https://archive.org/download/msnbc-2022/msnbc-2022-08-10T23:59:47.484541-04:00.lighthouse.json) |
+| [August 10 at 10:16 AM](https://archive.org/download/msnbc-2022/msnbc-2022-08-10T17:16:37.810325-04:00.lighthouse.json) |
 
 
 

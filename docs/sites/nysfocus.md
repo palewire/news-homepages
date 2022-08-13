@@ -116,109 +116,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-08-12T14:15:05.848914-04:00.jpg">
   <img src="https://archive.org/download/nysfocus-2022/nysfocus-2022-08-12T14:15:05.848914-04:00.jpg"
-     alt="New York Focus at 2022-08-12 14:15:21-04:00 local time"
+     alt="New York Focus at 2022-08-12 07:15:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-08-12T14:15:05.848914-04:00.jpg">August 12 at 2:15 PM</a></p>
+ <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-08-12T14:15:05.848914-04:00.jpg">August 12 at 7:15 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-08-12T05:40:27.080128-04:00.jpg">
   <img src="https://archive.org/download/nysfocus-2022/nysfocus-2022-08-12T05:40:27.080128-04:00.jpg"
-     alt="New York Focus at 2022-08-12 05:40:28-04:00 local time"
+     alt="New York Focus at 2022-08-11 22:40:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-08-12T05:40:27.080128-04:00.jpg">August 12 at 5:40 AM</a></p>
+ <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-08-12T05:40:27.080128-04:00.jpg">August 11 at 10:40 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-08-11T14:49:29.643124-04:00.jpg">
   <img src="https://archive.org/download/nysfocus-2022/nysfocus-2022-08-11T14:49:29.643124-04:00.jpg"
-     alt="New York Focus at 2022-08-11 14:49:33-04:00 local time"
+     alt="New York Focus at 2022-08-11 07:49:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-08-11T14:49:29.643124-04:00.jpg">August 11 at 2:49 PM</a></p>
+ <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-08-11T14:49:29.643124-04:00.jpg">August 11 at 7:49 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-08-11T01:19:17.264585-04:00.jpg">
   <img src="https://archive.org/download/nysfocus-2022/nysfocus-2022-08-11T01:19:17.264585-04:00.jpg"
-     alt="New York Focus at 2022-08-11 01:19:26-04:00 local time"
+     alt="New York Focus at 2022-08-10 18:19:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-08-11T01:19:17.264585-04:00.jpg">August 11 at 1:19 AM</a></p>
+ <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-08-11T01:19:17.264585-04:00.jpg">August 10 at 6:19 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-08-10T14:14:54.973811-04:00.jpg">
   <img src="https://archive.org/download/nysfocus-2022/nysfocus-2022-08-10T14:14:54.973811-04:00.jpg"
-     alt="New York Focus at 2022-08-10 14:15:03-04:00 local time"
+     alt="New York Focus at 2022-08-10 07:15:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-08-10T14:14:54.973811-04:00.jpg">August 10 at 2:15 PM</a></p>
+ <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-08-10T14:14:54.973811-04:00.jpg">August 10 at 7:15 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-08-10T01:24:48.358540-04:00.jpg">
   <img src="https://archive.org/download/nysfocus-2022/nysfocus-2022-08-10T01:24:48.358540-04:00.jpg"
-     alt="New York Focus at 2022-08-10 01:24:49-04:00 local time"
+     alt="New York Focus at 2022-08-09 18:24:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-08-10T01:24:48.358540-04:00.jpg">August 10 at 1:24 AM</a></p>
+ <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-08-10T01:24:48.358540-04:00.jpg">August 9 at 6:24 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-08-09T13:46:32.492374-04:00.jpg">
   <img src="https://archive.org/download/nysfocus-2022/nysfocus-2022-08-09T13:46:32.492374-04:00.jpg"
-     alt="New York Focus at 2022-08-09 13:46:36-04:00 local time"
+     alt="New York Focus at 2022-08-09 06:46:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-08-09T13:46:32.492374-04:00.jpg">August 9 at 1:46 PM</a></p>
+ <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-08-09T13:46:32.492374-04:00.jpg">August 9 at 6:46 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-08-09T01:03:18.552535-04:00.jpg">
   <img src="https://archive.org/download/nysfocus-2022/nysfocus-2022-08-09T01:03:18.552535-04:00.jpg"
-     alt="New York Focus at 2022-08-09 01:03:21-04:00 local time"
+     alt="New York Focus at 2022-08-08 18:03:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-08-09T01:03:18.552535-04:00.jpg">August 9 at 1:03 AM</a></p>
+ <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-08-09T01:03:18.552535-04:00.jpg">August 8 at 6:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-08-08T13:12:51.974529-04:00.jpg">
   <img src="https://archive.org/download/nysfocus-2022/nysfocus-2022-08-08T13:12:51.974529-04:00.jpg"
-     alt="New York Focus at 2022-08-08 13:12:53-04:00 local time"
+     alt="New York Focus at 2022-08-08 06:12:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-08-08T13:12:51.974529-04:00.jpg">August 8 at 1:12 PM</a></p>
+ <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-08-08T13:12:51.974529-04:00.jpg">August 8 at 6:12 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-08-08T01:17:59.271406-04:00.jpg">
   <img src="https://archive.org/download/nysfocus-2022/nysfocus-2022-08-08T01:17:59.271406-04:00.jpg"
-     alt="New York Focus at 2022-08-08 01:18:03-04:00 local time"
+     alt="New York Focus at 2022-08-07 18:18:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-08-08T01:17:59.271406-04:00.jpg">August 8 at 1:18 AM</a></p>
+ <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-08-08T01:17:59.271406-04:00.jpg">August 7 at 6:18 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-08-07T12:59:17.004390-04:00.jpg">
   <img src="https://archive.org/download/nysfocus-2022/nysfocus-2022-08-07T12:59:17.004390-04:00.jpg"
-     alt="New York Focus at 2022-08-07 12:59:20-04:00 local time"
+     alt="New York Focus at 2022-08-07 05:59:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-08-07T12:59:17.004390-04:00.jpg">August 7 at 12:59 PM</a></p>
+ <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-08-07T12:59:17.004390-04:00.jpg">August 7 at 5:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-08-07T00:38:16.412841-04:00.jpg">
   <img src="https://archive.org/download/nysfocus-2022/nysfocus-2022-08-07T00:38:16.412841-04:00.jpg"
-     alt="New York Focus at 2022-08-07 00:38:19-04:00 local time"
+     alt="New York Focus at 2022-08-06 17:38:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-08-07T00:38:16.412841-04:00.jpg">August 7 at 12:38 AM</a></p>
+ <p><a href="https://archive.org/download/nysfocus-2022/nysfocus-2022-08-07T00:38:16.412841-04:00.jpg">August 6 at 5:38 PM</a></p>
 </div>
 
 </div>
@@ -316,16 +316,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 12 at 2:16 PM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-12T14:15:05.848914-04:00.hyperlinks.json) |
-| [August 12 at 5:40 AM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-12T05:40:27.080128-04:00.hyperlinks.json) |
-| [August 11 at 2:49 PM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-11T14:49:29.643124-04:00.hyperlinks.json) |
-| [August 11 at 1:19 AM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-11T01:19:17.264585-04:00.hyperlinks.json) |
-| [August 10 at 2:15 PM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-10T14:14:54.973811-04:00.hyperlinks.json) |
-| [August 10 at 1:24 AM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-10T01:24:48.358540-04:00.hyperlinks.json) |
-| [August 9 at 1:46 PM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-09T13:46:32.492374-04:00.hyperlinks.json) |
-| [August 9 at 1:03 AM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-09T01:03:18.552535-04:00.hyperlinks.json) |
-| [August 8 at 1:12 PM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-08T13:12:51.974529-04:00.hyperlinks.json) |
-| [August 8 at 1:18 AM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-08T01:17:59.271406-04:00.hyperlinks.json) |
+| [August 12 at 7:16 AM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-12T14:15:05.848914-04:00.hyperlinks.json) |
+| [August 11 at 10:40 PM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-12T05:40:27.080128-04:00.hyperlinks.json) |
+| [August 11 at 7:49 AM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-11T14:49:29.643124-04:00.hyperlinks.json) |
+| [August 10 at 6:19 PM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-11T01:19:17.264585-04:00.hyperlinks.json) |
+| [August 10 at 7:15 AM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-10T14:14:54.973811-04:00.hyperlinks.json) |
+| [August 9 at 6:24 PM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-10T01:24:48.358540-04:00.hyperlinks.json) |
+| [August 9 at 6:46 AM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-09T13:46:32.492374-04:00.hyperlinks.json) |
+| [August 8 at 6:03 PM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-09T01:03:18.552535-04:00.hyperlinks.json) |
+| [August 8 at 6:12 AM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-08T13:12:51.974529-04:00.hyperlinks.json) |
+| [August 7 at 6:18 PM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-08T01:17:59.271406-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -421,16 +421,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 12 at 2:15 PM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-12T14:15:05.848914-04:00.accessibility.json) |
-| [August 12 at 5:40 AM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-12T05:40:27.080128-04:00.accessibility.json) |
-| [August 11 at 2:49 PM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-11T14:49:29.643124-04:00.accessibility.json) |
-| [August 11 at 1:19 AM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-11T01:19:17.264585-04:00.accessibility.json) |
-| [August 10 at 2:15 PM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-10T14:14:54.973811-04:00.accessibility.json) |
-| [August 10 at 1:24 AM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-10T01:24:48.358540-04:00.accessibility.json) |
-| [August 9 at 1:46 PM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-09T13:46:32.492374-04:00.accessibility.json) |
-| [August 9 at 1:03 AM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-09T01:03:18.552535-04:00.accessibility.json) |
-| [August 8 at 1:12 PM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-08T13:12:51.974529-04:00.accessibility.json) |
-| [August 8 at 1:18 AM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-08T01:17:59.271406-04:00.accessibility.json) |
+| [August 12 at 7:15 AM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-12T14:15:05.848914-04:00.accessibility.json) |
+| [August 11 at 10:40 PM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-12T05:40:27.080128-04:00.accessibility.json) |
+| [August 11 at 7:49 AM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-11T14:49:29.643124-04:00.accessibility.json) |
+| [August 10 at 6:19 PM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-11T01:19:17.264585-04:00.accessibility.json) |
+| [August 10 at 7:15 AM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-10T14:14:54.973811-04:00.accessibility.json) |
+| [August 9 at 6:24 PM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-10T01:24:48.358540-04:00.accessibility.json) |
+| [August 9 at 6:46 AM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-09T13:46:32.492374-04:00.accessibility.json) |
+| [August 8 at 6:03 PM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-09T01:03:18.552535-04:00.accessibility.json) |
+| [August 8 at 6:12 AM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-08T13:12:51.974529-04:00.accessibility.json) |
+| [August 7 at 6:18 PM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-08T01:17:59.271406-04:00.accessibility.json) |
 
 
 
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 12 at 2:16 PM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-12T14:15:05.848914-04:00.lighthouse.json) |
-| [August 12 at 5:40 AM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-12T05:40:27.080128-04:00.lighthouse.json) |
-| [August 11 at 2:49 PM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-11T14:49:29.643124-04:00.lighthouse.json) |
-| [August 11 at 1:19 AM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-11T01:19:17.264585-04:00.lighthouse.json) |
-| [August 10 at 2:15 PM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-10T14:14:54.973811-04:00.lighthouse.json) |
-| [August 10 at 1:24 AM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-10T01:24:48.358540-04:00.lighthouse.json) |
-| [August 9 at 1:46 PM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-09T13:46:32.492374-04:00.lighthouse.json) |
-| [August 9 at 1:03 AM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-09T01:03:18.552535-04:00.lighthouse.json) |
-| [August 8 at 1:12 PM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-08T13:12:51.974529-04:00.lighthouse.json) |
-| [August 8 at 1:18 AM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-08T01:17:59.271406-04:00.lighthouse.json) |
+| [August 12 at 7:16 AM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-12T14:15:05.848914-04:00.lighthouse.json) |
+| [August 11 at 10:40 PM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-12T05:40:27.080128-04:00.lighthouse.json) |
+| [August 11 at 7:49 AM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-11T14:49:29.643124-04:00.lighthouse.json) |
+| [August 10 at 6:19 PM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-11T01:19:17.264585-04:00.lighthouse.json) |
+| [August 10 at 7:15 AM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-10T14:14:54.973811-04:00.lighthouse.json) |
+| [August 9 at 6:24 PM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-10T01:24:48.358540-04:00.lighthouse.json) |
+| [August 9 at 6:46 AM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-09T13:46:32.492374-04:00.lighthouse.json) |
+| [August 8 at 6:03 PM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-09T01:03:18.552535-04:00.lighthouse.json) |
+| [August 8 at 6:12 AM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-08T13:12:51.974529-04:00.lighthouse.json) |
+| [August 7 at 6:18 PM](https://archive.org/download/nysfocus-2022/nysfocus-2022-08-08T01:17:59.271406-04:00.lighthouse.json) |
 
 
 

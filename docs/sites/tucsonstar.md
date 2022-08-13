@@ -116,109 +116,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-12T09:27:45.895648-07:00.jpg">
   <img src="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-12T09:27:45.895648-07:00.jpg"
-     alt="Arizona Daily Star at 2022-08-12 09:27:46-07:00 local time"
+     alt="Arizona Daily Star at 2022-08-12 02:27:46-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-12T09:27:45.895648-07:00.jpg">August 12 at 9:27 AM</a></p>
+ <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-12T09:27:45.895648-07:00.jpg">August 12 at 2:27 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-12T02:37:05.853391-07:00.jpg">
   <img src="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-12T02:37:05.853391-07:00.jpg"
-     alt="Arizona Daily Star at 2022-08-12 02:37:07-07:00 local time"
+     alt="Arizona Daily Star at 2022-08-11 19:37:07-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-12T02:37:05.853391-07:00.jpg">August 12 at 2:37 AM</a></p>
+ <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-12T02:37:05.853391-07:00.jpg">August 11 at 7:37 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-10T19:29:47.091137-07:00.jpg">
   <img src="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-10T19:29:47.091137-07:00.jpg"
-     alt="Arizona Daily Star at 2022-08-10 19:29:48-07:00 local time"
+     alt="Arizona Daily Star at 2022-08-10 12:29:48-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-10T19:29:47.091137-07:00.jpg">August 10 at 7:29 PM</a></p>
+ <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-10T19:29:47.091137-07:00.jpg">August 10 at 12:29 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-10T10:53:30.785418-07:00.jpg">
   <img src="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-10T10:53:30.785418-07:00.jpg"
-     alt="Arizona Daily Star at 2022-08-10 10:53:32-07:00 local time"
+     alt="Arizona Daily Star at 2022-08-10 03:53:32-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-10T10:53:30.785418-07:00.jpg">August 10 at 10:53 AM</a></p>
+ <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-10T10:53:30.785418-07:00.jpg">August 10 at 3:53 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-09T19:40:06.434126-07:00.jpg">
   <img src="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-09T19:40:06.434126-07:00.jpg"
-     alt="Arizona Daily Star at 2022-08-09 19:40:08-07:00 local time"
+     alt="Arizona Daily Star at 2022-08-09 12:40:08-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-09T19:40:06.434126-07:00.jpg">August 9 at 7:40 PM</a></p>
+ <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-09T19:40:06.434126-07:00.jpg">August 9 at 12:40 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-09T07:43:11.408772-07:00.jpg">
   <img src="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-09T07:43:11.408772-07:00.jpg"
-     alt="Arizona Daily Star at 2022-08-09 07:43:12-07:00 local time"
+     alt="Arizona Daily Star at 2022-08-09 00:43:12-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-09T07:43:11.408772-07:00.jpg">August 9 at 7:43 AM</a></p>
+ <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-09T07:43:11.408772-07:00.jpg">August 9 at 12:43 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-08T19:26:39.993764-07:00.jpg">
   <img src="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-08T19:26:39.993764-07:00.jpg"
-     alt="Arizona Daily Star at 2022-08-08 19:26:41-07:00 local time"
+     alt="Arizona Daily Star at 2022-08-08 12:26:41-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-08T19:26:39.993764-07:00.jpg">August 8 at 7:26 PM</a></p>
+ <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-08T19:26:39.993764-07:00.jpg">August 8 at 12:26 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-08T07:24:52.180163-07:00.jpg">
   <img src="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-08T07:24:52.180163-07:00.jpg"
-     alt="Arizona Daily Star at 2022-08-08 07:24:55-07:00 local time"
+     alt="Arizona Daily Star at 2022-08-08 00:24:55-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-08T07:24:52.180163-07:00.jpg">August 8 at 7:24 AM</a></p>
+ <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-08T07:24:52.180163-07:00.jpg">August 8 at 12:24 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-07T19:36:21.596807-07:00.jpg">
   <img src="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-07T19:36:21.596807-07:00.jpg"
-     alt="Arizona Daily Star at 2022-08-07 19:36:23-07:00 local time"
+     alt="Arizona Daily Star at 2022-08-07 12:36:23-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-07T19:36:21.596807-07:00.jpg">August 7 at 7:36 PM</a></p>
+ <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-07T19:36:21.596807-07:00.jpg">August 7 at 12:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-07T07:08:59.226644-07:00.jpg">
   <img src="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-07T07:08:59.226644-07:00.jpg"
-     alt="Arizona Daily Star at 2022-08-07 07:09:03-07:00 local time"
+     alt="Arizona Daily Star at 2022-08-07 00:09:03-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-07T07:08:59.226644-07:00.jpg">August 7 at 7:09 AM</a></p>
+ <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-07T07:08:59.226644-07:00.jpg">August 7 at 12:09 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-06T20:13:12.537210-07:00.jpg">
   <img src="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-06T20:13:12.537210-07:00.jpg"
-     alt="Arizona Daily Star at 2022-08-06 20:13:13-07:00 local time"
+     alt="Arizona Daily Star at 2022-08-06 13:13:13-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-06T20:13:12.537210-07:00.jpg">August 6 at 8:13 PM</a></p>
+ <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-06T20:13:12.537210-07:00.jpg">August 6 at 1:13 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-06T06:58:04.202698-07:00.jpg">
   <img src="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-06T06:58:04.202698-07:00.jpg"
-     alt="Arizona Daily Star at 2022-08-06 06:58:05-07:00 local time"
+     alt="Arizona Daily Star at 2022-08-05 23:58:05-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-06T06:58:04.202698-07:00.jpg">August 6 at 6:58 AM</a></p>
+ <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-06T06:58:04.202698-07:00.jpg">August 5 at 11:58 PM</a></p>
 </div>
 
 </div>
@@ -316,16 +316,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 12 at 9:27 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-12T09:27:45.895648-07:00.hyperlinks.json) |
-| [August 12 at 2:37 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-12T02:37:05.853391-07:00.hyperlinks.json) |
-| [August 11 at 7:07 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-11T19:07:49.181546-07:00.hyperlinks.json) |
-| [August 11 at 10:10 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-11T10:10:26.048647-07:00.hyperlinks.json) |
-| [August 10 at 7:29 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-10T19:29:47.091137-07:00.hyperlinks.json) |
-| [August 10 at 10:53 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-10T10:53:30.785418-07:00.hyperlinks.json) |
-| [August 9 at 7:40 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-09T19:40:06.434126-07:00.hyperlinks.json) |
-| [August 9 at 7:43 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-09T07:43:11.408772-07:00.hyperlinks.json) |
-| [August 8 at 7:26 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-08T19:26:39.993764-07:00.hyperlinks.json) |
-| [August 8 at 7:25 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-08T07:24:52.180163-07:00.hyperlinks.json) |
+| [August 12 at 2:27 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-12T09:27:45.895648-07:00.hyperlinks.json) |
+| [August 11 at 7:37 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-12T02:37:05.853391-07:00.hyperlinks.json) |
+| [August 11 at 12:07 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-11T19:07:49.181546-07:00.hyperlinks.json) |
+| [August 11 at 3:10 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-11T10:10:26.048647-07:00.hyperlinks.json) |
+| [August 10 at 12:29 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-10T19:29:47.091137-07:00.hyperlinks.json) |
+| [August 10 at 3:53 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-10T10:53:30.785418-07:00.hyperlinks.json) |
+| [August 9 at 12:40 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-09T19:40:06.434126-07:00.hyperlinks.json) |
+| [August 9 at 12:43 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-09T07:43:11.408772-07:00.hyperlinks.json) |
+| [August 8 at 12:26 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-08T19:26:39.993764-07:00.hyperlinks.json) |
+| [August 8 at 12:25 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-08T07:24:52.180163-07:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -421,16 +421,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 12 at 9:27 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-12T09:27:45.895648-07:00.accessibility.json) |
-| [August 12 at 2:37 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-12T02:37:05.853391-07:00.accessibility.json) |
-| [August 11 at 7:07 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-11T19:07:49.181546-07:00.accessibility.json) |
-| [August 11 at 10:10 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-11T10:10:26.048647-07:00.accessibility.json) |
-| [August 10 at 7:29 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-10T19:29:47.091137-07:00.accessibility.json) |
-| [August 10 at 10:53 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-10T10:53:30.785418-07:00.accessibility.json) |
-| [August 9 at 7:40 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-09T19:40:06.434126-07:00.accessibility.json) |
-| [August 9 at 7:43 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-09T07:43:11.408772-07:00.accessibility.json) |
-| [August 8 at 7:26 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-08T19:26:39.993764-07:00.accessibility.json) |
-| [August 8 at 7:24 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-08T07:24:52.180163-07:00.accessibility.json) |
+| [August 12 at 2:27 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-12T09:27:45.895648-07:00.accessibility.json) |
+| [August 11 at 7:37 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-12T02:37:05.853391-07:00.accessibility.json) |
+| [August 11 at 12:07 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-11T19:07:49.181546-07:00.accessibility.json) |
+| [August 11 at 3:10 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-11T10:10:26.048647-07:00.accessibility.json) |
+| [August 10 at 12:29 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-10T19:29:47.091137-07:00.accessibility.json) |
+| [August 10 at 3:53 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-10T10:53:30.785418-07:00.accessibility.json) |
+| [August 9 at 12:40 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-09T19:40:06.434126-07:00.accessibility.json) |
+| [August 9 at 12:43 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-09T07:43:11.408772-07:00.accessibility.json) |
+| [August 8 at 12:26 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-08T19:26:39.993764-07:00.accessibility.json) |
+| [August 8 at 12:24 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-08T07:24:52.180163-07:00.accessibility.json) |
 
 
 
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 12 at 9:27 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-12T09:27:45.895648-07:00.lighthouse.json) |
-| [August 12 at 2:37 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-12T02:37:05.853391-07:00.lighthouse.json) |
-| [August 11 at 7:07 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-11T19:07:49.181546-07:00.lighthouse.json) |
-| [August 11 at 10:10 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-11T10:10:26.048647-07:00.lighthouse.json) |
-| [August 10 at 7:29 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-10T19:29:47.091137-07:00.lighthouse.json) |
-| [August 10 at 10:53 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-10T10:53:30.785418-07:00.lighthouse.json) |
-| [August 9 at 7:40 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-09T19:40:06.434126-07:00.lighthouse.json) |
-| [August 9 at 7:43 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-09T07:43:11.408772-07:00.lighthouse.json) |
-| [August 8 at 7:26 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-08T19:26:39.993764-07:00.lighthouse.json) |
-| [August 8 at 7:25 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-08T07:24:52.180163-07:00.lighthouse.json) |
+| [August 12 at 2:27 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-12T09:27:45.895648-07:00.lighthouse.json) |
+| [August 11 at 7:37 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-12T02:37:05.853391-07:00.lighthouse.json) |
+| [August 11 at 12:07 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-11T19:07:49.181546-07:00.lighthouse.json) |
+| [August 11 at 3:10 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-11T10:10:26.048647-07:00.lighthouse.json) |
+| [August 10 at 12:29 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-10T19:29:47.091137-07:00.lighthouse.json) |
+| [August 10 at 3:53 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-10T10:53:30.785418-07:00.lighthouse.json) |
+| [August 9 at 12:40 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-09T19:40:06.434126-07:00.lighthouse.json) |
+| [August 9 at 12:43 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-09T07:43:11.408772-07:00.lighthouse.json) |
+| [August 8 at 12:26 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-08T19:26:39.993764-07:00.lighthouse.json) |
+| [August 8 at 12:25 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-08-08T07:24:52.180163-07:00.lighthouse.json) |
 
 
 

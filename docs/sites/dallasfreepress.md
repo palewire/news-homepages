@@ -116,109 +116,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-12T12:45:38.699897-05:00.jpg">
   <img src="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-12T12:45:38.699897-05:00.jpg"
-     alt="Dallas Free Press at 2022-08-12 12:45:41-05:00 local time"
+     alt="Dallas Free Press at 2022-08-12 05:45:41-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-12T12:45:38.699897-05:00.jpg">August 12 at 12:45 PM</a></p>
+ <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-12T12:45:38.699897-05:00.jpg">August 12 at 5:45 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-12T04:54:26.919040-05:00.jpg">
   <img src="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-12T04:54:26.919040-05:00.jpg"
-     alt="Dallas Free Press at 2022-08-12 04:54:30-05:00 local time"
+     alt="Dallas Free Press at 2022-08-11 21:54:30-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-12T04:54:26.919040-05:00.jpg">August 12 at 4:54 AM</a></p>
+ <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-12T04:54:26.919040-05:00.jpg">August 11 at 9:54 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-11T13:35:24.648037-05:00.jpg">
   <img src="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-11T13:35:24.648037-05:00.jpg"
-     alt="Dallas Free Press at 2022-08-11 13:35:27-05:00 local time"
+     alt="Dallas Free Press at 2022-08-11 06:35:27-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-11T13:35:24.648037-05:00.jpg">August 11 at 1:35 PM</a></p>
+ <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-11T13:35:24.648037-05:00.jpg">August 11 at 6:35 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-10T22:47:37.722982-05:00.jpg">
   <img src="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-10T22:47:37.722982-05:00.jpg"
-     alt="Dallas Free Press at 2022-08-10 22:47:40-05:00 local time"
+     alt="Dallas Free Press at 2022-08-10 15:47:40-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-10T22:47:37.722982-05:00.jpg">August 10 at 10:47 PM</a></p>
+ <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-10T22:47:37.722982-05:00.jpg">August 10 at 3:47 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-10T12:59:12.400458-05:00.jpg">
   <img src="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-10T12:59:12.400458-05:00.jpg"
-     alt="Dallas Free Press at 2022-08-10 12:59:14-05:00 local time"
+     alt="Dallas Free Press at 2022-08-10 05:59:14-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-10T12:59:12.400458-05:00.jpg">August 10 at 12:59 PM</a></p>
+ <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-10T12:59:12.400458-05:00.jpg">August 10 at 5:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-09T22:55:42.587764-05:00.jpg">
   <img src="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-09T22:55:42.587764-05:00.jpg"
-     alt="Dallas Free Press at 2022-08-09 22:55:45-05:00 local time"
+     alt="Dallas Free Press at 2022-08-09 15:55:45-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-09T22:55:42.587764-05:00.jpg">August 9 at 10:55 PM</a></p>
+ <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-09T22:55:42.587764-05:00.jpg">August 9 at 3:55 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-09T12:19:20.092208-05:00.jpg">
   <img src="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-09T12:19:20.092208-05:00.jpg"
-     alt="Dallas Free Press at 2022-08-09 12:19:21-05:00 local time"
+     alt="Dallas Free Press at 2022-08-09 05:19:21-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-09T12:19:20.092208-05:00.jpg">August 9 at 12:19 PM</a></p>
+ <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-09T12:19:20.092208-05:00.jpg">August 9 at 5:19 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-08T22:41:02.751357-05:00.jpg">
   <img src="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-08T22:41:02.751357-05:00.jpg"
-     alt="Dallas Free Press at 2022-08-08 22:41:04-05:00 local time"
+     alt="Dallas Free Press at 2022-08-08 15:41:04-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-08T22:41:02.751357-05:00.jpg">August 8 at 10:41 PM</a></p>
+ <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-08T22:41:02.751357-05:00.jpg">August 8 at 3:41 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-08T11:55:36.651012-05:00.jpg">
   <img src="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-08T11:55:36.651012-05:00.jpg"
-     alt="Dallas Free Press at 2022-08-08 11:55:38-05:00 local time"
+     alt="Dallas Free Press at 2022-08-08 04:55:38-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-08T11:55:36.651012-05:00.jpg">August 8 at 11:55 AM</a></p>
+ <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-08T11:55:36.651012-05:00.jpg">August 8 at 4:55 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-08T00:05:07.137230-05:00.jpg">
   <img src="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-08T00:05:07.137230-05:00.jpg"
-     alt="Dallas Free Press at 2022-08-08 00:05:09-05:00 local time"
+     alt="Dallas Free Press at 2022-08-07 17:05:09-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-08T00:05:07.137230-05:00.jpg">August 8 at 12:05 AM</a></p>
+ <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-08T00:05:07.137230-05:00.jpg">August 7 at 5:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-07T11:44:20.604753-05:00.jpg">
   <img src="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-07T11:44:20.604753-05:00.jpg"
-     alt="Dallas Free Press at 2022-08-07 11:44:25-05:00 local time"
+     alt="Dallas Free Press at 2022-08-07 04:44:25-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-07T11:44:20.604753-05:00.jpg">August 7 at 11:44 AM</a></p>
+ <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-07T11:44:20.604753-05:00.jpg">August 7 at 4:44 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-06T22:18:36.126496-05:00.jpg">
   <img src="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-06T22:18:36.126496-05:00.jpg"
-     alt="Dallas Free Press at 2022-08-06 22:18:41-05:00 local time"
+     alt="Dallas Free Press at 2022-08-06 15:18:41-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-06T22:18:36.126496-05:00.jpg">August 6 at 10:18 PM</a></p>
+ <p><a href="https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-06T22:18:36.126496-05:00.jpg">August 6 at 3:18 PM</a></p>
 </div>
 
 </div>
@@ -316,16 +316,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 12 at 12:45 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-12T12:45:38.699897-05:00.hyperlinks.json) |
-| [August 12 at 4:54 AM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-12T04:54:26.919040-05:00.hyperlinks.json) |
-| [August 11 at 1:35 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-11T13:35:24.648037-05:00.hyperlinks.json) |
-| [August 10 at 10:47 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-10T22:47:37.722982-05:00.hyperlinks.json) |
-| [August 10 at 12:59 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-10T12:59:12.400458-05:00.hyperlinks.json) |
-| [August 9 at 10:55 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-09T22:55:42.587764-05:00.hyperlinks.json) |
-| [August 9 at 12:19 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-09T12:19:20.092208-05:00.hyperlinks.json) |
-| [August 8 at 10:41 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-08T22:41:02.751357-05:00.hyperlinks.json) |
-| [August 8 at 11:55 AM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-08T11:55:36.651012-05:00.hyperlinks.json) |
-| [August 8 at 12:05 AM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-08T00:05:07.137230-05:00.hyperlinks.json) |
+| [August 12 at 5:45 AM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-12T12:45:38.699897-05:00.hyperlinks.json) |
+| [August 11 at 9:54 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-12T04:54:26.919040-05:00.hyperlinks.json) |
+| [August 11 at 6:35 AM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-11T13:35:24.648037-05:00.hyperlinks.json) |
+| [August 10 at 3:47 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-10T22:47:37.722982-05:00.hyperlinks.json) |
+| [August 10 at 5:59 AM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-10T12:59:12.400458-05:00.hyperlinks.json) |
+| [August 9 at 3:55 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-09T22:55:42.587764-05:00.hyperlinks.json) |
+| [August 9 at 5:19 AM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-09T12:19:20.092208-05:00.hyperlinks.json) |
+| [August 8 at 3:41 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-08T22:41:02.751357-05:00.hyperlinks.json) |
+| [August 8 at 4:55 AM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-08T11:55:36.651012-05:00.hyperlinks.json) |
+| [August 7 at 5:05 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-08T00:05:07.137230-05:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -421,16 +421,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 12 at 12:45 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-12T12:45:38.699897-05:00.accessibility.json) |
-| [August 12 at 4:54 AM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-12T04:54:26.919040-05:00.accessibility.json) |
-| [August 11 at 1:35 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-11T13:35:24.648037-05:00.accessibility.json) |
-| [August 10 at 10:47 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-10T22:47:37.722982-05:00.accessibility.json) |
-| [August 10 at 12:59 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-10T12:59:12.400458-05:00.accessibility.json) |
-| [August 9 at 10:55 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-09T22:55:42.587764-05:00.accessibility.json) |
-| [August 9 at 12:19 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-09T12:19:20.092208-05:00.accessibility.json) |
-| [August 8 at 10:41 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-08T22:41:02.751357-05:00.accessibility.json) |
-| [August 8 at 11:55 AM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-08T11:55:36.651012-05:00.accessibility.json) |
-| [August 8 at 12:05 AM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-08T00:05:07.137230-05:00.accessibility.json) |
+| [August 12 at 5:45 AM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-12T12:45:38.699897-05:00.accessibility.json) |
+| [August 11 at 9:54 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-12T04:54:26.919040-05:00.accessibility.json) |
+| [August 11 at 6:35 AM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-11T13:35:24.648037-05:00.accessibility.json) |
+| [August 10 at 3:47 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-10T22:47:37.722982-05:00.accessibility.json) |
+| [August 10 at 5:59 AM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-10T12:59:12.400458-05:00.accessibility.json) |
+| [August 9 at 3:55 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-09T22:55:42.587764-05:00.accessibility.json) |
+| [August 9 at 5:19 AM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-09T12:19:20.092208-05:00.accessibility.json) |
+| [August 8 at 3:41 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-08T22:41:02.751357-05:00.accessibility.json) |
+| [August 8 at 4:55 AM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-08T11:55:36.651012-05:00.accessibility.json) |
+| [August 7 at 5:05 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-08T00:05:07.137230-05:00.accessibility.json) |
 
 
 
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 12 at 12:45 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-12T12:45:38.699897-05:00.lighthouse.json) |
-| [August 12 at 4:54 AM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-12T04:54:26.919040-05:00.lighthouse.json) |
-| [August 11 at 1:35 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-11T13:35:24.648037-05:00.lighthouse.json) |
-| [August 10 at 10:47 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-10T22:47:37.722982-05:00.lighthouse.json) |
-| [August 10 at 12:59 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-10T12:59:12.400458-05:00.lighthouse.json) |
-| [August 9 at 10:55 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-09T22:55:42.587764-05:00.lighthouse.json) |
-| [August 9 at 12:19 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-09T12:19:20.092208-05:00.lighthouse.json) |
-| [August 8 at 10:41 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-08T22:41:02.751357-05:00.lighthouse.json) |
-| [August 8 at 11:55 AM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-08T11:55:36.651012-05:00.lighthouse.json) |
-| [August 8 at 12:05 AM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-08T00:05:07.137230-05:00.lighthouse.json) |
+| [August 12 at 5:45 AM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-12T12:45:38.699897-05:00.lighthouse.json) |
+| [August 11 at 9:54 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-12T04:54:26.919040-05:00.lighthouse.json) |
+| [August 11 at 6:35 AM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-11T13:35:24.648037-05:00.lighthouse.json) |
+| [August 10 at 3:47 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-10T22:47:37.722982-05:00.lighthouse.json) |
+| [August 10 at 5:59 AM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-10T12:59:12.400458-05:00.lighthouse.json) |
+| [August 9 at 3:55 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-09T22:55:42.587764-05:00.lighthouse.json) |
+| [August 9 at 5:19 AM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-09T12:19:20.092208-05:00.lighthouse.json) |
+| [August 8 at 3:41 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-08T22:41:02.751357-05:00.lighthouse.json) |
+| [August 8 at 4:55 AM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-08T11:55:36.651012-05:00.lighthouse.json) |
+| [August 7 at 5:05 PM](https://archive.org/download/dallasfreepress-2022/dallasfreepress-2022-08-08T00:05:07.137230-05:00.lighthouse.json) |
 
 
 

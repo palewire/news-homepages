@@ -116,109 +116,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-12T20:26:40.739788-04:00.jpg">
   <img src="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-12T20:26:40.739788-04:00.jpg"
-     alt="Berkshire Eagle at 2022-08-12 20:26:43-04:00 local time"
+     alt="Berkshire Eagle at 2022-08-12 13:26:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-12T20:26:40.739788-04:00.jpg">August 12 at 8:26 PM</a></p>
+ <p><a href="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-12T20:26:40.739788-04:00.jpg">August 12 at 1:26 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-12T07:36:53.046267-04:00.jpg">
   <img src="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-12T07:36:53.046267-04:00.jpg"
-     alt="Berkshire Eagle at 2022-08-12 07:36:54-04:00 local time"
+     alt="Berkshire Eagle at 2022-08-12 00:36:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-12T07:36:53.046267-04:00.jpg">August 12 at 7:36 AM</a></p>
+ <p><a href="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-12T07:36:53.046267-04:00.jpg">August 12 at 12:36 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-11T19:20:14.286186-04:00.jpg">
   <img src="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-11T19:20:14.286186-04:00.jpg"
-     alt="Berkshire Eagle at 2022-08-11 19:20:15-04:00 local time"
+     alt="Berkshire Eagle at 2022-08-11 12:20:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-11T19:20:14.286186-04:00.jpg">August 11 at 7:20 PM</a></p>
+ <p><a href="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-11T19:20:14.286186-04:00.jpg">August 11 at 12:20 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-11T07:34:23.857238-04:00.jpg">
   <img src="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-11T07:34:23.857238-04:00.jpg"
-     alt="Berkshire Eagle at 2022-08-11 07:34:27-04:00 local time"
+     alt="Berkshire Eagle at 2022-08-11 00:34:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-11T07:34:23.857238-04:00.jpg">August 11 at 7:34 AM</a></p>
+ <p><a href="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-11T07:34:23.857238-04:00.jpg">August 11 at 12:34 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-10T20:37:45.482809-04:00.jpg">
   <img src="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-10T20:37:45.482809-04:00.jpg"
-     alt="Berkshire Eagle at 2022-08-10 20:37:46-04:00 local time"
+     alt="Berkshire Eagle at 2022-08-10 13:37:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-10T20:37:45.482809-04:00.jpg">August 10 at 8:37 PM</a></p>
+ <p><a href="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-10T20:37:45.482809-04:00.jpg">August 10 at 1:37 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-10T08:51:50.573838-04:00.jpg">
   <img src="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-10T08:51:50.573838-04:00.jpg"
-     alt="Berkshire Eagle at 2022-08-10 08:51:51-04:00 local time"
+     alt="Berkshire Eagle at 2022-08-10 01:51:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-10T08:51:50.573838-04:00.jpg">August 10 at 8:51 AM</a></p>
+ <p><a href="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-10T08:51:50.573838-04:00.jpg">August 10 at 1:51 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-09T19:22:33.300074-04:00.jpg">
   <img src="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-09T19:22:33.300074-04:00.jpg"
-     alt="Berkshire Eagle at 2022-08-09 19:22:37-04:00 local time"
+     alt="Berkshire Eagle at 2022-08-09 12:22:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-09T19:22:33.300074-04:00.jpg">August 9 at 7:22 PM</a></p>
+ <p><a href="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-09T19:22:33.300074-04:00.jpg">August 9 at 12:22 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-09T08:38:36.353448-04:00.jpg">
   <img src="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-09T08:38:36.353448-04:00.jpg"
-     alt="Berkshire Eagle at 2022-08-09 08:38:40-04:00 local time"
+     alt="Berkshire Eagle at 2022-08-09 01:38:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-09T08:38:36.353448-04:00.jpg">August 9 at 8:38 AM</a></p>
+ <p><a href="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-09T08:38:36.353448-04:00.jpg">August 9 at 1:38 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-08T20:33:50.921972-04:00.jpg">
   <img src="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-08T20:33:50.921972-04:00.jpg"
-     alt="Berkshire Eagle at 2022-08-08 20:33:53-04:00 local time"
+     alt="Berkshire Eagle at 2022-08-08 13:33:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-08T20:33:50.921972-04:00.jpg">August 8 at 8:33 PM</a></p>
+ <p><a href="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-08T20:33:50.921972-04:00.jpg">August 8 at 1:33 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-08T07:19:09.546246-04:00.jpg">
   <img src="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-08T07:19:09.546246-04:00.jpg"
-     alt="Berkshire Eagle at 2022-08-08 07:19:11-04:00 local time"
+     alt="Berkshire Eagle at 2022-08-08 00:19:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-08T07:19:09.546246-04:00.jpg">August 8 at 7:19 AM</a></p>
+ <p><a href="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-08T07:19:09.546246-04:00.jpg">August 8 at 12:19 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-07T20:41:43.750727-04:00.jpg">
   <img src="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-07T20:41:43.750727-04:00.jpg"
-     alt="Berkshire Eagle at 2022-08-07 20:41:44-04:00 local time"
+     alt="Berkshire Eagle at 2022-08-07 13:41:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-07T20:41:43.750727-04:00.jpg">August 7 at 8:41 PM</a></p>
+ <p><a href="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-07T20:41:43.750727-04:00.jpg">August 7 at 1:41 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-07T08:21:41.920207-04:00.jpg">
   <img src="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-07T08:21:41.920207-04:00.jpg"
-     alt="Berkshire Eagle at 2022-08-07 08:21:44-04:00 local time"
+     alt="Berkshire Eagle at 2022-08-07 01:21:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-07T08:21:41.920207-04:00.jpg">August 7 at 8:21 AM</a></p>
+ <p><a href="https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-07T08:21:41.920207-04:00.jpg">August 7 at 1:21 AM</a></p>
 </div>
 
 </div>
@@ -233,16 +233,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 12 at 8:26 PM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-12T20:26:40.739788-04:00.hyperlinks.json) |
-| [August 12 at 7:36 AM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-12T07:36:53.046267-04:00.hyperlinks.json) |
-| [August 11 at 7:20 PM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-11T19:20:14.286186-04:00.hyperlinks.json) |
-| [August 11 at 7:34 AM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-11T07:34:23.857238-04:00.hyperlinks.json) |
-| [August 10 at 8:37 PM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-10T20:37:45.482809-04:00.hyperlinks.json) |
-| [August 10 at 8:51 AM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-10T08:51:50.573838-04:00.hyperlinks.json) |
-| [August 9 at 7:22 PM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-09T19:22:33.300074-04:00.hyperlinks.json) |
-| [August 9 at 8:38 AM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-09T08:38:36.353448-04:00.hyperlinks.json) |
-| [August 8 at 8:33 PM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-08T20:33:50.921972-04:00.hyperlinks.json) |
-| [August 8 at 7:19 AM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-08T07:19:09.546246-04:00.hyperlinks.json) |
+| [August 12 at 1:26 PM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-12T20:26:40.739788-04:00.hyperlinks.json) |
+| [August 12 at 12:36 AM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-12T07:36:53.046267-04:00.hyperlinks.json) |
+| [August 11 at 12:20 PM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-11T19:20:14.286186-04:00.hyperlinks.json) |
+| [August 11 at 12:34 AM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-11T07:34:23.857238-04:00.hyperlinks.json) |
+| [August 10 at 1:37 PM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-10T20:37:45.482809-04:00.hyperlinks.json) |
+| [August 10 at 1:51 AM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-10T08:51:50.573838-04:00.hyperlinks.json) |
+| [August 9 at 12:22 PM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-09T19:22:33.300074-04:00.hyperlinks.json) |
+| [August 9 at 1:38 AM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-09T08:38:36.353448-04:00.hyperlinks.json) |
+| [August 8 at 1:33 PM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-08T20:33:50.921972-04:00.hyperlinks.json) |
+| [August 8 at 12:19 AM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-08T07:19:09.546246-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -255,16 +255,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 12 at 8:26 PM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-12T20:26:40.739788-04:00.accessibility.json) |
-| [August 12 at 7:36 AM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-12T07:36:53.046267-04:00.accessibility.json) |
-| [August 11 at 7:20 PM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-11T19:20:14.286186-04:00.accessibility.json) |
-| [August 11 at 7:34 AM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-11T07:34:23.857238-04:00.accessibility.json) |
-| [August 10 at 8:37 PM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-10T20:37:45.482809-04:00.accessibility.json) |
-| [August 10 at 8:51 AM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-10T08:51:50.573838-04:00.accessibility.json) |
-| [August 8 at 8:33 PM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-08T20:33:50.921972-04:00.accessibility.json) |
-| [August 8 at 7:19 AM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-08T07:19:09.546246-04:00.accessibility.json) |
-| [August 7 at 8:41 PM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-07T20:41:43.750727-04:00.accessibility.json) |
-| [August 7 at 8:21 AM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-07T08:21:41.920207-04:00.accessibility.json) |
+| [August 12 at 1:26 PM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-12T20:26:40.739788-04:00.accessibility.json) |
+| [August 12 at 12:36 AM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-12T07:36:53.046267-04:00.accessibility.json) |
+| [August 11 at 12:20 PM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-11T19:20:14.286186-04:00.accessibility.json) |
+| [August 11 at 12:34 AM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-11T07:34:23.857238-04:00.accessibility.json) |
+| [August 10 at 1:37 PM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-10T20:37:45.482809-04:00.accessibility.json) |
+| [August 10 at 1:51 AM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-10T08:51:50.573838-04:00.accessibility.json) |
+| [August 8 at 1:33 PM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-08T20:33:50.921972-04:00.accessibility.json) |
+| [August 8 at 12:19 AM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-08T07:19:09.546246-04:00.accessibility.json) |
+| [August 7 at 1:41 PM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-07T20:41:43.750727-04:00.accessibility.json) |
+| [August 7 at 1:21 AM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-07T08:21:41.920207-04:00.accessibility.json) |
 
 
 
@@ -278,16 +278,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 12 at 8:26 PM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-12T20:26:40.739788-04:00.lighthouse.json) |
-| [August 12 at 7:36 AM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-12T07:36:53.046267-04:00.lighthouse.json) |
-| [August 11 at 7:20 PM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-11T19:20:14.286186-04:00.lighthouse.json) |
-| [August 11 at 7:34 AM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-11T07:34:23.857238-04:00.lighthouse.json) |
-| [August 10 at 8:37 PM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-10T20:37:45.482809-04:00.lighthouse.json) |
-| [August 10 at 8:51 AM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-10T08:51:50.573838-04:00.lighthouse.json) |
-| [August 9 at 8:38 AM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-09T08:38:36.353448-04:00.lighthouse.json) |
-| [August 8 at 8:33 PM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-08T20:33:50.921972-04:00.lighthouse.json) |
-| [August 8 at 7:19 AM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-08T07:19:09.546246-04:00.lighthouse.json) |
-| [August 7 at 8:41 PM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-07T20:41:43.750727-04:00.lighthouse.json) |
+| [August 12 at 1:26 PM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-12T20:26:40.739788-04:00.lighthouse.json) |
+| [August 12 at 12:36 AM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-12T07:36:53.046267-04:00.lighthouse.json) |
+| [August 11 at 12:20 PM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-11T19:20:14.286186-04:00.lighthouse.json) |
+| [August 11 at 12:34 AM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-11T07:34:23.857238-04:00.lighthouse.json) |
+| [August 10 at 1:37 PM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-10T20:37:45.482809-04:00.lighthouse.json) |
+| [August 10 at 1:51 AM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-10T08:51:50.573838-04:00.lighthouse.json) |
+| [August 9 at 1:38 AM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-09T08:38:36.353448-04:00.lighthouse.json) |
+| [August 8 at 1:33 PM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-08T20:33:50.921972-04:00.lighthouse.json) |
+| [August 8 at 12:19 AM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-08T07:19:09.546246-04:00.lighthouse.json) |
+| [August 7 at 1:41 PM](https://archive.org/download/berkshireeagle-2022/berkshireeagle-2022-08-07T20:41:43.750727-04:00.lighthouse.json) |
 
 
 

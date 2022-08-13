@@ -116,109 +116,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-12T20:27:17.655685-04:00.jpg">
   <img src="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-12T20:27:17.655685-04:00.jpg"
-     alt="BleepingComputer at 2022-08-12 20:27:19-04:00 local time"
+     alt="BleepingComputer at 2022-08-12 13:27:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-12T20:27:17.655685-04:00.jpg">August 12 at 8:27 PM</a></p>
+ <p><a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-12T20:27:17.655685-04:00.jpg">August 12 at 1:27 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-12T07:37:19.723798-04:00.jpg">
   <img src="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-12T07:37:19.723798-04:00.jpg"
-     alt="BleepingComputer at 2022-08-12 07:37:21-04:00 local time"
+     alt="BleepingComputer at 2022-08-12 00:37:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-12T07:37:19.723798-04:00.jpg">August 12 at 7:37 AM</a></p>
+ <p><a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-12T07:37:19.723798-04:00.jpg">August 12 at 12:37 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-11T19:19:47.631347-04:00.jpg">
   <img src="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-11T19:19:47.631347-04:00.jpg"
-     alt="BleepingComputer at 2022-08-11 19:19:49-04:00 local time"
+     alt="BleepingComputer at 2022-08-11 12:19:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-11T19:19:47.631347-04:00.jpg">August 11 at 7:19 PM</a></p>
+ <p><a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-11T19:19:47.631347-04:00.jpg">August 11 at 12:19 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-11T07:34:25.991362-04:00.jpg">
   <img src="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-11T07:34:25.991362-04:00.jpg"
-     alt="BleepingComputer at 2022-08-11 07:34:28-04:00 local time"
+     alt="BleepingComputer at 2022-08-11 00:34:28-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-11T07:34:25.991362-04:00.jpg">August 11 at 7:34 AM</a></p>
+ <p><a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-11T07:34:25.991362-04:00.jpg">August 11 at 12:34 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-10T20:38:05.933782-04:00.jpg">
   <img src="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-10T20:38:05.933782-04:00.jpg"
-     alt="BleepingComputer at 2022-08-10 20:38:08-04:00 local time"
+     alt="BleepingComputer at 2022-08-10 13:38:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-10T20:38:05.933782-04:00.jpg">August 10 at 8:38 PM</a></p>
+ <p><a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-10T20:38:05.933782-04:00.jpg">August 10 at 1:38 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-10T08:51:58.541908-04:00.jpg">
   <img src="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-10T08:51:58.541908-04:00.jpg"
-     alt="BleepingComputer at 2022-08-10 08:52:01-04:00 local time"
+     alt="BleepingComputer at 2022-08-10 01:52:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-10T08:51:58.541908-04:00.jpg">August 10 at 8:52 AM</a></p>
+ <p><a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-10T08:51:58.541908-04:00.jpg">August 10 at 1:52 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-09T19:22:07.740519-04:00.jpg">
   <img src="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-09T19:22:07.740519-04:00.jpg"
-     alt="BleepingComputer at 2022-08-09 19:22:09-04:00 local time"
+     alt="BleepingComputer at 2022-08-09 12:22:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-09T19:22:07.740519-04:00.jpg">August 9 at 7:22 PM</a></p>
+ <p><a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-09T19:22:07.740519-04:00.jpg">August 9 at 12:22 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-09T08:39:46.481248-04:00.jpg">
   <img src="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-09T08:39:46.481248-04:00.jpg"
-     alt="BleepingComputer at 2022-08-09 08:39:49-04:00 local time"
+     alt="BleepingComputer at 2022-08-09 01:39:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-09T08:39:46.481248-04:00.jpg">August 9 at 8:39 AM</a></p>
+ <p><a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-09T08:39:46.481248-04:00.jpg">August 9 at 1:39 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-08T20:34:43.446080-04:00.jpg">
   <img src="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-08T20:34:43.446080-04:00.jpg"
-     alt="BleepingComputer at 2022-08-08 20:34:52-04:00 local time"
+     alt="BleepingComputer at 2022-08-08 13:34:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-08T20:34:43.446080-04:00.jpg">August 8 at 8:34 PM</a></p>
+ <p><a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-08T20:34:43.446080-04:00.jpg">August 8 at 1:34 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-08T07:22:00.727876-04:00.jpg">
   <img src="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-08T07:22:00.727876-04:00.jpg"
-     alt="BleepingComputer at 2022-08-08 07:22:05-04:00 local time"
+     alt="BleepingComputer at 2022-08-08 00:22:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-08T07:22:00.727876-04:00.jpg">August 8 at 7:22 AM</a></p>
+ <p><a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-08T07:22:00.727876-04:00.jpg">August 8 at 12:22 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-07T20:42:10.781044-04:00.jpg">
   <img src="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-07T20:42:10.781044-04:00.jpg"
-     alt="BleepingComputer at 2022-08-07 20:42:13-04:00 local time"
+     alt="BleepingComputer at 2022-08-07 13:42:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-07T20:42:10.781044-04:00.jpg">August 7 at 8:42 PM</a></p>
+ <p><a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-07T20:42:10.781044-04:00.jpg">August 7 at 1:42 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-07T08:22:35.421158-04:00.jpg">
   <img src="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-07T08:22:35.421158-04:00.jpg"
-     alt="BleepingComputer at 2022-08-07 08:22:38-04:00 local time"
+     alt="BleepingComputer at 2022-08-07 01:22:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-07T08:22:35.421158-04:00.jpg">August 7 at 8:22 AM</a></p>
+ <p><a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-07T08:22:35.421158-04:00.jpg">August 7 at 1:22 AM</a></p>
 </div>
 
 </div>
@@ -316,16 +316,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 12 at 8:27 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-12T20:27:17.655685-04:00.hyperlinks.json) |
-| [August 12 at 7:37 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-12T07:37:19.723798-04:00.hyperlinks.json) |
-| [August 11 at 7:19 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-11T19:19:47.631347-04:00.hyperlinks.json) |
-| [August 11 at 7:34 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-11T07:34:25.991362-04:00.hyperlinks.json) |
-| [August 10 at 8:38 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-10T20:38:05.933782-04:00.hyperlinks.json) |
-| [August 10 at 8:52 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-10T08:51:58.541908-04:00.hyperlinks.json) |
-| [August 9 at 7:22 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-09T19:22:07.740519-04:00.hyperlinks.json) |
-| [August 9 at 8:39 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-09T08:39:46.481248-04:00.hyperlinks.json) |
-| [August 8 at 8:34 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-08T20:34:43.446080-04:00.hyperlinks.json) |
-| [August 8 at 7:22 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-08T07:22:00.727876-04:00.hyperlinks.json) |
+| [August 12 at 1:27 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-12T20:27:17.655685-04:00.hyperlinks.json) |
+| [August 12 at 12:37 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-12T07:37:19.723798-04:00.hyperlinks.json) |
+| [August 11 at 12:19 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-11T19:19:47.631347-04:00.hyperlinks.json) |
+| [August 11 at 12:34 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-11T07:34:25.991362-04:00.hyperlinks.json) |
+| [August 10 at 1:38 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-10T20:38:05.933782-04:00.hyperlinks.json) |
+| [August 10 at 1:52 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-10T08:51:58.541908-04:00.hyperlinks.json) |
+| [August 9 at 12:22 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-09T19:22:07.740519-04:00.hyperlinks.json) |
+| [August 9 at 1:39 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-09T08:39:46.481248-04:00.hyperlinks.json) |
+| [August 8 at 1:34 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-08T20:34:43.446080-04:00.hyperlinks.json) |
+| [August 8 at 12:22 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-08T07:22:00.727876-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -421,16 +421,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 12 at 8:27 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-12T20:27:17.655685-04:00.accessibility.json) |
-| [August 12 at 7:37 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-12T07:37:19.723798-04:00.accessibility.json) |
-| [August 11 at 7:19 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-11T19:19:47.631347-04:00.accessibility.json) |
-| [August 11 at 7:34 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-11T07:34:25.991362-04:00.accessibility.json) |
-| [August 10 at 8:38 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-10T20:38:05.933782-04:00.accessibility.json) |
-| [August 10 at 8:52 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-10T08:51:58.541908-04:00.accessibility.json) |
-| [August 9 at 7:22 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-09T19:22:07.740519-04:00.accessibility.json) |
-| [August 9 at 8:39 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-09T08:39:46.481248-04:00.accessibility.json) |
-| [August 8 at 8:34 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-08T20:34:43.446080-04:00.accessibility.json) |
-| [August 8 at 7:22 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-08T07:22:00.727876-04:00.accessibility.json) |
+| [August 12 at 1:27 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-12T20:27:17.655685-04:00.accessibility.json) |
+| [August 12 at 12:37 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-12T07:37:19.723798-04:00.accessibility.json) |
+| [August 11 at 12:19 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-11T19:19:47.631347-04:00.accessibility.json) |
+| [August 11 at 12:34 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-11T07:34:25.991362-04:00.accessibility.json) |
+| [August 10 at 1:38 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-10T20:38:05.933782-04:00.accessibility.json) |
+| [August 10 at 1:52 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-10T08:51:58.541908-04:00.accessibility.json) |
+| [August 9 at 12:22 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-09T19:22:07.740519-04:00.accessibility.json) |
+| [August 9 at 1:39 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-09T08:39:46.481248-04:00.accessibility.json) |
+| [August 8 at 1:34 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-08T20:34:43.446080-04:00.accessibility.json) |
+| [August 8 at 12:22 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-08T07:22:00.727876-04:00.accessibility.json) |
 
 
 
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 12 at 8:27 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-12T20:27:17.655685-04:00.lighthouse.json) |
-| [August 12 at 7:37 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-12T07:37:19.723798-04:00.lighthouse.json) |
-| [August 11 at 7:19 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-11T19:19:47.631347-04:00.lighthouse.json) |
-| [August 11 at 7:34 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-11T07:34:25.991362-04:00.lighthouse.json) |
-| [August 10 at 8:38 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-10T20:38:05.933782-04:00.lighthouse.json) |
-| [August 10 at 8:52 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-10T08:51:58.541908-04:00.lighthouse.json) |
-| [August 9 at 7:22 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-09T19:22:07.740519-04:00.lighthouse.json) |
-| [August 9 at 8:39 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-09T08:39:46.481248-04:00.lighthouse.json) |
-| [August 8 at 8:34 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-08T20:34:43.446080-04:00.lighthouse.json) |
-| [August 8 at 7:22 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-08T07:22:00.727876-04:00.lighthouse.json) |
+| [August 12 at 1:27 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-12T20:27:17.655685-04:00.lighthouse.json) |
+| [August 12 at 12:37 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-12T07:37:19.723798-04:00.lighthouse.json) |
+| [August 11 at 12:19 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-11T19:19:47.631347-04:00.lighthouse.json) |
+| [August 11 at 12:34 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-11T07:34:25.991362-04:00.lighthouse.json) |
+| [August 10 at 1:38 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-10T20:38:05.933782-04:00.lighthouse.json) |
+| [August 10 at 1:52 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-10T08:51:58.541908-04:00.lighthouse.json) |
+| [August 9 at 12:22 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-09T19:22:07.740519-04:00.lighthouse.json) |
+| [August 9 at 1:39 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-09T08:39:46.481248-04:00.lighthouse.json) |
+| [August 8 at 1:34 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-08T20:34:43.446080-04:00.lighthouse.json) |
+| [August 8 at 12:22 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-08-08T07:22:00.727876-04:00.lighthouse.json) |
 
 
 

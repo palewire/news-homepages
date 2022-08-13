@@ -116,109 +116,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/parisreview-2022/parisreview-2022-08-12T20:17:29.056970+02:00.jpg">
   <img src="https://archive.org/download/parisreview-2022/parisreview-2022-08-12T20:17:29.056970+02:00.jpg"
-     alt="Paris Review at 2022-08-12 20:17:43+02:00 local time"
+     alt="Paris Review at 2022-08-12 13:17:43+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-08-12T20:17:29.056970+02:00.jpg">August 12 at 8:17 PM</a></p>
+ <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-08-12T20:17:29.056970+02:00.jpg">August 12 at 1:17 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/parisreview-2022/parisreview-2022-08-12T11:42:12.279977+02:00.jpg">
   <img src="https://archive.org/download/parisreview-2022/parisreview-2022-08-12T11:42:12.279977+02:00.jpg"
-     alt="Paris Review at 2022-08-12 11:42:13+02:00 local time"
+     alt="Paris Review at 2022-08-12 04:42:13+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-08-12T11:42:12.279977+02:00.jpg">August 12 at 11:42 AM</a></p>
+ <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-08-12T11:42:12.279977+02:00.jpg">August 12 at 4:42 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/parisreview-2022/parisreview-2022-08-11T20:51:40.392054+02:00.jpg">
   <img src="https://archive.org/download/parisreview-2022/parisreview-2022-08-11T20:51:40.392054+02:00.jpg"
-     alt="Paris Review at 2022-08-11 20:51:43+02:00 local time"
+     alt="Paris Review at 2022-08-11 13:51:43+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-08-11T20:51:40.392054+02:00.jpg">August 11 at 8:51 PM</a></p>
+ <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-08-11T20:51:40.392054+02:00.jpg">August 11 at 1:51 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/parisreview-2022/parisreview-2022-08-11T07:20:18.158197+02:00.jpg">
   <img src="https://archive.org/download/parisreview-2022/parisreview-2022-08-11T07:20:18.158197+02:00.jpg"
-     alt="Paris Review at 2022-08-11 07:20:21+02:00 local time"
+     alt="Paris Review at 2022-08-11 00:20:21+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-08-11T07:20:18.158197+02:00.jpg">August 11 at 7:20 AM</a></p>
+ <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-08-11T07:20:18.158197+02:00.jpg">August 11 at 12:20 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/parisreview-2022/parisreview-2022-08-10T20:16:24.863328+02:00.jpg">
   <img src="https://archive.org/download/parisreview-2022/parisreview-2022-08-10T20:16:24.863328+02:00.jpg"
-     alt="Paris Review at 2022-08-10 20:16:26+02:00 local time"
+     alt="Paris Review at 2022-08-10 13:16:26+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-08-10T20:16:24.863328+02:00.jpg">August 10 at 8:16 PM</a></p>
+ <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-08-10T20:16:24.863328+02:00.jpg">August 10 at 1:16 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/parisreview-2022/parisreview-2022-08-10T07:26:17.101124+02:00.jpg">
   <img src="https://archive.org/download/parisreview-2022/parisreview-2022-08-10T07:26:17.101124+02:00.jpg"
-     alt="Paris Review at 2022-08-10 07:26:19+02:00 local time"
+     alt="Paris Review at 2022-08-10 00:26:19+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-08-10T07:26:17.101124+02:00.jpg">August 10 at 7:26 AM</a></p>
+ <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-08-10T07:26:17.101124+02:00.jpg">August 10 at 12:26 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/parisreview-2022/parisreview-2022-08-09T19:47:46.894735+02:00.jpg">
   <img src="https://archive.org/download/parisreview-2022/parisreview-2022-08-09T19:47:46.894735+02:00.jpg"
-     alt="Paris Review at 2022-08-09 19:47:48+02:00 local time"
+     alt="Paris Review at 2022-08-09 12:47:48+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-08-09T19:47:46.894735+02:00.jpg">August 9 at 7:47 PM</a></p>
+ <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-08-09T19:47:46.894735+02:00.jpg">August 9 at 12:47 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/parisreview-2022/parisreview-2022-08-09T07:02:57.830833+02:00.jpg">
   <img src="https://archive.org/download/parisreview-2022/parisreview-2022-08-09T07:02:57.830833+02:00.jpg"
-     alt="Paris Review at 2022-08-09 07:02:58+02:00 local time"
+     alt="Paris Review at 2022-08-09 00:02:58+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-08-09T07:02:57.830833+02:00.jpg">August 9 at 7:02 AM</a></p>
+ <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-08-09T07:02:57.830833+02:00.jpg">August 9 at 12:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/parisreview-2022/parisreview-2022-08-08T19:14:05.645541+02:00.jpg">
   <img src="https://archive.org/download/parisreview-2022/parisreview-2022-08-08T19:14:05.645541+02:00.jpg"
-     alt="Paris Review at 2022-08-08 19:14:07+02:00 local time"
+     alt="Paris Review at 2022-08-08 12:14:07+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-08-08T19:14:05.645541+02:00.jpg">August 8 at 7:14 PM</a></p>
+ <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-08-08T19:14:05.645541+02:00.jpg">August 8 at 12:14 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/parisreview-2022/parisreview-2022-08-08T07:19:46.313878+02:00.jpg">
   <img src="https://archive.org/download/parisreview-2022/parisreview-2022-08-08T07:19:46.313878+02:00.jpg"
-     alt="Paris Review at 2022-08-08 07:19:48+02:00 local time"
+     alt="Paris Review at 2022-08-08 00:19:48+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-08-08T07:19:46.313878+02:00.jpg">August 8 at 7:19 AM</a></p>
+ <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-08-08T07:19:46.313878+02:00.jpg">August 8 at 12:19 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/parisreview-2022/parisreview-2022-08-07T19:00:42.784149+02:00.jpg">
   <img src="https://archive.org/download/parisreview-2022/parisreview-2022-08-07T19:00:42.784149+02:00.jpg"
-     alt="Paris Review at 2022-08-07 19:00:52+02:00 local time"
+     alt="Paris Review at 2022-08-07 12:00:52+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-08-07T19:00:42.784149+02:00.jpg">August 7 at 7:00 PM</a></p>
+ <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-08-07T19:00:42.784149+02:00.jpg">August 7 at 12:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/parisreview-2022/parisreview-2022-08-07T06:39:40.134563+02:00.jpg">
   <img src="https://archive.org/download/parisreview-2022/parisreview-2022-08-07T06:39:40.134563+02:00.jpg"
-     alt="Paris Review at 2022-08-07 06:39:44+02:00 local time"
+     alt="Paris Review at 2022-08-06 23:39:44+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-08-07T06:39:40.134563+02:00.jpg">August 7 at 6:39 AM</a></p>
+ <p><a href="https://archive.org/download/parisreview-2022/parisreview-2022-08-07T06:39:40.134563+02:00.jpg">August 6 at 11:39 PM</a></p>
 </div>
 
 </div>
@@ -316,16 +316,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 12 at 8:18 PM](https://archive.org/download/parisreview-2022/parisreview-2022-08-12T20:17:29.056970+02:00.hyperlinks.json) |
-| [August 12 at 11:42 AM](https://archive.org/download/parisreview-2022/parisreview-2022-08-12T11:42:12.279977+02:00.hyperlinks.json) |
-| [August 11 at 8:51 PM](https://archive.org/download/parisreview-2022/parisreview-2022-08-11T20:51:40.392054+02:00.hyperlinks.json) |
-| [August 11 at 7:20 AM](https://archive.org/download/parisreview-2022/parisreview-2022-08-11T07:20:18.158197+02:00.hyperlinks.json) |
-| [August 10 at 8:16 PM](https://archive.org/download/parisreview-2022/parisreview-2022-08-10T20:16:24.863328+02:00.hyperlinks.json) |
-| [August 10 at 7:26 AM](https://archive.org/download/parisreview-2022/parisreview-2022-08-10T07:26:17.101124+02:00.hyperlinks.json) |
-| [August 9 at 7:47 PM](https://archive.org/download/parisreview-2022/parisreview-2022-08-09T19:47:46.894735+02:00.hyperlinks.json) |
-| [August 9 at 7:03 AM](https://archive.org/download/parisreview-2022/parisreview-2022-08-09T07:02:57.830833+02:00.hyperlinks.json) |
-| [August 8 at 7:14 PM](https://archive.org/download/parisreview-2022/parisreview-2022-08-08T19:14:05.645541+02:00.hyperlinks.json) |
-| [August 8 at 7:19 AM](https://archive.org/download/parisreview-2022/parisreview-2022-08-08T07:19:46.313878+02:00.hyperlinks.json) |
+| [August 12 at 1:18 PM](https://archive.org/download/parisreview-2022/parisreview-2022-08-12T20:17:29.056970+02:00.hyperlinks.json) |
+| [August 12 at 4:42 AM](https://archive.org/download/parisreview-2022/parisreview-2022-08-12T11:42:12.279977+02:00.hyperlinks.json) |
+| [August 11 at 1:51 PM](https://archive.org/download/parisreview-2022/parisreview-2022-08-11T20:51:40.392054+02:00.hyperlinks.json) |
+| [August 11 at 12:20 AM](https://archive.org/download/parisreview-2022/parisreview-2022-08-11T07:20:18.158197+02:00.hyperlinks.json) |
+| [August 10 at 1:16 PM](https://archive.org/download/parisreview-2022/parisreview-2022-08-10T20:16:24.863328+02:00.hyperlinks.json) |
+| [August 10 at 12:26 AM](https://archive.org/download/parisreview-2022/parisreview-2022-08-10T07:26:17.101124+02:00.hyperlinks.json) |
+| [August 9 at 12:47 PM](https://archive.org/download/parisreview-2022/parisreview-2022-08-09T19:47:46.894735+02:00.hyperlinks.json) |
+| [August 9 at 12:03 AM](https://archive.org/download/parisreview-2022/parisreview-2022-08-09T07:02:57.830833+02:00.hyperlinks.json) |
+| [August 8 at 12:14 PM](https://archive.org/download/parisreview-2022/parisreview-2022-08-08T19:14:05.645541+02:00.hyperlinks.json) |
+| [August 8 at 12:19 AM](https://archive.org/download/parisreview-2022/parisreview-2022-08-08T07:19:46.313878+02:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -421,16 +421,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 12 at 8:18 PM](https://archive.org/download/parisreview-2022/parisreview-2022-08-12T20:17:29.056970+02:00.accessibility.json) |
-| [August 12 at 11:42 AM](https://archive.org/download/parisreview-2022/parisreview-2022-08-12T11:42:12.279977+02:00.accessibility.json) |
-| [August 11 at 8:51 PM](https://archive.org/download/parisreview-2022/parisreview-2022-08-11T20:51:40.392054+02:00.accessibility.json) |
-| [August 11 at 7:20 AM](https://archive.org/download/parisreview-2022/parisreview-2022-08-11T07:20:18.158197+02:00.accessibility.json) |
-| [August 10 at 8:16 PM](https://archive.org/download/parisreview-2022/parisreview-2022-08-10T20:16:24.863328+02:00.accessibility.json) |
-| [August 10 at 7:26 AM](https://archive.org/download/parisreview-2022/parisreview-2022-08-10T07:26:17.101124+02:00.accessibility.json) |
-| [August 9 at 7:47 PM](https://archive.org/download/parisreview-2022/parisreview-2022-08-09T19:47:46.894735+02:00.accessibility.json) |
-| [August 9 at 7:03 AM](https://archive.org/download/parisreview-2022/parisreview-2022-08-09T07:02:57.830833+02:00.accessibility.json) |
-| [August 8 at 7:14 PM](https://archive.org/download/parisreview-2022/parisreview-2022-08-08T19:14:05.645541+02:00.accessibility.json) |
-| [August 8 at 7:19 AM](https://archive.org/download/parisreview-2022/parisreview-2022-08-08T07:19:46.313878+02:00.accessibility.json) |
+| [August 12 at 1:18 PM](https://archive.org/download/parisreview-2022/parisreview-2022-08-12T20:17:29.056970+02:00.accessibility.json) |
+| [August 12 at 4:42 AM](https://archive.org/download/parisreview-2022/parisreview-2022-08-12T11:42:12.279977+02:00.accessibility.json) |
+| [August 11 at 1:51 PM](https://archive.org/download/parisreview-2022/parisreview-2022-08-11T20:51:40.392054+02:00.accessibility.json) |
+| [August 11 at 12:20 AM](https://archive.org/download/parisreview-2022/parisreview-2022-08-11T07:20:18.158197+02:00.accessibility.json) |
+| [August 10 at 1:16 PM](https://archive.org/download/parisreview-2022/parisreview-2022-08-10T20:16:24.863328+02:00.accessibility.json) |
+| [August 10 at 12:26 AM](https://archive.org/download/parisreview-2022/parisreview-2022-08-10T07:26:17.101124+02:00.accessibility.json) |
+| [August 9 at 12:47 PM](https://archive.org/download/parisreview-2022/parisreview-2022-08-09T19:47:46.894735+02:00.accessibility.json) |
+| [August 9 at 12:03 AM](https://archive.org/download/parisreview-2022/parisreview-2022-08-09T07:02:57.830833+02:00.accessibility.json) |
+| [August 8 at 12:14 PM](https://archive.org/download/parisreview-2022/parisreview-2022-08-08T19:14:05.645541+02:00.accessibility.json) |
+| [August 8 at 12:19 AM](https://archive.org/download/parisreview-2022/parisreview-2022-08-08T07:19:46.313878+02:00.accessibility.json) |
 
 
 
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 12 at 8:18 PM](https://archive.org/download/parisreview-2022/parisreview-2022-08-12T20:17:29.056970+02:00.lighthouse.json) |
-| [August 12 at 11:42 AM](https://archive.org/download/parisreview-2022/parisreview-2022-08-12T11:42:12.279977+02:00.lighthouse.json) |
-| [August 11 at 8:51 PM](https://archive.org/download/parisreview-2022/parisreview-2022-08-11T20:51:40.392054+02:00.lighthouse.json) |
-| [August 11 at 7:20 AM](https://archive.org/download/parisreview-2022/parisreview-2022-08-11T07:20:18.158197+02:00.lighthouse.json) |
-| [August 10 at 8:16 PM](https://archive.org/download/parisreview-2022/parisreview-2022-08-10T20:16:24.863328+02:00.lighthouse.json) |
-| [August 10 at 7:26 AM](https://archive.org/download/parisreview-2022/parisreview-2022-08-10T07:26:17.101124+02:00.lighthouse.json) |
-| [August 9 at 7:47 PM](https://archive.org/download/parisreview-2022/parisreview-2022-08-09T19:47:46.894735+02:00.lighthouse.json) |
-| [August 9 at 7:03 AM](https://archive.org/download/parisreview-2022/parisreview-2022-08-09T07:02:57.830833+02:00.lighthouse.json) |
-| [August 8 at 7:14 PM](https://archive.org/download/parisreview-2022/parisreview-2022-08-08T19:14:05.645541+02:00.lighthouse.json) |
-| [August 8 at 7:19 AM](https://archive.org/download/parisreview-2022/parisreview-2022-08-08T07:19:46.313878+02:00.lighthouse.json) |
+| [August 12 at 1:18 PM](https://archive.org/download/parisreview-2022/parisreview-2022-08-12T20:17:29.056970+02:00.lighthouse.json) |
+| [August 12 at 4:42 AM](https://archive.org/download/parisreview-2022/parisreview-2022-08-12T11:42:12.279977+02:00.lighthouse.json) |
+| [August 11 at 1:51 PM](https://archive.org/download/parisreview-2022/parisreview-2022-08-11T20:51:40.392054+02:00.lighthouse.json) |
+| [August 11 at 12:20 AM](https://archive.org/download/parisreview-2022/parisreview-2022-08-11T07:20:18.158197+02:00.lighthouse.json) |
+| [August 10 at 1:16 PM](https://archive.org/download/parisreview-2022/parisreview-2022-08-10T20:16:24.863328+02:00.lighthouse.json) |
+| [August 10 at 12:26 AM](https://archive.org/download/parisreview-2022/parisreview-2022-08-10T07:26:17.101124+02:00.lighthouse.json) |
+| [August 9 at 12:47 PM](https://archive.org/download/parisreview-2022/parisreview-2022-08-09T19:47:46.894735+02:00.lighthouse.json) |
+| [August 9 at 12:03 AM](https://archive.org/download/parisreview-2022/parisreview-2022-08-09T07:02:57.830833+02:00.lighthouse.json) |
+| [August 8 at 12:14 PM](https://archive.org/download/parisreview-2022/parisreview-2022-08-08T19:14:05.645541+02:00.lighthouse.json) |
+| [August 8 at 12:19 AM](https://archive.org/download/parisreview-2022/parisreview-2022-08-08T07:19:46.313878+02:00.lighthouse.json) |
 
 
 

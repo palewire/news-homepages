@@ -116,109 +116,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/theinformation-2022/theinformation-2022-08-12T11:27:57.960451-07:00.jpg">
   <img src="https://archive.org/download/theinformation-2022/theinformation-2022-08-12T11:27:57.960451-07:00.jpg"
-     alt="The Information at 2022-08-12 11:28:07-07:00 local time"
+     alt="The Information at 2022-08-12 04:28:07-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theinformation-2022/theinformation-2022-08-12T11:27:57.960451-07:00.jpg">August 12 at 11:28 AM</a></p>
+ <p><a href="https://archive.org/download/theinformation-2022/theinformation-2022-08-12T11:27:57.960451-07:00.jpg">August 12 at 4:28 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theinformation-2022/theinformation-2022-08-12T02:48:02.406073-07:00.jpg">
   <img src="https://archive.org/download/theinformation-2022/theinformation-2022-08-12T02:48:02.406073-07:00.jpg"
-     alt="The Information at 2022-08-12 02:48:12-07:00 local time"
+     alt="The Information at 2022-08-11 19:48:12-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theinformation-2022/theinformation-2022-08-12T02:48:02.406073-07:00.jpg">August 12 at 2:48 AM</a></p>
+ <p><a href="https://archive.org/download/theinformation-2022/theinformation-2022-08-12T02:48:02.406073-07:00.jpg">August 11 at 7:48 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theinformation-2022/theinformation-2022-08-11T11:58:50.059833-07:00.jpg">
   <img src="https://archive.org/download/theinformation-2022/theinformation-2022-08-11T11:58:50.059833-07:00.jpg"
-     alt="The Information at 2022-08-11 11:58:51-07:00 local time"
+     alt="The Information at 2022-08-11 04:58:51-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theinformation-2022/theinformation-2022-08-11T11:58:50.059833-07:00.jpg">August 11 at 11:58 AM</a></p>
+ <p><a href="https://archive.org/download/theinformation-2022/theinformation-2022-08-11T11:58:50.059833-07:00.jpg">August 11 at 4:58 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theinformation-2022/theinformation-2022-08-10T22:27:38.634472-07:00.jpg">
   <img src="https://archive.org/download/theinformation-2022/theinformation-2022-08-10T22:27:38.634472-07:00.jpg"
-     alt="The Information at 2022-08-10 22:27:40-07:00 local time"
+     alt="The Information at 2022-08-10 15:27:40-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theinformation-2022/theinformation-2022-08-10T22:27:38.634472-07:00.jpg">August 10 at 10:27 PM</a></p>
+ <p><a href="https://archive.org/download/theinformation-2022/theinformation-2022-08-10T22:27:38.634472-07:00.jpg">August 10 at 3:27 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theinformation-2022/theinformation-2022-08-10T11:27:24.578191-07:00.jpg">
   <img src="https://archive.org/download/theinformation-2022/theinformation-2022-08-10T11:27:24.578191-07:00.jpg"
-     alt="The Information at 2022-08-10 11:27:29-07:00 local time"
+     alt="The Information at 2022-08-10 04:27:29-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theinformation-2022/theinformation-2022-08-10T11:27:24.578191-07:00.jpg">August 10 at 11:27 AM</a></p>
+ <p><a href="https://archive.org/download/theinformation-2022/theinformation-2022-08-10T11:27:24.578191-07:00.jpg">August 10 at 4:27 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theinformation-2022/theinformation-2022-08-09T22:35:10.107709-07:00.jpg">
   <img src="https://archive.org/download/theinformation-2022/theinformation-2022-08-09T22:35:10.107709-07:00.jpg"
-     alt="The Information at 2022-08-09 22:35:11-07:00 local time"
+     alt="The Information at 2022-08-09 15:35:11-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theinformation-2022/theinformation-2022-08-09T22:35:10.107709-07:00.jpg">August 9 at 10:35 PM</a></p>
+ <p><a href="https://archive.org/download/theinformation-2022/theinformation-2022-08-09T22:35:10.107709-07:00.jpg">August 9 at 3:35 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theinformation-2022/theinformation-2022-08-09T10:56:22.137749-07:00.jpg">
   <img src="https://archive.org/download/theinformation-2022/theinformation-2022-08-09T10:56:22.137749-07:00.jpg"
-     alt="The Information at 2022-08-09 10:56:25-07:00 local time"
+     alt="The Information at 2022-08-09 03:56:25-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theinformation-2022/theinformation-2022-08-09T10:56:22.137749-07:00.jpg">August 9 at 10:56 AM</a></p>
+ <p><a href="https://archive.org/download/theinformation-2022/theinformation-2022-08-09T10:56:22.137749-07:00.jpg">August 9 at 3:56 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theinformation-2022/theinformation-2022-08-08T22:12:17.156897-07:00.jpg">
   <img src="https://archive.org/download/theinformation-2022/theinformation-2022-08-08T22:12:17.156897-07:00.jpg"
-     alt="The Information at 2022-08-08 22:12:18-07:00 local time"
+     alt="The Information at 2022-08-08 15:12:18-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theinformation-2022/theinformation-2022-08-08T22:12:17.156897-07:00.jpg">August 8 at 10:12 PM</a></p>
+ <p><a href="https://archive.org/download/theinformation-2022/theinformation-2022-08-08T22:12:17.156897-07:00.jpg">August 8 at 3:12 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theinformation-2022/theinformation-2022-08-08T10:21:07.282732-07:00.jpg">
   <img src="https://archive.org/download/theinformation-2022/theinformation-2022-08-08T10:21:07.282732-07:00.jpg"
-     alt="The Information at 2022-08-08 10:21:09-07:00 local time"
+     alt="The Information at 2022-08-08 03:21:09-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theinformation-2022/theinformation-2022-08-08T10:21:07.282732-07:00.jpg">August 8 at 10:21 AM</a></p>
+ <p><a href="https://archive.org/download/theinformation-2022/theinformation-2022-08-08T10:21:07.282732-07:00.jpg">August 8 at 3:21 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theinformation-2022/theinformation-2022-08-07T22:27:10.865884-07:00.jpg">
   <img src="https://archive.org/download/theinformation-2022/theinformation-2022-08-07T22:27:10.865884-07:00.jpg"
-     alt="The Information at 2022-08-07 22:27:16-07:00 local time"
+     alt="The Information at 2022-08-07 15:27:16-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theinformation-2022/theinformation-2022-08-07T22:27:10.865884-07:00.jpg">August 7 at 10:27 PM</a></p>
+ <p><a href="https://archive.org/download/theinformation-2022/theinformation-2022-08-07T22:27:10.865884-07:00.jpg">August 7 at 3:27 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theinformation-2022/theinformation-2022-08-07T10:08:37.751279-07:00.jpg">
   <img src="https://archive.org/download/theinformation-2022/theinformation-2022-08-07T10:08:37.751279-07:00.jpg"
-     alt="The Information at 2022-08-07 10:08:38-07:00 local time"
+     alt="The Information at 2022-08-07 03:08:38-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theinformation-2022/theinformation-2022-08-07T10:08:37.751279-07:00.jpg">August 7 at 10:08 AM</a></p>
+ <p><a href="https://archive.org/download/theinformation-2022/theinformation-2022-08-07T10:08:37.751279-07:00.jpg">August 7 at 3:08 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theinformation-2022/theinformation-2022-08-06T21:45:32.886916-07:00.jpg">
   <img src="https://archive.org/download/theinformation-2022/theinformation-2022-08-06T21:45:32.886916-07:00.jpg"
-     alt="The Information at 2022-08-06 21:45:36-07:00 local time"
+     alt="The Information at 2022-08-06 14:45:36-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theinformation-2022/theinformation-2022-08-06T21:45:32.886916-07:00.jpg">August 6 at 9:45 PM</a></p>
+ <p><a href="https://archive.org/download/theinformation-2022/theinformation-2022-08-06T21:45:32.886916-07:00.jpg">August 6 at 2:45 PM</a></p>
 </div>
 
 </div>
@@ -316,16 +316,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 12 at 11:28 AM](https://archive.org/download/theinformation-2022/theinformation-2022-08-12T11:27:57.960451-07:00.hyperlinks.json) |
-| [August 12 at 2:48 AM](https://archive.org/download/theinformation-2022/theinformation-2022-08-12T02:48:02.406073-07:00.hyperlinks.json) |
-| [August 11 at 11:58 AM](https://archive.org/download/theinformation-2022/theinformation-2022-08-11T11:58:50.059833-07:00.hyperlinks.json) |
-| [August 10 at 10:27 PM](https://archive.org/download/theinformation-2022/theinformation-2022-08-10T22:27:38.634472-07:00.hyperlinks.json) |
-| [August 10 at 11:27 AM](https://archive.org/download/theinformation-2022/theinformation-2022-08-10T11:27:24.578191-07:00.hyperlinks.json) |
-| [August 9 at 10:35 PM](https://archive.org/download/theinformation-2022/theinformation-2022-08-09T22:35:10.107709-07:00.hyperlinks.json) |
-| [August 9 at 10:56 AM](https://archive.org/download/theinformation-2022/theinformation-2022-08-09T10:56:22.137749-07:00.hyperlinks.json) |
-| [August 8 at 10:12 PM](https://archive.org/download/theinformation-2022/theinformation-2022-08-08T22:12:17.156897-07:00.hyperlinks.json) |
-| [August 8 at 10:21 AM](https://archive.org/download/theinformation-2022/theinformation-2022-08-08T10:21:07.282732-07:00.hyperlinks.json) |
-| [August 7 at 10:27 PM](https://archive.org/download/theinformation-2022/theinformation-2022-08-07T22:27:10.865884-07:00.hyperlinks.json) |
+| [August 12 at 4:28 AM](https://archive.org/download/theinformation-2022/theinformation-2022-08-12T11:27:57.960451-07:00.hyperlinks.json) |
+| [August 11 at 7:48 PM](https://archive.org/download/theinformation-2022/theinformation-2022-08-12T02:48:02.406073-07:00.hyperlinks.json) |
+| [August 11 at 4:58 AM](https://archive.org/download/theinformation-2022/theinformation-2022-08-11T11:58:50.059833-07:00.hyperlinks.json) |
+| [August 10 at 3:27 PM](https://archive.org/download/theinformation-2022/theinformation-2022-08-10T22:27:38.634472-07:00.hyperlinks.json) |
+| [August 10 at 4:27 AM](https://archive.org/download/theinformation-2022/theinformation-2022-08-10T11:27:24.578191-07:00.hyperlinks.json) |
+| [August 9 at 3:35 PM](https://archive.org/download/theinformation-2022/theinformation-2022-08-09T22:35:10.107709-07:00.hyperlinks.json) |
+| [August 9 at 3:56 AM](https://archive.org/download/theinformation-2022/theinformation-2022-08-09T10:56:22.137749-07:00.hyperlinks.json) |
+| [August 8 at 3:12 PM](https://archive.org/download/theinformation-2022/theinformation-2022-08-08T22:12:17.156897-07:00.hyperlinks.json) |
+| [August 8 at 3:21 AM](https://archive.org/download/theinformation-2022/theinformation-2022-08-08T10:21:07.282732-07:00.hyperlinks.json) |
+| [August 7 at 3:27 PM](https://archive.org/download/theinformation-2022/theinformation-2022-08-07T22:27:10.865884-07:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -421,16 +421,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 12 at 11:28 AM](https://archive.org/download/theinformation-2022/theinformation-2022-08-12T11:27:57.960451-07:00.accessibility.json) |
-| [August 12 at 2:48 AM](https://archive.org/download/theinformation-2022/theinformation-2022-08-12T02:48:02.406073-07:00.accessibility.json) |
-| [August 11 at 11:58 AM](https://archive.org/download/theinformation-2022/theinformation-2022-08-11T11:58:50.059833-07:00.accessibility.json) |
-| [August 10 at 10:27 PM](https://archive.org/download/theinformation-2022/theinformation-2022-08-10T22:27:38.634472-07:00.accessibility.json) |
-| [August 10 at 11:27 AM](https://archive.org/download/theinformation-2022/theinformation-2022-08-10T11:27:24.578191-07:00.accessibility.json) |
-| [August 9 at 10:35 PM](https://archive.org/download/theinformation-2022/theinformation-2022-08-09T22:35:10.107709-07:00.accessibility.json) |
-| [August 9 at 10:56 AM](https://archive.org/download/theinformation-2022/theinformation-2022-08-09T10:56:22.137749-07:00.accessibility.json) |
-| [August 8 at 10:12 PM](https://archive.org/download/theinformation-2022/theinformation-2022-08-08T22:12:17.156897-07:00.accessibility.json) |
-| [August 8 at 10:21 AM](https://archive.org/download/theinformation-2022/theinformation-2022-08-08T10:21:07.282732-07:00.accessibility.json) |
-| [August 7 at 10:27 PM](https://archive.org/download/theinformation-2022/theinformation-2022-08-07T22:27:10.865884-07:00.accessibility.json) |
+| [August 12 at 4:28 AM](https://archive.org/download/theinformation-2022/theinformation-2022-08-12T11:27:57.960451-07:00.accessibility.json) |
+| [August 11 at 7:48 PM](https://archive.org/download/theinformation-2022/theinformation-2022-08-12T02:48:02.406073-07:00.accessibility.json) |
+| [August 11 at 4:58 AM](https://archive.org/download/theinformation-2022/theinformation-2022-08-11T11:58:50.059833-07:00.accessibility.json) |
+| [August 10 at 3:27 PM](https://archive.org/download/theinformation-2022/theinformation-2022-08-10T22:27:38.634472-07:00.accessibility.json) |
+| [August 10 at 4:27 AM](https://archive.org/download/theinformation-2022/theinformation-2022-08-10T11:27:24.578191-07:00.accessibility.json) |
+| [August 9 at 3:35 PM](https://archive.org/download/theinformation-2022/theinformation-2022-08-09T22:35:10.107709-07:00.accessibility.json) |
+| [August 9 at 3:56 AM](https://archive.org/download/theinformation-2022/theinformation-2022-08-09T10:56:22.137749-07:00.accessibility.json) |
+| [August 8 at 3:12 PM](https://archive.org/download/theinformation-2022/theinformation-2022-08-08T22:12:17.156897-07:00.accessibility.json) |
+| [August 8 at 3:21 AM](https://archive.org/download/theinformation-2022/theinformation-2022-08-08T10:21:07.282732-07:00.accessibility.json) |
+| [August 7 at 3:27 PM](https://archive.org/download/theinformation-2022/theinformation-2022-08-07T22:27:10.865884-07:00.accessibility.json) |
 
 
 
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 12 at 11:28 AM](https://archive.org/download/theinformation-2022/theinformation-2022-08-12T11:27:57.960451-07:00.lighthouse.json) |
-| [August 12 at 2:48 AM](https://archive.org/download/theinformation-2022/theinformation-2022-08-12T02:48:02.406073-07:00.lighthouse.json) |
-| [August 11 at 11:58 AM](https://archive.org/download/theinformation-2022/theinformation-2022-08-11T11:58:50.059833-07:00.lighthouse.json) |
-| [August 10 at 10:27 PM](https://archive.org/download/theinformation-2022/theinformation-2022-08-10T22:27:38.634472-07:00.lighthouse.json) |
-| [August 10 at 11:27 AM](https://archive.org/download/theinformation-2022/theinformation-2022-08-10T11:27:24.578191-07:00.lighthouse.json) |
-| [August 9 at 10:35 PM](https://archive.org/download/theinformation-2022/theinformation-2022-08-09T22:35:10.107709-07:00.lighthouse.json) |
-| [August 9 at 10:56 AM](https://archive.org/download/theinformation-2022/theinformation-2022-08-09T10:56:22.137749-07:00.lighthouse.json) |
-| [August 8 at 10:12 PM](https://archive.org/download/theinformation-2022/theinformation-2022-08-08T22:12:17.156897-07:00.lighthouse.json) |
-| [August 8 at 10:21 AM](https://archive.org/download/theinformation-2022/theinformation-2022-08-08T10:21:07.282732-07:00.lighthouse.json) |
-| [August 7 at 10:27 PM](https://archive.org/download/theinformation-2022/theinformation-2022-08-07T22:27:10.865884-07:00.lighthouse.json) |
+| [August 12 at 4:28 AM](https://archive.org/download/theinformation-2022/theinformation-2022-08-12T11:27:57.960451-07:00.lighthouse.json) |
+| [August 11 at 7:48 PM](https://archive.org/download/theinformation-2022/theinformation-2022-08-12T02:48:02.406073-07:00.lighthouse.json) |
+| [August 11 at 4:58 AM](https://archive.org/download/theinformation-2022/theinformation-2022-08-11T11:58:50.059833-07:00.lighthouse.json) |
+| [August 10 at 3:27 PM](https://archive.org/download/theinformation-2022/theinformation-2022-08-10T22:27:38.634472-07:00.lighthouse.json) |
+| [August 10 at 4:27 AM](https://archive.org/download/theinformation-2022/theinformation-2022-08-10T11:27:24.578191-07:00.lighthouse.json) |
+| [August 9 at 3:35 PM](https://archive.org/download/theinformation-2022/theinformation-2022-08-09T22:35:10.107709-07:00.lighthouse.json) |
+| [August 9 at 3:56 AM](https://archive.org/download/theinformation-2022/theinformation-2022-08-09T10:56:22.137749-07:00.lighthouse.json) |
+| [August 8 at 3:12 PM](https://archive.org/download/theinformation-2022/theinformation-2022-08-08T22:12:17.156897-07:00.lighthouse.json) |
+| [August 8 at 3:21 AM](https://archive.org/download/theinformation-2022/theinformation-2022-08-08T10:21:07.282732-07:00.lighthouse.json) |
+| [August 7 at 3:27 PM](https://archive.org/download/theinformation-2022/theinformation-2022-08-07T22:27:10.865884-07:00.lighthouse.json) |
 
 
 

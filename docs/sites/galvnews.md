@@ -116,109 +116,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/galvnews-2022/galvnews-2022-08-12T19:35:47.755512-05:00.jpg">
   <img src="https://archive.org/download/galvnews-2022/galvnews-2022-08-12T19:35:47.755512-05:00.jpg"
-     alt="Galveston County Daily News at 2022-08-12 19:35:50-05:00 local time"
+     alt="Galveston County Daily News at 2022-08-12 12:35:50-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/galvnews-2022/galvnews-2022-08-12T19:35:47.755512-05:00.jpg">August 12 at 7:35 PM</a></p>
+ <p><a href="https://archive.org/download/galvnews-2022/galvnews-2022-08-12T19:35:47.755512-05:00.jpg">August 12 at 12:35 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/galvnews-2022/galvnews-2022-08-12T06:45:45.930475-05:00.jpg">
   <img src="https://archive.org/download/galvnews-2022/galvnews-2022-08-12T06:45:45.930475-05:00.jpg"
-     alt="Galveston County Daily News at 2022-08-12 06:45:47-05:00 local time"
+     alt="Galveston County Daily News at 2022-08-11 23:45:47-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/galvnews-2022/galvnews-2022-08-12T06:45:45.930475-05:00.jpg">August 12 at 6:45 AM</a></p>
+ <p><a href="https://archive.org/download/galvnews-2022/galvnews-2022-08-12T06:45:45.930475-05:00.jpg">August 11 at 11:45 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/galvnews-2022/galvnews-2022-08-11T18:29:16.364486-05:00.jpg">
   <img src="https://archive.org/download/galvnews-2022/galvnews-2022-08-11T18:29:16.364486-05:00.jpg"
-     alt="Galveston County Daily News at 2022-08-11 18:29:19-05:00 local time"
+     alt="Galveston County Daily News at 2022-08-11 11:29:19-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/galvnews-2022/galvnews-2022-08-11T18:29:16.364486-05:00.jpg">August 11 at 6:29 PM</a></p>
+ <p><a href="https://archive.org/download/galvnews-2022/galvnews-2022-08-11T18:29:16.364486-05:00.jpg">August 11 at 11:29 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/galvnews-2022/galvnews-2022-08-11T06:44:15.811529-05:00.jpg">
   <img src="https://archive.org/download/galvnews-2022/galvnews-2022-08-11T06:44:15.811529-05:00.jpg"
-     alt="Galveston County Daily News at 2022-08-11 06:44:20-05:00 local time"
+     alt="Galveston County Daily News at 2022-08-10 23:44:20-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/galvnews-2022/galvnews-2022-08-11T06:44:15.811529-05:00.jpg">August 11 at 6:44 AM</a></p>
+ <p><a href="https://archive.org/download/galvnews-2022/galvnews-2022-08-11T06:44:15.811529-05:00.jpg">August 10 at 11:44 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/galvnews-2022/galvnews-2022-08-10T19:45:37.097788-05:00.jpg">
   <img src="https://archive.org/download/galvnews-2022/galvnews-2022-08-10T19:45:37.097788-05:00.jpg"
-     alt="Galveston County Daily News at 2022-08-10 19:45:38-05:00 local time"
+     alt="Galveston County Daily News at 2022-08-10 12:45:38-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/galvnews-2022/galvnews-2022-08-10T19:45:37.097788-05:00.jpg">August 10 at 7:45 PM</a></p>
+ <p><a href="https://archive.org/download/galvnews-2022/galvnews-2022-08-10T19:45:37.097788-05:00.jpg">August 10 at 12:45 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/galvnews-2022/galvnews-2022-08-10T08:00:26.474351-05:00.jpg">
   <img src="https://archive.org/download/galvnews-2022/galvnews-2022-08-10T08:00:26.474351-05:00.jpg"
-     alt="Galveston County Daily News at 2022-08-10 08:00:32-05:00 local time"
+     alt="Galveston County Daily News at 2022-08-10 01:00:32-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/galvnews-2022/galvnews-2022-08-10T08:00:26.474351-05:00.jpg">August 10 at 8:00 AM</a></p>
+ <p><a href="https://archive.org/download/galvnews-2022/galvnews-2022-08-10T08:00:26.474351-05:00.jpg">August 10 at 1:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/galvnews-2022/galvnews-2022-08-09T18:31:40.622450-05:00.jpg">
   <img src="https://archive.org/download/galvnews-2022/galvnews-2022-08-09T18:31:40.622450-05:00.jpg"
-     alt="Galveston County Daily News at 2022-08-09 18:31:42-05:00 local time"
+     alt="Galveston County Daily News at 2022-08-09 11:31:42-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/galvnews-2022/galvnews-2022-08-09T18:31:40.622450-05:00.jpg">August 9 at 6:31 PM</a></p>
+ <p><a href="https://archive.org/download/galvnews-2022/galvnews-2022-08-09T18:31:40.622450-05:00.jpg">August 9 at 11:31 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/galvnews-2022/galvnews-2022-08-09T07:49:52.975967-05:00.jpg">
   <img src="https://archive.org/download/galvnews-2022/galvnews-2022-08-09T07:49:52.975967-05:00.jpg"
-     alt="Galveston County Daily News at 2022-08-09 07:49:55-05:00 local time"
+     alt="Galveston County Daily News at 2022-08-09 00:49:55-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/galvnews-2022/galvnews-2022-08-09T07:49:52.975967-05:00.jpg">August 9 at 7:49 AM</a></p>
+ <p><a href="https://archive.org/download/galvnews-2022/galvnews-2022-08-09T07:49:52.975967-05:00.jpg">August 9 at 12:49 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/galvnews-2022/galvnews-2022-08-08T19:42:37.062731-05:00.jpg">
   <img src="https://archive.org/download/galvnews-2022/galvnews-2022-08-08T19:42:37.062731-05:00.jpg"
-     alt="Galveston County Daily News at 2022-08-08 19:42:40-05:00 local time"
+     alt="Galveston County Daily News at 2022-08-08 12:42:40-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/galvnews-2022/galvnews-2022-08-08T19:42:37.062731-05:00.jpg">August 8 at 7:42 PM</a></p>
+ <p><a href="https://archive.org/download/galvnews-2022/galvnews-2022-08-08T19:42:37.062731-05:00.jpg">August 8 at 12:42 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/galvnews-2022/galvnews-2022-08-08T06:28:01.217278-05:00.jpg">
   <img src="https://archive.org/download/galvnews-2022/galvnews-2022-08-08T06:28:01.217278-05:00.jpg"
-     alt="Galveston County Daily News at 2022-08-08 06:28:03-05:00 local time"
+     alt="Galveston County Daily News at 2022-08-07 23:28:03-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/galvnews-2022/galvnews-2022-08-08T06:28:01.217278-05:00.jpg">August 8 at 6:28 AM</a></p>
+ <p><a href="https://archive.org/download/galvnews-2022/galvnews-2022-08-08T06:28:01.217278-05:00.jpg">August 7 at 11:28 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/galvnews-2022/galvnews-2022-08-07T19:52:34.127825-05:00.jpg">
   <img src="https://archive.org/download/galvnews-2022/galvnews-2022-08-07T19:52:34.127825-05:00.jpg"
-     alt="Galveston County Daily News at 2022-08-07 19:52:36-05:00 local time"
+     alt="Galveston County Daily News at 2022-08-07 12:52:36-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/galvnews-2022/galvnews-2022-08-07T19:52:34.127825-05:00.jpg">August 7 at 7:52 PM</a></p>
+ <p><a href="https://archive.org/download/galvnews-2022/galvnews-2022-08-07T19:52:34.127825-05:00.jpg">August 7 at 12:52 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/galvnews-2022/galvnews-2022-08-07T07:30:27.369175-05:00.jpg">
   <img src="https://archive.org/download/galvnews-2022/galvnews-2022-08-07T07:30:27.369175-05:00.jpg"
-     alt="Galveston County Daily News at 2022-08-07 07:30:29-05:00 local time"
+     alt="Galveston County Daily News at 2022-08-07 00:30:29-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/galvnews-2022/galvnews-2022-08-07T07:30:27.369175-05:00.jpg">August 7 at 7:30 AM</a></p>
+ <p><a href="https://archive.org/download/galvnews-2022/galvnews-2022-08-07T07:30:27.369175-05:00.jpg">August 7 at 12:30 AM</a></p>
 </div>
 
 </div>
@@ -316,16 +316,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 12 at 6:45 AM](https://archive.org/download/galvnews-2022/galvnews-2022-08-12T06:45:45.930475-05:00.hyperlinks.json) |
-| [August 11 at 6:29 PM](https://archive.org/download/galvnews-2022/galvnews-2022-08-11T18:29:16.364486-05:00.hyperlinks.json) |
-| [August 11 at 6:44 AM](https://archive.org/download/galvnews-2022/galvnews-2022-08-11T06:44:15.811529-05:00.hyperlinks.json) |
-| [August 10 at 7:45 PM](https://archive.org/download/galvnews-2022/galvnews-2022-08-10T19:45:37.097788-05:00.hyperlinks.json) |
-| [August 10 at 8:00 AM](https://archive.org/download/galvnews-2022/galvnews-2022-08-10T08:00:26.474351-05:00.hyperlinks.json) |
-| [August 9 at 6:31 PM](https://archive.org/download/galvnews-2022/galvnews-2022-08-09T18:31:40.622450-05:00.hyperlinks.json) |
-| [August 9 at 7:50 AM](https://archive.org/download/galvnews-2022/galvnews-2022-08-09T07:49:52.975967-05:00.hyperlinks.json) |
-| [August 8 at 7:42 PM](https://archive.org/download/galvnews-2022/galvnews-2022-08-08T19:42:37.062731-05:00.hyperlinks.json) |
-| [August 8 at 6:28 AM](https://archive.org/download/galvnews-2022/galvnews-2022-08-08T06:28:01.217278-05:00.hyperlinks.json) |
-| [August 7 at 7:52 PM](https://archive.org/download/galvnews-2022/galvnews-2022-08-07T19:52:34.127825-05:00.hyperlinks.json) |
+| [August 11 at 11:45 PM](https://archive.org/download/galvnews-2022/galvnews-2022-08-12T06:45:45.930475-05:00.hyperlinks.json) |
+| [August 11 at 11:29 AM](https://archive.org/download/galvnews-2022/galvnews-2022-08-11T18:29:16.364486-05:00.hyperlinks.json) |
+| [August 10 at 11:44 PM](https://archive.org/download/galvnews-2022/galvnews-2022-08-11T06:44:15.811529-05:00.hyperlinks.json) |
+| [August 10 at 12:45 PM](https://archive.org/download/galvnews-2022/galvnews-2022-08-10T19:45:37.097788-05:00.hyperlinks.json) |
+| [August 10 at 1:00 AM](https://archive.org/download/galvnews-2022/galvnews-2022-08-10T08:00:26.474351-05:00.hyperlinks.json) |
+| [August 9 at 11:31 AM](https://archive.org/download/galvnews-2022/galvnews-2022-08-09T18:31:40.622450-05:00.hyperlinks.json) |
+| [August 9 at 12:50 AM](https://archive.org/download/galvnews-2022/galvnews-2022-08-09T07:49:52.975967-05:00.hyperlinks.json) |
+| [August 8 at 12:42 PM](https://archive.org/download/galvnews-2022/galvnews-2022-08-08T19:42:37.062731-05:00.hyperlinks.json) |
+| [August 7 at 11:28 PM](https://archive.org/download/galvnews-2022/galvnews-2022-08-08T06:28:01.217278-05:00.hyperlinks.json) |
+| [August 7 at 12:52 PM](https://archive.org/download/galvnews-2022/galvnews-2022-08-07T19:52:34.127825-05:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -421,16 +421,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 11 at 6:29 PM](https://archive.org/download/galvnews-2022/galvnews-2022-08-11T18:29:16.364486-05:00.accessibility.json) |
-| [August 10 at 8:00 AM](https://archive.org/download/galvnews-2022/galvnews-2022-08-10T08:00:26.474351-05:00.accessibility.json) |
-| [August 9 at 6:31 PM](https://archive.org/download/galvnews-2022/galvnews-2022-08-09T18:31:40.622450-05:00.accessibility.json) |
-| [August 7 at 7:52 PM](https://archive.org/download/galvnews-2022/galvnews-2022-08-07T19:52:34.127825-05:00.accessibility.json) |
-| [August 7 at 7:30 AM](https://archive.org/download/galvnews-2022/galvnews-2022-08-07T07:30:27.369175-05:00.accessibility.json) |
-| [August 6 at 7:33 PM](https://archive.org/download/galvnews-2022/galvnews-2022-08-06T19:33:47.186166-05:00.accessibility.json) |
-| [August 6 at 7:23 AM](https://archive.org/download/galvnews-2022/galvnews-2022-08-06T07:23:51.728675-05:00.accessibility.json) |
-| [August 5 at 6:36 PM](https://archive.org/download/galvnews-2022/galvnews-2022-08-05T18:36:32.460343-05:00.accessibility.json) |
-| [August 3 at 6:25 PM](https://archive.org/download/galvnews-2022/galvnews-2022-08-03T18:25:51.458446-05:00.accessibility.json) |
-| [August 2 at 6:25 PM](https://archive.org/download/galvnews-2022/galvnews-2022-08-02T18:25:44.119973-05:00.accessibility.json) |
+| [August 11 at 11:29 AM](https://archive.org/download/galvnews-2022/galvnews-2022-08-11T18:29:16.364486-05:00.accessibility.json) |
+| [August 10 at 1:00 AM](https://archive.org/download/galvnews-2022/galvnews-2022-08-10T08:00:26.474351-05:00.accessibility.json) |
+| [August 9 at 11:31 AM](https://archive.org/download/galvnews-2022/galvnews-2022-08-09T18:31:40.622450-05:00.accessibility.json) |
+| [August 7 at 12:52 PM](https://archive.org/download/galvnews-2022/galvnews-2022-08-07T19:52:34.127825-05:00.accessibility.json) |
+| [August 7 at 12:30 AM](https://archive.org/download/galvnews-2022/galvnews-2022-08-07T07:30:27.369175-05:00.accessibility.json) |
+| [August 6 at 12:33 PM](https://archive.org/download/galvnews-2022/galvnews-2022-08-06T19:33:47.186166-05:00.accessibility.json) |
+| [August 6 at 12:23 AM](https://archive.org/download/galvnews-2022/galvnews-2022-08-06T07:23:51.728675-05:00.accessibility.json) |
+| [August 5 at 11:36 AM](https://archive.org/download/galvnews-2022/galvnews-2022-08-05T18:36:32.460343-05:00.accessibility.json) |
+| [August 3 at 11:25 AM](https://archive.org/download/galvnews-2022/galvnews-2022-08-03T18:25:51.458446-05:00.accessibility.json) |
+| [August 2 at 11:25 AM](https://archive.org/download/galvnews-2022/galvnews-2022-08-02T18:25:44.119973-05:00.accessibility.json) |
 
 
 
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 12 at 7:35 PM](https://archive.org/download/galvnews-2022/galvnews-2022-08-12T19:35:47.755512-05:00.lighthouse.json) |
-| [August 12 at 6:45 AM](https://archive.org/download/galvnews-2022/galvnews-2022-08-12T06:45:45.930475-05:00.lighthouse.json) |
-| [August 11 at 6:29 PM](https://archive.org/download/galvnews-2022/galvnews-2022-08-11T18:29:16.364486-05:00.lighthouse.json) |
-| [August 11 at 6:44 AM](https://archive.org/download/galvnews-2022/galvnews-2022-08-11T06:44:15.811529-05:00.lighthouse.json) |
-| [August 10 at 7:45 PM](https://archive.org/download/galvnews-2022/galvnews-2022-08-10T19:45:37.097788-05:00.lighthouse.json) |
-| [August 10 at 8:00 AM](https://archive.org/download/galvnews-2022/galvnews-2022-08-10T08:00:26.474351-05:00.lighthouse.json) |
-| [August 9 at 6:31 PM](https://archive.org/download/galvnews-2022/galvnews-2022-08-09T18:31:40.622450-05:00.lighthouse.json) |
-| [August 9 at 7:50 AM](https://archive.org/download/galvnews-2022/galvnews-2022-08-09T07:49:52.975967-05:00.lighthouse.json) |
-| [August 8 at 7:42 PM](https://archive.org/download/galvnews-2022/galvnews-2022-08-08T19:42:37.062731-05:00.lighthouse.json) |
-| [August 8 at 6:28 AM](https://archive.org/download/galvnews-2022/galvnews-2022-08-08T06:28:01.217278-05:00.lighthouse.json) |
+| [August 12 at 12:35 PM](https://archive.org/download/galvnews-2022/galvnews-2022-08-12T19:35:47.755512-05:00.lighthouse.json) |
+| [August 11 at 11:45 PM](https://archive.org/download/galvnews-2022/galvnews-2022-08-12T06:45:45.930475-05:00.lighthouse.json) |
+| [August 11 at 11:29 AM](https://archive.org/download/galvnews-2022/galvnews-2022-08-11T18:29:16.364486-05:00.lighthouse.json) |
+| [August 10 at 11:44 PM](https://archive.org/download/galvnews-2022/galvnews-2022-08-11T06:44:15.811529-05:00.lighthouse.json) |
+| [August 10 at 12:45 PM](https://archive.org/download/galvnews-2022/galvnews-2022-08-10T19:45:37.097788-05:00.lighthouse.json) |
+| [August 10 at 1:00 AM](https://archive.org/download/galvnews-2022/galvnews-2022-08-10T08:00:26.474351-05:00.lighthouse.json) |
+| [August 9 at 11:31 AM](https://archive.org/download/galvnews-2022/galvnews-2022-08-09T18:31:40.622450-05:00.lighthouse.json) |
+| [August 9 at 12:50 AM](https://archive.org/download/galvnews-2022/galvnews-2022-08-09T07:49:52.975967-05:00.lighthouse.json) |
+| [August 8 at 12:42 PM](https://archive.org/download/galvnews-2022/galvnews-2022-08-08T19:42:37.062731-05:00.lighthouse.json) |
+| [August 7 at 11:28 PM](https://archive.org/download/galvnews-2022/galvnews-2022-08-08T06:28:01.217278-05:00.lighthouse.json) |
 
 
 

@@ -116,109 +116,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-08-12T12:20:14.338144-04:00.jpg">
   <img src="https://archive.org/download/bonappetit-2022/bonappetit-2022-08-12T12:20:14.338144-04:00.jpg"
-     alt="Bon Appetit at 2022-08-12 12:20:16-04:00 local time"
+     alt="Bon Appetit at 2022-08-12 05:20:16-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-08-12T12:20:14.338144-04:00.jpg">August 12 at 12:20 PM</a></p>
+ <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-08-12T12:20:14.338144-04:00.jpg">August 12 at 5:20 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-08-12T05:30:30.805930-04:00.jpg">
   <img src="https://archive.org/download/bonappetit-2022/bonappetit-2022-08-12T05:30:30.805930-04:00.jpg"
-     alt="Bon Appetit at 2022-08-12 05:30:32-04:00 local time"
+     alt="Bon Appetit at 2022-08-11 22:30:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-08-12T05:30:30.805930-04:00.jpg">August 12 at 5:30 AM</a></p>
+ <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-08-12T05:30:30.805930-04:00.jpg">August 11 at 10:30 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-08-11T13:02:13.571739-04:00.jpg">
   <img src="https://archive.org/download/bonappetit-2022/bonappetit-2022-08-11T13:02:13.571739-04:00.jpg"
-     alt="Bon Appetit at 2022-08-11 13:02:21-04:00 local time"
+     alt="Bon Appetit at 2022-08-11 06:02:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-08-11T13:02:13.571739-04:00.jpg">August 11 at 1:02 PM</a></p>
+ <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-08-11T13:02:13.571739-04:00.jpg">August 11 at 6:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-08-10T22:22:36.899181-04:00.jpg">
   <img src="https://archive.org/download/bonappetit-2022/bonappetit-2022-08-10T22:22:36.899181-04:00.jpg"
-     alt="Bon Appetit at 2022-08-10 22:22:38-04:00 local time"
+     alt="Bon Appetit at 2022-08-10 15:22:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-08-10T22:22:36.899181-04:00.jpg">August 10 at 10:22 PM</a></p>
+ <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-08-10T22:22:36.899181-04:00.jpg">August 10 at 3:22 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-08-10T13:44:11.229722-04:00.jpg">
   <img src="https://archive.org/download/bonappetit-2022/bonappetit-2022-08-10T13:44:11.229722-04:00.jpg"
-     alt="Bon Appetit at 2022-08-10 13:44:13-04:00 local time"
+     alt="Bon Appetit at 2022-08-10 06:44:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-08-10T13:44:11.229722-04:00.jpg">August 10 at 1:44 PM</a></p>
+ <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-08-10T13:44:11.229722-04:00.jpg">August 10 at 6:44 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-08-09T22:32:20.473191-04:00.jpg">
   <img src="https://archive.org/download/bonappetit-2022/bonappetit-2022-08-09T22:32:20.473191-04:00.jpg"
-     alt="Bon Appetit at 2022-08-09 22:32:22-04:00 local time"
+     alt="Bon Appetit at 2022-08-09 15:32:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-08-09T22:32:20.473191-04:00.jpg">August 9 at 10:32 PM</a></p>
+ <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-08-09T22:32:20.473191-04:00.jpg">August 9 at 3:32 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-08-09T10:33:41.920398-04:00.jpg">
   <img src="https://archive.org/download/bonappetit-2022/bonappetit-2022-08-09T10:33:41.920398-04:00.jpg"
-     alt="Bon Appetit at 2022-08-09 10:33:44-04:00 local time"
+     alt="Bon Appetit at 2022-08-09 03:33:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-08-09T10:33:41.920398-04:00.jpg">August 9 at 10:33 AM</a></p>
+ <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-08-09T10:33:41.920398-04:00.jpg">August 9 at 3:33 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-08-08T22:20:48.630156-04:00.jpg">
   <img src="https://archive.org/download/bonappetit-2022/bonappetit-2022-08-08T22:20:48.630156-04:00.jpg"
-     alt="Bon Appetit at 2022-08-08 22:20:50-04:00 local time"
+     alt="Bon Appetit at 2022-08-08 15:20:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-08-08T22:20:48.630156-04:00.jpg">August 8 at 10:20 PM</a></p>
+ <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-08-08T22:20:48.630156-04:00.jpg">August 8 at 3:20 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-08-08T10:17:07.730292-04:00.jpg">
   <img src="https://archive.org/download/bonappetit-2022/bonappetit-2022-08-08T10:17:07.730292-04:00.jpg"
-     alt="Bon Appetit at 2022-08-08 10:17:08-04:00 local time"
+     alt="Bon Appetit at 2022-08-08 03:17:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-08-08T10:17:07.730292-04:00.jpg">August 8 at 10:17 AM</a></p>
+ <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-08-08T10:17:07.730292-04:00.jpg">August 8 at 3:17 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-08-07T22:29:50.225818-04:00.jpg">
   <img src="https://archive.org/download/bonappetit-2022/bonappetit-2022-08-07T22:29:50.225818-04:00.jpg"
-     alt="Bon Appetit at 2022-08-07 22:29:51-04:00 local time"
+     alt="Bon Appetit at 2022-08-07 15:29:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-08-07T22:29:50.225818-04:00.jpg">August 7 at 10:29 PM</a></p>
+ <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-08-07T22:29:50.225818-04:00.jpg">August 7 at 3:29 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-08-07T10:02:44.647657-04:00.jpg">
   <img src="https://archive.org/download/bonappetit-2022/bonappetit-2022-08-07T10:02:44.647657-04:00.jpg"
-     alt="Bon Appetit at 2022-08-07 10:02:49-04:00 local time"
+     alt="Bon Appetit at 2022-08-07 03:02:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-08-07T10:02:44.647657-04:00.jpg">August 7 at 10:02 AM</a></p>
+ <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-08-07T10:02:44.647657-04:00.jpg">August 7 at 3:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-08-06T23:06:27.409548-04:00.jpg">
   <img src="https://archive.org/download/bonappetit-2022/bonappetit-2022-08-06T23:06:27.409548-04:00.jpg"
-     alt="Bon Appetit at 2022-08-06 23:06:31-04:00 local time"
+     alt="Bon Appetit at 2022-08-06 16:06:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-08-06T23:06:27.409548-04:00.jpg">August 6 at 11:06 PM</a></p>
+ <p><a href="https://archive.org/download/bonappetit-2022/bonappetit-2022-08-06T23:06:27.409548-04:00.jpg">August 6 at 4:06 PM</a></p>
 </div>
 
 </div>
@@ -316,16 +316,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 12 at 12:20 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-12T12:20:14.338144-04:00.hyperlinks.json) |
-| [August 12 at 5:30 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-12T05:30:30.805930-04:00.hyperlinks.json) |
-| [August 11 at 10:03 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-11T22:02:58.743659-04:00.hyperlinks.json) |
-| [August 11 at 1:02 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-11T13:02:13.571739-04:00.hyperlinks.json) |
-| [August 10 at 10:22 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-10T22:22:36.899181-04:00.hyperlinks.json) |
-| [August 10 at 1:44 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-10T13:44:11.229722-04:00.hyperlinks.json) |
-| [August 9 at 10:32 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-09T22:32:20.473191-04:00.hyperlinks.json) |
-| [August 9 at 10:33 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-09T10:33:41.920398-04:00.hyperlinks.json) |
-| [August 8 at 10:20 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-08T22:20:48.630156-04:00.hyperlinks.json) |
-| [August 8 at 10:17 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-08T10:17:07.730292-04:00.hyperlinks.json) |
+| [August 12 at 5:20 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-12T12:20:14.338144-04:00.hyperlinks.json) |
+| [August 11 at 10:30 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-12T05:30:30.805930-04:00.hyperlinks.json) |
+| [August 11 at 3:03 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-11T22:02:58.743659-04:00.hyperlinks.json) |
+| [August 11 at 6:02 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-11T13:02:13.571739-04:00.hyperlinks.json) |
+| [August 10 at 3:22 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-10T22:22:36.899181-04:00.hyperlinks.json) |
+| [August 10 at 6:44 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-10T13:44:11.229722-04:00.hyperlinks.json) |
+| [August 9 at 3:32 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-09T22:32:20.473191-04:00.hyperlinks.json) |
+| [August 9 at 3:33 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-09T10:33:41.920398-04:00.hyperlinks.json) |
+| [August 8 at 3:20 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-08T22:20:48.630156-04:00.hyperlinks.json) |
+| [August 8 at 3:17 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-08T10:17:07.730292-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -421,16 +421,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 12 at 12:20 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-12T12:20:14.338144-04:00.accessibility.json) |
-| [August 12 at 5:30 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-12T05:30:30.805930-04:00.accessibility.json) |
-| [August 11 at 10:03 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-11T22:02:58.743659-04:00.accessibility.json) |
-| [August 11 at 1:02 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-11T13:02:13.571739-04:00.accessibility.json) |
-| [August 10 at 10:22 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-10T22:22:36.899181-04:00.accessibility.json) |
-| [August 10 at 1:44 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-10T13:44:11.229722-04:00.accessibility.json) |
-| [August 9 at 10:32 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-09T22:32:20.473191-04:00.accessibility.json) |
-| [August 9 at 10:33 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-09T10:33:41.920398-04:00.accessibility.json) |
-| [August 8 at 10:20 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-08T22:20:48.630156-04:00.accessibility.json) |
-| [August 8 at 10:17 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-08T10:17:07.730292-04:00.accessibility.json) |
+| [August 12 at 5:20 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-12T12:20:14.338144-04:00.accessibility.json) |
+| [August 11 at 10:30 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-12T05:30:30.805930-04:00.accessibility.json) |
+| [August 11 at 3:03 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-11T22:02:58.743659-04:00.accessibility.json) |
+| [August 11 at 6:02 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-11T13:02:13.571739-04:00.accessibility.json) |
+| [August 10 at 3:22 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-10T22:22:36.899181-04:00.accessibility.json) |
+| [August 10 at 6:44 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-10T13:44:11.229722-04:00.accessibility.json) |
+| [August 9 at 3:32 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-09T22:32:20.473191-04:00.accessibility.json) |
+| [August 9 at 3:33 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-09T10:33:41.920398-04:00.accessibility.json) |
+| [August 8 at 3:20 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-08T22:20:48.630156-04:00.accessibility.json) |
+| [August 8 at 3:17 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-08T10:17:07.730292-04:00.accessibility.json) |
 
 
 
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 12 at 12:20 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-12T12:20:14.338144-04:00.lighthouse.json) |
-| [August 12 at 5:30 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-12T05:30:30.805930-04:00.lighthouse.json) |
-| [August 11 at 10:03 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-11T22:02:58.743659-04:00.lighthouse.json) |
-| [August 11 at 1:02 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-11T13:02:13.571739-04:00.lighthouse.json) |
-| [August 10 at 10:22 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-10T22:22:36.899181-04:00.lighthouse.json) |
-| [August 10 at 1:44 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-10T13:44:11.229722-04:00.lighthouse.json) |
-| [August 9 at 10:32 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-09T22:32:20.473191-04:00.lighthouse.json) |
-| [August 9 at 10:33 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-09T10:33:41.920398-04:00.lighthouse.json) |
-| [August 8 at 10:20 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-08T22:20:48.630156-04:00.lighthouse.json) |
-| [August 8 at 10:17 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-08T10:17:07.730292-04:00.lighthouse.json) |
+| [August 12 at 5:20 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-12T12:20:14.338144-04:00.lighthouse.json) |
+| [August 11 at 10:30 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-12T05:30:30.805930-04:00.lighthouse.json) |
+| [August 11 at 3:03 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-11T22:02:58.743659-04:00.lighthouse.json) |
+| [August 11 at 6:02 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-11T13:02:13.571739-04:00.lighthouse.json) |
+| [August 10 at 3:22 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-10T22:22:36.899181-04:00.lighthouse.json) |
+| [August 10 at 6:44 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-10T13:44:11.229722-04:00.lighthouse.json) |
+| [August 9 at 3:32 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-09T22:32:20.473191-04:00.lighthouse.json) |
+| [August 9 at 3:33 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-09T10:33:41.920398-04:00.lighthouse.json) |
+| [August 8 at 3:20 PM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-08T22:20:48.630156-04:00.lighthouse.json) |
+| [August 8 at 3:17 AM](https://archive.org/download/bonappetit-2022/bonappetit-2022-08-08T10:17:07.730292-04:00.lighthouse.json) |
 
 
 

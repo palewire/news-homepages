@@ -116,109 +116,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-12T18:44:03.660482+01:00.jpg">
   <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-12T18:44:03.660482+01:00.jpg"
-     alt="Daily Echo at 2022-08-12 18:44:11+01:00 local time"
+     alt="Daily Echo at 2022-08-12 11:44:11+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-12T18:44:03.660482+01:00.jpg">August 12 at 6:44 PM</a></p>
+ <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-12T18:44:03.660482+01:00.jpg">August 12 at 11:44 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-12T10:53:56.561210+01:00.jpg">
   <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-12T10:53:56.561210+01:00.jpg"
-     alt="Daily Echo at 2022-08-12 10:53:58+01:00 local time"
+     alt="Daily Echo at 2022-08-12 03:53:58+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-12T10:53:56.561210+01:00.jpg">August 12 at 10:53 AM</a></p>
+ <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-12T10:53:56.561210+01:00.jpg">August 12 at 3:53 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-11T19:35:03.779059+01:00.jpg">
   <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-11T19:35:03.779059+01:00.jpg"
-     alt="Daily Echo at 2022-08-11 19:35:05+01:00 local time"
+     alt="Daily Echo at 2022-08-11 12:35:05+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-11T19:35:03.779059+01:00.jpg">August 11 at 7:35 PM</a></p>
+ <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-11T19:35:03.779059+01:00.jpg">August 11 at 12:35 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-11T04:47:17.531060+01:00.jpg">
   <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-11T04:47:17.531060+01:00.jpg"
-     alt="Daily Echo at 2022-08-11 04:47:18+01:00 local time"
+     alt="Daily Echo at 2022-08-10 21:47:18+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-11T04:47:17.531060+01:00.jpg">August 11 at 4:47 AM</a></p>
+ <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-11T04:47:17.531060+01:00.jpg">August 10 at 9:47 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-10T18:57:56.054938+01:00.jpg">
   <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-10T18:57:56.054938+01:00.jpg"
-     alt="Daily Echo at 2022-08-10 18:57:59+01:00 local time"
+     alt="Daily Echo at 2022-08-10 11:57:59+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-10T18:57:56.054938+01:00.jpg">August 10 at 6:57 PM</a></p>
+ <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-10T18:57:56.054938+01:00.jpg">August 10 at 11:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-10T04:54:03.254739+01:00.jpg">
   <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-10T04:54:03.254739+01:00.jpg"
-     alt="Daily Echo at 2022-08-10 04:54:05+01:00 local time"
+     alt="Daily Echo at 2022-08-09 21:54:05+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-10T04:54:03.254739+01:00.jpg">August 10 at 4:54 AM</a></p>
+ <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-10T04:54:03.254739+01:00.jpg">August 9 at 9:54 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-09T18:18:44.198192+01:00.jpg">
   <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-09T18:18:44.198192+01:00.jpg"
-     alt="Daily Echo at 2022-08-09 18:18:46+01:00 local time"
+     alt="Daily Echo at 2022-08-09 11:18:46+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-09T18:18:44.198192+01:00.jpg">August 9 at 6:18 PM</a></p>
+ <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-09T18:18:44.198192+01:00.jpg">August 9 at 11:18 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-09T04:47:00.099234+01:00.jpg">
   <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-09T04:47:00.099234+01:00.jpg"
-     alt="Daily Echo at 2022-08-09 04:47:04+01:00 local time"
+     alt="Daily Echo at 2022-08-08 21:47:04+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-09T04:47:00.099234+01:00.jpg">August 9 at 4:47 AM</a></p>
+ <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-09T04:47:00.099234+01:00.jpg">August 8 at 9:47 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-08T17:55:42.935597+01:00.jpg">
   <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-08T17:55:42.935597+01:00.jpg"
-     alt="Daily Echo at 2022-08-08 17:55:45+01:00 local time"
+     alt="Daily Echo at 2022-08-08 10:55:45+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-08T17:55:42.935597+01:00.jpg">August 8 at 5:55 PM</a></p>
+ <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-08T17:55:42.935597+01:00.jpg">August 8 at 10:55 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-08T06:04:27.222328+01:00.jpg">
   <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-08T06:04:27.222328+01:00.jpg"
-     alt="Daily Echo at 2022-08-08 06:04:28+01:00 local time"
+     alt="Daily Echo at 2022-08-07 23:04:28+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-08T06:04:27.222328+01:00.jpg">August 8 at 6:04 AM</a></p>
+ <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-08T06:04:27.222328+01:00.jpg">August 7 at 11:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-07T17:43:43.916377+01:00.jpg">
   <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-07T17:43:43.916377+01:00.jpg"
-     alt="Daily Echo at 2022-08-07 17:43:47+01:00 local time"
+     alt="Daily Echo at 2022-08-07 10:43:47+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-07T17:43:43.916377+01:00.jpg">August 7 at 5:43 PM</a></p>
+ <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-07T17:43:43.916377+01:00.jpg">August 7 at 10:43 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-07T04:18:19.298205+01:00.jpg">
   <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-07T04:18:19.298205+01:00.jpg"
-     alt="Daily Echo at 2022-08-07 04:18:21+01:00 local time"
+     alt="Daily Echo at 2022-08-06 21:18:21+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-07T04:18:19.298205+01:00.jpg">August 7 at 4:18 AM</a></p>
+ <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-08-07T04:18:19.298205+01:00.jpg">August 6 at 9:18 PM</a></p>
 </div>
 
 </div>
@@ -316,16 +316,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 12 at 6:44 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-12T18:44:03.660482+01:00.hyperlinks.json) |
-| [August 12 at 10:54 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-12T10:53:56.561210+01:00.hyperlinks.json) |
-| [August 11 at 7:35 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-11T19:35:03.779059+01:00.hyperlinks.json) |
-| [August 11 at 4:47 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-11T04:47:17.531060+01:00.hyperlinks.json) |
-| [August 10 at 6:58 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-10T18:57:56.054938+01:00.hyperlinks.json) |
-| [August 10 at 4:54 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-10T04:54:03.254739+01:00.hyperlinks.json) |
-| [August 9 at 6:18 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-09T18:18:44.198192+01:00.hyperlinks.json) |
-| [August 9 at 4:47 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-09T04:47:00.099234+01:00.hyperlinks.json) |
-| [August 8 at 5:55 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-08T17:55:42.935597+01:00.hyperlinks.json) |
-| [August 8 at 6:04 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-08T06:04:27.222328+01:00.hyperlinks.json) |
+| [August 12 at 11:44 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-12T18:44:03.660482+01:00.hyperlinks.json) |
+| [August 12 at 3:54 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-12T10:53:56.561210+01:00.hyperlinks.json) |
+| [August 11 at 12:35 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-11T19:35:03.779059+01:00.hyperlinks.json) |
+| [August 10 at 9:47 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-11T04:47:17.531060+01:00.hyperlinks.json) |
+| [August 10 at 11:58 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-10T18:57:56.054938+01:00.hyperlinks.json) |
+| [August 9 at 9:54 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-10T04:54:03.254739+01:00.hyperlinks.json) |
+| [August 9 at 11:18 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-09T18:18:44.198192+01:00.hyperlinks.json) |
+| [August 8 at 9:47 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-09T04:47:00.099234+01:00.hyperlinks.json) |
+| [August 8 at 10:55 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-08T17:55:42.935597+01:00.hyperlinks.json) |
+| [August 7 at 11:04 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-08T06:04:27.222328+01:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -421,16 +421,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 12 at 6:44 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-12T18:44:03.660482+01:00.accessibility.json) |
-| [August 12 at 10:53 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-12T10:53:56.561210+01:00.accessibility.json) |
-| [August 11 at 7:35 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-11T19:35:03.779059+01:00.accessibility.json) |
-| [August 11 at 4:47 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-11T04:47:17.531060+01:00.accessibility.json) |
-| [August 10 at 6:58 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-10T18:57:56.054938+01:00.accessibility.json) |
-| [August 10 at 4:54 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-10T04:54:03.254739+01:00.accessibility.json) |
-| [August 9 at 6:18 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-09T18:18:44.198192+01:00.accessibility.json) |
-| [August 9 at 4:47 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-09T04:47:00.099234+01:00.accessibility.json) |
-| [August 8 at 6:04 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-08T06:04:27.222328+01:00.accessibility.json) |
-| [August 7 at 5:43 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-07T17:43:43.916377+01:00.accessibility.json) |
+| [August 12 at 11:44 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-12T18:44:03.660482+01:00.accessibility.json) |
+| [August 12 at 3:53 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-12T10:53:56.561210+01:00.accessibility.json) |
+| [August 11 at 12:35 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-11T19:35:03.779059+01:00.accessibility.json) |
+| [August 10 at 9:47 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-11T04:47:17.531060+01:00.accessibility.json) |
+| [August 10 at 11:58 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-10T18:57:56.054938+01:00.accessibility.json) |
+| [August 9 at 9:54 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-10T04:54:03.254739+01:00.accessibility.json) |
+| [August 9 at 11:18 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-09T18:18:44.198192+01:00.accessibility.json) |
+| [August 8 at 9:47 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-09T04:47:00.099234+01:00.accessibility.json) |
+| [August 7 at 11:04 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-08T06:04:27.222328+01:00.accessibility.json) |
+| [August 7 at 10:43 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-07T17:43:43.916377+01:00.accessibility.json) |
 
 
 
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 12 at 6:44 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-12T18:44:03.660482+01:00.lighthouse.json) |
-| [August 12 at 10:54 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-12T10:53:56.561210+01:00.lighthouse.json) |
-| [August 11 at 7:35 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-11T19:35:03.779059+01:00.lighthouse.json) |
-| [August 11 at 4:47 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-11T04:47:17.531060+01:00.lighthouse.json) |
-| [August 10 at 6:58 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-10T18:57:56.054938+01:00.lighthouse.json) |
-| [August 10 at 4:54 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-10T04:54:03.254739+01:00.lighthouse.json) |
-| [August 9 at 6:18 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-09T18:18:44.198192+01:00.lighthouse.json) |
-| [August 9 at 4:47 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-09T04:47:00.099234+01:00.lighthouse.json) |
-| [August 8 at 5:55 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-08T17:55:42.935597+01:00.lighthouse.json) |
-| [August 8 at 6:04 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-08T06:04:27.222328+01:00.lighthouse.json) |
+| [August 12 at 11:44 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-12T18:44:03.660482+01:00.lighthouse.json) |
+| [August 12 at 3:54 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-12T10:53:56.561210+01:00.lighthouse.json) |
+| [August 11 at 12:35 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-11T19:35:03.779059+01:00.lighthouse.json) |
+| [August 10 at 9:47 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-11T04:47:17.531060+01:00.lighthouse.json) |
+| [August 10 at 11:58 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-10T18:57:56.054938+01:00.lighthouse.json) |
+| [August 9 at 9:54 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-10T04:54:03.254739+01:00.lighthouse.json) |
+| [August 9 at 11:18 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-09T18:18:44.198192+01:00.lighthouse.json) |
+| [August 8 at 9:47 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-09T04:47:00.099234+01:00.lighthouse.json) |
+| [August 8 at 10:55 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-08T17:55:42.935597+01:00.lighthouse.json) |
+| [August 7 at 11:04 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-08-08T06:04:27.222328+01:00.lighthouse.json) |
 
 
 

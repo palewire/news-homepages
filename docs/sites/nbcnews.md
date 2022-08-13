@@ -116,109 +116,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-12T20:45:33.527794-04:00.jpg">
   <img src="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-12T20:45:33.527794-04:00.jpg"
-     alt="NBC News at 2022-08-12 20:45:35-04:00 local time"
+     alt="NBC News at 2022-08-12 13:45:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-12T20:45:33.527794-04:00.jpg">August 12 at 8:45 PM</a></p>
+ <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-12T20:45:33.527794-04:00.jpg">August 12 at 1:45 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-12T17:12:49.496293-04:00.jpg">
   <img src="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-12T17:12:49.496293-04:00.jpg"
-     alt="NBC News at 2022-08-12 17:12:51-04:00 local time"
+     alt="NBC News at 2022-08-12 10:12:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-12T17:12:49.496293-04:00.jpg">August 12 at 5:12 PM</a></p>
+ <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-12T17:12:49.496293-04:00.jpg">August 12 at 10:12 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-12T12:13:28.007366-04:00.jpg">
   <img src="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-12T12:13:28.007366-04:00.jpg"
-     alt="NBC News at 2022-08-12 12:13:31-04:00 local time"
+     alt="NBC News at 2022-08-12 05:13:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-12T12:13:28.007366-04:00.jpg">August 12 at 12:13 PM</a></p>
+ <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-12T12:13:28.007366-04:00.jpg">August 12 at 5:13 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-12T09:25:08.874623-04:00.jpg">
   <img src="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-12T09:25:08.874623-04:00.jpg"
-     alt="NBC News at 2022-08-12 09:25:37-04:00 local time"
+     alt="NBC News at 2022-08-12 02:25:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-12T09:25:08.874623-04:00.jpg">August 12 at 9:25 AM</a></p>
+ <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-12T09:25:08.874623-04:00.jpg">August 12 at 2:25 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-12T05:20:27.309340-04:00.jpg">
   <img src="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-12T05:20:27.309340-04:00.jpg"
-     alt="NBC News at 2022-08-12 05:20:55-04:00 local time"
+     alt="NBC News at 2022-08-11 22:20:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-12T05:20:27.309340-04:00.jpg">August 12 at 5:20 AM</a></p>
+ <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-12T05:20:27.309340-04:00.jpg">August 11 at 10:20 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-11T17:12:29.336543-04:00.jpg">
   <img src="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-11T17:12:29.336543-04:00.jpg"
-     alt="NBC News at 2022-08-11 17:12:31-04:00 local time"
+     alt="NBC News at 2022-08-11 10:12:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-11T17:12:29.336543-04:00.jpg">August 11 at 5:12 PM</a></p>
+ <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-11T17:12:29.336543-04:00.jpg">August 11 at 10:12 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-11T12:55:11.398034-04:00.jpg">
   <img src="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-11T12:55:11.398034-04:00.jpg"
-     alt="NBC News at 2022-08-11 12:55:13-04:00 local time"
+     alt="NBC News at 2022-08-11 05:55:13-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-11T12:55:11.398034-04:00.jpg">August 11 at 12:55 PM</a></p>
+ <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-11T12:55:11.398034-04:00.jpg">August 11 at 5:55 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-11T09:42:27.028865-04:00.jpg">
   <img src="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-11T09:42:27.028865-04:00.jpg"
-     alt="NBC News at 2022-08-11 09:42:38-04:00 local time"
+     alt="NBC News at 2022-08-11 02:42:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-11T09:42:27.028865-04:00.jpg">August 11 at 9:42 AM</a></p>
+ <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-11T09:42:27.028865-04:00.jpg">August 11 at 2:42 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T20:54:14.156338-04:00.jpg">
   <img src="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T20:54:14.156338-04:00.jpg"
-     alt="NBC News at 2022-08-10 20:54:27-04:00 local time"
+     alt="NBC News at 2022-08-10 13:54:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T20:54:14.156338-04:00.jpg">August 10 at 8:54 PM</a></p>
+ <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T20:54:14.156338-04:00.jpg">August 10 at 1:54 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T17:16:22.680720-04:00.jpg">
   <img src="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T17:16:22.680720-04:00.jpg"
-     alt="NBC News at 2022-08-10 17:16:34-04:00 local time"
+     alt="NBC News at 2022-08-10 10:16:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T17:16:22.680720-04:00.jpg">August 10 at 5:16 PM</a></p>
+ <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T17:16:22.680720-04:00.jpg">August 10 at 10:16 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T10:50:19.401162-04:00.jpg">
   <img src="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T10:50:19.401162-04:00.jpg"
-     alt="NBC News at 2022-08-10 10:50:21-04:00 local time"
+     alt="NBC News at 2022-08-10 03:50:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T10:50:19.401162-04:00.jpg">August 10 at 10:50 AM</a></p>
+ <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T10:50:19.401162-04:00.jpg">August 10 at 3:50 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T09:11:57.999017-04:00.jpg">
   <img src="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T09:11:57.999017-04:00.jpg"
-     alt="NBC News at 2022-08-10 09:12:26-04:00 local time"
+     alt="NBC News at 2022-08-10 02:12:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T09:11:57.999017-04:00.jpg">August 10 at 9:12 AM</a></p>
+ <p><a href="https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T09:11:57.999017-04:00.jpg">August 10 at 2:12 AM</a></p>
 </div>
 
 </div>
@@ -316,16 +316,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 12 at 8:45 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-12T20:45:33.527794-04:00.hyperlinks.json) |
-| [August 12 at 5:12 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-12T17:12:49.496293-04:00.hyperlinks.json) |
-| [August 12 at 12:13 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-12T12:13:28.007366-04:00.hyperlinks.json) |
-| [August 12 at 9:25 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-12T09:25:08.874623-04:00.hyperlinks.json) |
-| [August 12 at 5:20 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-12T05:20:27.309340-04:00.hyperlinks.json) |
-| [August 11 at 5:12 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-11T17:12:29.336543-04:00.hyperlinks.json) |
-| [August 11 at 12:55 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-11T12:55:11.398034-04:00.hyperlinks.json) |
-| [August 11 at 9:42 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-11T09:42:27.028865-04:00.hyperlinks.json) |
-| [August 10 at 8:54 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T20:54:14.156338-04:00.hyperlinks.json) |
-| [August 10 at 5:16 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T17:16:22.680720-04:00.hyperlinks.json) |
+| [August 12 at 1:45 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-12T20:45:33.527794-04:00.hyperlinks.json) |
+| [August 12 at 10:12 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-12T17:12:49.496293-04:00.hyperlinks.json) |
+| [August 12 at 5:13 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-12T12:13:28.007366-04:00.hyperlinks.json) |
+| [August 12 at 2:25 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-12T09:25:08.874623-04:00.hyperlinks.json) |
+| [August 11 at 10:20 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-12T05:20:27.309340-04:00.hyperlinks.json) |
+| [August 11 at 10:12 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-11T17:12:29.336543-04:00.hyperlinks.json) |
+| [August 11 at 5:55 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-11T12:55:11.398034-04:00.hyperlinks.json) |
+| [August 11 at 2:42 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-11T09:42:27.028865-04:00.hyperlinks.json) |
+| [August 10 at 1:54 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T20:54:14.156338-04:00.hyperlinks.json) |
+| [August 10 at 10:16 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T17:16:22.680720-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -421,16 +421,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 12 at 8:45 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-12T20:45:33.527794-04:00.accessibility.json) |
-| [August 12 at 5:12 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-12T17:12:49.496293-04:00.accessibility.json) |
-| [August 12 at 12:13 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-12T12:13:28.007366-04:00.accessibility.json) |
-| [August 12 at 9:25 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-12T09:25:08.874623-04:00.accessibility.json) |
-| [August 12 at 5:20 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-12T05:20:27.309340-04:00.accessibility.json) |
-| [August 11 at 5:12 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-11T17:12:29.336543-04:00.accessibility.json) |
-| [August 11 at 12:55 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-11T12:55:11.398034-04:00.accessibility.json) |
-| [August 11 at 9:42 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-11T09:42:27.028865-04:00.accessibility.json) |
-| [August 10 at 8:54 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T20:54:14.156338-04:00.accessibility.json) |
-| [August 10 at 5:16 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T17:16:22.680720-04:00.accessibility.json) |
+| [August 12 at 1:45 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-12T20:45:33.527794-04:00.accessibility.json) |
+| [August 12 at 10:12 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-12T17:12:49.496293-04:00.accessibility.json) |
+| [August 12 at 5:13 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-12T12:13:28.007366-04:00.accessibility.json) |
+| [August 12 at 2:25 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-12T09:25:08.874623-04:00.accessibility.json) |
+| [August 11 at 10:20 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-12T05:20:27.309340-04:00.accessibility.json) |
+| [August 11 at 10:12 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-11T17:12:29.336543-04:00.accessibility.json) |
+| [August 11 at 5:55 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-11T12:55:11.398034-04:00.accessibility.json) |
+| [August 11 at 2:42 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-11T09:42:27.028865-04:00.accessibility.json) |
+| [August 10 at 1:54 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T20:54:14.156338-04:00.accessibility.json) |
+| [August 10 at 10:16 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T17:16:22.680720-04:00.accessibility.json) |
 
 
 
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 12 at 8:45 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-12T20:45:33.527794-04:00.lighthouse.json) |
-| [August 12 at 5:12 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-12T17:12:49.496293-04:00.lighthouse.json) |
-| [August 12 at 12:13 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-12T12:13:28.007366-04:00.lighthouse.json) |
-| [August 12 at 9:25 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-12T09:25:08.874623-04:00.lighthouse.json) |
-| [August 12 at 5:21 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-12T05:20:27.309340-04:00.lighthouse.json) |
-| [August 11 at 5:12 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-11T17:12:29.336543-04:00.lighthouse.json) |
-| [August 11 at 12:55 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-11T12:55:11.398034-04:00.lighthouse.json) |
-| [August 11 at 9:42 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-11T09:42:27.028865-04:00.lighthouse.json) |
-| [August 10 at 8:54 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T20:54:14.156338-04:00.lighthouse.json) |
-| [August 10 at 5:16 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T17:16:22.680720-04:00.lighthouse.json) |
+| [August 12 at 1:45 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-12T20:45:33.527794-04:00.lighthouse.json) |
+| [August 12 at 10:12 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-12T17:12:49.496293-04:00.lighthouse.json) |
+| [August 12 at 5:13 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-12T12:13:28.007366-04:00.lighthouse.json) |
+| [August 12 at 2:25 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-12T09:25:08.874623-04:00.lighthouse.json) |
+| [August 11 at 10:21 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-12T05:20:27.309340-04:00.lighthouse.json) |
+| [August 11 at 10:12 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-11T17:12:29.336543-04:00.lighthouse.json) |
+| [August 11 at 5:55 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-11T12:55:11.398034-04:00.lighthouse.json) |
+| [August 11 at 2:42 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-11T09:42:27.028865-04:00.lighthouse.json) |
+| [August 10 at 1:54 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T20:54:14.156338-04:00.lighthouse.json) |
+| [August 10 at 10:16 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-08-10T17:16:22.680720-04:00.lighthouse.json) |
 
 
 

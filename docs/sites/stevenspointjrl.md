@@ -116,109 +116,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-12T11:22:34.880539-05:00.jpg">
   <img src="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-12T11:22:34.880539-05:00.jpg"
-     alt="Stevens Point Journal at 2022-08-12 11:22:39-05:00 local time"
+     alt="Stevens Point Journal at 2022-08-12 04:22:39-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-12T11:22:34.880539-05:00.jpg">August 12 at 11:22 AM</a></p>
+ <p><a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-12T11:22:34.880539-05:00.jpg">August 12 at 4:22 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-12T04:33:15.488188-05:00.jpg">
   <img src="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-12T04:33:15.488188-05:00.jpg"
-     alt="Stevens Point Journal at 2022-08-12 04:33:19-05:00 local time"
+     alt="Stevens Point Journal at 2022-08-11 21:33:19-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-12T04:33:15.488188-05:00.jpg">August 12 at 4:33 AM</a></p>
+ <p><a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-12T04:33:15.488188-05:00.jpg">August 11 at 9:33 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-10T21:25:32.435823-05:00.jpg">
   <img src="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-10T21:25:32.435823-05:00.jpg"
-     alt="Stevens Point Journal at 2022-08-10 21:25:34-05:00 local time"
+     alt="Stevens Point Journal at 2022-08-10 14:25:34-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-10T21:25:32.435823-05:00.jpg">August 10 at 9:25 PM</a></p>
+ <p><a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-10T21:25:32.435823-05:00.jpg">August 10 at 2:25 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-10T12:47:21.768672-05:00.jpg">
   <img src="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-10T12:47:21.768672-05:00.jpg"
-     alt="Stevens Point Journal at 2022-08-10 12:47:26-05:00 local time"
+     alt="Stevens Point Journal at 2022-08-10 05:47:26-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-10T12:47:21.768672-05:00.jpg">August 10 at 12:47 PM</a></p>
+ <p><a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-10T12:47:21.768672-05:00.jpg">August 10 at 5:47 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-09T21:36:09.560776-05:00.jpg">
   <img src="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-09T21:36:09.560776-05:00.jpg"
-     alt="Stevens Point Journal at 2022-08-09 21:36:10-05:00 local time"
+     alt="Stevens Point Journal at 2022-08-09 14:36:10-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-09T21:36:09.560776-05:00.jpg">August 9 at 9:36 PM</a></p>
+ <p><a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-09T21:36:09.560776-05:00.jpg">August 9 at 2:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-09T09:37:44.633325-05:00.jpg">
   <img src="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-09T09:37:44.633325-05:00.jpg"
-     alt="Stevens Point Journal at 2022-08-09 09:37:46-05:00 local time"
+     alt="Stevens Point Journal at 2022-08-09 02:37:46-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-09T09:37:44.633325-05:00.jpg">August 9 at 9:37 AM</a></p>
+ <p><a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-09T09:37:44.633325-05:00.jpg">August 9 at 2:37 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-08T21:23:18.329089-05:00.jpg">
   <img src="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-08T21:23:18.329089-05:00.jpg"
-     alt="Stevens Point Journal at 2022-08-08 21:23:20-05:00 local time"
+     alt="Stevens Point Journal at 2022-08-08 14:23:20-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-08T21:23:18.329089-05:00.jpg">August 8 at 9:23 PM</a></p>
+ <p><a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-08T21:23:18.329089-05:00.jpg">August 8 at 2:23 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-08T09:20:31.180231-05:00.jpg">
   <img src="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-08T09:20:31.180231-05:00.jpg"
-     alt="Stevens Point Journal at 2022-08-08 09:20:41-05:00 local time"
+     alt="Stevens Point Journal at 2022-08-08 02:20:41-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-08T09:20:31.180231-05:00.jpg">August 8 at 9:20 AM</a></p>
+ <p><a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-08T09:20:31.180231-05:00.jpg">August 8 at 2:20 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-07T21:33:07.311453-05:00.jpg">
   <img src="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-07T21:33:07.311453-05:00.jpg"
-     alt="Stevens Point Journal at 2022-08-07 21:33:18-05:00 local time"
+     alt="Stevens Point Journal at 2022-08-07 14:33:18-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-07T21:33:07.311453-05:00.jpg">August 7 at 9:33 PM</a></p>
+ <p><a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-07T21:33:07.311453-05:00.jpg">August 7 at 2:33 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-07T09:07:00.315879-05:00.jpg">
   <img src="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-07T09:07:00.315879-05:00.jpg"
-     alt="Stevens Point Journal at 2022-08-07 09:07:02-05:00 local time"
+     alt="Stevens Point Journal at 2022-08-07 02:07:02-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-07T09:07:00.315879-05:00.jpg">August 7 at 9:07 AM</a></p>
+ <p><a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-07T09:07:00.315879-05:00.jpg">August 7 at 2:07 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-06T22:09:35.579176-05:00.jpg">
   <img src="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-06T22:09:35.579176-05:00.jpg"
-     alt="Stevens Point Journal at 2022-08-06 22:09:37-05:00 local time"
+     alt="Stevens Point Journal at 2022-08-06 15:09:37-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-06T22:09:35.579176-05:00.jpg">August 6 at 10:09 PM</a></p>
+ <p><a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-06T22:09:35.579176-05:00.jpg">August 6 at 3:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-06T08:55:03.360200-05:00.jpg">
   <img src="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-06T08:55:03.360200-05:00.jpg"
-     alt="Stevens Point Journal at 2022-08-06 08:55:05-05:00 local time"
+     alt="Stevens Point Journal at 2022-08-06 01:55:05-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-06T08:55:03.360200-05:00.jpg">August 6 at 8:55 AM</a></p>
+ <p><a href="https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-06T08:55:03.360200-05:00.jpg">August 6 at 1:55 AM</a></p>
 </div>
 
 </div>
@@ -316,16 +316,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 12 at 11:22 AM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-12T11:22:34.880539-05:00.hyperlinks.json) |
-| [August 12 at 4:33 AM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-12T04:33:15.488188-05:00.hyperlinks.json) |
-| [August 11 at 9:04 PM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-11T21:04:51.143037-05:00.hyperlinks.json) |
-| [August 11 at 12:05 PM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-11T12:05:26.914226-05:00.hyperlinks.json) |
-| [August 10 at 9:25 PM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-10T21:25:32.435823-05:00.hyperlinks.json) |
-| [August 10 at 12:47 PM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-10T12:47:21.768672-05:00.hyperlinks.json) |
-| [August 9 at 9:37 AM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-09T09:37:44.633325-05:00.hyperlinks.json) |
-| [August 8 at 9:23 PM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-08T21:23:18.329089-05:00.hyperlinks.json) |
-| [August 8 at 9:20 AM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-08T09:20:31.180231-05:00.hyperlinks.json) |
-| [August 7 at 9:33 PM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-07T21:33:07.311453-05:00.hyperlinks.json) |
+| [August 12 at 4:22 AM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-12T11:22:34.880539-05:00.hyperlinks.json) |
+| [August 11 at 9:33 PM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-12T04:33:15.488188-05:00.hyperlinks.json) |
+| [August 11 at 2:04 PM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-11T21:04:51.143037-05:00.hyperlinks.json) |
+| [August 11 at 5:05 AM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-11T12:05:26.914226-05:00.hyperlinks.json) |
+| [August 10 at 2:25 PM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-10T21:25:32.435823-05:00.hyperlinks.json) |
+| [August 10 at 5:47 AM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-10T12:47:21.768672-05:00.hyperlinks.json) |
+| [August 9 at 2:37 AM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-09T09:37:44.633325-05:00.hyperlinks.json) |
+| [August 8 at 2:23 PM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-08T21:23:18.329089-05:00.hyperlinks.json) |
+| [August 8 at 2:20 AM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-08T09:20:31.180231-05:00.hyperlinks.json) |
+| [August 7 at 2:33 PM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-07T21:33:07.311453-05:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -421,16 +421,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 12 at 11:22 AM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-12T11:22:34.880539-05:00.accessibility.json) |
-| [August 12 at 4:33 AM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-12T04:33:15.488188-05:00.accessibility.json) |
-| [August 11 at 12:05 PM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-11T12:05:26.914226-05:00.accessibility.json) |
-| [August 10 at 9:25 PM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-10T21:25:32.435823-05:00.accessibility.json) |
-| [August 10 at 12:47 PM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-10T12:47:21.768672-05:00.accessibility.json) |
-| [August 9 at 9:36 PM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-09T21:36:09.560776-05:00.accessibility.json) |
-| [August 9 at 9:37 AM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-09T09:37:44.633325-05:00.accessibility.json) |
-| [August 8 at 9:23 PM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-08T21:23:18.329089-05:00.accessibility.json) |
-| [August 8 at 9:20 AM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-08T09:20:31.180231-05:00.accessibility.json) |
-| [August 7 at 9:33 PM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-07T21:33:07.311453-05:00.accessibility.json) |
+| [August 12 at 4:22 AM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-12T11:22:34.880539-05:00.accessibility.json) |
+| [August 11 at 9:33 PM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-12T04:33:15.488188-05:00.accessibility.json) |
+| [August 11 at 5:05 AM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-11T12:05:26.914226-05:00.accessibility.json) |
+| [August 10 at 2:25 PM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-10T21:25:32.435823-05:00.accessibility.json) |
+| [August 10 at 5:47 AM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-10T12:47:21.768672-05:00.accessibility.json) |
+| [August 9 at 2:36 PM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-09T21:36:09.560776-05:00.accessibility.json) |
+| [August 9 at 2:37 AM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-09T09:37:44.633325-05:00.accessibility.json) |
+| [August 8 at 2:23 PM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-08T21:23:18.329089-05:00.accessibility.json) |
+| [August 8 at 2:20 AM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-08T09:20:31.180231-05:00.accessibility.json) |
+| [August 7 at 2:33 PM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-07T21:33:07.311453-05:00.accessibility.json) |
 
 
 
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 12 at 11:22 AM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-12T11:22:34.880539-05:00.lighthouse.json) |
-| [August 12 at 4:33 AM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-12T04:33:15.488188-05:00.lighthouse.json) |
-| [August 11 at 9:04 PM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-11T21:04:51.143037-05:00.lighthouse.json) |
-| [August 11 at 12:05 PM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-11T12:05:26.914226-05:00.lighthouse.json) |
-| [August 10 at 9:25 PM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-10T21:25:32.435823-05:00.lighthouse.json) |
-| [August 10 at 12:47 PM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-10T12:47:21.768672-05:00.lighthouse.json) |
-| [August 9 at 9:36 PM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-09T21:36:09.560776-05:00.lighthouse.json) |
-| [August 9 at 9:37 AM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-09T09:37:44.633325-05:00.lighthouse.json) |
-| [August 8 at 9:23 PM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-08T21:23:18.329089-05:00.lighthouse.json) |
-| [August 8 at 9:20 AM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-08T09:20:31.180231-05:00.lighthouse.json) |
+| [August 12 at 4:22 AM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-12T11:22:34.880539-05:00.lighthouse.json) |
+| [August 11 at 9:33 PM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-12T04:33:15.488188-05:00.lighthouse.json) |
+| [August 11 at 2:04 PM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-11T21:04:51.143037-05:00.lighthouse.json) |
+| [August 11 at 5:05 AM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-11T12:05:26.914226-05:00.lighthouse.json) |
+| [August 10 at 2:25 PM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-10T21:25:32.435823-05:00.lighthouse.json) |
+| [August 10 at 5:47 AM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-10T12:47:21.768672-05:00.lighthouse.json) |
+| [August 9 at 2:36 PM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-09T21:36:09.560776-05:00.lighthouse.json) |
+| [August 9 at 2:37 AM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-09T09:37:44.633325-05:00.lighthouse.json) |
+| [August 8 at 2:23 PM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-08T21:23:18.329089-05:00.lighthouse.json) |
+| [August 8 at 2:20 AM](https://archive.org/download/stevenspointjrl-2022/stevenspointjrl-2022-08-08T09:20:31.180231-05:00.lighthouse.json) |
 
 
 

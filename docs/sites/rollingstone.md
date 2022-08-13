@@ -116,109 +116,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-12T20:51:00.169090-04:00.jpg">
   <img src="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-12T20:51:00.169090-04:00.jpg"
-     alt="Rolling Stone at 2022-08-12 20:51:03-04:00 local time"
+     alt="Rolling Stone at 2022-08-12 13:51:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-12T20:51:00.169090-04:00.jpg">August 12 at 8:51 PM</a></p>
+ <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-12T20:51:00.169090-04:00.jpg">August 12 at 1:51 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-12T09:30:44.817129-04:00.jpg">
   <img src="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-12T09:30:44.817129-04:00.jpg"
-     alt="Rolling Stone at 2022-08-12 09:30:48-04:00 local time"
+     alt="Rolling Stone at 2022-08-12 02:30:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-12T09:30:44.817129-04:00.jpg">August 12 at 9:30 AM</a></p>
+ <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-12T09:30:44.817129-04:00.jpg">August 12 at 2:30 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-12T05:25:31.601431-04:00.jpg">
   <img src="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-12T05:25:31.601431-04:00.jpg"
-     alt="Rolling Stone at 2022-08-12 05:25:36-04:00 local time"
+     alt="Rolling Stone at 2022-08-11 22:25:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-12T05:25:31.601431-04:00.jpg">August 12 at 5:25 AM</a></p>
+ <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-12T05:25:31.601431-04:00.jpg">August 11 at 10:25 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-11T09:48:47.856427-04:00.jpg">
   <img src="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-11T09:48:47.856427-04:00.jpg"
-     alt="Rolling Stone at 2022-08-11 09:48:49-04:00 local time"
+     alt="Rolling Stone at 2022-08-11 02:48:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-11T09:48:47.856427-04:00.jpg">August 11 at 9:48 AM</a></p>
+ <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-11T09:48:47.856427-04:00.jpg">August 11 at 2:48 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-10T20:58:56.258009-04:00.jpg">
   <img src="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-10T20:58:56.258009-04:00.jpg"
-     alt="Rolling Stone at 2022-08-10 20:58:59-04:00 local time"
+     alt="Rolling Stone at 2022-08-10 13:58:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-10T20:58:56.258009-04:00.jpg">August 10 at 8:58 PM</a></p>
+ <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-10T20:58:56.258009-04:00.jpg">August 10 at 1:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-10T09:17:28.685278-04:00.jpg">
   <img src="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-10T09:17:28.685278-04:00.jpg"
-     alt="Rolling Stone at 2022-08-10 09:17:38-04:00 local time"
+     alt="Rolling Stone at 2022-08-10 02:17:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-10T09:17:28.685278-04:00.jpg">August 10 at 9:17 AM</a></p>
+ <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-10T09:17:28.685278-04:00.jpg">August 10 at 2:17 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-09T21:08:06.920455-04:00.jpg">
   <img src="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-09T21:08:06.920455-04:00.jpg"
-     alt="Rolling Stone at 2022-08-09 21:08:08-04:00 local time"
+     alt="Rolling Stone at 2022-08-09 14:08:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-09T21:08:06.920455-04:00.jpg">August 9 at 9:08 PM</a></p>
+ <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-09T21:08:06.920455-04:00.jpg">August 9 at 2:08 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-09T09:03:55.316548-04:00.jpg">
   <img src="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-09T09:03:55.316548-04:00.jpg"
-     alt="Rolling Stone at 2022-08-09 09:03:58-04:00 local time"
+     alt="Rolling Stone at 2022-08-09 02:03:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-09T09:03:55.316548-04:00.jpg">August 9 at 9:03 AM</a></p>
+ <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-09T09:03:55.316548-04:00.jpg">August 9 at 2:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-08T20:59:52.274850-04:00.jpg">
   <img src="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-08T20:59:52.274850-04:00.jpg"
-     alt="Rolling Stone at 2022-08-08 20:59:57-04:00 local time"
+     alt="Rolling Stone at 2022-08-08 13:59:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-08T20:59:52.274850-04:00.jpg">August 8 at 8:59 PM</a></p>
+ <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-08T20:59:52.274850-04:00.jpg">August 8 at 1:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-08T08:50:12.205925-04:00.jpg">
   <img src="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-08T08:50:12.205925-04:00.jpg"
-     alt="Rolling Stone at 2022-08-08 08:50:17-04:00 local time"
+     alt="Rolling Stone at 2022-08-08 01:50:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-08T08:50:12.205925-04:00.jpg">August 8 at 8:50 AM</a></p>
+ <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-08T08:50:12.205925-04:00.jpg">August 8 at 1:50 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-07T21:08:32.159736-04:00.jpg">
   <img src="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-07T21:08:32.159736-04:00.jpg"
-     alt="Rolling Stone at 2022-08-07 21:08:33-04:00 local time"
+     alt="Rolling Stone at 2022-08-07 14:08:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-07T21:08:32.159736-04:00.jpg">August 7 at 9:08 PM</a></p>
+ <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-07T21:08:32.159736-04:00.jpg">August 7 at 2:08 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-07T08:45:46.205535-04:00.jpg">
   <img src="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-07T08:45:46.205535-04:00.jpg"
-     alt="Rolling Stone at 2022-08-07 08:45:47-04:00 local time"
+     alt="Rolling Stone at 2022-08-07 01:45:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-07T08:45:46.205535-04:00.jpg">August 7 at 8:45 AM</a></p>
+ <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-07T08:45:46.205535-04:00.jpg">August 7 at 1:45 AM</a></p>
 </div>
 
 </div>
@@ -316,16 +316,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 10 at 8:59 PM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-10T20:58:56.258009-04:00.hyperlinks.json) |
-| [August 10 at 9:17 AM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-10T09:17:28.685278-04:00.hyperlinks.json) |
-| [August 9 at 9:04 AM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-09T09:03:55.316548-04:00.hyperlinks.json) |
-| [August 8 at 8:59 PM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-08T20:59:52.274850-04:00.hyperlinks.json) |
-| [August 8 at 8:50 AM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-08T08:50:12.205925-04:00.hyperlinks.json) |
-| [August 7 at 9:08 PM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-07T21:08:32.159736-04:00.hyperlinks.json) |
-| [August 7 at 8:45 AM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-07T08:45:46.205535-04:00.hyperlinks.json) |
-| [August 6 at 8:47 PM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-06T20:47:19.396283-04:00.hyperlinks.json) |
-| [August 6 at 8:38 AM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-06T08:38:09.883309-04:00.hyperlinks.json) |
-| [August 5 at 10:12 PM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-05T22:12:27.109832-04:00.hyperlinks.json) |
+| [August 10 at 1:59 PM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-10T20:58:56.258009-04:00.hyperlinks.json) |
+| [August 10 at 2:17 AM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-10T09:17:28.685278-04:00.hyperlinks.json) |
+| [August 9 at 2:04 AM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-09T09:03:55.316548-04:00.hyperlinks.json) |
+| [August 8 at 1:59 PM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-08T20:59:52.274850-04:00.hyperlinks.json) |
+| [August 8 at 1:50 AM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-08T08:50:12.205925-04:00.hyperlinks.json) |
+| [August 7 at 2:08 PM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-07T21:08:32.159736-04:00.hyperlinks.json) |
+| [August 7 at 1:45 AM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-07T08:45:46.205535-04:00.hyperlinks.json) |
+| [August 6 at 1:47 PM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-06T20:47:19.396283-04:00.hyperlinks.json) |
+| [August 6 at 1:38 AM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-06T08:38:09.883309-04:00.hyperlinks.json) |
+| [August 5 at 3:12 PM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-05T22:12:27.109832-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -421,16 +421,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 12 at 8:51 PM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-12T20:51:00.169090-04:00.accessibility.json) |
-| [August 12 at 9:30 AM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-12T09:30:44.817129-04:00.accessibility.json) |
-| [August 12 at 5:25 AM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-12T05:25:31.601431-04:00.accessibility.json) |
-| [August 11 at 9:48 AM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-11T09:48:47.856427-04:00.accessibility.json) |
-| [August 10 at 8:59 PM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-10T20:58:56.258009-04:00.accessibility.json) |
-| [August 10 at 9:17 AM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-10T09:17:28.685278-04:00.accessibility.json) |
-| [August 9 at 9:08 PM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-09T21:08:06.920455-04:00.accessibility.json) |
-| [August 9 at 9:04 AM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-09T09:03:55.316548-04:00.accessibility.json) |
-| [August 8 at 8:59 PM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-08T20:59:52.274850-04:00.accessibility.json) |
-| [August 8 at 8:50 AM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-08T08:50:12.205925-04:00.accessibility.json) |
+| [August 12 at 1:51 PM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-12T20:51:00.169090-04:00.accessibility.json) |
+| [August 12 at 2:30 AM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-12T09:30:44.817129-04:00.accessibility.json) |
+| [August 11 at 10:25 PM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-12T05:25:31.601431-04:00.accessibility.json) |
+| [August 11 at 2:48 AM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-11T09:48:47.856427-04:00.accessibility.json) |
+| [August 10 at 1:59 PM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-10T20:58:56.258009-04:00.accessibility.json) |
+| [August 10 at 2:17 AM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-10T09:17:28.685278-04:00.accessibility.json) |
+| [August 9 at 2:08 PM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-09T21:08:06.920455-04:00.accessibility.json) |
+| [August 9 at 2:04 AM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-09T09:03:55.316548-04:00.accessibility.json) |
+| [August 8 at 1:59 PM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-08T20:59:52.274850-04:00.accessibility.json) |
+| [August 8 at 1:50 AM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-08T08:50:12.205925-04:00.accessibility.json) |
 
 
 
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 12 at 8:51 PM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-12T20:51:00.169090-04:00.lighthouse.json) |
-| [August 12 at 9:30 AM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-12T09:30:44.817129-04:00.lighthouse.json) |
-| [August 12 at 5:25 AM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-12T05:25:31.601431-04:00.lighthouse.json) |
-| [August 11 at 9:48 AM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-11T09:48:47.856427-04:00.lighthouse.json) |
-| [August 10 at 8:59 PM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-10T20:58:56.258009-04:00.lighthouse.json) |
-| [August 10 at 9:17 AM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-10T09:17:28.685278-04:00.lighthouse.json) |
-| [August 9 at 9:08 PM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-09T21:08:06.920455-04:00.lighthouse.json) |
-| [August 9 at 9:04 AM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-09T09:03:55.316548-04:00.lighthouse.json) |
-| [August 8 at 9:00 PM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-08T20:59:52.274850-04:00.lighthouse.json) |
-| [August 8 at 8:50 AM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-08T08:50:12.205925-04:00.lighthouse.json) |
+| [August 12 at 1:51 PM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-12T20:51:00.169090-04:00.lighthouse.json) |
+| [August 12 at 2:30 AM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-12T09:30:44.817129-04:00.lighthouse.json) |
+| [August 11 at 10:25 PM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-12T05:25:31.601431-04:00.lighthouse.json) |
+| [August 11 at 2:48 AM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-11T09:48:47.856427-04:00.lighthouse.json) |
+| [August 10 at 1:59 PM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-10T20:58:56.258009-04:00.lighthouse.json) |
+| [August 10 at 2:17 AM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-10T09:17:28.685278-04:00.lighthouse.json) |
+| [August 9 at 2:08 PM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-09T21:08:06.920455-04:00.lighthouse.json) |
+| [August 9 at 2:04 AM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-09T09:03:55.316548-04:00.lighthouse.json) |
+| [August 8 at 2:00 PM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-08T20:59:52.274850-04:00.lighthouse.json) |
+| [August 8 at 1:50 AM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-08T08:50:12.205925-04:00.lighthouse.json) |
 
 
 

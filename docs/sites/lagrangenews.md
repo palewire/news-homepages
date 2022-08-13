@@ -116,109 +116,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-12T20:40:59.424906-04:00.jpg">
   <img src="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-12T20:40:59.424906-04:00.jpg"
-     alt="The LaGrange Daily News at 2022-08-12 20:41:01-04:00 local time"
+     alt="The LaGrange Daily News at 2022-08-12 13:41:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-12T20:40:59.424906-04:00.jpg">August 12 at 8:41 PM</a></p>
+ <p><a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-12T20:40:59.424906-04:00.jpg">August 12 at 1:41 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-12T09:21:38.056773-04:00.jpg">
   <img src="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-12T09:21:38.056773-04:00.jpg"
-     alt="The LaGrange Daily News at 2022-08-12 09:21:43-04:00 local time"
+     alt="The LaGrange Daily News at 2022-08-12 02:21:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-12T09:21:38.056773-04:00.jpg">August 12 at 9:21 AM</a></p>
+ <p><a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-12T09:21:38.056773-04:00.jpg">August 12 at 2:21 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-12T05:18:10.643083-04:00.jpg">
   <img src="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-12T05:18:10.643083-04:00.jpg"
-     alt="The LaGrange Daily News at 2022-08-12 05:18:12-04:00 local time"
+     alt="The LaGrange Daily News at 2022-08-11 22:18:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-12T05:18:10.643083-04:00.jpg">August 12 at 5:18 AM</a></p>
+ <p><a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-12T05:18:10.643083-04:00.jpg">August 11 at 10:18 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-11T09:38:21.794913-04:00.jpg">
   <img src="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-11T09:38:21.794913-04:00.jpg"
-     alt="The LaGrange Daily News at 2022-08-11 09:38:24-04:00 local time"
+     alt="The LaGrange Daily News at 2022-08-11 02:38:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-11T09:38:21.794913-04:00.jpg">August 11 at 9:38 AM</a></p>
+ <p><a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-11T09:38:21.794913-04:00.jpg">August 11 at 2:38 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-10T20:50:58.518099-04:00.jpg">
   <img src="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-10T20:50:58.518099-04:00.jpg"
-     alt="The LaGrange Daily News at 2022-08-10 20:51:01-04:00 local time"
+     alt="The LaGrange Daily News at 2022-08-10 13:51:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-10T20:50:58.518099-04:00.jpg">August 10 at 8:51 PM</a></p>
+ <p><a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-10T20:50:58.518099-04:00.jpg">August 10 at 1:51 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-10T09:07:25.441697-04:00.jpg">
   <img src="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-10T09:07:25.441697-04:00.jpg"
-     alt="The LaGrange Daily News at 2022-08-10 09:07:27-04:00 local time"
+     alt="The LaGrange Daily News at 2022-08-10 02:07:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-10T09:07:25.441697-04:00.jpg">August 10 at 9:07 AM</a></p>
+ <p><a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-10T09:07:25.441697-04:00.jpg">August 10 at 2:07 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-09T20:54:52.311788-04:00.jpg">
   <img src="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-09T20:54:52.311788-04:00.jpg"
-     alt="The LaGrange Daily News at 2022-08-09 20:54:55-04:00 local time"
+     alt="The LaGrange Daily News at 2022-08-09 13:54:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-09T20:54:52.311788-04:00.jpg">August 9 at 8:54 PM</a></p>
+ <p><a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-09T20:54:52.311788-04:00.jpg">August 9 at 1:54 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-09T08:55:18.446800-04:00.jpg">
   <img src="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-09T08:55:18.446800-04:00.jpg"
-     alt="The LaGrange Daily News at 2022-08-09 08:55:24-04:00 local time"
+     alt="The LaGrange Daily News at 2022-08-09 01:55:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-09T08:55:18.446800-04:00.jpg">August 9 at 8:55 AM</a></p>
+ <p><a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-09T08:55:18.446800-04:00.jpg">August 9 at 1:55 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-08T20:49:47.593232-04:00.jpg">
   <img src="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-08T20:49:47.593232-04:00.jpg"
-     alt="The LaGrange Daily News at 2022-08-08 20:49:48-04:00 local time"
+     alt="The LaGrange Daily News at 2022-08-08 13:49:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-08T20:49:47.593232-04:00.jpg">August 8 at 8:49 PM</a></p>
+ <p><a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-08T20:49:47.593232-04:00.jpg">August 8 at 1:49 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-08T08:41:56.488689-04:00.jpg">
   <img src="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-08T08:41:56.488689-04:00.jpg"
-     alt="The LaGrange Daily News at 2022-08-08 08:41:58-04:00 local time"
+     alt="The LaGrange Daily News at 2022-08-08 01:41:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-08T08:41:56.488689-04:00.jpg">August 8 at 8:41 AM</a></p>
+ <p><a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-08T08:41:56.488689-04:00.jpg">August 8 at 1:41 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-07T20:58:40.534188-04:00.jpg">
   <img src="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-07T20:58:40.534188-04:00.jpg"
-     alt="The LaGrange Daily News at 2022-08-07 20:58:43-04:00 local time"
+     alt="The LaGrange Daily News at 2022-08-07 13:58:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-07T20:58:40.534188-04:00.jpg">August 7 at 8:58 PM</a></p>
+ <p><a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-07T20:58:40.534188-04:00.jpg">August 7 at 1:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-07T08:36:28.346741-04:00.jpg">
   <img src="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-07T08:36:28.346741-04:00.jpg"
-     alt="The LaGrange Daily News at 2022-08-07 08:36:29-04:00 local time"
+     alt="The LaGrange Daily News at 2022-08-07 01:36:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-07T08:36:28.346741-04:00.jpg">August 7 at 8:36 AM</a></p>
+ <p><a href="https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-07T08:36:28.346741-04:00.jpg">August 7 at 1:36 AM</a></p>
 </div>
 
 </div>
@@ -316,16 +316,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 12 at 8:41 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-12T20:40:59.424906-04:00.hyperlinks.json) |
-| [August 12 at 9:21 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-12T09:21:38.056773-04:00.hyperlinks.json) |
-| [August 12 at 5:18 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-12T05:18:10.643083-04:00.hyperlinks.json) |
-| [August 11 at 9:38 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-11T09:38:21.794913-04:00.hyperlinks.json) |
-| [August 10 at 8:51 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-10T20:50:58.518099-04:00.hyperlinks.json) |
-| [August 10 at 9:07 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-10T09:07:25.441697-04:00.hyperlinks.json) |
-| [August 9 at 8:54 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-09T20:54:52.311788-04:00.hyperlinks.json) |
-| [August 9 at 8:55 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-09T08:55:18.446800-04:00.hyperlinks.json) |
-| [August 8 at 8:49 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-08T20:49:47.593232-04:00.hyperlinks.json) |
-| [August 8 at 8:42 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-08T08:41:56.488689-04:00.hyperlinks.json) |
+| [August 12 at 1:41 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-12T20:40:59.424906-04:00.hyperlinks.json) |
+| [August 12 at 2:21 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-12T09:21:38.056773-04:00.hyperlinks.json) |
+| [August 11 at 10:18 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-12T05:18:10.643083-04:00.hyperlinks.json) |
+| [August 11 at 2:38 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-11T09:38:21.794913-04:00.hyperlinks.json) |
+| [August 10 at 1:51 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-10T20:50:58.518099-04:00.hyperlinks.json) |
+| [August 10 at 2:07 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-10T09:07:25.441697-04:00.hyperlinks.json) |
+| [August 9 at 1:54 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-09T20:54:52.311788-04:00.hyperlinks.json) |
+| [August 9 at 1:55 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-09T08:55:18.446800-04:00.hyperlinks.json) |
+| [August 8 at 1:49 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-08T20:49:47.593232-04:00.hyperlinks.json) |
+| [August 8 at 1:42 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-08T08:41:56.488689-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -421,16 +421,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 12 at 8:41 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-12T20:40:59.424906-04:00.accessibility.json) |
-| [August 12 at 9:21 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-12T09:21:38.056773-04:00.accessibility.json) |
-| [August 12 at 5:18 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-12T05:18:10.643083-04:00.accessibility.json) |
-| [August 11 at 9:38 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-11T09:38:21.794913-04:00.accessibility.json) |
-| [August 10 at 8:51 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-10T20:50:58.518099-04:00.accessibility.json) |
-| [August 10 at 9:07 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-10T09:07:25.441697-04:00.accessibility.json) |
-| [August 9 at 8:54 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-09T20:54:52.311788-04:00.accessibility.json) |
-| [August 9 at 8:55 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-09T08:55:18.446800-04:00.accessibility.json) |
-| [August 8 at 8:49 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-08T20:49:47.593232-04:00.accessibility.json) |
-| [August 8 at 8:41 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-08T08:41:56.488689-04:00.accessibility.json) |
+| [August 12 at 1:41 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-12T20:40:59.424906-04:00.accessibility.json) |
+| [August 12 at 2:21 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-12T09:21:38.056773-04:00.accessibility.json) |
+| [August 11 at 10:18 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-12T05:18:10.643083-04:00.accessibility.json) |
+| [August 11 at 2:38 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-11T09:38:21.794913-04:00.accessibility.json) |
+| [August 10 at 1:51 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-10T20:50:58.518099-04:00.accessibility.json) |
+| [August 10 at 2:07 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-10T09:07:25.441697-04:00.accessibility.json) |
+| [August 9 at 1:54 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-09T20:54:52.311788-04:00.accessibility.json) |
+| [August 9 at 1:55 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-09T08:55:18.446800-04:00.accessibility.json) |
+| [August 8 at 1:49 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-08T20:49:47.593232-04:00.accessibility.json) |
+| [August 8 at 1:41 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-08T08:41:56.488689-04:00.accessibility.json) |
 
 
 
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 12 at 8:41 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-12T20:40:59.424906-04:00.lighthouse.json) |
-| [August 12 at 9:21 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-12T09:21:38.056773-04:00.lighthouse.json) |
-| [August 12 at 5:18 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-12T05:18:10.643083-04:00.lighthouse.json) |
-| [August 11 at 9:38 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-11T09:38:21.794913-04:00.lighthouse.json) |
-| [August 10 at 8:51 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-10T20:50:58.518099-04:00.lighthouse.json) |
-| [August 10 at 9:07 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-10T09:07:25.441697-04:00.lighthouse.json) |
-| [August 9 at 8:54 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-09T20:54:52.311788-04:00.lighthouse.json) |
-| [August 9 at 8:55 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-09T08:55:18.446800-04:00.lighthouse.json) |
-| [August 8 at 8:49 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-08T20:49:47.593232-04:00.lighthouse.json) |
-| [August 8 at 8:42 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-08T08:41:56.488689-04:00.lighthouse.json) |
+| [August 12 at 1:41 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-12T20:40:59.424906-04:00.lighthouse.json) |
+| [August 12 at 2:21 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-12T09:21:38.056773-04:00.lighthouse.json) |
+| [August 11 at 10:18 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-12T05:18:10.643083-04:00.lighthouse.json) |
+| [August 11 at 2:38 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-11T09:38:21.794913-04:00.lighthouse.json) |
+| [August 10 at 1:51 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-10T20:50:58.518099-04:00.lighthouse.json) |
+| [August 10 at 2:07 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-10T09:07:25.441697-04:00.lighthouse.json) |
+| [August 9 at 1:54 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-09T20:54:52.311788-04:00.lighthouse.json) |
+| [August 9 at 1:55 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-09T08:55:18.446800-04:00.lighthouse.json) |
+| [August 8 at 1:49 PM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-08T20:49:47.593232-04:00.lighthouse.json) |
+| [August 8 at 1:42 AM](https://archive.org/download/lagrangenews-2022/lagrangenews-2022-08-08T08:41:56.488689-04:00.lighthouse.json) |
 
 
 

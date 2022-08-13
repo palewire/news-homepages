@@ -116,109 +116,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-12T20:38:12.818817-04:00.jpg">
   <img src="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-12T20:38:12.818817-04:00.jpg"
-     alt="Jewish Currents at 2022-08-12 20:38:15-04:00 local time"
+     alt="Jewish Currents at 2022-08-12 13:38:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-12T20:38:12.818817-04:00.jpg">August 12 at 8:38 PM</a></p>
+ <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-12T20:38:12.818817-04:00.jpg">August 12 at 1:38 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-12T09:18:19.299070-04:00.jpg">
   <img src="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-12T09:18:19.299070-04:00.jpg"
-     alt="Jewish Currents at 2022-08-12 09:18:21-04:00 local time"
+     alt="Jewish Currents at 2022-08-12 02:18:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-12T09:18:19.299070-04:00.jpg">August 12 at 9:18 AM</a></p>
+ <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-12T09:18:19.299070-04:00.jpg">August 12 at 2:18 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-12T05:14:55.068738-04:00.jpg">
   <img src="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-12T05:14:55.068738-04:00.jpg"
-     alt="Jewish Currents at 2022-08-12 05:14:58-04:00 local time"
+     alt="Jewish Currents at 2022-08-11 22:14:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-12T05:14:55.068738-04:00.jpg">August 12 at 5:14 AM</a></p>
+ <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-12T05:14:55.068738-04:00.jpg">August 11 at 10:14 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-11T09:34:01.258860-04:00.jpg">
   <img src="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-11T09:34:01.258860-04:00.jpg"
-     alt="Jewish Currents at 2022-08-11 09:34:06-04:00 local time"
+     alt="Jewish Currents at 2022-08-11 02:34:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-11T09:34:01.258860-04:00.jpg">August 11 at 9:34 AM</a></p>
+ <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-11T09:34:01.258860-04:00.jpg">August 11 at 2:34 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-10T20:47:20.120345-04:00.jpg">
   <img src="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-10T20:47:20.120345-04:00.jpg"
-     alt="Jewish Currents at 2022-08-10 20:47:25-04:00 local time"
+     alt="Jewish Currents at 2022-08-10 13:47:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-10T20:47:20.120345-04:00.jpg">August 10 at 8:47 PM</a></p>
+ <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-10T20:47:20.120345-04:00.jpg">August 10 at 1:47 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-10T09:03:39.524191-04:00.jpg">
   <img src="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-10T09:03:39.524191-04:00.jpg"
-     alt="Jewish Currents at 2022-08-10 09:03:45-04:00 local time"
+     alt="Jewish Currents at 2022-08-10 02:03:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-10T09:03:39.524191-04:00.jpg">August 10 at 9:03 AM</a></p>
+ <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-10T09:03:39.524191-04:00.jpg">August 10 at 2:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-09T20:51:02.815990-04:00.jpg">
   <img src="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-09T20:51:02.815990-04:00.jpg"
-     alt="Jewish Currents at 2022-08-09 20:51:05-04:00 local time"
+     alt="Jewish Currents at 2022-08-09 13:51:05-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-09T20:51:02.815990-04:00.jpg">August 9 at 8:51 PM</a></p>
+ <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-09T20:51:02.815990-04:00.jpg">August 9 at 1:51 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-09T08:51:21.721922-04:00.jpg">
   <img src="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-09T08:51:21.721922-04:00.jpg"
-     alt="Jewish Currents at 2022-08-09 08:51:25-04:00 local time"
+     alt="Jewish Currents at 2022-08-09 01:51:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-09T08:51:21.721922-04:00.jpg">August 9 at 8:51 AM</a></p>
+ <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-09T08:51:21.721922-04:00.jpg">August 9 at 1:51 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-08T20:46:42.743856-04:00.jpg">
   <img src="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-08T20:46:42.743856-04:00.jpg"
-     alt="Jewish Currents at 2022-08-08 20:46:45-04:00 local time"
+     alt="Jewish Currents at 2022-08-08 13:46:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-08T20:46:42.743856-04:00.jpg">August 8 at 8:46 PM</a></p>
+ <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-08T20:46:42.743856-04:00.jpg">August 8 at 1:46 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-08T08:38:31.118060-04:00.jpg">
   <img src="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-08T08:38:31.118060-04:00.jpg"
-     alt="Jewish Currents at 2022-08-08 08:38:33-04:00 local time"
+     alt="Jewish Currents at 2022-08-08 01:38:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-08T08:38:31.118060-04:00.jpg">August 8 at 8:38 AM</a></p>
+ <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-08T08:38:31.118060-04:00.jpg">August 8 at 1:38 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-07T20:56:06.427199-04:00.jpg">
   <img src="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-07T20:56:06.427199-04:00.jpg"
-     alt="Jewish Currents at 2022-08-07 20:56:08-04:00 local time"
+     alt="Jewish Currents at 2022-08-07 13:56:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-07T20:56:06.427199-04:00.jpg">August 7 at 8:56 PM</a></p>
+ <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-07T20:56:06.427199-04:00.jpg">August 7 at 1:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-07T08:33:01.006286-04:00.jpg">
   <img src="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-07T08:33:01.006286-04:00.jpg"
-     alt="Jewish Currents at 2022-08-07 08:33:03-04:00 local time"
+     alt="Jewish Currents at 2022-08-07 01:33:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-07T08:33:01.006286-04:00.jpg">August 7 at 8:33 AM</a></p>
+ <p><a href="https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-07T08:33:01.006286-04:00.jpg">August 7 at 1:33 AM</a></p>
 </div>
 
 </div>
@@ -316,16 +316,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 12 at 8:38 PM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-12T20:38:12.818817-04:00.hyperlinks.json) |
-| [August 12 at 9:18 AM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-12T09:18:19.299070-04:00.hyperlinks.json) |
-| [August 12 at 5:15 AM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-12T05:14:55.068738-04:00.hyperlinks.json) |
-| [August 11 at 9:34 AM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-11T09:34:01.258860-04:00.hyperlinks.json) |
-| [August 10 at 8:47 PM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-10T20:47:20.120345-04:00.hyperlinks.json) |
-| [August 10 at 9:03 AM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-10T09:03:39.524191-04:00.hyperlinks.json) |
-| [August 9 at 8:51 PM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-09T20:51:02.815990-04:00.hyperlinks.json) |
-| [August 9 at 8:51 AM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-09T08:51:21.721922-04:00.hyperlinks.json) |
-| [August 8 at 8:46 PM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-08T20:46:42.743856-04:00.hyperlinks.json) |
-| [August 8 at 8:38 AM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-08T08:38:31.118060-04:00.hyperlinks.json) |
+| [August 12 at 1:38 PM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-12T20:38:12.818817-04:00.hyperlinks.json) |
+| [August 12 at 2:18 AM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-12T09:18:19.299070-04:00.hyperlinks.json) |
+| [August 11 at 10:15 PM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-12T05:14:55.068738-04:00.hyperlinks.json) |
+| [August 11 at 2:34 AM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-11T09:34:01.258860-04:00.hyperlinks.json) |
+| [August 10 at 1:47 PM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-10T20:47:20.120345-04:00.hyperlinks.json) |
+| [August 10 at 2:03 AM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-10T09:03:39.524191-04:00.hyperlinks.json) |
+| [August 9 at 1:51 PM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-09T20:51:02.815990-04:00.hyperlinks.json) |
+| [August 9 at 1:51 AM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-09T08:51:21.721922-04:00.hyperlinks.json) |
+| [August 8 at 1:46 PM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-08T20:46:42.743856-04:00.hyperlinks.json) |
+| [August 8 at 1:38 AM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-08T08:38:31.118060-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -421,16 +421,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 12 at 8:38 PM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-12T20:38:12.818817-04:00.accessibility.json) |
-| [August 12 at 9:18 AM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-12T09:18:19.299070-04:00.accessibility.json) |
-| [August 12 at 5:15 AM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-12T05:14:55.068738-04:00.accessibility.json) |
-| [August 11 at 9:34 AM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-11T09:34:01.258860-04:00.accessibility.json) |
-| [August 10 at 8:47 PM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-10T20:47:20.120345-04:00.accessibility.json) |
-| [August 10 at 9:03 AM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-10T09:03:39.524191-04:00.accessibility.json) |
-| [August 9 at 8:51 PM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-09T20:51:02.815990-04:00.accessibility.json) |
-| [August 9 at 8:51 AM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-09T08:51:21.721922-04:00.accessibility.json) |
-| [August 8 at 8:46 PM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-08T20:46:42.743856-04:00.accessibility.json) |
-| [August 8 at 8:38 AM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-08T08:38:31.118060-04:00.accessibility.json) |
+| [August 12 at 1:38 PM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-12T20:38:12.818817-04:00.accessibility.json) |
+| [August 12 at 2:18 AM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-12T09:18:19.299070-04:00.accessibility.json) |
+| [August 11 at 10:15 PM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-12T05:14:55.068738-04:00.accessibility.json) |
+| [August 11 at 2:34 AM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-11T09:34:01.258860-04:00.accessibility.json) |
+| [August 10 at 1:47 PM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-10T20:47:20.120345-04:00.accessibility.json) |
+| [August 10 at 2:03 AM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-10T09:03:39.524191-04:00.accessibility.json) |
+| [August 9 at 1:51 PM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-09T20:51:02.815990-04:00.accessibility.json) |
+| [August 9 at 1:51 AM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-09T08:51:21.721922-04:00.accessibility.json) |
+| [August 8 at 1:46 PM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-08T20:46:42.743856-04:00.accessibility.json) |
+| [August 8 at 1:38 AM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-08T08:38:31.118060-04:00.accessibility.json) |
 
 
 
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 12 at 8:38 PM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-12T20:38:12.818817-04:00.lighthouse.json) |
-| [August 12 at 9:18 AM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-12T09:18:19.299070-04:00.lighthouse.json) |
-| [August 12 at 5:15 AM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-12T05:14:55.068738-04:00.lighthouse.json) |
-| [August 11 at 9:34 AM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-11T09:34:01.258860-04:00.lighthouse.json) |
-| [August 10 at 8:47 PM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-10T20:47:20.120345-04:00.lighthouse.json) |
-| [August 10 at 9:03 AM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-10T09:03:39.524191-04:00.lighthouse.json) |
-| [August 9 at 8:51 PM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-09T20:51:02.815990-04:00.lighthouse.json) |
-| [August 9 at 8:51 AM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-09T08:51:21.721922-04:00.lighthouse.json) |
-| [August 8 at 8:46 PM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-08T20:46:42.743856-04:00.lighthouse.json) |
-| [August 8 at 8:38 AM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-08T08:38:31.118060-04:00.lighthouse.json) |
+| [August 12 at 1:38 PM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-12T20:38:12.818817-04:00.lighthouse.json) |
+| [August 12 at 2:18 AM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-12T09:18:19.299070-04:00.lighthouse.json) |
+| [August 11 at 10:15 PM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-12T05:14:55.068738-04:00.lighthouse.json) |
+| [August 11 at 2:34 AM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-11T09:34:01.258860-04:00.lighthouse.json) |
+| [August 10 at 1:47 PM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-10T20:47:20.120345-04:00.lighthouse.json) |
+| [August 10 at 2:03 AM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-10T09:03:39.524191-04:00.lighthouse.json) |
+| [August 9 at 1:51 PM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-09T20:51:02.815990-04:00.lighthouse.json) |
+| [August 9 at 1:51 AM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-09T08:51:21.721922-04:00.lighthouse.json) |
+| [August 8 at 1:46 PM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-08T20:46:42.743856-04:00.lighthouse.json) |
+| [August 8 at 1:38 AM](https://archive.org/download/jewishcurrents-2022/jewishcurrents-2022-08-08T08:38:31.118060-04:00.lighthouse.json) |
 
 
 

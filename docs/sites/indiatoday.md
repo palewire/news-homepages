@@ -116,109 +116,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-13T06:07:39.771413+05:30.jpg">
   <img src="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-13T06:07:39.771413+05:30.jpg"
-     alt="India Today at 2022-08-13 06:07:42+05:30 local time"
+     alt="India Today at 2022-08-12 23:07:42+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-13T06:07:39.771413+05:30.jpg">August 13 at 6:07 AM</a></p>
+ <p><a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-13T06:07:39.771413+05:30.jpg">August 12 at 11:07 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-12T18:47:04.705633+05:30.jpg">
   <img src="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-12T18:47:04.705633+05:30.jpg"
-     alt="India Today at 2022-08-12 18:47:06+05:30 local time"
+     alt="India Today at 2022-08-12 11:47:06+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-12T18:47:04.705633+05:30.jpg">August 12 at 6:47 PM</a></p>
+ <p><a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-12T18:47:04.705633+05:30.jpg">August 12 at 11:47 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-12T14:44:52.857597+05:30.jpg">
   <img src="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-12T14:44:52.857597+05:30.jpg"
-     alt="India Today at 2022-08-12 14:44:55+05:30 local time"
+     alt="India Today at 2022-08-12 07:44:55+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-12T14:44:52.857597+05:30.jpg">August 12 at 2:44 PM</a></p>
+ <p><a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-12T14:44:52.857597+05:30.jpg">August 12 at 7:44 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-11T19:01:36.409258+05:30.jpg">
   <img src="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-11T19:01:36.409258+05:30.jpg"
-     alt="India Today at 2022-08-11 19:01:41+05:30 local time"
+     alt="India Today at 2022-08-11 12:01:41+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-11T19:01:36.409258+05:30.jpg">August 11 at 7:01 PM</a></p>
+ <p><a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-11T19:01:36.409258+05:30.jpg">August 11 at 12:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-11T06:17:21.015954+05:30.jpg">
   <img src="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-11T06:17:21.015954+05:30.jpg"
-     alt="India Today at 2022-08-11 06:17:25+05:30 local time"
+     alt="India Today at 2022-08-10 23:17:25+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-11T06:17:21.015954+05:30.jpg">August 11 at 6:17 AM</a></p>
+ <p><a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-11T06:17:21.015954+05:30.jpg">August 10 at 11:17 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-10T18:33:37.522183+05:30.jpg">
   <img src="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-10T18:33:37.522183+05:30.jpg"
-     alt="India Today at 2022-08-10 18:33:38+05:30 local time"
+     alt="India Today at 2022-08-10 11:33:38+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-10T18:33:37.522183+05:30.jpg">August 10 at 6:33 PM</a></p>
+ <p><a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-10T18:33:37.522183+05:30.jpg">August 10 at 11:33 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-10T06:20:43.863988+05:30.jpg">
   <img src="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-10T06:20:43.863988+05:30.jpg"
-     alt="India Today at 2022-08-10 06:20:46+05:30 local time"
+     alt="India Today at 2022-08-09 23:20:46+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-10T06:20:43.863988+05:30.jpg">August 10 at 6:20 AM</a></p>
+ <p><a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-10T06:20:43.863988+05:30.jpg">August 9 at 11:20 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-09T18:19:37.765347+05:30.jpg">
   <img src="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-09T18:19:37.765347+05:30.jpg"
-     alt="India Today at 2022-08-09 18:19:39+05:30 local time"
+     alt="India Today at 2022-08-09 11:19:39+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-09T18:19:37.765347+05:30.jpg">August 9 at 6:19 PM</a></p>
+ <p><a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-09T18:19:37.765347+05:30.jpg">August 9 at 11:19 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-09T06:15:17.082466+05:30.jpg">
   <img src="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-09T06:15:17.082466+05:30.jpg"
-     alt="India Today at 2022-08-09 06:15:20+05:30 local time"
+     alt="India Today at 2022-08-08 23:15:20+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-09T06:15:17.082466+05:30.jpg">August 9 at 6:15 AM</a></p>
+ <p><a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-09T06:15:17.082466+05:30.jpg">August 8 at 11:15 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-08T18:08:10.090841+05:30.jpg">
   <img src="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-08T18:08:10.090841+05:30.jpg"
-     alt="India Today at 2022-08-08 18:08:12+05:30 local time"
+     alt="India Today at 2022-08-08 11:08:12+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-08T18:08:10.090841+05:30.jpg">August 8 at 6:08 PM</a></p>
+ <p><a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-08T18:08:10.090841+05:30.jpg">August 8 at 11:08 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-08T06:24:13.380795+05:30.jpg">
   <img src="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-08T06:24:13.380795+05:30.jpg"
-     alt="India Today at 2022-08-08 06:24:16+05:30 local time"
+     alt="India Today at 2022-08-07 23:24:16+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-08T06:24:13.380795+05:30.jpg">August 8 at 6:24 AM</a></p>
+ <p><a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-08T06:24:13.380795+05:30.jpg">August 7 at 11:24 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-07T18:02:11.364490+05:30.jpg">
   <img src="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-07T18:02:11.364490+05:30.jpg"
-     alt="India Today at 2022-08-07 18:02:14+05:30 local time"
+     alt="India Today at 2022-08-07 11:02:14+05:30 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-07T18:02:11.364490+05:30.jpg">August 7 at 6:02 PM</a></p>
+ <p><a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-07T18:02:11.364490+05:30.jpg">August 7 at 11:02 AM</a></p>
 </div>
 
 </div>
@@ -316,16 +316,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 13 at 6:07 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-13T06:07:39.771413+05:30.hyperlinks.json) |
-| [August 12 at 6:47 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-12T18:47:04.705633+05:30.hyperlinks.json) |
-| [August 12 at 2:44 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-12T14:44:52.857597+05:30.hyperlinks.json) |
-| [August 11 at 7:01 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-11T19:01:36.409258+05:30.hyperlinks.json) |
-| [August 11 at 6:17 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-11T06:17:21.015954+05:30.hyperlinks.json) |
-| [August 10 at 6:33 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-10T18:33:37.522183+05:30.hyperlinks.json) |
-| [August 10 at 6:20 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-10T06:20:43.863988+05:30.hyperlinks.json) |
-| [August 9 at 6:19 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-09T18:19:37.765347+05:30.hyperlinks.json) |
-| [August 9 at 6:15 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-09T06:15:17.082466+05:30.hyperlinks.json) |
-| [August 8 at 6:08 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-08T18:08:10.090841+05:30.hyperlinks.json) |
+| [August 12 at 11:07 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-13T06:07:39.771413+05:30.hyperlinks.json) |
+| [August 12 at 11:47 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-12T18:47:04.705633+05:30.hyperlinks.json) |
+| [August 12 at 7:44 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-12T14:44:52.857597+05:30.hyperlinks.json) |
+| [August 11 at 12:01 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-11T19:01:36.409258+05:30.hyperlinks.json) |
+| [August 10 at 11:17 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-11T06:17:21.015954+05:30.hyperlinks.json) |
+| [August 10 at 11:33 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-10T18:33:37.522183+05:30.hyperlinks.json) |
+| [August 9 at 11:20 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-10T06:20:43.863988+05:30.hyperlinks.json) |
+| [August 9 at 11:19 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-09T18:19:37.765347+05:30.hyperlinks.json) |
+| [August 8 at 11:15 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-09T06:15:17.082466+05:30.hyperlinks.json) |
+| [August 8 at 11:08 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-08T18:08:10.090841+05:30.hyperlinks.json) |
 
 
 ## Accessibility
@@ -421,16 +421,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 13 at 6:07 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-13T06:07:39.771413+05:30.accessibility.json) |
-| [August 12 at 6:47 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-12T18:47:04.705633+05:30.accessibility.json) |
-| [August 12 at 2:44 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-12T14:44:52.857597+05:30.accessibility.json) |
-| [August 11 at 7:01 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-11T19:01:36.409258+05:30.accessibility.json) |
-| [August 11 at 6:17 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-11T06:17:21.015954+05:30.accessibility.json) |
-| [August 10 at 6:33 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-10T18:33:37.522183+05:30.accessibility.json) |
-| [August 10 at 6:20 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-10T06:20:43.863988+05:30.accessibility.json) |
-| [August 9 at 6:19 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-09T18:19:37.765347+05:30.accessibility.json) |
-| [August 9 at 6:15 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-09T06:15:17.082466+05:30.accessibility.json) |
-| [August 8 at 6:08 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-08T18:08:10.090841+05:30.accessibility.json) |
+| [August 12 at 11:07 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-13T06:07:39.771413+05:30.accessibility.json) |
+| [August 12 at 11:47 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-12T18:47:04.705633+05:30.accessibility.json) |
+| [August 12 at 7:44 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-12T14:44:52.857597+05:30.accessibility.json) |
+| [August 11 at 12:01 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-11T19:01:36.409258+05:30.accessibility.json) |
+| [August 10 at 11:17 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-11T06:17:21.015954+05:30.accessibility.json) |
+| [August 10 at 11:33 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-10T18:33:37.522183+05:30.accessibility.json) |
+| [August 9 at 11:20 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-10T06:20:43.863988+05:30.accessibility.json) |
+| [August 9 at 11:19 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-09T18:19:37.765347+05:30.accessibility.json) |
+| [August 8 at 11:15 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-09T06:15:17.082466+05:30.accessibility.json) |
+| [August 8 at 11:08 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-08T18:08:10.090841+05:30.accessibility.json) |
 
 
 
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 13 at 6:07 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-13T06:07:39.771413+05:30.lighthouse.json) |
-| [August 12 at 6:47 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-12T18:47:04.705633+05:30.lighthouse.json) |
-| [August 12 at 2:45 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-12T14:44:52.857597+05:30.lighthouse.json) |
-| [August 11 at 7:01 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-11T19:01:36.409258+05:30.lighthouse.json) |
-| [August 11 at 6:17 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-11T06:17:21.015954+05:30.lighthouse.json) |
-| [August 10 at 6:33 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-10T18:33:37.522183+05:30.lighthouse.json) |
-| [August 10 at 6:20 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-10T06:20:43.863988+05:30.lighthouse.json) |
-| [August 9 at 6:19 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-09T18:19:37.765347+05:30.lighthouse.json) |
-| [August 9 at 6:15 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-09T06:15:17.082466+05:30.lighthouse.json) |
-| [August 8 at 6:08 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-08T18:08:10.090841+05:30.lighthouse.json) |
+| [August 12 at 11:07 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-13T06:07:39.771413+05:30.lighthouse.json) |
+| [August 12 at 11:47 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-12T18:47:04.705633+05:30.lighthouse.json) |
+| [August 12 at 7:45 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-12T14:44:52.857597+05:30.lighthouse.json) |
+| [August 11 at 12:01 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-11T19:01:36.409258+05:30.lighthouse.json) |
+| [August 10 at 11:17 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-11T06:17:21.015954+05:30.lighthouse.json) |
+| [August 10 at 11:33 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-10T18:33:37.522183+05:30.lighthouse.json) |
+| [August 9 at 11:20 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-10T06:20:43.863988+05:30.lighthouse.json) |
+| [August 9 at 11:19 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-09T18:19:37.765347+05:30.lighthouse.json) |
+| [August 8 at 11:15 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-09T06:15:17.082466+05:30.lighthouse.json) |
+| [August 8 at 11:08 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-08T18:08:10.090841+05:30.lighthouse.json) |
 
 
 

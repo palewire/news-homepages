@@ -116,109 +116,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-12T13:34:11.854412-05:00.jpg">
   <img src="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-12T13:34:11.854412-05:00.jpg"
-     alt="Pitchfork at 2022-08-12 13:34:14-05:00 local time"
+     alt="Pitchfork at 2022-08-12 06:34:14-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-12T13:34:11.854412-05:00.jpg">August 12 at 1:34 PM</a></p>
+ <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-12T13:34:11.854412-05:00.jpg">August 12 at 6:34 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-12T13:18:20.661481-05:00.jpg">
   <img src="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-12T13:18:20.661481-05:00.jpg"
-     alt="Pitchfork at 2022-08-12 13:18:36-05:00 local time"
+     alt="Pitchfork at 2022-08-12 06:18:36-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-12T13:18:20.661481-05:00.jpg">August 12 at 1:18 PM</a></p>
+ <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-12T13:18:20.661481-05:00.jpg">August 12 at 6:18 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-12T04:41:58.057081-05:00.jpg">
   <img src="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-12T04:41:58.057081-05:00.jpg"
-     alt="Pitchfork at 2022-08-12 04:42:02-05:00 local time"
+     alt="Pitchfork at 2022-08-11 21:42:02-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-12T04:41:58.057081-05:00.jpg">August 12 at 4:42 AM</a></p>
+ <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-12T04:41:58.057081-05:00.jpg">August 11 at 9:42 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-11T14:03:48.310579-05:00.jpg">
   <img src="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-11T14:03:48.310579-05:00.jpg"
-     alt="Pitchfork at 2022-08-11 14:03:49-05:00 local time"
+     alt="Pitchfork at 2022-08-11 07:03:49-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-11T14:03:48.310579-05:00.jpg">August 11 at 2:03 PM</a></p>
+ <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-11T14:03:48.310579-05:00.jpg">August 11 at 7:03 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-11T13:51:13.857962-05:00.jpg">
   <img src="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-11T13:51:13.857962-05:00.jpg"
-     alt="Pitchfork at 2022-08-11 13:51:15-05:00 local time"
+     alt="Pitchfork at 2022-08-11 06:51:15-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-11T13:51:13.857962-05:00.jpg">August 11 at 1:51 PM</a></p>
+ <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-11T13:51:13.857962-05:00.jpg">August 11 at 6:51 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-11T00:21:22.713647-05:00.jpg">
   <img src="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-11T00:21:22.713647-05:00.jpg"
-     alt="Pitchfork at 2022-08-11 00:21:24-05:00 local time"
+     alt="Pitchfork at 2022-08-10 17:21:24-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-11T00:21:22.713647-05:00.jpg">August 11 at 12:21 AM</a></p>
+ <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-11T00:21:22.713647-05:00.jpg">August 10 at 5:21 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-10T14:33:44.749808-05:00.jpg">
   <img src="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-10T14:33:44.749808-05:00.jpg"
-     alt="Pitchfork at 2022-08-10 14:33:46-05:00 local time"
+     alt="Pitchfork at 2022-08-10 07:33:46-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-10T14:33:44.749808-05:00.jpg">August 10 at 2:33 PM</a></p>
+ <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-10T14:33:44.749808-05:00.jpg">August 10 at 7:33 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-10T13:17:11.810356-05:00.jpg">
   <img src="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-10T13:17:11.810356-05:00.jpg"
-     alt="Pitchfork at 2022-08-10 13:17:19-05:00 local time"
+     alt="Pitchfork at 2022-08-10 06:17:19-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-10T13:17:11.810356-05:00.jpg">August 10 at 1:17 PM</a></p>
+ <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-10T13:17:11.810356-05:00.jpg">August 10 at 6:17 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-10T00:27:11.599227-05:00.jpg">
   <img src="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-10T00:27:11.599227-05:00.jpg"
-     alt="Pitchfork at 2022-08-10 00:27:15-05:00 local time"
+     alt="Pitchfork at 2022-08-09 17:27:15-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-10T00:27:11.599227-05:00.jpg">August 10 at 12:27 AM</a></p>
+ <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-10T00:27:11.599227-05:00.jpg">August 9 at 5:27 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-09T13:02:53.835821-05:00.jpg">
   <img src="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-09T13:02:53.835821-05:00.jpg"
-     alt="Pitchfork at 2022-08-09 13:02:54-05:00 local time"
+     alt="Pitchfork at 2022-08-09 06:02:54-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-09T13:02:53.835821-05:00.jpg">August 9 at 1:02 PM</a></p>
+ <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-09T13:02:53.835821-05:00.jpg">August 9 at 6:02 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-09T12:48:00.771068-05:00.jpg">
   <img src="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-09T12:48:00.771068-05:00.jpg"
-     alt="Pitchfork at 2022-08-09 12:48:05-05:00 local time"
+     alt="Pitchfork at 2022-08-09 05:48:05-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-09T12:48:00.771068-05:00.jpg">August 9 at 12:48 PM</a></p>
+ <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-09T12:48:00.771068-05:00.jpg">August 9 at 5:48 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-09T00:05:05.763820-05:00.jpg">
   <img src="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-09T00:05:05.763820-05:00.jpg"
-     alt="Pitchfork at 2022-08-09 00:05:07-05:00 local time"
+     alt="Pitchfork at 2022-08-08 17:05:07-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-09T00:05:05.763820-05:00.jpg">August 9 at 12:05 AM</a></p>
+ <p><a href="https://archive.org/download/pitchfork-2022/pitchfork-2022-08-09T00:05:05.763820-05:00.jpg">August 8 at 5:05 PM</a></p>
 </div>
 
 </div>
@@ -316,16 +316,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 12 at 1:34 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-12T13:34:11.854412-05:00.hyperlinks.json) |
-| [August 12 at 1:19 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-12T13:18:20.661481-05:00.hyperlinks.json) |
-| [August 12 at 4:42 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-12T04:41:58.057081-05:00.hyperlinks.json) |
-| [August 11 at 2:03 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-11T14:03:48.310579-05:00.hyperlinks.json) |
-| [August 11 at 1:51 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-11T13:51:13.857962-05:00.hyperlinks.json) |
-| [August 11 at 12:21 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-11T00:21:22.713647-05:00.hyperlinks.json) |
-| [August 10 at 2:33 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-10T14:33:44.749808-05:00.hyperlinks.json) |
-| [August 10 at 1:17 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-10T13:17:11.810356-05:00.hyperlinks.json) |
-| [August 10 at 12:27 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-10T00:27:11.599227-05:00.hyperlinks.json) |
-| [August 9 at 1:03 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-09T13:02:53.835821-05:00.hyperlinks.json) |
+| [August 12 at 6:34 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-12T13:34:11.854412-05:00.hyperlinks.json) |
+| [August 12 at 6:19 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-12T13:18:20.661481-05:00.hyperlinks.json) |
+| [August 11 at 9:42 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-12T04:41:58.057081-05:00.hyperlinks.json) |
+| [August 11 at 7:03 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-11T14:03:48.310579-05:00.hyperlinks.json) |
+| [August 11 at 6:51 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-11T13:51:13.857962-05:00.hyperlinks.json) |
+| [August 10 at 5:21 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-11T00:21:22.713647-05:00.hyperlinks.json) |
+| [August 10 at 7:33 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-10T14:33:44.749808-05:00.hyperlinks.json) |
+| [August 10 at 6:17 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-10T13:17:11.810356-05:00.hyperlinks.json) |
+| [August 9 at 5:27 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-10T00:27:11.599227-05:00.hyperlinks.json) |
+| [August 9 at 6:03 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-09T13:02:53.835821-05:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -421,16 +421,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 12 at 1:34 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-12T13:34:11.854412-05:00.accessibility.json) |
-| [August 12 at 1:18 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-12T13:18:20.661481-05:00.accessibility.json) |
-| [August 12 at 4:42 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-12T04:41:58.057081-05:00.accessibility.json) |
-| [August 11 at 2:03 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-11T14:03:48.310579-05:00.accessibility.json) |
-| [August 11 at 1:51 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-11T13:51:13.857962-05:00.accessibility.json) |
-| [August 11 at 12:21 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-11T00:21:22.713647-05:00.accessibility.json) |
-| [August 10 at 2:33 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-10T14:33:44.749808-05:00.accessibility.json) |
-| [August 10 at 1:17 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-10T13:17:11.810356-05:00.accessibility.json) |
-| [August 10 at 12:27 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-10T00:27:11.599227-05:00.accessibility.json) |
-| [August 9 at 1:02 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-09T13:02:53.835821-05:00.accessibility.json) |
+| [August 12 at 6:34 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-12T13:34:11.854412-05:00.accessibility.json) |
+| [August 12 at 6:18 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-12T13:18:20.661481-05:00.accessibility.json) |
+| [August 11 at 9:42 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-12T04:41:58.057081-05:00.accessibility.json) |
+| [August 11 at 7:03 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-11T14:03:48.310579-05:00.accessibility.json) |
+| [August 11 at 6:51 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-11T13:51:13.857962-05:00.accessibility.json) |
+| [August 10 at 5:21 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-11T00:21:22.713647-05:00.accessibility.json) |
+| [August 10 at 7:33 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-10T14:33:44.749808-05:00.accessibility.json) |
+| [August 10 at 6:17 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-10T13:17:11.810356-05:00.accessibility.json) |
+| [August 9 at 5:27 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-10T00:27:11.599227-05:00.accessibility.json) |
+| [August 9 at 6:02 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-09T13:02:53.835821-05:00.accessibility.json) |
 
 
 
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 12 at 1:34 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-12T13:34:11.854412-05:00.lighthouse.json) |
-| [August 12 at 1:19 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-12T13:18:20.661481-05:00.lighthouse.json) |
-| [August 12 at 4:42 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-12T04:41:58.057081-05:00.lighthouse.json) |
-| [August 11 at 2:03 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-11T14:03:48.310579-05:00.lighthouse.json) |
-| [August 11 at 1:51 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-11T13:51:13.857962-05:00.lighthouse.json) |
-| [August 11 at 12:21 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-11T00:21:22.713647-05:00.lighthouse.json) |
-| [August 10 at 2:33 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-10T14:33:44.749808-05:00.lighthouse.json) |
-| [August 10 at 1:17 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-10T13:17:11.810356-05:00.lighthouse.json) |
-| [August 10 at 12:27 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-10T00:27:11.599227-05:00.lighthouse.json) |
-| [August 9 at 1:03 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-09T13:02:53.835821-05:00.lighthouse.json) |
+| [August 12 at 6:34 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-12T13:34:11.854412-05:00.lighthouse.json) |
+| [August 12 at 6:19 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-12T13:18:20.661481-05:00.lighthouse.json) |
+| [August 11 at 9:42 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-12T04:41:58.057081-05:00.lighthouse.json) |
+| [August 11 at 7:03 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-11T14:03:48.310579-05:00.lighthouse.json) |
+| [August 11 at 6:51 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-11T13:51:13.857962-05:00.lighthouse.json) |
+| [August 10 at 5:21 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-11T00:21:22.713647-05:00.lighthouse.json) |
+| [August 10 at 7:33 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-10T14:33:44.749808-05:00.lighthouse.json) |
+| [August 10 at 6:17 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-10T13:17:11.810356-05:00.lighthouse.json) |
+| [August 9 at 5:27 PM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-10T00:27:11.599227-05:00.lighthouse.json) |
+| [August 9 at 6:03 AM](https://archive.org/download/pitchfork-2022/pitchfork-2022-08-09T13:02:53.835821-05:00.lighthouse.json) |
 
 
 

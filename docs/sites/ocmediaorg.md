@@ -116,109 +116,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-13T04:47:47.286757+04:00.jpg">
   <img src="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-13T04:47:47.286757+04:00.jpg"
-     alt="Open Caucasus Media at 2022-08-13 04:47:51+04:00 local time"
+     alt="Open Caucasus Media at 2022-08-12 21:47:51+04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-13T04:47:47.286757+04:00.jpg">August 13 at 4:47 AM</a></p>
+ <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-13T04:47:47.286757+04:00.jpg">August 12 at 9:47 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-12T17:27:16.432526+04:00.jpg">
   <img src="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-12T17:27:16.432526+04:00.jpg"
-     alt="Open Caucasus Media at 2022-08-12 17:27:18+04:00 local time"
+     alt="Open Caucasus Media at 2022-08-12 10:27:18+04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-12T17:27:16.432526+04:00.jpg">August 12 at 5:27 PM</a></p>
+ <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-12T17:27:16.432526+04:00.jpg">August 12 at 10:27 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-12T13:23:23.660955+04:00.jpg">
   <img src="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-12T13:23:23.660955+04:00.jpg"
-     alt="Open Caucasus Media at 2022-08-12 13:23:24+04:00 local time"
+     alt="Open Caucasus Media at 2022-08-12 06:23:24+04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-12T13:23:23.660955+04:00.jpg">August 12 at 1:23 PM</a></p>
+ <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-12T13:23:23.660955+04:00.jpg">August 12 at 6:23 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-11T17:46:01.088194+04:00.jpg">
   <img src="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-11T17:46:01.088194+04:00.jpg"
-     alt="Open Caucasus Media at 2022-08-11 17:46:02+04:00 local time"
+     alt="Open Caucasus Media at 2022-08-11 10:46:02+04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-11T17:46:01.088194+04:00.jpg">August 11 at 5:46 PM</a></p>
+ <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-11T17:46:01.088194+04:00.jpg">August 11 at 10:46 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-11T04:55:57.982409+04:00.jpg">
   <img src="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-11T04:55:57.982409+04:00.jpg"
-     alt="Open Caucasus Media at 2022-08-11 04:56:04+04:00 local time"
+     alt="Open Caucasus Media at 2022-08-10 21:56:04+04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-11T04:55:57.982409+04:00.jpg">August 11 at 4:56 AM</a></p>
+ <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-11T04:55:57.982409+04:00.jpg">August 10 at 9:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-10T17:14:13.546436+04:00.jpg">
   <img src="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-10T17:14:13.546436+04:00.jpg"
-     alt="Open Caucasus Media at 2022-08-10 17:14:18+04:00 local time"
+     alt="Open Caucasus Media at 2022-08-10 10:14:18+04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-10T17:14:13.546436+04:00.jpg">August 10 at 5:14 PM</a></p>
+ <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-10T17:14:13.546436+04:00.jpg">August 10 at 10:14 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-10T05:01:25.432107+04:00.jpg">
   <img src="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-10T05:01:25.432107+04:00.jpg"
-     alt="Open Caucasus Media at 2022-08-10 05:01:26+04:00 local time"
+     alt="Open Caucasus Media at 2022-08-09 22:01:26+04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-10T05:01:25.432107+04:00.jpg">August 10 at 5:01 AM</a></p>
+ <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-10T05:01:25.432107+04:00.jpg">August 9 at 10:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-09T17:00:37.016058+04:00.jpg">
   <img src="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-09T17:00:37.016058+04:00.jpg"
-     alt="Open Caucasus Media at 2022-08-09 17:00:49+04:00 local time"
+     alt="Open Caucasus Media at 2022-08-09 10:00:49+04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-09T17:00:37.016058+04:00.jpg">August 9 at 5:00 PM</a></p>
+ <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-09T17:00:37.016058+04:00.jpg">August 9 at 10:00 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-09T04:56:11.492717+04:00.jpg">
   <img src="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-09T04:56:11.492717+04:00.jpg"
-     alt="Open Caucasus Media at 2022-08-09 04:56:12+04:00 local time"
+     alt="Open Caucasus Media at 2022-08-08 21:56:12+04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-09T04:56:11.492717+04:00.jpg">August 9 at 4:56 AM</a></p>
+ <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-09T04:56:11.492717+04:00.jpg">August 8 at 9:56 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-08T16:48:03.800161+04:00.jpg">
   <img src="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-08T16:48:03.800161+04:00.jpg"
-     alt="Open Caucasus Media at 2022-08-08 16:48:09+04:00 local time"
+     alt="Open Caucasus Media at 2022-08-08 09:48:09+04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-08T16:48:03.800161+04:00.jpg">August 8 at 4:48 PM</a></p>
+ <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-08T16:48:03.800161+04:00.jpg">August 8 at 9:48 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-08T05:05:29.619719+04:00.jpg">
   <img src="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-08T05:05:29.619719+04:00.jpg"
-     alt="Open Caucasus Media at 2022-08-08 05:05:31+04:00 local time"
+     alt="Open Caucasus Media at 2022-08-07 22:05:31+04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-08T05:05:29.619719+04:00.jpg">August 8 at 5:05 AM</a></p>
+ <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-08T05:05:29.619719+04:00.jpg">August 7 at 10:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-07T16:42:57.821132+04:00.jpg">
   <img src="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-07T16:42:57.821132+04:00.jpg"
-     alt="Open Caucasus Media at 2022-08-07 16:42:59+04:00 local time"
+     alt="Open Caucasus Media at 2022-08-07 09:42:59+04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-07T16:42:57.821132+04:00.jpg">August 7 at 4:42 PM</a></p>
+ <p><a href="https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-07T16:42:57.821132+04:00.jpg">August 7 at 9:42 AM</a></p>
 </div>
 
 </div>
@@ -316,16 +316,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 13 at 4:47 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-13T04:47:47.286757+04:00.hyperlinks.json) |
-| [August 12 at 5:27 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-12T17:27:16.432526+04:00.hyperlinks.json) |
-| [August 12 at 1:23 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-12T13:23:23.660955+04:00.hyperlinks.json) |
-| [August 11 at 5:46 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-11T17:46:01.088194+04:00.hyperlinks.json) |
-| [August 11 at 4:56 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-11T04:55:57.982409+04:00.hyperlinks.json) |
-| [August 10 at 5:14 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-10T17:14:13.546436+04:00.hyperlinks.json) |
-| [August 10 at 5:01 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-10T05:01:25.432107+04:00.hyperlinks.json) |
-| [August 9 at 5:00 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-09T17:00:37.016058+04:00.hyperlinks.json) |
-| [August 9 at 4:56 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-09T04:56:11.492717+04:00.hyperlinks.json) |
-| [August 8 at 4:48 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-08T16:48:03.800161+04:00.hyperlinks.json) |
+| [August 12 at 9:47 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-13T04:47:47.286757+04:00.hyperlinks.json) |
+| [August 12 at 10:27 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-12T17:27:16.432526+04:00.hyperlinks.json) |
+| [August 12 at 6:23 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-12T13:23:23.660955+04:00.hyperlinks.json) |
+| [August 11 at 10:46 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-11T17:46:01.088194+04:00.hyperlinks.json) |
+| [August 10 at 9:56 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-11T04:55:57.982409+04:00.hyperlinks.json) |
+| [August 10 at 10:14 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-10T17:14:13.546436+04:00.hyperlinks.json) |
+| [August 9 at 10:01 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-10T05:01:25.432107+04:00.hyperlinks.json) |
+| [August 9 at 10:00 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-09T17:00:37.016058+04:00.hyperlinks.json) |
+| [August 8 at 9:56 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-09T04:56:11.492717+04:00.hyperlinks.json) |
+| [August 8 at 9:48 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-08T16:48:03.800161+04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -421,16 +421,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 13 at 4:47 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-13T04:47:47.286757+04:00.accessibility.json) |
-| [August 12 at 5:27 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-12T17:27:16.432526+04:00.accessibility.json) |
-| [August 12 at 1:23 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-12T13:23:23.660955+04:00.accessibility.json) |
-| [August 11 at 5:46 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-11T17:46:01.088194+04:00.accessibility.json) |
-| [August 11 at 4:56 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-11T04:55:57.982409+04:00.accessibility.json) |
-| [August 10 at 5:14 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-10T17:14:13.546436+04:00.accessibility.json) |
-| [August 10 at 5:01 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-10T05:01:25.432107+04:00.accessibility.json) |
-| [August 9 at 5:00 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-09T17:00:37.016058+04:00.accessibility.json) |
-| [August 9 at 4:56 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-09T04:56:11.492717+04:00.accessibility.json) |
-| [August 8 at 4:48 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-08T16:48:03.800161+04:00.accessibility.json) |
+| [August 12 at 9:47 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-13T04:47:47.286757+04:00.accessibility.json) |
+| [August 12 at 10:27 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-12T17:27:16.432526+04:00.accessibility.json) |
+| [August 12 at 6:23 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-12T13:23:23.660955+04:00.accessibility.json) |
+| [August 11 at 10:46 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-11T17:46:01.088194+04:00.accessibility.json) |
+| [August 10 at 9:56 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-11T04:55:57.982409+04:00.accessibility.json) |
+| [August 10 at 10:14 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-10T17:14:13.546436+04:00.accessibility.json) |
+| [August 9 at 10:01 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-10T05:01:25.432107+04:00.accessibility.json) |
+| [August 9 at 10:00 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-09T17:00:37.016058+04:00.accessibility.json) |
+| [August 8 at 9:56 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-09T04:56:11.492717+04:00.accessibility.json) |
+| [August 8 at 9:48 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-08T16:48:03.800161+04:00.accessibility.json) |
 
 
 
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 13 at 4:47 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-13T04:47:47.286757+04:00.lighthouse.json) |
-| [August 12 at 5:27 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-12T17:27:16.432526+04:00.lighthouse.json) |
-| [August 12 at 1:23 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-12T13:23:23.660955+04:00.lighthouse.json) |
-| [August 11 at 5:46 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-11T17:46:01.088194+04:00.lighthouse.json) |
-| [August 11 at 4:56 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-11T04:55:57.982409+04:00.lighthouse.json) |
-| [August 10 at 5:14 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-10T17:14:13.546436+04:00.lighthouse.json) |
-| [August 10 at 5:01 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-10T05:01:25.432107+04:00.lighthouse.json) |
-| [August 9 at 5:00 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-09T17:00:37.016058+04:00.lighthouse.json) |
-| [August 9 at 4:56 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-09T04:56:11.492717+04:00.lighthouse.json) |
-| [August 8 at 4:48 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-08T16:48:03.800161+04:00.lighthouse.json) |
+| [August 12 at 9:47 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-13T04:47:47.286757+04:00.lighthouse.json) |
+| [August 12 at 10:27 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-12T17:27:16.432526+04:00.lighthouse.json) |
+| [August 12 at 6:23 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-12T13:23:23.660955+04:00.lighthouse.json) |
+| [August 11 at 10:46 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-11T17:46:01.088194+04:00.lighthouse.json) |
+| [August 10 at 9:56 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-11T04:55:57.982409+04:00.lighthouse.json) |
+| [August 10 at 10:14 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-10T17:14:13.546436+04:00.lighthouse.json) |
+| [August 9 at 10:01 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-10T05:01:25.432107+04:00.lighthouse.json) |
+| [August 9 at 10:00 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-09T17:00:37.016058+04:00.lighthouse.json) |
+| [August 8 at 9:56 PM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-09T04:56:11.492717+04:00.lighthouse.json) |
+| [August 8 at 9:48 AM](https://archive.org/download/ocmediaorg-2022/ocmediaorg-2022-08-08T16:48:03.800161+04:00.lighthouse.json) |
 
 
 

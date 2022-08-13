@@ -116,109 +116,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/rawstory-2022/rawstory-2022-08-12T20:49:08.889247-04:00.jpg">
   <img src="https://archive.org/download/rawstory-2022/rawstory-2022-08-12T20:49:08.889247-04:00.jpg"
-     alt="Raw Story at 2022-08-12 20:49:12-04:00 local time"
+     alt="Raw Story at 2022-08-12 13:49:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rawstory-2022/rawstory-2022-08-12T20:49:08.889247-04:00.jpg">August 12 at 8:49 PM</a></p>
+ <p><a href="https://archive.org/download/rawstory-2022/rawstory-2022-08-12T20:49:08.889247-04:00.jpg">August 12 at 1:49 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rawstory-2022/rawstory-2022-08-12T15:16:58.760205-04:00.jpg">
   <img src="https://archive.org/download/rawstory-2022/rawstory-2022-08-12T15:16:58.760205-04:00.jpg"
-     alt="Raw Story at 2022-08-12 15:17:02-04:00 local time"
+     alt="Raw Story at 2022-08-12 08:17:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rawstory-2022/rawstory-2022-08-12T15:16:58.760205-04:00.jpg">August 12 at 3:17 PM</a></p>
+ <p><a href="https://archive.org/download/rawstory-2022/rawstory-2022-08-12T15:16:58.760205-04:00.jpg">August 12 at 8:17 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rawstory-2022/rawstory-2022-08-12T09:29:47.782413-04:00.jpg">
   <img src="https://archive.org/download/rawstory-2022/rawstory-2022-08-12T09:29:47.782413-04:00.jpg"
-     alt="Raw Story at 2022-08-12 09:29:49-04:00 local time"
+     alt="Raw Story at 2022-08-12 02:29:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rawstory-2022/rawstory-2022-08-12T09:29:47.782413-04:00.jpg">August 12 at 9:29 AM</a></p>
+ <p><a href="https://archive.org/download/rawstory-2022/rawstory-2022-08-12T09:29:47.782413-04:00.jpg">August 12 at 2:29 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rawstory-2022/rawstory-2022-08-12T05:25:05.401858-04:00.jpg">
   <img src="https://archive.org/download/rawstory-2022/rawstory-2022-08-12T05:25:05.401858-04:00.jpg"
-     alt="Raw Story at 2022-08-12 05:25:08-04:00 local time"
+     alt="Raw Story at 2022-08-11 22:25:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rawstory-2022/rawstory-2022-08-12T05:25:05.401858-04:00.jpg">August 12 at 5:25 AM</a></p>
+ <p><a href="https://archive.org/download/rawstory-2022/rawstory-2022-08-12T05:25:05.401858-04:00.jpg">August 11 at 10:25 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rawstory-2022/rawstory-2022-08-11T15:43:00.348337-04:00.jpg">
   <img src="https://archive.org/download/rawstory-2022/rawstory-2022-08-11T15:43:00.348337-04:00.jpg"
-     alt="Raw Story at 2022-08-11 15:43:03-04:00 local time"
+     alt="Raw Story at 2022-08-11 08:43:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rawstory-2022/rawstory-2022-08-11T15:43:00.348337-04:00.jpg">August 11 at 3:43 PM</a></p>
+ <p><a href="https://archive.org/download/rawstory-2022/rawstory-2022-08-11T15:43:00.348337-04:00.jpg">August 11 at 8:43 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rawstory-2022/rawstory-2022-08-11T09:48:43.435736-04:00.jpg">
   <img src="https://archive.org/download/rawstory-2022/rawstory-2022-08-11T09:48:43.435736-04:00.jpg"
-     alt="Raw Story at 2022-08-11 09:48:44-04:00 local time"
+     alt="Raw Story at 2022-08-11 02:48:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rawstory-2022/rawstory-2022-08-11T09:48:43.435736-04:00.jpg">August 11 at 9:48 AM</a></p>
+ <p><a href="https://archive.org/download/rawstory-2022/rawstory-2022-08-11T09:48:43.435736-04:00.jpg">August 11 at 2:48 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rawstory-2022/rawstory-2022-08-10T20:58:44.202771-04:00.jpg">
   <img src="https://archive.org/download/rawstory-2022/rawstory-2022-08-10T20:58:44.202771-04:00.jpg"
-     alt="Raw Story at 2022-08-10 20:58:45-04:00 local time"
+     alt="Raw Story at 2022-08-10 13:58:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rawstory-2022/rawstory-2022-08-10T20:58:44.202771-04:00.jpg">August 10 at 8:58 PM</a></p>
+ <p><a href="https://archive.org/download/rawstory-2022/rawstory-2022-08-10T20:58:44.202771-04:00.jpg">August 10 at 1:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rawstory-2022/rawstory-2022-08-10T15:40:27.717061-04:00.jpg">
   <img src="https://archive.org/download/rawstory-2022/rawstory-2022-08-10T15:40:27.717061-04:00.jpg"
-     alt="Raw Story at 2022-08-10 15:40:29-04:00 local time"
+     alt="Raw Story at 2022-08-10 08:40:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rawstory-2022/rawstory-2022-08-10T15:40:27.717061-04:00.jpg">August 10 at 3:40 PM</a></p>
+ <p><a href="https://archive.org/download/rawstory-2022/rawstory-2022-08-10T15:40:27.717061-04:00.jpg">August 10 at 8:40 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rawstory-2022/rawstory-2022-08-10T09:16:50.876962-04:00.jpg">
   <img src="https://archive.org/download/rawstory-2022/rawstory-2022-08-10T09:16:50.876962-04:00.jpg"
-     alt="Raw Story at 2022-08-10 09:16:54-04:00 local time"
+     alt="Raw Story at 2022-08-10 02:16:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rawstory-2022/rawstory-2022-08-10T09:16:50.876962-04:00.jpg">August 10 at 9:16 AM</a></p>
+ <p><a href="https://archive.org/download/rawstory-2022/rawstory-2022-08-10T09:16:50.876962-04:00.jpg">August 10 at 2:16 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rawstory-2022/rawstory-2022-08-09T21:04:13.294931-04:00.jpg">
   <img src="https://archive.org/download/rawstory-2022/rawstory-2022-08-09T21:04:13.294931-04:00.jpg"
-     alt="Raw Story at 2022-08-09 21:04:14-04:00 local time"
+     alt="Raw Story at 2022-08-09 14:04:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rawstory-2022/rawstory-2022-08-09T21:04:13.294931-04:00.jpg">August 9 at 9:04 PM</a></p>
+ <p><a href="https://archive.org/download/rawstory-2022/rawstory-2022-08-09T21:04:13.294931-04:00.jpg">August 9 at 2:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rawstory-2022/rawstory-2022-08-09T14:46:26.637895-04:00.jpg">
   <img src="https://archive.org/download/rawstory-2022/rawstory-2022-08-09T14:46:26.637895-04:00.jpg"
-     alt="Raw Story at 2022-08-09 14:46:30-04:00 local time"
+     alt="Raw Story at 2022-08-09 07:46:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rawstory-2022/rawstory-2022-08-09T14:46:26.637895-04:00.jpg">August 9 at 2:46 PM</a></p>
+ <p><a href="https://archive.org/download/rawstory-2022/rawstory-2022-08-09T14:46:26.637895-04:00.jpg">August 9 at 7:46 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rawstory-2022/rawstory-2022-08-09T09:02:55.191212-04:00.jpg">
   <img src="https://archive.org/download/rawstory-2022/rawstory-2022-08-09T09:02:55.191212-04:00.jpg"
-     alt="Raw Story at 2022-08-09 09:03:01-04:00 local time"
+     alt="Raw Story at 2022-08-09 02:03:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rawstory-2022/rawstory-2022-08-09T09:02:55.191212-04:00.jpg">August 9 at 9:03 AM</a></p>
+ <p><a href="https://archive.org/download/rawstory-2022/rawstory-2022-08-09T09:02:55.191212-04:00.jpg">August 9 at 2:03 AM</a></p>
 </div>
 
 </div>
@@ -316,16 +316,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 12 at 8:49 PM](https://archive.org/download/rawstory-2022/rawstory-2022-08-12T20:49:08.889247-04:00.hyperlinks.json) |
-| [August 12 at 3:17 PM](https://archive.org/download/rawstory-2022/rawstory-2022-08-12T15:16:58.760205-04:00.hyperlinks.json) |
-| [August 12 at 9:29 AM](https://archive.org/download/rawstory-2022/rawstory-2022-08-12T09:29:47.782413-04:00.hyperlinks.json) |
-| [August 12 at 5:25 AM](https://archive.org/download/rawstory-2022/rawstory-2022-08-12T05:25:05.401858-04:00.hyperlinks.json) |
-| [August 11 at 3:43 PM](https://archive.org/download/rawstory-2022/rawstory-2022-08-11T15:43:00.348337-04:00.hyperlinks.json) |
-| [August 11 at 9:48 AM](https://archive.org/download/rawstory-2022/rawstory-2022-08-11T09:48:43.435736-04:00.hyperlinks.json) |
-| [August 10 at 8:58 PM](https://archive.org/download/rawstory-2022/rawstory-2022-08-10T20:58:44.202771-04:00.hyperlinks.json) |
-| [August 10 at 3:40 PM](https://archive.org/download/rawstory-2022/rawstory-2022-08-10T15:40:27.717061-04:00.hyperlinks.json) |
-| [August 10 at 9:16 AM](https://archive.org/download/rawstory-2022/rawstory-2022-08-10T09:16:50.876962-04:00.hyperlinks.json) |
-| [August 9 at 9:04 PM](https://archive.org/download/rawstory-2022/rawstory-2022-08-09T21:04:13.294931-04:00.hyperlinks.json) |
+| [August 12 at 1:49 PM](https://archive.org/download/rawstory-2022/rawstory-2022-08-12T20:49:08.889247-04:00.hyperlinks.json) |
+| [August 12 at 8:17 AM](https://archive.org/download/rawstory-2022/rawstory-2022-08-12T15:16:58.760205-04:00.hyperlinks.json) |
+| [August 12 at 2:29 AM](https://archive.org/download/rawstory-2022/rawstory-2022-08-12T09:29:47.782413-04:00.hyperlinks.json) |
+| [August 11 at 10:25 PM](https://archive.org/download/rawstory-2022/rawstory-2022-08-12T05:25:05.401858-04:00.hyperlinks.json) |
+| [August 11 at 8:43 AM](https://archive.org/download/rawstory-2022/rawstory-2022-08-11T15:43:00.348337-04:00.hyperlinks.json) |
+| [August 11 at 2:48 AM](https://archive.org/download/rawstory-2022/rawstory-2022-08-11T09:48:43.435736-04:00.hyperlinks.json) |
+| [August 10 at 1:58 PM](https://archive.org/download/rawstory-2022/rawstory-2022-08-10T20:58:44.202771-04:00.hyperlinks.json) |
+| [August 10 at 8:40 AM](https://archive.org/download/rawstory-2022/rawstory-2022-08-10T15:40:27.717061-04:00.hyperlinks.json) |
+| [August 10 at 2:16 AM](https://archive.org/download/rawstory-2022/rawstory-2022-08-10T09:16:50.876962-04:00.hyperlinks.json) |
+| [August 9 at 2:04 PM](https://archive.org/download/rawstory-2022/rawstory-2022-08-09T21:04:13.294931-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -421,16 +421,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 12 at 3:17 PM](https://archive.org/download/rawstory-2022/rawstory-2022-08-12T15:16:58.760205-04:00.accessibility.json) |
-| [August 12 at 9:29 AM](https://archive.org/download/rawstory-2022/rawstory-2022-08-12T09:29:47.782413-04:00.accessibility.json) |
-| [August 12 at 5:25 AM](https://archive.org/download/rawstory-2022/rawstory-2022-08-12T05:25:05.401858-04:00.accessibility.json) |
-| [August 11 at 9:48 AM](https://archive.org/download/rawstory-2022/rawstory-2022-08-11T09:48:43.435736-04:00.accessibility.json) |
-| [August 10 at 8:58 PM](https://archive.org/download/rawstory-2022/rawstory-2022-08-10T20:58:44.202771-04:00.accessibility.json) |
-| [August 10 at 3:40 PM](https://archive.org/download/rawstory-2022/rawstory-2022-08-10T15:40:27.717061-04:00.accessibility.json) |
-| [August 10 at 9:16 AM](https://archive.org/download/rawstory-2022/rawstory-2022-08-10T09:16:50.876962-04:00.accessibility.json) |
-| [August 9 at 9:04 PM](https://archive.org/download/rawstory-2022/rawstory-2022-08-09T21:04:13.294931-04:00.accessibility.json) |
-| [August 9 at 2:46 PM](https://archive.org/download/rawstory-2022/rawstory-2022-08-09T14:46:26.637895-04:00.accessibility.json) |
-| [August 9 at 9:03 AM](https://archive.org/download/rawstory-2022/rawstory-2022-08-09T09:02:55.191212-04:00.accessibility.json) |
+| [August 12 at 8:17 AM](https://archive.org/download/rawstory-2022/rawstory-2022-08-12T15:16:58.760205-04:00.accessibility.json) |
+| [August 12 at 2:29 AM](https://archive.org/download/rawstory-2022/rawstory-2022-08-12T09:29:47.782413-04:00.accessibility.json) |
+| [August 11 at 10:25 PM](https://archive.org/download/rawstory-2022/rawstory-2022-08-12T05:25:05.401858-04:00.accessibility.json) |
+| [August 11 at 2:48 AM](https://archive.org/download/rawstory-2022/rawstory-2022-08-11T09:48:43.435736-04:00.accessibility.json) |
+| [August 10 at 1:58 PM](https://archive.org/download/rawstory-2022/rawstory-2022-08-10T20:58:44.202771-04:00.accessibility.json) |
+| [August 10 at 8:40 AM](https://archive.org/download/rawstory-2022/rawstory-2022-08-10T15:40:27.717061-04:00.accessibility.json) |
+| [August 10 at 2:16 AM](https://archive.org/download/rawstory-2022/rawstory-2022-08-10T09:16:50.876962-04:00.accessibility.json) |
+| [August 9 at 2:04 PM](https://archive.org/download/rawstory-2022/rawstory-2022-08-09T21:04:13.294931-04:00.accessibility.json) |
+| [August 9 at 7:46 AM](https://archive.org/download/rawstory-2022/rawstory-2022-08-09T14:46:26.637895-04:00.accessibility.json) |
+| [August 9 at 2:03 AM](https://archive.org/download/rawstory-2022/rawstory-2022-08-09T09:02:55.191212-04:00.accessibility.json) |
 
 
 
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 12 at 8:49 PM](https://archive.org/download/rawstory-2022/rawstory-2022-08-12T20:49:08.889247-04:00.lighthouse.json) |
-| [August 12 at 3:17 PM](https://archive.org/download/rawstory-2022/rawstory-2022-08-12T15:16:58.760205-04:00.lighthouse.json) |
-| [August 12 at 9:29 AM](https://archive.org/download/rawstory-2022/rawstory-2022-08-12T09:29:47.782413-04:00.lighthouse.json) |
-| [August 12 at 5:25 AM](https://archive.org/download/rawstory-2022/rawstory-2022-08-12T05:25:05.401858-04:00.lighthouse.json) |
-| [August 11 at 3:43 PM](https://archive.org/download/rawstory-2022/rawstory-2022-08-11T15:43:00.348337-04:00.lighthouse.json) |
-| [August 11 at 9:48 AM](https://archive.org/download/rawstory-2022/rawstory-2022-08-11T09:48:43.435736-04:00.lighthouse.json) |
-| [August 10 at 8:58 PM](https://archive.org/download/rawstory-2022/rawstory-2022-08-10T20:58:44.202771-04:00.lighthouse.json) |
-| [August 10 at 3:40 PM](https://archive.org/download/rawstory-2022/rawstory-2022-08-10T15:40:27.717061-04:00.lighthouse.json) |
-| [August 10 at 9:16 AM](https://archive.org/download/rawstory-2022/rawstory-2022-08-10T09:16:50.876962-04:00.lighthouse.json) |
-| [August 9 at 9:04 PM](https://archive.org/download/rawstory-2022/rawstory-2022-08-09T21:04:13.294931-04:00.lighthouse.json) |
+| [August 12 at 1:49 PM](https://archive.org/download/rawstory-2022/rawstory-2022-08-12T20:49:08.889247-04:00.lighthouse.json) |
+| [August 12 at 8:17 AM](https://archive.org/download/rawstory-2022/rawstory-2022-08-12T15:16:58.760205-04:00.lighthouse.json) |
+| [August 12 at 2:29 AM](https://archive.org/download/rawstory-2022/rawstory-2022-08-12T09:29:47.782413-04:00.lighthouse.json) |
+| [August 11 at 10:25 PM](https://archive.org/download/rawstory-2022/rawstory-2022-08-12T05:25:05.401858-04:00.lighthouse.json) |
+| [August 11 at 8:43 AM](https://archive.org/download/rawstory-2022/rawstory-2022-08-11T15:43:00.348337-04:00.lighthouse.json) |
+| [August 11 at 2:48 AM](https://archive.org/download/rawstory-2022/rawstory-2022-08-11T09:48:43.435736-04:00.lighthouse.json) |
+| [August 10 at 1:58 PM](https://archive.org/download/rawstory-2022/rawstory-2022-08-10T20:58:44.202771-04:00.lighthouse.json) |
+| [August 10 at 8:40 AM](https://archive.org/download/rawstory-2022/rawstory-2022-08-10T15:40:27.717061-04:00.lighthouse.json) |
+| [August 10 at 2:16 AM](https://archive.org/download/rawstory-2022/rawstory-2022-08-10T09:16:50.876962-04:00.lighthouse.json) |
+| [August 9 at 2:04 PM](https://archive.org/download/rawstory-2022/rawstory-2022-08-09T21:04:13.294931-04:00.lighthouse.json) |
 
 
 

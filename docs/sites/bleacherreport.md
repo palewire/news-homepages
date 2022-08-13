@@ -116,109 +116,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-12T20:26:28.264370-04:00.jpg">
   <img src="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-12T20:26:28.264370-04:00.jpg"
-     alt="Bleacher Report at 2022-08-12 20:26:31-04:00 local time"
+     alt="Bleacher Report at 2022-08-12 13:26:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-12T20:26:28.264370-04:00.jpg">August 12 at 8:26 PM</a></p>
+ <p><a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-12T20:26:28.264370-04:00.jpg">August 12 at 1:26 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-12T07:36:57.174793-04:00.jpg">
   <img src="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-12T07:36:57.174793-04:00.jpg"
-     alt="Bleacher Report at 2022-08-12 07:37:00-04:00 local time"
+     alt="Bleacher Report at 2022-08-12 00:37:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-12T07:36:57.174793-04:00.jpg">August 12 at 7:37 AM</a></p>
+ <p><a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-12T07:36:57.174793-04:00.jpg">August 12 at 12:37 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-11T19:19:40.919866-04:00.jpg">
   <img src="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-11T19:19:40.919866-04:00.jpg"
-     alt="Bleacher Report at 2022-08-11 19:19:49-04:00 local time"
+     alt="Bleacher Report at 2022-08-11 12:19:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-11T19:19:40.919866-04:00.jpg">August 11 at 7:19 PM</a></p>
+ <p><a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-11T19:19:40.919866-04:00.jpg">August 11 at 12:19 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-11T07:34:24.098433-04:00.jpg">
   <img src="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-11T07:34:24.098433-04:00.jpg"
-     alt="Bleacher Report at 2022-08-11 07:34:26-04:00 local time"
+     alt="Bleacher Report at 2022-08-11 00:34:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-11T07:34:24.098433-04:00.jpg">August 11 at 7:34 AM</a></p>
+ <p><a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-11T07:34:24.098433-04:00.jpg">August 11 at 12:34 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-10T20:37:33.910369-04:00.jpg">
   <img src="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-10T20:37:33.910369-04:00.jpg"
-     alt="Bleacher Report at 2022-08-10 20:37:37-04:00 local time"
+     alt="Bleacher Report at 2022-08-10 13:37:37-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-10T20:37:33.910369-04:00.jpg">August 10 at 8:37 PM</a></p>
+ <p><a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-10T20:37:33.910369-04:00.jpg">August 10 at 1:37 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-10T08:52:16.325789-04:00.jpg">
   <img src="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-10T08:52:16.325789-04:00.jpg"
-     alt="Bleacher Report at 2022-08-10 08:52:18-04:00 local time"
+     alt="Bleacher Report at 2022-08-10 01:52:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-10T08:52:16.325789-04:00.jpg">August 10 at 8:52 AM</a></p>
+ <p><a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-10T08:52:16.325789-04:00.jpg">August 10 at 1:52 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-09T19:22:53.049346-04:00.jpg">
   <img src="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-09T19:22:53.049346-04:00.jpg"
-     alt="Bleacher Report at 2022-08-09 19:22:58-04:00 local time"
+     alt="Bleacher Report at 2022-08-09 12:22:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-09T19:22:53.049346-04:00.jpg">August 9 at 7:22 PM</a></p>
+ <p><a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-09T19:22:53.049346-04:00.jpg">August 9 at 12:22 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-09T08:41:37.562393-04:00.jpg">
   <img src="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-09T08:41:37.562393-04:00.jpg"
-     alt="Bleacher Report at 2022-08-09 08:41:40-04:00 local time"
+     alt="Bleacher Report at 2022-08-09 01:41:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-09T08:41:37.562393-04:00.jpg">August 9 at 8:41 AM</a></p>
+ <p><a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-09T08:41:37.562393-04:00.jpg">August 9 at 1:41 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-08T20:34:01.474712-04:00.jpg">
   <img src="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-08T20:34:01.474712-04:00.jpg"
-     alt="Bleacher Report at 2022-08-08 20:34:04-04:00 local time"
+     alt="Bleacher Report at 2022-08-08 13:34:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-08T20:34:01.474712-04:00.jpg">August 8 at 8:34 PM</a></p>
+ <p><a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-08T20:34:01.474712-04:00.jpg">August 8 at 1:34 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-08T07:19:30.470867-04:00.jpg">
   <img src="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-08T07:19:30.470867-04:00.jpg"
-     alt="Bleacher Report at 2022-08-08 07:19:33-04:00 local time"
+     alt="Bleacher Report at 2022-08-08 00:19:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-08T07:19:30.470867-04:00.jpg">August 8 at 7:19 AM</a></p>
+ <p><a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-08T07:19:30.470867-04:00.jpg">August 8 at 12:19 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-07T20:41:21.596633-04:00.jpg">
   <img src="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-07T20:41:21.596633-04:00.jpg"
-     alt="Bleacher Report at 2022-08-07 20:41:24-04:00 local time"
+     alt="Bleacher Report at 2022-08-07 13:41:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-07T20:41:21.596633-04:00.jpg">August 7 at 8:41 PM</a></p>
+ <p><a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-07T20:41:21.596633-04:00.jpg">August 7 at 1:41 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-07T08:23:03.336629-04:00.jpg">
   <img src="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-07T08:23:03.336629-04:00.jpg"
-     alt="Bleacher Report at 2022-08-07 08:23:04-04:00 local time"
+     alt="Bleacher Report at 2022-08-07 01:23:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-07T08:23:03.336629-04:00.jpg">August 7 at 8:23 AM</a></p>
+ <p><a href="https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-07T08:23:03.336629-04:00.jpg">August 7 at 1:23 AM</a></p>
 </div>
 
 </div>
@@ -316,16 +316,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 12 at 8:26 PM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-12T20:26:28.264370-04:00.hyperlinks.json) |
-| [August 12 at 7:37 AM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-12T07:36:57.174793-04:00.hyperlinks.json) |
-| [August 11 at 7:19 PM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-11T19:19:40.919866-04:00.hyperlinks.json) |
-| [August 11 at 7:34 AM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-11T07:34:24.098433-04:00.hyperlinks.json) |
-| [August 10 at 8:37 PM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-10T20:37:33.910369-04:00.hyperlinks.json) |
-| [August 10 at 8:52 AM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-10T08:52:16.325789-04:00.hyperlinks.json) |
-| [August 9 at 7:23 PM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-09T19:22:53.049346-04:00.hyperlinks.json) |
-| [August 9 at 8:41 AM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-09T08:41:37.562393-04:00.hyperlinks.json) |
-| [August 8 at 8:34 PM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-08T20:34:01.474712-04:00.hyperlinks.json) |
-| [August 8 at 7:19 AM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-08T07:19:30.470867-04:00.hyperlinks.json) |
+| [August 12 at 1:26 PM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-12T20:26:28.264370-04:00.hyperlinks.json) |
+| [August 12 at 12:37 AM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-12T07:36:57.174793-04:00.hyperlinks.json) |
+| [August 11 at 12:19 PM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-11T19:19:40.919866-04:00.hyperlinks.json) |
+| [August 11 at 12:34 AM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-11T07:34:24.098433-04:00.hyperlinks.json) |
+| [August 10 at 1:37 PM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-10T20:37:33.910369-04:00.hyperlinks.json) |
+| [August 10 at 1:52 AM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-10T08:52:16.325789-04:00.hyperlinks.json) |
+| [August 9 at 12:23 PM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-09T19:22:53.049346-04:00.hyperlinks.json) |
+| [August 9 at 1:41 AM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-09T08:41:37.562393-04:00.hyperlinks.json) |
+| [August 8 at 1:34 PM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-08T20:34:01.474712-04:00.hyperlinks.json) |
+| [August 8 at 12:19 AM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-08T07:19:30.470867-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -421,16 +421,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 12 at 8:26 PM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-12T20:26:28.264370-04:00.accessibility.json) |
-| [August 12 at 7:37 AM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-12T07:36:57.174793-04:00.accessibility.json) |
-| [August 11 at 7:19 PM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-11T19:19:40.919866-04:00.accessibility.json) |
-| [August 11 at 7:34 AM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-11T07:34:24.098433-04:00.accessibility.json) |
-| [August 10 at 8:37 PM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-10T20:37:33.910369-04:00.accessibility.json) |
-| [August 10 at 8:52 AM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-10T08:52:16.325789-04:00.accessibility.json) |
-| [August 9 at 7:23 PM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-09T19:22:53.049346-04:00.accessibility.json) |
-| [August 9 at 8:41 AM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-09T08:41:37.562393-04:00.accessibility.json) |
-| [August 8 at 8:34 PM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-08T20:34:01.474712-04:00.accessibility.json) |
-| [August 8 at 7:19 AM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-08T07:19:30.470867-04:00.accessibility.json) |
+| [August 12 at 1:26 PM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-12T20:26:28.264370-04:00.accessibility.json) |
+| [August 12 at 12:37 AM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-12T07:36:57.174793-04:00.accessibility.json) |
+| [August 11 at 12:19 PM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-11T19:19:40.919866-04:00.accessibility.json) |
+| [August 11 at 12:34 AM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-11T07:34:24.098433-04:00.accessibility.json) |
+| [August 10 at 1:37 PM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-10T20:37:33.910369-04:00.accessibility.json) |
+| [August 10 at 1:52 AM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-10T08:52:16.325789-04:00.accessibility.json) |
+| [August 9 at 12:23 PM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-09T19:22:53.049346-04:00.accessibility.json) |
+| [August 9 at 1:41 AM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-09T08:41:37.562393-04:00.accessibility.json) |
+| [August 8 at 1:34 PM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-08T20:34:01.474712-04:00.accessibility.json) |
+| [August 8 at 12:19 AM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-08T07:19:30.470867-04:00.accessibility.json) |
 
 
 
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 12 at 8:26 PM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-12T20:26:28.264370-04:00.lighthouse.json) |
-| [August 12 at 7:37 AM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-12T07:36:57.174793-04:00.lighthouse.json) |
-| [August 11 at 7:19 PM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-11T19:19:40.919866-04:00.lighthouse.json) |
-| [August 11 at 7:34 AM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-11T07:34:24.098433-04:00.lighthouse.json) |
-| [August 10 at 8:37 PM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-10T20:37:33.910369-04:00.lighthouse.json) |
-| [August 10 at 8:52 AM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-10T08:52:16.325789-04:00.lighthouse.json) |
-| [August 9 at 7:23 PM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-09T19:22:53.049346-04:00.lighthouse.json) |
-| [August 9 at 8:41 AM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-09T08:41:37.562393-04:00.lighthouse.json) |
-| [August 8 at 8:34 PM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-08T20:34:01.474712-04:00.lighthouse.json) |
-| [August 8 at 7:19 AM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-08T07:19:30.470867-04:00.lighthouse.json) |
+| [August 12 at 1:26 PM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-12T20:26:28.264370-04:00.lighthouse.json) |
+| [August 12 at 12:37 AM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-12T07:36:57.174793-04:00.lighthouse.json) |
+| [August 11 at 12:19 PM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-11T19:19:40.919866-04:00.lighthouse.json) |
+| [August 11 at 12:34 AM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-11T07:34:24.098433-04:00.lighthouse.json) |
+| [August 10 at 1:37 PM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-10T20:37:33.910369-04:00.lighthouse.json) |
+| [August 10 at 1:52 AM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-10T08:52:16.325789-04:00.lighthouse.json) |
+| [August 9 at 12:23 PM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-09T19:22:53.049346-04:00.lighthouse.json) |
+| [August 9 at 1:41 AM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-09T08:41:37.562393-04:00.lighthouse.json) |
+| [August 8 at 1:34 PM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-08T20:34:01.474712-04:00.lighthouse.json) |
+| [August 8 at 12:19 AM](https://archive.org/download/bleacherreport-2022/bleacherreport-2022-08-08T07:19:30.470867-04:00.lighthouse.json) |
 
 
 

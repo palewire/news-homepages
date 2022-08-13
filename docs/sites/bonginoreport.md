@@ -116,109 +116,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-12T20:27:26.533183-04:00.jpg">
   <img src="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-12T20:27:26.533183-04:00.jpg"
-     alt="Bongino Report at 2022-08-12 20:27:30-04:00 local time"
+     alt="Bongino Report at 2022-08-12 13:27:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-12T20:27:26.533183-04:00.jpg">August 12 at 8:27 PM</a></p>
+ <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-12T20:27:26.533183-04:00.jpg">August 12 at 1:27 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-12T15:12:52.945402-04:00.jpg">
   <img src="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-12T15:12:52.945402-04:00.jpg"
-     alt="Bongino Report at 2022-08-12 15:12:58-04:00 local time"
+     alt="Bongino Report at 2022-08-12 08:12:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-12T15:12:52.945402-04:00.jpg">August 12 at 3:12 PM</a></p>
+ <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-12T15:12:52.945402-04:00.jpg">August 12 at 8:12 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-12T07:38:20.722306-04:00.jpg">
   <img src="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-12T07:38:20.722306-04:00.jpg"
-     alt="Bongino Report at 2022-08-12 07:38:26-04:00 local time"
+     alt="Bongino Report at 2022-08-12 00:38:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-12T07:38:20.722306-04:00.jpg">August 12 at 7:38 AM</a></p>
+ <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-12T07:38:20.722306-04:00.jpg">August 12 at 12:38 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-11T19:19:27.235713-04:00.jpg">
   <img src="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-11T19:19:27.235713-04:00.jpg"
-     alt="Bongino Report at 2022-08-11 19:19:29-04:00 local time"
+     alt="Bongino Report at 2022-08-11 12:19:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-11T19:19:27.235713-04:00.jpg">August 11 at 7:19 PM</a></p>
+ <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-11T19:19:27.235713-04:00.jpg">August 11 at 12:19 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-11T15:38:43.761271-04:00.jpg">
   <img src="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-11T15:38:43.761271-04:00.jpg"
-     alt="Bongino Report at 2022-08-11 15:38:45-04:00 local time"
+     alt="Bongino Report at 2022-08-11 08:38:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-11T15:38:43.761271-04:00.jpg">August 11 at 3:38 PM</a></p>
+ <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-11T15:38:43.761271-04:00.jpg">August 11 at 8:38 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-11T07:34:34.193440-04:00.jpg">
   <img src="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-11T07:34:34.193440-04:00.jpg"
-     alt="Bongino Report at 2022-08-11 07:34:45-04:00 local time"
+     alt="Bongino Report at 2022-08-11 00:34:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-11T07:34:34.193440-04:00.jpg">August 11 at 7:34 AM</a></p>
+ <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-11T07:34:34.193440-04:00.jpg">August 11 at 12:34 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-10T20:38:42.138436-04:00.jpg">
   <img src="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-10T20:38:42.138436-04:00.jpg"
-     alt="Bongino Report at 2022-08-10 20:38:44-04:00 local time"
+     alt="Bongino Report at 2022-08-10 13:38:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-10T20:38:42.138436-04:00.jpg">August 10 at 8:38 PM</a></p>
+ <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-10T20:38:42.138436-04:00.jpg">August 10 at 1:38 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-10T15:37:40.019648-04:00.jpg">
   <img src="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-10T15:37:40.019648-04:00.jpg"
-     alt="Bongino Report at 2022-08-10 15:37:57-04:00 local time"
+     alt="Bongino Report at 2022-08-10 08:37:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-10T15:37:40.019648-04:00.jpg">August 10 at 3:37 PM</a></p>
+ <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-10T15:37:40.019648-04:00.jpg">August 10 at 8:37 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-10T08:53:21.363714-04:00.jpg">
   <img src="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-10T08:53:21.363714-04:00.jpg"
-     alt="Bongino Report at 2022-08-10 08:53:35-04:00 local time"
+     alt="Bongino Report at 2022-08-10 01:53:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-10T08:53:21.363714-04:00.jpg">August 10 at 8:53 AM</a></p>
+ <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-10T08:53:21.363714-04:00.jpg">August 10 at 1:53 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-09T19:22:28.400156-04:00.jpg">
   <img src="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-09T19:22:28.400156-04:00.jpg"
-     alt="Bongino Report at 2022-08-09 19:22:30-04:00 local time"
+     alt="Bongino Report at 2022-08-09 12:22:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-09T19:22:28.400156-04:00.jpg">August 9 at 7:22 PM</a></p>
+ <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-09T19:22:28.400156-04:00.jpg">August 9 at 12:22 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-09T14:43:05.987786-04:00.jpg">
   <img src="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-09T14:43:05.987786-04:00.jpg"
-     alt="Bongino Report at 2022-08-09 14:43:08-04:00 local time"
+     alt="Bongino Report at 2022-08-09 07:43:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-09T14:43:05.987786-04:00.jpg">August 9 at 2:43 PM</a></p>
+ <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-09T14:43:05.987786-04:00.jpg">August 9 at 7:43 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-09T08:39:42.851779-04:00.jpg">
   <img src="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-09T08:39:42.851779-04:00.jpg"
-     alt="Bongino Report at 2022-08-09 08:39:46-04:00 local time"
+     alt="Bongino Report at 2022-08-09 01:39:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-09T08:39:42.851779-04:00.jpg">August 9 at 8:39 AM</a></p>
+ <p><a href="https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-09T08:39:42.851779-04:00.jpg">August 9 at 1:39 AM</a></p>
 </div>
 
 </div>
@@ -316,16 +316,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 12 at 8:27 PM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-12T20:27:26.533183-04:00.hyperlinks.json) |
-| [August 12 at 3:13 PM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-12T15:12:52.945402-04:00.hyperlinks.json) |
-| [August 12 at 7:38 AM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-12T07:38:20.722306-04:00.hyperlinks.json) |
-| [August 11 at 7:19 PM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-11T19:19:27.235713-04:00.hyperlinks.json) |
-| [August 11 at 3:38 PM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-11T15:38:43.761271-04:00.hyperlinks.json) |
-| [August 11 at 7:34 AM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-11T07:34:34.193440-04:00.hyperlinks.json) |
-| [August 10 at 8:38 PM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-10T20:38:42.138436-04:00.hyperlinks.json) |
-| [August 10 at 3:38 PM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-10T15:37:40.019648-04:00.hyperlinks.json) |
-| [August 9 at 7:22 PM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-09T19:22:28.400156-04:00.hyperlinks.json) |
-| [August 9 at 2:43 PM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-09T14:43:05.987786-04:00.hyperlinks.json) |
+| [August 12 at 1:27 PM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-12T20:27:26.533183-04:00.hyperlinks.json) |
+| [August 12 at 8:13 AM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-12T15:12:52.945402-04:00.hyperlinks.json) |
+| [August 12 at 12:38 AM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-12T07:38:20.722306-04:00.hyperlinks.json) |
+| [August 11 at 12:19 PM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-11T19:19:27.235713-04:00.hyperlinks.json) |
+| [August 11 at 8:38 AM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-11T15:38:43.761271-04:00.hyperlinks.json) |
+| [August 11 at 12:34 AM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-11T07:34:34.193440-04:00.hyperlinks.json) |
+| [August 10 at 1:38 PM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-10T20:38:42.138436-04:00.hyperlinks.json) |
+| [August 10 at 8:38 AM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-10T15:37:40.019648-04:00.hyperlinks.json) |
+| [August 9 at 12:22 PM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-09T19:22:28.400156-04:00.hyperlinks.json) |
+| [August 9 at 7:43 AM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-09T14:43:05.987786-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -421,16 +421,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 12 at 8:27 PM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-12T20:27:26.533183-04:00.accessibility.json) |
-| [August 12 at 3:12 PM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-12T15:12:52.945402-04:00.accessibility.json) |
-| [August 12 at 7:38 AM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-12T07:38:20.722306-04:00.accessibility.json) |
-| [August 11 at 7:19 PM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-11T19:19:27.235713-04:00.accessibility.json) |
-| [August 11 at 3:38 PM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-11T15:38:43.761271-04:00.accessibility.json) |
-| [August 11 at 7:34 AM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-11T07:34:34.193440-04:00.accessibility.json) |
-| [August 10 at 8:38 PM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-10T20:38:42.138436-04:00.accessibility.json) |
-| [August 10 at 3:37 PM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-10T15:37:40.019648-04:00.accessibility.json) |
-| [August 10 at 8:53 AM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-10T08:53:21.363714-04:00.accessibility.json) |
-| [August 9 at 7:22 PM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-09T19:22:28.400156-04:00.accessibility.json) |
+| [August 12 at 1:27 PM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-12T20:27:26.533183-04:00.accessibility.json) |
+| [August 12 at 8:12 AM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-12T15:12:52.945402-04:00.accessibility.json) |
+| [August 12 at 12:38 AM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-12T07:38:20.722306-04:00.accessibility.json) |
+| [August 11 at 12:19 PM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-11T19:19:27.235713-04:00.accessibility.json) |
+| [August 11 at 8:38 AM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-11T15:38:43.761271-04:00.accessibility.json) |
+| [August 11 at 12:34 AM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-11T07:34:34.193440-04:00.accessibility.json) |
+| [August 10 at 1:38 PM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-10T20:38:42.138436-04:00.accessibility.json) |
+| [August 10 at 8:37 AM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-10T15:37:40.019648-04:00.accessibility.json) |
+| [August 10 at 1:53 AM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-10T08:53:21.363714-04:00.accessibility.json) |
+| [August 9 at 12:22 PM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-09T19:22:28.400156-04:00.accessibility.json) |
 
 
 
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 12 at 8:27 PM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-12T20:27:26.533183-04:00.lighthouse.json) |
-| [August 12 at 3:13 PM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-12T15:12:52.945402-04:00.lighthouse.json) |
-| [August 12 at 7:38 AM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-12T07:38:20.722306-04:00.lighthouse.json) |
-| [August 11 at 7:19 PM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-11T19:19:27.235713-04:00.lighthouse.json) |
-| [August 11 at 3:38 PM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-11T15:38:43.761271-04:00.lighthouse.json) |
-| [August 11 at 7:34 AM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-11T07:34:34.193440-04:00.lighthouse.json) |
-| [August 10 at 8:38 PM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-10T20:38:42.138436-04:00.lighthouse.json) |
-| [August 10 at 3:38 PM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-10T15:37:40.019648-04:00.lighthouse.json) |
-| [August 10 at 8:53 AM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-10T08:53:21.363714-04:00.lighthouse.json) |
-| [August 9 at 7:22 PM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-09T19:22:28.400156-04:00.lighthouse.json) |
+| [August 12 at 1:27 PM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-12T20:27:26.533183-04:00.lighthouse.json) |
+| [August 12 at 8:13 AM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-12T15:12:52.945402-04:00.lighthouse.json) |
+| [August 12 at 12:38 AM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-12T07:38:20.722306-04:00.lighthouse.json) |
+| [August 11 at 12:19 PM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-11T19:19:27.235713-04:00.lighthouse.json) |
+| [August 11 at 8:38 AM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-11T15:38:43.761271-04:00.lighthouse.json) |
+| [August 11 at 12:34 AM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-11T07:34:34.193440-04:00.lighthouse.json) |
+| [August 10 at 1:38 PM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-10T20:38:42.138436-04:00.lighthouse.json) |
+| [August 10 at 8:38 AM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-10T15:37:40.019648-04:00.lighthouse.json) |
+| [August 10 at 1:53 AM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-10T08:53:21.363714-04:00.lighthouse.json) |
+| [August 9 at 12:22 PM](https://archive.org/download/bonginoreport-2022/bonginoreport-2022-08-09T19:22:28.400156-04:00.lighthouse.json) |
 
 
 

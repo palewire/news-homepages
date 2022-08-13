@@ -116,109 +116,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/bklyner-2022/bklyner-2022-08-12T12:18:43.936914-04:00.jpg">
   <img src="https://archive.org/download/bklyner-2022/bklyner-2022-08-12T12:18:43.936914-04:00.jpg"
-     alt="Bklyner at 2022-08-12 12:18:48-04:00 local time"
+     alt="Bklyner at 2022-08-12 05:18:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-08-12T12:18:43.936914-04:00.jpg">August 12 at 12:18 PM</a></p>
+ <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-08-12T12:18:43.936914-04:00.jpg">August 12 at 5:18 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bklyner-2022/bklyner-2022-08-12T05:30:02.607399-04:00.jpg">
   <img src="https://archive.org/download/bklyner-2022/bklyner-2022-08-12T05:30:02.607399-04:00.jpg"
-     alt="Bklyner at 2022-08-12 05:30:08-04:00 local time"
+     alt="Bklyner at 2022-08-11 22:30:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-08-12T05:30:02.607399-04:00.jpg">August 12 at 5:30 AM</a></p>
+ <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-08-12T05:30:02.607399-04:00.jpg">August 11 at 10:30 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bklyner-2022/bklyner-2022-08-11T13:01:44.256606-04:00.jpg">
   <img src="https://archive.org/download/bklyner-2022/bklyner-2022-08-11T13:01:44.256606-04:00.jpg"
-     alt="Bklyner at 2022-08-11 13:01:47-04:00 local time"
+     alt="Bklyner at 2022-08-11 06:01:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-08-11T13:01:44.256606-04:00.jpg">August 11 at 1:01 PM</a></p>
+ <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-08-11T13:01:44.256606-04:00.jpg">August 11 at 6:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bklyner-2022/bklyner-2022-08-10T22:22:36.853964-04:00.jpg">
   <img src="https://archive.org/download/bklyner-2022/bklyner-2022-08-10T22:22:36.853964-04:00.jpg"
-     alt="Bklyner at 2022-08-10 22:22:38-04:00 local time"
+     alt="Bklyner at 2022-08-10 15:22:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-08-10T22:22:36.853964-04:00.jpg">August 10 at 10:22 PM</a></p>
+ <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-08-10T22:22:36.853964-04:00.jpg">August 10 at 3:22 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bklyner-2022/bklyner-2022-08-10T13:43:55.563224-04:00.jpg">
   <img src="https://archive.org/download/bklyner-2022/bklyner-2022-08-10T13:43:55.563224-04:00.jpg"
-     alt="Bklyner at 2022-08-10 13:43:56-04:00 local time"
+     alt="Bklyner at 2022-08-10 06:43:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-08-10T13:43:55.563224-04:00.jpg">August 10 at 1:43 PM</a></p>
+ <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-08-10T13:43:55.563224-04:00.jpg">August 10 at 6:43 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bklyner-2022/bklyner-2022-08-09T22:31:52.322742-04:00.jpg">
   <img src="https://archive.org/download/bklyner-2022/bklyner-2022-08-09T22:31:52.322742-04:00.jpg"
-     alt="Bklyner at 2022-08-09 22:31:54-04:00 local time"
+     alt="Bklyner at 2022-08-09 15:31:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-08-09T22:31:52.322742-04:00.jpg">August 9 at 10:31 PM</a></p>
+ <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-08-09T22:31:52.322742-04:00.jpg">August 9 at 3:31 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bklyner-2022/bklyner-2022-08-09T10:32:54.649900-04:00.jpg">
   <img src="https://archive.org/download/bklyner-2022/bklyner-2022-08-09T10:32:54.649900-04:00.jpg"
-     alt="Bklyner at 2022-08-09 10:32:57-04:00 local time"
+     alt="Bklyner at 2022-08-09 03:32:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-08-09T10:32:54.649900-04:00.jpg">August 9 at 10:32 AM</a></p>
+ <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-08-09T10:32:54.649900-04:00.jpg">August 9 at 3:32 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bklyner-2022/bklyner-2022-08-08T22:20:38.716165-04:00.jpg">
   <img src="https://archive.org/download/bklyner-2022/bklyner-2022-08-08T22:20:38.716165-04:00.jpg"
-     alt="Bklyner at 2022-08-08 22:20:43-04:00 local time"
+     alt="Bklyner at 2022-08-08 15:20:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-08-08T22:20:38.716165-04:00.jpg">August 8 at 10:20 PM</a></p>
+ <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-08-08T22:20:38.716165-04:00.jpg">August 8 at 3:20 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bklyner-2022/bklyner-2022-08-08T10:16:38.253564-04:00.jpg">
   <img src="https://archive.org/download/bklyner-2022/bklyner-2022-08-08T10:16:38.253564-04:00.jpg"
-     alt="Bklyner at 2022-08-08 10:16:39-04:00 local time"
+     alt="Bklyner at 2022-08-08 03:16:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-08-08T10:16:38.253564-04:00.jpg">August 8 at 10:16 AM</a></p>
+ <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-08-08T10:16:38.253564-04:00.jpg">August 8 at 3:16 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bklyner-2022/bklyner-2022-08-07T22:29:46.377786-04:00.jpg">
   <img src="https://archive.org/download/bklyner-2022/bklyner-2022-08-07T22:29:46.377786-04:00.jpg"
-     alt="Bklyner at 2022-08-07 22:29:48-04:00 local time"
+     alt="Bklyner at 2022-08-07 15:29:48-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-08-07T22:29:46.377786-04:00.jpg">August 7 at 10:29 PM</a></p>
+ <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-08-07T22:29:46.377786-04:00.jpg">August 7 at 3:29 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bklyner-2022/bklyner-2022-08-07T10:01:51.037803-04:00.jpg">
   <img src="https://archive.org/download/bklyner-2022/bklyner-2022-08-07T10:01:51.037803-04:00.jpg"
-     alt="Bklyner at 2022-08-07 10:01:53-04:00 local time"
+     alt="Bklyner at 2022-08-07 03:01:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-08-07T10:01:51.037803-04:00.jpg">August 7 at 10:01 AM</a></p>
+ <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-08-07T10:01:51.037803-04:00.jpg">August 7 at 3:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bklyner-2022/bklyner-2022-08-06T23:06:39.140161-04:00.jpg">
   <img src="https://archive.org/download/bklyner-2022/bklyner-2022-08-06T23:06:39.140161-04:00.jpg"
-     alt="Bklyner at 2022-08-06 23:06:40-04:00 local time"
+     alt="Bklyner at 2022-08-06 16:06:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-08-06T23:06:39.140161-04:00.jpg">August 6 at 11:06 PM</a></p>
+ <p><a href="https://archive.org/download/bklyner-2022/bklyner-2022-08-06T23:06:39.140161-04:00.jpg">August 6 at 4:06 PM</a></p>
 </div>
 
 </div>
@@ -316,16 +316,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 12 at 12:18 PM](https://archive.org/download/bklyner-2022/bklyner-2022-08-12T12:18:43.936914-04:00.hyperlinks.json) |
-| [August 12 at 5:30 AM](https://archive.org/download/bklyner-2022/bklyner-2022-08-12T05:30:02.607399-04:00.hyperlinks.json) |
-| [August 11 at 10:02 PM](https://archive.org/download/bklyner-2022/bklyner-2022-08-11T22:02:21.626325-04:00.hyperlinks.json) |
-| [August 11 at 1:01 PM](https://archive.org/download/bklyner-2022/bklyner-2022-08-11T13:01:44.256606-04:00.hyperlinks.json) |
-| [August 10 at 10:22 PM](https://archive.org/download/bklyner-2022/bklyner-2022-08-10T22:22:36.853964-04:00.hyperlinks.json) |
-| [August 10 at 1:43 PM](https://archive.org/download/bklyner-2022/bklyner-2022-08-10T13:43:55.563224-04:00.hyperlinks.json) |
-| [August 9 at 10:31 PM](https://archive.org/download/bklyner-2022/bklyner-2022-08-09T22:31:52.322742-04:00.hyperlinks.json) |
-| [August 9 at 10:33 AM](https://archive.org/download/bklyner-2022/bklyner-2022-08-09T10:32:54.649900-04:00.hyperlinks.json) |
-| [August 8 at 10:20 PM](https://archive.org/download/bklyner-2022/bklyner-2022-08-08T22:20:38.716165-04:00.hyperlinks.json) |
-| [August 8 at 10:16 AM](https://archive.org/download/bklyner-2022/bklyner-2022-08-08T10:16:38.253564-04:00.hyperlinks.json) |
+| [August 12 at 5:18 AM](https://archive.org/download/bklyner-2022/bklyner-2022-08-12T12:18:43.936914-04:00.hyperlinks.json) |
+| [August 11 at 10:30 PM](https://archive.org/download/bklyner-2022/bklyner-2022-08-12T05:30:02.607399-04:00.hyperlinks.json) |
+| [August 11 at 3:02 PM](https://archive.org/download/bklyner-2022/bklyner-2022-08-11T22:02:21.626325-04:00.hyperlinks.json) |
+| [August 11 at 6:01 AM](https://archive.org/download/bklyner-2022/bklyner-2022-08-11T13:01:44.256606-04:00.hyperlinks.json) |
+| [August 10 at 3:22 PM](https://archive.org/download/bklyner-2022/bklyner-2022-08-10T22:22:36.853964-04:00.hyperlinks.json) |
+| [August 10 at 6:43 AM](https://archive.org/download/bklyner-2022/bklyner-2022-08-10T13:43:55.563224-04:00.hyperlinks.json) |
+| [August 9 at 3:31 PM](https://archive.org/download/bklyner-2022/bklyner-2022-08-09T22:31:52.322742-04:00.hyperlinks.json) |
+| [August 9 at 3:33 AM](https://archive.org/download/bklyner-2022/bklyner-2022-08-09T10:32:54.649900-04:00.hyperlinks.json) |
+| [August 8 at 3:20 PM](https://archive.org/download/bklyner-2022/bklyner-2022-08-08T22:20:38.716165-04:00.hyperlinks.json) |
+| [August 8 at 3:16 AM](https://archive.org/download/bklyner-2022/bklyner-2022-08-08T10:16:38.253564-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -421,16 +421,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 12 at 12:18 PM](https://archive.org/download/bklyner-2022/bklyner-2022-08-12T12:18:43.936914-04:00.accessibility.json) |
-| [August 12 at 5:30 AM](https://archive.org/download/bklyner-2022/bklyner-2022-08-12T05:30:02.607399-04:00.accessibility.json) |
-| [August 11 at 10:02 PM](https://archive.org/download/bklyner-2022/bklyner-2022-08-11T22:02:21.626325-04:00.accessibility.json) |
-| [August 11 at 1:01 PM](https://archive.org/download/bklyner-2022/bklyner-2022-08-11T13:01:44.256606-04:00.accessibility.json) |
-| [August 10 at 10:22 PM](https://archive.org/download/bklyner-2022/bklyner-2022-08-10T22:22:36.853964-04:00.accessibility.json) |
-| [August 10 at 1:43 PM](https://archive.org/download/bklyner-2022/bklyner-2022-08-10T13:43:55.563224-04:00.accessibility.json) |
-| [August 9 at 10:31 PM](https://archive.org/download/bklyner-2022/bklyner-2022-08-09T22:31:52.322742-04:00.accessibility.json) |
-| [August 9 at 10:32 AM](https://archive.org/download/bklyner-2022/bklyner-2022-08-09T10:32:54.649900-04:00.accessibility.json) |
-| [August 8 at 10:20 PM](https://archive.org/download/bklyner-2022/bklyner-2022-08-08T22:20:38.716165-04:00.accessibility.json) |
-| [August 8 at 10:16 AM](https://archive.org/download/bklyner-2022/bklyner-2022-08-08T10:16:38.253564-04:00.accessibility.json) |
+| [August 12 at 5:18 AM](https://archive.org/download/bklyner-2022/bklyner-2022-08-12T12:18:43.936914-04:00.accessibility.json) |
+| [August 11 at 10:30 PM](https://archive.org/download/bklyner-2022/bklyner-2022-08-12T05:30:02.607399-04:00.accessibility.json) |
+| [August 11 at 3:02 PM](https://archive.org/download/bklyner-2022/bklyner-2022-08-11T22:02:21.626325-04:00.accessibility.json) |
+| [August 11 at 6:01 AM](https://archive.org/download/bklyner-2022/bklyner-2022-08-11T13:01:44.256606-04:00.accessibility.json) |
+| [August 10 at 3:22 PM](https://archive.org/download/bklyner-2022/bklyner-2022-08-10T22:22:36.853964-04:00.accessibility.json) |
+| [August 10 at 6:43 AM](https://archive.org/download/bklyner-2022/bklyner-2022-08-10T13:43:55.563224-04:00.accessibility.json) |
+| [August 9 at 3:31 PM](https://archive.org/download/bklyner-2022/bklyner-2022-08-09T22:31:52.322742-04:00.accessibility.json) |
+| [August 9 at 3:32 AM](https://archive.org/download/bklyner-2022/bklyner-2022-08-09T10:32:54.649900-04:00.accessibility.json) |
+| [August 8 at 3:20 PM](https://archive.org/download/bklyner-2022/bklyner-2022-08-08T22:20:38.716165-04:00.accessibility.json) |
+| [August 8 at 3:16 AM](https://archive.org/download/bklyner-2022/bklyner-2022-08-08T10:16:38.253564-04:00.accessibility.json) |
 
 
 
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 12 at 12:18 PM](https://archive.org/download/bklyner-2022/bklyner-2022-08-12T12:18:43.936914-04:00.lighthouse.json) |
-| [August 12 at 5:30 AM](https://archive.org/download/bklyner-2022/bklyner-2022-08-12T05:30:02.607399-04:00.lighthouse.json) |
-| [August 11 at 10:02 PM](https://archive.org/download/bklyner-2022/bklyner-2022-08-11T22:02:21.626325-04:00.lighthouse.json) |
-| [August 11 at 1:01 PM](https://archive.org/download/bklyner-2022/bklyner-2022-08-11T13:01:44.256606-04:00.lighthouse.json) |
-| [August 10 at 10:22 PM](https://archive.org/download/bklyner-2022/bklyner-2022-08-10T22:22:36.853964-04:00.lighthouse.json) |
-| [August 10 at 1:44 PM](https://archive.org/download/bklyner-2022/bklyner-2022-08-10T13:43:55.563224-04:00.lighthouse.json) |
-| [August 9 at 10:31 PM](https://archive.org/download/bklyner-2022/bklyner-2022-08-09T22:31:52.322742-04:00.lighthouse.json) |
-| [August 9 at 10:33 AM](https://archive.org/download/bklyner-2022/bklyner-2022-08-09T10:32:54.649900-04:00.lighthouse.json) |
-| [August 8 at 10:20 PM](https://archive.org/download/bklyner-2022/bklyner-2022-08-08T22:20:38.716165-04:00.lighthouse.json) |
-| [August 8 at 10:16 AM](https://archive.org/download/bklyner-2022/bklyner-2022-08-08T10:16:38.253564-04:00.lighthouse.json) |
+| [August 12 at 5:18 AM](https://archive.org/download/bklyner-2022/bklyner-2022-08-12T12:18:43.936914-04:00.lighthouse.json) |
+| [August 11 at 10:30 PM](https://archive.org/download/bklyner-2022/bklyner-2022-08-12T05:30:02.607399-04:00.lighthouse.json) |
+| [August 11 at 3:02 PM](https://archive.org/download/bklyner-2022/bklyner-2022-08-11T22:02:21.626325-04:00.lighthouse.json) |
+| [August 11 at 6:01 AM](https://archive.org/download/bklyner-2022/bklyner-2022-08-11T13:01:44.256606-04:00.lighthouse.json) |
+| [August 10 at 3:22 PM](https://archive.org/download/bklyner-2022/bklyner-2022-08-10T22:22:36.853964-04:00.lighthouse.json) |
+| [August 10 at 6:44 AM](https://archive.org/download/bklyner-2022/bklyner-2022-08-10T13:43:55.563224-04:00.lighthouse.json) |
+| [August 9 at 3:31 PM](https://archive.org/download/bklyner-2022/bklyner-2022-08-09T22:31:52.322742-04:00.lighthouse.json) |
+| [August 9 at 3:33 AM](https://archive.org/download/bklyner-2022/bklyner-2022-08-09T10:32:54.649900-04:00.lighthouse.json) |
+| [August 8 at 3:20 PM](https://archive.org/download/bklyner-2022/bklyner-2022-08-08T22:20:38.716165-04:00.lighthouse.json) |
+| [August 8 at 3:16 AM](https://archive.org/download/bklyner-2022/bklyner-2022-08-08T10:16:38.253564-04:00.lighthouse.json) |
 
 
 

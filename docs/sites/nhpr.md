@@ -116,109 +116,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/nhpr-2022/nhpr-2022-08-12T13:57:28.047300-04:00.jpg">
   <img src="https://archive.org/download/nhpr-2022/nhpr-2022-08-12T13:57:28.047300-04:00.jpg"
-     alt="New Hampshire Public Radio at 2022-08-12 13:57:30-04:00 local time"
+     alt="New Hampshire Public Radio at 2022-08-12 06:57:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nhpr-2022/nhpr-2022-08-12T13:57:28.047300-04:00.jpg">August 12 at 1:57 PM</a></p>
+ <p><a href="https://archive.org/download/nhpr-2022/nhpr-2022-08-12T13:57:28.047300-04:00.jpg">August 12 at 6:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nhpr-2022/nhpr-2022-08-12T06:07:03.652164-04:00.jpg">
   <img src="https://archive.org/download/nhpr-2022/nhpr-2022-08-12T06:07:03.652164-04:00.jpg"
-     alt="New Hampshire Public Radio at 2022-08-12 06:07:06-04:00 local time"
+     alt="New Hampshire Public Radio at 2022-08-11 23:07:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nhpr-2022/nhpr-2022-08-12T06:07:03.652164-04:00.jpg">August 12 at 6:07 AM</a></p>
+ <p><a href="https://archive.org/download/nhpr-2022/nhpr-2022-08-12T06:07:03.652164-04:00.jpg">August 11 at 11:07 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nhpr-2022/nhpr-2022-08-11T14:48:20.525447-04:00.jpg">
   <img src="https://archive.org/download/nhpr-2022/nhpr-2022-08-11T14:48:20.525447-04:00.jpg"
-     alt="New Hampshire Public Radio at 2022-08-11 14:48:23-04:00 local time"
+     alt="New Hampshire Public Radio at 2022-08-11 07:48:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nhpr-2022/nhpr-2022-08-11T14:48:20.525447-04:00.jpg">August 11 at 2:48 PM</a></p>
+ <p><a href="https://archive.org/download/nhpr-2022/nhpr-2022-08-11T14:48:20.525447-04:00.jpg">August 11 at 7:48 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nhpr-2022/nhpr-2022-08-11T00:00:34.664659-04:00.jpg">
   <img src="https://archive.org/download/nhpr-2022/nhpr-2022-08-11T00:00:34.664659-04:00.jpg"
-     alt="New Hampshire Public Radio at 2022-08-11 00:00:40-04:00 local time"
+     alt="New Hampshire Public Radio at 2022-08-10 17:00:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nhpr-2022/nhpr-2022-08-11T00:00:34.664659-04:00.jpg">August 11 at 12:00 AM</a></p>
+ <p><a href="https://archive.org/download/nhpr-2022/nhpr-2022-08-11T00:00:34.664659-04:00.jpg">August 10 at 5:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nhpr-2022/nhpr-2022-08-10T14:13:33.306641-04:00.jpg">
   <img src="https://archive.org/download/nhpr-2022/nhpr-2022-08-10T14:13:33.306641-04:00.jpg"
-     alt="New Hampshire Public Radio at 2022-08-10 14:13:34-04:00 local time"
+     alt="New Hampshire Public Radio at 2022-08-10 07:13:34-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nhpr-2022/nhpr-2022-08-10T14:13:33.306641-04:00.jpg">August 10 at 2:13 PM</a></p>
+ <p><a href="https://archive.org/download/nhpr-2022/nhpr-2022-08-10T14:13:33.306641-04:00.jpg">August 10 at 7:13 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nhpr-2022/nhpr-2022-08-10T00:08:50.427571-04:00.jpg">
   <img src="https://archive.org/download/nhpr-2022/nhpr-2022-08-10T00:08:50.427571-04:00.jpg"
-     alt="New Hampshire Public Radio at 2022-08-10 00:08:52-04:00 local time"
+     alt="New Hampshire Public Radio at 2022-08-09 17:08:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nhpr-2022/nhpr-2022-08-10T00:08:50.427571-04:00.jpg">August 10 at 12:08 AM</a></p>
+ <p><a href="https://archive.org/download/nhpr-2022/nhpr-2022-08-10T00:08:50.427571-04:00.jpg">August 9 at 5:08 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nhpr-2022/nhpr-2022-08-09T13:33:55.872963-04:00.jpg">
   <img src="https://archive.org/download/nhpr-2022/nhpr-2022-08-09T13:33:55.872963-04:00.jpg"
-     alt="New Hampshire Public Radio at 2022-08-09 13:33:58-04:00 local time"
+     alt="New Hampshire Public Radio at 2022-08-09 06:33:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nhpr-2022/nhpr-2022-08-09T13:33:55.872963-04:00.jpg">August 9 at 1:33 PM</a></p>
+ <p><a href="https://archive.org/download/nhpr-2022/nhpr-2022-08-09T13:33:55.872963-04:00.jpg">August 9 at 6:33 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nhpr-2022/nhpr-2022-08-08T23:53:15.277195-04:00.jpg">
   <img src="https://archive.org/download/nhpr-2022/nhpr-2022-08-08T23:53:15.277195-04:00.jpg"
-     alt="New Hampshire Public Radio at 2022-08-08 23:53:17-04:00 local time"
+     alt="New Hampshire Public Radio at 2022-08-08 16:53:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nhpr-2022/nhpr-2022-08-08T23:53:15.277195-04:00.jpg">August 8 at 11:53 PM</a></p>
+ <p><a href="https://archive.org/download/nhpr-2022/nhpr-2022-08-08T23:53:15.277195-04:00.jpg">August 8 at 4:53 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nhpr-2022/nhpr-2022-08-08T13:10:58.267646-04:00.jpg">
   <img src="https://archive.org/download/nhpr-2022/nhpr-2022-08-08T13:10:58.267646-04:00.jpg"
-     alt="New Hampshire Public Radio at 2022-08-08 13:11:00-04:00 local time"
+     alt="New Hampshire Public Radio at 2022-08-08 06:11:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nhpr-2022/nhpr-2022-08-08T13:10:58.267646-04:00.jpg">August 8 at 1:11 PM</a></p>
+ <p><a href="https://archive.org/download/nhpr-2022/nhpr-2022-08-08T13:10:58.267646-04:00.jpg">August 8 at 6:11 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nhpr-2022/nhpr-2022-08-08T01:17:19.851829-04:00.jpg">
   <img src="https://archive.org/download/nhpr-2022/nhpr-2022-08-08T01:17:19.851829-04:00.jpg"
-     alt="New Hampshire Public Radio at 2022-08-08 01:17:22-04:00 local time"
+     alt="New Hampshire Public Radio at 2022-08-07 18:17:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nhpr-2022/nhpr-2022-08-08T01:17:19.851829-04:00.jpg">August 8 at 1:17 AM</a></p>
+ <p><a href="https://archive.org/download/nhpr-2022/nhpr-2022-08-08T01:17:19.851829-04:00.jpg">August 7 at 6:17 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nhpr-2022/nhpr-2022-08-07T12:57:30.353570-04:00.jpg">
   <img src="https://archive.org/download/nhpr-2022/nhpr-2022-08-07T12:57:30.353570-04:00.jpg"
-     alt="New Hampshire Public Radio at 2022-08-07 12:57:32-04:00 local time"
+     alt="New Hampshire Public Radio at 2022-08-07 05:57:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nhpr-2022/nhpr-2022-08-07T12:57:30.353570-04:00.jpg">August 7 at 12:57 PM</a></p>
+ <p><a href="https://archive.org/download/nhpr-2022/nhpr-2022-08-07T12:57:30.353570-04:00.jpg">August 7 at 5:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nhpr-2022/nhpr-2022-08-06T23:30:41.056317-04:00.jpg">
   <img src="https://archive.org/download/nhpr-2022/nhpr-2022-08-06T23:30:41.056317-04:00.jpg"
-     alt="New Hampshire Public Radio at 2022-08-06 23:30:43-04:00 local time"
+     alt="New Hampshire Public Radio at 2022-08-06 16:30:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/nhpr-2022/nhpr-2022-08-06T23:30:41.056317-04:00.jpg">August 6 at 11:30 PM</a></p>
+ <p><a href="https://archive.org/download/nhpr-2022/nhpr-2022-08-06T23:30:41.056317-04:00.jpg">August 6 at 4:30 PM</a></p>
 </div>
 
 </div>
@@ -316,16 +316,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 12 at 1:57 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-12T13:57:28.047300-04:00.hyperlinks.json) |
-| [August 12 at 6:07 AM](https://archive.org/download/nhpr-2022/nhpr-2022-08-12T06:07:03.652164-04:00.hyperlinks.json) |
-| [August 11 at 2:48 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-11T14:48:20.525447-04:00.hyperlinks.json) |
-| [August 11 at 12:00 AM](https://archive.org/download/nhpr-2022/nhpr-2022-08-11T00:00:34.664659-04:00.hyperlinks.json) |
-| [August 10 at 2:13 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-10T14:13:33.306641-04:00.hyperlinks.json) |
-| [August 10 at 12:08 AM](https://archive.org/download/nhpr-2022/nhpr-2022-08-10T00:08:50.427571-04:00.hyperlinks.json) |
-| [August 9 at 1:34 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-09T13:33:55.872963-04:00.hyperlinks.json) |
-| [August 8 at 11:53 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-08T23:53:15.277195-04:00.hyperlinks.json) |
-| [August 8 at 1:11 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-08T13:10:58.267646-04:00.hyperlinks.json) |
-| [August 8 at 1:17 AM](https://archive.org/download/nhpr-2022/nhpr-2022-08-08T01:17:19.851829-04:00.hyperlinks.json) |
+| [August 12 at 6:57 AM](https://archive.org/download/nhpr-2022/nhpr-2022-08-12T13:57:28.047300-04:00.hyperlinks.json) |
+| [August 11 at 11:07 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-12T06:07:03.652164-04:00.hyperlinks.json) |
+| [August 11 at 7:48 AM](https://archive.org/download/nhpr-2022/nhpr-2022-08-11T14:48:20.525447-04:00.hyperlinks.json) |
+| [August 10 at 5:00 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-11T00:00:34.664659-04:00.hyperlinks.json) |
+| [August 10 at 7:13 AM](https://archive.org/download/nhpr-2022/nhpr-2022-08-10T14:13:33.306641-04:00.hyperlinks.json) |
+| [August 9 at 5:08 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-10T00:08:50.427571-04:00.hyperlinks.json) |
+| [August 9 at 6:34 AM](https://archive.org/download/nhpr-2022/nhpr-2022-08-09T13:33:55.872963-04:00.hyperlinks.json) |
+| [August 8 at 4:53 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-08T23:53:15.277195-04:00.hyperlinks.json) |
+| [August 8 at 6:11 AM](https://archive.org/download/nhpr-2022/nhpr-2022-08-08T13:10:58.267646-04:00.hyperlinks.json) |
+| [August 7 at 6:17 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-08T01:17:19.851829-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -421,16 +421,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 12 at 1:57 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-12T13:57:28.047300-04:00.accessibility.json) |
-| [August 12 at 6:07 AM](https://archive.org/download/nhpr-2022/nhpr-2022-08-12T06:07:03.652164-04:00.accessibility.json) |
-| [August 11 at 2:48 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-11T14:48:20.525447-04:00.accessibility.json) |
-| [August 11 at 12:00 AM](https://archive.org/download/nhpr-2022/nhpr-2022-08-11T00:00:34.664659-04:00.accessibility.json) |
-| [August 10 at 2:13 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-10T14:13:33.306641-04:00.accessibility.json) |
-| [August 10 at 12:08 AM](https://archive.org/download/nhpr-2022/nhpr-2022-08-10T00:08:50.427571-04:00.accessibility.json) |
-| [August 9 at 1:34 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-09T13:33:55.872963-04:00.accessibility.json) |
-| [August 8 at 11:53 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-08T23:53:15.277195-04:00.accessibility.json) |
-| [August 8 at 1:11 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-08T13:10:58.267646-04:00.accessibility.json) |
-| [August 8 at 1:17 AM](https://archive.org/download/nhpr-2022/nhpr-2022-08-08T01:17:19.851829-04:00.accessibility.json) |
+| [August 12 at 6:57 AM](https://archive.org/download/nhpr-2022/nhpr-2022-08-12T13:57:28.047300-04:00.accessibility.json) |
+| [August 11 at 11:07 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-12T06:07:03.652164-04:00.accessibility.json) |
+| [August 11 at 7:48 AM](https://archive.org/download/nhpr-2022/nhpr-2022-08-11T14:48:20.525447-04:00.accessibility.json) |
+| [August 10 at 5:00 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-11T00:00:34.664659-04:00.accessibility.json) |
+| [August 10 at 7:13 AM](https://archive.org/download/nhpr-2022/nhpr-2022-08-10T14:13:33.306641-04:00.accessibility.json) |
+| [August 9 at 5:08 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-10T00:08:50.427571-04:00.accessibility.json) |
+| [August 9 at 6:34 AM](https://archive.org/download/nhpr-2022/nhpr-2022-08-09T13:33:55.872963-04:00.accessibility.json) |
+| [August 8 at 4:53 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-08T23:53:15.277195-04:00.accessibility.json) |
+| [August 8 at 6:11 AM](https://archive.org/download/nhpr-2022/nhpr-2022-08-08T13:10:58.267646-04:00.accessibility.json) |
+| [August 7 at 6:17 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-08T01:17:19.851829-04:00.accessibility.json) |
 
 
 
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 12 at 1:57 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-12T13:57:28.047300-04:00.lighthouse.json) |
-| [August 12 at 6:07 AM](https://archive.org/download/nhpr-2022/nhpr-2022-08-12T06:07:03.652164-04:00.lighthouse.json) |
-| [August 11 at 2:48 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-11T14:48:20.525447-04:00.lighthouse.json) |
-| [August 11 at 12:00 AM](https://archive.org/download/nhpr-2022/nhpr-2022-08-11T00:00:34.664659-04:00.lighthouse.json) |
-| [August 10 at 2:13 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-10T14:13:33.306641-04:00.lighthouse.json) |
-| [August 10 at 12:08 AM](https://archive.org/download/nhpr-2022/nhpr-2022-08-10T00:08:50.427571-04:00.lighthouse.json) |
-| [August 9 at 1:34 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-09T13:33:55.872963-04:00.lighthouse.json) |
-| [August 8 at 11:53 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-08T23:53:15.277195-04:00.lighthouse.json) |
-| [August 8 at 1:11 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-08T13:10:58.267646-04:00.lighthouse.json) |
-| [August 8 at 1:17 AM](https://archive.org/download/nhpr-2022/nhpr-2022-08-08T01:17:19.851829-04:00.lighthouse.json) |
+| [August 12 at 6:57 AM](https://archive.org/download/nhpr-2022/nhpr-2022-08-12T13:57:28.047300-04:00.lighthouse.json) |
+| [August 11 at 11:07 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-12T06:07:03.652164-04:00.lighthouse.json) |
+| [August 11 at 7:48 AM](https://archive.org/download/nhpr-2022/nhpr-2022-08-11T14:48:20.525447-04:00.lighthouse.json) |
+| [August 10 at 5:00 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-11T00:00:34.664659-04:00.lighthouse.json) |
+| [August 10 at 7:13 AM](https://archive.org/download/nhpr-2022/nhpr-2022-08-10T14:13:33.306641-04:00.lighthouse.json) |
+| [August 9 at 5:08 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-10T00:08:50.427571-04:00.lighthouse.json) |
+| [August 9 at 6:34 AM](https://archive.org/download/nhpr-2022/nhpr-2022-08-09T13:33:55.872963-04:00.lighthouse.json) |
+| [August 8 at 4:53 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-08T23:53:15.277195-04:00.lighthouse.json) |
+| [August 8 at 6:11 AM](https://archive.org/download/nhpr-2022/nhpr-2022-08-08T13:10:58.267646-04:00.lighthouse.json) |
+| [August 7 at 6:17 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-08T01:17:19.851829-04:00.lighthouse.json) |
 
 
 

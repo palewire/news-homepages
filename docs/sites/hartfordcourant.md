@@ -116,109 +116,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-12T13:50:24.670976-04:00.jpg">
   <img src="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-12T13:50:24.670976-04:00.jpg"
-     alt="Hartford Courant at 2022-08-12 13:50:27-04:00 local time"
+     alt="Hartford Courant at 2022-08-12 06:50:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-12T13:50:24.670976-04:00.jpg">August 12 at 1:50 PM</a></p>
+ <p><a href="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-12T13:50:24.670976-04:00.jpg">August 12 at 6:50 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-12T05:59:44.878377-04:00.jpg">
   <img src="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-12T05:59:44.878377-04:00.jpg"
-     alt="Hartford Courant at 2022-08-12 05:59:46-04:00 local time"
+     alt="Hartford Courant at 2022-08-11 22:59:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-12T05:59:44.878377-04:00.jpg">August 12 at 5:59 AM</a></p>
+ <p><a href="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-12T05:59:44.878377-04:00.jpg">August 11 at 10:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-11T14:40:27.605081-04:00.jpg">
   <img src="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-11T14:40:27.605081-04:00.jpg"
-     alt="Hartford Courant at 2022-08-11 14:40:30-04:00 local time"
+     alt="Hartford Courant at 2022-08-11 07:40:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-11T14:40:27.605081-04:00.jpg">August 11 at 2:40 PM</a></p>
+ <p><a href="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-11T14:40:27.605081-04:00.jpg">August 11 at 7:40 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-10T23:52:59.588562-04:00.jpg">
   <img src="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-10T23:52:59.588562-04:00.jpg"
-     alt="Hartford Courant at 2022-08-10 23:53:01-04:00 local time"
+     alt="Hartford Courant at 2022-08-10 16:53:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-10T23:52:59.588562-04:00.jpg">August 10 at 11:53 PM</a></p>
+ <p><a href="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-10T23:52:59.588562-04:00.jpg">August 10 at 4:53 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-10T14:05:00.900250-04:00.jpg">
   <img src="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-10T14:05:00.900250-04:00.jpg"
-     alt="Hartford Courant at 2022-08-10 14:05:06-04:00 local time"
+     alt="Hartford Courant at 2022-08-10 07:05:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-10T14:05:00.900250-04:00.jpg">August 10 at 2:05 PM</a></p>
+ <p><a href="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-10T14:05:00.900250-04:00.jpg">August 10 at 7:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-10T00:01:07.733719-04:00.jpg">
   <img src="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-10T00:01:07.733719-04:00.jpg"
-     alt="Hartford Courant at 2022-08-10 00:01:09-04:00 local time"
+     alt="Hartford Courant at 2022-08-09 17:01:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-10T00:01:07.733719-04:00.jpg">August 10 at 12:01 AM</a></p>
+ <p><a href="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-10T00:01:07.733719-04:00.jpg">August 9 at 5:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-09T13:26:53.331375-04:00.jpg">
   <img src="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-09T13:26:53.331375-04:00.jpg"
-     alt="Hartford Courant at 2022-08-09 13:26:55-04:00 local time"
+     alt="Hartford Courant at 2022-08-09 06:26:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-09T13:26:53.331375-04:00.jpg">August 9 at 1:26 PM</a></p>
+ <p><a href="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-09T13:26:53.331375-04:00.jpg">August 9 at 6:26 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-08T23:45:16.399158-04:00.jpg">
   <img src="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-08T23:45:16.399158-04:00.jpg"
-     alt="Hartford Courant at 2022-08-08 23:45:17-04:00 local time"
+     alt="Hartford Courant at 2022-08-08 16:45:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-08T23:45:16.399158-04:00.jpg">August 8 at 11:45 PM</a></p>
+ <p><a href="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-08T23:45:16.399158-04:00.jpg">August 8 at 4:45 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-08T13:01:24.588873-04:00.jpg">
   <img src="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-08T13:01:24.588873-04:00.jpg"
-     alt="Hartford Courant at 2022-08-08 13:01:26-04:00 local time"
+     alt="Hartford Courant at 2022-08-08 06:01:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-08T13:01:24.588873-04:00.jpg">August 8 at 1:01 PM</a></p>
+ <p><a href="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-08T13:01:24.588873-04:00.jpg">August 8 at 6:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-08T01:09:08.304923-04:00.jpg">
   <img src="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-08T01:09:08.304923-04:00.jpg"
-     alt="Hartford Courant at 2022-08-08 01:09:10-04:00 local time"
+     alt="Hartford Courant at 2022-08-07 18:09:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-08T01:09:08.304923-04:00.jpg">August 8 at 1:09 AM</a></p>
+ <p><a href="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-08T01:09:08.304923-04:00.jpg">August 7 at 6:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-07T12:51:08.292322-04:00.jpg">
   <img src="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-07T12:51:08.292322-04:00.jpg"
-     alt="Hartford Courant at 2022-08-07 12:51:09-04:00 local time"
+     alt="Hartford Courant at 2022-08-07 05:51:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-07T12:51:08.292322-04:00.jpg">August 7 at 12:51 PM</a></p>
+ <p><a href="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-07T12:51:08.292322-04:00.jpg">August 7 at 5:51 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-06T23:23:51.680601-04:00.jpg">
   <img src="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-06T23:23:51.680601-04:00.jpg"
-     alt="Hartford Courant at 2022-08-06 23:23:52-04:00 local time"
+     alt="Hartford Courant at 2022-08-06 16:23:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-06T23:23:51.680601-04:00.jpg">August 6 at 11:23 PM</a></p>
+ <p><a href="https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-06T23:23:51.680601-04:00.jpg">August 6 at 4:23 PM</a></p>
 </div>
 
 </div>
@@ -233,16 +233,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 12 at 1:50 PM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-12T13:50:24.670976-04:00.hyperlinks.json) |
-| [August 12 at 5:59 AM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-12T05:59:44.878377-04:00.hyperlinks.json) |
-| [August 11 at 2:40 PM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-11T14:40:27.605081-04:00.hyperlinks.json) |
-| [August 10 at 2:05 PM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-10T14:05:00.900250-04:00.hyperlinks.json) |
-| [August 10 at 12:01 AM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-10T00:01:07.733719-04:00.hyperlinks.json) |
-| [August 9 at 1:26 PM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-09T13:26:53.331375-04:00.hyperlinks.json) |
-| [August 8 at 11:45 PM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-08T23:45:16.399158-04:00.hyperlinks.json) |
-| [August 8 at 1:01 PM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-08T13:01:24.588873-04:00.hyperlinks.json) |
-| [August 7 at 12:51 PM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-07T12:51:08.292322-04:00.hyperlinks.json) |
-| [August 6 at 11:23 PM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-06T23:23:51.680601-04:00.hyperlinks.json) |
+| [August 12 at 6:50 AM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-12T13:50:24.670976-04:00.hyperlinks.json) |
+| [August 11 at 10:59 PM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-12T05:59:44.878377-04:00.hyperlinks.json) |
+| [August 11 at 7:40 AM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-11T14:40:27.605081-04:00.hyperlinks.json) |
+| [August 10 at 7:05 AM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-10T14:05:00.900250-04:00.hyperlinks.json) |
+| [August 9 at 5:01 PM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-10T00:01:07.733719-04:00.hyperlinks.json) |
+| [August 9 at 6:26 AM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-09T13:26:53.331375-04:00.hyperlinks.json) |
+| [August 8 at 4:45 PM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-08T23:45:16.399158-04:00.hyperlinks.json) |
+| [August 8 at 6:01 AM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-08T13:01:24.588873-04:00.hyperlinks.json) |
+| [August 7 at 5:51 AM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-07T12:51:08.292322-04:00.hyperlinks.json) |
+| [August 6 at 4:23 PM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-06T23:23:51.680601-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -338,16 +338,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 12 at 1:50 PM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-12T13:50:24.670976-04:00.accessibility.json) |
-| [August 12 at 5:59 AM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-12T05:59:44.878377-04:00.accessibility.json) |
-| [August 11 at 2:40 PM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-11T14:40:27.605081-04:00.accessibility.json) |
-| [August 10 at 11:53 PM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-10T23:52:59.588562-04:00.accessibility.json) |
-| [August 10 at 2:05 PM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-10T14:05:00.900250-04:00.accessibility.json) |
-| [August 10 at 12:01 AM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-10T00:01:07.733719-04:00.accessibility.json) |
-| [August 9 at 1:26 PM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-09T13:26:53.331375-04:00.accessibility.json) |
-| [August 8 at 11:45 PM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-08T23:45:16.399158-04:00.accessibility.json) |
-| [August 8 at 1:01 PM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-08T13:01:24.588873-04:00.accessibility.json) |
-| [August 8 at 1:09 AM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-08T01:09:08.304923-04:00.accessibility.json) |
+| [August 12 at 6:50 AM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-12T13:50:24.670976-04:00.accessibility.json) |
+| [August 11 at 10:59 PM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-12T05:59:44.878377-04:00.accessibility.json) |
+| [August 11 at 7:40 AM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-11T14:40:27.605081-04:00.accessibility.json) |
+| [August 10 at 4:53 PM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-10T23:52:59.588562-04:00.accessibility.json) |
+| [August 10 at 7:05 AM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-10T14:05:00.900250-04:00.accessibility.json) |
+| [August 9 at 5:01 PM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-10T00:01:07.733719-04:00.accessibility.json) |
+| [August 9 at 6:26 AM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-09T13:26:53.331375-04:00.accessibility.json) |
+| [August 8 at 4:45 PM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-08T23:45:16.399158-04:00.accessibility.json) |
+| [August 8 at 6:01 AM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-08T13:01:24.588873-04:00.accessibility.json) |
+| [August 7 at 6:09 PM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-08T01:09:08.304923-04:00.accessibility.json) |
 
 
 
@@ -444,16 +444,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 12 at 1:50 PM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-12T13:50:24.670976-04:00.lighthouse.json) |
-| [August 12 at 5:59 AM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-12T05:59:44.878377-04:00.lighthouse.json) |
-| [August 11 at 2:40 PM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-11T14:40:27.605081-04:00.lighthouse.json) |
-| [August 10 at 11:53 PM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-10T23:52:59.588562-04:00.lighthouse.json) |
-| [August 10 at 2:05 PM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-10T14:05:00.900250-04:00.lighthouse.json) |
-| [August 10 at 12:01 AM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-10T00:01:07.733719-04:00.lighthouse.json) |
-| [August 9 at 1:27 PM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-09T13:26:53.331375-04:00.lighthouse.json) |
-| [August 8 at 11:45 PM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-08T23:45:16.399158-04:00.lighthouse.json) |
-| [August 8 at 1:01 PM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-08T13:01:24.588873-04:00.lighthouse.json) |
-| [August 8 at 1:09 AM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-08T01:09:08.304923-04:00.lighthouse.json) |
+| [August 12 at 6:50 AM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-12T13:50:24.670976-04:00.lighthouse.json) |
+| [August 11 at 10:59 PM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-12T05:59:44.878377-04:00.lighthouse.json) |
+| [August 11 at 7:40 AM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-11T14:40:27.605081-04:00.lighthouse.json) |
+| [August 10 at 4:53 PM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-10T23:52:59.588562-04:00.lighthouse.json) |
+| [August 10 at 7:05 AM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-10T14:05:00.900250-04:00.lighthouse.json) |
+| [August 9 at 5:01 PM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-10T00:01:07.733719-04:00.lighthouse.json) |
+| [August 9 at 6:27 AM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-09T13:26:53.331375-04:00.lighthouse.json) |
+| [August 8 at 4:45 PM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-08T23:45:16.399158-04:00.lighthouse.json) |
+| [August 8 at 6:01 AM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-08T13:01:24.588873-04:00.lighthouse.json) |
+| [August 7 at 6:09 PM](https://archive.org/download/hartfordcourant-2022/hartfordcourant-2022-08-08T01:09:08.304923-04:00.lighthouse.json) |
 
 
 

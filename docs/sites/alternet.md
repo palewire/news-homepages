@@ -116,109 +116,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/alternet-2022/alternet-2022-08-12T20:24:12.863788-04:00.jpg">
   <img src="https://archive.org/download/alternet-2022/alternet-2022-08-12T20:24:12.863788-04:00.jpg"
-     alt="AlterNet at 2022-08-12 20:24:19-04:00 local time"
+     alt="AlterNet at 2022-08-12 13:24:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/alternet-2022/alternet-2022-08-12T20:24:12.863788-04:00.jpg">August 12 at 8:24 PM</a></p>
+ <p><a href="https://archive.org/download/alternet-2022/alternet-2022-08-12T20:24:12.863788-04:00.jpg">August 12 at 1:24 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/alternet-2022/alternet-2022-08-12T15:15:49.510876-04:00.jpg">
   <img src="https://archive.org/download/alternet-2022/alternet-2022-08-12T15:15:49.510876-04:00.jpg"
-     alt="AlterNet at 2022-08-12 15:15:50-04:00 local time"
+     alt="AlterNet at 2022-08-12 08:15:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/alternet-2022/alternet-2022-08-12T15:15:49.510876-04:00.jpg">August 12 at 3:15 PM</a></p>
+ <p><a href="https://archive.org/download/alternet-2022/alternet-2022-08-12T15:15:49.510876-04:00.jpg">August 12 at 8:15 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/alternet-2022/alternet-2022-08-12T07:35:05.691820-04:00.jpg">
   <img src="https://archive.org/download/alternet-2022/alternet-2022-08-12T07:35:05.691820-04:00.jpg"
-     alt="AlterNet at 2022-08-12 07:35:08-04:00 local time"
+     alt="AlterNet at 2022-08-12 00:35:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/alternet-2022/alternet-2022-08-12T07:35:05.691820-04:00.jpg">August 12 at 7:35 AM</a></p>
+ <p><a href="https://archive.org/download/alternet-2022/alternet-2022-08-12T07:35:05.691820-04:00.jpg">August 12 at 12:35 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/alternet-2022/alternet-2022-08-11T19:17:23.286913-04:00.jpg">
   <img src="https://archive.org/download/alternet-2022/alternet-2022-08-11T19:17:23.286913-04:00.jpg"
-     alt="AlterNet at 2022-08-11 19:17:26-04:00 local time"
+     alt="AlterNet at 2022-08-11 12:17:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/alternet-2022/alternet-2022-08-11T19:17:23.286913-04:00.jpg">August 11 at 7:17 PM</a></p>
+ <p><a href="https://archive.org/download/alternet-2022/alternet-2022-08-11T19:17:23.286913-04:00.jpg">August 11 at 12:17 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/alternet-2022/alternet-2022-08-11T15:42:57.214729-04:00.jpg">
   <img src="https://archive.org/download/alternet-2022/alternet-2022-08-11T15:42:57.214729-04:00.jpg"
-     alt="AlterNet at 2022-08-11 15:43:00-04:00 local time"
+     alt="AlterNet at 2022-08-11 08:43:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/alternet-2022/alternet-2022-08-11T15:42:57.214729-04:00.jpg">August 11 at 3:43 PM</a></p>
+ <p><a href="https://archive.org/download/alternet-2022/alternet-2022-08-11T15:42:57.214729-04:00.jpg">August 11 at 8:43 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/alternet-2022/alternet-2022-08-11T07:31:45.062013-04:00.jpg">
   <img src="https://archive.org/download/alternet-2022/alternet-2022-08-11T07:31:45.062013-04:00.jpg"
-     alt="AlterNet at 2022-08-11 07:31:52-04:00 local time"
+     alt="AlterNet at 2022-08-11 00:31:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/alternet-2022/alternet-2022-08-11T07:31:45.062013-04:00.jpg">August 11 at 7:31 AM</a></p>
+ <p><a href="https://archive.org/download/alternet-2022/alternet-2022-08-11T07:31:45.062013-04:00.jpg">August 11 at 12:31 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/alternet-2022/alternet-2022-08-10T20:36:04.767568-04:00.jpg">
   <img src="https://archive.org/download/alternet-2022/alternet-2022-08-10T20:36:04.767568-04:00.jpg"
-     alt="AlterNet at 2022-08-10 20:36:06-04:00 local time"
+     alt="AlterNet at 2022-08-10 13:36:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/alternet-2022/alternet-2022-08-10T20:36:04.767568-04:00.jpg">August 10 at 8:36 PM</a></p>
+ <p><a href="https://archive.org/download/alternet-2022/alternet-2022-08-10T20:36:04.767568-04:00.jpg">August 10 at 1:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/alternet-2022/alternet-2022-08-10T15:39:52.637572-04:00.jpg">
   <img src="https://archive.org/download/alternet-2022/alternet-2022-08-10T15:39:52.637572-04:00.jpg"
-     alt="AlterNet at 2022-08-10 15:39:55-04:00 local time"
+     alt="AlterNet at 2022-08-10 08:39:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/alternet-2022/alternet-2022-08-10T15:39:52.637572-04:00.jpg">August 10 at 3:39 PM</a></p>
+ <p><a href="https://archive.org/download/alternet-2022/alternet-2022-08-10T15:39:52.637572-04:00.jpg">August 10 at 8:39 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/alternet-2022/alternet-2022-08-10T08:49:36.808011-04:00.jpg">
   <img src="https://archive.org/download/alternet-2022/alternet-2022-08-10T08:49:36.808011-04:00.jpg"
-     alt="AlterNet at 2022-08-10 08:49:40-04:00 local time"
+     alt="AlterNet at 2022-08-10 01:49:40-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/alternet-2022/alternet-2022-08-10T08:49:36.808011-04:00.jpg">August 10 at 8:49 AM</a></p>
+ <p><a href="https://archive.org/download/alternet-2022/alternet-2022-08-10T08:49:36.808011-04:00.jpg">August 10 at 1:49 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/alternet-2022/alternet-2022-08-09T19:19:26.346907-04:00.jpg">
   <img src="https://archive.org/download/alternet-2022/alternet-2022-08-09T19:19:26.346907-04:00.jpg"
-     alt="AlterNet at 2022-08-09 19:19:27-04:00 local time"
+     alt="AlterNet at 2022-08-09 12:19:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/alternet-2022/alternet-2022-08-09T19:19:26.346907-04:00.jpg">August 9 at 7:19 PM</a></p>
+ <p><a href="https://archive.org/download/alternet-2022/alternet-2022-08-09T19:19:26.346907-04:00.jpg">August 9 at 12:19 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/alternet-2022/alternet-2022-08-09T14:45:33.613132-04:00.jpg">
   <img src="https://archive.org/download/alternet-2022/alternet-2022-08-09T14:45:33.613132-04:00.jpg"
-     alt="AlterNet at 2022-08-09 14:45:36-04:00 local time"
+     alt="AlterNet at 2022-08-09 07:45:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/alternet-2022/alternet-2022-08-09T14:45:33.613132-04:00.jpg">August 9 at 2:45 PM</a></p>
+ <p><a href="https://archive.org/download/alternet-2022/alternet-2022-08-09T14:45:33.613132-04:00.jpg">August 9 at 7:45 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/alternet-2022/alternet-2022-08-09T08:36:20.984116-04:00.jpg">
   <img src="https://archive.org/download/alternet-2022/alternet-2022-08-09T08:36:20.984116-04:00.jpg"
-     alt="AlterNet at 2022-08-09 08:36:23-04:00 local time"
+     alt="AlterNet at 2022-08-09 01:36:23-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/alternet-2022/alternet-2022-08-09T08:36:20.984116-04:00.jpg">August 9 at 8:36 AM</a></p>
+ <p><a href="https://archive.org/download/alternet-2022/alternet-2022-08-09T08:36:20.984116-04:00.jpg">August 9 at 1:36 AM</a></p>
 </div>
 
 </div>
@@ -316,16 +316,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 12 at 8:24 PM](https://archive.org/download/alternet-2022/alternet-2022-08-12T20:24:12.863788-04:00.hyperlinks.json) |
-| [August 12 at 3:15 PM](https://archive.org/download/alternet-2022/alternet-2022-08-12T15:15:49.510876-04:00.hyperlinks.json) |
-| [August 12 at 7:35 AM](https://archive.org/download/alternet-2022/alternet-2022-08-12T07:35:05.691820-04:00.hyperlinks.json) |
-| [August 11 at 7:17 PM](https://archive.org/download/alternet-2022/alternet-2022-08-11T19:17:23.286913-04:00.hyperlinks.json) |
-| [August 11 at 3:43 PM](https://archive.org/download/alternet-2022/alternet-2022-08-11T15:42:57.214729-04:00.hyperlinks.json) |
-| [August 11 at 7:31 AM](https://archive.org/download/alternet-2022/alternet-2022-08-11T07:31:45.062013-04:00.hyperlinks.json) |
-| [August 10 at 8:36 PM](https://archive.org/download/alternet-2022/alternet-2022-08-10T20:36:04.767568-04:00.hyperlinks.json) |
-| [August 10 at 3:39 PM](https://archive.org/download/alternet-2022/alternet-2022-08-10T15:39:52.637572-04:00.hyperlinks.json) |
-| [August 10 at 8:49 AM](https://archive.org/download/alternet-2022/alternet-2022-08-10T08:49:36.808011-04:00.hyperlinks.json) |
-| [August 9 at 7:19 PM](https://archive.org/download/alternet-2022/alternet-2022-08-09T19:19:26.346907-04:00.hyperlinks.json) |
+| [August 12 at 1:24 PM](https://archive.org/download/alternet-2022/alternet-2022-08-12T20:24:12.863788-04:00.hyperlinks.json) |
+| [August 12 at 8:15 AM](https://archive.org/download/alternet-2022/alternet-2022-08-12T15:15:49.510876-04:00.hyperlinks.json) |
+| [August 12 at 12:35 AM](https://archive.org/download/alternet-2022/alternet-2022-08-12T07:35:05.691820-04:00.hyperlinks.json) |
+| [August 11 at 12:17 PM](https://archive.org/download/alternet-2022/alternet-2022-08-11T19:17:23.286913-04:00.hyperlinks.json) |
+| [August 11 at 8:43 AM](https://archive.org/download/alternet-2022/alternet-2022-08-11T15:42:57.214729-04:00.hyperlinks.json) |
+| [August 11 at 12:31 AM](https://archive.org/download/alternet-2022/alternet-2022-08-11T07:31:45.062013-04:00.hyperlinks.json) |
+| [August 10 at 1:36 PM](https://archive.org/download/alternet-2022/alternet-2022-08-10T20:36:04.767568-04:00.hyperlinks.json) |
+| [August 10 at 8:39 AM](https://archive.org/download/alternet-2022/alternet-2022-08-10T15:39:52.637572-04:00.hyperlinks.json) |
+| [August 10 at 1:49 AM](https://archive.org/download/alternet-2022/alternet-2022-08-10T08:49:36.808011-04:00.hyperlinks.json) |
+| [August 9 at 12:19 PM](https://archive.org/download/alternet-2022/alternet-2022-08-09T19:19:26.346907-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -421,16 +421,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 12 at 8:24 PM](https://archive.org/download/alternet-2022/alternet-2022-08-12T20:24:12.863788-04:00.accessibility.json) |
-| [August 12 at 3:15 PM](https://archive.org/download/alternet-2022/alternet-2022-08-12T15:15:49.510876-04:00.accessibility.json) |
-| [August 12 at 7:35 AM](https://archive.org/download/alternet-2022/alternet-2022-08-12T07:35:05.691820-04:00.accessibility.json) |
-| [August 11 at 7:17 PM](https://archive.org/download/alternet-2022/alternet-2022-08-11T19:17:23.286913-04:00.accessibility.json) |
-| [August 11 at 3:43 PM](https://archive.org/download/alternet-2022/alternet-2022-08-11T15:42:57.214729-04:00.accessibility.json) |
-| [August 11 at 7:31 AM](https://archive.org/download/alternet-2022/alternet-2022-08-11T07:31:45.062013-04:00.accessibility.json) |
-| [August 10 at 8:36 PM](https://archive.org/download/alternet-2022/alternet-2022-08-10T20:36:04.767568-04:00.accessibility.json) |
-| [August 10 at 3:39 PM](https://archive.org/download/alternet-2022/alternet-2022-08-10T15:39:52.637572-04:00.accessibility.json) |
-| [August 10 at 8:49 AM](https://archive.org/download/alternet-2022/alternet-2022-08-10T08:49:36.808011-04:00.accessibility.json) |
-| [August 9 at 7:19 PM](https://archive.org/download/alternet-2022/alternet-2022-08-09T19:19:26.346907-04:00.accessibility.json) |
+| [August 12 at 1:24 PM](https://archive.org/download/alternet-2022/alternet-2022-08-12T20:24:12.863788-04:00.accessibility.json) |
+| [August 12 at 8:15 AM](https://archive.org/download/alternet-2022/alternet-2022-08-12T15:15:49.510876-04:00.accessibility.json) |
+| [August 12 at 12:35 AM](https://archive.org/download/alternet-2022/alternet-2022-08-12T07:35:05.691820-04:00.accessibility.json) |
+| [August 11 at 12:17 PM](https://archive.org/download/alternet-2022/alternet-2022-08-11T19:17:23.286913-04:00.accessibility.json) |
+| [August 11 at 8:43 AM](https://archive.org/download/alternet-2022/alternet-2022-08-11T15:42:57.214729-04:00.accessibility.json) |
+| [August 11 at 12:31 AM](https://archive.org/download/alternet-2022/alternet-2022-08-11T07:31:45.062013-04:00.accessibility.json) |
+| [August 10 at 1:36 PM](https://archive.org/download/alternet-2022/alternet-2022-08-10T20:36:04.767568-04:00.accessibility.json) |
+| [August 10 at 8:39 AM](https://archive.org/download/alternet-2022/alternet-2022-08-10T15:39:52.637572-04:00.accessibility.json) |
+| [August 10 at 1:49 AM](https://archive.org/download/alternet-2022/alternet-2022-08-10T08:49:36.808011-04:00.accessibility.json) |
+| [August 9 at 12:19 PM](https://archive.org/download/alternet-2022/alternet-2022-08-09T19:19:26.346907-04:00.accessibility.json) |
 
 
 
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 12 at 8:24 PM](https://archive.org/download/alternet-2022/alternet-2022-08-12T20:24:12.863788-04:00.lighthouse.json) |
-| [August 12 at 3:15 PM](https://archive.org/download/alternet-2022/alternet-2022-08-12T15:15:49.510876-04:00.lighthouse.json) |
-| [August 12 at 7:35 AM](https://archive.org/download/alternet-2022/alternet-2022-08-12T07:35:05.691820-04:00.lighthouse.json) |
-| [August 11 at 7:17 PM](https://archive.org/download/alternet-2022/alternet-2022-08-11T19:17:23.286913-04:00.lighthouse.json) |
-| [August 11 at 3:43 PM](https://archive.org/download/alternet-2022/alternet-2022-08-11T15:42:57.214729-04:00.lighthouse.json) |
-| [August 11 at 7:31 AM](https://archive.org/download/alternet-2022/alternet-2022-08-11T07:31:45.062013-04:00.lighthouse.json) |
-| [August 10 at 8:36 PM](https://archive.org/download/alternet-2022/alternet-2022-08-10T20:36:04.767568-04:00.lighthouse.json) |
-| [August 10 at 3:40 PM](https://archive.org/download/alternet-2022/alternet-2022-08-10T15:39:52.637572-04:00.lighthouse.json) |
-| [August 10 at 8:49 AM](https://archive.org/download/alternet-2022/alternet-2022-08-10T08:49:36.808011-04:00.lighthouse.json) |
-| [August 9 at 7:19 PM](https://archive.org/download/alternet-2022/alternet-2022-08-09T19:19:26.346907-04:00.lighthouse.json) |
+| [August 12 at 1:24 PM](https://archive.org/download/alternet-2022/alternet-2022-08-12T20:24:12.863788-04:00.lighthouse.json) |
+| [August 12 at 8:15 AM](https://archive.org/download/alternet-2022/alternet-2022-08-12T15:15:49.510876-04:00.lighthouse.json) |
+| [August 12 at 12:35 AM](https://archive.org/download/alternet-2022/alternet-2022-08-12T07:35:05.691820-04:00.lighthouse.json) |
+| [August 11 at 12:17 PM](https://archive.org/download/alternet-2022/alternet-2022-08-11T19:17:23.286913-04:00.lighthouse.json) |
+| [August 11 at 8:43 AM](https://archive.org/download/alternet-2022/alternet-2022-08-11T15:42:57.214729-04:00.lighthouse.json) |
+| [August 11 at 12:31 AM](https://archive.org/download/alternet-2022/alternet-2022-08-11T07:31:45.062013-04:00.lighthouse.json) |
+| [August 10 at 1:36 PM](https://archive.org/download/alternet-2022/alternet-2022-08-10T20:36:04.767568-04:00.lighthouse.json) |
+| [August 10 at 8:40 AM](https://archive.org/download/alternet-2022/alternet-2022-08-10T15:39:52.637572-04:00.lighthouse.json) |
+| [August 10 at 1:49 AM](https://archive.org/download/alternet-2022/alternet-2022-08-10T08:49:36.808011-04:00.lighthouse.json) |
+| [August 9 at 12:19 PM](https://archive.org/download/alternet-2022/alternet-2022-08-09T19:19:26.346907-04:00.lighthouse.json) |
 
 
 
