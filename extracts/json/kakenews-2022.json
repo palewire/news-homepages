@@ -1,5 +1,5 @@
 {
-  "created": 1660310677,
+  "created": 1660351526,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/15/items/kakenews-2022",
@@ -1044,31 +1044,83 @@
       "sha1": "5ab9ea2d0f2e5e7e09ba3a74aedf3088b9b844c1"
     },
     {
+      "name": "kakenews-2022-08-12T19:39:04.598376-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660351149",
+      "size": "22034",
+      "md5": "dbfdd269f929a10952a22dcc3ff8b4da",
+      "crc32": "da987cff",
+      "sha1": "06928fbafebc31c0ae76519556ec72632f396e81",
+      "format": "JSON"
+    },
+    {
+      "name": "kakenews-2022-08-12T19:39:04.598376-05:00.jpg",
+      "source": "original",
+      "mtime": "1660351147",
+      "size": "318432",
+      "md5": "5a26908912f6f3b0e4fc2add9fc8f9fa",
+      "crc32": "051ed6c1",
+      "sha1": "a869803c73d04c53e63085cf67e2fab14ef9255d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kakenews-2022-08-12T19:39:04.598376-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660351151",
+      "size": "1439",
+      "md5": "dd60d2df73e413a5d0dfa9896b078472",
+      "crc32": "48f4a181",
+      "sha1": "7e77c8a1b2c9970d727ea0973d4323027a7995be",
+      "format": "JSON"
+    },
+    {
+      "name": "kakenews-2022-08-12T19:39:04.598376-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660351153",
+      "size": "17393",
+      "md5": "ea6d01cf5c09513a59364bd3685d4796",
+      "crc32": "95304954",
+      "sha1": "04ba7fed588b3a1f44f902cc00fd500f8972f4b2",
+      "format": "JSON"
+    },
+    {
+      "name": "kakenews-2022-08-12T19:39:04.598376-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kakenews-2022-08-12T19:39:04.598376-05:00.jpg",
+      "mtime": "1660351452",
+      "size": "11034",
+      "md5": "7a92cf89d37dae29b4b6d3c1260ca76c",
+      "crc32": "a67d632c",
+      "sha1": "efc73e9a64c083a6c639928e7cd0c68f1eac7352"
+    },
+    {
       "name": "kakenews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fac7d605a8207b2e4906b9a96625ec8fd5e62c09",
-      "mtime": "1660310654",
-      "size": "22420",
-      "md5": "cfed4a646482f40b0b66343d2320c404",
-      "crc32": "1076b7cc",
-      "sha1": "cef03a99fbdbc788a4e33c69e0884d866e603696",
+      "btih": "76ea390e1ec7a81e57aaf47f6520df1cbcb37714",
+      "mtime": "1660351496",
+      "size": "23474",
+      "md5": "263b3aa4a203b538669518e83e8dc0fa",
+      "crc32": "3dfef5c5",
+      "sha1": "dfdca20c49eecbcd6e01c4e1825a56dad08deb5e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kakenews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7aecffc0cb0d0281edfa2918dce91b16",
+      "md5": "737b761872de272b06851c7bf386988d",
       "summation": "md5"
     },
     {
       "name": "kakenews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660310346",
-      "size": "147456",
-      "md5": "e21d282a890a3dd3d722b7c773690f0d",
-      "crc32": "d32bf8e4",
-      "sha1": "49805a3be299bc42c3a4f043df54a98a5a55355a",
+      "mtime": "1660351155",
+      "size": "151552",
+      "md5": "8d21cbb23f76f21a1bae479316e418b0",
+      "crc32": "abb72b1d",
+      "sha1": "cb27449a4a25ee8326351dfa9d291de64a543c15",
       "format": "Metadata"
     },
     {
@@ -1082,9 +1134,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 104,
-  "item_last_updated": 1660310654,
-  "item_size": 7213846,
+  "files_count": 109,
+  "item_last_updated": 1660351496,
+  "item_size": 7589328,
   "metadata": {
     "identifier": "kakenews-2022",
     "collection": [
@@ -1101,10 +1153,10 @@
     "publicdate": "2022-08-03 18:53:30",
     "addeddate": "2022-08-03 18:53:30"
   },
-  "server": "ia801503.us.archive.org",
-  "uniq": 1720504820,
+  "server": "ia601503.us.archive.org",
+  "uniq": 693700875,
   "workable_servers": [
-    "ia801503.us.archive.org",
-    "ia601503.us.archive.org"
+    "ia601503.us.archive.org",
+    "ia801503.us.archive.org"
   ]
 }

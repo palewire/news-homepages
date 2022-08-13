@@ -1,5 +1,5 @@
 {
-  "created": 1660311164,
+  "created": 1660351880,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/15/items/shillsalmanac-2022",
@@ -1787,31 +1787,83 @@
       "format": "JSON"
     },
     {
+      "name": "shillsalmanac-2022-08-12T09:31:54.820359-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "shillsalmanac-2022-08-12T09:31:54.820359-04:00.jpg",
+      "mtime": "1660311412",
+      "size": "9713",
+      "md5": "998b787673f4e3d089b55c42cb2fadc9",
+      "crc32": "f7ff3e58",
+      "sha1": "6e094614666cc4e630c68957cd2ce89739728b5c"
+    },
+    {
+      "name": "shillsalmanac-2022-08-12T20:50:31.450542-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660351835",
+      "size": "25454",
+      "md5": "24c2f91afbf4812e497193f33f451f8b",
+      "crc32": "47047418",
+      "sha1": "4c31d004450722bbdbd851e72c3ffd861fd39944",
+      "format": "JSON"
+    },
+    {
+      "name": "shillsalmanac-2022-08-12T20:50:31.450542-04:00.jpg",
+      "source": "original",
+      "mtime": "1660351834",
+      "size": "297073",
+      "md5": "237b6873f5900a898a882833605da7ac",
+      "crc32": "a2a3cb7b",
+      "sha1": "07692d4c397c41a29778c14ca79b0fa9b3353547",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "shillsalmanac-2022-08-12T20:50:31.450542-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660351837",
+      "size": "1459",
+      "md5": "4aed94a2e4ae41a93e25dd834ed9bb8b",
+      "crc32": "954832ad",
+      "sha1": "52ee2700a152a2c2356f879a5613e4d5351a0484",
+      "format": "JSON"
+    },
+    {
+      "name": "shillsalmanac-2022-08-12T20:50:31.450542-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660351838",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "shillsalmanac-2022_archive.torrent",
       "source": "metadata",
-      "btih": "91204d6062aacbc82658699c70f54e7eca976239",
-      "mtime": "1660311161",
-      "size": "38199",
-      "md5": "c53c460df1f0279ef8a997b2eedf9e71",
-      "crc32": "11f03c7e",
-      "sha1": "c5c03ae64c34a7432174b1302108ffc314d98c0e",
+      "btih": "f100d4e4b400fbb5d7863490755cef85d6d9aaca",
+      "mtime": "1660351877",
+      "size": "39258",
+      "md5": "be29fd67b5750ea84faa2b1c461cab7b",
+      "crc32": "e41aebf9",
+      "sha1": "c1e55b77a4ab661a9847505c8bb7a5ba75e66c0d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "shillsalmanac-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e89165d3a3d636d2e501aa188b069172",
+      "md5": "bae7712a6d7eb34b1c0aae3a9893ed47",
       "summation": "md5"
     },
     {
       "name": "shillsalmanac-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660311126",
-      "size": "229376",
-      "md5": "9ac0ffb8e6490685ab545b5af322569e",
-      "crc32": "e8d21b2c",
-      "sha1": "289719326bec679793ebd17a5509814398d3adfd",
+      "mtime": "1660351843",
+      "size": "237568",
+      "md5": "94736c55cb31cef403492d9a5829f688",
+      "crc32": "03e0d649",
+      "sha1": "b16db59dabaf367933b443ffc335a69c0f67f05c",
       "format": "Metadata"
     },
     {
@@ -1825,9 +1877,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 175,
-  "item_last_updated": 1660311161,
-  "item_size": 12259215,
+  "files_count": 180,
+  "item_last_updated": 1660351877,
+  "item_size": 12602367,
   "metadata": {
     "identifier": "shillsalmanac-2022",
     "collection": [
@@ -1849,7 +1901,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3363474402,
+      "task_id": 3364365750,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -1857,7 +1909,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1372742535,
+  "uniq": 505595292,
   "workable_servers": [
     "ia902500.us.archive.org"
   ]

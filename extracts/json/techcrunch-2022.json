@@ -1,5 +1,5 @@
 {
-  "created": 1660297924,
+  "created": 1660352135,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/30/items/techcrunch-2022",
@@ -6624,31 +6624,93 @@
       "sha1": "8847f8f457dc28fa86b556f92bb13264420b1856"
     },
     {
+      "name": "techcrunch-2022-08-12T11:26:09.827075-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660328775",
+      "size": "32664",
+      "md5": "0ef60e8d4754ff93b4628802066eba2b",
+      "crc32": "c6d9ba30",
+      "sha1": "5ab820041e906e4e72e1d28aef65625b1f13eb56",
+      "format": "JSON"
+    },
+    {
+      "name": "techcrunch-2022-08-12T11:26:09.827075-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660328777",
+      "size": "14674",
+      "md5": "3ced890de1ecc700728b8e28d9e4d9f7",
+      "crc32": "90e070e7",
+      "sha1": "59ea6c6a95cfb3cce6b5de604f4c65e48215aa4f",
+      "format": "JSON"
+    },
+    {
+      "name": "techcrunch-2022-08-12T11:26:09.827075-07:00.jpg",
+      "source": "original",
+      "mtime": "1660328774",
+      "size": "229041",
+      "md5": "110259d9b42ac0d3a747c72acf48edd3",
+      "crc32": "0301a5f2",
+      "sha1": "d54d48ddf3910f981827b3b99553e5f9fb50a64a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "techcrunch-2022-08-12T11:26:09.827075-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660328779",
+      "size": "1459",
+      "md5": "21dc799ebe775520989e7f0cba1269ef",
+      "crc32": "678d5f0d",
+      "sha1": "776f8050f72d36c580207ce47b521bdea5d8ba65",
+      "format": "JSON"
+    },
+    {
+      "name": "techcrunch-2022-08-12T11:26:09.827075-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660328781",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "techcrunch-2022-08-12T11:26:09.827075-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "techcrunch-2022-08-12T11:26:09.827075-07:00.jpg",
+      "mtime": "1660329280",
+      "size": "8324",
+      "md5": "cd9bc40f4fb4218d709fe74432fbb02f",
+      "crc32": "6e8e544c",
+      "sha1": "ec1e3db732e0ba7b2e904e630bd59b526e72a640"
+    },
+    {
       "name": "techcrunch-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b638e3c3ac3bd73321db9468666c7e66b4d7fc56",
-      "mtime": "1660297896",
-      "size": "135577",
-      "md5": "04d1ab016a0d3e0288c993a655455b04",
-      "crc32": "bdb334b4",
-      "sha1": "aeccea5d3190f0d2b314486a7e54e329d7d200e1",
+      "btih": "b18cb4b51e4d18391a2757e6c160092ae55d548c",
+      "mtime": "1660329290",
+      "size": "136854",
+      "md5": "c23895bcc6a5cd0fc692d0b24c7f8aee",
+      "crc32": "e0b12c59",
+      "sha1": "bb035e0f19e6054b6200497f82ee640c4c0e14a5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "techcrunch-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3df0001d1a2b7fd5a4d2424eeb0fb9d1",
+      "md5": "d2ec84f20ba7885b5d3222ddfd069218",
       "summation": "md5"
     },
     {
       "name": "techcrunch-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660297677",
-      "size": "765952",
-      "md5": "fdbb658b1ecff4b27bdf7c72a084571e",
-      "crc32": "9bde3191",
-      "sha1": "3e4bfa3779dafaa8b1e7711dc417996d077b3095",
+      "mtime": "1660328875",
+      "size": "774144",
+      "md5": "8b30a05fd3dc67a2ac88d2840d3b7589",
+      "crc32": "0d252ac0",
+      "sha1": "a5cf65319835c29e224b0b346f69017a2119a613",
       "format": "Metadata"
     },
     {
@@ -6662,9 +6724,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 637,
-  "item_last_updated": 1660297896,
-  "item_size": 41446753,
+  "files_count": 643,
+  "item_last_updated": 1660329290,
+  "item_size": 41742586,
   "metadata": {
     "identifier": "techcrunch-2022",
     "collection": [
@@ -6681,10 +6743,15 @@
     "publicdate": "2022-06-24 23:01:49",
     "addeddate": "2022-06-24 23:01:49"
   },
-  "server": "ia601505.us.archive.org",
-  "uniq": 724618365,
+  "server": "ia801505.us.archive.org",
+  "techcrunch-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 47016297,
   "workable_servers": [
-    "ia601505.us.archive.org",
-    "ia801505.us.archive.org"
+    "ia801505.us.archive.org",
+    "ia601505.us.archive.org"
   ]
 }

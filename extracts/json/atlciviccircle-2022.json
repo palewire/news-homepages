@@ -1,5 +1,5 @@
 {
-  "created": 1660296744,
+  "created": 1660321598,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/17/items/atlciviccircle-2022",
@@ -3630,31 +3630,93 @@
       "sha1": "3791c52173a885a01005429920f47172a9569c9d"
     },
     {
+      "name": "atlciviccircle-2022-08-12T12:16:43.950568-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660321006",
+      "size": "14227",
+      "md5": "5130adadaea455b4ae84cf8fe3797d57",
+      "crc32": "722cff01",
+      "sha1": "674ed8eca7020dcca40a7c2a68ee04a1925721ef",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-08-12T12:16:43.950568-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660321008",
+      "size": "14958",
+      "md5": "52449531a4380e6997a3f5571fd5fca7",
+      "crc32": "c071ab51",
+      "sha1": "59735f98b3bfb4b96556045315c68a280b0f616f",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-08-12T12:16:43.950568-04:00.jpg",
+      "source": "original",
+      "mtime": "1660321005",
+      "size": "306767",
+      "md5": "842eaf52c8e49963fac2b4d13f3f2718",
+      "crc32": "4f3879f7",
+      "sha1": "e5eb1b00cdf41ebb67c8bc2ee9d857e334b60034",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "atlciviccircle-2022-08-12T12:16:43.950568-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660321010",
+      "size": "1518",
+      "md5": "d42baa78863670e98f57d521e805d170",
+      "crc32": "9cabd9bc",
+      "sha1": "513cd1853ef60b51e666363ee6510608023818ed",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-08-12T12:16:43.950568-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660321011",
+      "size": "9899",
+      "md5": "c5a7d12b3a290a18563f9318ecb9cf58",
+      "crc32": "9036dc0b",
+      "sha1": "502509048183010394f4141680e8f488d76e6681",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-08-12T12:16:43.950568-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "atlciviccircle-2022-08-12T12:16:43.950568-04:00.jpg",
+      "mtime": "1660321492",
+      "size": "10461",
+      "md5": "d8ef9070ef846f2cf108d8819a4c870e",
+      "crc32": "af281909",
+      "sha1": "3791c52173a885a01005429920f47172a9569c9d"
+    },
+    {
       "name": "atlciviccircle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9edf7695e327e7ee763316e743bd59982c1643fa",
-      "mtime": "1660296732",
-      "size": "76768",
-      "md5": "26f143ba32133914bd3412e6ef0c9e84",
-      "crc32": "d6efff88",
-      "sha1": "d4f59b19615000cb1b36afc5f2f116558f28e0b2",
+      "btih": "226815ed0218bd304e60657336aaa7f8ba979feb",
+      "mtime": "1660321497",
+      "size": "78051",
+      "md5": "a59fabd5154caf8405ba54004aed10ff",
+      "crc32": "927dfd2a",
+      "sha1": "b9ff6754c5da06c6ef6fecb0e247eaa80f67ed46",
       "format": "Archive BitTorrent"
     },
     {
       "name": "atlciviccircle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "50aa06a8e7230ff30a4feea4b4d99ba9",
+      "md5": "4d3be5f3468bc17dd6731b5ab96808ab",
       "summation": "md5"
     },
     {
       "name": "atlciviccircle-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660296553",
-      "size": "442368",
-      "md5": "776433065e4f56e46b3511649a8b9829",
-      "crc32": "e1b290f2",
-      "sha1": "b0b332454f86017425411fa07699d3ea7ab82e7e",
+      "mtime": "1660321020",
+      "size": "450560",
+      "md5": "673032dda63d8ece07f4080af22224d4",
+      "crc32": "c0e020ab",
+      "sha1": "9c8c1a6f8dea47c9ed88607df64af3df6e999de7",
       "format": "Metadata"
     },
     {
@@ -3668,9 +3730,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 352,
-  "item_last_updated": 1660296732,
-  "item_size": 23738984,
+  "files_count": 358,
+  "item_last_updated": 1660321497,
+  "item_size": 24106289,
   "metadata": {
     "identifier": "atlciviccircle-2022",
     "collection": [
@@ -3687,10 +3749,10 @@
     "publicdate": "2022-07-09 03:55:48",
     "addeddate": "2022-07-09 03:55:48"
   },
-  "server": "ia801404.us.archive.org",
-  "uniq": 2059466591,
+  "server": "ia601404.us.archive.org",
+  "uniq": 852984464,
   "workable_servers": [
-    "ia801404.us.archive.org",
-    "ia601404.us.archive.org"
+    "ia601404.us.archive.org",
+    "ia801404.us.archive.org"
   ]
 }

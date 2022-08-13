@@ -1,5 +1,5 @@
 {
-  "created": 1660311280,
+  "created": 1660329256,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/28/items/themarkup-2022",
@@ -6172,31 +6172,93 @@
       "sha1": "b2ee294c051d7ee411e85fe5b80d94e33cca04ec"
     },
     {
+      "name": "themarkup-2022-08-12T14:28:03.654457-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660328887",
+      "size": "6568",
+      "md5": "981709f5382d654c0db02683bd337c58",
+      "crc32": "fa406595",
+      "sha1": "c27195cb97ad6a260a72427c0052b42455c454e7",
+      "format": "JSON"
+    },
+    {
+      "name": "themarkup-2022-08-12T14:28:03.654457-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660328888",
+      "size": "8908",
+      "md5": "fc6b80cb8c2cd42be6c11ec693117337",
+      "crc32": "4838ed83",
+      "sha1": "e5e421e3f5be943c7353992a16963e73b69f972b",
+      "format": "JSON"
+    },
+    {
+      "name": "themarkup-2022-08-12T14:28:03.654457-04:00.jpg",
+      "source": "original",
+      "mtime": "1660328885",
+      "size": "252195",
+      "md5": "7c88bd4505c1bcf7d21175a32c5b581c",
+      "crc32": "d41141d7",
+      "sha1": "4c89c66cdb5c99ec29296b48da69dc1a1d2044df",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "themarkup-2022-08-12T14:28:03.654457-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660328890",
+      "size": "1441",
+      "md5": "44eecb70b0d00457be20062c4c5f7494",
+      "crc32": "6a1bc27c",
+      "sha1": "ea6f43c22233626c927d8c53ab431d063a93763a",
+      "format": "JSON"
+    },
+    {
+      "name": "themarkup-2022-08-12T14:28:03.654457-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660328893",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "themarkup-2022-08-12T14:28:03.654457-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "themarkup-2022-08-12T14:28:03.654457-04:00.jpg",
+      "mtime": "1660329183",
+      "size": "9254",
+      "md5": "09d2771434d8b0b26f108740e0ef69d6",
+      "crc32": "ccc513c3",
+      "sha1": "b2ee294c051d7ee411e85fe5b80d94e33cca04ec"
+    },
+    {
       "name": "themarkup-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3e67c109f35fbd07f53a896b9b1a943902435b02",
-      "mtime": "1660297985",
-      "size": "125570",
-      "md5": "297ab2691da7e0504e8bf1a92c4d8a01",
-      "crc32": "54bcac06",
-      "sha1": "6de143d8b83b85de8389f8f37dfbfae3e52bd525",
+      "btih": "551809295777f842940746b0a366c3a479e3e202",
+      "mtime": "1660329223",
+      "size": "126819",
+      "md5": "92844dde543e42f2445007247f9e103b",
+      "crc32": "3c5416cb",
+      "sha1": "b81748478829fa3c3e8a871ef5cedaaaed583861",
       "format": "Archive BitTorrent"
     },
     {
       "name": "themarkup-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3df565976141f45708991479054a5041",
+      "md5": "debcd2c8b81004a1f1a9ea6cea633409",
       "summation": "md5"
     },
     {
       "name": "themarkup-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660297739",
-      "size": "712704",
-      "md5": "3fdcd077fe38a6d116127c79276b5125",
-      "crc32": "90c18f63",
-      "sha1": "0dfaf4a85330c7366abd7d02eb132c573b769507",
+      "mtime": "1660328945",
+      "size": "720896",
+      "md5": "e1c11b96487b7a88c334158c9bc925d1",
+      "crc32": "5e826bff",
+      "sha1": "74dee035d85ede76985b18551d8635a1a6627804",
       "format": "Metadata"
     },
     {
@@ -6210,9 +6272,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 594,
-  "item_last_updated": 1660297985,
-  "item_size": 37446756,
+  "files_count": 600,
+  "item_last_updated": 1660329223,
+  "item_size": 37734765,
   "metadata": {
     "identifier": "themarkup-2022",
     "collection": [
@@ -6229,81 +6291,10 @@
     "publicdate": "2022-06-19 23:29:00",
     "addeddate": "2022-06-19 23:29:00"
   },
-  "server": "ia601509.us.archive.org",
-  "themarkup-2022": {
-    "url": "https://themarkup.org/",
-    "job_id": "spn2-900ef7828f2a62c166cd09556b6b5192b59d8a9d",
-    "status": "success",
-    "counters": {
-      "embeds": 14,
-      "outlinks": 40
-    },
-    "resources": [
-      "https://themarkup.org/",
-      "https://mrkp-static-production.themarkup.org/static/dist/main.fad29e93.css",
-      "https://mrkp-static-production.themarkup.org/static/dist/main.3a15f21b.js",
-      "https://mrkp-static-production.themarkup.org/uploads/2022/05/data-is-plural-3200x1800-final-841x473.png",
-      "https://mrkp-static-production.themarkup.org/uploads/2022/06/CarjackingUber_FinalStill_reduced-360x203.jpg",
-      "https://mrkp-static-production.themarkup.org/uploads/2022/07/Rraphael_markup0722_ver3_reduced-360x203.jpg",
-      "https://mrkp-static-production.themarkup.org/uploads/2022/05/3200x1800_hello-world-reduced-360x203.jpg",
-      "https://mrkp-static-production.themarkup.org/uploads/2022/05/data-is-plural-3200x1800-final-360x203.png",
-      "https://mrkp-static-production.themarkup.org/static/fonts/Messina/MessinaSansWeb-Regular.woff",
-      "https://mrkp-static-production.themarkup.org/static/fonts/Messina/MessinaSansWeb-Bold.woff",
-      "https://mrkp-static-production.themarkup.org/static/fonts/Ivar/IvarDisplay-Bold.woff2",
-      "https://mrkp-static-production.themarkup.org/uploads/2022/05/mark-as-read-final-reduced-360x203.jpg",
-      "https://mrkp-static-production.themarkup.org/uploads/2022/07/3200x1800-meta-abortion-final_reduced-360x203.jpg",
-      "https://mrkp-static-production.themarkup.org/static/img/social-icons/favicon.png"
-    ],
-    "http_status": 200,
-    "timestamp": "20220812080115",
-    "original_url": "https://themarkup.org/",
-    "outlinks": [
-      "https://themarkup.org/series/google-the-giant",
-      "https://themarkup.org/series/prediction-bias",
-      "https://themarkup.org/newsletter/hello-world/tracking-tens-of-thousands-of-assaults-on-ride-hail-drivers",
-      "https://themarkup.org/data-is-plural/2022/08/10/young-adult-migration-and-talking-to-the-starship-enterprise",
-      "https://themarkup.org/2020/02/25/editor-letter-julia-angwin",
-      "https://www.instagram.com/the.markup/",
-      "https://themarkup.org/events/",
-      "https://themarkup.org/donors",
-      "https://themarkup.org/board-of-directors",
-      "https://themarkup.org/tips",
-      "https://themarkup.org/data-is-plural/2022/07/20/voting-laws-u-s-budget-appropriations-and-the-world-cup",
-      "https://themarkup.org/series/amazons-advantage",
-      "https://themarkup.org/data-is-plural/2022/07/27/wildfires-hospital-prices-startups-and-sharks",
-      "https://themarkup.org/donate/",
-      "https://boards.greenhouse.io/themarkup",
-      "https://themarkup.org/series/citizen-browser",
-      "https://themarkup.org/series/working-for-an-algorithm",
-      "https://themarkup.org/series/blacklight",
-      "https://themarkup.org/mark-as-read/2022/07/22/data-regulations-in-china-europes-big-tech-battles-and-decentralized-ids",
-      "https://www.facebook.com/teammarkup/",
-      "https://themarkup.org/working-for-an-algorithm/2022/07/28/more-than-350-gig-workers-carjacked-28-killed-over-the-last-five-years",
-      "https://themarkup.org/team/",
-      "https://themarkup.org/feeds/rss.xml",
-      "https://themarkup.org/archive",
-      "https://themarkup.org/the-breakdown/2022/07/27/who-is-collecting-data-from-your-car",
-      "https://themarkup.org/data-is-plural/2022/08/03/employee-benefits-cropland-christianity-in-china-data-governance-and-diplomatic-gifts",
-      "https://themarkup.org/announcements",
-      "https://www.hcaptcha.com/accessibility",
-      "https://themarkup.org/series/denied",
-      "https://themarkup.org/series/pixel-hunt/",
-      "https://themarkup.org/privacy",
-      "https://www.twitter.com/themarkup/",
-      "https://themarkup.org/series/machine-learning",
-      "https://themarkup.org/newsletter",
-      "https://themarkup.org/about",
-      "https://themarkup.org/terms",
-      "https://themarkup.org/series/locked-out",
-      "https://themarkup.org/ethics",
-      "https://themarkup.org/2020/02/25/president-letter-nabiha-syed",
-      "https://themarkup.org/citizen-browser/2022/07/19/facebook-allows-ads-for-potentially-dangerous-abortion-reversal-procedure"
-    ],
-    "duration_sec": 8.609
-  },
-  "uniq": 564736032,
+  "server": "ia801509.us.archive.org",
+  "uniq": 61635208,
   "workable_servers": [
-    "ia601509.us.archive.org",
-    "ia801509.us.archive.org"
+    "ia801509.us.archive.org",
+    "ia601509.us.archive.org"
   ]
 }
