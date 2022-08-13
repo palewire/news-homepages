@@ -8,6 +8,7 @@ import click
 import pytz
 import twitter
 from rich import print
+from rich.progress import track
 from slugify import slugify
 
 from . import utils
@@ -17,6 +18,31 @@ from . import utils
 def cli():
     """Send a tweet."""
     pass
+
+
+@cli.command()
+def update_list():
+    """Update a Twitter list with all of our sources."""
+    # Connect to Twitter
+    api = get_twitter_client()
+
+    # Get our list
+    list_list = api.GetListsList()
+    sources_list = next(li for li in list_list if li.id == 1558434500304158720)
+    member_list = api.GetListMembers(sources_list.id)
+    screenname_list = [m.screen_name.lower() for m in member_list]
+    print(f":abacus: {len(screenname_list)} sources in the Twitter list")
+
+    # Get the full list of sources
+    source_list = [s["handle"].lower() for s in utils.get_site_list()]
+    print(f":newspaper: {len(source_list)} sources in the archive")
+
+    # Add what's missing
+    missing_list = list(set(source_list) - set(screenname_list))
+    print(f":bird: Adding {len(missing_list)} new sources to Twitter list")
+    for chunk in track(utils.chunk(missing_list, 10)):
+        api.CreateListsMember(list_id=1558434500304158720, screen_name=chunk)
+        time.sleep(0.5)
 
 
 @cli.command()
