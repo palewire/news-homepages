@@ -6,8 +6,8 @@ on:
   workflow_dispatch:
 
 jobs:
-  calculate:
-    name: Calculate and Tweet
+  update:
+    name: Update
     runs-on: ubuntu-latest
     steps:
       - id: checkout
