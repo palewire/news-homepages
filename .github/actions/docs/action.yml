@@ -28,6 +28,11 @@ runs:
       run: pipenv run python -m newshomepages.docs country-list;
       shell: bash
 
+    - id: language-list
+      name: Update language list
+      run: pipenv run python -m newshomepages.docs language-list;
+      shell: bash
+
     - id: site-detail
       name: Update site detail
       run: pipenv run python -m newshomepages.docs site-detail;
@@ -61,6 +66,11 @@ runs:
     - id: country-detail
       name: Update country detail
       run: pipenv run python -m newshomepages.docs country-detail;
+      shell: bash
+
+    - id: language-detail
+      name: Update language detail
+      run: pipenv run python -m newshomepages.docs language-detail;
       shell: bash
 
     - id: configure-github
