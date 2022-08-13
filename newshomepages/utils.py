@@ -4,6 +4,7 @@ from datetime import datetime
 from pathlib import Path
 from urllib.parse import urlparse
 
+import iso639
 import iso3166
 import pandas as pd
 import pytz
@@ -60,6 +61,9 @@ def get_site_df() -> pd.DataFrame:
 
     df["bundle_list"] = df.apply(_split_bundle, axis=1)
     df["country_name"] = df.country.apply(lambda x: iso3166.countries.get(x).name)
+    df["language_name"] = df.language.apply(
+        lambda x: iso639.Language.from_part1(x).name
+    )
     return df
 
 
