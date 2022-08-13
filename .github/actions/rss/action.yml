@@ -23,6 +23,11 @@ runs:
       run: pipenv run python -m newshomepages.rss bundles
       shell: bash
 
+    - id: countries-rss
+      name: Update country RSS
+      run: pipenv run python -m newshomepages.rss countries
+      shell: bash
+
     - id: configure-github
       name: Configure GitHub
       run: |

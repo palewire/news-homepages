@@ -49,6 +49,13 @@ The most recent homepages from 4 news sites in this country.
 
 </div>
 
+## About this country
+
+| Attribute       | Value                                                                               |
+| :-------------  | :---------------------------------------------------------------------------------- |
+| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/countries/tw.xml)         |
+| ISO code             | TW         |
+
 ## Site directory
 
 | Site  | Latest screenshot | RSS |

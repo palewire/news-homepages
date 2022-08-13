@@ -128,6 +128,69 @@ def sites():
     _write_template("all.rss", context, "sites/all.xml")
 
 
+@cli.command()
+def countries():
+    """Create country feeds."""
+    # Get data
+    site_df = utils.get_site_df()
+    country_df = utils.get_country_df()
+    merged_df = site_df.merge(
+        country_df,
+        left_on="country",
+        right_on="alpha2",
+        how="inner",
+        suffixes=("_site", "_country"),
+    )
+    assert len(merged_df) == len(site_df)
+    screenshot_df = utils.get_screenshot_df()
+    country_list = sorted(list(merged_df.alpha2.unique()))
+    print(f":basket: Creating RSS feeds for {len(country_list)} countries")
+
+    # Set timestamp for feeds
+    now = datetime.now(pytz.utc)
+
+    # Loop through all bundles
+    for country_alpha2 in track(country_list):
+
+        # Get all of its sites
+        site_list = merged_df[merged_df.country == country_alpha2].to_dict(
+            orient="records"
+        )
+
+        # Pull all of the screenshots for the sites
+        handle_list = [s["handle"].lower() for s in site_list]
+        file_list = screenshot_df[
+            screenshot_df.handle.str.lower().isin(handle_list)
+        ].sort_values("mtime", ascending=False)
+
+        # Trim to the latest 50 items
+        trimmed_list = file_list.head(50).to_dict(orient="records")
+
+        # Localize the the timestamp in each file
+        country_obj = next(
+            s
+            for s in country_df.to_dict(orient="records")
+            if s["alpha2"] == country_alpha2
+        )
+        country_tz = pytz.timezone(country_obj["timezone_list"][0])
+        for f in trimmed_list:
+            f["local_time"] = f["mtime"].astimezone(country_tz)
+            # Set a clean name too
+            f["name"] = next(
+                s for s in site_list if s["handle"].lower() == f["handle"].lower()
+            )["name_site"]
+
+        # Render the template
+        context = dict(
+            now=now,
+            obj=country_obj,
+            file_list=trimmed_list,
+        )
+        _write_template(
+            "country.rss", context, f"countries/{country_obj['alpha2'].lower()}.xml"
+        )
+
+
 def _write_template(template_name, context, output_name=None):
     template = TEMPLATE_ENV.get_template(f"{template_name}.tmpl")
     md = template.render(**context)

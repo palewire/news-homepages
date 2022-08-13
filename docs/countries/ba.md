@@ -22,6 +22,13 @@ The most recent homepages from 1 news sites in this country.
 
 </div>
 
+## About this country
+
+| Attribute       | Value                                                                               |
+| :-------------  | :---------------------------------------------------------------------------------- |
+| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/countries/ba.xml)         |
+| ISO code             | BA         |
+
 ## Site directory
 
 | Site  | Latest screenshot | RSS |

@@ -22,6 +22,13 @@ The most recent homepages from {{ site_list|length }} news sites in this country
 {% endfor %}
 </div>
 
+## About this country
+
+| Attribute       | Value                                                                               |
+| :-------------  | :---------------------------------------------------------------------------------- |
+| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/countries/{{ country.alpha2|lower }}.xml)         |
+| ISO code             | {{ country.alpha2 }}         |
+
 ## Site directory
 
 | Site  | Latest screenshot | RSS |

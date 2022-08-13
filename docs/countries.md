@@ -5,37 +5,37 @@
 
 The archiving routine is currently saving sites in 29 countries.
 
-| Country  | Sites |
-| :------- | :---- |
-|[Argentina](https://palewi.re/docs/news-homepages/countries/ar.html)|9|
-|[Australia](https://palewi.re/docs/news-homepages/countries/au.html)|1|
-|[Belgium](https://palewi.re/docs/news-homepages/countries/be.html)|1|
-|[Bosnia and Herzegovina](https://palewi.re/docs/news-homepages/countries/ba.html)|1|
-|[Brazil](https://palewi.re/docs/news-homepages/countries/br.html)|37|
-|[Canada](https://palewi.re/docs/news-homepages/countries/ca.html)|20|
-|[Colombia](https://palewi.re/docs/news-homepages/countries/co.html)|2|
-|[El Salvador](https://palewi.re/docs/news-homepages/countries/sv.html)|1|
-|[France](https://palewi.re/docs/news-homepages/countries/fr.html)|16|
-|[Georgia](https://palewi.re/docs/news-homepages/countries/ge.html)|1|
-|[Germany](https://palewi.re/docs/news-homepages/countries/de.html)|9|
-|[India](https://palewi.re/docs/news-homepages/countries/in.html)|9|
-|[Ireland](https://palewi.re/docs/news-homepages/countries/ie.html)|6|
-|[Italy](https://palewi.re/docs/news-homepages/countries/it.html)|4|
-|[Japan](https://palewi.re/docs/news-homepages/countries/jp.html)|9|
-|[Latvia](https://palewi.re/docs/news-homepages/countries/lv.html)|1|
-|[Lebanon](https://palewi.re/docs/news-homepages/countries/lb.html)|1|
-|[Mexico](https://palewi.re/docs/news-homepages/countries/mx.html)|4|
-|[Nepal](https://palewi.re/docs/news-homepages/countries/np.html)|24|
-|[New Zealand](https://palewi.re/docs/news-homepages/countries/nz.html)|4|
-|[Norway](https://palewi.re/docs/news-homepages/countries/no.html)|8|
-|[Qatar](https://palewi.re/docs/news-homepages/countries/qa.html)|1|
-|[Russian Federation](https://palewi.re/docs/news-homepages/countries/ru.html)|8|
-|[Spain](https://palewi.re/docs/news-homepages/countries/es.html)|13|
-|[Taiwan, Province of China](https://palewi.re/docs/news-homepages/countries/tw.html)|4|
-|[Ukraine](https://palewi.re/docs/news-homepages/countries/ua.html)|7|
-|[United Kingdom of Great Britain and Northern Ireland](https://palewi.re/docs/news-homepages/countries/gb.html)|23|
-|[United States of America](https://palewi.re/docs/news-homepages/countries/us.html)|555|
-|[Uruguay](https://palewi.re/docs/news-homepages/countries/uy.html)|1|
+| Country  | Sites | RSS |
+| :------- | :---- | :-- |
+|[Argentina](https://palewi.re/docs/news-homepages/countries/ar.html)|9|[🔗](https://palewi.re/docs/news-homepages/rss/countries/ar.xml)|
+|[Australia](https://palewi.re/docs/news-homepages/countries/au.html)|1|[🔗](https://palewi.re/docs/news-homepages/rss/countries/au.xml)|
+|[Belgium](https://palewi.re/docs/news-homepages/countries/be.html)|1|[🔗](https://palewi.re/docs/news-homepages/rss/countries/be.xml)|
+|[Bosnia and Herzegovina](https://palewi.re/docs/news-homepages/countries/ba.html)|1|[🔗](https://palewi.re/docs/news-homepages/rss/countries/ba.xml)|
+|[Brazil](https://palewi.re/docs/news-homepages/countries/br.html)|37|[🔗](https://palewi.re/docs/news-homepages/rss/countries/br.xml)|
+|[Canada](https://palewi.re/docs/news-homepages/countries/ca.html)|20|[🔗](https://palewi.re/docs/news-homepages/rss/countries/ca.xml)|
+|[Colombia](https://palewi.re/docs/news-homepages/countries/co.html)|2|[🔗](https://palewi.re/docs/news-homepages/rss/countries/co.xml)|
+|[El Salvador](https://palewi.re/docs/news-homepages/countries/sv.html)|1|[🔗](https://palewi.re/docs/news-homepages/rss/countries/sv.xml)|
+|[France](https://palewi.re/docs/news-homepages/countries/fr.html)|16|[🔗](https://palewi.re/docs/news-homepages/rss/countries/fr.xml)|
+|[Georgia](https://palewi.re/docs/news-homepages/countries/ge.html)|1|[🔗](https://palewi.re/docs/news-homepages/rss/countries/ge.xml)|
+|[Germany](https://palewi.re/docs/news-homepages/countries/de.html)|9|[🔗](https://palewi.re/docs/news-homepages/rss/countries/de.xml)|
+|[India](https://palewi.re/docs/news-homepages/countries/in.html)|9|[🔗](https://palewi.re/docs/news-homepages/rss/countries/in.xml)|
+|[Ireland](https://palewi.re/docs/news-homepages/countries/ie.html)|6|[🔗](https://palewi.re/docs/news-homepages/rss/countries/ie.xml)|
+|[Italy](https://palewi.re/docs/news-homepages/countries/it.html)|4|[🔗](https://palewi.re/docs/news-homepages/rss/countries/it.xml)|
+|[Japan](https://palewi.re/docs/news-homepages/countries/jp.html)|9|[🔗](https://palewi.re/docs/news-homepages/rss/countries/jp.xml)|
+|[Latvia](https://palewi.re/docs/news-homepages/countries/lv.html)|1|[🔗](https://palewi.re/docs/news-homepages/rss/countries/lv.xml)|
+|[Lebanon](https://palewi.re/docs/news-homepages/countries/lb.html)|1|[🔗](https://palewi.re/docs/news-homepages/rss/countries/lb.xml)|
+|[Mexico](https://palewi.re/docs/news-homepages/countries/mx.html)|4|[🔗](https://palewi.re/docs/news-homepages/rss/countries/mx.xml)|
+|[Nepal](https://palewi.re/docs/news-homepages/countries/np.html)|24|[🔗](https://palewi.re/docs/news-homepages/rss/countries/np.xml)|
+|[New Zealand](https://palewi.re/docs/news-homepages/countries/nz.html)|4|[🔗](https://palewi.re/docs/news-homepages/rss/countries/nz.xml)|
+|[Norway](https://palewi.re/docs/news-homepages/countries/no.html)|8|[🔗](https://palewi.re/docs/news-homepages/rss/countries/no.xml)|
+|[Qatar](https://palewi.re/docs/news-homepages/countries/qa.html)|1|[🔗](https://palewi.re/docs/news-homepages/rss/countries/qa.xml)|
+|[Russian Federation](https://palewi.re/docs/news-homepages/countries/ru.html)|8|[🔗](https://palewi.re/docs/news-homepages/rss/countries/ru.xml)|
+|[Spain](https://palewi.re/docs/news-homepages/countries/es.html)|13|[🔗](https://palewi.re/docs/news-homepages/rss/countries/es.xml)|
+|[Taiwan, Province of China](https://palewi.re/docs/news-homepages/countries/tw.html)|4|[🔗](https://palewi.re/docs/news-homepages/rss/countries/tw.xml)|
+|[Ukraine](https://palewi.re/docs/news-homepages/countries/ua.html)|6|[🔗](https://palewi.re/docs/news-homepages/rss/countries/ua.xml)|
+|[United Kingdom of Great Britain and Northern Ireland](https://palewi.re/docs/news-homepages/countries/gb.html)|24|[🔗](https://palewi.re/docs/news-homepages/rss/countries/gb.xml)|
+|[United States of America](https://palewi.re/docs/news-homepages/countries/us.html)|555|[🔗](https://palewi.re/docs/news-homepages/rss/countries/us.xml)|
+|[Uruguay](https://palewi.re/docs/news-homepages/countries/uy.html)|1|[🔗](https://palewi.re/docs/news-homepages/rss/countries/uy.xml)|
 
 
 The system is not yet archiving sites in the following 221 countries. Help us expand our coverage. Read [our guide to adding sites](https://palewi.re/docs/news-homepages/adding.html) and make a contribution.

@@ -5008,6 +5008,13 @@ The most recent homepages from 555 news sites in this country.
 
 </div>
 
+## About this country
+
+| Attribute       | Value                                                                               |
+| :-------------  | :---------------------------------------------------------------------------------- |
+| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/countries/us.xml)         |
+| ISO code             | US         |
+
 ## Site directory
 
 | Site  | Latest screenshot | RSS |

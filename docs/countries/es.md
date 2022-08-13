@@ -130,6 +130,13 @@ The most recent homepages from 13 news sites in this country.
 
 </div>
 
+## About this country
+
+| Attribute       | Value                                                                               |
+| :-------------  | :---------------------------------------------------------------------------------- |
+| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/countries/es.xml)         |
+| ISO code             | ES         |
+
 ## Site directory
 
 | Site  | Latest screenshot | RSS |

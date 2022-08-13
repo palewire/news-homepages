@@ -94,6 +94,13 @@ The most recent homepages from 9 news sites in this country.
 
 </div>
 
+## About this country
+
+| Attribute       | Value                                                                               |
+| :-------------  | :---------------------------------------------------------------------------------- |
+| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/countries/ar.xml)         |
+| ISO code             | AR         |
+
 ## Site directory
 
 | Site  | Latest screenshot | RSS |

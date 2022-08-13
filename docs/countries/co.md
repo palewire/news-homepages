@@ -31,6 +31,13 @@ The most recent homepages from 2 news sites in this country.
 
 </div>
 
+## About this country
+
+| Attribute       | Value                                                                               |
+| :-------------  | :---------------------------------------------------------------------------------- |
+| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/countries/co.xml)         |
+| ISO code             | CO         |
+
 ## Site directory
 
 | Site  | Latest screenshot | RSS |

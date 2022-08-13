@@ -85,6 +85,13 @@ The most recent homepages from 8 news sites in this country.
 
 </div>
 
+## About this country
+
+| Attribute       | Value                                                                               |
+| :-------------  | :---------------------------------------------------------------------------------- |
+| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/countries/ru.xml)         |
+| ISO code             | RU         |
+
 ## Site directory
 
 | Site  | Latest screenshot | RSS |

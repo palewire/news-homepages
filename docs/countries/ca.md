@@ -193,6 +193,13 @@ The most recent homepages from 20 news sites in this country.
 
 </div>
 
+## About this country
+
+| Attribute       | Value                                                                               |
+| :-------------  | :---------------------------------------------------------------------------------- |
+| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/countries/ca.xml)         |
+| ISO code             | CA         |
+
 ## Site directory
 
 | Site  | Latest screenshot | RSS |
