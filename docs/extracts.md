@@ -24,7 +24,8 @@ Field | Description
 `url` | The URL of the homepage
 `location` | The city where the site is based
 `timezone` | The timezone where the site is based
-`country`  | The country where the site is based, recorded as a two-digit ISO 3166-1 alpha code
+`country`  | The country where the site is based, recorded as a two-digit [ISO 3166-1](https://en.wikipedia.org/wiki/ISO_3166-1) alpha code
+`language` | The language of the site, recorded as a two-digit [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) alpha code
 
 ## bundles.csv
 

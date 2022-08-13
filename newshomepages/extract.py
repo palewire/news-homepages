@@ -257,6 +257,7 @@ def consolidate():
             location=site["location"],
             timezone=site["timezone"],
             country=site["country"],
+            language=site["language"],
         )
         # Add to the output list
         site_output.append(site_dict)
