@@ -116,109 +116,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/politico-2022/politico-2022-08-12T14:18:26.707898-04:00.jpg">
   <img src="https://archive.org/download/politico-2022/politico-2022-08-12T14:18:26.707898-04:00.jpg"
-     alt="POLITICO at 2022-08-12 14:18:43-04:00 local time"
+     alt="POLITICO at 2022-08-12 07:18:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/politico-2022/politico-2022-08-12T14:18:26.707898-04:00.jpg">August 12 at 2:18 PM</a></p>
+ <p><a href="https://archive.org/download/politico-2022/politico-2022-08-12T14:18:26.707898-04:00.jpg">August 12 at 7:18 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/politico-2022/politico-2022-08-12T05:42:28.497592-04:00.jpg">
   <img src="https://archive.org/download/politico-2022/politico-2022-08-12T05:42:28.497592-04:00.jpg"
-     alt="POLITICO at 2022-08-12 05:42:39-04:00 local time"
+     alt="POLITICO at 2022-08-11 22:42:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/politico-2022/politico-2022-08-12T05:42:28.497592-04:00.jpg">August 12 at 5:42 AM</a></p>
+ <p><a href="https://archive.org/download/politico-2022/politico-2022-08-12T05:42:28.497592-04:00.jpg">August 11 at 10:42 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/politico-2022/politico-2022-08-11T14:51:25.579912-04:00.jpg">
   <img src="https://archive.org/download/politico-2022/politico-2022-08-11T14:51:25.579912-04:00.jpg"
-     alt="POLITICO at 2022-08-11 14:51:30-04:00 local time"
+     alt="POLITICO at 2022-08-11 07:51:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/politico-2022/politico-2022-08-11T14:51:25.579912-04:00.jpg">August 11 at 2:51 PM</a></p>
+ <p><a href="https://archive.org/download/politico-2022/politico-2022-08-11T14:51:25.579912-04:00.jpg">August 11 at 7:51 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/politico-2022/politico-2022-08-11T01:21:29.179680-04:00.jpg">
   <img src="https://archive.org/download/politico-2022/politico-2022-08-11T01:21:29.179680-04:00.jpg"
-     alt="POLITICO at 2022-08-11 01:21:30-04:00 local time"
+     alt="POLITICO at 2022-08-10 18:21:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/politico-2022/politico-2022-08-11T01:21:29.179680-04:00.jpg">August 11 at 1:21 AM</a></p>
+ <p><a href="https://archive.org/download/politico-2022/politico-2022-08-11T01:21:29.179680-04:00.jpg">August 10 at 6:21 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/politico-2022/politico-2022-08-10T14:17:08.775002-04:00.jpg">
   <img src="https://archive.org/download/politico-2022/politico-2022-08-10T14:17:08.775002-04:00.jpg"
-     alt="POLITICO at 2022-08-10 14:17:14-04:00 local time"
+     alt="POLITICO at 2022-08-10 07:17:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/politico-2022/politico-2022-08-10T14:17:08.775002-04:00.jpg">August 10 at 2:17 PM</a></p>
+ <p><a href="https://archive.org/download/politico-2022/politico-2022-08-10T14:17:08.775002-04:00.jpg">August 10 at 7:17 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/politico-2022/politico-2022-08-10T01:27:00.739376-04:00.jpg">
   <img src="https://archive.org/download/politico-2022/politico-2022-08-10T01:27:00.739376-04:00.jpg"
-     alt="POLITICO at 2022-08-10 01:27:01-04:00 local time"
+     alt="POLITICO at 2022-08-09 18:27:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/politico-2022/politico-2022-08-10T01:27:00.739376-04:00.jpg">August 10 at 1:27 AM</a></p>
+ <p><a href="https://archive.org/download/politico-2022/politico-2022-08-10T01:27:00.739376-04:00.jpg">August 9 at 6:27 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/politico-2022/politico-2022-08-09T13:48:17.684410-04:00.jpg">
   <img src="https://archive.org/download/politico-2022/politico-2022-08-09T13:48:17.684410-04:00.jpg"
-     alt="POLITICO at 2022-08-09 13:48:22-04:00 local time"
+     alt="POLITICO at 2022-08-09 06:48:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/politico-2022/politico-2022-08-09T13:48:17.684410-04:00.jpg">August 9 at 1:48 PM</a></p>
+ <p><a href="https://archive.org/download/politico-2022/politico-2022-08-09T13:48:17.684410-04:00.jpg">August 9 at 6:48 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/politico-2022/politico-2022-08-09T01:04:27.019095-04:00.jpg">
   <img src="https://archive.org/download/politico-2022/politico-2022-08-09T01:04:27.019095-04:00.jpg"
-     alt="POLITICO at 2022-08-09 01:04:30-04:00 local time"
+     alt="POLITICO at 2022-08-08 18:04:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/politico-2022/politico-2022-08-09T01:04:27.019095-04:00.jpg">August 9 at 1:04 AM</a></p>
+ <p><a href="https://archive.org/download/politico-2022/politico-2022-08-09T01:04:27.019095-04:00.jpg">August 8 at 6:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/politico-2022/politico-2022-08-08T01:19:49.188186-04:00.jpg">
   <img src="https://archive.org/download/politico-2022/politico-2022-08-08T01:19:49.188186-04:00.jpg"
-     alt="POLITICO at 2022-08-08 01:19:52-04:00 local time"
+     alt="POLITICO at 2022-08-07 18:19:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/politico-2022/politico-2022-08-08T01:19:49.188186-04:00.jpg">August 8 at 1:19 AM</a></p>
+ <p><a href="https://archive.org/download/politico-2022/politico-2022-08-08T01:19:49.188186-04:00.jpg">August 7 at 6:19 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/politico-2022/politico-2022-08-07T13:01:06.694909-04:00.jpg">
   <img src="https://archive.org/download/politico-2022/politico-2022-08-07T13:01:06.694909-04:00.jpg"
-     alt="POLITICO at 2022-08-07 13:01:08-04:00 local time"
+     alt="POLITICO at 2022-08-07 06:01:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/politico-2022/politico-2022-08-07T13:01:06.694909-04:00.jpg">August 7 at 1:01 PM</a></p>
+ <p><a href="https://archive.org/download/politico-2022/politico-2022-08-07T13:01:06.694909-04:00.jpg">August 7 at 6:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/politico-2022/politico-2022-08-07T00:40:16.193207-04:00.jpg">
   <img src="https://archive.org/download/politico-2022/politico-2022-08-07T00:40:16.193207-04:00.jpg"
-     alt="POLITICO at 2022-08-07 00:40:20-04:00 local time"
+     alt="POLITICO at 2022-08-06 17:40:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/politico-2022/politico-2022-08-07T00:40:16.193207-04:00.jpg">August 7 at 12:40 AM</a></p>
+ <p><a href="https://archive.org/download/politico-2022/politico-2022-08-07T00:40:16.193207-04:00.jpg">August 6 at 5:40 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/politico-2022/politico-2022-08-06T12:22:46.217609-04:00.jpg">
   <img src="https://archive.org/download/politico-2022/politico-2022-08-06T12:22:46.217609-04:00.jpg"
-     alt="POLITICO at 2022-08-06 12:22:47-04:00 local time"
+     alt="POLITICO at 2022-08-06 05:22:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/politico-2022/politico-2022-08-06T12:22:46.217609-04:00.jpg">August 6 at 12:22 PM</a></p>
+ <p><a href="https://archive.org/download/politico-2022/politico-2022-08-06T12:22:46.217609-04:00.jpg">August 6 at 5:22 AM</a></p>
 </div>
 
 </div>
@@ -316,16 +316,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 12 at 2:19 PM](https://archive.org/download/politico-2022/politico-2022-08-12T14:18:26.707898-04:00.hyperlinks.json) |
-| [August 12 at 5:42 AM](https://archive.org/download/politico-2022/politico-2022-08-12T05:42:28.497592-04:00.hyperlinks.json) |
-| [August 11 at 1:21 AM](https://archive.org/download/politico-2022/politico-2022-08-11T01:21:29.179680-04:00.hyperlinks.json) |
-| [August 10 at 1:27 AM](https://archive.org/download/politico-2022/politico-2022-08-10T01:27:00.739376-04:00.hyperlinks.json) |
-| [August 9 at 1:04 AM](https://archive.org/download/politico-2022/politico-2022-08-09T01:04:27.019095-04:00.hyperlinks.json) |
-| [August 8 at 1:14 PM](https://archive.org/download/politico-2022/politico-2022-08-08T13:14:07.216655-04:00.hyperlinks.json) |
-| [August 8 at 1:19 AM](https://archive.org/download/politico-2022/politico-2022-08-08T01:19:49.188186-04:00.hyperlinks.json) |
-| [August 7 at 1:01 PM](https://archive.org/download/politico-2022/politico-2022-08-07T13:01:06.694909-04:00.hyperlinks.json) |
-| [August 7 at 12:40 AM](https://archive.org/download/politico-2022/politico-2022-08-07T00:40:16.193207-04:00.hyperlinks.json) |
-| [August 6 at 12:22 PM](https://archive.org/download/politico-2022/politico-2022-08-06T12:22:46.217609-04:00.hyperlinks.json) |
+| [August 12 at 7:19 AM](https://archive.org/download/politico-2022/politico-2022-08-12T14:18:26.707898-04:00.hyperlinks.json) |
+| [August 11 at 10:42 PM](https://archive.org/download/politico-2022/politico-2022-08-12T05:42:28.497592-04:00.hyperlinks.json) |
+| [August 10 at 6:21 PM](https://archive.org/download/politico-2022/politico-2022-08-11T01:21:29.179680-04:00.hyperlinks.json) |
+| [August 9 at 6:27 PM](https://archive.org/download/politico-2022/politico-2022-08-10T01:27:00.739376-04:00.hyperlinks.json) |
+| [August 8 at 6:04 PM](https://archive.org/download/politico-2022/politico-2022-08-09T01:04:27.019095-04:00.hyperlinks.json) |
+| [August 8 at 6:14 AM](https://archive.org/download/politico-2022/politico-2022-08-08T13:14:07.216655-04:00.hyperlinks.json) |
+| [August 7 at 6:19 PM](https://archive.org/download/politico-2022/politico-2022-08-08T01:19:49.188186-04:00.hyperlinks.json) |
+| [August 7 at 6:01 AM](https://archive.org/download/politico-2022/politico-2022-08-07T13:01:06.694909-04:00.hyperlinks.json) |
+| [August 6 at 5:40 PM](https://archive.org/download/politico-2022/politico-2022-08-07T00:40:16.193207-04:00.hyperlinks.json) |
+| [August 6 at 5:22 AM](https://archive.org/download/politico-2022/politico-2022-08-06T12:22:46.217609-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -421,16 +421,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 12 at 2:19 PM](https://archive.org/download/politico-2022/politico-2022-08-12T14:18:26.707898-04:00.accessibility.json) |
-| [August 12 at 5:42 AM](https://archive.org/download/politico-2022/politico-2022-08-12T05:42:28.497592-04:00.accessibility.json) |
-| [August 11 at 2:51 PM](https://archive.org/download/politico-2022/politico-2022-08-11T14:51:25.579912-04:00.accessibility.json) |
-| [August 11 at 1:21 AM](https://archive.org/download/politico-2022/politico-2022-08-11T01:21:29.179680-04:00.accessibility.json) |
-| [August 10 at 2:17 PM](https://archive.org/download/politico-2022/politico-2022-08-10T14:17:08.775002-04:00.accessibility.json) |
-| [August 10 at 1:27 AM](https://archive.org/download/politico-2022/politico-2022-08-10T01:27:00.739376-04:00.accessibility.json) |
-| [August 9 at 1:48 PM](https://archive.org/download/politico-2022/politico-2022-08-09T13:48:17.684410-04:00.accessibility.json) |
-| [August 9 at 1:04 AM](https://archive.org/download/politico-2022/politico-2022-08-09T01:04:27.019095-04:00.accessibility.json) |
-| [August 8 at 1:14 PM](https://archive.org/download/politico-2022/politico-2022-08-08T13:14:07.216655-04:00.accessibility.json) |
-| [August 8 at 1:19 AM](https://archive.org/download/politico-2022/politico-2022-08-08T01:19:49.188186-04:00.accessibility.json) |
+| [August 12 at 7:19 AM](https://archive.org/download/politico-2022/politico-2022-08-12T14:18:26.707898-04:00.accessibility.json) |
+| [August 11 at 10:42 PM](https://archive.org/download/politico-2022/politico-2022-08-12T05:42:28.497592-04:00.accessibility.json) |
+| [August 11 at 7:51 AM](https://archive.org/download/politico-2022/politico-2022-08-11T14:51:25.579912-04:00.accessibility.json) |
+| [August 10 at 6:21 PM](https://archive.org/download/politico-2022/politico-2022-08-11T01:21:29.179680-04:00.accessibility.json) |
+| [August 10 at 7:17 AM](https://archive.org/download/politico-2022/politico-2022-08-10T14:17:08.775002-04:00.accessibility.json) |
+| [August 9 at 6:27 PM](https://archive.org/download/politico-2022/politico-2022-08-10T01:27:00.739376-04:00.accessibility.json) |
+| [August 9 at 6:48 AM](https://archive.org/download/politico-2022/politico-2022-08-09T13:48:17.684410-04:00.accessibility.json) |
+| [August 8 at 6:04 PM](https://archive.org/download/politico-2022/politico-2022-08-09T01:04:27.019095-04:00.accessibility.json) |
+| [August 8 at 6:14 AM](https://archive.org/download/politico-2022/politico-2022-08-08T13:14:07.216655-04:00.accessibility.json) |
+| [August 7 at 6:19 PM](https://archive.org/download/politico-2022/politico-2022-08-08T01:19:49.188186-04:00.accessibility.json) |
 
 
 
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 12 at 2:19 PM](https://archive.org/download/politico-2022/politico-2022-08-12T14:18:26.707898-04:00.lighthouse.json) |
-| [August 12 at 5:42 AM](https://archive.org/download/politico-2022/politico-2022-08-12T05:42:28.497592-04:00.lighthouse.json) |
-| [August 11 at 2:51 PM](https://archive.org/download/politico-2022/politico-2022-08-11T14:51:25.579912-04:00.lighthouse.json) |
-| [August 11 at 1:21 AM](https://archive.org/download/politico-2022/politico-2022-08-11T01:21:29.179680-04:00.lighthouse.json) |
-| [August 10 at 2:17 PM](https://archive.org/download/politico-2022/politico-2022-08-10T14:17:08.775002-04:00.lighthouse.json) |
-| [August 10 at 1:27 AM](https://archive.org/download/politico-2022/politico-2022-08-10T01:27:00.739376-04:00.lighthouse.json) |
-| [August 9 at 1:48 PM](https://archive.org/download/politico-2022/politico-2022-08-09T13:48:17.684410-04:00.lighthouse.json) |
-| [August 9 at 1:04 AM](https://archive.org/download/politico-2022/politico-2022-08-09T01:04:27.019095-04:00.lighthouse.json) |
-| [August 8 at 1:14 PM](https://archive.org/download/politico-2022/politico-2022-08-08T13:14:07.216655-04:00.lighthouse.json) |
-| [August 8 at 1:19 AM](https://archive.org/download/politico-2022/politico-2022-08-08T01:19:49.188186-04:00.lighthouse.json) |
+| [August 12 at 7:19 AM](https://archive.org/download/politico-2022/politico-2022-08-12T14:18:26.707898-04:00.lighthouse.json) |
+| [August 11 at 10:42 PM](https://archive.org/download/politico-2022/politico-2022-08-12T05:42:28.497592-04:00.lighthouse.json) |
+| [August 11 at 7:51 AM](https://archive.org/download/politico-2022/politico-2022-08-11T14:51:25.579912-04:00.lighthouse.json) |
+| [August 10 at 6:21 PM](https://archive.org/download/politico-2022/politico-2022-08-11T01:21:29.179680-04:00.lighthouse.json) |
+| [August 10 at 7:17 AM](https://archive.org/download/politico-2022/politico-2022-08-10T14:17:08.775002-04:00.lighthouse.json) |
+| [August 9 at 6:27 PM](https://archive.org/download/politico-2022/politico-2022-08-10T01:27:00.739376-04:00.lighthouse.json) |
+| [August 9 at 6:48 AM](https://archive.org/download/politico-2022/politico-2022-08-09T13:48:17.684410-04:00.lighthouse.json) |
+| [August 8 at 6:04 PM](https://archive.org/download/politico-2022/politico-2022-08-09T01:04:27.019095-04:00.lighthouse.json) |
+| [August 8 at 6:14 AM](https://archive.org/download/politico-2022/politico-2022-08-08T13:14:07.216655-04:00.lighthouse.json) |
+| [August 7 at 6:19 PM](https://archive.org/download/politico-2022/politico-2022-08-08T01:19:49.188186-04:00.lighthouse.json) |
 
 
 

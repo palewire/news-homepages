@@ -116,109 +116,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/bfmtv-2022/bfmtv-2022-08-13T02:26:21.303157+02:00.jpg">
   <img src="https://archive.org/download/bfmtv-2022/bfmtv-2022-08-13T02:26:21.303157+02:00.jpg"
-     alt="BFMTV at 2022-08-13 02:26:25+02:00 local time"
+     alt="BFMTV at 2022-08-12 19:26:25+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bfmtv-2022/bfmtv-2022-08-13T02:26:21.303157+02:00.jpg">August 13 at 2:26 AM</a></p>
+ <p><a href="https://archive.org/download/bfmtv-2022/bfmtv-2022-08-13T02:26:21.303157+02:00.jpg">August 12 at 7:26 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bfmtv-2022/bfmtv-2022-08-12T13:36:39.185471+02:00.jpg">
   <img src="https://archive.org/download/bfmtv-2022/bfmtv-2022-08-12T13:36:39.185471+02:00.jpg"
-     alt="BFMTV at 2022-08-12 13:36:41+02:00 local time"
+     alt="BFMTV at 2022-08-12 06:36:41+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bfmtv-2022/bfmtv-2022-08-12T13:36:39.185471+02:00.jpg">August 12 at 1:36 PM</a></p>
+ <p><a href="https://archive.org/download/bfmtv-2022/bfmtv-2022-08-12T13:36:39.185471+02:00.jpg">August 12 at 6:36 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bfmtv-2022/bfmtv-2022-08-12T12:19:07.385502+02:00.jpg">
   <img src="https://archive.org/download/bfmtv-2022/bfmtv-2022-08-12T12:19:07.385502+02:00.jpg"
-     alt="BFMTV at 2022-08-12 12:19:10+02:00 local time"
+     alt="BFMTV at 2022-08-12 05:19:10+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bfmtv-2022/bfmtv-2022-08-12T12:19:07.385502+02:00.jpg">August 12 at 12:19 PM</a></p>
+ <p><a href="https://archive.org/download/bfmtv-2022/bfmtv-2022-08-12T12:19:07.385502+02:00.jpg">August 12 at 5:19 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bfmtv-2022/bfmtv-2022-08-12T01:19:48.600127+02:00.jpg">
   <img src="https://archive.org/download/bfmtv-2022/bfmtv-2022-08-12T01:19:48.600127+02:00.jpg"
-     alt="BFMTV at 2022-08-12 01:19:51+02:00 local time"
+     alt="BFMTV at 2022-08-11 18:19:51+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bfmtv-2022/bfmtv-2022-08-12T01:19:48.600127+02:00.jpg">August 12 at 1:19 AM</a></p>
+ <p><a href="https://archive.org/download/bfmtv-2022/bfmtv-2022-08-12T01:19:48.600127+02:00.jpg">August 11 at 6:19 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bfmtv-2022/bfmtv-2022-08-11T13:34:27.336366+02:00.jpg">
   <img src="https://archive.org/download/bfmtv-2022/bfmtv-2022-08-11T13:34:27.336366+02:00.jpg"
-     alt="BFMTV at 2022-08-11 13:34:30+02:00 local time"
+     alt="BFMTV at 2022-08-11 06:34:30+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bfmtv-2022/bfmtv-2022-08-11T13:34:27.336366+02:00.jpg">August 11 at 1:34 PM</a></p>
+ <p><a href="https://archive.org/download/bfmtv-2022/bfmtv-2022-08-11T13:34:27.336366+02:00.jpg">August 11 at 6:34 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bfmtv-2022/bfmtv-2022-08-11T10:13:06.580239+02:00.jpg">
   <img src="https://archive.org/download/bfmtv-2022/bfmtv-2022-08-11T10:13:06.580239+02:00.jpg"
-     alt="BFMTV at 2022-08-11 10:13:08+02:00 local time"
+     alt="BFMTV at 2022-08-11 03:13:08+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bfmtv-2022/bfmtv-2022-08-11T10:13:06.580239+02:00.jpg">August 11 at 10:13 AM</a></p>
+ <p><a href="https://archive.org/download/bfmtv-2022/bfmtv-2022-08-11T10:13:06.580239+02:00.jpg">August 11 at 3:13 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bfmtv-2022/bfmtv-2022-08-11T02:37:51.933673+02:00.jpg">
   <img src="https://archive.org/download/bfmtv-2022/bfmtv-2022-08-11T02:37:51.933673+02:00.jpg"
-     alt="BFMTV at 2022-08-11 02:37:55+02:00 local time"
+     alt="BFMTV at 2022-08-10 19:37:55+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bfmtv-2022/bfmtv-2022-08-11T02:37:51.933673+02:00.jpg">August 11 at 2:37 AM</a></p>
+ <p><a href="https://archive.org/download/bfmtv-2022/bfmtv-2022-08-11T02:37:51.933673+02:00.jpg">August 10 at 7:37 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bfmtv-2022/bfmtv-2022-08-10T14:51:33.579444+02:00.jpg">
   <img src="https://archive.org/download/bfmtv-2022/bfmtv-2022-08-10T14:51:33.579444+02:00.jpg"
-     alt="BFMTV at 2022-08-10 14:51:35+02:00 local time"
+     alt="BFMTV at 2022-08-10 07:51:35+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bfmtv-2022/bfmtv-2022-08-10T14:51:33.579444+02:00.jpg">August 10 at 2:51 PM</a></p>
+ <p><a href="https://archive.org/download/bfmtv-2022/bfmtv-2022-08-10T14:51:33.579444+02:00.jpg">August 10 at 7:51 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bfmtv-2022/bfmtv-2022-08-10T10:10:44.976285+02:00.jpg">
   <img src="https://archive.org/download/bfmtv-2022/bfmtv-2022-08-10T10:10:44.976285+02:00.jpg"
-     alt="BFMTV at 2022-08-10 10:10:46+02:00 local time"
+     alt="BFMTV at 2022-08-10 03:10:46+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bfmtv-2022/bfmtv-2022-08-10T10:10:44.976285+02:00.jpg">August 10 at 10:10 AM</a></p>
+ <p><a href="https://archive.org/download/bfmtv-2022/bfmtv-2022-08-10T10:10:44.976285+02:00.jpg">August 10 at 3:10 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bfmtv-2022/bfmtv-2022-08-10T01:22:08.805908+02:00.jpg">
   <img src="https://archive.org/download/bfmtv-2022/bfmtv-2022-08-10T01:22:08.805908+02:00.jpg"
-     alt="BFMTV at 2022-08-10 01:22:12+02:00 local time"
+     alt="BFMTV at 2022-08-09 18:22:12+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bfmtv-2022/bfmtv-2022-08-10T01:22:08.805908+02:00.jpg">August 10 at 1:22 AM</a></p>
+ <p><a href="https://archive.org/download/bfmtv-2022/bfmtv-2022-08-10T01:22:08.805908+02:00.jpg">August 9 at 6:22 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bfmtv-2022/bfmtv-2022-08-09T14:38:24.300446+02:00.jpg">
   <img src="https://archive.org/download/bfmtv-2022/bfmtv-2022-08-09T14:38:24.300446+02:00.jpg"
-     alt="BFMTV at 2022-08-09 14:38:25+02:00 local time"
+     alt="BFMTV at 2022-08-09 07:38:25+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bfmtv-2022/bfmtv-2022-08-09T14:38:24.300446+02:00.jpg">August 9 at 2:38 PM</a></p>
+ <p><a href="https://archive.org/download/bfmtv-2022/bfmtv-2022-08-09T14:38:24.300446+02:00.jpg">August 9 at 7:38 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bfmtv-2022/bfmtv-2022-08-09T10:10:52.273097+02:00.jpg">
   <img src="https://archive.org/download/bfmtv-2022/bfmtv-2022-08-09T10:10:52.273097+02:00.jpg"
-     alt="BFMTV at 2022-08-09 10:10:53+02:00 local time"
+     alt="BFMTV at 2022-08-09 03:10:53+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/bfmtv-2022/bfmtv-2022-08-09T10:10:52.273097+02:00.jpg">August 9 at 10:10 AM</a></p>
+ <p><a href="https://archive.org/download/bfmtv-2022/bfmtv-2022-08-09T10:10:52.273097+02:00.jpg">August 9 at 3:10 AM</a></p>
 </div>
 
 </div>
@@ -316,16 +316,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 13 at 2:26 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-13T02:26:21.303157+02:00.hyperlinks.json) |
-| [August 12 at 1:36 PM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-12T13:36:39.185471+02:00.hyperlinks.json) |
-| [August 12 at 12:19 PM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-12T12:19:07.385502+02:00.hyperlinks.json) |
-| [August 12 at 1:19 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-12T01:19:48.600127+02:00.hyperlinks.json) |
-| [August 11 at 1:34 PM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-11T13:34:27.336366+02:00.hyperlinks.json) |
-| [August 11 at 10:13 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-11T10:13:06.580239+02:00.hyperlinks.json) |
-| [August 11 at 2:38 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-11T02:37:51.933673+02:00.hyperlinks.json) |
-| [August 10 at 2:51 PM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-10T14:51:33.579444+02:00.hyperlinks.json) |
-| [August 10 at 10:10 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-10T10:10:44.976285+02:00.hyperlinks.json) |
-| [August 10 at 1:22 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-10T01:22:08.805908+02:00.hyperlinks.json) |
+| [August 12 at 7:26 PM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-13T02:26:21.303157+02:00.hyperlinks.json) |
+| [August 12 at 6:36 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-12T13:36:39.185471+02:00.hyperlinks.json) |
+| [August 12 at 5:19 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-12T12:19:07.385502+02:00.hyperlinks.json) |
+| [August 11 at 6:19 PM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-12T01:19:48.600127+02:00.hyperlinks.json) |
+| [August 11 at 6:34 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-11T13:34:27.336366+02:00.hyperlinks.json) |
+| [August 11 at 3:13 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-11T10:13:06.580239+02:00.hyperlinks.json) |
+| [August 10 at 7:38 PM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-11T02:37:51.933673+02:00.hyperlinks.json) |
+| [August 10 at 7:51 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-10T14:51:33.579444+02:00.hyperlinks.json) |
+| [August 10 at 3:10 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-10T10:10:44.976285+02:00.hyperlinks.json) |
+| [August 9 at 6:22 PM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-10T01:22:08.805908+02:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -421,16 +421,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 13 at 2:26 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-13T02:26:21.303157+02:00.accessibility.json) |
-| [August 12 at 1:36 PM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-12T13:36:39.185471+02:00.accessibility.json) |
-| [August 12 at 12:19 PM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-12T12:19:07.385502+02:00.accessibility.json) |
-| [August 12 at 1:19 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-12T01:19:48.600127+02:00.accessibility.json) |
-| [August 11 at 1:34 PM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-11T13:34:27.336366+02:00.accessibility.json) |
-| [August 11 at 10:13 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-11T10:13:06.580239+02:00.accessibility.json) |
-| [August 11 at 2:37 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-11T02:37:51.933673+02:00.accessibility.json) |
-| [August 10 at 2:51 PM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-10T14:51:33.579444+02:00.accessibility.json) |
-| [August 10 at 10:10 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-10T10:10:44.976285+02:00.accessibility.json) |
-| [August 10 at 1:22 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-10T01:22:08.805908+02:00.accessibility.json) |
+| [August 12 at 7:26 PM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-13T02:26:21.303157+02:00.accessibility.json) |
+| [August 12 at 6:36 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-12T13:36:39.185471+02:00.accessibility.json) |
+| [August 12 at 5:19 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-12T12:19:07.385502+02:00.accessibility.json) |
+| [August 11 at 6:19 PM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-12T01:19:48.600127+02:00.accessibility.json) |
+| [August 11 at 6:34 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-11T13:34:27.336366+02:00.accessibility.json) |
+| [August 11 at 3:13 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-11T10:13:06.580239+02:00.accessibility.json) |
+| [August 10 at 7:37 PM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-11T02:37:51.933673+02:00.accessibility.json) |
+| [August 10 at 7:51 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-10T14:51:33.579444+02:00.accessibility.json) |
+| [August 10 at 3:10 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-10T10:10:44.976285+02:00.accessibility.json) |
+| [August 9 at 6:22 PM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-10T01:22:08.805908+02:00.accessibility.json) |
 
 
 
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 13 at 2:26 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-13T02:26:21.303157+02:00.lighthouse.json) |
-| [August 12 at 1:36 PM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-12T13:36:39.185471+02:00.lighthouse.json) |
-| [August 12 at 12:19 PM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-12T12:19:07.385502+02:00.lighthouse.json) |
-| [August 12 at 1:19 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-12T01:19:48.600127+02:00.lighthouse.json) |
-| [August 11 at 1:34 PM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-11T13:34:27.336366+02:00.lighthouse.json) |
-| [August 11 at 10:13 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-11T10:13:06.580239+02:00.lighthouse.json) |
-| [August 11 at 2:38 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-11T02:37:51.933673+02:00.lighthouse.json) |
-| [August 10 at 2:51 PM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-10T14:51:33.579444+02:00.lighthouse.json) |
-| [August 10 at 10:10 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-10T10:10:44.976285+02:00.lighthouse.json) |
-| [August 10 at 1:22 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-10T01:22:08.805908+02:00.lighthouse.json) |
+| [August 12 at 7:26 PM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-13T02:26:21.303157+02:00.lighthouse.json) |
+| [August 12 at 6:36 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-12T13:36:39.185471+02:00.lighthouse.json) |
+| [August 12 at 5:19 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-12T12:19:07.385502+02:00.lighthouse.json) |
+| [August 11 at 6:19 PM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-12T01:19:48.600127+02:00.lighthouse.json) |
+| [August 11 at 6:34 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-11T13:34:27.336366+02:00.lighthouse.json) |
+| [August 11 at 3:13 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-11T10:13:06.580239+02:00.lighthouse.json) |
+| [August 10 at 7:38 PM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-11T02:37:51.933673+02:00.lighthouse.json) |
+| [August 10 at 7:51 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-10T14:51:33.579444+02:00.lighthouse.json) |
+| [August 10 at 3:10 AM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-10T10:10:44.976285+02:00.lighthouse.json) |
+| [August 9 at 6:22 PM](https://archive.org/download/bfmtv-2022/bfmtv-2022-08-10T01:22:08.805908+02:00.lighthouse.json) |
 
 
 

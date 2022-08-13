@@ -116,109 +116,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-12T19:28:14.489670-05:00.jpg">
   <img src="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-12T19:28:14.489670-05:00.jpg"
-     alt="Breckenridge Texan at 2022-08-12 19:28:16-05:00 local time"
+     alt="Breckenridge Texan at 2022-08-12 12:28:16-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-12T19:28:14.489670-05:00.jpg">August 12 at 7:28 PM</a></p>
+ <p><a href="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-12T19:28:14.489670-05:00.jpg">August 12 at 12:28 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-12T06:38:25.850385-05:00.jpg">
   <img src="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-12T06:38:25.850385-05:00.jpg"
-     alt="Breckenridge Texan at 2022-08-12 06:38:29-05:00 local time"
+     alt="Breckenridge Texan at 2022-08-11 23:38:29-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-12T06:38:25.850385-05:00.jpg">August 12 at 6:38 AM</a></p>
+ <p><a href="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-12T06:38:25.850385-05:00.jpg">August 11 at 11:38 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-11T18:21:56.902212-05:00.jpg">
   <img src="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-11T18:21:56.902212-05:00.jpg"
-     alt="Breckenridge Texan at 2022-08-11 18:22:00-05:00 local time"
+     alt="Breckenridge Texan at 2022-08-11 11:22:00-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-11T18:21:56.902212-05:00.jpg">August 11 at 6:22 PM</a></p>
+ <p><a href="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-11T18:21:56.902212-05:00.jpg">August 11 at 11:22 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-11T06:35:54.976164-05:00.jpg">
   <img src="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-11T06:35:54.976164-05:00.jpg"
-     alt="Breckenridge Texan at 2022-08-11 06:36:01-05:00 local time"
+     alt="Breckenridge Texan at 2022-08-10 23:36:01-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-11T06:35:54.976164-05:00.jpg">August 11 at 6:36 AM</a></p>
+ <p><a href="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-11T06:35:54.976164-05:00.jpg">August 10 at 11:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-10T19:38:56.812571-05:00.jpg">
   <img src="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-10T19:38:56.812571-05:00.jpg"
-     alt="Breckenridge Texan at 2022-08-10 19:39:03-05:00 local time"
+     alt="Breckenridge Texan at 2022-08-10 12:39:03-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-10T19:38:56.812571-05:00.jpg">August 10 at 7:39 PM</a></p>
+ <p><a href="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-10T19:38:56.812571-05:00.jpg">August 10 at 12:39 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-10T07:53:58.388784-05:00.jpg">
   <img src="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-10T07:53:58.388784-05:00.jpg"
-     alt="Breckenridge Texan at 2022-08-10 07:54:06-05:00 local time"
+     alt="Breckenridge Texan at 2022-08-10 00:54:06-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-10T07:53:58.388784-05:00.jpg">August 10 at 7:54 AM</a></p>
+ <p><a href="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-10T07:53:58.388784-05:00.jpg">August 10 at 12:54 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-09T18:23:33.829663-05:00.jpg">
   <img src="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-09T18:23:33.829663-05:00.jpg"
-     alt="Breckenridge Texan at 2022-08-09 18:23:37-05:00 local time"
+     alt="Breckenridge Texan at 2022-08-09 11:23:37-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-09T18:23:33.829663-05:00.jpg">August 9 at 6:23 PM</a></p>
+ <p><a href="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-09T18:23:33.829663-05:00.jpg">August 9 at 11:23 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-09T07:39:23.209372-05:00.jpg">
   <img src="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-09T07:39:23.209372-05:00.jpg"
-     alt="Breckenridge Texan at 2022-08-09 07:39:26-05:00 local time"
+     alt="Breckenridge Texan at 2022-08-09 00:39:26-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-09T07:39:23.209372-05:00.jpg">August 9 at 7:39 AM</a></p>
+ <p><a href="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-09T07:39:23.209372-05:00.jpg">August 9 at 12:39 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-08T19:35:33.179543-05:00.jpg">
   <img src="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-08T19:35:33.179543-05:00.jpg"
-     alt="Breckenridge Texan at 2022-08-08 19:35:35-05:00 local time"
+     alt="Breckenridge Texan at 2022-08-08 12:35:35-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-08T19:35:33.179543-05:00.jpg">August 8 at 7:35 PM</a></p>
+ <p><a href="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-08T19:35:33.179543-05:00.jpg">August 8 at 12:35 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-08T06:20:24.502965-05:00.jpg">
   <img src="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-08T06:20:24.502965-05:00.jpg"
-     alt="Breckenridge Texan at 2022-08-08 06:20:26-05:00 local time"
+     alt="Breckenridge Texan at 2022-08-07 23:20:26-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-08T06:20:24.502965-05:00.jpg">August 8 at 6:20 AM</a></p>
+ <p><a href="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-08T06:20:24.502965-05:00.jpg">August 7 at 11:20 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-07T19:42:57.127739-05:00.jpg">
   <img src="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-07T19:42:57.127739-05:00.jpg"
-     alt="Breckenridge Texan at 2022-08-07 19:43:00-05:00 local time"
+     alt="Breckenridge Texan at 2022-08-07 12:43:00-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-07T19:42:57.127739-05:00.jpg">August 7 at 7:43 PM</a></p>
+ <p><a href="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-07T19:42:57.127739-05:00.jpg">August 7 at 12:43 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-07T07:23:28.476786-05:00.jpg">
   <img src="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-07T07:23:28.476786-05:00.jpg"
-     alt="Breckenridge Texan at 2022-08-07 07:23:29-05:00 local time"
+     alt="Breckenridge Texan at 2022-08-07 00:23:29-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-07T07:23:28.476786-05:00.jpg">August 7 at 7:23 AM</a></p>
+ <p><a href="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-07T07:23:28.476786-05:00.jpg">August 7 at 12:23 AM</a></p>
 </div>
 
 </div>
@@ -316,16 +316,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 12 at 7:28 PM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-12T19:28:14.489670-05:00.hyperlinks.json) |
-| [August 12 at 6:38 AM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-12T06:38:25.850385-05:00.hyperlinks.json) |
-| [August 11 at 6:22 PM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-11T18:21:56.902212-05:00.hyperlinks.json) |
-| [August 11 at 6:36 AM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-11T06:35:54.976164-05:00.hyperlinks.json) |
-| [August 10 at 7:39 PM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-10T19:38:56.812571-05:00.hyperlinks.json) |
-| [August 10 at 7:54 AM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-10T07:53:58.388784-05:00.hyperlinks.json) |
-| [August 9 at 6:23 PM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-09T18:23:33.829663-05:00.hyperlinks.json) |
-| [August 9 at 7:39 AM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-09T07:39:23.209372-05:00.hyperlinks.json) |
-| [August 8 at 7:35 PM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-08T19:35:33.179543-05:00.hyperlinks.json) |
-| [August 8 at 6:20 AM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-08T06:20:24.502965-05:00.hyperlinks.json) |
+| [August 12 at 12:28 PM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-12T19:28:14.489670-05:00.hyperlinks.json) |
+| [August 11 at 11:38 PM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-12T06:38:25.850385-05:00.hyperlinks.json) |
+| [August 11 at 11:22 AM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-11T18:21:56.902212-05:00.hyperlinks.json) |
+| [August 10 at 11:36 PM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-11T06:35:54.976164-05:00.hyperlinks.json) |
+| [August 10 at 12:39 PM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-10T19:38:56.812571-05:00.hyperlinks.json) |
+| [August 10 at 12:54 AM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-10T07:53:58.388784-05:00.hyperlinks.json) |
+| [August 9 at 11:23 AM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-09T18:23:33.829663-05:00.hyperlinks.json) |
+| [August 9 at 12:39 AM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-09T07:39:23.209372-05:00.hyperlinks.json) |
+| [August 8 at 12:35 PM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-08T19:35:33.179543-05:00.hyperlinks.json) |
+| [August 7 at 11:20 PM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-08T06:20:24.502965-05:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -421,16 +421,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 12 at 7:28 PM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-12T19:28:14.489670-05:00.accessibility.json) |
-| [August 12 at 6:38 AM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-12T06:38:25.850385-05:00.accessibility.json) |
-| [August 11 at 6:22 PM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-11T18:21:56.902212-05:00.accessibility.json) |
-| [August 11 at 6:36 AM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-11T06:35:54.976164-05:00.accessibility.json) |
-| [August 10 at 7:39 PM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-10T19:38:56.812571-05:00.accessibility.json) |
-| [August 10 at 7:54 AM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-10T07:53:58.388784-05:00.accessibility.json) |
-| [August 9 at 6:23 PM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-09T18:23:33.829663-05:00.accessibility.json) |
-| [August 9 at 7:39 AM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-09T07:39:23.209372-05:00.accessibility.json) |
-| [August 8 at 7:35 PM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-08T19:35:33.179543-05:00.accessibility.json) |
-| [August 8 at 6:20 AM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-08T06:20:24.502965-05:00.accessibility.json) |
+| [August 12 at 12:28 PM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-12T19:28:14.489670-05:00.accessibility.json) |
+| [August 11 at 11:38 PM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-12T06:38:25.850385-05:00.accessibility.json) |
+| [August 11 at 11:22 AM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-11T18:21:56.902212-05:00.accessibility.json) |
+| [August 10 at 11:36 PM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-11T06:35:54.976164-05:00.accessibility.json) |
+| [August 10 at 12:39 PM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-10T19:38:56.812571-05:00.accessibility.json) |
+| [August 10 at 12:54 AM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-10T07:53:58.388784-05:00.accessibility.json) |
+| [August 9 at 11:23 AM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-09T18:23:33.829663-05:00.accessibility.json) |
+| [August 9 at 12:39 AM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-09T07:39:23.209372-05:00.accessibility.json) |
+| [August 8 at 12:35 PM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-08T19:35:33.179543-05:00.accessibility.json) |
+| [August 7 at 11:20 PM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-08T06:20:24.502965-05:00.accessibility.json) |
 
 
 
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 12 at 7:28 PM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-12T19:28:14.489670-05:00.lighthouse.json) |
-| [August 12 at 6:38 AM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-12T06:38:25.850385-05:00.lighthouse.json) |
-| [August 11 at 6:22 PM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-11T18:21:56.902212-05:00.lighthouse.json) |
-| [August 11 at 6:36 AM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-11T06:35:54.976164-05:00.lighthouse.json) |
-| [August 10 at 7:39 PM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-10T19:38:56.812571-05:00.lighthouse.json) |
-| [August 10 at 7:54 AM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-10T07:53:58.388784-05:00.lighthouse.json) |
-| [August 9 at 6:23 PM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-09T18:23:33.829663-05:00.lighthouse.json) |
-| [August 9 at 7:39 AM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-09T07:39:23.209372-05:00.lighthouse.json) |
-| [August 8 at 7:35 PM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-08T19:35:33.179543-05:00.lighthouse.json) |
-| [August 8 at 6:20 AM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-08T06:20:24.502965-05:00.lighthouse.json) |
+| [August 12 at 12:28 PM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-12T19:28:14.489670-05:00.lighthouse.json) |
+| [August 11 at 11:38 PM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-12T06:38:25.850385-05:00.lighthouse.json) |
+| [August 11 at 11:22 AM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-11T18:21:56.902212-05:00.lighthouse.json) |
+| [August 10 at 11:36 PM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-11T06:35:54.976164-05:00.lighthouse.json) |
+| [August 10 at 12:39 PM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-10T19:38:56.812571-05:00.lighthouse.json) |
+| [August 10 at 12:54 AM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-10T07:53:58.388784-05:00.lighthouse.json) |
+| [August 9 at 11:23 AM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-09T18:23:33.829663-05:00.lighthouse.json) |
+| [August 9 at 12:39 AM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-09T07:39:23.209372-05:00.lighthouse.json) |
+| [August 8 at 12:35 PM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-08T19:35:33.179543-05:00.lighthouse.json) |
+| [August 7 at 11:20 PM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-08T06:20:24.502965-05:00.lighthouse.json) |
 
 
 

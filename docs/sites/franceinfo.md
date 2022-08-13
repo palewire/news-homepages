@@ -116,109 +116,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-08-12T19:48:19.719919+02:00.jpg">
   <img src="https://archive.org/download/franceinfo-2022/franceinfo-2022-08-12T19:48:19.719919+02:00.jpg"
-     alt="franceinfo at 2022-08-12 19:48:28+02:00 local time"
+     alt="franceinfo at 2022-08-12 12:48:28+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-08-12T19:48:19.719919+02:00.jpg">August 12 at 7:48 PM</a></p>
+ <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-08-12T19:48:19.719919+02:00.jpg">August 12 at 12:48 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-08-12T12:20:12.485553+02:00.jpg">
   <img src="https://archive.org/download/franceinfo-2022/franceinfo-2022-08-12T12:20:12.485553+02:00.jpg"
-     alt="franceinfo at 2022-08-12 12:20:14+02:00 local time"
+     alt="franceinfo at 2022-08-12 05:20:14+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-08-12T12:20:12.485553+02:00.jpg">August 12 at 12:20 PM</a></p>
+ <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-08-12T12:20:12.485553+02:00.jpg">August 12 at 5:20 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-08-12T11:57:14.793829+02:00.jpg">
   <img src="https://archive.org/download/franceinfo-2022/franceinfo-2022-08-12T11:57:14.793829+02:00.jpg"
-     alt="franceinfo at 2022-08-12 11:57:27+02:00 local time"
+     alt="franceinfo at 2022-08-12 04:57:27+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-08-12T11:57:14.793829+02:00.jpg">August 12 at 11:57 AM</a></p>
+ <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-08-12T11:57:14.793829+02:00.jpg">August 12 at 4:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-08-11T20:38:31.039786+02:00.jpg">
   <img src="https://archive.org/download/franceinfo-2022/franceinfo-2022-08-11T20:38:31.039786+02:00.jpg"
-     alt="franceinfo at 2022-08-11 20:38:52+02:00 local time"
+     alt="franceinfo at 2022-08-11 13:38:52+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-08-11T20:38:31.039786+02:00.jpg">August 11 at 8:38 PM</a></p>
+ <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-08-11T20:38:31.039786+02:00.jpg">August 11 at 1:38 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-08-11T10:13:05.192363+02:00.jpg">
   <img src="https://archive.org/download/franceinfo-2022/franceinfo-2022-08-11T10:13:05.192363+02:00.jpg"
-     alt="franceinfo at 2022-08-11 10:13:06+02:00 local time"
+     alt="franceinfo at 2022-08-11 03:13:06+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-08-11T10:13:05.192363+02:00.jpg">August 11 at 10:13 AM</a></p>
+ <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-08-11T10:13:05.192363+02:00.jpg">August 11 at 3:13 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-08-11T05:51:18.306992+02:00.jpg">
   <img src="https://archive.org/download/franceinfo-2022/franceinfo-2022-08-11T05:51:18.306992+02:00.jpg"
-     alt="franceinfo at 2022-08-11 05:51:25+02:00 local time"
+     alt="franceinfo at 2022-08-10 22:51:25+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-08-11T05:51:18.306992+02:00.jpg">August 11 at 5:51 AM</a></p>
+ <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-08-11T05:51:18.306992+02:00.jpg">August 10 at 10:51 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-08-10T20:02:06.302537+02:00.jpg">
   <img src="https://archive.org/download/franceinfo-2022/franceinfo-2022-08-10T20:02:06.302537+02:00.jpg"
-     alt="franceinfo at 2022-08-10 20:02:17+02:00 local time"
+     alt="franceinfo at 2022-08-10 13:02:17+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-08-10T20:02:06.302537+02:00.jpg">August 10 at 8:02 PM</a></p>
+ <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-08-10T20:02:06.302537+02:00.jpg">August 10 at 1:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-08-10T10:10:36.899861+02:00.jpg">
   <img src="https://archive.org/download/franceinfo-2022/franceinfo-2022-08-10T10:10:36.899861+02:00.jpg"
-     alt="franceinfo at 2022-08-10 10:10:38+02:00 local time"
+     alt="franceinfo at 2022-08-10 03:10:38+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-08-10T10:10:36.899861+02:00.jpg">August 10 at 10:10 AM</a></p>
+ <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-08-10T10:10:36.899861+02:00.jpg">August 10 at 3:10 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-08-10T05:59:23.207156+02:00.jpg">
   <img src="https://archive.org/download/franceinfo-2022/franceinfo-2022-08-10T05:59:23.207156+02:00.jpg"
-     alt="franceinfo at 2022-08-10 05:59:24+02:00 local time"
+     alt="franceinfo at 2022-08-09 22:59:24+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-08-10T05:59:23.207156+02:00.jpg">August 10 at 5:59 AM</a></p>
+ <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-08-10T05:59:23.207156+02:00.jpg">August 9 at 10:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-08-09T19:23:41.323397+02:00.jpg">
   <img src="https://archive.org/download/franceinfo-2022/franceinfo-2022-08-09T19:23:41.323397+02:00.jpg"
-     alt="franceinfo at 2022-08-09 19:23:43+02:00 local time"
+     alt="franceinfo at 2022-08-09 12:23:43+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-08-09T19:23:41.323397+02:00.jpg">August 9 at 7:23 PM</a></p>
+ <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-08-09T19:23:41.323397+02:00.jpg">August 9 at 12:23 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-08-09T10:11:02.653215+02:00.jpg">
   <img src="https://archive.org/download/franceinfo-2022/franceinfo-2022-08-09T10:11:02.653215+02:00.jpg"
-     alt="franceinfo at 2022-08-09 10:11:04+02:00 local time"
+     alt="franceinfo at 2022-08-09 03:11:04+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-08-09T10:11:02.653215+02:00.jpg">August 9 at 10:11 AM</a></p>
+ <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-08-09T10:11:02.653215+02:00.jpg">August 9 at 3:11 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-08-09T05:43:05.497287+02:00.jpg">
   <img src="https://archive.org/download/franceinfo-2022/franceinfo-2022-08-09T05:43:05.497287+02:00.jpg"
-     alt="franceinfo at 2022-08-09 05:43:07+02:00 local time"
+     alt="franceinfo at 2022-08-08 22:43:07+02:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-08-09T05:43:05.497287+02:00.jpg">August 9 at 5:43 AM</a></p>
+ <p><a href="https://archive.org/download/franceinfo-2022/franceinfo-2022-08-09T05:43:05.497287+02:00.jpg">August 8 at 10:43 PM</a></p>
 </div>
 
 </div>
@@ -316,16 +316,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 12 at 7:48 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-12T19:48:19.719919+02:00.hyperlinks.json) |
-| [August 12 at 12:20 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-12T12:20:12.485553+02:00.hyperlinks.json) |
-| [August 12 at 11:57 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-12T11:57:14.793829+02:00.hyperlinks.json) |
-| [August 11 at 8:38 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-11T20:38:31.039786+02:00.hyperlinks.json) |
-| [August 11 at 10:13 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-11T10:13:05.192363+02:00.hyperlinks.json) |
-| [August 11 at 5:51 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-11T05:51:18.306992+02:00.hyperlinks.json) |
-| [August 10 at 8:02 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-10T20:02:06.302537+02:00.hyperlinks.json) |
-| [August 10 at 10:10 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-10T10:10:36.899861+02:00.hyperlinks.json) |
-| [August 10 at 5:59 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-10T05:59:23.207156+02:00.hyperlinks.json) |
-| [August 9 at 7:23 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-09T19:23:41.323397+02:00.hyperlinks.json) |
+| [August 12 at 12:48 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-12T19:48:19.719919+02:00.hyperlinks.json) |
+| [August 12 at 5:20 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-12T12:20:12.485553+02:00.hyperlinks.json) |
+| [August 12 at 4:57 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-12T11:57:14.793829+02:00.hyperlinks.json) |
+| [August 11 at 1:38 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-11T20:38:31.039786+02:00.hyperlinks.json) |
+| [August 11 at 3:13 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-11T10:13:05.192363+02:00.hyperlinks.json) |
+| [August 10 at 10:51 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-11T05:51:18.306992+02:00.hyperlinks.json) |
+| [August 10 at 1:02 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-10T20:02:06.302537+02:00.hyperlinks.json) |
+| [August 10 at 3:10 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-10T10:10:36.899861+02:00.hyperlinks.json) |
+| [August 9 at 10:59 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-10T05:59:23.207156+02:00.hyperlinks.json) |
+| [August 9 at 12:23 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-09T19:23:41.323397+02:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -421,16 +421,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 12 at 7:48 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-12T19:48:19.719919+02:00.accessibility.json) |
-| [August 12 at 12:20 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-12T12:20:12.485553+02:00.accessibility.json) |
-| [August 12 at 11:57 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-12T11:57:14.793829+02:00.accessibility.json) |
-| [August 11 at 8:38 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-11T20:38:31.039786+02:00.accessibility.json) |
-| [August 11 at 10:13 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-11T10:13:05.192363+02:00.accessibility.json) |
-| [August 11 at 5:51 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-11T05:51:18.306992+02:00.accessibility.json) |
-| [August 10 at 8:02 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-10T20:02:06.302537+02:00.accessibility.json) |
-| [August 10 at 10:10 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-10T10:10:36.899861+02:00.accessibility.json) |
-| [August 10 at 5:59 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-10T05:59:23.207156+02:00.accessibility.json) |
-| [August 9 at 7:23 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-09T19:23:41.323397+02:00.accessibility.json) |
+| [August 12 at 12:48 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-12T19:48:19.719919+02:00.accessibility.json) |
+| [August 12 at 5:20 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-12T12:20:12.485553+02:00.accessibility.json) |
+| [August 12 at 4:57 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-12T11:57:14.793829+02:00.accessibility.json) |
+| [August 11 at 1:38 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-11T20:38:31.039786+02:00.accessibility.json) |
+| [August 11 at 3:13 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-11T10:13:05.192363+02:00.accessibility.json) |
+| [August 10 at 10:51 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-11T05:51:18.306992+02:00.accessibility.json) |
+| [August 10 at 1:02 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-10T20:02:06.302537+02:00.accessibility.json) |
+| [August 10 at 3:10 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-10T10:10:36.899861+02:00.accessibility.json) |
+| [August 9 at 10:59 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-10T05:59:23.207156+02:00.accessibility.json) |
+| [August 9 at 12:23 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-09T19:23:41.323397+02:00.accessibility.json) |
 
 
 
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 12 at 7:48 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-12T19:48:19.719919+02:00.lighthouse.json) |
-| [August 12 at 12:20 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-12T12:20:12.485553+02:00.lighthouse.json) |
-| [August 12 at 11:57 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-12T11:57:14.793829+02:00.lighthouse.json) |
-| [August 11 at 8:38 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-11T20:38:31.039786+02:00.lighthouse.json) |
-| [August 11 at 10:13 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-11T10:13:05.192363+02:00.lighthouse.json) |
-| [August 11 at 5:51 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-11T05:51:18.306992+02:00.lighthouse.json) |
-| [August 10 at 8:02 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-10T20:02:06.302537+02:00.lighthouse.json) |
-| [August 10 at 10:10 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-10T10:10:36.899861+02:00.lighthouse.json) |
-| [August 10 at 5:59 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-10T05:59:23.207156+02:00.lighthouse.json) |
-| [August 9 at 7:23 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-09T19:23:41.323397+02:00.lighthouse.json) |
+| [August 12 at 12:48 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-12T19:48:19.719919+02:00.lighthouse.json) |
+| [August 12 at 5:20 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-12T12:20:12.485553+02:00.lighthouse.json) |
+| [August 12 at 4:57 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-12T11:57:14.793829+02:00.lighthouse.json) |
+| [August 11 at 1:38 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-11T20:38:31.039786+02:00.lighthouse.json) |
+| [August 11 at 3:13 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-11T10:13:05.192363+02:00.lighthouse.json) |
+| [August 10 at 10:51 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-11T05:51:18.306992+02:00.lighthouse.json) |
+| [August 10 at 1:02 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-10T20:02:06.302537+02:00.lighthouse.json) |
+| [August 10 at 3:10 AM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-10T10:10:36.899861+02:00.lighthouse.json) |
+| [August 9 at 10:59 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-10T05:59:23.207156+02:00.lighthouse.json) |
+| [August 9 at 12:23 PM](https://archive.org/download/franceinfo-2022/franceinfo-2022-08-09T19:23:41.323397+02:00.lighthouse.json) |
 
 
 

@@ -116,109 +116,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/binjreports-2022/binjreports-2022-08-12T20:26:48.539780-04:00.jpg">
   <img src="https://archive.org/download/binjreports-2022/binjreports-2022-08-12T20:26:48.539780-04:00.jpg"
-     alt="Boston Institute for Nonprofit Journalism at 2022-08-12 20:26:51-04:00 local time"
+     alt="Boston Institute for Nonprofit Journalism at 2022-08-12 13:26:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/binjreports-2022/binjreports-2022-08-12T20:26:48.539780-04:00.jpg">August 12 at 8:26 PM</a></p>
+ <p><a href="https://archive.org/download/binjreports-2022/binjreports-2022-08-12T20:26:48.539780-04:00.jpg">August 12 at 1:26 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/binjreports-2022/binjreports-2022-08-12T07:37:20.717130-04:00.jpg">
   <img src="https://archive.org/download/binjreports-2022/binjreports-2022-08-12T07:37:20.717130-04:00.jpg"
-     alt="Boston Institute for Nonprofit Journalism at 2022-08-12 07:37:24-04:00 local time"
+     alt="Boston Institute for Nonprofit Journalism at 2022-08-12 00:37:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/binjreports-2022/binjreports-2022-08-12T07:37:20.717130-04:00.jpg">August 12 at 7:37 AM</a></p>
+ <p><a href="https://archive.org/download/binjreports-2022/binjreports-2022-08-12T07:37:20.717130-04:00.jpg">August 12 at 12:37 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/binjreports-2022/binjreports-2022-08-11T19:20:10.662272-04:00.jpg">
   <img src="https://archive.org/download/binjreports-2022/binjreports-2022-08-11T19:20:10.662272-04:00.jpg"
-     alt="Boston Institute for Nonprofit Journalism at 2022-08-11 19:20:14-04:00 local time"
+     alt="Boston Institute for Nonprofit Journalism at 2022-08-11 12:20:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/binjreports-2022/binjreports-2022-08-11T19:20:10.662272-04:00.jpg">August 11 at 7:20 PM</a></p>
+ <p><a href="https://archive.org/download/binjreports-2022/binjreports-2022-08-11T19:20:10.662272-04:00.jpg">August 11 at 12:20 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/binjreports-2022/binjreports-2022-08-11T07:34:52.307398-04:00.jpg">
   <img src="https://archive.org/download/binjreports-2022/binjreports-2022-08-11T07:34:52.307398-04:00.jpg"
-     alt="Boston Institute for Nonprofit Journalism at 2022-08-11 07:34:53-04:00 local time"
+     alt="Boston Institute for Nonprofit Journalism at 2022-08-11 00:34:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/binjreports-2022/binjreports-2022-08-11T07:34:52.307398-04:00.jpg">August 11 at 7:34 AM</a></p>
+ <p><a href="https://archive.org/download/binjreports-2022/binjreports-2022-08-11T07:34:52.307398-04:00.jpg">August 11 at 12:34 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/binjreports-2022/binjreports-2022-08-10T20:38:23.255361-04:00.jpg">
   <img src="https://archive.org/download/binjreports-2022/binjreports-2022-08-10T20:38:23.255361-04:00.jpg"
-     alt="Boston Institute for Nonprofit Journalism at 2022-08-10 20:38:29-04:00 local time"
+     alt="Boston Institute for Nonprofit Journalism at 2022-08-10 13:38:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/binjreports-2022/binjreports-2022-08-10T20:38:23.255361-04:00.jpg">August 10 at 8:38 PM</a></p>
+ <p><a href="https://archive.org/download/binjreports-2022/binjreports-2022-08-10T20:38:23.255361-04:00.jpg">August 10 at 1:38 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/binjreports-2022/binjreports-2022-08-10T08:51:49.035420-04:00.jpg">
   <img src="https://archive.org/download/binjreports-2022/binjreports-2022-08-10T08:51:49.035420-04:00.jpg"
-     alt="Boston Institute for Nonprofit Journalism at 2022-08-10 08:51:52-04:00 local time"
+     alt="Boston Institute for Nonprofit Journalism at 2022-08-10 01:51:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/binjreports-2022/binjreports-2022-08-10T08:51:49.035420-04:00.jpg">August 10 at 8:51 AM</a></p>
+ <p><a href="https://archive.org/download/binjreports-2022/binjreports-2022-08-10T08:51:49.035420-04:00.jpg">August 10 at 1:51 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/binjreports-2022/binjreports-2022-08-09T19:21:59.361724-04:00.jpg">
   <img src="https://archive.org/download/binjreports-2022/binjreports-2022-08-09T19:21:59.361724-04:00.jpg"
-     alt="Boston Institute for Nonprofit Journalism at 2022-08-09 19:22:03-04:00 local time"
+     alt="Boston Institute for Nonprofit Journalism at 2022-08-09 12:22:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/binjreports-2022/binjreports-2022-08-09T19:21:59.361724-04:00.jpg">August 9 at 7:22 PM</a></p>
+ <p><a href="https://archive.org/download/binjreports-2022/binjreports-2022-08-09T19:21:59.361724-04:00.jpg">August 9 at 12:22 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/binjreports-2022/binjreports-2022-08-09T08:38:14.637710-04:00.jpg">
   <img src="https://archive.org/download/binjreports-2022/binjreports-2022-08-09T08:38:14.637710-04:00.jpg"
-     alt="Boston Institute for Nonprofit Journalism at 2022-08-09 08:38:17-04:00 local time"
+     alt="Boston Institute for Nonprofit Journalism at 2022-08-09 01:38:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/binjreports-2022/binjreports-2022-08-09T08:38:14.637710-04:00.jpg">August 9 at 8:38 AM</a></p>
+ <p><a href="https://archive.org/download/binjreports-2022/binjreports-2022-08-09T08:38:14.637710-04:00.jpg">August 9 at 1:38 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/binjreports-2022/binjreports-2022-08-08T20:33:55.473417-04:00.jpg">
   <img src="https://archive.org/download/binjreports-2022/binjreports-2022-08-08T20:33:55.473417-04:00.jpg"
-     alt="Boston Institute for Nonprofit Journalism at 2022-08-08 20:33:58-04:00 local time"
+     alt="Boston Institute for Nonprofit Journalism at 2022-08-08 13:33:58-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/binjreports-2022/binjreports-2022-08-08T20:33:55.473417-04:00.jpg">August 8 at 8:33 PM</a></p>
+ <p><a href="https://archive.org/download/binjreports-2022/binjreports-2022-08-08T20:33:55.473417-04:00.jpg">August 8 at 1:33 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/binjreports-2022/binjreports-2022-08-08T07:19:23.242198-04:00.jpg">
   <img src="https://archive.org/download/binjreports-2022/binjreports-2022-08-08T07:19:23.242198-04:00.jpg"
-     alt="Boston Institute for Nonprofit Journalism at 2022-08-08 07:19:26-04:00 local time"
+     alt="Boston Institute for Nonprofit Journalism at 2022-08-08 00:19:26-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/binjreports-2022/binjreports-2022-08-08T07:19:23.242198-04:00.jpg">August 8 at 7:19 AM</a></p>
+ <p><a href="https://archive.org/download/binjreports-2022/binjreports-2022-08-08T07:19:23.242198-04:00.jpg">August 8 at 12:19 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/binjreports-2022/binjreports-2022-08-07T20:43:47.376093-04:00.jpg">
   <img src="https://archive.org/download/binjreports-2022/binjreports-2022-08-07T20:43:47.376093-04:00.jpg"
-     alt="Boston Institute for Nonprofit Journalism at 2022-08-07 20:43:49-04:00 local time"
+     alt="Boston Institute for Nonprofit Journalism at 2022-08-07 13:43:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/binjreports-2022/binjreports-2022-08-07T20:43:47.376093-04:00.jpg">August 7 at 8:43 PM</a></p>
+ <p><a href="https://archive.org/download/binjreports-2022/binjreports-2022-08-07T20:43:47.376093-04:00.jpg">August 7 at 1:43 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/binjreports-2022/binjreports-2022-08-07T08:22:44.022931-04:00.jpg">
   <img src="https://archive.org/download/binjreports-2022/binjreports-2022-08-07T08:22:44.022931-04:00.jpg"
-     alt="Boston Institute for Nonprofit Journalism at 2022-08-07 08:22:45-04:00 local time"
+     alt="Boston Institute for Nonprofit Journalism at 2022-08-07 01:22:45-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/binjreports-2022/binjreports-2022-08-07T08:22:44.022931-04:00.jpg">August 7 at 8:22 AM</a></p>
+ <p><a href="https://archive.org/download/binjreports-2022/binjreports-2022-08-07T08:22:44.022931-04:00.jpg">August 7 at 1:22 AM</a></p>
 </div>
 
 </div>
@@ -316,16 +316,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 12 at 8:26 PM](https://archive.org/download/binjreports-2022/binjreports-2022-08-12T20:26:48.539780-04:00.hyperlinks.json) |
-| [August 12 at 7:37 AM](https://archive.org/download/binjreports-2022/binjreports-2022-08-12T07:37:20.717130-04:00.hyperlinks.json) |
-| [August 11 at 7:20 PM](https://archive.org/download/binjreports-2022/binjreports-2022-08-11T19:20:10.662272-04:00.hyperlinks.json) |
-| [August 11 at 7:34 AM](https://archive.org/download/binjreports-2022/binjreports-2022-08-11T07:34:52.307398-04:00.hyperlinks.json) |
-| [August 10 at 8:38 PM](https://archive.org/download/binjreports-2022/binjreports-2022-08-10T20:38:23.255361-04:00.hyperlinks.json) |
-| [August 10 at 8:51 AM](https://archive.org/download/binjreports-2022/binjreports-2022-08-10T08:51:49.035420-04:00.hyperlinks.json) |
-| [August 9 at 7:22 PM](https://archive.org/download/binjreports-2022/binjreports-2022-08-09T19:21:59.361724-04:00.hyperlinks.json) |
-| [August 9 at 8:38 AM](https://archive.org/download/binjreports-2022/binjreports-2022-08-09T08:38:14.637710-04:00.hyperlinks.json) |
-| [August 8 at 8:34 PM](https://archive.org/download/binjreports-2022/binjreports-2022-08-08T20:33:55.473417-04:00.hyperlinks.json) |
-| [August 8 at 7:19 AM](https://archive.org/download/binjreports-2022/binjreports-2022-08-08T07:19:23.242198-04:00.hyperlinks.json) |
+| [August 12 at 1:26 PM](https://archive.org/download/binjreports-2022/binjreports-2022-08-12T20:26:48.539780-04:00.hyperlinks.json) |
+| [August 12 at 12:37 AM](https://archive.org/download/binjreports-2022/binjreports-2022-08-12T07:37:20.717130-04:00.hyperlinks.json) |
+| [August 11 at 12:20 PM](https://archive.org/download/binjreports-2022/binjreports-2022-08-11T19:20:10.662272-04:00.hyperlinks.json) |
+| [August 11 at 12:34 AM](https://archive.org/download/binjreports-2022/binjreports-2022-08-11T07:34:52.307398-04:00.hyperlinks.json) |
+| [August 10 at 1:38 PM](https://archive.org/download/binjreports-2022/binjreports-2022-08-10T20:38:23.255361-04:00.hyperlinks.json) |
+| [August 10 at 1:51 AM](https://archive.org/download/binjreports-2022/binjreports-2022-08-10T08:51:49.035420-04:00.hyperlinks.json) |
+| [August 9 at 12:22 PM](https://archive.org/download/binjreports-2022/binjreports-2022-08-09T19:21:59.361724-04:00.hyperlinks.json) |
+| [August 9 at 1:38 AM](https://archive.org/download/binjreports-2022/binjreports-2022-08-09T08:38:14.637710-04:00.hyperlinks.json) |
+| [August 8 at 1:34 PM](https://archive.org/download/binjreports-2022/binjreports-2022-08-08T20:33:55.473417-04:00.hyperlinks.json) |
+| [August 8 at 12:19 AM](https://archive.org/download/binjreports-2022/binjreports-2022-08-08T07:19:23.242198-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -421,16 +421,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 12 at 8:26 PM](https://archive.org/download/binjreports-2022/binjreports-2022-08-12T20:26:48.539780-04:00.accessibility.json) |
-| [August 12 at 7:37 AM](https://archive.org/download/binjreports-2022/binjreports-2022-08-12T07:37:20.717130-04:00.accessibility.json) |
-| [August 11 at 7:20 PM](https://archive.org/download/binjreports-2022/binjreports-2022-08-11T19:20:10.662272-04:00.accessibility.json) |
-| [August 11 at 7:34 AM](https://archive.org/download/binjreports-2022/binjreports-2022-08-11T07:34:52.307398-04:00.accessibility.json) |
-| [August 10 at 8:38 PM](https://archive.org/download/binjreports-2022/binjreports-2022-08-10T20:38:23.255361-04:00.accessibility.json) |
-| [August 10 at 8:51 AM](https://archive.org/download/binjreports-2022/binjreports-2022-08-10T08:51:49.035420-04:00.accessibility.json) |
-| [August 9 at 7:22 PM](https://archive.org/download/binjreports-2022/binjreports-2022-08-09T19:21:59.361724-04:00.accessibility.json) |
-| [August 9 at 8:38 AM](https://archive.org/download/binjreports-2022/binjreports-2022-08-09T08:38:14.637710-04:00.accessibility.json) |
-| [August 8 at 8:34 PM](https://archive.org/download/binjreports-2022/binjreports-2022-08-08T20:33:55.473417-04:00.accessibility.json) |
-| [August 8 at 7:19 AM](https://archive.org/download/binjreports-2022/binjreports-2022-08-08T07:19:23.242198-04:00.accessibility.json) |
+| [August 12 at 1:26 PM](https://archive.org/download/binjreports-2022/binjreports-2022-08-12T20:26:48.539780-04:00.accessibility.json) |
+| [August 12 at 12:37 AM](https://archive.org/download/binjreports-2022/binjreports-2022-08-12T07:37:20.717130-04:00.accessibility.json) |
+| [August 11 at 12:20 PM](https://archive.org/download/binjreports-2022/binjreports-2022-08-11T19:20:10.662272-04:00.accessibility.json) |
+| [August 11 at 12:34 AM](https://archive.org/download/binjreports-2022/binjreports-2022-08-11T07:34:52.307398-04:00.accessibility.json) |
+| [August 10 at 1:38 PM](https://archive.org/download/binjreports-2022/binjreports-2022-08-10T20:38:23.255361-04:00.accessibility.json) |
+| [August 10 at 1:51 AM](https://archive.org/download/binjreports-2022/binjreports-2022-08-10T08:51:49.035420-04:00.accessibility.json) |
+| [August 9 at 12:22 PM](https://archive.org/download/binjreports-2022/binjreports-2022-08-09T19:21:59.361724-04:00.accessibility.json) |
+| [August 9 at 1:38 AM](https://archive.org/download/binjreports-2022/binjreports-2022-08-09T08:38:14.637710-04:00.accessibility.json) |
+| [August 8 at 1:34 PM](https://archive.org/download/binjreports-2022/binjreports-2022-08-08T20:33:55.473417-04:00.accessibility.json) |
+| [August 8 at 12:19 AM](https://archive.org/download/binjreports-2022/binjreports-2022-08-08T07:19:23.242198-04:00.accessibility.json) |
 
 
 
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 12 at 8:27 PM](https://archive.org/download/binjreports-2022/binjreports-2022-08-12T20:26:48.539780-04:00.lighthouse.json) |
-| [August 12 at 7:37 AM](https://archive.org/download/binjreports-2022/binjreports-2022-08-12T07:37:20.717130-04:00.lighthouse.json) |
-| [August 11 at 7:20 PM](https://archive.org/download/binjreports-2022/binjreports-2022-08-11T19:20:10.662272-04:00.lighthouse.json) |
-| [August 11 at 7:34 AM](https://archive.org/download/binjreports-2022/binjreports-2022-08-11T07:34:52.307398-04:00.lighthouse.json) |
-| [August 10 at 8:38 PM](https://archive.org/download/binjreports-2022/binjreports-2022-08-10T20:38:23.255361-04:00.lighthouse.json) |
-| [August 10 at 8:51 AM](https://archive.org/download/binjreports-2022/binjreports-2022-08-10T08:51:49.035420-04:00.lighthouse.json) |
-| [August 9 at 7:22 PM](https://archive.org/download/binjreports-2022/binjreports-2022-08-09T19:21:59.361724-04:00.lighthouse.json) |
-| [August 9 at 8:38 AM](https://archive.org/download/binjreports-2022/binjreports-2022-08-09T08:38:14.637710-04:00.lighthouse.json) |
-| [August 8 at 8:34 PM](https://archive.org/download/binjreports-2022/binjreports-2022-08-08T20:33:55.473417-04:00.lighthouse.json) |
-| [August 8 at 7:19 AM](https://archive.org/download/binjreports-2022/binjreports-2022-08-08T07:19:23.242198-04:00.lighthouse.json) |
+| [August 12 at 1:27 PM](https://archive.org/download/binjreports-2022/binjreports-2022-08-12T20:26:48.539780-04:00.lighthouse.json) |
+| [August 12 at 12:37 AM](https://archive.org/download/binjreports-2022/binjreports-2022-08-12T07:37:20.717130-04:00.lighthouse.json) |
+| [August 11 at 12:20 PM](https://archive.org/download/binjreports-2022/binjreports-2022-08-11T19:20:10.662272-04:00.lighthouse.json) |
+| [August 11 at 12:34 AM](https://archive.org/download/binjreports-2022/binjreports-2022-08-11T07:34:52.307398-04:00.lighthouse.json) |
+| [August 10 at 1:38 PM](https://archive.org/download/binjreports-2022/binjreports-2022-08-10T20:38:23.255361-04:00.lighthouse.json) |
+| [August 10 at 1:51 AM](https://archive.org/download/binjreports-2022/binjreports-2022-08-10T08:51:49.035420-04:00.lighthouse.json) |
+| [August 9 at 12:22 PM](https://archive.org/download/binjreports-2022/binjreports-2022-08-09T19:21:59.361724-04:00.lighthouse.json) |
+| [August 9 at 1:38 AM](https://archive.org/download/binjreports-2022/binjreports-2022-08-09T08:38:14.637710-04:00.lighthouse.json) |
+| [August 8 at 1:34 PM](https://archive.org/download/binjreports-2022/binjreports-2022-08-08T20:33:55.473417-04:00.lighthouse.json) |
+| [August 8 at 12:19 AM](https://archive.org/download/binjreports-2022/binjreports-2022-08-08T07:19:23.242198-04:00.lighthouse.json) |
 
 
 

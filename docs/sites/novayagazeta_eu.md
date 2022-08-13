@@ -116,109 +116,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-12T20:57:34.530948+03:00.jpg">
   <img src="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-12T20:57:34.530948+03:00.jpg"
-     alt="Novaya Gazeta at 2022-08-12 20:57:36+03:00 local time"
+     alt="Novaya Gazeta at 2022-08-12 13:57:36+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-12T20:57:34.530948+03:00.jpg">August 12 at 8:57 PM</a></p>
+ <p><a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-12T20:57:34.530948+03:00.jpg">August 12 at 1:57 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-12T13:07:53.540621+03:00.jpg">
   <img src="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-12T13:07:53.540621+03:00.jpg"
-     alt="Novaya Gazeta at 2022-08-12 13:07:54+03:00 local time"
+     alt="Novaya Gazeta at 2022-08-12 06:07:54+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-12T13:07:53.540621+03:00.jpg">August 12 at 1:07 PM</a></p>
+ <p><a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-12T13:07:53.540621+03:00.jpg">August 12 at 6:07 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-12T12:52:46.842495+03:00.jpg">
   <img src="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-12T12:52:46.842495+03:00.jpg"
-     alt="Novaya Gazeta at 2022-08-12 12:52:49+03:00 local time"
+     alt="Novaya Gazeta at 2022-08-12 05:52:49+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-12T12:52:46.842495+03:00.jpg">August 12 at 12:52 PM</a></p>
+ <p><a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-12T12:52:46.842495+03:00.jpg">August 12 at 5:52 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-11T21:48:56.462682+03:00.jpg">
   <img src="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-11T21:48:56.462682+03:00.jpg"
-     alt="Novaya Gazeta at 2022-08-11 21:48:58+03:00 local time"
+     alt="Novaya Gazeta at 2022-08-11 14:48:58+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-11T21:48:56.462682+03:00.jpg">August 11 at 9:48 PM</a></p>
+ <p><a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-11T21:48:56.462682+03:00.jpg">August 11 at 2:48 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-11T08:43:39.983353+03:00.jpg">
   <img src="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-11T08:43:39.983353+03:00.jpg"
-     alt="Novaya Gazeta at 2022-08-11 08:43:41+03:00 local time"
+     alt="Novaya Gazeta at 2022-08-11 01:43:41+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-11T08:43:39.983353+03:00.jpg">August 11 at 8:43 AM</a></p>
+ <p><a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-11T08:43:39.983353+03:00.jpg">August 11 at 1:43 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-11T07:01:39.335158+03:00.jpg">
   <img src="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-11T07:01:39.335158+03:00.jpg"
-     alt="Novaya Gazeta at 2022-08-11 07:01:40+03:00 local time"
+     alt="Novaya Gazeta at 2022-08-11 00:01:40+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-11T07:01:39.335158+03:00.jpg">August 11 at 7:01 AM</a></p>
+ <p><a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-11T07:01:39.335158+03:00.jpg">August 11 at 12:01 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-10T21:13:34.416807+03:00.jpg">
   <img src="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-10T21:13:34.416807+03:00.jpg"
-     alt="Novaya Gazeta at 2022-08-10 21:13:36+03:00 local time"
+     alt="Novaya Gazeta at 2022-08-10 14:13:36+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-10T21:13:34.416807+03:00.jpg">August 10 at 9:13 PM</a></p>
+ <p><a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-10T21:13:34.416807+03:00.jpg">August 10 at 2:13 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-10T08:39:29.398626+03:00.jpg">
   <img src="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-10T08:39:29.398626+03:00.jpg"
-     alt="Novaya Gazeta at 2022-08-10 08:39:31+03:00 local time"
+     alt="Novaya Gazeta at 2022-08-10 01:39:31+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-10T08:39:29.398626+03:00.jpg">August 10 at 8:39 AM</a></p>
+ <p><a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-10T08:39:29.398626+03:00.jpg">August 10 at 1:39 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-10T07:08:50.335982+03:00.jpg">
   <img src="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-10T07:08:50.335982+03:00.jpg"
-     alt="Novaya Gazeta at 2022-08-10 07:08:51+03:00 local time"
+     alt="Novaya Gazeta at 2022-08-10 00:08:51+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-10T07:08:50.335982+03:00.jpg">August 10 at 7:08 AM</a></p>
+ <p><a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-10T07:08:50.335982+03:00.jpg">August 10 at 12:08 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-09T20:36:40.329193+03:00.jpg">
   <img src="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-09T20:36:40.329193+03:00.jpg"
-     alt="Novaya Gazeta at 2022-08-09 20:36:42+03:00 local time"
+     alt="Novaya Gazeta at 2022-08-09 13:36:42+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-09T20:36:40.329193+03:00.jpg">August 9 at 8:36 PM</a></p>
+ <p><a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-09T20:36:40.329193+03:00.jpg">August 9 at 1:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-09T08:23:09.305363+03:00.jpg">
   <img src="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-09T08:23:09.305363+03:00.jpg"
-     alt="Novaya Gazeta at 2022-08-09 08:23:11+03:00 local time"
+     alt="Novaya Gazeta at 2022-08-09 01:23:11+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-09T08:23:09.305363+03:00.jpg">August 9 at 8:23 AM</a></p>
+ <p><a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-09T08:23:09.305363+03:00.jpg">August 9 at 1:23 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-09T06:53:40.899435+03:00.jpg">
   <img src="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-09T06:53:40.899435+03:00.jpg"
-     alt="Novaya Gazeta at 2022-08-09 06:53:42+03:00 local time"
+     alt="Novaya Gazeta at 2022-08-08 23:53:42+03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-09T06:53:40.899435+03:00.jpg">August 9 at 6:53 AM</a></p>
+ <p><a href="https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-09T06:53:40.899435+03:00.jpg">August 8 at 11:53 PM</a></p>
 </div>
 
 </div>
@@ -316,16 +316,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 12 at 8:57 PM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-12T20:57:34.530948+03:00.hyperlinks.json) |
-| [August 12 at 1:07 PM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-12T13:07:53.540621+03:00.hyperlinks.json) |
-| [August 12 at 12:52 PM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-12T12:52:46.842495+03:00.hyperlinks.json) |
-| [August 11 at 9:49 PM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-11T21:48:56.462682+03:00.hyperlinks.json) |
-| [August 11 at 8:43 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-11T08:43:39.983353+03:00.hyperlinks.json) |
-| [August 11 at 7:01 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-11T07:01:39.335158+03:00.hyperlinks.json) |
-| [August 10 at 9:13 PM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-10T21:13:34.416807+03:00.hyperlinks.json) |
-| [August 10 at 8:39 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-10T08:39:29.398626+03:00.hyperlinks.json) |
-| [August 10 at 7:08 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-10T07:08:50.335982+03:00.hyperlinks.json) |
-| [August 9 at 8:36 PM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-09T20:36:40.329193+03:00.hyperlinks.json) |
+| [August 12 at 1:57 PM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-12T20:57:34.530948+03:00.hyperlinks.json) |
+| [August 12 at 6:07 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-12T13:07:53.540621+03:00.hyperlinks.json) |
+| [August 12 at 5:52 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-12T12:52:46.842495+03:00.hyperlinks.json) |
+| [August 11 at 2:49 PM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-11T21:48:56.462682+03:00.hyperlinks.json) |
+| [August 11 at 1:43 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-11T08:43:39.983353+03:00.hyperlinks.json) |
+| [August 11 at 12:01 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-11T07:01:39.335158+03:00.hyperlinks.json) |
+| [August 10 at 2:13 PM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-10T21:13:34.416807+03:00.hyperlinks.json) |
+| [August 10 at 1:39 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-10T08:39:29.398626+03:00.hyperlinks.json) |
+| [August 10 at 12:08 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-10T07:08:50.335982+03:00.hyperlinks.json) |
+| [August 9 at 1:36 PM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-09T20:36:40.329193+03:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -421,16 +421,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 12 at 8:57 PM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-12T20:57:34.530948+03:00.accessibility.json) |
-| [August 12 at 1:07 PM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-12T13:07:53.540621+03:00.accessibility.json) |
-| [August 12 at 12:52 PM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-12T12:52:46.842495+03:00.accessibility.json) |
-| [August 11 at 9:49 PM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-11T21:48:56.462682+03:00.accessibility.json) |
-| [August 11 at 8:43 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-11T08:43:39.983353+03:00.accessibility.json) |
-| [August 11 at 7:01 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-11T07:01:39.335158+03:00.accessibility.json) |
-| [August 10 at 9:13 PM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-10T21:13:34.416807+03:00.accessibility.json) |
-| [August 10 at 8:39 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-10T08:39:29.398626+03:00.accessibility.json) |
-| [August 10 at 7:08 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-10T07:08:50.335982+03:00.accessibility.json) |
-| [August 9 at 8:36 PM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-09T20:36:40.329193+03:00.accessibility.json) |
+| [August 12 at 1:57 PM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-12T20:57:34.530948+03:00.accessibility.json) |
+| [August 12 at 6:07 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-12T13:07:53.540621+03:00.accessibility.json) |
+| [August 12 at 5:52 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-12T12:52:46.842495+03:00.accessibility.json) |
+| [August 11 at 2:49 PM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-11T21:48:56.462682+03:00.accessibility.json) |
+| [August 11 at 1:43 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-11T08:43:39.983353+03:00.accessibility.json) |
+| [August 11 at 12:01 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-11T07:01:39.335158+03:00.accessibility.json) |
+| [August 10 at 2:13 PM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-10T21:13:34.416807+03:00.accessibility.json) |
+| [August 10 at 1:39 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-10T08:39:29.398626+03:00.accessibility.json) |
+| [August 10 at 12:08 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-10T07:08:50.335982+03:00.accessibility.json) |
+| [August 9 at 1:36 PM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-09T20:36:40.329193+03:00.accessibility.json) |
 
 
 
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 12 at 8:57 PM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-12T20:57:34.530948+03:00.lighthouse.json) |
-| [August 12 at 1:07 PM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-12T13:07:53.540621+03:00.lighthouse.json) |
-| [August 12 at 12:52 PM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-12T12:52:46.842495+03:00.lighthouse.json) |
-| [August 11 at 9:49 PM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-11T21:48:56.462682+03:00.lighthouse.json) |
-| [August 11 at 8:43 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-11T08:43:39.983353+03:00.lighthouse.json) |
-| [August 11 at 7:01 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-11T07:01:39.335158+03:00.lighthouse.json) |
-| [August 10 at 9:13 PM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-10T21:13:34.416807+03:00.lighthouse.json) |
-| [August 10 at 8:39 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-10T08:39:29.398626+03:00.lighthouse.json) |
-| [August 10 at 7:08 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-10T07:08:50.335982+03:00.lighthouse.json) |
-| [August 9 at 8:36 PM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-09T20:36:40.329193+03:00.lighthouse.json) |
+| [August 12 at 1:57 PM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-12T20:57:34.530948+03:00.lighthouse.json) |
+| [August 12 at 6:07 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-12T13:07:53.540621+03:00.lighthouse.json) |
+| [August 12 at 5:52 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-12T12:52:46.842495+03:00.lighthouse.json) |
+| [August 11 at 2:49 PM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-11T21:48:56.462682+03:00.lighthouse.json) |
+| [August 11 at 1:43 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-11T08:43:39.983353+03:00.lighthouse.json) |
+| [August 11 at 12:01 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-11T07:01:39.335158+03:00.lighthouse.json) |
+| [August 10 at 2:13 PM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-10T21:13:34.416807+03:00.lighthouse.json) |
+| [August 10 at 1:39 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-10T08:39:29.398626+03:00.lighthouse.json) |
+| [August 10 at 12:08 AM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-10T07:08:50.335982+03:00.lighthouse.json) |
+| [August 9 at 1:36 PM](https://archive.org/download/novayagazeta_eu-2022/novayagazeta_eu-2022-08-09T20:36:40.329193+03:00.lighthouse.json) |
 
 
 

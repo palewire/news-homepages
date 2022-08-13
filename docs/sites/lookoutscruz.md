@@ -116,109 +116,109 @@ Here are the 12 most recent screenshots.
 <div class="latest-child">
  <a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-12T10:54:46.527033-07:00.jpg">
   <img src="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-12T10:54:46.527033-07:00.jpg"
-     alt="Lookout Santa Cruz at 2022-08-12 10:54:48-07:00 local time"
+     alt="Lookout Santa Cruz at 2022-08-12 03:54:48-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-12T10:54:46.527033-07:00.jpg">August 12 at 10:54 AM</a></p>
+ <p><a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-12T10:54:46.527033-07:00.jpg">August 12 at 3:54 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-12T03:03:52.914421-07:00.jpg">
   <img src="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-12T03:03:52.914421-07:00.jpg"
-     alt="Lookout Santa Cruz at 2022-08-12 03:03:59-07:00 local time"
+     alt="Lookout Santa Cruz at 2022-08-11 20:03:59-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-12T03:03:52.914421-07:00.jpg">August 12 at 3:03 AM</a></p>
+ <p><a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-12T03:03:52.914421-07:00.jpg">August 11 at 8:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-11T11:45:24.521964-07:00.jpg">
   <img src="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-11T11:45:24.521964-07:00.jpg"
-     alt="Lookout Santa Cruz at 2022-08-11 11:45:28-07:00 local time"
+     alt="Lookout Santa Cruz at 2022-08-11 04:45:28-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-11T11:45:24.521964-07:00.jpg">August 11 at 11:45 AM</a></p>
+ <p><a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-11T11:45:24.521964-07:00.jpg">August 11 at 4:45 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-10T20:58:52.696561-07:00.jpg">
   <img src="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-10T20:58:52.696561-07:00.jpg"
-     alt="Lookout Santa Cruz at 2022-08-10 20:58:53-07:00 local time"
+     alt="Lookout Santa Cruz at 2022-08-10 13:58:53-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-10T20:58:52.696561-07:00.jpg">August 10 at 8:58 PM</a></p>
+ <p><a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-10T20:58:52.696561-07:00.jpg">August 10 at 1:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-10T11:10:06.459954-07:00.jpg">
   <img src="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-10T11:10:06.459954-07:00.jpg"
-     alt="Lookout Santa Cruz at 2022-08-10 11:10:08-07:00 local time"
+     alt="Lookout Santa Cruz at 2022-08-10 04:10:08-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-10T11:10:06.459954-07:00.jpg">August 10 at 11:10 AM</a></p>
+ <p><a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-10T11:10:06.459954-07:00.jpg">August 10 at 4:10 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-09T21:06:08.209529-07:00.jpg">
   <img src="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-09T21:06:08.209529-07:00.jpg"
-     alt="Lookout Santa Cruz at 2022-08-09 21:06:09-07:00 local time"
+     alt="Lookout Santa Cruz at 2022-08-09 14:06:09-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-09T21:06:08.209529-07:00.jpg">August 9 at 9:06 PM</a></p>
+ <p><a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-09T21:06:08.209529-07:00.jpg">August 9 at 2:06 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-09T10:30:57.540103-07:00.jpg">
   <img src="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-09T10:30:57.540103-07:00.jpg"
-     alt="Lookout Santa Cruz at 2022-08-09 10:31:00-07:00 local time"
+     alt="Lookout Santa Cruz at 2022-08-09 03:31:00-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-09T10:30:57.540103-07:00.jpg">August 9 at 10:31 AM</a></p>
+ <p><a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-09T10:30:57.540103-07:00.jpg">August 9 at 3:31 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-08T20:50:02.761422-07:00.jpg">
   <img src="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-08T20:50:02.761422-07:00.jpg"
-     alt="Lookout Santa Cruz at 2022-08-08 20:50:07-07:00 local time"
+     alt="Lookout Santa Cruz at 2022-08-08 13:50:07-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-08T20:50:02.761422-07:00.jpg">August 8 at 8:50 PM</a></p>
+ <p><a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-08T20:50:02.761422-07:00.jpg">August 8 at 1:50 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-08T10:07:59.481526-07:00.jpg">
   <img src="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-08T10:07:59.481526-07:00.jpg"
-     alt="Lookout Santa Cruz at 2022-08-08 10:08:00-07:00 local time"
+     alt="Lookout Santa Cruz at 2022-08-08 03:08:00-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-08T10:07:59.481526-07:00.jpg">August 8 at 10:08 AM</a></p>
+ <p><a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-08T10:07:59.481526-07:00.jpg">August 8 at 3:08 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-07T22:14:13.172354-07:00.jpg">
   <img src="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-07T22:14:13.172354-07:00.jpg"
-     alt="Lookout Santa Cruz at 2022-08-07 22:14:14-07:00 local time"
+     alt="Lookout Santa Cruz at 2022-08-07 15:14:14-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-07T22:14:13.172354-07:00.jpg">August 7 at 10:14 PM</a></p>
+ <p><a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-07T22:14:13.172354-07:00.jpg">August 7 at 3:14 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-07T09:54:36.155918-07:00.jpg">
   <img src="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-07T09:54:36.155918-07:00.jpg"
-     alt="Lookout Santa Cruz at 2022-08-07 09:54:37-07:00 local time"
+     alt="Lookout Santa Cruz at 2022-08-07 02:54:37-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-07T09:54:36.155918-07:00.jpg">August 7 at 9:54 AM</a></p>
+ <p><a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-07T09:54:36.155918-07:00.jpg">August 7 at 2:54 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-06T20:27:51.397769-07:00.jpg">
   <img src="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-06T20:27:51.397769-07:00.jpg"
-     alt="Lookout Santa Cruz at 2022-08-06 20:27:52-07:00 local time"
+     alt="Lookout Santa Cruz at 2022-08-06 13:27:52-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-06T20:27:51.397769-07:00.jpg">August 6 at 8:27 PM</a></p>
+ <p><a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-06T20:27:51.397769-07:00.jpg">August 6 at 1:27 PM</a></p>
 </div>
 
 </div>
@@ -316,16 +316,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 12 at 10:54 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-12T10:54:46.527033-07:00.hyperlinks.json) |
-| [August 12 at 3:04 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-12T03:03:52.914421-07:00.hyperlinks.json) |
-| [August 11 at 11:45 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-11T11:45:24.521964-07:00.hyperlinks.json) |
-| [August 10 at 8:58 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-10T20:58:52.696561-07:00.hyperlinks.json) |
-| [August 10 at 11:10 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-10T11:10:06.459954-07:00.hyperlinks.json) |
-| [August 9 at 9:06 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-09T21:06:08.209529-07:00.hyperlinks.json) |
-| [August 9 at 10:31 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-09T10:30:57.540103-07:00.hyperlinks.json) |
-| [August 8 at 8:50 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-08T20:50:02.761422-07:00.hyperlinks.json) |
-| [August 8 at 10:08 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-08T10:07:59.481526-07:00.hyperlinks.json) |
-| [August 7 at 10:14 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-07T22:14:13.172354-07:00.hyperlinks.json) |
+| [August 12 at 3:54 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-12T10:54:46.527033-07:00.hyperlinks.json) |
+| [August 11 at 8:04 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-12T03:03:52.914421-07:00.hyperlinks.json) |
+| [August 11 at 4:45 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-11T11:45:24.521964-07:00.hyperlinks.json) |
+| [August 10 at 1:58 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-10T20:58:52.696561-07:00.hyperlinks.json) |
+| [August 10 at 4:10 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-10T11:10:06.459954-07:00.hyperlinks.json) |
+| [August 9 at 2:06 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-09T21:06:08.209529-07:00.hyperlinks.json) |
+| [August 9 at 3:31 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-09T10:30:57.540103-07:00.hyperlinks.json) |
+| [August 8 at 1:50 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-08T20:50:02.761422-07:00.hyperlinks.json) |
+| [August 8 at 3:08 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-08T10:07:59.481526-07:00.hyperlinks.json) |
+| [August 7 at 3:14 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-07T22:14:13.172354-07:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -421,16 +421,16 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 12 at 10:54 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-12T10:54:46.527033-07:00.accessibility.json) |
-| [August 12 at 3:04 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-12T03:03:52.914421-07:00.accessibility.json) |
-| [August 11 at 11:45 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-11T11:45:24.521964-07:00.accessibility.json) |
-| [August 10 at 8:58 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-10T20:58:52.696561-07:00.accessibility.json) |
-| [August 10 at 11:10 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-10T11:10:06.459954-07:00.accessibility.json) |
-| [August 9 at 9:06 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-09T21:06:08.209529-07:00.accessibility.json) |
-| [August 9 at 10:31 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-09T10:30:57.540103-07:00.accessibility.json) |
-| [August 8 at 8:50 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-08T20:50:02.761422-07:00.accessibility.json) |
-| [August 8 at 10:08 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-08T10:07:59.481526-07:00.accessibility.json) |
-| [August 7 at 10:14 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-07T22:14:13.172354-07:00.accessibility.json) |
+| [August 12 at 3:54 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-12T10:54:46.527033-07:00.accessibility.json) |
+| [August 11 at 8:04 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-12T03:03:52.914421-07:00.accessibility.json) |
+| [August 11 at 4:45 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-11T11:45:24.521964-07:00.accessibility.json) |
+| [August 10 at 1:58 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-10T20:58:52.696561-07:00.accessibility.json) |
+| [August 10 at 4:10 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-10T11:10:06.459954-07:00.accessibility.json) |
+| [August 9 at 2:06 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-09T21:06:08.209529-07:00.accessibility.json) |
+| [August 9 at 3:31 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-09T10:30:57.540103-07:00.accessibility.json) |
+| [August 8 at 1:50 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-08T20:50:02.761422-07:00.accessibility.json) |
+| [August 8 at 3:08 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-08T10:07:59.481526-07:00.accessibility.json) |
+| [August 7 at 3:14 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-07T22:14:13.172354-07:00.accessibility.json) |
 
 
 
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 12 at 10:54 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-12T10:54:46.527033-07:00.lighthouse.json) |
-| [August 12 at 3:04 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-12T03:03:52.914421-07:00.lighthouse.json) |
-| [August 11 at 11:45 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-11T11:45:24.521964-07:00.lighthouse.json) |
-| [August 10 at 8:58 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-10T20:58:52.696561-07:00.lighthouse.json) |
-| [August 10 at 11:10 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-10T11:10:06.459954-07:00.lighthouse.json) |
-| [August 9 at 9:06 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-09T21:06:08.209529-07:00.lighthouse.json) |
-| [August 9 at 10:31 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-09T10:30:57.540103-07:00.lighthouse.json) |
-| [August 8 at 8:50 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-08T20:50:02.761422-07:00.lighthouse.json) |
-| [August 8 at 10:08 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-08T10:07:59.481526-07:00.lighthouse.json) |
-| [August 7 at 10:14 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-07T22:14:13.172354-07:00.lighthouse.json) |
+| [August 12 at 3:54 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-12T10:54:46.527033-07:00.lighthouse.json) |
+| [August 11 at 8:04 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-12T03:03:52.914421-07:00.lighthouse.json) |
+| [August 11 at 4:45 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-11T11:45:24.521964-07:00.lighthouse.json) |
+| [August 10 at 1:58 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-10T20:58:52.696561-07:00.lighthouse.json) |
+| [August 10 at 4:10 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-10T11:10:06.459954-07:00.lighthouse.json) |
+| [August 9 at 2:06 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-09T21:06:08.209529-07:00.lighthouse.json) |
+| [August 9 at 3:31 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-09T10:30:57.540103-07:00.lighthouse.json) |
+| [August 8 at 1:50 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-08T20:50:02.761422-07:00.lighthouse.json) |
+| [August 8 at 3:08 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-08T10:07:59.481526-07:00.lighthouse.json) |
+| [August 7 at 3:14 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-08-07T22:14:13.172354-07:00.lighthouse.json) |
 
 
 
