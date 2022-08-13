@@ -1,5 +1,5 @@
 {
-  "created": 1660297843,
+  "created": 1660352185,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/7/items/thegrio-2022",
@@ -1134,31 +1134,93 @@
       "sha1": "0b481fec395a7d195aeebdadb6022c090698d36a"
     },
     {
+      "name": "thegrio-2022-08-12T14:27:19.926579-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660328847",
+      "size": "17510",
+      "md5": "ae4e2f544c53ff20691df005dc755ed0",
+      "crc32": "9d98bf93",
+      "sha1": "0cd5f6804580e7ed052b35145e977b4d39df7a11",
+      "format": "JSON"
+    },
+    {
+      "name": "thegrio-2022-08-12T14:27:19.926579-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660328850",
+      "size": "20885",
+      "md5": "f8a4465270367b2112501d4078c70de0",
+      "crc32": "de6a988e",
+      "sha1": "fa0333fd36a576b27d84287df7fc21518874b05c",
+      "format": "JSON"
+    },
+    {
+      "name": "thegrio-2022-08-12T14:27:19.926579-04:00.jpg",
+      "source": "original",
+      "mtime": "1660328844",
+      "size": "285770",
+      "md5": "f066ec334299c81cab750fbe66b2026d",
+      "crc32": "50401efb",
+      "sha1": "35211c6d3d52e2ce5af47805d20132578f8a1122",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thegrio-2022-08-12T14:27:19.926579-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660328853",
+      "size": "1432",
+      "md5": "d367c986306e49f6461d6c597932a59a",
+      "crc32": "4aa09acb",
+      "sha1": "e0f01c0ba7e92c232d8810ba85bbe4796bfd9548",
+      "format": "JSON"
+    },
+    {
+      "name": "thegrio-2022-08-12T14:27:19.926579-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660328855",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thegrio-2022-08-12T14:27:19.926579-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thegrio-2022-08-12T14:27:19.926579-04:00.jpg",
+      "mtime": "1660329829",
+      "size": "10108",
+      "md5": "ac285f9c3e6da547ae68b1ee05098d9c",
+      "crc32": "0618d2da",
+      "sha1": "ad7439404eaca9a4099b73563cd3fedd69ede0d8"
+    },
+    {
       "name": "thegrio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0b776ce72c00c3768a38d22993c08d7f653180d7",
-      "mtime": "1660297839",
-      "size": "24187",
-      "md5": "8c47b659325639c50d27aed25b2c18d2",
-      "crc32": "4248a381",
-      "sha1": "32c1bb26367869716e077fc4c5fe642406d0d8e5",
+      "btih": "f01aa6589a125ee4ee7ebeba62160a08c44fe3c2",
+      "mtime": "1660329832",
+      "size": "25447",
+      "md5": "4474b00b62f1363ba0b6025aa2d05f00",
+      "crc32": "84c99115",
+      "sha1": "472464decee3212b12f51407be4186fc1aa4026a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thegrio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ae6d0f204f0449498b9455d8bed69b80",
+      "md5": "2f430f05105afad2a3019eaee85fc5d5",
       "summation": "md5"
     },
     {
       "name": "thegrio-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660297727",
-      "size": "159744",
-      "md5": "bf36271447f5f25da80ed24b0d6ad1cf",
-      "crc32": "1d2770f3",
-      "sha1": "01221c34da0f3a2de930033a95f13e9f1a74498b",
+      "mtime": "1660328929",
+      "size": "167936",
+      "md5": "f23ce2a6a72d8fc9d156a5e97a9a1a37",
+      "crc32": "8b1697d6",
+      "sha1": "2877aa420b7e203988420a3578a021d82d161ad3",
       "format": "Metadata"
     },
     {
@@ -1172,9 +1234,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 113,
-  "item_last_updated": 1660297839,
-  "item_size": 6510164,
+  "files_count": 119,
+  "item_last_updated": 1660329832,
+  "item_size": 6855523,
   "metadata": {
     "identifier": "thegrio-2022",
     "collection": [
@@ -1192,7 +1254,12 @@
     "addeddate": "2022-08-03 04:46:19"
   },
   "server": "ia802504.us.archive.org",
-  "uniq": 128512648,
+  "thegrio-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 67821387,
   "workable_servers": [
     "ia802504.us.archive.org",
     "ia902504.us.archive.org"

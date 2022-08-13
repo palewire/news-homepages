@@ -1,5 +1,5 @@
 {
-  "created": 1660305015,
+  "created": 1660351419,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/25/items/gwinnettdaily-2022",
@@ -2500,31 +2500,93 @@
       "sha1": "5dc5f4d1c752df522d26d5a869655071d7e88438"
     },
     {
+      "name": "gwinnettdaily-2022-08-12T20:35:21.755719-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660350925",
+      "size": "75607",
+      "md5": "b7ea4097d0abaa302b38dc0445f757b0",
+      "crc32": "e270a232",
+      "sha1": "3b1a642511e281642793b3fea701ef7826fa435b",
+      "format": "JSON"
+    },
+    {
+      "name": "gwinnettdaily-2022-08-12T20:35:21.755719-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660350926",
+      "size": "161628",
+      "md5": "56532eb770ee5a284bf4b967c334b378",
+      "crc32": "4d8ca908",
+      "sha1": "5df49f7f0ba8d8ae02362a2bb2576901bdf48fb6",
+      "format": "JSON"
+    },
+    {
+      "name": "gwinnettdaily-2022-08-12T20:35:21.755719-04:00.jpg",
+      "source": "original",
+      "mtime": "1660350923",
+      "size": "288524",
+      "md5": "d35de3d5a33ddbe46da3e62bcf29089b",
+      "crc32": "bf6c6da2",
+      "sha1": "aaa745f30d33df444f74ccfe6a6b3bf7fc061b04",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gwinnettdaily-2022-08-12T20:35:21.755719-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660350928",
+      "size": "1554",
+      "md5": "53a585fdccde6bf34a43a083f81742dc",
+      "crc32": "5ca11d85",
+      "sha1": "077bbeb069aabd4f593cfd8b8db47db38dacad62",
+      "format": "JSON"
+    },
+    {
+      "name": "gwinnettdaily-2022-08-12T20:35:21.755719-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660350930",
+      "size": "78310",
+      "md5": "1b3829fffdafa2dc27936cf906daa510",
+      "crc32": "c4a130b4",
+      "sha1": "48fd76934488649ea08bafb59dfa3eae5806b4cf",
+      "format": "JSON"
+    },
+    {
+      "name": "gwinnettdaily-2022-08-12T20:35:21.755719-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gwinnettdaily-2022-08-12T20:35:21.755719-04:00.jpg",
+      "mtime": "1660351318",
+      "size": "11078",
+      "md5": "e8852412fb035f2fa6a74900823b6e39",
+      "crc32": "bcd721a3",
+      "sha1": "b81ab94939cd19c2c60d6f7e210f9ce143102c26"
+    },
+    {
       "name": "gwinnettdaily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4536a6b205975c7b5463927b7681f419dc8c19e3",
-      "mtime": "1660304977",
-      "size": "53553",
-      "md5": "1e25ecaedd52966b9df6ba5a23a214e6",
-      "crc32": "0d3923f9",
-      "sha1": "17dd59b8e8faba3e12b775ed3fac1b3cf4ef618f",
+      "btih": "9738b55cd56781961c4639bdc7d13217f950b01f",
+      "mtime": "1660351381",
+      "size": "54873",
+      "md5": "c11149689b9bebbd3216712026cb1bcf",
+      "crc32": "3e8809e4",
+      "sha1": "66292dc085c24eb30fa6624891b3792de7e5eb79",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gwinnettdaily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "61896cb23db66b8ac315a85701f7c82b",
+      "md5": "605bbc19677ff9b45b90cd4c870fdaeb",
       "summation": "md5"
     },
     {
       "name": "gwinnettdaily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660304770",
-      "size": "315392",
-      "md5": "fa2e45a8b69dd5bce768251d39fc0913",
-      "crc32": "66faaeea",
-      "sha1": "d74861359b2e908f94251f4a81e5aa49e7acc348",
+      "mtime": "1660350934",
+      "size": "323584",
+      "md5": "c0bf49aba17e45399927bb2970fe1cab",
+      "crc32": "867e45d2",
+      "sha1": "467df8b6e7d39be70f6f924b07cb329449ee67b8",
       "format": "Metadata"
     },
     {
@@ -2538,9 +2600,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 244,
-  "item_last_updated": 1660304977,
-  "item_size": 25671921,
+  "files_count": 250,
+  "item_last_updated": 1660351381,
+  "item_size": 26298134,
   "metadata": {
     "identifier": "gwinnettdaily-2022",
     "collection": [
@@ -2557,10 +2619,10 @@
     "publicdate": "2022-07-20 23:31:08",
     "addeddate": "2022-07-20 23:31:08"
   },
-  "server": "ia801407.us.archive.org",
-  "uniq": 352800154,
+  "server": "ia601407.us.archive.org",
+  "uniq": 1023094227,
   "workable_servers": [
-    "ia801407.us.archive.org",
-    "ia601407.us.archive.org"
+    "ia601407.us.archive.org",
+    "ia801407.us.archive.org"
   ]
 }

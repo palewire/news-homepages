@@ -1,5 +1,5 @@
 {
-  "created": 1660311481,
+  "created": 1660322608,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/18/items/wtvm-2022",
@@ -2632,31 +2632,93 @@
       "sha1": "32949aa2663d76a2ffe87710a8b9c3135b98fc35"
     },
     {
+      "name": "wtvm-2022-08-12T12:30:27.369568-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660321831",
+      "size": "35289",
+      "md5": "97f355ac3a7456a08a25779c1a9ec8d2",
+      "crc32": "555657e7",
+      "sha1": "d0ba5e8f18ee83dad5df722912ad39fe33d1a135",
+      "format": "JSON"
+    },
+    {
+      "name": "wtvm-2022-08-12T12:30:27.369568-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660321833",
+      "size": "27486",
+      "md5": "19e745a488c757035bfc356bc9ef741f",
+      "crc32": "315541d5",
+      "sha1": "d4c4c3e1818bfc638ac0707595b96a0270e882b2",
+      "format": "JSON"
+    },
+    {
+      "name": "wtvm-2022-08-12T12:30:27.369568-04:00.jpg",
+      "source": "original",
+      "mtime": "1660321828",
+      "size": "353223",
+      "md5": "3dc4ccbcc00c11f365d6132ea2ce2082",
+      "crc32": "0aa0909a",
+      "sha1": "49947e4c4fb25db3535910e6d6df13ef1d53ec25",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wtvm-2022-08-12T12:30:27.369568-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660321835",
+      "size": "1441",
+      "md5": "7f35acdebeb076b931ce28e94e6813b6",
+      "crc32": "01cb49b0",
+      "sha1": "4c1e9610a2b49078fb958c4cc872cac12752ff75",
+      "format": "JSON"
+    },
+    {
+      "name": "wtvm-2022-08-12T12:30:27.369568-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660321836",
+      "size": "53853",
+      "md5": "198d25fead6fc05cdc515c88f1998f6c",
+      "crc32": "ac1bfb9a",
+      "sha1": "dc3c03a8d1b5ec0078609bea8ad517594344bd88",
+      "format": "JSON"
+    },
+    {
+      "name": "wtvm-2022-08-12T12:30:27.369568-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wtvm-2022-08-12T12:30:27.369568-04:00.jpg",
+      "mtime": "1660322326",
+      "size": "11173",
+      "md5": "232dc82daa5fabf99b6be439e9459e49",
+      "crc32": "0332ac9e",
+      "sha1": "b3d9ee3e61d055cec891ea496938dbc1048aaab4"
+    },
+    {
       "name": "wtvm-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b97ba61d7273ac6e581eb885afae4039b0e4d281",
-      "mtime": "1660297357",
-      "size": "53796",
-      "md5": "149adfba4e8483340b03dd957736ee85",
-      "crc32": "6c03a364",
-      "sha1": "a48d7afe726361076eb2773c17155c02dd0e48cb",
+      "btih": "6a3d8b61d752cbdb41dddcf6904688e6b8461e5a",
+      "mtime": "1660322359",
+      "size": "55040",
+      "md5": "bb81ad0d89c23cb8b48762b6dec99628",
+      "crc32": "2a2762c0",
+      "sha1": "d41d070d2e33da5d40f64ccd269e6f355ce998cd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wtvm-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "67a99ec657f26a129ea4cca50f04b244",
+      "md5": "99aff34e78107a141369aa8ba7dff96f",
       "summation": "md5"
     },
     {
       "name": "wtvm-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660297195",
-      "size": "327680",
-      "md5": "fc10bd8bef0984820a6dd04bd765e1f1",
-      "crc32": "f46abeaa",
-      "sha1": "78e4acd63ee736a973c897c8e8861162a577c255",
+      "mtime": "1660321839",
+      "size": "335872",
+      "md5": "50208d6428c6d0508c8439a6588b96c9",
+      "crc32": "3548cb4c",
+      "sha1": "91b593837dffa432786e9e2fcf003180f19a2547",
       "format": "Metadata"
     },
     {
@@ -2670,9 +2732,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 257,
-  "item_last_updated": 1660297357,
-  "item_size": 21797235,
+  "files_count": 263,
+  "item_last_updated": 1660322359,
+  "item_size": 22289136,
   "metadata": {
     "identifier": "wtvm-2022",
     "collection": [
@@ -2690,14 +2752,9 @@
     "addeddate": "2022-07-20 23:32:24"
   },
   "server": "ia802500.us.archive.org",
-  "uniq": 712190701,
+  "uniq": 1394266930,
   "workable_servers": [
     "ia802500.us.archive.org",
     "ia902500.us.archive.org"
-  ],
-  "wtvm-2022": {
-    "url": "https://www.wtvm.com",
-    "job_id": "spn2-cb8db6a13edf17ed3b320a8432cb8bf73846147c",
-    "message": "The same snapshot had been made 27 minutes, 29 seconds ago. You can make new capture of this URL after 45 minutes."
-  }
+  ]
 }

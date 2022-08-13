@@ -1,5 +1,5 @@
 {
-  "created": 1660298004,
+  "created": 1660352103,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/21/items/stltoday-2022",
@@ -4844,31 +4844,83 @@
       "sha1": "10c9fa86210e7a1dc067a2527bc394bbb6de61b8"
     },
     {
+      "name": "stltoday-2022-08-12T13:25:39.607487-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660328744",
+      "size": "37751",
+      "md5": "2dcb2ac9bace51bc2a174e4fafacc6fd",
+      "crc32": "8b76deea",
+      "sha1": "b494a72b2d10c6454e35fbcad741696924520bb9",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-08-12T13:25:39.607487-05:00.jpg",
+      "source": "original",
+      "mtime": "1660328741",
+      "size": "330353",
+      "md5": "6d99f6e75e8a3607054f728f19129e68",
+      "crc32": "830b11c0",
+      "sha1": "638183f9c179ed59f7a8f9cb069589920b188374",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "stltoday-2022-08-12T13:25:39.607487-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660328746",
+      "size": "1477",
+      "md5": "ffe41f947f5149d18466b591edc8887d",
+      "crc32": "551aa198",
+      "sha1": "fc53c73a510605b1bd43bcd1aa3e589d0ff8236f",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-08-12T13:25:39.607487-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660328748",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-08-12T13:25:39.607487-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "stltoday-2022-08-12T13:25:39.607487-05:00.jpg",
+      "mtime": "1660329158",
+      "size": "12192",
+      "md5": "4906b31adcd5ad5a9baa644783c39a98",
+      "crc32": "c123a7c4",
+      "sha1": "cd3d902f8b9bfa2b5174529c71a8e80de3f5e95d"
+    },
+    {
       "name": "stltoday-2022_archive.torrent",
       "source": "metadata",
-      "btih": "340b2e32a2e968a5723559676e4e6a688b461038",
-      "mtime": "1660297967",
-      "size": "99137",
-      "md5": "87e701a9a715690340ada781827ca718",
-      "crc32": "7dbbc8fd",
-      "sha1": "fdbf7ae909c6a894c6d3f975a8eb816f0716de91",
+      "btih": "171965331e0895dfb458085382320bfe40ed7dcb",
+      "mtime": "1660329168",
+      "size": "100172",
+      "md5": "91930bbc2973a51ef9dc5e28d7339da8",
+      "crc32": "c28ec5f7",
+      "sha1": "829b9d5151e54b54dd540cf876e75fb11d4d13b1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "stltoday-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0bf46b1a652d47e78494f90797cc7f3b",
+      "md5": "ddef52605d1c1fff6414897a67d89a4d",
       "summation": "md5"
     },
     {
       "name": "stltoday-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660297638",
-      "size": "557056",
-      "md5": "428a5559a3c59c32830ed9aa7ab853d4",
-      "crc32": "52afede4",
-      "sha1": "7afd02b082bbeb23f087c901b01e5d2946b0974d",
+      "mtime": "1660328915",
+      "size": "561152",
+      "md5": "389321ad0ca2ad0461c4dff9dcecfd4e",
+      "crc32": "144960e2",
+      "sha1": "e0b4f0cb9db35f4d1e4a764f7d0a3a3fb7eac790",
       "format": "Metadata"
     },
     {
@@ -4882,9 +4934,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 466,
-  "item_last_updated": 1660297967,
-  "item_size": 49485472,
+  "files_count": 471,
+  "item_last_updated": 1660329168,
+  "item_size": 49872578,
   "metadata": {
     "identifier": "stltoday-2022",
     "collection": [
@@ -4901,10 +4953,15 @@
     "publicdate": "2022-06-24 23:01:32",
     "addeddate": "2022-06-24 23:01:32"
   },
-  "server": "ia902502.us.archive.org",
-  "uniq": 1860937992,
+  "server": "ia802502.us.archive.org",
+  "stltoday-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 2017852505,
   "workable_servers": [
-    "ia902502.us.archive.org",
-    "ia802502.us.archive.org"
+    "ia802502.us.archive.org",
+    "ia902502.us.archive.org"
   ]
 }

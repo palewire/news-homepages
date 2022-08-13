@@ -1,6 +1,5 @@
 {
-  "conflict": 1660310767,
-  "created": 1660310767,
+  "created": 1660351197,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/31/items/kpr_frankfort-2022",
@@ -1415,31 +1414,82 @@
       "sha1": "e29779549667bcac791b3df7890d5f34dbda5ee4"
     },
     {
+      "name": "kpr_frankfort-2022-08-12T20:39:02.066395-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660351151",
+      "size": "11962",
+      "md5": "cb7ed1e33c166f8505304fbcf2f93462",
+      "crc32": "ffbcb1af",
+      "sha1": "5dcbec3f7bc06dbfbfcb6364a1841078d49f05f1",
+      "format": "JSON"
+    },
+    {
+      "name": "kpr_frankfort-2022-08-12T20:39:02.066395-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660351153",
+      "size": "20666",
+      "md5": "bb9bb4b3f0e4bd2a4d1af16243ca559f",
+      "crc32": "2add60b8",
+      "sha1": "04d4833dd70bbbebbbdfed983597bca1cc01424a",
+      "format": "JSON"
+    },
+    {
+      "name": "kpr_frankfort-2022-08-12T20:39:02.066395-04:00.jpg",
+      "source": "original",
+      "mtime": "1660351149",
+      "size": "324108",
+      "md5": "76122f803469bae1148a45c909243b3c",
+      "crc32": "308f630c",
+      "sha1": "6800f83c648dd801cc407ed718657e2a39fcb989",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpr_frankfort-2022-08-12T20:39:02.066395-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660351155",
+      "size": "1405",
+      "md5": "101f64f68ddef75b871d3adcfd8c3d1a",
+      "crc32": "8c57d89f",
+      "sha1": "4ce625dd0c9c876c38edab051e11395d2f2e6584",
+      "format": "JSON"
+    },
+    {
+      "name": "kpr_frankfort-2022-08-12T20:39:02.066395-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660351157",
+      "size": "222",
+      "md5": "2eec964a408474cc5f34adeff3fbef38",
+      "crc32": "e4a37f72",
+      "sha1": "44541c36ac201a67021f43ebcc7bdb00a26b3cf1",
+      "format": "JSON"
+    },
+    {
       "name": "kpr_frankfort-2022_archive.torrent",
       "source": "metadata",
-      "btih": "aa17d720311ac2fa15826ab2b066c277bcf879ea",
-      "mtime": "1660310765",
-      "size": "30775",
-      "md5": "d59cfeb65c1f915ac9b1ad6ee99adcd0",
-      "crc32": "4776782b",
-      "sha1": "8917a34355df2cd37bc5b3de1f98d818f8ec8c52",
+      "btih": "57ce6b62f4f2dd962c6df3b6be72b1e92680d631",
+      "mtime": "1660351195",
+      "size": "31841",
+      "md5": "16e8394000c155ae018bfd7f82bafb17",
+      "crc32": "e4002258",
+      "sha1": "983955bb5a8bfbfe28d76d98493570b638d3d147",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kpr_frankfort-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2168617beb0a37ab8f06853f456537ac",
+      "md5": "8adfce9afd5fa7987a1206bd5b3a844e",
       "summation": "md5"
     },
     {
       "name": "kpr_frankfort-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660310428",
-      "size": "192512",
-      "md5": "23326ec3379abb54b9435d0929a91259",
-      "crc32": "e9eb512d",
-      "sha1": "37cddbd4dfa999bebe2d8bbf4e5d960daafc4909",
+      "mtime": "1660351160",
+      "size": "200704",
+      "md5": "1fdbe8179a2d7275a2c36995649c0b8b",
+      "crc32": "931ac660",
+      "sha1": "b646403dc007e4bb801adbee2c11a04dfec3426a",
       "format": "Metadata"
     },
     {
@@ -1453,9 +1503,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 140,
-  "item_last_updated": 1660310765,
-  "item_size": 9553220,
+  "files_count": 145,
+  "item_last_updated": 1660351195,
+  "item_size": 9920841,
   "metadata": {
     "identifier": "kpr_frankfort-2022",
     "collection": [
@@ -1477,15 +1527,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3363466265,
-      "cmd": "bup.php",
-      "priority": -5,
+      "task_id": 3364350518,
+      "cmd": "derive.php",
+      "priority": -6,
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
     }
   ],
-  "uniq": 1164036591,
+  "uniq": 1101931485,
   "workable_servers": [
     "ia601507.us.archive.org"
   ]
