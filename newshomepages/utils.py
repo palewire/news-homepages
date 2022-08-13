@@ -113,7 +113,9 @@ def get_language_df() -> pd.DataFrame:
     """
     site_df = get_site_df()
     language_list = list(site_df.language.unique())
-    return pd.DataFrame([iso639.Language.from_part1(x) for x in language_list])
+    return pd.DataFrame(
+        [iso639.Language.from_part1(x) for x in language_list]
+    ).sort_values("name")
 
 
 def get_site(handle: str) -> typing.Dict:
@@ -169,6 +171,18 @@ def get_sites_in_country(slug: str) -> typing.List[typing.Dict]:
     """
     site_list = get_site_list()
     return [s for s in site_list if slug.upper() == s["country"]]
+
+
+def get_sites_in_language(code: str) -> typing.List[typing.Dict]:
+    """Get all the sites in the provided language.
+
+    Args:
+        slug (str): The two digit alpha code of the country.
+
+    Returns a list of site dictionaries.
+    """
+    site_list = get_site_list()
+    return [s for s in site_list if code.lower() == s["language"].lower()]
 
 
 def get_accessibility_list() -> typing.List[typing.Dict[str, typing.Any]]:

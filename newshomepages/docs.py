@@ -50,7 +50,6 @@ def bundle_list():
 @cli.command()
 def country_list():
     """Create country list."""
-    # Get data
     country_list = utils.get_country_list()
     for c in country_list:
         c["site_list"] = utils.get_sites_in_country(c["alpha2"])
@@ -61,6 +60,19 @@ def country_list():
             has_list=[c for c in country_list if len(c["site_list"])],
             hasnot_list=[c for c in country_list if not len(c["site_list"])],
         ),
+    )
+
+
+@cli.command()
+def language_list():
+    """Create language list."""
+    language_list = utils.get_language_list()
+    for d in language_list:
+        d["site_list"] = utils.get_sites_in_language(d["part1"])
+    print("🗣️ Creating language list page")
+    _write_template(
+        "languages.md",
+        dict(language_list=language_list),
     )
 
 
