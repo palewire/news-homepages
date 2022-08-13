@@ -18,8 +18,8 @@ jobs:
         name: Install
         uses: ./.github/actions/install
 
-      - id: tweet
-        name: Tweet
+      - id: sync
+        name: Sync
         run: pipenv run python -m newshomepages.tweet update-list
         shell: bash
         env:
