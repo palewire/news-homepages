@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 52 screenshots with the Internet Archive.
+The archiving routine has saved 53 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 52 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kerrville-2022/kerrville-2022-08-12T12:52:29.843513-05:00.jpg">
+  <img src="https://archive.org/download/kerrville-2022/kerrville-2022-08-12T12:52:29.843513-05:00.jpg"
+     alt="Kerrville Daily Times at 2022-08-12 12:52:33-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-08-12T12:52:29.843513-05:00.jpg">August 12 at 12:52 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kerrville-2022/kerrville-2022-08-12T05:01:53.122407-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-08-06T22:25:37.121716-05:00.jpg">August 6 at 10:25 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kerrville-2022/kerrville-2022-08-06T11:15:02.754609-05:00.jpg">
-  <img src="https://archive.org/download/kerrville-2022/kerrville-2022-08-06T11:15:02.754609-05:00.jpg"
-     alt="Kerrville Daily Times at 2022-08-06 11:15:04-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-08-06T11:15:02.754609-05:00.jpg">August 6 at 11:15 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 48 hyperlink lists with the Internet Archive.
+The archiving routine has saved 49 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 12 at 12:52 PM](https://archive.org/download/kerrville-2022/kerrville-2022-08-12T12:52:29.843513-05:00.hyperlinks.json) |
 | [August 12 at 5:01 AM](https://archive.org/download/kerrville-2022/kerrville-2022-08-12T05:01:53.122407-05:00.hyperlinks.json) |
 | [August 10 at 10:56 PM](https://archive.org/download/kerrville-2022/kerrville-2022-08-10T22:56:09.744680-05:00.hyperlinks.json) |
 | [August 10 at 1:08 PM](https://archive.org/download/kerrville-2022/kerrville-2022-08-10T13:08:04.008366-05:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 8 at 12:04 PM](https://archive.org/download/kerrville-2022/kerrville-2022-08-08T12:04:53.765841-05:00.hyperlinks.json) |
 | [August 8 at 12:12 AM](https://archive.org/download/kerrville-2022/kerrville-2022-08-08T00:12:39.601497-05:00.hyperlinks.json) |
 | [August 7 at 11:52 AM](https://archive.org/download/kerrville-2022/kerrville-2022-08-07T11:52:22.256853-05:00.hyperlinks.json) |
-| [August 6 at 10:25 PM](https://archive.org/download/kerrville-2022/kerrville-2022-08-06T22:25:37.121716-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 52 accessibility trees with the Internet Archive.
+The archiving routine has saved 53 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 12 at 12:52 PM](https://archive.org/download/kerrville-2022/kerrville-2022-08-12T12:52:29.843513-05:00.accessibility.json) |
 | [August 12 at 5:01 AM](https://archive.org/download/kerrville-2022/kerrville-2022-08-12T05:01:53.122407-05:00.accessibility.json) |
 | [August 11 at 1:43 PM](https://archive.org/download/kerrville-2022/kerrville-2022-08-11T13:43:00.631313-05:00.accessibility.json) |
 | [August 10 at 10:56 PM](https://archive.org/download/kerrville-2022/kerrville-2022-08-10T22:56:09.744680-05:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 8 at 10:47 PM](https://archive.org/download/kerrville-2022/kerrville-2022-08-08T22:47:23.910024-05:00.accessibility.json) |
 | [August 8 at 12:04 PM](https://archive.org/download/kerrville-2022/kerrville-2022-08-08T12:04:53.765841-05:00.accessibility.json) |
 | [August 8 at 12:12 AM](https://archive.org/download/kerrville-2022/kerrville-2022-08-08T00:12:39.601497-05:00.accessibility.json) |
-| [August 7 at 11:52 AM](https://archive.org/download/kerrville-2022/kerrville-2022-08-07T11:52:22.256853-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 39 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 40 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 12 at 12:52 PM](https://archive.org/download/kerrville-2022/kerrville-2022-08-12T12:52:29.843513-05:00.lighthouse.json) |
 | [August 12 at 5:02 AM](https://archive.org/download/kerrville-2022/kerrville-2022-08-12T05:01:53.122407-05:00.lighthouse.json) |
 | [August 11 at 1:43 PM](https://archive.org/download/kerrville-2022/kerrville-2022-08-11T13:43:00.631313-05:00.lighthouse.json) |
 | [August 10 at 10:56 PM](https://archive.org/download/kerrville-2022/kerrville-2022-08-10T22:56:09.744680-05:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 8 at 10:47 PM](https://archive.org/download/kerrville-2022/kerrville-2022-08-08T22:47:23.910024-05:00.lighthouse.json) |
 | [August 8 at 12:05 PM](https://archive.org/download/kerrville-2022/kerrville-2022-08-08T12:04:53.765841-05:00.lighthouse.json) |
 | [August 8 at 12:12 AM](https://archive.org/download/kerrville-2022/kerrville-2022-08-08T00:12:39.601497-05:00.lighthouse.json) |
-| [August 7 at 11:52 AM](https://archive.org/download/kerrville-2022/kerrville-2022-08-07T11:52:22.256853-05:00.lighthouse.json) |
 
 
 

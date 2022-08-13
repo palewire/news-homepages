@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 77 screenshots with the Internet Archive.
+The archiving routine has saved 79 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/thedispatch-2022/thedispatch-2022-08-12T15:14:26.735551-04:00.jpg">
+  <img src="https://archive.org/download/thedispatch-2022/thedispatch-2022-08-12T15:14:26.735551-04:00.jpg"
+     alt="Dispatch at 2022-08-12 15:14:28-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thedispatch-2022/thedispatch-2022-08-12T15:14:26.735551-04:00.jpg">August 12 at 3:14 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thedispatch-2022/thedispatch-2022-08-12T14:26:46.272846-04:00.jpg">
+  <img src="https://archive.org/download/thedispatch-2022/thedispatch-2022-08-12T14:26:46.272846-04:00.jpg"
+     alt="Dispatch at 2022-08-12 14:26:50-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thedispatch-2022/thedispatch-2022-08-12T14:26:46.272846-04:00.jpg">August 12 at 2:26 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/thedispatch-2022/thedispatch-2022-08-12T05:48:39.308676-04:00.jpg">
   <img src="https://archive.org/download/thedispatch-2022/thedispatch-2022-08-12T05:48:39.308676-04:00.jpg"
      alt="Dispatch at 2022-08-12 05:48:40-04:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thedispatch-2022/thedispatch-2022-08-09T01:10:43.422068-04:00.jpg">August 9 at 1:10 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thedispatch-2022/thedispatch-2022-08-08T14:42:04.580029-04:00.jpg">
-  <img src="https://archive.org/download/thedispatch-2022/thedispatch-2022-08-08T14:42:04.580029-04:00.jpg"
-     alt="Dispatch at 2022-08-08 14:42:07-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thedispatch-2022/thedispatch-2022-08-08T14:42:04.580029-04:00.jpg">August 8 at 2:42 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thedispatch-2022/thedispatch-2022-08-08T13:20:54.556045-04:00.jpg">
-  <img src="https://archive.org/download/thedispatch-2022/thedispatch-2022-08-08T13:20:54.556045-04:00.jpg"
-     alt="Dispatch at 2022-08-08 13:20:56-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thedispatch-2022/thedispatch-2022-08-08T13:20:54.556045-04:00.jpg">August 8 at 1:20 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 77 hyperlink lists with the Internet Archive.
+The archiving routine has saved 79 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 12 at 3:14 PM](https://archive.org/download/thedispatch-2022/thedispatch-2022-08-12T15:14:26.735551-04:00.hyperlinks.json) |
+| [August 12 at 2:26 PM](https://archive.org/download/thedispatch-2022/thedispatch-2022-08-12T14:26:46.272846-04:00.hyperlinks.json) |
 | [August 12 at 5:48 AM](https://archive.org/download/thedispatch-2022/thedispatch-2022-08-12T05:48:39.308676-04:00.hyperlinks.json) |
 | [August 11 at 3:40 PM](https://archive.org/download/thedispatch-2022/thedispatch-2022-08-11T15:40:45.157149-04:00.hyperlinks.json) |
 | [August 11 at 2:58 PM](https://archive.org/download/thedispatch-2022/thedispatch-2022-08-11T14:58:08.983730-04:00.hyperlinks.json) |
@@ -322,13 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 10 at 2:26 PM](https://archive.org/download/thedispatch-2022/thedispatch-2022-08-10T14:26:21.759750-04:00.hyperlinks.json) |
 | [August 10 at 1:33 AM](https://archive.org/download/thedispatch-2022/thedispatch-2022-08-10T01:33:26.119787-04:00.hyperlinks.json) |
 | [August 9 at 2:44 PM](https://archive.org/download/thedispatch-2022/thedispatch-2022-08-09T14:44:42.273261-04:00.hyperlinks.json) |
-| [August 9 at 1:56 PM](https://archive.org/download/thedispatch-2022/thedispatch-2022-08-09T13:56:02.434115-04:00.hyperlinks.json) |
-| [August 9 at 1:10 AM](https://archive.org/download/thedispatch-2022/thedispatch-2022-08-09T01:10:43.422068-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 77 accessibility trees with the Internet Archive.
+The archiving routine has saved 79 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 12 at 3:14 PM](https://archive.org/download/thedispatch-2022/thedispatch-2022-08-12T15:14:26.735551-04:00.accessibility.json) |
+| [August 12 at 2:26 PM](https://archive.org/download/thedispatch-2022/thedispatch-2022-08-12T14:26:46.272846-04:00.accessibility.json) |
 | [August 12 at 5:48 AM](https://archive.org/download/thedispatch-2022/thedispatch-2022-08-12T05:48:39.308676-04:00.accessibility.json) |
 | [August 11 at 3:40 PM](https://archive.org/download/thedispatch-2022/thedispatch-2022-08-11T15:40:45.157149-04:00.accessibility.json) |
 | [August 11 at 2:58 PM](https://archive.org/download/thedispatch-2022/thedispatch-2022-08-11T14:58:08.983730-04:00.accessibility.json) |
@@ -427,14 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 10 at 2:26 PM](https://archive.org/download/thedispatch-2022/thedispatch-2022-08-10T14:26:21.759750-04:00.accessibility.json) |
 | [August 10 at 1:33 AM](https://archive.org/download/thedispatch-2022/thedispatch-2022-08-10T01:33:26.119787-04:00.accessibility.json) |
 | [August 9 at 2:44 PM](https://archive.org/download/thedispatch-2022/thedispatch-2022-08-09T14:44:42.273261-04:00.accessibility.json) |
-| [August 9 at 1:56 PM](https://archive.org/download/thedispatch-2022/thedispatch-2022-08-09T13:56:02.434115-04:00.accessibility.json) |
-| [August 9 at 1:10 AM](https://archive.org/download/thedispatch-2022/thedispatch-2022-08-09T01:10:43.422068-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 58 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 60 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 12 at 3:14 PM](https://archive.org/download/thedispatch-2022/thedispatch-2022-08-12T15:14:26.735551-04:00.lighthouse.json) |
+| [August 12 at 2:26 PM](https://archive.org/download/thedispatch-2022/thedispatch-2022-08-12T14:26:46.272846-04:00.lighthouse.json) |
 | [August 12 at 5:48 AM](https://archive.org/download/thedispatch-2022/thedispatch-2022-08-12T05:48:39.308676-04:00.lighthouse.json) |
 | [August 11 at 3:40 PM](https://archive.org/download/thedispatch-2022/thedispatch-2022-08-11T15:40:45.157149-04:00.lighthouse.json) |
 | [August 11 at 2:58 PM](https://archive.org/download/thedispatch-2022/thedispatch-2022-08-11T14:58:08.983730-04:00.lighthouse.json) |
@@ -533,8 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 10 at 2:26 PM](https://archive.org/download/thedispatch-2022/thedispatch-2022-08-10T14:26:21.759750-04:00.lighthouse.json) |
 | [August 10 at 1:33 AM](https://archive.org/download/thedispatch-2022/thedispatch-2022-08-10T01:33:26.119787-04:00.lighthouse.json) |
 | [August 9 at 2:44 PM](https://archive.org/download/thedispatch-2022/thedispatch-2022-08-09T14:44:42.273261-04:00.lighthouse.json) |
-| [August 9 at 1:56 PM](https://archive.org/download/thedispatch-2022/thedispatch-2022-08-09T13:56:02.434115-04:00.lighthouse.json) |
-| [August 9 at 1:10 AM](https://archive.org/download/thedispatch-2022/thedispatch-2022-08-09T01:10:43.422068-04:00.lighthouse.json) |
 
 
 

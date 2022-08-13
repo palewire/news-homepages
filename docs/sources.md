@@ -3,7 +3,7 @@
 
 # Site directory
 
-The archiving routine is currently capturing 780 sites.
+The archiving routine is currently capturing 782 sites.
 
 A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/all.xml). An OPML file collecting all individual RSS feeds is at [opml.xml](https://palewi.re/docs/news-homepages/rss/sites/opml.xml).
 
@@ -256,6 +256,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[El Tímpano](https://palewi.re/docs/news-homepages/sites/el_timpano.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/el_timpano.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/el_timpano.xml)|
 |[El Universal](https://palewi.re/docs/news-homepages/sites/el_universal_mx.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/el_universal_mx.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/el_universal_mx.xml)|
 |[Engadget](https://palewi.re/docs/news-homepages/sites/engadget.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/engadget.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/engadget.xml)|
+|[Epoch Times](https://palewi.re/docs/news-homepages/sites/epochtimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/epochtimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/epochtimes.xml)|
 |[ESPN](https://palewi.re/docs/news-homepages/sites/espn.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/espn.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/espn.xml)|
 |[Estado de Minas](https://palewi.re/docs/news-homepages/sites/em_com.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/em_com.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/em_com.xml)|
 |[Estadão](https://palewi.re/docs/news-homepages/sites/estadao.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/estadao.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/estadao.xml)|
@@ -364,6 +365,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[Jornal do Brasil](https://palewi.re/docs/news-homepages/sites/jornaldobrasil.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jornaldobrasil.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/jornaldobrasil.xml)|
 |[Journal.ie](https://palewi.re/docs/news-homepages/sites/thejournal_ie.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thejournal_ie.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thejournal_ie.xml)|
 |[JSTOR Daily](https://palewi.re/docs/news-homepages/sites/jstor_daily.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jstor_daily.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/jstor_daily.xml)|
+|[Just the News](https://palewi.re/docs/news-homepages/sites/justthenews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/justthenews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/justthenews.xml)|
 |[Kaiser Health News](https://palewi.re/docs/news-homepages/sites/khnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/khnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/khnews.xml)|
 |[KAKE News](https://palewi.re/docs/news-homepages/sites/kakenews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kakenews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/kakenews.xml)|
 |[Kansas City Defender](https://palewi.re/docs/news-homepages/sites/kcdefender.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kcdefender.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/kcdefender.xml)|

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 262 screenshots with the Internet Archive.
+The archiving routine has saved 263 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 262 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-08-13T02:41:11.688732+02:00.jpg">
+  <img src="https://archive.org/download/le_figaro-2022/le_figaro-2022-08-13T02:41:11.688732+02:00.jpg"
+     alt="Le Figaro at 2022-08-13 02:41:30+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-08-13T02:41:11.688732+02:00.jpg">August 13 at 2:41 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-08-12T15:22:01.162139+02:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-08-09T10:11:03.565670+02:00.jpg">August 9 at 10:11 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-08-09T02:50:31.118355+02:00.jpg">
-  <img src="https://archive.org/download/le_figaro-2022/le_figaro-2022-08-09T02:50:31.118355+02:00.jpg"
-     alt="Le Figaro at 2022-08-09 02:50:42+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-08-09T02:50:31.118355+02:00.jpg">August 9 at 2:50 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 262 hyperlink lists with the Internet Archive.
+The archiving routine has saved 263 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 13 at 2:41 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-08-13T02:41:11.688732+02:00.hyperlinks.json) |
 | [August 12 at 3:22 PM](https://archive.org/download/le_figaro-2022/le_figaro-2022-08-12T15:22:01.162139+02:00.hyperlinks.json) |
 | [August 12 at 12:20 PM](https://archive.org/download/le_figaro-2022/le_figaro-2022-08-12T12:20:19.902592+02:00.hyperlinks.json) |
 | [August 12 at 11:18 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-08-12T11:18:37.689442+02:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 10 at 3:09 PM](https://archive.org/download/le_figaro-2022/le_figaro-2022-08-10T15:09:30.613834+02:00.hyperlinks.json) |
 | [August 10 at 10:10 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-08-10T10:10:38.305802+02:00.hyperlinks.json) |
 | [August 10 at 2:56 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-08-10T02:55:50.847472+02:00.hyperlinks.json) |
-| [August 9 at 2:55 PM](https://archive.org/download/le_figaro-2022/le_figaro-2022-08-09T14:54:56.673847+02:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 262 accessibility trees with the Internet Archive.
+The archiving routine has saved 263 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 13 at 2:41 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-08-13T02:41:11.688732+02:00.accessibility.json) |
 | [August 12 at 3:22 PM](https://archive.org/download/le_figaro-2022/le_figaro-2022-08-12T15:22:01.162139+02:00.accessibility.json) |
 | [August 12 at 12:20 PM](https://archive.org/download/le_figaro-2022/le_figaro-2022-08-12T12:20:19.902592+02:00.accessibility.json) |
 | [August 12 at 11:18 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-08-12T11:18:37.689442+02:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 10 at 3:09 PM](https://archive.org/download/le_figaro-2022/le_figaro-2022-08-10T15:09:30.613834+02:00.accessibility.json) |
 | [August 10 at 10:10 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-08-10T10:10:38.305802+02:00.accessibility.json) |
 | [August 10 at 2:56 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-08-10T02:55:50.847472+02:00.accessibility.json) |
-| [August 9 at 2:55 PM](https://archive.org/download/le_figaro-2022/le_figaro-2022-08-09T14:54:56.673847+02:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 60 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 61 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 13 at 2:41 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-08-13T02:41:11.688732+02:00.lighthouse.json) |
 | [August 12 at 3:22 PM](https://archive.org/download/le_figaro-2022/le_figaro-2022-08-12T15:22:01.162139+02:00.lighthouse.json) |
 | [August 12 at 12:20 PM](https://archive.org/download/le_figaro-2022/le_figaro-2022-08-12T12:20:19.902592+02:00.lighthouse.json) |
 | [August 12 at 11:18 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-08-12T11:18:37.689442+02:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 10 at 3:09 PM](https://archive.org/download/le_figaro-2022/le_figaro-2022-08-10T15:09:30.613834+02:00.lighthouse.json) |
 | [August 10 at 10:10 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-08-10T10:10:38.305802+02:00.lighthouse.json) |
 | [August 10 at 2:56 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-08-10T02:55:50.847472+02:00.lighthouse.json) |
-| [August 9 at 2:55 PM](https://archive.org/download/le_figaro-2022/le_figaro-2022-08-09T14:54:56.673847+02:00.lighthouse.json) |
 
 
 

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 72 screenshots with the Internet Archive.
+The archiving routine has saved 73 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 72 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/canopyatl-2022/canopyatl-2022-08-12T12:18:44.269179-04:00.jpg">
+  <img src="https://archive.org/download/canopyatl-2022/canopyatl-2022-08-12T12:18:44.269179-04:00.jpg"
+     alt="Canopy Atlanta at 2022-08-12 12:18:47-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/canopyatl-2022/canopyatl-2022-08-12T12:18:44.269179-04:00.jpg">August 12 at 12:18 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/canopyatl-2022/canopyatl-2022-08-12T05:30:56.642773-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/canopyatl-2022/canopyatl-2022-08-06T23:07:05.124194-04:00.jpg">August 6 at 11:07 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/canopyatl-2022/canopyatl-2022-08-06T09:53:23.791508-04:00.jpg">
-  <img src="https://archive.org/download/canopyatl-2022/canopyatl-2022-08-06T09:53:23.791508-04:00.jpg"
-     alt="Canopy Atlanta at 2022-08-06 09:53:25-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/canopyatl-2022/canopyatl-2022-08-06T09:53:23.791508-04:00.jpg">August 6 at 9:53 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 73 hyperlink lists with the Internet Archive.
+The archiving routine has saved 74 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 12 at 12:18 PM](https://archive.org/download/canopyatl-2022/canopyatl-2022-08-12T12:18:44.269179-04:00.hyperlinks.json) |
 | [August 12 at 5:31 AM](https://archive.org/download/canopyatl-2022/canopyatl-2022-08-12T05:30:56.642773-04:00.hyperlinks.json) |
 | [August 11 at 10:02 PM](https://archive.org/download/canopyatl-2022/canopyatl-2022-08-11T22:02:52.826671-04:00.hyperlinks.json) |
 | [August 11 at 1:01 PM](https://archive.org/download/canopyatl-2022/canopyatl-2022-08-11T13:01:50.709582-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 9 at 10:36 AM](https://archive.org/download/canopyatl-2022/canopyatl-2022-08-09T10:35:59.304310-04:00.hyperlinks.json) |
 | [August 8 at 10:21 PM](https://archive.org/download/canopyatl-2022/canopyatl-2022-08-08T22:21:18.533275-04:00.hyperlinks.json) |
 | [August 8 at 10:16 AM](https://archive.org/download/canopyatl-2022/canopyatl-2022-08-08T10:16:33.335179-04:00.hyperlinks.json) |
-| [August 7 at 10:29 PM](https://archive.org/download/canopyatl-2022/canopyatl-2022-08-07T22:29:43.133251-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 73 accessibility trees with the Internet Archive.
+The archiving routine has saved 74 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 12 at 12:18 PM](https://archive.org/download/canopyatl-2022/canopyatl-2022-08-12T12:18:44.269179-04:00.accessibility.json) |
 | [August 12 at 5:30 AM](https://archive.org/download/canopyatl-2022/canopyatl-2022-08-12T05:30:56.642773-04:00.accessibility.json) |
 | [August 11 at 10:02 PM](https://archive.org/download/canopyatl-2022/canopyatl-2022-08-11T22:02:52.826671-04:00.accessibility.json) |
 | [August 11 at 1:01 PM](https://archive.org/download/canopyatl-2022/canopyatl-2022-08-11T13:01:50.709582-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 9 at 10:36 AM](https://archive.org/download/canopyatl-2022/canopyatl-2022-08-09T10:35:59.304310-04:00.accessibility.json) |
 | [August 8 at 10:21 PM](https://archive.org/download/canopyatl-2022/canopyatl-2022-08-08T22:21:18.533275-04:00.accessibility.json) |
 | [August 8 at 10:16 AM](https://archive.org/download/canopyatl-2022/canopyatl-2022-08-08T10:16:33.335179-04:00.accessibility.json) |
-| [August 7 at 10:29 PM](https://archive.org/download/canopyatl-2022/canopyatl-2022-08-07T22:29:43.133251-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 42 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 43 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 12 at 12:18 PM](https://archive.org/download/canopyatl-2022/canopyatl-2022-08-12T12:18:44.269179-04:00.lighthouse.json) |
 | [August 12 at 5:31 AM](https://archive.org/download/canopyatl-2022/canopyatl-2022-08-12T05:30:56.642773-04:00.lighthouse.json) |
 | [August 11 at 10:02 PM](https://archive.org/download/canopyatl-2022/canopyatl-2022-08-11T22:02:52.826671-04:00.lighthouse.json) |
 | [August 11 at 1:01 PM](https://archive.org/download/canopyatl-2022/canopyatl-2022-08-11T13:01:50.709582-04:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 9 at 10:36 AM](https://archive.org/download/canopyatl-2022/canopyatl-2022-08-09T10:35:59.304310-04:00.lighthouse.json) |
 | [August 8 at 10:21 PM](https://archive.org/download/canopyatl-2022/canopyatl-2022-08-08T22:21:18.533275-04:00.lighthouse.json) |
 | [August 8 at 10:16 AM](https://archive.org/download/canopyatl-2022/canopyatl-2022-08-08T10:16:33.335179-04:00.lighthouse.json) |
-| [August 7 at 10:29 PM](https://archive.org/download/canopyatl-2022/canopyatl-2022-08-07T22:29:43.133251-04:00.lighthouse.json) |
 
 
 

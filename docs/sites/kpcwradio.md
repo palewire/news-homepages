@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 68 screenshots with the Internet Archive.
+The archiving routine has saved 69 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 68 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-08-12T11:53:42.876983-06:00.jpg">
+  <img src="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-08-12T11:53:42.876983-06:00.jpg"
+     alt="KPCW at 2022-08-12 11:53:46-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-08-12T11:53:42.876983-06:00.jpg">August 12 at 11:53 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-08-12T04:02:01.608493-06:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-08-06T21:26:21.962580-06:00.jpg">August 6 at 9:26 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-08-06T10:15:41.941864-06:00.jpg">
-  <img src="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-08-06T10:15:41.941864-06:00.jpg"
-     alt="KPCW at 2022-08-06 10:15:44-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-08-06T10:15:41.941864-06:00.jpg">August 6 at 10:15 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 69 hyperlink lists with the Internet Archive.
+The archiving routine has saved 70 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 12 at 11:53 AM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-08-12T11:53:42.876983-06:00.hyperlinks.json) |
 | [August 12 at 4:02 AM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-08-12T04:02:01.608493-06:00.hyperlinks.json) |
 | [August 11 at 12:43 PM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-08-11T12:43:26.209063-06:00.hyperlinks.json) |
 | [August 10 at 9:56 PM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-08-10T21:56:07.981355-06:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 8 at 9:48 PM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-08-08T21:48:26.557508-06:00.hyperlinks.json) |
 | [August 8 at 11:06 AM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-08-08T11:05:54.286978-06:00.hyperlinks.json) |
 | [August 7 at 11:12 PM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-08-07T23:12:51.246481-06:00.hyperlinks.json) |
-| [August 7 at 10:53 AM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-08-07T10:52:55.625305-06:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 69 accessibility trees with the Internet Archive.
+The archiving routine has saved 70 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 12 at 11:53 AM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-08-12T11:53:42.876983-06:00.accessibility.json) |
 | [August 12 at 4:02 AM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-08-12T04:02:01.608493-06:00.accessibility.json) |
 | [August 11 at 12:43 PM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-08-11T12:43:26.209063-06:00.accessibility.json) |
 | [August 10 at 9:56 PM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-08-10T21:56:07.981355-06:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 8 at 9:48 PM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-08-08T21:48:26.557508-06:00.accessibility.json) |
 | [August 8 at 11:05 AM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-08-08T11:05:54.286978-06:00.accessibility.json) |
 | [August 7 at 11:12 PM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-08-07T23:12:51.246481-06:00.accessibility.json) |
-| [August 7 at 10:53 AM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-08-07T10:52:55.625305-06:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 39 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 40 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 12 at 11:53 AM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-08-12T11:53:42.876983-06:00.lighthouse.json) |
 | [August 12 at 4:02 AM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-08-12T04:02:01.608493-06:00.lighthouse.json) |
 | [August 11 at 12:43 PM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-08-11T12:43:26.209063-06:00.lighthouse.json) |
 | [August 10 at 9:56 PM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-08-10T21:56:07.981355-06:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 8 at 9:48 PM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-08-08T21:48:26.557508-06:00.lighthouse.json) |
 | [August 8 at 11:06 AM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-08-08T11:05:54.286978-06:00.lighthouse.json) |
 | [August 7 at 11:12 PM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-08-07T23:12:51.246481-06:00.lighthouse.json) |
-| [August 7 at 10:53 AM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-08-07T10:52:55.625305-06:00.lighthouse.json) |
 
 
 

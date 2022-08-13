@@ -7,7 +7,7 @@ orphan: true
 
 # United States of America
 
-The most recent homepages from 555 news sites in this country.
+The most recent homepages from 557 news sites in this country.
 
 <div class="latest-parent">
 
@@ -1605,6 +1605,15 @@ The most recent homepages from 555 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/epochtimes.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/epochtimes.jpg"
+     alt="Epoch Times"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/epochtimes.html">Epoch Times</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/espn.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/espn.jpg"
      alt="ESPN"
@@ -2277,6 +2286,15 @@ The most recent homepages from 555 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/jstor_daily.html">JSTOR Daily</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/justthenews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/justthenews.jpg"
+     alt="Just the News"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/justthenews.html">Just the News</a></p>
 </div>
 
 <div class="latest-child">
@@ -5196,6 +5214,7 @@ The most recent homepages from 555 news sites in this country.
 |[El Paso Times](https://palewi.re/docs/news-homepages/sites/elpasotimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/elpasotimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/elpasotimes.xml)|
 |[El Tímpano](https://palewi.re/docs/news-homepages/sites/el_timpano.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/el_timpano.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/el_timpano.xml)|
 |[Engadget](https://palewi.re/docs/news-homepages/sites/engadget.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/engadget.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/engadget.xml)|
+|[Epoch Times](https://palewi.re/docs/news-homepages/sites/epochtimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/epochtimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/epochtimes.xml)|
 |[ESPN](https://palewi.re/docs/news-homepages/sites/espn.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/espn.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/espn.xml)|
 |[Evanston RoundTable](https://palewi.re/docs/news-homepages/sites/evroundtable.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/evroundtable.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/evroundtable.xml)|
 |[Fairness and Accuracy in Reporting](https://palewi.re/docs/news-homepages/sites/fairmediawatch.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/fairmediawatch.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/fairmediawatch.xml)|
@@ -5271,6 +5290,7 @@ The most recent homepages from 555 news sites in this country.
 |[John Combest](https://palewi.re/docs/news-homepages/sites/johncombest.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/johncombest.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/johncombest.xml)|
 |[Joplin Globe](https://palewi.re/docs/news-homepages/sites/joplinglobe.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/joplinglobe.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/joplinglobe.xml)|
 |[JSTOR Daily](https://palewi.re/docs/news-homepages/sites/jstor_daily.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jstor_daily.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/jstor_daily.xml)|
+|[Just the News](https://palewi.re/docs/news-homepages/sites/justthenews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/justthenews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/justthenews.xml)|
 |[Kaiser Health News](https://palewi.re/docs/news-homepages/sites/khnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/khnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/khnews.xml)|
 |[KAKE News](https://palewi.re/docs/news-homepages/sites/kakenews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kakenews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/kakenews.xml)|
 |[Kansas City Defender](https://palewi.re/docs/news-homepages/sites/kcdefender.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kcdefender.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/kcdefender.xml)|

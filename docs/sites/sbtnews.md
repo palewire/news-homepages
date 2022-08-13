@@ -20,13 +20,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 11 screenshots with the Internet Archive.
+The archiving routine has saved 13 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-08-12T15:23:28.590150-03:00.jpg">
+  <img src="https://archive.org/download/sbtnews-2022/sbtnews-2022-08-12T15:23:28.590150-03:00.jpg"
+     alt="SBT news at 2022-08-12 15:23:33-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-08-12T15:23:28.590150-03:00.jpg">August 12 at 3:23 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-08-12T11:59:20.967811-03:00.jpg">
+  <img src="https://archive.org/download/sbtnews-2022/sbtnews-2022-08-12T11:59:20.967811-03:00.jpg"
+     alt="SBT news at 2022-08-12 11:59:23-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-08-12T11:59:20.967811-03:00.jpg">August 12 at 11:59 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-08-12T06:45:02.957226-03:00.jpg">
@@ -118,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-08-08T02:24:00.885594-03:00.jpg">August 8 at 2:24 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-08-07T16:43:44.624734-03:00.jpg">
-  <img src="https://archive.org/download/sbtnews-2022/sbtnews-2022-08-07T16:43:44.624734-03:00.jpg"
-     alt="SBT news at 2022-08-07 16:43:50-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sbtnews-2022/sbtnews-2022-08-07T16:43:44.624734-03:00.jpg">August 7 at 4:43 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 12 hyperlink lists with the Internet Archive.
+The archiving routine has saved 14 hyperlink lists with the Internet Archive.
 
 
 
@@ -139,6 +148,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 12 at 3:23 PM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-12T15:23:28.590150-03:00.hyperlinks.json) |
+| [August 12 at 11:59 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-12T11:59:20.967811-03:00.hyperlinks.json) |
 | [August 12 at 6:45 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-12T06:45:02.957226-03:00.hyperlinks.json) |
 | [August 11 at 3:54 PM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-11T15:54:41.458245-03:00.hyperlinks.json) |
 | [August 11 at 10:29 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-11T10:29:10.460221-03:00.hyperlinks.json) |
@@ -147,13 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 10 at 10:22 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-10T10:22:15.656857-03:00.hyperlinks.json) |
 | [August 10 at 2:30 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-10T02:30:12.680198-03:00.hyperlinks.json) |
 | [August 9 at 2:52 PM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-09T14:52:11.547703-03:00.hyperlinks.json) |
-| [August 9 at 2:08 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-09T02:08:00.022094-03:00.hyperlinks.json) |
-| [August 8 at 2:17 PM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-08T14:17:12.425784-03:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 12 accessibility trees with the Internet Archive.
+The archiving routine has saved 14 accessibility trees with the Internet Archive.
 
 
 
@@ -161,6 +170,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 12 at 3:23 PM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-12T15:23:28.590150-03:00.accessibility.json) |
+| [August 12 at 11:59 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-12T11:59:20.967811-03:00.accessibility.json) |
 | [August 12 at 6:45 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-12T06:45:02.957226-03:00.accessibility.json) |
 | [August 11 at 3:54 PM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-11T15:54:41.458245-03:00.accessibility.json) |
 | [August 11 at 10:29 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-11T10:29:10.460221-03:00.accessibility.json) |
@@ -169,14 +180,12 @@ Here are the 10 most recent accessibility trees.
 | [August 10 at 10:22 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-10T10:22:15.656857-03:00.accessibility.json) |
 | [August 10 at 2:30 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-10T02:30:12.680198-03:00.accessibility.json) |
 | [August 9 at 2:52 PM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-09T14:52:11.547703-03:00.accessibility.json) |
-| [August 9 at 2:08 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-09T02:08:00.022094-03:00.accessibility.json) |
-| [August 8 at 2:17 PM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-08T14:17:12.425784-03:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 12 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 14 Lighthouse audits with the Internet Archive.
 
 
 
@@ -184,6 +193,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 12 at 3:23 PM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-12T15:23:28.590150-03:00.lighthouse.json) |
+| [August 12 at 11:59 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-12T11:59:20.967811-03:00.lighthouse.json) |
 | [August 12 at 6:45 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-12T06:45:02.957226-03:00.lighthouse.json) |
 | [August 11 at 3:54 PM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-11T15:54:41.458245-03:00.lighthouse.json) |
 | [August 11 at 10:29 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-11T10:29:10.460221-03:00.lighthouse.json) |
@@ -192,8 +203,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 10 at 10:22 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-10T10:22:15.656857-03:00.lighthouse.json) |
 | [August 10 at 2:30 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-10T02:30:12.680198-03:00.lighthouse.json) |
 | [August 9 at 2:52 PM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-09T14:52:11.547703-03:00.lighthouse.json) |
-| [August 9 at 2:08 AM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-09T02:08:00.022094-03:00.lighthouse.json) |
-| [August 8 at 2:17 PM](https://archive.org/download/sbtnews-2022/sbtnews-2022-08-08T14:17:12.425784-03:00.lighthouse.json) |
 
 
 

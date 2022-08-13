@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 81 screenshots with the Internet Archive.
+The archiving routine has saved 82 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 81 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-08-12T19:22:24.297494+03:00.jpg">
+  <img src="https://archive.org/download/sputnikint-2022/sputnikint-2022-08-12T19:22:24.297494+03:00.jpg"
+     alt="Sputnik at 2022-08-12 19:22:25+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-08-12T19:22:24.297494+03:00.jpg">August 12 at 7:22 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-08-12T12:52:57.838784+03:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-08-08T15:52:20.326354+03:00.jpg">August 8 at 3:52 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-08-08T08:41:45.130832+03:00.jpg">
-  <img src="https://archive.org/download/sputnikint-2022/sputnikint-2022-08-08T08:41:45.130832+03:00.jpg"
-     alt="Sputnik at 2022-08-08 08:41:48+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sputnikint-2022/sputnikint-2022-08-08T08:41:45.130832+03:00.jpg">August 8 at 8:41 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 83 hyperlink lists with the Internet Archive.
+The archiving routine has saved 84 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 12 at 7:22 PM](https://archive.org/download/sputnikint-2022/sputnikint-2022-08-12T19:22:24.297494+03:00.hyperlinks.json) |
 | [August 12 at 12:53 PM](https://archive.org/download/sputnikint-2022/sputnikint-2022-08-12T12:52:57.838784+03:00.hyperlinks.json) |
 | [August 12 at 12:33 PM](https://archive.org/download/sputnikint-2022/sputnikint-2022-08-12T12:33:09.416094+03:00.hyperlinks.json) |
 | [August 12 at 5:05 AM](https://archive.org/download/sputnikint-2022/sputnikint-2022-08-12T05:05:10.335055+03:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 10 at 4:19 PM](https://archive.org/download/sputnikint-2022/sputnikint-2022-08-10T16:19:51.811875+03:00.hyperlinks.json) |
 | [August 10 at 8:39 AM](https://archive.org/download/sputnikint-2022/sputnikint-2022-08-10T08:39:53.913325+03:00.hyperlinks.json) |
 | [August 10 at 4:07 AM](https://archive.org/download/sputnikint-2022/sputnikint-2022-08-10T04:07:22.419399+03:00.hyperlinks.json) |
-| [August 9 at 8:23 AM](https://archive.org/download/sputnikint-2022/sputnikint-2022-08-09T08:23:08.570357+03:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 83 accessibility trees with the Internet Archive.
+The archiving routine has saved 84 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 12 at 7:22 PM](https://archive.org/download/sputnikint-2022/sputnikint-2022-08-12T19:22:24.297494+03:00.accessibility.json) |
 | [August 12 at 12:53 PM](https://archive.org/download/sputnikint-2022/sputnikint-2022-08-12T12:52:57.838784+03:00.accessibility.json) |
 | [August 12 at 12:33 PM](https://archive.org/download/sputnikint-2022/sputnikint-2022-08-12T12:33:09.416094+03:00.accessibility.json) |
 | [August 12 at 5:05 AM](https://archive.org/download/sputnikint-2022/sputnikint-2022-08-12T05:05:10.335055+03:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 10 at 4:19 PM](https://archive.org/download/sputnikint-2022/sputnikint-2022-08-10T16:19:51.811875+03:00.accessibility.json) |
 | [August 10 at 8:39 AM](https://archive.org/download/sputnikint-2022/sputnikint-2022-08-10T08:39:53.913325+03:00.accessibility.json) |
 | [August 10 at 4:07 AM](https://archive.org/download/sputnikint-2022/sputnikint-2022-08-10T04:07:22.419399+03:00.accessibility.json) |
-| [August 9 at 8:23 AM](https://archive.org/download/sputnikint-2022/sputnikint-2022-08-09T08:23:08.570357+03:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 60 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 61 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 12 at 7:22 PM](https://archive.org/download/sputnikint-2022/sputnikint-2022-08-12T19:22:24.297494+03:00.lighthouse.json) |
 | [August 12 at 12:53 PM](https://archive.org/download/sputnikint-2022/sputnikint-2022-08-12T12:52:57.838784+03:00.lighthouse.json) |
 | [August 12 at 12:33 PM](https://archive.org/download/sputnikint-2022/sputnikint-2022-08-12T12:33:09.416094+03:00.lighthouse.json) |
 | [August 12 at 5:05 AM](https://archive.org/download/sputnikint-2022/sputnikint-2022-08-12T05:05:10.335055+03:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 10 at 4:20 PM](https://archive.org/download/sputnikint-2022/sputnikint-2022-08-10T16:19:51.811875+03:00.lighthouse.json) |
 | [August 10 at 8:40 AM](https://archive.org/download/sputnikint-2022/sputnikint-2022-08-10T08:39:53.913325+03:00.lighthouse.json) |
 | [August 10 at 4:07 AM](https://archive.org/download/sputnikint-2022/sputnikint-2022-08-10T04:07:22.419399+03:00.lighthouse.json) |
-| [August 9 at 8:23 AM](https://archive.org/download/sputnikint-2022/sputnikint-2022-08-09T08:23:08.570357+03:00.lighthouse.json) |
 
 
 

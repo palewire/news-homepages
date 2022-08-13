@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 173 screenshots with the Internet Archive.
+The archiving routine has saved 175 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-08-12T19:27:19.120091-05:00.jpg">
+  <img src="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-08-12T19:27:19.120091-05:00.jpg"
+     alt="Block Club Chicago at 2022-08-12 19:27:21-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-08-12T19:27:19.120091-05:00.jpg">August 12 at 7:27 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-08-12T13:32:55.566016-05:00.jpg">
+  <img src="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-08-12T13:32:55.566016-05:00.jpg"
+     alt="Block Club Chicago at 2022-08-12 13:32:56-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-08-12T13:32:55.566016-05:00.jpg">August 12 at 1:32 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-08-12T06:37:28.780624-05:00.jpg">
   <img src="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-08-12T06:37:28.780624-05:00.jpg"
      alt="Block Club Chicago at 2022-08-12 06:37:32-05:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-08-09T07:38:46.939504-05:00.jpg">August 9 at 7:38 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-08-08T19:34:21.165615-05:00.jpg">
-  <img src="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-08-08T19:34:21.165615-05:00.jpg"
-     alt="Block Club Chicago at 2022-08-08 19:34:26-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-08-08T19:34:21.165615-05:00.jpg">August 8 at 7:34 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-08-08T12:44:18.419798-05:00.jpg">
-  <img src="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-08-08T12:44:18.419798-05:00.jpg"
-     alt="Block Club Chicago at 2022-08-08 12:44:24-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/blockclubchi-2022/blockclubchi-2022-08-08T12:44:18.419798-05:00.jpg">August 8 at 12:44 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 175 hyperlink lists with the Internet Archive.
+The archiving routine has saved 177 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 12 at 7:27 PM](https://archive.org/download/blockclubchi-2022/blockclubchi-2022-08-12T19:27:19.120091-05:00.hyperlinks.json) |
+| [August 12 at 1:33 PM](https://archive.org/download/blockclubchi-2022/blockclubchi-2022-08-12T13:32:55.566016-05:00.hyperlinks.json) |
 | [August 12 at 6:37 AM](https://archive.org/download/blockclubchi-2022/blockclubchi-2022-08-12T06:37:28.780624-05:00.hyperlinks.json) |
 | [August 11 at 6:19 PM](https://archive.org/download/blockclubchi-2022/blockclubchi-2022-08-11T18:19:28.992423-05:00.hyperlinks.json) |
 | [August 11 at 2:02 PM](https://archive.org/download/blockclubchi-2022/blockclubchi-2022-08-11T14:02:34.535702-05:00.hyperlinks.json) |
@@ -322,13 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 10 at 2:33 PM](https://archive.org/download/blockclubchi-2022/blockclubchi-2022-08-10T14:32:53.594453-05:00.hyperlinks.json) |
 | [August 10 at 7:52 AM](https://archive.org/download/blockclubchi-2022/blockclubchi-2022-08-10T07:52:50.859270-05:00.hyperlinks.json) |
 | [August 9 at 6:22 PM](https://archive.org/download/blockclubchi-2022/blockclubchi-2022-08-09T18:22:22.194873-05:00.hyperlinks.json) |
-| [August 9 at 1:02 PM](https://archive.org/download/blockclubchi-2022/blockclubchi-2022-08-09T13:02:13.741331-05:00.hyperlinks.json) |
-| [August 9 at 7:39 AM](https://archive.org/download/blockclubchi-2022/blockclubchi-2022-08-09T07:38:46.939504-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 175 accessibility trees with the Internet Archive.
+The archiving routine has saved 177 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 12 at 7:27 PM](https://archive.org/download/blockclubchi-2022/blockclubchi-2022-08-12T19:27:19.120091-05:00.accessibility.json) |
+| [August 12 at 1:32 PM](https://archive.org/download/blockclubchi-2022/blockclubchi-2022-08-12T13:32:55.566016-05:00.accessibility.json) |
 | [August 12 at 6:37 AM](https://archive.org/download/blockclubchi-2022/blockclubchi-2022-08-12T06:37:28.780624-05:00.accessibility.json) |
 | [August 11 at 6:19 PM](https://archive.org/download/blockclubchi-2022/blockclubchi-2022-08-11T18:19:28.992423-05:00.accessibility.json) |
 | [August 11 at 2:02 PM](https://archive.org/download/blockclubchi-2022/blockclubchi-2022-08-11T14:02:34.535702-05:00.accessibility.json) |
@@ -427,14 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 10 at 2:33 PM](https://archive.org/download/blockclubchi-2022/blockclubchi-2022-08-10T14:32:53.594453-05:00.accessibility.json) |
 | [August 10 at 7:52 AM](https://archive.org/download/blockclubchi-2022/blockclubchi-2022-08-10T07:52:50.859270-05:00.accessibility.json) |
 | [August 9 at 6:22 PM](https://archive.org/download/blockclubchi-2022/blockclubchi-2022-08-09T18:22:22.194873-05:00.accessibility.json) |
-| [August 9 at 1:02 PM](https://archive.org/download/blockclubchi-2022/blockclubchi-2022-08-09T13:02:13.741331-05:00.accessibility.json) |
-| [August 9 at 7:38 AM](https://archive.org/download/blockclubchi-2022/blockclubchi-2022-08-09T07:38:46.939504-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 60 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 62 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 12 at 7:27 PM](https://archive.org/download/blockclubchi-2022/blockclubchi-2022-08-12T19:27:19.120091-05:00.lighthouse.json) |
+| [August 12 at 1:33 PM](https://archive.org/download/blockclubchi-2022/blockclubchi-2022-08-12T13:32:55.566016-05:00.lighthouse.json) |
 | [August 12 at 6:37 AM](https://archive.org/download/blockclubchi-2022/blockclubchi-2022-08-12T06:37:28.780624-05:00.lighthouse.json) |
 | [August 11 at 6:19 PM](https://archive.org/download/blockclubchi-2022/blockclubchi-2022-08-11T18:19:28.992423-05:00.lighthouse.json) |
 | [August 11 at 2:02 PM](https://archive.org/download/blockclubchi-2022/blockclubchi-2022-08-11T14:02:34.535702-05:00.lighthouse.json) |
@@ -533,8 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 10 at 2:33 PM](https://archive.org/download/blockclubchi-2022/blockclubchi-2022-08-10T14:32:53.594453-05:00.lighthouse.json) |
 | [August 10 at 7:52 AM](https://archive.org/download/blockclubchi-2022/blockclubchi-2022-08-10T07:52:50.859270-05:00.lighthouse.json) |
 | [August 9 at 6:22 PM](https://archive.org/download/blockclubchi-2022/blockclubchi-2022-08-09T18:22:22.194873-05:00.lighthouse.json) |
-| [August 9 at 1:02 PM](https://archive.org/download/blockclubchi-2022/blockclubchi-2022-08-09T13:02:13.741331-05:00.lighthouse.json) |
-| [August 9 at 7:39 AM](https://archive.org/download/blockclubchi-2022/blockclubchi-2022-08-09T07:38:46.939504-05:00.lighthouse.json) |
 
 
 

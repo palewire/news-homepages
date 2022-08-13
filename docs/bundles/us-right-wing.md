@@ -7,7 +7,7 @@ orphan: true
 
 # U.S. right wing
 
-The most recent homepages from 29 news sites in this bundle.
+The most recent homepages from 31 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -102,6 +102,15 @@ The most recent homepages from 29 news sites in this bundle.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/epochtimes.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/epochtimes.jpg"
+     alt="Epoch Times"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/epochtimes.html">Epoch Times</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/fdrlst.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/fdrlst.jpg"
      alt="Federalist"
@@ -162,6 +171,15 @@ The most recent homepages from 29 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/infowars.html">Infowars</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/justthenews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/justthenews.jpg"
+     alt="Just the News"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/justthenews.html">Just the News</a></p>
 </div>
 
 <div class="latest-child">
@@ -297,6 +315,7 @@ The most recent homepages from 29 news sites in this bundle.
 |[Daily Wire](https://palewi.re/docs/news-homepages/sites/realdailywire.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/realdailywire.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/realdailywire.xml)|
 |[Dispatch](https://palewi.re/docs/news-homepages/sites/thedispatch.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thedispatch.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thedispatch.xml)|
 |[Drudge Report](https://palewi.re/docs/news-homepages/sites/drudge.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/drudge.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/drudge.xml)|
+|[Epoch Times](https://palewi.re/docs/news-homepages/sites/epochtimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/epochtimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/epochtimes.xml)|
 |[Federalist](https://palewi.re/docs/news-homepages/sites/fdrlst.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/fdrlst.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/fdrlst.xml)|
 |[First Things](https://palewi.re/docs/news-homepages/sites/firstthingsmag.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/firstthingsmag.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/firstthingsmag.xml)|
 |[Fox News](https://palewi.re/docs/news-homepages/sites/foxnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/foxnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/foxnews.xml)|
@@ -304,6 +323,7 @@ The most recent homepages from 29 news sites in this bundle.
 |[HotAir](https://palewi.re/docs/news-homepages/sites/hotairblog.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hotairblog.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/hotairblog.xml)|
 |[Human Events](https://palewi.re/docs/news-homepages/sites/humanevents.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/humanevents.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/humanevents.xml)|
 |[Infowars](https://palewi.re/docs/news-homepages/sites/infowars.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/infowars.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/infowars.xml)|
+|[Just the News](https://palewi.re/docs/news-homepages/sites/justthenews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/justthenews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/justthenews.xml)|
 |[National Review](https://palewi.re/docs/news-homepages/sites/nro.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nro.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nro.xml)|
 |[Newsmax](https://palewi.re/docs/news-homepages/sites/newsmax.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newsmax.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/newsmax.xml)|
 |[One America News Network](https://palewi.re/docs/news-homepages/sites/oann.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/oann.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/oann.xml)|

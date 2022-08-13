@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 44 screenshots with the Internet Archive.
+The archiving routine has saved 46 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-08-12T13:33:40.423773-05:00.jpg">
+  <img src="https://archive.org/download/dailyherald-2022/dailyherald-2022-08-12T13:33:40.423773-05:00.jpg"
+     alt="Daily Herald at 2022-08-12 13:33:42-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-08-12T13:33:40.423773-05:00.jpg">August 12 at 1:33 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-08-12T12:43:56.803608-05:00.jpg">
+  <img src="https://archive.org/download/dailyherald-2022/dailyherald-2022-08-12T12:43:56.803608-05:00.jpg"
+     alt="Daily Herald at 2022-08-12 12:43:59-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-08-12T12:43:56.803608-05:00.jpg">August 12 at 12:43 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-08-12T04:54:02.522446-05:00.jpg">
   <img src="https://archive.org/download/dailyherald-2022/dailyherald-2022-08-12T04:54:02.522446-05:00.jpg"
      alt="Daily Herald at 2022-08-12 04:54:05-05:00 local time"
@@ -201,29 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-08-08T22:38:54.903797-05:00.jpg">August 8 at 10:38 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-08-08T12:44:36.760918-05:00.jpg">
-  <img src="https://archive.org/download/dailyherald-2022/dailyherald-2022-08-08T12:44:36.760918-05:00.jpg"
-     alt="Daily Herald at 2022-08-08 12:44:37-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-08-08T12:44:36.760918-05:00.jpg">August 8 at 12:44 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-08-08T11:56:29.315921-05:00.jpg">
-  <img src="https://archive.org/download/dailyherald-2022/dailyherald-2022-08-08T11:56:29.315921-05:00.jpg"
-     alt="Daily Herald at 2022-08-08 11:56:30-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailyherald-2022/dailyherald-2022-08-08T11:56:29.315921-05:00.jpg">August 8 at 11:56 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 44 hyperlink lists with the Internet Archive.
+The archiving routine has saved 46 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 12 at 1:33 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-08-12T13:33:40.423773-05:00.hyperlinks.json) |
+| [August 12 at 12:44 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-08-12T12:43:56.803608-05:00.hyperlinks.json) |
 | [August 12 at 4:54 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-08-12T04:54:02.522446-05:00.hyperlinks.json) |
 | [August 11 at 2:03 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-08-11T14:03:18.207428-05:00.hyperlinks.json) |
 | [August 11 at 1:34 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-08-11T13:34:18.950540-05:00.hyperlinks.json) |
@@ -322,13 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 10 at 12:57 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-08-10T12:57:50.226513-05:00.hyperlinks.json) |
 | [August 9 at 10:54 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-08-09T22:54:38.420678-05:00.hyperlinks.json) |
 | [August 9 at 1:02 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-08-09T13:02:41.306980-05:00.hyperlinks.json) |
-| [August 9 at 12:19 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-08-09T12:19:25.487444-05:00.hyperlinks.json) |
-| [August 8 at 10:38 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-08-08T22:38:54.903797-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 44 accessibility trees with the Internet Archive.
+The archiving routine has saved 46 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 12 at 1:33 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-08-12T13:33:40.423773-05:00.accessibility.json) |
+| [August 12 at 12:44 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-08-12T12:43:56.803608-05:00.accessibility.json) |
 | [August 12 at 4:54 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-08-12T04:54:02.522446-05:00.accessibility.json) |
 | [August 11 at 2:03 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-08-11T14:03:18.207428-05:00.accessibility.json) |
 | [August 11 at 1:34 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-08-11T13:34:18.950540-05:00.accessibility.json) |
@@ -427,14 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 10 at 12:57 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-08-10T12:57:50.226513-05:00.accessibility.json) |
 | [August 9 at 10:54 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-08-09T22:54:38.420678-05:00.accessibility.json) |
 | [August 9 at 1:02 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-08-09T13:02:41.306980-05:00.accessibility.json) |
-| [August 9 at 12:19 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-08-09T12:19:25.487444-05:00.accessibility.json) |
-| [August 8 at 10:38 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-08-08T22:38:54.903797-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 44 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 46 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 12 at 1:33 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-08-12T13:33:40.423773-05:00.lighthouse.json) |
+| [August 12 at 12:44 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-08-12T12:43:56.803608-05:00.lighthouse.json) |
 | [August 12 at 4:54 AM](https://archive.org/download/dailyherald-2022/dailyherald-2022-08-12T04:54:02.522446-05:00.lighthouse.json) |
 | [August 11 at 2:03 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-08-11T14:03:18.207428-05:00.lighthouse.json) |
 | [August 11 at 1:34 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-08-11T13:34:18.950540-05:00.lighthouse.json) |
@@ -533,8 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 10 at 12:57 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-08-10T12:57:50.226513-05:00.lighthouse.json) |
 | [August 9 at 10:54 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-08-09T22:54:38.420678-05:00.lighthouse.json) |
 | [August 9 at 1:02 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-08-09T13:02:41.306980-05:00.lighthouse.json) |
-| [August 9 at 12:19 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-08-09T12:19:25.487444-05:00.lighthouse.json) |
-| [August 8 at 10:39 PM](https://archive.org/download/dailyherald-2022/dailyherald-2022-08-08T22:38:54.903797-05:00.lighthouse.json) |
 
 
 

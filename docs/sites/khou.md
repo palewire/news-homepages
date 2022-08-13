@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 53 screenshots with the Internet Archive.
+The archiving routine has saved 54 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 53 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/khou-2022/khou-2022-08-12T19:39:26.002833-05:00.jpg">
+  <img src="https://archive.org/download/khou-2022/khou-2022-08-12T19:39:26.002833-05:00.jpg"
+     alt="KHOU at 2022-08-12 19:39:27-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/khou-2022/khou-2022-08-12T19:39:26.002833-05:00.jpg">August 12 at 7:39 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/khou-2022/khou-2022-08-12T08:18:23.221783-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/khou-2022/khou-2022-08-07T07:34:27.391215-05:00.jpg">August 7 at 7:34 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/khou-2022/khou-2022-08-06T19:37:19.676032-05:00.jpg">
-  <img src="https://archive.org/download/khou-2022/khou-2022-08-06T19:37:19.676032-05:00.jpg"
-     alt="KHOU at 2022-08-06 19:37:21-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/khou-2022/khou-2022-08-06T19:37:19.676032-05:00.jpg">August 6 at 7:37 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 51 hyperlink lists with the Internet Archive.
+The archiving routine has saved 52 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 12 at 7:39 PM](https://archive.org/download/khou-2022/khou-2022-08-12T19:39:26.002833-05:00.hyperlinks.json) |
 | [August 12 at 4:16 AM](https://archive.org/download/khou-2022/khou-2022-08-12T04:16:18.701122-05:00.hyperlinks.json) |
 | [August 11 at 8:35 AM](https://archive.org/download/khou-2022/khou-2022-08-11T08:35:14.867959-05:00.hyperlinks.json) |
 | [August 10 at 7:48 PM](https://archive.org/download/khou-2022/khou-2022-08-10T19:48:46.561318-05:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 8 at 7:40 AM](https://archive.org/download/khou-2022/khou-2022-08-08T07:39:56.934235-05:00.hyperlinks.json) |
 | [August 7 at 7:57 PM](https://archive.org/download/khou-2022/khou-2022-08-07T19:57:30.301031-05:00.hyperlinks.json) |
 | [August 7 at 7:34 AM](https://archive.org/download/khou-2022/khou-2022-08-07T07:34:27.391215-05:00.hyperlinks.json) |
-| [August 6 at 7:37 PM](https://archive.org/download/khou-2022/khou-2022-08-06T19:37:19.676032-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 53 accessibility trees with the Internet Archive.
+The archiving routine has saved 54 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 12 at 7:39 PM](https://archive.org/download/khou-2022/khou-2022-08-12T19:39:26.002833-05:00.accessibility.json) |
 | [August 12 at 8:18 AM](https://archive.org/download/khou-2022/khou-2022-08-12T08:18:23.221783-05:00.accessibility.json) |
 | [August 12 at 4:16 AM](https://archive.org/download/khou-2022/khou-2022-08-12T04:16:18.701122-05:00.accessibility.json) |
 | [August 11 at 8:35 AM](https://archive.org/download/khou-2022/khou-2022-08-11T08:35:14.867959-05:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 9 at 7:53 AM](https://archive.org/download/khou-2022/khou-2022-08-09T07:53:33.661554-05:00.accessibility.json) |
 | [August 8 at 7:47 PM](https://archive.org/download/khou-2022/khou-2022-08-08T19:47:47.260631-05:00.accessibility.json) |
 | [August 8 at 7:40 AM](https://archive.org/download/khou-2022/khou-2022-08-08T07:39:56.934235-05:00.accessibility.json) |
-| [August 7 at 7:57 PM](https://archive.org/download/khou-2022/khou-2022-08-07T19:57:30.301031-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 39 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 40 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 12 at 7:39 PM](https://archive.org/download/khou-2022/khou-2022-08-12T19:39:26.002833-05:00.lighthouse.json) |
 | [August 12 at 8:18 AM](https://archive.org/download/khou-2022/khou-2022-08-12T08:18:23.221783-05:00.lighthouse.json) |
 | [August 12 at 4:16 AM](https://archive.org/download/khou-2022/khou-2022-08-12T04:16:18.701122-05:00.lighthouse.json) |
 | [August 11 at 8:35 AM](https://archive.org/download/khou-2022/khou-2022-08-11T08:35:14.867959-05:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 9 at 7:53 AM](https://archive.org/download/khou-2022/khou-2022-08-09T07:53:33.661554-05:00.lighthouse.json) |
 | [August 8 at 7:47 PM](https://archive.org/download/khou-2022/khou-2022-08-08T19:47:47.260631-05:00.lighthouse.json) |
 | [August 8 at 7:40 AM](https://archive.org/download/khou-2022/khou-2022-08-08T07:39:56.934235-05:00.lighthouse.json) |
-| [August 7 at 7:57 PM](https://archive.org/download/khou-2022/khou-2022-08-07T19:57:30.301031-05:00.lighthouse.json) |
 
 
 

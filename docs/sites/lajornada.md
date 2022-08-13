@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 476 screenshots with the Internet Archive.
+The archiving routine has saved 477 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 476 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lajornada-2022/lajornada-2022-08-12T19:41:18.357410-05:00.jpg">
+  <img src="https://archive.org/download/lajornada-2022/lajornada-2022-08-12T19:41:18.357410-05:00.jpg"
+     alt="La Jornada at 2022-08-12 19:41:19-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lajornada-2022/lajornada-2022-08-12T19:41:18.357410-05:00.jpg">August 12 at 7:41 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lajornada-2022/lajornada-2022-08-12T08:21:02.302004-05:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/lajornada-2022/lajornada-2022-08-07T07:36:29.275326-05:00.jpg">August 7 at 7:36 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/lajornada-2022/lajornada-2022-08-06T19:39:19.852716-05:00.jpg">
-  <img src="https://archive.org/download/lajornada-2022/lajornada-2022-08-06T19:39:19.852716-05:00.jpg"
-     alt="La Jornada at 2022-08-06 19:39:22-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lajornada-2022/lajornada-2022-08-06T19:39:19.852716-05:00.jpg">August 6 at 7:39 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 486 hyperlink lists with the Internet Archive.
+The archiving routine has saved 487 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 12 at 7:41 PM](https://archive.org/download/lajornada-2022/lajornada-2022-08-12T19:41:18.357410-05:00.hyperlinks.json) |
 | [August 12 at 8:21 AM](https://archive.org/download/lajornada-2022/lajornada-2022-08-12T08:21:02.302004-05:00.hyperlinks.json) |
 | [August 12 at 4:17 AM](https://archive.org/download/lajornada-2022/lajornada-2022-08-12T04:17:26.672291-05:00.hyperlinks.json) |
 | [August 11 at 8:38 AM](https://archive.org/download/lajornada-2022/lajornada-2022-08-11T08:37:57.069439-05:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 9 at 7:54 AM](https://archive.org/download/lajornada-2022/lajornada-2022-08-09T07:54:49.162715-05:00.hyperlinks.json) |
 | [August 8 at 7:49 PM](https://archive.org/download/lajornada-2022/lajornada-2022-08-08T19:49:26.152832-05:00.hyperlinks.json) |
 | [August 8 at 7:41 AM](https://archive.org/download/lajornada-2022/lajornada-2022-08-08T07:41:44.804824-05:00.hyperlinks.json) |
-| [August 7 at 8:00 PM](https://archive.org/download/lajornada-2022/lajornada-2022-08-07T19:59:49.790076-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 472 accessibility trees with the Internet Archive.
+The archiving routine has saved 473 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 12 at 7:41 PM](https://archive.org/download/lajornada-2022/lajornada-2022-08-12T19:41:18.357410-05:00.accessibility.json) |
 | [August 12 at 8:21 AM](https://archive.org/download/lajornada-2022/lajornada-2022-08-12T08:21:02.302004-05:00.accessibility.json) |
 | [August 12 at 4:17 AM](https://archive.org/download/lajornada-2022/lajornada-2022-08-12T04:17:26.672291-05:00.accessibility.json) |
 | [August 11 at 8:38 AM](https://archive.org/download/lajornada-2022/lajornada-2022-08-11T08:37:57.069439-05:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 9 at 7:54 AM](https://archive.org/download/lajornada-2022/lajornada-2022-08-09T07:54:49.162715-05:00.accessibility.json) |
 | [August 8 at 7:49 PM](https://archive.org/download/lajornada-2022/lajornada-2022-08-08T19:49:26.152832-05:00.accessibility.json) |
 | [August 8 at 7:41 AM](https://archive.org/download/lajornada-2022/lajornada-2022-08-08T07:41:44.804824-05:00.accessibility.json) |
-| [August 7 at 7:59 PM](https://archive.org/download/lajornada-2022/lajornada-2022-08-07T19:59:49.790076-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 40 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 41 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 12 at 7:41 PM](https://archive.org/download/lajornada-2022/lajornada-2022-08-12T19:41:18.357410-05:00.lighthouse.json) |
 | [August 12 at 8:21 AM](https://archive.org/download/lajornada-2022/lajornada-2022-08-12T08:21:02.302004-05:00.lighthouse.json) |
 | [August 12 at 4:17 AM](https://archive.org/download/lajornada-2022/lajornada-2022-08-12T04:17:26.672291-05:00.lighthouse.json) |
 | [August 11 at 8:38 AM](https://archive.org/download/lajornada-2022/lajornada-2022-08-11T08:37:57.069439-05:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 9 at 7:54 AM](https://archive.org/download/lajornada-2022/lajornada-2022-08-09T07:54:49.162715-05:00.lighthouse.json) |
 | [August 8 at 7:49 PM](https://archive.org/download/lajornada-2022/lajornada-2022-08-08T19:49:26.152832-05:00.lighthouse.json) |
 | [August 8 at 7:41 AM](https://archive.org/download/lajornada-2022/lajornada-2022-08-08T07:41:44.804824-05:00.lighthouse.json) |
-| [August 7 at 8:00 PM](https://archive.org/download/lajornada-2022/lajornada-2022-08-07T19:59:49.790076-05:00.lighthouse.json) |
 
 
 

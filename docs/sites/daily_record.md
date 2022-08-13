@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 77 screenshots with the Internet Archive.
+The archiving routine has saved 78 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 77 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/daily_record-2022/daily_record-2022-08-13T01:31:32.540982+01:00.jpg">
+  <img src="https://archive.org/download/daily_record-2022/daily_record-2022-08-13T01:31:32.540982+01:00.jpg"
+     alt="Daily Record at 2022-08-13 01:31:41+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/daily_record-2022/daily_record-2022-08-13T01:31:32.540982+01:00.jpg">August 13 at 1:31 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/daily_record-2022/daily_record-2022-08-12T12:42:16.326192+01:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/daily_record-2022/daily_record-2022-08-07T01:29:02.675322+01:00.jpg">August 7 at 1:29 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/daily_record-2022/daily_record-2022-08-06T13:20:28.933705+01:00.jpg">
-  <img src="https://archive.org/download/daily_record-2022/daily_record-2022-08-06T13:20:28.933705+01:00.jpg"
-     alt="Daily Record at 2022-08-06 13:20:30+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/daily_record-2022/daily_record-2022-08-06T13:20:28.933705+01:00.jpg">August 6 at 1:20 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 77 hyperlink lists with the Internet Archive.
+The archiving routine has saved 78 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 13 at 1:31 AM](https://archive.org/download/daily_record-2022/daily_record-2022-08-13T01:31:32.540982+01:00.hyperlinks.json) |
 | [August 12 at 12:42 PM](https://archive.org/download/daily_record-2022/daily_record-2022-08-12T12:42:16.326192+01:00.hyperlinks.json) |
 | [August 12 at 12:25 AM](https://archive.org/download/daily_record-2022/daily_record-2022-08-12T00:25:31.737454+01:00.hyperlinks.json) |
 | [August 11 at 12:38 PM](https://archive.org/download/daily_record-2022/daily_record-2022-08-11T12:38:42.722438+01:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 9 at 1:43 PM](https://archive.org/download/daily_record-2022/daily_record-2022-08-09T13:43:34.868784+01:00.hyperlinks.json) |
 | [August 9 at 1:38 AM](https://archive.org/download/daily_record-2022/daily_record-2022-08-09T01:38:43.257346+01:00.hyperlinks.json) |
 | [August 8 at 12:24 PM](https://archive.org/download/daily_record-2022/daily_record-2022-08-08T12:24:00.224912+01:00.hyperlinks.json) |
-| [August 8 at 1:47 AM](https://archive.org/download/daily_record-2022/daily_record-2022-08-08T01:46:57.243623+01:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 78 accessibility trees with the Internet Archive.
+The archiving routine has saved 79 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 13 at 1:31 AM](https://archive.org/download/daily_record-2022/daily_record-2022-08-13T01:31:32.540982+01:00.accessibility.json) |
 | [August 12 at 12:42 PM](https://archive.org/download/daily_record-2022/daily_record-2022-08-12T12:42:16.326192+01:00.accessibility.json) |
 | [August 12 at 12:25 AM](https://archive.org/download/daily_record-2022/daily_record-2022-08-12T00:25:31.737454+01:00.accessibility.json) |
 | [August 11 at 12:38 PM](https://archive.org/download/daily_record-2022/daily_record-2022-08-11T12:38:42.722438+01:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 9 at 1:43 PM](https://archive.org/download/daily_record-2022/daily_record-2022-08-09T13:43:34.868784+01:00.accessibility.json) |
 | [August 9 at 1:38 AM](https://archive.org/download/daily_record-2022/daily_record-2022-08-09T01:38:43.257346+01:00.accessibility.json) |
 | [August 8 at 12:24 PM](https://archive.org/download/daily_record-2022/daily_record-2022-08-08T12:24:00.224912+01:00.accessibility.json) |
-| [August 8 at 1:47 AM](https://archive.org/download/daily_record-2022/daily_record-2022-08-08T01:46:57.243623+01:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 40 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 41 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 13 at 1:31 AM](https://archive.org/download/daily_record-2022/daily_record-2022-08-13T01:31:32.540982+01:00.lighthouse.json) |
 | [August 12 at 12:42 PM](https://archive.org/download/daily_record-2022/daily_record-2022-08-12T12:42:16.326192+01:00.lighthouse.json) |
 | [August 12 at 12:25 AM](https://archive.org/download/daily_record-2022/daily_record-2022-08-12T00:25:31.737454+01:00.lighthouse.json) |
 | [August 11 at 12:38 PM](https://archive.org/download/daily_record-2022/daily_record-2022-08-11T12:38:42.722438+01:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 9 at 1:43 PM](https://archive.org/download/daily_record-2022/daily_record-2022-08-09T13:43:34.868784+01:00.lighthouse.json) |
 | [August 9 at 1:38 AM](https://archive.org/download/daily_record-2022/daily_record-2022-08-09T01:38:43.257346+01:00.lighthouse.json) |
 | [August 8 at 12:24 PM](https://archive.org/download/daily_record-2022/daily_record-2022-08-08T12:24:00.224912+01:00.lighthouse.json) |
-| [August 8 at 1:47 AM](https://archive.org/download/daily_record-2022/daily_record-2022-08-08T01:46:57.243623+01:00.lighthouse.json) |
 
 
 

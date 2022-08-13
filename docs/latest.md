@@ -3,7 +3,7 @@
 
 # Latest screenshots
 
-The most recent homepages captured from 780 news sites.
+The most recent homepages captured from 782 news sites.
 
 <div class="latest-parent">
 
@@ -2231,6 +2231,15 @@ The most recent homepages captured from 780 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/epochtimes.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/epochtimes.jpg"
+     alt="Epoch Times"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/epochtimes.html">Epoch Times</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/espn.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/espn.jpg"
      alt="ESPN"
@@ -3200,6 +3209,15 @@ The most recent homepages captured from 780 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/jstor_daily.html">JSTOR Daily</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/justthenews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/justthenews.jpg"
+     alt="Just the News"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/justthenews.html">Just the News</a></p>
 </div>
 
 <div class="latest-child">

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 148 screenshots with the Internet Archive.
+The archiving routine has saved 149 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 148 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/techmeme-2022/techmeme-2022-08-12T11:26:06.378469-07:00.jpg">
+  <img src="https://archive.org/download/techmeme-2022/techmeme-2022-08-12T11:26:06.378469-07:00.jpg"
+     alt="TechMeme at 2022-08-12 11:26:17-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/techmeme-2022/techmeme-2022-08-12T11:26:06.378469-07:00.jpg">August 12 at 11:26 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/techmeme-2022/techmeme-2022-08-12T02:47:30.108582-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/techmeme-2022/techmeme-2022-08-06T21:45:02.865845-07:00.jpg">August 6 at 9:45 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/techmeme-2022/techmeme-2022-08-06T09:27:21.173335-07:00.jpg">
-  <img src="https://archive.org/download/techmeme-2022/techmeme-2022-08-06T09:27:21.173335-07:00.jpg"
-     alt="TechMeme at 2022-08-06 09:27:27-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/techmeme-2022/techmeme-2022-08-06T09:27:21.173335-07:00.jpg">August 6 at 9:27 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 149 hyperlink lists with the Internet Archive.
+The archiving routine has saved 150 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 12 at 11:26 AM](https://archive.org/download/techmeme-2022/techmeme-2022-08-12T11:26:06.378469-07:00.hyperlinks.json) |
 | [August 12 at 2:47 AM](https://archive.org/download/techmeme-2022/techmeme-2022-08-12T02:47:30.108582-07:00.hyperlinks.json) |
 | [August 11 at 11:57 AM](https://archive.org/download/techmeme-2022/techmeme-2022-08-11T11:57:06.850212-07:00.hyperlinks.json) |
 | [August 10 at 10:26 PM](https://archive.org/download/techmeme-2022/techmeme-2022-08-10T22:26:21.052869-07:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 8 at 10:10 PM](https://archive.org/download/techmeme-2022/techmeme-2022-08-08T22:10:01.586311-07:00.hyperlinks.json) |
 | [August 8 at 10:20 AM](https://archive.org/download/techmeme-2022/techmeme-2022-08-08T10:20:14.168236-07:00.hyperlinks.json) |
 | [August 7 at 10:26 PM](https://archive.org/download/techmeme-2022/techmeme-2022-08-07T22:25:57.825022-07:00.hyperlinks.json) |
-| [August 7 at 10:06 AM](https://archive.org/download/techmeme-2022/techmeme-2022-08-07T10:06:16.700789-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 149 accessibility trees with the Internet Archive.
+The archiving routine has saved 150 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 12 at 11:26 AM](https://archive.org/download/techmeme-2022/techmeme-2022-08-12T11:26:06.378469-07:00.accessibility.json) |
 | [August 12 at 2:47 AM](https://archive.org/download/techmeme-2022/techmeme-2022-08-12T02:47:30.108582-07:00.accessibility.json) |
 | [August 11 at 11:57 AM](https://archive.org/download/techmeme-2022/techmeme-2022-08-11T11:57:06.850212-07:00.accessibility.json) |
 | [August 10 at 10:26 PM](https://archive.org/download/techmeme-2022/techmeme-2022-08-10T22:26:21.052869-07:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 8 at 10:10 PM](https://archive.org/download/techmeme-2022/techmeme-2022-08-08T22:10:01.586311-07:00.accessibility.json) |
 | [August 8 at 10:20 AM](https://archive.org/download/techmeme-2022/techmeme-2022-08-08T10:20:14.168236-07:00.accessibility.json) |
 | [August 7 at 10:26 PM](https://archive.org/download/techmeme-2022/techmeme-2022-08-07T22:25:57.825022-07:00.accessibility.json) |
-| [August 7 at 10:06 AM](https://archive.org/download/techmeme-2022/techmeme-2022-08-07T10:06:16.700789-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 40 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 41 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 12 at 11:26 AM](https://archive.org/download/techmeme-2022/techmeme-2022-08-12T11:26:06.378469-07:00.lighthouse.json) |
 | [August 12 at 2:47 AM](https://archive.org/download/techmeme-2022/techmeme-2022-08-12T02:47:30.108582-07:00.lighthouse.json) |
 | [August 11 at 11:57 AM](https://archive.org/download/techmeme-2022/techmeme-2022-08-11T11:57:06.850212-07:00.lighthouse.json) |
 | [August 10 at 10:26 PM](https://archive.org/download/techmeme-2022/techmeme-2022-08-10T22:26:21.052869-07:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 8 at 10:10 PM](https://archive.org/download/techmeme-2022/techmeme-2022-08-08T22:10:01.586311-07:00.lighthouse.json) |
 | [August 8 at 10:20 AM](https://archive.org/download/techmeme-2022/techmeme-2022-08-08T10:20:14.168236-07:00.lighthouse.json) |
 | [August 7 at 10:26 PM](https://archive.org/download/techmeme-2022/techmeme-2022-08-07T22:25:57.825022-07:00.lighthouse.json) |
-| [August 7 at 10:06 AM](https://archive.org/download/techmeme-2022/techmeme-2022-08-07T10:06:16.700789-07:00.lighthouse.json) |
 
 
 

@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 47 screenshots with the Internet Archive.
+The archiving routine has saved 48 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 47 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-08-12T20:35:21.755719-04:00.jpg">
+  <img src="https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-08-12T20:35:21.755719-04:00.jpg"
+     alt="Gwinnett Daily Post at 2022-08-12 20:35:23-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-08-12T20:35:21.755719-04:00.jpg">August 12 at 8:35 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-08-12T07:45:55.169417-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-08-07T08:30:49.161991-04:00.jpg">August 7 at 8:30 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-08-06T20:33:10.759560-04:00.jpg">
-  <img src="https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-08-06T20:33:10.759560-04:00.jpg"
-     alt="Gwinnett Daily Post at 2022-08-06 20:33:14-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-08-06T20:33:10.759560-04:00.jpg">August 6 at 8:33 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 43 hyperlink lists with the Internet Archive.
+The archiving routine has saved 44 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 12 at 8:35 PM](https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-08-12T20:35:21.755719-04:00.hyperlinks.json) |
 | [August 12 at 7:46 AM](https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-08-12T07:45:55.169417-04:00.hyperlinks.json) |
 | [August 11 at 7:29 PM](https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-08-11T19:29:17.241117-04:00.hyperlinks.json) |
 | [August 11 at 7:44 AM](https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-08-11T07:43:52.446706-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 9 at 8:47 AM](https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-08-09T08:47:11.753197-04:00.hyperlinks.json) |
 | [August 8 at 8:43 PM](https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-08-08T20:43:10.877840-04:00.hyperlinks.json) |
 | [August 8 at 7:28 AM](https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-08-08T07:28:17.808203-04:00.hyperlinks.json) |
-| [August 7 at 8:51 PM](https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-08-07T20:51:42.902971-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 47 accessibility trees with the Internet Archive.
+The archiving routine has saved 48 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 12 at 8:35 PM](https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-08-12T20:35:21.755719-04:00.accessibility.json) |
 | [August 12 at 7:45 AM](https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-08-12T07:45:55.169417-04:00.accessibility.json) |
 | [August 11 at 7:29 PM](https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-08-11T19:29:17.241117-04:00.accessibility.json) |
 | [August 11 at 7:43 AM](https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-08-11T07:43:52.446706-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 9 at 8:47 AM](https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-08-09T08:47:11.753197-04:00.accessibility.json) |
 | [August 8 at 8:43 PM](https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-08-08T20:43:10.877840-04:00.accessibility.json) |
 | [August 8 at 7:28 AM](https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-08-08T07:28:17.808203-04:00.accessibility.json) |
-| [August 7 at 8:51 PM](https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-08-07T20:51:42.902971-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 40 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 41 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 12 at 8:35 PM](https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-08-12T20:35:21.755719-04:00.lighthouse.json) |
 | [August 12 at 7:46 AM](https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-08-12T07:45:55.169417-04:00.lighthouse.json) |
 | [August 11 at 7:29 PM](https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-08-11T19:29:17.241117-04:00.lighthouse.json) |
 | [August 11 at 7:44 AM](https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-08-11T07:43:52.446706-04:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 9 at 8:47 AM](https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-08-09T08:47:11.753197-04:00.lighthouse.json) |
 | [August 8 at 8:43 PM](https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-08-08T20:43:10.877840-04:00.lighthouse.json) |
 | [August 8 at 7:28 AM](https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-08-08T07:28:17.808203-04:00.lighthouse.json) |
-| [August 7 at 8:51 PM](https://archive.org/download/gwinnettdaily-2022/gwinnettdaily-2022-08-07T20:51:42.902971-04:00.lighthouse.json) |
 
 
 

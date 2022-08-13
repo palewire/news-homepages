@@ -20,13 +20,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 28 screenshots with the Internet Archive.
+The archiving routine has saved 29 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lavanguardia-2022/lavanguardia-2022-08-13T02:41:14.399221+02:00.jpg">
+  <img src="https://archive.org/download/lavanguardia-2022/lavanguardia-2022-08-13T02:41:14.399221+02:00.jpg"
+     alt="La Vanguardia at 2022-08-13 02:41:16+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lavanguardia-2022/lavanguardia-2022-08-13T02:41:14.399221+02:00.jpg">August 13 at 2:41 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lavanguardia-2022/lavanguardia-2022-08-12T15:22:09.488511+02:00.jpg">
@@ -127,20 +136,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/lavanguardia-2022/lavanguardia-2022-08-07T02:39:17.243708+02:00.jpg">August 7 at 2:39 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/lavanguardia-2022/lavanguardia-2022-08-06T14:30:11.189439+02:00.jpg">
-  <img src="https://archive.org/download/lavanguardia-2022/lavanguardia-2022-08-06T14:30:11.189439+02:00.jpg"
-     alt="La Vanguardia at 2022-08-06 14:30:12+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lavanguardia-2022/lavanguardia-2022-08-06T14:30:11.189439+02:00.jpg">August 6 at 2:30 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 29 hyperlink lists with the Internet Archive.
+The archiving routine has saved 30 hyperlink lists with the Internet Archive.
 
 
 
@@ -148,6 +148,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 13 at 2:41 AM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-08-13T02:41:14.399221+02:00.hyperlinks.json) |
 | [August 12 at 3:22 PM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-08-12T15:22:09.488511+02:00.hyperlinks.json) |
 | [August 12 at 11:18 AM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-08-12T11:18:11.895912+02:00.hyperlinks.json) |
 | [August 11 at 3:38 PM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-08-11T15:38:02.398649+02:00.hyperlinks.json) |
@@ -157,12 +158,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 9 at 2:49 AM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-08-09T02:49:50.240599+02:00.hyperlinks.json) |
 | [August 8 at 2:42 PM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-08-08T14:42:48.508090+02:00.hyperlinks.json) |
 | [August 8 at 3:00 AM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-08-08T03:00:09.930609+02:00.hyperlinks.json) |
-| [August 7 at 2:39 AM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-08-07T02:39:17.243708+02:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 31 accessibility trees with the Internet Archive.
+The archiving routine has saved 32 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -253,6 +253,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 13 at 2:41 AM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-08-13T02:41:14.399221+02:00.accessibility.json) |
 | [August 12 at 3:22 PM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-08-12T15:22:09.488511+02:00.accessibility.json) |
 | [August 12 at 11:18 AM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-08-12T11:18:11.895912+02:00.accessibility.json) |
 | [August 11 at 3:38 PM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-08-11T15:38:02.398649+02:00.accessibility.json) |
@@ -262,13 +263,12 @@ Here are the 10 most recent accessibility trees.
 | [August 9 at 2:55 PM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-08-09T14:54:59.404454+02:00.accessibility.json) |
 | [August 9 at 2:49 AM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-08-09T02:49:50.240599+02:00.accessibility.json) |
 | [August 8 at 2:42 PM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-08-08T14:42:48.508090+02:00.accessibility.json) |
-| [August 8 at 3:00 AM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-08-08T03:00:09.930609+02:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 31 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -359,6 +359,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 13 at 2:41 AM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-08-13T02:41:14.399221+02:00.lighthouse.json) |
 | [August 12 at 3:22 PM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-08-12T15:22:09.488511+02:00.lighthouse.json) |
 | [August 12 at 11:18 AM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-08-12T11:18:11.895912+02:00.lighthouse.json) |
 | [August 11 at 3:38 PM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-08-11T15:38:02.398649+02:00.lighthouse.json) |
@@ -368,7 +369,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 9 at 2:55 PM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-08-09T14:54:59.404454+02:00.lighthouse.json) |
 | [August 9 at 2:49 AM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-08-09T02:49:50.240599+02:00.lighthouse.json) |
 | [August 8 at 2:42 PM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-08-08T14:42:48.508090+02:00.lighthouse.json) |
-| [August 8 at 3:00 AM](https://archive.org/download/lavanguardia-2022/lavanguardia-2022-08-08T03:00:09.930609+02:00.lighthouse.json) |
 
 
 

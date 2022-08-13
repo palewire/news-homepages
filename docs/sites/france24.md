@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 262 screenshots with the Internet Archive.
+The archiving routine has saved 263 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 262 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/france24-2022/france24-2022-08-13T02:34:37.443562+02:00.jpg">
+  <img src="https://archive.org/download/france24-2022/france24-2022-08-13T02:34:37.443562+02:00.jpg"
+     alt="FRANCE 24 at 2022-08-13 02:34:39+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/france24-2022/france24-2022-08-13T02:34:37.443562+02:00.jpg">August 13 at 2:34 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/france24-2022/france24-2022-08-12T13:44:51.018173+02:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/france24-2022/france24-2022-08-09T10:10:54.159939+02:00.jpg">August 9 at 10:10 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/france24-2022/france24-2022-08-09T02:43:05.041430+02:00.jpg">
-  <img src="https://archive.org/download/france24-2022/france24-2022-08-09T02:43:05.041430+02:00.jpg"
-     alt="FRANCE 24 at 2022-08-09 02:43:09+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/france24-2022/france24-2022-08-09T02:43:05.041430+02:00.jpg">August 9 at 2:43 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 262 hyperlink lists with the Internet Archive.
+The archiving routine has saved 263 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 13 at 2:34 AM](https://archive.org/download/france24-2022/france24-2022-08-13T02:34:37.443562+02:00.hyperlinks.json) |
 | [August 12 at 1:44 PM](https://archive.org/download/france24-2022/france24-2022-08-12T13:44:51.018173+02:00.hyperlinks.json) |
 | [August 12 at 12:20 PM](https://archive.org/download/france24-2022/france24-2022-08-12T12:20:00.018539+02:00.hyperlinks.json) |
 | [August 12 at 1:28 AM](https://archive.org/download/france24-2022/france24-2022-08-12T01:28:18.479838+02:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 10 at 3:00 PM](https://archive.org/download/france24-2022/france24-2022-08-10T15:00:20.383866+02:00.hyperlinks.json) |
 | [August 10 at 10:10 AM](https://archive.org/download/france24-2022/france24-2022-08-10T10:10:43.237917+02:00.hyperlinks.json) |
 | [August 10 at 1:31 AM](https://archive.org/download/france24-2022/france24-2022-08-10T01:31:24.488506+02:00.hyperlinks.json) |
-| [August 9 at 2:47 PM](https://archive.org/download/france24-2022/france24-2022-08-09T14:46:43.568294+02:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 262 accessibility trees with the Internet Archive.
+The archiving routine has saved 263 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 13 at 2:34 AM](https://archive.org/download/france24-2022/france24-2022-08-13T02:34:37.443562+02:00.accessibility.json) |
 | [August 12 at 1:44 PM](https://archive.org/download/france24-2022/france24-2022-08-12T13:44:51.018173+02:00.accessibility.json) |
 | [August 12 at 12:20 PM](https://archive.org/download/france24-2022/france24-2022-08-12T12:20:00.018539+02:00.accessibility.json) |
 | [August 12 at 1:28 AM](https://archive.org/download/france24-2022/france24-2022-08-12T01:28:18.479838+02:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 10 at 3:00 PM](https://archive.org/download/france24-2022/france24-2022-08-10T15:00:20.383866+02:00.accessibility.json) |
 | [August 10 at 10:10 AM](https://archive.org/download/france24-2022/france24-2022-08-10T10:10:43.237917+02:00.accessibility.json) |
 | [August 10 at 1:31 AM](https://archive.org/download/france24-2022/france24-2022-08-10T01:31:24.488506+02:00.accessibility.json) |
-| [August 9 at 2:46 PM](https://archive.org/download/france24-2022/france24-2022-08-09T14:46:43.568294+02:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 60 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 61 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 13 at 2:34 AM](https://archive.org/download/france24-2022/france24-2022-08-13T02:34:37.443562+02:00.lighthouse.json) |
 | [August 12 at 1:44 PM](https://archive.org/download/france24-2022/france24-2022-08-12T13:44:51.018173+02:00.lighthouse.json) |
 | [August 12 at 12:20 PM](https://archive.org/download/france24-2022/france24-2022-08-12T12:20:00.018539+02:00.lighthouse.json) |
 | [August 12 at 1:28 AM](https://archive.org/download/france24-2022/france24-2022-08-12T01:28:18.479838+02:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 10 at 3:00 PM](https://archive.org/download/france24-2022/france24-2022-08-10T15:00:20.383866+02:00.lighthouse.json) |
 | [August 10 at 10:10 AM](https://archive.org/download/france24-2022/france24-2022-08-10T10:10:43.237917+02:00.lighthouse.json) |
 | [August 10 at 1:31 AM](https://archive.org/download/france24-2022/france24-2022-08-10T01:31:24.488506+02:00.lighthouse.json) |
-| [August 9 at 2:47 PM](https://archive.org/download/france24-2022/france24-2022-08-09T14:46:43.568294+02:00.lighthouse.json) |
 
 
 

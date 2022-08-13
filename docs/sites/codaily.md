@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 80 screenshots with the Internet Archive.
+The archiving routine has saved 81 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 80 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/codaily-2022/codaily-2022-08-12T17:29:57.150448-07:00.jpg">
+  <img src="https://archive.org/download/codaily-2022/codaily-2022-08-12T17:29:57.150448-07:00.jpg"
+     alt="Central Oregon Daily at 2022-08-12 17:30:03-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/codaily-2022/codaily-2022-08-12T17:29:57.150448-07:00.jpg">August 12 at 5:30 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/codaily-2022/codaily-2022-08-12T04:40:44.883990-07:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/codaily-2022/codaily-2022-08-07T05:25:51.054265-07:00.jpg">August 7 at 5:25 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/codaily-2022/codaily-2022-08-06T17:28:29.822269-07:00.jpg">
-  <img src="https://archive.org/download/codaily-2022/codaily-2022-08-06T17:28:29.822269-07:00.jpg"
-     alt="Central Oregon Daily at 2022-08-06 17:28:31-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/codaily-2022/codaily-2022-08-06T17:28:29.822269-07:00.jpg">August 6 at 5:28 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 80 hyperlink lists with the Internet Archive.
+The archiving routine has saved 81 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 12 at 5:30 PM](https://archive.org/download/codaily-2022/codaily-2022-08-12T17:29:57.150448-07:00.hyperlinks.json) |
 | [August 12 at 4:40 AM](https://archive.org/download/codaily-2022/codaily-2022-08-12T04:40:44.883990-07:00.hyperlinks.json) |
 | [August 11 at 4:22 PM](https://archive.org/download/codaily-2022/codaily-2022-08-11T16:22:44.792730-07:00.hyperlinks.json) |
 | [August 11 at 4:38 AM](https://archive.org/download/codaily-2022/codaily-2022-08-11T04:38:25.032503-07:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 9 at 5:42 AM](https://archive.org/download/codaily-2022/codaily-2022-08-09T05:42:11.646777-07:00.hyperlinks.json) |
 | [August 8 at 5:37 PM](https://archive.org/download/codaily-2022/codaily-2022-08-08T17:37:10.627364-07:00.hyperlinks.json) |
 | [August 8 at 4:23 AM](https://archive.org/download/codaily-2022/codaily-2022-08-08T04:23:28.451791-07:00.hyperlinks.json) |
-| [August 7 at 5:45 PM](https://archive.org/download/codaily-2022/codaily-2022-08-07T17:45:23.578455-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 80 accessibility trees with the Internet Archive.
+The archiving routine has saved 81 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 12 at 5:30 PM](https://archive.org/download/codaily-2022/codaily-2022-08-12T17:29:57.150448-07:00.accessibility.json) |
 | [August 12 at 4:40 AM](https://archive.org/download/codaily-2022/codaily-2022-08-12T04:40:44.883990-07:00.accessibility.json) |
 | [August 11 at 4:22 PM](https://archive.org/download/codaily-2022/codaily-2022-08-11T16:22:44.792730-07:00.accessibility.json) |
 | [August 11 at 4:38 AM](https://archive.org/download/codaily-2022/codaily-2022-08-11T04:38:25.032503-07:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 9 at 5:42 AM](https://archive.org/download/codaily-2022/codaily-2022-08-09T05:42:11.646777-07:00.accessibility.json) |
 | [August 8 at 5:37 PM](https://archive.org/download/codaily-2022/codaily-2022-08-08T17:37:10.627364-07:00.accessibility.json) |
 | [August 8 at 4:23 AM](https://archive.org/download/codaily-2022/codaily-2022-08-08T04:23:28.451791-07:00.accessibility.json) |
-| [August 7 at 5:45 PM](https://archive.org/download/codaily-2022/codaily-2022-08-07T17:45:23.578455-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 40 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 41 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 12 at 5:30 PM](https://archive.org/download/codaily-2022/codaily-2022-08-12T17:29:57.150448-07:00.lighthouse.json) |
 | [August 12 at 4:40 AM](https://archive.org/download/codaily-2022/codaily-2022-08-12T04:40:44.883990-07:00.lighthouse.json) |
 | [August 11 at 4:22 PM](https://archive.org/download/codaily-2022/codaily-2022-08-11T16:22:44.792730-07:00.lighthouse.json) |
 | [August 11 at 4:38 AM](https://archive.org/download/codaily-2022/codaily-2022-08-11T04:38:25.032503-07:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 9 at 5:42 AM](https://archive.org/download/codaily-2022/codaily-2022-08-09T05:42:11.646777-07:00.lighthouse.json) |
 | [August 8 at 5:37 PM](https://archive.org/download/codaily-2022/codaily-2022-08-08T17:37:10.627364-07:00.lighthouse.json) |
 | [August 8 at 4:23 AM](https://archive.org/download/codaily-2022/codaily-2022-08-08T04:23:28.451791-07:00.lighthouse.json) |
-| [August 7 at 5:45 PM](https://archive.org/download/codaily-2022/codaily-2022-08-07T17:45:23.578455-07:00.lighthouse.json) |
 
 
 

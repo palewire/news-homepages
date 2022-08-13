@@ -20,7 +20,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 70 screenshots with the Internet Archive.
+The archiving routine has saved 71 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -110,6 +110,15 @@ The archiving routine has saved 70 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-08-12T20:47:52.254003-04:00.jpg">
+  <img src="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-08-12T20:47:52.254003-04:00.jpg"
+     alt="OpenSecrets at 2022-08-12 20:47:59-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-08-12T20:47:52.254003-04:00.jpg">August 12 at 8:47 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-08-12T09:27:52.209651-04:00.jpg">
@@ -210,20 +219,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-08-07T08:42:53.523897-04:00.jpg">August 7 at 8:42 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-08-06T20:44:28.690975-04:00.jpg">
-  <img src="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-08-06T20:44:28.690975-04:00.jpg"
-     alt="OpenSecrets at 2022-08-06 20:44:31-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-08-06T20:44:28.690975-04:00.jpg">August 6 at 8:44 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 70 hyperlink lists with the Internet Archive.
+The archiving routine has saved 71 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -314,6 +314,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 12 at 8:48 PM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-08-12T20:47:52.254003-04:00.hyperlinks.json) |
 | [August 12 at 9:27 AM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-08-12T09:27:52.209651-04:00.hyperlinks.json) |
 | [August 12 at 5:23 AM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-08-12T05:23:36.585423-04:00.hyperlinks.json) |
 | [August 11 at 9:45 AM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-08-11T09:45:44.495586-04:00.hyperlinks.json) |
@@ -323,12 +324,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 9 at 9:00 AM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-08-09T09:00:47.753239-04:00.hyperlinks.json) |
 | [August 8 at 8:56 PM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-08-08T20:56:49.195324-04:00.hyperlinks.json) |
 | [August 8 at 8:48 AM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-08-08T08:47:59.242317-04:00.hyperlinks.json) |
-| [August 7 at 9:06 PM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-08-07T21:05:59.338779-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 70 accessibility trees with the Internet Archive.
+The archiving routine has saved 71 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -419,6 +419,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 12 at 8:48 PM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-08-12T20:47:52.254003-04:00.accessibility.json) |
 | [August 12 at 9:27 AM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-08-12T09:27:52.209651-04:00.accessibility.json) |
 | [August 12 at 5:23 AM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-08-12T05:23:36.585423-04:00.accessibility.json) |
 | [August 11 at 9:45 AM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-08-11T09:45:44.495586-04:00.accessibility.json) |
@@ -428,13 +429,12 @@ Here are the 10 most recent accessibility trees.
 | [August 9 at 9:00 AM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-08-09T09:00:47.753239-04:00.accessibility.json) |
 | [August 8 at 8:56 PM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-08-08T20:56:49.195324-04:00.accessibility.json) |
 | [August 8 at 8:48 AM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-08-08T08:47:59.242317-04:00.accessibility.json) |
-| [August 7 at 9:06 PM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-08-07T21:05:59.338779-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 40 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 41 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -525,6 +525,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 12 at 8:48 PM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-08-12T20:47:52.254003-04:00.lighthouse.json) |
 | [August 12 at 9:28 AM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-08-12T09:27:52.209651-04:00.lighthouse.json) |
 | [August 12 at 5:23 AM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-08-12T05:23:36.585423-04:00.lighthouse.json) |
 | [August 11 at 9:45 AM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-08-11T09:45:44.495586-04:00.lighthouse.json) |
@@ -534,7 +535,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 9 at 9:00 AM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-08-09T09:00:47.753239-04:00.lighthouse.json) |
 | [August 8 at 8:56 PM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-08-08T20:56:49.195324-04:00.lighthouse.json) |
 | [August 8 at 8:48 AM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-08-08T08:47:59.242317-04:00.lighthouse.json) |
-| [August 7 at 9:06 PM](https://archive.org/download/opensecretsdc-2022/opensecretsdc-2022-08-07T21:05:59.338779-04:00.lighthouse.json) |
 
 
 
