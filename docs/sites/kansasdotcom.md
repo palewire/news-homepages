@@ -22,13 +22,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 21 screenshots with the Internet Archive.
+The archiving routine has saved 22 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-14T01:50:51.047841-05:00.jpg">
+  <img src="https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-14T01:50:51.047841-05:00.jpg"
+     alt="Wichita Eagle at 2022-08-14 01:50:52-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-14T01:50:51.047841-05:00.jpg">August 14 at 1:50 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-13T15:26:54.427934-05:00.jpg">
@@ -129,20 +138,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-08T12:04:12.581985-05:00.jpg">August 8 at 12:04 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-08T00:11:53.276587-05:00.jpg">
-  <img src="https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-08T00:11:53.276587-05:00.jpg"
-     alt="Wichita Eagle at 2022-08-08 00:11:55-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-08T00:11:53.276587-05:00.jpg">August 8 at 12:11 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 12 hyperlink lists with the Internet Archive.
+The archiving routine has saved 13 hyperlink lists with the Internet Archive.
 
 
 
@@ -150,6 +150,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 14 at 1:50 AM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-14T01:50:51.047841-05:00.hyperlinks.json) |
 | [August 13 at 3:27 PM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-13T15:26:54.427934-05:00.hyperlinks.json) |
 | [August 12 at 12:52 PM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-12T12:51:58.260788-05:00.hyperlinks.json) |
 | [August 11 at 1:42 PM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-11T13:42:46.860752-05:00.hyperlinks.json) |
@@ -159,12 +160,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 8 at 10:47 PM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-08T22:47:14.323400-05:00.hyperlinks.json) |
 | [August 6 at 11:15 AM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-06T11:15:32.223799-05:00.hyperlinks.json) |
 | [August 5 at 11:51 PM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-05T23:51:51.331649-05:00.hyperlinks.json) |
-| [August 4 at 10:20 PM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-04T22:20:06.952139-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 21 accessibility trees with the Internet Archive.
+The archiving routine has saved 22 accessibility trees with the Internet Archive.
 
 
 
@@ -172,6 +172,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 14 at 1:50 AM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-14T01:50:51.047841-05:00.accessibility.json) |
 | [August 13 at 3:26 PM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-13T15:26:54.427934-05:00.accessibility.json) |
 | [August 12 at 10:45 PM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-12T22:45:42.847512-05:00.accessibility.json) |
 | [August 12 at 12:52 PM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-12T12:51:58.260788-05:00.accessibility.json) |
@@ -181,13 +182,12 @@ Here are the 10 most recent accessibility trees.
 | [August 10 at 1:07 PM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-10T13:07:29.841091-05:00.accessibility.json) |
 | [August 9 at 11:03 PM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-09T23:02:58.252999-05:00.accessibility.json) |
 | [August 9 at 12:28 PM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-09T12:28:33.368171-05:00.accessibility.json) |
-| [August 8 at 10:47 PM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-08T22:47:14.323400-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 21 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 22 Lighthouse audits with the Internet Archive.
 
 
 
@@ -195,6 +195,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 14 at 1:50 AM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-14T01:50:51.047841-05:00.lighthouse.json) |
 | [August 13 at 3:27 PM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-13T15:26:54.427934-05:00.lighthouse.json) |
 | [August 12 at 10:45 PM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-12T22:45:42.847512-05:00.lighthouse.json) |
 | [August 12 at 12:52 PM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-12T12:51:58.260788-05:00.lighthouse.json) |
@@ -204,7 +205,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 10 at 1:07 PM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-10T13:07:29.841091-05:00.lighthouse.json) |
 | [August 9 at 11:03 PM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-09T23:02:58.252999-05:00.lighthouse.json) |
 | [August 9 at 12:28 PM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-09T12:28:33.368171-05:00.lighthouse.json) |
-| [August 8 at 10:47 PM](https://archive.org/download/kansasdotcom-2022/kansasdotcom-2022-08-08T22:47:14.323400-05:00.lighthouse.json) |
 
 
 

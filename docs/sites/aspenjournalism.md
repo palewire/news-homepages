@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 73 screenshots with the Internet Archive.
+The archiving routine has saved 74 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 73 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/aspenjournalism-2022/aspenjournalism-2022-08-14T07:22:40.727412-06:00.jpg">
+  <img src="https://archive.org/download/aspenjournalism-2022/aspenjournalism-2022-08-14T07:22:40.727412-06:00.jpg"
+     alt="Aspen Journalism at 2022-08-14 07:22:43-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/aspenjournalism-2022/aspenjournalism-2022-08-14T07:22:40.727412-06:00.jpg">August 14 at 7:22 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/aspenjournalism-2022/aspenjournalism-2022-08-13T17:44:42.976706-06:00.jpg">
@@ -212,20 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/aspenjournalism-2022/aspenjournalism-2022-08-08T18:32:02.797474-06:00.jpg">August 8 at 6:32 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/aspenjournalism-2022/aspenjournalism-2022-08-08T05:18:13.864116-06:00.jpg">
-  <img src="https://archive.org/download/aspenjournalism-2022/aspenjournalism-2022-08-08T05:18:13.864116-06:00.jpg"
-     alt="Aspen Journalism at 2022-08-08 05:18:14-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/aspenjournalism-2022/aspenjournalism-2022-08-08T05:18:13.864116-06:00.jpg">August 8 at 5:18 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 73 hyperlink lists with the Internet Archive.
+The archiving routine has saved 74 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 14 at 7:22 AM](https://archive.org/download/aspenjournalism-2022/aspenjournalism-2022-08-14T07:22:40.727412-06:00.hyperlinks.json) |
 | [August 13 at 5:44 PM](https://archive.org/download/aspenjournalism-2022/aspenjournalism-2022-08-13T17:44:42.976706-06:00.hyperlinks.json) |
 | [August 13 at 6:50 AM](https://archive.org/download/aspenjournalism-2022/aspenjournalism-2022-08-13T06:50:12.049858-06:00.hyperlinks.json) |
 | [August 12 at 6:26 PM](https://archive.org/download/aspenjournalism-2022/aspenjournalism-2022-08-12T18:26:16.738064-06:00.hyperlinks.json) |
@@ -325,12 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 10 at 6:36 PM](https://archive.org/download/aspenjournalism-2022/aspenjournalism-2022-08-10T18:36:13.955948-06:00.hyperlinks.json) |
 | [August 10 at 6:50 AM](https://archive.org/download/aspenjournalism-2022/aspenjournalism-2022-08-10T06:50:10.130174-06:00.hyperlinks.json) |
 | [August 9 at 5:20 PM](https://archive.org/download/aspenjournalism-2022/aspenjournalism-2022-08-09T17:20:39.180527-06:00.hyperlinks.json) |
-| [August 9 at 6:37 AM](https://archive.org/download/aspenjournalism-2022/aspenjournalism-2022-08-09T06:36:56.525738-06:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 73 accessibility trees with the Internet Archive.
+The archiving routine has saved 74 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 14 at 7:22 AM](https://archive.org/download/aspenjournalism-2022/aspenjournalism-2022-08-14T07:22:40.727412-06:00.accessibility.json) |
 | [August 13 at 5:44 PM](https://archive.org/download/aspenjournalism-2022/aspenjournalism-2022-08-13T17:44:42.976706-06:00.accessibility.json) |
 | [August 13 at 6:50 AM](https://archive.org/download/aspenjournalism-2022/aspenjournalism-2022-08-13T06:50:12.049858-06:00.accessibility.json) |
 | [August 12 at 6:26 PM](https://archive.org/download/aspenjournalism-2022/aspenjournalism-2022-08-12T18:26:16.738064-06:00.accessibility.json) |
@@ -430,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 10 at 6:36 PM](https://archive.org/download/aspenjournalism-2022/aspenjournalism-2022-08-10T18:36:13.955948-06:00.accessibility.json) |
 | [August 10 at 6:50 AM](https://archive.org/download/aspenjournalism-2022/aspenjournalism-2022-08-10T06:50:10.130174-06:00.accessibility.json) |
 | [August 9 at 5:20 PM](https://archive.org/download/aspenjournalism-2022/aspenjournalism-2022-08-09T17:20:39.180527-06:00.accessibility.json) |
-| [August 9 at 6:37 AM](https://archive.org/download/aspenjournalism-2022/aspenjournalism-2022-08-09T06:36:56.525738-06:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 43 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 44 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 14 at 7:22 AM](https://archive.org/download/aspenjournalism-2022/aspenjournalism-2022-08-14T07:22:40.727412-06:00.lighthouse.json) |
 | [August 13 at 5:44 PM](https://archive.org/download/aspenjournalism-2022/aspenjournalism-2022-08-13T17:44:42.976706-06:00.lighthouse.json) |
 | [August 13 at 6:50 AM](https://archive.org/download/aspenjournalism-2022/aspenjournalism-2022-08-13T06:50:12.049858-06:00.lighthouse.json) |
 | [August 12 at 6:26 PM](https://archive.org/download/aspenjournalism-2022/aspenjournalism-2022-08-12T18:26:16.738064-06:00.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 10 at 6:36 PM](https://archive.org/download/aspenjournalism-2022/aspenjournalism-2022-08-10T18:36:13.955948-06:00.lighthouse.json) |
 | [August 10 at 6:50 AM](https://archive.org/download/aspenjournalism-2022/aspenjournalism-2022-08-10T06:50:10.130174-06:00.lighthouse.json) |
 | [August 9 at 5:20 PM](https://archive.org/download/aspenjournalism-2022/aspenjournalism-2022-08-09T17:20:39.180527-06:00.lighthouse.json) |
-| [August 9 at 6:37 AM](https://archive.org/download/aspenjournalism-2022/aspenjournalism-2022-08-09T06:36:56.525738-06:00.lighthouse.json) |
 
 
 

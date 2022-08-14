@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 39 screenshots with the Internet Archive.
+The archiving routine has saved 41 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -114,6 +114,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-14T19:12:29.341390+05:30.jpg">
+  <img src="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-14T19:12:29.341390+05:30.jpg"
+     alt="India Today at 2022-08-14 19:12:32+05:30 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-14T19:12:29.341390+05:30.jpg">August 14 at 7:12 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-14T08:38:56.211495+05:30.jpg">
+  <img src="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-14T08:38:56.211495+05:30.jpg"
+     alt="India Today at 2022-08-14 08:38:59+05:30 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-14T08:38:56.211495+05:30.jpg">August 14 at 8:38 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-13T18:34:44.686225+05:30.jpg">
   <img src="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-13T18:34:44.686225+05:30.jpg"
      alt="India Today at 2022-08-13 18:34:47+05:30 local time"
@@ -203,29 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-09T06:15:17.082466+05:30.jpg">August 9 at 6:15 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-08T18:08:10.090841+05:30.jpg">
-  <img src="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-08T18:08:10.090841+05:30.jpg"
-     alt="India Today at 2022-08-08 18:08:12+05:30 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-08T18:08:10.090841+05:30.jpg">August 8 at 6:08 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-08T06:24:13.380795+05:30.jpg">
-  <img src="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-08T06:24:13.380795+05:30.jpg"
-     alt="India Today at 2022-08-08 06:24:16+05:30 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-08-08T06:24:13.380795+05:30.jpg">August 8 at 6:24 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 38 hyperlink lists with the Internet Archive.
+The archiving routine has saved 40 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 14 at 7:12 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-14T19:12:29.341390+05:30.hyperlinks.json) |
+| [August 14 at 8:39 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-14T08:38:56.211495+05:30.hyperlinks.json) |
 | [August 13 at 6:34 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-13T18:34:44.686225+05:30.hyperlinks.json) |
 | [August 13 at 6:07 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-13T06:07:39.771413+05:30.hyperlinks.json) |
 | [August 12 at 6:47 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-12T18:47:04.705633+05:30.hyperlinks.json) |
@@ -324,13 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 11 at 6:17 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-11T06:17:21.015954+05:30.hyperlinks.json) |
 | [August 10 at 6:33 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-10T18:33:37.522183+05:30.hyperlinks.json) |
 | [August 10 at 6:20 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-10T06:20:43.863988+05:30.hyperlinks.json) |
-| [August 9 at 6:19 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-09T18:19:37.765347+05:30.hyperlinks.json) |
-| [August 9 at 6:15 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-09T06:15:17.082466+05:30.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 39 accessibility trees with the Internet Archive.
+The archiving routine has saved 41 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 14 at 7:12 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-14T19:12:29.341390+05:30.accessibility.json) |
+| [August 14 at 8:39 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-14T08:38:56.211495+05:30.accessibility.json) |
 | [August 13 at 6:34 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-13T18:34:44.686225+05:30.accessibility.json) |
 | [August 13 at 6:07 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-13T06:07:39.771413+05:30.accessibility.json) |
 | [August 12 at 6:47 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-12T18:47:04.705633+05:30.accessibility.json) |
@@ -429,14 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 11 at 6:17 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-11T06:17:21.015954+05:30.accessibility.json) |
 | [August 10 at 6:33 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-10T18:33:37.522183+05:30.accessibility.json) |
 | [August 10 at 6:20 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-10T06:20:43.863988+05:30.accessibility.json) |
-| [August 9 at 6:19 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-09T18:19:37.765347+05:30.accessibility.json) |
-| [August 9 at 6:15 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-09T06:15:17.082466+05:30.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 39 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 41 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 14 at 7:12 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-14T19:12:29.341390+05:30.lighthouse.json) |
+| [August 14 at 8:39 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-14T08:38:56.211495+05:30.lighthouse.json) |
 | [August 13 at 6:34 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-13T18:34:44.686225+05:30.lighthouse.json) |
 | [August 13 at 6:07 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-13T06:07:39.771413+05:30.lighthouse.json) |
 | [August 12 at 6:47 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-12T18:47:04.705633+05:30.lighthouse.json) |
@@ -535,8 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 11 at 6:17 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-11T06:17:21.015954+05:30.lighthouse.json) |
 | [August 10 at 6:33 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-10T18:33:37.522183+05:30.lighthouse.json) |
 | [August 10 at 6:20 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-10T06:20:43.863988+05:30.lighthouse.json) |
-| [August 9 at 6:19 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-09T18:19:37.765347+05:30.lighthouse.json) |
-| [August 9 at 6:15 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-08-09T06:15:17.082466+05:30.lighthouse.json) |
 
 
 

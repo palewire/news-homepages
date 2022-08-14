@@ -22,13 +22,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 13 screenshots with the Internet Archive.
+The archiving routine has saved 15 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-14T10:36:43.152373-03:00.jpg">
+  <img src="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-14T10:36:43.152373-03:00.jpg"
+     alt="Diário Popular at 2022-08-14 10:36:45-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-14T10:36:43.152373-03:00.jpg">August 14 at 10:36 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-14T03:42:53.848445-03:00.jpg">
+  <img src="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-14T03:42:53.848445-03:00.jpg"
+     alt="Diário Popular at 2022-08-14 03:42:55-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-14T03:42:53.848445-03:00.jpg">August 14 at 3:42 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-13T17:19:05.130675-03:00.jpg">
@@ -120,29 +138,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-10T14:59:21.259405-03:00.jpg">August 10 at 2:59 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-10T10:20:29.282973-03:00.jpg">
-  <img src="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-10T10:20:29.282973-03:00.jpg"
-     alt="Diário Popular at 2022-08-10 10:20:30-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-10T10:20:29.282973-03:00.jpg">August 10 at 10:20 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-10T00:55:58.201208-03:00.jpg">
-  <img src="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-10T00:55:58.201208-03:00.jpg"
-     alt="Diário Popular at 2022-08-10 00:55:59-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-10T00:55:58.201208-03:00.jpg">August 10 at 12:55 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 13 hyperlink lists with the Internet Archive.
+The archiving routine has saved 15 hyperlink lists with the Internet Archive.
 
 
 
@@ -150,6 +150,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 14 at 10:36 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-14T10:36:43.152373-03:00.hyperlinks.json) |
+| [August 14 at 3:42 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-14T03:42:53.848445-03:00.hyperlinks.json) |
 | [August 13 at 5:19 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-13T17:19:05.130675-03:00.hyperlinks.json) |
 | [August 13 at 10:01 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-13T10:01:43.075714-03:00.hyperlinks.json) |
 | [August 13 at 12:37 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-13T00:37:19.517920-03:00.hyperlinks.json) |
@@ -158,13 +160,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 6:55 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-12T06:55:23.738223-03:00.hyperlinks.json) |
 | [August 11 at 3:35 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-11T15:35:32.580232-03:00.hyperlinks.json) |
 | [August 11 at 10:27 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-11T10:27:41.472711-03:00.hyperlinks.json) |
-| [August 11 at 12:49 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-11T00:48:57.479608-03:00.hyperlinks.json) |
-| [August 10 at 2:59 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-10T14:59:21.259405-03:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 13 accessibility trees with the Internet Archive.
+The archiving routine has saved 15 accessibility trees with the Internet Archive.
 
 
 
@@ -172,6 +172,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 14 at 10:36 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-14T10:36:43.152373-03:00.accessibility.json) |
+| [August 14 at 3:42 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-14T03:42:53.848445-03:00.accessibility.json) |
 | [August 13 at 5:19 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-13T17:19:05.130675-03:00.accessibility.json) |
 | [August 13 at 10:01 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-13T10:01:43.075714-03:00.accessibility.json) |
 | [August 13 at 12:37 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-13T00:37:19.517920-03:00.accessibility.json) |
@@ -180,14 +182,12 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 6:55 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-12T06:55:23.738223-03:00.accessibility.json) |
 | [August 11 at 3:35 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-11T15:35:32.580232-03:00.accessibility.json) |
 | [August 11 at 10:27 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-11T10:27:41.472711-03:00.accessibility.json) |
-| [August 11 at 12:49 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-11T00:48:57.479608-03:00.accessibility.json) |
-| [August 10 at 2:59 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-10T14:59:21.259405-03:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 13 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 15 Lighthouse audits with the Internet Archive.
 
 
 
@@ -195,6 +195,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 14 at 10:36 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-14T10:36:43.152373-03:00.lighthouse.json) |
+| [August 14 at 3:43 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-14T03:42:53.848445-03:00.lighthouse.json) |
 | [August 13 at 5:19 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-13T17:19:05.130675-03:00.lighthouse.json) |
 | [August 13 at 10:01 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-13T10:01:43.075714-03:00.lighthouse.json) |
 | [August 13 at 12:37 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-13T00:37:19.517920-03:00.lighthouse.json) |
@@ -203,8 +205,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 12 at 6:55 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-12T06:55:23.738223-03:00.lighthouse.json) |
 | [August 11 at 3:35 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-11T15:35:32.580232-03:00.lighthouse.json) |
 | [August 11 at 10:27 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-11T10:27:41.472711-03:00.lighthouse.json) |
-| [August 11 at 12:49 AM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-11T00:48:57.479608-03:00.lighthouse.json) |
-| [August 10 at 2:59 PM](https://archive.org/download/diariopopularrs-2022/diariopopularrs-2022-08-10T14:59:21.259405-03:00.lighthouse.json) |
 
 
 

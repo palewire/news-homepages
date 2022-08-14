@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 82 screenshots with the Internet Archive.
+The archiving routine has saved 83 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 82 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-08-14T06:31:13.983365-07:00.jpg">
+  <img src="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-08-14T06:31:13.983365-07:00.jpg"
+     alt="Desert Oracle at 2022-08-14 06:31:16-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-08-14T06:31:13.983365-07:00.jpg">August 14 at 6:31 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-08-13T16:52:51.789951-07:00.jpg">
@@ -212,20 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-08-08T17:38:54.798121-07:00.jpg">August 8 at 5:38 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-08-08T04:25:01.490054-07:00.jpg">
-  <img src="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-08-08T04:25:01.490054-07:00.jpg"
-     alt="Desert Oracle at 2022-08-08 04:25:04-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/desert_oracle-2022/desert_oracle-2022-08-08T04:25:01.490054-07:00.jpg">August 8 at 4:25 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 79 hyperlink lists with the Internet Archive.
+The archiving routine has saved 80 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 14 at 6:31 AM](https://archive.org/download/desert_oracle-2022/desert_oracle-2022-08-14T06:31:13.983365-07:00.hyperlinks.json) |
 | [August 13 at 4:52 PM](https://archive.org/download/desert_oracle-2022/desert_oracle-2022-08-13T16:52:51.789951-07:00.hyperlinks.json) |
 | [August 13 at 5:57 AM](https://archive.org/download/desert_oracle-2022/desert_oracle-2022-08-13T05:56:55.963544-07:00.hyperlinks.json) |
 | [August 12 at 5:32 PM](https://archive.org/download/desert_oracle-2022/desert_oracle-2022-08-12T17:32:14.064507-07:00.hyperlinks.json) |
@@ -325,12 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 10 at 5:42 PM](https://archive.org/download/desert_oracle-2022/desert_oracle-2022-08-10T17:42:43.247078-07:00.hyperlinks.json) |
 | [August 10 at 5:57 AM](https://archive.org/download/desert_oracle-2022/desert_oracle-2022-08-10T05:57:11.394700-07:00.hyperlinks.json) |
 | [August 9 at 4:28 PM](https://archive.org/download/desert_oracle-2022/desert_oracle-2022-08-09T16:27:57.734686-07:00.hyperlinks.json) |
-| [August 9 at 5:43 AM](https://archive.org/download/desert_oracle-2022/desert_oracle-2022-08-09T05:43:42.980884-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 81 accessibility trees with the Internet Archive.
+The archiving routine has saved 82 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 14 at 6:31 AM](https://archive.org/download/desert_oracle-2022/desert_oracle-2022-08-14T06:31:13.983365-07:00.accessibility.json) |
 | [August 13 at 4:52 PM](https://archive.org/download/desert_oracle-2022/desert_oracle-2022-08-13T16:52:51.789951-07:00.accessibility.json) |
 | [August 13 at 5:57 AM](https://archive.org/download/desert_oracle-2022/desert_oracle-2022-08-13T05:56:55.963544-07:00.accessibility.json) |
 | [August 12 at 5:32 PM](https://archive.org/download/desert_oracle-2022/desert_oracle-2022-08-12T17:32:14.064507-07:00.accessibility.json) |
@@ -430,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 10 at 5:42 PM](https://archive.org/download/desert_oracle-2022/desert_oracle-2022-08-10T17:42:43.247078-07:00.accessibility.json) |
 | [August 10 at 5:57 AM](https://archive.org/download/desert_oracle-2022/desert_oracle-2022-08-10T05:57:11.394700-07:00.accessibility.json) |
 | [August 9 at 4:28 PM](https://archive.org/download/desert_oracle-2022/desert_oracle-2022-08-09T16:27:57.734686-07:00.accessibility.json) |
-| [August 9 at 5:43 AM](https://archive.org/download/desert_oracle-2022/desert_oracle-2022-08-09T05:43:42.980884-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 43 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 44 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 14 at 6:31 AM](https://archive.org/download/desert_oracle-2022/desert_oracle-2022-08-14T06:31:13.983365-07:00.lighthouse.json) |
 | [August 13 at 4:52 PM](https://archive.org/download/desert_oracle-2022/desert_oracle-2022-08-13T16:52:51.789951-07:00.lighthouse.json) |
 | [August 13 at 5:57 AM](https://archive.org/download/desert_oracle-2022/desert_oracle-2022-08-13T05:56:55.963544-07:00.lighthouse.json) |
 | [August 12 at 5:32 PM](https://archive.org/download/desert_oracle-2022/desert_oracle-2022-08-12T17:32:14.064507-07:00.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 10 at 5:42 PM](https://archive.org/download/desert_oracle-2022/desert_oracle-2022-08-10T17:42:43.247078-07:00.lighthouse.json) |
 | [August 10 at 5:57 AM](https://archive.org/download/desert_oracle-2022/desert_oracle-2022-08-10T05:57:11.394700-07:00.lighthouse.json) |
 | [August 9 at 4:28 PM](https://archive.org/download/desert_oracle-2022/desert_oracle-2022-08-09T16:27:57.734686-07:00.lighthouse.json) |
-| [August 9 at 5:43 AM](https://archive.org/download/desert_oracle-2022/desert_oracle-2022-08-09T05:43:42.980884-07:00.lighthouse.json) |
 
 
 

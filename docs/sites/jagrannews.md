@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 34 screenshots with the Internet Archive.
+The archiving routine has saved 36 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -114,6 +114,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-14T19:14:23.691261+05:30.jpg">
+  <img src="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-14T19:14:23.691261+05:30.jpg"
+     alt="Dainik Jagram at 2022-08-14 19:14:25+05:30 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-14T19:14:23.691261+05:30.jpg">August 14 at 7:14 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-14T08:38:48.962774+05:30.jpg">
+  <img src="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-14T08:38:48.962774+05:30.jpg"
+     alt="Dainik Jagram at 2022-08-14 08:38:50+05:30 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-14T08:38:48.962774+05:30.jpg">August 14 at 8:38 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-13T18:35:28.315334+05:30.jpg">
   <img src="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-13T18:35:28.315334+05:30.jpg"
      alt="Dainik Jagram at 2022-08-13 18:35:32+05:30 local time"
@@ -203,29 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-09T06:18:03.032454+05:30.jpg">August 9 at 6:18 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-08T18:08:29.647682+05:30.jpg">
-  <img src="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-08T18:08:29.647682+05:30.jpg"
-     alt="Dainik Jagram at 2022-08-08 18:08:30+05:30 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-08T18:08:29.647682+05:30.jpg">August 8 at 6:08 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-08T06:26:01.744761+05:30.jpg">
-  <img src="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-08T06:26:01.744761+05:30.jpg"
-     alt="Dainik Jagram at 2022-08-08 06:26:04+05:30 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/jagrannews-2022/jagrannews-2022-08-08T06:26:01.744761+05:30.jpg">August 8 at 6:26 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 35 hyperlink lists with the Internet Archive.
+The archiving routine has saved 37 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 14 at 7:14 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-14T19:14:23.691261+05:30.hyperlinks.json) |
+| [August 14 at 8:38 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-14T08:38:48.962774+05:30.hyperlinks.json) |
 | [August 13 at 6:35 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-13T18:35:28.315334+05:30.hyperlinks.json) |
 | [August 13 at 6:07 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-13T06:07:12.102492+05:30.hyperlinks.json) |
 | [August 12 at 6:48 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-12T18:48:15.255450+05:30.hyperlinks.json) |
@@ -324,13 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 11 at 6:17 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-11T06:17:48.620775+05:30.hyperlinks.json) |
 | [August 10 at 6:34 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-10T18:33:58.127623+05:30.hyperlinks.json) |
 | [August 10 at 6:20 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-10T06:20:40.279174+05:30.hyperlinks.json) |
-| [August 9 at 6:20 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-09T18:20:27.366259+05:30.hyperlinks.json) |
-| [August 9 at 6:18 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-09T06:18:03.032454+05:30.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 35 accessibility trees with the Internet Archive.
+The archiving routine has saved 37 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 14 at 7:14 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-14T19:14:23.691261+05:30.accessibility.json) |
+| [August 14 at 8:38 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-14T08:38:48.962774+05:30.accessibility.json) |
 | [August 13 at 6:35 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-13T18:35:28.315334+05:30.accessibility.json) |
 | [August 13 at 6:07 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-13T06:07:12.102492+05:30.accessibility.json) |
 | [August 12 at 6:48 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-12T18:48:15.255450+05:30.accessibility.json) |
@@ -429,14 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 11 at 6:17 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-11T06:17:48.620775+05:30.accessibility.json) |
 | [August 10 at 6:34 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-10T18:33:58.127623+05:30.accessibility.json) |
 | [August 10 at 6:20 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-10T06:20:40.279174+05:30.accessibility.json) |
-| [August 9 at 6:20 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-09T18:20:27.366259+05:30.accessibility.json) |
-| [August 9 at 6:18 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-09T06:18:03.032454+05:30.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 35 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 37 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 14 at 7:14 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-14T19:14:23.691261+05:30.lighthouse.json) |
+| [August 14 at 8:38 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-14T08:38:48.962774+05:30.lighthouse.json) |
 | [August 13 at 6:35 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-13T18:35:28.315334+05:30.lighthouse.json) |
 | [August 13 at 6:07 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-13T06:07:12.102492+05:30.lighthouse.json) |
 | [August 12 at 6:48 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-12T18:48:15.255450+05:30.lighthouse.json) |
@@ -535,8 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 11 at 6:17 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-11T06:17:48.620775+05:30.lighthouse.json) |
 | [August 10 at 6:34 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-10T18:33:58.127623+05:30.lighthouse.json) |
 | [August 10 at 6:20 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-10T06:20:40.279174+05:30.lighthouse.json) |
-| [August 9 at 6:20 PM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-09T18:20:27.366259+05:30.lighthouse.json) |
-| [August 9 at 6:18 AM](https://archive.org/download/jagrannews-2022/jagrannews-2022-08-09T06:18:03.032454+05:30.lighthouse.json) |
 
 
 

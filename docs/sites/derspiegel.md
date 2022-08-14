@@ -22,13 +22,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 6 screenshots with the Internet Archive.
+The archiving routine has saved 7 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-08-14T08:42:52.651660+02:00.jpg">
+  <img src="https://archive.org/download/derspiegel-2022/derspiegel-2022-08-14T08:42:52.651660+02:00.jpg"
+     alt="Der Spiegel at 2022-08-14 08:42:54+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-08-14T08:42:52.651660+02:00.jpg">August 14 at 8:42 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-08-13T22:18:31.076907+02:00.jpg">
@@ -88,7 +97,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 6 hyperlink lists with the Internet Archive.
+The archiving routine has saved 7 hyperlink lists with the Internet Archive.
 
 
 
@@ -96,6 +105,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 14 at 8:42 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-14T08:42:52.651660+02:00.hyperlinks.json) |
 | [August 13 at 10:18 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-13T22:18:31.076907+02:00.hyperlinks.json) |
 | [August 13 at 5:37 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-13T05:37:22.060208+02:00.hyperlinks.json) |
 | [August 12 at 7:45 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-12T19:45:11.368417+02:00.hyperlinks.json) |
@@ -106,7 +116,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 6 accessibility trees with the Internet Archive.
+The archiving routine has saved 7 accessibility trees with the Internet Archive.
 
 
 
@@ -114,6 +124,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 14 at 8:42 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-14T08:42:52.651660+02:00.accessibility.json) |
 | [August 13 at 10:18 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-13T22:18:31.076907+02:00.accessibility.json) |
 | [August 13 at 5:37 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-13T05:37:22.060208+02:00.accessibility.json) |
 | [August 12 at 7:45 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-12T19:45:11.368417+02:00.accessibility.json) |
@@ -125,7 +136,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 6 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 7 Lighthouse audits with the Internet Archive.
 
 
 
@@ -133,6 +144,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 14 at 8:42 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-14T08:42:52.651660+02:00.lighthouse.json) |
 | [August 13 at 10:18 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-13T22:18:31.076907+02:00.lighthouse.json) |
 | [August 13 at 5:37 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-13T05:37:22.060208+02:00.lighthouse.json) |
 | [August 12 at 7:45 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-12T19:45:11.368417+02:00.lighthouse.json) |

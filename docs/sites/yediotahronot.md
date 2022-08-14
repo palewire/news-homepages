@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 0 screenshots with the Internet Archive.
+The archiving routine has saved 1 screenshots with the Internet Archive.
 
 
 
@@ -30,11 +30,20 @@ Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
 
+<div class="latest-child">
+ <a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-14T08:14:17.387047+03:00.jpg">
+  <img src="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-14T08:14:17.387047+03:00.jpg"
+     alt="Yedioth Ahronoth at 2022-08-14 08:14:23+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-14T08:14:17.387047+03:00.jpg">August 14 at 8:14 AM</a></p>
+</div>
+
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 0 hyperlink lists with the Internet Archive.
+The archiving routine has saved 1 hyperlink lists with the Internet Archive.
 
 
 
@@ -42,11 +51,12 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 14 at 8:14 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-14T08:14:17.387047+03:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 0 accessibility trees with the Internet Archive.
+The archiving routine has saved 1 accessibility trees with the Internet Archive.
 
 
 
@@ -54,12 +64,13 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 14 at 8:14 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-14T08:14:17.387047+03:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 0 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 1 Lighthouse audits with the Internet Archive.
 
 
 
@@ -67,6 +78,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 14 at 8:14 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-08-14T08:14:17.387047+03:00.lighthouse.json) |
 
 
 
@@ -76,3 +88,4 @@ Assets are stored in the following collections at archive.org:
 
 | Item  |
 | :---- |
+|[yediotahronot-2022](https://archive.org/details/yediotahronot-2022)|

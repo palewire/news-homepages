@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 404 screenshots with the Internet Archive.
+The archiving routine has saved 405 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 404 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/usatoday-2022/usatoday-2022-08-14T01:11:29.624664-04:00.jpg">
+  <img src="https://archive.org/download/usatoday-2022/usatoday-2022-08-14T01:11:29.624664-04:00.jpg"
+     alt="USA Today at 2022-08-14 01:11:39-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-08-14T01:11:29.624664-04:00.jpg">August 14 at 1:11 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/usatoday-2022/usatoday-2022-08-13T16:48:02.792394-04:00.jpg">
@@ -212,20 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-08-10T17:16:26.895480-04:00.jpg">August 10 at 5:16 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/usatoday-2022/usatoday-2022-08-10T13:53:28.198318-04:00.jpg">
-  <img src="https://archive.org/download/usatoday-2022/usatoday-2022-08-10T13:53:28.198318-04:00.jpg"
-     alt="USA Today at 2022-08-10 13:53:29-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/usatoday-2022/usatoday-2022-08-10T13:53:28.198318-04:00.jpg">August 10 at 1:53 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 386 hyperlink lists with the Internet Archive.
+The archiving routine has saved 387 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 14 at 1:11 AM](https://archive.org/download/usatoday-2022/usatoday-2022-08-14T01:11:29.624664-04:00.hyperlinks.json) |
 | [August 13 at 4:48 PM](https://archive.org/download/usatoday-2022/usatoday-2022-08-13T16:48:02.792394-04:00.hyperlinks.json) |
 | [August 12 at 10:19 PM](https://archive.org/download/usatoday-2022/usatoday-2022-08-12T22:19:44.530461-04:00.hyperlinks.json) |
 | [August 12 at 5:12 PM](https://archive.org/download/usatoday-2022/usatoday-2022-08-12T17:12:49.483968-04:00.hyperlinks.json) |
@@ -325,12 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 11 at 10:08 PM](https://archive.org/download/usatoday-2022/usatoday-2022-08-11T22:08:10.125698-04:00.hyperlinks.json) |
 | [August 11 at 5:12 PM](https://archive.org/download/usatoday-2022/usatoday-2022-08-11T17:12:46.680641-04:00.hyperlinks.json) |
 | [August 11 at 1:11 PM](https://archive.org/download/usatoday-2022/usatoday-2022-08-11T13:11:11.518483-04:00.hyperlinks.json) |
-| [August 11 at 12:56 PM](https://archive.org/download/usatoday-2022/usatoday-2022-08-11T12:55:51.251295-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 386 accessibility trees with the Internet Archive.
+The archiving routine has saved 387 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 14 at 1:11 AM](https://archive.org/download/usatoday-2022/usatoday-2022-08-14T01:11:29.624664-04:00.accessibility.json) |
 | [August 13 at 4:48 PM](https://archive.org/download/usatoday-2022/usatoday-2022-08-13T16:48:02.792394-04:00.accessibility.json) |
 | [August 12 at 10:19 PM](https://archive.org/download/usatoday-2022/usatoday-2022-08-12T22:19:44.530461-04:00.accessibility.json) |
 | [August 12 at 5:12 PM](https://archive.org/download/usatoday-2022/usatoday-2022-08-12T17:12:49.483968-04:00.accessibility.json) |
@@ -430,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 11 at 10:08 PM](https://archive.org/download/usatoday-2022/usatoday-2022-08-11T22:08:10.125698-04:00.accessibility.json) |
 | [August 11 at 5:12 PM](https://archive.org/download/usatoday-2022/usatoday-2022-08-11T17:12:46.680641-04:00.accessibility.json) |
 | [August 11 at 1:11 PM](https://archive.org/download/usatoday-2022/usatoday-2022-08-11T13:11:11.518483-04:00.accessibility.json) |
-| [August 11 at 12:56 PM](https://archive.org/download/usatoday-2022/usatoday-2022-08-11T12:55:51.251295-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 86 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 87 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 14 at 1:11 AM](https://archive.org/download/usatoday-2022/usatoday-2022-08-14T01:11:29.624664-04:00.lighthouse.json) |
 | [August 13 at 4:48 PM](https://archive.org/download/usatoday-2022/usatoday-2022-08-13T16:48:02.792394-04:00.lighthouse.json) |
 | [August 12 at 10:19 PM](https://archive.org/download/usatoday-2022/usatoday-2022-08-12T22:19:44.530461-04:00.lighthouse.json) |
 | [August 12 at 5:12 PM](https://archive.org/download/usatoday-2022/usatoday-2022-08-12T17:12:49.483968-04:00.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 11 at 10:08 PM](https://archive.org/download/usatoday-2022/usatoday-2022-08-11T22:08:10.125698-04:00.lighthouse.json) |
 | [August 11 at 5:12 PM](https://archive.org/download/usatoday-2022/usatoday-2022-08-11T17:12:46.680641-04:00.lighthouse.json) |
 | [August 11 at 1:11 PM](https://archive.org/download/usatoday-2022/usatoday-2022-08-11T13:11:11.518483-04:00.lighthouse.json) |
-| [August 11 at 12:56 PM](https://archive.org/download/usatoday-2022/usatoday-2022-08-11T12:55:51.251295-04:00.lighthouse.json) |
 
 
 

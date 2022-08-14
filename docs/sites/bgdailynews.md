@@ -22,13 +22,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 27 screenshots with the Internet Archive.
+The archiving routine has saved 28 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bgdailynews-2022/bgdailynews-2022-08-14T00:00:50.347490-05:00.jpg">
+  <img src="https://archive.org/download/bgdailynews-2022/bgdailynews-2022-08-14T00:00:50.347490-05:00.jpg"
+     alt="Bowling Green Daily News at 2022-08-14 00:00:52-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bgdailynews-2022/bgdailynews-2022-08-14T00:00:50.347490-05:00.jpg">August 14 at 12:00 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bgdailynews-2022/bgdailynews-2022-08-13T15:37:46.923968-05:00.jpg">
@@ -129,20 +138,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/bgdailynews-2022/bgdailynews-2022-08-08T09:16:36.714414-05:00.jpg">August 8 at 9:16 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/bgdailynews-2022/bgdailynews-2022-08-07T21:29:56.804652-05:00.jpg">
-  <img src="https://archive.org/download/bgdailynews-2022/bgdailynews-2022-08-07T21:29:56.804652-05:00.jpg"
-     alt="Bowling Green Daily News at 2022-08-07 21:29:58-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bgdailynews-2022/bgdailynews-2022-08-07T21:29:56.804652-05:00.jpg">August 7 at 9:29 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 27 hyperlink lists with the Internet Archive.
+The archiving routine has saved 28 hyperlink lists with the Internet Archive.
 
 
 
@@ -150,6 +150,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 14 at 12:00 AM](https://archive.org/download/bgdailynews-2022/bgdailynews-2022-08-14T00:00:50.347490-05:00.hyperlinks.json) |
 | [August 13 at 3:37 PM](https://archive.org/download/bgdailynews-2022/bgdailynews-2022-08-13T15:37:46.923968-05:00.hyperlinks.json) |
 | [August 12 at 9:10 PM](https://archive.org/download/bgdailynews-2022/bgdailynews-2022-08-12T21:10:50.465744-05:00.hyperlinks.json) |
 | [August 12 at 11:19 AM](https://archive.org/download/bgdailynews-2022/bgdailynews-2022-08-12T11:19:06.779734-05:00.hyperlinks.json) |
@@ -159,12 +160,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 10 at 12:43 PM](https://archive.org/download/bgdailynews-2022/bgdailynews-2022-08-10T12:43:45.612062-05:00.hyperlinks.json) |
 | [August 9 at 9:32 PM](https://archive.org/download/bgdailynews-2022/bgdailynews-2022-08-09T21:32:10.616360-05:00.hyperlinks.json) |
 | [August 9 at 9:32 AM](https://archive.org/download/bgdailynews-2022/bgdailynews-2022-08-09T09:32:54.362219-05:00.hyperlinks.json) |
-| [August 8 at 9:19 PM](https://archive.org/download/bgdailynews-2022/bgdailynews-2022-08-08T21:19:47.868269-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 27 accessibility trees with the Internet Archive.
+The archiving routine has saved 28 accessibility trees with the Internet Archive.
 
 
 
@@ -172,6 +172,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 14 at 12:00 AM](https://archive.org/download/bgdailynews-2022/bgdailynews-2022-08-14T00:00:50.347490-05:00.accessibility.json) |
 | [August 13 at 3:37 PM](https://archive.org/download/bgdailynews-2022/bgdailynews-2022-08-13T15:37:46.923968-05:00.accessibility.json) |
 | [August 12 at 9:10 PM](https://archive.org/download/bgdailynews-2022/bgdailynews-2022-08-12T21:10:50.465744-05:00.accessibility.json) |
 | [August 12 at 11:19 AM](https://archive.org/download/bgdailynews-2022/bgdailynews-2022-08-12T11:19:06.779734-05:00.accessibility.json) |
@@ -181,13 +182,12 @@ Here are the 10 most recent accessibility trees.
 | [August 10 at 9:22 PM](https://archive.org/download/bgdailynews-2022/bgdailynews-2022-08-10T21:22:53.606680-05:00.accessibility.json) |
 | [August 10 at 12:43 PM](https://archive.org/download/bgdailynews-2022/bgdailynews-2022-08-10T12:43:45.612062-05:00.accessibility.json) |
 | [August 9 at 9:32 PM](https://archive.org/download/bgdailynews-2022/bgdailynews-2022-08-09T21:32:10.616360-05:00.accessibility.json) |
-| [August 9 at 9:32 AM](https://archive.org/download/bgdailynews-2022/bgdailynews-2022-08-09T09:32:54.362219-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 28 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 29 Lighthouse audits with the Internet Archive.
 
 
 
@@ -195,6 +195,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 14 at 12:00 AM](https://archive.org/download/bgdailynews-2022/bgdailynews-2022-08-14T00:00:50.347490-05:00.lighthouse.json) |
 | [August 13 at 3:37 PM](https://archive.org/download/bgdailynews-2022/bgdailynews-2022-08-13T15:37:46.923968-05:00.lighthouse.json) |
 | [August 12 at 9:11 PM](https://archive.org/download/bgdailynews-2022/bgdailynews-2022-08-12T21:10:50.465744-05:00.lighthouse.json) |
 | [August 12 at 11:19 AM](https://archive.org/download/bgdailynews-2022/bgdailynews-2022-08-12T11:19:06.779734-05:00.lighthouse.json) |
@@ -204,7 +205,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 10 at 9:22 PM](https://archive.org/download/bgdailynews-2022/bgdailynews-2022-08-10T21:22:53.606680-05:00.lighthouse.json) |
 | [August 10 at 12:43 PM](https://archive.org/download/bgdailynews-2022/bgdailynews-2022-08-10T12:43:45.612062-05:00.lighthouse.json) |
 | [August 9 at 9:32 PM](https://archive.org/download/bgdailynews-2022/bgdailynews-2022-08-09T21:32:10.616360-05:00.lighthouse.json) |
-| [August 9 at 9:33 AM](https://archive.org/download/bgdailynews-2022/bgdailynews-2022-08-09T09:32:54.362219-05:00.lighthouse.json) |
 
 
 

@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 55 screenshots with the Internet Archive.
+The archiving routine has saved 56 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 55 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/startelegram-2022/startelegram-2022-08-14T02:05:51.510827-05:00.jpg">
+  <img src="https://archive.org/download/startelegram-2022/startelegram-2022-08-14T02:05:51.510827-05:00.jpg"
+     alt="Fort Worth Star-Telegram at 2022-08-14 02:05:53-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/startelegram-2022/startelegram-2022-08-14T02:05:51.510827-05:00.jpg">August 14 at 2:05 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/startelegram-2022/startelegram-2022-08-13T16:01:10.040957-05:00.jpg">
@@ -210,15 +219,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/startelegram-2022/startelegram-2022-08-08T12:18:51.884043-05:00.jpg">August 8 at 12:18 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/startelegram-2022/startelegram-2022-08-08T00:25:23.470326-05:00.jpg">
-  <img src="https://archive.org/download/startelegram-2022/startelegram-2022-08-08T00:25:23.470326-05:00.jpg"
-     alt="Fort Worth Star-Telegram at 2022-08-08 00:25:24-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/startelegram-2022/startelegram-2022-08-08T00:25:23.470326-05:00.jpg">August 8 at 12:25 AM</a></p>
 </div>
 
 </div>
@@ -330,7 +330,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 55 accessibility trees with the Internet Archive.
+The archiving routine has saved 56 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 14 at 2:05 AM](https://archive.org/download/startelegram-2022/startelegram-2022-08-14T02:05:51.510827-05:00.accessibility.json) |
 | [August 13 at 4:01 PM](https://archive.org/download/startelegram-2022/startelegram-2022-08-13T16:01:10.040957-05:00.accessibility.json) |
 | [August 13 at 12:12 AM](https://archive.org/download/startelegram-2022/startelegram-2022-08-13T00:11:58.469778-05:00.accessibility.json) |
 | [August 12 at 1:25 PM](https://archive.org/download/startelegram-2022/startelegram-2022-08-12T13:25:18.340690-05:00.accessibility.json) |
@@ -430,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 10 at 1:24 PM](https://archive.org/download/startelegram-2022/startelegram-2022-08-10T13:23:57.909078-05:00.accessibility.json) |
 | [August 10 at 12:32 AM](https://archive.org/download/startelegram-2022/startelegram-2022-08-10T00:32:50.915910-05:00.accessibility.json) |
 | [August 9 at 12:56 PM](https://archive.org/download/startelegram-2022/startelegram-2022-08-09T12:56:05.205563-05:00.accessibility.json) |
-| [August 9 at 12:09 AM](https://archive.org/download/startelegram-2022/startelegram-2022-08-09T00:09:10.953988-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 42 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 43 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 14 at 2:05 AM](https://archive.org/download/startelegram-2022/startelegram-2022-08-14T02:05:51.510827-05:00.lighthouse.json) |
 | [August 13 at 4:01 PM](https://archive.org/download/startelegram-2022/startelegram-2022-08-13T16:01:10.040957-05:00.lighthouse.json) |
 | [August 13 at 12:12 AM](https://archive.org/download/startelegram-2022/startelegram-2022-08-13T00:11:58.469778-05:00.lighthouse.json) |
 | [August 12 at 1:25 PM](https://archive.org/download/startelegram-2022/startelegram-2022-08-12T13:25:18.340690-05:00.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 10 at 1:24 PM](https://archive.org/download/startelegram-2022/startelegram-2022-08-10T13:23:57.909078-05:00.lighthouse.json) |
 | [August 10 at 12:32 AM](https://archive.org/download/startelegram-2022/startelegram-2022-08-10T00:32:50.915910-05:00.lighthouse.json) |
 | [August 9 at 12:56 PM](https://archive.org/download/startelegram-2022/startelegram-2022-08-09T12:56:05.205563-05:00.lighthouse.json) |
-| [August 9 at 12:09 AM](https://archive.org/download/startelegram-2022/startelegram-2022-08-09T00:09:10.953988-05:00.lighthouse.json) |
 
 
 

@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 338 screenshots with the Internet Archive.
+The archiving routine has saved 339 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 338 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ocregister-2022/ocregister-2022-08-13T23:58:55.937535-07:00.jpg">
+  <img src="https://archive.org/download/ocregister-2022/ocregister-2022-08-13T23:58:55.937535-07:00.jpg"
+     alt="Orange County Register at 2022-08-13 23:58:57-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ocregister-2022/ocregister-2022-08-13T23:58:55.937535-07:00.jpg">August 13 at 11:58 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ocregister-2022/ocregister-2022-08-13T13:54:26.735890-07:00.jpg">
@@ -212,20 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ocregister-2022/ocregister-2022-08-09T22:25:02.641349-07:00.jpg">August 9 at 10:25 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ocregister-2022/ocregister-2022-08-09T11:42:13.446463-07:00.jpg">
-  <img src="https://archive.org/download/ocregister-2022/ocregister-2022-08-09T11:42:13.446463-07:00.jpg"
-     alt="Orange County Register at 2022-08-09 11:42:15-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ocregister-2022/ocregister-2022-08-09T11:42:13.446463-07:00.jpg">August 9 at 11:42 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 322 hyperlink lists with the Internet Archive.
+The archiving routine has saved 323 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 13 at 11:59 PM](https://archive.org/download/ocregister-2022/ocregister-2022-08-13T23:58:55.937535-07:00.hyperlinks.json) |
 | [August 13 at 1:54 PM](https://archive.org/download/ocregister-2022/ocregister-2022-08-13T13:54:26.735890-07:00.hyperlinks.json) |
 | [August 12 at 10:06 PM](https://archive.org/download/ocregister-2022/ocregister-2022-08-12T22:06:02.233771-07:00.hyperlinks.json) |
 | [August 12 at 12:12 PM](https://archive.org/download/ocregister-2022/ocregister-2022-08-12T12:11:39.675641-07:00.hyperlinks.json) |
@@ -325,12 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 11 at 11:50 AM](https://archive.org/download/ocregister-2022/ocregister-2022-08-11T11:50:28.252415-07:00.hyperlinks.json) |
 | [August 10 at 10:20 PM](https://archive.org/download/ocregister-2022/ocregister-2022-08-10T22:20:02.099568-07:00.hyperlinks.json) |
 | [August 10 at 12:36 PM](https://archive.org/download/ocregister-2022/ocregister-2022-08-10T12:36:51.150860-07:00.hyperlinks.json) |
-| [August 10 at 11:16 AM](https://archive.org/download/ocregister-2022/ocregister-2022-08-10T11:15:55.612040-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 327 accessibility trees with the Internet Archive.
+The archiving routine has saved 328 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 13 at 11:58 PM](https://archive.org/download/ocregister-2022/ocregister-2022-08-13T23:58:55.937535-07:00.accessibility.json) |
 | [August 13 at 1:54 PM](https://archive.org/download/ocregister-2022/ocregister-2022-08-13T13:54:26.735890-07:00.accessibility.json) |
 | [August 12 at 10:06 PM](https://archive.org/download/ocregister-2022/ocregister-2022-08-12T22:06:02.233771-07:00.accessibility.json) |
 | [August 12 at 12:12 PM](https://archive.org/download/ocregister-2022/ocregister-2022-08-12T12:11:39.675641-07:00.accessibility.json) |
@@ -430,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 11 at 11:50 AM](https://archive.org/download/ocregister-2022/ocregister-2022-08-11T11:50:28.252415-07:00.accessibility.json) |
 | [August 10 at 10:20 PM](https://archive.org/download/ocregister-2022/ocregister-2022-08-10T22:20:02.099568-07:00.accessibility.json) |
 | [August 10 at 12:36 PM](https://archive.org/download/ocregister-2022/ocregister-2022-08-10T12:36:51.150860-07:00.accessibility.json) |
-| [August 10 at 11:16 AM](https://archive.org/download/ocregister-2022/ocregister-2022-08-10T11:15:55.612040-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 62 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 63 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 13 at 11:59 PM](https://archive.org/download/ocregister-2022/ocregister-2022-08-13T23:58:55.937535-07:00.lighthouse.json) |
 | [August 13 at 1:54 PM](https://archive.org/download/ocregister-2022/ocregister-2022-08-13T13:54:26.735890-07:00.lighthouse.json) |
 | [August 12 at 10:06 PM](https://archive.org/download/ocregister-2022/ocregister-2022-08-12T22:06:02.233771-07:00.lighthouse.json) |
 | [August 12 at 12:12 PM](https://archive.org/download/ocregister-2022/ocregister-2022-08-12T12:11:39.675641-07:00.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 11 at 11:50 AM](https://archive.org/download/ocregister-2022/ocregister-2022-08-11T11:50:28.252415-07:00.lighthouse.json) |
 | [August 10 at 10:20 PM](https://archive.org/download/ocregister-2022/ocregister-2022-08-10T22:20:02.099568-07:00.lighthouse.json) |
 | [August 10 at 12:36 PM](https://archive.org/download/ocregister-2022/ocregister-2022-08-10T12:36:51.150860-07:00.lighthouse.json) |
-| [August 10 at 11:16 AM](https://archive.org/download/ocregister-2022/ocregister-2022-08-10T11:15:55.612040-07:00.lighthouse.json) |
 
 
 
