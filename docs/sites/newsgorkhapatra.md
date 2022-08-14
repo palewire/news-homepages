@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 40 screenshots with the Internet Archive.
+The archiving routine has saved 41 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 40 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-14T09:04:24.848961+05:45.jpg">
+  <img src="https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-14T09:04:24.848961+05:45.jpg"
+     alt="Gorakhapatra at 2022-08-14 09:04:25+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-14T09:04:24.848961+05:45.jpg">August 14 at 9:04 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-13T18:59:34.357491+05:45.jpg">
@@ -212,20 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-08T18:30:49.314874+05:45.jpg">August 8 at 6:30 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-08T06:47:53.935151+05:45.jpg">
-  <img src="https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-08T06:47:53.935151+05:45.jpg"
-     alt="Gorakhapatra at 2022-08-08 06:47:56+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-08T06:47:53.935151+05:45.jpg">August 8 at 6:47 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 41 hyperlink lists with the Internet Archive.
+The archiving routine has saved 42 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 14 at 9:04 AM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-14T09:04:24.848961+05:45.hyperlinks.json) |
 | [August 13 at 6:59 PM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-13T18:59:34.357491+05:45.hyperlinks.json) |
 | [August 13 at 6:30 AM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-13T06:30:36.384219+05:45.hyperlinks.json) |
 | [August 12 at 7:10 PM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-12T19:10:51.551377+05:45.hyperlinks.json) |
@@ -325,12 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 10 at 6:57 PM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-10T18:57:43.217266+05:45.hyperlinks.json) |
 | [August 10 at 6:44 AM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-10T06:44:27.434893+05:45.hyperlinks.json) |
 | [August 9 at 6:44 PM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-09T18:44:02.270578+05:45.hyperlinks.json) |
-| [August 9 at 6:39 AM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-09T06:39:03.813451+05:45.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 41 accessibility trees with the Internet Archive.
+The archiving routine has saved 42 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 14 at 9:04 AM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-14T09:04:24.848961+05:45.accessibility.json) |
 | [August 13 at 6:59 PM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-13T18:59:34.357491+05:45.accessibility.json) |
 | [August 13 at 6:30 AM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-13T06:30:36.384219+05:45.accessibility.json) |
 | [August 12 at 7:10 PM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-12T19:10:51.551377+05:45.accessibility.json) |
@@ -430,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 10 at 6:57 PM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-10T18:57:43.217266+05:45.accessibility.json) |
 | [August 10 at 6:44 AM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-10T06:44:27.434893+05:45.accessibility.json) |
 | [August 9 at 6:44 PM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-09T18:44:02.270578+05:45.accessibility.json) |
-| [August 9 at 6:39 AM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-09T06:39:03.813451+05:45.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 41 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 42 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 14 at 9:04 AM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-14T09:04:24.848961+05:45.lighthouse.json) |
 | [August 13 at 6:59 PM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-13T18:59:34.357491+05:45.lighthouse.json) |
 | [August 13 at 6:30 AM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-13T06:30:36.384219+05:45.lighthouse.json) |
 | [August 12 at 7:10 PM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-12T19:10:51.551377+05:45.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 10 at 6:57 PM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-10T18:57:43.217266+05:45.lighthouse.json) |
 | [August 10 at 6:44 AM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-10T06:44:27.434893+05:45.lighthouse.json) |
 | [August 9 at 6:44 PM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-09T18:44:02.270578+05:45.lighthouse.json) |
-| [August 9 at 6:39 AM](https://archive.org/download/newsgorkhapatra-2022/newsgorkhapatra-2022-08-09T06:39:03.813451+05:45.lighthouse.json) |
 
 
 

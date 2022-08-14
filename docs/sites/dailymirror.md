@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 116 screenshots with the Internet Archive.
+The archiving routine has saved 118 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -114,6 +114,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-14T10:11:54.171483+01:00.jpg">
+  <img src="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-14T10:11:54.171483+01:00.jpg"
+     alt="Daily Mirror at 2022-08-14 10:11:55+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-14T10:11:54.171483+01:00.jpg">August 14 at 10:11 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-14T07:41:05.476652+01:00.jpg">
+  <img src="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-14T07:41:05.476652+01:00.jpg"
+     alt="Daily Mirror at 2022-08-14 07:41:06+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-14T07:41:05.476652+01:00.jpg">August 14 at 7:41 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-13T21:16:39.748912+01:00.jpg">
   <img src="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-13T21:16:39.748912+01:00.jpg"
      alt="Daily Mirror at 2022-08-13 21:16:40+01:00 local time"
@@ -203,29 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-10T18:58:51.061943+01:00.jpg">August 10 at 6:58 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-10T10:10:32.679541+01:00.jpg">
-  <img src="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-10T10:10:32.679541+01:00.jpg"
-     alt="Daily Mirror at 2022-08-10 10:10:33+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-10T10:10:32.679541+01:00.jpg">August 10 at 10:10 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-10T04:55:47.863820+01:00.jpg">
-  <img src="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-10T04:55:47.863820+01:00.jpg"
-     alt="Daily Mirror at 2022-08-10 04:55:49+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-08-10T04:55:47.863820+01:00.jpg">August 10 at 4:55 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 113 hyperlink lists with the Internet Archive.
+The archiving routine has saved 115 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 14 at 10:11 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-14T10:11:54.171483+01:00.hyperlinks.json) |
+| [August 14 at 7:41 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-14T07:41:05.476652+01:00.hyperlinks.json) |
 | [August 13 at 9:16 PM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-13T21:16:39.748912+01:00.hyperlinks.json) |
 | [August 13 at 10:11 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-13T10:10:56.364063+01:00.hyperlinks.json) |
 | [August 13 at 4:35 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-13T04:35:27.733221+01:00.hyperlinks.json) |
@@ -324,13 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 10:54 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-12T10:54:21.994688+01:00.hyperlinks.json) |
 | [August 11 at 7:34 PM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-11T19:34:43.991862+01:00.hyperlinks.json) |
 | [August 11 at 10:10 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-11T10:10:39.221978+01:00.hyperlinks.json) |
-| [August 11 at 4:47 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-11T04:47:06.489749+01:00.hyperlinks.json) |
-| [August 10 at 6:58 PM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-10T18:58:51.061943+01:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 116 accessibility trees with the Internet Archive.
+The archiving routine has saved 118 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 14 at 10:11 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-14T10:11:54.171483+01:00.accessibility.json) |
+| [August 14 at 7:41 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-14T07:41:05.476652+01:00.accessibility.json) |
 | [August 13 at 9:16 PM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-13T21:16:39.748912+01:00.accessibility.json) |
 | [August 13 at 10:10 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-13T10:10:56.364063+01:00.accessibility.json) |
 | [August 13 at 4:35 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-13T04:35:27.733221+01:00.accessibility.json) |
@@ -429,14 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 10:54 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-12T10:54:21.994688+01:00.accessibility.json) |
 | [August 11 at 7:34 PM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-11T19:34:43.991862+01:00.accessibility.json) |
 | [August 11 at 10:10 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-11T10:10:39.221978+01:00.accessibility.json) |
-| [August 11 at 4:47 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-11T04:47:06.489749+01:00.accessibility.json) |
-| [August 10 at 6:58 PM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-10T18:58:51.061943+01:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 63 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 65 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 14 at 10:12 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-14T10:11:54.171483+01:00.lighthouse.json) |
+| [August 14 at 7:41 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-14T07:41:05.476652+01:00.lighthouse.json) |
 | [August 13 at 9:16 PM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-13T21:16:39.748912+01:00.lighthouse.json) |
 | [August 13 at 10:11 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-13T10:10:56.364063+01:00.lighthouse.json) |
 | [August 13 at 4:35 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-13T04:35:27.733221+01:00.lighthouse.json) |
@@ -535,8 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 12 at 10:54 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-12T10:54:21.994688+01:00.lighthouse.json) |
 | [August 11 at 7:34 PM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-11T19:34:43.991862+01:00.lighthouse.json) |
 | [August 11 at 10:10 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-11T10:10:39.221978+01:00.lighthouse.json) |
-| [August 11 at 4:47 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-11T04:47:06.489749+01:00.lighthouse.json) |
-| [August 10 at 6:58 PM](https://archive.org/download/dailymirror-2022/dailymirror-2022-08-10T18:58:51.061943+01:00.lighthouse.json) |
 
 
 

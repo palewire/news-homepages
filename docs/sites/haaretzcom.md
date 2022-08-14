@@ -22,13 +22,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 1 screenshots with the Internet Archive.
+The archiving routine has saved 2 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-14T16:34:53.313162+03:00.jpg">
+  <img src="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-14T16:34:53.313162+03:00.jpg"
+     alt="Haaretz at 2022-08-14 16:34:54+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-14T16:34:53.313162+03:00.jpg">August 14 at 4:34 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-14T02:57:42.091637+03:00.jpg">
@@ -43,7 +52,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 0 hyperlink lists with the Internet Archive.
+The archiving routine has saved 1 hyperlink lists with the Internet Archive.
 
 
 
@@ -51,11 +60,12 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 14 at 4:34 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-14T16:34:53.313162+03:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 1 accessibility trees with the Internet Archive.
+The archiving routine has saved 2 accessibility trees with the Internet Archive.
 
 
 
@@ -63,13 +73,14 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 14 at 4:34 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-14T16:34:53.313162+03:00.accessibility.json) |
 | [August 14 at 2:57 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-14T02:57:42.091637+03:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 1 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 2 Lighthouse audits with the Internet Archive.
 
 
 
@@ -77,6 +88,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 14 at 4:35 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-14T16:34:53.313162+03:00.lighthouse.json) |
 | [August 14 at 2:57 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-14T02:57:42.091637+03:00.lighthouse.json) |
 
 

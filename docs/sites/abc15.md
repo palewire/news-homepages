@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 39 screenshots with the Internet Archive.
+The archiving routine has saved 40 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 39 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/abc15-2022/abc15-2022-08-14T06:20:28.890817-07:00.jpg">
+  <img src="https://archive.org/download/abc15-2022/abc15-2022-08-14T06:20:28.890817-07:00.jpg"
+     alt="ABC15 Arizona at 2022-08-14 06:20:31-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/abc15-2022/abc15-2022-08-14T06:20:28.890817-07:00.jpg">August 14 at 6:20 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/abc15-2022/abc15-2022-08-13T16:42:27.562731-07:00.jpg">
@@ -210,15 +219,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/abc15-2022/abc15-2022-08-08T17:30:38.056859-07:00.jpg">August 8 at 5:30 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/abc15-2022/abc15-2022-08-08T04:16:53.493894-07:00.jpg">
-  <img src="https://archive.org/download/abc15-2022/abc15-2022-08-08T04:16:53.493894-07:00.jpg"
-     alt="ABC15 Arizona at 2022-08-08 04:17:01-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/abc15-2022/abc15-2022-08-08T04:16:53.493894-07:00.jpg">August 8 at 4:17 AM</a></p>
 </div>
 
 </div>
@@ -353,7 +353,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 39 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 40 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -444,6 +444,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 14 at 6:20 AM](https://archive.org/download/abc15-2022/abc15-2022-08-14T06:20:28.890817-07:00.lighthouse.json) |
 | [August 13 at 4:42 PM](https://archive.org/download/abc15-2022/abc15-2022-08-13T16:42:27.562731-07:00.lighthouse.json) |
 | [August 13 at 5:50 AM](https://archive.org/download/abc15-2022/abc15-2022-08-13T05:49:55.498165-07:00.lighthouse.json) |
 | [August 12 at 5:22 PM](https://archive.org/download/abc15-2022/abc15-2022-08-12T17:22:41.127458-07:00.lighthouse.json) |
@@ -453,7 +454,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 10 at 5:35 PM](https://archive.org/download/abc15-2022/abc15-2022-08-10T17:35:11.983653-07:00.lighthouse.json) |
 | [August 10 at 5:48 AM](https://archive.org/download/abc15-2022/abc15-2022-08-10T05:48:37.014333-07:00.lighthouse.json) |
 | [August 9 at 4:17 PM](https://archive.org/download/abc15-2022/abc15-2022-08-09T16:17:42.610299-07:00.lighthouse.json) |
-| [August 9 at 5:35 AM](https://archive.org/download/abc15-2022/abc15-2022-08-09T05:35:25.290650-07:00.lighthouse.json) |
 
 
 

@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 81 screenshots with the Internet Archive.
+The archiving routine has saved 82 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 81 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newstribune-2022/newstribune-2022-08-13T22:19:25.227509-05:00.jpg">
+  <img src="https://archive.org/download/newstribune-2022/newstribune-2022-08-13T22:19:25.227509-05:00.jpg"
+     alt="Jefferson City News Tribune at 2022-08-13 22:19:26-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-08-13T22:19:25.227509-05:00.jpg">August 13 at 10:19 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newstribune-2022/newstribune-2022-08-13T08:15:19.100900-05:00.jpg">
@@ -212,20 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-08-08T07:48:25.426777-05:00.jpg">August 8 at 7:48 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/newstribune-2022/newstribune-2022-08-07T20:01:17.123261-05:00.jpg">
-  <img src="https://archive.org/download/newstribune-2022/newstribune-2022-08-07T20:01:17.123261-05:00.jpg"
-     alt="Jefferson City News Tribune at 2022-08-07 20:01:20-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newstribune-2022/newstribune-2022-08-07T20:01:17.123261-05:00.jpg">August 7 at 8:01 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 79 hyperlink lists with the Internet Archive.
+The archiving routine has saved 80 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 13 at 10:19 PM](https://archive.org/download/newstribune-2022/newstribune-2022-08-13T22:19:25.227509-05:00.hyperlinks.json) |
 | [August 13 at 8:15 AM](https://archive.org/download/newstribune-2022/newstribune-2022-08-13T08:15:19.100900-05:00.hyperlinks.json) |
 | [August 12 at 7:45 PM](https://archive.org/download/newstribune-2022/newstribune-2022-08-12T19:45:46.944227-05:00.hyperlinks.json) |
 | [August 12 at 8:25 AM](https://archive.org/download/newstribune-2022/newstribune-2022-08-12T08:25:31.269477-05:00.hyperlinks.json) |
@@ -325,12 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 10 at 8:12 AM](https://archive.org/download/newstribune-2022/newstribune-2022-08-10T08:12:14.140482-05:00.hyperlinks.json) |
 | [August 9 at 8:00 PM](https://archive.org/download/newstribune-2022/newstribune-2022-08-09T20:00:12.115900-05:00.hyperlinks.json) |
 | [August 9 at 7:59 AM](https://archive.org/download/newstribune-2022/newstribune-2022-08-09T07:59:49.620677-05:00.hyperlinks.json) |
-| [August 8 at 7:54 PM](https://archive.org/download/newstribune-2022/newstribune-2022-08-08T19:54:42.242091-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 80 accessibility trees with the Internet Archive.
+The archiving routine has saved 81 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 13 at 10:19 PM](https://archive.org/download/newstribune-2022/newstribune-2022-08-13T22:19:25.227509-05:00.accessibility.json) |
 | [August 13 at 8:15 AM](https://archive.org/download/newstribune-2022/newstribune-2022-08-13T08:15:19.100900-05:00.accessibility.json) |
 | [August 12 at 7:45 PM](https://archive.org/download/newstribune-2022/newstribune-2022-08-12T19:45:46.944227-05:00.accessibility.json) |
 | [August 12 at 8:25 AM](https://archive.org/download/newstribune-2022/newstribune-2022-08-12T08:25:31.269477-05:00.accessibility.json) |
@@ -430,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 10 at 8:12 AM](https://archive.org/download/newstribune-2022/newstribune-2022-08-10T08:12:14.140482-05:00.accessibility.json) |
 | [August 9 at 8:00 PM](https://archive.org/download/newstribune-2022/newstribune-2022-08-09T20:00:12.115900-05:00.accessibility.json) |
 | [August 9 at 7:59 AM](https://archive.org/download/newstribune-2022/newstribune-2022-08-09T07:59:49.620677-05:00.accessibility.json) |
-| [August 8 at 7:54 PM](https://archive.org/download/newstribune-2022/newstribune-2022-08-08T19:54:42.242091-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 42 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 43 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 13 at 10:19 PM](https://archive.org/download/newstribune-2022/newstribune-2022-08-13T22:19:25.227509-05:00.lighthouse.json) |
 | [August 13 at 8:15 AM](https://archive.org/download/newstribune-2022/newstribune-2022-08-13T08:15:19.100900-05:00.lighthouse.json) |
 | [August 12 at 7:45 PM](https://archive.org/download/newstribune-2022/newstribune-2022-08-12T19:45:46.944227-05:00.lighthouse.json) |
 | [August 12 at 8:25 AM](https://archive.org/download/newstribune-2022/newstribune-2022-08-12T08:25:31.269477-05:00.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 10 at 8:12 AM](https://archive.org/download/newstribune-2022/newstribune-2022-08-10T08:12:14.140482-05:00.lighthouse.json) |
 | [August 9 at 8:00 PM](https://archive.org/download/newstribune-2022/newstribune-2022-08-09T20:00:12.115900-05:00.lighthouse.json) |
 | [August 9 at 7:59 AM](https://archive.org/download/newstribune-2022/newstribune-2022-08-09T07:59:49.620677-05:00.lighthouse.json) |
-| [August 8 at 7:54 PM](https://archive.org/download/newstribune-2022/newstribune-2022-08-08T19:54:42.242091-05:00.lighthouse.json) |
 
 
 

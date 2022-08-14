@@ -22,13 +22,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 27 screenshots with the Internet Archive.
+The archiving routine has saved 29 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theriotimes-2022/theriotimes-2022-08-14T10:38:44.914306-03:00.jpg">
+  <img src="https://archive.org/download/theriotimes-2022/theriotimes-2022-08-14T10:38:44.914306-03:00.jpg"
+     alt="Rio Times at 2022-08-14 10:38:46-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theriotimes-2022/theriotimes-2022-08-14T10:38:44.914306-03:00.jpg">August 14 at 10:38 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theriotimes-2022/theriotimes-2022-08-14T02:07:23.993002-03:00.jpg">
+  <img src="https://archive.org/download/theriotimes-2022/theriotimes-2022-08-14T02:07:23.993002-03:00.jpg"
+     alt="Rio Times at 2022-08-14 02:07:26-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theriotimes-2022/theriotimes-2022-08-14T02:07:23.993002-03:00.jpg">August 14 at 2:07 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theriotimes-2022/theriotimes-2022-08-13T17:46:03.094140-03:00.jpg">
@@ -120,29 +138,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/theriotimes-2022/theriotimes-2022-08-10T23:27:57.695095-03:00.jpg">August 10 at 11:28 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/theriotimes-2022/theriotimes-2022-08-10T10:22:30.795403-03:00.jpg">
-  <img src="https://archive.org/download/theriotimes-2022/theriotimes-2022-08-10T10:22:30.795403-03:00.jpg"
-     alt="Rio Times at 2022-08-10 10:22:32-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theriotimes-2022/theriotimes-2022-08-10T10:22:30.795403-03:00.jpg">August 10 at 10:22 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/theriotimes-2022/theriotimes-2022-08-09T23:39:06.781532-03:00.jpg">
-  <img src="https://archive.org/download/theriotimes-2022/theriotimes-2022-08-09T23:39:06.781532-03:00.jpg"
-     alt="Rio Times at 2022-08-09 23:39:08-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theriotimes-2022/theriotimes-2022-08-09T23:39:06.781532-03:00.jpg">August 9 at 11:39 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 28 hyperlink lists with the Internet Archive.
+The archiving routine has saved 30 hyperlink lists with the Internet Archive.
 
 
 
@@ -150,6 +150,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 14 at 10:38 AM](https://archive.org/download/theriotimes-2022/theriotimes-2022-08-14T10:38:44.914306-03:00.hyperlinks.json) |
+| [August 14 at 2:07 AM](https://archive.org/download/theriotimes-2022/theriotimes-2022-08-14T02:07:23.993002-03:00.hyperlinks.json) |
 | [August 13 at 5:46 PM](https://archive.org/download/theriotimes-2022/theriotimes-2022-08-13T17:46:03.094140-03:00.hyperlinks.json) |
 | [August 13 at 10:03 AM](https://archive.org/download/theriotimes-2022/theriotimes-2022-08-13T10:03:20.918378-03:00.hyperlinks.json) |
 | [August 12 at 11:18 PM](https://archive.org/download/theriotimes-2022/theriotimes-2022-08-12T23:17:57.929062-03:00.hyperlinks.json) |
@@ -158,13 +160,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 6:35 AM](https://archive.org/download/theriotimes-2022/theriotimes-2022-08-12T06:35:34.077464-03:00.hyperlinks.json) |
 | [August 11 at 11:06 PM](https://archive.org/download/theriotimes-2022/theriotimes-2022-08-11T23:06:29.862190-03:00.hyperlinks.json) |
 | [August 11 at 2:08 PM](https://archive.org/download/theriotimes-2022/theriotimes-2022-08-11T14:07:56.013504-03:00.hyperlinks.json) |
-| [August 11 at 10:29 AM](https://archive.org/download/theriotimes-2022/theriotimes-2022-08-11T10:29:39.890123-03:00.hyperlinks.json) |
-| [August 10 at 11:28 PM](https://archive.org/download/theriotimes-2022/theriotimes-2022-08-10T23:27:57.695095-03:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 28 accessibility trees with the Internet Archive.
+The archiving routine has saved 30 accessibility trees with the Internet Archive.
 
 
 
@@ -172,6 +172,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 14 at 10:38 AM](https://archive.org/download/theriotimes-2022/theriotimes-2022-08-14T10:38:44.914306-03:00.accessibility.json) |
+| [August 14 at 2:07 AM](https://archive.org/download/theriotimes-2022/theriotimes-2022-08-14T02:07:23.993002-03:00.accessibility.json) |
 | [August 13 at 5:46 PM](https://archive.org/download/theriotimes-2022/theriotimes-2022-08-13T17:46:03.094140-03:00.accessibility.json) |
 | [August 13 at 10:03 AM](https://archive.org/download/theriotimes-2022/theriotimes-2022-08-13T10:03:20.918378-03:00.accessibility.json) |
 | [August 12 at 11:18 PM](https://archive.org/download/theriotimes-2022/theriotimes-2022-08-12T23:17:57.929062-03:00.accessibility.json) |
@@ -180,8 +182,6 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 6:35 AM](https://archive.org/download/theriotimes-2022/theriotimes-2022-08-12T06:35:34.077464-03:00.accessibility.json) |
 | [August 11 at 11:06 PM](https://archive.org/download/theriotimes-2022/theriotimes-2022-08-11T23:06:29.862190-03:00.accessibility.json) |
 | [August 11 at 2:07 PM](https://archive.org/download/theriotimes-2022/theriotimes-2022-08-11T14:07:56.013504-03:00.accessibility.json) |
-| [August 11 at 10:29 AM](https://archive.org/download/theriotimes-2022/theriotimes-2022-08-11T10:29:39.890123-03:00.accessibility.json) |
-| [August 10 at 11:28 PM](https://archive.org/download/theriotimes-2022/theriotimes-2022-08-10T23:27:57.695095-03:00.accessibility.json) |
 
 
 

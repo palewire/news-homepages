@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 265 screenshots with the Internet Archive.
+The archiving routine has saved 266 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 265 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theblaze-2022/theblaze-2022-08-14T03:07:39.940307-04:00.jpg">
+  <img src="https://archive.org/download/theblaze-2022/theblaze-2022-08-14T03:07:39.940307-04:00.jpg"
+     alt="Blaze at 2022-08-14 03:07:47-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-08-14T03:07:39.940307-04:00.jpg">August 14 at 3:07 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theblaze-2022/theblaze-2022-08-13T17:29:36.880860-04:00.jpg">
@@ -212,20 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-08-10T14:28:38.021865-04:00.jpg">August 10 at 2:28 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/theblaze-2022/theblaze-2022-08-10T01:34:06.642105-04:00.jpg">
-  <img src="https://archive.org/download/theblaze-2022/theblaze-2022-08-10T01:34:06.642105-04:00.jpg"
-     alt="Blaze at 2022-08-10 01:34:07-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theblaze-2022/theblaze-2022-08-10T01:34:06.642105-04:00.jpg">August 10 at 1:34 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 252 hyperlink lists with the Internet Archive.
+The archiving routine has saved 253 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 14 at 3:07 AM](https://archive.org/download/theblaze-2022/theblaze-2022-08-14T03:07:39.940307-04:00.hyperlinks.json) |
 | [August 13 at 5:03 PM](https://archive.org/download/theblaze-2022/theblaze-2022-08-13T17:03:05.555046-04:00.hyperlinks.json) |
 | [August 13 at 1:14 AM](https://archive.org/download/theblaze-2022/theblaze-2022-08-13T01:13:59.866466-04:00.hyperlinks.json) |
 | [August 12 at 2:27 PM](https://archive.org/download/theblaze-2022/theblaze-2022-08-12T14:26:48.698872-04:00.hyperlinks.json) |
@@ -325,7 +326,6 @@ Here are the 10 most recent hyperlink lists.
 | [August 11 at 1:27 AM](https://archive.org/download/theblaze-2022/theblaze-2022-08-11T01:27:18.247857-04:00.hyperlinks.json) |
 | [August 10 at 1:34 AM](https://archive.org/download/theblaze-2022/theblaze-2022-08-10T01:34:06.642105-04:00.hyperlinks.json) |
 | [August 9 at 1:55 PM](https://archive.org/download/theblaze-2022/theblaze-2022-08-09T13:55:03.491044-04:00.hyperlinks.json) |
-| [August 9 at 1:10 AM](https://archive.org/download/theblaze-2022/theblaze-2022-08-09T01:10:32.695410-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -436,7 +436,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 63 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 64 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 14 at 3:07 AM](https://archive.org/download/theblaze-2022/theblaze-2022-08-14T03:07:39.940307-04:00.lighthouse.json) |
 | [August 13 at 5:29 PM](https://archive.org/download/theblaze-2022/theblaze-2022-08-13T17:29:36.880860-04:00.lighthouse.json) |
 | [August 13 at 5:03 PM](https://archive.org/download/theblaze-2022/theblaze-2022-08-13T17:03:05.555046-04:00.lighthouse.json) |
 | [August 13 at 1:14 AM](https://archive.org/download/theblaze-2022/theblaze-2022-08-13T01:13:59.866466-04:00.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 11 at 3:40 PM](https://archive.org/download/theblaze-2022/theblaze-2022-08-11T15:40:17.053757-04:00.lighthouse.json) |
 | [August 11 at 2:58 PM](https://archive.org/download/theblaze-2022/theblaze-2022-08-11T14:57:51.615185-04:00.lighthouse.json) |
 | [August 11 at 1:27 AM](https://archive.org/download/theblaze-2022/theblaze-2022-08-11T01:27:18.247857-04:00.lighthouse.json) |
-| [August 10 at 3:39 PM](https://archive.org/download/theblaze-2022/theblaze-2022-08-10T15:39:09.042802-04:00.lighthouse.json) |
 
 
 

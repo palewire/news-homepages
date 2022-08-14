@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 42 screenshots with the Internet Archive.
+The archiving routine has saved 43 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 42 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theappeal-2022/theappeal-2022-08-14T03:07:24.932914-04:00.jpg">
+  <img src="https://archive.org/download/theappeal-2022/theappeal-2022-08-14T03:07:24.932914-04:00.jpg"
+     alt="Appeal at 2022-08-14 03:07:27-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theappeal-2022/theappeal-2022-08-14T03:07:24.932914-04:00.jpg">August 14 at 3:07 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theappeal-2022/theappeal-2022-08-13T17:03:02.673393-04:00.jpg">
@@ -212,20 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/theappeal-2022/theappeal-2022-08-08T13:20:53.644641-04:00.jpg">August 8 at 1:20 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/theappeal-2022/theappeal-2022-08-08T01:27:10.960141-04:00.jpg">
-  <img src="https://archive.org/download/theappeal-2022/theappeal-2022-08-08T01:27:10.960141-04:00.jpg"
-     alt="Appeal at 2022-08-08 01:27:13-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theappeal-2022/theappeal-2022-08-08T01:27:10.960141-04:00.jpg">August 8 at 1:27 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 42 hyperlink lists with the Internet Archive.
+The archiving routine has saved 43 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 14 at 3:07 AM](https://archive.org/download/theappeal-2022/theappeal-2022-08-14T03:07:24.932914-04:00.hyperlinks.json) |
 | [August 13 at 5:03 PM](https://archive.org/download/theappeal-2022/theappeal-2022-08-13T17:03:02.673393-04:00.hyperlinks.json) |
 | [August 13 at 1:13 AM](https://archive.org/download/theappeal-2022/theappeal-2022-08-13T01:13:47.337522-04:00.hyperlinks.json) |
 | [August 12 at 2:26 PM](https://archive.org/download/theappeal-2022/theappeal-2022-08-12T14:26:46.910964-04:00.hyperlinks.json) |
@@ -325,12 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 10 at 2:25 PM](https://archive.org/download/theappeal-2022/theappeal-2022-08-10T14:25:31.047605-04:00.hyperlinks.json) |
 | [August 10 at 1:33 AM](https://archive.org/download/theappeal-2022/theappeal-2022-08-10T01:33:34.274845-04:00.hyperlinks.json) |
 | [August 9 at 1:55 PM](https://archive.org/download/theappeal-2022/theappeal-2022-08-09T13:55:05.699411-04:00.hyperlinks.json) |
-| [August 9 at 1:10 AM](https://archive.org/download/theappeal-2022/theappeal-2022-08-09T01:10:44.753914-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 42 accessibility trees with the Internet Archive.
+The archiving routine has saved 43 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 14 at 3:07 AM](https://archive.org/download/theappeal-2022/theappeal-2022-08-14T03:07:24.932914-04:00.accessibility.json) |
 | [August 13 at 5:03 PM](https://archive.org/download/theappeal-2022/theappeal-2022-08-13T17:03:02.673393-04:00.accessibility.json) |
 | [August 13 at 1:13 AM](https://archive.org/download/theappeal-2022/theappeal-2022-08-13T01:13:47.337522-04:00.accessibility.json) |
 | [August 12 at 2:26 PM](https://archive.org/download/theappeal-2022/theappeal-2022-08-12T14:26:46.910964-04:00.accessibility.json) |
@@ -430,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 10 at 2:25 PM](https://archive.org/download/theappeal-2022/theappeal-2022-08-10T14:25:31.047605-04:00.accessibility.json) |
 | [August 10 at 1:33 AM](https://archive.org/download/theappeal-2022/theappeal-2022-08-10T01:33:34.274845-04:00.accessibility.json) |
 | [August 9 at 1:55 PM](https://archive.org/download/theappeal-2022/theappeal-2022-08-09T13:55:05.699411-04:00.accessibility.json) |
-| [August 9 at 1:10 AM](https://archive.org/download/theappeal-2022/theappeal-2022-08-09T01:10:44.753914-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 42 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 43 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 14 at 3:07 AM](https://archive.org/download/theappeal-2022/theappeal-2022-08-14T03:07:24.932914-04:00.lighthouse.json) |
 | [August 13 at 5:03 PM](https://archive.org/download/theappeal-2022/theappeal-2022-08-13T17:03:02.673393-04:00.lighthouse.json) |
 | [August 13 at 1:13 AM](https://archive.org/download/theappeal-2022/theappeal-2022-08-13T01:13:47.337522-04:00.lighthouse.json) |
 | [August 12 at 2:26 PM](https://archive.org/download/theappeal-2022/theappeal-2022-08-12T14:26:46.910964-04:00.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 10 at 2:26 PM](https://archive.org/download/theappeal-2022/theappeal-2022-08-10T14:25:31.047605-04:00.lighthouse.json) |
 | [August 10 at 1:33 AM](https://archive.org/download/theappeal-2022/theappeal-2022-08-10T01:33:34.274845-04:00.lighthouse.json) |
 | [August 9 at 1:55 PM](https://archive.org/download/theappeal-2022/theappeal-2022-08-09T13:55:05.699411-04:00.lighthouse.json) |
-| [August 9 at 1:10 AM](https://archive.org/download/theappeal-2022/theappeal-2022-08-09T01:10:44.753914-04:00.lighthouse.json) |
 
 
 
