@@ -3,7 +3,7 @@
 
 # Latest screenshots
 
-The most recent homepages captured from 801 news sites.
+The most recent homepages captured from 803 news sites.
 
 <div class="latest-parent">
 
@@ -3959,6 +3959,15 @@ The most recent homepages captured from 801 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/green_footballs.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/green_footballs.jpg"
+     alt="Little Green Footballs"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/green_footballs.html">Little Green Footballs</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/littlevillage.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/littlevillage.jpg"
      alt="Little Village"
@@ -5396,6 +5405,15 @@ The most recent homepages captured from 801 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/redstate.html">RedState</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/reductress.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/reductress.jpg"
+     alt="Reductress"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/reductress.html">Reductress</a></p>
 </div>
 
 <div class="latest-child">

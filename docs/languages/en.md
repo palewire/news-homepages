@@ -7,7 +7,7 @@ orphan: true
 
 # English
 
-The most recent homepages from 629 news sites in this language.
+The most recent homepages from 631 news sites in this language.
 
 <div class="latest-parent">
 
@@ -3036,6 +3036,15 @@ The most recent homepages from 629 news sites in this language.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/green_footballs.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/green_footballs.jpg"
+     alt="Little Green Footballs"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/green_footballs.html">Little Green Footballs</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/littlevillage.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/littlevillage.jpg"
      alt="Little Village"
@@ -4140,6 +4149,15 @@ The most recent homepages from 629 news sites in this language.
      loading="lazy">
  </a>
  <p><a href="../sites/redstate.html">RedState</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/reductress.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/reductress.jpg"
+     alt="Reductress"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/reductress.html">Reductress</a></p>
 </div>
 
 <div class="latest-child">
@@ -6020,6 +6038,7 @@ The most recent homepages from 629 news sites in this language.
 |[LEX 18 News](https://palewi.re/docs/news-homepages/sites/lex18news.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lex18news.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lex18news.xml)|
 |[Lexington Herald-Leader](https://palewi.re/docs/news-homepages/sites/heraldleader.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/heraldleader.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/heraldleader.xml)|
 |[Lincoln Journal Star](https://palewi.re/docs/news-homepages/sites/journalstarnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/journalstarnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/journalstarnews.xml)|
+|[Little Green Footballs](https://palewi.re/docs/news-homepages/sites/green_footballs.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/green_footballs.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/green_footballs.xml)|
 |[Little Village](https://palewi.re/docs/news-homepages/sites/littlevillage.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/littlevillage.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/littlevillage.xml)|
 |[Local News Matters](https://palewi.re/docs/news-homepages/sites/bcn_foundation.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bcn_foundation.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bcn_foundation.xml)|
 |[Lookout Santa Cruz](https://palewi.re/docs/news-homepages/sites/lookoutscruz.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lookoutscruz.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lookoutscruz.xml)|
@@ -6143,6 +6162,7 @@ The most recent homepages from 629 news sites in this language.
 |[Real News](https://palewi.re/docs/news-homepages/sites/therealnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/therealnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/therealnews.xml)|
 |[Reason](https://palewi.re/docs/news-homepages/sites/reason.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/reason.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/reason.xml)|
 |[RedState](https://palewi.re/docs/news-homepages/sites/redstate.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/redstate.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/redstate.xml)|
+|[Reductress](https://palewi.re/docs/news-homepages/sites/reductress.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/reductress.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/reductress.xml)|
 |[Rest of World](https://palewi.re/docs/news-homepages/sites/restofworld.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/restofworld.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/restofworld.xml)|
 |[Reuters](https://palewi.re/docs/news-homepages/sites/reuters.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/reuters.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/reuters.xml)|
 |[Reveal](https://palewi.re/docs/news-homepages/sites/reveal.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/reveal.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/reveal.xml)|
