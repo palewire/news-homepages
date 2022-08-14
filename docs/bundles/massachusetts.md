@@ -7,7 +7,7 @@ orphan: true
 
 # Massachusetts
 
-The most recent homepages from 6 news sites in this bundle.
+The most recent homepages from 7 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -18,6 +18,15 @@ The most recent homepages from 6 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/berkshireeagle.html">Berkshire Eagle</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/bosbizjournal.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bosbizjournal.jpg"
+     alt="Boston Business Journal"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/bosbizjournal.html">Boston Business Journal</a></p>
 </div>
 
 <div class="latest-child">
@@ -81,6 +90,7 @@ The most recent homepages from 6 news sites in this bundle.
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |
 |[Berkshire Eagle](https://palewi.re/docs/news-homepages/sites/berkshireeagle.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/berkshireeagle.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/berkshireeagle.xml)|
+|[Boston Business Journal](https://palewi.re/docs/news-homepages/sites/bosbizjournal.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bosbizjournal.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bosbizjournal.xml)|
 |[Boston Globe](https://palewi.re/docs/news-homepages/sites/bostonglobe.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bostonglobe.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bostonglobe.xml)|
 |[Boston Herald](https://palewi.re/docs/news-homepages/sites/bostonherald.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bostonherald.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bostonherald.xml)|
 |[Boston Institute for Nonprofit Journalism](https://palewi.re/docs/news-homepages/sites/binjreports.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/binjreports.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/binjreports.xml)|

@@ -3,7 +3,7 @@
 
 # Bundle directory
 
-The archiving routine is currently organized into 54 bundles of sites.
+The archiving routine is currently organized into 55 bundles of sites.
 
 | Bundle  | RSS |
 | :-----  | :-- |
@@ -15,6 +15,7 @@ The archiving routine is currently organized into 54 bundles of sites.
 |[Capitol Hill](https://palewi.re/docs/news-homepages/bundles/capitol-hill.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/capitol-hill.xml)|
 |[Chess](https://palewi.re/docs/news-homepages/bundles/chess.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/chess.xml)|
 |[Chicago](https://palewi.re/docs/news-homepages/bundles/chicago.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/chicago.xml)|
+|[Colorado](https://palewi.re/docs/news-homepages/bundles/colorado.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/colorado.xml)|
 |[Eastern Europe](https://palewi.re/docs/news-homepages/bundles/eastern-europe.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/eastern-europe.xml)|
 |[Entertainment](https://palewi.re/docs/news-homepages/bundles/entertainment.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/entertainment.xml)|
 |[Florida](https://palewi.re/docs/news-homepages/bundles/florida.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/florida.xml)|

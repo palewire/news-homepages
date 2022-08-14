@@ -3,14 +3,15 @@
 
 # Language directory
 
-The archiving routine is currently saving sites in 13 languages.
+The archiving routine is currently saving sites in 14 languages.
 
 | Country  | Sites |
 | :------- | :---- |
 |[Chinese](https://palewi.re/docs/news-homepages/languages/zh.html)|4|
-|[English](https://palewi.re/docs/news-homepages/languages/en.html)|615|
+|[English](https://palewi.re/docs/news-homepages/languages/en.html)|629|
 |[French](https://palewi.re/docs/news-homepages/languages/fr.html)|20|
 |[German](https://palewi.re/docs/news-homepages/languages/de.html)|8|
+|[Hebrew](https://palewi.re/docs/news-homepages/languages/he.html)|5|
 |[Hindi](https://palewi.re/docs/news-homepages/languages/hi.html)|7|
 |[Italian](https://palewi.re/docs/news-homepages/languages/it.html)|4|
 |[Japanese](https://palewi.re/docs/news-homepages/languages/ja.html)|9|

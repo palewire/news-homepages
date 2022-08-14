@@ -3,7 +3,7 @@
 
 # Country directory
 
-The archiving routine is currently saving sites in 29 countries.
+The archiving routine is currently saving sites in 30 countries.
 
 | Country  | Sites | RSS |
 | :------- | :---- | :-- |
@@ -20,6 +20,7 @@ The archiving routine is currently saving sites in 29 countries.
 |[Germany](https://palewi.re/docs/news-homepages/countries/de.html)|9|[🔗](https://palewi.re/docs/news-homepages/rss/countries/de.xml)|
 |[India](https://palewi.re/docs/news-homepages/countries/in.html)|9|[🔗](https://palewi.re/docs/news-homepages/rss/countries/in.xml)|
 |[Ireland](https://palewi.re/docs/news-homepages/countries/ie.html)|6|[🔗](https://palewi.re/docs/news-homepages/rss/countries/ie.xml)|
+|[Israel](https://palewi.re/docs/news-homepages/countries/il.html)|6|[🔗](https://palewi.re/docs/news-homepages/rss/countries/il.xml)|
 |[Italy](https://palewi.re/docs/news-homepages/countries/it.html)|4|[🔗](https://palewi.re/docs/news-homepages/rss/countries/it.xml)|
 |[Japan](https://palewi.re/docs/news-homepages/countries/jp.html)|9|[🔗](https://palewi.re/docs/news-homepages/rss/countries/jp.xml)|
 |[Latvia](https://palewi.re/docs/news-homepages/countries/lv.html)|1|[🔗](https://palewi.re/docs/news-homepages/rss/countries/lv.xml)|
@@ -34,11 +35,11 @@ The archiving routine is currently saving sites in 29 countries.
 |[Taiwan, Province of China](https://palewi.re/docs/news-homepages/countries/tw.html)|4|[🔗](https://palewi.re/docs/news-homepages/rss/countries/tw.xml)|
 |[Ukraine](https://palewi.re/docs/news-homepages/countries/ua.html)|6|[🔗](https://palewi.re/docs/news-homepages/rss/countries/ua.xml)|
 |[United Kingdom of Great Britain and Northern Ireland](https://palewi.re/docs/news-homepages/countries/gb.html)|24|[🔗](https://palewi.re/docs/news-homepages/rss/countries/gb.xml)|
-|[United States of America](https://palewi.re/docs/news-homepages/countries/us.html)|557|[🔗](https://palewi.re/docs/news-homepages/rss/countries/us.xml)|
+|[United States of America](https://palewi.re/docs/news-homepages/countries/us.html)|570|[🔗](https://palewi.re/docs/news-homepages/rss/countries/us.xml)|
 |[Uruguay](https://palewi.re/docs/news-homepages/countries/uy.html)|1|[🔗](https://palewi.re/docs/news-homepages/rss/countries/uy.xml)|
 
 
-The system is not yet archiving sites in the following 221 countries. Help us expand our coverage. Read [our guide to adding sites](https://palewi.re/docs/news-homepages/adding.html) and make a contribution.
+The system is not yet archiving sites in the following 220 countries. Help us expand our coverage. Read [our guide to adding sites](https://palewi.re/docs/news-homepages/adding.html) and make a contribution.
 
 * Afghanistan
 * Albania
@@ -135,7 +136,6 @@ The system is not yet archiving sites in the following 221 countries. Help us ex
 * Iran, Islamic Republic of
 * Iraq
 * Isle of Man
-* Israel
 * Jamaica
 * Jersey
 * Jordan
