@@ -5,6 +5,7 @@ from pathlib import Path
 
 import click
 from playwright.sync_api import Error, sync_playwright
+from retry import retry
 from rich import print
 
 from . import utils
@@ -23,6 +24,7 @@ def cli(handle: str, output_dir: str, wait: str, width: str, height: str):
     _screenshot(site, output_path, wait=int(wait), width=int(width), height=int(height))
 
 
+@retry(tries=3, delay=5, backoff=2)
 def _screenshot(
     site: typing.Dict,
     output_path: Path,
