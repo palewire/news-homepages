@@ -7,7 +7,7 @@ orphan: true
 
 # U.S. left wing
 
-The most recent homepages from 27 news sites in this bundle.
+The most recent homepages from 28 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -254,6 +254,15 @@ The most recent homepages from 27 news sites in this bundle.
  <p><a href="../sites/voxdotcom.html">Vox</a></p>
 </div>
 
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/wonkette.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wonkette.jpg"
+     alt="Wonkette"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/wonkette.html">Wonkette</a></p>
+</div>
+
 </div>
 
 ## About this bundle
@@ -296,3 +305,4 @@ The most recent homepages from 27 news sites in this bundle.
 |[Truthout](https://palewi.re/docs/news-homepages/sites/truthout.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/truthout.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/truthout.xml)|
 |[Unicorn Riot](https://palewi.re/docs/news-homepages/sites/ur_ninja.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ur_ninja.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ur_ninja.xml)|
 |[Vox](https://palewi.re/docs/news-homepages/sites/voxdotcom.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/voxdotcom.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/voxdotcom.xml)|
+|[Wonkette](https://palewi.re/docs/news-homepages/sites/wonkette.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/wonkette.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/wonkette.xml)|
