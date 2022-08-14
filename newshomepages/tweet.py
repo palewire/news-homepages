@@ -38,11 +38,11 @@ def update_list():
     print(f":newspaper: {len(source_list)} sources in the archive")
 
     # Add what's missing
-    missing_list = list(set(source_list) - set(screenname_list))
+    missing_list = list(set(source_list) - set(screenname_list))[:5]
     print(f":bird: Adding {len(missing_list)} new sources to Twitter list")
-    for chunk in track(utils.chunk(missing_list, 10)):
-        api.CreateListsMember(list_id=1558434500304158720, screen_name=chunk)
-        time.sleep(0.5)
+    for obj in track(missing_list):
+        api.CreateListsMember(list_id=1558434500304158720, screen_name=obj)
+        time.sleep(2)
 
 
 @cli.command()
