@@ -5,7 +5,7 @@ from pathlib import Path
 
 import click
 import requests
-from requests.adapters import HTTPAdapter, Retry
+from retry import retry
 from rich import print
 
 from . import utils
@@ -88,11 +88,9 @@ def cli(handle: str, output_dir: str):
         json.dump(capture_data, fp, indent=2)
 
 
+@retry(tries=3, delay=5, backoff=2)
 def _request(url):
-    s = requests.Session()
-    retries = Retry(total=3, backoff_factor=1)
-    s.mount("https://", HTTPAdapter(max_retries=retries))
-    return s.get(url)
+    return requests.get(url)
 
 
 if __name__ == "__main__":
