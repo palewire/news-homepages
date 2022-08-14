@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 696 screenshots with the Internet Archive.
+The archiving routine has saved 698 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -114,118 +114,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/cnn-2022/cnn-2022-08-12T17:12:52.037071-04:00.jpg">
-  <img src="https://archive.org/download/cnn-2022/cnn-2022-08-12T17:12:52.037071-04:00.jpg"
-     alt="CNN at 2022-08-12 10:12:54-04:00 local time"
+ <a href="https://archive.org/download/cnn-2022/cnn-2022-08-13T16:42:09.286499-04:00.jpg">
+  <img src="https://archive.org/download/cnn-2022/cnn-2022-08-13T16:42:09.286499-04:00.jpg"
+     alt="CNN at 2022-08-13 16:42:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cnn-2022/cnn-2022-08-12T17:12:52.037071-04:00.jpg">August 12 at 10:12 AM</a></p>
+ <p><a href="https://archive.org/download/cnn-2022/cnn-2022-08-13T16:42:09.286499-04:00.jpg">August 13 at 4:42 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cnn-2022/cnn-2022-08-12T22:13:28.280431-04:00.jpg">
+  <img src="https://archive.org/download/cnn-2022/cnn-2022-08-12T22:13:28.280431-04:00.jpg"
+     alt="CNN at 2022-08-12 22:13:37-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cnn-2022/cnn-2022-08-12T22:13:28.280431-04:00.jpg">August 12 at 10:13 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cnn-2022/cnn-2022-08-12T17:12:52.037071-04:00.jpg">
+  <img src="https://archive.org/download/cnn-2022/cnn-2022-08-12T17:12:52.037071-04:00.jpg"
+     alt="CNN at 2022-08-12 17:12:54-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cnn-2022/cnn-2022-08-12T17:12:52.037071-04:00.jpg">August 12 at 5:12 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cnn-2022/cnn-2022-08-12T12:18:48.959695-04:00.jpg">
   <img src="https://archive.org/download/cnn-2022/cnn-2022-08-12T12:18:48.959695-04:00.jpg"
-     alt="CNN at 2022-08-12 05:18:51-04:00 local time"
+     alt="CNN at 2022-08-12 12:18:51-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cnn-2022/cnn-2022-08-12T12:18:48.959695-04:00.jpg">August 12 at 5:18 AM</a></p>
+ <p><a href="https://archive.org/download/cnn-2022/cnn-2022-08-12T12:18:48.959695-04:00.jpg">August 12 at 12:18 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cnn-2022/cnn-2022-08-12T12:12:51.045625-04:00.jpg">
   <img src="https://archive.org/download/cnn-2022/cnn-2022-08-12T12:12:51.045625-04:00.jpg"
-     alt="CNN at 2022-08-12 05:12:59-04:00 local time"
+     alt="CNN at 2022-08-12 12:12:59-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cnn-2022/cnn-2022-08-12T12:12:51.045625-04:00.jpg">August 12 at 5:12 AM</a></p>
+ <p><a href="https://archive.org/download/cnn-2022/cnn-2022-08-12T12:12:51.045625-04:00.jpg">August 12 at 12:12 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cnn-2022/cnn-2022-08-12T05:31:47.051843-04:00.jpg">
   <img src="https://archive.org/download/cnn-2022/cnn-2022-08-12T05:31:47.051843-04:00.jpg"
-     alt="CNN at 2022-08-11 22:31:54-04:00 local time"
+     alt="CNN at 2022-08-12 05:31:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cnn-2022/cnn-2022-08-12T05:31:47.051843-04:00.jpg">August 11 at 10:31 PM</a></p>
+ <p><a href="https://archive.org/download/cnn-2022/cnn-2022-08-12T05:31:47.051843-04:00.jpg">August 12 at 5:31 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cnn-2022/cnn-2022-08-11T17:12:29.814097-04:00.jpg">
   <img src="https://archive.org/download/cnn-2022/cnn-2022-08-11T17:12:29.814097-04:00.jpg"
-     alt="CNN at 2022-08-11 10:12:32-04:00 local time"
+     alt="CNN at 2022-08-11 17:12:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cnn-2022/cnn-2022-08-11T17:12:29.814097-04:00.jpg">August 11 at 10:12 AM</a></p>
+ <p><a href="https://archive.org/download/cnn-2022/cnn-2022-08-11T17:12:29.814097-04:00.jpg">August 11 at 5:12 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cnn-2022/cnn-2022-08-11T13:04:04.174366-04:00.jpg">
   <img src="https://archive.org/download/cnn-2022/cnn-2022-08-11T13:04:04.174366-04:00.jpg"
-     alt="CNN at 2022-08-11 06:04:06-04:00 local time"
+     alt="CNN at 2022-08-11 13:04:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cnn-2022/cnn-2022-08-11T13:04:04.174366-04:00.jpg">August 11 at 6:04 AM</a></p>
+ <p><a href="https://archive.org/download/cnn-2022/cnn-2022-08-11T13:04:04.174366-04:00.jpg">August 11 at 1:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cnn-2022/cnn-2022-08-11T12:55:14.079143-04:00.jpg">
   <img src="https://archive.org/download/cnn-2022/cnn-2022-08-11T12:55:14.079143-04:00.jpg"
-     alt="CNN at 2022-08-11 05:55:15-04:00 local time"
+     alt="CNN at 2022-08-11 12:55:15-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cnn-2022/cnn-2022-08-11T12:55:14.079143-04:00.jpg">August 11 at 5:55 AM</a></p>
+ <p><a href="https://archive.org/download/cnn-2022/cnn-2022-08-11T12:55:14.079143-04:00.jpg">August 11 at 12:55 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cnn-2022/cnn-2022-08-10T22:25:05.568960-04:00.jpg">
   <img src="https://archive.org/download/cnn-2022/cnn-2022-08-10T22:25:05.568960-04:00.jpg"
-     alt="CNN at 2022-08-10 15:25:07-04:00 local time"
+     alt="CNN at 2022-08-10 22:25:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cnn-2022/cnn-2022-08-10T22:25:05.568960-04:00.jpg">August 10 at 3:25 PM</a></p>
+ <p><a href="https://archive.org/download/cnn-2022/cnn-2022-08-10T22:25:05.568960-04:00.jpg">August 10 at 10:25 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cnn-2022/cnn-2022-08-10T17:16:30.218868-04:00.jpg">
   <img src="https://archive.org/download/cnn-2022/cnn-2022-08-10T17:16:30.218868-04:00.jpg"
-     alt="CNN at 2022-08-10 10:16:42-04:00 local time"
+     alt="CNN at 2022-08-10 17:16:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cnn-2022/cnn-2022-08-10T17:16:30.218868-04:00.jpg">August 10 at 10:16 AM</a></p>
+ <p><a href="https://archive.org/download/cnn-2022/cnn-2022-08-10T17:16:30.218868-04:00.jpg">August 10 at 5:16 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cnn-2022/cnn-2022-08-10T13:46:22.406576-04:00.jpg">
   <img src="https://archive.org/download/cnn-2022/cnn-2022-08-10T13:46:22.406576-04:00.jpg"
-     alt="CNN at 2022-08-10 06:46:24-04:00 local time"
+     alt="CNN at 2022-08-10 13:46:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/cnn-2022/cnn-2022-08-10T13:46:22.406576-04:00.jpg">August 10 at 6:46 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/cnn-2022/cnn-2022-08-10T10:48:55.817982-04:00.jpg">
-  <img src="https://archive.org/download/cnn-2022/cnn-2022-08-10T10:48:55.817982-04:00.jpg"
-     alt="CNN at 2022-08-10 03:49:09-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cnn-2022/cnn-2022-08-10T10:48:55.817982-04:00.jpg">August 10 at 3:49 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/cnn-2022/cnn-2022-08-09T22:34:44.599857-04:00.jpg">
-  <img src="https://archive.org/download/cnn-2022/cnn-2022-08-09T22:34:44.599857-04:00.jpg"
-     alt="CNN at 2022-08-09 15:34:46-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cnn-2022/cnn-2022-08-09T22:34:44.599857-04:00.jpg">August 9 at 3:34 PM</a></p>
+ <p><a href="https://archive.org/download/cnn-2022/cnn-2022-08-10T13:46:22.406576-04:00.jpg">August 10 at 1:46 PM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 636 hyperlink lists with the Internet Archive.
+The archiving routine has saved 637 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,21 +316,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 12 at 10:12 AM](https://archive.org/download/cnn-2022/cnn-2022-08-12T17:12:52.037071-04:00.hyperlinks.json) |
-| [August 12 at 5:18 AM](https://archive.org/download/cnn-2022/cnn-2022-08-12T12:18:48.959695-04:00.hyperlinks.json) |
-| [August 11 at 10:31 PM](https://archive.org/download/cnn-2022/cnn-2022-08-12T05:31:47.051843-04:00.hyperlinks.json) |
-| [August 11 at 3:03 PM](https://archive.org/download/cnn-2022/cnn-2022-08-11T22:03:27.827918-04:00.hyperlinks.json) |
-| [August 11 at 10:12 AM](https://archive.org/download/cnn-2022/cnn-2022-08-11T17:12:29.814097-04:00.hyperlinks.json) |
-| [August 11 at 6:04 AM](https://archive.org/download/cnn-2022/cnn-2022-08-11T13:04:04.174366-04:00.hyperlinks.json) |
-| [August 11 at 5:55 AM](https://archive.org/download/cnn-2022/cnn-2022-08-11T12:55:14.079143-04:00.hyperlinks.json) |
-| [August 10 at 3:25 PM](https://archive.org/download/cnn-2022/cnn-2022-08-10T22:25:05.568960-04:00.hyperlinks.json) |
-| [August 10 at 10:16 AM](https://archive.org/download/cnn-2022/cnn-2022-08-10T17:16:30.218868-04:00.hyperlinks.json) |
-| [August 10 at 6:46 AM](https://archive.org/download/cnn-2022/cnn-2022-08-10T13:46:22.406576-04:00.hyperlinks.json) |
+| [August 12 at 10:13 PM](https://archive.org/download/cnn-2022/cnn-2022-08-12T22:13:28.280431-04:00.hyperlinks.json) |
+| [August 12 at 5:12 PM](https://archive.org/download/cnn-2022/cnn-2022-08-12T17:12:52.037071-04:00.hyperlinks.json) |
+| [August 12 at 12:18 PM](https://archive.org/download/cnn-2022/cnn-2022-08-12T12:18:48.959695-04:00.hyperlinks.json) |
+| [August 12 at 5:31 AM](https://archive.org/download/cnn-2022/cnn-2022-08-12T05:31:47.051843-04:00.hyperlinks.json) |
+| [August 11 at 10:03 PM](https://archive.org/download/cnn-2022/cnn-2022-08-11T22:03:27.827918-04:00.hyperlinks.json) |
+| [August 11 at 5:12 PM](https://archive.org/download/cnn-2022/cnn-2022-08-11T17:12:29.814097-04:00.hyperlinks.json) |
+| [August 11 at 1:04 PM](https://archive.org/download/cnn-2022/cnn-2022-08-11T13:04:04.174366-04:00.hyperlinks.json) |
+| [August 11 at 12:55 PM](https://archive.org/download/cnn-2022/cnn-2022-08-11T12:55:14.079143-04:00.hyperlinks.json) |
+| [August 10 at 10:25 PM](https://archive.org/download/cnn-2022/cnn-2022-08-10T22:25:05.568960-04:00.hyperlinks.json) |
+| [August 10 at 5:16 PM](https://archive.org/download/cnn-2022/cnn-2022-08-10T17:16:30.218868-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 629 accessibility trees with the Internet Archive.
+The archiving routine has saved 631 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,22 +421,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 12 at 10:12 AM](https://archive.org/download/cnn-2022/cnn-2022-08-12T17:12:52.037071-04:00.accessibility.json) |
-| [August 12 at 5:18 AM](https://archive.org/download/cnn-2022/cnn-2022-08-12T12:18:48.959695-04:00.accessibility.json) |
-| [August 12 at 5:13 AM](https://archive.org/download/cnn-2022/cnn-2022-08-12T12:12:51.045625-04:00.accessibility.json) |
-| [August 11 at 10:31 PM](https://archive.org/download/cnn-2022/cnn-2022-08-12T05:31:47.051843-04:00.accessibility.json) |
-| [August 11 at 3:03 PM](https://archive.org/download/cnn-2022/cnn-2022-08-11T22:03:27.827918-04:00.accessibility.json) |
-| [August 11 at 10:12 AM](https://archive.org/download/cnn-2022/cnn-2022-08-11T17:12:29.814097-04:00.accessibility.json) |
-| [August 11 at 6:04 AM](https://archive.org/download/cnn-2022/cnn-2022-08-11T13:04:04.174366-04:00.accessibility.json) |
-| [August 11 at 5:55 AM](https://archive.org/download/cnn-2022/cnn-2022-08-11T12:55:14.079143-04:00.accessibility.json) |
-| [August 10 at 3:25 PM](https://archive.org/download/cnn-2022/cnn-2022-08-10T22:25:05.568960-04:00.accessibility.json) |
-| [August 10 at 10:16 AM](https://archive.org/download/cnn-2022/cnn-2022-08-10T17:16:30.218868-04:00.accessibility.json) |
+| [August 13 at 4:42 PM](https://archive.org/download/cnn-2022/cnn-2022-08-13T16:42:09.286499-04:00.accessibility.json) |
+| [August 12 at 10:13 PM](https://archive.org/download/cnn-2022/cnn-2022-08-12T22:13:28.280431-04:00.accessibility.json) |
+| [August 12 at 5:12 PM](https://archive.org/download/cnn-2022/cnn-2022-08-12T17:12:52.037071-04:00.accessibility.json) |
+| [August 12 at 12:18 PM](https://archive.org/download/cnn-2022/cnn-2022-08-12T12:18:48.959695-04:00.accessibility.json) |
+| [August 12 at 12:13 PM](https://archive.org/download/cnn-2022/cnn-2022-08-12T12:12:51.045625-04:00.accessibility.json) |
+| [August 12 at 5:31 AM](https://archive.org/download/cnn-2022/cnn-2022-08-12T05:31:47.051843-04:00.accessibility.json) |
+| [August 11 at 10:03 PM](https://archive.org/download/cnn-2022/cnn-2022-08-11T22:03:27.827918-04:00.accessibility.json) |
+| [August 11 at 5:12 PM](https://archive.org/download/cnn-2022/cnn-2022-08-11T17:12:29.814097-04:00.accessibility.json) |
+| [August 11 at 1:04 PM](https://archive.org/download/cnn-2022/cnn-2022-08-11T13:04:04.174366-04:00.accessibility.json) |
+| [August 11 at 12:55 PM](https://archive.org/download/cnn-2022/cnn-2022-08-11T12:55:14.079143-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 84 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 86 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 12 at 10:13 AM](https://archive.org/download/cnn-2022/cnn-2022-08-12T17:12:52.037071-04:00.lighthouse.json) |
-| [August 12 at 5:18 AM](https://archive.org/download/cnn-2022/cnn-2022-08-12T12:18:48.959695-04:00.lighthouse.json) |
-| [August 12 at 5:13 AM](https://archive.org/download/cnn-2022/cnn-2022-08-12T12:12:51.045625-04:00.lighthouse.json) |
-| [August 11 at 10:32 PM](https://archive.org/download/cnn-2022/cnn-2022-08-12T05:31:47.051843-04:00.lighthouse.json) |
-| [August 11 at 3:03 PM](https://archive.org/download/cnn-2022/cnn-2022-08-11T22:03:27.827918-04:00.lighthouse.json) |
-| [August 11 at 10:12 AM](https://archive.org/download/cnn-2022/cnn-2022-08-11T17:12:29.814097-04:00.lighthouse.json) |
-| [August 11 at 6:04 AM](https://archive.org/download/cnn-2022/cnn-2022-08-11T13:04:04.174366-04:00.lighthouse.json) |
-| [August 11 at 5:55 AM](https://archive.org/download/cnn-2022/cnn-2022-08-11T12:55:14.079143-04:00.lighthouse.json) |
-| [August 10 at 3:25 PM](https://archive.org/download/cnn-2022/cnn-2022-08-10T22:25:05.568960-04:00.lighthouse.json) |
-| [August 10 at 10:16 AM](https://archive.org/download/cnn-2022/cnn-2022-08-10T17:16:30.218868-04:00.lighthouse.json) |
+| [August 13 at 4:42 PM](https://archive.org/download/cnn-2022/cnn-2022-08-13T16:42:09.286499-04:00.lighthouse.json) |
+| [August 12 at 10:13 PM](https://archive.org/download/cnn-2022/cnn-2022-08-12T22:13:28.280431-04:00.lighthouse.json) |
+| [August 12 at 5:13 PM](https://archive.org/download/cnn-2022/cnn-2022-08-12T17:12:52.037071-04:00.lighthouse.json) |
+| [August 12 at 12:18 PM](https://archive.org/download/cnn-2022/cnn-2022-08-12T12:18:48.959695-04:00.lighthouse.json) |
+| [August 12 at 12:13 PM](https://archive.org/download/cnn-2022/cnn-2022-08-12T12:12:51.045625-04:00.lighthouse.json) |
+| [August 12 at 5:32 AM](https://archive.org/download/cnn-2022/cnn-2022-08-12T05:31:47.051843-04:00.lighthouse.json) |
+| [August 11 at 10:03 PM](https://archive.org/download/cnn-2022/cnn-2022-08-11T22:03:27.827918-04:00.lighthouse.json) |
+| [August 11 at 5:12 PM](https://archive.org/download/cnn-2022/cnn-2022-08-11T17:12:29.814097-04:00.lighthouse.json) |
+| [August 11 at 1:04 PM](https://archive.org/download/cnn-2022/cnn-2022-08-11T13:04:04.174366-04:00.lighthouse.json) |
+| [August 11 at 12:55 PM](https://archive.org/download/cnn-2022/cnn-2022-08-11T12:55:14.079143-04:00.lighthouse.json) |
 
 
 

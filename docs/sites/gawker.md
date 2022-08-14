@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 79 screenshots with the Internet Archive.
+The archiving routine has saved 81 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -114,118 +114,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/gawker-2022/gawker-2022-08-12T13:48:36.798130-04:00.jpg">
-  <img src="https://archive.org/download/gawker-2022/gawker-2022-08-12T13:48:36.798130-04:00.jpg"
-     alt="Gawker at 2022-08-12 06:48:38-04:00 local time"
+ <a href="https://archive.org/download/gawker-2022/gawker-2022-08-13T16:22:59.041436-04:00.jpg">
+  <img src="https://archive.org/download/gawker-2022/gawker-2022-08-13T16:22:59.041436-04:00.jpg"
+     alt="Gawker at 2022-08-13 16:23:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gawker-2022/gawker-2022-08-12T13:48:36.798130-04:00.jpg">August 12 at 6:48 AM</a></p>
+ <p><a href="https://archive.org/download/gawker-2022/gawker-2022-08-13T16:22:59.041436-04:00.jpg">August 13 at 4:23 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gawker-2022/gawker-2022-08-12T23:41:34.745904-04:00.jpg">
+  <img src="https://archive.org/download/gawker-2022/gawker-2022-08-12T23:41:34.745904-04:00.jpg"
+     alt="Gawker at 2022-08-12 23:41:37-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gawker-2022/gawker-2022-08-12T23:41:34.745904-04:00.jpg">August 12 at 11:41 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gawker-2022/gawker-2022-08-12T13:48:36.798130-04:00.jpg">
+  <img src="https://archive.org/download/gawker-2022/gawker-2022-08-12T13:48:36.798130-04:00.jpg"
+     alt="Gawker at 2022-08-12 13:48:38-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gawker-2022/gawker-2022-08-12T13:48:36.798130-04:00.jpg">August 12 at 1:48 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gawker-2022/gawker-2022-08-12T05:57:43.361175-04:00.jpg">
   <img src="https://archive.org/download/gawker-2022/gawker-2022-08-12T05:57:43.361175-04:00.jpg"
-     alt="Gawker at 2022-08-11 22:57:47-04:00 local time"
+     alt="Gawker at 2022-08-12 05:57:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gawker-2022/gawker-2022-08-12T05:57:43.361175-04:00.jpg">August 11 at 10:57 PM</a></p>
+ <p><a href="https://archive.org/download/gawker-2022/gawker-2022-08-12T05:57:43.361175-04:00.jpg">August 12 at 5:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gawker-2022/gawker-2022-08-11T14:39:02.015694-04:00.jpg">
   <img src="https://archive.org/download/gawker-2022/gawker-2022-08-11T14:39:02.015694-04:00.jpg"
-     alt="Gawker at 2022-08-11 07:39:03-04:00 local time"
+     alt="Gawker at 2022-08-11 14:39:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gawker-2022/gawker-2022-08-11T14:39:02.015694-04:00.jpg">August 11 at 7:39 AM</a></p>
+ <p><a href="https://archive.org/download/gawker-2022/gawker-2022-08-11T14:39:02.015694-04:00.jpg">August 11 at 2:39 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gawker-2022/gawker-2022-08-10T23:51:18.321460-04:00.jpg">
   <img src="https://archive.org/download/gawker-2022/gawker-2022-08-10T23:51:18.321460-04:00.jpg"
-     alt="Gawker at 2022-08-10 16:51:21-04:00 local time"
+     alt="Gawker at 2022-08-10 23:51:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gawker-2022/gawker-2022-08-10T23:51:18.321460-04:00.jpg">August 10 at 4:51 PM</a></p>
+ <p><a href="https://archive.org/download/gawker-2022/gawker-2022-08-10T23:51:18.321460-04:00.jpg">August 10 at 11:51 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gawker-2022/gawker-2022-08-10T14:02:51.920163-04:00.jpg">
   <img src="https://archive.org/download/gawker-2022/gawker-2022-08-10T14:02:51.920163-04:00.jpg"
-     alt="Gawker at 2022-08-10 07:02:53-04:00 local time"
+     alt="Gawker at 2022-08-10 14:02:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gawker-2022/gawker-2022-08-10T14:02:51.920163-04:00.jpg">August 10 at 7:02 AM</a></p>
+ <p><a href="https://archive.org/download/gawker-2022/gawker-2022-08-10T14:02:51.920163-04:00.jpg">August 10 at 2:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gawker-2022/gawker-2022-08-09T23:59:31.531731-04:00.jpg">
   <img src="https://archive.org/download/gawker-2022/gawker-2022-08-09T23:59:31.531731-04:00.jpg"
-     alt="Gawker at 2022-08-09 16:59:32-04:00 local time"
+     alt="Gawker at 2022-08-09 23:59:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gawker-2022/gawker-2022-08-09T23:59:31.531731-04:00.jpg">August 9 at 4:59 PM</a></p>
+ <p><a href="https://archive.org/download/gawker-2022/gawker-2022-08-09T23:59:31.531731-04:00.jpg">August 9 at 11:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gawker-2022/gawker-2022-08-09T13:23:39.869242-04:00.jpg">
   <img src="https://archive.org/download/gawker-2022/gawker-2022-08-09T13:23:39.869242-04:00.jpg"
-     alt="Gawker at 2022-08-09 06:23:41-04:00 local time"
+     alt="Gawker at 2022-08-09 13:23:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gawker-2022/gawker-2022-08-09T13:23:39.869242-04:00.jpg">August 9 at 6:23 AM</a></p>
+ <p><a href="https://archive.org/download/gawker-2022/gawker-2022-08-09T13:23:39.869242-04:00.jpg">August 9 at 1:23 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gawker-2022/gawker-2022-08-08T23:43:18.872705-04:00.jpg">
   <img src="https://archive.org/download/gawker-2022/gawker-2022-08-08T23:43:18.872705-04:00.jpg"
-     alt="Gawker at 2022-08-08 16:43:21-04:00 local time"
+     alt="Gawker at 2022-08-08 23:43:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gawker-2022/gawker-2022-08-08T23:43:18.872705-04:00.jpg">August 8 at 4:43 PM</a></p>
+ <p><a href="https://archive.org/download/gawker-2022/gawker-2022-08-08T23:43:18.872705-04:00.jpg">August 8 at 11:43 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gawker-2022/gawker-2022-08-08T13:00:20.731079-04:00.jpg">
   <img src="https://archive.org/download/gawker-2022/gawker-2022-08-08T13:00:20.731079-04:00.jpg"
-     alt="Gawker at 2022-08-08 06:00:21-04:00 local time"
+     alt="Gawker at 2022-08-08 13:00:21-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gawker-2022/gawker-2022-08-08T13:00:20.731079-04:00.jpg">August 8 at 6:00 AM</a></p>
+ <p><a href="https://archive.org/download/gawker-2022/gawker-2022-08-08T13:00:20.731079-04:00.jpg">August 8 at 1:00 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gawker-2022/gawker-2022-08-08T01:07:52.877445-04:00.jpg">
   <img src="https://archive.org/download/gawker-2022/gawker-2022-08-08T01:07:52.877445-04:00.jpg"
-     alt="Gawker at 2022-08-07 18:07:54-04:00 local time"
+     alt="Gawker at 2022-08-08 01:07:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/gawker-2022/gawker-2022-08-08T01:07:52.877445-04:00.jpg">August 7 at 6:07 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/gawker-2022/gawker-2022-08-07T12:49:01.766712-04:00.jpg">
-  <img src="https://archive.org/download/gawker-2022/gawker-2022-08-07T12:49:01.766712-04:00.jpg"
-     alt="Gawker at 2022-08-07 05:49:02-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gawker-2022/gawker-2022-08-07T12:49:01.766712-04:00.jpg">August 7 at 5:49 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/gawker-2022/gawker-2022-08-06T23:22:01.566651-04:00.jpg">
-  <img src="https://archive.org/download/gawker-2022/gawker-2022-08-06T23:22:01.566651-04:00.jpg"
-     alt="Gawker at 2022-08-06 16:22:03-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gawker-2022/gawker-2022-08-06T23:22:01.566651-04:00.jpg">August 6 at 4:22 PM</a></p>
+ <p><a href="https://archive.org/download/gawker-2022/gawker-2022-08-08T01:07:52.877445-04:00.jpg">August 8 at 1:07 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 79 hyperlink lists with the Internet Archive.
+The archiving routine has saved 81 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,21 +316,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 12 at 6:48 AM](https://archive.org/download/gawker-2022/gawker-2022-08-12T13:48:36.798130-04:00.hyperlinks.json) |
-| [August 11 at 10:57 PM](https://archive.org/download/gawker-2022/gawker-2022-08-12T05:57:43.361175-04:00.hyperlinks.json) |
-| [August 11 at 7:39 AM](https://archive.org/download/gawker-2022/gawker-2022-08-11T14:39:02.015694-04:00.hyperlinks.json) |
-| [August 10 at 4:51 PM](https://archive.org/download/gawker-2022/gawker-2022-08-10T23:51:18.321460-04:00.hyperlinks.json) |
-| [August 10 at 7:02 AM](https://archive.org/download/gawker-2022/gawker-2022-08-10T14:02:51.920163-04:00.hyperlinks.json) |
-| [August 9 at 4:59 PM](https://archive.org/download/gawker-2022/gawker-2022-08-09T23:59:31.531731-04:00.hyperlinks.json) |
-| [August 9 at 6:23 AM](https://archive.org/download/gawker-2022/gawker-2022-08-09T13:23:39.869242-04:00.hyperlinks.json) |
-| [August 8 at 4:43 PM](https://archive.org/download/gawker-2022/gawker-2022-08-08T23:43:18.872705-04:00.hyperlinks.json) |
-| [August 8 at 6:00 AM](https://archive.org/download/gawker-2022/gawker-2022-08-08T13:00:20.731079-04:00.hyperlinks.json) |
-| [August 7 at 6:07 PM](https://archive.org/download/gawker-2022/gawker-2022-08-08T01:07:52.877445-04:00.hyperlinks.json) |
+| [August 13 at 4:23 PM](https://archive.org/download/gawker-2022/gawker-2022-08-13T16:22:59.041436-04:00.hyperlinks.json) |
+| [August 12 at 11:41 PM](https://archive.org/download/gawker-2022/gawker-2022-08-12T23:41:34.745904-04:00.hyperlinks.json) |
+| [August 12 at 1:48 PM](https://archive.org/download/gawker-2022/gawker-2022-08-12T13:48:36.798130-04:00.hyperlinks.json) |
+| [August 12 at 5:57 AM](https://archive.org/download/gawker-2022/gawker-2022-08-12T05:57:43.361175-04:00.hyperlinks.json) |
+| [August 11 at 2:39 PM](https://archive.org/download/gawker-2022/gawker-2022-08-11T14:39:02.015694-04:00.hyperlinks.json) |
+| [August 10 at 11:51 PM](https://archive.org/download/gawker-2022/gawker-2022-08-10T23:51:18.321460-04:00.hyperlinks.json) |
+| [August 10 at 2:02 PM](https://archive.org/download/gawker-2022/gawker-2022-08-10T14:02:51.920163-04:00.hyperlinks.json) |
+| [August 9 at 11:59 PM](https://archive.org/download/gawker-2022/gawker-2022-08-09T23:59:31.531731-04:00.hyperlinks.json) |
+| [August 9 at 1:23 PM](https://archive.org/download/gawker-2022/gawker-2022-08-09T13:23:39.869242-04:00.hyperlinks.json) |
+| [August 8 at 11:43 PM](https://archive.org/download/gawker-2022/gawker-2022-08-08T23:43:18.872705-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 79 accessibility trees with the Internet Archive.
+The archiving routine has saved 81 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,22 +421,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 12 at 6:48 AM](https://archive.org/download/gawker-2022/gawker-2022-08-12T13:48:36.798130-04:00.accessibility.json) |
-| [August 11 at 10:57 PM](https://archive.org/download/gawker-2022/gawker-2022-08-12T05:57:43.361175-04:00.accessibility.json) |
-| [August 11 at 7:39 AM](https://archive.org/download/gawker-2022/gawker-2022-08-11T14:39:02.015694-04:00.accessibility.json) |
-| [August 10 at 4:51 PM](https://archive.org/download/gawker-2022/gawker-2022-08-10T23:51:18.321460-04:00.accessibility.json) |
-| [August 10 at 7:02 AM](https://archive.org/download/gawker-2022/gawker-2022-08-10T14:02:51.920163-04:00.accessibility.json) |
-| [August 9 at 4:59 PM](https://archive.org/download/gawker-2022/gawker-2022-08-09T23:59:31.531731-04:00.accessibility.json) |
-| [August 9 at 6:23 AM](https://archive.org/download/gawker-2022/gawker-2022-08-09T13:23:39.869242-04:00.accessibility.json) |
-| [August 8 at 4:43 PM](https://archive.org/download/gawker-2022/gawker-2022-08-08T23:43:18.872705-04:00.accessibility.json) |
-| [August 8 at 6:00 AM](https://archive.org/download/gawker-2022/gawker-2022-08-08T13:00:20.731079-04:00.accessibility.json) |
-| [August 7 at 6:07 PM](https://archive.org/download/gawker-2022/gawker-2022-08-08T01:07:52.877445-04:00.accessibility.json) |
+| [August 13 at 4:23 PM](https://archive.org/download/gawker-2022/gawker-2022-08-13T16:22:59.041436-04:00.accessibility.json) |
+| [August 12 at 11:41 PM](https://archive.org/download/gawker-2022/gawker-2022-08-12T23:41:34.745904-04:00.accessibility.json) |
+| [August 12 at 1:48 PM](https://archive.org/download/gawker-2022/gawker-2022-08-12T13:48:36.798130-04:00.accessibility.json) |
+| [August 12 at 5:57 AM](https://archive.org/download/gawker-2022/gawker-2022-08-12T05:57:43.361175-04:00.accessibility.json) |
+| [August 11 at 2:39 PM](https://archive.org/download/gawker-2022/gawker-2022-08-11T14:39:02.015694-04:00.accessibility.json) |
+| [August 10 at 11:51 PM](https://archive.org/download/gawker-2022/gawker-2022-08-10T23:51:18.321460-04:00.accessibility.json) |
+| [August 10 at 2:02 PM](https://archive.org/download/gawker-2022/gawker-2022-08-10T14:02:51.920163-04:00.accessibility.json) |
+| [August 9 at 11:59 PM](https://archive.org/download/gawker-2022/gawker-2022-08-09T23:59:31.531731-04:00.accessibility.json) |
+| [August 9 at 1:23 PM](https://archive.org/download/gawker-2022/gawker-2022-08-09T13:23:39.869242-04:00.accessibility.json) |
+| [August 8 at 11:43 PM](https://archive.org/download/gawker-2022/gawker-2022-08-08T23:43:18.872705-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 40 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 42 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 12 at 6:48 AM](https://archive.org/download/gawker-2022/gawker-2022-08-12T13:48:36.798130-04:00.lighthouse.json) |
-| [August 11 at 10:57 PM](https://archive.org/download/gawker-2022/gawker-2022-08-12T05:57:43.361175-04:00.lighthouse.json) |
-| [August 11 at 7:39 AM](https://archive.org/download/gawker-2022/gawker-2022-08-11T14:39:02.015694-04:00.lighthouse.json) |
-| [August 10 at 4:51 PM](https://archive.org/download/gawker-2022/gawker-2022-08-10T23:51:18.321460-04:00.lighthouse.json) |
-| [August 10 at 7:02 AM](https://archive.org/download/gawker-2022/gawker-2022-08-10T14:02:51.920163-04:00.lighthouse.json) |
-| [August 9 at 4:59 PM](https://archive.org/download/gawker-2022/gawker-2022-08-09T23:59:31.531731-04:00.lighthouse.json) |
-| [August 9 at 6:23 AM](https://archive.org/download/gawker-2022/gawker-2022-08-09T13:23:39.869242-04:00.lighthouse.json) |
-| [August 8 at 4:43 PM](https://archive.org/download/gawker-2022/gawker-2022-08-08T23:43:18.872705-04:00.lighthouse.json) |
-| [August 8 at 6:00 AM](https://archive.org/download/gawker-2022/gawker-2022-08-08T13:00:20.731079-04:00.lighthouse.json) |
-| [August 7 at 6:08 PM](https://archive.org/download/gawker-2022/gawker-2022-08-08T01:07:52.877445-04:00.lighthouse.json) |
+| [August 13 at 4:23 PM](https://archive.org/download/gawker-2022/gawker-2022-08-13T16:22:59.041436-04:00.lighthouse.json) |
+| [August 12 at 11:41 PM](https://archive.org/download/gawker-2022/gawker-2022-08-12T23:41:34.745904-04:00.lighthouse.json) |
+| [August 12 at 1:48 PM](https://archive.org/download/gawker-2022/gawker-2022-08-12T13:48:36.798130-04:00.lighthouse.json) |
+| [August 12 at 5:57 AM](https://archive.org/download/gawker-2022/gawker-2022-08-12T05:57:43.361175-04:00.lighthouse.json) |
+| [August 11 at 2:39 PM](https://archive.org/download/gawker-2022/gawker-2022-08-11T14:39:02.015694-04:00.lighthouse.json) |
+| [August 10 at 11:51 PM](https://archive.org/download/gawker-2022/gawker-2022-08-10T23:51:18.321460-04:00.lighthouse.json) |
+| [August 10 at 2:02 PM](https://archive.org/download/gawker-2022/gawker-2022-08-10T14:02:51.920163-04:00.lighthouse.json) |
+| [August 9 at 11:59 PM](https://archive.org/download/gawker-2022/gawker-2022-08-09T23:59:31.531731-04:00.lighthouse.json) |
+| [August 9 at 1:23 PM](https://archive.org/download/gawker-2022/gawker-2022-08-09T13:23:39.869242-04:00.lighthouse.json) |
+| [August 8 at 11:43 PM](https://archive.org/download/gawker-2022/gawker-2022-08-08T23:43:18.872705-04:00.lighthouse.json) |
 
 
 

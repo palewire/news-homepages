@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 80 screenshots with the Internet Archive.
+The archiving routine has saved 82 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -114,118 +114,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-12T13:47:10.392181-04:00.jpg">
-  <img src="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-12T13:47:10.392181-04:00.jpg"
-     alt="Fast Company at 2022-08-12 06:47:12-04:00 local time"
+ <a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-13T16:21:03.177904-04:00.jpg">
+  <img src="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-13T16:21:03.177904-04:00.jpg"
+     alt="Fast Company at 2022-08-13 16:21:06-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-12T13:47:10.392181-04:00.jpg">August 12 at 6:47 AM</a></p>
+ <p><a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-13T16:21:03.177904-04:00.jpg">August 13 at 4:21 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-12T23:39:21.996063-04:00.jpg">
+  <img src="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-12T23:39:21.996063-04:00.jpg"
+     alt="Fast Company at 2022-08-12 23:39:23-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-12T23:39:21.996063-04:00.jpg">August 12 at 11:39 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-12T13:47:10.392181-04:00.jpg">
+  <img src="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-12T13:47:10.392181-04:00.jpg"
+     alt="Fast Company at 2022-08-12 13:47:12-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-12T13:47:10.392181-04:00.jpg">August 12 at 1:47 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-12T05:57:09.652509-04:00.jpg">
   <img src="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-12T05:57:09.652509-04:00.jpg"
-     alt="Fast Company at 2022-08-11 22:57:10-04:00 local time"
+     alt="Fast Company at 2022-08-12 05:57:10-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-12T05:57:09.652509-04:00.jpg">August 11 at 10:57 PM</a></p>
+ <p><a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-12T05:57:09.652509-04:00.jpg">August 12 at 5:57 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-11T14:37:31.830900-04:00.jpg">
   <img src="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-11T14:37:31.830900-04:00.jpg"
-     alt="Fast Company at 2022-08-11 07:37:33-04:00 local time"
+     alt="Fast Company at 2022-08-11 14:37:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-11T14:37:31.830900-04:00.jpg">August 11 at 7:37 AM</a></p>
+ <p><a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-11T14:37:31.830900-04:00.jpg">August 11 at 2:37 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-10T23:51:07.073147-04:00.jpg">
   <img src="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-10T23:51:07.073147-04:00.jpg"
-     alt="Fast Company at 2022-08-10 16:51:12-04:00 local time"
+     alt="Fast Company at 2022-08-10 23:51:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-10T23:51:07.073147-04:00.jpg">August 10 at 4:51 PM</a></p>
+ <p><a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-10T23:51:07.073147-04:00.jpg">August 10 at 11:51 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-10T14:04:50.775148-04:00.jpg">
   <img src="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-10T14:04:50.775148-04:00.jpg"
-     alt="Fast Company at 2022-08-10 07:04:56-04:00 local time"
+     alt="Fast Company at 2022-08-10 14:04:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-10T14:04:50.775148-04:00.jpg">August 10 at 7:04 AM</a></p>
+ <p><a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-10T14:04:50.775148-04:00.jpg">August 10 at 2:04 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-09T23:57:33.520710-04:00.jpg">
   <img src="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-09T23:57:33.520710-04:00.jpg"
-     alt="Fast Company at 2022-08-09 16:57:35-04:00 local time"
+     alt="Fast Company at 2022-08-09 23:57:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-09T23:57:33.520710-04:00.jpg">August 9 at 4:57 PM</a></p>
+ <p><a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-09T23:57:33.520710-04:00.jpg">August 9 at 11:57 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-09T13:21:49.343189-04:00.jpg">
   <img src="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-09T13:21:49.343189-04:00.jpg"
-     alt="Fast Company at 2022-08-09 06:21:50-04:00 local time"
+     alt="Fast Company at 2022-08-09 13:21:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-09T13:21:49.343189-04:00.jpg">August 9 at 6:21 AM</a></p>
+ <p><a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-09T13:21:49.343189-04:00.jpg">August 9 at 1:21 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-08T23:42:00.900291-04:00.jpg">
   <img src="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-08T23:42:00.900291-04:00.jpg"
-     alt="Fast Company at 2022-08-08 16:42:03-04:00 local time"
+     alt="Fast Company at 2022-08-08 23:42:03-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-08T23:42:00.900291-04:00.jpg">August 8 at 4:42 PM</a></p>
+ <p><a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-08T23:42:00.900291-04:00.jpg">August 8 at 11:42 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-08T12:58:40.546115-04:00.jpg">
   <img src="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-08T12:58:40.546115-04:00.jpg"
-     alt="Fast Company at 2022-08-08 05:58:41-04:00 local time"
+     alt="Fast Company at 2022-08-08 12:58:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-08T12:58:40.546115-04:00.jpg">August 8 at 5:58 AM</a></p>
+ <p><a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-08T12:58:40.546115-04:00.jpg">August 8 at 12:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-08T01:06:19.815872-04:00.jpg">
   <img src="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-08T01:06:19.815872-04:00.jpg"
-     alt="Fast Company at 2022-08-07 18:06:22-04:00 local time"
+     alt="Fast Company at 2022-08-08 01:06:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-08T01:06:19.815872-04:00.jpg">August 7 at 6:06 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-07T12:47:43.808900-04:00.jpg">
-  <img src="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-07T12:47:43.808900-04:00.jpg"
-     alt="Fast Company at 2022-08-07 05:47:48-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-07T12:47:43.808900-04:00.jpg">August 7 at 5:47 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-06T23:21:45.777658-04:00.jpg">
-  <img src="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-06T23:21:45.777658-04:00.jpg"
-     alt="Fast Company at 2022-08-06 16:21:47-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-06T23:21:45.777658-04:00.jpg">August 6 at 4:21 PM</a></p>
+ <p><a href="https://archive.org/download/fastcompany-2022/fastcompany-2022-08-08T01:06:19.815872-04:00.jpg">August 8 at 1:06 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 73 hyperlink lists with the Internet Archive.
+The archiving routine has saved 75 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,21 +316,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 11 at 10:57 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-12T05:57:09.652509-04:00.hyperlinks.json) |
-| [August 10 at 7:04 AM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-10T14:04:50.775148-04:00.hyperlinks.json) |
-| [August 9 at 4:57 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-09T23:57:33.520710-04:00.hyperlinks.json) |
-| [August 9 at 6:21 AM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-09T13:21:49.343189-04:00.hyperlinks.json) |
-| [August 8 at 4:42 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-08T23:42:00.900291-04:00.hyperlinks.json) |
-| [August 8 at 5:58 AM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-08T12:58:40.546115-04:00.hyperlinks.json) |
-| [August 7 at 6:06 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-08T01:06:19.815872-04:00.hyperlinks.json) |
-| [August 7 at 5:47 AM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-07T12:47:43.808900-04:00.hyperlinks.json) |
-| [August 6 at 4:21 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-06T23:21:45.777658-04:00.hyperlinks.json) |
-| [August 6 at 5:10 AM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-06T12:10:02.412529-04:00.hyperlinks.json) |
+| [August 13 at 4:21 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-13T16:21:03.177904-04:00.hyperlinks.json) |
+| [August 12 at 11:39 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-12T23:39:21.996063-04:00.hyperlinks.json) |
+| [August 12 at 5:57 AM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-12T05:57:09.652509-04:00.hyperlinks.json) |
+| [August 10 at 2:04 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-10T14:04:50.775148-04:00.hyperlinks.json) |
+| [August 9 at 11:57 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-09T23:57:33.520710-04:00.hyperlinks.json) |
+| [August 9 at 1:21 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-09T13:21:49.343189-04:00.hyperlinks.json) |
+| [August 8 at 11:42 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-08T23:42:00.900291-04:00.hyperlinks.json) |
+| [August 8 at 12:58 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-08T12:58:40.546115-04:00.hyperlinks.json) |
+| [August 8 at 1:06 AM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-08T01:06:19.815872-04:00.hyperlinks.json) |
+| [August 7 at 12:47 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-07T12:47:43.808900-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 75 accessibility trees with the Internet Archive.
+The archiving routine has saved 77 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,22 +421,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 12 at 6:47 AM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-12T13:47:10.392181-04:00.accessibility.json) |
-| [August 11 at 10:57 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-12T05:57:09.652509-04:00.accessibility.json) |
-| [August 11 at 7:37 AM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-11T14:37:31.830900-04:00.accessibility.json) |
-| [August 10 at 4:51 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-10T23:51:07.073147-04:00.accessibility.json) |
-| [August 10 at 7:04 AM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-10T14:04:50.775148-04:00.accessibility.json) |
-| [August 9 at 4:57 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-09T23:57:33.520710-04:00.accessibility.json) |
-| [August 9 at 6:21 AM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-09T13:21:49.343189-04:00.accessibility.json) |
-| [August 8 at 4:42 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-08T23:42:00.900291-04:00.accessibility.json) |
-| [August 8 at 5:58 AM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-08T12:58:40.546115-04:00.accessibility.json) |
-| [August 7 at 6:06 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-08T01:06:19.815872-04:00.accessibility.json) |
+| [August 13 at 4:21 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-13T16:21:03.177904-04:00.accessibility.json) |
+| [August 12 at 11:39 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-12T23:39:21.996063-04:00.accessibility.json) |
+| [August 12 at 1:47 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-12T13:47:10.392181-04:00.accessibility.json) |
+| [August 12 at 5:57 AM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-12T05:57:09.652509-04:00.accessibility.json) |
+| [August 11 at 2:37 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-11T14:37:31.830900-04:00.accessibility.json) |
+| [August 10 at 11:51 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-10T23:51:07.073147-04:00.accessibility.json) |
+| [August 10 at 2:04 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-10T14:04:50.775148-04:00.accessibility.json) |
+| [August 9 at 11:57 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-09T23:57:33.520710-04:00.accessibility.json) |
+| [August 9 at 1:21 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-09T13:21:49.343189-04:00.accessibility.json) |
+| [August 8 at 11:42 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-08T23:42:00.900291-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 40 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 42 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 12 at 6:47 AM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-12T13:47:10.392181-04:00.lighthouse.json) |
-| [August 11 at 10:57 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-12T05:57:09.652509-04:00.lighthouse.json) |
-| [August 11 at 7:37 AM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-11T14:37:31.830900-04:00.lighthouse.json) |
-| [August 10 at 4:51 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-10T23:51:07.073147-04:00.lighthouse.json) |
-| [August 10 at 7:05 AM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-10T14:04:50.775148-04:00.lighthouse.json) |
-| [August 9 at 4:57 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-09T23:57:33.520710-04:00.lighthouse.json) |
-| [August 9 at 6:21 AM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-09T13:21:49.343189-04:00.lighthouse.json) |
-| [August 8 at 4:42 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-08T23:42:00.900291-04:00.lighthouse.json) |
-| [August 8 at 5:58 AM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-08T12:58:40.546115-04:00.lighthouse.json) |
-| [August 7 at 6:06 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-08T01:06:19.815872-04:00.lighthouse.json) |
+| [August 13 at 4:21 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-13T16:21:03.177904-04:00.lighthouse.json) |
+| [August 12 at 11:39 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-12T23:39:21.996063-04:00.lighthouse.json) |
+| [August 12 at 1:47 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-12T13:47:10.392181-04:00.lighthouse.json) |
+| [August 12 at 5:57 AM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-12T05:57:09.652509-04:00.lighthouse.json) |
+| [August 11 at 2:37 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-11T14:37:31.830900-04:00.lighthouse.json) |
+| [August 10 at 11:51 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-10T23:51:07.073147-04:00.lighthouse.json) |
+| [August 10 at 2:05 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-10T14:04:50.775148-04:00.lighthouse.json) |
+| [August 9 at 11:57 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-09T23:57:33.520710-04:00.lighthouse.json) |
+| [August 9 at 1:21 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-09T13:21:49.343189-04:00.lighthouse.json) |
+| [August 8 at 11:42 PM](https://archive.org/download/fastcompany-2022/fastcompany-2022-08-08T23:42:00.900291-04:00.lighthouse.json) |
 
 
 

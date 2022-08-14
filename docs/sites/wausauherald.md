@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 221 screenshots with the Internet Archive.
+The archiving routine has saved 223 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -114,118 +114,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-12T13:30:26.670887-05:00.jpg">
-  <img src="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-12T13:30:26.670887-05:00.jpg"
-     alt="Wausau Daily Herald at 2022-08-12 06:30:33-05:00 local time"
+ <a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-13T16:07:19.115365-05:00.jpg">
+  <img src="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-13T16:07:19.115365-05:00.jpg"
+     alt="Wausau Daily Herald at 2022-08-13 16:07:25-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-12T13:30:26.670887-05:00.jpg">August 12 at 6:30 AM</a></p>
+ <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-13T16:07:19.115365-05:00.jpg">August 13 at 4:07 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-13T00:17:30.229373-05:00.jpg">
+  <img src="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-13T00:17:30.229373-05:00.jpg"
+     alt="Wausau Daily Herald at 2022-08-13 00:17:31-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-13T00:17:30.229373-05:00.jpg">August 13 at 12:17 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-12T13:30:26.670887-05:00.jpg">
+  <img src="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-12T13:30:26.670887-05:00.jpg"
+     alt="Wausau Daily Herald at 2022-08-12 13:30:33-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-12T13:30:26.670887-05:00.jpg">August 12 at 1:30 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-12T04:51:29.015429-05:00.jpg">
   <img src="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-12T04:51:29.015429-05:00.jpg"
-     alt="Wausau Daily Herald at 2022-08-11 21:51:39-05:00 local time"
+     alt="Wausau Daily Herald at 2022-08-12 04:51:39-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-12T04:51:29.015429-05:00.jpg">August 11 at 9:51 PM</a></p>
+ <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-12T04:51:29.015429-05:00.jpg">August 12 at 4:51 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-11T14:01:44.196918-05:00.jpg">
   <img src="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-11T14:01:44.196918-05:00.jpg"
-     alt="Wausau Daily Herald at 2022-08-11 07:01:45-05:00 local time"
+     alt="Wausau Daily Herald at 2022-08-11 14:01:45-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-11T14:01:44.196918-05:00.jpg">August 11 at 7:01 AM</a></p>
+ <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-11T14:01:44.196918-05:00.jpg">August 11 at 2:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-11T00:31:12.169243-05:00.jpg">
   <img src="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-11T00:31:12.169243-05:00.jpg"
-     alt="Wausau Daily Herald at 2022-08-10 17:31:18-05:00 local time"
+     alt="Wausau Daily Herald at 2022-08-11 00:31:18-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-11T00:31:12.169243-05:00.jpg">August 10 at 5:31 PM</a></p>
+ <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-11T00:31:12.169243-05:00.jpg">August 11 at 12:31 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-10T13:30:41.473264-05:00.jpg">
   <img src="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-10T13:30:41.473264-05:00.jpg"
-     alt="Wausau Daily Herald at 2022-08-10 06:30:47-05:00 local time"
+     alt="Wausau Daily Herald at 2022-08-10 13:30:47-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-10T13:30:41.473264-05:00.jpg">August 10 at 6:30 AM</a></p>
+ <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-10T13:30:41.473264-05:00.jpg">August 10 at 1:30 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-10T00:38:11.005416-05:00.jpg">
   <img src="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-10T00:38:11.005416-05:00.jpg"
-     alt="Wausau Daily Herald at 2022-08-09 17:38:12-05:00 local time"
+     alt="Wausau Daily Herald at 2022-08-10 00:38:12-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-10T00:38:11.005416-05:00.jpg">August 9 at 5:38 PM</a></p>
+ <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-10T00:38:11.005416-05:00.jpg">August 10 at 12:38 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-09T12:59:38.780624-05:00.jpg">
   <img src="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-09T12:59:38.780624-05:00.jpg"
-     alt="Wausau Daily Herald at 2022-08-09 05:59:40-05:00 local time"
+     alt="Wausau Daily Herald at 2022-08-09 12:59:40-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-09T12:59:38.780624-05:00.jpg">August 9 at 5:59 AM</a></p>
+ <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-09T12:59:38.780624-05:00.jpg">August 9 at 12:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-09T00:14:57.476943-05:00.jpg">
   <img src="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-09T00:14:57.476943-05:00.jpg"
-     alt="Wausau Daily Herald at 2022-08-08 17:14:59-05:00 local time"
+     alt="Wausau Daily Herald at 2022-08-09 00:14:59-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-09T00:14:57.476943-05:00.jpg">August 8 at 5:14 PM</a></p>
+ <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-09T00:14:57.476943-05:00.jpg">August 9 at 12:14 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-08T12:25:31.558182-05:00.jpg">
   <img src="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-08T12:25:31.558182-05:00.jpg"
-     alt="Wausau Daily Herald at 2022-08-08 05:25:33-05:00 local time"
+     alt="Wausau Daily Herald at 2022-08-08 12:25:33-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-08T12:25:31.558182-05:00.jpg">August 8 at 5:25 AM</a></p>
+ <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-08T12:25:31.558182-05:00.jpg">August 8 at 12:25 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-08T00:30:27.216110-05:00.jpg">
   <img src="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-08T00:30:27.216110-05:00.jpg"
-     alt="Wausau Daily Herald at 2022-08-07 17:30:28-05:00 local time"
+     alt="Wausau Daily Herald at 2022-08-08 00:30:28-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-08T00:30:27.216110-05:00.jpg">August 7 at 5:30 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-07T12:11:52.907401-05:00.jpg">
-  <img src="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-07T12:11:52.907401-05:00.jpg"
-     alt="Wausau Daily Herald at 2022-08-07 05:11:54-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-07T12:11:52.907401-05:00.jpg">August 7 at 5:11 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-06T23:49:36.395123-05:00.jpg">
-  <img src="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-06T23:49:36.395123-05:00.jpg"
-     alt="Wausau Daily Herald at 2022-08-06 16:49:43-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-06T23:49:36.395123-05:00.jpg">August 6 at 4:49 PM</a></p>
+ <p><a href="https://archive.org/download/wausauherald-2022/wausauherald-2022-08-08T00:30:27.216110-05:00.jpg">August 8 at 12:30 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 212 hyperlink lists with the Internet Archive.
+The archiving routine has saved 214 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,21 +316,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 12 at 6:30 AM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-12T13:30:26.670887-05:00.hyperlinks.json) |
-| [August 11 at 9:51 PM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-12T04:51:29.015429-05:00.hyperlinks.json) |
-| [August 11 at 7:01 AM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-11T14:01:44.196918-05:00.hyperlinks.json) |
-| [August 10 at 5:31 PM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-11T00:31:12.169243-05:00.hyperlinks.json) |
-| [August 10 at 6:30 AM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-10T13:30:41.473264-05:00.hyperlinks.json) |
-| [August 9 at 5:38 PM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-10T00:38:11.005416-05:00.hyperlinks.json) |
-| [August 9 at 5:59 AM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-09T12:59:38.780624-05:00.hyperlinks.json) |
-| [August 8 at 5:15 PM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-09T00:14:57.476943-05:00.hyperlinks.json) |
-| [August 7 at 5:30 PM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-08T00:30:27.216110-05:00.hyperlinks.json) |
-| [August 7 at 5:11 AM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-07T12:11:52.907401-05:00.hyperlinks.json) |
+| [August 13 at 4:07 PM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-13T16:07:19.115365-05:00.hyperlinks.json) |
+| [August 13 at 12:17 AM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-13T00:17:30.229373-05:00.hyperlinks.json) |
+| [August 12 at 1:30 PM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-12T13:30:26.670887-05:00.hyperlinks.json) |
+| [August 12 at 4:51 AM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-12T04:51:29.015429-05:00.hyperlinks.json) |
+| [August 11 at 2:01 PM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-11T14:01:44.196918-05:00.hyperlinks.json) |
+| [August 11 at 12:31 AM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-11T00:31:12.169243-05:00.hyperlinks.json) |
+| [August 10 at 1:30 PM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-10T13:30:41.473264-05:00.hyperlinks.json) |
+| [August 10 at 12:38 AM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-10T00:38:11.005416-05:00.hyperlinks.json) |
+| [August 9 at 12:59 PM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-09T12:59:38.780624-05:00.hyperlinks.json) |
+| [August 9 at 12:15 AM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-09T00:14:57.476943-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 216 accessibility trees with the Internet Archive.
+The archiving routine has saved 218 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,22 +421,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 12 at 6:30 AM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-12T13:30:26.670887-05:00.accessibility.json) |
-| [August 11 at 9:51 PM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-12T04:51:29.015429-05:00.accessibility.json) |
-| [August 11 at 7:01 AM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-11T14:01:44.196918-05:00.accessibility.json) |
-| [August 10 at 5:31 PM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-11T00:31:12.169243-05:00.accessibility.json) |
-| [August 10 at 6:30 AM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-10T13:30:41.473264-05:00.accessibility.json) |
-| [August 9 at 5:38 PM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-10T00:38:11.005416-05:00.accessibility.json) |
-| [August 9 at 5:59 AM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-09T12:59:38.780624-05:00.accessibility.json) |
-| [August 8 at 5:15 PM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-09T00:14:57.476943-05:00.accessibility.json) |
-| [August 7 at 5:30 PM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-08T00:30:27.216110-05:00.accessibility.json) |
-| [August 7 at 5:11 AM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-07T12:11:52.907401-05:00.accessibility.json) |
+| [August 13 at 4:07 PM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-13T16:07:19.115365-05:00.accessibility.json) |
+| [August 13 at 12:17 AM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-13T00:17:30.229373-05:00.accessibility.json) |
+| [August 12 at 1:30 PM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-12T13:30:26.670887-05:00.accessibility.json) |
+| [August 12 at 4:51 AM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-12T04:51:29.015429-05:00.accessibility.json) |
+| [August 11 at 2:01 PM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-11T14:01:44.196918-05:00.accessibility.json) |
+| [August 11 at 12:31 AM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-11T00:31:12.169243-05:00.accessibility.json) |
+| [August 10 at 1:30 PM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-10T13:30:41.473264-05:00.accessibility.json) |
+| [August 10 at 12:38 AM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-10T00:38:11.005416-05:00.accessibility.json) |
+| [August 9 at 12:59 PM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-09T12:59:38.780624-05:00.accessibility.json) |
+| [August 9 at 12:15 AM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-09T00:14:57.476943-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 40 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 42 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 12 at 6:30 AM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-12T13:30:26.670887-05:00.lighthouse.json) |
-| [August 11 at 9:51 PM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-12T04:51:29.015429-05:00.lighthouse.json) |
-| [August 11 at 7:01 AM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-11T14:01:44.196918-05:00.lighthouse.json) |
-| [August 10 at 5:31 PM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-11T00:31:12.169243-05:00.lighthouse.json) |
-| [August 10 at 6:30 AM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-10T13:30:41.473264-05:00.lighthouse.json) |
-| [August 9 at 5:38 PM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-10T00:38:11.005416-05:00.lighthouse.json) |
-| [August 9 at 5:59 AM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-09T12:59:38.780624-05:00.lighthouse.json) |
-| [August 8 at 5:15 PM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-09T00:14:57.476943-05:00.lighthouse.json) |
-| [August 8 at 5:25 AM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-08T12:25:31.558182-05:00.lighthouse.json) |
-| [August 7 at 5:30 PM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-08T00:30:27.216110-05:00.lighthouse.json) |
+| [August 13 at 4:07 PM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-13T16:07:19.115365-05:00.lighthouse.json) |
+| [August 13 at 12:17 AM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-13T00:17:30.229373-05:00.lighthouse.json) |
+| [August 12 at 1:30 PM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-12T13:30:26.670887-05:00.lighthouse.json) |
+| [August 12 at 4:51 AM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-12T04:51:29.015429-05:00.lighthouse.json) |
+| [August 11 at 2:01 PM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-11T14:01:44.196918-05:00.lighthouse.json) |
+| [August 11 at 12:31 AM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-11T00:31:12.169243-05:00.lighthouse.json) |
+| [August 10 at 1:30 PM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-10T13:30:41.473264-05:00.lighthouse.json) |
+| [August 10 at 12:38 AM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-10T00:38:11.005416-05:00.lighthouse.json) |
+| [August 9 at 12:59 PM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-09T12:59:38.780624-05:00.lighthouse.json) |
+| [August 9 at 12:15 AM](https://archive.org/download/wausauherald-2022/wausauherald-2022-08-09T00:14:57.476943-05:00.lighthouse.json) |
 
 
 

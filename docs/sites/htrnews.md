@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 222 screenshots with the Internet Archive.
+The archiving routine has saved 224 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -114,118 +114,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/htrnews-2022/htrnews-2022-08-12T12:50:26.763707-05:00.jpg">
-  <img src="https://archive.org/download/htrnews-2022/htrnews-2022-08-12T12:50:26.763707-05:00.jpg"
-     alt="Herald Times Reporter at 2022-08-12 05:50:28-05:00 local time"
+ <a href="https://archive.org/download/htrnews-2022/htrnews-2022-08-13T15:25:02.218020-05:00.jpg">
+  <img src="https://archive.org/download/htrnews-2022/htrnews-2022-08-13T15:25:02.218020-05:00.jpg"
+     alt="Herald Times Reporter at 2022-08-13 15:25:03-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/htrnews-2022/htrnews-2022-08-12T12:50:26.763707-05:00.jpg">August 12 at 5:50 AM</a></p>
+ <p><a href="https://archive.org/download/htrnews-2022/htrnews-2022-08-13T15:25:02.218020-05:00.jpg">August 13 at 3:25 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/htrnews-2022/htrnews-2022-08-12T22:43:47.397352-05:00.jpg">
+  <img src="https://archive.org/download/htrnews-2022/htrnews-2022-08-12T22:43:47.397352-05:00.jpg"
+     alt="Herald Times Reporter at 2022-08-12 22:43:48-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/htrnews-2022/htrnews-2022-08-12T22:43:47.397352-05:00.jpg">August 12 at 10:43 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/htrnews-2022/htrnews-2022-08-12T12:50:26.763707-05:00.jpg">
+  <img src="https://archive.org/download/htrnews-2022/htrnews-2022-08-12T12:50:26.763707-05:00.jpg"
+     alt="Herald Times Reporter at 2022-08-12 12:50:28-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/htrnews-2022/htrnews-2022-08-12T12:50:26.763707-05:00.jpg">August 12 at 12:50 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/htrnews-2022/htrnews-2022-08-12T04:59:30.983414-05:00.jpg">
   <img src="https://archive.org/download/htrnews-2022/htrnews-2022-08-12T04:59:30.983414-05:00.jpg"
-     alt="Herald Times Reporter at 2022-08-11 21:59:37-05:00 local time"
+     alt="Herald Times Reporter at 2022-08-12 04:59:37-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/htrnews-2022/htrnews-2022-08-12T04:59:30.983414-05:00.jpg">August 11 at 9:59 PM</a></p>
+ <p><a href="https://archive.org/download/htrnews-2022/htrnews-2022-08-12T04:59:30.983414-05:00.jpg">August 12 at 4:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/htrnews-2022/htrnews-2022-08-11T13:40:45.689905-05:00.jpg">
   <img src="https://archive.org/download/htrnews-2022/htrnews-2022-08-11T13:40:45.689905-05:00.jpg"
-     alt="Herald Times Reporter at 2022-08-11 06:40:51-05:00 local time"
+     alt="Herald Times Reporter at 2022-08-11 13:40:51-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/htrnews-2022/htrnews-2022-08-11T13:40:45.689905-05:00.jpg">August 11 at 6:40 AM</a></p>
+ <p><a href="https://archive.org/download/htrnews-2022/htrnews-2022-08-11T13:40:45.689905-05:00.jpg">August 11 at 1:40 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/htrnews-2022/htrnews-2022-08-10T22:54:04.092392-05:00.jpg">
   <img src="https://archive.org/download/htrnews-2022/htrnews-2022-08-10T22:54:04.092392-05:00.jpg"
-     alt="Herald Times Reporter at 2022-08-10 15:54:10-05:00 local time"
+     alt="Herald Times Reporter at 2022-08-10 22:54:10-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/htrnews-2022/htrnews-2022-08-10T22:54:04.092392-05:00.jpg">August 10 at 3:54 PM</a></p>
+ <p><a href="https://archive.org/download/htrnews-2022/htrnews-2022-08-10T22:54:04.092392-05:00.jpg">August 10 at 10:54 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/htrnews-2022/htrnews-2022-08-10T13:06:01.013289-05:00.jpg">
   <img src="https://archive.org/download/htrnews-2022/htrnews-2022-08-10T13:06:01.013289-05:00.jpg"
-     alt="Herald Times Reporter at 2022-08-10 06:06:07-05:00 local time"
+     alt="Herald Times Reporter at 2022-08-10 13:06:07-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/htrnews-2022/htrnews-2022-08-10T13:06:01.013289-05:00.jpg">August 10 at 6:06 AM</a></p>
+ <p><a href="https://archive.org/download/htrnews-2022/htrnews-2022-08-10T13:06:01.013289-05:00.jpg">August 10 at 1:06 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/htrnews-2022/htrnews-2022-08-09T23:01:20.040079-05:00.jpg">
   <img src="https://archive.org/download/htrnews-2022/htrnews-2022-08-09T23:01:20.040079-05:00.jpg"
-     alt="Herald Times Reporter at 2022-08-09 16:01:21-05:00 local time"
+     alt="Herald Times Reporter at 2022-08-09 23:01:21-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/htrnews-2022/htrnews-2022-08-09T23:01:20.040079-05:00.jpg">August 9 at 4:01 PM</a></p>
+ <p><a href="https://archive.org/download/htrnews-2022/htrnews-2022-08-09T23:01:20.040079-05:00.jpg">August 9 at 11:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/htrnews-2022/htrnews-2022-08-09T12:27:07.220829-05:00.jpg">
   <img src="https://archive.org/download/htrnews-2022/htrnews-2022-08-09T12:27:07.220829-05:00.jpg"
-     alt="Herald Times Reporter at 2022-08-09 05:27:09-05:00 local time"
+     alt="Herald Times Reporter at 2022-08-09 12:27:09-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/htrnews-2022/htrnews-2022-08-09T12:27:07.220829-05:00.jpg">August 9 at 5:27 AM</a></p>
+ <p><a href="https://archive.org/download/htrnews-2022/htrnews-2022-08-09T12:27:07.220829-05:00.jpg">August 9 at 12:27 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/htrnews-2022/htrnews-2022-08-08T22:45:45.218118-05:00.jpg">
   <img src="https://archive.org/download/htrnews-2022/htrnews-2022-08-08T22:45:45.218118-05:00.jpg"
-     alt="Herald Times Reporter at 2022-08-08 15:45:49-05:00 local time"
+     alt="Herald Times Reporter at 2022-08-08 22:45:49-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/htrnews-2022/htrnews-2022-08-08T22:45:45.218118-05:00.jpg">August 8 at 3:45 PM</a></p>
+ <p><a href="https://archive.org/download/htrnews-2022/htrnews-2022-08-08T22:45:45.218118-05:00.jpg">August 8 at 10:45 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/htrnews-2022/htrnews-2022-08-08T12:02:41.586911-05:00.jpg">
   <img src="https://archive.org/download/htrnews-2022/htrnews-2022-08-08T12:02:41.586911-05:00.jpg"
-     alt="Herald Times Reporter at 2022-08-08 05:02:47-05:00 local time"
+     alt="Herald Times Reporter at 2022-08-08 12:02:47-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/htrnews-2022/htrnews-2022-08-08T12:02:41.586911-05:00.jpg">August 8 at 5:02 AM</a></p>
+ <p><a href="https://archive.org/download/htrnews-2022/htrnews-2022-08-08T12:02:41.586911-05:00.jpg">August 8 at 12:02 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/htrnews-2022/htrnews-2022-08-08T00:10:17.033220-05:00.jpg">
   <img src="https://archive.org/download/htrnews-2022/htrnews-2022-08-08T00:10:17.033220-05:00.jpg"
-     alt="Herald Times Reporter at 2022-08-07 17:10:18-05:00 local time"
+     alt="Herald Times Reporter at 2022-08-08 00:10:18-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/htrnews-2022/htrnews-2022-08-08T00:10:17.033220-05:00.jpg">August 7 at 5:10 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/htrnews-2022/htrnews-2022-08-07T11:50:30.869392-05:00.jpg">
-  <img src="https://archive.org/download/htrnews-2022/htrnews-2022-08-07T11:50:30.869392-05:00.jpg"
-     alt="Herald Times Reporter at 2022-08-07 04:50:39-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/htrnews-2022/htrnews-2022-08-07T11:50:30.869392-05:00.jpg">August 7 at 4:50 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/htrnews-2022/htrnews-2022-08-06T22:23:38.795554-05:00.jpg">
-  <img src="https://archive.org/download/htrnews-2022/htrnews-2022-08-06T22:23:38.795554-05:00.jpg"
-     alt="Herald Times Reporter at 2022-08-06 15:23:43-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/htrnews-2022/htrnews-2022-08-06T22:23:38.795554-05:00.jpg">August 6 at 3:23 PM</a></p>
+ <p><a href="https://archive.org/download/htrnews-2022/htrnews-2022-08-08T00:10:17.033220-05:00.jpg">August 8 at 12:10 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 220 hyperlink lists with the Internet Archive.
+The archiving routine has saved 222 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,21 +316,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 12 at 5:50 AM](https://archive.org/download/htrnews-2022/htrnews-2022-08-12T12:50:26.763707-05:00.hyperlinks.json) |
-| [August 11 at 9:59 PM](https://archive.org/download/htrnews-2022/htrnews-2022-08-12T04:59:30.983414-05:00.hyperlinks.json) |
-| [August 11 at 6:40 AM](https://archive.org/download/htrnews-2022/htrnews-2022-08-11T13:40:45.689905-05:00.hyperlinks.json) |
-| [August 10 at 3:54 PM](https://archive.org/download/htrnews-2022/htrnews-2022-08-10T22:54:04.092392-05:00.hyperlinks.json) |
-| [August 9 at 4:01 PM](https://archive.org/download/htrnews-2022/htrnews-2022-08-09T23:01:20.040079-05:00.hyperlinks.json) |
-| [August 9 at 5:27 AM](https://archive.org/download/htrnews-2022/htrnews-2022-08-09T12:27:07.220829-05:00.hyperlinks.json) |
-| [August 8 at 3:45 PM](https://archive.org/download/htrnews-2022/htrnews-2022-08-08T22:45:45.218118-05:00.hyperlinks.json) |
-| [August 8 at 5:02 AM](https://archive.org/download/htrnews-2022/htrnews-2022-08-08T12:02:41.586911-05:00.hyperlinks.json) |
-| [August 7 at 5:10 PM](https://archive.org/download/htrnews-2022/htrnews-2022-08-08T00:10:17.033220-05:00.hyperlinks.json) |
-| [August 7 at 4:50 AM](https://archive.org/download/htrnews-2022/htrnews-2022-08-07T11:50:30.869392-05:00.hyperlinks.json) |
+| [August 13 at 3:25 PM](https://archive.org/download/htrnews-2022/htrnews-2022-08-13T15:25:02.218020-05:00.hyperlinks.json) |
+| [August 12 at 10:43 PM](https://archive.org/download/htrnews-2022/htrnews-2022-08-12T22:43:47.397352-05:00.hyperlinks.json) |
+| [August 12 at 12:50 PM](https://archive.org/download/htrnews-2022/htrnews-2022-08-12T12:50:26.763707-05:00.hyperlinks.json) |
+| [August 12 at 4:59 AM](https://archive.org/download/htrnews-2022/htrnews-2022-08-12T04:59:30.983414-05:00.hyperlinks.json) |
+| [August 11 at 1:40 PM](https://archive.org/download/htrnews-2022/htrnews-2022-08-11T13:40:45.689905-05:00.hyperlinks.json) |
+| [August 10 at 10:54 PM](https://archive.org/download/htrnews-2022/htrnews-2022-08-10T22:54:04.092392-05:00.hyperlinks.json) |
+| [August 9 at 11:01 PM](https://archive.org/download/htrnews-2022/htrnews-2022-08-09T23:01:20.040079-05:00.hyperlinks.json) |
+| [August 9 at 12:27 PM](https://archive.org/download/htrnews-2022/htrnews-2022-08-09T12:27:07.220829-05:00.hyperlinks.json) |
+| [August 8 at 10:45 PM](https://archive.org/download/htrnews-2022/htrnews-2022-08-08T22:45:45.218118-05:00.hyperlinks.json) |
+| [August 8 at 12:02 PM](https://archive.org/download/htrnews-2022/htrnews-2022-08-08T12:02:41.586911-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 220 accessibility trees with the Internet Archive.
+The archiving routine has saved 222 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,22 +421,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 12 at 5:50 AM](https://archive.org/download/htrnews-2022/htrnews-2022-08-12T12:50:26.763707-05:00.accessibility.json) |
-| [August 11 at 9:59 PM](https://archive.org/download/htrnews-2022/htrnews-2022-08-12T04:59:30.983414-05:00.accessibility.json) |
-| [August 11 at 6:40 AM](https://archive.org/download/htrnews-2022/htrnews-2022-08-11T13:40:45.689905-05:00.accessibility.json) |
-| [August 10 at 3:54 PM](https://archive.org/download/htrnews-2022/htrnews-2022-08-10T22:54:04.092392-05:00.accessibility.json) |
-| [August 10 at 6:06 AM](https://archive.org/download/htrnews-2022/htrnews-2022-08-10T13:06:01.013289-05:00.accessibility.json) |
-| [August 9 at 4:01 PM](https://archive.org/download/htrnews-2022/htrnews-2022-08-09T23:01:20.040079-05:00.accessibility.json) |
-| [August 9 at 5:27 AM](https://archive.org/download/htrnews-2022/htrnews-2022-08-09T12:27:07.220829-05:00.accessibility.json) |
-| [August 8 at 3:45 PM](https://archive.org/download/htrnews-2022/htrnews-2022-08-08T22:45:45.218118-05:00.accessibility.json) |
-| [August 8 at 5:02 AM](https://archive.org/download/htrnews-2022/htrnews-2022-08-08T12:02:41.586911-05:00.accessibility.json) |
-| [August 7 at 5:10 PM](https://archive.org/download/htrnews-2022/htrnews-2022-08-08T00:10:17.033220-05:00.accessibility.json) |
+| [August 13 at 3:25 PM](https://archive.org/download/htrnews-2022/htrnews-2022-08-13T15:25:02.218020-05:00.accessibility.json) |
+| [August 12 at 10:43 PM](https://archive.org/download/htrnews-2022/htrnews-2022-08-12T22:43:47.397352-05:00.accessibility.json) |
+| [August 12 at 12:50 PM](https://archive.org/download/htrnews-2022/htrnews-2022-08-12T12:50:26.763707-05:00.accessibility.json) |
+| [August 12 at 4:59 AM](https://archive.org/download/htrnews-2022/htrnews-2022-08-12T04:59:30.983414-05:00.accessibility.json) |
+| [August 11 at 1:40 PM](https://archive.org/download/htrnews-2022/htrnews-2022-08-11T13:40:45.689905-05:00.accessibility.json) |
+| [August 10 at 10:54 PM](https://archive.org/download/htrnews-2022/htrnews-2022-08-10T22:54:04.092392-05:00.accessibility.json) |
+| [August 10 at 1:06 PM](https://archive.org/download/htrnews-2022/htrnews-2022-08-10T13:06:01.013289-05:00.accessibility.json) |
+| [August 9 at 11:01 PM](https://archive.org/download/htrnews-2022/htrnews-2022-08-09T23:01:20.040079-05:00.accessibility.json) |
+| [August 9 at 12:27 PM](https://archive.org/download/htrnews-2022/htrnews-2022-08-09T12:27:07.220829-05:00.accessibility.json) |
+| [August 8 at 10:45 PM](https://archive.org/download/htrnews-2022/htrnews-2022-08-08T22:45:45.218118-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 40 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 42 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 12 at 5:50 AM](https://archive.org/download/htrnews-2022/htrnews-2022-08-12T12:50:26.763707-05:00.lighthouse.json) |
-| [August 11 at 9:59 PM](https://archive.org/download/htrnews-2022/htrnews-2022-08-12T04:59:30.983414-05:00.lighthouse.json) |
-| [August 11 at 6:40 AM](https://archive.org/download/htrnews-2022/htrnews-2022-08-11T13:40:45.689905-05:00.lighthouse.json) |
-| [August 10 at 3:54 PM](https://archive.org/download/htrnews-2022/htrnews-2022-08-10T22:54:04.092392-05:00.lighthouse.json) |
-| [August 10 at 6:06 AM](https://archive.org/download/htrnews-2022/htrnews-2022-08-10T13:06:01.013289-05:00.lighthouse.json) |
-| [August 9 at 4:01 PM](https://archive.org/download/htrnews-2022/htrnews-2022-08-09T23:01:20.040079-05:00.lighthouse.json) |
-| [August 9 at 5:27 AM](https://archive.org/download/htrnews-2022/htrnews-2022-08-09T12:27:07.220829-05:00.lighthouse.json) |
-| [August 8 at 3:45 PM](https://archive.org/download/htrnews-2022/htrnews-2022-08-08T22:45:45.218118-05:00.lighthouse.json) |
-| [August 8 at 5:02 AM](https://archive.org/download/htrnews-2022/htrnews-2022-08-08T12:02:41.586911-05:00.lighthouse.json) |
-| [August 7 at 5:10 PM](https://archive.org/download/htrnews-2022/htrnews-2022-08-08T00:10:17.033220-05:00.lighthouse.json) |
+| [August 13 at 3:25 PM](https://archive.org/download/htrnews-2022/htrnews-2022-08-13T15:25:02.218020-05:00.lighthouse.json) |
+| [August 12 at 10:43 PM](https://archive.org/download/htrnews-2022/htrnews-2022-08-12T22:43:47.397352-05:00.lighthouse.json) |
+| [August 12 at 12:50 PM](https://archive.org/download/htrnews-2022/htrnews-2022-08-12T12:50:26.763707-05:00.lighthouse.json) |
+| [August 12 at 4:59 AM](https://archive.org/download/htrnews-2022/htrnews-2022-08-12T04:59:30.983414-05:00.lighthouse.json) |
+| [August 11 at 1:40 PM](https://archive.org/download/htrnews-2022/htrnews-2022-08-11T13:40:45.689905-05:00.lighthouse.json) |
+| [August 10 at 10:54 PM](https://archive.org/download/htrnews-2022/htrnews-2022-08-10T22:54:04.092392-05:00.lighthouse.json) |
+| [August 10 at 1:06 PM](https://archive.org/download/htrnews-2022/htrnews-2022-08-10T13:06:01.013289-05:00.lighthouse.json) |
+| [August 9 at 11:01 PM](https://archive.org/download/htrnews-2022/htrnews-2022-08-09T23:01:20.040079-05:00.lighthouse.json) |
+| [August 9 at 12:27 PM](https://archive.org/download/htrnews-2022/htrnews-2022-08-09T12:27:07.220829-05:00.lighthouse.json) |
+| [August 8 at 10:45 PM](https://archive.org/download/htrnews-2022/htrnews-2022-08-08T22:45:45.218118-05:00.lighthouse.json) |
 
 
 

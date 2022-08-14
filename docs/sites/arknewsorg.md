@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 71 screenshots with the Internet Archive.
+The archiving routine has saved 73 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -114,118 +114,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-12T19:24:32.363464-05:00.jpg">
-  <img src="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-12T19:24:32.363464-05:00.jpg"
-     alt="Arkansas Nonprofit News Network at 2022-08-12 12:24:35-05:00 local time"
+ <a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-13T18:44:44.914672-05:00.jpg">
+  <img src="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-13T18:44:44.914672-05:00.jpg"
+     alt="Arkansas Nonprofit News Network at 2022-08-13 18:44:52-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-12T19:24:32.363464-05:00.jpg">August 12 at 12:24 PM</a></p>
+ <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-13T18:44:44.914672-05:00.jpg">August 13 at 6:44 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-13T07:50:52.118449-05:00.jpg">
+  <img src="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-13T07:50:52.118449-05:00.jpg"
+     alt="Arkansas Nonprofit News Network at 2022-08-13 07:50:55-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-13T07:50:52.118449-05:00.jpg">August 13 at 7:50 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-12T19:24:32.363464-05:00.jpg">
+  <img src="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-12T19:24:32.363464-05:00.jpg"
+     alt="Arkansas Nonprofit News Network at 2022-08-12 19:24:35-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-12T19:24:32.363464-05:00.jpg">August 12 at 7:24 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-12T06:35:22.916742-05:00.jpg">
   <img src="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-12T06:35:22.916742-05:00.jpg"
-     alt="Arkansas Nonprofit News Network at 2022-08-11 23:35:24-05:00 local time"
+     alt="Arkansas Nonprofit News Network at 2022-08-12 06:35:24-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-12T06:35:22.916742-05:00.jpg">August 11 at 11:35 PM</a></p>
+ <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-12T06:35:22.916742-05:00.jpg">August 12 at 6:35 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-11T18:17:11.857625-05:00.jpg">
   <img src="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-11T18:17:11.857625-05:00.jpg"
-     alt="Arkansas Nonprofit News Network at 2022-08-11 11:17:14-05:00 local time"
+     alt="Arkansas Nonprofit News Network at 2022-08-11 18:17:14-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-11T18:17:11.857625-05:00.jpg">August 11 at 11:17 AM</a></p>
+ <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-11T18:17:11.857625-05:00.jpg">August 11 at 6:17 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-11T06:31:47.912171-05:00.jpg">
   <img src="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-11T06:31:47.912171-05:00.jpg"
-     alt="Arkansas Nonprofit News Network at 2022-08-10 23:31:49-05:00 local time"
+     alt="Arkansas Nonprofit News Network at 2022-08-11 06:31:49-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-11T06:31:47.912171-05:00.jpg">August 10 at 11:31 PM</a></p>
+ <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-11T06:31:47.912171-05:00.jpg">August 11 at 6:31 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-10T19:36:37.264728-05:00.jpg">
   <img src="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-10T19:36:37.264728-05:00.jpg"
-     alt="Arkansas Nonprofit News Network at 2022-08-10 12:36:38-05:00 local time"
+     alt="Arkansas Nonprofit News Network at 2022-08-10 19:36:38-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-10T19:36:37.264728-05:00.jpg">August 10 at 12:36 PM</a></p>
+ <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-10T19:36:37.264728-05:00.jpg">August 10 at 7:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-10T07:50:29.660406-05:00.jpg">
   <img src="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-10T07:50:29.660406-05:00.jpg"
-     alt="Arkansas Nonprofit News Network at 2022-08-10 00:50:31-05:00 local time"
+     alt="Arkansas Nonprofit News Network at 2022-08-10 07:50:31-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-10T07:50:29.660406-05:00.jpg">August 10 at 12:50 AM</a></p>
+ <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-10T07:50:29.660406-05:00.jpg">August 10 at 7:50 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-09T18:20:30.656681-05:00.jpg">
   <img src="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-09T18:20:30.656681-05:00.jpg"
-     alt="Arkansas Nonprofit News Network at 2022-08-09 11:20:32-05:00 local time"
+     alt="Arkansas Nonprofit News Network at 2022-08-09 18:20:32-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-09T18:20:30.656681-05:00.jpg">August 9 at 11:20 AM</a></p>
+ <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-09T18:20:30.656681-05:00.jpg">August 9 at 6:20 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-09T07:37:54.487021-05:00.jpg">
   <img src="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-09T07:37:54.487021-05:00.jpg"
-     alt="Arkansas Nonprofit News Network at 2022-08-09 00:37:56-05:00 local time"
+     alt="Arkansas Nonprofit News Network at 2022-08-09 07:37:56-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-09T07:37:54.487021-05:00.jpg">August 9 at 12:37 AM</a></p>
+ <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-09T07:37:54.487021-05:00.jpg">August 9 at 7:37 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-08T19:31:57.135321-05:00.jpg">
   <img src="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-08T19:31:57.135321-05:00.jpg"
-     alt="Arkansas Nonprofit News Network at 2022-08-08 12:31:59-05:00 local time"
+     alt="Arkansas Nonprofit News Network at 2022-08-08 19:31:59-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-08T19:31:57.135321-05:00.jpg">August 8 at 12:31 PM</a></p>
+ <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-08T19:31:57.135321-05:00.jpg">August 8 at 7:31 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-08T06:18:10.650271-05:00.jpg">
   <img src="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-08T06:18:10.650271-05:00.jpg"
-     alt="Arkansas Nonprofit News Network at 2022-08-07 23:18:17-05:00 local time"
+     alt="Arkansas Nonprofit News Network at 2022-08-08 06:18:17-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-08T06:18:10.650271-05:00.jpg">August 7 at 11:18 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-07T19:39:34.665375-05:00.jpg">
-  <img src="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-07T19:39:34.665375-05:00.jpg"
-     alt="Arkansas Nonprofit News Network at 2022-08-07 12:39:37-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-07T19:39:34.665375-05:00.jpg">August 7 at 12:39 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-07T07:20:43.738092-05:00.jpg">
-  <img src="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-07T07:20:43.738092-05:00.jpg"
-     alt="Arkansas Nonprofit News Network at 2022-08-07 00:20:46-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-07T07:20:43.738092-05:00.jpg">August 7 at 12:20 AM</a></p>
+ <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-08T06:18:10.650271-05:00.jpg">August 8 at 6:18 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 71 hyperlink lists with the Internet Archive.
+The archiving routine has saved 73 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,21 +316,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 12 at 12:24 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-12T19:24:32.363464-05:00.hyperlinks.json) |
-| [August 11 at 11:35 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-12T06:35:22.916742-05:00.hyperlinks.json) |
-| [August 11 at 11:17 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-11T18:17:11.857625-05:00.hyperlinks.json) |
-| [August 10 at 11:31 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-11T06:31:47.912171-05:00.hyperlinks.json) |
-| [August 10 at 12:36 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-10T19:36:37.264728-05:00.hyperlinks.json) |
-| [August 10 at 12:50 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-10T07:50:29.660406-05:00.hyperlinks.json) |
-| [August 9 at 11:20 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-09T18:20:30.656681-05:00.hyperlinks.json) |
-| [August 9 at 12:37 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-09T07:37:54.487021-05:00.hyperlinks.json) |
-| [August 8 at 12:32 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-08T19:31:57.135321-05:00.hyperlinks.json) |
-| [August 7 at 11:18 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-08T06:18:10.650271-05:00.hyperlinks.json) |
+| [August 13 at 6:44 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-13T18:44:44.914672-05:00.hyperlinks.json) |
+| [August 13 at 7:50 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-13T07:50:52.118449-05:00.hyperlinks.json) |
+| [August 12 at 7:24 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-12T19:24:32.363464-05:00.hyperlinks.json) |
+| [August 12 at 6:35 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-12T06:35:22.916742-05:00.hyperlinks.json) |
+| [August 11 at 6:17 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-11T18:17:11.857625-05:00.hyperlinks.json) |
+| [August 11 at 6:31 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-11T06:31:47.912171-05:00.hyperlinks.json) |
+| [August 10 at 7:36 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-10T19:36:37.264728-05:00.hyperlinks.json) |
+| [August 10 at 7:50 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-10T07:50:29.660406-05:00.hyperlinks.json) |
+| [August 9 at 6:20 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-09T18:20:30.656681-05:00.hyperlinks.json) |
+| [August 9 at 7:37 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-09T07:37:54.487021-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 71 accessibility trees with the Internet Archive.
+The archiving routine has saved 73 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,22 +421,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 12 at 12:24 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-12T19:24:32.363464-05:00.accessibility.json) |
-| [August 11 at 11:35 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-12T06:35:22.916742-05:00.accessibility.json) |
-| [August 11 at 11:17 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-11T18:17:11.857625-05:00.accessibility.json) |
-| [August 10 at 11:31 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-11T06:31:47.912171-05:00.accessibility.json) |
-| [August 10 at 12:36 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-10T19:36:37.264728-05:00.accessibility.json) |
-| [August 10 at 12:50 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-10T07:50:29.660406-05:00.accessibility.json) |
-| [August 9 at 11:20 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-09T18:20:30.656681-05:00.accessibility.json) |
-| [August 9 at 12:37 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-09T07:37:54.487021-05:00.accessibility.json) |
-| [August 8 at 12:32 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-08T19:31:57.135321-05:00.accessibility.json) |
-| [August 7 at 11:18 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-08T06:18:10.650271-05:00.accessibility.json) |
+| [August 13 at 6:44 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-13T18:44:44.914672-05:00.accessibility.json) |
+| [August 13 at 7:50 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-13T07:50:52.118449-05:00.accessibility.json) |
+| [August 12 at 7:24 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-12T19:24:32.363464-05:00.accessibility.json) |
+| [August 12 at 6:35 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-12T06:35:22.916742-05:00.accessibility.json) |
+| [August 11 at 6:17 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-11T18:17:11.857625-05:00.accessibility.json) |
+| [August 11 at 6:31 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-11T06:31:47.912171-05:00.accessibility.json) |
+| [August 10 at 7:36 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-10T19:36:37.264728-05:00.accessibility.json) |
+| [August 10 at 7:50 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-10T07:50:29.660406-05:00.accessibility.json) |
+| [August 9 at 6:20 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-09T18:20:30.656681-05:00.accessibility.json) |
+| [August 9 at 7:37 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-09T07:37:54.487021-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 41 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 43 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 12 at 12:24 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-12T19:24:32.363464-05:00.lighthouse.json) |
-| [August 11 at 11:35 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-12T06:35:22.916742-05:00.lighthouse.json) |
-| [August 11 at 11:17 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-11T18:17:11.857625-05:00.lighthouse.json) |
-| [August 10 at 11:31 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-11T06:31:47.912171-05:00.lighthouse.json) |
-| [August 10 at 12:36 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-10T19:36:37.264728-05:00.lighthouse.json) |
-| [August 10 at 12:50 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-10T07:50:29.660406-05:00.lighthouse.json) |
-| [August 9 at 11:20 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-09T18:20:30.656681-05:00.lighthouse.json) |
-| [August 9 at 12:38 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-09T07:37:54.487021-05:00.lighthouse.json) |
-| [August 8 at 12:32 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-08T19:31:57.135321-05:00.lighthouse.json) |
-| [August 7 at 11:18 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-08T06:18:10.650271-05:00.lighthouse.json) |
+| [August 13 at 6:44 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-13T18:44:44.914672-05:00.lighthouse.json) |
+| [August 13 at 7:50 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-13T07:50:52.118449-05:00.lighthouse.json) |
+| [August 12 at 7:24 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-12T19:24:32.363464-05:00.lighthouse.json) |
+| [August 12 at 6:35 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-12T06:35:22.916742-05:00.lighthouse.json) |
+| [August 11 at 6:17 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-11T18:17:11.857625-05:00.lighthouse.json) |
+| [August 11 at 6:31 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-11T06:31:47.912171-05:00.lighthouse.json) |
+| [August 10 at 7:36 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-10T19:36:37.264728-05:00.lighthouse.json) |
+| [August 10 at 7:50 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-10T07:50:29.660406-05:00.lighthouse.json) |
+| [August 9 at 6:20 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-09T18:20:30.656681-05:00.lighthouse.json) |
+| [August 9 at 7:38 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-08-09T07:37:54.487021-05:00.lighthouse.json) |
 
 
 

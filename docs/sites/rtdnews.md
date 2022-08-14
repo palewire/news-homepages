@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 36 screenshots with the Internet Archive.
+The archiving routine has saved 37 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -114,118 +114,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-12T20:50:07.619811-04:00.jpg">
-  <img src="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-12T20:50:07.619811-04:00.jpg"
-     alt="Richmond Times-Dispatch at 2022-08-12 13:50:09-04:00 local time"
+ <a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-13T09:18:35.331682-04:00.jpg">
+  <img src="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-13T09:18:35.331682-04:00.jpg"
+     alt="Richmond Times-Dispatch at 2022-08-13 09:18:41-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-12T20:50:07.619811-04:00.jpg">August 12 at 1:50 PM</a></p>
+ <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-13T09:18:35.331682-04:00.jpg">August 13 at 9:18 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-12T20:50:07.619811-04:00.jpg">
+  <img src="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-12T20:50:07.619811-04:00.jpg"
+     alt="Richmond Times-Dispatch at 2022-08-12 20:50:09-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-12T20:50:07.619811-04:00.jpg">August 12 at 8:50 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-12T09:30:38.007504-04:00.jpg">
   <img src="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-12T09:30:38.007504-04:00.jpg"
-     alt="Richmond Times-Dispatch at 2022-08-12 02:30:39-04:00 local time"
+     alt="Richmond Times-Dispatch at 2022-08-12 09:30:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-12T09:30:38.007504-04:00.jpg">August 12 at 2:30 AM</a></p>
+ <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-12T09:30:38.007504-04:00.jpg">August 12 at 9:30 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-12T05:25:43.437863-04:00.jpg">
   <img src="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-12T05:25:43.437863-04:00.jpg"
-     alt="Richmond Times-Dispatch at 2022-08-11 22:25:44-04:00 local time"
+     alt="Richmond Times-Dispatch at 2022-08-12 05:25:44-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-12T05:25:43.437863-04:00.jpg">August 11 at 10:25 PM</a></p>
+ <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-12T05:25:43.437863-04:00.jpg">August 12 at 5:25 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-11T09:49:13.345578-04:00.jpg">
   <img src="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-11T09:49:13.345578-04:00.jpg"
-     alt="Richmond Times-Dispatch at 2022-08-11 02:49:14-04:00 local time"
+     alt="Richmond Times-Dispatch at 2022-08-11 09:49:14-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-11T09:49:13.345578-04:00.jpg">August 11 at 2:49 AM</a></p>
+ <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-11T09:49:13.345578-04:00.jpg">August 11 at 9:49 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-10T20:58:49.250671-04:00.jpg">
   <img src="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-10T20:58:49.250671-04:00.jpg"
-     alt="Richmond Times-Dispatch at 2022-08-10 13:58:52-04:00 local time"
+     alt="Richmond Times-Dispatch at 2022-08-10 20:58:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-10T20:58:49.250671-04:00.jpg">August 10 at 1:58 PM</a></p>
+ <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-10T20:58:49.250671-04:00.jpg">August 10 at 8:58 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-10T09:19:20.691707-04:00.jpg">
   <img src="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-10T09:19:20.691707-04:00.jpg"
-     alt="Richmond Times-Dispatch at 2022-08-10 02:19:22-04:00 local time"
+     alt="Richmond Times-Dispatch at 2022-08-10 09:19:22-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-10T09:19:20.691707-04:00.jpg">August 10 at 2:19 AM</a></p>
+ <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-10T09:19:20.691707-04:00.jpg">August 10 at 9:19 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-09T21:05:05.784174-04:00.jpg">
   <img src="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-09T21:05:05.784174-04:00.jpg"
-     alt="Richmond Times-Dispatch at 2022-08-09 14:05:07-04:00 local time"
+     alt="Richmond Times-Dispatch at 2022-08-09 21:05:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-09T21:05:05.784174-04:00.jpg">August 9 at 2:05 PM</a></p>
+ <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-09T21:05:05.784174-04:00.jpg">August 9 at 9:05 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-09T09:04:01.392622-04:00.jpg">
   <img src="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-09T09:04:01.392622-04:00.jpg"
-     alt="Richmond Times-Dispatch at 2022-08-09 02:04:04-04:00 local time"
+     alt="Richmond Times-Dispatch at 2022-08-09 09:04:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-09T09:04:01.392622-04:00.jpg">August 9 at 2:04 AM</a></p>
+ <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-09T09:04:01.392622-04:00.jpg">August 9 at 9:04 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-08T20:59:21.725059-04:00.jpg">
   <img src="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-08T20:59:21.725059-04:00.jpg"
-     alt="Richmond Times-Dispatch at 2022-08-08 13:59:24-04:00 local time"
+     alt="Richmond Times-Dispatch at 2022-08-08 20:59:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-08T20:59:21.725059-04:00.jpg">August 8 at 1:59 PM</a></p>
+ <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-08T20:59:21.725059-04:00.jpg">August 8 at 8:59 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-08T08:50:22.749777-04:00.jpg">
   <img src="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-08T08:50:22.749777-04:00.jpg"
-     alt="Richmond Times-Dispatch at 2022-08-08 01:50:24-04:00 local time"
+     alt="Richmond Times-Dispatch at 2022-08-08 08:50:24-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-08T08:50:22.749777-04:00.jpg">August 8 at 1:50 AM</a></p>
+ <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-08T08:50:22.749777-04:00.jpg">August 8 at 8:50 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-07T21:08:35.519957-04:00.jpg">
   <img src="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-07T21:08:35.519957-04:00.jpg"
-     alt="Richmond Times-Dispatch at 2022-08-07 14:08:36-04:00 local time"
+     alt="Richmond Times-Dispatch at 2022-08-07 21:08:36-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-07T21:08:35.519957-04:00.jpg">August 7 at 2:08 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-07T08:45:48.535620-04:00.jpg">
-  <img src="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-07T08:45:48.535620-04:00.jpg"
-     alt="Richmond Times-Dispatch at 2022-08-07 01:45:50-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-07T08:45:48.535620-04:00.jpg">August 7 at 1:45 AM</a></p>
+ <p><a href="https://archive.org/download/rtdnews-2022/rtdnews-2022-08-07T21:08:35.519957-04:00.jpg">August 7 at 9:08 PM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 35 hyperlink lists with the Internet Archive.
+The archiving routine has saved 36 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,21 +316,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 12 at 1:50 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-12T20:50:07.619811-04:00.hyperlinks.json) |
-| [August 12 at 2:30 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-12T09:30:38.007504-04:00.hyperlinks.json) |
-| [August 11 at 10:25 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-12T05:25:43.437863-04:00.hyperlinks.json) |
-| [August 11 at 2:49 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-11T09:49:13.345578-04:00.hyperlinks.json) |
-| [August 10 at 1:58 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-10T20:58:49.250671-04:00.hyperlinks.json) |
-| [August 10 at 2:19 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-10T09:19:20.691707-04:00.hyperlinks.json) |
-| [August 9 at 2:05 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-09T21:05:05.784174-04:00.hyperlinks.json) |
-| [August 9 at 2:04 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-09T09:04:01.392622-04:00.hyperlinks.json) |
-| [August 8 at 1:59 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-08T20:59:21.725059-04:00.hyperlinks.json) |
-| [August 8 at 1:50 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-08T08:50:22.749777-04:00.hyperlinks.json) |
+| [August 13 at 9:18 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-13T09:18:35.331682-04:00.hyperlinks.json) |
+| [August 12 at 8:50 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-12T20:50:07.619811-04:00.hyperlinks.json) |
+| [August 12 at 9:30 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-12T09:30:38.007504-04:00.hyperlinks.json) |
+| [August 12 at 5:25 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-12T05:25:43.437863-04:00.hyperlinks.json) |
+| [August 11 at 9:49 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-11T09:49:13.345578-04:00.hyperlinks.json) |
+| [August 10 at 8:58 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-10T20:58:49.250671-04:00.hyperlinks.json) |
+| [August 10 at 9:19 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-10T09:19:20.691707-04:00.hyperlinks.json) |
+| [August 9 at 9:05 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-09T21:05:05.784174-04:00.hyperlinks.json) |
+| [August 9 at 9:04 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-09T09:04:01.392622-04:00.hyperlinks.json) |
+| [August 8 at 8:59 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-08T20:59:21.725059-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 36 accessibility trees with the Internet Archive.
+The archiving routine has saved 37 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,22 +421,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 12 at 1:50 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-12T20:50:07.619811-04:00.accessibility.json) |
-| [August 12 at 2:30 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-12T09:30:38.007504-04:00.accessibility.json) |
-| [August 11 at 10:25 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-12T05:25:43.437863-04:00.accessibility.json) |
-| [August 11 at 2:49 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-11T09:49:13.345578-04:00.accessibility.json) |
-| [August 10 at 1:58 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-10T20:58:49.250671-04:00.accessibility.json) |
-| [August 10 at 2:19 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-10T09:19:20.691707-04:00.accessibility.json) |
-| [August 9 at 2:05 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-09T21:05:05.784174-04:00.accessibility.json) |
-| [August 9 at 2:04 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-09T09:04:01.392622-04:00.accessibility.json) |
-| [August 8 at 1:59 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-08T20:59:21.725059-04:00.accessibility.json) |
-| [August 8 at 1:50 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-08T08:50:22.749777-04:00.accessibility.json) |
+| [August 13 at 9:18 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-13T09:18:35.331682-04:00.accessibility.json) |
+| [August 12 at 8:50 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-12T20:50:07.619811-04:00.accessibility.json) |
+| [August 12 at 9:30 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-12T09:30:38.007504-04:00.accessibility.json) |
+| [August 12 at 5:25 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-12T05:25:43.437863-04:00.accessibility.json) |
+| [August 11 at 9:49 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-11T09:49:13.345578-04:00.accessibility.json) |
+| [August 10 at 8:58 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-10T20:58:49.250671-04:00.accessibility.json) |
+| [August 10 at 9:19 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-10T09:19:20.691707-04:00.accessibility.json) |
+| [August 9 at 9:05 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-09T21:05:05.784174-04:00.accessibility.json) |
+| [August 9 at 9:04 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-09T09:04:01.392622-04:00.accessibility.json) |
+| [August 8 at 8:59 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-08T20:59:21.725059-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 37 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 38 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 12 at 1:50 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-12T20:50:07.619811-04:00.lighthouse.json) |
-| [August 12 at 2:30 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-12T09:30:38.007504-04:00.lighthouse.json) |
-| [August 11 at 10:25 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-12T05:25:43.437863-04:00.lighthouse.json) |
-| [August 11 at 2:49 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-11T09:49:13.345578-04:00.lighthouse.json) |
-| [August 10 at 1:58 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-10T20:58:49.250671-04:00.lighthouse.json) |
-| [August 10 at 2:19 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-10T09:19:20.691707-04:00.lighthouse.json) |
-| [August 9 at 2:05 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-09T21:05:05.784174-04:00.lighthouse.json) |
-| [August 9 at 2:04 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-09T09:04:01.392622-04:00.lighthouse.json) |
-| [August 8 at 1:59 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-08T20:59:21.725059-04:00.lighthouse.json) |
-| [August 8 at 1:50 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-08T08:50:22.749777-04:00.lighthouse.json) |
+| [August 13 at 9:18 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-13T09:18:35.331682-04:00.lighthouse.json) |
+| [August 12 at 8:50 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-12T20:50:07.619811-04:00.lighthouse.json) |
+| [August 12 at 9:30 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-12T09:30:38.007504-04:00.lighthouse.json) |
+| [August 12 at 5:25 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-12T05:25:43.437863-04:00.lighthouse.json) |
+| [August 11 at 9:49 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-11T09:49:13.345578-04:00.lighthouse.json) |
+| [August 10 at 8:58 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-10T20:58:49.250671-04:00.lighthouse.json) |
+| [August 10 at 9:19 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-10T09:19:20.691707-04:00.lighthouse.json) |
+| [August 9 at 9:05 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-09T21:05:05.784174-04:00.lighthouse.json) |
+| [August 9 at 9:04 AM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-09T09:04:01.392622-04:00.lighthouse.json) |
+| [August 8 at 8:59 PM](https://archive.org/download/rtdnews-2022/rtdnews-2022-08-08T20:59:21.725059-04:00.lighthouse.json) |
 
 
 

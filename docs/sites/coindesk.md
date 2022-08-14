@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 39 screenshots with the Internet Archive.
+The archiving routine has saved 41 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -114,118 +114,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/coindesk-2022/coindesk-2022-08-12T20:30:55.823638-04:00.jpg">
-  <img src="https://archive.org/download/coindesk-2022/coindesk-2022-08-12T20:30:55.823638-04:00.jpg"
-     alt="CoinDesk at 2022-08-12 13:30:58-04:00 local time"
+ <a href="https://archive.org/download/coindesk-2022/coindesk-2022-08-13T19:50:35.487827-04:00.jpg">
+  <img src="https://archive.org/download/coindesk-2022/coindesk-2022-08-13T19:50:35.487827-04:00.jpg"
+     alt="CoinDesk at 2022-08-13 19:50:38-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/coindesk-2022/coindesk-2022-08-12T20:30:55.823638-04:00.jpg">August 12 at 1:30 PM</a></p>
+ <p><a href="https://archive.org/download/coindesk-2022/coindesk-2022-08-13T19:50:35.487827-04:00.jpg">August 13 at 7:50 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/coindesk-2022/coindesk-2022-08-13T08:55:44.492962-04:00.jpg">
+  <img src="https://archive.org/download/coindesk-2022/coindesk-2022-08-13T08:55:44.492962-04:00.jpg"
+     alt="CoinDesk at 2022-08-13 08:55:51-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/coindesk-2022/coindesk-2022-08-13T08:55:44.492962-04:00.jpg">August 13 at 8:55 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/coindesk-2022/coindesk-2022-08-12T20:30:55.823638-04:00.jpg">
+  <img src="https://archive.org/download/coindesk-2022/coindesk-2022-08-12T20:30:55.823638-04:00.jpg"
+     alt="CoinDesk at 2022-08-12 20:30:58-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/coindesk-2022/coindesk-2022-08-12T20:30:55.823638-04:00.jpg">August 12 at 8:30 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/coindesk-2022/coindesk-2022-08-12T07:40:24.871068-04:00.jpg">
   <img src="https://archive.org/download/coindesk-2022/coindesk-2022-08-12T07:40:24.871068-04:00.jpg"
-     alt="CoinDesk at 2022-08-12 00:40:30-04:00 local time"
+     alt="CoinDesk at 2022-08-12 07:40:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/coindesk-2022/coindesk-2022-08-12T07:40:24.871068-04:00.jpg">August 12 at 12:40 AM</a></p>
+ <p><a href="https://archive.org/download/coindesk-2022/coindesk-2022-08-12T07:40:24.871068-04:00.jpg">August 12 at 7:40 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/coindesk-2022/coindesk-2022-08-11T19:22:55.097392-04:00.jpg">
   <img src="https://archive.org/download/coindesk-2022/coindesk-2022-08-11T19:22:55.097392-04:00.jpg"
-     alt="CoinDesk at 2022-08-11 12:23:00-04:00 local time"
+     alt="CoinDesk at 2022-08-11 19:23:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/coindesk-2022/coindesk-2022-08-11T19:22:55.097392-04:00.jpg">August 11 at 12:23 PM</a></p>
+ <p><a href="https://archive.org/download/coindesk-2022/coindesk-2022-08-11T19:22:55.097392-04:00.jpg">August 11 at 7:23 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/coindesk-2022/coindesk-2022-08-11T07:38:06.463089-04:00.jpg">
   <img src="https://archive.org/download/coindesk-2022/coindesk-2022-08-11T07:38:06.463089-04:00.jpg"
-     alt="CoinDesk at 2022-08-11 00:38:07-04:00 local time"
+     alt="CoinDesk at 2022-08-11 07:38:07-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/coindesk-2022/coindesk-2022-08-11T07:38:06.463089-04:00.jpg">August 11 at 12:38 AM</a></p>
+ <p><a href="https://archive.org/download/coindesk-2022/coindesk-2022-08-11T07:38:06.463089-04:00.jpg">August 11 at 7:38 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/coindesk-2022/coindesk-2022-08-10T20:40:53.547541-04:00.jpg">
   <img src="https://archive.org/download/coindesk-2022/coindesk-2022-08-10T20:40:53.547541-04:00.jpg"
-     alt="CoinDesk at 2022-08-10 13:40:56-04:00 local time"
+     alt="CoinDesk at 2022-08-10 20:40:56-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/coindesk-2022/coindesk-2022-08-10T20:40:53.547541-04:00.jpg">August 10 at 1:40 PM</a></p>
+ <p><a href="https://archive.org/download/coindesk-2022/coindesk-2022-08-10T20:40:53.547541-04:00.jpg">August 10 at 8:40 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/coindesk-2022/coindesk-2022-08-10T08:55:44.264855-04:00.jpg">
   <img src="https://archive.org/download/coindesk-2022/coindesk-2022-08-10T08:55:44.264855-04:00.jpg"
-     alt="CoinDesk at 2022-08-10 01:55:46-04:00 local time"
+     alt="CoinDesk at 2022-08-10 08:55:46-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/coindesk-2022/coindesk-2022-08-10T08:55:44.264855-04:00.jpg">August 10 at 1:55 AM</a></p>
+ <p><a href="https://archive.org/download/coindesk-2022/coindesk-2022-08-10T08:55:44.264855-04:00.jpg">August 10 at 8:55 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/coindesk-2022/coindesk-2022-08-09T19:25:52.269141-04:00.jpg">
   <img src="https://archive.org/download/coindesk-2022/coindesk-2022-08-09T19:25:52.269141-04:00.jpg"
-     alt="CoinDesk at 2022-08-09 12:25:53-04:00 local time"
+     alt="CoinDesk at 2022-08-09 19:25:53-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/coindesk-2022/coindesk-2022-08-09T19:25:52.269141-04:00.jpg">August 9 at 12:25 PM</a></p>
+ <p><a href="https://archive.org/download/coindesk-2022/coindesk-2022-08-09T19:25:52.269141-04:00.jpg">August 9 at 7:25 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/coindesk-2022/coindesk-2022-08-09T08:42:01.110162-04:00.jpg">
   <img src="https://archive.org/download/coindesk-2022/coindesk-2022-08-09T08:42:01.110162-04:00.jpg"
-     alt="CoinDesk at 2022-08-09 01:42:04-04:00 local time"
+     alt="CoinDesk at 2022-08-09 08:42:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/coindesk-2022/coindesk-2022-08-09T08:42:01.110162-04:00.jpg">August 9 at 1:42 AM</a></p>
+ <p><a href="https://archive.org/download/coindesk-2022/coindesk-2022-08-09T08:42:01.110162-04:00.jpg">August 9 at 8:42 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/coindesk-2022/coindesk-2022-08-08T20:37:40.590860-04:00.jpg">
   <img src="https://archive.org/download/coindesk-2022/coindesk-2022-08-08T20:37:40.590860-04:00.jpg"
-     alt="CoinDesk at 2022-08-08 13:37:42-04:00 local time"
+     alt="CoinDesk at 2022-08-08 20:37:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/coindesk-2022/coindesk-2022-08-08T20:37:40.590860-04:00.jpg">August 8 at 1:37 PM</a></p>
+ <p><a href="https://archive.org/download/coindesk-2022/coindesk-2022-08-08T20:37:40.590860-04:00.jpg">August 8 at 8:37 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/coindesk-2022/coindesk-2022-08-08T07:24:32.012683-04:00.jpg">
   <img src="https://archive.org/download/coindesk-2022/coindesk-2022-08-08T07:24:32.012683-04:00.jpg"
-     alt="CoinDesk at 2022-08-08 00:24:35-04:00 local time"
+     alt="CoinDesk at 2022-08-08 07:24:35-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/coindesk-2022/coindesk-2022-08-08T07:24:32.012683-04:00.jpg">August 8 at 12:24 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/coindesk-2022/coindesk-2022-08-07T20:45:43.267283-04:00.jpg">
-  <img src="https://archive.org/download/coindesk-2022/coindesk-2022-08-07T20:45:43.267283-04:00.jpg"
-     alt="CoinDesk at 2022-08-07 13:45:45-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/coindesk-2022/coindesk-2022-08-07T20:45:43.267283-04:00.jpg">August 7 at 1:45 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/coindesk-2022/coindesk-2022-08-07T08:26:08.195421-04:00.jpg">
-  <img src="https://archive.org/download/coindesk-2022/coindesk-2022-08-07T08:26:08.195421-04:00.jpg"
-     alt="CoinDesk at 2022-08-07 01:26:13-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/coindesk-2022/coindesk-2022-08-07T08:26:08.195421-04:00.jpg">August 7 at 1:26 AM</a></p>
+ <p><a href="https://archive.org/download/coindesk-2022/coindesk-2022-08-08T07:24:32.012683-04:00.jpg">August 8 at 7:24 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 39 hyperlink lists with the Internet Archive.
+The archiving routine has saved 41 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,21 +316,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 12 at 1:31 PM](https://archive.org/download/coindesk-2022/coindesk-2022-08-12T20:30:55.823638-04:00.hyperlinks.json) |
-| [August 12 at 12:40 AM](https://archive.org/download/coindesk-2022/coindesk-2022-08-12T07:40:24.871068-04:00.hyperlinks.json) |
-| [August 11 at 12:23 PM](https://archive.org/download/coindesk-2022/coindesk-2022-08-11T19:22:55.097392-04:00.hyperlinks.json) |
-| [August 11 at 12:38 AM](https://archive.org/download/coindesk-2022/coindesk-2022-08-11T07:38:06.463089-04:00.hyperlinks.json) |
-| [August 10 at 1:41 PM](https://archive.org/download/coindesk-2022/coindesk-2022-08-10T20:40:53.547541-04:00.hyperlinks.json) |
-| [August 10 at 1:55 AM](https://archive.org/download/coindesk-2022/coindesk-2022-08-10T08:55:44.264855-04:00.hyperlinks.json) |
-| [August 9 at 12:25 PM](https://archive.org/download/coindesk-2022/coindesk-2022-08-09T19:25:52.269141-04:00.hyperlinks.json) |
-| [August 9 at 1:42 AM](https://archive.org/download/coindesk-2022/coindesk-2022-08-09T08:42:01.110162-04:00.hyperlinks.json) |
-| [August 8 at 1:37 PM](https://archive.org/download/coindesk-2022/coindesk-2022-08-08T20:37:40.590860-04:00.hyperlinks.json) |
-| [August 8 at 12:24 AM](https://archive.org/download/coindesk-2022/coindesk-2022-08-08T07:24:32.012683-04:00.hyperlinks.json) |
+| [August 13 at 7:50 PM](https://archive.org/download/coindesk-2022/coindesk-2022-08-13T19:50:35.487827-04:00.hyperlinks.json) |
+| [August 13 at 8:55 AM](https://archive.org/download/coindesk-2022/coindesk-2022-08-13T08:55:44.492962-04:00.hyperlinks.json) |
+| [August 12 at 8:31 PM](https://archive.org/download/coindesk-2022/coindesk-2022-08-12T20:30:55.823638-04:00.hyperlinks.json) |
+| [August 12 at 7:40 AM](https://archive.org/download/coindesk-2022/coindesk-2022-08-12T07:40:24.871068-04:00.hyperlinks.json) |
+| [August 11 at 7:23 PM](https://archive.org/download/coindesk-2022/coindesk-2022-08-11T19:22:55.097392-04:00.hyperlinks.json) |
+| [August 11 at 7:38 AM](https://archive.org/download/coindesk-2022/coindesk-2022-08-11T07:38:06.463089-04:00.hyperlinks.json) |
+| [August 10 at 8:41 PM](https://archive.org/download/coindesk-2022/coindesk-2022-08-10T20:40:53.547541-04:00.hyperlinks.json) |
+| [August 10 at 8:55 AM](https://archive.org/download/coindesk-2022/coindesk-2022-08-10T08:55:44.264855-04:00.hyperlinks.json) |
+| [August 9 at 7:25 PM](https://archive.org/download/coindesk-2022/coindesk-2022-08-09T19:25:52.269141-04:00.hyperlinks.json) |
+| [August 9 at 8:42 AM](https://archive.org/download/coindesk-2022/coindesk-2022-08-09T08:42:01.110162-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 39 accessibility trees with the Internet Archive.
+The archiving routine has saved 41 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,22 +421,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 12 at 1:31 PM](https://archive.org/download/coindesk-2022/coindesk-2022-08-12T20:30:55.823638-04:00.accessibility.json) |
-| [August 12 at 12:40 AM](https://archive.org/download/coindesk-2022/coindesk-2022-08-12T07:40:24.871068-04:00.accessibility.json) |
-| [August 11 at 12:23 PM](https://archive.org/download/coindesk-2022/coindesk-2022-08-11T19:22:55.097392-04:00.accessibility.json) |
-| [August 11 at 12:38 AM](https://archive.org/download/coindesk-2022/coindesk-2022-08-11T07:38:06.463089-04:00.accessibility.json) |
-| [August 10 at 1:40 PM](https://archive.org/download/coindesk-2022/coindesk-2022-08-10T20:40:53.547541-04:00.accessibility.json) |
-| [August 10 at 1:55 AM](https://archive.org/download/coindesk-2022/coindesk-2022-08-10T08:55:44.264855-04:00.accessibility.json) |
-| [August 9 at 12:25 PM](https://archive.org/download/coindesk-2022/coindesk-2022-08-09T19:25:52.269141-04:00.accessibility.json) |
-| [August 9 at 1:42 AM](https://archive.org/download/coindesk-2022/coindesk-2022-08-09T08:42:01.110162-04:00.accessibility.json) |
-| [August 8 at 1:37 PM](https://archive.org/download/coindesk-2022/coindesk-2022-08-08T20:37:40.590860-04:00.accessibility.json) |
-| [August 8 at 12:24 AM](https://archive.org/download/coindesk-2022/coindesk-2022-08-08T07:24:32.012683-04:00.accessibility.json) |
+| [August 13 at 7:50 PM](https://archive.org/download/coindesk-2022/coindesk-2022-08-13T19:50:35.487827-04:00.accessibility.json) |
+| [August 13 at 8:55 AM](https://archive.org/download/coindesk-2022/coindesk-2022-08-13T08:55:44.492962-04:00.accessibility.json) |
+| [August 12 at 8:31 PM](https://archive.org/download/coindesk-2022/coindesk-2022-08-12T20:30:55.823638-04:00.accessibility.json) |
+| [August 12 at 7:40 AM](https://archive.org/download/coindesk-2022/coindesk-2022-08-12T07:40:24.871068-04:00.accessibility.json) |
+| [August 11 at 7:23 PM](https://archive.org/download/coindesk-2022/coindesk-2022-08-11T19:22:55.097392-04:00.accessibility.json) |
+| [August 11 at 7:38 AM](https://archive.org/download/coindesk-2022/coindesk-2022-08-11T07:38:06.463089-04:00.accessibility.json) |
+| [August 10 at 8:40 PM](https://archive.org/download/coindesk-2022/coindesk-2022-08-10T20:40:53.547541-04:00.accessibility.json) |
+| [August 10 at 8:55 AM](https://archive.org/download/coindesk-2022/coindesk-2022-08-10T08:55:44.264855-04:00.accessibility.json) |
+| [August 9 at 7:25 PM](https://archive.org/download/coindesk-2022/coindesk-2022-08-09T19:25:52.269141-04:00.accessibility.json) |
+| [August 9 at 8:42 AM](https://archive.org/download/coindesk-2022/coindesk-2022-08-09T08:42:01.110162-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 39 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 41 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 12 at 1:31 PM](https://archive.org/download/coindesk-2022/coindesk-2022-08-12T20:30:55.823638-04:00.lighthouse.json) |
-| [August 12 at 12:40 AM](https://archive.org/download/coindesk-2022/coindesk-2022-08-12T07:40:24.871068-04:00.lighthouse.json) |
-| [August 11 at 12:23 PM](https://archive.org/download/coindesk-2022/coindesk-2022-08-11T19:22:55.097392-04:00.lighthouse.json) |
-| [August 11 at 12:38 AM](https://archive.org/download/coindesk-2022/coindesk-2022-08-11T07:38:06.463089-04:00.lighthouse.json) |
-| [August 10 at 1:41 PM](https://archive.org/download/coindesk-2022/coindesk-2022-08-10T20:40:53.547541-04:00.lighthouse.json) |
-| [August 10 at 1:55 AM](https://archive.org/download/coindesk-2022/coindesk-2022-08-10T08:55:44.264855-04:00.lighthouse.json) |
-| [August 9 at 12:25 PM](https://archive.org/download/coindesk-2022/coindesk-2022-08-09T19:25:52.269141-04:00.lighthouse.json) |
-| [August 9 at 1:42 AM](https://archive.org/download/coindesk-2022/coindesk-2022-08-09T08:42:01.110162-04:00.lighthouse.json) |
-| [August 8 at 1:37 PM](https://archive.org/download/coindesk-2022/coindesk-2022-08-08T20:37:40.590860-04:00.lighthouse.json) |
-| [August 8 at 12:24 AM](https://archive.org/download/coindesk-2022/coindesk-2022-08-08T07:24:32.012683-04:00.lighthouse.json) |
+| [August 13 at 7:50 PM](https://archive.org/download/coindesk-2022/coindesk-2022-08-13T19:50:35.487827-04:00.lighthouse.json) |
+| [August 13 at 8:55 AM](https://archive.org/download/coindesk-2022/coindesk-2022-08-13T08:55:44.492962-04:00.lighthouse.json) |
+| [August 12 at 8:31 PM](https://archive.org/download/coindesk-2022/coindesk-2022-08-12T20:30:55.823638-04:00.lighthouse.json) |
+| [August 12 at 7:40 AM](https://archive.org/download/coindesk-2022/coindesk-2022-08-12T07:40:24.871068-04:00.lighthouse.json) |
+| [August 11 at 7:23 PM](https://archive.org/download/coindesk-2022/coindesk-2022-08-11T19:22:55.097392-04:00.lighthouse.json) |
+| [August 11 at 7:38 AM](https://archive.org/download/coindesk-2022/coindesk-2022-08-11T07:38:06.463089-04:00.lighthouse.json) |
+| [August 10 at 8:41 PM](https://archive.org/download/coindesk-2022/coindesk-2022-08-10T20:40:53.547541-04:00.lighthouse.json) |
+| [August 10 at 8:55 AM](https://archive.org/download/coindesk-2022/coindesk-2022-08-10T08:55:44.264855-04:00.lighthouse.json) |
+| [August 9 at 7:25 PM](https://archive.org/download/coindesk-2022/coindesk-2022-08-09T19:25:52.269141-04:00.lighthouse.json) |
+| [August 9 at 8:42 AM](https://archive.org/download/coindesk-2022/coindesk-2022-08-09T08:42:01.110162-04:00.lighthouse.json) |
 
 
 

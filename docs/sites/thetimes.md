@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 365 screenshots with the Internet Archive.
+The archiving routine has saved 368 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -114,118 +114,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/thetimes-2022/thetimes-2022-08-12T17:25:52.682957+01:00.jpg">
-  <img src="https://archive.org/download/thetimes-2022/thetimes-2022-08-12T17:25:52.682957+01:00.jpg"
-     alt="The Times at 2022-08-12 10:26:05+01:00 local time"
+ <a href="https://archive.org/download/thetimes-2022/thetimes-2022-08-13T21:46:03.864776+01:00.jpg">
+  <img src="https://archive.org/download/thetimes-2022/thetimes-2022-08-13T21:46:03.864776+01:00.jpg"
+     alt="The Times at 2022-08-13 21:46:16+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-08-12T17:25:52.682957+01:00.jpg">August 12 at 10:26 AM</a></p>
+ <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-08-13T21:46:03.864776+01:00.jpg">August 13 at 9:46 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thetimes-2022/thetimes-2022-08-13T10:10:49.240420+01:00.jpg">
+  <img src="https://archive.org/download/thetimes-2022/thetimes-2022-08-13T10:10:49.240420+01:00.jpg"
+     alt="The Times at 2022-08-13 10:10:59+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-08-13T10:10:49.240420+01:00.jpg">August 13 at 10:10 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thetimes-2022/thetimes-2022-08-13T03:17:47.183065+01:00.jpg">
+  <img src="https://archive.org/download/thetimes-2022/thetimes-2022-08-13T03:17:47.183065+01:00.jpg"
+     alt="The Times at 2022-08-13 03:17:50+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-08-13T03:17:47.183065+01:00.jpg">August 13 at 3:17 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thetimes-2022/thetimes-2022-08-12T17:25:52.682957+01:00.jpg">
+  <img src="https://archive.org/download/thetimes-2022/thetimes-2022-08-12T17:25:52.682957+01:00.jpg"
+     alt="The Times at 2022-08-12 17:26:05+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-08-12T17:25:52.682957+01:00.jpg">August 12 at 5:26 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thetimes-2022/thetimes-2022-08-12T12:31:40.664733+01:00.jpg">
   <img src="https://archive.org/download/thetimes-2022/thetimes-2022-08-12T12:31:40.664733+01:00.jpg"
-     alt="The Times at 2022-08-12 05:31:42+01:00 local time"
+     alt="The Times at 2022-08-12 12:31:42+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-08-12T12:31:40.664733+01:00.jpg">August 12 at 5:31 AM</a></p>
+ <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-08-12T12:31:40.664733+01:00.jpg">August 12 at 12:31 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thetimes-2022/thetimes-2022-08-12T10:36:11.841076+01:00.jpg">
   <img src="https://archive.org/download/thetimes-2022/thetimes-2022-08-12T10:36:11.841076+01:00.jpg"
-     alt="The Times at 2022-08-12 03:36:22+01:00 local time"
+     alt="The Times at 2022-08-12 10:36:22+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-08-12T10:36:11.841076+01:00.jpg">August 12 at 3:36 AM</a></p>
+ <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-08-12T10:36:11.841076+01:00.jpg">August 12 at 10:36 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thetimes-2022/thetimes-2022-08-11T18:09:20.519196+01:00.jpg">
   <img src="https://archive.org/download/thetimes-2022/thetimes-2022-08-11T18:09:20.519196+01:00.jpg"
-     alt="The Times at 2022-08-11 11:09:31+01:00 local time"
+     alt="The Times at 2022-08-11 18:09:31+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-08-11T18:09:20.519196+01:00.jpg">August 11 at 11:09 AM</a></p>
+ <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-08-11T18:09:20.519196+01:00.jpg">August 11 at 6:09 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thetimes-2022/thetimes-2022-08-11T10:10:45.640465+01:00.jpg">
   <img src="https://archive.org/download/thetimes-2022/thetimes-2022-08-11T10:10:45.640465+01:00.jpg"
-     alt="The Times at 2022-08-11 03:10:54+01:00 local time"
+     alt="The Times at 2022-08-11 10:10:54+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-08-11T10:10:45.640465+01:00.jpg">August 11 at 3:10 AM</a></p>
+ <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-08-11T10:10:45.640465+01:00.jpg">August 11 at 10:10 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thetimes-2022/thetimes-2022-08-11T03:28:13.289413+01:00.jpg">
   <img src="https://archive.org/download/thetimes-2022/thetimes-2022-08-11T03:28:13.289413+01:00.jpg"
-     alt="The Times at 2022-08-10 20:28:42+01:00 local time"
+     alt="The Times at 2022-08-11 03:28:42+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-08-11T03:28:13.289413+01:00.jpg">August 10 at 8:28 PM</a></p>
+ <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-08-11T03:28:13.289413+01:00.jpg">August 11 at 3:28 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thetimes-2022/thetimes-2022-08-10T18:50:45.807278+01:00.jpg">
   <img src="https://archive.org/download/thetimes-2022/thetimes-2022-08-10T18:50:45.807278+01:00.jpg"
-     alt="The Times at 2022-08-10 11:50:57+01:00 local time"
+     alt="The Times at 2022-08-10 18:50:57+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-08-10T18:50:45.807278+01:00.jpg">August 10 at 11:50 AM</a></p>
+ <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-08-10T18:50:45.807278+01:00.jpg">August 10 at 6:50 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thetimes-2022/thetimes-2022-08-10T10:10:21.002855+01:00.jpg">
   <img src="https://archive.org/download/thetimes-2022/thetimes-2022-08-10T10:10:21.002855+01:00.jpg"
-     alt="The Times at 2022-08-10 03:10:29+01:00 local time"
+     alt="The Times at 2022-08-10 10:10:29+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-08-10T10:10:21.002855+01:00.jpg">August 10 at 3:10 AM</a></p>
+ <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-08-10T10:10:21.002855+01:00.jpg">August 10 at 10:10 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thetimes-2022/thetimes-2022-08-10T03:40:04.861795+01:00.jpg">
   <img src="https://archive.org/download/thetimes-2022/thetimes-2022-08-10T03:40:04.861795+01:00.jpg"
-     alt="The Times at 2022-08-09 20:40:13+01:00 local time"
+     alt="The Times at 2022-08-10 03:40:13+01:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-08-10T03:40:04.861795+01:00.jpg">August 9 at 8:40 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thetimes-2022/thetimes-2022-08-09T15:40:58.698884+01:00.jpg">
-  <img src="https://archive.org/download/thetimes-2022/thetimes-2022-08-09T15:40:58.698884+01:00.jpg"
-     alt="The Times at 2022-08-09 08:41:00+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-08-09T15:40:58.698884+01:00.jpg">August 9 at 8:41 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thetimes-2022/thetimes-2022-08-09T10:12:17.910171+01:00.jpg">
-  <img src="https://archive.org/download/thetimes-2022/thetimes-2022-08-09T10:12:17.910171+01:00.jpg"
-     alt="The Times at 2022-08-09 03:12:42+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-08-09T10:12:17.910171+01:00.jpg">August 9 at 3:12 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thetimes-2022/thetimes-2022-08-09T03:26:12.599910+01:00.jpg">
-  <img src="https://archive.org/download/thetimes-2022/thetimes-2022-08-09T03:26:12.599910+01:00.jpg"
-     alt="The Times at 2022-08-08 20:26:33+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-08-09T03:26:12.599910+01:00.jpg">August 8 at 8:26 PM</a></p>
+ <p><a href="https://archive.org/download/thetimes-2022/thetimes-2022-08-10T03:40:04.861795+01:00.jpg">August 10 at 3:40 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 348 hyperlink lists with the Internet Archive.
+The archiving routine has saved 351 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,21 +316,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 12 at 10:26 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-12T17:25:52.682957+01:00.hyperlinks.json) |
-| [August 12 at 5:31 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-12T12:31:40.664733+01:00.hyperlinks.json) |
-| [August 12 at 3:36 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-12T10:36:11.841076+01:00.hyperlinks.json) |
-| [August 11 at 8:07 PM](https://archive.org/download/thetimes-2022/thetimes-2022-08-12T03:07:07.037420+01:00.hyperlinks.json) |
-| [August 11 at 11:09 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-11T18:09:20.519196+01:00.hyperlinks.json) |
-| [August 11 at 3:10 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-11T10:10:45.640465+01:00.hyperlinks.json) |
-| [August 10 at 8:28 PM](https://archive.org/download/thetimes-2022/thetimes-2022-08-11T03:28:13.289413+01:00.hyperlinks.json) |
-| [August 10 at 11:51 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-10T18:50:45.807278+01:00.hyperlinks.json) |
-| [August 10 at 3:10 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-10T10:10:21.002855+01:00.hyperlinks.json) |
-| [August 9 at 8:40 PM](https://archive.org/download/thetimes-2022/thetimes-2022-08-10T03:40:04.861795+01:00.hyperlinks.json) |
+| [August 13 at 9:46 PM](https://archive.org/download/thetimes-2022/thetimes-2022-08-13T21:46:03.864776+01:00.hyperlinks.json) |
+| [August 13 at 10:11 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-13T10:10:49.240420+01:00.hyperlinks.json) |
+| [August 13 at 3:17 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-13T03:17:47.183065+01:00.hyperlinks.json) |
+| [August 12 at 5:26 PM](https://archive.org/download/thetimes-2022/thetimes-2022-08-12T17:25:52.682957+01:00.hyperlinks.json) |
+| [August 12 at 12:31 PM](https://archive.org/download/thetimes-2022/thetimes-2022-08-12T12:31:40.664733+01:00.hyperlinks.json) |
+| [August 12 at 10:36 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-12T10:36:11.841076+01:00.hyperlinks.json) |
+| [August 12 at 3:07 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-12T03:07:07.037420+01:00.hyperlinks.json) |
+| [August 11 at 6:09 PM](https://archive.org/download/thetimes-2022/thetimes-2022-08-11T18:09:20.519196+01:00.hyperlinks.json) |
+| [August 11 at 10:10 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-11T10:10:45.640465+01:00.hyperlinks.json) |
+| [August 11 at 3:28 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-11T03:28:13.289413+01:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 351 accessibility trees with the Internet Archive.
+The archiving routine has saved 354 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,22 +421,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 12 at 10:26 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-12T17:25:52.682957+01:00.accessibility.json) |
-| [August 12 at 5:31 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-12T12:31:40.664733+01:00.accessibility.json) |
-| [August 12 at 3:36 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-12T10:36:11.841076+01:00.accessibility.json) |
-| [August 11 at 8:07 PM](https://archive.org/download/thetimes-2022/thetimes-2022-08-12T03:07:07.037420+01:00.accessibility.json) |
-| [August 11 at 11:09 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-11T18:09:20.519196+01:00.accessibility.json) |
-| [August 11 at 3:10 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-11T10:10:45.640465+01:00.accessibility.json) |
-| [August 10 at 8:28 PM](https://archive.org/download/thetimes-2022/thetimes-2022-08-11T03:28:13.289413+01:00.accessibility.json) |
-| [August 10 at 11:50 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-10T18:50:45.807278+01:00.accessibility.json) |
-| [August 10 at 3:10 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-10T10:10:21.002855+01:00.accessibility.json) |
-| [August 9 at 8:40 PM](https://archive.org/download/thetimes-2022/thetimes-2022-08-10T03:40:04.861795+01:00.accessibility.json) |
+| [August 13 at 9:46 PM](https://archive.org/download/thetimes-2022/thetimes-2022-08-13T21:46:03.864776+01:00.accessibility.json) |
+| [August 13 at 10:11 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-13T10:10:49.240420+01:00.accessibility.json) |
+| [August 13 at 3:17 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-13T03:17:47.183065+01:00.accessibility.json) |
+| [August 12 at 5:26 PM](https://archive.org/download/thetimes-2022/thetimes-2022-08-12T17:25:52.682957+01:00.accessibility.json) |
+| [August 12 at 12:31 PM](https://archive.org/download/thetimes-2022/thetimes-2022-08-12T12:31:40.664733+01:00.accessibility.json) |
+| [August 12 at 10:36 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-12T10:36:11.841076+01:00.accessibility.json) |
+| [August 12 at 3:07 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-12T03:07:07.037420+01:00.accessibility.json) |
+| [August 11 at 6:09 PM](https://archive.org/download/thetimes-2022/thetimes-2022-08-11T18:09:20.519196+01:00.accessibility.json) |
+| [August 11 at 10:10 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-11T10:10:45.640465+01:00.accessibility.json) |
+| [August 11 at 3:28 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-11T03:28:13.289413+01:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 63 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 66 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 12 at 10:26 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-12T17:25:52.682957+01:00.lighthouse.json) |
-| [August 12 at 5:31 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-12T12:31:40.664733+01:00.lighthouse.json) |
-| [August 12 at 3:36 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-12T10:36:11.841076+01:00.lighthouse.json) |
-| [August 11 at 8:07 PM](https://archive.org/download/thetimes-2022/thetimes-2022-08-12T03:07:07.037420+01:00.lighthouse.json) |
-| [August 11 at 11:09 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-11T18:09:20.519196+01:00.lighthouse.json) |
-| [August 11 at 3:11 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-11T10:10:45.640465+01:00.lighthouse.json) |
-| [August 10 at 8:28 PM](https://archive.org/download/thetimes-2022/thetimes-2022-08-11T03:28:13.289413+01:00.lighthouse.json) |
-| [August 10 at 11:51 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-10T18:50:45.807278+01:00.lighthouse.json) |
-| [August 10 at 3:10 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-10T10:10:21.002855+01:00.lighthouse.json) |
-| [August 9 at 8:40 PM](https://archive.org/download/thetimes-2022/thetimes-2022-08-10T03:40:04.861795+01:00.lighthouse.json) |
+| [August 13 at 9:46 PM](https://archive.org/download/thetimes-2022/thetimes-2022-08-13T21:46:03.864776+01:00.lighthouse.json) |
+| [August 13 at 10:11 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-13T10:10:49.240420+01:00.lighthouse.json) |
+| [August 13 at 3:17 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-13T03:17:47.183065+01:00.lighthouse.json) |
+| [August 12 at 5:26 PM](https://archive.org/download/thetimes-2022/thetimes-2022-08-12T17:25:52.682957+01:00.lighthouse.json) |
+| [August 12 at 12:31 PM](https://archive.org/download/thetimes-2022/thetimes-2022-08-12T12:31:40.664733+01:00.lighthouse.json) |
+| [August 12 at 10:36 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-12T10:36:11.841076+01:00.lighthouse.json) |
+| [August 12 at 3:07 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-12T03:07:07.037420+01:00.lighthouse.json) |
+| [August 11 at 6:09 PM](https://archive.org/download/thetimes-2022/thetimes-2022-08-11T18:09:20.519196+01:00.lighthouse.json) |
+| [August 11 at 10:11 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-11T10:10:45.640465+01:00.lighthouse.json) |
+| [August 11 at 3:28 AM](https://archive.org/download/thetimes-2022/thetimes-2022-08-11T03:28:13.289413+01:00.lighthouse.json) |
 
 
 

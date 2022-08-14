@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 48 screenshots with the Internet Archive.
+The archiving routine has saved 50 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -114,118 +114,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/wsav-2022/wsav-2022-08-12T12:30:00.480586-04:00.jpg">
-  <img src="https://archive.org/download/wsav-2022/wsav-2022-08-12T12:30:00.480586-04:00.jpg"
-     alt="WSAV News 3 at 2022-08-12 05:30:02-04:00 local time"
+ <a href="https://archive.org/download/wsav-2022/wsav-2022-08-13T16:51:36.356429-04:00.jpg">
+  <img src="https://archive.org/download/wsav-2022/wsav-2022-08-13T16:51:36.356429-04:00.jpg"
+     alt="WSAV News 3 at 2022-08-13 16:51:39-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wsav-2022/wsav-2022-08-12T12:30:00.480586-04:00.jpg">August 12 at 5:30 AM</a></p>
+ <p><a href="https://archive.org/download/wsav-2022/wsav-2022-08-13T16:51:36.356429-04:00.jpg">August 13 at 4:51 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wsav-2022/wsav-2022-08-12T22:21:40.105544-04:00.jpg">
+  <img src="https://archive.org/download/wsav-2022/wsav-2022-08-12T22:21:40.105544-04:00.jpg"
+     alt="WSAV News 3 at 2022-08-12 22:21:41-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wsav-2022/wsav-2022-08-12T22:21:40.105544-04:00.jpg">August 12 at 10:21 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wsav-2022/wsav-2022-08-12T12:30:00.480586-04:00.jpg">
+  <img src="https://archive.org/download/wsav-2022/wsav-2022-08-12T12:30:00.480586-04:00.jpg"
+     alt="WSAV News 3 at 2022-08-12 12:30:02-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wsav-2022/wsav-2022-08-12T12:30:00.480586-04:00.jpg">August 12 at 12:30 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wsav-2022/wsav-2022-08-12T05:39:39.869368-04:00.jpg">
   <img src="https://archive.org/download/wsav-2022/wsav-2022-08-12T05:39:39.869368-04:00.jpg"
-     alt="WSAV News 3 at 2022-08-11 22:39:42-04:00 local time"
+     alt="WSAV News 3 at 2022-08-12 05:39:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wsav-2022/wsav-2022-08-12T05:39:39.869368-04:00.jpg">August 11 at 10:39 PM</a></p>
+ <p><a href="https://archive.org/download/wsav-2022/wsav-2022-08-12T05:39:39.869368-04:00.jpg">August 12 at 5:39 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wsav-2022/wsav-2022-08-11T13:13:09.893531-04:00.jpg">
   <img src="https://archive.org/download/wsav-2022/wsav-2022-08-11T13:13:09.893531-04:00.jpg"
-     alt="WSAV News 3 at 2022-08-11 06:13:17-04:00 local time"
+     alt="WSAV News 3 at 2022-08-11 13:13:17-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wsav-2022/wsav-2022-08-11T13:13:09.893531-04:00.jpg">August 11 at 6:13 AM</a></p>
+ <p><a href="https://archive.org/download/wsav-2022/wsav-2022-08-11T13:13:09.893531-04:00.jpg">August 11 at 1:13 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wsav-2022/wsav-2022-08-10T22:32:45.398817-04:00.jpg">
   <img src="https://archive.org/download/wsav-2022/wsav-2022-08-10T22:32:45.398817-04:00.jpg"
-     alt="WSAV News 3 at 2022-08-10 15:32:47-04:00 local time"
+     alt="WSAV News 3 at 2022-08-10 22:32:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wsav-2022/wsav-2022-08-10T22:32:45.398817-04:00.jpg">August 10 at 3:32 PM</a></p>
+ <p><a href="https://archive.org/download/wsav-2022/wsav-2022-08-10T22:32:45.398817-04:00.jpg">August 10 at 10:32 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wsav-2022/wsav-2022-08-09T22:44:10.833020-04:00.jpg">
   <img src="https://archive.org/download/wsav-2022/wsav-2022-08-09T22:44:10.833020-04:00.jpg"
-     alt="WSAV News 3 at 2022-08-09 15:44:12-04:00 local time"
+     alt="WSAV News 3 at 2022-08-09 22:44:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wsav-2022/wsav-2022-08-09T22:44:10.833020-04:00.jpg">August 9 at 3:44 PM</a></p>
+ <p><a href="https://archive.org/download/wsav-2022/wsav-2022-08-09T22:44:10.833020-04:00.jpg">August 9 at 10:44 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wsav-2022/wsav-2022-08-09T10:46:40.591856-04:00.jpg">
   <img src="https://archive.org/download/wsav-2022/wsav-2022-08-09T10:46:40.591856-04:00.jpg"
-     alt="WSAV News 3 at 2022-08-09 03:46:43-04:00 local time"
+     alt="WSAV News 3 at 2022-08-09 10:46:43-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wsav-2022/wsav-2022-08-09T10:46:40.591856-04:00.jpg">August 9 at 3:46 AM</a></p>
+ <p><a href="https://archive.org/download/wsav-2022/wsav-2022-08-09T10:46:40.591856-04:00.jpg">August 9 at 10:46 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wsav-2022/wsav-2022-08-08T22:29:55.429887-04:00.jpg">
   <img src="https://archive.org/download/wsav-2022/wsav-2022-08-08T22:29:55.429887-04:00.jpg"
-     alt="WSAV News 3 at 2022-08-08 15:29:57-04:00 local time"
+     alt="WSAV News 3 at 2022-08-08 22:29:57-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wsav-2022/wsav-2022-08-08T22:29:55.429887-04:00.jpg">August 8 at 3:29 PM</a></p>
+ <p><a href="https://archive.org/download/wsav-2022/wsav-2022-08-08T22:29:55.429887-04:00.jpg">August 8 at 10:29 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wsav-2022/wsav-2022-08-08T10:27:53.746850-04:00.jpg">
   <img src="https://archive.org/download/wsav-2022/wsav-2022-08-08T10:27:53.746850-04:00.jpg"
-     alt="WSAV News 3 at 2022-08-08 03:27:54-04:00 local time"
+     alt="WSAV News 3 at 2022-08-08 10:27:54-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wsav-2022/wsav-2022-08-08T10:27:53.746850-04:00.jpg">August 8 at 3:27 AM</a></p>
+ <p><a href="https://archive.org/download/wsav-2022/wsav-2022-08-08T10:27:53.746850-04:00.jpg">August 8 at 10:27 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wsav-2022/wsav-2022-08-07T22:40:54.171959-04:00.jpg">
   <img src="https://archive.org/download/wsav-2022/wsav-2022-08-07T22:40:54.171959-04:00.jpg"
-     alt="WSAV News 3 at 2022-08-07 15:40:55-04:00 local time"
+     alt="WSAV News 3 at 2022-08-07 22:40:55-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wsav-2022/wsav-2022-08-07T22:40:54.171959-04:00.jpg">August 7 at 3:40 PM</a></p>
+ <p><a href="https://archive.org/download/wsav-2022/wsav-2022-08-07T22:40:54.171959-04:00.jpg">August 7 at 10:40 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wsav-2022/wsav-2022-08-07T10:11:59.773121-04:00.jpg">
   <img src="https://archive.org/download/wsav-2022/wsav-2022-08-07T10:11:59.773121-04:00.jpg"
-     alt="WSAV News 3 at 2022-08-07 03:12:02-04:00 local time"
+     alt="WSAV News 3 at 2022-08-07 10:12:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wsav-2022/wsav-2022-08-07T10:11:59.773121-04:00.jpg">August 7 at 3:12 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wsav-2022/wsav-2022-08-06T23:16:00.556157-04:00.jpg">
-  <img src="https://archive.org/download/wsav-2022/wsav-2022-08-06T23:16:00.556157-04:00.jpg"
-     alt="WSAV News 3 at 2022-08-06 16:16:03-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wsav-2022/wsav-2022-08-06T23:16:00.556157-04:00.jpg">August 6 at 4:16 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wsav-2022/wsav-2022-08-06T10:00:48.842580-04:00.jpg">
-  <img src="https://archive.org/download/wsav-2022/wsav-2022-08-06T10:00:48.842580-04:00.jpg"
-     alt="WSAV News 3 at 2022-08-06 03:00:52-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wsav-2022/wsav-2022-08-06T10:00:48.842580-04:00.jpg">August 6 at 3:00 AM</a></p>
+ <p><a href="https://archive.org/download/wsav-2022/wsav-2022-08-07T10:11:59.773121-04:00.jpg">August 7 at 10:12 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 48 hyperlink lists with the Internet Archive.
+The archiving routine has saved 50 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,21 +316,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 12 at 5:30 AM](https://archive.org/download/wsav-2022/wsav-2022-08-12T12:30:00.480586-04:00.hyperlinks.json) |
-| [August 11 at 10:39 PM](https://archive.org/download/wsav-2022/wsav-2022-08-12T05:39:39.869368-04:00.hyperlinks.json) |
-| [August 11 at 3:11 PM](https://archive.org/download/wsav-2022/wsav-2022-08-11T22:11:11.224275-04:00.hyperlinks.json) |
-| [August 11 at 6:13 AM](https://archive.org/download/wsav-2022/wsav-2022-08-11T13:13:09.893531-04:00.hyperlinks.json) |
-| [August 10 at 3:32 PM](https://archive.org/download/wsav-2022/wsav-2022-08-10T22:32:45.398817-04:00.hyperlinks.json) |
-| [August 10 at 6:55 AM](https://archive.org/download/wsav-2022/wsav-2022-08-10T13:55:36.567539-04:00.hyperlinks.json) |
-| [August 9 at 3:44 PM](https://archive.org/download/wsav-2022/wsav-2022-08-09T22:44:10.833020-04:00.hyperlinks.json) |
-| [August 9 at 3:46 AM](https://archive.org/download/wsav-2022/wsav-2022-08-09T10:46:40.591856-04:00.hyperlinks.json) |
-| [August 8 at 3:30 PM](https://archive.org/download/wsav-2022/wsav-2022-08-08T22:29:55.429887-04:00.hyperlinks.json) |
-| [August 8 at 3:27 AM](https://archive.org/download/wsav-2022/wsav-2022-08-08T10:27:53.746850-04:00.hyperlinks.json) |
+| [August 13 at 4:51 PM](https://archive.org/download/wsav-2022/wsav-2022-08-13T16:51:36.356429-04:00.hyperlinks.json) |
+| [August 12 at 10:21 PM](https://archive.org/download/wsav-2022/wsav-2022-08-12T22:21:40.105544-04:00.hyperlinks.json) |
+| [August 12 at 12:30 PM](https://archive.org/download/wsav-2022/wsav-2022-08-12T12:30:00.480586-04:00.hyperlinks.json) |
+| [August 12 at 5:39 AM](https://archive.org/download/wsav-2022/wsav-2022-08-12T05:39:39.869368-04:00.hyperlinks.json) |
+| [August 11 at 10:11 PM](https://archive.org/download/wsav-2022/wsav-2022-08-11T22:11:11.224275-04:00.hyperlinks.json) |
+| [August 11 at 1:13 PM](https://archive.org/download/wsav-2022/wsav-2022-08-11T13:13:09.893531-04:00.hyperlinks.json) |
+| [August 10 at 10:32 PM](https://archive.org/download/wsav-2022/wsav-2022-08-10T22:32:45.398817-04:00.hyperlinks.json) |
+| [August 10 at 1:55 PM](https://archive.org/download/wsav-2022/wsav-2022-08-10T13:55:36.567539-04:00.hyperlinks.json) |
+| [August 9 at 10:44 PM](https://archive.org/download/wsav-2022/wsav-2022-08-09T22:44:10.833020-04:00.hyperlinks.json) |
+| [August 9 at 10:46 AM](https://archive.org/download/wsav-2022/wsav-2022-08-09T10:46:40.591856-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 48 accessibility trees with the Internet Archive.
+The archiving routine has saved 50 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,22 +421,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 12 at 5:30 AM](https://archive.org/download/wsav-2022/wsav-2022-08-12T12:30:00.480586-04:00.accessibility.json) |
-| [August 11 at 10:39 PM](https://archive.org/download/wsav-2022/wsav-2022-08-12T05:39:39.869368-04:00.accessibility.json) |
-| [August 11 at 3:11 PM](https://archive.org/download/wsav-2022/wsav-2022-08-11T22:11:11.224275-04:00.accessibility.json) |
-| [August 11 at 6:13 AM](https://archive.org/download/wsav-2022/wsav-2022-08-11T13:13:09.893531-04:00.accessibility.json) |
-| [August 10 at 3:32 PM](https://archive.org/download/wsav-2022/wsav-2022-08-10T22:32:45.398817-04:00.accessibility.json) |
-| [August 10 at 6:55 AM](https://archive.org/download/wsav-2022/wsav-2022-08-10T13:55:36.567539-04:00.accessibility.json) |
-| [August 9 at 3:44 PM](https://archive.org/download/wsav-2022/wsav-2022-08-09T22:44:10.833020-04:00.accessibility.json) |
-| [August 9 at 3:46 AM](https://archive.org/download/wsav-2022/wsav-2022-08-09T10:46:40.591856-04:00.accessibility.json) |
-| [August 8 at 3:29 PM](https://archive.org/download/wsav-2022/wsav-2022-08-08T22:29:55.429887-04:00.accessibility.json) |
-| [August 8 at 3:27 AM](https://archive.org/download/wsav-2022/wsav-2022-08-08T10:27:53.746850-04:00.accessibility.json) |
+| [August 13 at 4:51 PM](https://archive.org/download/wsav-2022/wsav-2022-08-13T16:51:36.356429-04:00.accessibility.json) |
+| [August 12 at 10:21 PM](https://archive.org/download/wsav-2022/wsav-2022-08-12T22:21:40.105544-04:00.accessibility.json) |
+| [August 12 at 12:30 PM](https://archive.org/download/wsav-2022/wsav-2022-08-12T12:30:00.480586-04:00.accessibility.json) |
+| [August 12 at 5:39 AM](https://archive.org/download/wsav-2022/wsav-2022-08-12T05:39:39.869368-04:00.accessibility.json) |
+| [August 11 at 10:11 PM](https://archive.org/download/wsav-2022/wsav-2022-08-11T22:11:11.224275-04:00.accessibility.json) |
+| [August 11 at 1:13 PM](https://archive.org/download/wsav-2022/wsav-2022-08-11T13:13:09.893531-04:00.accessibility.json) |
+| [August 10 at 10:32 PM](https://archive.org/download/wsav-2022/wsav-2022-08-10T22:32:45.398817-04:00.accessibility.json) |
+| [August 10 at 1:55 PM](https://archive.org/download/wsav-2022/wsav-2022-08-10T13:55:36.567539-04:00.accessibility.json) |
+| [August 9 at 10:44 PM](https://archive.org/download/wsav-2022/wsav-2022-08-09T22:44:10.833020-04:00.accessibility.json) |
+| [August 9 at 10:46 AM](https://archive.org/download/wsav-2022/wsav-2022-08-09T10:46:40.591856-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 43 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 45 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 12 at 5:30 AM](https://archive.org/download/wsav-2022/wsav-2022-08-12T12:30:00.480586-04:00.lighthouse.json) |
-| [August 11 at 10:39 PM](https://archive.org/download/wsav-2022/wsav-2022-08-12T05:39:39.869368-04:00.lighthouse.json) |
-| [August 11 at 3:11 PM](https://archive.org/download/wsav-2022/wsav-2022-08-11T22:11:11.224275-04:00.lighthouse.json) |
-| [August 11 at 6:13 AM](https://archive.org/download/wsav-2022/wsav-2022-08-11T13:13:09.893531-04:00.lighthouse.json) |
-| [August 10 at 3:32 PM](https://archive.org/download/wsav-2022/wsav-2022-08-10T22:32:45.398817-04:00.lighthouse.json) |
-| [August 10 at 6:55 AM](https://archive.org/download/wsav-2022/wsav-2022-08-10T13:55:36.567539-04:00.lighthouse.json) |
-| [August 9 at 3:44 PM](https://archive.org/download/wsav-2022/wsav-2022-08-09T22:44:10.833020-04:00.lighthouse.json) |
-| [August 9 at 3:46 AM](https://archive.org/download/wsav-2022/wsav-2022-08-09T10:46:40.591856-04:00.lighthouse.json) |
-| [August 8 at 3:30 PM](https://archive.org/download/wsav-2022/wsav-2022-08-08T22:29:55.429887-04:00.lighthouse.json) |
-| [August 8 at 3:27 AM](https://archive.org/download/wsav-2022/wsav-2022-08-08T10:27:53.746850-04:00.lighthouse.json) |
+| [August 13 at 4:51 PM](https://archive.org/download/wsav-2022/wsav-2022-08-13T16:51:36.356429-04:00.lighthouse.json) |
+| [August 12 at 10:21 PM](https://archive.org/download/wsav-2022/wsav-2022-08-12T22:21:40.105544-04:00.lighthouse.json) |
+| [August 12 at 12:30 PM](https://archive.org/download/wsav-2022/wsav-2022-08-12T12:30:00.480586-04:00.lighthouse.json) |
+| [August 12 at 5:39 AM](https://archive.org/download/wsav-2022/wsav-2022-08-12T05:39:39.869368-04:00.lighthouse.json) |
+| [August 11 at 10:11 PM](https://archive.org/download/wsav-2022/wsav-2022-08-11T22:11:11.224275-04:00.lighthouse.json) |
+| [August 11 at 1:13 PM](https://archive.org/download/wsav-2022/wsav-2022-08-11T13:13:09.893531-04:00.lighthouse.json) |
+| [August 10 at 10:32 PM](https://archive.org/download/wsav-2022/wsav-2022-08-10T22:32:45.398817-04:00.lighthouse.json) |
+| [August 10 at 1:55 PM](https://archive.org/download/wsav-2022/wsav-2022-08-10T13:55:36.567539-04:00.lighthouse.json) |
+| [August 9 at 10:44 PM](https://archive.org/download/wsav-2022/wsav-2022-08-09T22:44:10.833020-04:00.lighthouse.json) |
+| [August 9 at 10:46 AM](https://archive.org/download/wsav-2022/wsav-2022-08-09T10:46:40.591856-04:00.lighthouse.json) |
 
 
 

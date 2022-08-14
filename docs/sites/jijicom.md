@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 105 screenshots with the Internet Archive.
+The archiving routine has saved 108 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -114,118 +114,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/jijicom-2022/jijicom-2022-08-13T02:51:47.758026+09:00.jpg">
-  <img src="https://archive.org/download/jijicom-2022/jijicom-2022-08-13T02:51:47.758026+09:00.jpg"
-     alt="Jiji at 2022-08-12 19:51:53+09:00 local time"
+ <a href="https://archive.org/download/jijicom-2022/jijicom-2022-08-14T05:25:53.110275+09:00.jpg">
+  <img src="https://archive.org/download/jijicom-2022/jijicom-2022-08-14T05:25:53.110275+09:00.jpg"
+     alt="Jiji at 2022-08-14 05:25:57+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-08-13T02:51:47.758026+09:00.jpg">August 12 at 7:51 PM</a></p>
+ <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-08-14T05:25:53.110275+09:00.jpg">August 14 at 5:25 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jijicom-2022/jijicom-2022-08-13T12:44:54.053069+09:00.jpg">
+  <img src="https://archive.org/download/jijicom-2022/jijicom-2022-08-13T12:44:54.053069+09:00.jpg"
+     alt="Jiji at 2022-08-13 12:44:56+09:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-08-13T12:44:54.053069+09:00.jpg">August 13 at 12:44 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jijicom-2022/jijicom-2022-08-13T12:33:34.934110+09:00.jpg">
+  <img src="https://archive.org/download/jijicom-2022/jijicom-2022-08-13T12:33:34.934110+09:00.jpg"
+     alt="Jiji at 2022-08-13 12:33:36+09:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-08-13T12:33:34.934110+09:00.jpg">August 13 at 12:33 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jijicom-2022/jijicom-2022-08-13T02:51:47.758026+09:00.jpg">
+  <img src="https://archive.org/download/jijicom-2022/jijicom-2022-08-13T02:51:47.758026+09:00.jpg"
+     alt="Jiji at 2022-08-13 02:51:53+09:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-08-13T02:51:47.758026+09:00.jpg">August 13 at 2:51 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jijicom-2022/jijicom-2022-08-12T19:01:35.046055+09:00.jpg">
   <img src="https://archive.org/download/jijicom-2022/jijicom-2022-08-12T19:01:35.046055+09:00.jpg"
-     alt="Jiji at 2022-08-12 12:01:41+09:00 local time"
+     alt="Jiji at 2022-08-12 19:01:41+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-08-12T19:01:35.046055+09:00.jpg">August 12 at 12:01 PM</a></p>
+ <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-08-12T19:01:35.046055+09:00.jpg">August 12 at 7:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jijicom-2022/jijicom-2022-08-12T03:42:24.059136+09:00.jpg">
   <img src="https://archive.org/download/jijicom-2022/jijicom-2022-08-12T03:42:24.059136+09:00.jpg"
-     alt="Jiji at 2022-08-11 20:42:26+09:00 local time"
+     alt="Jiji at 2022-08-12 03:42:26+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-08-12T03:42:24.059136+09:00.jpg">August 11 at 8:42 PM</a></p>
+ <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-08-12T03:42:24.059136+09:00.jpg">August 12 at 3:42 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jijicom-2022/jijicom-2022-08-11T12:55:29.690497+09:00.jpg">
   <img src="https://archive.org/download/jijicom-2022/jijicom-2022-08-11T12:55:29.690497+09:00.jpg"
-     alt="Jiji at 2022-08-11 05:55:30+09:00 local time"
+     alt="Jiji at 2022-08-11 12:55:30+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-08-11T12:55:29.690497+09:00.jpg">August 11 at 5:55 AM</a></p>
+ <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-08-11T12:55:29.690497+09:00.jpg">August 11 at 12:55 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jijicom-2022/jijicom-2022-08-11T12:44:38.381717+09:00.jpg">
   <img src="https://archive.org/download/jijicom-2022/jijicom-2022-08-11T12:44:38.381717+09:00.jpg"
-     alt="Jiji at 2022-08-11 05:44:40+09:00 local time"
+     alt="Jiji at 2022-08-11 12:44:40+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-08-11T12:44:38.381717+09:00.jpg">August 11 at 5:44 AM</a></p>
+ <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-08-11T12:44:38.381717+09:00.jpg">August 11 at 12:44 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jijicom-2022/jijicom-2022-08-11T03:07:17.157066+09:00.jpg">
   <img src="https://archive.org/download/jijicom-2022/jijicom-2022-08-11T03:07:17.157066+09:00.jpg"
-     alt="Jiji at 2022-08-10 20:07:18+09:00 local time"
+     alt="Jiji at 2022-08-11 03:07:18+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-08-11T03:07:17.157066+09:00.jpg">August 10 at 8:07 PM</a></p>
+ <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-08-11T03:07:17.157066+09:00.jpg">August 11 at 3:07 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jijicom-2022/jijicom-2022-08-10T13:03:06.884396+09:00.jpg">
   <img src="https://archive.org/download/jijicom-2022/jijicom-2022-08-10T13:03:06.884396+09:00.jpg"
-     alt="Jiji at 2022-08-10 06:03:08+09:00 local time"
+     alt="Jiji at 2022-08-10 13:03:08+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-08-10T13:03:06.884396+09:00.jpg">August 10 at 6:03 AM</a></p>
+ <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-08-10T13:03:06.884396+09:00.jpg">August 10 at 1:03 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jijicom-2022/jijicom-2022-08-10T12:52:54.921573+09:00.jpg">
   <img src="https://archive.org/download/jijicom-2022/jijicom-2022-08-10T12:52:54.921573+09:00.jpg"
-     alt="Jiji at 2022-08-10 05:52:58+09:00 local time"
+     alt="Jiji at 2022-08-10 12:52:58+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-08-10T12:52:54.921573+09:00.jpg">August 10 at 5:52 AM</a></p>
+ <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-08-10T12:52:54.921573+09:00.jpg">August 10 at 12:52 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jijicom-2022/jijicom-2022-08-10T02:27:26.389741+09:00.jpg">
   <img src="https://archive.org/download/jijicom-2022/jijicom-2022-08-10T02:27:26.389741+09:00.jpg"
-     alt="Jiji at 2022-08-09 19:27:28+09:00 local time"
+     alt="Jiji at 2022-08-10 02:27:28+09:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-08-10T02:27:26.389741+09:00.jpg">August 9 at 7:27 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/jijicom-2022/jijicom-2022-08-09T12:46:37.839135+09:00.jpg">
-  <img src="https://archive.org/download/jijicom-2022/jijicom-2022-08-09T12:46:37.839135+09:00.jpg"
-     alt="Jiji at 2022-08-09 05:46:39+09:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-08-09T12:46:37.839135+09:00.jpg">August 9 at 5:46 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/jijicom-2022/jijicom-2022-08-09T12:37:07.837812+09:00.jpg">
-  <img src="https://archive.org/download/jijicom-2022/jijicom-2022-08-09T12:37:07.837812+09:00.jpg"
-     alt="Jiji at 2022-08-09 05:37:10+09:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-08-09T12:37:07.837812+09:00.jpg">August 9 at 5:37 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/jijicom-2022/jijicom-2022-08-09T02:04:07.454990+09:00.jpg">
-  <img src="https://archive.org/download/jijicom-2022/jijicom-2022-08-09T02:04:07.454990+09:00.jpg"
-     alt="Jiji at 2022-08-08 19:04:09+09:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-08-09T02:04:07.454990+09:00.jpg">August 8 at 7:04 PM</a></p>
+ <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-08-10T02:27:26.389741+09:00.jpg">August 10 at 2:27 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 101 hyperlink lists with the Internet Archive.
+The archiving routine has saved 104 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,21 +316,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 12 at 7:51 PM](https://archive.org/download/jijicom-2022/jijicom-2022-08-13T02:51:47.758026+09:00.hyperlinks.json) |
-| [August 12 at 12:01 PM](https://archive.org/download/jijicom-2022/jijicom-2022-08-12T19:01:35.046055+09:00.hyperlinks.json) |
-| [August 11 at 8:42 PM](https://archive.org/download/jijicom-2022/jijicom-2022-08-12T03:42:24.059136+09:00.hyperlinks.json) |
-| [August 11 at 5:55 AM](https://archive.org/download/jijicom-2022/jijicom-2022-08-11T12:55:29.690497+09:00.hyperlinks.json) |
-| [August 11 at 5:44 AM](https://archive.org/download/jijicom-2022/jijicom-2022-08-11T12:44:38.381717+09:00.hyperlinks.json) |
-| [August 10 at 8:07 PM](https://archive.org/download/jijicom-2022/jijicom-2022-08-11T03:07:17.157066+09:00.hyperlinks.json) |
-| [August 10 at 6:03 AM](https://archive.org/download/jijicom-2022/jijicom-2022-08-10T13:03:06.884396+09:00.hyperlinks.json) |
-| [August 10 at 5:53 AM](https://archive.org/download/jijicom-2022/jijicom-2022-08-10T12:52:54.921573+09:00.hyperlinks.json) |
-| [August 9 at 7:27 PM](https://archive.org/download/jijicom-2022/jijicom-2022-08-10T02:27:26.389741+09:00.hyperlinks.json) |
-| [August 9 at 5:46 AM](https://archive.org/download/jijicom-2022/jijicom-2022-08-09T12:46:37.839135+09:00.hyperlinks.json) |
+| [August 14 at 5:26 AM](https://archive.org/download/jijicom-2022/jijicom-2022-08-14T05:25:53.110275+09:00.hyperlinks.json) |
+| [August 13 at 12:44 PM](https://archive.org/download/jijicom-2022/jijicom-2022-08-13T12:44:54.053069+09:00.hyperlinks.json) |
+| [August 13 at 12:33 PM](https://archive.org/download/jijicom-2022/jijicom-2022-08-13T12:33:34.934110+09:00.hyperlinks.json) |
+| [August 13 at 2:51 AM](https://archive.org/download/jijicom-2022/jijicom-2022-08-13T02:51:47.758026+09:00.hyperlinks.json) |
+| [August 12 at 7:01 PM](https://archive.org/download/jijicom-2022/jijicom-2022-08-12T19:01:35.046055+09:00.hyperlinks.json) |
+| [August 12 at 3:42 AM](https://archive.org/download/jijicom-2022/jijicom-2022-08-12T03:42:24.059136+09:00.hyperlinks.json) |
+| [August 11 at 12:55 PM](https://archive.org/download/jijicom-2022/jijicom-2022-08-11T12:55:29.690497+09:00.hyperlinks.json) |
+| [August 11 at 12:44 PM](https://archive.org/download/jijicom-2022/jijicom-2022-08-11T12:44:38.381717+09:00.hyperlinks.json) |
+| [August 11 at 3:07 AM](https://archive.org/download/jijicom-2022/jijicom-2022-08-11T03:07:17.157066+09:00.hyperlinks.json) |
+| [August 10 at 1:03 PM](https://archive.org/download/jijicom-2022/jijicom-2022-08-10T13:03:06.884396+09:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 104 accessibility trees with the Internet Archive.
+The archiving routine has saved 107 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,22 +421,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 12 at 7:51 PM](https://archive.org/download/jijicom-2022/jijicom-2022-08-13T02:51:47.758026+09:00.accessibility.json) |
-| [August 12 at 12:01 PM](https://archive.org/download/jijicom-2022/jijicom-2022-08-12T19:01:35.046055+09:00.accessibility.json) |
-| [August 11 at 8:42 PM](https://archive.org/download/jijicom-2022/jijicom-2022-08-12T03:42:24.059136+09:00.accessibility.json) |
-| [August 11 at 5:55 AM](https://archive.org/download/jijicom-2022/jijicom-2022-08-11T12:55:29.690497+09:00.accessibility.json) |
-| [August 11 at 5:44 AM](https://archive.org/download/jijicom-2022/jijicom-2022-08-11T12:44:38.381717+09:00.accessibility.json) |
-| [August 10 at 8:07 PM](https://archive.org/download/jijicom-2022/jijicom-2022-08-11T03:07:17.157066+09:00.accessibility.json) |
-| [August 10 at 6:03 AM](https://archive.org/download/jijicom-2022/jijicom-2022-08-10T13:03:06.884396+09:00.accessibility.json) |
-| [August 10 at 5:52 AM](https://archive.org/download/jijicom-2022/jijicom-2022-08-10T12:52:54.921573+09:00.accessibility.json) |
-| [August 9 at 7:27 PM](https://archive.org/download/jijicom-2022/jijicom-2022-08-10T02:27:26.389741+09:00.accessibility.json) |
-| [August 9 at 5:46 AM](https://archive.org/download/jijicom-2022/jijicom-2022-08-09T12:46:37.839135+09:00.accessibility.json) |
+| [August 14 at 5:26 AM](https://archive.org/download/jijicom-2022/jijicom-2022-08-14T05:25:53.110275+09:00.accessibility.json) |
+| [August 13 at 12:44 PM](https://archive.org/download/jijicom-2022/jijicom-2022-08-13T12:44:54.053069+09:00.accessibility.json) |
+| [August 13 at 12:33 PM](https://archive.org/download/jijicom-2022/jijicom-2022-08-13T12:33:34.934110+09:00.accessibility.json) |
+| [August 13 at 2:51 AM](https://archive.org/download/jijicom-2022/jijicom-2022-08-13T02:51:47.758026+09:00.accessibility.json) |
+| [August 12 at 7:01 PM](https://archive.org/download/jijicom-2022/jijicom-2022-08-12T19:01:35.046055+09:00.accessibility.json) |
+| [August 12 at 3:42 AM](https://archive.org/download/jijicom-2022/jijicom-2022-08-12T03:42:24.059136+09:00.accessibility.json) |
+| [August 11 at 12:55 PM](https://archive.org/download/jijicom-2022/jijicom-2022-08-11T12:55:29.690497+09:00.accessibility.json) |
+| [August 11 at 12:44 PM](https://archive.org/download/jijicom-2022/jijicom-2022-08-11T12:44:38.381717+09:00.accessibility.json) |
+| [August 11 at 3:07 AM](https://archive.org/download/jijicom-2022/jijicom-2022-08-11T03:07:17.157066+09:00.accessibility.json) |
+| [August 10 at 1:03 PM](https://archive.org/download/jijicom-2022/jijicom-2022-08-10T13:03:06.884396+09:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 59 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 62 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 12 at 7:52 PM](https://archive.org/download/jijicom-2022/jijicom-2022-08-13T02:51:47.758026+09:00.lighthouse.json) |
-| [August 12 at 12:01 PM](https://archive.org/download/jijicom-2022/jijicom-2022-08-12T19:01:35.046055+09:00.lighthouse.json) |
-| [August 11 at 8:42 PM](https://archive.org/download/jijicom-2022/jijicom-2022-08-12T03:42:24.059136+09:00.lighthouse.json) |
-| [August 11 at 5:55 AM](https://archive.org/download/jijicom-2022/jijicom-2022-08-11T12:55:29.690497+09:00.lighthouse.json) |
-| [August 11 at 5:44 AM](https://archive.org/download/jijicom-2022/jijicom-2022-08-11T12:44:38.381717+09:00.lighthouse.json) |
-| [August 10 at 8:07 PM](https://archive.org/download/jijicom-2022/jijicom-2022-08-11T03:07:17.157066+09:00.lighthouse.json) |
-| [August 10 at 6:03 AM](https://archive.org/download/jijicom-2022/jijicom-2022-08-10T13:03:06.884396+09:00.lighthouse.json) |
-| [August 10 at 5:53 AM](https://archive.org/download/jijicom-2022/jijicom-2022-08-10T12:52:54.921573+09:00.lighthouse.json) |
-| [August 9 at 7:27 PM](https://archive.org/download/jijicom-2022/jijicom-2022-08-10T02:27:26.389741+09:00.lighthouse.json) |
-| [August 9 at 5:46 AM](https://archive.org/download/jijicom-2022/jijicom-2022-08-09T12:46:37.839135+09:00.lighthouse.json) |
+| [August 14 at 5:26 AM](https://archive.org/download/jijicom-2022/jijicom-2022-08-14T05:25:53.110275+09:00.lighthouse.json) |
+| [August 13 at 12:45 PM](https://archive.org/download/jijicom-2022/jijicom-2022-08-13T12:44:54.053069+09:00.lighthouse.json) |
+| [August 13 at 12:33 PM](https://archive.org/download/jijicom-2022/jijicom-2022-08-13T12:33:34.934110+09:00.lighthouse.json) |
+| [August 13 at 2:52 AM](https://archive.org/download/jijicom-2022/jijicom-2022-08-13T02:51:47.758026+09:00.lighthouse.json) |
+| [August 12 at 7:01 PM](https://archive.org/download/jijicom-2022/jijicom-2022-08-12T19:01:35.046055+09:00.lighthouse.json) |
+| [August 12 at 3:42 AM](https://archive.org/download/jijicom-2022/jijicom-2022-08-12T03:42:24.059136+09:00.lighthouse.json) |
+| [August 11 at 12:55 PM](https://archive.org/download/jijicom-2022/jijicom-2022-08-11T12:55:29.690497+09:00.lighthouse.json) |
+| [August 11 at 12:44 PM](https://archive.org/download/jijicom-2022/jijicom-2022-08-11T12:44:38.381717+09:00.lighthouse.json) |
+| [August 11 at 3:07 AM](https://archive.org/download/jijicom-2022/jijicom-2022-08-11T03:07:17.157066+09:00.lighthouse.json) |
+| [August 10 at 1:03 PM](https://archive.org/download/jijicom-2022/jijicom-2022-08-10T13:03:06.884396+09:00.lighthouse.json) |
 
 
 

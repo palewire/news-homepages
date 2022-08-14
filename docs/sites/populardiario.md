@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 7 screenshots with the Internet Archive.
+The archiving routine has saved 9 screenshots with the Internet Archive.
 
 
 
@@ -31,73 +31,91 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/populardiario-2022/populardiario-2022-08-12T15:18:18.449560-03:00.jpg">
-  <img src="https://archive.org/download/populardiario-2022/populardiario-2022-08-12T15:18:18.449560-03:00.jpg"
-     alt="Diario Popular at 2022-08-12 08:18:27-03:00 local time"
+ <a href="https://archive.org/download/populardiario-2022/populardiario-2022-08-13T17:55:26.832808-03:00.jpg">
+  <img src="https://archive.org/download/populardiario-2022/populardiario-2022-08-13T17:55:26.832808-03:00.jpg"
+     alt="Diario Popular at 2022-08-13 17:55:29-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/populardiario-2022/populardiario-2022-08-12T15:18:18.449560-03:00.jpg">August 12 at 8:18 AM</a></p>
+ <p><a href="https://archive.org/download/populardiario-2022/populardiario-2022-08-13T17:55:26.832808-03:00.jpg">August 13 at 5:55 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/populardiario-2022/populardiario-2022-08-13T02:07:36.777571-03:00.jpg">
+  <img src="https://archive.org/download/populardiario-2022/populardiario-2022-08-13T02:07:36.777571-03:00.jpg"
+     alt="Diario Popular at 2022-08-13 02:07:38-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/populardiario-2022/populardiario-2022-08-13T02:07:36.777571-03:00.jpg">August 13 at 2:07 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/populardiario-2022/populardiario-2022-08-12T15:18:18.449560-03:00.jpg">
+  <img src="https://archive.org/download/populardiario-2022/populardiario-2022-08-12T15:18:18.449560-03:00.jpg"
+     alt="Diario Popular at 2022-08-12 15:18:27-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/populardiario-2022/populardiario-2022-08-12T15:18:18.449560-03:00.jpg">August 12 at 3:18 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/populardiario-2022/populardiario-2022-08-12T06:42:17.066547-03:00.jpg">
   <img src="https://archive.org/download/populardiario-2022/populardiario-2022-08-12T06:42:17.066547-03:00.jpg"
-     alt="Diario Popular at 2022-08-11 23:42:18-03:00 local time"
+     alt="Diario Popular at 2022-08-12 06:42:18-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/populardiario-2022/populardiario-2022-08-12T06:42:17.066547-03:00.jpg">August 11 at 11:42 PM</a></p>
+ <p><a href="https://archive.org/download/populardiario-2022/populardiario-2022-08-12T06:42:17.066547-03:00.jpg">August 12 at 6:42 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/populardiario-2022/populardiario-2022-08-11T15:52:16.760600-03:00.jpg">
   <img src="https://archive.org/download/populardiario-2022/populardiario-2022-08-11T15:52:16.760600-03:00.jpg"
-     alt="Diario Popular at 2022-08-11 08:52:18-03:00 local time"
+     alt="Diario Popular at 2022-08-11 15:52:18-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/populardiario-2022/populardiario-2022-08-11T15:52:16.760600-03:00.jpg">August 11 at 8:52 AM</a></p>
+ <p><a href="https://archive.org/download/populardiario-2022/populardiario-2022-08-11T15:52:16.760600-03:00.jpg">August 11 at 3:52 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/populardiario-2022/populardiario-2022-08-11T02:21:12.581178-03:00.jpg">
   <img src="https://archive.org/download/populardiario-2022/populardiario-2022-08-11T02:21:12.581178-03:00.jpg"
-     alt="Diario Popular at 2022-08-10 19:21:14-03:00 local time"
+     alt="Diario Popular at 2022-08-11 02:21:14-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/populardiario-2022/populardiario-2022-08-11T02:21:12.581178-03:00.jpg">August 10 at 7:21 PM</a></p>
+ <p><a href="https://archive.org/download/populardiario-2022/populardiario-2022-08-11T02:21:12.581178-03:00.jpg">August 11 at 2:21 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/populardiario-2022/populardiario-2022-08-10T15:17:44.412354-03:00.jpg">
   <img src="https://archive.org/download/populardiario-2022/populardiario-2022-08-10T15:17:44.412354-03:00.jpg"
-     alt="Diario Popular at 2022-08-10 08:17:46-03:00 local time"
+     alt="Diario Popular at 2022-08-10 15:17:46-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/populardiario-2022/populardiario-2022-08-10T15:17:44.412354-03:00.jpg">August 10 at 8:17 AM</a></p>
+ <p><a href="https://archive.org/download/populardiario-2022/populardiario-2022-08-10T15:17:44.412354-03:00.jpg">August 10 at 3:17 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/populardiario-2022/populardiario-2022-08-10T02:29:03.071856-03:00.jpg">
   <img src="https://archive.org/download/populardiario-2022/populardiario-2022-08-10T02:29:03.071856-03:00.jpg"
-     alt="Diario Popular at 2022-08-09 19:29:04-03:00 local time"
+     alt="Diario Popular at 2022-08-10 02:29:04-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/populardiario-2022/populardiario-2022-08-10T02:29:03.071856-03:00.jpg">August 9 at 7:29 PM</a></p>
+ <p><a href="https://archive.org/download/populardiario-2022/populardiario-2022-08-10T02:29:03.071856-03:00.jpg">August 10 at 2:29 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/populardiario-2022/populardiario-2022-08-09T14:48:33.127371-03:00.jpg">
   <img src="https://archive.org/download/populardiario-2022/populardiario-2022-08-09T14:48:33.127371-03:00.jpg"
-     alt="Diario Popular at 2022-08-09 07:48:38-03:00 local time"
+     alt="Diario Popular at 2022-08-09 14:48:38-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/populardiario-2022/populardiario-2022-08-09T14:48:33.127371-03:00.jpg">August 9 at 7:48 AM</a></p>
+ <p><a href="https://archive.org/download/populardiario-2022/populardiario-2022-08-09T14:48:33.127371-03:00.jpg">August 9 at 2:48 PM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 7 hyperlink lists with the Internet Archive.
+The archiving routine has saved 9 hyperlink lists with the Internet Archive.
 
 
 
@@ -105,18 +123,20 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 12 at 8:18 AM](https://archive.org/download/populardiario-2022/populardiario-2022-08-12T15:18:18.449560-03:00.hyperlinks.json) |
-| [August 11 at 11:42 PM](https://archive.org/download/populardiario-2022/populardiario-2022-08-12T06:42:17.066547-03:00.hyperlinks.json) |
-| [August 11 at 8:52 AM](https://archive.org/download/populardiario-2022/populardiario-2022-08-11T15:52:16.760600-03:00.hyperlinks.json) |
-| [August 10 at 7:21 PM](https://archive.org/download/populardiario-2022/populardiario-2022-08-11T02:21:12.581178-03:00.hyperlinks.json) |
-| [August 10 at 8:17 AM](https://archive.org/download/populardiario-2022/populardiario-2022-08-10T15:17:44.412354-03:00.hyperlinks.json) |
-| [August 9 at 7:29 PM](https://archive.org/download/populardiario-2022/populardiario-2022-08-10T02:29:03.071856-03:00.hyperlinks.json) |
-| [August 9 at 7:48 AM](https://archive.org/download/populardiario-2022/populardiario-2022-08-09T14:48:33.127371-03:00.hyperlinks.json) |
+| [August 13 at 5:55 PM](https://archive.org/download/populardiario-2022/populardiario-2022-08-13T17:55:26.832808-03:00.hyperlinks.json) |
+| [August 13 at 2:07 AM](https://archive.org/download/populardiario-2022/populardiario-2022-08-13T02:07:36.777571-03:00.hyperlinks.json) |
+| [August 12 at 3:18 PM](https://archive.org/download/populardiario-2022/populardiario-2022-08-12T15:18:18.449560-03:00.hyperlinks.json) |
+| [August 12 at 6:42 AM](https://archive.org/download/populardiario-2022/populardiario-2022-08-12T06:42:17.066547-03:00.hyperlinks.json) |
+| [August 11 at 3:52 PM](https://archive.org/download/populardiario-2022/populardiario-2022-08-11T15:52:16.760600-03:00.hyperlinks.json) |
+| [August 11 at 2:21 AM](https://archive.org/download/populardiario-2022/populardiario-2022-08-11T02:21:12.581178-03:00.hyperlinks.json) |
+| [August 10 at 3:17 PM](https://archive.org/download/populardiario-2022/populardiario-2022-08-10T15:17:44.412354-03:00.hyperlinks.json) |
+| [August 10 at 2:29 AM](https://archive.org/download/populardiario-2022/populardiario-2022-08-10T02:29:03.071856-03:00.hyperlinks.json) |
+| [August 9 at 2:48 PM](https://archive.org/download/populardiario-2022/populardiario-2022-08-09T14:48:33.127371-03:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 7 accessibility trees with the Internet Archive.
+The archiving routine has saved 9 accessibility trees with the Internet Archive.
 
 
 
@@ -124,19 +144,21 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 12 at 8:18 AM](https://archive.org/download/populardiario-2022/populardiario-2022-08-12T15:18:18.449560-03:00.accessibility.json) |
-| [August 11 at 11:42 PM](https://archive.org/download/populardiario-2022/populardiario-2022-08-12T06:42:17.066547-03:00.accessibility.json) |
-| [August 11 at 8:52 AM](https://archive.org/download/populardiario-2022/populardiario-2022-08-11T15:52:16.760600-03:00.accessibility.json) |
-| [August 10 at 7:21 PM](https://archive.org/download/populardiario-2022/populardiario-2022-08-11T02:21:12.581178-03:00.accessibility.json) |
-| [August 10 at 8:17 AM](https://archive.org/download/populardiario-2022/populardiario-2022-08-10T15:17:44.412354-03:00.accessibility.json) |
-| [August 9 at 7:29 PM](https://archive.org/download/populardiario-2022/populardiario-2022-08-10T02:29:03.071856-03:00.accessibility.json) |
-| [August 9 at 7:48 AM](https://archive.org/download/populardiario-2022/populardiario-2022-08-09T14:48:33.127371-03:00.accessibility.json) |
+| [August 13 at 5:55 PM](https://archive.org/download/populardiario-2022/populardiario-2022-08-13T17:55:26.832808-03:00.accessibility.json) |
+| [August 13 at 2:07 AM](https://archive.org/download/populardiario-2022/populardiario-2022-08-13T02:07:36.777571-03:00.accessibility.json) |
+| [August 12 at 3:18 PM](https://archive.org/download/populardiario-2022/populardiario-2022-08-12T15:18:18.449560-03:00.accessibility.json) |
+| [August 12 at 6:42 AM](https://archive.org/download/populardiario-2022/populardiario-2022-08-12T06:42:17.066547-03:00.accessibility.json) |
+| [August 11 at 3:52 PM](https://archive.org/download/populardiario-2022/populardiario-2022-08-11T15:52:16.760600-03:00.accessibility.json) |
+| [August 11 at 2:21 AM](https://archive.org/download/populardiario-2022/populardiario-2022-08-11T02:21:12.581178-03:00.accessibility.json) |
+| [August 10 at 3:17 PM](https://archive.org/download/populardiario-2022/populardiario-2022-08-10T15:17:44.412354-03:00.accessibility.json) |
+| [August 10 at 2:29 AM](https://archive.org/download/populardiario-2022/populardiario-2022-08-10T02:29:03.071856-03:00.accessibility.json) |
+| [August 9 at 2:48 PM](https://archive.org/download/populardiario-2022/populardiario-2022-08-09T14:48:33.127371-03:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 7 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 9 Lighthouse audits with the Internet Archive.
 
 
 
@@ -144,13 +166,15 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 12 at 8:19 AM](https://archive.org/download/populardiario-2022/populardiario-2022-08-12T15:18:18.449560-03:00.lighthouse.json) |
-| [August 11 at 11:42 PM](https://archive.org/download/populardiario-2022/populardiario-2022-08-12T06:42:17.066547-03:00.lighthouse.json) |
-| [August 11 at 8:52 AM](https://archive.org/download/populardiario-2022/populardiario-2022-08-11T15:52:16.760600-03:00.lighthouse.json) |
-| [August 10 at 7:21 PM](https://archive.org/download/populardiario-2022/populardiario-2022-08-11T02:21:12.581178-03:00.lighthouse.json) |
-| [August 10 at 8:17 AM](https://archive.org/download/populardiario-2022/populardiario-2022-08-10T15:17:44.412354-03:00.lighthouse.json) |
-| [August 9 at 7:29 PM](https://archive.org/download/populardiario-2022/populardiario-2022-08-10T02:29:03.071856-03:00.lighthouse.json) |
-| [August 9 at 7:48 AM](https://archive.org/download/populardiario-2022/populardiario-2022-08-09T14:48:33.127371-03:00.lighthouse.json) |
+| [August 13 at 5:55 PM](https://archive.org/download/populardiario-2022/populardiario-2022-08-13T17:55:26.832808-03:00.lighthouse.json) |
+| [August 13 at 2:07 AM](https://archive.org/download/populardiario-2022/populardiario-2022-08-13T02:07:36.777571-03:00.lighthouse.json) |
+| [August 12 at 3:19 PM](https://archive.org/download/populardiario-2022/populardiario-2022-08-12T15:18:18.449560-03:00.lighthouse.json) |
+| [August 12 at 6:42 AM](https://archive.org/download/populardiario-2022/populardiario-2022-08-12T06:42:17.066547-03:00.lighthouse.json) |
+| [August 11 at 3:52 PM](https://archive.org/download/populardiario-2022/populardiario-2022-08-11T15:52:16.760600-03:00.lighthouse.json) |
+| [August 11 at 2:21 AM](https://archive.org/download/populardiario-2022/populardiario-2022-08-11T02:21:12.581178-03:00.lighthouse.json) |
+| [August 10 at 3:17 PM](https://archive.org/download/populardiario-2022/populardiario-2022-08-10T15:17:44.412354-03:00.lighthouse.json) |
+| [August 10 at 2:29 AM](https://archive.org/download/populardiario-2022/populardiario-2022-08-10T02:29:03.071856-03:00.lighthouse.json) |
+| [August 9 at 2:48 PM](https://archive.org/download/populardiario-2022/populardiario-2022-08-09T14:48:33.127371-03:00.lighthouse.json) |
 
 
 

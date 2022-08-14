@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 49 screenshots with the Internet Archive.
+The archiving routine has saved 51 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -114,118 +114,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-12T12:29:50.762121-04:00.jpg">
-  <img src="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-12T12:29:50.762121-04:00.jpg"
-     alt="News 12 NBC 26 at 2022-08-12 05:29:52-04:00 local time"
+ <a href="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-13T16:51:59.645216-04:00.jpg">
+  <img src="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-13T16:51:59.645216-04:00.jpg"
+     alt="News 12 NBC 26 at 2022-08-13 16:52:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-12T12:29:50.762121-04:00.jpg">August 12 at 5:29 AM</a></p>
+ <p><a href="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-13T16:51:59.645216-04:00.jpg">August 13 at 4:52 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-12T22:22:25.253735-04:00.jpg">
+  <img src="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-12T22:22:25.253735-04:00.jpg"
+     alt="News 12 NBC 26 at 2022-08-12 22:22:28-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-12T22:22:25.253735-04:00.jpg">August 12 at 10:22 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-12T12:29:50.762121-04:00.jpg">
+  <img src="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-12T12:29:50.762121-04:00.jpg"
+     alt="News 12 NBC 26 at 2022-08-12 12:29:52-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-12T12:29:50.762121-04:00.jpg">August 12 at 12:29 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-12T05:39:45.790661-04:00.jpg">
   <img src="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-12T05:39:45.790661-04:00.jpg"
-     alt="News 12 NBC 26 at 2022-08-11 22:39:47-04:00 local time"
+     alt="News 12 NBC 26 at 2022-08-12 05:39:47-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-12T05:39:45.790661-04:00.jpg">August 11 at 10:39 PM</a></p>
+ <p><a href="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-12T05:39:45.790661-04:00.jpg">August 12 at 5:39 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-11T13:12:50.390880-04:00.jpg">
   <img src="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-11T13:12:50.390880-04:00.jpg"
-     alt="News 12 NBC 26 at 2022-08-11 06:12:52-04:00 local time"
+     alt="News 12 NBC 26 at 2022-08-11 13:12:52-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-11T13:12:50.390880-04:00.jpg">August 11 at 6:12 AM</a></p>
+ <p><a href="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-11T13:12:50.390880-04:00.jpg">August 11 at 1:12 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-10T22:32:30.282664-04:00.jpg">
   <img src="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-10T22:32:30.282664-04:00.jpg"
-     alt="News 12 NBC 26 at 2022-08-10 15:32:31-04:00 local time"
+     alt="News 12 NBC 26 at 2022-08-10 22:32:31-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-10T22:32:30.282664-04:00.jpg">August 10 at 3:32 PM</a></p>
+ <p><a href="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-10T22:32:30.282664-04:00.jpg">August 10 at 10:32 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-10T13:55:15.946905-04:00.jpg">
   <img src="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-10T13:55:15.946905-04:00.jpg"
-     alt="News 12 NBC 26 at 2022-08-10 06:55:19-04:00 local time"
+     alt="News 12 NBC 26 at 2022-08-10 13:55:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-10T13:55:15.946905-04:00.jpg">August 10 at 6:55 AM</a></p>
+ <p><a href="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-10T13:55:15.946905-04:00.jpg">August 10 at 1:55 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-09T22:43:49.302027-04:00.jpg">
   <img src="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-09T22:43:49.302027-04:00.jpg"
-     alt="News 12 NBC 26 at 2022-08-09 15:43:50-04:00 local time"
+     alt="News 12 NBC 26 at 2022-08-09 22:43:50-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-09T22:43:49.302027-04:00.jpg">August 9 at 3:43 PM</a></p>
+ <p><a href="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-09T22:43:49.302027-04:00.jpg">August 9 at 10:43 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-09T10:46:09.100451-04:00.jpg">
   <img src="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-09T10:46:09.100451-04:00.jpg"
-     alt="News 12 NBC 26 at 2022-08-09 03:46:11-04:00 local time"
+     alt="News 12 NBC 26 at 2022-08-09 10:46:11-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-09T10:46:09.100451-04:00.jpg">August 9 at 3:46 AM</a></p>
+ <p><a href="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-09T10:46:09.100451-04:00.jpg">August 9 at 10:46 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-08T22:30:18.056982-04:00.jpg">
   <img src="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-08T22:30:18.056982-04:00.jpg"
-     alt="News 12 NBC 26 at 2022-08-08 15:30:19-04:00 local time"
+     alt="News 12 NBC 26 at 2022-08-08 22:30:19-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-08T22:30:18.056982-04:00.jpg">August 8 at 3:30 PM</a></p>
+ <p><a href="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-08T22:30:18.056982-04:00.jpg">August 8 at 10:30 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-08T10:27:06.719822-04:00.jpg">
   <img src="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-08T10:27:06.719822-04:00.jpg"
-     alt="News 12 NBC 26 at 2022-08-08 03:27:08-04:00 local time"
+     alt="News 12 NBC 26 at 2022-08-08 10:27:08-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-08T10:27:06.719822-04:00.jpg">August 8 at 3:27 AM</a></p>
+ <p><a href="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-08T10:27:06.719822-04:00.jpg">August 8 at 10:27 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-07T22:40:25.421094-04:00.jpg">
   <img src="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-07T22:40:25.421094-04:00.jpg"
-     alt="News 12 NBC 26 at 2022-08-07 15:40:27-04:00 local time"
+     alt="News 12 NBC 26 at 2022-08-07 22:40:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-07T22:40:25.421094-04:00.jpg">August 7 at 3:40 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-07T10:11:31.902328-04:00.jpg">
-  <img src="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-07T10:11:31.902328-04:00.jpg"
-     alt="News 12 NBC 26 at 2022-08-07 03:11:33-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-07T10:11:31.902328-04:00.jpg">August 7 at 3:11 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-06T23:16:09.717761-04:00.jpg">
-  <img src="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-06T23:16:09.717761-04:00.jpg"
-     alt="News 12 NBC 26 at 2022-08-06 16:16:11-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-06T23:16:09.717761-04:00.jpg">August 6 at 4:16 PM</a></p>
+ <p><a href="https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-07T22:40:25.421094-04:00.jpg">August 7 at 10:40 PM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 50 hyperlink lists with the Internet Archive.
+The archiving routine has saved 52 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,21 +316,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 12 at 5:29 AM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-12T12:29:50.762121-04:00.hyperlinks.json) |
-| [August 11 at 10:39 PM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-12T05:39:45.790661-04:00.hyperlinks.json) |
-| [August 11 at 3:11 PM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-11T22:11:12.273735-04:00.hyperlinks.json) |
-| [August 11 at 6:12 AM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-11T13:12:50.390880-04:00.hyperlinks.json) |
-| [August 10 at 3:32 PM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-10T22:32:30.282664-04:00.hyperlinks.json) |
-| [August 10 at 6:55 AM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-10T13:55:15.946905-04:00.hyperlinks.json) |
-| [August 9 at 3:43 PM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-09T22:43:49.302027-04:00.hyperlinks.json) |
-| [August 9 at 3:46 AM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-09T10:46:09.100451-04:00.hyperlinks.json) |
-| [August 8 at 3:30 PM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-08T22:30:18.056982-04:00.hyperlinks.json) |
-| [August 8 at 3:27 AM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-08T10:27:06.719822-04:00.hyperlinks.json) |
+| [August 13 at 4:52 PM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-13T16:51:59.645216-04:00.hyperlinks.json) |
+| [August 12 at 10:22 PM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-12T22:22:25.253735-04:00.hyperlinks.json) |
+| [August 12 at 12:29 PM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-12T12:29:50.762121-04:00.hyperlinks.json) |
+| [August 12 at 5:39 AM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-12T05:39:45.790661-04:00.hyperlinks.json) |
+| [August 11 at 10:11 PM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-11T22:11:12.273735-04:00.hyperlinks.json) |
+| [August 11 at 1:12 PM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-11T13:12:50.390880-04:00.hyperlinks.json) |
+| [August 10 at 10:32 PM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-10T22:32:30.282664-04:00.hyperlinks.json) |
+| [August 10 at 1:55 PM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-10T13:55:15.946905-04:00.hyperlinks.json) |
+| [August 9 at 10:43 PM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-09T22:43:49.302027-04:00.hyperlinks.json) |
+| [August 9 at 10:46 AM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-09T10:46:09.100451-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 50 accessibility trees with the Internet Archive.
+The archiving routine has saved 52 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,22 +421,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 12 at 5:29 AM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-12T12:29:50.762121-04:00.accessibility.json) |
-| [August 11 at 10:39 PM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-12T05:39:45.790661-04:00.accessibility.json) |
-| [August 11 at 3:11 PM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-11T22:11:12.273735-04:00.accessibility.json) |
-| [August 11 at 6:12 AM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-11T13:12:50.390880-04:00.accessibility.json) |
-| [August 10 at 3:32 PM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-10T22:32:30.282664-04:00.accessibility.json) |
-| [August 10 at 6:55 AM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-10T13:55:15.946905-04:00.accessibility.json) |
-| [August 9 at 3:43 PM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-09T22:43:49.302027-04:00.accessibility.json) |
-| [August 9 at 3:46 AM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-09T10:46:09.100451-04:00.accessibility.json) |
-| [August 8 at 3:30 PM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-08T22:30:18.056982-04:00.accessibility.json) |
-| [August 8 at 3:27 AM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-08T10:27:06.719822-04:00.accessibility.json) |
+| [August 13 at 4:52 PM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-13T16:51:59.645216-04:00.accessibility.json) |
+| [August 12 at 10:22 PM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-12T22:22:25.253735-04:00.accessibility.json) |
+| [August 12 at 12:29 PM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-12T12:29:50.762121-04:00.accessibility.json) |
+| [August 12 at 5:39 AM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-12T05:39:45.790661-04:00.accessibility.json) |
+| [August 11 at 10:11 PM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-11T22:11:12.273735-04:00.accessibility.json) |
+| [August 11 at 1:12 PM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-11T13:12:50.390880-04:00.accessibility.json) |
+| [August 10 at 10:32 PM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-10T22:32:30.282664-04:00.accessibility.json) |
+| [August 10 at 1:55 PM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-10T13:55:15.946905-04:00.accessibility.json) |
+| [August 9 at 10:43 PM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-09T22:43:49.302027-04:00.accessibility.json) |
+| [August 9 at 10:46 AM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-09T10:46:09.100451-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 43 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 45 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 12 at 5:29 AM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-12T12:29:50.762121-04:00.lighthouse.json) |
-| [August 11 at 10:39 PM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-12T05:39:45.790661-04:00.lighthouse.json) |
-| [August 11 at 3:11 PM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-11T22:11:12.273735-04:00.lighthouse.json) |
-| [August 11 at 6:12 AM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-11T13:12:50.390880-04:00.lighthouse.json) |
-| [August 10 at 3:32 PM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-10T22:32:30.282664-04:00.lighthouse.json) |
-| [August 10 at 6:55 AM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-10T13:55:15.946905-04:00.lighthouse.json) |
-| [August 9 at 3:43 PM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-09T22:43:49.302027-04:00.lighthouse.json) |
-| [August 9 at 3:46 AM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-09T10:46:09.100451-04:00.lighthouse.json) |
-| [August 8 at 3:30 PM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-08T22:30:18.056982-04:00.lighthouse.json) |
-| [August 8 at 3:27 AM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-08T10:27:06.719822-04:00.lighthouse.json) |
+| [August 13 at 4:52 PM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-13T16:51:59.645216-04:00.lighthouse.json) |
+| [August 12 at 10:22 PM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-12T22:22:25.253735-04:00.lighthouse.json) |
+| [August 12 at 12:29 PM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-12T12:29:50.762121-04:00.lighthouse.json) |
+| [August 12 at 5:39 AM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-12T05:39:45.790661-04:00.lighthouse.json) |
+| [August 11 at 10:11 PM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-11T22:11:12.273735-04:00.lighthouse.json) |
+| [August 11 at 1:12 PM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-11T13:12:50.390880-04:00.lighthouse.json) |
+| [August 10 at 10:32 PM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-10T22:32:30.282664-04:00.lighthouse.json) |
+| [August 10 at 1:55 PM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-10T13:55:15.946905-04:00.lighthouse.json) |
+| [August 9 at 10:43 PM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-09T22:43:49.302027-04:00.lighthouse.json) |
+| [August 9 at 10:46 AM](https://archive.org/download/wrdw_wagt-2022/wrdw_wagt-2022-08-09T10:46:09.100451-04:00.lighthouse.json) |
 
 
 

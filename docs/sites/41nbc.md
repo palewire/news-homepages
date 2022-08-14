@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 48 screenshots with the Internet Archive.
+The archiving routine has saved 50 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -114,118 +114,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/41nbc-2022/41nbc-2022-08-12T20:22:26.247558-04:00.jpg">
-  <img src="https://archive.org/download/41nbc-2022/41nbc-2022-08-12T20:22:26.247558-04:00.jpg"
-     alt="41NBC / WMGT at 2022-08-12 13:22:31-04:00 local time"
+ <a href="https://archive.org/download/41nbc-2022/41nbc-2022-08-13T19:42:23.796050-04:00.jpg">
+  <img src="https://archive.org/download/41nbc-2022/41nbc-2022-08-13T19:42:23.796050-04:00.jpg"
+     alt="41NBC / WMGT at 2022-08-13 19:42:25-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/41nbc-2022/41nbc-2022-08-12T20:22:26.247558-04:00.jpg">August 12 at 1:22 PM</a></p>
+ <p><a href="https://archive.org/download/41nbc-2022/41nbc-2022-08-13T19:42:23.796050-04:00.jpg">August 13 at 7:42 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/41nbc-2022/41nbc-2022-08-13T08:48:45.973771-04:00.jpg">
+  <img src="https://archive.org/download/41nbc-2022/41nbc-2022-08-13T08:48:45.973771-04:00.jpg"
+     alt="41NBC / WMGT at 2022-08-13 08:48:49-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/41nbc-2022/41nbc-2022-08-13T08:48:45.973771-04:00.jpg">August 13 at 8:48 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/41nbc-2022/41nbc-2022-08-12T20:22:26.247558-04:00.jpg">
+  <img src="https://archive.org/download/41nbc-2022/41nbc-2022-08-12T20:22:26.247558-04:00.jpg"
+     alt="41NBC / WMGT at 2022-08-12 20:22:31-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/41nbc-2022/41nbc-2022-08-12T20:22:26.247558-04:00.jpg">August 12 at 8:22 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/41nbc-2022/41nbc-2022-08-12T07:33:42.010629-04:00.jpg">
   <img src="https://archive.org/download/41nbc-2022/41nbc-2022-08-12T07:33:42.010629-04:00.jpg"
-     alt="41NBC / WMGT at 2022-08-12 00:33:42-04:00 local time"
+     alt="41NBC / WMGT at 2022-08-12 07:33:42-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/41nbc-2022/41nbc-2022-08-12T07:33:42.010629-04:00.jpg">August 12 at 12:33 AM</a></p>
+ <p><a href="https://archive.org/download/41nbc-2022/41nbc-2022-08-12T07:33:42.010629-04:00.jpg">August 12 at 7:33 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/41nbc-2022/41nbc-2022-08-11T19:16:07.063525-04:00.jpg">
   <img src="https://archive.org/download/41nbc-2022/41nbc-2022-08-11T19:16:07.063525-04:00.jpg"
-     alt="41NBC / WMGT at 2022-08-11 12:16:09-04:00 local time"
+     alt="41NBC / WMGT at 2022-08-11 19:16:09-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/41nbc-2022/41nbc-2022-08-11T19:16:07.063525-04:00.jpg">August 11 at 12:16 PM</a></p>
+ <p><a href="https://archive.org/download/41nbc-2022/41nbc-2022-08-11T19:16:07.063525-04:00.jpg">August 11 at 7:16 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/41nbc-2022/41nbc-2022-08-11T07:29:59.508427-04:00.jpg">
   <img src="https://archive.org/download/41nbc-2022/41nbc-2022-08-11T07:29:59.508427-04:00.jpg"
-     alt="41NBC / WMGT at 2022-08-11 00:30:04-04:00 local time"
+     alt="41NBC / WMGT at 2022-08-11 07:30:04-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/41nbc-2022/41nbc-2022-08-11T07:29:59.508427-04:00.jpg">August 11 at 12:30 AM</a></p>
+ <p><a href="https://archive.org/download/41nbc-2022/41nbc-2022-08-11T07:29:59.508427-04:00.jpg">August 11 at 7:30 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/41nbc-2022/41nbc-2022-08-10T20:34:55.644497-04:00.jpg">
   <img src="https://archive.org/download/41nbc-2022/41nbc-2022-08-10T20:34:55.644497-04:00.jpg"
-     alt="41NBC / WMGT at 2022-08-10 13:35:00-04:00 local time"
+     alt="41NBC / WMGT at 2022-08-10 20:35:00-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/41nbc-2022/41nbc-2022-08-10T20:34:55.644497-04:00.jpg">August 10 at 1:35 PM</a></p>
+ <p><a href="https://archive.org/download/41nbc-2022/41nbc-2022-08-10T20:34:55.644497-04:00.jpg">August 10 at 8:35 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/41nbc-2022/41nbc-2022-08-10T08:50:24.241752-04:00.jpg">
   <img src="https://archive.org/download/41nbc-2022/41nbc-2022-08-10T08:50:24.241752-04:00.jpg"
-     alt="41NBC / WMGT at 2022-08-10 01:50:29-04:00 local time"
+     alt="41NBC / WMGT at 2022-08-10 08:50:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/41nbc-2022/41nbc-2022-08-10T08:50:24.241752-04:00.jpg">August 10 at 1:50 AM</a></p>
+ <p><a href="https://archive.org/download/41nbc-2022/41nbc-2022-08-10T08:50:24.241752-04:00.jpg">August 10 at 8:50 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/41nbc-2022/41nbc-2022-08-09T19:18:16.113568-04:00.jpg">
   <img src="https://archive.org/download/41nbc-2022/41nbc-2022-08-09T19:18:16.113568-04:00.jpg"
-     alt="41NBC / WMGT at 2022-08-09 12:18:18-04:00 local time"
+     alt="41NBC / WMGT at 2022-08-09 19:18:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/41nbc-2022/41nbc-2022-08-09T19:18:16.113568-04:00.jpg">August 9 at 12:18 PM</a></p>
+ <p><a href="https://archive.org/download/41nbc-2022/41nbc-2022-08-09T19:18:16.113568-04:00.jpg">August 9 at 7:18 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/41nbc-2022/41nbc-2022-08-09T08:35:47.493055-04:00.jpg">
   <img src="https://archive.org/download/41nbc-2022/41nbc-2022-08-09T08:35:47.493055-04:00.jpg"
-     alt="41NBC / WMGT at 2022-08-09 01:35:49-04:00 local time"
+     alt="41NBC / WMGT at 2022-08-09 08:35:49-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/41nbc-2022/41nbc-2022-08-09T08:35:47.493055-04:00.jpg">August 9 at 1:35 AM</a></p>
+ <p><a href="https://archive.org/download/41nbc-2022/41nbc-2022-08-09T08:35:47.493055-04:00.jpg">August 9 at 8:35 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/41nbc-2022/41nbc-2022-08-08T20:31:09.848983-04:00.jpg">
   <img src="https://archive.org/download/41nbc-2022/41nbc-2022-08-08T20:31:09.848983-04:00.jpg"
-     alt="41NBC / WMGT at 2022-08-08 13:31:12-04:00 local time"
+     alt="41NBC / WMGT at 2022-08-08 20:31:12-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/41nbc-2022/41nbc-2022-08-08T20:31:09.848983-04:00.jpg">August 8 at 1:31 PM</a></p>
+ <p><a href="https://archive.org/download/41nbc-2022/41nbc-2022-08-08T20:31:09.848983-04:00.jpg">August 8 at 8:31 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/41nbc-2022/41nbc-2022-08-08T07:15:18.508295-04:00.jpg">
   <img src="https://archive.org/download/41nbc-2022/41nbc-2022-08-08T07:15:18.508295-04:00.jpg"
-     alt="41NBC / WMGT at 2022-08-08 00:15:20-04:00 local time"
+     alt="41NBC / WMGT at 2022-08-08 07:15:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/41nbc-2022/41nbc-2022-08-08T07:15:18.508295-04:00.jpg">August 8 at 12:15 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/41nbc-2022/41nbc-2022-08-07T20:38:25.280990-04:00.jpg">
-  <img src="https://archive.org/download/41nbc-2022/41nbc-2022-08-07T20:38:25.280990-04:00.jpg"
-     alt="41NBC / WMGT at 2022-08-07 13:38:27-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/41nbc-2022/41nbc-2022-08-07T20:38:25.280990-04:00.jpg">August 7 at 1:38 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/41nbc-2022/41nbc-2022-08-07T08:19:22.229401-04:00.jpg">
-  <img src="https://archive.org/download/41nbc-2022/41nbc-2022-08-07T08:19:22.229401-04:00.jpg"
-     alt="41NBC / WMGT at 2022-08-07 01:19:24-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/41nbc-2022/41nbc-2022-08-07T08:19:22.229401-04:00.jpg">August 7 at 1:19 AM</a></p>
+ <p><a href="https://archive.org/download/41nbc-2022/41nbc-2022-08-08T07:15:18.508295-04:00.jpg">August 8 at 7:15 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 41 hyperlink lists with the Internet Archive.
+The archiving routine has saved 43 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,21 +316,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 12 at 1:22 PM](https://archive.org/download/41nbc-2022/41nbc-2022-08-12T20:22:26.247558-04:00.hyperlinks.json) |
-| [August 12 at 12:33 AM](https://archive.org/download/41nbc-2022/41nbc-2022-08-12T07:33:42.010629-04:00.hyperlinks.json) |
-| [August 11 at 12:16 PM](https://archive.org/download/41nbc-2022/41nbc-2022-08-11T19:16:07.063525-04:00.hyperlinks.json) |
-| [August 10 at 1:35 PM](https://archive.org/download/41nbc-2022/41nbc-2022-08-10T20:34:55.644497-04:00.hyperlinks.json) |
-| [August 10 at 1:50 AM](https://archive.org/download/41nbc-2022/41nbc-2022-08-10T08:50:24.241752-04:00.hyperlinks.json) |
-| [August 9 at 1:35 AM](https://archive.org/download/41nbc-2022/41nbc-2022-08-09T08:35:47.493055-04:00.hyperlinks.json) |
-| [August 8 at 1:31 PM](https://archive.org/download/41nbc-2022/41nbc-2022-08-08T20:31:09.848983-04:00.hyperlinks.json) |
-| [August 8 at 12:15 AM](https://archive.org/download/41nbc-2022/41nbc-2022-08-08T07:15:18.508295-04:00.hyperlinks.json) |
-| [August 7 at 1:38 PM](https://archive.org/download/41nbc-2022/41nbc-2022-08-07T20:38:25.280990-04:00.hyperlinks.json) |
-| [August 7 at 1:19 AM](https://archive.org/download/41nbc-2022/41nbc-2022-08-07T08:19:22.229401-04:00.hyperlinks.json) |
+| [August 13 at 7:42 PM](https://archive.org/download/41nbc-2022/41nbc-2022-08-13T19:42:23.796050-04:00.hyperlinks.json) |
+| [August 13 at 8:48 AM](https://archive.org/download/41nbc-2022/41nbc-2022-08-13T08:48:45.973771-04:00.hyperlinks.json) |
+| [August 12 at 8:22 PM](https://archive.org/download/41nbc-2022/41nbc-2022-08-12T20:22:26.247558-04:00.hyperlinks.json) |
+| [August 12 at 7:33 AM](https://archive.org/download/41nbc-2022/41nbc-2022-08-12T07:33:42.010629-04:00.hyperlinks.json) |
+| [August 11 at 7:16 PM](https://archive.org/download/41nbc-2022/41nbc-2022-08-11T19:16:07.063525-04:00.hyperlinks.json) |
+| [August 10 at 8:35 PM](https://archive.org/download/41nbc-2022/41nbc-2022-08-10T20:34:55.644497-04:00.hyperlinks.json) |
+| [August 10 at 8:50 AM](https://archive.org/download/41nbc-2022/41nbc-2022-08-10T08:50:24.241752-04:00.hyperlinks.json) |
+| [August 9 at 8:35 AM](https://archive.org/download/41nbc-2022/41nbc-2022-08-09T08:35:47.493055-04:00.hyperlinks.json) |
+| [August 8 at 8:31 PM](https://archive.org/download/41nbc-2022/41nbc-2022-08-08T20:31:09.848983-04:00.hyperlinks.json) |
+| [August 8 at 7:15 AM](https://archive.org/download/41nbc-2022/41nbc-2022-08-08T07:15:18.508295-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 38 accessibility trees with the Internet Archive.
+The archiving routine has saved 39 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,22 +421,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 12 at 12:33 AM](https://archive.org/download/41nbc-2022/41nbc-2022-08-12T07:33:42.010629-04:00.accessibility.json) |
-| [August 11 at 12:30 AM](https://archive.org/download/41nbc-2022/41nbc-2022-08-11T07:29:59.508427-04:00.accessibility.json) |
-| [August 10 at 1:35 PM](https://archive.org/download/41nbc-2022/41nbc-2022-08-10T20:34:55.644497-04:00.accessibility.json) |
-| [August 10 at 1:50 AM](https://archive.org/download/41nbc-2022/41nbc-2022-08-10T08:50:24.241752-04:00.accessibility.json) |
-| [August 9 at 12:18 PM](https://archive.org/download/41nbc-2022/41nbc-2022-08-09T19:18:16.113568-04:00.accessibility.json) |
-| [August 8 at 1:31 PM](https://archive.org/download/41nbc-2022/41nbc-2022-08-08T20:31:09.848983-04:00.accessibility.json) |
-| [August 8 at 12:15 AM](https://archive.org/download/41nbc-2022/41nbc-2022-08-08T07:15:18.508295-04:00.accessibility.json) |
-| [August 7 at 1:19 AM](https://archive.org/download/41nbc-2022/41nbc-2022-08-07T08:19:22.229401-04:00.accessibility.json) |
-| [August 6 at 1:20 PM](https://archive.org/download/41nbc-2022/41nbc-2022-08-06T20:20:21.398833-04:00.accessibility.json) |
-| [August 5 at 12:23 PM](https://archive.org/download/41nbc-2022/41nbc-2022-08-05T19:23:51.286936-04:00.accessibility.json) |
+| [August 13 at 8:48 AM](https://archive.org/download/41nbc-2022/41nbc-2022-08-13T08:48:45.973771-04:00.accessibility.json) |
+| [August 12 at 7:33 AM](https://archive.org/download/41nbc-2022/41nbc-2022-08-12T07:33:42.010629-04:00.accessibility.json) |
+| [August 11 at 7:30 AM](https://archive.org/download/41nbc-2022/41nbc-2022-08-11T07:29:59.508427-04:00.accessibility.json) |
+| [August 10 at 8:35 PM](https://archive.org/download/41nbc-2022/41nbc-2022-08-10T20:34:55.644497-04:00.accessibility.json) |
+| [August 10 at 8:50 AM](https://archive.org/download/41nbc-2022/41nbc-2022-08-10T08:50:24.241752-04:00.accessibility.json) |
+| [August 9 at 7:18 PM](https://archive.org/download/41nbc-2022/41nbc-2022-08-09T19:18:16.113568-04:00.accessibility.json) |
+| [August 8 at 8:31 PM](https://archive.org/download/41nbc-2022/41nbc-2022-08-08T20:31:09.848983-04:00.accessibility.json) |
+| [August 8 at 7:15 AM](https://archive.org/download/41nbc-2022/41nbc-2022-08-08T07:15:18.508295-04:00.accessibility.json) |
+| [August 7 at 8:19 AM](https://archive.org/download/41nbc-2022/41nbc-2022-08-07T08:19:22.229401-04:00.accessibility.json) |
+| [August 6 at 8:20 PM](https://archive.org/download/41nbc-2022/41nbc-2022-08-06T20:20:21.398833-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 41 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 43 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 12 at 1:22 PM](https://archive.org/download/41nbc-2022/41nbc-2022-08-12T20:22:26.247558-04:00.lighthouse.json) |
-| [August 12 at 12:33 AM](https://archive.org/download/41nbc-2022/41nbc-2022-08-12T07:33:42.010629-04:00.lighthouse.json) |
-| [August 11 at 12:16 PM](https://archive.org/download/41nbc-2022/41nbc-2022-08-11T19:16:07.063525-04:00.lighthouse.json) |
-| [August 11 at 12:30 AM](https://archive.org/download/41nbc-2022/41nbc-2022-08-11T07:29:59.508427-04:00.lighthouse.json) |
-| [August 10 at 1:35 PM](https://archive.org/download/41nbc-2022/41nbc-2022-08-10T20:34:55.644497-04:00.lighthouse.json) |
-| [August 10 at 1:50 AM](https://archive.org/download/41nbc-2022/41nbc-2022-08-10T08:50:24.241752-04:00.lighthouse.json) |
-| [August 9 at 12:18 PM](https://archive.org/download/41nbc-2022/41nbc-2022-08-09T19:18:16.113568-04:00.lighthouse.json) |
-| [August 9 at 1:35 AM](https://archive.org/download/41nbc-2022/41nbc-2022-08-09T08:35:47.493055-04:00.lighthouse.json) |
-| [August 8 at 1:31 PM](https://archive.org/download/41nbc-2022/41nbc-2022-08-08T20:31:09.848983-04:00.lighthouse.json) |
-| [August 8 at 12:15 AM](https://archive.org/download/41nbc-2022/41nbc-2022-08-08T07:15:18.508295-04:00.lighthouse.json) |
+| [August 13 at 7:42 PM](https://archive.org/download/41nbc-2022/41nbc-2022-08-13T19:42:23.796050-04:00.lighthouse.json) |
+| [August 13 at 8:48 AM](https://archive.org/download/41nbc-2022/41nbc-2022-08-13T08:48:45.973771-04:00.lighthouse.json) |
+| [August 12 at 8:22 PM](https://archive.org/download/41nbc-2022/41nbc-2022-08-12T20:22:26.247558-04:00.lighthouse.json) |
+| [August 12 at 7:33 AM](https://archive.org/download/41nbc-2022/41nbc-2022-08-12T07:33:42.010629-04:00.lighthouse.json) |
+| [August 11 at 7:16 PM](https://archive.org/download/41nbc-2022/41nbc-2022-08-11T19:16:07.063525-04:00.lighthouse.json) |
+| [August 11 at 7:30 AM](https://archive.org/download/41nbc-2022/41nbc-2022-08-11T07:29:59.508427-04:00.lighthouse.json) |
+| [August 10 at 8:35 PM](https://archive.org/download/41nbc-2022/41nbc-2022-08-10T20:34:55.644497-04:00.lighthouse.json) |
+| [August 10 at 8:50 AM](https://archive.org/download/41nbc-2022/41nbc-2022-08-10T08:50:24.241752-04:00.lighthouse.json) |
+| [August 9 at 7:18 PM](https://archive.org/download/41nbc-2022/41nbc-2022-08-09T19:18:16.113568-04:00.lighthouse.json) |
+| [August 9 at 8:35 AM](https://archive.org/download/41nbc-2022/41nbc-2022-08-09T08:35:47.493055-04:00.lighthouse.json) |
 
 
 

@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 145 screenshots with the Internet Archive.
+The archiving routine has saved 147 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -114,118 +114,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-12T15:17:51.114539-04:00.jpg">
-  <img src="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-12T15:17:51.114539-04:00.jpg"
-     alt="Vox at 2022-08-12 08:17:52-04:00 local time"
+ <a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-13T17:07:01.832025-04:00.jpg">
+  <img src="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-13T17:07:01.832025-04:00.jpg"
+     alt="Vox at 2022-08-13 17:07:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-12T15:17:51.114539-04:00.jpg">August 12 at 8:17 AM</a></p>
+ <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-13T17:07:01.832025-04:00.jpg">August 13 at 5:07 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-13T01:17:08.182658-04:00.jpg">
+  <img src="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-13T01:17:08.182658-04:00.jpg"
+     alt="Vox at 2022-08-13 01:17:09-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-13T01:17:08.182658-04:00.jpg">August 13 at 1:17 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-12T15:17:51.114539-04:00.jpg">
+  <img src="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-12T15:17:51.114539-04:00.jpg"
+     alt="Vox at 2022-08-12 15:17:52-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-12T15:17:51.114539-04:00.jpg">August 12 at 3:17 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-12T14:30:11.664792-04:00.jpg">
   <img src="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-12T14:30:11.664792-04:00.jpg"
-     alt="Vox at 2022-08-12 07:30:33-04:00 local time"
+     alt="Vox at 2022-08-12 14:30:33-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-12T14:30:11.664792-04:00.jpg">August 12 at 7:30 AM</a></p>
+ <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-12T14:30:11.664792-04:00.jpg">August 12 at 2:30 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-12T05:50:56.933842-04:00.jpg">
   <img src="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-12T05:50:56.933842-04:00.jpg"
-     alt="Vox at 2022-08-11 22:51:01-04:00 local time"
+     alt="Vox at 2022-08-12 05:51:01-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-12T05:50:56.933842-04:00.jpg">August 11 at 10:51 PM</a></p>
+ <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-12T05:50:56.933842-04:00.jpg">August 12 at 5:51 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-11T15:44:00.635633-04:00.jpg">
   <img src="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-11T15:44:00.635633-04:00.jpg"
-     alt="Vox at 2022-08-11 08:44:02-04:00 local time"
+     alt="Vox at 2022-08-11 15:44:02-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-11T15:44:00.635633-04:00.jpg">August 11 at 8:44 AM</a></p>
+ <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-11T15:44:00.635633-04:00.jpg">August 11 at 3:44 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-11T15:01:25.159650-04:00.jpg">
   <img src="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-11T15:01:25.159650-04:00.jpg"
-     alt="Vox at 2022-08-11 08:01:29-04:00 local time"
+     alt="Vox at 2022-08-11 15:01:29-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-11T15:01:25.159650-04:00.jpg">August 11 at 8:01 AM</a></p>
+ <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-11T15:01:25.159650-04:00.jpg">August 11 at 3:01 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-11T01:31:24.019634-04:00.jpg">
   <img src="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-11T01:31:24.019634-04:00.jpg"
-     alt="Vox at 2022-08-10 18:31:27-04:00 local time"
+     alt="Vox at 2022-08-11 01:31:27-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-11T01:31:24.019634-04:00.jpg">August 10 at 6:31 PM</a></p>
+ <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-11T01:31:24.019634-04:00.jpg">August 11 at 1:31 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-10T15:41:16.758781-04:00.jpg">
   <img src="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-10T15:41:16.758781-04:00.jpg"
-     alt="Vox at 2022-08-10 08:41:18-04:00 local time"
+     alt="Vox at 2022-08-10 15:41:18-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-10T15:41:16.758781-04:00.jpg">August 10 at 8:41 AM</a></p>
+ <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-10T15:41:16.758781-04:00.jpg">August 10 at 3:41 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-10T14:30:28.480687-04:00.jpg">
   <img src="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-10T14:30:28.480687-04:00.jpg"
-     alt="Vox at 2022-08-10 07:30:32-04:00 local time"
+     alt="Vox at 2022-08-10 14:30:32-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-10T14:30:28.480687-04:00.jpg">August 10 at 7:30 AM</a></p>
+ <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-10T14:30:28.480687-04:00.jpg">August 10 at 2:30 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-10T01:37:16.063976-04:00.jpg">
   <img src="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-10T01:37:16.063976-04:00.jpg"
-     alt="Vox at 2022-08-09 18:37:20-04:00 local time"
+     alt="Vox at 2022-08-10 01:37:20-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-10T01:37:16.063976-04:00.jpg">August 9 at 6:37 PM</a></p>
+ <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-10T01:37:16.063976-04:00.jpg">August 10 at 1:37 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-09T14:47:28.359632-04:00.jpg">
   <img src="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-09T14:47:28.359632-04:00.jpg"
-     alt="Vox at 2022-08-09 07:47:30-04:00 local time"
+     alt="Vox at 2022-08-09 14:47:30-04:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-09T14:47:28.359632-04:00.jpg">August 9 at 7:47 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-09T01:13:43.599573-04:00.jpg">
-  <img src="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-09T01:13:43.599573-04:00.jpg"
-     alt="Vox at 2022-08-08 18:13:45-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-09T01:13:43.599573-04:00.jpg">August 8 at 6:13 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-08T14:39:46.435954-04:00.jpg">
-  <img src="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-08T14:39:46.435954-04:00.jpg"
-     alt="Vox at 2022-08-08 07:39:47-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-08T14:39:46.435954-04:00.jpg">August 8 at 7:39 AM</a></p>
+ <p><a href="https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-09T14:47:28.359632-04:00.jpg">August 9 at 2:47 PM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 148 hyperlink lists with the Internet Archive.
+The archiving routine has saved 150 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,21 +316,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 12 at 8:17 AM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-12T15:17:51.114539-04:00.hyperlinks.json) |
-| [August 12 at 7:30 AM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-12T14:30:11.664792-04:00.hyperlinks.json) |
-| [August 11 at 10:51 PM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-12T05:50:56.933842-04:00.hyperlinks.json) |
-| [August 11 at 8:44 AM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-11T15:44:00.635633-04:00.hyperlinks.json) |
-| [August 11 at 8:01 AM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-11T15:01:25.159650-04:00.hyperlinks.json) |
-| [August 10 at 6:31 PM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-11T01:31:24.019634-04:00.hyperlinks.json) |
-| [August 10 at 8:41 AM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-10T15:41:16.758781-04:00.hyperlinks.json) |
-| [August 10 at 7:30 AM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-10T14:30:28.480687-04:00.hyperlinks.json) |
-| [August 9 at 7:47 AM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-09T14:47:28.359632-04:00.hyperlinks.json) |
-| [August 9 at 7:04 AM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-09T14:04:26.032667-04:00.hyperlinks.json) |
+| [August 13 at 5:07 PM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-13T17:07:01.832025-04:00.hyperlinks.json) |
+| [August 13 at 1:17 AM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-13T01:17:08.182658-04:00.hyperlinks.json) |
+| [August 12 at 3:17 PM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-12T15:17:51.114539-04:00.hyperlinks.json) |
+| [August 12 at 2:30 PM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-12T14:30:11.664792-04:00.hyperlinks.json) |
+| [August 12 at 5:51 AM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-12T05:50:56.933842-04:00.hyperlinks.json) |
+| [August 11 at 3:44 PM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-11T15:44:00.635633-04:00.hyperlinks.json) |
+| [August 11 at 3:01 PM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-11T15:01:25.159650-04:00.hyperlinks.json) |
+| [August 11 at 1:31 AM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-11T01:31:24.019634-04:00.hyperlinks.json) |
+| [August 10 at 3:41 PM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-10T15:41:16.758781-04:00.hyperlinks.json) |
+| [August 10 at 2:30 PM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-10T14:30:28.480687-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 150 accessibility trees with the Internet Archive.
+The archiving routine has saved 152 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,22 +421,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 12 at 8:17 AM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-12T15:17:51.114539-04:00.accessibility.json) |
-| [August 12 at 7:30 AM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-12T14:30:11.664792-04:00.accessibility.json) |
-| [August 11 at 10:51 PM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-12T05:50:56.933842-04:00.accessibility.json) |
-| [August 11 at 8:44 AM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-11T15:44:00.635633-04:00.accessibility.json) |
-| [August 11 at 8:01 AM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-11T15:01:25.159650-04:00.accessibility.json) |
-| [August 10 at 6:31 PM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-11T01:31:24.019634-04:00.accessibility.json) |
-| [August 10 at 8:41 AM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-10T15:41:16.758781-04:00.accessibility.json) |
-| [August 10 at 7:30 AM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-10T14:30:28.480687-04:00.accessibility.json) |
-| [August 9 at 6:37 PM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-10T01:37:16.063976-04:00.accessibility.json) |
-| [August 9 at 7:47 AM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-09T14:47:28.359632-04:00.accessibility.json) |
+| [August 13 at 5:07 PM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-13T17:07:01.832025-04:00.accessibility.json) |
+| [August 13 at 1:17 AM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-13T01:17:08.182658-04:00.accessibility.json) |
+| [August 12 at 3:17 PM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-12T15:17:51.114539-04:00.accessibility.json) |
+| [August 12 at 2:30 PM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-12T14:30:11.664792-04:00.accessibility.json) |
+| [August 12 at 5:51 AM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-12T05:50:56.933842-04:00.accessibility.json) |
+| [August 11 at 3:44 PM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-11T15:44:00.635633-04:00.accessibility.json) |
+| [August 11 at 3:01 PM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-11T15:01:25.159650-04:00.accessibility.json) |
+| [August 11 at 1:31 AM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-11T01:31:24.019634-04:00.accessibility.json) |
+| [August 10 at 3:41 PM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-10T15:41:16.758781-04:00.accessibility.json) |
+| [August 10 at 2:30 PM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-10T14:30:28.480687-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 61 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 63 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 12 at 8:17 AM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-12T15:17:51.114539-04:00.lighthouse.json) |
-| [August 12 at 7:30 AM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-12T14:30:11.664792-04:00.lighthouse.json) |
-| [August 11 at 10:51 PM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-12T05:50:56.933842-04:00.lighthouse.json) |
-| [August 11 at 8:44 AM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-11T15:44:00.635633-04:00.lighthouse.json) |
-| [August 11 at 8:01 AM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-11T15:01:25.159650-04:00.lighthouse.json) |
-| [August 10 at 6:31 PM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-11T01:31:24.019634-04:00.lighthouse.json) |
-| [August 10 at 8:41 AM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-10T15:41:16.758781-04:00.lighthouse.json) |
-| [August 10 at 7:30 AM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-10T14:30:28.480687-04:00.lighthouse.json) |
-| [August 9 at 6:37 PM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-10T01:37:16.063976-04:00.lighthouse.json) |
-| [August 9 at 7:47 AM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-09T14:47:28.359632-04:00.lighthouse.json) |
+| [August 13 at 5:07 PM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-13T17:07:01.832025-04:00.lighthouse.json) |
+| [August 13 at 1:17 AM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-13T01:17:08.182658-04:00.lighthouse.json) |
+| [August 12 at 3:17 PM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-12T15:17:51.114539-04:00.lighthouse.json) |
+| [August 12 at 2:30 PM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-12T14:30:11.664792-04:00.lighthouse.json) |
+| [August 12 at 5:51 AM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-12T05:50:56.933842-04:00.lighthouse.json) |
+| [August 11 at 3:44 PM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-11T15:44:00.635633-04:00.lighthouse.json) |
+| [August 11 at 3:01 PM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-11T15:01:25.159650-04:00.lighthouse.json) |
+| [August 11 at 1:31 AM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-11T01:31:24.019634-04:00.lighthouse.json) |
+| [August 10 at 3:41 PM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-10T15:41:16.758781-04:00.lighthouse.json) |
+| [August 10 at 2:30 PM](https://archive.org/download/voxdotcom-2022/voxdotcom-2022-08-10T14:30:28.480687-04:00.lighthouse.json) |
 
 
 

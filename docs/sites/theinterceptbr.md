@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 27 screenshots with the Internet Archive.
+The archiving routine has saved 30 screenshots with the Internet Archive.
 
 
 
@@ -31,180 +31,429 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-12T13:23:55.778930-03:00.jpg">
-  <img src="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-12T13:23:55.778930-03:00.jpg"
-     alt="Intercept Brazil at 2022-08-12 06:23:57-03:00 local time"
+ <a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-13T17:45:00.358912-03:00.jpg">
+  <img src="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-13T17:45:00.358912-03:00.jpg"
+     alt="Intercept Brazil at 2022-08-13 17:45:03-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-12T13:23:55.778930-03:00.jpg">August 12 at 6:23 AM</a></p>
+ <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-13T17:45:00.358912-03:00.jpg">August 13 at 5:45 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-13T10:03:46.229327-03:00.jpg">
+  <img src="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-13T10:03:46.229327-03:00.jpg"
+     alt="Intercept Brazil at 2022-08-13 10:03:47-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-13T10:03:46.229327-03:00.jpg">August 13 at 10:03 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-12T23:17:00.966340-03:00.jpg">
+  <img src="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-12T23:17:00.966340-03:00.jpg"
+     alt="Intercept Brazil at 2022-08-12 23:17:03-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-12T23:17:00.966340-03:00.jpg">August 12 at 11:17 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-12T13:23:55.778930-03:00.jpg">
+  <img src="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-12T13:23:55.778930-03:00.jpg"
+     alt="Intercept Brazil at 2022-08-12 13:23:57-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-12T13:23:55.778930-03:00.jpg">August 12 at 1:23 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-12T11:59:33.436873-03:00.jpg">
   <img src="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-12T11:59:33.436873-03:00.jpg"
-     alt="Intercept Brazil at 2022-08-12 04:59:34-03:00 local time"
+     alt="Intercept Brazil at 2022-08-12 11:59:34-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-12T11:59:33.436873-03:00.jpg">August 12 at 4:59 AM</a></p>
+ <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-12T11:59:33.436873-03:00.jpg">August 12 at 11:59 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-12T06:34:56.388194-03:00.jpg">
   <img src="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-12T06:34:56.388194-03:00.jpg"
-     alt="Intercept Brazil at 2022-08-11 23:34:57-03:00 local time"
+     alt="Intercept Brazil at 2022-08-12 06:34:57-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-12T06:34:56.388194-03:00.jpg">August 11 at 11:34 PM</a></p>
+ <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-12T06:34:56.388194-03:00.jpg">August 12 at 6:34 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-11T14:07:20.222157-03:00.jpg">
   <img src="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-11T14:07:20.222157-03:00.jpg"
-     alt="Intercept Brazil at 2022-08-11 07:07:22-03:00 local time"
+     alt="Intercept Brazil at 2022-08-11 14:07:22-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-11T14:07:20.222157-03:00.jpg">August 11 at 7:07 AM</a></p>
+ <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-11T14:07:20.222157-03:00.jpg">August 11 at 2:07 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-11T10:29:19.392115-03:00.jpg">
   <img src="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-11T10:29:19.392115-03:00.jpg"
-     alt="Intercept Brazil at 2022-08-11 03:29:21-03:00 local time"
+     alt="Intercept Brazil at 2022-08-11 10:29:21-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-11T10:29:19.392115-03:00.jpg">August 11 at 3:29 AM</a></p>
+ <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-11T10:29:19.392115-03:00.jpg">August 11 at 10:29 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-10T23:26:53.054099-03:00.jpg">
   <img src="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-10T23:26:53.054099-03:00.jpg"
-     alt="Intercept Brazil at 2022-08-10 16:26:55-03:00 local time"
+     alt="Intercept Brazil at 2022-08-10 23:26:55-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-10T23:26:53.054099-03:00.jpg">August 10 at 4:26 PM</a></p>
+ <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-10T23:26:53.054099-03:00.jpg">August 10 at 11:26 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-10T14:49:25.989442-03:00.jpg">
   <img src="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-10T14:49:25.989442-03:00.jpg"
-     alt="Intercept Brazil at 2022-08-10 07:49:27-03:00 local time"
+     alt="Intercept Brazil at 2022-08-10 14:49:27-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-10T14:49:25.989442-03:00.jpg">August 10 at 7:49 AM</a></p>
+ <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-10T14:49:25.989442-03:00.jpg">August 10 at 2:49 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-10T10:22:33.141331-03:00.jpg">
   <img src="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-10T10:22:33.141331-03:00.jpg"
-     alt="Intercept Brazil at 2022-08-10 03:22:34-03:00 local time"
+     alt="Intercept Brazil at 2022-08-10 10:22:34-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-10T10:22:33.141331-03:00.jpg">August 10 at 3:22 AM</a></p>
+ <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-10T10:22:33.141331-03:00.jpg">August 10 at 10:22 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-09T23:38:33.000805-03:00.jpg">
   <img src="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-09T23:38:33.000805-03:00.jpg"
-     alt="Intercept Brazil at 2022-08-09 16:38:34-03:00 local time"
+     alt="Intercept Brazil at 2022-08-09 23:38:34-03:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-09T23:38:33.000805-03:00.jpg">August 9 at 4:38 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-09T11:40:57.151700-03:00.jpg">
-  <img src="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-09T11:40:57.151700-03:00.jpg"
-     alt="Intercept Brazil at 2022-08-09 04:40:58-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-09T11:40:57.151700-03:00.jpg">August 9 at 4:40 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-08T23:24:59.013996-03:00.jpg">
-  <img src="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-08T23:24:59.013996-03:00.jpg"
-     alt="Intercept Brazil at 2022-08-08 16:25:00-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-08T23:24:59.013996-03:00.jpg">August 8 at 4:25 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-08T11:22:13.817045-03:00.jpg">
-  <img src="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-08T11:22:13.817045-03:00.jpg"
-     alt="Intercept Brazil at 2022-08-08 04:22:15-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-08T11:22:13.817045-03:00.jpg">August 8 at 4:22 AM</a></p>
+ <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-09T23:38:33.000805-03:00.jpg">August 9 at 11:38 PM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 28 hyperlink lists with the Internet Archive.
+The archiving routine has saved 31 hyperlink lists with the Internet Archive.
 
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specHyperlinks = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/theinterceptbr.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 12 at 6:24 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-12T13:23:55.778930-03:00.hyperlinks.json) |
-| [August 12 at 4:59 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-12T11:59:33.436873-03:00.hyperlinks.json) |
-| [August 11 at 11:35 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-12T06:34:56.388194-03:00.hyperlinks.json) |
-| [August 11 at 4:06 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-11T23:06:33.008405-03:00.hyperlinks.json) |
-| [August 11 at 7:07 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-11T14:07:20.222157-03:00.hyperlinks.json) |
-| [August 11 at 3:29 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-11T10:29:19.392115-03:00.hyperlinks.json) |
-| [August 10 at 4:26 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-10T23:26:53.054099-03:00.hyperlinks.json) |
-| [August 10 at 7:49 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-10T14:49:25.989442-03:00.hyperlinks.json) |
-| [August 10 at 3:22 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-10T10:22:33.141331-03:00.hyperlinks.json) |
-| [August 9 at 4:38 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-09T23:38:33.000805-03:00.hyperlinks.json) |
+| [August 13 at 5:45 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-13T17:45:00.358912-03:00.hyperlinks.json) |
+| [August 13 at 10:03 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-13T10:03:46.229327-03:00.hyperlinks.json) |
+| [August 12 at 11:17 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-12T23:17:00.966340-03:00.hyperlinks.json) |
+| [August 12 at 1:24 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-12T13:23:55.778930-03:00.hyperlinks.json) |
+| [August 12 at 11:59 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-12T11:59:33.436873-03:00.hyperlinks.json) |
+| [August 12 at 6:35 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-12T06:34:56.388194-03:00.hyperlinks.json) |
+| [August 11 at 11:06 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-11T23:06:33.008405-03:00.hyperlinks.json) |
+| [August 11 at 2:07 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-11T14:07:20.222157-03:00.hyperlinks.json) |
+| [August 11 at 10:29 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-11T10:29:19.392115-03:00.hyperlinks.json) |
+| [August 10 at 11:26 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-10T23:26:53.054099-03:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 28 accessibility trees with the Internet Archive.
+The archiving routine has saved 31 accessibility trees with the Internet Archive.
 
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/theinterceptbr.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 12 at 6:23 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-12T13:23:55.778930-03:00.accessibility.json) |
-| [August 12 at 4:59 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-12T11:59:33.436873-03:00.accessibility.json) |
-| [August 11 at 11:34 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-12T06:34:56.388194-03:00.accessibility.json) |
-| [August 11 at 4:06 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-11T23:06:33.008405-03:00.accessibility.json) |
-| [August 11 at 7:07 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-11T14:07:20.222157-03:00.accessibility.json) |
-| [August 11 at 3:29 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-11T10:29:19.392115-03:00.accessibility.json) |
-| [August 10 at 4:26 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-10T23:26:53.054099-03:00.accessibility.json) |
-| [August 10 at 7:49 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-10T14:49:25.989442-03:00.accessibility.json) |
-| [August 10 at 3:22 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-10T10:22:33.141331-03:00.accessibility.json) |
-| [August 9 at 4:38 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-09T23:38:33.000805-03:00.accessibility.json) |
+| [August 13 at 5:45 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-13T17:45:00.358912-03:00.accessibility.json) |
+| [August 13 at 10:03 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-13T10:03:46.229327-03:00.accessibility.json) |
+| [August 12 at 11:17 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-12T23:17:00.966340-03:00.accessibility.json) |
+| [August 12 at 1:23 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-12T13:23:55.778930-03:00.accessibility.json) |
+| [August 12 at 11:59 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-12T11:59:33.436873-03:00.accessibility.json) |
+| [August 12 at 6:34 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-12T06:34:56.388194-03:00.accessibility.json) |
+| [August 11 at 11:06 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-11T23:06:33.008405-03:00.accessibility.json) |
+| [August 11 at 2:07 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-11T14:07:20.222157-03:00.accessibility.json) |
+| [August 11 at 10:29 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-11T10:29:19.392115-03:00.accessibility.json) |
+| [August 10 at 11:26 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-10T23:26:53.054099-03:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 28 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 31 Lighthouse audits with the Internet Archive.
 
+
+  <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specLighthouse = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/lighthouse/theinterceptbr.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--lighthouse", specLighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 12 at 6:24 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-12T13:23:55.778930-03:00.lighthouse.json) |
-| [August 12 at 4:59 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-12T11:59:33.436873-03:00.lighthouse.json) |
-| [August 11 at 11:35 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-12T06:34:56.388194-03:00.lighthouse.json) |
-| [August 11 at 4:06 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-11T23:06:33.008405-03:00.lighthouse.json) |
-| [August 11 at 7:07 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-11T14:07:20.222157-03:00.lighthouse.json) |
-| [August 11 at 3:29 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-11T10:29:19.392115-03:00.lighthouse.json) |
-| [August 10 at 4:27 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-10T23:26:53.054099-03:00.lighthouse.json) |
-| [August 10 at 7:49 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-10T14:49:25.989442-03:00.lighthouse.json) |
-| [August 10 at 3:22 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-10T10:22:33.141331-03:00.lighthouse.json) |
-| [August 9 at 4:38 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-09T23:38:33.000805-03:00.lighthouse.json) |
+| [August 13 at 5:45 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-13T17:45:00.358912-03:00.lighthouse.json) |
+| [August 13 at 10:03 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-13T10:03:46.229327-03:00.lighthouse.json) |
+| [August 12 at 11:17 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-12T23:17:00.966340-03:00.lighthouse.json) |
+| [August 12 at 1:24 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-12T13:23:55.778930-03:00.lighthouse.json) |
+| [August 12 at 11:59 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-12T11:59:33.436873-03:00.lighthouse.json) |
+| [August 12 at 6:35 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-12T06:34:56.388194-03:00.lighthouse.json) |
+| [August 11 at 11:06 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-11T23:06:33.008405-03:00.lighthouse.json) |
+| [August 11 at 2:07 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-11T14:07:20.222157-03:00.lighthouse.json) |
+| [August 11 at 10:29 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-11T10:29:19.392115-03:00.lighthouse.json) |
+| [August 10 at 11:27 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-10T23:26:53.054099-03:00.lighthouse.json) |
 
 
 

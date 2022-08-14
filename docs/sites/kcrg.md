@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 231 screenshots with the Internet Archive.
+The archiving routine has saved 232 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -114,118 +114,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/kcrg-2022/kcrg-2022-08-12T19:39:32.514397-05:00.jpg">
-  <img src="https://archive.org/download/kcrg-2022/kcrg-2022-08-12T19:39:32.514397-05:00.jpg"
-     alt="KCRG at 2022-08-12 12:39:34-05:00 local time"
+ <a href="https://archive.org/download/kcrg-2022/kcrg-2022-08-13T08:07:52.599026-05:00.jpg">
+  <img src="https://archive.org/download/kcrg-2022/kcrg-2022-08-13T08:07:52.599026-05:00.jpg"
+     alt="KCRG at 2022-08-13 08:07:57-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-08-12T19:39:32.514397-05:00.jpg">August 12 at 12:39 PM</a></p>
+ <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-08-13T08:07:52.599026-05:00.jpg">August 13 at 8:07 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kcrg-2022/kcrg-2022-08-12T19:39:32.514397-05:00.jpg">
+  <img src="https://archive.org/download/kcrg-2022/kcrg-2022-08-12T19:39:32.514397-05:00.jpg"
+     alt="KCRG at 2022-08-12 19:39:34-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-08-12T19:39:32.514397-05:00.jpg">August 12 at 7:39 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcrg-2022/kcrg-2022-08-12T13:35:42.117111-05:00.jpg">
   <img src="https://archive.org/download/kcrg-2022/kcrg-2022-08-12T13:35:42.117111-05:00.jpg"
-     alt="KCRG at 2022-08-12 06:35:55-05:00 local time"
+     alt="KCRG at 2022-08-12 13:35:55-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-08-12T13:35:42.117111-05:00.jpg">August 12 at 6:35 AM</a></p>
+ <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-08-12T13:35:42.117111-05:00.jpg">August 12 at 1:35 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcrg-2022/kcrg-2022-08-12T08:18:47.007955-05:00.jpg">
   <img src="https://archive.org/download/kcrg-2022/kcrg-2022-08-12T08:18:47.007955-05:00.jpg"
-     alt="KCRG at 2022-08-12 01:18:59-05:00 local time"
+     alt="KCRG at 2022-08-12 08:18:59-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-08-12T08:18:47.007955-05:00.jpg">August 12 at 1:18 AM</a></p>
+ <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-08-12T08:18:47.007955-05:00.jpg">August 12 at 8:18 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcrg-2022/kcrg-2022-08-12T04:16:04.990456-05:00.jpg">
   <img src="https://archive.org/download/kcrg-2022/kcrg-2022-08-12T04:16:04.990456-05:00.jpg"
-     alt="KCRG at 2022-08-11 21:16:10-05:00 local time"
+     alt="KCRG at 2022-08-12 04:16:10-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-08-12T04:16:04.990456-05:00.jpg">August 11 at 9:16 PM</a></p>
+ <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-08-12T04:16:04.990456-05:00.jpg">August 12 at 4:16 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcrg-2022/kcrg-2022-08-11T08:35:35.681220-05:00.jpg">
   <img src="https://archive.org/download/kcrg-2022/kcrg-2022-08-11T08:35:35.681220-05:00.jpg"
-     alt="KCRG at 2022-08-11 01:35:41-05:00 local time"
+     alt="KCRG at 2022-08-11 08:35:41-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-08-11T08:35:35.681220-05:00.jpg">August 11 at 1:35 AM</a></p>
+ <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-08-11T08:35:35.681220-05:00.jpg">August 11 at 8:35 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcrg-2022/kcrg-2022-08-10T19:49:10.611091-05:00.jpg">
   <img src="https://archive.org/download/kcrg-2022/kcrg-2022-08-10T19:49:10.611091-05:00.jpg"
-     alt="KCRG at 2022-08-10 12:49:11-05:00 local time"
+     alt="KCRG at 2022-08-10 19:49:11-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-08-10T19:49:10.611091-05:00.jpg">August 10 at 12:49 PM</a></p>
+ <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-08-10T19:49:10.611091-05:00.jpg">August 10 at 7:49 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcrg-2022/kcrg-2022-08-10T13:54:06.908046-05:00.jpg">
   <img src="https://archive.org/download/kcrg-2022/kcrg-2022-08-10T13:54:06.908046-05:00.jpg"
-     alt="KCRG at 2022-08-10 06:54:14-05:00 local time"
+     alt="KCRG at 2022-08-10 13:54:14-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-08-10T13:54:06.908046-05:00.jpg">August 10 at 6:54 AM</a></p>
+ <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-08-10T13:54:06.908046-05:00.jpg">August 10 at 1:54 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcrg-2022/kcrg-2022-08-10T08:05:11.640082-05:00.jpg">
   <img src="https://archive.org/download/kcrg-2022/kcrg-2022-08-10T08:05:11.640082-05:00.jpg"
-     alt="KCRG at 2022-08-10 01:05:17-05:00 local time"
+     alt="KCRG at 2022-08-10 08:05:17-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-08-10T08:05:11.640082-05:00.jpg">August 10 at 1:05 AM</a></p>
+ <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-08-10T08:05:11.640082-05:00.jpg">August 10 at 8:05 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcrg-2022/kcrg-2022-08-09T19:51:46.261231-05:00.jpg">
   <img src="https://archive.org/download/kcrg-2022/kcrg-2022-08-09T19:51:46.261231-05:00.jpg"
-     alt="KCRG at 2022-08-09 12:52:06-05:00 local time"
+     alt="KCRG at 2022-08-09 19:52:06-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-08-09T19:51:46.261231-05:00.jpg">August 9 at 12:52 PM</a></p>
+ <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-08-09T19:51:46.261231-05:00.jpg">August 9 at 7:52 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcrg-2022/kcrg-2022-08-09T07:51:33.293736-05:00.jpg">
   <img src="https://archive.org/download/kcrg-2022/kcrg-2022-08-09T07:51:33.293736-05:00.jpg"
-     alt="KCRG at 2022-08-09 00:51:52-05:00 local time"
+     alt="KCRG at 2022-08-09 07:51:52-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-08-09T07:51:33.293736-05:00.jpg">August 9 at 12:51 AM</a></p>
+ <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-08-09T07:51:33.293736-05:00.jpg">August 9 at 7:51 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcrg-2022/kcrg-2022-08-08T19:50:51.143426-05:00.jpg">
   <img src="https://archive.org/download/kcrg-2022/kcrg-2022-08-08T19:50:51.143426-05:00.jpg"
-     alt="KCRG at 2022-08-08 12:50:57-05:00 local time"
+     alt="KCRG at 2022-08-08 19:50:57-05:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-08-08T19:50:51.143426-05:00.jpg">August 8 at 12:50 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kcrg-2022/kcrg-2022-08-08T12:46:43.936413-05:00.jpg">
-  <img src="https://archive.org/download/kcrg-2022/kcrg-2022-08-08T12:46:43.936413-05:00.jpg"
-     alt="KCRG at 2022-08-08 05:46:45-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-08-08T12:46:43.936413-05:00.jpg">August 8 at 5:46 AM</a></p>
+ <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-08-08T19:50:51.143426-05:00.jpg">August 8 at 7:50 PM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 220 hyperlink lists with the Internet Archive.
+The archiving routine has saved 221 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,21 +316,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 12 at 12:39 PM](https://archive.org/download/kcrg-2022/kcrg-2022-08-12T19:39:32.514397-05:00.hyperlinks.json) |
-| [August 12 at 6:35 AM](https://archive.org/download/kcrg-2022/kcrg-2022-08-12T13:35:42.117111-05:00.hyperlinks.json) |
-| [August 12 at 1:19 AM](https://archive.org/download/kcrg-2022/kcrg-2022-08-12T08:18:47.007955-05:00.hyperlinks.json) |
-| [August 11 at 9:16 PM](https://archive.org/download/kcrg-2022/kcrg-2022-08-12T04:16:04.990456-05:00.hyperlinks.json) |
-| [August 11 at 1:35 AM](https://archive.org/download/kcrg-2022/kcrg-2022-08-11T08:35:35.681220-05:00.hyperlinks.json) |
-| [August 10 at 12:49 PM](https://archive.org/download/kcrg-2022/kcrg-2022-08-10T19:49:10.611091-05:00.hyperlinks.json) |
-| [August 10 at 6:54 AM](https://archive.org/download/kcrg-2022/kcrg-2022-08-10T13:54:06.908046-05:00.hyperlinks.json) |
-| [August 10 at 1:05 AM](https://archive.org/download/kcrg-2022/kcrg-2022-08-10T08:05:11.640082-05:00.hyperlinks.json) |
-| [August 9 at 12:52 PM](https://archive.org/download/kcrg-2022/kcrg-2022-08-09T19:51:46.261231-05:00.hyperlinks.json) |
-| [August 9 at 12:51 AM](https://archive.org/download/kcrg-2022/kcrg-2022-08-09T07:51:33.293736-05:00.hyperlinks.json) |
+| [August 13 at 8:08 AM](https://archive.org/download/kcrg-2022/kcrg-2022-08-13T08:07:52.599026-05:00.hyperlinks.json) |
+| [August 12 at 7:39 PM](https://archive.org/download/kcrg-2022/kcrg-2022-08-12T19:39:32.514397-05:00.hyperlinks.json) |
+| [August 12 at 1:35 PM](https://archive.org/download/kcrg-2022/kcrg-2022-08-12T13:35:42.117111-05:00.hyperlinks.json) |
+| [August 12 at 8:19 AM](https://archive.org/download/kcrg-2022/kcrg-2022-08-12T08:18:47.007955-05:00.hyperlinks.json) |
+| [August 12 at 4:16 AM](https://archive.org/download/kcrg-2022/kcrg-2022-08-12T04:16:04.990456-05:00.hyperlinks.json) |
+| [August 11 at 8:35 AM](https://archive.org/download/kcrg-2022/kcrg-2022-08-11T08:35:35.681220-05:00.hyperlinks.json) |
+| [August 10 at 7:49 PM](https://archive.org/download/kcrg-2022/kcrg-2022-08-10T19:49:10.611091-05:00.hyperlinks.json) |
+| [August 10 at 1:54 PM](https://archive.org/download/kcrg-2022/kcrg-2022-08-10T13:54:06.908046-05:00.hyperlinks.json) |
+| [August 10 at 8:05 AM](https://archive.org/download/kcrg-2022/kcrg-2022-08-10T08:05:11.640082-05:00.hyperlinks.json) |
+| [August 9 at 7:52 PM](https://archive.org/download/kcrg-2022/kcrg-2022-08-09T19:51:46.261231-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 225 accessibility trees with the Internet Archive.
+The archiving routine has saved 226 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,22 +421,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 12 at 12:39 PM](https://archive.org/download/kcrg-2022/kcrg-2022-08-12T19:39:32.514397-05:00.accessibility.json) |
-| [August 12 at 6:35 AM](https://archive.org/download/kcrg-2022/kcrg-2022-08-12T13:35:42.117111-05:00.accessibility.json) |
-| [August 12 at 1:19 AM](https://archive.org/download/kcrg-2022/kcrg-2022-08-12T08:18:47.007955-05:00.accessibility.json) |
-| [August 11 at 9:16 PM](https://archive.org/download/kcrg-2022/kcrg-2022-08-12T04:16:04.990456-05:00.accessibility.json) |
-| [August 11 at 1:35 AM](https://archive.org/download/kcrg-2022/kcrg-2022-08-11T08:35:35.681220-05:00.accessibility.json) |
-| [August 10 at 12:49 PM](https://archive.org/download/kcrg-2022/kcrg-2022-08-10T19:49:10.611091-05:00.accessibility.json) |
-| [August 10 at 6:54 AM](https://archive.org/download/kcrg-2022/kcrg-2022-08-10T13:54:06.908046-05:00.accessibility.json) |
-| [August 10 at 1:05 AM](https://archive.org/download/kcrg-2022/kcrg-2022-08-10T08:05:11.640082-05:00.accessibility.json) |
-| [August 9 at 12:51 AM](https://archive.org/download/kcrg-2022/kcrg-2022-08-09T07:51:33.293736-05:00.accessibility.json) |
-| [August 8 at 12:50 PM](https://archive.org/download/kcrg-2022/kcrg-2022-08-08T19:50:51.143426-05:00.accessibility.json) |
+| [August 13 at 8:07 AM](https://archive.org/download/kcrg-2022/kcrg-2022-08-13T08:07:52.599026-05:00.accessibility.json) |
+| [August 12 at 7:39 PM](https://archive.org/download/kcrg-2022/kcrg-2022-08-12T19:39:32.514397-05:00.accessibility.json) |
+| [August 12 at 1:35 PM](https://archive.org/download/kcrg-2022/kcrg-2022-08-12T13:35:42.117111-05:00.accessibility.json) |
+| [August 12 at 8:19 AM](https://archive.org/download/kcrg-2022/kcrg-2022-08-12T08:18:47.007955-05:00.accessibility.json) |
+| [August 12 at 4:16 AM](https://archive.org/download/kcrg-2022/kcrg-2022-08-12T04:16:04.990456-05:00.accessibility.json) |
+| [August 11 at 8:35 AM](https://archive.org/download/kcrg-2022/kcrg-2022-08-11T08:35:35.681220-05:00.accessibility.json) |
+| [August 10 at 7:49 PM](https://archive.org/download/kcrg-2022/kcrg-2022-08-10T19:49:10.611091-05:00.accessibility.json) |
+| [August 10 at 1:54 PM](https://archive.org/download/kcrg-2022/kcrg-2022-08-10T13:54:06.908046-05:00.accessibility.json) |
+| [August 10 at 8:05 AM](https://archive.org/download/kcrg-2022/kcrg-2022-08-10T08:05:11.640082-05:00.accessibility.json) |
+| [August 9 at 7:51 AM](https://archive.org/download/kcrg-2022/kcrg-2022-08-09T07:51:33.293736-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 50 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 51 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 12 at 12:39 PM](https://archive.org/download/kcrg-2022/kcrg-2022-08-12T19:39:32.514397-05:00.lighthouse.json) |
-| [August 12 at 6:36 AM](https://archive.org/download/kcrg-2022/kcrg-2022-08-12T13:35:42.117111-05:00.lighthouse.json) |
-| [August 12 at 1:19 AM](https://archive.org/download/kcrg-2022/kcrg-2022-08-12T08:18:47.007955-05:00.lighthouse.json) |
-| [August 11 at 9:16 PM](https://archive.org/download/kcrg-2022/kcrg-2022-08-12T04:16:04.990456-05:00.lighthouse.json) |
-| [August 11 at 1:35 AM](https://archive.org/download/kcrg-2022/kcrg-2022-08-11T08:35:35.681220-05:00.lighthouse.json) |
-| [August 10 at 12:49 PM](https://archive.org/download/kcrg-2022/kcrg-2022-08-10T19:49:10.611091-05:00.lighthouse.json) |
-| [August 10 at 6:54 AM](https://archive.org/download/kcrg-2022/kcrg-2022-08-10T13:54:06.908046-05:00.lighthouse.json) |
-| [August 10 at 1:05 AM](https://archive.org/download/kcrg-2022/kcrg-2022-08-10T08:05:11.640082-05:00.lighthouse.json) |
-| [August 9 at 12:52 PM](https://archive.org/download/kcrg-2022/kcrg-2022-08-09T19:51:46.261231-05:00.lighthouse.json) |
-| [August 9 at 12:51 AM](https://archive.org/download/kcrg-2022/kcrg-2022-08-09T07:51:33.293736-05:00.lighthouse.json) |
+| [August 13 at 8:08 AM](https://archive.org/download/kcrg-2022/kcrg-2022-08-13T08:07:52.599026-05:00.lighthouse.json) |
+| [August 12 at 7:39 PM](https://archive.org/download/kcrg-2022/kcrg-2022-08-12T19:39:32.514397-05:00.lighthouse.json) |
+| [August 12 at 1:36 PM](https://archive.org/download/kcrg-2022/kcrg-2022-08-12T13:35:42.117111-05:00.lighthouse.json) |
+| [August 12 at 8:19 AM](https://archive.org/download/kcrg-2022/kcrg-2022-08-12T08:18:47.007955-05:00.lighthouse.json) |
+| [August 12 at 4:16 AM](https://archive.org/download/kcrg-2022/kcrg-2022-08-12T04:16:04.990456-05:00.lighthouse.json) |
+| [August 11 at 8:35 AM](https://archive.org/download/kcrg-2022/kcrg-2022-08-11T08:35:35.681220-05:00.lighthouse.json) |
+| [August 10 at 7:49 PM](https://archive.org/download/kcrg-2022/kcrg-2022-08-10T19:49:10.611091-05:00.lighthouse.json) |
+| [August 10 at 1:54 PM](https://archive.org/download/kcrg-2022/kcrg-2022-08-10T13:54:06.908046-05:00.lighthouse.json) |
+| [August 10 at 8:05 AM](https://archive.org/download/kcrg-2022/kcrg-2022-08-10T08:05:11.640082-05:00.lighthouse.json) |
+| [August 9 at 7:52 PM](https://archive.org/download/kcrg-2022/kcrg-2022-08-09T19:51:46.261231-05:00.lighthouse.json) |
 
 
 

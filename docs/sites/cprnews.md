@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 0 screenshots with the Internet Archive.
+The archiving routine has saved 1 screenshots with the Internet Archive.
 
 
 
@@ -30,11 +30,20 @@ Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
 
+<div class="latest-child">
+ <a href="https://archive.org/download/cprnews-2022/cprnews-2022-08-13T17:51:04.956403-06:00.jpg">
+  <img src="https://archive.org/download/cprnews-2022/cprnews-2022-08-13T17:51:04.956403-06:00.jpg"
+     alt="Colorado Public Radio at 2022-08-13 17:51:10-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cprnews-2022/cprnews-2022-08-13T17:51:04.956403-06:00.jpg">August 13 at 5:51 PM</a></p>
+</div>
+
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 0 hyperlink lists with the Internet Archive.
+The archiving routine has saved 1 hyperlink lists with the Internet Archive.
 
 
 
@@ -42,11 +51,12 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 13 at 5:51 PM](https://archive.org/download/cprnews-2022/cprnews-2022-08-13T17:51:04.956403-06:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 0 accessibility trees with the Internet Archive.
+The archiving routine has saved 1 accessibility trees with the Internet Archive.
 
 
 
@@ -54,12 +64,13 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 13 at 5:51 PM](https://archive.org/download/cprnews-2022/cprnews-2022-08-13T17:51:04.956403-06:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 0 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 1 Lighthouse audits with the Internet Archive.
 
 
 
@@ -67,6 +78,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 13 at 5:51 PM](https://archive.org/download/cprnews-2022/cprnews-2022-08-13T17:51:04.956403-06:00.lighthouse.json) |
 
 
 
@@ -76,3 +88,4 @@ Assets are stored in the following collections at archive.org:
 
 | Item  |
 | :---- |
+|[cprnews-2022](https://archive.org/details/cprnews-2022)|

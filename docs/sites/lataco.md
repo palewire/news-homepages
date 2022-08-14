@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 105 screenshots with the Internet Archive.
+The archiving routine has saved 106 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -114,118 +114,118 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
- <a href="https://archive.org/download/lataco-2022/lataco-2022-08-12T17:41:16.450392-07:00.jpg">
-  <img src="https://archive.org/download/lataco-2022/lataco-2022-08-12T17:41:16.450392-07:00.jpg"
-     alt="L.A. Taco at 2022-08-12 10:41:18-07:00 local time"
+ <a href="https://archive.org/download/lataco-2022/lataco-2022-08-13T06:10:54.243698-07:00.jpg">
+  <img src="https://archive.org/download/lataco-2022/lataco-2022-08-13T06:10:54.243698-07:00.jpg"
+     alt="L.A. Taco at 2022-08-13 06:10:55-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lataco-2022/lataco-2022-08-12T17:41:16.450392-07:00.jpg">August 12 at 10:41 AM</a></p>
+ <p><a href="https://archive.org/download/lataco-2022/lataco-2022-08-13T06:10:54.243698-07:00.jpg">August 13 at 6:10 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lataco-2022/lataco-2022-08-12T17:41:16.450392-07:00.jpg">
+  <img src="https://archive.org/download/lataco-2022/lataco-2022-08-12T17:41:16.450392-07:00.jpg"
+     alt="L.A. Taco at 2022-08-12 17:41:18-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lataco-2022/lataco-2022-08-12T17:41:16.450392-07:00.jpg">August 12 at 5:41 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lataco-2022/lataco-2022-08-12T12:11:27.548750-07:00.jpg">
   <img src="https://archive.org/download/lataco-2022/lataco-2022-08-12T12:11:27.548750-07:00.jpg"
-     alt="L.A. Taco at 2022-08-12 05:11:39-07:00 local time"
+     alt="L.A. Taco at 2022-08-12 12:11:39-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lataco-2022/lataco-2022-08-12T12:11:27.548750-07:00.jpg">August 12 at 5:11 AM</a></p>
+ <p><a href="https://archive.org/download/lataco-2022/lataco-2022-08-12T12:11:27.548750-07:00.jpg">August 12 at 12:11 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lataco-2022/lataco-2022-08-12T06:22:13.462945-07:00.jpg">
   <img src="https://archive.org/download/lataco-2022/lataco-2022-08-12T06:22:13.462945-07:00.jpg"
-     alt="L.A. Taco at 2022-08-11 23:22:15-07:00 local time"
+     alt="L.A. Taco at 2022-08-12 06:22:15-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lataco-2022/lataco-2022-08-12T06:22:13.462945-07:00.jpg">August 11 at 11:22 PM</a></p>
+ <p><a href="https://archive.org/download/lataco-2022/lataco-2022-08-12T06:22:13.462945-07:00.jpg">August 12 at 6:22 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lataco-2022/lataco-2022-08-12T02:18:27.857527-07:00.jpg">
   <img src="https://archive.org/download/lataco-2022/lataco-2022-08-12T02:18:27.857527-07:00.jpg"
-     alt="L.A. Taco at 2022-08-11 19:18:31-07:00 local time"
+     alt="L.A. Taco at 2022-08-12 02:18:31-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lataco-2022/lataco-2022-08-12T02:18:27.857527-07:00.jpg">August 11 at 7:18 PM</a></p>
+ <p><a href="https://archive.org/download/lataco-2022/lataco-2022-08-12T02:18:27.857527-07:00.jpg">August 12 at 2:18 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lataco-2022/lataco-2022-08-11T12:41:27.638683-07:00.jpg">
   <img src="https://archive.org/download/lataco-2022/lataco-2022-08-11T12:41:27.638683-07:00.jpg"
-     alt="L.A. Taco at 2022-08-11 05:41:29-07:00 local time"
+     alt="L.A. Taco at 2022-08-11 12:41:29-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lataco-2022/lataco-2022-08-11T12:41:27.638683-07:00.jpg">August 11 at 5:41 AM</a></p>
+ <p><a href="https://archive.org/download/lataco-2022/lataco-2022-08-11T12:41:27.638683-07:00.jpg">August 11 at 12:41 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lataco-2022/lataco-2022-08-11T06:38:21.965427-07:00.jpg">
   <img src="https://archive.org/download/lataco-2022/lataco-2022-08-11T06:38:21.965427-07:00.jpg"
-     alt="L.A. Taco at 2022-08-10 23:38:23-07:00 local time"
+     alt="L.A. Taco at 2022-08-11 06:38:23-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lataco-2022/lataco-2022-08-11T06:38:21.965427-07:00.jpg">August 10 at 11:38 PM</a></p>
+ <p><a href="https://archive.org/download/lataco-2022/lataco-2022-08-11T06:38:21.965427-07:00.jpg">August 11 at 6:38 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lataco-2022/lataco-2022-08-10T17:51:41.093467-07:00.jpg">
   <img src="https://archive.org/download/lataco-2022/lataco-2022-08-10T17:51:41.093467-07:00.jpg"
-     alt="L.A. Taco at 2022-08-10 10:51:44-07:00 local time"
+     alt="L.A. Taco at 2022-08-10 17:51:44-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lataco-2022/lataco-2022-08-10T17:51:41.093467-07:00.jpg">August 10 at 10:51 AM</a></p>
+ <p><a href="https://archive.org/download/lataco-2022/lataco-2022-08-10T17:51:41.093467-07:00.jpg">August 10 at 5:51 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lataco-2022/lataco-2022-08-10T12:36:26.159277-07:00.jpg">
   <img src="https://archive.org/download/lataco-2022/lataco-2022-08-10T12:36:26.159277-07:00.jpg"
-     alt="L.A. Taco at 2022-08-10 05:36:27-07:00 local time"
+     alt="L.A. Taco at 2022-08-10 12:36:27-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lataco-2022/lataco-2022-08-10T12:36:26.159277-07:00.jpg">August 10 at 5:36 AM</a></p>
+ <p><a href="https://archive.org/download/lataco-2022/lataco-2022-08-10T12:36:26.159277-07:00.jpg">August 10 at 12:36 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lataco-2022/lataco-2022-08-10T06:08:16.125335-07:00.jpg">
   <img src="https://archive.org/download/lataco-2022/lataco-2022-08-10T06:08:16.125335-07:00.jpg"
-     alt="L.A. Taco at 2022-08-09 23:08:19-07:00 local time"
+     alt="L.A. Taco at 2022-08-10 06:08:19-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lataco-2022/lataco-2022-08-10T06:08:16.125335-07:00.jpg">August 9 at 11:08 PM</a></p>
+ <p><a href="https://archive.org/download/lataco-2022/lataco-2022-08-10T06:08:16.125335-07:00.jpg">August 10 at 6:08 AM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lataco-2022/lataco-2022-08-09T17:54:59.999735-07:00.jpg">
   <img src="https://archive.org/download/lataco-2022/lataco-2022-08-09T17:54:59.999735-07:00.jpg"
-     alt="L.A. Taco at 2022-08-09 10:55:04-07:00 local time"
+     alt="L.A. Taco at 2022-08-09 17:55:04-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lataco-2022/lataco-2022-08-09T17:54:59.999735-07:00.jpg">August 9 at 10:55 AM</a></p>
+ <p><a href="https://archive.org/download/lataco-2022/lataco-2022-08-09T17:54:59.999735-07:00.jpg">August 9 at 5:55 PM</a></p>
 </div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lataco-2022/lataco-2022-08-09T11:42:21.493935-07:00.jpg">
   <img src="https://archive.org/download/lataco-2022/lataco-2022-08-09T11:42:21.493935-07:00.jpg"
-     alt="L.A. Taco at 2022-08-09 04:42:23-07:00 local time"
+     alt="L.A. Taco at 2022-08-09 11:42:23-07:00 local time"
      loading="lazy">
  </a>
- <p><a href="https://archive.org/download/lataco-2022/lataco-2022-08-09T11:42:21.493935-07:00.jpg">August 9 at 4:42 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lataco-2022/lataco-2022-08-09T05:57:12.026673-07:00.jpg">
-  <img src="https://archive.org/download/lataco-2022/lataco-2022-08-09T05:57:12.026673-07:00.jpg"
-     alt="L.A. Taco at 2022-08-08 22:57:16-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lataco-2022/lataco-2022-08-09T05:57:12.026673-07:00.jpg">August 8 at 10:57 PM</a></p>
+ <p><a href="https://archive.org/download/lataco-2022/lataco-2022-08-09T11:42:21.493935-07:00.jpg">August 9 at 11:42 AM</a></p>
 </div>
 
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 104 hyperlink lists with the Internet Archive.
+The archiving routine has saved 105 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,21 +316,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
-| [August 12 at 10:41 AM](https://archive.org/download/lataco-2022/lataco-2022-08-12T17:41:16.450392-07:00.hyperlinks.json) |
-| [August 12 at 5:11 AM](https://archive.org/download/lataco-2022/lataco-2022-08-12T12:11:27.548750-07:00.hyperlinks.json) |
-| [August 11 at 11:22 PM](https://archive.org/download/lataco-2022/lataco-2022-08-12T06:22:13.462945-07:00.hyperlinks.json) |
-| [August 11 at 7:18 PM](https://archive.org/download/lataco-2022/lataco-2022-08-12T02:18:27.857527-07:00.hyperlinks.json) |
-| [August 11 at 5:41 AM](https://archive.org/download/lataco-2022/lataco-2022-08-11T12:41:27.638683-07:00.hyperlinks.json) |
-| [August 10 at 11:38 PM](https://archive.org/download/lataco-2022/lataco-2022-08-11T06:38:21.965427-07:00.hyperlinks.json) |
-| [August 10 at 10:51 AM](https://archive.org/download/lataco-2022/lataco-2022-08-10T17:51:41.093467-07:00.hyperlinks.json) |
-| [August 10 at 5:36 AM](https://archive.org/download/lataco-2022/lataco-2022-08-10T12:36:26.159277-07:00.hyperlinks.json) |
-| [August 9 at 11:08 PM](https://archive.org/download/lataco-2022/lataco-2022-08-10T06:08:16.125335-07:00.hyperlinks.json) |
-| [August 9 at 10:55 AM](https://archive.org/download/lataco-2022/lataco-2022-08-09T17:54:59.999735-07:00.hyperlinks.json) |
+| [August 13 at 6:10 AM](https://archive.org/download/lataco-2022/lataco-2022-08-13T06:10:54.243698-07:00.hyperlinks.json) |
+| [August 12 at 5:41 PM](https://archive.org/download/lataco-2022/lataco-2022-08-12T17:41:16.450392-07:00.hyperlinks.json) |
+| [August 12 at 12:11 PM](https://archive.org/download/lataco-2022/lataco-2022-08-12T12:11:27.548750-07:00.hyperlinks.json) |
+| [August 12 at 6:22 AM](https://archive.org/download/lataco-2022/lataco-2022-08-12T06:22:13.462945-07:00.hyperlinks.json) |
+| [August 12 at 2:18 AM](https://archive.org/download/lataco-2022/lataco-2022-08-12T02:18:27.857527-07:00.hyperlinks.json) |
+| [August 11 at 12:41 PM](https://archive.org/download/lataco-2022/lataco-2022-08-11T12:41:27.638683-07:00.hyperlinks.json) |
+| [August 11 at 6:38 AM](https://archive.org/download/lataco-2022/lataco-2022-08-11T06:38:21.965427-07:00.hyperlinks.json) |
+| [August 10 at 5:51 PM](https://archive.org/download/lataco-2022/lataco-2022-08-10T17:51:41.093467-07:00.hyperlinks.json) |
+| [August 10 at 12:36 PM](https://archive.org/download/lataco-2022/lataco-2022-08-10T12:36:26.159277-07:00.hyperlinks.json) |
+| [August 10 at 6:08 AM](https://archive.org/download/lataco-2022/lataco-2022-08-10T06:08:16.125335-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 105 accessibility trees with the Internet Archive.
+The archiving routine has saved 106 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,22 +421,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
-| [August 12 at 10:41 AM](https://archive.org/download/lataco-2022/lataco-2022-08-12T17:41:16.450392-07:00.accessibility.json) |
-| [August 12 at 5:11 AM](https://archive.org/download/lataco-2022/lataco-2022-08-12T12:11:27.548750-07:00.accessibility.json) |
-| [August 11 at 11:22 PM](https://archive.org/download/lataco-2022/lataco-2022-08-12T06:22:13.462945-07:00.accessibility.json) |
-| [August 11 at 7:18 PM](https://archive.org/download/lataco-2022/lataco-2022-08-12T02:18:27.857527-07:00.accessibility.json) |
-| [August 11 at 5:41 AM](https://archive.org/download/lataco-2022/lataco-2022-08-11T12:41:27.638683-07:00.accessibility.json) |
-| [August 10 at 11:38 PM](https://archive.org/download/lataco-2022/lataco-2022-08-11T06:38:21.965427-07:00.accessibility.json) |
-| [August 10 at 10:51 AM](https://archive.org/download/lataco-2022/lataco-2022-08-10T17:51:41.093467-07:00.accessibility.json) |
-| [August 10 at 5:36 AM](https://archive.org/download/lataco-2022/lataco-2022-08-10T12:36:26.159277-07:00.accessibility.json) |
-| [August 9 at 11:08 PM](https://archive.org/download/lataco-2022/lataco-2022-08-10T06:08:16.125335-07:00.accessibility.json) |
-| [August 9 at 10:55 AM](https://archive.org/download/lataco-2022/lataco-2022-08-09T17:54:59.999735-07:00.accessibility.json) |
+| [August 13 at 6:10 AM](https://archive.org/download/lataco-2022/lataco-2022-08-13T06:10:54.243698-07:00.accessibility.json) |
+| [August 12 at 5:41 PM](https://archive.org/download/lataco-2022/lataco-2022-08-12T17:41:16.450392-07:00.accessibility.json) |
+| [August 12 at 12:11 PM](https://archive.org/download/lataco-2022/lataco-2022-08-12T12:11:27.548750-07:00.accessibility.json) |
+| [August 12 at 6:22 AM](https://archive.org/download/lataco-2022/lataco-2022-08-12T06:22:13.462945-07:00.accessibility.json) |
+| [August 12 at 2:18 AM](https://archive.org/download/lataco-2022/lataco-2022-08-12T02:18:27.857527-07:00.accessibility.json) |
+| [August 11 at 12:41 PM](https://archive.org/download/lataco-2022/lataco-2022-08-11T12:41:27.638683-07:00.accessibility.json) |
+| [August 11 at 6:38 AM](https://archive.org/download/lataco-2022/lataco-2022-08-11T06:38:21.965427-07:00.accessibility.json) |
+| [August 10 at 5:51 PM](https://archive.org/download/lataco-2022/lataco-2022-08-10T17:51:41.093467-07:00.accessibility.json) |
+| [August 10 at 12:36 PM](https://archive.org/download/lataco-2022/lataco-2022-08-10T12:36:26.159277-07:00.accessibility.json) |
+| [August 10 at 6:08 AM](https://archive.org/download/lataco-2022/lataco-2022-08-10T06:08:16.125335-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 60 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 61 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
-| [August 12 at 10:41 AM](https://archive.org/download/lataco-2022/lataco-2022-08-12T17:41:16.450392-07:00.lighthouse.json) |
-| [August 12 at 5:11 AM](https://archive.org/download/lataco-2022/lataco-2022-08-12T12:11:27.548750-07:00.lighthouse.json) |
-| [August 11 at 11:22 PM](https://archive.org/download/lataco-2022/lataco-2022-08-12T06:22:13.462945-07:00.lighthouse.json) |
-| [August 11 at 7:18 PM](https://archive.org/download/lataco-2022/lataco-2022-08-12T02:18:27.857527-07:00.lighthouse.json) |
-| [August 11 at 5:41 AM](https://archive.org/download/lataco-2022/lataco-2022-08-11T12:41:27.638683-07:00.lighthouse.json) |
-| [August 10 at 11:38 PM](https://archive.org/download/lataco-2022/lataco-2022-08-11T06:38:21.965427-07:00.lighthouse.json) |
-| [August 10 at 10:51 AM](https://archive.org/download/lataco-2022/lataco-2022-08-10T17:51:41.093467-07:00.lighthouse.json) |
-| [August 10 at 5:36 AM](https://archive.org/download/lataco-2022/lataco-2022-08-10T12:36:26.159277-07:00.lighthouse.json) |
-| [August 9 at 11:08 PM](https://archive.org/download/lataco-2022/lataco-2022-08-10T06:08:16.125335-07:00.lighthouse.json) |
-| [August 9 at 10:55 AM](https://archive.org/download/lataco-2022/lataco-2022-08-09T17:54:59.999735-07:00.lighthouse.json) |
+| [August 13 at 6:11 AM](https://archive.org/download/lataco-2022/lataco-2022-08-13T06:10:54.243698-07:00.lighthouse.json) |
+| [August 12 at 5:41 PM](https://archive.org/download/lataco-2022/lataco-2022-08-12T17:41:16.450392-07:00.lighthouse.json) |
+| [August 12 at 12:11 PM](https://archive.org/download/lataco-2022/lataco-2022-08-12T12:11:27.548750-07:00.lighthouse.json) |
+| [August 12 at 6:22 AM](https://archive.org/download/lataco-2022/lataco-2022-08-12T06:22:13.462945-07:00.lighthouse.json) |
+| [August 12 at 2:18 AM](https://archive.org/download/lataco-2022/lataco-2022-08-12T02:18:27.857527-07:00.lighthouse.json) |
+| [August 11 at 12:41 PM](https://archive.org/download/lataco-2022/lataco-2022-08-11T12:41:27.638683-07:00.lighthouse.json) |
+| [August 11 at 6:38 AM](https://archive.org/download/lataco-2022/lataco-2022-08-11T06:38:21.965427-07:00.lighthouse.json) |
+| [August 10 at 5:51 PM](https://archive.org/download/lataco-2022/lataco-2022-08-10T17:51:41.093467-07:00.lighthouse.json) |
+| [August 10 at 12:36 PM](https://archive.org/download/lataco-2022/lataco-2022-08-10T12:36:26.159277-07:00.lighthouse.json) |
+| [August 10 at 6:08 AM](https://archive.org/download/lataco-2022/lataco-2022-08-10T06:08:16.125335-07:00.lighthouse.json) |
 
 
 
