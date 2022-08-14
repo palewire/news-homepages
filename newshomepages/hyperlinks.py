@@ -4,6 +4,7 @@ from pathlib import Path
 import click
 from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
+from retry import retry
 from rich import print
 
 from . import utils
@@ -30,6 +31,7 @@ def cli(handle: str, output_dir: str):
         json.dump(link_list, fp, indent=2)
 
 
+@retry(delay=5, backoff=2)
 def _get_links(data: dict) -> list[dict]:
     print(f":newspaper: Getting hyperlinks for {data['url']}")
     # Start the browser
@@ -45,7 +47,7 @@ def _get_links(data: dict) -> list[dict]:
         page = browser_context.new_page()
 
         # Go to the page
-        page.goto(data["url"], timeout=60000 * 3)
+        page.goto(data["url"], timeout=60000)
 
         # Pull the html
         html = page.content()

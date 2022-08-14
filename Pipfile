@@ -29,6 +29,7 @@ iso3166 = "*"
 python-iso639 = "*"
 certifi = "*"
 requests = "*"
+retry = "*"
 
 [dev-packages]
 pre-commit = "*"
@@ -47,6 +48,7 @@ types-pyyaml = "*"
 sphinxcontrib-napoleon = "*"
 sphinx-click = "*"
 storysniffer = "*"
+types-retry = "*"
 
 [requires]
 python_version = "3.9"

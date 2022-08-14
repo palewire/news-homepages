@@ -60,6 +60,7 @@ repos:
         exclude: newshomepages/extensions
         additional_dependencies:
           - types-requests
+          - types-retry
           - types-python-slugify
           - types-pytz
           - types-PyYAML
