@@ -3,7 +3,7 @@
 
 # Site directory
 
-The archiving routine is currently capturing 801 sites.
+The archiving routine is currently capturing 803 sites.
 
 A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/all.xml). An OPML file collecting all individual RSS feeds is at [opml.xml](https://palewi.re/docs/news-homepages/rss/sites/opml.xml).
 
@@ -448,6 +448,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[Liberty Times](https://palewi.re/docs/news-homepages/sites/ltntw.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ltntw.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ltntw.xml)|
 |[Libération](https://palewi.re/docs/news-homepages/sites/libe.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/libe.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/libe.xml)|
 |[Lincoln Journal Star](https://palewi.re/docs/news-homepages/sites/journalstarnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/journalstarnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/journalstarnews.xml)|
+|[Little Green Footballs](https://palewi.re/docs/news-homepages/sites/green_footballs.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/green_footballs.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/green_footballs.xml)|
 |[Little Village](https://palewi.re/docs/news-homepages/sites/littlevillage.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/littlevillage.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/littlevillage.xml)|
 |[Local News Matters](https://palewi.re/docs/news-homepages/sites/bcn_foundation.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bcn_foundation.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bcn_foundation.xml)|
 |[Lokantar](https://palewi.re/docs/news-homepages/sites/lokaantar.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lokaantar.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lokaantar.xml)|
@@ -608,6 +609,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[Real News](https://palewi.re/docs/news-homepages/sites/therealnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/therealnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/therealnews.xml)|
 |[Reason](https://palewi.re/docs/news-homepages/sites/reason.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/reason.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/reason.xml)|
 |[RedState](https://palewi.re/docs/news-homepages/sites/redstate.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/redstate.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/redstate.xml)|
+|[Reductress](https://palewi.re/docs/news-homepages/sites/reductress.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/reductress.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/reductress.xml)|
 |[Repubblica](https://palewi.re/docs/news-homepages/sites/repubblica.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/repubblica.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/repubblica.xml)|
 |[Rest of World](https://palewi.re/docs/news-homepages/sites/restofworld.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/restofworld.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/restofworld.xml)|
 |[Reuters](https://palewi.re/docs/news-homepages/sites/reuters.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/reuters.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/reuters.xml)|

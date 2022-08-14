@@ -7,7 +7,7 @@ orphan: true
 
 # Satire
 
-The most recent homepages from 4 news sites in this bundle.
+The most recent homepages from 5 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -47,6 +47,15 @@ The most recent homepages from 4 news sites in this bundle.
  <p><a href="../sites/privateeyenews.html">Private Eye</a></p>
 </div>
 
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/reductress.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/reductress.jpg"
+     alt="Reductress"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/reductress.html">Reductress</a></p>
+</div>
+
 </div>
 
 ## About this bundle
@@ -66,3 +75,4 @@ The most recent homepages from 4 news sites in this bundle.
 |[Charlie Hebdo](https://palewi.re/docs/news-homepages/sites/charlie_hebdo_.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/charlie_hebdo_.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/charlie_hebdo_.xml)|
 |[Onion](https://palewi.re/docs/news-homepages/sites/theonion.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theonion.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theonion.xml)|
 |[Private Eye](https://palewi.re/docs/news-homepages/sites/privateeyenews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/privateeyenews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/privateeyenews.xml)|
+|[Reductress](https://palewi.re/docs/news-homepages/sites/reductress.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/reductress.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/reductress.xml)|
