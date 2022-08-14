@@ -4,6 +4,7 @@ from pathlib import Path
 
 import click
 import pytz
+from retry import retry
 from rich import print
 from telegram import Bot
 
@@ -102,6 +103,30 @@ def bundle(slug: str, input_dir: str):
         _post(image_path, caption)
 
 
+@cli.command()
+@click.argument("code")
+@click.option("-i", "--input-dir", "input_dir", default="./")
+def country(code: str, input_dir: str):
+    """Send all sources from a single country."""
+    # Get the metadata
+    country = utils.get_country(code)
+
+    # Create the caption
+    caption = f"The latest homepages from {country['name']}\n"
+
+    # Set the path
+    input_path = Path(input_dir)
+
+    # Pull images from input directory
+    image_paths = list(input_path.glob("*.jpg"))
+    print(f"{len(image_paths)} images discovered in {input_path}")
+
+    # Send them out
+    for image_path in image_paths:
+        _post(image_path, caption)
+
+
+@retry(tries=3, delay=5, backoff=2)
 def _post(image_path: Path, caption: str):
 
     # Connect to Telegram

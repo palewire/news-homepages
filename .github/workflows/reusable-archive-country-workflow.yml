@@ -184,56 +184,56 @@ jobs:
         with:
           command: jpg
 
-#  discord:
-#    name: Post to Discord
-#    runs-on: ubuntu-latest
-#    timeout-minutes: 15
-#    needs: [mosaic]
-#    steps:
-#      - id: checkout
-#        name: Checkout
-#        uses: actions/checkout@v3
+  discord:
+    name: Post to Discord
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    needs: [mosaic]
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
 
-#      - id: discord
-#        name: Discord
-#        uses: ./.github/actions/discord
-#        with:
-#          bot-token: ${{ secrets.DISCORD_BOT_TOKEN }}
-#          command: ${{ inputs.bundle }}
+      - id: discord
+        name: Discord
+        uses: ./.github/actions/discord
+        with:
+          bot-token: ${{ secrets.DISCORD_BOT_TOKEN }}
+          command: country ${{ inputs.country }}
 
-#  tweet:
-#    name: Post to Twitter
-#    runs-on: ubuntu-latest
-#    timeout-minutes: 15
-#    needs: [mosaic]
-#    steps:
-#      - id: checkout
-#        name: Checkout
-#        uses: actions/checkout@v3
+  tweet:
+    name: Post to Twitter
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    needs: [mosaic]
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
 
-#      - id: tweet
-#        name: Tweet
-#        uses: ./.github/actions/tweet
-#        with:
-#          consumer-key: ${{ secrets.TWITTER_CONSUMER_KEY }}
-#          consumer-secret: ${{ secrets.TWITTER_CONSUMER_SECRET }}
-#          access-token-key: ${{ secrets.TWITTER_ACCESS_TOKEN_KEY }}
-#          access-token-secret: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
-#          command: bundle ${{ inputs.bundle }}
+      - id: tweet
+        name: Tweet
+        uses: ./.github/actions/tweet
+        with:
+          consumer-key: ${{ secrets.TWITTER_CONSUMER_KEY }}
+          consumer-secret: ${{ secrets.TWITTER_CONSUMER_SECRET }}
+          access-token-key: ${{ secrets.TWITTER_ACCESS_TOKEN_KEY }}
+          access-token-secret: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+          command: country ${{ inputs.country }}
 
-#  telegram:
-#    name: Post to Telegram
-#    runs-on: ubuntu-latest
-#    timeout-minutes: 15
-#    needs: [mosaic]
-#    steps:
-#      - id: checkout
-#        name: Checkout
-#        uses: actions/checkout@v3
+  telegram:
+    name: Post to Telegram
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    needs: [mosaic]
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
 
-#      - id: telegram
-#        name: Telegram
-#        uses: ./.github/actions/telegram
-#        with:
-#          api-key: ${{ secrets.TELEGRAM_API_KEY }}
-#          command: bundle ${{ inputs.bundle }}
+      - id: telegram
+        name: Telegram
+        uses: ./.github/actions/telegram
+        with:
+          api-key: ${{ secrets.TELEGRAM_API_KEY }}
+          command: country ${{ inputs.country }}

@@ -242,6 +242,86 @@ def bundle(slug: str, input_dir: str):
         parent_status_id = status.id
 
 
+@cli.command()
+@click.argument("code")
+@click.option("-i", "--input-dir", "input_dir", default="./")
+def country(code: str, input_dir: str):
+    """Tweet four sources as a single tweet."""
+    # Pull the source metadata
+    country = utils.get_country(code)
+    print(f"Tweeting {country['name']}")
+
+    # Set the input directory
+    input_path = Path(input_dir)
+
+    # Pull images from input directory
+    image_paths = list(input_path.glob("*.jpg"))
+    print(f"{len(image_paths)} images discovered in {input_path}")
+
+    # Connect to Twitter
+    api = get_twitter_client()
+
+    # Get the timestamp
+    now = datetime.now()
+
+    # Convert it to local time
+    tz = pytz.timezone(country["timezone_list"][0])
+    now_local = now.astimezone(tz)
+
+    # Set hashtags
+    slug = slugify(country["name"], separator="")
+    date_str = now_local.strftime("%Y%m%d")
+    hashtags = f"#{slug} #date{date_str}"
+
+    # Loop through all the targets
+    media_list = []
+    for image_path in image_paths:
+        # Create media upload
+        io = open(image_path, "rb")
+        media_id = api.UploadMediaSimple(io)
+
+        # Add the alt text to the image
+        alt_text = f"The latest homepages from {country['name']}"
+        api.PostMediaMetadata(media_id, alt_text)
+
+        # Add it to our list
+        media_list.append(media_id)
+
+    # Break it into chunks of four
+    chunk_list = utils.chunk(media_list, 4)
+
+    # Loop through the chunks
+    parent_status_id = None
+    for i, chunk in enumerate(chunk_list):
+        # Set the headline, if it's the first tweet in the thread
+        if i == 0:
+            tweet = f"""The latest homepages from {country['name']}\n
+
+📷 See them all at https://palewi.re/docs/news-homepages/countries/{country['alpha2'].lower()}.html"""
+        else:
+            tweet = ""
+
+        # Build the lists
+        tweet_media_list = []
+        for media_id in chunk:
+            tweet_media_list.append(media_id)
+        tweet += f"\n\n{hashtags}"
+
+        # Make the tweet
+        if i == 0:
+            status = api.PostUpdate(tweet, media=tweet_media_list)
+        else:
+            status = api.PostUpdate(
+                tweet, media=tweet_media_list, in_reply_to_status_id=parent_status_id
+            )
+
+        # Pause to let it happen
+        time.sleep(3)
+
+        # Set the parent id for the next loop iteration
+        parent_status_id = status.id
+
+
 def get_twitter_client():
     """Return a Twitter client ready to post to the API."""
     return twitter.Api(

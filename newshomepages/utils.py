@@ -148,6 +148,21 @@ def get_bundle(slug: str) -> typing.Dict:
         raise ValueError(f"The slug {slug} could not be found")
 
 
+def get_country(code: str) -> typing.Dict:
+    """Get the metadata for the provided country.
+
+    Args:
+        slug (str): The unique string identifier of the bundle.
+
+    Returns a dictionary.
+    """
+    country_list = get_country_list()
+    try:
+        return next(d for d in country_list if d["alpha2"].lower() == code.lower())
+    except StopIteration:
+        raise ValueError(f"The country {code.upper()} could not be found")
+
+
 def get_sites_in_bundle(slug: str) -> typing.List[typing.Dict]:
     """Get all the sites in the provided bundle.
 

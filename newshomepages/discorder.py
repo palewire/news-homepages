@@ -7,6 +7,7 @@ from pathlib import Path
 import click
 import discord
 import pytz
+from retry import retry
 from rich import print
 
 from . import utils
@@ -49,11 +50,17 @@ class BotClient(discord.Client):
             time.sleep(0.5)
 
 
-@click.command()
+@click.group()
+def cli():
+    """Post images to Discord."""
+    pass
+
+
+@cli.command()
 @click.argument("slug")
 @click.option("-i", "--input-dir", "input_dir", default="./")
-def cli(slug: str, input_dir: str):
-    """Post a bundle of images to Discord."""
+def bundle(slug: str, input_dir: str):
+    """Post all images for a bundle."""
     # Get the metadata
     bundle = utils.get_bundle(slug)
 
@@ -67,14 +74,35 @@ def cli(slug: str, input_dir: str):
     # Create the caption
     caption = f"{bundle['name']} homepages at {now_local.strftime('%-I:%M %p')} in {bundle['location']}\n"
 
+    # Do it
+    _post(caption, input_dir)
+
+
+@cli.command()
+@click.argument("code")
+@click.option("-i", "--input-dir", "input_dir", default="./")
+def country(code: str, input_dir: str):
+    """Post all images for a country."""
+    # Get the metadata
+    country = utils.get_bundle(code)
+
+    # Create the caption
+    caption = f"The latest homepages from {country['name']}\n"
+
+    # Do it
+    _post(caption, input_dir)
+
+
+@retry(tries=3, delay=5, backoff=2)
+def _post(caption, input_dir):
     # Set the path
     input_path = Path(input_dir)
 
     # Pull images from input directory
     image_paths = list(input_path.glob("*.jpg"))
-    print(f":camera: {len(image_paths)} images discovered in {input_path}")
 
     # Post
+    print(f":camera: Posting {len(image_paths)} images in {input_path} to Discord")
     c = BotClient(caption, image_paths)
     c.run(DISCORD_BOT_TOKEN)
 

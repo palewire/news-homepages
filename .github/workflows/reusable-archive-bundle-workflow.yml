@@ -199,7 +199,7 @@ jobs:
         uses: ./.github/actions/discord
         with:
           bot-token: ${{ secrets.DISCORD_BOT_TOKEN }}
-          command: ${{ inputs.bundle }}
+          command: bundle ${{ inputs.bundle }}
 
   tweet:
     name: Post to Twitter
