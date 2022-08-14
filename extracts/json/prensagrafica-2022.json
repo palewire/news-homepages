@@ -1,5 +1,5 @@
 {
-  "created": 1660424292,
+  "created": 1660485366,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/25/items/prensagrafica-2022",
@@ -5344,31 +5344,93 @@
       "sha1": "513173fc104999fce24db9a9050b3c4b10a6bedd"
     },
     {
+      "name": "prensagrafica-2022-08-14T01:01:48.426359-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660460521",
+      "size": "67028",
+      "md5": "063cc81383b03838b8bd8e9d792d2910",
+      "crc32": "03b18666",
+      "sha1": "e4e4bfe0fa7f5dc61399f446719f2a3b7774c074",
+      "format": "JSON"
+    },
+    {
+      "name": "prensagrafica-2022-08-14T01:01:48.426359-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660460523",
+      "size": "49455",
+      "md5": "7e3982f236527b358bf3ea9def1b7a95",
+      "crc32": "c987e379",
+      "sha1": "613ee02ba1b1f2724faa34904ee1e11babc28b37",
+      "format": "JSON"
+    },
+    {
+      "name": "prensagrafica-2022-08-14T01:01:48.426359-06:00.jpg",
+      "source": "original",
+      "mtime": "1660460509",
+      "size": "303649",
+      "md5": "0d493d8be58d96ed6cc13432c655a5b1",
+      "crc32": "b56312e6",
+      "sha1": "e30205f4d6d39dfc28863dc213b8e36af143fe59",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "prensagrafica-2022-08-14T01:01:48.426359-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660460525",
+      "size": "1537",
+      "md5": "761f274f39667a0f9ea7b07e5287567e",
+      "crc32": "aa26bf36",
+      "sha1": "ae04276705999c2a473431654624f4ddc00bc5ee",
+      "format": "JSON"
+    },
+    {
+      "name": "prensagrafica-2022-08-14T01:01:48.426359-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1660460526",
+      "size": "108",
+      "md5": "3c4d72f5c9735d151e140fc04c8ec3ec",
+      "crc32": "76f0f18c",
+      "sha1": "0aa1f4077065e800757bc061e235b05358c2617c",
+      "format": "JSON"
+    },
+    {
+      "name": "prensagrafica-2022-08-14T01:01:48.426359-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "prensagrafica-2022-08-14T01:01:48.426359-06:00.jpg",
+      "mtime": "1660460603",
+      "size": "11844",
+      "md5": "0e5bbc2f22368cd08e1638dd6a599036",
+      "crc32": "53b5c8ce",
+      "sha1": "75cc0b8b5681e5c7957e628461b0fb1e1f68db52"
+    },
+    {
       "name": "prensagrafica-2022_archive.torrent",
       "source": "metadata",
-      "btih": "542e97ea2487976cca64fdb90cb2f9bf2c394249",
-      "mtime": "1660424285",
-      "size": "112196",
-      "md5": "e32d65efb97a3eee6c94af36b14b8559",
-      "crc32": "9e66e541",
-      "sha1": "778b42b22ba7ea112d34e64008ab1726c29212f9",
+      "btih": "4ca0ba33528709278cc19ff6984db87d420cab71",
+      "mtime": "1660460610",
+      "size": "113492",
+      "md5": "079978c106c2b93d22420fbb3a33a913",
+      "crc32": "849b74c7",
+      "sha1": "84b929c1075591365ef4face8f398b28bd0c7b0d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "prensagrafica-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "298360085e058e79ed264a8a0fc85c91",
+      "md5": "3492ded2a5786fbe8d4ebb69a005f580",
       "summation": "md5"
     },
     {
       "name": "prensagrafica-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660424216",
-      "size": "622592",
-      "md5": "62cfd6cee9cda20c9dcd6968ccd14e03",
-      "crc32": "4bc32398",
-      "sha1": "a2d898ad8f8f55bedf37965dec057d48ee1f7ec9",
+      "mtime": "1660460532",
+      "size": "638976",
+      "md5": "5b5a56700fd6325d65650ab030e1fd33",
+      "crc32": "dfc2908f",
+      "sha1": "e178636e6050e110a16c7a5c4116a33c573291f9",
       "format": "Metadata"
     },
     {
@@ -5382,9 +5444,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 515,
-  "item_last_updated": 1660424285,
-  "item_size": 54334748,
+  "files_count": 521,
+  "item_last_updated": 1660460610,
+  "item_size": 54786049,
   "metadata": {
     "identifier": "prensagrafica-2022",
     "collection": [
@@ -5401,8 +5463,12 @@
     "publicdate": "2022-06-24 22:59:26",
     "addeddate": "2022-06-24 22:59:26"
   },
+  "prensagrafica-2022": {
+    "url": "https://www.laprensagrafica.com/",
+    "job_id": "spn2-5c2a7ae8846af11cbff2d79ac9140441c809fc9f"
+  },
   "server": "ia802505.us.archive.org",
-  "uniq": 370610668,
+  "uniq": 2113731568,
   "workable_servers": [
     "ia802505.us.archive.org",
     "ia902505.us.archive.org"

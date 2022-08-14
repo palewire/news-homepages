@@ -1,10 +1,35 @@
 {
   "business-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
+    "url": "https://www.bloomberg.com/",
+    "job_id": "spn2-9c6c2b8653747c0ab113d51d54f99674ce079478",
+    "status": "success",
+    "resources": [
+      "https://www.bloomberg.com/tosv2.html?vid=&uuid=4b25652d-1b7c-11ed-8f72-53616f4e7548&url=Lw==",
+      "https://assets.bwbx.io/font-service/css/BWHaasGrotesk-55Roman-Web,BWHaasGrotesk-75Bold-Web,BW Haas Text Mono A-55 Roman/font-face.css",
+      "https://assets.bwbx.io/s3/fontservice/fonts/BWHaasGrotesk-55Roman-Web-5cf5733cd9.woff2",
+      "https://assets.bwbx.io/s3/fontservice/fonts/BWHaasGrotesk-75Bold-Web-de8c77cce2.woff2",
+      "https://assets.bwbx.io/s3/fontservice/fonts/BW Haas Text Mono A-55 Roman-9fa796a3f4.woff2",
+      "https://www.bloomberg.com/8FCGYgk4/captcha/captcha.js?a=c&m=0",
+      "https://www.bloomberg.com/favicon.ico",
+      "https://www.bloomberg.com/8FCGYgk4/init.js",
+      "https://collector-px8fcgygk4.px-cloud.net/assets/js/bundle",
+      "https://collector-px8fcgygk4.px-client.net/b/g?payload=aUkQRhAIEGJqAwIEBAMQHhBWEAhJEGJqAwICCgoQCEZAR1ceEGJqAwMCAQMQCBBiagMCBgQBEB4QYmoDAgEKBhAIEEJKWlEQHhBiagMDAgUBEAhUU15BVGx4^QSYmoDAgEEAhAIEFp8GN[GRkJB:DCB0dRUVFHF^BeXV1fUFdAVRSrxRXV8dRl1BRAAcEWkZfNXGg1EW1YPFEdHW1YPBlrAABwQHAFYfA1AFUR8DA1dWDHwK7pUBQAfBwEEAwRUBlcFBwY7KFEdAXg9+RQ8PEE9Pbw==&appId=PX8FCGYgk4&tag=v7.8.8&uuid=4b25652d-1b7c-11ed-8f72-53616f4e7548&ft=269&seq=1&en=NTA&cs=27fbafa6f1fa85a90e6cf097cf05a4bb0860cf2884a171b7f37d261b709e27c3&pc=8905986789989982&sid=4bfa6edb-1b7c-11ed-abd6-4c6b526a776f\udb40\udd31\udb40\udd36\udb40\udd36\udb40\udd30\udb40\udd34\udb40\udd34\udb40\udd35\udb40\udd36\udb40\udd31\udb40\udd38\udb40\udd33\udb40\udd31\udb40\udd34&vid=4bfa6722-1b7c-11ed-abd6-4c6b526a776f&ci=4bfd4ea0-1b7c-11ed-bc96-fd43935a70b2&cts=4bfa71e0-1b7c-11ed-abd6-4c6b526a776f",
+      "https://collector-px8fcgygk4.px-cloud.net/assets/js/bundle"
+    ],
+    "timestamp": "20220814025336",
+    "counters": {
+      "outlinks": 2,
+      "embeds": 11
+    },
+    "http_status": 200,
+    "outlinks": [
+      "https://www.bloomberg.com/feedback",
+      "https://www.bloomberg.com/notices/tos"
+    ],
+    "original_url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=4b25652d-1b7c-11ed-8f72-53616f4e7548&url=Lw==",
+    "duration_sec": 6.289
   },
-  "created": 1660440874,
+  "created": 1660484498,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/22/items/business-2022",
@@ -9933,31 +9958,93 @@
       "sha1": "ea526b5ecf322a73af379301699759eade8ca02a"
     },
     {
+      "name": "business-2022-08-14T01:02:02.232360-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660453326",
+      "size": "20038",
+      "md5": "2ae3d88df1c5550b2cfb6e0fb16c6095",
+      "crc32": "ee738af8",
+      "sha1": "575f4f218c666011c097c26c65b12f352f2be0d3",
+      "format": "JSON"
+    },
+    {
+      "name": "business-2022-08-14T01:02:02.232360-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660453328",
+      "size": "46399",
+      "md5": "4af7dd4f8c8e88db9d4f4276d5f6fc20",
+      "crc32": "29d8e43f",
+      "sha1": "8962b86616e5bc4f3d6d478b1982c0a73c55050b",
+      "format": "JSON"
+    },
+    {
+      "name": "business-2022-08-14T01:02:02.232360-04:00.jpg",
+      "source": "original",
+      "mtime": "1660453325",
+      "size": "319813",
+      "md5": "21b25d9f171c6742d966f6d0f15f3187",
+      "crc32": "69d573ee",
+      "sha1": "4a8cac1d4c0ac206285a0dbc3b8b96cac0fa2abd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "business-2022-08-14T01:02:02.232360-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660453330",
+      "size": "1742",
+      "md5": "203ae1e99559797e3db5aa636a3a7f0f",
+      "crc32": "9d725b38",
+      "sha1": "68bec3f78c593ff068d51830de238715ffba38c7",
+      "format": "JSON"
+    },
+    {
+      "name": "business-2022-08-14T01:02:02.232360-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660453333",
+      "size": "2169",
+      "md5": "a882f5397df1a87e89bffcfbaf45e21f",
+      "crc32": "6432d36a",
+      "sha1": "7b2c9d43333c2e2187bcbe06d7b5a655d619a297",
+      "format": "JSON"
+    },
+    {
+      "name": "business-2022-08-14T01:02:02.232360-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "business-2022-08-14T01:02:02.232360-04:00.jpg",
+      "mtime": "1660453398",
+      "size": "10078",
+      "md5": "00f43dfca177e9eb9aa3655aa2675c60",
+      "crc32": "ebd9ce98",
+      "sha1": "36fe05f1ef18ee6c5b6b4c0efc3de1481da67062"
+    },
+    {
       "name": "business-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0791a18566f284b9b84311bad9c3a9a19d9b67a4",
-      "mtime": "1660423324",
-      "size": "201649",
-      "md5": "fd1ae619cba78b6d469cd1981ce0bc62",
-      "crc32": "ab128bd4",
-      "sha1": "b9e15c568eafb0222a722b264634bf577af355e7",
+      "btih": "7abb563b0e00a17eefbb65435d92895988639c7c",
+      "mtime": "1660453409",
+      "size": "202916",
+      "md5": "11b8275c1c2966026e8450c642c46323",
+      "crc32": "741ef955",
+      "sha1": "3b6ee83931af085e2d18a84b76d5f40ff6f760d3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "business-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c61aa8ac8c2e6b52219771119fd13493",
+      "md5": "ffe174ea4fe1c5d26959123eb0a8a291",
       "summation": "md5"
     },
     {
       "name": "business-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660423173",
-      "size": "1150976",
-      "md5": "40bece0140838c4dd11d2943897bfac5",
-      "crc32": "20899cc0",
-      "sha1": "80ba98240bbe2c4284e514277d6220849b5c22d8",
+      "mtime": "1660453339",
+      "size": "1159168",
+      "md5": "ec92a2cbb99dda9383ddd29faf62d03d",
+      "crc32": "ebd4f409",
+      "sha1": "acf9cdd26df5923dbc011c90077abfdab486e755",
       "format": "Metadata"
     },
     {
@@ -9971,9 +10058,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 955,
-  "item_last_updated": 1660423324,
-  "item_size": 81174085,
+  "files_count": 961,
+  "item_last_updated": 1660453409,
+  "item_size": 81583783,
   "metadata": {
     "identifier": "business-2022",
     "collection": [
@@ -9991,7 +10078,7 @@
     "addeddate": "2022-06-19 23:23:29"
   },
   "server": "ia801405.us.archive.org",
-  "uniq": 1199608395,
+  "uniq": 1256505825,
   "workable_servers": [
     "ia801405.us.archive.org",
     "ia601405.us.archive.org"

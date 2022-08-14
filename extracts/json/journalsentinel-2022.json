@@ -1,5 +1,5 @@
 {
-  "created": 1660441334,
+  "created": 1660484902,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/8/items/journalsentinel-2022",
@@ -10064,31 +10064,93 @@
       "sha1": "0d51f78e3646350ff70165b3277263949be3ff81"
     },
     {
+      "name": "journalsentinel-2022-08-14T01:50:19.577084-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660459826",
+      "size": "23011",
+      "md5": "5f63026751b831613d696af28501bc88",
+      "crc32": "cddda1c5",
+      "sha1": "fc729f36324692d467141b72193d1d46352035cd",
+      "format": "JSON"
+    },
+    {
+      "name": "journalsentinel-2022-08-14T01:50:19.577084-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660459828",
+      "size": "42882",
+      "md5": "fd862f5ef674e589c0b401b1ace8f181",
+      "crc32": "94c2d135",
+      "sha1": "c8715c1127dc5c56d8df15e20b1bd0e34cb1e7b7",
+      "format": "JSON"
+    },
+    {
+      "name": "journalsentinel-2022-08-14T01:50:19.577084-05:00.jpg",
+      "source": "original",
+      "mtime": "1660459825",
+      "size": "299029",
+      "md5": "45eee6ff2835411fb9cb65e4debfc321",
+      "crc32": "0dc38ca8",
+      "sha1": "85eb11715319bc61a2f9236e658f8c3e36ae01a0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "journalsentinel-2022-08-14T01:50:19.577084-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660459830",
+      "size": "1477",
+      "md5": "e0d393c37808efb0d8c6cfc742422328",
+      "crc32": "79558cb8",
+      "sha1": "57d68803d8bc088d66528c95f0a32f5ee4334b25",
+      "format": "JSON"
+    },
+    {
+      "name": "journalsentinel-2022-08-14T01:50:19.577084-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660459831",
+      "size": "229",
+      "md5": "0ed6e07cc71e92ea44dd45a833641c58",
+      "crc32": "2a37ca86",
+      "sha1": "1822f4a2c96d31c92d3bf79dadcc9cd50f087ccb",
+      "format": "JSON"
+    },
+    {
+      "name": "journalsentinel-2022-08-14T01:50:19.577084-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "journalsentinel-2022-08-14T01:50:19.577084-05:00.jpg",
+      "mtime": "1660459891",
+      "size": "9649",
+      "md5": "79f34f19d687de11a7a73b487e66483a",
+      "crc32": "921c6bc8",
+      "sha1": "7f62fee979cf1d008ea9ca51d9b7ba5e31063600"
+    },
+    {
       "name": "journalsentinel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "98f6421903d52ffb6ff767e600d0014b4abfecf6",
-      "mtime": "1660422767",
-      "size": "210235",
-      "md5": "74dd6386e620e843030b24d8abbf6860",
-      "crc32": "b8225cd7",
-      "sha1": "af787437a9bda1a5467538ff4257248bb8a827a6",
+      "btih": "8b1516097e83185a0ae3d9cc371763b4d1fd2db2",
+      "mtime": "1660459902",
+      "size": "211542",
+      "md5": "a569f1e43e558e56ab7b05a86c58cb2f",
+      "crc32": "35cd9ab8",
+      "sha1": "31a2784e04fef0cf3217d3ede3f6ba20123a6209",
       "format": "Archive BitTorrent"
     },
     {
       "name": "journalsentinel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4d9908d2981fb9a12a12c577dda5354b",
+      "md5": "0b6b922aec9c4e3f6266742ac50082a6",
       "summation": "md5"
     },
     {
       "name": "journalsentinel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660422425",
-      "size": "1142784",
-      "md5": "eb480e4cc39b04ed5ee0301d1c6dd4a4",
-      "crc32": "91e8a590",
-      "sha1": "0adc02d6330d8d919fe61549cbc41724f496cabb",
+      "mtime": "1660459838",
+      "size": "1146880",
+      "md5": "2f970e3c8f71f8a525a91ba156444c09",
+      "crc32": "ebfd2e96",
+      "sha1": "530e6e35dab92a4fa751998230b0e0b9deb0cace",
       "format": "Metadata"
     },
     {
@@ -10102,13 +10164,13 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 964,
-  "item_last_updated": 1660422767,
-  "item_size": 79688199,
+  "files_count": 970,
+  "item_last_updated": 1660459902,
+  "item_size": 80069879,
   "journalsentinel-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
+    "url": "https://www.jsonline.com/",
+    "job_id": "spn2-bc50812a6717d641e23d48895c7844660df0fdd5",
+    "message": "The same snapshot had been made 1 minute, 8 seconds ago. You can make new capture of this URL after 45 minutes."
   },
   "metadata": {
     "identifier": "journalsentinel-2022",
@@ -10126,10 +10188,10 @@
     "publicdate": "2022-03-23 23:06:34",
     "addeddate": "2022-03-23 23:06:34"
   },
-  "server": "ia902503.us.archive.org",
-  "uniq": 193470023,
+  "server": "ia802503.us.archive.org",
+  "uniq": 266469675,
   "workable_servers": [
-    "ia902503.us.archive.org",
-    "ia802503.us.archive.org"
+    "ia802503.us.archive.org",
+    "ia902503.us.archive.org"
   ]
 }

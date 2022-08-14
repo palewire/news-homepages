@@ -1,7 +1,16 @@
 {
-  "created": 1660426216,
+  "created": 1660484638,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
+  "dcexaminer-2022": {
+    "url": "https://www.washingtonexaminer.com/",
+    "job_id": "spn2-c9389ac708af4d402ecec74aa22bf67c6691ff88",
+    "status_ext": "error:job-failed",
+    "status": "error",
+    "resources": [],
+    "duration_sec": 0.753,
+    "message": "Job failed."
+  },
   "dir": "/18/items/dcexaminer-2022",
   "files": [
     {
@@ -12018,31 +12027,93 @@
       "sha1": "ea23b4ec043192ed0ae949ab00bef4f7ec58045c"
     },
     {
+      "name": "dcexaminer-2022-08-14T02:41:04.221781-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660459271",
+      "size": "34574",
+      "md5": "dec8640095c53823539c9c69265a7d32",
+      "crc32": "db1a72c4",
+      "sha1": "7888f84a6673ec370b18220d660625554889a2c5",
+      "format": "JSON"
+    },
+    {
+      "name": "dcexaminer-2022-08-14T02:41:04.221781-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660459273",
+      "size": "35380",
+      "md5": "9cf5ef1a43ded58b1ad61ea6558847bb",
+      "crc32": "e3c8ebf3",
+      "sha1": "5fddb250022eb43509ae1abd485c8302cc8e2f66",
+      "format": "JSON"
+    },
+    {
+      "name": "dcexaminer-2022-08-14T02:41:04.221781-04:00.jpg",
+      "source": "original",
+      "mtime": "1660459270",
+      "size": "320030",
+      "md5": "7037477c9c3e881e461e9a8f18ad2d2d",
+      "crc32": "b259fce3",
+      "sha1": "1aff892385bde77da8de52c9e2b5dc52a75cd3c6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dcexaminer-2022-08-14T02:41:04.221781-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660459275",
+      "size": "1567",
+      "md5": "210f1e8193730d16ca88b77c9604d2c2",
+      "crc32": "212658eb",
+      "sha1": "fa50f7fe52f1a48302e06058e7b9af1fbe840202",
+      "format": "JSON"
+    },
+    {
+      "name": "dcexaminer-2022-08-14T02:41:04.221781-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660459276",
+      "size": "240",
+      "md5": "81c88624b5fd7359f1ad2d421441d5ef",
+      "crc32": "4e30b937",
+      "sha1": "260a57fcc98b9a7c8e35c774f3f9cf9c8b3f1cc2",
+      "format": "JSON"
+    },
+    {
+      "name": "dcexaminer-2022-08-14T02:41:04.221781-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dcexaminer-2022-08-14T02:41:04.221781-04:00.jpg",
+      "mtime": "1660459338",
+      "size": "9721",
+      "md5": "adfcc99258871c33827f197b738e8272",
+      "crc32": "cbb16a42",
+      "sha1": "4c4fbc6c9f191a12ca4a6976b63479ae96c7d547"
+    },
+    {
       "name": "dcexaminer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3886f3e3b9643bac4eeac1a8d377105395e8f4e1",
-      "mtime": "1660426203",
-      "size": "246073",
-      "md5": "eab8a710ad3ddac3d79e6dbcccbcd2aa",
-      "crc32": "5fba4fe2",
-      "sha1": "46726a59a703a5204c24c0f886fc8e22c7cf548c",
+      "btih": "5d04af506470c6ea25d70159bbc7385d9720f9d7",
+      "mtime": "1660459351",
+      "size": "247330",
+      "md5": "e9f2efb80a57a859cd5e00bde6116ad4",
+      "crc32": "106ef81d",
+      "sha1": "124f8ec00be172e029036a6368d82eaa3bead97e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dcexaminer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "42489db46c143d6eaa8331b015c1d842",
+      "md5": "d018075115b23fbf510f091e37687589",
       "summation": "md5"
     },
     {
       "name": "dcexaminer-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660426101",
-      "size": "1363968",
-      "md5": "1fa10a5d9a7b29755fa6e21db5b8e03d",
-      "crc32": "0e47488d",
-      "sha1": "c1322cd83c1cdab5c8a2075d90d3c781e74531e4",
+      "mtime": "1660459279",
+      "size": "1372160",
+      "md5": "ad971b8a7028a41df7b4f7847f109730",
+      "crc32": "2968da49",
+      "sha1": "ed330bfef21dbbd41bb70da934a98e63019e2d87",
       "format": "Metadata"
     },
     {
@@ -12056,9 +12127,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1152,
-  "item_last_updated": 1660426203,
-  "item_size": 111502433,
+  "files_count": 1158,
+  "item_last_updated": 1660459351,
+  "item_size": 111913394,
   "metadata": {
     "identifier": "dcexaminer-2022",
     "collection": [
@@ -12076,7 +12147,7 @@
     "addeddate": "2022-03-25 18:45:33"
   },
   "server": "ia802508.us.archive.org",
-  "uniq": 1492246142,
+  "uniq": 18541982,
   "workable_servers": [
     "ia802508.us.archive.org",
     "ia902508.us.archive.org"

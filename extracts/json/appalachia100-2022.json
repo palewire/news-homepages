@@ -1,5 +1,5 @@
 {
-  "created": 1660434512,
+  "created": 1660483430,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/22/items/appalachia100-2022",
@@ -3692,31 +3692,83 @@
       "sha1": "a7acef91637f619b03548476bab8266b60783280"
     },
     {
+      "name": "appalachia100-2022-08-14T09:21:48.598031-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660483315",
+      "size": "1130",
+      "md5": "845880397ab79f063ecf88d753cce114",
+      "crc32": "76495dfa",
+      "sha1": "d806812d0944559fc52d8ddddbbd5b7d48fbae8d",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-08-14T09:21:48.598031-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660483317",
+      "size": "41817",
+      "md5": "21fa3b10113786028a0a08dc369ddf65",
+      "crc32": "c332671f",
+      "sha1": "4fc351de07dfa178474a510c3aad1dc52be2361a",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-08-14T09:21:48.598031-04:00.jpg",
+      "source": "original",
+      "mtime": "1660483313",
+      "size": "306130",
+      "md5": "1f071fd255b6ebd8791e44fffda9f4e0",
+      "crc32": "2c1e4ad9",
+      "sha1": "3bc801f8569969fe14150bf06884b6dde330b12a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "appalachia100-2022-08-14T09:21:48.598031-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660483318",
+      "size": "1576",
+      "md5": "ddbaad2e353d1bfc05db86aa1ecb090a",
+      "crc32": "0e5f6932",
+      "sha1": "477cd46e7da27bf7d07b2a1abb44364c729e812c",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-08-14T09:21:48.598031-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "appalachia100-2022-08-14T09:21:48.598031-04:00.jpg",
+      "mtime": "1660483377",
+      "size": "9956",
+      "md5": "9d2c5c423177cbcf67ce55ca71b13869",
+      "crc32": "2ac12e5f",
+      "sha1": "a7acef91637f619b03548476bab8266b60783280"
+    },
+    {
       "name": "appalachia100-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fc2aca9a6ccaa99e90fa6b454d39a720cfee45e2",
-      "mtime": "1660434483",
-      "size": "77653",
-      "md5": "b231973b758cf952b2b3bbbe2bb8a670",
-      "crc32": "9c376495",
-      "sha1": "4cacae796fcec5fda368672fc5cc8badb529bc60",
+      "btih": "3e469c8730dca337c0b2f333cc03a551c43bf562",
+      "mtime": "1660483384",
+      "size": "78736",
+      "md5": "6b5b43183bc3d95eabd1d9f45c6e14d0",
+      "crc32": "d5010e5e",
+      "sha1": "e77edc9b6fa960fe95a46318c0697934dab21089",
       "format": "Archive BitTorrent"
     },
     {
       "name": "appalachia100-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ca3b4d9054a63f183b79f7589ed67676",
+      "md5": "8c2a9bf055867d1bf110dc7729385d12",
       "summation": "md5"
     },
     {
       "name": "appalachia100-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660434329",
-      "size": "450560",
-      "md5": "1ae5934bc4848a5ce5073abe4cd89d7b",
-      "crc32": "8ff732b0",
-      "sha1": "5f8dc2dd574bea643a95a00a0dd248eeff5bed08",
+      "mtime": "1660483321",
+      "size": "454656",
+      "md5": "4ff4b01d7cf6a77c15ba6ca6fdd8639c",
+      "crc32": "2ea84f06",
+      "sha1": "51e72aa30b3d96adac79039915cafb9b80a4fe7d",
       "format": "Metadata"
     },
     {
@@ -3730,9 +3782,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 358,
-  "item_last_updated": 1660434483,
-  "item_size": 27043299,
+  "files_count": 363,
+  "item_last_updated": 1660483384,
+  "item_size": 27409087,
   "metadata": {
     "identifier": "appalachia100-2022",
     "collection": [
@@ -3749,10 +3801,10 @@
     "publicdate": "2022-07-09 03:55:39",
     "addeddate": "2022-07-09 03:55:39"
   },
-  "server": "ia601401.us.archive.org",
-  "uniq": 1771152233,
+  "server": "ia801401.us.archive.org",
+  "uniq": 1618281309,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia801401.us.archive.org",
+    "ia601401.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1660424595,
+  "created": 1660485511,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/8/items/sdut-2022",
@@ -14884,31 +14884,93 @@
       "sha1": "4931e9f604a358bdf9d640173f89f45349271049"
     },
     {
+      "name": "sdut-2022-08-14T00:05:10.450451-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660460720",
+      "size": "52226",
+      "md5": "1831ecb3dc57cb1392b886ab19679484",
+      "crc32": "c81b6ee2",
+      "sha1": "097b1717cb2862fd15526002db6db6b3e3b9ef60",
+      "format": "JSON"
+    },
+    {
+      "name": "sdut-2022-08-14T00:05:10.450451-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660460722",
+      "size": "69055",
+      "md5": "6244304d59de1c3ebcd91eeda1e7d2c8",
+      "crc32": "70214593",
+      "sha1": "748d5bee6c2701f4d11e3dbebc8309a3b3b0f8ab",
+      "format": "JSON"
+    },
+    {
+      "name": "sdut-2022-08-14T00:05:10.450451-07:00.jpg",
+      "source": "original",
+      "mtime": "1660460718",
+      "size": "271637",
+      "md5": "48488a9bc6370265f042057c4baa0d5e",
+      "crc32": "8811034b",
+      "sha1": "5870fb99868edd00b6e37ae356bdab143248c822",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sdut-2022-08-14T00:05:10.450451-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660460724",
+      "size": "1585",
+      "md5": "31505dbd207eefb608ef52aa0bc330ed",
+      "crc32": "f7bf6d14",
+      "sha1": "1691c1bc06cc0dbea4d2ff1a22b9c2cdd2221ea7",
+      "format": "JSON"
+    },
+    {
+      "name": "sdut-2022-08-14T00:05:10.450451-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660460725",
+      "size": "242",
+      "md5": "489e3d2b59863bd91b33da532ffd3a2b",
+      "crc32": "13390051",
+      "sha1": "b78d22a80a9f4be07d54ba6b2b6213517da5edd4",
+      "format": "JSON"
+    },
+    {
+      "name": "sdut-2022-08-14T00:05:10.450451-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sdut-2022-08-14T00:05:10.450451-07:00.jpg",
+      "mtime": "1660460827",
+      "size": "9143",
+      "md5": "f8da8b64e0a677304eb97e76a6fa6c61",
+      "crc32": "e23d7b4d",
+      "sha1": "3183770d7f1b571979bcfa9e16e6095cc03a205f"
+    },
+    {
       "name": "sdut-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d50a6103a94f3f77cfc696915db5ee4e224c121d",
-      "mtime": "1660424574",
-      "size": "295442",
-      "md5": "5f40a9f239e2d05b32b0e1198292adc7",
-      "crc32": "9ed9f73d",
-      "sha1": "219134edd30c7691cee765df862ec948d4649267",
+      "btih": "ff52663b1aaeae03ac42ca2c7fe56b16ca857b66",
+      "mtime": "1660460848",
+      "size": "296663",
+      "md5": "5f8a2ad2da574edac8cfc93eb8161f00",
+      "crc32": "9bcffdcd",
+      "sha1": "d64b68f6a2c5a035238ff9fab3bdb2721e3b012d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sdut-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c7f3fb7fda3290b705860e3dd490c61c",
+      "md5": "278fc4a7f49617ba0c9cc786022ceb81",
       "summation": "md5"
     },
     {
       "name": "sdut-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660424408",
-      "size": "1646592",
-      "md5": "20b9c39ee0b3374039c0961634f37c0f",
-      "crc32": "6ce963aa",
-      "sha1": "ea31479a9d138591ef0569b0a6d2cd2515ccadcf",
+      "mtime": "1660460763",
+      "size": "1654784",
+      "md5": "aca008f72eee6c08bef407bbb6701b0a",
+      "crc32": "ca7b2992",
+      "sha1": "b1df17d870f7a3e3e715d57ca12be4e416a95f26",
       "format": "Metadata"
     },
     {
@@ -14922,9 +14984,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1424,
-  "item_last_updated": 1660424574,
-  "item_size": 141425271,
+  "files_count": 1430,
+  "item_last_updated": 1660460848,
+  "item_size": 141838572,
   "metadata": {
     "identifier": "sdut-2022",
     "collection": [
@@ -14941,10 +15003,19 @@
     "publicdate": "2022-03-23 02:09:42",
     "addeddate": "2022-03-23 02:09:42"
   },
-  "server": "ia601401.us.archive.org",
-  "uniq": 2082873369,
+  "sdut-2022": {
+    "url": "https://www.sandiegouniontribune.com/",
+    "job_id": "spn2-46141f060071602d3e8ba8de51acdb87ab1c04c7",
+    "status": "error",
+    "status_ext": "error:job-failed",
+    "duration_sec": 0.647,
+    "resources": [],
+    "message": "Job failed."
+  },
+  "server": "ia801401.us.archive.org",
+  "uniq": 537013640,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia801401.us.archive.org",
+    "ia601401.us.archive.org"
   ]
 }

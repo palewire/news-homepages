@@ -1,5 +1,5 @@
 {
-  "created": 1660435047,
+  "created": 1660484045,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/15/items/eltiempo-2022",
@@ -5452,31 +5452,93 @@
       "sha1": "a3567a99b48b9127ee8f746e893e9a111f8d9fd5"
     },
     {
+      "name": "eltiempo-2022-08-14T08:32:20.051778-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660483947",
+      "size": "47560",
+      "md5": "593fccc12a02b9478c648f23f9dcb4c8",
+      "crc32": "8af6270d",
+      "sha1": "2e193f47e2c408a0b7bf889fd35d81e95fbb73ad",
+      "format": "JSON"
+    },
+    {
+      "name": "eltiempo-2022-08-14T08:32:20.051778-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660483948",
+      "size": "71610",
+      "md5": "69e8d3c4e2f25d469cba131ff3e306de",
+      "crc32": "52e1d15e",
+      "sha1": "87a3184e017bc07eab141b512a01cb750bd484a7",
+      "format": "JSON"
+    },
+    {
+      "name": "eltiempo-2022-08-14T08:32:20.051778-05:00.jpg",
+      "source": "original",
+      "mtime": "1660483945",
+      "size": "321066",
+      "md5": "483e25982c0097f3aba1e8d8f4200c29",
+      "crc32": "392ff078",
+      "sha1": "d07ba733bcd57a8c54280702cefab47be561e02d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "eltiempo-2022-08-14T08:32:20.051778-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660483950",
+      "size": "1477",
+      "md5": "e5a2f90d9f5542bd3d67b749bee2b803",
+      "crc32": "1e4abf58",
+      "sha1": "dcb63fcb53641e4b03b929eaf902a813687decf6",
+      "format": "JSON"
+    },
+    {
+      "name": "eltiempo-2022-08-14T08:32:20.051778-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660483952",
+      "size": "232127",
+      "md5": "43229450b6c05e27531b9dedfd369a02",
+      "crc32": "364bcf82",
+      "sha1": "bc99f90128a1b75769749f8023e286134b28c374",
+      "format": "JSON"
+    },
+    {
+      "name": "eltiempo-2022-08-14T08:32:20.051778-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "eltiempo-2022-08-14T08:32:20.051778-05:00.jpg",
+      "mtime": "1660484021",
+      "size": "10477",
+      "md5": "c8d98b7afaa589e0e04debd53e117f9e",
+      "crc32": "51eba472",
+      "sha1": "33c8ed04613a69884e684344ad40e51fee9a836a"
+    },
+    {
       "name": "eltiempo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a89d34a34c2b762faa6eb283ddc0cc67b5089a66",
-      "mtime": "1660435000",
-      "size": "111467",
-      "md5": "4b544c053605c802a81ae2e67c09f563",
-      "crc32": "ea447edb",
-      "sha1": "46d986e13b2020c5df76926f621f843d3f7ab206",
+      "btih": "b436eaa84a3677db2152e3c99084c99a8b6ad7e8",
+      "mtime": "1660484036",
+      "size": "112736",
+      "md5": "67d1f0241bbf8d20647bc0324ace8a92",
+      "crc32": "bb1109f8",
+      "sha1": "d30a085b61e28d0e646fc3d1b638f53a59e00b1a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "eltiempo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fd284fc74a61d8a82058cf1fe340bb97",
+      "md5": "8b85ff3f34475479e0ff74818b31de58",
       "summation": "md5"
     },
     {
       "name": "eltiempo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660434894",
-      "size": "630784",
-      "md5": "f6c33eb15247c88690c37b82fb2e79c2",
-      "crc32": "3da9d3ad",
-      "sha1": "455d2da13894f15c561ba67c68a3dc44153e2add",
+      "mtime": "1660483958",
+      "size": "638976",
+      "md5": "97baaa730cc550cf1771e8be10ee5073",
+      "crc32": "b1a7e184",
+      "sha1": "69fbc4d932a6b0b7068b3e8890dc2c6846781546",
       "format": "Metadata"
     },
     {
@@ -5490,9 +5552,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 525,
-  "item_last_updated": 1660435000,
-  "item_size": 51570520,
+  "files_count": 531,
+  "item_last_updated": 1660484036,
+  "item_size": 52264298,
   "metadata": {
     "identifier": "eltiempo-2022",
     "collection": [
@@ -5509,10 +5571,10 @@
     "publicdate": "2022-06-24 22:54:38",
     "addeddate": "2022-06-24 22:54:38"
   },
-  "server": "ia802509.us.archive.org",
-  "uniq": 1204353419,
+  "server": "ia902509.us.archive.org",
+  "uniq": 675823200,
   "workable_servers": [
-    "ia802509.us.archive.org",
-    "ia902509.us.archive.org"
+    "ia902509.us.archive.org",
+    "ia802509.us.archive.org"
   ]
 }

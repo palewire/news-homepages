@@ -1,7 +1,6 @@
 {
-  "created": 1660422529,
+  "created": 1660478410,
   "d1": "ia601504.us.archive.org",
-  "d2": "ia801504.us.archive.org",
   "dir": "/6/items/insideclimate-2022",
   "files": [
     {
@@ -3578,31 +3577,93 @@
       "sha1": "d9b7368c8843e5b7cb244cc6a275d071b9730fb2"
     },
     {
+      "name": "insideclimate-2022-08-14T02:49:20.228353-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660459762",
+      "size": "22427",
+      "md5": "e11cea3a2d68916d0d2101ac0990c14b",
+      "crc32": "2e88b992",
+      "sha1": "17b8b24b0198f1849a535375cc840cfa7a749a6b",
+      "format": "JSON"
+    },
+    {
+      "name": "insideclimate-2022-08-14T02:49:20.228353-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660459763",
+      "size": "25557",
+      "md5": "9eab0be046f486323745fb92969cd43d",
+      "crc32": "d774a6e2",
+      "sha1": "970c30155299498b05268cc6b08bcfa031204d20",
+      "format": "JSON"
+    },
+    {
+      "name": "insideclimate-2022-08-14T02:49:20.228353-04:00.jpg",
+      "source": "original",
+      "mtime": "1660459761",
+      "size": "292752",
+      "md5": "d89f75d60a6153197c9a6dfed12797cb",
+      "crc32": "2fb58481",
+      "sha1": "f1b0224e9d1e342635c146fbf82cb3d0c07fb75b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "insideclimate-2022-08-14T02:49:20.228353-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660459765",
+      "size": "1507",
+      "md5": "fe745ee336aa76e539a7407ae828f541",
+      "crc32": "8c297368",
+      "sha1": "1bab0f697a80b45d65dae73767b320f35b254139",
+      "format": "JSON"
+    },
+    {
+      "name": "insideclimate-2022-08-14T02:49:20.228353-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660459766",
+      "size": "9635",
+      "md5": "6e20b3edf9a6da6b49ce4c6546a1417d",
+      "crc32": "19e64c74",
+      "sha1": "b8a39b2894398897937295a44971d84bcff830b1",
+      "format": "JSON"
+    },
+    {
+      "name": "insideclimate-2022-08-14T02:49:20.228353-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "insideclimate-2022-08-14T02:49:20.228353-04:00.jpg",
+      "mtime": "1660459821",
+      "size": "9687",
+      "md5": "7fda21ad1ad186ecfa89e7dd3c0cfd14",
+      "crc32": "33a706eb",
+      "sha1": "d9b7368c8843e5b7cb244cc6a275d071b9730fb2"
+    },
+    {
       "name": "insideclimate-2022_archive.torrent",
       "source": "metadata",
-      "btih": "05f7b1afdf0651135becb55e9f162809502066c3",
-      "mtime": "1660422512",
-      "size": "75440",
-      "md5": "d518b9a9535f150d1839bde8bcf2df41",
-      "crc32": "1daac2b3",
-      "sha1": "7073f33a1eb7d62268ee4e9c8e07413ff8b10600",
+      "btih": "2fbdc18bb72d5459cdb3ae0715df9b6149b9da58",
+      "mtime": "1660459826",
+      "size": "76716",
+      "md5": "c43b5e8b0ed15079104970c4467ba812",
+      "crc32": "66e351b1",
+      "sha1": "ce02e3c229c73b4451fb4fea339cd5b408902885",
       "format": "Archive BitTorrent"
     },
     {
       "name": "insideclimate-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "50ea48fc2a519add164d37dfd89299bc",
+      "md5": "c676dd8b8f5e4be46becbed8eeb66ce8",
       "summation": "md5"
     },
     {
       "name": "insideclimate-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660422402",
-      "size": "438272",
-      "md5": "1908324951e1bbead90a24f15f64ef88",
-      "crc32": "b396fdcd",
-      "sha1": "9754a3c42662341b61433d6e0f41029c362a7e0c",
+      "mtime": "1660459771",
+      "size": "442368",
+      "md5": "051f4c44b8721430e86d3dc374e0d9db",
+      "crc32": "98d1645a",
+      "sha1": "dc22253968c7949aa21f27509704c6e60622de46",
       "format": "Metadata"
     },
     {
@@ -3616,9 +3677,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 347,
-  "item_last_updated": 1660422512,
-  "item_size": 27879828,
+  "files_count": 353,
+  "item_last_updated": 1660459826,
+  "item_size": 28246765,
   "metadata": {
     "identifier": "insideclimate-2022",
     "collection": [
@@ -3635,10 +3696,9 @@
     "publicdate": "2022-07-09 03:59:45",
     "addeddate": "2022-07-09 03:59:45"
   },
-  "server": "ia801504.us.archive.org",
-  "uniq": 170244593,
+  "server": "ia601504.us.archive.org",
+  "uniq": 1665368937,
   "workable_servers": [
-    "ia801504.us.archive.org",
     "ia601504.us.archive.org"
   ]
 }

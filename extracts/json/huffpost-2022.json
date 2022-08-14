@@ -1,5 +1,5 @@
 {
-  "created": 1660441229,
+  "created": 1660484261,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/33/items/huffpost-2022",
@@ -8632,31 +8632,93 @@
       "sha1": "e31c5dc48389d3e53034d3e5516b5cd90d438f12"
     },
     {
+      "name": "huffpost-2022-08-14T09:36:13.896208-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660484182",
+      "size": "34075",
+      "md5": "bb5f56e7f3354bbfe86f89fc2fb2091f",
+      "crc32": "32362020",
+      "sha1": "7dd60c47eb9dc098d1446cc16b3429b7272acf61",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpost-2022-08-14T09:36:13.896208-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660484185",
+      "size": "70013",
+      "md5": "ebf8d30d69b7a3350ecec9d69bced69d",
+      "crc32": "976edc3c",
+      "sha1": "9a377c8fc687691c059f4cdcbefc522ee087f970",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpost-2022-08-14T09:36:13.896208-04:00.jpg",
+      "source": "original",
+      "mtime": "1660484181",
+      "size": "194273",
+      "md5": "0ecd50f9e99043e985b5a35f26d0767a",
+      "crc32": "a19acc29",
+      "sha1": "b69d12d7eb1ee926577a79c2ea74d803c79b4bdc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "huffpost-2022-08-14T09:36:13.896208-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660484187",
+      "size": "1477",
+      "md5": "c46823e60e197276ed3e31e62fac3643",
+      "crc32": "ec039cd9",
+      "sha1": "9fa7bae64e04b86255ec8c229952e68d929127c4",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpost-2022-08-14T09:36:13.896208-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660484189",
+      "size": "107864",
+      "md5": "0e0ced9236998d61ecd9a9b69e6fe76c",
+      "crc32": "318ec04e",
+      "sha1": "5f4b01dbe1412d15dedb8a83451751cfc44b3f9a",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpost-2022-08-14T09:36:13.896208-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "huffpost-2022-08-14T09:36:13.896208-04:00.jpg",
+      "mtime": "1660484245",
+      "size": "10210",
+      "md5": "ae3ed308cc97ee3919c7a44626971e75",
+      "crc32": "7d7b602a",
+      "sha1": "bf176087b0f2de1f6350c3ca481a7748e90ca7ef"
+    },
+    {
       "name": "huffpost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f6b2ec9d92bd68a061312f0a0690bb56fbaf17e2",
-      "mtime": "1660435298",
-      "size": "175321",
-      "md5": "0825b61d7931abf2e618713f92973467",
-      "crc32": "892bccf7",
-      "sha1": "bec0b400cbcb6d15475f017579dbf6d1c1813b2a",
+      "btih": "007834afcddaba88450ddee528c83376b70dc3f0",
+      "mtime": "1660484253",
+      "size": "176571",
+      "md5": "5655b64f0e1c4abb5e98a0cf3c194aec",
+      "crc32": "3704fc4f",
+      "sha1": "274f9b4168158a10ca2d3a731c79463daa94768b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "huffpost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "249306dd02de8889034b773ac0ff6e55",
+      "md5": "a1b47e328a6eb93718748fecee385a35",
       "summation": "md5"
     },
     {
       "name": "huffpost-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660435163",
-      "size": "995328",
-      "md5": "5cd4ebc2fa3d39a42127245b9bab8ddb",
-      "crc32": "f7bf011f",
-      "sha1": "6072b917672e378debae953d206f860a9983cad8",
+      "mtime": "1660484193",
+      "size": "1003520",
+      "md5": "59d47d68c8e20bdb67d237166bc56348",
+      "crc32": "4f4e9ee1",
+      "sha1": "3ceec94029948dd687fb81b03151552d6fa3cb73",
       "format": "Metadata"
     },
     {
@@ -8670,14 +8732,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 830,
-  "huffpost-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "item_last_updated": 1660435298,
-  "item_size": 63181682,
+  "files_count": 836,
+  "item_last_updated": 1660484253,
+  "item_size": 63609036,
   "metadata": {
     "identifier": "huffpost-2022",
     "collection": [
@@ -8695,7 +8752,7 @@
     "addeddate": "2022-06-24 22:56:52"
   },
   "server": "ia802502.us.archive.org",
-  "uniq": 980247955,
+  "uniq": 934709265,
   "workable_servers": [
     "ia802502.us.archive.org",
     "ia902502.us.archive.org"

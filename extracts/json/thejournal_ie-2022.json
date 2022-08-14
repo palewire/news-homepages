@@ -1,5 +1,5 @@
 {
-  "created": 1660427517,
+  "created": 1660485723,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/14/items/thejournal_ie-2022",
@@ -2864,31 +2864,93 @@
       "sha1": "eb5cde7b3690bcb00fbb45cabd1a6c4aeee4426a"
     },
     {
+      "name": "thejournal_ie-2022-08-14T08:08:31.300761+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660460914",
+      "size": "64683",
+      "md5": "10892a1013800f8d0c85599b47edc692",
+      "crc32": "29e9a04c",
+      "sha1": "adb70e6cc4cb9d1844fe81e1e296309cc9c7b678",
+      "format": "JSON"
+    },
+    {
+      "name": "thejournal_ie-2022-08-14T08:08:31.300761+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660460916",
+      "size": "62537",
+      "md5": "66d76bdcfeec60e9b943c245abbc66d3",
+      "crc32": "ad4befe5",
+      "sha1": "8196ec79a1ad8aba0c773706b038d33d4732bc99",
+      "format": "JSON"
+    },
+    {
+      "name": "thejournal_ie-2022-08-14T08:08:31.300761+01:00.jpg",
+      "source": "original",
+      "mtime": "1660460913",
+      "size": "288626",
+      "md5": "3c34891c16b826ea35f371318f2786b7",
+      "crc32": "f3c4df6d",
+      "sha1": "170e4460223786b1d56ba66ce4d665c7db64ca14",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thejournal_ie-2022-08-14T08:08:31.300761+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660460918",
+      "size": "1486",
+      "md5": "016a919b1eed3a935aaf8e1c7af6dac8",
+      "crc32": "74440f6a",
+      "sha1": "bd07620fecdf4ce79602a1b0e1698cc7e1be469b",
+      "format": "JSON"
+    },
+    {
+      "name": "thejournal_ie-2022-08-14T08:08:31.300761+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1660460920",
+      "size": "231",
+      "md5": "e5f59b02f335d4ef651f04cab90719d0",
+      "crc32": "b62cb1ab",
+      "sha1": "df92581760f7ca9a39a2ce6c04cf77bd06df7134",
+      "format": "JSON"
+    },
+    {
+      "name": "thejournal_ie-2022-08-14T08:08:31.300761+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thejournal_ie-2022-08-14T08:08:31.300761+01:00.jpg",
+      "mtime": "1660460982",
+      "size": "9338",
+      "md5": "6350f82603232424778438822723a056",
+      "crc32": "f386914d",
+      "sha1": "9873d5c81dfe770551437f4d9a6842d15b1faee5"
+    },
+    {
       "name": "thejournal_ie-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fe1f7ef19a64db6d4cf41dffba83d01bc350ec40",
-      "mtime": "1660427245",
-      "size": "60869",
-      "md5": "17c182c2c6ff450f6a1c482bee7b43a5",
-      "crc32": "644c1e57",
-      "sha1": "03eaad0f1d3955dc3f6e0261134e49bf68a6a838",
+      "btih": "415c4423e4ea52782f881b732d529d871c3987e2",
+      "mtime": "1660460987",
+      "size": "62164",
+      "md5": "f2f470313f5eeddd83cb6c073fd2f53c",
+      "crc32": "1d7cd9f7",
+      "sha1": "bff1fbb34e188b7b48af2735f3043ef9b5ce4cd9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thejournal_ie-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a2373a0a3927a823b0c6325caacb8f67",
+      "md5": "160753004e9d52aefee0a47dcd276860",
       "summation": "md5"
     },
     {
       "name": "thejournal_ie-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660424640",
-      "size": "360448",
-      "md5": "2d66d8749798e8670fbdc698bc3f1354",
-      "crc32": "7b885aeb",
-      "sha1": "89fb3bf8081ea3a6d269bd119a4634789a07fa4a",
+      "mtime": "1660460925",
+      "size": "364544",
+      "md5": "e3fb1ebaaf6c16221e1c19f95381ddf8",
+      "crc32": "1b41fa08",
+      "sha1": "fa9c84e3f6e21a3005e9836f84a648d8e6b96643",
       "format": "Metadata"
     },
     {
@@ -2902,9 +2964,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 279,
-  "item_last_updated": 1660427245,
-  "item_size": 24659845,
+  "files_count": 285,
+  "item_last_updated": 1660460987,
+  "item_size": 25092137,
   "metadata": {
     "identifier": "thejournal_ie-2022",
     "collection": [
@@ -2922,7 +2984,16 @@
     "addeddate": "2022-07-18 04:17:36"
   },
   "server": "ia802502.us.archive.org",
-  "uniq": 1069603961,
+  "thejournal_ie-2022": {
+    "url": "https://www.thejournal.ie/",
+    "job_id": "spn2-7aa85da37153a0c5cc671ad08f0c0fa823ac7b35",
+    "status_ext": "error:job-failed",
+    "message": "Job failed.",
+    "status": "error",
+    "resources": [],
+    "duration_sec": 1.445
+  },
+  "uniq": 171740115,
   "workable_servers": [
     "ia802502.us.archive.org",
     "ia902502.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1660442289,
+  "created": 1660485817,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/1/items/thewrap-2022",
@@ -2976,31 +2976,93 @@
       "sha1": "4b8fda5821b204d0c7c79e9040aa4f93b512a60b"
     },
     {
+      "name": "thewrap-2022-08-13T22:09:21.512037-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660453766",
+      "size": "37820",
+      "md5": "9b3dfc80419e92cb27ccb2d548db027b",
+      "crc32": "e78654f8",
+      "sha1": "9a7796a8ff91b0efb38487f1411ccca050917b23",
+      "format": "JSON"
+    },
+    {
+      "name": "thewrap-2022-08-13T22:09:21.512037-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660453767",
+      "size": "44879",
+      "md5": "3365d9456ebea35313ae8abbc11c1c1c",
+      "crc32": "59bfe83f",
+      "sha1": "4185534138b3a8f2157891edac5e7c2c10b63c49",
+      "format": "JSON"
+    },
+    {
+      "name": "thewrap-2022-08-13T22:09:21.512037-07:00.jpg",
+      "source": "original",
+      "mtime": "1660453764",
+      "size": "256336",
+      "md5": "c7c05d3c76b7b554ec10b114587556d0",
+      "crc32": "a7168983",
+      "sha1": "bde7270b8123d822ee72e3246eaa90e0605cca96",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thewrap-2022-08-13T22:09:21.512037-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660453768",
+      "size": "1459",
+      "md5": "9998d264a4647b79a0e2ec059d10e49c",
+      "crc32": "d42cd6ec",
+      "sha1": "0f5c6953ad56baacbfb610da55a0bd3e1055b416",
+      "format": "JSON"
+    },
+    {
+      "name": "thewrap-2022-08-13T22:09:21.512037-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660453770",
+      "size": "229",
+      "md5": "c52d0d3605b140a1231ea497cc05f355",
+      "crc32": "4412d23a",
+      "sha1": "35e0e1916b865f7ed84d13bf6acb2920b340d0b8",
+      "format": "JSON"
+    },
+    {
+      "name": "thewrap-2022-08-13T22:09:21.512037-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thewrap-2022-08-13T22:09:21.512037-07:00.jpg",
+      "mtime": "1660453826",
+      "size": "9240",
+      "md5": "4f6339bcf672c11df2441e8576c5e0fc",
+      "crc32": "a0ec1d83",
+      "sha1": "b2beb7723b7efb0438c6b6d9ef56a40fc9495da7"
+    },
+    {
       "name": "thewrap-2022_archive.torrent",
       "source": "metadata",
-      "btih": "45a94c8730ac401070284e7900cde996c4dd49a6",
-      "mtime": "1660423793",
-      "size": "61270",
-      "md5": "eca3c204d56f3d269591ec171f92bc39",
-      "crc32": "c3567f1c",
-      "sha1": "513d99e80865940369006ad1842166498efa13bc",
+      "btih": "5a9af26adf4edd71d96d6b0847800bccb2536b7b",
+      "mtime": "1660453832",
+      "size": "62529",
+      "md5": "b6e24eb82df9dead65e6d39396eedaf0",
+      "crc32": "93ba8559",
+      "sha1": "d8f3a2df24dd5f4e18186fdfc8492ca89d408faf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thewrap-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d9b03237fc73618b08f6910591be4c58",
+      "md5": "fe173ffcf3ca8af4b23c659b680de199",
       "summation": "md5"
     },
     {
       "name": "thewrap-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660423637",
-      "size": "372736",
-      "md5": "1ed838c1d740dcdcc8d09d2953935814",
-      "crc32": "e0759138",
-      "sha1": "31f39f4e99df6063c7ffb40cd69bd3ab60a1ac5f",
+      "mtime": "1660453777",
+      "size": "380928",
+      "md5": "7ad40dd49d7cbefd53e596efb605d216",
+      "crc32": "affbd1e5",
+      "sha1": "a0779a926ea3d5a566be2a765a303b33a501d1bb",
       "format": "Metadata"
     },
     {
@@ -3014,9 +3076,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 290,
-  "item_last_updated": 1660423793,
-  "item_size": 19823709,
+  "files_count": 296,
+  "item_last_updated": 1660453832,
+  "item_size": 20183123,
   "metadata": {
     "identifier": "thewrap-2022",
     "collection": [
@@ -3035,11 +3097,15 @@
   },
   "server": "ia801401.us.archive.org",
   "thewrap-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "url": "https://www.thewrap.com/",
+    "job_id": "spn2-e7a7e6181b0509388965649777704b6050cbc58e",
+    "status_ext": "error:job-failed",
+    "message": "Job failed.",
     "status": "error",
-    "status_ext": "error:user-session-limit"
+    "resources": [],
+    "duration_sec": 0.639
   },
-  "uniq": 1072891716,
+  "uniq": 2123963377,
   "workable_servers": [
     "ia801401.us.archive.org",
     "ia601401.us.archive.org"

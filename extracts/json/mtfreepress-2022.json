@@ -1,5 +1,5 @@
 {
-  "created": 1660441684,
+  "created": 1660460176,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/21/items/mtfreepress-2022",
@@ -3608,31 +3608,93 @@
       "sha1": "e2ca84693cca00c19add1dd8f5df1ec8acbd4803"
     },
     {
+      "name": "mtfreepress-2022-08-14T01:55:01.607886-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660460105",
+      "size": "21013",
+      "md5": "1521000f2e24f495de97b9b3e478478f",
+      "crc32": "3f8c034a",
+      "sha1": "ce6220e5b3527fb7155d32b87fb36488e4d318f0",
+      "format": "JSON"
+    },
+    {
+      "name": "mtfreepress-2022-08-14T01:55:01.607886-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660460111",
+      "size": "20358",
+      "md5": "ef5a92f07665f2dea6f9dfc6a2a82dcc",
+      "crc32": "b847055a",
+      "sha1": "17509fe04960e7c233cc3f6562a0c433f7ed63ea",
+      "format": "JSON"
+    },
+    {
+      "name": "mtfreepress-2022-08-14T01:55:01.607886-05:00.jpg",
+      "source": "original",
+      "mtime": "1660460103",
+      "size": "289385",
+      "md5": "9273d69b9c482abd0a5b83c73b140baf",
+      "crc32": "d7749f21",
+      "sha1": "3959c9585192704359356d1e90cc59bda348c8e5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mtfreepress-2022-08-14T01:55:01.607886-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660460112",
+      "size": "1513",
+      "md5": "dea6cd678a88ba0feb11462c35b02d7e",
+      "crc32": "c03d5c04",
+      "sha1": "e661183ed20be531f81bdf16540ed79c1e6c2a30",
+      "format": "JSON"
+    },
+    {
+      "name": "mtfreepress-2022-08-14T01:55:01.607886-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660460114",
+      "size": "234",
+      "md5": "221b8cbbaa7f3c7380ceceff9e26cb91",
+      "crc32": "9b2b2341",
+      "sha1": "539d9ff010e65fa62915eb13db89784efcc89d31",
+      "format": "JSON"
+    },
+    {
+      "name": "mtfreepress-2022-08-14T01:55:01.607886-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mtfreepress-2022-08-14T01:55:01.607886-05:00.jpg",
+      "mtime": "1660460165",
+      "size": "9671",
+      "md5": "b51b369436d3e1ea2443eaa189dc3ec6",
+      "crc32": "f3c1bc18",
+      "sha1": "e2ca84693cca00c19add1dd8f5df1ec8acbd4803"
+    },
+    {
       "name": "mtfreepress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6cf3b1996b1319c399b552e6851d4534531581e4",
-      "mtime": "1660422900",
-      "size": "75262",
-      "md5": "770b6cd201218f02a0fa9290363b3182",
-      "crc32": "79216bc2",
-      "sha1": "d05158716bcdabb6215311e790bcefb96175e977",
+      "btih": "d3f2158fff6dcf91024f1903b7a4d14349f48b92",
+      "mtime": "1660460171",
+      "size": "76545",
+      "md5": "6da4461fcab5e87bb1a7cb7a173f423b",
+      "crc32": "211cb6b6",
+      "sha1": "45eee44db9756235e5a59ab3a0ad11d12325eea7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mtfreepress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e870e0b8d81c3c83d6981274433a65b6",
+      "md5": "7c054b7e7b9558fbd6f97ca89757ed51",
       "summation": "md5"
     },
     {
       "name": "mtfreepress-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660422757",
-      "size": "442368",
-      "md5": "996cf6039e0d1ed42ced333d3d629b41",
-      "crc32": "d9d63435",
-      "sha1": "4ccd370c15129fe7dee2a6a9cb51c4397dd8d0b5",
+      "mtime": "1660460119",
+      "size": "446464",
+      "md5": "3c33d526b1b4833ebeab5dc58ad97137",
+      "crc32": "0952b5bc",
+      "sha1": "56a944dde7eed00a1597cd736e8c78a4914abb32",
       "format": "Metadata"
     },
     {
@@ -3646,9 +3708,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 350,
-  "item_last_updated": 1660422900,
-  "item_size": 25195850,
+  "files_count": 356,
+  "item_last_updated": 1660460171,
+  "item_size": 25543403,
   "metadata": {
     "identifier": "mtfreepress-2022",
     "collection": [
@@ -3665,15 +3727,10 @@
     "publicdate": "2022-07-09 04:03:32",
     "addeddate": "2022-07-09 04:03:32"
   },
-  "mtfreepress-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "server": "ia801507.us.archive.org",
-  "uniq": 2088720251,
+  "server": "ia601507.us.archive.org",
+  "uniq": 1887603213,
   "workable_servers": [
-    "ia801507.us.archive.org",
-    "ia601507.us.archive.org"
+    "ia601507.us.archive.org",
+    "ia801507.us.archive.org"
   ]
 }

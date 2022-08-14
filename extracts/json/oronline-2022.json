@@ -1,5 +1,5 @@
 {
-  "created": 1660424309,
+  "created": 1660485295,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/17/items/oronline-2022",
@@ -1802,31 +1802,93 @@
       "sha1": "53dda1507ac2793940c6c5035ad24d3f69c8716c"
     },
     {
+      "name": "oronline-2022-08-14T02:58:26.503257-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660460314",
+      "size": "52843",
+      "md5": "4b51886788aff829328449888d9e1916",
+      "crc32": "453163a8",
+      "sha1": "cf22c54c763988389ee1ea915ef66f2030dcc0f4",
+      "format": "JSON"
+    },
+    {
+      "name": "oronline-2022-08-14T02:58:26.503257-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660460315",
+      "size": "106485",
+      "md5": "8cac5fdfd4389ff3243856413a22d893",
+      "crc32": "279d0dbf",
+      "sha1": "d152748b71232fbef06d877ce5cf344719506f7a",
+      "format": "JSON"
+    },
+    {
+      "name": "oronline-2022-08-14T02:58:26.503257-04:00.jpg",
+      "source": "original",
+      "mtime": "1660460312",
+      "size": "279383",
+      "md5": "9cfb3db089bd590b7362610799c407d5",
+      "crc32": "7996c34a",
+      "sha1": "1f8ca130e1ebd807dff002d208d4324831e19dae",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oronline-2022-08-14T02:58:26.503257-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660460317",
+      "size": "1522",
+      "md5": "3918982809bf2499828f3d309a68d9e4",
+      "crc32": "1d855d13",
+      "sha1": "b5cf0b47c8b3e3315c7b963ebafab731cd172e8f",
+      "format": "JSON"
+    },
+    {
+      "name": "oronline-2022-08-14T02:58:26.503257-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660460319",
+      "size": "106",
+      "md5": "632d75d9b04740b37e3a3f9b7da87e93",
+      "crc32": "f9327807",
+      "sha1": "deb9e9c54c2078e2ac6d6493b6744b7dcb8086e2",
+      "format": "JSON"
+    },
+    {
+      "name": "oronline-2022-08-14T02:58:26.503257-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oronline-2022-08-14T02:58:26.503257-04:00.jpg",
+      "mtime": "1660460381",
+      "size": "10204",
+      "md5": "76d658129d66fa804316504ba7c5f321",
+      "crc32": "b5a8cb0e",
+      "sha1": "558262e8c43fdaddd24ef6f576a1208318482e89"
+    },
+    {
       "name": "oronline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6cbb94287688e9efcfcd6fe7c3302f39a14a859c",
-      "mtime": "1660424223",
-      "size": "37558",
-      "md5": "77a1acbe1242f17226122b049d92203f",
-      "crc32": "6cbc6fc0",
-      "sha1": "765b2787c321efb2f2cbc61162bedb6e44ba1d26",
+      "btih": "d35722db8ee3b377086bf387cbbc73979ebabda1",
+      "mtime": "1660460385",
+      "size": "38825",
+      "md5": "8a4013c886c38ca40559e1ddb76fa740",
+      "crc32": "59aa96be",
+      "sha1": "574205d19328877d5def70a741fe51fdea6f8806",
       "format": "Archive BitTorrent"
     },
     {
       "name": "oronline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b5f9f9b328b488c3da4e2e69b74ba7f0",
+      "md5": "a1a4c28e9192f1ca8cbb49a4b0681191",
       "summation": "md5"
     },
     {
       "name": "oronline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660424064",
-      "size": "225280",
-      "md5": "e519b563dcc11136691f188276a97385",
-      "crc32": "cb24ed88",
-      "sha1": "247a7a08ec51c049597a72a36c8d5af3baaf6102",
+      "mtime": "1660460333",
+      "size": "233472",
+      "md5": "2c5abd3167764cabcb0dcd75f3a25676",
+      "crc32": "ee0abf7c",
+      "sha1": "e36105fbff29e777acfc578071da347f29b0a480",
       "format": "Metadata"
     },
     {
@@ -1840,9 +1902,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 176,
-  "item_last_updated": 1660424223,
-  "item_size": 14520383,
+  "files_count": 182,
+  "item_last_updated": 1660460385,
+  "item_size": 14980385,
   "metadata": {
     "identifier": "oronline-2022",
     "collection": [
@@ -1859,10 +1921,14 @@
     "publicdate": "2022-07-26 03:54:19",
     "addeddate": "2022-07-26 03:54:19"
   },
-  "server": "ia801509.us.archive.org",
-  "uniq": 83302274,
+  "oronline-2022": {
+    "url": "https://observer-reporter.com/",
+    "job_id": "spn2-61edb70d82385a7f0a286e6a14e43d838fd78f70"
+  },
+  "server": "ia601509.us.archive.org",
+  "uniq": 21954133,
   "workable_servers": [
-    "ia801509.us.archive.org",
-    "ia601509.us.archive.org"
+    "ia601509.us.archive.org",
+    "ia801509.us.archive.org"
   ]
 }

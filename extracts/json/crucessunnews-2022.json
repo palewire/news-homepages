@@ -1,5 +1,5 @@
 {
-  "created": 1660435188,
+  "created": 1660483876,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/24/items/crucessunnews-2022",
@@ -10096,31 +10096,93 @@
       "sha1": "8d30ab13b55a35f84478f85562909cddceebdae3"
     },
     {
+      "name": "crucessunnews-2022-08-14T07:29:09.059012-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660483757",
+      "size": "20568",
+      "md5": "5b3e7348013331c94398b598a25fe8ef",
+      "crc32": "d151d6a3",
+      "sha1": "cc80f84a451a957f6411c37635685526b6d48179",
+      "format": "JSON"
+    },
+    {
+      "name": "crucessunnews-2022-08-14T07:29:09.059012-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660483759",
+      "size": "33775",
+      "md5": "64dae3b7d7efe6d6ba5f68e44d8d020e",
+      "crc32": "e1198d34",
+      "sha1": "044fe3d06d94dbe6816aa28796d1945942a20c8f",
+      "format": "JSON"
+    },
+    {
+      "name": "crucessunnews-2022-08-14T07:29:09.059012-06:00.jpg",
+      "source": "original",
+      "mtime": "1660483755",
+      "size": "272664",
+      "md5": "7aa95dbe942345dcc83c839ec2e443cc",
+      "crc32": "663ccf82",
+      "sha1": "6bd24388fd9ad0b9c48fbb60e049d4b46c3efedc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "crucessunnews-2022-08-14T07:29:09.059012-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660483761",
+      "size": "1495",
+      "md5": "7403be32f02546457910eccb505aa2e9",
+      "crc32": "4b344d68",
+      "sha1": "fd13ac8ef55099ee3e17a8260751d74e7ce017e8",
+      "format": "JSON"
+    },
+    {
+      "name": "crucessunnews-2022-08-14T07:29:09.059012-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1660483762",
+      "size": "118059",
+      "md5": "10296d33f688844e2a372b461a438488",
+      "crc32": "c08bd359",
+      "sha1": "649a97267bef57193f1ee0c7bb838f8ad184f59f",
+      "format": "JSON"
+    },
+    {
+      "name": "crucessunnews-2022-08-14T07:29:09.059012-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "crucessunnews-2022-08-14T07:29:09.059012-06:00.jpg",
+      "mtime": "1660483853",
+      "size": "9216",
+      "md5": "6adcb891338ef77df733c110d4f2b40a",
+      "crc32": "1162f523",
+      "sha1": "d6c32f5671a7a859dc6af5eca51834ce4561fa0a"
+    },
+    {
       "name": "crucessunnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e566e33c2817b422b51377c6f6b70bbc056d869f",
-      "mtime": "1660435123",
-      "size": "208675",
-      "md5": "c1bbb068b35f69b32986c110d9816ec6",
-      "crc32": "0153ac08",
-      "sha1": "731ec5592f4282fd1fa5f8d5e6de2e6cb46e0db7",
+      "btih": "4fc0285d5f0536637e4dc93d3c7bed048a726a3a",
+      "mtime": "1660483868",
+      "size": "209953",
+      "md5": "d0009a73bdfd3a3d2471737aeeca8880",
+      "crc32": "02d2c173",
+      "sha1": "ec9de1639dc641aaa4b5fc036f3eae9df2461d27",
       "format": "Archive BitTorrent"
     },
     {
       "name": "crucessunnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "26e52db789d309fbf1d84389c3dfbd82",
+      "md5": "62757a97f752266ac3d24a653fe58809",
       "summation": "md5"
     },
     {
       "name": "crucessunnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660434747",
-      "size": "1138688",
-      "md5": "241e0554857d1d27684a09e044a3760f",
-      "crc32": "4a46b0c0",
-      "sha1": "5c946bc8b518c10b742e3801cdc7d04c6ad87582",
+      "mtime": "1660483767",
+      "size": "1146880",
+      "md5": "35d765a888db2dece348cd0d472935c7",
+      "crc32": "640ec7df",
+      "sha1": "3fb1fa4c60975b9ab2c359e75c3fbefdf5b226eb",
       "format": "Metadata"
     },
     {
@@ -10134,9 +10196,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 967,
-  "item_last_updated": 1660435123,
-  "item_size": 73134863,
+  "files_count": 973,
+  "item_last_updated": 1660483868,
+  "item_size": 73600110,
   "metadata": {
     "identifier": "crucessunnews-2022",
     "collection": [
@@ -10153,10 +10215,10 @@
     "publicdate": "2022-03-25 03:47:56",
     "addeddate": "2022-03-25 03:47:56"
   },
-  "server": "ia802509.us.archive.org",
-  "uniq": 222552799,
+  "server": "ia902509.us.archive.org",
+  "uniq": 1295636720,
   "workable_servers": [
-    "ia802509.us.archive.org",
-    "ia902509.us.archive.org"
+    "ia902509.us.archive.org",
+    "ia802509.us.archive.org"
   ]
 }
