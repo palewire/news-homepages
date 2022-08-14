@@ -3,7 +3,7 @@
 
 # Latest screenshots
 
-The most recent homepages captured from 803 news sites.
+The most recent homepages captured from 805 news sites.
 
 <div class="latest-parent">
 
@@ -311,6 +311,15 @@ The most recent homepages captured from 803 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/abqjournal.html">Albuquerque Journal</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/jessicavalenti.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jessicavalenti.jpg"
+     alt="All in Her Head"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/jessicavalenti.html">All in Her Head</a></p>
 </div>
 
 <div class="latest-child">
@@ -6161,6 +6170,15 @@ The most recent homepages captured from 803 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/thecityny.html">The City</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/thecut.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thecut.jpg"
+     alt="The Cut"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/thecut.html">The Cut</a></p>
 </div>
 
 <div class="latest-child">

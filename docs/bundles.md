@@ -3,7 +3,7 @@
 
 # Bundle directory
 
-The archiving routine is currently organized into 55 bundles of sites.
+The archiving routine is currently organized into 56 bundles of sites.
 
 | Bundle  | RSS |
 | :-----  | :-- |
@@ -18,6 +18,7 @@ The archiving routine is currently organized into 55 bundles of sites.
 |[Colorado](https://palewi.re/docs/news-homepages/bundles/colorado.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/colorado.xml)|
 |[Eastern Europe](https://palewi.re/docs/news-homepages/bundles/eastern-europe.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/eastern-europe.xml)|
 |[Entertainment](https://palewi.re/docs/news-homepages/bundles/entertainment.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/entertainment.xml)|
+|[Feminist](https://palewi.re/docs/news-homepages/bundles/feminist.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/feminist.xml)|
 |[Florida](https://palewi.re/docs/news-homepages/bundles/florida.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/florida.xml)|
 |[France](https://palewi.re/docs/news-homepages/bundles/france.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/france.xml)|
 |[Georgia](https://palewi.re/docs/news-homepages/bundles/georgia.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/georgia.xml)|

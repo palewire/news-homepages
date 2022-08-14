@@ -3,7 +3,7 @@
 
 # Site directory
 
-The archiving routine is currently capturing 803 sites.
+The archiving routine is currently capturing 805 sites.
 
 A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/all.xml). An OPML file collecting all individual RSS feeds is at [opml.xml](https://palewi.re/docs/news-homepages/rss/sites/opml.xml).
 
@@ -43,6 +43,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[Albany Herald](https://palewi.re/docs/news-homepages/sites/albany_herald.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/albany_herald.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/albany_herald.xml)|
 |[Albuquerque Business First](https://palewi.re/docs/news-homepages/sites/abqbizfirst.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/abqbizfirst.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/abqbizfirst.xml)|
 |[Albuquerque Journal](https://palewi.re/docs/news-homepages/sites/abqjournal.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/abqjournal.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/abqjournal.xml)|
+|[All in Her Head](https://palewi.re/docs/news-homepages/sites/jessicavalenti.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jessicavalenti.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/jessicavalenti.xml)|
 |[Alligator](https://palewi.re/docs/news-homepages/sites/thealligator.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thealligator.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thealligator.xml)|
 |[Alma Preta](https://palewi.re/docs/news-homepages/sites/alma_preta.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/alma_preta.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/alma_preta.xml)|
 |[AlterNet](https://palewi.re/docs/news-homepages/sites/alternet.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/alternet.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/alternet.xml)|
@@ -693,6 +694,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[The Berkeleyside](https://palewi.re/docs/news-homepages/sites/berkeleyside.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/berkeleyside.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/berkeleyside.xml)|
 |[The Brunswick News](https://palewi.re/docs/news-homepages/sites/brunswick_news.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/brunswick_news.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/brunswick_news.xml)|
 |[The City](https://palewi.re/docs/news-homepages/sites/thecityny.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thecityny.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thecityny.xml)|
+|[The Cut](https://palewi.re/docs/news-homepages/sites/thecut.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thecut.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thecut.xml)|
 |[The Desert Sun](https://palewi.re/docs/news-homepages/sites/mydesert.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mydesert.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mydesert.xml)|
 |[The Diamondback](https://palewi.re/docs/news-homepages/sites/thedbk.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thedbk.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thedbk.xml)|
 |[The Georgia Straight](https://palewi.re/docs/news-homepages/sites/georgiastraight.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/georgiastraight.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/georgiastraight.xml)|

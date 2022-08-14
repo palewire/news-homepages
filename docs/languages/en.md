@@ -7,7 +7,7 @@ orphan: true
 
 # English
 
-The most recent homepages from 631 news sites in this language.
+The most recent homepages from 633 news sites in this language.
 
 <div class="latest-parent">
 
@@ -243,6 +243,15 @@ The most recent homepages from 631 news sites in this language.
      loading="lazy">
  </a>
  <p><a href="../sites/abqjournal.html">Albuquerque Journal</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/jessicavalenti.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jessicavalenti.jpg"
+     alt="All in Her Head"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/jessicavalenti.html">All in Her Head</a></p>
 </div>
 
 <div class="latest-child">
@@ -4764,6 +4773,15 @@ The most recent homepages from 631 news sites in this language.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/thecut.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thecut.jpg"
+     alt="The Cut"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/thecut.html">The Cut</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/mydesert.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mydesert.jpg"
      alt="The Desert Sun"
@@ -5728,6 +5746,7 @@ The most recent homepages from 631 news sites in this language.
 |[Albany Herald](https://palewi.re/docs/news-homepages/sites/albany_herald.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/albany_herald.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/albany_herald.xml)|
 |[Albuquerque Business First](https://palewi.re/docs/news-homepages/sites/abqbizfirst.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/abqbizfirst.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/abqbizfirst.xml)|
 |[Albuquerque Journal](https://palewi.re/docs/news-homepages/sites/abqjournal.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/abqjournal.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/abqjournal.xml)|
+|[All in Her Head](https://palewi.re/docs/news-homepages/sites/jessicavalenti.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jessicavalenti.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/jessicavalenti.xml)|
 |[Alligator](https://palewi.re/docs/news-homepages/sites/thealligator.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thealligator.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thealligator.xml)|
 |[AlterNet](https://palewi.re/docs/news-homepages/sites/alternet.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/alternet.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/alternet.xml)|
 |[American Prospect](https://palewi.re/docs/news-homepages/sites/theprospect.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theprospect.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theprospect.xml)|
@@ -6230,6 +6249,7 @@ The most recent homepages from 631 news sites in this language.
 |[The Berkeleyside](https://palewi.re/docs/news-homepages/sites/berkeleyside.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/berkeleyside.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/berkeleyside.xml)|
 |[The Brunswick News](https://palewi.re/docs/news-homepages/sites/brunswick_news.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/brunswick_news.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/brunswick_news.xml)|
 |[The City](https://palewi.re/docs/news-homepages/sites/thecityny.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thecityny.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thecityny.xml)|
+|[The Cut](https://palewi.re/docs/news-homepages/sites/thecut.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thecut.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thecut.xml)|
 |[The Desert Sun](https://palewi.re/docs/news-homepages/sites/mydesert.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mydesert.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mydesert.xml)|
 |[The Diamondback](https://palewi.re/docs/news-homepages/sites/thedbk.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thedbk.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thedbk.xml)|
 |[The Georgia Straight](https://palewi.re/docs/news-homepages/sites/georgiastraight.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/georgiastraight.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/georgiastraight.xml)|
