@@ -1,5 +1,5 @@
 {
-  "created": 1660351631,
+  "created": 1660396438,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/24/items/mddailyrecord-2022",
@@ -3236,31 +3236,83 @@
       "sha1": "58fb9a8bb0eb8633737832839250afa0b6e85f2d"
     },
     {
+      "name": "mddailyrecord-2022-08-13T09:12:16.664702-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660396342",
+      "size": "194",
+      "md5": "11caf1dcc9a289b9b444a15539cef173",
+      "crc32": "0f4945ac",
+      "sha1": "e04cb2d7a0ec0bd88ffeeb852e66831e21dee563",
+      "format": "JSON"
+    },
+    {
+      "name": "mddailyrecord-2022-08-13T09:12:16.664702-04:00.jpg",
+      "source": "original",
+      "mtime": "1660396340",
+      "size": "369085",
+      "md5": "219200bf7fe530c8094cf4deb25b0c31",
+      "crc32": "da910c7a",
+      "sha1": "269c7369e4d732fcf4a73bafc005d82d52da4cc9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mddailyrecord-2022-08-13T09:12:16.664702-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660396344",
+      "size": "1621",
+      "md5": "fb0d5b04a659df44c3a4e3f3e8a0d0a1",
+      "crc32": "fa2ac9fa",
+      "sha1": "9ecc2dd6530954a1ab571fcf5d74d0101abb82ec",
+      "format": "JSON"
+    },
+    {
+      "name": "mddailyrecord-2022-08-13T09:12:16.664702-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660396345",
+      "size": "16925",
+      "md5": "19e9774a0efdc88a7b05ff572989618d",
+      "crc32": "d77351f3",
+      "sha1": "8bc59346306daa588479770780bb7eb68a1cc0e6",
+      "format": "JSON"
+    },
+    {
+      "name": "mddailyrecord-2022-08-13T09:12:16.664702-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mddailyrecord-2022-08-13T09:12:16.664702-04:00.jpg",
+      "mtime": "1660396410",
+      "size": "10247",
+      "md5": "cee2907d23fd26307fb3290d1de2cdb4",
+      "crc32": "deb42593",
+      "sha1": "58fb9a8bb0eb8633737832839250afa0b6e85f2d"
+    },
+    {
       "name": "mddailyrecord-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bb8b4dfc01b88640dbde3cea2dd33bb4b52794d0",
-      "mtime": "1660351615",
-      "size": "68386",
-      "md5": "042c567433b4468c3f93114def03c9b6",
-      "crc32": "abc9f708",
-      "sha1": "b5a92fc8e3e489d9a97e6cc105c361e82c0255ce",
+      "btih": "88c9ef6daa6c6590a53abe28dbf67428d78bb96e",
+      "mtime": "1660396423",
+      "size": "69443",
+      "md5": "16e44989c094ebed7c30d02d6f2bb4d0",
+      "crc32": "339af2da",
+      "sha1": "0f92fe10d2791fc6195d4b5933c3b66a3fcce770",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mddailyrecord-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b188e70a872259b6234549da850fc211",
+      "md5": "6e0e20e6564f135285e37235276d12a7",
       "summation": "md5"
     },
     {
       "name": "mddailyrecord-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660351381",
-      "size": "397312",
-      "md5": "ba7c9c55d388ad93174ba002351dca5c",
-      "crc32": "c4d157bf",
-      "sha1": "59779586507224cccf0e82a91b074a2b060bf89b",
+      "mtime": "1660396349",
+      "size": "405504",
+      "md5": "f22fa9eda9c5a6c18e740e2f5778b323",
+      "crc32": "2f0bf28c",
+      "sha1": "9d1a112c95d9acde3dff6740471e51820be62a14",
       "format": "Metadata"
     },
     {
@@ -3274,9 +3326,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 314,
-  "item_last_updated": 1660351615,
-  "item_size": 28924984,
+  "files_count": 319,
+  "item_last_updated": 1660396423,
+  "item_size": 29332305,
   "metadata": {
     "identifier": "mddailyrecord-2022",
     "collection": [
@@ -3293,10 +3345,10 @@
     "publicdate": "2022-07-13 02:25:07",
     "addeddate": "2022-07-13 02:25:07"
   },
-  "server": "ia801501.us.archive.org",
-  "uniq": 1228188209,
+  "server": "ia601501.us.archive.org",
+  "uniq": 595854080,
   "workable_servers": [
-    "ia801501.us.archive.org",
-    "ia601501.us.archive.org"
+    "ia601501.us.archive.org",
+    "ia801501.us.archive.org"
   ]
 }
