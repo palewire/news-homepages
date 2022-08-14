@@ -31,7 +31,7 @@ def cli(handle: str, output_dir: str):
         json.dump(link_list, fp, indent=2)
 
 
-@retry(delay=5, backoff=2)
+@retry(tries=3, delay=5, backoff=2)
 def _get_links(data: dict) -> list[dict]:
     print(f":newspaper: Getting hyperlinks for {data['url']}")
     # Start the browser
