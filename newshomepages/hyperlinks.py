@@ -47,7 +47,7 @@ def _get_links(data: dict) -> list[dict]:
         page = browser_context.new_page()
 
         # Go to the page
-        page.goto(data["url"], timeout=60000)
+        page.goto(data["url"], timeout=60000 * 3)
 
         # Pull the html
         html = page.content()

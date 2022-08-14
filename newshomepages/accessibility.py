@@ -3,6 +3,7 @@ import typing
 from pathlib import Path
 
 import click
+from retry import retry
 from rich import print
 
 from . import utils
@@ -15,13 +16,15 @@ def cli(handle: str, output_dir: str):
     """Save the accessiblity JSON of a single site."""
     # Get metadata
     site = utils.get_site(handle)
-    print(f"Fetching a11y tree from {site['url']}")
 
     # Do the thing
     _get_accessibility(site, output_dir)
 
 
+@retry(tries=3, delay=5, backoff=2)
 def _get_accessibility(data: dict, output_dir: str):
+    print(f":newspaper: Fetching a11y tree from {data['url']}")
+
     # Set the output path
     output_path = Path(output_dir)
     output_path.mkdir(parents=True, exist_ok=True)
