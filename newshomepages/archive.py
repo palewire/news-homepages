@@ -7,6 +7,7 @@ from pathlib import Path
 import click
 import internetarchive
 import pytz
+from retry import retry
 from rich import print
 
 from . import utils
@@ -24,6 +25,7 @@ def cli(handle: str, input_dir: str):
     _upload(site, input_dir)
 
 
+@retry(tries=3, delay=5, backoff=2)
 def _upload(data: dict, input_dir: str):
     # Set the input paths
     handle = data["handle"].lower()
