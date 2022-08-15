@@ -1,5 +1,5 @@
 {
-  "created": 1660485871,
+  "created": 1660504111,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/19/items/udn-2022",
@@ -1434,31 +1434,93 @@
       "sha1": "22333d00a370c64898d931941bdebee36be3f7aa"
     },
     {
+      "name": "udn-2022-08-15T03:06:58.291716+08:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660504022",
+      "size": "92102",
+      "md5": "e8c326c1b3aabb9e4bae85061549e5dd",
+      "crc32": "50a47db2",
+      "sha1": "ee381b343f8498b2e0ade43573c377ea61b8f0a3",
+      "format": "JSON"
+    },
+    {
+      "name": "udn-2022-08-15T03:06:58.291716+08:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660504023",
+      "size": "122675",
+      "md5": "dadca3eb9a5ecfbcdf02474553f62888",
+      "crc32": "b7731995",
+      "sha1": "f3fcdea05919185a51e80af5b3393564019cedde",
+      "format": "JSON"
+    },
+    {
+      "name": "udn-2022-08-15T03:06:58.291716+08:00.jpg",
+      "source": "original",
+      "mtime": "1660504020",
+      "size": "288311",
+      "md5": "a5fb933c587fae8eddfa515791a901d1",
+      "crc32": "228099b3",
+      "sha1": "cacc76a6a5d8945ad2c56e5591e182483a43f9d7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "udn-2022-08-15T03:06:58.291716+08:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660504024",
+      "size": "1486",
+      "md5": "0cd94225922c84fde6e9374aaaff1d26",
+      "crc32": "2f5c1b6f",
+      "sha1": "06878939d161cd14fe2b6d88ecdebe390e86ee21",
+      "format": "JSON"
+    },
+    {
+      "name": "udn-2022-08-15T03:06:58.291716+08:00.wayback.json",
+      "source": "original",
+      "mtime": "1660504026",
+      "size": "96531",
+      "md5": "aa631269e3f68c248151425ef6c4b6f7",
+      "crc32": "6f71ccb0",
+      "sha1": "13481d4a527e81e1a5d29670ff4c1d7dda628bdd",
+      "format": "JSON"
+    },
+    {
+      "name": "udn-2022-08-15T03:06:58.291716+08:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "udn-2022-08-15T03:06:58.291716+08:00.jpg",
+      "mtime": "1660504087",
+      "size": "10024",
+      "md5": "8d227a5acf616fe9584d1c95bbce8c10",
+      "crc32": "d17dfded",
+      "sha1": "1e9c86023613068331fe76e05e3773b9a08f8595"
+    },
+    {
       "name": "udn-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6d1a45d7971f50180ae7e71878e0e9424d1c93ab",
-      "mtime": "1660461042",
-      "size": "29904",
-      "md5": "ebec311292eceddbe0be1e63732b21d0",
-      "crc32": "d1d2849b",
-      "sha1": "3ed56c556c26d247e9c2af0bad8a1f0b74440956",
+      "btih": "462b87509a79c37c65d56a54649546bd68ff81b3",
+      "mtime": "1660504096",
+      "size": "31143",
+      "md5": "ebf9e4922a43cbf504f9a8297c01e346",
+      "crc32": "9b98edf9",
+      "sha1": "35b5404e9b30a7c7be453e9adf39fb55f0b4eeac",
       "format": "Archive BitTorrent"
     },
     {
       "name": "udn-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "38ebdfb6caca05647609dfa54d5a1b5e",
+      "md5": "248d9cf1e9bb97304265a982275f7e6d",
       "summation": "md5"
     },
     {
       "name": "udn-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660460989",
-      "size": "192512",
-      "md5": "3be2a0e45daede5e11b5f69fbcbe10ac",
-      "crc32": "b0d96341",
-      "sha1": "9c77fa92e18373d47dd3cbddf749095096c3cd79",
+      "mtime": "1660504031",
+      "size": "204800",
+      "md5": "9f8c03f3162173958d4f78cb0eb782a7",
+      "crc32": "22fbec06",
+      "sha1": "98665423a3e3be73a5ff4d1dae35e204a7a9517e",
       "format": "Metadata"
     },
     {
@@ -1472,9 +1534,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 142,
-  "item_last_updated": 1660461042,
-  "item_size": 13966812,
+  "files_count": 148,
+  "item_last_updated": 1660504096,
+  "item_size": 14591468,
   "metadata": {
     "identifier": "udn-2022",
     "collection": [
@@ -1492,11 +1554,7 @@
     "addeddate": "2022-08-02 16:24:15"
   },
   "server": "ia601403.us.archive.org",
-  "udn-2022": {
-    "url": "https://udn.com/",
-    "job_id": "spn2-46874e258493b08e94a9ee46081f276a103dd0d2"
-  },
-  "uniq": 776777603,
+  "uniq": 1036647145,
   "workable_servers": [
     "ia601403.us.archive.org",
     "ia801403.us.archive.org"

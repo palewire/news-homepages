@@ -1,5 +1,5 @@
 {
-  "created": 1660484706,
+  "created": 1660526232,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/18/items/jstor_daily-2022",
@@ -2286,31 +2286,93 @@
       "sha1": "be125bfea39c828e851864aa59d27644eb47e0cd"
     },
     {
+      "name": "jstor_daily-2022-08-14T21:16:06.490446-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660526174",
+      "size": "31292",
+      "md5": "3a938c840ae329f08d6a8c0a5a73db93",
+      "crc32": "3e31b92e",
+      "sha1": "fcbfda8be82e8b9b8ff222fde6e750849f40af57",
+      "format": "JSON"
+    },
+    {
+      "name": "jstor_daily-2022-08-14T21:16:06.490446-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660526176",
+      "size": "20789",
+      "md5": "004d2e0cd0b6369814764776ba2b95d0",
+      "crc32": "a130a276",
+      "sha1": "e39605a0342290b01554da3f385b41e55f7113be",
+      "format": "JSON"
+    },
+    {
+      "name": "jstor_daily-2022-08-14T21:16:06.490446-04:00.jpg",
+      "source": "original",
+      "mtime": "1660526173",
+      "size": "387065",
+      "md5": "5f5817980a70e00486fbc7df15f66268",
+      "crc32": "ebde1e71",
+      "sha1": "00ccb9ebf6647353e4b0e996422e88afc12cfa64",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jstor_daily-2022-08-14T21:16:06.490446-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660526177",
+      "size": "1456",
+      "md5": "ad9c11c02f58f95bf37f60c5813bdca1",
+      "crc32": "40aa46a1",
+      "sha1": "e20eab97bcee45ddeede0327fa35305c21cf7834",
+      "format": "JSON"
+    },
+    {
+      "name": "jstor_daily-2022-08-14T21:16:06.490446-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660526179",
+      "size": "12530",
+      "md5": "271ca34d750a14b7c8b06b717af516fe",
+      "crc32": "c6e8054f",
+      "sha1": "1b5a417e4054e4ed299dcb21e1dd57b431b46b5e",
+      "format": "JSON"
+    },
+    {
+      "name": "jstor_daily-2022-08-14T21:16:06.490446-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jstor_daily-2022-08-14T21:16:06.490446-04:00.jpg",
+      "mtime": "1660526226",
+      "size": "11142",
+      "md5": "935ac23c8d51f38b5b0c12e78a796cda",
+      "crc32": "f2ae5ab5",
+      "sha1": "3082dfdc123da7b2d0119058aefde599e91ba3ef"
+    },
+    {
       "name": "jstor_daily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b7d59c80184d11eae795a162950faf23f76dc042",
-      "mtime": "1660484700",
-      "size": "48492",
-      "md5": "d5d8554c188d1c47ac9e7712afa82ac6",
-      "crc32": "3a7005c3",
-      "sha1": "127ef5e888c38609017be33298eba1fb16746712",
+      "btih": "eb994adb875db0491bd7944e41416c8ae4b73fe1",
+      "mtime": "1660526228",
+      "size": "49778",
+      "md5": "3c101ec7986011bfa00f394360a8d232",
+      "crc32": "fd2cf30e",
+      "sha1": "ebda88d6707948fe0f9489e85d04a15544607e33",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jstor_daily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d63337c1077da31be4bef955664fae40",
+      "md5": "d430540d0266a8eafa13d18dec15e4da",
       "summation": "md5"
     },
     {
       "name": "jstor_daily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660484654",
-      "size": "294912",
-      "md5": "c85cc000cc38148c454ac59520962dba",
-      "crc32": "a3a8683d",
-      "sha1": "627f8523771f515efb0df449b30440946be6bb7b",
+      "mtime": "1660526183",
+      "size": "303104",
+      "md5": "4319492c7085a4ccecff7069118dc324",
+      "crc32": "58e930d4",
+      "sha1": "96c0a50387543ddd862bf3d586428019bbac3ae1",
       "format": "Metadata"
     },
     {
@@ -2324,9 +2386,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 224,
-  "item_last_updated": 1660484700,
-  "item_size": 16907710,
+  "files_count": 230,
+  "item_last_updated": 1660526228,
+  "item_size": 17381462,
   "metadata": {
     "identifier": "jstor_daily-2022",
     "collection": [
@@ -2343,10 +2405,10 @@
     "publicdate": "2022-07-26 00:15:53",
     "addeddate": "2022-07-26 00:15:53"
   },
-  "server": "ia802505.us.archive.org",
-  "uniq": 2033557419,
+  "server": "ia902505.us.archive.org",
+  "uniq": 1129390374,
   "workable_servers": [
-    "ia802505.us.archive.org",
-    "ia902505.us.archive.org"
+    "ia902505.us.archive.org",
+    "ia802505.us.archive.org"
   ]
 }

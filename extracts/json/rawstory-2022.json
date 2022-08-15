@@ -1,6 +1,6 @@
 {
-  "conflict": 1660485420,
-  "created": 1660485420,
+  "conflict": 1660526902,
+  "created": 1660526902,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/19/items/rawstory-2022",
@@ -4209,31 +4209,155 @@
       "sha1": "e66123fdf072625daceaa0bb927019486cacb1a5"
     },
     {
+      "name": "rawstory-2022-08-14T09:56:50.456873-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660485419",
+      "size": "32544",
+      "md5": "139c758a551136ad9113b438e7c32373",
+      "crc32": "1594b148",
+      "sha1": "a346263ce8308f32cff43ff0055fff6dbbfa91de",
+      "format": "JSON"
+    },
+    {
+      "name": "rawstory-2022-08-14T09:56:50.456873-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660485421",
+      "size": "61999",
+      "md5": "5d0a5402e44552725978737173b42e32",
+      "crc32": "3b41f406",
+      "sha1": "503942fbde98bf686b789d7c4914a9cce13066b3",
+      "format": "JSON"
+    },
+    {
+      "name": "rawstory-2022-08-14T09:56:50.456873-04:00.jpg",
+      "source": "original",
+      "mtime": "1660485417",
+      "size": "319865",
+      "md5": "e90315efcec5612e289f0c44485cc6fe",
+      "crc32": "94f77395",
+      "sha1": "61ef10c1494948a2aa13436a35c3d7f68af8b426",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rawstory-2022-08-14T09:56:50.456873-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660485422",
+      "size": "1477",
+      "md5": "a97c58db13c01ff8fac8f6053a5bce60",
+      "crc32": "4fe9aae7",
+      "sha1": "f5ae326f76f6a7ca36ad5a69b877c8867ac72a78",
+      "format": "JSON"
+    },
+    {
+      "name": "rawstory-2022-08-14T09:56:50.456873-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660485424",
+      "size": "204",
+      "md5": "d9e63786fe963f09341971c57233ba61",
+      "crc32": "631932b2",
+      "sha1": "a15d35b0caf88323b13021248b4bb6f1ade334ff",
+      "format": "JSON"
+    },
+    {
+      "name": "rawstory-2022-08-14T09:56:50.456873-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rawstory-2022-08-14T09:56:50.456873-04:00.jpg",
+      "mtime": "1660485474",
+      "size": "11683",
+      "md5": "2d82c192e184ea34415044cd60d2bfa6",
+      "crc32": "a4a3a73e",
+      "sha1": "49ce26592dcb16b0319163bd6d097d12464f69ba"
+    },
+    {
+      "name": "rawstory-2022-08-14T15:52:21.532915-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660506748",
+      "size": "32206",
+      "md5": "dc542f8203e780034e3bd3f4c98060cc",
+      "crc32": "585753c9",
+      "sha1": "281f9b61359a2758a48609dfa44b83817298e204",
+      "format": "JSON"
+    },
+    {
+      "name": "rawstory-2022-08-14T15:52:21.532915-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660506749",
+      "size": "62390",
+      "md5": "cd4322d5d6ed91776a458c7470e621e5",
+      "crc32": "ee22b8a5",
+      "sha1": "bd43d0370add58b4b83ee7cbedbbef576c041075",
+      "format": "JSON"
+    },
+    {
+      "name": "rawstory-2022-08-14T15:52:21.532915-04:00.jpg",
+      "source": "original",
+      "mtime": "1660506745",
+      "size": "338099",
+      "md5": "c151a0ef1f13523e7ea78f62953e524b",
+      "crc32": "4fac7007",
+      "sha1": "83d1a1b12337575bf80eba8cca86b3dcc2a75a3f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rawstory-2022-08-14T15:52:21.532915-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660506751",
+      "size": "1476",
+      "md5": "b793b327b91b16d083727bfe3f9f27ed",
+      "crc32": "102364ec",
+      "sha1": "11e6b1e0a9a88706579284827d7d6f5778a99373",
+      "format": "JSON"
+    },
+    {
+      "name": "rawstory-2022-08-14T15:52:21.532915-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660506753",
+      "size": "108615",
+      "md5": "667e52fef6fcab7708ccefe9b5baf287",
+      "crc32": "1a4b4d2e",
+      "sha1": "1359187a528b062049ded3b93a0325de62097619",
+      "format": "JSON"
+    },
+    {
+      "name": "rawstory-2022-08-14T15:52:21.532915-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rawstory-2022-08-14T15:52:21.532915-04:00.jpg",
+      "mtime": "1660506827",
+      "size": "11816",
+      "md5": "b1a34ebd1e34360bcef52fbe03e95021",
+      "crc32": "7a940008",
+      "sha1": "10a81a7293864cf4e046ad418defff6b10cd169a"
+    },
+    {
       "name": "rawstory-2022_archive.torrent",
       "source": "metadata",
-      "btih": "449e5557f9c44889f5c15fb9031f3a74a5a22e6e",
-      "mtime": "1660447473",
-      "size": "86737",
-      "md5": "d25237e07bb66aad35503337952b358f",
-      "crc32": "b74503e7",
-      "sha1": "3995266c4b962d8e9ee61a66d59c1196f7ec5d44",
+      "btih": "d330bb83d0c14ea924eb5e8742d82e31427af474",
+      "mtime": "1660506836",
+      "size": "89272",
+      "md5": "151c1110d910a09669d49341974bc74b",
+      "crc32": "10e3b440",
+      "sha1": "a570731ce557722e2e01b0383310198864132373",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rawstory-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3ecf2baf1f2793d33e8a52656837eed6",
+      "md5": "2e283cf626d1f82546cf2e0653c4a3d6",
       "summation": "md5"
     },
     {
       "name": "rawstory-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660447379",
-      "size": "516096",
-      "md5": "cd700ec57a52965fb63de0161930caf3",
-      "crc32": "4f7e9da5",
-      "sha1": "cab08170e2faed27d61279f057c2a52598b7dcf1",
+      "mtime": "1660506757",
+      "size": "528384",
+      "md5": "69fa212eb0b28a71cbe1ac90aaab7153",
+      "crc32": "b94f1d9d",
+      "sha1": "2f59a13e7021bf037ff6091c98abf647620722be",
       "format": "Metadata"
     },
     {
@@ -4247,9 +4371,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 408,
-  "item_last_updated": 1660447473,
-  "item_size": 36443309,
+  "files_count": 420,
+  "item_last_updated": 1660506836,
+  "item_size": 37440506,
   "metadata": {
     "identifier": "rawstory-2022",
     "collection": [
@@ -4271,7 +4395,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3367570345,
+      "task_id": 3368671982,
       "cmd": "archive.php",
       "priority": -5,
       "wait_admin": 1,
@@ -4279,7 +4403,7 @@
       "status": "running"
     }
   ],
-  "uniq": 473577724,
+  "uniq": 906516756,
   "workable_servers": [
     "ia601407.us.archive.org"
   ]

@@ -1,6 +1,6 @@
 {
-  "conflict": 1660485526,
-  "created": 1660485526,
+  "conflict": 1660527020,
+  "created": 1660527020,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/29/items/sjspotlight-2022",
@@ -4071,31 +4071,93 @@
       "sha1": "37c8021d1ca1d48475d9941345c19c30a1e281a0"
     },
     {
+      "name": "sjspotlight-2022-08-14T06:58:41.141165-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660485526",
+      "size": "17373",
+      "md5": "707d70f168f9d02c4f1863c6f7a24c51",
+      "crc32": "646b4a79",
+      "sha1": "3c1528139cc83891a7b9263ae96a11869af8c895",
+      "format": "JSON"
+    },
+    {
+      "name": "sjspotlight-2022-08-14T06:58:41.141165-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660485527",
+      "size": "28447",
+      "md5": "7d76ebbacb1c82e30769aa60773ecd46",
+      "crc32": "5a033eb8",
+      "sha1": "0fa10a62185c52608716bf0ab254d0d0f53ed14c",
+      "format": "JSON"
+    },
+    {
+      "name": "sjspotlight-2022-08-14T06:58:41.141165-07:00.jpg",
+      "source": "original",
+      "mtime": "1660485524",
+      "size": "332319",
+      "md5": "9c0b49f0e24362acc5651b4c77356c91",
+      "crc32": "439b885f",
+      "sha1": "26896c9481bee4c01ab963d0300648e59eda9614",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sjspotlight-2022-08-14T06:58:41.141165-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660485528",
+      "size": "1509",
+      "md5": "7eccc7ac44922520c7adfd240cbe39ef",
+      "crc32": "b6974b27",
+      "sha1": "e7377397e93c7d973126b2f47589601c5c31b064",
+      "format": "JSON"
+    },
+    {
+      "name": "sjspotlight-2022-08-14T06:58:41.141165-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660485533",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "sjspotlight-2022-08-14T06:58:41.141165-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sjspotlight-2022-08-14T06:58:41.141165-07:00.jpg",
+      "mtime": "1660485597",
+      "size": "11173",
+      "md5": "1e202782b6c805efaa062ad1c8967bd7",
+      "crc32": "f01c9fd8",
+      "sha1": "29fdaaf8182f196a5959a30d841998f37f7d6082"
+    },
+    {
       "name": "sjspotlight-2022_archive.torrent",
       "source": "metadata",
-      "btih": "951724ab75a6d8ec613d337dc4b781997cae3c46",
-      "mtime": "1660447599",
-      "size": "84741",
-      "md5": "d91e314935fd33bd8356a6185ba35579",
-      "crc32": "7be4d0b8",
-      "sha1": "7648a2066b7460c8016b2323b4f1f5c1115a89bc",
+      "btih": "74b2a7d0dd6c8a905060e708fc89a335375064c4",
+      "mtime": "1660485620",
+      "size": "86025",
+      "md5": "90d36da5b34792519c17d557656769b6",
+      "crc32": "ef810c97",
+      "sha1": "d160bfddd85bdda16d6eaab82445fd39a596e790",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sjspotlight-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "04624510f238d63331dbf6ba648fc0f6",
+      "md5": "da839cb74307af6f23dea5ffb11154a0",
       "summation": "md5"
     },
     {
       "name": "sjspotlight-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660447516",
-      "size": "495616",
-      "md5": "458cf17e8737f2ded37f4910d705721d",
-      "crc32": "4d1a48e8",
-      "sha1": "96bf7dbadb5c37a7cbd2d5fd0ff8438f7f0a7f05",
+      "mtime": "1660485535",
+      "size": "499712",
+      "md5": "6a943fc6cdbd696b118c2315d0747e6c",
+      "crc32": "732e93d0",
+      "sha1": "9f587062fa6a4dcea5cf8fe88b96298c9701a7e7",
       "format": "Metadata"
     },
     {
@@ -4109,9 +4171,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 394,
-  "item_last_updated": 1660447599,
-  "item_size": 30893655,
+  "files_count": 400,
+  "item_last_updated": 1660485620,
+  "item_size": 31290058,
   "metadata": {
     "identifier": "sjspotlight-2022",
     "collection": [
@@ -4133,7 +4195,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3367571933,
+      "task_id": 3368674671,
       "cmd": "archive.php",
       "priority": -5,
       "wait_admin": 1,
@@ -4141,7 +4203,7 @@
       "status": "running"
     }
   ],
-  "uniq": 158891671,
+  "uniq": 1239793466,
   "workable_servers": [
     "ia601504.us.archive.org"
   ]

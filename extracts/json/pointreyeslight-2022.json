@@ -1,6 +1,6 @@
 {
-  "conflict": 1660485331,
-  "created": 1660485331,
+  "conflict": 1660526872,
+  "created": 1660526872,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/26/items/pointreyeslight-2022",
@@ -5289,31 +5289,93 @@
       "sha1": "03b24e045caeac71e3aaa4e6af0de2a9529c59ee"
     },
     {
+      "name": "pointreyeslight-2022-08-14T06:55:21.863784-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660485330",
+      "size": "1063",
+      "md5": "e4ca47192386435fbd65b75b2fe4befe",
+      "crc32": "5ce35a49",
+      "sha1": "5a97123f10e9e73f533133e4b2a2d42a103ef9e5",
+      "format": "JSON"
+    },
+    {
+      "name": "pointreyeslight-2022-08-14T06:55:21.863784-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660485332",
+      "size": "5666",
+      "md5": "c8745582b54d29098eaab72e17339673",
+      "crc32": "9010f153",
+      "sha1": "9c5c9ae5294fe29458987c8a8a7c583bba9dfaef",
+      "format": "JSON"
+    },
+    {
+      "name": "pointreyeslight-2022-08-14T06:55:21.863784-07:00.jpg",
+      "source": "original",
+      "mtime": "1660485328",
+      "size": "264550",
+      "md5": "3b5370eb05865262659dca8f1967e49e",
+      "crc32": "42ec3090",
+      "sha1": "312f91578bb9856d06205da99ff9808d328a7d74",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pointreyeslight-2022-08-14T06:55:21.863784-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660485333",
+      "size": "1513",
+      "md5": "5de0bfc4570ffa07e340a2db553aba05",
+      "crc32": "8621830c",
+      "sha1": "feb2b49b9b815dfeafcc5bae128b19c18bfff130",
+      "format": "JSON"
+    },
+    {
+      "name": "pointreyeslight-2022-08-14T06:55:21.863784-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660485335",
+      "size": "234",
+      "md5": "edfd8b4963c451f1f3d88a99d29773f9",
+      "crc32": "25067060",
+      "sha1": "560f32207cc220d96bee54b5df70f6bfcd10a238",
+      "format": "JSON"
+    },
+    {
+      "name": "pointreyeslight-2022-08-14T06:55:21.863784-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pointreyeslight-2022-08-14T06:55:21.863784-07:00.jpg",
+      "mtime": "1660485388",
+      "size": "9169",
+      "md5": "213d4e6b900a051c9259e9be761dc7ec",
+      "crc32": "2a8d136b",
+      "sha1": "25dcf95f3fa38224e1ba52402402afe2d27f5a22"
+    },
+    {
       "name": "pointreyeslight-2022_archive.torrent",
       "source": "metadata",
-      "btih": "db0d9e9992e1d6bf1af3d5abfc9cacfb7273f7cd",
-      "mtime": "1660447413",
-      "size": "110805",
-      "md5": "6c233239497821b1d1defa318cecb9e5",
-      "crc32": "38654d39",
-      "sha1": "31c6bac0408cb14f90d3508499a825c19a3b3498",
+      "btih": "d1e0f7f56f3904a2e3f2f04d81bd6fb1bddec6eb",
+      "mtime": "1660485392",
+      "size": "112110",
+      "md5": "8806da07c0c43e5aba6593d0488c453a",
+      "crc32": "034b3918",
+      "sha1": "70da7bd5848429a4db8987434e9b866051d876c4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pointreyeslight-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "eab162d267701bb548a4823184b12545",
+      "md5": "13cc7b7851cc2f3e4f85f0707591784b",
       "summation": "md5"
     },
     {
       "name": "pointreyeslight-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660447354",
-      "size": "630784",
-      "md5": "97a179e086a26419cf3a7c93221172d5",
-      "crc32": "6c64d792",
-      "sha1": "07c25f9c0073edb733e988f9cf61803f5bc374ce",
+      "mtime": "1660485339",
+      "size": "634880",
+      "md5": "17555bc5ae1120fa7e92324207aeba83",
+      "crc32": "c8b8b7aa",
+      "sha1": "0c9f7d25fe2d526ab30eb2068db953d35a081af2",
       "format": "Metadata"
     },
     {
@@ -5327,9 +5389,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 510,
-  "item_last_updated": 1660447413,
-  "item_size": 30423778,
+  "files_count": 516,
+  "item_last_updated": 1660485392,
+  "item_size": 30711374,
   "metadata": {
     "identifier": "pointreyeslight-2022",
     "collection": [
@@ -5351,7 +5413,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3367568909,
+      "task_id": 3368671421,
       "cmd": "archive.php",
       "priority": -5,
       "wait_admin": 1,
@@ -5359,7 +5421,7 @@
       "status": "running"
     }
   ],
-  "uniq": 1358856590,
+  "uniq": 175678383,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

@@ -1,5 +1,9 @@
 {
-  "created": 1660459410,
+  "created": 1660526170,
+  "ctvnews-2022": {
+    "url": "https://www.ctvnews.ca/",
+    "job_id": "spn2-5b5e29e8277eb165b8a1a2f94cfa348966fb58bc"
+  },
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/12/items/ctvnews-2022",
@@ -4726,31 +4730,83 @@
       "sha1": "cd20b97c51ed734716ab13008a4112de887c43db"
     },
     {
+      "name": "ctvnews-2022-08-14T13:14:08.370702-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660497254",
+      "size": "75972",
+      "md5": "f9ad80e1cddaf0375a2a861bf97a6493",
+      "crc32": "b373865c",
+      "sha1": "2a4b00b3077c4f8c5e14f4e19f18cab817e5ef89",
+      "format": "JSON"
+    },
+    {
+      "name": "ctvnews-2022-08-14T13:14:08.370702-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660497256",
+      "size": "94872",
+      "md5": "a563399444561b3a7cbf6c3ed14b70e6",
+      "crc32": "84d14a17",
+      "sha1": "e37d10accf0898e2b034ca70e48ed46254cae0c5",
+      "format": "JSON"
+    },
+    {
+      "name": "ctvnews-2022-08-14T13:14:08.370702-04:00.jpg",
+      "source": "original",
+      "mtime": "1660497252",
+      "size": "324106",
+      "md5": "de60a7ab9989cfbf12eda087578c8b8a",
+      "crc32": "bd7ce5f9",
+      "sha1": "7b8f116f8f48aa17d6212a696179ef8dd9ae6a14",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ctvnews-2022-08-14T13:14:08.370702-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660497263",
+      "size": "99",
+      "md5": "1037c7cfc4ffc13f6aad6a51a001c744",
+      "crc32": "3fed3b02",
+      "sha1": "274d52484f6e960bb9ed48149d3fe1c40829dd9a",
+      "format": "JSON"
+    },
+    {
+      "name": "ctvnews-2022-08-14T13:14:08.370702-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ctvnews-2022-08-14T13:14:08.370702-04:00.jpg",
+      "mtime": "1660497335",
+      "size": "10166",
+      "md5": "05cd31ea663d5c1132f0ddbb44079f38",
+      "crc32": "964a7c27",
+      "sha1": "fcdba1267390e8db7d486913d132306fed2e02e6"
+    },
+    {
       "name": "ctvnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c0020b6ab31e961a38b414c0a837465fe313f60c",
-      "mtime": "1660459395",
-      "size": "96368",
-      "md5": "48437de4f8e75e469036e8cde5430d85",
-      "crc32": "427a1180",
-      "sha1": "286c1cffe4932d0ee55f98375a05156848122c69",
+      "btih": "4b94d0b7a0b6475fb89be597cc67e79a95bbea98",
+      "mtime": "1660497342",
+      "size": "97418",
+      "md5": "36048c0f6e283b551a9cfa5fe8e3a472",
+      "crc32": "ae819e68",
+      "sha1": "aaffa188ef86329ec210119164549cb797b238fa",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ctvnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "90aba2bf573b486580c1b92564949d81",
+      "md5": "0befcf7ccce4e9e6bd29795b13fb89e6",
       "summation": "md5"
     },
     {
       "name": "ctvnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660459298",
-      "size": "536576",
-      "md5": "d157ecec38d70d20f8338d3732e37bd3",
-      "crc32": "94aa1557",
-      "sha1": "a62a620e079baed72c307a7475c04976df47f78e",
+      "mtime": "1660497268",
+      "size": "544768",
+      "md5": "da83e6fa5834f555186244829afd1483",
+      "crc32": "a3108384",
+      "sha1": "73ccae35f5242555fcf85f490f8d8f1b3b08ca9b",
       "format": "Metadata"
     },
     {
@@ -4764,9 +4820,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 454,
-  "item_last_updated": 1660459395,
-  "item_size": 55845076,
+  "files_count": 459,
+  "item_last_updated": 1660497342,
+  "item_size": 56359533,
   "metadata": {
     "identifier": "ctvnews-2022",
     "collection": [
@@ -4783,10 +4839,10 @@
     "publicdate": "2022-06-30 22:35:40",
     "addeddate": "2022-06-30 22:35:40"
   },
-  "server": "ia802505.us.archive.org",
-  "uniq": 497569748,
+  "server": "ia902505.us.archive.org",
+  "uniq": 1356496390,
   "workable_servers": [
-    "ia802505.us.archive.org",
-    "ia902505.us.archive.org"
+    "ia902505.us.archive.org",
+    "ia802505.us.archive.org"
   ]
 }

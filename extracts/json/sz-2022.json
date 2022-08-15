@@ -1,6 +1,6 @@
 {
-  "conflict": 1660485603,
-  "created": 1660485603,
+  "conflict": 1660527095,
+  "created": 1660527095,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/19/items/sz-2022",
@@ -575,23 +575,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3367573149,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3368676283,
+      "cmd": "archive.php",
+      "priority": -5,
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
-    },
-    {
-      "task_id": 3367573316,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
     }
   ],
-  "uniq": 789945309,
+  "uniq": 507835142,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

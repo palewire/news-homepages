@@ -1,5 +1,5 @@
 {
-  "created": 1660460562,
+  "created": 1660526887,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/10/items/portlandmercury-2022",
@@ -3306,31 +3306,93 @@
       "sha1": "0ebf85e2899f5fc1eaeacedf7ff361d53bcde67d"
     },
     {
+      "name": "portlandmercury-2022-08-14T11:56:26.882092-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660503392",
+      "size": "21230",
+      "md5": "952a06cf872770ca68b7a2b56472594f",
+      "crc32": "81386ae8",
+      "sha1": "525bcefe4d31d211c1154e7ca93678a9da89a90d",
+      "format": "JSON"
+    },
+    {
+      "name": "portlandmercury-2022-08-14T11:56:26.882092-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660503394",
+      "size": "21778",
+      "md5": "a1ef0323503e73d670c8791907dab9e1",
+      "crc32": "50d809bb",
+      "sha1": "35642a283bb89b2421f27b49835c62b72ce55d1e",
+      "format": "JSON"
+    },
+    {
+      "name": "portlandmercury-2022-08-14T11:56:26.882092-07:00.jpg",
+      "source": "original",
+      "mtime": "1660503388",
+      "size": "332213",
+      "md5": "706aec134eb2e814ffd2b79509cb0461",
+      "crc32": "f6b30dcf",
+      "sha1": "9694dc39c2dcd827803d3a76ac84d2232d25193f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "portlandmercury-2022-08-14T11:56:26.882092-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660503395",
+      "size": "1540",
+      "md5": "481a08e271a5a10fe129228e07c45322",
+      "crc32": "c9b75e3a",
+      "sha1": "b19973b0572076c125ee7e2d2e96fcb314483563",
+      "format": "JSON"
+    },
+    {
+      "name": "portlandmercury-2022-08-14T11:56:26.882092-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660503397",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "portlandmercury-2022-08-14T11:56:26.882092-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "portlandmercury-2022-08-14T11:56:26.882092-07:00.jpg",
+      "mtime": "1660503487",
+      "size": "10268",
+      "md5": "c107ebf70656cbfe7db1a76ddb5a40ac",
+      "crc32": "601619f0",
+      "sha1": "414977efcd1a9982d77198091597d577d75851fd"
+    },
+    {
       "name": "portlandmercury-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3e40e3b17c209c4b0b4f5fdc3971b0b0d2416538",
-      "mtime": "1660460553",
-      "size": "70674",
-      "md5": "00c3e4fea497c02ffab3eeee471113d6",
-      "crc32": "cc81a972",
-      "sha1": "19ff896753825e3ef159d2d1d822330bfc48dcbc",
+      "btih": "7c210259798409bb8b870e7e3b8275d3501ce2ae",
+      "mtime": "1660503491",
+      "size": "71982",
+      "md5": "67496941480a59408408fc6a86329825",
+      "crc32": "6de2acec",
+      "sha1": "57c059763fe16d43b54606aa9ee127244b7ea8d5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "portlandmercury-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "722cd3a58b7bc2b3ec1d82521501a1d4",
+      "md5": "696e908455d87b361e09a0cd4a857b77",
       "summation": "md5"
     },
     {
       "name": "portlandmercury-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660460490",
-      "size": "417792",
-      "md5": "83d37085b2118e4dd56dc7213d546875",
-      "crc32": "fed9b6e8",
-      "sha1": "dbfa1c02de7d181c52c0f0c8c9c5465934426822",
+      "mtime": "1660503401",
+      "size": "425984",
+      "md5": "5364c7e9d1a4c8c3faaccd791103b37f",
+      "crc32": "d3b47d74",
+      "sha1": "95560ad9fc8305cd60d022eac7b8cc42e87dd2b5",
       "format": "Metadata"
     },
     {
@@ -3344,9 +3406,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 322,
-  "item_last_updated": 1660460553,
-  "item_size": 21403065,
+  "files_count": 328,
+  "item_last_updated": 1660503491,
+  "item_size": 21799796,
   "metadata": {
     "identifier": "portlandmercury-2022",
     "collection": [
@@ -3363,8 +3425,13 @@
     "publicdate": "2022-07-04 21:51:34",
     "addeddate": "2022-07-04 21:51:34"
   },
+  "portlandmercury-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "server": "ia801408.us.archive.org",
-  "uniq": 1029644076,
+  "uniq": 312039495,
   "workable_servers": [
     "ia801408.us.archive.org",
     "ia601408.us.archive.org"

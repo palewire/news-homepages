@@ -1,8 +1,12 @@
 {
-  "created": 1660459592,
+  "created": 1660526282,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/26/items/enquirer-2022",
+  "enquirer-2022": {
+    "url": "https://www.cincinnati.com/",
+    "job_id": "spn2-03f731eed4a80851cf4bac7945e0732bc8fb4b93"
+  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -78,31 +82,93 @@
       "sha1": "453db80d2889f96365fe5ec0cd219e2b3b056ec1"
     },
     {
+      "name": "enquirer-2022-08-14T13:18:05.520562-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660497488",
+      "size": "21142",
+      "md5": "1a80bde7f19342565c26a6f9f25778d8",
+      "crc32": "e53bffaa",
+      "sha1": "e0c678dbcddfb96dd0f41b27df53b5eb00013a0b",
+      "format": "JSON"
+    },
+    {
+      "name": "enquirer-2022-08-14T13:18:05.520562-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660497490",
+      "size": "42373",
+      "md5": "f6e10b7628f5c83aa809abd12343b788",
+      "crc32": "a347d440",
+      "sha1": "7eef8113cf5132f88b0466409c96029c0bd70f4f",
+      "format": "JSON"
+    },
+    {
+      "name": "enquirer-2022-08-14T13:18:05.520562-04:00.jpg",
+      "source": "original",
+      "mtime": "1660497487",
+      "size": "268413",
+      "md5": "332d6294326d0d936b91be75f1db6609",
+      "crc32": "cb35078f",
+      "sha1": "3637efa1a0ed2bea87fbdac2f1a2fd93d1f1b64e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "enquirer-2022-08-14T13:18:05.520562-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660497492",
+      "size": "1495",
+      "md5": "047f0a43bb432b42d66c1d0bcf83ab50",
+      "crc32": "e67cf1fa",
+      "sha1": "fab9e1ad44ddcc3d6f73f1614bad3cee3749e705",
+      "format": "JSON"
+    },
+    {
+      "name": "enquirer-2022-08-14T13:18:05.520562-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660497494",
+      "size": "103",
+      "md5": "181cbd796acf527c61f28f61c81bc985",
+      "crc32": "a09722c5",
+      "sha1": "e85261a0ce4f58bfce7dfb853e99d2824ca9941f",
+      "format": "JSON"
+    },
+    {
+      "name": "enquirer-2022-08-14T13:18:05.520562-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "enquirer-2022-08-14T13:18:05.520562-04:00.jpg",
+      "mtime": "1660497554",
+      "size": "9319",
+      "md5": "722c5f0479efcc751b1fbb9fd7011dd9",
+      "crc32": "4f388837",
+      "sha1": "cc2303f27c23bd90c7e7069f403590f5971522e8"
+    },
+    {
       "name": "enquirer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "67137a703f4480e49276f390723b48592aed2976",
-      "mtime": "1660459585",
-      "size": "2873",
-      "md5": "987aa933c386358815b6641e50a67460",
-      "crc32": "4f4e36c4",
-      "sha1": "1a82a554ee9019fa63d75a30a8e395f083101c55",
+      "btih": "8ee9e65cb995197738a98a7eb5446f57aeda1475",
+      "mtime": "1660497559",
+      "size": "4138",
+      "md5": "2770809096e53cb56ee050eb3b340050",
+      "crc32": "d7944498",
+      "sha1": "119e5d922c937bcc9f447deaac25d2b1a1c9a6f8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "enquirer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "804c8769f1a68b8a3e229725f7faacdd",
+      "md5": "32ffb52cb78f05c2761a4bc14ebae0f1",
       "summation": "md5"
     },
     {
       "name": "enquirer-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660459540",
-      "size": "28672",
-      "md5": "f16bc4c47b295e90c1cbb3413936827d",
-      "crc32": "eebe3820",
-      "sha1": "09db7ce76463446e345f207efe00759708f1f843",
+      "mtime": "1660497499",
+      "size": "36864",
+      "md5": "b873a863572ef8d164cd4473a4919609",
+      "crc32": "8b9b837d",
+      "sha1": "aa7f86a73629dd38b08125fbbb9aeb508bdd6e78",
       "format": "Metadata"
     },
     {
@@ -116,9 +182,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 11,
-  "item_last_updated": 1660459585,
-  "item_size": 471971,
+  "files_count": 17,
+  "item_last_updated": 1660497559,
+  "item_size": 824273,
   "metadata": {
     "identifier": "enquirer-2022",
     "collection": [
@@ -135,10 +201,10 @@
     "publicdate": "2022-08-14 06:45:31",
     "addeddate": "2022-08-14 06:45:31"
   },
-  "server": "ia601502.us.archive.org",
-  "uniq": 1798629454,
+  "server": "ia801502.us.archive.org",
+  "uniq": 2081712774,
   "workable_servers": [
-    "ia601502.us.archive.org",
-    "ia801502.us.archive.org"
+    "ia801502.us.archive.org",
+    "ia601502.us.archive.org"
   ]
 }

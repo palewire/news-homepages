@@ -1,5 +1,5 @@
 {
-  "created": 1660485563,
+  "created": 1660527091,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/26/items/sputnikint-2022",
@@ -4640,31 +4640,93 @@
       "sha1": "fe2de93420a43ef9e274b092a2bf3d3f01ea71e3"
     },
     {
+      "name": "sputnikint-2022-08-14T20:02:34.944017+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660496558",
+      "size": "38950",
+      "md5": "ded46ab9c16fad7a0f85a869d3a02a2f",
+      "crc32": "7ce0676f",
+      "sha1": "dda73befc44760cc739653a97787ca190bd8d264",
+      "format": "JSON"
+    },
+    {
+      "name": "sputnikint-2022-08-14T20:02:34.944017+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660496559",
+      "size": "32819",
+      "md5": "62f04ef63f71a5049dabe26be04fb013",
+      "crc32": "a582e30e",
+      "sha1": "d4bbf1f551004a41dd513ccc81064843845f361e",
+      "format": "JSON"
+    },
+    {
+      "name": "sputnikint-2022-08-14T20:02:34.944017+03:00.jpg",
+      "source": "original",
+      "mtime": "1660496556",
+      "size": "371942",
+      "md5": "5bad8b912747eacc2b38b975b6b3f08d",
+      "crc32": "426d1dc0",
+      "sha1": "eb8428821b88a2793c577900adc620dae14cf8ad",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sputnikint-2022-08-14T20:02:34.944017+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660496561",
+      "size": "1468",
+      "md5": "d99431ea07f91dd42085b0de0d562040",
+      "crc32": "71eac944",
+      "sha1": "d14b44ecb7d4bbdce3fdc0e3a385995d53ebc310",
+      "format": "JSON"
+    },
+    {
+      "name": "sputnikint-2022-08-14T20:02:34.944017+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1660496562",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "sputnikint-2022-08-14T20:02:34.944017+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sputnikint-2022-08-14T20:02:34.944017+03:00.jpg",
+      "mtime": "1660496628",
+      "size": "11494",
+      "md5": "580903ef1cec76beb355dd02a5c1d08d",
+      "crc32": "b344c267",
+      "sha1": "bcb44fa63909afcfaf0b1d1d833da5cfd454ef1c"
+    },
+    {
       "name": "sputnikint-2022_archive.torrent",
       "source": "metadata",
-      "btih": "621e0e838f1adda676deafd6203dd034c99d1cc2",
-      "mtime": "1660461688",
-      "size": "96592",
-      "md5": "1a7147a5a6f0eb822eca6304c551581a",
-      "crc32": "bd2d4921",
-      "sha1": "33b49c7c8a9c70995c3952c335c53620f4c310f9",
+      "btih": "2281d5f7ce12f3e47f767b358e677ec471203313",
+      "mtime": "1660496635",
+      "size": "97850",
+      "md5": "9bda68554f64fc5fd2e1f7de18bccc85",
+      "crc32": "1a795035",
+      "sha1": "d16fdefe7a8772a51e18a80bd721d4d9b3d21f81",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sputnikint-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "012e1aaed146849bf128948957ceee63",
+      "md5": "c123178eaa5dd733ce4757a471141d81",
       "summation": "md5"
     },
     {
       "name": "sputnikint-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660461616",
-      "size": "565248",
-      "md5": "d36ccd25fbffb52cc95fd845a71ab291",
-      "crc32": "027cdc8b",
-      "sha1": "2842d5ed2986f2e0c6ef28bc36a64e76e205481a",
+      "mtime": "1660496575",
+      "size": "577536",
+      "md5": "cf7a6f9cf2df46762e77197c25bc40dd",
+      "crc32": "f6406821",
+      "sha1": "0b75429ae932515318c30956ee9e0860640b9ba9",
       "format": "Metadata"
     },
     {
@@ -4678,9 +4740,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 450,
-  "item_last_updated": 1660461688,
-  "item_size": 40472093,
+  "files_count": 456,
+  "item_last_updated": 1660496635,
+  "item_size": 40942514,
   "metadata": {
     "identifier": "sputnikint-2022",
     "collection": [
@@ -4699,15 +4761,11 @@
   },
   "server": "ia601502.us.archive.org",
   "sputnikint-2022": {
-    "url": "https://sputniknews.com/",
-    "job_id": "spn2-4aa2cd916dec021ce601758f938cf74f21f8c398",
-    "status_ext": "error:job-failed",
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
     "status": "error",
-    "resources": [],
-    "duration_sec": 1.29,
-    "message": "Job failed."
+    "status_ext": "error:user-session-limit"
   },
-  "uniq": 2091038799,
+  "uniq": 1064874565,
   "workable_servers": [
     "ia601502.us.archive.org",
     "ia801502.us.archive.org"

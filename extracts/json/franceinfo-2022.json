@@ -1,5 +1,5 @@
 {
-  "created": 1660465498,
+  "created": 1660526356,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/10/items/franceinfo-2022",
@@ -12140,31 +12140,83 @@
       "sha1": "0045f8ed185ff1035aa1745d2d9518036d161192"
     },
     {
+      "name": "franceinfo-2022-08-14T19:18:13.124050+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660497496",
+      "size": "86456",
+      "md5": "cab33da83334b64ca832278ec346f33e",
+      "crc32": "388e4fbc",
+      "sha1": "4880a3296fd8f3a6882acc2f62a02726724f05a9",
+      "format": "JSON"
+    },
+    {
+      "name": "franceinfo-2022-08-14T19:18:13.124050+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660497498",
+      "size": "132830",
+      "md5": "9b5269b5dfe1958e18222de9b754c52c",
+      "crc32": "774a3c0c",
+      "sha1": "17a3b921113b2e297ff47ad341147ca2c6c35a9d",
+      "format": "JSON"
+    },
+    {
+      "name": "franceinfo-2022-08-14T19:18:13.124050+02:00.jpg",
+      "source": "original",
+      "mtime": "1660497494",
+      "size": "329027",
+      "md5": "6500464bd2f8cb1d47587d84c869d628",
+      "crc32": "fd773d20",
+      "sha1": "50d402f7baf891f9a4f7b0fc70f8cb607e742604",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "franceinfo-2022-08-14T19:18:13.124050+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660497500",
+      "size": "1531",
+      "md5": "7824e59799baa2b8970a3f96deb3ea53",
+      "crc32": "db3cb5c6",
+      "sha1": "58e82712c540a440f39b2ece28a04325193c5bff",
+      "format": "JSON"
+    },
+    {
+      "name": "franceinfo-2022-08-14T19:18:13.124050+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "franceinfo-2022-08-14T19:18:13.124050+02:00.jpg",
+      "mtime": "1660497618",
+      "size": "10316",
+      "md5": "fd56fa09d05802a441f77ab505877bc7",
+      "crc32": "39913c9c",
+      "sha1": "2902d7804a64b18b81fda8b4e1fbb5962a9b4d36"
+    },
+    {
       "name": "franceinfo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9d5c61bea0d8aa4beffd771c3530798bd3e8ea01",
-      "mtime": "1660465490",
-      "size": "250723",
-      "md5": "47ed22494b8485d74ca7c127d5dd3b48",
-      "crc32": "be075599",
-      "sha1": "9648c90ee2d10967f885d355ab49c51d962f6820",
+      "btih": "f47ae149b29fabb0102767033cfe998fc8b3c173",
+      "mtime": "1660497636",
+      "size": "251794",
+      "md5": "20653643ce42d0009b736a555ca72fa0",
+      "crc32": "e0e72a29",
+      "sha1": "66b79c38c397a033cecde4847f5b506b9b2a37c0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "franceinfo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "193ec9c1a7b8e2ffa5cf523c6774d66a",
+      "md5": "8e63b1b5f309fe027fbcdd86698bfa57",
       "summation": "md5"
     },
     {
       "name": "franceinfo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660465404",
-      "size": "1380352",
-      "md5": "f0b8c274930e0de3a1b5ef866cc63d03",
-      "crc32": "d9d5a01a",
-      "sha1": "dd75ab4aa73a01e63689726cbd378caab4c40045",
+      "mtime": "1660497507",
+      "size": "1384448",
+      "md5": "68dc3f524d800f60d7d06873b9cb86c9",
+      "crc32": "b2ab3627",
+      "sha1": "eacd90b75d4ede27b44c50ee8b2d11a64fe592cb",
       "format": "Metadata"
     },
     {
@@ -12178,9 +12230,50 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1164,
-  "item_last_updated": 1660465490,
-  "item_size": 152548004,
+  "files_count": 1169,
+  "franceinfo-2022": [
+    {
+      "url": "https://mobile.francetvinfo.fr/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/mobile_francetvinfo_fr-_-2022_08_14_16_24_43.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/mobile_francetvinfo_fr-_-2022_08_14_16_24_43.report.json",
+      "summary": {
+        "performance": 0.36,
+        "accessibility": 0.85,
+        "best-practices": 0.75,
+        "seo": 0.92,
+        "pwa": 0.9
+      }
+    },
+    {
+      "url": "https://mobile.francetvinfo.fr/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/mobile_francetvinfo_fr-_-2022_08_14_16_24_59.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/mobile_francetvinfo_fr-_-2022_08_14_16_24_59.report.json",
+      "summary": {
+        "performance": 0.42,
+        "accessibility": 0.85,
+        "best-practices": 0.75,
+        "seo": 0.92,
+        "pwa": 0.9
+      }
+    },
+    {
+      "url": "https://mobile.francetvinfo.fr/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/mobile_francetvinfo_fr-_-2022_08_14_16_25_13.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/mobile_francetvinfo_fr-_-2022_08_14_16_25_13.report.json",
+      "summary": {
+        "performance": 0.34,
+        "accessibility": 0.85,
+        "best-practices": 0.75,
+        "seo": 0.92,
+        "pwa": 0.9
+      }
+    }
+  ],
+  "item_last_updated": 1660497636,
+  "item_size": 153113331,
   "metadata": {
     "identifier": "franceinfo-2022",
     "collection": [
@@ -12197,10 +12290,10 @@
     "publicdate": "2022-04-09 13:42:09",
     "addeddate": "2022-04-09 13:42:09"
   },
-  "server": "ia902504.us.archive.org",
-  "uniq": 332260299,
+  "server": "ia802504.us.archive.org",
+  "uniq": 1116951092,
   "workable_servers": [
-    "ia902504.us.archive.org",
-    "ia802504.us.archive.org"
+    "ia802504.us.archive.org",
+    "ia902504.us.archive.org"
   ]
 }

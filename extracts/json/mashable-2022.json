@@ -1,5 +1,5 @@
 {
-  "created": 1660485066,
+  "created": 1660526704,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/22/items/mashable-2022",
@@ -4680,31 +4680,93 @@
       "sha1": "fc526c5c82238a345182419b8cb82c05779fc455"
     },
     {
+      "name": "mashable-2022-08-14T10:26:04.138748-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660497967",
+      "size": "22640",
+      "md5": "501dd60848dc7125f394e88eef47f668",
+      "crc32": "766fe2f0",
+      "sha1": "782101c9df4edb41b5a8bc1716b38869bfe5e14d",
+      "format": "JSON"
+    },
+    {
+      "name": "mashable-2022-08-14T10:26:04.138748-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660497969",
+      "size": "25397",
+      "md5": "147035e7898b21df1c4b419a47a29cc1",
+      "crc32": "7af7b614",
+      "sha1": "c2ded4f083e529312a23eb3ff68d3579e0a13fe1",
+      "format": "JSON"
+    },
+    {
+      "name": "mashable-2022-08-14T10:26:04.138748-07:00.jpg",
+      "source": "original",
+      "mtime": "1660497965",
+      "size": "283139",
+      "md5": "a60ca376fe1fb5003778e8d8dcfa9944",
+      "crc32": "30caf816",
+      "sha1": "f37c0245523668f96768bd1a15409d835b8db471",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mashable-2022-08-14T10:26:04.138748-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660497971",
+      "size": "1441",
+      "md5": "fc0fc1b5bb4fe84143cf04173a466c0b",
+      "crc32": "480f9a3f",
+      "sha1": "1e2250b98d412719c91674242fe77fc93bf09202",
+      "format": "JSON"
+    },
+    {
+      "name": "mashable-2022-08-14T10:26:04.138748-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660497973",
+      "size": "263",
+      "md5": "616b64f294fb14b769e7872c1a5a4880",
+      "crc32": "d32278f1",
+      "sha1": "e2f019ddfa311c49751037989205c704f87449e0",
+      "format": "JSON"
+    },
+    {
+      "name": "mashable-2022-08-14T10:26:04.138748-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mashable-2022-08-14T10:26:04.138748-07:00.jpg",
+      "mtime": "1660498060",
+      "size": "10471",
+      "md5": "c9f01ebbb01a3bb5c02bb9b60c8956d2",
+      "crc32": "c79b8af1",
+      "sha1": "2312a41ea229e596142fce2d52ec6783df6abe7f"
+    },
+    {
       "name": "mashable-2022_archive.torrent",
       "source": "metadata",
-      "btih": "60280633da63ec046bf37bc35535358cc1e72374",
-      "mtime": "1660460149",
-      "size": "95691",
-      "md5": "ef7115b830339eeb0353493107d5f05a",
-      "crc32": "f825e38c",
-      "sha1": "3ceb94e782d6570414f11d516178c82cc67450c2",
+      "btih": "5d76f0402c2180be2e90bbc3163342e69657420a",
+      "mtime": "1660498066",
+      "size": "96957",
+      "md5": "b857450538e016e073b6c0db6b10faf4",
+      "crc32": "55efc2de",
+      "sha1": "b4c314f4012e319dd01859253a7bcebe39ca08cd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mashable-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e22c3a10faa605a339384eadfcf2cee9",
+      "md5": "6ea3495aed533be63cf6916c6a83f4e1",
       "summation": "md5"
     },
     {
       "name": "mashable-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660460031",
-      "size": "552960",
-      "md5": "12108d3f898467a5b2fdc8b4426db6b4",
-      "crc32": "366ea371",
-      "sha1": "4cbf9e500e5d66ef227e51c6a0800696109a2cc0",
+      "mtime": "1660497979",
+      "size": "561152",
+      "md5": "f30264ce3c75395d1caccc2b1aa9aa4d",
+      "crc32": "dc0e6e94",
+      "sha1": "dd13d9da36890384674bb368ea54d1061673960b",
       "format": "Metadata"
     },
     {
@@ -4718,17 +4780,13 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 452,
-  "item_last_updated": 1660460149,
-  "item_size": 32336976,
+  "files_count": 458,
+  "item_last_updated": 1660498066,
+  "item_size": 32689785,
   "mashable-2022": {
     "url": "https://mashable.com/",
     "job_id": "spn2-e16227771bd08be5be666f6b7fe3a138b6bd7bda",
-    "status_ext": "error:job-failed",
-    "status": "error",
-    "resources": [],
-    "duration_sec": 0.599,
-    "message": "Job failed."
+    "message": "The capture will start in ~3 minutes because our service is currently overloaded. You may close your browser window and the page will still be saved."
   },
   "metadata": {
     "identifier": "mashable-2022",
@@ -4747,7 +4805,7 @@
     "addeddate": "2022-07-04 20:17:39"
   },
   "server": "ia601400.us.archive.org",
-  "uniq": 142149719,
+  "uniq": 1392731802,
   "workable_servers": [
     "ia601400.us.archive.org",
     "ia801400.us.archive.org"

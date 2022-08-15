@@ -1,5 +1,5 @@
 {
-  "created": 1660460205,
+  "created": 1660526686,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/0/items/lookoutscruz-2022",
@@ -4048,31 +4048,93 @@
       "sha1": "74b6c4edc2f344c3a3a01d210598e9beab1b1c96"
     },
     {
+      "name": "lookoutscruz-2022-08-14T10:25:46.659598-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660497952",
+      "size": "15516",
+      "md5": "db6b5d4a54e4cb5d052eaf1b978294c7",
+      "crc32": "4d4435e1",
+      "sha1": "823b258ff975cd948b20b2ae33b2a17831fb3925",
+      "format": "JSON"
+    },
+    {
+      "name": "lookoutscruz-2022-08-14T10:25:46.659598-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660497953",
+      "size": "61018",
+      "md5": "82ff2864b1b21f174cb8e1e9defc554d",
+      "crc32": "d5e5e468",
+      "sha1": "10866f341f6feda697e4ec337cb04fc5ead42b7c",
+      "format": "JSON"
+    },
+    {
+      "name": "lookoutscruz-2022-08-14T10:25:46.659598-07:00.jpg",
+      "source": "original",
+      "mtime": "1660497950",
+      "size": "281454",
+      "md5": "1ee6194eae6844d652cc893633c0e4d3",
+      "crc32": "139aacc0",
+      "sha1": "eb3c51df361dacc90accb13a79fe8ec819ec973b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lookoutscruz-2022-08-14T10:25:46.659598-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660497957",
+      "size": "1509",
+      "md5": "4741aea43bcdcfa3da647dd0ffee9752",
+      "crc32": "f6c92e8b",
+      "sha1": "f078522f3d338f706f669319467ce970f84c70ef",
+      "format": "JSON"
+    },
+    {
+      "name": "lookoutscruz-2022-08-14T10:25:46.659598-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660497961",
+      "size": "271",
+      "md5": "ebcfed69b6d2c0714a4b3eb0209bf1e3",
+      "crc32": "8c50f336",
+      "sha1": "639d9b326cf4006302a18395860427adb0531241",
+      "format": "JSON"
+    },
+    {
+      "name": "lookoutscruz-2022-08-14T10:25:46.659598-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lookoutscruz-2022-08-14T10:25:46.659598-07:00.jpg",
+      "mtime": "1660498032",
+      "size": "10890",
+      "md5": "983f4cecdd9c039a7756bcd17de3d579",
+      "crc32": "25449a31",
+      "sha1": "4b6c1c00dd729971c82a1390c88c5dbf305eaf7c"
+    },
+    {
       "name": "lookoutscruz-2022_archive.torrent",
       "source": "metadata",
-      "btih": "924ddbdca320420891b0f134418241c6f67995b7",
-      "mtime": "1660460154",
-      "size": "84931",
-      "md5": "bdb8d644bbd706735cc72547dcb37859",
-      "crc32": "2cef01cd",
-      "sha1": "6f2e701a913c3e4a4d6572914860d18f719c056c",
+      "btih": "18eaa48629b838266b680e08416f08abeec4c66a",
+      "mtime": "1660498038",
+      "size": "86221",
+      "md5": "270950cef27f29a5fbc9feda3d59139a",
+      "crc32": "fe993d63",
+      "sha1": "b169ea33673fc2feef85790572ef0108a43cdba3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lookoutscruz-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e830837a69df54ced6e0c7b95274504a",
+      "md5": "2d0dafe02371ed3ba6a2882f17db7f51",
       "summation": "md5"
     },
     {
       "name": "lookoutscruz-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660459964",
-      "size": "491520",
-      "md5": "eba0cb21c3db9d9535a44f2933c0ebc1",
-      "crc32": "26fd4423",
-      "sha1": "8fc7d1aec249e93f3b4590c1126752d89656a228",
+      "mtime": "1660497966",
+      "size": "499712",
+      "md5": "556c4c2b3bfa2537824ded2b977a3a91",
+      "crc32": "cca959a3",
+      "sha1": "7a0d746a8bb3affa574dbd5a3c29e3549d530650",
       "format": "Metadata"
     },
     {
@@ -4086,9 +4148,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 392,
-  "item_last_updated": 1660460154,
-  "item_size": 34592936,
+  "files_count": 398,
+  "item_last_updated": 1660498038,
+  "item_size": 34973076,
+  "lookoutscruz-2022": {
+    "url": "https://lookout.co/santacruz/",
+    "job_id": "spn2-e5ea979ff138aa1a4ba55d862f8e2cdc8f19b04a",
+    "message": "The capture will start in ~3 minutes because our service is currently overloaded. You may close your browser window and the page will still be saved."
+  },
   "metadata": {
     "identifier": "lookoutscruz-2022",
     "collection": [
@@ -4105,10 +4172,10 @@
     "publicdate": "2022-07-09 04:00:07",
     "addeddate": "2022-07-09 04:00:07"
   },
-  "server": "ia801409.us.archive.org",
-  "uniq": 1280416104,
+  "server": "ia601409.us.archive.org",
+  "uniq": 1218623508,
   "workable_servers": [
-    "ia801409.us.archive.org",
-    "ia601409.us.archive.org"
+    "ia601409.us.archive.org",
+    "ia801409.us.archive.org"
   ]
 }

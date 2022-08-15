@@ -1,5 +1,5 @@
 {
-  "created": 1660483705,
+  "created": 1660525515,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/15/items/cityandstateny-2022",
@@ -1432,31 +1432,93 @@
       "sha1": "094fa817b7838f8ccec853682a32fc287f3377ed"
     },
     {
+      "name": "cityandstateny-2022-08-14T21:04:07.303440-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660525450",
+      "size": "28202",
+      "md5": "6364f8602412fc047900b009dc90ab74",
+      "crc32": "039686b0",
+      "sha1": "87bfa69de01940cf54f9a307a4cee6590e79c90d",
+      "format": "JSON"
+    },
+    {
+      "name": "cityandstateny-2022-08-14T21:04:07.303440-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660525451",
+      "size": "28640",
+      "md5": "e30577eecf4531f1df3552318aa5af09",
+      "crc32": "05e5786d",
+      "sha1": "0e5a23742f833714e4c103fe995cebcca6cb61c9",
+      "format": "JSON"
+    },
+    {
+      "name": "cityandstateny-2022-08-14T21:04:07.303440-04:00.jpg",
+      "source": "original",
+      "mtime": "1660525448",
+      "size": "307922",
+      "md5": "52157a2176c66c07c2fa8a47693de704",
+      "crc32": "c7b306fe",
+      "sha1": "4c0f46c826e3539bd3063c1fd1fd03e9fca1e87c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cityandstateny-2022-08-14T21:04:07.303440-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660525453",
+      "size": "1531",
+      "md5": "587b327a9a1db32dd9beefb9bb2c4c37",
+      "crc32": "72bd25be",
+      "sha1": "24bf92531122ef96df974de5e369ba0509e1f428",
+      "format": "JSON"
+    },
+    {
+      "name": "cityandstateny-2022-08-14T21:04:07.303440-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660525454",
+      "size": "35819",
+      "md5": "2401df4f87da09eac80570dd22c1da5b",
+      "crc32": "2d5c1512",
+      "sha1": "af2cb6adc63a3395458e9bae9c9097d70513a8fb",
+      "format": "JSON"
+    },
+    {
+      "name": "cityandstateny-2022-08-14T21:04:07.303440-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cityandstateny-2022-08-14T21:04:07.303440-04:00.jpg",
+      "mtime": "1660525506",
+      "size": "9778",
+      "md5": "c718a5bef0e24097912cda8b1244d2b1",
+      "crc32": "d51e4bbc",
+      "sha1": "f92df79698a92b506700da9c68296e169b0c87d4"
+    },
+    {
       "name": "cityandstateny-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5bdd752d59bb2c9908cfbcceccb398deddd9a481",
-      "mtime": "1660483700",
-      "size": "31333",
-      "md5": "621402a39fc6a27b2802edb258d45f92",
-      "crc32": "515e8d32",
-      "sha1": "4e6348429ad2cd162e2fd7b949b1dce820b78674",
+      "btih": "4cad2dd6c04bc677186433e6265f3494f18b3760",
+      "mtime": "1660525508",
+      "size": "32636",
+      "md5": "9d859d411a0a4755a7e162e5e5eb2490",
+      "crc32": "9e7c7061",
+      "sha1": "2845ca7850ec29530af4198761067af93009fcf3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cityandstateny-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "80a217283e12a7258804431c87aa9ee2",
+      "md5": "c5426be4c8a454167df00d85bf9f7182",
       "summation": "md5"
     },
     {
       "name": "cityandstateny-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660483646",
-      "size": "196608",
-      "md5": "d461a595e14530e3803902b4cc777930",
-      "crc32": "f472d887",
-      "sha1": "42ce1949fd9dbcca1faaf50ec1107d25fb24f631",
+      "mtime": "1660525459",
+      "size": "204800",
+      "md5": "63d08733c800adb78ef16f53eaeb49cb",
+      "crc32": "d6450a93",
+      "sha1": "f03e9c9927ecd6a36365ea16d905f5f72619d990",
       "format": "Metadata"
     },
     {
@@ -1470,9 +1532,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 142,
-  "item_last_updated": 1660483700,
-  "item_size": 9300506,
+  "files_count": 148,
+  "item_last_updated": 1660525508,
+  "item_size": 9721893,
   "metadata": {
     "identifier": "cityandstateny-2022",
     "collection": [
@@ -1489,10 +1551,10 @@
     "publicdate": "2022-08-02 23:21:27",
     "addeddate": "2022-08-02 23:21:27"
   },
-  "server": "ia802502.us.archive.org",
-  "uniq": 578251291,
+  "server": "ia902502.us.archive.org",
+  "uniq": 1428627632,
   "workable_servers": [
-    "ia802502.us.archive.org",
-    "ia902502.us.archive.org"
+    "ia902502.us.archive.org",
+    "ia802502.us.archive.org"
   ]
 }

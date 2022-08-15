@@ -1,8 +1,12 @@
 {
-  "created": 1660459477,
+  "created": 1660526271,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/4/items/elmundoes-2022",
+  "elmundoes-2022": {
+    "url": "https://www.elmundo.es/",
+    "job_id": "spn2-8e8b9199e850e3bd3f94990f8ac7df7fb44c08aa"
+  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -1798,31 +1802,93 @@
       "sha1": "a767de4865a9421827f93351d8f4a9fad7fc4e08"
     },
     {
+      "name": "elmundoes-2022-08-14T19:16:40.235110+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660497403",
+      "size": "35214",
+      "md5": "4077573c51daf2e9c51918e451f0c917",
+      "crc32": "7c582090",
+      "sha1": "bb53a5840a5821b13d3f239fc7e1b5aa6f123beb",
+      "format": "JSON"
+    },
+    {
+      "name": "elmundoes-2022-08-14T19:16:40.235110+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660497404",
+      "size": "46362",
+      "md5": "cbae69e49ca3c8f76f6123fe08ceaf00",
+      "crc32": "eccf7d5a",
+      "sha1": "313afa45a34e8d8e067010ed4dde59f5fde31789",
+      "format": "JSON"
+    },
+    {
+      "name": "elmundoes-2022-08-14T19:16:40.235110+02:00.jpg",
+      "source": "original",
+      "mtime": "1660497401",
+      "size": "304957",
+      "md5": "bcb7c5744ed3ad4d4922c591271c8a86",
+      "crc32": "32fa654a",
+      "sha1": "da9575dd3ec02728586567722c3aac9472d7d48f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "elmundoes-2022-08-14T19:16:40.235110+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660497406",
+      "size": "1459",
+      "md5": "1058d6dbd1a31783bd1a7708eede2161",
+      "crc32": "f60a26cd",
+      "sha1": "167cfc075012b9402626d401d0befe274e9cce6d",
+      "format": "JSON"
+    },
+    {
+      "name": "elmundoes-2022-08-14T19:16:40.235110+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1660497408",
+      "size": "99",
+      "md5": "2ffdc07d23f045b3cc042c901728c9c7",
+      "crc32": "ba914e02",
+      "sha1": "9b1598cedd712197a6a53d8a942119266a54b518",
+      "format": "JSON"
+    },
+    {
+      "name": "elmundoes-2022-08-14T19:16:40.235110+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "elmundoes-2022-08-14T19:16:40.235110+02:00.jpg",
+      "mtime": "1660497461",
+      "size": "9065",
+      "md5": "081d36a0ec4e7f5e494e5b551f68ab93",
+      "crc32": "7f2d131f",
+      "sha1": "69a81f924d69bdaa3d36fc0bcc19e7aee8bae4dc"
+    },
+    {
       "name": "elmundoes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c82b7a8449e1f6c1199c98f33f7ed18d6beb0b84",
-      "mtime": "1660459467",
-      "size": "37997",
-      "md5": "28f2a91a0806fb677f168e343cdc526c",
-      "crc32": "87a7acdc",
-      "sha1": "132e6e37e579461c40a2724630570178ab167080",
+      "btih": "e025ab7aa64ba81b761a323e8ed34ecbc292db29",
+      "mtime": "1660497466",
+      "size": "39267",
+      "md5": "e629555c6d83503529d5c123168df7a8",
+      "crc32": "c4f36949",
+      "sha1": "d6fdfeedfb922a56f6eeb59bfcd3ee101245ad80",
       "format": "Archive BitTorrent"
     },
     {
       "name": "elmundoes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6827511f42a8f5a45a20ad7f5aa389bb",
+      "md5": "b88b4cb0644d0017ccb6383fac8efcda",
       "summation": "md5"
     },
     {
       "name": "elmundoes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660459422",
-      "size": "237568",
-      "md5": "b4d2e5f32a6b69b97819a08087433a96",
-      "crc32": "0a9d53ab",
-      "sha1": "272d10c4e2dacef8f48d7da72ac10e3353bb187d",
+      "mtime": "1660497410",
+      "size": "245760",
+      "md5": "715a7fb88ba3499f613a8fae8369ab5c",
+      "crc32": "07c8f869",
+      "sha1": "7bdcb6766159b6904b401abf7aa944da72f18cbd",
       "format": "Metadata"
     },
     {
@@ -1836,9 +1902,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 177,
-  "item_last_updated": 1660459467,
-  "item_size": 12516456,
+  "files_count": 183,
+  "item_last_updated": 1660497466,
+  "item_size": 12923074,
   "metadata": {
     "identifier": "elmundoes-2022",
     "collection": [
@@ -1856,7 +1922,7 @@
     "addeddate": "2022-07-28 18:53:52"
   },
   "server": "ia601405.us.archive.org",
-  "uniq": 2121840228,
+  "uniq": 631585342,
   "workable_servers": [
     "ia601405.us.archive.org",
     "ia801405.us.archive.org"

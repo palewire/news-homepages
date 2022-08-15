@@ -1,5 +1,5 @@
 {
-  "created": 1660461238,
+  "created": 1660527450,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/27/items/wabenews-2022",
@@ -2726,31 +2726,93 @@
       "sha1": "4f74c3ce8f3705a249968832a685d3891d5b7b3f"
     },
     {
+      "name": "wabenews-2022-08-14T15:07:45.459935-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660504069",
+      "size": "24748",
+      "md5": "725a44790d02e7d807a6ba8f98e04a8c",
+      "crc32": "3dcc5656",
+      "sha1": "b8f2c78f0536d0a43344ba2f54730466019bf257",
+      "format": "JSON"
+    },
+    {
+      "name": "wabenews-2022-08-14T15:07:45.459935-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660504071",
+      "size": "45299",
+      "md5": "8e694323bad73a07d21a3ea1edc53310",
+      "crc32": "adad8a09",
+      "sha1": "fc30125dc1228ec7e11bbb0580fa9ae848f7b57d",
+      "format": "JSON"
+    },
+    {
+      "name": "wabenews-2022-08-14T15:07:45.459935-04:00.jpg",
+      "source": "original",
+      "mtime": "1660504067",
+      "size": "286355",
+      "md5": "c537c4d1bc01a4d104a63cd9b1c22cc3",
+      "crc32": "780f229e",
+      "sha1": "6c893d8e715d86696959ec1dcc80561a4512be04",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wabenews-2022-08-14T15:07:45.459935-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660504073",
+      "size": "1441",
+      "md5": "41b1e85d89fb20defbe52117798b14eb",
+      "crc32": "699b4bdf",
+      "sha1": "521f885c6543157c8ec1d740c4765fcbcfeaaea9",
+      "format": "JSON"
+    },
+    {
+      "name": "wabenews-2022-08-14T15:07:45.459935-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660504074",
+      "size": "96",
+      "md5": "f498c1d39414f0179faaaeb723dd2bb9",
+      "crc32": "264e2333",
+      "sha1": "85c0b1d141c263c0a2a9f63e68f4fd976a97094e",
+      "format": "JSON"
+    },
+    {
+      "name": "wabenews-2022-08-14T15:07:45.459935-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wabenews-2022-08-14T15:07:45.459935-04:00.jpg",
+      "mtime": "1660504141",
+      "size": "10286",
+      "md5": "9cf7649fc6406b086bb168c87a6a68c5",
+      "crc32": "e84bb2de",
+      "sha1": "90627baa5c31591ff95b06a7150517e6a6b6142d"
+    },
+    {
       "name": "wabenews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3b1ce43fb56381e99b7ba3e1546c8c11f61195bd",
-      "mtime": "1660461200",
-      "size": "56518",
-      "md5": "06d2cfa687f64ea58ca77952789906e9",
-      "crc32": "e421bae4",
-      "sha1": "75d4d96ed8919ba41058fc2052f05ab03bc53b8d",
+      "btih": "4a40dd5637223cc6a447948753b447038c545784",
+      "mtime": "1660504145",
+      "size": "57783",
+      "md5": "59f986b68d4cd6cad416d71192624974",
+      "crc32": "c4d5f886",
+      "sha1": "cd5c034f4879af5c43659571fa670085d9a0e521",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wabenews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "19a344d34d0d4425a4be37d47da92a2e",
+      "md5": "f0b68cf985075c68a69c6cdb837a8b5b",
       "summation": "md5"
     },
     {
       "name": "wabenews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660461124",
-      "size": "344064",
-      "md5": "78d1ab19b1cd9abc098dde9b0114e92a",
-      "crc32": "d1a763c9",
-      "sha1": "7942bc9d58c2dc0e4c7671f7ab62682c40c3db00",
+      "mtime": "1660504080",
+      "size": "352256",
+      "md5": "faa9bb30f53fb9c3263b0fb70fb82944",
+      "crc32": "9afcfa95",
+      "sha1": "e419946fb282163ff5ed59ef85ec552d5d9ec17d",
       "format": "Metadata"
     },
     {
@@ -2764,9 +2826,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 266,
-  "item_last_updated": 1660461200,
-  "item_size": 18339604,
+  "files_count": 272,
+  "item_last_updated": 1660504145,
+  "item_size": 18717286,
   "metadata": {
     "identifier": "wabenews-2022",
     "collection": [
@@ -2783,10 +2845,14 @@
     "publicdate": "2022-07-20 23:31:49",
     "addeddate": "2022-07-20 23:31:49"
   },
-  "server": "ia801406.us.archive.org",
-  "uniq": 1758514858,
+  "server": "ia601406.us.archive.org",
+  "uniq": 207590752,
+  "wabenews-2022": {
+    "url": "https://www.wabe.org",
+    "job_id": "spn2-ccb7244d3ad8a9e34d0a4324634abbbbdf78df92"
+  },
   "workable_servers": [
-    "ia801406.us.archive.org",
-    "ia601406.us.archive.org"
+    "ia601406.us.archive.org",
+    "ia801406.us.archive.org"
   ]
 }

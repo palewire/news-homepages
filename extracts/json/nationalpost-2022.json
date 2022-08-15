@@ -1,5 +1,5 @@
 {
-  "created": 1660485138,
+  "created": 1660526771,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/9/items/nationalpost-2022",
@@ -6210,31 +6210,93 @@
       "sha1": "f00d97877bd6f5e6e80432784b56ae170ad5dd6b"
     },
     {
+      "name": "nationalpost-2022-08-14T13:28:22.596719-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660498105",
+      "size": "75089",
+      "md5": "e3cf0b7060a0181e7c07ab5879a9268e",
+      "crc32": "08d5075b",
+      "sha1": "d728e042cabb0c51622261c0190b4a5ba46e014c",
+      "format": "JSON"
+    },
+    {
+      "name": "nationalpost-2022-08-14T13:28:22.596719-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660498106",
+      "size": "49316",
+      "md5": "38fa842f2128fba652abd3635961b539",
+      "crc32": "a383f59c",
+      "sha1": "df6c36c723a479b4f464934342f33bda72801826",
+      "format": "JSON"
+    },
+    {
+      "name": "nationalpost-2022-08-14T13:28:22.596719-04:00.jpg",
+      "source": "original",
+      "mtime": "1660498103",
+      "size": "337462",
+      "md5": "712460fae9122236b03e2cdeeeb81972",
+      "crc32": "471263ad",
+      "sha1": "6fb5579a21beb0bb20b5cfbe3024693c55edee64",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nationalpost-2022-08-14T13:28:22.596719-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660498108",
+      "size": "1476",
+      "md5": "7724c4a14a9984f3c01a07b76830ee04",
+      "crc32": "72401560",
+      "sha1": "bd1cf84f17887a8f72f9420a5b5edffcfc59b463",
+      "format": "JSON"
+    },
+    {
+      "name": "nationalpost-2022-08-14T13:28:22.596719-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660498109",
+      "size": "267",
+      "md5": "9c1d76d5fac04b9d1dcf63423dba2ba4",
+      "crc32": "25ee2289",
+      "sha1": "0758fb0aa1f649120b251a78002b4fc6cff16b45",
+      "format": "JSON"
+    },
+    {
+      "name": "nationalpost-2022-08-14T13:28:22.596719-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nationalpost-2022-08-14T13:28:22.596719-04:00.jpg",
+      "mtime": "1660498184",
+      "size": "10148",
+      "md5": "249d8e03bc74381a73f4172a66f79be6",
+      "crc32": "2b8a9ca4",
+      "sha1": "3168519f8d20b6eefc10bb6e1cf88835908f893e"
+    },
+    {
       "name": "nationalpost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a9927957c33cf80d07f7b0c94e33b1697acf98f3",
-      "mtime": "1660460287",
-      "size": "129363",
-      "md5": "70179c6d361f4577856f9b11a4b76855",
-      "crc32": "7986398c",
-      "sha1": "b252362c5162ae25d8d444be282425a51a36c6af",
+      "btih": "0894e83c5bcbcc047bf8145bb9701c33c76f00fc",
+      "mtime": "1660498195",
+      "size": "130653",
+      "md5": "a08e5cecfad72947d62995a8f3fff910",
+      "crc32": "17482600",
+      "sha1": "03457bd9fee2fd6564e4d6a74e09eb169ae61c65",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nationalpost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2269115be727c0d5d11af5465a3c95af",
+      "md5": "52e98b6413f4f3c8ff9536616ad84fa6",
       "summation": "md5"
     },
     {
       "name": "nationalpost-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660460223",
-      "size": "729088",
-      "md5": "8db0b283aa475d7c4ace501c130baf61",
-      "crc32": "3315d6f4",
-      "sha1": "a0610cc344adbe5378f76c02fccae2c208b58906",
+      "mtime": "1660498115",
+      "size": "737280",
+      "md5": "45bc9dce242c6d13b56ebe196b66ce92",
+      "crc32": "96399901",
+      "sha1": "d764d94e4ee7327593234ac8aa0b91bd10cede92",
       "format": "Metadata"
     },
     {
@@ -6248,9 +6310,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 598,
-  "item_last_updated": 1660460287,
-  "item_size": 59139737,
+  "files_count": 604,
+  "item_last_updated": 1660498195,
+  "item_size": 59622977,
   "metadata": {
     "identifier": "nationalpost-2022",
     "collection": [
@@ -6270,24 +6332,12 @@
   "nationalpost-2022": {
     "url": "https://nationalpost.com/",
     "job_id": "spn2-dd1e437a958ea0ae6b7f8e66c181262f7e7c6afe",
-    "resources": [
-      "https://nationalpost.com/",
-      "https://nationalpost.com/favicon.ico"
-    ],
-    "timestamp": "20220814043242",
-    "counters": {
-      "outlinks": 0,
-      "embeds": 2
-    },
-    "http_status": 403,
-    "status": "success",
-    "original_url": "https://nationalpost.com/",
-    "duration_sec": 5.296
+    "message": "The capture will start in ~2 minutes because our service is currently overloaded. You may close your browser window and the page will still be saved."
   },
-  "server": "ia801507.us.archive.org",
-  "uniq": 875897530,
+  "server": "ia601507.us.archive.org",
+  "uniq": 1576320261,
   "workable_servers": [
-    "ia801507.us.archive.org",
-    "ia601507.us.archive.org"
+    "ia601507.us.archive.org",
+    "ia801507.us.archive.org"
   ]
 }

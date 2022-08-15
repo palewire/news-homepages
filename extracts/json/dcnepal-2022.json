@@ -1,48 +1,7 @@
 {
-  "created": 1660484640,
+  "created": 1660497388,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
-  "dcnepal-2022": [
-    {
-      "url": "https://www.dcnepal.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dcnepal_com-_-2022_08_14_04_33_43.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dcnepal_com-_-2022_08_14_04_33_43.report.json",
-      "summary": {
-        "performance": 0.06,
-        "accessibility": 0.76,
-        "best-practices": 0.83,
-        "seo": 0.7,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.dcnepal.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dcnepal_com-_-2022_08_14_04_34_40.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dcnepal_com-_-2022_08_14_04_34_40.report.json",
-      "summary": {
-        "performance": 0.1,
-        "accessibility": 0.76,
-        "best-practices": 0.83,
-        "seo": 0.7,
-        "pwa": 0.4
-      }
-    },
-    {
-      "url": "https://www.dcnepal.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dcnepal_com-_-2022_08_14_04_34_13.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_dcnepal_com-_-2022_08_14_04_34_13.report.json",
-      "summary": {
-        "performance": 0.11,
-        "accessibility": 0.76,
-        "best-practices": 0.83,
-        "seo": 0.7,
-        "pwa": 0.4
-      }
-    }
-  ],
   "dir": "/2/items/dcnepal-2022",
   "files": [
     {
@@ -2411,31 +2370,93 @@
       "sha1": "244bc3aa71d06b3d7f4dd03d68654795ce0300ad"
     },
     {
+      "name": "dcnepal-2022-08-14T23:00:17.670180+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1660497321",
+      "size": "118062",
+      "md5": "8513ffc7eb06b489ed4d288fb3cb113c",
+      "crc32": "0ad1153b",
+      "sha1": "077a8d2f5a673a2d4d7cc335d4c5648aecc7603a",
+      "format": "JSON"
+    },
+    {
+      "name": "dcnepal-2022-08-14T23:00:17.670180+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660497322",
+      "size": "115220",
+      "md5": "c940bd09c0b4c7d842bbb968c961df65",
+      "crc32": "4280ba6e",
+      "sha1": "f4b634a9077e5dc7e98d9abffbd0f5ed71860528",
+      "format": "JSON"
+    },
+    {
+      "name": "dcnepal-2022-08-14T23:00:17.670180+05:45.jpg",
+      "source": "original",
+      "mtime": "1660497319",
+      "size": "222494",
+      "md5": "bc5e8c4e66462d24b7942498455dc6bc",
+      "crc32": "b446212b",
+      "sha1": "a476e23f94190357157d24cb7af7f232363a1654",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dcnepal-2022-08-14T23:00:17.670180+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1660497324",
+      "size": "1464",
+      "md5": "a0959331066815bdafcb2af1b35acef3",
+      "crc32": "6be129c4",
+      "sha1": "ca94a3c4e35c2daced9e7cc6be8bf67ff5e69a08",
+      "format": "JSON"
+    },
+    {
+      "name": "dcnepal-2022-08-14T23:00:17.670180+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1660497326",
+      "size": "100",
+      "md5": "dc1c9518b67df4977e180387891406f5",
+      "crc32": "a07aecb4",
+      "sha1": "1cb29d98ff531f301b659646d485e382f8a8fe2d",
+      "format": "JSON"
+    },
+    {
+      "name": "dcnepal-2022-08-14T23:00:17.670180+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dcnepal-2022-08-14T23:00:17.670180+05:45.jpg",
+      "mtime": "1660497374",
+      "size": "9730",
+      "md5": "3785ff6e152a9d2091bcc1c7e406b095",
+      "crc32": "077c9d8d",
+      "sha1": "bcec71592d8ee7381d0db7a90bb5034495bd30f5"
+    },
+    {
       "name": "dcnepal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "34d828a766b6feca853833328023161595de2341",
-      "mtime": "1660459377",
-      "size": "49413",
-      "md5": "da6524703eec21ce46e4b439149e52aa",
-      "crc32": "f6fecbb3",
-      "sha1": "3f72f0f9ebebd18c672e8b52a2ce3d11816cf2c9",
+      "btih": "44f6fdf623fc8639f58fc97b863de2ea030127ad",
+      "mtime": "1660497378",
+      "size": "50674",
+      "md5": "ca2ce4c4e57c4bfac67fbea538bf3537",
+      "crc32": "55611b6f",
+      "sha1": "d8e6122559059c302583042c613a132e2d17d216",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dcnepal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ab1319d7cc57118b5924a51de0f518c6",
+      "md5": "af2c2605da7014e4646cd0d2eaa11693",
       "summation": "md5"
     },
     {
       "name": "dcnepal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660459331",
-      "size": "303104",
-      "md5": "7292f31408c332e7d4805f6cba136ff7",
-      "crc32": "d7165361",
-      "sha1": "d474ed697253cf6a9c0d494fce02a067d615d725",
+      "mtime": "1660497330",
+      "size": "311296",
+      "md5": "f7de8969696a77937238a4b1afac01cc",
+      "crc32": "7968aa9c",
+      "sha1": "1824fb432b5855935d4e542001bce3e8f8e1494d",
       "format": "Metadata"
     },
     {
@@ -2449,9 +2470,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 232,
-  "item_last_updated": 1660459377,
-  "item_size": 20021563,
+  "files_count": 238,
+  "item_last_updated": 1660497378,
+  "item_size": 20498086,
   "metadata": {
     "identifier": "dcnepal-2022",
     "collection": [
@@ -2469,7 +2490,7 @@
     "addeddate": "2022-07-24 20:37:41"
   },
   "server": "ia801508.us.archive.org",
-  "uniq": 483897828,
+  "uniq": 1417947881,
   "workable_servers": [
     "ia801508.us.archive.org",
     "ia601508.us.archive.org"

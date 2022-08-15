@@ -1,5 +1,5 @@
 {
-  "created": 1660465481,
+  "created": 1660526676,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/5/items/libe-2022",
@@ -12054,31 +12054,93 @@
       "sha1": "0a4894a8d0c42b6a36aaad453d91b386fe191ef9"
     },
     {
+      "name": "libe-2022-08-14T19:25:31.116116+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660497934",
+      "size": "108877",
+      "md5": "1a70e8791ebf56960e3744d7931aa946",
+      "crc32": "304619c6",
+      "sha1": "347c32206f9492ff0fc9d2dd60ba7c5cbbc0c411",
+      "format": "JSON"
+    },
+    {
+      "name": "libe-2022-08-14T19:25:31.116116+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660497936",
+      "size": "65883",
+      "md5": "9858be6a84c08acf7a0c0205f0ac2b7a",
+      "crc32": "c9949f86",
+      "sha1": "aa4805aa131fed0acbbb7025ce5e3bd554faa467",
+      "format": "JSON"
+    },
+    {
+      "name": "libe-2022-08-14T19:25:31.116116+02:00.jpg",
+      "source": "original",
+      "mtime": "1660497933",
+      "size": "304639",
+      "md5": "7c6ab0f32a32da442624332ab5c220dc",
+      "crc32": "0bcdd365",
+      "sha1": "5f910a673652405ee095287f1c3dafc1b53f72c4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "libe-2022-08-14T19:25:31.116116+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660497938",
+      "size": "1466",
+      "md5": "43373397d9694317c1691d2f74cfb4bf",
+      "crc32": "cf0bbc45",
+      "sha1": "9547df8d6e95c17000279161a7ac9f9b612f3353",
+      "format": "JSON"
+    },
+    {
+      "name": "libe-2022-08-14T19:25:31.116116+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1660497940",
+      "size": "233",
+      "md5": "8ecaff85d2d2d58b5e7f6bebdbd8732e",
+      "crc32": "4bf0909c",
+      "sha1": "f0eb6ca5e64475d3582909c5ba63e2ad36416471",
+      "format": "JSON"
+    },
+    {
+      "name": "libe-2022-08-14T19:25:31.116116+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "libe-2022-08-14T19:25:31.116116+02:00.jpg",
+      "mtime": "1660498010",
+      "size": "9440",
+      "md5": "ede328945ea54414a6a328ccfca1086f",
+      "crc32": "b0b46052",
+      "sha1": "690414ede64e0de643190b14114197df367256a0"
+    },
+    {
       "name": "libe-2022_archive.torrent",
       "source": "metadata",
-      "btih": "521df3da6d489e00383379b469e344d04f433bcf",
-      "mtime": "1660465473",
-      "size": "241165",
-      "md5": "7675752c5c07fed9a1d5ebfa3a79f099",
-      "crc32": "36d53b4b",
-      "sha1": "64e11461159876b461685a129f82aa51482c77a7",
+      "btih": "01e32c79ca8e040629d17a170c4069d0ce55e4d7",
+      "mtime": "1660498025",
+      "size": "242387",
+      "md5": "057b5554322ecd27b6af5170c930c802",
+      "crc32": "09d6329d",
+      "sha1": "46d19b23a3851d4e4cb582d9fe9f228725e8200c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "libe-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0c34ff1539312810f6c265a1a7f5c38f",
+      "md5": "e24ef0ea817f2c11c22dc2748bea071a",
       "summation": "md5"
     },
     {
       "name": "libe-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660465398",
-      "size": "1355776",
-      "md5": "7f9d6b2055b713ce02284c09ebe9cfaa",
-      "crc32": "f531e549",
-      "sha1": "2b485078430c00527b38eef178915e4367b0bf20",
+      "mtime": "1660497944",
+      "size": "1363968",
+      "md5": "dbf3fd07d314cbed31426451bdaf6121",
+      "crc32": "95ac7749",
+      "sha1": "357516dc0953243bb967350b5762109d9e277771",
       "format": "Metadata"
     },
     {
@@ -12092,9 +12154,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1156,
-  "item_last_updated": 1660465473,
-  "item_size": 136581568,
+  "files_count": 1162,
+  "item_last_updated": 1660498025,
+  "item_size": 137081520,
+  "libe-2022": {
+    "url": "https://www.liberation.fr/",
+    "job_id": "spn2-e5661c6407ab6d36947dd53813871fb5af2c9dbf",
+    "message": "The same snapshot had been made 24 minutes, 31 seconds ago. You can make new capture of this URL after 45 minutes."
+  },
   "metadata": {
     "identifier": "libe-2022",
     "collection": [
@@ -12112,7 +12179,7 @@
     "addeddate": "2022-04-09 13:43:11"
   },
   "server": "ia902507.us.archive.org",
-  "uniq": 29749736,
+  "uniq": 206998981,
   "workable_servers": [
     "ia902507.us.archive.org",
     "ia802507.us.archive.org"

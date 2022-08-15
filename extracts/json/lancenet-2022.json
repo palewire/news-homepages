@@ -1,5 +1,5 @@
 {
-  "created": 1660484316,
+  "created": 1660526628,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/33/items/lancenet-2022",
@@ -1712,31 +1712,93 @@
       "sha1": "e18a4a75e56b9b3e428d02d6a467eb69edee5512"
     },
     {
+      "name": "lancenet-2022-08-14T14:24:02.830108-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660497848",
+      "size": "10385",
+      "md5": "213ced9b39ef09662d8f3ca3bad921b8",
+      "crc32": "bf431d34",
+      "sha1": "abc9900ca612e6e0f550dbea43ae88c12a019e39",
+      "format": "JSON"
+    },
+    {
+      "name": "lancenet-2022-08-14T14:24:02.830108-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660497850",
+      "size": "21907",
+      "md5": "761248c26a38eeab47d0a71e8aedb767",
+      "crc32": "12ed195f",
+      "sha1": "30d86d892766e0226296213c63a780b547a96e70",
+      "format": "JSON"
+    },
+    {
+      "name": "lancenet-2022-08-14T14:24:02.830108-03:00.jpg",
+      "source": "original",
+      "mtime": "1660497846",
+      "size": "284409",
+      "md5": "06e250a5ff59d48d7cd7ea156373ec42",
+      "crc32": "7c8172d6",
+      "sha1": "7f95d68c76df3ed0cb201c6f52c6d56322e09847",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lancenet-2022-08-14T14:24:02.830108-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660497851",
+      "size": "1459",
+      "md5": "615c51549662770d83ef460aa0e37bea",
+      "crc32": "23953cbe",
+      "sha1": "1dd76d514a9484a2627d9adb3afcb3c7d3ec2394",
+      "format": "JSON"
+    },
+    {
+      "name": "lancenet-2022-08-14T14:24:02.830108-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1660497853",
+      "size": "266",
+      "md5": "a04a08fb62c84bf369b6b51ce588041b",
+      "crc32": "dc03c594",
+      "sha1": "5e68708ae53274637c3579a411ec18cbe790a154",
+      "format": "JSON"
+    },
+    {
+      "name": "lancenet-2022-08-14T14:24:02.830108-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lancenet-2022-08-14T14:24:02.830108-03:00.jpg",
+      "mtime": "1660497932",
+      "size": "10497",
+      "md5": "7784a3d963e47cd9c8a19c16b82af664",
+      "crc32": "16dbc752",
+      "sha1": "c1f2cd57ecc20347f867812e42b72a78c29ac227"
+    },
+    {
       "name": "lancenet-2022_archive.torrent",
       "source": "metadata",
-      "btih": "349e19907096de920a8ae63632730d8351feab4f",
-      "mtime": "1660484312",
-      "size": "36129",
-      "md5": "5b28938b9c1f40ae1b712888b3f2f289",
-      "crc32": "24690ae0",
-      "sha1": "04b13b3ca8f6b8d766f92aecaef8f901097fe6c8",
+      "btih": "a2d979dba55380f89590373fd14e8caf6ffef264",
+      "mtime": "1660497935",
+      "size": "37395",
+      "md5": "b6485c94c97448028de874ce526cf002",
+      "crc32": "fa848f4e",
+      "sha1": "c4e5c8ebf12b2e9f1a81a7aba2d6680fa839767c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lancenet-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4cc838df2b22d64920bf2067a00fab8d",
+      "md5": "50ff3341ef5a172a9a88307c8e3aad59",
       "summation": "md5"
     },
     {
       "name": "lancenet-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660484266",
-      "size": "233472",
-      "md5": "98b533aaef27938128f2307d766ea321",
-      "crc32": "ce3b9d5e",
-      "sha1": "e0eba228805ef9198aee56dfea55ab2bd153cb14",
+      "mtime": "1660497861",
+      "size": "237568",
+      "md5": "d7edecde705ed7cda54ec4657c890e43",
+      "crc32": "4a954623",
+      "sha1": "c6835c7e977e55dfc2af79496d80b7cc75d9bc0f",
       "format": "Metadata"
     },
     {
@@ -1750,9 +1812,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 169,
-  "item_last_updated": 1660484312,
-  "item_size": 10981389,
+  "files_count": 175,
+  "item_last_updated": 1660497935,
+  "item_size": 11315674,
+  "lancenet-2022": {
+    "url": "https://www.lance.com.br/",
+    "job_id": "spn2-2740971da1049501dc1a8b6e34045b6b7f49f247",
+    "message": "The capture will start in ~1 minute because our service is currently overloaded. You may close your browser window and the page will still be saved."
+  },
   "metadata": {
     "identifier": "lancenet-2022",
     "collection": [
@@ -1769,10 +1836,10 @@
     "publicdate": "2022-08-04 04:55:32",
     "addeddate": "2022-08-04 04:55:32"
   },
-  "server": "ia601505.us.archive.org",
-  "uniq": 321237563,
+  "server": "ia801505.us.archive.org",
+  "uniq": 805502366,
   "workable_servers": [
-    "ia601505.us.archive.org",
-    "ia801505.us.archive.org"
+    "ia801505.us.archive.org",
+    "ia601505.us.archive.org"
   ]
 }

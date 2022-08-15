@@ -1,5 +1,5 @@
 {
-  "created": 1660483309,
+  "created": 1660525113,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/24/items/14eastmag-2022",
@@ -8443,31 +8443,93 @@
       "sha1": "8db8aa0f6408f032077ccbdbfdd7c5cc6e834458"
     },
     {
+      "name": "14eastmag-2022-08-14T19:56:51.049885-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660525022",
+      "size": "25598",
+      "md5": "908ecc2df2c32dba930d2aa94d1415d3",
+      "crc32": "b77e7b28",
+      "sha1": "bafdfefcd1127da9bed393d33817e90d575fc0ab",
+      "format": "JSON"
+    },
+    {
+      "name": "14eastmag-2022-08-14T19:56:51.049885-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660525023",
+      "size": "42244",
+      "md5": "f870f60b16b6c79faec3957f791cc34b",
+      "crc32": "dc6a49d9",
+      "sha1": "74efa9ce6c4a08839f0c9be4a7e532a91fa30a91",
+      "format": "JSON"
+    },
+    {
+      "name": "14eastmag-2022-08-14T19:56:51.049885-05:00.jpg",
+      "source": "original",
+      "mtime": "1660525017",
+      "size": "256632",
+      "md5": "7cb763e3f725444687c281382ae57710",
+      "crc32": "b115b62b",
+      "sha1": "31f45d8eb9cd34f7acb4c2378f897d57f9d50647",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "14eastmag-2022-08-14T19:56:51.049885-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660525025",
+      "size": "1500",
+      "md5": "609d778ce8a1289286ea248ca2d08aad",
+      "crc32": "8f9134fb",
+      "sha1": "f39d9736b14e518953301933e28fff20bbd81ea1",
+      "format": "JSON"
+    },
+    {
+      "name": "14eastmag-2022-08-14T19:56:51.049885-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660525026",
+      "size": "232",
+      "md5": "47390d6785d34187dc0116a129a36b83",
+      "crc32": "43cab98c",
+      "sha1": "b9460e860c97524cb163a36261ef052f8ece5cbd",
+      "format": "JSON"
+    },
+    {
+      "name": "14eastmag-2022-08-14T19:56:51.049885-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "14eastmag-2022-08-14T19:56:51.049885-05:00.jpg",
+      "mtime": "1660525094",
+      "size": "9827",
+      "md5": "856c319250089e63113d5ed9d52b37b7",
+      "crc32": "6a1906c3",
+      "sha1": "8db8aa0f6408f032077ccbdbfdd7c5cc6e834458"
+    },
+    {
       "name": "14eastmag-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a0fd8e77d9b29c5ab26ebf16f9ff611b5beeb85a",
-      "mtime": "1660483303",
-      "size": "172408",
-      "md5": "a96821263dace81fa7e824278064d390",
-      "crc32": "b4fb8cc4",
-      "sha1": "4157fbd1728dbf782ee65b0efb6044c584d71989",
+      "btih": "f3645a34854fcb1713415964eb3d7363e58ae300",
+      "mtime": "1660525104",
+      "size": "173659",
+      "md5": "1a15f4f49fff671670ed7c0bda84677a",
+      "crc32": "dddb7912",
+      "sha1": "4a5b8c46677dd1f136526fd27b8d5bd1f68edd2e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "14eastmag-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e4d206734d70e752193e39f6e3f229f5",
+      "md5": "867c18e0296d1a614ed20c392aeee39e",
       "summation": "md5"
     },
     {
       "name": "14eastmag-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660483239",
-      "size": "978944",
-      "md5": "c4982010e2ac36095f7ebacb8c61fa8b",
-      "crc32": "fa14d750",
-      "sha1": "fd3794ec3d66a2f39b127a987d4f85519c0865d9",
+      "mtime": "1660525035",
+      "size": "987136",
+      "md5": "ecc51834c6238aa206995ce8d9a164ed",
+      "crc32": "2e273a96",
+      "sha1": "5f3c95cc54eb1d4e8f830e5c260a3f3820b37c8f",
       "format": "Metadata"
     },
     {
@@ -8492,9 +8554,9 @@
       "rotation": "0"
     }
   ],
-  "files_count": 813,
-  "item_last_updated": 1660483303,
-  "item_size": 60503916,
+  "files_count": 819,
+  "item_last_updated": 1660525104,
+  "item_size": 60849392,
   "metadata": {
     "identifier": "14eastmag-2022",
     "collection": [
@@ -8511,10 +8573,10 @@
     "publicdate": "2022-06-19 23:22:49",
     "addeddate": "2022-06-19 23:22:49"
   },
-  "server": "ia802505.us.archive.org",
-  "uniq": 296549921,
+  "server": "ia902505.us.archive.org",
+  "uniq": 654490043,
   "workable_servers": [
-    "ia802505.us.archive.org",
-    "ia902505.us.archive.org"
+    "ia902505.us.archive.org",
+    "ia802505.us.archive.org"
   ]
 }

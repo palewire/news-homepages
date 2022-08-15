@@ -1,5 +1,5 @@
 {
-  "created": 1660485077,
+  "created": 1660526715,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/27/items/mdjonline-2022",
@@ -2674,31 +2674,93 @@
       "sha1": "8b891dec8aaf924ec945201de50b63afcb929306"
     },
     {
+      "name": "mdjonline-2022-08-14T13:26:43.347331-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660498008",
+      "size": "48199",
+      "md5": "0c2c43a8d0a7af2862311de86c41ca24",
+      "crc32": "4129d1c5",
+      "sha1": "c38dc2b67543a20a5dc5c92e5ea5b00e21a1d98d",
+      "format": "JSON"
+    },
+    {
+      "name": "mdjonline-2022-08-14T13:26:43.347331-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660498010",
+      "size": "58140",
+      "md5": "ef384f1bac53f00c0ca45a5d2b1d2f5f",
+      "crc32": "a53b4d24",
+      "sha1": "8af0992824654f4a29db803884a25723c2b20556",
+      "format": "JSON"
+    },
+    {
+      "name": "mdjonline-2022-08-14T13:26:43.347331-04:00.jpg",
+      "source": "original",
+      "mtime": "1660498006",
+      "size": "360827",
+      "md5": "4d5cc20ac1b252dccd4e1b744c0b314a",
+      "crc32": "6fff2db8",
+      "sha1": "b47c280cb1ba3a729fc34529adf7daa80e371d6e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mdjonline-2022-08-14T13:26:43.347331-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660498011",
+      "size": "1484",
+      "md5": "b83a89490f6aa08a8494b3419366f7a6",
+      "crc32": "ea814c2f",
+      "sha1": "d08352046fcd5fb2ff80509634623c081566104a",
+      "format": "JSON"
+    },
+    {
+      "name": "mdjonline-2022-08-14T13:26:43.347331-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660498014",
+      "size": "267",
+      "md5": "0922ea4e55fddd88e3f1ab19c9f1c87c",
+      "crc32": "346903dd",
+      "sha1": "9993a533a002c56bb9bac95383aae7ffaaa87fe4",
+      "format": "JSON"
+    },
+    {
+      "name": "mdjonline-2022-08-14T13:26:43.347331-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mdjonline-2022-08-14T13:26:43.347331-04:00.jpg",
+      "mtime": "1660498075",
+      "size": "10647",
+      "md5": "5a784d7c0fc1ce336195476c61b0ae58",
+      "crc32": "d10bd8ba",
+      "sha1": "18ea633b15c64d606cb7491234066c43a252cdc5"
+    },
+    {
       "name": "mdjonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b451c19caad99b44e01283155f01ae14f242a21d",
-      "mtime": "1660460128",
-      "size": "56001",
-      "md5": "9feed21a81fa7cd2f593691a8f1f81b4",
-      "crc32": "cd907899",
-      "sha1": "7da1786c10ded901aa28ae63f1f14eb7d598e0e0",
+      "btih": "71b679b21bb6754c250260e7448c09d5a7a7dd2c",
+      "mtime": "1660498080",
+      "size": "57273",
+      "md5": "a94f127e0f2e8ebd0a9a66a3c37299d6",
+      "crc32": "c65f0e73",
+      "sha1": "54748c60c87997d94614d596a51e7b5fc6bc133d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mdjonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4f65a2c86758aaf20a918793c77d1d98",
+      "md5": "491ff8f99f599566892e6d5c16c85e3f",
       "summation": "md5"
     },
     {
       "name": "mdjonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660460077",
-      "size": "335872",
-      "md5": "f5af2a4ecc745e33e524cf3814dca7c4",
-      "crc32": "7573e1bc",
-      "sha1": "b8edcf9e25e2a564295d2266a486d5d3335a0242",
+      "mtime": "1660498022",
+      "size": "348160",
+      "md5": "ef9e0fb023919a3af38b33c1ccce31c8",
+      "crc32": "240f8d28",
+      "sha1": "4c0cd4c3ae8134023af4dae80e6d86c4f0294746",
       "format": "Metadata"
     },
     {
@@ -2712,50 +2774,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 261,
-  "item_last_updated": 1660460128,
-  "item_size": 23301115,
-  "mdjonline-2022": [
-    {
-      "url": "https://www.mdjonline.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mdjonline_com-_-2022_08_14_04_52_56.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mdjonline_com-_-2022_08_14_04_52_56.report.json",
-      "summary": {
-        "performance": 0.2,
-        "accessibility": 0.78,
-        "best-practices": 0.58,
-        "seo": 0.92,
-        "pwa": 0.5
-      }
-    },
-    {
-      "url": "https://www.mdjonline.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mdjonline_com-_-2022_08_14_04_53_54.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mdjonline_com-_-2022_08_14_04_53_54.report.json",
-      "summary": {
-        "performance": 0.21,
-        "accessibility": 0.78,
-        "best-practices": 0.58,
-        "seo": 0.92,
-        "pwa": 0.5
-      }
-    },
-    {
-      "url": "https://www.mdjonline.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mdjonline_com-_-2022_08_14_04_53_28.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mdjonline_com-_-2022_08_14_04_53_28.report.json",
-      "summary": {
-        "performance": 0.21,
-        "accessibility": 0.78,
-        "best-practices": 0.58,
-        "seo": 0.92,
-        "pwa": 0.5
-      }
-    }
-  ],
+  "files_count": 267,
+  "item_last_updated": 1660498080,
+  "item_size": 23794239,
+  "mdjonline-2022": {
+    "url": "https://www.mdjonline.com",
+    "job_id": "spn2-50a2ada1183bb21634e442c0560ab43019feac89",
+    "message": "The capture will start in ~2 minutes because our service is currently overloaded. You may close your browser window and the page will still be saved."
+  },
   "metadata": {
     "identifier": "mdjonline-2022",
     "collection": [
@@ -2773,7 +2799,7 @@
     "addeddate": "2022-07-20 23:31:19"
   },
   "server": "ia601404.us.archive.org",
-  "uniq": 629048139,
+  "uniq": 83912976,
   "workable_servers": [
     "ia601404.us.archive.org",
     "ia801404.us.archive.org"

@@ -1,6 +1,5 @@
 {
-  "conflict": 1660485149,
-  "created": 1660485149,
+  "created": 1660526592,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/27/items/neheadlines-2022",
@@ -1601,31 +1600,155 @@
       "sha1": "8ce24a8e35cf27ca207bef6079bfda263ad13a43"
     },
     {
+      "name": "neheadlines-2022-08-14T08:52:23.393651-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660485149",
+      "size": "43156",
+      "md5": "4b5789cfac94e9fd3ec8d642bc2c27de",
+      "crc32": "41b190e7",
+      "sha1": "2fbca68f6b52301c21c76eea529ecf30e281d061",
+      "format": "JSON"
+    },
+    {
+      "name": "neheadlines-2022-08-14T08:52:23.393651-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660485151",
+      "size": "87837",
+      "md5": "5f14a9f15ed91ac47fad957d039db93e",
+      "crc32": "d822522a",
+      "sha1": "b363900b91029c2c1cc5ee11a5ba9b1cd4a2363c",
+      "format": "JSON"
+    },
+    {
+      "name": "neheadlines-2022-08-14T08:52:23.393651-05:00.jpg",
+      "source": "original",
+      "mtime": "1660485147",
+      "size": "313407",
+      "md5": "36081b4a3abda7d911d09651a672e7f6",
+      "crc32": "0cae6998",
+      "sha1": "ee3e267f036d0bf0308659e4431bb6eca78da461",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "neheadlines-2022-08-14T08:52:23.393651-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660485152",
+      "size": "1558",
+      "md5": "3a129b291943cc06aa9471dfd9124b95",
+      "crc32": "cd0cc336",
+      "sha1": "604943803bd63c970dc72dd69f8d239e50e6fc3d",
+      "format": "JSON"
+    },
+    {
+      "name": "neheadlines-2022-08-14T08:52:23.393651-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660485158",
+      "size": "45423",
+      "md5": "5d9b7cef2b554f893d4518a70b3b86e6",
+      "crc32": "28277cce",
+      "sha1": "b4ed855f7bd96afd697b3fe70c408c86e519111a",
+      "format": "JSON"
+    },
+    {
+      "name": "neheadlines-2022-08-14T08:52:23.393651-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "neheadlines-2022-08-14T08:52:23.393651-05:00.jpg",
+      "mtime": "1660485205",
+      "size": "10208",
+      "md5": "76a652fa68cd97f6695c42e6abac9f25",
+      "crc32": "770aa163",
+      "sha1": "61762c53a6f7af584e5e3f28ae06a5d3ff496b2b"
+    },
+    {
+      "name": "neheadlines-2022-08-14T20:22:01.734777-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660526528",
+      "size": "37040",
+      "md5": "2019b618c53b7490b22bc41a2c732525",
+      "crc32": "4039a0ce",
+      "sha1": "bf2d1c30de78de967b2bd282e6d4a0d969781ddb",
+      "format": "JSON"
+    },
+    {
+      "name": "neheadlines-2022-08-14T20:22:01.734777-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660526532",
+      "size": "88192",
+      "md5": "43cb86ccbf6c6dd88e80bc11890ef7a6",
+      "crc32": "81629fd3",
+      "sha1": "11e7402e232b728dfd20c33b6de50a2881b5ed8f",
+      "format": "JSON"
+    },
+    {
+      "name": "neheadlines-2022-08-14T20:22:01.734777-05:00.jpg",
+      "source": "original",
+      "mtime": "1660526525",
+      "size": "311846",
+      "md5": "301e166ae148739b0d1d270344ca2a23",
+      "crc32": "00214e0b",
+      "sha1": "f6ed8db5a54c76e11216ad7ef91a8cb7b6ac22f7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "neheadlines-2022-08-14T20:22:01.734777-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660526534",
+      "size": "1558",
+      "md5": "6f068ca0347a486e60604bbb91fda244",
+      "crc32": "93bf9e14",
+      "sha1": "3300001ca4553b867e182df32c736d96456f317f",
+      "format": "JSON"
+    },
+    {
+      "name": "neheadlines-2022-08-14T20:22:01.734777-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660526536",
+      "size": "46005",
+      "md5": "077c54cf1185f62c34c3d37f1f0cf34d",
+      "crc32": "aecd7783",
+      "sha1": "dff174b8c2ceaadd6da095f32b3a65f437bcfdbd",
+      "format": "JSON"
+    },
+    {
+      "name": "neheadlines-2022-08-14T20:22:01.734777-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "neheadlines-2022-08-14T20:22:01.734777-05:00.jpg",
+      "mtime": "1660526583",
+      "size": "10294",
+      "md5": "26edc85f1191e807086b923db8cb134a",
+      "crc32": "149d7477",
+      "sha1": "43b483a40d9253a8ea9cbca374abbb87496c4c0f"
+    },
+    {
       "name": "neheadlines-2022_archive.torrent",
       "source": "metadata",
-      "btih": "685c681ab10520f8c257dda618d31fa4d7335b4a",
-      "mtime": "1660447105",
-      "size": "34412",
-      "md5": "3a47fbe4821b7fad4a043c1667054d0e",
-      "crc32": "f82db799",
-      "sha1": "723b00bcde55de0fb840aee1f7ac72fc46848b16",
+      "btih": "a14d3ca4fccd3d405dde7be568e132983a86b964",
+      "mtime": "1660526586",
+      "size": "36964",
+      "md5": "0bd2973b3e8f93e08344d80ecaa201c8",
+      "crc32": "abc2b8cc",
+      "sha1": "9b93aec8fc21b364a8551aefb7f3ce780ba7e6a1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "neheadlines-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "285e59fa134f55e912b8e13aef04b041",
+      "md5": "82864d41d274fa7b70e73a5339130449",
       "summation": "md5"
     },
     {
       "name": "neheadlines-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660447053",
-      "size": "217088",
-      "md5": "8cd148283cd7ecc922eae380eabb7efc",
-      "crc32": "41767944",
-      "sha1": "2d19f2d8d82bc9ab0e409aa8848421e0e7ab1167",
+      "mtime": "1660526538",
+      "size": "233472",
+      "md5": "f42008147b2ff08b91ff4a14a1347cad",
+      "crc32": "a49ac4da",
+      "sha1": "dd96a792325a0c8b3f001b1e091e88d1f6d54cb4",
       "format": "Metadata"
     },
     {
@@ -1639,9 +1762,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 158,
-  "item_last_updated": 1660447105,
-  "item_size": 13144515,
+  "files_count": 170,
+  "item_last_updated": 1660526586,
+  "item_size": 14159975,
   "metadata": {
     "identifier": "neheadlines-2022",
     "collection": [
@@ -1658,21 +1781,10 @@
     "publicdate": "2022-08-01 06:42:14",
     "addeddate": "2022-08-01 06:42:14"
   },
-  "pending_tasks": true,
-  "server": "ia601504.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3367565978,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 476649222,
+  "server": "ia801504.us.archive.org",
+  "uniq": 1955388783,
   "workable_servers": [
+    "ia801504.us.archive.org",
     "ia601504.us.archive.org"
   ]
 }

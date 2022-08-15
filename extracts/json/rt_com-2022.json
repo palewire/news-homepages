@@ -1,5 +1,5 @@
 {
-  "created": 1660461703,
+  "created": 1660526998,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/15/items/rt_com-2022",
@@ -4632,31 +4632,93 @@
       "sha1": "58af666f5a969570e56ccd85cc8f2a175a37e4be"
     },
     {
+      "name": "rt_com-2022-08-14T21:59:57.418521+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660503608",
+      "size": "20973",
+      "md5": "88163fb6b83e36569b46ae4950e8ba6e",
+      "crc32": "ac8c2ff3",
+      "sha1": "a5bdd4258f3154d305d99f1e10a6f2226fe1d197",
+      "format": "JSON"
+    },
+    {
+      "name": "rt_com-2022-08-14T21:59:57.418521+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660503611",
+      "size": "26815",
+      "md5": "e5ef5f0754811eb138181475621e9f0d",
+      "crc32": "470142e1",
+      "sha1": "b1562a45e27306fd079ca5ebde5b82317ad0a9f3",
+      "format": "JSON"
+    },
+    {
+      "name": "rt_com-2022-08-14T21:59:57.418521+03:00.jpg",
+      "source": "original",
+      "mtime": "1660503601",
+      "size": "333923",
+      "md5": "a4f35002bf3efe57c8619ac032b394c2",
+      "crc32": "e33062ef",
+      "sha1": "f71b3a70348174d38d29f9a447d0f74e68f84b11",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rt_com-2022-08-14T21:59:57.418521+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660503614",
+      "size": "1422",
+      "md5": "187eda7c7f5ee4fa8bc3a16d4ee6a1ae",
+      "crc32": "cf17c673",
+      "sha1": "f3701087da427f156be54eca24217ed52567454e",
+      "format": "JSON"
+    },
+    {
+      "name": "rt_com-2022-08-14T21:59:57.418521+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1660503616",
+      "size": "95",
+      "md5": "58894136c152e4d17d616f14fabb0c07",
+      "crc32": "748b1e50",
+      "sha1": "29bff7e51bfa936942a16e54ecb9e427e02cfe7c",
+      "format": "JSON"
+    },
+    {
+      "name": "rt_com-2022-08-14T21:59:57.418521+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rt_com-2022-08-14T21:59:57.418521+03:00.jpg",
+      "mtime": "1660503706",
+      "size": "11214",
+      "md5": "88422c5cebd58e43a2686019ee98e133",
+      "crc32": "231cf020",
+      "sha1": "7199b6773dc24471298680bf7aa6ba607a835c4c"
+    },
+    {
       "name": "rt_com-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c8a358b5bd957a7f97165222188c65e371a17f05",
-      "mtime": "1660461694",
-      "size": "94285",
-      "md5": "a222282bb6441e468d0c86392cc780f5",
-      "crc32": "970efef8",
-      "sha1": "0050d18aed4d72b0bbd187876744ec1b8c0cff4d",
+      "btih": "bb066944911be689598e4a90cf1adc12bed689c8",
+      "mtime": "1660503712",
+      "size": "95538",
+      "md5": "32529afa6ab3a59c5991fe3bf1aafc72",
+      "crc32": "248a126f",
+      "sha1": "28eec260818ae531b95c87d49f5866279d025b72",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rt_com-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0aef5c2eb2eee5861ee5e03e9f07ddde",
+      "md5": "b444c3b99eed6a905e751a97410c4aab",
       "summation": "md5"
     },
     {
       "name": "rt_com-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660461639",
-      "size": "561152",
-      "md5": "6a50b581d503e69860a9b5494d2ef73a",
-      "crc32": "d4afd5a4",
-      "sha1": "738499f574d9f7a40305e800a88c3033117f25a1",
+      "mtime": "1660503619",
+      "size": "569344",
+      "md5": "70dd00c1d83669d470b79c2df933de0d",
+      "crc32": "f652a212",
+      "sha1": "f1b97ec866fafcbf639e6b2954dcde5c6e8c7657",
       "format": "Metadata"
     },
     {
@@ -4670,9 +4732,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 449,
-  "item_last_updated": 1660461694,
-  "item_size": 34484111,
+  "files_count": 455,
+  "item_last_updated": 1660503712,
+  "item_size": 34887998,
   "metadata": {
     "identifier": "rt_com-2022",
     "collection": [
@@ -4689,8 +4751,12 @@
     "publicdate": "2022-07-16 20:26:07",
     "addeddate": "2022-07-16 20:26:07"
   },
+  "rt_com-2022": {
+    "url": "https://www.rt.com/",
+    "job_id": "spn2-434ead0ec26e2574e3b6f4e4c1550007fc1a1806"
+  },
   "server": "ia801406.us.archive.org",
-  "uniq": 223988229,
+  "uniq": 2087599830,
   "workable_servers": [
     "ia801406.us.archive.org",
     "ia601406.us.archive.org"
