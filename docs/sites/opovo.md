@@ -22,13 +22,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 27 screenshots with the Internet Archive.
+The archiving routine has saved 28 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/opovo-2022/opovo-2022-08-14T15:56:18.532111-03:00.jpg">
+  <img src="https://archive.org/download/opovo-2022/opovo-2022-08-14T15:56:18.532111-03:00.jpg"
+     alt="O Povo at 2022-08-14 15:56:19-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/opovo-2022/opovo-2022-08-14T15:56:18.532111-03:00.jpg">August 14 at 3:56 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/opovo-2022/opovo-2022-08-14T10:38:04.984852-03:00.jpg">
@@ -129,20 +138,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/opovo-2022/opovo-2022-08-11T02:20:06.979498-03:00.jpg">August 11 at 2:20 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/opovo-2022/opovo-2022-08-10T15:18:59.470097-03:00.jpg">
-  <img src="https://archive.org/download/opovo-2022/opovo-2022-08-10T15:18:59.470097-03:00.jpg"
-     alt="O Povo at 2022-08-10 15:19:01-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/opovo-2022/opovo-2022-08-10T15:18:59.470097-03:00.jpg">August 10 at 3:19 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 24 hyperlink lists with the Internet Archive.
+The archiving routine has saved 25 hyperlink lists with the Internet Archive.
 
 
 
@@ -150,6 +150,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 14 at 3:56 PM](https://archive.org/download/opovo-2022/opovo-2022-08-14T15:56:18.532111-03:00.hyperlinks.json) |
 | [August 14 at 10:38 AM](https://archive.org/download/opovo-2022/opovo-2022-08-14T10:38:04.984852-03:00.hyperlinks.json) |
 | [August 14 at 3:59 AM](https://archive.org/download/opovo-2022/opovo-2022-08-14T03:58:58.782066-03:00.hyperlinks.json) |
 | [August 13 at 5:54 PM](https://archive.org/download/opovo-2022/opovo-2022-08-13T17:54:05.326532-03:00.hyperlinks.json) |
@@ -159,7 +160,6 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 6:41 AM](https://archive.org/download/opovo-2022/opovo-2022-08-12T06:41:04.144215-03:00.hyperlinks.json) |
 | [August 11 at 3:50 PM](https://archive.org/download/opovo-2022/opovo-2022-08-11T15:50:39.096750-03:00.hyperlinks.json) |
 | [August 11 at 10:29 AM](https://archive.org/download/opovo-2022/opovo-2022-08-11T10:28:58.191879-03:00.hyperlinks.json) |
-| [August 11 at 2:20 AM](https://archive.org/download/opovo-2022/opovo-2022-08-11T02:20:06.979498-03:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -187,7 +187,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 26 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
 
 
 
@@ -195,6 +195,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 14 at 3:56 PM](https://archive.org/download/opovo-2022/opovo-2022-08-14T15:56:18.532111-03:00.lighthouse.json) |
 | [August 14 at 10:38 AM](https://archive.org/download/opovo-2022/opovo-2022-08-14T10:38:04.984852-03:00.lighthouse.json) |
 | [August 14 at 3:59 AM](https://archive.org/download/opovo-2022/opovo-2022-08-14T03:58:58.782066-03:00.lighthouse.json) |
 | [August 13 at 5:54 PM](https://archive.org/download/opovo-2022/opovo-2022-08-13T17:54:05.326532-03:00.lighthouse.json) |
@@ -204,7 +205,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 12 at 6:41 AM](https://archive.org/download/opovo-2022/opovo-2022-08-12T06:41:04.144215-03:00.lighthouse.json) |
 | [August 11 at 3:50 PM](https://archive.org/download/opovo-2022/opovo-2022-08-11T15:50:39.096750-03:00.lighthouse.json) |
 | [August 11 at 10:29 AM](https://archive.org/download/opovo-2022/opovo-2022-08-11T10:28:58.191879-03:00.lighthouse.json) |
-| [August 11 at 2:20 AM](https://archive.org/download/opovo-2022/opovo-2022-08-11T02:20:06.979498-03:00.lighthouse.json) |
 
 
 

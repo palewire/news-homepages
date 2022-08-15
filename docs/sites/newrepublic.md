@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 72 screenshots with the Internet Archive.
+The archiving routine has saved 74 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -114,6 +114,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-08-14T15:52:46.400672-04:00.jpg">
+  <img src="https://archive.org/download/newrepublic-2022/newrepublic-2022-08-14T15:52:46.400672-04:00.jpg"
+     alt="New Republic at 2022-08-14 15:52:48-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-08-14T15:52:46.400672-04:00.jpg">August 14 at 3:52 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-08-14T13:29:11.228935-04:00.jpg">
+  <img src="https://archive.org/download/newrepublic-2022/newrepublic-2022-08-14T13:29:11.228935-04:00.jpg"
+     alt="New Republic at 2022-08-14 13:29:12-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-08-14T13:29:11.228935-04:00.jpg">August 14 at 1:29 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-08-14T02:56:47.324907-04:00.jpg">
   <img src="https://archive.org/download/newrepublic-2022/newrepublic-2022-08-14T02:56:47.324907-04:00.jpg"
      alt="New Republic at 2022-08-14 02:56:48-04:00 local time"
@@ -203,29 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-08-10T15:40:39.768943-04:00.jpg">August 10 at 3:40 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-08-10T14:13:03.883380-04:00.jpg">
-  <img src="https://archive.org/download/newrepublic-2022/newrepublic-2022-08-10T14:13:03.883380-04:00.jpg"
-     alt="New Republic at 2022-08-10 14:13:05-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-08-10T14:13:03.883380-04:00.jpg">August 10 at 2:13 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-08-10T00:08:21.457009-04:00.jpg">
-  <img src="https://archive.org/download/newrepublic-2022/newrepublic-2022-08-10T00:08:21.457009-04:00.jpg"
-     alt="New Republic at 2022-08-10 00:08:23-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newrepublic-2022/newrepublic-2022-08-10T00:08:21.457009-04:00.jpg">August 10 at 12:08 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 72 hyperlink lists with the Internet Archive.
+The archiving routine has saved 74 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 14 at 3:52 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-08-14T15:52:46.400672-04:00.hyperlinks.json) |
+| [August 14 at 1:29 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-08-14T13:29:11.228935-04:00.hyperlinks.json) |
 | [August 14 at 2:56 AM](https://archive.org/download/newrepublic-2022/newrepublic-2022-08-14T02:56:47.324907-04:00.hyperlinks.json) |
 | [August 13 at 4:32 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-08-13T16:32:00.219833-04:00.hyperlinks.json) |
 | [August 12 at 11:50 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-08-12T23:50:53.943870-04:00.hyperlinks.json) |
@@ -324,13 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 6:06 AM](https://archive.org/download/newrepublic-2022/newrepublic-2022-08-12T06:06:03.905640-04:00.hyperlinks.json) |
 | [August 11 at 3:43 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-08-11T15:43:12.322259-04:00.hyperlinks.json) |
 | [August 11 at 2:47 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-08-11T14:47:21.500639-04:00.hyperlinks.json) |
-| [August 11 at 12:01 AM](https://archive.org/download/newrepublic-2022/newrepublic-2022-08-11T00:01:14.749596-04:00.hyperlinks.json) |
-| [August 10 at 3:40 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-08-10T15:40:39.768943-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 72 accessibility trees with the Internet Archive.
+The archiving routine has saved 74 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 14 at 3:52 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-08-14T15:52:46.400672-04:00.accessibility.json) |
+| [August 14 at 1:29 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-08-14T13:29:11.228935-04:00.accessibility.json) |
 | [August 14 at 2:56 AM](https://archive.org/download/newrepublic-2022/newrepublic-2022-08-14T02:56:47.324907-04:00.accessibility.json) |
 | [August 13 at 4:32 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-08-13T16:32:00.219833-04:00.accessibility.json) |
 | [August 12 at 11:50 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-08-12T23:50:53.943870-04:00.accessibility.json) |
@@ -429,14 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 6:06 AM](https://archive.org/download/newrepublic-2022/newrepublic-2022-08-12T06:06:03.905640-04:00.accessibility.json) |
 | [August 11 at 3:43 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-08-11T15:43:12.322259-04:00.accessibility.json) |
 | [August 11 at 2:47 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-08-11T14:47:21.500639-04:00.accessibility.json) |
-| [August 11 at 12:01 AM](https://archive.org/download/newrepublic-2022/newrepublic-2022-08-11T00:01:14.749596-04:00.accessibility.json) |
-| [August 10 at 3:40 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-08-10T15:40:39.768943-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 64 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 66 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 14 at 3:52 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-08-14T15:52:46.400672-04:00.lighthouse.json) |
+| [August 14 at 1:29 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-08-14T13:29:11.228935-04:00.lighthouse.json) |
 | [August 14 at 2:56 AM](https://archive.org/download/newrepublic-2022/newrepublic-2022-08-14T02:56:47.324907-04:00.lighthouse.json) |
 | [August 13 at 4:32 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-08-13T16:32:00.219833-04:00.lighthouse.json) |
 | [August 12 at 11:51 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-08-12T23:50:53.943870-04:00.lighthouse.json) |
@@ -535,8 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 12 at 6:06 AM](https://archive.org/download/newrepublic-2022/newrepublic-2022-08-12T06:06:03.905640-04:00.lighthouse.json) |
 | [August 11 at 3:43 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-08-11T15:43:12.322259-04:00.lighthouse.json) |
 | [August 11 at 2:47 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-08-11T14:47:21.500639-04:00.lighthouse.json) |
-| [August 11 at 12:01 AM](https://archive.org/download/newrepublic-2022/newrepublic-2022-08-11T00:01:14.749596-04:00.lighthouse.json) |
-| [August 10 at 3:40 PM](https://archive.org/download/newrepublic-2022/newrepublic-2022-08-10T15:40:39.768943-04:00.lighthouse.json) |
 
 
 

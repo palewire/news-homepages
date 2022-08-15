@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 82 screenshots with the Internet Archive.
+The archiving routine has saved 84 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -114,6 +114,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/redstate-2022/redstate-2022-08-14T15:49:13.836396-04:00.jpg">
+  <img src="https://archive.org/download/redstate-2022/redstate-2022-08-14T15:49:13.836396-04:00.jpg"
+     alt="RedState at 2022-08-14 15:49:15-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/redstate-2022/redstate-2022-08-14T15:49:13.836396-04:00.jpg">August 14 at 3:49 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/redstate-2022/redstate-2022-08-14T09:57:12.942917-04:00.jpg">
+  <img src="https://archive.org/download/redstate-2022/redstate-2022-08-14T09:57:12.942917-04:00.jpg"
+     alt="RedState at 2022-08-14 09:57:15-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/redstate-2022/redstate-2022-08-14T09:57:12.942917-04:00.jpg">August 14 at 9:57 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/redstate-2022/redstate-2022-08-13T23:24:01.732780-04:00.jpg">
   <img src="https://archive.org/download/redstate-2022/redstate-2022-08-13T23:24:01.732780-04:00.jpg"
      alt="RedState at 2022-08-13 23:24:04-04:00 local time"
@@ -203,29 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/redstate-2022/redstate-2022-08-10T20:58:55.397428-04:00.jpg">August 10 at 8:58 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/redstate-2022/redstate-2022-08-10T15:39:07.808407-04:00.jpg">
-  <img src="https://archive.org/download/redstate-2022/redstate-2022-08-10T15:39:07.808407-04:00.jpg"
-     alt="RedState at 2022-08-10 15:39:11-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/redstate-2022/redstate-2022-08-10T15:39:07.808407-04:00.jpg">August 10 at 3:39 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/redstate-2022/redstate-2022-08-10T09:16:44.729350-04:00.jpg">
-  <img src="https://archive.org/download/redstate-2022/redstate-2022-08-10T09:16:44.729350-04:00.jpg"
-     alt="RedState at 2022-08-10 09:16:47-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/redstate-2022/redstate-2022-08-10T09:16:44.729350-04:00.jpg">August 10 at 9:16 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 78 hyperlink lists with the Internet Archive.
+The archiving routine has saved 80 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 14 at 3:49 PM](https://archive.org/download/redstate-2022/redstate-2022-08-14T15:49:13.836396-04:00.hyperlinks.json) |
+| [August 14 at 9:57 AM](https://archive.org/download/redstate-2022/redstate-2022-08-14T09:57:12.942917-04:00.hyperlinks.json) |
 | [August 13 at 11:24 PM](https://archive.org/download/redstate-2022/redstate-2022-08-13T23:24:01.732780-04:00.hyperlinks.json) |
 | [August 13 at 5:29 PM](https://archive.org/download/redstate-2022/redstate-2022-08-13T17:29:40.848459-04:00.hyperlinks.json) |
 | [August 13 at 9:18 AM](https://archive.org/download/redstate-2022/redstate-2022-08-13T09:18:01.904832-04:00.hyperlinks.json) |
@@ -324,13 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 9:30 AM](https://archive.org/download/redstate-2022/redstate-2022-08-12T09:30:32.241571-04:00.hyperlinks.json) |
 | [August 12 at 5:26 AM](https://archive.org/download/redstate-2022/redstate-2022-08-12T05:25:57.413903-04:00.hyperlinks.json) |
 | [August 11 at 3:40 PM](https://archive.org/download/redstate-2022/redstate-2022-08-11T15:40:25.477181-04:00.hyperlinks.json) |
-| [August 11 at 9:47 AM](https://archive.org/download/redstate-2022/redstate-2022-08-11T09:47:37.477590-04:00.hyperlinks.json) |
-| [August 10 at 8:59 PM](https://archive.org/download/redstate-2022/redstate-2022-08-10T20:58:55.397428-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 82 accessibility trees with the Internet Archive.
+The archiving routine has saved 84 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 14 at 3:49 PM](https://archive.org/download/redstate-2022/redstate-2022-08-14T15:49:13.836396-04:00.accessibility.json) |
+| [August 14 at 9:57 AM](https://archive.org/download/redstate-2022/redstate-2022-08-14T09:57:12.942917-04:00.accessibility.json) |
 | [August 13 at 11:24 PM](https://archive.org/download/redstate-2022/redstate-2022-08-13T23:24:01.732780-04:00.accessibility.json) |
 | [August 13 at 5:29 PM](https://archive.org/download/redstate-2022/redstate-2022-08-13T17:29:40.848459-04:00.accessibility.json) |
 | [August 13 at 9:18 AM](https://archive.org/download/redstate-2022/redstate-2022-08-13T09:18:01.904832-04:00.accessibility.json) |
@@ -429,14 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 9:30 AM](https://archive.org/download/redstate-2022/redstate-2022-08-12T09:30:32.241571-04:00.accessibility.json) |
 | [August 12 at 5:26 AM](https://archive.org/download/redstate-2022/redstate-2022-08-12T05:25:57.413903-04:00.accessibility.json) |
 | [August 11 at 3:40 PM](https://archive.org/download/redstate-2022/redstate-2022-08-11T15:40:25.477181-04:00.accessibility.json) |
-| [August 11 at 9:47 AM](https://archive.org/download/redstate-2022/redstate-2022-08-11T09:47:37.477590-04:00.accessibility.json) |
-| [August 10 at 8:58 PM](https://archive.org/download/redstate-2022/redstate-2022-08-10T20:58:55.397428-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 64 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 66 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 14 at 3:49 PM](https://archive.org/download/redstate-2022/redstate-2022-08-14T15:49:13.836396-04:00.lighthouse.json) |
+| [August 14 at 9:57 AM](https://archive.org/download/redstate-2022/redstate-2022-08-14T09:57:12.942917-04:00.lighthouse.json) |
 | [August 13 at 11:24 PM](https://archive.org/download/redstate-2022/redstate-2022-08-13T23:24:01.732780-04:00.lighthouse.json) |
 | [August 13 at 5:29 PM](https://archive.org/download/redstate-2022/redstate-2022-08-13T17:29:40.848459-04:00.lighthouse.json) |
 | [August 13 at 9:18 AM](https://archive.org/download/redstate-2022/redstate-2022-08-13T09:18:01.904832-04:00.lighthouse.json) |
@@ -535,8 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 12 at 9:30 AM](https://archive.org/download/redstate-2022/redstate-2022-08-12T09:30:32.241571-04:00.lighthouse.json) |
 | [August 12 at 5:26 AM](https://archive.org/download/redstate-2022/redstate-2022-08-12T05:25:57.413903-04:00.lighthouse.json) |
 | [August 11 at 3:40 PM](https://archive.org/download/redstate-2022/redstate-2022-08-11T15:40:25.477181-04:00.lighthouse.json) |
-| [August 11 at 9:47 AM](https://archive.org/download/redstate-2022/redstate-2022-08-11T09:47:37.477590-04:00.lighthouse.json) |
-| [August 10 at 8:59 PM](https://archive.org/download/redstate-2022/redstate-2022-08-10T20:58:55.397428-04:00.lighthouse.json) |
 
 
 

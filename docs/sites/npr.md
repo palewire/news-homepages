@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 208 screenshots with the Internet Archive.
+The archiving routine has saved 212 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -114,6 +114,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/npr-2022/npr-2022-08-14T21:24:42.603655-04:00.jpg">
+  <img src="https://archive.org/download/npr-2022/npr-2022-08-14T21:24:42.603655-04:00.jpg"
+     alt="NPR at 2022-08-14 21:24:44-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/npr-2022/npr-2022-08-14T21:24:42.603655-04:00.jpg">August 14 at 9:24 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/npr-2022/npr-2022-08-14T17:13:29.471084-04:00.jpg">
+  <img src="https://archive.org/download/npr-2022/npr-2022-08-14T17:13:29.471084-04:00.jpg"
+     alt="NPR at 2022-08-14 17:13:33-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/npr-2022/npr-2022-08-14T17:13:29.471084-04:00.jpg">August 14 at 5:13 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/npr-2022/npr-2022-08-14T13:11:51.433319-04:00.jpg">
+  <img src="https://archive.org/download/npr-2022/npr-2022-08-14T13:11:51.433319-04:00.jpg"
+     alt="NPR at 2022-08-14 13:11:57-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/npr-2022/npr-2022-08-14T13:11:51.433319-04:00.jpg">August 14 at 1:11 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/npr-2022/npr-2022-08-14T09:53:22.082571-04:00.jpg">
+  <img src="https://archive.org/download/npr-2022/npr-2022-08-14T09:53:22.082571-04:00.jpg"
+     alt="NPR at 2022-08-14 09:53:27-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/npr-2022/npr-2022-08-14T09:53:22.082571-04:00.jpg">August 14 at 9:53 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/npr-2022/npr-2022-08-13T23:18:19.309914-04:00.jpg">
   <img src="https://archive.org/download/npr-2022/npr-2022-08-13T23:18:19.309914-04:00.jpg"
      alt="NPR at 2022-08-13 23:18:24-04:00 local time"
@@ -185,47 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/npr-2022/npr-2022-08-11T17:12:31.017827-04:00.jpg">August 11 at 5:12 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/npr-2022/npr-2022-08-11T09:44:17.134370-04:00.jpg">
-  <img src="https://archive.org/download/npr-2022/npr-2022-08-11T09:44:17.134370-04:00.jpg"
-     alt="NPR at 2022-08-11 09:44:23-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/npr-2022/npr-2022-08-11T09:44:17.134370-04:00.jpg">August 11 at 9:44 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/npr-2022/npr-2022-08-10T20:55:41.949318-04:00.jpg">
-  <img src="https://archive.org/download/npr-2022/npr-2022-08-10T20:55:41.949318-04:00.jpg"
-     alt="NPR at 2022-08-10 20:55:48-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/npr-2022/npr-2022-08-10T20:55:41.949318-04:00.jpg">August 10 at 8:55 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/npr-2022/npr-2022-08-10T17:16:32.819389-04:00.jpg">
-  <img src="https://archive.org/download/npr-2022/npr-2022-08-10T17:16:32.819389-04:00.jpg"
-     alt="NPR at 2022-08-10 17:16:34-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/npr-2022/npr-2022-08-10T17:16:32.819389-04:00.jpg">August 10 at 5:16 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/npr-2022/npr-2022-08-10T10:50:26.628129-04:00.jpg">
-  <img src="https://archive.org/download/npr-2022/npr-2022-08-10T10:50:26.628129-04:00.jpg"
-     alt="NPR at 2022-08-10 10:50:28-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/npr-2022/npr-2022-08-10T10:50:26.628129-04:00.jpg">August 10 at 10:50 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 210 hyperlink lists with the Internet Archive.
+The archiving routine has saved 214 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,21 +316,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 14 at 9:24 PM](https://archive.org/download/npr-2022/npr-2022-08-14T21:24:42.603655-04:00.hyperlinks.json) |
+| [August 14 at 5:13 PM](https://archive.org/download/npr-2022/npr-2022-08-14T17:13:29.471084-04:00.hyperlinks.json) |
+| [August 14 at 1:12 PM](https://archive.org/download/npr-2022/npr-2022-08-14T13:11:51.433319-04:00.hyperlinks.json) |
+| [August 14 at 9:53 AM](https://archive.org/download/npr-2022/npr-2022-08-14T09:53:22.082571-04:00.hyperlinks.json) |
 | [August 13 at 11:18 PM](https://archive.org/download/npr-2022/npr-2022-08-13T23:18:19.309914-04:00.hyperlinks.json) |
 | [August 13 at 9:15 AM](https://archive.org/download/npr-2022/npr-2022-08-13T09:15:13.055925-04:00.hyperlinks.json) |
 | [August 12 at 8:46 PM](https://archive.org/download/npr-2022/npr-2022-08-12T20:46:24.548386-04:00.hyperlinks.json) |
 | [August 12 at 5:13 PM](https://archive.org/download/npr-2022/npr-2022-08-12T17:13:00.660173-04:00.hyperlinks.json) |
 | [August 12 at 12:14 PM](https://archive.org/download/npr-2022/npr-2022-08-12T12:13:55.838537-04:00.hyperlinks.json) |
 | [August 12 at 9:27 AM](https://archive.org/download/npr-2022/npr-2022-08-12T09:26:58.241948-04:00.hyperlinks.json) |
-| [August 12 at 5:22 AM](https://archive.org/download/npr-2022/npr-2022-08-12T05:22:23.908157-04:00.hyperlinks.json) |
-| [August 11 at 5:12 PM](https://archive.org/download/npr-2022/npr-2022-08-11T17:12:31.017827-04:00.hyperlinks.json) |
-| [August 11 at 12:55 PM](https://archive.org/download/npr-2022/npr-2022-08-11T12:55:19.651717-04:00.hyperlinks.json) |
-| [August 11 at 9:44 AM](https://archive.org/download/npr-2022/npr-2022-08-11T09:44:17.134370-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 210 accessibility trees with the Internet Archive.
+The archiving routine has saved 214 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,22 +421,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 14 at 9:24 PM](https://archive.org/download/npr-2022/npr-2022-08-14T21:24:42.603655-04:00.accessibility.json) |
+| [August 14 at 5:13 PM](https://archive.org/download/npr-2022/npr-2022-08-14T17:13:29.471084-04:00.accessibility.json) |
+| [August 14 at 1:11 PM](https://archive.org/download/npr-2022/npr-2022-08-14T13:11:51.433319-04:00.accessibility.json) |
+| [August 14 at 9:53 AM](https://archive.org/download/npr-2022/npr-2022-08-14T09:53:22.082571-04:00.accessibility.json) |
 | [August 13 at 11:18 PM](https://archive.org/download/npr-2022/npr-2022-08-13T23:18:19.309914-04:00.accessibility.json) |
 | [August 13 at 9:15 AM](https://archive.org/download/npr-2022/npr-2022-08-13T09:15:13.055925-04:00.accessibility.json) |
 | [August 12 at 8:46 PM](https://archive.org/download/npr-2022/npr-2022-08-12T20:46:24.548386-04:00.accessibility.json) |
 | [August 12 at 5:13 PM](https://archive.org/download/npr-2022/npr-2022-08-12T17:13:00.660173-04:00.accessibility.json) |
 | [August 12 at 12:13 PM](https://archive.org/download/npr-2022/npr-2022-08-12T12:13:55.838537-04:00.accessibility.json) |
 | [August 12 at 9:27 AM](https://archive.org/download/npr-2022/npr-2022-08-12T09:26:58.241948-04:00.accessibility.json) |
-| [August 12 at 5:22 AM](https://archive.org/download/npr-2022/npr-2022-08-12T05:22:23.908157-04:00.accessibility.json) |
-| [August 11 at 5:12 PM](https://archive.org/download/npr-2022/npr-2022-08-11T17:12:31.017827-04:00.accessibility.json) |
-| [August 11 at 12:55 PM](https://archive.org/download/npr-2022/npr-2022-08-11T12:55:19.651717-04:00.accessibility.json) |
-| [August 11 at 9:44 AM](https://archive.org/download/npr-2022/npr-2022-08-11T09:44:17.134370-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 84 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 88 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 14 at 9:24 PM](https://archive.org/download/npr-2022/npr-2022-08-14T21:24:42.603655-04:00.lighthouse.json) |
+| [August 14 at 5:13 PM](https://archive.org/download/npr-2022/npr-2022-08-14T17:13:29.471084-04:00.lighthouse.json) |
+| [August 14 at 1:12 PM](https://archive.org/download/npr-2022/npr-2022-08-14T13:11:51.433319-04:00.lighthouse.json) |
+| [August 14 at 9:53 AM](https://archive.org/download/npr-2022/npr-2022-08-14T09:53:22.082571-04:00.lighthouse.json) |
 | [August 13 at 11:18 PM](https://archive.org/download/npr-2022/npr-2022-08-13T23:18:19.309914-04:00.lighthouse.json) |
 | [August 13 at 9:15 AM](https://archive.org/download/npr-2022/npr-2022-08-13T09:15:13.055925-04:00.lighthouse.json) |
 | [August 12 at 8:46 PM](https://archive.org/download/npr-2022/npr-2022-08-12T20:46:24.548386-04:00.lighthouse.json) |
 | [August 12 at 5:13 PM](https://archive.org/download/npr-2022/npr-2022-08-12T17:13:00.660173-04:00.lighthouse.json) |
 | [August 12 at 12:14 PM](https://archive.org/download/npr-2022/npr-2022-08-12T12:13:55.838537-04:00.lighthouse.json) |
 | [August 12 at 9:27 AM](https://archive.org/download/npr-2022/npr-2022-08-12T09:26:58.241948-04:00.lighthouse.json) |
-| [August 12 at 5:22 AM](https://archive.org/download/npr-2022/npr-2022-08-12T05:22:23.908157-04:00.lighthouse.json) |
-| [August 11 at 5:12 PM](https://archive.org/download/npr-2022/npr-2022-08-11T17:12:31.017827-04:00.lighthouse.json) |
-| [August 11 at 12:55 PM](https://archive.org/download/npr-2022/npr-2022-08-11T12:55:19.651717-04:00.lighthouse.json) |
-| [August 11 at 9:44 AM](https://archive.org/download/npr-2022/npr-2022-08-11T09:44:17.134370-04:00.lighthouse.json) |
 
 
 

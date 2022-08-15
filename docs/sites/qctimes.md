@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 232 screenshots with the Internet Archive.
+The archiving routine has saved 233 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 232 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/qctimes-2022/qctimes-2022-08-14T13:58:35.972716-05:00.jpg">
+  <img src="https://archive.org/download/qctimes-2022/qctimes-2022-08-14T13:58:35.972716-05:00.jpg"
+     alt="Quad City Times at 2022-08-14 13:58:43-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/qctimes-2022/qctimes-2022-08-14T13:58:35.972716-05:00.jpg">August 14 at 1:58 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/qctimes-2022/qctimes-2022-08-14T02:02:21.026776-05:00.jpg">
@@ -212,20 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/qctimes-2022/qctimes-2022-08-10T00:29:15.319656-05:00.jpg">August 10 at 12:29 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/qctimes-2022/qctimes-2022-08-09T12:49:58.574120-05:00.jpg">
-  <img src="https://archive.org/download/qctimes-2022/qctimes-2022-08-09T12:49:58.574120-05:00.jpg"
-     alt="Quad City Times at 2022-08-09 12:50:01-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/qctimes-2022/qctimes-2022-08-09T12:49:58.574120-05:00.jpg">August 9 at 12:50 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 214 hyperlink lists with the Internet Archive.
+The archiving routine has saved 215 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 14 at 1:58 PM](https://archive.org/download/qctimes-2022/qctimes-2022-08-14T13:58:35.972716-05:00.hyperlinks.json) |
 | [August 14 at 2:02 AM](https://archive.org/download/qctimes-2022/qctimes-2022-08-14T02:02:21.026776-05:00.hyperlinks.json) |
 | [August 13 at 3:58 PM](https://archive.org/download/qctimes-2022/qctimes-2022-08-13T15:58:19.907843-05:00.hyperlinks.json) |
 | [August 13 at 12:09 AM](https://archive.org/download/qctimes-2022/qctimes-2022-08-13T00:09:31.939043-05:00.hyperlinks.json) |
@@ -325,12 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 11 at 1:53 PM](https://archive.org/download/qctimes-2022/qctimes-2022-08-11T13:53:39.605513-05:00.hyperlinks.json) |
 | [August 11 at 12:23 AM](https://archive.org/download/qctimes-2022/qctimes-2022-08-11T00:23:08.967555-05:00.hyperlinks.json) |
 | [August 10 at 1:54 PM](https://archive.org/download/qctimes-2022/qctimes-2022-08-10T13:54:06.449532-05:00.hyperlinks.json) |
-| [August 10 at 1:19 PM](https://archive.org/download/qctimes-2022/qctimes-2022-08-10T13:19:01.236977-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 213 accessibility trees with the Internet Archive.
+The archiving routine has saved 214 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 14 at 1:58 PM](https://archive.org/download/qctimes-2022/qctimes-2022-08-14T13:58:35.972716-05:00.accessibility.json) |
 | [August 14 at 2:02 AM](https://archive.org/download/qctimes-2022/qctimes-2022-08-14T02:02:21.026776-05:00.accessibility.json) |
 | [August 13 at 3:58 PM](https://archive.org/download/qctimes-2022/qctimes-2022-08-13T15:58:19.907843-05:00.accessibility.json) |
 | [August 13 at 12:09 AM](https://archive.org/download/qctimes-2022/qctimes-2022-08-13T00:09:31.939043-05:00.accessibility.json) |
@@ -430,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 11 at 1:53 PM](https://archive.org/download/qctimes-2022/qctimes-2022-08-11T13:53:39.605513-05:00.accessibility.json) |
 | [August 11 at 12:23 AM](https://archive.org/download/qctimes-2022/qctimes-2022-08-11T00:23:08.967555-05:00.accessibility.json) |
 | [August 10 at 1:54 PM](https://archive.org/download/qctimes-2022/qctimes-2022-08-10T13:54:06.449532-05:00.accessibility.json) |
-| [August 10 at 1:19 PM](https://archive.org/download/qctimes-2022/qctimes-2022-08-10T13:19:01.236977-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 52 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 53 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 14 at 1:58 PM](https://archive.org/download/qctimes-2022/qctimes-2022-08-14T13:58:35.972716-05:00.lighthouse.json) |
 | [August 14 at 2:02 AM](https://archive.org/download/qctimes-2022/qctimes-2022-08-14T02:02:21.026776-05:00.lighthouse.json) |
 | [August 13 at 3:58 PM](https://archive.org/download/qctimes-2022/qctimes-2022-08-13T15:58:19.907843-05:00.lighthouse.json) |
 | [August 13 at 12:09 AM](https://archive.org/download/qctimes-2022/qctimes-2022-08-13T00:09:31.939043-05:00.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 11 at 1:53 PM](https://archive.org/download/qctimes-2022/qctimes-2022-08-11T13:53:39.605513-05:00.lighthouse.json) |
 | [August 11 at 12:23 AM](https://archive.org/download/qctimes-2022/qctimes-2022-08-11T00:23:08.967555-05:00.lighthouse.json) |
 | [August 10 at 1:54 PM](https://archive.org/download/qctimes-2022/qctimes-2022-08-10T13:54:06.449532-05:00.lighthouse.json) |
-| [August 10 at 1:19 PM](https://archive.org/download/qctimes-2022/qctimes-2022-08-10T13:19:01.236977-05:00.lighthouse.json) |
 
 
 

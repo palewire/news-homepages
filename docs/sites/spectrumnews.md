@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 117 screenshots with the Internet Archive.
+The archiving routine has saved 118 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 117 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-08-14T11:01:56.207734-06:00.jpg">
+  <img src="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-08-14T11:01:56.207734-06:00.jpg"
+     alt="The Spectrum at 2022-08-14 11:02:06-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-08-14T11:01:56.207734-06:00.jpg">August 14 at 11:02 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-08-13T23:04:51.384486-06:00.jpg">
@@ -212,20 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-08-08T06:52:09.409018-06:00.jpg">August 8 at 6:52 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-08-07T19:10:33.309779-06:00.jpg">
-  <img src="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-08-07T19:10:33.309779-06:00.jpg"
-     alt="The Spectrum at 2022-08-07 19:10:34-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/spectrumnews-2022/spectrumnews-2022-08-07T19:10:33.309779-06:00.jpg">August 7 at 7:10 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 117 hyperlink lists with the Internet Archive.
+The archiving routine has saved 118 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 14 at 11:02 AM](https://archive.org/download/spectrumnews-2022/spectrumnews-2022-08-14T11:01:56.207734-06:00.hyperlinks.json) |
 | [August 13 at 11:05 PM](https://archive.org/download/spectrumnews-2022/spectrumnews-2022-08-13T23:04:51.384486-06:00.hyperlinks.json) |
 | [August 13 at 7:20 AM](https://archive.org/download/spectrumnews-2022/spectrumnews-2022-08-13T07:20:26.158939-06:00.hyperlinks.json) |
 | [August 12 at 6:51 PM](https://archive.org/download/spectrumnews-2022/spectrumnews-2022-08-12T18:51:44.490230-06:00.hyperlinks.json) |
@@ -325,12 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 10 at 7:00 PM](https://archive.org/download/spectrumnews-2022/spectrumnews-2022-08-10T19:00:46.759106-06:00.hyperlinks.json) |
 | [August 10 at 7:20 AM](https://archive.org/download/spectrumnews-2022/spectrumnews-2022-08-10T07:20:09.635041-06:00.hyperlinks.json) |
 | [August 9 at 7:08 PM](https://archive.org/download/spectrumnews-2022/spectrumnews-2022-08-09T19:07:56.707593-06:00.hyperlinks.json) |
-| [August 9 at 7:06 AM](https://archive.org/download/spectrumnews-2022/spectrumnews-2022-08-09T07:06:14.979557-06:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 118 accessibility trees with the Internet Archive.
+The archiving routine has saved 119 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 14 at 11:02 AM](https://archive.org/download/spectrumnews-2022/spectrumnews-2022-08-14T11:01:56.207734-06:00.accessibility.json) |
 | [August 13 at 11:05 PM](https://archive.org/download/spectrumnews-2022/spectrumnews-2022-08-13T23:04:51.384486-06:00.accessibility.json) |
 | [August 13 at 7:20 AM](https://archive.org/download/spectrumnews-2022/spectrumnews-2022-08-13T07:20:26.158939-06:00.accessibility.json) |
 | [August 12 at 6:51 PM](https://archive.org/download/spectrumnews-2022/spectrumnews-2022-08-12T18:51:44.490230-06:00.accessibility.json) |
@@ -430,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 10 at 7:00 PM](https://archive.org/download/spectrumnews-2022/spectrumnews-2022-08-10T19:00:46.759106-06:00.accessibility.json) |
 | [August 10 at 7:20 AM](https://archive.org/download/spectrumnews-2022/spectrumnews-2022-08-10T07:20:09.635041-06:00.accessibility.json) |
 | [August 9 at 7:07 PM](https://archive.org/download/spectrumnews-2022/spectrumnews-2022-08-09T19:07:56.707593-06:00.accessibility.json) |
-| [August 9 at 7:06 AM](https://archive.org/download/spectrumnews-2022/spectrumnews-2022-08-09T07:06:14.979557-06:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 44 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 45 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 14 at 11:02 AM](https://archive.org/download/spectrumnews-2022/spectrumnews-2022-08-14T11:01:56.207734-06:00.lighthouse.json) |
 | [August 13 at 11:05 PM](https://archive.org/download/spectrumnews-2022/spectrumnews-2022-08-13T23:04:51.384486-06:00.lighthouse.json) |
 | [August 13 at 7:20 AM](https://archive.org/download/spectrumnews-2022/spectrumnews-2022-08-13T07:20:26.158939-06:00.lighthouse.json) |
 | [August 12 at 6:51 PM](https://archive.org/download/spectrumnews-2022/spectrumnews-2022-08-12T18:51:44.490230-06:00.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 10 at 7:00 PM](https://archive.org/download/spectrumnews-2022/spectrumnews-2022-08-10T19:00:46.759106-06:00.lighthouse.json) |
 | [August 10 at 7:20 AM](https://archive.org/download/spectrumnews-2022/spectrumnews-2022-08-10T07:20:09.635041-06:00.lighthouse.json) |
 | [August 9 at 7:08 PM](https://archive.org/download/spectrumnews-2022/spectrumnews-2022-08-09T19:07:56.707593-06:00.lighthouse.json) |
-| [August 9 at 7:06 AM](https://archive.org/download/spectrumnews-2022/spectrumnews-2022-08-09T07:06:14.979557-06:00.lighthouse.json) |
 
 
 

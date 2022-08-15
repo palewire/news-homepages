@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 95 screenshots with the Internet Archive.
+The archiving routine has saved 96 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 95 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-08-14T12:00:01.898902-07:00.jpg">
+  <img src="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-08-14T12:00:01.898902-07:00.jpg"
+     alt="Sacramento Bee at 2022-08-14 12:00:04-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-08-14T12:00:01.898902-07:00.jpg">August 14 at 12:00 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-08-14T00:03:41.856512-07:00.jpg">
@@ -212,20 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-08-08T22:08:36.798930-07:00.jpg">August 8 at 10:08 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-08-08T10:18:22.145414-07:00.jpg">
-  <img src="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-08-08T10:18:22.145414-07:00.jpg"
-     alt="Sacramento Bee at 2022-08-08 10:18:24-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sacbee_news-2022/sacbee_news-2022-08-08T10:18:22.145414-07:00.jpg">August 8 at 10:18 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 74 hyperlink lists with the Internet Archive.
+The archiving routine has saved 75 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 14 at 12:00 PM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-08-14T12:00:01.898902-07:00.hyperlinks.json) |
 | [August 14 at 12:03 AM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-08-14T00:03:41.856512-07:00.hyperlinks.json) |
 | [August 12 at 11:23 AM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-08-12T11:23:19.951697-07:00.hyperlinks.json) |
 | [August 11 at 11:54 AM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-08-11T11:54:11.694547-07:00.hyperlinks.json) |
@@ -325,12 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 7 at 10:23 PM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-08-07T22:23:14.053724-07:00.hyperlinks.json) |
 | [August 7 at 10:04 AM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-08-07T10:04:10.678226-07:00.hyperlinks.json) |
 | [August 6 at 9:42 PM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-08-06T21:42:44.518915-07:00.hyperlinks.json) |
-| [August 6 at 9:26 AM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-08-06T09:26:00.869895-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 95 accessibility trees with the Internet Archive.
+The archiving routine has saved 96 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 14 at 12:00 PM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-08-14T12:00:01.898902-07:00.accessibility.json) |
 | [August 14 at 12:03 AM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-08-14T00:03:41.856512-07:00.accessibility.json) |
 | [August 13 at 1:59 PM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-08-13T13:59:29.623591-07:00.accessibility.json) |
 | [August 12 at 10:11 PM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-08-12T22:11:29.316240-07:00.accessibility.json) |
@@ -430,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 10 at 10:24 PM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-08-10T22:24:51.061869-07:00.accessibility.json) |
 | [August 10 at 11:21 AM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-08-10T11:21:18.164115-07:00.accessibility.json) |
 | [August 9 at 10:30 PM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-08-09T22:30:06.340180-07:00.accessibility.json) |
-| [August 9 at 10:51 AM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-08-09T10:51:55.059356-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 43 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 44 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 14 at 12:00 PM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-08-14T12:00:01.898902-07:00.lighthouse.json) |
 | [August 14 at 12:03 AM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-08-14T00:03:41.856512-07:00.lighthouse.json) |
 | [August 13 at 1:59 PM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-08-13T13:59:29.623591-07:00.lighthouse.json) |
 | [August 12 at 10:11 PM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-08-12T22:11:29.316240-07:00.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 10 at 10:24 PM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-08-10T22:24:51.061869-07:00.lighthouse.json) |
 | [August 10 at 11:22 AM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-08-10T11:21:18.164115-07:00.lighthouse.json) |
 | [August 9 at 10:30 PM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-08-09T22:30:06.340180-07:00.lighthouse.json) |
-| [August 9 at 10:52 AM](https://archive.org/download/sacbee_news-2022/sacbee_news-2022-08-09T10:51:55.059356-07:00.lighthouse.json) |
 
 
 

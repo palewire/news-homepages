@@ -22,13 +22,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 1 screenshots with the Internet Archive.
+The archiving routine has saved 2 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-14T11:13:42.970249-06:00.jpg">
+  <img src="https://archive.org/download/csgazette-2022/csgazette-2022-08-14T11:13:42.970249-06:00.jpg"
+     alt="Colorado Springs Gazette at 2022-08-14 11:13:45-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-14T11:13:42.970249-06:00.jpg">August 14 at 11:13 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-14T00:40:56.670985-06:00.jpg">
@@ -70,7 +79,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 0 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 1 Lighthouse audits with the Internet Archive.
 
 
 
@@ -78,6 +87,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 14 at 11:13 AM](https://archive.org/download/csgazette-2022/csgazette-2022-08-14T11:13:42.970249-06:00.lighthouse.json) |
 
 
 

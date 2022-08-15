@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 51 screenshots with the Internet Archive.
+The archiving routine has saved 52 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 51 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-14T21:03:06.976879-04:00.jpg">
+  <img src="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-14T21:03:06.976879-04:00.jpg"
+     alt="The Brunswick News at 2022-08-14 21:03:09-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-14T21:03:06.976879-04:00.jpg">August 14 at 9:03 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-14T09:25:23.047501-04:00.jpg">
@@ -212,20 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-09T08:41:51.908911-04:00.jpg">August 9 at 8:41 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-08T20:35:33.336742-04:00.jpg">
-  <img src="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-08T20:35:33.336742-04:00.jpg"
-     alt="The Brunswick News at 2022-08-08 20:35:36-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-08T20:35:33.336742-04:00.jpg">August 8 at 8:35 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 51 hyperlink lists with the Internet Archive.
+The archiving routine has saved 52 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 14 at 9:03 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-14T21:03:06.976879-04:00.hyperlinks.json) |
 | [August 14 at 9:25 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-14T09:25:23.047501-04:00.hyperlinks.json) |
 | [August 13 at 7:48 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-13T19:47:54.046405-04:00.hyperlinks.json) |
 | [August 13 at 8:53 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-13T08:53:55.881566-04:00.hyperlinks.json) |
@@ -325,12 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 11 at 7:36 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-11T07:36:32.058539-04:00.hyperlinks.json) |
 | [August 10 at 8:40 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-10T20:40:18.973282-04:00.hyperlinks.json) |
 | [August 10 at 8:53 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-10T08:53:22.879656-04:00.hyperlinks.json) |
-| [August 9 at 7:23 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-09T19:23:51.946451-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 50 accessibility trees with the Internet Archive.
+The archiving routine has saved 51 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 14 at 9:03 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-14T21:03:06.976879-04:00.accessibility.json) |
 | [August 14 at 9:25 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-14T09:25:23.047501-04:00.accessibility.json) |
 | [August 13 at 7:47 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-13T19:47:54.046405-04:00.accessibility.json) |
 | [August 13 at 8:53 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-13T08:53:55.881566-04:00.accessibility.json) |
@@ -430,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 11 at 7:36 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-11T07:36:32.058539-04:00.accessibility.json) |
 | [August 10 at 8:40 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-10T20:40:18.973282-04:00.accessibility.json) |
 | [August 10 at 8:53 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-10T08:53:22.879656-04:00.accessibility.json) |
-| [August 9 at 7:23 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-09T19:23:51.946451-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 44 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 45 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 14 at 9:03 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-14T21:03:06.976879-04:00.lighthouse.json) |
 | [August 14 at 9:25 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-14T09:25:23.047501-04:00.lighthouse.json) |
 | [August 13 at 7:48 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-13T19:47:54.046405-04:00.lighthouse.json) |
 | [August 13 at 8:54 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-13T08:53:55.881566-04:00.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 11 at 7:36 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-11T07:36:32.058539-04:00.lighthouse.json) |
 | [August 10 at 8:40 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-10T20:40:18.973282-04:00.lighthouse.json) |
 | [August 10 at 8:53 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-10T08:53:22.879656-04:00.lighthouse.json) |
-| [August 9 at 7:23 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-09T19:23:51.946451-04:00.lighthouse.json) |
 
 
 

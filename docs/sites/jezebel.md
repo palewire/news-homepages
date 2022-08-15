@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 79 screenshots with the Internet Archive.
+The archiving routine has saved 82 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -114,6 +114,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/jezebel-2022/jezebel-2022-08-14T21:14:36.993058-04:00.jpg">
+  <img src="https://archive.org/download/jezebel-2022/jezebel-2022-08-14T21:14:36.993058-04:00.jpg"
+     alt="Jezebel at 2022-08-14 21:14:40-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jezebel-2022/jezebel-2022-08-14T21:14:36.993058-04:00.jpg">August 14 at 9:14 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jezebel-2022/jezebel-2022-08-14T16:19:05.686232-04:00.jpg">
+  <img src="https://archive.org/download/jezebel-2022/jezebel-2022-08-14T16:19:05.686232-04:00.jpg"
+     alt="Jezebel at 2022-08-14 16:19:07-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jezebel-2022/jezebel-2022-08-14T16:19:05.686232-04:00.jpg">August 14 at 4:19 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jezebel-2022/jezebel-2022-08-14T15:51:48.266363-04:00.jpg">
+  <img src="https://archive.org/download/jezebel-2022/jezebel-2022-08-14T15:51:48.266363-04:00.jpg"
+     alt="Jezebel at 2022-08-14 15:51:56-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jezebel-2022/jezebel-2022-08-14T15:51:48.266363-04:00.jpg">August 14 at 3:51 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/jezebel-2022/jezebel-2022-08-14T09:44:08.952942-04:00.jpg">
   <img src="https://archive.org/download/jezebel-2022/jezebel-2022-08-14T09:44:08.952942-04:00.jpg"
      alt="Jezebel at 2022-08-14 09:44:16-04:00 local time"
@@ -194,38 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/jezebel-2022/jezebel-2022-08-11T09:35:10.670293-04:00.jpg">August 11 at 9:35 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/jezebel-2022/jezebel-2022-08-10T20:47:56.545981-04:00.jpg">
-  <img src="https://archive.org/download/jezebel-2022/jezebel-2022-08-10T20:47:56.545981-04:00.jpg"
-     alt="Jezebel at 2022-08-10 20:47:59-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/jezebel-2022/jezebel-2022-08-10T20:47:56.545981-04:00.jpg">August 10 at 8:47 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/jezebel-2022/jezebel-2022-08-10T09:03:58.317341-04:00.jpg">
-  <img src="https://archive.org/download/jezebel-2022/jezebel-2022-08-10T09:03:58.317341-04:00.jpg"
-     alt="Jezebel at 2022-08-10 09:04:01-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/jezebel-2022/jezebel-2022-08-10T09:03:58.317341-04:00.jpg">August 10 at 9:04 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/jezebel-2022/jezebel-2022-08-09T20:50:17.305210-04:00.jpg">
-  <img src="https://archive.org/download/jezebel-2022/jezebel-2022-08-09T20:50:17.305210-04:00.jpg"
-     alt="Jezebel at 2022-08-09 20:50:21-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/jezebel-2022/jezebel-2022-08-09T20:50:17.305210-04:00.jpg">August 9 at 8:50 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 49 hyperlink lists with the Internet Archive.
+The archiving routine has saved 51 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 14 at 9:14 PM](https://archive.org/download/jezebel-2022/jezebel-2022-08-14T21:14:36.993058-04:00.hyperlinks.json) |
+| [August 14 at 4:19 PM](https://archive.org/download/jezebel-2022/jezebel-2022-08-14T16:19:05.686232-04:00.hyperlinks.json) |
 | [August 14 at 9:44 AM](https://archive.org/download/jezebel-2022/jezebel-2022-08-14T09:44:08.952942-04:00.hyperlinks.json) |
 | [August 13 at 9:06 AM](https://archive.org/download/jezebel-2022/jezebel-2022-08-13T09:05:59.656799-04:00.hyperlinks.json) |
 | [August 12 at 8:38 PM](https://archive.org/download/jezebel-2022/jezebel-2022-08-12T20:37:56.663647-04:00.hyperlinks.json) |
@@ -324,13 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 5:15 AM](https://archive.org/download/jezebel-2022/jezebel-2022-08-12T05:15:31.262249-04:00.hyperlinks.json) |
 | [August 11 at 9:35 AM](https://archive.org/download/jezebel-2022/jezebel-2022-08-11T09:35:10.670293-04:00.hyperlinks.json) |
 | [August 10 at 3:40 PM](https://archive.org/download/jezebel-2022/jezebel-2022-08-10T15:40:13.345456-04:00.hyperlinks.json) |
-| [August 9 at 8:51 AM](https://archive.org/download/jezebel-2022/jezebel-2022-08-09T08:51:45.979812-04:00.hyperlinks.json) |
-| [August 7 at 8:32 AM](https://archive.org/download/jezebel-2022/jezebel-2022-08-07T08:32:45.283502-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 55 accessibility trees with the Internet Archive.
+The archiving routine has saved 57 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 14 at 4:19 PM](https://archive.org/download/jezebel-2022/jezebel-2022-08-14T16:19:05.686232-04:00.accessibility.json) |
+| [August 14 at 3:51 PM](https://archive.org/download/jezebel-2022/jezebel-2022-08-14T15:51:48.266363-04:00.accessibility.json) |
 | [August 14 at 9:44 AM](https://archive.org/download/jezebel-2022/jezebel-2022-08-14T09:44:08.952942-04:00.accessibility.json) |
 | [August 13 at 9:06 AM](https://archive.org/download/jezebel-2022/jezebel-2022-08-13T09:05:59.656799-04:00.accessibility.json) |
 | [August 12 at 8:38 PM](https://archive.org/download/jezebel-2022/jezebel-2022-08-12T20:37:56.663647-04:00.accessibility.json) |
@@ -429,14 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 10 at 9:04 AM](https://archive.org/download/jezebel-2022/jezebel-2022-08-10T09:03:58.317341-04:00.accessibility.json) |
 | [August 9 at 2:46 PM](https://archive.org/download/jezebel-2022/jezebel-2022-08-09T14:45:58.535582-04:00.accessibility.json) |
 | [August 8 at 2:38 PM](https://archive.org/download/jezebel-2022/jezebel-2022-08-08T14:38:35.831461-04:00.accessibility.json) |
-| [August 8 at 8:37 AM](https://archive.org/download/jezebel-2022/jezebel-2022-08-08T08:37:45.654217-04:00.accessibility.json) |
-| [August 6 at 2:41 PM](https://archive.org/download/jezebel-2022/jezebel-2022-08-06T14:41:43.110372-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 65 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 68 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 14 at 9:14 PM](https://archive.org/download/jezebel-2022/jezebel-2022-08-14T21:14:36.993058-04:00.lighthouse.json) |
+| [August 14 at 4:19 PM](https://archive.org/download/jezebel-2022/jezebel-2022-08-14T16:19:05.686232-04:00.lighthouse.json) |
+| [August 14 at 3:51 PM](https://archive.org/download/jezebel-2022/jezebel-2022-08-14T15:51:48.266363-04:00.lighthouse.json) |
 | [August 14 at 9:44 AM](https://archive.org/download/jezebel-2022/jezebel-2022-08-14T09:44:08.952942-04:00.lighthouse.json) |
 | [August 13 at 11:09 PM](https://archive.org/download/jezebel-2022/jezebel-2022-08-13T23:08:54.293791-04:00.lighthouse.json) |
 | [August 13 at 9:06 AM](https://archive.org/download/jezebel-2022/jezebel-2022-08-13T09:05:59.656799-04:00.lighthouse.json) |
@@ -534,9 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 12 at 3:16 PM](https://archive.org/download/jezebel-2022/jezebel-2022-08-12T15:16:19.380941-04:00.lighthouse.json) |
 | [August 12 at 9:18 AM](https://archive.org/download/jezebel-2022/jezebel-2022-08-12T09:18:15.582838-04:00.lighthouse.json) |
 | [August 12 at 5:15 AM](https://archive.org/download/jezebel-2022/jezebel-2022-08-12T05:15:31.262249-04:00.lighthouse.json) |
-| [August 11 at 3:42 PM](https://archive.org/download/jezebel-2022/jezebel-2022-08-11T15:42:43.899910-04:00.lighthouse.json) |
-| [August 11 at 9:35 AM](https://archive.org/download/jezebel-2022/jezebel-2022-08-11T09:35:10.670293-04:00.lighthouse.json) |
-| [August 10 at 8:48 PM](https://archive.org/download/jezebel-2022/jezebel-2022-08-10T20:47:56.545981-04:00.lighthouse.json) |
 
 
 

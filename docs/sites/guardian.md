@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 371 screenshots with the Internet Archive.
+The archiving routine has saved 372 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 371 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/guardian-2022/guardian-2022-08-14T18:20:29.934949+01:00.jpg">
+  <img src="https://archive.org/download/guardian-2022/guardian-2022-08-14T18:20:29.934949+01:00.jpg"
+     alt="The Guardian at 2022-08-14 18:20:32+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/guardian-2022/guardian-2022-08-14T18:20:29.934949+01:00.jpg">August 14 at 6:20 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/guardian-2022/guardian-2022-08-14T10:11:42.440128+01:00.jpg">
@@ -212,20 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/guardian-2022/guardian-2022-08-11T04:52:45.526860+01:00.jpg">August 11 at 4:52 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/guardian-2022/guardian-2022-08-10T19:05:29.625587+01:00.jpg">
-  <img src="https://archive.org/download/guardian-2022/guardian-2022-08-10T19:05:29.625587+01:00.jpg"
-     alt="The Guardian at 2022-08-10 19:05:30+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/guardian-2022/guardian-2022-08-10T19:05:29.625587+01:00.jpg">August 10 at 7:05 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 358 hyperlink lists with the Internet Archive.
+The archiving routine has saved 359 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 14 at 6:20 PM](https://archive.org/download/guardian-2022/guardian-2022-08-14T18:20:29.934949+01:00.hyperlinks.json) |
 | [August 14 at 10:11 AM](https://archive.org/download/guardian-2022/guardian-2022-08-14T10:11:42.440128+01:00.hyperlinks.json) |
 | [August 14 at 7:48 AM](https://archive.org/download/guardian-2022/guardian-2022-08-14T07:47:58.626965+01:00.hyperlinks.json) |
 | [August 13 at 9:24 PM](https://archive.org/download/guardian-2022/guardian-2022-08-13T21:24:10.953944+01:00.hyperlinks.json) |
@@ -325,12 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 12:30 PM](https://archive.org/download/guardian-2022/guardian-2022-08-12T12:30:47.209988+01:00.hyperlinks.json) |
 | [August 12 at 10:59 AM](https://archive.org/download/guardian-2022/guardian-2022-08-12T10:59:23.668066+01:00.hyperlinks.json) |
 | [August 11 at 7:40 PM](https://archive.org/download/guardian-2022/guardian-2022-08-11T19:40:36.074082+01:00.hyperlinks.json) |
-| [August 11 at 10:10 AM](https://archive.org/download/guardian-2022/guardian-2022-08-11T10:10:38.385258+01:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 359 accessibility trees with the Internet Archive.
+The archiving routine has saved 360 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 14 at 6:20 PM](https://archive.org/download/guardian-2022/guardian-2022-08-14T18:20:29.934949+01:00.accessibility.json) |
 | [August 14 at 10:11 AM](https://archive.org/download/guardian-2022/guardian-2022-08-14T10:11:42.440128+01:00.accessibility.json) |
 | [August 14 at 7:48 AM](https://archive.org/download/guardian-2022/guardian-2022-08-14T07:47:58.626965+01:00.accessibility.json) |
 | [August 13 at 9:24 PM](https://archive.org/download/guardian-2022/guardian-2022-08-13T21:24:10.953944+01:00.accessibility.json) |
@@ -430,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 12:30 PM](https://archive.org/download/guardian-2022/guardian-2022-08-12T12:30:47.209988+01:00.accessibility.json) |
 | [August 12 at 10:59 AM](https://archive.org/download/guardian-2022/guardian-2022-08-12T10:59:23.668066+01:00.accessibility.json) |
 | [August 11 at 7:40 PM](https://archive.org/download/guardian-2022/guardian-2022-08-11T19:40:36.074082+01:00.accessibility.json) |
-| [August 11 at 10:10 AM](https://archive.org/download/guardian-2022/guardian-2022-08-11T10:10:38.385258+01:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 65 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 66 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 14 at 6:20 PM](https://archive.org/download/guardian-2022/guardian-2022-08-14T18:20:29.934949+01:00.lighthouse.json) |
 | [August 14 at 10:11 AM](https://archive.org/download/guardian-2022/guardian-2022-08-14T10:11:42.440128+01:00.lighthouse.json) |
 | [August 14 at 7:48 AM](https://archive.org/download/guardian-2022/guardian-2022-08-14T07:47:58.626965+01:00.lighthouse.json) |
 | [August 13 at 9:24 PM](https://archive.org/download/guardian-2022/guardian-2022-08-13T21:24:10.953944+01:00.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 12 at 12:30 PM](https://archive.org/download/guardian-2022/guardian-2022-08-12T12:30:47.209988+01:00.lighthouse.json) |
 | [August 12 at 10:59 AM](https://archive.org/download/guardian-2022/guardian-2022-08-12T10:59:23.668066+01:00.lighthouse.json) |
 | [August 11 at 7:40 PM](https://archive.org/download/guardian-2022/guardian-2022-08-11T19:40:36.074082+01:00.lighthouse.json) |
-| [August 11 at 10:10 AM](https://archive.org/download/guardian-2022/guardian-2022-08-11T10:10:38.385258+01:00.lighthouse.json) |
 
 
 

@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 362 screenshots with the Internet Archive.
+The archiving routine has saved 363 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 362 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/independent-2022/independent-2022-08-15T02:13:24.569161+01:00.jpg">
+  <img src="https://archive.org/download/independent-2022/independent-2022-08-15T02:13:24.569161+01:00.jpg"
+     alt="The Independent at 2022-08-15 02:13:47+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/independent-2022/independent-2022-08-15T02:13:24.569161+01:00.jpg">August 15 at 2:13 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/independent-2022/independent-2022-08-14T14:41:44.626357+01:00.jpg">
@@ -212,20 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/independent-2022/independent-2022-08-11T10:10:41.171806+01:00.jpg">August 11 at 10:10 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/independent-2022/independent-2022-08-11T01:47:08.462256+01:00.jpg">
-  <img src="https://archive.org/download/independent-2022/independent-2022-08-11T01:47:08.462256+01:00.jpg"
-     alt="The Independent at 2022-08-11 01:47:10+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/independent-2022/independent-2022-08-11T01:47:08.462256+01:00.jpg">August 11 at 1:47 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 355 hyperlink lists with the Internet Archive.
+The archiving routine has saved 356 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 15 at 2:13 AM](https://archive.org/download/independent-2022/independent-2022-08-15T02:13:24.569161+01:00.hyperlinks.json) |
 | [August 14 at 2:41 PM](https://archive.org/download/independent-2022/independent-2022-08-14T14:41:44.626357+01:00.hyperlinks.json) |
 | [August 14 at 10:12 AM](https://archive.org/download/independent-2022/independent-2022-08-14T10:11:52.824720+01:00.hyperlinks.json) |
 | [August 14 at 4:09 AM](https://archive.org/download/independent-2022/independent-2022-08-14T04:09:33.126871+01:00.hyperlinks.json) |
@@ -325,12 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 2:16 PM](https://archive.org/download/independent-2022/independent-2022-08-12T14:16:31.071017+01:00.hyperlinks.json) |
 | [August 12 at 12:31 PM](https://archive.org/download/independent-2022/independent-2022-08-12T12:31:26.544062+01:00.hyperlinks.json) |
 | [August 12 at 10:14 AM](https://archive.org/download/independent-2022/independent-2022-08-12T10:14:37.438602+01:00.hyperlinks.json) |
-| [August 11 at 2:31 PM](https://archive.org/download/independent-2022/independent-2022-08-11T14:31:50.792023+01:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 348 accessibility trees with the Internet Archive.
+The archiving routine has saved 349 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 15 at 2:13 AM](https://archive.org/download/independent-2022/independent-2022-08-15T02:13:24.569161+01:00.accessibility.json) |
 | [August 14 at 2:41 PM](https://archive.org/download/independent-2022/independent-2022-08-14T14:41:44.626357+01:00.accessibility.json) |
 | [August 14 at 10:12 AM](https://archive.org/download/independent-2022/independent-2022-08-14T10:11:52.824720+01:00.accessibility.json) |
 | [August 14 at 4:09 AM](https://archive.org/download/independent-2022/independent-2022-08-14T04:09:33.126871+01:00.accessibility.json) |
@@ -430,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 2:16 PM](https://archive.org/download/independent-2022/independent-2022-08-12T14:16:31.071017+01:00.accessibility.json) |
 | [August 12 at 12:31 PM](https://archive.org/download/independent-2022/independent-2022-08-12T12:31:26.544062+01:00.accessibility.json) |
 | [August 12 at 10:14 AM](https://archive.org/download/independent-2022/independent-2022-08-12T10:14:37.438602+01:00.accessibility.json) |
-| [August 11 at 2:31 PM](https://archive.org/download/independent-2022/independent-2022-08-11T14:31:50.792023+01:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 66 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 67 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 15 at 2:13 AM](https://archive.org/download/independent-2022/independent-2022-08-15T02:13:24.569161+01:00.lighthouse.json) |
 | [August 14 at 2:41 PM](https://archive.org/download/independent-2022/independent-2022-08-14T14:41:44.626357+01:00.lighthouse.json) |
 | [August 14 at 10:12 AM](https://archive.org/download/independent-2022/independent-2022-08-14T10:11:52.824720+01:00.lighthouse.json) |
 | [August 14 at 4:09 AM](https://archive.org/download/independent-2022/independent-2022-08-14T04:09:33.126871+01:00.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 12 at 2:16 PM](https://archive.org/download/independent-2022/independent-2022-08-12T14:16:31.071017+01:00.lighthouse.json) |
 | [August 12 at 12:31 PM](https://archive.org/download/independent-2022/independent-2022-08-12T12:31:26.544062+01:00.lighthouse.json) |
 | [August 12 at 10:15 AM](https://archive.org/download/independent-2022/independent-2022-08-12T10:14:37.438602+01:00.lighthouse.json) |
-| [August 11 at 2:31 PM](https://archive.org/download/independent-2022/independent-2022-08-11T14:31:50.792023+01:00.lighthouse.json) |
 
 
 

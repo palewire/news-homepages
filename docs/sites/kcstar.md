@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 83 screenshots with the Internet Archive.
+The archiving routine has saved 84 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 83 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kcstar-2022/kcstar-2022-08-14T20:16:32.597498-05:00.jpg">
+  <img src="https://archive.org/download/kcstar-2022/kcstar-2022-08-14T20:16:32.597498-05:00.jpg"
+     alt="Kansas City Star at 2022-08-14 20:16:35-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-08-14T20:16:32.597498-05:00.jpg">August 14 at 8:16 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcstar-2022/kcstar-2022-08-14T08:43:48.182297-05:00.jpg">
@@ -212,20 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-08-09T07:51:41.599643-05:00.jpg">August 9 at 7:51 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kcstar-2022/kcstar-2022-08-08T19:47:44.589098-05:00.jpg">
-  <img src="https://archive.org/download/kcstar-2022/kcstar-2022-08-08T19:47:44.589098-05:00.jpg"
-     alt="Kansas City Star at 2022-08-08 19:47:47-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kcstar-2022/kcstar-2022-08-08T19:47:44.589098-05:00.jpg">August 8 at 7:47 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 55 hyperlink lists with the Internet Archive.
+The archiving routine has saved 56 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 14 at 8:16 PM](https://archive.org/download/kcstar-2022/kcstar-2022-08-14T20:16:32.597498-05:00.hyperlinks.json) |
 | [August 12 at 4:16 AM](https://archive.org/download/kcstar-2022/kcstar-2022-08-12T04:16:37.139065-05:00.hyperlinks.json) |
 | [August 10 at 7:48 PM](https://archive.org/download/kcstar-2022/kcstar-2022-08-10T19:48:43.919411-05:00.hyperlinks.json) |
 | [August 8 at 7:47 PM](https://archive.org/download/kcstar-2022/kcstar-2022-08-08T19:47:44.589098-05:00.hyperlinks.json) |
@@ -325,12 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 4 at 8:40 PM](https://archive.org/download/kcstar-2022/kcstar-2022-08-04T20:40:32.315382-05:00.hyperlinks.json) |
 | [August 3 at 7:38 PM](https://archive.org/download/kcstar-2022/kcstar-2022-08-03T19:38:19.388655-05:00.hyperlinks.json) |
 | [August 1 at 7:21 AM](https://archive.org/download/kcstar-2022/kcstar-2022-08-01T07:21:01.978341-05:00.hyperlinks.json) |
-| [July 31 at 8:16 AM](https://archive.org/download/kcstar-2022/kcstar-2022-07-31T08:16:34.453932-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 83 accessibility trees with the Internet Archive.
+The archiving routine has saved 84 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 14 at 8:16 PM](https://archive.org/download/kcstar-2022/kcstar-2022-08-14T20:16:32.597498-05:00.accessibility.json) |
 | [August 14 at 8:43 AM](https://archive.org/download/kcstar-2022/kcstar-2022-08-14T08:43:48.182297-05:00.accessibility.json) |
 | [August 13 at 10:11 PM](https://archive.org/download/kcstar-2022/kcstar-2022-08-13T22:11:31.160882-05:00.accessibility.json) |
 | [August 13 at 8:07 AM](https://archive.org/download/kcstar-2022/kcstar-2022-08-13T08:07:50.240559-05:00.accessibility.json) |
@@ -430,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 11 at 8:35 AM](https://archive.org/download/kcstar-2022/kcstar-2022-08-11T08:35:31.983380-05:00.accessibility.json) |
 | [August 10 at 7:48 PM](https://archive.org/download/kcstar-2022/kcstar-2022-08-10T19:48:43.919411-05:00.accessibility.json) |
 | [August 10 at 8:05 AM](https://archive.org/download/kcstar-2022/kcstar-2022-08-10T08:05:19.056916-05:00.accessibility.json) |
-| [August 9 at 7:52 PM](https://archive.org/download/kcstar-2022/kcstar-2022-08-09T19:52:15.650106-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 44 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 45 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 14 at 8:16 PM](https://archive.org/download/kcstar-2022/kcstar-2022-08-14T20:16:32.597498-05:00.lighthouse.json) |
 | [August 14 at 8:43 AM](https://archive.org/download/kcstar-2022/kcstar-2022-08-14T08:43:48.182297-05:00.lighthouse.json) |
 | [August 13 at 10:11 PM](https://archive.org/download/kcstar-2022/kcstar-2022-08-13T22:11:31.160882-05:00.lighthouse.json) |
 | [August 13 at 8:07 AM](https://archive.org/download/kcstar-2022/kcstar-2022-08-13T08:07:50.240559-05:00.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 11 at 8:35 AM](https://archive.org/download/kcstar-2022/kcstar-2022-08-11T08:35:31.983380-05:00.lighthouse.json) |
 | [August 10 at 7:48 PM](https://archive.org/download/kcstar-2022/kcstar-2022-08-10T19:48:43.919411-05:00.lighthouse.json) |
 | [August 10 at 8:05 AM](https://archive.org/download/kcstar-2022/kcstar-2022-08-10T08:05:19.056916-05:00.lighthouse.json) |
-| [August 9 at 7:52 PM](https://archive.org/download/kcstar-2022/kcstar-2022-08-09T19:52:15.650106-05:00.lighthouse.json) |
 
 
 
