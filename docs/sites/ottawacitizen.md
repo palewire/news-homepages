@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 109 screenshots with the Internet Archive.
+The archiving routine has saved 110 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 109 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-08-15T02:38:57.444574-04:00.jpg">
+  <img src="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-08-15T02:38:57.444574-04:00.jpg"
+     alt="Ottawa Citizen at 2022-08-15 02:39:00-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-08-15T02:38:57.444574-04:00.jpg">August 15 at 2:39 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-08-14T14:56:13.922134-04:00.jpg">
@@ -212,20 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-08-09T13:47:40.306676-04:00.jpg">August 9 at 1:47 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-08-09T01:02:37.192100-04:00.jpg">
-  <img src="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-08-09T01:02:37.192100-04:00.jpg"
-     alt="Ottawa Citizen at 2022-08-09 01:02:39-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-08-09T01:02:37.192100-04:00.jpg">August 9 at 1:02 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 108 hyperlink lists with the Internet Archive.
+The archiving routine has saved 109 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 15 at 2:39 AM](https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-08-15T02:38:57.444574-04:00.hyperlinks.json) |
 | [August 14 at 2:56 PM](https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-08-14T14:56:13.922134-04:00.hyperlinks.json) |
 | [August 14 at 2:59 AM](https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-08-14T02:59:55.713247-04:00.hyperlinks.json) |
 | [August 13 at 4:54 PM](https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-08-13T16:54:41.993049-04:00.hyperlinks.json) |
@@ -325,12 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 11 at 2:51 PM](https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-08-11T14:51:08.498043-04:00.hyperlinks.json) |
 | [August 11 at 1:19 AM](https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-08-11T01:19:45.504779-04:00.hyperlinks.json) |
 | [August 10 at 2:17 PM](https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-08-10T14:16:58.366776-04:00.hyperlinks.json) |
-| [August 10 at 1:26 AM](https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-08-10T01:26:32.610087-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 108 accessibility trees with the Internet Archive.
+The archiving routine has saved 109 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 15 at 2:39 AM](https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-08-15T02:38:57.444574-04:00.accessibility.json) |
 | [August 14 at 2:56 PM](https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-08-14T14:56:13.922134-04:00.accessibility.json) |
 | [August 14 at 2:59 AM](https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-08-14T02:59:55.713247-04:00.accessibility.json) |
 | [August 13 at 4:54 PM](https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-08-13T16:54:41.993049-04:00.accessibility.json) |
@@ -430,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 11 at 2:51 PM](https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-08-11T14:51:08.498043-04:00.accessibility.json) |
 | [August 11 at 1:19 AM](https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-08-11T01:19:45.504779-04:00.accessibility.json) |
 | [August 10 at 2:17 PM](https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-08-10T14:16:58.366776-04:00.accessibility.json) |
-| [August 10 at 1:26 AM](https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-08-10T01:26:32.610087-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 44 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 45 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 15 at 2:39 AM](https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-08-15T02:38:57.444574-04:00.lighthouse.json) |
 | [August 14 at 2:56 PM](https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-08-14T14:56:13.922134-04:00.lighthouse.json) |
 | [August 14 at 3:00 AM](https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-08-14T02:59:55.713247-04:00.lighthouse.json) |
 | [August 13 at 4:54 PM](https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-08-13T16:54:41.993049-04:00.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 11 at 2:51 PM](https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-08-11T14:51:08.498043-04:00.lighthouse.json) |
 | [August 11 at 1:19 AM](https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-08-11T01:19:45.504779-04:00.lighthouse.json) |
 | [August 10 at 2:17 PM](https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-08-10T14:16:58.366776-04:00.lighthouse.json) |
-| [August 10 at 1:26 AM](https://archive.org/download/ottawacitizen-2022/ottawacitizen-2022-08-10T01:26:32.610087-04:00.lighthouse.json) |
 
 
 

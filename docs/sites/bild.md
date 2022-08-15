@@ -22,13 +22,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 9 screenshots with the Internet Archive.
+The archiving routine has saved 10 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bild-2022/bild-2022-08-15T15:49:17.873840+02:00.jpg">
+  <img src="https://archive.org/download/bild-2022/bild-2022-08-15T15:49:17.873840+02:00.jpg"
+     alt="Bild at 2022-08-15 15:49:19+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bild-2022/bild-2022-08-15T15:49:17.873840+02:00.jpg">August 15 at 3:49 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bild-2022/bild-2022-08-15T03:02:09.646826+02:00.jpg">
@@ -115,7 +124,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 9 hyperlink lists with the Internet Archive.
+The archiving routine has saved 10 hyperlink lists with the Internet Archive.
 
 
 
@@ -123,6 +132,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 15 at 3:49 PM](https://archive.org/download/bild-2022/bild-2022-08-15T15:49:17.873840+02:00.hyperlinks.json) |
 | [August 15 at 3:02 AM](https://archive.org/download/bild-2022/bild-2022-08-15T03:02:09.646826+02:00.hyperlinks.json) |
 | [August 14 at 3:24 PM](https://archive.org/download/bild-2022/bild-2022-08-14T15:24:12.234570+02:00.hyperlinks.json) |
 | [August 14 at 1:47 AM](https://archive.org/download/bild-2022/bild-2022-08-14T01:47:14.114918+02:00.hyperlinks.json) |
@@ -136,7 +146,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 9 accessibility trees with the Internet Archive.
+The archiving routine has saved 10 accessibility trees with the Internet Archive.
 
 
 
@@ -144,6 +154,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 15 at 3:49 PM](https://archive.org/download/bild-2022/bild-2022-08-15T15:49:17.873840+02:00.accessibility.json) |
 | [August 15 at 3:02 AM](https://archive.org/download/bild-2022/bild-2022-08-15T03:02:09.646826+02:00.accessibility.json) |
 | [August 14 at 3:24 PM](https://archive.org/download/bild-2022/bild-2022-08-14T15:24:12.234570+02:00.accessibility.json) |
 | [August 14 at 1:47 AM](https://archive.org/download/bild-2022/bild-2022-08-14T01:47:14.114918+02:00.accessibility.json) |
@@ -158,7 +169,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 9 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 10 Lighthouse audits with the Internet Archive.
 
 
 
@@ -166,6 +177,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 15 at 3:49 PM](https://archive.org/download/bild-2022/bild-2022-08-15T15:49:17.873840+02:00.lighthouse.json) |
 | [August 15 at 3:02 AM](https://archive.org/download/bild-2022/bild-2022-08-15T03:02:09.646826+02:00.lighthouse.json) |
 | [August 14 at 3:24 PM](https://archive.org/download/bild-2022/bild-2022-08-14T15:24:12.234570+02:00.lighthouse.json) |
 | [August 14 at 1:47 AM](https://archive.org/download/bild-2022/bild-2022-08-14T01:47:14.114918+02:00.lighthouse.json) |

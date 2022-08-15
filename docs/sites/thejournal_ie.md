@@ -225,7 +225,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 56 hyperlink lists with the Internet Archive.
+The archiving routine has saved 57 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 15 at 7:47 AM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-08-15T07:47:24.345077+01:00.hyperlinks.json) |
 | [August 14 at 8:05 PM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-08-14T20:05:18.534088+01:00.hyperlinks.json) |
 | [August 14 at 8:08 AM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-08-14T08:08:31.300761+01:00.hyperlinks.json) |
 | [August 13 at 10:03 PM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-08-13T22:03:43.521526+01:00.hyperlinks.json) |
@@ -325,12 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 11 at 7:58 PM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-08-11T19:58:19.458118+01:00.hyperlinks.json) |
 | [August 11 at 6:28 AM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-08-11T06:28:12.052506+01:00.hyperlinks.json) |
 | [August 10 at 7:26 PM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-08-10T19:25:57.577473+01:00.hyperlinks.json) |
-| [August 10 at 6:35 AM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-08-10T06:34:59.259738+01:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 56 accessibility trees with the Internet Archive.
+The archiving routine has saved 57 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 15 at 7:47 AM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-08-15T07:47:24.345077+01:00.accessibility.json) |
 | [August 14 at 8:05 PM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-08-14T20:05:18.534088+01:00.accessibility.json) |
 | [August 14 at 8:08 AM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-08-14T08:08:31.300761+01:00.accessibility.json) |
 | [August 13 at 10:03 PM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-08-13T22:03:43.521526+01:00.accessibility.json) |
@@ -430,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 11 at 7:58 PM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-08-11T19:58:19.458118+01:00.accessibility.json) |
 | [August 11 at 6:28 AM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-08-11T06:28:12.052506+01:00.accessibility.json) |
 | [August 10 at 7:26 PM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-08-10T19:25:57.577473+01:00.accessibility.json) |
-| [August 10 at 6:35 AM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-08-10T06:34:59.259738+01:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 44 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 45 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 15 at 7:47 AM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-08-15T07:47:24.345077+01:00.lighthouse.json) |
 | [August 14 at 8:05 PM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-08-14T20:05:18.534088+01:00.lighthouse.json) |
 | [August 14 at 8:08 AM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-08-14T08:08:31.300761+01:00.lighthouse.json) |
 | [August 13 at 10:03 PM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-08-13T22:03:43.521526+01:00.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 11 at 7:58 PM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-08-11T19:58:19.458118+01:00.lighthouse.json) |
 | [August 11 at 6:28 AM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-08-11T06:28:12.052506+01:00.lighthouse.json) |
 | [August 10 at 7:26 PM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-08-10T19:25:57.577473+01:00.lighthouse.json) |
-| [August 10 at 6:35 AM](https://archive.org/download/thejournal_ie-2022/thejournal_ie-2022-08-10T06:34:59.259738+01:00.lighthouse.json) |
 
 
 

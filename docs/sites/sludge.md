@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 138 screenshots with the Internet Archive.
+The archiving routine has saved 139 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 138 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sludge-2022/sludge-2022-08-15T02:45:09.814479-04:00.jpg">
+  <img src="https://archive.org/download/sludge-2022/sludge-2022-08-15T02:45:09.814479-04:00.jpg"
+     alt="Sludge at 2022-08-15 02:45:11-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sludge-2022/sludge-2022-08-15T02:45:09.814479-04:00.jpg">August 15 at 2:45 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sludge-2022/sludge-2022-08-14T15:02:33.927422-04:00.jpg">
@@ -212,20 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/sludge-2022/sludge-2022-08-09T01:09:19.173943-04:00.jpg">August 9 at 1:09 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/sludge-2022/sludge-2022-08-08T13:18:59.760551-04:00.jpg">
-  <img src="https://archive.org/download/sludge-2022/sludge-2022-08-08T13:18:59.760551-04:00.jpg"
-     alt="Sludge at 2022-08-08 13:19:03-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sludge-2022/sludge-2022-08-08T13:18:59.760551-04:00.jpg">August 8 at 1:19 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 141 hyperlink lists with the Internet Archive.
+The archiving routine has saved 142 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 15 at 2:45 AM](https://archive.org/download/sludge-2022/sludge-2022-08-15T02:45:09.814479-04:00.hyperlinks.json) |
 | [August 14 at 3:02 PM](https://archive.org/download/sludge-2022/sludge-2022-08-14T15:02:33.927422-04:00.hyperlinks.json) |
 | [August 14 at 3:06 AM](https://archive.org/download/sludge-2022/sludge-2022-08-14T03:05:57.623358-04:00.hyperlinks.json) |
 | [August 13 at 5:01 PM](https://archive.org/download/sludge-2022/sludge-2022-08-13T17:01:01.555734-04:00.hyperlinks.json) |
@@ -325,12 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 11 at 2:55 PM](https://archive.org/download/sludge-2022/sludge-2022-08-11T14:55:24.862058-04:00.hyperlinks.json) |
 | [August 11 at 1:25 AM](https://archive.org/download/sludge-2022/sludge-2022-08-11T01:25:12.515944-04:00.hyperlinks.json) |
 | [August 10 at 2:24 PM](https://archive.org/download/sludge-2022/sludge-2022-08-10T14:24:27.239206-04:00.hyperlinks.json) |
-| [August 10 at 1:32 AM](https://archive.org/download/sludge-2022/sludge-2022-08-10T01:31:57.943883-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 141 accessibility trees with the Internet Archive.
+The archiving routine has saved 142 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 15 at 2:45 AM](https://archive.org/download/sludge-2022/sludge-2022-08-15T02:45:09.814479-04:00.accessibility.json) |
 | [August 14 at 3:02 PM](https://archive.org/download/sludge-2022/sludge-2022-08-14T15:02:33.927422-04:00.accessibility.json) |
 | [August 14 at 3:06 AM](https://archive.org/download/sludge-2022/sludge-2022-08-14T03:05:57.623358-04:00.accessibility.json) |
 | [August 13 at 5:01 PM](https://archive.org/download/sludge-2022/sludge-2022-08-13T17:01:01.555734-04:00.accessibility.json) |
@@ -430,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 11 at 2:55 PM](https://archive.org/download/sludge-2022/sludge-2022-08-11T14:55:24.862058-04:00.accessibility.json) |
 | [August 11 at 1:25 AM](https://archive.org/download/sludge-2022/sludge-2022-08-11T01:25:12.515944-04:00.accessibility.json) |
 | [August 10 at 2:24 PM](https://archive.org/download/sludge-2022/sludge-2022-08-10T14:24:27.239206-04:00.accessibility.json) |
-| [August 10 at 1:32 AM](https://archive.org/download/sludge-2022/sludge-2022-08-10T01:31:57.943883-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 44 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 45 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 15 at 2:45 AM](https://archive.org/download/sludge-2022/sludge-2022-08-15T02:45:09.814479-04:00.lighthouse.json) |
 | [August 14 at 3:02 PM](https://archive.org/download/sludge-2022/sludge-2022-08-14T15:02:33.927422-04:00.lighthouse.json) |
 | [August 14 at 3:06 AM](https://archive.org/download/sludge-2022/sludge-2022-08-14T03:05:57.623358-04:00.lighthouse.json) |
 | [August 13 at 5:01 PM](https://archive.org/download/sludge-2022/sludge-2022-08-13T17:01:01.555734-04:00.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 11 at 2:55 PM](https://archive.org/download/sludge-2022/sludge-2022-08-11T14:55:24.862058-04:00.lighthouse.json) |
 | [August 11 at 1:25 AM](https://archive.org/download/sludge-2022/sludge-2022-08-11T01:25:12.515944-04:00.lighthouse.json) |
 | [August 10 at 2:24 PM](https://archive.org/download/sludge-2022/sludge-2022-08-10T14:24:27.239206-04:00.lighthouse.json) |
-| [August 10 at 1:32 AM](https://archive.org/download/sludge-2022/sludge-2022-08-10T01:31:57.943883-04:00.lighthouse.json) |
 
 
 

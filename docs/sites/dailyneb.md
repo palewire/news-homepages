@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 32 screenshots with the Internet Archive.
+The archiving routine has saved 33 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 32 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-15T08:54:36.495005-05:00.jpg">
+  <img src="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-15T08:54:36.495005-05:00.jpg"
+     alt="Daily Nebraskan at 2022-08-15 08:54:40-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-15T08:54:36.495005-05:00.jpg">August 15 at 8:54 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-14T20:07:18.156271-05:00.jpg">
@@ -212,20 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-09T18:27:32.199789-05:00.jpg">August 9 at 6:27 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-09T07:43:26.944297-05:00.jpg">
-  <img src="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-09T07:43:26.944297-05:00.jpg"
-     alt="Daily Nebraskan at 2022-08-09 07:43:29-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-09T07:43:26.944297-05:00.jpg">August 9 at 7:43 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 33 hyperlink lists with the Internet Archive.
+The archiving routine has saved 34 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 15 at 8:54 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-15T08:54:36.495005-05:00.hyperlinks.json) |
 | [August 14 at 8:07 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-14T20:07:18.156271-05:00.hyperlinks.json) |
 | [August 14 at 8:30 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-14T08:30:07.966832-05:00.hyperlinks.json) |
 | [August 13 at 6:53 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-13T18:53:05.220061-05:00.hyperlinks.json) |
@@ -325,12 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 11 at 6:25 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-11T18:25:38.091675-05:00.hyperlinks.json) |
 | [August 11 at 6:39 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-11T06:39:38.967569-05:00.hyperlinks.json) |
 | [August 10 at 7:42 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-10T19:42:22.208256-05:00.hyperlinks.json) |
-| [August 10 at 7:57 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-10T07:57:03.983118-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 33 accessibility trees with the Internet Archive.
+The archiving routine has saved 34 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 15 at 8:54 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-15T08:54:36.495005-05:00.accessibility.json) |
 | [August 14 at 8:07 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-14T20:07:18.156271-05:00.accessibility.json) |
 | [August 14 at 8:30 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-14T08:30:07.966832-05:00.accessibility.json) |
 | [August 13 at 6:53 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-13T18:53:05.220061-05:00.accessibility.json) |
@@ -430,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 11 at 6:25 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-11T18:25:38.091675-05:00.accessibility.json) |
 | [August 11 at 6:39 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-11T06:39:38.967569-05:00.accessibility.json) |
 | [August 10 at 7:42 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-10T19:42:22.208256-05:00.accessibility.json) |
-| [August 10 at 7:57 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-10T07:57:03.983118-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 33 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 34 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 15 at 8:54 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-15T08:54:36.495005-05:00.lighthouse.json) |
 | [August 14 at 8:07 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-14T20:07:18.156271-05:00.lighthouse.json) |
 | [August 14 at 8:30 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-14T08:30:07.966832-05:00.lighthouse.json) |
 | [August 13 at 6:53 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-13T18:53:05.220061-05:00.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 11 at 6:25 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-11T18:25:38.091675-05:00.lighthouse.json) |
 | [August 11 at 6:39 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-11T06:39:38.967569-05:00.lighthouse.json) |
 | [August 10 at 7:42 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-10T19:42:22.208256-05:00.lighthouse.json) |
-| [August 10 at 7:57 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-10T07:57:03.983118-05:00.lighthouse.json) |
 
 
 

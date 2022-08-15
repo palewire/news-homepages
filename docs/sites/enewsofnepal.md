@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 43 screenshots with the Internet Archive.
+The archiving routine has saved 44 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 43 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/enewsofnepal-2022/enewsofnepal-2022-08-15T12:08:41.182108+05:45.jpg">
+  <img src="https://archive.org/download/enewsofnepal-2022/enewsofnepal-2022-08-15T12:08:41.182108+05:45.jpg"
+     alt="Nepal Samacharpatra at 2022-08-15 12:08:43+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/enewsofnepal-2022/enewsofnepal-2022-08-15T12:08:41.182108+05:45.jpg">August 15 at 12:08 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/enewsofnepal-2022/enewsofnepal-2022-08-14T23:02:33.646778+05:45.jpg">
@@ -212,20 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/enewsofnepal-2022/enewsofnepal-2022-08-09T23:07:50.477511+05:45.jpg">August 9 at 11:07 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/enewsofnepal-2022/enewsofnepal-2022-08-09T09:27:18.065873+05:45.jpg">
-  <img src="https://archive.org/download/enewsofnepal-2022/enewsofnepal-2022-08-09T09:27:18.065873+05:45.jpg"
-     alt="Nepal Samacharpatra at 2022-08-09 09:27:19+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/enewsofnepal-2022/enewsofnepal-2022-08-09T09:27:18.065873+05:45.jpg">August 9 at 9:27 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 42 hyperlink lists with the Internet Archive.
+The archiving routine has saved 43 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 15 at 12:08 PM](https://archive.org/download/enewsofnepal-2022/enewsofnepal-2022-08-15T12:08:41.182108+05:45.hyperlinks.json) |
 | [August 14 at 11:02 PM](https://archive.org/download/enewsofnepal-2022/enewsofnepal-2022-08-14T23:02:33.646778+05:45.hyperlinks.json) |
 | [August 14 at 12:29 PM](https://archive.org/download/enewsofnepal-2022/enewsofnepal-2022-08-14T12:29:36.006283+05:45.hyperlinks.json) |
 | [August 14 at 2:06 AM](https://archive.org/download/enewsofnepal-2022/enewsofnepal-2022-08-14T02:06:28.811527+05:45.hyperlinks.json) |
@@ -325,12 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 12:22 AM](https://archive.org/download/enewsofnepal-2022/enewsofnepal-2022-08-12T00:22:16.378973+05:45.hyperlinks.json) |
 | [August 11 at 9:34 AM](https://archive.org/download/enewsofnepal-2022/enewsofnepal-2022-08-11T09:34:47.332888+05:45.hyperlinks.json) |
 | [August 10 at 11:46 PM](https://archive.org/download/enewsofnepal-2022/enewsofnepal-2022-08-10T23:45:59.941304+05:45.hyperlinks.json) |
-| [August 10 at 9:42 AM](https://archive.org/download/enewsofnepal-2022/enewsofnepal-2022-08-10T09:42:46.697587+05:45.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 43 accessibility trees with the Internet Archive.
+The archiving routine has saved 44 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 15 at 12:08 PM](https://archive.org/download/enewsofnepal-2022/enewsofnepal-2022-08-15T12:08:41.182108+05:45.accessibility.json) |
 | [August 14 at 11:02 PM](https://archive.org/download/enewsofnepal-2022/enewsofnepal-2022-08-14T23:02:33.646778+05:45.accessibility.json) |
 | [August 14 at 12:29 PM](https://archive.org/download/enewsofnepal-2022/enewsofnepal-2022-08-14T12:29:36.006283+05:45.accessibility.json) |
 | [August 14 at 2:06 AM](https://archive.org/download/enewsofnepal-2022/enewsofnepal-2022-08-14T02:06:28.811527+05:45.accessibility.json) |
@@ -430,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 12:22 AM](https://archive.org/download/enewsofnepal-2022/enewsofnepal-2022-08-12T00:22:16.378973+05:45.accessibility.json) |
 | [August 11 at 9:34 AM](https://archive.org/download/enewsofnepal-2022/enewsofnepal-2022-08-11T09:34:47.332888+05:45.accessibility.json) |
 | [August 10 at 11:46 PM](https://archive.org/download/enewsofnepal-2022/enewsofnepal-2022-08-10T23:45:59.941304+05:45.accessibility.json) |
-| [August 10 at 9:42 AM](https://archive.org/download/enewsofnepal-2022/enewsofnepal-2022-08-10T09:42:46.697587+05:45.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 43 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 44 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 15 at 12:08 PM](https://archive.org/download/enewsofnepal-2022/enewsofnepal-2022-08-15T12:08:41.182108+05:45.lighthouse.json) |
 | [August 14 at 11:02 PM](https://archive.org/download/enewsofnepal-2022/enewsofnepal-2022-08-14T23:02:33.646778+05:45.lighthouse.json) |
 | [August 14 at 12:29 PM](https://archive.org/download/enewsofnepal-2022/enewsofnepal-2022-08-14T12:29:36.006283+05:45.lighthouse.json) |
 | [August 14 at 2:06 AM](https://archive.org/download/enewsofnepal-2022/enewsofnepal-2022-08-14T02:06:28.811527+05:45.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 12 at 12:22 AM](https://archive.org/download/enewsofnepal-2022/enewsofnepal-2022-08-12T00:22:16.378973+05:45.lighthouse.json) |
 | [August 11 at 9:34 AM](https://archive.org/download/enewsofnepal-2022/enewsofnepal-2022-08-11T09:34:47.332888+05:45.lighthouse.json) |
 | [August 10 at 11:46 PM](https://archive.org/download/enewsofnepal-2022/enewsofnepal-2022-08-10T23:45:59.941304+05:45.lighthouse.json) |
-| [August 10 at 9:42 AM](https://archive.org/download/enewsofnepal-2022/enewsofnepal-2022-08-10T09:42:46.697587+05:45.lighthouse.json) |
 
 
 

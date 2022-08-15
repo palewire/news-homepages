@@ -22,13 +22,105 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 30 screenshots with the Internet Archive.
+The archiving routine has saved 31 screenshots with the Internet Archive.
 
+
+  <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specScreenshots = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/screenshots/cityjournal.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-08-15T09:52:50.736981-04:00.jpg">
+  <img src="https://archive.org/download/cityjournal-2022/cityjournal-2022-08-15T09:52:50.736981-04:00.jpg"
+     alt="City Journal at 2022-08-15 09:52:52-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-08-15T09:52:50.736981-04:00.jpg">August 15 at 9:52 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-08-14T21:04:14.013396-04:00.jpg">
@@ -129,27 +221,102 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-08-11T15:39:04.356740-04:00.jpg">August 11 at 3:39 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-08-11T07:37:48.935729-04:00.jpg">
-  <img src="https://archive.org/download/cityjournal-2022/cityjournal-2022-08-11T07:37:48.935729-04:00.jpg"
-     alt="City Journal at 2022-08-11 07:37:52-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cityjournal-2022/cityjournal-2022-08-11T07:37:48.935729-04:00.jpg">August 11 at 7:37 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 30 hyperlink lists with the Internet Archive.
+The archiving routine has saved 31 hyperlink lists with the Internet Archive.
 
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specHyperlinks = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/cityjournal.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 15 at 9:52 AM](https://archive.org/download/cityjournal-2022/cityjournal-2022-08-15T09:52:50.736981-04:00.hyperlinks.json) |
 | [August 14 at 9:04 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-08-14T21:04:14.013396-04:00.hyperlinks.json) |
 | [August 14 at 3:48 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-08-14T15:48:00.280661-04:00.hyperlinks.json) |
 | [August 14 at 9:27 AM](https://archive.org/download/cityjournal-2022/cityjournal-2022-08-14T09:27:45.858169-04:00.hyperlinks.json) |
@@ -159,12 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 8:29 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-08-12T20:29:38.441281-04:00.hyperlinks.json) |
 | [August 12 at 3:13 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-08-12T15:12:58.815991-04:00.hyperlinks.json) |
 | [August 12 at 7:40 AM](https://archive.org/download/cityjournal-2022/cityjournal-2022-08-12T07:40:22.220971-04:00.hyperlinks.json) |
-| [August 11 at 7:22 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-08-11T19:22:43.008642-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 29 accessibility trees with the Internet Archive.
+The archiving routine has saved 30 accessibility trees with the Internet Archive.
 
 
 
@@ -172,6 +338,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 15 at 9:52 AM](https://archive.org/download/cityjournal-2022/cityjournal-2022-08-15T09:52:50.736981-04:00.accessibility.json) |
 | [August 14 at 9:04 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-08-14T21:04:14.013396-04:00.accessibility.json) |
 | [August 14 at 3:48 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-08-14T15:48:00.280661-04:00.accessibility.json) |
 | [August 14 at 9:27 AM](https://archive.org/download/cityjournal-2022/cityjournal-2022-08-14T09:27:45.858169-04:00.accessibility.json) |
@@ -181,20 +348,103 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 8:29 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-08-12T20:29:38.441281-04:00.accessibility.json) |
 | [August 12 at 3:13 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-08-12T15:12:58.815991-04:00.accessibility.json) |
 | [August 12 at 7:40 AM](https://archive.org/download/cityjournal-2022/cityjournal-2022-08-12T07:40:22.220971-04:00.accessibility.json) |
-| [August 11 at 7:22 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-08-11T19:22:43.008642-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 31 Lighthouse audits with the Internet Archive.
 
+
+  <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specLighthouse = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/lighthouse/cityjournal.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--lighthouse", specLighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 15 at 9:52 AM](https://archive.org/download/cityjournal-2022/cityjournal-2022-08-15T09:52:50.736981-04:00.lighthouse.json) |
 | [August 14 at 9:04 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-08-14T21:04:14.013396-04:00.lighthouse.json) |
 | [August 14 at 3:48 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-08-14T15:48:00.280661-04:00.lighthouse.json) |
 | [August 14 at 9:27 AM](https://archive.org/download/cityjournal-2022/cityjournal-2022-08-14T09:27:45.858169-04:00.lighthouse.json) |
@@ -204,7 +454,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 12 at 8:29 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-08-12T20:29:38.441281-04:00.lighthouse.json) |
 | [August 12 at 3:13 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-08-12T15:12:58.815991-04:00.lighthouse.json) |
 | [August 12 at 7:40 AM](https://archive.org/download/cityjournal-2022/cityjournal-2022-08-12T07:40:22.220971-04:00.lighthouse.json) |
-| [August 11 at 7:22 PM](https://archive.org/download/cityjournal-2022/cityjournal-2022-08-11T19:22:43.008642-04:00.lighthouse.json) |
 
 
 

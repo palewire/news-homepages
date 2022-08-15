@@ -22,13 +22,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 11 screenshots with the Internet Archive.
+The archiving routine has saved 12 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-15T10:55:24.610311-03:00.jpg">
+  <img src="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-15T10:55:24.610311-03:00.jpg"
+     alt="Cronista at 2022-08-15 10:55:25-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-15T10:55:24.610311-03:00.jpg">August 15 at 10:55 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cronistacom-2022/cronistacom-2022-08-14T22:05:49.234589-03:00.jpg">
@@ -133,7 +142,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 11 hyperlink lists with the Internet Archive.
+The archiving routine has saved 12 hyperlink lists with the Internet Archive.
 
 
 
@@ -141,6 +150,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 15 at 10:55 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-15T10:55:24.610311-03:00.hyperlinks.json) |
 | [August 14 at 10:05 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-14T22:05:49.234589-03:00.hyperlinks.json) |
 | [August 14 at 10:30 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-14T10:30:15.727789-03:00.hyperlinks.json) |
 | [August 13 at 8:51 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-13T20:51:35.787654-03:00.hyperlinks.json) |
@@ -150,12 +160,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 11 at 8:24 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-11T20:23:55.908372-03:00.hyperlinks.json) |
 | [August 11 at 8:38 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-11T08:38:34.762007-03:00.hyperlinks.json) |
 | [August 10 at 9:42 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-10T21:42:19.397609-03:00.hyperlinks.json) |
-| [August 10 at 9:56 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-10T09:56:25.956247-03:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 11 accessibility trees with the Internet Archive.
+The archiving routine has saved 12 accessibility trees with the Internet Archive.
 
 
 
@@ -163,6 +172,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 15 at 10:55 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-15T10:55:24.610311-03:00.accessibility.json) |
 | [August 14 at 10:05 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-14T22:05:49.234589-03:00.accessibility.json) |
 | [August 14 at 10:30 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-14T10:30:15.727789-03:00.accessibility.json) |
 | [August 13 at 8:51 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-13T20:51:35.787654-03:00.accessibility.json) |
@@ -172,13 +182,12 @@ Here are the 10 most recent accessibility trees.
 | [August 11 at 8:24 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-11T20:23:55.908372-03:00.accessibility.json) |
 | [August 11 at 8:38 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-11T08:38:34.762007-03:00.accessibility.json) |
 | [August 10 at 9:42 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-10T21:42:19.397609-03:00.accessibility.json) |
-| [August 10 at 9:56 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-10T09:56:25.956247-03:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 12 Lighthouse audits with the Internet Archive.
 
 
 
@@ -186,6 +195,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 15 at 10:55 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-15T10:55:24.610311-03:00.lighthouse.json) |
 | [August 14 at 10:05 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-14T22:05:49.234589-03:00.lighthouse.json) |
 | [August 14 at 10:30 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-14T10:30:15.727789-03:00.lighthouse.json) |
 | [August 13 at 8:51 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-13T20:51:35.787654-03:00.lighthouse.json) |
@@ -195,7 +205,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 11 at 8:24 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-11T20:23:55.908372-03:00.lighthouse.json) |
 | [August 11 at 8:38 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-11T08:38:34.762007-03:00.lighthouse.json) |
 | [August 10 at 9:42 PM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-10T21:42:19.397609-03:00.lighthouse.json) |
-| [August 10 at 9:56 AM](https://archive.org/download/cronistacom-2022/cronistacom-2022-08-10T09:56:25.956247-03:00.lighthouse.json) |
 
 
 

@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 40 screenshots with the Internet Archive.
+The archiving routine has saved 41 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 40 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/oronline-2022/oronline-2022-08-15T02:38:17.575555-04:00.jpg">
+  <img src="https://archive.org/download/oronline-2022/oronline-2022-08-15T02:38:17.575555-04:00.jpg"
+     alt="Observer-Reporter at 2022-08-15 02:38:20-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/oronline-2022/oronline-2022-08-15T02:38:17.575555-04:00.jpg">August 15 at 2:38 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/oronline-2022/oronline-2022-08-14T14:53:53.192974-04:00.jpg">
@@ -210,15 +219,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/oronline-2022/oronline-2022-08-09T13:47:46.873916-04:00.jpg">August 9 at 1:47 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/oronline-2022/oronline-2022-08-09T01:02:56.960454-04:00.jpg">
-  <img src="https://archive.org/download/oronline-2022/oronline-2022-08-09T01:02:56.960454-04:00.jpg"
-     alt="Observer-Reporter at 2022-08-09 01:02:58-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/oronline-2022/oronline-2022-08-09T01:02:56.960454-04:00.jpg">August 9 at 1:02 AM</a></p>
 </div>
 
 </div>

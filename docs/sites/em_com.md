@@ -22,13 +22,114 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 29 screenshots with the Internet Archive.
+The archiving routine has saved 31 screenshots with the Internet Archive.
 
+
+  <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specScreenshots = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/screenshots/em_com.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/em_com-2022/em_com-2022-08-15T11:03:33.860788-03:00.jpg">
+  <img src="https://archive.org/download/em_com-2022/em_com-2022-08-15T11:03:33.860788-03:00.jpg"
+     alt="Estado de Minas at 2022-08-15 11:03:37-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/em_com-2022/em_com-2022-08-15T11:03:33.860788-03:00.jpg">August 15 at 11:03 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/em_com-2022/em_com-2022-08-15T03:23:35.665665-03:00.jpg">
+  <img src="https://archive.org/download/em_com-2022/em_com-2022-08-15T03:23:35.665665-03:00.jpg"
+     alt="Estado de Minas at 2022-08-15 03:23:39-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/em_com-2022/em_com-2022-08-15T03:23:35.665665-03:00.jpg">August 15 at 3:23 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/em_com-2022/em_com-2022-08-14T14:17:32.662690-03:00.jpg">
@@ -120,29 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/em_com-2022/em_com-2022-08-11T15:37:58.811224-03:00.jpg">August 11 at 3:38 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/em_com-2022/em_com-2022-08-11T10:28:03.697407-03:00.jpg">
-  <img src="https://archive.org/download/em_com-2022/em_com-2022-08-11T10:28:03.697407-03:00.jpg"
-     alt="Estado de Minas at 2022-08-11 10:28:05-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/em_com-2022/em_com-2022-08-11T10:28:03.697407-03:00.jpg">August 11 at 10:28 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/em_com-2022/em_com-2022-08-11T00:50:05.307249-03:00.jpg">
-  <img src="https://archive.org/download/em_com-2022/em_com-2022-08-11T00:50:05.307249-03:00.jpg"
-     alt="Estado de Minas at 2022-08-11 00:50:07-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/em_com-2022/em_com-2022-08-11T00:50:05.307249-03:00.jpg">August 11 at 12:50 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 27 hyperlink lists with the Internet Archive.
+The archiving routine has saved 29 hyperlink lists with the Internet Archive.
 
 
 
@@ -150,6 +233,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 15 at 11:03 AM](https://archive.org/download/em_com-2022/em_com-2022-08-15T11:03:33.860788-03:00.hyperlinks.json) |
+| [August 15 at 3:23 AM](https://archive.org/download/em_com-2022/em_com-2022-08-15T03:23:35.665665-03:00.hyperlinks.json) |
 | [August 14 at 2:17 PM](https://archive.org/download/em_com-2022/em_com-2022-08-14T14:17:32.662690-03:00.hyperlinks.json) |
 | [August 14 at 10:37 AM](https://archive.org/download/em_com-2022/em_com-2022-08-14T10:37:18.520504-03:00.hyperlinks.json) |
 | [August 14 at 3:44 AM](https://archive.org/download/em_com-2022/em_com-2022-08-14T03:44:48.171058-03:00.hyperlinks.json) |
@@ -158,20 +243,103 @@ Here are the 10 most recent hyperlink lists.
 | [August 13 at 12:39 AM](https://archive.org/download/em_com-2022/em_com-2022-08-13T00:39:22.258144-03:00.hyperlinks.json) |
 | [August 12 at 2:46 PM](https://archive.org/download/em_com-2022/em_com-2022-08-12T14:46:49.580100-03:00.hyperlinks.json) |
 | [August 12 at 11:58 AM](https://archive.org/download/em_com-2022/em_com-2022-08-12T11:57:58.182756-03:00.hyperlinks.json) |
-| [August 12 at 6:56 AM](https://archive.org/download/em_com-2022/em_com-2022-08-12T06:56:28.626893-03:00.hyperlinks.json) |
-| [August 11 at 12:50 AM](https://archive.org/download/em_com-2022/em_com-2022-08-11T00:50:05.307249-03:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 29 accessibility trees with the Internet Archive.
+The archiving routine has saved 31 accessibility trees with the Internet Archive.
 
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/em_com.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 15 at 11:03 AM](https://archive.org/download/em_com-2022/em_com-2022-08-15T11:03:33.860788-03:00.accessibility.json) |
+| [August 15 at 3:23 AM](https://archive.org/download/em_com-2022/em_com-2022-08-15T03:23:35.665665-03:00.accessibility.json) |
 | [August 14 at 2:17 PM](https://archive.org/download/em_com-2022/em_com-2022-08-14T14:17:32.662690-03:00.accessibility.json) |
 | [August 14 at 10:37 AM](https://archive.org/download/em_com-2022/em_com-2022-08-14T10:37:18.520504-03:00.accessibility.json) |
 | [August 14 at 3:44 AM](https://archive.org/download/em_com-2022/em_com-2022-08-14T03:44:48.171058-03:00.accessibility.json) |
@@ -180,21 +348,104 @@ Here are the 10 most recent accessibility trees.
 | [August 13 at 12:39 AM](https://archive.org/download/em_com-2022/em_com-2022-08-13T00:39:22.258144-03:00.accessibility.json) |
 | [August 12 at 2:46 PM](https://archive.org/download/em_com-2022/em_com-2022-08-12T14:46:49.580100-03:00.accessibility.json) |
 | [August 12 at 11:58 AM](https://archive.org/download/em_com-2022/em_com-2022-08-12T11:57:58.182756-03:00.accessibility.json) |
-| [August 12 at 6:56 AM](https://archive.org/download/em_com-2022/em_com-2022-08-12T06:56:28.626893-03:00.accessibility.json) |
-| [August 11 at 3:38 PM](https://archive.org/download/em_com-2022/em_com-2022-08-11T15:37:58.811224-03:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 29 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 31 Lighthouse audits with the Internet Archive.
 
+
+  <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specLighthouse = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/lighthouse/em_com.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--lighthouse", specLighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 15 at 11:03 AM](https://archive.org/download/em_com-2022/em_com-2022-08-15T11:03:33.860788-03:00.lighthouse.json) |
+| [August 15 at 3:23 AM](https://archive.org/download/em_com-2022/em_com-2022-08-15T03:23:35.665665-03:00.lighthouse.json) |
 | [August 14 at 2:17 PM](https://archive.org/download/em_com-2022/em_com-2022-08-14T14:17:32.662690-03:00.lighthouse.json) |
 | [August 14 at 10:37 AM](https://archive.org/download/em_com-2022/em_com-2022-08-14T10:37:18.520504-03:00.lighthouse.json) |
 | [August 14 at 3:44 AM](https://archive.org/download/em_com-2022/em_com-2022-08-14T03:44:48.171058-03:00.lighthouse.json) |
@@ -203,8 +454,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 13 at 12:39 AM](https://archive.org/download/em_com-2022/em_com-2022-08-13T00:39:22.258144-03:00.lighthouse.json) |
 | [August 12 at 2:46 PM](https://archive.org/download/em_com-2022/em_com-2022-08-12T14:46:49.580100-03:00.lighthouse.json) |
 | [August 12 at 11:58 AM](https://archive.org/download/em_com-2022/em_com-2022-08-12T11:57:58.182756-03:00.lighthouse.json) |
-| [August 12 at 6:56 AM](https://archive.org/download/em_com-2022/em_com-2022-08-12T06:56:28.626893-03:00.lighthouse.json) |
-| [August 11 at 3:38 PM](https://archive.org/download/em_com-2022/em_com-2022-08-11T15:37:58.811224-03:00.lighthouse.json) |
 
 
 

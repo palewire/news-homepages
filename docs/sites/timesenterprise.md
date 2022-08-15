@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 50 screenshots with the Internet Archive.
+The archiving routine has saved 51 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 50 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-15T02:48:33.085030-04:00.jpg">
+  <img src="https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-15T02:48:33.085030-04:00.jpg"
+     alt="The Times-Enterprise at 2022-08-15 02:48:34-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-15T02:48:33.085030-04:00.jpg">August 15 at 2:48 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-14T15:06:07.393345-04:00.jpg">
@@ -212,27 +221,102 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-09T01:12:06.484060-04:00.jpg">August 9 at 1:12 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-08T13:22:42.916499-04:00.jpg">
-  <img src="https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-08T13:22:42.916499-04:00.jpg"
-     alt="The Times-Enterprise at 2022-08-08 13:22:44-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-08T13:22:42.916499-04:00.jpg">August 8 at 1:22 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 30 hyperlink lists with the Internet Archive.
+The archiving routine has saved 31 hyperlink lists with the Internet Archive.
 
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specHyperlinks = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/timesenterprise.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 15 at 2:48 AM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-15T02:48:33.085030-04:00.hyperlinks.json) |
 | [August 14 at 3:06 PM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-14T15:06:07.393345-04:00.hyperlinks.json) |
 | [August 14 at 3:10 AM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-14T03:09:57.950667-04:00.hyperlinks.json) |
 | [August 12 at 5:49 AM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-12T05:49:31.699300-04:00.hyperlinks.json) |
@@ -242,12 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 6 at 12:29 PM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-06T12:29:27.784519-04:00.hyperlinks.json) |
 | [August 5 at 2:00 PM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-05T14:00:24.063653-04:00.hyperlinks.json) |
 | [August 3 at 1:14 PM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-03T13:14:38.272004-04:00.hyperlinks.json) |
-| [August 3 at 12:47 AM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-03T00:47:37.434449-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 34 accessibility trees with the Internet Archive.
+The archiving routine has saved 35 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -338,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 15 at 2:48 AM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-15T02:48:33.085030-04:00.accessibility.json) |
 | [August 14 at 3:06 PM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-14T15:06:07.393345-04:00.accessibility.json) |
 | [August 13 at 5:05 PM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-13T17:05:32.986740-04:00.accessibility.json) |
 | [August 13 at 1:14 AM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-13T01:14:49.824433-04:00.accessibility.json) |
@@ -347,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 10 at 1:34 AM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-10T01:34:47.310166-04:00.accessibility.json) |
 | [August 9 at 1:57 PM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-09T13:57:13.646388-04:00.accessibility.json) |
 | [August 9 at 1:12 AM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-09T01:12:06.484060-04:00.accessibility.json) |
-| [August 8 at 1:28 AM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-08T01:28:09.291463-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 44 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 45 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -444,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 15 at 2:48 AM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-15T02:48:33.085030-04:00.lighthouse.json) |
 | [August 14 at 3:06 PM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-14T15:06:07.393345-04:00.lighthouse.json) |
 | [August 14 at 3:10 AM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-14T03:09:57.950667-04:00.lighthouse.json) |
 | [August 13 at 5:05 PM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-13T17:05:32.986740-04:00.lighthouse.json) |
@@ -453,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 11 at 2:59 PM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-11T14:59:04.935006-04:00.lighthouse.json) |
 | [August 11 at 1:29 AM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-11T01:29:34.382234-04:00.lighthouse.json) |
 | [August 10 at 2:28 PM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-10T14:28:06.903609-04:00.lighthouse.json) |
-| [August 10 at 1:34 AM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-10T01:34:47.310166-04:00.lighthouse.json) |
 
 
 
