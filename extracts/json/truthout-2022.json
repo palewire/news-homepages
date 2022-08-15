@@ -1,5 +1,5 @@
 {
-  "created": 1660527344,
+  "created": 1660561147,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/35/items/truthout-2022",
@@ -4420,31 +4420,83 @@
       "sha1": "c8d9ad1f781cc27d100c8bf4a3079ba0799f2ab6"
     },
     {
+      "name": "truthout-2022-08-14T23:49:33.654468-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660546177",
+      "size": "33718",
+      "md5": "e515b051bfc370fa0504a5d0354953f3",
+      "crc32": "ba8f4ac1",
+      "sha1": "f81cdc444357ca569ab5cea972f216f24c8d03a1",
+      "format": "JSON"
+    },
+    {
+      "name": "truthout-2022-08-14T23:49:33.654468-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660546178",
+      "size": "23387",
+      "md5": "030ac558f644b79a7155624a78435e62",
+      "crc32": "5d6fc1fc",
+      "sha1": "1e1430483cbe111bd903e0f351d6e2a354cbc2e0",
+      "format": "JSON"
+    },
+    {
+      "name": "truthout-2022-08-14T23:49:33.654468-07:00.jpg",
+      "source": "original",
+      "mtime": "1660546175",
+      "size": "239577",
+      "md5": "031dca77d2d8ae1fcee9ae8e9beac8b5",
+      "crc32": "bd6a36d2",
+      "sha1": "fc14ae30e82555ec4703c6a7bd3a44156581ed10",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "truthout-2022-08-14T23:49:33.654468-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660546180",
+      "size": "1432",
+      "md5": "3c65a7648999d2d28347dc221ad1e06e",
+      "crc32": "c98abd25",
+      "sha1": "18aa2580421f772653b40034c2202d0a1900e57a",
+      "format": "JSON"
+    },
+    {
+      "name": "truthout-2022-08-14T23:49:33.654468-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "truthout-2022-08-14T23:49:33.654468-07:00.jpg",
+      "mtime": "1660546255",
+      "size": "9248",
+      "md5": "7919a5bbe4b691a08ec98b586637a3a2",
+      "crc32": "7a879346",
+      "sha1": "8afb6d26fa0290c0ab865585bc258ea290c4e98c"
+    },
+    {
       "name": "truthout-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fa28cb0d4e1c8678d8aaf65cc37164610c846ec5",
-      "mtime": "1660506889",
-      "size": "90766",
-      "md5": "01e7b707a3f2b4eecdb7e965b33b622c",
-      "crc32": "716274f2",
-      "sha1": "c632a56d2a15a9797052390e6d60ac7840a4383c",
+      "btih": "11b994de2af807337e6441217119f395f6355325",
+      "mtime": "1660546272",
+      "size": "91805",
+      "md5": "8d821e5df084ec68e225093bd8a31692",
+      "crc32": "be73da98",
+      "sha1": "f0230320587af966eee5bc26600f533237026320",
       "format": "Archive BitTorrent"
     },
     {
       "name": "truthout-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c3ba04e0a5c6b5f5d9f102f109a56c50",
+      "md5": "8cf41e43d335b96fd9771074fcad11e7",
       "summation": "md5"
     },
     {
       "name": "truthout-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660506804",
-      "size": "540672",
-      "md5": "8a7d2ee1a30aca0bc1c5f0b09c0386b0",
-      "crc32": "3baf3fce",
-      "sha1": "60c703c0f6c883a7cb575216185376fca5bf99e7",
+      "mtime": "1660546184",
+      "size": "548864",
+      "md5": "d74a1d0bb304d85b802007292d0616f9",
+      "crc32": "7565f2c7",
+      "sha1": "1eb9c293679d9521f19c4bcfb287c890a86ca0f2",
       "format": "Metadata"
     },
     {
@@ -4458,9 +4510,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 429,
-  "item_last_updated": 1660506889,
-  "item_size": 27413877,
+  "files_count": 434,
+  "item_last_updated": 1660546272,
+  "item_size": 27730470,
   "metadata": {
     "identifier": "truthout-2022",
     "collection": [
@@ -4478,22 +4530,7 @@
     "addeddate": "2022-07-17 15:59:53"
   },
   "server": "ia802507.us.archive.org",
-  "truthout-2022": {
-    "url": "https://truthout.org/",
-    "job_id": "spn2-acc425a4f40505f655ad2d3c0df16189158025de",
-    "http_status": 200,
-    "outlinks": [],
-    "timestamp": "20220814182510",
-    "original_url": "https://truthout.org/",
-    "resources": [],
-    "duration_sec": 9.103,
-    "status": "success",
-    "counters": {
-      "outlinks": 70,
-      "embeds": 67
-    }
-  },
-  "uniq": 385202858,
+  "uniq": 1542350585,
   "workable_servers": [
     "ia802507.us.archive.org",
     "ia902507.us.archive.org"

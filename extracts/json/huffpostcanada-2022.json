@@ -1,5 +1,5 @@
 {
-  "created": 1660526094,
+  "created": 1660572525,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/26/items/huffpostcanada-2022",
@@ -2536,31 +2536,82 @@
       "sha1": "72db408ff1bdd91e418d70ca9a395eea385b2dc2"
     },
     {
+      "name": "huffpostcanada-2022-08-15T10:07:53.094095-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660572477",
+      "size": "34824",
+      "md5": "60ea881f86bcae8041fa259527cbd2b9",
+      "crc32": "91106c14",
+      "sha1": "5aa069000d68cad5082456612f00ad2a5f4ee759",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpostcanada-2022-08-15T10:07:53.094095-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660572479",
+      "size": "36872",
+      "md5": "3a52a69d12fb9e7d456e05c351de932a",
+      "crc32": "a4c2066b",
+      "sha1": "fbf61b001e080d1836df9ea27fb51b89660d40d4",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpostcanada-2022-08-15T10:07:53.094095-04:00.jpg",
+      "source": "original",
+      "mtime": "1660572476",
+      "size": "245778",
+      "md5": "d997551bd5c7ba6ab778238616cfbd95",
+      "crc32": "77b8460e",
+      "sha1": "d98b1528aa760aa446ee1c8fc29272eba2945f7b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "huffpostcanada-2022-08-15T10:07:53.094095-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660572480",
+      "size": "1477",
+      "md5": "1c6e3b63b2d9b790e02af09c35cc7ebb",
+      "crc32": "64809fb3",
+      "sha1": "08c5af8be38514dd3eac742a190af491dd0e22e6",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpostcanada-2022-08-15T10:07:53.094095-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660572482",
+      "size": "114831",
+      "md5": "d8ffccd1fd35ef64ba3dbc5caea1d992",
+      "crc32": "c5421ad3",
+      "sha1": "52c8997abe2155191dc2200b7880c0a6929df817",
+      "format": "JSON"
+    },
+    {
       "name": "huffpostcanada-2022_archive.torrent",
       "source": "metadata",
-      "btih": "61120d153eecc08426189aed9ccab44b3a5ad405",
-      "mtime": "1660526088",
-      "size": "54302",
-      "md5": "ee58aa4348bd8e80f2aa2013ff2dde8d",
-      "crc32": "1736c50a",
-      "sha1": "65675f7739bf8a7d746872ba8e16ee12eaedf081",
+      "btih": "e358a8837d9c2aad5c13965ac5310cb04ce7a71a",
+      "mtime": "1660572522",
+      "size": "55396",
+      "md5": "0bcc13929692562aaab9791530243518",
+      "crc32": "aa09a5dc",
+      "sha1": "3a013f61160866d3c508af34446eaa70a50a81e2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "huffpostcanada-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "eb4d719653e8421060c04217386167df",
+      "md5": "a29218b2e1a774f73abc9c8e073dc14f",
       "summation": "md5"
     },
     {
       "name": "huffpostcanada-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660526034",
-      "size": "327680",
-      "md5": "38f9533d2295e31fdd7ccf6b61363da5",
-      "crc32": "7f30e414",
-      "sha1": "4a74f5bea8d02de1d51a40fef5ec579aefdea96f",
+      "mtime": "1660572486",
+      "size": "335872",
+      "md5": "b56ce4bb627fdea1ba5494cbb2703372",
+      "crc32": "2ff686a9",
+      "sha1": "2fcf793bd1c82aa9fe087cbda8b8f431f944ef27",
       "format": "Metadata"
     },
     {
@@ -2574,9 +2625,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 248,
-  "item_last_updated": 1660526088,
-  "item_size": 17292202,
+  "files_count": 253,
+  "item_last_updated": 1660572522,
+  "item_size": 17735270,
   "metadata": {
     "identifier": "huffpostcanada-2022",
     "collection": [
@@ -2593,10 +2644,21 @@
     "publicdate": "2022-07-24 06:33:07",
     "addeddate": "2022-07-24 06:33:07"
   },
-  "server": "ia801400.us.archive.org",
-  "uniq": 430787019,
+  "pending_tasks": true,
+  "server": "ia601400.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3369832565,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1587440592,
   "workable_servers": [
-    "ia801400.us.archive.org",
     "ia601400.us.archive.org"
   ]
 }

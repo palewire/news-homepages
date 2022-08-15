@@ -1,5 +1,5 @@
 {
-  "created": 1660525598,
+  "created": 1660571739,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/20/items/ciceronoticias-2022",
@@ -5104,31 +5104,93 @@
       "sha1": "2af857fe07c641ea8c40ba1624ce783ad5808f76"
     },
     {
+      "name": "ciceronoticias-2022-08-15T08:52:40.989095-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660571564",
+      "size": "70953",
+      "md5": "e4ca09b027953c26445d24be5b1ba315",
+      "crc32": "0d10d435",
+      "sha1": "01942f4739164d2e01c3aebad904085f6c61dca9",
+      "format": "JSON"
+    },
+    {
+      "name": "ciceronoticias-2022-08-15T08:52:40.989095-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660571566",
+      "size": "65228",
+      "md5": "fafe828b9a98bb4f7218e332c16caff5",
+      "crc32": "958b5af9",
+      "sha1": "3ef40f9428fb542f18dcac3811743fc0b416df64",
+      "format": "JSON"
+    },
+    {
+      "name": "ciceronoticias-2022-08-15T08:52:40.989095-05:00.jpg",
+      "source": "original",
+      "mtime": "1660571562",
+      "size": "169034",
+      "md5": "64586c96658b893c52e2f714b3b9cfa2",
+      "crc32": "859c1e5b",
+      "sha1": "292ab425a318ae912c30728f93d4e1cb69d125c9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ciceronoticias-2022-08-15T08:52:40.989095-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660571568",
+      "size": "1562",
+      "md5": "17e672f8cbcd590ba597c6f75757e0dc",
+      "crc32": "7b7e95de",
+      "sha1": "9e87bc672e8befa53438038155dfe08c0cb4aa59",
+      "format": "JSON"
+    },
+    {
+      "name": "ciceronoticias-2022-08-15T08:52:40.989095-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660571570",
+      "size": "27232",
+      "md5": "4e9a938d1f489616e343fc82c58a2bca",
+      "crc32": "4d41f65a",
+      "sha1": "a938bc2176798b9a460129404667d40b0c0b7084",
+      "format": "JSON"
+    },
+    {
+      "name": "ciceronoticias-2022-08-15T08:52:40.989095-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ciceronoticias-2022-08-15T08:52:40.989095-05:00.jpg",
+      "mtime": "1660571676",
+      "size": "7562",
+      "md5": "62805d522a12a364415afe85489e4822",
+      "crc32": "14194a60",
+      "sha1": "2af857fe07c641ea8c40ba1624ce783ad5808f76"
+    },
+    {
       "name": "ciceronoticias-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cee47a2f327e7343678ef2b0a0583664a7239631",
-      "mtime": "1660525588",
-      "size": "107373",
-      "md5": "8a9c7de5ccf932d303b9ecd9b6489353",
-      "crc32": "c222b5a3",
-      "sha1": "9d760aa2b1a40896a143e1c3e42fe20a6343944a",
+      "btih": "430383ccf19725c489b9011061645312a21cb4a4",
+      "mtime": "1660571705",
+      "size": "108676",
+      "md5": "6c1e3bcd9ff8b36d8ff803502fc7720c",
+      "crc32": "6a32f88d",
+      "sha1": "02e9772e08688cf81aa9716696307a867d690eb9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ciceronoticias-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bfd2412e8f8b5211e1ba62619590bd07",
+      "md5": "540554dcccfb9d56baf181921e4af4ad",
       "summation": "md5"
     },
     {
       "name": "ciceronoticias-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660525530",
-      "size": "614400",
-      "md5": "7d3516fb7fffba61f04291cfae6f48b5",
-      "crc32": "5cd50cae",
-      "sha1": "68a1d5cc65810fe34dea3b9c6a4eb3d50e98d995",
+      "mtime": "1660571574",
+      "size": "630784",
+      "md5": "cd5b0316b79546e7c714e1e6f3f3986a",
+      "crc32": "b75741d5",
+      "sha1": "349637d0ea82aea18ad18906eb61e579484af05d",
       "format": "Metadata"
     },
     {
@@ -5142,9 +5204,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 494,
-  "item_last_updated": 1660525588,
-  "item_size": 32350666,
+  "files_count": 500,
+  "item_last_updated": 1660571705,
+  "item_size": 32709924,
   "metadata": {
     "identifier": "ciceronoticias-2022",
     "collection": [
@@ -5161,10 +5223,10 @@
     "publicdate": "2022-07-09 03:57:19",
     "addeddate": "2022-07-09 03:57:19"
   },
-  "server": "ia802505.us.archive.org",
-  "uniq": 433879735,
+  "server": "ia902505.us.archive.org",
+  "uniq": 380092814,
   "workable_servers": [
-    "ia802505.us.archive.org",
-    "ia902505.us.archive.org"
+    "ia902505.us.archive.org",
+    "ia802505.us.archive.org"
   ]
 }

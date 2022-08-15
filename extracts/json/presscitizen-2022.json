@@ -1,5 +1,5 @@
 {
-  "created": 1660526906,
+  "created": 1660573296,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/13/items/presscitizen-2022",
@@ -10602,31 +10602,93 @@
       "sha1": "ffcdaa0718452ef5b484cecd048c8fb5d734c3a4"
     },
     {
+      "name": "presscitizen-2022-08-15T01:40:01.092823-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660545607",
+      "size": "21654",
+      "md5": "f81f07e61f75829afd6544a61e40d837",
+      "crc32": "c6cd5f8b",
+      "sha1": "d4525dff3572fa12cdae2c85549f2caa78e686a1",
+      "format": "JSON"
+    },
+    {
+      "name": "presscitizen-2022-08-15T01:40:01.092823-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660545609",
+      "size": "47723",
+      "md5": "37f54be4d8c6b08a96ad7bbaf6da074a",
+      "crc32": "bc9033c9",
+      "sha1": "c3f195231a7844f0540f74a0d0f6da99565364d0",
+      "format": "JSON"
+    },
+    {
+      "name": "presscitizen-2022-08-15T01:40:01.092823-05:00.jpg",
+      "source": "original",
+      "mtime": "1660545606",
+      "size": "280799",
+      "md5": "551877f08d79ee2d99369e4a41aa058d",
+      "crc32": "40012a8e",
+      "sha1": "94a76a9932e527e6cf5d829f66326e2c03704d36",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "presscitizen-2022-08-15T01:40:01.092823-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660545611",
+      "size": "1522",
+      "md5": "cbe3c5b99ae38ec1d31fe66e2dd61518",
+      "crc32": "e893c72b",
+      "sha1": "d8c2822145f995cd0d1a00a0e6194b8d0050bfdf",
+      "format": "JSON"
+    },
+    {
+      "name": "presscitizen-2022-08-15T01:40:01.092823-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660545614",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "presscitizen-2022-08-15T01:40:01.092823-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "presscitizen-2022-08-15T01:40:01.092823-05:00.jpg",
+      "mtime": "1660545705",
+      "size": "9600",
+      "md5": "7ec591fb5b4b8e1170654222cd948f0e",
+      "crc32": "5a7429c1",
+      "sha1": "de86186b93e0b93064de6129e276f25f37011918"
+    },
+    {
       "name": "presscitizen-2022_archive.torrent",
       "source": "metadata",
-      "btih": "88c164ad666eb2f4957a7a46fb162c1ee35e769c",
-      "mtime": "1660503720",
-      "size": "218323",
-      "md5": "e15c4eeeec8803db8ea904b891fe4cc8",
-      "crc32": "4ca9c30d",
-      "sha1": "be78a7d00ad3b8acdc127d27ddaf08949c2738b4",
+      "btih": "0e4158eaf1c1b998438c04b213ea4abca258b048",
+      "mtime": "1660545732",
+      "size": "219612",
+      "md5": "8e430f980325e479eef7805a3543f931",
+      "crc32": "3d97d21a",
+      "sha1": "7bda54e2e530a74c72111813f0c7432f594b1c9e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "presscitizen-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "14ce8687c7dcd755bd4a5a6c56cac76f",
+      "md5": "7d184047c5410c93b0e39382cc92aa0c",
       "summation": "md5"
     },
     {
       "name": "presscitizen-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660503488",
-      "size": "1200128",
-      "md5": "c33921adeebbcae9dd3190e6660982a1",
-      "crc32": "a385452d",
-      "sha1": "dfbff4e10fa38a97535eeeaf7cc0df32e360e54b",
+      "mtime": "1660545617",
+      "size": "1208320",
+      "md5": "bbb14cb0267e593e4e0a9b09d4bdf075",
+      "crc32": "6f097375",
+      "sha1": "2ed203db5ff76eb835827b6cfc6ff1183e54f107",
       "format": "Metadata"
     },
     {
@@ -10640,9 +10702,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1016,
-  "item_last_updated": 1660503720,
-  "item_size": 79097623,
+  "files_count": 1022,
+  "item_last_updated": 1660545732,
+  "item_size": 79468604,
   "metadata": {
     "identifier": "presscitizen-2022",
     "collection": [
@@ -10664,10 +10726,10 @@
     "status": "error",
     "status_ext": "error:user-session-limit"
   },
-  "server": "ia802507.us.archive.org",
-  "uniq": 1854224046,
+  "server": "ia902507.us.archive.org",
+  "uniq": 535250656,
   "workable_servers": [
-    "ia802507.us.archive.org",
-    "ia902507.us.archive.org"
+    "ia902507.us.archive.org",
+    "ia802507.us.archive.org"
   ]
 }

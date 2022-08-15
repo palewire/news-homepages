@@ -1,5 +1,5 @@
 {
-  "created": 1660504261,
+  "created": 1660574047,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/27/items/wsbtv-2022",
@@ -2604,31 +2604,83 @@
       "sha1": "4fe848c2b4d02169925e04b838388bee60d7a189"
     },
     {
+      "name": "wsbtv-2022-08-15T02:52:32.785135-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660546358",
+      "size": "20350",
+      "md5": "799b57e4cabec97d50007f7be85930e2",
+      "crc32": "e1743460",
+      "sha1": "127475ea4baf1a3845079a190f0e704b02221ae7",
+      "format": "JSON"
+    },
+    {
+      "name": "wsbtv-2022-08-15T02:52:32.785135-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660546360",
+      "size": "18275",
+      "md5": "7ae619f0396560d1f3d6fb9b7c9b5e55",
+      "crc32": "cc762e89",
+      "sha1": "39857ebe3a679abf8641689147ce8a3388c88f30",
+      "format": "JSON"
+    },
+    {
+      "name": "wsbtv-2022-08-15T02:52:32.785135-04:00.jpg",
+      "source": "original",
+      "mtime": "1660546355",
+      "size": "309544",
+      "md5": "1cb7e282aaf3ed463c5758b719e0e05b",
+      "crc32": "882c4ea6",
+      "sha1": "284492d61e6201cc5cc6604e12005e3992780487",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wsbtv-2022-08-15T02:52:32.785135-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660546362",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "wsbtv-2022-08-15T02:52:32.785135-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wsbtv-2022-08-15T02:52:32.785135-04:00.jpg",
+      "mtime": "1660546473",
+      "size": "11331",
+      "md5": "5892c115f7f11fda1aa2581b0ef950bb",
+      "crc32": "a76b6750",
+      "sha1": "0f78e59b65f31686a5aa8a2935f8ab7ec782181a"
+    },
+    {
       "name": "wsbtv-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3e97c2f0f8a968611acc1668b26fda285f033389",
-      "mtime": "1660504251",
-      "size": "53251",
-      "md5": "a02371943612cffb1c7d835db2161a3a",
-      "crc32": "ec8ed7c2",
-      "sha1": "e54466bc9fe2b1bea07a9d1cf2c5c8b10723e25b",
+      "btih": "cfca2b0b861e400fe50299f3c0b8cd18651cdd1d",
+      "mtime": "1660546486",
+      "size": "54292",
+      "md5": "60e7ebc6e579363e3d9800d72b6cbfcb",
+      "crc32": "b4d5cb6d",
+      "sha1": "4c06a2794f79792b32ffb37412c163ffd3c54ea5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wsbtv-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5b175e4229dc45f498041d9b50d596a9",
+      "md5": "5c2530d448c4454bfc7f66ac5a2d1d25",
       "summation": "md5"
     },
     {
       "name": "wsbtv-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660504186",
-      "size": "323584",
-      "md5": "c84f91a8d3aeaf02fc258cf11eb2fe94",
-      "crc32": "0a6940e0",
-      "sha1": "6fca1398054ca1590156f6435ca78fb3ed9e0b9e",
+      "mtime": "1660546374",
+      "size": "327680",
+      "md5": "b47efaf7a701dae7dcfcf6392715cbbb",
+      "crc32": "67e0ad3b",
+      "sha1": "14204d469aa1803adb52c48dd891c2cfba647cd0",
       "format": "Metadata"
     },
     {
@@ -2642,9 +2694,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 254,
-  "item_last_updated": 1660504251,
-  "item_size": 17823769,
+  "files_count": 259,
+  "item_last_updated": 1660546486,
+  "item_size": 18188608,
   "metadata": {
     "identifier": "wsbtv-2022",
     "collection": [
@@ -2662,9 +2714,14 @@
     "addeddate": "2022-07-20 23:32:36"
   },
   "server": "ia801508.us.archive.org",
-  "uniq": 267147051,
+  "uniq": 1111761862,
   "workable_servers": [
     "ia801508.us.archive.org",
     "ia601508.us.archive.org"
-  ]
+  ],
+  "wsbtv-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  }
 }

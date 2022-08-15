@@ -1,5 +1,5 @@
 {
-  "created": 1660516908,
+  "created": 1660574022,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/6/items/wkyt-2022",
@@ -1764,31 +1764,93 @@
       "sha1": "963b62e9a40cd30bb30b1815feaaf06bcbac3523"
     },
     {
+      "name": "wkyt-2022-08-14T23:19:52.746450-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660533596",
+      "size": "35376",
+      "md5": "a31f61dea7f9b55ee844c9d88ff35b42",
+      "crc32": "bae306cf",
+      "sha1": "a56ca8412acf1184314996a283857812b77c0edd",
+      "format": "JSON"
+    },
+    {
+      "name": "wkyt-2022-08-14T23:19:52.746450-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660533598",
+      "size": "21834",
+      "md5": "8f810d922a5a3b99aa807b8252f7b202",
+      "crc32": "e7d06691",
+      "sha1": "dfc29e2f6ed2ce8adb99a6de4908b3f3b9a20e68",
+      "format": "JSON"
+    },
+    {
+      "name": "wkyt-2022-08-14T23:19:52.746450-04:00.jpg",
+      "source": "original",
+      "mtime": "1660533594",
+      "size": "367559",
+      "md5": "7de684eaefdf3b6a3e76a97a42d8da9c",
+      "crc32": "46c17949",
+      "sha1": "d5adf82ef71f219701ef2092947c250a990ce273",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wkyt-2022-08-14T23:19:52.746450-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660533600",
+      "size": "1440",
+      "md5": "30a173a002b019ae977b0d213c252d36",
+      "crc32": "81771567",
+      "sha1": "2290c7e01cbe983129677374e7605efda01723f2",
+      "format": "JSON"
+    },
+    {
+      "name": "wkyt-2022-08-14T23:19:52.746450-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660533602",
+      "size": "97",
+      "md5": "8cd0c22ae4a85e2d1642a14a687f9e04",
+      "crc32": "c46f017a",
+      "sha1": "4db916d57b6b5c176acab070f6cf5a89f91261e7",
+      "format": "JSON"
+    },
+    {
+      "name": "wkyt-2022-08-14T23:19:52.746450-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wkyt-2022-08-14T23:19:52.746450-04:00.jpg",
+      "mtime": "1660533678",
+      "size": "10977",
+      "md5": "43408b7bc68ad788bcb4bac206a006c8",
+      "crc32": "9687b4fc",
+      "sha1": "5fd5711b77b53d1888f29fd2cf0080cc7f9bda8d"
+    },
+    {
       "name": "wkyt-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d6ea153b77307b50b5292ceadc270538fc42304e",
-      "mtime": "1660497053",
-      "size": "36600",
-      "md5": "61b7bfc9971c5a14f56d98cfef6b8766",
-      "crc32": "2c9b2d1c",
-      "sha1": "06b9377493167237147008bcc3b665383e9849b4",
+      "btih": "fda1a28d5404d00761b4e3d620761ca4167dd8af",
+      "mtime": "1660533685",
+      "size": "37841",
+      "md5": "1ca024f991cab8ecc72598570648e547",
+      "crc32": "48d23d52",
+      "sha1": "5443005b8dde4cf3001ce15e2619e8625ec314b3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wkyt-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "451050c79dbc75cba28088c72f51b40a",
+      "md5": "f834cea8394b0138104d12783994bd64",
       "summation": "md5"
     },
     {
       "name": "wkyt-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660496992",
-      "size": "233472",
-      "md5": "4625a2a7cf4778bbf91e73a6964391a9",
-      "crc32": "2e95cda2",
-      "sha1": "f209a75c18b466e61dec45628274e5f4a921b6fa",
+      "mtime": "1660533622",
+      "size": "245760",
+      "md5": "b3877f22dd8011068a69e237f2de8b91",
+      "crc32": "5790130a",
+      "sha1": "8603ae806bba9a2ac54fc88618144b92fe96ca5d",
       "format": "Metadata"
     },
     {
@@ -1802,9 +1864,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 174,
-  "item_last_updated": 1660497053,
-  "item_size": 14483850,
+  "files_count": 180,
+  "item_last_updated": 1660533685,
+  "item_size": 14934662,
   "metadata": {
     "identifier": "wkyt-2022",
     "collection": [
@@ -1822,7 +1884,11 @@
     "addeddate": "2022-08-01 06:42:22"
   },
   "server": "ia801504.us.archive.org",
-  "uniq": 405736842,
+  "uniq": 1334071808,
+  "wkyt-2022": {
+    "url": "https://www.wkyt.com/",
+    "job_id": "spn2-4424a8d7805c54d1aa49fac0a2fc3e15fb676595"
+  },
   "workable_servers": [
     "ia801504.us.archive.org",
     "ia601504.us.archive.org"

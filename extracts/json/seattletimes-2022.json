@@ -1,5 +1,5 @@
 {
-  "created": 1660503843,
+  "created": 1660545934,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/2/items/seattletimes-2022",
@@ -4110,31 +4110,93 @@
       "sha1": "c4aeb4bb1ceb367fd9920af6c46f14a05d1701a6"
     },
     {
+      "name": "seattletimes-2022-08-14T23:44:09.149048-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660545852",
+      "size": "461",
+      "md5": "6d721536cfb307127f5bae87371c03d5",
+      "crc32": "20a67e6f",
+      "sha1": "672fa90bf732527699d62931e3a2a26429b913c8",
+      "format": "JSON"
+    },
+    {
+      "name": "seattletimes-2022-08-14T23:44:09.149048-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660545853",
+      "size": "45470",
+      "md5": "8bd1dedf665c097deabb44f45f90b6e5",
+      "crc32": "26f3287c",
+      "sha1": "44e521fa37edc8ea418bbd1aa227b78be9aefbd3",
+      "format": "JSON"
+    },
+    {
+      "name": "seattletimes-2022-08-14T23:44:09.149048-07:00.jpg",
+      "source": "original",
+      "mtime": "1660545850",
+      "size": "282303",
+      "md5": "54bfe7b518b56ab9ab374d8a4313bd31",
+      "crc32": "099611ef",
+      "sha1": "6183b46fcb9a5b641f24d7662a18e95f26ba8020",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "seattletimes-2022-08-14T23:44:09.149048-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660545855",
+      "size": "1513",
+      "md5": "0449919f4526393910ef450e16b51cae",
+      "crc32": "d49f6384",
+      "sha1": "edcd9eed4633e4ac3a683bb0b2b556732e4bd2e3",
+      "format": "JSON"
+    },
+    {
+      "name": "seattletimes-2022-08-14T23:44:09.149048-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660545856",
+      "size": "236",
+      "md5": "1a81ec8b727b0495231f818ce4e33b34",
+      "crc32": "650f8619",
+      "sha1": "bb7dd9b22667ada2cd2d078e44333618d5fd1030",
+      "format": "JSON"
+    },
+    {
+      "name": "seattletimes-2022-08-14T23:44:09.149048-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "seattletimes-2022-08-14T23:44:09.149048-07:00.jpg",
+      "mtime": "1660545917",
+      "size": "8908",
+      "md5": "cbca821d926f8f38a450abb365c7bf3e",
+      "crc32": "a577417f",
+      "sha1": "5a45b9c0ecd42ebbd1157bfd5313c4d723b3f280"
+    },
+    {
       "name": "seattletimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ef786dad8fb9ba1b8f921146710e4cd26d3477fd",
-      "mtime": "1660503821",
-      "size": "85751",
-      "md5": "5cd60101b2ec28bac98d98267b984cb0",
-      "crc32": "8cd07dd1",
-      "sha1": "5f1c6f36e38ec54e5b7d1ecee5b0adfe8c10c93e",
+      "btih": "a0edf30ee527c11715cb631dccc1f1959148dd79",
+      "mtime": "1660545928",
+      "size": "87038",
+      "md5": "88ff2d3090a1fca41fa66dd17279e27a",
+      "crc32": "8fc29a36",
+      "sha1": "ce9e291ff13a918f1c4b829899c47aec34c604c5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "seattletimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e83c0eff787c82811ee3befa1f37a184",
+      "md5": "55fbccd482c451a526f1334688fc78b4",
       "summation": "md5"
     },
     {
       "name": "seattletimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660503639",
-      "size": "499712",
-      "md5": "c76bf1478689c7401c8b0d9f5fb7af8c",
-      "crc32": "b1685527",
-      "sha1": "44b59ff2764300fc7ecf68c682386ef95506bd4f",
+      "mtime": "1660545859",
+      "size": "507904",
+      "md5": "a63e5ecb4f63aff20a4006557d44baa6",
+      "crc32": "88336280",
+      "sha1": "fd7ece7edfcb5b21dff684b8eb00ae4c2f3f7fbe",
       "format": "Metadata"
     },
     {
@@ -4148,9 +4210,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 398,
-  "item_last_updated": 1660503821,
-  "item_size": 30393748,
+  "files_count": 404,
+  "item_last_updated": 1660545928,
+  "item_size": 30742118,
   "metadata": {
     "identifier": "seattletimes-2022",
     "collection": [
@@ -4167,10 +4229,10 @@
     "publicdate": "2022-07-04 21:53:09",
     "addeddate": "2022-07-04 21:53:09"
   },
-  "server": "ia802500.us.archive.org",
-  "uniq": 2060661400,
+  "server": "ia902500.us.archive.org",
+  "uniq": 949636625,
   "workable_servers": [
-    "ia802500.us.archive.org",
-    "ia902500.us.archive.org"
+    "ia902500.us.archive.org",
+    "ia802500.us.archive.org"
   ]
 }

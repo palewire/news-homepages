@@ -1,5 +1,5 @@
 {
-  "created": 1660526652,
+  "created": 1660572856,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/27/items/leadertelegram-2022",
@@ -9984,31 +9984,93 @@
       "sha1": "ed9ee098f2672994c7a9d78e58036a5c0e3360cc"
     },
     {
+      "name": "leadertelegram-2022-08-15T01:31:06.730997-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660545070",
+      "size": "47606",
+      "md5": "a39c825c385df46088bd30ff06150105",
+      "crc32": "48ad01f2",
+      "sha1": "8a5e0e96789b764e3d96a645a6ac8d0a81b79db0",
+      "format": "JSON"
+    },
+    {
+      "name": "leadertelegram-2022-08-15T01:31:06.730997-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660545071",
+      "size": "72766",
+      "md5": "2b39648fe793012a4e34424998cbf5c2",
+      "crc32": "06074db4",
+      "sha1": "f9521840e680efd1bd47716789c1b5a2e5cdbced",
+      "format": "JSON"
+    },
+    {
+      "name": "leadertelegram-2022-08-15T01:31:06.730997-05:00.jpg",
+      "source": "original",
+      "mtime": "1660545068",
+      "size": "267350",
+      "md5": "3ce252cc1c60d9d26eeec117b6c8ec77",
+      "crc32": "b2b6a934",
+      "sha1": "75e6394e1c8e420a0929cd0945ddc4a6e72972e8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "leadertelegram-2022-08-15T01:31:06.730997-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660545073",
+      "size": "1531",
+      "md5": "3f3b64f7f7902790566015b4d2e369c7",
+      "crc32": "dba6bd86",
+      "sha1": "43ec1ffc5cd03f779a4d5aca926209efde3d6cdc",
+      "format": "JSON"
+    },
+    {
+      "name": "leadertelegram-2022-08-15T01:31:06.730997-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660545075",
+      "size": "107",
+      "md5": "f1df27f7bb34146433c2aef78c41cde0",
+      "crc32": "4906991f",
+      "sha1": "033d63695ce08d3210296fde7bf29056dbc81431",
+      "format": "JSON"
+    },
+    {
+      "name": "leadertelegram-2022-08-15T01:31:06.730997-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "leadertelegram-2022-08-15T01:31:06.730997-05:00.jpg",
+      "mtime": "1660545224",
+      "size": "9248",
+      "md5": "2b88cbfe29e83b4f7b2721d56594120a",
+      "crc32": "901af47d",
+      "sha1": "40164f400f1c5ee6112508a1ced29dae2a4f1a77"
+    },
+    {
       "name": "leadertelegram-2022_archive.torrent",
       "source": "metadata",
-      "btih": "490ab75a7bee0850a31478d7077aabf1434ba528",
-      "mtime": "1660498031",
-      "size": "208358",
-      "md5": "0f2291d368a8ef81c15182e6ad6cc3ce",
-      "crc32": "c016b094",
-      "sha1": "f87cc8460552753a5d3e7a8e6f80e234d6c04b87",
+      "btih": "5d0fbb1270fb84c37ef18a45ee7dcbc941b66cc1",
+      "mtime": "1660545292",
+      "size": "209659",
+      "md5": "f4ee8f344d1de7f849b33a994c999597",
+      "crc32": "e4ac9790",
+      "sha1": "aa64788791f2a91a32280737f25ce26170fee7b3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "leadertelegram-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0facf2da080580e09a50a0b0f5106166",
+      "md5": "86fbbf7ee154a2d3b191babb099f9369",
       "summation": "md5"
     },
     {
       "name": "leadertelegram-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660497921",
-      "size": "1134592",
-      "md5": "50163c6d5a6bb73aebd903e3a63e8ab6",
-      "crc32": "993362da",
-      "sha1": "394e476ec2425f6e6219a986a41e1e666ce6d4f7",
+      "mtime": "1660545078",
+      "size": "1142784",
+      "md5": "2ee57746a56da6372b539e326d1a350e",
+      "crc32": "42a5b041",
+      "sha1": "e29a8684d2f99e5efcdf3e13ffccef9fb0475d95",
       "format": "Metadata"
     },
     {
@@ -10022,13 +10084,12 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 957,
-  "item_last_updated": 1660498031,
-  "item_size": 92448972,
+  "files_count": 963,
+  "item_last_updated": 1660545292,
+  "item_size": 92857073,
   "leadertelegram-2022": {
     "url": "https://www.leadertelegram.com/",
-    "job_id": "spn2-823c1819ad8cdefe48af1698eddc9a45b73bc88c",
-    "message": "The capture will start in ~3 minutes because our service is currently overloaded. You may close your browser window and the page will still be saved."
+    "job_id": "spn2-823c1819ad8cdefe48af1698eddc9a45b73bc88c"
   },
   "metadata": {
     "identifier": "leadertelegram-2022",
@@ -10046,10 +10107,10 @@
     "publicdate": "2022-03-23 23:07:05",
     "addeddate": "2022-03-23 23:07:05"
   },
-  "server": "ia801409.us.archive.org",
-  "uniq": 1997463555,
+  "server": "ia601409.us.archive.org",
+  "uniq": 1391795252,
   "workable_servers": [
-    "ia801409.us.archive.org",
-    "ia601409.us.archive.org"
+    "ia601409.us.archive.org",
+    "ia801409.us.archive.org"
   ]
 }

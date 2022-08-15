@@ -1,5 +1,5 @@
 {
-  "created": 1660526890,
+  "created": 1660573277,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/19/items/postandcourier-2022",
@@ -5560,31 +5560,93 @@
       "sha1": "ca076782ff76af94caec817f2f2c8da466e9318f"
     },
     {
+      "name": "postandcourier-2022-08-15T02:39:31.943057-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660545582",
+      "size": "29247",
+      "md5": "debc26afda0b67f43bf0c4deaaeb96dd",
+      "crc32": "e95ebc79",
+      "sha1": "3e29afa21fd8a27c4eeb7583143df05a5134f89f",
+      "format": "JSON"
+    },
+    {
+      "name": "postandcourier-2022-08-15T02:39:31.943057-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660545584",
+      "size": "58226",
+      "md5": "41db33c7580f23677a9c265f68a417e7",
+      "crc32": "197f625f",
+      "sha1": "820948d1a8efa4f87b3f0870055521fefda96c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "postandcourier-2022-08-15T02:39:31.943057-04:00.jpg",
+      "source": "original",
+      "mtime": "1660545580",
+      "size": "266495",
+      "md5": "a67966e592d259ac6e419ef68a678911",
+      "crc32": "4afcec55",
+      "sha1": "ef87542623704f28583dba0f3d0b9e5e0d9747cd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "postandcourier-2022-08-15T02:39:31.943057-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660545586",
+      "size": "1530",
+      "md5": "1831b81f0eda4c6ac0684356a90f1db0",
+      "crc32": "830a7d84",
+      "sha1": "e37603ec1afb4064cf4f045f445a9ab47ed10b2d",
+      "format": "JSON"
+    },
+    {
+      "name": "postandcourier-2022-08-15T02:39:31.943057-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660545588",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "postandcourier-2022-08-15T02:39:31.943057-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "postandcourier-2022-08-15T02:39:31.943057-04:00.jpg",
+      "mtime": "1660545848",
+      "size": "10009",
+      "md5": "69f89a4f0e4767271f613c400c73b3aa",
+      "crc32": "a07eea5f",
+      "sha1": "85155d10510941578cf05be782046d1ca550f2fd"
+    },
+    {
       "name": "postandcourier-2022_archive.torrent",
       "source": "metadata",
-      "btih": "74623a05b010421540470df03ea836ef9254faba",
-      "mtime": "1660503473",
-      "size": "116906",
-      "md5": "aa9eac6c705d8ad7563c4192a517675e",
-      "crc32": "b6295fe9",
-      "sha1": "967000eda00eb03a73cbe88403f17793de08ff37",
+      "btih": "f721f0596ad5107c0ec2d80f0847a8fad168a63d",
+      "mtime": "1660545855",
+      "size": "118188",
+      "md5": "525a73a83dd654f32b43fed19b33ae5b",
+      "crc32": "ffdfab6c",
+      "sha1": "8988353c5b3aaa0f8aaf752643d8f4a053f3367d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "postandcourier-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6348ac62337460336a57e6aa2dc14ad8",
+      "md5": "087f3399c8b014cf0a11068be2676daa",
       "summation": "md5"
     },
     {
       "name": "postandcourier-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660503407",
-      "size": "655360",
-      "md5": "588a7a83d2874d760ca912825775e9bb",
-      "crc32": "b9a4af5d",
-      "sha1": "e7a3f836060001b7b6b80e10bdac70c913f2a6c8",
+      "mtime": "1660545595",
+      "size": "663552",
+      "md5": "6f554c07d94b179312fc2f0f7043f8c8",
+      "crc32": "52d34076",
+      "sha1": "c4f7c94d48b5a3c4276fd59d6646dce36ab998cd",
       "format": "Metadata"
     },
     {
@@ -5598,9 +5660,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 536,
-  "item_last_updated": 1660503473,
-  "item_size": 47356652,
+  "files_count": 542,
+  "item_last_updated": 1660545855,
+  "item_size": 47731835,
   "metadata": {
     "identifier": "postandcourier-2022",
     "collection": [
@@ -5623,7 +5685,7 @@
     "status_ext": "error:user-session-limit"
   },
   "server": "ia801403.us.archive.org",
-  "uniq": 391977216,
+  "uniq": 1646156536,
   "workable_servers": [
     "ia801403.us.archive.org",
     "ia601403.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1660504059,
+  "created": 1660573434,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/22/items/rpbreakingnews-2022",
@@ -2130,31 +2130,93 @@
       "sha1": "3da27e997870f8392d9d0f7a0afcb2bb6789bf40"
     },
     {
+      "name": "rpbreakingnews-2022-08-15T12:13:22.221903+05:30.accessibility.json",
+      "source": "original",
+      "mtime": "1660545805",
+      "size": "130998",
+      "md5": "051e438bfc3c69df99858abf4af36e47",
+      "crc32": "c3b1e297",
+      "sha1": "499a7e49cae005e83b158274efa9b42fffea0c22",
+      "format": "JSON"
+    },
+    {
+      "name": "rpbreakingnews-2022-08-15T12:13:22.221903+05:30.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660545807",
+      "size": "109069",
+      "md5": "2527f87ec7b82b63793f6dc6fddaaa21",
+      "crc32": "5e5825d3",
+      "sha1": "3dd60710280647a8d28ca6eb5ce14add9bce3d2f",
+      "format": "JSON"
+    },
+    {
+      "name": "rpbreakingnews-2022-08-15T12:13:22.221903+05:30.jpg",
+      "source": "original",
+      "mtime": "1660545803",
+      "size": "246771",
+      "md5": "a5ee07c47aa0a9275453c1454d8e6814",
+      "crc32": "c9f22832",
+      "sha1": "f8831206fd0a0a71504c2952edf34c2505f008ae",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rpbreakingnews-2022-08-15T12:13:22.221903+05:30.lighthouse.json",
+      "source": "original",
+      "mtime": "1660545809",
+      "size": "1468",
+      "md5": "ee9f86b804f4cc0ccd70f2e6b1ccad40",
+      "crc32": "af2184c7",
+      "sha1": "eacb276c1c6f0791d4cd3b4f591fe080c19cb4ea",
+      "format": "JSON"
+    },
+    {
+      "name": "rpbreakingnews-2022-08-15T12:13:22.221903+05:30.wayback.json",
+      "source": "original",
+      "mtime": "1660545810",
+      "size": "381",
+      "md5": "e8124ae81ec3c7ea606fb35ab921586a",
+      "crc32": "70daa340",
+      "sha1": "d455c75944f030e8d92a89037ccd4e0140701a88",
+      "format": "JSON"
+    },
+    {
+      "name": "rpbreakingnews-2022-08-15T12:13:22.221903+05:30_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rpbreakingnews-2022-08-15T12:13:22.221903+05:30.jpg",
+      "mtime": "1660545904",
+      "size": "9476",
+      "md5": "31b64f53339831859d10e49303140007",
+      "crc32": "369134f5",
+      "sha1": "6a329a992dc56ffaea1424b5c9372d32b5f06038"
+    },
+    {
       "name": "rpbreakingnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8fe065fa98cfcaca7d7074254b0441af7bbaa1e6",
-      "mtime": "1660503865",
-      "size": "46194",
-      "md5": "db7900f6840ac29bcdb5a17d6aa5dac1",
-      "crc32": "a9d0cba8",
-      "sha1": "4d2bdecabb8c7ed275b4146486bb38e9043f663a",
+      "btih": "d7dbcf9c4a298138a547ee863c45432da7fb90dd",
+      "mtime": "1660545942",
+      "size": "47497",
+      "md5": "49c1219fe3c5f5b9bb88cf780215e7f7",
+      "crc32": "94426c0c",
+      "sha1": "c889a54741b45847206399e5dce60e08eaf2954f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rpbreakingnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "18a72976998b8d8e983758d133c18caa",
+      "md5": "bda18aa8e513a0fb1075aabdd14973b2",
       "summation": "md5"
     },
     {
       "name": "rpbreakingnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660503620",
-      "size": "278528",
-      "md5": "77e09a71b0cd1936a318d10edd02c41f",
-      "crc32": "02be9115",
-      "sha1": "40e51f51812d2625f010b4ca505a2bd92300861d",
+      "mtime": "1660545814",
+      "size": "286720",
+      "md5": "65e538dc7b3c99731ff499be780ad20b",
+      "crc32": "bf88ad25",
+      "sha1": "c8eeb284e3d864f834df4a48e82916e902b6742f",
       "format": "Metadata"
     },
     {
@@ -2168,9 +2230,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 209,
-  "item_last_updated": 1660503865,
-  "item_size": 21885571,
+  "files_count": 215,
+  "item_last_updated": 1660545942,
+  "item_size": 22393229,
   "metadata": {
     "identifier": "rpbreakingnews-2022",
     "collection": [
@@ -2187,10 +2249,26 @@
     "publicdate": "2022-07-27 17:18:19",
     "addeddate": "2022-07-27 17:18:19"
   },
-  "server": "ia601400.us.archive.org",
-  "uniq": 870751340,
+  "rpbreakingnews-2022": {
+    "url": "https://www.patrika.com/",
+    "job_id": "spn2-cc9f19c68eedbe0f319ba278ffefbda6e3e80f6a",
+    "counters": {
+      "embeds": 1,
+      "outlinks": 0
+    },
+    "resources": [
+      "https://www.patrika.com/favicon.ico"
+    ],
+    "http_status": 502,
+    "timestamp": "20220815060951",
+    "original_url": "https://www.patrika.com/favicon.ico",
+    "status": "success",
+    "duration_sec": 22.657
+  },
+  "server": "ia801400.us.archive.org",
+  "uniq": 1999179792,
   "workable_servers": [
-    "ia601400.us.archive.org",
-    "ia801400.us.archive.org"
+    "ia801400.us.archive.org",
+    "ia601400.us.archive.org"
   ]
 }

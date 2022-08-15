@@ -1,5 +1,5 @@
 {
-  "created": 1660526126,
+  "created": 1660572574,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/8/items/indiatoday-2022",
@@ -2380,31 +2380,82 @@
       "sha1": "183239eff9c6312cd2dc8553c9dcb89701c69d06"
     },
     {
+      "name": "indiatoday-2022-08-15T19:38:39.041196+05:30.accessibility.json",
+      "source": "original",
+      "mtime": "1660572523",
+      "size": "55510",
+      "md5": "c2ce8614b3632dc953bca2a7fa4eda05",
+      "crc32": "02942de3",
+      "sha1": "61fc335aaa28e1d321cef318f25583aa4b62b025",
+      "format": "JSON"
+    },
+    {
+      "name": "indiatoday-2022-08-15T19:38:39.041196+05:30.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660572526",
+      "size": "56940",
+      "md5": "fd0a971766bb9d35e1763aa50b330521",
+      "crc32": "e26031fc",
+      "sha1": "5c03d8dfe7ee88d32067bdabbda1cfd0971ffb4c",
+      "format": "JSON"
+    },
+    {
+      "name": "indiatoday-2022-08-15T19:38:39.041196+05:30.jpg",
+      "source": "original",
+      "mtime": "1660572521",
+      "size": "323158",
+      "md5": "d022ec591c176c75045080fe0e069110",
+      "crc32": "595daf1a",
+      "sha1": "82c13f4a7e47fe8336bd86c09a63a0d1fe5f0c69",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "indiatoday-2022-08-15T19:38:39.041196+05:30.lighthouse.json",
+      "source": "original",
+      "mtime": "1660572529",
+      "size": "1486",
+      "md5": "ca4ad8b48f87558894e6de335886266b",
+      "crc32": "91075728",
+      "sha1": "64c62c00b5a5d806fc93ea08ff5fa03a7c799990",
+      "format": "JSON"
+    },
+    {
+      "name": "indiatoday-2022-08-15T19:38:39.041196+05:30.wayback.json",
+      "source": "original",
+      "mtime": "1660572531",
+      "size": "57651",
+      "md5": "6ed751090f8ebe67300bda85f9742d44",
+      "crc32": "31c19677",
+      "sha1": "4329be2309f0153f50198c0ff8770e5c1b598be4",
+      "format": "JSON"
+    },
+    {
       "name": "indiatoday-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0b7d17bd7c2a86796eb534c3512572995afc4294",
-      "mtime": "1660526121",
-      "size": "50271",
-      "md5": "ed76ed96a54277c13d1eb3429670cb73",
-      "crc32": "f2909e68",
-      "sha1": "8d194b62c893c011ca89e21f46309d4bed37eea5",
+      "btih": "aa3d5cdf796c7935cb7500a4cd597cc32ea195b1",
+      "mtime": "1660572571",
+      "size": "51344",
+      "md5": "cf711ef1567f34989ef43cc8bc934eb5",
+      "crc32": "5fe2a4be",
+      "sha1": "227e8021706314623b6776c48afc428c28608175",
       "format": "Archive BitTorrent"
     },
     {
       "name": "indiatoday-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "04ebaf5d7755f177aaae871c842d5e78",
+      "md5": "3e2973a5894ab0bab78fb6608b24079b",
       "summation": "md5"
     },
     {
       "name": "indiatoday-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660526068",
-      "size": "303104",
-      "md5": "e45e275a16fea2ecde1f7116bd2cc625",
-      "crc32": "516abc6c",
-      "sha1": "e2d726cee7523c986dc29e3cf3fba099dfba731a",
+      "mtime": "1660572535",
+      "size": "315392",
+      "md5": "5234141d16e315b92310e2a03058296d",
+      "crc32": "9f9cb2e4",
+      "sha1": "58a31c73a44dd901fa8e61430a06cdeab473aa93",
       "format": "Metadata"
     },
     {
@@ -2418,9 +2469,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 233,
-  "item_last_updated": 1660526121,
-  "item_size": 20353184,
+  "files_count": 238,
+  "item_last_updated": 1660572571,
+  "item_size": 20861290,
   "metadata": {
     "identifier": "indiatoday-2022",
     "collection": [
@@ -2437,10 +2488,21 @@
     "publicdate": "2022-07-26 00:16:43",
     "addeddate": "2022-07-26 00:16:43"
   },
+  "pending_tasks": true,
   "server": "ia601505.us.archive.org",
-  "uniq": 485526994,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3369833596,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 794396361,
   "workable_servers": [
-    "ia601505.us.archive.org",
-    "ia801505.us.archive.org"
+    "ia601505.us.archive.org"
   ]
 }

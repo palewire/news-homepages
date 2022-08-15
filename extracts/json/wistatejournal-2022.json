@@ -1,5 +1,5 @@
 {
-  "created": 1660515424,
+  "created": 1660563854,
   "d1": "ia902902.us.archive.org",
   "d2": "ia802902.us.archive.org",
   "dir": "/0/items/wistatejournal-2022",
@@ -9666,31 +9666,93 @@
       "sha1": "af967f6ce9a4d174780795d6da9a1dbfa799c072"
     },
     {
+      "name": "wistatejournal-2022-08-14T22:19:15.830506-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660533564",
+      "size": "25976",
+      "md5": "a1c3fb8bf494cb36be085d850c6bd290",
+      "crc32": "36e49892",
+      "sha1": "6c2b911faf34dc3f4ad839f9253c87f769d54931",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-08-14T22:19:15.830506-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660533565",
+      "size": "70033",
+      "md5": "baedb0360ec099c8e2fa6a9a6972b5a0",
+      "crc32": "5394de64",
+      "sha1": "4ac491d7a34e949af572b9af94b4726dafee6617",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-08-14T22:19:15.830506-05:00.jpg",
+      "source": "original",
+      "mtime": "1660533561",
+      "size": "322797",
+      "md5": "a288f6110ebeedd560848001da6a3fe9",
+      "crc32": "ae572a75",
+      "sha1": "5dc15c003e3d6af95c4f0e77bd2e0c0aae8c91c8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wistatejournal-2022-08-14T22:19:15.830506-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660533567",
+      "size": "1468",
+      "md5": "07e5fb9308b18c40dd42e5ebd14f563a",
+      "crc32": "69306830",
+      "sha1": "8f77af2b214ef6792b6615d25cd82539ba755cf9",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-08-14T22:19:15.830506-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660533569",
+      "size": "44139",
+      "md5": "ae1cdc3e69415cc972b1c959f683e4cb",
+      "crc32": "ffbd3d24",
+      "sha1": "86fdfb351f48060555b16bb6fe52e4703a22481a",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-08-14T22:19:15.830506-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wistatejournal-2022-08-14T22:19:15.830506-05:00.jpg",
+      "mtime": "1660533636",
+      "size": "12454",
+      "md5": "c3d62f9305bd5c07b89138ffe7a52a7d",
+      "crc32": "d8ac6fb2",
+      "sha1": "ff21c0326724a48573ee41ad1de9eaa01379a359"
+    },
+    {
       "name": "wistatejournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f0f8690a5cab85325688055e97ea169d1e0782a6",
-      "mtime": "1660497076",
-      "size": "201950",
-      "md5": "006a357a550f2ffed5ce419de09b0bd5",
-      "crc32": "b42945b9",
-      "sha1": "55c2aa87b3a4728dbd005f19da596e396144e999",
+      "btih": "fbba67ad8183b77efa53e4b2a3a88c9fb980d651",
+      "mtime": "1660533659",
+      "size": "203254",
+      "md5": "0295fcf38298c8ab52dfce753d668f82",
+      "crc32": "a4835fad",
+      "sha1": "5d8c2941d5a686c78c61362845f27cca1e4f8f91",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wistatejournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0ab5bbc7eb65d7d11db13008bc96e39a",
+      "md5": "bc6fcf3f24786206a0dae0bf2db5f963",
       "summation": "md5"
     },
     {
       "name": "wistatejournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660496987",
-      "size": "1093632",
-      "md5": "427fc8fae40b4ea259fdf1c91072c45f",
-      "crc32": "3eda71ee",
-      "sha1": "04816f8994c786a849bfa6da4b5f8b18b585fa53",
+      "mtime": "1660533573",
+      "size": "1101824",
+      "md5": "c3cd66c6e80daf25b83f5137ee5b2294",
+      "crc32": "1b818300",
+      "sha1": "34428b06c92a6df78551a6f2233823ed0b9cda6d",
       "format": "Metadata"
     },
     {
@@ -9704,9 +9766,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 926,
-  "item_last_updated": 1660497076,
-  "item_size": 96655862,
+  "files_count": 932,
+  "item_last_updated": 1660533659,
+  "item_size": 97142225,
   "metadata": {
     "identifier": "wistatejournal-2022",
     "collection": [
@@ -9724,7 +9786,7 @@
     "addeddate": "2022-03-23 23:08:08"
   },
   "server": "ia802902.us.archive.org",
-  "uniq": 1123451345,
+  "uniq": 1700714329,
   "workable_servers": [
     "ia802902.us.archive.org",
     "ia902902.us.archive.org"

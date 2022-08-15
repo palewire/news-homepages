@@ -1,5 +1,5 @@
 {
-  "created": 1660526871,
+  "created": 1660573236,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/18/items/perfilcom-2022",
@@ -626,31 +626,83 @@
       "sha1": "b33d89e0cb24513539bfd1612fce7ab43d66cef1"
     },
     {
+      "name": "perfilcom-2022-08-15T03:39:40.343971-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660545584",
+      "size": "74214",
+      "md5": "c0028c78243862424071776e127ad940",
+      "crc32": "85d7cb58",
+      "sha1": "08636bd7b2b6c527c32892e0c34fd9e488e35d3d",
+      "format": "JSON"
+    },
+    {
+      "name": "perfilcom-2022-08-15T03:39:40.343971-03:00.jpg",
+      "source": "original",
+      "mtime": "1660545582",
+      "size": "343070",
+      "md5": "ef4ca43fab644ad668c3c203d607b69b",
+      "crc32": "947dda07",
+      "sha1": "209bff1529ac50897985b7af2ebfb408e8a37f40",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "perfilcom-2022-08-15T03:39:40.343971-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660545586",
+      "size": "1459",
+      "md5": "bf9ff8d7f11487cecd086f72016fd1e6",
+      "crc32": "92ad29fa",
+      "sha1": "a4d571a9493df31963568b9eaae1650a7f389618",
+      "format": "JSON"
+    },
+    {
+      "name": "perfilcom-2022-08-15T03:39:40.343971-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1660545587",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "perfilcom-2022-08-15T03:39:40.343971-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "perfilcom-2022-08-15T03:39:40.343971-03:00.jpg",
+      "mtime": "1660545679",
+      "size": "10075",
+      "md5": "c291fce44d7cafdfa96830fea8ee73a5",
+      "crc32": "292895e7",
+      "sha1": "f9cf11d2eb79a8986785870d9d280e64475cb348"
+    },
+    {
       "name": "perfilcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b94e408a268f58f070c711bb0e39a27bf9211cf4",
-      "mtime": "1660503430",
-      "size": "14159",
-      "md5": "33b8d9b5966165ea7f0538e22306802e",
-      "crc32": "599a714d",
-      "sha1": "c4199496cc30e435043e7518519b1a74214338a3",
+      "btih": "4b9baf04eb3d10da39918e98f3f952da32132034",
+      "mtime": "1660545682",
+      "size": "15220",
+      "md5": "bd7c6c9b58a5f48649c8fe148b195ce0",
+      "crc32": "3e54c53d",
+      "sha1": "7d3182ea57331d2333a1f0defe4230aee28c0a31",
       "format": "Archive BitTorrent"
     },
     {
       "name": "perfilcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "291cb032580faa32cc117ffc996d7db9",
+      "md5": "44d1a591e553db51ac369061dfaee556",
       "summation": "md5"
     },
     {
       "name": "perfilcom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660503377",
-      "size": "90112",
-      "md5": "6a23f7f85bdc24cd2ae2a93bae98989c",
-      "crc32": "0aa7860b",
-      "sha1": "441b2986382f61d06c074352a34e53365626f239",
+      "mtime": "1660545592",
+      "size": "102400",
+      "md5": "05932fa4bf3a8c1cef74f961d6a01ba9",
+      "crc32": "7239b00d",
+      "sha1": "cfafb98e999ff30f0bd8be8c44817b80101bc5e2",
       "format": "Metadata"
     },
     {
@@ -664,9 +716,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 64,
-  "item_last_updated": 1660503430,
-  "item_size": 5654805,
+  "files_count": 69,
+  "item_last_updated": 1660545682,
+  "item_size": 6097174,
   "metadata": {
     "identifier": "perfilcom-2022",
     "collection": [
@@ -688,10 +740,10 @@
     "status": "error",
     "status_ext": "error:user-session-limit"
   },
-  "server": "ia801409.us.archive.org",
-  "uniq": 1829458943,
+  "server": "ia601409.us.archive.org",
+  "uniq": 1838891635,
   "workable_servers": [
-    "ia801409.us.archive.org",
-    "ia601409.us.archive.org"
+    "ia601409.us.archive.org",
+    "ia801409.us.archive.org"
   ]
 }

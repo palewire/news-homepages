@@ -1,12 +1,8 @@
 {
-  "created": 1660526278,
+  "created": 1660545914,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/1/items/elperiodico-2022",
-  "elperiodico-2022": {
-    "url": "https://www.elperiodico.com/es/",
-    "job_id": "spn2-8f97a3da03029fcaee4e3ab8f26eb25e41ba96f8"
-  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -2342,31 +2338,93 @@
       "sha1": "523330bfc67c10d6cf6bf002168be4f87cec5286"
     },
     {
+      "name": "elperiodico-2022-08-15T08:23:04.282170+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660544588",
+      "size": "113891",
+      "md5": "b5b04ec46892a84b26628b32e690ab48",
+      "crc32": "919d22cb",
+      "sha1": "ed442ce507d5ca8d6477db99f754e34cb7b5ff5f",
+      "format": "JSON"
+    },
+    {
+      "name": "elperiodico-2022-08-15T08:23:04.282170+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660544590",
+      "size": "197420",
+      "md5": "f1717acadf37eb8bd697e2832db0837b",
+      "crc32": "92d255c0",
+      "sha1": "ff2face5c2af9fcc9c9828e6ec2348af39542821",
+      "format": "JSON"
+    },
+    {
+      "name": "elperiodico-2022-08-15T08:23:04.282170+02:00.jpg",
+      "source": "original",
+      "mtime": "1660544586",
+      "size": "240859",
+      "md5": "1def6248e95a5fe91e0c8709f653effe",
+      "crc32": "18e3ddb3",
+      "sha1": "11ff3298b8589a87833b8c1818d68093b0c43625",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "elperiodico-2022-08-15T08:23:04.282170+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660544593",
+      "size": "1531",
+      "md5": "bd3a69b715213d9cbc856aff68ad6ddf",
+      "crc32": "1e59e323",
+      "sha1": "a708023d1c26a88297ea60dee1c2e4fa8f4ed3fb",
+      "format": "JSON"
+    },
+    {
+      "name": "elperiodico-2022-08-15T08:23:04.282170+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1660544594",
+      "size": "107",
+      "md5": "d915dfb11f3c6b333fcfbbd535cedc24",
+      "crc32": "dba889ea",
+      "sha1": "02a7632c87494ba1cb90019efaf78db913c0c08d",
+      "format": "JSON"
+    },
+    {
+      "name": "elperiodico-2022-08-15T08:23:04.282170+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "elperiodico-2022-08-15T08:23:04.282170+02:00.jpg",
+      "mtime": "1660545852",
+      "size": "8858",
+      "md5": "7e333f480787e17b52aaf059eb67b218",
+      "crc32": "2279a43c",
+      "sha1": "c78af62be948a348e6f800cd72d94a738e9bbcb9"
+    },
+    {
       "name": "elperiodico-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2a86dffd6a4e630f0960fdf06129f16864f19031",
-      "mtime": "1660497535",
-      "size": "49847",
-      "md5": "2600cf5e887dc6d2d28ee74a1270b988",
-      "crc32": "254769b9",
-      "sha1": "b1819e0a558ff016d392a4ad44f83e568e804e4e",
+      "btih": "0a02c91c99420387711e07f724cee541153703cf",
+      "mtime": "1660545881",
+      "size": "51152",
+      "md5": "2fb3e5eab221ede7fc991f34eba2efea",
+      "crc32": "3b91f65c",
+      "sha1": "826ec42806bf97abb8f5dc8127d5d10791ebb521",
       "format": "Archive BitTorrent"
     },
     {
       "name": "elperiodico-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "993d926f94e79348a76f28c4bf94ae93",
+      "md5": "75a32bb4f1c502a8693bb15d7fa4f3e0",
       "summation": "md5"
     },
     {
       "name": "elperiodico-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660497456",
-      "size": "299008",
-      "md5": "a0ae4a52a5a4519cb009b8ac1f91c360",
-      "crc32": "0df959fd",
-      "sha1": "1decf4738ae780e0fb87211e7a3da504858e2fd9",
+      "mtime": "1660544601",
+      "size": "311296",
+      "md5": "ad2df2ea9c84cd06b1621c668501b5fe",
+      "crc32": "87049387",
+      "sha1": "6dc0b5ce90c15b48f5942222195f2c981021220f",
       "format": "Metadata"
     },
     {
@@ -2380,9 +2438,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 229,
-  "item_last_updated": 1660497535,
-  "item_size": 24125335,
+  "files_count": 235,
+  "item_last_updated": 1660545881,
+  "item_size": 24701594,
   "metadata": {
     "identifier": "elperiodico-2022",
     "collection": [
@@ -2400,7 +2458,7 @@
     "addeddate": "2022-07-26 02:42:00"
   },
   "server": "ia601502.us.archive.org",
-  "uniq": 1262916153,
+  "uniq": 1904272745,
   "workable_servers": [
     "ia601502.us.archive.org",
     "ia801502.us.archive.org"

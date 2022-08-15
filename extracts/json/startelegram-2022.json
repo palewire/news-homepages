@@ -1,5 +1,5 @@
 {
-  "created": 1660503843,
+  "created": 1660573547,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/12/items/startelegram-2022",
@@ -2840,31 +2840,83 @@
       "sha1": "db6025b45d5a729007583df83335d6fbe9bf67d0"
     },
     {
+      "name": "startelegram-2022-08-15T01:44:50.405913-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660545894",
+      "size": "462",
+      "md5": "47dcd51450c0c479449d07c8713f3c1b",
+      "crc32": "5d3d5df0",
+      "sha1": "fb3f948ae40a0a655206beafd569e34d0fe743aa",
+      "format": "JSON"
+    },
+    {
+      "name": "startelegram-2022-08-15T01:44:50.405913-05:00.jpg",
+      "source": "original",
+      "mtime": "1660545892",
+      "size": "250448",
+      "md5": "84d05bfe737a2ba0e9d8f13d85b8844b",
+      "crc32": "c469c834",
+      "sha1": "493a3f7a42c2b7c299daa1855b347674e6838c19",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "startelegram-2022-08-15T01:44:50.405913-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660545896",
+      "size": "1513",
+      "md5": "8bd5729056a104414769abf72edfae55",
+      "crc32": "7607521a",
+      "sha1": "88c5bdcd2af2e99592591814e0ec42d835a0ed66",
+      "format": "JSON"
+    },
+    {
+      "name": "startelegram-2022-08-15T01:44:50.405913-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660545897",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "startelegram-2022-08-15T01:44:50.405913-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "startelegram-2022-08-15T01:44:50.405913-05:00.jpg",
+      "mtime": "1660545959",
+      "size": "9330",
+      "md5": "f1e8dee467c6aeb74f82cfba3cb96ee2",
+      "crc32": "4ab4ce86",
+      "sha1": "2bff8f08e98b5499df8b79f3e53d09faed47165f"
+    },
+    {
       "name": "startelegram-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3e7e37a7166880e2e03cd6598d057ac72f06fbc8",
-      "mtime": "1660503833",
-      "size": "59574",
-      "md5": "df904a12624eef5cd93866678729d102",
-      "crc32": "34cfac8e",
-      "sha1": "5d219850c9bdb3320b6deb70674c545cd7c8f734",
+      "btih": "a0332f5ac1af1a682087921a598b7180cf667c86",
+      "mtime": "1660545965",
+      "size": "60646",
+      "md5": "ee6eed1cfa83795cb0544c09768e6bca",
+      "crc32": "4176a7ec",
+      "sha1": "10f6b25cf7e69a27781d5cc06cc2e9246a15e797",
       "format": "Archive BitTorrent"
     },
     {
       "name": "startelegram-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9438471728b27e49aa9d61744fbb0d9c",
+      "md5": "d00e1e6178a3ec997f7a19c475babd17",
       "summation": "md5"
     },
     {
       "name": "startelegram-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660503776",
-      "size": "352256",
-      "md5": "6ef9906478d61946b203107b903f0ad7",
-      "crc32": "77d6e91f",
-      "sha1": "dd48a12cc79e68f46e564d4af7194f7c51f30d83",
+      "mtime": "1660545903",
+      "size": "356352",
+      "md5": "304bb3fba093c58071b296d3fd8ebd9b",
+      "crc32": "477dd245",
+      "sha1": "2d4bd4c96d6eae38c9bda5d88394a8d88ffb9827",
       "format": "Metadata"
     },
     {
@@ -2878,9 +2930,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 276,
-  "item_last_updated": 1660503833,
-  "item_size": 19296390,
+  "files_count": 281,
+  "item_last_updated": 1660545965,
+  "item_size": 19563513,
   "metadata": {
     "identifier": "startelegram-2022",
     "collection": [
@@ -2897,10 +2949,15 @@
     "publicdate": "2022-07-18 00:05:19",
     "addeddate": "2022-07-18 00:05:19"
   },
-  "server": "ia801401.us.archive.org",
-  "uniq": 100761956,
+  "server": "ia601401.us.archive.org",
+  "startelegram-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 877656523,
   "workable_servers": [
-    "ia801401.us.archive.org",
-    "ia601401.us.archive.org"
+    "ia601401.us.archive.org",
+    "ia801401.us.archive.org"
   ]
 }

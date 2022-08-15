@@ -1,5 +1,5 @@
 {
-  "created": 1660527307,
+  "created": 1660573737,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/0/items/thr-2022",
@@ -3072,31 +3072,93 @@
       "sha1": "f98b1fea7b896de9557d97120a393f6fbfee8e76"
     },
     {
+      "name": "thr-2022-08-14T20:15:59.249345-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660533362",
+      "size": "41723",
+      "md5": "8c09036bfe24bb2cf8141a7b704f513c",
+      "crc32": "9b53ead2",
+      "sha1": "b54a01e113e34fd2a8b975cdd179ced5d9aa9c9a",
+      "format": "JSON"
+    },
+    {
+      "name": "thr-2022-08-14T20:15:59.249345-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660533364",
+      "size": "61858",
+      "md5": "7d8394a15db8614180d221cafd23bef2",
+      "crc32": "4e107c59",
+      "sha1": "782c3853cad5c771653ad86dc32ecf7eba9112de",
+      "format": "JSON"
+    },
+    {
+      "name": "thr-2022-08-14T20:15:59.249345-07:00.jpg",
+      "source": "original",
+      "mtime": "1660533361",
+      "size": "355566",
+      "md5": "9b4692c6edd3791e9baa69ced35af617",
+      "crc32": "0bb5dbb9",
+      "sha1": "4736763e4a8e2b724f39e2e6637e73fce63a429b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thr-2022-08-14T20:15:59.249345-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660533365",
+      "size": "1558",
+      "md5": "5f6b15fdd494ad6ff1c694950e012ca5",
+      "crc32": "456dd961",
+      "sha1": "e1324d3b54d9f1b3160470d517f96ddc9e9d70fd",
+      "format": "JSON"
+    },
+    {
+      "name": "thr-2022-08-14T20:15:59.249345-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660533367",
+      "size": "110",
+      "md5": "ab5081e6adaedc03839176c48ab1365f",
+      "crc32": "453c9cfe",
+      "sha1": "49f5c29de0f4aa99d0aa869d72870a7b63c402af",
+      "format": "JSON"
+    },
+    {
+      "name": "thr-2022-08-14T20:15:59.249345-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thr-2022-08-14T20:15:59.249345-07:00.jpg",
+      "mtime": "1660533419",
+      "size": "10192",
+      "md5": "c6996e582339785a402876077647c954",
+      "crc32": "0c116a14",
+      "sha1": "5d6dafd00eeafec66e3ac86ff03084e88a066cf5"
+    },
+    {
       "name": "thr-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c2f0ab039478136b1f51123371765b4eaa277111",
-      "mtime": "1660496887",
-      "size": "62213",
-      "md5": "5aec53c6229749805a3f3bed57a77199",
-      "crc32": "62891a4e",
-      "sha1": "5751ef2810ed2870a4fd9a8a4b0abf193321ead1",
+      "btih": "ead40e7fc65916a75c9311cec6f528492c24f0a7",
+      "mtime": "1660533424",
+      "size": "63449",
+      "md5": "5b4238b7d6ba4dc2721db0c0bb2cd9ea",
+      "crc32": "58b07ab8",
+      "sha1": "f8ecf8a90280b2ec223335b6bfb563addc6b1260",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thr-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d239f919d9f5bb1ddcb109c226e7879b",
+      "md5": "94660e7e8e44277f67142c2951b21e30",
       "summation": "md5"
     },
     {
       "name": "thr-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660496797",
-      "size": "380928",
-      "md5": "229267265b392c91ee448d0536031105",
-      "crc32": "e7ebb2a5",
-      "sha1": "080793f0f7f004ad09244b6a09f5239b7d5e8481",
+      "mtime": "1660533371",
+      "size": "389120",
+      "md5": "5c5b3833e60726cd06f3cff1de55e274",
+      "crc32": "8e39443e",
+      "sha1": "6303700f41da15c1afae03e52f75e0883a0ff5e7",
       "format": "Metadata"
     },
     {
@@ -3110,9 +3172,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 299,
-  "item_last_updated": 1660496887,
-  "item_size": 27829416,
+  "files_count": 305,
+  "item_last_updated": 1660533424,
+  "item_size": 28309851,
   "metadata": {
     "identifier": "thr-2022",
     "collection": [
@@ -3132,14 +3194,9 @@
   "server": "ia601408.us.archive.org",
   "thr-2022": {
     "url": "https://www.hollywoodreporter.com/",
-    "job_id": "spn2-f530f861506cbdd429ed84bef18154ff522c964e",
-    "status_ext": "error:job-failed",
-    "message": "Job failed.",
-    "status": "error",
-    "resources": [],
-    "duration_sec": 0.574
+    "job_id": "spn2-f530f861506cbdd429ed84bef18154ff522c964e"
   },
-  "uniq": 833434145,
+  "uniq": 1127050454,
   "workable_servers": [
     "ia601408.us.archive.org",
     "ia801408.us.archive.org"

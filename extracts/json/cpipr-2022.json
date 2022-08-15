@@ -1,5 +1,10 @@
 {
-  "created": 1660496604,
+  "cpipr-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1660572360,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/23/items/cpipr-2022",
@@ -3888,31 +3893,93 @@
       "sha1": "2365b9d13024a61ac3cc889f37abe93bcca7f117"
     },
     {
+      "name": "cpipr-2022-08-14T23:12:00.474353-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660533123",
+      "size": "536",
+      "md5": "5a2fdb2f91aed4f8c934ee965715947a",
+      "crc32": "8e7c7f00",
+      "sha1": "ec5cb1a2059839a12a3966a37102a747d28ba18d",
+      "format": "JSON"
+    },
+    {
+      "name": "cpipr-2022-08-14T23:12:00.474353-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660533124",
+      "size": "67326",
+      "md5": "0dfc7506aa783f7cf44bcb815f8bc70f",
+      "crc32": "88966df4",
+      "sha1": "653c120c951259120ab73bf5d6462d1a853586b4",
+      "format": "JSON"
+    },
+    {
+      "name": "cpipr-2022-08-14T23:12:00.474353-04:00.jpg",
+      "source": "original",
+      "mtime": "1660533121",
+      "size": "270286",
+      "md5": "fd40261c672e23aabb466f94cb77b333",
+      "crc32": "9634f00b",
+      "sha1": "ec64d564436cd718e6f66de2cd94f8505e26aa63",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cpipr-2022-08-14T23:12:00.474353-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660533126",
+      "size": "1570",
+      "md5": "7fa34dd230b8d05deb5f65fb45483e82",
+      "crc32": "09b35448",
+      "sha1": "86acd7a1a917c700b042e949d1fb7497f9bc10e1",
+      "format": "JSON"
+    },
+    {
+      "name": "cpipr-2022-08-14T23:12:00.474353-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660533128",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "cpipr-2022-08-14T23:12:00.474353-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cpipr-2022-08-14T23:12:00.474353-04:00.jpg",
+      "mtime": "1660533183",
+      "size": "10737",
+      "md5": "08875748aa6e42d658cb1a4d6a185229",
+      "crc32": "d1f918c3",
+      "sha1": "149b7c4a435bba221c8880080939ce7b08db4878"
+    },
+    {
       "name": "cpipr-2022_archive.torrent",
       "source": "metadata",
-      "btih": "755d78ecc86f1632416a7b7d33355df3fda7486c",
-      "mtime": "1660496578",
-      "size": "78989",
-      "md5": "1b2b705f030d2aee844c605b52fb5337",
-      "crc32": "6dcb3a95",
-      "sha1": "548a388b301ea8fe4c0c33f4f5c03af3383b780a",
+      "btih": "4401933970dff1f01505dc41159b0789223305e9",
+      "mtime": "1660533188",
+      "size": "80235",
+      "md5": "f4c11e7e30c696cc4d26532ce67c30a7",
+      "crc32": "3a528da2",
+      "sha1": "0e055170de00366e541f04fa3d03307c33fe7cb4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cpipr-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "42f9cc8ea31c54617b94d4aba11bb75a",
+      "md5": "f62d12c896363b07a172e3155c548ac3",
       "summation": "md5"
     },
     {
       "name": "cpipr-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660496525",
-      "size": "471040",
-      "md5": "1cf3367d6460f3e94b6aed5d7db3b25c",
-      "crc32": "9944f1a7",
-      "sha1": "c84fcf41a0eca2264d1f115d94f57f3a11120267",
+      "mtime": "1660533133",
+      "size": "479232",
+      "md5": "05e0213a2d2152425ce197898d741e91",
+      "crc32": "e53b0f7d",
+      "sha1": "1e9476a0839830ebb0ba0abddae82e0c47848d85",
       "format": "Metadata"
     },
     {
@@ -3926,9 +3993,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 377,
-  "item_last_updated": 1660496578,
-  "item_size": 32873411,
+  "files_count": 383,
+  "item_last_updated": 1660533188,
+  "item_size": 33233506,
   "metadata": {
     "identifier": "cpipr-2022",
     "collection": [
@@ -3946,7 +4013,7 @@
     "addeddate": "2022-07-09 03:57:28"
   },
   "server": "ia801408.us.archive.org",
-  "uniq": 2092954486,
+  "uniq": 1914277269,
   "workable_servers": [
     "ia801408.us.archive.org",
     "ia601408.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1660526884,
+  "created": 1660573272,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/27/items/populardiario-2022",
@@ -698,31 +698,93 @@
       "sha1": "2da51094e5d3a85cf25088e24eb0b6ccbe6fd573"
     },
     {
+      "name": "populardiario-2022-08-15T03:38:50.584201-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660545535",
+      "size": "54106",
+      "md5": "ae5568c9b04966ac1c6f679081a18f21",
+      "crc32": "57a8b785",
+      "sha1": "d078140e7f2c3629c268647b66391f0e94fbede9",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-08-15T03:38:50.584201-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660545537",
+      "size": "85865",
+      "md5": "510dad9f789c362cda696fe7a1923d46",
+      "crc32": "d1f9acf1",
+      "sha1": "2dc285c4c564485d0963918ee3a2588127a2f525",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-08-15T03:38:50.584201-03:00.jpg",
+      "source": "original",
+      "mtime": "1660545532",
+      "size": "337826",
+      "md5": "e964b25b0b929daba510b3c58ba0e438",
+      "crc32": "1ea5935f",
+      "sha1": "fb095e7ea898d2e4cb2733af6fcab23da45e23c7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "populardiario-2022-08-15T03:38:50.584201-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660545538",
+      "size": "1546",
+      "md5": "de29a9a337a547868cb82850d8b3b789",
+      "crc32": "672f1215",
+      "sha1": "5a73d422c746aaf6f127566c033df40d1739c2fe",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-08-15T03:38:50.584201-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1660545541",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-08-15T03:38:50.584201-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "populardiario-2022-08-15T03:38:50.584201-03:00.jpg",
+      "mtime": "1660545609",
+      "size": "10886",
+      "md5": "7afb07e4d80729cc24c0aaffb8803f7c",
+      "crc32": "8675738b",
+      "sha1": "f62ededcb8bc56bc333f002c05302b4dac782cff"
+    },
+    {
       "name": "populardiario-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b377770d00b61b2e2709443244813af26602b79f",
-      "mtime": "1660503428",
-      "size": "15945",
-      "md5": "63a4671064d8feadc93451e6df1a73ba",
-      "crc32": "d973a06a",
-      "sha1": "365f60acb968ee05e363bbdc5be7845036a43e86",
+      "btih": "440e2899321262b37b5b320eeb03b06049951fb5",
+      "mtime": "1660545614",
+      "size": "17221",
+      "md5": "6f49ea1261d450493b6b8e2fcc5ea9d8",
+      "crc32": "bc4e512a",
+      "sha1": "52816d3ea3d452574831e5ec8f704e1b5b4b2c99",
       "format": "Archive BitTorrent"
     },
     {
       "name": "populardiario-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "63ce188e49dad3001cd31860c732d925",
+      "md5": "e0989413694699962b0394cb20bb406a",
       "summation": "md5"
     },
     {
       "name": "populardiario-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660503380",
-      "size": "106496",
-      "md5": "2504213c03821b458984498f1999e382",
-      "crc32": "700841b3",
-      "sha1": "6b5def34142a6ce2a0d5b3b37e4a29dcad972691",
+      "mtime": "1660545544",
+      "size": "110592",
+      "md5": "8cb702095d234f5b449d3170a34aa756",
+      "crc32": "7fe4199d",
+      "sha1": "eaaf9fcb160ae23107a3360dc9829afb7efca43c",
       "format": "Metadata"
     },
     {
@@ -736,9 +798,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 71,
-  "item_last_updated": 1660503428,
-  "item_size": 5789692,
+  "files_count": 77,
+  "item_last_updated": 1660545614,
+  "item_size": 6285495,
   "metadata": {
     "identifier": "populardiario-2022",
     "collection": [
@@ -760,10 +822,10 @@
     "status": "error",
     "status_ext": "error:user-session-limit"
   },
-  "server": "ia601509.us.archive.org",
-  "uniq": 1619166160,
+  "server": "ia801509.us.archive.org",
+  "uniq": 1705574168,
   "workable_servers": [
-    "ia601509.us.archive.org",
-    "ia801509.us.archive.org"
+    "ia801509.us.archive.org",
+    "ia601509.us.archive.org"
   ]
 }

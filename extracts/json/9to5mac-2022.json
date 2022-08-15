@@ -1,5 +1,5 @@
 {
-  "created": 1660525142,
+  "created": 1660571289,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/34/items/9to5mac-2022",
@@ -2421,31 +2421,93 @@
       "sha1": "e050cc94ad03ea0ccb2b2134596f4d7cce919763"
     },
     {
+      "name": "9to5mac-2022-08-15T06:45:23.347297-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660571130",
+      "size": "73235",
+      "md5": "e97707958e3f9f6c66fa7aafbbbcb5d8",
+      "crc32": "219cc42b",
+      "sha1": "3892a4a249f6d808e03b5adfe42415e5ee193f80",
+      "format": "JSON"
+    },
+    {
+      "name": "9to5mac-2022-08-15T06:45:23.347297-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660571132",
+      "size": "62253",
+      "md5": "2557b3c165782ef2577bfdb79fe46ef2",
+      "crc32": "d5385220",
+      "sha1": "2137f48a5105bb0a754abe82e1eea0cb880f231e",
+      "format": "JSON"
+    },
+    {
+      "name": "9to5mac-2022-08-15T06:45:23.347297-07:00.jpg",
+      "source": "original",
+      "mtime": "1660571129",
+      "size": "234490",
+      "md5": "92103606c89227b0ad7c43bd0eeab6bb",
+      "crc32": "9ce8a678",
+      "sha1": "364f31672b69e9602f62f1e2840b3c1ea3afd3cf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "9to5mac-2022-08-15T06:45:23.347297-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660571134",
+      "size": "1432",
+      "md5": "21949f265c4b8745ce4097b1cc269841",
+      "crc32": "5c164514",
+      "sha1": "a62ea23f7d3ec43ef9574a13c2a642d828d6c936",
+      "format": "JSON"
+    },
+    {
+      "name": "9to5mac-2022-08-15T06:45:23.347297-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660571136",
+      "size": "50932",
+      "md5": "8c2aa31fcec5c9b4b028d0148e1f1cd6",
+      "crc32": "fd4f6e6a",
+      "sha1": "e1d706f7d44bfbc3a17241cef52afc649a216e9d",
+      "format": "JSON"
+    },
+    {
+      "name": "9to5mac-2022-08-15T06:45:23.347297-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "9to5mac-2022-08-15T06:45:23.347297-07:00.jpg",
+      "mtime": "1660571275",
+      "size": "9577",
+      "md5": "f6a9b4147b184c2e01dd259e7433b594",
+      "crc32": "b581ab31",
+      "sha1": "56980ccc8244f22b4f66b676c71191ede8b846fa"
+    },
+    {
       "name": "9to5mac-2022_archive.torrent",
       "source": "metadata",
-      "btih": "edf8b3abac271f5cd1f545dcacada667568ad2a7",
-      "mtime": "1660525136",
-      "size": "50445",
-      "md5": "759d80282ea2027e619fa4870967e682",
-      "crc32": "677a09d7",
-      "sha1": "6e11108e3c00c65b4f8e56d0da562f1113b8114e",
+      "btih": "d1c6df664b83434d613526bfd186625686d2ab13",
+      "mtime": "1660571281",
+      "size": "51706",
+      "md5": "52f88bbd6c92ea3106cc999ee9fc867b",
+      "crc32": "c8824595",
+      "sha1": "2d4c47a82737e0281b5671d16b018da115500866",
       "format": "Archive BitTorrent"
     },
     {
       "name": "9to5mac-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "df0d78809314f4f05e2b55b43b9fd63b",
+      "md5": "d19b84f788da0bad6a72a1ddf4c58b0d",
       "summation": "md5"
     },
     {
       "name": "9to5mac-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660525088",
-      "size": "311296",
-      "md5": "44f92edbd11142b8290446261e7a70ff",
-      "crc32": "2f9c5b24",
-      "sha1": "ee061584d7e05b26b34b82c67ad9864c2b9e5b16",
+      "mtime": "1660571139",
+      "size": "315392",
+      "md5": "e85e1d287e9e07b106ddbc54635347dd",
+      "crc32": "4308c411",
+      "sha1": "605030d867ec09ddbf201d3cc7c7a843e90af9a5",
       "format": "Metadata"
     },
     {
@@ -2470,9 +2532,9 @@
       "rotation": "0"
     }
   ],
-  "files_count": 238,
-  "item_last_updated": 1660525136,
-  "item_size": 17021339,
+  "files_count": 244,
+  "item_last_updated": 1660571281,
+  "item_size": 17458615,
   "metadata": {
     "identifier": "9to5mac-2022",
     "collection": [
@@ -2490,7 +2552,7 @@
     "addeddate": "2022-07-25 06:47:05"
   },
   "server": "ia802507.us.archive.org",
-  "uniq": 1415815151,
+  "uniq": 1256838408,
   "workable_servers": [
     "ia802507.us.archive.org",
     "ia902507.us.archive.org"

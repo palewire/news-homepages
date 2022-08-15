@@ -1,5 +1,5 @@
 {
-  "created": 1660527401,
+  "created": 1660546572,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/4/items/vgnett-2022",
@@ -2820,31 +2820,93 @@
       "sha1": "88ef6bfed9f4b8b49acfb0e42ed3bae28943369f"
     },
     {
+      "name": "vgnett-2022-08-15T08:50:14.315558+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660546218",
+      "size": "132109",
+      "md5": "5dba4f2b5b506804f05517bdcfcb45bb",
+      "crc32": "6235945c",
+      "sha1": "84a79b5466ddd7f59d013e2fa48b08029c7f40c3",
+      "format": "JSON"
+    },
+    {
+      "name": "vgnett-2022-08-15T08:50:14.315558+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660546222",
+      "size": "68391",
+      "md5": "e70609074a4d9dfa9f320bc0cee1159c",
+      "crc32": "ecd0ae1a",
+      "sha1": "1a3caf7611224ed07f4d29f98a9e037b97cd7241",
+      "format": "JSON"
+    },
+    {
+      "name": "vgnett-2022-08-15T08:50:14.315558+02:00.jpg",
+      "source": "original",
+      "mtime": "1660546216",
+      "size": "253326",
+      "md5": "89a817cdb163d2678c8e11621163b05b",
+      "crc32": "1cab711f",
+      "sha1": "2008f797550fcc784c0f1fdbfb2c6ef2deb57236",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vgnett-2022-08-15T08:50:14.315558+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660546224",
+      "size": "1405",
+      "md5": "6019a859d92a362c31472ba90f91ddf0",
+      "crc32": "0d03df4e",
+      "sha1": "ea1f40db6500117cedecfc038fd479158b01c9c8",
+      "format": "JSON"
+    },
+    {
+      "name": "vgnett-2022-08-15T08:50:14.315558+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1660546225",
+      "size": "54103",
+      "md5": "01910572663d395be8f42a6e4ae39067",
+      "crc32": "cd5b6a29",
+      "sha1": "6b5e1b8fbeeddb2730ad4892577e34134c32f139",
+      "format": "JSON"
+    },
+    {
+      "name": "vgnett-2022-08-15T08:50:14.315558+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vgnett-2022-08-15T08:50:14.315558+02:00.jpg",
+      "mtime": "1660546446",
+      "size": "11019",
+      "md5": "a3fdcca02de410996fa986d16092115a",
+      "crc32": "64b1df18",
+      "sha1": "ede9320488e54b8532922beeff29cddce788459d"
+    },
+    {
       "name": "vgnett-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cc1e43d7daf3043693ade1bcfd4289e2dc4cbb5b",
-      "mtime": "1660504086",
-      "size": "58206",
-      "md5": "0d60638f2a51684d3e2b0a52b5f4ff93",
-      "crc32": "6a82dc27",
-      "sha1": "f5d015621b25bda091d226645ad9691382feb0c0",
+      "btih": "385983e81a3157742da64ba465897b8fa65b6d20",
+      "mtime": "1660546450",
+      "size": "59463",
+      "md5": "4b9e03fca78378cf2122a9ae63219478",
+      "crc32": "cd73d08f",
+      "sha1": "203b0abb4bee25b56c784ae9359796e044907854",
       "format": "Archive BitTorrent"
     },
     {
       "name": "vgnett-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b1ae88c47a2a2ca1a2a523ff56bd427d",
+      "md5": "18b9eefa2aafbafbf0ffe81908a48808",
       "summation": "md5"
     },
     {
       "name": "vgnett-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660504026",
-      "size": "352256",
-      "md5": "965fd43512d8c4476e6f88457b71160f",
-      "crc32": "48283226",
-      "sha1": "662db04fa6dd015a0109925aa55adc63e23fa9b0",
+      "mtime": "1660546231",
+      "size": "364544",
+      "md5": "9fe457bd7b3fedcec1fa2455f73a0a3a",
+      "crc32": "718687a0",
+      "sha1": "c91b1aab8d35d70ec7ed4dfb78e9364c9879ed23",
       "format": "Metadata"
     },
     {
@@ -2858,9 +2920,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 275,
-  "item_last_updated": 1660504086,
-  "item_size": 25945469,
+  "files_count": 281,
+  "item_last_updated": 1660546450,
+  "item_size": 26479367,
   "metadata": {
     "identifier": "vgnett-2022",
     "collection": [
@@ -2877,15 +2939,10 @@
     "publicdate": "2022-07-20 11:37:24",
     "addeddate": "2022-07-20 11:37:24"
   },
-  "server": "ia601400.us.archive.org",
-  "uniq": 2056077014,
-  "vgnett-2022": {
-    "message": "This URL has been already captured 10 times today. Please try again tomorrow. Please email us at \"info@archive.org\" if you would like to discuss this more.",
-    "status": "error",
-    "status_ext": "error:too-many-daily-captures"
-  },
+  "server": "ia801400.us.archive.org",
+  "uniq": 649330740,
   "workable_servers": [
-    "ia601400.us.archive.org",
-    "ia801400.us.archive.org"
+    "ia801400.us.archive.org",
+    "ia601400.us.archive.org"
   ]
 }

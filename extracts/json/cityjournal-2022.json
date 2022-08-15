@@ -1,5 +1,5 @@
 {
-  "created": 1660525530,
+  "created": 1660571687,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/0/items/cityjournal-2022",
@@ -1866,31 +1866,93 @@
       "sha1": "d7361f4d3820533f00bda6dd9611ae57fe406841"
     },
     {
+      "name": "cityjournal-2022-08-15T09:52:50.736981-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660571574",
+      "size": "20760",
+      "md5": "c9c4259088f893a01139c7083a37eceb",
+      "crc32": "9144dadd",
+      "sha1": "e962936520f05784c6ff6f6634f170cb92d4be96",
+      "format": "JSON"
+    },
+    {
+      "name": "cityjournal-2022-08-15T09:52:50.736981-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660571576",
+      "size": "18738",
+      "md5": "85001193084a29c5331dd22aec6bf354",
+      "crc32": "d9b51d6b",
+      "sha1": "3e28989547b631c6cbdeda16cf4ba30b3c61472e",
+      "format": "JSON"
+    },
+    {
+      "name": "cityjournal-2022-08-15T09:52:50.736981-04:00.jpg",
+      "source": "original",
+      "mtime": "1660571572",
+      "size": "250734",
+      "md5": "3384fc8fe96cace177b8704ed7682a27",
+      "crc32": "dfbc59d9",
+      "sha1": "f6302076546d8cc8cf24c6547031c0c571cc6245",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cityjournal-2022-08-15T09:52:50.736981-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660571578",
+      "size": "1513",
+      "md5": "25a7a3726467e2bcf4b85a4084730439",
+      "crc32": "7feaaf75",
+      "sha1": "252f46735181df31163ff1e8e71f52d7b7a92fcd",
+      "format": "JSON"
+    },
+    {
+      "name": "cityjournal-2022-08-15T09:52:50.736981-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660571580",
+      "size": "16697",
+      "md5": "015a7863c86c0f8cca7eeef010d6f67a",
+      "crc32": "8371c643",
+      "sha1": "2fd926b604c88d26a3ae554f20f770fd81314ea0",
+      "format": "JSON"
+    },
+    {
+      "name": "cityjournal-2022-08-15T09:52:50.736981-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cityjournal-2022-08-15T09:52:50.736981-04:00.jpg",
+      "mtime": "1660571663",
+      "size": "9580",
+      "md5": "07abae3bc2ce3333ead81963778290e1",
+      "crc32": "4cec2970",
+      "sha1": "aaeb5355c59dbbad7f7d14cb8bf7cad165b455ee"
+    },
+    {
       "name": "cityjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ad009e151a40f2100257d96a5fc7ae0340caee45",
-      "mtime": "1660525524",
-      "size": "39714",
-      "md5": "816ddfb47420d495fa1ef970a4ecd795",
-      "crc32": "85b904d9",
-      "sha1": "be94a6a38ec2eb34eb91c0e31ff2f787d233f8b0",
+      "btih": "55ad1eb8762f3a405cbfaa4ae422978a36bf9c96",
+      "mtime": "1660571673",
+      "size": "40979",
+      "md5": "ac0fb9423d90006776ade181d6e4aba1",
+      "crc32": "c6f30e6c",
+      "sha1": "8f6f367ac8eb60af92914dff21d7f6e30c819418",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cityjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "70ca9d64651f3fcc67bc0595f581c84f",
+      "md5": "5d333c6f2feb63e0ae531248d5b8af98",
       "summation": "md5"
     },
     {
       "name": "cityjournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660525468",
-      "size": "249856",
-      "md5": "a22a5503983cf11f0f6ae2c5eb3d93d6",
-      "crc32": "5c9e31cd",
-      "sha1": "25eef27712af005cfa45567f9522f830a5d81968",
+      "mtime": "1660571584",
+      "size": "262144",
+      "md5": "d3ef6909414e4300b2e74105a23d06b0",
+      "crc32": "e00167cf",
+      "sha1": "4ce469a01a767e745045ac171e8bb1c9571bca82",
       "format": "Metadata"
     },
     {
@@ -1904,9 +1966,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 184,
-  "item_last_updated": 1660525524,
-  "item_size": 9073632,
+  "files_count": 190,
+  "item_last_updated": 1660571673,
+  "item_size": 9405207,
   "metadata": {
     "identifier": "cityjournal-2022",
     "collection": [
@@ -1923,10 +1985,10 @@
     "publicdate": "2022-08-05 12:25:05",
     "addeddate": "2022-08-05 12:25:05"
   },
-  "server": "ia601502.us.archive.org",
-  "uniq": 717361830,
+  "server": "ia801502.us.archive.org",
+  "uniq": 931638735,
   "workable_servers": [
-    "ia601502.us.archive.org",
-    "ia801502.us.archive.org"
+    "ia801502.us.archive.org",
+    "ia601502.us.archive.org"
   ]
 }

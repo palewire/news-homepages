@@ -1,5 +1,5 @@
 {
-  "created": 1660526579,
+  "created": 1660572916,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/11/items/mailonline-2022",
@@ -6748,31 +6748,93 @@
       "sha1": "6fbcb4fa0908144da8e0584a485f38c9ea8b0e06"
     },
     {
+      "name": "mailonline-2022-08-15T10:13:27.717541+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660554810",
+      "size": "169657",
+      "md5": "253a3364089de151dfc7a72759b8e07c",
+      "crc32": "3af4c6a4",
+      "sha1": "c6d5767b7a3d22778b8fe060f6f8564a332b39d8",
+      "format": "JSON"
+    },
+    {
+      "name": "mailonline-2022-08-15T10:13:27.717541+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660554812",
+      "size": "213649",
+      "md5": "9441719cdd95ed9ff1ab0189105824db",
+      "crc32": "524bf940",
+      "sha1": "a9703157fd231d5900ef770836cac4d20743f1f2",
+      "format": "JSON"
+    },
+    {
+      "name": "mailonline-2022-08-15T10:13:27.717541+01:00.jpg",
+      "source": "original",
+      "mtime": "1660554809",
+      "size": "358648",
+      "md5": "97ebf7ce40ee82428b2fb70afc2598e3",
+      "crc32": "d6965ae4",
+      "sha1": "25441182e9edd817919b18e0d4e5bef6335f076d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mailonline-2022-08-15T10:13:27.717541+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660554813",
+      "size": "1639",
+      "md5": "04c745bae98263b141492fd16f835317",
+      "crc32": "36731728",
+      "sha1": "4507b8b85aee70e0861c5decdd31c7c4eef9815e",
+      "format": "JSON"
+    },
+    {
+      "name": "mailonline-2022-08-15T10:13:27.717541+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1660554815",
+      "size": "250",
+      "md5": "88e90c46f85797735583d92d4fceb462",
+      "crc32": "3f4ab9df",
+      "sha1": "1969fef8a5086754cf469013e3906981104abebd",
+      "format": "JSON"
+    },
+    {
+      "name": "mailonline-2022-08-15T10:13:27.717541+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mailonline-2022-08-15T10:13:27.717541+01:00.jpg",
+      "mtime": "1660554931",
+      "size": "10532",
+      "md5": "40a10d9baafaa4511390b9d94f1240d1",
+      "crc32": "609bdc29",
+      "sha1": "0e30d91682ed1c15f67f2b958380e142fd14ead0"
+    },
+    {
       "name": "mailonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "41fa01ac7b0c76ec6d66e64ad7ffd8671e9bc80c",
-      "mtime": "1660526567",
-      "size": "140732",
-      "md5": "125e70fbe2af5e27f10cef01a728e353",
-      "crc32": "10f8e071",
-      "sha1": "705f63673000b7cf469a71841241a8198b6415c1",
+      "btih": "4cd409a9d06c594290fcd74c6578c4f5fcf130ca",
+      "mtime": "1660554952",
+      "size": "142032",
+      "md5": "68e47a3d0410f332680800810e7c8e7f",
+      "crc32": "645c5768",
+      "sha1": "eaa61040ad5c2c0e35288762301c104fd628006f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mailonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3609e61bfc42a105db7befb3ca8642d0",
+      "md5": "a13953c2d36a1923a4388db7bc8666cf",
       "summation": "md5"
     },
     {
       "name": "mailonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660526504",
-      "size": "761856",
-      "md5": "5d55661e35cc8eecefa60f2d549edc3a",
-      "crc32": "a6a39fd4",
-      "sha1": "0c6634f08880dd825a8467a848d2c4e84377315d",
+      "mtime": "1660554823",
+      "size": "770048",
+      "md5": "d6238096e994324fc0cb7d9c9f57ad61",
+      "crc32": "99d6dde2",
+      "sha1": "30a5e5cc7addc3c718d896aee712b63f303a95a5",
       "format": "Metadata"
     },
     {
@@ -6786,9 +6848,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 647,
-  "item_last_updated": 1660526567,
-  "item_size": 120605340,
+  "files_count": 653,
+  "item_last_updated": 1660554952,
+  "item_size": 121369207,
+  "mailonline-2022": {
+    "url": "https://www.dailymail.co.uk/home/index.html",
+    "job_id": "spn2-93b5d8cc58edd474e181e989d2c867ecf2f9b853",
+    "message": "The same snapshot had been made 44 minutes, 21 seconds ago. You can make new capture of this URL after 45 minutes."
+  },
   "metadata": {
     "identifier": "mailonline-2022",
     "collection": [
@@ -6805,10 +6872,10 @@
     "publicdate": "2022-06-29 18:55:39",
     "addeddate": "2022-06-29 18:55:39"
   },
-  "server": "ia801408.us.archive.org",
-  "uniq": 975084980,
+  "server": "ia601408.us.archive.org",
+  "uniq": 1886908620,
   "workable_servers": [
-    "ia801408.us.archive.org",
-    "ia601408.us.archive.org"
+    "ia601408.us.archive.org",
+    "ia801408.us.archive.org"
   ]
 }

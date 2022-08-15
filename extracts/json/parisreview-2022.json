@@ -1,5 +1,5 @@
 {
-  "created": 1660503489,
+  "created": 1660573230,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/18/items/parisreview-2022",
@@ -4132,31 +4132,93 @@
       "sha1": "f49a572674e615e2b2b39567d89b3afbdc15a2f0"
     },
     {
+      "name": "parisreview-2022-08-15T08:38:59.095557+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660545542",
+      "size": "8102",
+      "md5": "a08e8a9d8d6f159232ede62b359fce11",
+      "crc32": "754eb7d7",
+      "sha1": "585f37da01b8ddc336b800062827a73f1391c504",
+      "format": "JSON"
+    },
+    {
+      "name": "parisreview-2022-08-15T08:38:59.095557+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660545551",
+      "size": "13902",
+      "md5": "4949b5feb020e4c55f9714b746236f90",
+      "crc32": "90b69f75",
+      "sha1": "39083d507ced1143d398dd79ffcf995208c443ac",
+      "format": "JSON"
+    },
+    {
+      "name": "parisreview-2022-08-15T08:38:59.095557+02:00.jpg",
+      "source": "original",
+      "mtime": "1660545540",
+      "size": "299047",
+      "md5": "7171191e9f9abcc33050d04451baeb01",
+      "crc32": "6538f05c",
+      "sha1": "94c08048ab19376ce25ea49b869fc74339f7b110",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "parisreview-2022-08-15T08:38:59.095557+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660545553",
+      "size": "1531",
+      "md5": "3649122486a310c4de095aa6ffef1646",
+      "crc32": "8387a970",
+      "sha1": "e49102e3e79716651442e89951650e4b36a2b18a",
+      "format": "JSON"
+    },
+    {
+      "name": "parisreview-2022-08-15T08:38:59.095557+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1660545555",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "parisreview-2022-08-15T08:38:59.095557+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "parisreview-2022-08-15T08:38:59.095557+02:00.jpg",
+      "mtime": "1660545728",
+      "size": "10328",
+      "md5": "01773b383dd9d2d54c50464ec60bd09f",
+      "crc32": "136b164f",
+      "sha1": "f49a572674e615e2b2b39567d89b3afbdc15a2f0"
+    },
+    {
       "name": "parisreview-2022_archive.torrent",
       "source": "metadata",
-      "btih": "52e803ba08257dd320af1f8d6101b797e709593e",
-      "mtime": "1660503470",
-      "size": "85796",
-      "md5": "bed3ecf90ed335ef7e41362b3051ea06",
-      "crc32": "ea42502c",
-      "sha1": "326f06bbeff5bce0e2a3c1e29565306fd1cd56d9",
+      "btih": "38ef31b6e75cb8a67ed162d3e6bb132c26670ad0",
+      "mtime": "1660545734",
+      "size": "87059",
+      "md5": "b13850389f209201cfde55e8c5f0b0e2",
+      "crc32": "4bf2c857",
+      "sha1": "c97d55f6c9e37857eb7983f7eacd8e45542b0c2a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "parisreview-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fdf99558211d19d6bb637c62c5efd476",
+      "md5": "b0f881556101836aa619f6a2d8759078",
       "summation": "md5"
     },
     {
       "name": "parisreview-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660503400",
-      "size": "499712",
-      "md5": "485fefbc635c7f40c46f41381dfa127d",
-      "crc32": "fbc13f3c",
-      "sha1": "fd9e0314bc50226953d979fd4d6be43bc817f3e0",
+      "mtime": "1660545559",
+      "size": "507904",
+      "md5": "de391273f6ed83f2dd359a0cd3c8a6f9",
+      "crc32": "be9a6e07",
+      "sha1": "7b7b4899a6445621083c164b8bfd773b8b3d5ce3",
       "format": "Metadata"
     },
     {
@@ -4170,9 +4232,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 400,
-  "item_last_updated": 1660503470,
-  "item_size": 26929318,
+  "files_count": 406,
+  "item_last_updated": 1660545734,
+  "item_size": 27271885,
   "metadata": {
     "identifier": "parisreview-2022",
     "collection": [
@@ -4189,8 +4251,13 @@
     "publicdate": "2022-07-04 21:51:06",
     "addeddate": "2022-07-04 21:51:06"
   },
+  "parisreview-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "server": "ia801404.us.archive.org",
-  "uniq": 1554452976,
+  "uniq": 3117227,
   "workable_servers": [
     "ia801404.us.archive.org",
     "ia601404.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1660511745,
+  "created": 1660574068,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/21/items/yahoonews-2022",
@@ -10302,31 +10302,93 @@
       "sha1": "3354ebdccd9f7e84957c25285ef7952e440cbbe2"
     },
     {
+      "name": "yahoonews-2022-08-14T23:21:11.686680-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660533679",
+      "size": "35719",
+      "md5": "1c104f718ee5ec3f52f252684b4a802b",
+      "crc32": "40003902",
+      "sha1": "5cd4ba1bb71591eceedb4be4d30ce517fa9cdd20",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-08-14T23:21:11.686680-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660533680",
+      "size": "17998",
+      "md5": "3eb3323b76469c825d9cd77302e81511",
+      "crc32": "56e85b3a",
+      "sha1": "8a17b2f309fc708136f046770c8cd7009c7bbb53",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-08-14T23:21:11.686680-04:00.jpg",
+      "source": "original",
+      "mtime": "1660533677",
+      "size": "326668",
+      "md5": "2e7e8ccb271246c1fa3fc341ecacaefe",
+      "crc32": "42694e7b",
+      "sha1": "39ac8e3d4d3b217acdb4557e9feb9a1222711cb4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "yahoonews-2022-08-14T23:21:11.686680-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660533683",
+      "size": "1459",
+      "md5": "cd54bf85fbb4a499afb733672f6206a0",
+      "crc32": "d3aa3d5a",
+      "sha1": "0baeb6142ee96914a13a73c713eccd83f7f97a49",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-08-14T23:21:11.686680-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660533684",
+      "size": "230",
+      "md5": "408f44808a2047b9bb743f69e3a87b8d",
+      "crc32": "aaaf1594",
+      "sha1": "a89c7cb7435cfa9b822a92abc2074414f2bea3ab",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoonews-2022-08-14T23:21:11.686680-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "yahoonews-2022-08-14T23:21:11.686680-04:00.jpg",
+      "mtime": "1660533762",
+      "size": "10095",
+      "md5": "f69aa8cba3b5fe8852822030c0cee65f",
+      "crc32": "f17af2f6",
+      "sha1": "7d22ceefc1c8925ad6c8b2ee1e57b3259ab2b246"
+    },
+    {
       "name": "yahoonews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a9033d8dd93d2cd814fb78c374848c2a96da3636",
-      "mtime": "1660511722",
-      "size": "210685",
-      "md5": "a13202b9ab0bae2539710f30d5367e48",
-      "crc32": "304fb7a7",
-      "sha1": "5e53c5f3df38c6e8d649b130085acef95f60d9b8",
+      "btih": "57687c8b9f2da4ac60a7323035e100d96bdfd0ef",
+      "mtime": "1660533780",
+      "size": "211937",
+      "md5": "1c0193bab1ee70c227e8ea154ed3ad63",
+      "crc32": "82c50382",
+      "sha1": "1dab9b1903cf53151f559a579895338ae60e77eb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "yahoonews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c171e78514874aa6b882e92b722a8d5c",
+      "md5": "6313eb1b563c8f6d7fff1d751221ed53",
       "summation": "md5"
     },
     {
       "name": "yahoonews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660511624",
-      "size": "1196032",
-      "md5": "1a1eaa56ca2c7bda9acf066b808900f0",
-      "crc32": "0553af82",
-      "sha1": "f44871b3e2bfa52200fcfc720da0cef733eb8c2e",
+      "mtime": "1660533691",
+      "size": "1204224",
+      "md5": "5595de3e79075d4fe7d9d319ac15785f",
+      "crc32": "0bc0cdfb",
+      "sha1": "3ebab35657256ca99842b14860f812573f67585b",
       "format": "Metadata"
     },
     {
@@ -10340,9 +10402,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 991,
-  "item_last_updated": 1660511722,
-  "item_size": 86256161,
+  "files_count": 997,
+  "item_last_updated": 1660533780,
+  "item_size": 86657774,
   "metadata": {
     "identifier": "yahoonews-2022",
     "collection": [
@@ -10359,10 +10421,15 @@
     "publicdate": "2022-06-24 23:04:11",
     "addeddate": "2022-06-24 23:04:11"
   },
-  "server": "ia601403.us.archive.org",
-  "uniq": 1714888708,
+  "server": "ia801403.us.archive.org",
+  "uniq": 782149545,
   "workable_servers": [
-    "ia601403.us.archive.org",
-    "ia801403.us.archive.org"
-  ]
+    "ia801403.us.archive.org",
+    "ia601403.us.archive.org"
+  ],
+  "yahoonews-2022": {
+    "url": "https://news.yahoo.com/",
+    "job_id": "spn2-5d226e5fcaae6136a3d709228511e15a21a6d99f",
+    "message": "The same snapshot had been made 27 minutes, 35 seconds ago. You can make new capture of this URL after 45 minutes."
+  }
 }

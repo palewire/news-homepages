@@ -1,5 +1,5 @@
 {
-  "created": 1660526795,
+  "created": 1660573125,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/33/items/nrk-2022",
@@ -2883,10 +2883,19 @@
     "publicdate": "2022-07-20 11:37:26",
     "addeddate": "2022-07-20 11:37:26"
   },
-  "server": "ia802504.us.archive.org",
-  "uniq": 1503796533,
+  "nrk-2022": {
+    "url": "https://www.nrk.no/",
+    "job_id": "spn2-42d51971b04a8286475aa96ac38e6016afd1930c",
+    "status_ext": "error:too-many-daily-captures",
+    "status": "error",
+    "resources": [],
+    "duration_sec": 0.389,
+    "message": "This URL has been already captured 10 times today. Please email us at \"info@archive.org\" if you would like to discuss this more."
+  },
+  "server": "ia902504.us.archive.org",
+  "uniq": 2054434674,
   "workable_servers": [
-    "ia802504.us.archive.org",
-    "ia902504.us.archive.org"
+    "ia902504.us.archive.org",
+    "ia802504.us.archive.org"
   ]
 }

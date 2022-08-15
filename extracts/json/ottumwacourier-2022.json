@@ -1,6 +1,5 @@
 {
-  "conflict": 1660526863,
-  "created": 1660526863,
+  "created": 1660526875,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/4/items/ottumwacourier-2022",
@@ -5526,21 +5525,32 @@
       "format": "JSON"
     },
     {
+      "name": "ottumwacourier-2022-08-14T20:26:36.660005-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ottumwacourier-2022-08-14T20:26:36.660005-05:00.jpg",
+      "mtime": "1660526864",
+      "size": "9790",
+      "md5": "1866f0b47070ef1d8f2acbe2c4b801bd",
+      "crc32": "819d62a8",
+      "sha1": "c5190317db37e185c370a314b863a5f306239c98"
+    },
+    {
       "name": "ottumwacourier-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9fb27dffa56e961daaa4fd7632b86865326574aa",
-      "mtime": "1660526855",
-      "size": "115417",
-      "md5": "b6536c6a219bb54ff9ba344ef1464a8c",
-      "crc32": "afb614d1",
-      "sha1": "fa64a6b5b28b20fd61258c4257ddba07f26c3b02",
+      "btih": "8409e0210a22aa1d0738fe6ceb5b811f7b24aac4",
+      "mtime": "1660526870",
+      "size": "115627",
+      "md5": "42a50db749d0e658bc3467894c6997e1",
+      "crc32": "89b349d0",
+      "sha1": "59a0a409ab43e67fbeee2048ce0b7d9ccdc2bb6d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ottumwacourier-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4431901013419194e60445088117fc51",
+      "md5": "d79baaab8a9e950f89ed536e0ea2d879",
       "summation": "md5"
     },
     {
@@ -5564,9 +5574,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 529,
-  "item_last_updated": 1660526855,
-  "item_size": 59691655,
+  "files_count": 530,
+  "item_last_updated": 1660526870,
+  "item_size": 59701655,
   "metadata": {
     "identifier": "ottumwacourier-2022",
     "collection": [
@@ -5583,21 +5593,10 @@
     "publicdate": "2022-06-24 22:59:27",
     "addeddate": "2022-06-24 22:59:27"
   },
-  "pending_tasks": true,
-  "server": "ia902509.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3368671166,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1010131450,
+  "server": "ia802509.us.archive.org",
+  "uniq": 1262035362,
   "workable_servers": [
+    "ia802509.us.archive.org",
     "ia902509.us.archive.org"
   ]
 }
