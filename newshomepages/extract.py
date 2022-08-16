@@ -167,24 +167,30 @@ def download_lighthouse(
         site_list = utils.get_sites_in_country(country)
         slug = country.lower()
         handle_list = [s["handle"].lower() for s in site_list]
-        filtered_df = lighthouse_df[lighthouse_df.handle.str.lower().isin(handle_list)]
+        filtered_df = lighthouse_df[
+            lighthouse_df.handle.str.lower().isin(handle_list)
+        ].copy()
     elif language:
         site_list = utils.get_sites_in_language(language)
         slug = language.lower()
         handle_list = [s["handle"].lower() for s in site_list]
-        filtered_df = lighthouse_df[lighthouse_df.handle.str.lower().isin(handle_list)]
+        filtered_df = lighthouse_df[
+            lighthouse_df.handle.str.lower().isin(handle_list)
+        ].copy()
     elif bundle:
         site_list = utils.get_sites_in_bundle(bundle)
         slug = bundle.lower()
         handle_list = [s["handle"].lower() for s in site_list]
-        filtered_df = lighthouse_df[lighthouse_df.handle.str.lower().isin(handle_list)]
+        filtered_df = lighthouse_df[
+            lighthouse_df.handle.str.lower().isin(handle_list)
+        ].copy()
     else:
         slug = "all"
         filtered_df = lighthouse_df
 
     if days:
         cutoff_date = filtered_df["date"].max() - pd.Timedelta(days=int(days))
-        filtered_df = filtered_df[filtered_df["date"] > cutoff_date]
+        filtered_df = filtered_df[filtered_df["date"] > cutoff_date].copy()
         print(f"Trimming to last {days} days")
 
     # See how many files we don't have yet
