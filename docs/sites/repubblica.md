@@ -22,13 +22,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 10 screenshots with the Internet Archive.
+The archiving routine has saved 11 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/repubblica-2022/repubblica-2022-08-15T22:10:46.393745+02:00.jpg">
+  <img src="https://archive.org/download/repubblica-2022/repubblica-2022-08-15T22:10:46.393745+02:00.jpg"
+     alt="Repubblica at 2022-08-15 22:10:48+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/repubblica-2022/repubblica-2022-08-15T22:10:46.393745+02:00.jpg">August 15 at 10:10 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/repubblica-2022/repubblica-2022-08-15T08:41:22.192849+02:00.jpg">
@@ -124,7 +133,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 10 hyperlink lists with the Internet Archive.
+The archiving routine has saved 11 hyperlink lists with the Internet Archive.
 
 
 
@@ -132,6 +141,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 15 at 10:10 PM](https://archive.org/download/repubblica-2022/repubblica-2022-08-15T22:10:46.393745+02:00.hyperlinks.json) |
 | [August 15 at 8:41 AM](https://archive.org/download/repubblica-2022/repubblica-2022-08-15T08:41:22.192849+02:00.hyperlinks.json) |
 | [August 14 at 8:58 PM](https://archive.org/download/repubblica-2022/repubblica-2022-08-14T20:58:25.590259+02:00.hyperlinks.json) |
 | [August 14 at 9:03 AM](https://archive.org/download/repubblica-2022/repubblica-2022-08-14T09:03:15.171644+02:00.hyperlinks.json) |
@@ -141,12 +151,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 11:43 AM](https://archive.org/download/repubblica-2022/repubblica-2022-08-12T11:43:35.909287+02:00.hyperlinks.json) |
 | [August 11 at 8:53 PM](https://archive.org/download/repubblica-2022/repubblica-2022-08-11T20:53:32.538696+02:00.hyperlinks.json) |
 | [August 11 at 7:23 AM](https://archive.org/download/repubblica-2022/repubblica-2022-08-11T07:23:12.644502+02:00.hyperlinks.json) |
-| [August 10 at 8:21 PM](https://archive.org/download/repubblica-2022/repubblica-2022-08-10T20:19:42.328697+02:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 10 accessibility trees with the Internet Archive.
+The archiving routine has saved 11 accessibility trees with the Internet Archive.
 
 
 
@@ -154,6 +163,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 15 at 10:10 PM](https://archive.org/download/repubblica-2022/repubblica-2022-08-15T22:10:46.393745+02:00.accessibility.json) |
 | [August 15 at 8:41 AM](https://archive.org/download/repubblica-2022/repubblica-2022-08-15T08:41:22.192849+02:00.accessibility.json) |
 | [August 14 at 8:58 PM](https://archive.org/download/repubblica-2022/repubblica-2022-08-14T20:58:25.590259+02:00.accessibility.json) |
 | [August 14 at 9:03 AM](https://archive.org/download/repubblica-2022/repubblica-2022-08-14T09:03:15.171644+02:00.accessibility.json) |
@@ -163,13 +173,12 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 11:43 AM](https://archive.org/download/repubblica-2022/repubblica-2022-08-12T11:43:35.909287+02:00.accessibility.json) |
 | [August 11 at 8:53 PM](https://archive.org/download/repubblica-2022/repubblica-2022-08-11T20:53:32.538696+02:00.accessibility.json) |
 | [August 11 at 7:23 AM](https://archive.org/download/repubblica-2022/repubblica-2022-08-11T07:23:12.644502+02:00.accessibility.json) |
-| [August 10 at 8:20 PM](https://archive.org/download/repubblica-2022/repubblica-2022-08-10T20:19:42.328697+02:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 10 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
 
 
 
@@ -177,6 +186,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 15 at 10:10 PM](https://archive.org/download/repubblica-2022/repubblica-2022-08-15T22:10:46.393745+02:00.lighthouse.json) |
 | [August 15 at 8:41 AM](https://archive.org/download/repubblica-2022/repubblica-2022-08-15T08:41:22.192849+02:00.lighthouse.json) |
 | [August 14 at 8:58 PM](https://archive.org/download/repubblica-2022/repubblica-2022-08-14T20:58:25.590259+02:00.lighthouse.json) |
 | [August 14 at 9:03 AM](https://archive.org/download/repubblica-2022/repubblica-2022-08-14T09:03:15.171644+02:00.lighthouse.json) |
@@ -186,7 +196,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 12 at 11:43 AM](https://archive.org/download/repubblica-2022/repubblica-2022-08-12T11:43:35.909287+02:00.lighthouse.json) |
 | [August 11 at 8:53 PM](https://archive.org/download/repubblica-2022/repubblica-2022-08-11T20:53:32.538696+02:00.lighthouse.json) |
 | [August 11 at 7:23 AM](https://archive.org/download/repubblica-2022/repubblica-2022-08-11T07:23:12.644502+02:00.lighthouse.json) |
-| [August 10 at 8:21 PM](https://archive.org/download/repubblica-2022/repubblica-2022-08-10T20:19:42.328697+02:00.lighthouse.json) |
 
 
 

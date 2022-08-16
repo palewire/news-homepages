@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 40 screenshots with the Internet Archive.
+The archiving routine has saved 41 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 40 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/spacedotcom-2022/spacedotcom-2022-08-15T10:29:32.031196-04:00.jpg">
+  <img src="https://archive.org/download/spacedotcom-2022/spacedotcom-2022-08-15T10:29:32.031196-04:00.jpg"
+     alt="Space.com at 2022-08-15 10:29:33-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/spacedotcom-2022/spacedotcom-2022-08-15T10:29:32.031196-04:00.jpg">August 15 at 10:29 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/spacedotcom-2022/spacedotcom-2022-08-14T21:30:35.870495-04:00.jpg">
@@ -212,20 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/spacedotcom-2022/spacedotcom-2022-08-09T21:06:42.582931-04:00.jpg">August 9 at 9:06 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/spacedotcom-2022/spacedotcom-2022-08-09T09:06:03.819254-04:00.jpg">
-  <img src="https://archive.org/download/spacedotcom-2022/spacedotcom-2022-08-09T09:06:03.819254-04:00.jpg"
-     alt="Space.com at 2022-08-09 09:06:05-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/spacedotcom-2022/spacedotcom-2022-08-09T09:06:03.819254-04:00.jpg">August 9 at 9:06 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 39 hyperlink lists with the Internet Archive.
+The archiving routine has saved 40 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 15 at 10:29 AM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-08-15T10:29:32.031196-04:00.hyperlinks.json) |
 | [August 14 at 9:30 PM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-08-14T21:30:35.870495-04:00.hyperlinks.json) |
 | [August 14 at 9:59 AM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-08-14T09:59:00.499072-04:00.hyperlinks.json) |
 | [August 13 at 11:25 PM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-08-13T23:25:24.913090-04:00.hyperlinks.json) |
@@ -325,12 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 5:27 AM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-08-12T05:27:07.458494-04:00.hyperlinks.json) |
 | [August 11 at 9:50 AM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-08-11T09:49:55.239206-04:00.hyperlinks.json) |
 | [August 10 at 9:01 PM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-08-10T21:00:57.064792-04:00.hyperlinks.json) |
-| [August 10 at 9:20 AM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-08-10T09:20:09.445967-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 38 accessibility trees with the Internet Archive.
+The archiving routine has saved 39 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 15 at 10:29 AM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-08-15T10:29:32.031196-04:00.accessibility.json) |
 | [August 14 at 9:30 PM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-08-14T21:30:35.870495-04:00.accessibility.json) |
 | [August 14 at 9:59 AM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-08-14T09:59:00.499072-04:00.accessibility.json) |
 | [August 13 at 11:25 PM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-08-13T23:25:24.913090-04:00.accessibility.json) |
@@ -430,7 +431,6 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 5:27 AM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-08-12T05:27:07.458494-04:00.accessibility.json) |
 | [August 11 at 9:50 AM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-08-11T09:49:55.239206-04:00.accessibility.json) |
 | [August 10 at 9:00 PM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-08-10T21:00:57.064792-04:00.accessibility.json) |
-| [August 10 at 9:20 AM](https://archive.org/download/spacedotcom-2022/spacedotcom-2022-08-10T09:20:09.445967-04:00.accessibility.json) |
 
 
 

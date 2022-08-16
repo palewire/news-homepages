@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 85 screenshots with the Internet Archive.
+The archiving routine has saved 86 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 85 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-15T10:19:10.997101-04:00.jpg">
+  <img src="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-15T10:19:10.997101-04:00.jpg"
+     alt="Miami Herald at 2022-08-15 10:19:12-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-15T10:19:10.997101-04:00.jpg">August 15 at 10:19 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-14T21:21:51.217796-04:00.jpg">
@@ -210,15 +219,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-09T20:57:09.183216-04:00.jpg">August 9 at 8:57 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-09T08:56:40.054222-04:00.jpg">
-  <img src="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-09T08:56:40.054222-04:00.jpg"
-     alt="Miami Herald at 2022-08-09 08:56:43-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/miamiherald-2022/miamiherald-2022-08-09T08:56:40.054222-04:00.jpg">August 9 at 8:56 AM</a></p>
 </div>
 
 </div>
@@ -330,7 +330,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 85 accessibility trees with the Internet Archive.
+The archiving routine has saved 86 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 15 at 10:19 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-15T10:19:10.997101-04:00.accessibility.json) |
 | [August 14 at 9:21 PM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-14T21:21:51.217796-04:00.accessibility.json) |
 | [August 14 at 9:50 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-14T09:50:38.009879-04:00.accessibility.json) |
 | [August 13 at 11:15 PM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-13T23:15:03.517480-04:00.accessibility.json) |
@@ -430,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 5:19 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-12T05:19:40.045558-04:00.accessibility.json) |
 | [August 11 at 9:40 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-11T09:40:34.312833-04:00.accessibility.json) |
 | [August 10 at 8:53 PM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-10T20:52:58.620120-04:00.accessibility.json) |
-| [August 10 at 9:10 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-10T09:10:15.337592-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 45 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 46 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 15 at 10:19 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-15T10:19:10.997101-04:00.lighthouse.json) |
 | [August 14 at 9:22 PM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-14T21:21:51.217796-04:00.lighthouse.json) |
 | [August 14 at 9:50 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-14T09:50:38.009879-04:00.lighthouse.json) |
 | [August 13 at 11:15 PM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-13T23:15:03.517480-04:00.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 12 at 5:19 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-12T05:19:40.045558-04:00.lighthouse.json) |
 | [August 11 at 9:40 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-11T09:40:34.312833-04:00.lighthouse.json) |
 | [August 10 at 8:53 PM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-10T20:52:58.620120-04:00.lighthouse.json) |
-| [August 10 at 9:10 AM](https://archive.org/download/miamiherald-2022/miamiherald-2022-08-10T09:10:15.337592-04:00.lighthouse.json) |
 
 
 

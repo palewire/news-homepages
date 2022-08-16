@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 84 screenshots with the Internet Archive.
+The archiving routine has saved 85 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 84 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sinow-2022/sinow-2022-08-15T10:29:15.045956-04:00.jpg">
+  <img src="https://archive.org/download/sinow-2022/sinow-2022-08-15T10:29:15.045956-04:00.jpg"
+     alt="Sports Illustrated at 2022-08-15 10:29:16-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sinow-2022/sinow-2022-08-15T10:29:15.045956-04:00.jpg">August 15 at 10:29 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sinow-2022/sinow-2022-08-14T21:30:57.088309-04:00.jpg">
@@ -212,20 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/sinow-2022/sinow-2022-08-09T21:06:06.441204-04:00.jpg">August 9 at 9:06 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/sinow-2022/sinow-2022-08-09T09:05:40.976798-04:00.jpg">
-  <img src="https://archive.org/download/sinow-2022/sinow-2022-08-09T09:05:40.976798-04:00.jpg"
-     alt="Sports Illustrated at 2022-08-09 09:05:42-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sinow-2022/sinow-2022-08-09T09:05:40.976798-04:00.jpg">August 9 at 9:05 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 84 hyperlink lists with the Internet Archive.
+The archiving routine has saved 85 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 15 at 10:29 AM](https://archive.org/download/sinow-2022/sinow-2022-08-15T10:29:15.045956-04:00.hyperlinks.json) |
 | [August 14 at 9:31 PM](https://archive.org/download/sinow-2022/sinow-2022-08-14T21:30:57.088309-04:00.hyperlinks.json) |
 | [August 14 at 9:58 AM](https://archive.org/download/sinow-2022/sinow-2022-08-14T09:58:30.093255-04:00.hyperlinks.json) |
 | [August 13 at 11:25 PM](https://archive.org/download/sinow-2022/sinow-2022-08-13T23:24:57.071276-04:00.hyperlinks.json) |
@@ -325,12 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 5:26 AM](https://archive.org/download/sinow-2022/sinow-2022-08-12T05:26:35.764581-04:00.hyperlinks.json) |
 | [August 11 at 9:49 AM](https://archive.org/download/sinow-2022/sinow-2022-08-11T09:49:34.319299-04:00.hyperlinks.json) |
 | [August 10 at 9:00 PM](https://archive.org/download/sinow-2022/sinow-2022-08-10T21:00:07.302704-04:00.hyperlinks.json) |
-| [August 10 at 9:20 AM](https://archive.org/download/sinow-2022/sinow-2022-08-10T09:20:30.098429-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 84 accessibility trees with the Internet Archive.
+The archiving routine has saved 85 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 15 at 10:29 AM](https://archive.org/download/sinow-2022/sinow-2022-08-15T10:29:15.045956-04:00.accessibility.json) |
 | [August 14 at 9:31 PM](https://archive.org/download/sinow-2022/sinow-2022-08-14T21:30:57.088309-04:00.accessibility.json) |
 | [August 14 at 9:58 AM](https://archive.org/download/sinow-2022/sinow-2022-08-14T09:58:30.093255-04:00.accessibility.json) |
 | [August 13 at 11:25 PM](https://archive.org/download/sinow-2022/sinow-2022-08-13T23:24:57.071276-04:00.accessibility.json) |
@@ -430,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 5:26 AM](https://archive.org/download/sinow-2022/sinow-2022-08-12T05:26:35.764581-04:00.accessibility.json) |
 | [August 11 at 9:49 AM](https://archive.org/download/sinow-2022/sinow-2022-08-11T09:49:34.319299-04:00.accessibility.json) |
 | [August 10 at 9:00 PM](https://archive.org/download/sinow-2022/sinow-2022-08-10T21:00:07.302704-04:00.accessibility.json) |
-| [August 10 at 9:20 AM](https://archive.org/download/sinow-2022/sinow-2022-08-10T09:20:30.098429-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 45 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 46 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 15 at 10:29 AM](https://archive.org/download/sinow-2022/sinow-2022-08-15T10:29:15.045956-04:00.lighthouse.json) |
 | [August 14 at 9:31 PM](https://archive.org/download/sinow-2022/sinow-2022-08-14T21:30:57.088309-04:00.lighthouse.json) |
 | [August 14 at 9:58 AM](https://archive.org/download/sinow-2022/sinow-2022-08-14T09:58:30.093255-04:00.lighthouse.json) |
 | [August 13 at 11:25 PM](https://archive.org/download/sinow-2022/sinow-2022-08-13T23:24:57.071276-04:00.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 12 at 5:26 AM](https://archive.org/download/sinow-2022/sinow-2022-08-12T05:26:35.764581-04:00.lighthouse.json) |
 | [August 11 at 9:49 AM](https://archive.org/download/sinow-2022/sinow-2022-08-11T09:49:34.319299-04:00.lighthouse.json) |
 | [August 10 at 9:00 PM](https://archive.org/download/sinow-2022/sinow-2022-08-10T21:00:07.302704-04:00.lighthouse.json) |
-| [August 10 at 9:20 AM](https://archive.org/download/sinow-2022/sinow-2022-08-10T09:20:30.098429-04:00.lighthouse.json) |
 
 
 

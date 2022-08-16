@@ -22,13 +22,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 10 screenshots with the Internet Archive.
+The archiving routine has saved 11 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-16T03:12:23.692638+02:00.jpg">
+  <img src="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-16T03:12:23.692638+02:00.jpg"
+     alt="Adnkronos at 2022-08-16 03:12:25+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-16T03:12:23.692638+02:00.jpg">August 16 at 3:12 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/adnkronos-2022/adnkronos-2022-08-15T15:44:48.896678+02:00.jpg">
@@ -124,7 +133,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 10 hyperlink lists with the Internet Archive.
+The archiving routine has saved 11 hyperlink lists with the Internet Archive.
 
 
 
@@ -132,6 +141,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 16 at 3:12 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-16T03:12:23.692638+02:00.hyperlinks.json) |
 | [August 15 at 3:44 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-15T15:44:48.896678+02:00.hyperlinks.json) |
 | [August 15 at 2:58 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-15T02:58:42.150358+02:00.hyperlinks.json) |
 | [August 14 at 3:21 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-14T15:21:50.822078+02:00.hyperlinks.json) |
@@ -141,12 +151,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 1:35 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-12T13:34:55.313257+02:00.hyperlinks.json) |
 | [August 12 at 1:15 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-12T01:15:41.904731+02:00.hyperlinks.json) |
 | [August 11 at 1:30 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-11T13:30:01.197271+02:00.hyperlinks.json) |
-| [August 11 at 2:35 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-11T02:35:06.624139+02:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 10 accessibility trees with the Internet Archive.
+The archiving routine has saved 11 accessibility trees with the Internet Archive.
 
 
 
@@ -154,6 +163,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 16 at 3:12 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-16T03:12:23.692638+02:00.accessibility.json) |
 | [August 15 at 3:44 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-15T15:44:48.896678+02:00.accessibility.json) |
 | [August 15 at 2:58 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-15T02:58:42.150358+02:00.accessibility.json) |
 | [August 14 at 3:21 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-14T15:21:50.822078+02:00.accessibility.json) |
@@ -163,13 +173,12 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 1:34 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-12T13:34:55.313257+02:00.accessibility.json) |
 | [August 12 at 1:15 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-12T01:15:41.904731+02:00.accessibility.json) |
 | [August 11 at 1:30 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-11T13:30:01.197271+02:00.accessibility.json) |
-| [August 11 at 2:35 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-11T02:35:06.624139+02:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 10 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
 
 
 
@@ -177,6 +186,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 16 at 3:12 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-16T03:12:23.692638+02:00.lighthouse.json) |
 | [August 15 at 3:44 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-15T15:44:48.896678+02:00.lighthouse.json) |
 | [August 15 at 2:58 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-15T02:58:42.150358+02:00.lighthouse.json) |
 | [August 14 at 3:21 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-14T15:21:50.822078+02:00.lighthouse.json) |
@@ -186,7 +196,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 12 at 1:35 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-12T13:34:55.313257+02:00.lighthouse.json) |
 | [August 12 at 1:15 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-12T01:15:41.904731+02:00.lighthouse.json) |
 | [August 11 at 1:30 PM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-11T13:30:01.197271+02:00.lighthouse.json) |
-| [August 11 at 2:35 AM](https://archive.org/download/adnkronos-2022/adnkronos-2022-08-11T02:35:06.624139+02:00.lighthouse.json) |
 
 
 

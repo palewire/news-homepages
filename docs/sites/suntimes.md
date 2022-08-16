@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 158 screenshots with the Internet Archive.
+The archiving routine has saved 159 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 158 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/suntimes-2022/suntimes-2022-08-15T14:35:36.906426-05:00.jpg">
+  <img src="https://archive.org/download/suntimes-2022/suntimes-2022-08-15T14:35:36.906426-05:00.jpg"
+     alt="Chicago Sun-Times at 2022-08-15 14:35:44-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/suntimes-2022/suntimes-2022-08-15T14:35:36.906426-05:00.jpg">August 15 at 2:35 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/suntimes-2022/suntimes-2022-08-14T22:12:13.872770-05:00.jpg">
@@ -212,20 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/suntimes-2022/suntimes-2022-08-10T14:34:07.161845-05:00.jpg">August 10 at 2:34 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/suntimes-2022/suntimes-2022-08-10T12:51:44.441598-05:00.jpg">
-  <img src="https://archive.org/download/suntimes-2022/suntimes-2022-08-10T12:51:44.441598-05:00.jpg"
-     alt="Chicago Sun-Times at 2022-08-10 12:51:57-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/suntimes-2022/suntimes-2022-08-10T12:51:44.441598-05:00.jpg">August 10 at 12:51 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 159 hyperlink lists with the Internet Archive.
+The archiving routine has saved 160 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 15 at 2:35 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-15T14:35:36.906426-05:00.hyperlinks.json) |
 | [August 14 at 10:12 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-14T22:12:13.872770-05:00.hyperlinks.json) |
 | [August 14 at 12:02 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-14T12:02:25.297178-05:00.hyperlinks.json) |
 | [August 14 at 12:05 AM](https://archive.org/download/suntimes-2022/suntimes-2022-08-14T00:05:31.200057-05:00.hyperlinks.json) |
@@ -325,12 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 11:23 AM](https://archive.org/download/suntimes-2022/suntimes-2022-08-12T11:22:56.165752-05:00.hyperlinks.json) |
 | [August 12 at 4:32 AM](https://archive.org/download/suntimes-2022/suntimes-2022-08-12T04:32:49.708560-05:00.hyperlinks.json) |
 | [August 11 at 9:05 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-11T21:05:09.911016-05:00.hyperlinks.json) |
-| [August 11 at 2:04 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-11T14:03:57.324831-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 162 accessibility trees with the Internet Archive.
+The archiving routine has saved 163 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 15 at 2:35 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-15T14:35:36.906426-05:00.accessibility.json) |
 | [August 14 at 10:12 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-14T22:12:13.872770-05:00.accessibility.json) |
 | [August 14 at 12:02 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-14T12:02:25.297178-05:00.accessibility.json) |
 | [August 14 at 12:05 AM](https://archive.org/download/suntimes-2022/suntimes-2022-08-14T00:05:31.200057-05:00.accessibility.json) |
@@ -430,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 11:23 AM](https://archive.org/download/suntimes-2022/suntimes-2022-08-12T11:22:56.165752-05:00.accessibility.json) |
 | [August 12 at 4:32 AM](https://archive.org/download/suntimes-2022/suntimes-2022-08-12T04:32:49.708560-05:00.accessibility.json) |
 | [August 11 at 9:05 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-11T21:05:09.911016-05:00.accessibility.json) |
-| [August 11 at 2:04 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-11T14:03:57.324831-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 69 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 70 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 15 at 2:35 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-15T14:35:36.906426-05:00.lighthouse.json) |
 | [August 14 at 10:12 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-14T22:12:13.872770-05:00.lighthouse.json) |
 | [August 14 at 12:02 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-14T12:02:25.297178-05:00.lighthouse.json) |
 | [August 14 at 12:05 AM](https://archive.org/download/suntimes-2022/suntimes-2022-08-14T00:05:31.200057-05:00.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 12 at 11:23 AM](https://archive.org/download/suntimes-2022/suntimes-2022-08-12T11:22:56.165752-05:00.lighthouse.json) |
 | [August 12 at 4:33 AM](https://archive.org/download/suntimes-2022/suntimes-2022-08-12T04:32:49.708560-05:00.lighthouse.json) |
 | [August 11 at 9:05 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-11T21:05:09.911016-05:00.lighthouse.json) |
-| [August 11 at 2:04 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-11T14:03:57.324831-05:00.lighthouse.json) |
 
 
 

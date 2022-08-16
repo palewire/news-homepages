@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 86 screenshots with the Internet Archive.
+The archiving routine has saved 87 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 86 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/discovermag-2022/discovermag-2022-08-15T21:22:47.543961-04:00.jpg">
+  <img src="https://archive.org/download/discovermag-2022/discovermag-2022-08-15T21:22:47.543961-04:00.jpg"
+     alt="Discover at 2022-08-15 21:22:51-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-08-15T21:22:47.543961-04:00.jpg">August 15 at 9:22 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/discovermag-2022/discovermag-2022-08-15T09:57:20.543709-04:00.jpg">
@@ -210,15 +219,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-08-10T08:57:38.211195-04:00.jpg">August 10 at 8:57 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/discovermag-2022/discovermag-2022-08-09T19:29:28.371722-04:00.jpg">
-  <img src="https://archive.org/download/discovermag-2022/discovermag-2022-08-09T19:29:28.371722-04:00.jpg"
-     alt="Discover at 2022-08-09 19:29:31-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-08-09T19:29:28.371722-04:00.jpg">August 9 at 7:29 PM</a></p>
 </div>
 
 </div>
@@ -330,7 +330,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 80 accessibility trees with the Internet Archive.
+The archiving routine has saved 81 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 15 at 9:22 PM](https://archive.org/download/discovermag-2022/discovermag-2022-08-15T21:22:47.543961-04:00.accessibility.json) |
 | [August 15 at 9:57 AM](https://archive.org/download/discovermag-2022/discovermag-2022-08-15T09:57:20.543709-04:00.accessibility.json) |
 | [August 14 at 9:07 PM](https://archive.org/download/discovermag-2022/discovermag-2022-08-14T21:07:26.514201-04:00.accessibility.json) |
 | [August 14 at 9:31 AM](https://archive.org/download/discovermag-2022/discovermag-2022-08-14T09:31:18.907559-04:00.accessibility.json) |
@@ -430,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 7:42 AM](https://archive.org/download/discovermag-2022/discovermag-2022-08-12T07:42:49.961250-04:00.accessibility.json) |
 | [August 11 at 7:26 PM](https://archive.org/download/discovermag-2022/discovermag-2022-08-11T19:26:26.962038-04:00.accessibility.json) |
 | [August 11 at 7:40 AM](https://archive.org/download/discovermag-2022/discovermag-2022-08-11T07:40:05.426181-04:00.accessibility.json) |
-| [August 10 at 8:43 PM](https://archive.org/download/discovermag-2022/discovermag-2022-08-10T20:43:01.014655-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 46 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 47 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 15 at 9:22 PM](https://archive.org/download/discovermag-2022/discovermag-2022-08-15T21:22:47.543961-04:00.lighthouse.json) |
 | [August 15 at 9:57 AM](https://archive.org/download/discovermag-2022/discovermag-2022-08-15T09:57:20.543709-04:00.lighthouse.json) |
 | [August 14 at 9:07 PM](https://archive.org/download/discovermag-2022/discovermag-2022-08-14T21:07:26.514201-04:00.lighthouse.json) |
 | [August 14 at 9:31 AM](https://archive.org/download/discovermag-2022/discovermag-2022-08-14T09:31:18.907559-04:00.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 12 at 7:43 AM](https://archive.org/download/discovermag-2022/discovermag-2022-08-12T07:42:49.961250-04:00.lighthouse.json) |
 | [August 11 at 7:26 PM](https://archive.org/download/discovermag-2022/discovermag-2022-08-11T19:26:26.962038-04:00.lighthouse.json) |
 | [August 11 at 7:40 AM](https://archive.org/download/discovermag-2022/discovermag-2022-08-11T07:40:05.426181-04:00.lighthouse.json) |
-| [August 10 at 8:43 PM](https://archive.org/download/discovermag-2022/discovermag-2022-08-10T20:43:01.014655-04:00.lighthouse.json) |
 
 
 

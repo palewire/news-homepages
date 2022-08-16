@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 337 screenshots with the Internet Archive.
+The archiving routine has saved 338 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 337 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mydesert-2022/mydesert-2022-08-15T07:18:39.450325-07:00.jpg">
+  <img src="https://archive.org/download/mydesert-2022/mydesert-2022-08-15T07:18:39.450325-07:00.jpg"
+     alt="The Desert Sun at 2022-08-15 07:18:41-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mydesert-2022/mydesert-2022-08-15T07:18:39.450325-07:00.jpg">August 15 at 7:18 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mydesert-2022/mydesert-2022-08-14T18:22:46.433426-07:00.jpg">
@@ -212,20 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/mydesert-2022/mydesert-2022-08-11T06:43:03.792057-07:00.jpg">August 11 at 6:43 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/mydesert-2022/mydesert-2022-08-10T17:54:04.864421-07:00.jpg">
-  <img src="https://archive.org/download/mydesert-2022/mydesert-2022-08-10T17:54:04.864421-07:00.jpg"
-     alt="The Desert Sun at 2022-08-10 17:54:06-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mydesert-2022/mydesert-2022-08-10T17:54:04.864421-07:00.jpg">August 10 at 5:54 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 323 hyperlink lists with the Internet Archive.
+The archiving routine has saved 324 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 15 at 7:18 AM](https://archive.org/download/mydesert-2022/mydesert-2022-08-15T07:18:39.450325-07:00.hyperlinks.json) |
 | [August 14 at 6:22 PM](https://archive.org/download/mydesert-2022/mydesert-2022-08-14T18:22:46.433426-07:00.hyperlinks.json) |
 | [August 14 at 12:50 PM](https://archive.org/download/mydesert-2022/mydesert-2022-08-14T12:50:50.420034-07:00.hyperlinks.json) |
 | [August 14 at 6:50 AM](https://archive.org/download/mydesert-2022/mydesert-2022-08-14T06:50:08.592286-07:00.hyperlinks.json) |
@@ -325,12 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 6:23 AM](https://archive.org/download/mydesert-2022/mydesert-2022-08-12T06:23:47.176795-07:00.hyperlinks.json) |
 | [August 12 at 2:20 AM](https://archive.org/download/mydesert-2022/mydesert-2022-08-12T02:20:05.764639-07:00.hyperlinks.json) |
 | [August 11 at 6:43 AM](https://archive.org/download/mydesert-2022/mydesert-2022-08-11T06:43:03.792057-07:00.hyperlinks.json) |
-| [August 10 at 5:54 PM](https://archive.org/download/mydesert-2022/mydesert-2022-08-10T17:54:04.864421-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 329 accessibility trees with the Internet Archive.
+The archiving routine has saved 330 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 15 at 7:18 AM](https://archive.org/download/mydesert-2022/mydesert-2022-08-15T07:18:39.450325-07:00.accessibility.json) |
 | [August 14 at 6:22 PM](https://archive.org/download/mydesert-2022/mydesert-2022-08-14T18:22:46.433426-07:00.accessibility.json) |
 | [August 14 at 12:50 PM](https://archive.org/download/mydesert-2022/mydesert-2022-08-14T12:50:50.420034-07:00.accessibility.json) |
 | [August 14 at 6:50 AM](https://archive.org/download/mydesert-2022/mydesert-2022-08-14T06:50:08.592286-07:00.accessibility.json) |
@@ -430,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 12:11 PM](https://archive.org/download/mydesert-2022/mydesert-2022-08-12T12:11:36.423096-07:00.accessibility.json) |
 | [August 12 at 6:23 AM](https://archive.org/download/mydesert-2022/mydesert-2022-08-12T06:23:47.176795-07:00.accessibility.json) |
 | [August 12 at 2:20 AM](https://archive.org/download/mydesert-2022/mydesert-2022-08-12T02:20:05.764639-07:00.accessibility.json) |
-| [August 11 at 12:41 PM](https://archive.org/download/mydesert-2022/mydesert-2022-08-11T12:41:39.532587-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 66 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 67 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 15 at 7:18 AM](https://archive.org/download/mydesert-2022/mydesert-2022-08-15T07:18:39.450325-07:00.lighthouse.json) |
 | [August 14 at 6:22 PM](https://archive.org/download/mydesert-2022/mydesert-2022-08-14T18:22:46.433426-07:00.lighthouse.json) |
 | [August 14 at 12:50 PM](https://archive.org/download/mydesert-2022/mydesert-2022-08-14T12:50:50.420034-07:00.lighthouse.json) |
 | [August 14 at 6:50 AM](https://archive.org/download/mydesert-2022/mydesert-2022-08-14T06:50:08.592286-07:00.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 12 at 12:11 PM](https://archive.org/download/mydesert-2022/mydesert-2022-08-12T12:11:36.423096-07:00.lighthouse.json) |
 | [August 12 at 6:23 AM](https://archive.org/download/mydesert-2022/mydesert-2022-08-12T06:23:47.176795-07:00.lighthouse.json) |
 | [August 12 at 2:20 AM](https://archive.org/download/mydesert-2022/mydesert-2022-08-12T02:20:05.764639-07:00.lighthouse.json) |
-| [August 11 at 12:41 PM](https://archive.org/download/mydesert-2022/mydesert-2022-08-11T12:41:39.532587-07:00.lighthouse.json) |
 
 
 

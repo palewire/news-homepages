@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 140 screenshots with the Internet Archive.
+The archiving routine has saved 141 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 140 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rfi-2022/rfi-2022-08-15T16:27:07.260348+02:00.jpg">
+  <img src="https://archive.org/download/rfi-2022/rfi-2022-08-15T16:27:07.260348+02:00.jpg"
+     alt="RFI at 2022-08-15 16:27:09+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rfi-2022/rfi-2022-08-15T16:27:07.260348+02:00.jpg">August 15 at 4:27 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rfi-2022/rfi-2022-08-15T10:13:23.104787+02:00.jpg">
@@ -212,20 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/rfi-2022/rfi-2022-08-12T11:25:17.329211+02:00.jpg">August 12 at 11:25 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/rfi-2022/rfi-2022-08-11T15:49:50.676365+02:00.jpg">
-  <img src="https://archive.org/download/rfi-2022/rfi-2022-08-11T15:49:50.676365+02:00.jpg"
-     alt="RFI at 2022-08-11 15:49:51+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rfi-2022/rfi-2022-08-11T15:49:50.676365+02:00.jpg">August 11 at 3:49 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 140 hyperlink lists with the Internet Archive.
+The archiving routine has saved 141 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 15 at 4:27 PM](https://archive.org/download/rfi-2022/rfi-2022-08-15T16:27:07.260348+02:00.hyperlinks.json) |
 | [August 15 at 10:13 AM](https://archive.org/download/rfi-2022/rfi-2022-08-15T10:13:23.104787+02:00.hyperlinks.json) |
 | [August 15 at 3:29 AM](https://archive.org/download/rfi-2022/rfi-2022-08-15T03:29:34.241048+02:00.hyperlinks.json) |
 | [August 14 at 3:57 PM](https://archive.org/download/rfi-2022/rfi-2022-08-14T15:57:31.433748+02:00.hyperlinks.json) |
@@ -325,12 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 13 at 10:10 AM](https://archive.org/download/rfi-2022/rfi-2022-08-13T10:10:20.892265+02:00.hyperlinks.json) |
 | [August 13 at 2:49 AM](https://archive.org/download/rfi-2022/rfi-2022-08-13T02:49:29.338490+02:00.hyperlinks.json) |
 | [August 12 at 3:31 PM](https://archive.org/download/rfi-2022/rfi-2022-08-12T15:30:56.972905+02:00.hyperlinks.json) |
-| [August 12 at 12:20 PM](https://archive.org/download/rfi-2022/rfi-2022-08-12T12:20:33.354067+02:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 140 accessibility trees with the Internet Archive.
+The archiving routine has saved 141 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 15 at 4:27 PM](https://archive.org/download/rfi-2022/rfi-2022-08-15T16:27:07.260348+02:00.accessibility.json) |
 | [August 15 at 10:13 AM](https://archive.org/download/rfi-2022/rfi-2022-08-15T10:13:23.104787+02:00.accessibility.json) |
 | [August 15 at 3:29 AM](https://archive.org/download/rfi-2022/rfi-2022-08-15T03:29:34.241048+02:00.accessibility.json) |
 | [August 14 at 3:57 PM](https://archive.org/download/rfi-2022/rfi-2022-08-14T15:57:31.433748+02:00.accessibility.json) |
@@ -430,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 13 at 10:10 AM](https://archive.org/download/rfi-2022/rfi-2022-08-13T10:10:20.892265+02:00.accessibility.json) |
 | [August 13 at 2:49 AM](https://archive.org/download/rfi-2022/rfi-2022-08-13T02:49:29.338490+02:00.accessibility.json) |
 | [August 12 at 3:30 PM](https://archive.org/download/rfi-2022/rfi-2022-08-12T15:30:56.972905+02:00.accessibility.json) |
-| [August 12 at 12:20 PM](https://archive.org/download/rfi-2022/rfi-2022-08-12T12:20:33.354067+02:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 67 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 68 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 15 at 4:27 PM](https://archive.org/download/rfi-2022/rfi-2022-08-15T16:27:07.260348+02:00.lighthouse.json) |
 | [August 15 at 10:13 AM](https://archive.org/download/rfi-2022/rfi-2022-08-15T10:13:23.104787+02:00.lighthouse.json) |
 | [August 15 at 3:29 AM](https://archive.org/download/rfi-2022/rfi-2022-08-15T03:29:34.241048+02:00.lighthouse.json) |
 | [August 14 at 3:57 PM](https://archive.org/download/rfi-2022/rfi-2022-08-14T15:57:31.433748+02:00.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 13 at 10:10 AM](https://archive.org/download/rfi-2022/rfi-2022-08-13T10:10:20.892265+02:00.lighthouse.json) |
 | [August 13 at 2:49 AM](https://archive.org/download/rfi-2022/rfi-2022-08-13T02:49:29.338490+02:00.lighthouse.json) |
 | [August 12 at 3:31 PM](https://archive.org/download/rfi-2022/rfi-2022-08-12T15:30:56.972905+02:00.lighthouse.json) |
-| [August 12 at 12:20 PM](https://archive.org/download/rfi-2022/rfi-2022-08-12T12:20:33.354067+02:00.lighthouse.json) |
 
 
 

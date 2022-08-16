@@ -22,13 +22,31 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 2 screenshots with the Internet Archive.
+The archiving routine has saved 4 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-08-15T21:29:52.622892-04:00.jpg">
+  <img src="https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-08-15T21:29:52.622892-04:00.jpg"
+     alt="All in Her Head at 2022-08-15 21:29:54-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-08-15T21:29:52.622892-04:00.jpg">August 15 at 9:29 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-08-15T10:11:07.160110-04:00.jpg">
+  <img src="https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-08-15T10:11:07.160110-04:00.jpg"
+     alt="All in Her Head at 2022-08-15 10:11:08-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-08-15T10:11:07.160110-04:00.jpg">August 15 at 10:11 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-08-14T21:14:22.714291-04:00.jpg">
@@ -52,7 +70,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 2 hyperlink lists with the Internet Archive.
+The archiving routine has saved 4 hyperlink lists with the Internet Archive.
 
 
 
@@ -60,13 +78,15 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 15 at 9:29 PM](https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-08-15T21:29:52.622892-04:00.hyperlinks.json) |
+| [August 15 at 10:11 AM](https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-08-15T10:11:07.160110-04:00.hyperlinks.json) |
 | [August 14 at 9:14 PM](https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-08-14T21:14:22.714291-04:00.hyperlinks.json) |
 | [August 14 at 4:19 PM](https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-08-14T16:18:54.389275-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 2 accessibility trees with the Internet Archive.
+The archiving routine has saved 4 accessibility trees with the Internet Archive.
 
 
 
@@ -74,6 +94,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 15 at 9:29 PM](https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-08-15T21:29:52.622892-04:00.accessibility.json) |
+| [August 15 at 10:11 AM](https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-08-15T10:11:07.160110-04:00.accessibility.json) |
 | [August 14 at 9:14 PM](https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-08-14T21:14:22.714291-04:00.accessibility.json) |
 | [August 14 at 4:19 PM](https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-08-14T16:18:54.389275-04:00.accessibility.json) |
 
@@ -81,7 +103,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 2 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 4 Lighthouse audits with the Internet Archive.
 
 
 
@@ -89,6 +111,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 15 at 9:29 PM](https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-08-15T21:29:52.622892-04:00.lighthouse.json) |
+| [August 15 at 10:11 AM](https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-08-15T10:11:07.160110-04:00.lighthouse.json) |
 | [August 14 at 9:14 PM](https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-08-14T21:14:22.714291-04:00.lighthouse.json) |
 | [August 14 at 4:19 PM](https://archive.org/download/jessicavalenti-2022/jessicavalenti-2022-08-14T16:18:54.389275-04:00.lighthouse.json) |
 

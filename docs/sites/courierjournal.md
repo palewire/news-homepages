@@ -22,13 +22,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 29 screenshots with the Internet Archive.
+The archiving routine has saved 30 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/courierjournal-2022/courierjournal-2022-08-15T15:33:26.727400-04:00.jpg">
+  <img src="https://archive.org/download/courierjournal-2022/courierjournal-2022-08-15T15:33:26.727400-04:00.jpg"
+     alt="Louisville Courier-Journal at 2022-08-15 15:33:28-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/courierjournal-2022/courierjournal-2022-08-15T15:33:26.727400-04:00.jpg">August 15 at 3:33 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/courierjournal-2022/courierjournal-2022-08-14T23:11:57.074710-04:00.jpg">
@@ -129,27 +138,102 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/courierjournal-2022/courierjournal-2022-08-09T22:35:48.288738-04:00.jpg">August 9 at 10:35 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/courierjournal-2022/courierjournal-2022-08-09T10:37:25.773894-04:00.jpg">
-  <img src="https://archive.org/download/courierjournal-2022/courierjournal-2022-08-09T10:37:25.773894-04:00.jpg"
-     alt="Louisville Courier-Journal at 2022-08-09 10:37:27-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/courierjournal-2022/courierjournal-2022-08-09T10:37:25.773894-04:00.jpg">August 9 at 10:37 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 30 hyperlink lists with the Internet Archive.
+The archiving routine has saved 31 hyperlink lists with the Internet Archive.
 
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specHyperlinks = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/courierjournal.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 15 at 3:33 PM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-15T15:33:26.727400-04:00.hyperlinks.json) |
 | [August 14 at 11:12 PM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-14T23:11:57.074710-04:00.hyperlinks.json) |
 | [August 14 at 1:01 PM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-14T13:01:09.864151-04:00.hyperlinks.json) |
 | [August 14 at 1:04 AM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-14T01:04:15.916683-04:00.hyperlinks.json) |
@@ -159,12 +243,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 5:32 AM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-12T05:32:50.300967-04:00.hyperlinks.json) |
 | [August 11 at 10:03 PM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-11T22:03:41.935353-04:00.hyperlinks.json) |
 | [August 11 at 1:05 PM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-11T13:05:12.571552-04:00.hyperlinks.json) |
-| [August 10 at 10:25 PM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-10T22:25:34.872016-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 31 accessibility trees with the Internet Archive.
+The archiving routine has saved 32 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -255,6 +338,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 15 at 3:33 PM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-15T15:33:26.727400-04:00.accessibility.json) |
 | [August 14 at 11:12 PM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-14T23:11:57.074710-04:00.accessibility.json) |
 | [August 14 at 1:01 PM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-14T13:01:09.864151-04:00.accessibility.json) |
 | [August 14 at 1:04 AM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-14T01:04:15.916683-04:00.accessibility.json) |
@@ -264,13 +348,12 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 5:32 AM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-12T05:32:50.300967-04:00.accessibility.json) |
 | [August 11 at 10:03 PM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-11T22:03:41.935353-04:00.accessibility.json) |
 | [August 11 at 1:05 PM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-11T13:05:12.571552-04:00.accessibility.json) |
-| [August 10 at 10:25 PM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-10T22:25:34.872016-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 31 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -361,6 +444,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 15 at 3:33 PM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-15T15:33:26.727400-04:00.lighthouse.json) |
 | [August 14 at 11:12 PM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-14T23:11:57.074710-04:00.lighthouse.json) |
 | [August 14 at 1:01 PM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-14T13:01:09.864151-04:00.lighthouse.json) |
 | [August 14 at 1:04 AM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-14T01:04:15.916683-04:00.lighthouse.json) |
@@ -370,7 +454,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 12 at 5:32 AM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-12T05:32:50.300967-04:00.lighthouse.json) |
 | [August 11 at 10:03 PM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-11T22:03:41.935353-04:00.lighthouse.json) |
 | [August 11 at 1:05 PM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-11T13:05:12.571552-04:00.lighthouse.json) |
-| [August 10 at 10:25 PM](https://archive.org/download/courierjournal-2022/courierjournal-2022-08-10T22:25:34.872016-04:00.lighthouse.json) |
 
 
 

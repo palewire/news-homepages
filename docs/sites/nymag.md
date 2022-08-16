@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 88 screenshots with the Internet Archive.
+The archiving routine has saved 89 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 88 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nymag-2022/nymag-2022-08-15T10:23:17.139676-04:00.jpg">
+  <img src="https://archive.org/download/nymag-2022/nymag-2022-08-15T10:23:17.139676-04:00.jpg"
+     alt="New York at 2022-08-15 10:23:18-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nymag-2022/nymag-2022-08-15T10:23:17.139676-04:00.jpg">August 15 at 10:23 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nymag-2022/nymag-2022-08-14T21:25:19.654728-04:00.jpg">
@@ -212,20 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nymag-2022/nymag-2022-08-09T21:01:11.650512-04:00.jpg">August 9 at 9:01 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nymag-2022/nymag-2022-08-09T09:00:13.401975-04:00.jpg">
-  <img src="https://archive.org/download/nymag-2022/nymag-2022-08-09T09:00:13.401975-04:00.jpg"
-     alt="New York at 2022-08-09 09:00:17-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nymag-2022/nymag-2022-08-09T09:00:13.401975-04:00.jpg">August 9 at 9:00 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 84 hyperlink lists with the Internet Archive.
+The archiving routine has saved 85 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 15 at 10:23 AM](https://archive.org/download/nymag-2022/nymag-2022-08-15T10:23:17.139676-04:00.hyperlinks.json) |
 | [August 14 at 9:25 PM](https://archive.org/download/nymag-2022/nymag-2022-08-14T21:25:19.654728-04:00.hyperlinks.json) |
 | [August 14 at 9:53 AM](https://archive.org/download/nymag-2022/nymag-2022-08-14T09:53:37.210415-04:00.hyperlinks.json) |
 | [August 13 at 11:18 PM](https://archive.org/download/nymag-2022/nymag-2022-08-13T23:18:50.828701-04:00.hyperlinks.json) |
@@ -325,12 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 5:22 AM](https://archive.org/download/nymag-2022/nymag-2022-08-12T05:22:40.088026-04:00.hyperlinks.json) |
 | [August 11 at 9:45 AM](https://archive.org/download/nymag-2022/nymag-2022-08-11T09:45:39.883781-04:00.hyperlinks.json) |
 | [August 10 at 8:56 PM](https://archive.org/download/nymag-2022/nymag-2022-08-10T20:56:02.253489-04:00.hyperlinks.json) |
-| [August 10 at 9:14 AM](https://archive.org/download/nymag-2022/nymag-2022-08-10T09:13:52.872294-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 88 accessibility trees with the Internet Archive.
+The archiving routine has saved 89 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 15 at 10:23 AM](https://archive.org/download/nymag-2022/nymag-2022-08-15T10:23:17.139676-04:00.accessibility.json) |
 | [August 14 at 9:25 PM](https://archive.org/download/nymag-2022/nymag-2022-08-14T21:25:19.654728-04:00.accessibility.json) |
 | [August 14 at 9:53 AM](https://archive.org/download/nymag-2022/nymag-2022-08-14T09:53:37.210415-04:00.accessibility.json) |
 | [August 13 at 11:18 PM](https://archive.org/download/nymag-2022/nymag-2022-08-13T23:18:50.828701-04:00.accessibility.json) |
@@ -430,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 5:22 AM](https://archive.org/download/nymag-2022/nymag-2022-08-12T05:22:40.088026-04:00.accessibility.json) |
 | [August 11 at 9:45 AM](https://archive.org/download/nymag-2022/nymag-2022-08-11T09:45:39.883781-04:00.accessibility.json) |
 | [August 10 at 8:56 PM](https://archive.org/download/nymag-2022/nymag-2022-08-10T20:56:02.253489-04:00.accessibility.json) |
-| [August 10 at 9:14 AM](https://archive.org/download/nymag-2022/nymag-2022-08-10T09:13:52.872294-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 45 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 46 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 15 at 10:23 AM](https://archive.org/download/nymag-2022/nymag-2022-08-15T10:23:17.139676-04:00.lighthouse.json) |
 | [August 14 at 9:25 PM](https://archive.org/download/nymag-2022/nymag-2022-08-14T21:25:19.654728-04:00.lighthouse.json) |
 | [August 14 at 9:53 AM](https://archive.org/download/nymag-2022/nymag-2022-08-14T09:53:37.210415-04:00.lighthouse.json) |
 | [August 13 at 11:18 PM](https://archive.org/download/nymag-2022/nymag-2022-08-13T23:18:50.828701-04:00.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 12 at 5:22 AM](https://archive.org/download/nymag-2022/nymag-2022-08-12T05:22:40.088026-04:00.lighthouse.json) |
 | [August 11 at 9:45 AM](https://archive.org/download/nymag-2022/nymag-2022-08-11T09:45:39.883781-04:00.lighthouse.json) |
 | [August 10 at 8:56 PM](https://archive.org/download/nymag-2022/nymag-2022-08-10T20:56:02.253489-04:00.lighthouse.json) |
-| [August 10 at 9:14 AM](https://archive.org/download/nymag-2022/nymag-2022-08-10T09:13:52.872294-04:00.lighthouse.json) |
 
 
 

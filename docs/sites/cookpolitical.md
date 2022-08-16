@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 86 screenshots with the Internet Archive.
+The archiving routine has saved 87 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 86 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-08-15T21:20:11.059562-04:00.jpg">
+  <img src="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-08-15T21:20:11.059562-04:00.jpg"
+     alt="Cook Political Report at 2022-08-15 21:20:15-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-08-15T21:20:11.059562-04:00.jpg">August 15 at 9:20 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-08-15T09:53:34.438750-04:00.jpg">
@@ -212,20 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-08-10T08:55:45.630935-04:00.jpg">August 10 at 8:55 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-08-09T19:26:27.447881-04:00.jpg">
-  <img src="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-08-09T19:26:27.447881-04:00.jpg"
-     alt="Cook Political Report at 2022-08-09 19:26:30-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cookpolitical-2022/cookpolitical-2022-08-09T19:26:27.447881-04:00.jpg">August 9 at 7:26 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 86 hyperlink lists with the Internet Archive.
+The archiving routine has saved 87 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 15 at 9:20 PM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-08-15T21:20:11.059562-04:00.hyperlinks.json) |
 | [August 15 at 9:53 AM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-08-15T09:53:34.438750-04:00.hyperlinks.json) |
 | [August 14 at 9:05 PM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-08-14T21:05:24.487166-04:00.hyperlinks.json) |
 | [August 14 at 9:29 AM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-08-14T09:29:01.748112-04:00.hyperlinks.json) |
@@ -325,12 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 7:41 AM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-08-12T07:40:58.919124-04:00.hyperlinks.json) |
 | [August 11 at 7:23 PM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-08-11T19:23:10.703127-04:00.hyperlinks.json) |
 | [August 11 at 7:37 AM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-08-11T07:37:47.354578-04:00.hyperlinks.json) |
-| [August 10 at 8:41 PM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-08-10T20:41:29.087913-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 86 accessibility trees with the Internet Archive.
+The archiving routine has saved 87 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 15 at 9:20 PM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-08-15T21:20:11.059562-04:00.accessibility.json) |
 | [August 15 at 9:53 AM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-08-15T09:53:34.438750-04:00.accessibility.json) |
 | [August 14 at 9:05 PM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-08-14T21:05:24.487166-04:00.accessibility.json) |
 | [August 14 at 9:29 AM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-08-14T09:29:01.748112-04:00.accessibility.json) |
@@ -430,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 7:41 AM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-08-12T07:40:58.919124-04:00.accessibility.json) |
 | [August 11 at 7:23 PM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-08-11T19:23:10.703127-04:00.accessibility.json) |
 | [August 11 at 7:37 AM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-08-11T07:37:47.354578-04:00.accessibility.json) |
-| [August 10 at 8:41 PM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-08-10T20:41:29.087913-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 46 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 47 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 15 at 9:20 PM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-08-15T21:20:11.059562-04:00.lighthouse.json) |
 | [August 15 at 9:53 AM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-08-15T09:53:34.438750-04:00.lighthouse.json) |
 | [August 14 at 9:05 PM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-08-14T21:05:24.487166-04:00.lighthouse.json) |
 | [August 14 at 9:29 AM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-08-14T09:29:01.748112-04:00.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 12 at 7:41 AM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-08-12T07:40:58.919124-04:00.lighthouse.json) |
 | [August 11 at 7:23 PM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-08-11T19:23:10.703127-04:00.lighthouse.json) |
 | [August 11 at 7:37 AM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-08-11T07:37:47.354578-04:00.lighthouse.json) |
-| [August 10 at 8:41 PM](https://archive.org/download/cookpolitical-2022/cookpolitical-2022-08-10T20:41:29.087913-04:00.lighthouse.json) |
 
 
 
