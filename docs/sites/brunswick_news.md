@@ -225,7 +225,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 54 hyperlink lists with the Internet Archive.
+The archiving routine has saved 55 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 16 at 9:29 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-16T09:29:23.461463-04:00.hyperlinks.json) |
 | [August 15 at 9:17 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-15T21:16:51.395706-04:00.hyperlinks.json) |
 | [August 15 at 9:50 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-15T09:50:27.251041-04:00.hyperlinks.json) |
 | [August 14 at 9:03 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-14T21:03:06.976879-04:00.hyperlinks.json) |
@@ -325,12 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 8:28 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-12T20:28:00.809443-04:00.hyperlinks.json) |
 | [August 12 at 7:38 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-12T07:38:20.700275-04:00.hyperlinks.json) |
 | [August 11 at 7:21 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-11T19:20:58.588858-04:00.hyperlinks.json) |
-| [August 11 at 7:36 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-11T07:36:32.058539-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 53 accessibility trees with the Internet Archive.
+The archiving routine has saved 54 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 16 at 9:29 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-16T09:29:23.461463-04:00.accessibility.json) |
 | [August 15 at 9:17 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-15T21:16:51.395706-04:00.accessibility.json) |
 | [August 15 at 9:50 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-15T09:50:27.251041-04:00.accessibility.json) |
 | [August 14 at 9:03 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-14T21:03:06.976879-04:00.accessibility.json) |
@@ -430,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 8:28 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-12T20:28:00.809443-04:00.accessibility.json) |
 | [August 12 at 7:38 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-12T07:38:20.700275-04:00.accessibility.json) |
 | [August 11 at 7:21 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-11T19:20:58.588858-04:00.accessibility.json) |
-| [August 11 at 7:36 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-11T07:36:32.058539-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 47 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 48 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 16 at 9:29 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-16T09:29:23.461463-04:00.lighthouse.json) |
 | [August 15 at 9:17 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-15T21:16:51.395706-04:00.lighthouse.json) |
 | [August 15 at 9:50 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-15T09:50:27.251041-04:00.lighthouse.json) |
 | [August 14 at 9:03 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-14T21:03:06.976879-04:00.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 12 at 8:28 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-12T20:28:00.809443-04:00.lighthouse.json) |
 | [August 12 at 7:38 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-12T07:38:20.700275-04:00.lighthouse.json) |
 | [August 11 at 7:21 PM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-11T19:20:58.588858-04:00.lighthouse.json) |
-| [August 11 at 7:36 AM](https://archive.org/download/brunswick_news-2022/brunswick_news-2022-08-11T07:36:32.058539-04:00.lighthouse.json) |
 
 
 

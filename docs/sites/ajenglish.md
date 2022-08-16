@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 122 screenshots with the Internet Archive.
+The archiving routine has saved 123 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 122 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-08-16T16:25:41.399084+03:00.jpg">
+  <img src="https://archive.org/download/ajenglish-2022/ajenglish-2022-08-16T16:25:41.399084+03:00.jpg"
+     alt="Al Jazeera English at 2022-08-16 16:25:42+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-08-16T16:25:41.399084+03:00.jpg">August 16 at 4:25 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-08-16T04:12:44.309417+03:00.jpg">
@@ -212,20 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-08-11T03:36:03.978400+03:00.jpg">August 11 at 3:36 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-08-10T15:50:02.273239+03:00.jpg">
-  <img src="https://archive.org/download/ajenglish-2022/ajenglish-2022-08-10T15:50:02.273239+03:00.jpg"
-     alt="Al Jazeera English at 2022-08-10 15:50:06+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ajenglish-2022/ajenglish-2022-08-10T15:50:02.273239+03:00.jpg">August 10 at 3:50 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 120 hyperlink lists with the Internet Archive.
+The archiving routine has saved 121 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 16 at 4:25 PM](https://archive.org/download/ajenglish-2022/ajenglish-2022-08-16T16:25:41.399084+03:00.hyperlinks.json) |
 | [August 16 at 4:12 AM](https://archive.org/download/ajenglish-2022/ajenglish-2022-08-16T04:12:44.309417+03:00.hyperlinks.json) |
 | [August 15 at 4:47 PM](https://archive.org/download/ajenglish-2022/ajenglish-2022-08-15T16:46:55.007064+03:00.hyperlinks.json) |
 | [August 15 at 3:58 AM](https://archive.org/download/ajenglish-2022/ajenglish-2022-08-15T03:58:05.678595+03:00.hyperlinks.json) |
@@ -325,12 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 13 at 3:24 AM](https://archive.org/download/ajenglish-2022/ajenglish-2022-08-13T03:23:57.938591+03:00.hyperlinks.json) |
 | [August 12 at 2:34 PM](https://archive.org/download/ajenglish-2022/ajenglish-2022-08-12T14:34:53.384565+03:00.hyperlinks.json) |
 | [August 12 at 2:17 AM](https://archive.org/download/ajenglish-2022/ajenglish-2022-08-12T02:17:07.074611+03:00.hyperlinks.json) |
-| [August 11 at 2:31 PM](https://archive.org/download/ajenglish-2022/ajenglish-2022-08-11T14:31:32.157571+03:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 122 accessibility trees with the Internet Archive.
+The archiving routine has saved 123 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 16 at 4:25 PM](https://archive.org/download/ajenglish-2022/ajenglish-2022-08-16T16:25:41.399084+03:00.accessibility.json) |
 | [August 16 at 4:12 AM](https://archive.org/download/ajenglish-2022/ajenglish-2022-08-16T04:12:44.309417+03:00.accessibility.json) |
 | [August 15 at 4:46 PM](https://archive.org/download/ajenglish-2022/ajenglish-2022-08-15T16:46:55.007064+03:00.accessibility.json) |
 | [August 15 at 3:58 AM](https://archive.org/download/ajenglish-2022/ajenglish-2022-08-15T03:58:05.678595+03:00.accessibility.json) |
@@ -430,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 13 at 3:24 AM](https://archive.org/download/ajenglish-2022/ajenglish-2022-08-13T03:23:57.938591+03:00.accessibility.json) |
 | [August 12 at 2:34 PM](https://archive.org/download/ajenglish-2022/ajenglish-2022-08-12T14:34:53.384565+03:00.accessibility.json) |
 | [August 12 at 2:17 AM](https://archive.org/download/ajenglish-2022/ajenglish-2022-08-12T02:17:07.074611+03:00.accessibility.json) |
-| [August 11 at 2:31 PM](https://archive.org/download/ajenglish-2022/ajenglish-2022-08-11T14:31:32.157571+03:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 47 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 48 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 16 at 4:25 PM](https://archive.org/download/ajenglish-2022/ajenglish-2022-08-16T16:25:41.399084+03:00.lighthouse.json) |
 | [August 16 at 4:12 AM](https://archive.org/download/ajenglish-2022/ajenglish-2022-08-16T04:12:44.309417+03:00.lighthouse.json) |
 | [August 15 at 4:47 PM](https://archive.org/download/ajenglish-2022/ajenglish-2022-08-15T16:46:55.007064+03:00.lighthouse.json) |
 | [August 15 at 3:58 AM](https://archive.org/download/ajenglish-2022/ajenglish-2022-08-15T03:58:05.678595+03:00.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 13 at 3:24 AM](https://archive.org/download/ajenglish-2022/ajenglish-2022-08-13T03:23:57.938591+03:00.lighthouse.json) |
 | [August 12 at 2:35 PM](https://archive.org/download/ajenglish-2022/ajenglish-2022-08-12T14:34:53.384565+03:00.lighthouse.json) |
 | [August 12 at 2:17 AM](https://archive.org/download/ajenglish-2022/ajenglish-2022-08-12T02:17:07.074611+03:00.lighthouse.json) |
-| [August 11 at 2:31 PM](https://archive.org/download/ajenglish-2022/ajenglish-2022-08-11T14:31:32.157571+03:00.lighthouse.json) |
 
 
 

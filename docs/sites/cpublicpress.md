@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 236 screenshots with the Internet Archive.
+The archiving routine has saved 237 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 236 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-16T09:33:56.910549-04:00.jpg">
+  <img src="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-16T09:33:56.910549-04:00.jpg"
+     alt="Carolina Public Press at 2022-08-16 09:33:59-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-16T09:33:56.910549-04:00.jpg">August 16 at 9:33 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-15T21:20:47.963479-04:00.jpg">
@@ -212,20 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-10T20:41:34.285226-04:00.jpg">August 10 at 8:41 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-10T08:55:39.426996-04:00.jpg">
-  <img src="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-10T08:55:39.426996-04:00.jpg"
-     alt="Carolina Public Press at 2022-08-10 08:55:49-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-10T08:55:39.426996-04:00.jpg">August 10 at 8:55 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 230 hyperlink lists with the Internet Archive.
+The archiving routine has saved 231 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 16 at 9:34 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-16T09:33:56.910549-04:00.hyperlinks.json) |
 | [August 15 at 9:20 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-15T21:20:47.963479-04:00.hyperlinks.json) |
 | [August 15 at 9:54 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-15T09:54:14.321706-04:00.hyperlinks.json) |
 | [August 14 at 9:06 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-14T21:06:14.877100-04:00.hyperlinks.json) |
@@ -325,12 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 8:30 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-12T20:30:44.146139-04:00.hyperlinks.json) |
 | [August 12 at 7:41 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-12T07:40:59.957761-04:00.hyperlinks.json) |
 | [August 11 at 7:24 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-11T19:24:10.490132-04:00.hyperlinks.json) |
-| [August 11 at 7:38 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-11T07:38:15.025430-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 232 accessibility trees with the Internet Archive.
+The archiving routine has saved 233 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 16 at 9:34 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-16T09:33:56.910549-04:00.accessibility.json) |
 | [August 15 at 9:20 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-15T21:20:47.963479-04:00.accessibility.json) |
 | [August 15 at 9:54 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-15T09:54:14.321706-04:00.accessibility.json) |
 | [August 14 at 9:06 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-14T21:06:14.877100-04:00.accessibility.json) |
@@ -430,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 8:30 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-12T20:30:44.146139-04:00.accessibility.json) |
 | [August 12 at 7:41 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-12T07:40:59.957761-04:00.accessibility.json) |
 | [August 11 at 7:24 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-11T19:24:10.490132-04:00.accessibility.json) |
-| [August 11 at 7:38 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-11T07:38:15.025430-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 47 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 48 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 16 at 9:34 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-16T09:33:56.910549-04:00.lighthouse.json) |
 | [August 15 at 9:21 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-15T21:20:47.963479-04:00.lighthouse.json) |
 | [August 15 at 9:54 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-15T09:54:14.321706-04:00.lighthouse.json) |
 | [August 14 at 9:06 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-14T21:06:14.877100-04:00.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 12 at 8:31 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-12T20:30:44.146139-04:00.lighthouse.json) |
 | [August 12 at 7:41 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-12T07:40:59.957761-04:00.lighthouse.json) |
 | [August 11 at 7:24 PM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-11T19:24:10.490132-04:00.lighthouse.json) |
-| [August 11 at 7:38 AM](https://archive.org/download/cpublicpress-2022/cpublicpress-2022-08-11T07:38:15.025430-04:00.lighthouse.json) |
 
 
 

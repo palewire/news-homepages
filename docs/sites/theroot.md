@@ -22,13 +22,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 27 screenshots with the Internet Archive.
+The archiving routine has saved 28 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theroot-2022/theroot-2022-08-16T02:20:42.025665-04:00.jpg">
+  <img src="https://archive.org/download/theroot-2022/theroot-2022-08-16T02:20:42.025665-04:00.jpg"
+     alt="Root at 2022-08-16 02:20:43-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theroot-2022/theroot-2022-08-16T02:20:42.025665-04:00.jpg">August 16 at 2:20 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theroot-2022/theroot-2022-08-15T15:38:42.535357-04:00.jpg">
@@ -129,20 +138,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/theroot-2022/theroot-2022-08-10T13:49:55.100692-04:00.jpg">August 10 at 1:49 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/theroot-2022/theroot-2022-08-09T22:39:12.092608-04:00.jpg">
-  <img src="https://archive.org/download/theroot-2022/theroot-2022-08-09T22:39:12.092608-04:00.jpg"
-     alt="Root at 2022-08-09 22:39:14-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theroot-2022/theroot-2022-08-09T22:39:12.092608-04:00.jpg">August 9 at 10:39 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 16 hyperlink lists with the Internet Archive.
+The archiving routine has saved 17 hyperlink lists with the Internet Archive.
 
 
 
@@ -150,6 +150,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 16 at 2:20 AM](https://archive.org/download/theroot-2022/theroot-2022-08-16T02:20:42.025665-04:00.hyperlinks.json) |
 | [August 15 at 3:38 PM](https://archive.org/download/theroot-2022/theroot-2022-08-15T15:38:42.535357-04:00.hyperlinks.json) |
 | [August 12 at 10:18 PM](https://archive.org/download/theroot-2022/theroot-2022-08-12T22:18:10.136016-04:00.hyperlinks.json) |
 | [August 12 at 12:25 PM](https://archive.org/download/theroot-2022/theroot-2022-08-12T12:25:28.916648-04:00.hyperlinks.json) |
@@ -159,12 +160,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 8 at 10:23 AM](https://archive.org/download/theroot-2022/theroot-2022-08-08T10:23:02.604969-04:00.hyperlinks.json) |
 | [August 7 at 10:35 PM](https://archive.org/download/theroot-2022/theroot-2022-08-07T22:35:05.723014-04:00.hyperlinks.json) |
 | [August 7 at 10:07 AM](https://archive.org/download/theroot-2022/theroot-2022-08-07T10:07:25.247520-04:00.hyperlinks.json) |
-| [August 6 at 9:57 AM](https://archive.org/download/theroot-2022/theroot-2022-08-06T09:57:06.402886-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 21 accessibility trees with the Internet Archive.
+The archiving routine has saved 22 accessibility trees with the Internet Archive.
 
 
 
@@ -172,6 +172,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 16 at 2:20 AM](https://archive.org/download/theroot-2022/theroot-2022-08-16T02:20:42.025665-04:00.accessibility.json) |
 | [August 14 at 11:15 PM](https://archive.org/download/theroot-2022/theroot-2022-08-14T23:15:16.818080-04:00.accessibility.json) |
 | [August 14 at 1:05 PM](https://archive.org/download/theroot-2022/theroot-2022-08-14T13:05:31.990023-04:00.accessibility.json) |
 | [August 14 at 1:07 AM](https://archive.org/download/theroot-2022/theroot-2022-08-14T01:07:51.129177-04:00.accessibility.json) |
@@ -181,13 +182,12 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 5:35 AM](https://archive.org/download/theroot-2022/theroot-2022-08-12T05:35:38.642003-04:00.accessibility.json) |
 | [August 11 at 10:07 PM](https://archive.org/download/theroot-2022/theroot-2022-08-11T22:07:11.706723-04:00.accessibility.json) |
 | [August 11 at 1:08 PM](https://archive.org/download/theroot-2022/theroot-2022-08-11T13:08:13.670410-04:00.accessibility.json) |
-| [August 10 at 10:28 PM](https://archive.org/download/theroot-2022/theroot-2022-08-10T22:28:24.334858-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 28 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 29 Lighthouse audits with the Internet Archive.
 
 
 
@@ -195,6 +195,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 16 at 2:20 AM](https://archive.org/download/theroot-2022/theroot-2022-08-16T02:20:42.025665-04:00.lighthouse.json) |
 | [August 15 at 3:38 PM](https://archive.org/download/theroot-2022/theroot-2022-08-15T15:38:42.535357-04:00.lighthouse.json) |
 | [August 14 at 11:15 PM](https://archive.org/download/theroot-2022/theroot-2022-08-14T23:15:16.818080-04:00.lighthouse.json) |
 | [August 14 at 1:05 PM](https://archive.org/download/theroot-2022/theroot-2022-08-14T13:05:31.990023-04:00.lighthouse.json) |
@@ -204,7 +205,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 12 at 12:25 PM](https://archive.org/download/theroot-2022/theroot-2022-08-12T12:25:28.916648-04:00.lighthouse.json) |
 | [August 12 at 5:35 AM](https://archive.org/download/theroot-2022/theroot-2022-08-12T05:35:38.642003-04:00.lighthouse.json) |
 | [August 11 at 10:07 PM](https://archive.org/download/theroot-2022/theroot-2022-08-11T22:07:11.706723-04:00.lighthouse.json) |
-| [August 11 at 1:08 PM](https://archive.org/download/theroot-2022/theroot-2022-08-11T13:08:13.670410-04:00.lighthouse.json) |
 
 
 

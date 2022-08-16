@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 143 screenshots with the Internet Archive.
+The archiving routine has saved 145 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -114,6 +114,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/ajc-2022/ajc-2022-08-16T02:26:32.687082-04:00.jpg">
+  <img src="https://archive.org/download/ajc-2022/ajc-2022-08-16T02:26:32.687082-04:00.jpg"
+     alt="Atlanta Journal-Constitution at 2022-08-16 02:26:35-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ajc-2022/ajc-2022-08-16T02:26:32.687082-04:00.jpg">August 16 at 2:26 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ajc-2022/ajc-2022-08-16T02:09:25.540584-04:00.jpg">
+  <img src="https://archive.org/download/ajc-2022/ajc-2022-08-16T02:09:25.540584-04:00.jpg"
+     alt="Atlanta Journal-Constitution at 2022-08-16 02:09:31-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ajc-2022/ajc-2022-08-16T02:09:25.540584-04:00.jpg">August 16 at 2:09 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/ajc-2022/ajc-2022-08-15T16:53:40.209053-04:00.jpg">
   <img src="https://archive.org/download/ajc-2022/ajc-2022-08-15T16:53:40.209053-04:00.jpg"
      alt="Atlanta Journal-Constitution at 2022-08-15 16:53:43-04:00 local time"
@@ -203,29 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ajc-2022/ajc-2022-08-13T23:26:48.456232-04:00.jpg">August 13 at 11:26 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ajc-2022/ajc-2022-08-13T16:35:54.174406-04:00.jpg">
-  <img src="https://archive.org/download/ajc-2022/ajc-2022-08-13T16:35:54.174406-04:00.jpg"
-     alt="Atlanta Journal-Constitution at 2022-08-13 16:35:59-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ajc-2022/ajc-2022-08-13T16:35:54.174406-04:00.jpg">August 13 at 4:35 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ajc-2022/ajc-2022-08-12T23:33:08.385639-04:00.jpg">
-  <img src="https://archive.org/download/ajc-2022/ajc-2022-08-12T23:33:08.385639-04:00.jpg"
-     alt="Atlanta Journal-Constitution at 2022-08-12 23:33:13-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ajc-2022/ajc-2022-08-12T23:33:08.385639-04:00.jpg">August 12 at 11:33 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 145 hyperlink lists with the Internet Archive.
+The archiving routine has saved 147 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 16 at 2:26 AM](https://archive.org/download/ajc-2022/ajc-2022-08-16T02:26:32.687082-04:00.hyperlinks.json) |
+| [August 16 at 2:09 AM](https://archive.org/download/ajc-2022/ajc-2022-08-16T02:09:25.540584-04:00.hyperlinks.json) |
 | [August 15 at 4:53 PM](https://archive.org/download/ajc-2022/ajc-2022-08-15T16:53:40.209053-04:00.hyperlinks.json) |
 | [August 15 at 3:27 PM](https://archive.org/download/ajc-2022/ajc-2022-08-15T15:27:18.035454-04:00.hyperlinks.json) |
 | [August 15 at 10:38 AM](https://archive.org/download/ajc-2022/ajc-2022-08-15T10:37:59.889117-04:00.hyperlinks.json) |
@@ -324,13 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 14 at 3:53 PM](https://archive.org/download/ajc-2022/ajc-2022-08-14T15:53:39.016645-04:00.hyperlinks.json) |
 | [August 14 at 12:54 PM](https://archive.org/download/ajc-2022/ajc-2022-08-14T12:54:50.848961-04:00.hyperlinks.json) |
 | [August 14 at 12:53 PM](https://archive.org/download/ajc-2022/ajc-2022-08-14T12:53:36.820166-04:00.hyperlinks.json) |
-| [August 14 at 12:57 AM](https://archive.org/download/ajc-2022/ajc-2022-08-14T00:57:53.114869-04:00.hyperlinks.json) |
-| [August 13 at 11:26 PM](https://archive.org/download/ajc-2022/ajc-2022-08-13T23:26:48.456232-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 145 accessibility trees with the Internet Archive.
+The archiving routine has saved 147 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 16 at 2:26 AM](https://archive.org/download/ajc-2022/ajc-2022-08-16T02:26:32.687082-04:00.accessibility.json) |
+| [August 16 at 2:09 AM](https://archive.org/download/ajc-2022/ajc-2022-08-16T02:09:25.540584-04:00.accessibility.json) |
 | [August 15 at 4:53 PM](https://archive.org/download/ajc-2022/ajc-2022-08-15T16:53:40.209053-04:00.accessibility.json) |
 | [August 15 at 3:27 PM](https://archive.org/download/ajc-2022/ajc-2022-08-15T15:27:18.035454-04:00.accessibility.json) |
 | [August 15 at 10:38 AM](https://archive.org/download/ajc-2022/ajc-2022-08-15T10:37:59.889117-04:00.accessibility.json) |
@@ -429,14 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 14 at 3:53 PM](https://archive.org/download/ajc-2022/ajc-2022-08-14T15:53:39.016645-04:00.accessibility.json) |
 | [August 14 at 12:54 PM](https://archive.org/download/ajc-2022/ajc-2022-08-14T12:54:50.848961-04:00.accessibility.json) |
 | [August 14 at 12:53 PM](https://archive.org/download/ajc-2022/ajc-2022-08-14T12:53:36.820166-04:00.accessibility.json) |
-| [August 14 at 12:57 AM](https://archive.org/download/ajc-2022/ajc-2022-08-14T00:57:53.114869-04:00.accessibility.json) |
-| [August 13 at 11:26 PM](https://archive.org/download/ajc-2022/ajc-2022-08-13T23:26:48.456232-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 116 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 118 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 16 at 2:26 AM](https://archive.org/download/ajc-2022/ajc-2022-08-16T02:26:32.687082-04:00.lighthouse.json) |
+| [August 16 at 2:09 AM](https://archive.org/download/ajc-2022/ajc-2022-08-16T02:09:25.540584-04:00.lighthouse.json) |
 | [August 15 at 4:53 PM](https://archive.org/download/ajc-2022/ajc-2022-08-15T16:53:40.209053-04:00.lighthouse.json) |
 | [August 15 at 3:27 PM](https://archive.org/download/ajc-2022/ajc-2022-08-15T15:27:18.035454-04:00.lighthouse.json) |
 | [August 15 at 10:38 AM](https://archive.org/download/ajc-2022/ajc-2022-08-15T10:37:59.889117-04:00.lighthouse.json) |
@@ -535,8 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 14 at 3:53 PM](https://archive.org/download/ajc-2022/ajc-2022-08-14T15:53:39.016645-04:00.lighthouse.json) |
 | [August 14 at 12:54 PM](https://archive.org/download/ajc-2022/ajc-2022-08-14T12:54:50.848961-04:00.lighthouse.json) |
 | [August 14 at 12:53 PM](https://archive.org/download/ajc-2022/ajc-2022-08-14T12:53:36.820166-04:00.lighthouse.json) |
-| [August 14 at 12:57 AM](https://archive.org/download/ajc-2022/ajc-2022-08-14T00:57:53.114869-04:00.lighthouse.json) |
-| [August 13 at 11:26 PM](https://archive.org/download/ajc-2022/ajc-2022-08-13T23:26:48.456232-04:00.lighthouse.json) |
 
 
 

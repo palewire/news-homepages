@@ -225,7 +225,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 143 hyperlink lists with the Internet Archive.
+The archiving routine has saved 144 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 16 at 9:37 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-08-16T09:37:26.371288-04:00.hyperlinks.json) |
 | [August 15 at 9:24 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-08-15T21:24:17.848606-04:00.hyperlinks.json) |
 | [August 15 at 9:59 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-08-15T09:59:05.486484-04:00.hyperlinks.json) |
 | [August 14 at 9:10 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-08-14T21:10:24.387176-04:00.hyperlinks.json) |
@@ -325,12 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 8:34 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-08-12T20:34:13.432698-04:00.hyperlinks.json) |
 | [August 12 at 7:44 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-08-12T07:44:01.879835-04:00.hyperlinks.json) |
 | [August 11 at 7:27 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-08-11T19:27:44.406089-04:00.hyperlinks.json) |
-| [August 11 at 7:42 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-08-11T07:42:34.697583-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 143 accessibility trees with the Internet Archive.
+The archiving routine has saved 144 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 16 at 9:37 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-08-16T09:37:26.371288-04:00.accessibility.json) |
 | [August 15 at 9:24 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-08-15T21:24:17.848606-04:00.accessibility.json) |
 | [August 15 at 9:59 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-08-15T09:59:05.486484-04:00.accessibility.json) |
 | [August 14 at 9:10 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-08-14T21:10:24.387176-04:00.accessibility.json) |
@@ -430,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 8:34 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-08-12T20:34:13.432698-04:00.accessibility.json) |
 | [August 12 at 7:44 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-08-12T07:44:01.879835-04:00.accessibility.json) |
 | [August 11 at 7:27 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-08-11T19:27:44.406089-04:00.accessibility.json) |
-| [August 11 at 7:42 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-08-11T07:42:34.697583-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 47 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 48 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 16 at 9:37 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-08-16T09:37:26.371288-04:00.lighthouse.json) |
 | [August 15 at 9:24 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-08-15T21:24:17.848606-04:00.lighthouse.json) |
 | [August 15 at 9:59 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-08-15T09:59:05.486484-04:00.lighthouse.json) |
 | [August 14 at 9:10 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-08-14T21:10:24.387176-04:00.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 12 at 8:34 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-08-12T20:34:13.432698-04:00.lighthouse.json) |
 | [August 12 at 7:44 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-08-12T07:44:01.879835-04:00.lighthouse.json) |
 | [August 11 at 7:27 PM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-08-11T19:27:44.406089-04:00.lighthouse.json) |
-| [August 11 at 7:42 AM](https://archive.org/download/flphoenixnews-2022/flphoenixnews-2022-08-11T07:42:34.697583-04:00.lighthouse.json) |
 
 
 
