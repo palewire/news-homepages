@@ -137,21 +137,51 @@ def download_hyperlinks(handle):
 
 
 @cli.command()
-@click.argument("handle")
-def download_lighthouse(handle):
+@click.option("--site", "site", default=None)
+@click.option("--country", "country", default=None)
+@click.option("--language", "language", default=None)
+@click.option("--bundle", "bundle", default=None)
+def download_lighthouse(
+    site: str = None,
+    country: str = None,
+    language: str = None,
+    bundle: str = None,
+):
     """Download and parse the provided site's Lighthouse files."""
-    # Get the site data
-    site = utils.get_site(handle)
-
-    # Get all hyperlinks
+    # Get all lighthouse files
     lighthouse_df = utils.get_lighthouse_df()
 
+    # Get the data we want
+    if site:
+        data = utils.get_site(site)
+        slug = data["handle"].lower()
+        filtered_df = lighthouse_df[
+            lighthouse_df.handle.str.lower() == data["handle"].lower()
+        ]
+    elif country:
+        site_list = utils.get_sites_in_country(country)
+        slug = country.lower()
+        handle_list = [s["handle"].lower() for s in site_list]
+        filtered_df = lighthouse_df[lighthouse_df.handle.str.lower().isin(handle_list)]
+    elif language:
+        site_list = utils.get_sites_in_language(language)
+        slug = language.lower()
+        handle_list = [s["handle"].lower() for s in site_list]
+        filtered_df = lighthouse_df[lighthouse_df.handle.str.lower().isin(handle_list)]
+    elif bundle:
+        site_list = utils.get_sites_in_bundle(bundle)
+        slug = bundle.lower()
+        handle_list = [s["handle"].lower() for s in site_list]
+        filtered_df = lighthouse_df[lighthouse_df.handle.str.lower().isin(handle_list)]
+    else:
+        slug = "all"
+        filtered_df = lighthouse_df
+
     # Filter it down to files for the provided site
-    site_df = lighthouse_df[lighthouse_df.handle.str.lower() == site["handle"].lower()]
-    print(f"{len(site_df)} lighthouse files found")
+    print(f"{len(filtered_df)} lighthouse files found")
 
     # Read in the output file
-    output_path = utils.ANALYSIS_DIR / f"{handle.lower()}-lighthouse.csv"
+    output_path = utils.ANALYSIS_DIR / f"{slug}-lighthouse.csv"
     try:
         output_df = pd.read_csv(output_path)
         downloaded_files = set(output_df.file_url.unique())
@@ -160,7 +190,7 @@ def download_lighthouse(handle):
         downloaded_files = set()
 
     # See how many files we don't have yet
-    archived_files = set(site_df.url.unique())
+    archived_files = set(filtered_df.url.unique())
     missing_files = list(archived_files - downloaded_files)
     print(f"{len(missing_files)} files need to be download")
 
