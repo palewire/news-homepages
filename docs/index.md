@@ -30,7 +30,9 @@ bundles
 
 ## About
 
-The archive at [homepages.news](https://homepages.news) is an [open-source software project](github.com/palewire/news-homepages) managed by [Ben Welsh](https://palewi.re/who-is-ben-welsh/). Each day it gathers screenshots, accessiblity trees, hyperlink lists and Lighthouse audits from hundreds of news homepages around the world. The assets are archived in a permanent collection [at the Internet Archive](https://archive.org/details/news-homepages). The latest screenshots, analysis and data are published here, as well as on [Twitter](https://twitter.com/newshomepages), [Telegram](https://t.me/newshomepages) and [Discord](https://discord.gg/xkTMPMHM).
+The archive at [homepages.news](https://homepages.news) is an [open-source software project](github.com/palewire/news-homepages) managed by [Ben Welsh](https://palewi.re/who-is-ben-welsh/). Each day it gathers screenshots, accessibility trees, hyperlink lists and Lighthouse audits from hundreds of news homepages around the world.
+
+The assets are archived in a permanent collection [at the Internet Archive](https://archive.org/details/news-homepages). The latest screenshots, analysis and data are published here, as well as on [Twitter](https://twitter.com/newshomepages), [Telegram](https://t.me/newshomepages) and [Discord](https://discord.gg/xkTMPMHM).
 
 ## Contributing
 
