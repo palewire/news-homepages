@@ -3,7 +3,7 @@ name: "Archive a country"
 on:
   workflow_dispatch:
     inputs:
-      bundle:
+      country:
         description: 'Country code'
         required: true
         type: string
