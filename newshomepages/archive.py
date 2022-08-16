@@ -1,5 +1,6 @@
 import json
 import os
+import re
 import typing
 from datetime import datetime
 from pathlib import Path
@@ -25,10 +26,17 @@ def cli(handle: str, input_dir: str):
     _upload(site, input_dir)
 
 
+def _clean_handle(s):
+    s = s.lower()
+    # Replace any leading underscores, which don't work on archive.org
+    s = re.sub("^(_+)", "", s)
+    return s
+
+
 @retry(tries=3, delay=5, backoff=2)
 def _upload(data: dict, input_dir: str):
     # Set the input paths
-    handle = data["handle"].lower()
+    handle = _clean_handle(data["handle"])
     input_path = Path(input_dir).absolute()
     image_path = input_path / f"{handle}.jpg"
     a11y_path = input_path / f"{handle}.accessibility.json"
@@ -62,7 +70,7 @@ def _upload(data: dict, input_dir: str):
 
     # If there are no file, squawk but move on
     if not file_dict:
-        print(f"No files found for {handle}")
+        print(f"No files found for {data['handle']}")
         return
 
     # Get secrets
