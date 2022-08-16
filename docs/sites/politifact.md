@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 120 screenshots with the Internet Archive.
+The archiving routine has saved 121 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 120 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/politifact-2022/politifact-2022-08-15T21:43:44.199375-04:00.jpg">
+  <img src="https://archive.org/download/politifact-2022/politifact-2022-08-15T21:43:44.199375-04:00.jpg"
+     alt="Politifact  at 2022-08-15 21:43:45-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/politifact-2022/politifact-2022-08-15T21:43:44.199375-04:00.jpg">August 15 at 9:43 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/politifact-2022/politifact-2022-08-15T10:25:28.000964-04:00.jpg">
@@ -212,20 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/politifact-2022/politifact-2022-08-10T09:15:41.714370-04:00.jpg">August 10 at 9:15 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/politifact-2022/politifact-2022-08-09T21:02:57.029285-04:00.jpg">
-  <img src="https://archive.org/download/politifact-2022/politifact-2022-08-09T21:02:57.029285-04:00.jpg"
-     alt="Politifact  at 2022-08-09 21:02:59-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/politifact-2022/politifact-2022-08-09T21:02:57.029285-04:00.jpg">August 9 at 9:02 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 119 hyperlink lists with the Internet Archive.
+The archiving routine has saved 120 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 15 at 9:43 PM](https://archive.org/download/politifact-2022/politifact-2022-08-15T21:43:44.199375-04:00.hyperlinks.json) |
 | [August 15 at 10:25 AM](https://archive.org/download/politifact-2022/politifact-2022-08-15T10:25:28.000964-04:00.hyperlinks.json) |
 | [August 14 at 9:27 PM](https://archive.org/download/politifact-2022/politifact-2022-08-14T21:27:26.639752-04:00.hyperlinks.json) |
 | [August 14 at 9:56 AM](https://archive.org/download/politifact-2022/politifact-2022-08-14T09:55:58.962537-04:00.hyperlinks.json) |
@@ -325,12 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 9:29 AM](https://archive.org/download/politifact-2022/politifact-2022-08-12T09:29:24.416853-04:00.hyperlinks.json) |
 | [August 12 at 5:24 AM](https://archive.org/download/politifact-2022/politifact-2022-08-12T05:24:36.052009-04:00.hyperlinks.json) |
 | [August 11 at 9:47 AM](https://archive.org/download/politifact-2022/politifact-2022-08-11T09:47:14.371030-04:00.hyperlinks.json) |
-| [August 10 at 8:57 PM](https://archive.org/download/politifact-2022/politifact-2022-08-10T20:57:40.082652-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 120 accessibility trees with the Internet Archive.
+The archiving routine has saved 121 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 15 at 9:43 PM](https://archive.org/download/politifact-2022/politifact-2022-08-15T21:43:44.199375-04:00.accessibility.json) |
 | [August 15 at 10:25 AM](https://archive.org/download/politifact-2022/politifact-2022-08-15T10:25:28.000964-04:00.accessibility.json) |
 | [August 14 at 9:27 PM](https://archive.org/download/politifact-2022/politifact-2022-08-14T21:27:26.639752-04:00.accessibility.json) |
 | [August 14 at 9:56 AM](https://archive.org/download/politifact-2022/politifact-2022-08-14T09:55:58.962537-04:00.accessibility.json) |
@@ -430,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 9:29 AM](https://archive.org/download/politifact-2022/politifact-2022-08-12T09:29:24.416853-04:00.accessibility.json) |
 | [August 12 at 5:24 AM](https://archive.org/download/politifact-2022/politifact-2022-08-12T05:24:36.052009-04:00.accessibility.json) |
 | [August 11 at 9:47 AM](https://archive.org/download/politifact-2022/politifact-2022-08-11T09:47:14.371030-04:00.accessibility.json) |
-| [August 10 at 8:57 PM](https://archive.org/download/politifact-2022/politifact-2022-08-10T20:57:40.082652-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 46 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 47 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 15 at 9:43 PM](https://archive.org/download/politifact-2022/politifact-2022-08-15T21:43:44.199375-04:00.lighthouse.json) |
 | [August 15 at 10:25 AM](https://archive.org/download/politifact-2022/politifact-2022-08-15T10:25:28.000964-04:00.lighthouse.json) |
 | [August 14 at 9:27 PM](https://archive.org/download/politifact-2022/politifact-2022-08-14T21:27:26.639752-04:00.lighthouse.json) |
 | [August 14 at 9:56 AM](https://archive.org/download/politifact-2022/politifact-2022-08-14T09:55:58.962537-04:00.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 12 at 9:29 AM](https://archive.org/download/politifact-2022/politifact-2022-08-12T09:29:24.416853-04:00.lighthouse.json) |
 | [August 12 at 5:24 AM](https://archive.org/download/politifact-2022/politifact-2022-08-12T05:24:36.052009-04:00.lighthouse.json) |
 | [August 11 at 9:47 AM](https://archive.org/download/politifact-2022/politifact-2022-08-11T09:47:14.371030-04:00.lighthouse.json) |
-| [August 10 at 8:57 PM](https://archive.org/download/politifact-2022/politifact-2022-08-10T20:57:40.082652-04:00.lighthouse.json) |
 
 
 

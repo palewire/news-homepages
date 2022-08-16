@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 33 screenshots with the Internet Archive.
+The archiving routine has saved 34 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 33 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-08-16T03:09:28.038004-03:00.jpg">
+  <img src="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-08-16T03:09:28.038004-03:00.jpg"
+     alt="Agência Pública at 2022-08-16 03:09:30-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-08-16T03:09:28.038004-03:00.jpg">August 16 at 3:09 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-08-15T16:27:40.954904-03:00.jpg">
@@ -212,20 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-08-12T11:57:27.021206-03:00.jpg">August 12 at 11:57 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-08-12T06:27:58.998644-03:00.jpg">
-  <img src="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-08-12T06:27:58.998644-03:00.jpg"
-     alt="Agência Pública at 2022-08-12 06:28:01-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/agenciapublica-2022/agenciapublica-2022-08-12T06:27:58.998644-03:00.jpg">August 12 at 6:28 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 34 hyperlink lists with the Internet Archive.
+The archiving routine has saved 35 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 16 at 3:09 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-08-16T03:09:28.038004-03:00.hyperlinks.json) |
 | [August 15 at 4:27 PM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-08-15T16:27:40.954904-03:00.hyperlinks.json) |
 | [August 15 at 11:02 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-08-15T11:02:41.868386-03:00.hyperlinks.json) |
 | [August 15 at 12:04 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-08-15T00:04:23.736455-03:00.hyperlinks.json) |
@@ -325,12 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 13 at 5:35 PM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-08-13T17:35:02.702837-03:00.hyperlinks.json) |
 | [August 13 at 10:01 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-08-13T10:01:12.726444-03:00.hyperlinks.json) |
 | [August 12 at 11:09 PM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-08-12T23:09:11.152490-03:00.hyperlinks.json) |
-| [August 12 at 1:16 PM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-08-12T13:16:38.851211-03:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 34 accessibility trees with the Internet Archive.
+The archiving routine has saved 35 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 16 at 3:09 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-08-16T03:09:28.038004-03:00.accessibility.json) |
 | [August 15 at 4:27 PM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-08-15T16:27:40.954904-03:00.accessibility.json) |
 | [August 15 at 11:02 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-08-15T11:02:41.868386-03:00.accessibility.json) |
 | [August 15 at 12:04 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-08-15T00:04:23.736455-03:00.accessibility.json) |
@@ -430,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 13 at 5:35 PM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-08-13T17:35:02.702837-03:00.accessibility.json) |
 | [August 13 at 10:01 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-08-13T10:01:12.726444-03:00.accessibility.json) |
 | [August 12 at 11:09 PM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-08-12T23:09:11.152490-03:00.accessibility.json) |
-| [August 12 at 1:16 PM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-08-12T13:16:38.851211-03:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 33 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 34 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 16 at 3:09 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-08-16T03:09:28.038004-03:00.lighthouse.json) |
 | [August 15 at 4:27 PM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-08-15T16:27:40.954904-03:00.lighthouse.json) |
 | [August 15 at 11:02 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-08-15T11:02:41.868386-03:00.lighthouse.json) |
 | [August 15 at 12:04 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-08-15T00:04:23.736455-03:00.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 13 at 5:35 PM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-08-13T17:35:02.702837-03:00.lighthouse.json) |
 | [August 13 at 10:01 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-08-13T10:01:12.726444-03:00.lighthouse.json) |
 | [August 12 at 11:09 PM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-08-12T23:09:11.152490-03:00.lighthouse.json) |
-| [August 12 at 11:57 AM](https://archive.org/download/agenciapublica-2022/agenciapublica-2022-08-12T11:57:27.021206-03:00.lighthouse.json) |
 
 
 

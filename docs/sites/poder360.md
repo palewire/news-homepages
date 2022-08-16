@@ -22,13 +22,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 23 screenshots with the Internet Archive.
+The archiving routine has saved 24 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/poder360-2022/poder360-2022-08-15T22:42:46.062838-03:00.jpg">
+  <img src="https://archive.org/download/poder360-2022/poder360-2022-08-15T22:42:46.062838-03:00.jpg"
+     alt="Poder 360 at 2022-08-15 22:42:47-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/poder360-2022/poder360-2022-08-15T22:42:46.062838-03:00.jpg">August 15 at 10:42 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/poder360-2022/poder360-2022-08-15T11:25:27.633156-03:00.jpg">
@@ -129,20 +138,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/poder360-2022/poder360-2022-08-12T10:29:29.313120-03:00.jpg">August 12 at 10:29 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/poder360-2022/poder360-2022-08-12T06:23:56.261634-03:00.jpg">
-  <img src="https://archive.org/download/poder360-2022/poder360-2022-08-12T06:23:56.261634-03:00.jpg"
-     alt="Poder 360 at 2022-08-12 06:23:58-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/poder360-2022/poder360-2022-08-12T06:23:56.261634-03:00.jpg">August 12 at 6:23 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 23 hyperlink lists with the Internet Archive.
+The archiving routine has saved 24 hyperlink lists with the Internet Archive.
 
 
 
@@ -150,6 +150,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 15 at 10:42 PM](https://archive.org/download/poder360-2022/poder360-2022-08-15T22:42:46.062838-03:00.hyperlinks.json) |
 | [August 15 at 11:25 AM](https://archive.org/download/poder360-2022/poder360-2022-08-15T11:25:27.633156-03:00.hyperlinks.json) |
 | [August 15 at 11:05 AM](https://archive.org/download/poder360-2022/poder360-2022-08-15T11:05:16.875031-03:00.hyperlinks.json) |
 | [August 14 at 10:27 PM](https://archive.org/download/poder360-2022/poder360-2022-08-14T22:27:32.755732-03:00.hyperlinks.json) |
@@ -159,12 +160,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 13 at 10:17 AM](https://archive.org/download/poder360-2022/poder360-2022-08-13T10:17:20.412272-03:00.hyperlinks.json) |
 | [August 13 at 10:03 AM](https://archive.org/download/poder360-2022/poder360-2022-08-13T10:02:56.279154-03:00.hyperlinks.json) |
 | [August 12 at 9:48 PM](https://archive.org/download/poder360-2022/poder360-2022-08-12T21:48:12.959287-03:00.hyperlinks.json) |
-| [August 12 at 11:59 AM](https://archive.org/download/poder360-2022/poder360-2022-08-12T11:58:55.803729-03:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 23 accessibility trees with the Internet Archive.
+The archiving routine has saved 24 accessibility trees with the Internet Archive.
 
 
 
@@ -172,6 +172,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 15 at 10:42 PM](https://archive.org/download/poder360-2022/poder360-2022-08-15T22:42:46.062838-03:00.accessibility.json) |
 | [August 15 at 11:25 AM](https://archive.org/download/poder360-2022/poder360-2022-08-15T11:25:27.633156-03:00.accessibility.json) |
 | [August 15 at 11:05 AM](https://archive.org/download/poder360-2022/poder360-2022-08-15T11:05:16.875031-03:00.accessibility.json) |
 | [August 14 at 10:27 PM](https://archive.org/download/poder360-2022/poder360-2022-08-14T22:27:32.755732-03:00.accessibility.json) |
@@ -181,13 +182,12 @@ Here are the 10 most recent accessibility trees.
 | [August 13 at 10:17 AM](https://archive.org/download/poder360-2022/poder360-2022-08-13T10:17:20.412272-03:00.accessibility.json) |
 | [August 13 at 10:03 AM](https://archive.org/download/poder360-2022/poder360-2022-08-13T10:02:56.279154-03:00.accessibility.json) |
 | [August 12 at 9:48 PM](https://archive.org/download/poder360-2022/poder360-2022-08-12T21:48:12.959287-03:00.accessibility.json) |
-| [August 12 at 11:58 AM](https://archive.org/download/poder360-2022/poder360-2022-08-12T11:58:55.803729-03:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 24 Lighthouse audits with the Internet Archive.
 
 
 
@@ -195,6 +195,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 15 at 10:42 PM](https://archive.org/download/poder360-2022/poder360-2022-08-15T22:42:46.062838-03:00.lighthouse.json) |
 | [August 15 at 11:25 AM](https://archive.org/download/poder360-2022/poder360-2022-08-15T11:25:27.633156-03:00.lighthouse.json) |
 | [August 15 at 11:05 AM](https://archive.org/download/poder360-2022/poder360-2022-08-15T11:05:16.875031-03:00.lighthouse.json) |
 | [August 14 at 10:27 PM](https://archive.org/download/poder360-2022/poder360-2022-08-14T22:27:32.755732-03:00.lighthouse.json) |
@@ -204,7 +205,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 13 at 10:17 AM](https://archive.org/download/poder360-2022/poder360-2022-08-13T10:17:20.412272-03:00.lighthouse.json) |
 | [August 13 at 10:03 AM](https://archive.org/download/poder360-2022/poder360-2022-08-13T10:02:56.279154-03:00.lighthouse.json) |
 | [August 12 at 9:48 PM](https://archive.org/download/poder360-2022/poder360-2022-08-12T21:48:12.959287-03:00.lighthouse.json) |
-| [August 12 at 11:59 AM](https://archive.org/download/poder360-2022/poder360-2022-08-12T11:58:55.803729-03:00.lighthouse.json) |
 
 
 

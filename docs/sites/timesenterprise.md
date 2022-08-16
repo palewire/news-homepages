@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 52 screenshots with the Internet Archive.
+The archiving routine has saved 53 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 52 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-16T02:55:34.986963-04:00.jpg">
+  <img src="https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-16T02:55:34.986963-04:00.jpg"
+     alt="The Times-Enterprise at 2022-08-16 02:55:36-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-16T02:55:34.986963-04:00.jpg">August 16 at 2:55 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-15T16:19:36.752237-04:00.jpg">
@@ -210,15 +219,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-10T01:34:47.310166-04:00.jpg">August 10 at 1:34 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-09T13:57:13.646388-04:00.jpg">
-  <img src="https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-09T13:57:13.646388-04:00.jpg"
-     alt="The Times-Enterprise at 2022-08-09 13:57:15-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-09T13:57:13.646388-04:00.jpg">August 9 at 1:57 PM</a></p>
 </div>
 
 </div>
@@ -436,7 +436,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 46 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 47 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 16 at 2:55 AM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-16T02:55:34.986963-04:00.lighthouse.json) |
 | [August 15 at 4:19 PM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-15T16:19:36.752237-04:00.lighthouse.json) |
 | [August 15 at 2:48 AM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-15T02:48:33.085030-04:00.lighthouse.json) |
 | [August 14 at 3:06 PM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-14T15:06:07.393345-04:00.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 12 at 2:28 PM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-12T14:28:09.389617-04:00.lighthouse.json) |
 | [August 12 at 5:49 AM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-12T05:49:31.699300-04:00.lighthouse.json) |
 | [August 11 at 2:59 PM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-11T14:59:04.935006-04:00.lighthouse.json) |
-| [August 11 at 1:29 AM](https://archive.org/download/timesenterprise-2022/timesenterprise-2022-08-11T01:29:34.382234-04:00.lighthouse.json) |
 
 
 
