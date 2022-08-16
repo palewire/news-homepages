@@ -18,6 +18,10 @@ Commands
    :prog: accessibility
    :nested: full
 
+.. click:: newshomepages.analyze:cli
+   :prog: analyze
+   :nested: full
+
 .. click:: newshomepages.archive:cli
    :prog: archive
    :nested: full
