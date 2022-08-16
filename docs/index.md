@@ -5,18 +5,26 @@
 
 An open-source archive that gathers, saves and shares news homepages
 
-## The archive
+## Features
 
 ```{toctree}
 :maxdepth: 1
 :name: mastertoc
 
 latest
+extracts
+```
+
+## Directory
+
+```{toctree}
+:maxdepth: 1
+:name: mastertoc
+
 sources
 countries
 languages
 bundles
-extracts
 ```
 
 ## Contributing
