@@ -1,14 +1,14 @@
 ```{include} _templates/nav.html
 ```
 
-# Getting started
+# Installing the repository
 
 ```{contents} Sections
 :local:
 :depth: 1
 ```
 
-## Installation
+## Code
 
 Fork the [palewire/news-homepages](https://github.com/palewire/news-homepages) repository on GitHub and clone it on your computer. Move into the code directory and install the Python dependencies.
 
