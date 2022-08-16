@@ -2,8 +2,8 @@ name: "Archive: U.S. right wing"
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 18 * * *"
+#  schedule:
+#    - cron: "0 18 * * *"
 
 jobs:
   archive-bundle:

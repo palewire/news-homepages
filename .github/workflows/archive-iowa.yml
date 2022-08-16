@@ -2,8 +2,8 @@ name: "Archive: Iowa"
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 15 * * MON,WED,FRI"
+#  schedule:
+#    - cron: "0 15 * * MON,WED,FRI"
 
 jobs:
   archive-bundle:
