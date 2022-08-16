@@ -141,11 +141,13 @@ def download_hyperlinks(handle):
 @click.option("--country", "country", default=None)
 @click.option("--language", "language", default=None)
 @click.option("--bundle", "bundle", default=None)
+@click.option("--days", "days", default=None)
 def download_lighthouse(
     site: str = None,
     country: str = None,
     language: str = None,
     bundle: str = None,
+    days: str = None,
 ):
     """Download and parse the provided site's Lighthouse files."""
     # Get all lighthouse files
@@ -177,6 +179,11 @@ def download_lighthouse(
         slug = "all"
         filtered_df = lighthouse_df
 
+    if days:
+        cutoff_date = filtered_df["date"].max() - pd.Timedelta(days=int(days))
+        filtered_df = filtered_df[filtered_df["date"] > cutoff_date]
+        print(f"Trimming to last {days} days")
+
     # Filter it down to files for the provided site
     print(f"{len(filtered_df)} lighthouse files found")
 
@@ -202,7 +209,6 @@ def download_lighthouse(
     for url in sorted(missing_files):
         df = _get_json_url(url)
         output_df = pd.concat([output_df, df])
-        time.sleep(1)
 
     print(f":pencil: Writing {len(output_df)} rows to {output_path}")
     output_df.to_csv(output_path, index=False)
@@ -404,6 +410,7 @@ def _get_json_url(url):
         # Write to cache
         df.to_json(output_path, orient="records", indent=2)
         print(f":pencil: Writing to cached file {output_path}")
+        time.sleep(0.5)
 
     # Add columns
     metadata = utils.parse_archive_url(url)
