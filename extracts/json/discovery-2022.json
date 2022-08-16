@@ -1,5 +1,5 @@
 {
-  "created": 1660483963,
+  "created": 1660613257,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/3/items/discovery-2022",
@@ -4206,31 +4206,217 @@
       "sha1": "fcce869fa53ff93be2108e75bf443031816d64ce"
     },
     {
+      "name": "discovery-2022-08-14T21:08:40.748976-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660525724",
+      "size": "11018",
+      "md5": "736c4645585be276ce67df76eeaecc1f",
+      "crc32": "90e8a2af",
+      "sha1": "0b0b67a4a8623d8eacb238343c63efddc11eee76",
+      "format": "JSON"
+    },
+    {
+      "name": "discovery-2022-08-14T21:08:40.748976-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660525726",
+      "size": "54255",
+      "md5": "86cf19c78d48564139331df4f1f1c27f",
+      "crc32": "f87f707c",
+      "sha1": "279f3019711a549e880f1735486e915331a82dc3",
+      "format": "JSON"
+    },
+    {
+      "name": "discovery-2022-08-14T21:08:40.748976-04:00.jpg",
+      "source": "original",
+      "mtime": "1660525722",
+      "size": "216523",
+      "md5": "4a10d6ea580aafedc57c930efcb43da8",
+      "crc32": "5638e9f7",
+      "sha1": "cb2159ccadc91d639be6897693ba58c7bb5656b7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "discovery-2022-08-14T21:08:40.748976-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660525728",
+      "size": "1486",
+      "md5": "903a3bf8bacf00c0abb1669bdcab7c80",
+      "crc32": "f69ad029",
+      "sha1": "1cb6d5e72ea50a6583678527d3c43a1d05dd1188",
+      "format": "JSON"
+    },
+    {
+      "name": "discovery-2022-08-14T21:08:40.748976-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660525730",
+      "size": "38898",
+      "md5": "d8a219eb052c5951089ebcee19d92b2c",
+      "crc32": "2e6c9fc8",
+      "sha1": "9d0536d1ff487a9781686ac16ebeda9e07d31440",
+      "format": "JSON"
+    },
+    {
+      "name": "discovery-2022-08-14T21:08:40.748976-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "discovery-2022-08-14T21:08:40.748976-04:00.jpg",
+      "mtime": "1660525778",
+      "size": "9878",
+      "md5": "8006ee3dcc469db7cd436ded646ee303",
+      "crc32": "9d610027",
+      "sha1": "c4358d78147f376ebcdccff793bb94c1d5ae4133"
+    },
+    {
+      "name": "discovery-2022-08-15T09:56:40.923492-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660571806",
+      "size": "11206",
+      "md5": "004dade7cec607a0d1f534fbd754ffc1",
+      "crc32": "632626a9",
+      "sha1": "3c1520ae43b3ae989cdc058eac8790979ad0c61a",
+      "format": "JSON"
+    },
+    {
+      "name": "discovery-2022-08-15T09:56:40.923492-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660571808",
+      "size": "54441",
+      "md5": "7c3006fcd865b09c485123c63541d414",
+      "crc32": "91c6717a",
+      "sha1": "9bcc5c7f154bad1ef0580ab5b0df7f6df8903e01",
+      "format": "JSON"
+    },
+    {
+      "name": "discovery-2022-08-15T09:56:40.923492-04:00.jpg",
+      "source": "original",
+      "mtime": "1660571804",
+      "size": "214077",
+      "md5": "a064fce8806ae68e8797ddb81c98e709",
+      "crc32": "982c6e29",
+      "sha1": "df46a260a98c95e40bde5be36e53ce93352d7ea3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "discovery-2022-08-15T09:56:40.923492-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660571809",
+      "size": "1486",
+      "md5": "0e5369fb4a020647cee33b6989911969",
+      "crc32": "66c23f93",
+      "sha1": "ad79061499cf166cef4b8f77cd5243f73c194ec2",
+      "format": "JSON"
+    },
+    {
+      "name": "discovery-2022-08-15T09:56:40.923492-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660571812",
+      "size": "48015",
+      "md5": "5f339afb0bfad19b12f0c553b889a870",
+      "crc32": "c3c5afa7",
+      "sha1": "b0827d97334b67ef7d47ea482b1bef51c2c94fa1",
+      "format": "JSON"
+    },
+    {
+      "name": "discovery-2022-08-15T09:56:40.923492-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "discovery-2022-08-15T09:56:40.923492-04:00.jpg",
+      "mtime": "1660572269",
+      "size": "9827",
+      "md5": "655f70f986b25122aeaffcafc57a3344",
+      "crc32": "889e579a",
+      "sha1": "fcce869fa53ff93be2108e75bf443031816d64ce"
+    },
+    {
+      "name": "discovery-2022-08-15T21:22:30.169373-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660612959",
+      "size": "11536",
+      "md5": "47dcd131002829a899c35a45bc45d114",
+      "crc32": "26f64c60",
+      "sha1": "08fe77103a609f2627195f3045d92a995b9d45d6",
+      "format": "JSON"
+    },
+    {
+      "name": "discovery-2022-08-15T21:22:30.169373-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660612961",
+      "size": "54264",
+      "md5": "5af2fca14ea35db758ba81278b982e78",
+      "crc32": "41c425da",
+      "sha1": "3f87c59d9ba9f9240bc7518c7d7e98179bbde435",
+      "format": "JSON"
+    },
+    {
+      "name": "discovery-2022-08-15T21:22:30.169373-04:00.jpg",
+      "source": "original",
+      "mtime": "1660612957",
+      "size": "239614",
+      "md5": "b9cb7568fbaa16139c9b075d89a26cdd",
+      "crc32": "78366b76",
+      "sha1": "31b5079662e95de90a94fe7860855ec631995144",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "discovery-2022-08-15T21:22:30.169373-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660612963",
+      "size": "1484",
+      "md5": "e94d031447c44aeb28669243bac36159",
+      "crc32": "f0414ce9",
+      "sha1": "acdc398062dd8b84afd528e1821945bd8f22bf3c",
+      "format": "JSON"
+    },
+    {
+      "name": "discovery-2022-08-15T21:22:30.169373-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660612965",
+      "size": "40648",
+      "md5": "05b26e63bb4ea5a19b30a47893be894f",
+      "crc32": "ab7d571e",
+      "sha1": "42a537fd4ed591043c434831adf9a7d41c9b9e42",
+      "format": "JSON"
+    },
+    {
+      "name": "discovery-2022-08-15T21:22:30.169373-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "discovery-2022-08-15T21:22:30.169373-04:00.jpg",
+      "mtime": "1660613236",
+      "size": "10140",
+      "md5": "f8cfcdc1c093f69a970994bf929b9ae0",
+      "crc32": "ee021d63",
+      "sha1": "a48a39d5f34552734ac65e87b4a8f821ec8fecfe"
+    },
+    {
       "name": "discovery-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8fb2efba1adfbd67c1419a1bb5d035b2dc4523bb",
-      "mtime": "1660483957",
-      "size": "86566",
-      "md5": "a76d81a1977b9b7cb336e403b95fbfb3",
-      "crc32": "96c8671f",
-      "sha1": "59f32c57024ea9a05ae8ab821c033735cc118d07",
+      "btih": "b13e1644ec42fb08e989ad8f95e603f0b0f6dc9d",
+      "mtime": "1660613247",
+      "size": "90366",
+      "md5": "17c95dec974e9281e83cd4ecf65c0c5f",
+      "crc32": "59a2191f",
+      "sha1": "a54b886608a03d5b7d9c864503e1f642c115ecfa",
       "format": "Archive BitTorrent"
     },
     {
       "name": "discovery-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "646eb5d88203be89259cf6fab9f4c0a1",
+      "md5": "72478e3c1d77280e959c1fb4793555aa",
       "summation": "md5"
     },
     {
       "name": "discovery-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660483908",
-      "size": "507904",
-      "md5": "970bea171fa0ed0284ba56507c772d40",
-      "crc32": "e4af78d4",
-      "sha1": "f39ff9c56ec64f78e78702e080dd2f0be39f76e1",
+      "mtime": "1660612968",
+      "size": "528384",
+      "md5": "d74545436df711154ac0a3f2c747d44e",
+      "crc32": "875da9ff",
+      "sha1": "1815fa691d5b93a52207dac7441d6872aa1df398",
       "format": "Metadata"
     },
     {
@@ -4244,9 +4430,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 407,
-  "item_last_updated": 1660483957,
-  "item_size": 27495408,
+  "files_count": 425,
+  "item_last_updated": 1660613247,
+  "item_size": 28548484,
   "metadata": {
     "identifier": "discovery-2022",
     "collection": [
@@ -4264,7 +4450,7 @@
     "addeddate": "2022-07-04 20:47:49"
   },
   "server": "ia601500.us.archive.org",
-  "uniq": 1855500474,
+  "uniq": 1903054927,
   "workable_servers": [
     "ia601500.us.archive.org",
     "ia801500.us.archive.org"

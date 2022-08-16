@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 268 screenshots with the Internet Archive.
+The archiving routine has saved 272 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -114,6 +114,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/le_parisien-2022/le_parisien-2022-08-15T21:58:57.316813+02:00.jpg">
+  <img src="https://archive.org/download/le_parisien-2022/le_parisien-2022-08-15T21:58:57.316813+02:00.jpg"
+     alt="Le Parisien at 2022-08-15 21:58:59+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/le_parisien-2022/le_parisien-2022-08-15T21:58:57.316813+02:00.jpg">August 15 at 9:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/le_parisien-2022/le_parisien-2022-08-15T10:13:21.840188+02:00.jpg">
+  <img src="https://archive.org/download/le_parisien-2022/le_parisien-2022-08-15T10:13:21.840188+02:00.jpg"
+     alt="Le Parisien at 2022-08-15 10:13:23+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/le_parisien-2022/le_parisien-2022-08-15T10:13:21.840188+02:00.jpg">August 15 at 10:13 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/le_parisien-2022/le_parisien-2022-08-15T08:31:18.193709+02:00.jpg">
+  <img src="https://archive.org/download/le_parisien-2022/le_parisien-2022-08-15T08:31:18.193709+02:00.jpg"
+     alt="Le Parisien at 2022-08-15 08:31:19+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/le_parisien-2022/le_parisien-2022-08-15T08:31:18.193709+02:00.jpg">August 15 at 8:31 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/le_parisien-2022/le_parisien-2022-08-14T19:24:41.158647+02:00.jpg">
+  <img src="https://archive.org/download/le_parisien-2022/le_parisien-2022-08-14T19:24:41.158647+02:00.jpg"
+     alt="Le Parisien at 2022-08-14 19:24:43+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/le_parisien-2022/le_parisien-2022-08-14T19:24:41.158647+02:00.jpg">August 14 at 7:24 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/le_parisien-2022/le_parisien-2022-08-14T10:22:53.468121+02:00.jpg">
   <img src="https://archive.org/download/le_parisien-2022/le_parisien-2022-08-14T10:22:53.468121+02:00.jpg"
      alt="Le Parisien at 2022-08-14 10:22:55+02:00 local time"
@@ -185,47 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/le_parisien-2022/le_parisien-2022-08-12T12:03:07.302917+02:00.jpg">August 12 at 12:03 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/le_parisien-2022/le_parisien-2022-08-11T20:44:23.095471+02:00.jpg">
-  <img src="https://archive.org/download/le_parisien-2022/le_parisien-2022-08-11T20:44:23.095471+02:00.jpg"
-     alt="Le Parisien at 2022-08-11 20:44:25+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/le_parisien-2022/le_parisien-2022-08-11T20:44:23.095471+02:00.jpg">August 11 at 8:44 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/le_parisien-2022/le_parisien-2022-08-11T10:13:05.440824+02:00.jpg">
-  <img src="https://archive.org/download/le_parisien-2022/le_parisien-2022-08-11T10:13:05.440824+02:00.jpg"
-     alt="Le Parisien at 2022-08-11 10:13:07+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/le_parisien-2022/le_parisien-2022-08-11T10:13:05.440824+02:00.jpg">August 11 at 10:13 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/le_parisien-2022/le_parisien-2022-08-11T05:57:07.066525+02:00.jpg">
-  <img src="https://archive.org/download/le_parisien-2022/le_parisien-2022-08-11T05:57:07.066525+02:00.jpg"
-     alt="Le Parisien at 2022-08-11 05:57:08+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/le_parisien-2022/le_parisien-2022-08-11T05:57:07.066525+02:00.jpg">August 11 at 5:57 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/le_parisien-2022/le_parisien-2022-08-10T20:09:51.498752+02:00.jpg">
-  <img src="https://archive.org/download/le_parisien-2022/le_parisien-2022-08-10T20:09:51.498752+02:00.jpg"
-     alt="Le Parisien at 2022-08-10 20:09:59+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/le_parisien-2022/le_parisien-2022-08-10T20:09:51.498752+02:00.jpg">August 10 at 8:09 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 268 hyperlink lists with the Internet Archive.
+The archiving routine has saved 272 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,21 +316,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 15 at 9:59 PM](https://archive.org/download/le_parisien-2022/le_parisien-2022-08-15T21:58:57.316813+02:00.hyperlinks.json) |
+| [August 15 at 10:13 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-08-15T10:13:21.840188+02:00.hyperlinks.json) |
+| [August 15 at 8:31 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-08-15T08:31:18.193709+02:00.hyperlinks.json) |
+| [August 14 at 7:24 PM](https://archive.org/download/le_parisien-2022/le_parisien-2022-08-14T19:24:41.158647+02:00.hyperlinks.json) |
 | [August 14 at 10:22 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-08-14T10:22:53.468121+02:00.hyperlinks.json) |
 | [August 14 at 8:53 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-08-14T08:52:49.099151+02:00.hyperlinks.json) |
 | [August 13 at 10:28 PM](https://archive.org/download/le_parisien-2022/le_parisien-2022-08-13T22:28:19.928722+02:00.hyperlinks.json) |
 | [August 13 at 10:10 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-08-13T10:10:05.193674+02:00.hyperlinks.json) |
 | [August 13 at 5:47 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-08-13T05:47:22.668992+02:00.hyperlinks.json) |
 | [August 12 at 7:53 PM](https://archive.org/download/le_parisien-2022/le_parisien-2022-08-12T19:53:43.265507+02:00.hyperlinks.json) |
-| [August 12 at 12:20 PM](https://archive.org/download/le_parisien-2022/le_parisien-2022-08-12T12:20:01.026289+02:00.hyperlinks.json) |
-| [August 12 at 12:03 PM](https://archive.org/download/le_parisien-2022/le_parisien-2022-08-12T12:03:07.302917+02:00.hyperlinks.json) |
-| [August 11 at 8:44 PM](https://archive.org/download/le_parisien-2022/le_parisien-2022-08-11T20:44:23.095471+02:00.hyperlinks.json) |
-| [August 11 at 10:13 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-08-11T10:13:05.440824+02:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 268 accessibility trees with the Internet Archive.
+The archiving routine has saved 272 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,22 +421,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 15 at 9:59 PM](https://archive.org/download/le_parisien-2022/le_parisien-2022-08-15T21:58:57.316813+02:00.accessibility.json) |
+| [August 15 at 10:13 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-08-15T10:13:21.840188+02:00.accessibility.json) |
+| [August 15 at 8:31 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-08-15T08:31:18.193709+02:00.accessibility.json) |
+| [August 14 at 7:24 PM](https://archive.org/download/le_parisien-2022/le_parisien-2022-08-14T19:24:41.158647+02:00.accessibility.json) |
 | [August 14 at 10:22 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-08-14T10:22:53.468121+02:00.accessibility.json) |
 | [August 14 at 8:52 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-08-14T08:52:49.099151+02:00.accessibility.json) |
 | [August 13 at 10:28 PM](https://archive.org/download/le_parisien-2022/le_parisien-2022-08-13T22:28:19.928722+02:00.accessibility.json) |
 | [August 13 at 10:10 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-08-13T10:10:05.193674+02:00.accessibility.json) |
 | [August 13 at 5:47 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-08-13T05:47:22.668992+02:00.accessibility.json) |
 | [August 12 at 7:53 PM](https://archive.org/download/le_parisien-2022/le_parisien-2022-08-12T19:53:43.265507+02:00.accessibility.json) |
-| [August 12 at 12:20 PM](https://archive.org/download/le_parisien-2022/le_parisien-2022-08-12T12:20:01.026289+02:00.accessibility.json) |
-| [August 12 at 12:03 PM](https://archive.org/download/le_parisien-2022/le_parisien-2022-08-12T12:03:07.302917+02:00.accessibility.json) |
-| [August 11 at 8:44 PM](https://archive.org/download/le_parisien-2022/le_parisien-2022-08-11T20:44:23.095471+02:00.accessibility.json) |
-| [August 11 at 10:13 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-08-11T10:13:05.440824+02:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 65 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 69 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 15 at 9:59 PM](https://archive.org/download/le_parisien-2022/le_parisien-2022-08-15T21:58:57.316813+02:00.lighthouse.json) |
+| [August 15 at 10:13 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-08-15T10:13:21.840188+02:00.lighthouse.json) |
+| [August 15 at 8:31 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-08-15T08:31:18.193709+02:00.lighthouse.json) |
+| [August 14 at 7:24 PM](https://archive.org/download/le_parisien-2022/le_parisien-2022-08-14T19:24:41.158647+02:00.lighthouse.json) |
 | [August 14 at 10:23 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-08-14T10:22:53.468121+02:00.lighthouse.json) |
 | [August 14 at 8:53 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-08-14T08:52:49.099151+02:00.lighthouse.json) |
 | [August 13 at 10:28 PM](https://archive.org/download/le_parisien-2022/le_parisien-2022-08-13T22:28:19.928722+02:00.lighthouse.json) |
 | [August 13 at 10:10 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-08-13T10:10:05.193674+02:00.lighthouse.json) |
 | [August 13 at 5:47 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-08-13T05:47:22.668992+02:00.lighthouse.json) |
 | [August 12 at 7:53 PM](https://archive.org/download/le_parisien-2022/le_parisien-2022-08-12T19:53:43.265507+02:00.lighthouse.json) |
-| [August 12 at 12:20 PM](https://archive.org/download/le_parisien-2022/le_parisien-2022-08-12T12:20:01.026289+02:00.lighthouse.json) |
-| [August 12 at 12:03 PM](https://archive.org/download/le_parisien-2022/le_parisien-2022-08-12T12:03:07.302917+02:00.lighthouse.json) |
-| [August 11 at 8:44 PM](https://archive.org/download/le_parisien-2022/le_parisien-2022-08-11T20:44:23.095471+02:00.lighthouse.json) |
-| [August 11 at 10:13 AM](https://archive.org/download/le_parisien-2022/le_parisien-2022-08-11T10:13:05.440824+02:00.lighthouse.json) |
 
 
 

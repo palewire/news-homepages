@@ -1,5 +1,5 @@
 {
-  "created": 1660460205,
+  "created": 1660594423,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/0/items/lookoutscruz-2022",
@@ -4048,31 +4048,217 @@
       "sha1": "74b6c4edc2f344c3a3a01d210598e9beab1b1c96"
     },
     {
+      "name": "lookoutscruz-2022-08-14T10:25:46.659598-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660497952",
+      "size": "15516",
+      "md5": "db6b5d4a54e4cb5d052eaf1b978294c7",
+      "crc32": "4d4435e1",
+      "sha1": "823b258ff975cd948b20b2ae33b2a17831fb3925",
+      "format": "JSON"
+    },
+    {
+      "name": "lookoutscruz-2022-08-14T10:25:46.659598-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660497953",
+      "size": "61018",
+      "md5": "82ff2864b1b21f174cb8e1e9defc554d",
+      "crc32": "d5e5e468",
+      "sha1": "10866f341f6feda697e4ec337cb04fc5ead42b7c",
+      "format": "JSON"
+    },
+    {
+      "name": "lookoutscruz-2022-08-14T10:25:46.659598-07:00.jpg",
+      "source": "original",
+      "mtime": "1660497950",
+      "size": "281454",
+      "md5": "1ee6194eae6844d652cc893633c0e4d3",
+      "crc32": "139aacc0",
+      "sha1": "eb3c51df361dacc90accb13a79fe8ec819ec973b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lookoutscruz-2022-08-14T10:25:46.659598-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660497957",
+      "size": "1509",
+      "md5": "4741aea43bcdcfa3da647dd0ffee9752",
+      "crc32": "f6c92e8b",
+      "sha1": "f078522f3d338f706f669319467ce970f84c70ef",
+      "format": "JSON"
+    },
+    {
+      "name": "lookoutscruz-2022-08-14T10:25:46.659598-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660497961",
+      "size": "271",
+      "md5": "ebcfed69b6d2c0714a4b3eb0209bf1e3",
+      "crc32": "8c50f336",
+      "sha1": "639d9b326cf4006302a18395860427adb0531241",
+      "format": "JSON"
+    },
+    {
+      "name": "lookoutscruz-2022-08-14T10:25:46.659598-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lookoutscruz-2022-08-14T10:25:46.659598-07:00.jpg",
+      "mtime": "1660498032",
+      "size": "10890",
+      "md5": "983f4cecdd9c039a7756bcd17de3d579",
+      "crc32": "25449a31",
+      "sha1": "4b6c1c00dd729971c82a1390c88c5dbf305eaf7c"
+    },
+    {
+      "name": "lookoutscruz-2022-08-14T23:32:40.728652-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660545164",
+      "size": "15501",
+      "md5": "e8b5c6a4395dc4f745d131650ce61435",
+      "crc32": "8f67f189",
+      "sha1": "8f5bda3b718f616dd7fcf3cd77222bbfa55ea72e",
+      "format": "JSON"
+    },
+    {
+      "name": "lookoutscruz-2022-08-14T23:32:40.728652-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660545165",
+      "size": "61126",
+      "md5": "c2dee5ffb88f7f55d88135db29be2500",
+      "crc32": "463c2c56",
+      "sha1": "593e0e736a6a484e913ab886efcc72764032869a",
+      "format": "JSON"
+    },
+    {
+      "name": "lookoutscruz-2022-08-14T23:32:40.728652-07:00.jpg",
+      "source": "original",
+      "mtime": "1660545162",
+      "size": "281361",
+      "md5": "7bc2f2cc79637fd7f9b03da4d046a045",
+      "crc32": "29784622",
+      "sha1": "9b5dff5a9d097837129c1a996ca618915b427bc8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lookoutscruz-2022-08-14T23:32:40.728652-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660545167",
+      "size": "1509",
+      "md5": "8ad5786a493e380640693cdbad0653ee",
+      "crc32": "76819f69",
+      "sha1": "f282c535863f23eb2366efc94b0463adbc573924",
+      "format": "JSON"
+    },
+    {
+      "name": "lookoutscruz-2022-08-14T23:32:40.728652-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660545169",
+      "size": "18734",
+      "md5": "a69bf9ba92245cfec04e0e6ff62b8724",
+      "crc32": "21254d3c",
+      "sha1": "ce50d5ccbbecdf980cf0bc1f8e1b767cde6de39a",
+      "format": "JSON"
+    },
+    {
+      "name": "lookoutscruz-2022-08-14T23:32:40.728652-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lookoutscruz-2022-08-14T23:32:40.728652-07:00.jpg",
+      "mtime": "1660545270",
+      "size": "10892",
+      "md5": "5c1518b1a22272c7c2514d14fd5a579a",
+      "crc32": "bda5b409",
+      "sha1": "a0fa6dbb1926eae897ee8e6cedb5626d5bef3ec9"
+    },
+    {
+      "name": "lookoutscruz-2022-08-15T13:00:12.458456-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660593616",
+      "size": "15594",
+      "md5": "c7147ddcf20e2dc14a793ab44e2c58e0",
+      "crc32": "3455feef",
+      "sha1": "35b1e64ab323e375a239c7a8262f987f0df6d0aa",
+      "format": "JSON"
+    },
+    {
+      "name": "lookoutscruz-2022-08-15T13:00:12.458456-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660593618",
+      "size": "61312",
+      "md5": "852e5ae8d50764dc26292f4e9410b7ba",
+      "crc32": "8a885a0e",
+      "sha1": "fed3349e6b7505517c463ab9c1bbdaeee9ca51b8",
+      "format": "JSON"
+    },
+    {
+      "name": "lookoutscruz-2022-08-15T13:00:12.458456-07:00.jpg",
+      "source": "original",
+      "mtime": "1660593615",
+      "size": "292463",
+      "md5": "e07d2449edd2e79fb794fcea73f03e90",
+      "crc32": "f3d0c8e1",
+      "sha1": "9c7040d3acdb3116d752b8d9c95dacef6fbff3e0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lookoutscruz-2022-08-15T13:00:12.458456-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660593620",
+      "size": "1507",
+      "md5": "aeba98fd582cb8ea6cad35901e05ff0d",
+      "crc32": "c2d5f4a5",
+      "sha1": "0a66f66977c249cfe053dab81e2d332d92438d73",
+      "format": "JSON"
+    },
+    {
+      "name": "lookoutscruz-2022-08-15T13:00:12.458456-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660593622",
+      "size": "19720",
+      "md5": "98af51a080b78be5ba8e6b2fc7b7ab17",
+      "crc32": "cacac93c",
+      "sha1": "cb25bb6a2bd17844c9ca5ec0b821a7a7906aaff9",
+      "format": "JSON"
+    },
+    {
+      "name": "lookoutscruz-2022-08-15T13:00:12.458456-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lookoutscruz-2022-08-15T13:00:12.458456-07:00.jpg",
+      "mtime": "1660594370",
+      "size": "10909",
+      "md5": "2290d2504ca0341bdc742991c53bab63",
+      "crc32": "84306f3a",
+      "sha1": "2cc34a4a7494aa191592cdd76a2238acbeb32a8f"
+    },
+    {
       "name": "lookoutscruz-2022_archive.torrent",
       "source": "metadata",
-      "btih": "924ddbdca320420891b0f134418241c6f67995b7",
-      "mtime": "1660460154",
-      "size": "84931",
-      "md5": "bdb8d644bbd706735cc72547dcb37859",
-      "crc32": "2cef01cd",
-      "sha1": "6f2e701a913c3e4a4d6572914860d18f719c056c",
+      "btih": "aa210f83b1b8d466d620b03447a69941addd0734",
+      "mtime": "1660594385",
+      "size": "88805",
+      "md5": "bc43a98c145b6de01c0e8c8abd7b94aa",
+      "crc32": "72702fc3",
+      "sha1": "6cd1242370935eb26b2f2a62e7fc2cc95c277f96",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lookoutscruz-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e830837a69df54ced6e0c7b95274504a",
+      "md5": "9b3f5dc33487afd67cc054e403c7fc66",
       "summation": "md5"
     },
     {
       "name": "lookoutscruz-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660459964",
-      "size": "491520",
-      "md5": "eba0cb21c3db9d9535a44f2933c0ebc1",
-      "crc32": "26fd4423",
-      "sha1": "8fc7d1aec249e93f3b4590c1126752d89656a228",
+      "mtime": "1660593627",
+      "size": "512000",
+      "md5": "e456f7abc38748ab41ef768889950a15",
+      "crc32": "d6776fee",
+      "sha1": "78be810330d6b9b97564e3f49a9aebd24977497d",
       "format": "Metadata"
     },
     {
@@ -4086,9 +4272,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 392,
-  "item_last_updated": 1660460154,
-  "item_size": 34592936,
+  "files_count": 410,
+  "item_last_updated": 1660594385,
+  "item_size": 35778576,
   "metadata": {
     "identifier": "lookoutscruz-2022",
     "collection": [
@@ -4106,7 +4292,7 @@
     "addeddate": "2022-07-09 04:00:07"
   },
   "server": "ia801409.us.archive.org",
-  "uniq": 1280416104,
+  "uniq": 486182499,
   "workable_servers": [
     "ia801409.us.archive.org",
     "ia601409.us.archive.org"

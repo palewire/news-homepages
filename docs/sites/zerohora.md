@@ -22,13 +22,132 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 27 screenshots with the Internet Archive.
+The archiving routine has saved 31 screenshots with the Internet Archive.
 
+
+  <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specScreenshots = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/screenshots/zerohora.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/zerohora-2022/zerohora-2022-08-15T17:24:12.592027-03:00.jpg">
+  <img src="https://archive.org/download/zerohora-2022/zerohora-2022-08-15T17:24:12.592027-03:00.jpg"
+     alt="Zero Hora at 2022-08-15 17:24:14-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/zerohora-2022/zerohora-2022-08-15T17:24:12.592027-03:00.jpg">August 15 at 5:24 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/zerohora-2022/zerohora-2022-08-15T11:06:01.709679-03:00.jpg">
+  <img src="https://archive.org/download/zerohora-2022/zerohora-2022-08-15T11:06:01.709679-03:00.jpg"
+     alt="Zero Hora at 2022-08-15 11:06:03-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/zerohora-2022/zerohora-2022-08-15T11:06:01.709679-03:00.jpg">August 15 at 11:06 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/zerohora-2022/zerohora-2022-08-15T03:53:24.733659-03:00.jpg">
+  <img src="https://archive.org/download/zerohora-2022/zerohora-2022-08-15T03:53:24.733659-03:00.jpg"
+     alt="Zero Hora at 2022-08-15 03:53:26-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/zerohora-2022/zerohora-2022-08-15T03:53:24.733659-03:00.jpg">August 15 at 3:53 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/zerohora-2022/zerohora-2022-08-14T16:09:51.758361-03:00.jpg">
+  <img src="https://archive.org/download/zerohora-2022/zerohora-2022-08-14T16:09:51.758361-03:00.jpg"
+     alt="Zero Hora at 2022-08-14 16:09:54-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/zerohora-2022/zerohora-2022-08-14T16:09:51.758361-03:00.jpg">August 14 at 4:09 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/zerohora-2022/zerohora-2022-08-14T10:38:56.352127-03:00.jpg">
@@ -102,109 +221,322 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/zerohora-2022/zerohora-2022-08-12T06:53:12.041259-03:00.jpg">August 12 at 6:53 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/zerohora-2022/zerohora-2022-08-11T16:03:44.064893-03:00.jpg">
-  <img src="https://archive.org/download/zerohora-2022/zerohora-2022-08-11T16:03:44.064893-03:00.jpg"
-     alt="Zero Hora at 2022-08-11 16:03:44-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/zerohora-2022/zerohora-2022-08-11T16:03:44.064893-03:00.jpg">August 11 at 4:03 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/zerohora-2022/zerohora-2022-08-11T10:30:07.005529-03:00.jpg">
-  <img src="https://archive.org/download/zerohora-2022/zerohora-2022-08-11T10:30:07.005529-03:00.jpg"
-     alt="Zero Hora at 2022-08-11 10:30:11-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/zerohora-2022/zerohora-2022-08-11T10:30:07.005529-03:00.jpg">August 11 at 10:30 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/zerohora-2022/zerohora-2022-08-11T02:32:54.341033-03:00.jpg">
-  <img src="https://archive.org/download/zerohora-2022/zerohora-2022-08-11T02:32:54.341033-03:00.jpg"
-     alt="Zero Hora at 2022-08-11 02:32:56-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/zerohora-2022/zerohora-2022-08-11T02:32:54.341033-03:00.jpg">August 11 at 2:32 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/zerohora-2022/zerohora-2022-08-10T10:22:31.242306-03:00.jpg">
-  <img src="https://archive.org/download/zerohora-2022/zerohora-2022-08-10T10:22:31.242306-03:00.jpg"
-     alt="Zero Hora at 2022-08-10 10:22:32-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/zerohora-2022/zerohora-2022-08-10T10:22:31.242306-03:00.jpg">August 10 at 10:22 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 28 hyperlink lists with the Internet Archive.
+The archiving routine has saved 32 hyperlink lists with the Internet Archive.
 
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specHyperlinks = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/zerohora.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 15 at 5:24 PM](https://archive.org/download/zerohora-2022/zerohora-2022-08-15T17:24:12.592027-03:00.hyperlinks.json) |
+| [August 15 at 11:06 AM](https://archive.org/download/zerohora-2022/zerohora-2022-08-15T11:06:01.709679-03:00.hyperlinks.json) |
+| [August 15 at 3:53 AM](https://archive.org/download/zerohora-2022/zerohora-2022-08-15T03:53:24.733659-03:00.hyperlinks.json) |
+| [August 14 at 4:09 PM](https://archive.org/download/zerohora-2022/zerohora-2022-08-14T16:09:51.758361-03:00.hyperlinks.json) |
 | [August 14 at 10:39 AM](https://archive.org/download/zerohora-2022/zerohora-2022-08-14T10:38:56.352127-03:00.hyperlinks.json) |
 | [August 14 at 4:13 AM](https://archive.org/download/zerohora-2022/zerohora-2022-08-14T04:13:20.817658-03:00.hyperlinks.json) |
 | [August 13 at 6:09 PM](https://archive.org/download/zerohora-2022/zerohora-2022-08-13T18:09:19.916713-03:00.hyperlinks.json) |
 | [August 13 at 10:03 AM](https://archive.org/download/zerohora-2022/zerohora-2022-08-13T10:03:41.870322-03:00.hyperlinks.json) |
 | [August 13 at 2:18 AM](https://archive.org/download/zerohora-2022/zerohora-2022-08-13T02:18:20.635521-03:00.hyperlinks.json) |
 | [August 12 at 3:32 PM](https://archive.org/download/zerohora-2022/zerohora-2022-08-12T15:32:23.550562-03:00.hyperlinks.json) |
-| [August 12 at 11:59 AM](https://archive.org/download/zerohora-2022/zerohora-2022-08-12T11:59:27.515357-03:00.hyperlinks.json) |
-| [August 12 at 6:53 AM](https://archive.org/download/zerohora-2022/zerohora-2022-08-12T06:53:12.041259-03:00.hyperlinks.json) |
-| [August 11 at 4:03 PM](https://archive.org/download/zerohora-2022/zerohora-2022-08-11T16:03:44.064893-03:00.hyperlinks.json) |
-| [August 11 at 10:30 AM](https://archive.org/download/zerohora-2022/zerohora-2022-08-11T10:30:07.005529-03:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 28 accessibility trees with the Internet Archive.
+The archiving routine has saved 32 accessibility trees with the Internet Archive.
 
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/zerohora.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 15 at 5:24 PM](https://archive.org/download/zerohora-2022/zerohora-2022-08-15T17:24:12.592027-03:00.accessibility.json) |
+| [August 15 at 11:06 AM](https://archive.org/download/zerohora-2022/zerohora-2022-08-15T11:06:01.709679-03:00.accessibility.json) |
+| [August 15 at 3:53 AM](https://archive.org/download/zerohora-2022/zerohora-2022-08-15T03:53:24.733659-03:00.accessibility.json) |
+| [August 14 at 4:09 PM](https://archive.org/download/zerohora-2022/zerohora-2022-08-14T16:09:51.758361-03:00.accessibility.json) |
 | [August 14 at 10:39 AM](https://archive.org/download/zerohora-2022/zerohora-2022-08-14T10:38:56.352127-03:00.accessibility.json) |
 | [August 14 at 4:13 AM](https://archive.org/download/zerohora-2022/zerohora-2022-08-14T04:13:20.817658-03:00.accessibility.json) |
 | [August 13 at 6:09 PM](https://archive.org/download/zerohora-2022/zerohora-2022-08-13T18:09:19.916713-03:00.accessibility.json) |
 | [August 13 at 10:03 AM](https://archive.org/download/zerohora-2022/zerohora-2022-08-13T10:03:41.870322-03:00.accessibility.json) |
 | [August 13 at 2:18 AM](https://archive.org/download/zerohora-2022/zerohora-2022-08-13T02:18:20.635521-03:00.accessibility.json) |
 | [August 12 at 3:32 PM](https://archive.org/download/zerohora-2022/zerohora-2022-08-12T15:32:23.550562-03:00.accessibility.json) |
-| [August 12 at 11:59 AM](https://archive.org/download/zerohora-2022/zerohora-2022-08-12T11:59:27.515357-03:00.accessibility.json) |
-| [August 12 at 6:53 AM](https://archive.org/download/zerohora-2022/zerohora-2022-08-12T06:53:12.041259-03:00.accessibility.json) |
-| [August 11 at 4:03 PM](https://archive.org/download/zerohora-2022/zerohora-2022-08-11T16:03:44.064893-03:00.accessibility.json) |
-| [August 11 at 10:30 AM](https://archive.org/download/zerohora-2022/zerohora-2022-08-11T10:30:07.005529-03:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 28 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
 
+
+  <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specLighthouse = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/lighthouse/zerohora.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--lighthouse", specLighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 15 at 5:24 PM](https://archive.org/download/zerohora-2022/zerohora-2022-08-15T17:24:12.592027-03:00.lighthouse.json) |
+| [August 15 at 11:06 AM](https://archive.org/download/zerohora-2022/zerohora-2022-08-15T11:06:01.709679-03:00.lighthouse.json) |
+| [August 15 at 3:53 AM](https://archive.org/download/zerohora-2022/zerohora-2022-08-15T03:53:24.733659-03:00.lighthouse.json) |
+| [August 14 at 4:10 PM](https://archive.org/download/zerohora-2022/zerohora-2022-08-14T16:09:51.758361-03:00.lighthouse.json) |
 | [August 14 at 10:39 AM](https://archive.org/download/zerohora-2022/zerohora-2022-08-14T10:38:56.352127-03:00.lighthouse.json) |
 | [August 14 at 4:13 AM](https://archive.org/download/zerohora-2022/zerohora-2022-08-14T04:13:20.817658-03:00.lighthouse.json) |
 | [August 13 at 6:09 PM](https://archive.org/download/zerohora-2022/zerohora-2022-08-13T18:09:19.916713-03:00.lighthouse.json) |
 | [August 13 at 10:03 AM](https://archive.org/download/zerohora-2022/zerohora-2022-08-13T10:03:41.870322-03:00.lighthouse.json) |
 | [August 13 at 2:18 AM](https://archive.org/download/zerohora-2022/zerohora-2022-08-13T02:18:20.635521-03:00.lighthouse.json) |
 | [August 12 at 3:32 PM](https://archive.org/download/zerohora-2022/zerohora-2022-08-12T15:32:23.550562-03:00.lighthouse.json) |
-| [August 12 at 11:59 AM](https://archive.org/download/zerohora-2022/zerohora-2022-08-12T11:59:27.515357-03:00.lighthouse.json) |
-| [August 12 at 6:53 AM](https://archive.org/download/zerohora-2022/zerohora-2022-08-12T06:53:12.041259-03:00.lighthouse.json) |
-| [August 11 at 4:03 PM](https://archive.org/download/zerohora-2022/zerohora-2022-08-11T16:03:44.064893-03:00.lighthouse.json) |
-| [August 11 at 10:30 AM](https://archive.org/download/zerohora-2022/zerohora-2022-08-11T10:30:07.005529-03:00.lighthouse.json) |
 
 
 

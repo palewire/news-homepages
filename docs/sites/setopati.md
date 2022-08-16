@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 41 screenshots with the Internet Archive.
+The archiving routine has saved 44 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -114,6 +114,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/setopati-2022/setopati-2022-08-16T01:58:29.666741+05:45.jpg">
+  <img src="https://archive.org/download/setopati-2022/setopati-2022-08-16T01:58:29.666741+05:45.jpg"
+     alt="Setopati at 2022-08-16 01:58:31+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/setopati-2022/setopati-2022-08-16T01:58:29.666741+05:45.jpg">August 16 at 1:58 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/setopati-2022/setopati-2022-08-15T12:29:41.357774+05:45.jpg">
+  <img src="https://archive.org/download/setopati-2022/setopati-2022-08-15T12:29:41.357774+05:45.jpg"
+     alt="Setopati at 2022-08-15 12:29:46+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/setopati-2022/setopati-2022-08-15T12:29:41.357774+05:45.jpg">August 15 at 12:29 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/setopati-2022/setopati-2022-08-15T00:45:29.818968+05:45.jpg">
+  <img src="https://archive.org/download/setopati-2022/setopati-2022-08-15T00:45:29.818968+05:45.jpg"
+     alt="Setopati at 2022-08-15 00:45:32+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/setopati-2022/setopati-2022-08-15T00:45:29.818968+05:45.jpg">August 15 at 12:45 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/setopati-2022/setopati-2022-08-14T12:49:50.415423+05:45.jpg">
   <img src="https://archive.org/download/setopati-2022/setopati-2022-08-14T12:49:50.415423+05:45.jpg"
      alt="Setopati at 2022-08-14 12:49:52+05:45 local time"
@@ -194,38 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/setopati-2022/setopati-2022-08-09T23:38:19.278943+05:45.jpg">August 9 at 11:38 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/setopati-2022/setopati-2022-08-09T10:53:52.430044+05:45.jpg">
-  <img src="https://archive.org/download/setopati-2022/setopati-2022-08-09T10:53:52.430044+05:45.jpg"
-     alt="Setopati at 2022-08-09 10:53:56+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/setopati-2022/setopati-2022-08-09T10:53:52.430044+05:45.jpg">August 9 at 10:53 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/setopati-2022/setopati-2022-08-08T23:03:06.500494+05:45.jpg">
-  <img src="https://archive.org/download/setopati-2022/setopati-2022-08-08T23:03:06.500494+05:45.jpg"
-     alt="Setopati at 2022-08-08 23:03:08+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/setopati-2022/setopati-2022-08-08T23:03:06.500494+05:45.jpg">August 8 at 11:03 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/setopati-2022/setopati-2022-08-08T11:08:37.408026+05:45.jpg">
-  <img src="https://archive.org/download/setopati-2022/setopati-2022-08-08T11:08:37.408026+05:45.jpg"
-     alt="Setopati at 2022-08-08 11:08:39+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/setopati-2022/setopati-2022-08-08T11:08:37.408026+05:45.jpg">August 8 at 11:08 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 42 hyperlink lists with the Internet Archive.
+The archiving routine has saved 45 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 16 at 1:58 AM](https://archive.org/download/setopati-2022/setopati-2022-08-16T01:58:29.666741+05:45.hyperlinks.json) |
+| [August 15 at 12:29 PM](https://archive.org/download/setopati-2022/setopati-2022-08-15T12:29:41.357774+05:45.hyperlinks.json) |
+| [August 15 at 12:45 AM](https://archive.org/download/setopati-2022/setopati-2022-08-15T00:45:29.818968+05:45.hyperlinks.json) |
 | [August 14 at 12:49 PM](https://archive.org/download/setopati-2022/setopati-2022-08-14T12:49:50.415423+05:45.hyperlinks.json) |
 | [August 14 at 2:45 AM](https://archive.org/download/setopati-2022/setopati-2022-08-14T02:45:14.987938+05:45.hyperlinks.json) |
 | [August 13 at 10:56 AM](https://archive.org/download/setopati-2022/setopati-2022-08-13T10:56:04.826382+05:45.hyperlinks.json) |
@@ -323,14 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 3:31 PM](https://archive.org/download/setopati-2022/setopati-2022-08-12T15:31:29.801517+05:45.hyperlinks.json) |
 | [August 12 at 12:40 AM](https://archive.org/download/setopati-2022/setopati-2022-08-12T00:40:16.047061+05:45.hyperlinks.json) |
 | [August 11 at 11:09 AM](https://archive.org/download/setopati-2022/setopati-2022-08-11T11:09:55.280100+05:45.hyperlinks.json) |
-| [August 11 at 12:08 AM](https://archive.org/download/setopati-2022/setopati-2022-08-11T00:08:17.723818+05:45.hyperlinks.json) |
-| [August 10 at 11:16 AM](https://archive.org/download/setopati-2022/setopati-2022-08-10T11:16:29.732995+05:45.hyperlinks.json) |
-| [August 9 at 11:38 PM](https://archive.org/download/setopati-2022/setopati-2022-08-09T23:38:19.278943+05:45.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 42 accessibility trees with the Internet Archive.
+The archiving routine has saved 45 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 16 at 1:58 AM](https://archive.org/download/setopati-2022/setopati-2022-08-16T01:58:29.666741+05:45.accessibility.json) |
+| [August 15 at 12:29 PM](https://archive.org/download/setopati-2022/setopati-2022-08-15T12:29:41.357774+05:45.accessibility.json) |
+| [August 15 at 12:45 AM](https://archive.org/download/setopati-2022/setopati-2022-08-15T00:45:29.818968+05:45.accessibility.json) |
 | [August 14 at 12:49 PM](https://archive.org/download/setopati-2022/setopati-2022-08-14T12:49:50.415423+05:45.accessibility.json) |
 | [August 14 at 2:45 AM](https://archive.org/download/setopati-2022/setopati-2022-08-14T02:45:14.987938+05:45.accessibility.json) |
 | [August 13 at 10:56 AM](https://archive.org/download/setopati-2022/setopati-2022-08-13T10:56:04.826382+05:45.accessibility.json) |
@@ -428,15 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 3:31 PM](https://archive.org/download/setopati-2022/setopati-2022-08-12T15:31:29.801517+05:45.accessibility.json) |
 | [August 12 at 12:40 AM](https://archive.org/download/setopati-2022/setopati-2022-08-12T00:40:16.047061+05:45.accessibility.json) |
 | [August 11 at 11:09 AM](https://archive.org/download/setopati-2022/setopati-2022-08-11T11:09:55.280100+05:45.accessibility.json) |
-| [August 11 at 12:08 AM](https://archive.org/download/setopati-2022/setopati-2022-08-11T00:08:17.723818+05:45.accessibility.json) |
-| [August 10 at 11:16 AM](https://archive.org/download/setopati-2022/setopati-2022-08-10T11:16:29.732995+05:45.accessibility.json) |
-| [August 9 at 11:38 PM](https://archive.org/download/setopati-2022/setopati-2022-08-09T23:38:19.278943+05:45.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 42 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 45 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 16 at 1:58 AM](https://archive.org/download/setopati-2022/setopati-2022-08-16T01:58:29.666741+05:45.lighthouse.json) |
+| [August 15 at 12:29 PM](https://archive.org/download/setopati-2022/setopati-2022-08-15T12:29:41.357774+05:45.lighthouse.json) |
+| [August 15 at 12:45 AM](https://archive.org/download/setopati-2022/setopati-2022-08-15T00:45:29.818968+05:45.lighthouse.json) |
 | [August 14 at 12:49 PM](https://archive.org/download/setopati-2022/setopati-2022-08-14T12:49:50.415423+05:45.lighthouse.json) |
 | [August 14 at 2:45 AM](https://archive.org/download/setopati-2022/setopati-2022-08-14T02:45:14.987938+05:45.lighthouse.json) |
 | [August 13 at 10:56 AM](https://archive.org/download/setopati-2022/setopati-2022-08-13T10:56:04.826382+05:45.lighthouse.json) |
@@ -534,9 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 12 at 3:31 PM](https://archive.org/download/setopati-2022/setopati-2022-08-12T15:31:29.801517+05:45.lighthouse.json) |
 | [August 12 at 12:40 AM](https://archive.org/download/setopati-2022/setopati-2022-08-12T00:40:16.047061+05:45.lighthouse.json) |
 | [August 11 at 11:10 AM](https://archive.org/download/setopati-2022/setopati-2022-08-11T11:09:55.280100+05:45.lighthouse.json) |
-| [August 11 at 12:08 AM](https://archive.org/download/setopati-2022/setopati-2022-08-11T00:08:17.723818+05:45.lighthouse.json) |
-| [August 10 at 11:16 AM](https://archive.org/download/setopati-2022/setopati-2022-08-10T11:16:29.732995+05:45.lighthouse.json) |
-| [August 9 at 11:38 PM](https://archive.org/download/setopati-2022/setopati-2022-08-09T23:38:19.278943+05:45.lighthouse.json) |
 
 
 

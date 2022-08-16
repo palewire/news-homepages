@@ -1,5 +1,5 @@
 {
-  "created": 1660475424,
+  "created": 1660594233,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/16/items/mercnews-2022",
@@ -11272,31 +11272,217 @@
       "sha1": "887c84ea3a178a5e57c3254f245c1fec39c27e9d"
     },
     {
+      "name": "mercnews-2022-08-14T10:26:18.782417-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660497985",
+      "size": "40602",
+      "md5": "2af8e48a8360b030a3461697535bc908",
+      "crc32": "561b8ec2",
+      "sha1": "5021af7cb2f077197cce261170dca960ee3f60de",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-08-14T10:26:18.782417-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660497988",
+      "size": "75173",
+      "md5": "d2d01e9497d724bd62085c8cd8b37dd1",
+      "crc32": "26904a35",
+      "sha1": "22852639e9e99b65ea0a26c9eacd0a5784411397",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-08-14T10:26:18.782417-07:00.jpg",
+      "source": "original",
+      "mtime": "1660497984",
+      "size": "287921",
+      "md5": "0e81b67b9a69e7d9edcf59e923451c4f",
+      "crc32": "93bae431",
+      "sha1": "f1c3e0f7a9510d3dff1a78d64a7d448a421a9978",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mercnews-2022-08-14T10:26:18.782417-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660497989",
+      "size": "1504",
+      "md5": "1482c938520caedd65232dc6af8eedd9",
+      "crc32": "0acd4753",
+      "sha1": "2fadf09d194a6b4a92af55349b54c8f6d68157c1",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-08-14T10:26:18.782417-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660497992",
+      "size": "270",
+      "md5": "3c451bc5d90a4192418be87be46f45d5",
+      "crc32": "6850ac75",
+      "sha1": "481d19b8a06880efe2542a1e5cff753881fb78af",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-08-14T10:26:18.782417-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mercnews-2022-08-14T10:26:18.782417-07:00.jpg",
+      "mtime": "1660498060",
+      "size": "9707",
+      "md5": "bfec5a87b4389bb20bbe89f6d284994d",
+      "crc32": "d86a4ccd",
+      "sha1": "3b05add14999a64cdb904f9c359c6ad056b70bba"
+    },
+    {
+      "name": "mercnews-2022-08-14T23:33:15.981985-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660545202",
+      "size": "41337",
+      "md5": "05449dd596d3bc8bcb6c0ce8ef6cbedc",
+      "crc32": "7d2bade1",
+      "sha1": "44300f14f8e11055d43a6b88238fa38c1dd92461",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-08-14T23:33:15.981985-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660545204",
+      "size": "48241",
+      "md5": "f90ab58eab1e8207af6ef9771ff9c095",
+      "crc32": "b4f54ea0",
+      "sha1": "139f410bbd0d8fc355d1bf946de6a8b3a48463c4",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-08-14T23:33:15.981985-07:00.jpg",
+      "source": "original",
+      "mtime": "1660545200",
+      "size": "305886",
+      "md5": "9146df57a3fe2d46585a58d907d3f153",
+      "crc32": "99d018a5",
+      "sha1": "6a9950fd322f398bfc5ed6f56980b832b5abf6c8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mercnews-2022-08-14T23:33:15.981985-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660545206",
+      "size": "1504",
+      "md5": "2f96a4e8ef95c8b7d9d73166c22d9d89",
+      "crc32": "39b9dae4",
+      "sha1": "2f058ce52ab06e8496c5867b7085030661925260",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-08-14T23:33:15.981985-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660545208",
+      "size": "29784",
+      "md5": "05b8f29ee406991a9bb5f130cb786621",
+      "crc32": "bd584e9b",
+      "sha1": "b10207ccf7c53cf7825cb7a5fab670ed5f1bc8e3",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-08-14T23:33:15.981985-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mercnews-2022-08-14T23:33:15.981985-07:00.jpg",
+      "mtime": "1660545307",
+      "size": "9717",
+      "md5": "d5ee215410c4fd92edff256ef32f4f26",
+      "crc32": "f98e828a",
+      "sha1": "b0b36ee0652a04cde58e1309d285694910f99562"
+    },
+    {
+      "name": "mercnews-2022-08-15T13:00:56.631182-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660593663",
+      "size": "40780",
+      "md5": "e1133ee2811ef883196c0437eac26a71",
+      "crc32": "0a59507a",
+      "sha1": "54804b6dab8c95f67c0a874d3346514941b2438c",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-08-15T13:00:56.631182-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660593666",
+      "size": "62338",
+      "md5": "22819511f778db80bff1ad10e6e053e0",
+      "crc32": "44374c2c",
+      "sha1": "8d4ba4a41d584d19754092cac345be09109d5984",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-08-15T13:00:56.631182-07:00.jpg",
+      "source": "original",
+      "mtime": "1660593661",
+      "size": "276544",
+      "md5": "68bcb67c211c5dafcbc0adfe970e94f3",
+      "crc32": "df43b74f",
+      "sha1": "6fecf51377995636fefcf278b1333dba4a4c8b60",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mercnews-2022-08-15T13:00:56.631182-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660593668",
+      "size": "1504",
+      "md5": "534b61f03f100f4a4658e573426c85d5",
+      "crc32": "c4c39628",
+      "sha1": "8d651277488a62ad7e1d6434774aae06a814bfca",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-08-15T13:00:56.631182-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660593674",
+      "size": "34042",
+      "md5": "d3edf2675da1d1e80fbcf491e67dacbf",
+      "crc32": "aec4da94",
+      "sha1": "fdbe5bd7ca26bcba220790e11d3a247d24fa47b2",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-08-15T13:00:56.631182-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mercnews-2022-08-15T13:00:56.631182-07:00.jpg",
+      "mtime": "1660594170",
+      "size": "9575",
+      "md5": "dfdc5df1bae6a1f443b7a236e149d9bb",
+      "crc32": "6a02f602",
+      "sha1": "da8e4afafbbaa9e0a1779b7a4e156bcb531ddec4"
+    },
+    {
       "name": "mercnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "952ac2689d32694803200ebd5cd770dcdebee18b",
-      "mtime": "1660460189",
-      "size": "228276",
-      "md5": "b36955b8f15f9cbdd3fcff78db8f7635",
-      "crc32": "ff99744c",
-      "sha1": "ec55b939bcba85a34126ea6a40eb2205c8a16306",
+      "btih": "b2f21199fbe5ef79528ec51be0119868d8fe0c51",
+      "mtime": "1660594212",
+      "size": "232055",
+      "md5": "03bbfd00a6d3491edfb3398438604b96",
+      "crc32": "fd98bb7e",
+      "sha1": "716e22771cf292d0002e6d0459ebf8d81de393e5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mercnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "386fdb1f4ad2c2e84c4a424290cd436c",
+      "md5": "c755d392dc491c97ecb121badf4a8fd4",
       "summation": "md5"
     },
     {
       "name": "mercnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660460121",
-      "size": "1257472",
-      "md5": "cb5cd41beae97473d678f9b75d166b61",
-      "crc32": "333373b7",
-      "sha1": "0c4757275731697138d34cca3ad412c5fa3d88b9",
+      "mtime": "1660593676",
+      "size": "1277952",
+      "md5": "7b4a19fe8e233147193d8ea3ca568f12",
+      "crc32": "78c23d33",
+      "sha1": "5105a1885b5380b0fbbae78698de26b6e63fa265",
       "format": "Metadata"
     },
     {
@@ -11310,9 +11496,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1079,
-  "item_last_updated": 1660460189,
-  "item_size": 104205224,
+  "files_count": 1097,
+  "item_last_updated": 1660594212,
+  "item_size": 105505912,
   "metadata": {
     "identifier": "mercnews-2022",
     "collection": [
@@ -11330,7 +11516,7 @@
     "addeddate": "2022-03-23 02:09:12"
   },
   "server": "ia802507.us.archive.org",
-  "uniq": 2143926428,
+  "uniq": 991626571,
   "workable_servers": [
     "ia802507.us.archive.org",
     "ia902507.us.archive.org"

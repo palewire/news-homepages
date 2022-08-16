@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 148 screenshots with the Internet Archive.
+The archiving routine has saved 151 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -114,6 +114,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-15T16:10:35.166835-04:00.jpg">
+  <img src="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-15T16:10:35.166835-04:00.jpg"
+     alt="Center for Public Integrity at 2022-08-15 16:10:36-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-15T16:10:35.166835-04:00.jpg">August 15 at 4:10 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-15T02:40:44.970031-04:00.jpg">
+  <img src="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-15T02:40:44.970031-04:00.jpg"
+     alt="Center for Public Integrity at 2022-08-15 02:40:47-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-15T02:40:44.970031-04:00.jpg">August 15 at 2:40 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-14T14:58:03.075315-04:00.jpg">
+  <img src="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-14T14:58:03.075315-04:00.jpg"
+     alt="Center for Public Integrity at 2022-08-14 14:58:06-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-14T14:58:03.075315-04:00.jpg">August 14 at 2:58 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-14T03:01:39.546623-04:00.jpg">
   <img src="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-14T03:01:39.546623-04:00.jpg"
      alt="Center for Public Integrity at 2022-08-14 03:01:41-04:00 local time"
@@ -194,38 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-10T01:28:17.770794-04:00.jpg">August 10 at 1:28 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-09T13:49:54.759022-04:00.jpg">
-  <img src="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-09T13:49:54.759022-04:00.jpg"
-     alt="Center for Public Integrity at 2022-08-09 13:50:02-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-09T13:49:54.759022-04:00.jpg">August 9 at 1:50 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-09T01:05:26.956091-04:00.jpg">
-  <img src="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-09T01:05:26.956091-04:00.jpg"
-     alt="Center for Public Integrity at 2022-08-09 01:05:28-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-09T01:05:26.956091-04:00.jpg">August 9 at 1:05 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-08T13:15:59.600304-04:00.jpg">
-  <img src="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-08T13:15:59.600304-04:00.jpg"
-     alt="Center for Public Integrity at 2022-08-08 13:16:00-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-08T13:15:59.600304-04:00.jpg">August 8 at 1:16 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 150 hyperlink lists with the Internet Archive.
+The archiving routine has saved 153 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 15 at 4:10 PM](https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-15T16:10:35.166835-04:00.hyperlinks.json) |
+| [August 15 at 2:40 AM](https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-15T02:40:44.970031-04:00.hyperlinks.json) |
+| [August 14 at 2:58 PM](https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-14T14:58:03.075315-04:00.hyperlinks.json) |
 | [August 14 at 3:01 AM](https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-14T03:01:39.546623-04:00.hyperlinks.json) |
 | [August 13 at 4:57 PM](https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-13T16:57:46.525011-04:00.hyperlinks.json) |
 | [August 13 at 1:08 AM](https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-13T01:08:46.164708-04:00.hyperlinks.json) |
@@ -323,14 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 5:43 AM](https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-12T05:43:40.791945-04:00.hyperlinks.json) |
 | [August 11 at 2:52 PM](https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-11T14:52:50.432863-04:00.hyperlinks.json) |
 | [August 11 at 1:22 AM](https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-11T01:22:48.928864-04:00.hyperlinks.json) |
-| [August 10 at 2:19 PM](https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-10T14:18:50.387374-04:00.hyperlinks.json) |
-| [August 10 at 1:28 AM](https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-10T01:28:17.770794-04:00.hyperlinks.json) |
-| [August 9 at 1:50 PM](https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-09T13:49:54.759022-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 150 accessibility trees with the Internet Archive.
+The archiving routine has saved 153 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 15 at 4:10 PM](https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-15T16:10:35.166835-04:00.accessibility.json) |
+| [August 15 at 2:40 AM](https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-15T02:40:44.970031-04:00.accessibility.json) |
+| [August 14 at 2:58 PM](https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-14T14:58:03.075315-04:00.accessibility.json) |
 | [August 14 at 3:01 AM](https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-14T03:01:39.546623-04:00.accessibility.json) |
 | [August 13 at 4:57 PM](https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-13T16:57:46.525011-04:00.accessibility.json) |
 | [August 13 at 1:08 AM](https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-13T01:08:46.164708-04:00.accessibility.json) |
@@ -428,15 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 5:43 AM](https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-12T05:43:40.791945-04:00.accessibility.json) |
 | [August 11 at 2:52 PM](https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-11T14:52:50.432863-04:00.accessibility.json) |
 | [August 11 at 1:22 AM](https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-11T01:22:48.928864-04:00.accessibility.json) |
-| [August 10 at 2:18 PM](https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-10T14:18:50.387374-04:00.accessibility.json) |
-| [August 10 at 1:28 AM](https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-10T01:28:17.770794-04:00.accessibility.json) |
-| [August 9 at 1:50 PM](https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-09T13:49:54.759022-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 43 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 46 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 15 at 4:10 PM](https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-15T16:10:35.166835-04:00.lighthouse.json) |
+| [August 15 at 2:40 AM](https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-15T02:40:44.970031-04:00.lighthouse.json) |
+| [August 14 at 2:58 PM](https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-14T14:58:03.075315-04:00.lighthouse.json) |
 | [August 14 at 3:01 AM](https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-14T03:01:39.546623-04:00.lighthouse.json) |
 | [August 13 at 4:57 PM](https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-13T16:57:46.525011-04:00.lighthouse.json) |
 | [August 13 at 1:08 AM](https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-13T01:08:46.164708-04:00.lighthouse.json) |
@@ -534,9 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 12 at 5:43 AM](https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-12T05:43:40.791945-04:00.lighthouse.json) |
 | [August 11 at 2:52 PM](https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-11T14:52:50.432863-04:00.lighthouse.json) |
 | [August 11 at 1:22 AM](https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-11T01:22:48.928864-04:00.lighthouse.json) |
-| [August 10 at 2:19 PM](https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-10T14:18:50.387374-04:00.lighthouse.json) |
-| [August 10 at 1:28 AM](https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-10T01:28:17.770794-04:00.lighthouse.json) |
-| [August 9 at 1:50 PM](https://archive.org/download/publicintegrity-2022/publicintegrity-2022-08-09T13:49:54.759022-04:00.lighthouse.json) |
 
 
 

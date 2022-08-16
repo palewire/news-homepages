@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 43 screenshots with the Internet Archive.
+The archiving routine has saved 46 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -114,6 +114,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/12khari-2022/12khari-2022-08-16T06:55:43.995757+05:45.jpg">
+  <img src="https://archive.org/download/12khari-2022/12khari-2022-08-16T06:55:43.995757+05:45.jpg"
+     alt="Baahrakhari at 2022-08-16 06:55:47+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/12khari-2022/12khari-2022-08-16T06:55:43.995757+05:45.jpg">August 16 at 6:55 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/12khari-2022/12khari-2022-08-15T19:29:39.946798+05:45.jpg">
+  <img src="https://archive.org/download/12khari-2022/12khari-2022-08-15T19:29:39.946798+05:45.jpg"
+     alt="Baahrakhari at 2022-08-15 19:29:44+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/12khari-2022/12khari-2022-08-15T19:29:39.946798+05:45.jpg">August 15 at 7:29 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/12khari-2022/12khari-2022-08-15T06:42:04.324551+05:45.jpg">
+  <img src="https://archive.org/download/12khari-2022/12khari-2022-08-15T06:42:04.324551+05:45.jpg"
+     alt="Baahrakhari at 2022-08-15 06:42:07+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/12khari-2022/12khari-2022-08-15T06:42:04.324551+05:45.jpg">August 15 at 6:42 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/12khari-2022/12khari-2022-08-14T19:04:51.043152+05:45.jpg">
   <img src="https://archive.org/download/12khari-2022/12khari-2022-08-14T19:04:51.043152+05:45.jpg"
      alt="Baahrakhari at 2022-08-14 19:04:54+05:45 local time"
@@ -194,38 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/12khari-2022/12khari-2022-08-10T18:35:19.646469+05:45.jpg">August 10 at 6:35 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/12khari-2022/12khari-2022-08-10T05:02:43.138977+05:45.jpg">
-  <img src="https://archive.org/download/12khari-2022/12khari-2022-08-10T05:02:43.138977+05:45.jpg"
-     alt="Baahrakhari at 2022-08-10 05:02:45+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/12khari-2022/12khari-2022-08-10T05:02:43.138977+05:45.jpg">August 10 at 5:02 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/12khari-2022/12khari-2022-08-09T18:19:53.539300+05:45.jpg">
-  <img src="https://archive.org/download/12khari-2022/12khari-2022-08-09T18:19:53.539300+05:45.jpg"
-     alt="Baahrakhari at 2022-08-09 18:19:55+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/12khari-2022/12khari-2022-08-09T18:19:53.539300+05:45.jpg">August 9 at 6:19 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/12khari-2022/12khari-2022-08-09T06:14:31.009582+05:45.jpg">
-  <img src="https://archive.org/download/12khari-2022/12khari-2022-08-09T06:14:31.009582+05:45.jpg"
-     alt="Baahrakhari at 2022-08-09 06:14:33+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/12khari-2022/12khari-2022-08-09T06:14:31.009582+05:45.jpg">August 9 at 6:14 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 43 hyperlink lists with the Internet Archive.
+The archiving routine has saved 46 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 16 at 6:55 AM](https://archive.org/download/12khari-2022/12khari-2022-08-16T06:55:43.995757+05:45.hyperlinks.json) |
+| [August 15 at 7:29 PM](https://archive.org/download/12khari-2022/12khari-2022-08-15T19:29:39.946798+05:45.hyperlinks.json) |
+| [August 15 at 6:42 AM](https://archive.org/download/12khari-2022/12khari-2022-08-15T06:42:04.324551+05:45.hyperlinks.json) |
 | [August 14 at 7:04 PM](https://archive.org/download/12khari-2022/12khari-2022-08-14T19:04:51.043152+05:45.hyperlinks.json) |
 | [August 14 at 5:28 AM](https://archive.org/download/12khari-2022/12khari-2022-08-14T05:28:16.405418+05:45.hyperlinks.json) |
 | [August 13 at 6:33 PM](https://archive.org/download/12khari-2022/12khari-2022-08-13T18:33:32.099951+05:45.hyperlinks.json) |
@@ -323,14 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 5:18 PM](https://archive.org/download/12khari-2022/12khari-2022-08-12T17:18:16.839231+05:45.hyperlinks.json) |
 | [August 12 at 5:01 AM](https://archive.org/download/12khari-2022/12khari-2022-08-12T05:01:02.401609+05:45.hyperlinks.json) |
 | [August 11 at 5:15 PM](https://archive.org/download/12khari-2022/12khari-2022-08-11T17:15:20.737931+05:45.hyperlinks.json) |
-| [August 11 at 6:19 AM](https://archive.org/download/12khari-2022/12khari-2022-08-11T06:19:37.852243+05:45.hyperlinks.json) |
-| [August 10 at 6:35 PM](https://archive.org/download/12khari-2022/12khari-2022-08-10T18:35:19.646469+05:45.hyperlinks.json) |
-| [August 10 at 5:02 AM](https://archive.org/download/12khari-2022/12khari-2022-08-10T05:02:43.138977+05:45.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 43 accessibility trees with the Internet Archive.
+The archiving routine has saved 46 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 16 at 6:55 AM](https://archive.org/download/12khari-2022/12khari-2022-08-16T06:55:43.995757+05:45.accessibility.json) |
+| [August 15 at 7:29 PM](https://archive.org/download/12khari-2022/12khari-2022-08-15T19:29:39.946798+05:45.accessibility.json) |
+| [August 15 at 6:42 AM](https://archive.org/download/12khari-2022/12khari-2022-08-15T06:42:04.324551+05:45.accessibility.json) |
 | [August 14 at 7:04 PM](https://archive.org/download/12khari-2022/12khari-2022-08-14T19:04:51.043152+05:45.accessibility.json) |
 | [August 14 at 5:28 AM](https://archive.org/download/12khari-2022/12khari-2022-08-14T05:28:16.405418+05:45.accessibility.json) |
 | [August 13 at 6:33 PM](https://archive.org/download/12khari-2022/12khari-2022-08-13T18:33:32.099951+05:45.accessibility.json) |
@@ -428,15 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 5:18 PM](https://archive.org/download/12khari-2022/12khari-2022-08-12T17:18:16.839231+05:45.accessibility.json) |
 | [August 12 at 5:01 AM](https://archive.org/download/12khari-2022/12khari-2022-08-12T05:01:02.401609+05:45.accessibility.json) |
 | [August 11 at 5:15 PM](https://archive.org/download/12khari-2022/12khari-2022-08-11T17:15:20.737931+05:45.accessibility.json) |
-| [August 11 at 6:19 AM](https://archive.org/download/12khari-2022/12khari-2022-08-11T06:19:37.852243+05:45.accessibility.json) |
-| [August 10 at 6:35 PM](https://archive.org/download/12khari-2022/12khari-2022-08-10T18:35:19.646469+05:45.accessibility.json) |
-| [August 10 at 5:02 AM](https://archive.org/download/12khari-2022/12khari-2022-08-10T05:02:43.138977+05:45.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 43 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 46 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 16 at 6:55 AM](https://archive.org/download/12khari-2022/12khari-2022-08-16T06:55:43.995757+05:45.lighthouse.json) |
+| [August 15 at 7:29 PM](https://archive.org/download/12khari-2022/12khari-2022-08-15T19:29:39.946798+05:45.lighthouse.json) |
+| [August 15 at 6:42 AM](https://archive.org/download/12khari-2022/12khari-2022-08-15T06:42:04.324551+05:45.lighthouse.json) |
 | [August 14 at 7:05 PM](https://archive.org/download/12khari-2022/12khari-2022-08-14T19:04:51.043152+05:45.lighthouse.json) |
 | [August 14 at 5:28 AM](https://archive.org/download/12khari-2022/12khari-2022-08-14T05:28:16.405418+05:45.lighthouse.json) |
 | [August 13 at 6:33 PM](https://archive.org/download/12khari-2022/12khari-2022-08-13T18:33:32.099951+05:45.lighthouse.json) |
@@ -534,9 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 12 at 5:18 PM](https://archive.org/download/12khari-2022/12khari-2022-08-12T17:18:16.839231+05:45.lighthouse.json) |
 | [August 12 at 5:01 AM](https://archive.org/download/12khari-2022/12khari-2022-08-12T05:01:02.401609+05:45.lighthouse.json) |
 | [August 11 at 5:15 PM](https://archive.org/download/12khari-2022/12khari-2022-08-11T17:15:20.737931+05:45.lighthouse.json) |
-| [August 11 at 6:19 AM](https://archive.org/download/12khari-2022/12khari-2022-08-11T06:19:37.852243+05:45.lighthouse.json) |
-| [August 10 at 6:35 PM](https://archive.org/download/12khari-2022/12khari-2022-08-10T18:35:19.646469+05:45.lighthouse.json) |
-| [August 10 at 5:02 AM](https://archive.org/download/12khari-2022/12khari-2022-08-10T05:02:43.138977+05:45.lighthouse.json) |
 
 
 

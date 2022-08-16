@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 73 screenshots with the Internet Archive.
+The archiving routine has saved 76 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -114,6 +114,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-15T12:39:57.952233-07:00.jpg">
+  <img src="https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-15T12:39:57.952233-07:00.jpg"
+     alt="Tucson Sentinel at 2022-08-15 12:40:06-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-15T12:39:57.952233-07:00.jpg">August 15 at 12:40 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-14T20:16:46.371935-07:00.jpg">
+  <img src="https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-14T20:16:46.371935-07:00.jpg"
+     alt="Tucson Sentinel at 2022-08-14 20:16:56-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-14T20:16:46.371935-07:00.jpg">August 14 at 8:16 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-14T10:07:31.300607-07:00.jpg">
+  <img src="https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-14T10:07:31.300607-07:00.jpg"
+     alt="Tucson Sentinel at 2022-08-14 10:07:33-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-14T10:07:31.300607-07:00.jpg">August 14 at 10:07 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-13T22:09:42.567042-07:00.jpg">
   <img src="https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-13T22:09:42.567042-07:00.jpg"
      alt="Tucson Sentinel at 2022-08-13 22:09:47-07:00 local time"
@@ -194,38 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-09T19:40:26.016214-07:00.jpg">August 9 at 7:40 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-09T07:42:43.501777-07:00.jpg">
-  <img src="https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-09T07:42:43.501777-07:00.jpg"
-     alt="Tucson Sentinel at 2022-08-09 07:42:47-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-09T07:42:43.501777-07:00.jpg">August 9 at 7:42 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-08T19:27:09.974151-07:00.jpg">
-  <img src="https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-08T19:27:09.974151-07:00.jpg"
-     alt="Tucson Sentinel at 2022-08-08 19:27:17-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-08T19:27:09.974151-07:00.jpg">August 8 at 7:27 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-08T07:24:28.586298-07:00.jpg">
-  <img src="https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-08T07:24:28.586298-07:00.jpg"
-     alt="Tucson Sentinel at 2022-08-08 07:24:30-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-08T07:24:28.586298-07:00.jpg">August 8 at 7:24 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 73 hyperlink lists with the Internet Archive.
+The archiving routine has saved 76 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 15 at 12:40 PM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-15T12:39:57.952233-07:00.hyperlinks.json) |
+| [August 14 at 8:16 PM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-14T20:16:46.371935-07:00.hyperlinks.json) |
+| [August 14 at 10:07 AM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-14T10:07:31.300607-07:00.hyperlinks.json) |
 | [August 13 at 10:09 PM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-13T22:09:42.567042-07:00.hyperlinks.json) |
 | [August 13 at 1:47 PM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-13T13:47:46.980097-07:00.hyperlinks.json) |
 | [August 12 at 7:18 PM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-12T19:18:30.392556-07:00.hyperlinks.json) |
@@ -323,14 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 2:37 AM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-12T02:37:06.867854-07:00.hyperlinks.json) |
 | [August 11 at 7:08 PM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-11T19:08:00.412504-07:00.hyperlinks.json) |
 | [August 11 at 10:09 AM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-11T10:09:13.810909-07:00.hyperlinks.json) |
-| [August 10 at 7:29 PM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-10T19:29:41.868871-07:00.hyperlinks.json) |
-| [August 10 at 10:52 AM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-10T10:51:55.016143-07:00.hyperlinks.json) |
-| [August 9 at 7:40 PM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-09T19:40:26.016214-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 76 accessibility trees with the Internet Archive.
+The archiving routine has saved 79 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 15 at 12:40 PM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-15T12:39:57.952233-07:00.accessibility.json) |
+| [August 14 at 8:16 PM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-14T20:16:46.371935-07:00.accessibility.json) |
+| [August 14 at 10:07 AM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-14T10:07:31.300607-07:00.accessibility.json) |
 | [August 13 at 10:09 PM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-13T22:09:42.567042-07:00.accessibility.json) |
 | [August 13 at 1:47 PM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-13T13:47:46.980097-07:00.accessibility.json) |
 | [August 12 at 7:18 PM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-12T19:18:30.392556-07:00.accessibility.json) |
@@ -428,15 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 2:37 AM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-12T02:37:06.867854-07:00.accessibility.json) |
 | [August 11 at 7:08 PM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-11T19:08:00.412504-07:00.accessibility.json) |
 | [August 11 at 10:09 AM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-11T10:09:13.810909-07:00.accessibility.json) |
-| [August 10 at 7:29 PM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-10T19:29:41.868871-07:00.accessibility.json) |
-| [August 10 at 10:51 AM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-10T10:51:55.016143-07:00.accessibility.json) |
-| [August 9 at 7:40 PM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-09T19:40:26.016214-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 46 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 49 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 15 at 12:40 PM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-15T12:39:57.952233-07:00.lighthouse.json) |
+| [August 14 at 8:17 PM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-14T20:16:46.371935-07:00.lighthouse.json) |
+| [August 14 at 10:07 AM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-14T10:07:31.300607-07:00.lighthouse.json) |
 | [August 13 at 10:09 PM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-13T22:09:42.567042-07:00.lighthouse.json) |
 | [August 13 at 1:48 PM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-13T13:47:46.980097-07:00.lighthouse.json) |
 | [August 12 at 7:18 PM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-12T19:18:30.392556-07:00.lighthouse.json) |
@@ -534,9 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 12 at 2:37 AM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-12T02:37:06.867854-07:00.lighthouse.json) |
 | [August 11 at 7:08 PM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-11T19:08:00.412504-07:00.lighthouse.json) |
 | [August 11 at 10:09 AM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-11T10:09:13.810909-07:00.lighthouse.json) |
-| [August 10 at 7:29 PM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-10T19:29:41.868871-07:00.lighthouse.json) |
-| [August 10 at 10:52 AM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-10T10:51:55.016143-07:00.lighthouse.json) |
-| [August 9 at 7:40 PM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-08-09T19:40:26.016214-07:00.lighthouse.json) |
 
 
 

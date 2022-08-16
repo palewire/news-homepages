@@ -22,13 +22,123 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 28 screenshots with the Internet Archive.
+The archiving routine has saved 31 screenshots with the Internet Archive.
 
+
+  <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specScreenshots = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/screenshots/wkyt.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wkyt-2022/wkyt-2022-08-15T15:43:45.826900-04:00.jpg">
+  <img src="https://archive.org/download/wkyt-2022/wkyt-2022-08-15T15:43:45.826900-04:00.jpg"
+     alt="WKYT at 2022-08-15 15:43:49-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wkyt-2022/wkyt-2022-08-15T15:43:45.826900-04:00.jpg">August 15 at 3:43 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wkyt-2022/wkyt-2022-08-14T23:19:52.746450-04:00.jpg">
+  <img src="https://archive.org/download/wkyt-2022/wkyt-2022-08-14T23:19:52.746450-04:00.jpg"
+     alt="WKYT at 2022-08-14 23:19:54-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wkyt-2022/wkyt-2022-08-14T23:19:52.746450-04:00.jpg">August 14 at 11:19 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wkyt-2022/wkyt-2022-08-14T13:09:38.399065-04:00.jpg">
+  <img src="https://archive.org/download/wkyt-2022/wkyt-2022-08-14T13:09:38.399065-04:00.jpg"
+     alt="WKYT at 2022-08-14 13:09:40-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wkyt-2022/wkyt-2022-08-14T13:09:38.399065-04:00.jpg">August 14 at 1:09 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wkyt-2022/wkyt-2022-08-14T01:13:16.257683-04:00.jpg">
@@ -111,45 +221,104 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wkyt-2022/wkyt-2022-08-09T22:44:43.705678-04:00.jpg">August 9 at 10:44 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wkyt-2022/wkyt-2022-08-09T10:46:18.119440-04:00.jpg">
-  <img src="https://archive.org/download/wkyt-2022/wkyt-2022-08-09T10:46:18.119440-04:00.jpg"
-     alt="WKYT at 2022-08-09 10:46:19-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wkyt-2022/wkyt-2022-08-09T10:46:18.119440-04:00.jpg">August 9 at 10:46 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wkyt-2022/wkyt-2022-08-08T22:30:13.937232-04:00.jpg">
-  <img src="https://archive.org/download/wkyt-2022/wkyt-2022-08-08T22:30:13.937232-04:00.jpg"
-     alt="WKYT at 2022-08-08 22:30:14-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wkyt-2022/wkyt-2022-08-08T22:30:13.937232-04:00.jpg">August 8 at 10:30 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wkyt-2022/wkyt-2022-08-08T10:27:32.531742-04:00.jpg">
-  <img src="https://archive.org/download/wkyt-2022/wkyt-2022-08-08T10:27:32.531742-04:00.jpg"
-     alt="WKYT at 2022-08-08 10:27:33-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wkyt-2022/wkyt-2022-08-08T10:27:32.531742-04:00.jpg">August 8 at 10:27 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 29 hyperlink lists with the Internet Archive.
+The archiving routine has saved 32 hyperlink lists with the Internet Archive.
 
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specHyperlinks = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/wkyt.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 15 at 3:43 PM](https://archive.org/download/wkyt-2022/wkyt-2022-08-15T15:43:45.826900-04:00.hyperlinks.json) |
+| [August 14 at 11:19 PM](https://archive.org/download/wkyt-2022/wkyt-2022-08-14T23:19:52.746450-04:00.hyperlinks.json) |
+| [August 14 at 1:09 PM](https://archive.org/download/wkyt-2022/wkyt-2022-08-14T13:09:38.399065-04:00.hyperlinks.json) |
 | [August 14 at 1:13 AM](https://archive.org/download/wkyt-2022/wkyt-2022-08-14T01:13:16.257683-04:00.hyperlinks.json) |
 | [August 13 at 4:51 PM](https://archive.org/download/wkyt-2022/wkyt-2022-08-13T16:51:01.226670-04:00.hyperlinks.json) |
 | [August 12 at 10:21 PM](https://archive.org/download/wkyt-2022/wkyt-2022-08-12T22:21:32.909435-04:00.hyperlinks.json) |
@@ -157,21 +326,104 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 5:38 AM](https://archive.org/download/wkyt-2022/wkyt-2022-08-12T05:38:54.594640-04:00.hyperlinks.json) |
 | [August 11 at 10:10 PM](https://archive.org/download/wkyt-2022/wkyt-2022-08-11T22:09:59.172335-04:00.hyperlinks.json) |
 | [August 11 at 1:13 PM](https://archive.org/download/wkyt-2022/wkyt-2022-08-11T13:13:12.113150-04:00.hyperlinks.json) |
-| [August 10 at 10:32 PM](https://archive.org/download/wkyt-2022/wkyt-2022-08-10T22:32:00.777187-04:00.hyperlinks.json) |
-| [August 10 at 1:54 PM](https://archive.org/download/wkyt-2022/wkyt-2022-08-10T13:54:49.304701-04:00.hyperlinks.json) |
-| [August 9 at 10:44 PM](https://archive.org/download/wkyt-2022/wkyt-2022-08-09T22:44:43.705678-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 29 accessibility trees with the Internet Archive.
+The archiving routine has saved 32 accessibility trees with the Internet Archive.
 
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/wkyt.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 15 at 3:43 PM](https://archive.org/download/wkyt-2022/wkyt-2022-08-15T15:43:45.826900-04:00.accessibility.json) |
+| [August 14 at 11:19 PM](https://archive.org/download/wkyt-2022/wkyt-2022-08-14T23:19:52.746450-04:00.accessibility.json) |
+| [August 14 at 1:09 PM](https://archive.org/download/wkyt-2022/wkyt-2022-08-14T13:09:38.399065-04:00.accessibility.json) |
 | [August 14 at 1:13 AM](https://archive.org/download/wkyt-2022/wkyt-2022-08-14T01:13:16.257683-04:00.accessibility.json) |
 | [August 13 at 4:51 PM](https://archive.org/download/wkyt-2022/wkyt-2022-08-13T16:51:01.226670-04:00.accessibility.json) |
 | [August 12 at 10:21 PM](https://archive.org/download/wkyt-2022/wkyt-2022-08-12T22:21:32.909435-04:00.accessibility.json) |
@@ -179,22 +431,105 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 5:38 AM](https://archive.org/download/wkyt-2022/wkyt-2022-08-12T05:38:54.594640-04:00.accessibility.json) |
 | [August 11 at 10:10 PM](https://archive.org/download/wkyt-2022/wkyt-2022-08-11T22:09:59.172335-04:00.accessibility.json) |
 | [August 11 at 1:13 PM](https://archive.org/download/wkyt-2022/wkyt-2022-08-11T13:13:12.113150-04:00.accessibility.json) |
-| [August 10 at 10:32 PM](https://archive.org/download/wkyt-2022/wkyt-2022-08-10T22:32:00.777187-04:00.accessibility.json) |
-| [August 10 at 1:54 PM](https://archive.org/download/wkyt-2022/wkyt-2022-08-10T13:54:49.304701-04:00.accessibility.json) |
-| [August 9 at 10:44 PM](https://archive.org/download/wkyt-2022/wkyt-2022-08-09T22:44:43.705678-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 29 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
 
+
+  <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specLighthouse = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/lighthouse/wkyt.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--lighthouse", specLighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 15 at 3:43 PM](https://archive.org/download/wkyt-2022/wkyt-2022-08-15T15:43:45.826900-04:00.lighthouse.json) |
+| [August 14 at 11:20 PM](https://archive.org/download/wkyt-2022/wkyt-2022-08-14T23:19:52.746450-04:00.lighthouse.json) |
+| [August 14 at 1:09 PM](https://archive.org/download/wkyt-2022/wkyt-2022-08-14T13:09:38.399065-04:00.lighthouse.json) |
 | [August 14 at 1:13 AM](https://archive.org/download/wkyt-2022/wkyt-2022-08-14T01:13:16.257683-04:00.lighthouse.json) |
 | [August 13 at 4:51 PM](https://archive.org/download/wkyt-2022/wkyt-2022-08-13T16:51:01.226670-04:00.lighthouse.json) |
 | [August 12 at 10:21 PM](https://archive.org/download/wkyt-2022/wkyt-2022-08-12T22:21:32.909435-04:00.lighthouse.json) |
@@ -202,9 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 12 at 5:39 AM](https://archive.org/download/wkyt-2022/wkyt-2022-08-12T05:38:54.594640-04:00.lighthouse.json) |
 | [August 11 at 10:10 PM](https://archive.org/download/wkyt-2022/wkyt-2022-08-11T22:09:59.172335-04:00.lighthouse.json) |
 | [August 11 at 1:13 PM](https://archive.org/download/wkyt-2022/wkyt-2022-08-11T13:13:12.113150-04:00.lighthouse.json) |
-| [August 10 at 10:32 PM](https://archive.org/download/wkyt-2022/wkyt-2022-08-10T22:32:00.777187-04:00.lighthouse.json) |
-| [August 10 at 1:54 PM](https://archive.org/download/wkyt-2022/wkyt-2022-08-10T13:54:49.304701-04:00.lighthouse.json) |
-| [August 9 at 10:44 PM](https://archive.org/download/wkyt-2022/wkyt-2022-08-09T22:44:43.705678-04:00.lighthouse.json) |
 
 
 

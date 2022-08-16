@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 338 screenshots with the Internet Archive.
+The archiving routine has saved 342 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -114,6 +114,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/vcstar-2022/vcstar-2022-08-15T13:20:56.075973-07:00.jpg">
+  <img src="https://archive.org/download/vcstar-2022/vcstar-2022-08-15T13:20:56.075973-07:00.jpg"
+     alt="Ventura County Star at 2022-08-15 13:21:01-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-08-15T13:20:56.075973-07:00.jpg">August 15 at 1:21 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/vcstar-2022/vcstar-2022-08-14T23:50:16.666558-07:00.jpg">
+  <img src="https://archive.org/download/vcstar-2022/vcstar-2022-08-14T23:50:16.666558-07:00.jpg"
+     alt="Ventura County Star at 2022-08-14 23:50:18-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-08-14T23:50:16.666558-07:00.jpg">August 14 at 11:50 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/vcstar-2022/vcstar-2022-08-14T12:51:06.526956-07:00.jpg">
+  <img src="https://archive.org/download/vcstar-2022/vcstar-2022-08-14T12:51:06.526956-07:00.jpg"
+     alt="Ventura County Star at 2022-08-14 12:51:08-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-08-14T12:51:06.526956-07:00.jpg">August 14 at 12:51 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/vcstar-2022/vcstar-2022-08-14T12:06:59.057379-07:00.jpg">
+  <img src="https://archive.org/download/vcstar-2022/vcstar-2022-08-14T12:06:59.057379-07:00.jpg"
+     alt="Ventura County Star at 2022-08-14 12:07:04-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-08-14T12:06:59.057379-07:00.jpg">August 14 at 12:07 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/vcstar-2022/vcstar-2022-08-14T00:10:55.841604-07:00.jpg">
   <img src="https://archive.org/download/vcstar-2022/vcstar-2022-08-14T00:10:55.841604-07:00.jpg"
      alt="Ventura County Star at 2022-08-14 00:10:57-07:00 local time"
@@ -185,47 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-08-11T12:00:09.146180-07:00.jpg">August 11 at 12:00 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/vcstar-2022/vcstar-2022-08-10T22:30:08.982133-07:00.jpg">
-  <img src="https://archive.org/download/vcstar-2022/vcstar-2022-08-10T22:30:08.982133-07:00.jpg"
-     alt="Ventura County Star at 2022-08-10 22:30:11-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-08-10T22:30:08.982133-07:00.jpg">August 10 at 10:30 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/vcstar-2022/vcstar-2022-08-10T12:37:09.614401-07:00.jpg">
-  <img src="https://archive.org/download/vcstar-2022/vcstar-2022-08-10T12:37:09.614401-07:00.jpg"
-     alt="Ventura County Star at 2022-08-10 12:37:11-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-08-10T12:37:09.614401-07:00.jpg">August 10 at 12:37 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/vcstar-2022/vcstar-2022-08-10T11:30:04.385605-07:00.jpg">
-  <img src="https://archive.org/download/vcstar-2022/vcstar-2022-08-10T11:30:04.385605-07:00.jpg"
-     alt="Ventura County Star at 2022-08-10 11:30:07-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-08-10T11:30:04.385605-07:00.jpg">August 10 at 11:30 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/vcstar-2022/vcstar-2022-08-09T22:36:38.228907-07:00.jpg">
-  <img src="https://archive.org/download/vcstar-2022/vcstar-2022-08-09T22:36:38.228907-07:00.jpg"
-     alt="Ventura County Star at 2022-08-09 22:36:39-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-08-09T22:36:38.228907-07:00.jpg">August 9 at 10:36 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 316 hyperlink lists with the Internet Archive.
+The archiving routine has saved 320 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,21 +316,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 15 at 1:21 PM](https://archive.org/download/vcstar-2022/vcstar-2022-08-15T13:20:56.075973-07:00.hyperlinks.json) |
+| [August 14 at 11:50 PM](https://archive.org/download/vcstar-2022/vcstar-2022-08-14T23:50:16.666558-07:00.hyperlinks.json) |
+| [August 14 at 12:51 PM](https://archive.org/download/vcstar-2022/vcstar-2022-08-14T12:51:06.526956-07:00.hyperlinks.json) |
+| [August 14 at 12:07 PM](https://archive.org/download/vcstar-2022/vcstar-2022-08-14T12:06:59.057379-07:00.hyperlinks.json) |
 | [August 14 at 12:11 AM](https://archive.org/download/vcstar-2022/vcstar-2022-08-14T00:10:55.841604-07:00.hyperlinks.json) |
 | [August 13 at 2:05 PM](https://archive.org/download/vcstar-2022/vcstar-2022-08-13T14:05:47.358682-07:00.hyperlinks.json) |
 | [August 12 at 10:16 PM](https://archive.org/download/vcstar-2022/vcstar-2022-08-12T22:16:15.189087-07:00.hyperlinks.json) |
 | [August 12 at 12:12 PM](https://archive.org/download/vcstar-2022/vcstar-2022-08-12T12:12:29.782238-07:00.hyperlinks.json) |
 | [August 12 at 11:29 AM](https://archive.org/download/vcstar-2022/vcstar-2022-08-12T11:29:22.162408-07:00.hyperlinks.json) |
 | [August 11 at 12:42 PM](https://archive.org/download/vcstar-2022/vcstar-2022-08-11T12:42:40.044305-07:00.hyperlinks.json) |
-| [August 10 at 10:30 PM](https://archive.org/download/vcstar-2022/vcstar-2022-08-10T22:30:08.982133-07:00.hyperlinks.json) |
-| [August 10 at 12:37 PM](https://archive.org/download/vcstar-2022/vcstar-2022-08-10T12:37:09.614401-07:00.hyperlinks.json) |
-| [August 10 at 11:30 AM](https://archive.org/download/vcstar-2022/vcstar-2022-08-10T11:30:04.385605-07:00.hyperlinks.json) |
-| [August 9 at 10:36 PM](https://archive.org/download/vcstar-2022/vcstar-2022-08-09T22:36:38.228907-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 323 accessibility trees with the Internet Archive.
+The archiving routine has saved 327 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,22 +421,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 15 at 1:21 PM](https://archive.org/download/vcstar-2022/vcstar-2022-08-15T13:20:56.075973-07:00.accessibility.json) |
+| [August 14 at 11:50 PM](https://archive.org/download/vcstar-2022/vcstar-2022-08-14T23:50:16.666558-07:00.accessibility.json) |
+| [August 14 at 12:51 PM](https://archive.org/download/vcstar-2022/vcstar-2022-08-14T12:51:06.526956-07:00.accessibility.json) |
+| [August 14 at 12:07 PM](https://archive.org/download/vcstar-2022/vcstar-2022-08-14T12:06:59.057379-07:00.accessibility.json) |
 | [August 14 at 12:10 AM](https://archive.org/download/vcstar-2022/vcstar-2022-08-14T00:10:55.841604-07:00.accessibility.json) |
 | [August 13 at 2:05 PM](https://archive.org/download/vcstar-2022/vcstar-2022-08-13T14:05:47.358682-07:00.accessibility.json) |
 | [August 12 at 10:16 PM](https://archive.org/download/vcstar-2022/vcstar-2022-08-12T22:16:15.189087-07:00.accessibility.json) |
 | [August 12 at 12:12 PM](https://archive.org/download/vcstar-2022/vcstar-2022-08-12T12:12:29.782238-07:00.accessibility.json) |
 | [August 12 at 11:29 AM](https://archive.org/download/vcstar-2022/vcstar-2022-08-12T11:29:22.162408-07:00.accessibility.json) |
 | [August 12 at 2:50 AM](https://archive.org/download/vcstar-2022/vcstar-2022-08-12T02:50:05.216844-07:00.accessibility.json) |
-| [August 11 at 12:42 PM](https://archive.org/download/vcstar-2022/vcstar-2022-08-11T12:42:40.044305-07:00.accessibility.json) |
-| [August 11 at 12:00 PM](https://archive.org/download/vcstar-2022/vcstar-2022-08-11T12:00:09.146180-07:00.accessibility.json) |
-| [August 10 at 10:30 PM](https://archive.org/download/vcstar-2022/vcstar-2022-08-10T22:30:08.982133-07:00.accessibility.json) |
-| [August 10 at 12:37 PM](https://archive.org/download/vcstar-2022/vcstar-2022-08-10T12:37:09.614401-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 63 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 67 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,16 +527,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 15 at 1:21 PM](https://archive.org/download/vcstar-2022/vcstar-2022-08-15T13:20:56.075973-07:00.lighthouse.json) |
+| [August 14 at 11:50 PM](https://archive.org/download/vcstar-2022/vcstar-2022-08-14T23:50:16.666558-07:00.lighthouse.json) |
+| [August 14 at 12:51 PM](https://archive.org/download/vcstar-2022/vcstar-2022-08-14T12:51:06.526956-07:00.lighthouse.json) |
+| [August 14 at 12:07 PM](https://archive.org/download/vcstar-2022/vcstar-2022-08-14T12:06:59.057379-07:00.lighthouse.json) |
 | [August 14 at 12:11 AM](https://archive.org/download/vcstar-2022/vcstar-2022-08-14T00:10:55.841604-07:00.lighthouse.json) |
 | [August 13 at 2:05 PM](https://archive.org/download/vcstar-2022/vcstar-2022-08-13T14:05:47.358682-07:00.lighthouse.json) |
 | [August 12 at 10:16 PM](https://archive.org/download/vcstar-2022/vcstar-2022-08-12T22:16:15.189087-07:00.lighthouse.json) |
 | [August 12 at 12:12 PM](https://archive.org/download/vcstar-2022/vcstar-2022-08-12T12:12:29.782238-07:00.lighthouse.json) |
 | [August 12 at 11:29 AM](https://archive.org/download/vcstar-2022/vcstar-2022-08-12T11:29:22.162408-07:00.lighthouse.json) |
 | [August 12 at 2:50 AM](https://archive.org/download/vcstar-2022/vcstar-2022-08-12T02:50:05.216844-07:00.lighthouse.json) |
-| [August 11 at 12:42 PM](https://archive.org/download/vcstar-2022/vcstar-2022-08-11T12:42:40.044305-07:00.lighthouse.json) |
-| [August 11 at 12:00 PM](https://archive.org/download/vcstar-2022/vcstar-2022-08-11T12:00:09.146180-07:00.lighthouse.json) |
-| [August 10 at 10:30 PM](https://archive.org/download/vcstar-2022/vcstar-2022-08-10T22:30:08.982133-07:00.lighthouse.json) |
-| [August 10 at 12:37 PM](https://archive.org/download/vcstar-2022/vcstar-2022-08-10T12:37:09.614401-07:00.lighthouse.json) |
 
 
 

@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 51 screenshots with the Internet Archive.
+The archiving routine has saved 54 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -114,6 +114,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-08-15T21:46:19.899647+02:00.jpg">
+  <img src="https://archive.org/download/dagbladet-2022/dagbladet-2022-08-15T21:46:19.899647+02:00.jpg"
+     alt="Dagbladet at 2022-08-15 21:46:24+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-08-15T21:46:19.899647+02:00.jpg">August 15 at 9:46 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-08-15T08:20:15.419823+02:00.jpg">
+  <img src="https://archive.org/download/dagbladet-2022/dagbladet-2022-08-15T08:20:15.419823+02:00.jpg"
+     alt="Dagbladet at 2022-08-15 08:20:17+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-08-15T08:20:15.419823+02:00.jpg">August 15 at 8:20 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-08-14T19:14:39.928650+02:00.jpg">
+  <img src="https://archive.org/download/dagbladet-2022/dagbladet-2022-08-14T19:14:39.928650+02:00.jpg"
+     alt="Dagbladet at 2022-08-14 19:14:41+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-08-14T19:14:39.928650+02:00.jpg">August 14 at 7:14 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-08-14T08:40:24.369766+02:00.jpg">
   <img src="https://archive.org/download/dagbladet-2022/dagbladet-2022-08-14T08:40:24.369766+02:00.jpg"
      alt="Dagbladet at 2022-08-14 08:40:26+02:00 local time"
@@ -194,38 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-08-10T05:54:53.112290+02:00.jpg">August 10 at 5:54 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-08-09T19:19:04.973436+02:00.jpg">
-  <img src="https://archive.org/download/dagbladet-2022/dagbladet-2022-08-09T19:19:04.973436+02:00.jpg"
-     alt="Dagbladet at 2022-08-09 19:19:06+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-08-09T19:19:04.973436+02:00.jpg">August 9 at 7:19 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-08-09T05:39:03.830142+02:00.jpg">
-  <img src="https://archive.org/download/dagbladet-2022/dagbladet-2022-08-09T05:39:03.830142+02:00.jpg"
-     alt="Dagbladet at 2022-08-09 05:39:08+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-08-09T05:39:03.830142+02:00.jpg">August 9 at 5:39 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-08-08T18:55:29.237486+02:00.jpg">
-  <img src="https://archive.org/download/dagbladet-2022/dagbladet-2022-08-08T18:55:29.237486+02:00.jpg"
-     alt="Dagbladet at 2022-08-08 18:55:30+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dagbladet-2022/dagbladet-2022-08-08T18:55:29.237486+02:00.jpg">August 8 at 6:55 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 50 hyperlink lists with the Internet Archive.
+The archiving routine has saved 53 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 15 at 9:46 PM](https://archive.org/download/dagbladet-2022/dagbladet-2022-08-15T21:46:19.899647+02:00.hyperlinks.json) |
+| [August 15 at 8:20 AM](https://archive.org/download/dagbladet-2022/dagbladet-2022-08-15T08:20:15.419823+02:00.hyperlinks.json) |
+| [August 14 at 7:14 PM](https://archive.org/download/dagbladet-2022/dagbladet-2022-08-14T19:14:39.928650+02:00.hyperlinks.json) |
 | [August 14 at 8:40 AM](https://archive.org/download/dagbladet-2022/dagbladet-2022-08-14T08:40:24.369766+02:00.hyperlinks.json) |
 | [August 13 at 10:16 PM](https://archive.org/download/dagbladet-2022/dagbladet-2022-08-13T22:16:09.353779+02:00.hyperlinks.json) |
 | [August 13 at 5:35 AM](https://archive.org/download/dagbladet-2022/dagbladet-2022-08-13T05:35:14.498291+02:00.hyperlinks.json) |
@@ -323,14 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 11:54 AM](https://archive.org/download/dagbladet-2022/dagbladet-2022-08-12T11:54:01.876074+02:00.hyperlinks.json) |
 | [August 11 at 8:34 PM](https://archive.org/download/dagbladet-2022/dagbladet-2022-08-11T20:34:19.675003+02:00.hyperlinks.json) |
 | [August 11 at 5:47 AM](https://archive.org/download/dagbladet-2022/dagbladet-2022-08-11T05:47:11.238940+02:00.hyperlinks.json) |
-| [August 10 at 7:57 PM](https://archive.org/download/dagbladet-2022/dagbladet-2022-08-10T19:57:50.036339+02:00.hyperlinks.json) |
-| [August 10 at 5:54 AM](https://archive.org/download/dagbladet-2022/dagbladet-2022-08-10T05:54:53.112290+02:00.hyperlinks.json) |
-| [August 9 at 7:19 PM](https://archive.org/download/dagbladet-2022/dagbladet-2022-08-09T19:19:04.973436+02:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 51 accessibility trees with the Internet Archive.
+The archiving routine has saved 54 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 15 at 9:46 PM](https://archive.org/download/dagbladet-2022/dagbladet-2022-08-15T21:46:19.899647+02:00.accessibility.json) |
+| [August 15 at 8:20 AM](https://archive.org/download/dagbladet-2022/dagbladet-2022-08-15T08:20:15.419823+02:00.accessibility.json) |
+| [August 14 at 7:14 PM](https://archive.org/download/dagbladet-2022/dagbladet-2022-08-14T19:14:39.928650+02:00.accessibility.json) |
 | [August 14 at 8:40 AM](https://archive.org/download/dagbladet-2022/dagbladet-2022-08-14T08:40:24.369766+02:00.accessibility.json) |
 | [August 13 at 10:16 PM](https://archive.org/download/dagbladet-2022/dagbladet-2022-08-13T22:16:09.353779+02:00.accessibility.json) |
 | [August 13 at 5:35 AM](https://archive.org/download/dagbladet-2022/dagbladet-2022-08-13T05:35:14.498291+02:00.accessibility.json) |
@@ -428,15 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 11:54 AM](https://archive.org/download/dagbladet-2022/dagbladet-2022-08-12T11:54:01.876074+02:00.accessibility.json) |
 | [August 11 at 8:34 PM](https://archive.org/download/dagbladet-2022/dagbladet-2022-08-11T20:34:19.675003+02:00.accessibility.json) |
 | [August 11 at 5:47 AM](https://archive.org/download/dagbladet-2022/dagbladet-2022-08-11T05:47:11.238940+02:00.accessibility.json) |
-| [August 10 at 7:57 PM](https://archive.org/download/dagbladet-2022/dagbladet-2022-08-10T19:57:50.036339+02:00.accessibility.json) |
-| [August 10 at 5:54 AM](https://archive.org/download/dagbladet-2022/dagbladet-2022-08-10T05:54:53.112290+02:00.accessibility.json) |
-| [August 9 at 7:19 PM](https://archive.org/download/dagbladet-2022/dagbladet-2022-08-09T19:19:04.973436+02:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 43 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 46 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 15 at 9:46 PM](https://archive.org/download/dagbladet-2022/dagbladet-2022-08-15T21:46:19.899647+02:00.lighthouse.json) |
+| [August 15 at 8:20 AM](https://archive.org/download/dagbladet-2022/dagbladet-2022-08-15T08:20:15.419823+02:00.lighthouse.json) |
+| [August 14 at 7:14 PM](https://archive.org/download/dagbladet-2022/dagbladet-2022-08-14T19:14:39.928650+02:00.lighthouse.json) |
 | [August 14 at 8:40 AM](https://archive.org/download/dagbladet-2022/dagbladet-2022-08-14T08:40:24.369766+02:00.lighthouse.json) |
 | [August 13 at 10:16 PM](https://archive.org/download/dagbladet-2022/dagbladet-2022-08-13T22:16:09.353779+02:00.lighthouse.json) |
 | [August 13 at 5:35 AM](https://archive.org/download/dagbladet-2022/dagbladet-2022-08-13T05:35:14.498291+02:00.lighthouse.json) |
@@ -534,9 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 12 at 11:54 AM](https://archive.org/download/dagbladet-2022/dagbladet-2022-08-12T11:54:01.876074+02:00.lighthouse.json) |
 | [August 11 at 8:34 PM](https://archive.org/download/dagbladet-2022/dagbladet-2022-08-11T20:34:19.675003+02:00.lighthouse.json) |
 | [August 11 at 5:47 AM](https://archive.org/download/dagbladet-2022/dagbladet-2022-08-11T05:47:11.238940+02:00.lighthouse.json) |
-| [August 10 at 7:57 PM](https://archive.org/download/dagbladet-2022/dagbladet-2022-08-10T19:57:50.036339+02:00.lighthouse.json) |
-| [August 10 at 5:54 AM](https://archive.org/download/dagbladet-2022/dagbladet-2022-08-10T05:54:53.112290+02:00.lighthouse.json) |
-| [August 9 at 7:19 PM](https://archive.org/download/dagbladet-2022/dagbladet-2022-08-09T19:19:04.973436+02:00.lighthouse.json) |
 
 
 

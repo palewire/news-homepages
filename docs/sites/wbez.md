@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 158 screenshots with the Internet Archive.
+The archiving routine has saved 161 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -114,6 +114,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/wbez-2022/wbez-2022-08-15T14:42:24.349766-05:00.jpg">
+  <img src="https://archive.org/download/wbez-2022/wbez-2022-08-15T14:42:24.349766-05:00.jpg"
+     alt="WBEZ at 2022-08-15 14:42:36-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wbez-2022/wbez-2022-08-15T14:42:24.349766-05:00.jpg">August 15 at 2:42 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wbez-2022/wbez-2022-08-14T22:18:30.951660-05:00.jpg">
+  <img src="https://archive.org/download/wbez-2022/wbez-2022-08-14T22:18:30.951660-05:00.jpg"
+     alt="WBEZ at 2022-08-14 22:18:32-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wbez-2022/wbez-2022-08-14T22:18:30.951660-05:00.jpg">August 14 at 10:18 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wbez-2022/wbez-2022-08-14T12:09:10.149764-05:00.jpg">
+  <img src="https://archive.org/download/wbez-2022/wbez-2022-08-14T12:09:10.149764-05:00.jpg"
+     alt="WBEZ at 2022-08-14 12:09:11-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wbez-2022/wbez-2022-08-14T12:09:10.149764-05:00.jpg">August 14 at 12:09 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/wbez-2022/wbez-2022-08-14T00:12:08.423546-05:00.jpg">
   <img src="https://archive.org/download/wbez-2022/wbez-2022-08-14T00:12:08.423546-05:00.jpg"
      alt="WBEZ at 2022-08-14 00:12:09-05:00 local time"
@@ -194,38 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wbez-2022/wbez-2022-08-10T21:31:51.820418-05:00.jpg">August 10 at 9:31 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wbez-2022/wbez-2022-08-10T14:34:17.452727-05:00.jpg">
-  <img src="https://archive.org/download/wbez-2022/wbez-2022-08-10T14:34:17.452727-05:00.jpg"
-     alt="WBEZ at 2022-08-10 14:34:19-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wbez-2022/wbez-2022-08-10T14:34:17.452727-05:00.jpg">August 10 at 2:34 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wbez-2022/wbez-2022-08-10T12:53:47.498554-05:00.jpg">
-  <img src="https://archive.org/download/wbez-2022/wbez-2022-08-10T12:53:47.498554-05:00.jpg"
-     alt="WBEZ at 2022-08-10 12:53:51-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wbez-2022/wbez-2022-08-10T12:53:47.498554-05:00.jpg">August 10 at 12:53 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wbez-2022/wbez-2022-08-09T21:42:07.964910-05:00.jpg">
-  <img src="https://archive.org/download/wbez-2022/wbez-2022-08-09T21:42:07.964910-05:00.jpg"
-     alt="WBEZ at 2022-08-09 21:42:09-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wbez-2022/wbez-2022-08-09T21:42:07.964910-05:00.jpg">August 9 at 9:42 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 160 hyperlink lists with the Internet Archive.
+The archiving routine has saved 163 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 15 at 2:42 PM](https://archive.org/download/wbez-2022/wbez-2022-08-15T14:42:24.349766-05:00.hyperlinks.json) |
+| [August 14 at 10:18 PM](https://archive.org/download/wbez-2022/wbez-2022-08-14T22:18:30.951660-05:00.hyperlinks.json) |
+| [August 14 at 12:09 PM](https://archive.org/download/wbez-2022/wbez-2022-08-14T12:09:10.149764-05:00.hyperlinks.json) |
 | [August 14 at 12:12 AM](https://archive.org/download/wbez-2022/wbez-2022-08-14T00:12:08.423546-05:00.hyperlinks.json) |
 | [August 13 at 3:50 PM](https://archive.org/download/wbez-2022/wbez-2022-08-13T15:50:42.922374-05:00.hyperlinks.json) |
 | [August 12 at 9:21 PM](https://archive.org/download/wbez-2022/wbez-2022-08-12T21:21:31.744114-05:00.hyperlinks.json) |
@@ -323,14 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 11:28 AM](https://archive.org/download/wbez-2022/wbez-2022-08-12T11:28:34.060177-05:00.hyperlinks.json) |
 | [August 12 at 4:38 AM](https://archive.org/download/wbez-2022/wbez-2022-08-12T04:38:16.880309-05:00.hyperlinks.json) |
 | [August 11 at 9:09 PM](https://archive.org/download/wbez-2022/wbez-2022-08-11T21:09:26.720477-05:00.hyperlinks.json) |
-| [August 11 at 2:04 PM](https://archive.org/download/wbez-2022/wbez-2022-08-11T14:04:31.064394-05:00.hyperlinks.json) |
-| [August 11 at 12:11 PM](https://archive.org/download/wbez-2022/wbez-2022-08-11T12:11:16.707061-05:00.hyperlinks.json) |
-| [August 10 at 9:31 PM](https://archive.org/download/wbez-2022/wbez-2022-08-10T21:31:51.820418-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 158 accessibility trees with the Internet Archive.
+The archiving routine has saved 161 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 15 at 2:42 PM](https://archive.org/download/wbez-2022/wbez-2022-08-15T14:42:24.349766-05:00.accessibility.json) |
+| [August 14 at 10:18 PM](https://archive.org/download/wbez-2022/wbez-2022-08-14T22:18:30.951660-05:00.accessibility.json) |
+| [August 14 at 12:09 PM](https://archive.org/download/wbez-2022/wbez-2022-08-14T12:09:10.149764-05:00.accessibility.json) |
 | [August 14 at 12:12 AM](https://archive.org/download/wbez-2022/wbez-2022-08-14T00:12:08.423546-05:00.accessibility.json) |
 | [August 13 at 3:50 PM](https://archive.org/download/wbez-2022/wbez-2022-08-13T15:50:42.922374-05:00.accessibility.json) |
 | [August 12 at 9:21 PM](https://archive.org/download/wbez-2022/wbez-2022-08-12T21:21:31.744114-05:00.accessibility.json) |
@@ -428,15 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 11:28 AM](https://archive.org/download/wbez-2022/wbez-2022-08-12T11:28:34.060177-05:00.accessibility.json) |
 | [August 11 at 9:09 PM](https://archive.org/download/wbez-2022/wbez-2022-08-11T21:09:26.720477-05:00.accessibility.json) |
 | [August 11 at 2:04 PM](https://archive.org/download/wbez-2022/wbez-2022-08-11T14:04:31.064394-05:00.accessibility.json) |
-| [August 11 at 12:11 PM](https://archive.org/download/wbez-2022/wbez-2022-08-11T12:11:16.707061-05:00.accessibility.json) |
-| [August 10 at 9:31 PM](https://archive.org/download/wbez-2022/wbez-2022-08-10T21:31:51.820418-05:00.accessibility.json) |
-| [August 10 at 2:34 PM](https://archive.org/download/wbez-2022/wbez-2022-08-10T14:34:17.452727-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 67 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 70 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 15 at 2:42 PM](https://archive.org/download/wbez-2022/wbez-2022-08-15T14:42:24.349766-05:00.lighthouse.json) |
+| [August 14 at 10:18 PM](https://archive.org/download/wbez-2022/wbez-2022-08-14T22:18:30.951660-05:00.lighthouse.json) |
+| [August 14 at 12:09 PM](https://archive.org/download/wbez-2022/wbez-2022-08-14T12:09:10.149764-05:00.lighthouse.json) |
 | [August 14 at 12:12 AM](https://archive.org/download/wbez-2022/wbez-2022-08-14T00:12:08.423546-05:00.lighthouse.json) |
 | [August 13 at 3:50 PM](https://archive.org/download/wbez-2022/wbez-2022-08-13T15:50:42.922374-05:00.lighthouse.json) |
 | [August 12 at 9:21 PM](https://archive.org/download/wbez-2022/wbez-2022-08-12T21:21:31.744114-05:00.lighthouse.json) |
@@ -534,9 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 12 at 11:28 AM](https://archive.org/download/wbez-2022/wbez-2022-08-12T11:28:34.060177-05:00.lighthouse.json) |
 | [August 12 at 4:38 AM](https://archive.org/download/wbez-2022/wbez-2022-08-12T04:38:16.880309-05:00.lighthouse.json) |
 | [August 11 at 9:09 PM](https://archive.org/download/wbez-2022/wbez-2022-08-11T21:09:26.720477-05:00.lighthouse.json) |
-| [August 11 at 2:04 PM](https://archive.org/download/wbez-2022/wbez-2022-08-11T14:04:31.064394-05:00.lighthouse.json) |
-| [August 11 at 12:11 PM](https://archive.org/download/wbez-2022/wbez-2022-08-11T12:11:16.707061-05:00.lighthouse.json) |
-| [August 10 at 9:32 PM](https://archive.org/download/wbez-2022/wbez-2022-08-10T21:31:51.820418-05:00.lighthouse.json) |
 
 
 

@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 136 screenshots with the Internet Archive.
+The archiving routine has saved 139 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -114,6 +114,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/reveal-2022/reveal-2022-08-15T13:11:33.401097-07:00.jpg">
+  <img src="https://archive.org/download/reveal-2022/reveal-2022-08-15T13:11:33.401097-07:00.jpg"
+     alt="Reveal at 2022-08-15 13:11:38-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/reveal-2022/reveal-2022-08-15T13:11:33.401097-07:00.jpg">August 15 at 1:11 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/reveal-2022/reveal-2022-08-14T23:41:29.937217-07:00.jpg">
+  <img src="https://archive.org/download/reveal-2022/reveal-2022-08-14T23:41:29.937217-07:00.jpg"
+     alt="Reveal at 2022-08-14 23:41:35-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/reveal-2022/reveal-2022-08-14T23:41:29.937217-07:00.jpg">August 14 at 11:41 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/reveal-2022/reveal-2022-08-14T11:59:03.358255-07:00.jpg">
+  <img src="https://archive.org/download/reveal-2022/reveal-2022-08-14T11:59:03.358255-07:00.jpg"
+     alt="Reveal at 2022-08-14 11:59:06-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/reveal-2022/reveal-2022-08-14T11:59:03.358255-07:00.jpg">August 14 at 11:59 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/reveal-2022/reveal-2022-08-14T00:03:04.040336-07:00.jpg">
   <img src="https://archive.org/download/reveal-2022/reveal-2022-08-14T00:03:04.040336-07:00.jpg"
      alt="Reveal at 2022-08-14 00:03:07-07:00 local time"
@@ -194,38 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/reveal-2022/reveal-2022-08-09T22:28:38.681358-07:00.jpg">August 9 at 10:28 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/reveal-2022/reveal-2022-08-09T10:50:55.569173-07:00.jpg">
-  <img src="https://archive.org/download/reveal-2022/reveal-2022-08-09T10:50:55.569173-07:00.jpg"
-     alt="Reveal at 2022-08-09 10:50:58-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/reveal-2022/reveal-2022-08-09T10:50:55.569173-07:00.jpg">August 9 at 10:50 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/reveal-2022/reveal-2022-08-08T22:06:28.662039-07:00.jpg">
-  <img src="https://archive.org/download/reveal-2022/reveal-2022-08-08T22:06:28.662039-07:00.jpg"
-     alt="Reveal at 2022-08-08 22:06:35-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/reveal-2022/reveal-2022-08-08T22:06:28.662039-07:00.jpg">August 8 at 10:06 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/reveal-2022/reveal-2022-08-08T10:16:31.807411-07:00.jpg">
-  <img src="https://archive.org/download/reveal-2022/reveal-2022-08-08T10:16:31.807411-07:00.jpg"
-     alt="Reveal at 2022-08-08 10:16:39-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/reveal-2022/reveal-2022-08-08T10:16:31.807411-07:00.jpg">August 8 at 10:16 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 138 hyperlink lists with the Internet Archive.
+The archiving routine has saved 141 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 15 at 1:11 PM](https://archive.org/download/reveal-2022/reveal-2022-08-15T13:11:33.401097-07:00.hyperlinks.json) |
+| [August 14 at 11:41 PM](https://archive.org/download/reveal-2022/reveal-2022-08-14T23:41:29.937217-07:00.hyperlinks.json) |
+| [August 14 at 11:59 AM](https://archive.org/download/reveal-2022/reveal-2022-08-14T11:59:03.358255-07:00.hyperlinks.json) |
 | [August 14 at 12:03 AM](https://archive.org/download/reveal-2022/reveal-2022-08-14T00:03:04.040336-07:00.hyperlinks.json) |
 | [August 13 at 1:58 PM](https://archive.org/download/reveal-2022/reveal-2022-08-13T13:58:29.892670-07:00.hyperlinks.json) |
 | [August 12 at 10:09 PM](https://archive.org/download/reveal-2022/reveal-2022-08-12T22:09:06.001095-07:00.hyperlinks.json) |
@@ -323,14 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 2:43 AM](https://archive.org/download/reveal-2022/reveal-2022-08-12T02:43:45.331446-07:00.hyperlinks.json) |
 | [August 11 at 11:54 AM](https://archive.org/download/reveal-2022/reveal-2022-08-11T11:54:18.979713-07:00.hyperlinks.json) |
 | [August 10 at 10:22 PM](https://archive.org/download/reveal-2022/reveal-2022-08-10T22:22:51.123070-07:00.hyperlinks.json) |
-| [August 10 at 11:20 AM](https://archive.org/download/reveal-2022/reveal-2022-08-10T11:19:46.425334-07:00.hyperlinks.json) |
-| [August 9 at 10:28 PM](https://archive.org/download/reveal-2022/reveal-2022-08-09T22:28:38.681358-07:00.hyperlinks.json) |
-| [August 9 at 10:51 AM](https://archive.org/download/reveal-2022/reveal-2022-08-09T10:50:55.569173-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 138 accessibility trees with the Internet Archive.
+The archiving routine has saved 141 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 15 at 1:11 PM](https://archive.org/download/reveal-2022/reveal-2022-08-15T13:11:33.401097-07:00.accessibility.json) |
+| [August 14 at 11:41 PM](https://archive.org/download/reveal-2022/reveal-2022-08-14T23:41:29.937217-07:00.accessibility.json) |
+| [August 14 at 11:59 AM](https://archive.org/download/reveal-2022/reveal-2022-08-14T11:59:03.358255-07:00.accessibility.json) |
 | [August 14 at 12:03 AM](https://archive.org/download/reveal-2022/reveal-2022-08-14T00:03:04.040336-07:00.accessibility.json) |
 | [August 13 at 1:58 PM](https://archive.org/download/reveal-2022/reveal-2022-08-13T13:58:29.892670-07:00.accessibility.json) |
 | [August 12 at 10:09 PM](https://archive.org/download/reveal-2022/reveal-2022-08-12T22:09:06.001095-07:00.accessibility.json) |
@@ -428,15 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 2:43 AM](https://archive.org/download/reveal-2022/reveal-2022-08-12T02:43:45.331446-07:00.accessibility.json) |
 | [August 11 at 11:54 AM](https://archive.org/download/reveal-2022/reveal-2022-08-11T11:54:18.979713-07:00.accessibility.json) |
 | [August 10 at 10:22 PM](https://archive.org/download/reveal-2022/reveal-2022-08-10T22:22:51.123070-07:00.accessibility.json) |
-| [August 10 at 11:20 AM](https://archive.org/download/reveal-2022/reveal-2022-08-10T11:19:46.425334-07:00.accessibility.json) |
-| [August 9 at 10:28 PM](https://archive.org/download/reveal-2022/reveal-2022-08-09T22:28:38.681358-07:00.accessibility.json) |
-| [August 9 at 10:50 AM](https://archive.org/download/reveal-2022/reveal-2022-08-09T10:50:55.569173-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 43 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 46 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 15 at 1:11 PM](https://archive.org/download/reveal-2022/reveal-2022-08-15T13:11:33.401097-07:00.lighthouse.json) |
+| [August 14 at 11:41 PM](https://archive.org/download/reveal-2022/reveal-2022-08-14T23:41:29.937217-07:00.lighthouse.json) |
+| [August 14 at 11:59 AM](https://archive.org/download/reveal-2022/reveal-2022-08-14T11:59:03.358255-07:00.lighthouse.json) |
 | [August 14 at 12:03 AM](https://archive.org/download/reveal-2022/reveal-2022-08-14T00:03:04.040336-07:00.lighthouse.json) |
 | [August 13 at 1:58 PM](https://archive.org/download/reveal-2022/reveal-2022-08-13T13:58:29.892670-07:00.lighthouse.json) |
 | [August 12 at 10:09 PM](https://archive.org/download/reveal-2022/reveal-2022-08-12T22:09:06.001095-07:00.lighthouse.json) |
@@ -534,9 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 12 at 2:43 AM](https://archive.org/download/reveal-2022/reveal-2022-08-12T02:43:45.331446-07:00.lighthouse.json) |
 | [August 11 at 11:54 AM](https://archive.org/download/reveal-2022/reveal-2022-08-11T11:54:18.979713-07:00.lighthouse.json) |
 | [August 10 at 10:22 PM](https://archive.org/download/reveal-2022/reveal-2022-08-10T22:22:51.123070-07:00.lighthouse.json) |
-| [August 10 at 11:21 AM](https://archive.org/download/reveal-2022/reveal-2022-08-10T11:19:46.425334-07:00.lighthouse.json) |
-| [August 9 at 10:28 PM](https://archive.org/download/reveal-2022/reveal-2022-08-09T22:28:38.681358-07:00.lighthouse.json) |
-| [August 9 at 10:51 AM](https://archive.org/download/reveal-2022/reveal-2022-08-09T10:50:55.569173-07:00.lighthouse.json) |
 
 
 

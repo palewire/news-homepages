@@ -22,13 +22,40 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 8 screenshots with the Internet Archive.
+The archiving routine has saved 11 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dwnews-2022/dwnews-2022-08-15T21:48:03.252236+02:00.jpg">
+  <img src="https://archive.org/download/dwnews-2022/dwnews-2022-08-15T21:48:03.252236+02:00.jpg"
+     alt="DW at 2022-08-15 21:48:04+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dwnews-2022/dwnews-2022-08-15T21:48:03.252236+02:00.jpg">August 15 at 9:48 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dwnews-2022/dwnews-2022-08-15T08:22:44.731766+02:00.jpg">
+  <img src="https://archive.org/download/dwnews-2022/dwnews-2022-08-15T08:22:44.731766+02:00.jpg"
+     alt="DW at 2022-08-15 08:22:46+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dwnews-2022/dwnews-2022-08-15T08:22:44.731766+02:00.jpg">August 15 at 8:22 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dwnews-2022/dwnews-2022-08-14T19:16:45.003330+02:00.jpg">
+  <img src="https://archive.org/download/dwnews-2022/dwnews-2022-08-14T19:16:45.003330+02:00.jpg"
+     alt="DW at 2022-08-14 19:16:46+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dwnews-2022/dwnews-2022-08-14T19:16:45.003330+02:00.jpg">August 14 at 7:16 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dwnews-2022/dwnews-2022-08-14T08:43:44.361546+02:00.jpg">
@@ -106,7 +133,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 8 hyperlink lists with the Internet Archive.
+The archiving routine has saved 11 hyperlink lists with the Internet Archive.
 
 
 
@@ -114,6 +141,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 15 at 9:48 PM](https://archive.org/download/dwnews-2022/dwnews-2022-08-15T21:48:03.252236+02:00.hyperlinks.json) |
+| [August 15 at 8:22 AM](https://archive.org/download/dwnews-2022/dwnews-2022-08-15T08:22:44.731766+02:00.hyperlinks.json) |
+| [August 14 at 7:16 PM](https://archive.org/download/dwnews-2022/dwnews-2022-08-14T19:16:45.003330+02:00.hyperlinks.json) |
 | [August 14 at 8:43 AM](https://archive.org/download/dwnews-2022/dwnews-2022-08-14T08:43:44.361546+02:00.hyperlinks.json) |
 | [August 13 at 10:18 PM](https://archive.org/download/dwnews-2022/dwnews-2022-08-13T22:18:35.075429+02:00.hyperlinks.json) |
 | [August 13 at 5:37 AM](https://archive.org/download/dwnews-2022/dwnews-2022-08-13T05:37:44.698618+02:00.hyperlinks.json) |
@@ -121,12 +151,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 11:56 AM](https://archive.org/download/dwnews-2022/dwnews-2022-08-12T11:55:58.864501+02:00.hyperlinks.json) |
 | [August 11 at 8:36 PM](https://archive.org/download/dwnews-2022/dwnews-2022-08-11T20:36:14.910461+02:00.hyperlinks.json) |
 | [August 11 at 5:50 AM](https://archive.org/download/dwnews-2022/dwnews-2022-08-11T05:49:59.252414+02:00.hyperlinks.json) |
-| [August 10 at 8:02 PM](https://archive.org/download/dwnews-2022/dwnews-2022-08-10T20:01:46.552124+02:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 8 accessibility trees with the Internet Archive.
+The archiving routine has saved 11 accessibility trees with the Internet Archive.
 
 
 
@@ -134,6 +163,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 15 at 9:48 PM](https://archive.org/download/dwnews-2022/dwnews-2022-08-15T21:48:03.252236+02:00.accessibility.json) |
+| [August 15 at 8:22 AM](https://archive.org/download/dwnews-2022/dwnews-2022-08-15T08:22:44.731766+02:00.accessibility.json) |
+| [August 14 at 7:16 PM](https://archive.org/download/dwnews-2022/dwnews-2022-08-14T19:16:45.003330+02:00.accessibility.json) |
 | [August 14 at 8:43 AM](https://archive.org/download/dwnews-2022/dwnews-2022-08-14T08:43:44.361546+02:00.accessibility.json) |
 | [August 13 at 10:18 PM](https://archive.org/download/dwnews-2022/dwnews-2022-08-13T22:18:35.075429+02:00.accessibility.json) |
 | [August 13 at 5:37 AM](https://archive.org/download/dwnews-2022/dwnews-2022-08-13T05:37:44.698618+02:00.accessibility.json) |
@@ -141,13 +173,12 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 11:56 AM](https://archive.org/download/dwnews-2022/dwnews-2022-08-12T11:55:58.864501+02:00.accessibility.json) |
 | [August 11 at 8:36 PM](https://archive.org/download/dwnews-2022/dwnews-2022-08-11T20:36:14.910461+02:00.accessibility.json) |
 | [August 11 at 5:50 AM](https://archive.org/download/dwnews-2022/dwnews-2022-08-11T05:49:59.252414+02:00.accessibility.json) |
-| [August 10 at 8:02 PM](https://archive.org/download/dwnews-2022/dwnews-2022-08-10T20:01:46.552124+02:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 7 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 10 Lighthouse audits with the Internet Archive.
 
 
 
@@ -155,6 +186,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 15 at 9:48 PM](https://archive.org/download/dwnews-2022/dwnews-2022-08-15T21:48:03.252236+02:00.lighthouse.json) |
+| [August 15 at 8:22 AM](https://archive.org/download/dwnews-2022/dwnews-2022-08-15T08:22:44.731766+02:00.lighthouse.json) |
+| [August 14 at 7:16 PM](https://archive.org/download/dwnews-2022/dwnews-2022-08-14T19:16:45.003330+02:00.lighthouse.json) |
 | [August 14 at 8:43 AM](https://archive.org/download/dwnews-2022/dwnews-2022-08-14T08:43:44.361546+02:00.lighthouse.json) |
 | [August 13 at 10:18 PM](https://archive.org/download/dwnews-2022/dwnews-2022-08-13T22:18:35.075429+02:00.lighthouse.json) |
 | [August 13 at 5:37 AM](https://archive.org/download/dwnews-2022/dwnews-2022-08-13T05:37:44.698618+02:00.lighthouse.json) |

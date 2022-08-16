@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 121 screenshots with the Internet Archive.
+The archiving routine has saved 124 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -114,6 +114,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-08-15T15:32:04.287549-04:00.jpg">
+  <img src="https://archive.org/download/capgaznews-2022/capgaznews-2022-08-15T15:32:04.287549-04:00.jpg"
+     alt="Capital Gazette at 2022-08-15 15:32:11-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-08-15T15:32:04.287549-04:00.jpg">August 15 at 3:32 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-08-14T23:08:54.869557-04:00.jpg">
+  <img src="https://archive.org/download/capgaznews-2022/capgaznews-2022-08-14T23:08:54.869557-04:00.jpg"
+     alt="Capital Gazette at 2022-08-14 23:08:56-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-08-14T23:08:54.869557-04:00.jpg">August 14 at 11:08 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-08-14T12:59:18.082983-04:00.jpg">
+  <img src="https://archive.org/download/capgaznews-2022/capgaznews-2022-08-14T12:59:18.082983-04:00.jpg"
+     alt="Capital Gazette at 2022-08-14 12:59:26-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-08-14T12:59:18.082983-04:00.jpg">August 14 at 12:59 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-08-14T01:01:41.942308-04:00.jpg">
   <img src="https://archive.org/download/capgaznews-2022/capgaznews-2022-08-14T01:01:41.942308-04:00.jpg"
      alt="Capital Gazette at 2022-08-14 01:01:43-04:00 local time"
@@ -194,38 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-08-09T22:36:50.423161-04:00.jpg">August 9 at 10:36 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-08-09T10:35:38.945323-04:00.jpg">
-  <img src="https://archive.org/download/capgaznews-2022/capgaznews-2022-08-09T10:35:38.945323-04:00.jpg"
-     alt="Capital Gazette at 2022-08-09 10:35:40-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-08-09T10:35:38.945323-04:00.jpg">August 9 at 10:35 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-08-08T22:20:53.386720-04:00.jpg">
-  <img src="https://archive.org/download/capgaznews-2022/capgaznews-2022-08-08T22:20:53.386720-04:00.jpg"
-     alt="Capital Gazette at 2022-08-08 22:20:54-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-08-08T22:20:53.386720-04:00.jpg">August 8 at 10:20 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-08-08T10:19:35.007949-04:00.jpg">
-  <img src="https://archive.org/download/capgaznews-2022/capgaznews-2022-08-08T10:19:35.007949-04:00.jpg"
-     alt="Capital Gazette at 2022-08-08 10:19:36-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/capgaznews-2022/capgaznews-2022-08-08T10:19:35.007949-04:00.jpg">August 8 at 10:19 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 122 hyperlink lists with the Internet Archive.
+The archiving routine has saved 125 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 15 at 3:32 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-08-15T15:32:04.287549-04:00.hyperlinks.json) |
+| [August 14 at 11:09 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-08-14T23:08:54.869557-04:00.hyperlinks.json) |
+| [August 14 at 12:59 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-08-14T12:59:18.082983-04:00.hyperlinks.json) |
 | [August 14 at 1:01 AM](https://archive.org/download/capgaznews-2022/capgaznews-2022-08-14T01:01:41.942308-04:00.hyperlinks.json) |
 | [August 13 at 4:39 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-08-13T16:39:26.086725-04:00.hyperlinks.json) |
 | [August 12 at 10:11 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-08-12T22:11:43.789480-04:00.hyperlinks.json) |
@@ -323,14 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 5:30 AM](https://archive.org/download/capgaznews-2022/capgaznews-2022-08-12T05:30:45.951836-04:00.hyperlinks.json) |
 | [August 11 at 10:02 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-08-11T22:02:10.367420-04:00.hyperlinks.json) |
 | [August 11 at 1:02 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-08-11T13:01:58.762387-04:00.hyperlinks.json) |
-| [August 10 at 10:24 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-08-10T22:24:01.957198-04:00.hyperlinks.json) |
-| [August 10 at 1:44 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-08-10T13:44:49.788260-04:00.hyperlinks.json) |
-| [August 9 at 10:37 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-08-09T22:36:50.423161-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 124 accessibility trees with the Internet Archive.
+The archiving routine has saved 127 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 15 at 3:32 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-08-15T15:32:04.287549-04:00.accessibility.json) |
+| [August 14 at 11:08 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-08-14T23:08:54.869557-04:00.accessibility.json) |
+| [August 14 at 12:59 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-08-14T12:59:18.082983-04:00.accessibility.json) |
 | [August 14 at 1:01 AM](https://archive.org/download/capgaznews-2022/capgaznews-2022-08-14T01:01:41.942308-04:00.accessibility.json) |
 | [August 13 at 4:39 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-08-13T16:39:26.086725-04:00.accessibility.json) |
 | [August 12 at 10:11 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-08-12T22:11:43.789480-04:00.accessibility.json) |
@@ -428,15 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 5:30 AM](https://archive.org/download/capgaznews-2022/capgaznews-2022-08-12T05:30:45.951836-04:00.accessibility.json) |
 | [August 11 at 10:02 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-08-11T22:02:10.367420-04:00.accessibility.json) |
 | [August 11 at 1:02 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-08-11T13:01:58.762387-04:00.accessibility.json) |
-| [August 10 at 10:24 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-08-10T22:24:01.957198-04:00.accessibility.json) |
-| [August 10 at 1:44 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-08-10T13:44:49.788260-04:00.accessibility.json) |
-| [August 9 at 10:36 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-08-09T22:36:50.423161-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 46 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 49 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 15 at 3:32 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-08-15T15:32:04.287549-04:00.lighthouse.json) |
+| [August 14 at 11:09 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-08-14T23:08:54.869557-04:00.lighthouse.json) |
+| [August 14 at 12:59 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-08-14T12:59:18.082983-04:00.lighthouse.json) |
 | [August 14 at 1:01 AM](https://archive.org/download/capgaznews-2022/capgaznews-2022-08-14T01:01:41.942308-04:00.lighthouse.json) |
 | [August 13 at 4:39 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-08-13T16:39:26.086725-04:00.lighthouse.json) |
 | [August 12 at 10:11 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-08-12T22:11:43.789480-04:00.lighthouse.json) |
@@ -534,9 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 12 at 5:30 AM](https://archive.org/download/capgaznews-2022/capgaznews-2022-08-12T05:30:45.951836-04:00.lighthouse.json) |
 | [August 11 at 10:02 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-08-11T22:02:10.367420-04:00.lighthouse.json) |
 | [August 11 at 1:02 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-08-11T13:01:58.762387-04:00.lighthouse.json) |
-| [August 10 at 10:24 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-08-10T22:24:01.957198-04:00.lighthouse.json) |
-| [August 10 at 1:45 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-08-10T13:44:49.788260-04:00.lighthouse.json) |
-| [August 9 at 10:37 PM](https://archive.org/download/capgaznews-2022/capgaznews-2022-08-09T22:36:50.423161-04:00.lighthouse.json) |
 
 
 

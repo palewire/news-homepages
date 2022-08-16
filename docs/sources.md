@@ -3,7 +3,7 @@
 
 # Site directory
 
-The archiving routine is currently capturing 806 sites.
+The archiving routine is currently capturing 807 sites.
 
 A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/all.xml). An OPML file collecting all individual RSS feeds is at [opml.xml](https://palewi.re/docs/news-homepages/rss/sites/opml.xml).
 
@@ -348,6 +348,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[HuffPost Canada](https://palewi.re/docs/news-homepages/sites/huffpostcanada.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/huffpostcanada.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/huffpostcanada.xml)|
 |[Human Events](https://palewi.re/docs/news-homepages/sites/humanevents.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/humanevents.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/humanevents.xml)|
 |[Humans of New York](https://palewi.re/docs/news-homepages/sites/humansofny.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/humansofny.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/humansofny.xml)|
+|[i](https://palewi.re/docs/news-homepages/sites/theipaper.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theipaper.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theipaper.xml)|
 |[ICIJ](https://palewi.re/docs/news-homepages/sites/icijorg.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/icijorg.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/icijorg.xml)|
 |[Imagekhabar](https://palewi.re/docs/news-homepages/sites/imagekhabar.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/imagekhabar.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/imagekhabar.xml)|
 |[In These Times ](https://palewi.re/docs/news-homepages/sites/inthesetimesmag.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/inthesetimesmag.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/inthesetimesmag.xml)|

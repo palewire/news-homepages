@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 77 screenshots with the Internet Archive.
+The archiving routine has saved 80 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -114,6 +114,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-15T15:32:56.209728-04:00.jpg">
+  <img src="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-15T15:32:56.209728-04:00.jpg"
+     alt="City Limits at 2022-08-15 15:32:58-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-15T15:32:56.209728-04:00.jpg">August 15 at 3:32 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-14T23:10:26.961866-04:00.jpg">
+  <img src="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-14T23:10:26.961866-04:00.jpg"
+     alt="City Limits at 2022-08-14 23:10:29-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-14T23:10:26.961866-04:00.jpg">August 14 at 11:10 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-14T13:00:55.029509-04:00.jpg">
+  <img src="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-14T13:00:55.029509-04:00.jpg"
+     alt="City Limits at 2022-08-14 13:00:58-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-14T13:00:55.029509-04:00.jpg">August 14 at 1:00 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-14T01:03:35.477231-04:00.jpg">
   <img src="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-14T01:03:35.477231-04:00.jpg"
      alt="City Limits at 2022-08-14 01:03:37-04:00 local time"
@@ -194,38 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-09T22:33:38.764654-04:00.jpg">August 9 at 10:33 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-09T10:36:36.820928-04:00.jpg">
-  <img src="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-09T10:36:36.820928-04:00.jpg"
-     alt="City Limits at 2022-08-09 10:36:38-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-09T10:36:36.820928-04:00.jpg">August 9 at 10:36 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-08T22:22:07.848633-04:00.jpg">
-  <img src="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-08T22:22:07.848633-04:00.jpg"
-     alt="City Limits at 2022-08-08 22:22:09-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-08T22:22:07.848633-04:00.jpg">August 8 at 10:22 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-08T10:18:03.959674-04:00.jpg">
-  <img src="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-08T10:18:03.959674-04:00.jpg"
-     alt="City Limits at 2022-08-08 10:18:05-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-08T10:18:03.959674-04:00.jpg">August 8 at 10:18 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 79 hyperlink lists with the Internet Archive.
+The archiving routine has saved 82 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 15 at 3:33 PM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-15T15:32:56.209728-04:00.hyperlinks.json) |
+| [August 14 at 11:10 PM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-14T23:10:26.961866-04:00.hyperlinks.json) |
+| [August 14 at 1:01 PM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-14T13:00:55.029509-04:00.hyperlinks.json) |
 | [August 14 at 1:03 AM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-14T01:03:35.477231-04:00.hyperlinks.json) |
 | [August 13 at 4:40 PM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-13T16:40:07.697894-04:00.hyperlinks.json) |
 | [August 12 at 10:13 PM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-12T22:13:41.183831-04:00.hyperlinks.json) |
@@ -323,14 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 5:31 AM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-12T05:31:50.158412-04:00.hyperlinks.json) |
 | [August 11 at 10:03 PM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-11T22:03:33.790988-04:00.hyperlinks.json) |
 | [August 11 at 1:04 PM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-11T13:04:38.031227-04:00.hyperlinks.json) |
-| [August 10 at 10:24 PM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-10T22:24:16.778712-04:00.hyperlinks.json) |
-| [August 10 at 1:46 PM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-10T13:46:01.885547-04:00.hyperlinks.json) |
-| [August 9 at 10:33 PM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-09T22:33:38.764654-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 79 accessibility trees with the Internet Archive.
+The archiving routine has saved 82 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 15 at 3:32 PM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-15T15:32:56.209728-04:00.accessibility.json) |
+| [August 14 at 11:10 PM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-14T23:10:26.961866-04:00.accessibility.json) |
+| [August 14 at 1:01 PM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-14T13:00:55.029509-04:00.accessibility.json) |
 | [August 14 at 1:03 AM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-14T01:03:35.477231-04:00.accessibility.json) |
 | [August 13 at 4:40 PM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-13T16:40:07.697894-04:00.accessibility.json) |
 | [August 12 at 10:13 PM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-12T22:13:41.183831-04:00.accessibility.json) |
@@ -428,15 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 5:31 AM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-12T05:31:50.158412-04:00.accessibility.json) |
 | [August 11 at 10:03 PM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-11T22:03:33.790988-04:00.accessibility.json) |
 | [August 11 at 1:04 PM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-11T13:04:38.031227-04:00.accessibility.json) |
-| [August 10 at 10:24 PM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-10T22:24:16.778712-04:00.accessibility.json) |
-| [August 10 at 1:46 PM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-10T13:46:01.885547-04:00.accessibility.json) |
-| [August 9 at 10:33 PM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-09T22:33:38.764654-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 46 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 49 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 15 at 3:33 PM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-15T15:32:56.209728-04:00.lighthouse.json) |
+| [August 14 at 11:10 PM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-14T23:10:26.961866-04:00.lighthouse.json) |
+| [August 14 at 1:01 PM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-14T13:00:55.029509-04:00.lighthouse.json) |
 | [August 14 at 1:03 AM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-14T01:03:35.477231-04:00.lighthouse.json) |
 | [August 13 at 4:40 PM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-13T16:40:07.697894-04:00.lighthouse.json) |
 | [August 12 at 10:13 PM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-12T22:13:41.183831-04:00.lighthouse.json) |
@@ -534,9 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 12 at 5:31 AM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-12T05:31:50.158412-04:00.lighthouse.json) |
 | [August 11 at 10:03 PM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-11T22:03:33.790988-04:00.lighthouse.json) |
 | [August 11 at 1:04 PM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-11T13:04:38.031227-04:00.lighthouse.json) |
-| [August 10 at 10:24 PM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-10T22:24:16.778712-04:00.lighthouse.json) |
-| [August 10 at 1:46 PM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-10T13:46:01.885547-04:00.lighthouse.json) |
-| [August 9 at 10:33 PM](https://archive.org/download/citylimitsnews-2022/citylimitsnews-2022-08-09T22:33:38.764654-04:00.lighthouse.json) |
 
 
 

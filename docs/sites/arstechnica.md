@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 100 screenshots with the Internet Archive.
+The archiving routine has saved 103 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -114,6 +114,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/arstechnica-2022/arstechnica-2022-08-15T15:27:53.591498-04:00.jpg">
+  <img src="https://archive.org/download/arstechnica-2022/arstechnica-2022-08-15T15:27:53.591498-04:00.jpg"
+     alt="Ars Technica at 2022-08-15 15:28:00-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/arstechnica-2022/arstechnica-2022-08-15T15:27:53.591498-04:00.jpg">August 15 at 3:28 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/arstechnica-2022/arstechnica-2022-08-14T23:06:50.238623-04:00.jpg">
+  <img src="https://archive.org/download/arstechnica-2022/arstechnica-2022-08-14T23:06:50.238623-04:00.jpg"
+     alt="Ars Technica at 2022-08-14 23:06:51-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/arstechnica-2022/arstechnica-2022-08-14T23:06:50.238623-04:00.jpg">August 14 at 11:06 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/arstechnica-2022/arstechnica-2022-08-14T12:55:57.156883-04:00.jpg">
+  <img src="https://archive.org/download/arstechnica-2022/arstechnica-2022-08-14T12:55:57.156883-04:00.jpg"
+     alt="Ars Technica at 2022-08-14 12:55:59-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/arstechnica-2022/arstechnica-2022-08-14T12:55:57.156883-04:00.jpg">August 14 at 12:55 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/arstechnica-2022/arstechnica-2022-08-14T00:57:58.848723-04:00.jpg">
   <img src="https://archive.org/download/arstechnica-2022/arstechnica-2022-08-14T00:57:58.848723-04:00.jpg"
      alt="Ars Technica at 2022-08-14 00:58:01-04:00 local time"
@@ -194,38 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/arstechnica-2022/arstechnica-2022-08-09T22:30:46.358402-04:00.jpg">August 9 at 10:30 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/arstechnica-2022/arstechnica-2022-08-09T10:31:57.966475-04:00.jpg">
-  <img src="https://archive.org/download/arstechnica-2022/arstechnica-2022-08-09T10:31:57.966475-04:00.jpg"
-     alt="Ars Technica at 2022-08-09 10:32:01-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/arstechnica-2022/arstechnica-2022-08-09T10:31:57.966475-04:00.jpg">August 9 at 10:32 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/arstechnica-2022/arstechnica-2022-08-08T22:18:48.936983-04:00.jpg">
-  <img src="https://archive.org/download/arstechnica-2022/arstechnica-2022-08-08T22:18:48.936983-04:00.jpg"
-     alt="Ars Technica at 2022-08-08 22:18:50-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/arstechnica-2022/arstechnica-2022-08-08T22:18:48.936983-04:00.jpg">August 8 at 10:18 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/arstechnica-2022/arstechnica-2022-08-08T10:14:23.770194-04:00.jpg">
-  <img src="https://archive.org/download/arstechnica-2022/arstechnica-2022-08-08T10:14:23.770194-04:00.jpg"
-     alt="Ars Technica at 2022-08-08 10:14:24-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/arstechnica-2022/arstechnica-2022-08-08T10:14:23.770194-04:00.jpg">August 8 at 10:14 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 100 hyperlink lists with the Internet Archive.
+The archiving routine has saved 103 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 15 at 3:28 PM](https://archive.org/download/arstechnica-2022/arstechnica-2022-08-15T15:27:53.591498-04:00.hyperlinks.json) |
+| [August 14 at 11:06 PM](https://archive.org/download/arstechnica-2022/arstechnica-2022-08-14T23:06:50.238623-04:00.hyperlinks.json) |
+| [August 14 at 12:56 PM](https://archive.org/download/arstechnica-2022/arstechnica-2022-08-14T12:55:57.156883-04:00.hyperlinks.json) |
 | [August 14 at 12:58 AM](https://archive.org/download/arstechnica-2022/arstechnica-2022-08-14T00:57:58.848723-04:00.hyperlinks.json) |
 | [August 13 at 4:35 PM](https://archive.org/download/arstechnica-2022/arstechnica-2022-08-13T16:35:11.459469-04:00.hyperlinks.json) |
 | [August 12 at 10:09 PM](https://archive.org/download/arstechnica-2022/arstechnica-2022-08-12T22:09:06.650132-04:00.hyperlinks.json) |
@@ -323,14 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 5:28 AM](https://archive.org/download/arstechnica-2022/arstechnica-2022-08-12T05:28:39.671302-04:00.hyperlinks.json) |
 | [August 11 at 10:01 PM](https://archive.org/download/arstechnica-2022/arstechnica-2022-08-11T22:01:04.189414-04:00.hyperlinks.json) |
 | [August 11 at 1:00 PM](https://archive.org/download/arstechnica-2022/arstechnica-2022-08-11T12:59:58.356900-04:00.hyperlinks.json) |
-| [August 10 at 10:21 PM](https://archive.org/download/arstechnica-2022/arstechnica-2022-08-10T22:21:24.839657-04:00.hyperlinks.json) |
-| [August 10 at 1:42 PM](https://archive.org/download/arstechnica-2022/arstechnica-2022-08-10T13:42:43.043219-04:00.hyperlinks.json) |
-| [August 9 at 10:30 PM](https://archive.org/download/arstechnica-2022/arstechnica-2022-08-09T22:30:46.358402-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 99 accessibility trees with the Internet Archive.
+The archiving routine has saved 102 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 15 at 3:28 PM](https://archive.org/download/arstechnica-2022/arstechnica-2022-08-15T15:27:53.591498-04:00.accessibility.json) |
+| [August 14 at 11:06 PM](https://archive.org/download/arstechnica-2022/arstechnica-2022-08-14T23:06:50.238623-04:00.accessibility.json) |
+| [August 14 at 12:56 PM](https://archive.org/download/arstechnica-2022/arstechnica-2022-08-14T12:55:57.156883-04:00.accessibility.json) |
 | [August 14 at 12:58 AM](https://archive.org/download/arstechnica-2022/arstechnica-2022-08-14T00:57:58.848723-04:00.accessibility.json) |
 | [August 13 at 4:35 PM](https://archive.org/download/arstechnica-2022/arstechnica-2022-08-13T16:35:11.459469-04:00.accessibility.json) |
 | [August 12 at 10:09 PM](https://archive.org/download/arstechnica-2022/arstechnica-2022-08-12T22:09:06.650132-04:00.accessibility.json) |
@@ -428,15 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 5:28 AM](https://archive.org/download/arstechnica-2022/arstechnica-2022-08-12T05:28:39.671302-04:00.accessibility.json) |
 | [August 11 at 10:01 PM](https://archive.org/download/arstechnica-2022/arstechnica-2022-08-11T22:01:04.189414-04:00.accessibility.json) |
 | [August 11 at 1:00 PM](https://archive.org/download/arstechnica-2022/arstechnica-2022-08-11T12:59:58.356900-04:00.accessibility.json) |
-| [August 10 at 10:21 PM](https://archive.org/download/arstechnica-2022/arstechnica-2022-08-10T22:21:24.839657-04:00.accessibility.json) |
-| [August 10 at 1:42 PM](https://archive.org/download/arstechnica-2022/arstechnica-2022-08-10T13:42:43.043219-04:00.accessibility.json) |
-| [August 9 at 10:30 PM](https://archive.org/download/arstechnica-2022/arstechnica-2022-08-09T22:30:46.358402-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 47 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 50 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 15 at 3:28 PM](https://archive.org/download/arstechnica-2022/arstechnica-2022-08-15T15:27:53.591498-04:00.lighthouse.json) |
+| [August 14 at 11:06 PM](https://archive.org/download/arstechnica-2022/arstechnica-2022-08-14T23:06:50.238623-04:00.lighthouse.json) |
+| [August 14 at 12:56 PM](https://archive.org/download/arstechnica-2022/arstechnica-2022-08-14T12:55:57.156883-04:00.lighthouse.json) |
 | [August 14 at 12:58 AM](https://archive.org/download/arstechnica-2022/arstechnica-2022-08-14T00:57:58.848723-04:00.lighthouse.json) |
 | [August 13 at 4:35 PM](https://archive.org/download/arstechnica-2022/arstechnica-2022-08-13T16:35:11.459469-04:00.lighthouse.json) |
 | [August 12 at 10:09 PM](https://archive.org/download/arstechnica-2022/arstechnica-2022-08-12T22:09:06.650132-04:00.lighthouse.json) |
@@ -534,9 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 12 at 5:28 AM](https://archive.org/download/arstechnica-2022/arstechnica-2022-08-12T05:28:39.671302-04:00.lighthouse.json) |
 | [August 11 at 10:01 PM](https://archive.org/download/arstechnica-2022/arstechnica-2022-08-11T22:01:04.189414-04:00.lighthouse.json) |
 | [August 11 at 1:00 PM](https://archive.org/download/arstechnica-2022/arstechnica-2022-08-11T12:59:58.356900-04:00.lighthouse.json) |
-| [August 10 at 10:21 PM](https://archive.org/download/arstechnica-2022/arstechnica-2022-08-10T22:21:24.839657-04:00.lighthouse.json) |
-| [August 10 at 1:42 PM](https://archive.org/download/arstechnica-2022/arstechnica-2022-08-10T13:42:43.043219-04:00.lighthouse.json) |
-| [August 9 at 10:30 PM](https://archive.org/download/arstechnica-2022/arstechnica-2022-08-09T22:30:46.358402-04:00.lighthouse.json) |
 
 
 

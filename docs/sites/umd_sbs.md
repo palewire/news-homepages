@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 70 screenshots with the Internet Archive.
+The archiving routine has saved 73 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -114,6 +114,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-15T15:41:22.815723-04:00.jpg">
+  <img src="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-15T15:41:22.815723-04:00.jpg"
+     alt="Stories Beneath the Shell at 2022-08-15 15:41:24-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-15T15:41:22.815723-04:00.jpg">August 15 at 3:41 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-14T23:17:14.614819-04:00.jpg">
+  <img src="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-14T23:17:14.614819-04:00.jpg"
+     alt="Stories Beneath the Shell at 2022-08-14 23:17:16-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-14T23:17:14.614819-04:00.jpg">August 14 at 11:17 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-14T13:07:30.861069-04:00.jpg">
+  <img src="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-14T13:07:30.861069-04:00.jpg"
+     alt="Stories Beneath the Shell at 2022-08-14 13:07:32-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-14T13:07:30.861069-04:00.jpg">August 14 at 1:07 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-14T01:10:16.011055-04:00.jpg">
   <img src="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-14T01:10:16.011055-04:00.jpg"
      alt="Stories Beneath the Shell at 2022-08-14 01:10:17-04:00 local time"
@@ -194,38 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-09T22:40:28.256442-04:00.jpg">August 9 at 10:40 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-09T10:42:50.043401-04:00.jpg">
-  <img src="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-09T10:42:50.043401-04:00.jpg"
-     alt="Stories Beneath the Shell at 2022-08-09 10:42:51-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-09T10:42:50.043401-04:00.jpg">August 9 at 10:42 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-08T22:27:59.251561-04:00.jpg">
-  <img src="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-08T22:27:59.251561-04:00.jpg"
-     alt="Stories Beneath the Shell at 2022-08-08 22:28:00-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-08T22:27:59.251561-04:00.jpg">August 8 at 10:28 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-08T10:27:11.617426-04:00.jpg">
-  <img src="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-08T10:27:11.617426-04:00.jpg"
-     alt="Stories Beneath the Shell at 2022-08-08 10:27:16-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-08T10:27:11.617426-04:00.jpg">August 8 at 10:27 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 71 hyperlink lists with the Internet Archive.
+The archiving routine has saved 74 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 15 at 3:41 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-15T15:41:22.815723-04:00.hyperlinks.json) |
+| [August 14 at 11:17 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-14T23:17:14.614819-04:00.hyperlinks.json) |
+| [August 14 at 1:07 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-14T13:07:30.861069-04:00.hyperlinks.json) |
 | [August 14 at 1:10 AM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-14T01:10:16.011055-04:00.hyperlinks.json) |
 | [August 13 at 4:48 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-13T16:48:05.238648-04:00.hyperlinks.json) |
 | [August 12 at 10:19 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-12T22:19:22.149261-04:00.hyperlinks.json) |
@@ -323,14 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 5:37 AM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-12T05:37:29.187353-04:00.hyperlinks.json) |
 | [August 11 at 10:08 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-11T22:08:41.626763-04:00.hyperlinks.json) |
 | [August 11 at 1:10 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-11T13:10:27.670410-04:00.hyperlinks.json) |
-| [August 10 at 10:30 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-10T22:29:55.068674-04:00.hyperlinks.json) |
-| [August 10 at 1:52 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-10T13:52:37.755642-04:00.hyperlinks.json) |
-| [August 9 at 10:40 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-09T22:40:28.256442-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 71 accessibility trees with the Internet Archive.
+The archiving routine has saved 74 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 15 at 3:41 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-15T15:41:22.815723-04:00.accessibility.json) |
+| [August 14 at 11:17 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-14T23:17:14.614819-04:00.accessibility.json) |
+| [August 14 at 1:07 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-14T13:07:30.861069-04:00.accessibility.json) |
 | [August 14 at 1:10 AM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-14T01:10:16.011055-04:00.accessibility.json) |
 | [August 13 at 4:48 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-13T16:48:05.238648-04:00.accessibility.json) |
 | [August 12 at 10:19 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-12T22:19:22.149261-04:00.accessibility.json) |
@@ -428,15 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 5:37 AM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-12T05:37:29.187353-04:00.accessibility.json) |
 | [August 11 at 10:08 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-11T22:08:41.626763-04:00.accessibility.json) |
 | [August 11 at 1:10 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-11T13:10:27.670410-04:00.accessibility.json) |
-| [August 10 at 10:29 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-10T22:29:55.068674-04:00.accessibility.json) |
-| [August 10 at 1:52 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-10T13:52:37.755642-04:00.accessibility.json) |
-| [August 9 at 10:40 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-09T22:40:28.256442-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 46 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 49 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 15 at 3:41 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-15T15:41:22.815723-04:00.lighthouse.json) |
+| [August 14 at 11:17 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-14T23:17:14.614819-04:00.lighthouse.json) |
+| [August 14 at 1:07 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-14T13:07:30.861069-04:00.lighthouse.json) |
 | [August 14 at 1:10 AM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-14T01:10:16.011055-04:00.lighthouse.json) |
 | [August 13 at 4:48 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-13T16:48:05.238648-04:00.lighthouse.json) |
 | [August 12 at 10:19 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-12T22:19:22.149261-04:00.lighthouse.json) |
@@ -534,9 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 12 at 5:37 AM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-12T05:37:29.187353-04:00.lighthouse.json) |
 | [August 11 at 10:08 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-11T22:08:41.626763-04:00.lighthouse.json) |
 | [August 11 at 1:10 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-11T13:10:27.670410-04:00.lighthouse.json) |
-| [August 10 at 10:30 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-10T22:29:55.068674-04:00.lighthouse.json) |
-| [August 10 at 1:52 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-10T13:52:37.755642-04:00.lighthouse.json) |
-| [August 9 at 10:40 PM](https://archive.org/download/umd_sbs-2022/umd_sbs-2022-08-09T22:40:28.256442-04:00.lighthouse.json) |
 
 
 

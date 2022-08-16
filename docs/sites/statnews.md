@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 44 screenshots with the Internet Archive.
+The archiving routine has saved 47 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -114,6 +114,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/statnews-2022/statnews-2022-08-15T16:16:27.248724-04:00.jpg">
+  <img src="https://archive.org/download/statnews-2022/statnews-2022-08-15T16:16:27.248724-04:00.jpg"
+     alt="STAT at 2022-08-15 16:16:34-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/statnews-2022/statnews-2022-08-15T16:16:27.248724-04:00.jpg">August 15 at 4:16 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/statnews-2022/statnews-2022-08-15T02:45:06.390137-04:00.jpg">
+  <img src="https://archive.org/download/statnews-2022/statnews-2022-08-15T02:45:06.390137-04:00.jpg"
+     alt="STAT at 2022-08-15 02:45:07-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/statnews-2022/statnews-2022-08-15T02:45:06.390137-04:00.jpg">August 15 at 2:45 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/statnews-2022/statnews-2022-08-14T15:01:57.354146-04:00.jpg">
+  <img src="https://archive.org/download/statnews-2022/statnews-2022-08-14T15:01:57.354146-04:00.jpg"
+     alt="STAT at 2022-08-14 15:02:00-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/statnews-2022/statnews-2022-08-14T15:01:57.354146-04:00.jpg">August 14 at 3:02 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/statnews-2022/statnews-2022-08-14T03:06:29.731763-04:00.jpg">
   <img src="https://archive.org/download/statnews-2022/statnews-2022-08-14T03:06:29.731763-04:00.jpg"
      alt="STAT at 2022-08-14 03:06:31-04:00 local time"
@@ -194,38 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/statnews-2022/statnews-2022-08-10T01:35:23.049815-04:00.jpg">August 10 at 1:35 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/statnews-2022/statnews-2022-08-09T13:55:03.741694-04:00.jpg">
-  <img src="https://archive.org/download/statnews-2022/statnews-2022-08-09T13:55:03.741694-04:00.jpg"
-     alt="STAT at 2022-08-09 13:55:11-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/statnews-2022/statnews-2022-08-09T13:55:03.741694-04:00.jpg">August 9 at 1:55 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/statnews-2022/statnews-2022-08-09T01:09:54.247722-04:00.jpg">
-  <img src="https://archive.org/download/statnews-2022/statnews-2022-08-09T01:09:54.247722-04:00.jpg"
-     alt="STAT at 2022-08-09 01:09:56-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/statnews-2022/statnews-2022-08-09T01:09:54.247722-04:00.jpg">August 9 at 1:09 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/statnews-2022/statnews-2022-08-08T13:20:00.671826-04:00.jpg">
-  <img src="https://archive.org/download/statnews-2022/statnews-2022-08-08T13:20:00.671826-04:00.jpg"
-     alt="STAT at 2022-08-08 13:20:02-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/statnews-2022/statnews-2022-08-08T13:20:00.671826-04:00.jpg">August 8 at 1:20 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 44 hyperlink lists with the Internet Archive.
+The archiving routine has saved 47 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 15 at 4:16 PM](https://archive.org/download/statnews-2022/statnews-2022-08-15T16:16:27.248724-04:00.hyperlinks.json) |
+| [August 15 at 2:45 AM](https://archive.org/download/statnews-2022/statnews-2022-08-15T02:45:06.390137-04:00.hyperlinks.json) |
+| [August 14 at 3:02 PM](https://archive.org/download/statnews-2022/statnews-2022-08-14T15:01:57.354146-04:00.hyperlinks.json) |
 | [August 14 at 3:06 AM](https://archive.org/download/statnews-2022/statnews-2022-08-14T03:06:29.731763-04:00.hyperlinks.json) |
 | [August 13 at 5:01 PM](https://archive.org/download/statnews-2022/statnews-2022-08-13T17:01:51.523082-04:00.hyperlinks.json) |
 | [August 13 at 1:12 AM](https://archive.org/download/statnews-2022/statnews-2022-08-13T01:12:51.037512-04:00.hyperlinks.json) |
@@ -323,14 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 5:46 AM](https://archive.org/download/statnews-2022/statnews-2022-08-12T05:46:19.540143-04:00.hyperlinks.json) |
 | [August 11 at 2:57 PM](https://archive.org/download/statnews-2022/statnews-2022-08-11T14:57:17.585534-04:00.hyperlinks.json) |
 | [August 11 at 1:26 AM](https://archive.org/download/statnews-2022/statnews-2022-08-11T01:26:13.517829-04:00.hyperlinks.json) |
-| [August 10 at 1:35 AM](https://archive.org/download/statnews-2022/statnews-2022-08-10T01:35:23.049815-04:00.hyperlinks.json) |
-| [August 9 at 1:55 PM](https://archive.org/download/statnews-2022/statnews-2022-08-09T13:55:03.741694-04:00.hyperlinks.json) |
-| [August 9 at 1:09 AM](https://archive.org/download/statnews-2022/statnews-2022-08-09T01:09:54.247722-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 45 accessibility trees with the Internet Archive.
+The archiving routine has saved 48 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 15 at 4:16 PM](https://archive.org/download/statnews-2022/statnews-2022-08-15T16:16:27.248724-04:00.accessibility.json) |
+| [August 15 at 2:45 AM](https://archive.org/download/statnews-2022/statnews-2022-08-15T02:45:06.390137-04:00.accessibility.json) |
+| [August 14 at 3:02 PM](https://archive.org/download/statnews-2022/statnews-2022-08-14T15:01:57.354146-04:00.accessibility.json) |
 | [August 14 at 3:06 AM](https://archive.org/download/statnews-2022/statnews-2022-08-14T03:06:29.731763-04:00.accessibility.json) |
 | [August 13 at 5:01 PM](https://archive.org/download/statnews-2022/statnews-2022-08-13T17:01:51.523082-04:00.accessibility.json) |
 | [August 13 at 1:12 AM](https://archive.org/download/statnews-2022/statnews-2022-08-13T01:12:51.037512-04:00.accessibility.json) |
@@ -428,15 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 5:46 AM](https://archive.org/download/statnews-2022/statnews-2022-08-12T05:46:19.540143-04:00.accessibility.json) |
 | [August 11 at 2:57 PM](https://archive.org/download/statnews-2022/statnews-2022-08-11T14:57:17.585534-04:00.accessibility.json) |
 | [August 11 at 1:26 AM](https://archive.org/download/statnews-2022/statnews-2022-08-11T01:26:13.517829-04:00.accessibility.json) |
-| [August 10 at 2:24 PM](https://archive.org/download/statnews-2022/statnews-2022-08-10T14:24:42.106534-04:00.accessibility.json) |
-| [August 10 at 1:35 AM](https://archive.org/download/statnews-2022/statnews-2022-08-10T01:35:23.049815-04:00.accessibility.json) |
-| [August 9 at 1:55 PM](https://archive.org/download/statnews-2022/statnews-2022-08-09T13:55:03.741694-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 43 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 46 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 15 at 4:16 PM](https://archive.org/download/statnews-2022/statnews-2022-08-15T16:16:27.248724-04:00.lighthouse.json) |
+| [August 15 at 2:45 AM](https://archive.org/download/statnews-2022/statnews-2022-08-15T02:45:06.390137-04:00.lighthouse.json) |
+| [August 14 at 3:02 PM](https://archive.org/download/statnews-2022/statnews-2022-08-14T15:01:57.354146-04:00.lighthouse.json) |
 | [August 14 at 3:06 AM](https://archive.org/download/statnews-2022/statnews-2022-08-14T03:06:29.731763-04:00.lighthouse.json) |
 | [August 13 at 5:01 PM](https://archive.org/download/statnews-2022/statnews-2022-08-13T17:01:51.523082-04:00.lighthouse.json) |
 | [August 13 at 1:12 AM](https://archive.org/download/statnews-2022/statnews-2022-08-13T01:12:51.037512-04:00.lighthouse.json) |
@@ -534,9 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 12 at 5:46 AM](https://archive.org/download/statnews-2022/statnews-2022-08-12T05:46:19.540143-04:00.lighthouse.json) |
 | [August 11 at 2:57 PM](https://archive.org/download/statnews-2022/statnews-2022-08-11T14:57:17.585534-04:00.lighthouse.json) |
 | [August 11 at 1:26 AM](https://archive.org/download/statnews-2022/statnews-2022-08-11T01:26:13.517829-04:00.lighthouse.json) |
-| [August 10 at 2:25 PM](https://archive.org/download/statnews-2022/statnews-2022-08-10T14:24:42.106534-04:00.lighthouse.json) |
-| [August 10 at 1:35 AM](https://archive.org/download/statnews-2022/statnews-2022-08-10T01:35:23.049815-04:00.lighthouse.json) |
-| [August 9 at 1:55 PM](https://archive.org/download/statnews-2022/statnews-2022-08-09T13:55:03.741694-04:00.lighthouse.json) |
 
 
 

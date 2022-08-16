@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 97 screenshots with the Internet Archive.
+The archiving routine has saved 100 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -114,6 +114,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/theinformation-2022/theinformation-2022-08-15T13:17:51.654352-07:00.jpg">
+  <img src="https://archive.org/download/theinformation-2022/theinformation-2022-08-15T13:17:51.654352-07:00.jpg"
+     alt="The Information at 2022-08-15 13:17:53-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theinformation-2022/theinformation-2022-08-15T13:17:51.654352-07:00.jpg">August 15 at 1:17 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theinformation-2022/theinformation-2022-08-14T23:47:44.099666-07:00.jpg">
+  <img src="https://archive.org/download/theinformation-2022/theinformation-2022-08-14T23:47:44.099666-07:00.jpg"
+     alt="The Information at 2022-08-14 23:47:50-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theinformation-2022/theinformation-2022-08-14T23:47:44.099666-07:00.jpg">August 14 at 11:47 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theinformation-2022/theinformation-2022-08-14T12:04:31.719110-07:00.jpg">
+  <img src="https://archive.org/download/theinformation-2022/theinformation-2022-08-14T12:04:31.719110-07:00.jpg"
+     alt="The Information at 2022-08-14 12:04:34-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theinformation-2022/theinformation-2022-08-14T12:04:31.719110-07:00.jpg">August 14 at 12:04 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/theinformation-2022/theinformation-2022-08-14T00:08:43.406759-07:00.jpg">
   <img src="https://archive.org/download/theinformation-2022/theinformation-2022-08-14T00:08:43.406759-07:00.jpg"
      alt="The Information at 2022-08-14 00:08:45-07:00 local time"
@@ -194,38 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/theinformation-2022/theinformation-2022-08-09T22:35:10.107709-07:00.jpg">August 9 at 10:35 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/theinformation-2022/theinformation-2022-08-09T10:56:22.137749-07:00.jpg">
-  <img src="https://archive.org/download/theinformation-2022/theinformation-2022-08-09T10:56:22.137749-07:00.jpg"
-     alt="The Information at 2022-08-09 10:56:25-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theinformation-2022/theinformation-2022-08-09T10:56:22.137749-07:00.jpg">August 9 at 10:56 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/theinformation-2022/theinformation-2022-08-08T22:12:17.156897-07:00.jpg">
-  <img src="https://archive.org/download/theinformation-2022/theinformation-2022-08-08T22:12:17.156897-07:00.jpg"
-     alt="The Information at 2022-08-08 22:12:18-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theinformation-2022/theinformation-2022-08-08T22:12:17.156897-07:00.jpg">August 8 at 10:12 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/theinformation-2022/theinformation-2022-08-08T10:21:07.282732-07:00.jpg">
-  <img src="https://archive.org/download/theinformation-2022/theinformation-2022-08-08T10:21:07.282732-07:00.jpg"
-     alt="The Information at 2022-08-08 10:21:09-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theinformation-2022/theinformation-2022-08-08T10:21:07.282732-07:00.jpg">August 8 at 10:21 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 96 hyperlink lists with the Internet Archive.
+The archiving routine has saved 99 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 15 at 1:17 PM](https://archive.org/download/theinformation-2022/theinformation-2022-08-15T13:17:51.654352-07:00.hyperlinks.json) |
+| [August 14 at 11:47 PM](https://archive.org/download/theinformation-2022/theinformation-2022-08-14T23:47:44.099666-07:00.hyperlinks.json) |
+| [August 14 at 12:04 PM](https://archive.org/download/theinformation-2022/theinformation-2022-08-14T12:04:31.719110-07:00.hyperlinks.json) |
 | [August 14 at 12:08 AM](https://archive.org/download/theinformation-2022/theinformation-2022-08-14T00:08:43.406759-07:00.hyperlinks.json) |
 | [August 13 at 2:03 PM](https://archive.org/download/theinformation-2022/theinformation-2022-08-13T14:03:48.791927-07:00.hyperlinks.json) |
 | [August 12 at 10:14 PM](https://archive.org/download/theinformation-2022/theinformation-2022-08-12T22:14:12.878645-07:00.hyperlinks.json) |
@@ -323,14 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 2:48 AM](https://archive.org/download/theinformation-2022/theinformation-2022-08-12T02:48:02.406073-07:00.hyperlinks.json) |
 | [August 11 at 11:58 AM](https://archive.org/download/theinformation-2022/theinformation-2022-08-11T11:58:50.059833-07:00.hyperlinks.json) |
 | [August 10 at 10:27 PM](https://archive.org/download/theinformation-2022/theinformation-2022-08-10T22:27:38.634472-07:00.hyperlinks.json) |
-| [August 10 at 11:27 AM](https://archive.org/download/theinformation-2022/theinformation-2022-08-10T11:27:24.578191-07:00.hyperlinks.json) |
-| [August 9 at 10:35 PM](https://archive.org/download/theinformation-2022/theinformation-2022-08-09T22:35:10.107709-07:00.hyperlinks.json) |
-| [August 9 at 10:56 AM](https://archive.org/download/theinformation-2022/theinformation-2022-08-09T10:56:22.137749-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 97 accessibility trees with the Internet Archive.
+The archiving routine has saved 100 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 15 at 1:17 PM](https://archive.org/download/theinformation-2022/theinformation-2022-08-15T13:17:51.654352-07:00.accessibility.json) |
+| [August 14 at 11:47 PM](https://archive.org/download/theinformation-2022/theinformation-2022-08-14T23:47:44.099666-07:00.accessibility.json) |
+| [August 14 at 12:04 PM](https://archive.org/download/theinformation-2022/theinformation-2022-08-14T12:04:31.719110-07:00.accessibility.json) |
 | [August 14 at 12:08 AM](https://archive.org/download/theinformation-2022/theinformation-2022-08-14T00:08:43.406759-07:00.accessibility.json) |
 | [August 13 at 2:03 PM](https://archive.org/download/theinformation-2022/theinformation-2022-08-13T14:03:48.791927-07:00.accessibility.json) |
 | [August 12 at 10:14 PM](https://archive.org/download/theinformation-2022/theinformation-2022-08-12T22:14:12.878645-07:00.accessibility.json) |
@@ -428,15 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 2:48 AM](https://archive.org/download/theinformation-2022/theinformation-2022-08-12T02:48:02.406073-07:00.accessibility.json) |
 | [August 11 at 11:58 AM](https://archive.org/download/theinformation-2022/theinformation-2022-08-11T11:58:50.059833-07:00.accessibility.json) |
 | [August 10 at 10:27 PM](https://archive.org/download/theinformation-2022/theinformation-2022-08-10T22:27:38.634472-07:00.accessibility.json) |
-| [August 10 at 11:27 AM](https://archive.org/download/theinformation-2022/theinformation-2022-08-10T11:27:24.578191-07:00.accessibility.json) |
-| [August 9 at 10:35 PM](https://archive.org/download/theinformation-2022/theinformation-2022-08-09T22:35:10.107709-07:00.accessibility.json) |
-| [August 9 at 10:56 AM](https://archive.org/download/theinformation-2022/theinformation-2022-08-09T10:56:22.137749-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 44 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 47 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 15 at 1:17 PM](https://archive.org/download/theinformation-2022/theinformation-2022-08-15T13:17:51.654352-07:00.lighthouse.json) |
+| [August 14 at 11:47 PM](https://archive.org/download/theinformation-2022/theinformation-2022-08-14T23:47:44.099666-07:00.lighthouse.json) |
+| [August 14 at 12:04 PM](https://archive.org/download/theinformation-2022/theinformation-2022-08-14T12:04:31.719110-07:00.lighthouse.json) |
 | [August 14 at 12:08 AM](https://archive.org/download/theinformation-2022/theinformation-2022-08-14T00:08:43.406759-07:00.lighthouse.json) |
 | [August 13 at 2:03 PM](https://archive.org/download/theinformation-2022/theinformation-2022-08-13T14:03:48.791927-07:00.lighthouse.json) |
 | [August 12 at 10:14 PM](https://archive.org/download/theinformation-2022/theinformation-2022-08-12T22:14:12.878645-07:00.lighthouse.json) |
@@ -534,9 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 12 at 2:48 AM](https://archive.org/download/theinformation-2022/theinformation-2022-08-12T02:48:02.406073-07:00.lighthouse.json) |
 | [August 11 at 11:58 AM](https://archive.org/download/theinformation-2022/theinformation-2022-08-11T11:58:50.059833-07:00.lighthouse.json) |
 | [August 10 at 10:27 PM](https://archive.org/download/theinformation-2022/theinformation-2022-08-10T22:27:38.634472-07:00.lighthouse.json) |
-| [August 10 at 11:27 AM](https://archive.org/download/theinformation-2022/theinformation-2022-08-10T11:27:24.578191-07:00.lighthouse.json) |
-| [August 9 at 10:35 PM](https://archive.org/download/theinformation-2022/theinformation-2022-08-09T22:35:10.107709-07:00.lighthouse.json) |
-| [August 9 at 10:56 AM](https://archive.org/download/theinformation-2022/theinformation-2022-08-09T10:56:22.137749-07:00.lighthouse.json) |
 
 
 
