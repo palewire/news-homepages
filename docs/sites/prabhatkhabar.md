@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | Asia/Kolkata                                                                                                                              |
 | Country        | [India](https://palewi.re/docs/news-homepages/countries/in.html)
 | Language       | [Hindi](https://palewi.re/docs/news-homepages/languages/hi.html)
-| Bundles        | <a href="../bundles/india.html">India</a>  |
+| Bundles        |  |
 
 ## Screenshots
 

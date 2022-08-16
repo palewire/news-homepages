@@ -7,7 +7,7 @@ orphan: true
 
 # Spanish
 
-The most recent homepages from 35 news sites in this language.
+The most recent homepages from 45 news sites in this language.
 
 <div class="latest-parent">
 
@@ -36,6 +36,15 @@ The most recent homepages from 35 news sites in this language.
      loading="lazy">
  </a>
  <p><a href="../sites/pajaropolitico.html">Animal Político</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/aristeguionline.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/aristeguionline.jpg"
+     alt="Aristegui Noticias"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/aristeguionline.html">Aristegui Noticias</a></p>
 </div>
 
 <div class="latest-child">
@@ -174,6 +183,33 @@ The most recent homepages from 35 news sites in this language.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/excelsior.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/excelsior.jpg"
+     alt="Excélsior"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/excelsior.html">Excélsior</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/elfinanciero_mx.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/elfinanciero_mx.jpg"
+     alt="Financiero"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/elfinanciero_mx.html">Financiero</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/lajornadaonline.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lajornadaonline.jpg"
+     alt="Jornada"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/lajornadaonline.html">Jornada</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/lajornada.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lajornada.jpg"
      alt="La Jornada"
@@ -246,6 +282,24 @@ The most recent homepages from 35 news sites in this language.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/milenio.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/milenio.jpg"
+     alt="Milenio"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/milenio.html">Milenio</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/mvsnoticias.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mvsnoticias.jpg"
+     alt="MVS Noticias"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/mvsnoticias.html">MVS Noticias</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/perfilcom.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/perfilcom.jpg"
      alt="Perfil"
@@ -264,6 +318,15 @@ The most recent homepages from 35 news sites in this language.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/proceso.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/proceso.jpg"
+     alt="Proceso"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/proceso.html">Proceso</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/pagina12.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pagina12.jpg"
      alt="Página/12"
@@ -279,6 +342,33 @@ The most recent homepages from 35 news sites in this language.
      loading="lazy">
  </a>
  <p><a href="../sites/quintoelab.html">Quinto Elemento Lab</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/reforma.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/reforma.jpg"
+     alt="Reforma"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/reforma.html">Reforma</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/reporte_indigo.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/reporte_indigo.jpg"
+     alt="Reporte Índigo"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/reporte_indigo.html">Reporte Índigo</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/sinembargomx.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sinembargomx.jpg"
+     alt="SinEmbargo"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/sinembargomx.html">SinEmbargo</a></p>
 </div>
 
 <div class="latest-child">
@@ -341,6 +431,7 @@ The most recent homepages from 35 news sites in this language.
 |[ABC](https://palewi.re/docs/news-homepages/sites/abc_es.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/abc_es.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/abc_es.xml)|
 |[Al Dia Dallas](https://palewi.re/docs/news-homepages/sites/aldiadallas.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/aldiadallas.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/aldiadallas.xml)|
 |[Animal Político](https://palewi.re/docs/news-homepages/sites/pajaropolitico.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pajaropolitico.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/pajaropolitico.xml)|
+|[Aristegui Noticias](https://palewi.re/docs/news-homepages/sites/aristeguionline.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/aristeguionline.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/aristeguionline.xml)|
 |[Cadena SER](https://palewi.re/docs/news-homepages/sites/la_ser.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/la_ser.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/la_ser.xml)|
 |[Centro de Periodismo Investigativo](https://palewi.re/docs/news-homepages/sites/cpipr.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/cpipr.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/cpipr.xml)|
 |[Chequeado](https://palewi.re/docs/news-homepages/sites/chequeado.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/chequeado.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/chequeado.xml)|
@@ -356,6 +447,9 @@ The most recent homepages from 35 news sites in this language.
 |[El Pais](https://palewi.re/docs/news-homepages/sites/elpaisuy.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/elpaisuy.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/elpaisuy.xml)|
 |[El Periodico](https://palewi.re/docs/news-homepages/sites/elperiodico.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/elperiodico.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/elperiodico.xml)|
 |[El Universal](https://palewi.re/docs/news-homepages/sites/el_universal_mx.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/el_universal_mx.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/el_universal_mx.xml)|
+|[Excélsior](https://palewi.re/docs/news-homepages/sites/excelsior.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/excelsior.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/excelsior.xml)|
+|[Financiero](https://palewi.re/docs/news-homepages/sites/elfinanciero_mx.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/elfinanciero_mx.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/elfinanciero_mx.xml)|
+|[Jornada](https://palewi.re/docs/news-homepages/sites/lajornadaonline.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lajornadaonline.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lajornadaonline.xml)|
 |[La Jornada](https://palewi.re/docs/news-homepages/sites/lajornada.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lajornada.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lajornada.xml)|
 |[La Nacion](https://palewi.re/docs/news-homepages/sites/lanacion.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lanacion.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lanacion.xml)|
 |[La Nueva España](https://palewi.re/docs/news-homepages/sites/lanuevaespana.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lanuevaespana.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lanuevaespana.xml)|
@@ -364,10 +458,16 @@ The most recent homepages from 35 news sites in this language.
 |[La Razón](https://palewi.re/docs/news-homepages/sites/larazon_es.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/larazon_es.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/larazon_es.xml)|
 |[La Vanguardia](https://palewi.re/docs/news-homepages/sites/lavanguardia.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lavanguardia.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lavanguardia.xml)|
 |[La Voz de Galicia](https://palewi.re/docs/news-homepages/sites/lavozdegalicia.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lavozdegalicia.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lavozdegalicia.xml)|
+|[Milenio](https://palewi.re/docs/news-homepages/sites/milenio.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/milenio.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/milenio.xml)|
+|[MVS Noticias](https://palewi.re/docs/news-homepages/sites/mvsnoticias.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mvsnoticias.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mvsnoticias.xml)|
 |[Perfil](https://palewi.re/docs/news-homepages/sites/perfilcom.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/perfilcom.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/perfilcom.xml)|
 |[Prensa Grafica](https://palewi.re/docs/news-homepages/sites/prensagrafica.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/prensagrafica.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/prensagrafica.xml)|
+|[Proceso](https://palewi.re/docs/news-homepages/sites/proceso.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/proceso.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/proceso.xml)|
 |[Página/12](https://palewi.re/docs/news-homepages/sites/pagina12.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/pagina12.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/pagina12.xml)|
 |[Quinto Elemento Lab](https://palewi.re/docs/news-homepages/sites/quintoelab.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/quintoelab.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/quintoelab.xml)|
+|[Reforma](https://palewi.re/docs/news-homepages/sites/reforma.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/reforma.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/reforma.xml)|
+|[Reporte Índigo](https://palewi.re/docs/news-homepages/sites/reporte_indigo.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/reporte_indigo.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/reporte_indigo.xml)|
+|[SinEmbargo](https://palewi.re/docs/news-homepages/sites/sinembargomx.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sinembargomx.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/sinembargomx.xml)|
 |[Telemundo Chicago](https://palewi.re/docs/news-homepages/sites/telemundochi.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/telemundochi.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/telemundochi.xml)|
 |[Tiempo](https://palewi.re/docs/news-homepages/sites/eltiempo.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/eltiempo.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/eltiempo.xml)|
 |[Univision Chicago](https://palewi.re/docs/news-homepages/sites/unichicago.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/unichicago.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/unichicago.xml)|

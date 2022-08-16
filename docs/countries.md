@@ -1,7 +1,7 @@
 ```{include} _templates/nav.html
 ```
 
-# Country directory
+# Countries
 
 The archiving routine is currently saving sites in 30 countries.
 
@@ -25,7 +25,7 @@ The archiving routine is currently saving sites in 30 countries.
 |[Japan](https://palewi.re/docs/news-homepages/countries/jp.html)|9|[🔗](https://palewi.re/docs/news-homepages/rss/countries/jp.xml)|
 |[Latvia](https://palewi.re/docs/news-homepages/countries/lv.html)|1|[🔗](https://palewi.re/docs/news-homepages/rss/countries/lv.xml)|
 |[Lebanon](https://palewi.re/docs/news-homepages/countries/lb.html)|1|[🔗](https://palewi.re/docs/news-homepages/rss/countries/lb.xml)|
-|[Mexico](https://palewi.re/docs/news-homepages/countries/mx.html)|4|[🔗](https://palewi.re/docs/news-homepages/rss/countries/mx.xml)|
+|[Mexico](https://palewi.re/docs/news-homepages/countries/mx.html)|14|[🔗](https://palewi.re/docs/news-homepages/rss/countries/mx.xml)|
 |[Nepal](https://palewi.re/docs/news-homepages/countries/np.html)|24|[🔗](https://palewi.re/docs/news-homepages/rss/countries/np.xml)|
 |[New Zealand](https://palewi.re/docs/news-homepages/countries/nz.html)|4|[🔗](https://palewi.re/docs/news-homepages/rss/countries/nz.xml)|
 |[Norway](https://palewi.re/docs/news-homepages/countries/no.html)|8|[🔗](https://palewi.re/docs/news-homepages/rss/countries/no.xml)|

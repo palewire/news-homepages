@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | America/New_York                                                                                                                              |
 | Country        | [Canada](https://palewi.re/docs/news-homepages/countries/ca.html)
 | Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
-| Bundles        | <a href="../bundles/canada.html">Canada</a>,  <a href="../bundles/student.html">Student</a>  |
+| Bundles        | <a href="../bundles/student.html">Student</a>  |
 
 ## Screenshots
 

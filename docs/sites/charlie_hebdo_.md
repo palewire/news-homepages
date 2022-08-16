@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | Europe/Paris                                                                                                                              |
 | Country        | [France](https://palewi.re/docs/news-homepages/countries/fr.html)
 | Language       | [French](https://palewi.re/docs/news-homepages/languages/fr.html)
-| Bundles        | <a href="../bundles/france.html">France</a>,  <a href="../bundles/satire.html">Satire</a>  |
+| Bundles        | <a href="../bundles/satire.html">Satire</a>  |
 
 ## Screenshots
 

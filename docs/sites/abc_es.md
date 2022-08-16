@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | Europe/Madrid                                                                                                                              |
 | Country        | [Spain](https://palewi.re/docs/news-homepages/countries/es.html)
 | Language       | [Spanish](https://palewi.re/docs/news-homepages/languages/es.html)
-| Bundles        | <a href="../bundles/spain.html">Spain</a>  |
+| Bundles        |  |
 
 ## Screenshots
 

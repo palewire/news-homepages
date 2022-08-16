@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | Europe/Dublin                                                                                                                              |
 | Country        | [Ireland](https://palewi.re/docs/news-homepages/countries/ie.html)
 | Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
-| Bundles        | <a href="../bundles/ireland.html">Ireland</a>  |
+| Bundles        |  |
 
 ## Screenshots
 

@@ -7,7 +7,7 @@ orphan: true
 
 # Florida
 
-The most recent homepages from 7 news sites in this bundle.
+The most recent homepages from 8 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -36,6 +36,15 @@ The most recent homepages from 7 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/flphoenixnews.html">Florida Phoenix</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/fla_pol.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/fla_pol.jpg"
+     alt="Florida Politics"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/fla_pol.html">Florida Politics</a></p>
 </div>
 
 <div class="latest-child">
@@ -92,6 +101,7 @@ The most recent homepages from 7 news sites in this bundle.
 |[Alligator](https://palewi.re/docs/news-homepages/sites/thealligator.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thealligator.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thealligator.xml)|
 |[Florida Bulldog](https://palewi.re/docs/news-homepages/sites/florida_bulldog.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/florida_bulldog.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/florida_bulldog.xml)|
 |[Florida Phoenix](https://palewi.re/docs/news-homepages/sites/flphoenixnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/flphoenixnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/flphoenixnews.xml)|
+|[Florida Politics](https://palewi.re/docs/news-homepages/sites/fla_pol.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/fla_pol.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/fla_pol.xml)|
 |[Gainesville Sun](https://palewi.re/docs/news-homepages/sites/gainesvillesun.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gainesvillesun.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gainesvillesun.xml)|
 |[Miami Herald](https://palewi.re/docs/news-homepages/sites/miamiherald.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/miamiherald.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/miamiherald.xml)|
 |[Tampa Bay Times](https://palewi.re/docs/news-homepages/sites/tb_times.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tb_times.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/tb_times.xml)|

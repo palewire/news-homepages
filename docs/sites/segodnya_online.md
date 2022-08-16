@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | Europe/Kiev                                                                                                                              |
 | Country        | [Ukraine](https://palewi.re/docs/news-homepages/countries/ua.html)
 | Language       | [Ukrainian](https://palewi.re/docs/news-homepages/languages/uk.html)
-| Bundles        | <a href="../bundles/eastern-europe.html">Eastern Europe</a>  |
+| Bundles        |  |
 
 ## Screenshots
 

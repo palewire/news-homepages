@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | America/Buenos_Aires                                                                                                                              |
 | Country        | [Argentina](https://palewi.re/docs/news-homepages/countries/ar.html)
 | Language       | [Spanish](https://palewi.re/docs/news-homepages/languages/es.html)
-| Bundles        | <a href="../bundles/argentina.html">Argentina</a>  |
+| Bundles        |  |
 
 ## Screenshots
 

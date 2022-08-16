@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | Asia/Tokyo                                                                                                                              |
 | Country        | [Japan](https://palewi.re/docs/news-homepages/countries/jp.html)
 | Language       | [Japanese](https://palewi.re/docs/news-homepages/languages/ja.html)
-| Bundles        | <a href="../bundles/japan.html">Japan</a>  |
+| Bundles        |  |
 
 ## Screenshots
 

@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | Pacific/Auckland                                                                                                                              |
 | Country        | [New Zealand](https://palewi.re/docs/news-homepages/countries/nz.html)
 | Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
-| Bundles        | <a href="../bundles/new-zealand.html">New Zealand</a>  |
+| Bundles        |  |
 
 ## Screenshots
 
