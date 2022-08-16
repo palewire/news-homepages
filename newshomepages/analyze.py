@@ -35,10 +35,13 @@ def lighthouse():
         parse_dates=["date"],
     )
 
+    # Exclude null scores
+    notnull_df = df[~pd.isnull(df.performance)].copy()
+
     # Exclude any sites with less than 10 observations
-    observations_by_site = df.groupby("handle").size().rename("n").reset_index()
+    observations_by_site = notnull_df.groupby("handle").size().rename("n").reset_index()
     not_qualified = observations_by_site[observations_by_site.n < 10]
-    qualified_df = df[~df.handle.isin(not_qualified)].copy()
+    qualified_df = notnull_df[~notnull_df.handle.isin(not_qualified.handle)].copy()
 
     # Aggregate descriptive statistics for each metric
     agg_df = qualified_df.groupby("handle").agg(
