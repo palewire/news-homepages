@@ -8,7 +8,7 @@ on:
 jobs:
   archive-bundle:
     name: Archive bundle
-    uses: palewire/news-homepages/.github/workflows/reusable-archive-bundle-workflow.yml@main
+    uses: palewire/news-homepages/.github/workflows/reusable-archive-country-workflow.yml@main
     with:
-      bundle: japan
+      country: JP
     secrets: inherit
