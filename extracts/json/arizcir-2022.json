@@ -1,5 +1,5 @@
 {
-  "created": 1660613065,
+  "created": 1660656431,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/32/items/arizcir-2022",
@@ -6648,31 +6648,82 @@
       "sha1": "f693c782ef2df7af948292fb3dc25c75214b9cf6"
     },
     {
+      "name": "arizcir-2022-08-16T06:26:11.723156-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660656375",
+      "size": "20888",
+      "md5": "454b980a0957bcf423bb24ae3b827695",
+      "crc32": "8867e4bf",
+      "sha1": "f1c6bff3cd707940f968e8119150a2145efd2b29",
+      "format": "JSON"
+    },
+    {
+      "name": "arizcir-2022-08-16T06:26:11.723156-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660656378",
+      "size": "20836",
+      "md5": "0b71bc0f2cab8dd672c6ca171f126677",
+      "crc32": "1807d1d8",
+      "sha1": "42bf01be3f950ed8c00fe37bde7e48048c15dbb6",
+      "format": "JSON"
+    },
+    {
+      "name": "arizcir-2022-08-16T06:26:11.723156-07:00.jpg",
+      "source": "original",
+      "mtime": "1660656373",
+      "size": "240316",
+      "md5": "ade7c070c7a8187e778cbfefccbf387d",
+      "crc32": "1bd559e0",
+      "sha1": "c7a4cca00d9b833ffaaf07fc247b55ede0488ba7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "arizcir-2022-08-16T06:26:11.723156-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660656380",
+      "size": "1414",
+      "md5": "9cc3975dfdce4048b50c62419de5ec46",
+      "crc32": "5f281490",
+      "sha1": "c24ccf5bc9e8d381ab4bf9b1d153236343bc8c7a",
+      "format": "JSON"
+    },
+    {
+      "name": "arizcir-2022-08-16T06:26:11.723156-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660656382",
+      "size": "18230",
+      "md5": "54c56c59c156f940b9f408b9d8e52363",
+      "crc32": "5f6534b1",
+      "sha1": "13929b15b93a7c5d1160ac88c3da50dfaaad0c4f",
+      "format": "JSON"
+    },
+    {
       "name": "arizcir-2022_archive.torrent",
       "source": "metadata",
-      "btih": "146ee644a0e263e9ed71545a7980cdbe95a1a37b",
-      "mtime": "1660613020",
-      "size": "134261",
-      "md5": "e5a7cbafc0bf5fb76e9085f8dc9ea25e",
-      "crc32": "e1727a49",
-      "sha1": "44aebd3d4e54cc68fd67f52a5505a9396363333b",
+      "btih": "647decb5ac603e6057c313e5b7817dbdd920e74c",
+      "mtime": "1660656428",
+      "size": "135299",
+      "md5": "c3277e3fa1c08c16234a8f22eadb3622",
+      "crc32": "9e60023e",
+      "sha1": "c7c90d4049e8012f2d94493c69dcb70c8a0747db",
       "format": "Archive BitTorrent"
     },
     {
       "name": "arizcir-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "44dd65aadd690b0452c5f712c174da92",
+      "md5": "ee6df57728d377da2e96cc6434b921d3",
       "summation": "md5"
     },
     {
       "name": "arizcir-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660612440",
-      "size": "770048",
-      "md5": "67ecd8d1be4985fc0cab61b8f2454b6a",
-      "crc32": "d7e34837",
-      "sha1": "2a5618def23c0b4fc919623277f3527f165db1ae",
+      "mtime": "1660656386",
+      "size": "778240",
+      "md5": "5ce040aa71f6383e9103e74fd38011bb",
+      "crc32": "d5838b59",
+      "sha1": "6b2a39eff19084e015ccb7fec204a3a2c71c5a5c",
       "format": "Metadata"
     },
     {
@@ -6686,9 +6737,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 640,
-  "item_last_updated": 1660613020,
-  "item_size": 40008391,
+  "files_count": 645,
+  "item_last_updated": 1660656428,
+  "item_size": 40319305,
   "metadata": {
     "identifier": "arizcir-2022",
     "collection": [
@@ -6705,10 +6756,21 @@
     "publicdate": "2022-06-19 23:22:49",
     "addeddate": "2022-06-19 23:22:49"
   },
+  "pending_tasks": true,
   "server": "ia902504.us.archive.org",
-  "uniq": 495453321,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3371612131,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 239581413,
   "workable_servers": [
-    "ia902504.us.archive.org",
-    "ia802504.us.archive.org"
+    "ia902504.us.archive.org"
   ]
 }

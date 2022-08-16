@@ -1,5 +1,5 @@
 {
-  "created": 1660613450,
+  "created": 1660656968,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/28/items/denverite-2022",
@@ -326,31 +326,82 @@
       "sha1": "f44fc342c56463ff3c48f78fa2bdc9832177b2a7"
     },
     {
+      "name": "denverite-2022-08-16T07:35:16.241867-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660656919",
+      "size": "28208",
+      "md5": "02ad6127d2b17b350627ee0f50d500e3",
+      "crc32": "01c3ec65",
+      "sha1": "36ed0f4ebddbf5fe2f9c361babb4a9aad1922861",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-08-16T07:35:16.241867-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660656921",
+      "size": "30199",
+      "md5": "e59a78d0ebebef97d432abbed7b46e7b",
+      "crc32": "1374f0dd",
+      "sha1": "8a6c5b9aba38bcac3419e9dced18a465f07eabb2",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-08-16T07:35:16.241867-06:00.jpg",
+      "source": "original",
+      "mtime": "1660656917",
+      "size": "417247",
+      "md5": "497bc4515365c91d7dc47c366e02bb5e",
+      "crc32": "6e0ec39b",
+      "sha1": "36e73411732d94e45ad025177d18b741f68548a0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "denverite-2022-08-16T07:35:16.241867-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660656922",
+      "size": "1450",
+      "md5": "3e871f9d45b71dde936895e01176ec8c",
+      "crc32": "c5b5ce73",
+      "sha1": "a94ebfd1d17aef7bc586b1cdc9d75b08e71c831f",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-08-16T07:35:16.241867-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1660656923",
+      "size": "18183",
+      "md5": "74fa3008bfd7ffb051aea73b527c7042",
+      "crc32": "8c48a395",
+      "sha1": "9da83906d0d38d2107b4403c87997272d2cb62af",
+      "format": "JSON"
+    },
+    {
       "name": "denverite-2022_archive.torrent",
       "source": "metadata",
-      "btih": "040d7ad1c9d0eb8e486be3dc14e759b337591de0",
-      "mtime": "1660613429",
-      "size": "7982",
-      "md5": "d40ee615d41f4a8539f464eb170172de",
-      "crc32": "243f5507",
-      "sha1": "5f0175ea5428ec2866a0818f9c34eb2b1a55ae6d",
+      "btih": "52881223ff3b2836b1a9541a1e76cacc90fa9baf",
+      "mtime": "1660656966",
+      "size": "9050",
+      "md5": "5bdbdc2d56413682bbce3dff8b5ffdf3",
+      "crc32": "61ec5360",
+      "sha1": "6eeb85f773470dab2ce7457d90ddd3813414a5aa",
       "format": "Archive BitTorrent"
     },
     {
       "name": "denverite-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "237dd7d79488d06af257b80b8bc4b05d",
+      "md5": "dc7ea7764dea0c5d7b7978754a659b80",
       "summation": "md5"
     },
     {
       "name": "denverite-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660612990",
-      "size": "57344",
-      "md5": "dcd7c721275c5647731666a5396d1edd",
-      "crc32": "c01ba57e",
-      "sha1": "923fefeefc25514321a21a326657a31de9d6b639",
+      "mtime": "1660656932",
+      "size": "61440",
+      "md5": "8f5e12b591d9db5b91c1200dc94180b8",
+      "crc32": "af22f013",
+      "sha1": "f7f6c003056229ca04c863f0ea124567d752b599",
       "format": "Metadata"
     },
     {
@@ -364,9 +415,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 35,
-  "item_last_updated": 1660613429,
-  "item_size": 2269629,
+  "files_count": 40,
+  "item_last_updated": 1660656966,
+  "item_size": 2770080,
   "metadata": {
     "identifier": "denverite-2022",
     "collection": [
@@ -383,10 +434,21 @@
     "publicdate": "2022-08-13 23:53:15",
     "addeddate": "2022-08-13 23:53:15"
   },
+  "pending_tasks": true,
   "server": "ia601400.us.archive.org",
-  "uniq": 179531471,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3371622526,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1122969658,
   "workable_servers": [
-    "ia601400.us.archive.org",
-    "ia801400.us.archive.org"
+    "ia601400.us.archive.org"
   ]
 }

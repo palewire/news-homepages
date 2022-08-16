@@ -1,5 +1,5 @@
 {
-  "created": 1660614325,
+  "created": 1660658103,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/21/items/sltrib-2022",
@@ -3726,31 +3726,93 @@
       "sha1": "08104a3208305a5aa86d8c08293493f95f3f7635"
     },
     {
+      "name": "sltrib-2022-08-16T00:51:28.422946-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660632692",
+      "size": "23661",
+      "md5": "42bf64bd1ff106fca9e29b590b018bbb",
+      "crc32": "248b98cf",
+      "sha1": "74f5b35d5f79b3a6b87ed4e1e555f4c544771500",
+      "format": "JSON"
+    },
+    {
+      "name": "sltrib-2022-08-16T00:51:28.422946-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660632694",
+      "size": "38700",
+      "md5": "7f4f1c01b426e7e4689668c57a54f72f",
+      "crc32": "41d9fe10",
+      "sha1": "9ac9c5584c8fc075579627f14933279177e75222",
+      "format": "JSON"
+    },
+    {
+      "name": "sltrib-2022-08-16T00:51:28.422946-06:00.jpg",
+      "source": "original",
+      "mtime": "1660632690",
+      "size": "296087",
+      "md5": "b0631ca1031726916749688ded7a1e5d",
+      "crc32": "7dd9636a",
+      "sha1": "f923c2358122e6af9976a5666a0e8a805778bed8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sltrib-2022-08-16T00:51:28.422946-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660632695",
+      "size": "1459",
+      "md5": "8b816c951183e9fa7942ce251482dc43",
+      "crc32": "f2ab0791",
+      "sha1": "510aa926e1ad0192733489891b75f6a9cb753829",
+      "format": "JSON"
+    },
+    {
+      "name": "sltrib-2022-08-16T00:51:28.422946-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1660632697",
+      "size": "99",
+      "md5": "519507e632a542121dae4056e9f4cae8",
+      "crc32": "657e4782",
+      "sha1": "b33b1bb804938f75e4af27316313f0ef366f32a1",
+      "format": "JSON"
+    },
+    {
+      "name": "sltrib-2022-08-16T00:51:28.422946-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sltrib-2022-08-16T00:51:28.422946-06:00.jpg",
+      "mtime": "1660633523",
+      "size": "9706",
+      "md5": "80faab2acb66e63ba4fab65ee31ad2a3",
+      "crc32": "3d36529e",
+      "sha1": "52e17daac4cf26860e1fd6ee4f706317a0b288ff"
+    },
+    {
       "name": "sltrib-2022_archive.torrent",
       "source": "metadata",
-      "btih": "10807261bb1d6beedc4920c6bdfd9a5e63c0dd27",
-      "mtime": "1660594986",
-      "size": "75855",
-      "md5": "4abc8ab36eebeacd960fd79d121f466c",
-      "crc32": "f9d7eb0c",
-      "sha1": "9f0fa16e5a8821bcd3f22e144613db214f79e239",
+      "btih": "b6ee2e3247432b1729f079e86c7a1182605531d6",
+      "mtime": "1660633532",
+      "size": "77087",
+      "md5": "cf41ade444834df9b444173fc33472bc",
+      "crc32": "eff3d182",
+      "sha1": "7d54fc51283ee221db4399d2042ccea4516fdaee",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sltrib-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3b995ede13d76d14e19cc938fa38993a",
+      "md5": "35674e3a3bdbea444913e102b4a8ae67",
       "summation": "md5"
     },
     {
       "name": "sltrib-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660594453",
-      "size": "450560",
-      "md5": "5cd4e74f57ce15890253acbc924b78a5",
-      "crc32": "a11bf1cf",
-      "sha1": "6be4eb7d420e5bcef9f94b9eea48448d0c12e3f7",
+      "mtime": "1660632705",
+      "size": "458752",
+      "md5": "df3a27de7bc48c2efac4c63f4ba1723d",
+      "crc32": "da40d2e5",
+      "sha1": "02de0fa1ea257068322bc0283ec94f7b85dd48cf",
       "format": "Metadata"
     },
     {
@@ -3764,9 +3826,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 361,
-  "item_last_updated": 1660594986,
-  "item_size": 28485637,
+  "files_count": 367,
+  "item_last_updated": 1660633532,
+  "item_size": 28864773,
   "metadata": {
     "identifier": "sltrib-2022",
     "collection": [
@@ -3786,13 +3848,9 @@
   "server": "ia601401.us.archive.org",
   "sltrib-2022": {
     "url": "https://www.sltrib.com/",
-    "job_id": "spn2-4a5106201dc21e73704cc747bcb4b0d33ce94fe9",
-    "status_ext": "error:job-failed",
-    "status": "error",
-    "resources": [],
-    "message": "Job failed"
+    "job_id": "spn2-4a5106201dc21e73704cc747bcb4b0d33ce94fe9"
   },
-  "uniq": 100752281,
+  "uniq": 205439914,
   "workable_servers": [
     "ia601401.us.archive.org",
     "ia801401.us.archive.org"

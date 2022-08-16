@@ -1,5 +1,5 @@
 {
-  "created": 1660613458,
+  "created": 1660616604,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/18/items/jezebel-2022",
@@ -4005,21 +4005,32 @@
       "format": "JSON"
     },
     {
+      "name": "jezebel-2022-08-15T21:29:58.473551-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jezebel-2022-08-15T21:29:58.473551-04:00.jpg",
+      "mtime": "1660613742",
+      "size": "10119",
+      "md5": "b9d7d950a0148561da426ce5848413ba",
+      "crc32": "b3421f4e",
+      "sha1": "343595848b2801f0db2160ff50772ac4b993acb1"
+    },
+    {
       "name": "jezebel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2986f03ccf0c1738f8364adf397002088f121722",
-      "mtime": "1660613455",
-      "size": "81505",
-      "md5": "6b0ac8139fd3a36739c7a07da41f60e2",
-      "crc32": "193fcadd",
-      "sha1": "e39218501f70922acc222140aa10473ae446d441",
+      "btih": "0ce916406bfba287b6abc6a6632fc21e888dffe4",
+      "mtime": "1660613747",
+      "size": "81709",
+      "md5": "c09fbd2ad60fbe76711a97701ef49863",
+      "crc32": "fbd62e0b",
+      "sha1": "e98c79a9e3982a9b4b42702a274cea95d0e8b62a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jezebel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9646c4dd465bc42e0ec2d8210be6c2fe",
+      "md5": "c5743e6a79b83cd1796cce2bc2b80d2b",
       "summation": "md5"
     },
     {
@@ -4043,9 +4054,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 387,
-  "item_last_updated": 1660613455,
-  "item_size": 29547848,
+  "files_count": 388,
+  "item_last_updated": 1660613747,
+  "item_size": 29558171,
   "metadata": {
     "identifier": "jezebel-2022",
     "collection": [
@@ -4062,21 +4073,10 @@
     "publicdate": "2022-07-18 17:50:14",
     "addeddate": "2022-07-18 17:50:14"
   },
-  "pending_tasks": true,
   "server": "ia902508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3370683097,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 250587806,
+  "uniq": 717506706,
   "workable_servers": [
-    "ia902508.us.archive.org"
+    "ia902508.us.archive.org",
+    "ia802508.us.archive.org"
   ]
 }

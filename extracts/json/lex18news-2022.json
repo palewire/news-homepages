@@ -1,5 +1,5 @@
 {
-  "created": 1660613738,
+  "created": 1660652911,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/34/items/lex18news-2022",
@@ -1687,21 +1687,32 @@
       "format": "JSON"
     },
     {
+      "name": "lex18news-2022-08-15T21:34:47.740563-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lex18news-2022-08-15T21:34:47.740563-04:00.jpg",
+      "mtime": "1660614106",
+      "size": "10497",
+      "md5": "dc20b8c29b66eb685659b520e7d43cc2",
+      "crc32": "27964530",
+      "sha1": "b1c995a90b2319f64c498c5eb3d6757093a74bb6"
+    },
+    {
       "name": "lex18news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4363129df2d44b47a024d14f67776c6c9f7945cc",
-      "mtime": "1660613736",
-      "size": "35680",
-      "md5": "a523d8a213ff84f5850b2f06c2aa3921",
-      "crc32": "7df20d8c",
-      "sha1": "264c161e822122ad82cc1bd85b1d13fbcb338cf7",
+      "btih": "fd6d08b1967eeddb794d9d91c3de6e5c6fe63f9b",
+      "mtime": "1660614109",
+      "size": "35886",
+      "md5": "64dfccbd294987621a6d6248cdce37da",
+      "crc32": "74db6d73",
+      "sha1": "c7bdead5c10849a205120234cb1d7f994a5be306",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lex18news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ca088bd7fc1f1bc97fc26327821553a1",
+      "md5": "f5802b1fe815528ebf131cffc9835082",
       "summation": "md5"
     },
     {
@@ -1725,9 +1736,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 166,
-  "item_last_updated": 1660613736,
-  "item_size": 12856910,
+  "files_count": 167,
+  "item_last_updated": 1660614109,
+  "item_size": 12867613,
   "metadata": {
     "identifier": "lex18news-2022",
     "collection": [
@@ -1744,21 +1755,10 @@
     "publicdate": "2022-08-01 06:42:16",
     "addeddate": "2022-08-01 06:42:16"
   },
-  "pending_tasks": true,
-  "server": "ia902509.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3370689513,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1757718901,
+  "server": "ia802509.us.archive.org",
+  "uniq": 1121920722,
   "workable_servers": [
+    "ia802509.us.archive.org",
     "ia902509.us.archive.org"
   ]
 }

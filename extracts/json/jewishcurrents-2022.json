@@ -1,5 +1,5 @@
 {
-  "created": 1660613452,
+  "created": 1660657471,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/8/items/jewishcurrents-2022",
@@ -3877,21 +3877,32 @@
       "format": "JSON"
     },
     {
+      "name": "jewishcurrents-2022-08-15T21:29:57.488967-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jewishcurrents-2022-08-15T21:29:57.488967-04:00.jpg",
+      "mtime": "1660613735",
+      "size": "8969",
+      "md5": "e3d72953056f5ac451c35f222477fb66",
+      "crc32": "7c86ad03",
+      "sha1": "beee11891f801c847a4459651ee89c0ebdcaf746"
+    },
+    {
       "name": "jewishcurrents-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d2de33c2338923fa35e9e982653218c3ec78ce5f",
-      "mtime": "1660613449",
-      "size": "81697",
-      "md5": "0edc3d72dd766d462e4cad13196f2c47",
-      "crc32": "aa711434",
-      "sha1": "385f8abff0f32e9c06cbde3305876d8bf9eda3f6",
+      "btih": "5a3fdece5b8b097ab8754bb23ead09608cae84d0",
+      "mtime": "1660613740",
+      "size": "81907",
+      "md5": "0458c2e68f30a8d7096544424968dd8f",
+      "crc32": "2306b534",
+      "sha1": "4e374744401253bc19d2f6508dbc6b49a661aa0f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jewishcurrents-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5769b1acf55a7ed23eab8f21c6830824",
+      "md5": "ea861273d15ca111c38ad32a825306c4",
       "summation": "md5"
     },
     {
@@ -3915,9 +3926,13 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 376,
-  "item_last_updated": 1660613449,
-  "item_size": 20672633,
+  "files_count": 377,
+  "item_last_updated": 1660613740,
+  "item_size": 20681812,
+  "jewishcurrents-2022": {
+    "url": "https://www.jewishcurrents.org/",
+    "job_id": "spn2-3a6ff2dd097ecf6e84a6a2f89c734ce2e2ba36fb"
+  },
   "metadata": {
     "identifier": "jewishcurrents-2022",
     "collection": [
@@ -3934,21 +3949,10 @@
     "publicdate": "2022-07-09 03:59:40",
     "addeddate": "2022-07-09 03:59:40"
   },
-  "pending_tasks": true,
-  "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3370682994,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1183917642,
+  "server": "ia801505.us.archive.org",
+  "uniq": 254311021,
   "workable_servers": [
+    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1660614552,
+  "created": 1660658223,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/1/items/timesenterprise-2022",
@@ -2500,31 +2500,73 @@
       "sha1": "53c8ce680f0b86692c98a3ea81198ea69faffe46"
     },
     {
+      "name": "timesenterprise-2022-08-16T02:55:34.986963-04:00.jpg",
+      "source": "original",
+      "mtime": "1660632936",
+      "size": "302399",
+      "md5": "2d6bc75c915ee4097f533be7e3670023",
+      "crc32": "a5e24544",
+      "sha1": "cf8bc02c51496fc9d14972293daf62ee7b70f458",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "timesenterprise-2022-08-16T02:55:34.986963-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660632937",
+      "size": "1539",
+      "md5": "9d551259818ddad97d1e7782b329ff49",
+      "crc32": "30c74e3a",
+      "sha1": "d2f641f1023367859bff5ee4e39ea5cf11425b1a",
+      "format": "JSON"
+    },
+    {
+      "name": "timesenterprise-2022-08-16T02:55:34.986963-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660632939",
+      "size": "236",
+      "md5": "c6a4cb30c012de6cbe956e85bb136093",
+      "crc32": "f7fe24cf",
+      "sha1": "38dc167fa3f1b43be602386b3c0989cb2052a7f3",
+      "format": "JSON"
+    },
+    {
+      "name": "timesenterprise-2022-08-16T02:55:34.986963-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "timesenterprise-2022-08-16T02:55:34.986963-04:00.jpg",
+      "mtime": "1660633915",
+      "size": "9388",
+      "md5": "d5ad4debed37e0039f97b35583a783bd",
+      "crc32": "082dcacb",
+      "sha1": "101818cd9a880bd173e71239ed43cdd925a500f5"
+    },
+    {
       "name": "timesenterprise-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ea3992fe589fbda14c6e973726ac2100fed3e375",
-      "mtime": "1660595568",
-      "size": "53490",
-      "md5": "49611f160b68ff5089c7c606cb4531ce",
-      "crc32": "bbb10630",
-      "sha1": "9c38acc5fdf0fadf5ff267510a2727dc3e3aad58",
+      "btih": "38ab0668153aa1bd53aa31053df60eccd4ffe50c",
+      "mtime": "1660633920",
+      "size": "54338",
+      "md5": "6552d7b8d18c49a1e415a75632a7c48d",
+      "crc32": "10deee46",
+      "sha1": "13af45591f558863e6ddc350626691cde26a417e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "timesenterprise-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d711f0c622faf50681bbbd3ee7398a84",
+      "md5": "50b780894c100a47300d7a030c33f929",
       "summation": "md5"
     },
     {
       "name": "timesenterprise-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660594790",
-      "size": "307200",
-      "md5": "3c463a008a2812d1cd4c742c21effbcc",
-      "crc32": "058459cb",
-      "sha1": "9a98bb24af0433cca6d9b7fcd83d96e3404fa784",
+      "mtime": "1660632960",
+      "size": "311296",
+      "md5": "3cf34faa5f376721dca9e990ffade4d6",
+      "crc32": "9ca25b66",
+      "sha1": "30cb81e8620e07892b2ea1d485102b9a230e2288",
       "format": "Metadata"
     },
     {
@@ -2538,9 +2580,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 243,
-  "item_last_updated": 1660595568,
-  "item_size": 22608480,
+  "files_count": 247,
+  "item_last_updated": 1660633920,
+  "item_size": 22926986,
   "metadata": {
     "identifier": "timesenterprise-2022",
     "collection": [
@@ -2557,15 +2599,19 @@
     "publicdate": "2022-07-20 23:31:34",
     "addeddate": "2022-07-20 23:31:34"
   },
-  "server": "ia801507.us.archive.org",
+  "server": "ia601507.us.archive.org",
   "timesenterprise-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "url": "https://www.timesenterprise.com",
+    "job_id": "spn2-6e27d787a9d8a8a704800e34c2fec31ef404a9e4",
+    "status_ext": "error:job-failed",
     "status": "error",
-    "status_ext": "error:user-session-limit"
+    "resources": [],
+    "duration_sec": 0.741,
+    "message": "Job failed."
   },
-  "uniq": 522003590,
+  "uniq": 966889571,
   "workable_servers": [
-    "ia801507.us.archive.org",
-    "ia601507.us.archive.org"
+    "ia601507.us.archive.org",
+    "ia801507.us.archive.org"
   ]
 }

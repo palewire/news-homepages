@@ -1,5 +1,5 @@
 {
-  "created": 1660614095,
+  "created": 1660657884,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/18/items/portalimprensa-2022",
@@ -1410,31 +1410,93 @@
       "sha1": "e2afed39fed70ab6f68e6128c498dd20d71e30a6"
     },
     {
+      "name": "portalimprensa-2022-08-16T03:47:26.331455-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660632449",
+      "size": "42675",
+      "md5": "ec20095ba7417b623c922c190914b005",
+      "crc32": "040cae2d",
+      "sha1": "16ca77805cb37804b6a749602ff18180acf1ee4e",
+      "format": "JSON"
+    },
+    {
+      "name": "portalimprensa-2022-08-16T03:47:26.331455-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660632451",
+      "size": "59709",
+      "md5": "590e9d2ad54113d24653d89a19072ba4",
+      "crc32": "dfe7b1f5",
+      "sha1": "ea221e0ef2c7b12052fca23e4bf77d0127d1956d",
+      "format": "JSON"
+    },
+    {
+      "name": "portalimprensa-2022-08-16T03:47:26.331455-03:00.jpg",
+      "source": "original",
+      "mtime": "1660632448",
+      "size": "305175",
+      "md5": "46d3cb017de4586d8eb4594625385db6",
+      "crc32": "7e5ddc71",
+      "sha1": "d813f0f924dcdc35e4bc1468e718e70081c673b6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "portalimprensa-2022-08-16T03:47:26.331455-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660632453",
+      "size": "1558",
+      "md5": "f168f5a8240b59cedd0aaf1c2cadfe23",
+      "crc32": "657cea47",
+      "sha1": "d51d204d166d720ce2c22a003456e4252ecd8cb2",
+      "format": "JSON"
+    },
+    {
+      "name": "portalimprensa-2022-08-16T03:47:26.331455-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1660632455",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "portalimprensa-2022-08-16T03:47:26.331455-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "portalimprensa-2022-08-16T03:47:26.331455-03:00.jpg",
+      "mtime": "1660633196",
+      "size": "9144",
+      "md5": "77ef8f2dfc598e6ddd888756913422d5",
+      "crc32": "832e1cd4",
+      "sha1": "b89e74a27b8b97a208f60edae73adb675f6c88cd"
+    },
+    {
       "name": "portalimprensa-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0c5c721a52efd9a0e4d714c8fbc324340787e4af",
-      "mtime": "1660594653",
-      "size": "30859",
-      "md5": "a4bb21360e4e2ad6dcf30e0588b332f2",
-      "crc32": "49e49846",
-      "sha1": "91702c47f0b43130068863108c2ec5a849c2e59c",
+      "btih": "ea54249dc2df1e54ad7fc8e69e5dd7e81a699658",
+      "mtime": "1660633202",
+      "size": "32160",
+      "md5": "ca9c4c40a2582d21403705f2bf1e24c7",
+      "crc32": "b5150bc9",
+      "sha1": "909f0e0ac7678b704a3edfb876d313f6757f34f9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "portalimprensa-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0559501b2f87969cb850a9ce3a0111ed",
+      "md5": "783ebd588e8efd684edec2f18845d8b4",
       "summation": "md5"
     },
     {
       "name": "portalimprensa-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660594129",
-      "size": "196608",
-      "md5": "444d5154503365273b20140bbd5e7ebf",
-      "crc32": "f3218f33",
-      "sha1": "7a4b91b7f884dab451a9f90121160a9aadc05347",
+      "mtime": "1660632459",
+      "size": "204800",
+      "md5": "c53325e1abadc86f405df0d1be48deac",
+      "crc32": "e5532c8d",
+      "sha1": "6ff62c89bc6416216ad31efbd9ee28c51384806c",
       "format": "Metadata"
     },
     {
@@ -1448,9 +1510,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 140,
-  "item_last_updated": 1660594653,
-  "item_size": 9370194,
+  "files_count": 146,
+  "item_last_updated": 1660633202,
+  "item_size": 9798150,
   "metadata": {
     "identifier": "portalimprensa-2022",
     "collection": [
@@ -1468,11 +1530,12 @@
     "addeddate": "2022-08-07 19:44:00"
   },
   "portalimprensa-2022": {
-    "url": "https://www.portalimprensa.com.br/",
-    "job_id": "spn2-8d4dc4f67c0160a57c6c23f941a36d893b2c409a"
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
   },
   "server": "ia601402.us.archive.org",
-  "uniq": 1810871229,
+  "uniq": 1542950704,
   "workable_servers": [
     "ia601402.us.archive.org",
     "ia801402.us.archive.org"

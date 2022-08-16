@@ -1,5 +1,5 @@
 {
-  "created": 1660613446,
+  "created": 1660657468,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/9/items/jerusalem_post-2022",
@@ -305,21 +305,32 @@
       "format": "JSON"
     },
     {
+      "name": "jerusalem_post-2022-08-16T04:29:56.462423+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jerusalem_post-2022-08-16T04:29:56.462423+03:00.jpg",
+      "mtime": "1660613731",
+      "size": "9673",
+      "md5": "647136390e526bb5587720d78e589440",
+      "crc32": "e8dfa2ea",
+      "sha1": "7959ad0d6e655571afe286913b57aac54761854a"
+    },
+    {
       "name": "jerusalem_post-2022_archive.torrent",
       "source": "metadata",
-      "btih": "209806a311210e9058f7b1cc6b46ccb5e46afba0",
-      "mtime": "1660613444",
-      "size": "7741",
-      "md5": "47859afed80beea48bdce1272fd16295",
-      "crc32": "d2c82568",
-      "sha1": "4017c08e6abac436c18318dd877c368dcee35ddc",
+      "btih": "522d6785ade8a5476d976201b7ceb90fd1aaf938",
+      "mtime": "1660613734",
+      "size": "7951",
+      "md5": "ecbff51f91b8ab555c00a29eb52e37dc",
+      "crc32": "2e94e7bd",
+      "sha1": "332d761988705b181ec7760f773d599b872d84ee",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jerusalem_post-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0bd7165b0db3a9f100f75e84aa075bd1",
+      "md5": "6bfeb178e2e2c93be8256c3669ad6e38",
       "summation": "md5"
     },
     {
@@ -343,9 +354,13 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 33,
-  "item_last_updated": 1660613444,
-  "item_size": 2437561,
+  "files_count": 34,
+  "item_last_updated": 1660613734,
+  "item_size": 2447444,
+  "jerusalem_post-2022": {
+    "url": "https://www.jpost.com/",
+    "job_id": "spn2-d8e143aad09f8662888b54fe773ba723ed5006e5"
+  },
   "metadata": {
     "identifier": "jerusalem_post-2022",
     "collection": [
@@ -362,21 +377,10 @@
     "publicdate": "2022-08-14 03:09:31",
     "addeddate": "2022-08-14 03:09:31"
   },
-  "pending_tasks": true,
-  "server": "ia601508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3370682871,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1803990481,
+  "server": "ia801508.us.archive.org",
+  "uniq": 391935341,
   "workable_servers": [
+    "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ]
 }

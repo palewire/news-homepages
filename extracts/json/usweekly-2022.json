@@ -1,5 +1,5 @@
 {
-  "created": 1660614628,
+  "created": 1660650301,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/35/items/usweekly-2022",
@@ -3042,31 +3042,93 @@
       "sha1": "5cf634d3c0cbcd0881040dd8b7846af72305990a"
     },
     {
+      "name": "usweekly-2022-08-16T02:56:13.227951-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660632976",
+      "size": "23133",
+      "md5": "93e001d75156a8bf2936f785676dce23",
+      "crc32": "20c77f4c",
+      "sha1": "ce52e326a5d86c969e29425e8c9f35de2be2bdd3",
+      "format": "JSON"
+    },
+    {
+      "name": "usweekly-2022-08-16T02:56:13.227951-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660632978",
+      "size": "46538",
+      "md5": "3b28f448d7066fec130a4becb10e1948",
+      "crc32": "0f31e207",
+      "sha1": "a1dbb610cf1382eb591c825d980f256b81c0883c",
+      "format": "JSON"
+    },
+    {
+      "name": "usweekly-2022-08-16T02:56:13.227951-04:00.jpg",
+      "source": "original",
+      "mtime": "1660632975",
+      "size": "239453",
+      "md5": "eb9b18fe9a26f6253000f1c8ff5a9fab",
+      "crc32": "2c06a99c",
+      "sha1": "b676478053ac6eddc70483862cb5beed7a33ccbf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "usweekly-2022-08-16T02:56:13.227951-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660632979",
+      "size": "1493",
+      "md5": "6417f729c4ce62aedd9580039929cfc4",
+      "crc32": "17292875",
+      "sha1": "0dee557ae452c203c59a84ba65619563f58acc93",
+      "format": "JSON"
+    },
+    {
+      "name": "usweekly-2022-08-16T02:56:13.227951-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660632981",
+      "size": "21048",
+      "md5": "cfdffb23ffc335b70a13827f03fbe925",
+      "crc32": "aaca98ca",
+      "sha1": "f2d608df1e07d7a26c872406239167439c3f6971",
+      "format": "JSON"
+    },
+    {
+      "name": "usweekly-2022-08-16T02:56:13.227951-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "usweekly-2022-08-16T02:56:13.227951-04:00.jpg",
+      "mtime": "1660633842",
+      "size": "9022",
+      "md5": "8433f39f3b409ff41ffcc5d80415e4f3",
+      "crc32": "3e99b183",
+      "sha1": "a61456abde7e9a625dab81a269006fc7ce7f790f"
+    },
+    {
       "name": "usweekly-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9986fad8dcaa9d78b271ad589e7e0986beb9b93b",
-      "mtime": "1660595232",
-      "size": "62769",
-      "md5": "8826b5084f734d42c8a89d8e47c37fd6",
-      "crc32": "c00d0b91",
-      "sha1": "eb621d457842afc7336916318549a251659bef72",
+      "btih": "f5a751e4732fb6efc0245a5e4b79c2a897d4c59f",
+      "mtime": "1660633863",
+      "size": "64036",
+      "md5": "faa8ff3a4483abcc6eb4f24fb325d11a",
+      "crc32": "a8de6cee",
+      "sha1": "dcceeed1b7c286bff9cba6cba8eef79cec743e62",
       "format": "Archive BitTorrent"
     },
     {
       "name": "usweekly-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0752cab0c109a8cb3df8f73ac8b9c4f3",
+      "md5": "113d0ac4a37741bcaaea0200ffa1d2d9",
       "summation": "md5"
     },
     {
       "name": "usweekly-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660594813",
-      "size": "376832",
-      "md5": "74bb265bcf3d0a08bb252beaac9906cd",
-      "crc32": "9472ca2d",
-      "sha1": "50da1faad8c1f2d4daabaa39ad4121189d567dfa",
+      "mtime": "1660632987",
+      "size": "385024",
+      "md5": "b1a85fcc2e6dd82ab77a5c367701e782",
+      "crc32": "40367b70",
+      "sha1": "cb53165b8bf5da29464d06d9685e0103c8c562dc",
       "format": "Metadata"
     },
     {
@@ -3080,9 +3142,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 296,
-  "item_last_updated": 1660595232,
-  "item_size": 19934937,
+  "files_count": 302,
+  "item_last_updated": 1660633863,
+  "item_size": 20285083,
   "metadata": {
     "identifier": "usweekly-2022",
     "collection": [
@@ -3099,15 +3161,10 @@
     "publicdate": "2022-07-18 04:19:34",
     "addeddate": "2022-07-18 04:19:34"
   },
-  "server": "ia801506.us.archive.org",
-  "uniq": 50015603,
-  "usweekly-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
+  "server": "ia601506.us.archive.org",
+  "uniq": 734812840,
   "workable_servers": [
-    "ia801506.us.archive.org",
-    "ia601506.us.archive.org"
+    "ia601506.us.archive.org",
+    "ia801506.us.archive.org"
   ]
 }

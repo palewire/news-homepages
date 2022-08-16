@@ -1,5 +1,5 @@
 {
-  "created": 1660613145,
+  "created": 1660656781,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/22/items/coloradosun-2022",
@@ -326,31 +326,82 @@
       "sha1": "3010c128d7ee889d0e7de83d12e633c5568472cd"
     },
     {
+      "name": "coloradosun-2022-08-16T07:32:09.734934-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660656733",
+      "size": "25968",
+      "md5": "614f5412857f7ce142ba83b75114de5b",
+      "crc32": "2529aac6",
+      "sha1": "24e58e084327182e882802880d2aa86fa37c6176",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradosun-2022-08-16T07:32:09.734934-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660656734",
+      "size": "35467",
+      "md5": "fdcc11ff30051aa016f6417dad1c09f7",
+      "crc32": "d0c02f36",
+      "sha1": "2f3dc09798180dae96e87eb450cb1f9b553bf4f3",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradosun-2022-08-16T07:32:09.734934-06:00.jpg",
+      "source": "original",
+      "mtime": "1660656731",
+      "size": "279708",
+      "md5": "b9d1cd5d4e2a1b221398d16c13f2de74",
+      "crc32": "5595ce15",
+      "sha1": "151e14b196e8067acb859d653776af4ab43948bc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "coloradosun-2022-08-16T07:32:09.734934-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660656736",
+      "size": "1468",
+      "md5": "69c7b071e5262b891fc58b31cf9ea1e9",
+      "crc32": "44a5366d",
+      "sha1": "e3eb17be5acff3361a5f4b38c2b173dbdf963dd1",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradosun-2022-08-16T07:32:09.734934-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1660656738",
+      "size": "27282",
+      "md5": "db944bbd1eff936cc2fdfd6b4fe8c91c",
+      "crc32": "2fb1e125",
+      "sha1": "ea2c1aed6ad1cc2e35e1454c100bcc0cc810c237",
+      "format": "JSON"
+    },
+    {
       "name": "coloradosun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9eae6cbefcb459bfa097634c28c6bd1adf40b344",
-      "mtime": "1660613097",
-      "size": "8036",
-      "md5": "597697b11dd59880749e79ff7ecb65fd",
-      "crc32": "d786af35",
-      "sha1": "848200c4835794a4358242992cb2f636ac59d330",
+      "btih": "d107266ed9774a190ec39002d4862cad8c76d476",
+      "mtime": "1660656777",
+      "size": "9115",
+      "md5": "93c585e94334fcac62164b8d52d2f0ab",
+      "crc32": "ba99f7b1",
+      "sha1": "647d0fd0b770c7a31e4974d8c719abfd599c60c9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "coloradosun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f39b78cd35070514c160ac92687135cd",
+      "md5": "01b55f20ccac968d75ce6c42b8badb23",
       "summation": "md5"
     },
     {
       "name": "coloradosun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660612755",
-      "size": "57344",
-      "md5": "43e7151d32a101d6b1da77f7c7dd5a9b",
-      "crc32": "298bc657",
-      "sha1": "c5787d3675ddcda20c64367f696065d4bb27ec52",
+      "mtime": "1660656743",
+      "size": "61440",
+      "md5": "7d9f0ee42ab51c336c7bfa7f18ffc191",
+      "crc32": "f51aa025",
+      "sha1": "ec6000268d5d4ae224c0df61e5f9682d1b42f06c",
       "format": "Metadata"
     },
     {
@@ -364,9 +415,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 35,
-  "item_last_updated": 1660613097,
-  "item_size": 1861518,
+  "files_count": 40,
+  "item_last_updated": 1660656777,
+  "item_size": 2236586,
   "metadata": {
     "identifier": "coloradosun-2022",
     "collection": [
@@ -383,10 +434,21 @@
     "publicdate": "2022-08-13 23:50:43",
     "addeddate": "2022-08-13 23:50:43"
   },
-  "server": "ia801504.us.archive.org",
-  "uniq": 941668317,
+  "pending_tasks": true,
+  "server": "ia601504.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3371618560,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1773711877,
   "workable_servers": [
-    "ia801504.us.archive.org",
     "ia601504.us.archive.org"
   ]
 }

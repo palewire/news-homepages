@@ -1,5 +1,5 @@
 {
-  "created": 1660608765,
+  "created": 1660658093,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/30/items/sinow-2022",
@@ -4256,31 +4256,93 @@
       "sha1": "b872f957041dd7a63f82684ab2ac7a881f06ddb1"
     },
     {
+      "name": "sinow-2022-08-15T21:46:59.717230-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660614422",
+      "size": "27947",
+      "md5": "7d9e861df0bc8ff4a54c39de66bd8095",
+      "crc32": "d340b829",
+      "sha1": "fd5b95c35c422f6003114642f65ad7d230c06157",
+      "format": "JSON"
+    },
+    {
+      "name": "sinow-2022-08-15T21:46:59.717230-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660614424",
+      "size": "31326",
+      "md5": "2cb5110f4aedd850a9cc273fbcb9e160",
+      "crc32": "81667522",
+      "sha1": "6132af9a7f671fadcb48ae3c9b4b3105f060d20d",
+      "format": "JSON"
+    },
+    {
+      "name": "sinow-2022-08-15T21:46:59.717230-04:00.jpg",
+      "source": "original",
+      "mtime": "1660614420",
+      "size": "292987",
+      "md5": "2c9e1b095c559f0573d2b1653a85ccb0",
+      "crc32": "606913c2",
+      "sha1": "09d5c1fc1be2858faaf369ee34df09dec6549fad",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sinow-2022-08-15T21:46:59.717230-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660614425",
+      "size": "1423",
+      "md5": "1f343658ee89a12b91812958d66ece4b",
+      "crc32": "b7117892",
+      "sha1": "eacab21e3235fc1d59212058486b331b8845498e",
+      "format": "JSON"
+    },
+    {
+      "name": "sinow-2022-08-15T21:46:59.717230-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660614426",
+      "size": "95",
+      "md5": "e9ae84c716ea20d16c675285b2526de9",
+      "crc32": "b83a60ab",
+      "sha1": "0bb44ed88f7e07530930aea7f09cafbfeb2d16ef",
+      "format": "JSON"
+    },
+    {
+      "name": "sinow-2022-08-15T21:46:59.717230-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sinow-2022-08-15T21:46:59.717230-04:00.jpg",
+      "mtime": "1660614878",
+      "size": "10583",
+      "md5": "79d087d025138c4991824c8efc98d68a",
+      "crc32": "8c2a5fb5",
+      "sha1": "acd6a1a9d1e3a601a5e36f1d41afecfb38a1a268"
+    },
+    {
       "name": "sinow-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f104c319e4de0ec0dd4670aefa1b834122239ccf",
-      "mtime": "1660573907",
-      "size": "86186",
-      "md5": "30ecd366c008d7b186a27f289d4b5eac",
-      "crc32": "5eb0f0dc",
-      "sha1": "55a494b3cb433a6f292a31618031f48a7039c5ee",
+      "btih": "82178639c4b1b1656d0e39c3bf270b6af9db9de6",
+      "mtime": "1660614896",
+      "size": "87433",
+      "md5": "753becf42873705d3d88b5b8b741e1f1",
+      "crc32": "9f670442",
+      "sha1": "7b4925153288b0ebf97302565be620064a6c85f4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sinow-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "de3c67f352356fd805704efda445ed67",
+      "md5": "3d5f077e74b4a5b7b5efa30773d2372c",
       "summation": "md5"
     },
     {
       "name": "sinow-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660573768",
-      "size": "507904",
-      "md5": "ddb1bb064a894d43449f321cceaa635e",
-      "crc32": "df5bd91e",
-      "sha1": "1bea00735a36074f64ab077dc3cb697caa357f47",
+      "mtime": "1660614433",
+      "size": "512000",
+      "md5": "5c2adc7906c048914cf2c08748a37f8b",
+      "crc32": "b8f62692",
+      "sha1": "ad70500bfb9d6b55ebb03ccb6718bd2410fb6665",
       "format": "Metadata"
     },
     {
@@ -4294,9 +4356,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 412,
-  "item_last_updated": 1660573907,
-  "item_size": 32946555,
+  "files_count": 418,
+  "item_last_updated": 1660614896,
+  "item_size": 33316259,
   "metadata": {
     "identifier": "sinow-2022",
     "collection": [
@@ -4314,7 +4376,11 @@
     "addeddate": "2022-07-04 21:45:32"
   },
   "server": "ia601501.us.archive.org",
-  "uniq": 2124439600,
+  "sinow-2022": {
+    "url": "https://www.si.com/",
+    "job_id": "spn2-0f4b1f1e3838faa3bbe1f9b98a71c49d9fdf7df7"
+  },
+  "uniq": 156018200,
   "workable_servers": [
     "ia601501.us.archive.org",
     "ia801501.us.archive.org"

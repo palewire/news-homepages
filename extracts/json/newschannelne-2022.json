@@ -1,5 +1,5 @@
 {
-  "created": 1660601190,
+  "created": 1660657764,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/16/items/newschannelne-2022",
@@ -1932,31 +1932,93 @@
       "sha1": "f6a71beb29cff3055d38c9bb1cb694969ceb3a7a"
     },
     {
+      "name": "newschannelne-2022-08-15T20:38:55.227802-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660613939",
+      "size": "21619",
+      "md5": "acb9c824ec8a1e32e21a6d6842effe4d",
+      "crc32": "7d14dca1",
+      "sha1": "b8fc11154c7893052e39dac5c76f2c1cb9ad5f61",
+      "format": "JSON"
+    },
+    {
+      "name": "newschannelne-2022-08-15T20:38:55.227802-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660613941",
+      "size": "21460",
+      "md5": "0d8e4e3845303788c8de00993e2e0ca1",
+      "crc32": "a3fca50d",
+      "sha1": "479b87c16f93339c7dbb1d2951d9d214b67a4614",
+      "format": "JSON"
+    },
+    {
+      "name": "newschannelne-2022-08-15T20:38:55.227802-05:00.jpg",
+      "source": "original",
+      "mtime": "1660613937",
+      "size": "247317",
+      "md5": "414d92ab4f0e4b494c53f2277dd73df8",
+      "crc32": "e07e2141",
+      "sha1": "34a8f9f5ff84a8d300b9d1732cb105d1c582aaad",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newschannelne-2022-08-15T20:38:55.227802-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660613943",
+      "size": "1594",
+      "md5": "e4f64e125229d1aeb628ca3fa91d3a01",
+      "crc32": "f191747c",
+      "sha1": "0973c2fa336d08bd9e07249ab3b0f60f437bba45",
+      "format": "JSON"
+    },
+    {
+      "name": "newschannelne-2022-08-15T20:38:55.227802-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660613945",
+      "size": "114",
+      "md5": "35afe3196015c7d3aedba1b4d2ed48a1",
+      "crc32": "07fdfcc7",
+      "sha1": "c7f47dcc6a94fc72f4b2d1c82d464b5cbc6a89fe",
+      "format": "JSON"
+    },
+    {
+      "name": "newschannelne-2022-08-15T20:38:55.227802-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newschannelne-2022-08-15T20:38:55.227802-05:00.jpg",
+      "mtime": "1660614453",
+      "size": "9599",
+      "md5": "5602c9767b9a0bbbed813e80d070d233",
+      "crc32": "5cce54c5",
+      "sha1": "7c0b735ad575c5ca3c8fe009bed850d40e744a51"
+    },
+    {
       "name": "newschannelne-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9e2e3c05130f37b2ef1ef0b667d016e19bd80df0",
-      "mtime": "1660573382",
-      "size": "41437",
-      "md5": "e2c0e880c68537df9f5d0aeebb85ab6f",
-      "crc32": "d67c19bc",
-      "sha1": "7d512dbaaeca68a5dd00ef58f2108c1593cc41b3",
+      "btih": "0a0f754d66fb765568096e4182817dce7ac6562c",
+      "mtime": "1660614456",
+      "size": "42712",
+      "md5": "4b22d72f843c1e393e8a76db6441ff8a",
+      "crc32": "14911d06",
+      "sha1": "5163e61d43f21d22ded7bbee71126ec8d92c016d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newschannelne-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2e1e29c4a4952282b8e70d2a0c3dea30",
+      "md5": "b63a32d6df07fd10b8d0a7bdd0dba973",
       "summation": "md5"
     },
     {
       "name": "newschannelne-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660573286",
-      "size": "258048",
-      "md5": "bbe8c316977e401cecb84355b5c32610",
-      "crc32": "be89416d",
-      "sha1": "47c69e4a847041d1f246068a432a307b07e36dce",
+      "mtime": "1660613950",
+      "size": "266240",
+      "md5": "0db3b4c794f21cbd8918493be4b128d8",
+      "crc32": "74d6cc13",
+      "sha1": "62903a357d02f7e0b26f0870f802065804ae827c",
       "format": "Metadata"
     },
     {
@@ -1970,9 +2032,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 190,
-  "item_last_updated": 1660573382,
-  "item_size": 10725554,
+  "files_count": 196,
+  "item_last_updated": 1660614456,
+  "item_size": 11036724,
   "metadata": {
     "identifier": "newschannelne-2022",
     "collection": [
@@ -1989,10 +2051,14 @@
     "publicdate": "2022-07-30 19:35:12",
     "addeddate": "2022-07-30 19:35:12"
   },
-  "server": "ia601401.us.archive.org",
-  "uniq": 1991510504,
+  "newschannelne-2022": {
+    "url": "https://metro.newschannelnebraska.com/",
+    "job_id": "spn2-7dd379a5d4ad997ec7dcc3bcf69282c02d0e7f45"
+  },
+  "server": "ia801401.us.archive.org",
+  "uniq": 962738047,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia801401.us.archive.org",
+    "ia601401.us.archive.org"
   ]
 }

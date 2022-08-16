@@ -1,5 +1,5 @@
 {
-  "created": 1660613443,
+  "created": 1660657469,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/26/items/jessicavalenti-2022",
@@ -253,21 +253,32 @@
       "format": "JSON"
     },
     {
+      "name": "jessicavalenti-2022-08-15T21:29:52.622892-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jessicavalenti-2022-08-15T21:29:52.622892-04:00.jpg",
+      "mtime": "1660613929",
+      "size": "8448",
+      "md5": "787c32c1673eed53d76db6d91ff291be",
+      "crc32": "a2cba43e",
+      "sha1": "e7f6e2f4580371c3b6acac6983a4d41f475d77a8"
+    },
+    {
       "name": "jessicavalenti-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1696a82f7522541361dfa7d3b42e8a384cac8e33",
-      "mtime": "1660613441",
-      "size": "6617",
-      "md5": "5b91138f627ab52baba03a4f6eee61c3",
-      "crc32": "92879e74",
-      "sha1": "e0793b5becd8ba9366898264e3f632ebbf1c458b",
+      "btih": "ff4c0320ea5e098bfeaa86b6977e9dc9487f8eef",
+      "mtime": "1660613943",
+      "size": "6827",
+      "md5": "05ed034376bd67e58a7ae71c4cca69c5",
+      "crc32": "36e7e0b1",
+      "sha1": "c047ccd41d51dc0d986d3ada63f86600bb1908aa",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jessicavalenti-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5fa0f7b7617bf6e435e60f5f0e4f47f2",
+      "md5": "cb84c597281e4c630eab942e2f5e2e22",
       "summation": "md5"
     },
     {
@@ -291,9 +302,13 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 28,
-  "item_last_updated": 1660613441,
-  "item_size": 1031479,
+  "files_count": 29,
+  "item_last_updated": 1660613943,
+  "item_size": 1040137,
+  "jessicavalenti-2022": {
+    "url": "https://jessica.substack.com/",
+    "job_id": "spn2-4ca41b0a23881bc3c1debd5202d02bb931b004f4"
+  },
   "metadata": {
     "identifier": "jessicavalenti-2022",
     "collection": [
@@ -310,21 +325,10 @@
     "publicdate": "2022-08-14 20:19:10",
     "addeddate": "2022-08-14 20:19:10"
   },
-  "pending_tasks": true,
   "server": "ia601403.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3370682797,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 16788814,
+  "uniq": 2112233625,
   "workable_servers": [
-    "ia601403.us.archive.org"
+    "ia601403.us.archive.org",
+    "ia801403.us.archive.org"
   ]
 }

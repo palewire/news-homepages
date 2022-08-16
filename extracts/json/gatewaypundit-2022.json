@@ -1,5 +1,5 @@
 {
-  "created": 1660597386,
+  "created": 1660655851,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/2/items/gatewaypundit-2022",
@@ -6552,31 +6552,93 @@
       "sha1": "a448db7d5f9b5d5f62e97d212a808eb835555b04"
     },
     {
+      "name": "gatewaypundit-2022-08-16T01:32:59.552174-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660631590",
+      "size": "34486",
+      "md5": "fe44ebccafee2d17f9e21ef7e14fce3f",
+      "crc32": "94728bd6",
+      "sha1": "550d2d09867a6664572143ac6f873261f28d34ff",
+      "format": "JSON"
+    },
+    {
+      "name": "gatewaypundit-2022-08-16T01:32:59.552174-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660631592",
+      "size": "75552",
+      "md5": "2fb7d86e63ae0ea4f4a4735aa6ef85c6",
+      "crc32": "30cb4195",
+      "sha1": "bbcd7149f7e975105940120c5b4d823ca808cd5a",
+      "format": "JSON"
+    },
+    {
+      "name": "gatewaypundit-2022-08-16T01:32:59.552174-05:00.jpg",
+      "source": "original",
+      "mtime": "1660631588",
+      "size": "318209",
+      "md5": "40f82283f19c5b5312598335105170f0",
+      "crc32": "b546c8f9",
+      "sha1": "87050602c8515113d86170621de42e6e5313d79c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gatewaypundit-2022-08-16T01:32:59.552174-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660631594",
+      "size": "1549",
+      "md5": "7386c412097bac04e2e8722821736b40",
+      "crc32": "6b646d2f",
+      "sha1": "fcf3b724bcb56d479b1d2dbe6567dc5a3f6c03ff",
+      "format": "JSON"
+    },
+    {
+      "name": "gatewaypundit-2022-08-16T01:32:59.552174-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660631595",
+      "size": "39177",
+      "md5": "601e0671256117017e662b104f5dc723",
+      "crc32": "4eec562f",
+      "sha1": "9f359c467d9c21b8fe0895e334f344b91e33ae0b",
+      "format": "JSON"
+    },
+    {
+      "name": "gatewaypundit-2022-08-16T01:32:59.552174-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gatewaypundit-2022-08-16T01:32:59.552174-05:00.jpg",
+      "mtime": "1660632558",
+      "size": "10758",
+      "md5": "c553d368e3479fef9469f5ff0ac7d853",
+      "crc32": "b480a7ad",
+      "sha1": "582e7063cd32344280672b383b89e4081cfc8093"
+    },
+    {
       "name": "gatewaypundit-2022_archive.torrent",
       "source": "metadata",
-      "btih": "75ff0c4cde3302955c6e0109aa6d2d87fcbf0189",
-      "mtime": "1660597295",
-      "size": "137387",
-      "md5": "44e85a5ff5d94de697acc3ac1b6aa392",
-      "crc32": "7f208473",
-      "sha1": "9655eaf948ebaef095bfdd4f76c56065b7438c08",
+      "btih": "25ae5361a3d5b00ca7f3f31cb54ac7021ecee102",
+      "mtime": "1660632564",
+      "size": "138685",
+      "md5": "13646cec62ab01b307720aa9d89c4247",
+      "crc32": "ca6f6111",
+      "sha1": "8805637679245a3a70d12690ba3f1747fee61366",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gatewaypundit-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9428e388a8f319dd51bb8dbe2c660c20",
+      "md5": "f829f452ff69aa348b5ebf57eee1c618",
       "summation": "md5"
     },
     {
       "name": "gatewaypundit-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660596932",
-      "size": "778240",
-      "md5": "89734bac5dbe27072beec406108f573a",
-      "crc32": "5ad12167",
-      "sha1": "6f1ee55151a248089019bbf7cd9b89ac30c48638",
+      "mtime": "1660631600",
+      "size": "786432",
+      "md5": "c6e854a46ee4a0bef5b0c3824c23b892",
+      "crc32": "9d1b6071",
+      "sha1": "a57ac3a119407c616cab47e94f979aa145c94725",
       "format": "Metadata"
     },
     {
@@ -6590,9 +6652,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 632,
-  "item_last_updated": 1660597295,
-  "item_size": 61839184,
+  "files_count": 638,
+  "item_last_updated": 1660632564,
+  "item_size": 62328405,
   "metadata": {
     "identifier": "gatewaypundit-2022",
     "collection": [
@@ -6610,7 +6672,7 @@
     "addeddate": "2022-07-02 15:24:15"
   },
   "server": "ia801500.us.archive.org",
-  "uniq": 1800302695,
+  "uniq": 1458301979,
   "workable_servers": [
     "ia801500.us.archive.org",
     "ia601500.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1660595020,
+  "created": 1660657988,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/22/items/rgvfox-2022",
@@ -3132,31 +3132,93 @@
       "sha1": "0f34f294174ee1071e2ba8d902473b6bb2887d67"
     },
     {
+      "name": "rgvfox-2022-08-16T01:49:06.171326-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660632550",
+      "size": "10831",
+      "md5": "5bdec8e5dd9a0831c8b21ab2a4483e7a",
+      "crc32": "94501f2e",
+      "sha1": "1efb504e6598d0452ae65751711bf825d2299ee4",
+      "format": "JSON"
+    },
+    {
+      "name": "rgvfox-2022-08-16T01:49:06.171326-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660632552",
+      "size": "14484",
+      "md5": "54469108c51d4d998d7807d697e6a3ac",
+      "crc32": "246bdcb2",
+      "sha1": "61f0d11b71ecf217a048a3fd16a02622f485fddf",
+      "format": "JSON"
+    },
+    {
+      "name": "rgvfox-2022-08-16T01:49:06.171326-05:00.jpg",
+      "source": "original",
+      "mtime": "1660632548",
+      "size": "214296",
+      "md5": "ea119e6d1c08773faef742347169ed46",
+      "crc32": "5deff623",
+      "sha1": "85a2d8e1457680727e2293339af9fff9c15e41a0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rgvfox-2022-08-16T01:49:06.171326-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660632554",
+      "size": "1522",
+      "md5": "c68f5993a0fed5077d23b03e01cdf326",
+      "crc32": "39092829",
+      "sha1": "27e6e78415376ade66e5c2359265ce8918be734e",
+      "format": "JSON"
+    },
+    {
+      "name": "rgvfox-2022-08-16T01:49:06.171326-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660632556",
+      "size": "106",
+      "md5": "d18fdf50eac1b8d5d004565850075c03",
+      "crc32": "b924ba1a",
+      "sha1": "7bc4c37ae8c62355eb378db6cd22996fea52c423",
+      "format": "JSON"
+    },
+    {
+      "name": "rgvfox-2022-08-16T01:49:06.171326-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rgvfox-2022-08-16T01:49:06.171326-05:00.jpg",
+      "mtime": "1660633399",
+      "size": "9648",
+      "md5": "6dddbc8b60ea1b83c7dbbf2c99923966",
+      "crc32": "7340a28f",
+      "sha1": "ccd4893ae3224703fd8cda801b3e97c893f9d3b2"
+    },
+    {
       "name": "rgvfox-2022_archive.torrent",
       "source": "metadata",
-      "btih": "025036f13f468a5ca85fff057ff13fcb74db0b1e",
-      "mtime": "1660594942",
-      "size": "63910",
-      "md5": "645bb797242019cde3b2bd8c6b1a8cc4",
-      "crc32": "2e779910",
-      "sha1": "6b8af5974ad8385a16a7fe0fb2ba58b7b7102703",
+      "btih": "c6990b34ef84dd131ce7b5c7d159a4a928208a6a",
+      "mtime": "1660633403",
+      "size": "65143",
+      "md5": "a3e48af708b42e530fc921f4586beb25",
+      "crc32": "d338efdd",
+      "sha1": "f4bd5e006b09c089623fd4025b0273aa454fd3f8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rgvfox-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d70a4c5ea2ab1517bf7b884775498bad",
+      "md5": "ef946de3f7b55cb570a8ac9d29775d56",
       "summation": "md5"
     },
     {
       "name": "rgvfox-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660594253",
-      "size": "389120",
-      "md5": "3ddd81dd03a85bbb5644bf74b4e3aaa3",
-      "crc32": "29f86cf8",
-      "sha1": "90c2e0a420381830ed28d0b5beb7a22bcff75d54",
+      "mtime": "1660632559",
+      "size": "397312",
+      "md5": "0b420f03dfc0ba4ea7ea1b51c409b540",
+      "crc32": "09bd413c",
+      "sha1": "e3a9e54d7785af69a0ba19f95074460fc604d896",
       "format": "Metadata"
     },
     {
@@ -3170,9 +3232,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 305,
-  "item_last_updated": 1660594942,
-  "item_size": 15414573,
+  "files_count": 311,
+  "item_last_updated": 1660633403,
+  "item_size": 15674885,
   "metadata": {
     "identifier": "rgvfox-2022",
     "collection": [
@@ -3189,10 +3251,14 @@
     "publicdate": "2022-07-18 00:05:25",
     "addeddate": "2022-07-18 00:05:25"
   },
-  "server": "ia601403.us.archive.org",
-  "uniq": 1242942539,
+  "rgvfox-2022": {
+    "url": "https://foxnewssouthtexas.com/",
+    "job_id": "spn2-7bfa6537911c33038de5ec3ff262cabfda781c07"
+  },
+  "server": "ia801403.us.archive.org",
+  "uniq": 982956086,
   "workable_servers": [
-    "ia601403.us.archive.org",
-    "ia801403.us.archive.org"
+    "ia801403.us.archive.org",
+    "ia601403.us.archive.org"
   ]
 }

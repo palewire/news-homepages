@@ -1,5 +1,5 @@
 {
-  "created": 1660613490,
+  "created": 1660657476,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/11/items/jornaldobrasil-2022",
@@ -2011,21 +2011,32 @@
       "format": "JSON"
     },
     {
+      "name": "jornaldobrasil-2022-08-15T22:30:26.140838-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jornaldobrasil-2022-08-15T22:30:26.140838-03:00.jpg",
+      "mtime": "1660613919",
+      "size": "10097",
+      "md5": "7cae4035e931c4f7d3e52a75a6614191",
+      "crc32": "0f9873a3",
+      "sha1": "15650978adf7c378ca3b75cb89abdccd7ba26147"
+    },
+    {
       "name": "jornaldobrasil-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8adb5c994b8aba60d7af0d8dd6a83ee01458b7d2",
-      "mtime": "1660613483",
-      "size": "43477",
-      "md5": "65f45eb35760083bc366ef3c9a9cf706",
-      "crc32": "f1ae5cb0",
-      "sha1": "dd9aed63fc2661235c7ec029bdbc04270e8db10d",
+      "btih": "74f5f991de2b9db53b38fe787625bd4bc6986016",
+      "mtime": "1660613956",
+      "size": "43688",
+      "md5": "ea1a9423f008033111e9941534251926",
+      "crc32": "970f4874",
+      "sha1": "ab1fa1e1dfef26eec3a2f7cd65d955e5c990b545",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jornaldobrasil-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0b627bf4e442829109a4715e0d47c0a3",
+      "md5": "a3c70185f1e6ba514617743a4439797d",
       "summation": "md5"
     },
     {
@@ -2049,9 +2060,13 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 198,
-  "item_last_updated": 1660613483,
-  "item_size": 14046890,
+  "files_count": 199,
+  "item_last_updated": 1660613956,
+  "item_size": 14057198,
+  "jornaldobrasil-2022": {
+    "url": "https://www.jb.com.br/",
+    "job_id": "spn2-b1c39c2dd19433aa84c00974e5a8c182b0e88693"
+  },
   "metadata": {
     "identifier": "jornaldobrasil-2022",
     "collection": [
@@ -2068,21 +2083,10 @@
     "publicdate": "2022-08-04 04:55:22",
     "addeddate": "2022-08-04 04:55:22"
   },
-  "pending_tasks": true,
   "server": "ia601507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3370683795,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1999961846,
+  "uniq": 1911630868,
   "workable_servers": [
-    "ia601507.us.archive.org"
+    "ia601507.us.archive.org",
+    "ia801507.us.archive.org"
   ]
 }

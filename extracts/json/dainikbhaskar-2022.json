@@ -1,5 +1,5 @@
 {
-  "created": 1660613117,
+  "created": 1660656928,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/3/items/dainikbhaskar-2022",
@@ -2316,31 +2316,82 @@
       "sha1": "71375e22f06792675c91afaa3221e9c1e46e5e69"
     },
     {
+      "name": "dainikbhaskar-2022-08-16T19:04:30.762861+05:30.accessibility.json",
+      "source": "original",
+      "mtime": "1660656878",
+      "size": "54267",
+      "md5": "94713684a46128c59239b277bfbca397",
+      "crc32": "651f9611",
+      "sha1": "d9275edf6b0779c787513f9fa283fc6267875bb0",
+      "format": "JSON"
+    },
+    {
+      "name": "dainikbhaskar-2022-08-16T19:04:30.762861+05:30.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660656879",
+      "size": "36946",
+      "md5": "5aa3321ffafb9c792e8300ead7724b86",
+      "crc32": "bec9690f",
+      "sha1": "78205a49991f1b0977b49524c73296b8934fc1bd",
+      "format": "JSON"
+    },
+    {
+      "name": "dainikbhaskar-2022-08-16T19:04:30.762861+05:30.jpg",
+      "source": "original",
+      "mtime": "1660656872",
+      "size": "230318",
+      "md5": "8baa08a2962d0677d7fbc3defec77607",
+      "crc32": "ea8253bf",
+      "sha1": "06eb32f9950fcba76f9a1095d28282a37cc26bb2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dainikbhaskar-2022-08-16T19:04:30.762861+05:30.lighthouse.json",
+      "source": "original",
+      "mtime": "1660656882",
+      "size": "1459",
+      "md5": "5c5671ef40678e1e4f1f287d953765e5",
+      "crc32": "ba6b2e5c",
+      "sha1": "e38bc0b62739933eb85fc3ecf1b2b5c435f92b46",
+      "format": "JSON"
+    },
+    {
+      "name": "dainikbhaskar-2022-08-16T19:04:30.762861+05:30.wayback.json",
+      "source": "original",
+      "mtime": "1660656884",
+      "size": "24487",
+      "md5": "299f8fba2e82c704a03e8e19d224a19c",
+      "crc32": "1b1634ac",
+      "sha1": "62100fde7ba83631c36db068f43ce6eefd8f3936",
+      "format": "JSON"
+    },
+    {
       "name": "dainikbhaskar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cfb2b0db3aeb125fe456e5434502cee694caa789",
-      "mtime": "1660613108",
-      "size": "49424",
-      "md5": "33c7e75f5ebf51719e312f7278a4a084",
-      "crc32": "2a0ee18d",
-      "sha1": "f61422e8c1dff6f212cb2bbbb09c8d19d96620c2",
+      "btih": "4e6dde7319b6d69d8c9468fcc37bedf1819f4356",
+      "mtime": "1660656924",
+      "size": "50512",
+      "md5": "091390e3571fd37e0ae448d38226c208",
+      "crc32": "def88917",
+      "sha1": "e206341b0fc5ab6aabae840feeafa21e7814a2bf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dainikbhaskar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c0c8b633ca552b3aa49dcc1210306727",
+      "md5": "4336e315471b001492b44fd9760f1d0d",
       "summation": "md5"
     },
     {
       "name": "dainikbhaskar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660612882",
-      "size": "303104",
-      "md5": "3e4ec8e12c7e76658958a5bb71141ff0",
-      "crc32": "61cc7107",
-      "sha1": "ca3fe78a1655f1bd975a3022df290b8c1134ca7d",
+      "mtime": "1660656888",
+      "size": "311296",
+      "md5": "6190340befe3c0079edb03d9d3077a1b",
+      "crc32": "3350b6c3",
+      "sha1": "b1475962abf2540d686a5da04df158493bce40b5",
       "format": "Metadata"
     },
     {
@@ -2354,9 +2405,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 227,
-  "item_last_updated": 1660613108,
-  "item_size": 14182773,
+  "files_count": 232,
+  "item_last_updated": 1660656924,
+  "item_size": 14539530,
   "metadata": {
     "identifier": "dainikbhaskar-2022",
     "collection": [
@@ -2373,10 +2424,21 @@
     "publicdate": "2022-07-27 17:18:58",
     "addeddate": "2022-07-27 17:18:58"
   },
-  "server": "ia801404.us.archive.org",
-  "uniq": 2099698418,
+  "pending_tasks": true,
+  "server": "ia601404.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3371621646,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1790776819,
   "workable_servers": [
-    "ia801404.us.archive.org",
     "ia601404.us.archive.org"
   ]
 }

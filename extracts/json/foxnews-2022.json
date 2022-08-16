@@ -1,5 +1,5 @@
 {
-  "created": 1660613578,
+  "created": 1660655650,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/14/items/foxnews-2022",
@@ -24932,31 +24932,93 @@
       "sha1": "e37834a8444de8c4c0bdf90bcb9d144c43851342"
     },
     {
+      "name": "foxnews-2022-08-16T02:31:52.858967-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660631544",
+      "size": "77396",
+      "md5": "69ea89ead148ec5163e23a08c4043450",
+      "crc32": "d53976ee",
+      "sha1": "6e7c55ae7564ff12312fce62a11c76ab267b906e",
+      "format": "JSON"
+    },
+    {
+      "name": "foxnews-2022-08-16T02:31:52.858967-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660631546",
+      "size": "99510",
+      "md5": "46c7505619b4f579cc7c1a5e3d996fa1",
+      "crc32": "d5116f27",
+      "sha1": "7c3ee6450bb218e76d54520115f49d34da518306",
+      "format": "JSON"
+    },
+    {
+      "name": "foxnews-2022-08-16T02:31:52.858967-04:00.jpg",
+      "source": "original",
+      "mtime": "1660631542",
+      "size": "408571",
+      "md5": "fb7eb979b2544c26e816e324ca80d143",
+      "crc32": "6430f544",
+      "sha1": "748f149344e82c91fc18e59b608df25160c4a678",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxnews-2022-08-16T02:31:52.858967-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660631548",
+      "size": "1468",
+      "md5": "119a87682506720fb0dcd5f0bf4c284d",
+      "crc32": "c6dac072",
+      "sha1": "d39cf7ae50278506e409e3f15e2196142117056e",
+      "format": "JSON"
+    },
+    {
+      "name": "foxnews-2022-08-16T02:31:52.858967-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660631551",
+      "size": "149515",
+      "md5": "1fa9834c82100d3bc2ecc39f0181ac42",
+      "crc32": "c79defcc",
+      "sha1": "3b60b5a387182247ff5c3b17a19a0eb70a3bb2d3",
+      "format": "JSON"
+    },
+    {
+      "name": "foxnews-2022-08-16T02:31:52.858967-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxnews-2022-08-16T02:31:52.858967-04:00.jpg",
+      "mtime": "1660632333",
+      "size": "11942",
+      "md5": "febdce8f89424883dcdc9083e3c610f2",
+      "crc32": "19d072d9",
+      "sha1": "d2f58455452cda926925b939c27c7a98e32bfbf5"
+    },
+    {
       "name": "foxnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7c2a64d1bb00023b1ac2f24965930cc5348f8301",
-      "mtime": "1660598658",
-      "size": "503960",
-      "md5": "c997c871f9f431299f92f32d6f0b4056",
-      "crc32": "d442db7b",
-      "sha1": "d42f9165c56f8072e8f8ca5de4383631c0b5386f",
+      "btih": "ac8bf76a7fbe92fbff5324dd7b4068247c4f8f8e",
+      "mtime": "1660632463",
+      "size": "505223",
+      "md5": "3662ae1520afa9c0694b5ebf8545b0c0",
+      "crc32": "011d5aff",
+      "sha1": "9dfd4f4958c6d6d805039debe3bbb9a2b3807c4d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "foxnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "936ab4b7458cae87538fae53e5b0f9e8",
+      "md5": "58198b5df28bf29b9b9664ffd3cd8513",
       "summation": "md5"
     },
     {
       "name": "foxnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660598108",
-      "size": "2740224",
-      "md5": "57f0d4a240f733a0e64b49c9e0561797",
-      "crc32": "d305b23e",
-      "sha1": "7e45cb5ccb9f41ae693da6ce88a5ad54fe4d6312",
+      "mtime": "1660631554",
+      "size": "2744320",
+      "md5": "3569e06c7ebcff75708c8f33c083cf0a",
+      "crc32": "d4248158",
+      "sha1": "b7b8711298419989bbf5c4a65f27abfa08be9ea0",
       "format": "Metadata"
     },
     {
@@ -24970,14 +25032,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2380,
-  "foxnews-2022": {
-    "url": "https://www.foxnews.com/",
-    "job_id": "spn2-17af93b1674538fa95054b2ef029d994f6727868",
-    "message": "The same snapshot had been made 36 minutes, 2 seconds ago. You can make new capture of this URL after 45 minutes."
-  },
-  "item_last_updated": 1660598658,
-  "item_size": 320070523,
+  "files_count": 2386,
+  "item_last_updated": 1660632463,
+  "item_size": 320824284,
   "metadata": {
     "identifier": "foxnews-2022",
     "collection": [
@@ -24995,7 +25052,7 @@
     "addeddate": "2022-03-23 01:45:55"
   },
   "server": "ia902505.us.archive.org",
-  "uniq": 2095331876,
+  "uniq": 448085371,
   "workable_servers": [
     "ia902505.us.archive.org",
     "ia802505.us.archive.org"

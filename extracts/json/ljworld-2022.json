@@ -1,5 +1,5 @@
 {
-  "created": 1660613791,
+  "created": 1660657605,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/17/items/ljworld-2022",
@@ -1557,21 +1557,32 @@
       "format": "JSON"
     },
     {
+      "name": "ljworld-2022-08-15T20:35:38.992243-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ljworld-2022-08-15T20:35:38.992243-05:00.jpg",
+      "mtime": "1660614042",
+      "size": "8530",
+      "md5": "0fa67164f0ee20ee7733bf0b4e451b06",
+      "crc32": "4df0d49b",
+      "sha1": "1e930c006ebd380e6cb2367ec9dc6ed47b7f075b"
+    },
+    {
       "name": "ljworld-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c5d7a68276047d567aedb128b23b4b883ed1b48d",
-      "mtime": "1660613788",
-      "size": "32790",
-      "md5": "a156d42cd393f34017ca24d310c52f98",
-      "crc32": "55483052",
-      "sha1": "44f6c16ea26a274ab4473865808c9b20de9d1ffd",
+      "btih": "b53ec96fd7c5a0ad2d440f92b372363d654f1fa6",
+      "mtime": "1660614048",
+      "size": "32993",
+      "md5": "c8ca00211686edb4b2df0be12f75ee42",
+      "crc32": "cf3f9bf1",
+      "sha1": "99a36cc237ee4c71b43121af43a0dc09b51309af",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ljworld-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "86c1a896e272c21d0f3c52a07d974061",
+      "md5": "3eec7b1e860c0566fc8582913b3ff682",
       "summation": "md5"
     },
     {
@@ -1595,9 +1606,13 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 154,
-  "item_last_updated": 1660613788,
-  "item_size": 9844875,
+  "files_count": 155,
+  "item_last_updated": 1660614048,
+  "item_size": 9853608,
+  "ljworld-2022": {
+    "url": "https://www2.ljworld.com/",
+    "job_id": "spn2-7d9fd335bee642d97008e9ed9a95cc19bc8b3608"
+  },
   "metadata": {
     "identifier": "ljworld-2022",
     "collection": [
@@ -1614,21 +1629,10 @@
     "publicdate": "2022-08-03 18:53:41",
     "addeddate": "2022-08-03 18:53:41"
   },
-  "pending_tasks": true,
   "server": "ia601502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3370690650,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1064439339,
+  "uniq": 212256626,
   "workable_servers": [
-    "ia601502.us.archive.org"
+    "ia601502.us.archive.org",
+    "ia801502.us.archive.org"
   ]
 }

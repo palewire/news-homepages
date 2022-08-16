@@ -1,6 +1,5 @@
 {
-  "conflict": 1660613884,
-  "created": 1660613884,
+  "created": 1660652938,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/26/items/naya_patrika-2022",
@@ -2557,31 +2556,83 @@
       "sha1": "8bb1137a4c12bc3b2b239720f62ce68636144552"
     },
     {
+      "name": "naya_patrika-2022-08-16T07:22:53.099440+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1660613879",
+      "size": "65783",
+      "md5": "e904fa46e71b5ce3cdb3b48948126ed4",
+      "crc32": "b30380c0",
+      "sha1": "04a43ce925acca732c81d907df46a8fb64119547",
+      "format": "JSON"
+    },
+    {
+      "name": "naya_patrika-2022-08-16T07:22:53.099440+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660613881",
+      "size": "75357",
+      "md5": "e507e192d875f6d9bd1f147db9e1b49f",
+      "crc32": "9a7abe72",
+      "sha1": "863b69b60a6c4f93f1c4a5dfe79b158393ba8060",
+      "format": "JSON"
+    },
+    {
+      "name": "naya_patrika-2022-08-16T07:22:53.099440+05:45.jpg",
+      "source": "original",
+      "mtime": "1660613878",
+      "size": "308821",
+      "md5": "3c7bef9b48ab9dd06438feafb1df0a53",
+      "crc32": "246dcd9e",
+      "sha1": "eb6acd2125e8f063fdb1f792781bd7e7344bb46d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "naya_patrika-2022-08-16T07:22:53.099440+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1660613883",
+      "size": "1548",
+      "md5": "14a0b43cf93bf0227f64e5ca97e45481",
+      "crc32": "f8656063",
+      "sha1": "b3c89532855017c24274ce68a9d10a3d960397d8",
+      "format": "JSON"
+    },
+    {
+      "name": "naya_patrika-2022-08-16T07:22:53.099440+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "naya_patrika-2022-08-16T07:22:53.099440+05:45.jpg",
+      "mtime": "1660614106",
+      "size": "9695",
+      "md5": "ae969e45237db1321e37b53f55a61b8d",
+      "crc32": "f8b79858",
+      "sha1": "a5e9d9c6255764cfde805abfc143e43fb48ec8b3"
+    },
+    {
       "name": "naya_patrika-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1e928bc60cb2e237da2d9abe846ce35cea61915c",
-      "mtime": "1660573579",
-      "size": "54213",
-      "md5": "ea86625070612b60e5744778b3c6e097",
-      "crc32": "6c3402fe",
-      "sha1": "16ea6c3a468958767b324a89c07b26bb8138d1df",
+      "btih": "801b7476a936a7a1d77f33d9baba30d2552e9549",
+      "mtime": "1660614112",
+      "size": "55292",
+      "md5": "88096e56d98a7f6365ac976aa57febe5",
+      "crc32": "637463b9",
+      "sha1": "3e44647cad3d63d44afb4a045fc2df5ae4405de6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "naya_patrika-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a7a46787adaa4ae76f5444f2cb963b49",
+      "md5": "02de500e5c4dc2429701799e0cdffce9",
       "summation": "md5"
     },
     {
       "name": "naya_patrika-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660573210",
-      "size": "327680",
-      "md5": "a18005dd00d3157eecd24bf44ebcb13b",
-      "crc32": "dd024bba",
-      "sha1": "d9076da7a9126928dab379562a114c36978e6f7b",
+      "mtime": "1660613890",
+      "size": "335872",
+      "md5": "3e21ca3304cdeb2dd17b6af5561761e2",
+      "crc32": "7d3b9eae",
+      "sha1": "f36355e1e60888219069271d235aaa7c7413e606",
       "format": "Metadata"
     },
     {
@@ -2595,9 +2646,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 250,
-  "item_last_updated": 1660573579,
-  "item_size": 17746354,
+  "files_count": 255,
+  "item_last_updated": 1660614112,
+  "item_size": 18216829,
   "metadata": {
     "identifier": "naya_patrika-2022",
     "collection": [
@@ -2614,21 +2665,10 @@
     "publicdate": "2022-07-24 20:38:21",
     "addeddate": "2022-07-24 20:38:21"
   },
-  "pending_tasks": true,
-  "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3370692589,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1660542535,
+  "server": "ia801501.us.archive.org",
+  "uniq": 1059777799,
   "workable_servers": [
+    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

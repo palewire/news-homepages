@@ -1,5 +1,5 @@
 {
-  "created": 1660613552,
+  "created": 1660657269,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/17/items/hromadskeua-2022",
@@ -13300,31 +13300,82 @@
       "sha1": "7d2aba20c1c29ae7f46af960d9f30db24e72af52"
     },
     {
+      "name": "hromadskeua-2022-08-16T16:40:05.503798+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660657209",
+      "size": "32861",
+      "md5": "562f41894ea0998e4c2348f9c4edf382",
+      "crc32": "de3e8140",
+      "sha1": "c7ec021419ad2e031da3e5f294632a6f6d6f7463",
+      "format": "JSON"
+    },
+    {
+      "name": "hromadskeua-2022-08-16T16:40:05.503798+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660657211",
+      "size": "27035",
+      "md5": "cd887ea379c38ee41d2734d17d53e733",
+      "crc32": "6be0ae73",
+      "sha1": "c02a6465876d4a775963d63a13d2ea7eb5e0735b",
+      "format": "JSON"
+    },
+    {
+      "name": "hromadskeua-2022-08-16T16:40:05.503798+03:00.jpg",
+      "source": "original",
+      "mtime": "1660657207",
+      "size": "284688",
+      "md5": "a28ce24b75ff4798c425b370de7d3f55",
+      "crc32": "98f6427b",
+      "sha1": "162b7f35ff93bd1483a0c3672842a852b58bd10b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hromadskeua-2022-08-16T16:40:05.503798+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660657213",
+      "size": "1432",
+      "md5": "4c90f9875fbbcc1fed7e0f226dba6d18",
+      "crc32": "f3a3e57f",
+      "sha1": "46444ad31f5dfacd16b14f58c5a443201f17bb45",
+      "format": "JSON"
+    },
+    {
+      "name": "hromadskeua-2022-08-16T16:40:05.503798+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1660657215",
+      "size": "97",
+      "md5": "a817783830e8035b4182a28d6de85dd0",
+      "crc32": "3da88b6f",
+      "sha1": "6ef236c05cdc275cc0a20d817ce33968e932ff92",
+      "format": "JSON"
+    },
+    {
       "name": "hromadskeua-2022_archive.torrent",
       "source": "metadata",
-      "btih": "02c7c9b7f251ee97774125c500f23e9c7b715b6f",
-      "mtime": "1660613539",
-      "size": "272507",
-      "md5": "795d7fa1d0044ba96255f1c5adae21d0",
-      "crc32": "2e79f1c7",
-      "sha1": "17eb5e38f6e42d9ba953798fa8674ba9060aee0a",
+      "btih": "46a1ad8b7242a8176c522c678d09a7fa29605ee6",
+      "mtime": "1660657266",
+      "size": "273562",
+      "md5": "c55ff406159bc7d347b7b15be68603e6",
+      "crc32": "748a8642",
+      "sha1": "ae1ab46708122ac704a8dd320ec119d3880fe4c2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hromadskeua-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f69bfddc55c3027b3e7a3cf7a5805557",
+      "md5": "949c4e53cd2f1cf9b6dabe1bb613ce62",
       "summation": "md5"
     },
     {
       "name": "hromadskeua-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660613236",
-      "size": "1478656",
-      "md5": "ecc4b6ee657b05459c99bdb28102f2e5",
-      "crc32": "39ee80d8",
-      "sha1": "fa34b533caaaaa34411f167ea81a5189d4941f90",
+      "mtime": "1660657217",
+      "size": "1486848",
+      "md5": "4b8a1823969d77dbebea98ae60b76c6b",
+      "crc32": "58dbfecb",
+      "sha1": "fb0de014f7377860089308dbd7542bb1a0df62e6",
       "format": "Metadata"
     },
     {
@@ -13338,9 +13389,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1272,
-  "item_last_updated": 1660613539,
-  "item_size": 116809124,
+  "files_count": 1277,
+  "item_last_updated": 1660657266,
+  "item_size": 117164484,
   "metadata": {
     "identifier": "hromadskeua-2022",
     "collection": [
@@ -13357,10 +13408,21 @@
     "publicdate": "2022-03-23 17:49:24",
     "addeddate": "2022-03-23 17:49:24"
   },
+  "pending_tasks": true,
   "server": "ia902505.us.archive.org",
-  "uniq": 699887387,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3371628145,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1517377337,
   "workable_servers": [
-    "ia902505.us.archive.org",
-    "ia802505.us.archive.org"
+    "ia902505.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1660594131,
+  "created": 1660657512,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/6/items/kpbs-2022",
@@ -15140,31 +15140,93 @@
       "sha1": "be6cecf1739f25bcd682d6a76df5ca470145912c"
     },
     {
+      "name": "kpbs-2022-08-15T23:38:05.360944-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660631903",
+      "size": "34224",
+      "md5": "a910db6a5f432c94bed98c2afb878653",
+      "crc32": "5293ce74",
+      "sha1": "4dba25a344cef5f27e4a89d1192dfc3a1a1ff1e0",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-08-15T23:38:05.360944-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660631905",
+      "size": "44261",
+      "md5": "46bd33df1615a46ca945197fbfa4ac6a",
+      "crc32": "2315aa1e",
+      "sha1": "631198a51e534f0a4cd48e17538ac3bdaae76f48",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-08-15T23:38:05.360944-07:00.jpg",
+      "source": "original",
+      "mtime": "1660631901",
+      "size": "330513",
+      "md5": "28f8e3d2407860efd6323f69d68b3155",
+      "crc32": "945b6202",
+      "sha1": "37d6a31df2dbb83c2745299007d9ca8a8be13f24",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpbs-2022-08-15T23:38:05.360944-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660631907",
+      "size": "1432",
+      "md5": "ff661d8147d002e2ba8f662d9724374b",
+      "crc32": "25e6bd44",
+      "sha1": "331b880385fad1b9c22abae5f83ef3b9d48539a0",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-08-15T23:38:05.360944-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660631909",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "kpbs-2022-08-15T23:38:05.360944-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpbs-2022-08-15T23:38:05.360944-07:00.jpg",
+      "mtime": "1660633316",
+      "size": "10299",
+      "md5": "7bc0c5020a2468c3a053281a3c5e237c",
+      "crc32": "6442a725",
+      "sha1": "11c858effc7e4998230701c453e17bcbb9bdca01"
+    },
+    {
       "name": "kpbs-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e19cdb54200d7691b2f47df0e9b56b1429578cc9",
-      "mtime": "1660594110",
-      "size": "300337",
-      "md5": "30d6a58c7fa2431ad2b67df8f9eeab8f",
-      "crc32": "d10440b3",
-      "sha1": "052ebb2b464c80113cfee81c4dc763bf8b33645f",
+      "btih": "0d284a42b750ebdeacd2371b9fb1184772400f7f",
+      "mtime": "1660633335",
+      "size": "301579",
+      "md5": "24ed5bbf531d9d3644716b439f1535da",
+      "crc32": "18602c28",
+      "sha1": "6f0460350247834818bd2e3693d261f824ba0b76",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kpbs-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fa5a7449fa452a245b1a2877ae114f08",
+      "md5": "1417c0830dc19da67abfa1240d4d4c2b",
       "summation": "md5"
     },
     {
       "name": "kpbs-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660593463",
-      "size": "1683456",
-      "md5": "f80a4f47f3439cf52e3758ee9808c44f",
-      "crc32": "0c6f537c",
-      "sha1": "a9e487554ca54322d2e663e6de1ce9486e40fcd1",
+      "mtime": "1660631913",
+      "size": "1687552",
+      "md5": "ecb2e90e90dfdb23d90cf6236f3ef812",
+      "crc32": "4ca0aa51",
+      "sha1": "a88c97a0758959013cba97b37dcc49e05774a416",
       "format": "Metadata"
     },
     {
@@ -15178,9 +15240,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1449,
-  "item_last_updated": 1660594110,
-  "item_size": 133241695,
+  "files_count": 1455,
+  "item_last_updated": 1660633335,
+  "item_size": 133667964,
+  "kpbs-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "kpbs-2022",
     "collection": [
@@ -15198,7 +15265,7 @@
     "addeddate": "2022-03-24 02:06:19"
   },
   "server": "ia802500.us.archive.org",
-  "uniq": 100626022,
+  "uniq": 1386373823,
   "workable_servers": [
     "ia802500.us.archive.org",
     "ia902500.us.archive.org"

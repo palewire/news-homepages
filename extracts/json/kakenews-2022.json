@@ -1,5 +1,5 @@
 {
-  "created": 1660613446,
+  "created": 1660657481,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/15/items/kakenews-2022",
@@ -1427,21 +1427,32 @@
       "format": "JSON"
     },
     {
+      "name": "kakenews-2022-08-15T20:29:55.605701-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kakenews-2022-08-15T20:29:55.605701-05:00.jpg",
+      "mtime": "1660613802",
+      "size": "11206",
+      "md5": "190e4e26e7a03a8e13c51da8b596c122",
+      "crc32": "e8d73bbb",
+      "sha1": "7e77076d2bec1bb7d837ce68109939a27287b1f7"
+    },
+    {
       "name": "kakenews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7926291208b8569b2bd18133205bd542a8324f34",
-      "mtime": "1660613444",
-      "size": "30193",
-      "md5": "60bb6267f566370ba9446afcfc518879",
-      "crc32": "d6eac3d0",
-      "sha1": "d7bf9588c6778e9d18f689f64c4c632e85ff731e",
+      "btih": "978c642d87f49f1004b2c82169361705c7f8fbba",
+      "mtime": "1660613805",
+      "size": "30398",
+      "md5": "c4b2dcef473f76cbf238c605741a7324",
+      "crc32": "917bdaf5",
+      "sha1": "abc226257fe92719f579b866b2108b5237f29e39",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kakenews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d0566a570730bbb92fc1112cd4a82aeb",
+      "md5": "718909921ceb1904c94707287cad1638",
       "summation": "md5"
     },
     {
@@ -1465,9 +1476,13 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 141,
-  "item_last_updated": 1660613444,
-  "item_size": 9937103,
+  "files_count": 142,
+  "item_last_updated": 1660613805,
+  "item_size": 9948514,
+  "kakenews-2022": {
+    "url": "https://www.kake.com/",
+    "job_id": "spn2-c713a097bc7a2c42087eb1e4510535f5ea13235b"
+  },
   "metadata": {
     "identifier": "kakenews-2022",
     "collection": [
@@ -1484,21 +1499,10 @@
     "publicdate": "2022-08-03 18:53:30",
     "addeddate": "2022-08-03 18:53:30"
   },
-  "pending_tasks": true,
-  "server": "ia601503.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3370682866,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 295168064,
+  "server": "ia801503.us.archive.org",
+  "uniq": 1079831919,
   "workable_servers": [
+    "ia801503.us.archive.org",
     "ia601503.us.archive.org"
   ]
 }

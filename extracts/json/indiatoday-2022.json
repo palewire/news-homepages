@@ -1,5 +1,5 @@
 {
-  "created": 1660613341,
+  "created": 1660614067,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/8/items/indiatoday-2022",
@@ -2493,21 +2493,32 @@
       "format": "JSON"
     },
     {
+      "name": "indiatoday-2022-08-16T06:58:08.545249+05:30_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "indiatoday-2022-08-16T06:58:08.545249+05:30.jpg",
+      "mtime": "1660613786",
+      "size": "9943",
+      "md5": "497c84b63e1c55eab72db285d8b43cdd",
+      "crc32": "1e95ec04",
+      "sha1": "8771e7e6ae8dda38a039dca329e18ba8d6a20c59"
+    },
+    {
       "name": "indiatoday-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b8839cbc147aee7cfd2062233a71c28c48498cf7",
-      "mtime": "1660613337",
-      "size": "52622",
-      "md5": "48fa389f0f521ce10caa92f829fdd8fc",
-      "crc32": "19a5e3b7",
-      "sha1": "47e2bf0cf28cd4ee9315c8be3e3be1d59221a7ad",
+      "btih": "94904e0a877f666eb1846798a469e9cb6f330ba5",
+      "mtime": "1660613817",
+      "size": "52828",
+      "md5": "047aa80e9763f1c82627959ca17a1999",
+      "crc32": "26d3de69",
+      "sha1": "1e3649fe3ab9672a12bc6fbd0e6e5669bec892e5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "indiatoday-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2e6c160f0bc38d17fac1ed33e876f117",
+      "md5": "da71083711ec20e153f8a599413ca230",
       "summation": "md5"
     },
     {
@@ -2531,9 +2542,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 244,
-  "item_last_updated": 1660613337,
-  "item_size": 21302245,
+  "files_count": 245,
+  "item_last_updated": 1660613817,
+  "item_size": 21312394,
   "metadata": {
     "identifier": "indiatoday-2022",
     "collection": [
@@ -2550,21 +2561,10 @@
     "publicdate": "2022-07-26 00:16:43",
     "addeddate": "2022-07-26 00:16:43"
   },
-  "pending_tasks": true,
-  "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3370680510,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 2141238256,
+  "server": "ia801505.us.archive.org",
+  "uniq": 92840748,
   "workable_servers": [
+    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }

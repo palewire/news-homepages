@@ -1,5 +1,5 @@
 {
-  "created": 1660613725,
+  "created": 1660652909,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/15/items/lavanguardia-2022",
@@ -2115,21 +2115,32 @@
       "format": "JSON"
     },
     {
+      "name": "lavanguardia-2022-08-16T03:34:20.648268+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lavanguardia-2022-08-16T03:34:20.648268+02:00.jpg",
+      "mtime": "1660614026",
+      "size": "9376",
+      "md5": "4901d40885d62f4845363a580dd7fa58",
+      "crc32": "2c13b6f1",
+      "sha1": "2a2553399068ecda537ef40f3d0a6e2b79aa0b55"
+    },
+    {
       "name": "lavanguardia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4f7ce5e57aa668acfc82aa3afe836a3d141e42db",
-      "mtime": "1660613718",
-      "size": "45204",
-      "md5": "30b7855e23089e833b4dcd52aea16a7b",
-      "crc32": "8ea324d4",
-      "sha1": "cd581e51b84f71c64d1e4b5531c549e78b7ac3a9",
+      "btih": "ac6137e5b46aa0ffabf9d76543b0dff4d41f535c",
+      "mtime": "1660614029",
+      "size": "45412",
+      "md5": "f23ce23ab82e62bb69c54f8e994bc354",
+      "crc32": "3baa23be",
+      "sha1": "ee6412cae64dde3fbe2f92487fc047ce3abfe0ad",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lavanguardia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6c3106b768a578f8a69076c6787d3796",
+      "md5": "ba8a68e2531cfc712d41909ffe970674",
       "summation": "md5"
     },
     {
@@ -2153,9 +2164,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 208,
-  "item_last_updated": 1660613718,
-  "item_size": 13742805,
+  "files_count": 209,
+  "item_last_updated": 1660614029,
+  "item_size": 13752389,
   "metadata": {
     "identifier": "lavanguardia-2022",
     "collection": [
@@ -2172,21 +2183,10 @@
     "publicdate": "2022-07-28 18:53:54",
     "addeddate": "2022-07-28 18:53:54"
   },
-  "pending_tasks": true,
-  "server": "ia601503.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3370689277,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1223008747,
+  "server": "ia801503.us.archive.org",
+  "uniq": 1471877442,
   "workable_servers": [
+    "ia801503.us.archive.org",
     "ia601503.us.archive.org"
   ]
 }

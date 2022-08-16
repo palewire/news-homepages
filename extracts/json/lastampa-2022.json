@@ -1,5 +1,5 @@
 {
-  "created": 1660613714,
+  "created": 1660652906,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/27/items/lastampa-2022",
@@ -687,21 +687,32 @@
       "format": "JSON"
     },
     {
+      "name": "lastampa-2022-08-16T03:34:25.156317+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lastampa-2022-08-16T03:34:25.156317+02:00.jpg",
+      "mtime": "1660614209",
+      "size": "9070",
+      "md5": "0e8ccb96e0eed1d0ed0aafe185fbf084",
+      "crc32": "741ee45c",
+      "sha1": "df4de29eb46cb4b538628783ddea1f8d7e5259af"
+    },
+    {
       "name": "lastampa-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8d76e97608bde08cdaa4d5b8f807457cdf4d8581",
-      "mtime": "1660613711",
-      "size": "15338",
-      "md5": "b8885053208fc37867a0629ca1192b42",
-      "crc32": "4402ac98",
-      "sha1": "245acaebebf38fb80a48f65f44ca3d86cbb6a499",
+      "btih": "c60ac89ee6249003c3decb8815d25357a91e9e87",
+      "mtime": "1660614216",
+      "size": "15542",
+      "md5": "d5b277981c5a7da0f6e90d9a56029fef",
+      "crc32": "70d07db7",
+      "sha1": "b13c8fa8654ad636fbdca2c21f5301cd1309ca2c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lastampa-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "930e9561726959c1e0f0d454b5dffda7",
+      "md5": "71895d0aca5b60a9d74e61a48b9bd25a",
       "summation": "md5"
     },
     {
@@ -725,9 +736,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 70,
-  "item_last_updated": 1660613711,
-  "item_size": 5547848,
+  "files_count": 71,
+  "item_last_updated": 1660614216,
+  "item_size": 5557122,
   "metadata": {
     "identifier": "lastampa-2022",
     "collection": [
@@ -744,21 +755,10 @@
     "publicdate": "2022-08-11 00:51:00",
     "addeddate": "2022-08-11 00:51:00"
   },
-  "pending_tasks": true,
-  "server": "ia902504.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3370689058,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1701702861,
+  "server": "ia802504.us.archive.org",
+  "uniq": 1206534952,
   "workable_servers": [
+    "ia802504.us.archive.org",
     "ia902504.us.archive.org"
   ]
 }

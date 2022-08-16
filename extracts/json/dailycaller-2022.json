@@ -1,5 +1,5 @@
 {
-  "created": 1660613330,
+  "created": 1660656888,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/9/items/dailycaller-2022",
@@ -12290,31 +12290,82 @@
       "sha1": "c0e97e9864476d2c463c043a6bf816a2c73514b1"
     },
     {
+      "name": "dailycaller-2022-08-16T09:33:23.436279-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660656807",
+      "size": "35265",
+      "md5": "3ba01a2cbab59a0b1057ce34ea35e7d3",
+      "crc32": "e6164ed9",
+      "sha1": "ab67728f3a5577532a67aabc09fd4f2713bd146b",
+      "format": "JSON"
+    },
+    {
+      "name": "dailycaller-2022-08-16T09:33:23.436279-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660656808",
+      "size": "31831",
+      "md5": "13e0dbecd893f241990ed8430ca25011",
+      "crc32": "c3f4ac3d",
+      "sha1": "770b8e5c34c163ee3317ed5b2cf19769b57db419",
+      "format": "JSON"
+    },
+    {
+      "name": "dailycaller-2022-08-16T09:33:23.436279-04:00.jpg",
+      "source": "original",
+      "mtime": "1660656805",
+      "size": "262337",
+      "md5": "ce235b678668ef36a501db08e6148c58",
+      "crc32": "b9da9dc7",
+      "sha1": "1fdd7f63bd7da1fd06689080700d80d5847bdf0d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailycaller-2022-08-16T09:33:23.436279-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660656811",
+      "size": "1468",
+      "md5": "78dab1a79ff18b3967cc1cdcdf5ca073",
+      "crc32": "1ef52413",
+      "sha1": "09d221fb65042c91ebcb5a3a9769021d1949a33e",
+      "format": "JSON"
+    },
+    {
+      "name": "dailycaller-2022-08-16T09:33:23.436279-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660656814",
+      "size": "150685",
+      "md5": "0a616a4f8c8e98deb3f4b8f51c902938",
+      "crc32": "f6663559",
+      "sha1": "28dd411695a9471e02a18a013c385ba92b316044",
+      "format": "JSON"
+    },
+    {
       "name": "dailycaller-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1cb250ccab827589f16929e2d631c2a1b9bf3f78",
-      "mtime": "1660613265",
-      "size": "252390",
-      "md5": "4a01b2bd2fe10b33c40fbd2725912c54",
-      "crc32": "1fce5b10",
-      "sha1": "9b7967c2942874819960bb885dd7502f4b0ab252",
+      "btih": "1e0e807de32b6a1cf922fb0ea0f1d1407027a1df",
+      "mtime": "1660656877",
+      "size": "253469",
+      "md5": "1a1c9ffb465951c4d75b122288cb1661",
+      "crc32": "0fc077fc",
+      "sha1": "311841bc846de469de5e0b03929577cdd544e5e8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailycaller-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f9ffc5aeee6e06b7f867607d2d70953d",
+      "md5": "826ac019a7a81b080c9bf2ead3af1d57",
       "summation": "md5"
     },
     {
       "name": "dailycaller-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660612901",
-      "size": "1392640",
-      "md5": "3612e3d85dcabd7912bad999d0accb6e",
-      "crc32": "f67cc3fd",
-      "sha1": "d0e42fd918f0421d2a8faeaec8ecf54ed285766f",
+      "mtime": "1660656819",
+      "size": "1396736",
+      "md5": "35db9cae4e036738b29144ca45e3302d",
+      "crc32": "41260334",
+      "sha1": "b38ef3ce09ed442ba9658e0019c4664e9c426b45",
       "format": "Metadata"
     },
     {
@@ -12328,9 +12379,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1178,
-  "item_last_updated": 1660613265,
-  "item_size": 98053491,
+  "files_count": 1183,
+  "item_last_updated": 1660656877,
+  "item_size": 98540252,
   "metadata": {
     "identifier": "dailycaller-2022",
     "collection": [
@@ -12347,10 +12398,21 @@
     "publicdate": "2022-03-25 18:46:08",
     "addeddate": "2022-03-25 18:46:08"
   },
+  "pending_tasks": true,
   "server": "ia601401.us.archive.org",
-  "uniq": 733670292,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3371620815,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 270590707,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia601401.us.archive.org"
   ]
 }

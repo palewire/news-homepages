@@ -1,10 +1,5 @@
 {
-  "capgaznews-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1660613382,
+  "created": 1660654580,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/30/items/capgaznews-2022",
@@ -5989,31 +5984,93 @@
       "sha1": "11f271863b3ec87065fd8b11ff9c47109c1f3b6e"
     },
     {
+      "name": "capgaznews-2022-08-16T02:14:13.312197-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660630464",
+      "size": "31811",
+      "md5": "7991c498a004dd765deb44b8559757fd",
+      "crc32": "cd373603",
+      "sha1": "1c61076ce9bd69cda661c56eb11e6c33828970db",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-08-16T02:14:13.312197-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660630465",
+      "size": "27914",
+      "md5": "a074e6cdeafe5a323de0ba7fb081ab60",
+      "crc32": "b386e5d3",
+      "sha1": "8da2f124890ff711f924222c823d5a75692a52bf",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-08-16T02:14:13.312197-04:00.jpg",
+      "source": "original",
+      "mtime": "1660630462",
+      "size": "249843",
+      "md5": "ea9c946a9d098a879b5b8855417c1fc0",
+      "crc32": "c3487577",
+      "sha1": "5025f3fb422d3a72124b152fc5e5dc7b775153ea",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "capgaznews-2022-08-16T02:14:13.312197-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660630468",
+      "size": "1525",
+      "md5": "f30006f315cac2fc65e0a1b58f91171d",
+      "crc32": "5d1f0411",
+      "sha1": "af60898d0036e3e07341e9d9eed2d892ec6ecb86",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-08-16T02:14:13.312197-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660630470",
+      "size": "52633",
+      "md5": "8caa86f04b3fc1b5289ba78f6d14de30",
+      "crc32": "a1a059e7",
+      "sha1": "f48b876fb19bd8670edb13828a9e4438da221c78",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-08-16T02:14:13.312197-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "capgaznews-2022-08-16T02:14:13.312197-04:00.jpg",
+      "mtime": "1660632512",
+      "size": "8451",
+      "md5": "c6250dca8fe857ddcd8a92d6fa1bce60",
+      "crc32": "d71eafbe",
+      "sha1": "fd515ff40167e623da89f72e9f93f65fb271bacf"
+    },
+    {
       "name": "capgaznews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a229f2bee2958afa407f48fb23c932c168be159e",
-      "mtime": "1660592783",
-      "size": "123274",
-      "md5": "c6d2171bd3885ad19f2a853224500014",
-      "crc32": "b5732975",
-      "sha1": "a5bdfc94a50d49cf033725e522a2212cf3a9aec0",
+      "btih": "a08355987147d38c84568cdcd2af8e836b52d598",
+      "mtime": "1660632518",
+      "size": "124553",
+      "md5": "d2066617a7d373afae5c38ddbb2cfcf4",
+      "crc32": "f11c6ca6",
+      "sha1": "0dc6b93b766a686ffedcb4bc67d1d36fb183eaee",
       "format": "Archive BitTorrent"
     },
     {
       "name": "capgaznews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "83bddaaa8621f382e1af7bac8da36175",
+      "md5": "54fe2ececb095331ce534cc6c2c31448",
       "summation": "md5"
     },
     {
       "name": "capgaznews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660591951",
-      "size": "704512",
-      "md5": "b0009dbbcc618b1ce3a79b09ed4ff021",
-      "crc32": "3e571c3f",
-      "sha1": "55aa892afd0ad6c762f96ef900224903a6e2d5f0",
+      "mtime": "1660630473",
+      "size": "708608",
+      "md5": "4675049504df1a057289c4c3233dc3a2",
+      "crc32": "799e5a00",
+      "sha1": "9ba36c6a6acc9cb38248eb3fa4acfed265d357fd",
       "format": "Metadata"
     },
     {
@@ -6027,9 +6084,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 577,
-  "item_last_updated": 1660592783,
-  "item_size": 46421176,
+  "files_count": 583,
+  "item_last_updated": 1660632518,
+  "item_size": 46798728,
   "metadata": {
     "identifier": "capgaznews-2022",
     "collection": [
@@ -6047,7 +6104,7 @@
     "addeddate": "2022-06-24 22:54:14"
   },
   "server": "ia801406.us.archive.org",
-  "uniq": 5988894,
+  "uniq": 42675302,
   "workable_servers": [
     "ia801406.us.archive.org",
     "ia601406.us.archive.org"

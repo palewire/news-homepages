@@ -1,5 +1,5 @@
 {
-  "created": 1660606437,
+  "created": 1660658107,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/13/items/sludge-2022",
@@ -6616,31 +6616,93 @@
       "sha1": "958cbfae50c15f1595c0f5ccf9f1c4571f64b06b"
     },
     {
+      "name": "sludge-2022-08-16T02:51:56.202042-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660632719",
+      "size": "26333",
+      "md5": "ee00ed36130ac5d48b08e189ddce568d",
+      "crc32": "c65c4a47",
+      "sha1": "82394f7985b25d30866fcee535d026a1b96219dc",
+      "format": "JSON"
+    },
+    {
+      "name": "sludge-2022-08-16T02:51:56.202042-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660632720",
+      "size": "19094",
+      "md5": "75232b3566b909f18d386b88aa532723",
+      "crc32": "e145e9f6",
+      "sha1": "d8ba64e2b44e4ce8719a4504b3983d664d8c6e45",
+      "format": "JSON"
+    },
+    {
+      "name": "sludge-2022-08-16T02:51:56.202042-04:00.jpg",
+      "source": "original",
+      "mtime": "1660632717",
+      "size": "222935",
+      "md5": "5bdcf143367a185874fa2e00d6b14caa",
+      "crc32": "d82ac542",
+      "sha1": "d1198bd20d7be14b33154bfda754b0c1e3030348",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sludge-2022-08-16T02:51:56.202042-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660632722",
+      "size": "1458",
+      "md5": "1a97017c0564731ad2713450cfe4adb9",
+      "crc32": "1b9ab324",
+      "sha1": "4602a9eea33d78d783b5bb2cb92b71672378da83",
+      "format": "JSON"
+    },
+    {
+      "name": "sludge-2022-08-16T02:51:56.202042-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660632724",
+      "size": "99",
+      "md5": "5dbd975571a4cf3a78c2b208eb3445cb",
+      "crc32": "a051fcec",
+      "sha1": "f3fe6ed795aed1dce0cb7afb659ea48899695a80",
+      "format": "JSON"
+    },
+    {
+      "name": "sludge-2022-08-16T02:51:56.202042-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sludge-2022-08-16T02:51:56.202042-04:00.jpg",
+      "mtime": "1660633554",
+      "size": "9682",
+      "md5": "a53e5895cee0e28ec606d0aa0feae8ca",
+      "crc32": "ec1189cc",
+      "sha1": "958cbfae50c15f1595c0f5ccf9f1c4571f64b06b"
+    },
+    {
       "name": "sludge-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3144367458c4d61adeff25e7f7bdbcd63a009a86",
-      "mtime": "1660594946",
-      "size": "132980",
-      "md5": "ed2e78a4d3d767621ede73da47ee61f1",
-      "crc32": "80269770",
-      "sha1": "a263dee69380ea2d76c0b70811becf0fb44dcc14",
+      "btih": "0283450c4ee12eaa77aa84ad28ab0c15407a33da",
+      "mtime": "1660633575",
+      "size": "134232",
+      "md5": "56199179515c2adaa833c3d886c24af7",
+      "crc32": "5289b436",
+      "sha1": "f5b09f93cb4aeef9764e5061f5565ede139fdc96",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sludge-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0674d81c7b4e0fd8063e12aee1f3db07",
+      "md5": "975db264e50dc30525075cb195c16c09",
       "summation": "md5"
     },
     {
       "name": "sludge-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660594478",
-      "size": "765952",
-      "md5": "5a5e66a907ac68c30b43d405c75ad817",
-      "crc32": "5579d0bc",
-      "sha1": "7c61c538b84a132f170c57c45c4127c57965cc77",
+      "mtime": "1660632730",
+      "size": "774144",
+      "md5": "cb4629f7769731e92460935db0dd7f68",
+      "crc32": "94687254",
+      "sha1": "b7e45176a3c27a91b712dbbd90597e67f8a735c0",
       "format": "Metadata"
     },
     {
@@ -6654,9 +6716,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 637,
-  "item_last_updated": 1660594946,
-  "item_size": 39350655,
+  "files_count": 643,
+  "item_last_updated": 1660633575,
+  "item_size": 39639700,
   "metadata": {
     "identifier": "sludge-2022",
     "collection": [
@@ -6673,10 +6735,14 @@
     "publicdate": "2022-06-19 23:28:12",
     "addeddate": "2022-06-19 23:28:12"
   },
-  "server": "ia801503.us.archive.org",
-  "uniq": 1329832665,
+  "server": "ia601503.us.archive.org",
+  "sludge-2022": {
+    "url": "https://readsludge.com/",
+    "job_id": "spn2-8d14dcf4108e6be516833a4bf34cc8848c4bb795"
+  },
+  "uniq": 1169135485,
   "workable_servers": [
-    "ia801503.us.archive.org",
-    "ia601503.us.archive.org"
+    "ia601503.us.archive.org",
+    "ia801503.us.archive.org"
   ]
 }

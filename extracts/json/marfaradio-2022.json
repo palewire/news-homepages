@@ -1,5 +1,5 @@
 {
-  "created": 1660613837,
+  "created": 1660652928,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/24/items/marfaradio-2022",
@@ -3205,21 +3205,32 @@
       "format": "JSON"
     },
     {
+      "name": "marfaradio-2022-08-15T20:36:13.705198-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "marfaradio-2022-08-15T20:36:13.705198-05:00.jpg",
+      "mtime": "1660614699",
+      "size": "8678",
+      "md5": "cb2b3f8efd1d9a9df12e1b2baefaf1e3",
+      "crc32": "938d5b84",
+      "sha1": "9e6a3d3b940cc9c9f2e8c423bc10fed2c51e4adc"
+    },
+    {
       "name": "marfaradio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a679c70150f8571215c26b1e26f3d10445d1fd70",
-      "mtime": "1660613833",
-      "size": "66750",
-      "md5": "ef0b3fe8352b57d438e717f50f24ae01",
-      "crc32": "5699a9cd",
-      "sha1": "2eab8639fe6211dac98cab5c4f956e00c38c875e",
+      "btih": "e44e49cc4b3102fc91024cd26ae81cc6c421e204",
+      "mtime": "1660614703",
+      "size": "66956",
+      "md5": "319b05dd80232fa751c0de3a3369f4fa",
+      "crc32": "08479cbb",
+      "sha1": "3a5318c5f0d4606113fb74f30d5231d04e077ace",
       "format": "Archive BitTorrent"
     },
     {
       "name": "marfaradio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d06f62febf1de1e2029a6817fb033a17",
+      "md5": "840e1a78e145baf0d80047bed706f4df",
       "summation": "md5"
     },
     {
@@ -3243,9 +3254,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 312,
-  "item_last_updated": 1660613833,
-  "item_size": 19667055,
+  "files_count": 313,
+  "item_last_updated": 1660614703,
+  "item_size": 19675939,
   "metadata": {
     "identifier": "marfaradio-2022",
     "collection": [
@@ -3262,21 +3273,10 @@
     "publicdate": "2022-07-18 00:04:45",
     "addeddate": "2022-07-18 00:04:45"
   },
-  "pending_tasks": true,
-  "server": "ia902506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3370691729,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 42532911,
+  "server": "ia802506.us.archive.org",
+  "uniq": 594737016,
   "workable_servers": [
+    "ia802506.us.archive.org",
     "ia902506.us.archive.org"
   ]
 }

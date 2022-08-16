@@ -1,10 +1,5 @@
 {
-  "baynature-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1660613325,
+  "created": 1660631268,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/7/items/baynature-2022",
@@ -4383,31 +4378,93 @@
       "sha1": "51fb7bb2233ec8cf11a2906a0f3e4a2bc2a96e58"
     },
     {
+      "name": "baynature-2022-08-15T23:11:37.808036-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660630303",
+      "size": "13011",
+      "md5": "b7bebc688b78189ccea290db01275fb4",
+      "crc32": "02d79ea1",
+      "sha1": "bf0fd50a38a753dc43d5df0e3ce46f868328f9db",
+      "format": "JSON"
+    },
+    {
+      "name": "baynature-2022-08-15T23:11:37.808036-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660630306",
+      "size": "7946",
+      "md5": "cfed96a82d01a07dae9815c05770907a",
+      "crc32": "ff6fa6e6",
+      "sha1": "ee148b9774e22540ea96500636828f562e7f8018",
+      "format": "JSON"
+    },
+    {
+      "name": "baynature-2022-08-15T23:11:37.808036-07:00.jpg",
+      "source": "original",
+      "mtime": "1660630301",
+      "size": "325718",
+      "md5": "e926749cb4035e5363ef8432f7102a1a",
+      "crc32": "8918846f",
+      "sha1": "80d2bc5fd97d011417b6256bf76d737b700d3665",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "baynature-2022-08-15T23:11:37.808036-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660630309",
+      "size": "1449",
+      "md5": "c872ec758738cdae1aa33ec5c25f0e0d",
+      "crc32": "786cf384",
+      "sha1": "60a1be038290658832148bea99e94dd26d248bdb",
+      "format": "JSON"
+    },
+    {
+      "name": "baynature-2022-08-15T23:11:37.808036-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660630310",
+      "size": "16043",
+      "md5": "5c7a4685ec8847b505603ddfe8a70acd",
+      "crc32": "5b7afe61",
+      "sha1": "8ffea7cc3051650212cc6eb840c84b4b5dbdf7d8",
+      "format": "JSON"
+    },
+    {
+      "name": "baynature-2022-08-15T23:11:37.808036-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baynature-2022-08-15T23:11:37.808036-07:00.jpg",
+      "mtime": "1660631231",
+      "size": "10103",
+      "md5": "1615a9862d96613f4fb12acca6db3ff0",
+      "crc32": "6e824277",
+      "sha1": "cae1a46ac5797beab09fcde0acc414be4c6853bd"
+    },
+    {
       "name": "baynature-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4b755a4755cc37a0a349d6bab995101755c297a6",
-      "mtime": "1660592610",
-      "size": "90277",
-      "md5": "823219a71c35affe178d9379be06aa96",
-      "crc32": "e40fb815",
-      "sha1": "0eafe8b7248b801decf25adbef22b4a6198f357d",
+      "btih": "ad51df5f24aaed5003ab924de769e5e2fc27f788",
+      "mtime": "1660631237",
+      "size": "91550",
+      "md5": "683e95179ee26f3e1c51ff452bf7cc24",
+      "crc32": "25e77815",
+      "sha1": "aa6ac22013f5434da2e7f310ffe5a41d918b72bd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "baynature-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ccd516773e80229c19ce7f43df94846e",
+      "md5": "f673fa05e569b948805c988e5782e884",
       "summation": "md5"
     },
     {
       "name": "baynature-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660591811",
-      "size": "528384",
-      "md5": "5ece693f46c4b6f8fd111cbb93f73677",
-      "crc32": "6a0f60b1",
-      "sha1": "2358e71e8a93d685b9972427f5f5a520a4025524",
+      "mtime": "1660630313",
+      "size": "536576",
+      "md5": "355422e5af9e1fc1dfaec08bd6fecf00",
+      "crc32": "1162f867",
+      "sha1": "269e9e3acfde0d1a924129d1ad70686dabfae9fc",
       "format": "Metadata"
     },
     {
@@ -4421,9 +4478,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 424,
-  "item_last_updated": 1660592610,
-  "item_size": 33060686,
+  "files_count": 430,
+  "item_last_updated": 1660631237,
+  "item_size": 33444421,
   "metadata": {
     "identifier": "baynature-2022",
     "collection": [
@@ -4440,10 +4497,10 @@
     "publicdate": "2022-07-09 03:56:56",
     "addeddate": "2022-07-09 03:56:56"
   },
-  "server": "ia802503.us.archive.org",
-  "uniq": 1751360119,
+  "server": "ia902503.us.archive.org",
+  "uniq": 686753484,
   "workable_servers": [
-    "ia802503.us.archive.org",
-    "ia902503.us.archive.org"
+    "ia902503.us.archive.org",
+    "ia802503.us.archive.org"
   ]
 }

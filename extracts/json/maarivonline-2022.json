@@ -1,5 +1,5 @@
 {
-  "created": 1660613792,
+  "created": 1660652916,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/8/items/maarivonline-2022",
@@ -285,21 +285,32 @@
       "format": "JSON"
     },
     {
+      "name": "maarivonline-2022-08-16T04:35:41.829147+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "maarivonline-2022-08-16T04:35:41.829147+03:00.jpg",
+      "mtime": "1660614150",
+      "size": "8796",
+      "md5": "d3788ea24b3f366702a831e3c26f452c",
+      "crc32": "205664b4",
+      "sha1": "f41ba44638e92501555f8948ccc4bc2e9615822e"
+    },
+    {
       "name": "maarivonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "adfc74b9106631081b97f1e0dbd6077bab9c7829",
-      "mtime": "1660613788",
-      "size": "7236",
-      "md5": "08fbc93e8f93335f2ac2eff18c11505a",
-      "crc32": "ec700ff0",
-      "sha1": "46d03a56e25fa77c80e5db6122a54c15f2dbb58c",
+      "btih": "4a9c03523a4b44d16c5abcd3374ef6d9813acd54",
+      "mtime": "1660614153",
+      "size": "7444",
+      "md5": "f4da751a400cf3a84204993219d4e9e9",
+      "crc32": "b3a779c7",
+      "sha1": "70e447520cfb63be8987e6bd5bc3c5367f0d54cf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "maarivonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "321735f78ea8f365e696bb8fb1acc5d5",
+      "md5": "ba4a783ad2435d2f1d396c93f89c8a05",
       "summation": "md5"
     },
     {
@@ -323,9 +334,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 31,
-  "item_last_updated": 1660613788,
-  "item_size": 2319260,
+  "files_count": 32,
+  "item_last_updated": 1660614153,
+  "item_size": 2328264,
   "metadata": {
     "identifier": "maarivonline-2022",
     "collection": [
@@ -342,21 +353,10 @@
     "publicdate": "2022-08-14 03:14:50",
     "addeddate": "2022-08-14 03:14:50"
   },
-  "pending_tasks": true,
   "server": "ia601500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3370690666,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 630420163,
+  "uniq": 917879115,
   "workable_servers": [
-    "ia601500.us.archive.org"
+    "ia601500.us.archive.org",
+    "ia801500.us.archive.org"
   ]
 }

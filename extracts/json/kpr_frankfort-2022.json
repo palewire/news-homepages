@@ -1,5 +1,5 @@
 {
-  "created": 1660613553,
+  "created": 1660652881,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/31/items/kpr_frankfort-2022",
@@ -1837,21 +1837,32 @@
       "format": "JSON"
     },
     {
+      "name": "kpr_frankfort-2022-08-15T21:31:35.864492-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpr_frankfort-2022-08-15T21:31:35.864492-04:00.jpg",
+      "mtime": "1660613795",
+      "size": "10292",
+      "md5": "e07095fb09c75588e6e92153a5e63cc8",
+      "crc32": "72c08b06",
+      "sha1": "1c1f9bd814bc0bcb12e5338eb8153a58b289ca6f"
+    },
+    {
       "name": "kpr_frankfort-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d0dee126b723fc92b5fa03af752f16b395b26f4c",
-      "mtime": "1660613550",
-      "size": "39606",
-      "md5": "a32c0568f9ee99158128c033363615d6",
-      "crc32": "7ef229b2",
-      "sha1": "ccfa6d1a6ebb093b7973631238488f2ede4a4400",
+      "btih": "edc65ae8f2d39446d9cacf0e6465bbf55216dcff",
+      "mtime": "1660613807",
+      "size": "39816",
+      "md5": "6bcc57b4448dbdd47a804c43144819e6",
+      "crc32": "eac24375",
+      "sha1": "c1b6af0ad3bb709ea010d3f3c1a515168dd3a4ef",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kpr_frankfort-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "049f84d46f4127414f56867ad5ea5ea7",
+      "md5": "da6beb5101e82e7528ba1f3c365a86af",
       "summation": "md5"
     },
     {
@@ -1875,9 +1886,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 181,
-  "item_last_updated": 1660613550,
-  "item_size": 12281794,
+  "files_count": 182,
+  "item_last_updated": 1660613807,
+  "item_size": 12292296,
   "metadata": {
     "identifier": "kpr_frankfort-2022",
     "collection": [
@@ -1894,21 +1905,10 @@
     "publicdate": "2022-08-01 06:42:07",
     "addeddate": "2022-08-01 06:42:07"
   },
-  "pending_tasks": true,
   "server": "ia601507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3370685297,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 14823037,
+  "uniq": 362904596,
   "workable_servers": [
-    "ia601507.us.archive.org"
+    "ia601507.us.archive.org",
+    "ia801507.us.archive.org"
   ]
 }

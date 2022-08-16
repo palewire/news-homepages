@@ -1,5 +1,5 @@
 {
-  "created": 1660613876,
+  "created": 1660657673,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/7/items/motherjones-2022",
@@ -8393,21 +8393,32 @@
       "format": "JSON"
     },
     {
+      "name": "motherjones-2022-08-15T18:36:54.190805-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "motherjones-2022-08-15T18:36:54.190805-07:00.jpg",
+      "mtime": "1660614177",
+      "size": "9520",
+      "md5": "f0b16318be4a56c5d183b78638c6c91c",
+      "crc32": "2c034809",
+      "sha1": "ba25a472e1acbbebb2a02bf4936e14e1dca04d26"
+    },
+    {
       "name": "motherjones-2022_archive.torrent",
       "source": "metadata",
-      "btih": "af238b5177fbdb8f34d879f34015a256fb4d8971",
-      "mtime": "1660613871",
-      "size": "173119",
-      "md5": "c27ea81d76a6dbe3f17af342e588b7aa",
-      "crc32": "407c3d06",
-      "sha1": "4c817946c7646c2157d6d1c04aee28347762db25",
+      "btih": "26b1d7b12c50587451941d3366da5cb201b72b2f",
+      "mtime": "1660614186",
+      "size": "173326",
+      "md5": "debbb793e6c81839691dc7c67e844c10",
+      "crc32": "b9e03396",
+      "sha1": "e977f2d431e7ace857e0f64fe7f595f9ed747368",
       "format": "Archive BitTorrent"
     },
     {
       "name": "motherjones-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "73a18e08e6a1da1bfe8e36f0092a5e00",
+      "md5": "f0a1a7e33d45463717bc4c8e21907546",
       "summation": "md5"
     },
     {
@@ -8431,9 +8442,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 808,
-  "item_last_updated": 1660613871,
-  "item_size": 62299899,
+  "files_count": 809,
+  "item_last_updated": 1660614186,
+  "item_size": 62309626,
   "metadata": {
     "identifier": "motherjones-2022",
     "collection": [
@@ -8450,21 +8461,14 @@
     "publicdate": "2022-06-18 17:10:05",
     "addeddate": "2022-06-18 17:10:05"
   },
-  "pending_tasks": true,
-  "server": "ia902500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3370692546,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1861624950,
+  "motherjones-2022": {
+    "url": "https://www.motherjones.com/",
+    "job_id": "spn2-cc825c3de22e7c94b03a179a8f24a42d4cb05d53"
+  },
+  "server": "ia802500.us.archive.org",
+  "uniq": 800148262,
   "workable_servers": [
+    "ia802500.us.archive.org",
     "ia902500.us.archive.org"
   ]
 }

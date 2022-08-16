@@ -1,5 +1,5 @@
 {
-  "created": 1660593833,
+  "created": 1660656083,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/14/items/georgiastraight-2022",
@@ -5308,31 +5308,93 @@
       "sha1": "3608bd310b2652c0c5878d11697349105f1aef33"
     },
     {
+      "name": "georgiastraight-2022-08-15T23:33:44.452788-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660631631",
+      "size": "29504",
+      "md5": "0348b097adf09d326966fb9dee50842b",
+      "crc32": "0ed06d8f",
+      "sha1": "b0e5e0e72e43e36934eb0ca0a20114b7640f370f",
+      "format": "JSON"
+    },
+    {
+      "name": "georgiastraight-2022-08-15T23:33:44.452788-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660631632",
+      "size": "29943",
+      "md5": "ba1829e4a4a9c956dc30f8d4f3cea3a5",
+      "crc32": "afb7e984",
+      "sha1": "79082cada2a7f68be212fcd91499bc1300df97a4",
+      "format": "JSON"
+    },
+    {
+      "name": "georgiastraight-2022-08-15T23:33:44.452788-07:00.jpg",
+      "source": "original",
+      "mtime": "1660631628",
+      "size": "317603",
+      "md5": "e6adf2dbea50fe4780d30ce4b127c670",
+      "crc32": "c9dc5a77",
+      "sha1": "b299127e6b349b496627d321655c31d04dc3eb70",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "georgiastraight-2022-08-15T23:33:44.452788-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660631635",
+      "size": "1474",
+      "md5": "1adfc99609eed69bd23fafca202e2189",
+      "crc32": "cf4c3685",
+      "sha1": "d54cc03a6591a519e2453e126d222c02ec647da2",
+      "format": "JSON"
+    },
+    {
+      "name": "georgiastraight-2022-08-15T23:33:44.452788-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660631636",
+      "size": "42440",
+      "md5": "9273f75b33e18bab4cfb008b4193e043",
+      "crc32": "eb5acf80",
+      "sha1": "566b7730da43879ed0a7ce80158b3d6e8f50c34b",
+      "format": "JSON"
+    },
+    {
+      "name": "georgiastraight-2022-08-15T23:33:44.452788-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "georgiastraight-2022-08-15T23:33:44.452788-07:00.jpg",
+      "mtime": "1660632438",
+      "size": "9649",
+      "md5": "f2a6e15083c719b55f736d5e5846b912",
+      "crc32": "b475dead",
+      "sha1": "517586db967d3d83ac4b76f60aa35c20ace9fb99"
+    },
+    {
       "name": "georgiastraight-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ff8fea8b36ee34396bafe49e8e5ba76d47c1d365",
-      "mtime": "1660593795",
-      "size": "112070",
-      "md5": "e750ced8151bc138ff50dce150ba498e",
-      "crc32": "12399208",
-      "sha1": "2069ad13fecf2f29e8dfcf2ebc1dbd7b0c1d1f3f",
+      "btih": "b706d85ed837f4d3549edd6283c950944464aaab",
+      "mtime": "1660632443",
+      "size": "113359",
+      "md5": "c22baca808415d9422c5753dcc6bb6de",
+      "crc32": "25d5da9d",
+      "sha1": "e3a417ea4bf01aaacdf08fb95661034e5b24169b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "georgiastraight-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8784ded3d2a9b6811b442209884d8197",
+      "md5": "7ba1f17cb7ccbfc2a94fad40f34bf46b",
       "summation": "md5"
     },
     {
       "name": "georgiastraight-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660593141",
-      "size": "630784",
-      "md5": "da12c5fb53fa0e11aeae274225e8b71d",
-      "crc32": "52df4809",
-      "sha1": "d465da1ffe40cbe9d6e65f7589325d41deefdd4e",
+      "mtime": "1660631639",
+      "size": "638976",
+      "md5": "abad3fb7e08c45a28f8410c4a06d9d57",
+      "crc32": "54da4b02",
+      "sha1": "a41366fbfb6cb2e03bf36a7138b360078517bfd4",
       "format": "Metadata"
     },
     {
@@ -5346,9 +5408,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 512,
-  "item_last_updated": 1660593795,
-  "item_size": 43164052,
+  "files_count": 518,
+  "item_last_updated": 1660632443,
+  "item_size": 43604146,
   "metadata": {
     "identifier": "georgiastraight-2022",
     "collection": [
@@ -5366,7 +5428,7 @@
     "addeddate": "2022-06-30 22:35:36"
   },
   "server": "ia801403.us.archive.org",
-  "uniq": 138268092,
+  "uniq": 596180920,
   "workable_servers": [
     "ia801403.us.archive.org",
     "ia601403.us.archive.org"

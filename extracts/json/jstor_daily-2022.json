@@ -1,5 +1,5 @@
 {
-  "created": 1660613465,
+  "created": 1660657480,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/18/items/jstor_daily-2022",
@@ -2461,21 +2461,32 @@
       "format": "JSON"
     },
     {
+      "name": "jstor_daily-2022-08-15T21:30:06.703169-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jstor_daily-2022-08-15T21:30:06.703169-04:00.jpg",
+      "mtime": "1660613800",
+      "size": "10979",
+      "md5": "2c39e202522613eda62e53a534a385a1",
+      "crc32": "bb086e0f",
+      "sha1": "cbe37c489950401408c7e894d5af75e9a0fc0c70"
+    },
+    {
       "name": "jstor_daily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "768b960d5d97bf2817a0053b232ead35dc3bccf7",
-      "mtime": "1660613462",
-      "size": "52120",
-      "md5": "6d3b97f10bc7fe21f7e5d6ef5dae7819",
-      "crc32": "0cd0357e",
-      "sha1": "432ccb90abf8cd476f8b0768dedbdd604756ad98",
+      "btih": "0cf2d239bacc5c7bdd67484d9077a2671e4bb2ad",
+      "mtime": "1660613807",
+      "size": "52328",
+      "md5": "ca73f86ca39040896c011244f4e81494",
+      "crc32": "7eaf204d",
+      "sha1": "151854052c3aa5a0b7cb279341b87bf16ca2e16b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jstor_daily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "685bb5b6f06b857481a377858959e050",
+      "md5": "8a350a7aa458ab55a36783cc17c87cbf",
       "summation": "md5"
     },
     {
@@ -2499,9 +2510,13 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 241,
-  "item_last_updated": 1660613462,
-  "item_size": 18307900,
+  "files_count": 242,
+  "item_last_updated": 1660613807,
+  "item_size": 18319087,
+  "jstor_daily-2022": {
+    "url": "https://daily.jstor.org/",
+    "job_id": "spn2-c1eb405d1c078b1442d6828a95cdafbb59ba75cb"
+  },
   "metadata": {
     "identifier": "jstor_daily-2022",
     "collection": [
@@ -2518,21 +2533,10 @@
     "publicdate": "2022-07-26 00:15:53",
     "addeddate": "2022-07-26 00:15:53"
   },
-  "pending_tasks": true,
   "server": "ia902505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3370683258,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1718472321,
+  "uniq": 1044828561,
   "workable_servers": [
-    "ia902505.us.archive.org"
+    "ia902505.us.archive.org",
+    "ia802505.us.archive.org"
   ]
 }

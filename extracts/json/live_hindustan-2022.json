@@ -1,5 +1,5 @@
 {
-  "created": 1660613763,
+  "created": 1660614106,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/26/items/live_hindustan-2022",
@@ -2283,21 +2283,32 @@
       "format": "JSON"
     },
     {
+      "name": "live_hindustan-2022-08-16T07:05:06.106259+05:30_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "live_hindustan-2022-08-16T07:05:06.106259+05:30.jpg",
+      "mtime": "1660614060",
+      "size": "10918",
+      "md5": "0470d6554c54549eebb683d4dd6faa58",
+      "crc32": "8b099859",
+      "sha1": "3868b48761c09627022cbe810c8193a43a8ed7d0"
+    },
+    {
       "name": "live_hindustan-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b24e7a6918ad33fa9e1d54e501f9c5574df59bca",
-      "mtime": "1660613759",
-      "size": "49568",
-      "md5": "f9ebf8e7fe5ae4efc7df20b1819c0e30",
-      "crc32": "8bc860c6",
-      "sha1": "842034fc0fe1c2b109656e3d5f86ef6b703965cf",
+      "btih": "0aebddb3c25601daccbf120e1ea4062f19abebac",
+      "mtime": "1660614068",
+      "size": "49779",
+      "md5": "89aa404e70547df25df0df03d166d8a3",
+      "crc32": "0c52d82c",
+      "sha1": "634c31fefe92a4770582b21b8b5661024f32e75e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "live_hindustan-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7864bfdd1f5adcc529a389ff5cd6a293",
+      "md5": "1abd53e6a7b99bccfa986ae07ccb6333",
       "summation": "md5"
     },
     {
@@ -2321,9 +2332,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 224,
-  "item_last_updated": 1660613759,
-  "item_size": 25032480,
+  "files_count": 225,
+  "item_last_updated": 1660614068,
+  "item_size": 25043609,
   "metadata": {
     "identifier": "live_hindustan-2022",
     "collection": [
@@ -2340,21 +2351,10 @@
     "publicdate": "2022-07-27 17:18:19",
     "addeddate": "2022-07-27 17:18:19"
   },
-  "pending_tasks": true,
-  "server": "ia902503.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3370689985,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 798116275,
+  "server": "ia802503.us.archive.org",
+  "uniq": 1260909238,
   "workable_servers": [
+    "ia802503.us.archive.org",
     "ia902503.us.archive.org"
   ]
 }

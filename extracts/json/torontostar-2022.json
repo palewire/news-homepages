@@ -1,5 +1,5 @@
 {
-  "created": 1660595396,
+  "created": 1660633874,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/10/items/torontostar-2022",
@@ -5338,31 +5338,93 @@
       "sha1": "adf1852873f31ee1db9aeeea1060a80052118865"
     },
     {
+      "name": "torontostar-2022-08-16T02:56:58.043881-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660633021",
+      "size": "54575",
+      "md5": "d50ce128d316020bcc9710e15eb2a5aa",
+      "crc32": "c199bda6",
+      "sha1": "68aa52e50f46dc07c8b9f791e5b631e88eaa0eac",
+      "format": "JSON"
+    },
+    {
+      "name": "torontostar-2022-08-16T02:56:58.043881-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660633022",
+      "size": "39029",
+      "md5": "e5816187371b3d9b533fd374ece50073",
+      "crc32": "522094d7",
+      "sha1": "363aadda16fca608ceadb91299fa68e9170aa4d3",
+      "format": "JSON"
+    },
+    {
+      "name": "torontostar-2022-08-16T02:56:58.043881-04:00.jpg",
+      "source": "original",
+      "mtime": "1660633019",
+      "size": "266929",
+      "md5": "0856ab3a7ca2eb47b4888c2054af71ef",
+      "crc32": "5f492f8d",
+      "sha1": "3160499e3e032400fa5da20a6c9c502afd86b0d4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "torontostar-2022-08-16T02:56:58.043881-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660633024",
+      "size": "1510",
+      "md5": "98f056110be5a37040f5ddd3d9f01d9b",
+      "crc32": "5e62dd2c",
+      "sha1": "68b27ceabda85d0b674335c77949b6a55aad41a6",
+      "format": "JSON"
+    },
+    {
+      "name": "torontostar-2022-08-16T02:56:58.043881-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660633025",
+      "size": "51946",
+      "md5": "06d7368bd82b224afaa535093442ecf2",
+      "crc32": "3154ee08",
+      "sha1": "803b4bdd995c6d3d0a8cc9e1b75803e6093a62c2",
+      "format": "JSON"
+    },
+    {
+      "name": "torontostar-2022-08-16T02:56:58.043881-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "torontostar-2022-08-16T02:56:58.043881-04:00.jpg",
+      "mtime": "1660633810",
+      "size": "8943",
+      "md5": "d62d3b922e16bc8768cb62b2a770f7f7",
+      "crc32": "d049a26d",
+      "sha1": "e0e27dda98442007267c12a00fc52e2ae3d76966"
+    },
+    {
       "name": "torontostar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e14a78bb506942dbcc56d61ebaa10c23beefd135",
-      "mtime": "1660595263",
-      "size": "110613",
-      "md5": "070e602f2002c78c60000b5eb68d1aa0",
-      "crc32": "6959b667",
-      "sha1": "304c78fa1bb58fa59759c390e75453315a6e7eab",
+      "btih": "f85a9e259c7c5ec2e17b37067dab151e03f405dd",
+      "mtime": "1660633855",
+      "size": "111898",
+      "md5": "1f181b80a73a3d82ea73080a25b34e8f",
+      "crc32": "36d46b0b",
+      "sha1": "ec82e6fc6005eb765c820ede1b489a010994a8e6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "torontostar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "67164b00d769e9057bab2278a118689e",
+      "md5": "f0c84f688c9068a173896a9a7f66616a",
       "summation": "md5"
     },
     {
       "name": "torontostar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660594752",
-      "size": "626688",
-      "md5": "fffad4c1c63e7b0c421198e7ca6d7cd4",
-      "crc32": "45d00623",
-      "sha1": "9a281c5020865f25d40bc5eb7d2dadfe5417f227",
+      "mtime": "1660633032",
+      "size": "634880",
+      "md5": "ab80ad039572ccc66e0dcbf485deb384",
+      "crc32": "49c9b7f4",
+      "sha1": "b1025a32fb864db667eb4e42b6abb6743c9a5b14",
       "format": "Metadata"
     },
     {
@@ -5376,9 +5438,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 515,
-  "item_last_updated": 1660595263,
-  "item_size": 42332409,
+  "files_count": 521,
+  "item_last_updated": 1660633855,
+  "item_size": 42764818,
   "metadata": {
     "identifier": "torontostar-2022",
     "collection": [
@@ -5395,10 +5457,10 @@
     "publicdate": "2022-06-30 22:36:07",
     "addeddate": "2022-06-30 22:36:07"
   },
-  "server": "ia801508.us.archive.org",
-  "uniq": 976875161,
+  "server": "ia601508.us.archive.org",
+  "uniq": 1685938451,
   "workable_servers": [
-    "ia801508.us.archive.org",
-    "ia601508.us.archive.org"
+    "ia601508.us.archive.org",
+    "ia801508.us.archive.org"
   ]
 }
