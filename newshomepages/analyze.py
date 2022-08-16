@@ -56,10 +56,18 @@ def lighthouse():
     flat_df["performance_color"] = flat_df.performance_median.apply(_color_code)
     flat_df["accessibility_color"] = flat_df.accessibility_median.apply(_color_code)
 
+    # Rank scores
+    flat_df["performance_rank"] = flat_df.performance_median.rank(
+        ascending=False, method="min"
+    )
+    flat_df["accessibility_rank"] = flat_df.accessibility_median.rank(
+        ascending=False, method="min"
+    )
+
     # Write the results
     output_path = utils.EXTRACT_DIR / "csv" / "lighthouse-analysis.csv"
     print(f":pencil: Writing to {output_path}")
-    flat_df.to_csv(output_path, index=False)
+    flat_df.reset_index().to_csv(output_path, index=False)
 
 
 def _color_code(val):

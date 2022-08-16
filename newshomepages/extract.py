@@ -214,7 +214,7 @@ def download_lighthouse(
         # Add them to the row
         row["performance"] = d["performance"]
         row["accessibility"] = d["accessibility"]
-        row["best-practices"] = d["best-practices"]
+        row["best_practices"] = d["best-practices"]
         row["seo"] = d["seo"]
         row["pwa"] = d["pwa"]
 
@@ -228,13 +228,28 @@ def download_lighthouse(
         ["handle", "date"], ascending=[True, True]
     )
 
+    # Drop columns we don't need
+    trimmed_df = parsed_df[
+        [
+            "identifier",
+            "handle",
+            "file_name",
+            "date",
+            "performance",
+            "accessibility",
+            "best_practices",
+            "seo",
+            "pwa",
+        ]
+    ]
+
     # Write out the file
     if output_path is None:
         output_path_obj = utils.ANALYSIS_DIR / f"{slug}-lighthouse.csv"
     else:
         output_path_obj = pathlib.Path(output_path)
-    print(f":pencil: Writing {len(filtered_df)} rows to {output_path_obj}")
-    parsed_df.to_csv(output_path_obj, index=False)
+    print(f":pencil: Writing {len(trimmed_df)} rows to {output_path_obj}")
+    trimmed_df.to_csv(output_path_obj, index=False)
 
 
 @cli.command()

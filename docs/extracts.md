@@ -82,7 +82,7 @@ Field | Description
 `file_name` | The name of the file in the Internet Archive
 `url` | The URL of the file
 `mtime` | The time the file was last modified by the Internet Archive in UTC time
-`size` | The size of the file in bytz
+`size` | The size of the file in bytes
 `md5` | A [checksum](https://en.wikipedia.org/wiki/Checksum) for the file created using [md5](https://en.wikipedia.org/wiki/Md5sum) hashing
 `sha1` | A [checksum](https://en.wikipedia.org/wiki/Checksum) for the file created using [sh1](https://en.wikipedia.org/wiki/Sha1sum) hashing
 
@@ -100,7 +100,7 @@ Field | Description
 `file_name` | The name of the file in the Internet Archive
 `url` | The URL of the file
 `mtime` | The time the file was last modified by the Internet Archive in UTC time
-`size` | The size of the file in bytz
+`size` | The size of the file in bytes
 `md5` | A [checksum](https://en.wikipedia.org/wiki/Checksum) for the file created using [md5](https://en.wikipedia.org/wiki/Md5sum) hashing
 `sha1` | A [checksum](https://en.wikipedia.org/wiki/Checksum) for the file created using [sh1](https://en.wikipedia.org/wiki/Sha1sum) hashing
 
@@ -118,7 +118,7 @@ Field | Description
 `file_name` | The name of the file in the Internet Archive
 `url` | The URL of the file
 `mtime` | The time the file was last modified by the Internet Archive in UTC time
-`size` | The size of the file in bytz
+`size` | The size of the file in bytes
 `md5` | A [checksum](https://en.wikipedia.org/wiki/Checksum) for the file created using [md5](https://en.wikipedia.org/wiki/Md5sum) hashing
 `sha1` | A [checksum](https://en.wikipedia.org/wiki/Checksum) for the file created using [sh1](https://en.wikipedia.org/wiki/Sha1sum) hashing
 
@@ -135,9 +135,53 @@ Field | Description
 `file_name` | The name of the file in the Internet Archive
 `url` | The URL of the file
 `mtime` | The time the file was last modified by the Internet Archive in UTC time
-`size` | The size of the file in bytz
+`size` | The size of the file in bytes
 `md5` | A [checksum](https://en.wikipedia.org/wiki/Checksum) for the file created using [md5](https://en.wikipedia.org/wiki/Md5sum) hashing
 `sha1` | A [checksum](https://en.wikipedia.org/wiki/Checksum) for the file created using [sh1](https://en.wikipedia.org/wiki/Sha1sum) hashing
+
+## lighthouse-sample.csv
+
+The Lighthouse metric scores recorded over the last seven days for all sites.
+
+URL: [raw.githubusercontent.com/palewire/news-homepages/main/extracts/csv/lighthouse-sample.csv](https://raw.githubusercontent.com/palewire/news-homepages/main/extracts/csv/lighthouse-sample.csv)
+
+Field | Description
+:---- | :----------
+`identifier` | The unique identifier created by Internet Archive
+`handle` | The Twitter handle of the outlet. Can be used to merge with other files
+`file_name` | The name of the file in the Internet Archive
+`date` | The datetime when the audit was captured
+`performance` | Lighthouse's [performance](https://developer.chrome.com/docs/lighthouse/performance/) metric score
+`accessbility` | Lighthouse's accessibility metric score
+`best_practices` | Lighthouse's [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/) metric score
+`seo` | Lighthouse's [search engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) metric score
+`pwa` | Lighthouse's [progressive web application](https://developer.chrome.com/docs/lighthouse/pwa/) metric score
+
+## lighthouse-analysis.csv
+
+An analysis of Lighthouse metrics drawn from the sample.
+
+URL: [raw.githubusercontent.com/palewire/news-homepages/main/extracts/csv/lighthouse-analysis.csv](https://raw.githubusercontent.com/palewire/news-homepages/main/extracts/csv/lighthouse-analysis.csv)
+
+Field | Description
+:---- | :----------
+`handle` | The Twitter handle of the outlet. Can be used to merge with other files
+`performance_count` | The number of Lighthouse [performance](https://developer.chrome.com/docs/lighthouse/performance/) metric observations
+`performance_median` | The median performance metric score
+`performance_mean` | The average performance metric score
+`performance_min` | The lowest performance metric score
+`performance_max` | The highest performance metric score
+`performance_std` | The standard deviation of performance metrics
+`accessibility_count` | The number of Lighthouse accessibility metric observations
+`accessibility_median` | The median accessibility metric score
+`accessibility_mean` | The average accessibility metric score
+`accessibility_min` | The lowest accessibility metric score
+`accessibility_max` | The highest accessibility metric score
+`accessibility_std` | The standard deviation of accessibility metrics
+`performance_color` | The classification of the median result using Lighthouse's three tier system. 0 to 49 is red. 50 to 89 is orange. 90 to 100 is green.
+`accessibility_color` | The classification of the median result using Lighthouse's three tier system. 0 to 49 is red. 50 to 89 is orange. 90 to 100 is green.
+`performance_rank` | The site's ranking when sorted by `performance_median`
+`accessibility_rank` | The site's ranking when sorted by `accessibility_median`
 
 ## wayback-files.csv
 
@@ -152,6 +196,6 @@ Field | Description
 `file_name` | The name of the file in the Internet Archive
 `url` | The URL of the file
 `mtime` | The time the file was last modified by the Internet Archive in UTC time
-`size` | The size of the file in bytz
+`size` | The size of the file in bytes
 `md5` | A [checksum](https://en.wikipedia.org/wiki/Checksum) for the file created using [md5](https://en.wikipedia.org/wiki/Md5sum) hashing
 `sha1` | A [checksum](https://en.wikipedia.org/wiki/Checksum) for the file created using [sh1](https://en.wikipedia.org/wiki/Sha1sum) hashing
