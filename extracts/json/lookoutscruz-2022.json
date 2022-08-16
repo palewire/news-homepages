@@ -1,5 +1,5 @@
 {
-  "created": 1660545370,
+  "created": 1660594423,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/0/items/lookoutscruz-2022",
@@ -4172,31 +4172,93 @@
       "sha1": "a0fa6dbb1926eae897ee8e6cedb5626d5bef3ec9"
     },
     {
+      "name": "lookoutscruz-2022-08-15T13:00:12.458456-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660593616",
+      "size": "15594",
+      "md5": "c7147ddcf20e2dc14a793ab44e2c58e0",
+      "crc32": "3455feef",
+      "sha1": "35b1e64ab323e375a239c7a8262f987f0df6d0aa",
+      "format": "JSON"
+    },
+    {
+      "name": "lookoutscruz-2022-08-15T13:00:12.458456-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660593618",
+      "size": "61312",
+      "md5": "852e5ae8d50764dc26292f4e9410b7ba",
+      "crc32": "8a885a0e",
+      "sha1": "fed3349e6b7505517c463ab9c1bbdaeee9ca51b8",
+      "format": "JSON"
+    },
+    {
+      "name": "lookoutscruz-2022-08-15T13:00:12.458456-07:00.jpg",
+      "source": "original",
+      "mtime": "1660593615",
+      "size": "292463",
+      "md5": "e07d2449edd2e79fb794fcea73f03e90",
+      "crc32": "f3d0c8e1",
+      "sha1": "9c7040d3acdb3116d752b8d9c95dacef6fbff3e0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lookoutscruz-2022-08-15T13:00:12.458456-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660593620",
+      "size": "1507",
+      "md5": "aeba98fd582cb8ea6cad35901e05ff0d",
+      "crc32": "c2d5f4a5",
+      "sha1": "0a66f66977c249cfe053dab81e2d332d92438d73",
+      "format": "JSON"
+    },
+    {
+      "name": "lookoutscruz-2022-08-15T13:00:12.458456-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660593622",
+      "size": "19720",
+      "md5": "98af51a080b78be5ba8e6b2fc7b7ab17",
+      "crc32": "cacac93c",
+      "sha1": "cb25bb6a2bd17844c9ca5ec0b821a7a7906aaff9",
+      "format": "JSON"
+    },
+    {
+      "name": "lookoutscruz-2022-08-15T13:00:12.458456-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lookoutscruz-2022-08-15T13:00:12.458456-07:00.jpg",
+      "mtime": "1660594370",
+      "size": "10909",
+      "md5": "2290d2504ca0341bdc742991c53bab63",
+      "crc32": "84306f3a",
+      "sha1": "2cc34a4a7494aa191592cdd76a2238acbeb32a8f"
+    },
+    {
       "name": "lookoutscruz-2022_archive.torrent",
       "source": "metadata",
-      "btih": "77ba10fedeaa65e92551557e25b5c2f95db14d63",
-      "mtime": "1660545335",
-      "size": "87513",
-      "md5": "727eb7c23958b7604d5b3aa990b04f09",
-      "crc32": "ed685a06",
-      "sha1": "e88bf12ea9db8eefdaab015e38a33a8048650951",
+      "btih": "aa210f83b1b8d466d620b03447a69941addd0734",
+      "mtime": "1660594385",
+      "size": "88805",
+      "md5": "bc43a98c145b6de01c0e8c8abd7b94aa",
+      "crc32": "72702fc3",
+      "sha1": "6cd1242370935eb26b2f2a62e7fc2cc95c277f96",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lookoutscruz-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "30334c6f17b3a36e6bd1c740f0c8bcf7",
+      "md5": "9b3f5dc33487afd67cc054e403c7fc66",
       "summation": "md5"
     },
     {
       "name": "lookoutscruz-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660545180",
-      "size": "507904",
-      "md5": "34a826ae4fabebe612b1b38a70b34521",
-      "crc32": "73bb88ac",
-      "sha1": "a144a6c9333cbf48f4c293fe17a1e1208114fdfc",
+      "mtime": "1660593627",
+      "size": "512000",
+      "md5": "e456f7abc38748ab41ef768889950a15",
+      "crc32": "d6776fee",
+      "sha1": "78be810330d6b9b97564e3f49a9aebd24977497d",
       "format": "Metadata"
     },
     {
@@ -4210,9 +4272,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 404,
-  "item_last_updated": 1660545335,
-  "item_size": 35371683,
+  "files_count": 410,
+  "item_last_updated": 1660594385,
+  "item_size": 35778576,
   "metadata": {
     "identifier": "lookoutscruz-2022",
     "collection": [
@@ -4230,7 +4292,7 @@
     "addeddate": "2022-07-09 04:00:07"
   },
   "server": "ia801409.us.archive.org",
-  "uniq": 287371550,
+  "uniq": 486182499,
   "workable_servers": [
     "ia801409.us.archive.org",
     "ia601409.us.archive.org"

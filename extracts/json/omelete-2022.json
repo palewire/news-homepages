@@ -1,5 +1,5 @@
 {
-  "created": 1660572706,
+  "created": 1660614018,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/30/items/omelete-2022",
@@ -1898,31 +1898,93 @@
       "sha1": "c0cb29659b6a8a55aa44149e225c424a2f4807ae"
     },
     {
+      "name": "omelete-2022-08-15T17:06:00.405879-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660593964",
+      "size": "14277",
+      "md5": "9beb076d8e546c021a7bca48d34adcf2",
+      "crc32": "562ca9e6",
+      "sha1": "91d0dec1c7b10a1ca28429577a522651e9f57543",
+      "format": "JSON"
+    },
+    {
+      "name": "omelete-2022-08-15T17:06:00.405879-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660593966",
+      "size": "24030",
+      "md5": "bbc95d3700ff87628a4fd28c2853e0a4",
+      "crc32": "8c71543b",
+      "sha1": "d3e15ea8bcc44789b52328dca42876311dba8400",
+      "format": "JSON"
+    },
+    {
+      "name": "omelete-2022-08-15T17:06:00.405879-03:00.jpg",
+      "source": "original",
+      "mtime": "1660593963",
+      "size": "260929",
+      "md5": "9668b988cbcbc90e3692d9aa0f494c4d",
+      "crc32": "e5c496f7",
+      "sha1": "67b3ed6fed100b9687237d67b2e6e5f7331b7cf0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "omelete-2022-08-15T17:06:00.405879-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660593968",
+      "size": "1489",
+      "md5": "37a932a70f4c37afa2fd6deb8e778efe",
+      "crc32": "3c00deb0",
+      "sha1": "bc13580d861c3f81071524136e81abd2d7a9703c",
+      "format": "JSON"
+    },
+    {
+      "name": "omelete-2022-08-15T17:06:00.405879-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1660593971",
+      "size": "232",
+      "md5": "93589db784af83b31b1e553ed8071a09",
+      "crc32": "e3c28099",
+      "sha1": "0538d9cf7cfcd294c4e237c6e02260d7cfcf0e38",
+      "format": "JSON"
+    },
+    {
+      "name": "omelete-2022-08-15T17:06:00.405879-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "omelete-2022-08-15T17:06:00.405879-03:00.jpg",
+      "mtime": "1660594470",
+      "size": "10090",
+      "md5": "85a7644950974da57aafa622a0b5e625",
+      "crc32": "46d52c25",
+      "sha1": "c0cb29659b6a8a55aa44149e225c424a2f4807ae"
+    },
+    {
       "name": "omelete-2022_archive.torrent",
       "source": "metadata",
-      "btih": "104a912cbdc7d472e31fc05003419e251fc073b4",
-      "mtime": "1660572651",
-      "size": "39657",
-      "md5": "ab54250aaba5c0140dd183656b16ac49",
-      "crc32": "f7d93a39",
-      "sha1": "64c6a07de5a83a615bbf34b09ca8440bbbbf2e03",
+      "btih": "fbb4b4f0d6178298e48a1e1e1e32396101296747",
+      "mtime": "1660594474",
+      "size": "40917",
+      "md5": "1ac0c9bdbdca48484aa837f3a31e00ba",
+      "crc32": "c5d11e6f",
+      "sha1": "caccdd9bc4b86f47b8c88b31ac26a779fe960cc0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "omelete-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3b9db395b47725e304a0d09346b45009",
+      "md5": "4f8d829a78164cd8cc74f194b7fb8568",
       "summation": "md5"
     },
     {
       "name": "omelete-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660572302",
-      "size": "253952",
-      "md5": "760aa8153c69f28f3c31e29725568961",
-      "crc32": "bbef0a88",
-      "sha1": "5229d23df70b1aeb277975a1388bdf3f1825ed32",
+      "mtime": "1660593975",
+      "size": "258048",
+      "md5": "e0bbded546828fe051ef331fa8075b46",
+      "crc32": "bff9fa1d",
+      "sha1": "aa8a308c89224350335af0994323cecc1dbec00c",
       "format": "Metadata"
     },
     {
@@ -1936,9 +1998,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 187,
-  "item_last_updated": 1660572651,
-  "item_size": 10440301,
+  "files_count": 193,
+  "item_last_updated": 1660594474,
+  "item_size": 10756704,
   "metadata": {
     "identifier": "omelete-2022",
     "collection": [
@@ -1955,8 +2017,17 @@
     "publicdate": "2022-08-04 04:55:42",
     "addeddate": "2022-08-04 04:55:42"
   },
+  "omelete-2022": {
+    "url": "https://www.omelete.com.br/",
+    "job_id": "spn2-3508890603d12cade6b2727d032fe09cc08e88b9",
+    "status_ext": "error:job-failed",
+    "status": "error",
+    "resources": [],
+    "duration_sec": 1.073,
+    "message": "Job failed."
+  },
   "server": "ia801406.us.archive.org",
-  "uniq": 1551619243,
+  "uniq": 592574072,
   "workable_servers": [
     "ia801406.us.archive.org",
     "ia601406.us.archive.org"

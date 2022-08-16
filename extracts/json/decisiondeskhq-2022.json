@@ -1,5 +1,6 @@
 {
-  "created": 1660571871,
+  "conflict": 1660613212,
+  "created": 1660613212,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/26/items/decisiondeskhq-2022",
@@ -4298,31 +4299,93 @@
       "sha1": "9f5ce6f935067470f990021f2afee3d46f25179f"
     },
     {
+      "name": "decisiondeskhq-2022-08-15T21:21:08.325547-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660612881",
+      "size": "50668",
+      "md5": "e8380e474a7dc672034f65aa9a2cff61",
+      "crc32": "35068f74",
+      "sha1": "0db412b0ed564fd408b56f7e94e32305731f613b",
+      "format": "JSON"
+    },
+    {
+      "name": "decisiondeskhq-2022-08-15T21:21:08.325547-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660612883",
+      "size": "9658",
+      "md5": "d953883ce76a9293f557b69da8b02aab",
+      "crc32": "6f4516f4",
+      "sha1": "dfa4cb8ccc292ce7ccfb99ebf4fc93cd4f518607",
+      "format": "JSON"
+    },
+    {
+      "name": "decisiondeskhq-2022-08-15T21:21:08.325547-04:00.jpg",
+      "source": "original",
+      "mtime": "1660612872",
+      "size": "245288",
+      "md5": "1256d887222228dc710f45bc00a5885e",
+      "crc32": "0366a0c3",
+      "sha1": "ae4b432d7bc9c601fe64a634a991e5c4f21b074a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "decisiondeskhq-2022-08-15T21:21:08.325547-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660612885",
+      "size": "1495",
+      "md5": "bbb9057f93c0c5ac743900e48baecf7d",
+      "crc32": "1b0fd155",
+      "sha1": "a2113f39fcc5215b68982dd2a9cd1443da9e81ab",
+      "format": "JSON"
+    },
+    {
+      "name": "decisiondeskhq-2022-08-15T21:21:08.325547-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660612887",
+      "size": "28858",
+      "md5": "2b2658aef208a90113e0225da08afe59",
+      "crc32": "29fb09f2",
+      "sha1": "94a736ddb77d96466956b26a91b4438727ec0198",
+      "format": "JSON"
+    },
+    {
+      "name": "decisiondeskhq-2022-08-15T21:21:08.325547-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "decisiondeskhq-2022-08-15T21:21:08.325547-04:00.jpg",
+      "mtime": "1660613175",
+      "size": "7969",
+      "md5": "c27ccad3e425a974109096cc5ddb9dbd",
+      "crc32": "0222f30a",
+      "sha1": "9f5ce6f935067470f990021f2afee3d46f25179f"
+    },
+    {
       "name": "decisiondeskhq-2022_archive.torrent",
       "source": "metadata",
-      "btih": "017f0fd984c23ebc1c65086a1c0d2637de210cdc",
-      "mtime": "1660571856",
-      "size": "90522",
-      "md5": "7fc42d09cc265970351f65b278c7bb77",
-      "crc32": "96351508",
-      "sha1": "572d326364e67cd9b0feb534c972b548cd9628bd",
+      "btih": "36cfe3b14a1ac5abf0e0e270b04e39c05152c1ec",
+      "mtime": "1660613193",
+      "size": "91824",
+      "md5": "0b432827de79c9fb70226ad75c5c039e",
+      "crc32": "6874dd24",
+      "sha1": "cfe8a66e9a81c5aec44189e1b49c86edd4844d65",
       "format": "Archive BitTorrent"
     },
     {
       "name": "decisiondeskhq-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dd6f2e3af50e556a2ca72e9476a8ba69",
+      "md5": "567a37ff6f3ddf8f466325ce83f9818e",
       "summation": "md5"
     },
     {
       "name": "decisiondeskhq-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660571762",
-      "size": "520192",
-      "md5": "88c13096f8cd730c7e3ba74a9a31d5cb",
-      "crc32": "2ccf0417",
-      "sha1": "03547543e7db6fac5c6b51cfcbd79264ce93477c",
+      "mtime": "1660612893",
+      "size": "524288",
+      "md5": "f530680066e84992a54ea833fcb5892e",
+      "crc32": "66d72111",
+      "sha1": "ae604ace58ea74a9995d5b490212281039352ef1",
       "format": "Metadata"
     },
     {
@@ -4336,9 +4399,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 416,
-  "item_last_updated": 1660571856,
-  "item_size": 28612106,
+  "files_count": 422,
+  "item_last_updated": 1660613193,
+  "item_size": 28961440,
   "metadata": {
     "identifier": "decisiondeskhq-2022",
     "collection": [
@@ -4355,10 +4418,29 @@
     "publicdate": "2022-07-04 20:47:15",
     "addeddate": "2022-07-04 20:47:15"
   },
+  "pending_tasks": true,
   "server": "ia902504.us.archive.org",
-  "uniq": 2061396488,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3370671783,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3370677785,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1310520408,
   "workable_servers": [
-    "ia902504.us.archive.org",
-    "ia802504.us.archive.org"
+    "ia902504.us.archive.org"
   ]
 }

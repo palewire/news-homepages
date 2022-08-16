@@ -1,5 +1,5 @@
 {
-  "created": 1660573846,
+  "created": 1660614628,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/35/items/usweekly-2022",
@@ -2990,31 +2990,83 @@
       "sha1": "b0e3822f9bdbe33e5eae3b817fce512211b3734c"
     },
     {
+      "name": "usweekly-2022-08-15T16:20:00.160919-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660594805",
+      "size": "46533",
+      "md5": "9597dbd89c3c0e9a2af0dcb5d27c3e38",
+      "crc32": "6dabe4b2",
+      "sha1": "6b07d9ef593a1eab6390cbfb4a8bc5fb5a673758",
+      "format": "JSON"
+    },
+    {
+      "name": "usweekly-2022-08-15T16:20:00.160919-04:00.jpg",
+      "source": "original",
+      "mtime": "1660594803",
+      "size": "244908",
+      "md5": "c507e7ab9c00768a08b72233de08abe9",
+      "crc32": "6fff7d03",
+      "sha1": "1fc2cf7934c0a5cd68ff6274b99b63612abeffa7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "usweekly-2022-08-15T16:20:00.160919-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660594807",
+      "size": "1495",
+      "md5": "596ad04b3e78f713561b65fd38c3b698",
+      "crc32": "108f5284",
+      "sha1": "f453e5c84d432c3dfcbb11a87a2d112c5b813f17",
+      "format": "JSON"
+    },
+    {
+      "name": "usweekly-2022-08-15T16:20:00.160919-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660594809",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "usweekly-2022-08-15T16:20:00.160919-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "usweekly-2022-08-15T16:20:00.160919-04:00.jpg",
+      "mtime": "1660595227",
+      "size": "8808",
+      "md5": "9e141fc902aed9a65b35b72e8776a165",
+      "crc32": "858da0e0",
+      "sha1": "5cf634d3c0cbcd0881040dd8b7846af72305990a"
+    },
+    {
       "name": "usweekly-2022_archive.torrent",
       "source": "metadata",
-      "btih": "692c89f39c54e06799100c70f008c24784ee2e29",
-      "mtime": "1660546326",
-      "size": "61738",
-      "md5": "a17ca5645b09d867e7fec0b376c4d8f2",
-      "crc32": "aed1951c",
-      "sha1": "81e69d54332ad2b97be4ea1ec4a1c82b02fc5794",
+      "btih": "9986fad8dcaa9d78b271ad589e7e0986beb9b93b",
+      "mtime": "1660595232",
+      "size": "62769",
+      "md5": "8826b5084f734d42c8a89d8e47c37fd6",
+      "crc32": "c00d0b91",
+      "sha1": "eb621d457842afc7336916318549a251659bef72",
       "format": "Archive BitTorrent"
     },
     {
       "name": "usweekly-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "45f7516ff588ea4fbfe1ee485532fe3a",
+      "md5": "0752cab0c109a8cb3df8f73ac8b9c4f3",
       "summation": "md5"
     },
     {
       "name": "usweekly-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660546161",
-      "size": "372736",
-      "md5": "0271536603ab0f8ea5b5f94b9e4b91e6",
-      "crc32": "55dc1ad8",
-      "sha1": "aead2011b2f8b343e2a1e6d6499b1854691fcb3e",
+      "mtime": "1660594813",
+      "size": "376832",
+      "md5": "74bb265bcf3d0a08bb252beaac9906cd",
+      "crc32": "9472ca2d",
+      "sha1": "50da1faad8c1f2d4daabaa39ad4121189d567dfa",
       "format": "Metadata"
     },
     {
@@ -3028,9 +3080,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 291,
-  "item_last_updated": 1660546326,
-  "item_size": 19627864,
+  "files_count": 296,
+  "item_last_updated": 1660595232,
+  "item_size": 19934937,
   "metadata": {
     "identifier": "usweekly-2022",
     "collection": [
@@ -3047,15 +3099,15 @@
     "publicdate": "2022-07-18 04:19:34",
     "addeddate": "2022-07-18 04:19:34"
   },
-  "server": "ia601506.us.archive.org",
-  "uniq": 311294090,
+  "server": "ia801506.us.archive.org",
+  "uniq": 50015603,
   "usweekly-2022": {
     "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
     "status": "error",
     "status_ext": "error:user-session-limit"
   },
   "workable_servers": [
-    "ia601506.us.archive.org",
-    "ia801506.us.archive.org"
+    "ia801506.us.archive.org",
+    "ia601506.us.archive.org"
   ]
 }

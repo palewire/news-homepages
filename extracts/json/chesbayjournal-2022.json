@@ -1,5 +1,5 @@
 {
-  "created": 1660571970,
+  "created": 1660613060,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/9/items/chesbayjournal-2022",
@@ -3856,31 +3856,93 @@
       "sha1": "20ffda9fe29ae036a7a3792c89cfe0ac9056765d"
     },
     {
+      "name": "chesbayjournal-2022-08-15T21:19:45.986107-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660612790",
+      "size": "13355",
+      "md5": "cbe7ede1d20d15319e18f8545af2c78d",
+      "crc32": "549eea02",
+      "sha1": "b86a22c412c27f362da4816ee815b409c8d7fe8c",
+      "format": "JSON"
+    },
+    {
+      "name": "chesbayjournal-2022-08-15T21:19:45.986107-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660612792",
+      "size": "19355",
+      "md5": "735937c2c9348ea0cb96066afa5eab52",
+      "crc32": "97812545",
+      "sha1": "bd6f3c546359b2c557cf0228afe7a829a8a13b2e",
+      "format": "JSON"
+    },
+    {
+      "name": "chesbayjournal-2022-08-15T21:19:45.986107-04:00.jpg",
+      "source": "original",
+      "mtime": "1660612789",
+      "size": "337243",
+      "md5": "bd88d138b824263587e1f60eee954b8c",
+      "crc32": "8e151f52",
+      "sha1": "10b66cf8ff3ba5a6aa2970f76ef36fd4c97bf2f1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chesbayjournal-2022-08-15T21:19:45.986107-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660612793",
+      "size": "1495",
+      "md5": "f4d54e7fc084e3a413613ed7c8044a39",
+      "crc32": "14afa91d",
+      "sha1": "fbbadc98fed4c4d2faeb480735764a1f500f3287",
+      "format": "JSON"
+    },
+    {
+      "name": "chesbayjournal-2022-08-15T21:19:45.986107-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660612798",
+      "size": "16230",
+      "md5": "b4cf8a48c0ced66d54d08fdd0a7300b6",
+      "crc32": "82754a34",
+      "sha1": "e7ccad6b4e8bf33b3e322fe63ecea8e5aa538bbb",
+      "format": "JSON"
+    },
+    {
+      "name": "chesbayjournal-2022-08-15T21:19:45.986107-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chesbayjournal-2022-08-15T21:19:45.986107-04:00.jpg",
+      "mtime": "1660613036",
+      "size": "10056",
+      "md5": "3e17a85025bff814f44cc0fc11ba0887",
+      "crc32": "76f5c283",
+      "sha1": "5cb7c09dfe3b999eddbeb72a01a0106bceab572d"
+    },
+    {
       "name": "chesbayjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b46d9dc3c4a515baef4bcd64a36e88f6deaed572",
-      "mtime": "1660571875",
-      "size": "81715",
-      "md5": "f0224cb27a5e833d6eed4f2008c2e898",
-      "crc32": "d989724c",
-      "sha1": "dcd95a2c1f2ee0c255a1f825ce6408131e0bef09",
+      "btih": "045023e5a35ac2d4c58362d35c6a91224ae17965",
+      "mtime": "1660613050",
+      "size": "83019",
+      "md5": "5e93f2199f0991d679e158698b21a923",
+      "crc32": "f01ba5b8",
+      "sha1": "526f3bf0e947ff6109d99bad8fb26e69237ec349",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chesbayjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9fd3ed51f0d9c1631f117030f7305350",
+      "md5": "242963ce86167052f80edfcf39060300",
       "summation": "md5"
     },
     {
       "name": "chesbayjournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660571540",
-      "size": "475136",
-      "md5": "d41a36ffa06d779d3dce7f52c22c827f",
-      "crc32": "990a499c",
-      "sha1": "f84bc44fa74aa1c1ef1b257a4b517de71cfdd5ee",
+      "mtime": "1660612802",
+      "size": "483328",
+      "md5": "2c1683944af30d692bc4bbd1cec41ab0",
+      "crc32": "8794fd1d",
+      "sha1": "756c5ce744b56c5fd9faac38ceee0541dde74aa6",
       "format": "Metadata"
     },
     {
@@ -3894,9 +3956,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 374,
-  "item_last_updated": 1660571875,
-  "item_size": 31393738,
+  "files_count": 380,
+  "item_last_updated": 1660613050,
+  "item_size": 31800968,
   "metadata": {
     "identifier": "chesbayjournal-2022",
     "collection": [
@@ -3913,10 +3975,10 @@
     "publicdate": "2022-07-09 03:56:13",
     "addeddate": "2022-07-09 03:56:13"
   },
-  "server": "ia902500.us.archive.org",
-  "uniq": 368037928,
+  "server": "ia802500.us.archive.org",
+  "uniq": 176165753,
   "workable_servers": [
-    "ia902500.us.archive.org",
-    "ia802500.us.archive.org"
+    "ia802500.us.archive.org",
+    "ia902500.us.archive.org"
   ]
 }

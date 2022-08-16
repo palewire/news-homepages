@@ -1,5 +1,5 @@
 {
-  "created": 1660554287,
+  "created": 1660612555,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/13/items/pajaropolitico-2022",
@@ -21456,31 +21456,93 @@
       "sha1": "05cd112ed6f714ba46c0ff48182cd0490705efd9"
     },
     {
+      "name": "pajaropolitico-2022-08-15T09:24:08.120534-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660573458",
+      "size": "22394",
+      "md5": "7468979499eb483978ea5b49f863c2f3",
+      "crc32": "c092343c",
+      "sha1": "1be21f713713ed276987f4c0c7345dd323c1dbcd",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-08-15T09:24:08.120534-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660573460",
+      "size": "21261",
+      "md5": "93c67143ca3747c8f8bd754d6d842708",
+      "crc32": "4491939a",
+      "sha1": "f7cc984262c2b5c2c5db5d2a1561d5d23bfcdfc1",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-08-15T09:24:08.120534-05:00.jpg",
+      "source": "original",
+      "mtime": "1660573455",
+      "size": "288012",
+      "md5": "250fbd4dd48adb6c0d64cb54d58833a6",
+      "crc32": "84fd6e02",
+      "sha1": "e02c5b38ec6ac46d73671646c2b9752eb2a57780",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pajaropolitico-2022-08-15T09:24:08.120534-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660573463",
+      "size": "1531",
+      "md5": "78c68efd5f4e72c8642158b00cbb0f38",
+      "crc32": "0a29d66f",
+      "sha1": "a9323270e52875993f90c8d36073e3444d40c026",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-08-15T09:24:08.120534-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660573465",
+      "size": "73883",
+      "md5": "378c0a7fb28d55afe87a1ba866f7f451",
+      "crc32": "b6470bf4",
+      "sha1": "d6fbe3d5ceaaac8ac1492675bcc2ff82ba679b53",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-08-15T09:24:08.120534-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pajaropolitico-2022-08-15T09:24:08.120534-05:00.jpg",
+      "mtime": "1660573694",
+      "size": "9671",
+      "md5": "dad4ea76cde65b7b872c836d3c7bdf32",
+      "crc32": "fc699031",
+      "sha1": "c2ee11aae4a1252a412d184f154a5b124491a8e4"
+    },
+    {
       "name": "pajaropolitico-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d3eb3dd9ee8b6d9110ac7c935498e125ac12b5bf",
-      "mtime": "1660526959",
-      "size": "444086",
-      "md5": "25cc2e6540f7850e4337ed3a1abb2304",
-      "crc32": "6f254583",
-      "sha1": "a5e30b6dfdb616398b8637a728d4601376b44ac1",
+      "btih": "b477afb6c26753b82bfcf32b4d0094fc8284ee5f",
+      "mtime": "1660573730",
+      "size": "445389",
+      "md5": "db2b0a639b91b35260c854b2da7f379f",
+      "crc32": "0551a189",
+      "sha1": "137784a924e84077b534d4e2be4f1b144af95034",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pajaropolitico-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c8c891a63e84ee235fa85604f4605457",
+      "md5": "78b5afef5b06b12b7bd2234e53487514",
       "summation": "md5"
     },
     {
       "name": "pajaropolitico-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660526816",
-      "size": "2396160",
-      "md5": "ee48d5e4c9480a2d59da37c33fc04445",
-      "crc32": "71ba73c8",
-      "sha1": "5980aa166ed6acf592612384d5e93e039802a465",
+      "mtime": "1660573469",
+      "size": "2404352",
+      "md5": "aa342da56c7f4b836c3a12930c0e42b6",
+      "crc32": "f16b5e06",
+      "sha1": "99d32ff089d463125b59bb02e77f45752f74e8ab",
       "format": "Metadata"
     },
     {
@@ -21494,9 +21556,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2050,
-  "item_last_updated": 1660526959,
-  "item_size": 161248519,
+  "files_count": 2056,
+  "item_last_updated": 1660573730,
+  "item_size": 161674766,
   "metadata": {
     "identifier": "pajaropolitico-2022",
     "collection": [
@@ -21513,10 +21575,10 @@
     "publicdate": "2022-04-15 20:41:09",
     "addeddate": "2022-04-15 20:41:09"
   },
-  "server": "ia902505.us.archive.org",
-  "uniq": 1122098430,
+  "server": "ia802505.us.archive.org",
+  "uniq": 383560030,
   "workable_servers": [
-    "ia902505.us.archive.org",
-    "ia802505.us.archive.org"
+    "ia802505.us.archive.org",
+    "ia902505.us.archive.org"
   ]
 }

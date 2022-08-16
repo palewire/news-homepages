@@ -1,5 +1,6 @@
 {
-  "created": 1660571898,
+  "conflict": 1660613474,
+  "created": 1660613474,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/15/items/defectormedia-2022",
@@ -4298,31 +4299,93 @@
       "sha1": "7a6488116285f916b19c786a80988068616a708d"
     },
     {
+      "name": "defectormedia-2022-08-15T21:21:07.234944-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660612870",
+      "size": "28505",
+      "md5": "1eb7667ac48d1f79cc555026085fee82",
+      "crc32": "08013b4e",
+      "sha1": "54bb1d366331b7a0a95e33e27d8cdce6032dac73",
+      "format": "JSON"
+    },
+    {
+      "name": "defectormedia-2022-08-15T21:21:07.234944-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660612872",
+      "size": "18945",
+      "md5": "05b1f989171c39098e71f57eb8fe921a",
+      "crc32": "f26abb7a",
+      "sha1": "06f1ed4c1c39523404c8a4335a4603414c42347d",
+      "format": "JSON"
+    },
+    {
+      "name": "defectormedia-2022-08-15T21:21:07.234944-04:00.jpg",
+      "source": "original",
+      "mtime": "1660612868",
+      "size": "237084",
+      "md5": "a8d5cd26d51f8805c02c172f2d3f2d83",
+      "crc32": "62529a70",
+      "sha1": "180d691270ab7c84911f018e5800122e06f887ed",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "defectormedia-2022-08-15T21:21:07.234944-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660612873",
+      "size": "1438",
+      "md5": "d450c457a772445995677c5648dbec0d",
+      "crc32": "fa761ea1",
+      "sha1": "7813bd8af9db2fc0b8628c5c497fe9d8aa42768c",
+      "format": "JSON"
+    },
+    {
+      "name": "defectormedia-2022-08-15T21:21:07.234944-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660612876",
+      "size": "14734",
+      "md5": "de8c059a9907d39cbbc03f9f2ea8d40c",
+      "crc32": "d3f27cd9",
+      "sha1": "6c290fd88bdf2ef7b3ecffa12af42319e12e8000",
+      "format": "JSON"
+    },
+    {
+      "name": "defectormedia-2022-08-15T21:21:07.234944-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "defectormedia-2022-08-15T21:21:07.234944-04:00.jpg",
+      "mtime": "1660613455",
+      "size": "10021",
+      "md5": "35134f97363169afdd853d3f75dffe71",
+      "crc32": "62d162bc",
+      "sha1": "795ae1fc7eb388ecc94ca926458a685fc8e98dcd"
+    },
+    {
       "name": "defectormedia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dc122dd4e455cc178ebeeaaccc40b4f5077b26c8",
-      "mtime": "1660571853",
-      "size": "90096",
-      "md5": "9e8d3aed0f80739bcfb744216b158f5a",
-      "crc32": "2b9fbd13",
-      "sha1": "311ba49c94edee29f7f45513d7f98316c4d24b19",
+      "btih": "3cb16005bc3ddc97c852814e000aba7f1c65021a",
+      "mtime": "1660613472",
+      "size": "91374",
+      "md5": "4df2e54fe392e292163e868db6102a95",
+      "crc32": "fcf0ef43",
+      "sha1": "7067e96a82db8d6c61bddc9188e86fedfee92c78",
       "format": "Archive BitTorrent"
     },
     {
       "name": "defectormedia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "15e74186780833327d60c9b275ed1dac",
+      "md5": "fba1389181c8a41e47ae75235b2f6e70",
       "summation": "md5"
     },
     {
       "name": "defectormedia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660571780",
-      "size": "520192",
-      "md5": "5b0485d9489c485afaac98803ca576ad",
-      "crc32": "74ccb3ae",
-      "sha1": "86358e93f9164f2361279ea7564b382ecea7c432",
+      "mtime": "1660612879",
+      "size": "524288",
+      "md5": "1ef35b4ce3703f0b962e62402c557ad2",
+      "crc32": "915c13a6",
+      "sha1": "b7129e398243970079980d1f6c364292ac822df2",
       "format": "Metadata"
     },
     {
@@ -4336,9 +4399,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 416,
-  "item_last_updated": 1660571853,
-  "item_size": 26357715,
+  "files_count": 422,
+  "item_last_updated": 1660613472,
+  "item_size": 26673816,
   "metadata": {
     "identifier": "defectormedia-2022",
     "collection": [
@@ -4355,10 +4418,29 @@
     "publicdate": "2022-07-04 20:47:28",
     "addeddate": "2022-07-04 20:47:28"
   },
-  "server": "ia801501.us.archive.org",
-  "uniq": 498937006,
+  "pending_tasks": true,
+  "server": "ia601501.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3370671371,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3370683448,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 990092226,
   "workable_servers": [
-    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1660533176,
+  "created": 1660593318,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/9/items/spokesmanreview-2022",
@@ -4286,31 +4286,93 @@
       "sha1": "974a126ee857ecda0d41e8b2fdd124c2be14367a"
     },
     {
+      "name": "spokesmanreview-2022-08-15T12:34:18.837274-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660592064",
+      "size": "1028",
+      "md5": "e30342ad05c596478f4ac8ce3acc80ee",
+      "crc32": "6ffadfa7",
+      "sha1": "f18ec5c996dcd3ae00049651d3a7016d16d7665b",
+      "format": "JSON"
+    },
+    {
+      "name": "spokesmanreview-2022-08-15T12:34:18.837274-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660592068",
+      "size": "49605",
+      "md5": "4c27392746d8642ed6adec5db053981b",
+      "crc32": "584e42bb",
+      "sha1": "397abc76e8e7ccfe864f70ed6285bdc6555728e6",
+      "format": "JSON"
+    },
+    {
+      "name": "spokesmanreview-2022-08-15T12:34:18.837274-07:00.jpg",
+      "source": "original",
+      "mtime": "1660592062",
+      "size": "273661",
+      "md5": "66db3274371112bc7c5a2d13278d4a22",
+      "crc32": "1a741021",
+      "sha1": "f7b6f8403784e323ab0fa7bae83ecdc41a96fd9b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "spokesmanreview-2022-08-15T12:34:18.837274-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660592072",
+      "size": "1486",
+      "md5": "7bff5814e21e28f5df79787deaada335",
+      "crc32": "8a6e2f16",
+      "sha1": "37df612bae550a6822c8ca83ce0529b928611b06",
+      "format": "JSON"
+    },
+    {
+      "name": "spokesmanreview-2022-08-15T12:34:18.837274-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660592077",
+      "size": "27273",
+      "md5": "708d1fc88d30d9bdbb4517ef1b54ca3c",
+      "crc32": "c8c9fef8",
+      "sha1": "f8ba06d312ecbd8ee08a12db01059082ff78622e",
+      "format": "JSON"
+    },
+    {
+      "name": "spokesmanreview-2022-08-15T12:34:18.837274-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "spokesmanreview-2022-08-15T12:34:18.837274-07:00.jpg",
+      "mtime": "1660593268",
+      "size": "9332",
+      "md5": "e597ad637137a72081048696959b1dc2",
+      "crc32": "9e5db198",
+      "sha1": "6af0ab9af6071fcafb74611b4da3d80aaf7750bf"
+    },
+    {
       "name": "spokesmanreview-2022_archive.torrent",
       "source": "metadata",
-      "btih": "79c07590b68b20a98de514d9118b68b2905bd0dd",
-      "mtime": "1660533166",
-      "size": "90864",
-      "md5": "22964cbb1f0262b1dea817ed05a854c4",
-      "crc32": "9841199f",
-      "sha1": "84b8f512b3ba08381e344e764525016546a0ed6e",
+      "btih": "b93fcd10156107b53af9c6fd581ee991b5e0bb04",
+      "mtime": "1660593274",
+      "size": "92172",
+      "md5": "959b89b13758c39e6b26c7c79876cf54",
+      "crc32": "6dcd3082",
+      "sha1": "da00e7807aab9ed13c252a63d7d6ae246dfe2a12",
       "format": "Archive BitTorrent"
     },
     {
       "name": "spokesmanreview-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ce5cb60e7ce6d941d7a39d4c6e5b779e",
+      "md5": "ffed0bf3b00ebdf3a60d920d9b51d9a1",
       "summation": "md5"
     },
     {
       "name": "spokesmanreview-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660533112",
-      "size": "520192",
-      "md5": "9e9f6067268439251c4c30c047bad0da",
-      "crc32": "3e5fa291",
-      "sha1": "4f030bca2dd173564de0efbbc86c22b44e02aa21",
+      "mtime": "1660592080",
+      "size": "524288",
+      "md5": "3c22ff8875f880b7065d1f55850099f6",
+      "crc32": "724ed33d",
+      "sha1": "1dcc2949428cc0c3bf70ff42b50ddac17645bc53",
       "format": "Metadata"
     },
     {
@@ -4324,9 +4386,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 415,
-  "item_last_updated": 1660533166,
-  "item_size": 33623492,
+  "files_count": 421,
+  "item_last_updated": 1660593274,
+  "item_size": 33991281,
   "metadata": {
     "identifier": "spokesmanreview-2022",
     "collection": [
@@ -4343,10 +4405,10 @@
     "publicdate": "2022-07-04 21:45:27",
     "addeddate": "2022-07-04 21:45:27"
   },
-  "server": "ia801404.us.archive.org",
-  "uniq": 1229095475,
+  "server": "ia601404.us.archive.org",
+  "uniq": 812231210,
   "workable_servers": [
-    "ia801404.us.archive.org",
-    "ia601404.us.archive.org"
+    "ia601404.us.archive.org",
+    "ia801404.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1660574027,
+  "created": 1660608768,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/23/items/wncn-2022",
@@ -10164,31 +10164,93 @@
       "sha1": "91f916b7ed3413d6559123795bea6f9d5faf38c6"
     },
     {
+      "name": "wncn-2022-08-15T15:43:24.481302-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660592608",
+      "size": "35003",
+      "md5": "32acd9dc728f71bb024972af5f263325",
+      "crc32": "260ede07",
+      "sha1": "b4cc6833a97eeb0c4550c75d216c92f2a3ae79b0",
+      "format": "JSON"
+    },
+    {
+      "name": "wncn-2022-08-15T15:43:24.481302-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660592609",
+      "size": "79733",
+      "md5": "16547749f68181b030f2305fd50f0bf3",
+      "crc32": "7f362e50",
+      "sha1": "42a999b245e9f521c328515a028faf0184e76c6d",
+      "format": "JSON"
+    },
+    {
+      "name": "wncn-2022-08-15T15:43:24.481302-04:00.jpg",
+      "source": "original",
+      "mtime": "1660592606",
+      "size": "287657",
+      "md5": "e2f863af4380ac7dc00a1228fd041536",
+      "crc32": "23f9275b",
+      "sha1": "678445b2e20cee18b6aa74ac3b4a2b485b4f746d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wncn-2022-08-15T15:43:24.481302-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660592612",
+      "size": "1450",
+      "md5": "1c0babeba3feb5907836ab28dc8d48b2",
+      "crc32": "c2fc582e",
+      "sha1": "2f6ec91067571f41670430dcec3e6bfaecaaa8cd",
+      "format": "JSON"
+    },
+    {
+      "name": "wncn-2022-08-15T15:43:24.481302-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660592613",
+      "size": "98",
+      "md5": "208f2edf52ea82fd7af6ea2ae12243fd",
+      "crc32": "b3ea82c7",
+      "sha1": "d81a68cae779bd03f5b58c94c584983484b10922",
+      "format": "JSON"
+    },
+    {
+      "name": "wncn-2022-08-15T15:43:24.481302-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wncn-2022-08-15T15:43:24.481302-04:00.jpg",
+      "mtime": "1660593422",
+      "size": "10150",
+      "md5": "64dbb4718585359ac3a5681f056f6347",
+      "crc32": "a3ccb7e4",
+      "sha1": "2cc72ddf26cc7894d49c7ee5caee5e10fabee0e8"
+    },
+    {
       "name": "wncn-2022_archive.torrent",
       "source": "metadata",
-      "btih": "78313c2df24609b1ad50bd31f1718fe3bab52cbd",
-      "mtime": "1660533667",
-      "size": "202882",
-      "md5": "0a6beb94b0fc363abaf7434a56952a1b",
-      "crc32": "92e314de",
-      "sha1": "e58be3d79d29526e03d4ada4e7b36d7feafe41ab",
+      "btih": "cc694c452657693b18c4b9965c7139417d55e441",
+      "mtime": "1660593436",
+      "size": "204123",
+      "md5": "7ba814cc2fbce9792242b7200517933d",
+      "crc32": "9b6cc83a",
+      "sha1": "a3794571b325b979088b324958e006ef1dbb818a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wncn-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f4fa5b8fe6315a945130dfc2426d5e79",
+      "md5": "40d12955a8e61afe8036b7ff65171c1a",
       "summation": "md5"
     },
     {
       "name": "wncn-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660533597",
-      "size": "1146880",
-      "md5": "c5d560a608360cbdd02d089a5a59cbed",
-      "crc32": "90daf340",
-      "sha1": "dcd37f3836ce2d6e80fe7516c893231de6a55a1f",
+      "mtime": "1660592616",
+      "size": "1155072",
+      "md5": "c0ef94ee1ed6b3a5a9ad44488854b6c1",
+      "crc32": "6a526ce5",
+      "sha1": "675460b8698e71c2846483b1df1b751e067c4959",
       "format": "Metadata"
     },
     {
@@ -10202,9 +10264,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 975,
-  "item_last_updated": 1660533667,
-  "item_size": 98983862,
+  "files_count": 981,
+  "item_last_updated": 1660593436,
+  "item_size": 99407386,
   "metadata": {
     "identifier": "wncn-2022",
     "collection": [
@@ -10222,11 +10284,7 @@
     "addeddate": "2022-03-26 14:58:09"
   },
   "server": "ia802503.us.archive.org",
-  "uniq": 1802085369,
-  "wncn-2022": {
-    "url": "https://www.cbs17.com/",
-    "job_id": "spn2-2c8cdb55d3da406f0e98db2f73bba8082fe46cfa"
-  },
+  "uniq": 1435360269,
   "workable_servers": [
     "ia802503.us.archive.org",
     "ia902503.us.archive.org"

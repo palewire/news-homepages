@@ -1,5 +1,5 @@
 {
-  "created": 1660533757,
+  "created": 1660593376,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/5/items/uvaldenews-2022",
@@ -3214,31 +3214,93 @@
       "sha1": "b98ab7020515999194f55d68d139e8ceba79f7d8"
     },
     {
+      "name": "uvaldenews-2022-08-15T14:41:09.812478-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660592477",
+      "size": "20774",
+      "md5": "3dda89e40489b1e9b33ae076ddb3e09b",
+      "crc32": "449b4176",
+      "sha1": "ac58b169ec10f7a089577b894dc0cb6b925ce6e7",
+      "format": "JSON"
+    },
+    {
+      "name": "uvaldenews-2022-08-15T14:41:09.812478-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660592479",
+      "size": "18019",
+      "md5": "066beb33359efee9658a330ac5a60187",
+      "crc32": "92305378",
+      "sha1": "ce1145887932ad49be19a34cda4c1b2b7e84c1d1",
+      "format": "JSON"
+    },
+    {
+      "name": "uvaldenews-2022-08-15T14:41:09.812478-05:00.jpg",
+      "source": "original",
+      "mtime": "1660592473",
+      "size": "229091",
+      "md5": "0ea1171d1798c0e19d5b48fa3d86e707",
+      "crc32": "90b7a43d",
+      "sha1": "c599caad49ed2180bd4eeb0794439df24484f070",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "uvaldenews-2022-08-15T14:41:09.812478-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660592480",
+      "size": "1549",
+      "md5": "9b1193f441560e188aa60aec9e99dba0",
+      "crc32": "73aea122",
+      "sha1": "52614e08fbe5b63e2cdcd7832ab9c4ff780e18ab",
+      "format": "JSON"
+    },
+    {
+      "name": "uvaldenews-2022-08-15T14:41:09.812478-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660592483",
+      "size": "83700",
+      "md5": "c116139a43763afe4d70265b3357d219",
+      "crc32": "14242975",
+      "sha1": "76df90fe371afe23f41098363f6fafb94dab996f",
+      "format": "JSON"
+    },
+    {
+      "name": "uvaldenews-2022-08-15T14:41:09.812478-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "uvaldenews-2022-08-15T14:41:09.812478-05:00.jpg",
+      "mtime": "1660593345",
+      "size": "10307",
+      "md5": "fc8ac310e6c0a6e4e3065941ddaf0cb7",
+      "crc32": "847bcb05",
+      "sha1": "afb570357dd5088a9cab82decb4f626bc7fd59bf"
+    },
+    {
       "name": "uvaldenews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c43e781d624ddb60d8dd0acf5e29e8db91d58d76",
-      "mtime": "1660533738",
-      "size": "66971",
-      "md5": "1130acef7220b662803db2ac7da69d0e",
-      "crc32": "288ca002",
-      "sha1": "ad721f663cb2b15a28e1e101180549af501dcb07",
+      "btih": "1ffbc8d707fce4b802d99c636cbffff0922d8325",
+      "mtime": "1660593349",
+      "size": "68231",
+      "md5": "a0d99804958f816ffcc0901aec901b1a",
+      "crc32": "2a67bb1b",
+      "sha1": "695845c56894834b718292fa4fc5f240520e41f9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "uvaldenews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e2d83c660c58310c5f919a416dd90cf3",
+      "md5": "4b3dd1cee444270c5962c2e73a085547",
       "summation": "md5"
     },
     {
       "name": "uvaldenews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660533517",
-      "size": "401408",
-      "md5": "5f6c4fea2b5154380c55704ba4bb7244",
-      "crc32": "3a22d32e",
-      "sha1": "e33d1200b4f3edbf6f595cd9ecac1d25449e0264",
+      "mtime": "1660592486",
+      "size": "409600",
+      "md5": "9ea90b1a87eef861e44ca37d7bd11a45",
+      "crc32": "51b1b533",
+      "sha1": "b3cb0df8cf3982686db11f0840b6e71d4b2280fd",
       "format": "Metadata"
     },
     {
@@ -3252,9 +3314,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 313,
-  "item_last_updated": 1660533738,
-  "item_size": 17997729,
+  "files_count": 319,
+  "item_last_updated": 1660593349,
+  "item_size": 18370621,
   "metadata": {
     "identifier": "uvaldenews-2022",
     "collection": [
@@ -3271,10 +3333,10 @@
     "publicdate": "2022-07-18 00:05:55",
     "addeddate": "2022-07-18 00:05:55"
   },
-  "server": "ia801403.us.archive.org",
-  "uniq": 213424783,
+  "server": "ia601403.us.archive.org",
+  "uniq": 1407050520,
   "workable_servers": [
-    "ia801403.us.archive.org",
-    "ia601403.us.archive.org"
+    "ia601403.us.archive.org",
+    "ia801403.us.archive.org"
   ]
 }

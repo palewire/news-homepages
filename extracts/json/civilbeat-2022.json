@@ -1,6 +1,5 @@
 {
-  "conflict": 1660571887,
-  "created": 1660571887,
+  "created": 1660612977,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/20/items/civilbeat-2022",
@@ -3879,31 +3878,93 @@
       "sha1": "c8e9356713dbf8984c54bebea852f8f64162c459"
     },
     {
+      "name": "civilbeat-2022-08-15T15:19:30.758135-10:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660612775",
+      "size": "32620",
+      "md5": "542235620452a41f5a156fc1089b4ee7",
+      "crc32": "56a13eef",
+      "sha1": "b4f39680a799ec737d20079302b092b948378ca9",
+      "format": "JSON"
+    },
+    {
+      "name": "civilbeat-2022-08-15T15:19:30.758135-10:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660612777",
+      "size": "58149",
+      "md5": "f57ceb8a6897f88618ad5bfe8484b7b5",
+      "crc32": "42e6ee63",
+      "sha1": "6f3637d70159e66565094a0f7568ff0c71465a6a",
+      "format": "JSON"
+    },
+    {
+      "name": "civilbeat-2022-08-15T15:19:30.758135-10:00.jpg",
+      "source": "original",
+      "mtime": "1660612774",
+      "size": "251289",
+      "md5": "8c54c1e6934f9512c5d6efa7325ef5f5",
+      "crc32": "12eee61c",
+      "sha1": "da53e4f70f108124712218836aeb91e387fca754",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "civilbeat-2022-08-15T15:19:30.758135-10:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660612778",
+      "size": "1485",
+      "md5": "999e8144cf0048e1cb4c25c33227d3db",
+      "crc32": "5c005673",
+      "sha1": "40ab0dee058e04f29ac8821c13713b870fdb74cd",
+      "format": "JSON"
+    },
+    {
+      "name": "civilbeat-2022-08-15T15:19:30.758135-10:00.wayback.json",
+      "source": "original",
+      "mtime": "1660612780",
+      "size": "18724",
+      "md5": "42320392157533e05b0f4e57d4708d5b",
+      "crc32": "7ecb20eb",
+      "sha1": "d323c39ac3ef578fc8c7af25ddc8d83218bafb77",
+      "format": "JSON"
+    },
+    {
+      "name": "civilbeat-2022-08-15T15:19:30.758135-10:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "civilbeat-2022-08-15T15:19:30.758135-10:00.jpg",
+      "mtime": "1660612956",
+      "size": "9440",
+      "md5": "1093bf8c7d3e893b7f18aad0a1868924",
+      "crc32": "3d301c75",
+      "sha1": "258b58640746599e767205a6797028390b19cd25"
+    },
+    {
       "name": "civilbeat-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ff3ccc46223db0adc066f3c1fb89bdee45101ffb",
-      "mtime": "1660571883",
-      "size": "80085",
-      "md5": "812fed333f6916127f37b2b56825f72d",
-      "crc32": "0b62972d",
-      "sha1": "e0b2566473f67d0b23e91a07d8014c53765c63d6",
+      "btih": "ccf189d58f17e80b76d81367b756006bc12990cd",
+      "mtime": "1660612964",
+      "size": "81358",
+      "md5": "078becfc5cc2538463fa93717167a541",
+      "crc32": "d2db4174",
+      "sha1": "cb538126f80bb1ae10992641b6a8c7d625d18a43",
       "format": "Archive BitTorrent"
     },
     {
       "name": "civilbeat-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "eb123c0676cd43509506e3142b747d4c",
+      "md5": "4633c8c3d3a98f5e04f92ac20874e8eb",
       "summation": "md5"
     },
     {
       "name": "civilbeat-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660571568",
-      "size": "471040",
-      "md5": "af5de8c89caa33581b135552739b68e5",
-      "crc32": "041494b5",
-      "sha1": "46644db9d43e07c16a8d204d8a6f1a4454414809",
+      "mtime": "1660612785",
+      "size": "475136",
+      "md5": "1bf0edb9716da8cb83907af612364fbb",
+      "crc32": "bb4f002f",
+      "sha1": "c82c71580caf57f4eb067381671e78640fc03071",
       "format": "Metadata"
     },
     {
@@ -3917,9 +3978,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 376,
-  "item_last_updated": 1660571883,
-  "item_size": 27754505,
+  "files_count": 382,
+  "item_last_updated": 1660612964,
+  "item_size": 28131581,
   "metadata": {
     "identifier": "civilbeat-2022",
     "collection": [
@@ -3936,29 +3997,10 @@
     "publicdate": "2022-07-09 03:57:02",
     "addeddate": "2022-07-09 03:57:02"
   },
-  "pending_tasks": true,
-  "server": "ia601405.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3369810313,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3369816441,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 792409360,
+  "server": "ia801405.us.archive.org",
+  "uniq": 205704662,
   "workable_servers": [
+    "ia801405.us.archive.org",
     "ia601405.us.archive.org"
   ]
 }

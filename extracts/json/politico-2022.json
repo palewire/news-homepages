@@ -1,5 +1,5 @@
 {
-  "created": 1660573270,
+  "created": 1660614092,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/14/items/politico-2022",
@@ -5036,31 +5036,93 @@
       "sha1": "8a942a16b482e4f609c97e74cf32759099c68a13"
     },
     {
+      "name": "politico-2022-08-15T16:08:33.230220-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660594119",
+      "size": "64677",
+      "md5": "aad9cb21ac024ff88f43dd1c9b3b8a71",
+      "crc32": "f50b55d3",
+      "sha1": "c4c89ae9b89a529d4f81bd65d5c614873fe174ed",
+      "format": "JSON"
+    },
+    {
+      "name": "politico-2022-08-15T16:08:33.230220-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660594121",
+      "size": "50093",
+      "md5": "18605bec3d0a07e0e34d62ef1bf3337a",
+      "crc32": "059770ea",
+      "sha1": "4a360c44d81dda9dad9c80a3c95e4eaccf72125d",
+      "format": "JSON"
+    },
+    {
+      "name": "politico-2022-08-15T16:08:33.230220-04:00.jpg",
+      "source": "original",
+      "mtime": "1660594117",
+      "size": "243986",
+      "md5": "f6118800cf0e19b0f8ab118c03d1a24b",
+      "crc32": "dc45a121",
+      "sha1": "3efaf80fc066fc974606de3a3555a23ed80d388a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "politico-2022-08-15T16:08:33.230220-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660594123",
+      "size": "1477",
+      "md5": "d8c0d330e0bad275dedc6d7ac4f8f9b1",
+      "crc32": "32cbab0f",
+      "sha1": "5fc52acb6feb7025b01eb3bee93e6b9f4a215b97",
+      "format": "JSON"
+    },
+    {
+      "name": "politico-2022-08-15T16:08:33.230220-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660594124",
+      "size": "230",
+      "md5": "f7cc1469e7944ab44b8c309a480d811c",
+      "crc32": "232ac2b2",
+      "sha1": "f59b03916c893912c447e16586a0e2e1810ae5b4",
+      "format": "JSON"
+    },
+    {
+      "name": "politico-2022-08-15T16:08:33.230220-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "politico-2022-08-15T16:08:33.230220-04:00.jpg",
+      "mtime": "1660594650",
+      "size": "9325",
+      "md5": "f9008afd3fd731de0df3913d3073b836",
+      "crc32": "eeb3c345",
+      "sha1": "749d508f9c4cd455613759717bcf3bab14fa329d"
+    },
+    {
       "name": "politico-2022_archive.torrent",
       "source": "metadata",
-      "btih": "80101d7a710fba3bf859d2b80986f2a194c8b093",
-      "mtime": "1660545815",
-      "size": "103025",
-      "md5": "1ce30a24d096c8be4a2ecd61d03124d2",
-      "crc32": "c1126d51",
-      "sha1": "91d796c5f61256a37a6382cfc0a62dc5d22fb69e",
+      "btih": "0b8f61d93cfab042b9a6c19a30e6a81df6994532",
+      "mtime": "1660594663",
+      "size": "104270",
+      "md5": "49a0070f10d0b57976835bb20c0f583a",
+      "crc32": "9fb8a599",
+      "sha1": "0757ebc409fad0eeb86c577deb2752661665373f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "politico-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fe69639374769bd38402f3696fcf46b9",
+      "md5": "ea3f5d59007d0a62d1d95799867ab44e",
       "summation": "md5"
     },
     {
       "name": "politico-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660545562",
-      "size": "598016",
-      "md5": "571325887596a4f333a0edfcff33fa3c",
-      "crc32": "9bb33b07",
-      "sha1": "03e66357d44faac7c9337d93a0156400ccf4ffbc",
+      "mtime": "1660594129",
+      "size": "602112",
+      "md5": "4a55aa02441ba5bf9563ec7ed08beef2",
+      "crc32": "74c0ea00",
+      "sha1": "90118f4afbac50a7f6514955fc39ea59f4ee2428",
       "format": "Metadata"
     },
     {
@@ -5074,9 +5136,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 486,
-  "item_last_updated": 1660545815,
-  "item_size": 42145949,
+  "files_count": 492,
+  "item_last_updated": 1660594663,
+  "item_size": 42521078,
   "metadata": {
     "identifier": "politico-2022",
     "collection": [
@@ -5096,71 +5158,16 @@
   "politico-2022": {
     "url": "https://www.politico.com/",
     "job_id": "spn2-27893f7926ad32d1dca6c73d27b4ff153faa497f",
-    "status": "success",
-    "counters": {
-      "embeds": 220,
-      "outlinks": 70
-    },
-    "resources": [
-      "https://www.politico.com/",
-      "https://static.chartbeat.com/js/chartbeat_mab.js",
-      "https://static.politico.com/resource/0000017e-7fd1-d4e5-adfe-7ff9f1280001/styleguide/assets/battletoads/css/shared--base.js.a721a78317a0f65befbae0d80a1cf867.gz.css",
-      "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
-      "https://cdn.cookielaw.org/opt-out/otCCPAiab.js",
-      "https://static.politico.com/resource/0000017e-7fd1-d4e5-adfe-7ff9f1280001/styleguide/assets/battletoads/css/shared--header.js.fc4b5ba636efcf3dd3e7be40bc86dc1f.gz.css",
-      "https://static.politico.com/resource/0000017e-7fd1-d4e5-adfe-7ff9f1280001/styleguide/assets/battletoads/css/core--homepage.js.5ac841cfb7e7b0eff8baf733d54aeb84.gz.css",
-      "https://use.typekit.net/zmr6qqx.css",
-      "https://static.politico.com/resource/0000017e-7fd1-d4e5-adfe-7ff9f1280001/styleguide/assets/battletoads/css/shared--utility.js.ae674724dac481b43c3015f787aa93e9.gz.css",
-      "https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js",
-      "https://static.politico.com/resource/0000017e-7fd1-d4e5-adfe-7ff9f1280001/styleguide/assets/battletoads/css/shared--footer.js.32c02709d09d2108cd4f315c846e666d.gz.css",
-      "https://mab.chartbeat.com/mab_strategy/headline_testing/get_strategy/?host=politico.com&domain=politico.com&path=/",
-      "https://p.typekit.net/p.css?s=1&k=zmr6qqx&ht=tk&f=9882.9883.9884.9885.9886.9887.9898.9899.32226.32227.32230.32231&a=660350&app=typekit&e=css",
-      "https://cdn.cookielaw.org/consent/c3eecc09-e5d5-4a23-9b7c-e441668791b9/c3eecc09-e5d5-4a23-9b7c-e441668791b9.json",
-      "https://static.politico.com/resource/0000017e-7fd1-d4e5-adfe-7ff9f1280001/styleguide/assets/js.min/preload.30656cb71ce4d1821ef317118aa86ed9.gz.js",
-      "https://static.politico.com/resource/0000017e-7fd1-d4e5-adfe-7ff9f1280001/styleguide/assets/js.min/core-header.min.1886efdfaa09be872aaee4fa203b7078.gz.js",
-      "https://www.politico.com/dims4/default/fdbba84/2147483647/resize/411x/quality/90/?url=https://static.politico.com/38/90/f4305e4d435a8c0aaa5682664ebd/trump-investigations-fbi-05747.jpg",
-      "https://www.politico.com/dims4/default/e0fdd89/2147483647/resize/856x/quality/90/?url=https://static.politico.com/ad/1b/93c6b23642b8b37cd2add2e80b70/britain-politics-72081.jpg",
-      "https://www.politico.com/dims4/default/214aed7/2147483647/resize/411x/quality/90/?url=https://static.politico.com/fc/2b/d5a92181496d8e45db2ef75fbd80/biden-vacation-08610.jpg",
-      "https://www.politico.com/dims4/default/f8f55d9/2147483647/resize/411x/quality/90/?url=https://static.politico.com/c8/dd/dbacbde6457e8df38c538e8f5096/biaggifolder.jpg",
-      "https://static.politico.com/b2/74/addd33374e7eb1d4ac4a4694f25c/apple2.png",
-      "https://www.politico.com/dims4/default/f7c4fdc/2147483647/resize/276x/quality/90/?url=https://static.politico.com/f4/6a/d7c36caa40ef8f63424207468ca3/ap22226548827091.jpg",
-      "https://www.politico.com/dims4/default/7e55a6d/2147483647/resize/856x/quality/90/?url=https://static.politico.com/16/9b/15e4dec140d4b6a436fbabfdc286/fbi-office-threat-30547.jpg",
-      "https://use.typekit.net/af/19a2f0/00000000000000003b9b0ac7/27/l?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n7&v=3",
-      "https://www.politico.com/dims4/default/a1a6981/2147483647/resize/276x/quality/90/?url=https://static.politico.com/92/ab/3400eaa54676aed7d695f35c8c02/southwest-airlines-flights-89856.jpg",
-      "https://www.politico.com/images/website/shared/template/trans-3by2-placeholder.png",
-      "https://static.politico.com/resource/0000017e-7fd1-d4e5-adfe-7ff9f1280001/styleguide/assets/js.min/scriptloader.24265122d88b22372178336e9b3370fb.gz.js",
-      "https://use.typekit.net/af/cb6232/00000000000000003b9b0ad8/27/l?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n4&v=3",
-      "https://static.politico.com/resource/0000017e-7fd1-d4e5-adfe-7ff9f1280001/styleguide/assets/js.min/video-tracking.bf53a225c0867cd0d8eede1bacbfff48.gz.js",
-      "https://static.politico.com/c5/3e/61932970404b9ab6df29978461df/spacing-all-black-google.png",
-      "https://www.politico.com/dims4/default/ba4c25b/2147483647/resize/276x/quality/90/?url=https://static.politico.com/a1/19/1f4cf459473faac1676ab6fd15ae/liz-cheney-simi-valley-61786.jpg",
-      "https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location",
-      "https://www.politico.com/dims4/default/b3466b5/2147483647/resize/1160x/quality/90/?url=https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/16120446-efed-4952-b563-21087b244cf8/aa5a716e-4e52-451f-b686-d8af490fae04/1280x720/match/image.jpg",
-      "https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194",
-      "https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location/dnsfeed",
-      "https://www.politico.com/dims4/default/961708c/2147483647/resize/856x/quality/90/?url=https://static.politico.com/c5/c8/75f5b1484bd1a54a8942db8c06ca/https-delivery.gettyimages.com/downloads/1359052091",
-      "https://www.npttech.com/advertising.js",
-      "https://static.politico.com/ac/aa/9226248b44f0846616bfac182b22/logo-politicopro-200x2.png",
-      "https://static.politico.com/a3/79/cc6bfb1640ea88ebc026a7cf6ff4/securedrop-logo.jpg",
-      "https://www.politico.com/dims4/default/eac412d/2147483647/resize/856x/quality/90/?url=https://static.politico.com/0b/cc/34c6a6fd495d9a9282bbc0e56f62/trump-fbi-23643.jpg",
-      "https://use.typekit.net/af/321cc2/00000000000000003b9b0d2b/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3",
-      "https://www.politico.com/dims4/default/730ee32/2147483647/resize/276x/quality/90/?url=https://static.politico.com/68/05/02f3f7624a3eb238415e313d438d/https-delivery.gettyimages.com/downloads/1403317760",
-      "https://static.politico.com/resource/0000017e-7fd1-d4e5-adfe-7ff9f1280001/styleguide/assets/fonts/battletoads/icons/icons.869b5034419ad4b4a4e566e36e72cc10.woff2",
-      "https://www.politico.com/dims4/default/dfe4e6d/2147483647/resize/276x/quality/90/?url=https://static.politico.com/1f/eb/693e4c554ae2ab74866e07056282/220812-donald-trump-ap.jpg",
-      "https://www.politico.com/dims4/default/f4ae29f/2147483647/resize/276x/quality/90/?url=https://static.politico.com/3d/91/8e1f955443d78671d1a523729ddd/screen-shot-2022-08-12-at-4.06.32 PM.png",
-      "https://www.politico.com/dims4/default/31e3e16/2147483647/resize/856x/quality/90/?url=https://static.politico.com/a8/7f/3e88edd9434d9a5462d6afc11aee/election-forecast-newsletters.gif",
-      "https://www.politico.com/dims4/default/3230d48/2147483647/resize/856x/quality/90/?url=https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/91ebafcb-b7e7-4e78-89ee-f28689166305/015a9fab-2723-4c17-b6a2-dba5fa5dae4d/1280x720/match/image.jpg",
-      "https://www.politico.com/dims4/default/12f6c2a/2147483647/resize/276x/quality/90/?url=https://static.politico.com/50/6c/267f3ea840898fbf57091da7d238/https-delivery.gettyimages.com/downloads/1183445095"
-    ],
-    "http_status": 200,
-    "timestamp": "20220815041358",
-    "original_url": "https://www.politico.com/",
-    "outlinks": [],
-    "duration_sec": 23.828
+    "status": "error",
+    "status_ext": "error:job-failed",
+    "duration_sec": 0.623,
+    "resources": [],
+    "message": "Job failed."
   },
-  "server": "ia802500.us.archive.org",
-  "uniq": 150045867,
+  "server": "ia902500.us.archive.org",
+  "uniq": 1328777431,
   "workable_servers": [
-    "ia802500.us.archive.org",
-    "ia902500.us.archive.org"
+    "ia902500.us.archive.org",
+    "ia802500.us.archive.org"
   ]
 }

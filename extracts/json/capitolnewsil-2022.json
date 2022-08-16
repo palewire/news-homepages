@@ -1,5 +1,5 @@
 {
-  "created": 1660571654,
+  "created": 1660612978,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/12/items/capitolnewsil-2022",
@@ -3878,31 +3878,93 @@
       "sha1": "fdae43cf0c495312d1e6920f0c24e13281a853dd"
     },
     {
+      "name": "capitolnewsil-2022-08-15T20:17:23.081380-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660612647",
+      "size": "9720",
+      "md5": "2b7169d743969e2157061dc1ede2189e",
+      "crc32": "5e39081f",
+      "sha1": "ac07cc5bc73b6228df528cfefc5c74cf60599c0f",
+      "format": "JSON"
+    },
+    {
+      "name": "capitolnewsil-2022-08-15T20:17:23.081380-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660612648",
+      "size": "7278",
+      "md5": "4fc6dfe0864394f12e48f3887fa02a49",
+      "crc32": "9614cce1",
+      "sha1": "29bfce66f8faa47f916784a7ac6f69d4a945deed",
+      "format": "JSON"
+    },
+    {
+      "name": "capitolnewsil-2022-08-15T20:17:23.081380-05:00.jpg",
+      "source": "original",
+      "mtime": "1660612645",
+      "size": "322554",
+      "md5": "90c29e8e8d5ee07b48b6a87521fe2a65",
+      "crc32": "a1a21220",
+      "sha1": "e15d1d9dd7dcbb3e0597346280162ae0e48b5f46",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "capitolnewsil-2022-08-15T20:17:23.081380-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660612650",
+      "size": "1576",
+      "md5": "58ebfcffc9834eeb372993b930e84bfd",
+      "crc32": "6c476b32",
+      "sha1": "7a9b295db729163fb2ae0e6fbb987d588848185c",
+      "format": "JSON"
+    },
+    {
+      "name": "capitolnewsil-2022-08-15T20:17:23.081380-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660612652",
+      "size": "13354",
+      "md5": "d589167d0e8364858e36cbd95ea88b72",
+      "crc32": "df2614f5",
+      "sha1": "4f1880e3df6c921933a6bdca9e319f0150485c14",
+      "format": "JSON"
+    },
+    {
+      "name": "capitolnewsil-2022-08-15T20:17:23.081380-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "capitolnewsil-2022-08-15T20:17:23.081380-05:00.jpg",
+      "mtime": "1660612924",
+      "size": "10273",
+      "md5": "514c98956052eaaa86f526f4f43961a3",
+      "crc32": "7a516bc3",
+      "sha1": "ec1ac7d94c2225a2a87dd4f3f647d98052237f68"
+    },
+    {
       "name": "capitolnewsil-2022_archive.torrent",
       "source": "metadata",
-      "btih": "84185744797da7eb73263ac75721eb762e9280ac",
-      "mtime": "1660571646",
-      "size": "81514",
-      "md5": "17d755eca1a7c11c36d549043eb144d7",
-      "crc32": "ab0134ef",
-      "sha1": "7840684bc226d2f1dc4ac901ac9f48625aa2ee74",
+      "btih": "24c4ede4c7bb8290ce2362d403bd080ca178b4c2",
+      "mtime": "1660612949",
+      "size": "82810",
+      "md5": "593cb8387631cf91a044a44029fa37ce",
+      "crc32": "76f903dd",
+      "sha1": "3f1021811ff6142edecaa099136690a3ff5b805b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "capitolnewsil-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "91091eb50b0632286cd6ec0fc7b0b603",
+      "md5": "41bb631c16c12e63ef756bfe9046915a",
       "summation": "md5"
     },
     {
       "name": "capitolnewsil-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660571502",
-      "size": "475136",
-      "md5": "abcfd20438586cabb308117faf9e3ee0",
-      "crc32": "cb8b9185",
-      "sha1": "3caac909faa9c5ae4ca10346df4b1f46c445c351",
+      "mtime": "1660612657",
+      "size": "483328",
+      "md5": "7f26a7141556224f1c0c64ece7fb5f72",
+      "crc32": "1129eedb",
+      "sha1": "2f9f88448ef3c9b2eb68d4a712e3065cfd9a7f7d",
       "format": "Metadata"
     },
     {
@@ -3916,9 +3978,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 376,
-  "item_last_updated": 1660571646,
-  "item_size": 27008422,
+  "files_count": 382,
+  "item_last_updated": 1660612949,
+  "item_size": 27382665,
   "metadata": {
     "identifier": "capitolnewsil-2022",
     "collection": [
@@ -3935,10 +3997,10 @@
     "publicdate": "2022-07-09 03:56:30",
     "addeddate": "2022-07-09 03:56:30"
   },
-  "server": "ia601505.us.archive.org",
-  "uniq": 1786156836,
+  "server": "ia801505.us.archive.org",
+  "uniq": 355898146,
   "workable_servers": [
-    "ia601505.us.archive.org",
-    "ia801505.us.archive.org"
+    "ia801505.us.archive.org",
+    "ia601505.us.archive.org"
   ]
 }

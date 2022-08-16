@@ -1,5 +1,5 @@
 {
-  "created": 1660574001,
+  "created": 1660614720,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/29/items/wfaa-2022",
@@ -3030,31 +3030,93 @@
       "sha1": "f85cf8d3cc7bb1632527e473e36677e3790a76c2"
     },
     {
+      "name": "wfaa-2022-08-15T15:22:40.050244-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660594970",
+      "size": "6735",
+      "md5": "033b3dca3f8dd6b18eb9bd9479e1928d",
+      "crc32": "22b0e7aa",
+      "sha1": "03d2af4960e7958ae8195f77635ab5875129b6de",
+      "format": "JSON"
+    },
+    {
+      "name": "wfaa-2022-08-15T15:22:40.050244-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660594972",
+      "size": "75268",
+      "md5": "5c6efbfd2913c61e2af974592f435af2",
+      "crc32": "f496240f",
+      "sha1": "0575be5c17be5f73bd741579bcee513a845a6ec5",
+      "format": "JSON"
+    },
+    {
+      "name": "wfaa-2022-08-15T15:22:40.050244-05:00.jpg",
+      "source": "original",
+      "mtime": "1660594968",
+      "size": "257517",
+      "md5": "48abdd3b1a38c6aaa4ee3282d9c1fef3",
+      "crc32": "c5ade548",
+      "sha1": "7326106147274ed6238ab5b0bd8b1b3362460b3b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wfaa-2022-08-15T15:22:40.050244-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660594973",
+      "size": "1441",
+      "md5": "819803fb578e64fc8679fc3af8dc69a3",
+      "crc32": "80460056",
+      "sha1": "79683d22bfbe7db8a9ca0f91f150869e31c33bfb",
+      "format": "JSON"
+    },
+    {
+      "name": "wfaa-2022-08-15T15:22:40.050244-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660594975",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "wfaa-2022-08-15T15:22:40.050244-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wfaa-2022-08-15T15:22:40.050244-05:00.jpg",
+      "mtime": "1660595562",
+      "size": "9711",
+      "md5": "41ca05fd2863fb29a0bdf4ec5ec07ee9",
+      "crc32": "f8b05b44",
+      "sha1": "f7abd610d3b024e84dba0934876069c0577766c0"
+    },
+    {
       "name": "wfaa-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2ee566b5c35fff951457a5bb8626135b32541d5e",
-      "mtime": "1660546489",
-      "size": "61377",
-      "md5": "2a07298f2a08558f467e98152a882df2",
-      "crc32": "fcd381a6",
-      "sha1": "b9db0a96765bec9df7a9a16f8161cf5d9f01d596",
+      "btih": "3852dc4bbcd7769d3b22979fa7801c6c688d3d91",
+      "mtime": "1660595566",
+      "size": "62617",
+      "md5": "b323edbc55fb449de2e9ad3cc3b03a85",
+      "crc32": "cf8b1ad2",
+      "sha1": "b472bbd5bb8b7908a04b7cb1ee391666d612cafa",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wfaa-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fa4d05e5c1667ef4ff63129ef32d9791",
+      "md5": "79eda8cfd900d0892a33ed3a9d020ba1",
       "summation": "md5"
     },
     {
       "name": "wfaa-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660546346",
-      "size": "376832",
-      "md5": "d00735dd91f80b42ce7c2af50079dc71",
-      "crc32": "e268ebf6",
-      "sha1": "a0992a62e7b3384ca4edf4bfe9cde6561bfb9d3c",
+      "mtime": "1660594982",
+      "size": "385024",
+      "md5": "5cef57f76c1ed6cd8eaf932ec2d24c75",
+      "crc32": "0dece12d",
+      "sha1": "f98622df33118f199b89db93ec2ec9ef338d926a",
       "format": "Metadata"
     },
     {
@@ -3068,9 +3130,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 295,
-  "item_last_updated": 1660546489,
-  "item_size": 20849133,
+  "files_count": 301,
+  "item_last_updated": 1660595566,
+  "item_size": 21209439,
   "metadata": {
     "identifier": "wfaa-2022",
     "collection": [
@@ -3087,15 +3149,15 @@
     "publicdate": "2022-07-18 00:06:04",
     "addeddate": "2022-07-18 00:06:04"
   },
-  "server": "ia601500.us.archive.org",
-  "uniq": 1898791905,
+  "server": "ia801500.us.archive.org",
+  "uniq": 415227365,
   "wfaa-2022": {
     "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
     "status": "error",
     "status_ext": "error:user-session-limit"
   },
   "workable_servers": [
-    "ia601500.us.archive.org",
-    "ia801500.us.archive.org"
+    "ia801500.us.archive.org",
+    "ia601500.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1660573979,
+  "created": 1660608757,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/3/items/wausauherald-2022",
@@ -10018,31 +10018,93 @@
       "sha1": "fb57b30217eceaed515bcb77e230cdd7aa34f141"
     },
     {
+      "name": "wausauherald-2022-08-15T15:21:21.621108-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660594891",
+      "size": "27283",
+      "md5": "d738746296f6ded3a09ec55a835c2697",
+      "crc32": "5c38bbd7",
+      "sha1": "01f6947c1abcf0c5c2c2fe4fe69a3abfdf806b91",
+      "format": "JSON"
+    },
+    {
+      "name": "wausauherald-2022-08-15T15:21:21.621108-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660594893",
+      "size": "36997",
+      "md5": "b9d346d65c646a119c2c36e32e43cf7d",
+      "crc32": "4eae847e",
+      "sha1": "47deaaaea2660c3b2daec7ac48580ca90f65b4cd",
+      "format": "JSON"
+    },
+    {
+      "name": "wausauherald-2022-08-15T15:21:21.621108-05:00.jpg",
+      "source": "original",
+      "mtime": "1660594888",
+      "size": "298591",
+      "md5": "9c0fa84a51c88ef331b4df7c2426fd14",
+      "crc32": "74506367",
+      "sha1": "ccd271ca007e0162df7fcaefcedcc655ea7b73e2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wausauherald-2022-08-15T15:21:21.621108-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660594894",
+      "size": "1558",
+      "md5": "3acb98c082cc51afd0c69573b58a44d2",
+      "crc32": "41b67a85",
+      "sha1": "8a2192f67c34ef0269bfa72f88a612a54eb62d9b",
+      "format": "JSON"
+    },
+    {
+      "name": "wausauherald-2022-08-15T15:21:21.621108-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660594896",
+      "size": "88174",
+      "md5": "164fecf74bff1abf077cbf782b4a6383",
+      "crc32": "33a435bd",
+      "sha1": "b72613110513a369dfae18b15714f9a41445df52",
+      "format": "JSON"
+    },
+    {
+      "name": "wausauherald-2022-08-15T15:21:21.621108-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wausauherald-2022-08-15T15:21:21.621108-05:00.jpg",
+      "mtime": "1660595856",
+      "size": "9809",
+      "md5": "6cbc8bed22a0b5ea6428c0015d2b7754",
+      "crc32": "5281cd67",
+      "sha1": "39f86168da7e71b33cc51619f1595dd4f8680f4f"
+    },
+    {
       "name": "wausauherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d01ea44f958abe0ba4cf31b27134ac9de8adc72a",
-      "mtime": "1660546443",
-      "size": "206505",
-      "md5": "f8c64823bb3163137b3b1e3986b19da6",
-      "crc32": "6965da65",
-      "sha1": "0f2d676511324f245bc9f47243d896d300d4794a",
+      "btih": "c00bef9590833f4113647aad23390657cb079ea6",
+      "mtime": "1660595895",
+      "size": "207796",
+      "md5": "a4b4f72f4e5b4599a80400f3e4ffe836",
+      "crc32": "1b7e96ef",
+      "sha1": "519c619b701fd07007a93d7864ce8d5d392e7b80",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wausauherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4d833908dbe4751670673d9e388d6423",
+      "md5": "19f71c7058521b859e2e70abf216d545",
       "summation": "md5"
     },
     {
       "name": "wausauherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660546282",
-      "size": "1130496",
-      "md5": "e427d3877b3b51a340d6d3836d9be36c",
-      "crc32": "894e0e4c",
-      "sha1": "0dc4486be792272fc36e6ae2aa4cee1e646e2e05",
+      "mtime": "1660594900",
+      "size": "1138688",
+      "md5": "d0cd43e2188931d7e3504b8e1615fdd6",
+      "crc32": "72b60d15",
+      "sha1": "ec4e8e302ca9ea7865b92fa87794141349062f5f",
       "format": "Metadata"
     },
     {
@@ -10056,9 +10118,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 960,
-  "item_last_updated": 1660546443,
-  "item_size": 78994624,
+  "files_count": 966,
+  "item_last_updated": 1660595895,
+  "item_size": 79466519,
   "metadata": {
     "identifier": "wausauherald-2022",
     "collection": [
@@ -10076,15 +10138,7 @@
     "addeddate": "2022-03-23 23:07:49"
   },
   "server": "ia802505.us.archive.org",
-  "uniq": 865415905,
-  "wausauherald-2022": {
-    "url": "https://www.wausaudailyherald.com/",
-    "job_id": "spn2-615e2673877958fc7e52ed6c4446ad97f857b741",
-    "status_ext": "error:job-failed",
-    "resources": [],
-    "message": "Job failed",
-    "status": "error"
-  },
+  "uniq": 522918508,
   "workable_servers": [
     "ia802505.us.archive.org",
     "ia902505.us.archive.org"

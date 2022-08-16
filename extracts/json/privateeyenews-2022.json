@@ -1,5 +1,5 @@
 {
-  "created": 1660573312,
+  "created": 1660573832,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/12/items/privateeyenews-2022",
@@ -1256,31 +1256,93 @@
       "sha1": "8515ead54b844da218d74351e0a5fc3197e1562f"
     },
     {
+      "name": "privateeyenews-2022-08-15T15:26:37.961430+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660573600",
+      "size": "26936",
+      "md5": "f62e6417fdd4060c6c566202032b83eb",
+      "crc32": "1c454af7",
+      "sha1": "738330ac5e0ec73eba08bb496c53a5df87bdfb0a",
+      "format": "JSON"
+    },
+    {
+      "name": "privateeyenews-2022-08-15T15:26:37.961430+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660573602",
+      "size": "28459",
+      "md5": "06b0e37b7fb3cd565a38869d711516a4",
+      "crc32": "c78e354a",
+      "sha1": "52899a3aa7b4c22021cc1740726819c27e2be984",
+      "format": "JSON"
+    },
+    {
+      "name": "privateeyenews-2022-08-15T15:26:37.961430+01:00.jpg",
+      "source": "original",
+      "mtime": "1660573599",
+      "size": "229229",
+      "md5": "0c2434d77f3bc18a163160543d5ab177",
+      "crc32": "ef81b5bc",
+      "sha1": "3853f12584540b903dafd56b8176452ff63b1450",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "privateeyenews-2022-08-15T15:26:37.961430+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660573606",
+      "size": "1519",
+      "md5": "5608c34b1c1048f3df44484456f39651",
+      "crc32": "e36097b5",
+      "sha1": "0ffa10a1186bb0c10ee577fdfed28b6a42beacaa",
+      "format": "JSON"
+    },
+    {
+      "name": "privateeyenews-2022-08-15T15:26:37.961430+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1660573608",
+      "size": "16921",
+      "md5": "ea20b41e93bef443b371d379b582ceb6",
+      "crc32": "f8e3ce31",
+      "sha1": "99ed3179797c757b81635eb939c88e74d32d237e",
+      "format": "JSON"
+    },
+    {
+      "name": "privateeyenews-2022-08-15T15:26:37.961430+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "privateeyenews-2022-08-15T15:26:37.961430+01:00.jpg",
+      "mtime": "1660573798",
+      "size": "8880",
+      "md5": "a6bf2b55096385158ba7a9860479b02d",
+      "crc32": "b654d675",
+      "sha1": "d8ecf46fb8ec1a311069bf129ca08fc5e34003cd"
+    },
+    {
       "name": "privateeyenews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "427b5397d252b5f1ad903c330d670b39f826fe60",
-      "mtime": "1660526936",
-      "size": "27546",
-      "md5": "06b9bc9d9cd0879f6ed1d3db3fd400a9",
-      "crc32": "d7c11f04",
-      "sha1": "9c032c5d03457d219e49c3be45b88e7de052c7f0",
+      "btih": "f58ab336e7a8f209fc9a222c45c35fa734d67fb0",
+      "mtime": "1660573808",
+      "size": "28849",
+      "md5": "a5d674ce3750048356c9ba5ecfc91819",
+      "crc32": "ec91923e",
+      "sha1": "887fef16297c229fb1048494745560246d1eacf4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "privateeyenews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d7a9541429a6830a07f3dcaa58177a5d",
+      "md5": "81af3ccf75643b164c633e67faf3d454",
       "summation": "md5"
     },
     {
       "name": "privateeyenews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660526879",
-      "size": "180224",
-      "md5": "47e484d2e73f4d9abe04303e56b7191b",
-      "crc32": "eca1a30b",
-      "sha1": "a90df4ed85c71f58fef21f825f0adf9a6602fe5f",
+      "mtime": "1660573613",
+      "size": "184320",
+      "md5": "44c5b9092e0b70e6e86bab2917820961",
+      "crc32": "fefc91b7",
+      "sha1": "07bac1e2fc3e4d8ee91c1987c1b42587e5f420ec",
       "format": "Metadata"
     },
     {
@@ -1294,9 +1356,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 125,
-  "item_last_updated": 1660526936,
-  "item_size": 6291311,
+  "files_count": 131,
+  "item_last_updated": 1660573808,
+  "item_size": 6608654,
   "metadata": {
     "identifier": "privateeyenews-2022",
     "collection": [
@@ -1313,13 +1375,8 @@
     "publicdate": "2022-08-05 12:46:49",
     "addeddate": "2022-08-05 12:46:49"
   },
-  "privateeyenews-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
   "server": "ia801404.us.archive.org",
-  "uniq": 1112182051,
+  "uniq": 85191888,
   "workable_servers": [
     "ia801404.us.archive.org",
     "ia601404.us.archive.org"

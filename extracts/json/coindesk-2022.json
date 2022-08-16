@@ -1,5 +1,5 @@
 {
-  "created": 1660571952,
+  "created": 1660613240,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/0/items/coindesk-2022",
@@ -2494,31 +2494,93 @@
       "sha1": "fbc1a2aa1c079e1390be0902000a35b16736eeae"
     },
     {
+      "name": "coindesk-2022-08-15T21:19:14.763464-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660612758",
+      "size": "71120",
+      "md5": "c1ce6e3d62b86095b3692ae4aa1a6941",
+      "crc32": "b04b9a39",
+      "sha1": "20b951699986c7db788d16f78dcf4a52ee16da09",
+      "format": "JSON"
+    },
+    {
+      "name": "coindesk-2022-08-15T21:19:14.763464-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660612760",
+      "size": "53145",
+      "md5": "9d9332e9e3f0bdbf36690e0dbf08dec0",
+      "crc32": "cbc7565f",
+      "sha1": "41d97dbc0f57d824f6f0dfcbb229da260f14929c",
+      "format": "JSON"
+    },
+    {
+      "name": "coindesk-2022-08-15T21:19:14.763464-04:00.jpg",
+      "source": "original",
+      "mtime": "1660612756",
+      "size": "257118",
+      "md5": "47473103c9b0edfeccd35bb8ead4b3f1",
+      "crc32": "300e8b1c",
+      "sha1": "b69e23b23aa1fa5f36f5a0fb7ae0d4ad8d1d8cf5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "coindesk-2022-08-15T21:19:14.763464-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660612762",
+      "size": "1468",
+      "md5": "c7a1c477a2266a97bf6d2438df6fced1",
+      "crc32": "ebca66cf",
+      "sha1": "93dd209c62e8188b2c3570a2a2dab5158c8cd13c",
+      "format": "JSON"
+    },
+    {
+      "name": "coindesk-2022-08-15T21:19:14.763464-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660612764",
+      "size": "83161",
+      "md5": "6c451d8f9c74f2a74709b9db0022144e",
+      "crc32": "f317e935",
+      "sha1": "a1265ef90c9e9844ab323373e4d61642fbeb100b",
+      "format": "JSON"
+    },
+    {
+      "name": "coindesk-2022-08-15T21:19:14.763464-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "coindesk-2022-08-15T21:19:14.763464-04:00.jpg",
+      "mtime": "1660613109",
+      "size": "10093",
+      "md5": "d27952d62dec8338399203965dfcdd28",
+      "crc32": "280218b3",
+      "sha1": "80ac4030bc500c7fc5d686cd867ef4c14cbe8771"
+    },
+    {
       "name": "coindesk-2022_archive.torrent",
       "source": "metadata",
-      "btih": "321c24a2f79162bbba620672b10fe621e6452247",
-      "mtime": "1660571872",
-      "size": "52087",
-      "md5": "068820e45a3776991401295a3c22da32",
-      "crc32": "4c27fc88",
-      "sha1": "45652a2564c0ce466b63a75308710031b4ed5c76",
+      "btih": "39575278b7d11ea93247023977a4a2782597b243",
+      "mtime": "1660613118",
+      "size": "53355",
+      "md5": "d50f63083e6082cf4bf337b09f92e5c6",
+      "crc32": "b847477f",
+      "sha1": "ba7e9c438cd998497358e011d66023e762c2b4cd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "coindesk-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "20cd9182cb507bbe890d9220d3ad1298",
+      "md5": "0ac9c1e7b109f8c100fb5c8d1b579955",
       "summation": "md5"
     },
     {
       "name": "coindesk-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660571635",
-      "size": "315392",
-      "md5": "5aa8b0397b7bfb1340040326b7db9d35",
-      "crc32": "fc29ff6f",
-      "sha1": "142e0cf2047ae7376d6a40a46dbbad1e54ac18ce",
+      "mtime": "1660612768",
+      "size": "327680",
+      "md5": "aea41eca772b85431c7593a146005cb8",
+      "crc32": "d7a6859c",
+      "sha1": "c5df1b633ceb1d3f8cf2a8ffc2804b194dd80d97",
       "format": "Metadata"
     },
     {
@@ -2532,9 +2594,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 244,
-  "item_last_updated": 1660571872,
-  "item_size": 20863403,
+  "files_count": 250,
+  "item_last_updated": 1660613118,
+  "item_size": 21353064,
   "metadata": {
     "identifier": "coindesk-2022",
     "collection": [
@@ -2551,10 +2613,10 @@
     "publicdate": "2022-07-25 06:46:58",
     "addeddate": "2022-07-25 06:46:58"
   },
-  "server": "ia801509.us.archive.org",
-  "uniq": 1734922474,
+  "server": "ia601509.us.archive.org",
+  "uniq": 2080908211,
   "workable_servers": [
-    "ia801509.us.archive.org",
-    "ia601509.us.archive.org"
+    "ia601509.us.archive.org",
+    "ia801509.us.archive.org"
   ]
 }
