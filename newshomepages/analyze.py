@@ -43,6 +43,10 @@ def lighthouse():
     not_qualified = observations_by_site[observations_by_site.n < 10]
     qualified_df = notnull_df[~notnull_df.handle.isin(not_qualified.handle)].copy()
 
+    # Exclude blacklisted sites
+    blacklist = ["tass_agency"]
+    qualified_df = qualified_df[~qualified_df.handle.isin(blacklist)].copy()
+
     # Aggregate descriptive statistics for each metric
     agg_df = qualified_df.groupby("handle").agg(
         {
