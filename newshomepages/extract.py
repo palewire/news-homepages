@@ -1,6 +1,7 @@
 import csv
 import json
 import os
+import pathlib
 import time
 from datetime import datetime
 from urllib.parse import urlparse
@@ -142,16 +143,18 @@ def download_hyperlinks(handle):
 @click.option("--language", "language", default=None)
 @click.option("--bundle", "bundle", default=None)
 @click.option("--days", "days", default=None)
+@click.option("--output-path", "output_path", default=None)
 def download_lighthouse(
     site: str = None,
     country: str = None,
     language: str = None,
     bundle: str = None,
     days: str = None,
+    output_path: str = None,
 ):
     """Download and parse the provided site's Lighthouse files."""
     # Get all lighthouse files
-    lighthouse_df = utils.get_lighthouse_df()
+    lighthouse_df = utils.get_lighthouse_df().sort_values(["handle", "date"])
 
     # Get the data we want
     if site:
@@ -184,34 +187,48 @@ def download_lighthouse(
         filtered_df = filtered_df[filtered_df["date"] > cutoff_date]
         print(f"Trimming to last {days} days")
 
-    # Filter it down to files for the provided site
-    print(f"{len(filtered_df)} lighthouse files found")
-
-    # Read in the output file
-    output_path = utils.ANALYSIS_DIR / f"{slug}-lighthouse.csv"
-    try:
-        output_df = pd.read_csv(output_path)
-        downloaded_files = set(output_df.file_url.unique())
-    except FileNotFoundError:
-        output_df = pd.DataFrame()
-        downloaded_files = set()
-
     # See how many files we don't have yet
     archived_files = set(filtered_df.url.unique())
-    missing_files = list(archived_files - downloaded_files)
-    print(f"{len(missing_files)} files need to be download")
-
-    # Quit if there's nothing there
-    if not len(missing_files):
-        return
+    print(f"{len(archived_files)} qualified files")
 
     # Go get the files
-    for url in sorted(missing_files):
-        df = _get_json_url(url)
-        output_df = pd.concat([output_df, df])
+    filtered_df["json"] = filtered_df.url.apply(_get_json_url)
 
-    print(f":pencil: Writing {len(output_df)} rows to {output_path}")
-    output_df.to_csv(output_path, index=False)
+    # Parse out the values we want
+    def _parse_metrics(row):
+        # Get representative run
+        run_list = row["json"].to_dict(orient="records")
+        representative_run = next(
+            r for r in run_list if r["isRepresentativeRun"] is True
+        )
+
+        # Pull out the metrics
+        d = representative_run["summary"]
+
+        # Add them to the row
+        row["performance"] = d["performance"]
+        row["accessibility"] = d["accessibility"]
+        row["best-practices"] = d["best-practices"]
+        row["seo"] = d["seo"]
+        row["pwa"] = d["pwa"]
+
+        # Drop the JSON
+        del row["json"]
+
+        # Return the row
+        return row
+
+    parsed_df = filtered_df.apply(_parse_metrics, axis=1).sort_values(
+        ["handle", "date"], ascending=[True, True]
+    )
+
+    # Write out the file
+    if output_path is None:
+        output_path_obj = utils.ANALYSIS_DIR / f"{slug}-lighthouse.csv"
+    else:
+        output_path_obj = pathlib.Path(output_path)
+    print(f":pencil: Writing {len(filtered_df)} rows to {output_path_obj}")
+    parsed_df.to_csv(output_path_obj, index=False)
 
 
 @cli.command()
