@@ -1,0 +1,33 @@
+```{include} _templates/nav.html
+```
+
+# Performance ranking
+
+As part of its archiving routine, our system conducts routine audits of code quality using [Google's open-source Lighthouse tool](https://developer.chrome.com/docs/lighthouse/overview/). This page ranks all sites with 10 more observations over the last seven days by median [performance score](https://developer.chrome.com/docs/lighthouse/performance/).
+
+The value is a weighted average of a basket of speed and efficienty metrics gathered by Lighthouse. Scores of 90 or greater are considered good. Score of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+
+<table class="colwidths-auto docutils align-default">
+ <thead>
+  <tr>
+    <th class="head text-left">Rank</th>
+    <th class="head text-left">Site</th>
+    <th class="text-right head">Median score</th>
+  </tr>
+ </thead>
+ <tbody>
+  {% for obj in site_list %}
+  <tr>
+    <td class="text-left">{{ obj.performance_rank }}</td>
+    <td class="text-left">
+        <a href="https://palewi.re/docs/news-homepages/sites/{{ obj.handle.lower() }}.html">
+            {{ obj.name }}
+        </a>
+    </td>
+    <td class="text-right" style="background-color: {{ obj.performance_color }}; color: white;">
+        {{ obj.performance_median }}
+    </td>
+  </tr>
+  {% endfor %}
+ </tbody>
+</table>

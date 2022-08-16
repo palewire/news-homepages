@@ -32,6 +32,35 @@ def latest_screenshots():
 
 
 @cli.command()
+def performance_ranking():
+    """Create page ranking sites by Lighthouse performance score."""
+    performance_df = pd.read_csv(
+        utils.EXTRACT_DIR / "csv" / "lighthouse-analysis.csv",
+        usecols=[
+            "handle",
+            "performance_median",
+            "performance_color",
+            "performance_rank",
+        ],
+        dtype={
+            "handle": str,
+            "performance_median": float,
+            "performance_color": str,
+            "performance_rank": int,
+        },
+    )
+    performance_df.performance_median = performance_df.performance_median * 100
+    performance_df.performance_median = performance_df.performance_median.astype(int)
+    site_df = utils.get_site_df()
+    merged_df = site_df.merge(performance_df, on="handle", how="inner")
+    print(":abacus: Creating performance ranking page")
+    context = dict(
+        site_list=merged_df.sort_values("performance_rank").to_dict(orient="records")
+    )
+    _write_template("performance.md", context)
+
+
+@cli.command()
 def source_list():
     """Create source list."""
     site_list = sorted(utils.get_site_list(), key=lambda x: x["name"].lower())
