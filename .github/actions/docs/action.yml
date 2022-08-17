@@ -13,6 +13,16 @@ runs:
       run: pipenv run python -m newshomepages.docs latest-screenshots;
       shell: bash
 
+    - id: accessibility-ranking
+      name: Update accessibility ranking
+      run: pipenv run python -m newshomepages.docs accessibility-ranking;
+      shell: bash
+
+    - id: performance-ranking
+      name: Update performance ranking
+      run: pipenv run python -m newshomepages.docs performance-ranking;
+      shell: bash
+
     - id: source-list
       name: Update source list
       run: pipenv run python -m newshomepages.docs source-list;

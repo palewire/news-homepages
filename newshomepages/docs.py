@@ -32,6 +32,39 @@ def latest_screenshots():
 
 
 @cli.command()
+def accessibility_ranking():
+    """Create page ranking sites by Lighthouse accessibility score."""
+    accessibility_df = pd.read_csv(
+        utils.EXTRACT_DIR / "csv" / "lighthouse-analysis.csv",
+        usecols=[
+            "handle",
+            "accessibility_median",
+            "accessibility_color",
+            "accessibility_rank",
+        ],
+        dtype={
+            "handle": str,
+            "accessibility_median": float,
+            "accessibility_color": str,
+            "accessibility_rank": int,
+        },
+    )
+    accessibility_df.accessibility_median = accessibility_df.accessibility_median * 100
+    accessibility_df.accessibility_median = (
+        accessibility_df.accessibility_median.astype(int)
+    )
+    site_df = utils.get_site_df()
+    merged_df = site_df.merge(accessibility_df, on="handle", how="inner")
+    print(":abacus: Creating accessibility ranking page")
+    context = dict(
+        site_list=merged_df.sort_values(["accessibility_rank", "name"]).to_dict(
+            orient="records"
+        )
+    )
+    _write_template("accessibility.md", context)
+
+
+@cli.command()
 def performance_ranking():
     """Create page ranking sites by Lighthouse performance score."""
     performance_df = pd.read_csv(
@@ -55,7 +88,9 @@ def performance_ranking():
     merged_df = site_df.merge(performance_df, on="handle", how="inner")
     print(":abacus: Creating performance ranking page")
     context = dict(
-        site_list=merged_df.sort_values("performance_rank").to_dict(orient="records")
+        site_list=merged_df.sort_values(["performance_rank", "name"]).to_dict(
+            orient="records"
+        )
     )
     _write_template("performance.md", context)
 
