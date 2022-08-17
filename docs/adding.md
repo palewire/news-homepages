@@ -47,7 +47,7 @@ Then you should link the site’s row to one or more of the topical bundles defi
 If you'd like to link a site with more than bundle, you should separate the slugs with `|`. For example, MSNBC is bundled with both national news outlets and left wing sites. So it's bundle field looks like:
 
 ```
-us-nationa|us-left-wing
+us-national|us-left-wing
 ```
 
 If an suitable bundle for your site does not exist, you can add one to the separate bundle data file, as described below.
