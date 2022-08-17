@@ -84,7 +84,7 @@ def bundle(slug: str, input_dir: str):
 def country(code: str, input_dir: str):
     """Post all images for a country."""
     # Get the metadata
-    country = utils.get_bundle(code)
+    country = utils.get_country(code)
 
     # Create the caption
     caption = f"The latest homepages from {country['name']}\n"
