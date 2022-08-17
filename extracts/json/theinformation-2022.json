@@ -1,5 +1,5 @@
 {
-  "created": 1660650220,
+  "created": 1660676001,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/17/items/theinformation-2022",
@@ -4928,31 +4928,83 @@
       "sha1": "0e819bd5a7316b4a328f2b0577417eb4ecc5ee38"
     },
     {
+      "name": "theinformation-2022-08-16T11:47:39.512085-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660675666",
+      "size": "9312",
+      "md5": "4dfd4fccd50c9a74fd0a337cffa9beab",
+      "crc32": "84fde043",
+      "sha1": "12b3521d4e222e6c0a51dd7a811f4dbae5d80d5d",
+      "format": "JSON"
+    },
+    {
+      "name": "theinformation-2022-08-16T11:47:39.512085-07:00.jpg",
+      "source": "original",
+      "mtime": "1660675664",
+      "size": "165288",
+      "md5": "37c9f808df51d9b71c0e09e2f2bd4a2b",
+      "crc32": "3a5f442c",
+      "sha1": "d8c3bc08886121616bf4d53d63ef01e533c6c690",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theinformation-2022-08-16T11:47:39.512085-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660675667",
+      "size": "1531",
+      "md5": "1b86896f75f5bf9c1384ee65f877dee5",
+      "crc32": "0b60654b",
+      "sha1": "aef2c8459d2e8b4d841a03c7ab1a4097dcafb259",
+      "format": "JSON"
+    },
+    {
+      "name": "theinformation-2022-08-16T11:47:39.512085-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660675671",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "theinformation-2022-08-16T11:47:39.512085-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theinformation-2022-08-16T11:47:39.512085-07:00.jpg",
+      "mtime": "1660675972",
+      "size": "8887",
+      "md5": "8a46c3816c4d5d8c2ea9234c0d9eaf35",
+      "crc32": "93f9104f",
+      "sha1": "0e819bd5a7316b4a328f2b0577417eb4ecc5ee38"
+    },
+    {
       "name": "theinformation-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3bf4c02995794d3730ce5d371d3e3dfd0dde3ce2",
-      "mtime": "1660633806",
-      "size": "102938",
-      "md5": "ffe092a84f22aed70b9852ddd7d0dd95",
-      "crc32": "5af4823a",
-      "sha1": "7f57dfe4373b1e0c107fd006182dd8d5feb57192",
+      "btih": "b8bd9367effb46549be76a5fc78acc19fbef4052",
+      "mtime": "1660675979",
+      "size": "104018",
+      "md5": "e71d295499fb0385f998bddc0ff03884",
+      "crc32": "c881be8d",
+      "sha1": "f3eaf91679560c3681657bfea6610ce3e20ff9f8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theinformation-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c48dda303c420a4fc4f4eeb72eb5e140",
+      "md5": "1e5a01f134b7a6448401b906b1d48591",
       "summation": "md5"
     },
     {
       "name": "theinformation-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660632887",
-      "size": "589824",
-      "md5": "e9a1d69e4e9730ec365c5bba18431349",
-      "crc32": "1ce76ed6",
-      "sha1": "f95139dd9bcb57e2314ddaf5530a0b9d654448fd",
+      "mtime": "1660675675",
+      "size": "593920",
+      "md5": "9a23ecb71725e3d37471aa696609f74c",
+      "crc32": "f2b05325",
+      "sha1": "81debc6c22477d08cd60fc576562cb3712e5a2fa",
       "format": "Metadata"
     },
     {
@@ -4966,9 +5018,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 476,
-  "item_last_updated": 1660633806,
-  "item_size": 21039726,
+  "files_count": 481,
+  "item_last_updated": 1660675979,
+  "item_size": 21230122,
   "metadata": {
     "identifier": "theinformation-2022",
     "collection": [
@@ -4985,10 +5037,10 @@
     "publicdate": "2022-07-04 20:17:35",
     "addeddate": "2022-07-04 20:17:35"
   },
-  "server": "ia801504.us.archive.org",
-  "uniq": 345825641,
+  "server": "ia601504.us.archive.org",
+  "uniq": 1346614348,
   "workable_servers": [
-    "ia801504.us.archive.org",
-    "ia601504.us.archive.org"
+    "ia601504.us.archive.org",
+    "ia801504.us.archive.org"
   ]
 }

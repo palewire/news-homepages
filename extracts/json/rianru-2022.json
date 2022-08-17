@@ -1,5 +1,5 @@
 {
-  "created": 1660657993,
+  "created": 1660675770,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/19/items/rianru-2022",
@@ -9016,31 +9016,93 @@
       "sha1": "812268f79f6de9149f6cea264d5b63a688bba269"
     },
     {
+      "name": "rianru-2022-08-16T21:44:41.898541+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660675491",
+      "size": "63802",
+      "md5": "8556094b6a5bd0e92b72f84cec730018",
+      "crc32": "c3729167",
+      "sha1": "2aaaad6ca9fc3430374edbe54fbe40b0b2a5b6bf",
+      "format": "JSON"
+    },
+    {
+      "name": "rianru-2022-08-16T21:44:41.898541+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660675492",
+      "size": "40744",
+      "md5": "6ebc49e16140b94cd0767860cfa54b80",
+      "crc32": "b8d9d2cb",
+      "sha1": "6bbf13830dfe91010567dbe29a04142e17797756",
+      "format": "JSON"
+    },
+    {
+      "name": "rianru-2022-08-16T21:44:41.898541+03:00.jpg",
+      "source": "original",
+      "mtime": "1660675489",
+      "size": "246653",
+      "md5": "b71ba2a99bdf9fd9de4b683b11bc4594",
+      "crc32": "6a66bc16",
+      "sha1": "a4fd2f2057572d8cadf654265467f0da7a899a10",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rianru-2022-08-16T21:44:41.898541+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660675494",
+      "size": "1387",
+      "md5": "8fc199fe4eaa80dbe28a0d3c99860b46",
+      "crc32": "d95510a9",
+      "sha1": "e36e87230f580fc21e82aaed72ee9cc07dfc1b52",
+      "format": "JSON"
+    },
+    {
+      "name": "rianru-2022-08-16T21:44:41.898541+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1660675496",
+      "size": "20215",
+      "md5": "c81567f763342250d354d97201f9084a",
+      "crc32": "e2e42e8a",
+      "sha1": "fea6a834c8db253b3d36992ee92854e333f59dc9",
+      "format": "JSON"
+    },
+    {
+      "name": "rianru-2022-08-16T21:44:41.898541+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rianru-2022-08-16T21:44:41.898541+03:00.jpg",
+      "mtime": "1660675685",
+      "size": "8754",
+      "md5": "61d70a4f8b838753a15314f591134a40",
+      "crc32": "0886def4",
+      "sha1": "db7d7dbeb7a2c24665eaf82c326b285dee698918"
+    },
+    {
       "name": "rianru-2022_archive.torrent",
       "source": "metadata",
-      "btih": "683392dc67f2c2aebda0813a27e90e0fc5f6170a",
-      "mtime": "1660634631",
-      "size": "181336",
-      "md5": "1b31a39bc15f67491c6886899d8b9679",
-      "crc32": "c7cc71a7",
-      "sha1": "26f609d6ab23d0783d308571319b741de1ff47f3",
+      "btih": "0f4cb108a510c6300fbb84ceccb24f18ea6e01a2",
+      "mtime": "1660675695",
+      "size": "182591",
+      "md5": "2ac087b31df449387549055766df1de2",
+      "crc32": "f7d0836b",
+      "sha1": "7fdd1aa062adf36f588a4dd5f04db465b8ffa409",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rianru-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bd3195dc1247113786fe84c55dc8c127",
+      "md5": "d58cb7735b93011512376a1081021c31",
       "summation": "md5"
     },
     {
       "name": "rianru-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660633583",
-      "size": "1036288",
-      "md5": "3bf9ab73e10a13c78a8c758447c24df2",
-      "crc32": "3c14a105",
-      "sha1": "ad155c95b53f3556a98f0a86d1b5dd0b124670c5",
+      "mtime": "1660675500",
+      "size": "1044480",
+      "md5": "609a567b4f04f16d4417eaf21381d5a8",
+      "crc32": "49366729",
+      "sha1": "25a7e11e72c6678829f9296b6f66e7790d4d2239",
       "format": "Metadata"
     },
     {
@@ -9054,9 +9116,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 867,
-  "item_last_updated": 1660634631,
-  "item_size": 69101133,
+  "files_count": 873,
+  "item_last_updated": 1660675695,
+  "item_size": 69492135,
   "metadata": {
     "identifier": "rianru-2022",
     "collection": [
@@ -9073,36 +9135,8 @@
     "publicdate": "2022-03-23 02:09:28",
     "addeddate": "2022-03-23 02:09:28"
   },
-  "rianru-2022": {
-    "url": "https://ria.ru/",
-    "job_id": "spn2-cf8eefd0e964611a7b7a29f09765dad145481c09",
-    "status": "success",
-    "counters": {
-      "embeds": 150,
-      "outlinks": 70
-    },
-    "resources": [
-      "https://ria.ru/",
-      "https://cdnn21.img.ria.ru//css/pages/index.min.css?91c9767e0",
-      "https://cdnn21.img.ria.ru//css/print/common_print.min.css?910277b88",
-      "https://cdnn21.img.ria.ru//css/fonts/font_noto_sans.css?9ac32d8e2",
-      "https://cdnn21.img.ria.ru//css/common.min.css?9c032ca69",
-      "https://cdnn21.img.ria.ru//min/js/jquery/jquery-1.12.4.min.js?96ee03cbd",
-      "https://cdnn21.img.ria.ru//css/fonts/font_montserrat.css?9a3308e53",
-      "https://top-fwz1.mail.ru/js/code.js",
-      "https://yandex.ru/ads/system/context.js",
-      "https://cdnn21.img.ria.ru//min/js/libs/banners/prebid.min.js?991c5bc75",
-      "https://www.tns-counter.ru/tcounter.js",
-      "https://ria.ru/project_data/firebase-config.js"
-    ],
-    "http_status": 200,
-    "timestamp": "20220816053654",
-    "original_url": "https://ria.ru/",
-    "outlinks": [],
-    "duration_sec": 23.363
-  },
   "server": "ia802508.us.archive.org",
-  "uniq": 1588589770,
+  "uniq": 710259307,
   "workable_servers": [
     "ia802508.us.archive.org",
     "ia902508.us.archive.org"

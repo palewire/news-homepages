@@ -1,5 +1,5 @@
 {
-  "created": 1660658234,
+  "created": 1660683339,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/12/items/tpm-2022",
@@ -4308,31 +4308,93 @@
       "sha1": "be0022075e060376f1dac54f27ddc41c484a111f"
     },
     {
+      "name": "tpm-2022-08-16T14:47:30.501152-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660675656",
+      "size": "30409",
+      "md5": "50bfd5ffbd2dda4b49f955ecd9e05bb0",
+      "crc32": "bb3adddf",
+      "sha1": "aca36285362ddce0b15e7c5db27931741fef0a82",
+      "format": "JSON"
+    },
+    {
+      "name": "tpm-2022-08-16T14:47:30.501152-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660675658",
+      "size": "18640",
+      "md5": "dbcdceb4d41ecf9baa847abf5a97d5db",
+      "crc32": "4f6274e9",
+      "sha1": "0233f4e36fa81eb0f29afa0d4eff5d49c263501f",
+      "format": "JSON"
+    },
+    {
+      "name": "tpm-2022-08-16T14:47:30.501152-04:00.jpg",
+      "source": "original",
+      "mtime": "1660675654",
+      "size": "320052",
+      "md5": "50ad13d9736940ea56478cf910b6bd35",
+      "crc32": "2e9d84a6",
+      "sha1": "db71d00d9fdab12642737694d24e8ae0e7d30434",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tpm-2022-08-16T14:47:30.501152-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660675663",
+      "size": "1524",
+      "md5": "b5ce770668d720afdc319ba99f13bee4",
+      "crc32": "498e4e99",
+      "sha1": "2c9460d86dcc826ac6926921eb41a3513b0f92f0",
+      "format": "JSON"
+    },
+    {
+      "name": "tpm-2022-08-16T14:47:30.501152-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660675664",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "tpm-2022-08-16T14:47:30.501152-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tpm-2022-08-16T14:47:30.501152-04:00.jpg",
+      "mtime": "1660675802",
+      "size": "9927",
+      "md5": "b720b95b69babe9668b681625ae1a51d",
+      "crc32": "607ed7d4",
+      "sha1": "bb75113760eeb4d94e5fb05f42944f753389e5ae"
+    },
+    {
       "name": "tpm-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1378fc59fb2d00138124debe9bbf082364594809",
-      "mtime": "1660633901",
-      "size": "86418",
-      "md5": "4fec010ef52e73f09206243d9bb63835",
-      "crc32": "789bc3a7",
-      "sha1": "a47d9bbd3c9e4fd0b958467c60c514b2ba857040",
+      "btih": "01c4d08aa24bb0c24aece4b0d5ac4f449b2909f7",
+      "mtime": "1660675807",
+      "size": "87633",
+      "md5": "2fe6b18d7853be0c836f96b83bb930e7",
+      "crc32": "ba236778",
+      "sha1": "9688b87416dea15394e6b03c767a04178523cc50",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tpm-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2835380fc1b0cf6f6a4af6f415b906f5",
+      "md5": "3f9aeb54e54029fa2ff78f098b1833f7",
       "summation": "md5"
     },
     {
       "name": "tpm-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660632989",
-      "size": "512000",
-      "md5": "885db4840af7c371f0abbcb3d3346986",
-      "crc32": "910ca658",
-      "sha1": "53637fbc8b765b5a1bff570df62118a89ec2420d",
+      "mtime": "1660675667",
+      "size": "520192",
+      "md5": "44528bd21f59caa0d4dc95e929a6cde7",
+      "crc32": "8dac5379",
+      "sha1": "a2ae90dcdef5632b76acaf2a8cc8d4e0491728e0",
       "format": "Metadata"
     },
     {
@@ -4346,9 +4408,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 417,
-  "item_last_updated": 1660633901,
-  "item_size": 35320926,
+  "files_count": 423,
+  "item_last_updated": 1660675807,
+  "item_size": 35711087,
   "metadata": {
     "identifier": "tpm-2022",
     "collection": [
@@ -4366,11 +4428,7 @@
     "addeddate": "2022-07-04 21:46:53"
   },
   "server": "ia902505.us.archive.org",
-  "tpm-2022": {
-    "url": "https://talkingpointsmemo.com/?",
-    "job_id": "spn2-0200f664a723cebf4bf78aa580cd813c7876ff0b"
-  },
-  "uniq": 1653581603,
+  "uniq": 1782341056,
   "workable_servers": [
     "ia902505.us.archive.org",
     "ia802505.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1660657900,
+  "created": 1660695538,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/9/items/powerlineus-2022",
@@ -4722,31 +4722,93 @@
       "sha1": "da8324ad352feaf60d8b72599d46bd77f7d7e6f3"
     },
     {
+      "name": "powerlineus-2022-08-16T14:42:01.818965-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660675326",
+      "size": "103368",
+      "md5": "2505db2d721901ef5a5a03d191eaba07",
+      "crc32": "a5646af8",
+      "sha1": "d02ce00fc54def4d89d0d6447b9e61d07ec6f59c",
+      "format": "JSON"
+    },
+    {
+      "name": "powerlineus-2022-08-16T14:42:01.818965-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660675328",
+      "size": "20778",
+      "md5": "90f2ab7c7edf164f9adcfd92c0ce1a1a",
+      "crc32": "efa6a8f6",
+      "sha1": "ea817d4e9b5e116ff38cceff881b2c676cae5bc1",
+      "format": "JSON"
+    },
+    {
+      "name": "powerlineus-2022-08-16T14:42:01.818965-04:00.jpg",
+      "source": "original",
+      "mtime": "1660675323",
+      "size": "279319",
+      "md5": "f20afeadb741b7e178cacef06744b8e1",
+      "crc32": "4e8e6d4f",
+      "sha1": "1344468c9e1f12e59044019522d9fa9cbe1a436d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "powerlineus-2022-08-16T14:42:01.818965-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660675330",
+      "size": "1515",
+      "md5": "2714a2bf7a5992de3db8d288e2306a5c",
+      "crc32": "d4b69cec",
+      "sha1": "f734b470d1f3f751f433a63ab2830ad59437da17",
+      "format": "JSON"
+    },
+    {
+      "name": "powerlineus-2022-08-16T14:42:01.818965-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660675332",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "powerlineus-2022-08-16T14:42:01.818965-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "powerlineus-2022-08-16T14:42:01.818965-04:00.jpg",
+      "mtime": "1660675463",
+      "size": "7916",
+      "md5": "d76777cf7da388f0fdeab4efe8c76938",
+      "crc32": "c22da9b2",
+      "sha1": "dde7e3b561fd99e60d92a0019d5dc721445a11d7"
+    },
+    {
       "name": "powerlineus-2022_archive.torrent",
       "source": "metadata",
-      "btih": "450e48fce097bbf29708643c8e753d6c16c3f4ea",
-      "mtime": "1660633220",
-      "size": "98494",
-      "md5": "31df0378e51d54bca4daf5035fb2486c",
-      "crc32": "87c2bfa4",
-      "sha1": "6709c417af4739e2e9a6248173c354ae33b750d0",
+      "btih": "d1e8140d4ac1f2ea110b1aff7705d34d435f8212",
+      "mtime": "1660675469",
+      "size": "99778",
+      "md5": "c2770b55b477496edd1ea6f73a7407e8",
+      "crc32": "da657562",
+      "sha1": "0011095bb711d2952c2804520bbfc66b79e271d2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "powerlineus-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "417f3cf7902bc5c44b59bd21f1e63533",
+      "md5": "a6a921fd64369f782fc589ab6443aff7",
       "summation": "md5"
     },
     {
       "name": "powerlineus-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660632455",
-      "size": "581632",
-      "md5": "0a3e21befa7d5a49153efae7b0365b5c",
-      "crc32": "1cc8750a",
-      "sha1": "e2f123134d885794bddca808401191eb6357e6f7",
+      "mtime": "1660675338",
+      "size": "589824",
+      "md5": "470d18d00e12776fe1c02c60caf4aebc",
+      "crc32": "5ab32ba3",
+      "sha1": "be859efdb2f02aeab0c3924799ccda1799fdff22",
       "format": "Metadata"
     },
     {
@@ -4760,9 +4822,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 458,
-  "item_last_updated": 1660633220,
-  "item_size": 35918092,
+  "files_count": 464,
+  "item_last_updated": 1660675469,
+  "item_size": 36340666,
   "metadata": {
     "identifier": "powerlineus-2022",
     "collection": [
@@ -4784,10 +4846,10 @@
     "status": "error",
     "status_ext": "error:user-session-limit"
   },
-  "server": "ia601409.us.archive.org",
-  "uniq": 714749138,
+  "server": "ia801409.us.archive.org",
+  "uniq": 1056570742,
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia801409.us.archive.org",
+    "ia601409.us.archive.org"
   ]
 }

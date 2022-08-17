@@ -1,5 +1,5 @@
 {
-  "created": 1660655849,
+  "created": 1660675356,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/7/items/gbpressgazette-2022",
@@ -10434,31 +10434,93 @@
       "sha1": "f31396b6e089d2df473611d7fd42022067f1eaac"
     },
     {
+      "name": "gbpressgazette-2022-08-16T13:29:18.654803-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660674563",
+      "size": "22326",
+      "md5": "aba38eb1be400a390e1efdd57c601ac3",
+      "crc32": "07b80d33",
+      "sha1": "8096aca138ef0b14ceb77304f624c5effa62034b",
+      "format": "JSON"
+    },
+    {
+      "name": "gbpressgazette-2022-08-16T13:29:18.654803-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660674565",
+      "size": "36245",
+      "md5": "456e66ed29f360a3bf843475a83c760d",
+      "crc32": "aef932ae",
+      "sha1": "eecd55e8651be73a3a7bf924dd19171774e414a3",
+      "format": "JSON"
+    },
+    {
+      "name": "gbpressgazette-2022-08-16T13:29:18.654803-05:00.jpg",
+      "source": "original",
+      "mtime": "1660674560",
+      "size": "273240",
+      "md5": "78124c395f21b0e21d2bde610c16fbe1",
+      "crc32": "e541e83a",
+      "sha1": "b7cbf8078f00fe1acde8f5acf95d5c588228e703",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gbpressgazette-2022-08-16T13:29:18.654803-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660674568",
+      "size": "1585",
+      "md5": "fee881c2a2990406853a3336f5b8e65e",
+      "crc32": "43cbf00f",
+      "sha1": "5470d87f84ca2b9e4254321e0ac15c75f90c3996",
+      "format": "JSON"
+    },
+    {
+      "name": "gbpressgazette-2022-08-16T13:29:18.654803-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660674570",
+      "size": "88481",
+      "md5": "27ad5f2e9255239a006a520e380043cd",
+      "crc32": "24a0bcec",
+      "sha1": "478b33bf0a7e9a3b88e3e3d5e3d080b0ec5bc9f8",
+      "format": "JSON"
+    },
+    {
+      "name": "gbpressgazette-2022-08-16T13:29:18.654803-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gbpressgazette-2022-08-16T13:29:18.654803-05:00.jpg",
+      "mtime": "1660675164",
+      "size": "9285",
+      "md5": "8c1c11554e097b212d2d0b110eb1d7a2",
+      "crc32": "5828e979",
+      "sha1": "75d3607986f98c0b1f8911048e8596d94cbe3c4b"
+    },
+    {
       "name": "gbpressgazette-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ba1dace573836b14cf15a449dffdcaf00a1c74af",
-      "mtime": "1660632414",
-      "size": "217070",
-      "md5": "c844b335a9f4de31cc51ce0b680d94c3",
-      "crc32": "e49080f7",
-      "sha1": "a82552c101be6dbbe65c5e7ae422fd4b538b2a6f",
+      "btih": "5e1863b96f3e66d460ecabbaf320af4b07a8100e",
+      "mtime": "1660675175",
+      "size": "218373",
+      "md5": "5f68681340af0028311653892e8645f9",
+      "crc32": "7256afac",
+      "sha1": "12323039c4d0c251662dee30c014387dc2489880",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gbpressgazette-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "26acf188ef3c312259cd4a9fb092b4fc",
+      "md5": "5e4c839a72765df87fb86ac6b995da58",
       "summation": "md5"
     },
     {
       "name": "gbpressgazette-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660631609",
-      "size": "1183744",
-      "md5": "cda6fa7acf0a88093fe6809c5da835c0",
-      "crc32": "4e5169b3",
-      "sha1": "1aff8ab6694192a65fb9371b5d95e499188dab55",
+      "mtime": "1660674575",
+      "size": "1191936",
+      "md5": "7b45f6684ed7ed675150c67d006dace9",
+      "crc32": "5e6b3d12",
+      "sha1": "7f1a94517dda2f18c4d376763c265a04e4a4bef1",
       "format": "Metadata"
     },
     {
@@ -10472,9 +10534,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1000,
-  "item_last_updated": 1660632414,
-  "item_size": 81088251,
+  "files_count": 1006,
+  "item_last_updated": 1660675175,
+  "item_size": 81528908,
   "metadata": {
     "identifier": "gbpressgazette-2022",
     "collection": [
@@ -10491,10 +10553,10 @@
     "publicdate": "2022-03-23 23:06:20",
     "addeddate": "2022-03-23 23:06:20"
   },
-  "server": "ia902508.us.archive.org",
-  "uniq": 892850689,
+  "server": "ia802508.us.archive.org",
+  "uniq": 1805177371,
   "workable_servers": [
-    "ia902508.us.archive.org",
-    "ia802508.us.archive.org"
+    "ia802508.us.archive.org",
+    "ia902508.us.archive.org"
   ]
 }

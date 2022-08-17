@@ -1,5 +1,5 @@
 {
-  "created": 1660658303,
+  "created": 1660675981,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/21/items/wave3news-2022",
@@ -1826,31 +1826,93 @@
       "sha1": "356b56c45a9c16a4a7ddb66332bd0722868f53f3"
     },
     {
+      "name": "wave3news-2022-08-16T14:49:20.350503-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660675762",
+      "size": "34182",
+      "md5": "83f3d71d5c9449887e0a3378fa08c9e6",
+      "crc32": "71fa7800",
+      "sha1": "fb22c0a7db522b79c385c4c358de0b6753ed9c00",
+      "format": "JSON"
+    },
+    {
+      "name": "wave3news-2022-08-16T14:49:20.350503-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660675764",
+      "size": "25987",
+      "md5": "09c9e71d4cb5ef8575ebe69ef898f813",
+      "crc32": "048a6c15",
+      "sha1": "a5aee6fabeeb6046cbb5698ddce24a6ac3f43b56",
+      "format": "JSON"
+    },
+    {
+      "name": "wave3news-2022-08-16T14:49:20.350503-04:00.jpg",
+      "source": "original",
+      "mtime": "1660675761",
+      "size": "342945",
+      "md5": "c6586be822e459bb35b91342a2d32509",
+      "crc32": "58a53945",
+      "sha1": "292e34fb9268dcea35aa86de3251a4fb94c88a16",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wave3news-2022-08-16T14:49:20.350503-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660675766",
+      "size": "1448",
+      "md5": "179f320f8356f1ffe8a67a1ef16c7ccf",
+      "crc32": "67668e02",
+      "sha1": "45831cd13698be42537279acc4905eaca21df94e",
+      "format": "JSON"
+    },
+    {
+      "name": "wave3news-2022-08-16T14:49:20.350503-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660675768",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "wave3news-2022-08-16T14:49:20.350503-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wave3news-2022-08-16T14:49:20.350503-04:00.jpg",
+      "mtime": "1660675919",
+      "size": "11267",
+      "md5": "738ca230c288a1f3ec7a3da76375af2a",
+      "crc32": "84273189",
+      "sha1": "edc5594742564fd0a21f6c13d79412a9dcde3cf0"
+    },
+    {
       "name": "wave3news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "60945b831fd26ff1094cda2d26dae50be7480b14",
-      "mtime": "1660633857",
-      "size": "38731",
-      "md5": "80ce9fad8f3634e2033254e3f863e343",
-      "crc32": "993a8c88",
-      "sha1": "f7d016f2dbf639d10afb12f9741515d6812cafab",
+      "btih": "ed435b5753cd45fc5919897158ff428752977240",
+      "mtime": "1660675923",
+      "size": "40003",
+      "md5": "bfb2a21f6de4b4932423818fd1f4ac0c",
+      "crc32": "4587a03f",
+      "sha1": "6dc22604181385e4b58f1d48986583ae4ddcb41f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wave3news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bbe49dde1f09735c39320d6c2c7dec71",
+      "md5": "cfee5b49488de57eda70c97aad16f146",
       "summation": "md5"
     },
     {
       "name": "wave3news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660633137",
-      "size": "245760",
-      "md5": "90b4fb9b498b241c1a4f55cec44ff872",
-      "crc32": "44f8e1fa",
-      "sha1": "bc7c7efcf55c0e11907230a0ed4dd53e0efabd87",
+      "mtime": "1660675773",
+      "size": "249856",
+      "md5": "4de0679f8dc71fabcb3eef62bbf3389d",
+      "crc32": "360009c6",
+      "sha1": "4ef9db9c7881144cd6062b80ecf3bdc6d7b30790",
       "format": "Metadata"
     },
     {
@@ -1864,9 +1926,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 180,
-  "item_last_updated": 1660633857,
-  "item_size": 13965249,
+  "files_count": 186,
+  "item_last_updated": 1660675923,
+  "item_size": 14386648,
   "metadata": {
     "identifier": "wave3news-2022",
     "collection": [
@@ -1884,11 +1946,7 @@
     "addeddate": "2022-08-01 06:42:13"
   },
   "server": "ia802503.us.archive.org",
-  "uniq": 526872425,
-  "wave3news-2022": {
-    "url": "https://www.wave3.com/",
-    "job_id": "spn2-46c82eb97acbb882b8d08e553babeb545439570e"
-  },
+  "uniq": 1458374632,
   "workable_servers": [
     "ia802503.us.archive.org",
     "ia902503.us.archive.org"

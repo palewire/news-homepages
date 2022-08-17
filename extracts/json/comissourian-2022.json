@@ -1,5 +1,10 @@
 {
-  "created": 1660656839,
+  "comissourian-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1660694848,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/15/items/comissourian-2022",
@@ -4361,31 +4366,104 @@
       "format": "JSON"
     },
     {
+      "name": "comissourian-2022-08-16T08:33:01.450376-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "comissourian-2022-08-16T08:33:01.450376-05:00.jpg",
+      "mtime": "1660657463",
+      "size": "9805",
+      "md5": "c4a7b4f1f306c0f14fb29b4cf594bd51",
+      "crc32": "c38b4279",
+      "sha1": "2bfd82a0c951c50eee4081696c3252bd0b77dddc"
+    },
+    {
+      "name": "comissourian-2022-08-16T18:03:28.886330-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660691014",
+      "size": "30873",
+      "md5": "d5ef1abd6f0ad40cb7cb1fd49e972260",
+      "crc32": "bca10a51",
+      "sha1": "1ea0525a5e8f79fe3995fd394aa44b320d55e05b",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-08-16T18:03:28.886330-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660691016",
+      "size": "44936",
+      "md5": "1819ed6537f0da7deb3e86519c63ac98",
+      "crc32": "a0811e43",
+      "sha1": "3da0075547e3d218df4cedb7a9e279d0a92d0b3c",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-08-16T18:03:28.886330-05:00.jpg",
+      "source": "original",
+      "mtime": "1660691012",
+      "size": "372158",
+      "md5": "6dda9897fd02e55fac1016a0525b40ce",
+      "crc32": "6ec22ac8",
+      "sha1": "04da63f2ba413cca3295a35361219d9df2b452ba",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "comissourian-2022-08-16T18:03:28.886330-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660691018",
+      "size": "1567",
+      "md5": "a098dad838d0778fb45437d43e9f6ab2",
+      "crc32": "3cdc1593",
+      "sha1": "bb38646417a3fc261eb2e72e6e725990542493e5",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-08-16T18:03:28.886330-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660691021",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-08-16T18:03:28.886330-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "comissourian-2022-08-16T18:03:28.886330-05:00.jpg",
+      "mtime": "1660691117",
+      "size": "9863",
+      "md5": "005e9c546777c9c9916ad40c2396cfd9",
+      "crc32": "bb9684a2",
+      "sha1": "6cc534ac58b91e26c5c80cc23c3113c833fa56f7"
+    },
+    {
       "name": "comissourian-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bdc6935ab50a48a557be57bac48f65ff4f54139b",
-      "mtime": "1660656833",
-      "size": "91370",
-      "md5": "bf5d055309aaf3c216b9b1de32acfde5",
-      "crc32": "62f305e8",
-      "sha1": "b3a29512052335ff733344b277c79544bdfc044c",
+      "btih": "57a5aa4c069c92bb0d42ba2baaab186383c23e37",
+      "mtime": "1660691130",
+      "size": "92867",
+      "md5": "bceffa161570c2bc24c7d1011ccba75b",
+      "crc32": "dde09f83",
+      "sha1": "f0103e36b7860b606177fc4dbef13973f8e41c75",
       "format": "Archive BitTorrent"
     },
     {
       "name": "comissourian-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1fa750b6b301067a5a36f8368d8b6927",
+      "md5": "3631cc5caa408fd405fde715dd11f1c1",
       "summation": "md5"
     },
     {
       "name": "comissourian-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660656796",
-      "size": "524288",
-      "md5": "eb5c7fcd49239940c9db169e184817ae",
-      "crc32": "397331ac",
-      "sha1": "451c9adeef740e144611a1ea0b2b669dc1dc8efb",
+      "mtime": "1660691024",
+      "size": "532480",
+      "md5": "0f578cfc25cb604a95ca4045d5ccc442",
+      "crc32": "b4db57ec",
+      "sha1": "33448ec9a783e85ee232859f2d0185ddb09f2df6",
       "format": "Metadata"
     },
     {
@@ -4399,9 +4477,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 422,
-  "item_last_updated": 1660656833,
-  "item_size": 39648407,
+  "files_count": 429,
+  "item_last_updated": 1660691130,
+  "item_size": 40127500,
   "metadata": {
     "identifier": "comissourian-2022",
     "collection": [
@@ -4418,21 +4496,10 @@
     "publicdate": "2022-07-04 20:47:01",
     "addeddate": "2022-07-04 20:47:01"
   },
-  "pending_tasks": true,
-  "server": "ia601402.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3371619646,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 753097526,
+  "server": "ia801402.us.archive.org",
+  "uniq": 968219863,
   "workable_servers": [
+    "ia801402.us.archive.org",
     "ia601402.us.archive.org"
   ]
 }

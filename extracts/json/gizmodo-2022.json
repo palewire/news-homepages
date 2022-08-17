@@ -1,5 +1,5 @@
 {
-  "created": 1660656302,
+  "created": 1660695111,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/12/items/gizmodo-2022",
@@ -4296,31 +4296,83 @@
       "sha1": "a0fcfa0f81609be00874e422837f40a1380fee39"
     },
     {
+      "name": "gizmodo-2022-08-16T11:29:44.952703-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660674591",
+      "size": "29967",
+      "md5": "95bcf175f1e42f5b1ae31f9abc1d3dc3",
+      "crc32": "e2c0d084",
+      "sha1": "ecc91559fc229b509776a15604cc451e1da85273",
+      "format": "JSON"
+    },
+    {
+      "name": "gizmodo-2022-08-16T11:29:44.952703-07:00.jpg",
+      "source": "original",
+      "mtime": "1660674589",
+      "size": "293331",
+      "md5": "7d32bbbcf5edc7613116f365160f65e5",
+      "crc32": "24a37ec6",
+      "sha1": "0a336fa75b310578c31d3fc2e632fc2843873fe5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gizmodo-2022-08-16T11:29:44.952703-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660674593",
+      "size": "1431",
+      "md5": "93a2f6e0d44f00776543ae9756b60ae9",
+      "crc32": "fdda3f4f",
+      "sha1": "b8936a66b264a70d68bed7d87d1c302451cef86c",
+      "format": "JSON"
+    },
+    {
+      "name": "gizmodo-2022-08-16T11:29:44.952703-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660674595",
+      "size": "96",
+      "md5": "217e3ea3e10813fb1ca25d3f5c4972ce",
+      "crc32": "ff401324",
+      "sha1": "e82833e1b20c4c78815212ed4ee187d10773982a",
+      "format": "JSON"
+    },
+    {
+      "name": "gizmodo-2022-08-16T11:29:44.952703-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gizmodo-2022-08-16T11:29:44.952703-07:00.jpg",
+      "mtime": "1660674668",
+      "size": "11124",
+      "md5": "6c344a3d11529f5551bf354f59e19a93",
+      "crc32": "20a16f86",
+      "sha1": "249080a3f10795861eb69c3ae79df837a692cce2"
+    },
+    {
       "name": "gizmodo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1235e17374c5c2e1b48570e222f4b49d4d8e73b6",
-      "mtime": "1660632410",
-      "size": "87178",
-      "md5": "8cb02fca2ffa2dbefc59e4a178d5e5a4",
-      "crc32": "d111c28c",
-      "sha1": "d46ac86ad5c088d982fd86d77a66a43bb44bfae8",
+      "btih": "67d1f1124d238ba56450b2cf3e6f995d7f60a263",
+      "mtime": "1660674673",
+      "size": "88224",
+      "md5": "28b2e038cb24a92441cf9841095f5cd8",
+      "crc32": "ab676b12",
+      "sha1": "f3a2f956a328568b24170a6c0d4db853aa32b988",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gizmodo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8b8c9e533ad8a15377472210fbd483e5",
+      "md5": "a875131605dff711aa876584d996e52c",
       "summation": "md5"
     },
     {
       "name": "gizmodo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660631699",
-      "size": "487424",
-      "md5": "e355b6de31628ef25c0ef4f3ca3aa76b",
-      "crc32": "00d20bab",
-      "sha1": "f747e76f9d398456c71b3413442e93280aeb1a37",
+      "mtime": "1660674601",
+      "size": "491520",
+      "md5": "a8c4ba32b746fe49cf7209d830e32e70",
+      "crc32": "d5b1c2c6",
+      "sha1": "4efc23f9eeb2e0ead6681284de0981d20cbc628d",
       "format": "Metadata"
     },
     {
@@ -4334,9 +4386,13 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 413,
-  "item_last_updated": 1660632410,
-  "item_size": 39328773,
+  "files_count": 418,
+  "gizmodo-2022": {
+    "url": "https://gizmodo.com/",
+    "job_id": "spn2-ea596fb02279d0a4d917ba298431795a9a7c212a"
+  },
+  "item_last_updated": 1660674673,
+  "item_size": 39669864,
   "metadata": {
     "identifier": "gizmodo-2022",
     "collection": [
@@ -4353,10 +4409,10 @@
     "publicdate": "2022-07-04 20:17:36",
     "addeddate": "2022-07-04 20:17:36"
   },
-  "server": "ia801501.us.archive.org",
-  "uniq": 1792640601,
+  "server": "ia601501.us.archive.org",
+  "uniq": 1654197526,
   "workable_servers": [
-    "ia801501.us.archive.org",
-    "ia601501.us.archive.org"
+    "ia601501.us.archive.org",
+    "ia801501.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1660649234,
+  "created": 1660675779,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/33/items/thetorontosun-2022",
@@ -5378,31 +5378,83 @@
       "sha1": "8976549ded8199873f1f33f893fe98de42ede6db"
     },
     {
+      "name": "thetorontosun-2022-08-16T14:46:51.470027-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660675614",
+      "size": "56604",
+      "md5": "008da44ca33544b50db7efa69cbfa200",
+      "crc32": "c70d9995",
+      "sha1": "83b6101c0d57d3393c6ab48596b22d8caa6cdb25",
+      "format": "JSON"
+    },
+    {
+      "name": "thetorontosun-2022-08-16T14:46:51.470027-04:00.jpg",
+      "source": "original",
+      "mtime": "1660675613",
+      "size": "354917",
+      "md5": "2150068d88007e05315de86afd773161",
+      "crc32": "916edb42",
+      "sha1": "db8ba1a1e5fa6d0f749adc5f76aaf92d0bdded41",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thetorontosun-2022-08-16T14:46:51.470027-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660675616",
+      "size": "1449",
+      "md5": "f097ad20bbd598e03b42a3c6ba6c79f3",
+      "crc32": "0a242528",
+      "sha1": "074eaf70ad1741b28a47870655f548ef6dffb3d2",
+      "format": "JSON"
+    },
+    {
+      "name": "thetorontosun-2022-08-16T14:46:51.470027-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660675618",
+      "size": "397",
+      "md5": "557f1acf38ba7e6bfca184096c4efb20",
+      "crc32": "7b677242",
+      "sha1": "d8cc2bba5a6fb64b4df57dd23bf3564560aef918",
+      "format": "JSON"
+    },
+    {
+      "name": "thetorontosun-2022-08-16T14:46:51.470027-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thetorontosun-2022-08-16T14:46:51.470027-04:00.jpg",
+      "mtime": "1660675756",
+      "size": "11698",
+      "md5": "867bf7517295799b2eaff5c9b652684d",
+      "crc32": "baf48ae4",
+      "sha1": "cff26e47283ef26123080761eb160ca24eacb52d"
+    },
+    {
       "name": "thetorontosun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "14ff5cbb9aed221ec6bd1f1cd5d5ede07b608dbd",
-      "mtime": "1660634155",
-      "size": "113169",
-      "md5": "35e2b1b135dc111964eab959f46f52fb",
-      "crc32": "f9a7b3c8",
-      "sha1": "2d0e8cad896d4ae78e5a6677f729c200d0e8fe09",
+      "btih": "7da333b784ff8a9372845a0a1a527859fab47cf6",
+      "mtime": "1660675763",
+      "size": "114246",
+      "md5": "39ca1df6c32ab14c55c1ed667ef99165",
+      "crc32": "59977fd0",
+      "sha1": "12f4aab150380d5b509ec510e3bedb23d2b23f5f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thetorontosun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5c1095bc390520573add15061726d1b0",
+      "md5": "2a593cc39e64a35927b2cbec4ba6d2ba",
       "summation": "md5"
     },
     {
       "name": "thetorontosun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660632948",
-      "size": "643072",
-      "md5": "f368e931f0537b3d8b21a7a5c456e817",
-      "crc32": "2a08e125",
-      "sha1": "859c5c42b2f08dcc4e4fd6d4ff6ffceb42311a53",
+      "mtime": "1660675623",
+      "size": "647168",
+      "md5": "112c38d894bfa38bc3bee5f60fd9a8e1",
+      "crc32": "7b8cc082",
+      "sha1": "77c2283efe931d9895aac5086b17c9deee574125",
       "format": "Metadata"
     },
     {
@@ -5416,9 +5468,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 519,
-  "item_last_updated": 1660634155,
-  "item_size": 57495545,
+  "files_count": 524,
+  "item_last_updated": 1660675763,
+  "item_size": 57925783,
   "metadata": {
     "identifier": "thetorontosun-2022",
     "collection": [
@@ -5435,10 +5487,10 @@
     "publicdate": "2022-06-30 22:37:08",
     "addeddate": "2022-06-30 22:37:08"
   },
-  "server": "ia801400.us.archive.org",
-  "uniq": 94275994,
+  "server": "ia601400.us.archive.org",
+  "uniq": 736704327,
   "workable_servers": [
-    "ia801400.us.archive.org",
-    "ia601400.us.archive.org"
+    "ia601400.us.archive.org",
+    "ia801400.us.archive.org"
   ]
 }

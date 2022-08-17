@@ -1,5 +1,5 @@
 {
-  "created": 1660657816,
+  "created": 1660695491,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/7/items/observatorio-2022",
@@ -2012,31 +2012,93 @@
       "sha1": "8768b181fccaa836143254b58511c45cc96bc389"
     },
     {
+      "name": "observatorio-2022-08-16T15:41:28.941033-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660675299",
+      "size": "29709",
+      "md5": "f3a0c95d87a861b47f379dd6a9c66c26",
+      "crc32": "bd3b8014",
+      "sha1": "da33ffec487e9e7cdeb9484b05a3afb2c840da52",
+      "format": "JSON"
+    },
+    {
+      "name": "observatorio-2022-08-16T15:41:28.941033-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660675301",
+      "size": "38794",
+      "md5": "c1b5b8e3d46d456cb477ef131029c7fc",
+      "crc32": "148caff7",
+      "sha1": "9054916f981b5e82a597230863d5f250636b7b31",
+      "format": "JSON"
+    },
+    {
+      "name": "observatorio-2022-08-16T15:41:28.941033-03:00.jpg",
+      "source": "original",
+      "mtime": "1660675297",
+      "size": "253549",
+      "md5": "314525b82c4dcc2b28cb216fa91229dc",
+      "crc32": "57b5eacd",
+      "sha1": "a13b96e03ab888ec048db9d3ef3c11a7d97dd01d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "observatorio-2022-08-16T15:41:28.941033-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660675304",
+      "size": "1626",
+      "md5": "3c94ee454709751532c4b4b87553cf75",
+      "crc32": "e1ce891c",
+      "sha1": "2efbda71a51ac41ad8b7a8c225c3f58bbbc5ac0e",
+      "format": "JSON"
+    },
+    {
+      "name": "observatorio-2022-08-16T15:41:28.941033-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1660675306",
+      "size": "118",
+      "md5": "75ca13bb320a496c70f48cc15b1de1ea",
+      "crc32": "f203490e",
+      "sha1": "c8c32c4151068755646609e61104f5ebd9bdc4d5",
+      "format": "JSON"
+    },
+    {
+      "name": "observatorio-2022-08-16T15:41:28.941033-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "observatorio-2022-08-16T15:41:28.941033-03:00.jpg",
+      "mtime": "1660675521",
+      "size": "9063",
+      "md5": "7ea12dafa4228cc90026da60991d91de",
+      "crc32": "7af7c5d2",
+      "sha1": "8768b181fccaa836143254b58511c45cc96bc389"
+    },
+    {
       "name": "observatorio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4f42db951ee6db446af40ab18d9c0e01d5530d47",
-      "mtime": "1660633115",
-      "size": "42972",
-      "md5": "fae71e69e8a63619f93e66fd03f114b2",
-      "crc32": "24870783",
-      "sha1": "fc8e1cbb4c37235eef0eb79f6ffcfbf0e5093fbf",
+      "btih": "37278f47c71a1243fcc1a642dc235e79f8376dee",
+      "mtime": "1660675524",
+      "size": "44261",
+      "md5": "cdd1c0b5e39e6873ebdaf5a34d7c188b",
+      "crc32": "1dc3d2d5",
+      "sha1": "353219e9631c2a20a5fda5003141dd3a98236c2c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "observatorio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0bc7bd96379ca6a6df6dc735866aede4",
+      "md5": "0d14c2daa44979c897e732549b1c47ea",
       "summation": "md5"
     },
     {
       "name": "observatorio-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660632335",
-      "size": "270336",
-      "md5": "be9d12f3ef1d9c22cdcc20679db428b8",
-      "crc32": "5b9d46e5",
-      "sha1": "21592f7bb8fdf0eebf7bef75443748ce97dad7e5",
+      "mtime": "1660675310",
+      "size": "274432",
+      "md5": "40d8c23b8603d77cc71f9eaa3c2f1af2",
+      "crc32": "2ada0bc8",
+      "sha1": "2dd26d76cab711fdb6379a9eef073e8549f97f45",
       "format": "Metadata"
     },
     {
@@ -2050,9 +2112,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 198,
-  "item_last_updated": 1660633115,
-  "item_size": 11938981,
+  "files_count": 204,
+  "item_last_updated": 1660675524,
+  "item_size": 12277225,
   "metadata": {
     "identifier": "observatorio-2022",
     "collection": [
@@ -2071,22 +2133,10 @@
   },
   "observatorio-2022": {
     "url": "https://www.observatoriodaimprensa.com.br/",
-    "job_id": "spn2-51f5e65ad2d1444693cc615f55119d8cb1b63d52",
-    "http_status": 502,
-    "timestamp": "20220816053248",
-    "original_url": "https://www.observatoriodaimprensa.com.br/favicon.ico",
-    "resources": [
-      "https://www.observatoriodaimprensa.com.br/favicon.ico"
-    ],
-    "duration_sec": 24.391,
-    "status": "success",
-    "counters": {
-      "outlinks": 0,
-      "embeds": 1
-    }
+    "job_id": "spn2-51f5e65ad2d1444693cc615f55119d8cb1b63d52"
   },
   "server": "ia802500.us.archive.org",
-  "uniq": 342520724,
+  "uniq": 869490146,
   "workable_servers": [
     "ia802500.us.archive.org",
     "ia902500.us.archive.org"

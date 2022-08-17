@@ -1,5 +1,5 @@
 {
-  "created": 1660658283,
+  "created": 1660675851,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/22/items/voxdotcom-2022",
@@ -7584,31 +7584,83 @@
       "sha1": "52692753f7b4306e6b206e2c13debfad3a90dd10"
     },
     {
+      "name": "voxdotcom-2022-08-16T14:48:44.123143-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660675731",
+      "size": "52064",
+      "md5": "3393aebf74ea66a42b74773afef27179",
+      "crc32": "aa7a139e",
+      "sha1": "d867cba28c296ee464c309a2984be9c3f1c007b3",
+      "format": "JSON"
+    },
+    {
+      "name": "voxdotcom-2022-08-16T14:48:44.123143-04:00.jpg",
+      "source": "original",
+      "mtime": "1660675728",
+      "size": "218025",
+      "md5": "409d5c06d2b79597972e5a56da280273",
+      "crc32": "97f842d7",
+      "sha1": "43b666915a3399ccc79e1c5eeab611e5ae301868",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "voxdotcom-2022-08-16T14:48:44.123143-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660675732",
+      "size": "1429",
+      "md5": "b2d3ae8b048b91f52fe560868d470f86",
+      "crc32": "8db714ca",
+      "sha1": "5f19490b2bae5f4462035707a04da752f8bf9824",
+      "format": "JSON"
+    },
+    {
+      "name": "voxdotcom-2022-08-16T14:48:44.123143-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660675734",
+      "size": "139679",
+      "md5": "3607632fa4af0e2c8f124fc7e32ff0c6",
+      "crc32": "f81be120",
+      "sha1": "7a0914dafdb5ba31b58d2ad7cef07f5a8b7392f0",
+      "format": "JSON"
+    },
+    {
+      "name": "voxdotcom-2022-08-16T14:48:44.123143-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "voxdotcom-2022-08-16T14:48:44.123143-04:00.jpg",
+      "mtime": "1660675829",
+      "size": "8520",
+      "md5": "2c9b0880cd3731087bccdadd744bdefa",
+      "crc32": "88665cac",
+      "sha1": "5f25af75b251ddb5d7707909ab269472e14193ae"
+    },
+    {
       "name": "voxdotcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e88a562e0f8d30f6a78fc4d7e60551d589ac710d",
-      "mtime": "1660634403",
-      "size": "155187",
-      "md5": "28cf6b203e1daea5edc61e1f707f2696",
-      "crc32": "bf0ead6e",
-      "sha1": "5318d515e48ccecb4ce11a86973e997d1b112322",
+      "btih": "287dfb9f3c15f3332f89dd8734844979c5a04add",
+      "mtime": "1660675838",
+      "size": "156246",
+      "md5": "7db39e52dd17d23eca88ee7126f31abf",
+      "crc32": "694dafff",
+      "sha1": "082d34a6936e5068beded86f212791552034ad05",
       "format": "Archive BitTorrent"
     },
     {
       "name": "voxdotcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0f6d063f9f8cf0384d2865eeb167913c",
+      "md5": "3bc02b335de5a01f327c46e7a8ca7b4a",
       "summation": "md5"
     },
     {
       "name": "voxdotcom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660633063",
-      "size": "888832",
-      "md5": "94c1fd770c7ab0a71345b090bbb001a8",
-      "crc32": "2779cb73",
-      "sha1": "59c3b1d93525836f4182e6534f5f01f5049bac2a",
+      "mtime": "1660675739",
+      "size": "897024",
+      "md5": "789856ddd0fe583f0e29a105f6e52bb6",
+      "crc32": "6113ae6b",
+      "sha1": "f15aed2dc84b9b9d9c749937ce8611327c7c7d98",
       "format": "Metadata"
     },
     {
@@ -7622,9 +7674,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 731,
-  "item_last_updated": 1660634403,
-  "item_size": 56016194,
+  "files_count": 736,
+  "item_last_updated": 1660675838,
+  "item_size": 56445162,
   "metadata": {
     "identifier": "voxdotcom-2022",
     "collection": [
@@ -7641,14 +7693,10 @@
     "publicdate": "2022-06-19 23:29:34",
     "addeddate": "2022-06-19 23:29:34"
   },
-  "server": "ia801506.us.archive.org",
-  "uniq": 1132309793,
-  "voxdotcom-2022": {
-    "url": "https://www.vox.com/",
-    "job_id": "spn2-d5f79019f8619778b235d7c47a5b6016f84dd580"
-  },
+  "server": "ia601506.us.archive.org",
+  "uniq": 1855302549,
   "workable_servers": [
-    "ia801506.us.archive.org",
-    "ia601506.us.archive.org"
+    "ia601506.us.archive.org",
+    "ia801506.us.archive.org"
   ]
 }

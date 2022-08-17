@@ -1,8 +1,12 @@
 {
-  "created": 1660655610,
+  "created": 1660694929,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/19/items/dwnews-2022",
+  "dwnews-2022": {
+    "url": "https://www.dw.com/de/",
+    "job_id": "spn2-5ba6d39abc1eb4c42230dd448e0d6c8d08eb27af"
+  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -750,31 +754,93 @@
       "sha1": "dc81600f02c4f127df68989d3b6bbef4308eabf3"
     },
     {
+      "name": "dwnews-2022-08-16T20:25:55.254546+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660674358",
+      "size": "58795",
+      "md5": "a0bbdc0ef117f17881a0e4f3fe9fb127",
+      "crc32": "22c09557",
+      "sha1": "ecf2d82cfed958b93eddc20fda2b43c860f7611b",
+      "format": "JSON"
+    },
+    {
+      "name": "dwnews-2022-08-16T20:25:55.254546+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660674361",
+      "size": "37761",
+      "md5": "6841a19c7be64b3e65b8d89855eb738f",
+      "crc32": "e4a86fe2",
+      "sha1": "7d3706484e1c19b3666554573956baba7aad2efb",
+      "format": "JSON"
+    },
+    {
+      "name": "dwnews-2022-08-16T20:25:55.254546+02:00.jpg",
+      "source": "original",
+      "mtime": "1660674357",
+      "size": "250663",
+      "md5": "98f81aa6f9189cec4eb19a10e08197a5",
+      "crc32": "34fe35b2",
+      "sha1": "0386192bd6a8084c04823b8ec95d3bc2a04a6dde",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dwnews-2022-08-16T20:25:55.254546+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660674364",
+      "size": "1549",
+      "md5": "23fcc1d25605b8d75ecd5bb04bcea4d8",
+      "crc32": "e9e8f8fa",
+      "sha1": "582f0f0a4dd174c18f0a0fa70c64122d2230e30b",
+      "format": "JSON"
+    },
+    {
+      "name": "dwnews-2022-08-16T20:25:55.254546+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1660674367",
+      "size": "98",
+      "md5": "06af66378b489ca3dd2e0dc36e7b2490",
+      "crc32": "6da8b287",
+      "sha1": "daa2373500a08c9c29900b4f91b50b39f16ad0e3",
+      "format": "JSON"
+    },
+    {
+      "name": "dwnews-2022-08-16T20:25:55.254546+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dwnews-2022-08-16T20:25:55.254546+02:00.jpg",
+      "mtime": "1660674526",
+      "size": "9469",
+      "md5": "79f4c61593b7970894d3a9ce868b1c4f",
+      "crc32": "13e3339f",
+      "sha1": "b50d9c4a473676d0eb2b1590d84e9bd88a0f40f3"
+    },
+    {
       "name": "dwnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b06a45727c582e1b6795d7ed8c0882a71dd534e6",
-      "mtime": "1660632356",
-      "size": "16395",
-      "md5": "bcfb8394385ed736168cd3f0a3d269d7",
-      "crc32": "f801dc8e",
-      "sha1": "1444c189ac76d816b72fdae701db5525b2ba238e",
+      "btih": "e3ccbe6d01bc7f4094c270c3a7174f11ccc03eef",
+      "mtime": "1660674530",
+      "size": "17647",
+      "md5": "d6b5af4ca1d97ed2112c260510e4f08c",
+      "crc32": "42f9a651",
+      "sha1": "980bad29fcdfb2c57c563d7065621da66be343ac",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dwnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "31c1c98cffd4c01bb9331629d4838aa2",
+      "md5": "cd4924a36c5ada0a90c0ea49362bc668",
       "summation": "md5"
     },
     {
       "name": "dwnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660631569",
-      "size": "110592",
-      "md5": "5732b135bc76e2e27d565131df655949",
-      "crc32": "fd11b8d5",
-      "sha1": "dfb17d55d4f314f7277a81e8a194e2d38cb17248",
+      "mtime": "1660674446",
+      "size": "118784",
+      "md5": "8f090a09197b27ed0295530274ad9524",
+      "crc32": "e1ce05e3",
+      "sha1": "26de0f7f594c6885d47597cfa78b12ddcffc0efd",
       "format": "Metadata"
     },
     {
@@ -788,9 +854,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 76,
-  "item_last_updated": 1660632356,
-  "item_size": 4936267,
+  "files_count": 82,
+  "item_last_updated": 1660674530,
+  "item_size": 5304046,
   "metadata": {
     "identifier": "dwnews-2022",
     "collection": [
@@ -807,10 +873,10 @@
     "publicdate": "2022-08-10 18:02:02",
     "addeddate": "2022-08-10 18:02:02"
   },
-  "server": "ia601401.us.archive.org",
-  "uniq": 751117241,
+  "server": "ia801401.us.archive.org",
+  "uniq": 217671177,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia801401.us.archive.org",
+    "ia601401.us.archive.org"
   ]
 }

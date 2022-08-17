@@ -1,5 +1,5 @@
 {
-  "created": 1660658103,
+  "created": 1660675795,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/21/items/sltrib-2022",
@@ -3788,31 +3788,93 @@
       "sha1": "52e17daac4cf26860e1fd6ee4f706317a0b288ff"
     },
     {
+      "name": "sltrib-2022-08-16T12:45:53.406713-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660675556",
+      "size": "21808",
+      "md5": "d31debc256b26a7c3c093eee731a1489",
+      "crc32": "eaebd456",
+      "sha1": "ffc5329bd3b93632d5d7ccc7290f41dcd4ff1f30",
+      "format": "JSON"
+    },
+    {
+      "name": "sltrib-2022-08-16T12:45:53.406713-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660675558",
+      "size": "38450",
+      "md5": "213abb316edf793b6dd720d76d4d59d0",
+      "crc32": "e55d8315",
+      "sha1": "c097acd06c94e1d5b57d8ba7c41d5a92e903c69c",
+      "format": "JSON"
+    },
+    {
+      "name": "sltrib-2022-08-16T12:45:53.406713-06:00.jpg",
+      "source": "original",
+      "mtime": "1660675554",
+      "size": "281769",
+      "md5": "b4cc2cd0a3fb3d4a7232d90b9579e4ca",
+      "crc32": "4a98caf8",
+      "sha1": "5458fb87da4091c963626c809523ac39d489b05c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sltrib-2022-08-16T12:45:53.406713-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660675560",
+      "size": "1459",
+      "md5": "d888efa15e622d1ab7bb35d878e0e046",
+      "crc32": "3ded3bc4",
+      "sha1": "5352722a52f46b9441d22a08026e943531e3e74a",
+      "format": "JSON"
+    },
+    {
+      "name": "sltrib-2022-08-16T12:45:53.406713-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1660675562",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "sltrib-2022-08-16T12:45:53.406713-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sltrib-2022-08-16T12:45:53.406713-06:00.jpg",
+      "mtime": "1660675714",
+      "size": "9557",
+      "md5": "c14bad1aebcdf1c5ea72ba2f51711655",
+      "crc32": "ce331226",
+      "sha1": "bdac33f2bd358729b40c194a627214773b3d5c09"
+    },
+    {
       "name": "sltrib-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b6ee2e3247432b1729f079e86c7a1182605531d6",
-      "mtime": "1660633532",
-      "size": "77087",
-      "md5": "cf41ade444834df9b444173fc33472bc",
-      "crc32": "eff3d182",
-      "sha1": "7d54fc51283ee221db4399d2042ccea4516fdaee",
+      "btih": "f19597c052c25002acff5d8c9a99ee14b2153e90",
+      "mtime": "1660675766",
+      "size": "78340",
+      "md5": "392050fb8961bdfc40e8e7bff2f82faf",
+      "crc32": "db81e25a",
+      "sha1": "39c4d745f6b1ac545a9634f34a904c794e9bf50a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sltrib-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "35674e3a3bdbea444913e102b4a8ae67",
+      "md5": "66380c4d34ada8cbf9a4f2e4a885354b",
       "summation": "md5"
     },
     {
       "name": "sltrib-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660632705",
-      "size": "458752",
-      "md5": "df3a27de7bc48c2efac4c63f4ba1723d",
-      "crc32": "da40d2e5",
-      "sha1": "02de0fa1ea257068322bc0283ec94f7b85dd48cf",
+      "mtime": "1660675567",
+      "size": "462848",
+      "md5": "9732a6a64796e9e9bcde817b8a4a3f4b",
+      "crc32": "e0bd4a34",
+      "sha1": "b17ae30ba866c125c5f0e3d77e4691cd79c46372",
       "format": "Metadata"
     },
     {
@@ -3826,9 +3888,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 367,
-  "item_last_updated": 1660633532,
-  "item_size": 28864773,
+  "files_count": 373,
+  "item_last_updated": 1660675766,
+  "item_size": 29223367,
   "metadata": {
     "identifier": "sltrib-2022",
     "collection": [
@@ -3845,14 +3907,10 @@
     "publicdate": "2022-07-09 04:03:05",
     "addeddate": "2022-07-09 04:03:05"
   },
-  "server": "ia601401.us.archive.org",
-  "sltrib-2022": {
-    "url": "https://www.sltrib.com/",
-    "job_id": "spn2-4a5106201dc21e73704cc747bcb4b0d33ce94fe9"
-  },
-  "uniq": 205439914,
+  "server": "ia801401.us.archive.org",
+  "uniq": 1528258986,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia801401.us.archive.org",
+    "ia601401.us.archive.org"
   ]
 }

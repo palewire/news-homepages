@@ -1,5 +1,5 @@
 {
-  "created": 1660633884,
+  "created": 1660675961,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/15/items/vancouversun-2022",
@@ -5368,31 +5368,93 @@
       "sha1": "32aeb79315e54b3d5db4c36dca298579a48b50a3"
     },
     {
+      "name": "vancouversun-2022-08-16T11:49:02.307530-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660675747",
+      "size": "73958",
+      "md5": "0a09a1acc88c1707b0e9aeb234bd6867",
+      "crc32": "fdc62dc9",
+      "sha1": "966b6b02d653f891b74998bd4de57e5c5c1d906c",
+      "format": "JSON"
+    },
+    {
+      "name": "vancouversun-2022-08-16T11:49:02.307530-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660675749",
+      "size": "61415",
+      "md5": "938568204b5533524e950782aa4f25b3",
+      "crc32": "aea77f1d",
+      "sha1": "a9ff6460e99fb387b3301dc4a3804e4dc047e7fd",
+      "format": "JSON"
+    },
+    {
+      "name": "vancouversun-2022-08-16T11:49:02.307530-07:00.jpg",
+      "source": "original",
+      "mtime": "1660675743",
+      "size": "296107",
+      "md5": "b2d40552d1aa230648d85acbb6f25641",
+      "crc32": "aaa3fb5e",
+      "sha1": "0131b47d9d731e0525578ee1223d7be8d347f0e8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vancouversun-2022-08-16T11:49:02.307530-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660675750",
+      "size": "1468",
+      "md5": "b295efd5a5309c93957be73564c67673",
+      "crc32": "52bf2916",
+      "sha1": "8b2efde28b4034c6dd6b7047647d9d872911e13e",
+      "format": "JSON"
+    },
+    {
+      "name": "vancouversun-2022-08-16T11:49:02.307530-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660675751",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "vancouversun-2022-08-16T11:49:02.307530-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vancouversun-2022-08-16T11:49:02.307530-07:00.jpg",
+      "mtime": "1660675912",
+      "size": "9988",
+      "md5": "f92b2bd0f1776333c1912809b7581e82",
+      "crc32": "1998d081",
+      "sha1": "aa1d7b14a9924dfb1f5ba4ea6e49a681b34cad82"
+    },
+    {
       "name": "vancouversun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b52e04971225fc3f1ccf4bbaaa95f2ab9544a389",
-      "mtime": "1660633846",
-      "size": "112177",
-      "md5": "37d320d54980d6f3a90548622f7e34d8",
-      "crc32": "5e58e3f1",
-      "sha1": "c08638845e68bfd73d8c899330625e35832e2a17",
+      "btih": "56fbe3575b5b822e1f91a55d5587ee8d2b535567",
+      "mtime": "1660675917",
+      "size": "113446",
+      "md5": "74cdf06a982a5cc763faeaa7f8005c6e",
+      "crc32": "90594ef2",
+      "sha1": "b9660790ab4a4a9080f9c7b845f0be250eaaf138",
       "format": "Archive BitTorrent"
     },
     {
       "name": "vancouversun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3c3b377b8eb77c6312de464536745b18",
+      "md5": "dea87a0c2ddd0b1383df15a4f64b1132",
       "summation": "md5"
     },
     {
       "name": "vancouversun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660633043",
-      "size": "630784",
-      "md5": "1fe26a938ec33f756546ef1176516370",
-      "crc32": "dcafa105",
-      "sha1": "86d3dbf33796d0de5b26d112f4191bc4c5c274c8",
+      "mtime": "1660675762",
+      "size": "647168",
+      "md5": "9786af1ad967ba571ae2df2794d16ece",
+      "crc32": "25886c8c",
+      "sha1": "f1db50674ce5d2c0fbb36442f69bd3c36fb67273",
       "format": "Metadata"
     },
     {
@@ -5406,9 +5468,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 518,
-  "item_last_updated": 1660633846,
-  "item_size": 51554897,
+  "files_count": 524,
+  "item_last_updated": 1660675917,
+  "item_size": 52015688,
   "metadata": {
     "identifier": "vancouversun-2022",
     "collection": [
@@ -5426,7 +5488,7 @@
     "addeddate": "2022-06-30 22:36:07"
   },
   "server": "ia801409.us.archive.org",
-  "uniq": 1536429347,
+  "uniq": 46276847,
   "workable_servers": [
     "ia801409.us.archive.org",
     "ia601409.us.archive.org"

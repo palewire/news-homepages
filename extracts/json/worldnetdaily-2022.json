@@ -1,5 +1,5 @@
 {
-  "created": 1660658326,
+  "created": 1660675978,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/13/items/worldnetdaily-2022",
@@ -4694,31 +4694,93 @@
       "sha1": "0f2a5a0b61c8a13e4321ddc3bfc72fc2eaef29e4"
     },
     {
+      "name": "worldnetdaily-2022-08-16T14:49:47.469091-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660675790",
+      "size": "23427",
+      "md5": "d70f63aa0e6cce8f2025f0d3b5da78cb",
+      "crc32": "0b15660a",
+      "sha1": "b517f2c72fa462590426c5c63137e0ef8dc61096",
+      "format": "JSON"
+    },
+    {
+      "name": "worldnetdaily-2022-08-16T14:49:47.469091-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660675792",
+      "size": "47099",
+      "md5": "fb2639aa62db60a1ada2cd486837a28b",
+      "crc32": "cd9e56e0",
+      "sha1": "68539a30b2963a5f8b04fd681763448a9358b01a",
+      "format": "JSON"
+    },
+    {
+      "name": "worldnetdaily-2022-08-16T14:49:47.469091-04:00.jpg",
+      "source": "original",
+      "mtime": "1660675789",
+      "size": "368590",
+      "md5": "aa8d3e63db936f483f8610a6f12776f0",
+      "crc32": "1a65f234",
+      "sha1": "51894aef0b5c859778b23a9beb64ea492e4ea191",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "worldnetdaily-2022-08-16T14:49:47.469091-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660675795",
+      "size": "1432",
+      "md5": "a50024b402d86624401315796c63984d",
+      "crc32": "3abd1e21",
+      "sha1": "8f218e98b3e1d343f1a11c55ec448aa3eaccd5fa",
+      "format": "JSON"
+    },
+    {
+      "name": "worldnetdaily-2022-08-16T14:49:47.469091-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660675799",
+      "size": "25731",
+      "md5": "0f3b32cf99b894c3e9c0e1b9acc07b12",
+      "crc32": "6f219e99",
+      "sha1": "68cccf7c3115971fdc5a893b25d937c49891ff27",
+      "format": "JSON"
+    },
+    {
+      "name": "worldnetdaily-2022-08-16T14:49:47.469091-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "worldnetdaily-2022-08-16T14:49:47.469091-04:00.jpg",
+      "mtime": "1660675954",
+      "size": "12132",
+      "md5": "1f919bf927f95f624453bc68fc899345",
+      "crc32": "c05c9d73",
+      "sha1": "6c191a3f0125c63a6b95e800be92df9deffc6d02"
+    },
+    {
       "name": "worldnetdaily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "52fa3e4dcd3881f5c3ef3c05b5595ffd8e80f435",
-      "mtime": "1660633877",
-      "size": "98905",
-      "md5": "fd434f0b739e4a14e76a8bc18d8bcf16",
-      "crc32": "cffba96f",
-      "sha1": "d64bb9c55493d3222f6c97e3c024f915148e986e",
+      "btih": "5db039297094db3948df4f64026db16da2903ae2",
+      "mtime": "1660675962",
+      "size": "100203",
+      "md5": "8bb69dcf3888ce47b57fd1f745374f41",
+      "crc32": "b68e7e76",
+      "sha1": "990076d9b34d1bf52a015fcb2f4464d425600de7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "worldnetdaily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f423f302fb193a33da6fe15c37574a19",
+      "md5": "6119ca7276aabb6c3f9758eee6f75a11",
       "summation": "md5"
     },
     {
       "name": "worldnetdaily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660633122",
-      "size": "577536",
-      "md5": "e0f6d9443b631be8ff125e3e384b1b7a",
-      "crc32": "104b64c7",
-      "sha1": "539a2a179cd722c51686c7a1c6b614f91b8f113a",
+      "mtime": "1660675804",
+      "size": "581632",
+      "md5": "1a3e8344158f6b90ffac96c0c7eb5b0b",
+      "crc32": "7ff8a8ae",
+      "sha1": "ff466cd9eb5c1043858889e6a02f909bfa38b5ea",
       "format": "Metadata"
     },
     {
@@ -4732,9 +4794,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 455,
-  "item_last_updated": 1660633877,
-  "item_size": 39302078,
+  "files_count": 461,
+  "item_last_updated": 1660675962,
+  "item_size": 39785883,
   "metadata": {
     "identifier": "worldnetdaily-2022",
     "collection": [
@@ -4752,14 +4814,9 @@
     "addeddate": "2022-07-17 15:04:09"
   },
   "server": "ia802500.us.archive.org",
-  "uniq": 501751928,
+  "uniq": 717581302,
   "workable_servers": [
     "ia802500.us.archive.org",
     "ia902500.us.archive.org"
-  ],
-  "worldnetdaily-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  }
+  ]
 }

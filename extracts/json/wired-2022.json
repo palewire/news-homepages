@@ -1,5 +1,5 @@
 {
-  "created": 1660658319,
+  "created": 1660675878,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/33/items/wired-2022",
@@ -4904,31 +4904,93 @@
       "sha1": "b2554ec6e33fa090235aa3b67e083f547089a365"
     },
     {
+      "name": "wired-2022-08-16T11:48:43.568211-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660675727",
+      "size": "35075",
+      "md5": "ee171d4c009961697b5b61b1ade4619f",
+      "crc32": "c8a9cb5c",
+      "sha1": "b57079b313fe196924462c0d0a9b053f0f42ec1f",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-08-16T11:48:43.568211-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660675729",
+      "size": "20934",
+      "md5": "2ac18fad70071645714ff474484f15f2",
+      "crc32": "2ebbb1aa",
+      "sha1": "e3c49e72379f31164a4d21be530898b0ad860115",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-08-16T11:48:43.568211-07:00.jpg",
+      "source": "original",
+      "mtime": "1660675725",
+      "size": "325578",
+      "md5": "0ab50c082a21707a31d4578845d8b115",
+      "crc32": "2a2c77e0",
+      "sha1": "9ee11310d1ad58121e9cd51ac0697e240fe03f64",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wired-2022-08-16T11:48:43.568211-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660675731",
+      "size": "1450",
+      "md5": "564aefe53848775cad6a144243264e4f",
+      "crc32": "05a2e998",
+      "sha1": "cdc14fa79d8f8f6d49c6dbef5a5539fe6cd28c89",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-08-16T11:48:43.568211-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660675733",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-08-16T11:48:43.568211-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wired-2022-08-16T11:48:43.568211-07:00.jpg",
+      "mtime": "1660675854",
+      "size": "10805",
+      "md5": "c975ad6a2301e20a31479dfb233277b6",
+      "crc32": "f292ab3d",
+      "sha1": "6dc13e22eddb3d49bd9e8f2654dc787a1fa73ac6"
+    },
+    {
       "name": "wired-2022_archive.torrent",
       "source": "metadata",
-      "btih": "427fcffff491b11ba1c7c504185f025f447f10c4",
-      "mtime": "1660633919",
-      "size": "99034",
-      "md5": "3db4bbbdcc230dfee7fb149e3efc4f46",
-      "crc32": "6aec50b5",
-      "sha1": "6c7621ee1ac134cd5830e50ba3da144f2d8b6e1b",
+      "btih": "0c0d5f68ad2ae4649c7e4cc94dc4e142ef90fc04",
+      "mtime": "1660675859",
+      "size": "100282",
+      "md5": "df42d436f7db798407bf14481226b5f8",
+      "crc32": "eecb518e",
+      "sha1": "6d6ca4a6c54cedee539ac0accce00493765c1029",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wired-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "51c43a2b9fa3ce0184e7e689270ea238",
+      "md5": "1a30e2f2c0e351463ccd3483d298ea98",
       "summation": "md5"
     },
     {
       "name": "wired-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660633167",
-      "size": "581632",
-      "md5": "807ade968c8005e511d62829982c2e77",
-      "crc32": "53a28d7f",
-      "sha1": "0c1cccea52a5f3a58b8db7d87417fab624e94b2a",
+      "mtime": "1660675737",
+      "size": "585728",
+      "md5": "9f374b68af732236dbde85bb7b6a583a",
+      "crc32": "e8a62de1",
+      "sha1": "e9fff0a8a08676d8b31a6b925177e0fbfcee40cb",
       "format": "Metadata"
     },
     {
@@ -4942,9 +5004,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 474,
-  "item_last_updated": 1660633919,
-  "item_size": 36986195,
+  "files_count": 480,
+  "item_last_updated": 1660675859,
+  "item_size": 37385583,
   "metadata": {
     "identifier": "wired-2022",
     "collection": [
@@ -4962,12 +5024,7 @@
     "addeddate": "2022-07-04 20:17:35"
   },
   "server": "ia801409.us.archive.org",
-  "uniq": 1530116948,
-  "wired-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
+  "uniq": 1948434343,
   "workable_servers": [
     "ia801409.us.archive.org",
     "ia601409.us.archive.org"

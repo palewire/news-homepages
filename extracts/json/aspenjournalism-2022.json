@@ -1,5 +1,5 @@
 {
-  "created": 1660657154,
+  "created": 1660690973,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/4/items/aspenjournalism-2022",
@@ -3992,31 +3992,93 @@
       "sha1": "ce85bf73568a234a22f2559441c2807d959f5118"
     },
     {
+      "name": "aspenjournalism-2022-08-16T16:59:28.117743-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660690770",
+      "size": "14242",
+      "md5": "240e69c6810a73b25825d4430c15fbfa",
+      "crc32": "c8fc7931",
+      "sha1": "7579d75a30be01c0442f6dbf9857f0eb9ae741ae",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenjournalism-2022-08-16T16:59:28.117743-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660690772",
+      "size": "14083",
+      "md5": "335ab8842226d2ef45c0364e796d71b8",
+      "crc32": "be01f037",
+      "sha1": "12e4c2fdad1a58cb8978ff9d1b98f56aba723896",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenjournalism-2022-08-16T16:59:28.117743-06:00.jpg",
+      "source": "original",
+      "mtime": "1660690769",
+      "size": "282993",
+      "md5": "856e881119b07fec3c36a2ddbe1086b6",
+      "crc32": "239cd78b",
+      "sha1": "14e090ff980c81001f1634462bee31987a1deea5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aspenjournalism-2022-08-16T16:59:28.117743-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660690774",
+      "size": "1495",
+      "md5": "4e6f7e4e6d7c3b8504e6f1b616a67c49",
+      "crc32": "78bbee7f",
+      "sha1": "4e8932faefed9a7256b156634d3c71932fb8ae2d",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenjournalism-2022-08-16T16:59:28.117743-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1660690775",
+      "size": "11788",
+      "md5": "9d05b8fc925906e17edcfa0013614f73",
+      "crc32": "28c52d1a",
+      "sha1": "ee960a1f9ff0e709e7b861094842fd91f48a6e58",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenjournalism-2022-08-16T16:59:28.117743-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aspenjournalism-2022-08-16T16:59:28.117743-06:00.jpg",
+      "mtime": "1660690900",
+      "size": "9215",
+      "md5": "72e94b38b487de83803f517fda7774c9",
+      "crc32": "e753ca9f",
+      "sha1": "18a80a63ec2f7860cd8d6d7f7ccac160c77e392b"
+    },
+    {
       "name": "aspenjournalism-2022_archive.torrent",
       "source": "metadata",
-      "btih": "43805987f69e579263457e306e078f2378b0edcf",
-      "mtime": "1660657098",
-      "size": "84771",
-      "md5": "9d74e2c3c63f1cc8604051b3501c2d81",
-      "crc32": "88def8a8",
-      "sha1": "f609cbc8969cb1e5674424a0ba322352f86cc7ef",
+      "btih": "a4ebb0624f98bce16c9582bbb365efad49955b39",
+      "mtime": "1660690916",
+      "size": "86080",
+      "md5": "40634cca8cf183d2ec0b04cf4c29b43e",
+      "crc32": "a878e3de",
+      "sha1": "dfec79cc68edb8f5f29839f220446a231cd677e9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aspenjournalism-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d4a7050db69109a054b096e004af2eb1",
+      "md5": "37333212086b7a460810babd8b811392",
       "summation": "md5"
     },
     {
       "name": "aspenjournalism-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660656429",
-      "size": "491520",
-      "md5": "557a8fa6e73cc02b2e93cda964e04cec",
-      "crc32": "af5a25b2",
-      "sha1": "84d85419e84a3c4d45f4f07dcc159a1331fca9b7",
+      "mtime": "1660690781",
+      "size": "495616",
+      "md5": "7bb2f098cdc98ff8538be493e63f8a12",
+      "crc32": "a1a00dd1",
+      "sha1": "7227a60d3d9aa05dde1d4a07d4a70ffbfd547092",
       "format": "Metadata"
     },
     {
@@ -4030,9 +4092,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 387,
-  "item_last_updated": 1660657098,
-  "item_size": 29290721,
+  "files_count": 393,
+  "item_last_updated": 1660690916,
+  "item_size": 29629942,
   "metadata": {
     "identifier": "aspenjournalism-2022",
     "collection": [
@@ -4049,10 +4111,10 @@
     "publicdate": "2022-07-09 03:55:43",
     "addeddate": "2022-07-09 03:55:43"
   },
-  "server": "ia902507.us.archive.org",
-  "uniq": 973968853,
+  "server": "ia802507.us.archive.org",
+  "uniq": 877116524,
   "workable_servers": [
-    "ia902507.us.archive.org",
-    "ia802507.us.archive.org"
+    "ia802507.us.archive.org",
+    "ia902507.us.archive.org"
   ]
 }

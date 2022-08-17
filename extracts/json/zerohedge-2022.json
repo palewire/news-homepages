@@ -1,5 +1,5 @@
 {
-  "created": 1660658359,
+  "created": 1660687943,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/19/items/zerohedge-2022",
@@ -4718,31 +4718,83 @@
       "sha1": "a2e1fbc3f38019fec3609daece07d444d5a04de7"
     },
     {
+      "name": "zerohedge-2022-08-16T14:49:57.832249-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660675801",
+      "size": "21112",
+      "md5": "ef0961daeab51bad52c7e3ed50df71fc",
+      "crc32": "e6e2b520",
+      "sha1": "79b54597178afe3d98e82490134d16945830d9b4",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohedge-2022-08-16T14:49:57.832249-04:00.jpg",
+      "source": "original",
+      "mtime": "1660675799",
+      "size": "264374",
+      "md5": "45400445d4934405c3374ff2d7609cd1",
+      "crc32": "f73920af",
+      "sha1": "9feb9a8855113c61a34490716349b51f45214720",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "zerohedge-2022-08-16T14:49:57.832249-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660675803",
+      "size": "1483",
+      "md5": "4a671bf94a910df957d1844e1abf3c41",
+      "crc32": "cee8d912",
+      "sha1": "0eeb150b3ba6548a88e2eebdc2c49d57990c419f",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohedge-2022-08-16T14:49:57.832249-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660675805",
+      "size": "36801",
+      "md5": "42680445aec174401022b527dc3393f8",
+      "crc32": "53690ed2",
+      "sha1": "5ff8ab17ccbb023b6b1a9b697480e765060a6bb4",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohedge-2022-08-16T14:49:57.832249-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "zerohedge-2022-08-16T14:49:57.832249-04:00.jpg",
+      "mtime": "1660676008",
+      "size": "9388",
+      "md5": "4a3448e64398763bb8e05d1c189d80bb",
+      "crc32": "b28a5158",
+      "sha1": "3e5de3d339a06330021acb69d68f1514e70ebec9"
+    },
+    {
       "name": "zerohedge-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3985d6aaa357716b416ad381fd29edda68b3ba74",
-      "mtime": "1660634110",
-      "size": "97290",
-      "md5": "a0cfd3bd078b623dd112bc5a852ea076",
-      "crc32": "55c40d85",
-      "sha1": "61dec59aad46cf653f20fd18245f639dd733d910",
+      "btih": "14f87eddbf99fa1ea812f33c0ebc6e2305738f11",
+      "mtime": "1660676014",
+      "size": "98348",
+      "md5": "c7ad6141b4120a74ab7c094364de9739",
+      "crc32": "c298723c",
+      "sha1": "878886ad0d22f95a28a8f6f419ab6c5440390d21",
       "format": "Archive BitTorrent"
     },
     {
       "name": "zerohedge-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8dff5991d117183591e0fb98ad4adfff",
+      "md5": "13db23a87ec9f41fe1a829d56e81a954",
       "summation": "md5"
     },
     {
       "name": "zerohedge-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660633184",
-      "size": "585728",
-      "md5": "31259d088678668be58ecd9349328a6b",
-      "crc32": "e26c7968",
-      "sha1": "169c1bfec1ed7e485d42b6bc6ba6be1888ea8dfa",
+      "mtime": "1660675816",
+      "size": "589824",
+      "md5": "7b35f303ca7858b76b63842c7b4c9950",
+      "crc32": "aefb619e",
+      "sha1": "cb58af6c4f1d5933ae4942ea3d1ee1496ad540af",
       "format": "Metadata"
     },
     {
@@ -4756,9 +4808,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 458,
-  "item_last_updated": 1660634110,
-  "item_size": 29342669,
+  "files_count": 463,
+  "item_last_updated": 1660676014,
+  "item_size": 29680981,
   "metadata": {
     "identifier": "zerohedge-2022",
     "collection": [
@@ -4775,15 +4827,10 @@
     "publicdate": "2022-07-17 15:04:04",
     "addeddate": "2022-07-17 15:04:04"
   },
-  "server": "ia601505.us.archive.org",
-  "uniq": 96299074,
+  "server": "ia801505.us.archive.org",
+  "uniq": 1551050238,
   "workable_servers": [
-    "ia601505.us.archive.org",
-    "ia801505.us.archive.org"
-  ],
-  "zerohedge-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  }
+    "ia801505.us.archive.org",
+    "ia601505.us.archive.org"
+  ]
 }

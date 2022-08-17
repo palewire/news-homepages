@@ -1,5 +1,5 @@
 {
-  "created": 1660658223,
+  "created": 1660675874,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/1/items/timesenterprise-2022",
@@ -2542,31 +2542,73 @@
       "sha1": "101818cd9a880bd173e71239ed43cdd925a500f5"
     },
     {
+      "name": "timesenterprise-2022-08-16T14:47:07.157325-04:00.jpg",
+      "source": "original",
+      "mtime": "1660675630",
+      "size": "304796",
+      "md5": "2795a31fb5d39b331bbd4a01d3854826",
+      "crc32": "4143e717",
+      "sha1": "b0f42482018b61d4ce7aa07a07e5a5d724c655d8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "timesenterprise-2022-08-16T14:47:07.157325-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660675632",
+      "size": "1540",
+      "md5": "f145d1f9688db0db3bb4233596082239",
+      "crc32": "4ee63b62",
+      "sha1": "89bd573663a12a8b323db5bd684e0badb2dc8f2f",
+      "format": "JSON"
+    },
+    {
+      "name": "timesenterprise-2022-08-16T14:47:07.157325-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660675634",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "timesenterprise-2022-08-16T14:47:07.157325-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "timesenterprise-2022-08-16T14:47:07.157325-04:00.jpg",
+      "mtime": "1660675839",
+      "size": "9802",
+      "md5": "56c76583aeb38f90f1531cc5c03fded8",
+      "crc32": "d6bd09b5",
+      "sha1": "ddac4cae71f5f1ab989b150681427bea9ae4069e"
+    },
+    {
       "name": "timesenterprise-2022_archive.torrent",
       "source": "metadata",
-      "btih": "38ab0668153aa1bd53aa31053df60eccd4ffe50c",
-      "mtime": "1660633920",
-      "size": "54338",
-      "md5": "6552d7b8d18c49a1e415a75632a7c48d",
-      "crc32": "10deee46",
-      "sha1": "13af45591f558863e6ddc350626691cde26a417e",
+      "btih": "94ab21dc507bad57ac03b161198c00b43413b01a",
+      "mtime": "1660675849",
+      "size": "55206",
+      "md5": "dd354fba7148eedf3655d06fef60c27f",
+      "crc32": "491ce4df",
+      "sha1": "79393a961b04f39f5f7a52e2bb846fca36886798",
       "format": "Archive BitTorrent"
     },
     {
       "name": "timesenterprise-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "50b780894c100a47300d7a030c33f929",
+      "md5": "5c27c2b63a58ebcb0e68d5f5725c0b4e",
       "summation": "md5"
     },
     {
       "name": "timesenterprise-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660632960",
-      "size": "311296",
-      "md5": "3cf34faa5f376721dca9e990ffade4d6",
-      "crc32": "9ca25b66",
-      "sha1": "30cb81e8620e07892b2ea1d485102b9a230e2288",
+      "mtime": "1660675637",
+      "size": "315392",
+      "md5": "a995538e3f904c422f30b2ee01b40778",
+      "crc32": "237b912e",
+      "sha1": "2329b39f2f58b7d8812da327f1e3bc74a28935c6",
       "format": "Metadata"
     },
     {
@@ -2580,9 +2622,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 247,
-  "item_last_updated": 1660633920,
-  "item_size": 22926986,
+  "files_count": 251,
+  "item_last_updated": 1660675849,
+  "item_size": 23248290,
   "metadata": {
     "identifier": "timesenterprise-2022",
     "collection": [
@@ -2599,19 +2641,10 @@
     "publicdate": "2022-07-20 23:31:34",
     "addeddate": "2022-07-20 23:31:34"
   },
-  "server": "ia601507.us.archive.org",
-  "timesenterprise-2022": {
-    "url": "https://www.timesenterprise.com",
-    "job_id": "spn2-6e27d787a9d8a8a704800e34c2fec31ef404a9e4",
-    "status_ext": "error:job-failed",
-    "status": "error",
-    "resources": [],
-    "duration_sec": 0.741,
-    "message": "Job failed."
-  },
-  "uniq": 966889571,
+  "server": "ia801507.us.archive.org",
+  "uniq": 721455792,
   "workable_servers": [
-    "ia601507.us.archive.org",
-    "ia801507.us.archive.org"
+    "ia801507.us.archive.org",
+    "ia601507.us.archive.org"
   ]
 }

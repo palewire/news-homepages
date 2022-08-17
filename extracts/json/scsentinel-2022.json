@@ -1,5 +1,5 @@
 {
-  "created": 1660658037,
+  "created": 1660675714,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/9/items/scsentinel-2022",
@@ -4246,31 +4246,93 @@
       "sha1": "c20b9170a40fe1f709778edee37562dc8c5a06e8"
     },
     {
+      "name": "scsentinel-2022-08-16T11:44:48.111088-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660675493",
+      "size": "38280",
+      "md5": "66f10e11968170f5764510c82e8aba53",
+      "crc32": "8d4084da",
+      "sha1": "d9c82383b1404e021c51593345336aa782ffddb1",
+      "format": "JSON"
+    },
+    {
+      "name": "scsentinel-2022-08-16T11:44:48.111088-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660675495",
+      "size": "43322",
+      "md5": "0c30598098e8cadf9655045fd020e762",
+      "crc32": "7a43b5a4",
+      "sha1": "f6cc5899b8ad320b8618bc538ed57d652662a42e",
+      "format": "JSON"
+    },
+    {
+      "name": "scsentinel-2022-08-16T11:44:48.111088-07:00.jpg",
+      "source": "original",
+      "mtime": "1660675492",
+      "size": "293840",
+      "md5": "7f9280906e69b91397401e1d5cdabcec",
+      "crc32": "5f9c5cbb",
+      "sha1": "eccc2b1da595b16bcabd39921b796a5847c79bb9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "scsentinel-2022-08-16T11:44:48.111088-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660675497",
+      "size": "1558",
+      "md5": "4aa82fe6f89a3642e0f8391b7f1dbb0b",
+      "crc32": "cfc60fdf",
+      "sha1": "69490aa56101dbe5b03fa2a236609d646e89e5ae",
+      "format": "JSON"
+    },
+    {
+      "name": "scsentinel-2022-08-16T11:44:48.111088-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660675498",
+      "size": "33812",
+      "md5": "4cbfaca0b867ccbe64578e3eb69424ff",
+      "crc32": "f2e7e908",
+      "sha1": "8c3dbeba57772718a251af39116fd5397e1c480b",
+      "format": "JSON"
+    },
+    {
+      "name": "scsentinel-2022-08-16T11:44:48.111088-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "scsentinel-2022-08-16T11:44:48.111088-07:00.jpg",
+      "mtime": "1660675670",
+      "size": "9638",
+      "md5": "42dc0f1183148168f75106091d64b9bf",
+      "crc32": "1e5db15d",
+      "sha1": "8c71c4ac02bde94682b9968f8fae2c7853309578"
+    },
+    {
       "name": "scsentinel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "546064b14d1969e76c2e4ed7a00a5d08314c6415",
-      "mtime": "1660633443",
-      "size": "87921",
-      "md5": "a1d238fa3421952ed931c7166a99c4e8",
-      "crc32": "dae5cce0",
-      "sha1": "956db55d52960c22cfc8ea0fd3338910d8b99474",
+      "btih": "843784f514f13a91e46fff87f490bfe5fab95922",
+      "mtime": "1660675677",
+      "size": "89200",
+      "md5": "037c9c00b07040124552a019c8d53f6f",
+      "crc32": "a2759547",
+      "sha1": "b27f5ce7540975e8ce912e3a41c3486d3b47a815",
       "format": "Archive BitTorrent"
     },
     {
       "name": "scsentinel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8f4e809391f2e5d107be28e155b11f0a",
+      "md5": "995f5eba60c597e69750c740d78deba5",
       "summation": "md5"
     },
     {
       "name": "scsentinel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660632658",
-      "size": "512000",
-      "md5": "708fd9d4db4f727d612954661a4295c2",
-      "crc32": "bf99d8a4",
-      "sha1": "d898d6e20e0a3d07f1669fd585228c4aba2993b0",
+      "mtime": "1660675503",
+      "size": "520192",
+      "md5": "6c0009a18d9d486916b3c18de0afbaff",
+      "crc32": "c4ed1455",
+      "sha1": "49c71cb46f5b0055bd0bf3fc5976efaf7b8756fe",
       "format": "Metadata"
     },
     {
@@ -4284,9 +4346,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 411,
-  "item_last_updated": 1660633443,
-  "item_size": 32021055,
+  "files_count": 417,
+  "item_last_updated": 1660675677,
+  "item_size": 32450976,
   "metadata": {
     "identifier": "scsentinel-2022",
     "collection": [
@@ -4303,17 +4365,8 @@
     "publicdate": "2022-07-09 04:02:13",
     "addeddate": "2022-07-09 04:02:13"
   },
-  "scsentinel-2022": {
-    "url": "https://www.santacruzsentinel.com/",
-    "job_id": "spn2-0ab465f0a968bbf1add4753a9138665413680548",
-    "status_ext": "error:job-failed",
-    "status": "error",
-    "resources": [],
-    "duration_sec": 0.582,
-    "message": "Job failed."
-  },
   "server": "ia801400.us.archive.org",
-  "uniq": 365899375,
+  "uniq": 311098463,
   "workable_servers": [
     "ia801400.us.archive.org",
     "ia601400.us.archive.org"

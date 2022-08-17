@@ -1,6 +1,5 @@
 {
-  "conflict": 1660657332,
-  "created": 1660657332,
+  "created": 1660691181,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/3/items/cprnews-2022",
@@ -389,31 +388,93 @@
       "sha1": "982569b29746942539e34d5bb0f5425ba4747570"
     },
     {
+      "name": "cprnews-2022-08-16T17:03:09.540275-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660691000",
+      "size": "28373",
+      "md5": "8c5df693c982aac497cbb1c69026ff3c",
+      "crc32": "8d315103",
+      "sha1": "e56256e98415ee8d79bf2b2455277753054fc07f",
+      "format": "JSON"
+    },
+    {
+      "name": "cprnews-2022-08-16T17:03:09.540275-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660691001",
+      "size": "15417",
+      "md5": "b90035c02c1720b82c44ad5e778bf7a8",
+      "crc32": "06cf24fd",
+      "sha1": "4fa4b118f1198b16b788f2fb6e6c8ba3a3ffdd63",
+      "format": "JSON"
+    },
+    {
+      "name": "cprnews-2022-08-16T17:03:09.540275-06:00.jpg",
+      "source": "original",
+      "mtime": "1660690991",
+      "size": "239170",
+      "md5": "1f63a48f903bf0947e96c11dc8c905ac",
+      "crc32": "bbb1d7de",
+      "sha1": "35ac63af9781004438955a7987056e53e3cf2cc0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cprnews-2022-08-16T17:03:09.540275-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660691003",
+      "size": "1423",
+      "md5": "9cf90ba83fb29019689c2bcfaa046122",
+      "crc32": "47e71ba5",
+      "sha1": "e3d3533ea17987c4ca3fb1b72d57121ab94904ad",
+      "format": "JSON"
+    },
+    {
+      "name": "cprnews-2022-08-16T17:03:09.540275-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1660691006",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "cprnews-2022-08-16T17:03:09.540275-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cprnews-2022-08-16T17:03:09.540275-06:00.jpg",
+      "mtime": "1660691153",
+      "size": "9986",
+      "md5": "cf0e7ce50c360f47de43d44b7a927bd4",
+      "crc32": "90b98beb",
+      "sha1": "654138ce8abe0fe47cef1373af9071ac4a1131a9"
+    },
+    {
       "name": "cprnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6b02e6e280f58f4df1ca04d147e536ead366bbee",
-      "mtime": "1660657330",
-      "size": "9120",
-      "md5": "52aa0e8d0c17f025fbd207f237a76442",
-      "crc32": "d87c8858",
-      "sha1": "0f12b4f36f155abc7ee1c76efffe0c0dfe554664",
+      "btih": "d025a7ded3cee349e591d207f894dd9038f42221",
+      "mtime": "1660691157",
+      "size": "10380",
+      "md5": "6582252aab088f3b0a81e9634262af29",
+      "crc32": "92ee3bb9",
+      "sha1": "4c1fa2cadbe3b3294c9f9e29d6572705007a72a8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cprnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7baac929b6919fd74f4b88a851b1a302",
+      "md5": "965dc810fd6426c44dcf919cd507bb79",
       "summation": "md5"
     },
     {
       "name": "cprnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660656786",
-      "size": "61440",
-      "md5": "701ff577d2afb65072eae165570c9b0c",
-      "crc32": "05ed7610",
-      "sha1": "7d66b4f6a54ba2b50e5a26dafc964e6264021418",
+      "mtime": "1660691012",
+      "size": "69632",
+      "md5": "dc0dc493883260cc64627919dd521de6",
+      "crc32": "50d244de",
+      "sha1": "e25fe608a44841d5f408876053ba33e67c0a7b44",
       "format": "Metadata"
     },
     {
@@ -427,9 +488,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 41,
-  "item_last_updated": 1660657330,
-  "item_size": 2010278,
+  "files_count": 47,
+  "item_last_updated": 1660691157,
+  "item_size": 2314301,
   "metadata": {
     "identifier": "cprnews-2022",
     "collection": [
@@ -446,29 +507,10 @@
     "publicdate": "2022-08-13 23:51:19",
     "addeddate": "2022-08-13 23:51:19"
   },
-  "pending_tasks": true,
-  "server": "ia601508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3371619414,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3371629128,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1677320648,
+  "server": "ia801508.us.archive.org",
+  "uniq": 2128020726,
   "workable_servers": [
+    "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ]
 }
