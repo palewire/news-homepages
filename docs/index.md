@@ -35,6 +35,8 @@ The archive at [homepages.news](https://homepages.news) is an [open-source softw
 
 The assets are archived in a permanent collection [at the Internet Archive](https://archive.org/details/news-homepages). The latest screenshots, analysis and data are published here, as well as on [Twitter](https://twitter.com/newshomepages), [Telegram](https://t.me/newshomepages) and [Discord](https://discord.gg/xkTMPMHM).
 
+The system supports the creation of bots to post a newsroom’s latest screenshots into a private Slack channel. [The tool](https://palewi.re/docs/news-homepages/slack.html) is used by organizations in the U.S. and abroad to save and share images each day.
+
 ## Contributing
 
 ```{toctree}
