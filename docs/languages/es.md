@@ -7,7 +7,7 @@ orphan: true
 
 # Spanish
 
-The most recent homepages from 45 news sites in this language.
+The most recent homepages from 44 news sites in this language.
 
 <div class="latest-parent">
 
@@ -207,15 +207,6 @@ The most recent homepages from 45 news sites in this language.
      loading="lazy">
  </a>
  <p><a href="../sites/lajornadaonline.html">Jornada</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/lajornada.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lajornada.jpg"
-     alt="La Jornada"
-     loading="lazy">
- </a>
- <p><a href="../sites/lajornada.html">La Jornada</a></p>
 </div>
 
 <div class="latest-child">
@@ -450,7 +441,6 @@ The most recent homepages from 45 news sites in this language.
 |[Excélsior](https://palewi.re/docs/news-homepages/sites/excelsior.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/excelsior.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/excelsior.xml)|
 |[Financiero](https://palewi.re/docs/news-homepages/sites/elfinanciero_mx.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/elfinanciero_mx.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/elfinanciero_mx.xml)|
 |[Jornada](https://palewi.re/docs/news-homepages/sites/lajornadaonline.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lajornadaonline.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lajornadaonline.xml)|
-|[La Jornada](https://palewi.re/docs/news-homepages/sites/lajornada.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lajornada.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lajornada.xml)|
 |[La Nacion](https://palewi.re/docs/news-homepages/sites/lanacion.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lanacion.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lanacion.xml)|
 |[La Nueva España](https://palewi.re/docs/news-homepages/sites/lanuevaespana.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lanuevaespana.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lanuevaespana.xml)|
 |[La Opinión A Coruña](https://palewi.re/docs/news-homepages/sites/laopinioncoruna.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/laopinioncoruna.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/laopinioncoruna.xml)|

@@ -7,7 +7,7 @@ orphan: true
 
 # Mexico
 
-The most recent homepages from 14 news sites in this country.
+The most recent homepages from 13 news sites in this country.
 
 <div class="latest-parent">
 
@@ -63,15 +63,6 @@ The most recent homepages from 14 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/lajornadaonline.html">Jornada</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/lajornada.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lajornada.jpg"
-     alt="La Jornada"
-     loading="lazy">
- </a>
- <p><a href="../sites/lajornada.html">La Jornada</a></p>
 </div>
 
 <div class="latest-child">
@@ -156,7 +147,6 @@ The most recent homepages from 14 news sites in this country.
 |[Excélsior](https://palewi.re/docs/news-homepages/sites/excelsior.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/excelsior.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/excelsior.xml)|
 |[Financiero](https://palewi.re/docs/news-homepages/sites/elfinanciero_mx.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/elfinanciero_mx.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/elfinanciero_mx.xml)|
 |[Jornada](https://palewi.re/docs/news-homepages/sites/lajornadaonline.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lajornadaonline.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lajornadaonline.xml)|
-|[La Jornada](https://palewi.re/docs/news-homepages/sites/lajornada.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lajornada.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lajornada.xml)|
 |[Milenio](https://palewi.re/docs/news-homepages/sites/milenio.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/milenio.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/milenio.xml)|
 |[MVS Noticias](https://palewi.re/docs/news-homepages/sites/mvsnoticias.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mvsnoticias.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mvsnoticias.xml)|
 |[Proceso](https://palewi.re/docs/news-homepages/sites/proceso.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/proceso.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/proceso.xml)|
