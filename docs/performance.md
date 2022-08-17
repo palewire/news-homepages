@@ -3,7 +3,7 @@
 
 # Performance ranking
 
-As part of its archiving routine, our system conducts routine audits of code quality using [Google's open-source Lighthouse tool](https://developer.chrome.com/docs/lighthouse/overview/). This page ranks all sites with 10 more observations over the last seven days by median [performance score](https://developer.chrome.com/docs/lighthouse/performance/).
+As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. This page ranks the 775 sites with 10 or more observations over the last seven days by median [performance score](https://developer.chrome.com/docs/lighthouse/performance/).
 
 The value is the weighted average of a basket of speed and efficiency metrics gathered by Lighthouse. Scores of 90 or greater are considered good. Score of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
@@ -16,7 +16,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
   </tr>
  </thead>
  <tbody>
-
+  
   <tr>
     <td>1</td>
     <td>
@@ -28,7 +28,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         100
     </td>
   </tr>
-
+  
   <tr>
     <td>2</td>
     <td>
@@ -40,7 +40,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         97
     </td>
   </tr>
-
+  
   <tr>
     <td>3</td>
     <td>
@@ -52,7 +52,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         96
     </td>
   </tr>
-
+  
   <tr>
     <td>4</td>
     <td>
@@ -64,19 +64,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         94
     </td>
   </tr>
-
-  <tr>
-    <td>5</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/torrentfreak.html">
-            TorrentFreak
-        </a>
-    </td>
-    <td style="text-align: right; background-color: green; color: white;">
-        93
-    </td>
-  </tr>
-
+  
   <tr>
     <td>5</td>
     <td>
@@ -88,7 +76,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         93
     </td>
   </tr>
-
+  
+  <tr>
+    <td>5</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/torrentfreak.html">
+            TorrentFreak
+        </a>
+    </td>
+    <td style="text-align: right; background-color: green; color: white;">
+        93
+    </td>
+  </tr>
+  
   <tr>
     <td>7</td>
     <td>
@@ -100,7 +100,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         91
     </td>
   </tr>
-
+  
   <tr>
     <td>8</td>
     <td>
@@ -112,7 +112,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         90
     </td>
   </tr>
-
+  
   <tr>
     <td>9</td>
     <td>
@@ -124,7 +124,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         89
     </td>
   </tr>
-
+  
   <tr>
     <td>10</td>
     <td>
@@ -136,19 +136,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         89
     </td>
   </tr>
-
-  <tr>
-    <td>11</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/restofworld.html">
-            Rest of World
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        88
-    </td>
-  </tr>
-
+  
   <tr>
     <td>11</td>
     <td>
@@ -160,7 +148,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         88
     </td>
   </tr>
-
+  
+  <tr>
+    <td>11</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/restofworld.html">
+            Rest of World
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        88
+    </td>
+  </tr>
+  
   <tr>
     <td>11</td>
     <td>
@@ -172,19 +172,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         88
     </td>
   </tr>
-
-  <tr>
-    <td>14</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/oklahomawatch.html">
-            Oklahoma Watch
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        87
-    </td>
-  </tr>
-
+  
   <tr>
     <td>14</td>
     <td>
@@ -196,19 +184,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         87
     </td>
   </tr>
-
+  
   <tr>
-    <td>16</td>
+    <td>14</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/prismreports.html">
-            Prism
+        <a href="https://palewi.re/docs/news-homepages/sites/oklahomawatch.html">
+            Oklahoma Watch
         </a>
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        86
+        87
     </td>
   </tr>
-
+  
   <tr>
     <td>16</td>
     <td>
@@ -220,19 +208,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         86
     </td>
   </tr>
-
+  
   <tr>
-    <td>18</td>
+    <td>16</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/mtnstspotlight.html">
-            Mountain State Spotlight
+        <a href="https://palewi.re/docs/news-homepages/sites/prismreports.html">
+            Prism
         </a>
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        85
+        86
     </td>
   </tr>
-
+  
   <tr>
     <td>18</td>
     <td>
@@ -244,19 +232,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         85
     </td>
   </tr>
-
-  <tr>
-    <td>18</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/mlnow.html">
-            Mission Local
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        85
-    </td>
-  </tr>
-
+  
   <tr>
     <td>18</td>
     <td>
@@ -268,7 +244,31 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         85
     </td>
   </tr>
-
+  
+  <tr>
+    <td>18</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/mlnow.html">
+            Mission Local
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        85
+    </td>
+  </tr>
+  
+  <tr>
+    <td>18</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/mtnstspotlight.html">
+            Mountain State Spotlight
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        85
+    </td>
+  </tr>
+  
   <tr>
     <td>22</td>
     <td>
@@ -280,7 +280,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         84
     </td>
   </tr>
-
+  
   <tr>
     <td>22</td>
     <td>
@@ -292,19 +292,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         84
     </td>
   </tr>
-
-  <tr>
-    <td>24</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/yorkdispatch.html">
-            York Dispatch
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        83
-    </td>
-  </tr>
-
+  
   <tr>
     <td>24</td>
     <td>
@@ -316,7 +304,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         83
     </td>
   </tr>
-
+  
   <tr>
     <td>24</td>
     <td>
@@ -328,79 +316,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         83
     </td>
   </tr>
-
+  
   <tr>
-    <td>27</td>
+    <td>24</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/stevenspointjrl.html">
-            Stevens Point Journal
+        <a href="https://palewi.re/docs/news-homepages/sites/yorkdispatch.html">
+            York Dispatch
         </a>
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        82
+        83
     </td>
   </tr>
-
-  <tr>
-    <td>27</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/gainesvillesun.html">
-            Gainesville Sun
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        82
-    </td>
-  </tr>
-
-  <tr>
-    <td>27</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/amestribnews.html">
-            Ames Tribune
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        82
-    </td>
-  </tr>
-
-  <tr>
-    <td>27</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/themarkup.html">
-            The Markup
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        82
-    </td>
-  </tr>
-
-  <tr>
-    <td>27</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/reporternews.html">
-            Abilene Reporter News
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        82
-    </td>
-  </tr>
-
-  <tr>
-    <td>27</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/crucessunnews.html">
-            Las Cruces Sun News
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        82
-    </td>
-  </tr>
-
+  
   <tr>
     <td>27</td>
     <td>
@@ -412,9 +340,33 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         82
     </td>
   </tr>
-
+  
   <tr>
-    <td>27</td>
+    <td>28</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/reporternews.html">
+            Abilene Reporter News
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        82
+    </td>
+  </tr>
+  
+  <tr>
+    <td>28</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/amestribnews.html">
+            Ames Tribune
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        82
+    </td>
+  </tr>
+  
+  <tr>
+    <td>28</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/onlineathens.html">
             Athens Banner-Herald
@@ -424,9 +376,9 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         82
     </td>
   </tr>
-
+  
   <tr>
-    <td>27</td>
+    <td>28</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/detroitnews.html">
             Detroit News
@@ -436,21 +388,21 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         82
     </td>
   </tr>
-
+  
   <tr>
-    <td>27</td>
+    <td>28</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/wausauherald.html">
-            Wausau Daily Herald
+        <a href="https://palewi.re/docs/news-homepages/sites/gainesvillesun.html">
+            Gainesville Sun
         </a>
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
         82
     </td>
   </tr>
-
+  
   <tr>
-    <td>27</td>
+    <td>28</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/presscitizen.html">
             Iowa City Press-Citizen
@@ -460,7 +412,55 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         82
     </td>
   </tr>
-
+  
+  <tr>
+    <td>28</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/crucessunnews.html">
+            Las Cruces Sun News
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        82
+    </td>
+  </tr>
+  
+  <tr>
+    <td>28</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/stevenspointjrl.html">
+            Stevens Point Journal
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        82
+    </td>
+  </tr>
+  
+  <tr>
+    <td>28</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/themarkup.html">
+            The Markup
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        82
+    </td>
+  </tr>
+  
+  <tr>
+    <td>28</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/wausauherald.html">
+            Wausau Daily Herald
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        82
+    </td>
+  </tr>
+  
   <tr>
     <td>38</td>
     <td>
@@ -472,43 +472,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         81
     </td>
   </tr>
-
-  <tr>
-    <td>39</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/laprensaar.html">
-            La Prensa
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        81
-    </td>
-  </tr>
-
-  <tr>
-    <td>39</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/aug_chronicle.html">
-            Augusta Chronicle
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        81
-    </td>
-  </tr>
-
-  <tr>
-    <td>39</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/dmregister.html">
-            Des Moines Register
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        81
-    </td>
-  </tr>
-
+  
   <tr>
     <td>39</td>
     <td>
@@ -520,7 +484,43 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         81
     </td>
   </tr>
-
+  
+  <tr>
+    <td>39</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/aug_chronicle.html">
+            Augusta Chronicle
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        81
+    </td>
+  </tr>
+  
+  <tr>
+    <td>39</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/dmregister.html">
+            Des Moines Register
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        81
+    </td>
+  </tr>
+  
+  <tr>
+    <td>39</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/laprensaar.html">
+            La Prensa
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        81
+    </td>
+  </tr>
+  
   <tr>
     <td>43</td>
     <td>
@@ -532,19 +532,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         80
     </td>
   </tr>
-
-  <tr>
-    <td>44</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/voiceofsandiego.html">
-            Voice of San Diego
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        80
-    </td>
-  </tr>
-
+  
   <tr>
     <td>44</td>
     <td>
@@ -556,7 +544,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         80
     </td>
   </tr>
-
+  
+  <tr>
+    <td>44</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/voiceofsandiego.html">
+            Voice of San Diego
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        80
+    </td>
+  </tr>
+  
   <tr>
     <td>46</td>
     <td>
@@ -568,43 +568,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         79
     </td>
   </tr>
-
-  <tr>
-    <td>47</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/gbpressgazette.html">
-            Green Bay Press-Gazette
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        79
-    </td>
-  </tr>
-
-  <tr>
-    <td>47</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/thelensnola.html">
-            Lens
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        79
-    </td>
-  </tr>
-
-  <tr>
-    <td>47</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/lehuffpost.html">
-            Le Huffington Post
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        79
-    </td>
-  </tr>
-
+  
   <tr>
     <td>47</td>
     <td>
@@ -616,7 +580,43 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         79
     </td>
   </tr>
-
+  
+  <tr>
+    <td>47</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/gbpressgazette.html">
+            Green Bay Press-Gazette
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        79
+    </td>
+  </tr>
+  
+  <tr>
+    <td>47</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/lehuffpost.html">
+            Le Huffington Post
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        79
+    </td>
+  </tr>
+  
+  <tr>
+    <td>47</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/thelensnola.html">
+            Lens
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        79
+    </td>
+  </tr>
+  
   <tr>
     <td>51</td>
     <td>
@@ -628,19 +628,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         78
     </td>
   </tr>
-
-  <tr>
-    <td>51</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/johncombest.html">
-            John Combest
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        78
-    </td>
-  </tr>
-
+  
   <tr>
     <td>51</td>
     <td>
@@ -652,7 +640,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         78
     </td>
   </tr>
-
+  
+  <tr>
+    <td>51</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/johncombest.html">
+            John Combest
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        78
+    </td>
+  </tr>
+  
   <tr>
     <td>54</td>
     <td>
@@ -664,19 +664,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         77
     </td>
   </tr>
-
-  <tr>
-    <td>55</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/mydesert.html">
-            The Desert Sun
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        77
-    </td>
-  </tr>
-
+  
   <tr>
     <td>55</td>
     <td>
@@ -688,7 +676,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         77
     </td>
   </tr>
-
+  
+  <tr>
+    <td>55</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/mydesert.html">
+            The Desert Sun
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        77
+    </td>
+  </tr>
+  
   <tr>
     <td>57</td>
     <td>
@@ -700,7 +700,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         76
     </td>
   </tr>
-
+  
   <tr>
     <td>58</td>
     <td>
@@ -712,7 +712,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         75
     </td>
   </tr>
-
+  
   <tr>
     <td>59</td>
     <td>
@@ -724,7 +724,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         75
     </td>
   </tr>
-
+  
   <tr>
     <td>60</td>
     <td>
@@ -736,7 +736,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         74
     </td>
   </tr>
-
+  
   <tr>
     <td>60</td>
     <td>
@@ -748,7 +748,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         74
     </td>
   </tr>
-
+  
   <tr>
     <td>62</td>
     <td>
@@ -760,31 +760,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         73
     </td>
   </tr>
-
-  <tr>
-    <td>63</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/teamtrace.html">
-            Trace
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        72
-    </td>
-  </tr>
-
-  <tr>
-    <td>63</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/rnz_news.html">
-            RNZ
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        72
-    </td>
-  </tr>
-
+  
   <tr>
     <td>63</td>
     <td>
@@ -796,31 +772,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         72
     </td>
   </tr>
-
-  <tr>
-    <td>63</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/publicintegrity.html">
-            Center for Public Integrity
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        72
-    </td>
-  </tr>
-
-  <tr>
-    <td>63</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/source_nm.html">
-            Source New Mexico
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        72
-    </td>
-  </tr>
-
+  
   <tr>
     <td>63</td>
     <td>
@@ -832,43 +784,55 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         72
     </td>
   </tr>
-
+  
   <tr>
-    <td>69</td>
+    <td>63</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/revistaistoe.html">
-            ISTOÉ
+        <a href="https://palewi.re/docs/news-homepages/sites/publicintegrity.html">
+            Center for Public Integrity
         </a>
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        71
+        72
     </td>
   </tr>
-
+  
   <tr>
-    <td>69</td>
+    <td>63</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/mo_independent.html">
-            Missouri Independent
+        <a href="https://palewi.re/docs/news-homepages/sites/rnz_news.html">
+            RNZ
         </a>
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        71
+        72
     </td>
   </tr>
-
+  
   <tr>
-    <td>69</td>
+    <td>63</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/calmatters.html">
-            Calmatters
+        <a href="https://palewi.re/docs/news-homepages/sites/source_nm.html">
+            Source New Mexico
         </a>
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        71
+        72
     </td>
   </tr>
-
+  
+  <tr>
+    <td>63</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/teamtrace.html">
+            Trace
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        72
+    </td>
+  </tr>
+  
   <tr>
     <td>69</td>
     <td>
@@ -880,7 +844,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         71
     </td>
   </tr>
-
+  
+  <tr>
+    <td>69</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/calmatters.html">
+            Calmatters
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        71
+    </td>
+  </tr>
+  
   <tr>
     <td>69</td>
     <td>
@@ -892,7 +868,43 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         71
     </td>
   </tr>
-
+  
+  <tr>
+    <td>69</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/revistaistoe.html">
+            ISTOÉ
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        71
+    </td>
+  </tr>
+  
+  <tr>
+    <td>69</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/mo_independent.html">
+            Missouri Independent
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        71
+    </td>
+  </tr>
+  
+  <tr>
+    <td>74</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/inthesetimesmag.html">
+            In These Times 
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        70
+    </td>
+  </tr>
+  
   <tr>
     <td>74</td>
     <td>
@@ -904,19 +916,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         70
     </td>
   </tr>
-
-  <tr>
-    <td>74</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/inthesetimesmag.html">
-            In These Times
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        70
-    </td>
-  </tr>
-
+  
   <tr>
     <td>74</td>
     <td>
@@ -928,43 +928,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         70
     </td>
   </tr>
-
-  <tr>
-    <td>77</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/flphoenixnews.html">
-            Florida Phoenix
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        69
-    </td>
-  </tr>
-
-  <tr>
-    <td>77</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/semafor.html">
-            Semafor
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        69
-    </td>
-  </tr>
-
-  <tr>
-    <td>77</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/objectivejrn.html">
-            Objective
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        69
-    </td>
-  </tr>
-
+  
   <tr>
     <td>77</td>
     <td>
@@ -976,7 +940,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         69
     </td>
   </tr>
-
+  
   <tr>
     <td>77</td>
     <td>
@@ -988,19 +952,43 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         69
     </td>
   </tr>
-
+  
   <tr>
-    <td>82</td>
+    <td>77</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/umd_sbs.html">
-            Stories Beneath the Shell
+        <a href="https://palewi.re/docs/news-homepages/sites/flphoenixnews.html">
+            Florida Phoenix
         </a>
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        67
+        69
     </td>
   </tr>
-
+  
+  <tr>
+    <td>77</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/objectivejrn.html">
+            Objective
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        69
+    </td>
+  </tr>
+  
+  <tr>
+    <td>77</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/semafor.html">
+            Semafor
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        69
+    </td>
+  </tr>
+  
   <tr>
     <td>82</td>
     <td>
@@ -1012,7 +1000,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         67
     </td>
   </tr>
-
+  
+  <tr>
+    <td>82</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/umd_sbs.html">
+            Stories Beneath the Shell
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        67
+    </td>
+  </tr>
+  
   <tr>
     <td>84</td>
     <td>
@@ -1024,7 +1024,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         67
     </td>
   </tr>
-
+  
   <tr>
     <td>85</td>
     <td>
@@ -1036,31 +1036,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         66
     </td>
   </tr>
-
-  <tr>
-    <td>86</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/pointreyeslight.html">
-            Point Reyes Light
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        66
-    </td>
-  </tr>
-
-  <tr>
-    <td>86</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/nrk.html">
-            NRK
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        66
-    </td>
-  </tr>
-
+  
   <tr>
     <td>86</td>
     <td>
@@ -1072,7 +1048,31 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         66
     </td>
   </tr>
-
+  
+  <tr>
+    <td>86</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/nrk.html">
+            NRK
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        66
+    </td>
+  </tr>
+  
+  <tr>
+    <td>86</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/pointreyeslight.html">
+            Point Reyes Light
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        66
+    </td>
+  </tr>
+  
   <tr>
     <td>89</td>
     <td>
@@ -1084,31 +1084,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         65
     </td>
   </tr>
-
-  <tr>
-    <td>90</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/freethinkmedia.html">
-            Freethink
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        64
-    </td>
-  </tr>
-
-  <tr>
-    <td>90</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/bcn_foundation.html">
-            Local News Matters
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        64
-    </td>
-  </tr>
-
+  
   <tr>
     <td>90</td>
     <td>
@@ -1120,19 +1096,31 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         64
     </td>
   </tr>
-
+  
   <tr>
-    <td>93</td>
+    <td>90</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/kut.html">
-            KUT
+        <a href="https://palewi.re/docs/news-homepages/sites/freethinkmedia.html">
+            Freethink
         </a>
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        63
+        64
     </td>
   </tr>
-
+  
+  <tr>
+    <td>90</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/bcn_foundation.html">
+            Local News Matters
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        64
+    </td>
+  </tr>
+  
   <tr>
     <td>93</td>
     <td>
@@ -1144,7 +1132,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         63
     </td>
   </tr>
-
+  
+  <tr>
+    <td>93</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/kut.html">
+            KUT
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        63
+    </td>
+  </tr>
+  
   <tr>
     <td>93</td>
     <td>
@@ -1156,7 +1156,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         63
     </td>
   </tr>
-
+  
   <tr>
     <td>93</td>
     <td>
@@ -1168,7 +1168,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         63
     </td>
   </tr>
-
+  
   <tr>
     <td>97</td>
     <td>
@@ -1180,7 +1180,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         62
     </td>
   </tr>
-
+  
+  <tr>
+    <td>98</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/apmreports.html">
+            APM Reports
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        62
+    </td>
+  </tr>
+  
   <tr>
     <td>98</td>
     <td>
@@ -1192,9 +1204,9 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         62
     </td>
   </tr>
-
+  
   <tr>
-    <td>99</td>
+    <td>98</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/mashable.html">
             Mashable
@@ -1204,33 +1216,9 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         62
     </td>
   </tr>
-
+  
   <tr>
-    <td>99</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/vgnett.html">
-            VG
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        62
-    </td>
-  </tr>
-
-  <tr>
-    <td>99</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/apmreports.html">
-            APM Reports
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        62
-    </td>
-  </tr>
-
-  <tr>
-    <td>99</td>
+    <td>98</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/mongabay.html">
             Mongabay
@@ -1240,19 +1228,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         62
     </td>
   </tr>
-
+  
   <tr>
-    <td>103</td>
+    <td>98</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/dcexaminer.html">
-            Washington Examiner
+        <a href="https://palewi.re/docs/news-homepages/sites/vgnett.html">
+            VG
         </a>
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        61
+        62
     </td>
   </tr>
-
+  
   <tr>
     <td>103</td>
     <td>
@@ -1264,19 +1252,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         61
     </td>
   </tr>
-
+  
   <tr>
-    <td>105</td>
+    <td>103</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/france24_en.html">
-            France 24 English
+        <a href="https://palewi.re/docs/news-homepages/sites/dcexaminer.html">
+            Washington Examiner
         </a>
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        60
+        61
     </td>
   </tr>
-
+  
   <tr>
     <td>105</td>
     <td>
@@ -1288,7 +1276,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         60
     </td>
   </tr>
-
+  
+  <tr>
+    <td>105</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/france24_en.html">
+            France 24 English
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        60
+    </td>
+  </tr>
+  
   <tr>
     <td>107</td>
     <td>
@@ -1300,7 +1300,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         60
     </td>
   </tr>
-
+  
   <tr>
     <td>107</td>
     <td>
@@ -1312,9 +1312,9 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         60
     </td>
   </tr>
-
+  
   <tr>
-    <td>109</td>
+    <td>107</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/mediapart.html">
             Mediapart
@@ -1324,7 +1324,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         60
     </td>
   </tr>
-
+  
   <tr>
     <td>110</td>
     <td>
@@ -1336,7 +1336,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         59
     </td>
   </tr>
-
+  
   <tr>
     <td>111</td>
     <td>
@@ -1348,7 +1348,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         59
     </td>
   </tr>
-
+  
   <tr>
     <td>111</td>
     <td>
@@ -1360,7 +1360,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         59
     </td>
   </tr>
-
+  
   <tr>
     <td>113</td>
     <td>
@@ -1372,7 +1372,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         58
     </td>
   </tr>
-
+  
   <tr>
     <td>114</td>
     <td>
@@ -1384,7 +1384,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         57
     </td>
   </tr>
-
+  
   <tr>
     <td>114</td>
     <td>
@@ -1396,7 +1396,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         57
     </td>
   </tr>
-
+  
   <tr>
     <td>114</td>
     <td>
@@ -1408,7 +1408,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         57
     </td>
   </tr>
-
+  
   <tr>
     <td>117</td>
     <td>
@@ -1420,43 +1420,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         57
     </td>
   </tr>
-
-  <tr>
-    <td>118</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/jstor_daily.html">
-            JSTOR Daily
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        57
-    </td>
-  </tr>
-
-  <tr>
-    <td>118</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/naya_patrika.html">
-            Naya Patrika
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        57
-    </td>
-  </tr>
-
-  <tr>
-    <td>118</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/occrp.html">
-            Organized Crime and Corruption Reporting Project
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        57
-    </td>
-  </tr>
-
+  
   <tr>
     <td>118</td>
     <td>
@@ -1468,7 +1432,43 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         57
     </td>
   </tr>
-
+  
+  <tr>
+    <td>119</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/jstor_daily.html">
+            JSTOR Daily
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        56
+    </td>
+  </tr>
+  
+  <tr>
+    <td>119</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/naya_patrika.html">
+            Naya Patrika
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        56
+    </td>
+  </tr>
+  
+  <tr>
+    <td>119</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/occrp.html">
+            Organized Crime and Corruption Reporting Project
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        56
+    </td>
+  </tr>
+  
   <tr>
     <td>122</td>
     <td>
@@ -1480,7 +1480,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         56
     </td>
   </tr>
-
+  
   <tr>
     <td>122</td>
     <td>
@@ -1492,91 +1492,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         56
     </td>
   </tr>
-
-  <tr>
-    <td>124</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/osnepalnews.html">
-            OSNepal
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        56
-    </td>
-  </tr>
-
-  <tr>
-    <td>124</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/segodnya_online.html">
-            Segodnya
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        56
-    </td>
-  </tr>
-
-  <tr>
-    <td>124</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/rfi.html">
-            RFI
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        56
-    </td>
-  </tr>
-
-  <tr>
-    <td>124</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/ur_ninja.html">
-            Unicorn Riot
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        56
-    </td>
-  </tr>
-
-  <tr>
-    <td>124</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/sgfcitizen.html">
-            Springfield Daily Citizen
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        56
-    </td>
-  </tr>
-
-  <tr>
-    <td>124</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/nationaljournal.html">
-            National Journal
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        56
-    </td>
-  </tr>
-
-  <tr>
-    <td>124</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/engadget.html">
-            Engadget
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        56
-    </td>
-  </tr>
-
+  
   <tr>
     <td>124</td>
     <td>
@@ -1588,7 +1504,79 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         56
     </td>
   </tr>
-
+  
+  <tr>
+    <td>124</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/engadget.html">
+            Engadget
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        56
+    </td>
+  </tr>
+  
+  <tr>
+    <td>124</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/nationaljournal.html">
+            National Journal
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        56
+    </td>
+  </tr>
+  
+  <tr>
+    <td>124</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/osnepalnews.html">
+            OSNepal
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        56
+    </td>
+  </tr>
+  
+  <tr>
+    <td>124</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/rfi.html">
+            RFI
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        56
+    </td>
+  </tr>
+  
+  <tr>
+    <td>124</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/segodnya_online.html">
+            Segodnya
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        56
+    </td>
+  </tr>
+  
+  <tr>
+    <td>124</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/sgfcitizen.html">
+            Springfield Daily Citizen
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        56
+    </td>
+  </tr>
+  
   <tr>
     <td>124</td>
     <td>
@@ -1600,7 +1588,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         56
     </td>
   </tr>
-
+  
+  <tr>
+    <td>124</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/ur_ninja.html">
+            Unicorn Riot
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        56
+    </td>
+  </tr>
+  
   <tr>
     <td>133</td>
     <td>
@@ -1612,19 +1612,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         55
     </td>
   </tr>
-
-  <tr>
-    <td>134</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/enewsofnepal.html">
-            Nepal Samacharpatra
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        55
-    </td>
-  </tr>
-
+  
   <tr>
     <td>134</td>
     <td>
@@ -1636,19 +1624,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         55
     </td>
   </tr>
-
-  <tr>
-    <td>134</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/delawarepublic.html">
-            Delaware Public Media
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        55
-    </td>
-  </tr>
-
+  
   <tr>
     <td>134</td>
     <td>
@@ -1660,7 +1636,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         55
     </td>
   </tr>
-
+  
+  <tr>
+    <td>134</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/delawarepublic.html">
+            Delaware Public Media
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        55
+    </td>
+  </tr>
+  
   <tr>
     <td>134</td>
     <td>
@@ -1672,19 +1660,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         55
     </td>
   </tr>
-
+  
   <tr>
-    <td>139</td>
+    <td>134</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/thecityny.html">
-            The City
+        <a href="https://palewi.re/docs/news-homepages/sites/enewsofnepal.html">
+            Nepal Samacharpatra
         </a>
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        54
+        55
     </td>
   </tr>
-
+  
   <tr>
     <td>139</td>
     <td>
@@ -1696,19 +1684,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         54
     </td>
   </tr>
-
+  
   <tr>
-    <td>141</td>
+    <td>139</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/alternet.html">
-            AlterNet
+        <a href="https://palewi.re/docs/news-homepages/sites/thecityny.html">
+            The City
         </a>
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
         54
     </td>
   </tr>
-
+  
   <tr>
     <td>141</td>
     <td>
@@ -1720,55 +1708,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         54
     </td>
   </tr>
-
+  
   <tr>
     <td>141</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/peninsupress.html">
-            Peninsula Press
+        <a href="https://palewi.re/docs/news-homepages/sites/alternet.html">
+            AlterNet
         </a>
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
         54
     </td>
   </tr>
-
-  <tr>
-    <td>141</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/chequeado.html">
-            Chequeado
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        54
-    </td>
-  </tr>
-
-  <tr>
-    <td>141</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/charlie_hebdo_.html">
-            Charlie Hebdo
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        54
-    </td>
-  </tr>
-
-  <tr>
-    <td>141</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/kvpr.html">
-            Valley Public Radio
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        54
-    </td>
-  </tr>
-
+  
   <tr>
     <td>141</td>
     <td>
@@ -1780,7 +1732,55 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         54
     </td>
   </tr>
-
+  
+  <tr>
+    <td>141</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/charlie_hebdo_.html">
+            Charlie Hebdo
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        54
+    </td>
+  </tr>
+  
+  <tr>
+    <td>141</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/chequeado.html">
+            Chequeado
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        54
+    </td>
+  </tr>
+  
+  <tr>
+    <td>141</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/peninsupress.html">
+            Peninsula Press
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        54
+    </td>
+  </tr>
+  
+  <tr>
+    <td>141</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/kvpr.html">
+            Valley Public Radio
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        54
+    </td>
+  </tr>
+  
   <tr>
     <td>148</td>
     <td>
@@ -1792,7 +1792,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         53
     </td>
   </tr>
-
+  
   <tr>
     <td>148</td>
     <td>
@@ -1804,31 +1804,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         53
     </td>
   </tr>
-
-  <tr>
-    <td>150</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/iowapublicradio.html">
-            Iowa Public Radio
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        53
-    </td>
-  </tr>
-
-  <tr>
-    <td>150</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/desert_oracle.html">
-            Desert Oracle
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        53
-    </td>
-  </tr>
-
+  
   <tr>
     <td>150</td>
     <td>
@@ -1840,19 +1816,31 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         53
     </td>
   </tr>
-
+  
   <tr>
-    <td>153</td>
+    <td>150</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/journalsentinel.html">
-            Milwaukee Journal Sentinel
+        <a href="https://palewi.re/docs/news-homepages/sites/desert_oracle.html">
+            Desert Oracle
         </a>
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        52
+        53
     </td>
   </tr>
-
+  
+  <tr>
+    <td>150</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/iowapublicradio.html">
+            Iowa Public Radio
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        53
+    </td>
+  </tr>
+  
   <tr>
     <td>153</td>
     <td>
@@ -1864,7 +1852,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         52
     </td>
   </tr>
-
+  
   <tr>
     <td>153</td>
     <td>
@@ -1876,7 +1864,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         52
     </td>
   </tr>
-
+  
   <tr>
     <td>153</td>
     <td>
@@ -1888,7 +1876,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         52
     </td>
   </tr>
-
+  
+  <tr>
+    <td>153</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/journalsentinel.html">
+            Milwaukee Journal Sentinel
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        52
+    </td>
+  </tr>
+  
   <tr>
     <td>153</td>
     <td>
@@ -1900,7 +1900,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         52
     </td>
   </tr>
-
+  
   <tr>
     <td>158</td>
     <td>
@@ -1912,79 +1912,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         51
     </td>
   </tr>
-
-  <tr>
-    <td>159</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/minnpost.html">
-            MinnPost
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        51
-    </td>
-  </tr>
-
-  <tr>
-    <td>159</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/zeitonline.html">
-            Zeit
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        51
-    </td>
-  </tr>
-
-  <tr>
-    <td>159</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/powerlineus.html">
-            Power Line
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        51
-    </td>
-  </tr>
-
-  <tr>
-    <td>159</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/sz.html">
-            Süddeutsche Zeitung
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        51
-    </td>
-  </tr>
-
-  <tr>
-    <td>159</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/labornotes.html">
-            Labor Notes
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        51
-    </td>
-  </tr>
-
-  <tr>
-    <td>159</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/thephilacitizen.html">
-            Philadelphia Citizen
-        </a>
-    </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        51
-    </td>
-  </tr>
-
+  
   <tr>
     <td>159</td>
     <td>
@@ -1996,7 +1924,79 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         51
     </td>
   </tr>
-
+  
+  <tr>
+    <td>159</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/labornotes.html">
+            Labor Notes
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        51
+    </td>
+  </tr>
+  
+  <tr>
+    <td>159</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/minnpost.html">
+            MinnPost
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        51
+    </td>
+  </tr>
+  
+  <tr>
+    <td>159</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/thephilacitizen.html">
+            Philadelphia Citizen
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        51
+    </td>
+  </tr>
+  
+  <tr>
+    <td>159</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/powerlineus.html">
+            Power Line
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        51
+    </td>
+  </tr>
+  
+  <tr>
+    <td>159</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/sz.html">
+            Süddeutsche Zeitung
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        51
+    </td>
+  </tr>
+  
+  <tr>
+    <td>159</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/zeitonline.html">
+            Zeit
+        </a>
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        51
+    </td>
+  </tr>
+  
   <tr>
     <td>166</td>
     <td>
@@ -2008,7 +2008,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         50
     </td>
   </tr>
-
+  
   <tr>
     <td>167</td>
     <td>
@@ -2020,7 +2020,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         50
     </td>
   </tr>
-
+  
   <tr>
     <td>167</td>
     <td>
@@ -2032,7 +2032,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         50
     </td>
   </tr>
-
+  
   <tr>
     <td>167</td>
     <td>
@@ -2044,43 +2044,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         50
     </td>
   </tr>
-
-  <tr>
-    <td>170</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/thegrio.html">
-            Grio
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        49
-    </td>
-  </tr>
-
-  <tr>
-    <td>170</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/flintbeat.html">
-            Flint Beat
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        49
-    </td>
-  </tr>
-
-  <tr>
-    <td>170</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/marfaradio.html">
-            Marfa Public Radio
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        49
-    </td>
-  </tr>
-
+  
   <tr>
     <td>170</td>
     <td>
@@ -2092,43 +2056,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         49
     </td>
   </tr>
-
-  <tr>
-    <td>170</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/dailyyonder.html">
-            Daily Yonder
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        49
-    </td>
-  </tr>
-
-  <tr>
-    <td>170</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/lubbockonline.html">
-            Lubbock Avalanche-Journal
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        49
-    </td>
-  </tr>
-
-  <tr>
-    <td>170</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/dainikbhaskar.html">
-            Dainik Bhaskar
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        49
-    </td>
-  </tr>
-
+  
   <tr>
     <td>170</td>
     <td>
@@ -2140,7 +2068,79 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         49
     </td>
   </tr>
-
+  
+  <tr>
+    <td>170</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/dailyyonder.html">
+            Daily Yonder
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        49
+    </td>
+  </tr>
+  
+  <tr>
+    <td>170</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/dainikbhaskar.html">
+            Dainik Bhaskar
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        49
+    </td>
+  </tr>
+  
+  <tr>
+    <td>170</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/flintbeat.html">
+            Flint Beat
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        49
+    </td>
+  </tr>
+  
+  <tr>
+    <td>170</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/thegrio.html">
+            Grio
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        49
+    </td>
+  </tr>
+  
+  <tr>
+    <td>170</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/lubbockonline.html">
+            Lubbock Avalanche-Journal
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        49
+    </td>
+  </tr>
+  
+  <tr>
+    <td>170</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/marfaradio.html">
+            Marfa Public Radio
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        49
+    </td>
+  </tr>
+  
   <tr>
     <td>178</td>
     <td>
@@ -2152,127 +2152,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         48
     </td>
   </tr>
-
-  <tr>
-    <td>179</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/hiddencityphila.html">
-            Hidden City Daily
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        48
-    </td>
-  </tr>
-
-  <tr>
-    <td>179</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/oaklandside.html">
-            The Oaklandside
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        48
-    </td>
-  </tr>
-
-  <tr>
-    <td>179</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/nextcityorg.html">
-            Next City
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        48
-    </td>
-  </tr>
-
-  <tr>
-    <td>179</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/ft.html">
-            Financial Times
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        48
-    </td>
-  </tr>
-
-  <tr>
-    <td>179</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/mailonline.html">
-            Daily Mail
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        48
-    </td>
-  </tr>
-
-  <tr>
-    <td>179</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/setopati.html">
-            Setopati
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        48
-    </td>
-  </tr>
-
-  <tr>
-    <td>179</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/lesoir.html">
-            Le Soir
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        48
-    </td>
-  </tr>
-
-  <tr>
-    <td>179</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/buckscoherald.html">
-            Bucks County Herald
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        48
-    </td>
-  </tr>
-
-  <tr>
-    <td>179</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/washtimes.html">
-            Washington Times
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        48
-    </td>
-  </tr>
-
-  <tr>
-    <td>179</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/statesman.html">
-            Austin Statesman
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        48
-    </td>
-  </tr>
-
+  
   <tr>
     <td>179</td>
     <td>
@@ -2284,31 +2164,31 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         48
     </td>
   </tr>
-
+  
   <tr>
     <td>179</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/voiceofoc.html">
-            Voice of OC
+        <a href="https://palewi.re/docs/news-homepages/sites/statesman.html">
+            Austin Statesman
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
         48
     </td>
   </tr>
-
+  
   <tr>
     <td>179</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/pucknews.html">
-            Puck
+        <a href="https://palewi.re/docs/news-homepages/sites/buckscoherald.html">
+            Bucks County Herald
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
         48
     </td>
   </tr>
-
+  
   <tr>
     <td>179</td>
     <td>
@@ -2320,19 +2200,127 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         48
     </td>
   </tr>
-
+  
   <tr>
-    <td>193</td>
+    <td>179</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/capitalandmain.html">
-            Capital & Main
+        <a href="https://palewi.re/docs/news-homepages/sites/mailonline.html">
+            Daily Mail
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        47
+        48
     </td>
   </tr>
-
+  
+  <tr>
+    <td>179</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/ft.html">
+            Financial Times
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        48
+    </td>
+  </tr>
+  
+  <tr>
+    <td>179</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/hiddencityphila.html">
+            Hidden City Daily
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        48
+    </td>
+  </tr>
+  
+  <tr>
+    <td>179</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/lesoir.html">
+            Le Soir
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        48
+    </td>
+  </tr>
+  
+  <tr>
+    <td>179</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/nextcityorg.html">
+            Next City
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        48
+    </td>
+  </tr>
+  
+  <tr>
+    <td>179</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/pucknews.html">
+            Puck
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        48
+    </td>
+  </tr>
+  
+  <tr>
+    <td>179</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/setopati.html">
+            Setopati
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        48
+    </td>
+  </tr>
+  
+  <tr>
+    <td>179</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/oaklandside.html">
+            The Oaklandside
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        48
+    </td>
+  </tr>
+  
+  <tr>
+    <td>179</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/voiceofoc.html">
+            Voice of OC
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        48
+    </td>
+  </tr>
+  
+  <tr>
+    <td>179</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/washtimes.html">
+            Washington Times
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        48
+    </td>
+  </tr>
+  
   <tr>
     <td>193</td>
     <td>
@@ -2344,7 +2332,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         47
     </td>
   </tr>
-
+  
+  <tr>
+    <td>193</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/capitalandmain.html">
+            Capital & Main
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        47
+    </td>
+  </tr>
+  
   <tr>
     <td>195</td>
     <td>
@@ -2356,7 +2356,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         47
     </td>
   </tr>
-
+  
   <tr>
     <td>195</td>
     <td>
@@ -2368,19 +2368,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         47
     </td>
   </tr>
-
-  <tr>
-    <td>195</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/vtdigger.html">
-            VT Digger
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        47
-    </td>
-  </tr>
-
+  
   <tr>
     <td>195</td>
     <td>
@@ -2392,7 +2380,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         47
     </td>
   </tr>
-
+  
+  <tr>
+    <td>195</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/vtdigger.html">
+            VT Digger
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        47
+    </td>
+  </tr>
+  
   <tr>
     <td>199</td>
     <td>
@@ -2404,7 +2404,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         46
     </td>
   </tr>
-
+  
   <tr>
     <td>199</td>
     <td>
@@ -2416,31 +2416,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         46
     </td>
   </tr>
-
-  <tr>
-    <td>201</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/mtfreepress.html">
-            Montana Free Press
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        46
-    </td>
-  </tr>
-
-  <tr>
-    <td>201</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/macrumors.html">
-            MacRumors
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        46
-    </td>
-  </tr>
-
+  
   <tr>
     <td>201</td>
     <td>
@@ -2452,19 +2428,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         46
     </td>
   </tr>
-
-  <tr>
-    <td>201</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/zerohedge.html">
-            ZeroHedge
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        46
-    </td>
-  </tr>
-
+  
   <tr>
     <td>201</td>
     <td>
@@ -2476,7 +2440,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         46
     </td>
   </tr>
-
+  
   <tr>
     <td>201</td>
     <td>
@@ -2488,7 +2452,43 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         46
     </td>
   </tr>
-
+  
+  <tr>
+    <td>201</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/macrumors.html">
+            MacRumors
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        46
+    </td>
+  </tr>
+  
+  <tr>
+    <td>201</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/mtfreepress.html">
+            Montana Free Press
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        46
+    </td>
+  </tr>
+  
+  <tr>
+    <td>201</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/zerohedge.html">
+            ZeroHedge
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        46
+    </td>
+  </tr>
+  
   <tr>
     <td>207</td>
     <td>
@@ -2500,103 +2500,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         45
     </td>
   </tr>
-
-  <tr>
-    <td>208</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/reason.html">
-            Reason
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        45
-    </td>
-  </tr>
-
-  <tr>
-    <td>208</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/eveningstandard.html">
-            Evening Standard
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        45
-    </td>
-  </tr>
-
-  <tr>
-    <td>208</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/punchbowlnews.html">
-            Punchbowl News
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        45
-    </td>
-  </tr>
-
-  <tr>
-    <td>208</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/politifact.html">
-            Politifact
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        45
-    </td>
-  </tr>
-
-  <tr>
-    <td>208</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/dallasfreepress.html">
-            Dallas Free Press
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        45
-    </td>
-  </tr>
-
-  <tr>
-    <td>208</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/theinterceptbr.html">
-            Intercept Brazil
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        45
-    </td>
-  </tr>
-
-  <tr>
-    <td>208</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/khnews.html">
-            Kaiser Health News
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        45
-    </td>
-  </tr>
-
-  <tr>
-    <td>208</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/nhpr.html">
-            New Hampshire Public Radio
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        45
-    </td>
-  </tr>
-
+  
   <tr>
     <td>208</td>
     <td>
@@ -2608,19 +2512,103 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         45
     </td>
   </tr>
-
+  
   <tr>
-    <td>217</td>
+    <td>208</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/jacobin.html">
-            Jacobin
+        <a href="https://palewi.re/docs/news-homepages/sites/dallasfreepress.html">
+            Dallas Free Press
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        44
+        45
     </td>
   </tr>
-
+  
+  <tr>
+    <td>208</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/eveningstandard.html">
+            Evening Standard
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        45
+    </td>
+  </tr>
+  
+  <tr>
+    <td>208</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/theinterceptbr.html">
+            Intercept Brazil
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        45
+    </td>
+  </tr>
+  
+  <tr>
+    <td>208</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/khnews.html">
+            Kaiser Health News
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        45
+    </td>
+  </tr>
+  
+  <tr>
+    <td>208</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/nhpr.html">
+            New Hampshire Public Radio
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        45
+    </td>
+  </tr>
+  
+  <tr>
+    <td>208</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/politifact.html">
+            Politifact 
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        45
+    </td>
+  </tr>
+  
+  <tr>
+    <td>208</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/punchbowlnews.html">
+            Punchbowl News
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        45
+    </td>
+  </tr>
+  
+  <tr>
+    <td>208</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/reason.html">
+            Reason
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        45
+    </td>
+  </tr>
+  
   <tr>
     <td>217</td>
     <td>
@@ -2632,19 +2620,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         44
     </td>
   </tr>
-
+  
   <tr>
-    <td>219</td>
+    <td>217</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/live_hindustan.html">
-            Hindustan
+        <a href="https://palewi.re/docs/news-homepages/sites/jacobin.html">
+            Jacobin
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
         44
     </td>
   </tr>
-
+  
   <tr>
     <td>219</td>
     <td>
@@ -2656,7 +2644,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         44
     </td>
   </tr>
-
+  
   <tr>
     <td>219</td>
     <td>
@@ -2668,43 +2656,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         44
     </td>
   </tr>
-
-  <tr>
-    <td>219</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/humansofny.html">
-            Humans of New York
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        44
-    </td>
-  </tr>
-
-  <tr>
-    <td>219</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/wsbtv.html">
-            WSB-TV
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        44
-    </td>
-  </tr>
-
-  <tr>
-    <td>219</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/o_antagonista.html">
-            O Antagonista
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        44
-    </td>
-  </tr>
-
+  
   <tr>
     <td>219</td>
     <td>
@@ -2716,7 +2668,55 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         44
     </td>
   </tr>
-
+  
+  <tr>
+    <td>219</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/live_hindustan.html">
+            Hindustan
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        44
+    </td>
+  </tr>
+  
+  <tr>
+    <td>219</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/humansofny.html">
+            Humans of New York
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        44
+    </td>
+  </tr>
+  
+  <tr>
+    <td>219</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/o_antagonista.html">
+            O Antagonista
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        44
+    </td>
+  </tr>
+  
+  <tr>
+    <td>219</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/wsbtv.html">
+            WSB-TV
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        44
+    </td>
+  </tr>
+  
   <tr>
     <td>226</td>
     <td>
@@ -2728,43 +2728,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         43
     </td>
   </tr>
-
-  <tr>
-    <td>227</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/wbur.html">
-            WBUR
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        43
-    </td>
-  </tr>
-
-  <tr>
-    <td>227</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/amazoniaagencia.html">
-            Agência Amazônia
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        43
-    </td>
-  </tr>
-
-  <tr>
-    <td>227</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/scottishsun.html">
-            Scottish Sun
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        43
-    </td>
-  </tr>
-
+  
   <tr>
     <td>227</td>
     <td>
@@ -2776,19 +2740,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         43
     </td>
   </tr>
-
+  
   <tr>
     <td>227</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/flatwaterfreep.html">
-            Flatwater Free Press
+        <a href="https://palewi.re/docs/news-homepages/sites/amazoniaagencia.html">
+            Agência Amazônia
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
         43
     </td>
   </tr>
-
+  
   <tr>
     <td>227</td>
     <td>
@@ -2800,91 +2764,43 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         43
     </td>
   </tr>
-
+  
   <tr>
-    <td>233</td>
+    <td>227</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/kpbs.html">
-            KPBS
+        <a href="https://palewi.re/docs/news-homepages/sites/flatwaterfreep.html">
+            Flatwater Free Press
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        42
+        43
     </td>
   </tr>
-
+  
   <tr>
-    <td>233</td>
+    <td>227</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/khabarkendra.html">
-            Sanchar Kendra
+        <a href="https://palewi.re/docs/news-homepages/sites/scottishsun.html">
+            Scottish Sun
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        42
+        43
     </td>
   </tr>
-
+  
   <tr>
-    <td>233</td>
+    <td>227</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/highcountrynews.html">
-            High Country News
+        <a href="https://palewi.re/docs/news-homepages/sites/wbur.html">
+            WBUR
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        42
+        43
     </td>
   </tr>
-
-  <tr>
-    <td>233</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/nhk_news.html">
-            NHK
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        42
-    </td>
-  </tr>
-
-  <tr>
-    <td>233</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/moreperfectus.html">
-            More Perfect Union
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        42
-    </td>
-  </tr>
-
-  <tr>
-    <td>233</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/thesun.html">
-            The Sun
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        42
-    </td>
-  </tr>
-
-  <tr>
-    <td>233</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/cnsmd.html">
-            Capital News Service
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        42
-    </td>
-  </tr>
-
+  
   <tr>
     <td>233</td>
     <td>
@@ -2896,19 +2812,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         42
     </td>
   </tr>
-
+  
   <tr>
     <td>233</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/enews.html">
-            E!
+        <a href="https://palewi.re/docs/news-homepages/sites/cnsmd.html">
+            Capital News Service
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
         42
     </td>
   </tr>
-
+  
   <tr>
     <td>233</td>
     <td>
@@ -2920,7 +2836,91 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         42
     </td>
   </tr>
-
+  
+  <tr>
+    <td>233</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/enews.html">
+            E!
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        42
+    </td>
+  </tr>
+  
+  <tr>
+    <td>233</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/highcountrynews.html">
+            High Country News
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        42
+    </td>
+  </tr>
+  
+  <tr>
+    <td>233</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/kpbs.html">
+            KPBS
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        42
+    </td>
+  </tr>
+  
+  <tr>
+    <td>233</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/moreperfectus.html">
+            More Perfect Union
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        42
+    </td>
+  </tr>
+  
+  <tr>
+    <td>233</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/nhk_news.html">
+            NHK
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        42
+    </td>
+  </tr>
+  
+  <tr>
+    <td>233</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/khabarkendra.html">
+            Sanchar Kendra
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        42
+    </td>
+  </tr>
+  
+  <tr>
+    <td>233</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/thesun.html">
+            The Sun
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        42
+    </td>
+  </tr>
+  
   <tr>
     <td>243</td>
     <td>
@@ -2932,19 +2932,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         41
     </td>
   </tr>
-
-  <tr>
-    <td>244</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/people.html">
-            People
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        41
-    </td>
-  </tr>
-
+  
   <tr>
     <td>244</td>
     <td>
@@ -2956,55 +2944,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         41
     </td>
   </tr>
-
-  <tr>
-    <td>244</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/thedbk.html">
-            The Diamondback
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        41
-    </td>
-  </tr>
-
-  <tr>
-    <td>244</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/newsweek.html">
-            Newsweek
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        41
-    </td>
-  </tr>
-
-  <tr>
-    <td>244</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/propublica.html">
-            ProPublica
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        41
-    </td>
-  </tr>
-
-  <tr>
-    <td>244</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/seikyoofficial.html">
-            Seikyo Shimbun
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        41
-    </td>
-  </tr>
-
+  
   <tr>
     <td>244</td>
     <td>
@@ -3016,7 +2956,67 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         41
     </td>
   </tr>
-
+  
+  <tr>
+    <td>244</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/newsweek.html">
+            Newsweek
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        41
+    </td>
+  </tr>
+  
+  <tr>
+    <td>244</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/people.html">
+            People
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        41
+    </td>
+  </tr>
+  
+  <tr>
+    <td>244</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/propublica.html">
+            ProPublica
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        41
+    </td>
+  </tr>
+  
+  <tr>
+    <td>244</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/seikyoofficial.html">
+            Seikyo Shimbun
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        41
+    </td>
+  </tr>
+  
+  <tr>
+    <td>244</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/thedbk.html">
+            The Diamondback
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        41
+    </td>
+  </tr>
+  
   <tr>
     <td>244</td>
     <td>
@@ -3028,19 +3028,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         41
     </td>
   </tr>
-
-  <tr>
-    <td>252</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/omelete.html">
-            Omelete
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        40
-    </td>
-  </tr>
-
+  
   <tr>
     <td>252</td>
     <td>
@@ -3052,7 +3040,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         40
     </td>
   </tr>
-
+  
+  <tr>
+    <td>252</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/omelete.html">
+            Omelete
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        40
+    </td>
+  </tr>
+  
   <tr>
     <td>254</td>
     <td>
@@ -3064,31 +3064,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         39
     </td>
   </tr>
-
-  <tr>
-    <td>255</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/claytoncrescent.html">
-            Clayton Crescent
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        39
-    </td>
-  </tr>
-
-  <tr>
-    <td>255</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/statnews.html">
-            STAT
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        39
-    </td>
-  </tr>
-
+  
   <tr>
     <td>255</td>
     <td>
@@ -3100,19 +3076,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         39
     </td>
   </tr>
-
-  <tr>
-    <td>255</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/online_khabar.html">
-            Online Khabar
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        39
-    </td>
-  </tr>
-
+  
   <tr>
     <td>255</td>
     <td>
@@ -3124,31 +3088,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         39
     </td>
   </tr>
-
-  <tr>
-    <td>255</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/cnnbrasil.html">
-            CNN Brasil
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        39
-    </td>
-  </tr>
-
-  <tr>
-    <td>255</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/florida_bulldog.html">
-            Florida Bulldog
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        39
-    </td>
-  </tr>
-
+  
   <tr>
     <td>255</td>
     <td>
@@ -3160,7 +3100,67 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         39
     </td>
   </tr>
-
+  
+  <tr>
+    <td>255</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/cnnbrasil.html">
+            CNN Brasil
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        39
+    </td>
+  </tr>
+  
+  <tr>
+    <td>255</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/claytoncrescent.html">
+            Clayton Crescent
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        39
+    </td>
+  </tr>
+  
+  <tr>
+    <td>255</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/florida_bulldog.html">
+            Florida Bulldog
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        39
+    </td>
+  </tr>
+  
+  <tr>
+    <td>255</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/online_khabar.html">
+            Online Khabar
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        39
+    </td>
+  </tr>
+  
+  <tr>
+    <td>255</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/statnews.html">
+            STAT
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        39
+    </td>
+  </tr>
+  
   <tr>
     <td>263</td>
     <td>
@@ -3172,43 +3172,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         38
     </td>
   </tr>
-
-  <tr>
-    <td>264</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/sltimes.html">
-            Storm Lake Times
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        38
-    </td>
-  </tr>
-
-  <tr>
-    <td>264</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/correio.html">
-            Correio Braziliense
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        38
-    </td>
-  </tr>
-
-  <tr>
-    <td>264</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/thahakhabar.html">
-            Thaha Khabar
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        38
-    </td>
-  </tr>
-
+  
   <tr>
     <td>264</td>
     <td>
@@ -3220,79 +3184,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         38
     </td>
   </tr>
-
+  
   <tr>
     <td>264</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/georgiastraight.html">
-            The Georgia Straight
+        <a href="https://palewi.re/docs/news-homepages/sites/correio.html">
+            Correio Braziliense
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
         38
     </td>
   </tr>
-
-  <tr>
-    <td>264</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/gpbnews.html">
-            Georgia Public Broadcasting
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        38
-    </td>
-  </tr>
-
-  <tr>
-    <td>264</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/quintoelab.html">
-            Quinto Elemento Lab
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        38
-    </td>
-  </tr>
-
-  <tr>
-    <td>264</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/unichicago.html">
-            Univision Chicago
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        38
-    </td>
-  </tr>
-
-  <tr>
-    <td>264</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/newshour.html">
-            PBS News Hour
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        38
-    </td>
-  </tr>
-
-  <tr>
-    <td>264</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/ocmediaorg.html">
-            Open Caucasus Media
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        38
-    </td>
-  </tr>
-
+  
   <tr>
     <td>264</td>
     <td>
@@ -3304,7 +3208,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         38
     </td>
   </tr>
-
+  
   <tr>
     <td>264</td>
     <td>
@@ -3316,7 +3220,103 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         38
     </td>
   </tr>
-
+  
+  <tr>
+    <td>264</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/gpbnews.html">
+            Georgia Public Broadcasting
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        38
+    </td>
+  </tr>
+  
+  <tr>
+    <td>264</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/ocmediaorg.html">
+            Open Caucasus Media
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        38
+    </td>
+  </tr>
+  
+  <tr>
+    <td>264</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/newshour.html">
+            PBS News Hour
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        38
+    </td>
+  </tr>
+  
+  <tr>
+    <td>264</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/quintoelab.html">
+            Quinto Elemento Lab
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        38
+    </td>
+  </tr>
+  
+  <tr>
+    <td>264</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/sltimes.html">
+            Storm Lake Times
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        38
+    </td>
+  </tr>
+  
+  <tr>
+    <td>264</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/thahakhabar.html">
+            Thaha Khabar
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        38
+    </td>
+  </tr>
+  
+  <tr>
+    <td>264</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/georgiastraight.html">
+            The Georgia Straight
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        38
+    </td>
+  </tr>
+  
+  <tr>
+    <td>264</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/unichicago.html">
+            Univision Chicago
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        38
+    </td>
+  </tr>
+  
   <tr>
     <td>276</td>
     <td>
@@ -3328,7 +3328,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         37
     </td>
   </tr>
-
+  
   <tr>
     <td>276</td>
     <td>
@@ -3340,175 +3340,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         37
     </td>
   </tr>
-
-  <tr>
-    <td>278</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/newscientist.html">
-            New Scientist
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        37
-    </td>
-  </tr>
-
-  <tr>
-    <td>278</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/rgvfox.html">
-            Fox South Texas
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        37
-    </td>
-  </tr>
-
-  <tr>
-    <td>278</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/lataco.html">
-            L.A. Taco
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        37
-    </td>
-  </tr>
-
-  <tr>
-    <td>278</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/wbez.html">
-            WBEZ
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        37
-    </td>
-  </tr>
-
-  <tr>
-    <td>278</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/deshsanchar1.html">
-            Deshsanchar
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        37
-    </td>
-  </tr>
-
-  <tr>
-    <td>278</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/lookoutscruz.html">
-            Lookout Santa Cruz
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        37
-    </td>
-  </tr>
-
-  <tr>
-    <td>278</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/progressoms.html">
-            O Progresso
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        37
-    </td>
-  </tr>
-
-  <tr>
-    <td>278</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/kcur.html">
-            KCUR
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        37
-    </td>
-  </tr>
-
-  <tr>
-    <td>278</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/deadline.html">
-            Deadline
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        37
-    </td>
-  </tr>
-
-  <tr>
-    <td>278</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/newsday.html">
-            Newsday
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        37
-    </td>
-  </tr>
-
-  <tr>
-    <td>278</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/libe.html">
-            Libération
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        37
-    </td>
-  </tr>
-
-  <tr>
-    <td>278</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/hromadskeua.html">
-            hromadske
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        37
-    </td>
-  </tr>
-
-  <tr>
-    <td>278</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/humanevents.html">
-            Human Events
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        37
-    </td>
-  </tr>
-
-  <tr>
-    <td>278</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/el_timpano.html">
-            El Tímpano
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        37
-    </td>
-  </tr>
-
+  
   <tr>
     <td>278</td>
     <td>
@@ -3520,7 +3352,175 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         37
     </td>
   </tr>
-
+  
+  <tr>
+    <td>278</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/deadline.html">
+            Deadline
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        37
+    </td>
+  </tr>
+  
+  <tr>
+    <td>278</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/deshsanchar1.html">
+            Deshsanchar
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        37
+    </td>
+  </tr>
+  
+  <tr>
+    <td>278</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/el_timpano.html">
+            El Tímpano
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        37
+    </td>
+  </tr>
+  
+  <tr>
+    <td>278</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/rgvfox.html">
+            Fox South Texas
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        37
+    </td>
+  </tr>
+  
+  <tr>
+    <td>278</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/humanevents.html">
+            Human Events
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        37
+    </td>
+  </tr>
+  
+  <tr>
+    <td>278</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/kcur.html">
+            KCUR
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        37
+    </td>
+  </tr>
+  
+  <tr>
+    <td>278</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/lataco.html">
+            L.A. Taco
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        37
+    </td>
+  </tr>
+  
+  <tr>
+    <td>278</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/libe.html">
+            Libération
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        37
+    </td>
+  </tr>
+  
+  <tr>
+    <td>278</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/lookoutscruz.html">
+            Lookout Santa Cruz
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        37
+    </td>
+  </tr>
+  
+  <tr>
+    <td>278</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/newscientist.html">
+            New Scientist
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        37
+    </td>
+  </tr>
+  
+  <tr>
+    <td>278</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/newsday.html">
+            Newsday
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        37
+    </td>
+  </tr>
+  
+  <tr>
+    <td>278</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/progressoms.html">
+            O Progresso
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        37
+    </td>
+  </tr>
+  
+  <tr>
+    <td>278</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/wbez.html">
+            WBEZ
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        37
+    </td>
+  </tr>
+  
+  <tr>
+    <td>278</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/hromadskeua.html">
+            hromadske
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        37
+    </td>
+  </tr>
+  
   <tr>
     <td>293</td>
     <td>
@@ -3532,7 +3532,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         36
     </td>
   </tr>
-
+  
   <tr>
     <td>294</td>
     <td>
@@ -3544,43 +3544,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         36
     </td>
   </tr>
-
-  <tr>
-    <td>294</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/southsideweekly.html">
-            South Side Weekly
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        36
-    </td>
-  </tr>
-
-  <tr>
-    <td>294</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/morningbrew.html">
-            Morning Brew
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        36
-    </td>
-  </tr>
-
-  <tr>
-    <td>294</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/usnews.html">
-            U.S. News & World Report
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        36
-    </td>
-  </tr>
-
+  
   <tr>
     <td>294</td>
     <td>
@@ -3592,43 +3556,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         36
     </td>
   </tr>
-
+  
   <tr>
     <td>294</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/sludge.html">
-            Sludge
+        <a href="https://palewi.re/docs/news-homepages/sites/morningbrew.html">
+            Morning Brew
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
         36
     </td>
   </tr>
-
-  <tr>
-    <td>294</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/opensecretsdc.html">
-            OpenSecrets
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        36
-    </td>
-  </tr>
-
-  <tr>
-    <td>294</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/quillette.html">
-            Quillette
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        36
-    </td>
-  </tr>
-
+  
   <tr>
     <td>294</td>
     <td>
@@ -3640,43 +3580,67 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         36
     </td>
   </tr>
-
+  
   <tr>
-    <td>303</td>
+    <td>294</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/lavozdegalicia.html">
-            La Voz de Galicia
+        <a href="https://palewi.re/docs/news-homepages/sites/opensecretsdc.html">
+            OpenSecrets
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        35
+        36
     </td>
   </tr>
-
+  
   <tr>
-    <td>303</td>
+    <td>294</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/lanacion.html">
-            La Nacion
+        <a href="https://palewi.re/docs/news-homepages/sites/quillette.html">
+            Quillette
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        35
+        36
     </td>
   </tr>
-
+  
   <tr>
-    <td>303</td>
+    <td>294</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/gizmodo.html">
-            Gizmodo
+        <a href="https://palewi.re/docs/news-homepages/sites/sludge.html">
+            Sludge
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        35
+        36
     </td>
   </tr>
-
+  
+  <tr>
+    <td>294</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/southsideweekly.html">
+            South Side Weekly
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        36
+    </td>
+  </tr>
+  
+  <tr>
+    <td>294</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/usnews.html">
+            U.S. News & World Report
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        36
+    </td>
+  </tr>
+  
   <tr>
     <td>303</td>
     <td>
@@ -3688,7 +3652,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         35
     </td>
   </tr>
-
+  
   <tr>
     <td>303</td>
     <td>
@@ -3700,19 +3664,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         35
     </td>
   </tr>
-
-  <tr>
-    <td>303</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/getfandom.html">
-            Fandom
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        35
-    </td>
-  </tr>
-
+  
   <tr>
     <td>303</td>
     <td>
@@ -3724,7 +3676,43 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         35
     </td>
   </tr>
-
+  
+  <tr>
+    <td>303</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/getfandom.html">
+            Fandom
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        35
+    </td>
+  </tr>
+  
+  <tr>
+    <td>303</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/gizmodo.html">
+            Gizmodo
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        35
+    </td>
+  </tr>
+  
+  <tr>
+    <td>303</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/lanacion.html">
+            La Nacion
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        35
+    </td>
+  </tr>
+  
   <tr>
     <td>303</td>
     <td>
@@ -3736,7 +3724,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         35
     </td>
   </tr>
-
+  
+  <tr>
+    <td>303</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/lavozdegalicia.html">
+            La Voz de Galicia
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        35
+    </td>
+  </tr>
+  
   <tr>
     <td>303</td>
     <td>
@@ -3748,67 +3748,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         35
     </td>
   </tr>
-
-  <tr>
-    <td>312</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/larazon_es.html">
-            La Razón
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        34
-    </td>
-  </tr>
-
-  <tr>
-    <td>312</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/binjreports.html">
-            Boston Institute for Nonprofit Journalism
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        34
-    </td>
-  </tr>
-
-  <tr>
-    <td>312</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/metropoles.html">
-            Metrópoles
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        34
-    </td>
-  </tr>
-
-  <tr>
-    <td>312</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/openvallejo.html">
-            Open Vallejo
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        34
-    </td>
-  </tr>
-
-  <tr>
-    <td>312</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/parisreview.html">
-            Paris Review
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        34
-    </td>
-  </tr>
-
+  
   <tr>
     <td>312</td>
     <td>
@@ -3820,19 +3760,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         34
     </td>
   </tr>
-
+  
   <tr>
     <td>312</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/knockdotla.html">
-            Knock.LA
+        <a href="https://palewi.re/docs/news-homepages/sites/binjreports.html">
+            Boston Institute for Nonprofit Journalism
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
         34
     </td>
   </tr>
-
+  
   <tr>
     <td>312</td>
     <td>
@@ -3844,7 +3784,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         34
     </td>
   </tr>
-
+  
   <tr>
     <td>312</td>
     <td>
@@ -3856,7 +3796,67 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         34
     </td>
   </tr>
-
+  
+  <tr>
+    <td>312</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/knockdotla.html">
+            Knock.LA
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        34
+    </td>
+  </tr>
+  
+  <tr>
+    <td>312</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/larazon_es.html">
+            La Razón
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        34
+    </td>
+  </tr>
+  
+  <tr>
+    <td>312</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/metropoles.html">
+            Metrópoles
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        34
+    </td>
+  </tr>
+  
+  <tr>
+    <td>312</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/openvallejo.html">
+            Open Vallejo
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        34
+    </td>
+  </tr>
+  
+  <tr>
+    <td>312</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/parisreview.html">
+            Paris Review
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        34
+    </td>
+  </tr>
+  
   <tr>
     <td>312</td>
     <td>
@@ -3868,7 +3868,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         34
     </td>
   </tr>
-
+  
   <tr>
     <td>322</td>
     <td>
@@ -3880,55 +3880,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         33
     </td>
   </tr>
-
-  <tr>
-    <td>323</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/ljworld.html">
-            Lawrence Journal-World
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        33
-    </td>
-  </tr>
-
-  <tr>
-    <td>323</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/portlandmercury.html">
-            Portland Mercury
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        33
-    </td>
-  </tr>
-
-  <tr>
-    <td>323</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/variety.html">
-            Variety
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        33
-    </td>
-  </tr>
-
-  <tr>
-    <td>323</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/eenewsupdates.html">
-            E&E News
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        33
-    </td>
-  </tr>
-
+  
   <tr>
     <td>323</td>
     <td>
@@ -3940,43 +3892,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         33
     </td>
   </tr>
-
-  <tr>
-    <td>323</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/cjr.html">
-            Columbia Journalism Review
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        33
-    </td>
-  </tr>
-
-  <tr>
-    <td>323</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/nytimes.html">
-            New York Times
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        33
-    </td>
-  </tr>
-
-  <tr>
-    <td>323</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/townhallcom.html">
-            Townhall
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        33
-    </td>
-  </tr>
-
+  
   <tr>
     <td>323</td>
     <td>
@@ -3988,19 +3904,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         33
     </td>
   </tr>
-
-  <tr>
-    <td>323</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/cpipr.html">
-            Centro de Periodismo Investigativo
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        33
-    </td>
-  </tr>
-
+  
   <tr>
     <td>323</td>
     <td>
@@ -4012,7 +3916,103 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         33
     </td>
   </tr>
-
+  
+  <tr>
+    <td>323</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/cpipr.html">
+            Centro de Periodismo Investigativo
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        33
+    </td>
+  </tr>
+  
+  <tr>
+    <td>323</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/cjr.html">
+            Columbia Journalism Review
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        33
+    </td>
+  </tr>
+  
+  <tr>
+    <td>323</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/eenewsupdates.html">
+            E&E News
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        33
+    </td>
+  </tr>
+  
+  <tr>
+    <td>323</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/ljworld.html">
+            Lawrence Journal-World
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        33
+    </td>
+  </tr>
+  
+  <tr>
+    <td>323</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/nytimes.html">
+            New York Times
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        33
+    </td>
+  </tr>
+  
+  <tr>
+    <td>323</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/portlandmercury.html">
+            Portland Mercury
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        33
+    </td>
+  </tr>
+  
+  <tr>
+    <td>323</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/townhallcom.html">
+            Townhall
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        33
+    </td>
+  </tr>
+  
+  <tr>
+    <td>323</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/variety.html">
+            Variety
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        33
+    </td>
+  </tr>
+  
   <tr>
     <td>334</td>
     <td>
@@ -4024,19 +4024,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         32
     </td>
   </tr>
-
-  <tr>
-    <td>335</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/lajornada.html">
-            La Jornada
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        32
-    </td>
-  </tr>
-
+  
   <tr>
     <td>335</td>
     <td>
@@ -4048,19 +4036,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         32
     </td>
   </tr>
-
-  <tr>
-    <td>335</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/eater.html">
-            Eater
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        32
-    </td>
-  </tr>
-
+  
   <tr>
     <td>335</td>
     <td>
@@ -4072,7 +4048,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         32
     </td>
   </tr>
-
+  
   <tr>
     <td>335</td>
     <td>
@@ -4084,19 +4060,31 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         32
     </td>
   </tr>
-
+  
   <tr>
     <td>335</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/worldnetdaily.html">
-            WND News
+        <a href="https://palewi.re/docs/news-homepages/sites/eater.html">
+            Eater
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
         32
     </td>
   </tr>
-
+  
+  <tr>
+    <td>335</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/lajornada.html">
+            La Jornada
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        32
+    </td>
+  </tr>
+  
   <tr>
     <td>335</td>
     <td>
@@ -4108,7 +4096,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         32
     </td>
   </tr>
-
+  
   <tr>
     <td>335</td>
     <td>
@@ -4120,31 +4108,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         32
     </td>
   </tr>
-
+  
   <tr>
-    <td>343</td>
+    <td>335</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/freebeacon.html">
-            Washington Free Beacon
+        <a href="https://palewi.re/docs/news-homepages/sites/worldnetdaily.html">
+            WND News
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        31
+        32
     </td>
   </tr>
-
-  <tr>
-    <td>343</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/meduzaproject.html">
-            Meduza
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        31
-    </td>
-  </tr>
-
+  
   <tr>
     <td>343</td>
     <td>
@@ -4156,43 +4132,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         31
     </td>
   </tr>
-
-  <tr>
-    <td>343</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/voxdotcom.html">
-            Vox
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        31
-    </td>
-  </tr>
-
-  <tr>
-    <td>343</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/theonion.html">
-            Onion
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        31
-    </td>
-  </tr>
-
-  <tr>
-    <td>343</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/lanuevaespana.html">
-            La Nueva España
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        31
-    </td>
-  </tr>
-
+  
   <tr>
     <td>343</td>
     <td>
@@ -4204,19 +4144,43 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         31
     </td>
   </tr>
-
+  
   <tr>
     <td>343</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/kpr_frankfort.html">
-            WFPL
+        <a href="https://palewi.re/docs/news-homepages/sites/lanuevaespana.html">
+            La Nueva España
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
         31
     </td>
   </tr>
-
+  
+  <tr>
+    <td>343</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/meduzaproject.html">
+            Meduza
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        31
+    </td>
+  </tr>
+  
+  <tr>
+    <td>343</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/theonion.html">
+            Onion
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        31
+    </td>
+  </tr>
+  
   <tr>
     <td>343</td>
     <td>
@@ -4228,7 +4192,43 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         31
     </td>
   </tr>
-
+  
+  <tr>
+    <td>343</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/voxdotcom.html">
+            Vox
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        31
+    </td>
+  </tr>
+  
+  <tr>
+    <td>343</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/kpr_frankfort.html">
+            WFPL
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        31
+    </td>
+  </tr>
+  
+  <tr>
+    <td>343</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/freebeacon.html">
+            Washington Free Beacon
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        31
+    </td>
+  </tr>
+  
   <tr>
     <td>352</td>
     <td>
@@ -4240,7 +4240,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         30
     </td>
   </tr>
-
+  
   <tr>
     <td>353</td>
     <td>
@@ -4252,43 +4252,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         30
     </td>
   </tr>
-
-  <tr>
-    <td>353</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/laist.html">
-            LAist
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        30
-    </td>
-  </tr>
-
-  <tr>
-    <td>353</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/nepalkhabar24.html">
-            Nepal Khabar
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        30
-    </td>
-  </tr>
-
-  <tr>
-    <td>353</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/miamiherald.html">
-            Miami Herald
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        30
-    </td>
-  </tr>
-
+  
   <tr>
     <td>353</td>
     <td>
@@ -4300,43 +4264,31 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         30
     </td>
   </tr>
-
+  
   <tr>
     <td>353</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/stlpublicradio.html">
-            St. Louis Public Radio
+        <a href="https://palewi.re/docs/news-homepages/sites/laist.html">
+            LAist
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
         30
     </td>
   </tr>
-
+  
   <tr>
     <td>353</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/rajdhani_daily.html">
-            Rajdhani Daily
+        <a href="https://palewi.re/docs/news-homepages/sites/miamiherald.html">
+            Miami Herald
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
         30
     </td>
   </tr>
-
-  <tr>
-    <td>353</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/therealnews.html">
-            Real News
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        30
-    </td>
-  </tr>
-
+  
   <tr>
     <td>353</td>
     <td>
@@ -4348,7 +4300,55 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         30
     </td>
   </tr>
-
+  
+  <tr>
+    <td>353</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/nepalkhabar24.html">
+            Nepal Khabar
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        30
+    </td>
+  </tr>
+  
+  <tr>
+    <td>353</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/rajdhani_daily.html">
+            Rajdhani Daily
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        30
+    </td>
+  </tr>
+  
+  <tr>
+    <td>353</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/therealnews.html">
+            Real News
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        30
+    </td>
+  </tr>
+  
+  <tr>
+    <td>353</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/stlpublicradio.html">
+            St. Louis Public Radio
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        30
+    </td>
+  </tr>
+  
   <tr>
     <td>362</td>
     <td>
@@ -4360,7 +4360,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         29
     </td>
   </tr>
-
+  
   <tr>
     <td>363</td>
     <td>
@@ -4372,103 +4372,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         29
     </td>
   </tr>
-
-  <tr>
-    <td>364</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/ketv.html">
-            KETV NewsWatch 7
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        28
-    </td>
-  </tr>
-
-  <tr>
-    <td>364</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/hartfordcourant.html">
-            Hartford Courant
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        28
-    </td>
-  </tr>
-
-  <tr>
-    <td>364</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/hotairblog.html">
-            HotAir
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        28
-    </td>
-  </tr>
-
-  <tr>
-    <td>364</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/indiatoday.html">
-            India Today
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        28
-    </td>
-  </tr>
-
-  <tr>
-    <td>364</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/le_parisien.html">
-            Le Parisien
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        28
-    </td>
-  </tr>
-
-  <tr>
-    <td>364</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/mcgilldaily.html">
-            McGill Daily
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        28
-    </td>
-  </tr>
-
-  <tr>
-    <td>364</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/spokesmanreview.html">
-            Spokesman-Review
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        28
-    </td>
-  </tr>
-
-  <tr>
-    <td>364</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/sputnikint.html">
-            Sputnik
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        28
-    </td>
-  </tr>
-
+  
   <tr>
     <td>364</td>
     <td>
@@ -4480,7 +4384,91 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         28
     </td>
   </tr>
-
+  
+  <tr>
+    <td>364</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/hartfordcourant.html">
+            Hartford Courant
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        28
+    </td>
+  </tr>
+  
+  <tr>
+    <td>364</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/hotairblog.html">
+            HotAir
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        28
+    </td>
+  </tr>
+  
+  <tr>
+    <td>364</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/indiatoday.html">
+            India Today
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        28
+    </td>
+  </tr>
+  
+  <tr>
+    <td>364</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/ketv.html">
+            KETV NewsWatch 7
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        28
+    </td>
+  </tr>
+  
+  <tr>
+    <td>364</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/le_parisien.html">
+            Le Parisien
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        28
+    </td>
+  </tr>
+  
+  <tr>
+    <td>364</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/mcgilldaily.html">
+            McGill Daily
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        28
+    </td>
+  </tr>
+  
+  <tr>
+    <td>364</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/spokesmanreview.html">
+            Spokesman-Review
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        28
+    </td>
+  </tr>
+  
   <tr>
     <td>364</td>
     <td>
@@ -4492,31 +4480,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         28
     </td>
   </tr>
-
+  
   <tr>
-    <td>374</td>
+    <td>364</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/vicenews.html">
-            Vice News
+        <a href="https://palewi.re/docs/news-homepages/sites/sputnikint.html">
+            Sputnik
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
         28
     </td>
   </tr>
-
-  <tr>
-    <td>374</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/uhmallorca.html">
-            Última Hora
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        28
-    </td>
-  </tr>
-
+  
   <tr>
     <td>374</td>
     <td>
@@ -4528,139 +4504,31 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         28
     </td>
   </tr>
-
+  
   <tr>
-    <td>377</td>
+    <td>374</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/mdr_san.html">
-            MDR Sachsen-Anhalt
+        <a href="https://palewi.re/docs/news-homepages/sites/vicenews.html">
+            Vice News
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
         28
     </td>
   </tr>
-
+  
   <tr>
-    <td>377</td>
+    <td>374</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/sahanjournal.html">
-            Sahan Journal
+        <a href="https://palewi.re/docs/news-homepages/sites/uhmallorca.html">
+            Última Hora
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
         28
     </td>
   </tr>
-
-  <tr>
-    <td>377</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/spacenews_inc.html">
-            Space News
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        28
-    </td>
-  </tr>
-
-  <tr>
-    <td>377</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/brunswick_news.html">
-            The Brunswick News
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        28
-    </td>
-  </tr>
-
-  <tr>
-    <td>377</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/pulitzercenter.html">
-            Pulitzer Center
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        28
-    </td>
-  </tr>
-
-  <tr>
-    <td>377</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/elmundoes.html">
-            El Mundo
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        28
-    </td>
-  </tr>
-
-  <tr>
-    <td>377</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/elperiodico.html">
-            El Periodico
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        28
-    </td>
-  </tr>
-
-  <tr>
-    <td>377</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/dailycaller.html">
-            Daily Caller
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        28
-    </td>
-  </tr>
-
-  <tr>
-    <td>377</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/windowscentral.html">
-            Windows Central
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        28
-    </td>
-  </tr>
-
-  <tr>
-    <td>377</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/platformer.html">
-            Platformer
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        28
-    </td>
-  </tr>
-
-  <tr>
-    <td>377</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/g1.html">
-            g1
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        28
-    </td>
-  </tr>
-
+  
   <tr>
     <td>377</td>
     <td>
@@ -4672,19 +4540,139 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         28
     </td>
   </tr>
-
+  
   <tr>
-    <td>389</td>
+    <td>377</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/citylimitsnews.html">
-            City Limits
+        <a href="https://palewi.re/docs/news-homepages/sites/dailycaller.html">
+            Daily Caller
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        27
+        28
     </td>
   </tr>
-
+  
+  <tr>
+    <td>377</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/elmundoes.html">
+            El Mundo
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        28
+    </td>
+  </tr>
+  
+  <tr>
+    <td>377</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/elperiodico.html">
+            El Periodico
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        28
+    </td>
+  </tr>
+  
+  <tr>
+    <td>377</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/mdr_san.html">
+            MDR Sachsen-Anhalt
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        28
+    </td>
+  </tr>
+  
+  <tr>
+    <td>377</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/platformer.html">
+            Platformer
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        28
+    </td>
+  </tr>
+  
+  <tr>
+    <td>377</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/pulitzercenter.html">
+            Pulitzer Center
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        28
+    </td>
+  </tr>
+  
+  <tr>
+    <td>377</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/sahanjournal.html">
+            Sahan Journal
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        28
+    </td>
+  </tr>
+  
+  <tr>
+    <td>377</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/spacenews_inc.html">
+            Space News
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        28
+    </td>
+  </tr>
+  
+  <tr>
+    <td>377</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/brunswick_news.html">
+            The Brunswick News
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        28
+    </td>
+  </tr>
+  
+  <tr>
+    <td>377</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/windowscentral.html">
+            Windows Central
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        28
+    </td>
+  </tr>
+  
+  <tr>
+    <td>377</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/g1.html">
+            g1
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        28
+    </td>
+  </tr>
+  
   <tr>
     <td>389</td>
     <td>
@@ -4696,43 +4684,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         27
     </td>
   </tr>
-
-  <tr>
-    <td>389</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/canopyatl.html">
-            Canopy Atlanta
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        27
-    </td>
-  </tr>
-
-  <tr>
-    <td>389</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/walbnews10.html">
-            WALB News 10
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        27
-    </td>
-  </tr>
-
-  <tr>
-    <td>389</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/wkyt.html">
-            WKYT
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        27
-    </td>
-  </tr>
-
+  
   <tr>
     <td>389</td>
     <td>
@@ -4744,79 +4696,55 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         27
     </td>
   </tr>
-
+  
   <tr>
-    <td>395</td>
+    <td>389</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/independent_ie.html">
-            Independent.ie
+        <a href="https://palewi.re/docs/news-homepages/sites/canopyatl.html">
+            Canopy Atlanta
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
         27
     </td>
   </tr>
-
+  
   <tr>
-    <td>395</td>
+    <td>389</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/kcrg.html">
-            KCRG
+        <a href="https://palewi.re/docs/news-homepages/sites/citylimitsnews.html">
+            City Limits
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
         27
     </td>
   </tr>
-
+  
   <tr>
-    <td>395</td>
+    <td>389</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/independent.html">
-            The Independent
+        <a href="https://palewi.re/docs/news-homepages/sites/walbnews10.html">
+            WALB News 10
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
         27
     </td>
   </tr>
-
+  
   <tr>
-    <td>395</td>
+    <td>389</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/prabhatkhabar.html">
-            Prabhat Khabar
+        <a href="https://palewi.re/docs/news-homepages/sites/wkyt.html">
+            WKYT
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
         27
     </td>
   </tr>
-
-  <tr>
-    <td>395</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/thedailybeast.html">
-            Daily Beast
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        27
-    </td>
-  </tr>
-
-  <tr>
-    <td>395</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/jezebel.html">
-            Jezebel
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        27
-    </td>
-  </tr>
-
+  
   <tr>
     <td>395</td>
     <td>
@@ -4828,43 +4756,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         27
     </td>
   </tr>
-
-  <tr>
-    <td>395</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/harpers.html">
-            Harper’s
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        27
-    </td>
-  </tr>
-
-  <tr>
-    <td>395</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/privateeyenews.html">
-            Private Eye
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        27
-    </td>
-  </tr>
-
-  <tr>
-    <td>395</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/gazetadopovo.html">
-            Gazeta do Povo
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        27
-    </td>
-  </tr>
-
+  
   <tr>
     <td>395</td>
     <td>
@@ -4876,55 +4768,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         27
     </td>
   </tr>
-
+  
   <tr>
     <td>395</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/timesofindia.html">
-            Times of India
+        <a href="https://palewi.re/docs/news-homepages/sites/thedailybeast.html">
+            Daily Beast
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
         27
     </td>
   </tr>
-
-  <tr>
-    <td>395</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/whyynews.html">
-            WHYY
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        27
-    </td>
-  </tr>
-
-  <tr>
-    <td>395</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/perfilcom.html">
-            Perfil
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        27
-    </td>
-  </tr>
-
-  <tr>
-    <td>395</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/fortunemagazine.html">
-            Fortune
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        27
-    </td>
-  </tr>
-
+  
   <tr>
     <td>395</td>
     <td>
@@ -4936,7 +4792,79 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         27
     </td>
   </tr>
-
+  
+  <tr>
+    <td>395</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/fortunemagazine.html">
+            Fortune
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        27
+    </td>
+  </tr>
+  
+  <tr>
+    <td>395</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/gazetadopovo.html">
+            Gazeta do Povo
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        27
+    </td>
+  </tr>
+  
+  <tr>
+    <td>395</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/harpers.html">
+            Harper’s
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        27
+    </td>
+  </tr>
+  
+  <tr>
+    <td>395</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/independent_ie.html">
+            Independent.ie
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        27
+    </td>
+  </tr>
+  
+  <tr>
+    <td>395</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/jezebel.html">
+            Jezebel
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        27
+    </td>
+  </tr>
+  
+  <tr>
+    <td>395</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/kcrg.html">
+            KCRG
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        27
+    </td>
+  </tr>
+  
   <tr>
     <td>395</td>
     <td>
@@ -4948,7 +4876,43 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         27
     </td>
   </tr>
-
+  
+  <tr>
+    <td>395</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/perfilcom.html">
+            Perfil
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        27
+    </td>
+  </tr>
+  
+  <tr>
+    <td>395</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/prabhatkhabar.html">
+            Prabhat Khabar
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        27
+    </td>
+  </tr>
+  
+  <tr>
+    <td>395</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/privateeyenews.html">
+            Private Eye
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        27
+    </td>
+  </tr>
+  
   <tr>
     <td>395</td>
     <td>
@@ -4960,7 +4924,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         27
     </td>
   </tr>
-
+  
+  <tr>
+    <td>395</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/independent.html">
+            The Independent
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        27
+    </td>
+  </tr>
+  
   <tr>
     <td>395</td>
     <td>
@@ -4972,19 +4948,31 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         27
     </td>
   </tr>
-
+  
   <tr>
-    <td>414</td>
+    <td>395</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/spectator.html">
-            Spectator
+        <a href="https://palewi.re/docs/news-homepages/sites/timesofindia.html">
+            Times of India
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        26
+        27
     </td>
   </tr>
-
+  
+  <tr>
+    <td>395</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/whyynews.html">
+            WHYY
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        27
+    </td>
+  </tr>
+  
   <tr>
     <td>414</td>
     <td>
@@ -4996,7 +4984,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         26
     </td>
   </tr>
-
+  
+  <tr>
+    <td>414</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/spectator.html">
+            Spectator
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        26
+    </td>
+  </tr>
+  
   <tr>
     <td>414</td>
     <td>
@@ -5008,199 +5008,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         26
     </td>
   </tr>
-
-  <tr>
-    <td>417</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/diariopopularrs.html">
-            Diário Popular
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        26
-    </td>
-  </tr>
-
-  <tr>
-    <td>417</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/fox12oregon.html">
-            Fox 12 Oregon
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        26
-    </td>
-  </tr>
-
-  <tr>
-    <td>417</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/kpcc.html">
-            KPCC
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        26
-    </td>
-  </tr>
-
-  <tr>
-    <td>417</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/lp_lapresse.html">
-            La Presse
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        26
-    </td>
-  </tr>
-
-  <tr>
-    <td>417</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/cuestion_p.html">
-            Cuestion Publica
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        26
-    </td>
-  </tr>
-
-  <tr>
-    <td>417</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/rianru.html">
-            RIA Novosti
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        26
-    </td>
-  </tr>
-
-  <tr>
-    <td>417</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/pagina12.html">
-            Página/12
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        26
-    </td>
-  </tr>
-
-  <tr>
-    <td>417</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/oregonian.html">
-            Oregonian
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        26
-    </td>
-  </tr>
-
-  <tr>
-    <td>417</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/wave3news.html">
-            WAVE
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        26
-    </td>
-  </tr>
-
-  <tr>
-    <td>417</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/zerohora.html">
-            Zero Hora
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        26
-    </td>
-  </tr>
-
-  <tr>
-    <td>417</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/cbs7news.html">
-            CBS7
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        26
-    </td>
-  </tr>
-
-  <tr>
-    <td>417</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/huffpost.html">
-            Huffington Post
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        26
-    </td>
-  </tr>
-
-  <tr>
-    <td>417</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/berkeleyside.html">
-            The Berkeleyside
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        26
-    </td>
-  </tr>
-
-  <tr>
-    <td>417</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/wtoc11.html">
-            WTOC
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        26
-    </td>
-  </tr>
-
-  <tr>
-    <td>417</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/coindesk.html">
-            CoinDesk
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        26
-    </td>
-  </tr>
-
-  <tr>
-    <td>417</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/irishtimes.html">
-            Irish Times
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        26
-    </td>
-  </tr>
-
+  
   <tr>
     <td>417</td>
     <td>
@@ -5212,7 +5020,43 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         26
     </td>
   </tr>
-
+  
+  <tr>
+    <td>417</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/cbs7news.html">
+            CBS7
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        26
+    </td>
+  </tr>
+  
+  <tr>
+    <td>417</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/coindesk.html">
+            CoinDesk
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        26
+    </td>
+  </tr>
+  
+  <tr>
+    <td>417</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/cuestion_p.html">
+            Cuestion Publica
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        26
+    </td>
+  </tr>
+  
   <tr>
     <td>417</td>
     <td>
@@ -5224,31 +5068,55 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         26
     </td>
   </tr>
-
+  
   <tr>
     <td>417</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/motherjones.html">
-            Mother Jones
+        <a href="https://palewi.re/docs/news-homepages/sites/diariopopularrs.html">
+            Diário Popular
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
         26
     </td>
   </tr>
-
+  
   <tr>
     <td>417</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/news12nj.html">
-            News12NJ
+        <a href="https://palewi.re/docs/news-homepages/sites/fox12oregon.html">
+            Fox 12 Oregon
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
         26
     </td>
   </tr>
-
+  
+  <tr>
+    <td>417</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/huffpost.html">
+            Huffington Post
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        26
+    </td>
+  </tr>
+  
+  <tr>
+    <td>417</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/irishtimes.html">
+            Irish Times
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        26
+    </td>
+  </tr>
+  
   <tr>
     <td>417</td>
     <td>
@@ -5260,19 +5128,139 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         26
     </td>
   </tr>
-
+  
   <tr>
-    <td>438</td>
+    <td>417</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/wrdw_wagt.html">
-            News 12 NBC 26
+        <a href="https://palewi.re/docs/news-homepages/sites/kpcc.html">
+            KPCC
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        25
+        26
     </td>
   </tr>
-
+  
+  <tr>
+    <td>417</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/lp_lapresse.html">
+            La Presse
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        26
+    </td>
+  </tr>
+  
+  <tr>
+    <td>417</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/motherjones.html">
+            Mother Jones
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        26
+    </td>
+  </tr>
+  
+  <tr>
+    <td>417</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/news12nj.html">
+            News12NJ
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        26
+    </td>
+  </tr>
+  
+  <tr>
+    <td>417</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/oregonian.html">
+            Oregonian
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        26
+    </td>
+  </tr>
+  
+  <tr>
+    <td>417</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/pagina12.html">
+            Página/12
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        26
+    </td>
+  </tr>
+  
+  <tr>
+    <td>417</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/rianru.html">
+            RIA Novosti
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        26
+    </td>
+  </tr>
+  
+  <tr>
+    <td>417</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/berkeleyside.html">
+            The Berkeleyside
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        26
+    </td>
+  </tr>
+  
+  <tr>
+    <td>417</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/wave3news.html">
+            WAVE
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        26
+    </td>
+  </tr>
+  
+  <tr>
+    <td>417</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/wtoc11.html">
+            WTOC
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        26
+    </td>
+  </tr>
+  
+  <tr>
+    <td>417</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/zerohora.html">
+            Zero Hora
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        26
+    </td>
+  </tr>
+  
   <tr>
     <td>438</td>
     <td>
@@ -5284,151 +5272,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         25
     </td>
   </tr>
-
+  
   <tr>
-    <td>440</td>
+    <td>438</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/ukrinform.html">
-            Ukrinform
+        <a href="https://palewi.re/docs/news-homepages/sites/wrdw_wagt.html">
+            News 12 NBC 26
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
         25
     </td>
   </tr>
-
-  <tr>
-    <td>440</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/nbcdfw.html">
-            NBC DFW
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        25
-    </td>
-  </tr>
-
-  <tr>
-    <td>440</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/nbcnews.html">
-            NBC News
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        25
-    </td>
-  </tr>
-
-  <tr>
-    <td>440</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/nbcphiladelphia.html">
-            NBC10 Philadelphia
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        25
-    </td>
-  </tr>
-
-  <tr>
-    <td>440</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/thescotsman.html">
-            Scotsman
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        25
-    </td>
-  </tr>
-
-  <tr>
-    <td>440</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/foreignpolicy.html">
-            Foreign Policy
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        25
-    </td>
-  </tr>
-
-  <tr>
-    <td>440</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/uolnoticias.html">
-            UOL Notícias
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        25
-    </td>
-  </tr>
-
-  <tr>
-    <td>440</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/newstribune.html">
-            Jefferson City News Tribune
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        25
-    </td>
-  </tr>
-
-  <tr>
-    <td>440</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/searchlightnm.html">
-            Searchlight New Mexico
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        25
-    </td>
-  </tr>
-
-  <tr>
-    <td>440</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/lasvegassun.html">
-            Las Vegas Sun
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        25
-    </td>
-  </tr>
-
-  <tr>
-    <td>440</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/huffpostcanada.html">
-            HuffPost Canada
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        25
-    </td>
-  </tr>
-
-  <tr>
-    <td>440</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/zn_ua.html">
-            ZN.UA
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        25
-    </td>
-  </tr>
-
+  
   <tr>
     <td>440</td>
     <td>
@@ -5440,43 +5296,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         25
     </td>
   </tr>
-
-  <tr>
-    <td>440</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/breitbartnews.html">
-            Breitbart
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        25
-    </td>
-  </tr>
-
-  <tr>
-    <td>440</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/ek_business.html">
-            Ekantipur
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        25
-    </td>
-  </tr>
-
-  <tr>
-    <td>440</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/nbcchicago.html">
-            NBC Chicago
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        25
-    </td>
-  </tr>
-
+  
   <tr>
     <td>440</td>
     <td>
@@ -5488,7 +5308,79 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         25
     </td>
   </tr>
-
+  
+  <tr>
+    <td>440</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/breitbartnews.html">
+            Breitbart
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        25
+    </td>
+  </tr>
+  
+  <tr>
+    <td>440</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/ek_business.html">
+            Ekantipur
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        25
+    </td>
+  </tr>
+  
+  <tr>
+    <td>440</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/foreignpolicy.html">
+            Foreign Policy
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        25
+    </td>
+  </tr>
+  
+  <tr>
+    <td>440</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/huffpostcanada.html">
+            HuffPost Canada
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        25
+    </td>
+  </tr>
+  
+  <tr>
+    <td>440</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/newstribune.html">
+            Jefferson City News Tribune
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        25
+    </td>
+  </tr>
+  
+  <tr>
+    <td>440</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/lasvegassun.html">
+            Las Vegas Sun
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        25
+    </td>
+  </tr>
+  
   <tr>
     <td>440</td>
     <td>
@@ -5500,7 +5392,115 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         25
     </td>
   </tr>
-
+  
+  <tr>
+    <td>440</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/nbcchicago.html">
+            NBC Chicago
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        25
+    </td>
+  </tr>
+  
+  <tr>
+    <td>440</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/nbcdfw.html">
+            NBC DFW
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        25
+    </td>
+  </tr>
+  
+  <tr>
+    <td>440</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/nbcnews.html">
+            NBC News
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        25
+    </td>
+  </tr>
+  
+  <tr>
+    <td>440</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/nbcphiladelphia.html">
+            NBC10 Philadelphia
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        25
+    </td>
+  </tr>
+  
+  <tr>
+    <td>440</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/thescotsman.html">
+            Scotsman
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        25
+    </td>
+  </tr>
+  
+  <tr>
+    <td>440</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/searchlightnm.html">
+            Searchlight New Mexico
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        25
+    </td>
+  </tr>
+  
+  <tr>
+    <td>440</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/uolnoticias.html">
+            UOL Notícias
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        25
+    </td>
+  </tr>
+  
+  <tr>
+    <td>440</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/ukrinform.html">
+            Ukrinform
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        25
+    </td>
+  </tr>
+  
+  <tr>
+    <td>440</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/zn_ua.html">
+            ZN.UA
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        25
+    </td>
+  </tr>
+  
   <tr>
     <td>458</td>
     <td>
@@ -5512,7 +5512,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         24
     </td>
   </tr>
-
+  
   <tr>
     <td>458</td>
     <td>
@@ -5524,7 +5524,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         24
     </td>
   </tr>
-
+  
   <tr>
     <td>458</td>
     <td>
@@ -5536,7 +5536,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         24
     </td>
   </tr>
-
+  
   <tr>
     <td>458</td>
     <td>
@@ -5548,19 +5548,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         24
     </td>
   </tr>
-
-  <tr>
-    <td>462</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/mddailyrecord.html">
-            Maryland Daily Record
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        24
-    </td>
-  </tr>
-
+  
   <tr>
     <td>462</td>
     <td>
@@ -5572,31 +5560,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         24
     </td>
   </tr>
-
-  <tr>
-    <td>462</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/discovery.html">
-            Discovery
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        24
-    </td>
-  </tr>
-
-  <tr>
-    <td>462</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/nybooks.html">
-            New York Review of Books
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        24
-    </td>
-  </tr>
-
+  
   <tr>
     <td>462</td>
     <td>
@@ -5608,187 +5572,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         24
     </td>
   </tr>
-
-  <tr>
-    <td>462</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/ap.html">
-            Associated Press
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        24
-    </td>
-  </tr>
-
-  <tr>
-    <td>462</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/wsj.html">
-            Wall Street Journal
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        24
-    </td>
-  </tr>
-
-  <tr>
-    <td>462</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/khou.html">
-            KHOU
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        24
-    </td>
-  </tr>
-
-  <tr>
-    <td>462</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/justthenews.html">
-            Just the News
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        24
-    </td>
-  </tr>
-
-  <tr>
-    <td>462</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/wplglocal10.html">
-            WPLG Local 10 News
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        24
-    </td>
-  </tr>
-
-  <tr>
-    <td>462</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/wfaa.html">
-            WFAA
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        24
-    </td>
-  </tr>
-
-  <tr>
-    <td>462</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/voicesofbay.html">
-            Voices of Monterey Bay
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        24
-    </td>
-  </tr>
-
-  <tr>
-    <td>462</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/foxsports.html">
-            Fox Sports
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        24
-    </td>
-  </tr>
-
-  <tr>
-    <td>462</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/fdrlst.html">
-            Federalist
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        24
-    </td>
-  </tr>
-
-  <tr>
-    <td>462</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/estadao.html">
-            Estadão
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        24
-    </td>
-  </tr>
-
-  <tr>
-    <td>462</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/king5seattle.html">
-            KING5
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        24
-    </td>
-  </tr>
-
-  <tr>
-    <td>462</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/latimes.html">
-            Los Angeles Times
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        24
-    </td>
-  </tr>
-
-  <tr>
-    <td>462</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/guardian.html">
-            The Guardian
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        24
-    </td>
-  </tr>
-
-  <tr>
-    <td>462</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/dailymirror.html">
-            Daily Mirror
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        24
-    </td>
-  </tr>
-
-  <tr>
-    <td>462</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/dailytarheel.html">
-            Daily Tarheel
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        24
-    </td>
-  </tr>
-
+  
   <tr>
     <td>462</td>
     <td>
@@ -5800,19 +5584,223 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         24
     </td>
   </tr>
-
+  
   <tr>
-    <td>483</td>
+    <td>462</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/uvaldenews.html">
-            Uvalde News-Leader
+        <a href="https://palewi.re/docs/news-homepages/sites/ap.html">
+            Associated Press
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        23
+        24
     </td>
   </tr>
-
+  
+  <tr>
+    <td>462</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/dailymirror.html">
+            Daily Mirror
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        24
+    </td>
+  </tr>
+  
+  <tr>
+    <td>462</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/dailytarheel.html">
+            Daily Tarheel
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        24
+    </td>
+  </tr>
+  
+  <tr>
+    <td>462</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/discovery.html">
+            Discovery
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        24
+    </td>
+  </tr>
+  
+  <tr>
+    <td>462</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/estadao.html">
+            Estadão
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        24
+    </td>
+  </tr>
+  
+  <tr>
+    <td>462</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/fdrlst.html">
+            Federalist
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        24
+    </td>
+  </tr>
+  
+  <tr>
+    <td>462</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/foxsports.html">
+            Fox Sports
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        24
+    </td>
+  </tr>
+  
+  <tr>
+    <td>462</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/justthenews.html">
+            Just the News
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        24
+    </td>
+  </tr>
+  
+  <tr>
+    <td>462</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/khou.html">
+            KHOU
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        24
+    </td>
+  </tr>
+  
+  <tr>
+    <td>462</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/king5seattle.html">
+            KING5
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        24
+    </td>
+  </tr>
+  
+  <tr>
+    <td>462</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/latimes.html">
+            Los Angeles Times
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        24
+    </td>
+  </tr>
+  
+  <tr>
+    <td>462</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/mddailyrecord.html">
+            Maryland Daily Record
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        24
+    </td>
+  </tr>
+  
+  <tr>
+    <td>462</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/nybooks.html">
+            New York Review of Books
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        24
+    </td>
+  </tr>
+  
+  <tr>
+    <td>462</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/guardian.html">
+            The Guardian
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        24
+    </td>
+  </tr>
+  
+  <tr>
+    <td>462</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/voicesofbay.html">
+            Voices of Monterey Bay
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        24
+    </td>
+  </tr>
+  
+  <tr>
+    <td>462</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/wfaa.html">
+            WFAA
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        24
+    </td>
+  </tr>
+  
+  <tr>
+    <td>462</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/wplglocal10.html">
+            WPLG Local 10 News
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        24
+    </td>
+  </tr>
+  
+  <tr>
+    <td>462</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/wsj.html">
+            Wall Street Journal
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        24
+    </td>
+  </tr>
+  
   <tr>
     <td>483</td>
     <td>
@@ -5824,7 +5812,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         23
     </td>
   </tr>
-
+  
   <tr>
     <td>483</td>
     <td>
@@ -5836,139 +5824,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         23
     </td>
   </tr>
-
+  
   <tr>
-    <td>486</td>
+    <td>483</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/kyivindependent.html">
-            Kyiv Independent
+        <a href="https://palewi.re/docs/news-homepages/sites/uvaldenews.html">
+            Uvalde News-Leader
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
         23
     </td>
   </tr>
-
-  <tr>
-    <td>486</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/laopinioncoruna.html">
-            La Opinión A Coruña
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        23
-    </td>
-  </tr>
-
-  <tr>
-    <td>486</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/mtvnews.html">
-            MTV News
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        23
-    </td>
-  </tr>
-
-  <tr>
-    <td>486</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/mstodaynews.html">
-            Mississippi Today
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        23
-    </td>
-  </tr>
-
-  <tr>
-    <td>486</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/civilbeat.html">
-            Honolulu Civil Beat
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        23
-    </td>
-  </tr>
-
-  <tr>
-    <td>486</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/seattletimes.html">
-            Seattle Times
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        23
-    </td>
-  </tr>
-
-  <tr>
-    <td>486</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/natgeo.html">
-            National Geographic
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        23
-    </td>
-  </tr>
-
-  <tr>
-    <td>486</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/mdjonline.html">
-            Marietta Daily Journal
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        23
-    </td>
-  </tr>
-
-  <tr>
-    <td>486</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/rpbreakingnews.html">
-            Rajasthan Patrika
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        23
-    </td>
-  </tr>
-
-  <tr>
-    <td>486</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/romenewstribune.html">
-            Rome News-Tribune
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        23
-    </td>
-  </tr>
-
-  <tr>
-    <td>486</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/9to5mac.html">
-            9to5Mac
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        23
-    </td>
-  </tr>
-
+  
   <tr>
     <td>486</td>
     <td>
@@ -5980,43 +5848,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         23
     </td>
   </tr>
-
+  
   <tr>
     <td>486</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/lex18news.html">
-            LEX 18 News
+        <a href="https://palewi.re/docs/news-homepages/sites/9to5mac.html">
+            9to5Mac
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
         23
     </td>
   </tr>
-
-  <tr>
-    <td>486</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/reuters.html">
-            Reuters
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        23
-    </td>
-  </tr>
-
-  <tr>
-    <td>486</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/msnbc.html">
-            MSNBC
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        23
-    </td>
-  </tr>
-
+  
   <tr>
     <td>486</td>
     <td>
@@ -6028,7 +5872,163 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         23
     </td>
   </tr>
-
+  
+  <tr>
+    <td>486</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/civilbeat.html">
+            Honolulu Civil Beat
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        23
+    </td>
+  </tr>
+  
+  <tr>
+    <td>486</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/kyivindependent.html">
+            Kyiv Independent
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        23
+    </td>
+  </tr>
+  
+  <tr>
+    <td>486</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/lex18news.html">
+            LEX 18 News
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        23
+    </td>
+  </tr>
+  
+  <tr>
+    <td>486</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/laopinioncoruna.html">
+            La Opinión A Coruña
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        23
+    </td>
+  </tr>
+  
+  <tr>
+    <td>486</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/msnbc.html">
+            MSNBC
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        23
+    </td>
+  </tr>
+  
+  <tr>
+    <td>486</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/mtvnews.html">
+            MTV News
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        23
+    </td>
+  </tr>
+  
+  <tr>
+    <td>486</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/mdjonline.html">
+            Marietta Daily Journal
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        23
+    </td>
+  </tr>
+  
+  <tr>
+    <td>486</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/mstodaynews.html">
+            Mississippi Today
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        23
+    </td>
+  </tr>
+  
+  <tr>
+    <td>486</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/natgeo.html">
+            National Geographic
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        23
+    </td>
+  </tr>
+  
+  <tr>
+    <td>486</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/rpbreakingnews.html">
+            Rajasthan Patrika
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        23
+    </td>
+  </tr>
+  
+  <tr>
+    <td>486</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/reuters.html">
+            Reuters
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        23
+    </td>
+  </tr>
+  
+  <tr>
+    <td>486</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/romenewstribune.html">
+            Rome News-Tribune
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        23
+    </td>
+  </tr>
+  
+  <tr>
+    <td>486</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/seattletimes.html">
+            Seattle Times
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        23
+    </td>
+  </tr>
+  
   <tr>
     <td>502</td>
     <td>
@@ -6040,31 +6040,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         22
     </td>
   </tr>
-
-  <tr>
-    <td>502</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/gazetaru.html">
-            Gazeta.Ru
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        22
-    </td>
-  </tr>
-
-  <tr>
-    <td>502</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/voguemagazine.html">
-            Vogue
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        22
-    </td>
-  </tr>
-
+  
   <tr>
     <td>502</td>
     <td>
@@ -6076,199 +6052,31 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         22
     </td>
   </tr>
-
+  
   <tr>
-    <td>506</td>
+    <td>502</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/icijorg.html">
-            ICIJ
+        <a href="https://palewi.re/docs/news-homepages/sites/gazetaru.html">
+            Gazeta.Ru
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
         22
     </td>
   </tr>
-
+  
   <tr>
-    <td>506</td>
+    <td>502</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/gothamgazette.html">
-            Gotham Gazettee
+        <a href="https://palewi.re/docs/news-homepages/sites/voguemagazine.html">
+            Vogue
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
         22
     </td>
   </tr>
-
-  <tr>
-    <td>506</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/thetriibe.html">
-            The TriiBE
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        22
-    </td>
-  </tr>
-
-  <tr>
-    <td>506</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/imagekhabar.html">
-            Imagekhabar
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        22
-    </td>
-  </tr>
-
-  <tr>
-    <td>506</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/komunews.html">
-            KOMU
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        22
-    </td>
-  </tr>
-
-  <tr>
-    <td>506</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/dallasbiznews.html">
-            Dallas Business Journal
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        22
-    </td>
-  </tr>
-
-  <tr>
-    <td>506</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/whas11.html">
-            WHAS11 News
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        22
-    </td>
-  </tr>
-
-  <tr>
-    <td>506</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/grist.html">
-            Grist
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        22
-    </td>
-  </tr>
-
-  <tr>
-    <td>506</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/wabenews.html">
-            WABE News
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        22
-    </td>
-  </tr>
-
-  <tr>
-    <td>506</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/chessbase.html">
-            ChessBase
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        22
-    </td>
-  </tr>
-
-  <tr>
-    <td>506</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/wired.html">
-            Wired
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        22
-    </td>
-  </tr>
-
-  <tr>
-    <td>506</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/baltbizonline.html">
-            Baltimore Business Journal
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        22
-    </td>
-  </tr>
-
-  <tr>
-    <td>506</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/nypost.html">
-            New York Post
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        22
-    </td>
-  </tr>
-
-  <tr>
-    <td>506</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/3newsnowomaha.html">
-            KMTV 3 News Now
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        22
-    </td>
-  </tr>
-
-  <tr>
-    <td>506</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/1newsnz.html">
-            1News
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        22
-    </td>
-  </tr>
-
-  <tr>
-    <td>506</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/okayplayer.html">
-            okayplayer
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        22
-    </td>
-  </tr>
-
+  
   <tr>
     <td>506</td>
     <td>
@@ -6280,43 +6088,43 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         22
     </td>
   </tr>
-
+  
   <tr>
     <td>506</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/fortworthreport.html">
-            Fort Worth Report
+        <a href="https://palewi.re/docs/news-homepages/sites/1newsnz.html">
+            1News
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
         22
     </td>
   </tr>
-
+  
   <tr>
     <td>506</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/globalnews.html">
-            Global News
+        <a href="https://palewi.re/docs/news-homepages/sites/baltbizonline.html">
+            Baltimore Business Journal
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
         22
     </td>
   </tr>
-
+  
   <tr>
     <td>506</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/techreview.html">
-            MIT Technology Review
+        <a href="https://palewi.re/docs/news-homepages/sites/chessbase.html">
+            ChessBase
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
         22
     </td>
   </tr>
-
+  
   <tr>
     <td>506</td>
     <td>
@@ -6328,31 +6136,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         22
     </td>
   </tr>
-
-  <tr>
-    <td>506</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/neheadlines.html">
-            Hardin News-Enterprise
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        22
-    </td>
-  </tr>
-
-  <tr>
-    <td>506</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/em_com.html">
-            Estado de Minas
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        22
-    </td>
-  </tr>
-
+  
   <tr>
     <td>506</td>
     <td>
@@ -6364,7 +6148,175 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         22
     </td>
   </tr>
-
+  
+  <tr>
+    <td>506</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/dallasbiznews.html">
+            Dallas Business Journal
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        22
+    </td>
+  </tr>
+  
+  <tr>
+    <td>506</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/em_com.html">
+            Estado de Minas
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        22
+    </td>
+  </tr>
+  
+  <tr>
+    <td>506</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/fortworthreport.html">
+            Fort Worth Report
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        22
+    </td>
+  </tr>
+  
+  <tr>
+    <td>506</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/globalnews.html">
+            Global News
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        22
+    </td>
+  </tr>
+  
+  <tr>
+    <td>506</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/gothamgazette.html">
+            Gotham Gazettee
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        22
+    </td>
+  </tr>
+  
+  <tr>
+    <td>506</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/grist.html">
+            Grist
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        22
+    </td>
+  </tr>
+  
+  <tr>
+    <td>506</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/neheadlines.html">
+            Hardin News-Enterprise
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        22
+    </td>
+  </tr>
+  
+  <tr>
+    <td>506</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/icijorg.html">
+            ICIJ
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        22
+    </td>
+  </tr>
+  
+  <tr>
+    <td>506</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/imagekhabar.html">
+            Imagekhabar
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        22
+    </td>
+  </tr>
+  
+  <tr>
+    <td>506</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/3newsnowomaha.html">
+            KMTV 3 News Now
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        22
+    </td>
+  </tr>
+  
+  <tr>
+    <td>506</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/komunews.html">
+            KOMU
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        22
+    </td>
+  </tr>
+  
+  <tr>
+    <td>506</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/techreview.html">
+            MIT Technology Review
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        22
+    </td>
+  </tr>
+  
+  <tr>
+    <td>506</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/nypost.html">
+            New York Post
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        22
+    </td>
+  </tr>
+  
+  <tr>
+    <td>506</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/thetriibe.html">
+            The TriiBE
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        22
+    </td>
+  </tr>
+  
   <tr>
     <td>506</td>
     <td>
@@ -6376,19 +6328,55 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         22
     </td>
   </tr>
-
+  
   <tr>
-    <td>531</td>
+    <td>506</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/wnyt.html">
-            WNYT NewsChannel 13
+        <a href="https://palewi.re/docs/news-homepages/sites/wabenews.html">
+            WABE News
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        21
+        22
     </td>
   </tr>
-
+  
+  <tr>
+    <td>506</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/whas11.html">
+            WHAS11 News
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        22
+    </td>
+  </tr>
+  
+  <tr>
+    <td>506</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/wired.html">
+            Wired
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        22
+    </td>
+  </tr>
+  
+  <tr>
+    <td>506</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/okayplayer.html">
+            okayplayer
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        22
+    </td>
+  </tr>
+  
   <tr>
     <td>531</td>
     <td>
@@ -6400,7 +6388,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         21
     </td>
   </tr>
-
+  
   <tr>
     <td>531</td>
     <td>
@@ -6412,7 +6400,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         21
     </td>
   </tr>
-
+  
   <tr>
     <td>531</td>
     <td>
@@ -6424,223 +6412,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         21
     </td>
   </tr>
-
+  
   <tr>
-    <td>535</td>
+    <td>531</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/infoamazoniabr.html">
-            InfoAmazonia
+        <a href="https://palewi.re/docs/news-homepages/sites/wnyt.html">
+            WNYT NewsChannel 13
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
         21
     </td>
   </tr>
-
-  <tr>
-    <td>535</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/nationalpost.html">
-            National Post
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        21
-    </td>
-  </tr>
-
-  <tr>
-    <td>535</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/asahi.html">
-            Asahi Shimbun
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        21
-    </td>
-  </tr>
-
-  <tr>
-    <td>535</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/bleacherreport.html">
-            Bleacher Report
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        21
-    </td>
-  </tr>
-
-  <tr>
-    <td>535</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/sankei_news.html">
-            Sankei Shimbun
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        21
-    </td>
-  </tr>
-
-  <tr>
-    <td>535</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/bonappetit.html">
-            Bon Appetit
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        21
-    </td>
-  </tr>
-
-  <tr>
-    <td>535</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/wral.html">
-            WRAL
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        21
-    </td>
-  </tr>
-
-  <tr>
-    <td>535</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/sdut.html">
-            San Diego Union Tribune
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        21
-    </td>
-  </tr>
-
-  <tr>
-    <td>535</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/mtlgazette.html">
-            Montreal Gazette
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        21
-    </td>
-  </tr>
-
-  <tr>
-    <td>535</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/nymag.html">
-            New York
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        21
-    </td>
-  </tr>
-
-  <tr>
-    <td>535</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/theinformation.html">
-            The Information
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        21
-    </td>
-  </tr>
-
-  <tr>
-    <td>535</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/el_universal_mx.html">
-            El Universal
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        21
-    </td>
-  </tr>
-
-  <tr>
-    <td>535</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/tb_times.html">
-            Tampa Bay Times
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        21
-    </td>
-  </tr>
-
-  <tr>
-    <td>535</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/capitolnewsil.html">
-            Capitol News Illinois
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        21
-    </td>
-  </tr>
-
-  <tr>
-    <td>535</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/thelasentinel.html">
-            Los Angeles Sentinel
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        21
-    </td>
-  </tr>
-
-  <tr>
-    <td>535</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/codaily.html">
-            Central Oregon Daily
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        21
-    </td>
-  </tr>
-
-  <tr>
-    <td>535</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/financialpost.html">
-            Financial Post
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        21
-    </td>
-  </tr>
-
-  <tr>
-    <td>535</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/nettavisen.html">
-            Nettavisen
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        21
-    </td>
-  </tr>
-
+  
   <tr>
     <td>535</td>
     <td>
@@ -6652,7 +6436,223 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         21
     </td>
   </tr>
-
+  
+  <tr>
+    <td>535</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/asahi.html">
+            Asahi Shimbun
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        21
+    </td>
+  </tr>
+  
+  <tr>
+    <td>535</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/bleacherreport.html">
+            Bleacher Report
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        21
+    </td>
+  </tr>
+  
+  <tr>
+    <td>535</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/bonappetit.html">
+            Bon Appetit
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        21
+    </td>
+  </tr>
+  
+  <tr>
+    <td>535</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/capitolnewsil.html">
+            Capitol News Illinois
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        21
+    </td>
+  </tr>
+  
+  <tr>
+    <td>535</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/codaily.html">
+            Central Oregon Daily
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        21
+    </td>
+  </tr>
+  
+  <tr>
+    <td>535</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/el_universal_mx.html">
+            El Universal
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        21
+    </td>
+  </tr>
+  
+  <tr>
+    <td>535</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/financialpost.html">
+            Financial Post
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        21
+    </td>
+  </tr>
+  
+  <tr>
+    <td>535</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/infoamazoniabr.html">
+            InfoAmazonia
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        21
+    </td>
+  </tr>
+  
+  <tr>
+    <td>535</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/thelasentinel.html">
+            Los Angeles Sentinel
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        21
+    </td>
+  </tr>
+  
+  <tr>
+    <td>535</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/mtlgazette.html">
+            Montreal Gazette
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        21
+    </td>
+  </tr>
+  
+  <tr>
+    <td>535</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/nationalpost.html">
+            National Post
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        21
+    </td>
+  </tr>
+  
+  <tr>
+    <td>535</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/nettavisen.html">
+            Nettavisen
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        21
+    </td>
+  </tr>
+  
+  <tr>
+    <td>535</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/nymag.html">
+            New York
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        21
+    </td>
+  </tr>
+  
+  <tr>
+    <td>535</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/sdut.html">
+            San Diego Union Tribune
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        21
+    </td>
+  </tr>
+  
+  <tr>
+    <td>535</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/sankei_news.html">
+            Sankei Shimbun
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        21
+    </td>
+  </tr>
+  
+  <tr>
+    <td>535</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/tb_times.html">
+            Tampa Bay Times
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        21
+    </td>
+  </tr>
+  
+  <tr>
+    <td>535</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/theinformation.html">
+            The Information
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        21
+    </td>
+  </tr>
+  
+  <tr>
+    <td>535</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/wral.html">
+            WRAL
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        21
+    </td>
+  </tr>
+  
   <tr>
     <td>535</td>
     <td>
@@ -6664,31 +6664,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         21
     </td>
   </tr>
-
-  <tr>
-    <td>555</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/telegraphherald.html">
-            Dubuque Telegraph Herald
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        20
-    </td>
-  </tr>
-
-  <tr>
-    <td>555</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/bgdailynews.html">
-            Bowling Green Daily News
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        20
-    </td>
-  </tr>
-
+  
   <tr>
     <td>555</td>
     <td>
@@ -6700,7 +6676,31 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         20
     </td>
   </tr>
-
+  
+  <tr>
+    <td>555</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/bgdailynews.html">
+            Bowling Green Daily News
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        20
+    </td>
+  </tr>
+  
+  <tr>
+    <td>555</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/telegraphherald.html">
+            Dubuque Telegraph Herald
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        20
+    </td>
+  </tr>
+  
   <tr>
     <td>555</td>
     <td>
@@ -6712,79 +6712,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         20
     </td>
   </tr>
-
-  <tr>
-    <td>559</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/politico.html">
-            POLITICO
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        20
-    </td>
-  </tr>
-
-  <tr>
-    <td>559</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/ottawacitizen.html">
-            Ottawa Citizen
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        20
-    </td>
-  </tr>
-
-  <tr>
-    <td>559</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/globeandmail.html">
-            The Globe and Mail
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        20
-    </td>
-  </tr>
-
-  <tr>
-    <td>559</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/pittsburghpg.html">
-            Pittsburgh Post-Gazette
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        20
-    </td>
-  </tr>
-
-  <tr>
-    <td>559</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/annapurna_post.html">
-            Annapurna Post
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        20
-    </td>
-  </tr>
-
-  <tr>
-    <td>559</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/calgaryherald.html">
-            Calgary Herald
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        20
-    </td>
-  </tr>
-
+  
   <tr>
     <td>559</td>
     <td>
@@ -6796,7 +6724,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         20
     </td>
   </tr>
-
+  
+  <tr>
+    <td>559</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/annapurna_post.html">
+            Annapurna Post
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        20
+    </td>
+  </tr>
+  
   <tr>
     <td>559</td>
     <td>
@@ -6808,19 +6748,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         20
     </td>
   </tr>
-
+  
   <tr>
     <td>559</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/phillyinquirer.html">
-            Philadelphia Inquirer
+        <a href="https://palewi.re/docs/news-homepages/sites/calgaryherald.html">
+            Calgary Herald
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
         20
     </td>
   </tr>
-
+  
   <tr>
     <td>559</td>
     <td>
@@ -6832,7 +6772,67 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         20
     </td>
   </tr>
-
+  
+  <tr>
+    <td>559</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/ottawacitizen.html">
+            Ottawa Citizen
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        20
+    </td>
+  </tr>
+  
+  <tr>
+    <td>559</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/politico.html">
+            POLITICO
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        20
+    </td>
+  </tr>
+  
+  <tr>
+    <td>559</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/phillyinquirer.html">
+            Philadelphia Inquirer
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        20
+    </td>
+  </tr>
+  
+  <tr>
+    <td>559</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/pittsburghpg.html">
+            Pittsburgh Post-Gazette
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        20
+    </td>
+  </tr>
+  
+  <tr>
+    <td>559</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/globeandmail.html">
+            The Globe and Mail
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        20
+    </td>
+  </tr>
+  
   <tr>
     <td>559</td>
     <td>
@@ -6844,7 +6844,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         20
     </td>
   </tr>
-
+  
   <tr>
     <td>570</td>
     <td>
@@ -6856,151 +6856,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         19
     </td>
   </tr>
-
-  <tr>
-    <td>571</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/thetorontosun.html">
-            Toronto Sun
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        19
-    </td>
-  </tr>
-
-  <tr>
-    <td>571</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/ledevoir.html">
-            Le Devoir
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        19
-    </td>
-  </tr>
-
-  <tr>
-    <td>571</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/chess24com.html">
-            chess24
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        19
-    </td>
-  </tr>
-
-  <tr>
-    <td>571</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/postandcourier.html">
-            Post and Courier
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        19
-    </td>
-  </tr>
-
-  <tr>
-    <td>571</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/kvue.html">
-            KVUE
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        19
-    </td>
-  </tr>
-
-  <tr>
-    <td>571</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/scotnational.html">
-            National
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        19
-    </td>
-  </tr>
-
-  <tr>
-    <td>571</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/irishexaminer.html">
-            Irish Examiner
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        19
-    </td>
-  </tr>
-
-  <tr>
-    <td>571</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/opovo.html">
-            O Povo
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        19
-    </td>
-  </tr>
-
-  <tr>
-    <td>571</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/gradynewsource.html">
-            Grady Newsource
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        19
-    </td>
-  </tr>
-
-  <tr>
-    <td>571</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/punjabkesari.html">
-            Punjab Kesari
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        19
-    </td>
-  </tr>
-
-  <tr>
-    <td>571</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/vancouversun.html">
-            Vancouver Sun
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        19
-    </td>
-  </tr>
-
-  <tr>
-    <td>571</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/tmz.html">
-            TMZ
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        19
-    </td>
-  </tr>
-
+  
   <tr>
     <td>571</td>
     <td>
@@ -7012,7 +6868,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         19
     </td>
   </tr>
-
+  
   <tr>
     <td>571</td>
     <td>
@@ -7024,19 +6880,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         19
     </td>
   </tr>
-
-  <tr>
-    <td>571</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/thenation.html">
-            The Nation
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        19
-    </td>
-  </tr>
-
+  
   <tr>
     <td>571</td>
     <td>
@@ -7048,19 +6892,67 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         19
     </td>
   </tr>
-
+  
   <tr>
     <td>571</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/shillsalmanac.html">
-            South Hills Almanac
+        <a href="https://palewi.re/docs/news-homepages/sites/gradynewsource.html">
+            Grady Newsource
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
         19
     </td>
   </tr>
-
+  
+  <tr>
+    <td>571</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/irishexaminer.html">
+            Irish Examiner
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        19
+    </td>
+  </tr>
+  
+  <tr>
+    <td>571</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/kvue.html">
+            KVUE
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        19
+    </td>
+  </tr>
+  
+  <tr>
+    <td>571</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/ledevoir.html">
+            Le Devoir
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        19
+    </td>
+  </tr>
+  
+  <tr>
+    <td>571</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/scotnational.html">
+            National
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        19
+    </td>
+  </tr>
+  
   <tr>
     <td>571</td>
     <td>
@@ -7072,7 +6964,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         19
     </td>
   </tr>
-
+  
+  <tr>
+    <td>571</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/opovo.html">
+            O Povo
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        19
+    </td>
+  </tr>
+  
   <tr>
     <td>571</td>
     <td>
@@ -7084,7 +6988,103 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         19
     </td>
   </tr>
-
+  
+  <tr>
+    <td>571</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/postandcourier.html">
+            Post and Courier
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        19
+    </td>
+  </tr>
+  
+  <tr>
+    <td>571</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/punjabkesari.html">
+            Punjab Kesari
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        19
+    </td>
+  </tr>
+  
+  <tr>
+    <td>571</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/shillsalmanac.html">
+            South Hills Almanac
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        19
+    </td>
+  </tr>
+  
+  <tr>
+    <td>571</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/tmz.html">
+            TMZ
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        19
+    </td>
+  </tr>
+  
+  <tr>
+    <td>571</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/thenation.html">
+            The Nation
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        19
+    </td>
+  </tr>
+  
+  <tr>
+    <td>571</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/thetorontosun.html">
+            Toronto Sun
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        19
+    </td>
+  </tr>
+  
+  <tr>
+    <td>571</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/vancouversun.html">
+            Vancouver Sun
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        19
+    </td>
+  </tr>
+  
+  <tr>
+    <td>571</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/chess24com.html">
+            chess24
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        19
+    </td>
+  </tr>
+  
   <tr>
     <td>590</td>
     <td>
@@ -7096,31 +7096,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         18
     </td>
   </tr>
-
-  <tr>
-    <td>591</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/bild.html">
-            Bild
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        18
-    </td>
-  </tr>
-
-  <tr>
-    <td>591</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/rt_com.html">
-            RT
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        18
-    </td>
-  </tr>
-
+  
   <tr>
     <td>591</td>
     <td>
@@ -7132,91 +7108,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         18
     </td>
   </tr>
-
+  
   <tr>
     <td>591</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/slate.html">
-            Slate
+        <a href="https://palewi.re/docs/news-homepages/sites/bild.html">
+            Bild
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
         18
     </td>
   </tr>
-
-  <tr>
-    <td>591</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/kerrville.html">
-            Kerrville Daily Times
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        18
-    </td>
-  </tr>
-
-  <tr>
-    <td>591</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/edsource.html">
-            EdSource
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        18
-    </td>
-  </tr>
-
-  <tr>
-    <td>591</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/gwinnettdaily.html">
-            Gwinnett Daily Post
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        18
-    </td>
-  </tr>
-
-  <tr>
-    <td>591</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/fla_pol.html">
-            Florida Politics
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        18
-    </td>
-  </tr>
-
-  <tr>
-    <td>591</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/fivethirtyeight.html">
-            FiveThirtyEight
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        18
-    </td>
-  </tr>
-
-  <tr>
-    <td>591</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/texasmonthly.html">
-            Texas Monthly
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        18
-    </td>
-  </tr>
-
+  
   <tr>
     <td>591</td>
     <td>
@@ -7228,67 +7132,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         18
     </td>
   </tr>
-
-  <tr>
-    <td>591</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/foxnews.html">
-            Fox News
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        18
-    </td>
-  </tr>
-
-  <tr>
-    <td>591</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/verge.html">
-            Verge
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        18
-    </td>
-  </tr>
-
-  <tr>
-    <td>591</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/timesenterprise.html">
-            The Times-Enterprise
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        18
-    </td>
-  </tr>
-
-  <tr>
-    <td>591</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/kansasdotcom.html">
-            Wichita Eagle
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        18
-    </td>
-  </tr>
-
-  <tr>
-    <td>591</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/vulture.html">
-            Vulture
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        18
-    </td>
-  </tr>
-
+  
   <tr>
     <td>591</td>
     <td>
@@ -7300,7 +7144,67 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         18
     </td>
   </tr>
-
+  
+  <tr>
+    <td>591</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/edsource.html">
+            EdSource
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        18
+    </td>
+  </tr>
+  
+  <tr>
+    <td>591</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/fivethirtyeight.html">
+            FiveThirtyEight
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        18
+    </td>
+  </tr>
+  
+  <tr>
+    <td>591</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/fla_pol.html">
+            Florida Politics
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        18
+    </td>
+  </tr>
+  
+  <tr>
+    <td>591</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/foxnews.html">
+            Fox News
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        18
+    </td>
+  </tr>
+  
+  <tr>
+    <td>591</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/gwinnettdaily.html">
+            Gwinnett Daily Post
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        18
+    </td>
+  </tr>
+  
   <tr>
     <td>591</td>
     <td>
@@ -7312,79 +7216,103 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         18
     </td>
   </tr>
-
+  
   <tr>
-    <td>609</td>
+    <td>591</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/thehill.html">
-            The Hill
+        <a href="https://palewi.re/docs/news-homepages/sites/kerrville.html">
+            Kerrville Daily Times
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        17
+        18
     </td>
   </tr>
-
+  
   <tr>
-    <td>609</td>
+    <td>591</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/fox5atlanta.html">
-            Fox 5 Atlanta
+        <a href="https://palewi.re/docs/news-homepages/sites/rt_com.html">
+            RT
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        17
+        18
     </td>
   </tr>
-
+  
   <tr>
-    <td>609</td>
+    <td>591</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/heraldscotland.html">
-            Daily Herald
+        <a href="https://palewi.re/docs/news-homepages/sites/slate.html">
+            Slate
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        17
+        18
     </td>
   </tr>
-
+  
   <tr>
-    <td>609</td>
+    <td>591</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/14eastmag.html">
-            14 East
+        <a href="https://palewi.re/docs/news-homepages/sites/texasmonthly.html">
+            Texas Monthly
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        17
+        18
     </td>
   </tr>
-
+  
   <tr>
-    <td>609</td>
+    <td>591</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/nzherald.html">
-            NZ Herald
+        <a href="https://palewi.re/docs/news-homepages/sites/timesenterprise.html">
+            The Times-Enterprise
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        17
+        18
     </td>
   </tr>
-
+  
   <tr>
-    <td>609</td>
+    <td>591</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/valoreconomico.html">
-            Valor Econômico
+        <a href="https://palewi.re/docs/news-homepages/sites/verge.html">
+            Verge
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        17
+        18
     </td>
   </tr>
-
+  
+  <tr>
+    <td>591</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/vulture.html">
+            Vulture
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        18
+    </td>
+  </tr>
+  
+  <tr>
+    <td>591</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/kansasdotcom.html">
+            Wichita Eagle
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        18
+    </td>
+  </tr>
+  
   <tr>
     <td>609</td>
     <td>
@@ -7396,67 +7324,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         17
     </td>
   </tr>
-
+  
   <tr>
     <td>609</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/sbnation.html">
-            SB Nation
+        <a href="https://palewi.re/docs/news-homepages/sites/14eastmag.html">
+            14 East
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
         17
     </td>
   </tr>
-
-  <tr>
-    <td>609</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/stltoday.html">
-            St. Louis Post-Dispatch
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        17
-    </td>
-  </tr>
-
-  <tr>
-    <td>609</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/lokaantar.html">
-            Lokantar
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        17
-    </td>
-  </tr>
-
-  <tr>
-    <td>609</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/kcrw.html">
-            KCRW
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        17
-    </td>
-  </tr>
-
-  <tr>
-    <td>609</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/nydailynews.html">
-            Daily News
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        17
-    </td>
-  </tr>
-
+  
   <tr>
     <td>609</td>
     <td>
@@ -7468,67 +7348,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         17
     </td>
   </tr>
-
-  <tr>
-    <td>609</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/newsobserver.html">
-            News & Observer
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        17
-    </td>
-  </tr>
-
-  <tr>
-    <td>609</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/lokpath.html">
-            Lokpath
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        17
-    </td>
-  </tr>
-
-  <tr>
-    <td>609</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/ringer.html">
-            Ringer
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        17
-    </td>
-  </tr>
-
-  <tr>
-    <td>609</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/foxla.html">
-            FOX 11 Los Angeles
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        17
-    </td>
-  </tr>
-
-  <tr>
-    <td>609</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/fox29philly.html">
-            FOX29 Philly
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        17
-    </td>
-  </tr>
-
+  
   <tr>
     <td>609</td>
     <td>
@@ -7540,19 +7360,55 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         17
     </td>
   </tr>
-
+  
   <tr>
     <td>609</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/frednewspost.html">
-            Frederick News-Post
+        <a href="https://palewi.re/docs/news-homepages/sites/heraldscotland.html">
+            Daily Herald
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
         17
     </td>
   </tr>
-
+  
+  <tr>
+    <td>609</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/nydailynews.html">
+            Daily News
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        17
+    </td>
+  </tr>
+  
+  <tr>
+    <td>609</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/foxla.html">
+            FOX 11 Los Angeles
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        17
+    </td>
+  </tr>
+  
+  <tr>
+    <td>609</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/fox29philly.html">
+            FOX29 Philly
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        17
+    </td>
+  </tr>
+  
   <tr>
     <td>609</td>
     <td>
@@ -7564,7 +7420,91 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         17
     </td>
   </tr>
-
+  
+  <tr>
+    <td>609</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/fox5atlanta.html">
+            Fox 5 Atlanta
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        17
+    </td>
+  </tr>
+  
+  <tr>
+    <td>609</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/frednewspost.html">
+            Frederick News-Post
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        17
+    </td>
+  </tr>
+  
+  <tr>
+    <td>609</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/kcrw.html">
+            KCRW
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        17
+    </td>
+  </tr>
+  
+  <tr>
+    <td>609</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/lokaantar.html">
+            Lokantar
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        17
+    </td>
+  </tr>
+  
+  <tr>
+    <td>609</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/lokpath.html">
+            Lokpath
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        17
+    </td>
+  </tr>
+  
+  <tr>
+    <td>609</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/nzherald.html">
+            NZ Herald
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        17
+    </td>
+  </tr>
+  
+  <tr>
+    <td>609</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/newsobserver.html">
+            News & Observer
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        17
+    </td>
+  </tr>
+  
   <tr>
     <td>609</td>
     <td>
@@ -7576,7 +7516,31 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         17
     </td>
   </tr>
-
+  
+  <tr>
+    <td>609</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/ringer.html">
+            Ringer
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        17
+    </td>
+  </tr>
+  
+  <tr>
+    <td>609</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/sbnation.html">
+            SB Nation
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        17
+    </td>
+  </tr>
+  
   <tr>
     <td>609</td>
     <td>
@@ -7588,7 +7552,43 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         17
     </td>
   </tr>
-
+  
+  <tr>
+    <td>609</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/stltoday.html">
+            St. Louis Post-Dispatch
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        17
+    </td>
+  </tr>
+  
+  <tr>
+    <td>609</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/thehill.html">
+            The Hill
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        17
+    </td>
+  </tr>
+  
+  <tr>
+    <td>609</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/valoreconomico.html">
+            Valor Econômico
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        17
+    </td>
+  </tr>
+  
   <tr>
     <td>609</td>
     <td>
@@ -7600,7 +7600,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         17
     </td>
   </tr>
-
+  
   <tr>
     <td>633</td>
     <td>
@@ -7612,79 +7612,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         16
     </td>
   </tr>
-
-  <tr>
-    <td>634</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/usweekly.html">
-            Us Weekly
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        16
-    </td>
-  </tr>
-
-  <tr>
-    <td>634</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/thehilltimes.html">
-            The Hill Times
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        16
-    </td>
-  </tr>
-
-  <tr>
-    <td>634</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/sfchronicle.html">
-            San Francisco Chronicle
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        16
-    </td>
-  </tr>
-
-  <tr>
-    <td>634</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/techcrunch.html">
-            TechCrunch
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        16
-    </td>
-  </tr>
-
-  <tr>
-    <td>634</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/wrblnews3.html">
-            WRBL News 3
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        16
-    </td>
-  </tr>
-
-  <tr>
-    <td>634</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/rollcall.html">
-            Roll Call
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        16
-    </td>
-  </tr>
-
+  
   <tr>
     <td>634</td>
     <td>
@@ -7696,199 +7624,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         16
     </td>
   </tr>
-
-  <tr>
-    <td>634</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/wncn.html">
-            CBS 17
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        16
-    </td>
-  </tr>
-
-  <tr>
-    <td>634</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/chunichi_denhen.html">
-            Chunichi Shimbun
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        16
-    </td>
-  </tr>
-
-  <tr>
-    <td>634</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/nro.html">
-            National Review
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        16
-    </td>
-  </tr>
-
-  <tr>
-    <td>634</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/dwnews.html">
-            DW
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        16
-    </td>
-  </tr>
-
-  <tr>
-    <td>634</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/kxan_news.html">
-            KXAN
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        16
-    </td>
-  </tr>
-
-  <tr>
-    <td>634</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/wgnnews.html">
-            WGN
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        16
-    </td>
-  </tr>
-
-  <tr>
-    <td>634</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/firstthingsmag.html">
-            First Things
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        16
-    </td>
-  </tr>
-
-  <tr>
-    <td>634</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/poder360.html">
-            Poder 360
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        16
-    </td>
-  </tr>
-
-  <tr>
-    <td>634</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/gridnews.html">
-            Grid
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        16
-    </td>
-  </tr>
-
-  <tr>
-    <td>634</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/rollingstone.html">
-            Rolling Stone
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        16
-    </td>
-  </tr>
-
-  <tr>
-    <td>634</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/toacornnews.html">
-            Thousand Oaks Acorn
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        16
-    </td>
-  </tr>
-
-  <tr>
-    <td>634</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/ksnnews.html">
-            KSN News
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        16
-    </td>
-  </tr>
-
-  <tr>
-    <td>634</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/jn_japanese.html">
-            Yomiuri shinbun
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        16
-    </td>
-  </tr>
-
-  <tr>
-    <td>634</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/galvnews.html">
-            Galveston County Daily News
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        16
-    </td>
-  </tr>
-
-  <tr>
-    <td>634</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/houstonchron.html">
-            Houston Chronicle
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        16
-    </td>
-  </tr>
-
-  <tr>
-    <td>634</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/mwtnews.html">
-            Midland Reporter-Telegram
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        16
-    </td>
-  </tr>
-
+  
   <tr>
     <td>634</td>
     <td>
@@ -7900,55 +7636,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         16
     </td>
   </tr>
-
-  <tr>
-    <td>634</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/newsmax.html">
-            Newsmax
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        16
-    </td>
-  </tr>
-
-  <tr>
-    <td>634</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/expressnews.html">
-            San Antonio Express-News
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        16
-    </td>
-  </tr>
-
-  <tr>
-    <td>634</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/tylerpaper.html">
-            Tyler Morning Telegraph
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        16
-    </td>
-  </tr>
-
-  <tr>
-    <td>634</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/dailyecho.html">
-            Daily Echo
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        16
-    </td>
-  </tr>
-
+  
   <tr>
     <td>634</td>
     <td>
@@ -7960,7 +7648,55 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         16
     </td>
   </tr>
-
+  
+  <tr>
+    <td>634</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/wncn.html">
+            CBS 17
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        16
+    </td>
+  </tr>
+  
+  <tr>
+    <td>634</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/chunichi_denhen.html">
+            Chunichi Shimbun
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        16
+    </td>
+  </tr>
+  
+  <tr>
+    <td>634</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/dwnews.html">
+            DW
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        16
+    </td>
+  </tr>
+  
+  <tr>
+    <td>634</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/dailyecho.html">
+            Daily Echo
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        16
+    </td>
+  </tr>
+  
   <tr>
     <td>634</td>
     <td>
@@ -7972,7 +7708,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         16
     </td>
   </tr>
-
+  
   <tr>
     <td>634</td>
     <td>
@@ -7984,7 +7720,211 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         16
     </td>
   </tr>
-
+  
+  <tr>
+    <td>634</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/firstthingsmag.html">
+            First Things
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        16
+    </td>
+  </tr>
+  
+  <tr>
+    <td>634</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/galvnews.html">
+            Galveston County Daily News
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        16
+    </td>
+  </tr>
+  
+  <tr>
+    <td>634</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/gridnews.html">
+            Grid
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        16
+    </td>
+  </tr>
+  
+  <tr>
+    <td>634</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/houstonchron.html">
+            Houston Chronicle
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        16
+    </td>
+  </tr>
+  
+  <tr>
+    <td>634</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/ksnnews.html">
+            KSN News
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        16
+    </td>
+  </tr>
+  
+  <tr>
+    <td>634</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/kxan_news.html">
+            KXAN
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        16
+    </td>
+  </tr>
+  
+  <tr>
+    <td>634</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/mwtnews.html">
+            Midland Reporter-Telegram
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        16
+    </td>
+  </tr>
+  
+  <tr>
+    <td>634</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/nro.html">
+            National Review
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        16
+    </td>
+  </tr>
+  
+  <tr>
+    <td>634</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/newsmax.html">
+            Newsmax
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        16
+    </td>
+  </tr>
+  
+  <tr>
+    <td>634</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/poder360.html">
+            Poder 360
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        16
+    </td>
+  </tr>
+  
+  <tr>
+    <td>634</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/rollcall.html">
+            Roll Call
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        16
+    </td>
+  </tr>
+  
+  <tr>
+    <td>634</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/rollingstone.html">
+            Rolling Stone
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        16
+    </td>
+  </tr>
+  
+  <tr>
+    <td>634</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/expressnews.html">
+            San Antonio Express-News
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        16
+    </td>
+  </tr>
+  
+  <tr>
+    <td>634</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/sfchronicle.html">
+            San Francisco Chronicle
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        16
+    </td>
+  </tr>
+  
+  <tr>
+    <td>634</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/techcrunch.html">
+            TechCrunch
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        16
+    </td>
+  </tr>
+  
+  <tr>
+    <td>634</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/thehilltimes.html">
+            The Hill Times
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        16
+    </td>
+  </tr>
+  
+  <tr>
+    <td>634</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/toacornnews.html">
+            Thousand Oaks Acorn
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        16
+    </td>
+  </tr>
+  
   <tr>
     <td>634</td>
     <td>
@@ -7996,19 +7936,67 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         16
     </td>
   </tr>
-
+  
   <tr>
-    <td>666</td>
+    <td>634</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/wttw.html">
-            WTTW
+        <a href="https://palewi.re/docs/news-homepages/sites/tylerpaper.html">
+            Tyler Morning Telegraph
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        15
+        16
     </td>
   </tr>
-
+  
+  <tr>
+    <td>634</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/usweekly.html">
+            Us Weekly
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        16
+    </td>
+  </tr>
+  
+  <tr>
+    <td>634</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/wgnnews.html">
+            WGN
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        16
+    </td>
+  </tr>
+  
+  <tr>
+    <td>634</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/wrblnews3.html">
+            WRBL News 3
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        16
+    </td>
+  </tr>
+  
+  <tr>
+    <td>634</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/jn_japanese.html">
+            Yomiuri shinbun
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        16
+    </td>
+  </tr>
+  
   <tr>
     <td>666</td>
     <td>
@@ -8020,187 +8008,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         15
     </td>
   </tr>
-
+  
   <tr>
-    <td>668</td>
+    <td>666</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/startelegram.html">
-            Fort Worth Star-Telegram
+        <a href="https://palewi.re/docs/news-homepages/sites/wttw.html">
+            WTTW
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
         15
     </td>
   </tr>
-
-  <tr>
-    <td>668</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/wdrbnews.html">
-            WDRB News
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        15
-    </td>
-  </tr>
-
-  <tr>
-    <td>668</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/newschannelne.html">
-            News Channel Nebraska
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        15
-    </td>
-  </tr>
-
-  <tr>
-    <td>668</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/newyorker.html">
-            New Yorker
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        15
-    </td>
-  </tr>
-
-  <tr>
-    <td>668</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/cnn.html">
-            CNN
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        15
-    </td>
-  </tr>
-
-  <tr>
-    <td>668</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/espn.html">
-            ESPN
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        15
-    </td>
-  </tr>
-
-  <tr>
-    <td>668</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/revistapiaui.html">
-            revista piauí
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        15
-    </td>
-  </tr>
-
-  <tr>
-    <td>668</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/nzstuff.html">
-            Stuff
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        15
-    </td>
-  </tr>
-
-  <tr>
-    <td>668</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/torontostar.html">
-            Toronto Star
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        15
-    </td>
-  </tr>
-
-  <tr>
-    <td>668</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/elcorreo_com.html">
-            El Correo
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        15
-    </td>
-  </tr>
-
-  <tr>
-    <td>668</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/kvoa.html">
-            News 4
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        15
-    </td>
-  </tr>
-
-  <tr>
-    <td>668</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/heraldleader.html">
-            Lexington Herald-Leader
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        15
-    </td>
-  </tr>
-
-  <tr>
-    <td>668</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/ktla.html">
-            KTLA
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        15
-    </td>
-  </tr>
-
-  <tr>
-    <td>668</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/boingboing.html">
-            Boing Boing
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        15
-    </td>
-  </tr>
-
-  <tr>
-    <td>668</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/mercnews.html">
-            Mercury News
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        15
-    </td>
-  </tr>
-
+  
   <tr>
     <td>668</td>
     <td>
@@ -8212,31 +8032,31 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         15
     </td>
   </tr>
-
+  
   <tr>
     <td>668</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/nagarik_news.html">
-            Nagarik News
+        <a href="https://palewi.re/docs/news-homepages/sites/boingboing.html">
+            Boing Boing
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
         15
     </td>
   </tr>
-
+  
   <tr>
     <td>668</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/ntdaily.html">
-            North Texas Daily
+        <a href="https://palewi.re/docs/news-homepages/sites/cnn.html">
+            CNN
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
         15
     </td>
   </tr>
-
+  
   <tr>
     <td>668</td>
     <td>
@@ -8248,7 +8068,175 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         15
     </td>
   </tr>
-
+  
+  <tr>
+    <td>668</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/espn.html">
+            ESPN
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        15
+    </td>
+  </tr>
+  
+  <tr>
+    <td>668</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/elcorreo_com.html">
+            El Correo
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        15
+    </td>
+  </tr>
+  
+  <tr>
+    <td>668</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/startelegram.html">
+            Fort Worth Star-Telegram
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        15
+    </td>
+  </tr>
+  
+  <tr>
+    <td>668</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/ktla.html">
+            KTLA
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        15
+    </td>
+  </tr>
+  
+  <tr>
+    <td>668</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/heraldleader.html">
+            Lexington Herald-Leader
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        15
+    </td>
+  </tr>
+  
+  <tr>
+    <td>668</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/mercnews.html">
+            Mercury News
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        15
+    </td>
+  </tr>
+  
+  <tr>
+    <td>668</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/nagarik_news.html">
+            Nagarik News
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        15
+    </td>
+  </tr>
+  
+  <tr>
+    <td>668</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/newyorker.html">
+            New Yorker
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        15
+    </td>
+  </tr>
+  
+  <tr>
+    <td>668</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/kvoa.html">
+            News 4
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        15
+    </td>
+  </tr>
+  
+  <tr>
+    <td>668</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/newschannelne.html">
+            News Channel Nebraska
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        15
+    </td>
+  </tr>
+  
+  <tr>
+    <td>668</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/ntdaily.html">
+            North Texas Daily
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        15
+    </td>
+  </tr>
+  
+  <tr>
+    <td>668</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/nzstuff.html">
+            Stuff
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        15
+    </td>
+  </tr>
+  
+  <tr>
+    <td>668</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/torontostar.html">
+            Toronto Star
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        15
+    </td>
+  </tr>
+  
+  <tr>
+    <td>668</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/wdrbnews.html">
+            WDRB News
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        15
+    </td>
+  </tr>
+  
   <tr>
     <td>668</td>
     <td>
@@ -8260,7 +8248,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         15
     </td>
   </tr>
-
+  
+  <tr>
+    <td>668</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/revistapiaui.html">
+            revista piauí
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        15
+    </td>
+  </tr>
+  
   <tr>
     <td>688</td>
     <td>
@@ -8272,43 +8272,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         14
     </td>
   </tr>
-
-  <tr>
-    <td>689</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/ny1.html">
-            NY1
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        14
-    </td>
-  </tr>
-
-  <tr>
-    <td>689</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/scalawagmag.html">
-            Scalawag
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        14
-    </td>
-  </tr>
-
-  <tr>
-    <td>689</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/scotusblog.html">
-            SCOTUS Blog
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        14
-    </td>
-  </tr>
-
+  
   <tr>
     <td>689</td>
     <td>
@@ -8320,55 +8284,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         14
     </td>
   </tr>
-
-  <tr>
-    <td>689</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/jornaloglobo.html">
-            O Globo
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        14
-    </td>
-  </tr>
-
-  <tr>
-    <td>689</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/redstate.html">
-            RedState
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        14
-    </td>
-  </tr>
-
-  <tr>
-    <td>689</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/thetimes.html">
-            The Times
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        14
-    </td>
-  </tr>
-
-  <tr>
-    <td>689</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/sacbee_news.html">
-            Sacramento Bee
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        14
-    </td>
-  </tr>
-
+  
   <tr>
     <td>689</td>
     <td>
@@ -8380,7 +8296,79 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         14
     </td>
   </tr>
-
+  
+  <tr>
+    <td>689</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/ny1.html">
+            NY1
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        14
+    </td>
+  </tr>
+  
+  <tr>
+    <td>689</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/jornaloglobo.html">
+            O Globo
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        14
+    </td>
+  </tr>
+  
+  <tr>
+    <td>689</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/redstate.html">
+            RedState
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        14
+    </td>
+  </tr>
+  
+  <tr>
+    <td>689</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/scotusblog.html">
+            SCOTUS Blog
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        14
+    </td>
+  </tr>
+  
+  <tr>
+    <td>689</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/sacbee_news.html">
+            Sacramento Bee
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        14
+    </td>
+  </tr>
+  
+  <tr>
+    <td>689</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/scalawagmag.html">
+            Scalawag
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        14
+    </td>
+  </tr>
+  
   <tr>
     <td>689</td>
     <td>
@@ -8392,55 +8380,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         14
     </td>
   </tr>
-
+  
   <tr>
-    <td>699</td>
+    <td>689</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/telegraphga.html">
-            The Telegraph
+        <a href="https://palewi.re/docs/news-homepages/sites/thetimes.html">
+            The Times
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        13
+        14
     </td>
   </tr>
-
-  <tr>
-    <td>699</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/teenvogue.html">
-            Teen Vogue
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        13
-    </td>
-  </tr>
-
-  <tr>
-    <td>699</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/bakersfieldcali.html">
-            Bakersfield Californian
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        13
-    </td>
-  </tr>
-
-  <tr>
-    <td>699</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/newsgorkhapatra.html">
-            Gorakhapatra
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        13
-    </td>
-  </tr>
-
+  
   <tr>
     <td>699</td>
     <td>
@@ -8452,31 +8404,31 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         13
     </td>
   </tr>
-
+  
   <tr>
     <td>699</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/theroot.html">
-            Root
+        <a href="https://palewi.re/docs/news-homepages/sites/bakersfieldcali.html">
+            Bakersfield Californian
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
         13
     </td>
   </tr>
-
+  
   <tr>
     <td>699</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/newspressnow.html">
-            St. Joseph News Press
+        <a href="https://palewi.re/docs/news-homepages/sites/newsgorkhapatra.html">
+            Gorakhapatra
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
         13
     </td>
   </tr>
-
+  
   <tr>
     <td>699</td>
     <td>
@@ -8488,7 +8440,55 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         13
     </td>
   </tr>
-
+  
+  <tr>
+    <td>699</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/theroot.html">
+            Root
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        13
+    </td>
+  </tr>
+  
+  <tr>
+    <td>699</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/newspressnow.html">
+            St. Joseph News Press
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        13
+    </td>
+  </tr>
+  
+  <tr>
+    <td>699</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/teenvogue.html">
+            Teen Vogue
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        13
+    </td>
+  </tr>
+  
+  <tr>
+    <td>699</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/telegraphga.html">
+            The Telegraph
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        13
+    </td>
+  </tr>
+  
   <tr>
     <td>707</td>
     <td>
@@ -8500,7 +8500,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         12
     </td>
   </tr>
-
+  
   <tr>
     <td>707</td>
     <td>
@@ -8512,43 +8512,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         12
     </td>
   </tr>
-
-  <tr>
-    <td>709</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/dailyneb.html">
-            Daily Nebraskan
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        12
-    </td>
-  </tr>
-
-  <tr>
-    <td>709</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/thevdt.html">
-            Valdosta Daily Times
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        12
-    </td>
-  </tr>
-
-  <tr>
-    <td>709</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/mcall.html">
-            The Morning Call
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        12
-    </td>
-  </tr>
-
+  
   <tr>
     <td>709</td>
     <td>
@@ -8560,7 +8524,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         12
     </td>
   </tr>
-
+  
+  <tr>
+    <td>709</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/dailyneb.html">
+            Daily Nebraskan
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        12
+    </td>
+  </tr>
+  
   <tr>
     <td>709</td>
     <td>
@@ -8572,7 +8548,31 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         12
     </td>
   </tr>
-
+  
+  <tr>
+    <td>709</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/mcall.html">
+            The Morning Call
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        12
+    </td>
+  </tr>
+  
+  <tr>
+    <td>709</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/thevdt.html">
+            Valdosta Daily Times
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        12
+    </td>
+  </tr>
+  
   <tr>
     <td>714</td>
     <td>
@@ -8584,103 +8584,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         11
     </td>
   </tr>
-
-  <tr>
-    <td>715</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/dallasnews.html">
-            Dallas Morning News
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        11
-    </td>
-  </tr>
-
-  <tr>
-    <td>715</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/tpm.html">
-            TPM
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        11
-    </td>
-  </tr>
-
-  <tr>
-    <td>715</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/kyivpost.html">
-            KyivPost
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        11
-    </td>
-  </tr>
-
-  <tr>
-    <td>715</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/lentaruofficial.html">
-            Lenta.ru
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        11
-    </td>
-  </tr>
-
-  <tr>
-    <td>715</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/bloombergjapan.html">
-            Bloomberg Japan
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        11
-    </td>
-  </tr>
-
-  <tr>
-    <td>715</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/bostonglobe.html">
-            Boston Globe
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        11
-    </td>
-  </tr>
-
-  <tr>
-    <td>715</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/joplinglobe.html">
-            Joplin Globe
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        11
-    </td>
-  </tr>
-
-  <tr>
-    <td>715</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/alma_preta.html">
-            Alma Preta
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        11
-    </td>
-  </tr>
-
+  
   <tr>
     <td>715</td>
     <td>
@@ -8692,31 +8596,103 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         11
     </td>
   </tr>
-
+  
   <tr>
-    <td>724</td>
+    <td>715</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/theeconomist.html">
-            Economist
+        <a href="https://palewi.re/docs/news-homepages/sites/alma_preta.html">
+            Alma Preta
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        10
+        11
     </td>
   </tr>
-
+  
   <tr>
-    <td>724</td>
+    <td>715</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/rato_pati.html">
-            Rato Pati
+        <a href="https://palewi.re/docs/news-homepages/sites/bloombergjapan.html">
+            Bloomberg Japan
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        10
+        11
     </td>
   </tr>
-
+  
+  <tr>
+    <td>715</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/bostonglobe.html">
+            Boston Globe
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        11
+    </td>
+  </tr>
+  
+  <tr>
+    <td>715</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/dallasnews.html">
+            Dallas Morning News
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        11
+    </td>
+  </tr>
+  
+  <tr>
+    <td>715</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/joplinglobe.html">
+            Joplin Globe
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        11
+    </td>
+  </tr>
+  
+  <tr>
+    <td>715</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/kyivpost.html">
+            KyivPost
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        11
+    </td>
+  </tr>
+  
+  <tr>
+    <td>715</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/lentaruofficial.html">
+            Lenta.ru
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        11
+    </td>
+  </tr>
+  
+  <tr>
+    <td>715</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/tpm.html">
+            TPM
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        11
+    </td>
+  </tr>
+  
   <tr>
     <td>724</td>
     <td>
@@ -8728,7 +8704,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         10
     </td>
   </tr>
-
+  
+  <tr>
+    <td>724</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/theeconomist.html">
+            Economist
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        10
+    </td>
+  </tr>
+  
   <tr>
     <td>724</td>
     <td>
@@ -8740,31 +8728,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         10
     </td>
   </tr>
-
-  <tr>
-    <td>724</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/ujyaalo.html">
-            Ujyaalo
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        10
-    </td>
-  </tr>
-
-  <tr>
-    <td>724</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/wsav.html">
-            WSAV News 3
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        10
-    </td>
-  </tr>
-
+  
   <tr>
     <td>724</td>
     <td>
@@ -8776,19 +8740,43 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         10
     </td>
   </tr>
-
+  
   <tr>
-    <td>731</td>
+    <td>724</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/kakenews.html">
-            KAKE News
+        <a href="https://palewi.re/docs/news-homepages/sites/rato_pati.html">
+            Rato Pati
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        9
+        10
     </td>
   </tr>
-
+  
+  <tr>
+    <td>724</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/ujyaalo.html">
+            Ujyaalo
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        10
+    </td>
+  </tr>
+  
+  <tr>
+    <td>724</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/wsav.html">
+            WSAV News 3
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        10
+    </td>
+  </tr>
+  
   <tr>
     <td>731</td>
     <td>
@@ -8800,31 +8788,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         9
     </td>
   </tr>
-
-  <tr>
-    <td>731</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/jdemontreal.html">
-            La Journal de Montréal
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        9
-    </td>
-  </tr>
-
-  <tr>
-    <td>731</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/sltrib.html">
-            Salt Lake Tribune
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        9
-    </td>
-  </tr>
-
+  
   <tr>
     <td>731</td>
     <td>
@@ -8836,7 +8800,31 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         9
     </td>
   </tr>
-
+  
+  <tr>
+    <td>731</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/kakenews.html">
+            KAKE News
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        9
+    </td>
+  </tr>
+  
+  <tr>
+    <td>731</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/jdemontreal.html">
+            La Journal de Montréal
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        9
+    </td>
+  </tr>
+  
   <tr>
     <td>731</td>
     <td>
@@ -8848,7 +8836,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         9
     </td>
   </tr>
-
+  
+  <tr>
+    <td>731</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/sltrib.html">
+            Salt Lake Tribune
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        9
+    </td>
+  </tr>
+  
   <tr>
     <td>731</td>
     <td>
@@ -8860,7 +8860,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         9
     </td>
   </tr>
-
+  
   <tr>
     <td>738</td>
     <td>
@@ -8872,55 +8872,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         8
     </td>
   </tr>
-
-  <tr>
-    <td>739</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/statejournal.html">
-            Frankfort State Journal
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        8
-    </td>
-  </tr>
-
-  <tr>
-    <td>739</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/kcautv.html">
-            KCAU
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        8
-    </td>
-  </tr>
-
-  <tr>
-    <td>739</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/reviewjournal.html">
-            Las Vegas Review-Journal
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        8
-    </td>
-  </tr>
-
-  <tr>
-    <td>739</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/drudge.html">
-            Drudge Report
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        8
-    </td>
-  </tr>
-
+  
   <tr>
     <td>739</td>
     <td>
@@ -8932,19 +8884,55 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         8
     </td>
   </tr>
-
+  
   <tr>
-    <td>744</td>
+    <td>739</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/miwisconsin.html">
-            mi wisconsin
+        <a href="https://palewi.re/docs/news-homepages/sites/drudge.html">
+            Drudge Report
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        7
+        8
     </td>
   </tr>
-
+  
+  <tr>
+    <td>739</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/statejournal.html">
+            Frankfort State Journal
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        8
+    </td>
+  </tr>
+  
+  <tr>
+    <td>739</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/kcautv.html">
+            KCAU
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        8
+    </td>
+  </tr>
+  
+  <tr>
+    <td>739</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/reviewjournal.html">
+            Las Vegas Review-Journal
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        8
+    </td>
+  </tr>
+  
   <tr>
     <td>744</td>
     <td>
@@ -8956,7 +8944,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         7
     </td>
   </tr>
-
+  
   <tr>
     <td>744</td>
     <td>
@@ -8968,7 +8956,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         7
     </td>
   </tr>
-
+  
+  <tr>
+    <td>744</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/miwisconsin.html">
+            mi wisconsin
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        7
+    </td>
+  </tr>
+  
   <tr>
     <td>747</td>
     <td>
@@ -8980,43 +8980,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         6
     </td>
   </tr>
-
-  <tr>
-    <td>747</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/pressenterprise.html">
-            Riverside Press-Enterprise
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        6
-    </td>
-  </tr>
-
-  <tr>
-    <td>747</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/scsentinel.html">
-            Santa Cruz Sentinel
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        6
-    </td>
-  </tr>
-
-  <tr>
-    <td>747</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/uwogazette.html">
-            Western Gazette
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        6
-    </td>
-  </tr>
-
+  
   <tr>
     <td>747</td>
     <td>
@@ -9028,19 +8992,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         6
     </td>
   </tr>
-
-  <tr>
-    <td>747</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/ocregister.html">
-            Orange County Register
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        6
-    </td>
-  </tr>
-
+  
   <tr>
     <td>747</td>
     <td>
@@ -9052,7 +9004,55 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         6
     </td>
   </tr>
-
+  
+  <tr>
+    <td>747</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/ocregister.html">
+            Orange County Register
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        6
+    </td>
+  </tr>
+  
+  <tr>
+    <td>747</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/pressenterprise.html">
+            Riverside Press-Enterprise
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        6
+    </td>
+  </tr>
+  
+  <tr>
+    <td>747</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/scsentinel.html">
+            Santa Cruz Sentinel
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        6
+    </td>
+  </tr>
+  
+  <tr>
+    <td>747</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/uwogazette.html">
+            Western Gazette
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        6
+    </td>
+  </tr>
+  
   <tr>
     <td>754</td>
     <td>
@@ -9064,7 +9064,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         5
     </td>
   </tr>
-
+  
   <tr>
     <td>754</td>
     <td>
@@ -9076,43 +9076,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         5
     </td>
   </tr>
-
-  <tr>
-    <td>756</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/lacrossetribune.html">
-            LaCrosse Tribune
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        4
-    </td>
-  </tr>
-
-  <tr>
-    <td>756</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/curbed.html">
-            Curbed
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        4
-    </td>
-  </tr>
-
-  <tr>
-    <td>756</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/tucsonstar.html">
-            Arizona Daily Star
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        4
-    </td>
-  </tr>
-
+  
   <tr>
     <td>756</td>
     <td>
@@ -9124,7 +9088,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         4
     </td>
   </tr>
-
+  
+  <tr>
+    <td>756</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/tucsonstar.html">
+            Arizona Daily Star
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        4
+    </td>
+  </tr>
+  
   <tr>
     <td>756</td>
     <td>
@@ -9136,31 +9112,31 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         4
     </td>
   </tr>
-
+  
   <tr>
-    <td>761</td>
+    <td>756</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/qctimes.html">
-            Quad City Times
+        <a href="https://palewi.re/docs/news-homepages/sites/curbed.html">
+            Curbed
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        3
+        4
     </td>
   </tr>
-
+  
   <tr>
-    <td>761</td>
+    <td>756</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/wistatejournal.html">
-            Wisconsin State Journal
+        <a href="https://palewi.re/docs/news-homepages/sites/lacrossetribune.html">
+            LaCrosse Tribune
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        3
+        4
     </td>
   </tr>
-
+  
   <tr>
     <td>761</td>
     <td>
@@ -9172,19 +9148,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         3
     </td>
   </tr>
-
-  <tr>
-    <td>761</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/abc7breaking.html">
-            KVIA
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        3
-    </td>
-  </tr>
-
+  
   <tr>
     <td>761</td>
     <td>
@@ -9196,43 +9160,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         3
     </td>
   </tr>
-
-  <tr>
-    <td>761</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/rtdnews.html">
-            Richmond Times-Dispatch
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        3
-    </td>
-  </tr>
-
-  <tr>
-    <td>761</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/lancenet.html">
-            Lance
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        3
-    </td>
-  </tr>
-
-  <tr>
-    <td>761</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/wcfcourier.html">
-            Waterloo-Cedar Falls Courier
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        3
-    </td>
-  </tr>
-
+  
   <tr>
     <td>761</td>
     <td>
@@ -9244,7 +9172,31 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         3
     </td>
   </tr>
-
+  
+  <tr>
+    <td>761</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/abc7breaking.html">
+            KVIA
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        3
+    </td>
+  </tr>
+  
+  <tr>
+    <td>761</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/lancenet.html">
+            Lance
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        3
+    </td>
+  </tr>
+  
   <tr>
     <td>761</td>
     <td>
@@ -9256,19 +9208,55 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         3
     </td>
   </tr>
-
+  
   <tr>
-    <td>771</td>
+    <td>761</td>
     <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/journalstarnews.html">
-            Lincoln Journal Star
+        <a href="https://palewi.re/docs/news-homepages/sites/qctimes.html">
+            Quad City Times
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        2
+        3
     </td>
   </tr>
-
+  
+  <tr>
+    <td>761</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/rtdnews.html">
+            Richmond Times-Dispatch
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        3
+    </td>
+  </tr>
+  
+  <tr>
+    <td>761</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/wcfcourier.html">
+            Waterloo-Cedar Falls Courier
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        3
+    </td>
+  </tr>
+  
+  <tr>
+    <td>761</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/wistatejournal.html">
+            Wisconsin State Journal
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        3
+    </td>
+  </tr>
+  
   <tr>
     <td>771</td>
     <td>
@@ -9280,7 +9268,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         2
     </td>
   </tr>
-
+  
+  <tr>
+    <td>771</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/journalstarnews.html">
+            Lincoln Journal Star
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        2
+    </td>
+  </tr>
+  
   <tr>
     <td>771</td>
     <td>
@@ -9292,19 +9292,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         2
     </td>
   </tr>
-
-  <tr>
-    <td>774</td>
-    <td>
-        <a href="https://palewi.re/docs/news-homepages/sites/cbnoficial.html">
-            Rádio CBN
-        </a>
-    </td>
-    <td style="text-align: right; background-color: red; color: white;">
-        1
-    </td>
-  </tr>
-
+  
   <tr>
     <td>774</td>
     <td>
@@ -9316,6 +9304,18 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         1
     </td>
   </tr>
-
+  
+  <tr>
+    <td>774</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/cbnoficial.html">
+            Rádio CBN
+        </a>
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        1
+    </td>
+  </tr>
+  
  </tbody>
 </table>
