@@ -301,6 +301,68 @@ def site_detail():
 
 
 @cli.command()
+def site_detail_lighthouse_analysis_chart():
+    """Create the JSON data file for the site detail page's lighthouse analysis chart."""
+    # Get all sites
+    site_list = utils.get_site_list()
+    print(
+        f":bar_chart: Creating lighthouse analysis chart JSON files for {len(site_list)} site detail pages"
+    )
+
+    # Get lighthouse data we need
+    lighthouse_sample_df = pd.read_csv(
+        utils.EXTRACT_DIR / "csv" / "lighthouse-sample.csv",
+        parse_dates=["date"],
+    ).drop(["identifier", "file_name"], axis=1)
+    lighthouse_sample_df.handle = lighthouse_sample_df.handle.str.lower()
+
+    # Ignore pandas warnings
+    warnings.filterwarnings("ignore")
+
+    # Make the out directory
+    out_dir = utils.DOCS_DIR / "_extra" / "charts" / "sites" / "lighthouse-analysis"
+    out_dir.mkdir(parents=True, exist_ok=True)
+
+    def color_code(val):
+        """Return the classification of a metric according to Google's system.
+
+        Source: https://developer.chrome.com/docs/lighthouse/performance/performance-scoring/
+        """
+        if val >= 0.9:
+            return "green"
+        elif val >= 0.5:
+            return "orange"
+        else:
+            return "red"
+
+    # Loop through all sites
+    for site in track(site_list):
+        # Get the lighthouse runs for this site
+        handle = site["handle"].lower()
+        site_df = lighthouse_sample_df[lighthouse_sample_df.handle == handle].copy()
+
+        # If there's nothing there, skip it
+        if not len(site_df):
+            continue
+
+        # Do the math
+        chart_df = (
+            site_df.set_index(["handle", "date"])
+            .stack()
+            .reset_index()
+            .rename(columns={0: "value", "level_2": "metric"})
+        )
+        chart_df["color"] = chart_df.value.apply(color_code)
+        chart_df.value = chart_df.value * 100
+        chart_df.metric = (
+            chart_df.metric.str.capitalize().str.replace("_", " ").replace("Seo", "SEO")
+        )
+
+        # Write it out
+        _write_chart_json(chart_df, out_dir / f"{site['handle'].lower()}.json")
+
+
+@cli.command()
 def site_detail_screenshot_chart():
     """Create the JSON data file for the site detail page's screenshots chart."""
     # Get all sites
