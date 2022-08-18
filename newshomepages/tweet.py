@@ -21,7 +21,8 @@ def cli():
 
 
 @cli.command()
-def update_list():
+@click.option("-n", "number", default=5)
+def update_list(number):
     """Update a Twitter list with all of our sources."""
     # Connect to Twitter
     api = get_twitter_client()
@@ -38,7 +39,7 @@ def update_list():
     print(f":newspaper: {len(source_list)} sources in the archive")
 
     # Add what's missing
-    missing_list = list(set(source_list) - set(screenname_list))[:5]
+    missing_list = list(set(source_list) - set(screenname_list))[:number]
     print(f":bird: Adding {len(missing_list)} new sources to Twitter list")
     for obj in track(missing_list):
         api.CreateListsMember(list_id=1558434500304158720, screen_name=obj)
