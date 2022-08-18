@@ -3,7 +3,7 @@
 
 # Sites
 
-The archiving routine is currently capturing 821 sites.
+The archiving routine is currently capturing 822 sites.
 
 A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/all.xml). An OPML file collecting all individual RSS feeds is at [opml.xml](https://palewi.re/docs/news-homepages/rss/sites/opml.xml).
 
@@ -694,6 +694,7 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[Stuff](https://palewi.re/docs/news-homepages/sites/nzstuff.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nzstuff.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nzstuff.xml)|
 |[Süddeutsche Zeitung](https://palewi.re/docs/news-homepages/sites/sz.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sz.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/sz.xml)|
 |[Tampa Bay Times](https://palewi.re/docs/news-homepages/sites/tb_times.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tb_times.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/tb_times.xml)|
+|[Task & Purpose](https://palewi.re/docs/news-homepages/sites/taskandpurpose.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/taskandpurpose.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/taskandpurpose.xml)|
 |[TASS](https://palewi.re/docs/news-homepages/sites/tass_agency.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tass_agency.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/tass_agency.xml)|
 |[TechCrunch](https://palewi.re/docs/news-homepages/sites/techcrunch.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/techcrunch.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/techcrunch.xml)|
 |[TechMeme](https://palewi.re/docs/news-homepages/sites/techmeme.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/techmeme.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/techmeme.xml)|

@@ -3,7 +3,7 @@
 
 # Latest screenshots
 
-The most recent homepages captured from 821 news sites.
+The most recent homepages captured from 822 news sites.
 
 <div class="latest-parent">
 
@@ -6170,6 +6170,15 @@ The most recent homepages captured from 821 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/tb_times.html">Tampa Bay Times</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/taskandpurpose.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/taskandpurpose.jpg"
+     alt="Task & Purpose"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/taskandpurpose.html">Task & Purpose</a></p>
 </div>
 
 <div class="latest-child">

@@ -5,7 +5,7 @@ orphan: true
 ```{include} ../_templates/nav.html
 ```
 
-# In These Times
+# In These Times 
 
 ![In These Times ](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/inthesetimesmag.jpg)
 
@@ -77,6 +77,8 @@ This site was analyzed 18 times over the last seven days. The median score for e
 
 
 ## Artifacts
+
+Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 

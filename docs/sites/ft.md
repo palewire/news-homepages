@@ -78,6 +78,8 @@ This site was analyzed 20 times over the last seven days. The median score for e
 
 ## Artifacts
 
+Assets gathered by our system and stored in the Internet Archive
+
 ### Screenshots
 
 The archiving routine has saved 379 screenshots with the Internet Archive.

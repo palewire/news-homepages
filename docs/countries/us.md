@@ -7,7 +7,7 @@ orphan: true
 
 # United States of America
 
-The most recent homepages from 577 news sites in this country.
+The most recent homepages from 578 news sites in this country.
 
 <div class="latest-parent">
 
@@ -4242,6 +4242,15 @@ The most recent homepages from 577 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/taskandpurpose.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/taskandpurpose.jpg"
+     alt="Task & Purpose"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/taskandpurpose.html">Task & Purpose</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/techcrunch.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/techcrunch.jpg"
      alt="TechCrunch"
@@ -5687,6 +5696,7 @@ The most recent homepages from 577 news sites in this country.
 |[Storm Lake Times](https://palewi.re/docs/news-homepages/sites/sltimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sltimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/sltimes.xml)|
 |[Strikewave](https://palewi.re/docs/news-homepages/sites/strikewave.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/strikewave.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/strikewave.xml)|
 |[Tampa Bay Times](https://palewi.re/docs/news-homepages/sites/tb_times.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tb_times.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/tb_times.xml)|
+|[Task & Purpose](https://palewi.re/docs/news-homepages/sites/taskandpurpose.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/taskandpurpose.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/taskandpurpose.xml)|
 |[TechCrunch](https://palewi.re/docs/news-homepages/sites/techcrunch.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/techcrunch.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/techcrunch.xml)|
 |[TechMeme](https://palewi.re/docs/news-homepages/sites/techmeme.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/techmeme.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/techmeme.xml)|
 |[Teen Vogue](https://palewi.re/docs/news-homepages/sites/teenvogue.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/teenvogue.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/teenvogue.xml)|
