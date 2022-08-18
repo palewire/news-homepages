@@ -65,10 +65,8 @@ def theme():
             line=dict(stroke=palette["default"], strokeWidth=3),
             path=dict(stroke=palette["default"]),
             rect=dict(fill=palette["default"]),
-            shape=dict(stroke=palette["default"]),
             bar=dict(fill=palette["default"]),
             point=dict(stroke=palette["default"]),
-            symbol=dict(fill=palette["default"], size=30),
             axis=dict(
                 titleFont=titleFont,
                 titleFontSize=titleFontSize,
@@ -78,7 +76,6 @@ def theme():
                 labelFontWeight=labelFontWeight,
                 tickColor=palette["accent"],
                 labelColor=palette["accent"],
-                stroke=palette["default"],
             ),
             axisX=dict(
                 labelAngle=0,

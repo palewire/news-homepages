@@ -313,7 +313,7 @@ def site_detail_lighthouse_analysis_chart():
     lighthouse_sample_df = pd.read_csv(
         utils.EXTRACT_DIR / "csv" / "lighthouse-sample.csv",
         parse_dates=["date"],
-    ).drop(["identifier", "file_name"], axis=1)
+    ).drop(["identifier", "file_name", "pwa"], axis=1)
     lighthouse_sample_df.handle = lighthouse_sample_df.handle.str.lower()
 
     # Ignore pandas warnings
