@@ -20,7 +20,11 @@ orphan: true
 | Language       | [Spanish](https://palewi.re/docs/news-homepages/languages/es.html)
 | Bundles        |  |
 
-## Screenshots
+
+
+## Artifacts
+
+### Screenshots
 
 The archiving routine has saved 2 screenshots with the Internet Archive.
 
@@ -50,7 +54,7 @@ Here are the 12 most recent screenshots.
 
 </div>
 
-## Hyperlinks
+### Hyperlinks
 
 The archiving routine has saved 2 hyperlink lists with the Internet Archive.
 
@@ -64,7 +68,7 @@ Here are the 10 most recent hyperlink lists.
 | [August 16 at 12:10 PM](https://archive.org/download/elfinanciero_mx-2022/elfinanciero_mx-2022-08-16T12:10:07.270256-05:00.hyperlinks.json) |
 
 
-## Accessibility
+### Accessibility
 
 The archiving routine has saved 2 accessibility trees with the Internet Archive.
 
@@ -79,7 +83,7 @@ Here are the 10 most recent accessibility trees.
 
 
 
-## Lighthouse
+### Lighthouse
 
 The archiving routine has saved 2 Lighthouse audits with the Internet Archive.
 
@@ -94,7 +98,7 @@ Here are the 10 most recent Lighthouse audits.
 
 
 
-## Internet Archive collections
+### Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

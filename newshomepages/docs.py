@@ -207,6 +207,9 @@ def site_detail():
 
     # Get all screenshots and items
     csv_dir = utils.EXTRACT_DIR / "csv"
+    lighthouse_analysis_df = pd.read_csv(
+        utils.EXTRACT_DIR / "csv" / "lighthouse-analysis.csv"
+    )
     screenshot_df = utils.get_screenshot_df()
     hyperlink_df = utils.get_hyperlink_df()
     accessibility_df = utils.get_accessibility_df()
@@ -220,6 +223,15 @@ def site_detail():
 
         # Get the site's timezone
         site_tz = pytz.timezone(site["timezone"])
+
+        # Get lighthouse analysis for this site
+        lighthouse_analysis = lighthouse_analysis_df[
+            lighthouse_analysis_df.handle.str.lower() == site["handle"].lower()
+        ]
+        if len(lighthouse_analysis):
+            lighthouse_summary = lighthouse_analysis.to_dict(orient="records")[0]
+        else:
+            lighthouse_summary = None
 
         # Get the screenshots for this site
         screenshots = screenshot_df[
@@ -268,6 +280,7 @@ def site_detail():
         # Render the template
         context = {
             "site": site,
+            "lighthouse_summary": lighthouse_summary,
             "screenshots": len(screenshots),
             "most_recent_screenshots": most_recent_screenshots.to_dict(
                 orient="records"

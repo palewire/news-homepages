@@ -20,7 +20,11 @@ orphan: true
 | Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        | <a href="../bundles/sports.html">Sports</a>  |
 
-## Screenshots
+
+
+## Artifacts
+
+### Screenshots
 
 The archiving routine has saved 35 screenshots with the Internet Archive.
 
@@ -223,7 +227,7 @@ Here are the 12 most recent screenshots.
 
 </div>
 
-## Hyperlinks
+### Hyperlinks
 
 The archiving routine has saved 36 hyperlink lists with the Internet Archive.
 
@@ -328,7 +332,7 @@ Here are the 10 most recent hyperlink lists.
 | [August 13 at 10:03 AM](https://archive.org/download/theriotimes-2022/theriotimes-2022-08-13T10:03:20.918378-03:00.hyperlinks.json) |
 
 
-## Accessibility
+### Accessibility
 
 The archiving routine has saved 36 accessibility trees with the Internet Archive.
 
@@ -434,7 +438,7 @@ Here are the 10 most recent accessibility trees.
 
 
 
-## Lighthouse
+### Lighthouse
 
 The archiving routine has saved 5 Lighthouse audits with the Internet Archive.
 
@@ -452,7 +456,7 @@ Here are the 10 most recent Lighthouse audits.
 
 
 
-## Internet Archive collections
+### Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

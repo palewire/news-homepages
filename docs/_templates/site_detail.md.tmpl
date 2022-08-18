@@ -20,7 +20,67 @@ orphan: true
 | Language       | [{{ site.language_name }}](https://palewi.re/docs/news-homepages/languages/{{ site.language|lower }}.html)
 | Bundles        | {% for b in site.bundle_list %}<a href="../bundles/{{ b.slug }}.html">{{ b.name }}</a>{% if not loop.last %}, {% endif %} {% endfor %} |
 
-## Screenshots
+{% if lighthouse_summary %}
+## Analysis
+
+As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
+
+This site was analyzed {{ lighthouse_summary.performance_count }} times over the last seven days. The median score for each category is reported below. Scores of 90 or greater are considered good. Score of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+
+<table class="colwidths-auto docutils align-default">
+ <thead>
+  <tr>
+    <th class="head">Metric</th>
+    <th class="head" style="text-align: right;">Score</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+    <td>
+        Performance
+    </td>
+    <td style="text-align: right; background-color: {{ lighthouse_summary.performance_color }}; color: white;">
+        {{ (lighthouse_summary.performance_median*100)|round|int }}
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+        Accessibility
+    </td>
+    <td style="text-align: right; background-color: {{ lighthouse_summary.accessibility_color }}; color: white;">
+        {{ (lighthouse_summary.accessibility_median*100)|round|int }}
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+        SEO
+    </td>
+    <td style="text-align: right; background-color: {{ lighthouse_summary.seo_color }}; color: white;">
+        {{ (lighthouse_summary.seo_median*100)|round|int }}
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+        Best practices
+    </td>
+    <td style="text-align: right; background-color: {{ lighthouse_summary.best_practices_color }}; color: white;">
+        {{ (lighthouse_summary.best_practices_median*100)|round|int }}
+    </td>
+  </tr>
+
+</tbody>
+</table>
+{% endif %}
+
+## Artifacts
+
+Assets gathered by our system and stored in the Internet Archive
+
+### Screenshots
 
 The archiving routine has saved {{ screenshots }} screenshots with the Internet Archive.
 
@@ -124,7 +184,7 @@ Here are the 12 most recent screenshots.
 {% endfor %}
 </div>
 
-## Hyperlinks
+### Hyperlinks
 
 The archiving routine has saved {{ hyperlinks }} hyperlink lists with the Internet Archive.
 
@@ -221,7 +281,7 @@ Here are the 10 most recent hyperlink lists.
 | [{{ obj.local_time.strftime('%B %-d') }} at {{ obj.local_time.strftime('%-I:%M %p') }}]({{ obj.url }}) |
 {% endfor %}
 
-## Accessibility
+### Accessibility
 
 The archiving routine has saved {{ accessibility }} accessibility trees with the Internet Archive.
 
@@ -319,7 +379,7 @@ Here are the 10 most recent accessibility trees.
 {% endfor %}
 
 
-## Lighthouse
+### Lighthouse
 
 The archiving routine has saved {{ lighthouse }} Lighthouse audits with the Internet Archive.
 
@@ -417,7 +477,7 @@ Here are the 10 most recent Lighthouse audits.
 {% endfor %}
 
 
-## Internet Archive collections
+### Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

@@ -20,7 +20,65 @@ orphan: true
 | Language       | [Chinese](https://palewi.re/docs/news-homepages/languages/zh.html)
 | Bundles        |  |
 
-## Screenshots
+
+## Analysis
+
+As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
+
+This site was analyzed 14 times over the last seven days. The median score for each category is reported below. Scores of 90 or greater are considered good. Score of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+
+<table class="colwidths-auto docutils align-default">
+ <thead>
+  <tr>
+    <th class="head">Metric</th>
+    <th class="head" style="text-align: right;">Score</th>
+  </tr>
+ </thead>
+ <tbody>
+
+  <tr>
+    <td>
+        Performance
+    </td>
+    <td style="text-align: right; background-color: red; color: white;">
+        33
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+        Accessibility
+    </td>
+    <td style="text-align: right; background-color: orange; color: white;">
+        82
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+        SEO
+    </td>
+    <td style="text-align: right; background-color: green; color: white;">
+        99
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+        Best practices
+    </td>
+    <td style="text-align: right; background-color: green; color: white;">
+        100
+    </td>
+  </tr>
+
+</tbody>
+</table>
+
+
+## Artifacts
+
+### Screenshots
 
 The archiving routine has saved 30 screenshots with the Internet Archive.
 
@@ -140,7 +198,7 @@ Here are the 12 most recent screenshots.
 
 </div>
 
-## Hyperlinks
+### Hyperlinks
 
 The archiving routine has saved 31 hyperlink lists with the Internet Archive.
 
@@ -245,7 +303,7 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 5:36 PM](https://archive.org/download/tw_nextmedia-2022/tw_nextmedia-2022-08-12T17:36:32.312345+08:00.hyperlinks.json) |
 
 
-## Accessibility
+### Accessibility
 
 The archiving routine has saved 31 accessibility trees with the Internet Archive.
 
@@ -351,7 +409,7 @@ Here are the 10 most recent accessibility trees.
 
 
 
-## Lighthouse
+### Lighthouse
 
 The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
 
@@ -374,7 +432,7 @@ Here are the 10 most recent Lighthouse audits.
 
 
 
-## Internet Archive collections
+### Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

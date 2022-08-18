@@ -20,7 +20,11 @@ orphan: true
 | Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        |  |
 
-## Screenshots
+
+
+## Artifacts
+
+### Screenshots
 
 The archiving routine has saved 7 screenshots with the Internet Archive.
 
@@ -95,7 +99,7 @@ Here are the 12 most recent screenshots.
 
 </div>
 
-## Hyperlinks
+### Hyperlinks
 
 The archiving routine has saved 6 hyperlink lists with the Internet Archive.
 
@@ -113,7 +117,7 @@ Here are the 10 most recent hyperlink lists.
 | [August 14 at 4:43 PM](https://archive.org/download/jerusalem_post-2022/jerusalem_post-2022-08-14T16:43:48.968038+03:00.hyperlinks.json) |
 
 
-## Accessibility
+### Accessibility
 
 The archiving routine has saved 7 accessibility trees with the Internet Archive.
 
@@ -133,7 +137,7 @@ Here are the 10 most recent accessibility trees.
 
 
 
-## Lighthouse
+### Lighthouse
 
 The archiving routine has saved 7 Lighthouse audits with the Internet Archive.
 
@@ -153,7 +157,7 @@ Here are the 10 most recent Lighthouse audits.
 
 
 
-## Internet Archive collections
+### Internet Archive collections
 
 Assets are stored in the following collections at archive.org:
 

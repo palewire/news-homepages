@@ -5,17 +5,17 @@ orphan: true
 ```{include} ../_templates/nav.html
 ```
 
-# Mendoncino Voice
+# Task & Purpose
 
-![Mendoncino Voice](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/themendovoice.jpg)
+![Task & Purpose](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/taskandpurpose.jpg)
 
 | Attribute      | Value                                                                                                                                            |
 | :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Site           | [https://mendovoice.com/](https://mendovoice.com/)                                                                                                                 |
-| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/themendovoice.xml)                                                              |
-| Twitter handle | [@TheMendoVoice](https://www.twitter.com/TheMendoVoice)                                                                                  |
-| Location       | Ukiah                                                                                                                              |
-| Timezone       | America/Los_Angeles                                                                                                                              |
+| Site           | [https://taskandpurpose.com/](https://taskandpurpose.com/)                                                                                                                 |
+| RSS            | [🔗](https://palewi.re/docs/news-homepages/rss/sites/taskandpurpose.xml)                                                              |
+| Twitter handle | [@TaskandPurpose](https://www.twitter.com/TaskandPurpose)                                                                                  |
+| Location       | Washington                                                                                                                              |
+| Timezone       | America/New_York                                                                                                                              |
 | Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
 | Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
 | Bundles        |  |
