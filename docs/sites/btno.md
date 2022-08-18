@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 57 screenshots with the Internet Archive.
+The archiving routine has saved 58 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 57 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/btno-2022/btno-2022-08-16T19:17:34.841729+02:00.jpg">
+  <img src="https://archive.org/download/btno-2022/btno-2022-08-16T19:17:34.841729+02:00.jpg"
+     alt="Bergens Tidende at 2022-08-16 19:17:36+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/btno-2022/btno-2022-08-16T19:17:34.841729+02:00.jpg">August 16 at 7:17 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/btno-2022/btno-2022-08-16T08:14:21.432206+02:00.jpg">
@@ -212,20 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/btno-2022/btno-2022-08-11T04:23:37.054431+02:00.jpg">August 11 at 4:23 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/btno-2022/btno-2022-08-10T19:44:46.267443+02:00.jpg">
-  <img src="https://archive.org/download/btno-2022/btno-2022-08-10T19:44:46.267443+02:00.jpg"
-     alt="Bergens Tidende at 2022-08-10 19:44:48+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/btno-2022/btno-2022-08-10T19:44:46.267443+02:00.jpg">August 10 at 7:44 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 58 hyperlink lists with the Internet Archive.
+The archiving routine has saved 59 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 16 at 7:17 PM](https://archive.org/download/btno-2022/btno-2022-08-16T19:17:34.841729+02:00.hyperlinks.json) |
 | [August 16 at 8:14 AM](https://archive.org/download/btno-2022/btno-2022-08-16T08:14:21.432206+02:00.hyperlinks.json) |
 | [August 15 at 9:32 PM](https://archive.org/download/btno-2022/btno-2022-08-15T21:31:55.040937+02:00.hyperlinks.json) |
 | [August 15 at 5:08 AM](https://archive.org/download/btno-2022/btno-2022-08-15T05:08:54.663371+02:00.hyperlinks.json) |
@@ -325,12 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 13 at 4:12 AM](https://archive.org/download/btno-2022/btno-2022-08-13T04:12:06.553700+02:00.hyperlinks.json) |
 | [August 12 at 6:18 PM](https://archive.org/download/btno-2022/btno-2022-08-12T18:18:47.007435+02:00.hyperlinks.json) |
 | [August 12 at 11:30 AM](https://archive.org/download/btno-2022/btno-2022-08-12T11:30:35.636654+02:00.hyperlinks.json) |
-| [August 12 at 4:02 AM](https://archive.org/download/btno-2022/btno-2022-08-12T04:02:20.471515+02:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 57 accessibility trees with the Internet Archive.
+The archiving routine has saved 58 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 16 at 7:17 PM](https://archive.org/download/btno-2022/btno-2022-08-16T19:17:34.841729+02:00.accessibility.json) |
 | [August 16 at 8:14 AM](https://archive.org/download/btno-2022/btno-2022-08-16T08:14:21.432206+02:00.accessibility.json) |
 | [August 15 at 9:32 PM](https://archive.org/download/btno-2022/btno-2022-08-15T21:31:55.040937+02:00.accessibility.json) |
 | [August 15 at 5:08 AM](https://archive.org/download/btno-2022/btno-2022-08-15T05:08:54.663371+02:00.accessibility.json) |
@@ -430,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 13 at 4:12 AM](https://archive.org/download/btno-2022/btno-2022-08-13T04:12:06.553700+02:00.accessibility.json) |
 | [August 12 at 6:18 PM](https://archive.org/download/btno-2022/btno-2022-08-12T18:18:47.007435+02:00.accessibility.json) |
 | [August 12 at 11:30 AM](https://archive.org/download/btno-2022/btno-2022-08-12T11:30:35.636654+02:00.accessibility.json) |
-| [August 12 at 4:02 AM](https://archive.org/download/btno-2022/btno-2022-08-12T04:02:20.471515+02:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 50 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 51 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 16 at 7:17 PM](https://archive.org/download/btno-2022/btno-2022-08-16T19:17:34.841729+02:00.lighthouse.json) |
 | [August 16 at 8:14 AM](https://archive.org/download/btno-2022/btno-2022-08-16T08:14:21.432206+02:00.lighthouse.json) |
 | [August 15 at 9:32 PM](https://archive.org/download/btno-2022/btno-2022-08-15T21:31:55.040937+02:00.lighthouse.json) |
 | [August 15 at 5:09 AM](https://archive.org/download/btno-2022/btno-2022-08-15T05:08:54.663371+02:00.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 13 at 4:12 AM](https://archive.org/download/btno-2022/btno-2022-08-13T04:12:06.553700+02:00.lighthouse.json) |
 | [August 12 at 6:18 PM](https://archive.org/download/btno-2022/btno-2022-08-12T18:18:47.007435+02:00.lighthouse.json) |
 | [August 12 at 11:30 AM](https://archive.org/download/btno-2022/btno-2022-08-12T11:30:35.636654+02:00.lighthouse.json) |
-| [August 12 at 4:02 AM](https://archive.org/download/btno-2022/btno-2022-08-12T04:02:20.471515+02:00.lighthouse.json) |
 
 
 

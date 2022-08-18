@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 87 screenshots with the Internet Archive.
+The archiving routine has saved 88 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 87 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/enews-2022/enews-2022-08-16T11:27:37.748526-07:00.jpg">
+  <img src="https://archive.org/download/enews-2022/enews-2022-08-16T11:27:37.748526-07:00.jpg"
+     alt="E! at 2022-08-16 11:27:49-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/enews-2022/enews-2022-08-16T11:27:37.748526-07:00.jpg">August 16 at 11:27 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/enews-2022/enews-2022-08-15T23:30:37.225901-07:00.jpg">
@@ -212,20 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/enews-2022/enews-2022-08-10T20:50:11.840177-07:00.jpg">August 10 at 8:50 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/enews-2022/enews-2022-08-10T11:04:26.306030-07:00.jpg">
-  <img src="https://archive.org/download/enews-2022/enews-2022-08-10T11:04:26.306030-07:00.jpg"
-     alt="E! at 2022-08-10 11:04:29-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/enews-2022/enews-2022-08-10T11:04:26.306030-07:00.jpg">August 10 at 11:04 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 87 hyperlink lists with the Internet Archive.
+The archiving routine has saved 88 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 16 at 11:27 AM](https://archive.org/download/enews-2022/enews-2022-08-16T11:27:37.748526-07:00.hyperlinks.json) |
 | [August 15 at 11:30 PM](https://archive.org/download/enews-2022/enews-2022-08-15T23:30:37.225901-07:00.hyperlinks.json) |
 | [August 15 at 12:51 PM](https://archive.org/download/enews-2022/enews-2022-08-15T12:50:55.479285-07:00.hyperlinks.json) |
 | [August 14 at 11:23 PM](https://archive.org/download/enews-2022/enews-2022-08-14T23:23:41.230272-07:00.hyperlinks.json) |
@@ -325,12 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 8:39 PM](https://archive.org/download/enews-2022/enews-2022-08-12T20:38:55.702358-07:00.hyperlinks.json) |
 | [August 12 at 10:47 AM](https://archive.org/download/enews-2022/enews-2022-08-12T10:47:40.488569-07:00.hyperlinks.json) |
 | [August 12 at 2:56 AM](https://archive.org/download/enews-2022/enews-2022-08-12T02:56:32.752961-07:00.hyperlinks.json) |
-| [August 11 at 11:37 AM](https://archive.org/download/enews-2022/enews-2022-08-11T11:37:31.130960-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 87 accessibility trees with the Internet Archive.
+The archiving routine has saved 88 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 16 at 11:27 AM](https://archive.org/download/enews-2022/enews-2022-08-16T11:27:37.748526-07:00.accessibility.json) |
 | [August 15 at 11:30 PM](https://archive.org/download/enews-2022/enews-2022-08-15T23:30:37.225901-07:00.accessibility.json) |
 | [August 15 at 12:51 PM](https://archive.org/download/enews-2022/enews-2022-08-15T12:50:55.479285-07:00.accessibility.json) |
 | [August 14 at 11:23 PM](https://archive.org/download/enews-2022/enews-2022-08-14T23:23:41.230272-07:00.accessibility.json) |
@@ -430,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 8:38 PM](https://archive.org/download/enews-2022/enews-2022-08-12T20:38:55.702358-07:00.accessibility.json) |
 | [August 12 at 10:47 AM](https://archive.org/download/enews-2022/enews-2022-08-12T10:47:40.488569-07:00.accessibility.json) |
 | [August 12 at 2:56 AM](https://archive.org/download/enews-2022/enews-2022-08-12T02:56:32.752961-07:00.accessibility.json) |
-| [August 11 at 11:37 AM](https://archive.org/download/enews-2022/enews-2022-08-11T11:37:31.130960-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 47 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 48 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 16 at 11:27 AM](https://archive.org/download/enews-2022/enews-2022-08-16T11:27:37.748526-07:00.lighthouse.json) |
 | [August 15 at 11:30 PM](https://archive.org/download/enews-2022/enews-2022-08-15T23:30:37.225901-07:00.lighthouse.json) |
 | [August 15 at 12:51 PM](https://archive.org/download/enews-2022/enews-2022-08-15T12:50:55.479285-07:00.lighthouse.json) |
 | [August 14 at 11:23 PM](https://archive.org/download/enews-2022/enews-2022-08-14T23:23:41.230272-07:00.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 12 at 8:39 PM](https://archive.org/download/enews-2022/enews-2022-08-12T20:38:55.702358-07:00.lighthouse.json) |
 | [August 12 at 10:47 AM](https://archive.org/download/enews-2022/enews-2022-08-12T10:47:40.488569-07:00.lighthouse.json) |
 | [August 12 at 2:56 AM](https://archive.org/download/enews-2022/enews-2022-08-12T02:56:32.752961-07:00.lighthouse.json) |
-| [August 11 at 11:37 AM](https://archive.org/download/enews-2022/enews-2022-08-11T11:37:31.130960-07:00.lighthouse.json) |
 
 
 

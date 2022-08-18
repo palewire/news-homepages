@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 229 screenshots with the Internet Archive.
+The archiving routine has saved 230 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 229 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wral-2022/wral-2022-08-16T14:50:37.172554-04:00.jpg">
+  <img src="https://archive.org/download/wral-2022/wral-2022-08-16T14:50:37.172554-04:00.jpg"
+     alt="WRAL at 2022-08-16 14:50:38-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wral-2022/wral-2022-08-16T14:50:37.172554-04:00.jpg">August 16 at 2:50 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/wral-2022/wral-2022-08-16T02:58:55.958118-04:00.jpg">
@@ -212,20 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wral-2022/wral-2022-08-11T01:32:00.384756-04:00.jpg">August 11 at 1:32 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wral-2022/wral-2022-08-10T01:39:06.007985-04:00.jpg">
-  <img src="https://archive.org/download/wral-2022/wral-2022-08-10T01:39:06.007985-04:00.jpg"
-     alt="WRAL at 2022-08-10 01:39:12-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wral-2022/wral-2022-08-10T01:39:06.007985-04:00.jpg">August 10 at 1:39 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 223 hyperlink lists with the Internet Archive.
+The archiving routine has saved 224 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 16 at 2:50 PM](https://archive.org/download/wral-2022/wral-2022-08-16T14:50:37.172554-04:00.hyperlinks.json) |
 | [August 16 at 2:59 AM](https://archive.org/download/wral-2022/wral-2022-08-16T02:58:55.958118-04:00.hyperlinks.json) |
 | [August 15 at 4:22 PM](https://archive.org/download/wral-2022/wral-2022-08-15T16:22:15.499559-04:00.hyperlinks.json) |
 | [August 15 at 2:52 AM](https://archive.org/download/wral-2022/wral-2022-08-15T02:52:06.679306-04:00.hyperlinks.json) |
@@ -325,7 +326,6 @@ Here are the 10 most recent hyperlink lists.
 | [August 13 at 1:17 AM](https://archive.org/download/wral-2022/wral-2022-08-13T01:17:35.502724-04:00.hyperlinks.json) |
 | [August 12 at 2:31 PM](https://archive.org/download/wral-2022/wral-2022-08-12T14:31:20.117930-04:00.hyperlinks.json) |
 | [August 12 at 5:52 AM](https://archive.org/download/wral-2022/wral-2022-08-12T05:52:24.196465-04:00.hyperlinks.json) |
-| [August 11 at 3:02 PM](https://archive.org/download/wral-2022/wral-2022-08-11T15:02:06.372693-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -436,7 +436,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 47 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 48 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 16 at 2:50 PM](https://archive.org/download/wral-2022/wral-2022-08-16T14:50:37.172554-04:00.lighthouse.json) |
 | [August 16 at 2:59 AM](https://archive.org/download/wral-2022/wral-2022-08-16T02:58:55.958118-04:00.lighthouse.json) |
 | [August 15 at 4:22 PM](https://archive.org/download/wral-2022/wral-2022-08-15T16:22:15.499559-04:00.lighthouse.json) |
 | [August 15 at 2:52 AM](https://archive.org/download/wral-2022/wral-2022-08-15T02:52:06.679306-04:00.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 13 at 1:17 AM](https://archive.org/download/wral-2022/wral-2022-08-13T01:17:35.502724-04:00.lighthouse.json) |
 | [August 12 at 2:31 PM](https://archive.org/download/wral-2022/wral-2022-08-12T14:31:20.117930-04:00.lighthouse.json) |
 | [August 12 at 5:52 AM](https://archive.org/download/wral-2022/wral-2022-08-12T05:52:24.196465-04:00.lighthouse.json) |
-| [August 11 at 3:02 PM](https://archive.org/download/wral-2022/wral-2022-08-11T15:02:06.372693-04:00.lighthouse.json) |
 
 
 

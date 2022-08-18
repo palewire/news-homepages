@@ -22,13 +22,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 5 screenshots with the Internet Archive.
+The archiving routine has saved 6 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-16T21:49:46.585080+03:00.jpg">
+  <img src="https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-16T21:49:46.585080+03:00.jpg"
+     alt="Ynet at 2022-08-16 21:49:48+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-16T21:49:46.585080+03:00.jpg">August 16 at 9:49 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-16T09:59:20.010512+03:00.jpg">
@@ -79,7 +88,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 5 hyperlink lists with the Internet Archive.
+The archiving routine has saved 6 hyperlink lists with the Internet Archive.
 
 
 
@@ -87,6 +96,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 16 at 9:49 PM](https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-16T21:49:46.585080+03:00.hyperlinks.json) |
 | [August 16 at 9:59 AM](https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-16T09:59:20.010512+03:00.hyperlinks.json) |
 | [August 15 at 11:24 PM](https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-15T23:24:05.873500+03:00.hyperlinks.json) |
 | [August 15 at 9:52 AM](https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-15T09:52:44.279308+03:00.hyperlinks.json) |
@@ -114,7 +124,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 5 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 6 Lighthouse audits with the Internet Archive.
 
 
 
@@ -122,6 +132,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 16 at 9:49 PM](https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-16T21:49:46.585080+03:00.lighthouse.json) |
 | [August 16 at 9:59 AM](https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-16T09:59:20.010512+03:00.lighthouse.json) |
 | [August 15 at 11:24 PM](https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-15T23:24:05.873500+03:00.lighthouse.json) |
 | [August 15 at 9:52 AM](https://archive.org/download/ynetalerts-2022/ynetalerts-2022-08-15T09:52:44.279308+03:00.lighthouse.json) |

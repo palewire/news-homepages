@@ -22,13 +22,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 5 screenshots with the Internet Archive.
+The archiving routine has saved 6 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/standardex-2022/standardex-2022-08-16T12:45:09.815414-06:00.jpg">
+  <img src="https://archive.org/download/standardex-2022/standardex-2022-08-16T12:45:09.815414-06:00.jpg"
+     alt="Ogden Standard-Examiner at 2022-08-16 12:45:11-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/standardex-2022/standardex-2022-08-16T12:45:09.815414-06:00.jpg">August 16 at 12:45 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/standardex-2022/standardex-2022-08-16T00:51:36.557468-06:00.jpg">
@@ -79,7 +88,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 5 hyperlink lists with the Internet Archive.
+The archiving routine has saved 6 hyperlink lists with the Internet Archive.
 
 
 
@@ -87,6 +96,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 16 at 12:45 PM](https://archive.org/download/standardex-2022/standardex-2022-08-16T12:45:09.815414-06:00.hyperlinks.json) |
 | [August 16 at 12:51 AM](https://archive.org/download/standardex-2022/standardex-2022-08-16T00:51:36.557468-06:00.hyperlinks.json) |
 | [August 15 at 2:14 PM](https://archive.org/download/standardex-2022/standardex-2022-08-15T14:14:51.181497-06:00.hyperlinks.json) |
 | [August 15 at 12:45 AM](https://archive.org/download/standardex-2022/standardex-2022-08-15T00:45:08.631853-06:00.hyperlinks.json) |
@@ -96,7 +106,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 5 accessibility trees with the Internet Archive.
+The archiving routine has saved 6 accessibility trees with the Internet Archive.
 
 
 
@@ -104,6 +114,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 16 at 12:45 PM](https://archive.org/download/standardex-2022/standardex-2022-08-16T12:45:09.815414-06:00.accessibility.json) |
 | [August 16 at 12:51 AM](https://archive.org/download/standardex-2022/standardex-2022-08-16T00:51:36.557468-06:00.accessibility.json) |
 | [August 15 at 2:14 PM](https://archive.org/download/standardex-2022/standardex-2022-08-15T14:14:51.181497-06:00.accessibility.json) |
 | [August 15 at 12:45 AM](https://archive.org/download/standardex-2022/standardex-2022-08-15T00:45:08.631853-06:00.accessibility.json) |
@@ -114,7 +125,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 5 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 6 Lighthouse audits with the Internet Archive.
 
 
 
@@ -122,6 +133,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 16 at 12:45 PM](https://archive.org/download/standardex-2022/standardex-2022-08-16T12:45:09.815414-06:00.lighthouse.json) |
 | [August 16 at 12:51 AM](https://archive.org/download/standardex-2022/standardex-2022-08-16T00:51:36.557468-06:00.lighthouse.json) |
 | [August 15 at 2:14 PM](https://archive.org/download/standardex-2022/standardex-2022-08-15T14:14:51.181497-06:00.lighthouse.json) |
 | [August 15 at 12:45 AM](https://archive.org/download/standardex-2022/standardex-2022-08-15T00:45:08.631853-06:00.lighthouse.json) |

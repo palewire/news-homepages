@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 79 screenshots with the Internet Archive.
+The archiving routine has saved 80 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 79 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-16T18:05:11.839688-05:00.jpg">
+  <img src="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-16T18:05:11.839688-05:00.jpg"
+     alt="Fort Worth Report at 2022-08-16 18:05:15-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-16T18:05:11.839688-05:00.jpg">August 16 at 6:05 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-16T08:37:30.316345-05:00.jpg">
@@ -212,20 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-11T06:41:58.556587-05:00.jpg">August 11 at 6:42 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-10T19:44:32.824074-05:00.jpg">
-  <img src="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-10T19:44:32.824074-05:00.jpg"
-     alt="Fort Worth Report at 2022-08-10 19:44:42-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-10T19:44:32.824074-05:00.jpg">August 10 at 7:44 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 79 hyperlink lists with the Internet Archive.
+The archiving routine has saved 80 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 16 at 6:05 PM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-16T18:05:11.839688-05:00.hyperlinks.json) |
 | [August 16 at 8:37 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-16T08:37:30.316345-05:00.hyperlinks.json) |
 | [August 15 at 8:25 PM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-15T20:25:14.814301-05:00.hyperlinks.json) |
 | [August 15 at 8:59 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-15T08:58:53.944025-05:00.hyperlinks.json) |
@@ -325,12 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 13 at 8:00 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-13T08:00:16.244506-05:00.hyperlinks.json) |
 | [August 12 at 7:34 PM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-12T19:33:57.004845-05:00.hyperlinks.json) |
 | [August 12 at 6:44 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-12T06:44:08.993300-05:00.hyperlinks.json) |
-| [August 11 at 6:28 PM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-11T18:28:32.379135-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 79 accessibility trees with the Internet Archive.
+The archiving routine has saved 80 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 16 at 6:05 PM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-16T18:05:11.839688-05:00.accessibility.json) |
 | [August 16 at 8:37 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-16T08:37:30.316345-05:00.accessibility.json) |
 | [August 15 at 8:25 PM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-15T20:25:14.814301-05:00.accessibility.json) |
 | [August 15 at 8:58 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-15T08:58:53.944025-05:00.accessibility.json) |
@@ -430,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 13 at 8:00 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-13T08:00:16.244506-05:00.accessibility.json) |
 | [August 12 at 7:34 PM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-12T19:33:57.004845-05:00.accessibility.json) |
 | [August 12 at 6:44 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-12T06:44:08.993300-05:00.accessibility.json) |
-| [August 11 at 6:28 PM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-11T18:28:32.379135-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 48 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 49 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 16 at 6:05 PM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-16T18:05:11.839688-05:00.lighthouse.json) |
 | [August 16 at 8:37 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-16T08:37:30.316345-05:00.lighthouse.json) |
 | [August 15 at 8:25 PM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-15T20:25:14.814301-05:00.lighthouse.json) |
 | [August 15 at 8:59 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-15T08:58:53.944025-05:00.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 13 at 8:00 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-13T08:00:16.244506-05:00.lighthouse.json) |
 | [August 12 at 7:34 PM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-12T19:33:57.004845-05:00.lighthouse.json) |
 | [August 12 at 6:44 AM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-12T06:44:08.993300-05:00.lighthouse.json) |
-| [August 11 at 6:28 PM](https://archive.org/download/fortworthreport-2022/fortworthreport-2022-08-11T18:28:32.379135-05:00.lighthouse.json) |
 
 
 

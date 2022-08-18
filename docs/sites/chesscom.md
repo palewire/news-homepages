@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 57 screenshots with the Internet Archive.
+The archiving routine has saved 58 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 57 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/chesscom-2022/chesscom-2022-08-16T10:18:24.740658-07:00.jpg">
+  <img src="https://archive.org/download/chesscom-2022/chesscom-2022-08-16T10:18:24.740658-07:00.jpg"
+     alt="Chess.com at 2022-08-16 10:18:28-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chesscom-2022/chesscom-2022-08-16T10:18:24.740658-07:00.jpg">August 16 at 10:18 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chesscom-2022/chesscom-2022-08-15T23:14:07.803558-07:00.jpg">
@@ -212,20 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/chesscom-2022/chesscom-2022-08-10T19:23:43.693325-07:00.jpg">August 10 at 7:23 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/chesscom-2022/chesscom-2022-08-10T10:45:24.131354-07:00.jpg">
-  <img src="https://archive.org/download/chesscom-2022/chesscom-2022-08-10T10:45:24.131354-07:00.jpg"
-     alt="Chess.com at 2022-08-10 10:45:27-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/chesscom-2022/chesscom-2022-08-10T10:45:24.131354-07:00.jpg">August 10 at 10:45 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 58 hyperlink lists with the Internet Archive.
+The archiving routine has saved 59 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 16 at 10:18 AM](https://archive.org/download/chesscom-2022/chesscom-2022-08-16T10:18:24.740658-07:00.hyperlinks.json) |
 | [August 15 at 11:14 PM](https://archive.org/download/chesscom-2022/chesscom-2022-08-15T23:14:07.803558-07:00.hyperlinks.json) |
 | [August 15 at 12:32 PM](https://archive.org/download/chesscom-2022/chesscom-2022-08-15T12:32:30.539192-07:00.hyperlinks.json) |
 | [August 14 at 8:09 PM](https://archive.org/download/chesscom-2022/chesscom-2022-08-14T20:09:34.197606-07:00.hyperlinks.json) |
@@ -325,12 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 7:13 PM](https://archive.org/download/chesscom-2022/chesscom-2022-08-12T19:13:22.469535-07:00.hyperlinks.json) |
 | [August 12 at 9:20 AM](https://archive.org/download/chesscom-2022/chesscom-2022-08-12T09:20:33.524195-07:00.hyperlinks.json) |
 | [August 12 at 2:31 AM](https://archive.org/download/chesscom-2022/chesscom-2022-08-12T02:31:26.668202-07:00.hyperlinks.json) |
-| [August 11 at 7:03 PM](https://archive.org/download/chesscom-2022/chesscom-2022-08-11T19:03:02.287567-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 58 accessibility trees with the Internet Archive.
+The archiving routine has saved 59 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 16 at 10:18 AM](https://archive.org/download/chesscom-2022/chesscom-2022-08-16T10:18:24.740658-07:00.accessibility.json) |
 | [August 15 at 11:14 PM](https://archive.org/download/chesscom-2022/chesscom-2022-08-15T23:14:07.803558-07:00.accessibility.json) |
 | [August 15 at 12:32 PM](https://archive.org/download/chesscom-2022/chesscom-2022-08-15T12:32:30.539192-07:00.accessibility.json) |
 | [August 14 at 8:09 PM](https://archive.org/download/chesscom-2022/chesscom-2022-08-14T20:09:34.197606-07:00.accessibility.json) |
@@ -430,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 7:13 PM](https://archive.org/download/chesscom-2022/chesscom-2022-08-12T19:13:22.469535-07:00.accessibility.json) |
 | [August 12 at 9:20 AM](https://archive.org/download/chesscom-2022/chesscom-2022-08-12T09:20:33.524195-07:00.accessibility.json) |
 | [August 12 at 2:31 AM](https://archive.org/download/chesscom-2022/chesscom-2022-08-12T02:31:26.668202-07:00.accessibility.json) |
-| [August 11 at 7:03 PM](https://archive.org/download/chesscom-2022/chesscom-2022-08-11T19:03:02.287567-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 50 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 51 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 16 at 10:18 AM](https://archive.org/download/chesscom-2022/chesscom-2022-08-16T10:18:24.740658-07:00.lighthouse.json) |
 | [August 15 at 11:14 PM](https://archive.org/download/chesscom-2022/chesscom-2022-08-15T23:14:07.803558-07:00.lighthouse.json) |
 | [August 15 at 12:32 PM](https://archive.org/download/chesscom-2022/chesscom-2022-08-15T12:32:30.539192-07:00.lighthouse.json) |
 | [August 14 at 8:09 PM](https://archive.org/download/chesscom-2022/chesscom-2022-08-14T20:09:34.197606-07:00.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 12 at 7:13 PM](https://archive.org/download/chesscom-2022/chesscom-2022-08-12T19:13:22.469535-07:00.lighthouse.json) |
 | [August 12 at 9:20 AM](https://archive.org/download/chesscom-2022/chesscom-2022-08-12T09:20:33.524195-07:00.lighthouse.json) |
 | [August 12 at 2:31 AM](https://archive.org/download/chesscom-2022/chesscom-2022-08-12T02:31:26.668202-07:00.lighthouse.json) |
-| [August 11 at 7:03 PM](https://archive.org/download/chesscom-2022/chesscom-2022-08-11T19:03:02.287567-07:00.lighthouse.json) |
 
 
 

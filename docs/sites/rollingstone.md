@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 121 screenshots with the Internet Archive.
+The archiving routine has saved 123 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -114,6 +114,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-16T20:12:16.564167-04:00.jpg">
+  <img src="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-16T20:12:16.564167-04:00.jpg"
+     alt="Rolling Stone at 2022-08-16 20:12:21-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-16T20:12:16.564167-04:00.jpg">August 16 at 8:12 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-16T10:08:47.018781-04:00.jpg">
+  <img src="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-16T10:08:47.018781-04:00.jpg"
+     alt="Rolling Stone at 2022-08-16 10:08:49-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-16T10:08:47.018781-04:00.jpg">August 16 at 10:08 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-15T21:45:44.078703-04:00.jpg">
   <img src="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-15T21:45:44.078703-04:00.jpg"
      alt="Rolling Stone at 2022-08-15 21:45:45-04:00 local time"
@@ -203,29 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-11T09:48:47.856427-04:00.jpg">August 11 at 9:48 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-10T20:58:56.258009-04:00.jpg">
-  <img src="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-10T20:58:56.258009-04:00.jpg"
-     alt="Rolling Stone at 2022-08-10 20:58:59-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-10T20:58:56.258009-04:00.jpg">August 10 at 8:58 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-10T09:17:28.685278-04:00.jpg">
-  <img src="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-10T09:17:28.685278-04:00.jpg"
-     alt="Rolling Stone at 2022-08-10 09:17:38-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rollingstone-2022/rollingstone-2022-08-10T09:17:28.685278-04:00.jpg">August 10 at 9:17 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 103 hyperlink lists with the Internet Archive.
+The archiving routine has saved 105 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 16 at 8:12 PM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-16T20:12:16.564167-04:00.hyperlinks.json) |
+| [August 16 at 10:08 AM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-16T10:08:47.018781-04:00.hyperlinks.json) |
 | [August 15 at 9:45 PM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-15T21:45:44.078703-04:00.hyperlinks.json) |
 | [August 15 at 10:27 AM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-15T10:26:55.456615-04:00.hyperlinks.json) |
 | [August 14 at 9:29 PM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-14T21:29:40.284633-04:00.hyperlinks.json) |
@@ -324,13 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 10 at 8:59 PM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-10T20:58:56.258009-04:00.hyperlinks.json) |
 | [August 10 at 9:17 AM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-10T09:17:28.685278-04:00.hyperlinks.json) |
 | [August 9 at 9:04 AM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-09T09:03:55.316548-04:00.hyperlinks.json) |
-| [August 8 at 8:59 PM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-08T20:59:52.274850-04:00.hyperlinks.json) |
-| [August 8 at 8:50 AM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-08T08:50:12.205925-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 112 accessibility trees with the Internet Archive.
+The archiving routine has saved 113 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 16 at 8:12 PM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-16T20:12:16.564167-04:00.accessibility.json) |
 | [August 15 at 9:45 PM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-15T21:45:44.078703-04:00.accessibility.json) |
 | [August 15 at 10:27 AM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-15T10:26:55.456615-04:00.accessibility.json) |
 | [August 14 at 9:29 PM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-14T21:29:40.284633-04:00.accessibility.json) |
@@ -430,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 8:51 PM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-12T20:51:00.169090-04:00.accessibility.json) |
 | [August 12 at 9:30 AM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-12T09:30:44.817129-04:00.accessibility.json) |
 | [August 12 at 5:25 AM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-12T05:25:31.601431-04:00.accessibility.json) |
-| [August 11 at 9:48 AM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-11T09:48:47.856427-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 47 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 49 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 16 at 8:12 PM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-16T20:12:16.564167-04:00.lighthouse.json) |
+| [August 16 at 10:08 AM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-16T10:08:47.018781-04:00.lighthouse.json) |
 | [August 15 at 9:45 PM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-15T21:45:44.078703-04:00.lighthouse.json) |
 | [August 15 at 10:27 AM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-15T10:26:55.456615-04:00.lighthouse.json) |
 | [August 14 at 9:29 PM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-14T21:29:40.284633-04:00.lighthouse.json) |
@@ -535,8 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 13 at 9:18 AM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-13T09:18:36.346476-04:00.lighthouse.json) |
 | [August 12 at 8:51 PM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-12T20:51:00.169090-04:00.lighthouse.json) |
 | [August 12 at 9:30 AM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-12T09:30:44.817129-04:00.lighthouse.json) |
-| [August 12 at 5:25 AM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-12T05:25:31.601431-04:00.lighthouse.json) |
-| [August 11 at 9:48 AM](https://archive.org/download/rollingstone-2022/rollingstone-2022-08-11T09:48:47.856427-04:00.lighthouse.json) |
 
 
 

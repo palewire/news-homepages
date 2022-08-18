@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 76 screenshots with the Internet Archive.
+The archiving routine has saved 77 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 76 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theobserver-2022/theobserver-2022-08-16T14:47:03.237541-04:00.jpg">
+  <img src="https://archive.org/download/theobserver-2022/theobserver-2022-08-16T14:47:03.237541-04:00.jpg"
+     alt="Charlotte Observer at 2022-08-16 14:47:05-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theobserver-2022/theobserver-2022-08-16T14:47:03.237541-04:00.jpg">August 16 at 2:47 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/theobserver-2022/theobserver-2022-08-16T02:54:40.317545-04:00.jpg">
@@ -212,20 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/theobserver-2022/theobserver-2022-08-11T01:28:35.345711-04:00.jpg">August 11 at 1:28 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/theobserver-2022/theobserver-2022-08-10T14:27:55.508863-04:00.jpg">
-  <img src="https://archive.org/download/theobserver-2022/theobserver-2022-08-10T14:27:55.508863-04:00.jpg"
-     alt="Charlotte Observer at 2022-08-10 14:27:57-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theobserver-2022/theobserver-2022-08-10T14:27:55.508863-04:00.jpg">August 10 at 2:27 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 53 hyperlink lists with the Internet Archive.
+The archiving routine has saved 54 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 16 at 2:47 PM](https://archive.org/download/theobserver-2022/theobserver-2022-08-16T14:47:03.237541-04:00.hyperlinks.json) |
 | [August 16 at 2:54 AM](https://archive.org/download/theobserver-2022/theobserver-2022-08-16T02:54:40.317545-04:00.hyperlinks.json) |
 | [August 15 at 4:18 PM](https://archive.org/download/theobserver-2022/theobserver-2022-08-15T16:18:22.580433-04:00.hyperlinks.json) |
 | [August 15 at 2:48 AM](https://archive.org/download/theobserver-2022/theobserver-2022-08-15T02:48:33.983263-04:00.hyperlinks.json) |
@@ -325,7 +326,6 @@ Here are the 10 most recent hyperlink lists.
 | [August 9 at 1:12 AM](https://archive.org/download/theobserver-2022/theobserver-2022-08-09T01:12:12.226444-04:00.hyperlinks.json) |
 | [August 8 at 1:22 PM](https://archive.org/download/theobserver-2022/theobserver-2022-08-08T13:22:36.623746-04:00.hyperlinks.json) |
 | [August 4 at 12:40 AM](https://archive.org/download/theobserver-2022/theobserver-2022-08-04T00:40:01.289395-04:00.hyperlinks.json) |
-| [August 3 at 1:14 PM](https://archive.org/download/theobserver-2022/theobserver-2022-08-03T13:14:42.766981-04:00.hyperlinks.json) |
 
 
 ## Accessibility
@@ -436,7 +436,7 @@ Here are the 10 most recent accessibility trees.
 
 ## Lighthouse
 
-The archiving routine has saved 47 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 48 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 16 at 2:47 PM](https://archive.org/download/theobserver-2022/theobserver-2022-08-16T14:47:03.237541-04:00.lighthouse.json) |
 | [August 16 at 2:54 AM](https://archive.org/download/theobserver-2022/theobserver-2022-08-16T02:54:40.317545-04:00.lighthouse.json) |
 | [August 15 at 4:18 PM](https://archive.org/download/theobserver-2022/theobserver-2022-08-15T16:18:22.580433-04:00.lighthouse.json) |
 | [August 15 at 2:48 AM](https://archive.org/download/theobserver-2022/theobserver-2022-08-15T02:48:33.983263-04:00.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 13 at 1:15 AM](https://archive.org/download/theobserver-2022/theobserver-2022-08-13T01:15:25.783189-04:00.lighthouse.json) |
 | [August 12 at 2:28 PM](https://archive.org/download/theobserver-2022/theobserver-2022-08-12T14:27:58.997118-04:00.lighthouse.json) |
 | [August 12 at 5:49 AM](https://archive.org/download/theobserver-2022/theobserver-2022-08-12T05:49:24.791474-04:00.lighthouse.json) |
-| [August 11 at 2:58 PM](https://archive.org/download/theobserver-2022/theobserver-2022-08-11T14:58:35.714050-04:00.lighthouse.json) |
 
 
 

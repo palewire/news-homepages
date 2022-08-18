@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 264 screenshots with the Internet Archive.
+The archiving routine has saved 266 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -114,6 +114,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-08-16T17:09:36.546680-07:00.jpg">
+  <img src="https://archive.org/download/oaklandside-2022/oaklandside-2022-08-16T17:09:36.546680-07:00.jpg"
+     alt="The Oaklandside at 2022-08-16 17:09:41-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-08-16T17:09:36.546680-07:00.jpg">August 16 at 5:09 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-08-16T07:04:45.112656-07:00.jpg">
+  <img src="https://archive.org/download/oaklandside-2022/oaklandside-2022-08-16T07:04:45.112656-07:00.jpg"
+     alt="The Oaklandside at 2022-08-16 07:04:48-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-08-16T07:04:45.112656-07:00.jpg">August 16 at 7:04 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-08-15T18:41:05.541486-07:00.jpg">
   <img src="https://archive.org/download/oaklandside-2022/oaklandside-2022-08-15T18:41:05.541486-07:00.jpg"
      alt="The Oaklandside at 2022-08-15 18:41:07-07:00 local time"
@@ -203,29 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-08-11T06:45:18.232833-07:00.jpg">August 11 at 6:45 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-08-10T17:56:00.845653-07:00.jpg">
-  <img src="https://archive.org/download/oaklandside-2022/oaklandside-2022-08-10T17:56:00.845653-07:00.jpg"
-     alt="The Oaklandside at 2022-08-10 17:56:05-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-08-10T17:56:00.845653-07:00.jpg">August 10 at 5:56 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-08-10T06:13:49.163437-07:00.jpg">
-  <img src="https://archive.org/download/oaklandside-2022/oaklandside-2022-08-10T06:13:49.163437-07:00.jpg"
-     alt="The Oaklandside at 2022-08-10 06:13:54-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/oaklandside-2022/oaklandside-2022-08-10T06:13:49.163437-07:00.jpg">August 10 at 6:13 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 254 hyperlink lists with the Internet Archive.
+The archiving routine has saved 256 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 16 at 5:09 PM](https://archive.org/download/oaklandside-2022/oaklandside-2022-08-16T17:09:36.546680-07:00.hyperlinks.json) |
+| [August 16 at 7:04 AM](https://archive.org/download/oaklandside-2022/oaklandside-2022-08-16T07:04:45.112656-07:00.hyperlinks.json) |
 | [August 15 at 6:41 PM](https://archive.org/download/oaklandside-2022/oaklandside-2022-08-15T18:41:05.541486-07:00.hyperlinks.json) |
 | [August 15 at 7:23 AM](https://archive.org/download/oaklandside-2022/oaklandside-2022-08-15T07:23:45.423278-07:00.hyperlinks.json) |
 | [August 14 at 6:25 PM](https://archive.org/download/oaklandside-2022/oaklandside-2022-08-14T18:25:26.136701-07:00.hyperlinks.json) |
@@ -324,13 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 13 at 6:15 AM](https://archive.org/download/oaklandside-2022/oaklandside-2022-08-13T06:15:50.828466-07:00.hyperlinks.json) |
 | [August 12 at 5:47 PM](https://archive.org/download/oaklandside-2022/oaklandside-2022-08-12T17:46:49.735840-07:00.hyperlinks.json) |
 | [August 12 at 6:27 AM](https://archive.org/download/oaklandside-2022/oaklandside-2022-08-12T06:27:10.545513-07:00.hyperlinks.json) |
-| [August 12 at 2:22 AM](https://archive.org/download/oaklandside-2022/oaklandside-2022-08-12T02:22:50.346875-07:00.hyperlinks.json) |
-| [August 11 at 6:45 AM](https://archive.org/download/oaklandside-2022/oaklandside-2022-08-11T06:45:18.232833-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 255 accessibility trees with the Internet Archive.
+The archiving routine has saved 257 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 16 at 5:09 PM](https://archive.org/download/oaklandside-2022/oaklandside-2022-08-16T17:09:36.546680-07:00.accessibility.json) |
+| [August 16 at 7:04 AM](https://archive.org/download/oaklandside-2022/oaklandside-2022-08-16T07:04:45.112656-07:00.accessibility.json) |
 | [August 15 at 6:41 PM](https://archive.org/download/oaklandside-2022/oaklandside-2022-08-15T18:41:05.541486-07:00.accessibility.json) |
 | [August 15 at 7:23 AM](https://archive.org/download/oaklandside-2022/oaklandside-2022-08-15T07:23:45.423278-07:00.accessibility.json) |
 | [August 14 at 6:25 PM](https://archive.org/download/oaklandside-2022/oaklandside-2022-08-14T18:25:26.136701-07:00.accessibility.json) |
@@ -429,14 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 13 at 6:15 AM](https://archive.org/download/oaklandside-2022/oaklandside-2022-08-13T06:15:50.828466-07:00.accessibility.json) |
 | [August 12 at 5:46 PM](https://archive.org/download/oaklandside-2022/oaklandside-2022-08-12T17:46:49.735840-07:00.accessibility.json) |
 | [August 12 at 6:27 AM](https://archive.org/download/oaklandside-2022/oaklandside-2022-08-12T06:27:10.545513-07:00.accessibility.json) |
-| [August 12 at 2:22 AM](https://archive.org/download/oaklandside-2022/oaklandside-2022-08-12T02:22:50.346875-07:00.accessibility.json) |
-| [August 11 at 6:45 AM](https://archive.org/download/oaklandside-2022/oaklandside-2022-08-11T06:45:18.232833-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 47 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 49 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 16 at 5:09 PM](https://archive.org/download/oaklandside-2022/oaklandside-2022-08-16T17:09:36.546680-07:00.lighthouse.json) |
+| [August 16 at 7:04 AM](https://archive.org/download/oaklandside-2022/oaklandside-2022-08-16T07:04:45.112656-07:00.lighthouse.json) |
 | [August 15 at 6:41 PM](https://archive.org/download/oaklandside-2022/oaklandside-2022-08-15T18:41:05.541486-07:00.lighthouse.json) |
 | [August 15 at 7:23 AM](https://archive.org/download/oaklandside-2022/oaklandside-2022-08-15T07:23:45.423278-07:00.lighthouse.json) |
 | [August 14 at 6:25 PM](https://archive.org/download/oaklandside-2022/oaklandside-2022-08-14T18:25:26.136701-07:00.lighthouse.json) |
@@ -535,8 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 13 at 6:15 AM](https://archive.org/download/oaklandside-2022/oaklandside-2022-08-13T06:15:50.828466-07:00.lighthouse.json) |
 | [August 12 at 5:47 PM](https://archive.org/download/oaklandside-2022/oaklandside-2022-08-12T17:46:49.735840-07:00.lighthouse.json) |
 | [August 12 at 6:27 AM](https://archive.org/download/oaklandside-2022/oaklandside-2022-08-12T06:27:10.545513-07:00.lighthouse.json) |
-| [August 12 at 2:22 AM](https://archive.org/download/oaklandside-2022/oaklandside-2022-08-12T02:22:50.346875-07:00.lighthouse.json) |
-| [August 11 at 6:45 AM](https://archive.org/download/oaklandside-2022/oaklandside-2022-08-11T06:45:18.232833-07:00.lighthouse.json) |
 
 
 

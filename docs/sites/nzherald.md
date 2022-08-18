@@ -142,7 +142,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 23 hyperlink lists with the Internet Archive.
+The archiving routine has saved 24 hyperlink lists with the Internet Archive.
 
 
 
@@ -150,6 +150,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 17 at 6:41 AM](https://archive.org/download/nzherald-2022/nzherald-2022-08-17T06:41:32.398012+12:00.hyperlinks.json) |
 | [August 16 at 6:44 PM](https://archive.org/download/nzherald-2022/nzherald-2022-08-16T18:44:44.370017+12:00.hyperlinks.json) |
 | [August 16 at 8:06 AM](https://archive.org/download/nzherald-2022/nzherald-2022-08-16T08:06:27.192733+12:00.hyperlinks.json) |
 | [August 15 at 6:36 PM](https://archive.org/download/nzherald-2022/nzherald-2022-08-15T18:36:50.192680+12:00.hyperlinks.json) |
@@ -159,12 +160,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 13 at 5:05 PM](https://archive.org/download/nzherald-2022/nzherald-2022-08-13T17:05:29.012676+12:00.hyperlinks.json) |
 | [August 13 at 6:16 AM](https://archive.org/download/nzherald-2022/nzherald-2022-08-13T06:15:10.323501+12:00.hyperlinks.json) |
 | [August 12 at 9:40 PM](https://archive.org/download/nzherald-2022/nzherald-2022-08-12T21:40:35.087839+12:00.hyperlinks.json) |
-| [August 12 at 6:50 AM](https://archive.org/download/nzherald-2022/nzherald-2022-08-12T06:50:09.662870+12:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 23 accessibility trees with the Internet Archive.
+The archiving routine has saved 24 accessibility trees with the Internet Archive.
 
 
 
@@ -172,6 +172,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 17 at 6:41 AM](https://archive.org/download/nzherald-2022/nzherald-2022-08-17T06:41:32.398012+12:00.accessibility.json) |
 | [August 16 at 6:44 PM](https://archive.org/download/nzherald-2022/nzherald-2022-08-16T18:44:44.370017+12:00.accessibility.json) |
 | [August 16 at 8:06 AM](https://archive.org/download/nzherald-2022/nzherald-2022-08-16T08:06:27.192733+12:00.accessibility.json) |
 | [August 15 at 6:36 PM](https://archive.org/download/nzherald-2022/nzherald-2022-08-15T18:36:50.192680+12:00.accessibility.json) |
@@ -181,13 +182,12 @@ Here are the 10 most recent accessibility trees.
 | [August 13 at 5:05 PM](https://archive.org/download/nzherald-2022/nzherald-2022-08-13T17:05:29.012676+12:00.accessibility.json) |
 | [August 13 at 6:15 AM](https://archive.org/download/nzherald-2022/nzherald-2022-08-13T06:15:10.323501+12:00.accessibility.json) |
 | [August 12 at 9:40 PM](https://archive.org/download/nzherald-2022/nzherald-2022-08-12T21:40:35.087839+12:00.accessibility.json) |
-| [August 12 at 6:50 AM](https://archive.org/download/nzherald-2022/nzherald-2022-08-12T06:50:09.662870+12:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 23 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 24 Lighthouse audits with the Internet Archive.
 
 
 
@@ -195,6 +195,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 17 at 6:41 AM](https://archive.org/download/nzherald-2022/nzherald-2022-08-17T06:41:32.398012+12:00.lighthouse.json) |
 | [August 16 at 6:44 PM](https://archive.org/download/nzherald-2022/nzherald-2022-08-16T18:44:44.370017+12:00.lighthouse.json) |
 | [August 16 at 8:06 AM](https://archive.org/download/nzherald-2022/nzherald-2022-08-16T08:06:27.192733+12:00.lighthouse.json) |
 | [August 15 at 6:36 PM](https://archive.org/download/nzherald-2022/nzherald-2022-08-15T18:36:50.192680+12:00.lighthouse.json) |
@@ -204,7 +205,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 13 at 5:05 PM](https://archive.org/download/nzherald-2022/nzherald-2022-08-13T17:05:29.012676+12:00.lighthouse.json) |
 | [August 13 at 6:16 AM](https://archive.org/download/nzherald-2022/nzherald-2022-08-13T06:15:10.323501+12:00.lighthouse.json) |
 | [August 12 at 9:40 PM](https://archive.org/download/nzherald-2022/nzherald-2022-08-12T21:40:35.087839+12:00.lighthouse.json) |
-| [August 12 at 6:50 AM](https://archive.org/download/nzherald-2022/nzherald-2022-08-12T06:50:09.662870+12:00.lighthouse.json) |
 
 
 

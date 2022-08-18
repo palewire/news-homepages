@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 143 screenshots with the Internet Archive.
+The archiving routine has saved 144 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 143 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/vicenews-2022/vicenews-2022-08-16T13:29:09.062584-04:00.jpg">
+  <img src="https://archive.org/download/vicenews-2022/vicenews-2022-08-16T13:29:09.062584-04:00.jpg"
+     alt="Vice News at 2022-08-16 13:29:10-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/vicenews-2022/vicenews-2022-08-16T13:29:09.062584-04:00.jpg">August 16 at 1:29 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/vicenews-2022/vicenews-2022-08-16T02:23:15.174065-04:00.jpg">
@@ -212,20 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/vicenews-2022/vicenews-2022-08-10T22:31:40.175982-04:00.jpg">August 10 at 10:31 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/vicenews-2022/vicenews-2022-08-10T13:53:40.084707-04:00.jpg">
-  <img src="https://archive.org/download/vicenews-2022/vicenews-2022-08-10T13:53:40.084707-04:00.jpg"
-     alt="Vice News at 2022-08-10 13:53:41-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/vicenews-2022/vicenews-2022-08-10T13:53:40.084707-04:00.jpg">August 10 at 1:53 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 145 hyperlink lists with the Internet Archive.
+The archiving routine has saved 146 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 16 at 1:29 PM](https://archive.org/download/vicenews-2022/vicenews-2022-08-16T13:29:09.062584-04:00.hyperlinks.json) |
 | [August 16 at 2:23 AM](https://archive.org/download/vicenews-2022/vicenews-2022-08-16T02:23:15.174065-04:00.hyperlinks.json) |
 | [August 15 at 3:41 PM](https://archive.org/download/vicenews-2022/vicenews-2022-08-15T15:41:17.125383-04:00.hyperlinks.json) |
 | [August 14 at 11:18 PM](https://archive.org/download/vicenews-2022/vicenews-2022-08-14T23:18:32.395535-04:00.hyperlinks.json) |
@@ -325,12 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 10:20 PM](https://archive.org/download/vicenews-2022/vicenews-2022-08-12T22:20:20.545940-04:00.hyperlinks.json) |
 | [August 12 at 12:28 PM](https://archive.org/download/vicenews-2022/vicenews-2022-08-12T12:27:57.824698-04:00.hyperlinks.json) |
 | [August 12 at 5:38 AM](https://archive.org/download/vicenews-2022/vicenews-2022-08-12T05:38:26.770439-04:00.hyperlinks.json) |
-| [August 11 at 10:09 PM](https://archive.org/download/vicenews-2022/vicenews-2022-08-11T22:09:12.271280-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 145 accessibility trees with the Internet Archive.
+The archiving routine has saved 146 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 16 at 1:29 PM](https://archive.org/download/vicenews-2022/vicenews-2022-08-16T13:29:09.062584-04:00.accessibility.json) |
 | [August 16 at 2:23 AM](https://archive.org/download/vicenews-2022/vicenews-2022-08-16T02:23:15.174065-04:00.accessibility.json) |
 | [August 15 at 3:41 PM](https://archive.org/download/vicenews-2022/vicenews-2022-08-15T15:41:17.125383-04:00.accessibility.json) |
 | [August 14 at 11:18 PM](https://archive.org/download/vicenews-2022/vicenews-2022-08-14T23:18:32.395535-04:00.accessibility.json) |
@@ -430,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 10:20 PM](https://archive.org/download/vicenews-2022/vicenews-2022-08-12T22:20:20.545940-04:00.accessibility.json) |
 | [August 12 at 12:28 PM](https://archive.org/download/vicenews-2022/vicenews-2022-08-12T12:27:57.824698-04:00.accessibility.json) |
 | [August 12 at 5:38 AM](https://archive.org/download/vicenews-2022/vicenews-2022-08-12T05:38:26.770439-04:00.accessibility.json) |
-| [August 11 at 10:09 PM](https://archive.org/download/vicenews-2022/vicenews-2022-08-11T22:09:12.271280-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 50 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 51 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 16 at 1:29 PM](https://archive.org/download/vicenews-2022/vicenews-2022-08-16T13:29:09.062584-04:00.lighthouse.json) |
 | [August 16 at 2:23 AM](https://archive.org/download/vicenews-2022/vicenews-2022-08-16T02:23:15.174065-04:00.lighthouse.json) |
 | [August 15 at 3:41 PM](https://archive.org/download/vicenews-2022/vicenews-2022-08-15T15:41:17.125383-04:00.lighthouse.json) |
 | [August 14 at 11:18 PM](https://archive.org/download/vicenews-2022/vicenews-2022-08-14T23:18:32.395535-04:00.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 12 at 10:20 PM](https://archive.org/download/vicenews-2022/vicenews-2022-08-12T22:20:20.545940-04:00.lighthouse.json) |
 | [August 12 at 12:28 PM](https://archive.org/download/vicenews-2022/vicenews-2022-08-12T12:27:57.824698-04:00.lighthouse.json) |
 | [August 12 at 5:38 AM](https://archive.org/download/vicenews-2022/vicenews-2022-08-12T05:38:26.770439-04:00.lighthouse.json) |
-| [August 11 at 10:09 PM](https://archive.org/download/vicenews-2022/vicenews-2022-08-11T22:09:12.271280-04:00.lighthouse.json) |
 
 
 

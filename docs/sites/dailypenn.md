@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 43 screenshots with the Internet Archive.
+The archiving routine has saved 44 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 43 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailypenn-2022/dailypenn-2022-08-16T14:25:49.772223-04:00.jpg">
+  <img src="https://archive.org/download/dailypenn-2022/dailypenn-2022-08-16T14:25:49.772223-04:00.jpg"
+     alt="Daily Penn at 2022-08-16 14:25:54-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailypenn-2022/dailypenn-2022-08-16T14:25:49.772223-04:00.jpg">August 16 at 2:25 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailypenn-2022/dailypenn-2022-08-16T02:28:00.149294-04:00.jpg">
@@ -212,20 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dailypenn-2022/dailypenn-2022-08-10T23:46:54.569670-04:00.jpg">August 10 at 11:46 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dailypenn-2022/dailypenn-2022-08-10T13:58:31.005566-04:00.jpg">
-  <img src="https://archive.org/download/dailypenn-2022/dailypenn-2022-08-10T13:58:31.005566-04:00.jpg"
-     alt="Daily Penn at 2022-08-10 13:58:33-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailypenn-2022/dailypenn-2022-08-10T13:58:31.005566-04:00.jpg">August 10 at 1:58 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 42 hyperlink lists with the Internet Archive.
+The archiving routine has saved 43 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 16 at 2:26 PM](https://archive.org/download/dailypenn-2022/dailypenn-2022-08-16T14:25:49.772223-04:00.hyperlinks.json) |
 | [August 16 at 2:28 AM](https://archive.org/download/dailypenn-2022/dailypenn-2022-08-16T02:28:00.149294-04:00.hyperlinks.json) |
 | [August 15 at 3:46 PM](https://archive.org/download/dailypenn-2022/dailypenn-2022-08-15T15:46:18.571757-04:00.hyperlinks.json) |
 | [August 15 at 2:20 AM](https://archive.org/download/dailypenn-2022/dailypenn-2022-08-15T02:20:11.444993-04:00.hyperlinks.json) |
@@ -325,12 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 11:36 PM](https://archive.org/download/dailypenn-2022/dailypenn-2022-08-12T23:36:09.226755-04:00.hyperlinks.json) |
 | [August 12 at 1:44 PM](https://archive.org/download/dailypenn-2022/dailypenn-2022-08-12T13:44:25.292907-04:00.hyperlinks.json) |
 | [August 12 at 5:54 AM](https://archive.org/download/dailypenn-2022/dailypenn-2022-08-12T05:54:01.703345-04:00.hyperlinks.json) |
-| [August 11 at 2:34 PM](https://archive.org/download/dailypenn-2022/dailypenn-2022-08-11T14:34:26.553144-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 43 accessibility trees with the Internet Archive.
+The archiving routine has saved 44 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 16 at 2:25 PM](https://archive.org/download/dailypenn-2022/dailypenn-2022-08-16T14:25:49.772223-04:00.accessibility.json) |
 | [August 16 at 2:28 AM](https://archive.org/download/dailypenn-2022/dailypenn-2022-08-16T02:28:00.149294-04:00.accessibility.json) |
 | [August 15 at 3:46 PM](https://archive.org/download/dailypenn-2022/dailypenn-2022-08-15T15:46:18.571757-04:00.accessibility.json) |
 | [August 15 at 2:20 AM](https://archive.org/download/dailypenn-2022/dailypenn-2022-08-15T02:20:11.444993-04:00.accessibility.json) |
@@ -430,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 11:36 PM](https://archive.org/download/dailypenn-2022/dailypenn-2022-08-12T23:36:09.226755-04:00.accessibility.json) |
 | [August 12 at 1:44 PM](https://archive.org/download/dailypenn-2022/dailypenn-2022-08-12T13:44:25.292907-04:00.accessibility.json) |
 | [August 12 at 5:54 AM](https://archive.org/download/dailypenn-2022/dailypenn-2022-08-12T05:54:01.703345-04:00.accessibility.json) |
-| [August 11 at 2:34 PM](https://archive.org/download/dailypenn-2022/dailypenn-2022-08-11T14:34:26.553144-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 43 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 44 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 16 at 2:26 PM](https://archive.org/download/dailypenn-2022/dailypenn-2022-08-16T14:25:49.772223-04:00.lighthouse.json) |
 | [August 16 at 2:28 AM](https://archive.org/download/dailypenn-2022/dailypenn-2022-08-16T02:28:00.149294-04:00.lighthouse.json) |
 | [August 15 at 3:46 PM](https://archive.org/download/dailypenn-2022/dailypenn-2022-08-15T15:46:18.571757-04:00.lighthouse.json) |
 | [August 15 at 2:20 AM](https://archive.org/download/dailypenn-2022/dailypenn-2022-08-15T02:20:11.444993-04:00.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 12 at 11:36 PM](https://archive.org/download/dailypenn-2022/dailypenn-2022-08-12T23:36:09.226755-04:00.lighthouse.json) |
 | [August 12 at 1:44 PM](https://archive.org/download/dailypenn-2022/dailypenn-2022-08-12T13:44:25.292907-04:00.lighthouse.json) |
 | [August 12 at 5:54 AM](https://archive.org/download/dailypenn-2022/dailypenn-2022-08-12T05:54:01.703345-04:00.lighthouse.json) |
-| [August 11 at 2:34 PM](https://archive.org/download/dailypenn-2022/dailypenn-2022-08-11T14:34:26.553144-04:00.lighthouse.json) |
 
 
 

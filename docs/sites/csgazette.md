@@ -22,13 +22,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 5 screenshots with the Internet Archive.
+The archiving routine has saved 6 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-16T12:25:13.975208-06:00.jpg">
+  <img src="https://archive.org/download/csgazette-2022/csgazette-2022-08-16T12:25:13.975208-06:00.jpg"
+     alt="Colorado Springs Gazette at 2022-08-16 12:25:15-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-16T12:25:13.975208-06:00.jpg">August 16 at 12:25 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/csgazette-2022/csgazette-2022-08-16T00:27:29.744488-06:00.jpg">
@@ -79,7 +88,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 4 hyperlink lists with the Internet Archive.
+The archiving routine has saved 5 hyperlink lists with the Internet Archive.
 
 
 
@@ -87,6 +96,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 16 at 12:25 PM](https://archive.org/download/csgazette-2022/csgazette-2022-08-16T12:25:13.975208-06:00.hyperlinks.json) |
 | [August 16 at 12:27 AM](https://archive.org/download/csgazette-2022/csgazette-2022-08-16T00:27:29.744488-06:00.hyperlinks.json) |
 | [August 15 at 1:46 PM](https://archive.org/download/csgazette-2022/csgazette-2022-08-15T13:46:08.662923-06:00.hyperlinks.json) |
 | [August 15 at 12:19 AM](https://archive.org/download/csgazette-2022/csgazette-2022-08-15T00:19:47.119251-06:00.hyperlinks.json) |

@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 86 screenshots with the Internet Archive.
+The archiving routine has saved 87 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 86 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/people-2022/people-2022-08-16T14:42:05.466857-04:00.jpg">
+  <img src="https://archive.org/download/people-2022/people-2022-08-16T14:42:05.466857-04:00.jpg"
+     alt="People at 2022-08-16 14:42:09-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/people-2022/people-2022-08-16T14:42:05.466857-04:00.jpg">August 16 at 2:42 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/people-2022/people-2022-08-16T02:46:10.290543-04:00.jpg">
@@ -212,20 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/people-2022/people-2022-08-11T01:21:04.940619-04:00.jpg">August 11 at 1:21 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/people-2022/people-2022-08-10T14:16:33.835908-04:00.jpg">
-  <img src="https://archive.org/download/people-2022/people-2022-08-10T14:16:33.835908-04:00.jpg"
-     alt="People at 2022-08-10 14:16:42-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/people-2022/people-2022-08-10T14:16:33.835908-04:00.jpg">August 10 at 2:16 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 72 hyperlink lists with the Internet Archive.
+The archiving routine has saved 73 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 16 at 2:42 PM](https://archive.org/download/people-2022/people-2022-08-16T14:42:05.466857-04:00.hyperlinks.json) |
 | [August 16 at 2:46 AM](https://archive.org/download/people-2022/people-2022-08-16T02:46:10.290543-04:00.hyperlinks.json) |
 | [August 15 at 4:08 PM](https://archive.org/download/people-2022/people-2022-08-15T16:08:32.028237-04:00.hyperlinks.json) |
 | [August 15 at 2:38 AM](https://archive.org/download/people-2022/people-2022-08-15T02:38:47.762496-04:00.hyperlinks.json) |
@@ -325,12 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 13 at 1:07 AM](https://archive.org/download/people-2022/people-2022-08-13T01:07:12.973517-04:00.hyperlinks.json) |
 | [August 12 at 2:19 PM](https://archive.org/download/people-2022/people-2022-08-12T14:18:23.060716-04:00.hyperlinks.json) |
 | [August 12 at 5:41 AM](https://archive.org/download/people-2022/people-2022-08-12T05:41:42.022823-04:00.hyperlinks.json) |
-| [August 11 at 1:21 AM](https://archive.org/download/people-2022/people-2022-08-11T01:21:04.940619-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 78 accessibility trees with the Internet Archive.
+The archiving routine has saved 79 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 16 at 2:42 PM](https://archive.org/download/people-2022/people-2022-08-16T14:42:05.466857-04:00.accessibility.json) |
 | [August 16 at 2:46 AM](https://archive.org/download/people-2022/people-2022-08-16T02:46:10.290543-04:00.accessibility.json) |
 | [August 15 at 4:08 PM](https://archive.org/download/people-2022/people-2022-08-15T16:08:32.028237-04:00.accessibility.json) |
 | [August 15 at 2:38 AM](https://archive.org/download/people-2022/people-2022-08-15T02:38:47.762496-04:00.accessibility.json) |
@@ -430,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 13 at 1:07 AM](https://archive.org/download/people-2022/people-2022-08-13T01:07:12.973517-04:00.accessibility.json) |
 | [August 12 at 2:19 PM](https://archive.org/download/people-2022/people-2022-08-12T14:18:23.060716-04:00.accessibility.json) |
 | [August 12 at 5:41 AM](https://archive.org/download/people-2022/people-2022-08-12T05:41:42.022823-04:00.accessibility.json) |
-| [August 11 at 2:51 PM](https://archive.org/download/people-2022/people-2022-08-11T14:51:06.424320-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 47 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 48 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 16 at 2:42 PM](https://archive.org/download/people-2022/people-2022-08-16T14:42:05.466857-04:00.lighthouse.json) |
 | [August 16 at 2:46 AM](https://archive.org/download/people-2022/people-2022-08-16T02:46:10.290543-04:00.lighthouse.json) |
 | [August 15 at 4:08 PM](https://archive.org/download/people-2022/people-2022-08-15T16:08:32.028237-04:00.lighthouse.json) |
 | [August 15 at 2:38 AM](https://archive.org/download/people-2022/people-2022-08-15T02:38:47.762496-04:00.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 13 at 1:07 AM](https://archive.org/download/people-2022/people-2022-08-13T01:07:12.973517-04:00.lighthouse.json) |
 | [August 12 at 2:19 PM](https://archive.org/download/people-2022/people-2022-08-12T14:18:23.060716-04:00.lighthouse.json) |
 | [August 12 at 5:41 AM](https://archive.org/download/people-2022/people-2022-08-12T05:41:42.022823-04:00.lighthouse.json) |
-| [August 11 at 2:51 PM](https://archive.org/download/people-2022/people-2022-08-11T14:51:06.424320-04:00.lighthouse.json) |
 
 
 

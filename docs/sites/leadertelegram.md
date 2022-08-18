@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 227 screenshots with the Internet Archive.
+The archiving routine has saved 228 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 227 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-08-16T13:36:23.214100-05:00.jpg">
+  <img src="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-08-16T13:36:23.214100-05:00.jpg"
+     alt="Eau Claire Leader-Telegram at 2022-08-16 13:36:24-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-08-16T13:36:23.214100-05:00.jpg">August 16 at 1:36 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-08-16T01:38:49.664548-05:00.jpg">
@@ -212,20 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-08-10T13:09:59.386170-05:00.jpg">August 10 at 1:10 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-08-09T23:04:58.309714-05:00.jpg">
-  <img src="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-08-09T23:04:58.309714-05:00.jpg"
-     alt="Eau Claire Leader-Telegram at 2022-08-09 23:05:02-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/leadertelegram-2022/leadertelegram-2022-08-09T23:04:58.309714-05:00.jpg">August 9 at 11:05 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 222 hyperlink lists with the Internet Archive.
+The archiving routine has saved 223 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 16 at 1:36 PM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-08-16T13:36:23.214100-05:00.hyperlinks.json) |
 | [August 16 at 1:39 AM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-08-16T01:38:49.664548-05:00.hyperlinks.json) |
 | [August 15 at 2:58 PM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-08-15T14:58:48.999127-05:00.hyperlinks.json) |
 | [August 15 at 1:31 AM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-08-15T01:31:06.730997-05:00.hyperlinks.json) |
@@ -325,12 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 10:47 PM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-08-12T22:47:34.133489-05:00.hyperlinks.json) |
 | [August 12 at 12:54 PM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-08-12T12:54:00.836849-05:00.hyperlinks.json) |
 | [August 12 at 5:03 AM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-08-12T05:03:20.248879-05:00.hyperlinks.json) |
-| [August 11 at 1:44 PM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-08-11T13:44:38.921362-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 225 accessibility trees with the Internet Archive.
+The archiving routine has saved 226 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 16 at 1:36 PM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-08-16T13:36:23.214100-05:00.accessibility.json) |
 | [August 16 at 1:39 AM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-08-16T01:38:49.664548-05:00.accessibility.json) |
 | [August 15 at 2:58 PM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-08-15T14:58:48.999127-05:00.accessibility.json) |
 | [August 15 at 1:31 AM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-08-15T01:31:06.730997-05:00.accessibility.json) |
@@ -430,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 10:47 PM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-08-12T22:47:34.133489-05:00.accessibility.json) |
 | [August 12 at 12:54 PM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-08-12T12:54:00.836849-05:00.accessibility.json) |
 | [August 12 at 5:03 AM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-08-12T05:03:20.248879-05:00.accessibility.json) |
-| [August 11 at 1:44 PM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-08-11T13:44:38.921362-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 47 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 48 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 16 at 1:36 PM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-08-16T13:36:23.214100-05:00.lighthouse.json) |
 | [August 16 at 1:39 AM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-08-16T01:38:49.664548-05:00.lighthouse.json) |
 | [August 15 at 2:59 PM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-08-15T14:58:48.999127-05:00.lighthouse.json) |
 | [August 15 at 1:31 AM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-08-15T01:31:06.730997-05:00.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 12 at 10:47 PM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-08-12T22:47:34.133489-05:00.lighthouse.json) |
 | [August 12 at 12:54 PM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-08-12T12:54:00.836849-05:00.lighthouse.json) |
 | [August 12 at 5:03 AM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-08-12T05:03:20.248879-05:00.lighthouse.json) |
-| [August 11 at 1:44 PM](https://archive.org/download/leadertelegram-2022/leadertelegram-2022-08-11T13:44:38.921362-05:00.lighthouse.json) |
 
 
 

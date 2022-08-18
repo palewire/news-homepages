@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 77 screenshots with the Internet Archive.
+The archiving routine has saved 78 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 77 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/media_outlier-2022/media_outlier-2022-08-16T13:38:39.871546-05:00.jpg">
+  <img src="https://archive.org/download/media_outlier-2022/media_outlier-2022-08-16T13:38:39.871546-05:00.jpg"
+     alt="Outlier Media at 2022-08-16 13:38:43-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/media_outlier-2022/media_outlier-2022-08-16T13:38:39.871546-05:00.jpg">August 16 at 1:38 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/media_outlier-2022/media_outlier-2022-08-16T01:40:45.065865-05:00.jpg">
@@ -212,20 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/media_outlier-2022/media_outlier-2022-08-10T22:59:03.226267-05:00.jpg">August 10 at 10:59 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/media_outlier-2022/media_outlier-2022-08-10T13:11:45.343231-05:00.jpg">
-  <img src="https://archive.org/download/media_outlier-2022/media_outlier-2022-08-10T13:11:45.343231-05:00.jpg"
-     alt="Outlier Media at 2022-08-10 13:11:53-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/media_outlier-2022/media_outlier-2022-08-10T13:11:45.343231-05:00.jpg">August 10 at 1:11 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 77 hyperlink lists with the Internet Archive.
+The archiving routine has saved 78 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 16 at 1:38 PM](https://archive.org/download/media_outlier-2022/media_outlier-2022-08-16T13:38:39.871546-05:00.hyperlinks.json) |
 | [August 16 at 1:40 AM](https://archive.org/download/media_outlier-2022/media_outlier-2022-08-16T01:40:45.065865-05:00.hyperlinks.json) |
 | [August 15 at 3:01 PM](https://archive.org/download/media_outlier-2022/media_outlier-2022-08-15T15:00:58.357090-05:00.hyperlinks.json) |
 | [August 15 at 1:33 AM](https://archive.org/download/media_outlier-2022/media_outlier-2022-08-15T01:33:19.330702-05:00.hyperlinks.json) |
@@ -325,12 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 10:49 PM](https://archive.org/download/media_outlier-2022/media_outlier-2022-08-12T22:49:09.704693-05:00.hyperlinks.json) |
 | [August 12 at 12:55 PM](https://archive.org/download/media_outlier-2022/media_outlier-2022-08-12T12:55:41.282482-05:00.hyperlinks.json) |
 | [August 12 at 5:06 AM](https://archive.org/download/media_outlier-2022/media_outlier-2022-08-12T05:05:50.430946-05:00.hyperlinks.json) |
-| [August 11 at 1:46 PM](https://archive.org/download/media_outlier-2022/media_outlier-2022-08-11T13:46:42.907728-05:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 77 accessibility trees with the Internet Archive.
+The archiving routine has saved 78 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 16 at 1:38 PM](https://archive.org/download/media_outlier-2022/media_outlier-2022-08-16T13:38:39.871546-05:00.accessibility.json) |
 | [August 16 at 1:40 AM](https://archive.org/download/media_outlier-2022/media_outlier-2022-08-16T01:40:45.065865-05:00.accessibility.json) |
 | [August 15 at 3:01 PM](https://archive.org/download/media_outlier-2022/media_outlier-2022-08-15T15:00:58.357090-05:00.accessibility.json) |
 | [August 15 at 1:33 AM](https://archive.org/download/media_outlier-2022/media_outlier-2022-08-15T01:33:19.330702-05:00.accessibility.json) |
@@ -430,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 10:49 PM](https://archive.org/download/media_outlier-2022/media_outlier-2022-08-12T22:49:09.704693-05:00.accessibility.json) |
 | [August 12 at 12:55 PM](https://archive.org/download/media_outlier-2022/media_outlier-2022-08-12T12:55:41.282482-05:00.accessibility.json) |
 | [August 12 at 5:06 AM](https://archive.org/download/media_outlier-2022/media_outlier-2022-08-12T05:05:50.430946-05:00.accessibility.json) |
-| [August 11 at 1:46 PM](https://archive.org/download/media_outlier-2022/media_outlier-2022-08-11T13:46:42.907728-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 47 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 48 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 16 at 1:38 PM](https://archive.org/download/media_outlier-2022/media_outlier-2022-08-16T13:38:39.871546-05:00.lighthouse.json) |
 | [August 16 at 1:40 AM](https://archive.org/download/media_outlier-2022/media_outlier-2022-08-16T01:40:45.065865-05:00.lighthouse.json) |
 | [August 15 at 3:01 PM](https://archive.org/download/media_outlier-2022/media_outlier-2022-08-15T15:00:58.357090-05:00.lighthouse.json) |
 | [August 15 at 1:33 AM](https://archive.org/download/media_outlier-2022/media_outlier-2022-08-15T01:33:19.330702-05:00.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 12 at 10:49 PM](https://archive.org/download/media_outlier-2022/media_outlier-2022-08-12T22:49:09.704693-05:00.lighthouse.json) |
 | [August 12 at 12:55 PM](https://archive.org/download/media_outlier-2022/media_outlier-2022-08-12T12:55:41.282482-05:00.lighthouse.json) |
 | [August 12 at 5:06 AM](https://archive.org/download/media_outlier-2022/media_outlier-2022-08-12T05:05:50.430946-05:00.lighthouse.json) |
-| [August 11 at 1:46 PM](https://archive.org/download/media_outlier-2022/media_outlier-2022-08-11T13:46:42.907728-05:00.lighthouse.json) |
 
 
 

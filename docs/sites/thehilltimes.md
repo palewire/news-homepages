@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 110 screenshots with the Internet Archive.
+The archiving routine has saved 111 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 110 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-16T14:46:57.130477-04:00.jpg">
+  <img src="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-16T14:46:57.130477-04:00.jpg"
+     alt="The Hill Times at 2022-08-16 14:46:59-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-16T14:46:57.130477-04:00.jpg">August 16 at 2:46 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-16T02:54:27.191044-04:00.jpg">
@@ -212,20 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-10T01:34:54.234503-04:00.jpg">August 10 at 1:34 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-09T13:56:16.095823-04:00.jpg">
-  <img src="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-09T13:56:16.095823-04:00.jpg"
-     alt="The Hill Times at 2022-08-09 13:56:17-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-09T13:56:16.095823-04:00.jpg">August 9 at 1:56 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 112 hyperlink lists with the Internet Archive.
+The archiving routine has saved 113 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 16 at 2:47 PM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-16T14:46:57.130477-04:00.hyperlinks.json) |
 | [August 16 at 2:54 AM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-16T02:54:27.191044-04:00.hyperlinks.json) |
 | [August 15 at 4:17 PM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-15T16:17:41.283438-04:00.hyperlinks.json) |
 | [August 15 at 2:47 AM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-15T02:47:02.193061-04:00.hyperlinks.json) |
@@ -325,12 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 13 at 1:14 AM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-13T01:14:35.769117-04:00.hyperlinks.json) |
 | [August 12 at 2:27 PM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-12T14:27:45.859504-04:00.hyperlinks.json) |
 | [August 12 at 5:47 AM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-12T05:47:09.144792-04:00.hyperlinks.json) |
-| [August 11 at 2:57 PM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-11T14:57:52.355169-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 112 accessibility trees with the Internet Archive.
+The archiving routine has saved 113 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 16 at 2:47 PM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-16T14:46:57.130477-04:00.accessibility.json) |
 | [August 16 at 2:54 AM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-16T02:54:27.191044-04:00.accessibility.json) |
 | [August 15 at 4:17 PM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-15T16:17:41.283438-04:00.accessibility.json) |
 | [August 15 at 2:47 AM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-15T02:47:02.193061-04:00.accessibility.json) |
@@ -430,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 13 at 1:14 AM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-13T01:14:35.769117-04:00.accessibility.json) |
 | [August 12 at 2:27 PM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-12T14:27:45.859504-04:00.accessibility.json) |
 | [August 12 at 5:47 AM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-12T05:47:09.144792-04:00.accessibility.json) |
-| [August 11 at 2:57 PM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-11T14:57:52.355169-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 47 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 48 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 16 at 2:47 PM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-16T14:46:57.130477-04:00.lighthouse.json) |
 | [August 16 at 2:54 AM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-16T02:54:27.191044-04:00.lighthouse.json) |
 | [August 15 at 4:17 PM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-15T16:17:41.283438-04:00.lighthouse.json) |
 | [August 15 at 2:47 AM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-15T02:47:02.193061-04:00.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 13 at 1:14 AM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-13T01:14:35.769117-04:00.lighthouse.json) |
 | [August 12 at 2:28 PM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-12T14:27:45.859504-04:00.lighthouse.json) |
 | [August 12 at 5:47 AM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-12T05:47:09.144792-04:00.lighthouse.json) |
-| [August 11 at 2:57 PM](https://archive.org/download/thehilltimes-2022/thehilltimes-2022-08-11T14:57:52.355169-04:00.lighthouse.json) |
 
 
 

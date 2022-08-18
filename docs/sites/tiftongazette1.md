@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 56 screenshots with the Internet Archive.
+The archiving routine has saved 57 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 56 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-16T13:25:33.708786-04:00.jpg">
+  <img src="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-16T13:25:33.708786-04:00.jpg"
+     alt="Tifton Gazette at 2022-08-16 13:25:37-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-16T13:25:33.708786-04:00.jpg">August 16 at 1:25 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-16T02:21:18.152801-04:00.jpg">
@@ -212,20 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-10T22:29:03.229151-04:00.jpg">August 10 at 10:29 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-10T13:52:04.554336-04:00.jpg">
-  <img src="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-10T13:52:04.554336-04:00.jpg"
-     alt="Tifton Gazette at 2022-08-10 13:52:05-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-10T13:52:04.554336-04:00.jpg">August 10 at 1:52 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 34 hyperlink lists with the Internet Archive.
+The archiving routine has saved 35 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 16 at 1:25 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-16T13:25:33.708786-04:00.hyperlinks.json) |
 | [August 16 at 2:21 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-16T02:21:18.152801-04:00.hyperlinks.json) |
 | [August 15 at 3:39 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-15T15:39:15.886642-04:00.hyperlinks.json) |
 | [August 14 at 11:16 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-14T23:16:16.066985-04:00.hyperlinks.json) |
@@ -325,12 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 12:26 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-12T12:26:30.942905-04:00.hyperlinks.json) |
 | [August 10 at 10:29 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-10T22:29:03.229151-04:00.hyperlinks.json) |
 | [August 10 at 1:52 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-10T13:52:04.554336-04:00.hyperlinks.json) |
-| [August 9 at 10:42 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-09T10:42:05.535205-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 45 accessibility trees with the Internet Archive.
+The archiving routine has saved 46 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 16 at 1:25 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-16T13:25:33.708786-04:00.accessibility.json) |
 | [August 16 at 2:21 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-16T02:21:18.152801-04:00.accessibility.json) |
 | [August 15 at 3:39 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-15T15:39:15.886642-04:00.accessibility.json) |
 | [August 14 at 11:16 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-14T23:16:16.066985-04:00.accessibility.json) |
@@ -430,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 10:18 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-12T22:18:34.903440-04:00.accessibility.json) |
 | [August 12 at 12:26 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-12T12:26:30.942905-04:00.accessibility.json) |
 | [August 12 at 5:36 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-12T05:36:17.062431-04:00.accessibility.json) |
-| [August 11 at 1:08 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-11T13:08:50.498973-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 50 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 51 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 16 at 1:25 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-16T13:25:33.708786-04:00.lighthouse.json) |
 | [August 16 at 2:21 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-16T02:21:18.152801-04:00.lighthouse.json) |
 | [August 15 at 3:39 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-15T15:39:15.886642-04:00.lighthouse.json) |
 | [August 14 at 11:16 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-14T23:16:16.066985-04:00.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 12 at 10:18 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-12T22:18:34.903440-04:00.lighthouse.json) |
 | [August 12 at 12:26 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-12T12:26:30.942905-04:00.lighthouse.json) |
 | [August 12 at 5:36 AM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-12T05:36:17.062431-04:00.lighthouse.json) |
-| [August 11 at 10:07 PM](https://archive.org/download/tiftongazette1-2022/tiftongazette1-2022-08-11T22:07:58.586262-04:00.lighthouse.json) |
 
 
 

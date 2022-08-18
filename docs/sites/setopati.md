@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 45 screenshots with the Internet Archive.
+The archiving routine has saved 46 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 45 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/setopati-2022/setopati-2022-08-17T00:30:11.932031+05:45.jpg">
+  <img src="https://archive.org/download/setopati-2022/setopati-2022-08-17T00:30:11.932031+05:45.jpg"
+     alt="Setopati at 2022-08-17 00:30:15+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/setopati-2022/setopati-2022-08-17T00:30:11.932031+05:45.jpg">August 17 at 12:30 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/setopati-2022/setopati-2022-08-16T12:36:01.799695+05:45.jpg">
@@ -212,20 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/setopati-2022/setopati-2022-08-11T11:09:55.280100+05:45.jpg">August 11 at 11:09 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/setopati-2022/setopati-2022-08-10T11:16:29.732995+05:45.jpg">
-  <img src="https://archive.org/download/setopati-2022/setopati-2022-08-10T11:16:29.732995+05:45.jpg"
-     alt="Setopati at 2022-08-10 11:16:31+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/setopati-2022/setopati-2022-08-10T11:16:29.732995+05:45.jpg">August 10 at 11:16 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 46 hyperlink lists with the Internet Archive.
+The archiving routine has saved 47 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 17 at 12:30 AM](https://archive.org/download/setopati-2022/setopati-2022-08-17T00:30:11.932031+05:45.hyperlinks.json) |
 | [August 16 at 12:36 PM](https://archive.org/download/setopati-2022/setopati-2022-08-16T12:36:01.799695+05:45.hyperlinks.json) |
 | [August 16 at 1:58 AM](https://archive.org/download/setopati-2022/setopati-2022-08-16T01:58:29.666741+05:45.hyperlinks.json) |
 | [August 15 at 12:29 PM](https://archive.org/download/setopati-2022/setopati-2022-08-15T12:29:41.357774+05:45.hyperlinks.json) |
@@ -325,12 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 13 at 10:56 AM](https://archive.org/download/setopati-2022/setopati-2022-08-13T10:56:04.826382+05:45.hyperlinks.json) |
 | [August 13 at 12:09 AM](https://archive.org/download/setopati-2022/setopati-2022-08-13T00:09:03.669028+05:45.hyperlinks.json) |
 | [August 12 at 3:31 PM](https://archive.org/download/setopati-2022/setopati-2022-08-12T15:31:29.801517+05:45.hyperlinks.json) |
-| [August 12 at 12:40 AM](https://archive.org/download/setopati-2022/setopati-2022-08-12T00:40:16.047061+05:45.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 46 accessibility trees with the Internet Archive.
+The archiving routine has saved 47 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 17 at 12:30 AM](https://archive.org/download/setopati-2022/setopati-2022-08-17T00:30:11.932031+05:45.accessibility.json) |
 | [August 16 at 12:36 PM](https://archive.org/download/setopati-2022/setopati-2022-08-16T12:36:01.799695+05:45.accessibility.json) |
 | [August 16 at 1:58 AM](https://archive.org/download/setopati-2022/setopati-2022-08-16T01:58:29.666741+05:45.accessibility.json) |
 | [August 15 at 12:29 PM](https://archive.org/download/setopati-2022/setopati-2022-08-15T12:29:41.357774+05:45.accessibility.json) |
@@ -430,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 13 at 10:56 AM](https://archive.org/download/setopati-2022/setopati-2022-08-13T10:56:04.826382+05:45.accessibility.json) |
 | [August 13 at 12:09 AM](https://archive.org/download/setopati-2022/setopati-2022-08-13T00:09:03.669028+05:45.accessibility.json) |
 | [August 12 at 3:31 PM](https://archive.org/download/setopati-2022/setopati-2022-08-12T15:31:29.801517+05:45.accessibility.json) |
-| [August 12 at 12:40 AM](https://archive.org/download/setopati-2022/setopati-2022-08-12T00:40:16.047061+05:45.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 46 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 47 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 17 at 12:30 AM](https://archive.org/download/setopati-2022/setopati-2022-08-17T00:30:11.932031+05:45.lighthouse.json) |
 | [August 16 at 12:36 PM](https://archive.org/download/setopati-2022/setopati-2022-08-16T12:36:01.799695+05:45.lighthouse.json) |
 | [August 16 at 1:58 AM](https://archive.org/download/setopati-2022/setopati-2022-08-16T01:58:29.666741+05:45.lighthouse.json) |
 | [August 15 at 12:29 PM](https://archive.org/download/setopati-2022/setopati-2022-08-15T12:29:41.357774+05:45.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 13 at 10:56 AM](https://archive.org/download/setopati-2022/setopati-2022-08-13T10:56:04.826382+05:45.lighthouse.json) |
 | [August 13 at 12:09 AM](https://archive.org/download/setopati-2022/setopati-2022-08-13T00:09:03.669028+05:45.lighthouse.json) |
 | [August 12 at 3:31 PM](https://archive.org/download/setopati-2022/setopati-2022-08-12T15:31:29.801517+05:45.lighthouse.json) |
-| [August 12 at 12:40 AM](https://archive.org/download/setopati-2022/setopati-2022-08-12T00:40:16.047061+05:45.lighthouse.json) |
 
 
 

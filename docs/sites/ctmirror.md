@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 79 screenshots with the Internet Archive.
+The archiving routine has saved 80 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 79 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-08-16T14:25:53.099959-04:00.jpg">
+  <img src="https://archive.org/download/ctmirror-2022/ctmirror-2022-08-16T14:25:53.099959-04:00.jpg"
+     alt="Connecticut Mirror at 2022-08-16 14:25:54-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-08-16T14:25:53.099959-04:00.jpg">August 16 at 2:25 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-08-16T02:28:15.904505-04:00.jpg">
@@ -212,20 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-08-10T22:25:31.836284-04:00.jpg">August 10 at 10:25 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-08-10T13:47:12.614204-04:00.jpg">
-  <img src="https://archive.org/download/ctmirror-2022/ctmirror-2022-08-10T13:47:12.614204-04:00.jpg"
-     alt="Connecticut Mirror at 2022-08-10 13:47:14-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-08-10T13:47:12.614204-04:00.jpg">August 10 at 1:47 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 80 hyperlink lists with the Internet Archive.
+The archiving routine has saved 81 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 16 at 2:25 PM](https://archive.org/download/ctmirror-2022/ctmirror-2022-08-16T14:25:53.099959-04:00.hyperlinks.json) |
 | [August 16 at 2:28 AM](https://archive.org/download/ctmirror-2022/ctmirror-2022-08-16T02:28:15.904505-04:00.hyperlinks.json) |
 | [August 15 at 3:45 PM](https://archive.org/download/ctmirror-2022/ctmirror-2022-08-15T15:45:11.562851-04:00.hyperlinks.json) |
 | [August 15 at 2:20 AM](https://archive.org/download/ctmirror-2022/ctmirror-2022-08-15T02:20:19.148267-04:00.hyperlinks.json) |
@@ -325,12 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 10:14 PM](https://archive.org/download/ctmirror-2022/ctmirror-2022-08-12T22:14:30.210932-04:00.hyperlinks.json) |
 | [August 12 at 12:22 PM](https://archive.org/download/ctmirror-2022/ctmirror-2022-08-12T12:22:36.335641-04:00.hyperlinks.json) |
 | [August 12 at 5:33 AM](https://archive.org/download/ctmirror-2022/ctmirror-2022-08-12T05:33:11.994219-04:00.hyperlinks.json) |
-| [August 11 at 10:04 PM](https://archive.org/download/ctmirror-2022/ctmirror-2022-08-11T22:04:24.343739-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 80 accessibility trees with the Internet Archive.
+The archiving routine has saved 81 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 16 at 2:25 PM](https://archive.org/download/ctmirror-2022/ctmirror-2022-08-16T14:25:53.099959-04:00.accessibility.json) |
 | [August 16 at 2:28 AM](https://archive.org/download/ctmirror-2022/ctmirror-2022-08-16T02:28:15.904505-04:00.accessibility.json) |
 | [August 15 at 3:45 PM](https://archive.org/download/ctmirror-2022/ctmirror-2022-08-15T15:45:11.562851-04:00.accessibility.json) |
 | [August 15 at 2:20 AM](https://archive.org/download/ctmirror-2022/ctmirror-2022-08-15T02:20:19.148267-04:00.accessibility.json) |
@@ -430,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 10:14 PM](https://archive.org/download/ctmirror-2022/ctmirror-2022-08-12T22:14:30.210932-04:00.accessibility.json) |
 | [August 12 at 12:22 PM](https://archive.org/download/ctmirror-2022/ctmirror-2022-08-12T12:22:36.335641-04:00.accessibility.json) |
 | [August 12 at 5:33 AM](https://archive.org/download/ctmirror-2022/ctmirror-2022-08-12T05:33:11.994219-04:00.accessibility.json) |
-| [August 11 at 10:04 PM](https://archive.org/download/ctmirror-2022/ctmirror-2022-08-11T22:04:24.343739-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 50 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 51 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 16 at 2:26 PM](https://archive.org/download/ctmirror-2022/ctmirror-2022-08-16T14:25:53.099959-04:00.lighthouse.json) |
 | [August 16 at 2:28 AM](https://archive.org/download/ctmirror-2022/ctmirror-2022-08-16T02:28:15.904505-04:00.lighthouse.json) |
 | [August 15 at 3:45 PM](https://archive.org/download/ctmirror-2022/ctmirror-2022-08-15T15:45:11.562851-04:00.lighthouse.json) |
 | [August 15 at 2:20 AM](https://archive.org/download/ctmirror-2022/ctmirror-2022-08-15T02:20:19.148267-04:00.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 12 at 10:14 PM](https://archive.org/download/ctmirror-2022/ctmirror-2022-08-12T22:14:30.210932-04:00.lighthouse.json) |
 | [August 12 at 12:22 PM](https://archive.org/download/ctmirror-2022/ctmirror-2022-08-12T12:22:36.335641-04:00.lighthouse.json) |
 | [August 12 at 5:33 AM](https://archive.org/download/ctmirror-2022/ctmirror-2022-08-12T05:33:11.994219-04:00.lighthouse.json) |
-| [August 11 at 10:04 PM](https://archive.org/download/ctmirror-2022/ctmirror-2022-08-11T22:04:24.343739-04:00.lighthouse.json) |
 
 
 

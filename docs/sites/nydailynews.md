@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 89 screenshots with the Internet Archive.
+The archiving routine has saved 91 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -114,6 +114,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-08-16T20:08:59.997042-04:00.jpg">
+  <img src="https://archive.org/download/nydailynews-2022/nydailynews-2022-08-16T20:08:59.997042-04:00.jpg"
+     alt="Daily News at 2022-08-16 20:09:05-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-08-16T20:08:59.997042-04:00.jpg">August 16 at 8:09 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-08-16T10:05:29.314747-04:00.jpg">
+  <img src="https://archive.org/download/nydailynews-2022/nydailynews-2022-08-16T10:05:29.314747-04:00.jpg"
+     alt="Daily News at 2022-08-16 10:05:31-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-08-16T10:05:29.314747-04:00.jpg">August 16 at 10:05 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-08-15T21:40:33.025905-04:00.jpg">
   <img src="https://archive.org/download/nydailynews-2022/nydailynews-2022-08-15T21:40:33.025905-04:00.jpg"
      alt="Daily News at 2022-08-15 21:40:34-04:00 local time"
@@ -203,29 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-08-11T09:45:02.886696-04:00.jpg">August 11 at 9:45 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-08-10T20:55:54.134593-04:00.jpg">
-  <img src="https://archive.org/download/nydailynews-2022/nydailynews-2022-08-10T20:55:54.134593-04:00.jpg"
-     alt="Daily News at 2022-08-10 20:55:58-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-08-10T20:55:54.134593-04:00.jpg">August 10 at 8:55 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-08-10T09:13:56.662677-04:00.jpg">
-  <img src="https://archive.org/download/nydailynews-2022/nydailynews-2022-08-10T09:13:56.662677-04:00.jpg"
-     alt="Daily News at 2022-08-10 09:13:57-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nydailynews-2022/nydailynews-2022-08-10T09:13:56.662677-04:00.jpg">August 10 at 9:13 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 81 hyperlink lists with the Internet Archive.
+The archiving routine has saved 83 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 16 at 8:09 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-08-16T20:08:59.997042-04:00.hyperlinks.json) |
+| [August 16 at 10:05 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-08-16T10:05:29.314747-04:00.hyperlinks.json) |
 | [August 15 at 9:40 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-08-15T21:40:33.025905-04:00.hyperlinks.json) |
 | [August 15 at 10:23 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-08-15T10:22:54.982471-04:00.hyperlinks.json) |
 | [August 14 at 9:25 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-08-14T21:25:18.263908-04:00.hyperlinks.json) |
@@ -324,13 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 13 at 9:15 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-08-13T09:15:48.714149-04:00.hyperlinks.json) |
 | [August 12 at 8:46 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-08-12T20:46:49.083891-04:00.hyperlinks.json) |
 | [August 12 at 9:27 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-08-12T09:27:50.045169-04:00.hyperlinks.json) |
-| [August 12 at 5:22 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-08-12T05:22:19.164700-04:00.hyperlinks.json) |
-| [August 11 at 9:45 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-08-11T09:45:02.886696-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 89 accessibility trees with the Internet Archive.
+The archiving routine has saved 91 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 16 at 8:09 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-08-16T20:08:59.997042-04:00.accessibility.json) |
+| [August 16 at 10:05 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-08-16T10:05:29.314747-04:00.accessibility.json) |
 | [August 15 at 9:40 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-08-15T21:40:33.025905-04:00.accessibility.json) |
 | [August 15 at 10:22 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-08-15T10:22:54.982471-04:00.accessibility.json) |
 | [August 14 at 9:25 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-08-14T21:25:18.263908-04:00.accessibility.json) |
@@ -429,14 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 13 at 9:15 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-08-13T09:15:48.714149-04:00.accessibility.json) |
 | [August 12 at 8:46 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-08-12T20:46:49.083891-04:00.accessibility.json) |
 | [August 12 at 9:27 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-08-12T09:27:50.045169-04:00.accessibility.json) |
-| [August 12 at 5:22 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-08-12T05:22:19.164700-04:00.accessibility.json) |
-| [August 11 at 9:45 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-08-11T09:45:02.886696-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 47 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 49 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 16 at 8:09 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-08-16T20:08:59.997042-04:00.lighthouse.json) |
+| [August 16 at 10:05 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-08-16T10:05:29.314747-04:00.lighthouse.json) |
 | [August 15 at 9:40 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-08-15T21:40:33.025905-04:00.lighthouse.json) |
 | [August 15 at 10:23 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-08-15T10:22:54.982471-04:00.lighthouse.json) |
 | [August 14 at 9:25 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-08-14T21:25:18.263908-04:00.lighthouse.json) |
@@ -535,8 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 13 at 9:15 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-08-13T09:15:48.714149-04:00.lighthouse.json) |
 | [August 12 at 8:46 PM](https://archive.org/download/nydailynews-2022/nydailynews-2022-08-12T20:46:49.083891-04:00.lighthouse.json) |
 | [August 12 at 9:27 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-08-12T09:27:50.045169-04:00.lighthouse.json) |
-| [August 12 at 5:22 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-08-12T05:22:19.164700-04:00.lighthouse.json) |
-| [August 11 at 9:45 AM](https://archive.org/download/nydailynews-2022/nydailynews-2022-08-11T09:45:02.886696-04:00.lighthouse.json) |
 
 
 

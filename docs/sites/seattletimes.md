@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 85 screenshots with the Internet Archive.
+The archiving routine has saved 86 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 85 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-08-16T11:45:32.365313-07:00.jpg">
+  <img src="https://archive.org/download/seattletimes-2022/seattletimes-2022-08-16T11:45:32.365313-07:00.jpg"
+     alt="Seattle Times at 2022-08-16 11:45:37-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-08-16T11:45:32.365313-07:00.jpg">August 16 at 11:45 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-08-15T23:51:33.151409-07:00.jpg">
@@ -212,20 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-08-10T22:24:53.008390-07:00.jpg">August 10 at 10:24 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-08-09T22:31:05.570585-07:00.jpg">
-  <img src="https://archive.org/download/seattletimes-2022/seattletimes-2022-08-09T22:31:05.570585-07:00.jpg"
-     alt="Seattle Times at 2022-08-09 22:31:07-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/seattletimes-2022/seattletimes-2022-08-09T22:31:05.570585-07:00.jpg">August 9 at 10:31 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 86 hyperlink lists with the Internet Archive.
+The archiving routine has saved 87 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 16 at 11:45 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-08-16T11:45:32.365313-07:00.hyperlinks.json) |
 | [August 15 at 11:51 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-08-15T23:51:33.151409-07:00.hyperlinks.json) |
 | [August 15 at 1:12 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-08-15T13:12:28.184211-07:00.hyperlinks.json) |
 | [August 14 at 11:44 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-08-14T23:44:09.149048-07:00.hyperlinks.json) |
@@ -325,12 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 10:11 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-08-12T22:11:35.547003-07:00.hyperlinks.json) |
 | [August 12 at 11:24 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-08-12T11:24:21.437740-07:00.hyperlinks.json) |
 | [August 12 at 2:45 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-08-12T02:45:16.933003-07:00.hyperlinks.json) |
-| [August 11 at 11:55 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-08-11T11:54:57.375176-07:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 86 accessibility trees with the Internet Archive.
+The archiving routine has saved 87 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 16 at 11:45 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-08-16T11:45:32.365313-07:00.accessibility.json) |
 | [August 15 at 11:51 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-08-15T23:51:33.151409-07:00.accessibility.json) |
 | [August 15 at 1:12 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-08-15T13:12:28.184211-07:00.accessibility.json) |
 | [August 14 at 11:44 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-08-14T23:44:09.149048-07:00.accessibility.json) |
@@ -430,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 10:11 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-08-12T22:11:35.547003-07:00.accessibility.json) |
 | [August 12 at 11:24 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-08-12T11:24:21.437740-07:00.accessibility.json) |
 | [August 12 at 2:45 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-08-12T02:45:16.933003-07:00.accessibility.json) |
-| [August 11 at 11:55 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-08-11T11:54:57.375176-07:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 47 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 48 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 16 at 11:45 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-08-16T11:45:32.365313-07:00.lighthouse.json) |
 | [August 15 at 11:51 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-08-15T23:51:33.151409-07:00.lighthouse.json) |
 | [August 15 at 1:12 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-08-15T13:12:28.184211-07:00.lighthouse.json) |
 | [August 14 at 11:44 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-08-14T23:44:09.149048-07:00.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 12 at 10:11 PM](https://archive.org/download/seattletimes-2022/seattletimes-2022-08-12T22:11:35.547003-07:00.lighthouse.json) |
 | [August 12 at 11:24 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-08-12T11:24:21.437740-07:00.lighthouse.json) |
 | [August 12 at 2:45 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-08-12T02:45:16.933003-07:00.lighthouse.json) |
-| [August 11 at 11:55 AM](https://archive.org/download/seattletimes-2022/seattletimes-2022-08-11T11:54:57.375176-07:00.lighthouse.json) |
 
 
 

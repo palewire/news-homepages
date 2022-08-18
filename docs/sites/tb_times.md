@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 42 screenshots with the Internet Archive.
+The archiving routine has saved 43 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 42 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-16T14:47:17.556915-04:00.jpg">
+  <img src="https://archive.org/download/tb_times-2022/tb_times-2022-08-16T14:47:17.556915-04:00.jpg"
+     alt="Tampa Bay Times at 2022-08-16 14:47:19-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-16T14:47:17.556915-04:00.jpg">August 16 at 2:47 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-16T02:52:58.640068-04:00.jpg">
@@ -212,20 +221,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-11T01:26:33.447117-04:00.jpg">August 11 at 1:26 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-10T01:32:41.632190-04:00.jpg">
-  <img src="https://archive.org/download/tb_times-2022/tb_times-2022-08-10T01:32:41.632190-04:00.jpg"
-     alt="Tampa Bay Times at 2022-08-10 01:32:44-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-10T01:32:41.632190-04:00.jpg">August 10 at 1:32 AM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
 
-The archiving routine has saved 42 hyperlink lists with the Internet Archive.
+The archiving routine has saved 43 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -316,6 +316,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 16 at 2:47 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-16T14:47:17.556915-04:00.hyperlinks.json) |
 | [August 16 at 2:53 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-16T02:52:58.640068-04:00.hyperlinks.json) |
 | [August 15 at 4:16 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-15T16:15:53.479796-04:00.hyperlinks.json) |
 | [August 15 at 2:46 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-15T02:46:48.069941-04:00.hyperlinks.json) |
@@ -325,12 +326,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 13 at 1:13 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-13T01:13:09.131226-04:00.hyperlinks.json) |
 | [August 12 at 2:26 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-12T14:26:00.430866-04:00.hyperlinks.json) |
 | [August 12 at 5:47 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-12T05:47:00.548959-04:00.hyperlinks.json) |
-| [August 11 at 2:56 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-11T14:56:49.567327-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 43 accessibility trees with the Internet Archive.
+The archiving routine has saved 44 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -421,6 +421,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 16 at 2:47 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-16T14:47:17.556915-04:00.accessibility.json) |
 | [August 16 at 2:53 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-16T02:52:58.640068-04:00.accessibility.json) |
 | [August 15 at 4:15 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-15T16:15:53.479796-04:00.accessibility.json) |
 | [August 15 at 2:46 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-15T02:46:48.069941-04:00.accessibility.json) |
@@ -430,13 +431,12 @@ Here are the 10 most recent accessibility trees.
 | [August 13 at 1:13 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-13T01:13:09.131226-04:00.accessibility.json) |
 | [August 12 at 2:26 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-12T14:26:00.430866-04:00.accessibility.json) |
 | [August 12 at 5:47 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-12T05:47:00.548959-04:00.accessibility.json) |
-| [August 11 at 2:56 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-11T14:56:49.567327-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 43 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 44 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 16 at 2:47 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-16T14:47:17.556915-04:00.lighthouse.json) |
 | [August 16 at 2:53 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-16T02:52:58.640068-04:00.lighthouse.json) |
 | [August 15 at 4:16 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-15T16:15:53.479796-04:00.lighthouse.json) |
 | [August 15 at 2:46 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-15T02:46:48.069941-04:00.lighthouse.json) |
@@ -536,7 +537,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 13 at 1:13 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-13T01:13:09.131226-04:00.lighthouse.json) |
 | [August 12 at 2:26 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-12T14:26:00.430866-04:00.lighthouse.json) |
 | [August 12 at 5:47 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-12T05:47:00.548959-04:00.lighthouse.json) |
-| [August 11 at 2:56 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-11T14:56:49.567327-04:00.lighthouse.json) |
 
 
 

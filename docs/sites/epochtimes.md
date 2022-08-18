@@ -22,13 +22,22 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 10 screenshots with the Internet Archive.
+The archiving routine has saved 11 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-16T19:04:53.006593-04:00.jpg">
+  <img src="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-16T19:04:53.006593-04:00.jpg"
+     alt="Epoch Times at 2022-08-16 19:04:54-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-16T19:04:53.006593-04:00.jpg">August 16 at 7:04 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/epochtimes-2022/epochtimes-2022-08-16T09:36:14.850869-04:00.jpg">
@@ -124,7 +133,7 @@ Here are the 12 most recent screenshots.
 
 ## Hyperlinks
 
-The archiving routine has saved 10 hyperlink lists with the Internet Archive.
+The archiving routine has saved 11 hyperlink lists with the Internet Archive.
 
 
 
@@ -132,6 +141,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 16 at 7:04 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-16T19:04:53.006593-04:00.hyperlinks.json) |
 | [August 16 at 9:36 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-16T09:36:14.850869-04:00.hyperlinks.json) |
 | [August 15 at 9:23 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-15T21:23:37.868573-04:00.hyperlinks.json) |
 | [August 15 at 4:54 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-15T16:54:52.999425-04:00.hyperlinks.json) |
@@ -141,12 +151,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 14 at 9:33 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-14T09:33:07.378902-04:00.hyperlinks.json) |
 | [August 13 at 7:54 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-13T19:54:26.930823-04:00.hyperlinks.json) |
 | [August 13 at 5:28 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-13T17:28:14.044220-04:00.hyperlinks.json) |
-| [August 13 at 8:58 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-13T08:58:25.613628-04:00.hyperlinks.json) |
 
 
 ## Accessibility
 
-The archiving routine has saved 10 accessibility trees with the Internet Archive.
+The archiving routine has saved 11 accessibility trees with the Internet Archive.
 
 
 
@@ -154,6 +163,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 16 at 7:04 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-16T19:04:53.006593-04:00.accessibility.json) |
 | [August 16 at 9:36 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-16T09:36:14.850869-04:00.accessibility.json) |
 | [August 15 at 9:23 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-15T21:23:37.868573-04:00.accessibility.json) |
 | [August 15 at 4:54 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-15T16:54:52.999425-04:00.accessibility.json) |
@@ -163,13 +173,12 @@ Here are the 10 most recent accessibility trees.
 | [August 14 at 9:33 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-14T09:33:07.378902-04:00.accessibility.json) |
 | [August 13 at 7:54 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-13T19:54:26.930823-04:00.accessibility.json) |
 | [August 13 at 5:28 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-13T17:28:14.044220-04:00.accessibility.json) |
-| [August 13 at 8:58 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-13T08:58:25.613628-04:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 10 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
 
 
 
@@ -177,6 +186,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 16 at 7:05 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-16T19:04:53.006593-04:00.lighthouse.json) |
 | [August 16 at 9:36 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-16T09:36:14.850869-04:00.lighthouse.json) |
 | [August 15 at 9:23 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-15T21:23:37.868573-04:00.lighthouse.json) |
 | [August 15 at 4:55 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-15T16:54:52.999425-04:00.lighthouse.json) |
@@ -186,7 +196,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 14 at 9:33 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-14T09:33:07.378902-04:00.lighthouse.json) |
 | [August 13 at 7:54 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-13T19:54:26.930823-04:00.lighthouse.json) |
 | [August 13 at 5:28 PM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-13T17:28:14.044220-04:00.lighthouse.json) |
-| [August 13 at 8:58 AM](https://archive.org/download/epochtimes-2022/epochtimes-2022-08-13T08:58:25.613628-04:00.lighthouse.json) |
 
 
 

@@ -22,7 +22,7 @@ orphan: true
 
 ## Screenshots
 
-The archiving routine has saved 36 screenshots with the Internet Archive.
+The archiving routine has saved 37 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -112,6 +112,15 @@ The archiving routine has saved 36 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-08-16T17:58:39.318936-05:00.jpg">
+  <img src="https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-08-16T17:58:39.318936-05:00.jpg"
+     alt="KMTV 3 News Now at 2022-08-16 17:58:40-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-08-16T17:58:39.318936-05:00.jpg">August 16 at 5:58 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-08-16T08:24:38.962631-05:00.jpg">
@@ -212,15 +221,6 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-08-11T06:29:29.403329-05:00.jpg">August 11 at 6:29 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-08-10T19:34:15.452763-05:00.jpg">
-  <img src="https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-08-10T19:34:15.452763-05:00.jpg"
-     alt="KMTV 3 News Now at 2022-08-10 19:34:17-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-08-10T19:34:15.452763-05:00.jpg">August 10 at 7:34 PM</a></p>
-</div>
-
 </div>
 
 ## Hyperlinks
@@ -247,7 +247,7 @@ Here are the 10 most recent hyperlink lists.
 
 ## Accessibility
 
-The archiving routine has saved 25 accessibility trees with the Internet Archive.
+The archiving routine has saved 26 accessibility trees with the Internet Archive.
 
 
 
@@ -255,6 +255,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 16 at 5:58 PM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-08-16T17:58:39.318936-05:00.accessibility.json) |
 | [August 16 at 8:24 AM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-08-16T08:24:38.962631-05:00.accessibility.json) |
 | [August 15 at 8:11 PM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-08-15T20:11:44.318631-05:00.accessibility.json) |
 | [August 14 at 7:57 PM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-08-14T19:57:02.964056-05:00.accessibility.json) |
@@ -264,13 +265,12 @@ Here are the 10 most recent accessibility trees.
 | [August 11 at 6:15 PM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-08-11T18:15:55.788638-05:00.accessibility.json) |
 | [August 11 at 6:29 AM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-08-11T06:29:29.403329-05:00.accessibility.json) |
 | [August 10 at 7:50 AM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-08-10T07:50:29.024029-05:00.accessibility.json) |
-| [August 9 at 6:18 PM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-08-09T18:17:59.822679-05:00.accessibility.json) |
 
 
 
 ## Lighthouse
 
-The archiving routine has saved 36 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 37 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -361,6 +361,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 16 at 5:58 PM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-08-16T17:58:39.318936-05:00.lighthouse.json) |
 | [August 16 at 8:24 AM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-08-16T08:24:38.962631-05:00.lighthouse.json) |
 | [August 15 at 8:11 PM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-08-15T20:11:44.318631-05:00.lighthouse.json) |
 | [August 15 at 8:45 AM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-08-15T08:45:03.681514-05:00.lighthouse.json) |
@@ -370,7 +371,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 13 at 7:48 AM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-08-13T07:48:34.443011-05:00.lighthouse.json) |
 | [August 12 at 7:23 PM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-08-12T19:23:31.028292-05:00.lighthouse.json) |
 | [August 12 at 6:33 AM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-08-12T06:33:07.001500-05:00.lighthouse.json) |
-| [August 11 at 6:16 PM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-08-11T18:15:55.788638-05:00.lighthouse.json) |
 
 
 
