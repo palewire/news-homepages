@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 17 times over the last seven days. Scores of 90 or greater are considered good. Score of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 17 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -163,7 +163,7 @@ This site was analyzed 17 times over the last seven days. Scores of 90 or greate
     vegaEmbed("#vis--lighthouse-analysis", lighthouseAnalysisSpec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
   </script>
 
-The median score for each category, along with how it ranks in comparison to the rest of the archive. is reported below.
+The median score for each category, along with how it ranks in comparison to the rest of the archive, is reported below.
 
 <table class="colwidths-auto docutils align-default">
  <thead>
@@ -183,7 +183,7 @@ The median score for each category, along with how it ranks in comparison to the
         61
     </td>
     <td style="text-align: right;">
-        750.0
+        750
     </td>
   </tr>
 
@@ -195,7 +195,7 @@ The median score for each category, along with how it ranks in comparison to the
         75
     </td>
     <td style="text-align: right;">
-        582.0
+        582
     </td>
   </tr>
 
@@ -207,7 +207,7 @@ The median score for each category, along with how it ranks in comparison to the
         24
     </td>
     <td style="text-align: right;">
-        462.0
+        462
     </td>
   </tr>
 
@@ -219,7 +219,7 @@ The median score for each category, along with how it ranks in comparison to the
         84
     </td>
     <td style="text-align: right;">
-        495.0
+        495
     </td>
   </tr>
 
