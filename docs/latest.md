@@ -3,7 +3,7 @@
 
 # Latest screenshots
 
-The most recent homepages captured from 816 news sites.
+The most recent homepages captured from 821 news sites.
 
 <div class="latest-parent">
 
@@ -4049,6 +4049,15 @@ The most recent homepages captured from 816 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/lrb.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lrb.jpg"
+     alt="London Review of Books"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/lrb.html">London Review of Books</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/lookoutscruz.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lookoutscruz.jpg"
      alt="Lookout Santa Cruz"
@@ -4217,6 +4226,15 @@ The most recent homepages captured from 816 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/meduzaproject.html">Meduza</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/themendovoice.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/themendovoice.jpg"
+     alt="Mendoncino Voice"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/themendovoice.html">Mendoncino Voice</a></p>
 </div>
 
 <div class="latest-child">
@@ -4625,6 +4643,15 @@ The most recent homepages captured from 816 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/newstatesman.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newstatesman.jpg"
+     alt="New Statesman"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/newstatesman.html">New Statesman</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/nymag.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nymag.jpg"
      alt="New York"
@@ -4937,6 +4964,15 @@ The most recent homepages captured from 816 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/theoklahoman_.html">Oklahoman</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/oldiemagazine.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/oldiemagazine.jpg"
+     alt="Oldie"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/oldiemagazine.html">Oldie</a></p>
 </div>
 
 <div class="latest-child">
@@ -6476,6 +6512,15 @@ The most recent homepages captured from 816 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/thetriibe.html">The TriiBE</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/theweek.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theweek.jpg"
+     alt="The Week"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/theweek.html">The Week</a></p>
 </div>
 
 <div class="latest-child">
