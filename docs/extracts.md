@@ -196,6 +196,8 @@ Field | Description
 `best_practices_color` | The classification of the median result using Lighthouse's three tier system. 0 to 49 is red. 50 to 89 is orange. 90 to 100 is green.
 `performance_rank` | The site's ranking when sorted by `performance_median`
 `accessibility_rank` | The site's ranking when sorted by `accessibility_median`
+`seo_rank` | The site's ranking when sorted by `seo_median`
+`best_practices_rank` | The site's ranking when sorted by `best_practices_median`
 
 ## wayback-files.csv
 

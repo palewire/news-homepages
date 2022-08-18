@@ -78,6 +78,10 @@ def lighthouse():
     flat_df["accessibility_rank"] = flat_df.accessibility_median.rank(
         ascending=False, method="min"
     )
+    flat_df["seo_rank"] = flat_df.seo_median.rank(ascending=False, method="min")
+    flat_df["best_practices_rank"] = flat_df.best_practices_median.rank(
+        ascending=False, method="min"
+    )
 
     # Write the results
     output_path = utils.EXTRACT_DIR / "csv" / "lighthouse-analysis.csv"
