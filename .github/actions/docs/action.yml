@@ -48,7 +48,7 @@ runs:
       run: pipenv run python -m newshomepages.docs site-detail;
       shell: bash
 
-    - id: site-detail-screenshot-chart
+    - id: site-detail-lighthouse-analysis-chart
       name: Update site detail lighthouse analysis
       run: pipenv run python -m newshomepages.docs site-detail-lighthouse-analysis-chart;
       shell: bash
