@@ -25,13 +25,16 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 14 times over the last seven days. The median score for each category is reported below. Scores of 90 or greater are considered good. Score of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 14 times over the last seven days. Scores of 90 or greater are considered good. Score of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+
+The median score for each category, along with how it ranks in comparison to the rest of the archive. is reported below.
 
 <table class="colwidths-auto docutils align-default">
  <thead>
   <tr>
     <th class="head">Metric</th>
     <th class="head" style="text-align: right;">Score</th>
+    <th class="head" style="text-align: right;">Rank</th>
   </tr>
  </thead>
  <tbody>
@@ -43,6 +46,9 @@ This site was analyzed 14 times over the last seven days. The median score for e
     <td style="text-align: right; background-color: red; color: white;">
         47
     </td>
+    <td style="text-align: right;">
+        195.0
+    </td>
   </tr>
 
   <tr>
@@ -51,6 +57,9 @@ This site was analyzed 14 times over the last seven days. The median score for e
     </td>
     <td style="text-align: right; background-color: green; color: white;">
         94
+    </td>
+    <td style="text-align: right;">
+        128.0
     </td>
   </tr>
 
@@ -61,6 +70,9 @@ This site was analyzed 14 times over the last seven days. The median score for e
     <td style="text-align: right; background-color: orange; color: white;">
         76
     </td>
+    <td style="text-align: right;">
+        
+    </td>
   </tr>
 
   <tr>
@@ -69,6 +81,9 @@ This site was analyzed 14 times over the last seven days. The median score for e
     </td>
     <td style="text-align: right; background-color: green; color: white;">
         92
+    </td>
+    <td style="text-align: right;">
+        
     </td>
   </tr>
 
