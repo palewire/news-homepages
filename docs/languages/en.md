@@ -7,7 +7,7 @@ orphan: true
 
 # English
 
-The most recent homepages from 635 news sites in this language.
+The most recent homepages from 640 news sites in this language.
 
 <div class="latest-parent">
 
@@ -3081,6 +3081,15 @@ The most recent homepages from 635 news sites in this language.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/lrb.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lrb.jpg"
+     alt="London Review of Books"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/lrb.html">London Review of Books</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/lookoutscruz.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lookoutscruz.jpg"
      alt="Lookout Santa Cruz"
@@ -3204,6 +3213,15 @@ The most recent homepages from 635 news sites in this language.
      loading="lazy">
  </a>
  <p><a href="../sites/mmfa.html">Media Matters</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/themendovoice.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/themendovoice.jpg"
+     alt="Mendoncino Voice"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/themendovoice.html">Mendoncino Voice</a></p>
 </div>
 
 <div class="latest-child">
@@ -3540,6 +3558,15 @@ The most recent homepages from 635 news sites in this language.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/newstatesman.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newstatesman.jpg"
+     alt="New Statesman"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/newstatesman.html">New Statesman</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/nymag.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nymag.jpg"
      alt="New York"
@@ -3771,6 +3798,15 @@ The most recent homepages from 635 news sites in this language.
      loading="lazy">
  </a>
  <p><a href="../sites/theoklahoman_.html">Oklahoman</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/oldiemagazine.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/oldiemagazine.jpg"
+     alt="Oldie"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/oldiemagazine.html">Oldie</a></p>
 </div>
 
 <div class="latest-child">
@@ -4998,6 +5034,15 @@ The most recent homepages from 635 news sites in this language.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/theweek.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theweek.jpg"
+     alt="The Week"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/theweek.html">The Week</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/toacornnews.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/toacornnews.jpg"
      alt="Thousand Oaks Acorn"
@@ -6079,6 +6124,7 @@ The most recent homepages from 635 news sites in this language.
 |[Little Green Footballs](https://palewi.re/docs/news-homepages/sites/green_footballs.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/green_footballs.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/green_footballs.xml)|
 |[Little Village](https://palewi.re/docs/news-homepages/sites/littlevillage.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/littlevillage.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/littlevillage.xml)|
 |[Local News Matters](https://palewi.re/docs/news-homepages/sites/bcn_foundation.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/bcn_foundation.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/bcn_foundation.xml)|
+|[London Review of Books](https://palewi.re/docs/news-homepages/sites/lrb.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lrb.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lrb.xml)|
 |[Lookout Santa Cruz](https://palewi.re/docs/news-homepages/sites/lookoutscruz.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lookoutscruz.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lookoutscruz.xml)|
 |[Los Angeles Sentinel](https://palewi.re/docs/news-homepages/sites/thelasentinel.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thelasentinel.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thelasentinel.xml)|
 |[Los Angeles Times](https://palewi.re/docs/news-homepages/sites/latimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/latimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/latimes.xml)|
@@ -6093,6 +6139,7 @@ The most recent homepages from 635 news sites in this language.
 |[Mashable](https://palewi.re/docs/news-homepages/sites/mashable.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mashable.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mashable.xml)|
 |[McGill Daily](https://palewi.re/docs/news-homepages/sites/mcgilldaily.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mcgilldaily.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mcgilldaily.xml)|
 |[Media Matters](https://palewi.re/docs/news-homepages/sites/mmfa.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mmfa.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mmfa.xml)|
+|[Mendoncino Voice](https://palewi.re/docs/news-homepages/sites/themendovoice.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/themendovoice.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/themendovoice.xml)|
 |[Mercury News](https://palewi.re/docs/news-homepages/sites/mercnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mercnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mercnews.xml)|
 |[mi wisconsin](https://palewi.re/docs/news-homepages/sites/miwisconsin.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/miwisconsin.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/miwisconsin.xml)|
 |[Miami Herald](https://palewi.re/docs/news-homepages/sites/miamiherald.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/miamiherald.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/miamiherald.xml)|
@@ -6130,6 +6177,7 @@ The most recent homepages from 635 news sites in this language.
 |[New Hampshire Public Radio](https://palewi.re/docs/news-homepages/sites/nhpr.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nhpr.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nhpr.xml)|
 |[New Republic](https://palewi.re/docs/news-homepages/sites/newrepublic.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newrepublic.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/newrepublic.xml)|
 |[New Scientist](https://palewi.re/docs/news-homepages/sites/newscientist.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newscientist.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/newscientist.xml)|
+|[New Statesman](https://palewi.re/docs/news-homepages/sites/newstatesman.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/newstatesman.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/newstatesman.xml)|
 |[New York](https://palewi.re/docs/news-homepages/sites/nymag.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nymag.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nymag.xml)|
 |[New York Focus](https://palewi.re/docs/news-homepages/sites/nysfocus.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nysfocus.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nysfocus.xml)|
 |[New York Post](https://palewi.re/docs/news-homepages/sites/nypost.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nypost.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nypost.xml)|
@@ -6156,6 +6204,7 @@ The most recent homepages from 635 news sites in this language.
 |[okayplayer](https://palewi.re/docs/news-homepages/sites/okayplayer.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/okayplayer.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/okayplayer.xml)|
 |[Oklahoma Watch](https://palewi.re/docs/news-homepages/sites/oklahomawatch.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/oklahomawatch.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/oklahomawatch.xml)|
 |[Oklahoman](https://palewi.re/docs/news-homepages/sites/theoklahoman_.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theoklahoman_.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theoklahoman_.xml)|
+|[Oldie](https://palewi.re/docs/news-homepages/sites/oldiemagazine.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/oldiemagazine.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/oldiemagazine.xml)|
 |[Omaha World Herald](https://palewi.re/docs/news-homepages/sites/owhnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/owhnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/owhnews.xml)|
 |[One America News Network](https://palewi.re/docs/news-homepages/sites/oann.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/oann.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/oann.xml)|
 |[Onion](https://palewi.re/docs/news-homepages/sites/theonion.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theonion.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theonion.xml)|
@@ -6292,6 +6341,7 @@ The most recent homepages from 635 news sites in this language.
 |[The Times](https://palewi.re/docs/news-homepages/sites/thetimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thetimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thetimes.xml)|
 |[The Times-Enterprise](https://palewi.re/docs/news-homepages/sites/timesenterprise.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/timesenterprise.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/timesenterprise.xml)|
 |[The TriiBE](https://palewi.re/docs/news-homepages/sites/thetriibe.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thetriibe.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thetriibe.xml)|
+|[The Week](https://palewi.re/docs/news-homepages/sites/theweek.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theweek.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theweek.xml)|
 |[Thousand Oaks Acorn](https://palewi.re/docs/news-homepages/sites/toacornnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/toacornnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/toacornnews.xml)|
 |[Tifton Gazette](https://palewi.re/docs/news-homepages/sites/tiftongazette1.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/tiftongazette1.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/tiftongazette1.xml)|
 |[TIME](https://palewi.re/docs/news-homepages/sites/time.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/time.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/time.xml)|
