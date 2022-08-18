@@ -5,7 +5,7 @@ orphan: true
 ```{include} ../_templates/nav.html
 ```
 
-# Politifact
+# Politifact 
 
 ![Politifact ](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/politifact.jpg)
 
@@ -77,6 +77,8 @@ This site was analyzed 13 times over the last seven days. The median score for e
 
 
 ## Artifacts
+
+Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 

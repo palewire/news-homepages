@@ -24,6 +24,8 @@ orphan: true
 
 ## Artifacts
 
+Assets gathered by our system and stored in the Internet Archive
+
 ### Screenshots
 
 The archiving routine has saved 38 screenshots with the Internet Archive.
