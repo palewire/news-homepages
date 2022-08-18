@@ -25,12 +25,16 @@ def lighthouse():
             "date",
             "performance",
             "accessibility",
+            "seo",
+            "best_practices",
         ],
         dtype={
             "handle": str,
             "file_name": str,
             "performance": float,
             "accessibility": float,
+            "seo": float,
+            "best_practices": float,
         },
         parse_dates=["date"],
     )
@@ -52,6 +56,8 @@ def lighthouse():
         {
             "performance": ["count", "median", "mean", "min", "max", "std"],
             "accessibility": ["count", "median", "mean", "min", "max", "std"],
+            "seo": ["count", "median", "mean", "min", "max", "std"],
+            "best_practices": ["count", "median", "mean", "min", "max", "std"],
         }
     )
 
@@ -62,6 +68,8 @@ def lighthouse():
     # Classify scores
     flat_df["performance_color"] = flat_df.performance_median.apply(_color_code)
     flat_df["accessibility_color"] = flat_df.accessibility_median.apply(_color_code)
+    flat_df["seo_color"] = flat_df.seo_median.apply(_color_code)
+    flat_df["best_practices_color"] = flat_df.best_practices_median.apply(_color_code)
 
     # Rank scores
     flat_df["performance_rank"] = flat_df.performance_median.rank(

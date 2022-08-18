@@ -178,8 +178,22 @@ Field | Description
 `accessibility_min` | The lowest accessibility metric score
 `accessibility_max` | The highest accessibility metric score
 `accessibility_std` | The standard deviation of accessibility metrics
+`seo_count` | The number of Lighthouse search-engine optimization metric observations
+`seo_median` | The median search-engine optimization metric score
+`seo_mean` | The average search-engine optimization metric score
+`seo_min` | The lowest search-engine optimization metric score
+`seo_max` | The highest search-engine optimization metric score
+`seo_std` | The standard deviation of search-engine optimization metrics
+`seo_count` | The number of Lighthouse search-engine optimization metric observations
+`best_practices_median` | The median best practices metric score
+`best_practices_mean` | The average best practices metric score
+`best_practices_min` | The lowest best practices metric score
+`best_practices_max` | The highest best practices metric score
+`best_practices_std` | The standard deviation of best practices metrics
 `performance_color` | The classification of the median result using Lighthouse's three tier system. 0 to 49 is red. 50 to 89 is orange. 90 to 100 is green.
 `accessibility_color` | The classification of the median result using Lighthouse's three tier system. 0 to 49 is red. 50 to 89 is orange. 90 to 100 is green.
+`seo_color` | The classification of the median result using Lighthouse's three tier system. 0 to 49 is red. 50 to 89 is orange. 90 to 100 is green.
+`best_practices_color` | The classification of the median result using Lighthouse's three tier system. 0 to 49 is red. 50 to 89 is orange. 90 to 100 is green.
 `performance_rank` | The site's ranking when sorted by `performance_median`
 `accessibility_rank` | The site's ranking when sorted by `accessibility_median`
 
