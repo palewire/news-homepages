@@ -5,7 +5,7 @@
 
 As part of its archiving routine, our system conducts routine accessibility audits using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. [Accessibility](https://web.dev/what-is-accessibility/) is a measurement of how legible and useful a page is for users, including those with disabilities like visual impairment.
 
-This page ranks the 774 sites with 10 or more observations over the last seven days by median [accessibility score](https://web.dev/lighthouse-accessibility/). The value is the weighted average of a basket of metrics gathered by Lighthouse. Scores of 90 or greater are considered good. Score of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This page ranks the 774 sites with 10 or more observations over the last seven days by median [accessibility score](https://web.dev/lighthouse-accessibility/). The value is the weighted average of a basket of metrics gathered by Lighthouse. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <table class="colwidths-auto docutils align-default">
  <thead>
