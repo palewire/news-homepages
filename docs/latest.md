@@ -3,7 +3,7 @@
 
 # Latest screenshots
 
-The most recent homepages captured from 817 news sites.
+The most recent homepages captured from 816 news sites.
 
 <div class="latest-parent">
 
@@ -3704,15 +3704,6 @@ The most recent homepages captured from 817 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/lataco.html">L.A. Taco</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/lajornada.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lajornada.jpg"
-     alt="La Jornada"
-     loading="lazy">
- </a>
- <p><a href="./sites/lajornada.html">La Jornada</a></p>
 </div>
 
 <div class="latest-child">

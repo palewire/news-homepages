@@ -19,5 +19,5 @@ The archiving routine is currently saving sites in 14 languages.
 |[Norwegian](https://palewi.re/docs/news-homepages/languages/no.html)|8|
 |[Portuguese](https://palewi.re/docs/news-homepages/languages/pt.html)|36|
 |[Russian](https://palewi.re/docs/news-homepages/languages/ru.html)|7|
-|[Spanish](https://palewi.re/docs/news-homepages/languages/es.html)|45|
+|[Spanish](https://palewi.re/docs/news-homepages/languages/es.html)|44|
 |[Ukrainian](https://palewi.re/docs/news-homepages/languages/uk.html)|5|

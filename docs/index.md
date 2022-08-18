@@ -31,9 +31,11 @@ bundles
 
 ## About
 
-The archive at [homepages.news](https://homepages.news) is an [open-source software project](https://github.com/palewire/news-homepages) managed by [Ben Welsh](https://palewi.re/who-is-ben-welsh/). Each day it gathers screenshots, accessibility trees, hyperlink lists and Lighthouse audits from hundreds of news homepages around the world.
+The archive at [homepages.news](https://homepages.news) is an [open-source software project](https://github.com/palewire/news-homepages) managed by [Ben Welsh](https://palewi.re/who-is-ben-welsh/). Each day it gathers screenshots, accessibility trees, hyperlink lists and Lighthouse audits from hundreds of news homepages around the world. It also ensures that all sites are routinely saved by the [Wayback Machine at archive.org](https://web.archive.org/).
 
 The assets are archived in a permanent collection [at the Internet Archive](https://archive.org/details/news-homepages). The latest screenshots, analysis and data are published here, as well as on [Twitter](https://twitter.com/newshomepages), [Telegram](https://t.me/newshomepages) and [Discord](https://discord.gg/xkTMPMHM).
+
+The system supports the creation of bots to post a newsroom’s latest screenshots into a private Slack channel. [The tool](https://palewi.re/docs/news-homepages/slack.html) is used by organizations in the U.S. and abroad to save and share images each day.
 
 ## Contributing
 

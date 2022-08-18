@@ -1,8 +1,12 @@
 {
-  "created": 1660674731,
+  "created": 1660781419,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/6/items/eater-2022",
+  "eater-2022": {
+    "url": "https://www.eater.com/",
+    "job_id": "spn2-19a9c1d81bfec6e7491090e7f1007c2c9bc38d4d"
+  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -3972,31 +3976,155 @@
       "sha1": "4c7fc7f60b93b45040c2961afc8797883fea3bf7"
     },
     {
+      "name": "eater-2022-08-16T22:25:53.278093-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660703156",
+      "size": "30250",
+      "md5": "d01dc798a676704f8bdb50f162461a67",
+      "crc32": "074f6893",
+      "sha1": "aa29ed486906812dde338e55a18dceec4bd2bf8a",
+      "format": "JSON"
+    },
+    {
+      "name": "eater-2022-08-16T22:25:53.278093-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660703161",
+      "size": "45139",
+      "md5": "b7122880a07ee074f9df7a083fdb040b",
+      "crc32": "e323db60",
+      "sha1": "539cf8b115655b541ed0be3d7c3e6e4a43c5e076",
+      "format": "JSON"
+    },
+    {
+      "name": "eater-2022-08-16T22:25:53.278093-04:00.jpg",
+      "source": "original",
+      "mtime": "1660703154",
+      "size": "384122",
+      "md5": "952c5ac5a3629a2249ba08f682ae98f2",
+      "crc32": "2b2b509c",
+      "sha1": "820c036a1d5a445a7638d0909206e91e28d252c8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "eater-2022-08-16T22:25:53.278093-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660703164",
+      "size": "1447",
+      "md5": "fe4a387989d4bff4037f4ea7b84b9c09",
+      "crc32": "a577031a",
+      "sha1": "da3ccd63cddaa9bb02eb1e4f27f2d156e308f677",
+      "format": "JSON"
+    },
+    {
+      "name": "eater-2022-08-16T22:25:53.278093-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660703166",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "eater-2022-08-16T22:25:53.278093-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "eater-2022-08-16T22:25:53.278093-04:00.jpg",
+      "mtime": "1660703416",
+      "size": "11140",
+      "md5": "d4deae73c320578588dfdf4db3e77c3f",
+      "crc32": "f8f31cf6",
+      "sha1": "37b378e31b91faf5fdb67dbb4301f6b954abd4cb"
+    },
+    {
+      "name": "eater-2022-08-17T10:59:48.264747-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660748393",
+      "size": "30250",
+      "md5": "d01dc798a676704f8bdb50f162461a67",
+      "crc32": "074f6893",
+      "sha1": "aa29ed486906812dde338e55a18dceec4bd2bf8a",
+      "format": "JSON"
+    },
+    {
+      "name": "eater-2022-08-17T10:59:48.264747-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660748395",
+      "size": "45424",
+      "md5": "5899499ee09b23bac11e76f8d27fb3a8",
+      "crc32": "fe81b3c1",
+      "sha1": "ae00938b9c6a81137eb8fa00d02df0a534afbb16",
+      "format": "JSON"
+    },
+    {
+      "name": "eater-2022-08-17T10:59:48.264747-04:00.jpg",
+      "source": "original",
+      "mtime": "1660748391",
+      "size": "394273",
+      "md5": "5f2d3f2d0a6018663a47f1b1506fc455",
+      "crc32": "4a0c6213",
+      "sha1": "4ab6b7f4f9ab950f030a5ddfd3c50b704c621874",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "eater-2022-08-17T10:59:48.264747-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660748396",
+      "size": "1447",
+      "md5": "78937f91db5c3149fe44fa5c1f17113e",
+      "crc32": "7e9203d9",
+      "sha1": "b91e1a9edd9788b14996524c0e951cf678c2c3d4",
+      "format": "JSON"
+    },
+    {
+      "name": "eater-2022-08-17T10:59:48.264747-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660748399",
+      "size": "98",
+      "md5": "4e2c66f5b62d621caa48c38a04ddc282",
+      "crc32": "47a160c8",
+      "sha1": "cc6060a433f8d804e51580a5ac4cb28042edbbb5",
+      "format": "JSON"
+    },
+    {
+      "name": "eater-2022-08-17T10:59:48.264747-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "eater-2022-08-17T10:59:48.264747-04:00.jpg",
+      "mtime": "1660748672",
+      "size": "11560",
+      "md5": "9a1b0a9563b71c62eecdc00bac74a107",
+      "crc32": "161cd3c0",
+      "sha1": "a490cb7e78fcdca8c06534eacd5856f4fdeafcb0"
+    },
+    {
       "name": "eater-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7f69d7142a6ca50a8b330d30b5da7e4f63876b8b",
-      "mtime": "1660674585",
-      "size": "80711",
-      "md5": "ee219e75954a60f16386867b1bf9205f",
-      "crc32": "ef9faca0",
-      "sha1": "4f04a8eb79a220d56fc858f830bdf19de178a27b",
+      "btih": "9a1c667006a0414fb7ea806657916edabb52577d",
+      "mtime": "1660748700",
+      "size": "83206",
+      "md5": "4cb6c7d3e3a34e8f12618a252c277fce",
+      "crc32": "4cc5f631",
+      "sha1": "f1e84f72f75eb0e5b22880f28e18426361861d7c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "eater-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7ea86d0c2dc6c6ddcdd91fb8caddb04e",
+      "md5": "8e7e40787c633231490b239bbd9d965f",
       "summation": "md5"
     },
     {
       "name": "eater-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660674497",
-      "size": "479232",
-      "md5": "9a1acdc88223f486954eea70ec4b5fdf",
-      "crc32": "88c207c9",
-      "sha1": "e90f9b9efa83a495252bcd286a764b6630ef6781",
+      "mtime": "1660748406",
+      "size": "491520",
+      "md5": "f210a53f5982242f14d6ee5b459402de",
+      "crc32": "8ac72536",
+      "sha1": "3975723647582525fe3e85a441eddda2ab67c90d",
       "format": "Metadata"
     },
     {
@@ -4010,9 +4138,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 385,
-  "item_last_updated": 1660674585,
-  "item_size": 34529970,
+  "files_count": 397,
+  "item_last_updated": 1660748700,
+  "item_size": 35500105,
   "metadata": {
     "identifier": "eater-2022",
     "collection": [
@@ -4030,7 +4158,7 @@
     "addeddate": "2022-07-09 03:58:25"
   },
   "server": "ia801509.us.archive.org",
-  "uniq": 1428094742,
+  "uniq": 533803752,
   "workable_servers": [
     "ia801509.us.archive.org",
     "ia601509.us.archive.org"

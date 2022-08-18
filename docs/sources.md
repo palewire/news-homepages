@@ -3,7 +3,7 @@
 
 # Sites
 
-The archiving routine is currently capturing 817 sites.
+The archiving routine is currently capturing 816 sites.
 
 A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/all.xml). An OPML file collecting all individual RSS feeds is at [opml.xml](https://palewi.re/docs/news-homepages/rss/sites/opml.xml).
 
@@ -420,7 +420,6 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 |[Kyiv Independent](https://palewi.re/docs/news-homepages/sites/kyivindependent.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kyivindependent.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/kyivindependent.xml)|
 |[KyivPost](https://palewi.re/docs/news-homepages/sites/kyivpost.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/kyivpost.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/kyivpost.xml)|
 |[L.A. Taco](https://palewi.re/docs/news-homepages/sites/lataco.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lataco.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lataco.xml)|
-|[La Jornada](https://palewi.re/docs/news-homepages/sites/lajornada.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lajornada.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lajornada.xml)|
 |[La Journal de Montréal](https://palewi.re/docs/news-homepages/sites/jdemontreal.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jdemontreal.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/jdemontreal.xml)|
 |[La Nacion](https://palewi.re/docs/news-homepages/sites/lanacion.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lanacion.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lanacion.xml)|
 |[La Nueva España](https://palewi.re/docs/news-homepages/sites/lanuevaespana.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lanuevaespana.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lanuevaespana.xml)|

@@ -1,5 +1,5 @@
 {
-  "created": 1660684240,
+  "created": 1660781672,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/10/items/hwherald-2022",
@@ -4934,31 +4934,217 @@
       "sha1": "bc3a1924b67e6b8c7cd0b807bebbb7ddded726ee"
     },
     {
+      "name": "hwherald-2022-08-16T21:29:45.349841-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660703389",
+      "size": "18895",
+      "md5": "523cbeafbb4179748d34fb9c8e79a67b",
+      "crc32": "a239c5fd",
+      "sha1": "73888669e1c4e1628b6a884b83f7b75595673381",
+      "format": "JSON"
+    },
+    {
+      "name": "hwherald-2022-08-16T21:29:45.349841-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660703391",
+      "size": "7476",
+      "md5": "c772a6a9133e874b139d601fbef7ecdf",
+      "crc32": "0df34ed0",
+      "sha1": "0580ac4c4133592e51e84ce6653b8a42baf26e45",
+      "format": "JSON"
+    },
+    {
+      "name": "hwherald-2022-08-16T21:29:45.349841-05:00.jpg",
+      "source": "original",
+      "mtime": "1660703388",
+      "size": "281982",
+      "md5": "49d00d305209bb4e3a9a35733d5d42a8",
+      "crc32": "db5fc39b",
+      "sha1": "2a4dbbd28e5ba26096e6fa5c5015c3c65c6fbe6a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hwherald-2022-08-16T21:29:45.349841-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660703393",
+      "size": "1459",
+      "md5": "52fcc70731c31885652e92b65713076a",
+      "crc32": "20fd310a",
+      "sha1": "caaf2f570ec87e49128e508c4908793f7b9a6f6a",
+      "format": "JSON"
+    },
+    {
+      "name": "hwherald-2022-08-16T21:29:45.349841-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660703395",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "hwherald-2022-08-16T21:29:45.349841-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hwherald-2022-08-16T21:29:45.349841-05:00.jpg",
+      "mtime": "1660703538",
+      "size": "9062",
+      "md5": "0d8c73208df2ce160249dee97fc2ad93",
+      "crc32": "1f9eff90",
+      "sha1": "bc3a1924b67e6b8c7cd0b807bebbb7ddded726ee"
+    },
+    {
+      "name": "hwherald-2022-08-17T10:02:54.871273-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660748581",
+      "size": "18895",
+      "md5": "523cbeafbb4179748d34fb9c8e79a67b",
+      "crc32": "a239c5fd",
+      "sha1": "73888669e1c4e1628b6a884b83f7b75595673381",
+      "format": "JSON"
+    },
+    {
+      "name": "hwherald-2022-08-17T10:02:54.871273-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660748584",
+      "size": "7476",
+      "md5": "c772a6a9133e874b139d601fbef7ecdf",
+      "crc32": "0df34ed0",
+      "sha1": "0580ac4c4133592e51e84ce6653b8a42baf26e45",
+      "format": "JSON"
+    },
+    {
+      "name": "hwherald-2022-08-17T10:02:54.871273-05:00.jpg",
+      "source": "original",
+      "mtime": "1660748579",
+      "size": "281982",
+      "md5": "49d00d305209bb4e3a9a35733d5d42a8",
+      "crc32": "db5fc39b",
+      "sha1": "2a4dbbd28e5ba26096e6fa5c5015c3c65c6fbe6a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hwherald-2022-08-17T10:02:54.871273-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660748586",
+      "size": "1459",
+      "md5": "13d6fc745c7155ea0a8d84c253b61d01",
+      "crc32": "9279a916",
+      "sha1": "7e19c07e8b5e3723d0b065baa3c3eef8e17000c9",
+      "format": "JSON"
+    },
+    {
+      "name": "hwherald-2022-08-17T10:02:54.871273-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660748588",
+      "size": "16116",
+      "md5": "a7de2fdac7f1330b72472f87ca184f59",
+      "crc32": "8d1d611a",
+      "sha1": "68656c3b79f6a5f7fa37410485674f496556b15c",
+      "format": "JSON"
+    },
+    {
+      "name": "hwherald-2022-08-17T10:02:54.871273-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hwherald-2022-08-17T10:02:54.871273-05:00.jpg",
+      "mtime": "1660750472",
+      "size": "9062",
+      "md5": "0d8c73208df2ce160249dee97fc2ad93",
+      "crc32": "1f9eff90",
+      "sha1": "bc3a1924b67e6b8c7cd0b807bebbb7ddded726ee"
+    },
+    {
+      "name": "hwherald-2022-08-17T10:30:02.765654-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660750208",
+      "size": "18895",
+      "md5": "523cbeafbb4179748d34fb9c8e79a67b",
+      "crc32": "a239c5fd",
+      "sha1": "73888669e1c4e1628b6a884b83f7b75595673381",
+      "format": "JSON"
+    },
+    {
+      "name": "hwherald-2022-08-17T10:30:02.765654-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660750210",
+      "size": "7476",
+      "md5": "c772a6a9133e874b139d601fbef7ecdf",
+      "crc32": "0df34ed0",
+      "sha1": "0580ac4c4133592e51e84ce6653b8a42baf26e45",
+      "format": "JSON"
+    },
+    {
+      "name": "hwherald-2022-08-17T10:30:02.765654-05:00.jpg",
+      "source": "original",
+      "mtime": "1660750205",
+      "size": "281982",
+      "md5": "49d00d305209bb4e3a9a35733d5d42a8",
+      "crc32": "db5fc39b",
+      "sha1": "2a4dbbd28e5ba26096e6fa5c5015c3c65c6fbe6a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hwherald-2022-08-17T10:30:02.765654-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660750214",
+      "size": "1459",
+      "md5": "d10ef9a942a9d298abe0a78cb1ac62d4",
+      "crc32": "f33d4da8",
+      "sha1": "e054e8ccf49d51530b1179cc21061e0cce9de434",
+      "format": "JSON"
+    },
+    {
+      "name": "hwherald-2022-08-17T10:30:02.765654-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660750221",
+      "size": "2474",
+      "md5": "8d026efee15cf2462819743b79e5ce39",
+      "crc32": "584f06b4",
+      "sha1": "cfc0cad10291a03085ec2ae0fa6cb66873215280",
+      "format": "JSON"
+    },
+    {
+      "name": "hwherald-2022-08-17T10:30:02.765654-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hwherald-2022-08-17T10:30:02.765654-05:00.jpg",
+      "mtime": "1660752201",
+      "size": "9062",
+      "md5": "0d8c73208df2ce160249dee97fc2ad93",
+      "crc32": "1f9eff90",
+      "sha1": "bc3a1924b67e6b8c7cd0b807bebbb7ddded726ee"
+    },
+    {
       "name": "hwherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4d293fa7b60ce86f1face6789f132b09edc53316",
-      "mtime": "1660674799",
-      "size": "100904",
-      "md5": "f53d052512bff1b98704204e5b02041a",
-      "crc32": "b9b5c3a1",
-      "sha1": "db58a8ece501405fb0bc36a6beed5a6693aea0b2",
+      "btih": "360d46f6d8c5b62eb20267557cf75e007beea306",
+      "mtime": "1660752213",
+      "size": "104679",
+      "md5": "b9c679acdc8e5b58fd5d7cdfc7e3f1e1",
+      "crc32": "4cbdeb9f",
+      "sha1": "65c61b09ba0081b53918667d3121304a11e87097",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hwherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5fc2881288cfc30ec55a4bbd369dd9d9",
+      "md5": "b4e5b642909ca064a68099606fb1c7ed",
       "summation": "md5"
     },
     {
       "name": "hwherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660674714",
-      "size": "602112",
-      "md5": "ab3dfbf32d77d342b1e0431933ae778c",
-      "crc32": "2b7e991c",
-      "sha1": "904fd8ed0de15749159f7a5b79dbdb88493e9453",
+      "mtime": "1660750553",
+      "size": "622592",
+      "md5": "ecb53d1fa74b76d9f70f82e256400ead",
+      "crc32": "f2ae868d",
+      "sha1": "5726d340bb592f35d4255928d26a493cf95539a8",
       "format": "Metadata"
     },
     {
@@ -4972,9 +5158,49 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 478,
-  "item_last_updated": 1660674799,
-  "item_size": 30312256,
+  "files_count": 496,
+  "hwherald-2022": {
+    "url": "https://harveyworld.org/",
+    "job_id": "spn2-ec339ba55750d2615dd491e617319104cabe33d9",
+    "status": "success",
+    "counters": {
+      "embeds": 121,
+      "outlinks": 31
+    },
+    "resources": [
+      "https://harveyworld.org/",
+      "https://harveyworld.org/_next/image?url=https://assets.tinynewsco.org/harvey-world-herald/logos/Harvey%20World%20Herald-ee9aa8bd-0865-49e7-a0df-e037e10a18e8.jpeg&w=1200&q=75",
+      "https://harveyworld.org/_next/image?url=https://assets.tinynewsco.org/harveyworld/harvey-pace-bus-center-gets-20-million-raise-funds/imagekix.3c9a6nedzln.jpg&w=1080&q=75",
+      "https://harveyworld.org/_next/static/chunks/webpack-e2da5ddd0d7b4ddf.js",
+      "https://fonts.gstatic.com/s/domine/v19/L0x8DFMnlVwD4h3hu_qnZypEiw.woff2",
+      "https://fonts.gstatic.com/s/librefranklin/v13/jizDREVItHgc8qDIbSTKq4XkRiUf2zcZiVbJ.woff2",
+      "https://harveyworld.org/_next/static/chunks/4008.168e8543f6258736.js",
+      "https://fonts.gstatic.com/s/domine/v19/L0xhDFMnlVwD4h3Lt9JWnbX3jG-2X5XHI14.woff",
+      "https://fonts.gstatic.com/s/librefranklin/v13/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhycKUBA.woff",
+      "https://harveyworld.org/_next/static/chunks/framework-79bce4a3a540b080.js",
+      "https://harveyworld.org/_next/static/chunks/main-3de85baea27a32fe.js",
+      "https://harveyworld.org/_next/static/chunks/4012-f8d14bac1225db46.js",
+      "https://harveyworld.org/_next/static/chunks/2962-6728101d8f01d010.js",
+      "https://harveyworld.org/_next/static/chunks/pages/_app-68962d8c5e044b8d.js",
+      "https://harveyworld.org/_next/static/chunks/6999-ae5a396c36383d46.js",
+      "https://harveyworld.org/_next/static/chunks/9468-892fa9f2318eaf65.js",
+      "https://harveyworld.org/_next/static/t3wKxkWIzJq9ZQPnV330H/_buildManifest.js",
+      "https://harveyworld.org/_next/static/chunks/pages/_sites/[site]-9c936e1c9aec0ee5.js",
+      "https://harveyworld.org/_next/static/t3wKxkWIzJq9ZQPnV330H/_middlewareManifest.js",
+      "https://harveyworld.org/_next/static/chunks/1382-72114aa99c634904.js",
+      "https://harveyworld.org/_next/static/t3wKxkWIzJq9ZQPnV330H/_ssgManifest.js",
+      "https://harveyworld.org/api/auth/session",
+      "https://harveyworld.org/_next/image?url=https://assets.tinynewsco.org/harveyworld/sales-tax-reduction-school-supplies/imagekix.34ykipr64gt1.jpg&w=640&q=75",
+      "https://harveyworld.org/cookies"
+    ],
+    "http_status": 200,
+    "timestamp": "20220817140447",
+    "original_url": "https://harveyworld.org/",
+    "outlinks": [],
+    "duration_sec": 11.816
+  },
+  "item_last_updated": 1660752213,
+  "item_size": 31311925,
   "metadata": {
     "identifier": "hwherald-2022",
     "collection": [
@@ -4992,7 +5218,7 @@
     "addeddate": "2022-07-10 15:42:19"
   },
   "server": "ia801408.us.archive.org",
-  "uniq": 1933599480,
+  "uniq": 803417643,
   "workable_servers": [
     "ia801408.us.archive.org",
     "ia601408.us.archive.org"
