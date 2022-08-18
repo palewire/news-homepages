@@ -21,7 +21,7 @@ def cli():
 
 
 @cli.command()
-@click.option("-n", "number", default=5)
+@click.option("-n", "number", default=10)
 def update_list(number):
     """Update a Twitter list with all of our sources."""
     # Connect to Twitter
