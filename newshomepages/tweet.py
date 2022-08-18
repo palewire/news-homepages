@@ -270,7 +270,7 @@ def country(code: str, input_dir: str):
     now_local = now.astimezone(tz)
 
     # Set hashtags
-    slug = slugify(country["name"], separator="")
+    slug = slugify(code.lower(), separator="")
     date_str = now_local.strftime("%Y%m%d")
     hashtags = f"#{slug} #date{date_str}"
 
