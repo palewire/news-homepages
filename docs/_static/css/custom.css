@@ -237,7 +237,12 @@ div.sphinxsidebar a:active {
   color: #000;
   border-bottom: none;
 }
-a.reference {
+a.reference,
+a.internal {
+ border-bottom: 0;
+}
+a.reference:hover,
+a.internal:hover {
  border-bottom: 0;
 }
 
