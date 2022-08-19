@@ -31,7 +31,7 @@ This site was analyzed 11 times over the last seven days. Scores of 90 or greate
   <script>
     const lighthouseAnalysisSpec = {
   "config": {
-    "view": {"width": 500, "height": 300, "stroke": 0},
+    "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
     "background": "#ffffff",
     "title": {
@@ -158,6 +158,7 @@ This site was analyzed 11 times over the last seven days. Scores of 90 or greate
   "height": 175,
   "title": "Lighthouse scores over last 7 days",
   "width": "container",
+  "height": 300,
   "$schema": "https://vega.github.io/schema/vega-lite/v4.17.0.json"
 };
     vegaEmbed("#vis--lighthouse-analysis", lighthouseAnalysisSpec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
@@ -233,13 +234,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 13 screenshots with the Internet Archive.
+The archiving routine has saved 15 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sz-2022/sz-2022-08-18T01:56:58.169514+02:00.jpg">
+  <img src="https://archive.org/download/sz-2022/sz-2022-08-18T01:56:58.169514+02:00.jpg"
+     alt="Süddeutsche Zeitung at 2022-08-18 01:57:00+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sz-2022/sz-2022-08-18T01:56:58.169514+02:00.jpg">August 18 at 1:57 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sz-2022/sz-2022-08-17T13:56:16.452951+02:00.jpg">
+  <img src="https://archive.org/download/sz-2022/sz-2022-08-17T13:56:16.452951+02:00.jpg"
+     alt="Süddeutsche Zeitung at 2022-08-17 13:56:17+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sz-2022/sz-2022-08-17T13:56:16.452951+02:00.jpg">August 17 at 1:56 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sz-2022/sz-2022-08-17T02:12:38.654253+02:00.jpg">
@@ -331,29 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/sz-2022/sz-2022-08-12T15:32:31.580327+02:00.jpg">August 12 at 3:32 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/sz-2022/sz-2022-08-12T11:27:00.962936+02:00.jpg">
-  <img src="https://archive.org/download/sz-2022/sz-2022-08-12T11:27:00.962936+02:00.jpg"
-     alt="Süddeutsche Zeitung at 2022-08-12 11:27:02+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sz-2022/sz-2022-08-12T11:27:00.962936+02:00.jpg">August 12 at 11:27 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sz-2022/sz-2022-08-11T15:51:17.290862+02:00.jpg">
-  <img src="https://archive.org/download/sz-2022/sz-2022-08-11T15:51:17.290862+02:00.jpg"
-     alt="Süddeutsche Zeitung at 2022-08-11 15:51:18+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sz-2022/sz-2022-08-11T15:51:17.290862+02:00.jpg">August 11 at 3:51 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 13 hyperlink lists with the Internet Archive.
+The archiving routine has saved 15 hyperlink lists with the Internet Archive.
 
 
 
@@ -361,6 +362,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 18 at 1:57 AM](https://archive.org/download/sz-2022/sz-2022-08-18T01:56:58.169514+02:00.hyperlinks.json) |
+| [August 17 at 1:56 PM](https://archive.org/download/sz-2022/sz-2022-08-17T13:56:16.452951+02:00.hyperlinks.json) |
 | [August 17 at 2:12 AM](https://archive.org/download/sz-2022/sz-2022-08-17T02:12:38.654253+02:00.hyperlinks.json) |
 | [August 16 at 4:11 PM](https://archive.org/download/sz-2022/sz-2022-08-16T16:11:23.435790+02:00.hyperlinks.json) |
 | [August 16 at 3:46 AM](https://archive.org/download/sz-2022/sz-2022-08-16T03:46:55.009412+02:00.hyperlinks.json) |
@@ -369,13 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 14 at 3:59 PM](https://archive.org/download/sz-2022/sz-2022-08-14T15:58:56.533631+02:00.hyperlinks.json) |
 | [August 14 at 5:25 AM](https://archive.org/download/sz-2022/sz-2022-08-14T05:25:22.410079+02:00.hyperlinks.json) |
 | [August 13 at 3:20 PM](https://archive.org/download/sz-2022/sz-2022-08-13T15:20:50.158797+02:00.hyperlinks.json) |
-| [August 13 at 2:51 AM](https://archive.org/download/sz-2022/sz-2022-08-13T02:51:51.046539+02:00.hyperlinks.json) |
-| [August 12 at 3:32 PM](https://archive.org/download/sz-2022/sz-2022-08-12T15:32:31.580327+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 13 accessibility trees with the Internet Archive.
+The archiving routine has saved 15 accessibility trees with the Internet Archive.
 
 
 
@@ -383,6 +384,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 18 at 1:57 AM](https://archive.org/download/sz-2022/sz-2022-08-18T01:56:58.169514+02:00.accessibility.json) |
+| [August 17 at 1:56 PM](https://archive.org/download/sz-2022/sz-2022-08-17T13:56:16.452951+02:00.accessibility.json) |
 | [August 17 at 2:12 AM](https://archive.org/download/sz-2022/sz-2022-08-17T02:12:38.654253+02:00.accessibility.json) |
 | [August 16 at 4:11 PM](https://archive.org/download/sz-2022/sz-2022-08-16T16:11:23.435790+02:00.accessibility.json) |
 | [August 16 at 3:46 AM](https://archive.org/download/sz-2022/sz-2022-08-16T03:46:55.009412+02:00.accessibility.json) |
@@ -391,14 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [August 14 at 3:59 PM](https://archive.org/download/sz-2022/sz-2022-08-14T15:58:56.533631+02:00.accessibility.json) |
 | [August 14 at 5:25 AM](https://archive.org/download/sz-2022/sz-2022-08-14T05:25:22.410079+02:00.accessibility.json) |
 | [August 13 at 3:20 PM](https://archive.org/download/sz-2022/sz-2022-08-13T15:20:50.158797+02:00.accessibility.json) |
-| [August 13 at 2:51 AM](https://archive.org/download/sz-2022/sz-2022-08-13T02:51:51.046539+02:00.accessibility.json) |
-| [August 12 at 3:32 PM](https://archive.org/download/sz-2022/sz-2022-08-12T15:32:31.580327+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 13 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 15 Lighthouse audits with the Internet Archive.
 
 
 
@@ -406,6 +407,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 18 at 1:57 AM](https://archive.org/download/sz-2022/sz-2022-08-18T01:56:58.169514+02:00.lighthouse.json) |
+| [August 17 at 1:56 PM](https://archive.org/download/sz-2022/sz-2022-08-17T13:56:16.452951+02:00.lighthouse.json) |
 | [August 17 at 2:12 AM](https://archive.org/download/sz-2022/sz-2022-08-17T02:12:38.654253+02:00.lighthouse.json) |
 | [August 16 at 4:11 PM](https://archive.org/download/sz-2022/sz-2022-08-16T16:11:23.435790+02:00.lighthouse.json) |
 | [August 16 at 3:47 AM](https://archive.org/download/sz-2022/sz-2022-08-16T03:46:55.009412+02:00.lighthouse.json) |
@@ -414,8 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 14 at 3:59 PM](https://archive.org/download/sz-2022/sz-2022-08-14T15:58:56.533631+02:00.lighthouse.json) |
 | [August 14 at 5:25 AM](https://archive.org/download/sz-2022/sz-2022-08-14T05:25:22.410079+02:00.lighthouse.json) |
 | [August 13 at 3:20 PM](https://archive.org/download/sz-2022/sz-2022-08-13T15:20:50.158797+02:00.lighthouse.json) |
-| [August 13 at 2:51 AM](https://archive.org/download/sz-2022/sz-2022-08-13T02:51:51.046539+02:00.lighthouse.json) |
-| [August 12 at 3:32 PM](https://archive.org/download/sz-2022/sz-2022-08-12T15:32:31.580327+02:00.lighthouse.json) |
 
 
 

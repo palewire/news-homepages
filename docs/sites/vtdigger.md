@@ -31,7 +31,7 @@ This site was analyzed 13 times over the last seven days. Scores of 90 or greate
   <script>
     const lighthouseAnalysisSpec = {
   "config": {
-    "view": {"width": 500, "height": 300, "stroke": 0},
+    "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
     "background": "#ffffff",
     "title": {
@@ -158,6 +158,7 @@ This site was analyzed 13 times over the last seven days. Scores of 90 or greate
   "height": 175,
   "title": "Lighthouse scores over last 7 days",
   "width": "container",
+  "height": 300,
   "$schema": "https://vega.github.io/schema/vega-lite/v4.17.0.json"
 };
     vegaEmbed("#vis--lighthouse-analysis", lighthouseAnalysisSpec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
@@ -233,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 143 screenshots with the Internet Archive.
+The archiving routine has saved 145 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -325,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-08-17T11:14:55.131413-04:00.jpg">
+  <img src="https://archive.org/download/vtdigger-2022/vtdigger-2022-08-17T11:14:55.131413-04:00.jpg"
+     alt="VT Digger at 2022-08-17 11:15:04-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-08-17T11:14:55.131413-04:00.jpg">August 17 at 11:15 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-08-16T23:47:42.600219-04:00.jpg">
+  <img src="https://archive.org/download/vtdigger-2022/vtdigger-2022-08-16T23:47:42.600219-04:00.jpg"
+     alt="VT Digger at 2022-08-16 23:47:44-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-08-16T23:47:42.600219-04:00.jpg">August 16 at 11:47 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-08-16T14:48:22.389900-04:00.jpg">
   <img src="https://archive.org/download/vtdigger-2022/vtdigger-2022-08-16T14:48:22.389900-04:00.jpg"
      alt="VT Digger at 2022-08-16 14:48:28-04:00 local time"
@@ -414,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-08-12T05:51:11.663723-04:00.jpg">August 12 at 5:51 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-08-11T15:01:01.788328-04:00.jpg">
-  <img src="https://archive.org/download/vtdigger-2022/vtdigger-2022-08-11T15:01:01.788328-04:00.jpg"
-     alt="VT Digger at 2022-08-11 15:01:06-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-08-11T15:01:01.788328-04:00.jpg">August 11 at 3:01 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-08-11T01:31:27.433304-04:00.jpg">
-  <img src="https://archive.org/download/vtdigger-2022/vtdigger-2022-08-11T01:31:27.433304-04:00.jpg"
-     alt="VT Digger at 2022-08-11 01:31:32-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/vtdigger-2022/vtdigger-2022-08-11T01:31:27.433304-04:00.jpg">August 11 at 1:31 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 142 hyperlink lists with the Internet Archive.
+The archiving routine has saved 144 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -527,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 17 at 11:15 AM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-17T11:14:55.131413-04:00.hyperlinks.json) |
+| [August 16 at 11:47 PM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-16T23:47:42.600219-04:00.hyperlinks.json) |
 | [August 16 at 2:48 PM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-16T14:48:22.389900-04:00.hyperlinks.json) |
 | [August 16 at 2:57 AM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-16T02:57:30.814107-04:00.hyperlinks.json) |
 | [August 15 at 4:21 PM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-15T16:21:01.461303-04:00.hyperlinks.json) |
@@ -535,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 14 at 3:11 AM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-14T03:11:40.833936-04:00.hyperlinks.json) |
 | [August 13 at 5:07 PM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-13T17:07:08.031130-04:00.hyperlinks.json) |
 | [August 13 at 1:16 AM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-13T01:16:43.688761-04:00.hyperlinks.json) |
-| [August 12 at 2:30 PM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-12T14:30:31.064426-04:00.hyperlinks.json) |
-| [August 12 at 5:51 AM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-12T05:51:11.663723-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 143 accessibility trees with the Internet Archive.
+The archiving routine has saved 145 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -632,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 17 at 11:15 AM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-17T11:14:55.131413-04:00.accessibility.json) |
+| [August 16 at 11:47 PM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-16T23:47:42.600219-04:00.accessibility.json) |
 | [August 16 at 2:48 PM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-16T14:48:22.389900-04:00.accessibility.json) |
 | [August 16 at 2:57 AM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-16T02:57:30.814107-04:00.accessibility.json) |
 | [August 15 at 4:21 PM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-15T16:21:01.461303-04:00.accessibility.json) |
@@ -640,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 14 at 3:11 AM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-14T03:11:40.833936-04:00.accessibility.json) |
 | [August 13 at 5:07 PM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-13T17:07:08.031130-04:00.accessibility.json) |
 | [August 13 at 1:16 AM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-13T01:16:43.688761-04:00.accessibility.json) |
-| [August 12 at 2:30 PM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-12T14:30:31.064426-04:00.accessibility.json) |
-| [August 12 at 5:51 AM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-12T05:51:11.663723-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 48 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 50 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -738,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 17 at 11:15 AM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-17T11:14:55.131413-04:00.lighthouse.json) |
+| [August 16 at 11:47 PM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-16T23:47:42.600219-04:00.lighthouse.json) |
 | [August 16 at 2:48 PM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-16T14:48:22.389900-04:00.lighthouse.json) |
 | [August 16 at 2:57 AM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-16T02:57:30.814107-04:00.lighthouse.json) |
 | [August 15 at 4:21 PM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-15T16:21:01.461303-04:00.lighthouse.json) |
@@ -746,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 14 at 3:11 AM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-14T03:11:40.833936-04:00.lighthouse.json) |
 | [August 13 at 5:07 PM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-13T17:07:08.031130-04:00.lighthouse.json) |
 | [August 13 at 1:16 AM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-13T01:16:43.688761-04:00.lighthouse.json) |
-| [August 12 at 2:30 PM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-12T14:30:31.064426-04:00.lighthouse.json) |
-| [August 12 at 5:51 AM](https://archive.org/download/vtdigger-2022/vtdigger-2022-08-12T05:51:11.663723-04:00.lighthouse.json) |
 
 
 

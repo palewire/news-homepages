@@ -31,7 +31,7 @@ This site was analyzed 14 times over the last seven days. Scores of 90 or greate
   <script>
     const lighthouseAnalysisSpec = {
   "config": {
-    "view": {"width": 500, "height": 300, "stroke": 0},
+    "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
     "background": "#ffffff",
     "title": {
@@ -158,6 +158,7 @@ This site was analyzed 14 times over the last seven days. Scores of 90 or greate
   "height": 175,
   "title": "Lighthouse scores over last 7 days",
   "width": "container",
+  "height": 300,
   "$schema": "https://vega.github.io/schema/vega-lite/v4.17.0.json"
 };
     vegaEmbed("#vis--lighthouse-analysis", lighthouseAnalysisSpec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
@@ -233,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 80 screenshots with the Internet Archive.
+The archiving routine has saved 82 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -325,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/badger_project_-2022/badger_project_-2022-08-17T08:05:03.405889-05:00.jpg">
+  <img src="https://archive.org/download/badger_project_-2022/badger_project_-2022-08-17T08:05:03.405889-05:00.jpg"
+     alt="Badger Project at 2022-08-17 08:05:05-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/badger_project_-2022/badger_project_-2022-08-17T08:05:03.405889-05:00.jpg">August 17 at 8:05 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/badger_project_-2022/badger_project_-2022-08-16T20:18:41.557725-05:00.jpg">
+  <img src="https://archive.org/download/badger_project_-2022/badger_project_-2022-08-16T20:18:41.557725-05:00.jpg"
+     alt="Badger Project at 2022-08-16 20:18:43-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/badger_project_-2022/badger_project_-2022-08-16T20:18:41.557725-05:00.jpg">August 16 at 8:18 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/badger_project_-2022/badger_project_-2022-08-16T12:15:13.803416-05:00.jpg">
   <img src="https://archive.org/download/badger_project_-2022/badger_project_-2022-08-16T12:15:13.803416-05:00.jpg"
      alt="Badger Project at 2022-08-16 12:15:16-05:00 local time"
@@ -414,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/badger_project_-2022/badger_project_-2022-08-12T04:29:07.876985-05:00.jpg">August 12 at 4:29 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/badger_project_-2022/badger_project_-2022-08-11T12:00:20.706101-05:00.jpg">
-  <img src="https://archive.org/download/badger_project_-2022/badger_project_-2022-08-11T12:00:20.706101-05:00.jpg"
-     alt="Badger Project at 2022-08-11 12:00:22-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/badger_project_-2022/badger_project_-2022-08-11T12:00:20.706101-05:00.jpg">August 11 at 12:00 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/badger_project_-2022/badger_project_-2022-08-10T21:22:19.729057-05:00.jpg">
-  <img src="https://archive.org/download/badger_project_-2022/badger_project_-2022-08-10T21:22:19.729057-05:00.jpg"
-     alt="Badger Project at 2022-08-10 21:22:21-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/badger_project_-2022/badger_project_-2022-08-10T21:22:19.729057-05:00.jpg">August 10 at 9:22 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 81 hyperlink lists with the Internet Archive.
+The archiving routine has saved 83 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -527,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 17 at 8:05 AM](https://archive.org/download/badger_project_-2022/badger_project_-2022-08-17T08:05:03.405889-05:00.hyperlinks.json) |
+| [August 16 at 8:18 PM](https://archive.org/download/badger_project_-2022/badger_project_-2022-08-16T20:18:41.557725-05:00.hyperlinks.json) |
 | [August 16 at 12:15 PM](https://archive.org/download/badger_project_-2022/badger_project_-2022-08-16T12:15:13.803416-05:00.hyperlinks.json) |
 | [August 16 at 1:12 AM](https://archive.org/download/badger_project_-2022/badger_project_-2022-08-16T01:12:12.512923-05:00.hyperlinks.json) |
 | [August 15 at 2:29 PM](https://archive.org/download/badger_project_-2022/badger_project_-2022-08-15T14:29:46.400786-05:00.hyperlinks.json) |
@@ -535,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 13 at 11:59 PM](https://archive.org/download/badger_project_-2022/badger_project_-2022-08-13T23:59:41.242168-05:00.hyperlinks.json) |
 | [August 13 at 3:36 PM](https://archive.org/download/badger_project_-2022/badger_project_-2022-08-13T15:36:46.994305-05:00.hyperlinks.json) |
 | [August 12 at 9:09 PM](https://archive.org/download/badger_project_-2022/badger_project_-2022-08-12T21:09:48.571804-05:00.hyperlinks.json) |
-| [August 12 at 11:20 AM](https://archive.org/download/badger_project_-2022/badger_project_-2022-08-12T11:20:27.835403-05:00.hyperlinks.json) |
-| [August 12 at 4:29 AM](https://archive.org/download/badger_project_-2022/badger_project_-2022-08-12T04:29:07.876985-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 81 accessibility trees with the Internet Archive.
+The archiving routine has saved 83 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -632,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 17 at 8:05 AM](https://archive.org/download/badger_project_-2022/badger_project_-2022-08-17T08:05:03.405889-05:00.accessibility.json) |
+| [August 16 at 8:18 PM](https://archive.org/download/badger_project_-2022/badger_project_-2022-08-16T20:18:41.557725-05:00.accessibility.json) |
 | [August 16 at 12:15 PM](https://archive.org/download/badger_project_-2022/badger_project_-2022-08-16T12:15:13.803416-05:00.accessibility.json) |
 | [August 16 at 1:12 AM](https://archive.org/download/badger_project_-2022/badger_project_-2022-08-16T01:12:12.512923-05:00.accessibility.json) |
 | [August 15 at 2:29 PM](https://archive.org/download/badger_project_-2022/badger_project_-2022-08-15T14:29:46.400786-05:00.accessibility.json) |
@@ -640,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 13 at 11:59 PM](https://archive.org/download/badger_project_-2022/badger_project_-2022-08-13T23:59:41.242168-05:00.accessibility.json) |
 | [August 13 at 3:36 PM](https://archive.org/download/badger_project_-2022/badger_project_-2022-08-13T15:36:46.994305-05:00.accessibility.json) |
 | [August 12 at 9:09 PM](https://archive.org/download/badger_project_-2022/badger_project_-2022-08-12T21:09:48.571804-05:00.accessibility.json) |
-| [August 12 at 11:20 AM](https://archive.org/download/badger_project_-2022/badger_project_-2022-08-12T11:20:27.835403-05:00.accessibility.json) |
-| [August 12 at 4:29 AM](https://archive.org/download/badger_project_-2022/badger_project_-2022-08-12T04:29:07.876985-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 51 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 53 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -738,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 17 at 8:05 AM](https://archive.org/download/badger_project_-2022/badger_project_-2022-08-17T08:05:03.405889-05:00.lighthouse.json) |
+| [August 16 at 8:18 PM](https://archive.org/download/badger_project_-2022/badger_project_-2022-08-16T20:18:41.557725-05:00.lighthouse.json) |
 | [August 16 at 12:15 PM](https://archive.org/download/badger_project_-2022/badger_project_-2022-08-16T12:15:13.803416-05:00.lighthouse.json) |
 | [August 16 at 1:12 AM](https://archive.org/download/badger_project_-2022/badger_project_-2022-08-16T01:12:12.512923-05:00.lighthouse.json) |
 | [August 15 at 2:29 PM](https://archive.org/download/badger_project_-2022/badger_project_-2022-08-15T14:29:46.400786-05:00.lighthouse.json) |
@@ -746,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 13 at 11:59 PM](https://archive.org/download/badger_project_-2022/badger_project_-2022-08-13T23:59:41.242168-05:00.lighthouse.json) |
 | [August 13 at 3:36 PM](https://archive.org/download/badger_project_-2022/badger_project_-2022-08-13T15:36:46.994305-05:00.lighthouse.json) |
 | [August 12 at 9:09 PM](https://archive.org/download/badger_project_-2022/badger_project_-2022-08-12T21:09:48.571804-05:00.lighthouse.json) |
-| [August 12 at 11:20 AM](https://archive.org/download/badger_project_-2022/badger_project_-2022-08-12T11:20:27.835403-05:00.lighthouse.json) |
-| [August 12 at 4:29 AM](https://archive.org/download/badger_project_-2022/badger_project_-2022-08-12T04:29:07.876985-05:00.lighthouse.json) |
 
 
 

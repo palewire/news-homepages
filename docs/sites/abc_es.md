@@ -31,7 +31,7 @@ This site was analyzed 14 times over the last seven days. Scores of 90 or greate
   <script>
     const lighthouseAnalysisSpec = {
   "config": {
-    "view": {"width": 500, "height": 300, "stroke": 0},
+    "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
     "background": "#ffffff",
     "title": {
@@ -158,6 +158,7 @@ This site was analyzed 14 times over the last seven days. Scores of 90 or greate
   "height": 175,
   "title": "Lighthouse scores over last 7 days",
   "width": "container",
+  "height": 300,
   "$schema": "https://vega.github.io/schema/vega-lite/v4.17.0.json"
 };
     vegaEmbed("#vis--lighthouse-analysis", lighthouseAnalysisSpec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
@@ -290,7 +291,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 41 hyperlink lists with the Internet Archive.
+The archiving routine has saved 43 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -381,6 +382,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 17 at 3:04 PM](https://archive.org/download/abc_es-2022/abc_es-2022-08-17T15:04:16.871176+02:00.hyperlinks.json) |
+| [August 17 at 3:18 AM](https://archive.org/download/abc_es-2022/abc_es-2022-08-17T03:18:50.901636+02:00.hyperlinks.json) |
 | [August 16 at 7:12 PM](https://archive.org/download/abc_es-2022/abc_es-2022-08-16T19:12:53.610239+02:00.hyperlinks.json) |
 | [August 16 at 8:09 AM](https://archive.org/download/abc_es-2022/abc_es-2022-08-16T08:09:42.625646+02:00.hyperlinks.json) |
 | [August 15 at 9:27 PM](https://archive.org/download/abc_es-2022/abc_es-2022-08-15T21:27:35.052459+02:00.hyperlinks.json) |
@@ -389,8 +392,6 @@ Here are the 10 most recent hyperlink lists.
 | [August 14 at 6:57 AM](https://archive.org/download/abc_es-2022/abc_es-2022-08-14T06:56:52.757790+02:00.hyperlinks.json) |
 | [August 13 at 10:33 PM](https://archive.org/download/abc_es-2022/abc_es-2022-08-13T22:33:45.508576+02:00.hyperlinks.json) |
 | [August 13 at 4:08 AM](https://archive.org/download/abc_es-2022/abc_es-2022-08-13T04:08:14.455410+02:00.hyperlinks.json) |
-| [August 12 at 6:15 PM](https://archive.org/download/abc_es-2022/abc_es-2022-08-12T18:15:15.044694+02:00.hyperlinks.json) |
-| [August 12 at 11:27 AM](https://archive.org/download/abc_es-2022/abc_es-2022-08-12T11:27:46.632665+02:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -413,7 +414,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 41 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 43 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -504,6 +505,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 17 at 3:04 PM](https://archive.org/download/abc_es-2022/abc_es-2022-08-17T15:04:16.871176+02:00.lighthouse.json) |
+| [August 17 at 3:18 AM](https://archive.org/download/abc_es-2022/abc_es-2022-08-17T03:18:50.901636+02:00.lighthouse.json) |
 | [August 16 at 7:12 PM](https://archive.org/download/abc_es-2022/abc_es-2022-08-16T19:12:53.610239+02:00.lighthouse.json) |
 | [August 16 at 8:09 AM](https://archive.org/download/abc_es-2022/abc_es-2022-08-16T08:09:42.625646+02:00.lighthouse.json) |
 | [August 15 at 9:27 PM](https://archive.org/download/abc_es-2022/abc_es-2022-08-15T21:27:35.052459+02:00.lighthouse.json) |
@@ -512,8 +515,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 14 at 6:57 AM](https://archive.org/download/abc_es-2022/abc_es-2022-08-14T06:56:52.757790+02:00.lighthouse.json) |
 | [August 13 at 10:33 PM](https://archive.org/download/abc_es-2022/abc_es-2022-08-13T22:33:45.508576+02:00.lighthouse.json) |
 | [August 13 at 4:08 AM](https://archive.org/download/abc_es-2022/abc_es-2022-08-13T04:08:14.455410+02:00.lighthouse.json) |
-| [August 12 at 6:15 PM](https://archive.org/download/abc_es-2022/abc_es-2022-08-12T18:15:15.044694+02:00.lighthouse.json) |
-| [August 12 at 11:27 AM](https://archive.org/download/abc_es-2022/abc_es-2022-08-12T11:27:46.632665+02:00.lighthouse.json) |
 
 
 

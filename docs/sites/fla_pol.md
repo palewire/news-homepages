@@ -31,7 +31,7 @@ This site was analyzed 13 times over the last seven days. Scores of 90 or greate
   <script>
     const lighthouseAnalysisSpec = {
   "config": {
-    "view": {"width": 500, "height": 300, "stroke": 0},
+    "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
     "background": "#ffffff",
     "title": {
@@ -158,6 +158,7 @@ This site was analyzed 13 times over the last seven days. Scores of 90 or greate
   "height": 175,
   "title": "Lighthouse scores over last 7 days",
   "width": "container",
+  "height": 300,
   "$schema": "https://vega.github.io/schema/vega-lite/v4.17.0.json"
 };
     vegaEmbed("#vis--lighthouse-analysis", lighthouseAnalysisSpec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
@@ -233,13 +234,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 17 screenshots with the Internet Archive.
+The archiving routine has saved 19 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/fla_pol-2022/fla_pol-2022-08-17T19:02:23.342309-04:00.jpg">
+  <img src="https://archive.org/download/fla_pol-2022/fla_pol-2022-08-17T19:02:23.342309-04:00.jpg"
+     alt="Florida Politics at 2022-08-17 19:02:25-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/fla_pol-2022/fla_pol-2022-08-17T19:02:23.342309-04:00.jpg">August 17 at 7:02 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/fla_pol-2022/fla_pol-2022-08-17T06:57:07.863635-04:00.jpg">
+  <img src="https://archive.org/download/fla_pol-2022/fla_pol-2022-08-17T06:57:07.863635-04:00.jpg"
+     alt="Florida Politics at 2022-08-17 06:57:10-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/fla_pol-2022/fla_pol-2022-08-17T06:57:07.863635-04:00.jpg">August 17 at 6:57 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/fla_pol-2022/fla_pol-2022-08-16T19:05:26.678691-04:00.jpg">
@@ -331,29 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/fla_pol-2022/fla_pol-2022-08-12T07:43:42.737965-04:00.jpg">August 12 at 7:43 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/fla_pol-2022/fla_pol-2022-08-11T19:27:30.949650-04:00.jpg">
-  <img src="https://archive.org/download/fla_pol-2022/fla_pol-2022-08-11T19:27:30.949650-04:00.jpg"
-     alt="Florida Politics at 2022-08-11 19:27:32-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/fla_pol-2022/fla_pol-2022-08-11T19:27:30.949650-04:00.jpg">August 11 at 7:27 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/fla_pol-2022/fla_pol-2022-08-11T07:42:08.369272-04:00.jpg">
-  <img src="https://archive.org/download/fla_pol-2022/fla_pol-2022-08-11T07:42:08.369272-04:00.jpg"
-     alt="Florida Politics at 2022-08-11 07:42:10-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/fla_pol-2022/fla_pol-2022-08-11T07:42:08.369272-04:00.jpg">August 11 at 7:42 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 17 hyperlink lists with the Internet Archive.
+The archiving routine has saved 19 hyperlink lists with the Internet Archive.
 
 
 
@@ -361,6 +362,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 17 at 7:02 PM](https://archive.org/download/fla_pol-2022/fla_pol-2022-08-17T19:02:23.342309-04:00.hyperlinks.json) |
+| [August 17 at 6:57 AM](https://archive.org/download/fla_pol-2022/fla_pol-2022-08-17T06:57:07.863635-04:00.hyperlinks.json) |
 | [August 16 at 7:05 PM](https://archive.org/download/fla_pol-2022/fla_pol-2022-08-16T19:05:26.678691-04:00.hyperlinks.json) |
 | [August 16 at 9:37 AM](https://archive.org/download/fla_pol-2022/fla_pol-2022-08-16T09:37:24.531025-04:00.hyperlinks.json) |
 | [August 15 at 9:24 PM](https://archive.org/download/fla_pol-2022/fla_pol-2022-08-15T21:24:31.816120-04:00.hyperlinks.json) |
@@ -369,13 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 14 at 9:33 AM](https://archive.org/download/fla_pol-2022/fla_pol-2022-08-14T09:33:10.594872-04:00.hyperlinks.json) |
 | [August 13 at 7:55 PM](https://archive.org/download/fla_pol-2022/fla_pol-2022-08-13T19:55:42.511747-04:00.hyperlinks.json) |
 | [August 13 at 8:59 AM](https://archive.org/download/fla_pol-2022/fla_pol-2022-08-13T08:59:08.158378-04:00.hyperlinks.json) |
-| [August 12 at 8:34 PM](https://archive.org/download/fla_pol-2022/fla_pol-2022-08-12T20:33:57.950772-04:00.hyperlinks.json) |
-| [August 12 at 7:43 AM](https://archive.org/download/fla_pol-2022/fla_pol-2022-08-12T07:43:42.737965-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 17 accessibility trees with the Internet Archive.
+The archiving routine has saved 19 accessibility trees with the Internet Archive.
 
 
 
@@ -383,6 +384,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 17 at 7:02 PM](https://archive.org/download/fla_pol-2022/fla_pol-2022-08-17T19:02:23.342309-04:00.accessibility.json) |
+| [August 17 at 6:57 AM](https://archive.org/download/fla_pol-2022/fla_pol-2022-08-17T06:57:07.863635-04:00.accessibility.json) |
 | [August 16 at 7:05 PM](https://archive.org/download/fla_pol-2022/fla_pol-2022-08-16T19:05:26.678691-04:00.accessibility.json) |
 | [August 16 at 9:37 AM](https://archive.org/download/fla_pol-2022/fla_pol-2022-08-16T09:37:24.531025-04:00.accessibility.json) |
 | [August 15 at 9:24 PM](https://archive.org/download/fla_pol-2022/fla_pol-2022-08-15T21:24:31.816120-04:00.accessibility.json) |
@@ -391,14 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [August 14 at 9:33 AM](https://archive.org/download/fla_pol-2022/fla_pol-2022-08-14T09:33:10.594872-04:00.accessibility.json) |
 | [August 13 at 7:55 PM](https://archive.org/download/fla_pol-2022/fla_pol-2022-08-13T19:55:42.511747-04:00.accessibility.json) |
 | [August 13 at 8:59 AM](https://archive.org/download/fla_pol-2022/fla_pol-2022-08-13T08:59:08.158378-04:00.accessibility.json) |
-| [August 12 at 8:34 PM](https://archive.org/download/fla_pol-2022/fla_pol-2022-08-12T20:33:57.950772-04:00.accessibility.json) |
-| [August 12 at 7:43 AM](https://archive.org/download/fla_pol-2022/fla_pol-2022-08-12T07:43:42.737965-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 16 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
 
 
 
@@ -406,6 +407,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 17 at 7:02 PM](https://archive.org/download/fla_pol-2022/fla_pol-2022-08-17T19:02:23.342309-04:00.lighthouse.json) |
+| [August 17 at 6:57 AM](https://archive.org/download/fla_pol-2022/fla_pol-2022-08-17T06:57:07.863635-04:00.lighthouse.json) |
 | [August 16 at 7:05 PM](https://archive.org/download/fla_pol-2022/fla_pol-2022-08-16T19:05:26.678691-04:00.lighthouse.json) |
 | [August 16 at 9:37 AM](https://archive.org/download/fla_pol-2022/fla_pol-2022-08-16T09:37:24.531025-04:00.lighthouse.json) |
 | [August 15 at 9:24 PM](https://archive.org/download/fla_pol-2022/fla_pol-2022-08-15T21:24:31.816120-04:00.lighthouse.json) |
@@ -414,8 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 14 at 9:33 AM](https://archive.org/download/fla_pol-2022/fla_pol-2022-08-14T09:33:10.594872-04:00.lighthouse.json) |
 | [August 13 at 7:55 PM](https://archive.org/download/fla_pol-2022/fla_pol-2022-08-13T19:55:42.511747-04:00.lighthouse.json) |
 | [August 13 at 8:59 AM](https://archive.org/download/fla_pol-2022/fla_pol-2022-08-13T08:59:08.158378-04:00.lighthouse.json) |
-| [August 12 at 8:34 PM](https://archive.org/download/fla_pol-2022/fla_pol-2022-08-12T20:33:57.950772-04:00.lighthouse.json) |
-| [August 12 at 7:43 AM](https://archive.org/download/fla_pol-2022/fla_pol-2022-08-12T07:43:42.737965-04:00.lighthouse.json) |
 
 
 

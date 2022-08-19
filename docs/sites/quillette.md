@@ -31,7 +31,7 @@ This site was analyzed 13 times over the last seven days. Scores of 90 or greate
   <script>
     const lighthouseAnalysisSpec = {
   "config": {
-    "view": {"width": 500, "height": 300, "stroke": 0},
+    "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
     "background": "#ffffff",
     "title": {
@@ -158,6 +158,7 @@ This site was analyzed 13 times over the last seven days. Scores of 90 or greate
   "height": 175,
   "title": "Lighthouse scores over last 7 days",
   "width": "container",
+  "height": 300,
   "$schema": "https://vega.github.io/schema/vega-lite/v4.17.0.json"
 };
     vegaEmbed("#vis--lighthouse-analysis", lighthouseAnalysisSpec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
@@ -233,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 61 screenshots with the Internet Archive.
+The archiving routine has saved 63 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -325,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/quillette-2022/quillette-2022-08-18T00:55:50.999620+01:00.jpg">
+  <img src="https://archive.org/download/quillette-2022/quillette-2022-08-18T00:55:50.999620+01:00.jpg"
+     alt="Quillette at 2022-08-18 00:55:59+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/quillette-2022/quillette-2022-08-18T00:55:50.999620+01:00.jpg">August 18 at 12:55 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/quillette-2022/quillette-2022-08-17T12:54:37.492911+01:00.jpg">
+  <img src="https://archive.org/download/quillette-2022/quillette-2022-08-17T12:54:37.492911+01:00.jpg"
+     alt="Quillette at 2022-08-17 12:54:39+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/quillette-2022/quillette-2022-08-17T12:54:37.492911+01:00.jpg">August 17 at 12:54 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/quillette-2022/quillette-2022-08-17T01:10:41.240541+01:00.jpg">
   <img src="https://archive.org/download/quillette-2022/quillette-2022-08-17T01:10:41.240541+01:00.jpg"
      alt="Quillette at 2022-08-17 01:10:44+01:00 local time"
@@ -414,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/quillette-2022/quillette-2022-08-12T14:29:53.528886+01:00.jpg">August 12 at 2:29 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/quillette-2022/quillette-2022-08-12T10:25:08.282179+01:00.jpg">
-  <img src="https://archive.org/download/quillette-2022/quillette-2022-08-12T10:25:08.282179+01:00.jpg"
-     alt="Quillette at 2022-08-12 10:25:09+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/quillette-2022/quillette-2022-08-12T10:25:08.282179+01:00.jpg">August 12 at 10:25 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/quillette-2022/quillette-2022-08-11T14:47:25.286243+01:00.jpg">
-  <img src="https://archive.org/download/quillette-2022/quillette-2022-08-11T14:47:25.286243+01:00.jpg"
-     alt="Quillette at 2022-08-11 14:47:32+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/quillette-2022/quillette-2022-08-11T14:47:25.286243+01:00.jpg">August 11 at 2:47 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 61 hyperlink lists with the Internet Archive.
+The archiving routine has saved 63 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -527,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 18 at 12:56 AM](https://archive.org/download/quillette-2022/quillette-2022-08-18T00:55:50.999620+01:00.hyperlinks.json) |
+| [August 17 at 12:54 PM](https://archive.org/download/quillette-2022/quillette-2022-08-17T12:54:37.492911+01:00.hyperlinks.json) |
 | [August 17 at 1:10 AM](https://archive.org/download/quillette-2022/quillette-2022-08-17T01:10:41.240541+01:00.hyperlinks.json) |
 | [August 16 at 3:08 PM](https://archive.org/download/quillette-2022/quillette-2022-08-16T15:07:54.987669+01:00.hyperlinks.json) |
 | [August 16 at 2:43 AM](https://archive.org/download/quillette-2022/quillette-2022-08-16T02:43:13.522279+01:00.hyperlinks.json) |
@@ -535,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 14 at 2:56 PM](https://archive.org/download/quillette-2022/quillette-2022-08-14T14:56:52.639324+01:00.hyperlinks.json) |
 | [August 14 at 4:23 AM](https://archive.org/download/quillette-2022/quillette-2022-08-14T04:23:13.911471+01:00.hyperlinks.json) |
 | [August 13 at 2:18 PM](https://archive.org/download/quillette-2022/quillette-2022-08-13T14:18:06.645891+01:00.hyperlinks.json) |
-| [August 13 at 1:49 AM](https://archive.org/download/quillette-2022/quillette-2022-08-13T01:49:04.364926+01:00.hyperlinks.json) |
-| [August 12 at 2:29 PM](https://archive.org/download/quillette-2022/quillette-2022-08-12T14:29:53.528886+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 61 accessibility trees with the Internet Archive.
+The archiving routine has saved 63 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -632,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 18 at 12:56 AM](https://archive.org/download/quillette-2022/quillette-2022-08-18T00:55:50.999620+01:00.accessibility.json) |
+| [August 17 at 12:54 PM](https://archive.org/download/quillette-2022/quillette-2022-08-17T12:54:37.492911+01:00.accessibility.json) |
 | [August 17 at 1:10 AM](https://archive.org/download/quillette-2022/quillette-2022-08-17T01:10:41.240541+01:00.accessibility.json) |
 | [August 16 at 3:07 PM](https://archive.org/download/quillette-2022/quillette-2022-08-16T15:07:54.987669+01:00.accessibility.json) |
 | [August 16 at 2:43 AM](https://archive.org/download/quillette-2022/quillette-2022-08-16T02:43:13.522279+01:00.accessibility.json) |
@@ -640,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 14 at 2:56 PM](https://archive.org/download/quillette-2022/quillette-2022-08-14T14:56:52.639324+01:00.accessibility.json) |
 | [August 14 at 4:23 AM](https://archive.org/download/quillette-2022/quillette-2022-08-14T04:23:13.911471+01:00.accessibility.json) |
 | [August 13 at 2:18 PM](https://archive.org/download/quillette-2022/quillette-2022-08-13T14:18:06.645891+01:00.accessibility.json) |
-| [August 13 at 1:49 AM](https://archive.org/download/quillette-2022/quillette-2022-08-13T01:49:04.364926+01:00.accessibility.json) |
-| [August 12 at 2:29 PM](https://archive.org/download/quillette-2022/quillette-2022-08-12T14:29:53.528886+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 49 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 51 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -738,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 18 at 12:56 AM](https://archive.org/download/quillette-2022/quillette-2022-08-18T00:55:50.999620+01:00.lighthouse.json) |
+| [August 17 at 12:54 PM](https://archive.org/download/quillette-2022/quillette-2022-08-17T12:54:37.492911+01:00.lighthouse.json) |
 | [August 17 at 1:10 AM](https://archive.org/download/quillette-2022/quillette-2022-08-17T01:10:41.240541+01:00.lighthouse.json) |
 | [August 16 at 3:08 PM](https://archive.org/download/quillette-2022/quillette-2022-08-16T15:07:54.987669+01:00.lighthouse.json) |
 | [August 16 at 2:43 AM](https://archive.org/download/quillette-2022/quillette-2022-08-16T02:43:13.522279+01:00.lighthouse.json) |
@@ -746,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 14 at 2:56 PM](https://archive.org/download/quillette-2022/quillette-2022-08-14T14:56:52.639324+01:00.lighthouse.json) |
 | [August 14 at 4:23 AM](https://archive.org/download/quillette-2022/quillette-2022-08-14T04:23:13.911471+01:00.lighthouse.json) |
 | [August 13 at 2:18 PM](https://archive.org/download/quillette-2022/quillette-2022-08-13T14:18:06.645891+01:00.lighthouse.json) |
-| [August 13 at 1:49 AM](https://archive.org/download/quillette-2022/quillette-2022-08-13T01:49:04.364926+01:00.lighthouse.json) |
-| [August 12 at 2:30 PM](https://archive.org/download/quillette-2022/quillette-2022-08-12T14:29:53.528886+01:00.lighthouse.json) |
 
 
 

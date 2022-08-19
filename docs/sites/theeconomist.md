@@ -31,7 +31,7 @@ This site was analyzed 14 times over the last seven days. Scores of 90 or greate
   <script>
     const lighthouseAnalysisSpec = {
   "config": {
-    "view": {"width": 500, "height": 300, "stroke": 0},
+    "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
     "background": "#ffffff",
     "title": {
@@ -158,6 +158,7 @@ This site was analyzed 14 times over the last seven days. Scores of 90 or greate
   "height": 175,
   "title": "Lighthouse scores over last 7 days",
   "width": "container",
+  "height": 300,
   "$schema": "https://vega.github.io/schema/vega-lite/v4.17.0.json"
 };
     vegaEmbed("#vis--lighthouse-analysis", lighthouseAnalysisSpec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
@@ -233,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 89 screenshots with the Internet Archive.
+The archiving routine has saved 91 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -325,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/theeconomist-2022/theeconomist-2022-08-17T14:09:23.959084+01:00.jpg">
+  <img src="https://archive.org/download/theeconomist-2022/theeconomist-2022-08-17T14:09:23.959084+01:00.jpg"
+     alt="Economist at 2022-08-17 14:09:30+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theeconomist-2022/theeconomist-2022-08-17T14:09:23.959084+01:00.jpg">August 17 at 2:09 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theeconomist-2022/theeconomist-2022-08-17T02:22:51.248447+01:00.jpg">
+  <img src="https://archive.org/download/theeconomist-2022/theeconomist-2022-08-17T02:22:51.248447+01:00.jpg"
+     alt="Economist at 2022-08-17 02:22:53+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theeconomist-2022/theeconomist-2022-08-17T02:22:51.248447+01:00.jpg">August 17 at 2:22 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/theeconomist-2022/theeconomist-2022-08-16T18:23:23.251353+01:00.jpg">
   <img src="https://archive.org/download/theeconomist-2022/theeconomist-2022-08-16T18:23:23.251353+01:00.jpg"
      alt="Economist at 2022-08-16 18:23:27+01:00 local time"
@@ -414,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/theeconomist-2022/theeconomist-2022-08-12T10:36:39.760259+01:00.jpg">August 12 at 10:36 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/theeconomist-2022/theeconomist-2022-08-11T18:07:14.863696+01:00.jpg">
-  <img src="https://archive.org/download/theeconomist-2022/theeconomist-2022-08-11T18:07:14.863696+01:00.jpg"
-     alt="Economist at 2022-08-11 18:07:16+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theeconomist-2022/theeconomist-2022-08-11T18:07:14.863696+01:00.jpg">August 11 at 6:07 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/theeconomist-2022/theeconomist-2022-08-11T03:27:10.851262+01:00.jpg">
-  <img src="https://archive.org/download/theeconomist-2022/theeconomist-2022-08-11T03:27:10.851262+01:00.jpg"
-     alt="Economist at 2022-08-11 03:27:12+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theeconomist-2022/theeconomist-2022-08-11T03:27:10.851262+01:00.jpg">August 11 at 3:27 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 90 hyperlink lists with the Internet Archive.
+The archiving routine has saved 92 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -527,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 17 at 2:09 PM](https://archive.org/download/theeconomist-2022/theeconomist-2022-08-17T14:09:23.959084+01:00.hyperlinks.json) |
+| [August 17 at 2:22 AM](https://archive.org/download/theeconomist-2022/theeconomist-2022-08-17T02:22:51.248447+01:00.hyperlinks.json) |
 | [August 16 at 6:23 PM](https://archive.org/download/theeconomist-2022/theeconomist-2022-08-16T18:23:23.251353+01:00.hyperlinks.json) |
 | [August 16 at 7:19 AM](https://archive.org/download/theeconomist-2022/theeconomist-2022-08-16T07:19:19.594437+01:00.hyperlinks.json) |
 | [August 15 at 8:37 PM](https://archive.org/download/theeconomist-2022/theeconomist-2022-08-15T20:37:39.422238+01:00.hyperlinks.json) |
@@ -535,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 14 at 6:07 AM](https://archive.org/download/theeconomist-2022/theeconomist-2022-08-14T06:07:24.391000+01:00.hyperlinks.json) |
 | [August 13 at 9:45 PM](https://archive.org/download/theeconomist-2022/theeconomist-2022-08-13T21:45:38.134474+01:00.hyperlinks.json) |
 | [August 13 at 3:17 AM](https://archive.org/download/theeconomist-2022/theeconomist-2022-08-13T03:17:08.064568+01:00.hyperlinks.json) |
-| [August 12 at 5:25 PM](https://archive.org/download/theeconomist-2022/theeconomist-2022-08-12T17:25:31.373444+01:00.hyperlinks.json) |
-| [August 12 at 10:36 AM](https://archive.org/download/theeconomist-2022/theeconomist-2022-08-12T10:36:39.760259+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 90 accessibility trees with the Internet Archive.
+The archiving routine has saved 92 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -632,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 17 at 2:09 PM](https://archive.org/download/theeconomist-2022/theeconomist-2022-08-17T14:09:23.959084+01:00.accessibility.json) |
+| [August 17 at 2:22 AM](https://archive.org/download/theeconomist-2022/theeconomist-2022-08-17T02:22:51.248447+01:00.accessibility.json) |
 | [August 16 at 6:23 PM](https://archive.org/download/theeconomist-2022/theeconomist-2022-08-16T18:23:23.251353+01:00.accessibility.json) |
 | [August 16 at 7:19 AM](https://archive.org/download/theeconomist-2022/theeconomist-2022-08-16T07:19:19.594437+01:00.accessibility.json) |
 | [August 15 at 8:37 PM](https://archive.org/download/theeconomist-2022/theeconomist-2022-08-15T20:37:39.422238+01:00.accessibility.json) |
@@ -640,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 14 at 6:07 AM](https://archive.org/download/theeconomist-2022/theeconomist-2022-08-14T06:07:24.391000+01:00.accessibility.json) |
 | [August 13 at 9:45 PM](https://archive.org/download/theeconomist-2022/theeconomist-2022-08-13T21:45:38.134474+01:00.accessibility.json) |
 | [August 13 at 3:17 AM](https://archive.org/download/theeconomist-2022/theeconomist-2022-08-13T03:17:08.064568+01:00.accessibility.json) |
-| [August 12 at 5:25 PM](https://archive.org/download/theeconomist-2022/theeconomist-2022-08-12T17:25:31.373444+01:00.accessibility.json) |
-| [August 12 at 10:36 AM](https://archive.org/download/theeconomist-2022/theeconomist-2022-08-12T10:36:39.760259+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 51 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 53 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -738,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 17 at 2:09 PM](https://archive.org/download/theeconomist-2022/theeconomist-2022-08-17T14:09:23.959084+01:00.lighthouse.json) |
+| [August 17 at 2:22 AM](https://archive.org/download/theeconomist-2022/theeconomist-2022-08-17T02:22:51.248447+01:00.lighthouse.json) |
 | [August 16 at 6:23 PM](https://archive.org/download/theeconomist-2022/theeconomist-2022-08-16T18:23:23.251353+01:00.lighthouse.json) |
 | [August 16 at 7:19 AM](https://archive.org/download/theeconomist-2022/theeconomist-2022-08-16T07:19:19.594437+01:00.lighthouse.json) |
 | [August 15 at 8:37 PM](https://archive.org/download/theeconomist-2022/theeconomist-2022-08-15T20:37:39.422238+01:00.lighthouse.json) |
@@ -746,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 14 at 6:07 AM](https://archive.org/download/theeconomist-2022/theeconomist-2022-08-14T06:07:24.391000+01:00.lighthouse.json) |
 | [August 13 at 9:45 PM](https://archive.org/download/theeconomist-2022/theeconomist-2022-08-13T21:45:38.134474+01:00.lighthouse.json) |
 | [August 13 at 3:17 AM](https://archive.org/download/theeconomist-2022/theeconomist-2022-08-13T03:17:08.064568+01:00.lighthouse.json) |
-| [August 12 at 5:25 PM](https://archive.org/download/theeconomist-2022/theeconomist-2022-08-12T17:25:31.373444+01:00.lighthouse.json) |
-| [August 12 at 10:36 AM](https://archive.org/download/theeconomist-2022/theeconomist-2022-08-12T10:36:39.760259+01:00.lighthouse.json) |
 
 
 

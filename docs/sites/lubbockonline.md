@@ -31,7 +31,7 @@ This site was analyzed 13 times over the last seven days. Scores of 90 or greate
   <script>
     const lighthouseAnalysisSpec = {
   "config": {
-    "view": {"width": 500, "height": 300, "stroke": 0},
+    "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
     "background": "#ffffff",
     "title": {
@@ -158,6 +158,7 @@ This site was analyzed 13 times over the last seven days. Scores of 90 or greate
   "height": 175,
   "title": "Lighthouse scores over last 7 days",
   "width": "container",
+  "height": 300,
   "$schema": "https://vega.github.io/schema/vega-lite/v4.17.0.json"
 };
     vegaEmbed("#vis--lighthouse-analysis", lighthouseAnalysisSpec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
@@ -233,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 59 screenshots with the Internet Archive.
+The archiving routine has saved 61 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -325,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-17T10:06:07.147459-05:00.jpg">
+  <img src="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-17T10:06:07.147459-05:00.jpg"
+     alt="Lubbock Avalanche-Journal at 2022-08-17 10:06:09-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-17T10:06:07.147459-05:00.jpg">August 17 at 10:06 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-16T21:30:43.707261-05:00.jpg">
+  <img src="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-16T21:30:43.707261-05:00.jpg"
+     alt="Lubbock Avalanche-Journal at 2022-08-16 21:30:46-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-16T21:30:43.707261-05:00.jpg">August 16 at 9:30 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-16T13:36:37.881219-05:00.jpg">
   <img src="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-16T13:36:37.881219-05:00.jpg"
      alt="Lubbock Avalanche-Journal at 2022-08-16 13:36:40-05:00 local time"
@@ -414,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-12T05:04:24.298506-05:00.jpg">August 12 at 5:04 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-11T13:45:33.730566-05:00.jpg">
-  <img src="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-11T13:45:33.730566-05:00.jpg"
-     alt="Lubbock Avalanche-Journal at 2022-08-11 13:45:36-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-11T13:45:33.730566-05:00.jpg">August 11 at 1:45 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-10T22:58:41.254010-05:00.jpg">
-  <img src="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-10T22:58:41.254010-05:00.jpg"
-     alt="Lubbock Avalanche-Journal at 2022-08-10 22:58:43-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-10T22:58:41.254010-05:00.jpg">August 10 at 10:58 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 57 hyperlink lists with the Internet Archive.
+The archiving routine has saved 59 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -527,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 17 at 10:06 AM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-17T10:06:07.147459-05:00.hyperlinks.json) |
+| [August 16 at 9:30 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-16T21:30:43.707261-05:00.hyperlinks.json) |
 | [August 16 at 1:36 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-16T13:36:37.881219-05:00.hyperlinks.json) |
 | [August 16 at 1:40 AM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-16T01:39:55.833645-05:00.hyperlinks.json) |
 | [August 15 at 2:59 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-15T14:59:35.164864-05:00.hyperlinks.json) |
@@ -535,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 14 at 1:53 AM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-14T01:53:32.731205-05:00.hyperlinks.json) |
 | [August 13 at 3:30 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-13T15:30:30.199231-05:00.hyperlinks.json) |
 | [August 12 at 10:47 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-12T22:47:50.853716-05:00.hyperlinks.json) |
-| [August 12 at 5:04 AM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-12T05:04:24.298506-05:00.hyperlinks.json) |
-| [August 11 at 1:45 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-11T13:45:33.730566-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 59 accessibility trees with the Internet Archive.
+The archiving routine has saved 61 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -632,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 17 at 10:06 AM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-17T10:06:07.147459-05:00.accessibility.json) |
+| [August 16 at 9:30 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-16T21:30:43.707261-05:00.accessibility.json) |
 | [August 16 at 1:36 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-16T13:36:37.881219-05:00.accessibility.json) |
 | [August 16 at 1:40 AM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-16T01:39:55.833645-05:00.accessibility.json) |
 | [August 15 at 2:59 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-15T14:59:35.164864-05:00.accessibility.json) |
@@ -640,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 14 at 1:53 AM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-14T01:53:32.731205-05:00.accessibility.json) |
 | [August 13 at 3:30 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-13T15:30:30.199231-05:00.accessibility.json) |
 | [August 12 at 10:47 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-12T22:47:50.853716-05:00.accessibility.json) |
-| [August 12 at 12:55 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-12T12:55:20.959140-05:00.accessibility.json) |
-| [August 12 at 5:04 AM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-12T05:04:24.298506-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 48 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 50 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -738,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 17 at 10:06 AM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-17T10:06:07.147459-05:00.lighthouse.json) |
+| [August 16 at 9:30 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-16T21:30:43.707261-05:00.lighthouse.json) |
 | [August 16 at 1:36 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-16T13:36:37.881219-05:00.lighthouse.json) |
 | [August 16 at 1:40 AM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-16T01:39:55.833645-05:00.lighthouse.json) |
 | [August 15 at 2:59 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-15T14:59:35.164864-05:00.lighthouse.json) |
@@ -746,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 14 at 1:53 AM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-14T01:53:32.731205-05:00.lighthouse.json) |
 | [August 13 at 3:30 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-13T15:30:30.199231-05:00.lighthouse.json) |
 | [August 12 at 10:47 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-12T22:47:50.853716-05:00.lighthouse.json) |
-| [August 12 at 12:55 PM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-12T12:55:20.959140-05:00.lighthouse.json) |
-| [August 12 at 5:04 AM](https://archive.org/download/lubbockonline-2022/lubbockonline-2022-08-12T05:04:24.298506-05:00.lighthouse.json) |
 
 
 

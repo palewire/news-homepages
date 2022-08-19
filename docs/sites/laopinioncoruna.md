@@ -31,7 +31,7 @@ This site was analyzed 13 times over the last seven days. Scores of 90 or greate
   <script>
     const lighthouseAnalysisSpec = {
   "config": {
-    "view": {"width": 500, "height": 300, "stroke": 0},
+    "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
     "background": "#ffffff",
     "title": {
@@ -158,6 +158,7 @@ This site was analyzed 13 times over the last seven days. Scores of 90 or greate
   "height": 175,
   "title": "Lighthouse scores over last 7 days",
   "width": "container",
+  "height": 300,
   "$schema": "https://vega.github.io/schema/vega-lite/v4.17.0.json"
 };
     vegaEmbed("#vis--lighthouse-analysis", lighthouseAnalysisSpec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
@@ -233,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 43 screenshots with the Internet Archive.
+The archiving routine has saved 45 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -325,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-17T17:04:39.243038+02:00.jpg">
+  <img src="https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-17T17:04:39.243038+02:00.jpg"
+     alt="La Opinión A Coruña at 2022-08-17 17:04:43+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-17T17:04:39.243038+02:00.jpg">August 17 at 5:04 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-17T04:30:11.966441+02:00.jpg">
+  <img src="https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-17T04:30:11.966441+02:00.jpg"
+     alt="La Opinión A Coruña at 2022-08-17 04:30:18+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-17T04:30:11.966441+02:00.jpg">August 17 at 4:30 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-16T20:35:20.269752+02:00.jpg">
   <img src="https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-16T20:35:20.269752+02:00.jpg"
      alt="La Opinión A Coruña at 2022-08-16 20:35:26+02:00 local time"
@@ -414,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-12T12:02:21.774495+02:00.jpg">August 12 at 12:02 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-11T20:44:09.675500+02:00.jpg">
-  <img src="https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-11T20:44:09.675500+02:00.jpg"
-     alt="La Opinión A Coruña at 2022-08-11 20:44:11+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-11T20:44:09.675500+02:00.jpg">August 11 at 8:44 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-11T05:57:18.004799+02:00.jpg">
-  <img src="https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-11T05:57:18.004799+02:00.jpg"
-     alt="La Opinión A Coruña at 2022-08-11 05:57:20+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-11T05:57:18.004799+02:00.jpg">August 11 at 5:57 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 44 hyperlink lists with the Internet Archive.
+The archiving routine has saved 46 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -527,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 17 at 5:04 PM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-17T17:04:39.243038+02:00.hyperlinks.json) |
+| [August 17 at 4:30 AM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-17T04:30:11.966441+02:00.hyperlinks.json) |
 | [August 16 at 8:35 PM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-16T20:35:20.269752+02:00.hyperlinks.json) |
 | [August 16 at 8:38 AM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-16T08:38:43.946791+02:00.hyperlinks.json) |
 | [August 15 at 9:58 PM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-15T21:58:27.759685+02:00.hyperlinks.json) |
@@ -535,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 14 at 8:52 AM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-14T08:52:24.332629+02:00.hyperlinks.json) |
 | [August 13 at 10:27 PM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-13T22:27:46.750111+02:00.hyperlinks.json) |
 | [August 13 at 5:47 AM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-13T05:47:03.564192+02:00.hyperlinks.json) |
-| [August 12 at 7:53 PM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-12T19:53:35.877956+02:00.hyperlinks.json) |
-| [August 12 at 12:02 PM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-12T12:02:21.774495+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 44 accessibility trees with the Internet Archive.
+The archiving routine has saved 46 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -632,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 17 at 5:04 PM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-17T17:04:39.243038+02:00.accessibility.json) |
+| [August 17 at 4:30 AM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-17T04:30:11.966441+02:00.accessibility.json) |
 | [August 16 at 8:35 PM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-16T20:35:20.269752+02:00.accessibility.json) |
 | [August 16 at 8:38 AM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-16T08:38:43.946791+02:00.accessibility.json) |
 | [August 15 at 9:58 PM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-15T21:58:27.759685+02:00.accessibility.json) |
@@ -640,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 14 at 8:52 AM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-14T08:52:24.332629+02:00.accessibility.json) |
 | [August 13 at 10:27 PM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-13T22:27:46.750111+02:00.accessibility.json) |
 | [August 13 at 5:47 AM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-13T05:47:03.564192+02:00.accessibility.json) |
-| [August 12 at 7:53 PM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-12T19:53:35.877956+02:00.accessibility.json) |
-| [August 12 at 12:02 PM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-12T12:02:21.774495+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 44 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 46 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -738,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 17 at 5:04 PM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-17T17:04:39.243038+02:00.lighthouse.json) |
+| [August 17 at 4:30 AM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-17T04:30:11.966441+02:00.lighthouse.json) |
 | [August 16 at 8:35 PM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-16T20:35:20.269752+02:00.lighthouse.json) |
 | [August 16 at 8:38 AM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-16T08:38:43.946791+02:00.lighthouse.json) |
 | [August 15 at 9:58 PM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-15T21:58:27.759685+02:00.lighthouse.json) |
@@ -746,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 14 at 8:52 AM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-14T08:52:24.332629+02:00.lighthouse.json) |
 | [August 13 at 10:27 PM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-13T22:27:46.750111+02:00.lighthouse.json) |
 | [August 13 at 5:47 AM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-13T05:47:03.564192+02:00.lighthouse.json) |
-| [August 12 at 7:53 PM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-12T19:53:35.877956+02:00.lighthouse.json) |
-| [August 12 at 12:02 PM](https://archive.org/download/laopinioncoruna-2022/laopinioncoruna-2022-08-12T12:02:21.774495+02:00.lighthouse.json) |
 
 
 

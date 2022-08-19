@@ -31,7 +31,7 @@ This site was analyzed 17 times over the last seven days. Scores of 90 or greate
   <script>
     const lighthouseAnalysisSpec = {
   "config": {
-    "view": {"width": 500, "height": 300, "stroke": 0},
+    "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
     "background": "#ffffff",
     "title": {
@@ -158,6 +158,7 @@ This site was analyzed 17 times over the last seven days. Scores of 90 or greate
   "height": 175,
   "title": "Lighthouse scores over last 7 days",
   "width": "container",
+  "height": 300,
   "$schema": "https://vega.github.io/schema/vega-lite/v4.17.0.json"
 };
     vegaEmbed("#vis--lighthouse-analysis", lighthouseAnalysisSpec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
@@ -233,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 161 screenshots with the Internet Archive.
+The archiving routine has saved 164 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -325,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/suntimes-2022/suntimes-2022-08-17T10:30:26.328733-05:00.jpg">
+  <img src="https://archive.org/download/suntimes-2022/suntimes-2022-08-17T10:30:26.328733-05:00.jpg"
+     alt="Chicago Sun-Times at 2022-08-17 10:30:58-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/suntimes-2022/suntimes-2022-08-17T10:30:26.328733-05:00.jpg">August 17 at 10:30 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/suntimes-2022/suntimes-2022-08-17T08:08:20.794736-05:00.jpg">
+  <img src="https://archive.org/download/suntimes-2022/suntimes-2022-08-17T08:08:20.794736-05:00.jpg"
+     alt="Chicago Sun-Times at 2022-08-17 08:08:22-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/suntimes-2022/suntimes-2022-08-17T08:08:20.794736-05:00.jpg">August 17 at 8:08 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/suntimes-2022/suntimes-2022-08-16T20:20:40.254895-05:00.jpg">
+  <img src="https://archive.org/download/suntimes-2022/suntimes-2022-08-16T20:20:40.254895-05:00.jpg"
+     alt="Chicago Sun-Times at 2022-08-16 20:20:42-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/suntimes-2022/suntimes-2022-08-16T20:20:40.254895-05:00.jpg">August 16 at 8:20 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/suntimes-2022/suntimes-2022-08-16T12:21:12.686187-05:00.jpg">
   <img src="https://archive.org/download/suntimes-2022/suntimes-2022-08-16T12:21:12.686187-05:00.jpg"
      alt="Chicago Sun-Times at 2022-08-16 12:21:22-05:00 local time"
@@ -405,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/suntimes-2022/suntimes-2022-08-12T13:34:27.679119-05:00.jpg">August 12 at 1:34 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/suntimes-2022/suntimes-2022-08-12T11:22:56.165752-05:00.jpg">
-  <img src="https://archive.org/download/suntimes-2022/suntimes-2022-08-12T11:22:56.165752-05:00.jpg"
-     alt="Chicago Sun-Times at 2022-08-12 11:23:03-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/suntimes-2022/suntimes-2022-08-12T11:22:56.165752-05:00.jpg">August 12 at 11:23 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/suntimes-2022/suntimes-2022-08-12T04:32:49.708560-05:00.jpg">
-  <img src="https://archive.org/download/suntimes-2022/suntimes-2022-08-12T04:32:49.708560-05:00.jpg"
-     alt="Chicago Sun-Times at 2022-08-12 04:32:56-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/suntimes-2022/suntimes-2022-08-12T04:32:49.708560-05:00.jpg">August 12 at 4:32 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/suntimes-2022/suntimes-2022-08-11T14:03:57.324831-05:00.jpg">
-  <img src="https://archive.org/download/suntimes-2022/suntimes-2022-08-11T14:03:57.324831-05:00.jpg"
-     alt="Chicago Sun-Times at 2022-08-11 14:04:04-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/suntimes-2022/suntimes-2022-08-11T14:03:57.324831-05:00.jpg">August 11 at 2:04 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 162 hyperlink lists with the Internet Archive.
+The archiving routine has saved 165 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -527,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 17 at 10:31 AM](https://archive.org/download/suntimes-2022/suntimes-2022-08-17T10:30:26.328733-05:00.hyperlinks.json) |
+| [August 17 at 8:08 AM](https://archive.org/download/suntimes-2022/suntimes-2022-08-17T08:08:20.794736-05:00.hyperlinks.json) |
+| [August 16 at 8:20 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-16T20:20:40.254895-05:00.hyperlinks.json) |
 | [August 16 at 12:21 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-16T12:21:12.686187-05:00.hyperlinks.json) |
 | [August 16 at 1:16 AM](https://archive.org/download/suntimes-2022/suntimes-2022-08-16T01:16:46.329860-05:00.hyperlinks.json) |
 | [August 15 at 2:35 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-15T14:35:36.906426-05:00.hyperlinks.json) |
@@ -534,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 14 at 12:02 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-14T12:02:25.297178-05:00.hyperlinks.json) |
 | [August 14 at 12:05 AM](https://archive.org/download/suntimes-2022/suntimes-2022-08-14T00:05:31.200057-05:00.hyperlinks.json) |
 | [August 13 at 3:43 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-13T15:43:04.964284-05:00.hyperlinks.json) |
-| [August 12 at 9:15 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-12T21:15:10.884387-05:00.hyperlinks.json) |
-| [August 12 at 1:34 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-12T13:34:27.679119-05:00.hyperlinks.json) |
-| [August 12 at 11:23 AM](https://archive.org/download/suntimes-2022/suntimes-2022-08-12T11:22:56.165752-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 165 accessibility trees with the Internet Archive.
+The archiving routine has saved 168 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -632,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 17 at 10:31 AM](https://archive.org/download/suntimes-2022/suntimes-2022-08-17T10:30:26.328733-05:00.accessibility.json) |
+| [August 17 at 8:08 AM](https://archive.org/download/suntimes-2022/suntimes-2022-08-17T08:08:20.794736-05:00.accessibility.json) |
+| [August 16 at 8:20 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-16T20:20:40.254895-05:00.accessibility.json) |
 | [August 16 at 12:21 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-16T12:21:12.686187-05:00.accessibility.json) |
 | [August 16 at 1:16 AM](https://archive.org/download/suntimes-2022/suntimes-2022-08-16T01:16:46.329860-05:00.accessibility.json) |
 | [August 15 at 2:35 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-15T14:35:36.906426-05:00.accessibility.json) |
@@ -639,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 14 at 12:02 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-14T12:02:25.297178-05:00.accessibility.json) |
 | [August 14 at 12:05 AM](https://archive.org/download/suntimes-2022/suntimes-2022-08-14T00:05:31.200057-05:00.accessibility.json) |
 | [August 13 at 3:43 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-13T15:43:04.964284-05:00.accessibility.json) |
-| [August 12 at 9:15 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-12T21:15:10.884387-05:00.accessibility.json) |
-| [August 12 at 1:34 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-12T13:34:27.679119-05:00.accessibility.json) |
-| [August 12 at 11:23 AM](https://archive.org/download/suntimes-2022/suntimes-2022-08-12T11:22:56.165752-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 72 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 75 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -738,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 17 at 10:31 AM](https://archive.org/download/suntimes-2022/suntimes-2022-08-17T10:30:26.328733-05:00.lighthouse.json) |
+| [August 17 at 8:08 AM](https://archive.org/download/suntimes-2022/suntimes-2022-08-17T08:08:20.794736-05:00.lighthouse.json) |
+| [August 16 at 8:20 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-16T20:20:40.254895-05:00.lighthouse.json) |
 | [August 16 at 12:21 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-16T12:21:12.686187-05:00.lighthouse.json) |
 | [August 16 at 1:16 AM](https://archive.org/download/suntimes-2022/suntimes-2022-08-16T01:16:46.329860-05:00.lighthouse.json) |
 | [August 15 at 2:35 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-15T14:35:36.906426-05:00.lighthouse.json) |
@@ -745,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 14 at 12:02 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-14T12:02:25.297178-05:00.lighthouse.json) |
 | [August 14 at 12:05 AM](https://archive.org/download/suntimes-2022/suntimes-2022-08-14T00:05:31.200057-05:00.lighthouse.json) |
 | [August 13 at 3:43 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-13T15:43:04.964284-05:00.lighthouse.json) |
-| [August 12 at 9:15 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-12T21:15:10.884387-05:00.lighthouse.json) |
-| [August 12 at 1:34 PM](https://archive.org/download/suntimes-2022/suntimes-2022-08-12T13:34:27.679119-05:00.lighthouse.json) |
-| [August 12 at 11:23 AM](https://archive.org/download/suntimes-2022/suntimes-2022-08-12T11:22:56.165752-05:00.lighthouse.json) |
 
 
 

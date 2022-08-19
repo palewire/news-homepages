@@ -31,7 +31,7 @@ This site was analyzed 18 times over the last seven days. Scores of 90 or greate
   <script>
     const lighthouseAnalysisSpec = {
   "config": {
-    "view": {"width": 500, "height": 300, "stroke": 0},
+    "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
     "background": "#ffffff",
     "title": {
@@ -158,6 +158,7 @@ This site was analyzed 18 times over the last seven days. Scores of 90 or greate
   "height": 175,
   "title": "Lighthouse scores over last 7 days",
   "width": "container",
+  "height": 300,
   "$schema": "https://vega.github.io/schema/vega-lite/v4.17.0.json"
 };
     vegaEmbed("#vis--lighthouse-analysis", lighthouseAnalysisSpec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
@@ -233,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 149 screenshots with the Internet Archive.
+The archiving routine has saved 152 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -325,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/democracynow-2022/democracynow-2022-08-17T14:28:50.570112-04:00.jpg">
+  <img src="https://archive.org/download/democracynow-2022/democracynow-2022-08-17T14:28:50.570112-04:00.jpg"
+     alt="Democracy Now! at 2022-08-17 14:28:55-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/democracynow-2022/democracynow-2022-08-17T14:28:50.570112-04:00.jpg">August 17 at 2:28 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/democracynow-2022/democracynow-2022-08-17T10:59:19.166189-04:00.jpg">
+  <img src="https://archive.org/download/democracynow-2022/democracynow-2022-08-17T10:59:19.166189-04:00.jpg"
+     alt="Democracy Now! at 2022-08-17 10:59:20-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/democracynow-2022/democracynow-2022-08-17T10:59:19.166189-04:00.jpg">August 17 at 10:59 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/democracynow-2022/democracynow-2022-08-16T22:25:09.568376-04:00.jpg">
+  <img src="https://archive.org/download/democracynow-2022/democracynow-2022-08-16T22:25:09.568376-04:00.jpg"
+     alt="Democracy Now! at 2022-08-16 22:25:11-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/democracynow-2022/democracynow-2022-08-16T22:25:09.568376-04:00.jpg">August 16 at 10:25 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/democracynow-2022/democracynow-2022-08-16T14:25:50.191583-04:00.jpg">
   <img src="https://archive.org/download/democracynow-2022/democracynow-2022-08-16T14:25:50.191583-04:00.jpg"
      alt="Democracy Now! at 2022-08-16 14:25:56-04:00 local time"
@@ -405,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/democracynow-2022/democracynow-2022-08-13T16:17:52.485131-04:00.jpg">August 13 at 4:17 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/democracynow-2022/democracynow-2022-08-12T23:37:10.194702-04:00.jpg">
-  <img src="https://archive.org/download/democracynow-2022/democracynow-2022-08-12T23:37:10.194702-04:00.jpg"
-     alt="Democracy Now! at 2022-08-12 23:37:14-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/democracynow-2022/democracynow-2022-08-12T23:37:10.194702-04:00.jpg">August 12 at 11:37 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/democracynow-2022/democracynow-2022-08-12T15:15:49.848626-04:00.jpg">
-  <img src="https://archive.org/download/democracynow-2022/democracynow-2022-08-12T15:15:49.848626-04:00.jpg"
-     alt="Democracy Now! at 2022-08-12 15:15:53-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/democracynow-2022/democracynow-2022-08-12T15:15:49.848626-04:00.jpg">August 12 at 3:15 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/democracynow-2022/democracynow-2022-08-12T13:45:12.723427-04:00.jpg">
-  <img src="https://archive.org/download/democracynow-2022/democracynow-2022-08-12T13:45:12.723427-04:00.jpg"
-     alt="Democracy Now! at 2022-08-12 13:45:14-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/democracynow-2022/democracynow-2022-08-12T13:45:12.723427-04:00.jpg">August 12 at 1:45 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 151 hyperlink lists with the Internet Archive.
+The archiving routine has saved 154 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -527,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 17 at 2:29 PM](https://archive.org/download/democracynow-2022/democracynow-2022-08-17T14:28:50.570112-04:00.hyperlinks.json) |
+| [August 17 at 10:59 AM](https://archive.org/download/democracynow-2022/democracynow-2022-08-17T10:59:19.166189-04:00.hyperlinks.json) |
+| [August 16 at 10:25 PM](https://archive.org/download/democracynow-2022/democracynow-2022-08-16T22:25:09.568376-04:00.hyperlinks.json) |
 | [August 16 at 2:25 PM](https://archive.org/download/democracynow-2022/democracynow-2022-08-16T14:25:50.191583-04:00.hyperlinks.json) |
 | [August 16 at 2:29 AM](https://archive.org/download/democracynow-2022/democracynow-2022-08-16T02:29:32.836795-04:00.hyperlinks.json) |
 | [August 15 at 4:58 PM](https://archive.org/download/democracynow-2022/democracynow-2022-08-15T16:57:54.482566-04:00.hyperlinks.json) |
@@ -534,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 15 at 2:21 AM](https://archive.org/download/democracynow-2022/democracynow-2022-08-15T02:21:43.801007-04:00.hyperlinks.json) |
 | [August 14 at 3:51 PM](https://archive.org/download/democracynow-2022/democracynow-2022-08-14T15:51:51.429282-04:00.hyperlinks.json) |
 | [August 14 at 1:16 PM](https://archive.org/download/democracynow-2022/democracynow-2022-08-14T13:15:57.339636-04:00.hyperlinks.json) |
-| [August 14 at 2:43 AM](https://archive.org/download/democracynow-2022/democracynow-2022-08-14T02:43:05.647737-04:00.hyperlinks.json) |
-| [August 13 at 4:17 PM](https://archive.org/download/democracynow-2022/democracynow-2022-08-13T16:17:52.485131-04:00.hyperlinks.json) |
-| [August 12 at 11:37 PM](https://archive.org/download/democracynow-2022/democracynow-2022-08-12T23:37:10.194702-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 151 accessibility trees with the Internet Archive.
+The archiving routine has saved 154 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -632,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 17 at 2:28 PM](https://archive.org/download/democracynow-2022/democracynow-2022-08-17T14:28:50.570112-04:00.accessibility.json) |
+| [August 17 at 10:59 AM](https://archive.org/download/democracynow-2022/democracynow-2022-08-17T10:59:19.166189-04:00.accessibility.json) |
+| [August 16 at 10:25 PM](https://archive.org/download/democracynow-2022/democracynow-2022-08-16T22:25:09.568376-04:00.accessibility.json) |
 | [August 16 at 2:25 PM](https://archive.org/download/democracynow-2022/democracynow-2022-08-16T14:25:50.191583-04:00.accessibility.json) |
 | [August 16 at 2:29 AM](https://archive.org/download/democracynow-2022/democracynow-2022-08-16T02:29:32.836795-04:00.accessibility.json) |
 | [August 15 at 4:58 PM](https://archive.org/download/democracynow-2022/democracynow-2022-08-15T16:57:54.482566-04:00.accessibility.json) |
@@ -639,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 15 at 2:21 AM](https://archive.org/download/democracynow-2022/democracynow-2022-08-15T02:21:43.801007-04:00.accessibility.json) |
 | [August 14 at 3:51 PM](https://archive.org/download/democracynow-2022/democracynow-2022-08-14T15:51:51.429282-04:00.accessibility.json) |
 | [August 14 at 1:15 PM](https://archive.org/download/democracynow-2022/democracynow-2022-08-14T13:15:57.339636-04:00.accessibility.json) |
-| [August 14 at 2:43 AM](https://archive.org/download/democracynow-2022/democracynow-2022-08-14T02:43:05.647737-04:00.accessibility.json) |
-| [August 13 at 4:17 PM](https://archive.org/download/democracynow-2022/democracynow-2022-08-13T16:17:52.485131-04:00.accessibility.json) |
-| [August 12 at 11:37 PM](https://archive.org/download/democracynow-2022/democracynow-2022-08-12T23:37:10.194702-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 71 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 74 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -738,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 17 at 2:29 PM](https://archive.org/download/democracynow-2022/democracynow-2022-08-17T14:28:50.570112-04:00.lighthouse.json) |
+| [August 17 at 10:59 AM](https://archive.org/download/democracynow-2022/democracynow-2022-08-17T10:59:19.166189-04:00.lighthouse.json) |
+| [August 16 at 10:25 PM](https://archive.org/download/democracynow-2022/democracynow-2022-08-16T22:25:09.568376-04:00.lighthouse.json) |
 | [August 16 at 2:26 PM](https://archive.org/download/democracynow-2022/democracynow-2022-08-16T14:25:50.191583-04:00.lighthouse.json) |
 | [August 16 at 2:29 AM](https://archive.org/download/democracynow-2022/democracynow-2022-08-16T02:29:32.836795-04:00.lighthouse.json) |
 | [August 15 at 4:58 PM](https://archive.org/download/democracynow-2022/democracynow-2022-08-15T16:57:54.482566-04:00.lighthouse.json) |
@@ -745,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 15 at 2:21 AM](https://archive.org/download/democracynow-2022/democracynow-2022-08-15T02:21:43.801007-04:00.lighthouse.json) |
 | [August 14 at 3:51 PM](https://archive.org/download/democracynow-2022/democracynow-2022-08-14T15:51:51.429282-04:00.lighthouse.json) |
 | [August 14 at 1:16 PM](https://archive.org/download/democracynow-2022/democracynow-2022-08-14T13:15:57.339636-04:00.lighthouse.json) |
-| [August 14 at 2:43 AM](https://archive.org/download/democracynow-2022/democracynow-2022-08-14T02:43:05.647737-04:00.lighthouse.json) |
-| [August 13 at 4:17 PM](https://archive.org/download/democracynow-2022/democracynow-2022-08-13T16:17:52.485131-04:00.lighthouse.json) |
-| [August 12 at 11:37 PM](https://archive.org/download/democracynow-2022/democracynow-2022-08-12T23:37:10.194702-04:00.lighthouse.json) |
 
 
 

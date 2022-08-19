@@ -31,7 +31,7 @@ This site was analyzed 13 times over the last seven days. Scores of 90 or greate
   <script>
     const lighthouseAnalysisSpec = {
   "config": {
-    "view": {"width": 500, "height": 300, "stroke": 0},
+    "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
     "background": "#ffffff",
     "title": {
@@ -158,6 +158,7 @@ This site was analyzed 13 times over the last seven days. Scores of 90 or greate
   "height": 175,
   "title": "Lighthouse scores over last 7 days",
   "width": "container",
+  "height": 300,
   "$schema": "https://vega.github.io/schema/vega-lite/v4.17.0.json"
 };
     vegaEmbed("#vis--lighthouse-analysis", lighthouseAnalysisSpec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
@@ -233,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 76 screenshots with the Internet Archive.
+The archiving routine has saved 78 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -325,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/teamtrace-2022/teamtrace-2022-08-17T11:11:29.980536-04:00.jpg">
+  <img src="https://archive.org/download/teamtrace-2022/teamtrace-2022-08-17T11:11:29.980536-04:00.jpg"
+     alt="Trace at 2022-08-17 11:11:34-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/teamtrace-2022/teamtrace-2022-08-17T11:11:29.980536-04:00.jpg">August 17 at 11:11 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/teamtrace-2022/teamtrace-2022-08-16T23:45:20.779616-04:00.jpg">
+  <img src="https://archive.org/download/teamtrace-2022/teamtrace-2022-08-16T23:45:20.779616-04:00.jpg"
+     alt="Trace at 2022-08-16 23:45:22-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/teamtrace-2022/teamtrace-2022-08-16T23:45:20.779616-04:00.jpg">August 16 at 11:45 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/teamtrace-2022/teamtrace-2022-08-16T14:46:21.352202-04:00.jpg">
   <img src="https://archive.org/download/teamtrace-2022/teamtrace-2022-08-16T14:46:21.352202-04:00.jpg"
      alt="Trace at 2022-08-16 14:46:28-04:00 local time"
@@ -414,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/teamtrace-2022/teamtrace-2022-08-11T14:56:51.676169-04:00.jpg">August 11 at 2:56 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/teamtrace-2022/teamtrace-2022-08-11T01:26:53.678128-04:00.jpg">
-  <img src="https://archive.org/download/teamtrace-2022/teamtrace-2022-08-11T01:26:53.678128-04:00.jpg"
-     alt="Trace at 2022-08-11 01:26:56-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/teamtrace-2022/teamtrace-2022-08-11T01:26:53.678128-04:00.jpg">August 11 at 1:26 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/teamtrace-2022/teamtrace-2022-08-10T14:25:18.703412-04:00.jpg">
-  <img src="https://archive.org/download/teamtrace-2022/teamtrace-2022-08-10T14:25:18.703412-04:00.jpg"
-     alt="Trace at 2022-08-10 14:25:24-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/teamtrace-2022/teamtrace-2022-08-10T14:25:18.703412-04:00.jpg">August 10 at 2:25 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 77 hyperlink lists with the Internet Archive.
+The archiving routine has saved 79 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -527,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 17 at 11:11 AM](https://archive.org/download/teamtrace-2022/teamtrace-2022-08-17T11:11:29.980536-04:00.hyperlinks.json) |
+| [August 16 at 11:45 PM](https://archive.org/download/teamtrace-2022/teamtrace-2022-08-16T23:45:20.779616-04:00.hyperlinks.json) |
 | [August 16 at 2:46 PM](https://archive.org/download/teamtrace-2022/teamtrace-2022-08-16T14:46:21.352202-04:00.hyperlinks.json) |
 | [August 16 at 2:52 AM](https://archive.org/download/teamtrace-2022/teamtrace-2022-08-16T02:52:47.411566-04:00.hyperlinks.json) |
 | [August 15 at 4:16 PM](https://archive.org/download/teamtrace-2022/teamtrace-2022-08-15T16:15:56.457491-04:00.hyperlinks.json) |
@@ -535,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 14 at 3:07 AM](https://archive.org/download/teamtrace-2022/teamtrace-2022-08-14T03:07:16.385308-04:00.hyperlinks.json) |
 | [August 13 at 5:02 PM](https://archive.org/download/teamtrace-2022/teamtrace-2022-08-13T17:02:16.136221-04:00.hyperlinks.json) |
 | [August 13 at 1:12 AM](https://archive.org/download/teamtrace-2022/teamtrace-2022-08-13T01:12:50.645350-04:00.hyperlinks.json) |
-| [August 12 at 2:26 PM](https://archive.org/download/teamtrace-2022/teamtrace-2022-08-12T14:26:14.450834-04:00.hyperlinks.json) |
-| [August 12 at 5:47 AM](https://archive.org/download/teamtrace-2022/teamtrace-2022-08-12T05:47:13.150132-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 78 accessibility trees with the Internet Archive.
+The archiving routine has saved 80 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -632,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 17 at 11:11 AM](https://archive.org/download/teamtrace-2022/teamtrace-2022-08-17T11:11:29.980536-04:00.accessibility.json) |
+| [August 16 at 11:45 PM](https://archive.org/download/teamtrace-2022/teamtrace-2022-08-16T23:45:20.779616-04:00.accessibility.json) |
 | [August 16 at 2:46 PM](https://archive.org/download/teamtrace-2022/teamtrace-2022-08-16T14:46:21.352202-04:00.accessibility.json) |
 | [August 16 at 2:52 AM](https://archive.org/download/teamtrace-2022/teamtrace-2022-08-16T02:52:47.411566-04:00.accessibility.json) |
 | [August 15 at 4:16 PM](https://archive.org/download/teamtrace-2022/teamtrace-2022-08-15T16:15:56.457491-04:00.accessibility.json) |
@@ -640,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 14 at 3:07 AM](https://archive.org/download/teamtrace-2022/teamtrace-2022-08-14T03:07:16.385308-04:00.accessibility.json) |
 | [August 13 at 5:02 PM](https://archive.org/download/teamtrace-2022/teamtrace-2022-08-13T17:02:16.136221-04:00.accessibility.json) |
 | [August 13 at 1:12 AM](https://archive.org/download/teamtrace-2022/teamtrace-2022-08-13T01:12:50.645350-04:00.accessibility.json) |
-| [August 12 at 2:26 PM](https://archive.org/download/teamtrace-2022/teamtrace-2022-08-12T14:26:14.450834-04:00.accessibility.json) |
-| [August 12 at 5:47 AM](https://archive.org/download/teamtrace-2022/teamtrace-2022-08-12T05:47:13.150132-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 48 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 50 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -738,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 17 at 11:11 AM](https://archive.org/download/teamtrace-2022/teamtrace-2022-08-17T11:11:29.980536-04:00.lighthouse.json) |
+| [August 16 at 11:45 PM](https://archive.org/download/teamtrace-2022/teamtrace-2022-08-16T23:45:20.779616-04:00.lighthouse.json) |
 | [August 16 at 2:46 PM](https://archive.org/download/teamtrace-2022/teamtrace-2022-08-16T14:46:21.352202-04:00.lighthouse.json) |
 | [August 16 at 2:52 AM](https://archive.org/download/teamtrace-2022/teamtrace-2022-08-16T02:52:47.411566-04:00.lighthouse.json) |
 | [August 15 at 4:16 PM](https://archive.org/download/teamtrace-2022/teamtrace-2022-08-15T16:15:56.457491-04:00.lighthouse.json) |
@@ -746,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 14 at 3:07 AM](https://archive.org/download/teamtrace-2022/teamtrace-2022-08-14T03:07:16.385308-04:00.lighthouse.json) |
 | [August 13 at 5:02 PM](https://archive.org/download/teamtrace-2022/teamtrace-2022-08-13T17:02:16.136221-04:00.lighthouse.json) |
 | [August 13 at 1:12 AM](https://archive.org/download/teamtrace-2022/teamtrace-2022-08-13T01:12:50.645350-04:00.lighthouse.json) |
-| [August 12 at 2:26 PM](https://archive.org/download/teamtrace-2022/teamtrace-2022-08-12T14:26:14.450834-04:00.lighthouse.json) |
-| [August 12 at 5:47 AM](https://archive.org/download/teamtrace-2022/teamtrace-2022-08-12T05:47:13.150132-04:00.lighthouse.json) |
 
 
 

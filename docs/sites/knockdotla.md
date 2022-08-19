@@ -31,7 +31,7 @@ This site was analyzed 17 times over the last seven days. Scores of 90 or greate
   <script>
     const lighthouseAnalysisSpec = {
   "config": {
-    "view": {"width": 500, "height": 300, "stroke": 0},
+    "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
     "background": "#ffffff",
     "title": {
@@ -158,6 +158,7 @@ This site was analyzed 17 times over the last seven days. Scores of 90 or greate
   "height": 175,
   "title": "Lighthouse scores over last 7 days",
   "width": "container",
+  "height": 300,
   "$schema": "https://vega.github.io/schema/vega-lite/v4.17.0.json"
 };
     vegaEmbed("#vis--lighthouse-analysis", lighthouseAnalysisSpec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
@@ -233,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 347 screenshots with the Internet Archive.
+The archiving routine has saved 350 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -325,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/knockdotla-2022/knockdotla-2022-08-17T16:50:01.517185-07:00.jpg">
+  <img src="https://archive.org/download/knockdotla-2022/knockdotla-2022-08-17T16:50:01.517185-07:00.jpg"
+     alt="Knock.LA at 2022-08-17 16:50:08-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/knockdotla-2022/knockdotla-2022-08-17T16:50:01.517185-07:00.jpg">August 17 at 4:50 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/knockdotla-2022/knockdotla-2022-08-17T11:37:47.805848-07:00.jpg">
+  <img src="https://archive.org/download/knockdotla-2022/knockdotla-2022-08-17T11:37:47.805848-07:00.jpg"
+     alt="Knock.LA at 2022-08-17 11:37:54-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/knockdotla-2022/knockdotla-2022-08-17T11:37:47.805848-07:00.jpg">August 17 at 11:37 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/knockdotla-2022/knockdotla-2022-08-17T04:48:39.047798-07:00.jpg">
+  <img src="https://archive.org/download/knockdotla-2022/knockdotla-2022-08-17T04:48:39.047798-07:00.jpg"
+     alt="Knock.LA at 2022-08-17 04:48:44-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/knockdotla-2022/knockdotla-2022-08-17T04:48:39.047798-07:00.jpg">August 17 at 4:48 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/knockdotla-2022/knockdotla-2022-08-16T17:04:06.951340-07:00.jpg">
   <img src="https://archive.org/download/knockdotla-2022/knockdotla-2022-08-16T17:04:06.951340-07:00.jpg"
      alt="Knock.LA at 2022-08-16 17:04:13-07:00 local time"
@@ -405,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/knockdotla-2022/knockdotla-2022-08-13T06:07:54.720699-07:00.jpg">August 13 at 6:08 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/knockdotla-2022/knockdotla-2022-08-12T17:39:05.776497-07:00.jpg">
-  <img src="https://archive.org/download/knockdotla-2022/knockdotla-2022-08-12T17:39:05.776497-07:00.jpg"
-     alt="Knock.LA at 2022-08-12 17:39:09-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/knockdotla-2022/knockdotla-2022-08-12T17:39:05.776497-07:00.jpg">August 12 at 5:39 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/knockdotla-2022/knockdotla-2022-08-12T12:11:07.532381-07:00.jpg">
-  <img src="https://archive.org/download/knockdotla-2022/knockdotla-2022-08-12T12:11:07.532381-07:00.jpg"
-     alt="Knock.LA at 2022-08-12 12:11:14-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/knockdotla-2022/knockdotla-2022-08-12T12:11:07.532381-07:00.jpg">August 12 at 12:11 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/knockdotla-2022/knockdotla-2022-08-12T06:19:36.589124-07:00.jpg">
-  <img src="https://archive.org/download/knockdotla-2022/knockdotla-2022-08-12T06:19:36.589124-07:00.jpg"
-     alt="Knock.LA at 2022-08-12 06:19:49-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/knockdotla-2022/knockdotla-2022-08-12T06:19:36.589124-07:00.jpg">August 12 at 6:19 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 334 hyperlink lists with the Internet Archive.
+The archiving routine has saved 337 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -527,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 17 at 4:50 PM](https://archive.org/download/knockdotla-2022/knockdotla-2022-08-17T16:50:01.517185-07:00.hyperlinks.json) |
+| [August 17 at 11:38 AM](https://archive.org/download/knockdotla-2022/knockdotla-2022-08-17T11:37:47.805848-07:00.hyperlinks.json) |
+| [August 17 at 4:48 AM](https://archive.org/download/knockdotla-2022/knockdotla-2022-08-17T04:48:39.047798-07:00.hyperlinks.json) |
 | [August 16 at 5:04 PM](https://archive.org/download/knockdotla-2022/knockdotla-2022-08-16T17:04:06.951340-07:00.hyperlinks.json) |
 | [August 16 at 6:57 AM](https://archive.org/download/knockdotla-2022/knockdotla-2022-08-16T06:57:31.020613-07:00.hyperlinks.json) |
 | [August 15 at 6:32 PM](https://archive.org/download/knockdotla-2022/knockdotla-2022-08-15T18:31:55.036833-07:00.hyperlinks.json) |
@@ -534,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 14 at 6:16 PM](https://archive.org/download/knockdotla-2022/knockdotla-2022-08-14T18:16:41.306249-07:00.hyperlinks.json) |
 | [August 14 at 12:50 PM](https://archive.org/download/knockdotla-2022/knockdotla-2022-08-14T12:50:13.553539-07:00.hyperlinks.json) |
 | [August 14 at 6:45 AM](https://archive.org/download/knockdotla-2022/knockdotla-2022-08-14T06:45:36.645512-07:00.hyperlinks.json) |
-| [August 13 at 8:11 PM](https://archive.org/download/knockdotla-2022/knockdotla-2022-08-13T20:11:10.166806-07:00.hyperlinks.json) |
-| [August 13 at 6:08 AM](https://archive.org/download/knockdotla-2022/knockdotla-2022-08-13T06:07:54.720699-07:00.hyperlinks.json) |
-| [August 12 at 5:39 PM](https://archive.org/download/knockdotla-2022/knockdotla-2022-08-12T17:39:05.776497-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 336 accessibility trees with the Internet Archive.
+The archiving routine has saved 339 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -632,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 17 at 4:50 PM](https://archive.org/download/knockdotla-2022/knockdotla-2022-08-17T16:50:01.517185-07:00.accessibility.json) |
+| [August 17 at 11:37 AM](https://archive.org/download/knockdotla-2022/knockdotla-2022-08-17T11:37:47.805848-07:00.accessibility.json) |
+| [August 17 at 4:48 AM](https://archive.org/download/knockdotla-2022/knockdotla-2022-08-17T04:48:39.047798-07:00.accessibility.json) |
 | [August 16 at 5:04 PM](https://archive.org/download/knockdotla-2022/knockdotla-2022-08-16T17:04:06.951340-07:00.accessibility.json) |
 | [August 16 at 6:57 AM](https://archive.org/download/knockdotla-2022/knockdotla-2022-08-16T06:57:31.020613-07:00.accessibility.json) |
 | [August 15 at 6:32 PM](https://archive.org/download/knockdotla-2022/knockdotla-2022-08-15T18:31:55.036833-07:00.accessibility.json) |
@@ -639,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 14 at 6:16 PM](https://archive.org/download/knockdotla-2022/knockdotla-2022-08-14T18:16:41.306249-07:00.accessibility.json) |
 | [August 14 at 12:50 PM](https://archive.org/download/knockdotla-2022/knockdotla-2022-08-14T12:50:13.553539-07:00.accessibility.json) |
 | [August 14 at 6:45 AM](https://archive.org/download/knockdotla-2022/knockdotla-2022-08-14T06:45:36.645512-07:00.accessibility.json) |
-| [August 13 at 8:11 PM](https://archive.org/download/knockdotla-2022/knockdotla-2022-08-13T20:11:10.166806-07:00.accessibility.json) |
-| [August 13 at 6:08 AM](https://archive.org/download/knockdotla-2022/knockdotla-2022-08-13T06:07:54.720699-07:00.accessibility.json) |
-| [August 12 at 5:39 PM](https://archive.org/download/knockdotla-2022/knockdotla-2022-08-12T17:39:05.776497-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 70 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 73 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -738,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 17 at 4:50 PM](https://archive.org/download/knockdotla-2022/knockdotla-2022-08-17T16:50:01.517185-07:00.lighthouse.json) |
+| [August 17 at 11:38 AM](https://archive.org/download/knockdotla-2022/knockdotla-2022-08-17T11:37:47.805848-07:00.lighthouse.json) |
+| [August 17 at 4:48 AM](https://archive.org/download/knockdotla-2022/knockdotla-2022-08-17T04:48:39.047798-07:00.lighthouse.json) |
 | [August 16 at 5:04 PM](https://archive.org/download/knockdotla-2022/knockdotla-2022-08-16T17:04:06.951340-07:00.lighthouse.json) |
 | [August 16 at 6:57 AM](https://archive.org/download/knockdotla-2022/knockdotla-2022-08-16T06:57:31.020613-07:00.lighthouse.json) |
 | [August 15 at 6:32 PM](https://archive.org/download/knockdotla-2022/knockdotla-2022-08-15T18:31:55.036833-07:00.lighthouse.json) |
@@ -745,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 14 at 6:16 PM](https://archive.org/download/knockdotla-2022/knockdotla-2022-08-14T18:16:41.306249-07:00.lighthouse.json) |
 | [August 14 at 12:50 PM](https://archive.org/download/knockdotla-2022/knockdotla-2022-08-14T12:50:13.553539-07:00.lighthouse.json) |
 | [August 14 at 6:45 AM](https://archive.org/download/knockdotla-2022/knockdotla-2022-08-14T06:45:36.645512-07:00.lighthouse.json) |
-| [August 13 at 8:11 PM](https://archive.org/download/knockdotla-2022/knockdotla-2022-08-13T20:11:10.166806-07:00.lighthouse.json) |
-| [August 13 at 6:08 AM](https://archive.org/download/knockdotla-2022/knockdotla-2022-08-13T06:07:54.720699-07:00.lighthouse.json) |
-| [August 12 at 5:39 PM](https://archive.org/download/knockdotla-2022/knockdotla-2022-08-12T17:39:05.776497-07:00.lighthouse.json) |
 
 
 

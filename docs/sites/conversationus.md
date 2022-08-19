@@ -31,7 +31,7 @@ This site was analyzed 14 times over the last seven days. Scores of 90 or greate
   <script>
     const lighthouseAnalysisSpec = {
   "config": {
-    "view": {"width": 500, "height": 300, "stroke": 0},
+    "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
     "background": "#ffffff",
     "title": {
@@ -158,6 +158,7 @@ This site was analyzed 14 times over the last seven days. Scores of 90 or greate
   "height": 175,
   "title": "Lighthouse scores over last 7 days",
   "width": "container",
+  "height": 300,
   "$schema": "https://vega.github.io/schema/vega-lite/v4.17.0.json"
 };
     vegaEmbed("#vis--lighthouse-analysis", lighthouseAnalysisSpec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
@@ -233,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 79 screenshots with the Internet Archive.
+The archiving routine has saved 81 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -325,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/conversationus-2022/conversationus-2022-08-17T09:07:22.392671-04:00.jpg">
+  <img src="https://archive.org/download/conversationus-2022/conversationus-2022-08-17T09:07:22.392671-04:00.jpg"
+     alt="Conversation U.S. at 2022-08-17 09:07:26-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/conversationus-2022/conversationus-2022-08-17T09:07:22.392671-04:00.jpg">August 17 at 9:07 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/conversationus-2022/conversationus-2022-08-16T21:21:00.871409-04:00.jpg">
+  <img src="https://archive.org/download/conversationus-2022/conversationus-2022-08-16T21:21:00.871409-04:00.jpg"
+     alt="Conversation U.S. at 2022-08-16 21:21:04-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/conversationus-2022/conversationus-2022-08-16T21:21:00.871409-04:00.jpg">August 16 at 9:21 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/conversationus-2022/conversationus-2022-08-16T13:20:10.708901-04:00.jpg">
   <img src="https://archive.org/download/conversationus-2022/conversationus-2022-08-16T13:20:10.708901-04:00.jpg"
      alt="Conversation U.S. at 2022-08-16 13:20:12-04:00 local time"
@@ -414,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/conversationus-2022/conversationus-2022-08-12T05:32:21.266038-04:00.jpg">August 12 at 5:32 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/conversationus-2022/conversationus-2022-08-11T13:04:10.166022-04:00.jpg">
-  <img src="https://archive.org/download/conversationus-2022/conversationus-2022-08-11T13:04:10.166022-04:00.jpg"
-     alt="Conversation U.S. at 2022-08-11 13:04:13-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/conversationus-2022/conversationus-2022-08-11T13:04:10.166022-04:00.jpg">August 11 at 1:04 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/conversationus-2022/conversationus-2022-08-10T22:25:12.979163-04:00.jpg">
-  <img src="https://archive.org/download/conversationus-2022/conversationus-2022-08-10T22:25:12.979163-04:00.jpg"
-     alt="Conversation U.S. at 2022-08-10 22:25:15-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/conversationus-2022/conversationus-2022-08-10T22:25:12.979163-04:00.jpg">August 10 at 10:25 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 81 hyperlink lists with the Internet Archive.
+The archiving routine has saved 83 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -527,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 17 at 9:07 AM](https://archive.org/download/conversationus-2022/conversationus-2022-08-17T09:07:22.392671-04:00.hyperlinks.json) |
+| [August 16 at 9:21 PM](https://archive.org/download/conversationus-2022/conversationus-2022-08-16T21:21:00.871409-04:00.hyperlinks.json) |
 | [August 16 at 1:20 PM](https://archive.org/download/conversationus-2022/conversationus-2022-08-16T13:20:10.708901-04:00.hyperlinks.json) |
 | [August 16 at 2:16 AM](https://archive.org/download/conversationus-2022/conversationus-2022-08-16T02:15:56.817446-04:00.hyperlinks.json) |
 | [August 15 at 3:34 PM](https://archive.org/download/conversationus-2022/conversationus-2022-08-15T15:34:09.774530-04:00.hyperlinks.json) |
@@ -535,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 14 at 1:04 AM](https://archive.org/download/conversationus-2022/conversationus-2022-08-14T01:03:56.210668-04:00.hyperlinks.json) |
 | [August 13 at 4:41 PM](https://archive.org/download/conversationus-2022/conversationus-2022-08-13T16:41:31.615393-04:00.hyperlinks.json) |
 | [August 12 at 10:13 PM](https://archive.org/download/conversationus-2022/conversationus-2022-08-12T22:13:30.583289-04:00.hyperlinks.json) |
-| [August 12 at 12:22 PM](https://archive.org/download/conversationus-2022/conversationus-2022-08-12T12:22:12.041107-04:00.hyperlinks.json) |
-| [August 12 at 5:32 AM](https://archive.org/download/conversationus-2022/conversationus-2022-08-12T05:32:21.266038-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 81 accessibility trees with the Internet Archive.
+The archiving routine has saved 83 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -632,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 17 at 9:07 AM](https://archive.org/download/conversationus-2022/conversationus-2022-08-17T09:07:22.392671-04:00.accessibility.json) |
+| [August 16 at 9:21 PM](https://archive.org/download/conversationus-2022/conversationus-2022-08-16T21:21:00.871409-04:00.accessibility.json) |
 | [August 16 at 1:20 PM](https://archive.org/download/conversationus-2022/conversationus-2022-08-16T13:20:10.708901-04:00.accessibility.json) |
 | [August 16 at 2:16 AM](https://archive.org/download/conversationus-2022/conversationus-2022-08-16T02:15:56.817446-04:00.accessibility.json) |
 | [August 15 at 3:34 PM](https://archive.org/download/conversationus-2022/conversationus-2022-08-15T15:34:09.774530-04:00.accessibility.json) |
@@ -640,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 14 at 1:04 AM](https://archive.org/download/conversationus-2022/conversationus-2022-08-14T01:03:56.210668-04:00.accessibility.json) |
 | [August 13 at 4:41 PM](https://archive.org/download/conversationus-2022/conversationus-2022-08-13T16:41:31.615393-04:00.accessibility.json) |
 | [August 12 at 10:13 PM](https://archive.org/download/conversationus-2022/conversationus-2022-08-12T22:13:30.583289-04:00.accessibility.json) |
-| [August 12 at 12:22 PM](https://archive.org/download/conversationus-2022/conversationus-2022-08-12T12:22:12.041107-04:00.accessibility.json) |
-| [August 12 at 5:32 AM](https://archive.org/download/conversationus-2022/conversationus-2022-08-12T05:32:21.266038-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 51 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 53 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -738,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 17 at 9:07 AM](https://archive.org/download/conversationus-2022/conversationus-2022-08-17T09:07:22.392671-04:00.lighthouse.json) |
+| [August 16 at 9:21 PM](https://archive.org/download/conversationus-2022/conversationus-2022-08-16T21:21:00.871409-04:00.lighthouse.json) |
 | [August 16 at 1:20 PM](https://archive.org/download/conversationus-2022/conversationus-2022-08-16T13:20:10.708901-04:00.lighthouse.json) |
 | [August 16 at 2:16 AM](https://archive.org/download/conversationus-2022/conversationus-2022-08-16T02:15:56.817446-04:00.lighthouse.json) |
 | [August 15 at 3:34 PM](https://archive.org/download/conversationus-2022/conversationus-2022-08-15T15:34:09.774530-04:00.lighthouse.json) |
@@ -746,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 14 at 1:04 AM](https://archive.org/download/conversationus-2022/conversationus-2022-08-14T01:03:56.210668-04:00.lighthouse.json) |
 | [August 13 at 4:41 PM](https://archive.org/download/conversationus-2022/conversationus-2022-08-13T16:41:31.615393-04:00.lighthouse.json) |
 | [August 12 at 10:13 PM](https://archive.org/download/conversationus-2022/conversationus-2022-08-12T22:13:30.583289-04:00.lighthouse.json) |
-| [August 12 at 12:22 PM](https://archive.org/download/conversationus-2022/conversationus-2022-08-12T12:22:12.041107-04:00.lighthouse.json) |
-| [August 12 at 5:32 AM](https://archive.org/download/conversationus-2022/conversationus-2022-08-12T05:32:21.266038-04:00.lighthouse.json) |
 
 
 

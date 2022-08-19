@@ -31,7 +31,7 @@ This site was analyzed 19 times over the last seven days. Scores of 90 or greate
   <script>
     const lighthouseAnalysisSpec = {
   "config": {
-    "view": {"width": 500, "height": 300, "stroke": 0},
+    "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
     "background": "#ffffff",
     "title": {
@@ -158,6 +158,7 @@ This site was analyzed 19 times over the last seven days. Scores of 90 or greate
   "height": 175,
   "title": "Lighthouse scores over last 7 days",
   "width": "container",
+  "height": 300,
   "$schema": "https://vega.github.io/schema/vega-lite/v4.17.0.json"
 };
     vegaEmbed("#vis--lighthouse-analysis", lighthouseAnalysisSpec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
@@ -233,13 +234,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 24 screenshots with the Internet Archive.
+The archiving routine has saved 26 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-17T12:08:34.421714-03:00.jpg">
+  <img src="https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-17T12:08:34.421714-03:00.jpg"
+     alt="Portal Imprensa at 2022-08-17 12:08:36-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-17T12:08:34.421714-03:00.jpg">August 17 at 12:08 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-17T00:41:49.988147-03:00.jpg">
+  <img src="https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-17T00:41:49.988147-03:00.jpg"
+     alt="Portal Imprensa at 2022-08-17 00:41:52-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-17T00:41:49.988147-03:00.jpg">August 17 at 12:41 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-16T15:42:31.794709-03:00.jpg">
@@ -331,29 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-13T10:02:44.784647-03:00.jpg">August 13 at 10:02 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-13T02:07:40.372284-03:00.jpg">
-  <img src="https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-13T02:07:40.372284-03:00.jpg"
-     alt="Portal Imprensa at 2022-08-13 02:07:42-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-13T02:07:40.372284-03:00.jpg">August 13 at 2:07 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-12T15:18:41.573774-03:00.jpg">
-  <img src="https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-12T15:18:41.573774-03:00.jpg"
-     alt="Portal Imprensa at 2022-08-12 15:18:52-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-12T15:18:41.573774-03:00.jpg">August 12 at 3:18 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 25 hyperlink lists with the Internet Archive.
+The archiving routine has saved 27 hyperlink lists with the Internet Archive.
 
 
 
@@ -361,6 +362,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 17 at 12:08 PM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-17T12:08:34.421714-03:00.hyperlinks.json) |
+| [August 17 at 12:41 AM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-17T00:41:49.988147-03:00.hyperlinks.json) |
 | [August 16 at 3:42 PM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-16T15:42:31.794709-03:00.hyperlinks.json) |
 | [August 16 at 3:47 AM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-16T03:47:26.331455-03:00.hyperlinks.json) |
 | [August 15 at 5:08 PM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-15T17:08:30.735112-03:00.hyperlinks.json) |
@@ -369,13 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 14 at 3:56 PM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-14T15:56:08.648912-03:00.hyperlinks.json) |
 | [August 14 at 10:38 AM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-14T10:38:14.298706-03:00.hyperlinks.json) |
 | [August 14 at 4:00 AM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-14T04:00:10.349256-03:00.hyperlinks.json) |
-| [August 13 at 5:55 PM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-13T17:55:41.720342-03:00.hyperlinks.json) |
-| [August 13 at 10:02 AM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-13T10:02:44.784647-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 25 accessibility trees with the Internet Archive.
+The archiving routine has saved 27 accessibility trees with the Internet Archive.
 
 
 
@@ -383,6 +384,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 17 at 12:08 PM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-17T12:08:34.421714-03:00.accessibility.json) |
+| [August 17 at 12:41 AM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-17T00:41:49.988147-03:00.accessibility.json) |
 | [August 16 at 3:42 PM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-16T15:42:31.794709-03:00.accessibility.json) |
 | [August 16 at 3:47 AM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-16T03:47:26.331455-03:00.accessibility.json) |
 | [August 15 at 5:08 PM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-15T17:08:30.735112-03:00.accessibility.json) |
@@ -391,14 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [August 14 at 3:56 PM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-14T15:56:08.648912-03:00.accessibility.json) |
 | [August 14 at 10:38 AM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-14T10:38:14.298706-03:00.accessibility.json) |
 | [August 14 at 4:00 AM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-14T04:00:10.349256-03:00.accessibility.json) |
-| [August 13 at 5:55 PM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-13T17:55:41.720342-03:00.accessibility.json) |
-| [August 13 at 10:02 AM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-13T10:02:44.784647-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 25 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 27 Lighthouse audits with the Internet Archive.
 
 
 
@@ -406,6 +407,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 17 at 12:08 PM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-17T12:08:34.421714-03:00.lighthouse.json) |
+| [August 17 at 12:42 AM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-17T00:41:49.988147-03:00.lighthouse.json) |
 | [August 16 at 3:42 PM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-16T15:42:31.794709-03:00.lighthouse.json) |
 | [August 16 at 3:47 AM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-16T03:47:26.331455-03:00.lighthouse.json) |
 | [August 15 at 5:08 PM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-15T17:08:30.735112-03:00.lighthouse.json) |
@@ -414,8 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 14 at 3:56 PM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-14T15:56:08.648912-03:00.lighthouse.json) |
 | [August 14 at 10:38 AM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-14T10:38:14.298706-03:00.lighthouse.json) |
 | [August 14 at 4:00 AM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-14T04:00:10.349256-03:00.lighthouse.json) |
-| [August 13 at 5:55 PM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-13T17:55:41.720342-03:00.lighthouse.json) |
-| [August 13 at 10:02 AM](https://archive.org/download/portalimprensa-2022/portalimprensa-2022-08-13T10:02:44.784647-03:00.lighthouse.json) |
 
 
 

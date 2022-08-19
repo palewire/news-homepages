@@ -31,7 +31,7 @@ This site was analyzed 10 times over the last seven days. Scores of 90 or greate
   <script>
     const lighthouseAnalysisSpec = {
   "config": {
-    "view": {"width": 500, "height": 300, "stroke": 0},
+    "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
     "background": "#ffffff",
     "title": {
@@ -158,6 +158,7 @@ This site was analyzed 10 times over the last seven days. Scores of 90 or greate
   "height": 175,
   "title": "Lighthouse scores over last 7 days",
   "width": "container",
+  "height": 300,
   "$schema": "https://vega.github.io/schema/vega-lite/v4.17.0.json"
 };
     vegaEmbed("#vis--lighthouse-analysis", lighthouseAnalysisSpec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
@@ -233,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 44 screenshots with the Internet Archive.
+The archiving routine has saved 46 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -325,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/oronline-2022/oronline-2022-08-17T11:08:12.327504-04:00.jpg">
+  <img src="https://archive.org/download/oronline-2022/oronline-2022-08-17T11:08:12.327504-04:00.jpg"
+     alt="Observer-Reporter at 2022-08-17 11:08:14-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/oronline-2022/oronline-2022-08-17T11:08:12.327504-04:00.jpg">August 17 at 11:08 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/oronline-2022/oronline-2022-08-16T23:41:50.706848-04:00.jpg">
+  <img src="https://archive.org/download/oronline-2022/oronline-2022-08-16T23:41:50.706848-04:00.jpg"
+     alt="Observer-Reporter at 2022-08-16 23:41:52-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/oronline-2022/oronline-2022-08-16T23:41:50.706848-04:00.jpg">August 16 at 11:41 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/oronline-2022/oronline-2022-08-16T14:42:28.478569-04:00.jpg">
   <img src="https://archive.org/download/oronline-2022/oronline-2022-08-16T14:42:28.478569-04:00.jpg"
      alt="Observer-Reporter at 2022-08-16 14:42:30-04:00 local time"
@@ -414,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/oronline-2022/oronline-2022-08-12T05:41:18.059042-04:00.jpg">August 12 at 5:41 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/oronline-2022/oronline-2022-08-11T14:51:17.992447-04:00.jpg">
-  <img src="https://archive.org/download/oronline-2022/oronline-2022-08-11T14:51:17.992447-04:00.jpg"
-     alt="Observer-Reporter at 2022-08-11 14:51:19-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/oronline-2022/oronline-2022-08-11T14:51:17.992447-04:00.jpg">August 11 at 2:51 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/oronline-2022/oronline-2022-08-11T01:19:42.072802-04:00.jpg">
-  <img src="https://archive.org/download/oronline-2022/oronline-2022-08-11T01:19:42.072802-04:00.jpg"
-     alt="Observer-Reporter at 2022-08-11 01:19:44-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/oronline-2022/oronline-2022-08-11T01:19:42.072802-04:00.jpg">August 11 at 1:19 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 28 hyperlink lists with the Internet Archive.
+The archiving routine has saved 30 hyperlink lists with the Internet Archive.
 
 
 
@@ -444,6 +445,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 17 at 11:08 AM](https://archive.org/download/oronline-2022/oronline-2022-08-17T11:08:12.327504-04:00.hyperlinks.json) |
+| [August 16 at 11:41 PM](https://archive.org/download/oronline-2022/oronline-2022-08-16T23:41:50.706848-04:00.hyperlinks.json) |
 | [August 16 at 2:42 PM](https://archive.org/download/oronline-2022/oronline-2022-08-16T14:42:28.478569-04:00.hyperlinks.json) |
 | [August 15 at 4:08 PM](https://archive.org/download/oronline-2022/oronline-2022-08-15T16:07:57.508169-04:00.hyperlinks.json) |
 | [August 14 at 2:54 PM](https://archive.org/download/oronline-2022/oronline-2022-08-14T14:53:53.192974-04:00.hyperlinks.json) |
@@ -452,13 +455,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 2:16 PM](https://archive.org/download/oronline-2022/oronline-2022-08-12T14:16:24.402728-04:00.hyperlinks.json) |
 | [August 12 at 5:41 AM](https://archive.org/download/oronline-2022/oronline-2022-08-12T05:41:18.059042-04:00.hyperlinks.json) |
 | [August 11 at 2:51 PM](https://archive.org/download/oronline-2022/oronline-2022-08-11T14:51:17.992447-04:00.hyperlinks.json) |
-| [August 11 at 1:19 AM](https://archive.org/download/oronline-2022/oronline-2022-08-11T01:19:42.072802-04:00.hyperlinks.json) |
-| [August 10 at 2:15 PM](https://archive.org/download/oronline-2022/oronline-2022-08-10T14:15:49.254898-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 25 accessibility trees with the Internet Archive.
+The archiving routine has saved 26 accessibility trees with the Internet Archive.
 
 
 
@@ -466,6 +467,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 16 at 11:41 PM](https://archive.org/download/oronline-2022/oronline-2022-08-16T23:41:50.706848-04:00.accessibility.json) |
 | [August 16 at 2:45 AM](https://archive.org/download/oronline-2022/oronline-2022-08-16T02:45:52.311214-04:00.accessibility.json) |
 | [August 15 at 4:08 PM](https://archive.org/download/oronline-2022/oronline-2022-08-15T16:07:57.508169-04:00.accessibility.json) |
 | [August 14 at 2:53 PM](https://archive.org/download/oronline-2022/oronline-2022-08-14T14:53:53.192974-04:00.accessibility.json) |
@@ -475,13 +477,12 @@ Here are the 10 most recent accessibility trees.
 | [August 11 at 2:51 PM](https://archive.org/download/oronline-2022/oronline-2022-08-11T14:51:17.992447-04:00.accessibility.json) |
 | [August 11 at 1:19 AM](https://archive.org/download/oronline-2022/oronline-2022-08-11T01:19:42.072802-04:00.accessibility.json) |
 | [August 10 at 1:27 AM](https://archive.org/download/oronline-2022/oronline-2022-08-10T01:27:37.601092-04:00.accessibility.json) |
-| [August 8 at 1:19 AM](https://archive.org/download/oronline-2022/oronline-2022-08-08T01:19:20.396854-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 38 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 39 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -572,6 +573,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 17 at 11:08 AM](https://archive.org/download/oronline-2022/oronline-2022-08-17T11:08:12.327504-04:00.lighthouse.json) |
 | [August 16 at 2:42 PM](https://archive.org/download/oronline-2022/oronline-2022-08-16T14:42:28.478569-04:00.lighthouse.json) |
 | [August 15 at 4:08 PM](https://archive.org/download/oronline-2022/oronline-2022-08-15T16:07:57.508169-04:00.lighthouse.json) |
 | [August 14 at 2:54 PM](https://archive.org/download/oronline-2022/oronline-2022-08-14T14:53:53.192974-04:00.lighthouse.json) |
@@ -581,7 +583,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 12 at 2:17 PM](https://archive.org/download/oronline-2022/oronline-2022-08-12T14:16:24.402728-04:00.lighthouse.json) |
 | [August 12 at 5:41 AM](https://archive.org/download/oronline-2022/oronline-2022-08-12T05:41:18.059042-04:00.lighthouse.json) |
 | [August 11 at 2:51 PM](https://archive.org/download/oronline-2022/oronline-2022-08-11T14:51:17.992447-04:00.lighthouse.json) |
-| [August 11 at 1:19 AM](https://archive.org/download/oronline-2022/oronline-2022-08-11T01:19:42.072802-04:00.lighthouse.json) |
 
 
 

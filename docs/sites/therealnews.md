@@ -31,7 +31,7 @@ This site was analyzed 14 times over the last seven days. Scores of 90 or greate
   <script>
     const lighthouseAnalysisSpec = {
   "config": {
-    "view": {"width": 500, "height": 300, "stroke": 0},
+    "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
     "background": "#ffffff",
     "title": {
@@ -158,6 +158,7 @@ This site was analyzed 14 times over the last seven days. Scores of 90 or greate
   "height": 175,
   "title": "Lighthouse scores over last 7 days",
   "width": "container",
+  "height": 300,
   "$schema": "https://vega.github.io/schema/vega-lite/v4.17.0.json"
 };
     vegaEmbed("#vis--lighthouse-analysis", lighthouseAnalysisSpec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
@@ -233,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 74 screenshots with the Internet Archive.
+The archiving routine has saved 76 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -325,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/therealnews-2022/therealnews-2022-08-17T09:09:23.561586-04:00.jpg">
+  <img src="https://archive.org/download/therealnews-2022/therealnews-2022-08-17T09:09:23.561586-04:00.jpg"
+     alt="Real News at 2022-08-17 09:09:32-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-08-17T09:09:23.561586-04:00.jpg">August 17 at 9:09 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/therealnews-2022/therealnews-2022-08-16T21:23:27.781198-04:00.jpg">
+  <img src="https://archive.org/download/therealnews-2022/therealnews-2022-08-16T21:23:27.781198-04:00.jpg"
+     alt="Real News at 2022-08-16 21:23:33-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-08-16T21:23:27.781198-04:00.jpg">August 16 at 9:23 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/therealnews-2022/therealnews-2022-08-16T13:24:18.001259-04:00.jpg">
   <img src="https://archive.org/download/therealnews-2022/therealnews-2022-08-16T13:24:18.001259-04:00.jpg"
      alt="Real News at 2022-08-16 13:24:19-04:00 local time"
@@ -414,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-08-12T05:35:23.994721-04:00.jpg">August 12 at 5:35 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/therealnews-2022/therealnews-2022-08-11T13:08:21.206644-04:00.jpg">
-  <img src="https://archive.org/download/therealnews-2022/therealnews-2022-08-11T13:08:21.206644-04:00.jpg"
-     alt="Real News at 2022-08-11 13:08:23-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-08-11T13:08:21.206644-04:00.jpg">August 11 at 1:08 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/therealnews-2022/therealnews-2022-08-10T22:28:11.119924-04:00.jpg">
-  <img src="https://archive.org/download/therealnews-2022/therealnews-2022-08-10T22:28:11.119924-04:00.jpg"
-     alt="Real News at 2022-08-10 22:28:13-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/therealnews-2022/therealnews-2022-08-10T22:28:11.119924-04:00.jpg">August 10 at 10:28 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 75 hyperlink lists with the Internet Archive.
+The archiving routine has saved 77 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -527,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 17 at 9:09 AM](https://archive.org/download/therealnews-2022/therealnews-2022-08-17T09:09:23.561586-04:00.hyperlinks.json) |
+| [August 16 at 9:23 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-16T21:23:27.781198-04:00.hyperlinks.json) |
 | [August 16 at 1:24 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-16T13:24:18.001259-04:00.hyperlinks.json) |
 | [August 16 at 2:20 AM](https://archive.org/download/therealnews-2022/therealnews-2022-08-16T02:20:18.187314-04:00.hyperlinks.json) |
 | [August 15 at 3:38 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-15T15:38:00.150272-04:00.hyperlinks.json) |
@@ -535,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 14 at 1:08 AM](https://archive.org/download/therealnews-2022/therealnews-2022-08-14T01:08:06.946494-04:00.hyperlinks.json) |
 | [August 13 at 4:46 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-13T16:46:15.636067-04:00.hyperlinks.json) |
 | [August 12 at 10:17 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-12T22:17:24.323969-04:00.hyperlinks.json) |
-| [August 12 at 12:25 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-12T12:25:52.320447-04:00.hyperlinks.json) |
-| [August 12 at 5:35 AM](https://archive.org/download/therealnews-2022/therealnews-2022-08-12T05:35:23.994721-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 75 accessibility trees with the Internet Archive.
+The archiving routine has saved 77 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -632,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 17 at 9:09 AM](https://archive.org/download/therealnews-2022/therealnews-2022-08-17T09:09:23.561586-04:00.accessibility.json) |
+| [August 16 at 9:23 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-16T21:23:27.781198-04:00.accessibility.json) |
 | [August 16 at 1:24 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-16T13:24:18.001259-04:00.accessibility.json) |
 | [August 16 at 2:20 AM](https://archive.org/download/therealnews-2022/therealnews-2022-08-16T02:20:18.187314-04:00.accessibility.json) |
 | [August 15 at 3:38 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-15T15:38:00.150272-04:00.accessibility.json) |
@@ -640,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 14 at 1:08 AM](https://archive.org/download/therealnews-2022/therealnews-2022-08-14T01:08:06.946494-04:00.accessibility.json) |
 | [August 13 at 4:46 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-13T16:46:15.636067-04:00.accessibility.json) |
 | [August 12 at 10:17 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-12T22:17:24.323969-04:00.accessibility.json) |
-| [August 12 at 12:25 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-12T12:25:52.320447-04:00.accessibility.json) |
-| [August 12 at 5:35 AM](https://archive.org/download/therealnews-2022/therealnews-2022-08-12T05:35:23.994721-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 51 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 53 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -738,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 17 at 9:09 AM](https://archive.org/download/therealnews-2022/therealnews-2022-08-17T09:09:23.561586-04:00.lighthouse.json) |
+| [August 16 at 9:23 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-16T21:23:27.781198-04:00.lighthouse.json) |
 | [August 16 at 1:24 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-16T13:24:18.001259-04:00.lighthouse.json) |
 | [August 16 at 2:20 AM](https://archive.org/download/therealnews-2022/therealnews-2022-08-16T02:20:18.187314-04:00.lighthouse.json) |
 | [August 15 at 3:38 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-15T15:38:00.150272-04:00.lighthouse.json) |
@@ -746,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 14 at 1:08 AM](https://archive.org/download/therealnews-2022/therealnews-2022-08-14T01:08:06.946494-04:00.lighthouse.json) |
 | [August 13 at 4:46 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-13T16:46:15.636067-04:00.lighthouse.json) |
 | [August 12 at 10:17 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-12T22:17:24.323969-04:00.lighthouse.json) |
-| [August 12 at 12:25 PM](https://archive.org/download/therealnews-2022/therealnews-2022-08-12T12:25:52.320447-04:00.lighthouse.json) |
-| [August 12 at 5:35 AM](https://archive.org/download/therealnews-2022/therealnews-2022-08-12T05:35:23.994721-04:00.lighthouse.json) |
 
 
 
