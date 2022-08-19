@@ -213,20 +213,32 @@ nav .links li a:hover {
     width: 100%;
 }
 
-a:link {
+a:link,
+div.sphinxsidebar a,
+div.sphinxsidebar a:link {
   text-decoration: none;
   color: #686868;
+  border-bottom: none;
 }
-a:visited {
+a:visited,
+div.sphinxsidebar a:visited {
   text-decoration: none;
   color: #686868;
+  border-bottom: none;
 }
-a:hover {
+a:hover,
+div.sphinxsidebar a:hover {
   text-decoration: underline;
+  border-bottom: none;
 }
-a:active {
+a:active,
+div.sphinxsidebar a:active {
   text-decoration: underline;
   color: #000;
+  border-bottom: none;
+}
+a.reference {
+ border-bottom: 0;
 }
 
 table.align-default {
