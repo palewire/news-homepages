@@ -5,6 +5,7 @@ from datetime import datetime
 from pathlib import Path
 
 import click
+import pandas as pd
 import pytz
 import twitter
 from rich import print
@@ -44,6 +45,72 @@ def update_list(number):
     for obj in track(missing_list):
         api.CreateListsMember(list_id=1558434500304158720, screen_name=obj)
         time.sleep(2)
+
+
+@cli.command()
+def performance_report():
+    """Tweet a periodic report on Lighthouse performance scores."""
+    # Connect to Twitter
+    api = get_twitter_client()
+
+    # Get data
+    performance_df = pd.read_csv(
+        utils.EXTRACT_DIR / "csv" / "lighthouse-analysis.csv",
+        usecols=[
+            "handle",
+            "performance_count",
+            "performance_median",
+            "performance_color",
+            "performance_rank",
+        ],
+        dtype={
+            "handle": str,
+            "performance_count": int,
+            "performance_median": float,
+            "performance_color": str,
+            "performance_rank": int,
+        },
+    )
+
+    # Calculate the grand totals
+    count = performance_df.performance_count.sum()
+    median = performance_df.performance_median.median() * 100
+
+    # Calculate the distribution
+    value_counts = (
+        performance_df.performance_color.value_counts()
+        .rename("n")
+        .reset_index()
+        .to_dict(orient="records")
+    )
+    value_percents = (
+        performance_df.performance_color.value_counts(normalize=True)
+        .rename("n")
+        .reset_index()
+        .to_dict(orient="records")
+    )
+
+    def _get_color(color, li):
+        return next(d for d in li if d["index"] == color)["n"]
+
+    def _round(v):
+        return int(round(v * 100, 0))
+
+    msg = f"""🤖🖨️ PERFORMANCE REPORT 🖨️🤖
+
+This week the bot ran {utils.intcomma(count)} speed audits. Sites were scored from 0-100 and graded by Google. Green good. Orange okay. Red bad.
+
+🟩 {_round(_get_color('green', value_percents))}% ({_get_color('green', value_counts)} sites)
+🟧 {_round(_get_color('orange', value_percents))}% ({_get_color('orange', value_counts)})
+🟥 {_round(_get_color('red', value_percents))}% ({_get_color('red', value_counts)})
+
+The median score was {int(median)}.
+
+Full ranking: https://palewi.re/docs/news-homepages/performance.html
+"""
+
+    # Tweet it
+    api.PostUpdate(msg)
 
 
 @cli.command()

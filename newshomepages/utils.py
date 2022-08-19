@@ -1,4 +1,5 @@
 import csv
+import re
 import typing
 from datetime import datetime
 from pathlib import Path
@@ -394,3 +395,16 @@ def chunk(iterable: typing.List, length: int) -> typing.List[typing.List]:
         chunk = iterable[i : i + length]
         chunk_list.append(chunk)
     return chunk_list
+
+
+def intcomma(value):
+    """Convert an integer to a string containing commas every three digits.
+
+    For example, 3000 becomes '3,000' and 45000 becomes '45,000'.
+    """
+    orig = str(value)
+    new = re.sub(r"^(-?\d+)(\d{3})", r"\g<1>,\g<2>", orig)
+    if orig == new:
+        return new
+    else:
+        return intcomma(new)
