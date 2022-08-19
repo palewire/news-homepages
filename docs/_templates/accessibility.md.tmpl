@@ -13,7 +13,7 @@ This past week the median across all sites was {{ median|int }}. Here's the dist
   <script>
     const spec = {
   "config": {
-    "view": {"width": 500, "height": 300, "strokeWidth": 0},
+    "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
     "background": "#ffffff",
     "title": {
@@ -131,6 +131,7 @@ This past week the median across all sites was {{ median|int }}. Here's the dist
   },
   "title": "Lighthouse accessibility scores",
   "width": "container",
+  "height": 250,
   "$schema": "https://vega.github.io/schema/vega-lite/v4.17.0.json",
   "datasets": {
     "data-ff083e2caf4ea6428c61f01fb3b93afe": {{ histogram_json }}
