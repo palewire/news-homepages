@@ -31,27 +31,11 @@ jobs:
         with:
           docs-folder: "docs/"
 
-      - id: upload-artifact
-        uses: actions/upload-artifact@v1
-        with:
-          name: website
-          path: docs/_build/html/
-
-  deploy:
-    name: Deploy
-    runs-on: ubuntu-latest
-    needs: [build]
-    steps:
-      - uses: actions/download-artifact@v3
-        with:
-          name: website
-          path: ./_dist
-
       - id: upload-docs
         uses: shallwefootball/s3-upload-action@master
         with:
           aws_key_id: ${{ secrets.PALEWIRE_DOCS_AWS_ACCESS_KEY_ID }}
           aws_secret_access_key: ${{ secrets.PALEWIRE_DOCS_AWS_SECRET_ACCESS_KEY }}
           aws_bucket: ${{ secrets.PALEWIRE_DOCS_AWS_BUCKET }}
-          source_dir: ./_dist
+          source_dir: .docs/_build/html/
           destination_dir: news-homepages
