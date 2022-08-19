@@ -1,5 +1,5 @@
 {
-  "created": 1660781055,
+  "created": 1660867534,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/12/items/privateeyenews-2022",
@@ -1628,31 +1628,217 @@
       "sha1": "3a885aa5aad7ea8da15adc936bac8445ad5a2e41"
     },
     {
+      "name": "privateeyenews-2022-08-18T10:12:36.210191+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660813958",
+      "size": "26897",
+      "md5": "88fa296a25ed6bffbf5391ad514a1716",
+      "crc32": "fd638bf2",
+      "sha1": "005cc428d467d35081a0b3c202536727a438c560",
+      "format": "JSON"
+    },
+    {
+      "name": "privateeyenews-2022-08-18T10:12:36.210191+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660813962",
+      "size": "28315",
+      "md5": "78713bb0b2ade14cdfdff04d46e750f8",
+      "crc32": "932331bb",
+      "sha1": "0e1d5eee3a72c2aff548f5d91c1f235cf794de2f",
+      "format": "JSON"
+    },
+    {
+      "name": "privateeyenews-2022-08-18T10:12:36.210191+01:00.jpg",
+      "source": "original",
+      "mtime": "1660813957",
+      "size": "229325",
+      "md5": "6a11733c370f3d6af140af9429da09e7",
+      "crc32": "f8fa0a5e",
+      "sha1": "04a0ff9a9243bddba5446a331d1ac0265d30698e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "privateeyenews-2022-08-18T10:12:36.210191+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660813964",
+      "size": "1519",
+      "md5": "e845f331f0fa13d81ec43408381bdaf8",
+      "crc32": "a35f419b",
+      "sha1": "94388fa2caa1fe5d4d5c50146059ad974d2b1f14",
+      "format": "JSON"
+    },
+    {
+      "name": "privateeyenews-2022-08-18T10:12:36.210191+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1660813966",
+      "size": "16817",
+      "md5": "6dd9a5d6c39547566ad0920eee15ec71",
+      "crc32": "e31d0e5e",
+      "sha1": "687fb539d205a1eacb9e738dad0568a094913dc3",
+      "format": "JSON"
+    },
+    {
+      "name": "privateeyenews-2022-08-18T10:12:36.210191+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "privateeyenews-2022-08-18T10:12:36.210191+01:00.jpg",
+      "mtime": "1660814190",
+      "size": "8993",
+      "md5": "eff39d3cd206dba4d7a6cc107631d3c2",
+      "crc32": "b4cfb503",
+      "sha1": "d933c4420f6399d9c1b90e229fcd34bcb1499125"
+    },
+    {
+      "name": "privateeyenews-2022-08-18T13:03:31.570252+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660824215",
+      "size": "27007",
+      "md5": "069f08c8295b6c8638ac5f4cdbfc5190",
+      "crc32": "939c48a1",
+      "sha1": "9b4f2cb62cc0fe505d3a16230da55dbc6f394375",
+      "format": "JSON"
+    },
+    {
+      "name": "privateeyenews-2022-08-18T13:03:31.570252+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660824217",
+      "size": "28329",
+      "md5": "b44c43080a88f300bc81e437f4a45479",
+      "crc32": "e0c2884b",
+      "sha1": "0b4221201bad5402285759dc6fba895104498e7a",
+      "format": "JSON"
+    },
+    {
+      "name": "privateeyenews-2022-08-18T13:03:31.570252+01:00.jpg",
+      "source": "original",
+      "mtime": "1660824213",
+      "size": "229101",
+      "md5": "cd3a53d718daf6b29c8be412227b47f3",
+      "crc32": "7c6166a2",
+      "sha1": "0e3b3aa9459054eef16b31ca354d3e9967246748",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "privateeyenews-2022-08-18T13:03:31.570252+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660824218",
+      "size": "1519",
+      "md5": "571991d62a6d75ce345651317269c803",
+      "crc32": "a8c1b862",
+      "sha1": "39fb2d9cd808b6d3fa8e4c46e8e27bc36b16df12",
+      "format": "JSON"
+    },
+    {
+      "name": "privateeyenews-2022-08-18T13:03:31.570252+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1660824220",
+      "size": "16976",
+      "md5": "884c75679d0dc7bbb1c1e03a20e973d0",
+      "crc32": "b3f9d59d",
+      "sha1": "e0718ad7144430436a68396e1bf877cb21d6e16c",
+      "format": "JSON"
+    },
+    {
+      "name": "privateeyenews-2022-08-18T13:03:31.570252+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "privateeyenews-2022-08-18T13:03:31.570252+01:00.jpg",
+      "mtime": "1660824607",
+      "size": "8963",
+      "md5": "60f25f0b25f9fb8270694180814bf86e",
+      "crc32": "10bb7127",
+      "sha1": "ea021569b5e56e92174254bf10d64f5aa3d76b84"
+    },
+    {
+      "name": "privateeyenews-2022-08-19T00:58:44.345846+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660867127",
+      "size": "26893",
+      "md5": "aa0e36acc109e5e77df037203f06cea4",
+      "crc32": "8d46bcb0",
+      "sha1": "618dbc22a4828502b8c62361c0ce5742aaac7558",
+      "format": "JSON"
+    },
+    {
+      "name": "privateeyenews-2022-08-19T00:58:44.345846+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660867129",
+      "size": "28407",
+      "md5": "1f15c98e41410e5142283fd0cbafbe34",
+      "crc32": "4316b5eb",
+      "sha1": "855aaddfa0135a1f2e11cd086824acec00ac3bd8",
+      "format": "JSON"
+    },
+    {
+      "name": "privateeyenews-2022-08-19T00:58:44.345846+01:00.jpg",
+      "source": "original",
+      "mtime": "1660867126",
+      "size": "226893",
+      "md5": "845a8ecacc174299e9bff05340f0cb73",
+      "crc32": "ba81d12d",
+      "sha1": "35c96f40db66fc4d93b19e049aa22b533296b8b7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "privateeyenews-2022-08-19T00:58:44.345846+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660867130",
+      "size": "1519",
+      "md5": "4e6ee3080a9cd342cea8707c3caafc5d",
+      "crc32": "031aa759",
+      "sha1": "a78339e519bd88d6623eefdf1c188b9135a4b300",
+      "format": "JSON"
+    },
+    {
+      "name": "privateeyenews-2022-08-19T00:58:44.345846+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1660867132",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "privateeyenews-2022-08-19T00:58:44.345846+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "privateeyenews-2022-08-19T00:58:44.345846+01:00.jpg",
+      "mtime": "1660867478",
+      "size": "8910",
+      "md5": "e789751d1995f21d0670de1e7c4d0c5f",
+      "crc32": "c7042234",
+      "sha1": "5ebb2fcedbcb9aca284c1f90c89e06ff9c523b75"
+    },
+    {
       "name": "privateeyenews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "10ef39b27317909f0693b3dcbfafa61a58848c61",
-      "mtime": "1660780887",
-      "size": "35322",
-      "md5": "8b4082141b67686dbf6be1a58bfe3fbf",
-      "crc32": "cb2f592c",
-      "sha1": "7e314b4e3b13560ca24b9e72e7b9749dd1efba28",
+      "btih": "02886d2d0a4d72880ff697af37ad39440c304dd3",
+      "mtime": "1660867482",
+      "size": "39209",
+      "md5": "60c19cd3f922c61bcd1658d7b0febf87",
+      "crc32": "fb55aeed",
+      "sha1": "7dbe4b4eecdbd1825ba66c1ff4507eec86b54489",
       "format": "Archive BitTorrent"
     },
     {
       "name": "privateeyenews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "653cea74662b524ece0a6505737afd19",
+      "md5": "d98b2d976c4667f39eb2e274c59aee8c",
       "summation": "md5"
     },
     {
       "name": "privateeyenews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660780595",
-      "size": "225280",
-      "md5": "2197e07398f6636432bbd613d62cba6b",
-      "crc32": "2153265b",
-      "sha1": "3e9232573cc075ff12d384f25cb63b2886507983",
+      "mtime": "1660867136",
+      "size": "245760",
+      "md5": "a521676cc89e33749f63999e01068d62",
+      "crc32": "177cc7f8",
+      "sha1": "cc1d67727ffc7c45665c5d3a88aae6620fc939ec",
       "format": "Metadata"
     },
     {
@@ -1666,9 +1852,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 161,
-  "item_last_updated": 1660780887,
-  "item_size": 8191480,
+  "files_count": 179,
+  "item_last_updated": 1660867482,
+  "item_size": 9132432,
   "metadata": {
     "identifier": "privateeyenews-2022",
     "collection": [
@@ -1686,7 +1872,7 @@
     "addeddate": "2022-08-05 12:46:49"
   },
   "server": "ia601404.us.archive.org",
-  "uniq": 1104540002,
+  "uniq": 34971845,
   "workable_servers": [
     "ia601404.us.archive.org",
     "ia801404.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1660742041,
+  "created": 1660869155,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/13/items/uolnoticias-2022",
@@ -2434,31 +2434,217 @@
       "sha1": "5ca766e14caff66102ad2ed055c6c7204e767e6a"
     },
     {
+      "name": "uolnoticias-2022-08-17T22:17:44.470253-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660785467",
+      "size": "17415",
+      "md5": "e6c7f175c8a83ea431f3c007433bbbd2",
+      "crc32": "85eaab11",
+      "sha1": "9388bb6919fd8e124fc43902dd22b438d3230755",
+      "format": "JSON"
+    },
+    {
+      "name": "uolnoticias-2022-08-17T22:17:44.470253-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660785470",
+      "size": "61940",
+      "md5": "b6b6e2428cefcf0a9cf59993844d5213",
+      "crc32": "a304554f",
+      "sha1": "62995fe8567bc5ca4f1bf0bb95a03dbdfca4c86a",
+      "format": "JSON"
+    },
+    {
+      "name": "uolnoticias-2022-08-17T22:17:44.470253-03:00.jpg",
+      "source": "original",
+      "mtime": "1660785465",
+      "size": "173330",
+      "md5": "df14cb4f0c255203a007c1d8c2b9f0a6",
+      "crc32": "7b783e69",
+      "sha1": "71a7de510fa562eae84a32370c8e327c9fa50089",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "uolnoticias-2022-08-17T22:17:44.470253-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660785472",
+      "size": "1504",
+      "md5": "ca3d8fef8b2b5d2b0ed14bbcf1cd13f7",
+      "crc32": "754e74e7",
+      "sha1": "3f50e379f681c3b789cc56565216ae8dbe59a39e",
+      "format": "JSON"
+    },
+    {
+      "name": "uolnoticias-2022-08-17T22:17:44.470253-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1660785473",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "uolnoticias-2022-08-17T22:17:44.470253-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "uolnoticias-2022-08-17T22:17:44.470253-03:00.jpg",
+      "mtime": "1660785763",
+      "size": "8615",
+      "md5": "820d8467e24cd3982facdd34cc256522",
+      "crc32": "b6872130",
+      "sha1": "124718cb3258077ca7b27adc2e33f1ce469c138f"
+    },
+    {
+      "name": "uolnoticias-2022-08-18T09:06:25.471102-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660824390",
+      "size": "17230",
+      "md5": "9ea58d63fd8c842b0a43b04bd23e5323",
+      "crc32": "48973013",
+      "sha1": "2c2ffa022d85c6c7ac97eb8bc9ff4993559f2be8",
+      "format": "JSON"
+    },
+    {
+      "name": "uolnoticias-2022-08-18T09:06:25.471102-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660824391",
+      "size": "61194",
+      "md5": "b2610c6747563fe56fbd1cc57ca9bc5a",
+      "crc32": "5d820944",
+      "sha1": "f25bac3f2c4a671684747ea257e57419a023f116",
+      "format": "JSON"
+    },
+    {
+      "name": "uolnoticias-2022-08-18T09:06:25.471102-03:00.jpg",
+      "source": "original",
+      "mtime": "1660824388",
+      "size": "169921",
+      "md5": "259c356ba2c36f077a38597f98fa7ec0",
+      "crc32": "408f4589",
+      "sha1": "342dd04e4a5fe2b1cb8aee12903d270a360d5e55",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "uolnoticias-2022-08-18T09:06:25.471102-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660824393",
+      "size": "1504",
+      "md5": "1db9c4d7644ffca15d25e2a61483bfa8",
+      "crc32": "54ad9d92",
+      "sha1": "b523af5bfb6e39e5fc490ff73db320e70017de4f",
+      "format": "JSON"
+    },
+    {
+      "name": "uolnoticias-2022-08-18T09:06:25.471102-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1660824394",
+      "size": "57827",
+      "md5": "5041b54e687cc7dcd53fdc65147b2450",
+      "crc32": "c8c5b09c",
+      "sha1": "fbf702a513bb727f9d55d2aa7dcbd543742a264e",
+      "format": "JSON"
+    },
+    {
+      "name": "uolnoticias-2022-08-18T09:06:25.471102-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "uolnoticias-2022-08-18T09:06:25.471102-03:00.jpg",
+      "mtime": "1660824745",
+      "size": "8445",
+      "md5": "7f122b4bce7bdc26a0608a732792991a",
+      "crc32": "63ff7267",
+      "sha1": "3158ea2f2fc3c135e64a1e95c3e565003f5cf7c2"
+    },
+    {
+      "name": "uolnoticias-2022-08-18T10:03:42.915683-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660827826",
+      "size": "17135",
+      "md5": "cd2dd0268e75829cbc9a625ea9e8c884",
+      "crc32": "a766c986",
+      "sha1": "ea6c78d2de372131f4bdbf0c5b8a4247242725e9",
+      "format": "JSON"
+    },
+    {
+      "name": "uolnoticias-2022-08-18T10:03:42.915683-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660827827",
+      "size": "61886",
+      "md5": "d05e74ef47e35ca2b66d36e96762724b",
+      "crc32": "5f599853",
+      "sha1": "fcab384dd48e23a4f60df6188ff158c321dce2b5",
+      "format": "JSON"
+    },
+    {
+      "name": "uolnoticias-2022-08-18T10:03:42.915683-03:00.jpg",
+      "source": "original",
+      "mtime": "1660827824",
+      "size": "169921",
+      "md5": "259c356ba2c36f077a38597f98fa7ec0",
+      "crc32": "408f4589",
+      "sha1": "342dd04e4a5fe2b1cb8aee12903d270a360d5e55",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "uolnoticias-2022-08-18T10:03:42.915683-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660827830",
+      "size": "1504",
+      "md5": "fa6e1dfd86b0744a145e76ab10863ace",
+      "crc32": "1626f244",
+      "sha1": "34ae75e8142dad8ae0128f0de60b1a272a3ee542",
+      "format": "JSON"
+    },
+    {
+      "name": "uolnoticias-2022-08-18T10:03:42.915683-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1660827832",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "uolnoticias-2022-08-18T10:03:42.915683-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "uolnoticias-2022-08-18T10:03:42.915683-03:00.jpg",
+      "mtime": "1660828210",
+      "size": "8445",
+      "md5": "7f122b4bce7bdc26a0608a732792991a",
+      "crc32": "63ff7267",
+      "sha1": "3158ea2f2fc3c135e64a1e95c3e565003f5cf7c2"
+    },
+    {
       "name": "uolnoticias-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fd19c91b7cd5302ae5a9fa06c00285ea50d32e61",
-      "mtime": "1660742022",
-      "size": "51446",
-      "md5": "b0779a3e96fe1045cd58e23cf55185fc",
-      "crc32": "4db810d7",
-      "sha1": "7016881a9fc71e46de449b8d838fd309572453fb",
+      "btih": "f2c6b7a1b9ca4099a613e834c48279f5e87c4caa",
+      "mtime": "1660828217",
+      "size": "55257",
+      "md5": "01092f1036efde64d2d68d8ca342efb2",
+      "crc32": "0a6f347b",
+      "sha1": "c399e3246bbbcf420f873cfd0a3779560b473570",
       "format": "Archive BitTorrent"
     },
     {
       "name": "uolnoticias-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "019e8564f1948f0a3f0ecb25c61de200",
+      "md5": "18b0274ffb9512a743db240fc3322d44",
       "summation": "md5"
     },
     {
       "name": "uolnoticias-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660741893",
-      "size": "319488",
-      "md5": "54d6e5fbeb9eeb7782362d00012de791",
-      "crc32": "ff69b49b",
-      "sha1": "2dcdd77c38dc7c11c7a1578d2e98d6a17c1da093",
+      "mtime": "1660827840",
+      "size": "344064",
+      "md5": "65fc54cdb41e7525e27dcbfa762f3dee",
+      "crc32": "da14b9e7",
+      "sha1": "2652a74bd6be15b9718a9db6eaa62efd341cb097",
       "format": "Metadata"
     },
     {
@@ -2472,9 +2658,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 239,
-  "item_last_updated": 1660742022,
-  "item_size": 12128292,
+  "files_count": 257,
+  "item_last_updated": 1660828217,
+  "item_size": 12994899,
   "metadata": {
     "identifier": "uolnoticias-2022",
     "collection": [
@@ -2491,10 +2677,15 @@
     "publicdate": "2022-08-03 02:00:23",
     "addeddate": "2022-08-03 02:00:23"
   },
-  "server": "ia601509.us.archive.org",
-  "uniq": 1533123350,
+  "server": "ia801509.us.archive.org",
+  "uniq": 1830615749,
+  "uolnoticias-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "workable_servers": [
-    "ia601509.us.archive.org",
-    "ia801509.us.archive.org"
+    "ia801509.us.archive.org",
+    "ia601509.us.archive.org"
   ]
 }
