@@ -55,6 +55,7 @@ The most recent homepages from 4 news sites in this country.
 | :-------------  | :---------------------------------------------------------------------------------- |
 | RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/countries/it.xml)         |
 | ISO code             | IT         |
+| Twitter hashtag | [#IT](https://twitter.com/search?q=%23IT%20from%3A%40newshomepages)           |
 
 ## Site directory
 

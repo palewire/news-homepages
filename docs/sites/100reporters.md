@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | America/New_York                                                                                                                              |
 | Country        | [United States of America](https://palewi.re/docs/news-homepages/countries/us.html)
 | Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
-| Bundles        |  |
+
 
 
 ## Analysis
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         89
     </td>
     <td style="text-align: right;">
-        240
+        241
     </td>
   </tr>
 
@@ -196,7 +196,7 @@ The median score for each category, along with how it ranks in comparison to the
         58
     </td>
     <td style="text-align: right;">
-        748
+        744
     </td>
   </tr>
 
@@ -208,7 +208,7 @@ The median score for each category, along with how it ranks in comparison to the
         16
     </td>
     <td style="text-align: right;">
-        634
+        632
     </td>
   </tr>
 
@@ -217,10 +217,10 @@ The median score for each category, along with how it ranks in comparison to the
         SEO
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        88
+        87
     </td>
     <td style="text-align: right;">
-        404
+        406
     </td>
   </tr>
 

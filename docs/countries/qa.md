@@ -28,6 +28,7 @@ The most recent homepages from 1 news sites in this country.
 | :-------------  | :---------------------------------------------------------------------------------- |
 | RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/countries/qa.xml)         |
 | ISO code             | QA         |
+| Twitter hashtag | [#QA](https://twitter.com/search?q=%23QA%20from%3A%40newshomepages)           |
 
 ## Site directory
 

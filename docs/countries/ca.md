@@ -199,6 +199,7 @@ The most recent homepages from 20 news sites in this country.
 | :-------------  | :---------------------------------------------------------------------------------- |
 | RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/countries/ca.xml)         |
 | ISO code             | CA         |
+| Twitter hashtag | [#CA](https://twitter.com/search?q=%23CA%20from%3A%40newshomepages)           |
 
 ## Site directory
 

@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | America/Mexico_City                                                                                                                              |
 | Country        | [Mexico](https://palewi.re/docs/news-homepages/countries/mx.html)
 | Language       | [Spanish](https://palewi.re/docs/news-homepages/languages/es.html)
-| Bundles        |  |
+
 
 
 

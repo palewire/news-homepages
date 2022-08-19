@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | Pacific/Auckland                                                                                                                              |
 | Country        | [New Zealand](https://palewi.re/docs/news-homepages/countries/nz.html)
 | Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
-| Bundles        |  |
+
 
 
 ## Analysis
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         86
     </td>
     <td style="text-align: right;">
-        379
+        376
     </td>
   </tr>
 
@@ -196,7 +196,7 @@ The median score for each category, along with how it ranks in comparison to the
         75
     </td>
     <td style="text-align: right;">
-        582
+        578
     </td>
   </tr>
 
@@ -205,10 +205,10 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        22
+        23
     </td>
     <td style="text-align: right;">
-        506
+        481
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         98
     </td>
     <td style="text-align: right;">
-        63
+        62
     </td>
   </tr>
 

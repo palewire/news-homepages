@@ -91,6 +91,7 @@ The most recent homepages from 8 news sites in this country.
 | :-------------  | :---------------------------------------------------------------------------------- |
 | RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/countries/ru.xml)         |
 | ISO code             | RU         |
+| Twitter hashtag | [#RU](https://twitter.com/search?q=%23RU%20from%3A%40newshomepages)           |
 
 ## Site directory
 

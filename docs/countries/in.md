@@ -100,6 +100,7 @@ The most recent homepages from 9 news sites in this country.
 | :-------------  | :---------------------------------------------------------------------------------- |
 | RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/countries/in.xml)         |
 | ISO code             | IN         |
+| Twitter hashtag | [#IN](https://twitter.com/search?q=%23IN%20from%3A%40newshomepages)           |
 
 ## Site directory
 

@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | Europe/Madrid                                                                                                                              |
 | Country        | [Spain](https://palewi.re/docs/news-homepages/countries/es.html)
 | Language       | [Spanish](https://palewi.re/docs/news-homepages/languages/es.html)
-| Bundles        |  |
+
 
 
 ## Analysis
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         64
     </td>
     <td style="text-align: right;">
-        747
+        743
     </td>
   </tr>
 
@@ -196,7 +196,7 @@ The median score for each category, along with how it ranks in comparison to the
         75
     </td>
     <td style="text-align: right;">
-        582
+        578
     </td>
   </tr>
 
@@ -208,7 +208,7 @@ The median score for each category, along with how it ranks in comparison to the
         35
     </td>
     <td style="text-align: right;">
-        303
+        300
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         85
     </td>
     <td style="text-align: right;">
-        454
+        452
     </td>
   </tr>
 

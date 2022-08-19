@@ -352,6 +352,7 @@ The most recent homepages from 37 news sites in this country.
 | :-------------  | :---------------------------------------------------------------------------------- |
 | RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/countries/br.xml)         |
 | ISO code             | BR         |
+| Twitter hashtag | [#BR](https://twitter.com/search?q=%23BR%20from%3A%40newshomepages)           |
 
 ## Site directory
 

@@ -73,6 +73,7 @@ The most recent homepages from 6 news sites in this country.
 | :-------------  | :---------------------------------------------------------------------------------- |
 | RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/countries/ua.xml)         |
 | ISO code             | UA         |
+| Twitter hashtag | [#UA](https://twitter.com/search?q=%23UA%20from%3A%40newshomepages)           |
 
 ## Site directory
 

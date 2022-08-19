@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | Europe/Berlin                                                                                                                              |
 | Country        | [Italy](https://palewi.re/docs/news-homepages/countries/it.html)
 | Language       | [Italian](https://palewi.re/docs/news-homepages/languages/it.html)
-| Bundles        |  |
+
 
 
 ## Analysis
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         74
     </td>
     <td style="text-align: right;">
-        656
+        651
     </td>
   </tr>
 
@@ -196,7 +196,7 @@ The median score for each category, along with how it ranks in comparison to the
         75
     </td>
     <td style="text-align: right;">
-        582
+        578
     </td>
   </tr>
 
@@ -208,7 +208,7 @@ The median score for each category, along with how it ranks in comparison to the
         60
     </td>
     <td style="text-align: right;">
-        110
+        106
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         84
     </td>
     <td style="text-align: right;">
-        495
+        493
     </td>
   </tr>
 

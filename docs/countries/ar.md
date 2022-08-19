@@ -100,6 +100,7 @@ The most recent homepages from 9 news sites in this country.
 | :-------------  | :---------------------------------------------------------------------------------- |
 | RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/countries/ar.xml)         |
 | ISO code             | AR         |
+| Twitter hashtag | [#AR](https://twitter.com/search?q=%23AR%20from%3A%40newshomepages)           |
 
 ## Site directory
 

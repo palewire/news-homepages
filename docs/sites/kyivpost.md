@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | Europe/Kiev                                                                                                                              |
 | Country        | [Ukraine](https://palewi.re/docs/news-homepages/countries/ua.html)
 | Language       | [Ukrainian](https://palewi.re/docs/news-homepages/languages/uk.html)
-| Bundles        |  |
+
 
 
 ## Analysis
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         68
     </td>
     <td style="text-align: right;">
-        723
+        719
     </td>
   </tr>
 
@@ -196,7 +196,7 @@ The median score for each category, along with how it ranks in comparison to the
         67
     </td>
     <td style="text-align: right;">
-        702
+        698
     </td>
   </tr>
 
@@ -208,7 +208,7 @@ The median score for each category, along with how it ranks in comparison to the
         11
     </td>
     <td style="text-align: right;">
-        715
+        712
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         84
     </td>
     <td style="text-align: right;">
-        495
+        493
     </td>
   </tr>
 

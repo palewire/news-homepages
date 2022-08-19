@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | Asia/Kathmandu                                                                                                                              |
 | Country        | [Nepal](https://palewi.re/docs/news-homepages/countries/np.html)
 | Language       | [Nepali (macrolanguage)](https://palewi.re/docs/news-homepages/languages/ne.html)
-| Bundles        |  |
+
 
 
 ## Analysis
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         93
     </td>
     <td style="text-align: right;">
-        148
+        150
     </td>
   </tr>
 
@@ -196,7 +196,7 @@ The median score for each category, along with how it ranks in comparison to the
         92
     </td>
     <td style="text-align: right;">
-        120
+        119
     </td>
   </tr>
 
@@ -208,7 +208,7 @@ The median score for each category, along with how it ranks in comparison to the
         13
     </td>
     <td style="text-align: right;">
-        699
+        696
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         91
     </td>
     <td style="text-align: right;">
-        246
+        247
     </td>
   </tr>
 

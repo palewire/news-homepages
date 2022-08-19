@@ -18,14 +18,14 @@ orphan: true
 | Timezone       | Europe/Berlin                                                                                                                              |
 | Country        | [Germany](https://palewi.re/docs/news-homepages/countries/de.html)
 | Language       | [German](https://palewi.re/docs/news-homepages/languages/de.html)
-| Bundles        |  |
+
 
 
 ## Analysis
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 13 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 12 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -180,11 +180,11 @@ The median score for each category, along with how it ranks in comparison to the
     <td>
         Accessibility
     </td>
-    <td style="text-align: right; background-color: green; color: white;">
-        90
+    <td style="text-align: right; background-color: orange; color: white;">
+        88
     </td>
     <td style="text-align: right;">
-        221
+        273
     </td>
   </tr>
 
@@ -196,7 +196,7 @@ The median score for each category, along with how it ranks in comparison to the
         92
     </td>
     <td style="text-align: right;">
-        120
+        119
     </td>
   </tr>
 
@@ -204,11 +204,11 @@ The median score for each category, along with how it ranks in comparison to the
     <td>
         Performance
     </td>
-    <td style="text-align: right; background-color: orange; color: white;">
-        51
+    <td style="text-align: right; background-color: red; color: white;">
+        50
     </td>
     <td style="text-align: right;">
-        159
+        171
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         99
     </td>
     <td style="text-align: right;">
-        31
+        30
     </td>
   </tr>
 

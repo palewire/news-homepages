@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | America/Mexico_City                                                                                                                              |
 | Country        | [Mexico](https://palewi.re/docs/news-homepages/countries/mx.html)
 | Language       | [Spanish](https://palewi.re/docs/news-homepages/languages/es.html)
-| Bundles        |  |
+
 
 
 ## Analysis
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         71
     </td>
     <td style="text-align: right;">
-        700
+        697
     </td>
   </tr>
 
@@ -196,7 +196,7 @@ The median score for each category, along with how it ranks in comparison to the
         92
     </td>
     <td style="text-align: right;">
-        120
+        119
     </td>
   </tr>
 
@@ -208,7 +208,7 @@ The median score for each category, along with how it ranks in comparison to the
         38
     </td>
     <td style="text-align: right;">
-        264
+        267
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         83
     </td>
     <td style="text-align: right;">
-        564
+        563
     </td>
   </tr>
 

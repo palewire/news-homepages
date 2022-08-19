@@ -5221,6 +5221,7 @@ The most recent homepages from 578 news sites in this country.
 | :-------------  | :---------------------------------------------------------------------------------- |
 | RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/countries/us.xml)         |
 | ISO code             | US         |
+| Twitter hashtag | [#US](https://twitter.com/search?q=%23US%20from%3A%40newshomepages)           |
 
 ## Site directory
 

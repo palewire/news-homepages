@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | Europe/Berlin                                                                                                                              |
 | Country        | [Germany](https://palewi.re/docs/news-homepages/countries/de.html)
 | Language       | [German](https://palewi.re/docs/news-homepages/languages/de.html)
-| Bundles        |  |
+
 
 
 ## Analysis
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         89
     </td>
     <td style="text-align: right;">
-        240
+        241
     </td>
   </tr>
 
@@ -196,7 +196,7 @@ The median score for each category, along with how it ranks in comparison to the
         75
     </td>
     <td style="text-align: right;">
-        582
+        578
     </td>
   </tr>
 
@@ -208,7 +208,7 @@ The median score for each category, along with how it ranks in comparison to the
         16
     </td>
     <td style="text-align: right;">
-        634
+        632
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         86
     </td>
     <td style="text-align: right;">
-        409
+        407
     </td>
   </tr>
 
