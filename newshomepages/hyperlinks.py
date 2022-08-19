@@ -32,7 +32,7 @@ def cli(handle: str, output_dir: str):
 
 
 @retry(tries=3, delay=5, backoff=2)
-def _get_links(data: dict) -> list[dict]:
+def _get_links(data):
     print(f":newspaper: Getting hyperlinks for {data['url']}")
     # Start the browser
     with sync_playwright() as p:
