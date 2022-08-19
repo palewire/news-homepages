@@ -1,8 +1,10 @@
+import json
 import warnings
 from pathlib import Path
 
 import click
 import jinja2
+import numpy as np
 import pandas as pd
 import pytz
 from rich import print
@@ -34,6 +36,7 @@ def latest_screenshots():
 @cli.command()
 def accessibility_ranking():
     """Create page ranking sites by Lighthouse accessibility score."""
+    # Get the data
     accessibility_df = pd.read_csv(
         utils.EXTRACT_DIR / "csv" / "lighthouse-analysis.csv",
         usecols=[
@@ -49,17 +52,38 @@ def accessibility_ranking():
             "accessibility_rank": int,
         },
     )
+
+    # Calculate the grand total
+    median = accessibility_df.accessibility_median.median() * 100
+
+    # Generate a distribution for our chart
+    accessibility_df["accessibility_decile"] = (
+        accessibility_df.accessibility_median * 10
+    ).apply(np.floor)
+    histogram_df = accessibility_df.accessibility_decile.value_counts().reset_index()
+    histogram_df["index"] = histogram_df["index"].astype(int)
+    histogram_df = histogram_df.merge(
+        pd.DataFrame(range(0, 11), columns=["index"]),
+        how="right",
+        on="index",
+    ).fillna(0)
+
+    # Prep the ranking
     accessibility_df.accessibility_median = accessibility_df.accessibility_median * 100
     accessibility_df.accessibility_median = (
         accessibility_df.accessibility_median.astype(int)
     )
     site_df = utils.get_site_df()
     merged_df = site_df.merge(accessibility_df, on="handle", how="inner")
+
+    # Create the page
     print(":abacus: Creating accessibility ranking page")
     context = dict(
+        median=median,
+        histogram_json=json.dumps(histogram_df.to_dict(orient="records")),
         site_list=merged_df.sort_values(["accessibility_rank", "name"]).to_dict(
             orient="records"
-        )
+        ),
     )
     _write_template("accessibility.md", context)
 
@@ -67,6 +91,7 @@ def accessibility_ranking():
 @cli.command()
 def performance_ranking():
     """Create page ranking sites by Lighthouse performance score."""
+    # Read in our dataset
     performance_df = pd.read_csv(
         utils.EXTRACT_DIR / "csv" / "lighthouse-analysis.csv",
         usecols=[
@@ -82,15 +107,36 @@ def performance_ranking():
             "performance_rank": int,
         },
     )
+
+    # Calculate the grand total
+    median = performance_df.performance_median.median() * 100
+
+    # Generate a distribution for our chart
+    performance_df["performance_decile"] = (
+        performance_df.performance_median * 10
+    ).apply(np.floor)
+    histogram_df = performance_df.performance_decile.value_counts().reset_index()
+    histogram_df["index"] = histogram_df["index"].astype(int)
+    histogram_df = histogram_df.merge(
+        pd.DataFrame(range(0, 11), columns=["index"]),
+        how="right",
+        on="index",
+    ).fillna(0)
+
+    # Prep the ranking table
     performance_df.performance_median = performance_df.performance_median * 100
     performance_df.performance_median = performance_df.performance_median.astype(int)
     site_df = utils.get_site_df()
     merged_df = site_df.merge(performance_df, on="handle", how="inner")
+
+    # Create the page
     print(":abacus: Creating performance ranking page")
     context = dict(
+        median=median,
+        histogram_json=json.dumps(histogram_df.to_dict(orient="records")),
         site_list=merged_df.sort_values(["performance_rank", "name"]).to_dict(
             orient="records"
-        )
+        ),
     )
     _write_template("performance.md", context)
 

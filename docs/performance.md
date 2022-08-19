@@ -7,6 +7,140 @@ As part of its archiving routine, our system conducts routine audits of code qua
 
 The value is the weighted average of a basket of speed and efficiency metrics gathered by Lighthouse. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
+This past week the median across all sites was 28. Here's the distribution of scores.
+
+<div id="vis" style="width: 100%; height: 250px;"></div>
+  <script>
+    const spec = {
+  "config": {
+    "view": {"width": 500, "height": 300, "strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 20,
+      "fontWeight": "bold",
+      "lineHeight": 20,
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 10
+    },
+    "arc": {"fill": "#cecece"},
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "rect": {"fill": "#cecece"},
+    "bar": {"fill": "#cecece"},
+    "point": {"stroke": "#cecece"},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "titleAlign": "left",
+      "titleAngle": 0,
+      "titleX": -45,
+      "titleY": -11,
+      "domain": false
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    },
+    "range": {
+      "heatmap": [
+        "#5e5e5e",
+        "#727272",
+        "#858585",
+        "#989898",
+        "#aaaaaa",
+        "#bcbcbc",
+        "#c4c4c4",
+        "#cecece",
+        "#e0e0e0",
+        "#f0f0f0",
+        "#ffffff"
+      ],
+      "ordinal": [
+        "#5e5e5e",
+        "#727272",
+        "#858585",
+        "#989898",
+        "#aaaaaa",
+        "#bcbcbc",
+        "#c4c4c4",
+        "#cecece",
+        "#e0e0e0",
+        "#f0f0f0",
+        "#ffffff"
+      ],
+      "ramp": [
+        "#5e5e5e",
+        "#727272",
+        "#858585",
+        "#989898",
+        "#aaaaaa",
+        "#bcbcbc",
+        "#c4c4c4",
+        "#cecece",
+        "#e0e0e0",
+        "#f0f0f0",
+        "#ffffff"
+      ]
+    }
+  },
+  "data": {"name": "data-ff083e2caf4ea6428c61f01fb3b93afe"},
+  "mark": {"type": "bar", "opacity": 0.9},
+  "encoding": {
+    "x": {
+      "axis": {"format": ".0f"},
+      "bin": true,
+      "field": "index",
+      "title": "Median score",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "performance_decile",
+      "title": "Number of sites",
+      "type": "quantitative"
+    }
+  },
+  "title": "Lighthouse performance scores",
+  "width": "container",
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.17.0.json",
+  "datasets": {
+    "data-ff083e2caf4ea6428c61f01fb3b93afe": [{"index": 2, "performance_decile": 208}, {"index": 1, "performance_decile": 161}, {"index": 3, "performance_decile": 108}, {"index": 4, "performance_decile": 84}, {"index": 5, "performance_decile": 60}, {"index": 0, "performance_decile": 45}, {"index": 8, "performance_decile": 37}, {"index": 6, "performance_decile": 33}, {"index": 7, "performance_decile": 31}, {"index": 9, "performance_decile": 7}, {"index": 10, "performance_decile": 1}]
+  }
+};
+    vegaEmbed("#vis", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+  </script>
+
+Here's a ranking of sites from best to worst.
+
 <table class="colwidths-auto docutils align-default">
  <thead>
   <tr>
@@ -16,7 +150,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
   </tr>
  </thead>
  <tbody>
-  
+
   <tr>
     <td>1</td>
     <td>
@@ -28,7 +162,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         100
     </td>
   </tr>
-  
+
   <tr>
     <td>2</td>
     <td>
@@ -40,7 +174,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         97
     </td>
   </tr>
-  
+
   <tr>
     <td>3</td>
     <td>
@@ -52,7 +186,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         96
     </td>
   </tr>
-  
+
   <tr>
     <td>4</td>
     <td>
@@ -64,7 +198,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         94
     </td>
   </tr>
-  
+
   <tr>
     <td>5</td>
     <td>
@@ -76,7 +210,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         93
     </td>
   </tr>
-  
+
   <tr>
     <td>5</td>
     <td>
@@ -88,7 +222,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         93
     </td>
   </tr>
-  
+
   <tr>
     <td>7</td>
     <td>
@@ -100,7 +234,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         91
     </td>
   </tr>
-  
+
   <tr>
     <td>8</td>
     <td>
@@ -112,7 +246,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         90
     </td>
   </tr>
-  
+
   <tr>
     <td>9</td>
     <td>
@@ -124,7 +258,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         89
     </td>
   </tr>
-  
+
   <tr>
     <td>10</td>
     <td>
@@ -136,7 +270,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         89
     </td>
   </tr>
-  
+
   <tr>
     <td>11</td>
     <td>
@@ -148,7 +282,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         88
     </td>
   </tr>
-  
+
   <tr>
     <td>11</td>
     <td>
@@ -160,7 +294,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         88
     </td>
   </tr>
-  
+
   <tr>
     <td>11</td>
     <td>
@@ -172,7 +306,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         88
     </td>
   </tr>
-  
+
   <tr>
     <td>14</td>
     <td>
@@ -184,7 +318,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         87
     </td>
   </tr>
-  
+
   <tr>
     <td>14</td>
     <td>
@@ -196,7 +330,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         87
     </td>
   </tr>
-  
+
   <tr>
     <td>16</td>
     <td>
@@ -208,7 +342,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         86
     </td>
   </tr>
-  
+
   <tr>
     <td>16</td>
     <td>
@@ -220,7 +354,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         86
     </td>
   </tr>
-  
+
   <tr>
     <td>18</td>
     <td>
@@ -232,7 +366,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         85
     </td>
   </tr>
-  
+
   <tr>
     <td>18</td>
     <td>
@@ -244,7 +378,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         85
     </td>
   </tr>
-  
+
   <tr>
     <td>18</td>
     <td>
@@ -256,7 +390,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         85
     </td>
   </tr>
-  
+
   <tr>
     <td>18</td>
     <td>
@@ -268,7 +402,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         85
     </td>
   </tr>
-  
+
   <tr>
     <td>22</td>
     <td>
@@ -280,7 +414,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         84
     </td>
   </tr>
-  
+
   <tr>
     <td>22</td>
     <td>
@@ -292,7 +426,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         84
     </td>
   </tr>
-  
+
   <tr>
     <td>24</td>
     <td>
@@ -304,7 +438,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         83
     </td>
   </tr>
-  
+
   <tr>
     <td>24</td>
     <td>
@@ -316,7 +450,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         83
     </td>
   </tr>
-  
+
   <tr>
     <td>24</td>
     <td>
@@ -328,7 +462,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         83
     </td>
   </tr>
-  
+
   <tr>
     <td>27</td>
     <td>
@@ -340,7 +474,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         82
     </td>
   </tr>
-  
+
   <tr>
     <td>28</td>
     <td>
@@ -352,7 +486,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         82
     </td>
   </tr>
-  
+
   <tr>
     <td>28</td>
     <td>
@@ -364,7 +498,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         82
     </td>
   </tr>
-  
+
   <tr>
     <td>28</td>
     <td>
@@ -376,7 +510,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         82
     </td>
   </tr>
-  
+
   <tr>
     <td>28</td>
     <td>
@@ -388,7 +522,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         82
     </td>
   </tr>
-  
+
   <tr>
     <td>28</td>
     <td>
@@ -400,7 +534,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         82
     </td>
   </tr>
-  
+
   <tr>
     <td>28</td>
     <td>
@@ -412,7 +546,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         82
     </td>
   </tr>
-  
+
   <tr>
     <td>28</td>
     <td>
@@ -424,7 +558,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         82
     </td>
   </tr>
-  
+
   <tr>
     <td>28</td>
     <td>
@@ -436,7 +570,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         82
     </td>
   </tr>
-  
+
   <tr>
     <td>28</td>
     <td>
@@ -448,7 +582,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         82
     </td>
   </tr>
-  
+
   <tr>
     <td>28</td>
     <td>
@@ -460,7 +594,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         82
     </td>
   </tr>
-  
+
   <tr>
     <td>38</td>
     <td>
@@ -472,7 +606,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         81
     </td>
   </tr>
-  
+
   <tr>
     <td>39</td>
     <td>
@@ -484,7 +618,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         81
     </td>
   </tr>
-  
+
   <tr>
     <td>39</td>
     <td>
@@ -496,7 +630,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         81
     </td>
   </tr>
-  
+
   <tr>
     <td>39</td>
     <td>
@@ -508,7 +642,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         81
     </td>
   </tr>
-  
+
   <tr>
     <td>39</td>
     <td>
@@ -520,7 +654,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         81
     </td>
   </tr>
-  
+
   <tr>
     <td>43</td>
     <td>
@@ -532,7 +666,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         80
     </td>
   </tr>
-  
+
   <tr>
     <td>44</td>
     <td>
@@ -544,7 +678,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         80
     </td>
   </tr>
-  
+
   <tr>
     <td>44</td>
     <td>
@@ -556,7 +690,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         80
     </td>
   </tr>
-  
+
   <tr>
     <td>46</td>
     <td>
@@ -568,7 +702,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         79
     </td>
   </tr>
-  
+
   <tr>
     <td>47</td>
     <td>
@@ -580,7 +714,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         79
     </td>
   </tr>
-  
+
   <tr>
     <td>47</td>
     <td>
@@ -592,7 +726,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         79
     </td>
   </tr>
-  
+
   <tr>
     <td>47</td>
     <td>
@@ -604,7 +738,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         79
     </td>
   </tr>
-  
+
   <tr>
     <td>47</td>
     <td>
@@ -616,7 +750,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         79
     </td>
   </tr>
-  
+
   <tr>
     <td>51</td>
     <td>
@@ -628,7 +762,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         78
     </td>
   </tr>
-  
+
   <tr>
     <td>51</td>
     <td>
@@ -640,7 +774,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         78
     </td>
   </tr>
-  
+
   <tr>
     <td>51</td>
     <td>
@@ -652,7 +786,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         78
     </td>
   </tr>
-  
+
   <tr>
     <td>54</td>
     <td>
@@ -664,7 +798,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         77
     </td>
   </tr>
-  
+
   <tr>
     <td>55</td>
     <td>
@@ -676,7 +810,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         77
     </td>
   </tr>
-  
+
   <tr>
     <td>55</td>
     <td>
@@ -688,7 +822,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         77
     </td>
   </tr>
-  
+
   <tr>
     <td>57</td>
     <td>
@@ -700,7 +834,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         76
     </td>
   </tr>
-  
+
   <tr>
     <td>58</td>
     <td>
@@ -712,7 +846,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         75
     </td>
   </tr>
-  
+
   <tr>
     <td>59</td>
     <td>
@@ -724,7 +858,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         75
     </td>
   </tr>
-  
+
   <tr>
     <td>60</td>
     <td>
@@ -736,7 +870,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         74
     </td>
   </tr>
-  
+
   <tr>
     <td>60</td>
     <td>
@@ -748,7 +882,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         74
     </td>
   </tr>
-  
+
   <tr>
     <td>62</td>
     <td>
@@ -760,7 +894,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         73
     </td>
   </tr>
-  
+
   <tr>
     <td>63</td>
     <td>
@@ -772,7 +906,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         72
     </td>
   </tr>
-  
+
   <tr>
     <td>63</td>
     <td>
@@ -784,7 +918,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         72
     </td>
   </tr>
-  
+
   <tr>
     <td>63</td>
     <td>
@@ -796,7 +930,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         72
     </td>
   </tr>
-  
+
   <tr>
     <td>63</td>
     <td>
@@ -808,7 +942,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         72
     </td>
   </tr>
-  
+
   <tr>
     <td>63</td>
     <td>
@@ -820,7 +954,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         72
     </td>
   </tr>
-  
+
   <tr>
     <td>63</td>
     <td>
@@ -832,7 +966,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         72
     </td>
   </tr>
-  
+
   <tr>
     <td>69</td>
     <td>
@@ -844,7 +978,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         71
     </td>
   </tr>
-  
+
   <tr>
     <td>69</td>
     <td>
@@ -856,7 +990,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         71
     </td>
   </tr>
-  
+
   <tr>
     <td>69</td>
     <td>
@@ -868,7 +1002,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         71
     </td>
   </tr>
-  
+
   <tr>
     <td>69</td>
     <td>
@@ -880,7 +1014,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         71
     </td>
   </tr>
-  
+
   <tr>
     <td>69</td>
     <td>
@@ -892,19 +1026,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         71
     </td>
   </tr>
-  
+
   <tr>
     <td>74</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/inthesetimesmag.html">
-            In These Times 
+            In These Times
         </a>
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
         70
     </td>
   </tr>
-  
+
   <tr>
     <td>74</td>
     <td>
@@ -916,7 +1050,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         70
     </td>
   </tr>
-  
+
   <tr>
     <td>74</td>
     <td>
@@ -928,7 +1062,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         70
     </td>
   </tr>
-  
+
   <tr>
     <td>77</td>
     <td>
@@ -940,7 +1074,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         69
     </td>
   </tr>
-  
+
   <tr>
     <td>77</td>
     <td>
@@ -952,7 +1086,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         69
     </td>
   </tr>
-  
+
   <tr>
     <td>77</td>
     <td>
@@ -964,7 +1098,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         69
     </td>
   </tr>
-  
+
   <tr>
     <td>77</td>
     <td>
@@ -976,7 +1110,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         69
     </td>
   </tr>
-  
+
   <tr>
     <td>77</td>
     <td>
@@ -988,7 +1122,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         69
     </td>
   </tr>
-  
+
   <tr>
     <td>82</td>
     <td>
@@ -1000,7 +1134,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         67
     </td>
   </tr>
-  
+
   <tr>
     <td>82</td>
     <td>
@@ -1012,7 +1146,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         67
     </td>
   </tr>
-  
+
   <tr>
     <td>84</td>
     <td>
@@ -1024,7 +1158,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         67
     </td>
   </tr>
-  
+
   <tr>
     <td>85</td>
     <td>
@@ -1036,7 +1170,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         66
     </td>
   </tr>
-  
+
   <tr>
     <td>86</td>
     <td>
@@ -1048,7 +1182,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         66
     </td>
   </tr>
-  
+
   <tr>
     <td>86</td>
     <td>
@@ -1060,7 +1194,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         66
     </td>
   </tr>
-  
+
   <tr>
     <td>86</td>
     <td>
@@ -1072,7 +1206,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         66
     </td>
   </tr>
-  
+
   <tr>
     <td>89</td>
     <td>
@@ -1084,7 +1218,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         65
     </td>
   </tr>
-  
+
   <tr>
     <td>90</td>
     <td>
@@ -1096,7 +1230,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         64
     </td>
   </tr>
-  
+
   <tr>
     <td>90</td>
     <td>
@@ -1108,7 +1242,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         64
     </td>
   </tr>
-  
+
   <tr>
     <td>90</td>
     <td>
@@ -1120,7 +1254,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         64
     </td>
   </tr>
-  
+
   <tr>
     <td>93</td>
     <td>
@@ -1132,7 +1266,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         63
     </td>
   </tr>
-  
+
   <tr>
     <td>93</td>
     <td>
@@ -1144,7 +1278,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         63
     </td>
   </tr>
-  
+
   <tr>
     <td>93</td>
     <td>
@@ -1156,7 +1290,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         63
     </td>
   </tr>
-  
+
   <tr>
     <td>93</td>
     <td>
@@ -1168,7 +1302,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         63
     </td>
   </tr>
-  
+
   <tr>
     <td>97</td>
     <td>
@@ -1180,7 +1314,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         62
     </td>
   </tr>
-  
+
   <tr>
     <td>98</td>
     <td>
@@ -1192,7 +1326,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         62
     </td>
   </tr>
-  
+
   <tr>
     <td>98</td>
     <td>
@@ -1204,7 +1338,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         62
     </td>
   </tr>
-  
+
   <tr>
     <td>98</td>
     <td>
@@ -1216,7 +1350,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         62
     </td>
   </tr>
-  
+
   <tr>
     <td>98</td>
     <td>
@@ -1228,7 +1362,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         62
     </td>
   </tr>
-  
+
   <tr>
     <td>98</td>
     <td>
@@ -1240,7 +1374,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         62
     </td>
   </tr>
-  
+
   <tr>
     <td>103</td>
     <td>
@@ -1252,7 +1386,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         61
     </td>
   </tr>
-  
+
   <tr>
     <td>103</td>
     <td>
@@ -1264,7 +1398,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         61
     </td>
   </tr>
-  
+
   <tr>
     <td>105</td>
     <td>
@@ -1276,7 +1410,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         60
     </td>
   </tr>
-  
+
   <tr>
     <td>105</td>
     <td>
@@ -1288,7 +1422,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         60
     </td>
   </tr>
-  
+
   <tr>
     <td>107</td>
     <td>
@@ -1300,7 +1434,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         60
     </td>
   </tr>
-  
+
   <tr>
     <td>107</td>
     <td>
@@ -1312,7 +1446,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         60
     </td>
   </tr>
-  
+
   <tr>
     <td>107</td>
     <td>
@@ -1324,7 +1458,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         60
     </td>
   </tr>
-  
+
   <tr>
     <td>110</td>
     <td>
@@ -1336,7 +1470,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         59
     </td>
   </tr>
-  
+
   <tr>
     <td>111</td>
     <td>
@@ -1348,7 +1482,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         59
     </td>
   </tr>
-  
+
   <tr>
     <td>111</td>
     <td>
@@ -1360,7 +1494,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         59
     </td>
   </tr>
-  
+
   <tr>
     <td>113</td>
     <td>
@@ -1372,7 +1506,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         58
     </td>
   </tr>
-  
+
   <tr>
     <td>114</td>
     <td>
@@ -1384,7 +1518,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         57
     </td>
   </tr>
-  
+
   <tr>
     <td>114</td>
     <td>
@@ -1396,7 +1530,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         57
     </td>
   </tr>
-  
+
   <tr>
     <td>114</td>
     <td>
@@ -1408,7 +1542,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         57
     </td>
   </tr>
-  
+
   <tr>
     <td>117</td>
     <td>
@@ -1420,7 +1554,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         57
     </td>
   </tr>
-  
+
   <tr>
     <td>118</td>
     <td>
@@ -1432,7 +1566,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         57
     </td>
   </tr>
-  
+
   <tr>
     <td>119</td>
     <td>
@@ -1444,7 +1578,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         56
     </td>
   </tr>
-  
+
   <tr>
     <td>119</td>
     <td>
@@ -1456,7 +1590,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         56
     </td>
   </tr>
-  
+
   <tr>
     <td>119</td>
     <td>
@@ -1468,7 +1602,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         56
     </td>
   </tr>
-  
+
   <tr>
     <td>122</td>
     <td>
@@ -1480,7 +1614,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         56
     </td>
   </tr>
-  
+
   <tr>
     <td>122</td>
     <td>
@@ -1492,7 +1626,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         56
     </td>
   </tr>
-  
+
   <tr>
     <td>124</td>
     <td>
@@ -1504,7 +1638,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         56
     </td>
   </tr>
-  
+
   <tr>
     <td>124</td>
     <td>
@@ -1516,7 +1650,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         56
     </td>
   </tr>
-  
+
   <tr>
     <td>124</td>
     <td>
@@ -1528,7 +1662,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         56
     </td>
   </tr>
-  
+
   <tr>
     <td>124</td>
     <td>
@@ -1540,7 +1674,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         56
     </td>
   </tr>
-  
+
   <tr>
     <td>124</td>
     <td>
@@ -1552,7 +1686,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         56
     </td>
   </tr>
-  
+
   <tr>
     <td>124</td>
     <td>
@@ -1564,7 +1698,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         56
     </td>
   </tr>
-  
+
   <tr>
     <td>124</td>
     <td>
@@ -1576,7 +1710,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         56
     </td>
   </tr>
-  
+
   <tr>
     <td>124</td>
     <td>
@@ -1588,7 +1722,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         56
     </td>
   </tr>
-  
+
   <tr>
     <td>124</td>
     <td>
@@ -1600,7 +1734,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         56
     </td>
   </tr>
-  
+
   <tr>
     <td>133</td>
     <td>
@@ -1612,7 +1746,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         55
     </td>
   </tr>
-  
+
   <tr>
     <td>134</td>
     <td>
@@ -1624,7 +1758,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         55
     </td>
   </tr>
-  
+
   <tr>
     <td>134</td>
     <td>
@@ -1636,7 +1770,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         55
     </td>
   </tr>
-  
+
   <tr>
     <td>134</td>
     <td>
@@ -1648,7 +1782,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         55
     </td>
   </tr>
-  
+
   <tr>
     <td>134</td>
     <td>
@@ -1660,7 +1794,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         55
     </td>
   </tr>
-  
+
   <tr>
     <td>134</td>
     <td>
@@ -1672,7 +1806,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         55
     </td>
   </tr>
-  
+
   <tr>
     <td>139</td>
     <td>
@@ -1684,7 +1818,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         54
     </td>
   </tr>
-  
+
   <tr>
     <td>139</td>
     <td>
@@ -1696,7 +1830,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         54
     </td>
   </tr>
-  
+
   <tr>
     <td>141</td>
     <td>
@@ -1708,7 +1842,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         54
     </td>
   </tr>
-  
+
   <tr>
     <td>141</td>
     <td>
@@ -1720,7 +1854,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         54
     </td>
   </tr>
-  
+
   <tr>
     <td>141</td>
     <td>
@@ -1732,7 +1866,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         54
     </td>
   </tr>
-  
+
   <tr>
     <td>141</td>
     <td>
@@ -1744,7 +1878,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         54
     </td>
   </tr>
-  
+
   <tr>
     <td>141</td>
     <td>
@@ -1756,7 +1890,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         54
     </td>
   </tr>
-  
+
   <tr>
     <td>141</td>
     <td>
@@ -1768,7 +1902,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         54
     </td>
   </tr>
-  
+
   <tr>
     <td>141</td>
     <td>
@@ -1780,7 +1914,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         54
     </td>
   </tr>
-  
+
   <tr>
     <td>148</td>
     <td>
@@ -1792,7 +1926,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         53
     </td>
   </tr>
-  
+
   <tr>
     <td>148</td>
     <td>
@@ -1804,7 +1938,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         53
     </td>
   </tr>
-  
+
   <tr>
     <td>150</td>
     <td>
@@ -1816,7 +1950,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         53
     </td>
   </tr>
-  
+
   <tr>
     <td>150</td>
     <td>
@@ -1828,7 +1962,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         53
     </td>
   </tr>
-  
+
   <tr>
     <td>150</td>
     <td>
@@ -1840,7 +1974,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         53
     </td>
   </tr>
-  
+
   <tr>
     <td>153</td>
     <td>
@@ -1852,7 +1986,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         52
     </td>
   </tr>
-  
+
   <tr>
     <td>153</td>
     <td>
@@ -1864,7 +1998,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         52
     </td>
   </tr>
-  
+
   <tr>
     <td>153</td>
     <td>
@@ -1876,7 +2010,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         52
     </td>
   </tr>
-  
+
   <tr>
     <td>153</td>
     <td>
@@ -1888,7 +2022,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         52
     </td>
   </tr>
-  
+
   <tr>
     <td>153</td>
     <td>
@@ -1900,7 +2034,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         52
     </td>
   </tr>
-  
+
   <tr>
     <td>158</td>
     <td>
@@ -1912,7 +2046,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         51
     </td>
   </tr>
-  
+
   <tr>
     <td>159</td>
     <td>
@@ -1924,7 +2058,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         51
     </td>
   </tr>
-  
+
   <tr>
     <td>159</td>
     <td>
@@ -1936,7 +2070,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         51
     </td>
   </tr>
-  
+
   <tr>
     <td>159</td>
     <td>
@@ -1948,7 +2082,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         51
     </td>
   </tr>
-  
+
   <tr>
     <td>159</td>
     <td>
@@ -1960,7 +2094,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         51
     </td>
   </tr>
-  
+
   <tr>
     <td>159</td>
     <td>
@@ -1972,7 +2106,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         51
     </td>
   </tr>
-  
+
   <tr>
     <td>159</td>
     <td>
@@ -1984,7 +2118,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         51
     </td>
   </tr>
-  
+
   <tr>
     <td>159</td>
     <td>
@@ -1996,7 +2130,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         51
     </td>
   </tr>
-  
+
   <tr>
     <td>166</td>
     <td>
@@ -2008,7 +2142,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         50
     </td>
   </tr>
-  
+
   <tr>
     <td>167</td>
     <td>
@@ -2020,7 +2154,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         50
     </td>
   </tr>
-  
+
   <tr>
     <td>167</td>
     <td>
@@ -2032,7 +2166,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         50
     </td>
   </tr>
-  
+
   <tr>
     <td>167</td>
     <td>
@@ -2044,7 +2178,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         50
     </td>
   </tr>
-  
+
   <tr>
     <td>170</td>
     <td>
@@ -2056,7 +2190,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         49
     </td>
   </tr>
-  
+
   <tr>
     <td>170</td>
     <td>
@@ -2068,7 +2202,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         49
     </td>
   </tr>
-  
+
   <tr>
     <td>170</td>
     <td>
@@ -2080,7 +2214,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         49
     </td>
   </tr>
-  
+
   <tr>
     <td>170</td>
     <td>
@@ -2092,7 +2226,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         49
     </td>
   </tr>
-  
+
   <tr>
     <td>170</td>
     <td>
@@ -2104,7 +2238,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         49
     </td>
   </tr>
-  
+
   <tr>
     <td>170</td>
     <td>
@@ -2116,7 +2250,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         49
     </td>
   </tr>
-  
+
   <tr>
     <td>170</td>
     <td>
@@ -2128,7 +2262,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         49
     </td>
   </tr>
-  
+
   <tr>
     <td>170</td>
     <td>
@@ -2140,7 +2274,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         49
     </td>
   </tr>
-  
+
   <tr>
     <td>178</td>
     <td>
@@ -2152,7 +2286,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         48
     </td>
   </tr>
-  
+
   <tr>
     <td>179</td>
     <td>
@@ -2164,7 +2298,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         48
     </td>
   </tr>
-  
+
   <tr>
     <td>179</td>
     <td>
@@ -2176,7 +2310,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         48
     </td>
   </tr>
-  
+
   <tr>
     <td>179</td>
     <td>
@@ -2188,7 +2322,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         48
     </td>
   </tr>
-  
+
   <tr>
     <td>179</td>
     <td>
@@ -2200,7 +2334,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         48
     </td>
   </tr>
-  
+
   <tr>
     <td>179</td>
     <td>
@@ -2212,7 +2346,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         48
     </td>
   </tr>
-  
+
   <tr>
     <td>179</td>
     <td>
@@ -2224,7 +2358,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         48
     </td>
   </tr>
-  
+
   <tr>
     <td>179</td>
     <td>
@@ -2236,7 +2370,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         48
     </td>
   </tr>
-  
+
   <tr>
     <td>179</td>
     <td>
@@ -2248,7 +2382,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         48
     </td>
   </tr>
-  
+
   <tr>
     <td>179</td>
     <td>
@@ -2260,7 +2394,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         48
     </td>
   </tr>
-  
+
   <tr>
     <td>179</td>
     <td>
@@ -2272,7 +2406,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         48
     </td>
   </tr>
-  
+
   <tr>
     <td>179</td>
     <td>
@@ -2284,7 +2418,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         48
     </td>
   </tr>
-  
+
   <tr>
     <td>179</td>
     <td>
@@ -2296,7 +2430,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         48
     </td>
   </tr>
-  
+
   <tr>
     <td>179</td>
     <td>
@@ -2308,7 +2442,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         48
     </td>
   </tr>
-  
+
   <tr>
     <td>179</td>
     <td>
@@ -2320,7 +2454,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         48
     </td>
   </tr>
-  
+
   <tr>
     <td>193</td>
     <td>
@@ -2332,7 +2466,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         47
     </td>
   </tr>
-  
+
   <tr>
     <td>193</td>
     <td>
@@ -2344,7 +2478,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         47
     </td>
   </tr>
-  
+
   <tr>
     <td>195</td>
     <td>
@@ -2356,7 +2490,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         47
     </td>
   </tr>
-  
+
   <tr>
     <td>195</td>
     <td>
@@ -2368,7 +2502,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         47
     </td>
   </tr>
-  
+
   <tr>
     <td>195</td>
     <td>
@@ -2380,7 +2514,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         47
     </td>
   </tr>
-  
+
   <tr>
     <td>195</td>
     <td>
@@ -2392,7 +2526,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         47
     </td>
   </tr>
-  
+
   <tr>
     <td>199</td>
     <td>
@@ -2404,7 +2538,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         46
     </td>
   </tr>
-  
+
   <tr>
     <td>199</td>
     <td>
@@ -2416,7 +2550,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         46
     </td>
   </tr>
-  
+
   <tr>
     <td>201</td>
     <td>
@@ -2428,7 +2562,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         46
     </td>
   </tr>
-  
+
   <tr>
     <td>201</td>
     <td>
@@ -2440,7 +2574,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         46
     </td>
   </tr>
-  
+
   <tr>
     <td>201</td>
     <td>
@@ -2452,7 +2586,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         46
     </td>
   </tr>
-  
+
   <tr>
     <td>201</td>
     <td>
@@ -2464,7 +2598,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         46
     </td>
   </tr>
-  
+
   <tr>
     <td>201</td>
     <td>
@@ -2476,7 +2610,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         46
     </td>
   </tr>
-  
+
   <tr>
     <td>201</td>
     <td>
@@ -2488,7 +2622,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         46
     </td>
   </tr>
-  
+
   <tr>
     <td>207</td>
     <td>
@@ -2500,7 +2634,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         45
     </td>
   </tr>
-  
+
   <tr>
     <td>208</td>
     <td>
@@ -2512,7 +2646,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         45
     </td>
   </tr>
-  
+
   <tr>
     <td>208</td>
     <td>
@@ -2524,7 +2658,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         45
     </td>
   </tr>
-  
+
   <tr>
     <td>208</td>
     <td>
@@ -2536,7 +2670,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         45
     </td>
   </tr>
-  
+
   <tr>
     <td>208</td>
     <td>
@@ -2548,7 +2682,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         45
     </td>
   </tr>
-  
+
   <tr>
     <td>208</td>
     <td>
@@ -2560,7 +2694,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         45
     </td>
   </tr>
-  
+
   <tr>
     <td>208</td>
     <td>
@@ -2572,19 +2706,19 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         45
     </td>
   </tr>
-  
+
   <tr>
     <td>208</td>
     <td>
         <a href="https://palewi.re/docs/news-homepages/sites/politifact.html">
-            Politifact 
+            Politifact
         </a>
     </td>
     <td style="text-align: right; background-color: red; color: white;">
         45
     </td>
   </tr>
-  
+
   <tr>
     <td>208</td>
     <td>
@@ -2596,7 +2730,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         45
     </td>
   </tr>
-  
+
   <tr>
     <td>208</td>
     <td>
@@ -2608,7 +2742,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         45
     </td>
   </tr>
-  
+
   <tr>
     <td>217</td>
     <td>
@@ -2620,7 +2754,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         44
     </td>
   </tr>
-  
+
   <tr>
     <td>217</td>
     <td>
@@ -2632,7 +2766,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         44
     </td>
   </tr>
-  
+
   <tr>
     <td>219</td>
     <td>
@@ -2644,7 +2778,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         44
     </td>
   </tr>
-  
+
   <tr>
     <td>219</td>
     <td>
@@ -2656,7 +2790,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         44
     </td>
   </tr>
-  
+
   <tr>
     <td>219</td>
     <td>
@@ -2668,7 +2802,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         44
     </td>
   </tr>
-  
+
   <tr>
     <td>219</td>
     <td>
@@ -2680,7 +2814,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         44
     </td>
   </tr>
-  
+
   <tr>
     <td>219</td>
     <td>
@@ -2692,7 +2826,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         44
     </td>
   </tr>
-  
+
   <tr>
     <td>219</td>
     <td>
@@ -2704,7 +2838,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         44
     </td>
   </tr>
-  
+
   <tr>
     <td>219</td>
     <td>
@@ -2716,7 +2850,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         44
     </td>
   </tr>
-  
+
   <tr>
     <td>226</td>
     <td>
@@ -2728,7 +2862,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         43
     </td>
   </tr>
-  
+
   <tr>
     <td>227</td>
     <td>
@@ -2740,7 +2874,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         43
     </td>
   </tr>
-  
+
   <tr>
     <td>227</td>
     <td>
@@ -2752,7 +2886,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         43
     </td>
   </tr>
-  
+
   <tr>
     <td>227</td>
     <td>
@@ -2764,7 +2898,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         43
     </td>
   </tr>
-  
+
   <tr>
     <td>227</td>
     <td>
@@ -2776,7 +2910,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         43
     </td>
   </tr>
-  
+
   <tr>
     <td>227</td>
     <td>
@@ -2788,7 +2922,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         43
     </td>
   </tr>
-  
+
   <tr>
     <td>227</td>
     <td>
@@ -2800,7 +2934,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         43
     </td>
   </tr>
-  
+
   <tr>
     <td>233</td>
     <td>
@@ -2812,7 +2946,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         42
     </td>
   </tr>
-  
+
   <tr>
     <td>233</td>
     <td>
@@ -2824,7 +2958,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         42
     </td>
   </tr>
-  
+
   <tr>
     <td>233</td>
     <td>
@@ -2836,7 +2970,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         42
     </td>
   </tr>
-  
+
   <tr>
     <td>233</td>
     <td>
@@ -2848,7 +2982,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         42
     </td>
   </tr>
-  
+
   <tr>
     <td>233</td>
     <td>
@@ -2860,7 +2994,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         42
     </td>
   </tr>
-  
+
   <tr>
     <td>233</td>
     <td>
@@ -2872,7 +3006,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         42
     </td>
   </tr>
-  
+
   <tr>
     <td>233</td>
     <td>
@@ -2884,7 +3018,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         42
     </td>
   </tr>
-  
+
   <tr>
     <td>233</td>
     <td>
@@ -2896,7 +3030,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         42
     </td>
   </tr>
-  
+
   <tr>
     <td>233</td>
     <td>
@@ -2908,7 +3042,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         42
     </td>
   </tr>
-  
+
   <tr>
     <td>233</td>
     <td>
@@ -2920,7 +3054,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         42
     </td>
   </tr>
-  
+
   <tr>
     <td>243</td>
     <td>
@@ -2932,7 +3066,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         41
     </td>
   </tr>
-  
+
   <tr>
     <td>244</td>
     <td>
@@ -2944,7 +3078,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         41
     </td>
   </tr>
-  
+
   <tr>
     <td>244</td>
     <td>
@@ -2956,7 +3090,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         41
     </td>
   </tr>
-  
+
   <tr>
     <td>244</td>
     <td>
@@ -2968,7 +3102,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         41
     </td>
   </tr>
-  
+
   <tr>
     <td>244</td>
     <td>
@@ -2980,7 +3114,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         41
     </td>
   </tr>
-  
+
   <tr>
     <td>244</td>
     <td>
@@ -2992,7 +3126,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         41
     </td>
   </tr>
-  
+
   <tr>
     <td>244</td>
     <td>
@@ -3004,7 +3138,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         41
     </td>
   </tr>
-  
+
   <tr>
     <td>244</td>
     <td>
@@ -3016,7 +3150,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         41
     </td>
   </tr>
-  
+
   <tr>
     <td>244</td>
     <td>
@@ -3028,7 +3162,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         41
     </td>
   </tr>
-  
+
   <tr>
     <td>252</td>
     <td>
@@ -3040,7 +3174,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         40
     </td>
   </tr>
-  
+
   <tr>
     <td>252</td>
     <td>
@@ -3052,7 +3186,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         40
     </td>
   </tr>
-  
+
   <tr>
     <td>254</td>
     <td>
@@ -3064,7 +3198,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         39
     </td>
   </tr>
-  
+
   <tr>
     <td>255</td>
     <td>
@@ -3076,7 +3210,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         39
     </td>
   </tr>
-  
+
   <tr>
     <td>255</td>
     <td>
@@ -3088,7 +3222,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         39
     </td>
   </tr>
-  
+
   <tr>
     <td>255</td>
     <td>
@@ -3100,7 +3234,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         39
     </td>
   </tr>
-  
+
   <tr>
     <td>255</td>
     <td>
@@ -3112,7 +3246,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         39
     </td>
   </tr>
-  
+
   <tr>
     <td>255</td>
     <td>
@@ -3124,7 +3258,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         39
     </td>
   </tr>
-  
+
   <tr>
     <td>255</td>
     <td>
@@ -3136,7 +3270,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         39
     </td>
   </tr>
-  
+
   <tr>
     <td>255</td>
     <td>
@@ -3148,7 +3282,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         39
     </td>
   </tr>
-  
+
   <tr>
     <td>255</td>
     <td>
@@ -3160,7 +3294,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         39
     </td>
   </tr>
-  
+
   <tr>
     <td>263</td>
     <td>
@@ -3172,7 +3306,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         38
     </td>
   </tr>
-  
+
   <tr>
     <td>264</td>
     <td>
@@ -3184,7 +3318,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         38
     </td>
   </tr>
-  
+
   <tr>
     <td>264</td>
     <td>
@@ -3196,7 +3330,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         38
     </td>
   </tr>
-  
+
   <tr>
     <td>264</td>
     <td>
@@ -3208,7 +3342,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         38
     </td>
   </tr>
-  
+
   <tr>
     <td>264</td>
     <td>
@@ -3220,7 +3354,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         38
     </td>
   </tr>
-  
+
   <tr>
     <td>264</td>
     <td>
@@ -3232,7 +3366,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         38
     </td>
   </tr>
-  
+
   <tr>
     <td>264</td>
     <td>
@@ -3244,7 +3378,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         38
     </td>
   </tr>
-  
+
   <tr>
     <td>264</td>
     <td>
@@ -3256,7 +3390,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         38
     </td>
   </tr>
-  
+
   <tr>
     <td>264</td>
     <td>
@@ -3268,7 +3402,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         38
     </td>
   </tr>
-  
+
   <tr>
     <td>264</td>
     <td>
@@ -3280,7 +3414,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         38
     </td>
   </tr>
-  
+
   <tr>
     <td>264</td>
     <td>
@@ -3292,7 +3426,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         38
     </td>
   </tr>
-  
+
   <tr>
     <td>264</td>
     <td>
@@ -3304,7 +3438,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         38
     </td>
   </tr>
-  
+
   <tr>
     <td>264</td>
     <td>
@@ -3316,7 +3450,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         38
     </td>
   </tr>
-  
+
   <tr>
     <td>276</td>
     <td>
@@ -3328,7 +3462,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         37
     </td>
   </tr>
-  
+
   <tr>
     <td>276</td>
     <td>
@@ -3340,7 +3474,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         37
     </td>
   </tr>
-  
+
   <tr>
     <td>278</td>
     <td>
@@ -3352,7 +3486,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         37
     </td>
   </tr>
-  
+
   <tr>
     <td>278</td>
     <td>
@@ -3364,7 +3498,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         37
     </td>
   </tr>
-  
+
   <tr>
     <td>278</td>
     <td>
@@ -3376,7 +3510,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         37
     </td>
   </tr>
-  
+
   <tr>
     <td>278</td>
     <td>
@@ -3388,7 +3522,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         37
     </td>
   </tr>
-  
+
   <tr>
     <td>278</td>
     <td>
@@ -3400,7 +3534,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         37
     </td>
   </tr>
-  
+
   <tr>
     <td>278</td>
     <td>
@@ -3412,7 +3546,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         37
     </td>
   </tr>
-  
+
   <tr>
     <td>278</td>
     <td>
@@ -3424,7 +3558,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         37
     </td>
   </tr>
-  
+
   <tr>
     <td>278</td>
     <td>
@@ -3436,7 +3570,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         37
     </td>
   </tr>
-  
+
   <tr>
     <td>278</td>
     <td>
@@ -3448,7 +3582,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         37
     </td>
   </tr>
-  
+
   <tr>
     <td>278</td>
     <td>
@@ -3460,7 +3594,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         37
     </td>
   </tr>
-  
+
   <tr>
     <td>278</td>
     <td>
@@ -3472,7 +3606,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         37
     </td>
   </tr>
-  
+
   <tr>
     <td>278</td>
     <td>
@@ -3484,7 +3618,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         37
     </td>
   </tr>
-  
+
   <tr>
     <td>278</td>
     <td>
@@ -3496,7 +3630,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         37
     </td>
   </tr>
-  
+
   <tr>
     <td>278</td>
     <td>
@@ -3508,7 +3642,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         37
     </td>
   </tr>
-  
+
   <tr>
     <td>278</td>
     <td>
@@ -3520,7 +3654,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         37
     </td>
   </tr>
-  
+
   <tr>
     <td>293</td>
     <td>
@@ -3532,7 +3666,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         36
     </td>
   </tr>
-  
+
   <tr>
     <td>294</td>
     <td>
@@ -3544,7 +3678,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         36
     </td>
   </tr>
-  
+
   <tr>
     <td>294</td>
     <td>
@@ -3556,7 +3690,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         36
     </td>
   </tr>
-  
+
   <tr>
     <td>294</td>
     <td>
@@ -3568,7 +3702,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         36
     </td>
   </tr>
-  
+
   <tr>
     <td>294</td>
     <td>
@@ -3580,7 +3714,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         36
     </td>
   </tr>
-  
+
   <tr>
     <td>294</td>
     <td>
@@ -3592,7 +3726,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         36
     </td>
   </tr>
-  
+
   <tr>
     <td>294</td>
     <td>
@@ -3604,7 +3738,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         36
     </td>
   </tr>
-  
+
   <tr>
     <td>294</td>
     <td>
@@ -3616,7 +3750,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         36
     </td>
   </tr>
-  
+
   <tr>
     <td>294</td>
     <td>
@@ -3628,7 +3762,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         36
     </td>
   </tr>
-  
+
   <tr>
     <td>294</td>
     <td>
@@ -3640,7 +3774,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         36
     </td>
   </tr>
-  
+
   <tr>
     <td>303</td>
     <td>
@@ -3652,7 +3786,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         35
     </td>
   </tr>
-  
+
   <tr>
     <td>303</td>
     <td>
@@ -3664,7 +3798,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         35
     </td>
   </tr>
-  
+
   <tr>
     <td>303</td>
     <td>
@@ -3676,7 +3810,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         35
     </td>
   </tr>
-  
+
   <tr>
     <td>303</td>
     <td>
@@ -3688,7 +3822,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         35
     </td>
   </tr>
-  
+
   <tr>
     <td>303</td>
     <td>
@@ -3700,7 +3834,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         35
     </td>
   </tr>
-  
+
   <tr>
     <td>303</td>
     <td>
@@ -3712,7 +3846,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         35
     </td>
   </tr>
-  
+
   <tr>
     <td>303</td>
     <td>
@@ -3724,7 +3858,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         35
     </td>
   </tr>
-  
+
   <tr>
     <td>303</td>
     <td>
@@ -3736,7 +3870,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         35
     </td>
   </tr>
-  
+
   <tr>
     <td>303</td>
     <td>
@@ -3748,7 +3882,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         35
     </td>
   </tr>
-  
+
   <tr>
     <td>312</td>
     <td>
@@ -3760,7 +3894,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         34
     </td>
   </tr>
-  
+
   <tr>
     <td>312</td>
     <td>
@@ -3772,7 +3906,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         34
     </td>
   </tr>
-  
+
   <tr>
     <td>312</td>
     <td>
@@ -3784,7 +3918,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         34
     </td>
   </tr>
-  
+
   <tr>
     <td>312</td>
     <td>
@@ -3796,7 +3930,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         34
     </td>
   </tr>
-  
+
   <tr>
     <td>312</td>
     <td>
@@ -3808,7 +3942,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         34
     </td>
   </tr>
-  
+
   <tr>
     <td>312</td>
     <td>
@@ -3820,7 +3954,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         34
     </td>
   </tr>
-  
+
   <tr>
     <td>312</td>
     <td>
@@ -3832,7 +3966,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         34
     </td>
   </tr>
-  
+
   <tr>
     <td>312</td>
     <td>
@@ -3844,7 +3978,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         34
     </td>
   </tr>
-  
+
   <tr>
     <td>312</td>
     <td>
@@ -3856,7 +3990,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         34
     </td>
   </tr>
-  
+
   <tr>
     <td>312</td>
     <td>
@@ -3868,7 +4002,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         34
     </td>
   </tr>
-  
+
   <tr>
     <td>322</td>
     <td>
@@ -3880,7 +4014,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         33
     </td>
   </tr>
-  
+
   <tr>
     <td>323</td>
     <td>
@@ -3892,7 +4026,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         33
     </td>
   </tr>
-  
+
   <tr>
     <td>323</td>
     <td>
@@ -3904,7 +4038,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         33
     </td>
   </tr>
-  
+
   <tr>
     <td>323</td>
     <td>
@@ -3916,7 +4050,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         33
     </td>
   </tr>
-  
+
   <tr>
     <td>323</td>
     <td>
@@ -3928,7 +4062,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         33
     </td>
   </tr>
-  
+
   <tr>
     <td>323</td>
     <td>
@@ -3940,7 +4074,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         33
     </td>
   </tr>
-  
+
   <tr>
     <td>323</td>
     <td>
@@ -3952,7 +4086,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         33
     </td>
   </tr>
-  
+
   <tr>
     <td>323</td>
     <td>
@@ -3964,7 +4098,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         33
     </td>
   </tr>
-  
+
   <tr>
     <td>323</td>
     <td>
@@ -3976,7 +4110,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         33
     </td>
   </tr>
-  
+
   <tr>
     <td>323</td>
     <td>
@@ -3988,7 +4122,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         33
     </td>
   </tr>
-  
+
   <tr>
     <td>323</td>
     <td>
@@ -4000,7 +4134,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         33
     </td>
   </tr>
-  
+
   <tr>
     <td>323</td>
     <td>
@@ -4012,7 +4146,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         33
     </td>
   </tr>
-  
+
   <tr>
     <td>334</td>
     <td>
@@ -4024,7 +4158,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         32
     </td>
   </tr>
-  
+
   <tr>
     <td>335</td>
     <td>
@@ -4036,7 +4170,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         32
     </td>
   </tr>
-  
+
   <tr>
     <td>335</td>
     <td>
@@ -4048,7 +4182,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         32
     </td>
   </tr>
-  
+
   <tr>
     <td>335</td>
     <td>
@@ -4060,7 +4194,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         32
     </td>
   </tr>
-  
+
   <tr>
     <td>335</td>
     <td>
@@ -4072,7 +4206,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         32
     </td>
   </tr>
-  
+
   <tr>
     <td>335</td>
     <td>
@@ -4084,7 +4218,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         32
     </td>
   </tr>
-  
+
   <tr>
     <td>335</td>
     <td>
@@ -4096,7 +4230,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         32
     </td>
   </tr>
-  
+
   <tr>
     <td>335</td>
     <td>
@@ -4108,7 +4242,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         32
     </td>
   </tr>
-  
+
   <tr>
     <td>343</td>
     <td>
@@ -4120,7 +4254,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         31
     </td>
   </tr>
-  
+
   <tr>
     <td>343</td>
     <td>
@@ -4132,7 +4266,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         31
     </td>
   </tr>
-  
+
   <tr>
     <td>343</td>
     <td>
@@ -4144,7 +4278,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         31
     </td>
   </tr>
-  
+
   <tr>
     <td>343</td>
     <td>
@@ -4156,7 +4290,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         31
     </td>
   </tr>
-  
+
   <tr>
     <td>343</td>
     <td>
@@ -4168,7 +4302,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         31
     </td>
   </tr>
-  
+
   <tr>
     <td>343</td>
     <td>
@@ -4180,7 +4314,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         31
     </td>
   </tr>
-  
+
   <tr>
     <td>343</td>
     <td>
@@ -4192,7 +4326,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         31
     </td>
   </tr>
-  
+
   <tr>
     <td>343</td>
     <td>
@@ -4204,7 +4338,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         31
     </td>
   </tr>
-  
+
   <tr>
     <td>343</td>
     <td>
@@ -4216,7 +4350,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         31
     </td>
   </tr>
-  
+
   <tr>
     <td>352</td>
     <td>
@@ -4228,7 +4362,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         30
     </td>
   </tr>
-  
+
   <tr>
     <td>353</td>
     <td>
@@ -4240,7 +4374,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         30
     </td>
   </tr>
-  
+
   <tr>
     <td>353</td>
     <td>
@@ -4252,7 +4386,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         30
     </td>
   </tr>
-  
+
   <tr>
     <td>353</td>
     <td>
@@ -4264,7 +4398,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         30
     </td>
   </tr>
-  
+
   <tr>
     <td>353</td>
     <td>
@@ -4276,7 +4410,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         30
     </td>
   </tr>
-  
+
   <tr>
     <td>353</td>
     <td>
@@ -4288,7 +4422,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         30
     </td>
   </tr>
-  
+
   <tr>
     <td>353</td>
     <td>
@@ -4300,7 +4434,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         30
     </td>
   </tr>
-  
+
   <tr>
     <td>353</td>
     <td>
@@ -4312,7 +4446,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         30
     </td>
   </tr>
-  
+
   <tr>
     <td>353</td>
     <td>
@@ -4324,7 +4458,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         30
     </td>
   </tr>
-  
+
   <tr>
     <td>353</td>
     <td>
@@ -4336,7 +4470,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         30
     </td>
   </tr>
-  
+
   <tr>
     <td>362</td>
     <td>
@@ -4348,7 +4482,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         29
     </td>
   </tr>
-  
+
   <tr>
     <td>363</td>
     <td>
@@ -4360,7 +4494,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         29
     </td>
   </tr>
-  
+
   <tr>
     <td>364</td>
     <td>
@@ -4372,7 +4506,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         28
     </td>
   </tr>
-  
+
   <tr>
     <td>364</td>
     <td>
@@ -4384,7 +4518,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         28
     </td>
   </tr>
-  
+
   <tr>
     <td>364</td>
     <td>
@@ -4396,7 +4530,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         28
     </td>
   </tr>
-  
+
   <tr>
     <td>364</td>
     <td>
@@ -4408,7 +4542,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         28
     </td>
   </tr>
-  
+
   <tr>
     <td>364</td>
     <td>
@@ -4420,7 +4554,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         28
     </td>
   </tr>
-  
+
   <tr>
     <td>364</td>
     <td>
@@ -4432,7 +4566,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         28
     </td>
   </tr>
-  
+
   <tr>
     <td>364</td>
     <td>
@@ -4444,7 +4578,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         28
     </td>
   </tr>
-  
+
   <tr>
     <td>364</td>
     <td>
@@ -4456,7 +4590,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         28
     </td>
   </tr>
-  
+
   <tr>
     <td>364</td>
     <td>
@@ -4468,7 +4602,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         28
     </td>
   </tr>
-  
+
   <tr>
     <td>364</td>
     <td>
@@ -4480,7 +4614,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         28
     </td>
   </tr>
-  
+
   <tr>
     <td>374</td>
     <td>
@@ -4492,7 +4626,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         28
     </td>
   </tr>
-  
+
   <tr>
     <td>374</td>
     <td>
@@ -4504,7 +4638,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         28
     </td>
   </tr>
-  
+
   <tr>
     <td>374</td>
     <td>
@@ -4516,7 +4650,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         28
     </td>
   </tr>
-  
+
   <tr>
     <td>377</td>
     <td>
@@ -4528,7 +4662,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         28
     </td>
   </tr>
-  
+
   <tr>
     <td>377</td>
     <td>
@@ -4540,7 +4674,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         28
     </td>
   </tr>
-  
+
   <tr>
     <td>377</td>
     <td>
@@ -4552,7 +4686,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         28
     </td>
   </tr>
-  
+
   <tr>
     <td>377</td>
     <td>
@@ -4564,7 +4698,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         28
     </td>
   </tr>
-  
+
   <tr>
     <td>377</td>
     <td>
@@ -4576,7 +4710,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         28
     </td>
   </tr>
-  
+
   <tr>
     <td>377</td>
     <td>
@@ -4588,7 +4722,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         28
     </td>
   </tr>
-  
+
   <tr>
     <td>377</td>
     <td>
@@ -4600,7 +4734,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         28
     </td>
   </tr>
-  
+
   <tr>
     <td>377</td>
     <td>
@@ -4612,7 +4746,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         28
     </td>
   </tr>
-  
+
   <tr>
     <td>377</td>
     <td>
@@ -4624,7 +4758,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         28
     </td>
   </tr>
-  
+
   <tr>
     <td>377</td>
     <td>
@@ -4636,7 +4770,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         28
     </td>
   </tr>
-  
+
   <tr>
     <td>377</td>
     <td>
@@ -4648,7 +4782,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         28
     </td>
   </tr>
-  
+
   <tr>
     <td>377</td>
     <td>
@@ -4660,7 +4794,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         28
     </td>
   </tr>
-  
+
   <tr>
     <td>389</td>
     <td>
@@ -4672,7 +4806,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         27
     </td>
   </tr>
-  
+
   <tr>
     <td>389</td>
     <td>
@@ -4684,7 +4818,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         27
     </td>
   </tr>
-  
+
   <tr>
     <td>389</td>
     <td>
@@ -4696,7 +4830,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         27
     </td>
   </tr>
-  
+
   <tr>
     <td>389</td>
     <td>
@@ -4708,7 +4842,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         27
     </td>
   </tr>
-  
+
   <tr>
     <td>389</td>
     <td>
@@ -4720,7 +4854,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         27
     </td>
   </tr>
-  
+
   <tr>
     <td>389</td>
     <td>
@@ -4732,7 +4866,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         27
     </td>
   </tr>
-  
+
   <tr>
     <td>395</td>
     <td>
@@ -4744,7 +4878,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         27
     </td>
   </tr>
-  
+
   <tr>
     <td>395</td>
     <td>
@@ -4756,7 +4890,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         27
     </td>
   </tr>
-  
+
   <tr>
     <td>395</td>
     <td>
@@ -4768,7 +4902,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         27
     </td>
   </tr>
-  
+
   <tr>
     <td>395</td>
     <td>
@@ -4780,7 +4914,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         27
     </td>
   </tr>
-  
+
   <tr>
     <td>395</td>
     <td>
@@ -4792,7 +4926,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         27
     </td>
   </tr>
-  
+
   <tr>
     <td>395</td>
     <td>
@@ -4804,7 +4938,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         27
     </td>
   </tr>
-  
+
   <tr>
     <td>395</td>
     <td>
@@ -4816,7 +4950,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         27
     </td>
   </tr>
-  
+
   <tr>
     <td>395</td>
     <td>
@@ -4828,7 +4962,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         27
     </td>
   </tr>
-  
+
   <tr>
     <td>395</td>
     <td>
@@ -4840,7 +4974,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         27
     </td>
   </tr>
-  
+
   <tr>
     <td>395</td>
     <td>
@@ -4852,7 +4986,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         27
     </td>
   </tr>
-  
+
   <tr>
     <td>395</td>
     <td>
@@ -4864,7 +4998,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         27
     </td>
   </tr>
-  
+
   <tr>
     <td>395</td>
     <td>
@@ -4876,7 +5010,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         27
     </td>
   </tr>
-  
+
   <tr>
     <td>395</td>
     <td>
@@ -4888,7 +5022,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         27
     </td>
   </tr>
-  
+
   <tr>
     <td>395</td>
     <td>
@@ -4900,7 +5034,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         27
     </td>
   </tr>
-  
+
   <tr>
     <td>395</td>
     <td>
@@ -4912,7 +5046,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         27
     </td>
   </tr>
-  
+
   <tr>
     <td>395</td>
     <td>
@@ -4924,7 +5058,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         27
     </td>
   </tr>
-  
+
   <tr>
     <td>395</td>
     <td>
@@ -4936,7 +5070,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         27
     </td>
   </tr>
-  
+
   <tr>
     <td>395</td>
     <td>
@@ -4948,7 +5082,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         27
     </td>
   </tr>
-  
+
   <tr>
     <td>395</td>
     <td>
@@ -4960,7 +5094,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         27
     </td>
   </tr>
-  
+
   <tr>
     <td>414</td>
     <td>
@@ -4972,7 +5106,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         26
     </td>
   </tr>
-  
+
   <tr>
     <td>414</td>
     <td>
@@ -4984,7 +5118,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         26
     </td>
   </tr>
-  
+
   <tr>
     <td>414</td>
     <td>
@@ -4996,7 +5130,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         26
     </td>
   </tr>
-  
+
   <tr>
     <td>417</td>
     <td>
@@ -5008,7 +5142,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         26
     </td>
   </tr>
-  
+
   <tr>
     <td>417</td>
     <td>
@@ -5020,7 +5154,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         26
     </td>
   </tr>
-  
+
   <tr>
     <td>417</td>
     <td>
@@ -5032,7 +5166,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         26
     </td>
   </tr>
-  
+
   <tr>
     <td>417</td>
     <td>
@@ -5044,7 +5178,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         26
     </td>
   </tr>
-  
+
   <tr>
     <td>417</td>
     <td>
@@ -5056,7 +5190,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         26
     </td>
   </tr>
-  
+
   <tr>
     <td>417</td>
     <td>
@@ -5068,7 +5202,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         26
     </td>
   </tr>
-  
+
   <tr>
     <td>417</td>
     <td>
@@ -5080,7 +5214,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         26
     </td>
   </tr>
-  
+
   <tr>
     <td>417</td>
     <td>
@@ -5092,7 +5226,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         26
     </td>
   </tr>
-  
+
   <tr>
     <td>417</td>
     <td>
@@ -5104,7 +5238,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         26
     </td>
   </tr>
-  
+
   <tr>
     <td>417</td>
     <td>
@@ -5116,7 +5250,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         26
     </td>
   </tr>
-  
+
   <tr>
     <td>417</td>
     <td>
@@ -5128,7 +5262,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         26
     </td>
   </tr>
-  
+
   <tr>
     <td>417</td>
     <td>
@@ -5140,7 +5274,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         26
     </td>
   </tr>
-  
+
   <tr>
     <td>417</td>
     <td>
@@ -5152,7 +5286,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         26
     </td>
   </tr>
-  
+
   <tr>
     <td>417</td>
     <td>
@@ -5164,7 +5298,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         26
     </td>
   </tr>
-  
+
   <tr>
     <td>417</td>
     <td>
@@ -5176,7 +5310,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         26
     </td>
   </tr>
-  
+
   <tr>
     <td>417</td>
     <td>
@@ -5188,7 +5322,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         26
     </td>
   </tr>
-  
+
   <tr>
     <td>417</td>
     <td>
@@ -5200,7 +5334,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         26
     </td>
   </tr>
-  
+
   <tr>
     <td>417</td>
     <td>
@@ -5212,7 +5346,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         26
     </td>
   </tr>
-  
+
   <tr>
     <td>417</td>
     <td>
@@ -5224,7 +5358,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         26
     </td>
   </tr>
-  
+
   <tr>
     <td>417</td>
     <td>
@@ -5236,7 +5370,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         26
     </td>
   </tr>
-  
+
   <tr>
     <td>417</td>
     <td>
@@ -5248,7 +5382,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         26
     </td>
   </tr>
-  
+
   <tr>
     <td>438</td>
     <td>
@@ -5260,7 +5394,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         25
     </td>
   </tr>
-  
+
   <tr>
     <td>438</td>
     <td>
@@ -5272,7 +5406,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         25
     </td>
   </tr>
-  
+
   <tr>
     <td>440</td>
     <td>
@@ -5284,7 +5418,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         25
     </td>
   </tr>
-  
+
   <tr>
     <td>440</td>
     <td>
@@ -5296,7 +5430,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         25
     </td>
   </tr>
-  
+
   <tr>
     <td>440</td>
     <td>
@@ -5308,7 +5442,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         25
     </td>
   </tr>
-  
+
   <tr>
     <td>440</td>
     <td>
@@ -5320,7 +5454,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         25
     </td>
   </tr>
-  
+
   <tr>
     <td>440</td>
     <td>
@@ -5332,7 +5466,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         25
     </td>
   </tr>
-  
+
   <tr>
     <td>440</td>
     <td>
@@ -5344,7 +5478,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         25
     </td>
   </tr>
-  
+
   <tr>
     <td>440</td>
     <td>
@@ -5356,7 +5490,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         25
     </td>
   </tr>
-  
+
   <tr>
     <td>440</td>
     <td>
@@ -5368,7 +5502,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         25
     </td>
   </tr>
-  
+
   <tr>
     <td>440</td>
     <td>
@@ -5380,7 +5514,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         25
     </td>
   </tr>
-  
+
   <tr>
     <td>440</td>
     <td>
@@ -5392,7 +5526,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         25
     </td>
   </tr>
-  
+
   <tr>
     <td>440</td>
     <td>
@@ -5404,7 +5538,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         25
     </td>
   </tr>
-  
+
   <tr>
     <td>440</td>
     <td>
@@ -5416,7 +5550,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         25
     </td>
   </tr>
-  
+
   <tr>
     <td>440</td>
     <td>
@@ -5428,7 +5562,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         25
     </td>
   </tr>
-  
+
   <tr>
     <td>440</td>
     <td>
@@ -5440,7 +5574,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         25
     </td>
   </tr>
-  
+
   <tr>
     <td>440</td>
     <td>
@@ -5452,7 +5586,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         25
     </td>
   </tr>
-  
+
   <tr>
     <td>440</td>
     <td>
@@ -5464,7 +5598,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         25
     </td>
   </tr>
-  
+
   <tr>
     <td>440</td>
     <td>
@@ -5476,7 +5610,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         25
     </td>
   </tr>
-  
+
   <tr>
     <td>440</td>
     <td>
@@ -5488,7 +5622,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         25
     </td>
   </tr>
-  
+
   <tr>
     <td>458</td>
     <td>
@@ -5500,7 +5634,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         24
     </td>
   </tr>
-  
+
   <tr>
     <td>458</td>
     <td>
@@ -5512,7 +5646,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         24
     </td>
   </tr>
-  
+
   <tr>
     <td>458</td>
     <td>
@@ -5524,7 +5658,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         24
     </td>
   </tr>
-  
+
   <tr>
     <td>458</td>
     <td>
@@ -5536,7 +5670,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         24
     </td>
   </tr>
-  
+
   <tr>
     <td>462</td>
     <td>
@@ -5548,7 +5682,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         24
     </td>
   </tr>
-  
+
   <tr>
     <td>462</td>
     <td>
@@ -5560,7 +5694,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         24
     </td>
   </tr>
-  
+
   <tr>
     <td>462</td>
     <td>
@@ -5572,7 +5706,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         24
     </td>
   </tr>
-  
+
   <tr>
     <td>462</td>
     <td>
@@ -5584,7 +5718,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         24
     </td>
   </tr>
-  
+
   <tr>
     <td>462</td>
     <td>
@@ -5596,7 +5730,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         24
     </td>
   </tr>
-  
+
   <tr>
     <td>462</td>
     <td>
@@ -5608,7 +5742,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         24
     </td>
   </tr>
-  
+
   <tr>
     <td>462</td>
     <td>
@@ -5620,7 +5754,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         24
     </td>
   </tr>
-  
+
   <tr>
     <td>462</td>
     <td>
@@ -5632,7 +5766,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         24
     </td>
   </tr>
-  
+
   <tr>
     <td>462</td>
     <td>
@@ -5644,7 +5778,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         24
     </td>
   </tr>
-  
+
   <tr>
     <td>462</td>
     <td>
@@ -5656,7 +5790,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         24
     </td>
   </tr>
-  
+
   <tr>
     <td>462</td>
     <td>
@@ -5668,7 +5802,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         24
     </td>
   </tr>
-  
+
   <tr>
     <td>462</td>
     <td>
@@ -5680,7 +5814,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         24
     </td>
   </tr>
-  
+
   <tr>
     <td>462</td>
     <td>
@@ -5692,7 +5826,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         24
     </td>
   </tr>
-  
+
   <tr>
     <td>462</td>
     <td>
@@ -5704,7 +5838,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         24
     </td>
   </tr>
-  
+
   <tr>
     <td>462</td>
     <td>
@@ -5716,7 +5850,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         24
     </td>
   </tr>
-  
+
   <tr>
     <td>462</td>
     <td>
@@ -5728,7 +5862,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         24
     </td>
   </tr>
-  
+
   <tr>
     <td>462</td>
     <td>
@@ -5740,7 +5874,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         24
     </td>
   </tr>
-  
+
   <tr>
     <td>462</td>
     <td>
@@ -5752,7 +5886,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         24
     </td>
   </tr>
-  
+
   <tr>
     <td>462</td>
     <td>
@@ -5764,7 +5898,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         24
     </td>
   </tr>
-  
+
   <tr>
     <td>462</td>
     <td>
@@ -5776,7 +5910,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         24
     </td>
   </tr>
-  
+
   <tr>
     <td>462</td>
     <td>
@@ -5788,7 +5922,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         24
     </td>
   </tr>
-  
+
   <tr>
     <td>483</td>
     <td>
@@ -5800,7 +5934,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         23
     </td>
   </tr>
-  
+
   <tr>
     <td>483</td>
     <td>
@@ -5812,7 +5946,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         23
     </td>
   </tr>
-  
+
   <tr>
     <td>483</td>
     <td>
@@ -5824,7 +5958,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         23
     </td>
   </tr>
-  
+
   <tr>
     <td>486</td>
     <td>
@@ -5836,7 +5970,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         23
     </td>
   </tr>
-  
+
   <tr>
     <td>486</td>
     <td>
@@ -5848,7 +5982,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         23
     </td>
   </tr>
-  
+
   <tr>
     <td>486</td>
     <td>
@@ -5860,7 +5994,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         23
     </td>
   </tr>
-  
+
   <tr>
     <td>486</td>
     <td>
@@ -5872,7 +6006,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         23
     </td>
   </tr>
-  
+
   <tr>
     <td>486</td>
     <td>
@@ -5884,7 +6018,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         23
     </td>
   </tr>
-  
+
   <tr>
     <td>486</td>
     <td>
@@ -5896,7 +6030,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         23
     </td>
   </tr>
-  
+
   <tr>
     <td>486</td>
     <td>
@@ -5908,7 +6042,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         23
     </td>
   </tr>
-  
+
   <tr>
     <td>486</td>
     <td>
@@ -5920,7 +6054,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         23
     </td>
   </tr>
-  
+
   <tr>
     <td>486</td>
     <td>
@@ -5932,7 +6066,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         23
     </td>
   </tr>
-  
+
   <tr>
     <td>486</td>
     <td>
@@ -5944,7 +6078,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         23
     </td>
   </tr>
-  
+
   <tr>
     <td>486</td>
     <td>
@@ -5956,7 +6090,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         23
     </td>
   </tr>
-  
+
   <tr>
     <td>486</td>
     <td>
@@ -5968,7 +6102,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         23
     </td>
   </tr>
-  
+
   <tr>
     <td>486</td>
     <td>
@@ -5980,7 +6114,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         23
     </td>
   </tr>
-  
+
   <tr>
     <td>486</td>
     <td>
@@ -5992,7 +6126,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         23
     </td>
   </tr>
-  
+
   <tr>
     <td>486</td>
     <td>
@@ -6004,7 +6138,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         23
     </td>
   </tr>
-  
+
   <tr>
     <td>486</td>
     <td>
@@ -6016,7 +6150,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         23
     </td>
   </tr>
-  
+
   <tr>
     <td>502</td>
     <td>
@@ -6028,7 +6162,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         22
     </td>
   </tr>
-  
+
   <tr>
     <td>502</td>
     <td>
@@ -6040,7 +6174,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         22
     </td>
   </tr>
-  
+
   <tr>
     <td>502</td>
     <td>
@@ -6052,7 +6186,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         22
     </td>
   </tr>
-  
+
   <tr>
     <td>502</td>
     <td>
@@ -6064,7 +6198,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         22
     </td>
   </tr>
-  
+
   <tr>
     <td>506</td>
     <td>
@@ -6076,7 +6210,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         22
     </td>
   </tr>
-  
+
   <tr>
     <td>506</td>
     <td>
@@ -6088,7 +6222,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         22
     </td>
   </tr>
-  
+
   <tr>
     <td>506</td>
     <td>
@@ -6100,7 +6234,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         22
     </td>
   </tr>
-  
+
   <tr>
     <td>506</td>
     <td>
@@ -6112,7 +6246,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         22
     </td>
   </tr>
-  
+
   <tr>
     <td>506</td>
     <td>
@@ -6124,7 +6258,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         22
     </td>
   </tr>
-  
+
   <tr>
     <td>506</td>
     <td>
@@ -6136,7 +6270,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         22
     </td>
   </tr>
-  
+
   <tr>
     <td>506</td>
     <td>
@@ -6148,7 +6282,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         22
     </td>
   </tr>
-  
+
   <tr>
     <td>506</td>
     <td>
@@ -6160,7 +6294,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         22
     </td>
   </tr>
-  
+
   <tr>
     <td>506</td>
     <td>
@@ -6172,7 +6306,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         22
     </td>
   </tr>
-  
+
   <tr>
     <td>506</td>
     <td>
@@ -6184,7 +6318,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         22
     </td>
   </tr>
-  
+
   <tr>
     <td>506</td>
     <td>
@@ -6196,7 +6330,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         22
     </td>
   </tr>
-  
+
   <tr>
     <td>506</td>
     <td>
@@ -6208,7 +6342,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         22
     </td>
   </tr>
-  
+
   <tr>
     <td>506</td>
     <td>
@@ -6220,7 +6354,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         22
     </td>
   </tr>
-  
+
   <tr>
     <td>506</td>
     <td>
@@ -6232,7 +6366,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         22
     </td>
   </tr>
-  
+
   <tr>
     <td>506</td>
     <td>
@@ -6244,7 +6378,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         22
     </td>
   </tr>
-  
+
   <tr>
     <td>506</td>
     <td>
@@ -6256,7 +6390,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         22
     </td>
   </tr>
-  
+
   <tr>
     <td>506</td>
     <td>
@@ -6268,7 +6402,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         22
     </td>
   </tr>
-  
+
   <tr>
     <td>506</td>
     <td>
@@ -6280,7 +6414,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         22
     </td>
   </tr>
-  
+
   <tr>
     <td>506</td>
     <td>
@@ -6292,7 +6426,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         22
     </td>
   </tr>
-  
+
   <tr>
     <td>506</td>
     <td>
@@ -6304,7 +6438,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         22
     </td>
   </tr>
-  
+
   <tr>
     <td>506</td>
     <td>
@@ -6316,7 +6450,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         22
     </td>
   </tr>
-  
+
   <tr>
     <td>506</td>
     <td>
@@ -6328,7 +6462,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         22
     </td>
   </tr>
-  
+
   <tr>
     <td>506</td>
     <td>
@@ -6340,7 +6474,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         22
     </td>
   </tr>
-  
+
   <tr>
     <td>506</td>
     <td>
@@ -6352,7 +6486,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         22
     </td>
   </tr>
-  
+
   <tr>
     <td>506</td>
     <td>
@@ -6364,7 +6498,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         22
     </td>
   </tr>
-  
+
   <tr>
     <td>531</td>
     <td>
@@ -6376,7 +6510,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         21
     </td>
   </tr>
-  
+
   <tr>
     <td>531</td>
     <td>
@@ -6388,7 +6522,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         21
     </td>
   </tr>
-  
+
   <tr>
     <td>531</td>
     <td>
@@ -6400,7 +6534,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         21
     </td>
   </tr>
-  
+
   <tr>
     <td>531</td>
     <td>
@@ -6412,7 +6546,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         21
     </td>
   </tr>
-  
+
   <tr>
     <td>535</td>
     <td>
@@ -6424,7 +6558,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         21
     </td>
   </tr>
-  
+
   <tr>
     <td>535</td>
     <td>
@@ -6436,7 +6570,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         21
     </td>
   </tr>
-  
+
   <tr>
     <td>535</td>
     <td>
@@ -6448,7 +6582,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         21
     </td>
   </tr>
-  
+
   <tr>
     <td>535</td>
     <td>
@@ -6460,7 +6594,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         21
     </td>
   </tr>
-  
+
   <tr>
     <td>535</td>
     <td>
@@ -6472,7 +6606,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         21
     </td>
   </tr>
-  
+
   <tr>
     <td>535</td>
     <td>
@@ -6484,7 +6618,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         21
     </td>
   </tr>
-  
+
   <tr>
     <td>535</td>
     <td>
@@ -6496,7 +6630,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         21
     </td>
   </tr>
-  
+
   <tr>
     <td>535</td>
     <td>
@@ -6508,7 +6642,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         21
     </td>
   </tr>
-  
+
   <tr>
     <td>535</td>
     <td>
@@ -6520,7 +6654,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         21
     </td>
   </tr>
-  
+
   <tr>
     <td>535</td>
     <td>
@@ -6532,7 +6666,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         21
     </td>
   </tr>
-  
+
   <tr>
     <td>535</td>
     <td>
@@ -6544,7 +6678,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         21
     </td>
   </tr>
-  
+
   <tr>
     <td>535</td>
     <td>
@@ -6556,7 +6690,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         21
     </td>
   </tr>
-  
+
   <tr>
     <td>535</td>
     <td>
@@ -6568,7 +6702,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         21
     </td>
   </tr>
-  
+
   <tr>
     <td>535</td>
     <td>
@@ -6580,7 +6714,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         21
     </td>
   </tr>
-  
+
   <tr>
     <td>535</td>
     <td>
@@ -6592,7 +6726,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         21
     </td>
   </tr>
-  
+
   <tr>
     <td>535</td>
     <td>
@@ -6604,7 +6738,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         21
     </td>
   </tr>
-  
+
   <tr>
     <td>535</td>
     <td>
@@ -6616,7 +6750,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         21
     </td>
   </tr>
-  
+
   <tr>
     <td>535</td>
     <td>
@@ -6628,7 +6762,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         21
     </td>
   </tr>
-  
+
   <tr>
     <td>535</td>
     <td>
@@ -6640,7 +6774,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         21
     </td>
   </tr>
-  
+
   <tr>
     <td>535</td>
     <td>
@@ -6652,7 +6786,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         21
     </td>
   </tr>
-  
+
   <tr>
     <td>555</td>
     <td>
@@ -6664,7 +6798,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         20
     </td>
   </tr>
-  
+
   <tr>
     <td>555</td>
     <td>
@@ -6676,7 +6810,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         20
     </td>
   </tr>
-  
+
   <tr>
     <td>555</td>
     <td>
@@ -6688,7 +6822,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         20
     </td>
   </tr>
-  
+
   <tr>
     <td>555</td>
     <td>
@@ -6700,7 +6834,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         20
     </td>
   </tr>
-  
+
   <tr>
     <td>559</td>
     <td>
@@ -6712,7 +6846,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         20
     </td>
   </tr>
-  
+
   <tr>
     <td>559</td>
     <td>
@@ -6724,7 +6858,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         20
     </td>
   </tr>
-  
+
   <tr>
     <td>559</td>
     <td>
@@ -6736,7 +6870,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         20
     </td>
   </tr>
-  
+
   <tr>
     <td>559</td>
     <td>
@@ -6748,7 +6882,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         20
     </td>
   </tr>
-  
+
   <tr>
     <td>559</td>
     <td>
@@ -6760,7 +6894,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         20
     </td>
   </tr>
-  
+
   <tr>
     <td>559</td>
     <td>
@@ -6772,7 +6906,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         20
     </td>
   </tr>
-  
+
   <tr>
     <td>559</td>
     <td>
@@ -6784,7 +6918,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         20
     </td>
   </tr>
-  
+
   <tr>
     <td>559</td>
     <td>
@@ -6796,7 +6930,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         20
     </td>
   </tr>
-  
+
   <tr>
     <td>559</td>
     <td>
@@ -6808,7 +6942,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         20
     </td>
   </tr>
-  
+
   <tr>
     <td>559</td>
     <td>
@@ -6820,7 +6954,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         20
     </td>
   </tr>
-  
+
   <tr>
     <td>559</td>
     <td>
@@ -6832,7 +6966,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         20
     </td>
   </tr>
-  
+
   <tr>
     <td>570</td>
     <td>
@@ -6844,7 +6978,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         19
     </td>
   </tr>
-  
+
   <tr>
     <td>571</td>
     <td>
@@ -6856,7 +6990,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         19
     </td>
   </tr>
-  
+
   <tr>
     <td>571</td>
     <td>
@@ -6868,7 +7002,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         19
     </td>
   </tr>
-  
+
   <tr>
     <td>571</td>
     <td>
@@ -6880,7 +7014,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         19
     </td>
   </tr>
-  
+
   <tr>
     <td>571</td>
     <td>
@@ -6892,7 +7026,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         19
     </td>
   </tr>
-  
+
   <tr>
     <td>571</td>
     <td>
@@ -6904,7 +7038,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         19
     </td>
   </tr>
-  
+
   <tr>
     <td>571</td>
     <td>
@@ -6916,7 +7050,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         19
     </td>
   </tr>
-  
+
   <tr>
     <td>571</td>
     <td>
@@ -6928,7 +7062,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         19
     </td>
   </tr>
-  
+
   <tr>
     <td>571</td>
     <td>
@@ -6940,7 +7074,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         19
     </td>
   </tr>
-  
+
   <tr>
     <td>571</td>
     <td>
@@ -6952,7 +7086,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         19
     </td>
   </tr>
-  
+
   <tr>
     <td>571</td>
     <td>
@@ -6964,7 +7098,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         19
     </td>
   </tr>
-  
+
   <tr>
     <td>571</td>
     <td>
@@ -6976,7 +7110,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         19
     </td>
   </tr>
-  
+
   <tr>
     <td>571</td>
     <td>
@@ -6988,7 +7122,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         19
     </td>
   </tr>
-  
+
   <tr>
     <td>571</td>
     <td>
@@ -7000,7 +7134,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         19
     </td>
   </tr>
-  
+
   <tr>
     <td>571</td>
     <td>
@@ -7012,7 +7146,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         19
     </td>
   </tr>
-  
+
   <tr>
     <td>571</td>
     <td>
@@ -7024,7 +7158,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         19
     </td>
   </tr>
-  
+
   <tr>
     <td>571</td>
     <td>
@@ -7036,7 +7170,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         19
     </td>
   </tr>
-  
+
   <tr>
     <td>571</td>
     <td>
@@ -7048,7 +7182,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         19
     </td>
   </tr>
-  
+
   <tr>
     <td>571</td>
     <td>
@@ -7060,7 +7194,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         19
     </td>
   </tr>
-  
+
   <tr>
     <td>571</td>
     <td>
@@ -7072,7 +7206,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         19
     </td>
   </tr>
-  
+
   <tr>
     <td>590</td>
     <td>
@@ -7084,7 +7218,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         18
     </td>
   </tr>
-  
+
   <tr>
     <td>591</td>
     <td>
@@ -7096,7 +7230,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         18
     </td>
   </tr>
-  
+
   <tr>
     <td>591</td>
     <td>
@@ -7108,7 +7242,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         18
     </td>
   </tr>
-  
+
   <tr>
     <td>591</td>
     <td>
@@ -7120,7 +7254,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         18
     </td>
   </tr>
-  
+
   <tr>
     <td>591</td>
     <td>
@@ -7132,7 +7266,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         18
     </td>
   </tr>
-  
+
   <tr>
     <td>591</td>
     <td>
@@ -7144,7 +7278,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         18
     </td>
   </tr>
-  
+
   <tr>
     <td>591</td>
     <td>
@@ -7156,7 +7290,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         18
     </td>
   </tr>
-  
+
   <tr>
     <td>591</td>
     <td>
@@ -7168,7 +7302,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         18
     </td>
   </tr>
-  
+
   <tr>
     <td>591</td>
     <td>
@@ -7180,7 +7314,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         18
     </td>
   </tr>
-  
+
   <tr>
     <td>591</td>
     <td>
@@ -7192,7 +7326,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         18
     </td>
   </tr>
-  
+
   <tr>
     <td>591</td>
     <td>
@@ -7204,7 +7338,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         18
     </td>
   </tr>
-  
+
   <tr>
     <td>591</td>
     <td>
@@ -7216,7 +7350,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         18
     </td>
   </tr>
-  
+
   <tr>
     <td>591</td>
     <td>
@@ -7228,7 +7362,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         18
     </td>
   </tr>
-  
+
   <tr>
     <td>591</td>
     <td>
@@ -7240,7 +7374,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         18
     </td>
   </tr>
-  
+
   <tr>
     <td>591</td>
     <td>
@@ -7252,7 +7386,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         18
     </td>
   </tr>
-  
+
   <tr>
     <td>591</td>
     <td>
@@ -7264,7 +7398,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         18
     </td>
   </tr>
-  
+
   <tr>
     <td>591</td>
     <td>
@@ -7276,7 +7410,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         18
     </td>
   </tr>
-  
+
   <tr>
     <td>591</td>
     <td>
@@ -7288,7 +7422,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         18
     </td>
   </tr>
-  
+
   <tr>
     <td>591</td>
     <td>
@@ -7300,7 +7434,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         18
     </td>
   </tr>
-  
+
   <tr>
     <td>609</td>
     <td>
@@ -7312,7 +7446,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         17
     </td>
   </tr>
-  
+
   <tr>
     <td>609</td>
     <td>
@@ -7324,7 +7458,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         17
     </td>
   </tr>
-  
+
   <tr>
     <td>609</td>
     <td>
@@ -7336,7 +7470,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         17
     </td>
   </tr>
-  
+
   <tr>
     <td>609</td>
     <td>
@@ -7348,7 +7482,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         17
     </td>
   </tr>
-  
+
   <tr>
     <td>609</td>
     <td>
@@ -7360,7 +7494,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         17
     </td>
   </tr>
-  
+
   <tr>
     <td>609</td>
     <td>
@@ -7372,7 +7506,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         17
     </td>
   </tr>
-  
+
   <tr>
     <td>609</td>
     <td>
@@ -7384,7 +7518,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         17
     </td>
   </tr>
-  
+
   <tr>
     <td>609</td>
     <td>
@@ -7396,7 +7530,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         17
     </td>
   </tr>
-  
+
   <tr>
     <td>609</td>
     <td>
@@ -7408,7 +7542,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         17
     </td>
   </tr>
-  
+
   <tr>
     <td>609</td>
     <td>
@@ -7420,7 +7554,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         17
     </td>
   </tr>
-  
+
   <tr>
     <td>609</td>
     <td>
@@ -7432,7 +7566,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         17
     </td>
   </tr>
-  
+
   <tr>
     <td>609</td>
     <td>
@@ -7444,7 +7578,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         17
     </td>
   </tr>
-  
+
   <tr>
     <td>609</td>
     <td>
@@ -7456,7 +7590,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         17
     </td>
   </tr>
-  
+
   <tr>
     <td>609</td>
     <td>
@@ -7468,7 +7602,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         17
     </td>
   </tr>
-  
+
   <tr>
     <td>609</td>
     <td>
@@ -7480,7 +7614,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         17
     </td>
   </tr>
-  
+
   <tr>
     <td>609</td>
     <td>
@@ -7492,7 +7626,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         17
     </td>
   </tr>
-  
+
   <tr>
     <td>609</td>
     <td>
@@ -7504,7 +7638,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         17
     </td>
   </tr>
-  
+
   <tr>
     <td>609</td>
     <td>
@@ -7516,7 +7650,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         17
     </td>
   </tr>
-  
+
   <tr>
     <td>609</td>
     <td>
@@ -7528,7 +7662,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         17
     </td>
   </tr>
-  
+
   <tr>
     <td>609</td>
     <td>
@@ -7540,7 +7674,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         17
     </td>
   </tr>
-  
+
   <tr>
     <td>609</td>
     <td>
@@ -7552,7 +7686,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         17
     </td>
   </tr>
-  
+
   <tr>
     <td>609</td>
     <td>
@@ -7564,7 +7698,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         17
     </td>
   </tr>
-  
+
   <tr>
     <td>609</td>
     <td>
@@ -7576,7 +7710,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         17
     </td>
   </tr>
-  
+
   <tr>
     <td>609</td>
     <td>
@@ -7588,7 +7722,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         17
     </td>
   </tr>
-  
+
   <tr>
     <td>633</td>
     <td>
@@ -7600,7 +7734,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         16
     </td>
   </tr>
-  
+
   <tr>
     <td>634</td>
     <td>
@@ -7612,7 +7746,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         16
     </td>
   </tr>
-  
+
   <tr>
     <td>634</td>
     <td>
@@ -7624,7 +7758,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         16
     </td>
   </tr>
-  
+
   <tr>
     <td>634</td>
     <td>
@@ -7636,7 +7770,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         16
     </td>
   </tr>
-  
+
   <tr>
     <td>634</td>
     <td>
@@ -7648,7 +7782,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         16
     </td>
   </tr>
-  
+
   <tr>
     <td>634</td>
     <td>
@@ -7660,7 +7794,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         16
     </td>
   </tr>
-  
+
   <tr>
     <td>634</td>
     <td>
@@ -7672,7 +7806,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         16
     </td>
   </tr>
-  
+
   <tr>
     <td>634</td>
     <td>
@@ -7684,7 +7818,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         16
     </td>
   </tr>
-  
+
   <tr>
     <td>634</td>
     <td>
@@ -7696,7 +7830,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         16
     </td>
   </tr>
-  
+
   <tr>
     <td>634</td>
     <td>
@@ -7708,7 +7842,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         16
     </td>
   </tr>
-  
+
   <tr>
     <td>634</td>
     <td>
@@ -7720,7 +7854,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         16
     </td>
   </tr>
-  
+
   <tr>
     <td>634</td>
     <td>
@@ -7732,7 +7866,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         16
     </td>
   </tr>
-  
+
   <tr>
     <td>634</td>
     <td>
@@ -7744,7 +7878,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         16
     </td>
   </tr>
-  
+
   <tr>
     <td>634</td>
     <td>
@@ -7756,7 +7890,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         16
     </td>
   </tr>
-  
+
   <tr>
     <td>634</td>
     <td>
@@ -7768,7 +7902,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         16
     </td>
   </tr>
-  
+
   <tr>
     <td>634</td>
     <td>
@@ -7780,7 +7914,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         16
     </td>
   </tr>
-  
+
   <tr>
     <td>634</td>
     <td>
@@ -7792,7 +7926,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         16
     </td>
   </tr>
-  
+
   <tr>
     <td>634</td>
     <td>
@@ -7804,7 +7938,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         16
     </td>
   </tr>
-  
+
   <tr>
     <td>634</td>
     <td>
@@ -7816,7 +7950,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         16
     </td>
   </tr>
-  
+
   <tr>
     <td>634</td>
     <td>
@@ -7828,7 +7962,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         16
     </td>
   </tr>
-  
+
   <tr>
     <td>634</td>
     <td>
@@ -7840,7 +7974,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         16
     </td>
   </tr>
-  
+
   <tr>
     <td>634</td>
     <td>
@@ -7852,7 +7986,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         16
     </td>
   </tr>
-  
+
   <tr>
     <td>634</td>
     <td>
@@ -7864,7 +7998,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         16
     </td>
   </tr>
-  
+
   <tr>
     <td>634</td>
     <td>
@@ -7876,7 +8010,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         16
     </td>
   </tr>
-  
+
   <tr>
     <td>634</td>
     <td>
@@ -7888,7 +8022,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         16
     </td>
   </tr>
-  
+
   <tr>
     <td>634</td>
     <td>
@@ -7900,7 +8034,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         16
     </td>
   </tr>
-  
+
   <tr>
     <td>634</td>
     <td>
@@ -7912,7 +8046,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         16
     </td>
   </tr>
-  
+
   <tr>
     <td>634</td>
     <td>
@@ -7924,7 +8058,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         16
     </td>
   </tr>
-  
+
   <tr>
     <td>634</td>
     <td>
@@ -7936,7 +8070,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         16
     </td>
   </tr>
-  
+
   <tr>
     <td>634</td>
     <td>
@@ -7948,7 +8082,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         16
     </td>
   </tr>
-  
+
   <tr>
     <td>634</td>
     <td>
@@ -7960,7 +8094,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         16
     </td>
   </tr>
-  
+
   <tr>
     <td>634</td>
     <td>
@@ -7972,7 +8106,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         16
     </td>
   </tr>
-  
+
   <tr>
     <td>634</td>
     <td>
@@ -7984,7 +8118,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         16
     </td>
   </tr>
-  
+
   <tr>
     <td>666</td>
     <td>
@@ -7996,7 +8130,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         15
     </td>
   </tr>
-  
+
   <tr>
     <td>666</td>
     <td>
@@ -8008,7 +8142,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         15
     </td>
   </tr>
-  
+
   <tr>
     <td>668</td>
     <td>
@@ -8020,7 +8154,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         15
     </td>
   </tr>
-  
+
   <tr>
     <td>668</td>
     <td>
@@ -8032,7 +8166,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         15
     </td>
   </tr>
-  
+
   <tr>
     <td>668</td>
     <td>
@@ -8044,7 +8178,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         15
     </td>
   </tr>
-  
+
   <tr>
     <td>668</td>
     <td>
@@ -8056,7 +8190,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         15
     </td>
   </tr>
-  
+
   <tr>
     <td>668</td>
     <td>
@@ -8068,7 +8202,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         15
     </td>
   </tr>
-  
+
   <tr>
     <td>668</td>
     <td>
@@ -8080,7 +8214,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         15
     </td>
   </tr>
-  
+
   <tr>
     <td>668</td>
     <td>
@@ -8092,7 +8226,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         15
     </td>
   </tr>
-  
+
   <tr>
     <td>668</td>
     <td>
@@ -8104,7 +8238,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         15
     </td>
   </tr>
-  
+
   <tr>
     <td>668</td>
     <td>
@@ -8116,7 +8250,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         15
     </td>
   </tr>
-  
+
   <tr>
     <td>668</td>
     <td>
@@ -8128,7 +8262,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         15
     </td>
   </tr>
-  
+
   <tr>
     <td>668</td>
     <td>
@@ -8140,7 +8274,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         15
     </td>
   </tr>
-  
+
   <tr>
     <td>668</td>
     <td>
@@ -8152,7 +8286,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         15
     </td>
   </tr>
-  
+
   <tr>
     <td>668</td>
     <td>
@@ -8164,7 +8298,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         15
     </td>
   </tr>
-  
+
   <tr>
     <td>668</td>
     <td>
@@ -8176,7 +8310,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         15
     </td>
   </tr>
-  
+
   <tr>
     <td>668</td>
     <td>
@@ -8188,7 +8322,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         15
     </td>
   </tr>
-  
+
   <tr>
     <td>668</td>
     <td>
@@ -8200,7 +8334,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         15
     </td>
   </tr>
-  
+
   <tr>
     <td>668</td>
     <td>
@@ -8212,7 +8346,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         15
     </td>
   </tr>
-  
+
   <tr>
     <td>668</td>
     <td>
@@ -8224,7 +8358,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         15
     </td>
   </tr>
-  
+
   <tr>
     <td>668</td>
     <td>
@@ -8236,7 +8370,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         15
     </td>
   </tr>
-  
+
   <tr>
     <td>668</td>
     <td>
@@ -8248,7 +8382,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         15
     </td>
   </tr>
-  
+
   <tr>
     <td>688</td>
     <td>
@@ -8260,7 +8394,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         14
     </td>
   </tr>
-  
+
   <tr>
     <td>689</td>
     <td>
@@ -8272,7 +8406,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         14
     </td>
   </tr>
-  
+
   <tr>
     <td>689</td>
     <td>
@@ -8284,7 +8418,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         14
     </td>
   </tr>
-  
+
   <tr>
     <td>689</td>
     <td>
@@ -8296,7 +8430,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         14
     </td>
   </tr>
-  
+
   <tr>
     <td>689</td>
     <td>
@@ -8308,7 +8442,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         14
     </td>
   </tr>
-  
+
   <tr>
     <td>689</td>
     <td>
@@ -8320,7 +8454,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         14
     </td>
   </tr>
-  
+
   <tr>
     <td>689</td>
     <td>
@@ -8332,7 +8466,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         14
     </td>
   </tr>
-  
+
   <tr>
     <td>689</td>
     <td>
@@ -8344,7 +8478,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         14
     </td>
   </tr>
-  
+
   <tr>
     <td>689</td>
     <td>
@@ -8356,7 +8490,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         14
     </td>
   </tr>
-  
+
   <tr>
     <td>689</td>
     <td>
@@ -8368,7 +8502,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         14
     </td>
   </tr>
-  
+
   <tr>
     <td>689</td>
     <td>
@@ -8380,7 +8514,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         14
     </td>
   </tr>
-  
+
   <tr>
     <td>699</td>
     <td>
@@ -8392,7 +8526,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         13
     </td>
   </tr>
-  
+
   <tr>
     <td>699</td>
     <td>
@@ -8404,7 +8538,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         13
     </td>
   </tr>
-  
+
   <tr>
     <td>699</td>
     <td>
@@ -8416,7 +8550,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         13
     </td>
   </tr>
-  
+
   <tr>
     <td>699</td>
     <td>
@@ -8428,7 +8562,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         13
     </td>
   </tr>
-  
+
   <tr>
     <td>699</td>
     <td>
@@ -8440,7 +8574,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         13
     </td>
   </tr>
-  
+
   <tr>
     <td>699</td>
     <td>
@@ -8452,7 +8586,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         13
     </td>
   </tr>
-  
+
   <tr>
     <td>699</td>
     <td>
@@ -8464,7 +8598,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         13
     </td>
   </tr>
-  
+
   <tr>
     <td>699</td>
     <td>
@@ -8476,7 +8610,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         13
     </td>
   </tr>
-  
+
   <tr>
     <td>707</td>
     <td>
@@ -8488,7 +8622,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         12
     </td>
   </tr>
-  
+
   <tr>
     <td>707</td>
     <td>
@@ -8500,7 +8634,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         12
     </td>
   </tr>
-  
+
   <tr>
     <td>709</td>
     <td>
@@ -8512,7 +8646,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         12
     </td>
   </tr>
-  
+
   <tr>
     <td>709</td>
     <td>
@@ -8524,7 +8658,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         12
     </td>
   </tr>
-  
+
   <tr>
     <td>709</td>
     <td>
@@ -8536,7 +8670,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         12
     </td>
   </tr>
-  
+
   <tr>
     <td>709</td>
     <td>
@@ -8548,7 +8682,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         12
     </td>
   </tr>
-  
+
   <tr>
     <td>709</td>
     <td>
@@ -8560,7 +8694,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         12
     </td>
   </tr>
-  
+
   <tr>
     <td>714</td>
     <td>
@@ -8572,7 +8706,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         11
     </td>
   </tr>
-  
+
   <tr>
     <td>715</td>
     <td>
@@ -8584,7 +8718,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         11
     </td>
   </tr>
-  
+
   <tr>
     <td>715</td>
     <td>
@@ -8596,7 +8730,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         11
     </td>
   </tr>
-  
+
   <tr>
     <td>715</td>
     <td>
@@ -8608,7 +8742,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         11
     </td>
   </tr>
-  
+
   <tr>
     <td>715</td>
     <td>
@@ -8620,7 +8754,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         11
     </td>
   </tr>
-  
+
   <tr>
     <td>715</td>
     <td>
@@ -8632,7 +8766,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         11
     </td>
   </tr>
-  
+
   <tr>
     <td>715</td>
     <td>
@@ -8644,7 +8778,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         11
     </td>
   </tr>
-  
+
   <tr>
     <td>715</td>
     <td>
@@ -8656,7 +8790,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         11
     </td>
   </tr>
-  
+
   <tr>
     <td>715</td>
     <td>
@@ -8668,7 +8802,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         11
     </td>
   </tr>
-  
+
   <tr>
     <td>715</td>
     <td>
@@ -8680,7 +8814,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         11
     </td>
   </tr>
-  
+
   <tr>
     <td>724</td>
     <td>
@@ -8692,7 +8826,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         10
     </td>
   </tr>
-  
+
   <tr>
     <td>724</td>
     <td>
@@ -8704,7 +8838,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         10
     </td>
   </tr>
-  
+
   <tr>
     <td>724</td>
     <td>
@@ -8716,7 +8850,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         10
     </td>
   </tr>
-  
+
   <tr>
     <td>724</td>
     <td>
@@ -8728,7 +8862,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         10
     </td>
   </tr>
-  
+
   <tr>
     <td>724</td>
     <td>
@@ -8740,7 +8874,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         10
     </td>
   </tr>
-  
+
   <tr>
     <td>724</td>
     <td>
@@ -8752,7 +8886,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         10
     </td>
   </tr>
-  
+
   <tr>
     <td>724</td>
     <td>
@@ -8764,7 +8898,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         10
     </td>
   </tr>
-  
+
   <tr>
     <td>731</td>
     <td>
@@ -8776,7 +8910,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         9
     </td>
   </tr>
-  
+
   <tr>
     <td>731</td>
     <td>
@@ -8788,7 +8922,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         9
     </td>
   </tr>
-  
+
   <tr>
     <td>731</td>
     <td>
@@ -8800,7 +8934,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         9
     </td>
   </tr>
-  
+
   <tr>
     <td>731</td>
     <td>
@@ -8812,7 +8946,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         9
     </td>
   </tr>
-  
+
   <tr>
     <td>731</td>
     <td>
@@ -8824,7 +8958,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         9
     </td>
   </tr>
-  
+
   <tr>
     <td>731</td>
     <td>
@@ -8836,7 +8970,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         9
     </td>
   </tr>
-  
+
   <tr>
     <td>731</td>
     <td>
@@ -8848,7 +8982,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         9
     </td>
   </tr>
-  
+
   <tr>
     <td>738</td>
     <td>
@@ -8860,7 +8994,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         8
     </td>
   </tr>
-  
+
   <tr>
     <td>739</td>
     <td>
@@ -8872,7 +9006,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         8
     </td>
   </tr>
-  
+
   <tr>
     <td>739</td>
     <td>
@@ -8884,7 +9018,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         8
     </td>
   </tr>
-  
+
   <tr>
     <td>739</td>
     <td>
@@ -8896,7 +9030,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         8
     </td>
   </tr>
-  
+
   <tr>
     <td>739</td>
     <td>
@@ -8908,7 +9042,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         8
     </td>
   </tr>
-  
+
   <tr>
     <td>739</td>
     <td>
@@ -8920,7 +9054,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         8
     </td>
   </tr>
-  
+
   <tr>
     <td>744</td>
     <td>
@@ -8932,7 +9066,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         7
     </td>
   </tr>
-  
+
   <tr>
     <td>744</td>
     <td>
@@ -8944,7 +9078,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         7
     </td>
   </tr>
-  
+
   <tr>
     <td>744</td>
     <td>
@@ -8956,7 +9090,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         7
     </td>
   </tr>
-  
+
   <tr>
     <td>747</td>
     <td>
@@ -8968,7 +9102,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         6
     </td>
   </tr>
-  
+
   <tr>
     <td>747</td>
     <td>
@@ -8980,7 +9114,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         6
     </td>
   </tr>
-  
+
   <tr>
     <td>747</td>
     <td>
@@ -8992,7 +9126,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         6
     </td>
   </tr>
-  
+
   <tr>
     <td>747</td>
     <td>
@@ -9004,7 +9138,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         6
     </td>
   </tr>
-  
+
   <tr>
     <td>747</td>
     <td>
@@ -9016,7 +9150,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         6
     </td>
   </tr>
-  
+
   <tr>
     <td>747</td>
     <td>
@@ -9028,7 +9162,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         6
     </td>
   </tr>
-  
+
   <tr>
     <td>747</td>
     <td>
@@ -9040,7 +9174,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         6
     </td>
   </tr>
-  
+
   <tr>
     <td>754</td>
     <td>
@@ -9052,7 +9186,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         5
     </td>
   </tr>
-  
+
   <tr>
     <td>754</td>
     <td>
@@ -9064,7 +9198,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         5
     </td>
   </tr>
-  
+
   <tr>
     <td>756</td>
     <td>
@@ -9076,7 +9210,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         4
     </td>
   </tr>
-  
+
   <tr>
     <td>756</td>
     <td>
@@ -9088,7 +9222,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         4
     </td>
   </tr>
-  
+
   <tr>
     <td>756</td>
     <td>
@@ -9100,7 +9234,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         4
     </td>
   </tr>
-  
+
   <tr>
     <td>756</td>
     <td>
@@ -9112,7 +9246,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         4
     </td>
   </tr>
-  
+
   <tr>
     <td>756</td>
     <td>
@@ -9124,7 +9258,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         4
     </td>
   </tr>
-  
+
   <tr>
     <td>761</td>
     <td>
@@ -9136,7 +9270,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         3
     </td>
   </tr>
-  
+
   <tr>
     <td>761</td>
     <td>
@@ -9148,7 +9282,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         3
     </td>
   </tr>
-  
+
   <tr>
     <td>761</td>
     <td>
@@ -9160,7 +9294,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         3
     </td>
   </tr>
-  
+
   <tr>
     <td>761</td>
     <td>
@@ -9172,7 +9306,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         3
     </td>
   </tr>
-  
+
   <tr>
     <td>761</td>
     <td>
@@ -9184,7 +9318,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         3
     </td>
   </tr>
-  
+
   <tr>
     <td>761</td>
     <td>
@@ -9196,7 +9330,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         3
     </td>
   </tr>
-  
+
   <tr>
     <td>761</td>
     <td>
@@ -9208,7 +9342,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         3
     </td>
   </tr>
-  
+
   <tr>
     <td>761</td>
     <td>
@@ -9220,7 +9354,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         3
     </td>
   </tr>
-  
+
   <tr>
     <td>761</td>
     <td>
@@ -9232,7 +9366,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         3
     </td>
   </tr>
-  
+
   <tr>
     <td>761</td>
     <td>
@@ -9244,7 +9378,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         3
     </td>
   </tr>
-  
+
   <tr>
     <td>771</td>
     <td>
@@ -9256,7 +9390,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         2
     </td>
   </tr>
-  
+
   <tr>
     <td>771</td>
     <td>
@@ -9268,7 +9402,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         2
     </td>
   </tr>
-  
+
   <tr>
     <td>771</td>
     <td>
@@ -9280,7 +9414,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         2
     </td>
   </tr>
-  
+
   <tr>
     <td>774</td>
     <td>
@@ -9292,7 +9426,7 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         1
     </td>
   </tr>
-  
+
   <tr>
     <td>774</td>
     <td>
@@ -9304,6 +9438,6 @@ The value is the weighted average of a basket of speed and efficiency metrics ga
         1
     </td>
   </tr>
-  
+
  </tbody>
 </table>
