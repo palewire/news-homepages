@@ -233,7 +233,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 53 screenshots with the Internet Archive.
+The archiving routine has saved 55 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -325,6 +325,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-17T11:14:50.921178-04:00.jpg">
+  <img src="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-17T11:14:50.921178-04:00.jpg"
+     alt="WSB-TV at 2022-08-17 11:14:59-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-17T11:14:50.921178-04:00.jpg">August 17 at 11:14 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-16T23:48:43.436251-04:00.jpg">
+  <img src="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-16T23:48:43.436251-04:00.jpg"
+     alt="WSB-TV at 2022-08-16 23:48:44-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-16T23:48:43.436251-04:00.jpg">August 16 at 11:48 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-16T14:49:16.006657-04:00.jpg">
   <img src="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-16T14:49:16.006657-04:00.jpg"
      alt="WSB-TV at 2022-08-16 14:49:18-04:00 local time"
@@ -414,29 +432,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-12T05:52:39.198226-04:00.jpg">August 12 at 5:52 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-11T15:02:17.381634-04:00.jpg">
-  <img src="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-11T15:02:17.381634-04:00.jpg"
-     alt="WSB-TV at 2022-08-11 15:02:21-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-11T15:02:17.381634-04:00.jpg">August 11 at 3:02 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-11T01:32:11.336218-04:00.jpg">
-  <img src="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-11T01:32:11.336218-04:00.jpg"
-     alt="WSB-TV at 2022-08-11 01:32:16-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wsbtv-2022/wsbtv-2022-08-11T01:32:11.336218-04:00.jpg">August 11 at 1:32 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 49 hyperlink lists with the Internet Archive.
+The archiving routine has saved 51 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 17 at 11:15 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-17T11:14:50.921178-04:00.hyperlinks.json) |
+| [August 16 at 11:48 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-16T23:48:43.436251-04:00.hyperlinks.json) |
 | [August 16 at 2:49 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-16T14:49:16.006657-04:00.hyperlinks.json) |
 | [August 16 at 2:59 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-16T02:59:17.292691-04:00.hyperlinks.json) |
 | [August 15 at 4:23 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-15T16:22:54.405205-04:00.hyperlinks.json) |
@@ -535,13 +537,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 14 at 3:12 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-14T03:12:32.156232-04:00.hyperlinks.json) |
 | [August 13 at 5:09 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-13T17:09:48.225300-04:00.hyperlinks.json) |
 | [August 13 at 1:19 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-13T01:18:57.008946-04:00.hyperlinks.json) |
-| [August 12 at 2:32 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-12T14:31:57.549806-04:00.hyperlinks.json) |
-| [August 12 at 5:52 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-12T05:52:39.198226-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 50 accessibility trees with the Internet Archive.
+The archiving routine has saved 52 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -632,6 +632,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 17 at 11:15 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-17T11:14:50.921178-04:00.accessibility.json) |
+| [August 16 at 11:48 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-16T23:48:43.436251-04:00.accessibility.json) |
 | [August 16 at 2:59 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-16T02:59:17.292691-04:00.accessibility.json) |
 | [August 15 at 4:22 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-15T16:22:54.405205-04:00.accessibility.json) |
 | [August 15 at 2:52 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-15T02:52:32.785135-04:00.accessibility.json) |
@@ -640,14 +642,12 @@ Here are the 10 most recent accessibility trees.
 | [August 13 at 5:09 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-13T17:09:48.225300-04:00.accessibility.json) |
 | [August 13 at 1:19 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-13T01:18:57.008946-04:00.accessibility.json) |
 | [August 12 at 2:32 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-12T14:31:57.549806-04:00.accessibility.json) |
-| [August 12 at 5:52 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-12T05:52:39.198226-04:00.accessibility.json) |
-| [August 11 at 3:02 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-11T15:02:17.381634-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 44 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 46 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -738,6 +738,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 17 at 11:15 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-17T11:14:50.921178-04:00.lighthouse.json) |
+| [August 16 at 11:48 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-16T23:48:43.436251-04:00.lighthouse.json) |
 | [August 16 at 2:49 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-16T14:49:16.006657-04:00.lighthouse.json) |
 | [August 16 at 2:59 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-16T02:59:17.292691-04:00.lighthouse.json) |
 | [August 15 at 4:23 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-15T16:22:54.405205-04:00.lighthouse.json) |
@@ -746,8 +748,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 13 at 5:09 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-13T17:09:48.225300-04:00.lighthouse.json) |
 | [August 13 at 1:19 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-13T01:18:57.008946-04:00.lighthouse.json) |
 | [August 12 at 2:32 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-12T14:31:57.549806-04:00.lighthouse.json) |
-| [August 12 at 5:52 AM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-12T05:52:39.198226-04:00.lighthouse.json) |
-| [August 11 at 3:02 PM](https://archive.org/download/wsbtv-2022/wsbtv-2022-08-11T15:02:17.381634-04:00.lighthouse.json) |
 
 
 

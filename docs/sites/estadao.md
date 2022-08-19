@@ -233,7 +233,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 38 screenshots with the Internet Archive.
+The archiving routine has saved 40 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -325,6 +325,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/estadao-2022/estadao-2022-08-17T20:02:23.079576-03:00.jpg">
+  <img src="https://archive.org/download/estadao-2022/estadao-2022-08-17T20:02:23.079576-03:00.jpg"
+     alt="Estadão at 2022-08-17 20:02:28-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/estadao-2022/estadao-2022-08-17T20:02:23.079576-03:00.jpg">August 17 at 8:02 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/estadao-2022/estadao-2022-08-17T07:56:55.829319-03:00.jpg">
+  <img src="https://archive.org/download/estadao-2022/estadao-2022-08-17T07:56:55.829319-03:00.jpg"
+     alt="Estadão at 2022-08-17 07:56:57-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/estadao-2022/estadao-2022-08-17T07:56:55.829319-03:00.jpg">August 17 at 7:56 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/estadao-2022/estadao-2022-08-16T20:05:07.633639-03:00.jpg">
   <img src="https://archive.org/download/estadao-2022/estadao-2022-08-16T20:05:07.633639-03:00.jpg"
      alt="Estadão at 2022-08-16 20:05:10-03:00 local time"
@@ -414,29 +432,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/estadao-2022/estadao-2022-08-13T10:02:11.884908-03:00.jpg">August 13 at 10:02 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/estadao-2022/estadao-2022-08-13T09:58:51.267248-03:00.jpg">
-  <img src="https://archive.org/download/estadao-2022/estadao-2022-08-13T09:58:51.267248-03:00.jpg"
-     alt="Estadão at 2022-08-13 09:58:53-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/estadao-2022/estadao-2022-08-13T09:58:51.267248-03:00.jpg">August 13 at 9:58 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/estadao-2022/estadao-2022-08-12T21:33:30.344150-03:00.jpg">
-  <img src="https://archive.org/download/estadao-2022/estadao-2022-08-12T21:33:30.344150-03:00.jpg"
-     alt="Estadão at 2022-08-12 21:33:33-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/estadao-2022/estadao-2022-08-12T21:33:30.344150-03:00.jpg">August 12 at 9:33 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 38 hyperlink lists with the Internet Archive.
+The archiving routine has saved 40 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 17 at 8:02 PM](https://archive.org/download/estadao-2022/estadao-2022-08-17T20:02:23.079576-03:00.hyperlinks.json) |
+| [August 17 at 7:57 AM](https://archive.org/download/estadao-2022/estadao-2022-08-17T07:56:55.829319-03:00.hyperlinks.json) |
 | [August 16 at 8:05 PM](https://archive.org/download/estadao-2022/estadao-2022-08-16T20:05:07.633639-03:00.hyperlinks.json) |
 | [August 16 at 10:36 AM](https://archive.org/download/estadao-2022/estadao-2022-08-16T10:36:09.903301-03:00.hyperlinks.json) |
 | [August 15 at 10:23 PM](https://archive.org/download/estadao-2022/estadao-2022-08-15T22:23:52.859478-03:00.hyperlinks.json) |
@@ -535,13 +537,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 14 at 10:10 PM](https://archive.org/download/estadao-2022/estadao-2022-08-14T22:09:56.933722-03:00.hyperlinks.json) |
 | [August 14 at 10:37 AM](https://archive.org/download/estadao-2022/estadao-2022-08-14T10:37:29.588908-03:00.hyperlinks.json) |
 | [August 14 at 10:32 AM](https://archive.org/download/estadao-2022/estadao-2022-08-14T10:32:32.972287-03:00.hyperlinks.json) |
-| [August 13 at 8:54 PM](https://archive.org/download/estadao-2022/estadao-2022-08-13T20:54:50.332201-03:00.hyperlinks.json) |
-| [August 13 at 10:02 AM](https://archive.org/download/estadao-2022/estadao-2022-08-13T10:02:11.884908-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 38 accessibility trees with the Internet Archive.
+The archiving routine has saved 40 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -632,6 +632,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 17 at 8:02 PM](https://archive.org/download/estadao-2022/estadao-2022-08-17T20:02:23.079576-03:00.accessibility.json) |
+| [August 17 at 7:56 AM](https://archive.org/download/estadao-2022/estadao-2022-08-17T07:56:55.829319-03:00.accessibility.json) |
 | [August 16 at 8:05 PM](https://archive.org/download/estadao-2022/estadao-2022-08-16T20:05:07.633639-03:00.accessibility.json) |
 | [August 16 at 10:36 AM](https://archive.org/download/estadao-2022/estadao-2022-08-16T10:36:09.903301-03:00.accessibility.json) |
 | [August 15 at 10:23 PM](https://archive.org/download/estadao-2022/estadao-2022-08-15T22:23:52.859478-03:00.accessibility.json) |
@@ -640,14 +642,12 @@ Here are the 10 most recent accessibility trees.
 | [August 14 at 10:09 PM](https://archive.org/download/estadao-2022/estadao-2022-08-14T22:09:56.933722-03:00.accessibility.json) |
 | [August 14 at 10:37 AM](https://archive.org/download/estadao-2022/estadao-2022-08-14T10:37:29.588908-03:00.accessibility.json) |
 | [August 14 at 10:32 AM](https://archive.org/download/estadao-2022/estadao-2022-08-14T10:32:32.972287-03:00.accessibility.json) |
-| [August 13 at 8:54 PM](https://archive.org/download/estadao-2022/estadao-2022-08-13T20:54:50.332201-03:00.accessibility.json) |
-| [August 13 at 10:02 AM](https://archive.org/download/estadao-2022/estadao-2022-08-13T10:02:11.884908-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 38 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 40 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -738,6 +738,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 17 at 8:02 PM](https://archive.org/download/estadao-2022/estadao-2022-08-17T20:02:23.079576-03:00.lighthouse.json) |
+| [August 17 at 7:57 AM](https://archive.org/download/estadao-2022/estadao-2022-08-17T07:56:55.829319-03:00.lighthouse.json) |
 | [August 16 at 8:05 PM](https://archive.org/download/estadao-2022/estadao-2022-08-16T20:05:07.633639-03:00.lighthouse.json) |
 | [August 16 at 10:36 AM](https://archive.org/download/estadao-2022/estadao-2022-08-16T10:36:09.903301-03:00.lighthouse.json) |
 | [August 15 at 10:23 PM](https://archive.org/download/estadao-2022/estadao-2022-08-15T22:23:52.859478-03:00.lighthouse.json) |
@@ -746,8 +748,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 14 at 10:10 PM](https://archive.org/download/estadao-2022/estadao-2022-08-14T22:09:56.933722-03:00.lighthouse.json) |
 | [August 14 at 10:37 AM](https://archive.org/download/estadao-2022/estadao-2022-08-14T10:37:29.588908-03:00.lighthouse.json) |
 | [August 14 at 10:32 AM](https://archive.org/download/estadao-2022/estadao-2022-08-14T10:32:32.972287-03:00.lighthouse.json) |
-| [August 13 at 8:55 PM](https://archive.org/download/estadao-2022/estadao-2022-08-13T20:54:50.332201-03:00.lighthouse.json) |
-| [August 13 at 10:02 AM](https://archive.org/download/estadao-2022/estadao-2022-08-13T10:02:11.884908-03:00.lighthouse.json) |
 
 
 

@@ -233,7 +233,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 84 screenshots with the Internet Archive.
+The archiving routine has saved 86 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -325,6 +325,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-08-17T14:09:42.901362+01:00.jpg">
+  <img src="https://archive.org/download/thescotsman-2022/thescotsman-2022-08-17T14:09:42.901362+01:00.jpg"
+     alt="Scotsman at 2022-08-17 14:09:47+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-08-17T14:09:42.901362+01:00.jpg">August 17 at 2:09 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-08-17T02:22:43.523706+01:00.jpg">
+  <img src="https://archive.org/download/thescotsman-2022/thescotsman-2022-08-17T02:22:43.523706+01:00.jpg"
+     alt="Scotsman at 2022-08-17 02:22:51+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-08-17T02:22:43.523706+01:00.jpg">August 17 at 2:22 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-08-16T18:24:56.188136+01:00.jpg">
   <img src="https://archive.org/download/thescotsman-2022/thescotsman-2022-08-16T18:24:56.188136+01:00.jpg"
      alt="Scotsman at 2022-08-16 18:24:57+01:00 local time"
@@ -414,29 +432,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-08-12T10:35:23.693636+01:00.jpg">August 12 at 10:35 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-08-11T18:09:21.649752+01:00.jpg">
-  <img src="https://archive.org/download/thescotsman-2022/thescotsman-2022-08-11T18:09:21.649752+01:00.jpg"
-     alt="Scotsman at 2022-08-11 18:09:22+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-08-11T18:09:21.649752+01:00.jpg">August 11 at 6:09 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-08-10T18:50:33.549737+01:00.jpg">
-  <img src="https://archive.org/download/thescotsman-2022/thescotsman-2022-08-10T18:50:33.549737+01:00.jpg"
-     alt="Scotsman at 2022-08-10 18:50:36+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thescotsman-2022/thescotsman-2022-08-10T18:50:33.549737+01:00.jpg">August 10 at 6:50 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 73 hyperlink lists with the Internet Archive.
+The archiving routine has saved 75 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 17 at 2:09 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-08-17T14:09:42.901362+01:00.hyperlinks.json) |
+| [August 17 at 2:22 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-08-17T02:22:43.523706+01:00.hyperlinks.json) |
 | [August 16 at 6:25 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-08-16T18:24:56.188136+01:00.hyperlinks.json) |
 | [August 16 at 7:20 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-08-16T07:20:24.668555+01:00.hyperlinks.json) |
 | [August 15 at 8:38 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-08-15T20:38:01.439491+01:00.hyperlinks.json) |
@@ -535,13 +537,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 13 at 9:46 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-08-13T21:46:31.442090+01:00.hyperlinks.json) |
 | [August 12 at 5:26 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-08-12T17:26:00.434401+01:00.hyperlinks.json) |
 | [August 12 at 10:35 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-08-12T10:35:23.693636+01:00.hyperlinks.json) |
-| [August 12 at 3:07 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-08-12T03:06:57.640647+01:00.hyperlinks.json) |
-| [August 11 at 6:09 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-08-11T18:09:21.649752+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 76 accessibility trees with the Internet Archive.
+The archiving routine has saved 78 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -632,6 +632,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 17 at 2:09 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-08-17T14:09:42.901362+01:00.accessibility.json) |
+| [August 17 at 2:22 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-08-17T02:22:43.523706+01:00.accessibility.json) |
 | [August 16 at 6:24 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-08-16T18:24:56.188136+01:00.accessibility.json) |
 | [August 16 at 7:20 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-08-16T07:20:24.668555+01:00.accessibility.json) |
 | [August 15 at 8:38 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-08-15T20:38:01.439491+01:00.accessibility.json) |
@@ -640,14 +642,12 @@ Here are the 10 most recent accessibility trees.
 | [August 14 at 6:09 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-08-14T06:09:13.778584+01:00.accessibility.json) |
 | [August 13 at 9:46 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-08-13T21:46:31.442090+01:00.accessibility.json) |
 | [August 13 at 3:17 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-08-13T03:17:50.488416+01:00.accessibility.json) |
-| [August 12 at 5:26 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-08-12T17:26:00.434401+01:00.accessibility.json) |
-| [August 12 at 10:35 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-08-12T10:35:23.693636+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 51 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 53 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -738,6 +738,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 17 at 2:09 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-08-17T14:09:42.901362+01:00.lighthouse.json) |
+| [August 17 at 2:22 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-08-17T02:22:43.523706+01:00.lighthouse.json) |
 | [August 16 at 6:25 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-08-16T18:24:56.188136+01:00.lighthouse.json) |
 | [August 16 at 7:20 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-08-16T07:20:24.668555+01:00.lighthouse.json) |
 | [August 15 at 8:38 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-08-15T20:38:01.439491+01:00.lighthouse.json) |
@@ -746,8 +748,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 14 at 6:09 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-08-14T06:09:13.778584+01:00.lighthouse.json) |
 | [August 13 at 9:46 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-08-13T21:46:31.442090+01:00.lighthouse.json) |
 | [August 13 at 3:17 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-08-13T03:17:50.488416+01:00.lighthouse.json) |
-| [August 12 at 5:26 PM](https://archive.org/download/thescotsman-2022/thescotsman-2022-08-12T17:26:00.434401+01:00.lighthouse.json) |
-| [August 12 at 10:35 AM](https://archive.org/download/thescotsman-2022/thescotsman-2022-08-12T10:35:23.693636+01:00.lighthouse.json) |
 
 
 

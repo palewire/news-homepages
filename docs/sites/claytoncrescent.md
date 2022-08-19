@@ -233,7 +233,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 79 screenshots with the Internet Archive.
+The archiving routine has saved 81 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -325,6 +325,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-08-17T19:00:34.200949-04:00.jpg">
+  <img src="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-08-17T19:00:34.200949-04:00.jpg"
+     alt="Clayton Crescent at 2022-08-17 19:00:35-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-08-17T19:00:34.200949-04:00.jpg">August 17 at 7:00 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-08-17T06:55:12.549567-04:00.jpg">
+  <img src="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-08-17T06:55:12.549567-04:00.jpg"
+     alt="Clayton Crescent at 2022-08-17 06:55:14-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-08-17T06:55:12.549567-04:00.jpg">August 17 at 6:55 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-08-16T19:02:50.729903-04:00.jpg">
   <img src="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-08-16T19:02:50.729903-04:00.jpg"
      alt="Clayton Crescent at 2022-08-16 19:02:52-04:00 local time"
@@ -414,29 +432,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-08-12T07:40:41.196668-04:00.jpg">August 12 at 7:40 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-08-11T19:22:57.903206-04:00.jpg">
-  <img src="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-08-11T19:22:57.903206-04:00.jpg"
-     alt="Clayton Crescent at 2022-08-11 19:22:59-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-08-11T19:22:57.903206-04:00.jpg">August 11 at 7:22 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-08-11T07:37:55.178151-04:00.jpg">
-  <img src="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-08-11T07:37:55.178151-04:00.jpg"
-     alt="Clayton Crescent at 2022-08-11 07:37:58-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-08-11T07:37:55.178151-04:00.jpg">August 11 at 7:37 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 79 hyperlink lists with the Internet Archive.
+The archiving routine has saved 81 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 17 at 7:00 PM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-08-17T19:00:34.200949-04:00.hyperlinks.json) |
+| [August 17 at 6:55 AM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-08-17T06:55:12.549567-04:00.hyperlinks.json) |
 | [August 16 at 7:02 PM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-08-16T19:02:50.729903-04:00.hyperlinks.json) |
 | [August 16 at 9:32 AM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-08-16T09:32:00.819404-04:00.hyperlinks.json) |
 | [August 15 at 9:19 PM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-08-15T21:18:54.504782-04:00.hyperlinks.json) |
@@ -535,13 +537,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 14 at 9:28 AM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-08-14T09:28:03.204750-04:00.hyperlinks.json) |
 | [August 13 at 7:50 PM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-08-13T19:50:30.669988-04:00.hyperlinks.json) |
 | [August 13 at 8:55 AM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-08-13T08:55:24.500483-04:00.hyperlinks.json) |
-| [August 12 at 8:30 PM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-08-12T20:30:49.318786-04:00.hyperlinks.json) |
-| [August 12 at 7:40 AM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-08-12T07:40:41.196668-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 79 accessibility trees with the Internet Archive.
+The archiving routine has saved 81 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -632,6 +632,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 17 at 7:00 PM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-08-17T19:00:34.200949-04:00.accessibility.json) |
+| [August 17 at 6:55 AM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-08-17T06:55:12.549567-04:00.accessibility.json) |
 | [August 16 at 7:02 PM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-08-16T19:02:50.729903-04:00.accessibility.json) |
 | [August 16 at 9:32 AM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-08-16T09:32:00.819404-04:00.accessibility.json) |
 | [August 15 at 9:19 PM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-08-15T21:18:54.504782-04:00.accessibility.json) |
@@ -640,14 +642,12 @@ Here are the 10 most recent accessibility trees.
 | [August 14 at 9:28 AM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-08-14T09:28:03.204750-04:00.accessibility.json) |
 | [August 13 at 7:50 PM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-08-13T19:50:30.669988-04:00.accessibility.json) |
 | [August 13 at 8:55 AM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-08-13T08:55:24.500483-04:00.accessibility.json) |
-| [August 12 at 8:30 PM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-08-12T20:30:49.318786-04:00.accessibility.json) |
-| [August 12 at 7:40 AM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-08-12T07:40:41.196668-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 49 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 51 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -738,6 +738,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 17 at 7:00 PM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-08-17T19:00:34.200949-04:00.lighthouse.json) |
+| [August 17 at 6:55 AM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-08-17T06:55:12.549567-04:00.lighthouse.json) |
 | [August 16 at 7:02 PM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-08-16T19:02:50.729903-04:00.lighthouse.json) |
 | [August 16 at 9:32 AM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-08-16T09:32:00.819404-04:00.lighthouse.json) |
 | [August 15 at 9:19 PM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-08-15T21:18:54.504782-04:00.lighthouse.json) |
@@ -746,8 +748,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 14 at 9:28 AM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-08-14T09:28:03.204750-04:00.lighthouse.json) |
 | [August 13 at 7:50 PM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-08-13T19:50:30.669988-04:00.lighthouse.json) |
 | [August 13 at 8:55 AM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-08-13T08:55:24.500483-04:00.lighthouse.json) |
-| [August 12 at 8:31 PM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-08-12T20:30:49.318786-04:00.lighthouse.json) |
-| [August 12 at 7:40 AM](https://archive.org/download/claytoncrescent-2022/claytoncrescent-2022-08-12T07:40:41.196668-04:00.lighthouse.json) |
 
 
 

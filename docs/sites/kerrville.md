@@ -233,7 +233,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 61 screenshots with the Internet Archive.
+The archiving routine has saved 63 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -325,6 +325,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/kerrville-2022/kerrville-2022-08-17T10:03:33.140593-05:00.jpg">
+  <img src="https://archive.org/download/kerrville-2022/kerrville-2022-08-17T10:03:33.140593-05:00.jpg"
+     alt="Kerrville Daily Times at 2022-08-17 10:03:42-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-08-17T10:03:33.140593-05:00.jpg">August 17 at 10:03 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kerrville-2022/kerrville-2022-08-16T21:29:28.277276-05:00.jpg">
+  <img src="https://archive.org/download/kerrville-2022/kerrville-2022-08-16T21:29:28.277276-05:00.jpg"
+     alt="Kerrville Daily Times at 2022-08-16 21:29:29-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-08-16T21:29:28.277276-05:00.jpg">August 16 at 9:29 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/kerrville-2022/kerrville-2022-08-16T13:33:36.006778-05:00.jpg">
   <img src="https://archive.org/download/kerrville-2022/kerrville-2022-08-16T13:33:36.006778-05:00.jpg"
      alt="Kerrville Daily Times at 2022-08-16 13:33:39-05:00 local time"
@@ -414,29 +432,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-08-12T05:01:53.122407-05:00.jpg">August 12 at 5:01 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kerrville-2022/kerrville-2022-08-11T13:43:00.631313-05:00.jpg">
-  <img src="https://archive.org/download/kerrville-2022/kerrville-2022-08-11T13:43:00.631313-05:00.jpg"
-     alt="Kerrville Daily Times at 2022-08-11 13:43:04-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-08-11T13:43:00.631313-05:00.jpg">August 11 at 1:43 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kerrville-2022/kerrville-2022-08-10T22:56:09.744680-05:00.jpg">
-  <img src="https://archive.org/download/kerrville-2022/kerrville-2022-08-10T22:56:09.744680-05:00.jpg"
-     alt="Kerrville Daily Times at 2022-08-10 22:56:11-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kerrville-2022/kerrville-2022-08-10T22:56:09.744680-05:00.jpg">August 10 at 10:56 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 57 hyperlink lists with the Internet Archive.
+The archiving routine has saved 59 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 17 at 10:03 AM](https://archive.org/download/kerrville-2022/kerrville-2022-08-17T10:03:33.140593-05:00.hyperlinks.json) |
+| [August 16 at 9:29 PM](https://archive.org/download/kerrville-2022/kerrville-2022-08-16T21:29:28.277276-05:00.hyperlinks.json) |
 | [August 16 at 1:33 PM](https://archive.org/download/kerrville-2022/kerrville-2022-08-16T13:33:36.006778-05:00.hyperlinks.json) |
 | [August 16 at 1:37 AM](https://archive.org/download/kerrville-2022/kerrville-2022-08-16T01:37:48.010921-05:00.hyperlinks.json) |
 | [August 15 at 2:57 PM](https://archive.org/download/kerrville-2022/kerrville-2022-08-15T14:57:05.632682-05:00.hyperlinks.json) |
@@ -535,13 +537,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 14 at 1:50 AM](https://archive.org/download/kerrville-2022/kerrville-2022-08-14T01:50:02.162067-05:00.hyperlinks.json) |
 | [August 13 at 3:28 PM](https://archive.org/download/kerrville-2022/kerrville-2022-08-13T15:28:15.693163-05:00.hyperlinks.json) |
 | [August 12 at 10:45 PM](https://archive.org/download/kerrville-2022/kerrville-2022-08-12T22:45:53.038912-05:00.hyperlinks.json) |
-| [August 12 at 12:52 PM](https://archive.org/download/kerrville-2022/kerrville-2022-08-12T12:52:29.843513-05:00.hyperlinks.json) |
-| [August 12 at 5:01 AM](https://archive.org/download/kerrville-2022/kerrville-2022-08-12T05:01:53.122407-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 61 accessibility trees with the Internet Archive.
+The archiving routine has saved 63 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -632,6 +632,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 17 at 10:03 AM](https://archive.org/download/kerrville-2022/kerrville-2022-08-17T10:03:33.140593-05:00.accessibility.json) |
+| [August 16 at 9:29 PM](https://archive.org/download/kerrville-2022/kerrville-2022-08-16T21:29:28.277276-05:00.accessibility.json) |
 | [August 16 at 1:33 PM](https://archive.org/download/kerrville-2022/kerrville-2022-08-16T13:33:36.006778-05:00.accessibility.json) |
 | [August 16 at 1:37 AM](https://archive.org/download/kerrville-2022/kerrville-2022-08-16T01:37:48.010921-05:00.accessibility.json) |
 | [August 15 at 2:57 PM](https://archive.org/download/kerrville-2022/kerrville-2022-08-15T14:57:05.632682-05:00.accessibility.json) |
@@ -640,14 +642,12 @@ Here are the 10 most recent accessibility trees.
 | [August 14 at 1:50 AM](https://archive.org/download/kerrville-2022/kerrville-2022-08-14T01:50:02.162067-05:00.accessibility.json) |
 | [August 13 at 3:28 PM](https://archive.org/download/kerrville-2022/kerrville-2022-08-13T15:28:15.693163-05:00.accessibility.json) |
 | [August 12 at 10:45 PM](https://archive.org/download/kerrville-2022/kerrville-2022-08-12T22:45:53.038912-05:00.accessibility.json) |
-| [August 12 at 12:52 PM](https://archive.org/download/kerrville-2022/kerrville-2022-08-12T12:52:29.843513-05:00.accessibility.json) |
-| [August 12 at 5:01 AM](https://archive.org/download/kerrville-2022/kerrville-2022-08-12T05:01:53.122407-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 48 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 50 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -738,6 +738,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 17 at 10:03 AM](https://archive.org/download/kerrville-2022/kerrville-2022-08-17T10:03:33.140593-05:00.lighthouse.json) |
+| [August 16 at 9:29 PM](https://archive.org/download/kerrville-2022/kerrville-2022-08-16T21:29:28.277276-05:00.lighthouse.json) |
 | [August 16 at 1:33 PM](https://archive.org/download/kerrville-2022/kerrville-2022-08-16T13:33:36.006778-05:00.lighthouse.json) |
 | [August 16 at 1:37 AM](https://archive.org/download/kerrville-2022/kerrville-2022-08-16T01:37:48.010921-05:00.lighthouse.json) |
 | [August 15 at 2:57 PM](https://archive.org/download/kerrville-2022/kerrville-2022-08-15T14:57:05.632682-05:00.lighthouse.json) |
@@ -746,8 +748,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 14 at 1:50 AM](https://archive.org/download/kerrville-2022/kerrville-2022-08-14T01:50:02.162067-05:00.lighthouse.json) |
 | [August 13 at 3:28 PM](https://archive.org/download/kerrville-2022/kerrville-2022-08-13T15:28:15.693163-05:00.lighthouse.json) |
 | [August 12 at 10:46 PM](https://archive.org/download/kerrville-2022/kerrville-2022-08-12T22:45:53.038912-05:00.lighthouse.json) |
-| [August 12 at 12:52 PM](https://archive.org/download/kerrville-2022/kerrville-2022-08-12T12:52:29.843513-05:00.lighthouse.json) |
-| [August 12 at 5:02 AM](https://archive.org/download/kerrville-2022/kerrville-2022-08-12T05:01:53.122407-05:00.lighthouse.json) |
 
 
 

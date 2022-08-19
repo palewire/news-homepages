@@ -233,13 +233,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 13 screenshots with the Internet Archive.
+The archiving routine has saved 15 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bild-2022/bild-2022-08-18T00:57:57.800775+02:00.jpg">
+  <img src="https://archive.org/download/bild-2022/bild-2022-08-18T00:57:57.800775+02:00.jpg"
+     alt="Bild at 2022-08-18 00:58:00+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bild-2022/bild-2022-08-18T00:57:57.800775+02:00.jpg">August 18 at 12:58 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bild-2022/bild-2022-08-17T12:53:26.319635+02:00.jpg">
+  <img src="https://archive.org/download/bild-2022/bild-2022-08-17T12:53:26.319635+02:00.jpg"
+     alt="Bild at 2022-08-17 12:53:29+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bild-2022/bild-2022-08-17T12:53:26.319635+02:00.jpg">August 17 at 12:53 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bild-2022/bild-2022-08-17T01:00:47.841883+02:00.jpg">
@@ -331,29 +349,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/bild-2022/bild-2022-08-12T13:37:03.263828+02:00.jpg">August 12 at 1:37 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/bild-2022/bild-2022-08-12T01:19:29.655700+02:00.jpg">
-  <img src="https://archive.org/download/bild-2022/bild-2022-08-12T01:19:29.655700+02:00.jpg"
-     alt="Bild at 2022-08-12 01:19:32+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bild-2022/bild-2022-08-12T01:19:29.655700+02:00.jpg">August 12 at 1:19 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/bild-2022/bild-2022-08-11T13:34:30.632987+02:00.jpg">
-  <img src="https://archive.org/download/bild-2022/bild-2022-08-11T13:34:30.632987+02:00.jpg"
-     alt="Bild at 2022-08-11 13:34:32+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bild-2022/bild-2022-08-11T13:34:30.632987+02:00.jpg">August 11 at 1:34 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 13 hyperlink lists with the Internet Archive.
+The archiving routine has saved 15 hyperlink lists with the Internet Archive.
 
 
 
@@ -361,6 +361,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 18 at 12:58 AM](https://archive.org/download/bild-2022/bild-2022-08-18T00:57:57.800775+02:00.hyperlinks.json) |
+| [August 17 at 12:53 PM](https://archive.org/download/bild-2022/bild-2022-08-17T12:53:26.319635+02:00.hyperlinks.json) |
 | [August 17 at 1:00 AM](https://archive.org/download/bild-2022/bild-2022-08-17T01:00:47.841883+02:00.hyperlinks.json) |
 | [August 16 at 3:28 PM](https://archive.org/download/bild-2022/bild-2022-08-16T15:28:11.109926+02:00.hyperlinks.json) |
 | [August 16 at 3:15 AM](https://archive.org/download/bild-2022/bild-2022-08-16T03:15:41.358474+02:00.hyperlinks.json) |
@@ -369,13 +371,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 14 at 3:24 PM](https://archive.org/download/bild-2022/bild-2022-08-14T15:24:12.234570+02:00.hyperlinks.json) |
 | [August 14 at 1:47 AM](https://archive.org/download/bild-2022/bild-2022-08-14T01:47:14.114918+02:00.hyperlinks.json) |
 | [August 13 at 2:52 PM](https://archive.org/download/bild-2022/bild-2022-08-13T14:52:28.796128+02:00.hyperlinks.json) |
-| [August 13 at 2:26 AM](https://archive.org/download/bild-2022/bild-2022-08-13T02:26:22.043331+02:00.hyperlinks.json) |
-| [August 12 at 1:37 PM](https://archive.org/download/bild-2022/bild-2022-08-12T13:37:03.263828+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 13 accessibility trees with the Internet Archive.
+The archiving routine has saved 15 accessibility trees with the Internet Archive.
 
 
 
@@ -383,6 +383,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 18 at 12:58 AM](https://archive.org/download/bild-2022/bild-2022-08-18T00:57:57.800775+02:00.accessibility.json) |
+| [August 17 at 12:53 PM](https://archive.org/download/bild-2022/bild-2022-08-17T12:53:26.319635+02:00.accessibility.json) |
 | [August 17 at 1:00 AM](https://archive.org/download/bild-2022/bild-2022-08-17T01:00:47.841883+02:00.accessibility.json) |
 | [August 16 at 3:28 PM](https://archive.org/download/bild-2022/bild-2022-08-16T15:28:11.109926+02:00.accessibility.json) |
 | [August 16 at 3:15 AM](https://archive.org/download/bild-2022/bild-2022-08-16T03:15:41.358474+02:00.accessibility.json) |
@@ -391,14 +393,12 @@ Here are the 10 most recent accessibility trees.
 | [August 14 at 3:24 PM](https://archive.org/download/bild-2022/bild-2022-08-14T15:24:12.234570+02:00.accessibility.json) |
 | [August 14 at 1:47 AM](https://archive.org/download/bild-2022/bild-2022-08-14T01:47:14.114918+02:00.accessibility.json) |
 | [August 13 at 2:52 PM](https://archive.org/download/bild-2022/bild-2022-08-13T14:52:28.796128+02:00.accessibility.json) |
-| [August 13 at 2:26 AM](https://archive.org/download/bild-2022/bild-2022-08-13T02:26:22.043331+02:00.accessibility.json) |
-| [August 12 at 1:37 PM](https://archive.org/download/bild-2022/bild-2022-08-12T13:37:03.263828+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 13 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 15 Lighthouse audits with the Internet Archive.
 
 
 
@@ -406,6 +406,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 18 at 12:58 AM](https://archive.org/download/bild-2022/bild-2022-08-18T00:57:57.800775+02:00.lighthouse.json) |
+| [August 17 at 12:53 PM](https://archive.org/download/bild-2022/bild-2022-08-17T12:53:26.319635+02:00.lighthouse.json) |
 | [August 17 at 1:00 AM](https://archive.org/download/bild-2022/bild-2022-08-17T01:00:47.841883+02:00.lighthouse.json) |
 | [August 16 at 3:28 PM](https://archive.org/download/bild-2022/bild-2022-08-16T15:28:11.109926+02:00.lighthouse.json) |
 | [August 16 at 3:15 AM](https://archive.org/download/bild-2022/bild-2022-08-16T03:15:41.358474+02:00.lighthouse.json) |
@@ -414,8 +416,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 14 at 3:24 PM](https://archive.org/download/bild-2022/bild-2022-08-14T15:24:12.234570+02:00.lighthouse.json) |
 | [August 14 at 1:47 AM](https://archive.org/download/bild-2022/bild-2022-08-14T01:47:14.114918+02:00.lighthouse.json) |
 | [August 13 at 2:52 PM](https://archive.org/download/bild-2022/bild-2022-08-13T14:52:28.796128+02:00.lighthouse.json) |
-| [August 13 at 2:26 AM](https://archive.org/download/bild-2022/bild-2022-08-13T02:26:22.043331+02:00.lighthouse.json) |
-| [August 12 at 1:37 PM](https://archive.org/download/bild-2022/bild-2022-08-12T13:37:03.263828+02:00.lighthouse.json) |
 
 
 

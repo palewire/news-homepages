@@ -233,7 +233,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 33 screenshots with the Internet Archive.
+The archiving routine has saved 35 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -325,6 +325,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/heraldleader-2022/heraldleader-2022-08-17T11:02:47.216925-04:00.jpg">
+  <img src="https://archive.org/download/heraldleader-2022/heraldleader-2022-08-17T11:02:47.216925-04:00.jpg"
+     alt="Lexington Herald-Leader at 2022-08-17 11:02:49-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/heraldleader-2022/heraldleader-2022-08-17T11:02:47.216925-04:00.jpg">August 17 at 11:02 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/heraldleader-2022/heraldleader-2022-08-16T22:27:40.868581-04:00.jpg">
+  <img src="https://archive.org/download/heraldleader-2022/heraldleader-2022-08-16T22:27:40.868581-04:00.jpg"
+     alt="Lexington Herald-Leader at 2022-08-16 22:27:42-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/heraldleader-2022/heraldleader-2022-08-16T22:27:40.868581-04:00.jpg">August 16 at 10:27 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/heraldleader-2022/heraldleader-2022-08-16T14:31:00.455261-04:00.jpg">
   <img src="https://archive.org/download/heraldleader-2022/heraldleader-2022-08-16T14:31:00.455261-04:00.jpg"
      alt="Lexington Herald-Leader at 2022-08-16 14:31:02-04:00 local time"
@@ -414,29 +432,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/heraldleader-2022/heraldleader-2022-08-12T06:00:02.707625-04:00.jpg">August 12 at 6:00 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/heraldleader-2022/heraldleader-2022-08-11T14:41:03.023037-04:00.jpg">
-  <img src="https://archive.org/download/heraldleader-2022/heraldleader-2022-08-11T14:41:03.023037-04:00.jpg"
-     alt="Lexington Herald-Leader at 2022-08-11 14:41:05-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/heraldleader-2022/heraldleader-2022-08-11T14:41:03.023037-04:00.jpg">August 11 at 2:41 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/heraldleader-2022/heraldleader-2022-08-10T23:52:57.499577-04:00.jpg">
-  <img src="https://archive.org/download/heraldleader-2022/heraldleader-2022-08-10T23:52:57.499577-04:00.jpg"
-     alt="Lexington Herald-Leader at 2022-08-10 23:52:58-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/heraldleader-2022/heraldleader-2022-08-10T23:52:57.499577-04:00.jpg">August 10 at 11:52 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 17 hyperlink lists with the Internet Archive.
+The archiving routine has saved 18 hyperlink lists with the Internet Archive.
 
 
 
@@ -444,6 +444,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 17 at 11:02 AM](https://archive.org/download/heraldleader-2022/heraldleader-2022-08-17T11:02:47.216925-04:00.hyperlinks.json) |
 | [August 16 at 2:31 PM](https://archive.org/download/heraldleader-2022/heraldleader-2022-08-16T14:31:00.455261-04:00.hyperlinks.json) |
 | [August 16 at 2:35 AM](https://archive.org/download/heraldleader-2022/heraldleader-2022-08-16T02:34:55.585646-04:00.hyperlinks.json) |
 | [August 15 at 3:53 PM](https://archive.org/download/heraldleader-2022/heraldleader-2022-08-15T15:53:37.212857-04:00.hyperlinks.json) |
@@ -453,12 +454,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 8 at 11:45 PM](https://archive.org/download/heraldleader-2022/heraldleader-2022-08-08T23:45:07.266957-04:00.hyperlinks.json) |
 | [August 8 at 1:09 AM](https://archive.org/download/heraldleader-2022/heraldleader-2022-08-08T01:09:47.653087-04:00.hyperlinks.json) |
 | [August 7 at 12:51 PM](https://archive.org/download/heraldleader-2022/heraldleader-2022-08-07T12:51:03.199975-04:00.hyperlinks.json) |
-| [August 6 at 11:23 PM](https://archive.org/download/heraldleader-2022/heraldleader-2022-08-06T23:23:30.453105-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 33 accessibility trees with the Internet Archive.
+The archiving routine has saved 35 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -549,6 +549,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 17 at 11:02 AM](https://archive.org/download/heraldleader-2022/heraldleader-2022-08-17T11:02:47.216925-04:00.accessibility.json) |
+| [August 16 at 10:27 PM](https://archive.org/download/heraldleader-2022/heraldleader-2022-08-16T22:27:40.868581-04:00.accessibility.json) |
 | [August 16 at 2:31 PM](https://archive.org/download/heraldleader-2022/heraldleader-2022-08-16T14:31:00.455261-04:00.accessibility.json) |
 | [August 16 at 2:34 AM](https://archive.org/download/heraldleader-2022/heraldleader-2022-08-16T02:34:55.585646-04:00.accessibility.json) |
 | [August 15 at 3:53 PM](https://archive.org/download/heraldleader-2022/heraldleader-2022-08-15T15:53:37.212857-04:00.accessibility.json) |
@@ -557,14 +559,12 @@ Here are the 10 most recent accessibility trees.
 | [August 14 at 2:49 AM](https://archive.org/download/heraldleader-2022/heraldleader-2022-08-14T02:49:05.362793-04:00.accessibility.json) |
 | [August 13 at 4:24 PM](https://archive.org/download/heraldleader-2022/heraldleader-2022-08-13T16:24:29.634528-04:00.accessibility.json) |
 | [August 12 at 11:43 PM](https://archive.org/download/heraldleader-2022/heraldleader-2022-08-12T23:43:11.097476-04:00.accessibility.json) |
-| [August 12 at 1:50 PM](https://archive.org/download/heraldleader-2022/heraldleader-2022-08-12T13:50:07.063572-04:00.accessibility.json) |
-| [August 12 at 6:00 AM](https://archive.org/download/heraldleader-2022/heraldleader-2022-08-12T06:00:02.707625-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 33 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 35 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -655,6 +655,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 17 at 11:02 AM](https://archive.org/download/heraldleader-2022/heraldleader-2022-08-17T11:02:47.216925-04:00.lighthouse.json) |
+| [August 16 at 10:27 PM](https://archive.org/download/heraldleader-2022/heraldleader-2022-08-16T22:27:40.868581-04:00.lighthouse.json) |
 | [August 16 at 2:31 PM](https://archive.org/download/heraldleader-2022/heraldleader-2022-08-16T14:31:00.455261-04:00.lighthouse.json) |
 | [August 16 at 2:35 AM](https://archive.org/download/heraldleader-2022/heraldleader-2022-08-16T02:34:55.585646-04:00.lighthouse.json) |
 | [August 15 at 3:53 PM](https://archive.org/download/heraldleader-2022/heraldleader-2022-08-15T15:53:37.212857-04:00.lighthouse.json) |
@@ -663,8 +665,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 14 at 2:49 AM](https://archive.org/download/heraldleader-2022/heraldleader-2022-08-14T02:49:05.362793-04:00.lighthouse.json) |
 | [August 13 at 4:24 PM](https://archive.org/download/heraldleader-2022/heraldleader-2022-08-13T16:24:29.634528-04:00.lighthouse.json) |
 | [August 12 at 11:43 PM](https://archive.org/download/heraldleader-2022/heraldleader-2022-08-12T23:43:11.097476-04:00.lighthouse.json) |
-| [August 12 at 1:50 PM](https://archive.org/download/heraldleader-2022/heraldleader-2022-08-12T13:50:07.063572-04:00.lighthouse.json) |
-| [August 12 at 6:00 AM](https://archive.org/download/heraldleader-2022/heraldleader-2022-08-12T06:00:02.707625-04:00.lighthouse.json) |
 
 
 

@@ -28,13 +28,40 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 2 screenshots with the Internet Archive.
+The archiving routine has saved 5 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-08-17T18:53:36.406490-05:00.jpg">
+  <img src="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-08-17T18:53:36.406490-05:00.jpg"
+     alt="MVS Noticias at 2022-08-17 18:53:38-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-08-17T18:53:36.406490-05:00.jpg">August 17 at 6:53 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-08-17T08:13:16.411175-05:00.jpg">
+  <img src="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-08-17T08:13:16.411175-05:00.jpg"
+     alt="MVS Noticias at 2022-08-17 08:13:18-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-08-17T08:13:16.411175-05:00.jpg">August 17 at 8:13 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-08-17T06:52:38.698918-05:00.jpg">
+  <img src="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-08-17T06:52:38.698918-05:00.jpg"
+     alt="MVS Noticias at 2022-08-17 06:52:40-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-08-17T06:52:38.698918-05:00.jpg">August 17 at 6:52 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-08-16T19:08:24.445105-05:00.jpg">
@@ -58,7 +85,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 2 hyperlink lists with the Internet Archive.
+The archiving routine has saved 5 hyperlink lists with the Internet Archive.
 
 
 
@@ -66,13 +93,16 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 17 at 6:53 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-08-17T18:53:36.406490-05:00.hyperlinks.json) |
+| [August 17 at 8:13 AM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-08-17T08:13:16.411175-05:00.hyperlinks.json) |
+| [August 17 at 6:52 AM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-08-17T06:52:38.698918-05:00.hyperlinks.json) |
 | [August 16 at 7:08 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-08-16T19:08:24.445105-05:00.hyperlinks.json) |
 | [August 16 at 12:11 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-08-16T12:10:39.985868-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 2 accessibility trees with the Internet Archive.
+The archiving routine has saved 5 accessibility trees with the Internet Archive.
 
 
 
@@ -80,6 +110,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 17 at 6:53 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-08-17T18:53:36.406490-05:00.accessibility.json) |
+| [August 17 at 8:13 AM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-08-17T08:13:16.411175-05:00.accessibility.json) |
+| [August 17 at 6:52 AM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-08-17T06:52:38.698918-05:00.accessibility.json) |
 | [August 16 at 7:08 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-08-16T19:08:24.445105-05:00.accessibility.json) |
 | [August 16 at 12:10 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-08-16T12:10:39.985868-05:00.accessibility.json) |
 
@@ -87,7 +120,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 2 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 5 Lighthouse audits with the Internet Archive.
 
 
 
@@ -95,6 +128,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 17 at 6:53 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-08-17T18:53:36.406490-05:00.lighthouse.json) |
+| [August 17 at 8:13 AM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-08-17T08:13:16.411175-05:00.lighthouse.json) |
+| [August 17 at 6:52 AM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-08-17T06:52:38.698918-05:00.lighthouse.json) |
 | [August 16 at 7:08 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-08-16T19:08:24.445105-05:00.lighthouse.json) |
 | [August 16 at 12:11 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-08-16T12:10:39.985868-05:00.lighthouse.json) |
 

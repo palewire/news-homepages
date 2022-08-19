@@ -233,7 +233,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 79 screenshots with the Internet Archive.
+The archiving routine has saved 81 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -325,6 +325,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-08-17T09:07:47.100356-04:00.jpg">
+  <img src="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-08-17T09:07:47.100356-04:00.jpg"
+     alt="Spotlight PA at 2022-08-17 09:07:50-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-08-17T09:07:47.100356-04:00.jpg">August 17 at 9:07 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-08-16T21:20:45.057821-04:00.jpg">
+  <img src="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-08-16T21:20:45.057821-04:00.jpg"
+     alt="Spotlight PA at 2022-08-16 21:20:46-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-08-16T21:20:45.057821-04:00.jpg">August 16 at 9:20 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-08-16T13:20:29.060792-04:00.jpg">
   <img src="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-08-16T13:20:29.060792-04:00.jpg"
      alt="Spotlight PA at 2022-08-16 13:20:32-04:00 local time"
@@ -414,29 +432,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-08-12T05:32:50.480308-04:00.jpg">August 12 at 5:32 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-08-11T13:05:44.084216-04:00.jpg">
-  <img src="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-08-11T13:05:44.084216-04:00.jpg"
-     alt="Spotlight PA at 2022-08-11 13:05:49-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-08-11T13:05:44.084216-04:00.jpg">August 11 at 1:05 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-08-10T22:25:44.882183-04:00.jpg">
-  <img src="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-08-10T22:25:44.882183-04:00.jpg"
-     alt="Spotlight PA at 2022-08-10 22:25:45-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/spotlightpa-2022/spotlightpa-2022-08-10T22:25:44.882183-04:00.jpg">August 10 at 10:25 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 80 hyperlink lists with the Internet Archive.
+The archiving routine has saved 82 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 17 at 9:07 AM](https://archive.org/download/spotlightpa-2022/spotlightpa-2022-08-17T09:07:47.100356-04:00.hyperlinks.json) |
+| [August 16 at 9:20 PM](https://archive.org/download/spotlightpa-2022/spotlightpa-2022-08-16T21:20:45.057821-04:00.hyperlinks.json) |
 | [August 16 at 1:20 PM](https://archive.org/download/spotlightpa-2022/spotlightpa-2022-08-16T13:20:29.060792-04:00.hyperlinks.json) |
 | [August 16 at 2:17 AM](https://archive.org/download/spotlightpa-2022/spotlightpa-2022-08-16T02:16:57.252434-04:00.hyperlinks.json) |
 | [August 15 at 3:35 PM](https://archive.org/download/spotlightpa-2022/spotlightpa-2022-08-15T15:35:13.814275-04:00.hyperlinks.json) |
@@ -535,13 +537,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 14 at 1:04 AM](https://archive.org/download/spotlightpa-2022/spotlightpa-2022-08-14T01:04:17.020442-04:00.hyperlinks.json) |
 | [August 13 at 4:42 PM](https://archive.org/download/spotlightpa-2022/spotlightpa-2022-08-13T16:42:26.199843-04:00.hyperlinks.json) |
 | [August 12 at 10:14 PM](https://archive.org/download/spotlightpa-2022/spotlightpa-2022-08-12T22:14:41.198391-04:00.hyperlinks.json) |
-| [August 12 at 12:22 PM](https://archive.org/download/spotlightpa-2022/spotlightpa-2022-08-12T12:22:25.376693-04:00.hyperlinks.json) |
-| [August 12 at 5:32 AM](https://archive.org/download/spotlightpa-2022/spotlightpa-2022-08-12T05:32:50.480308-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 80 accessibility trees with the Internet Archive.
+The archiving routine has saved 82 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -632,6 +632,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 17 at 9:07 AM](https://archive.org/download/spotlightpa-2022/spotlightpa-2022-08-17T09:07:47.100356-04:00.accessibility.json) |
+| [August 16 at 9:20 PM](https://archive.org/download/spotlightpa-2022/spotlightpa-2022-08-16T21:20:45.057821-04:00.accessibility.json) |
 | [August 16 at 1:20 PM](https://archive.org/download/spotlightpa-2022/spotlightpa-2022-08-16T13:20:29.060792-04:00.accessibility.json) |
 | [August 16 at 2:17 AM](https://archive.org/download/spotlightpa-2022/spotlightpa-2022-08-16T02:16:57.252434-04:00.accessibility.json) |
 | [August 15 at 3:35 PM](https://archive.org/download/spotlightpa-2022/spotlightpa-2022-08-15T15:35:13.814275-04:00.accessibility.json) |
@@ -640,14 +642,12 @@ Here are the 10 most recent accessibility trees.
 | [August 14 at 1:04 AM](https://archive.org/download/spotlightpa-2022/spotlightpa-2022-08-14T01:04:17.020442-04:00.accessibility.json) |
 | [August 13 at 4:42 PM](https://archive.org/download/spotlightpa-2022/spotlightpa-2022-08-13T16:42:26.199843-04:00.accessibility.json) |
 | [August 12 at 10:14 PM](https://archive.org/download/spotlightpa-2022/spotlightpa-2022-08-12T22:14:41.198391-04:00.accessibility.json) |
-| [August 12 at 12:22 PM](https://archive.org/download/spotlightpa-2022/spotlightpa-2022-08-12T12:22:25.376693-04:00.accessibility.json) |
-| [August 12 at 5:32 AM](https://archive.org/download/spotlightpa-2022/spotlightpa-2022-08-12T05:32:50.480308-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 50 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 52 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -738,6 +738,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 17 at 9:07 AM](https://archive.org/download/spotlightpa-2022/spotlightpa-2022-08-17T09:07:47.100356-04:00.lighthouse.json) |
+| [August 16 at 9:20 PM](https://archive.org/download/spotlightpa-2022/spotlightpa-2022-08-16T21:20:45.057821-04:00.lighthouse.json) |
 | [August 16 at 1:20 PM](https://archive.org/download/spotlightpa-2022/spotlightpa-2022-08-16T13:20:29.060792-04:00.lighthouse.json) |
 | [August 16 at 2:17 AM](https://archive.org/download/spotlightpa-2022/spotlightpa-2022-08-16T02:16:57.252434-04:00.lighthouse.json) |
 | [August 15 at 3:35 PM](https://archive.org/download/spotlightpa-2022/spotlightpa-2022-08-15T15:35:13.814275-04:00.lighthouse.json) |
@@ -746,8 +748,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 14 at 1:04 AM](https://archive.org/download/spotlightpa-2022/spotlightpa-2022-08-14T01:04:17.020442-04:00.lighthouse.json) |
 | [August 13 at 4:42 PM](https://archive.org/download/spotlightpa-2022/spotlightpa-2022-08-13T16:42:26.199843-04:00.lighthouse.json) |
 | [August 12 at 10:14 PM](https://archive.org/download/spotlightpa-2022/spotlightpa-2022-08-12T22:14:41.198391-04:00.lighthouse.json) |
-| [August 12 at 12:22 PM](https://archive.org/download/spotlightpa-2022/spotlightpa-2022-08-12T12:22:25.376693-04:00.lighthouse.json) |
-| [August 12 at 5:33 AM](https://archive.org/download/spotlightpa-2022/spotlightpa-2022-08-12T05:32:50.480308-04:00.lighthouse.json) |
 
 
 

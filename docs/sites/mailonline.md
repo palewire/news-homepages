@@ -233,7 +233,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 162 screenshots with the Internet Archive.
+The archiving routine has saved 164 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -325,6 +325,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/mailonline-2022/mailonline-2022-08-18T00:52:04.096396+01:00.jpg">
+  <img src="https://archive.org/download/mailonline-2022/mailonline-2022-08-18T00:52:04.096396+01:00.jpg"
+     alt="Daily Mail at 2022-08-18 00:52:12+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-08-18T00:52:04.096396+01:00.jpg">August 18 at 12:52 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mailonline-2022/mailonline-2022-08-17T12:51:04.831728+01:00.jpg">
+  <img src="https://archive.org/download/mailonline-2022/mailonline-2022-08-17T12:51:04.831728+01:00.jpg"
+     alt="Daily Mail at 2022-08-17 12:51:11+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-08-17T12:51:04.831728+01:00.jpg">August 17 at 12:51 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/mailonline-2022/mailonline-2022-08-17T01:06:09.029341+01:00.jpg">
   <img src="https://archive.org/download/mailonline-2022/mailonline-2022-08-17T01:06:09.029341+01:00.jpg"
      alt="Daily Mail at 2022-08-17 01:06:16+01:00 local time"
@@ -414,29 +432,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-08-14T04:15:25.385986+01:00.jpg">August 14 at 4:15 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/mailonline-2022/mailonline-2022-08-13T14:12:17.680201+01:00.jpg">
-  <img src="https://archive.org/download/mailonline-2022/mailonline-2022-08-13T14:12:17.680201+01:00.jpg"
-     alt="Daily Mail at 2022-08-13 14:12:24+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-08-13T14:12:17.680201+01:00.jpg">August 13 at 2:12 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mailonline-2022/mailonline-2022-08-13T10:10:49.086640+01:00.jpg">
-  <img src="https://archive.org/download/mailonline-2022/mailonline-2022-08-13T10:10:49.086640+01:00.jpg"
-     alt="Daily Mail at 2022-08-13 10:10:59+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-08-13T10:10:49.086640+01:00.jpg">August 13 at 10:10 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 118 hyperlink lists with the Internet Archive.
+The archiving routine has saved 120 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 18 at 12:52 AM](https://archive.org/download/mailonline-2022/mailonline-2022-08-18T00:52:04.096396+01:00.hyperlinks.json) |
+| [August 17 at 12:51 PM](https://archive.org/download/mailonline-2022/mailonline-2022-08-17T12:51:04.831728+01:00.hyperlinks.json) |
 | [August 17 at 1:06 AM](https://archive.org/download/mailonline-2022/mailonline-2022-08-17T01:06:09.029341+01:00.hyperlinks.json) |
 | [August 16 at 3:00 PM](https://archive.org/download/mailonline-2022/mailonline-2022-08-16T15:00:39.399671+01:00.hyperlinks.json) |
 | [August 16 at 10:12 AM](https://archive.org/download/mailonline-2022/mailonline-2022-08-16T10:12:30.714087+01:00.hyperlinks.json) |
@@ -535,13 +537,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 15 at 10:13 AM](https://archive.org/download/mailonline-2022/mailonline-2022-08-15T10:13:27.717541+01:00.hyperlinks.json) |
 | [August 15 at 2:21 AM](https://archive.org/download/mailonline-2022/mailonline-2022-08-15T02:21:18.572578+01:00.hyperlinks.json) |
 | [August 14 at 2:49 PM](https://archive.org/download/mailonline-2022/mailonline-2022-08-14T14:49:08.302050+01:00.hyperlinks.json) |
-| [August 14 at 4:15 AM](https://archive.org/download/mailonline-2022/mailonline-2022-08-14T04:15:25.385986+01:00.hyperlinks.json) |
-| [August 12 at 2:23 PM](https://archive.org/download/mailonline-2022/mailonline-2022-08-12T14:23:22.135890+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 124 accessibility trees with the Internet Archive.
+The archiving routine has saved 126 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -632,6 +632,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 18 at 12:52 AM](https://archive.org/download/mailonline-2022/mailonline-2022-08-18T00:52:04.096396+01:00.accessibility.json) |
+| [August 17 at 12:51 PM](https://archive.org/download/mailonline-2022/mailonline-2022-08-17T12:51:04.831728+01:00.accessibility.json) |
 | [August 16 at 10:12 AM](https://archive.org/download/mailonline-2022/mailonline-2022-08-16T10:12:30.714087+01:00.accessibility.json) |
 | [August 15 at 3:18 PM](https://archive.org/download/mailonline-2022/mailonline-2022-08-15T15:18:24.320759+01:00.accessibility.json) |
 | [August 15 at 10:13 AM](https://archive.org/download/mailonline-2022/mailonline-2022-08-15T10:13:27.717541+01:00.accessibility.json) |
@@ -640,14 +642,12 @@ Here are the 10 most recent accessibility trees.
 | [August 14 at 10:12 AM](https://archive.org/download/mailonline-2022/mailonline-2022-08-14T10:11:59.451587+01:00.accessibility.json) |
 | [August 14 at 4:15 AM](https://archive.org/download/mailonline-2022/mailonline-2022-08-14T04:15:25.385986+01:00.accessibility.json) |
 | [August 13 at 10:11 AM](https://archive.org/download/mailonline-2022/mailonline-2022-08-13T10:10:49.086640+01:00.accessibility.json) |
-| [August 13 at 1:42 AM](https://archive.org/download/mailonline-2022/mailonline-2022-08-13T01:42:46.095215+01:00.accessibility.json) |
-| [August 12 at 2:23 PM](https://archive.org/download/mailonline-2022/mailonline-2022-08-12T14:23:22.135890+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 73 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 75 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -738,6 +738,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 18 at 12:52 AM](https://archive.org/download/mailonline-2022/mailonline-2022-08-18T00:52:04.096396+01:00.lighthouse.json) |
+| [August 17 at 12:51 PM](https://archive.org/download/mailonline-2022/mailonline-2022-08-17T12:51:04.831728+01:00.lighthouse.json) |
 | [August 17 at 1:06 AM](https://archive.org/download/mailonline-2022/mailonline-2022-08-17T01:06:09.029341+01:00.lighthouse.json) |
 | [August 16 at 3:00 PM](https://archive.org/download/mailonline-2022/mailonline-2022-08-16T15:00:39.399671+01:00.lighthouse.json) |
 | [August 16 at 10:12 AM](https://archive.org/download/mailonline-2022/mailonline-2022-08-16T10:12:30.714087+01:00.lighthouse.json) |
@@ -746,8 +748,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 15 at 10:13 AM](https://archive.org/download/mailonline-2022/mailonline-2022-08-15T10:13:27.717541+01:00.lighthouse.json) |
 | [August 15 at 2:21 AM](https://archive.org/download/mailonline-2022/mailonline-2022-08-15T02:21:18.572578+01:00.lighthouse.json) |
 | [August 14 at 2:49 PM](https://archive.org/download/mailonline-2022/mailonline-2022-08-14T14:49:08.302050+01:00.lighthouse.json) |
-| [August 14 at 10:12 AM](https://archive.org/download/mailonline-2022/mailonline-2022-08-14T10:11:59.451587+01:00.lighthouse.json) |
-| [August 14 at 4:15 AM](https://archive.org/download/mailonline-2022/mailonline-2022-08-14T04:15:25.385986+01:00.lighthouse.json) |
 
 
 

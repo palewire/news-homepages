@@ -233,7 +233,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 122 screenshots with the Internet Archive.
+The archiving routine has saved 124 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -325,6 +325,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-08-17T09:08:52.276722-04:00.jpg">
+  <img src="https://archive.org/download/theatlantic-2022/theatlantic-2022-08-17T09:08:52.276722-04:00.jpg"
+     alt="Atlantic at 2022-08-17 09:08:55-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-08-17T09:08:52.276722-04:00.jpg">August 17 at 9:08 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-08-16T21:22:21.104420-04:00.jpg">
+  <img src="https://archive.org/download/theatlantic-2022/theatlantic-2022-08-16T21:22:21.104420-04:00.jpg"
+     alt="Atlantic at 2022-08-16 21:22:23-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-08-16T21:22:21.104420-04:00.jpg">August 16 at 9:22 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-08-16T13:22:03.490639-04:00.jpg">
   <img src="https://archive.org/download/theatlantic-2022/theatlantic-2022-08-16T13:22:03.490639-04:00.jpg"
      alt="Atlantic at 2022-08-16 13:22:05-04:00 local time"
@@ -414,29 +432,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-08-12T05:34:09.129896-04:00.jpg">August 12 at 5:34 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-08-11T13:07:25.430889-04:00.jpg">
-  <img src="https://archive.org/download/theatlantic-2022/theatlantic-2022-08-11T13:07:25.430889-04:00.jpg"
-     alt="Atlantic at 2022-08-11 13:07:26-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-08-11T13:07:25.430889-04:00.jpg">August 11 at 1:07 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-08-10T22:27:22.140789-04:00.jpg">
-  <img src="https://archive.org/download/theatlantic-2022/theatlantic-2022-08-10T22:27:22.140789-04:00.jpg"
-     alt="Atlantic at 2022-08-10 22:27:23-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theatlantic-2022/theatlantic-2022-08-10T22:27:22.140789-04:00.jpg">August 10 at 10:27 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 125 hyperlink lists with the Internet Archive.
+The archiving routine has saved 127 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 17 at 9:08 AM](https://archive.org/download/theatlantic-2022/theatlantic-2022-08-17T09:08:52.276722-04:00.hyperlinks.json) |
+| [August 16 at 9:22 PM](https://archive.org/download/theatlantic-2022/theatlantic-2022-08-16T21:22:21.104420-04:00.hyperlinks.json) |
 | [August 16 at 1:22 PM](https://archive.org/download/theatlantic-2022/theatlantic-2022-08-16T13:22:03.490639-04:00.hyperlinks.json) |
 | [August 16 at 2:18 AM](https://archive.org/download/theatlantic-2022/theatlantic-2022-08-16T02:18:26.983373-04:00.hyperlinks.json) |
 | [August 15 at 3:36 PM](https://archive.org/download/theatlantic-2022/theatlantic-2022-08-15T15:36:33.162401-04:00.hyperlinks.json) |
@@ -535,13 +537,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 14 at 1:06 AM](https://archive.org/download/theatlantic-2022/theatlantic-2022-08-14T01:06:42.852519-04:00.hyperlinks.json) |
 | [August 13 at 4:44 PM](https://archive.org/download/theatlantic-2022/theatlantic-2022-08-13T16:44:31.760582-04:00.hyperlinks.json) |
 | [August 12 at 10:16 PM](https://archive.org/download/theatlantic-2022/theatlantic-2022-08-12T22:16:00.985556-04:00.hyperlinks.json) |
-| [August 12 at 12:24 PM](https://archive.org/download/theatlantic-2022/theatlantic-2022-08-12T12:23:54.005938-04:00.hyperlinks.json) |
-| [August 12 at 5:34 AM](https://archive.org/download/theatlantic-2022/theatlantic-2022-08-12T05:34:09.129896-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 125 accessibility trees with the Internet Archive.
+The archiving routine has saved 127 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -632,6 +632,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 17 at 9:08 AM](https://archive.org/download/theatlantic-2022/theatlantic-2022-08-17T09:08:52.276722-04:00.accessibility.json) |
+| [August 16 at 9:22 PM](https://archive.org/download/theatlantic-2022/theatlantic-2022-08-16T21:22:21.104420-04:00.accessibility.json) |
 | [August 16 at 1:22 PM](https://archive.org/download/theatlantic-2022/theatlantic-2022-08-16T13:22:03.490639-04:00.accessibility.json) |
 | [August 16 at 2:18 AM](https://archive.org/download/theatlantic-2022/theatlantic-2022-08-16T02:18:26.983373-04:00.accessibility.json) |
 | [August 15 at 3:36 PM](https://archive.org/download/theatlantic-2022/theatlantic-2022-08-15T15:36:33.162401-04:00.accessibility.json) |
@@ -640,14 +642,12 @@ Here are the 10 most recent accessibility trees.
 | [August 14 at 1:06 AM](https://archive.org/download/theatlantic-2022/theatlantic-2022-08-14T01:06:42.852519-04:00.accessibility.json) |
 | [August 13 at 4:44 PM](https://archive.org/download/theatlantic-2022/theatlantic-2022-08-13T16:44:31.760582-04:00.accessibility.json) |
 | [August 12 at 10:16 PM](https://archive.org/download/theatlantic-2022/theatlantic-2022-08-12T22:16:00.985556-04:00.accessibility.json) |
-| [August 12 at 12:24 PM](https://archive.org/download/theatlantic-2022/theatlantic-2022-08-12T12:23:54.005938-04:00.accessibility.json) |
-| [August 12 at 5:34 AM](https://archive.org/download/theatlantic-2022/theatlantic-2022-08-12T05:34:09.129896-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 51 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 53 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -738,6 +738,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 17 at 9:09 AM](https://archive.org/download/theatlantic-2022/theatlantic-2022-08-17T09:08:52.276722-04:00.lighthouse.json) |
+| [August 16 at 9:22 PM](https://archive.org/download/theatlantic-2022/theatlantic-2022-08-16T21:22:21.104420-04:00.lighthouse.json) |
 | [August 16 at 1:22 PM](https://archive.org/download/theatlantic-2022/theatlantic-2022-08-16T13:22:03.490639-04:00.lighthouse.json) |
 | [August 16 at 2:18 AM](https://archive.org/download/theatlantic-2022/theatlantic-2022-08-16T02:18:26.983373-04:00.lighthouse.json) |
 | [August 15 at 3:36 PM](https://archive.org/download/theatlantic-2022/theatlantic-2022-08-15T15:36:33.162401-04:00.lighthouse.json) |
@@ -746,8 +748,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 14 at 1:06 AM](https://archive.org/download/theatlantic-2022/theatlantic-2022-08-14T01:06:42.852519-04:00.lighthouse.json) |
 | [August 13 at 4:44 PM](https://archive.org/download/theatlantic-2022/theatlantic-2022-08-13T16:44:31.760582-04:00.lighthouse.json) |
 | [August 12 at 10:16 PM](https://archive.org/download/theatlantic-2022/theatlantic-2022-08-12T22:16:00.985556-04:00.lighthouse.json) |
-| [August 12 at 12:24 PM](https://archive.org/download/theatlantic-2022/theatlantic-2022-08-12T12:23:54.005938-04:00.lighthouse.json) |
-| [August 12 at 5:34 AM](https://archive.org/download/theatlantic-2022/theatlantic-2022-08-12T05:34:09.129896-04:00.lighthouse.json) |
 
 
 

@@ -233,7 +233,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 100 screenshots with the Internet Archive.
+The archiving routine has saved 102 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -325,6 +325,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/billy_penn-2022/billy_penn-2022-08-17T09:05:32.186896-04:00.jpg">
+  <img src="https://archive.org/download/billy_penn-2022/billy_penn-2022-08-17T09:05:32.186896-04:00.jpg"
+     alt="Billy Penn at 2022-08-17 09:05:38-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/billy_penn-2022/billy_penn-2022-08-17T09:05:32.186896-04:00.jpg">August 17 at 9:05 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/billy_penn-2022/billy_penn-2022-08-16T21:18:23.772622-04:00.jpg">
+  <img src="https://archive.org/download/billy_penn-2022/billy_penn-2022-08-16T21:18:23.772622-04:00.jpg"
+     alt="Billy Penn at 2022-08-16 21:18:27-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/billy_penn-2022/billy_penn-2022-08-16T21:18:23.772622-04:00.jpg">August 16 at 9:18 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/billy_penn-2022/billy_penn-2022-08-16T13:17:19.445681-04:00.jpg">
   <img src="https://archive.org/download/billy_penn-2022/billy_penn-2022-08-16T13:17:19.445681-04:00.jpg"
      alt="Billy Penn at 2022-08-16 13:17:23-04:00 local time"
@@ -414,29 +432,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/billy_penn-2022/billy_penn-2022-08-12T05:30:04.268509-04:00.jpg">August 12 at 5:30 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/billy_penn-2022/billy_penn-2022-08-11T13:02:06.048952-04:00.jpg">
-  <img src="https://archive.org/download/billy_penn-2022/billy_penn-2022-08-11T13:02:06.048952-04:00.jpg"
-     alt="Billy Penn at 2022-08-11 13:02:08-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/billy_penn-2022/billy_penn-2022-08-11T13:02:06.048952-04:00.jpg">August 11 at 1:02 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/billy_penn-2022/billy_penn-2022-08-10T22:23:00.373545-04:00.jpg">
-  <img src="https://archive.org/download/billy_penn-2022/billy_penn-2022-08-10T22:23:00.373545-04:00.jpg"
-     alt="Billy Penn at 2022-08-10 22:23:08-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/billy_penn-2022/billy_penn-2022-08-10T22:23:00.373545-04:00.jpg">August 10 at 10:23 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 101 hyperlink lists with the Internet Archive.
+The archiving routine has saved 103 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 17 at 9:05 AM](https://archive.org/download/billy_penn-2022/billy_penn-2022-08-17T09:05:32.186896-04:00.hyperlinks.json) |
+| [August 16 at 9:18 PM](https://archive.org/download/billy_penn-2022/billy_penn-2022-08-16T21:18:23.772622-04:00.hyperlinks.json) |
 | [August 16 at 1:17 PM](https://archive.org/download/billy_penn-2022/billy_penn-2022-08-16T13:17:19.445681-04:00.hyperlinks.json) |
 | [August 16 at 2:12 AM](https://archive.org/download/billy_penn-2022/billy_penn-2022-08-16T02:12:28.113216-04:00.hyperlinks.json) |
 | [August 15 at 3:30 PM](https://archive.org/download/billy_penn-2022/billy_penn-2022-08-15T15:30:51.244198-04:00.hyperlinks.json) |
@@ -535,13 +537,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 14 at 1:01 AM](https://archive.org/download/billy_penn-2022/billy_penn-2022-08-14T01:01:13.950341-04:00.hyperlinks.json) |
 | [August 13 at 4:39 PM](https://archive.org/download/billy_penn-2022/billy_penn-2022-08-13T16:39:14.783588-04:00.hyperlinks.json) |
 | [August 12 at 10:11 PM](https://archive.org/download/billy_penn-2022/billy_penn-2022-08-12T22:11:25.690697-04:00.hyperlinks.json) |
-| [August 12 at 12:19 PM](https://archive.org/download/billy_penn-2022/billy_penn-2022-08-12T12:19:36.045630-04:00.hyperlinks.json) |
-| [August 12 at 5:30 AM](https://archive.org/download/billy_penn-2022/billy_penn-2022-08-12T05:30:04.268509-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 101 accessibility trees with the Internet Archive.
+The archiving routine has saved 103 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -632,6 +632,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 17 at 9:05 AM](https://archive.org/download/billy_penn-2022/billy_penn-2022-08-17T09:05:32.186896-04:00.accessibility.json) |
+| [August 16 at 9:18 PM](https://archive.org/download/billy_penn-2022/billy_penn-2022-08-16T21:18:23.772622-04:00.accessibility.json) |
 | [August 16 at 1:17 PM](https://archive.org/download/billy_penn-2022/billy_penn-2022-08-16T13:17:19.445681-04:00.accessibility.json) |
 | [August 16 at 2:12 AM](https://archive.org/download/billy_penn-2022/billy_penn-2022-08-16T02:12:28.113216-04:00.accessibility.json) |
 | [August 15 at 3:30 PM](https://archive.org/download/billy_penn-2022/billy_penn-2022-08-15T15:30:51.244198-04:00.accessibility.json) |
@@ -640,14 +642,12 @@ Here are the 10 most recent accessibility trees.
 | [August 14 at 1:01 AM](https://archive.org/download/billy_penn-2022/billy_penn-2022-08-14T01:01:13.950341-04:00.accessibility.json) |
 | [August 13 at 4:39 PM](https://archive.org/download/billy_penn-2022/billy_penn-2022-08-13T16:39:14.783588-04:00.accessibility.json) |
 | [August 12 at 10:11 PM](https://archive.org/download/billy_penn-2022/billy_penn-2022-08-12T22:11:25.690697-04:00.accessibility.json) |
-| [August 12 at 12:19 PM](https://archive.org/download/billy_penn-2022/billy_penn-2022-08-12T12:19:36.045630-04:00.accessibility.json) |
-| [August 12 at 5:30 AM](https://archive.org/download/billy_penn-2022/billy_penn-2022-08-12T05:30:04.268509-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 51 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 53 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -738,6 +738,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 17 at 9:05 AM](https://archive.org/download/billy_penn-2022/billy_penn-2022-08-17T09:05:32.186896-04:00.lighthouse.json) |
+| [August 16 at 9:18 PM](https://archive.org/download/billy_penn-2022/billy_penn-2022-08-16T21:18:23.772622-04:00.lighthouse.json) |
 | [August 16 at 1:17 PM](https://archive.org/download/billy_penn-2022/billy_penn-2022-08-16T13:17:19.445681-04:00.lighthouse.json) |
 | [August 16 at 2:12 AM](https://archive.org/download/billy_penn-2022/billy_penn-2022-08-16T02:12:28.113216-04:00.lighthouse.json) |
 | [August 15 at 3:31 PM](https://archive.org/download/billy_penn-2022/billy_penn-2022-08-15T15:30:51.244198-04:00.lighthouse.json) |
@@ -746,8 +748,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 14 at 1:01 AM](https://archive.org/download/billy_penn-2022/billy_penn-2022-08-14T01:01:13.950341-04:00.lighthouse.json) |
 | [August 13 at 4:39 PM](https://archive.org/download/billy_penn-2022/billy_penn-2022-08-13T16:39:14.783588-04:00.lighthouse.json) |
 | [August 12 at 10:11 PM](https://archive.org/download/billy_penn-2022/billy_penn-2022-08-12T22:11:25.690697-04:00.lighthouse.json) |
-| [August 12 at 12:19 PM](https://archive.org/download/billy_penn-2022/billy_penn-2022-08-12T12:19:36.045630-04:00.lighthouse.json) |
-| [August 12 at 5:30 AM](https://archive.org/download/billy_penn-2022/billy_penn-2022-08-12T05:30:04.268509-04:00.lighthouse.json) |
 
 
 

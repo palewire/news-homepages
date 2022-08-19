@@ -233,7 +233,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 79 screenshots with the Internet Archive.
+The archiving routine has saved 81 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -325,6 +325,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-17T17:58:31.197308-05:00.jpg">
+  <img src="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-17T17:58:31.197308-05:00.jpg"
+     alt="Breckenridge Texan at 2022-08-17 17:58:32-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-17T17:58:31.197308-05:00.jpg">August 17 at 5:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-17T05:53:16.566518-05:00.jpg">
+  <img src="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-17T05:53:16.566518-05:00.jpg"
+     alt="Breckenridge Texan at 2022-08-17 05:53:18-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-17T05:53:16.566518-05:00.jpg">August 17 at 5:53 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-16T18:02:34.370022-05:00.jpg">
   <img src="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-16T18:02:34.370022-05:00.jpg"
      alt="Breckenridge Texan at 2022-08-16 18:02:37-05:00 local time"
@@ -414,29 +432,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-12T06:38:25.850385-05:00.jpg">August 12 at 6:38 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-11T18:21:56.902212-05:00.jpg">
-  <img src="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-11T18:21:56.902212-05:00.jpg"
-     alt="Breckenridge Texan at 2022-08-11 18:22:00-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-11T18:21:56.902212-05:00.jpg">August 11 at 6:22 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-11T06:35:54.976164-05:00.jpg">
-  <img src="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-11T06:35:54.976164-05:00.jpg"
-     alt="Breckenridge Texan at 2022-08-11 06:36:01-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/brecktexan-2022/brecktexan-2022-08-11T06:35:54.976164-05:00.jpg">August 11 at 6:36 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 79 hyperlink lists with the Internet Archive.
+The archiving routine has saved 81 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -527,6 +527,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 17 at 5:58 PM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-17T17:58:31.197308-05:00.hyperlinks.json) |
+| [August 17 at 5:53 AM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-17T05:53:16.566518-05:00.hyperlinks.json) |
 | [August 16 at 6:02 PM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-16T18:02:34.370022-05:00.hyperlinks.json) |
 | [August 16 at 8:29 AM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-16T08:29:18.953659-05:00.hyperlinks.json) |
 | [August 15 at 8:17 PM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-15T20:17:10.167343-05:00.hyperlinks.json) |
@@ -535,13 +537,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 14 at 8:25 AM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-14T08:25:23.289242-05:00.hyperlinks.json) |
 | [August 13 at 6:48 PM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-13T18:48:34.203378-05:00.hyperlinks.json) |
 | [August 13 at 7:53 AM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-13T07:53:19.370871-05:00.hyperlinks.json) |
-| [August 12 at 7:28 PM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-12T19:28:14.489670-05:00.hyperlinks.json) |
-| [August 12 at 6:38 AM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-12T06:38:25.850385-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 79 accessibility trees with the Internet Archive.
+The archiving routine has saved 81 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -632,6 +632,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 17 at 5:58 PM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-17T17:58:31.197308-05:00.accessibility.json) |
+| [August 17 at 5:53 AM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-17T05:53:16.566518-05:00.accessibility.json) |
 | [August 16 at 6:02 PM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-16T18:02:34.370022-05:00.accessibility.json) |
 | [August 16 at 8:29 AM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-16T08:29:18.953659-05:00.accessibility.json) |
 | [August 15 at 8:17 PM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-15T20:17:10.167343-05:00.accessibility.json) |
@@ -640,14 +642,12 @@ Here are the 10 most recent accessibility trees.
 | [August 14 at 8:25 AM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-14T08:25:23.289242-05:00.accessibility.json) |
 | [August 13 at 6:48 PM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-13T18:48:34.203378-05:00.accessibility.json) |
 | [August 13 at 7:53 AM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-13T07:53:19.370871-05:00.accessibility.json) |
-| [August 12 at 7:28 PM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-12T19:28:14.489670-05:00.accessibility.json) |
-| [August 12 at 6:38 AM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-12T06:38:25.850385-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 49 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 51 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -738,6 +738,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 17 at 5:58 PM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-17T17:58:31.197308-05:00.lighthouse.json) |
+| [August 17 at 5:53 AM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-17T05:53:16.566518-05:00.lighthouse.json) |
 | [August 16 at 6:02 PM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-16T18:02:34.370022-05:00.lighthouse.json) |
 | [August 16 at 8:29 AM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-16T08:29:18.953659-05:00.lighthouse.json) |
 | [August 15 at 8:17 PM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-15T20:17:10.167343-05:00.lighthouse.json) |
@@ -746,8 +748,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 14 at 8:25 AM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-14T08:25:23.289242-05:00.lighthouse.json) |
 | [August 13 at 6:48 PM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-13T18:48:34.203378-05:00.lighthouse.json) |
 | [August 13 at 7:53 AM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-13T07:53:19.370871-05:00.lighthouse.json) |
-| [August 12 at 7:28 PM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-12T19:28:14.489670-05:00.lighthouse.json) |
-| [August 12 at 6:38 AM](https://archive.org/download/brecktexan-2022/brecktexan-2022-08-12T06:38:25.850385-05:00.lighthouse.json) |
 
 
 
