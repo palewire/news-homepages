@@ -48,6 +48,72 @@ def update_list(number):
 
 
 @cli.command()
+def accessibility_report():
+    """Tweet a periodic report on Lighthouse accessibility scores."""
+    # Connect to Twitter
+    api = get_twitter_client()
+
+    # Get data
+    accessibility_df = pd.read_csv(
+        utils.EXTRACT_DIR / "csv" / "lighthouse-analysis.csv",
+        usecols=[
+            "handle",
+            "accessibility_count",
+            "accessibility_median",
+            "accessibility_color",
+            "accessibility_rank",
+        ],
+        dtype={
+            "handle": str,
+            "accessibility_count": int,
+            "accessibility_median": float,
+            "accessibility_color": str,
+            "accessibility_rank": int,
+        },
+    )
+
+    # Calculate the grand totals
+    count = accessibility_df.accessibility_count.sum()
+    median = accessibility_df.accessibility_median.median() * 100
+
+    # Calculate the distribution
+    value_counts = (
+        accessibility_df.accessibility_color.value_counts()
+        .rename("n")
+        .reset_index()
+        .to_dict(orient="records")
+    )
+    value_percents = (
+        accessibility_df.accessibility_color.value_counts(normalize=True)
+        .rename("n")
+        .reset_index()
+        .to_dict(orient="records")
+    )
+
+    def _get_color(color, li):
+        return next(d for d in li if d["index"] == color)["n"]
+
+    def _round(v):
+        return int(round(v * 100, 0))
+
+    msg = f"""🤖🖨️ A11Y REPORT 🖨️🤖
+
+This week the bot ran {utils.intcomma(count)} accessibility audits. Sites were scored from 0-100 and graded by Google. Green good. Orange okay. Red bad.
+
+🟩 {_round(_get_color('green', value_percents))}% ({_get_color('green', value_counts)} sites)
+🟧 {_round(_get_color('orange', value_percents))}% ({_get_color('orange', value_counts)})
+🟥 {_round(_get_color('red', value_percents))}% ({_get_color('red', value_counts)})
+
+The median score was {int(median)}.
+
+Full ranking: https://palewi.re/docs/news-homepages/accessibility.html
+"""
+
+    # Tweet it
+    api.PostUpdate(msg)
+
+
+@cli.command()
 def performance_report():
     """Tweet a periodic report on Lighthouse performance scores."""
     # Connect to Twitter
