@@ -13,7 +13,7 @@ This past week the median across all sites was 28. Here's the distribution of sc
   <script>
     const spec = {
   "config": {
-    "view": {"width": 500, "height": 300, "strokeWidth": 0},
+    "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
     "background": "#ffffff",
     "title": {
@@ -131,6 +131,7 @@ This past week the median across all sites was 28. Here's the distribution of sc
   },
   "title": "Lighthouse performance scores",
   "width": "container",
+  "height": 250,
   "$schema": "https://vega.github.io/schema/vega-lite/v4.17.0.json",
   "datasets": {
     "data-ff083e2caf4ea6428c61f01fb3b93afe": [{"index": 0, "performance_decile": 45}, {"index": 1, "performance_decile": 161}, {"index": 2, "performance_decile": 208}, {"index": 3, "performance_decile": 108}, {"index": 4, "performance_decile": 84}, {"index": 5, "performance_decile": 60}, {"index": 6, "performance_decile": 33}, {"index": 7, "performance_decile": 31}, {"index": 8, "performance_decile": 37}, {"index": 9, "performance_decile": 7}, {"index": 10, "performance_decile": 1}]
