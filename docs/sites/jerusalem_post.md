@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | Asia/Tel_Aviv                                                                                                                              |
 | Country        | [Israel](https://palewi.re/docs/news-homepages/countries/il.html)
 | Language       | [English](https://palewi.re/docs/news-homepages/languages/en.html)
-| Bundles        |  |
+
 
 
 

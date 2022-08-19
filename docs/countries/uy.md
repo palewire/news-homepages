@@ -28,6 +28,7 @@ The most recent homepages from 1 news sites in this country.
 | :-------------  | :---------------------------------------------------------------------------------- |
 | RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/countries/uy.xml)         |
 | ISO code             | UY         |
+| Twitter hashtag | [#UY](https://twitter.com/search?q=%23UY%20from%3A%40newshomepages)           |
 
 ## Site directory
 

@@ -235,6 +235,7 @@ The most recent homepages from 24 news sites in this country.
 | :-------------  | :---------------------------------------------------------------------------------- |
 | RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/countries/np.xml)         |
 | ISO code             | NP         |
+| Twitter hashtag | [#NP](https://twitter.com/search?q=%23NP%20from%3A%40newshomepages)           |
 
 ## Site directory
 

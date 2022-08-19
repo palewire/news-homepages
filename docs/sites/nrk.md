@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | Europe/Oslo                                                                                                                              |
 | Country        | [Norway](https://palewi.re/docs/news-homepages/countries/no.html)
 | Language       | [Norwegian](https://palewi.re/docs/news-homepages/languages/no.html)
-| Bundles        |  |
+
 
 
 ## Analysis
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         94
     </td>
     <td style="text-align: right;">
-        128
+        129
     </td>
   </tr>
 
@@ -196,7 +196,7 @@ The median score for each category, along with how it ranks in comparison to the
         92
     </td>
     <td style="text-align: right;">
-        120
+        119
     </td>
   </tr>
 
@@ -208,7 +208,7 @@ The median score for each category, along with how it ranks in comparison to the
         66
     </td>
     <td style="text-align: right;">
-        86
+        84
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         99
     </td>
     <td style="text-align: right;">
-        31
+        30
     </td>
   </tr>
 

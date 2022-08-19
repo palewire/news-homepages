@@ -28,6 +28,7 @@ The most recent homepages from 1 news sites in this country.
 | :-------------  | :---------------------------------------------------------------------------------- |
 | RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/countries/au.xml)         |
 | ISO code             | AU         |
+| Twitter hashtag | [#AU](https://twitter.com/search?q=%23AU%20from%3A%40newshomepages)           |
 
 ## Site directory
 

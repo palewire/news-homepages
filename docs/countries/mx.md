@@ -136,6 +136,7 @@ The most recent homepages from 13 news sites in this country.
 | :-------------  | :---------------------------------------------------------------------------------- |
 | RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/countries/mx.xml)         |
 | ISO code             | MX         |
+| Twitter hashtag | [#MX](https://twitter.com/search?q=%23MX%20from%3A%40newshomepages)           |
 
 ## Site directory
 

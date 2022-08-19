@@ -91,6 +91,7 @@ The most recent homepages from 8 news sites in this country.
 | :-------------  | :---------------------------------------------------------------------------------- |
 | RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/countries/no.xml)         |
 | ISO code             | NO         |
+| Twitter hashtag | [#NO](https://twitter.com/search?q=%23NO%20from%3A%40newshomepages)           |
 
 ## Site directory
 

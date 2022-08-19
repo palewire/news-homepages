@@ -37,6 +37,7 @@ The most recent homepages from 2 news sites in this country.
 | :-------------  | :---------------------------------------------------------------------------------- |
 | RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/countries/co.xml)         |
 | ISO code             | CO         |
+| Twitter hashtag | [#CO](https://twitter.com/search?q=%23CO%20from%3A%40newshomepages)           |
 
 ## Site directory
 

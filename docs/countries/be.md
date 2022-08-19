@@ -28,6 +28,7 @@ The most recent homepages from 1 news sites in this country.
 | :-------------  | :---------------------------------------------------------------------------------- |
 | RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/countries/be.xml)         |
 | ISO code             | BE         |
+| Twitter hashtag | [#BE](https://twitter.com/search?q=%23BE%20from%3A%40newshomepages)           |
 
 ## Site directory
 

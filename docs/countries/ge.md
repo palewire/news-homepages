@@ -28,6 +28,7 @@ The most recent homepages from 1 news sites in this country.
 | :-------------  | :---------------------------------------------------------------------------------- |
 | RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/countries/ge.xml)         |
 | ISO code             | GE         |
+| Twitter hashtag | [#GE](https://twitter.com/search?q=%23GE%20from%3A%40newshomepages)           |
 
 ## Site directory
 

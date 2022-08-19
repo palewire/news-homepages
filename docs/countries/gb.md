@@ -271,6 +271,7 @@ The most recent homepages from 28 news sites in this country.
 | :-------------  | :---------------------------------------------------------------------------------- |
 | RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/countries/gb.xml)         |
 | ISO code             | GB         |
+| Twitter hashtag | [#GB](https://twitter.com/search?q=%23GB%20from%3A%40newshomepages)           |
 
 ## Site directory
 

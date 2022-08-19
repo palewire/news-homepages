@@ -73,6 +73,7 @@ The most recent homepages from 6 news sites in this country.
 | :-------------  | :---------------------------------------------------------------------------------- |
 | RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/countries/il.xml)         |
 | ISO code             | IL         |
+| Twitter hashtag | [#IL](https://twitter.com/search?q=%23IL%20from%3A%40newshomepages)           |
 
 ## Site directory
 
