@@ -57,13 +57,16 @@ def accessibility_ranking():
     median = accessibility_df.accessibility_median.median() * 100
 
     # Generate a distribution for our chart
-    accessibility_df["accessibility_decile"] = (
-        accessibility_df.accessibility_median * 10
-    ).apply(np.floor)
+    def _round(val):
+        return np.floor(np.floor(val * 1000) / 100) * 10
+
+    accessibility_df[
+        "accessibility_decile"
+    ] = accessibility_df.accessibility_median.apply(_round)
     histogram_df = accessibility_df.accessibility_decile.value_counts().reset_index()
     histogram_df["index"] = histogram_df["index"].astype(int)
     histogram_df = histogram_df.merge(
-        pd.DataFrame(range(0, 11), columns=["index"]),
+        pd.DataFrame(range(0, 101, 10), columns=["index"]),
         how="right",
         on="index",
     ).fillna(0)
@@ -112,13 +115,16 @@ def performance_ranking():
     median = performance_df.performance_median.median() * 100
 
     # Generate a distribution for our chart
-    performance_df["performance_decile"] = (
-        performance_df.performance_median * 10
-    ).apply(np.floor)
+    def _round(val):
+        return np.floor(np.floor(val * 1000) / 100) * 10
+
+    performance_df["performance_decile"] = performance_df.performance_median.apply(
+        _round
+    )
     histogram_df = performance_df.performance_decile.value_counts().reset_index()
     histogram_df["index"] = histogram_df["index"].astype(int)
     histogram_df = histogram_df.merge(
-        pd.DataFrame(range(0, 11), columns=["index"]),
+        pd.DataFrame(range(0, 101, 10), columns=["index"]),
         how="right",
         on="index",
     ).fillna(0)
