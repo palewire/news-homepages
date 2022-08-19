@@ -18,7 +18,7 @@ orphan: true
 | Timezone       | {{ site.timezone }}                                                                                                                              |
 | Country        | [{{ site.country_name }}](https://palewi.re/docs/news-homepages/countries/{{ site.country|lower }}.html)
 | Language       | [{{ site.language_name }}](https://palewi.re/docs/news-homepages/languages/{{ site.language|lower }}.html)
-| Bundles        | {% for b in site.bundle_list %}<a href="../bundles/{{ b.slug }}.html">{{ b.name }}</a>{% if not loop.last %}, {% endif %} {% endfor %} |
+{% if site.bundle_list %}| Bundles        | {% for b in site.bundle_list %}<a href="../bundles/{{ b.slug }}.html">{{ b.name }}</a>{% if not loop.last %}, {% endif %} {% endfor %} |{% endif %}
 
 {% if lighthouse_summary %}
 ## Analysis

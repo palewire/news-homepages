@@ -13,7 +13,7 @@ This past week the median across all sites was 86. Here's the distribution of sc
   <script>
     const spec = {
   "config": {
-    "view": {"width": 500, "height": 300, "strokeWidth": 0},
+    "view": {"strokeWidth": 0},
     "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
     "background": "#ffffff",
     "title": {
@@ -131,6 +131,7 @@ This past week the median across all sites was 86. Here's the distribution of sc
   },
   "title": "Lighthouse accessibility scores",
   "width": "container",
+  "height": 250,
   "$schema": "https://vega.github.io/schema/vega-lite/v4.17.0.json",
   "datasets": {
     "data-ff083e2caf4ea6428c61f01fb3b93afe": [{"index": 0, "accessibility_decile": 0.0}, {"index": 1, "accessibility_decile": 0.0}, {"index": 2, "accessibility_decile": 0.0}, {"index": 3, "accessibility_decile": 0.0}, {"index": 4, "accessibility_decile": 4.0}, {"index": 5, "accessibility_decile": 14.0}, {"index": 6, "accessibility_decile": 41.0}, {"index": 7, "accessibility_decile": 146.0}, {"index": 8, "accessibility_decile": 331.0}, {"index": 9, "accessibility_decile": 217.0}, {"index": 10, "accessibility_decile": 22.0}]
@@ -138,6 +139,8 @@ This past week the median across all sites was 86. Here's the distribution of sc
 };
     vegaEmbed("#vis", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
   </script>
+
+Here's a ranking of all sites from best to worst.
 
 <table class="colwidths-auto docutils align-default">
  <thead>
