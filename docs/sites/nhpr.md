@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 12 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 14 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -208,7 +208,7 @@ The median score for each category, along with how it ranks in comparison to the
         44
     </td>
     <td style="text-align: right;">
-        215
+        217
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         98
     </td>
     <td style="text-align: right;">
-        62
+        63
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 46 screenshots with the Internet Archive.
+The archiving routine has saved 48 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/nhpr-2022/nhpr-2022-08-18T11:22:17.385106-04:00.jpg">
+  <img src="https://archive.org/download/nhpr-2022/nhpr-2022-08-18T11:22:17.385106-04:00.jpg"
+     alt="New Hampshire Public Radio at 2022-08-18 11:22:18-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nhpr-2022/nhpr-2022-08-18T11:22:17.385106-04:00.jpg">August 18 at 11:22 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nhpr-2022/nhpr-2022-08-17T23:42:45.447544-04:00.jpg">
+  <img src="https://archive.org/download/nhpr-2022/nhpr-2022-08-17T23:42:45.447544-04:00.jpg"
+     alt="New Hampshire Public Radio at 2022-08-17 23:42:48-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nhpr-2022/nhpr-2022-08-17T23:42:45.447544-04:00.jpg">August 17 at 11:42 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/nhpr-2022/nhpr-2022-08-17T11:07:18.459918-04:00.jpg">
   <img src="https://archive.org/download/nhpr-2022/nhpr-2022-08-17T11:07:18.459918-04:00.jpg"
      alt="New Hampshire Public Radio at 2022-08-17 11:07:22-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nhpr-2022/nhpr-2022-08-12T23:50:54.665398-04:00.jpg">August 12 at 11:50 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nhpr-2022/nhpr-2022-08-12T13:57:28.047300-04:00.jpg">
-  <img src="https://archive.org/download/nhpr-2022/nhpr-2022-08-12T13:57:28.047300-04:00.jpg"
-     alt="New Hampshire Public Radio at 2022-08-12 13:57:30-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nhpr-2022/nhpr-2022-08-12T13:57:28.047300-04:00.jpg">August 12 at 1:57 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nhpr-2022/nhpr-2022-08-12T06:07:03.652164-04:00.jpg">
-  <img src="https://archive.org/download/nhpr-2022/nhpr-2022-08-12T06:07:03.652164-04:00.jpg"
-     alt="New Hampshire Public Radio at 2022-08-12 06:07:06-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nhpr-2022/nhpr-2022-08-12T06:07:03.652164-04:00.jpg">August 12 at 6:07 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 46 hyperlink lists with the Internet Archive.
+The archiving routine has saved 48 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 18 at 11:22 AM](https://archive.org/download/nhpr-2022/nhpr-2022-08-18T11:22:17.385106-04:00.hyperlinks.json) |
+| [August 17 at 11:42 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-17T23:42:45.447544-04:00.hyperlinks.json) |
 | [August 17 at 11:07 AM](https://archive.org/download/nhpr-2022/nhpr-2022-08-17T11:07:18.459918-04:00.hyperlinks.json) |
 | [August 16 at 11:41 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-16T23:41:50.654031-04:00.hyperlinks.json) |
 | [August 16 at 2:45 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-16T14:45:03.434244-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 15 at 2:35 AM](https://archive.org/download/nhpr-2022/nhpr-2022-08-15T02:35:53.470939-04:00.hyperlinks.json) |
 | [August 14 at 1:28 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-14T13:28:27.858639-04:00.hyperlinks.json) |
 | [August 14 at 2:57 AM](https://archive.org/download/nhpr-2022/nhpr-2022-08-14T02:57:02.981543-04:00.hyperlinks.json) |
-| [August 13 at 4:33 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-13T16:33:17.166294-04:00.hyperlinks.json) |
-| [August 12 at 11:50 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-12T23:50:54.665398-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 46 accessibility trees with the Internet Archive.
+The archiving routine has saved 48 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 18 at 11:22 AM](https://archive.org/download/nhpr-2022/nhpr-2022-08-18T11:22:17.385106-04:00.accessibility.json) |
+| [August 17 at 11:42 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-17T23:42:45.447544-04:00.accessibility.json) |
 | [August 17 at 11:07 AM](https://archive.org/download/nhpr-2022/nhpr-2022-08-17T11:07:18.459918-04:00.accessibility.json) |
 | [August 16 at 11:41 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-16T23:41:50.654031-04:00.accessibility.json) |
 | [August 16 at 2:45 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-16T14:45:03.434244-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 15 at 2:35 AM](https://archive.org/download/nhpr-2022/nhpr-2022-08-15T02:35:53.470939-04:00.accessibility.json) |
 | [August 14 at 1:28 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-14T13:28:27.858639-04:00.accessibility.json) |
 | [August 14 at 2:57 AM](https://archive.org/download/nhpr-2022/nhpr-2022-08-14T02:57:02.981543-04:00.accessibility.json) |
-| [August 13 at 4:33 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-13T16:33:17.166294-04:00.accessibility.json) |
-| [August 12 at 11:50 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-12T23:50:54.665398-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 46 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 48 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 18 at 11:22 AM](https://archive.org/download/nhpr-2022/nhpr-2022-08-18T11:22:17.385106-04:00.lighthouse.json) |
+| [August 17 at 11:42 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-17T23:42:45.447544-04:00.lighthouse.json) |
 | [August 17 at 11:07 AM](https://archive.org/download/nhpr-2022/nhpr-2022-08-17T11:07:18.459918-04:00.lighthouse.json) |
 | [August 16 at 11:41 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-16T23:41:50.654031-04:00.lighthouse.json) |
 | [August 16 at 2:45 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-16T14:45:03.434244-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 15 at 2:35 AM](https://archive.org/download/nhpr-2022/nhpr-2022-08-15T02:35:53.470939-04:00.lighthouse.json) |
 | [August 14 at 1:28 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-14T13:28:27.858639-04:00.lighthouse.json) |
 | [August 14 at 2:57 AM](https://archive.org/download/nhpr-2022/nhpr-2022-08-14T02:57:02.981543-04:00.lighthouse.json) |
-| [August 13 at 4:33 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-13T16:33:17.166294-04:00.lighthouse.json) |
-| [August 12 at 11:51 PM](https://archive.org/download/nhpr-2022/nhpr-2022-08-12T23:50:54.665398-04:00.lighthouse.json) |
 
 
 

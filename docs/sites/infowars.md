@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 17 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 20 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         76
     </td>
     <td style="text-align: right;">
-        625
+        628
     </td>
   </tr>
 
@@ -196,7 +196,7 @@ The median score for each category, along with how it ranks in comparison to the
         83
     </td>
     <td style="text-align: right;">
-        401
+        399
     </td>
   </tr>
 
@@ -205,10 +205,10 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        6
+        7
     </td>
     <td style="text-align: right;">
-        744
+        743
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 92 screenshots with the Internet Archive.
+The archiving routine has saved 95 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/infowars-2022/infowars-2022-08-18T13:31:15.974275-05:00.jpg">
+  <img src="https://archive.org/download/infowars-2022/infowars-2022-08-18T13:31:15.974275-05:00.jpg"
+     alt="Infowars at 2022-08-18 13:31:17-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/infowars-2022/infowars-2022-08-18T13:31:15.974275-05:00.jpg">August 18 at 1:31 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/infowars-2022/infowars-2022-08-18T09:09:32.007999-05:00.jpg">
+  <img src="https://archive.org/download/infowars-2022/infowars-2022-08-18T09:09:32.007999-05:00.jpg"
+     alt="Infowars at 2022-08-18 09:09:38-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/infowars-2022/infowars-2022-08-18T09:09:32.007999-05:00.jpg">August 18 at 9:09 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/infowars-2022/infowars-2022-08-17T21:28:19.506597-05:00.jpg">
+  <img src="https://archive.org/download/infowars-2022/infowars-2022-08-17T21:28:19.506597-05:00.jpg"
+     alt="Infowars at 2022-08-17 21:28:22-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/infowars-2022/infowars-2022-08-17T21:28:19.506597-05:00.jpg">August 17 at 9:28 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/infowars-2022/infowars-2022-08-17T13:31:33.758991-05:00.jpg">
   <img src="https://archive.org/download/infowars-2022/infowars-2022-08-17T13:31:33.758991-05:00.jpg"
      alt="Infowars at 2022-08-17 13:31:35-05:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/infowars-2022/infowars-2022-08-14T14:48:31.313799-05:00.jpg">August 14 at 2:48 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/infowars-2022/infowars-2022-08-14T12:21:11.375757-05:00.jpg">
-  <img src="https://archive.org/download/infowars-2022/infowars-2022-08-14T12:21:11.375757-05:00.jpg"
-     alt="Infowars at 2022-08-14 12:21:13-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/infowars-2022/infowars-2022-08-14T12:21:11.375757-05:00.jpg">August 14 at 12:21 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/infowars-2022/infowars-2022-08-14T01:48:27.957417-05:00.jpg">
-  <img src="https://archive.org/download/infowars-2022/infowars-2022-08-14T01:48:27.957417-05:00.jpg"
-     alt="Infowars at 2022-08-14 01:48:29-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/infowars-2022/infowars-2022-08-14T01:48:27.957417-05:00.jpg">August 14 at 1:48 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/infowars-2022/infowars-2022-08-13T16:28:10.120471-05:00.jpg">
-  <img src="https://archive.org/download/infowars-2022/infowars-2022-08-13T16:28:10.120471-05:00.jpg"
-     alt="Infowars at 2022-08-13 16:28:11-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/infowars-2022/infowars-2022-08-13T16:28:10.120471-05:00.jpg">August 13 at 4:28 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 93 hyperlink lists with the Internet Archive.
+The archiving routine has saved 96 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 18 at 1:31 PM](https://archive.org/download/infowars-2022/infowars-2022-08-18T13:31:15.974275-05:00.hyperlinks.json) |
+| [August 18 at 9:09 AM](https://archive.org/download/infowars-2022/infowars-2022-08-18T09:09:32.007999-05:00.hyperlinks.json) |
+| [August 17 at 9:28 PM](https://archive.org/download/infowars-2022/infowars-2022-08-17T21:28:19.506597-05:00.hyperlinks.json) |
 | [August 17 at 1:31 PM](https://archive.org/download/infowars-2022/infowars-2022-08-17T13:31:33.758991-05:00.hyperlinks.json) |
 | [August 17 at 10:03 AM](https://archive.org/download/infowars-2022/infowars-2022-08-17T10:03:19.862013-05:00.hyperlinks.json) |
 | [August 16 at 9:29 PM](https://archive.org/download/infowars-2022/infowars-2022-08-16T21:28:59.982503-05:00.hyperlinks.json) |
@@ -535,9 +538,6 @@ Here are the 10 most recent hyperlink lists.
 | [August 16 at 1:35 AM](https://archive.org/download/infowars-2022/infowars-2022-08-16T01:35:36.041637-05:00.hyperlinks.json) |
 | [August 15 at 3:56 PM](https://archive.org/download/infowars-2022/infowars-2022-08-15T15:55:55.354802-05:00.hyperlinks.json) |
 | [August 15 at 2:54 PM](https://archive.org/download/infowars-2022/infowars-2022-08-15T14:54:46.013927-05:00.hyperlinks.json) |
-| [August 15 at 1:28 AM](https://archive.org/download/infowars-2022/infowars-2022-08-15T01:28:11.829155-05:00.hyperlinks.json) |
-| [August 14 at 2:48 PM](https://archive.org/download/infowars-2022/infowars-2022-08-14T14:48:31.313799-05:00.hyperlinks.json) |
-| [August 14 at 12:21 PM](https://archive.org/download/infowars-2022/infowars-2022-08-14T12:21:11.375757-05:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -556,7 +556,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 75 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 78 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -647,6 +647,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 18 at 1:31 PM](https://archive.org/download/infowars-2022/infowars-2022-08-18T13:31:15.974275-05:00.lighthouse.json) |
+| [August 18 at 9:09 AM](https://archive.org/download/infowars-2022/infowars-2022-08-18T09:09:32.007999-05:00.lighthouse.json) |
+| [August 17 at 9:28 PM](https://archive.org/download/infowars-2022/infowars-2022-08-17T21:28:19.506597-05:00.lighthouse.json) |
 | [August 17 at 1:31 PM](https://archive.org/download/infowars-2022/infowars-2022-08-17T13:31:33.758991-05:00.lighthouse.json) |
 | [August 17 at 10:03 AM](https://archive.org/download/infowars-2022/infowars-2022-08-17T10:03:19.862013-05:00.lighthouse.json) |
 | [August 16 at 9:29 PM](https://archive.org/download/infowars-2022/infowars-2022-08-16T21:28:59.982503-05:00.lighthouse.json) |
@@ -654,9 +657,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 16 at 1:35 AM](https://archive.org/download/infowars-2022/infowars-2022-08-16T01:35:36.041637-05:00.lighthouse.json) |
 | [August 15 at 3:56 PM](https://archive.org/download/infowars-2022/infowars-2022-08-15T15:55:55.354802-05:00.lighthouse.json) |
 | [August 15 at 2:54 PM](https://archive.org/download/infowars-2022/infowars-2022-08-15T14:54:46.013927-05:00.lighthouse.json) |
-| [August 15 at 1:28 AM](https://archive.org/download/infowars-2022/infowars-2022-08-15T01:28:11.829155-05:00.lighthouse.json) |
-| [August 14 at 2:48 PM](https://archive.org/download/infowars-2022/infowars-2022-08-14T14:48:31.313799-05:00.lighthouse.json) |
-| [August 14 at 12:21 PM](https://archive.org/download/infowars-2022/infowars-2022-08-14T12:21:11.375757-05:00.lighthouse.json) |
 
 
 

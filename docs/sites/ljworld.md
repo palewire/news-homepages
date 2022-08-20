@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 13 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 15 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         75
     </td>
     <td style="text-align: right;">
-        639
+        641
     </td>
   </tr>
 
@@ -196,7 +196,7 @@ The median score for each category, along with how it ranks in comparison to the
         83
     </td>
     <td style="text-align: right;">
-        401
+        399
     </td>
   </tr>
 
@@ -205,10 +205,10 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        38
+        35
     </td>
     <td style="text-align: right;">
-        267
+        299
     </td>
   </tr>
 
@@ -234,13 +234,114 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 30 screenshots with the Internet Archive.
+The archiving routine has saved 32 screenshots with the Internet Archive.
 
+
+  <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specScreenshots = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/screenshots/ljworld.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ljworld-2022/ljworld-2022-08-18T18:55:11.852482-05:00.jpg">
+  <img src="https://archive.org/download/ljworld-2022/ljworld-2022-08-18T18:55:11.852482-05:00.jpg"
+     alt="Lawrence Journal-World at 2022-08-18 18:55:14-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ljworld-2022/ljworld-2022-08-18T18:55:11.852482-05:00.jpg">August 18 at 6:55 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ljworld-2022/ljworld-2022-08-18T07:00:15.990001-05:00.jpg">
+  <img src="https://archive.org/download/ljworld-2022/ljworld-2022-08-18T07:00:15.990001-05:00.jpg"
+     alt="Lawrence Journal-World at 2022-08-18 07:00:18-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ljworld-2022/ljworld-2022-08-18T07:00:15.990001-05:00.jpg">August 18 at 7:00 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ljworld-2022/ljworld-2022-08-17T18:51:45.551090-05:00.jpg">
@@ -332,36 +433,103 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ljworld-2022/ljworld-2022-08-13T08:12:42.453228-05:00.jpg">August 13 at 8:12 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ljworld-2022/ljworld-2022-08-12T19:42:41.162126-05:00.jpg">
-  <img src="https://archive.org/download/ljworld-2022/ljworld-2022-08-12T19:42:41.162126-05:00.jpg"
-     alt="Lawrence Journal-World at 2022-08-12 19:42:43-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ljworld-2022/ljworld-2022-08-12T19:42:41.162126-05:00.jpg">August 12 at 7:42 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ljworld-2022/ljworld-2022-08-12T08:23:23.899649-05:00.jpg">
-  <img src="https://archive.org/download/ljworld-2022/ljworld-2022-08-12T08:23:23.899649-05:00.jpg"
-     alt="Lawrence Journal-World at 2022-08-12 08:23:25-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ljworld-2022/ljworld-2022-08-12T08:23:23.899649-05:00.jpg">August 12 at 8:23 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 30 hyperlink lists with the Internet Archive.
+The archiving routine has saved 32 hyperlink lists with the Internet Archive.
 
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specHyperlinks = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/ljworld.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 18 at 6:55 PM](https://archive.org/download/ljworld-2022/ljworld-2022-08-18T18:55:11.852482-05:00.hyperlinks.json) |
+| [August 18 at 7:00 AM](https://archive.org/download/ljworld-2022/ljworld-2022-08-18T07:00:15.990001-05:00.hyperlinks.json) |
 | [August 17 at 6:51 PM](https://archive.org/download/ljworld-2022/ljworld-2022-08-17T18:51:45.551090-05:00.hyperlinks.json) |
 | [August 17 at 6:51 AM](https://archive.org/download/ljworld-2022/ljworld-2022-08-17T06:51:14.633341-05:00.hyperlinks.json) |
 | [August 16 at 7:06 PM](https://archive.org/download/ljworld-2022/ljworld-2022-08-16T19:06:01.264086-05:00.hyperlinks.json) |
@@ -370,20 +538,103 @@ Here are the 10 most recent hyperlink lists.
 | [August 15 at 9:16 AM](https://archive.org/download/ljworld-2022/ljworld-2022-08-15T09:16:24.171186-05:00.hyperlinks.json) |
 | [August 14 at 8:20 PM](https://archive.org/download/ljworld-2022/ljworld-2022-08-14T20:20:34.803182-05:00.hyperlinks.json) |
 | [August 14 at 8:48 AM](https://archive.org/download/ljworld-2022/ljworld-2022-08-14T08:48:28.707528-05:00.hyperlinks.json) |
-| [August 13 at 10:15 PM](https://archive.org/download/ljworld-2022/ljworld-2022-08-13T22:15:18.495312-05:00.hyperlinks.json) |
-| [August 13 at 8:12 AM](https://archive.org/download/ljworld-2022/ljworld-2022-08-13T08:12:42.453228-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 30 accessibility trees with the Internet Archive.
+The archiving routine has saved 32 accessibility trees with the Internet Archive.
 
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/ljworld.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 18 at 6:55 PM](https://archive.org/download/ljworld-2022/ljworld-2022-08-18T18:55:11.852482-05:00.accessibility.json) |
+| [August 18 at 7:00 AM](https://archive.org/download/ljworld-2022/ljworld-2022-08-18T07:00:15.990001-05:00.accessibility.json) |
 | [August 17 at 6:51 PM](https://archive.org/download/ljworld-2022/ljworld-2022-08-17T18:51:45.551090-05:00.accessibility.json) |
 | [August 17 at 6:51 AM](https://archive.org/download/ljworld-2022/ljworld-2022-08-17T06:51:14.633341-05:00.accessibility.json) |
 | [August 16 at 7:06 PM](https://archive.org/download/ljworld-2022/ljworld-2022-08-16T19:06:01.264086-05:00.accessibility.json) |
@@ -392,21 +643,104 @@ Here are the 10 most recent accessibility trees.
 | [August 15 at 9:16 AM](https://archive.org/download/ljworld-2022/ljworld-2022-08-15T09:16:24.171186-05:00.accessibility.json) |
 | [August 14 at 8:20 PM](https://archive.org/download/ljworld-2022/ljworld-2022-08-14T20:20:34.803182-05:00.accessibility.json) |
 | [August 14 at 8:48 AM](https://archive.org/download/ljworld-2022/ljworld-2022-08-14T08:48:28.707528-05:00.accessibility.json) |
-| [August 13 at 10:15 PM](https://archive.org/download/ljworld-2022/ljworld-2022-08-13T22:15:18.495312-05:00.accessibility.json) |
-| [August 13 at 8:12 AM](https://archive.org/download/ljworld-2022/ljworld-2022-08-13T08:12:42.453228-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 30 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 32 Lighthouse audits with the Internet Archive.
 
+
+  <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specLighthouse = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/lighthouse/ljworld.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--lighthouse", specLighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 18 at 6:55 PM](https://archive.org/download/ljworld-2022/ljworld-2022-08-18T18:55:11.852482-05:00.lighthouse.json) |
+| [August 18 at 7:00 AM](https://archive.org/download/ljworld-2022/ljworld-2022-08-18T07:00:15.990001-05:00.lighthouse.json) |
 | [August 17 at 6:51 PM](https://archive.org/download/ljworld-2022/ljworld-2022-08-17T18:51:45.551090-05:00.lighthouse.json) |
 | [August 17 at 6:51 AM](https://archive.org/download/ljworld-2022/ljworld-2022-08-17T06:51:14.633341-05:00.lighthouse.json) |
 | [August 16 at 7:06 PM](https://archive.org/download/ljworld-2022/ljworld-2022-08-16T19:06:01.264086-05:00.lighthouse.json) |
@@ -415,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 15 at 9:16 AM](https://archive.org/download/ljworld-2022/ljworld-2022-08-15T09:16:24.171186-05:00.lighthouse.json) |
 | [August 14 at 8:20 PM](https://archive.org/download/ljworld-2022/ljworld-2022-08-14T20:20:34.803182-05:00.lighthouse.json) |
 | [August 14 at 8:48 AM](https://archive.org/download/ljworld-2022/ljworld-2022-08-14T08:48:28.707528-05:00.lighthouse.json) |
-| [August 13 at 10:15 PM](https://archive.org/download/ljworld-2022/ljworld-2022-08-13T22:15:18.495312-05:00.lighthouse.json) |
-| [August 13 at 8:12 AM](https://archive.org/download/ljworld-2022/ljworld-2022-08-13T08:12:42.453228-05:00.lighthouse.json) |
 
 
 

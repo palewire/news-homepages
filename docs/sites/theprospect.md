@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 17 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 20 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -181,10 +181,10 @@ The median score for each category, along with how it ranks in comparison to the
         Accessibility
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        81
+        82
     </td>
     <td style="text-align: right;">
-        498
+        477
     </td>
   </tr>
 
@@ -196,7 +196,7 @@ The median score for each category, along with how it ranks in comparison to the
         83
     </td>
     <td style="text-align: right;">
-        401
+        399
     </td>
   </tr>
 
@@ -208,7 +208,7 @@ The median score for each category, along with how it ranks in comparison to the
         9
     </td>
     <td style="text-align: right;">
-        725
+        728
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 93 screenshots with the Internet Archive.
+The archiving routine has saved 96 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/theprospect-2022/theprospect-2022-08-18T14:27:37.439380-04:00.jpg">
+  <img src="https://archive.org/download/theprospect-2022/theprospect-2022-08-18T14:27:37.439380-04:00.jpg"
+     alt="American Prospect at 2022-08-18 14:27:42-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theprospect-2022/theprospect-2022-08-18T14:27:37.439380-04:00.jpg">August 18 at 2:27 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theprospect-2022/theprospect-2022-08-18T09:02:19.158871-04:00.jpg">
+  <img src="https://archive.org/download/theprospect-2022/theprospect-2022-08-18T09:02:19.158871-04:00.jpg"
+     alt="American Prospect at 2022-08-18 09:02:20-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theprospect-2022/theprospect-2022-08-18T09:02:19.158871-04:00.jpg">August 18 at 9:02 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theprospect-2022/theprospect-2022-08-17T21:16:09.196032-04:00.jpg">
+  <img src="https://archive.org/download/theprospect-2022/theprospect-2022-08-17T21:16:09.196032-04:00.jpg"
+     alt="American Prospect at 2022-08-17 21:16:11-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theprospect-2022/theprospect-2022-08-17T21:16:09.196032-04:00.jpg">August 17 at 9:16 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/theprospect-2022/theprospect-2022-08-17T14:30:34.373259-04:00.jpg">
   <img src="https://archive.org/download/theprospect-2022/theprospect-2022-08-17T14:30:34.373259-04:00.jpg"
      alt="American Prospect at 2022-08-17 14:30:36-04:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/theprospect-2022/theprospect-2022-08-14T15:53:22.679463-04:00.jpg">August 14 at 3:53 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/theprospect-2022/theprospect-2022-08-14T13:05:13.400686-04:00.jpg">
-  <img src="https://archive.org/download/theprospect-2022/theprospect-2022-08-14T13:05:13.400686-04:00.jpg"
-     alt="American Prospect at 2022-08-14 13:05:24-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theprospect-2022/theprospect-2022-08-14T13:05:13.400686-04:00.jpg">August 14 at 1:05 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/theprospect-2022/theprospect-2022-08-14T01:07:47.974424-04:00.jpg">
-  <img src="https://archive.org/download/theprospect-2022/theprospect-2022-08-14T01:07:47.974424-04:00.jpg"
-     alt="American Prospect at 2022-08-14 01:07:49-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theprospect-2022/theprospect-2022-08-14T01:07:47.974424-04:00.jpg">August 14 at 1:07 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/theprospect-2022/theprospect-2022-08-13T16:45:19.578358-04:00.jpg">
-  <img src="https://archive.org/download/theprospect-2022/theprospect-2022-08-13T16:45:19.578358-04:00.jpg"
-     alt="American Prospect at 2022-08-13 16:45:23-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theprospect-2022/theprospect-2022-08-13T16:45:19.578358-04:00.jpg">August 13 at 4:45 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 87 hyperlink lists with the Internet Archive.
+The archiving routine has saved 90 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 18 at 2:27 PM](https://archive.org/download/theprospect-2022/theprospect-2022-08-18T14:27:37.439380-04:00.hyperlinks.json) |
+| [August 18 at 9:02 AM](https://archive.org/download/theprospect-2022/theprospect-2022-08-18T09:02:19.158871-04:00.hyperlinks.json) |
+| [August 17 at 9:16 PM](https://archive.org/download/theprospect-2022/theprospect-2022-08-17T21:16:09.196032-04:00.hyperlinks.json) |
 | [August 17 at 2:30 PM](https://archive.org/download/theprospect-2022/theprospect-2022-08-17T14:30:34.373259-04:00.hyperlinks.json) |
 | [August 17 at 9:09 AM](https://archive.org/download/theprospect-2022/theprospect-2022-08-17T09:09:37.459596-04:00.hyperlinks.json) |
 | [August 16 at 9:24 PM](https://archive.org/download/theprospect-2022/theprospect-2022-08-16T21:23:56.691578-04:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 16 at 2:20 AM](https://archive.org/download/theprospect-2022/theprospect-2022-08-16T02:19:55.883390-04:00.hyperlinks.json) |
 | [August 15 at 4:59 PM](https://archive.org/download/theprospect-2022/theprospect-2022-08-15T16:59:06.673673-04:00.hyperlinks.json) |
 | [August 15 at 3:39 PM](https://archive.org/download/theprospect-2022/theprospect-2022-08-15T15:39:01.913810-04:00.hyperlinks.json) |
-| [August 14 at 11:15 PM](https://archive.org/download/theprospect-2022/theprospect-2022-08-14T23:14:53.287027-04:00.hyperlinks.json) |
-| [August 14 at 3:53 PM](https://archive.org/download/theprospect-2022/theprospect-2022-08-14T15:53:22.679463-04:00.hyperlinks.json) |
-| [August 14 at 1:07 AM](https://archive.org/download/theprospect-2022/theprospect-2022-08-14T01:07:47.974424-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 86 accessibility trees with the Internet Archive.
+The archiving routine has saved 89 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 18 at 2:27 PM](https://archive.org/download/theprospect-2022/theprospect-2022-08-18T14:27:37.439380-04:00.accessibility.json) |
+| [August 18 at 9:02 AM](https://archive.org/download/theprospect-2022/theprospect-2022-08-18T09:02:19.158871-04:00.accessibility.json) |
+| [August 17 at 9:16 PM](https://archive.org/download/theprospect-2022/theprospect-2022-08-17T21:16:09.196032-04:00.accessibility.json) |
 | [August 17 at 2:30 PM](https://archive.org/download/theprospect-2022/theprospect-2022-08-17T14:30:34.373259-04:00.accessibility.json) |
 | [August 17 at 9:09 AM](https://archive.org/download/theprospect-2022/theprospect-2022-08-17T09:09:37.459596-04:00.accessibility.json) |
 | [August 16 at 9:24 PM](https://archive.org/download/theprospect-2022/theprospect-2022-08-16T21:23:56.691578-04:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 15 at 4:59 PM](https://archive.org/download/theprospect-2022/theprospect-2022-08-15T16:59:06.673673-04:00.accessibility.json) |
 | [August 15 at 3:39 PM](https://archive.org/download/theprospect-2022/theprospect-2022-08-15T15:39:01.913810-04:00.accessibility.json) |
 | [August 14 at 11:14 PM](https://archive.org/download/theprospect-2022/theprospect-2022-08-14T23:14:53.287027-04:00.accessibility.json) |
-| [August 14 at 3:53 PM](https://archive.org/download/theprospect-2022/theprospect-2022-08-14T15:53:22.679463-04:00.accessibility.json) |
-| [August 14 at 1:05 PM](https://archive.org/download/theprospect-2022/theprospect-2022-08-14T13:05:13.400686-04:00.accessibility.json) |
-| [August 14 at 1:07 AM](https://archive.org/download/theprospect-2022/theprospect-2022-08-14T01:07:47.974424-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 77 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 80 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 18 at 2:27 PM](https://archive.org/download/theprospect-2022/theprospect-2022-08-18T14:27:37.439380-04:00.lighthouse.json) |
+| [August 18 at 9:02 AM](https://archive.org/download/theprospect-2022/theprospect-2022-08-18T09:02:19.158871-04:00.lighthouse.json) |
+| [August 17 at 9:16 PM](https://archive.org/download/theprospect-2022/theprospect-2022-08-17T21:16:09.196032-04:00.lighthouse.json) |
 | [August 17 at 2:30 PM](https://archive.org/download/theprospect-2022/theprospect-2022-08-17T14:30:34.373259-04:00.lighthouse.json) |
 | [August 17 at 9:09 AM](https://archive.org/download/theprospect-2022/theprospect-2022-08-17T09:09:37.459596-04:00.lighthouse.json) |
 | [August 16 at 9:24 PM](https://archive.org/download/theprospect-2022/theprospect-2022-08-16T21:23:56.691578-04:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 16 at 2:20 AM](https://archive.org/download/theprospect-2022/theprospect-2022-08-16T02:19:55.883390-04:00.lighthouse.json) |
 | [August 15 at 4:59 PM](https://archive.org/download/theprospect-2022/theprospect-2022-08-15T16:59:06.673673-04:00.lighthouse.json) |
 | [August 15 at 3:39 PM](https://archive.org/download/theprospect-2022/theprospect-2022-08-15T15:39:01.913810-04:00.lighthouse.json) |
-| [August 14 at 11:15 PM](https://archive.org/download/theprospect-2022/theprospect-2022-08-14T23:14:53.287027-04:00.lighthouse.json) |
-| [August 14 at 3:53 PM](https://archive.org/download/theprospect-2022/theprospect-2022-08-14T15:53:22.679463-04:00.lighthouse.json) |
-| [August 14 at 1:05 PM](https://archive.org/download/theprospect-2022/theprospect-2022-08-14T13:05:13.400686-04:00.lighthouse.json) |
 
 
 

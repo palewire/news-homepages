@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 13 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 15 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         71
     </td>
     <td style="text-align: right;">
-        697
+        699
     </td>
   </tr>
 
@@ -196,7 +196,7 @@ The median score for each category, along with how it ranks in comparison to the
         58
     </td>
     <td style="text-align: right;">
-        744
+        746
     </td>
   </tr>
 
@@ -208,7 +208,7 @@ The median score for each category, along with how it ranks in comparison to the
         12
     </td>
     <td style="text-align: right;">
-        706
+        707
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         76
     </td>
     <td style="text-align: right;">
-        709
+        710
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 59 screenshots with the Internet Archive.
+The archiving routine has saved 61 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/thevdt-2022/thevdt-2022-08-18T09:02:26.424985-04:00.jpg">
+  <img src="https://archive.org/download/thevdt-2022/thevdt-2022-08-18T09:02:26.424985-04:00.jpg"
+     alt="Valdosta Daily Times at 2022-08-18 09:02:30-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thevdt-2022/thevdt-2022-08-18T09:02:26.424985-04:00.jpg">August 18 at 9:02 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thevdt-2022/thevdt-2022-08-17T21:16:39.555627-04:00.jpg">
+  <img src="https://archive.org/download/thevdt-2022/thevdt-2022-08-17T21:16:39.555627-04:00.jpg"
+     alt="Valdosta Daily Times at 2022-08-17 21:16:42-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thevdt-2022/thevdt-2022-08-17T21:16:39.555627-04:00.jpg">August 17 at 9:16 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/thevdt-2022/thevdt-2022-08-17T09:10:18.413838-04:00.jpg">
   <img src="https://archive.org/download/thevdt-2022/thevdt-2022-08-17T09:10:18.413838-04:00.jpg"
      alt="Valdosta Daily Times at 2022-08-17 09:10:22-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thevdt-2022/thevdt-2022-08-12T22:17:34.440898-04:00.jpg">August 12 at 10:17 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thevdt-2022/thevdt-2022-08-12T12:25:35.934734-04:00.jpg">
-  <img src="https://archive.org/download/thevdt-2022/thevdt-2022-08-12T12:25:35.934734-04:00.jpg"
-     alt="Valdosta Daily Times at 2022-08-12 12:25:37-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thevdt-2022/thevdt-2022-08-12T12:25:35.934734-04:00.jpg">August 12 at 12:25 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thevdt-2022/thevdt-2022-08-12T05:36:04.884427-04:00.jpg">
-  <img src="https://archive.org/download/thevdt-2022/thevdt-2022-08-12T05:36:04.884427-04:00.jpg"
-     alt="Valdosta Daily Times at 2022-08-12 05:36:07-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thevdt-2022/thevdt-2022-08-12T05:36:04.884427-04:00.jpg">August 12 at 5:36 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 43 hyperlink lists with the Internet Archive.
+The archiving routine has saved 45 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 18 at 9:02 AM](https://archive.org/download/thevdt-2022/thevdt-2022-08-18T09:02:26.424985-04:00.hyperlinks.json) |
+| [August 17 at 9:16 PM](https://archive.org/download/thevdt-2022/thevdt-2022-08-17T21:16:39.555627-04:00.hyperlinks.json) |
 | [August 16 at 9:22 PM](https://archive.org/download/thevdt-2022/thevdt-2022-08-16T21:22:33.283622-04:00.hyperlinks.json) |
 | [August 16 at 1:25 PM](https://archive.org/download/thevdt-2022/thevdt-2022-08-16T13:25:24.512472-04:00.hyperlinks.json) |
 | [August 16 at 2:20 AM](https://archive.org/download/thevdt-2022/thevdt-2022-08-16T02:20:32.454283-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 12 at 12:25 PM](https://archive.org/download/thevdt-2022/thevdt-2022-08-12T12:25:35.934734-04:00.hyperlinks.json) |
 | [August 12 at 5:36 AM](https://archive.org/download/thevdt-2022/thevdt-2022-08-12T05:36:04.884427-04:00.hyperlinks.json) |
 | [August 11 at 1:09 PM](https://archive.org/download/thevdt-2022/thevdt-2022-08-11T13:09:18.366149-04:00.hyperlinks.json) |
-| [August 10 at 10:28 PM](https://archive.org/download/thevdt-2022/thevdt-2022-08-10T22:28:09.564927-04:00.hyperlinks.json) |
-| [August 10 at 1:51 PM](https://archive.org/download/thevdt-2022/thevdt-2022-08-10T13:50:59.022400-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 39 accessibility trees with the Internet Archive.
+The archiving routine has saved 40 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 17 at 9:16 PM](https://archive.org/download/thevdt-2022/thevdt-2022-08-17T21:16:39.555627-04:00.accessibility.json) |
 | [August 16 at 1:25 PM](https://archive.org/download/thevdt-2022/thevdt-2022-08-16T13:25:24.512472-04:00.accessibility.json) |
 | [August 16 at 2:20 AM](https://archive.org/download/thevdt-2022/thevdt-2022-08-16T02:20:32.454283-04:00.accessibility.json) |
 | [August 14 at 1:05 PM](https://archive.org/download/thevdt-2022/thevdt-2022-08-14T13:05:45.530106-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 10 at 1:51 PM](https://archive.org/download/thevdt-2022/thevdt-2022-08-10T13:50:59.022400-04:00.accessibility.json) |
 | [August 9 at 10:39 PM](https://archive.org/download/thevdt-2022/thevdt-2022-08-09T22:39:12.658862-04:00.accessibility.json) |
 | [August 9 at 10:41 AM](https://archive.org/download/thevdt-2022/thevdt-2022-08-09T10:41:18.096765-04:00.accessibility.json) |
-| [August 6 at 11:13 PM](https://archive.org/download/thevdt-2022/thevdt-2022-08-06T23:13:24.063741-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 53 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 55 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 18 at 9:02 AM](https://archive.org/download/thevdt-2022/thevdt-2022-08-18T09:02:26.424985-04:00.lighthouse.json) |
+| [August 17 at 9:16 PM](https://archive.org/download/thevdt-2022/thevdt-2022-08-17T21:16:39.555627-04:00.lighthouse.json) |
 | [August 17 at 9:10 AM](https://archive.org/download/thevdt-2022/thevdt-2022-08-17T09:10:18.413838-04:00.lighthouse.json) |
 | [August 16 at 9:22 PM](https://archive.org/download/thevdt-2022/thevdt-2022-08-16T21:22:33.283622-04:00.lighthouse.json) |
 | [August 16 at 1:25 PM](https://archive.org/download/thevdt-2022/thevdt-2022-08-16T13:25:24.512472-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 14 at 11:16 PM](https://archive.org/download/thevdt-2022/thevdt-2022-08-14T23:16:16.924483-04:00.lighthouse.json) |
 | [August 14 at 1:05 PM](https://archive.org/download/thevdt-2022/thevdt-2022-08-14T13:05:45.530106-04:00.lighthouse.json) |
 | [August 14 at 1:09 AM](https://archive.org/download/thevdt-2022/thevdt-2022-08-14T01:09:03.968704-04:00.lighthouse.json) |
-| [August 13 at 4:46 PM](https://archive.org/download/thevdt-2022/thevdt-2022-08-13T16:46:38.782216-04:00.lighthouse.json) |
-| [August 12 at 10:17 PM](https://archive.org/download/thevdt-2022/thevdt-2022-08-12T22:17:34.440898-04:00.lighthouse.json) |
 
 
 

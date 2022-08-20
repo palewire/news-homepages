@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 0 screenshots with the Internet Archive.
+The archiving routine has saved 1 screenshots with the Internet Archive.
 
 
 
@@ -36,11 +36,20 @@ Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
 
+<div class="latest-child">
+ <a href="https://archive.org/download/lrb-2022/lrb-2022-08-19T00:54:36.697182+01:00.jpg">
+  <img src="https://archive.org/download/lrb-2022/lrb-2022-08-19T00:54:36.697182+01:00.jpg"
+     alt="London Review of Books at 2022-08-19 00:54:42+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lrb-2022/lrb-2022-08-19T00:54:36.697182+01:00.jpg">August 19 at 12:54 AM</a></p>
+</div>
+
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 0 hyperlink lists with the Internet Archive.
+The archiving routine has saved 1 hyperlink lists with the Internet Archive.
 
 
 
@@ -48,11 +57,12 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 19 at 12:54 AM](https://archive.org/download/lrb-2022/lrb-2022-08-19T00:54:36.697182+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 0 accessibility trees with the Internet Archive.
+The archiving routine has saved 1 accessibility trees with the Internet Archive.
 
 
 
@@ -60,12 +70,13 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 19 at 12:54 AM](https://archive.org/download/lrb-2022/lrb-2022-08-19T00:54:36.697182+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 0 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 1 Lighthouse audits with the Internet Archive.
 
 
 
@@ -73,6 +84,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 19 at 12:55 AM](https://archive.org/download/lrb-2022/lrb-2022-08-19T00:54:36.697182+01:00.lighthouse.json) |
 
 
 
@@ -82,3 +94,4 @@ Assets are stored in the following collections at archive.org:
 
 | Item  |
 | :---- |
+|[lrb-2022](https://archive.org/details/lrb-2022)|

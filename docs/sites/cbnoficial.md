@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 18 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 20 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         87
     </td>
     <td style="text-align: right;">
-        336
+        337
     </td>
   </tr>
 
@@ -196,7 +196,7 @@ The median score for each category, along with how it ranks in comparison to the
         67
     </td>
     <td style="text-align: right;">
-        698
+        700
     </td>
   </tr>
 
@@ -205,10 +205,10 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        6
+        12
     </td>
     <td style="text-align: right;">
-        743
+        707
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         77
     </td>
     <td style="text-align: right;">
-        674
+        675
     </td>
   </tr>
 
@@ -234,13 +234,123 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 28 screenshots with the Internet Archive.
+The archiving routine has saved 31 screenshots with the Internet Archive.
 
+
+  <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specScreenshots = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/screenshots/cbnoficial.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-18T19:59:36.004953-03:00.jpg">
+  <img src="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-18T19:59:36.004953-03:00.jpg"
+     alt="Rádio CBN at 2022-08-18 19:59:38-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-18T19:59:36.004953-03:00.jpg">August 18 at 7:59 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-18T09:04:56.502244-03:00.jpg">
+  <img src="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-18T09:04:56.502244-03:00.jpg"
+     alt="Rádio CBN at 2022-08-18 09:04:58-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-18T09:04:56.502244-03:00.jpg">August 18 at 9:04 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-18T07:56:11.642365-03:00.jpg">
+  <img src="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-18T07:56:11.642365-03:00.jpg"
+     alt="Rádio CBN at 2022-08-18 07:56:12-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-18T07:56:11.642365-03:00.jpg">August 18 at 7:56 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-17T19:58:07.697819-03:00.jpg">
@@ -323,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-14T10:36:16.304448-03:00.jpg">August 14 at 10:36 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-14T10:26:26.145758-03:00.jpg">
-  <img src="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-14T10:26:26.145758-03:00.jpg"
-     alt="Rádio CBN at 2022-08-14 10:26:28-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-14T10:26:26.145758-03:00.jpg">August 14 at 10:26 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-13T20:48:59.165198-03:00.jpg">
-  <img src="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-13T20:48:59.165198-03:00.jpg"
-     alt="Rádio CBN at 2022-08-13 20:49:01-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-13T20:48:59.165198-03:00.jpg">August 13 at 8:49 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-13T10:01:43.053766-03:00.jpg">
-  <img src="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-13T10:01:43.053766-03:00.jpg"
-     alt="Rádio CBN at 2022-08-13 10:01:45-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-13T10:01:43.053766-03:00.jpg">August 13 at 10:01 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 13 hyperlink lists with the Internet Archive.
+The archiving routine has saved 16 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +445,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 18 at 7:59 PM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-18T19:59:36.004953-03:00.hyperlinks.json) |
+| [August 18 at 9:05 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-18T09:04:56.502244-03:00.hyperlinks.json) |
+| [August 18 at 7:56 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-18T07:56:11.642365-03:00.hyperlinks.json) |
 | [August 17 at 7:58 PM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-17T19:58:07.697819-03:00.hyperlinks.json) |
 | [August 17 at 7:54 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-17T07:54:01.851622-03:00.hyperlinks.json) |
 | [August 16 at 8:00 PM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-16T20:00:46.562269-03:00.hyperlinks.json) |
@@ -369,14 +455,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 15 at 10:17 PM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-15T22:17:29.710519-03:00.hyperlinks.json) |
 | [August 15 at 11:02 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-15T11:02:28.491948-03:00.hyperlinks.json) |
 | [August 15 at 10:51 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-15T10:51:04.090803-03:00.hyperlinks.json) |
-| [August 14 at 10:36 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-14T10:36:16.304448-03:00.hyperlinks.json) |
-| [August 14 at 10:26 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-14T10:26:26.145758-03:00.hyperlinks.json) |
-| [August 13 at 10:01 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-13T10:01:43.053766-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 17 accessibility trees with the Internet Archive.
+The archiving routine has saved 19 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +467,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 18 at 7:59 PM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-18T19:59:36.004953-03:00.accessibility.json) |
+| [August 18 at 9:05 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-18T09:04:56.502244-03:00.accessibility.json) |
 | [August 17 at 7:58 PM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-17T19:58:07.697819-03:00.accessibility.json) |
 | [August 17 at 7:54 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-17T07:54:01.851622-03:00.accessibility.json) |
 | [August 16 at 8:00 PM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-16T20:00:46.562269-03:00.accessibility.json) |
@@ -392,21 +477,105 @@ Here are the 10 most recent accessibility trees.
 | [August 14 at 10:36 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-14T10:36:16.304448-03:00.accessibility.json) |
 | [August 13 at 8:49 PM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-13T20:48:59.165198-03:00.accessibility.json) |
 | [August 13 at 10:01 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-13T10:01:43.053766-03:00.accessibility.json) |
-| [August 13 at 9:54 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-13T09:54:01.768510-03:00.accessibility.json) |
-| [August 11 at 8:22 PM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-11T20:22:37.718485-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 28 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 31 Lighthouse audits with the Internet Archive.
 
+
+  <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specLighthouse = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/lighthouse/cbnoficial.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--lighthouse", specLighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 18 at 7:59 PM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-18T19:59:36.004953-03:00.lighthouse.json) |
+| [August 18 at 9:05 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-18T09:04:56.502244-03:00.lighthouse.json) |
+| [August 18 at 7:56 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-18T07:56:11.642365-03:00.lighthouse.json) |
 | [August 17 at 7:58 PM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-17T19:58:07.697819-03:00.lighthouse.json) |
 | [August 17 at 7:54 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-17T07:54:01.851622-03:00.lighthouse.json) |
 | [August 16 at 8:00 PM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-16T20:00:46.562269-03:00.lighthouse.json) |
@@ -414,9 +583,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 15 at 10:17 PM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-15T22:17:29.710519-03:00.lighthouse.json) |
 | [August 15 at 11:02 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-15T11:02:28.491948-03:00.lighthouse.json) |
 | [August 15 at 10:51 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-15T10:51:04.090803-03:00.lighthouse.json) |
-| [August 14 at 10:03 PM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-14T22:03:18.562782-03:00.lighthouse.json) |
-| [August 14 at 10:36 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-14T10:36:16.304448-03:00.lighthouse.json) |
-| [August 14 at 10:26 AM](https://archive.org/download/cbnoficial-2022/cbnoficial-2022-08-14T10:26:26.145758-03:00.lighthouse.json) |
 
 
 

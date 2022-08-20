@@ -1,5 +1,5 @@
 {
-  "created": 1660867032,
+  "created": 1660953586,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/20/items/lagrangenews-2022",
@@ -3336,31 +3336,217 @@
       "sha1": "5aaeeffa6405a2df6657d49465e8eeeaf2e1de29"
     },
     {
+      "name": "lagrangenews-2022-08-19T08:00:34.699173-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660910438",
+      "size": "21360",
+      "md5": "ea728d3ad00bd97faba3d90b82f53a3f",
+      "crc32": "d819b5af",
+      "sha1": "46aa0bda69c1b801aadc92211c6468a74125d6ec",
+      "format": "JSON"
+    },
+    {
+      "name": "lagrangenews-2022-08-19T08:00:34.699173-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660910440",
+      "size": "12096",
+      "md5": "9ee3b3d926b2dcc72cd5ed9851ae3062",
+      "crc32": "904c4a1c",
+      "sha1": "49d2341a4934a194b5bc333060abe025ee78da2f",
+      "format": "JSON"
+    },
+    {
+      "name": "lagrangenews-2022-08-19T08:00:34.699173-04:00.jpg",
+      "source": "original",
+      "mtime": "1660910436",
+      "size": "242264",
+      "md5": "c34c20fdd564cc3561cfa38a56d6c674",
+      "crc32": "2027c264",
+      "sha1": "2ec0a6f8cc9633664005d23a72b513f2ffcde4af",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lagrangenews-2022-08-19T08:00:34.699173-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660910442",
+      "size": "1504",
+      "md5": "0118a729887996e1f9956469d9aa5ce3",
+      "crc32": "b501e7c3",
+      "sha1": "9e94fa904da2fea61eb4309653df24127930c9ec",
+      "format": "JSON"
+    },
+    {
+      "name": "lagrangenews-2022-08-19T08:00:34.699173-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660910443",
+      "size": "9392",
+      "md5": "be5064b335d83d445ca7ee9634973efb",
+      "crc32": "d3294871",
+      "sha1": "d477ddfb7402eb58c9825892488e807ed9b168bf",
+      "format": "JSON"
+    },
+    {
+      "name": "lagrangenews-2022-08-19T08:00:34.699173-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lagrangenews-2022-08-19T08:00:34.699173-04:00.jpg",
+      "mtime": "1660910675",
+      "size": "8431",
+      "md5": "086309d83c57b18bf23e2c6443470c23",
+      "crc32": "f204409a",
+      "sha1": "f23a3e00db69e7e32b66d7db963cda414848b90d"
+    },
+    {
+      "name": "lagrangenews-2022-08-19T10:19:53.044323-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660918796",
+      "size": "21360",
+      "md5": "ea728d3ad00bd97faba3d90b82f53a3f",
+      "crc32": "d819b5af",
+      "sha1": "46aa0bda69c1b801aadc92211c6468a74125d6ec",
+      "format": "JSON"
+    },
+    {
+      "name": "lagrangenews-2022-08-19T10:19:53.044323-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660918799",
+      "size": "12096",
+      "md5": "9ee3b3d926b2dcc72cd5ed9851ae3062",
+      "crc32": "904c4a1c",
+      "sha1": "49d2341a4934a194b5bc333060abe025ee78da2f",
+      "format": "JSON"
+    },
+    {
+      "name": "lagrangenews-2022-08-19T10:19:53.044323-04:00.jpg",
+      "source": "original",
+      "mtime": "1660918794",
+      "size": "242264",
+      "md5": "c34c20fdd564cc3561cfa38a56d6c674",
+      "crc32": "2027c264",
+      "sha1": "2ec0a6f8cc9633664005d23a72b513f2ffcde4af",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lagrangenews-2022-08-19T10:19:53.044323-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660918801",
+      "size": "1504",
+      "md5": "0118a729887996e1f9956469d9aa5ce3",
+      "crc32": "b501e7c3",
+      "sha1": "9e94fa904da2fea61eb4309653df24127930c9ec",
+      "format": "JSON"
+    },
+    {
+      "name": "lagrangenews-2022-08-19T10:19:53.044323-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660918803",
+      "size": "9392",
+      "md5": "be5064b335d83d445ca7ee9634973efb",
+      "crc32": "d3294871",
+      "sha1": "d477ddfb7402eb58c9825892488e807ed9b168bf",
+      "format": "JSON"
+    },
+    {
+      "name": "lagrangenews-2022-08-19T10:19:53.044323-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lagrangenews-2022-08-19T10:19:53.044323-04:00.jpg",
+      "mtime": "1660918914",
+      "size": "8431",
+      "md5": "086309d83c57b18bf23e2c6443470c23",
+      "crc32": "f204409a",
+      "sha1": "f23a3e00db69e7e32b66d7db963cda414848b90d"
+    },
+    {
+      "name": "lagrangenews-2022-08-19T19:54:21.185394-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660953267",
+      "size": "21295",
+      "md5": "017defe18092be359b4d7319d78037f1",
+      "crc32": "37d53603",
+      "sha1": "cb6ab8c81dec1d2b0ced74ee46e3a2bc44b47c79",
+      "format": "JSON"
+    },
+    {
+      "name": "lagrangenews-2022-08-19T19:54:21.185394-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660953269",
+      "size": "12107",
+      "md5": "1502b99d29e5ea04e124c98480b44ce4",
+      "crc32": "d989d400",
+      "sha1": "6ea677e2ecbfd2026128021005d24d0ceca9a4e1",
+      "format": "JSON"
+    },
+    {
+      "name": "lagrangenews-2022-08-19T19:54:21.185394-04:00.jpg",
+      "source": "original",
+      "mtime": "1660953266",
+      "size": "202184",
+      "md5": "f1eed8f1bd3e8599498705eabcfe01bf",
+      "crc32": "e96a65b8",
+      "sha1": "d03e795eba4ad3646eec47cc4bc7bba313b20d9a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lagrangenews-2022-08-19T19:54:21.185394-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660953271",
+      "size": "1504",
+      "md5": "d56f32a428d097f491f5bdb8e0e24070",
+      "crc32": "41c92f5e",
+      "sha1": "cb7981bf4b593ec78ee4cd148462fafbad9a0c59",
+      "format": "JSON"
+    },
+    {
+      "name": "lagrangenews-2022-08-19T19:54:21.185394-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660953273",
+      "size": "9413",
+      "md5": "43caaf63e9e0dfe52da4662962dcfef6",
+      "crc32": "5ea4f435",
+      "sha1": "223166d04c405097301aae421ba377b4e8031f5a",
+      "format": "JSON"
+    },
+    {
+      "name": "lagrangenews-2022-08-19T19:54:21.185394-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lagrangenews-2022-08-19T19:54:21.185394-04:00.jpg",
+      "mtime": "1660953445",
+      "size": "7898",
+      "md5": "cfca355bd8580d99575e02bf4546c7ca",
+      "crc32": "e1d6604f",
+      "sha1": "18a98ecedf63b6f824ef1df3192edd22cf073505"
+    },
+    {
       "name": "lagrangenews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "998bdb9243737da20acad606332d232633ff03c1",
-      "mtime": "1660867011",
-      "size": "70056",
-      "md5": "1639a79126f1a2a242b745426dae4354",
-      "crc32": "6309e64e",
-      "sha1": "f1a6be800b80a6d9b8429d966eb320efd892b7d9",
+      "btih": "510d11dc2f73b451e0fe204cf1f1231863339f3f",
+      "mtime": "1660953460",
+      "size": "73906",
+      "md5": "45438d25691fbe00f1f3f4ebac354d94",
+      "crc32": "0e95b50b",
+      "sha1": "0cf2bb7f08eb578cd87538cbd0e321caa33870a2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lagrangenews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0ca2aedb3e688335e565ed0f523b639e",
+      "md5": "01d40f7c414d9570122c91ac3cb2f977",
       "summation": "md5"
     },
     {
       "name": "lagrangenews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660866902",
-      "size": "421888",
-      "md5": "3ca783240ea042ef84a74fe3c8012b6a",
-      "crc32": "2274bab1",
-      "sha1": "b571b4d4373b95b82a70ad1d1b0d3411abac203e",
+      "mtime": "1660953276",
+      "size": "442368",
+      "md5": "9f4922349905a25a77c0a8ec108696bc",
+      "crc32": "ec179512",
+      "sha1": "d6103a8cc8db903fd7a7c161f83d92f15443e1fd",
       "format": "Metadata"
     },
     {
@@ -3374,9 +3560,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 325,
-  "item_last_updated": 1660867011,
-  "item_size": 17611374,
+  "files_count": 343,
+  "item_last_updated": 1660953460,
+  "item_size": 18480199,
   "metadata": {
     "identifier": "lagrangenews-2022",
     "collection": [
@@ -3394,7 +3580,7 @@
     "addeddate": "2022-07-20 23:31:04"
   },
   "server": "ia801409.us.archive.org",
-  "uniq": 1230458251,
+  "uniq": 1833666666,
   "workable_servers": [
     "ia801409.us.archive.org",
     "ia601409.us.archive.org"

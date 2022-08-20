@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 12 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 14 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         96
     </td>
     <td style="text-align: right;">
-        79
+        78
     </td>
   </tr>
 
@@ -208,7 +208,7 @@ The median score for each category, along with how it ranks in comparison to the
         78
     </td>
     <td style="text-align: right;">
-        51
+        52
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         92
     </td>
     <td style="text-align: right;">
-        175
+        174
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 89 screenshots with the Internet Archive.
+The archiving routine has saved 91 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/johncombest-2022/johncombest-2022-08-18T09:10:05.013996-05:00.jpg">
+  <img src="https://archive.org/download/johncombest-2022/johncombest-2022-08-18T09:10:05.013996-05:00.jpg"
+     alt="John Combest at 2022-08-18 09:10:37-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/johncombest-2022/johncombest-2022-08-18T09:10:05.013996-05:00.jpg">August 18 at 9:10 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/johncombest-2022/johncombest-2022-08-17T21:28:37.049949-05:00.jpg">
+  <img src="https://archive.org/download/johncombest-2022/johncombest-2022-08-17T21:28:37.049949-05:00.jpg"
+     alt="John Combest at 2022-08-17 21:29:05-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/johncombest-2022/johncombest-2022-08-17T21:28:37.049949-05:00.jpg">August 17 at 9:29 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/johncombest-2022/johncombest-2022-08-17T10:03:36.204702-05:00.jpg">
   <img src="https://archive.org/download/johncombest-2022/johncombest-2022-08-17T10:03:36.204702-05:00.jpg"
      alt="John Combest at 2022-08-17 10:04:04-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/johncombest-2022/johncombest-2022-08-12T22:44:39.448997-05:00.jpg">August 12 at 10:44 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/johncombest-2022/johncombest-2022-08-12T12:51:53.242122-05:00.jpg">
-  <img src="https://archive.org/download/johncombest-2022/johncombest-2022-08-12T12:51:53.242122-05:00.jpg"
-     alt="John Combest at 2022-08-12 12:52:21-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/johncombest-2022/johncombest-2022-08-12T12:51:53.242122-05:00.jpg">August 12 at 12:52 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/johncombest-2022/johncombest-2022-08-12T05:01:12.769998-05:00.jpg">
-  <img src="https://archive.org/download/johncombest-2022/johncombest-2022-08-12T05:01:12.769998-05:00.jpg"
-     alt="John Combest at 2022-08-12 05:01:40-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/johncombest-2022/johncombest-2022-08-12T05:01:12.769998-05:00.jpg">August 12 at 5:01 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 89 hyperlink lists with the Internet Archive.
+The archiving routine has saved 91 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 18 at 9:10 AM](https://archive.org/download/johncombest-2022/johncombest-2022-08-18T09:10:05.013996-05:00.hyperlinks.json) |
+| [August 17 at 9:29 PM](https://archive.org/download/johncombest-2022/johncombest-2022-08-17T21:28:37.049949-05:00.hyperlinks.json) |
 | [August 17 at 10:04 AM](https://archive.org/download/johncombest-2022/johncombest-2022-08-17T10:03:36.204702-05:00.hyperlinks.json) |
 | [August 16 at 9:29 PM](https://archive.org/download/johncombest-2022/johncombest-2022-08-16T21:29:07.829317-05:00.hyperlinks.json) |
 | [August 16 at 1:33 PM](https://archive.org/download/johncombest-2022/johncombest-2022-08-16T13:33:00.341838-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 15 at 1:28 AM](https://archive.org/download/johncombest-2022/johncombest-2022-08-15T01:28:43.796877-05:00.hyperlinks.json) |
 | [August 14 at 12:21 PM](https://archive.org/download/johncombest-2022/johncombest-2022-08-14T12:21:54.508769-05:00.hyperlinks.json) |
 | [August 14 at 1:50 AM](https://archive.org/download/johncombest-2022/johncombest-2022-08-14T01:50:20.413519-05:00.hyperlinks.json) |
-| [August 13 at 3:27 PM](https://archive.org/download/johncombest-2022/johncombest-2022-08-13T15:26:32.219487-05:00.hyperlinks.json) |
-| [August 12 at 10:44 PM](https://archive.org/download/johncombest-2022/johncombest-2022-08-12T22:44:39.448997-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 89 accessibility trees with the Internet Archive.
+The archiving routine has saved 91 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 18 at 9:10 AM](https://archive.org/download/johncombest-2022/johncombest-2022-08-18T09:10:05.013996-05:00.accessibility.json) |
+| [August 17 at 9:29 PM](https://archive.org/download/johncombest-2022/johncombest-2022-08-17T21:28:37.049949-05:00.accessibility.json) |
 | [August 17 at 10:04 AM](https://archive.org/download/johncombest-2022/johncombest-2022-08-17T10:03:36.204702-05:00.accessibility.json) |
 | [August 16 at 9:29 PM](https://archive.org/download/johncombest-2022/johncombest-2022-08-16T21:29:07.829317-05:00.accessibility.json) |
 | [August 16 at 1:33 PM](https://archive.org/download/johncombest-2022/johncombest-2022-08-16T13:33:00.341838-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 15 at 1:28 AM](https://archive.org/download/johncombest-2022/johncombest-2022-08-15T01:28:43.796877-05:00.accessibility.json) |
 | [August 14 at 12:21 PM](https://archive.org/download/johncombest-2022/johncombest-2022-08-14T12:21:54.508769-05:00.accessibility.json) |
 | [August 14 at 1:50 AM](https://archive.org/download/johncombest-2022/johncombest-2022-08-14T01:50:20.413519-05:00.accessibility.json) |
-| [August 13 at 3:27 PM](https://archive.org/download/johncombest-2022/johncombest-2022-08-13T15:26:32.219487-05:00.accessibility.json) |
-| [August 12 at 10:44 PM](https://archive.org/download/johncombest-2022/johncombest-2022-08-12T22:44:39.448997-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 50 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 52 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 18 at 9:10 AM](https://archive.org/download/johncombest-2022/johncombest-2022-08-18T09:10:05.013996-05:00.lighthouse.json) |
+| [August 17 at 9:29 PM](https://archive.org/download/johncombest-2022/johncombest-2022-08-17T21:28:37.049949-05:00.lighthouse.json) |
 | [August 17 at 10:04 AM](https://archive.org/download/johncombest-2022/johncombest-2022-08-17T10:03:36.204702-05:00.lighthouse.json) |
 | [August 16 at 9:29 PM](https://archive.org/download/johncombest-2022/johncombest-2022-08-16T21:29:07.829317-05:00.lighthouse.json) |
 | [August 16 at 1:33 PM](https://archive.org/download/johncombest-2022/johncombest-2022-08-16T13:33:00.341838-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 15 at 1:28 AM](https://archive.org/download/johncombest-2022/johncombest-2022-08-15T01:28:43.796877-05:00.lighthouse.json) |
 | [August 14 at 12:22 PM](https://archive.org/download/johncombest-2022/johncombest-2022-08-14T12:21:54.508769-05:00.lighthouse.json) |
 | [August 14 at 1:50 AM](https://archive.org/download/johncombest-2022/johncombest-2022-08-14T01:50:20.413519-05:00.lighthouse.json) |
-| [August 13 at 3:27 PM](https://archive.org/download/johncombest-2022/johncombest-2022-08-13T15:26:32.219487-05:00.lighthouse.json) |
-| [August 12 at 10:44 PM](https://archive.org/download/johncombest-2022/johncombest-2022-08-12T22:44:39.448997-05:00.lighthouse.json) |
 
 
 

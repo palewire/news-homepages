@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 17 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 19 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         77
     </td>
     <td style="text-align: right;">
-        609
+        610
     </td>
   </tr>
 
@@ -196,7 +196,7 @@ The median score for each category, along with how it ranks in comparison to the
         75
     </td>
     <td style="text-align: right;">
-        578
+        579
     </td>
   </tr>
 
@@ -205,10 +205,10 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        31
+        27
     </td>
     <td style="text-align: right;">
-        342
+        394
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 36 screenshots with the Internet Archive.
+The archiving routine has saved 39 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-18T11:07:16.128240-03:00.jpg">
+  <img src="https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-18T11:07:16.128240-03:00.jpg"
+     alt="Gazeta do Povo at 2022-08-18 11:07:22-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-18T11:07:16.128240-03:00.jpg">August 18 at 11:07 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-18T09:06:13.867459-03:00.jpg">
+  <img src="https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-18T09:06:13.867459-03:00.jpg"
+     alt="Gazeta do Povo at 2022-08-18 09:06:20-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-18T09:06:13.867459-03:00.jpg">August 18 at 9:06 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-17T23:26:13.225190-03:00.jpg">
+  <img src="https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-17T23:26:13.225190-03:00.jpg"
+     alt="Gazeta do Povo at 2022-08-17 23:26:19-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-17T23:26:13.225190-03:00.jpg">August 17 at 11:26 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-17T12:02:01.123481-03:00.jpg">
   <img src="https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-17T12:02:01.123481-03:00.jpg"
      alt="Gazeta do Povo at 2022-08-17 12:02:07-03:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-14T10:37:25.549176-03:00.jpg">August 14 at 10:37 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-14T03:46:49.655259-03:00.jpg">
-  <img src="https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-14T03:46:49.655259-03:00.jpg"
-     alt="Gazeta do Povo at 2022-08-14 03:46:51-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-14T03:46:49.655259-03:00.jpg">August 14 at 3:46 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-13T17:22:44.723822-03:00.jpg">
-  <img src="https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-13T17:22:44.723822-03:00.jpg"
-     alt="Gazeta do Povo at 2022-08-13 17:22:47-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-13T17:22:44.723822-03:00.jpg">August 13 at 5:22 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-13T10:02:19.371071-03:00.jpg">
-  <img src="https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-13T10:02:19.371071-03:00.jpg"
-     alt="Gazeta do Povo at 2022-08-13 10:02:22-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-13T10:02:19.371071-03:00.jpg">August 13 at 10:02 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 36 hyperlink lists with the Internet Archive.
+The archiving routine has saved 39 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 18 at 11:07 AM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-18T11:07:16.128240-03:00.hyperlinks.json) |
+| [August 18 at 9:06 AM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-18T09:06:13.867459-03:00.hyperlinks.json) |
+| [August 17 at 11:26 PM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-17T23:26:13.225190-03:00.hyperlinks.json) |
 | [August 17 at 12:02 PM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-17T12:02:01.123481-03:00.hyperlinks.json) |
 | [August 16 at 11:27 PM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-16T23:27:29.345348-03:00.hyperlinks.json) |
 | [August 16 at 3:29 PM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-16T15:29:03.318890-03:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 15 at 4:52 PM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-15T16:51:58.825486-03:00.hyperlinks.json) |
 | [August 15 at 11:04 AM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-15T11:03:56.458836-03:00.hyperlinks.json) |
 | [August 15 at 3:26 AM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-15T03:26:07.351267-03:00.hyperlinks.json) |
-| [August 14 at 2:19 PM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-14T14:19:02.127899-03:00.hyperlinks.json) |
-| [August 14 at 10:37 AM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-14T10:37:25.549176-03:00.hyperlinks.json) |
-| [August 14 at 3:46 AM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-14T03:46:49.655259-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 35 accessibility trees with the Internet Archive.
+The archiving routine has saved 38 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 18 at 11:07 AM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-18T11:07:16.128240-03:00.accessibility.json) |
+| [August 18 at 9:06 AM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-18T09:06:13.867459-03:00.accessibility.json) |
+| [August 17 at 11:26 PM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-17T23:26:13.225190-03:00.accessibility.json) |
 | [August 17 at 12:02 PM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-17T12:02:01.123481-03:00.accessibility.json) |
 | [August 16 at 11:27 PM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-16T23:27:29.345348-03:00.accessibility.json) |
 | [August 16 at 3:29 PM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-16T15:29:03.318890-03:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 15 at 4:52 PM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-15T16:51:58.825486-03:00.accessibility.json) |
 | [August 15 at 11:04 AM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-15T11:03:56.458836-03:00.accessibility.json) |
 | [August 15 at 3:26 AM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-15T03:26:07.351267-03:00.accessibility.json) |
-| [August 14 at 2:19 PM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-14T14:19:02.127899-03:00.accessibility.json) |
-| [August 14 at 10:37 AM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-14T10:37:25.549176-03:00.accessibility.json) |
-| [August 14 at 3:46 AM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-14T03:46:49.655259-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 36 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 39 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 18 at 11:07 AM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-18T11:07:16.128240-03:00.lighthouse.json) |
+| [August 18 at 9:06 AM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-18T09:06:13.867459-03:00.lighthouse.json) |
+| [August 17 at 11:26 PM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-17T23:26:13.225190-03:00.lighthouse.json) |
 | [August 17 at 12:02 PM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-17T12:02:01.123481-03:00.lighthouse.json) |
 | [August 16 at 11:27 PM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-16T23:27:29.345348-03:00.lighthouse.json) |
 | [August 16 at 3:29 PM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-16T15:29:03.318890-03:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 15 at 4:52 PM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-15T16:51:58.825486-03:00.lighthouse.json) |
 | [August 15 at 11:04 AM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-15T11:03:56.458836-03:00.lighthouse.json) |
 | [August 15 at 3:26 AM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-15T03:26:07.351267-03:00.lighthouse.json) |
-| [August 14 at 2:19 PM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-14T14:19:02.127899-03:00.lighthouse.json) |
-| [August 14 at 10:37 AM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-14T10:37:25.549176-03:00.lighthouse.json) |
-| [August 14 at 3:46 AM](https://archive.org/download/gazetadopovo-2022/gazetadopovo-2022-08-14T03:46:49.655259-03:00.lighthouse.json) |
 
 
 

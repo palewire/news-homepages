@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 18 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 20 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         73
     </td>
     <td style="text-align: right;">
-        668
+        671
     </td>
   </tr>
 
@@ -196,7 +196,7 @@ The median score for each category, along with how it ranks in comparison to the
         67
     </td>
     <td style="text-align: right;">
-        698
+        700
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 37 screenshots with the Internet Archive.
+The archiving routine has saved 40 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-18T20:52:28.323047-03:00.jpg">
+  <img src="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-18T20:52:28.323047-03:00.jpg"
+     alt="Jornal do Brasil at 2022-08-18 20:52:31-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-18T20:52:28.323047-03:00.jpg">August 18 at 8:52 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-18T09:05:49.762208-03:00.jpg">
+  <img src="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-18T09:05:49.762208-03:00.jpg"
+     alt="Jornal do Brasil at 2022-08-18 09:05:51-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-18T09:05:49.762208-03:00.jpg">August 18 at 9:05 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-18T08:57:38.836972-03:00.jpg">
+  <img src="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-18T08:57:38.836972-03:00.jpg"
+     alt="Jornal do Brasil at 2022-08-18 08:57:41-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-18T08:57:38.836972-03:00.jpg">August 18 at 8:57 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-17T20:50:02.501643-03:00.jpg">
   <img src="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-17T20:50:02.501643-03:00.jpg"
      alt="Jornal do Brasil at 2022-08-17 20:50:05-03:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-14T10:43:49.217972-03:00.jpg">August 14 at 10:43 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-14T10:37:40.173462-03:00.jpg">
-  <img src="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-14T10:37:40.173462-03:00.jpg"
-     alt="Jornal do Brasil at 2022-08-14 10:37:42-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-14T10:37:40.173462-03:00.jpg">August 14 at 10:37 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-14T00:09:32.285204-03:00.jpg">
-  <img src="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-14T00:09:32.285204-03:00.jpg"
-     alt="Jornal do Brasil at 2022-08-14 00:09:34-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-14T00:09:32.285204-03:00.jpg">August 14 at 12:09 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-13T10:06:06.857928-03:00.jpg">
-  <img src="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-13T10:06:06.857928-03:00.jpg"
-     alt="Jornal do Brasil at 2022-08-13 10:06:08-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-13T10:06:06.857928-03:00.jpg">August 13 at 10:06 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 37 hyperlink lists with the Internet Archive.
+The archiving routine has saved 40 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 18 at 8:52 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-18T20:52:28.323047-03:00.hyperlinks.json) |
+| [August 18 at 9:05 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-18T09:05:49.762208-03:00.hyperlinks.json) |
+| [August 18 at 8:57 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-18T08:57:38.836972-03:00.hyperlinks.json) |
 | [August 17 at 8:50 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-17T20:50:02.501643-03:00.hyperlinks.json) |
 | [August 17 at 8:48 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-17T08:48:38.254446-03:00.hyperlinks.json) |
 | [August 16 at 9:04 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-16T21:04:09.829358-03:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 15 at 10:30 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-15T22:30:26.140838-03:00.hyperlinks.json) |
 | [August 15 at 11:12 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-15T11:12:10.741919-03:00.hyperlinks.json) |
 | [August 15 at 11:04 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-15T11:04:23.573041-03:00.hyperlinks.json) |
-| [August 14 at 10:16 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-14T22:16:00.277773-03:00.hyperlinks.json) |
-| [August 14 at 10:43 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-14T10:43:49.217972-03:00.hyperlinks.json) |
-| [August 14 at 10:37 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-14T10:37:40.173462-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 37 accessibility trees with the Internet Archive.
+The archiving routine has saved 40 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 18 at 8:52 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-18T20:52:28.323047-03:00.accessibility.json) |
+| [August 18 at 9:05 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-18T09:05:49.762208-03:00.accessibility.json) |
+| [August 18 at 8:57 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-18T08:57:38.836972-03:00.accessibility.json) |
 | [August 17 at 8:50 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-17T20:50:02.501643-03:00.accessibility.json) |
 | [August 17 at 8:48 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-17T08:48:38.254446-03:00.accessibility.json) |
 | [August 16 at 9:04 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-16T21:04:09.829358-03:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 15 at 10:30 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-15T22:30:26.140838-03:00.accessibility.json) |
 | [August 15 at 11:12 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-15T11:12:10.741919-03:00.accessibility.json) |
 | [August 15 at 11:04 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-15T11:04:23.573041-03:00.accessibility.json) |
-| [August 14 at 10:16 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-14T22:16:00.277773-03:00.accessibility.json) |
-| [August 14 at 10:43 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-14T10:43:49.217972-03:00.accessibility.json) |
-| [August 14 at 10:37 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-14T10:37:40.173462-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 37 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 40 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 18 at 8:52 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-18T20:52:28.323047-03:00.lighthouse.json) |
+| [August 18 at 9:05 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-18T09:05:49.762208-03:00.lighthouse.json) |
+| [August 18 at 8:57 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-18T08:57:38.836972-03:00.lighthouse.json) |
 | [August 17 at 8:50 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-17T20:50:02.501643-03:00.lighthouse.json) |
 | [August 17 at 8:48 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-17T08:48:38.254446-03:00.lighthouse.json) |
 | [August 16 at 9:04 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-16T21:04:09.829358-03:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 15 at 10:30 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-15T22:30:26.140838-03:00.lighthouse.json) |
 | [August 15 at 11:12 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-15T11:12:10.741919-03:00.lighthouse.json) |
 | [August 15 at 11:04 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-15T11:04:23.573041-03:00.lighthouse.json) |
-| [August 14 at 10:16 PM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-14T22:16:00.277773-03:00.lighthouse.json) |
-| [August 14 at 10:43 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-14T10:43:49.217972-03:00.lighthouse.json) |
-| [August 14 at 10:37 AM](https://archive.org/download/jornaldobrasil-2022/jornaldobrasil-2022-08-14T10:37:40.173462-03:00.lighthouse.json) |
 
 
 

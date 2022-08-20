@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 13 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 15 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         72
     </td>
     <td style="text-align: right;">
-        684
+        686
     </td>
   </tr>
 
@@ -196,7 +196,7 @@ The median score for each category, along with how it ranks in comparison to the
         58
     </td>
     <td style="text-align: right;">
-        744
+        746
     </td>
   </tr>
 
@@ -205,10 +205,10 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        20
+        19
     </td>
     <td style="text-align: right;">
-        553
+        567
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 85 screenshots with the Internet Archive.
+The archiving routine has saved 88 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/scotnational-2022/scotnational-2022-08-19T00:59:11.486253+01:00.jpg">
+  <img src="https://archive.org/download/scotnational-2022/scotnational-2022-08-19T00:59:11.486253+01:00.jpg"
+     alt="National at 2022-08-19 00:59:14+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-08-19T00:59:11.486253+01:00.jpg">August 19 at 12:59 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/scotnational-2022/scotnational-2022-08-18T13:04:58.523885+01:00.jpg">
+  <img src="https://archive.org/download/scotnational-2022/scotnational-2022-08-18T13:04:58.523885+01:00.jpg"
+     alt="National at 2022-08-18 13:05:04+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-08-18T13:04:58.523885+01:00.jpg">August 18 at 1:05 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/scotnational-2022/scotnational-2022-08-18T10:11:50.814444+01:00.jpg">
+  <img src="https://archive.org/download/scotnational-2022/scotnational-2022-08-18T10:11:50.814444+01:00.jpg"
+     alt="National at 2022-08-18 10:11:52+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-08-18T10:11:50.814444+01:00.jpg">August 18 at 10:11 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/scotnational-2022/scotnational-2022-08-18T00:56:47.506937+01:00.jpg">
   <img src="https://archive.org/download/scotnational-2022/scotnational-2022-08-18T00:56:47.506937+01:00.jpg"
      alt="National at 2022-08-18 00:56:53+01:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-08-14T04:24:08.298805+01:00.jpg">August 14 at 4:24 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/scotnational-2022/scotnational-2022-08-13T14:19:38.622911+01:00.jpg">
-  <img src="https://archive.org/download/scotnational-2022/scotnational-2022-08-13T14:19:38.622911+01:00.jpg"
-     alt="National at 2022-08-13 14:19:41+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-08-13T14:19:38.622911+01:00.jpg">August 13 at 2:19 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/scotnational-2022/scotnational-2022-08-13T01:50:03.165651+01:00.jpg">
-  <img src="https://archive.org/download/scotnational-2022/scotnational-2022-08-13T01:50:03.165651+01:00.jpg"
-     alt="National at 2022-08-13 01:50:07+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-08-13T01:50:03.165651+01:00.jpg">August 13 at 1:50 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/scotnational-2022/scotnational-2022-08-12T14:31:49.935461+01:00.jpg">
-  <img src="https://archive.org/download/scotnational-2022/scotnational-2022-08-12T14:31:49.935461+01:00.jpg"
-     alt="National at 2022-08-12 14:31:53+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/scotnational-2022/scotnational-2022-08-12T14:31:49.935461+01:00.jpg">August 12 at 2:31 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 80 hyperlink lists with the Internet Archive.
+The archiving routine has saved 83 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 19 at 12:59 AM](https://archive.org/download/scotnational-2022/scotnational-2022-08-19T00:59:11.486253+01:00.hyperlinks.json) |
+| [August 18 at 1:05 PM](https://archive.org/download/scotnational-2022/scotnational-2022-08-18T13:04:58.523885+01:00.hyperlinks.json) |
+| [August 18 at 10:11 AM](https://archive.org/download/scotnational-2022/scotnational-2022-08-18T10:11:50.814444+01:00.hyperlinks.json) |
 | [August 18 at 12:56 AM](https://archive.org/download/scotnational-2022/scotnational-2022-08-18T00:56:47.506937+01:00.hyperlinks.json) |
 | [August 17 at 12:55 PM](https://archive.org/download/scotnational-2022/scotnational-2022-08-17T12:55:31.992799+01:00.hyperlinks.json) |
 | [August 17 at 1:12 AM](https://archive.org/download/scotnational-2022/scotnational-2022-08-17T01:11:55.167742+01:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 16 at 2:47 AM](https://archive.org/download/scotnational-2022/scotnational-2022-08-16T02:47:44.022931+01:00.hyperlinks.json) |
 | [August 15 at 3:28 PM](https://archive.org/download/scotnational-2022/scotnational-2022-08-15T15:27:57.013777+01:00.hyperlinks.json) |
 | [August 15 at 2:30 AM](https://archive.org/download/scotnational-2022/scotnational-2022-08-15T02:29:50.915407+01:00.hyperlinks.json) |
-| [August 14 at 2:58 PM](https://archive.org/download/scotnational-2022/scotnational-2022-08-14T14:57:53.672854+01:00.hyperlinks.json) |
-| [August 14 at 4:24 AM](https://archive.org/download/scotnational-2022/scotnational-2022-08-14T04:24:08.298805+01:00.hyperlinks.json) |
-| [August 13 at 2:19 PM](https://archive.org/download/scotnational-2022/scotnational-2022-08-13T14:19:38.622911+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 78 accessibility trees with the Internet Archive.
+The archiving routine has saved 81 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 19 at 12:59 AM](https://archive.org/download/scotnational-2022/scotnational-2022-08-19T00:59:11.486253+01:00.accessibility.json) |
+| [August 18 at 1:05 PM](https://archive.org/download/scotnational-2022/scotnational-2022-08-18T13:04:58.523885+01:00.accessibility.json) |
+| [August 18 at 10:11 AM](https://archive.org/download/scotnational-2022/scotnational-2022-08-18T10:11:50.814444+01:00.accessibility.json) |
 | [August 18 at 12:56 AM](https://archive.org/download/scotnational-2022/scotnational-2022-08-18T00:56:47.506937+01:00.accessibility.json) |
 | [August 17 at 12:55 PM](https://archive.org/download/scotnational-2022/scotnational-2022-08-17T12:55:31.992799+01:00.accessibility.json) |
 | [August 17 at 1:12 AM](https://archive.org/download/scotnational-2022/scotnational-2022-08-17T01:11:55.167742+01:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 16 at 2:47 AM](https://archive.org/download/scotnational-2022/scotnational-2022-08-16T02:47:44.022931+01:00.accessibility.json) |
 | [August 15 at 3:28 PM](https://archive.org/download/scotnational-2022/scotnational-2022-08-15T15:27:57.013777+01:00.accessibility.json) |
 | [August 15 at 2:30 AM](https://archive.org/download/scotnational-2022/scotnational-2022-08-15T02:29:50.915407+01:00.accessibility.json) |
-| [August 14 at 2:58 PM](https://archive.org/download/scotnational-2022/scotnational-2022-08-14T14:57:53.672854+01:00.accessibility.json) |
-| [August 14 at 4:24 AM](https://archive.org/download/scotnational-2022/scotnational-2022-08-14T04:24:08.298805+01:00.accessibility.json) |
-| [August 13 at 2:19 PM](https://archive.org/download/scotnational-2022/scotnational-2022-08-13T14:19:38.622911+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 51 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 54 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 19 at 12:59 AM](https://archive.org/download/scotnational-2022/scotnational-2022-08-19T00:59:11.486253+01:00.lighthouse.json) |
+| [August 18 at 1:05 PM](https://archive.org/download/scotnational-2022/scotnational-2022-08-18T13:04:58.523885+01:00.lighthouse.json) |
+| [August 18 at 10:11 AM](https://archive.org/download/scotnational-2022/scotnational-2022-08-18T10:11:50.814444+01:00.lighthouse.json) |
 | [August 18 at 12:56 AM](https://archive.org/download/scotnational-2022/scotnational-2022-08-18T00:56:47.506937+01:00.lighthouse.json) |
 | [August 17 at 12:55 PM](https://archive.org/download/scotnational-2022/scotnational-2022-08-17T12:55:31.992799+01:00.lighthouse.json) |
 | [August 17 at 1:12 AM](https://archive.org/download/scotnational-2022/scotnational-2022-08-17T01:11:55.167742+01:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 16 at 2:47 AM](https://archive.org/download/scotnational-2022/scotnational-2022-08-16T02:47:44.022931+01:00.lighthouse.json) |
 | [August 15 at 3:28 PM](https://archive.org/download/scotnational-2022/scotnational-2022-08-15T15:27:57.013777+01:00.lighthouse.json) |
 | [August 15 at 2:30 AM](https://archive.org/download/scotnational-2022/scotnational-2022-08-15T02:29:50.915407+01:00.lighthouse.json) |
-| [August 14 at 2:58 PM](https://archive.org/download/scotnational-2022/scotnational-2022-08-14T14:57:53.672854+01:00.lighthouse.json) |
-| [August 14 at 4:24 AM](https://archive.org/download/scotnational-2022/scotnational-2022-08-14T04:24:08.298805+01:00.lighthouse.json) |
-| [August 13 at 2:19 PM](https://archive.org/download/scotnational-2022/scotnational-2022-08-13T14:19:38.622911+01:00.lighthouse.json) |
 
 
 

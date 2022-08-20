@@ -1,5 +1,5 @@
 {
-  "created": 1660867443,
+  "created": 1660953381,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/17/items/jn_japanese-2022",
@@ -6210,31 +6210,279 @@
       "sha1": "ab9590976d8ca0ecf70face963f10ffc2209e44a"
     },
     {
+      "name": "jn_japanese-2022-08-19T11:18:41.782978+09:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660875524",
+      "size": "39638",
+      "md5": "f8edb8d5b57a0800006efa77c93fdc45",
+      "crc32": "0ba843e9",
+      "sha1": "34a62a7bb3eaa41c8d056e7c72e140e0ea5eb0fc",
+      "format": "JSON"
+    },
+    {
+      "name": "jn_japanese-2022-08-19T11:18:41.782978+09:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660875526",
+      "size": "74766",
+      "md5": "abf2fe05e6ef22aeb67633715b4585ed",
+      "crc32": "6cb5451b",
+      "sha1": "6db350809af1b45cc813ee96055aacc27eaa06aa",
+      "format": "JSON"
+    },
+    {
+      "name": "jn_japanese-2022-08-19T11:18:41.782978+09:00.jpg",
+      "source": "original",
+      "mtime": "1660875523",
+      "size": "310328",
+      "md5": "ba458cf6a40701d259003abcec252709",
+      "crc32": "bef9317b",
+      "sha1": "d3821e17adfd0b82436dda768a4d3cd6297ce689",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jn_japanese-2022-08-19T11:18:41.782978+09:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660875528",
+      "size": "1483",
+      "md5": "ebc4ca7911b045cbdf770ef93e33f4fd",
+      "crc32": "d1bb110c",
+      "sha1": "fb6e6b8ec304bccdb31eb646cee0cd2a9fcbea63",
+      "format": "JSON"
+    },
+    {
+      "name": "jn_japanese-2022-08-19T11:18:41.782978+09:00.wayback.json",
+      "source": "original",
+      "mtime": "1660875530",
+      "size": "350",
+      "md5": "cfd66bfdbe883e07a17551f288552ad9",
+      "crc32": "aa673ee8",
+      "sha1": "83ae55fae247d42e87b911f08cfa1fd5b4fc0437",
+      "format": "JSON"
+    },
+    {
+      "name": "jn_japanese-2022-08-19T11:18:41.782978+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jn_japanese-2022-08-19T11:18:41.782978+09:00.jpg",
+      "mtime": "1660876011",
+      "size": "9677",
+      "md5": "9ab4bdef0887c6d6e0067d27b9edb426",
+      "crc32": "07c029c3",
+      "sha1": "eff7ab2d8e85580bd0fc81c9681c05c11a6905e4"
+    },
+    {
+      "name": "jn_japanese-2022-08-19T21:00:09.361967+09:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660910415",
+      "size": "38912",
+      "md5": "67b9a026b1ec12257269c1ce501c908a",
+      "crc32": "770ee090",
+      "sha1": "f461acd524e9d43753e68d1c3fa9a4916b7e08d2",
+      "format": "JSON"
+    },
+    {
+      "name": "jn_japanese-2022-08-19T21:00:09.361967+09:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660910416",
+      "size": "73710",
+      "md5": "cf092c68ffbf8b80637c1afeb62a4049",
+      "crc32": "f22a364c",
+      "sha1": "fadfd3397c7b8df658090a29a3c1c4195387f2da",
+      "format": "JSON"
+    },
+    {
+      "name": "jn_japanese-2022-08-19T21:00:09.361967+09:00.jpg",
+      "source": "original",
+      "mtime": "1660910413",
+      "size": "312797",
+      "md5": "1381b6cf443f61b6d5fc19d1916b39ef",
+      "crc32": "cad9e7eb",
+      "sha1": "6f25ac83d401c92b40d99b577c65604a659412d4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jn_japanese-2022-08-19T21:00:09.361967+09:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660910418",
+      "size": "1483",
+      "md5": "2b29685d2b4ed4190dad10cb0175a56d",
+      "crc32": "97dce5b9",
+      "sha1": "7384d28f35d6dab8f1e1831bc3479bb0bca1760c",
+      "format": "JSON"
+    },
+    {
+      "name": "jn_japanese-2022-08-19T21:00:09.361967+09:00.wayback.json",
+      "source": "original",
+      "mtime": "1660910420",
+      "size": "48591",
+      "md5": "a68e5b38edb0b9cd4663ed3caf840db5",
+      "crc32": "94f160bf",
+      "sha1": "2e9fd2d2837bdebced82f2aa9ab745f4599c4276",
+      "format": "JSON"
+    },
+    {
+      "name": "jn_japanese-2022-08-19T21:00:09.361967+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jn_japanese-2022-08-19T21:00:09.361967+09:00.jpg",
+      "mtime": "1660910679",
+      "size": "9565",
+      "md5": "0bc696aeff2c505fbf8a4afdc31346b8",
+      "crc32": "81bb2d4a",
+      "sha1": "6dc9e93b492558e3bae0860995c34c90d89cab06"
+    },
+    {
+      "name": "jn_japanese-2022-08-19T23:17:48.516737+09:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660918674",
+      "size": "38912",
+      "md5": "67b9a026b1ec12257269c1ce501c908a",
+      "crc32": "770ee090",
+      "sha1": "f461acd524e9d43753e68d1c3fa9a4916b7e08d2",
+      "format": "JSON"
+    },
+    {
+      "name": "jn_japanese-2022-08-19T23:17:48.516737+09:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660918676",
+      "size": "73710",
+      "md5": "cf092c68ffbf8b80637c1afeb62a4049",
+      "crc32": "f22a364c",
+      "sha1": "fadfd3397c7b8df658090a29a3c1c4195387f2da",
+      "format": "JSON"
+    },
+    {
+      "name": "jn_japanese-2022-08-19T23:17:48.516737+09:00.jpg",
+      "source": "original",
+      "mtime": "1660918672",
+      "size": "312797",
+      "md5": "1381b6cf443f61b6d5fc19d1916b39ef",
+      "crc32": "cad9e7eb",
+      "sha1": "6f25ac83d401c92b40d99b577c65604a659412d4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jn_japanese-2022-08-19T23:17:48.516737+09:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660918678",
+      "size": "1483",
+      "md5": "2b29685d2b4ed4190dad10cb0175a56d",
+      "crc32": "97dce5b9",
+      "sha1": "7384d28f35d6dab8f1e1831bc3479bb0bca1760c",
+      "format": "JSON"
+    },
+    {
+      "name": "jn_japanese-2022-08-19T23:17:48.516737+09:00.wayback.json",
+      "source": "original",
+      "mtime": "1660918681",
+      "size": "48591",
+      "md5": "a68e5b38edb0b9cd4663ed3caf840db5",
+      "crc32": "94f160bf",
+      "sha1": "2e9fd2d2837bdebced82f2aa9ab745f4599c4276",
+      "format": "JSON"
+    },
+    {
+      "name": "jn_japanese-2022-08-19T23:17:48.516737+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jn_japanese-2022-08-19T23:17:48.516737+09:00.jpg",
+      "mtime": "1660918779",
+      "size": "9565",
+      "md5": "0bc696aeff2c505fbf8a4afdc31346b8",
+      "crc32": "81bb2d4a",
+      "sha1": "6dc9e93b492558e3bae0860995c34c90d89cab06"
+    },
+    {
+      "name": "jn_japanese-2022-08-20T08:52:41.133103+09:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660953167",
+      "size": "39447",
+      "md5": "b50980dbbda642822053c3c6f9a93b4c",
+      "crc32": "0e054edb",
+      "sha1": "3fe4786336d48e114fa2c0b98caf53dbe6da836b",
+      "format": "JSON"
+    },
+    {
+      "name": "jn_japanese-2022-08-20T08:52:41.133103+09:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660953169",
+      "size": "74176",
+      "md5": "ffcc2f7038e9adbe4971cf60e2be26b0",
+      "crc32": "b6a280e4",
+      "sha1": "a36ece4bad88f3210939deef3015a8207e6b6847",
+      "format": "JSON"
+    },
+    {
+      "name": "jn_japanese-2022-08-20T08:52:41.133103+09:00.jpg",
+      "source": "original",
+      "mtime": "1660953165",
+      "size": "314543",
+      "md5": "305a52374d83308a4f1c361cd6ebe673",
+      "crc32": "22462731",
+      "sha1": "d6892e90a3ba0f1db3590efb006ead1317475b49",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jn_japanese-2022-08-20T08:52:41.133103+09:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660953170",
+      "size": "1483",
+      "md5": "0f6573676a88052a65f6b1d529bdf683",
+      "crc32": "7bbdd490",
+      "sha1": "e79b8eddb91cd3c9265b7b08486758fdaef99e1f",
+      "format": "JSON"
+    },
+    {
+      "name": "jn_japanese-2022-08-20T08:52:41.133103+09:00.wayback.json",
+      "source": "original",
+      "mtime": "1660953172",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "jn_japanese-2022-08-20T08:52:41.133103+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jn_japanese-2022-08-20T08:52:41.133103+09:00.jpg",
+      "mtime": "1660953329",
+      "size": "9652",
+      "md5": "ea2a384a639bb2f24b522c85935e201f",
+      "crc32": "00784048",
+      "sha1": "c1e81c7d92b1d72191ed1d099db62ef208dc9a82"
+    },
+    {
       "name": "jn_japanese-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e5fe7665fd6bcd8adcb66fae90e35118c1d9c70f",
-      "mtime": "1660867162",
-      "size": "128976",
-      "md5": "792c8bdfd20edaf6ec66e44b04ecf3df",
-      "crc32": "48ee8519",
-      "sha1": "3ed83d6d7b874e77682fa31046b2fd70dcfa914b",
+      "btih": "7ba5541ec00b89128ddf315f141412fc8d517b03",
+      "mtime": "1660953335",
+      "size": "134112",
+      "md5": "7621dd2d3e6042c49130fea846a5accd",
+      "crc32": "7cef715c",
+      "sha1": "d968ed81eb98598278e3b3d120ce22b7e61df484",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jn_japanese-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5ce09a014bd3f74805f74f9148a76c05",
+      "md5": "759143dd6aa4484fb7b033d1b205e4e0",
       "summation": "md5"
     },
     {
       "name": "jn_japanese-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660866797",
-      "size": "745472",
-      "md5": "f62e65ebf101bef43bbdfb8e8d3b0324",
-      "crc32": "22524b6c",
-      "sha1": "3e68669c2f6837858877770f52cec2b4b65bdd5f",
+      "mtime": "1660953179",
+      "size": "774144",
+      "md5": "4b5bfdb332cab424cc05480d385a7d06",
+      "crc32": "78b98145",
+      "sha1": "3a7f8cfd8d2f74ee1747399f07826fec54631b47",
       "format": "Metadata"
     },
     {
@@ -6248,9 +6496,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 600,
-  "item_last_updated": 1660867162,
-  "item_size": 53567463,
+  "files_count": 624,
+  "item_last_updated": 1660953335,
+  "item_size": 55447132,
   "metadata": {
     "identifier": "jn_japanese-2022",
     "collection": [
@@ -6268,7 +6516,7 @@
     "addeddate": "2022-07-09 02:39:08"
   },
   "server": "ia801403.us.archive.org",
-  "uniq": 582499535,
+  "uniq": 531757355,
   "workable_servers": [
     "ia801403.us.archive.org",
     "ia601403.us.archive.org"

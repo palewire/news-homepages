@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 12 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 14 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         86
     </td>
     <td style="text-align: right;">
-        376
+        377
     </td>
   </tr>
 
@@ -196,7 +196,7 @@ The median score for each category, along with how it ranks in comparison to the
         83
     </td>
     <td style="text-align: right;">
-        401
+        399
     </td>
   </tr>
 
@@ -208,7 +208,7 @@ The median score for each category, along with how it ranks in comparison to the
         6
     </td>
     <td style="text-align: right;">
-        744
+        747
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 88 screenshots with the Internet Archive.
+The archiving routine has saved 90 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/scsentinel-2022/scsentinel-2022-08-18T08:27:56.960693-07:00.jpg">
+  <img src="https://archive.org/download/scsentinel-2022/scsentinel-2022-08-18T08:27:56.960693-07:00.jpg"
+     alt="Santa Cruz Sentinel at 2022-08-18 08:27:58-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/scsentinel-2022/scsentinel-2022-08-18T08:27:56.960693-07:00.jpg">August 18 at 8:27 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/scsentinel-2022/scsentinel-2022-08-17T20:44:50.685389-07:00.jpg">
+  <img src="https://archive.org/download/scsentinel-2022/scsentinel-2022-08-17T20:44:50.685389-07:00.jpg"
+     alt="Santa Cruz Sentinel at 2022-08-17 20:44:54-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/scsentinel-2022/scsentinel-2022-08-17T20:44:50.685389-07:00.jpg">August 17 at 8:44 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/scsentinel-2022/scsentinel-2022-08-17T08:10:26.301796-07:00.jpg">
   <img src="https://archive.org/download/scsentinel-2022/scsentinel-2022-08-17T08:10:26.301796-07:00.jpg"
      alt="Santa Cruz Sentinel at 2022-08-17 08:10:36-07:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/scsentinel-2022/scsentinel-2022-08-12T22:11:06.072621-07:00.jpg">August 12 at 10:11 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/scsentinel-2022/scsentinel-2022-08-12T11:23:41.376908-07:00.jpg">
-  <img src="https://archive.org/download/scsentinel-2022/scsentinel-2022-08-12T11:23:41.376908-07:00.jpg"
-     alt="Santa Cruz Sentinel at 2022-08-12 11:23:46-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/scsentinel-2022/scsentinel-2022-08-12T11:23:41.376908-07:00.jpg">August 12 at 11:23 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/scsentinel-2022/scsentinel-2022-08-12T02:45:26.948204-07:00.jpg">
-  <img src="https://archive.org/download/scsentinel-2022/scsentinel-2022-08-12T02:45:26.948204-07:00.jpg"
-     alt="Santa Cruz Sentinel at 2022-08-12 02:45:31-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/scsentinel-2022/scsentinel-2022-08-12T02:45:26.948204-07:00.jpg">August 12 at 2:45 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 85 hyperlink lists with the Internet Archive.
+The archiving routine has saved 87 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 18 at 8:28 AM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-18T08:27:56.960693-07:00.hyperlinks.json) |
+| [August 17 at 8:44 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-17T20:44:50.685389-07:00.hyperlinks.json) |
 | [August 17 at 8:10 AM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-17T08:10:26.301796-07:00.hyperlinks.json) |
 | [August 16 at 8:43 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-16T20:43:14.972956-07:00.hyperlinks.json) |
 | [August 16 at 11:44 AM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-16T11:44:48.111088-07:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 14 at 11:43 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-14T23:42:53.317373-07:00.hyperlinks.json) |
 | [August 14 at 12:00 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-14T12:00:54.336947-07:00.hyperlinks.json) |
 | [August 14 at 12:04 AM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-14T00:04:18.629445-07:00.hyperlinks.json) |
-| [August 13 at 2:00 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-13T14:00:33.899779-07:00.hyperlinks.json) |
-| [August 12 at 10:11 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-12T22:11:06.072621-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 88 accessibility trees with the Internet Archive.
+The archiving routine has saved 90 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 18 at 8:28 AM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-18T08:27:56.960693-07:00.accessibility.json) |
+| [August 17 at 8:44 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-17T20:44:50.685389-07:00.accessibility.json) |
 | [August 17 at 8:10 AM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-17T08:10:26.301796-07:00.accessibility.json) |
 | [August 16 at 8:43 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-16T20:43:14.972956-07:00.accessibility.json) |
 | [August 16 at 11:44 AM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-16T11:44:48.111088-07:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 14 at 11:42 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-14T23:42:53.317373-07:00.accessibility.json) |
 | [August 14 at 12:00 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-14T12:00:54.336947-07:00.accessibility.json) |
 | [August 14 at 12:04 AM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-14T00:04:18.629445-07:00.accessibility.json) |
-| [August 13 at 2:00 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-13T14:00:33.899779-07:00.accessibility.json) |
-| [August 12 at 10:11 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-12T22:11:06.072621-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 50 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 52 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 18 at 8:28 AM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-18T08:27:56.960693-07:00.lighthouse.json) |
+| [August 17 at 8:44 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-17T20:44:50.685389-07:00.lighthouse.json) |
 | [August 17 at 8:10 AM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-17T08:10:26.301796-07:00.lighthouse.json) |
 | [August 16 at 8:43 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-16T20:43:14.972956-07:00.lighthouse.json) |
 | [August 16 at 11:44 AM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-16T11:44:48.111088-07:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 14 at 11:43 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-14T23:42:53.317373-07:00.lighthouse.json) |
 | [August 14 at 12:01 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-14T12:00:54.336947-07:00.lighthouse.json) |
 | [August 14 at 12:04 AM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-14T00:04:18.629445-07:00.lighthouse.json) |
-| [August 13 at 2:00 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-13T14:00:33.899779-07:00.lighthouse.json) |
-| [August 12 at 10:11 PM](https://archive.org/download/scsentinel-2022/scsentinel-2022-08-12T22:11:06.072621-07:00.lighthouse.json) |
 
 
 

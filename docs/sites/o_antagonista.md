@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 17 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 19 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         86
     </td>
     <td style="text-align: right;">
-        376
+        377
     </td>
   </tr>
 
@@ -196,7 +196,7 @@ The median score for each category, along with how it ranks in comparison to the
         83
     </td>
     <td style="text-align: right;">
-        401
+        399
     </td>
   </tr>
 
@@ -205,10 +205,10 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        44
+        45
     </td>
     <td style="text-align: right;">
-        216
+        208
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 36 screenshots with the Internet Archive.
+The archiving routine has saved 39 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-18T12:21:23.027473-03:00.jpg">
+  <img src="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-18T12:21:23.027473-03:00.jpg"
+     alt="O Antagonista at 2022-08-18 12:21:25-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-18T12:21:23.027473-03:00.jpg">August 18 at 12:21 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-18T09:05:50.343664-03:00.jpg">
+  <img src="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-18T09:05:50.343664-03:00.jpg"
+     alt="O Antagonista at 2022-08-18 09:05:53-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-18T09:05:50.343664-03:00.jpg">August 18 at 9:05 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-18T00:42:57.081012-03:00.jpg">
+  <img src="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-18T00:42:57.081012-03:00.jpg"
+     alt="O Antagonista at 2022-08-18 00:42:58-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-18T00:42:57.081012-03:00.jpg">August 18 at 12:42 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-17T12:07:52.660492-03:00.jpg">
   <img src="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-17T12:07:52.660492-03:00.jpg"
      alt="O Antagonista at 2022-08-17 12:07:55-03:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-14T10:37:26.930880-03:00.jpg">August 14 at 10:37 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-14T03:58:14.561849-03:00.jpg">
-  <img src="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-14T03:58:14.561849-03:00.jpg"
-     alt="O Antagonista at 2022-08-14 03:58:16-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-14T03:58:14.561849-03:00.jpg">August 14 at 3:58 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-13T17:53:47.326858-03:00.jpg">
-  <img src="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-13T17:53:47.326858-03:00.jpg"
-     alt="O Antagonista at 2022-08-13 17:53:49-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-13T17:53:47.326858-03:00.jpg">August 13 at 5:53 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-13T10:02:45.876453-03:00.jpg">
-  <img src="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-13T10:02:45.876453-03:00.jpg"
-     alt="O Antagonista at 2022-08-13 10:02:47-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-13T10:02:45.876453-03:00.jpg">August 13 at 10:02 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 36 hyperlink lists with the Internet Archive.
+The archiving routine has saved 39 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 18 at 12:21 PM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-18T12:21:23.027473-03:00.hyperlinks.json) |
+| [August 18 at 9:05 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-18T09:05:50.343664-03:00.hyperlinks.json) |
+| [August 18 at 12:43 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-18T00:42:57.081012-03:00.hyperlinks.json) |
 | [August 17 at 12:08 PM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-17T12:07:52.660492-03:00.hyperlinks.json) |
 | [August 17 at 12:42 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-17T00:42:13.478865-03:00.hyperlinks.json) |
 | [August 16 at 3:41 PM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-16T15:40:54.361460-03:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 15 at 5:06 PM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-15T17:06:36.964254-03:00.hyperlinks.json) |
 | [August 15 at 11:04 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-15T11:04:22.133616-03:00.hyperlinks.json) |
 | [August 15 at 3:37 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-15T03:37:34.948127-03:00.hyperlinks.json) |
-| [August 14 at 3:53 PM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-14T15:53:48.810767-03:00.hyperlinks.json) |
-| [August 14 at 10:37 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-14T10:37:26.930880-03:00.hyperlinks.json) |
-| [August 14 at 3:58 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-14T03:58:14.561849-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 36 accessibility trees with the Internet Archive.
+The archiving routine has saved 39 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 18 at 12:21 PM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-18T12:21:23.027473-03:00.accessibility.json) |
+| [August 18 at 9:05 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-18T09:05:50.343664-03:00.accessibility.json) |
+| [August 18 at 12:43 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-18T00:42:57.081012-03:00.accessibility.json) |
 | [August 17 at 12:07 PM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-17T12:07:52.660492-03:00.accessibility.json) |
 | [August 17 at 12:42 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-17T00:42:13.478865-03:00.accessibility.json) |
 | [August 16 at 3:40 PM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-16T15:40:54.361460-03:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 15 at 5:06 PM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-15T17:06:36.964254-03:00.accessibility.json) |
 | [August 15 at 11:04 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-15T11:04:22.133616-03:00.accessibility.json) |
 | [August 15 at 3:37 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-15T03:37:34.948127-03:00.accessibility.json) |
-| [August 14 at 3:53 PM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-14T15:53:48.810767-03:00.accessibility.json) |
-| [August 14 at 10:37 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-14T10:37:26.930880-03:00.accessibility.json) |
-| [August 14 at 3:58 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-14T03:58:14.561849-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 36 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 39 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 18 at 12:21 PM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-18T12:21:23.027473-03:00.lighthouse.json) |
+| [August 18 at 9:05 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-18T09:05:50.343664-03:00.lighthouse.json) |
+| [August 18 at 12:43 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-18T00:42:57.081012-03:00.lighthouse.json) |
 | [August 17 at 12:08 PM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-17T12:07:52.660492-03:00.lighthouse.json) |
 | [August 17 at 12:42 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-17T00:42:13.478865-03:00.lighthouse.json) |
 | [August 16 at 3:41 PM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-16T15:40:54.361460-03:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 15 at 5:06 PM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-15T17:06:36.964254-03:00.lighthouse.json) |
 | [August 15 at 11:04 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-15T11:04:22.133616-03:00.lighthouse.json) |
 | [August 15 at 3:37 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-15T03:37:34.948127-03:00.lighthouse.json) |
-| [August 14 at 3:53 PM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-14T15:53:48.810767-03:00.lighthouse.json) |
-| [August 14 at 10:37 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-14T10:37:26.930880-03:00.lighthouse.json) |
-| [August 14 at 3:58 AM](https://archive.org/download/o_antagonista-2022/o_antagonista-2022-08-14T03:58:14.561849-03:00.lighthouse.json) |
 
 
 

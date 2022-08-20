@@ -1,5 +1,20 @@
 {
-  "created": 1660863856,
+  "cnet-2022": {
+    "url": "https://www.cnet.com/",
+    "job_id": "spn2-55c8dc410d823e7df8ffd61fb0b17d0cffde7a43",
+    "status": "success",
+    "outlinks": [],
+    "resources": [],
+    "duration_sec": 12.084,
+    "original_url": "https://www.cnet.com/",
+    "counters": {
+      "embeds": 160,
+      "outlinks": 70
+    },
+    "timestamp": "20220819204102",
+    "http_status": 200
+  },
+  "created": 1660954033,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/33/items/cnet-2022",
@@ -5332,31 +5347,155 @@
       "sha1": "b53119e2f9dad39f163cd3a8b4ca650d8a030a25"
     },
     {
+      "name": "cnet-2022-08-19T03:59:00.638984-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660906745",
+      "size": "25845",
+      "md5": "0b7c82583a98e1a4ff55e00262d99ab2",
+      "crc32": "bf567992",
+      "sha1": "b04577189ccd8e7e247ab1b6be452a0301072d41",
+      "format": "JSON"
+    },
+    {
+      "name": "cnet-2022-08-19T03:59:00.638984-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660906747",
+      "size": "25330",
+      "md5": "9bdcb956c499ca40ef4f182e340f2286",
+      "crc32": "80826faa",
+      "sha1": "5476865bfcaae00f58a57a73749a7b3510b1977d",
+      "format": "JSON"
+    },
+    {
+      "name": "cnet-2022-08-19T03:59:00.638984-07:00.jpg",
+      "source": "original",
+      "mtime": "1660906744",
+      "size": "254145",
+      "md5": "a8a0f94c91c6cecd55d01a70639d3eac",
+      "crc32": "2a222252",
+      "sha1": "8e3b3596344bddd829687976d0301ad9510b210c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cnet-2022-08-19T03:59:00.638984-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660906749",
+      "size": "1441",
+      "md5": "73c4f6e15d223e2d7471b9662f8250b2",
+      "crc32": "78078e1d",
+      "sha1": "6f0e9c7fdcd50e4ef7b9c2aa8f0078fdcedf2f78",
+      "format": "JSON"
+    },
+    {
+      "name": "cnet-2022-08-19T03:59:00.638984-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660906750",
+      "size": "50646",
+      "md5": "73a3a7f2239f27906cf140142cfef2b6",
+      "crc32": "43b3f44c",
+      "sha1": "99a0f90f0986128ad454f4dc5473c111a9a539e0",
+      "format": "JSON"
+    },
+    {
+      "name": "cnet-2022-08-19T03:59:00.638984-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cnet-2022-08-19T03:59:00.638984-07:00.jpg",
+      "mtime": "1660907136",
+      "size": "9341",
+      "md5": "94c2c0826e97e9e23e08419fa4eac0ce",
+      "crc32": "827de16b",
+      "sha1": "74728c5fe7807cb740b6fcdf1b1c7e1384ba5e77"
+    },
+    {
+      "name": "cnet-2022-08-19T16:00:47.822292-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660950063",
+      "size": "26030",
+      "md5": "0e62d6da57fd8dcfaf47d9f2aafda061",
+      "crc32": "fb4482af",
+      "sha1": "f8989a3fed8b083ad8ad42b33757f55c24c2f4c3",
+      "format": "JSON"
+    },
+    {
+      "name": "cnet-2022-08-19T16:00:47.822292-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660950065",
+      "size": "25562",
+      "md5": "75fece2467f3a1c5da8e7c4f43946188",
+      "crc32": "896ca37e",
+      "sha1": "c929ad9d2e08a48fe4edf45d5e9dfdae015b36a4",
+      "format": "JSON"
+    },
+    {
+      "name": "cnet-2022-08-19T16:00:47.822292-07:00.jpg",
+      "source": "original",
+      "mtime": "1660950060",
+      "size": "209836",
+      "md5": "cdec11df7fcefd8b0026f908e02e5ac7",
+      "crc32": "896a9328",
+      "sha1": "44a5e70d8268a5741977ac01988a63ef5e2cf3bf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cnet-2022-08-19T16:00:47.822292-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660950067",
+      "size": "1441",
+      "md5": "7767b703f19b604f4307cfb132fbf3fe",
+      "crc32": "dcaf0658",
+      "sha1": "5b79140d0be098dcfdb8d606ece31b72f0a1d421",
+      "format": "JSON"
+    },
+    {
+      "name": "cnet-2022-08-19T16:00:47.822292-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1660950069",
+      "size": "340",
+      "md5": "bcb9c3c22b89c0bb87ee363447d7906b",
+      "crc32": "4dcc40ee",
+      "sha1": "c29fda9df3bee05c1b87fca03e30b2e691884f2e",
+      "format": "JSON"
+    },
+    {
+      "name": "cnet-2022-08-19T16:00:47.822292-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cnet-2022-08-19T16:00:47.822292-07:00.jpg",
+      "mtime": "1660950180",
+      "size": "8994",
+      "md5": "5822ee2908185b1a692fd4ffc482105a",
+      "crc32": "7f167479",
+      "sha1": "d041dbdaca8f25a7160d71e7a0729299a662f882"
+    },
+    {
       "name": "cnet-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3104bbb8d71388221d1d3636160da7ad2da5f152",
-      "mtime": "1660863842",
-      "size": "106586",
-      "md5": "567daf55cf1c458c2debbb16613dd84b",
-      "crc32": "95661be4",
-      "sha1": "8fafb28e307b94f50e27714b8cc6a5b612a0eb09",
+      "btih": "d7a1dc8101de27ce7f15fa0124e10b45c7ee46a1",
+      "mtime": "1660950187",
+      "size": "109050",
+      "md5": "64af291a108188615bf9b89b9f6438e3",
+      "crc32": "c7646991",
+      "sha1": "139f0f29c6597ecc946188a98214b6a77e634e5e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cnet-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "948fd2ac705390f01450ab054ef33514",
+      "md5": "1c620d6d770a71c707e22f760e6bd188",
       "summation": "md5"
     },
     {
       "name": "cnet-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660863677",
-      "size": "630784",
-      "md5": "f456ae20a948ec5ee71d8b4975c38e5b",
-      "crc32": "6a32525b",
-      "sha1": "302e2d86c1de51bccf2943cb37251bcfe18d0e18",
+      "mtime": "1660950096",
+      "size": "647168",
+      "md5": "e1c3d79bb9408d6bb5f09d7d27608be8",
+      "crc32": "a66f0db6",
+      "sha1": "e67b39a77791eb8c26b417b86f0ac0ed7b42177a",
       "format": "Metadata"
     },
     {
@@ -5370,9 +5509,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 515,
-  "item_last_updated": 1660863842,
-  "item_size": 31713336,
+  "files_count": 527,
+  "item_last_updated": 1660950187,
+  "item_size": 32371135,
   "metadata": {
     "identifier": "cnet-2022",
     "collection": [
@@ -5389,10 +5528,10 @@
     "publicdate": "2022-07-04 20:17:32",
     "addeddate": "2022-07-04 20:17:32"
   },
-  "server": "ia801408.us.archive.org",
-  "uniq": 1941536234,
+  "server": "ia601408.us.archive.org",
+  "uniq": 462394087,
   "workable_servers": [
-    "ia801408.us.archive.org",
-    "ia601408.us.archive.org"
+    "ia601408.us.archive.org",
+    "ia801408.us.archive.org"
   ]
 }

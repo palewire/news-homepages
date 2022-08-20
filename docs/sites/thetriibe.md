@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 15 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 18 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         66
     </td>
     <td style="text-align: right;">
-        735
+        737
     </td>
   </tr>
 
@@ -205,10 +205,10 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        21
+        20
     </td>
     <td style="text-align: right;">
-        530
+        551
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 186 screenshots with the Internet Archive.
+The archiving routine has saved 189 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-08-18T10:34:55.647660-05:00.jpg">
+  <img src="https://archive.org/download/thetriibe-2022/thetriibe-2022-08-18T10:34:55.647660-05:00.jpg"
+     alt="The TriiBE at 2022-08-18 10:34:57-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-08-18T10:34:55.647660-05:00.jpg">August 18 at 10:34 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-08-18T08:02:45.275742-05:00.jpg">
+  <img src="https://archive.org/download/thetriibe-2022/thetriibe-2022-08-18T08:02:45.275742-05:00.jpg"
+     alt="The TriiBE at 2022-08-18 08:02:46-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-08-18T08:02:45.275742-05:00.jpg">August 18 at 8:02 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-08-17T20:16:26.350486-05:00.jpg">
+  <img src="https://archive.org/download/thetriibe-2022/thetriibe-2022-08-17T20:16:26.350486-05:00.jpg"
+     alt="The TriiBE at 2022-08-17 20:16:29-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-08-17T20:16:26.350486-05:00.jpg">August 17 at 8:16 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-08-17T10:30:17.012166-05:00.jpg">
   <img src="https://archive.org/download/thetriibe-2022/thetriibe-2022-08-17T10:30:17.012166-05:00.jpg"
      alt="The TriiBE at 2022-08-17 10:30:18-05:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-08-14T00:08:35.361483-05:00.jpg">August 14 at 12:08 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-08-13T15:46:07.650301-05:00.jpg">
-  <img src="https://archive.org/download/thetriibe-2022/thetriibe-2022-08-13T15:46:07.650301-05:00.jpg"
-     alt="The TriiBE at 2022-08-13 15:46:12-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-08-13T15:46:07.650301-05:00.jpg">August 13 at 3:46 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-08-12T21:17:57.326455-05:00.jpg">
-  <img src="https://archive.org/download/thetriibe-2022/thetriibe-2022-08-12T21:17:57.326455-05:00.jpg"
-     alt="The TriiBE at 2022-08-12 21:18:02-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-08-12T21:17:57.326455-05:00.jpg">August 12 at 9:18 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-08-12T13:34:19.145230-05:00.jpg">
-  <img src="https://archive.org/download/thetriibe-2022/thetriibe-2022-08-12T13:34:19.145230-05:00.jpg"
-     alt="The TriiBE at 2022-08-12 13:34:20-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-08-12T13:34:19.145230-05:00.jpg">August 12 at 1:34 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 189 hyperlink lists with the Internet Archive.
+The archiving routine has saved 192 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 18 at 10:35 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-18T10:34:55.647660-05:00.hyperlinks.json) |
+| [August 18 at 8:02 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-18T08:02:45.275742-05:00.hyperlinks.json) |
+| [August 17 at 8:16 PM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-17T20:16:26.350486-05:00.hyperlinks.json) |
 | [August 17 at 10:30 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-17T10:30:17.012166-05:00.hyperlinks.json) |
 | [August 17 at 8:10 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-17T08:09:47.182628-05:00.hyperlinks.json) |
 | [August 16 at 8:22 PM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-16T20:22:31.746243-05:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 16 at 1:21 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-16T01:21:17.861340-05:00.hyperlinks.json) |
 | [August 15 at 2:38 PM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-15T14:38:42.723447-05:00.hyperlinks.json) |
 | [August 14 at 10:15 PM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-14T22:15:32.210153-05:00.hyperlinks.json) |
-| [August 14 at 12:06 PM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-14T12:05:58.993746-05:00.hyperlinks.json) |
-| [August 14 at 12:08 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-14T00:08:35.361483-05:00.hyperlinks.json) |
-| [August 13 at 3:46 PM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-13T15:46:07.650301-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 189 accessibility trees with the Internet Archive.
+The archiving routine has saved 192 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 18 at 10:34 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-18T10:34:55.647660-05:00.accessibility.json) |
+| [August 18 at 8:02 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-18T08:02:45.275742-05:00.accessibility.json) |
+| [August 17 at 8:16 PM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-17T20:16:26.350486-05:00.accessibility.json) |
 | [August 17 at 10:30 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-17T10:30:17.012166-05:00.accessibility.json) |
 | [August 17 at 8:10 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-17T08:09:47.182628-05:00.accessibility.json) |
 | [August 16 at 8:22 PM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-16T20:22:31.746243-05:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 16 at 1:21 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-16T01:21:17.861340-05:00.accessibility.json) |
 | [August 15 at 2:38 PM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-15T14:38:42.723447-05:00.accessibility.json) |
 | [August 14 at 10:15 PM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-14T22:15:32.210153-05:00.accessibility.json) |
-| [August 14 at 12:06 PM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-14T12:05:58.993746-05:00.accessibility.json) |
-| [August 14 at 12:08 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-14T00:08:35.361483-05:00.accessibility.json) |
-| [August 13 at 3:46 PM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-13T15:46:07.650301-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 75 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 78 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 18 at 10:35 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-18T10:34:55.647660-05:00.lighthouse.json) |
+| [August 18 at 8:02 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-18T08:02:45.275742-05:00.lighthouse.json) |
+| [August 17 at 8:16 PM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-17T20:16:26.350486-05:00.lighthouse.json) |
 | [August 17 at 10:30 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-17T10:30:17.012166-05:00.lighthouse.json) |
 | [August 17 at 8:10 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-17T08:09:47.182628-05:00.lighthouse.json) |
 | [August 16 at 8:22 PM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-16T20:22:31.746243-05:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 16 at 1:21 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-16T01:21:17.861340-05:00.lighthouse.json) |
 | [August 15 at 2:38 PM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-15T14:38:42.723447-05:00.lighthouse.json) |
 | [August 14 at 10:15 PM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-14T22:15:32.210153-05:00.lighthouse.json) |
-| [August 14 at 12:06 PM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-14T12:05:58.993746-05:00.lighthouse.json) |
-| [August 14 at 12:08 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-14T00:08:35.361483-05:00.lighthouse.json) |
-| [August 13 at 3:46 PM](https://archive.org/download/thetriibe-2022/thetriibe-2022-08-13T15:46:07.650301-05:00.lighthouse.json) |
 
 
 

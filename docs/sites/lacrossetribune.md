@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 13 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 15 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         81
     </td>
     <td style="text-align: right;">
-        498
+        501
     </td>
   </tr>
 
@@ -208,7 +208,7 @@ The median score for each category, along with how it ranks in comparison to the
         3
     </td>
     <td style="text-align: right;">
-        757
+        759
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 226 screenshots with the Internet Archive.
+The archiving routine has saved 228 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-08-18T18:55:20.440245-05:00.jpg">
+  <img src="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-08-18T18:55:20.440245-05:00.jpg"
+     alt="LaCrosse Tribune at 2022-08-18 18:55:24-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-08-18T18:55:20.440245-05:00.jpg">August 18 at 6:55 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-08-18T06:59:35.222931-05:00.jpg">
+  <img src="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-08-18T06:59:35.222931-05:00.jpg"
+     alt="LaCrosse Tribune at 2022-08-18 06:59:40-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-08-18T06:59:35.222931-05:00.jpg">August 18 at 6:59 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-08-17T18:51:42.309619-05:00.jpg">
   <img src="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-08-17T18:51:42.309619-05:00.jpg"
      alt="LaCrosse Tribune at 2022-08-17 18:51:48-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-08-13T08:11:12.233215-05:00.jpg">August 13 at 8:11 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-08-12T19:42:00.240997-05:00.jpg">
-  <img src="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-08-12T19:42:00.240997-05:00.jpg"
-     alt="LaCrosse Tribune at 2022-08-12 19:42:05-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-08-12T19:42:00.240997-05:00.jpg">August 12 at 7:42 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-08-12T08:21:00.885136-05:00.jpg">
-  <img src="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-08-12T08:21:00.885136-05:00.jpg"
-     alt="LaCrosse Tribune at 2022-08-12 08:21:06-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-08-12T08:21:00.885136-05:00.jpg">August 12 at 8:21 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 214 hyperlink lists with the Internet Archive.
+The archiving routine has saved 216 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 18 at 6:55 PM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-08-18T18:55:20.440245-05:00.hyperlinks.json) |
+| [August 18 at 6:59 AM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-08-18T06:59:35.222931-05:00.hyperlinks.json) |
 | [August 17 at 6:51 PM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-08-17T18:51:42.309619-05:00.hyperlinks.json) |
 | [August 17 at 6:51 AM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-08-17T06:50:52.042796-05:00.hyperlinks.json) |
 | [August 16 at 7:07 PM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-08-16T19:06:35.902548-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 15 at 9:15 AM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-08-15T09:15:24.941008-05:00.hyperlinks.json) |
 | [August 14 at 8:19 PM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-08-14T20:19:03.881591-05:00.hyperlinks.json) |
 | [August 14 at 8:47 AM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-08-14T08:47:10.055113-05:00.hyperlinks.json) |
-| [August 13 at 10:13 PM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-08-13T22:12:58.395653-05:00.hyperlinks.json) |
-| [August 13 at 8:11 AM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-08-13T08:11:12.233215-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 213 accessibility trees with the Internet Archive.
+The archiving routine has saved 215 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 18 at 6:55 PM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-08-18T18:55:20.440245-05:00.accessibility.json) |
+| [August 18 at 6:59 AM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-08-18T06:59:35.222931-05:00.accessibility.json) |
 | [August 17 at 6:51 PM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-08-17T18:51:42.309619-05:00.accessibility.json) |
 | [August 17 at 6:50 AM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-08-17T06:50:52.042796-05:00.accessibility.json) |
 | [August 16 at 7:07 PM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-08-16T19:06:35.902548-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 15 at 9:15 AM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-08-15T09:15:24.941008-05:00.accessibility.json) |
 | [August 14 at 8:19 PM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-08-14T20:19:03.881591-05:00.accessibility.json) |
 | [August 14 at 8:47 AM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-08-14T08:47:10.055113-05:00.accessibility.json) |
-| [August 13 at 10:13 PM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-08-13T22:12:58.395653-05:00.accessibility.json) |
-| [August 13 at 8:11 AM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-08-13T08:11:12.233215-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 51 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 53 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 18 at 6:55 PM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-08-18T18:55:20.440245-05:00.lighthouse.json) |
+| [August 18 at 6:59 AM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-08-18T06:59:35.222931-05:00.lighthouse.json) |
 | [August 17 at 6:51 PM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-08-17T18:51:42.309619-05:00.lighthouse.json) |
 | [August 17 at 6:51 AM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-08-17T06:50:52.042796-05:00.lighthouse.json) |
 | [August 16 at 7:07 PM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-08-16T19:06:35.902548-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 15 at 9:15 AM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-08-15T09:15:24.941008-05:00.lighthouse.json) |
 | [August 14 at 8:19 PM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-08-14T20:19:03.881591-05:00.lighthouse.json) |
 | [August 14 at 8:47 AM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-08-14T08:47:10.055113-05:00.lighthouse.json) |
-| [August 13 at 10:13 PM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-08-13T22:12:58.395653-05:00.lighthouse.json) |
-| [August 13 at 8:11 AM](https://archive.org/download/lacrossetribune-2022/lacrossetribune-2022-08-13T08:11:12.233215-05:00.lighthouse.json) |
 
 
 

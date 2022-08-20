@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 12 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 14 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         96
     </td>
     <td style="text-align: right;">
-        79
+        78
     </td>
   </tr>
 
@@ -208,7 +208,7 @@ The median score for each category, along with how it ranks in comparison to the
         16
     </td>
     <td style="text-align: right;">
-        632
+        637
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         99
     </td>
     <td style="text-align: right;">
-        30
+        31
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 87 screenshots with the Internet Archive.
+The archiving routine has saved 89 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-18T11:27:32.369963-04:00.jpg">
+  <img src="https://archive.org/download/rollcall-2022/rollcall-2022-08-18T11:27:32.369963-04:00.jpg"
+     alt="Roll Call at 2022-08-18 11:27:36-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-18T11:27:32.369963-04:00.jpg">August 18 at 11:27 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-17T23:44:08.585542-04:00.jpg">
+  <img src="https://archive.org/download/rollcall-2022/rollcall-2022-08-17T23:44:08.585542-04:00.jpg"
+     alt="Roll Call at 2022-08-17 23:44:10-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-17T23:44:08.585542-04:00.jpg">August 17 at 11:44 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-17T11:09:58.152641-04:00.jpg">
   <img src="https://archive.org/download/rollcall-2022/rollcall-2022-08-17T11:09:58.152641-04:00.jpg"
      alt="Roll Call at 2022-08-17 11:10:02-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-13T01:09:57.855758-04:00.jpg">August 13 at 1:09 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-12T14:23:10.256695-04:00.jpg">
-  <img src="https://archive.org/download/rollcall-2022/rollcall-2022-08-12T14:23:10.256695-04:00.jpg"
-     alt="Roll Call at 2022-08-12 14:23:16-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-12T14:23:10.256695-04:00.jpg">August 12 at 2:23 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-12T05:44:50.530291-04:00.jpg">
-  <img src="https://archive.org/download/rollcall-2022/rollcall-2022-08-12T05:44:50.530291-04:00.jpg"
-     alt="Roll Call at 2022-08-12 05:44:52-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rollcall-2022/rollcall-2022-08-12T05:44:50.530291-04:00.jpg">August 12 at 5:44 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 69 hyperlink lists with the Internet Archive.
+The archiving routine has saved 70 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 18 at 11:27 AM](https://archive.org/download/rollcall-2022/rollcall-2022-08-18T11:27:32.369963-04:00.hyperlinks.json) |
 | [August 17 at 11:10 AM](https://archive.org/download/rollcall-2022/rollcall-2022-08-17T11:09:58.152641-04:00.hyperlinks.json) |
 | [August 16 at 11:43 PM](https://archive.org/download/rollcall-2022/rollcall-2022-08-16T23:43:25.782587-04:00.hyperlinks.json) |
 | [August 16 at 2:44 PM](https://archive.org/download/rollcall-2022/rollcall-2022-08-16T14:44:35.082085-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 14 at 3:00 PM](https://archive.org/download/rollcall-2022/rollcall-2022-08-14T15:00:06.385390-04:00.hyperlinks.json) |
 | [August 14 at 3:03 AM](https://archive.org/download/rollcall-2022/rollcall-2022-08-14T03:03:50.233548-04:00.hyperlinks.json) |
 | [August 13 at 4:58 PM](https://archive.org/download/rollcall-2022/rollcall-2022-08-13T16:58:20.731649-04:00.hyperlinks.json) |
-| [August 13 at 1:10 AM](https://archive.org/download/rollcall-2022/rollcall-2022-08-13T01:09:57.855758-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 88 accessibility trees with the Internet Archive.
+The archiving routine has saved 90 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 18 at 11:27 AM](https://archive.org/download/rollcall-2022/rollcall-2022-08-18T11:27:32.369963-04:00.accessibility.json) |
+| [August 17 at 11:44 PM](https://archive.org/download/rollcall-2022/rollcall-2022-08-17T23:44:08.585542-04:00.accessibility.json) |
 | [August 17 at 11:10 AM](https://archive.org/download/rollcall-2022/rollcall-2022-08-17T11:09:58.152641-04:00.accessibility.json) |
 | [August 16 at 11:43 PM](https://archive.org/download/rollcall-2022/rollcall-2022-08-16T23:43:25.782587-04:00.accessibility.json) |
 | [August 16 at 2:44 PM](https://archive.org/download/rollcall-2022/rollcall-2022-08-16T14:44:35.082085-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 15 at 2:42 AM](https://archive.org/download/rollcall-2022/rollcall-2022-08-15T02:42:24.385197-04:00.accessibility.json) |
 | [August 14 at 3:00 PM](https://archive.org/download/rollcall-2022/rollcall-2022-08-14T15:00:06.385390-04:00.accessibility.json) |
 | [August 14 at 3:03 AM](https://archive.org/download/rollcall-2022/rollcall-2022-08-14T03:03:50.233548-04:00.accessibility.json) |
-| [August 13 at 4:58 PM](https://archive.org/download/rollcall-2022/rollcall-2022-08-13T16:58:20.731649-04:00.accessibility.json) |
-| [August 13 at 1:10 AM](https://archive.org/download/rollcall-2022/rollcall-2022-08-13T01:09:57.855758-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 50 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 52 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 18 at 11:27 AM](https://archive.org/download/rollcall-2022/rollcall-2022-08-18T11:27:32.369963-04:00.lighthouse.json) |
+| [August 17 at 11:44 PM](https://archive.org/download/rollcall-2022/rollcall-2022-08-17T23:44:08.585542-04:00.lighthouse.json) |
 | [August 17 at 11:10 AM](https://archive.org/download/rollcall-2022/rollcall-2022-08-17T11:09:58.152641-04:00.lighthouse.json) |
 | [August 16 at 11:43 PM](https://archive.org/download/rollcall-2022/rollcall-2022-08-16T23:43:25.782587-04:00.lighthouse.json) |
 | [August 16 at 2:44 PM](https://archive.org/download/rollcall-2022/rollcall-2022-08-16T14:44:35.082085-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 15 at 2:42 AM](https://archive.org/download/rollcall-2022/rollcall-2022-08-15T02:42:24.385197-04:00.lighthouse.json) |
 | [August 14 at 3:00 PM](https://archive.org/download/rollcall-2022/rollcall-2022-08-14T15:00:06.385390-04:00.lighthouse.json) |
 | [August 14 at 3:03 AM](https://archive.org/download/rollcall-2022/rollcall-2022-08-14T03:03:50.233548-04:00.lighthouse.json) |
-| [August 13 at 4:58 PM](https://archive.org/download/rollcall-2022/rollcall-2022-08-13T16:58:20.731649-04:00.lighthouse.json) |
-| [August 13 at 1:10 AM](https://archive.org/download/rollcall-2022/rollcall-2022-08-13T01:09:57.855758-04:00.lighthouse.json) |
 
 
 

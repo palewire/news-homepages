@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 12 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 14 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         96
     </td>
     <td style="text-align: right;">
-        79
+        78
     </td>
   </tr>
 
@@ -193,10 +193,10 @@ The median score for each category, along with how it ranks in comparison to the
         Best practices
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        75
+        83
     </td>
     <td style="text-align: right;">
-        578
+        399
     </td>
   </tr>
 
@@ -205,10 +205,10 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        20
+        19
     </td>
     <td style="text-align: right;">
-        565
+        567
     </td>
   </tr>
 
@@ -217,10 +217,10 @@ The median score for each category, along with how it ranks in comparison to the
         SEO
     </td>
     <td style="text-align: right; background-color: green; color: white;">
-        93
+        92
     </td>
     <td style="text-align: right;">
-        130
+        173
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 79 screenshots with the Internet Archive.
+The archiving routine has saved 81 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/knprnews-2022/knprnews-2022-08-18T07:09:59.003119-07:00.jpg">
+  <img src="https://archive.org/download/knprnews-2022/knprnews-2022-08-18T07:09:59.003119-07:00.jpg"
+     alt="Nevada Public Radio at 2022-08-18 07:10:02-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/knprnews-2022/knprnews-2022-08-18T07:09:59.003119-07:00.jpg">August 18 at 7:10 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/knprnews-2022/knprnews-2022-08-17T19:29:55.385444-07:00.jpg">
+  <img src="https://archive.org/download/knprnews-2022/knprnews-2022-08-17T19:29:55.385444-07:00.jpg"
+     alt="Nevada Public Radio at 2022-08-17 19:29:58-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/knprnews-2022/knprnews-2022-08-17T19:29:55.385444-07:00.jpg">August 17 at 7:29 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/knprnews-2022/knprnews-2022-08-17T08:03:55.188725-07:00.jpg">
   <img src="https://archive.org/download/knprnews-2022/knprnews-2022-08-17T08:03:55.188725-07:00.jpg"
      alt="Nevada Public Radio at 2022-08-17 08:03:58-07:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/knprnews-2022/knprnews-2022-08-12T20:46:01.837825-07:00.jpg">August 12 at 8:46 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/knprnews-2022/knprnews-2022-08-12T10:52:57.771538-07:00.jpg">
-  <img src="https://archive.org/download/knprnews-2022/knprnews-2022-08-12T10:52:57.771538-07:00.jpg"
-     alt="Nevada Public Radio at 2022-08-12 10:53:04-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/knprnews-2022/knprnews-2022-08-12T10:52:57.771538-07:00.jpg">August 12 at 10:53 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/knprnews-2022/knprnews-2022-08-12T03:02:47.179222-07:00.jpg">
-  <img src="https://archive.org/download/knprnews-2022/knprnews-2022-08-12T03:02:47.179222-07:00.jpg"
-     alt="Nevada Public Radio at 2022-08-12 03:02:49-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/knprnews-2022/knprnews-2022-08-12T03:02:47.179222-07:00.jpg">August 12 at 3:02 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 80 hyperlink lists with the Internet Archive.
+The archiving routine has saved 82 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 18 at 7:10 AM](https://archive.org/download/knprnews-2022/knprnews-2022-08-18T07:09:59.003119-07:00.hyperlinks.json) |
+| [August 17 at 7:30 PM](https://archive.org/download/knprnews-2022/knprnews-2022-08-17T19:29:55.385444-07:00.hyperlinks.json) |
 | [August 17 at 8:04 AM](https://archive.org/download/knprnews-2022/knprnews-2022-08-17T08:03:55.188725-07:00.hyperlinks.json) |
 | [August 16 at 7:29 PM](https://archive.org/download/knprnews-2022/knprnews-2022-08-16T19:28:59.673226-07:00.hyperlinks.json) |
 | [August 16 at 11:33 AM](https://archive.org/download/knprnews-2022/knprnews-2022-08-16T11:33:35.000027-07:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 14 at 11:29 PM](https://archive.org/download/knprnews-2022/knprnews-2022-08-14T23:29:52.698475-07:00.hyperlinks.json) |
 | [August 14 at 10:23 AM](https://archive.org/download/knprnews-2022/knprnews-2022-08-14T10:23:45.633111-07:00.hyperlinks.json) |
 | [August 13 at 11:50 PM](https://archive.org/download/knprnews-2022/knprnews-2022-08-13T23:50:45.609282-07:00.hyperlinks.json) |
-| [August 13 at 1:27 PM](https://archive.org/download/knprnews-2022/knprnews-2022-08-13T13:27:08.289420-07:00.hyperlinks.json) |
-| [August 12 at 8:46 PM](https://archive.org/download/knprnews-2022/knprnews-2022-08-12T20:46:01.837825-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 80 accessibility trees with the Internet Archive.
+The archiving routine has saved 82 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 18 at 7:10 AM](https://archive.org/download/knprnews-2022/knprnews-2022-08-18T07:09:59.003119-07:00.accessibility.json) |
+| [August 17 at 7:30 PM](https://archive.org/download/knprnews-2022/knprnews-2022-08-17T19:29:55.385444-07:00.accessibility.json) |
 | [August 17 at 8:04 AM](https://archive.org/download/knprnews-2022/knprnews-2022-08-17T08:03:55.188725-07:00.accessibility.json) |
 | [August 16 at 7:29 PM](https://archive.org/download/knprnews-2022/knprnews-2022-08-16T19:28:59.673226-07:00.accessibility.json) |
 | [August 16 at 11:33 AM](https://archive.org/download/knprnews-2022/knprnews-2022-08-16T11:33:35.000027-07:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 14 at 11:29 PM](https://archive.org/download/knprnews-2022/knprnews-2022-08-14T23:29:52.698475-07:00.accessibility.json) |
 | [August 14 at 10:23 AM](https://archive.org/download/knprnews-2022/knprnews-2022-08-14T10:23:45.633111-07:00.accessibility.json) |
 | [August 13 at 11:50 PM](https://archive.org/download/knprnews-2022/knprnews-2022-08-13T23:50:45.609282-07:00.accessibility.json) |
-| [August 13 at 1:27 PM](https://archive.org/download/knprnews-2022/knprnews-2022-08-13T13:27:08.289420-07:00.accessibility.json) |
-| [August 12 at 8:46 PM](https://archive.org/download/knprnews-2022/knprnews-2022-08-12T20:46:01.837825-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 50 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 52 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 18 at 7:10 AM](https://archive.org/download/knprnews-2022/knprnews-2022-08-18T07:09:59.003119-07:00.lighthouse.json) |
+| [August 17 at 7:30 PM](https://archive.org/download/knprnews-2022/knprnews-2022-08-17T19:29:55.385444-07:00.lighthouse.json) |
 | [August 17 at 8:04 AM](https://archive.org/download/knprnews-2022/knprnews-2022-08-17T08:03:55.188725-07:00.lighthouse.json) |
 | [August 16 at 7:29 PM](https://archive.org/download/knprnews-2022/knprnews-2022-08-16T19:28:59.673226-07:00.lighthouse.json) |
 | [August 16 at 11:33 AM](https://archive.org/download/knprnews-2022/knprnews-2022-08-16T11:33:35.000027-07:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 14 at 11:30 PM](https://archive.org/download/knprnews-2022/knprnews-2022-08-14T23:29:52.698475-07:00.lighthouse.json) |
 | [August 14 at 10:23 AM](https://archive.org/download/knprnews-2022/knprnews-2022-08-14T10:23:45.633111-07:00.lighthouse.json) |
 | [August 13 at 11:50 PM](https://archive.org/download/knprnews-2022/knprnews-2022-08-13T23:50:45.609282-07:00.lighthouse.json) |
-| [August 13 at 1:27 PM](https://archive.org/download/knprnews-2022/knprnews-2022-08-13T13:27:08.289420-07:00.lighthouse.json) |
-| [August 12 at 8:46 PM](https://archive.org/download/knprnews-2022/knprnews-2022-08-12T20:46:01.837825-07:00.lighthouse.json) |
 
 
 

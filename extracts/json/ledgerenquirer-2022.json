@@ -1,5 +1,5 @@
 {
-  "created": 1660867080,
+  "created": 1660953505,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/13/items/ledgerenquirer-2022",
@@ -3346,31 +3346,217 @@
       "sha1": "a8ef47669bf30d94d0760be01c9ae245d75a4115"
     },
     {
+      "name": "ledgerenquirer-2022-08-19T08:01:29.919691-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660910495",
+      "size": "463",
+      "md5": "9a737a921ffde32a6a056360e2b58a2e",
+      "crc32": "9f12af11",
+      "sha1": "24d981a98acaff2e365f029ec81e531d4e54b5aa",
+      "format": "JSON"
+    },
+    {
+      "name": "ledgerenquirer-2022-08-19T08:01:29.919691-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660910497",
+      "size": "34955",
+      "md5": "c8dc64f9ca2e2ce581076f204ee7fcf8",
+      "crc32": "64d707b9",
+      "sha1": "35ba790cfed7142129494a05561fbb50e8b9ae6a",
+      "format": "JSON"
+    },
+    {
+      "name": "ledgerenquirer-2022-08-19T08:01:29.919691-04:00.jpg",
+      "source": "original",
+      "mtime": "1660910493",
+      "size": "273346",
+      "md5": "3cde9019c387aed4b5e7ef5d2aa72804",
+      "crc32": "b4118e95",
+      "sha1": "3f6c016fbebd5b9c93dedd1b915259b37cf67948",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ledgerenquirer-2022-08-19T08:01:29.919691-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660910499",
+      "size": "1540",
+      "md5": "ddc72d0ed75a569589de98d74d5e9c23",
+      "crc32": "98463690",
+      "sha1": "8de79dc04afc60275d2ac282447c51229e105d05",
+      "format": "JSON"
+    },
+    {
+      "name": "ledgerenquirer-2022-08-19T08:01:29.919691-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660910501",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "ledgerenquirer-2022-08-19T08:01:29.919691-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ledgerenquirer-2022-08-19T08:01:29.919691-04:00.jpg",
+      "mtime": "1660910663",
+      "size": "9606",
+      "md5": "a81dbcd74f6616f14e0e467bd7fb7b36",
+      "crc32": "98ab6023",
+      "sha1": "c2fd313371941a65398443a503a737137a91d07a"
+    },
+    {
+      "name": "ledgerenquirer-2022-08-19T10:21:33.818070-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660918901",
+      "size": "463",
+      "md5": "9a737a921ffde32a6a056360e2b58a2e",
+      "crc32": "9f12af11",
+      "sha1": "24d981a98acaff2e365f029ec81e531d4e54b5aa",
+      "format": "JSON"
+    },
+    {
+      "name": "ledgerenquirer-2022-08-19T10:21:33.818070-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660918902",
+      "size": "34955",
+      "md5": "c8dc64f9ca2e2ce581076f204ee7fcf8",
+      "crc32": "64d707b9",
+      "sha1": "35ba790cfed7142129494a05561fbb50e8b9ae6a",
+      "format": "JSON"
+    },
+    {
+      "name": "ledgerenquirer-2022-08-19T10:21:33.818070-04:00.jpg",
+      "source": "original",
+      "mtime": "1660918899",
+      "size": "273346",
+      "md5": "3cde9019c387aed4b5e7ef5d2aa72804",
+      "crc32": "b4118e95",
+      "sha1": "3f6c016fbebd5b9c93dedd1b915259b37cf67948",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ledgerenquirer-2022-08-19T10:21:33.818070-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660918904",
+      "size": "1540",
+      "md5": "ddc72d0ed75a569589de98d74d5e9c23",
+      "crc32": "98463690",
+      "sha1": "8de79dc04afc60275d2ac282447c51229e105d05",
+      "format": "JSON"
+    },
+    {
+      "name": "ledgerenquirer-2022-08-19T10:21:33.818070-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660918906",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "ledgerenquirer-2022-08-19T10:21:33.818070-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ledgerenquirer-2022-08-19T10:21:33.818070-04:00.jpg",
+      "mtime": "1660919009",
+      "size": "9606",
+      "md5": "a81dbcd74f6616f14e0e467bd7fb7b36",
+      "crc32": "98ab6023",
+      "sha1": "c2fd313371941a65398443a503a737137a91d07a"
+    },
+    {
+      "name": "ledgerenquirer-2022-08-19T19:53:56.285218-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660953240",
+      "size": "463",
+      "md5": "a68a01e0776b275a968540b14202a728",
+      "crc32": "474ec335",
+      "sha1": "f7316ade019ec655866520ee806a334d664b2e57",
+      "format": "JSON"
+    },
+    {
+      "name": "ledgerenquirer-2022-08-19T19:53:56.285218-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660953247",
+      "size": "35741",
+      "md5": "cd0789bf2ef8bea033ca147cf7934e4b",
+      "crc32": "f218ef8f",
+      "sha1": "6a61fba9dcfba2ddb56d6840ccfa83a11c949833",
+      "format": "JSON"
+    },
+    {
+      "name": "ledgerenquirer-2022-08-19T19:53:56.285218-04:00.jpg",
+      "source": "original",
+      "mtime": "1660953239",
+      "size": "241529",
+      "md5": "d36693cc8e14c93f78a67297e2911e31",
+      "crc32": "8023e247",
+      "sha1": "5df5280ca85439b5329417e3d846c169ea281ae1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ledgerenquirer-2022-08-19T19:53:56.285218-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660953249",
+      "size": "1540",
+      "md5": "9545874a2f99dd9e716e4e61af604768",
+      "crc32": "262279ab",
+      "sha1": "540c37d688c001ec5b007be41b99e7371c6a4c2d",
+      "format": "JSON"
+    },
+    {
+      "name": "ledgerenquirer-2022-08-19T19:53:56.285218-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660953251",
+      "size": "63869",
+      "md5": "af6221146fdb9df8ff0fbd2206cdfdcd",
+      "crc32": "512b4d7a",
+      "sha1": "94e42465d51b51e73485c2db8cd15969acbb0ae7",
+      "format": "JSON"
+    },
+    {
+      "name": "ledgerenquirer-2022-08-19T19:53:56.285218-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ledgerenquirer-2022-08-19T19:53:56.285218-04:00.jpg",
+      "mtime": "1660953409",
+      "size": "9427",
+      "md5": "26864bc2850ee78aaa45c386ba74f108",
+      "crc32": "ed6c4cc0",
+      "sha1": "f9caa9272414ab046ed4e724cb10e4f26515eff8"
+    },
+    {
       "name": "ledgerenquirer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2207058f4ce7c0911831a8f61fef4e88a389926f",
-      "mtime": "1660867064",
-      "size": "70944",
-      "md5": "bbba19d46ef4ddb434f7eb2e053fd0d7",
-      "crc32": "a790d2d7",
-      "sha1": "fdf5d61cfe6cb110eacc85e7676506a64bfdeffa",
+      "btih": "d95b9dad48feb78f42aba1087e17f49cce67cb0a",
+      "mtime": "1660953413",
+      "size": "74823",
+      "md5": "65cbe28f7acb89f0153c12908a59d0f3",
+      "crc32": "e7cda68b",
+      "sha1": "8dd8e1b33384d29b9fd128217ae42a729ff854f5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ledgerenquirer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a9b8009a5de27acf5b9f38bd9aa5eb64",
+      "md5": "99cd987cafa558e4a9fd3d746fe0e644",
       "summation": "md5"
     },
     {
       "name": "ledgerenquirer-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660866915",
-      "size": "421888",
-      "md5": "0388e1a1c34717d22212c6e90fbc8010",
-      "crc32": "426543d5",
-      "sha1": "693a6364622e88d309c1f5de8e59faec825582be",
+      "mtime": "1660953255",
+      "size": "442368",
+      "md5": "a074c7dae4b369c10d8f502e2f5d7725",
+      "crc32": "35dc705f",
+      "sha1": "e538d3c7fe99dde6455c6fcef3a2199e9d1c289e",
       "format": "Metadata"
     },
     {
@@ -3384,9 +3570,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 326,
-  "item_last_updated": 1660867064,
-  "item_size": 20572879,
+  "files_count": 344,
+  "item_last_updated": 1660953413,
+  "item_size": 21590031,
   "metadata": {
     "identifier": "ledgerenquirer-2022",
     "collection": [
@@ -3404,7 +3590,7 @@
     "addeddate": "2022-07-20 23:31:19"
   },
   "server": "ia801503.us.archive.org",
-  "uniq": 2069206550,
+  "uniq": 790880586,
   "workable_servers": [
     "ia801503.us.archive.org",
     "ia601503.us.archive.org"

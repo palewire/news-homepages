@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 13 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 15 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         89
     </td>
     <td style="text-align: right;">
-        241
+        239
     </td>
   </tr>
 
@@ -196,7 +196,7 @@ The median score for each category, along with how it ranks in comparison to the
         83
     </td>
     <td style="text-align: right;">
-        401
+        399
     </td>
   </tr>
 
@@ -208,7 +208,7 @@ The median score for each category, along with how it ranks in comparison to the
         25
     </td>
     <td style="text-align: right;">
-        441
+        440
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 75 screenshots with the Internet Archive.
+The archiving routine has saved 77 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-08-18T19:55:11.678916-04:00.jpg">
+  <img src="https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-08-18T19:55:11.678916-04:00.jpg"
+     alt="Maryland Daily Record at 2022-08-18 19:55:14-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-08-18T19:55:11.678916-04:00.jpg">August 18 at 7:55 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-08-18T08:01:04.052461-04:00.jpg">
+  <img src="https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-08-18T08:01:04.052461-04:00.jpg"
+     alt="Maryland Daily Record at 2022-08-18 08:01:07-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-08-18T08:01:04.052461-04:00.jpg">August 18 at 8:01 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-08-17T19:53:04.985475-04:00.jpg">
   <img src="https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-08-17T19:53:04.985475-04:00.jpg"
      alt="Maryland Daily Record at 2022-08-17 19:53:08-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-08-13T09:12:16.664702-04:00.jpg">August 13 at 9:12 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-08-12T20:42:47.686696-04:00.jpg">
-  <img src="https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-08-12T20:42:47.686696-04:00.jpg"
-     alt="Maryland Daily Record at 2022-08-12 20:42:49-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-08-12T20:42:47.686696-04:00.jpg">August 12 at 8:42 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-08-12T09:24:09.340146-04:00.jpg">
-  <img src="https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-08-12T09:24:09.340146-04:00.jpg"
-     alt="Maryland Daily Record at 2022-08-12 09:24:12-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-08-12T09:24:09.340146-04:00.jpg">August 12 at 9:24 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 69 hyperlink lists with the Internet Archive.
+The archiving routine has saved 71 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 18 at 7:55 PM](https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-08-18T19:55:11.678916-04:00.hyperlinks.json) |
+| [August 18 at 8:01 AM](https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-08-18T08:01:04.052461-04:00.hyperlinks.json) |
 | [August 17 at 7:51 AM](https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-08-17T07:51:06.836043-04:00.hyperlinks.json) |
 | [August 16 at 8:06 PM](https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-08-16T20:06:10.405818-04:00.hyperlinks.json) |
 | [August 16 at 10:01 AM](https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-08-16T10:00:58.733429-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 14 at 9:21 PM](https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-08-14T21:21:17.150657-04:00.hyperlinks.json) |
 | [August 14 at 9:49 AM](https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-08-14T09:49:22.475402-04:00.hyperlinks.json) |
 | [August 13 at 11:16 PM](https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-08-13T23:15:56.487669-04:00.hyperlinks.json) |
-| [August 13 at 9:12 AM](https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-08-13T09:12:16.664702-04:00.hyperlinks.json) |
-| [August 11 at 9:40 AM](https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-08-11T09:40:29.977184-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 67 accessibility trees with the Internet Archive.
+The archiving routine has saved 68 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 18 at 7:55 PM](https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-08-18T19:55:11.678916-04:00.accessibility.json) |
 | [August 16 at 8:06 PM](https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-08-16T20:06:10.405818-04:00.accessibility.json) |
 | [August 16 at 10:01 AM](https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-08-16T10:00:58.733429-04:00.accessibility.json) |
 | [August 15 at 9:36 PM](https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-08-15T21:36:06.035255-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 12 at 9:24 AM](https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-08-12T09:24:09.340146-04:00.accessibility.json) |
 | [August 11 at 9:40 AM](https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-08-11T09:40:29.977184-04:00.accessibility.json) |
 | [August 10 at 8:53 PM](https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-08-10T20:53:09.952877-04:00.accessibility.json) |
-| [August 9 at 8:57 PM](https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-08-09T20:57:18.952382-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 51 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 53 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 18 at 7:55 PM](https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-08-18T19:55:11.678916-04:00.lighthouse.json) |
+| [August 18 at 8:01 AM](https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-08-18T08:01:04.052461-04:00.lighthouse.json) |
 | [August 17 at 7:53 PM](https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-08-17T19:53:04.985475-04:00.lighthouse.json) |
 | [August 17 at 7:51 AM](https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-08-17T07:51:06.836043-04:00.lighthouse.json) |
 | [August 16 at 8:06 PM](https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-08-16T20:06:10.405818-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 15 at 10:18 AM](https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-08-15T10:18:26.508283-04:00.lighthouse.json) |
 | [August 14 at 9:21 PM](https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-08-14T21:21:17.150657-04:00.lighthouse.json) |
 | [August 14 at 9:49 AM](https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-08-14T09:49:22.475402-04:00.lighthouse.json) |
-| [August 13 at 11:16 PM](https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-08-13T23:15:56.487669-04:00.lighthouse.json) |
-| [August 13 at 9:12 AM](https://archive.org/download/mddailyrecord-2022/mddailyrecord-2022-08-13T09:12:16.664702-04:00.lighthouse.json) |
 
 
 

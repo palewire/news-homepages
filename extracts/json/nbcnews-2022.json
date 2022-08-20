@@ -1,5 +1,5 @@
 {
-  "created": 1660867484,
+  "created": 1660954697,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/23/items/nbcnews-2022",
@@ -24434,31 +24434,279 @@
       "sha1": "400792c6fab9070f846fa89f3a26ab4c63e6438a"
     },
     {
+      "name": "nbcnews-2022-08-19T08:03:39.168402-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660910649",
+      "size": "68743",
+      "md5": "e648804762b7282cf1a9588c02824f38",
+      "crc32": "6b733dcb",
+      "sha1": "7170b94e86a48b2b98abdfe1524a99da3ba1282c",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcnews-2022-08-19T08:03:39.168402-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660910651",
+      "size": "92532",
+      "md5": "a81e7de7d30cc1d0757637bf4a2cc6a3",
+      "crc32": "36f1e25f",
+      "sha1": "0a2cb5403804fb82774d309b6ae951a752fe6a2a",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcnews-2022-08-19T08:03:39.168402-04:00.jpg",
+      "source": "original",
+      "mtime": "1660910647",
+      "size": "329639",
+      "md5": "9e357bdfb8c780709a33a800da8bf533",
+      "crc32": "62db343f",
+      "sha1": "ac595bab0dee3551d3e472422cfa89c51ef83ac6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nbcnews-2022-08-19T08:03:39.168402-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660910653",
+      "size": "1468",
+      "md5": "08caad2c7d6a55ee6072edb03590e371",
+      "crc32": "ac97425d",
+      "sha1": "26aa3fec2520dd5185daab479d92a0c650764a09",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcnews-2022-08-19T08:03:39.168402-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660910655",
+      "size": "85090",
+      "md5": "78a9f73b9ff6bed7e1d1dc5287055841",
+      "crc32": "1d0ca3b8",
+      "sha1": "ee7921218e0d9af4fe485db1232a64cfff784de4",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcnews-2022-08-19T08:03:39.168402-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nbcnews-2022-08-19T08:03:39.168402-04:00.jpg",
+      "mtime": "1660910899",
+      "size": "10596",
+      "md5": "78a0f5159015a6738a5a4b33f2779b44",
+      "crc32": "42523d05",
+      "sha1": "547d413c47664ab82ee6009836c99450bddffcea"
+    },
+    {
+      "name": "nbcnews-2022-08-19T10:21:56.972211-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660918921",
+      "size": "68743",
+      "md5": "e648804762b7282cf1a9588c02824f38",
+      "crc32": "6b733dcb",
+      "sha1": "7170b94e86a48b2b98abdfe1524a99da3ba1282c",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcnews-2022-08-19T10:21:56.972211-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660918923",
+      "size": "92532",
+      "md5": "a81e7de7d30cc1d0757637bf4a2cc6a3",
+      "crc32": "36f1e25f",
+      "sha1": "0a2cb5403804fb82774d309b6ae951a752fe6a2a",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcnews-2022-08-19T10:21:56.972211-04:00.jpg",
+      "source": "original",
+      "mtime": "1660918919",
+      "size": "329639",
+      "md5": "9e357bdfb8c780709a33a800da8bf533",
+      "crc32": "62db343f",
+      "sha1": "ac595bab0dee3551d3e472422cfa89c51ef83ac6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nbcnews-2022-08-19T10:21:56.972211-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660918925",
+      "size": "1468",
+      "md5": "08caad2c7d6a55ee6072edb03590e371",
+      "crc32": "ac97425d",
+      "sha1": "26aa3fec2520dd5185daab479d92a0c650764a09",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcnews-2022-08-19T10:21:56.972211-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660918927",
+      "size": "85090",
+      "md5": "78a9f73b9ff6bed7e1d1dc5287055841",
+      "crc32": "1d0ca3b8",
+      "sha1": "ee7921218e0d9af4fe485db1232a64cfff784de4",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcnews-2022-08-19T10:21:56.972211-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nbcnews-2022-08-19T10:21:56.972211-04:00.jpg",
+      "mtime": "1660919082",
+      "size": "10596",
+      "md5": "78a0f5159015a6738a5a4b33f2779b44",
+      "crc32": "42523d05",
+      "sha1": "547d413c47664ab82ee6009836c99450bddffcea"
+    },
+    {
+      "name": "nbcnews-2022-08-19T17:15:37.614961-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660943768",
+      "size": "55586",
+      "md5": "7d7f85466ad5a746b104c66cea2b4fcc",
+      "crc32": "05b4731d",
+      "sha1": "f3ad9200ed7b537b00c4198186704ad2bc7ec942",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcnews-2022-08-19T17:15:37.614961-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660943771",
+      "size": "63524",
+      "md5": "5f3e1897fc192b476659a5d21787a6ef",
+      "crc32": "dc736612",
+      "sha1": "737eed9bf34de31360fa0176f3b5f25473529c4a",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcnews-2022-08-19T17:15:37.614961-04:00.jpg",
+      "source": "original",
+      "mtime": "1660943766",
+      "size": "319670",
+      "md5": "dcd67118f5af9cd3bb743f64554846f7",
+      "crc32": "9bdc1a5e",
+      "sha1": "d9887a4d8cda66ddfb969b7bbf84bec67128009e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nbcnews-2022-08-19T17:15:37.614961-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660943773",
+      "size": "1468",
+      "md5": "9eefede24babca3e27441e78c95e5556",
+      "crc32": "277e2f68",
+      "sha1": "6c9d57628e3eb58c0acc5d99ee8dfa302fd296a0",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcnews-2022-08-19T17:15:37.614961-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660943775",
+      "size": "104001",
+      "md5": "acddb359a21d19c608f35ef18319a1eb",
+      "crc32": "50148214",
+      "sha1": "7f163e059e39713fecb8a98aa31fddd0e9f2b4fb",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcnews-2022-08-19T17:15:37.614961-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nbcnews-2022-08-19T17:15:37.614961-04:00.jpg",
+      "mtime": "1660943964",
+      "size": "10490",
+      "md5": "5b5929ff74f91b3e1c4925a2c4af4c0d",
+      "crc32": "b6ef2734",
+      "sha1": "c3dbec08ad3ba260c10474406dcadcf58b3ef86e"
+    },
+    {
+      "name": "nbcnews-2022-08-19T19:55:48.519307-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660953361",
+      "size": "55914",
+      "md5": "af4b55d11a138f769511d9d9554dde03",
+      "crc32": "c585f7ed",
+      "sha1": "d4d0172424a67ce6ef14981a118d15249638b67c",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcnews-2022-08-19T19:55:48.519307-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660953363",
+      "size": "63836",
+      "md5": "b09073b1aba56dc778d47119810ac4ba",
+      "crc32": "3f785dab",
+      "sha1": "c69ce3f510b085d538f474018d08fde66f82670a",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcnews-2022-08-19T19:55:48.519307-04:00.jpg",
+      "source": "original",
+      "mtime": "1660953359",
+      "size": "292966",
+      "md5": "ca9e4ace1bc132c744c5af13df064a3f",
+      "crc32": "a944034a",
+      "sha1": "bbe5d042b6e4d772389d65379e227954fe7aa5bc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nbcnews-2022-08-19T19:55:48.519307-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660953364",
+      "size": "1468",
+      "md5": "22fbda3d7c4800327c90cb0b63cc32b6",
+      "crc32": "b53aab66",
+      "sha1": "d50b2d2ed472fcaf84f51efb7d695104cd9d0a14",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcnews-2022-08-19T19:55:48.519307-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1660953367",
+      "size": "78305",
+      "md5": "e3154144ddbf5a6756714b72a46bbe6f",
+      "crc32": "1b56a3b2",
+      "sha1": "b5a6ee49f325601db868c93c454ae2b76f3fa47e",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcnews-2022-08-19T19:55:48.519307-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nbcnews-2022-08-19T19:55:48.519307-04:00.jpg",
+      "mtime": "1660953727",
+      "size": "10270",
+      "md5": "ec1eb1a19d1aec93ad0fb119e421727e",
+      "crc32": "0eb1ade5",
+      "sha1": "e30d8a6e74f076008d6a2e0bd91e79ca1770a14c"
+    },
+    {
       "name": "nbcnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2274a4f0c0b885692306d158ce6e624643d14b6a",
-      "mtime": "1660867442",
-      "size": "492592",
-      "md5": "4aefd72aea1baddf05908ca6a09db998",
-      "crc32": "653cda3f",
-      "sha1": "1e142d276a385f0704c515834a0b4e63bba5029a",
+      "btih": "e9c3657f556181c73fbc9d34b3200d296180d2a6",
+      "mtime": "1660954634",
+      "size": "497641",
+      "md5": "f0bd860f1157127fd160c23d49e66661",
+      "crc32": "29e71941",
+      "sha1": "f388dd737dbfca9ebb9b3f8ebf5625faf7083c28",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nbcnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "83733fe5a42ebbacbbc32f7dd35681ce",
+      "md5": "1cd03a6b80220f2b4502ee85362045b7",
       "summation": "md5"
     },
     {
       "name": "nbcnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660867039",
-      "size": "2715648",
-      "md5": "1698f0fd8cf07b6f54e23ea8b95c7903",
-      "crc32": "1b1001b9",
-      "sha1": "7a1c534950171e7916d668b9ec0a856901fe2d43",
+      "mtime": "1660953372",
+      "size": "2744320",
+      "md5": "e27eac027ec30410e745d03dc0c97631",
+      "crc32": "16a2952b",
+      "sha1": "b82dcb1919710db7889b3fea170e67026aac97b0",
       "format": "Metadata"
     },
     {
@@ -24472,9 +24720,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2336,
-  "item_last_updated": 1660867442,
-  "item_size": 254872842,
+  "files_count": 2360,
+  "item_last_updated": 1660954634,
+  "item_size": 257140197,
   "metadata": {
     "identifier": "nbcnews-2022",
     "collection": [
@@ -24491,10 +24739,10 @@
     "publicdate": "2022-03-24 23:11:06",
     "addeddate": "2022-03-24 23:11:06"
   },
-  "server": "ia802500.us.archive.org",
-  "uniq": 463746704,
+  "server": "ia902500.us.archive.org",
+  "uniq": 2137494065,
   "workable_servers": [
-    "ia802500.us.archive.org",
-    "ia902500.us.archive.org"
+    "ia902500.us.archive.org",
+    "ia802500.us.archive.org"
   ]
 }

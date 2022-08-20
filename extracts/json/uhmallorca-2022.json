@@ -1,5 +1,5 @@
 {
-  "created": 1660869140,
+  "created": 1660955343,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/7/items/uhmallorca-2022",
@@ -2624,31 +2624,155 @@
       "sha1": "de3cebb38ab9feaaa491c46ec4486af1cc557d6a"
     },
     {
+      "name": "uhmallorca-2022-08-19T03:23:30.345772+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660872214",
+      "size": "110364",
+      "md5": "955b8fe24d8f4de7447ff9e24805d3d5",
+      "crc32": "8ef35263",
+      "sha1": "f07d175a78db52aa7b0d8e9d229ea5b4450e454a",
+      "format": "JSON"
+    },
+    {
+      "name": "uhmallorca-2022-08-19T03:23:30.345772+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660872215",
+      "size": "82237",
+      "md5": "a98cc2a92455121f4f5d67cb1b429cb4",
+      "crc32": "e34d57d6",
+      "sha1": "5564fac805cad304bdb79c867c7df3e1f135b8ab",
+      "format": "JSON"
+    },
+    {
+      "name": "uhmallorca-2022-08-19T03:23:30.345772+02:00.jpg",
+      "source": "original",
+      "mtime": "1660872212",
+      "size": "229542",
+      "md5": "7f70d0822f8a1938e2137a2b048c4899",
+      "crc32": "5c618741",
+      "sha1": "ddfee9488409443d06bd78450825c650170db8dd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "uhmallorca-2022-08-19T03:23:30.345772+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660872216",
+      "size": "1486",
+      "md5": "a633823d93c7a1419b9a8deec432adb8",
+      "crc32": "b5701815",
+      "sha1": "ded6f5c15530d613b32798a8342e63cca4dd51d1",
+      "format": "JSON"
+    },
+    {
+      "name": "uhmallorca-2022-08-19T03:23:30.345772+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1660872218",
+      "size": "27995",
+      "md5": "6b083504813dabdccc620b6d7cdb0821",
+      "crc32": "2667e24e",
+      "sha1": "0d81cc10c4639db49d69281cf1d9c0855ff69383",
+      "format": "JSON"
+    },
+    {
+      "name": "uhmallorca-2022-08-19T03:23:30.345772+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "uhmallorca-2022-08-19T03:23:30.345772+02:00.jpg",
+      "mtime": "1660872309",
+      "size": "9760",
+      "md5": "8b6282eb8078c4079b53d25bc4833179",
+      "crc32": "c2584743",
+      "sha1": "712030060d19edf1ee1f93389205517f47def915"
+    },
+    {
+      "name": "uhmallorca-2022-08-19T15:23:33.196711+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660915420",
+      "size": "110184",
+      "md5": "d20ab702191bf3abba4dfdcb793e95a9",
+      "crc32": "9efcd4ce",
+      "sha1": "4b31a7e27301899a877024c7a531c163c3b8e4a3",
+      "format": "JSON"
+    },
+    {
+      "name": "uhmallorca-2022-08-19T15:23:33.196711+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660915422",
+      "size": "80837",
+      "md5": "2fc1153ab5cc62dbed8d0520e37b2440",
+      "crc32": "c844f164",
+      "sha1": "398400d378cf08c748bf9b8e217c2bb07434e81c",
+      "format": "JSON"
+    },
+    {
+      "name": "uhmallorca-2022-08-19T15:23:33.196711+02:00.jpg",
+      "source": "original",
+      "mtime": "1660915418",
+      "size": "287706",
+      "md5": "05250c5cc866ddec776b281895653bd6",
+      "crc32": "40f8a8ff",
+      "sha1": "b3485c90d1612baea65edd5746983d52a1e72c22",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "uhmallorca-2022-08-19T15:23:33.196711+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660915423",
+      "size": "1486",
+      "md5": "12efbbd9abdeff5e0237a7e12fe9d727",
+      "crc32": "db8e0f34",
+      "sha1": "42e2c54a44c1736df2134a193e3ef3f0c474b900",
+      "format": "JSON"
+    },
+    {
+      "name": "uhmallorca-2022-08-19T15:23:33.196711+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1660915425",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "uhmallorca-2022-08-19T15:23:33.196711+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "uhmallorca-2022-08-19T15:23:33.196711+02:00.jpg",
+      "mtime": "1660915610",
+      "size": "9719",
+      "md5": "b74eb1db47d5ba19b79bbdf4339274ea",
+      "crc32": "fc73edcc",
+      "sha1": "e68218400dd5d485de651f28144d0993803b537d"
+    },
+    {
       "name": "uhmallorca-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fdfb09036135714e3d2131a9403063ae72ef8d03",
-      "mtime": "1660828336",
-      "size": "55383",
-      "md5": "199e6bec9840eb5cb098db7543c0cdd0",
-      "crc32": "2e0c7263",
-      "sha1": "75ea5501d25a4154546e29f839db4fae0d97a193",
+      "btih": "73a5a42e48cd4e8f56a0ff8bc09e3a23b2501f70",
+      "mtime": "1660915614",
+      "size": "57941",
+      "md5": "1626123321432f7ce97bbff6b2f90927",
+      "crc32": "f9e069fc",
+      "sha1": "c1ae8c3a600cb4af1e2c332aafc9d569a9396e33",
       "format": "Archive BitTorrent"
     },
     {
       "name": "uhmallorca-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d24ba82fa73be6cf5855b3b87591e9cf",
+      "md5": "0a3fc143da50c534634ae7a3144ce412",
       "summation": "md5"
     },
     {
       "name": "uhmallorca-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660827862",
-      "size": "344064",
-      "md5": "ccb5e314bc3c6bb6a1c1e6ab4432874a",
-      "crc32": "f45f5f44",
-      "sha1": "bbfc70c5957bbcd091a44a0c7f5b1e5f81fef9b4",
+      "mtime": "1660915429",
+      "size": "356352",
+      "md5": "6e568b020a2b593abf7674b13ec02975",
+      "crc32": "735b607e",
+      "sha1": "1c01535ad958eb2274b496dcffbfb7ab2702f246",
       "format": "Metadata"
     },
     {
@@ -2662,9 +2786,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 257,
-  "item_last_updated": 1660828336,
-  "item_size": 21736265,
+  "files_count": 269,
+  "item_last_updated": 1660915614,
+  "item_size": 22702629,
   "metadata": {
     "identifier": "uhmallorca-2022",
     "collection": [
@@ -2681,15 +2805,15 @@
     "publicdate": "2022-07-28 18:53:58",
     "addeddate": "2022-07-28 18:53:58"
   },
-  "server": "ia601502.us.archive.org",
+  "server": "ia801502.us.archive.org",
   "uhmallorca-2022": {
     "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
     "status": "error",
     "status_ext": "error:user-session-limit"
   },
-  "uniq": 2104623164,
+  "uniq": 1132313149,
   "workable_servers": [
-    "ia601502.us.archive.org",
-    "ia801502.us.archive.org"
+    "ia801502.us.archive.org",
+    "ia601502.us.archive.org"
   ]
 }

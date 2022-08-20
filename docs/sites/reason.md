@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 17 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 20 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         74
     </td>
     <td style="text-align: right;">
-        651
+        655
     </td>
   </tr>
 
@@ -196,7 +196,7 @@ The median score for each category, along with how it ranks in comparison to the
         83
     </td>
     <td style="text-align: right;">
-        401
+        399
     </td>
   </tr>
 
@@ -205,10 +205,10 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        47
+        46
     </td>
     <td style="text-align: right;">
-        192
+        198
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 92 screenshots with the Internet Archive.
+The archiving routine has saved 95 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/reason-2022/reason-2022-08-18T14:31:14.526892-04:00.jpg">
+  <img src="https://archive.org/download/reason-2022/reason-2022-08-18T14:31:14.526892-04:00.jpg"
+     alt="Reason at 2022-08-18 14:31:16-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/reason-2022/reason-2022-08-18T14:31:14.526892-04:00.jpg">August 18 at 2:31 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/reason-2022/reason-2022-08-18T11:27:13.776277-04:00.jpg">
+  <img src="https://archive.org/download/reason-2022/reason-2022-08-18T11:27:13.776277-04:00.jpg"
+     alt="Reason at 2022-08-18 11:27:15-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/reason-2022/reason-2022-08-18T11:27:13.776277-04:00.jpg">August 18 at 11:27 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/reason-2022/reason-2022-08-17T23:44:50.596966-04:00.jpg">
+  <img src="https://archive.org/download/reason-2022/reason-2022-08-17T23:44:50.596966-04:00.jpg"
+     alt="Reason at 2022-08-17 23:44:55-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/reason-2022/reason-2022-08-17T23:44:50.596966-04:00.jpg">August 17 at 11:44 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/reason-2022/reason-2022-08-17T14:31:46.626684-04:00.jpg">
   <img src="https://archive.org/download/reason-2022/reason-2022-08-17T14:31:46.626684-04:00.jpg"
      alt="Reason at 2022-08-17 14:31:51-04:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/reason-2022/reason-2022-08-14T15:49:22.357190-04:00.jpg">August 14 at 3:49 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/reason-2022/reason-2022-08-14T14:58:06.481136-04:00.jpg">
-  <img src="https://archive.org/download/reason-2022/reason-2022-08-14T14:58:06.481136-04:00.jpg"
-     alt="Reason at 2022-08-14 14:58:08-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/reason-2022/reason-2022-08-14T14:58:06.481136-04:00.jpg">August 14 at 2:58 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/reason-2022/reason-2022-08-14T03:01:04.588094-04:00.jpg">
-  <img src="https://archive.org/download/reason-2022/reason-2022-08-14T03:01:04.588094-04:00.jpg"
-     alt="Reason at 2022-08-14 03:01:05-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/reason-2022/reason-2022-08-14T03:01:04.588094-04:00.jpg">August 14 at 3:01 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/reason-2022/reason-2022-08-13T17:29:44.524608-04:00.jpg">
-  <img src="https://archive.org/download/reason-2022/reason-2022-08-13T17:29:44.524608-04:00.jpg"
-     alt="Reason at 2022-08-13 17:29:45-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/reason-2022/reason-2022-08-13T17:29:44.524608-04:00.jpg">August 13 at 5:29 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 92 hyperlink lists with the Internet Archive.
+The archiving routine has saved 95 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 18 at 2:31 PM](https://archive.org/download/reason-2022/reason-2022-08-18T14:31:14.526892-04:00.hyperlinks.json) |
+| [August 18 at 11:27 AM](https://archive.org/download/reason-2022/reason-2022-08-18T11:27:13.776277-04:00.hyperlinks.json) |
+| [August 17 at 11:44 PM](https://archive.org/download/reason-2022/reason-2022-08-17T23:44:50.596966-04:00.hyperlinks.json) |
 | [August 17 at 2:31 PM](https://archive.org/download/reason-2022/reason-2022-08-17T14:31:46.626684-04:00.hyperlinks.json) |
 | [August 17 at 11:10 AM](https://archive.org/download/reason-2022/reason-2022-08-17T11:10:05.578261-04:00.hyperlinks.json) |
 | [August 16 at 11:43 PM](https://archive.org/download/reason-2022/reason-2022-08-16T23:43:30.539959-04:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 16 at 2:49 AM](https://archive.org/download/reason-2022/reason-2022-08-16T02:49:23.392227-04:00.hyperlinks.json) |
 | [August 15 at 4:56 PM](https://archive.org/download/reason-2022/reason-2022-08-15T16:56:05.435924-04:00.hyperlinks.json) |
 | [August 15 at 4:11 PM](https://archive.org/download/reason-2022/reason-2022-08-15T16:10:52.768941-04:00.hyperlinks.json) |
-| [August 15 at 2:42 AM](https://archive.org/download/reason-2022/reason-2022-08-15T02:41:53.368262-04:00.hyperlinks.json) |
-| [August 14 at 3:49 PM](https://archive.org/download/reason-2022/reason-2022-08-14T15:49:22.357190-04:00.hyperlinks.json) |
-| [August 14 at 2:58 PM](https://archive.org/download/reason-2022/reason-2022-08-14T14:58:06.481136-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 92 accessibility trees with the Internet Archive.
+The archiving routine has saved 95 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 18 at 2:31 PM](https://archive.org/download/reason-2022/reason-2022-08-18T14:31:14.526892-04:00.accessibility.json) |
+| [August 18 at 11:27 AM](https://archive.org/download/reason-2022/reason-2022-08-18T11:27:13.776277-04:00.accessibility.json) |
+| [August 17 at 11:44 PM](https://archive.org/download/reason-2022/reason-2022-08-17T23:44:50.596966-04:00.accessibility.json) |
 | [August 17 at 2:31 PM](https://archive.org/download/reason-2022/reason-2022-08-17T14:31:46.626684-04:00.accessibility.json) |
 | [August 17 at 11:10 AM](https://archive.org/download/reason-2022/reason-2022-08-17T11:10:05.578261-04:00.accessibility.json) |
 | [August 16 at 11:43 PM](https://archive.org/download/reason-2022/reason-2022-08-16T23:43:30.539959-04:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 16 at 2:49 AM](https://archive.org/download/reason-2022/reason-2022-08-16T02:49:23.392227-04:00.accessibility.json) |
 | [August 15 at 4:56 PM](https://archive.org/download/reason-2022/reason-2022-08-15T16:56:05.435924-04:00.accessibility.json) |
 | [August 15 at 4:11 PM](https://archive.org/download/reason-2022/reason-2022-08-15T16:10:52.768941-04:00.accessibility.json) |
-| [August 15 at 2:42 AM](https://archive.org/download/reason-2022/reason-2022-08-15T02:41:53.368262-04:00.accessibility.json) |
-| [August 14 at 3:49 PM](https://archive.org/download/reason-2022/reason-2022-08-14T15:49:22.357190-04:00.accessibility.json) |
-| [August 14 at 2:58 PM](https://archive.org/download/reason-2022/reason-2022-08-14T14:58:06.481136-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 74 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 77 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 18 at 2:31 PM](https://archive.org/download/reason-2022/reason-2022-08-18T14:31:14.526892-04:00.lighthouse.json) |
+| [August 18 at 11:27 AM](https://archive.org/download/reason-2022/reason-2022-08-18T11:27:13.776277-04:00.lighthouse.json) |
+| [August 17 at 11:44 PM](https://archive.org/download/reason-2022/reason-2022-08-17T23:44:50.596966-04:00.lighthouse.json) |
 | [August 17 at 2:31 PM](https://archive.org/download/reason-2022/reason-2022-08-17T14:31:46.626684-04:00.lighthouse.json) |
 | [August 17 at 11:10 AM](https://archive.org/download/reason-2022/reason-2022-08-17T11:10:05.578261-04:00.lighthouse.json) |
 | [August 16 at 11:43 PM](https://archive.org/download/reason-2022/reason-2022-08-16T23:43:30.539959-04:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 16 at 2:49 AM](https://archive.org/download/reason-2022/reason-2022-08-16T02:49:23.392227-04:00.lighthouse.json) |
 | [August 15 at 4:56 PM](https://archive.org/download/reason-2022/reason-2022-08-15T16:56:05.435924-04:00.lighthouse.json) |
 | [August 15 at 4:11 PM](https://archive.org/download/reason-2022/reason-2022-08-15T16:10:52.768941-04:00.lighthouse.json) |
-| [August 15 at 2:42 AM](https://archive.org/download/reason-2022/reason-2022-08-15T02:41:53.368262-04:00.lighthouse.json) |
-| [August 14 at 3:49 PM](https://archive.org/download/reason-2022/reason-2022-08-14T15:49:22.357190-04:00.lighthouse.json) |
-| [August 14 at 2:58 PM](https://archive.org/download/reason-2022/reason-2022-08-14T14:58:06.481136-04:00.lighthouse.json) |
 
 
 

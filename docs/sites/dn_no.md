@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 13 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 15 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -208,7 +208,7 @@ The median score for each category, along with how it ranks in comparison to the
         1
     </td>
     <td style="text-align: right;">
-        771
+        773
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         98
     </td>
     <td style="text-align: right;">
-        62
+        63
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 59 screenshots with the Internet Archive.
+The archiving routine has saved 61 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/dn_no-2022/dn_no-2022-08-19T01:02:46.919699+02:00.jpg">
+  <img src="https://archive.org/download/dn_no-2022/dn_no-2022-08-19T01:02:46.919699+02:00.jpg"
+     alt="Dagens Næringsliv at 2022-08-19 01:02:48+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-08-19T01:02:46.919699+02:00.jpg">August 19 at 1:02 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dn_no-2022/dn_no-2022-08-18T12:57:13.433523+02:00.jpg">
+  <img src="https://archive.org/download/dn_no-2022/dn_no-2022-08-18T12:57:13.433523+02:00.jpg"
+     alt="Dagens Næringsliv at 2022-08-18 12:57:19+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-08-18T12:57:13.433523+02:00.jpg">August 18 at 12:57 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/dn_no-2022/dn_no-2022-08-18T01:01:18.659296+02:00.jpg">
   <img src="https://archive.org/download/dn_no-2022/dn_no-2022-08-18T01:01:18.659296+02:00.jpg"
      alt="Dagens Næringsliv at 2022-08-18 01:01:23+02:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-08-13T14:57:27.981677+02:00.jpg">August 13 at 2:57 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dn_no-2022/dn_no-2022-08-13T02:32:49.769563+02:00.jpg">
-  <img src="https://archive.org/download/dn_no-2022/dn_no-2022-08-13T02:32:49.769563+02:00.jpg"
-     alt="Dagens Næringsliv at 2022-08-13 02:32:50+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-08-13T02:32:49.769563+02:00.jpg">August 13 at 2:32 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dn_no-2022/dn_no-2022-08-12T13:42:32.311900+02:00.jpg">
-  <img src="https://archive.org/download/dn_no-2022/dn_no-2022-08-12T13:42:32.311900+02:00.jpg"
-     alt="Dagens Næringsliv at 2022-08-12 13:42:35+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dn_no-2022/dn_no-2022-08-12T13:42:32.311900+02:00.jpg">August 12 at 1:42 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 59 hyperlink lists with the Internet Archive.
+The archiving routine has saved 61 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 19 at 1:02 AM](https://archive.org/download/dn_no-2022/dn_no-2022-08-19T01:02:46.919699+02:00.hyperlinks.json) |
+| [August 18 at 12:57 PM](https://archive.org/download/dn_no-2022/dn_no-2022-08-18T12:57:13.433523+02:00.hyperlinks.json) |
 | [August 18 at 1:01 AM](https://archive.org/download/dn_no-2022/dn_no-2022-08-18T01:01:18.659296+02:00.hyperlinks.json) |
 | [August 17 at 12:57 PM](https://archive.org/download/dn_no-2022/dn_no-2022-08-17T12:57:04.567109+02:00.hyperlinks.json) |
 | [August 17 at 1:04 AM](https://archive.org/download/dn_no-2022/dn_no-2022-08-17T01:04:32.934955+02:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 15 at 3:56 PM](https://archive.org/download/dn_no-2022/dn_no-2022-08-15T15:56:16.766159+02:00.hyperlinks.json) |
 | [August 15 at 3:08 AM](https://archive.org/download/dn_no-2022/dn_no-2022-08-15T03:08:37.247950+02:00.hyperlinks.json) |
 | [August 14 at 3:31 PM](https://archive.org/download/dn_no-2022/dn_no-2022-08-14T15:31:44.232657+02:00.hyperlinks.json) |
-| [August 14 at 1:53 AM](https://archive.org/download/dn_no-2022/dn_no-2022-08-14T01:53:41.033962+02:00.hyperlinks.json) |
-| [August 13 at 2:57 PM](https://archive.org/download/dn_no-2022/dn_no-2022-08-13T14:57:27.981677+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 59 accessibility trees with the Internet Archive.
+The archiving routine has saved 61 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 19 at 1:02 AM](https://archive.org/download/dn_no-2022/dn_no-2022-08-19T01:02:46.919699+02:00.accessibility.json) |
+| [August 18 at 12:57 PM](https://archive.org/download/dn_no-2022/dn_no-2022-08-18T12:57:13.433523+02:00.accessibility.json) |
 | [August 18 at 1:01 AM](https://archive.org/download/dn_no-2022/dn_no-2022-08-18T01:01:18.659296+02:00.accessibility.json) |
 | [August 17 at 12:57 PM](https://archive.org/download/dn_no-2022/dn_no-2022-08-17T12:57:04.567109+02:00.accessibility.json) |
 | [August 17 at 1:04 AM](https://archive.org/download/dn_no-2022/dn_no-2022-08-17T01:04:32.934955+02:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 15 at 3:56 PM](https://archive.org/download/dn_no-2022/dn_no-2022-08-15T15:56:16.766159+02:00.accessibility.json) |
 | [August 15 at 3:08 AM](https://archive.org/download/dn_no-2022/dn_no-2022-08-15T03:08:37.247950+02:00.accessibility.json) |
 | [August 14 at 3:31 PM](https://archive.org/download/dn_no-2022/dn_no-2022-08-14T15:31:44.232657+02:00.accessibility.json) |
-| [August 14 at 1:53 AM](https://archive.org/download/dn_no-2022/dn_no-2022-08-14T01:53:41.033962+02:00.accessibility.json) |
-| [August 13 at 2:57 PM](https://archive.org/download/dn_no-2022/dn_no-2022-08-13T14:57:27.981677+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 51 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 53 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 19 at 1:02 AM](https://archive.org/download/dn_no-2022/dn_no-2022-08-19T01:02:46.919699+02:00.lighthouse.json) |
+| [August 18 at 12:57 PM](https://archive.org/download/dn_no-2022/dn_no-2022-08-18T12:57:13.433523+02:00.lighthouse.json) |
 | [August 18 at 1:01 AM](https://archive.org/download/dn_no-2022/dn_no-2022-08-18T01:01:18.659296+02:00.lighthouse.json) |
 | [August 17 at 12:57 PM](https://archive.org/download/dn_no-2022/dn_no-2022-08-17T12:57:04.567109+02:00.lighthouse.json) |
 | [August 17 at 1:04 AM](https://archive.org/download/dn_no-2022/dn_no-2022-08-17T01:04:32.934955+02:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 15 at 3:56 PM](https://archive.org/download/dn_no-2022/dn_no-2022-08-15T15:56:16.766159+02:00.lighthouse.json) |
 | [August 15 at 3:08 AM](https://archive.org/download/dn_no-2022/dn_no-2022-08-15T03:08:37.247950+02:00.lighthouse.json) |
 | [August 14 at 3:31 PM](https://archive.org/download/dn_no-2022/dn_no-2022-08-14T15:31:44.232657+02:00.lighthouse.json) |
-| [August 14 at 1:53 AM](https://archive.org/download/dn_no-2022/dn_no-2022-08-14T01:53:41.033962+02:00.lighthouse.json) |
-| [August 13 at 2:57 PM](https://archive.org/download/dn_no-2022/dn_no-2022-08-13T14:57:27.981677+02:00.lighthouse.json) |
 
 
 

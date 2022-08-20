@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 13 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 15 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         96
     </td>
     <td style="text-align: right;">
-        79
+        78
     </td>
   </tr>
 
@@ -205,10 +205,10 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        56
+        57
     </td>
     <td style="text-align: right;">
-        122
+        120
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         98
     </td>
     <td style="text-align: right;">
-        62
+        63
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 64 screenshots with the Internet Archive.
+The archiving routine has saved 66 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/kut-2022/kut-2022-08-18T18:52:49.552725-05:00.jpg">
+  <img src="https://archive.org/download/kut-2022/kut-2022-08-18T18:52:49.552725-05:00.jpg"
+     alt="KUT at 2022-08-18 18:52:52-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kut-2022/kut-2022-08-18T18:52:49.552725-05:00.jpg">August 18 at 6:52 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kut-2022/kut-2022-08-18T06:59:16.112795-05:00.jpg">
+  <img src="https://archive.org/download/kut-2022/kut-2022-08-18T06:59:16.112795-05:00.jpg"
+     alt="KUT at 2022-08-18 06:59:18-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kut-2022/kut-2022-08-18T06:59:16.112795-05:00.jpg">August 18 at 6:59 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/kut-2022/kut-2022-08-17T18:50:58.496802-05:00.jpg">
   <img src="https://archive.org/download/kut-2022/kut-2022-08-17T18:50:58.496802-05:00.jpg"
      alt="KUT at 2022-08-17 18:51:00-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kut-2022/kut-2022-08-13T08:09:52.062759-05:00.jpg">August 13 at 8:09 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kut-2022/kut-2022-08-12T19:39:09.140939-05:00.jpg">
-  <img src="https://archive.org/download/kut-2022/kut-2022-08-12T19:39:09.140939-05:00.jpg"
-     alt="KUT at 2022-08-12 19:39:16-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kut-2022/kut-2022-08-12T19:39:09.140939-05:00.jpg">August 12 at 7:39 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kut-2022/kut-2022-08-12T08:20:51.040140-05:00.jpg">
-  <img src="https://archive.org/download/kut-2022/kut-2022-08-12T08:20:51.040140-05:00.jpg"
-     alt="KUT at 2022-08-12 08:20:53-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kut-2022/kut-2022-08-12T08:20:51.040140-05:00.jpg">August 12 at 8:20 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 64 hyperlink lists with the Internet Archive.
+The archiving routine has saved 66 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 18 at 6:52 PM](https://archive.org/download/kut-2022/kut-2022-08-18T18:52:49.552725-05:00.hyperlinks.json) |
+| [August 18 at 6:59 AM](https://archive.org/download/kut-2022/kut-2022-08-18T06:59:16.112795-05:00.hyperlinks.json) |
 | [August 17 at 6:51 PM](https://archive.org/download/kut-2022/kut-2022-08-17T18:50:58.496802-05:00.hyperlinks.json) |
 | [August 17 at 6:49 AM](https://archive.org/download/kut-2022/kut-2022-08-17T06:48:54.071686-05:00.hyperlinks.json) |
 | [August 16 at 7:06 PM](https://archive.org/download/kut-2022/kut-2022-08-16T19:05:57.859239-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 15 at 9:14 AM](https://archive.org/download/kut-2022/kut-2022-08-15T09:14:10.621639-05:00.hyperlinks.json) |
 | [August 14 at 8:18 PM](https://archive.org/download/kut-2022/kut-2022-08-14T20:18:06.225087-05:00.hyperlinks.json) |
 | [August 14 at 8:46 AM](https://archive.org/download/kut-2022/kut-2022-08-14T08:46:02.922160-05:00.hyperlinks.json) |
-| [August 13 at 10:12 PM](https://archive.org/download/kut-2022/kut-2022-08-13T22:12:01.661731-05:00.hyperlinks.json) |
-| [August 13 at 8:09 AM](https://archive.org/download/kut-2022/kut-2022-08-13T08:09:52.062759-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 64 accessibility trees with the Internet Archive.
+The archiving routine has saved 66 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 18 at 6:52 PM](https://archive.org/download/kut-2022/kut-2022-08-18T18:52:49.552725-05:00.accessibility.json) |
+| [August 18 at 6:59 AM](https://archive.org/download/kut-2022/kut-2022-08-18T06:59:16.112795-05:00.accessibility.json) |
 | [August 17 at 6:51 PM](https://archive.org/download/kut-2022/kut-2022-08-17T18:50:58.496802-05:00.accessibility.json) |
 | [August 17 at 6:48 AM](https://archive.org/download/kut-2022/kut-2022-08-17T06:48:54.071686-05:00.accessibility.json) |
 | [August 16 at 7:06 PM](https://archive.org/download/kut-2022/kut-2022-08-16T19:05:57.859239-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 15 at 9:14 AM](https://archive.org/download/kut-2022/kut-2022-08-15T09:14:10.621639-05:00.accessibility.json) |
 | [August 14 at 8:18 PM](https://archive.org/download/kut-2022/kut-2022-08-14T20:18:06.225087-05:00.accessibility.json) |
 | [August 14 at 8:46 AM](https://archive.org/download/kut-2022/kut-2022-08-14T08:46:02.922160-05:00.accessibility.json) |
-| [August 13 at 10:12 PM](https://archive.org/download/kut-2022/kut-2022-08-13T22:12:01.661731-05:00.accessibility.json) |
-| [August 13 at 8:09 AM](https://archive.org/download/kut-2022/kut-2022-08-13T08:09:52.062759-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 51 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 53 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 18 at 6:52 PM](https://archive.org/download/kut-2022/kut-2022-08-18T18:52:49.552725-05:00.lighthouse.json) |
+| [August 18 at 6:59 AM](https://archive.org/download/kut-2022/kut-2022-08-18T06:59:16.112795-05:00.lighthouse.json) |
 | [August 17 at 6:51 PM](https://archive.org/download/kut-2022/kut-2022-08-17T18:50:58.496802-05:00.lighthouse.json) |
 | [August 17 at 6:49 AM](https://archive.org/download/kut-2022/kut-2022-08-17T06:48:54.071686-05:00.lighthouse.json) |
 | [August 16 at 7:06 PM](https://archive.org/download/kut-2022/kut-2022-08-16T19:05:57.859239-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 15 at 9:14 AM](https://archive.org/download/kut-2022/kut-2022-08-15T09:14:10.621639-05:00.lighthouse.json) |
 | [August 14 at 8:18 PM](https://archive.org/download/kut-2022/kut-2022-08-14T20:18:06.225087-05:00.lighthouse.json) |
 | [August 14 at 8:46 AM](https://archive.org/download/kut-2022/kut-2022-08-14T08:46:02.922160-05:00.lighthouse.json) |
-| [August 13 at 10:12 PM](https://archive.org/download/kut-2022/kut-2022-08-13T22:12:01.661731-05:00.lighthouse.json) |
-| [August 13 at 8:09 AM](https://archive.org/download/kut-2022/kut-2022-08-13T08:09:52.062759-05:00.lighthouse.json) |
 
 
 
