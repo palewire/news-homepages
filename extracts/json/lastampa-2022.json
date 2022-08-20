@@ -1,5 +1,5 @@
 {
-  "created": 1660867133,
+  "created": 1660953416,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/27/items/lastampa-2022",
@@ -1070,31 +1070,217 @@
       "sha1": "39b248b7a6fd253679e166c5affcc95bc3d23415"
     },
     {
+      "name": "lastampa-2022-08-19T14:01:28.278837+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660910494",
+      "size": "74710",
+      "md5": "9a253a8c1d91ca7ca7b00e0ebe9c65d3",
+      "crc32": "dfc719bf",
+      "sha1": "a392e4858747ef2a6b2e4e5ed8ceb35bfd72d75d",
+      "format": "JSON"
+    },
+    {
+      "name": "lastampa-2022-08-19T14:01:28.278837+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660910496",
+      "size": "126230",
+      "md5": "27825bd93b5bd29e6f423035ff8ebe19",
+      "crc32": "8edc9c81",
+      "sha1": "216865df0c159b5016b98f916507606c6a3da7af",
+      "format": "JSON"
+    },
+    {
+      "name": "lastampa-2022-08-19T14:01:28.278837+02:00.jpg",
+      "source": "original",
+      "mtime": "1660910492",
+      "size": "247635",
+      "md5": "8d7b038eb4cbef1c891dc575ea0b6c04",
+      "crc32": "b000f6bd",
+      "sha1": "a4599b272dcce306e9a4fabfb74f96497f517bfc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lastampa-2022-08-19T14:01:28.278837+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660910498",
+      "size": "1467",
+      "md5": "2ef55df313aecfa91107b6e441de7511",
+      "crc32": "33f8c009",
+      "sha1": "7c3135f301c0626e86fa8bae30e8dd84c8c0ad36",
+      "format": "JSON"
+    },
+    {
+      "name": "lastampa-2022-08-19T14:01:28.278837+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1660910500",
+      "size": "74948",
+      "md5": "28116ea4b1a6bdb9d31d11d01ba62787",
+      "crc32": "d55559e3",
+      "sha1": "3a3e5830afadc32992b900f87c5ead445d0ee4da",
+      "format": "JSON"
+    },
+    {
+      "name": "lastampa-2022-08-19T14:01:28.278837+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lastampa-2022-08-19T14:01:28.278837+02:00.jpg",
+      "mtime": "1660910627",
+      "size": "8841",
+      "md5": "937f06d461fe4e0df6035510710aec38",
+      "crc32": "7f70d29b",
+      "sha1": "33d28a2c5dfc0511602da4af9ddba4044eb2f4f4"
+    },
+    {
+      "name": "lastampa-2022-08-19T16:20:12.506327+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660918819",
+      "size": "74710",
+      "md5": "9a253a8c1d91ca7ca7b00e0ebe9c65d3",
+      "crc32": "dfc719bf",
+      "sha1": "a392e4858747ef2a6b2e4e5ed8ceb35bfd72d75d",
+      "format": "JSON"
+    },
+    {
+      "name": "lastampa-2022-08-19T16:20:12.506327+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660918820",
+      "size": "126230",
+      "md5": "27825bd93b5bd29e6f423035ff8ebe19",
+      "crc32": "8edc9c81",
+      "sha1": "216865df0c159b5016b98f916507606c6a3da7af",
+      "format": "JSON"
+    },
+    {
+      "name": "lastampa-2022-08-19T16:20:12.506327+02:00.jpg",
+      "source": "original",
+      "mtime": "1660918815",
+      "size": "247635",
+      "md5": "8d7b038eb4cbef1c891dc575ea0b6c04",
+      "crc32": "b000f6bd",
+      "sha1": "a4599b272dcce306e9a4fabfb74f96497f517bfc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lastampa-2022-08-19T16:20:12.506327+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660918822",
+      "size": "1467",
+      "md5": "2ef55df313aecfa91107b6e441de7511",
+      "crc32": "33f8c009",
+      "sha1": "7c3135f301c0626e86fa8bae30e8dd84c8c0ad36",
+      "format": "JSON"
+    },
+    {
+      "name": "lastampa-2022-08-19T16:20:12.506327+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1660918824",
+      "size": "74948",
+      "md5": "28116ea4b1a6bdb9d31d11d01ba62787",
+      "crc32": "d55559e3",
+      "sha1": "3a3e5830afadc32992b900f87c5ead445d0ee4da",
+      "format": "JSON"
+    },
+    {
+      "name": "lastampa-2022-08-19T16:20:12.506327+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lastampa-2022-08-19T16:20:12.506327+02:00.jpg",
+      "mtime": "1660918888",
+      "size": "8841",
+      "md5": "937f06d461fe4e0df6035510710aec38",
+      "crc32": "7f70d29b",
+      "sha1": "33d28a2c5dfc0511602da4af9ddba4044eb2f4f4"
+    },
+    {
+      "name": "lastampa-2022-08-20T01:54:18.551832+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660953261",
+      "size": "75387",
+      "md5": "69a449f4724c806e9e188b8ae785c5b2",
+      "crc32": "08f5d8cd",
+      "sha1": "1d58dc9cc52738357229058c262fbb54f42364e2",
+      "format": "JSON"
+    },
+    {
+      "name": "lastampa-2022-08-20T01:54:18.551832+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660953263",
+      "size": "129046",
+      "md5": "5561febb3d802e3630fe16ea1611c9ec",
+      "crc32": "7bc739bd",
+      "sha1": "93b72a239575d11cebd3ba562f852aebe50e17d7",
+      "format": "JSON"
+    },
+    {
+      "name": "lastampa-2022-08-20T01:54:18.551832+02:00.jpg",
+      "source": "original",
+      "mtime": "1660953260",
+      "size": "297973",
+      "md5": "0021a1f46525a90ea8c686824cc72173",
+      "crc32": "5812c9b1",
+      "sha1": "513280fc53d09adb8922bb674b51dd915c76bb44",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lastampa-2022-08-20T01:54:18.551832+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660953264",
+      "size": "1467",
+      "md5": "24bd8ac52b5d34d62015b9296561de93",
+      "crc32": "8bfced00",
+      "sha1": "3db15e04cbd98e03df16f170cbdd3b3805ddca1a",
+      "format": "JSON"
+    },
+    {
+      "name": "lastampa-2022-08-20T01:54:18.551832+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1660953266",
+      "size": "57433",
+      "md5": "c22ba14ef7ad6bf6ae1d751669c3bac9",
+      "crc32": "085d2c11",
+      "sha1": "3ae117bed726e1473618aa419f47c01ab73bbde5",
+      "format": "JSON"
+    },
+    {
+      "name": "lastampa-2022-08-20T01:54:18.551832+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lastampa-2022-08-20T01:54:18.551832+02:00.jpg",
+      "mtime": "1660953350",
+      "size": "9102",
+      "md5": "555a68d76698d06831fbf6638ab71173",
+      "crc32": "9e96f5de",
+      "sha1": "981779b0e77940a28e0f1ff6df8cab66fa540db7"
+    },
+    {
       "name": "lastampa-2022_archive.torrent",
       "source": "metadata",
-      "btih": "090aa38a8e867d92e86b649decea5c675612aa67",
-      "mtime": "1660867120",
-      "size": "23148",
-      "md5": "b516b7fb23bcba3d266bd685b8fdc3b3",
-      "crc32": "897706c1",
-      "sha1": "64adc5f8d40dc289a77bf7d7e2276dad0ff83eaf",
+      "btih": "adc6db3800486f50647ff9ac37f392081712eba5",
+      "mtime": "1660953360",
+      "size": "26952",
+      "md5": "ff3b64f0b4b3564508b9cad69af3d12c",
+      "crc32": "a11ae03c",
+      "sha1": "c9ce9c4b6f4e25420bcdffa47dc77c29e9d926a5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lastampa-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c0e7bebd163ca490835b990978fbbce8",
+      "md5": "6f399b4ab0a1d3c2f0c5b005210c6064",
       "summation": "md5"
     },
     {
       "name": "lastampa-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660866905",
-      "size": "155648",
-      "md5": "98645a853ae4f5173e43cd54c0d80d6a",
-      "crc32": "41a4d7fb",
-      "sha1": "d0d49f3edc4ece6dd3a688ba7c4185704f0ea3bb",
+      "mtime": "1660953270",
+      "size": "176128",
+      "md5": "b096df705116d709882e64eb59051a8a",
+      "crc32": "6954951d",
+      "sha1": "628c34deed6cca6588f44168b53a9d3fbfca97cf",
       "format": "Metadata"
     },
     {
@@ -1108,9 +1294,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 107,
-  "item_last_updated": 1660867120,
-  "item_size": 8621206,
+  "files_count": 125,
+  "item_last_updated": 1660953360,
+  "item_size": 10283560,
   "metadata": {
     "identifier": "lastampa-2022",
     "collection": [
@@ -1127,10 +1313,10 @@
     "publicdate": "2022-08-11 00:51:00",
     "addeddate": "2022-08-11 00:51:00"
   },
-  "server": "ia802504.us.archive.org",
-  "uniq": 342748378,
+  "server": "ia902504.us.archive.org",
+  "uniq": 920352931,
   "workable_servers": [
-    "ia802504.us.archive.org",
-    "ia902504.us.archive.org"
+    "ia902504.us.archive.org",
+    "ia802504.us.archive.org"
   ]
 }
