@@ -96,45 +96,79 @@ def download_accessibility(handle):
 
 
 @cli.command()
-@click.argument("handle")
-def download_hyperlinks(handle):
+@click.option("--site", "site", default=None)
+@click.option("--country", "country", default=None)
+@click.option("--language", "language", default=None)
+@click.option("--bundle", "bundle", default=None)
+@click.option("--days", "days", default="90")
+@click.option("--output-path", "output_path", default=None)
+def download_hyperlinks(
+    site: str = None,
+    country: str = None,
+    language: str = None,
+    bundle: str = None,
+    days: str = None,
+    output_path: str = None,
+):
     """Download and parse the provided site's hyperlinks files."""
-    # Get the site data
-    site = utils.get_site(handle)
+    # Get all lighthouse files
+    hyperlink_df = utils.get_hyperlink_df().sort_values(["handle", "date"])
 
-    # Get all hyperlinks
-    hyperlink_df = utils.get_hyperlink_df()
+    # Get the data we want
+    if site:
+        site_list = [utils.get_site(site)]
+        slug = site.lower()
+    elif country:
+        site_list = utils.get_sites_in_country(country)
+        slug = country.lower()
+    elif language:
+        site_list = utils.get_sites_in_language(language)
+        slug = language.lower()
+    elif bundle:
+        site_list = utils.get_sites_in_bundle(bundle)
+        slug = bundle.lower()
 
-    # Filter it down to files for the provided site
-    site_df = hyperlink_df[hyperlink_df.handle.str.lower() == site["handle"].lower()]
-    print(f"{len(site_df)} hyperlink files found")
+    handle_list = [s["handle"].lower() for s in site_list]
+    filtered_df = hyperlink_df[hyperlink_df.handle.str.lower().isin(handle_list)].copy()
 
-    # Read in the output file
-    output_path = utils.ANALYSIS_DIR / f"{handle.lower()}-hyperlinks.csv"
-    try:
-        output_df = pd.read_csv(output_path)
-        downloaded_files = set(output_df.file_url.unique())
-    except FileNotFoundError:
-        output_df = pd.DataFrame()
-        downloaded_files = set()
+    if days:
+        cutoff_date = filtered_df["date"].max() - pd.Timedelta(days=int(days))
+        filtered_df = filtered_df[filtered_df["date"] > cutoff_date].copy()
+        print(f"Trimming to last {days} days")
 
-    # See how many files we don't have yet
-    archived_files = set(site_df.url.unique())
-    missing_files = list(archived_files - downloaded_files)
-    print(f"{len(missing_files)} files need to be download")
-
-    # Quit if there's nothing there
-    if not len(missing_files):
-        return
+    # See how many files there are
+    archived_files = set(filtered_df.url.unique())
+    print(f"{len(archived_files)} qualified files")
 
     # Go get the files
-    for url in sorted(missing_files):
-        df = _get_json_url(url)
-        output_df = pd.concat([output_df, df])
-        time.sleep(1)
+    filtered_df["json"] = filtered_df.url.apply(_get_json_url)
 
-    print(f":pencil: Writing {len(output_df)} rows to {output_path}")
-    output_df.to_csv(output_path, index=False)
+    def _parse_hyperlinks(row):
+        flat_row_list = []
+        for d in row["json"].to_dict(orient="records"):
+            flat_row = dict(
+                identifier=row["identifier"],
+                handle=row["handle"],
+                file_name=row["file_name"],
+                date=row["date"],
+                text=d["text"],
+                url=d["url"],
+            )
+            flat_row_list.append(flat_row)
+        return flat_row_list
+
+    flat_row_list = []
+    for row in filtered_df.to_dict(orient="records"):
+        flat_row_list += _parse_hyperlinks(row)
+    flat_df = pd.DataFrame(flat_row_list)
+
+    # Write out the file
+    if output_path is None:
+        output_path_obj = utils.ANALYSIS_DIR / f"{slug}-hyperlinks.csv"
+    else:
+        output_path_obj = pathlib.Path(output_path)
+    print(f":pencil: Writing {len(flat_df)} rows to {output_path_obj}")
+    flat_df.to_csv(output_path_obj, index=False)
 
 
 @cli.command()
