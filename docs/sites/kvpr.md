@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 81 screenshots with the Internet Archive.
+The archiving routine has saved 83 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/kvpr-2022/kvpr-2022-08-18T16:52:55.115256-07:00.jpg">
+  <img src="https://archive.org/download/kvpr-2022/kvpr-2022-08-18T16:52:55.115256-07:00.jpg"
+     alt="Valley Public Radio at 2022-08-18 16:52:56-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kvpr-2022/kvpr-2022-08-18T16:52:55.115256-07:00.jpg">August 18 at 4:52 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kvpr-2022/kvpr-2022-08-18T04:59:50.256873-07:00.jpg">
+  <img src="https://archive.org/download/kvpr-2022/kvpr-2022-08-18T04:59:50.256873-07:00.jpg"
+     alt="Valley Public Radio at 2022-08-18 04:59:51-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kvpr-2022/kvpr-2022-08-18T04:59:50.256873-07:00.jpg">August 18 at 4:59 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/kvpr-2022/kvpr-2022-08-17T16:52:16.998635-07:00.jpg">
   <img src="https://archive.org/download/kvpr-2022/kvpr-2022-08-17T16:52:16.998635-07:00.jpg"
      alt="Valley Public Radio at 2022-08-17 16:52:22-07:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kvpr-2022/kvpr-2022-08-13T06:09:25.184884-07:00.jpg">August 13 at 6:09 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kvpr-2022/kvpr-2022-08-12T17:40:00.828503-07:00.jpg">
-  <img src="https://archive.org/download/kvpr-2022/kvpr-2022-08-12T17:40:00.828503-07:00.jpg"
-     alt="Valley Public Radio at 2022-08-12 17:40:02-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kvpr-2022/kvpr-2022-08-12T17:40:00.828503-07:00.jpg">August 12 at 5:40 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kvpr-2022/kvpr-2022-08-12T06:20:32.866018-07:00.jpg">
-  <img src="https://archive.org/download/kvpr-2022/kvpr-2022-08-12T06:20:32.866018-07:00.jpg"
-     alt="Valley Public Radio at 2022-08-12 06:20:34-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kvpr-2022/kvpr-2022-08-12T06:20:32.866018-07:00.jpg">August 12 at 6:20 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 81 hyperlink lists with the Internet Archive.
+The archiving routine has saved 83 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 18 at 4:53 PM](https://archive.org/download/kvpr-2022/kvpr-2022-08-18T16:52:55.115256-07:00.hyperlinks.json) |
+| [August 18 at 4:59 AM](https://archive.org/download/kvpr-2022/kvpr-2022-08-18T04:59:50.256873-07:00.hyperlinks.json) |
 | [August 17 at 4:52 PM](https://archive.org/download/kvpr-2022/kvpr-2022-08-17T16:52:16.998635-07:00.hyperlinks.json) |
 | [August 17 at 4:50 AM](https://archive.org/download/kvpr-2022/kvpr-2022-08-17T04:50:23.826565-07:00.hyperlinks.json) |
 | [August 16 at 5:06 PM](https://archive.org/download/kvpr-2022/kvpr-2022-08-16T17:06:02.193654-07:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 15 at 7:14 AM](https://archive.org/download/kvpr-2022/kvpr-2022-08-15T07:14:03.470481-07:00.hyperlinks.json) |
 | [August 14 at 6:17 PM](https://archive.org/download/kvpr-2022/kvpr-2022-08-14T18:17:38.204891-07:00.hyperlinks.json) |
 | [August 14 at 6:46 AM](https://archive.org/download/kvpr-2022/kvpr-2022-08-14T06:45:55.664887-07:00.hyperlinks.json) |
-| [August 13 at 8:12 PM](https://archive.org/download/kvpr-2022/kvpr-2022-08-13T20:12:49.840649-07:00.hyperlinks.json) |
-| [August 13 at 6:09 AM](https://archive.org/download/kvpr-2022/kvpr-2022-08-13T06:09:25.184884-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 81 accessibility trees with the Internet Archive.
+The archiving routine has saved 83 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 18 at 4:52 PM](https://archive.org/download/kvpr-2022/kvpr-2022-08-18T16:52:55.115256-07:00.accessibility.json) |
+| [August 18 at 4:59 AM](https://archive.org/download/kvpr-2022/kvpr-2022-08-18T04:59:50.256873-07:00.accessibility.json) |
 | [August 17 at 4:52 PM](https://archive.org/download/kvpr-2022/kvpr-2022-08-17T16:52:16.998635-07:00.accessibility.json) |
 | [August 17 at 4:50 AM](https://archive.org/download/kvpr-2022/kvpr-2022-08-17T04:50:23.826565-07:00.accessibility.json) |
 | [August 16 at 5:06 PM](https://archive.org/download/kvpr-2022/kvpr-2022-08-16T17:06:02.193654-07:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 15 at 7:14 AM](https://archive.org/download/kvpr-2022/kvpr-2022-08-15T07:14:03.470481-07:00.accessibility.json) |
 | [August 14 at 6:17 PM](https://archive.org/download/kvpr-2022/kvpr-2022-08-14T18:17:38.204891-07:00.accessibility.json) |
 | [August 14 at 6:45 AM](https://archive.org/download/kvpr-2022/kvpr-2022-08-14T06:45:55.664887-07:00.accessibility.json) |
-| [August 13 at 8:12 PM](https://archive.org/download/kvpr-2022/kvpr-2022-08-13T20:12:49.840649-07:00.accessibility.json) |
-| [August 13 at 6:09 AM](https://archive.org/download/kvpr-2022/kvpr-2022-08-13T06:09:25.184884-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 51 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 53 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 18 at 4:53 PM](https://archive.org/download/kvpr-2022/kvpr-2022-08-18T16:52:55.115256-07:00.lighthouse.json) |
+| [August 18 at 4:59 AM](https://archive.org/download/kvpr-2022/kvpr-2022-08-18T04:59:50.256873-07:00.lighthouse.json) |
 | [August 17 at 4:52 PM](https://archive.org/download/kvpr-2022/kvpr-2022-08-17T16:52:16.998635-07:00.lighthouse.json) |
 | [August 17 at 4:50 AM](https://archive.org/download/kvpr-2022/kvpr-2022-08-17T04:50:23.826565-07:00.lighthouse.json) |
 | [August 16 at 5:06 PM](https://archive.org/download/kvpr-2022/kvpr-2022-08-16T17:06:02.193654-07:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 15 at 7:14 AM](https://archive.org/download/kvpr-2022/kvpr-2022-08-15T07:14:03.470481-07:00.lighthouse.json) |
 | [August 14 at 6:17 PM](https://archive.org/download/kvpr-2022/kvpr-2022-08-14T18:17:38.204891-07:00.lighthouse.json) |
 | [August 14 at 6:46 AM](https://archive.org/download/kvpr-2022/kvpr-2022-08-14T06:45:55.664887-07:00.lighthouse.json) |
-| [August 13 at 8:13 PM](https://archive.org/download/kvpr-2022/kvpr-2022-08-13T20:12:49.840649-07:00.lighthouse.json) |
-| [August 13 at 6:09 AM](https://archive.org/download/kvpr-2022/kvpr-2022-08-13T06:09:25.184884-07:00.lighthouse.json) |
 
 
 

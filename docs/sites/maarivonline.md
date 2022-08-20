@@ -28,13 +28,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 9 screenshots with the Internet Archive.
+The archiving routine has saved 11 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-08-19T02:55:12.082759+03:00.jpg">
+  <img src="https://archive.org/download/maarivonline-2022/maarivonline-2022-08-19T02:55:12.082759+03:00.jpg"
+     alt="Maariv at 2022-08-19 02:55:13+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-08-19T02:55:12.082759+03:00.jpg">August 19 at 2:55 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-08-18T14:59:48.747497+03:00.jpg">
+  <img src="https://archive.org/download/maarivonline-2022/maarivonline-2022-08-18T14:59:48.747497+03:00.jpg"
+     alt="Maariv at 2022-08-18 14:59:52+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-08-18T14:59:48.747497+03:00.jpg">August 18 at 2:59 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/maarivonline-2022/maarivonline-2022-08-18T02:51:52.958280+03:00.jpg">
@@ -121,7 +139,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 8 hyperlink lists with the Internet Archive.
+The archiving routine has saved 10 hyperlink lists with the Internet Archive.
 
 
 
@@ -129,6 +147,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 19 at 2:55 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-19T02:55:12.082759+03:00.hyperlinks.json) |
+| [August 18 at 2:59 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-18T14:59:48.747497+03:00.hyperlinks.json) |
 | [August 18 at 2:51 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-18T02:51:52.958280+03:00.hyperlinks.json) |
 | [August 17 at 2:51 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-17T14:51:39.525855+03:00.hyperlinks.json) |
 | [August 17 at 3:07 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-17T03:07:03.712880+03:00.hyperlinks.json) |
@@ -160,7 +180,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 9 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
 
 
 
@@ -168,6 +188,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 19 at 2:55 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-19T02:55:12.082759+03:00.lighthouse.json) |
+| [August 18 at 2:59 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-18T14:59:48.747497+03:00.lighthouse.json) |
 | [August 18 at 2:51 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-18T02:51:52.958280+03:00.lighthouse.json) |
 | [August 17 at 2:51 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-17T14:51:39.525855+03:00.lighthouse.json) |
 | [August 17 at 3:07 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-17T03:07:03.712880+03:00.lighthouse.json) |
@@ -176,7 +198,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 15 at 5:16 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-15T17:16:34.213801+03:00.lighthouse.json) |
 | [August 15 at 4:20 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-15T04:20:17.936646+03:00.lighthouse.json) |
 | [August 14 at 4:49 PM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-14T16:48:57.763224+03:00.lighthouse.json) |
-| [August 14 at 6:14 AM](https://archive.org/download/maarivonline-2022/maarivonline-2022-08-14T06:14:36.088229+03:00.lighthouse.json) |
 
 
 

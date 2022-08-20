@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 381 screenshots with the Internet Archive.
+The archiving routine has saved 384 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/ft-2022/ft-2022-08-18T15:07:54.138985+01:00.jpg">
+  <img src="https://archive.org/download/ft-2022/ft-2022-08-18T15:07:54.138985+01:00.jpg"
+     alt="Financial Times at 2022-08-18 15:07:58+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ft-2022/ft-2022-08-18T15:07:54.138985+01:00.jpg">August 18 at 3:07 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ft-2022/ft-2022-08-18T10:11:42.868994+01:00.jpg">
+  <img src="https://archive.org/download/ft-2022/ft-2022-08-18T10:11:42.868994+01:00.jpg"
+     alt="Financial Times at 2022-08-18 10:11:55+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ft-2022/ft-2022-08-18T10:11:42.868994+01:00.jpg">August 18 at 10:11 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ft-2022/ft-2022-08-18T03:26:20.344469+01:00.jpg">
+  <img src="https://archive.org/download/ft-2022/ft-2022-08-18T03:26:20.344469+01:00.jpg"
+     alt="Financial Times at 2022-08-18 03:26:30+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ft-2022/ft-2022-08-18T03:26:20.344469+01:00.jpg">August 18 at 3:26 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/ft-2022/ft-2022-08-17T16:01:18.122731+01:00.jpg">
   <img src="https://archive.org/download/ft-2022/ft-2022-08-17T16:01:18.122731+01:00.jpg"
      alt="Financial Times at 2022-08-17 16:01:25+01:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ft-2022/ft-2022-08-14T18:18:24.787958+01:00.jpg">August 14 at 6:18 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ft-2022/ft-2022-08-14T10:11:52.105469+01:00.jpg">
-  <img src="https://archive.org/download/ft-2022/ft-2022-08-14T10:11:52.105469+01:00.jpg"
-     alt="Financial Times at 2022-08-14 10:11:54+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ft-2022/ft-2022-08-14T10:11:52.105469+01:00.jpg">August 14 at 10:11 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ft-2022/ft-2022-08-14T07:46:22.486007+01:00.jpg">
-  <img src="https://archive.org/download/ft-2022/ft-2022-08-14T07:46:22.486007+01:00.jpg"
-     alt="Financial Times at 2022-08-14 07:46:31+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ft-2022/ft-2022-08-14T07:46:22.486007+01:00.jpg">August 14 at 7:46 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ft-2022/ft-2022-08-13T21:22:14.256178+01:00.jpg">
-  <img src="https://archive.org/download/ft-2022/ft-2022-08-13T21:22:14.256178+01:00.jpg"
-     alt="Financial Times at 2022-08-13 21:22:22+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ft-2022/ft-2022-08-13T21:22:14.256178+01:00.jpg">August 13 at 9:22 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 367 hyperlink lists with the Internet Archive.
+The archiving routine has saved 370 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 18 at 3:08 PM](https://archive.org/download/ft-2022/ft-2022-08-18T15:07:54.138985+01:00.hyperlinks.json) |
+| [August 18 at 10:11 AM](https://archive.org/download/ft-2022/ft-2022-08-18T10:11:42.868994+01:00.hyperlinks.json) |
+| [August 18 at 3:26 AM](https://archive.org/download/ft-2022/ft-2022-08-18T03:26:20.344469+01:00.hyperlinks.json) |
 | [August 17 at 4:01 PM](https://archive.org/download/ft-2022/ft-2022-08-17T16:01:18.122731+01:00.hyperlinks.json) |
 | [August 17 at 3:27 AM](https://archive.org/download/ft-2022/ft-2022-08-17T03:27:16.669327+01:00.hyperlinks.json) |
 | [August 16 at 7:28 PM](https://archive.org/download/ft-2022/ft-2022-08-16T19:28:39.391457+01:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 16 at 7:33 AM](https://archive.org/download/ft-2022/ft-2022-08-16T07:33:06.677173+01:00.hyperlinks.json) |
 | [August 15 at 8:52 PM](https://archive.org/download/ft-2022/ft-2022-08-15T20:52:21.483626+01:00.hyperlinks.json) |
 | [August 15 at 10:13 AM](https://archive.org/download/ft-2022/ft-2022-08-15T10:13:25.554908+01:00.hyperlinks.json) |
-| [August 15 at 7:24 AM](https://archive.org/download/ft-2022/ft-2022-08-15T07:24:32.656150+01:00.hyperlinks.json) |
-| [August 14 at 6:18 PM](https://archive.org/download/ft-2022/ft-2022-08-14T18:18:24.787958+01:00.hyperlinks.json) |
-| [August 14 at 10:11 AM](https://archive.org/download/ft-2022/ft-2022-08-14T10:11:52.105469+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 368 accessibility trees with the Internet Archive.
+The archiving routine has saved 371 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 18 at 3:08 PM](https://archive.org/download/ft-2022/ft-2022-08-18T15:07:54.138985+01:00.accessibility.json) |
+| [August 18 at 10:11 AM](https://archive.org/download/ft-2022/ft-2022-08-18T10:11:42.868994+01:00.accessibility.json) |
+| [August 18 at 3:26 AM](https://archive.org/download/ft-2022/ft-2022-08-18T03:26:20.344469+01:00.accessibility.json) |
 | [August 17 at 4:01 PM](https://archive.org/download/ft-2022/ft-2022-08-17T16:01:18.122731+01:00.accessibility.json) |
 | [August 17 at 3:27 AM](https://archive.org/download/ft-2022/ft-2022-08-17T03:27:16.669327+01:00.accessibility.json) |
 | [August 16 at 7:28 PM](https://archive.org/download/ft-2022/ft-2022-08-16T19:28:39.391457+01:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 16 at 7:33 AM](https://archive.org/download/ft-2022/ft-2022-08-16T07:33:06.677173+01:00.accessibility.json) |
 | [August 15 at 8:52 PM](https://archive.org/download/ft-2022/ft-2022-08-15T20:52:21.483626+01:00.accessibility.json) |
 | [August 15 at 10:13 AM](https://archive.org/download/ft-2022/ft-2022-08-15T10:13:25.554908+01:00.accessibility.json) |
-| [August 15 at 7:24 AM](https://archive.org/download/ft-2022/ft-2022-08-15T07:24:32.656150+01:00.accessibility.json) |
-| [August 14 at 6:18 PM](https://archive.org/download/ft-2022/ft-2022-08-14T18:18:24.787958+01:00.accessibility.json) |
-| [August 14 at 10:11 AM](https://archive.org/download/ft-2022/ft-2022-08-14T10:11:52.105469+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 74 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 77 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 18 at 3:08 PM](https://archive.org/download/ft-2022/ft-2022-08-18T15:07:54.138985+01:00.lighthouse.json) |
+| [August 18 at 10:12 AM](https://archive.org/download/ft-2022/ft-2022-08-18T10:11:42.868994+01:00.lighthouse.json) |
+| [August 18 at 3:26 AM](https://archive.org/download/ft-2022/ft-2022-08-18T03:26:20.344469+01:00.lighthouse.json) |
 | [August 17 at 4:01 PM](https://archive.org/download/ft-2022/ft-2022-08-17T16:01:18.122731+01:00.lighthouse.json) |
 | [August 17 at 3:27 AM](https://archive.org/download/ft-2022/ft-2022-08-17T03:27:16.669327+01:00.lighthouse.json) |
 | [August 16 at 7:28 PM](https://archive.org/download/ft-2022/ft-2022-08-16T19:28:39.391457+01:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 16 at 7:33 AM](https://archive.org/download/ft-2022/ft-2022-08-16T07:33:06.677173+01:00.lighthouse.json) |
 | [August 15 at 8:52 PM](https://archive.org/download/ft-2022/ft-2022-08-15T20:52:21.483626+01:00.lighthouse.json) |
 | [August 15 at 10:13 AM](https://archive.org/download/ft-2022/ft-2022-08-15T10:13:25.554908+01:00.lighthouse.json) |
-| [August 15 at 7:24 AM](https://archive.org/download/ft-2022/ft-2022-08-15T07:24:32.656150+01:00.lighthouse.json) |
-| [August 14 at 6:18 PM](https://archive.org/download/ft-2022/ft-2022-08-14T18:18:24.787958+01:00.lighthouse.json) |
-| [August 14 at 10:12 AM](https://archive.org/download/ft-2022/ft-2022-08-14T10:11:52.105469+01:00.lighthouse.json) |
 
 
 

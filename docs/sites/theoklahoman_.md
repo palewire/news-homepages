@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 126 screenshots with the Internet Archive.
+The archiving routine has saved 128 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-08-18T08:02:11.022027-05:00.jpg">
+  <img src="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-08-18T08:02:11.022027-05:00.jpg"
+     alt="Oklahoman at 2022-08-18 08:02:13-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-08-18T08:02:11.022027-05:00.jpg">August 18 at 8:02 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-08-17T20:16:02.861052-05:00.jpg">
+  <img src="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-08-17T20:16:02.861052-05:00.jpg"
+     alt="Oklahoman at 2022-08-17 20:16:04-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-08-17T20:16:02.861052-05:00.jpg">August 17 at 8:16 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-08-17T08:09:55.397846-05:00.jpg">
   <img src="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-08-17T08:09:55.397846-05:00.jpg"
      alt="Oklahoman at 2022-08-17 08:10:04-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-08-12T21:17:12.645798-05:00.jpg">August 12 at 9:17 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-08-12T11:24:38.933841-05:00.jpg">
-  <img src="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-08-12T11:24:38.933841-05:00.jpg"
-     alt="Oklahoman at 2022-08-12 11:24:43-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-08-12T11:24:38.933841-05:00.jpg">August 12 at 11:24 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-08-12T04:35:18.671368-05:00.jpg">
-  <img src="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-08-12T04:35:18.671368-05:00.jpg"
-     alt="Oklahoman at 2022-08-12 04:35:21-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-08-12T04:35:18.671368-05:00.jpg">August 12 at 4:35 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 123 hyperlink lists with the Internet Archive.
+The archiving routine has saved 125 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 18 at 8:02 AM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-08-18T08:02:11.022027-05:00.hyperlinks.json) |
+| [August 17 at 8:16 PM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-08-17T20:16:02.861052-05:00.hyperlinks.json) |
 | [August 17 at 8:10 AM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-08-17T08:09:55.397846-05:00.hyperlinks.json) |
 | [August 16 at 8:22 PM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-08-16T20:22:41.261065-05:00.hyperlinks.json) |
 | [August 16 at 12:23 PM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-08-16T12:23:45.121171-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 14 at 10:14 PM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-08-14T22:14:41.469862-05:00.hyperlinks.json) |
 | [August 14 at 12:05 PM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-08-14T12:05:00.685500-05:00.hyperlinks.json) |
 | [August 14 at 12:07 AM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-08-14T00:07:42.685513-05:00.hyperlinks.json) |
-| [August 13 at 3:45 PM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-08-13T15:45:14.228957-05:00.hyperlinks.json) |
-| [August 12 at 9:17 PM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-08-12T21:17:12.645798-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 126 accessibility trees with the Internet Archive.
+The archiving routine has saved 128 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 18 at 8:02 AM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-08-18T08:02:11.022027-05:00.accessibility.json) |
+| [August 17 at 8:16 PM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-08-17T20:16:02.861052-05:00.accessibility.json) |
 | [August 17 at 8:10 AM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-08-17T08:09:55.397846-05:00.accessibility.json) |
 | [August 16 at 8:22 PM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-08-16T20:22:41.261065-05:00.accessibility.json) |
 | [August 16 at 12:23 PM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-08-16T12:23:45.121171-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 14 at 10:14 PM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-08-14T22:14:41.469862-05:00.accessibility.json) |
 | [August 14 at 12:05 PM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-08-14T12:05:00.685500-05:00.accessibility.json) |
 | [August 14 at 12:07 AM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-08-14T00:07:42.685513-05:00.accessibility.json) |
-| [August 13 at 3:45 PM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-08-13T15:45:14.228957-05:00.accessibility.json) |
-| [August 12 at 9:17 PM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-08-12T21:17:12.645798-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 53 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 55 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 18 at 8:02 AM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-08-18T08:02:11.022027-05:00.lighthouse.json) |
+| [August 17 at 8:16 PM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-08-17T20:16:02.861052-05:00.lighthouse.json) |
 | [August 17 at 8:10 AM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-08-17T08:09:55.397846-05:00.lighthouse.json) |
 | [August 16 at 8:22 PM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-08-16T20:22:41.261065-05:00.lighthouse.json) |
 | [August 16 at 12:23 PM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-08-16T12:23:45.121171-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 14 at 10:14 PM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-08-14T22:14:41.469862-05:00.lighthouse.json) |
 | [August 14 at 12:05 PM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-08-14T12:05:00.685500-05:00.lighthouse.json) |
 | [August 14 at 12:08 AM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-08-14T00:07:42.685513-05:00.lighthouse.json) |
-| [August 13 at 3:45 PM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-08-13T15:45:14.228957-05:00.lighthouse.json) |
-| [August 12 at 9:17 PM](https://archive.org/download/theoklahoman_-2022/theoklahoman_-2022-08-12T21:17:12.645798-05:00.lighthouse.json) |
 
 
 

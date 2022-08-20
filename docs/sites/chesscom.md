@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 60 screenshots with the Internet Archive.
+The archiving routine has saved 62 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/chesscom-2022/chesscom-2022-08-18T06:00:23.614481-07:00.jpg">
+  <img src="https://archive.org/download/chesscom-2022/chesscom-2022-08-18T06:00:23.614481-07:00.jpg"
+     alt="Chess.com at 2022-08-18 06:00:25-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chesscom-2022/chesscom-2022-08-18T06:00:23.614481-07:00.jpg">August 18 at 6:00 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/chesscom-2022/chesscom-2022-08-17T18:13:44.270081-07:00.jpg">
+  <img src="https://archive.org/download/chesscom-2022/chesscom-2022-08-17T18:13:44.270081-07:00.jpg"
+     alt="Chess.com at 2022-08-17 18:13:45-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chesscom-2022/chesscom-2022-08-17T18:13:44.270081-07:00.jpg">August 17 at 6:13 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/chesscom-2022/chesscom-2022-08-17T06:07:18.556597-07:00.jpg">
   <img src="https://archive.org/download/chesscom-2022/chesscom-2022-08-17T06:07:18.556597-07:00.jpg"
      alt="Chess.com at 2022-08-17 06:07:22-07:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/chesscom-2022/chesscom-2022-08-12T19:13:22.469535-07:00.jpg">August 12 at 7:13 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/chesscom-2022/chesscom-2022-08-12T09:20:33.524195-07:00.jpg">
-  <img src="https://archive.org/download/chesscom-2022/chesscom-2022-08-12T09:20:33.524195-07:00.jpg"
-     alt="Chess.com at 2022-08-12 09:20:35-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/chesscom-2022/chesscom-2022-08-12T09:20:33.524195-07:00.jpg">August 12 at 9:20 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/chesscom-2022/chesscom-2022-08-12T02:31:26.668202-07:00.jpg">
-  <img src="https://archive.org/download/chesscom-2022/chesscom-2022-08-12T02:31:26.668202-07:00.jpg"
-     alt="Chess.com at 2022-08-12 02:31:33-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/chesscom-2022/chesscom-2022-08-12T02:31:26.668202-07:00.jpg">August 12 at 2:31 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 61 hyperlink lists with the Internet Archive.
+The archiving routine has saved 63 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 18 at 6:00 AM](https://archive.org/download/chesscom-2022/chesscom-2022-08-18T06:00:23.614481-07:00.hyperlinks.json) |
+| [August 17 at 6:13 PM](https://archive.org/download/chesscom-2022/chesscom-2022-08-17T18:13:44.270081-07:00.hyperlinks.json) |
 | [August 17 at 6:07 AM](https://archive.org/download/chesscom-2022/chesscom-2022-08-17T06:07:18.556597-07:00.hyperlinks.json) |
 | [August 16 at 6:21 PM](https://archive.org/download/chesscom-2022/chesscom-2022-08-16T18:21:03.920667-07:00.hyperlinks.json) |
 | [August 16 at 10:18 AM](https://archive.org/download/chesscom-2022/chesscom-2022-08-16T10:18:24.740658-07:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 14 at 8:09 PM](https://archive.org/download/chesscom-2022/chesscom-2022-08-14T20:09:34.197606-07:00.hyperlinks.json) |
 | [August 14 at 10:00 AM](https://archive.org/download/chesscom-2022/chesscom-2022-08-14T10:00:28.041914-07:00.hyperlinks.json) |
 | [August 13 at 10:02 PM](https://archive.org/download/chesscom-2022/chesscom-2022-08-13T22:02:45.483512-07:00.hyperlinks.json) |
-| [August 13 at 1:40 PM](https://archive.org/download/chesscom-2022/chesscom-2022-08-13T13:40:36.446095-07:00.hyperlinks.json) |
-| [August 12 at 7:13 PM](https://archive.org/download/chesscom-2022/chesscom-2022-08-12T19:13:22.469535-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 61 accessibility trees with the Internet Archive.
+The archiving routine has saved 63 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 18 at 6:00 AM](https://archive.org/download/chesscom-2022/chesscom-2022-08-18T06:00:23.614481-07:00.accessibility.json) |
+| [August 17 at 6:13 PM](https://archive.org/download/chesscom-2022/chesscom-2022-08-17T18:13:44.270081-07:00.accessibility.json) |
 | [August 17 at 6:07 AM](https://archive.org/download/chesscom-2022/chesscom-2022-08-17T06:07:18.556597-07:00.accessibility.json) |
 | [August 16 at 6:21 PM](https://archive.org/download/chesscom-2022/chesscom-2022-08-16T18:21:03.920667-07:00.accessibility.json) |
 | [August 16 at 10:18 AM](https://archive.org/download/chesscom-2022/chesscom-2022-08-16T10:18:24.740658-07:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 14 at 8:09 PM](https://archive.org/download/chesscom-2022/chesscom-2022-08-14T20:09:34.197606-07:00.accessibility.json) |
 | [August 14 at 10:00 AM](https://archive.org/download/chesscom-2022/chesscom-2022-08-14T10:00:28.041914-07:00.accessibility.json) |
 | [August 13 at 10:02 PM](https://archive.org/download/chesscom-2022/chesscom-2022-08-13T22:02:45.483512-07:00.accessibility.json) |
-| [August 13 at 1:40 PM](https://archive.org/download/chesscom-2022/chesscom-2022-08-13T13:40:36.446095-07:00.accessibility.json) |
-| [August 12 at 7:13 PM](https://archive.org/download/chesscom-2022/chesscom-2022-08-12T19:13:22.469535-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 53 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 55 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 18 at 6:00 AM](https://archive.org/download/chesscom-2022/chesscom-2022-08-18T06:00:23.614481-07:00.lighthouse.json) |
+| [August 17 at 6:13 PM](https://archive.org/download/chesscom-2022/chesscom-2022-08-17T18:13:44.270081-07:00.lighthouse.json) |
 | [August 17 at 6:07 AM](https://archive.org/download/chesscom-2022/chesscom-2022-08-17T06:07:18.556597-07:00.lighthouse.json) |
 | [August 16 at 6:21 PM](https://archive.org/download/chesscom-2022/chesscom-2022-08-16T18:21:03.920667-07:00.lighthouse.json) |
 | [August 16 at 10:18 AM](https://archive.org/download/chesscom-2022/chesscom-2022-08-16T10:18:24.740658-07:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 14 at 8:09 PM](https://archive.org/download/chesscom-2022/chesscom-2022-08-14T20:09:34.197606-07:00.lighthouse.json) |
 | [August 14 at 10:00 AM](https://archive.org/download/chesscom-2022/chesscom-2022-08-14T10:00:28.041914-07:00.lighthouse.json) |
 | [August 13 at 10:02 PM](https://archive.org/download/chesscom-2022/chesscom-2022-08-13T22:02:45.483512-07:00.lighthouse.json) |
-| [August 13 at 1:40 PM](https://archive.org/download/chesscom-2022/chesscom-2022-08-13T13:40:36.446095-07:00.lighthouse.json) |
-| [August 12 at 7:13 PM](https://archive.org/download/chesscom-2022/chesscom-2022-08-12T19:13:22.469535-07:00.lighthouse.json) |
 
 
 

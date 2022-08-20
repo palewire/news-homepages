@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 38 screenshots with the Internet Archive.
+The archiving routine has saved 40 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/elmundoes-2022/elmundoes-2022-08-18T16:06:01.254787+02:00.jpg">
+  <img src="https://archive.org/download/elmundoes-2022/elmundoes-2022-08-18T16:06:01.254787+02:00.jpg"
+     alt="El Mundo at 2022-08-18 16:06:04+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/elmundoes-2022/elmundoes-2022-08-18T16:06:01.254787+02:00.jpg">August 18 at 4:06 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/elmundoes-2022/elmundoes-2022-08-18T04:26:03.460826+02:00.jpg">
+  <img src="https://archive.org/download/elmundoes-2022/elmundoes-2022-08-18T04:26:03.460826+02:00.jpg"
+     alt="El Mundo at 2022-08-18 04:26:05+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/elmundoes-2022/elmundoes-2022-08-18T04:26:03.460826+02:00.jpg">August 18 at 4:26 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/elmundoes-2022/elmundoes-2022-08-17T17:01:17.124320+02:00.jpg">
   <img src="https://archive.org/download/elmundoes-2022/elmundoes-2022-08-17T17:01:17.124320+02:00.jpg"
      alt="El Mundo at 2022-08-17 17:01:20+02:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/elmundoes-2022/elmundoes-2022-08-13T05:38:28.579931+02:00.jpg">August 13 at 5:38 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/elmundoes-2022/elmundoes-2022-08-12T11:55:58.611874+02:00.jpg">
-  <img src="https://archive.org/download/elmundoes-2022/elmundoes-2022-08-12T11:55:58.611874+02:00.jpg"
-     alt="El Mundo at 2022-08-12 11:56:00+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/elmundoes-2022/elmundoes-2022-08-12T11:55:58.611874+02:00.jpg">August 12 at 11:56 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/elmundoes-2022/elmundoes-2022-08-11T20:37:18.934447+02:00.jpg">
-  <img src="https://archive.org/download/elmundoes-2022/elmundoes-2022-08-11T20:37:18.934447+02:00.jpg"
-     alt="El Mundo at 2022-08-11 20:37:20+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/elmundoes-2022/elmundoes-2022-08-11T20:37:18.934447+02:00.jpg">August 11 at 8:37 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 36 hyperlink lists with the Internet Archive.
+The archiving routine has saved 38 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 18 at 4:06 PM](https://archive.org/download/elmundoes-2022/elmundoes-2022-08-18T16:06:01.254787+02:00.hyperlinks.json) |
+| [August 18 at 4:26 AM](https://archive.org/download/elmundoes-2022/elmundoes-2022-08-18T04:26:03.460826+02:00.hyperlinks.json) |
 | [August 17 at 5:01 PM](https://archive.org/download/elmundoes-2022/elmundoes-2022-08-17T17:01:17.124320+02:00.hyperlinks.json) |
 | [August 17 at 4:25 AM](https://archive.org/download/elmundoes-2022/elmundoes-2022-08-17T04:25:30.675429+02:00.hyperlinks.json) |
 | [August 16 at 8:27 PM](https://archive.org/download/elmundoes-2022/elmundoes-2022-08-16T20:27:16.823075+02:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 15 at 8:22 AM](https://archive.org/download/elmundoes-2022/elmundoes-2022-08-15T08:22:28.610886+02:00.hyperlinks.json) |
 | [August 14 at 7:16 PM](https://archive.org/download/elmundoes-2022/elmundoes-2022-08-14T19:16:40.235110+02:00.hyperlinks.json) |
 | [August 14 at 8:43 AM](https://archive.org/download/elmundoes-2022/elmundoes-2022-08-14T08:43:32.397989+02:00.hyperlinks.json) |
-| [August 13 at 10:19 PM](https://archive.org/download/elmundoes-2022/elmundoes-2022-08-13T22:19:44.475401+02:00.hyperlinks.json) |
-| [August 13 at 5:38 AM](https://archive.org/download/elmundoes-2022/elmundoes-2022-08-13T05:38:28.579931+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 37 accessibility trees with the Internet Archive.
+The archiving routine has saved 39 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 18 at 4:06 PM](https://archive.org/download/elmundoes-2022/elmundoes-2022-08-18T16:06:01.254787+02:00.accessibility.json) |
+| [August 18 at 4:26 AM](https://archive.org/download/elmundoes-2022/elmundoes-2022-08-18T04:26:03.460826+02:00.accessibility.json) |
 | [August 17 at 5:01 PM](https://archive.org/download/elmundoes-2022/elmundoes-2022-08-17T17:01:17.124320+02:00.accessibility.json) |
 | [August 17 at 4:25 AM](https://archive.org/download/elmundoes-2022/elmundoes-2022-08-17T04:25:30.675429+02:00.accessibility.json) |
 | [August 16 at 8:27 PM](https://archive.org/download/elmundoes-2022/elmundoes-2022-08-16T20:27:16.823075+02:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 15 at 8:22 AM](https://archive.org/download/elmundoes-2022/elmundoes-2022-08-15T08:22:28.610886+02:00.accessibility.json) |
 | [August 14 at 7:16 PM](https://archive.org/download/elmundoes-2022/elmundoes-2022-08-14T19:16:40.235110+02:00.accessibility.json) |
 | [August 14 at 8:43 AM](https://archive.org/download/elmundoes-2022/elmundoes-2022-08-14T08:43:32.397989+02:00.accessibility.json) |
-| [August 13 at 10:19 PM](https://archive.org/download/elmundoes-2022/elmundoes-2022-08-13T22:19:44.475401+02:00.accessibility.json) |
-| [August 13 at 5:38 AM](https://archive.org/download/elmundoes-2022/elmundoes-2022-08-13T05:38:28.579931+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 41 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 43 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 18 at 4:06 PM](https://archive.org/download/elmundoes-2022/elmundoes-2022-08-18T16:06:01.254787+02:00.lighthouse.json) |
+| [August 18 at 4:26 AM](https://archive.org/download/elmundoes-2022/elmundoes-2022-08-18T04:26:03.460826+02:00.lighthouse.json) |
 | [August 17 at 5:01 PM](https://archive.org/download/elmundoes-2022/elmundoes-2022-08-17T17:01:17.124320+02:00.lighthouse.json) |
 | [August 17 at 4:25 AM](https://archive.org/download/elmundoes-2022/elmundoes-2022-08-17T04:25:30.675429+02:00.lighthouse.json) |
 | [August 16 at 8:27 PM](https://archive.org/download/elmundoes-2022/elmundoes-2022-08-16T20:27:16.823075+02:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 15 at 8:22 AM](https://archive.org/download/elmundoes-2022/elmundoes-2022-08-15T08:22:28.610886+02:00.lighthouse.json) |
 | [August 14 at 7:16 PM](https://archive.org/download/elmundoes-2022/elmundoes-2022-08-14T19:16:40.235110+02:00.lighthouse.json) |
 | [August 14 at 8:43 AM](https://archive.org/download/elmundoes-2022/elmundoes-2022-08-14T08:43:32.397989+02:00.lighthouse.json) |
-| [August 13 at 10:19 PM](https://archive.org/download/elmundoes-2022/elmundoes-2022-08-13T22:19:44.475401+02:00.lighthouse.json) |
-| [August 13 at 5:38 AM](https://archive.org/download/elmundoes-2022/elmundoes-2022-08-13T05:38:28.579931+02:00.lighthouse.json) |
 
 
 

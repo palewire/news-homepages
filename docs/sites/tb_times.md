@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 45 screenshots with the Internet Archive.
+The archiving routine has saved 47 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-18T11:28:45.155161-04:00.jpg">
+  <img src="https://archive.org/download/tb_times-2022/tb_times-2022-08-18T11:28:45.155161-04:00.jpg"
+     alt="Tampa Bay Times at 2022-08-18 11:28:47-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-18T11:28:45.155161-04:00.jpg">August 18 at 11:28 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-17T23:46:19.112427-04:00.jpg">
+  <img src="https://archive.org/download/tb_times-2022/tb_times-2022-08-17T23:46:19.112427-04:00.jpg"
+     alt="Tampa Bay Times at 2022-08-17 23:46:20-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-17T23:46:19.112427-04:00.jpg">August 17 at 11:46 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-17T11:11:40.406239-04:00.jpg">
   <img src="https://archive.org/download/tb_times-2022/tb_times-2022-08-17T11:11:40.406239-04:00.jpg"
      alt="Tampa Bay Times at 2022-08-17 11:11:44-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-13T01:13:09.131226-04:00.jpg">August 13 at 1:13 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-12T14:26:00.430866-04:00.jpg">
-  <img src="https://archive.org/download/tb_times-2022/tb_times-2022-08-12T14:26:00.430866-04:00.jpg"
-     alt="Tampa Bay Times at 2022-08-12 14:26:03-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-12T14:26:00.430866-04:00.jpg">August 12 at 2:26 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-12T05:47:00.548959-04:00.jpg">
-  <img src="https://archive.org/download/tb_times-2022/tb_times-2022-08-12T05:47:00.548959-04:00.jpg"
-     alt="Tampa Bay Times at 2022-08-12 05:47:02-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-08-12T05:47:00.548959-04:00.jpg">August 12 at 5:47 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 45 hyperlink lists with the Internet Archive.
+The archiving routine has saved 47 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 18 at 11:28 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-18T11:28:45.155161-04:00.hyperlinks.json) |
+| [August 17 at 11:46 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-17T23:46:19.112427-04:00.hyperlinks.json) |
 | [August 17 at 11:11 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-17T11:11:40.406239-04:00.hyperlinks.json) |
 | [August 16 at 11:45 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-16T23:45:07.610814-04:00.hyperlinks.json) |
 | [August 16 at 2:47 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-16T14:47:17.556915-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 15 at 2:46 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-15T02:46:48.069941-04:00.hyperlinks.json) |
 | [August 14 at 3:03 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-14T15:03:21.376658-04:00.hyperlinks.json) |
 | [August 14 at 3:07 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-14T03:07:20.046363-04:00.hyperlinks.json) |
-| [August 13 at 5:02 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-13T17:02:05.580853-04:00.hyperlinks.json) |
-| [August 13 at 1:13 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-13T01:13:09.131226-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 46 accessibility trees with the Internet Archive.
+The archiving routine has saved 48 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 18 at 11:28 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-18T11:28:45.155161-04:00.accessibility.json) |
+| [August 17 at 11:46 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-17T23:46:19.112427-04:00.accessibility.json) |
 | [August 17 at 11:11 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-17T11:11:40.406239-04:00.accessibility.json) |
 | [August 16 at 11:45 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-16T23:45:07.610814-04:00.accessibility.json) |
 | [August 16 at 2:47 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-16T14:47:17.556915-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 15 at 2:46 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-15T02:46:48.069941-04:00.accessibility.json) |
 | [August 14 at 3:03 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-14T15:03:21.376658-04:00.accessibility.json) |
 | [August 14 at 3:07 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-14T03:07:20.046363-04:00.accessibility.json) |
-| [August 13 at 5:02 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-13T17:02:05.580853-04:00.accessibility.json) |
-| [August 13 at 1:13 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-13T01:13:09.131226-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 46 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 48 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 18 at 11:28 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-18T11:28:45.155161-04:00.lighthouse.json) |
+| [August 17 at 11:46 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-17T23:46:19.112427-04:00.lighthouse.json) |
 | [August 17 at 11:11 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-17T11:11:40.406239-04:00.lighthouse.json) |
 | [August 16 at 11:45 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-16T23:45:07.610814-04:00.lighthouse.json) |
 | [August 16 at 2:47 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-16T14:47:17.556915-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 15 at 2:46 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-15T02:46:48.069941-04:00.lighthouse.json) |
 | [August 14 at 3:03 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-14T15:03:21.376658-04:00.lighthouse.json) |
 | [August 14 at 3:07 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-14T03:07:20.046363-04:00.lighthouse.json) |
-| [August 13 at 5:02 PM](https://archive.org/download/tb_times-2022/tb_times-2022-08-13T17:02:05.580853-04:00.lighthouse.json) |
-| [August 13 at 1:13 AM](https://archive.org/download/tb_times-2022/tb_times-2022-08-13T01:13:09.131226-04:00.lighthouse.json) |
 
 
 

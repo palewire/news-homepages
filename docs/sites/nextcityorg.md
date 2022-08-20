@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 85 screenshots with the Internet Archive.
+The archiving routine has saved 87 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/nextcityorg-2022/nextcityorg-2022-08-18T10:13:08.257461-04:00.jpg">
+  <img src="https://archive.org/download/nextcityorg-2022/nextcityorg-2022-08-18T10:13:08.257461-04:00.jpg"
+     alt="Next City at 2022-08-18 10:13:10-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nextcityorg-2022/nextcityorg-2022-08-18T10:13:08.257461-04:00.jpg">August 18 at 10:13 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nextcityorg-2022/nextcityorg-2022-08-17T22:32:30.097727-04:00.jpg">
+  <img src="https://archive.org/download/nextcityorg-2022/nextcityorg-2022-08-17T22:32:30.097727-04:00.jpg"
+     alt="Next City at 2022-08-17 22:32:34-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nextcityorg-2022/nextcityorg-2022-08-17T22:32:30.097727-04:00.jpg">August 17 at 10:32 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/nextcityorg-2022/nextcityorg-2022-08-17T11:08:02.511847-04:00.jpg">
   <img src="https://archive.org/download/nextcityorg-2022/nextcityorg-2022-08-17T11:08:02.511847-04:00.jpg"
      alt="Next City at 2022-08-17 11:08:05-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nextcityorg-2022/nextcityorg-2022-08-12T23:50:37.271497-04:00.jpg">August 12 at 11:50 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nextcityorg-2022/nextcityorg-2022-08-12T13:57:19.933607-04:00.jpg">
-  <img src="https://archive.org/download/nextcityorg-2022/nextcityorg-2022-08-12T13:57:19.933607-04:00.jpg"
-     alt="Next City at 2022-08-12 13:57:22-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nextcityorg-2022/nextcityorg-2022-08-12T13:57:19.933607-04:00.jpg">August 12 at 1:57 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nextcityorg-2022/nextcityorg-2022-08-12T06:07:02.607354-04:00.jpg">
-  <img src="https://archive.org/download/nextcityorg-2022/nextcityorg-2022-08-12T06:07:02.607354-04:00.jpg"
-     alt="Next City at 2022-08-12 06:07:10-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nextcityorg-2022/nextcityorg-2022-08-12T06:07:02.607354-04:00.jpg">August 12 at 6:07 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 85 hyperlink lists with the Internet Archive.
+The archiving routine has saved 87 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 18 at 10:13 AM](https://archive.org/download/nextcityorg-2022/nextcityorg-2022-08-18T10:13:08.257461-04:00.hyperlinks.json) |
+| [August 17 at 10:32 PM](https://archive.org/download/nextcityorg-2022/nextcityorg-2022-08-17T22:32:30.097727-04:00.hyperlinks.json) |
 | [August 17 at 11:08 AM](https://archive.org/download/nextcityorg-2022/nextcityorg-2022-08-17T11:08:02.511847-04:00.hyperlinks.json) |
 | [August 16 at 10:32 PM](https://archive.org/download/nextcityorg-2022/nextcityorg-2022-08-16T22:32:36.860028-04:00.hyperlinks.json) |
 | [August 16 at 2:39 PM](https://archive.org/download/nextcityorg-2022/nextcityorg-2022-08-16T14:39:31.688564-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 15 at 2:35 AM](https://archive.org/download/nextcityorg-2022/nextcityorg-2022-08-15T02:34:57.888438-04:00.hyperlinks.json) |
 | [August 14 at 1:28 PM](https://archive.org/download/nextcityorg-2022/nextcityorg-2022-08-14T13:28:23.400433-04:00.hyperlinks.json) |
 | [August 14 at 2:57 AM](https://archive.org/download/nextcityorg-2022/nextcityorg-2022-08-14T02:56:54.171043-04:00.hyperlinks.json) |
-| [August 13 at 4:33 PM](https://archive.org/download/nextcityorg-2022/nextcityorg-2022-08-13T16:33:28.326674-04:00.hyperlinks.json) |
-| [August 12 at 11:50 PM](https://archive.org/download/nextcityorg-2022/nextcityorg-2022-08-12T23:50:37.271497-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 85 accessibility trees with the Internet Archive.
+The archiving routine has saved 87 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 18 at 10:13 AM](https://archive.org/download/nextcityorg-2022/nextcityorg-2022-08-18T10:13:08.257461-04:00.accessibility.json) |
+| [August 17 at 10:32 PM](https://archive.org/download/nextcityorg-2022/nextcityorg-2022-08-17T22:32:30.097727-04:00.accessibility.json) |
 | [August 17 at 11:08 AM](https://archive.org/download/nextcityorg-2022/nextcityorg-2022-08-17T11:08:02.511847-04:00.accessibility.json) |
 | [August 16 at 10:32 PM](https://archive.org/download/nextcityorg-2022/nextcityorg-2022-08-16T22:32:36.860028-04:00.accessibility.json) |
 | [August 16 at 2:39 PM](https://archive.org/download/nextcityorg-2022/nextcityorg-2022-08-16T14:39:31.688564-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 15 at 2:35 AM](https://archive.org/download/nextcityorg-2022/nextcityorg-2022-08-15T02:34:57.888438-04:00.accessibility.json) |
 | [August 14 at 1:28 PM](https://archive.org/download/nextcityorg-2022/nextcityorg-2022-08-14T13:28:23.400433-04:00.accessibility.json) |
 | [August 14 at 2:56 AM](https://archive.org/download/nextcityorg-2022/nextcityorg-2022-08-14T02:56:54.171043-04:00.accessibility.json) |
-| [August 13 at 4:33 PM](https://archive.org/download/nextcityorg-2022/nextcityorg-2022-08-13T16:33:28.326674-04:00.accessibility.json) |
-| [August 12 at 11:50 PM](https://archive.org/download/nextcityorg-2022/nextcityorg-2022-08-12T23:50:37.271497-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 50 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 52 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 18 at 10:13 AM](https://archive.org/download/nextcityorg-2022/nextcityorg-2022-08-18T10:13:08.257461-04:00.lighthouse.json) |
+| [August 17 at 10:32 PM](https://archive.org/download/nextcityorg-2022/nextcityorg-2022-08-17T22:32:30.097727-04:00.lighthouse.json) |
 | [August 17 at 11:08 AM](https://archive.org/download/nextcityorg-2022/nextcityorg-2022-08-17T11:08:02.511847-04:00.lighthouse.json) |
 | [August 16 at 10:32 PM](https://archive.org/download/nextcityorg-2022/nextcityorg-2022-08-16T22:32:36.860028-04:00.lighthouse.json) |
 | [August 16 at 2:39 PM](https://archive.org/download/nextcityorg-2022/nextcityorg-2022-08-16T14:39:31.688564-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 15 at 2:35 AM](https://archive.org/download/nextcityorg-2022/nextcityorg-2022-08-15T02:34:57.888438-04:00.lighthouse.json) |
 | [August 14 at 1:28 PM](https://archive.org/download/nextcityorg-2022/nextcityorg-2022-08-14T13:28:23.400433-04:00.lighthouse.json) |
 | [August 14 at 2:57 AM](https://archive.org/download/nextcityorg-2022/nextcityorg-2022-08-14T02:56:54.171043-04:00.lighthouse.json) |
-| [August 13 at 4:33 PM](https://archive.org/download/nextcityorg-2022/nextcityorg-2022-08-13T16:33:28.326674-04:00.lighthouse.json) |
-| [August 12 at 11:50 PM](https://archive.org/download/nextcityorg-2022/nextcityorg-2022-08-12T23:50:37.271497-04:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 47 screenshots with the Internet Archive.
+The archiving routine has saved 49 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/newsday-2022/newsday-2022-08-18T19:56:20.752057-04:00.jpg">
+  <img src="https://archive.org/download/newsday-2022/newsday-2022-08-18T19:56:20.752057-04:00.jpg"
+     alt="Newsday at 2022-08-18 19:56:27-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newsday-2022/newsday-2022-08-18T19:56:20.752057-04:00.jpg">August 18 at 7:56 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newsday-2022/newsday-2022-08-18T08:01:25.187899-04:00.jpg">
+  <img src="https://archive.org/download/newsday-2022/newsday-2022-08-18T08:01:25.187899-04:00.jpg"
+     alt="Newsday at 2022-08-18 08:01:28-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newsday-2022/newsday-2022-08-18T08:01:25.187899-04:00.jpg">August 18 at 8:01 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/newsday-2022/newsday-2022-08-17T19:54:24.436768-04:00.jpg">
   <img src="https://archive.org/download/newsday-2022/newsday-2022-08-17T19:54:24.436768-04:00.jpg"
      alt="Newsday at 2022-08-17 19:54:26-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/newsday-2022/newsday-2022-08-13T09:14:29.878577-04:00.jpg">August 13 at 9:14 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/newsday-2022/newsday-2022-08-12T20:45:39.773326-04:00.jpg">
-  <img src="https://archive.org/download/newsday-2022/newsday-2022-08-12T20:45:39.773326-04:00.jpg"
-     alt="Newsday at 2022-08-12 20:45:42-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newsday-2022/newsday-2022-08-12T20:45:39.773326-04:00.jpg">August 12 at 8:45 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/newsday-2022/newsday-2022-08-12T09:25:35.523277-04:00.jpg">
-  <img src="https://archive.org/download/newsday-2022/newsday-2022-08-12T09:25:35.523277-04:00.jpg"
-     alt="Newsday at 2022-08-12 09:25:41-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newsday-2022/newsday-2022-08-12T09:25:35.523277-04:00.jpg">August 12 at 9:25 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 47 hyperlink lists with the Internet Archive.
+The archiving routine has saved 49 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 18 at 7:56 PM](https://archive.org/download/newsday-2022/newsday-2022-08-18T19:56:20.752057-04:00.hyperlinks.json) |
+| [August 18 at 8:01 AM](https://archive.org/download/newsday-2022/newsday-2022-08-18T08:01:25.187899-04:00.hyperlinks.json) |
 | [August 17 at 7:54 PM](https://archive.org/download/newsday-2022/newsday-2022-08-17T19:54:24.436768-04:00.hyperlinks.json) |
 | [August 17 at 7:52 AM](https://archive.org/download/newsday-2022/newsday-2022-08-17T07:52:31.644206-04:00.hyperlinks.json) |
 | [August 16 at 8:09 PM](https://archive.org/download/newsday-2022/newsday-2022-08-16T20:09:20.560494-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 15 at 10:21 AM](https://archive.org/download/newsday-2022/newsday-2022-08-15T10:21:37.236779-04:00.hyperlinks.json) |
 | [August 14 at 9:24 PM](https://archive.org/download/newsday-2022/newsday-2022-08-14T21:24:06.366701-04:00.hyperlinks.json) |
 | [August 14 at 9:52 AM](https://archive.org/download/newsday-2022/newsday-2022-08-14T09:52:48.709108-04:00.hyperlinks.json) |
-| [August 13 at 11:18 PM](https://archive.org/download/newsday-2022/newsday-2022-08-13T23:18:53.299323-04:00.hyperlinks.json) |
-| [August 13 at 9:14 AM](https://archive.org/download/newsday-2022/newsday-2022-08-13T09:14:29.878577-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 47 accessibility trees with the Internet Archive.
+The archiving routine has saved 49 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 18 at 7:56 PM](https://archive.org/download/newsday-2022/newsday-2022-08-18T19:56:20.752057-04:00.accessibility.json) |
+| [August 18 at 8:01 AM](https://archive.org/download/newsday-2022/newsday-2022-08-18T08:01:25.187899-04:00.accessibility.json) |
 | [August 17 at 7:54 PM](https://archive.org/download/newsday-2022/newsday-2022-08-17T19:54:24.436768-04:00.accessibility.json) |
 | [August 17 at 7:52 AM](https://archive.org/download/newsday-2022/newsday-2022-08-17T07:52:31.644206-04:00.accessibility.json) |
 | [August 16 at 8:09 PM](https://archive.org/download/newsday-2022/newsday-2022-08-16T20:09:20.560494-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 15 at 10:21 AM](https://archive.org/download/newsday-2022/newsday-2022-08-15T10:21:37.236779-04:00.accessibility.json) |
 | [August 14 at 9:24 PM](https://archive.org/download/newsday-2022/newsday-2022-08-14T21:24:06.366701-04:00.accessibility.json) |
 | [August 14 at 9:52 AM](https://archive.org/download/newsday-2022/newsday-2022-08-14T09:52:48.709108-04:00.accessibility.json) |
-| [August 13 at 11:18 PM](https://archive.org/download/newsday-2022/newsday-2022-08-13T23:18:53.299323-04:00.accessibility.json) |
-| [August 13 at 9:14 AM](https://archive.org/download/newsday-2022/newsday-2022-08-13T09:14:29.878577-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 47 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 49 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 18 at 7:56 PM](https://archive.org/download/newsday-2022/newsday-2022-08-18T19:56:20.752057-04:00.lighthouse.json) |
+| [August 18 at 8:01 AM](https://archive.org/download/newsday-2022/newsday-2022-08-18T08:01:25.187899-04:00.lighthouse.json) |
 | [August 17 at 7:54 PM](https://archive.org/download/newsday-2022/newsday-2022-08-17T19:54:24.436768-04:00.lighthouse.json) |
 | [August 17 at 7:52 AM](https://archive.org/download/newsday-2022/newsday-2022-08-17T07:52:31.644206-04:00.lighthouse.json) |
 | [August 16 at 8:09 PM](https://archive.org/download/newsday-2022/newsday-2022-08-16T20:09:20.560494-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 15 at 10:21 AM](https://archive.org/download/newsday-2022/newsday-2022-08-15T10:21:37.236779-04:00.lighthouse.json) |
 | [August 14 at 9:24 PM](https://archive.org/download/newsday-2022/newsday-2022-08-14T21:24:06.366701-04:00.lighthouse.json) |
 | [August 14 at 9:52 AM](https://archive.org/download/newsday-2022/newsday-2022-08-14T09:52:48.709108-04:00.lighthouse.json) |
-| [August 13 at 11:19 PM](https://archive.org/download/newsday-2022/newsday-2022-08-13T23:18:53.299323-04:00.lighthouse.json) |
-| [August 13 at 9:14 AM](https://archive.org/download/newsday-2022/newsday-2022-08-13T09:14:29.878577-04:00.lighthouse.json) |
 
 
 

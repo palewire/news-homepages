@@ -234,13 +234,123 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 28 screenshots with the Internet Archive.
+The archiving routine has saved 31 screenshots with the Internet Archive.
 
+
+  <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specScreenshots = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/screenshots/cnnbrasil.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--screenshots", specScreenshots, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-18T20:00:11.387803-03:00.jpg">
+  <img src="https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-18T20:00:11.387803-03:00.jpg"
+     alt="CNN Brasil at 2022-08-18 20:00:14-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-18T20:00:11.387803-03:00.jpg">August 18 at 8:00 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-18T09:04:58.900961-03:00.jpg">
+  <img src="https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-18T09:04:58.900961-03:00.jpg"
+     alt="CNN Brasil at 2022-08-18 09:05:00-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-18T09:04:58.900961-03:00.jpg">August 18 at 9:05 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-18T07:58:00.581093-03:00.jpg">
+  <img src="https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-18T07:58:00.581093-03:00.jpg"
+     alt="CNN Brasil at 2022-08-18 07:58:03-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-18T07:58:00.581093-03:00.jpg">August 18 at 7:58 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-17T20:00:03.168342-03:00.jpg">
@@ -323,45 +433,104 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-14T10:36:21.215181-03:00.jpg">August 14 at 10:36 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-14T10:27:59.438012-03:00.jpg">
-  <img src="https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-14T10:27:59.438012-03:00.jpg"
-     alt="CNN Brasil at 2022-08-14 10:28:02-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-14T10:27:59.438012-03:00.jpg">August 14 at 10:28 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-13T20:50:34.687087-03:00.jpg">
-  <img src="https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-13T20:50:34.687087-03:00.jpg"
-     alt="CNN Brasil at 2022-08-13 20:50:36-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-13T20:50:34.687087-03:00.jpg">August 13 at 8:50 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-13T10:01:41.036745-03:00.jpg">
-  <img src="https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-13T10:01:41.036745-03:00.jpg"
-     alt="CNN Brasil at 2022-08-13 10:01:42-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-13T10:01:41.036745-03:00.jpg">August 13 at 10:01 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 28 hyperlink lists with the Internet Archive.
+The archiving routine has saved 31 hyperlink lists with the Internet Archive.
 
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specHyperlinks = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/cnnbrasil.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 18 at 8:00 PM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-18T20:00:11.387803-03:00.hyperlinks.json) |
+| [August 18 at 9:05 AM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-18T09:04:58.900961-03:00.hyperlinks.json) |
+| [August 18 at 7:58 AM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-18T07:58:00.581093-03:00.hyperlinks.json) |
 | [August 17 at 8:00 PM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-17T20:00:03.168342-03:00.hyperlinks.json) |
 | [August 17 at 7:55 AM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-17T07:55:01.821548-03:00.hyperlinks.json) |
 | [August 16 at 8:03 PM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-16T20:03:15.224047-03:00.hyperlinks.json) |
@@ -369,21 +538,104 @@ Here are the 10 most recent hyperlink lists.
 | [August 15 at 10:19 PM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-15T22:19:11.825148-03:00.hyperlinks.json) |
 | [August 15 at 11:03 AM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-15T11:03:12.094240-03:00.hyperlinks.json) |
 | [August 15 at 10:53 AM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-15T10:52:55.204662-03:00.hyperlinks.json) |
-| [August 14 at 10:04 PM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-14T22:04:53.528643-03:00.hyperlinks.json) |
-| [August 14 at 10:36 AM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-14T10:36:21.215181-03:00.hyperlinks.json) |
-| [August 14 at 10:28 AM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-14T10:27:59.438012-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 28 accessibility trees with the Internet Archive.
+The archiving routine has saved 31 accessibility trees with the Internet Archive.
 
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/cnnbrasil.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 18 at 8:00 PM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-18T20:00:11.387803-03:00.accessibility.json) |
+| [August 18 at 9:05 AM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-18T09:04:58.900961-03:00.accessibility.json) |
+| [August 18 at 7:58 AM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-18T07:58:00.581093-03:00.accessibility.json) |
 | [August 17 at 8:00 PM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-17T20:00:03.168342-03:00.accessibility.json) |
 | [August 17 at 7:55 AM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-17T07:55:01.821548-03:00.accessibility.json) |
 | [August 16 at 8:03 PM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-16T20:03:15.224047-03:00.accessibility.json) |
@@ -391,22 +643,105 @@ Here are the 10 most recent accessibility trees.
 | [August 15 at 10:19 PM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-15T22:19:11.825148-03:00.accessibility.json) |
 | [August 15 at 11:03 AM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-15T11:03:12.094240-03:00.accessibility.json) |
 | [August 15 at 10:53 AM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-15T10:52:55.204662-03:00.accessibility.json) |
-| [August 14 at 10:04 PM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-14T22:04:53.528643-03:00.accessibility.json) |
-| [August 14 at 10:36 AM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-14T10:36:21.215181-03:00.accessibility.json) |
-| [August 14 at 10:28 AM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-14T10:27:59.438012-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 28 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 31 Lighthouse audits with the Internet Archive.
 
+
+  <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specLighthouse = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/lighthouse/cnnbrasil.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--lighthouse", specLighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 18 at 8:00 PM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-18T20:00:11.387803-03:00.lighthouse.json) |
+| [August 18 at 9:05 AM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-18T09:04:58.900961-03:00.lighthouse.json) |
+| [August 18 at 7:58 AM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-18T07:58:00.581093-03:00.lighthouse.json) |
 | [August 17 at 8:00 PM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-17T20:00:03.168342-03:00.lighthouse.json) |
 | [August 17 at 7:55 AM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-17T07:55:01.821548-03:00.lighthouse.json) |
 | [August 16 at 8:03 PM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-16T20:03:15.224047-03:00.lighthouse.json) |
@@ -414,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 15 at 10:19 PM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-15T22:19:11.825148-03:00.lighthouse.json) |
 | [August 15 at 11:03 AM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-15T11:03:12.094240-03:00.lighthouse.json) |
 | [August 15 at 10:53 AM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-15T10:52:55.204662-03:00.lighthouse.json) |
-| [August 14 at 10:05 PM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-14T22:04:53.528643-03:00.lighthouse.json) |
-| [August 14 at 10:36 AM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-14T10:36:21.215181-03:00.lighthouse.json) |
-| [August 14 at 10:28 AM](https://archive.org/download/cnnbrasil-2022/cnnbrasil-2022-08-14T10:27:59.438012-03:00.lighthouse.json) |
 
 
 

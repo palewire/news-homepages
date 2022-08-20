@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 406 screenshots with the Internet Archive.
+The archiving routine has saved 410 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/wsj-2022/wsj-2022-08-18T17:16:07.100584-04:00.jpg">
+  <img src="https://archive.org/download/wsj-2022/wsj-2022-08-18T17:16:07.100584-04:00.jpg"
+     alt="Wall Street Journal at 2022-08-18 17:16:30-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wsj-2022/wsj-2022-08-18T17:16:07.100584-04:00.jpg">August 18 at 5:16 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wsj-2022/wsj-2022-08-18T11:33:31.873753-04:00.jpg">
+  <img src="https://archive.org/download/wsj-2022/wsj-2022-08-18T11:33:31.873753-04:00.jpg"
+     alt="Wall Street Journal at 2022-08-18 11:33:40-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wsj-2022/wsj-2022-08-18T11:33:31.873753-04:00.jpg">August 18 at 11:33 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wsj-2022/wsj-2022-08-18T08:55:36.848338-04:00.jpg">
+  <img src="https://archive.org/download/wsj-2022/wsj-2022-08-18T08:55:36.848338-04:00.jpg"
+     alt="Wall Street Journal at 2022-08-18 08:55:39-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wsj-2022/wsj-2022-08-18T08:55:36.848338-04:00.jpg">August 18 at 8:55 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wsj-2022/wsj-2022-08-17T23:49:07.558702-04:00.jpg">
+  <img src="https://archive.org/download/wsj-2022/wsj-2022-08-17T23:49:07.558702-04:00.jpg"
+     alt="Wall Street Journal at 2022-08-17 23:49:21-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wsj-2022/wsj-2022-08-17T23:49:07.558702-04:00.jpg">August 17 at 11:49 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/wsj-2022/wsj-2022-08-17T17:16:08.350124-04:00.jpg">
   <img src="https://archive.org/download/wsj-2022/wsj-2022-08-17T17:16:08.350124-04:00.jpg"
      alt="Wall Street Journal at 2022-08-17 17:16:21-04:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wsj-2022/wsj-2022-08-15T15:25:00.232025-04:00.jpg">August 15 at 3:25 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wsj-2022/wsj-2022-08-15T02:52:12.067783-04:00.jpg">
-  <img src="https://archive.org/download/wsj-2022/wsj-2022-08-15T02:52:12.067783-04:00.jpg"
-     alt="Wall Street Journal at 2022-08-15 02:52:23-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wsj-2022/wsj-2022-08-15T02:52:12.067783-04:00.jpg">August 15 at 2:52 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wsj-2022/wsj-2022-08-14T17:13:49.849138-04:00.jpg">
-  <img src="https://archive.org/download/wsj-2022/wsj-2022-08-14T17:13:49.849138-04:00.jpg"
-     alt="Wall Street Journal at 2022-08-14 17:13:51-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wsj-2022/wsj-2022-08-14T17:13:49.849138-04:00.jpg">August 14 at 5:13 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wsj-2022/wsj-2022-08-14T15:08:40.125449-04:00.jpg">
-  <img src="https://archive.org/download/wsj-2022/wsj-2022-08-14T15:08:40.125449-04:00.jpg"
-     alt="Wall Street Journal at 2022-08-14 15:08:52-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wsj-2022/wsj-2022-08-14T15:08:40.125449-04:00.jpg">August 14 at 3:08 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wsj-2022/wsj-2022-08-14T13:11:53.974927-04:00.jpg">
-  <img src="https://archive.org/download/wsj-2022/wsj-2022-08-14T13:11:53.974927-04:00.jpg"
-     alt="Wall Street Journal at 2022-08-14 13:11:57-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wsj-2022/wsj-2022-08-14T13:11:53.974927-04:00.jpg">August 14 at 1:11 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 389 hyperlink lists with the Internet Archive.
+The archiving routine has saved 393 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 18 at 5:16 PM](https://archive.org/download/wsj-2022/wsj-2022-08-18T17:16:07.100584-04:00.hyperlinks.json) |
+| [August 18 at 11:33 AM](https://archive.org/download/wsj-2022/wsj-2022-08-18T11:33:31.873753-04:00.hyperlinks.json) |
+| [August 18 at 8:55 AM](https://archive.org/download/wsj-2022/wsj-2022-08-18T08:55:36.848338-04:00.hyperlinks.json) |
+| [August 17 at 11:49 PM](https://archive.org/download/wsj-2022/wsj-2022-08-17T23:49:07.558702-04:00.hyperlinks.json) |
 | [August 17 at 5:16 PM](https://archive.org/download/wsj-2022/wsj-2022-08-17T17:16:08.350124-04:00.hyperlinks.json) |
 | [August 17 at 11:16 AM](https://archive.org/download/wsj-2022/wsj-2022-08-17T11:16:11.007168-04:00.hyperlinks.json) |
 | [August 16 at 11:48 PM](https://archive.org/download/wsj-2022/wsj-2022-08-16T23:48:08.559493-04:00.hyperlinks.json) |
 | [August 16 at 2:49 PM](https://archive.org/download/wsj-2022/wsj-2022-08-16T14:49:38.242962-04:00.hyperlinks.json) |
 | [August 16 at 2:59 AM](https://archive.org/download/wsj-2022/wsj-2022-08-16T02:59:30.237055-04:00.hyperlinks.json) |
 | [August 15 at 5:15 PM](https://archive.org/download/wsj-2022/wsj-2022-08-15T17:15:05.120757-04:00.hyperlinks.json) |
-| [August 15 at 4:23 PM](https://archive.org/download/wsj-2022/wsj-2022-08-15T16:23:27.249938-04:00.hyperlinks.json) |
-| [August 15 at 3:25 PM](https://archive.org/download/wsj-2022/wsj-2022-08-15T15:25:00.232025-04:00.hyperlinks.json) |
-| [August 15 at 2:52 AM](https://archive.org/download/wsj-2022/wsj-2022-08-15T02:52:12.067783-04:00.hyperlinks.json) |
-| [August 14 at 5:13 PM](https://archive.org/download/wsj-2022/wsj-2022-08-14T17:13:49.849138-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 379 accessibility trees with the Internet Archive.
+The archiving routine has saved 383 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 18 at 5:16 PM](https://archive.org/download/wsj-2022/wsj-2022-08-18T17:16:07.100584-04:00.accessibility.json) |
+| [August 18 at 11:33 AM](https://archive.org/download/wsj-2022/wsj-2022-08-18T11:33:31.873753-04:00.accessibility.json) |
+| [August 18 at 8:55 AM](https://archive.org/download/wsj-2022/wsj-2022-08-18T08:55:36.848338-04:00.accessibility.json) |
+| [August 17 at 11:49 PM](https://archive.org/download/wsj-2022/wsj-2022-08-17T23:49:07.558702-04:00.accessibility.json) |
 | [August 17 at 5:16 PM](https://archive.org/download/wsj-2022/wsj-2022-08-17T17:16:08.350124-04:00.accessibility.json) |
 | [August 17 at 11:16 AM](https://archive.org/download/wsj-2022/wsj-2022-08-17T11:16:11.007168-04:00.accessibility.json) |
 | [August 16 at 11:48 PM](https://archive.org/download/wsj-2022/wsj-2022-08-16T23:48:08.559493-04:00.accessibility.json) |
 | [August 16 at 2:49 PM](https://archive.org/download/wsj-2022/wsj-2022-08-16T14:49:38.242962-04:00.accessibility.json) |
 | [August 16 at 2:59 AM](https://archive.org/download/wsj-2022/wsj-2022-08-16T02:59:30.237055-04:00.accessibility.json) |
 | [August 15 at 5:15 PM](https://archive.org/download/wsj-2022/wsj-2022-08-15T17:15:05.120757-04:00.accessibility.json) |
-| [August 15 at 4:23 PM](https://archive.org/download/wsj-2022/wsj-2022-08-15T16:23:27.249938-04:00.accessibility.json) |
-| [August 15 at 3:25 PM](https://archive.org/download/wsj-2022/wsj-2022-08-15T15:25:00.232025-04:00.accessibility.json) |
-| [August 15 at 2:52 AM](https://archive.org/download/wsj-2022/wsj-2022-08-15T02:52:12.067783-04:00.accessibility.json) |
-| [August 14 at 5:13 PM](https://archive.org/download/wsj-2022/wsj-2022-08-14T17:13:49.849138-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 98 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 102 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 18 at 5:16 PM](https://archive.org/download/wsj-2022/wsj-2022-08-18T17:16:07.100584-04:00.lighthouse.json) |
+| [August 18 at 11:33 AM](https://archive.org/download/wsj-2022/wsj-2022-08-18T11:33:31.873753-04:00.lighthouse.json) |
+| [August 18 at 8:55 AM](https://archive.org/download/wsj-2022/wsj-2022-08-18T08:55:36.848338-04:00.lighthouse.json) |
+| [August 17 at 11:49 PM](https://archive.org/download/wsj-2022/wsj-2022-08-17T23:49:07.558702-04:00.lighthouse.json) |
 | [August 17 at 5:16 PM](https://archive.org/download/wsj-2022/wsj-2022-08-17T17:16:08.350124-04:00.lighthouse.json) |
 | [August 17 at 11:16 AM](https://archive.org/download/wsj-2022/wsj-2022-08-17T11:16:11.007168-04:00.lighthouse.json) |
 | [August 16 at 11:48 PM](https://archive.org/download/wsj-2022/wsj-2022-08-16T23:48:08.559493-04:00.lighthouse.json) |
 | [August 16 at 2:49 PM](https://archive.org/download/wsj-2022/wsj-2022-08-16T14:49:38.242962-04:00.lighthouse.json) |
 | [August 16 at 2:59 AM](https://archive.org/download/wsj-2022/wsj-2022-08-16T02:59:30.237055-04:00.lighthouse.json) |
 | [August 15 at 5:15 PM](https://archive.org/download/wsj-2022/wsj-2022-08-15T17:15:05.120757-04:00.lighthouse.json) |
-| [August 15 at 4:23 PM](https://archive.org/download/wsj-2022/wsj-2022-08-15T16:23:27.249938-04:00.lighthouse.json) |
-| [August 15 at 3:25 PM](https://archive.org/download/wsj-2022/wsj-2022-08-15T15:25:00.232025-04:00.lighthouse.json) |
-| [August 15 at 2:52 AM](https://archive.org/download/wsj-2022/wsj-2022-08-15T02:52:12.067783-04:00.lighthouse.json) |
-| [August 14 at 5:13 PM](https://archive.org/download/wsj-2022/wsj-2022-08-14T17:13:49.849138-04:00.lighthouse.json) |
 
 
 

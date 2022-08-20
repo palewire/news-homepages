@@ -234,13 +234,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 16 screenshots with the Internet Archive.
+The archiving routine has saved 18 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-08-18T12:24:02.864083-03:00.jpg">
+  <img src="https://archive.org/download/perfilcom-2022/perfilcom-2022-08-18T12:24:02.864083-03:00.jpg"
+     alt="Perfil at 2022-08-18 12:24:05-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-08-18T12:24:02.864083-03:00.jpg">August 18 at 12:24 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-08-18T00:44:12.114824-03:00.jpg">
+  <img src="https://archive.org/download/perfilcom-2022/perfilcom-2022-08-18T00:44:12.114824-03:00.jpg"
+     alt="Perfil at 2022-08-18 00:44:14-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-08-18T00:44:12.114824-03:00.jpg">August 18 at 12:44 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-08-17T12:08:37.880308-03:00.jpg">
@@ -332,29 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-08-13T02:07:01.657723-03:00.jpg">August 13 at 2:07 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-08-12T15:18:08.623090-03:00.jpg">
-  <img src="https://archive.org/download/perfilcom-2022/perfilcom-2022-08-12T15:18:08.623090-03:00.jpg"
-     alt="Perfil at 2022-08-12 15:18:27-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-08-12T15:18:08.623090-03:00.jpg">August 12 at 3:18 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-08-12T06:41:57.020694-03:00.jpg">
-  <img src="https://archive.org/download/perfilcom-2022/perfilcom-2022-08-12T06:41:57.020694-03:00.jpg"
-     alt="Perfil at 2022-08-12 06:41:59-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/perfilcom-2022/perfilcom-2022-08-12T06:41:57.020694-03:00.jpg">August 12 at 6:41 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 13 hyperlink lists with the Internet Archive.
+The archiving routine has saved 15 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 18 at 12:24 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-08-18T12:24:02.864083-03:00.hyperlinks.json) |
+| [August 18 at 12:44 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-08-18T00:44:12.114824-03:00.hyperlinks.json) |
 | [August 17 at 12:08 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-08-17T12:08:37.880308-03:00.hyperlinks.json) |
 | [August 17 at 12:42 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-08-17T00:41:59.801962-03:00.hyperlinks.json) |
 | [August 16 at 3:42 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-08-16T15:42:01.632650-03:00.hyperlinks.json) |
@@ -370,13 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 14 at 3:56 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-08-14T15:56:04.014896-03:00.hyperlinks.json) |
 | [August 13 at 5:55 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-08-13T17:55:04.728868-03:00.hyperlinks.json) |
 | [August 13 at 2:07 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-08-13T02:07:01.657723-03:00.hyperlinks.json) |
-| [August 12 at 3:19 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-08-12T15:18:08.623090-03:00.hyperlinks.json) |
-| [August 12 at 6:42 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-08-12T06:41:57.020694-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 15 accessibility trees with the Internet Archive.
+The archiving routine has saved 17 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 18 at 12:24 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-08-18T12:24:02.864083-03:00.accessibility.json) |
+| [August 18 at 12:44 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-08-18T00:44:12.114824-03:00.accessibility.json) |
 | [August 17 at 12:42 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-08-17T00:41:59.801962-03:00.accessibility.json) |
 | [August 16 at 3:46 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-08-16T03:46:23.397807-03:00.accessibility.json) |
 | [August 15 at 5:08 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-08-15T17:08:47.138317-03:00.accessibility.json) |
@@ -392,14 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [August 14 at 4:00 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-08-14T04:00:23.093858-03:00.accessibility.json) |
 | [August 13 at 5:55 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-08-13T17:55:04.728868-03:00.accessibility.json) |
 | [August 13 at 2:07 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-08-13T02:07:01.657723-03:00.accessibility.json) |
-| [August 12 at 3:18 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-08-12T15:18:08.623090-03:00.accessibility.json) |
-| [August 12 at 6:42 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-08-12T06:41:57.020694-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 17 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 19 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 18 at 12:24 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-08-18T12:24:02.864083-03:00.lighthouse.json) |
+| [August 18 at 12:44 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-08-18T00:44:12.114824-03:00.lighthouse.json) |
 | [August 17 at 12:08 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-08-17T12:08:37.880308-03:00.lighthouse.json) |
 | [August 17 at 12:42 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-08-17T00:41:59.801962-03:00.lighthouse.json) |
 | [August 16 at 3:42 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-08-16T15:42:01.632650-03:00.lighthouse.json) |
@@ -415,8 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 15 at 3:39 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-08-15T03:39:40.343971-03:00.lighthouse.json) |
 | [August 14 at 3:56 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-08-14T15:56:04.014896-03:00.lighthouse.json) |
 | [August 14 at 4:00 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-08-14T04:00:23.093858-03:00.lighthouse.json) |
-| [August 13 at 5:55 PM](https://archive.org/download/perfilcom-2022/perfilcom-2022-08-13T17:55:04.728868-03:00.lighthouse.json) |
-| [August 13 at 2:07 AM](https://archive.org/download/perfilcom-2022/perfilcom-2022-08-13T02:07:01.657723-03:00.lighthouse.json) |
 
 
 

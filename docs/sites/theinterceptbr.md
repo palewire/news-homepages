@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 40 screenshots with the Internet Archive.
+The archiving routine has saved 43 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-18T10:02:12.708670-03:00.jpg">
+  <img src="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-18T10:02:12.708670-03:00.jpg"
+     alt="Intercept Brazil at 2022-08-18 10:02:14-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-18T10:02:12.708670-03:00.jpg">August 18 at 10:02 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-18T09:06:20.068705-03:00.jpg">
+  <img src="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-18T09:06:20.068705-03:00.jpg"
+     alt="Intercept Brazil at 2022-08-18 09:06:25-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-18T09:06:20.068705-03:00.jpg">August 18 at 9:06 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-17T22:15:43.472048-03:00.jpg">
+  <img src="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-17T22:15:43.472048-03:00.jpg"
+     alt="Intercept Brazil at 2022-08-17 22:15:45-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-17T22:15:43.472048-03:00.jpg">August 17 at 10:15 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-17T10:09:51.636980-03:00.jpg">
   <img src="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-17T10:09:51.636980-03:00.jpg"
      alt="Intercept Brazil at 2022-08-17 10:09:58-03:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-14T10:38:21.873835-03:00.jpg">August 14 at 10:38 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-14T02:08:03.325740-03:00.jpg">
-  <img src="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-14T02:08:03.325740-03:00.jpg"
-     alt="Intercept Brazil at 2022-08-14 02:08:04-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-14T02:08:03.325740-03:00.jpg">August 14 at 2:08 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-13T17:45:00.358912-03:00.jpg">
-  <img src="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-13T17:45:00.358912-03:00.jpg"
-     alt="Intercept Brazil at 2022-08-13 17:45:03-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-13T17:45:00.358912-03:00.jpg">August 13 at 5:45 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-13T10:03:46.229327-03:00.jpg">
-  <img src="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-13T10:03:46.229327-03:00.jpg"
-     alt="Intercept Brazil at 2022-08-13 10:03:47-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-13T10:03:46.229327-03:00.jpg">August 13 at 10:03 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 41 hyperlink lists with the Internet Archive.
+The archiving routine has saved 44 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 18 at 10:02 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-18T10:02:12.708670-03:00.hyperlinks.json) |
+| [August 18 at 9:06 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-18T09:06:20.068705-03:00.hyperlinks.json) |
+| [August 17 at 10:15 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-17T22:15:43.472048-03:00.hyperlinks.json) |
 | [August 17 at 10:10 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-17T10:09:51.636980-03:00.hyperlinks.json) |
 | [August 16 at 10:22 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-16T22:22:30.017896-03:00.hyperlinks.json) |
 | [August 16 at 2:25 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-16T14:25:53.059729-03:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 15 at 4:38 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-15T16:38:34.513690-03:00.hyperlinks.json) |
 | [August 15 at 11:06 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-15T11:05:59.686522-03:00.hyperlinks.json) |
 | [August 15 at 12:14 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-15T00:14:27.652154-03:00.hyperlinks.json) |
-| [August 14 at 2:05 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-14T14:05:23.805475-03:00.hyperlinks.json) |
-| [August 14 at 10:38 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-14T10:38:21.873835-03:00.hyperlinks.json) |
-| [August 14 at 2:08 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-14T02:08:03.325740-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 41 accessibility trees with the Internet Archive.
+The archiving routine has saved 44 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 18 at 10:02 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-18T10:02:12.708670-03:00.accessibility.json) |
+| [August 18 at 9:06 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-18T09:06:20.068705-03:00.accessibility.json) |
+| [August 17 at 10:15 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-17T22:15:43.472048-03:00.accessibility.json) |
 | [August 17 at 10:10 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-17T10:09:51.636980-03:00.accessibility.json) |
 | [August 16 at 10:22 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-16T22:22:30.017896-03:00.accessibility.json) |
 | [August 16 at 2:25 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-16T14:25:53.059729-03:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 15 at 4:38 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-15T16:38:34.513690-03:00.accessibility.json) |
 | [August 15 at 11:06 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-15T11:05:59.686522-03:00.accessibility.json) |
 | [August 15 at 12:14 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-15T00:14:27.652154-03:00.accessibility.json) |
-| [August 14 at 2:05 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-14T14:05:23.805475-03:00.accessibility.json) |
-| [August 14 at 10:38 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-14T10:38:21.873835-03:00.accessibility.json) |
-| [August 14 at 2:08 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-14T02:08:03.325740-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 41 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 44 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 18 at 10:02 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-18T10:02:12.708670-03:00.lighthouse.json) |
+| [August 18 at 9:06 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-18T09:06:20.068705-03:00.lighthouse.json) |
+| [August 17 at 10:15 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-17T22:15:43.472048-03:00.lighthouse.json) |
 | [August 17 at 10:10 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-17T10:09:51.636980-03:00.lighthouse.json) |
 | [August 16 at 10:22 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-16T22:22:30.017896-03:00.lighthouse.json) |
 | [August 16 at 2:25 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-16T14:25:53.059729-03:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 15 at 4:38 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-15T16:38:34.513690-03:00.lighthouse.json) |
 | [August 15 at 11:06 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-15T11:05:59.686522-03:00.lighthouse.json) |
 | [August 15 at 12:14 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-15T00:14:27.652154-03:00.lighthouse.json) |
-| [August 14 at 2:05 PM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-14T14:05:23.805475-03:00.lighthouse.json) |
-| [August 14 at 10:38 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-14T10:38:21.873835-03:00.lighthouse.json) |
-| [August 14 at 2:08 AM](https://archive.org/download/theinterceptbr-2022/theinterceptbr-2022-08-14T02:08:03.325740-03:00.lighthouse.json) |
 
 
 

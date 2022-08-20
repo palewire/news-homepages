@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 278 screenshots with the Internet Archive.
+The archiving routine has saved 281 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-18T18:58:19.146203-04:00.jpg">
+  <img src="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-18T18:58:19.146203-04:00.jpg"
+     alt="Breitbart at 2022-08-18 18:58:20-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-18T18:58:19.146203-04:00.jpg">August 18 at 6:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-18T14:31:07.285724-04:00.jpg">
+  <img src="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-18T14:31:07.285724-04:00.jpg"
+     alt="Breitbart at 2022-08-18 14:31:17-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-18T14:31:07.285724-04:00.jpg">August 18 at 2:31 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-18T06:55:37.924516-04:00.jpg">
+  <img src="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-18T06:55:37.924516-04:00.jpg"
+     alt="Breitbart at 2022-08-18 06:55:44-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-18T06:55:37.924516-04:00.jpg">August 18 at 6:55 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-17T18:58:59.911866-04:00.jpg">
   <img src="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-17T18:58:59.911866-04:00.jpg"
      alt="Breitbart at 2022-08-17 18:59:01-04:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-14T21:02:17.327216-04:00.jpg">August 14 at 9:02 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-14T15:47:33.843246-04:00.jpg">
-  <img src="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-14T15:47:33.843246-04:00.jpg"
-     alt="Breitbart at 2022-08-14 15:47:55-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-14T15:47:33.843246-04:00.jpg">August 14 at 3:47 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-14T09:25:20.975923-04:00.jpg">
-  <img src="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-14T09:25:20.975923-04:00.jpg"
-     alt="Breitbart at 2022-08-14 09:25:29-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-14T09:25:20.975923-04:00.jpg">August 14 at 9:25 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-13T19:47:55.208168-04:00.jpg">
-  <img src="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-13T19:47:55.208168-04:00.jpg"
-     alt="Breitbart at 2022-08-13 19:47:56-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-13T19:47:55.208168-04:00.jpg">August 13 at 7:47 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 275 hyperlink lists with the Internet Archive.
+The archiving routine has saved 278 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 18 at 6:58 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-18T18:58:19.146203-04:00.hyperlinks.json) |
+| [August 18 at 2:31 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-18T14:31:07.285724-04:00.hyperlinks.json) |
+| [August 18 at 6:55 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-18T06:55:37.924516-04:00.hyperlinks.json) |
 | [August 17 at 6:59 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-17T18:58:59.911866-04:00.hyperlinks.json) |
 | [August 17 at 2:31 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-17T14:31:04.412865-04:00.hyperlinks.json) |
 | [August 17 at 6:54 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-17T06:54:06.984324-04:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 16 at 9:30 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-16T09:30:12.649406-04:00.hyperlinks.json) |
 | [August 15 at 9:16 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-15T21:16:46.017906-04:00.hyperlinks.json) |
 | [August 15 at 4:54 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-15T16:54:28.367111-04:00.hyperlinks.json) |
-| [August 15 at 9:51 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-15T09:51:29.150871-04:00.hyperlinks.json) |
-| [August 14 at 9:02 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-14T21:02:17.327216-04:00.hyperlinks.json) |
-| [August 14 at 3:47 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-14T15:47:33.843246-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 271 accessibility trees with the Internet Archive.
+The archiving routine has saved 274 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 18 at 6:58 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-18T18:58:19.146203-04:00.accessibility.json) |
+| [August 18 at 2:31 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-18T14:31:07.285724-04:00.accessibility.json) |
+| [August 18 at 6:55 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-18T06:55:37.924516-04:00.accessibility.json) |
 | [August 17 at 6:59 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-17T18:58:59.911866-04:00.accessibility.json) |
 | [August 17 at 2:31 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-17T14:31:04.412865-04:00.accessibility.json) |
 | [August 17 at 6:54 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-17T06:54:06.984324-04:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 16 at 9:30 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-16T09:30:12.649406-04:00.accessibility.json) |
 | [August 15 at 9:16 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-15T21:16:46.017906-04:00.accessibility.json) |
 | [August 15 at 4:54 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-15T16:54:28.367111-04:00.accessibility.json) |
-| [August 15 at 9:51 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-15T09:51:29.150871-04:00.accessibility.json) |
-| [August 14 at 9:02 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-14T21:02:17.327216-04:00.accessibility.json) |
-| [August 14 at 3:47 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-14T15:47:33.843246-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 75 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 78 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 18 at 6:58 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-18T18:58:19.146203-04:00.lighthouse.json) |
+| [August 18 at 2:31 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-18T14:31:07.285724-04:00.lighthouse.json) |
+| [August 18 at 6:55 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-18T06:55:37.924516-04:00.lighthouse.json) |
 | [August 17 at 6:59 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-17T18:58:59.911866-04:00.lighthouse.json) |
 | [August 17 at 2:31 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-17T14:31:04.412865-04:00.lighthouse.json) |
 | [August 17 at 6:54 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-17T06:54:06.984324-04:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 16 at 9:30 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-16T09:30:12.649406-04:00.lighthouse.json) |
 | [August 15 at 9:16 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-15T21:16:46.017906-04:00.lighthouse.json) |
 | [August 15 at 4:54 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-15T16:54:28.367111-04:00.lighthouse.json) |
-| [August 15 at 9:51 AM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-15T09:51:29.150871-04:00.lighthouse.json) |
-| [August 14 at 9:02 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-14T21:02:17.327216-04:00.lighthouse.json) |
-| [August 14 at 3:48 PM](https://archive.org/download/breitbartnews-2022/breitbartnews-2022-08-14T15:47:33.843246-04:00.lighthouse.json) |
 
 
 

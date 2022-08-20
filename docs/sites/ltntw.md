@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 31 screenshots with the Internet Archive.
+The archiving routine has saved 33 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/ltntw-2022/ltntw-2022-08-18T22:11:44.338117+08:00.jpg">
+  <img src="https://archive.org/download/ltntw-2022/ltntw-2022-08-18T22:11:44.338117+08:00.jpg"
+     alt="Liberty Times at 2022-08-18 22:11:50+08:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ltntw-2022/ltntw-2022-08-18T22:11:44.338117+08:00.jpg">August 18 at 10:11 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ltntw-2022/ltntw-2022-08-18T10:31:08.559805+08:00.jpg">
+  <img src="https://archive.org/download/ltntw-2022/ltntw-2022-08-18T10:31:08.559805+08:00.jpg"
+     alt="Liberty Times at 2022-08-18 10:31:10+08:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ltntw-2022/ltntw-2022-08-18T10:31:08.559805+08:00.jpg">August 18 at 10:31 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/ltntw-2022/ltntw-2022-08-17T23:05:18.605205+08:00.jpg">
   <img src="https://archive.org/download/ltntw-2022/ltntw-2022-08-17T23:05:18.605205+08:00.jpg"
      alt="Liberty Times at 2022-08-17 23:05:20+08:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ltntw-2022/ltntw-2022-08-13T11:47:51.310511+08:00.jpg">August 13 at 11:47 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ltntw-2022/ltntw-2022-08-13T01:54:53.813564+08:00.jpg">
-  <img src="https://archive.org/download/ltntw-2022/ltntw-2022-08-13T01:54:53.813564+08:00.jpg"
-     alt="Liberty Times at 2022-08-13 01:54:56+08:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ltntw-2022/ltntw-2022-08-13T01:54:53.813564+08:00.jpg">August 13 at 1:54 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ltntw-2022/ltntw-2022-08-12T18:04:09.720206+08:00.jpg">
-  <img src="https://archive.org/download/ltntw-2022/ltntw-2022-08-12T18:04:09.720206+08:00.jpg"
-     alt="Liberty Times at 2022-08-12 18:04:13+08:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ltntw-2022/ltntw-2022-08-12T18:04:09.720206+08:00.jpg">August 12 at 6:04 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 31 hyperlink lists with the Internet Archive.
+The archiving routine has saved 33 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 18 at 10:11 PM](https://archive.org/download/ltntw-2022/ltntw-2022-08-18T22:11:44.338117+08:00.hyperlinks.json) |
+| [August 18 at 10:31 AM](https://archive.org/download/ltntw-2022/ltntw-2022-08-18T10:31:08.559805+08:00.hyperlinks.json) |
 | [August 17 at 11:05 PM](https://archive.org/download/ltntw-2022/ltntw-2022-08-17T23:05:18.605205+08:00.hyperlinks.json) |
 | [August 17 at 10:30 AM](https://archive.org/download/ltntw-2022/ltntw-2022-08-17T10:30:46.175436+08:00.hyperlinks.json) |
 | [August 17 at 2:37 AM](https://archive.org/download/ltntw-2022/ltntw-2022-08-17T02:37:32.778595+08:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 15 at 2:32 PM](https://archive.org/download/ltntw-2022/ltntw-2022-08-15T14:32:25.686004+08:00.hyperlinks.json) |
 | [August 15 at 1:26 AM](https://archive.org/download/ltntw-2022/ltntw-2022-08-15T01:26:15.244076+08:00.hyperlinks.json) |
 | [August 14 at 2:54 PM](https://archive.org/download/ltntw-2022/ltntw-2022-08-14T14:54:14.971892+08:00.hyperlinks.json) |
-| [August 14 at 4:30 AM](https://archive.org/download/ltntw-2022/ltntw-2022-08-14T04:30:03.920684+08:00.hyperlinks.json) |
-| [August 13 at 11:47 AM](https://archive.org/download/ltntw-2022/ltntw-2022-08-13T11:47:51.310511+08:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 31 accessibility trees with the Internet Archive.
+The archiving routine has saved 33 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 18 at 10:11 PM](https://archive.org/download/ltntw-2022/ltntw-2022-08-18T22:11:44.338117+08:00.accessibility.json) |
+| [August 18 at 10:31 AM](https://archive.org/download/ltntw-2022/ltntw-2022-08-18T10:31:08.559805+08:00.accessibility.json) |
 | [August 17 at 11:05 PM](https://archive.org/download/ltntw-2022/ltntw-2022-08-17T23:05:18.605205+08:00.accessibility.json) |
 | [August 17 at 10:30 AM](https://archive.org/download/ltntw-2022/ltntw-2022-08-17T10:30:46.175436+08:00.accessibility.json) |
 | [August 17 at 2:37 AM](https://archive.org/download/ltntw-2022/ltntw-2022-08-17T02:37:32.778595+08:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 15 at 2:32 PM](https://archive.org/download/ltntw-2022/ltntw-2022-08-15T14:32:25.686004+08:00.accessibility.json) |
 | [August 15 at 1:26 AM](https://archive.org/download/ltntw-2022/ltntw-2022-08-15T01:26:15.244076+08:00.accessibility.json) |
 | [August 14 at 2:54 PM](https://archive.org/download/ltntw-2022/ltntw-2022-08-14T14:54:14.971892+08:00.accessibility.json) |
-| [August 14 at 4:30 AM](https://archive.org/download/ltntw-2022/ltntw-2022-08-14T04:30:03.920684+08:00.accessibility.json) |
-| [August 13 at 11:47 AM](https://archive.org/download/ltntw-2022/ltntw-2022-08-13T11:47:51.310511+08:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 31 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 33 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 18 at 10:11 PM](https://archive.org/download/ltntw-2022/ltntw-2022-08-18T22:11:44.338117+08:00.lighthouse.json) |
+| [August 18 at 10:31 AM](https://archive.org/download/ltntw-2022/ltntw-2022-08-18T10:31:08.559805+08:00.lighthouse.json) |
 | [August 17 at 11:05 PM](https://archive.org/download/ltntw-2022/ltntw-2022-08-17T23:05:18.605205+08:00.lighthouse.json) |
 | [August 17 at 10:30 AM](https://archive.org/download/ltntw-2022/ltntw-2022-08-17T10:30:46.175436+08:00.lighthouse.json) |
 | [August 17 at 2:37 AM](https://archive.org/download/ltntw-2022/ltntw-2022-08-17T02:37:32.778595+08:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 15 at 2:32 PM](https://archive.org/download/ltntw-2022/ltntw-2022-08-15T14:32:25.686004+08:00.lighthouse.json) |
 | [August 15 at 1:26 AM](https://archive.org/download/ltntw-2022/ltntw-2022-08-15T01:26:15.244076+08:00.lighthouse.json) |
 | [August 14 at 2:54 PM](https://archive.org/download/ltntw-2022/ltntw-2022-08-14T14:54:14.971892+08:00.lighthouse.json) |
-| [August 14 at 4:30 AM](https://archive.org/download/ltntw-2022/ltntw-2022-08-14T04:30:03.920684+08:00.lighthouse.json) |
-| [August 13 at 11:47 AM](https://archive.org/download/ltntw-2022/ltntw-2022-08-13T11:47:51.310511+08:00.lighthouse.json) |
 
 
 
