@@ -115,7 +115,7 @@ jobs:
 
       - id: download-lighthouse
         name: Download Lighthouse files
-        run: pipenv run python -m newshomepages.extract download-hyperlinks --days=90 --output-path=./extracts/csv/drudge-hyperlinks-sample.csv;
+        run: pipenv run python -m newshomepages.extract download-hyperlinks --site=drudge --days=90 --output-path=./extracts/csv/drudge-hyperlinks-sample.csv;
         shell: bash
 
       - id: commit
