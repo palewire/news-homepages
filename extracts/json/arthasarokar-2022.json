@@ -1,9 +1,14 @@
 {
   "arthasarokar-2022": {
     "url": "https://arthasarokar.com/",
-    "job_id": "spn2-6fbfa67dd70ab252a04e124b6ba6150ee1483a0c"
+    "job_id": "spn2-6fbfa67dd70ab252a04e124b6ba6150ee1483a0c",
+    "status": "error",
+    "resources": [],
+    "duration_sec": 1.633,
+    "status_ext": "error:job-failed",
+    "message": "Job failed."
   },
-  "created": 1660953778,
+  "created": 1661040239,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/26/items/arthasarokar-2022",
@@ -3198,31 +3203,155 @@
       "sha1": "24979b0bb5a17ff1c7d9486ab19a1726228f899a"
     },
     {
+      "name": "arthasarokar-2022-08-20T06:56:23.524723+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1660957887",
+      "size": "79058",
+      "md5": "796307877e48b56483546ab2d42cc746",
+      "crc32": "3a4c2f80",
+      "sha1": "a537d5d872652b42ed044adccda73772176aab49",
+      "format": "JSON"
+    },
+    {
+      "name": "arthasarokar-2022-08-20T06:56:23.524723+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660957889",
+      "size": "62727",
+      "md5": "f617223cb0ff31e013a75b335a068f54",
+      "crc32": "aca2cf04",
+      "sha1": "737f73ce8fe3785dca84735cac7ac0b9debfe4f8",
+      "format": "JSON"
+    },
+    {
+      "name": "arthasarokar-2022-08-20T06:56:23.524723+05:45.jpg",
+      "source": "original",
+      "mtime": "1660957885",
+      "size": "339233",
+      "md5": "ec7ac55c5f9dac0610b12e948706144c",
+      "crc32": "429233df",
+      "sha1": "91c61596778068c978fc9bb1bcb8c0e3937fa528",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "arthasarokar-2022-08-20T06:56:23.524723+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1660957890",
+      "size": "1477",
+      "md5": "bdbc8fabbb9e523f3b4fcbf6e837296e",
+      "crc32": "8813be0a",
+      "sha1": "6a88e6b1ee77fe82b0ccf893b7074e847462866c",
+      "format": "JSON"
+    },
+    {
+      "name": "arthasarokar-2022-08-20T06:56:23.524723+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1660957892",
+      "size": "101",
+      "md5": "020fa59674581e6b77931df5ced980d7",
+      "crc32": "7d54225b",
+      "sha1": "aa12171c2a4840d761b4c5c1bd1e68b5862c9b39",
+      "format": "JSON"
+    },
+    {
+      "name": "arthasarokar-2022-08-20T06:56:23.524723+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "arthasarokar-2022-08-20T06:56:23.524723+05:45.jpg",
+      "mtime": "1660958032",
+      "size": "11209",
+      "md5": "1273ace51473e175815be92271e992f0",
+      "crc32": "d2b51ee9",
+      "sha1": "59df5ae8695d594d7b3d06e29d725fd1b5384b0d"
+    },
+    {
+      "name": "arthasarokar-2022-08-20T18:45:44.385778+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1661000448",
+      "size": "76186",
+      "md5": "6b37cb60f22e732732063350225afb14",
+      "crc32": "be6ee27c",
+      "sha1": "8a72a9fde4a448938ff9e848c2fb854116779a7a",
+      "format": "JSON"
+    },
+    {
+      "name": "arthasarokar-2022-08-20T18:45:44.385778+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661000450",
+      "size": "61404",
+      "md5": "d152e8d0037c0d3b47cff87360d109eb",
+      "crc32": "fa5aa079",
+      "sha1": "d28069c08b60da2fcc58cc53b5385fdde542ddf7",
+      "format": "JSON"
+    },
+    {
+      "name": "arthasarokar-2022-08-20T18:45:44.385778+05:45.jpg",
+      "source": "original",
+      "mtime": "1661000446",
+      "size": "299135",
+      "md5": "9983f9564e0c59ff28a4f8a05d2cd833",
+      "crc32": "16be78d1",
+      "sha1": "834e71739f32abe5e3357f6b763bdd93a46bea3e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "arthasarokar-2022-08-20T18:45:44.385778+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1661000452",
+      "size": "1477",
+      "md5": "30f7c0e10b4bbd8e8798992f1f945ad9",
+      "crc32": "dfd083b1",
+      "sha1": "c2ee66dc25f9436e694b717c8cbd90632c748f61",
+      "format": "JSON"
+    },
+    {
+      "name": "arthasarokar-2022-08-20T18:45:44.385778+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1661000454",
+      "size": "230",
+      "md5": "479278c520a0782b7bd6807b13ec9b11",
+      "crc32": "8a94fe95",
+      "sha1": "45c9daa96f34de2f60f187f7fc88f830519c8432",
+      "format": "JSON"
+    },
+    {
+      "name": "arthasarokar-2022-08-20T18:45:44.385778+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "arthasarokar-2022-08-20T18:45:44.385778+05:45.jpg",
+      "mtime": "1661000519",
+      "size": "10707",
+      "md5": "31f1c66a653688daf70bb6f28117da8a",
+      "crc32": "9c6ed687",
+      "sha1": "047744fb259e7b2f171f4fe6902269f3431c59e7"
+    },
+    {
       "name": "arthasarokar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "03bf256b606b1b1c0b3f574f80bcdaf97a6434a2",
-      "mtime": "1660915150",
-      "size": "67648",
-      "md5": "14ac6e3e9e30b23c82e1231af714f265",
-      "crc32": "5018aba4",
-      "sha1": "721943501622db5bd750c086bf26adc2c66cc842",
+      "btih": "886d1c5fc7b678f9db701bbc562bcf5d366fada2",
+      "mtime": "1661000524",
+      "size": "70208",
+      "md5": "cc5ab85cb2624498a7c3b6f209da6584",
+      "crc32": "6cb1f320",
+      "sha1": "db3c570f6eee54a7bd9bf42ad40fe036f4398958",
       "format": "Archive BitTorrent"
     },
     {
       "name": "arthasarokar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "be9d6528e3775037dc03d2ba7c15175b",
+      "md5": "5dc7519fb37598bdd9511a78e351dac5",
       "summation": "md5"
     },
     {
       "name": "arthasarokar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660915074",
-      "size": "413696",
-      "md5": "d2aaef523a05350c798f740f325c9ee3",
-      "crc32": "1509fb95",
-      "sha1": "7f64ecd56a17385d854c6a98e92309ea54c030a2",
+      "mtime": "1661000460",
+      "size": "425984",
+      "md5": "5bc652277acda6ce948895f6b8cee231",
+      "crc32": "a116672a",
+      "sha1": "f60543f5189c2be359b6e5b2b612c1ed85efb251",
       "format": "Metadata"
     },
     {
@@ -3236,9 +3365,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 312,
-  "item_last_updated": 1660915150,
-  "item_size": 24742857,
+  "files_count": 324,
+  "item_last_updated": 1661000524,
+  "item_size": 25700649,
   "metadata": {
     "identifier": "arthasarokar-2022",
     "collection": [
@@ -3256,7 +3385,7 @@
     "addeddate": "2022-07-24 20:36:44"
   },
   "server": "ia801506.us.archive.org",
-  "uniq": 1955891839,
+  "uniq": 805813922,
   "workable_servers": [
     "ia801506.us.archive.org",
     "ia601506.us.archive.org"
