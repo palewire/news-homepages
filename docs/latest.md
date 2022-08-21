@@ -3,7 +3,7 @@
 
 # Latest screenshots
 
-The most recent homepages captured from 822 news sites.
+The most recent homepages captured from 832 news sites.
 
 <div class="latest-parent">
 
@@ -224,6 +224,15 @@ The most recent homepages captured from 822 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/aviationnews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/aviationnews.jpg"
+     alt="AeroTime Hub"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/aviationnews.html">AeroTime Hub</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/aftenposten.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/aftenposten.jpg"
      alt="Aftenposten"
@@ -257,6 +266,24 @@ The most recent homepages captured from 822 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/agenciapublica.html">Agência Pública</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/airlinereporter.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/airlinereporter.jpg"
+     alt="Airline Reporter"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/airlinereporter.html">Airline Reporter</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/airwaysmagazine.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/airwaysmagazine.jpg"
+     alt="Airways"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/airwaysmagazine.html">Airways</a></p>
 </div>
 
 <div class="latest-child">
@@ -644,6 +671,33 @@ The most recent homepages captured from 822 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/gcm_nf.html">Austin Weekly News</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/avherald.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/avherald.jpg"
+     alt="Aviation Herald"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/avherald.html">Aviation Herald</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/ainonline.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ainonline.jpg"
+     alt="Aviation International News"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/ainonline.html">Aviation International News</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/aviationweek.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/aviationweek.jpg"
+     alt="Aviation Week"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/aviationweek.html">Aviation Week</a></p>
 </div>
 
 <div class="latest-child">
@@ -2168,6 +2222,15 @@ The most recent homepages captured from 822 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/dronedj.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/dronedj.jpg"
+     alt="Drone DJ"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/dronedj.html">Drone DJ</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/drudge.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/drudge.jpg"
      alt="Drudge Report"
@@ -2516,6 +2579,15 @@ The most recent homepages captured from 822 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/flatwaterfreep.html">Flatwater Free Press</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/flightglobal.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/flightglobal.jpg"
+     alt="Flight Global"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/flightglobal.html">Flight Global</a></p>
 </div>
 
 <div class="latest-child">
@@ -5939,6 +6011,15 @@ The most recent homepages captured from 822 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/simple_flying.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/simple_flying.jpg"
+     alt="Simple Flying"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/simple_flying.html">Simple Flying</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/sinembargomx.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/sinembargomx.jpg"
      alt="SinEmbargo"
@@ -6854,6 +6935,15 @@ The most recent homepages captured from 822 news sites.
      loading="lazy">
  </a>
  <p><a href="./sites/verge.html">Verge</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/verticalmag.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/verticalmag.jpg"
+     alt="Vertical"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/verticalmag.html">Vertical</a></p>
 </div>
 
 <div class="latest-child">

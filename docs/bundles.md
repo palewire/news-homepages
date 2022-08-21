@@ -3,11 +3,12 @@
 
 # Categories
 
-Sites are grouped into 37 bundles based on location, ideology and topic.
+Sites are grouped into 38 bundles based on location, ideology and topic.
 
 | Bundle  | RSS |
 | :-----  | :-- |
 |[Arizona](https://palewi.re/docs/news-homepages/bundles/arizona.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/arizona.xml)|
+|[Aviation](https://palewi.re/docs/news-homepages/bundles/aviation.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/aviation.xml)|
 |[California Bay Area](https://palewi.re/docs/news-homepages/bundles/bay-area.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/bay-area.xml)|
 |[Capitol Hill](https://palewi.re/docs/news-homepages/bundles/capitol-hill.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/capitol-hill.xml)|
 |[Chess](https://palewi.re/docs/news-homepages/bundles/chess.html)|[🔗](https://palewi.re/docs/news-homepages/rss/bundles/chess.xml)|
