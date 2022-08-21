@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 82 screenshots with the Internet Archive.
+The archiving routine has saved 85 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/ncronline-2022/ncronline-2022-08-19T18:55:48.972764-05:00.jpg">
+  <img src="https://archive.org/download/ncronline-2022/ncronline-2022-08-19T18:55:48.972764-05:00.jpg"
+     alt="National Catholic Reporter at 2022-08-19 18:55:58-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ncronline-2022/ncronline-2022-08-19T18:55:48.972764-05:00.jpg">August 19 at 6:55 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ncronline-2022/ncronline-2022-08-19T09:21:40.808364-05:00.jpg">
+  <img src="https://archive.org/download/ncronline-2022/ncronline-2022-08-19T09:21:40.808364-05:00.jpg"
+     alt="National Catholic Reporter at 2022-08-19 09:21:42-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ncronline-2022/ncronline-2022-08-19T09:21:40.808364-05:00.jpg">August 19 at 9:21 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ncronline-2022/ncronline-2022-08-19T07:03:36.994442-05:00.jpg">
+  <img src="https://archive.org/download/ncronline-2022/ncronline-2022-08-19T07:03:36.994442-05:00.jpg"
+     alt="National Catholic Reporter at 2022-08-19 07:03:42-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ncronline-2022/ncronline-2022-08-19T07:03:36.994442-05:00.jpg">August 19 at 7:03 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/ncronline-2022/ncronline-2022-08-18T18:57:10.785323-05:00.jpg">
   <img src="https://archive.org/download/ncronline-2022/ncronline-2022-08-18T18:57:10.785323-05:00.jpg"
      alt="National Catholic Reporter at 2022-08-18 18:57:15-05:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ncronline-2022/ncronline-2022-08-14T08:51:16.598594-05:00.jpg">August 14 at 8:51 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ncronline-2022/ncronline-2022-08-13T22:16:47.272345-05:00.jpg">
-  <img src="https://archive.org/download/ncronline-2022/ncronline-2022-08-13T22:16:47.272345-05:00.jpg"
-     alt="National Catholic Reporter at 2022-08-13 22:16:49-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ncronline-2022/ncronline-2022-08-13T22:16:47.272345-05:00.jpg">August 13 at 10:16 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ncronline-2022/ncronline-2022-08-13T08:14:04.479159-05:00.jpg">
-  <img src="https://archive.org/download/ncronline-2022/ncronline-2022-08-13T08:14:04.479159-05:00.jpg"
-     alt="National Catholic Reporter at 2022-08-13 08:14:14-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ncronline-2022/ncronline-2022-08-13T08:14:04.479159-05:00.jpg">August 13 at 8:14 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ncronline-2022/ncronline-2022-08-12T19:44:20.050276-05:00.jpg">
-  <img src="https://archive.org/download/ncronline-2022/ncronline-2022-08-12T19:44:20.050276-05:00.jpg"
-     alt="National Catholic Reporter at 2022-08-12 19:44:23-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ncronline-2022/ncronline-2022-08-12T19:44:20.050276-05:00.jpg">August 12 at 7:44 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 82 hyperlink lists with the Internet Archive.
+The archiving routine has saved 85 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 19 at 6:56 PM](https://archive.org/download/ncronline-2022/ncronline-2022-08-19T18:55:48.972764-05:00.hyperlinks.json) |
+| [August 19 at 9:21 AM](https://archive.org/download/ncronline-2022/ncronline-2022-08-19T09:21:40.808364-05:00.hyperlinks.json) |
+| [August 19 at 7:03 AM](https://archive.org/download/ncronline-2022/ncronline-2022-08-19T07:03:36.994442-05:00.hyperlinks.json) |
 | [August 18 at 6:57 PM](https://archive.org/download/ncronline-2022/ncronline-2022-08-18T18:57:10.785323-05:00.hyperlinks.json) |
 | [August 18 at 7:01 AM](https://archive.org/download/ncronline-2022/ncronline-2022-08-18T07:01:45.918270-05:00.hyperlinks.json) |
 | [August 17 at 6:54 PM](https://archive.org/download/ncronline-2022/ncronline-2022-08-17T18:53:53.337200-05:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 16 at 7:10 PM](https://archive.org/download/ncronline-2022/ncronline-2022-08-16T19:10:11.422291-05:00.hyperlinks.json) |
 | [August 16 at 9:04 AM](https://archive.org/download/ncronline-2022/ncronline-2022-08-16T09:03:44.157428-05:00.hyperlinks.json) |
 | [August 15 at 9:20 AM](https://archive.org/download/ncronline-2022/ncronline-2022-08-15T09:20:27.357740-05:00.hyperlinks.json) |
-| [August 14 at 8:23 PM](https://archive.org/download/ncronline-2022/ncronline-2022-08-14T20:22:58.513093-05:00.hyperlinks.json) |
-| [August 14 at 8:51 AM](https://archive.org/download/ncronline-2022/ncronline-2022-08-14T08:51:16.598594-05:00.hyperlinks.json) |
-| [August 13 at 10:16 PM](https://archive.org/download/ncronline-2022/ncronline-2022-08-13T22:16:47.272345-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 82 accessibility trees with the Internet Archive.
+The archiving routine has saved 85 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 19 at 6:56 PM](https://archive.org/download/ncronline-2022/ncronline-2022-08-19T18:55:48.972764-05:00.accessibility.json) |
+| [August 19 at 9:21 AM](https://archive.org/download/ncronline-2022/ncronline-2022-08-19T09:21:40.808364-05:00.accessibility.json) |
+| [August 19 at 7:03 AM](https://archive.org/download/ncronline-2022/ncronline-2022-08-19T07:03:36.994442-05:00.accessibility.json) |
 | [August 18 at 6:57 PM](https://archive.org/download/ncronline-2022/ncronline-2022-08-18T18:57:10.785323-05:00.accessibility.json) |
 | [August 18 at 7:01 AM](https://archive.org/download/ncronline-2022/ncronline-2022-08-18T07:01:45.918270-05:00.accessibility.json) |
 | [August 17 at 6:54 PM](https://archive.org/download/ncronline-2022/ncronline-2022-08-17T18:53:53.337200-05:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 16 at 7:10 PM](https://archive.org/download/ncronline-2022/ncronline-2022-08-16T19:10:11.422291-05:00.accessibility.json) |
 | [August 16 at 9:03 AM](https://archive.org/download/ncronline-2022/ncronline-2022-08-16T09:03:44.157428-05:00.accessibility.json) |
 | [August 15 at 9:20 AM](https://archive.org/download/ncronline-2022/ncronline-2022-08-15T09:20:27.357740-05:00.accessibility.json) |
-| [August 14 at 8:23 PM](https://archive.org/download/ncronline-2022/ncronline-2022-08-14T20:22:58.513093-05:00.accessibility.json) |
-| [August 14 at 8:51 AM](https://archive.org/download/ncronline-2022/ncronline-2022-08-14T08:51:16.598594-05:00.accessibility.json) |
-| [August 13 at 10:16 PM](https://archive.org/download/ncronline-2022/ncronline-2022-08-13T22:16:47.272345-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 52 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 55 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 19 at 6:56 PM](https://archive.org/download/ncronline-2022/ncronline-2022-08-19T18:55:48.972764-05:00.lighthouse.json) |
+| [August 19 at 9:21 AM](https://archive.org/download/ncronline-2022/ncronline-2022-08-19T09:21:40.808364-05:00.lighthouse.json) |
+| [August 19 at 7:03 AM](https://archive.org/download/ncronline-2022/ncronline-2022-08-19T07:03:36.994442-05:00.lighthouse.json) |
 | [August 18 at 6:57 PM](https://archive.org/download/ncronline-2022/ncronline-2022-08-18T18:57:10.785323-05:00.lighthouse.json) |
 | [August 18 at 7:02 AM](https://archive.org/download/ncronline-2022/ncronline-2022-08-18T07:01:45.918270-05:00.lighthouse.json) |
 | [August 17 at 6:54 PM](https://archive.org/download/ncronline-2022/ncronline-2022-08-17T18:53:53.337200-05:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 16 at 7:10 PM](https://archive.org/download/ncronline-2022/ncronline-2022-08-16T19:10:11.422291-05:00.lighthouse.json) |
 | [August 16 at 9:04 AM](https://archive.org/download/ncronline-2022/ncronline-2022-08-16T09:03:44.157428-05:00.lighthouse.json) |
 | [August 15 at 9:20 AM](https://archive.org/download/ncronline-2022/ncronline-2022-08-15T09:20:27.357740-05:00.lighthouse.json) |
-| [August 14 at 8:23 PM](https://archive.org/download/ncronline-2022/ncronline-2022-08-14T20:22:58.513093-05:00.lighthouse.json) |
-| [August 14 at 8:51 AM](https://archive.org/download/ncronline-2022/ncronline-2022-08-14T08:51:16.598594-05:00.lighthouse.json) |
-| [August 13 at 10:16 PM](https://archive.org/download/ncronline-2022/ncronline-2022-08-13T22:16:47.272345-05:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 126 screenshots with the Internet Archive.
+The archiving routine has saved 129 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/sbnation-2022/sbnation-2022-08-19T19:58:52.426790-04:00.jpg">
+  <img src="https://archive.org/download/sbnation-2022/sbnation-2022-08-19T19:58:52.426790-04:00.jpg"
+     alt="SB Nation at 2022-08-19 19:58:55-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-08-19T19:58:52.426790-04:00.jpg">August 19 at 7:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sbnation-2022/sbnation-2022-08-19T10:26:18.329530-04:00.jpg">
+  <img src="https://archive.org/download/sbnation-2022/sbnation-2022-08-19T10:26:18.329530-04:00.jpg"
+     alt="SB Nation at 2022-08-19 10:26:34-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-08-19T10:26:18.329530-04:00.jpg">August 19 at 10:26 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sbnation-2022/sbnation-2022-08-19T08:06:33.003931-04:00.jpg">
+  <img src="https://archive.org/download/sbnation-2022/sbnation-2022-08-19T08:06:33.003931-04:00.jpg"
+     alt="SB Nation at 2022-08-19 08:06:37-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-08-19T08:06:33.003931-04:00.jpg">August 19 at 8:06 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/sbnation-2022/sbnation-2022-08-18T19:59:07.704427-04:00.jpg">
   <img src="https://archive.org/download/sbnation-2022/sbnation-2022-08-18T19:59:07.704427-04:00.jpg"
      alt="SB Nation at 2022-08-18 19:59:12-04:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-08-14T21:29:11.156718-04:00.jpg">August 14 at 9:29 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/sbnation-2022/sbnation-2022-08-14T09:57:57.379053-04:00.jpg">
-  <img src="https://archive.org/download/sbnation-2022/sbnation-2022-08-14T09:57:57.379053-04:00.jpg"
-     alt="SB Nation at 2022-08-14 09:58:03-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-08-14T09:57:57.379053-04:00.jpg">August 14 at 9:58 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sbnation-2022/sbnation-2022-08-13T23:23:45.148391-04:00.jpg">
-  <img src="https://archive.org/download/sbnation-2022/sbnation-2022-08-13T23:23:45.148391-04:00.jpg"
-     alt="SB Nation at 2022-08-13 23:23:50-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-08-13T23:23:45.148391-04:00.jpg">August 13 at 11:23 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sbnation-2022/sbnation-2022-08-13T09:19:13.301485-04:00.jpg">
-  <img src="https://archive.org/download/sbnation-2022/sbnation-2022-08-13T09:19:13.301485-04:00.jpg"
-     alt="SB Nation at 2022-08-13 09:19:17-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sbnation-2022/sbnation-2022-08-13T09:19:13.301485-04:00.jpg">August 13 at 9:19 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 124 hyperlink lists with the Internet Archive.
+The archiving routine has saved 127 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 19 at 7:58 PM](https://archive.org/download/sbnation-2022/sbnation-2022-08-19T19:58:52.426790-04:00.hyperlinks.json) |
+| [August 19 at 10:26 AM](https://archive.org/download/sbnation-2022/sbnation-2022-08-19T10:26:18.329530-04:00.hyperlinks.json) |
+| [August 19 at 8:06 AM](https://archive.org/download/sbnation-2022/sbnation-2022-08-19T08:06:33.003931-04:00.hyperlinks.json) |
 | [August 18 at 7:59 PM](https://archive.org/download/sbnation-2022/sbnation-2022-08-18T19:59:07.704427-04:00.hyperlinks.json) |
 | [August 18 at 8:05 AM](https://archive.org/download/sbnation-2022/sbnation-2022-08-18T08:04:52.725140-04:00.hyperlinks.json) |
 | [August 17 at 7:57 PM](https://archive.org/download/sbnation-2022/sbnation-2022-08-17T19:56:54.447157-04:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 16 at 8:12 PM](https://archive.org/download/sbnation-2022/sbnation-2022-08-16T20:12:14.802659-04:00.hyperlinks.json) |
 | [August 16 at 10:10 AM](https://archive.org/download/sbnation-2022/sbnation-2022-08-16T10:10:02.445402-04:00.hyperlinks.json) |
 | [August 15 at 9:46 PM](https://archive.org/download/sbnation-2022/sbnation-2022-08-15T21:46:00.036070-04:00.hyperlinks.json) |
-| [August 15 at 10:28 AM](https://archive.org/download/sbnation-2022/sbnation-2022-08-15T10:28:55.013776-04:00.hyperlinks.json) |
-| [August 14 at 9:29 PM](https://archive.org/download/sbnation-2022/sbnation-2022-08-14T21:29:11.156718-04:00.hyperlinks.json) |
-| [August 14 at 9:58 AM](https://archive.org/download/sbnation-2022/sbnation-2022-08-14T09:57:57.379053-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 127 accessibility trees with the Internet Archive.
+The archiving routine has saved 130 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 19 at 7:58 PM](https://archive.org/download/sbnation-2022/sbnation-2022-08-19T19:58:52.426790-04:00.accessibility.json) |
+| [August 19 at 10:26 AM](https://archive.org/download/sbnation-2022/sbnation-2022-08-19T10:26:18.329530-04:00.accessibility.json) |
+| [August 19 at 8:06 AM](https://archive.org/download/sbnation-2022/sbnation-2022-08-19T08:06:33.003931-04:00.accessibility.json) |
 | [August 18 at 7:59 PM](https://archive.org/download/sbnation-2022/sbnation-2022-08-18T19:59:07.704427-04:00.accessibility.json) |
 | [August 18 at 8:04 AM](https://archive.org/download/sbnation-2022/sbnation-2022-08-18T08:04:52.725140-04:00.accessibility.json) |
 | [August 17 at 7:57 PM](https://archive.org/download/sbnation-2022/sbnation-2022-08-17T19:56:54.447157-04:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 16 at 8:12 PM](https://archive.org/download/sbnation-2022/sbnation-2022-08-16T20:12:14.802659-04:00.accessibility.json) |
 | [August 16 at 10:10 AM](https://archive.org/download/sbnation-2022/sbnation-2022-08-16T10:10:02.445402-04:00.accessibility.json) |
 | [August 15 at 9:46 PM](https://archive.org/download/sbnation-2022/sbnation-2022-08-15T21:46:00.036070-04:00.accessibility.json) |
-| [August 15 at 10:28 AM](https://archive.org/download/sbnation-2022/sbnation-2022-08-15T10:28:55.013776-04:00.accessibility.json) |
-| [August 14 at 9:29 PM](https://archive.org/download/sbnation-2022/sbnation-2022-08-14T21:29:11.156718-04:00.accessibility.json) |
-| [August 14 at 9:58 AM](https://archive.org/download/sbnation-2022/sbnation-2022-08-14T09:57:57.379053-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 53 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 56 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 19 at 7:59 PM](https://archive.org/download/sbnation-2022/sbnation-2022-08-19T19:58:52.426790-04:00.lighthouse.json) |
+| [August 19 at 10:26 AM](https://archive.org/download/sbnation-2022/sbnation-2022-08-19T10:26:18.329530-04:00.lighthouse.json) |
+| [August 19 at 8:06 AM](https://archive.org/download/sbnation-2022/sbnation-2022-08-19T08:06:33.003931-04:00.lighthouse.json) |
 | [August 18 at 7:59 PM](https://archive.org/download/sbnation-2022/sbnation-2022-08-18T19:59:07.704427-04:00.lighthouse.json) |
 | [August 18 at 8:05 AM](https://archive.org/download/sbnation-2022/sbnation-2022-08-18T08:04:52.725140-04:00.lighthouse.json) |
 | [August 17 at 7:57 PM](https://archive.org/download/sbnation-2022/sbnation-2022-08-17T19:56:54.447157-04:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 16 at 8:12 PM](https://archive.org/download/sbnation-2022/sbnation-2022-08-16T20:12:14.802659-04:00.lighthouse.json) |
 | [August 16 at 10:10 AM](https://archive.org/download/sbnation-2022/sbnation-2022-08-16T10:10:02.445402-04:00.lighthouse.json) |
 | [August 15 at 9:46 PM](https://archive.org/download/sbnation-2022/sbnation-2022-08-15T21:46:00.036070-04:00.lighthouse.json) |
-| [August 15 at 10:29 AM](https://archive.org/download/sbnation-2022/sbnation-2022-08-15T10:28:55.013776-04:00.lighthouse.json) |
-| [August 14 at 9:29 PM](https://archive.org/download/sbnation-2022/sbnation-2022-08-14T21:29:11.156718-04:00.lighthouse.json) |
-| [August 14 at 9:58 AM](https://archive.org/download/sbnation-2022/sbnation-2022-08-14T09:57:57.379053-04:00.lighthouse.json) |
 
 
 

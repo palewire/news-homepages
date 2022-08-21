@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 94 screenshots with the Internet Archive.
+The archiving routine has saved 96 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-08-19T08:20:56.819143-05:00.jpg">
+  <img src="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-08-19T08:20:56.819143-05:00.jpg"
+     alt="Texas Monthly at 2022-08-19 08:20:58-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-08-19T08:20:56.819143-05:00.jpg">August 19 at 8:20 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-08-18T20:21:24.996235-05:00.jpg">
+  <img src="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-08-18T20:21:24.996235-05:00.jpg"
+     alt="Texas Monthly at 2022-08-18 20:21:26-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-08-18T20:21:24.996235-05:00.jpg">August 18 at 8:21 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-08-18T08:01:36.649209-05:00.jpg">
   <img src="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-08-18T08:01:36.649209-05:00.jpg"
      alt="Texas Monthly at 2022-08-18 08:01:41-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-08-14T00:05:34.447766-05:00.jpg">August 14 at 12:05 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-08-13T15:43:25.992341-05:00.jpg">
-  <img src="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-08-13T15:43:25.992341-05:00.jpg"
-     alt="Texas Monthly at 2022-08-13 15:43:31-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-08-13T15:43:25.992341-05:00.jpg">August 13 at 3:43 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-08-12T21:15:35.059081-05:00.jpg">
-  <img src="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-08-12T21:15:35.059081-05:00.jpg"
-     alt="Texas Monthly at 2022-08-12 21:15:36-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/texasmonthly-2022/texasmonthly-2022-08-12T21:15:35.059081-05:00.jpg">August 12 at 9:15 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 94 hyperlink lists with the Internet Archive.
+The archiving routine has saved 96 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 19 at 8:21 AM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-08-19T08:20:56.819143-05:00.hyperlinks.json) |
+| [August 18 at 8:21 PM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-08-18T20:21:24.996235-05:00.hyperlinks.json) |
 | [August 18 at 8:01 AM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-08-18T08:01:36.649209-05:00.hyperlinks.json) |
 | [August 17 at 8:15 PM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-08-17T20:15:14.688800-05:00.hyperlinks.json) |
 | [August 17 at 8:08 AM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-08-17T08:08:44.535172-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 16 at 1:17 AM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-08-16T01:17:35.328471-05:00.hyperlinks.json) |
 | [August 15 at 2:35 PM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-08-15T14:35:41.957857-05:00.hyperlinks.json) |
 | [August 14 at 10:12 PM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-08-14T22:12:33.737991-05:00.hyperlinks.json) |
-| [August 14 at 12:03 PM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-08-14T12:02:56.288242-05:00.hyperlinks.json) |
-| [August 14 at 12:05 AM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-08-14T00:05:34.447766-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 95 accessibility trees with the Internet Archive.
+The archiving routine has saved 97 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 19 at 8:21 AM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-08-19T08:20:56.819143-05:00.accessibility.json) |
+| [August 18 at 8:21 PM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-08-18T20:21:24.996235-05:00.accessibility.json) |
 | [August 18 at 8:01 AM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-08-18T08:01:36.649209-05:00.accessibility.json) |
 | [August 17 at 8:15 PM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-08-17T20:15:14.688800-05:00.accessibility.json) |
 | [August 17 at 8:08 AM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-08-17T08:08:44.535172-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 16 at 1:17 AM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-08-16T01:17:35.328471-05:00.accessibility.json) |
 | [August 15 at 2:35 PM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-08-15T14:35:41.957857-05:00.accessibility.json) |
 | [August 14 at 10:12 PM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-08-14T22:12:33.737991-05:00.accessibility.json) |
-| [August 14 at 12:03 PM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-08-14T12:02:56.288242-05:00.accessibility.json) |
-| [August 14 at 12:05 AM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-08-14T00:05:34.447766-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 55 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 57 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 19 at 8:21 AM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-08-19T08:20:56.819143-05:00.lighthouse.json) |
+| [August 18 at 8:21 PM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-08-18T20:21:24.996235-05:00.lighthouse.json) |
 | [August 18 at 8:01 AM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-08-18T08:01:36.649209-05:00.lighthouse.json) |
 | [August 17 at 8:15 PM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-08-17T20:15:14.688800-05:00.lighthouse.json) |
 | [August 17 at 8:08 AM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-08-17T08:08:44.535172-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 16 at 1:17 AM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-08-16T01:17:35.328471-05:00.lighthouse.json) |
 | [August 15 at 2:35 PM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-08-15T14:35:41.957857-05:00.lighthouse.json) |
 | [August 14 at 10:12 PM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-08-14T22:12:33.737991-05:00.lighthouse.json) |
-| [August 14 at 12:03 PM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-08-14T12:02:56.288242-05:00.lighthouse.json) |
-| [August 14 at 12:05 AM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-08-14T00:05:34.447766-05:00.lighthouse.json) |
 
 
 

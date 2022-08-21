@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 122 screenshots with the Internet Archive.
+The archiving routine has saved 126 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-20T08:52:41.133103+09:00.jpg">
+  <img src="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-20T08:52:41.133103+09:00.jpg"
+     alt="Yomiuri shinbun at 2022-08-20 08:52:45+09:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-20T08:52:41.133103+09:00.jpg">August 20 at 8:52 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-19T23:17:48.516737+09:00.jpg">
+  <img src="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-19T23:17:48.516737+09:00.jpg"
+     alt="Yomiuri shinbun at 2022-08-19 23:17:52+09:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-19T23:17:48.516737+09:00.jpg">August 19 at 11:17 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-19T21:00:09.361967+09:00.jpg">
+  <img src="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-19T21:00:09.361967+09:00.jpg"
+     alt="Yomiuri shinbun at 2022-08-19 21:00:13+09:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-19T21:00:09.361967+09:00.jpg">August 19 at 9:00 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-19T11:18:41.782978+09:00.jpg">
+  <img src="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-19T11:18:41.782978+09:00.jpg"
+     alt="Yomiuri shinbun at 2022-08-19 11:18:43+09:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-19T11:18:41.782978+09:00.jpg">August 19 at 11:18 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-19T08:52:59.934679+09:00.jpg">
   <img src="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-19T08:52:59.934679+09:00.jpg"
      alt="Yomiuri shinbun at 2022-08-19 08:53:04+09:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-16T10:30:48.856048+09:00.jpg">August 16 at 10:30 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-15T23:11:34.494603+09:00.jpg">
-  <img src="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-15T23:11:34.494603+09:00.jpg"
-     alt="Yomiuri shinbun at 2022-08-15 23:11:36+09:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-15T23:11:34.494603+09:00.jpg">August 15 at 11:11 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-15T15:18:28.355974+09:00.jpg">
-  <img src="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-15T15:18:28.355974+09:00.jpg"
-     alt="Yomiuri shinbun at 2022-08-15 15:18:33+09:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-15T15:18:28.355974+09:00.jpg">August 15 at 3:18 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-15T10:15:56.926334+09:00.jpg">
-  <img src="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-15T10:15:56.926334+09:00.jpg"
-     alt="Yomiuri shinbun at 2022-08-15 10:16:01+09:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-15T10:15:56.926334+09:00.jpg">August 15 at 10:16 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-14T22:43:38.953784+09:00.jpg">
-  <img src="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-14T22:43:38.953784+09:00.jpg"
-     alt="Yomiuri shinbun at 2022-08-14 22:43:40+09:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-14T22:43:38.953784+09:00.jpg">August 14 at 10:43 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 119 hyperlink lists with the Internet Archive.
+The archiving routine has saved 123 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 20 at 8:52 AM](https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-20T08:52:41.133103+09:00.hyperlinks.json) |
+| [August 19 at 11:17 PM](https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-19T23:17:48.516737+09:00.hyperlinks.json) |
+| [August 19 at 9:00 PM](https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-19T21:00:09.361967+09:00.hyperlinks.json) |
+| [August 19 at 11:18 AM](https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-19T11:18:41.782978+09:00.hyperlinks.json) |
 | [August 19 at 8:53 AM](https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-19T08:52:59.934679+09:00.hyperlinks.json) |
 | [August 18 at 8:58 PM](https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-18T20:57:55.290409+09:00.hyperlinks.json) |
 | [August 18 at 11:32 AM](https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-18T11:32:14.193034+09:00.hyperlinks.json) |
 | [August 18 at 8:50 AM](https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-18T08:50:34.706877+09:00.hyperlinks.json) |
 | [August 17 at 8:49 PM](https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-17T20:48:59.375209+09:00.hyperlinks.json) |
 | [August 17 at 9:04 AM](https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-17T09:03:52.760026+09:00.hyperlinks.json) |
-| [August 16 at 10:55 PM](https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-16T22:55:05.980753+09:00.hyperlinks.json) |
-| [August 16 at 10:30 AM](https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-16T10:30:48.856048+09:00.hyperlinks.json) |
-| [August 15 at 11:11 PM](https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-15T23:11:34.494603+09:00.hyperlinks.json) |
-| [August 15 at 3:18 PM](https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-15T15:18:28.355974+09:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 120 accessibility trees with the Internet Archive.
+The archiving routine has saved 124 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 20 at 8:52 AM](https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-20T08:52:41.133103+09:00.accessibility.json) |
+| [August 19 at 11:17 PM](https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-19T23:17:48.516737+09:00.accessibility.json) |
+| [August 19 at 9:00 PM](https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-19T21:00:09.361967+09:00.accessibility.json) |
+| [August 19 at 11:18 AM](https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-19T11:18:41.782978+09:00.accessibility.json) |
 | [August 19 at 8:53 AM](https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-19T08:52:59.934679+09:00.accessibility.json) |
 | [August 18 at 8:58 PM](https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-18T20:57:55.290409+09:00.accessibility.json) |
 | [August 18 at 11:32 AM](https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-18T11:32:14.193034+09:00.accessibility.json) |
 | [August 18 at 8:50 AM](https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-18T08:50:34.706877+09:00.accessibility.json) |
 | [August 17 at 8:49 PM](https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-17T20:48:59.375209+09:00.accessibility.json) |
 | [August 17 at 9:04 AM](https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-17T09:03:52.760026+09:00.accessibility.json) |
-| [August 16 at 10:55 PM](https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-16T22:55:05.980753+09:00.accessibility.json) |
-| [August 16 at 10:30 AM](https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-16T10:30:48.856048+09:00.accessibility.json) |
-| [August 15 at 11:11 PM](https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-15T23:11:34.494603+09:00.accessibility.json) |
-| [August 15 at 3:18 PM](https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-15T15:18:28.355974+09:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 76 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 80 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 20 at 8:52 AM](https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-20T08:52:41.133103+09:00.lighthouse.json) |
+| [August 19 at 11:17 PM](https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-19T23:17:48.516737+09:00.lighthouse.json) |
+| [August 19 at 9:00 PM](https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-19T21:00:09.361967+09:00.lighthouse.json) |
+| [August 19 at 11:18 AM](https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-19T11:18:41.782978+09:00.lighthouse.json) |
 | [August 19 at 8:53 AM](https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-19T08:52:59.934679+09:00.lighthouse.json) |
 | [August 18 at 8:58 PM](https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-18T20:57:55.290409+09:00.lighthouse.json) |
 | [August 18 at 11:32 AM](https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-18T11:32:14.193034+09:00.lighthouse.json) |
 | [August 18 at 8:50 AM](https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-18T08:50:34.706877+09:00.lighthouse.json) |
 | [August 17 at 8:49 PM](https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-17T20:48:59.375209+09:00.lighthouse.json) |
 | [August 17 at 9:04 AM](https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-17T09:03:52.760026+09:00.lighthouse.json) |
-| [August 16 at 10:55 PM](https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-16T22:55:05.980753+09:00.lighthouse.json) |
-| [August 16 at 10:31 AM](https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-16T10:30:48.856048+09:00.lighthouse.json) |
-| [August 15 at 11:11 PM](https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-15T23:11:34.494603+09:00.lighthouse.json) |
-| [August 15 at 3:18 PM](https://archive.org/download/jn_japanese-2022/jn_japanese-2022-08-15T15:18:28.355974+09:00.lighthouse.json) |
 
 
 

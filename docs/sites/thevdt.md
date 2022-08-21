@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 61 screenshots with the Internet Archive.
+The archiving routine has saved 63 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/thevdt-2022/thevdt-2022-08-19T09:23:21.382326-04:00.jpg">
+  <img src="https://archive.org/download/thevdt-2022/thevdt-2022-08-19T09:23:21.382326-04:00.jpg"
+     alt="Valdosta Daily Times at 2022-08-19 09:23:25-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thevdt-2022/thevdt-2022-08-19T09:23:21.382326-04:00.jpg">August 19 at 9:23 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thevdt-2022/thevdt-2022-08-18T21:22:20.014329-04:00.jpg">
+  <img src="https://archive.org/download/thevdt-2022/thevdt-2022-08-18T21:22:20.014329-04:00.jpg"
+     alt="Valdosta Daily Times at 2022-08-18 21:22:21-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thevdt-2022/thevdt-2022-08-18T21:22:20.014329-04:00.jpg">August 18 at 9:22 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/thevdt-2022/thevdt-2022-08-18T09:02:26.424985-04:00.jpg">
   <img src="https://archive.org/download/thevdt-2022/thevdt-2022-08-18T09:02:26.424985-04:00.jpg"
      alt="Valdosta Daily Times at 2022-08-18 09:02:30-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thevdt-2022/thevdt-2022-08-14T01:09:03.968704-04:00.jpg">August 14 at 1:09 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thevdt-2022/thevdt-2022-08-13T16:46:38.782216-04:00.jpg">
-  <img src="https://archive.org/download/thevdt-2022/thevdt-2022-08-13T16:46:38.782216-04:00.jpg"
-     alt="Valdosta Daily Times at 2022-08-13 16:46:40-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thevdt-2022/thevdt-2022-08-13T16:46:38.782216-04:00.jpg">August 13 at 4:46 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thevdt-2022/thevdt-2022-08-12T22:17:34.440898-04:00.jpg">
-  <img src="https://archive.org/download/thevdt-2022/thevdt-2022-08-12T22:17:34.440898-04:00.jpg"
-     alt="Valdosta Daily Times at 2022-08-12 22:17:35-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thevdt-2022/thevdt-2022-08-12T22:17:34.440898-04:00.jpg">August 12 at 10:17 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 45 hyperlink lists with the Internet Archive.
+The archiving routine has saved 46 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 18 at 9:22 PM](https://archive.org/download/thevdt-2022/thevdt-2022-08-18T21:22:20.014329-04:00.hyperlinks.json) |
 | [August 18 at 9:02 AM](https://archive.org/download/thevdt-2022/thevdt-2022-08-18T09:02:26.424985-04:00.hyperlinks.json) |
 | [August 17 at 9:16 PM](https://archive.org/download/thevdt-2022/thevdt-2022-08-17T21:16:39.555627-04:00.hyperlinks.json) |
 | [August 16 at 9:22 PM](https://archive.org/download/thevdt-2022/thevdt-2022-08-16T21:22:33.283622-04:00.hyperlinks.json) |
@@ -537,7 +538,6 @@ Here are the 10 most recent hyperlink lists.
 | [August 14 at 11:16 PM](https://archive.org/download/thevdt-2022/thevdt-2022-08-14T23:16:16.924483-04:00.hyperlinks.json) |
 | [August 12 at 12:25 PM](https://archive.org/download/thevdt-2022/thevdt-2022-08-12T12:25:35.934734-04:00.hyperlinks.json) |
 | [August 12 at 5:36 AM](https://archive.org/download/thevdt-2022/thevdt-2022-08-12T05:36:04.884427-04:00.hyperlinks.json) |
-| [August 11 at 1:09 PM](https://archive.org/download/thevdt-2022/thevdt-2022-08-11T13:09:18.366149-04:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -648,7 +648,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 55 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 57 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 19 at 9:23 AM](https://archive.org/download/thevdt-2022/thevdt-2022-08-19T09:23:21.382326-04:00.lighthouse.json) |
+| [August 18 at 9:22 PM](https://archive.org/download/thevdt-2022/thevdt-2022-08-18T21:22:20.014329-04:00.lighthouse.json) |
 | [August 18 at 9:02 AM](https://archive.org/download/thevdt-2022/thevdt-2022-08-18T09:02:26.424985-04:00.lighthouse.json) |
 | [August 17 at 9:16 PM](https://archive.org/download/thevdt-2022/thevdt-2022-08-17T21:16:39.555627-04:00.lighthouse.json) |
 | [August 17 at 9:10 AM](https://archive.org/download/thevdt-2022/thevdt-2022-08-17T09:10:18.413838-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 16 at 2:20 AM](https://archive.org/download/thevdt-2022/thevdt-2022-08-16T02:20:32.454283-04:00.lighthouse.json) |
 | [August 15 at 3:38 PM](https://archive.org/download/thevdt-2022/thevdt-2022-08-15T15:38:51.799961-04:00.lighthouse.json) |
 | [August 14 at 11:16 PM](https://archive.org/download/thevdt-2022/thevdt-2022-08-14T23:16:16.924483-04:00.lighthouse.json) |
-| [August 14 at 1:05 PM](https://archive.org/download/thevdt-2022/thevdt-2022-08-14T13:05:45.530106-04:00.lighthouse.json) |
-| [August 14 at 1:09 AM](https://archive.org/download/thevdt-2022/thevdt-2022-08-14T01:09:03.968704-04:00.lighthouse.json) |
 
 
 

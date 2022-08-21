@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 95 screenshots with the Internet Archive.
+The archiving routine has saved 99 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/powerlineus-2022/powerlineus-2022-08-19T14:30:40.374465-04:00.jpg">
+  <img src="https://archive.org/download/powerlineus-2022/powerlineus-2022-08-19T14:30:40.374465-04:00.jpg"
+     alt="Power Line at 2022-08-19 14:30:42-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/powerlineus-2022/powerlineus-2022-08-19T14:30:40.374465-04:00.jpg">August 19 at 2:30 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/powerlineus-2022/powerlineus-2022-08-19T11:29:38.121471-04:00.jpg">
+  <img src="https://archive.org/download/powerlineus-2022/powerlineus-2022-08-19T11:29:38.121471-04:00.jpg"
+     alt="Power Line at 2022-08-19 11:29:39-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/powerlineus-2022/powerlineus-2022-08-19T11:29:38.121471-04:00.jpg">August 19 at 11:29 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/powerlineus-2022/powerlineus-2022-08-19T08:09:39.164521-04:00.jpg">
+  <img src="https://archive.org/download/powerlineus-2022/powerlineus-2022-08-19T08:09:39.164521-04:00.jpg"
+     alt="Power Line at 2022-08-19 08:09:40-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/powerlineus-2022/powerlineus-2022-08-19T08:09:39.164521-04:00.jpg">August 19 at 8:09 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/powerlineus-2022/powerlineus-2022-08-18T23:39:05.852760-04:00.jpg">
+  <img src="https://archive.org/download/powerlineus-2022/powerlineus-2022-08-18T23:39:05.852760-04:00.jpg"
+     alt="Power Line at 2022-08-18 23:39:07-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/powerlineus-2022/powerlineus-2022-08-18T23:39:05.852760-04:00.jpg">August 18 at 11:39 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/powerlineus-2022/powerlineus-2022-08-18T14:31:14.452943-04:00.jpg">
   <img src="https://archive.org/download/powerlineus-2022/powerlineus-2022-08-18T14:31:14.452943-04:00.jpg"
      alt="Power Line at 2022-08-18 14:31:16-04:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/powerlineus-2022/powerlineus-2022-08-16T02:47:19.720332-04:00.jpg">August 16 at 2:47 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/powerlineus-2022/powerlineus-2022-08-15T16:56:27.931909-04:00.jpg">
-  <img src="https://archive.org/download/powerlineus-2022/powerlineus-2022-08-15T16:56:27.931909-04:00.jpg"
-     alt="Power Line at 2022-08-15 16:56:29-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/powerlineus-2022/powerlineus-2022-08-15T16:56:27.931909-04:00.jpg">August 15 at 4:56 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/powerlineus-2022/powerlineus-2022-08-15T16:08:33.358434-04:00.jpg">
-  <img src="https://archive.org/download/powerlineus-2022/powerlineus-2022-08-15T16:08:33.358434-04:00.jpg"
-     alt="Power Line at 2022-08-15 16:08:34-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/powerlineus-2022/powerlineus-2022-08-15T16:08:33.358434-04:00.jpg">August 15 at 4:08 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/powerlineus-2022/powerlineus-2022-08-15T02:39:33.670501-04:00.jpg">
-  <img src="https://archive.org/download/powerlineus-2022/powerlineus-2022-08-15T02:39:33.670501-04:00.jpg"
-     alt="Power Line at 2022-08-15 02:39:37-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/powerlineus-2022/powerlineus-2022-08-15T02:39:33.670501-04:00.jpg">August 15 at 2:39 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/powerlineus-2022/powerlineus-2022-08-14T15:49:07.912083-04:00.jpg">
-  <img src="https://archive.org/download/powerlineus-2022/powerlineus-2022-08-14T15:49:07.912083-04:00.jpg"
-     alt="Power Line at 2022-08-14 15:49:09-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/powerlineus-2022/powerlineus-2022-08-14T15:49:07.912083-04:00.jpg">August 14 at 3:49 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 94 hyperlink lists with the Internet Archive.
+The archiving routine has saved 98 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 19 at 2:30 PM](https://archive.org/download/powerlineus-2022/powerlineus-2022-08-19T14:30:40.374465-04:00.hyperlinks.json) |
+| [August 19 at 11:29 AM](https://archive.org/download/powerlineus-2022/powerlineus-2022-08-19T11:29:38.121471-04:00.hyperlinks.json) |
+| [August 19 at 8:09 AM](https://archive.org/download/powerlineus-2022/powerlineus-2022-08-19T08:09:39.164521-04:00.hyperlinks.json) |
+| [August 18 at 11:39 PM](https://archive.org/download/powerlineus-2022/powerlineus-2022-08-18T23:39:05.852760-04:00.hyperlinks.json) |
 | [August 18 at 2:31 PM](https://archive.org/download/powerlineus-2022/powerlineus-2022-08-18T14:31:14.452943-04:00.hyperlinks.json) |
 | [August 18 at 11:24 AM](https://archive.org/download/powerlineus-2022/powerlineus-2022-08-18T11:24:42.391026-04:00.hyperlinks.json) |
 | [August 17 at 11:42 PM](https://archive.org/download/powerlineus-2022/powerlineus-2022-08-17T23:42:48.866542-04:00.hyperlinks.json) |
 | [August 17 at 2:31 PM](https://archive.org/download/powerlineus-2022/powerlineus-2022-08-17T14:31:25.238258-04:00.hyperlinks.json) |
 | [August 17 at 11:09 AM](https://archive.org/download/powerlineus-2022/powerlineus-2022-08-17T11:08:53.206115-04:00.hyperlinks.json) |
 | [August 16 at 11:41 PM](https://archive.org/download/powerlineus-2022/powerlineus-2022-08-16T23:41:21.527084-04:00.hyperlinks.json) |
-| [August 16 at 2:42 PM](https://archive.org/download/powerlineus-2022/powerlineus-2022-08-16T14:42:01.818965-04:00.hyperlinks.json) |
-| [August 16 at 2:47 AM](https://archive.org/download/powerlineus-2022/powerlineus-2022-08-16T02:47:19.720332-04:00.hyperlinks.json) |
-| [August 15 at 4:56 PM](https://archive.org/download/powerlineus-2022/powerlineus-2022-08-15T16:56:27.931909-04:00.hyperlinks.json) |
-| [August 15 at 4:08 PM](https://archive.org/download/powerlineus-2022/powerlineus-2022-08-15T16:08:33.358434-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 94 accessibility trees with the Internet Archive.
+The archiving routine has saved 98 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 19 at 2:30 PM](https://archive.org/download/powerlineus-2022/powerlineus-2022-08-19T14:30:40.374465-04:00.accessibility.json) |
+| [August 19 at 11:29 AM](https://archive.org/download/powerlineus-2022/powerlineus-2022-08-19T11:29:38.121471-04:00.accessibility.json) |
+| [August 19 at 8:09 AM](https://archive.org/download/powerlineus-2022/powerlineus-2022-08-19T08:09:39.164521-04:00.accessibility.json) |
+| [August 18 at 11:39 PM](https://archive.org/download/powerlineus-2022/powerlineus-2022-08-18T23:39:05.852760-04:00.accessibility.json) |
 | [August 18 at 2:31 PM](https://archive.org/download/powerlineus-2022/powerlineus-2022-08-18T14:31:14.452943-04:00.accessibility.json) |
 | [August 18 at 11:24 AM](https://archive.org/download/powerlineus-2022/powerlineus-2022-08-18T11:24:42.391026-04:00.accessibility.json) |
 | [August 17 at 11:42 PM](https://archive.org/download/powerlineus-2022/powerlineus-2022-08-17T23:42:48.866542-04:00.accessibility.json) |
 | [August 17 at 2:31 PM](https://archive.org/download/powerlineus-2022/powerlineus-2022-08-17T14:31:25.238258-04:00.accessibility.json) |
 | [August 17 at 11:08 AM](https://archive.org/download/powerlineus-2022/powerlineus-2022-08-17T11:08:53.206115-04:00.accessibility.json) |
 | [August 16 at 11:41 PM](https://archive.org/download/powerlineus-2022/powerlineus-2022-08-16T23:41:21.527084-04:00.accessibility.json) |
-| [August 16 at 2:42 PM](https://archive.org/download/powerlineus-2022/powerlineus-2022-08-16T14:42:01.818965-04:00.accessibility.json) |
-| [August 16 at 2:47 AM](https://archive.org/download/powerlineus-2022/powerlineus-2022-08-16T02:47:19.720332-04:00.accessibility.json) |
-| [August 15 at 4:56 PM](https://archive.org/download/powerlineus-2022/powerlineus-2022-08-15T16:56:27.931909-04:00.accessibility.json) |
-| [August 15 at 4:08 PM](https://archive.org/download/powerlineus-2022/powerlineus-2022-08-15T16:08:33.358434-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 77 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 81 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 19 at 2:30 PM](https://archive.org/download/powerlineus-2022/powerlineus-2022-08-19T14:30:40.374465-04:00.lighthouse.json) |
+| [August 19 at 11:29 AM](https://archive.org/download/powerlineus-2022/powerlineus-2022-08-19T11:29:38.121471-04:00.lighthouse.json) |
+| [August 19 at 8:09 AM](https://archive.org/download/powerlineus-2022/powerlineus-2022-08-19T08:09:39.164521-04:00.lighthouse.json) |
+| [August 18 at 11:39 PM](https://archive.org/download/powerlineus-2022/powerlineus-2022-08-18T23:39:05.852760-04:00.lighthouse.json) |
 | [August 18 at 2:31 PM](https://archive.org/download/powerlineus-2022/powerlineus-2022-08-18T14:31:14.452943-04:00.lighthouse.json) |
 | [August 18 at 11:24 AM](https://archive.org/download/powerlineus-2022/powerlineus-2022-08-18T11:24:42.391026-04:00.lighthouse.json) |
 | [August 17 at 11:42 PM](https://archive.org/download/powerlineus-2022/powerlineus-2022-08-17T23:42:48.866542-04:00.lighthouse.json) |
 | [August 17 at 2:31 PM](https://archive.org/download/powerlineus-2022/powerlineus-2022-08-17T14:31:25.238258-04:00.lighthouse.json) |
 | [August 17 at 11:09 AM](https://archive.org/download/powerlineus-2022/powerlineus-2022-08-17T11:08:53.206115-04:00.lighthouse.json) |
 | [August 16 at 11:41 PM](https://archive.org/download/powerlineus-2022/powerlineus-2022-08-16T23:41:21.527084-04:00.lighthouse.json) |
-| [August 16 at 2:42 PM](https://archive.org/download/powerlineus-2022/powerlineus-2022-08-16T14:42:01.818965-04:00.lighthouse.json) |
-| [August 16 at 2:47 AM](https://archive.org/download/powerlineus-2022/powerlineus-2022-08-16T02:47:19.720332-04:00.lighthouse.json) |
-| [August 15 at 4:56 PM](https://archive.org/download/powerlineus-2022/powerlineus-2022-08-15T16:56:27.931909-04:00.lighthouse.json) |
-| [August 15 at 4:08 PM](https://archive.org/download/powerlineus-2022/powerlineus-2022-08-15T16:08:33.358434-04:00.lighthouse.json) |
 
 
 

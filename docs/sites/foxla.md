@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 356 screenshots with the Internet Archive.
+The archiving routine has saved 359 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/foxla-2022/foxla-2022-08-19T16:03:56.530121-07:00.jpg">
+  <img src="https://archive.org/download/foxla-2022/foxla-2022-08-19T16:03:56.530121-07:00.jpg"
+     alt="FOX 11 Los Angeles at 2022-08-19 16:03:58-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/foxla-2022/foxla-2022-08-19T16:03:56.530121-07:00.jpg">August 19 at 4:03 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/foxla-2022/foxla-2022-08-19T11:37:11.194497-07:00.jpg">
+  <img src="https://archive.org/download/foxla-2022/foxla-2022-08-19T11:37:11.194497-07:00.jpg"
+     alt="FOX 11 Los Angeles at 2022-08-19 11:37:13-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/foxla-2022/foxla-2022-08-19T11:37:11.194497-07:00.jpg">August 19 at 11:37 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/foxla-2022/foxla-2022-08-19T04:01:06.360321-07:00.jpg">
+  <img src="https://archive.org/download/foxla-2022/foxla-2022-08-19T04:01:06.360321-07:00.jpg"
+     alt="FOX 11 Los Angeles at 2022-08-19 04:01:08-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/foxla-2022/foxla-2022-08-19T04:01:06.360321-07:00.jpg">August 19 at 4:01 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/foxla-2022/foxla-2022-08-18T16:03:55.044747-07:00.jpg">
   <img src="https://archive.org/download/foxla-2022/foxla-2022-08-18T16:03:55.044747-07:00.jpg"
      alt="FOX 11 Los Angeles at 2022-08-18 16:03:56-07:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/foxla-2022/foxla-2022-08-15T18:25:22.019900-07:00.jpg">August 15 at 6:25 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/foxla-2022/foxla-2022-08-15T06:59:38.198157-07:00.jpg">
-  <img src="https://archive.org/download/foxla-2022/foxla-2022-08-15T06:59:38.198157-07:00.jpg"
-     alt="FOX 11 Los Angeles at 2022-08-15 06:59:40-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/foxla-2022/foxla-2022-08-15T06:59:38.198157-07:00.jpg">August 15 at 6:59 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/foxla-2022/foxla-2022-08-14T18:10:38.950051-07:00.jpg">
-  <img src="https://archive.org/download/foxla-2022/foxla-2022-08-14T18:10:38.950051-07:00.jpg"
-     alt="FOX 11 Los Angeles at 2022-08-14 18:10:41-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/foxla-2022/foxla-2022-08-14T18:10:38.950051-07:00.jpg">August 14 at 6:10 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/foxla-2022/foxla-2022-08-14T12:49:26.521930-07:00.jpg">
-  <img src="https://archive.org/download/foxla-2022/foxla-2022-08-14T12:49:26.521930-07:00.jpg"
-     alt="FOX 11 Los Angeles at 2022-08-14 12:49:28-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/foxla-2022/foxla-2022-08-14T12:49:26.521930-07:00.jpg">August 14 at 12:49 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 339 hyperlink lists with the Internet Archive.
+The archiving routine has saved 342 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 19 at 4:04 PM](https://archive.org/download/foxla-2022/foxla-2022-08-19T16:03:56.530121-07:00.hyperlinks.json) |
+| [August 19 at 11:37 AM](https://archive.org/download/foxla-2022/foxla-2022-08-19T11:37:11.194497-07:00.hyperlinks.json) |
+| [August 19 at 4:01 AM](https://archive.org/download/foxla-2022/foxla-2022-08-19T04:01:06.360321-07:00.hyperlinks.json) |
 | [August 18 at 4:04 PM](https://archive.org/download/foxla-2022/foxla-2022-08-18T16:03:55.044747-07:00.hyperlinks.json) |
 | [August 18 at 11:27 AM](https://archive.org/download/foxla-2022/foxla-2022-08-18T11:27:26.110847-07:00.hyperlinks.json) |
 | [August 18 at 3:59 AM](https://archive.org/download/foxla-2022/foxla-2022-08-18T03:59:12.390420-07:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 17 at 11:37 AM](https://archive.org/download/foxla-2022/foxla-2022-08-17T11:37:40.927593-07:00.hyperlinks.json) |
 | [August 17 at 3:58 AM](https://archive.org/download/foxla-2022/foxla-2022-08-17T03:58:47.717800-07:00.hyperlinks.json) |
 | [August 16 at 4:06 PM](https://archive.org/download/foxla-2022/foxla-2022-08-16T16:06:08.657779-07:00.hyperlinks.json) |
-| [August 16 at 6:38 AM](https://archive.org/download/foxla-2022/foxla-2022-08-16T06:38:39.894039-07:00.hyperlinks.json) |
-| [August 15 at 6:25 PM](https://archive.org/download/foxla-2022/foxla-2022-08-15T18:25:22.019900-07:00.hyperlinks.json) |
-| [August 15 at 6:59 AM](https://archive.org/download/foxla-2022/foxla-2022-08-15T06:59:38.198157-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 342 accessibility trees with the Internet Archive.
+The archiving routine has saved 345 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 19 at 4:04 PM](https://archive.org/download/foxla-2022/foxla-2022-08-19T16:03:56.530121-07:00.accessibility.json) |
+| [August 19 at 11:37 AM](https://archive.org/download/foxla-2022/foxla-2022-08-19T11:37:11.194497-07:00.accessibility.json) |
+| [August 19 at 4:01 AM](https://archive.org/download/foxla-2022/foxla-2022-08-19T04:01:06.360321-07:00.accessibility.json) |
 | [August 18 at 4:04 PM](https://archive.org/download/foxla-2022/foxla-2022-08-18T16:03:55.044747-07:00.accessibility.json) |
 | [August 18 at 11:27 AM](https://archive.org/download/foxla-2022/foxla-2022-08-18T11:27:26.110847-07:00.accessibility.json) |
 | [August 18 at 3:59 AM](https://archive.org/download/foxla-2022/foxla-2022-08-18T03:59:12.390420-07:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 17 at 11:37 AM](https://archive.org/download/foxla-2022/foxla-2022-08-17T11:37:40.927593-07:00.accessibility.json) |
 | [August 17 at 3:58 AM](https://archive.org/download/foxla-2022/foxla-2022-08-17T03:58:47.717800-07:00.accessibility.json) |
 | [August 16 at 4:06 PM](https://archive.org/download/foxla-2022/foxla-2022-08-16T16:06:08.657779-07:00.accessibility.json) |
-| [August 16 at 6:38 AM](https://archive.org/download/foxla-2022/foxla-2022-08-16T06:38:39.894039-07:00.accessibility.json) |
-| [August 15 at 6:25 PM](https://archive.org/download/foxla-2022/foxla-2022-08-15T18:25:22.019900-07:00.accessibility.json) |
-| [August 15 at 6:59 AM](https://archive.org/download/foxla-2022/foxla-2022-08-15T06:59:38.198157-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 75 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 78 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 19 at 4:04 PM](https://archive.org/download/foxla-2022/foxla-2022-08-19T16:03:56.530121-07:00.lighthouse.json) |
+| [August 19 at 11:37 AM](https://archive.org/download/foxla-2022/foxla-2022-08-19T11:37:11.194497-07:00.lighthouse.json) |
+| [August 19 at 4:01 AM](https://archive.org/download/foxla-2022/foxla-2022-08-19T04:01:06.360321-07:00.lighthouse.json) |
 | [August 18 at 4:04 PM](https://archive.org/download/foxla-2022/foxla-2022-08-18T16:03:55.044747-07:00.lighthouse.json) |
 | [August 18 at 11:27 AM](https://archive.org/download/foxla-2022/foxla-2022-08-18T11:27:26.110847-07:00.lighthouse.json) |
 | [August 18 at 3:59 AM](https://archive.org/download/foxla-2022/foxla-2022-08-18T03:59:12.390420-07:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 17 at 11:37 AM](https://archive.org/download/foxla-2022/foxla-2022-08-17T11:37:40.927593-07:00.lighthouse.json) |
 | [August 17 at 3:58 AM](https://archive.org/download/foxla-2022/foxla-2022-08-17T03:58:47.717800-07:00.lighthouse.json) |
 | [August 16 at 4:06 PM](https://archive.org/download/foxla-2022/foxla-2022-08-16T16:06:08.657779-07:00.lighthouse.json) |
-| [August 16 at 6:38 AM](https://archive.org/download/foxla-2022/foxla-2022-08-16T06:38:39.894039-07:00.lighthouse.json) |
-| [August 15 at 6:25 PM](https://archive.org/download/foxla-2022/foxla-2022-08-15T18:25:22.019900-07:00.lighthouse.json) |
-| [August 15 at 6:59 AM](https://archive.org/download/foxla-2022/foxla-2022-08-15T06:59:38.198157-07:00.lighthouse.json) |
 
 
 

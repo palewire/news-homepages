@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 91 screenshots with the Internet Archive.
+The archiving routine has saved 93 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/mlnow-2022/mlnow-2022-08-19T07:36:23.564122-07:00.jpg">
+  <img src="https://archive.org/download/mlnow-2022/mlnow-2022-08-19T07:36:23.564122-07:00.jpg"
+     alt="Mission Local at 2022-08-19 07:36:32-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mlnow-2022/mlnow-2022-08-19T07:36:23.564122-07:00.jpg">August 19 at 7:36 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mlnow-2022/mlnow-2022-08-18T19:34:49.431111-07:00.jpg">
+  <img src="https://archive.org/download/mlnow-2022/mlnow-2022-08-18T19:34:49.431111-07:00.jpg"
+     alt="Mission Local at 2022-08-18 19:34:52-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mlnow-2022/mlnow-2022-08-18T19:34:49.431111-07:00.jpg">August 18 at 7:34 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/mlnow-2022/mlnow-2022-08-18T07:12:23.376960-07:00.jpg">
   <img src="https://archive.org/download/mlnow-2022/mlnow-2022-08-18T07:12:23.376960-07:00.jpg"
      alt="Mission Local at 2022-08-18 07:12:26-07:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/mlnow-2022/mlnow-2022-08-13T23:54:22.229869-07:00.jpg">August 13 at 11:54 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/mlnow-2022/mlnow-2022-08-13T13:32:02.093792-07:00.jpg">
-  <img src="https://archive.org/download/mlnow-2022/mlnow-2022-08-13T13:32:02.093792-07:00.jpg"
-     alt="Mission Local at 2022-08-13 13:32:05-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mlnow-2022/mlnow-2022-08-13T13:32:02.093792-07:00.jpg">August 13 at 1:32 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mlnow-2022/mlnow-2022-08-12T20:49:07.973292-07:00.jpg">
-  <img src="https://archive.org/download/mlnow-2022/mlnow-2022-08-12T20:49:07.973292-07:00.jpg"
-     alt="Mission Local at 2022-08-12 20:49:11-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mlnow-2022/mlnow-2022-08-12T20:49:07.973292-07:00.jpg">August 12 at 8:49 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 91 hyperlink lists with the Internet Archive.
+The archiving routine has saved 93 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 19 at 7:36 AM](https://archive.org/download/mlnow-2022/mlnow-2022-08-19T07:36:23.564122-07:00.hyperlinks.json) |
+| [August 18 at 7:34 PM](https://archive.org/download/mlnow-2022/mlnow-2022-08-18T19:34:49.431111-07:00.hyperlinks.json) |
 | [August 18 at 7:12 AM](https://archive.org/download/mlnow-2022/mlnow-2022-08-18T07:12:23.376960-07:00.hyperlinks.json) |
 | [August 17 at 7:31 PM](https://archive.org/download/mlnow-2022/mlnow-2022-08-17T19:31:50.266376-07:00.hyperlinks.json) |
 | [August 17 at 8:06 AM](https://archive.org/download/mlnow-2022/mlnow-2022-08-17T08:05:56.353850-07:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 15 at 11:41 PM](https://archive.org/download/mlnow-2022/mlnow-2022-08-15T23:41:35.280616-07:00.hyperlinks.json) |
 | [August 15 at 1:00 PM](https://archive.org/download/mlnow-2022/mlnow-2022-08-15T13:00:29.305392-07:00.hyperlinks.json) |
 | [August 14 at 11:33 PM](https://archive.org/download/mlnow-2022/mlnow-2022-08-14T23:33:47.544801-07:00.hyperlinks.json) |
-| [August 14 at 10:26 AM](https://archive.org/download/mlnow-2022/mlnow-2022-08-14T10:26:40.622941-07:00.hyperlinks.json) |
-| [August 13 at 11:54 PM](https://archive.org/download/mlnow-2022/mlnow-2022-08-13T23:54:22.229869-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 91 accessibility trees with the Internet Archive.
+The archiving routine has saved 93 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 19 at 7:36 AM](https://archive.org/download/mlnow-2022/mlnow-2022-08-19T07:36:23.564122-07:00.accessibility.json) |
+| [August 18 at 7:34 PM](https://archive.org/download/mlnow-2022/mlnow-2022-08-18T19:34:49.431111-07:00.accessibility.json) |
 | [August 18 at 7:12 AM](https://archive.org/download/mlnow-2022/mlnow-2022-08-18T07:12:23.376960-07:00.accessibility.json) |
 | [August 17 at 7:31 PM](https://archive.org/download/mlnow-2022/mlnow-2022-08-17T19:31:50.266376-07:00.accessibility.json) |
 | [August 17 at 8:06 AM](https://archive.org/download/mlnow-2022/mlnow-2022-08-17T08:05:56.353850-07:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 15 at 11:41 PM](https://archive.org/download/mlnow-2022/mlnow-2022-08-15T23:41:35.280616-07:00.accessibility.json) |
 | [August 15 at 1:00 PM](https://archive.org/download/mlnow-2022/mlnow-2022-08-15T13:00:29.305392-07:00.accessibility.json) |
 | [August 14 at 11:33 PM](https://archive.org/download/mlnow-2022/mlnow-2022-08-14T23:33:47.544801-07:00.accessibility.json) |
-| [August 14 at 10:26 AM](https://archive.org/download/mlnow-2022/mlnow-2022-08-14T10:26:40.622941-07:00.accessibility.json) |
-| [August 13 at 11:54 PM](https://archive.org/download/mlnow-2022/mlnow-2022-08-13T23:54:22.229869-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 52 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 54 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 19 at 7:36 AM](https://archive.org/download/mlnow-2022/mlnow-2022-08-19T07:36:23.564122-07:00.lighthouse.json) |
+| [August 18 at 7:34 PM](https://archive.org/download/mlnow-2022/mlnow-2022-08-18T19:34:49.431111-07:00.lighthouse.json) |
 | [August 18 at 7:12 AM](https://archive.org/download/mlnow-2022/mlnow-2022-08-18T07:12:23.376960-07:00.lighthouse.json) |
 | [August 17 at 7:31 PM](https://archive.org/download/mlnow-2022/mlnow-2022-08-17T19:31:50.266376-07:00.lighthouse.json) |
 | [August 17 at 8:06 AM](https://archive.org/download/mlnow-2022/mlnow-2022-08-17T08:05:56.353850-07:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 15 at 11:41 PM](https://archive.org/download/mlnow-2022/mlnow-2022-08-15T23:41:35.280616-07:00.lighthouse.json) |
 | [August 15 at 1:00 PM](https://archive.org/download/mlnow-2022/mlnow-2022-08-15T13:00:29.305392-07:00.lighthouse.json) |
 | [August 14 at 11:33 PM](https://archive.org/download/mlnow-2022/mlnow-2022-08-14T23:33:47.544801-07:00.lighthouse.json) |
-| [August 14 at 10:26 AM](https://archive.org/download/mlnow-2022/mlnow-2022-08-14T10:26:40.622941-07:00.lighthouse.json) |
-| [August 13 at 11:54 PM](https://archive.org/download/mlnow-2022/mlnow-2022-08-13T23:54:22.229869-07:00.lighthouse.json) |
 
 
 

@@ -28,13 +28,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 11 screenshots with the Internet Archive.
+The archiving routine has saved 13 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-20T02:04:21.798615+03:00.jpg">
+  <img src="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-20T02:04:21.798615+03:00.jpg"
+     alt="Haaretz at 2022-08-20 02:04:24+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-20T02:04:21.798615+03:00.jpg">August 20 at 2:04 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-19T14:02:41.187553+03:00.jpg">
+  <img src="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-19T14:02:41.187553+03:00.jpg"
+     alt="Haaretz at 2022-08-19 14:02:48+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-19T14:02:41.187553+03:00.jpg">August 19 at 2:02 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-19T02:04:23.470288+03:00.jpg">
@@ -126,20 +144,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-14T16:34:53.313162+03:00.jpg">August 14 at 4:34 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-14T02:57:42.091637+03:00.jpg">
-  <img src="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-14T02:57:42.091637+03:00.jpg"
-     alt="Haaretz at 2022-08-14 02:57:47+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-14T02:57:42.091637+03:00.jpg">August 14 at 2:57 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 10 hyperlink lists with the Internet Archive.
+The archiving routine has saved 12 hyperlink lists with the Internet Archive.
 
 
 
@@ -147,6 +156,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 20 at 2:04 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-20T02:04:21.798615+03:00.hyperlinks.json) |
+| [August 19 at 2:02 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-19T14:02:41.187553+03:00.hyperlinks.json) |
 | [August 19 at 2:04 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-19T02:04:23.470288+03:00.hyperlinks.json) |
 | [August 18 at 2:00 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-18T14:00:02.379256+03:00.hyperlinks.json) |
 | [August 18 at 2:02 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-18T02:02:53.571310+03:00.hyperlinks.json) |
@@ -155,13 +166,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 16 at 4:40 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-16T16:40:05.028884+03:00.hyperlinks.json) |
 | [August 16 at 4:26 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-16T04:26:34.849650+03:00.hyperlinks.json) |
 | [August 15 at 5:01 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-15T17:01:05.702759+03:00.hyperlinks.json) |
-| [August 15 at 4:12 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-15T04:12:06.269707+03:00.hyperlinks.json) |
-| [August 14 at 4:34 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-14T16:34:53.313162+03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 9 accessibility trees with the Internet Archive.
+The archiving routine has saved 11 accessibility trees with the Internet Archive.
 
 
 
@@ -169,6 +178,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 20 at 2:04 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-20T02:04:21.798615+03:00.accessibility.json) |
+| [August 19 at 2:02 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-19T14:02:41.187553+03:00.accessibility.json) |
 | [August 19 at 2:04 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-19T02:04:23.470288+03:00.accessibility.json) |
 | [August 18 at 2:02 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-18T02:02:53.571310+03:00.accessibility.json) |
 | [August 17 at 1:58 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-17T13:58:45.232119+03:00.accessibility.json) |
@@ -177,13 +188,12 @@ Here are the 10 most recent accessibility trees.
 | [August 15 at 5:01 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-15T17:01:05.702759+03:00.accessibility.json) |
 | [August 15 at 4:12 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-15T04:12:06.269707+03:00.accessibility.json) |
 | [August 14 at 4:34 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-14T16:34:53.313162+03:00.accessibility.json) |
-| [August 14 at 2:57 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-14T02:57:42.091637+03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 11 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 13 Lighthouse audits with the Internet Archive.
 
 
 
@@ -191,6 +201,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 20 at 2:04 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-20T02:04:21.798615+03:00.lighthouse.json) |
+| [August 19 at 2:02 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-19T14:02:41.187553+03:00.lighthouse.json) |
 | [August 19 at 2:04 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-19T02:04:23.470288+03:00.lighthouse.json) |
 | [August 18 at 2:00 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-18T14:00:02.379256+03:00.lighthouse.json) |
 | [August 18 at 2:03 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-18T02:02:53.571310+03:00.lighthouse.json) |
@@ -199,8 +211,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 16 at 4:40 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-16T16:40:05.028884+03:00.lighthouse.json) |
 | [August 16 at 4:26 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-16T04:26:34.849650+03:00.lighthouse.json) |
 | [August 15 at 5:01 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-15T17:01:05.702759+03:00.lighthouse.json) |
-| [August 15 at 4:12 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-15T04:12:06.269707+03:00.lighthouse.json) |
-| [August 14 at 4:35 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-08-14T16:34:53.313162+03:00.lighthouse.json) |
 
 
 

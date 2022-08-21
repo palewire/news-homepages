@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 40 screenshots with the Internet Archive.
+The archiving routine has saved 43 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-19T18:56:35.324495-05:00.jpg">
+  <img src="https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-19T18:56:35.324495-05:00.jpg"
+     alt="Nebraska Public Media at 2022-08-19 18:56:37-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-19T18:56:35.324495-05:00.jpg">August 19 at 6:56 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-19T09:22:36.786221-05:00.jpg">
+  <img src="https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-19T09:22:36.786221-05:00.jpg"
+     alt="Nebraska Public Media at 2022-08-19 09:22:38-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-19T09:22:36.786221-05:00.jpg">August 19 at 9:22 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-19T07:03:39.344919-05:00.jpg">
+  <img src="https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-19T07:03:39.344919-05:00.jpg"
+     alt="Nebraska Public Media at 2022-08-19 07:03:41-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-19T07:03:39.344919-05:00.jpg">August 19 at 7:03 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-18T18:56:41.705512-05:00.jpg">
   <img src="https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-18T18:56:41.705512-05:00.jpg"
      alt="Nebraska Public Media at 2022-08-18 18:56:47-05:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-14T20:23:32.082520-05:00.jpg">August 14 at 8:23 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-14T08:51:57.381300-05:00.jpg">
-  <img src="https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-14T08:51:57.381300-05:00.jpg"
-     alt="Nebraska Public Media at 2022-08-14 08:51:59-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-14T08:51:57.381300-05:00.jpg">August 14 at 8:51 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-13T22:17:21.901632-05:00.jpg">
-  <img src="https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-13T22:17:21.901632-05:00.jpg"
-     alt="Nebraska Public Media at 2022-08-13 22:17:23-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-13T22:17:21.901632-05:00.jpg">August 13 at 10:17 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-13T08:13:47.150623-05:00.jpg">
-  <img src="https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-13T08:13:47.150623-05:00.jpg"
-     alt="Nebraska Public Media at 2022-08-13 08:13:50-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-13T08:13:47.150623-05:00.jpg">August 13 at 8:13 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 40 hyperlink lists with the Internet Archive.
+The archiving routine has saved 43 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 19 at 6:56 PM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-19T18:56:35.324495-05:00.hyperlinks.json) |
+| [August 19 at 9:22 AM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-19T09:22:36.786221-05:00.hyperlinks.json) |
+| [August 19 at 7:03 AM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-19T07:03:39.344919-05:00.hyperlinks.json) |
 | [August 18 at 6:56 PM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-18T18:56:41.705512-05:00.hyperlinks.json) |
 | [August 18 at 7:01 AM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-18T07:01:52.738819-05:00.hyperlinks.json) |
 | [August 17 at 6:53 PM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-17T18:53:23.523816-05:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 16 at 7:08 PM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-16T19:08:19.922407-05:00.hyperlinks.json) |
 | [August 16 at 9:02 AM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-16T09:02:27.655985-05:00.hyperlinks.json) |
 | [August 15 at 8:38 PM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-15T20:37:52.807730-05:00.hyperlinks.json) |
-| [August 15 at 9:20 AM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-15T09:20:30.123505-05:00.hyperlinks.json) |
-| [August 14 at 8:23 PM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-14T20:23:32.082520-05:00.hyperlinks.json) |
-| [August 14 at 8:52 AM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-14T08:51:57.381300-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 40 accessibility trees with the Internet Archive.
+The archiving routine has saved 43 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 19 at 6:56 PM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-19T18:56:35.324495-05:00.accessibility.json) |
+| [August 19 at 9:22 AM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-19T09:22:36.786221-05:00.accessibility.json) |
+| [August 19 at 7:03 AM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-19T07:03:39.344919-05:00.accessibility.json) |
 | [August 18 at 6:56 PM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-18T18:56:41.705512-05:00.accessibility.json) |
 | [August 18 at 7:01 AM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-18T07:01:52.738819-05:00.accessibility.json) |
 | [August 17 at 6:53 PM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-17T18:53:23.523816-05:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 16 at 7:08 PM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-16T19:08:19.922407-05:00.accessibility.json) |
 | [August 16 at 9:02 AM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-16T09:02:27.655985-05:00.accessibility.json) |
 | [August 15 at 8:37 PM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-15T20:37:52.807730-05:00.accessibility.json) |
-| [August 15 at 9:20 AM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-15T09:20:30.123505-05:00.accessibility.json) |
-| [August 14 at 8:23 PM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-14T20:23:32.082520-05:00.accessibility.json) |
-| [August 14 at 8:52 AM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-14T08:51:57.381300-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 40 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 43 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 19 at 6:56 PM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-19T18:56:35.324495-05:00.lighthouse.json) |
+| [August 19 at 9:22 AM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-19T09:22:36.786221-05:00.lighthouse.json) |
+| [August 19 at 7:03 AM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-19T07:03:39.344919-05:00.lighthouse.json) |
 | [August 18 at 6:56 PM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-18T18:56:41.705512-05:00.lighthouse.json) |
 | [August 18 at 7:02 AM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-18T07:01:52.738819-05:00.lighthouse.json) |
 | [August 17 at 6:53 PM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-17T18:53:23.523816-05:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 16 at 7:08 PM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-16T19:08:19.922407-05:00.lighthouse.json) |
 | [August 16 at 9:02 AM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-16T09:02:27.655985-05:00.lighthouse.json) |
 | [August 15 at 8:38 PM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-15T20:37:52.807730-05:00.lighthouse.json) |
-| [August 15 at 9:20 AM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-15T09:20:30.123505-05:00.lighthouse.json) |
-| [August 14 at 8:23 PM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-14T20:23:32.082520-05:00.lighthouse.json) |
-| [August 14 at 8:52 AM](https://archive.org/download/nebpublicmedia-2022/nebpublicmedia-2022-08-14T08:51:57.381300-05:00.lighthouse.json) |
 
 
 
