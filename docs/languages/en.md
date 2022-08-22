@@ -7,7 +7,7 @@ orphan: true
 
 # English
 
-The most recent homepages from 651 news sites in this language.
+The most recent homepages from 654 news sites in this language.
 
 <div class="latest-parent">
 
@@ -426,12 +426,39 @@ The most recent homepages from 651 news sites in this language.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/aspendailynews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/aspendailynews.jpg"
+     alt="Aspen Daily News"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/aspendailynews.html">Aspen Daily News</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/aspenjournalism.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/aspenjournalism.jpg"
      alt="Aspen Journalism"
      loading="lazy">
  </a>
  <p><a href="../sites/aspenjournalism.html">Aspen Journalism</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/aspenpubradio.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/aspenpubradio.jpg"
+     alt="Aspen Public Radio"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/aspenpubradio.html">Aspen Public Radio</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/theaspentimes.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theaspentimes.jpg"
+     alt="Aspen Times"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/theaspentimes.html">Aspen Times</a></p>
 </div>
 
 <div class="latest-child">
@@ -5928,7 +5955,10 @@ The most recent homepages from 651 news sites in this language.
 |[Ars Technica](https://palewi.re/docs/news-homepages/sites/arstechnica.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/arstechnica.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/arstechnica.xml)|
 |[Asheville Watchdog](https://palewi.re/docs/news-homepages/sites/avlwatchdog.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/avlwatchdog.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/avlwatchdog.xml)|
 |[Ashland.news](https://palewi.re/docs/news-homepages/sites/ashlandornews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ashlandornews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ashlandornews.xml)|
+|[Aspen Daily News](https://palewi.re/docs/news-homepages/sites/aspendailynews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/aspendailynews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/aspendailynews.xml)|
 |[Aspen Journalism](https://palewi.re/docs/news-homepages/sites/aspenjournalism.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/aspenjournalism.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/aspenjournalism.xml)|
+|[Aspen Public Radio](https://palewi.re/docs/news-homepages/sites/aspenpubradio.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/aspenpubradio.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/aspenpubradio.xml)|
+|[Aspen Times](https://palewi.re/docs/news-homepages/sites/theaspentimes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theaspentimes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theaspentimes.xml)|
 |[Associated Press](https://palewi.re/docs/news-homepages/sites/ap.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ap.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ap.xml)|
 |[Athens Banner-Herald](https://palewi.re/docs/news-homepages/sites/onlineathens.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/onlineathens.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/onlineathens.xml)|
 |[Athletic](https://palewi.re/docs/news-homepages/sites/theathletic.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theathletic.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theathletic.xml)|

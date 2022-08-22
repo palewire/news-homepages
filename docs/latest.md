@@ -3,7 +3,7 @@
 
 # Latest screenshots
 
-The most recent homepages captured from 832 news sites.
+The most recent homepages captured from 835 news sites.
 
 <div class="latest-parent">
 
@@ -566,12 +566,39 @@ The most recent homepages captured from 832 news sites.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/aspendailynews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/aspendailynews.jpg"
+     alt="Aspen Daily News"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/aspendailynews.html">Aspen Daily News</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/aspenjournalism.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/aspenjournalism.jpg"
      alt="Aspen Journalism"
      loading="lazy">
  </a>
  <p><a href="./sites/aspenjournalism.html">Aspen Journalism</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/aspenpubradio.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/aspenpubradio.jpg"
+     alt="Aspen Public Radio"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/aspenpubradio.html">Aspen Public Radio</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/theaspentimes.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theaspentimes.jpg"
+     alt="Aspen Times"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/theaspentimes.html">Aspen Times</a></p>
 </div>
 
 <div class="latest-child">
