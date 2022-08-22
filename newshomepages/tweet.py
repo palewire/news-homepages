@@ -9,7 +9,6 @@ import pandas as pd
 import pytz
 import twitter
 from rich import print
-from rich.progress import track
 from slugify import slugify
 
 from . import utils
@@ -42,7 +41,8 @@ def update_list(number):
     # Add what's missing
     missing_list = list(set(source_list) - set(screenname_list))[:number]
     print(f":bird: Adding {len(missing_list)} new sources to Twitter list")
-    for obj in track(missing_list):
+    for obj in missing_list:
+        print(f"- {obj}")
         api.CreateListsMember(list_id=1558434500304158720, screen_name=obj)
         time.sleep(2)
 
