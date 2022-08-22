@@ -1,5 +1,5 @@
 {
-  "created": 1661040836,
+  "created": 1661127085,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/15/items/gawker-2022",
@@ -4856,31 +4856,155 @@
       "sha1": "beca3de56499c47517d55e0c18fc342e3b098e4d"
     },
     {
+      "name": "gawker-2022-08-20T22:20:28.335823-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661048437",
+      "size": "9456",
+      "md5": "ad46b44ea847839a3fc0cdd6cf950b4e",
+      "crc32": "981fae62",
+      "sha1": "621a98bf6ac60998246c0d467a2e4c3e43cd4a41",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-08-20T22:20:28.335823-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661048438",
+      "size": "10974",
+      "md5": "12e37da0bfdd457e3ffe1a6f5c809504",
+      "crc32": "891abe73",
+      "sha1": "403819c2f9c2a1c2e2a60980910844d503cffe49",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-08-20T22:20:28.335823-04:00.jpg",
+      "source": "original",
+      "mtime": "1661048435",
+      "size": "269473",
+      "md5": "83bf25ca8de010d8b2dabfda4914e3d6",
+      "crc32": "e3d7fc25",
+      "sha1": "a0f0d5f268d7d2b0f7e416eb0174e9e0d0d6d611",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gawker-2022-08-20T22:20:28.335823-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661048440",
+      "size": "1441",
+      "md5": "f9c8471a0e7ee67267f6b9374de8ff12",
+      "crc32": "d2be8082",
+      "sha1": "93956c61df90e480507aacdb028857c025e72f1f",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-08-20T22:20:28.335823-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1661048441",
+      "size": "36251",
+      "md5": "f9bdf0404d29514629b5987ab15e733d",
+      "crc32": "0b324e2d",
+      "sha1": "8c1362682068520131c9eebe9e3259ed6491916d",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-08-20T22:20:28.335823-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gawker-2022-08-20T22:20:28.335823-04:00.jpg",
+      "mtime": "1661048490",
+      "size": "10840",
+      "md5": "8a832c0abd6977c159aa7d041d05a74f",
+      "crc32": "9ddf0e79",
+      "sha1": "73adc627da99b4e9ffdf79ec8dff77ce1ffe0cb7"
+    },
+    {
+      "name": "gawker-2022-08-21T10:03:14.555955-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661090600",
+      "size": "9456",
+      "md5": "f3e8c6ceb1bbc54115bea8c2e9129e04",
+      "crc32": "864f29c1",
+      "sha1": "08772fd12e5932d8a97a99f990a564b17a37dd79",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-08-21T10:03:14.555955-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661090601",
+      "size": "10974",
+      "md5": "b951df74e7bdb6c6da4346e9afd0c5b5",
+      "crc32": "77c75099",
+      "sha1": "c4ee3b2e8673790b82b5b09302897a821bd7a813",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-08-21T10:03:14.555955-04:00.jpg",
+      "source": "original",
+      "mtime": "1661090598",
+      "size": "269473",
+      "md5": "83bf25ca8de010d8b2dabfda4914e3d6",
+      "crc32": "e3d7fc25",
+      "sha1": "a0f0d5f268d7d2b0f7e416eb0174e9e0d0d6d611",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gawker-2022-08-21T10:03:14.555955-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661090603",
+      "size": "1441",
+      "md5": "fd80c0c16be07ec314c4a0d4146bb3b3",
+      "crc32": "86d35be5",
+      "sha1": "f4200aa41c4cf99e0e4111e3f7024eb99917ba88",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-08-21T10:03:14.555955-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1661090605",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-08-21T10:03:14.555955-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gawker-2022-08-21T10:03:14.555955-04:00.jpg",
+      "mtime": "1661090658",
+      "size": "10840",
+      "md5": "8a832c0abd6977c159aa7d041d05a74f",
+      "crc32": "9ddf0e79",
+      "sha1": "73adc627da99b4e9ffdf79ec8dff77ce1ffe0cb7"
+    },
+    {
       "name": "gawker-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7366919558ead4feb71b21278c7229e508a5f297",
-      "mtime": "1661003988",
-      "size": "98387",
-      "md5": "7d8b7d80c00db1dd7627f73ea6678efb",
-      "crc32": "50e77fb6",
-      "sha1": "2204bc29967136b23d72a84b46c64452bbbc3207",
+      "btih": "953b6e9672d826e59699c91c182ae64703d51715",
+      "mtime": "1661090664",
+      "size": "100895",
+      "md5": "861acf627107fe97470059a6efe7197b",
+      "crc32": "eadc3631",
+      "sha1": "78a74a7f6d71f2e00f7b4886c30cba781f9860a2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gawker-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c0ff59fb54501a6fac86634448b9dd8c",
+      "md5": "0e50eca95a962e055c8a44a13e84a7f7",
       "summation": "md5"
     },
     {
       "name": "gawker-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1661003872",
-      "size": "581632",
-      "md5": "b9f9b383bdcfdff9b710aa2eb528f069",
-      "crc32": "358435ee",
-      "sha1": "cef44774aae157e89f60457720da93f6a2545fd2",
+      "mtime": "1661090609",
+      "size": "593920",
+      "md5": "20879d043981ee7a65b0ed3e0b542c61",
+      "crc32": "50b13c76",
+      "sha1": "98493772d848aa19e6e5cd8b94e60c4f30f3a5b4",
       "format": "Metadata"
     },
     {
@@ -4894,82 +5018,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 470,
+  "files_count": 482,
   "gawker-2022": {
-    "url": "https://www.gawker.com/",
-    "job_id": "spn2-adc457c15cf34f2a08e079050f773696cf0850cc",
-    "http_status": 200,
-    "timestamp": "20220820134829",
-    "status": "success",
-    "resources": [
-      "https://www.gawker.com/",
-      "https://cdn2.bustle.com/2022/gawker/HubPage-cf03526d37.css",
-      "https://cdn2.bustle.com/2022/gawker/main-e997301a25.js",
-      "https://imgix.bustle.com/uploads/getty/2022/8/19/725d0f18-3874-4221-95c3-e817f8a98845-getty-151486301.jpg?w=287&h=193&fit=crop&crop=faces&auto=format,compress",
-      "https://imgix.bustle.com/uploads/image/2022/8/19/9bb62274-213d-47ea-8cf9-56c087093571-superbad-1200-1200-675-675-crop-000000.jpg?w=287&h=193&fit=crop&crop=faces&auto=format,compress",
-      "https://imgix.bustle.com/uploads/getty/2022/8/19/6f6717ba-6fad-4c48-bb28-8832c560e3d1-getty-1369483795.jpg?w=287&h=193&fit=crop&crop=faces&auto=format,compress",
-      "https://imgix.bustle.com/uploads/image/2022/8/17/c8a6c063-cd18-4e0c-931d-c13ebbfe1a4f-gwk-np-breadclip.jpg?w=825&h=556&fit=crop&crop=faces&auto=format,compress",
-      "https://imgix.bustle.com/uploads/getty/2022/8/19/ceee8192-eff1-4db1-8768-854201777607-getty-1242455628.jpg?w=287&h=193&fit=crop&crop=faces&auto=format,compress",
-      "https://cdn2c.bustle.com/2022/gawker/font-898fcab56a.woff2",
-      "https://cdn2.bustle.com/2022/gawker/common-1214428002.css",
-      "https://cdn2.bustle.com/2022/gawker/vendors-24f8a1c18c.js",
-      "https://cdn2c.bustle.com/2022/gawker/ARIBLK-ce808b1578.woff2",
-      "https://cdn2c.bustle.com/2022/gawker/font-21141654c0.woff2",
-      "https://www.gawker.com/favicon.ico"
-    ],
-    "outlinks": [
-      "https://www.bdg.com/privacy",
-      "https://www.gawker.com/news",
-      "https://www.gawker.com/ask-a-fuck-up",
-      "https://www.gawker.com/gossip",
-      "https://www.gawker.com/culture/failure-to-cope-under-capitalism",
-      "https://www.gawker.com/teigen-tales",
-      "https://www.gawker.com/tech",
-      "https://www.gawker.com/culture/occlupanids-plastic-bread-clips-tags-tabs-parasites-horg-reddit",
-      "https://www.gawker.com/features",
-      "https://www.gawker.com/culture/the-queen-to-harry-meghan-sit-your-asses-down",
-      "https://www.gawker.com/culture/superbad-remains-essential-teen-film",
-      "https://www.gawker.com/culture/she-hulk-attorney-at-law-rattles-the-cage-of-marvel-mediocrity",
-      "https://twitter.com/gawker/",
-      "https://www.gawker.com/celebrity/fallon-files-jimmy-cannot-keep-up-with-martin-short",
-      "https://www.gawker.com/newsletter",
-      "https://www.gawker.com/politics/ben-savage-cory-from-boy-meets-world-is-running-for-west-hollywood-city-council",
-      "https://www.gawker.com/celebrity",
-      "https://www.gawker.com/money",
-      "https://www.gawker.com/celebrity/yan-gosling-eva-mendes-barbie-role-play",
-      "https://www.gawker.com/celebrity/amandla-stenberg-dm-bodies-bodies-bodies-new-york-times-critic-lena-wilson",
-      "https://www.facebook.com/gawker/",
-      "https://www.gawker.com/celebrity/jeff-bezos-bravo-face",
-      "https://www.gawker.com/politics",
-      "https://www.gawker.com/celebrity/megan-fox-machine-gun-kelly-break-up-source",
-      "https://www.gawker.com/culture",
-      "https://www.gawker.com/celebrity/looking-back-at-jlo-ben-afflecks-past-weddings",
-      "https://www.gawker.com/media",
-      "https://www.bdg.com/dmca",
-      "https://www.gawker.com/politics/dr-oz-crudites-tequila-wegners",
-      "https://www.nasa.gov/",
-      "https://www.gawker.com/celebrity/bennifer-20-is-bullish-on-podcasters",
-      "https://instagram.com/gawker/",
-      "https://www.gawker.com/celebrity/there-are-only-three-kenneths-branagh-lonergan-parcell",
-      "https://www.gawker.com/celebrity/amandla-stenberg-responds-to-terrified-nyt-critic-lighten-up-mama",
-      "https://www.gawker.com/dogs",
-      "https://www.gawker.com/politics/jan-6-maiden-just-wants-to-go-to-the-ren-faire",
-      "https://www.bdg.com/terms",
-      "https://www.bdg.com/advertise",
-      "https://www.bdg.com/gawker",
-      "https://www.gawker.com/celebrity/brandi-glanville-rage-dming-sons-ex-girlfriend-instagram",
-      "https://www.gawker.com/culture/the-ironies-absurdities-of-vladimir-sorokin",
-      "https://www.gawker.com/celebrity/alexis-bledel-vincent-kartheiser-divorce-gilmore-girls-mad-men"
-    ],
-    "counters": {
-      "outlinks": 42,
-      "embeds": 14
-    },
-    "original_url": "https://www.gawker.com/",
-    "duration_sec": 39.053
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
   },
-  "item_last_updated": 1661003988,
-  "item_size": 31543216,
+  "item_last_updated": 1661090664,
+  "item_size": 32198833,
   "metadata": {
     "identifier": "gawker-2022",
     "collection": [
@@ -4986,10 +5042,10 @@
     "publicdate": "2022-07-04 21:53:36",
     "addeddate": "2022-07-04 21:53:36"
   },
-  "server": "ia802508.us.archive.org",
-  "uniq": 1808552491,
+  "server": "ia902508.us.archive.org",
+  "uniq": 1021906163,
   "workable_servers": [
-    "ia802508.us.archive.org",
-    "ia902508.us.archive.org"
+    "ia902508.us.archive.org",
+    "ia802508.us.archive.org"
   ]
 }

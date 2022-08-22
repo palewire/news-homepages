@@ -1,8 +1,13 @@
 {
-  "created": 1661004387,
+  "created": 1661126976,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/8/items/el_timpano-2022",
+  "el_timpano-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -4866,31 +4871,155 @@
       "sha1": "7234687cd29d8a30004690f59c18ad1374a7e3dc"
     },
     {
+      "name": "el_timpano-2022-08-20T19:19:06.159457-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661048349",
+      "size": "10786",
+      "md5": "bc342beafd4c311b9f4d5231e329475b",
+      "crc32": "c22e932b",
+      "sha1": "6b4853be6124f9d677df7fbc886370724fbb296c",
+      "format": "JSON"
+    },
+    {
+      "name": "el_timpano-2022-08-20T19:19:06.159457-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661048350",
+      "size": "9135",
+      "md5": "298c250b32b2c5418862b409f23de45b",
+      "crc32": "845304a7",
+      "sha1": "7dd10da6c4b36cb9ee68027ff0f808931c73d41c",
+      "format": "JSON"
+    },
+    {
+      "name": "el_timpano-2022-08-20T19:19:06.159457-07:00.jpg",
+      "source": "original",
+      "mtime": "1661048347",
+      "size": "223975",
+      "md5": "55aa7037df79b01c43bcb2a2a412b536",
+      "crc32": "9cdc56d1",
+      "sha1": "d8d4a163b7c1c32b6dc4bd31a73501a0c9bd1b97",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "el_timpano-2022-08-20T19:19:06.159457-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661048352",
+      "size": "1476",
+      "md5": "adae610e7fa185571caaa5339ad41513",
+      "crc32": "b3a4849b",
+      "sha1": "e075cd743aeda73609d72148a24c087ca71b15c3",
+      "format": "JSON"
+    },
+    {
+      "name": "el_timpano-2022-08-20T19:19:06.159457-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1661048360",
+      "size": "9677",
+      "md5": "3eb914e6413cf40f3846c33855f58806",
+      "crc32": "8584cb7c",
+      "sha1": "c8354fe6363a61ae81163c1274a8cbf1a2d91505",
+      "format": "JSON"
+    },
+    {
+      "name": "el_timpano-2022-08-20T19:19:06.159457-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "el_timpano-2022-08-20T19:19:06.159457-07:00.jpg",
+      "mtime": "1661048496",
+      "size": "8453",
+      "md5": "2235e1e5733b125921bb1b63151c90b5",
+      "crc32": "43cea865",
+      "sha1": "7234687cd29d8a30004690f59c18ad1374a7e3dc"
+    },
+    {
+      "name": "el_timpano-2022-08-21T07:01:16.154159-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661090481",
+      "size": "10786",
+      "md5": "bc342beafd4c311b9f4d5231e329475b",
+      "crc32": "c22e932b",
+      "sha1": "6b4853be6124f9d677df7fbc886370724fbb296c",
+      "format": "JSON"
+    },
+    {
+      "name": "el_timpano-2022-08-21T07:01:16.154159-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661090482",
+      "size": "9135",
+      "md5": "298c250b32b2c5418862b409f23de45b",
+      "crc32": "845304a7",
+      "sha1": "7dd10da6c4b36cb9ee68027ff0f808931c73d41c",
+      "format": "JSON"
+    },
+    {
+      "name": "el_timpano-2022-08-21T07:01:16.154159-07:00.jpg",
+      "source": "original",
+      "mtime": "1661090479",
+      "size": "223253",
+      "md5": "3d4496c55847d20cdb9c286ad611d929",
+      "crc32": "710c59f7",
+      "sha1": "98fcf843a4b99789f2451f5138cf0c4f7c62c9ce",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "el_timpano-2022-08-21T07:01:16.154159-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661090485",
+      "size": "1476",
+      "md5": "4cfbd2d5a3011f6f0cbe5008eff43b13",
+      "crc32": "6dd765f4",
+      "sha1": "fe46121a76a4331f3c2457527bf46f59b855273e",
+      "format": "JSON"
+    },
+    {
+      "name": "el_timpano-2022-08-21T07:01:16.154159-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1661090487",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "el_timpano-2022-08-21T07:01:16.154159-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "el_timpano-2022-08-21T07:01:16.154159-07:00.jpg",
+      "mtime": "1661090537",
+      "size": "8432",
+      "md5": "9045e46acb29b0cfe02ce06fd85d264f",
+      "crc32": "b508f180",
+      "sha1": "ae10e6ae8e08d57545e0d5a88f1b287e760bc08c"
+    },
+    {
       "name": "el_timpano-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4bf1248c5ab9f2747c0ccd56ff9ec9e8566781e0",
-      "mtime": "1661004220",
-      "size": "100133",
-      "md5": "d5bbd16aa26f91fff1a7db371afd7e43",
-      "crc32": "0ba5ac79",
-      "sha1": "a4c6428463b78375c80738216da5a41a2f850882",
+      "btih": "ba2e97845e04ae83e7584651ffd6c003a906d491",
+      "mtime": "1661090543",
+      "size": "102666",
+      "md5": "f59649742bfea4a4146d620538cd8934",
+      "crc32": "dc196400",
+      "sha1": "0a7df00458f17202fd624d881e116c99f1af9be1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "el_timpano-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "039622f8b5a08e6898e3a1456867c635",
+      "md5": "76012d32468a39fbe98ebab1b8a41634",
       "summation": "md5"
     },
     {
       "name": "el_timpano-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1661003758",
-      "size": "589824",
-      "md5": "54eb584d9f2522c89048c91bed25ed31",
-      "crc32": "ae75a097",
-      "sha1": "6f45e552ea4ebf4e71b06103d86d58825fb3fc42",
+      "mtime": "1661090490",
+      "size": "602112",
+      "md5": "83b08eeed3a69e97a8b63e0c6b07ed60",
+      "crc32": "31fff5ed",
+      "sha1": "58298f67a968da7b518f3df6956935d645b012bf",
       "format": "Metadata"
     },
     {
@@ -4904,9 +5033,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 471,
-  "item_last_updated": 1661004220,
-  "item_size": 24846713,
+  "files_count": 483,
+  "item_last_updated": 1661090543,
+  "item_size": 25378320,
   "metadata": {
     "identifier": "el_timpano-2022",
     "collection": [
@@ -4924,7 +5053,7 @@
     "addeddate": "2022-07-09 03:58:15"
   },
   "server": "ia802509.us.archive.org",
-  "uniq": 1367646087,
+  "uniq": 1652494003,
   "workable_servers": [
     "ia802509.us.archive.org",
     "ia902509.us.archive.org"
