@@ -3,7 +3,7 @@
 
 # News Homepages
 
-An open-source archive that gathers, saves and shares news homepages
+An open-source archive that gathers, saves, shares and analyzes news homepages
 
 ## Features
 
