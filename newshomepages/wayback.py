@@ -56,8 +56,7 @@ def cli(handle: str, output_dir: str):
 
             # Check in our capture
             status_url = f"https://web.archive.org/save/status/{capture_data['job_id']}"
-            status_response = _request(status_url)
-            status_data = status_response.json()
+            status_data = _request(status_url)
 
             # If it's a success, we're done
             if status_data["status"] == "success":
@@ -90,7 +89,7 @@ def cli(handle: str, output_dir: str):
 
 @retry(tries=3, delay=5, backoff=2)
 def _request(url):
-    return requests.get(url)
+    return requests.get(url).json()
 
 
 if __name__ == "__main__":
