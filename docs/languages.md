@@ -3,12 +3,13 @@
 
 # Languages
 
-The archiving routine is currently saving sites in 14 languages.
+The archiving routine is currently saving sites in 17 languages.
 
 | Country  | Sites |
 | :------- | :---- |
+|[Afrikaans](https://palewi.re/docs/news-homepages/languages/af.html)|3|
 |[Chinese](https://palewi.re/docs/news-homepages/languages/zh.html)|4|
-|[English](https://palewi.re/docs/news-homepages/languages/en.html)|654|
+|[English](https://palewi.re/docs/news-homepages/languages/en.html)|663|
 |[French](https://palewi.re/docs/news-homepages/languages/fr.html)|20|
 |[German](https://palewi.re/docs/news-homepages/languages/de.html)|8|
 |[Hebrew](https://palewi.re/docs/news-homepages/languages/he.html)|5|
@@ -21,3 +22,5 @@ The archiving routine is currently saving sites in 14 languages.
 |[Russian](https://palewi.re/docs/news-homepages/languages/ru.html)|7|
 |[Spanish](https://palewi.re/docs/news-homepages/languages/es.html)|44|
 |[Ukrainian](https://palewi.re/docs/news-homepages/languages/uk.html)|5|
+|[Xhosa](https://palewi.re/docs/news-homepages/languages/xh.html)|1|
+|[Zulu](https://palewi.re/docs/news-homepages/languages/zu.html)|2|

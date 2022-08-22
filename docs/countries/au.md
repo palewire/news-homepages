@@ -7,7 +7,7 @@ orphan: true
 
 # Australia
 
-The most recent homepages from 1 news sites in this country.
+The most recent homepages from 2 news sites in this country.
 
 <div class="latest-parent">
 
@@ -18,6 +18,15 @@ The most recent homepages from 1 news sites in this country.
      loading="lazy">
  </a>
  <p><a href="../sites/abcnews.html">ABC News</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/crikey_news.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/crikey_news.jpg"
+     alt="Crikey"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/crikey_news.html">Crikey</a></p>
 </div>
 
 </div>
@@ -35,3 +44,4 @@ The most recent homepages from 1 news sites in this country.
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |
 |[ABC News](https://palewi.re/docs/news-homepages/sites/abcnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/abcnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/abcnews.xml)|
+|[Crikey](https://palewi.re/docs/news-homepages/sites/crikey_news.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/crikey_news.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/crikey_news.xml)|
