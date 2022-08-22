@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 14 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 12 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         88
     </td>
     <td style="text-align: right;">
-        273
+        277
     </td>
   </tr>
 
@@ -196,7 +196,7 @@ The median score for each category, along with how it ranks in comparison to the
         92
     </td>
     <td style="text-align: right;">
-        119
+        122
     </td>
   </tr>
 
@@ -208,7 +208,7 @@ The median score for each category, along with how it ranks in comparison to the
         11
     </td>
     <td style="text-align: right;">
-        714
+        729
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         84
     </td>
     <td style="text-align: right;">
-        493
+        503
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 91 screenshots with the Internet Archive.
+The archiving routine has saved 94 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/tpm-2022/tpm-2022-08-19T11:34:53.028228-04:00.jpg">
+  <img src="https://archive.org/download/tpm-2022/tpm-2022-08-19T11:34:53.028228-04:00.jpg"
+     alt="TPM at 2022-08-19 11:34:57-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tpm-2022/tpm-2022-08-19T11:34:53.028228-04:00.jpg">August 19 at 11:34 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/tpm-2022/tpm-2022-08-19T08:13:51.294229-04:00.jpg">
+  <img src="https://archive.org/download/tpm-2022/tpm-2022-08-19T08:13:51.294229-04:00.jpg"
+     alt="TPM at 2022-08-19 08:13:55-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tpm-2022/tpm-2022-08-19T08:13:51.294229-04:00.jpg">August 19 at 8:13 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/tpm-2022/tpm-2022-08-18T23:45:19.782634-04:00.jpg">
+  <img src="https://archive.org/download/tpm-2022/tpm-2022-08-18T23:45:19.782634-04:00.jpg"
+     alt="TPM at 2022-08-18 23:45:21-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tpm-2022/tpm-2022-08-18T23:45:19.782634-04:00.jpg">August 18 at 11:45 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/tpm-2022/tpm-2022-08-18T11:31:08.985034-04:00.jpg">
   <img src="https://archive.org/download/tpm-2022/tpm-2022-08-18T11:31:08.985034-04:00.jpg"
      alt="TPM at 2022-08-18 11:31:12-04:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/tpm-2022/tpm-2022-08-14T15:06:53.750896-04:00.jpg">August 14 at 3:06 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/tpm-2022/tpm-2022-08-14T03:09:36.779159-04:00.jpg">
-  <img src="https://archive.org/download/tpm-2022/tpm-2022-08-14T03:09:36.779159-04:00.jpg"
-     alt="TPM at 2022-08-14 03:09:40-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tpm-2022/tpm-2022-08-14T03:09:36.779159-04:00.jpg">August 14 at 3:09 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/tpm-2022/tpm-2022-08-13T17:04:56.526719-04:00.jpg">
-  <img src="https://archive.org/download/tpm-2022/tpm-2022-08-13T17:04:56.526719-04:00.jpg"
-     alt="TPM at 2022-08-13 17:05:00-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tpm-2022/tpm-2022-08-13T17:04:56.526719-04:00.jpg">August 13 at 5:05 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/tpm-2022/tpm-2022-08-13T01:15:18.073758-04:00.jpg">
-  <img src="https://archive.org/download/tpm-2022/tpm-2022-08-13T01:15:18.073758-04:00.jpg"
-     alt="TPM at 2022-08-13 01:15:19-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tpm-2022/tpm-2022-08-13T01:15:18.073758-04:00.jpg">August 13 at 1:15 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 90 hyperlink lists with the Internet Archive.
+The archiving routine has saved 93 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 19 at 11:35 AM](https://archive.org/download/tpm-2022/tpm-2022-08-19T11:34:53.028228-04:00.hyperlinks.json) |
+| [August 19 at 8:13 AM](https://archive.org/download/tpm-2022/tpm-2022-08-19T08:13:51.294229-04:00.hyperlinks.json) |
+| [August 18 at 11:45 PM](https://archive.org/download/tpm-2022/tpm-2022-08-18T23:45:19.782634-04:00.hyperlinks.json) |
 | [August 18 at 11:31 AM](https://archive.org/download/tpm-2022/tpm-2022-08-18T11:31:08.985034-04:00.hyperlinks.json) |
 | [August 17 at 11:47 PM](https://archive.org/download/tpm-2022/tpm-2022-08-17T23:47:37.412409-04:00.hyperlinks.json) |
 | [August 17 at 11:14 AM](https://archive.org/download/tpm-2022/tpm-2022-08-17T11:13:55.638245-04:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 16 at 2:47 PM](https://archive.org/download/tpm-2022/tpm-2022-08-16T14:47:30.501152-04:00.hyperlinks.json) |
 | [August 16 at 2:56 AM](https://archive.org/download/tpm-2022/tpm-2022-08-16T02:56:08.109910-04:00.hyperlinks.json) |
 | [August 15 at 4:18 PM](https://archive.org/download/tpm-2022/tpm-2022-08-15T16:18:36.201491-04:00.hyperlinks.json) |
-| [August 15 at 2:49 AM](https://archive.org/download/tpm-2022/tpm-2022-08-15T02:49:00.118652-04:00.hyperlinks.json) |
-| [August 14 at 3:06 PM](https://archive.org/download/tpm-2022/tpm-2022-08-14T15:06:53.750896-04:00.hyperlinks.json) |
-| [August 14 at 3:09 AM](https://archive.org/download/tpm-2022/tpm-2022-08-14T03:09:36.779159-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 91 accessibility trees with the Internet Archive.
+The archiving routine has saved 94 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 19 at 11:34 AM](https://archive.org/download/tpm-2022/tpm-2022-08-19T11:34:53.028228-04:00.accessibility.json) |
+| [August 19 at 8:13 AM](https://archive.org/download/tpm-2022/tpm-2022-08-19T08:13:51.294229-04:00.accessibility.json) |
+| [August 18 at 11:45 PM](https://archive.org/download/tpm-2022/tpm-2022-08-18T23:45:19.782634-04:00.accessibility.json) |
 | [August 18 at 11:31 AM](https://archive.org/download/tpm-2022/tpm-2022-08-18T11:31:08.985034-04:00.accessibility.json) |
 | [August 17 at 11:47 PM](https://archive.org/download/tpm-2022/tpm-2022-08-17T23:47:37.412409-04:00.accessibility.json) |
 | [August 17 at 11:14 AM](https://archive.org/download/tpm-2022/tpm-2022-08-17T11:13:55.638245-04:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 16 at 2:47 PM](https://archive.org/download/tpm-2022/tpm-2022-08-16T14:47:30.501152-04:00.accessibility.json) |
 | [August 16 at 2:56 AM](https://archive.org/download/tpm-2022/tpm-2022-08-16T02:56:08.109910-04:00.accessibility.json) |
 | [August 15 at 4:18 PM](https://archive.org/download/tpm-2022/tpm-2022-08-15T16:18:36.201491-04:00.accessibility.json) |
-| [August 15 at 2:49 AM](https://archive.org/download/tpm-2022/tpm-2022-08-15T02:49:00.118652-04:00.accessibility.json) |
-| [August 14 at 3:06 PM](https://archive.org/download/tpm-2022/tpm-2022-08-14T15:06:53.750896-04:00.accessibility.json) |
-| [August 14 at 3:09 AM](https://archive.org/download/tpm-2022/tpm-2022-08-14T03:09:36.779159-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 52 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 55 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 19 at 11:35 AM](https://archive.org/download/tpm-2022/tpm-2022-08-19T11:34:53.028228-04:00.lighthouse.json) |
+| [August 19 at 8:14 AM](https://archive.org/download/tpm-2022/tpm-2022-08-19T08:13:51.294229-04:00.lighthouse.json) |
+| [August 18 at 11:45 PM](https://archive.org/download/tpm-2022/tpm-2022-08-18T23:45:19.782634-04:00.lighthouse.json) |
 | [August 18 at 11:31 AM](https://archive.org/download/tpm-2022/tpm-2022-08-18T11:31:08.985034-04:00.lighthouse.json) |
 | [August 17 at 11:47 PM](https://archive.org/download/tpm-2022/tpm-2022-08-17T23:47:37.412409-04:00.lighthouse.json) |
 | [August 17 at 11:14 AM](https://archive.org/download/tpm-2022/tpm-2022-08-17T11:13:55.638245-04:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 16 at 2:47 PM](https://archive.org/download/tpm-2022/tpm-2022-08-16T14:47:30.501152-04:00.lighthouse.json) |
 | [August 16 at 2:56 AM](https://archive.org/download/tpm-2022/tpm-2022-08-16T02:56:08.109910-04:00.lighthouse.json) |
 | [August 15 at 4:18 PM](https://archive.org/download/tpm-2022/tpm-2022-08-15T16:18:36.201491-04:00.lighthouse.json) |
-| [August 15 at 2:49 AM](https://archive.org/download/tpm-2022/tpm-2022-08-15T02:49:00.118652-04:00.lighthouse.json) |
-| [August 14 at 3:07 PM](https://archive.org/download/tpm-2022/tpm-2022-08-14T15:06:53.750896-04:00.lighthouse.json) |
-| [August 14 at 3:09 AM](https://archive.org/download/tpm-2022/tpm-2022-08-14T03:09:36.779159-04:00.lighthouse.json) |
 
 
 

@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 15 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 13 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         87
     </td>
     <td style="text-align: right;">
-        337
+        343
     </td>
   </tr>
 
@@ -196,7 +196,7 @@ The median score for each category, along with how it ranks in comparison to the
         83
     </td>
     <td style="text-align: right;">
-        399
+        404
     </td>
   </tr>
 
@@ -205,10 +205,10 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        14
+        12
     </td>
     <td style="text-align: right;">
-        691
+        718
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         69
     </td>
     <td style="text-align: right;">
-        764
+        780
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 66 screenshots with the Internet Archive.
+The archiving routine has saved 68 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/galvnews-2022/galvnews-2022-08-19T18:03:46.255743-05:00.jpg">
+  <img src="https://archive.org/download/galvnews-2022/galvnews-2022-08-19T18:03:46.255743-05:00.jpg"
+     alt="Galveston County Daily News at 2022-08-19 18:03:47-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/galvnews-2022/galvnews-2022-08-19T18:03:46.255743-05:00.jpg">August 19 at 6:03 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/galvnews-2022/galvnews-2022-08-19T06:02:18.863141-05:00.jpg">
+  <img src="https://archive.org/download/galvnews-2022/galvnews-2022-08-19T06:02:18.863141-05:00.jpg"
+     alt="Galveston County Daily News at 2022-08-19 06:02:20-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/galvnews-2022/galvnews-2022-08-19T06:02:18.863141-05:00.jpg">August 19 at 6:02 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/galvnews-2022/galvnews-2022-08-18T18:05:19.774499-05:00.jpg">
   <img src="https://archive.org/download/galvnews-2022/galvnews-2022-08-18T18:05:19.774499-05:00.jpg"
      alt="Galveston County Daily News at 2022-08-18 18:05:20-05:00 local time"
@@ -413,24 +431,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/galvnews-2022/galvnews-2022-08-14T08:34:32.177443-05:00.jpg">August 14 at 8:34 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/galvnews-2022/galvnews-2022-08-13T18:56:29.770192-05:00.jpg">
-  <img src="https://archive.org/download/galvnews-2022/galvnews-2022-08-13T18:56:29.770192-05:00.jpg"
-     alt="Galveston County Daily News at 2022-08-13 18:56:32-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/galvnews-2022/galvnews-2022-08-13T18:56:29.770192-05:00.jpg">August 13 at 6:56 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/galvnews-2022/galvnews-2022-08-13T08:00:33.976105-05:00.jpg">
-  <img src="https://archive.org/download/galvnews-2022/galvnews-2022-08-13T08:00:33.976105-05:00.jpg"
-     alt="Galveston County Daily News at 2022-08-13 08:00:35-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/galvnews-2022/galvnews-2022-08-13T08:00:33.976105-05:00.jpg">August 13 at 8:00 AM</a></p>
 </div>
 
 </div>
@@ -542,7 +542,7 @@ Here are the 10 most recent hyperlink lists.
 
 ### Accessibility
 
-The archiving routine has saved 52 accessibility trees with the Internet Archive.
+The archiving routine has saved 53 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 19 at 6:02 AM](https://archive.org/download/galvnews-2022/galvnews-2022-08-19T06:02:18.863141-05:00.accessibility.json) |
 | [August 18 at 6:05 PM](https://archive.org/download/galvnews-2022/galvnews-2022-08-18T18:05:19.774499-05:00.accessibility.json) |
 | [August 17 at 6:02 PM](https://archive.org/download/galvnews-2022/galvnews-2022-08-17T18:02:44.925103-05:00.accessibility.json) |
 | [August 16 at 6:05 PM](https://archive.org/download/galvnews-2022/galvnews-2022-08-16T18:05:45.501314-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 14 at 8:11 PM](https://archive.org/download/galvnews-2022/galvnews-2022-08-14T20:11:03.848926-05:00.accessibility.json) |
 | [August 14 at 8:34 AM](https://archive.org/download/galvnews-2022/galvnews-2022-08-14T08:34:32.177443-05:00.accessibility.json) |
 | [August 13 at 6:56 PM](https://archive.org/download/galvnews-2022/galvnews-2022-08-13T18:56:29.770192-05:00.accessibility.json) |
-| [August 13 at 8:00 AM](https://archive.org/download/galvnews-2022/galvnews-2022-08-13T08:00:33.976105-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 53 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 54 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 19 at 6:03 PM](https://archive.org/download/galvnews-2022/galvnews-2022-08-19T18:03:46.255743-05:00.lighthouse.json) |
 | [August 18 at 6:05 PM](https://archive.org/download/galvnews-2022/galvnews-2022-08-18T18:05:19.774499-05:00.lighthouse.json) |
 | [August 18 at 6:00 AM](https://archive.org/download/galvnews-2022/galvnews-2022-08-18T06:00:04.837745-05:00.lighthouse.json) |
 | [August 17 at 6:02 PM](https://archive.org/download/galvnews-2022/galvnews-2022-08-17T18:02:44.925103-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 15 at 8:26 PM](https://archive.org/download/galvnews-2022/galvnews-2022-08-15T20:26:16.699874-05:00.lighthouse.json) |
 | [August 15 at 8:59 AM](https://archive.org/download/galvnews-2022/galvnews-2022-08-15T08:59:28.341491-05:00.lighthouse.json) |
 | [August 14 at 8:11 PM](https://archive.org/download/galvnews-2022/galvnews-2022-08-14T20:11:03.848926-05:00.lighthouse.json) |
-| [August 14 at 8:34 AM](https://archive.org/download/galvnews-2022/galvnews-2022-08-14T08:34:32.177443-05:00.lighthouse.json) |
 
 
 

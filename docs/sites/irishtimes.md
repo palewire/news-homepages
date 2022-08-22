@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 15 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 13 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         87
     </td>
     <td style="text-align: right;">
-        337
+        343
     </td>
   </tr>
 
@@ -208,7 +208,7 @@ The median score for each category, along with how it ranks in comparison to the
         26
     </td>
     <td style="text-align: right;">
-        415
+        419
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         85
     </td>
     <td style="text-align: right;">
-        452
+        460
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 65 screenshots with the Internet Archive.
+The archiving routine has saved 68 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/irishtimes-2022/irishtimes-2022-08-20T00:53:01.454802+01:00.jpg">
+  <img src="https://archive.org/download/irishtimes-2022/irishtimes-2022-08-20T00:53:01.454802+01:00.jpg"
+     alt="Irish Times at 2022-08-20 00:53:04+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/irishtimes-2022/irishtimes-2022-08-20T00:53:01.454802+01:00.jpg">August 20 at 12:53 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/irishtimes-2022/irishtimes-2022-08-19T15:18:32.528407+01:00.jpg">
+  <img src="https://archive.org/download/irishtimes-2022/irishtimes-2022-08-19T15:18:32.528407+01:00.jpg"
+     alt="Irish Times at 2022-08-19 15:18:36+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/irishtimes-2022/irishtimes-2022-08-19T15:18:32.528407+01:00.jpg">August 19 at 3:18 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/irishtimes-2022/irishtimes-2022-08-19T12:58:47.284773+01:00.jpg">
+  <img src="https://archive.org/download/irishtimes-2022/irishtimes-2022-08-19T12:58:47.284773+01:00.jpg"
+     alt="Irish Times at 2022-08-19 12:58:50+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/irishtimes-2022/irishtimes-2022-08-19T12:58:47.284773+01:00.jpg">August 19 at 12:58 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/irishtimes-2022/irishtimes-2022-08-19T00:53:31.558101+01:00.jpg">
   <img src="https://archive.org/download/irishtimes-2022/irishtimes-2022-08-19T00:53:31.558101+01:00.jpg"
      alt="Irish Times at 2022-08-19 00:53:35+01:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/irishtimes-2022/irishtimes-2022-08-15T02:14:50.945284+01:00.jpg">August 15 at 2:14 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/irishtimes-2022/irishtimes-2022-08-14T14:43:15.092192+01:00.jpg">
-  <img src="https://archive.org/download/irishtimes-2022/irishtimes-2022-08-14T14:43:15.092192+01:00.jpg"
-     alt="Irish Times at 2022-08-14 14:43:18+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/irishtimes-2022/irishtimes-2022-08-14T14:43:15.092192+01:00.jpg">August 14 at 2:43 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/irishtimes-2022/irishtimes-2022-08-14T04:08:54.562512+01:00.jpg">
-  <img src="https://archive.org/download/irishtimes-2022/irishtimes-2022-08-14T04:08:54.562512+01:00.jpg"
-     alt="Irish Times at 2022-08-14 04:08:57+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/irishtimes-2022/irishtimes-2022-08-14T04:08:54.562512+01:00.jpg">August 14 at 4:08 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/irishtimes-2022/irishtimes-2022-08-13T14:05:01.452174+01:00.jpg">
-  <img src="https://archive.org/download/irishtimes-2022/irishtimes-2022-08-13T14:05:01.452174+01:00.jpg"
-     alt="Irish Times at 2022-08-13 14:05:05+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/irishtimes-2022/irishtimes-2022-08-13T14:05:01.452174+01:00.jpg">August 13 at 2:05 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 65 hyperlink lists with the Internet Archive.
+The archiving routine has saved 68 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 20 at 12:53 AM](https://archive.org/download/irishtimes-2022/irishtimes-2022-08-20T00:53:01.454802+01:00.hyperlinks.json) |
+| [August 19 at 3:18 PM](https://archive.org/download/irishtimes-2022/irishtimes-2022-08-19T15:18:32.528407+01:00.hyperlinks.json) |
+| [August 19 at 12:58 PM](https://archive.org/download/irishtimes-2022/irishtimes-2022-08-19T12:58:47.284773+01:00.hyperlinks.json) |
 | [August 19 at 12:53 AM](https://archive.org/download/irishtimes-2022/irishtimes-2022-08-19T00:53:31.558101+01:00.hyperlinks.json) |
 | [August 18 at 12:57 PM](https://archive.org/download/irishtimes-2022/irishtimes-2022-08-18T12:57:18.531033+01:00.hyperlinks.json) |
 | [August 18 at 12:50 AM](https://archive.org/download/irishtimes-2022/irishtimes-2022-08-18T00:50:02.900660+01:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 17 at 1:04 AM](https://archive.org/download/irishtimes-2022/irishtimes-2022-08-17T01:03:55.583498+01:00.hyperlinks.json) |
 | [August 16 at 2:54 PM](https://archive.org/download/irishtimes-2022/irishtimes-2022-08-16T14:54:40.518909+01:00.hyperlinks.json) |
 | [August 16 at 2:29 AM](https://archive.org/download/irishtimes-2022/irishtimes-2022-08-16T02:29:05.996432+01:00.hyperlinks.json) |
-| [August 15 at 3:09 PM](https://archive.org/download/irishtimes-2022/irishtimes-2022-08-15T15:09:53.446354+01:00.hyperlinks.json) |
-| [August 15 at 2:14 AM](https://archive.org/download/irishtimes-2022/irishtimes-2022-08-15T02:14:50.945284+01:00.hyperlinks.json) |
-| [August 14 at 2:43 PM](https://archive.org/download/irishtimes-2022/irishtimes-2022-08-14T14:43:15.092192+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 64 accessibility trees with the Internet Archive.
+The archiving routine has saved 67 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 20 at 12:53 AM](https://archive.org/download/irishtimes-2022/irishtimes-2022-08-20T00:53:01.454802+01:00.accessibility.json) |
+| [August 19 at 3:18 PM](https://archive.org/download/irishtimes-2022/irishtimes-2022-08-19T15:18:32.528407+01:00.accessibility.json) |
+| [August 19 at 12:58 PM](https://archive.org/download/irishtimes-2022/irishtimes-2022-08-19T12:58:47.284773+01:00.accessibility.json) |
 | [August 19 at 12:53 AM](https://archive.org/download/irishtimes-2022/irishtimes-2022-08-19T00:53:31.558101+01:00.accessibility.json) |
 | [August 18 at 12:57 PM](https://archive.org/download/irishtimes-2022/irishtimes-2022-08-18T12:57:18.531033+01:00.accessibility.json) |
 | [August 18 at 12:50 AM](https://archive.org/download/irishtimes-2022/irishtimes-2022-08-18T00:50:02.900660+01:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 17 at 1:04 AM](https://archive.org/download/irishtimes-2022/irishtimes-2022-08-17T01:03:55.583498+01:00.accessibility.json) |
 | [August 16 at 2:54 PM](https://archive.org/download/irishtimes-2022/irishtimes-2022-08-16T14:54:40.518909+01:00.accessibility.json) |
 | [August 16 at 2:29 AM](https://archive.org/download/irishtimes-2022/irishtimes-2022-08-16T02:29:05.996432+01:00.accessibility.json) |
-| [August 15 at 2:14 AM](https://archive.org/download/irishtimes-2022/irishtimes-2022-08-15T02:14:50.945284+01:00.accessibility.json) |
-| [August 14 at 2:43 PM](https://archive.org/download/irishtimes-2022/irishtimes-2022-08-14T14:43:15.092192+01:00.accessibility.json) |
-| [August 14 at 4:09 AM](https://archive.org/download/irishtimes-2022/irishtimes-2022-08-14T04:08:54.562512+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 53 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 56 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 20 at 12:53 AM](https://archive.org/download/irishtimes-2022/irishtimes-2022-08-20T00:53:01.454802+01:00.lighthouse.json) |
+| [August 19 at 3:18 PM](https://archive.org/download/irishtimes-2022/irishtimes-2022-08-19T15:18:32.528407+01:00.lighthouse.json) |
+| [August 19 at 12:58 PM](https://archive.org/download/irishtimes-2022/irishtimes-2022-08-19T12:58:47.284773+01:00.lighthouse.json) |
 | [August 19 at 12:53 AM](https://archive.org/download/irishtimes-2022/irishtimes-2022-08-19T00:53:31.558101+01:00.lighthouse.json) |
 | [August 18 at 12:57 PM](https://archive.org/download/irishtimes-2022/irishtimes-2022-08-18T12:57:18.531033+01:00.lighthouse.json) |
 | [August 18 at 12:50 AM](https://archive.org/download/irishtimes-2022/irishtimes-2022-08-18T00:50:02.900660+01:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 17 at 1:04 AM](https://archive.org/download/irishtimes-2022/irishtimes-2022-08-17T01:03:55.583498+01:00.lighthouse.json) |
 | [August 16 at 2:54 PM](https://archive.org/download/irishtimes-2022/irishtimes-2022-08-16T14:54:40.518909+01:00.lighthouse.json) |
 | [August 16 at 2:29 AM](https://archive.org/download/irishtimes-2022/irishtimes-2022-08-16T02:29:05.996432+01:00.lighthouse.json) |
-| [August 15 at 3:09 PM](https://archive.org/download/irishtimes-2022/irishtimes-2022-08-15T15:09:53.446354+01:00.lighthouse.json) |
-| [August 15 at 2:14 AM](https://archive.org/download/irishtimes-2022/irishtimes-2022-08-15T02:14:50.945284+01:00.lighthouse.json) |
-| [August 14 at 2:43 PM](https://archive.org/download/irishtimes-2022/irishtimes-2022-08-14T14:43:15.092192+01:00.lighthouse.json) |
 
 
 

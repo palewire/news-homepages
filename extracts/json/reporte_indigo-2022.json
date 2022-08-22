@@ -1,5 +1,5 @@
 {
-  "created": 1660953781,
+  "created": 1661040176,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/0/items/reporte_indigo-2022",
@@ -636,31 +636,155 @@
       "sha1": "dbfb497f4f85e035ad558515233dace415ecfcd1"
     },
     {
+      "name": "reporte_indigo-2022-08-20T07:02:33.009748-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1660996955",
+      "size": "86702",
+      "md5": "c886de6adcf81ab1453e08ee523232a7",
+      "crc32": "1c2444d2",
+      "sha1": "6b6205ddc473479a50c0b8457fd98006fff850e6",
+      "format": "JSON"
+    },
+    {
+      "name": "reporte_indigo-2022-08-20T07:02:33.009748-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1660996956",
+      "size": "45776",
+      "md5": "2f99a66aa1d6675103e67a3e0c8a8c5d",
+      "crc32": "c21c2aac",
+      "sha1": "88fdf886c29f7bbd2c8c2d0883136186fc92b61f",
+      "format": "JSON"
+    },
+    {
+      "name": "reporte_indigo-2022-08-20T07:02:33.009748-05:00.jpg",
+      "source": "original",
+      "mtime": "1660996954",
+      "size": "240648",
+      "md5": "03aaa8412f6fafbb2f40f33b67770175",
+      "crc32": "fe530043",
+      "sha1": "39315f2a6e1ac310cf7c9b8b98ce9272b7a3ceaf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reporte_indigo-2022-08-20T07:02:33.009748-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1660996959",
+      "size": "1513",
+      "md5": "e6e27ae62e8c5faf2e3537a9e4da2a83",
+      "crc32": "e2aa5dfa",
+      "sha1": "eec418978fa6477fe5de7ee6d57c1d842208caf6",
+      "format": "JSON"
+    },
+    {
+      "name": "reporte_indigo-2022-08-20T07:02:33.009748-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1660996962",
+      "size": "20237",
+      "md5": "7d339553ec61ef3c8a5de3b96ff21edb",
+      "crc32": "d32fe373",
+      "sha1": "0da4ddbe61735b64a5cb288fc4e7a19cc253b566",
+      "format": "JSON"
+    },
+    {
+      "name": "reporte_indigo-2022-08-20T07:02:33.009748-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reporte_indigo-2022-08-20T07:02:33.009748-05:00.jpg",
+      "mtime": "1660997034",
+      "size": "10415",
+      "md5": "1534826bb5d42a977dbeaf483d3b0a31",
+      "crc32": "419de02f",
+      "sha1": "3df7269f15183161ed15ccaaab399f31f19f0327"
+    },
+    {
+      "name": "reporte_indigo-2022-08-20T18:59:14.941979-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661039958",
+      "size": "87306",
+      "md5": "e2940fefcfa62bb8ca57d4c9e198ae1d",
+      "crc32": "affe669a",
+      "sha1": "d03efd12bcf25a4dbe8466ea14a3892cad7e7b66",
+      "format": "JSON"
+    },
+    {
+      "name": "reporte_indigo-2022-08-20T18:59:14.941979-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661039959",
+      "size": "46065",
+      "md5": "79946b464a5b54c086d6a457f282a89f",
+      "crc32": "b93baf22",
+      "sha1": "5abd765c5a726654a68a61c6277609d01754dc9a",
+      "format": "JSON"
+    },
+    {
+      "name": "reporte_indigo-2022-08-20T18:59:14.941979-05:00.jpg",
+      "source": "original",
+      "mtime": "1661039956",
+      "size": "231702",
+      "md5": "65cd6fd831c0a0c0c4759c554474942a",
+      "crc32": "9d871962",
+      "sha1": "e5dc7355349e13c1ccebf7552fff71439579a047",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reporte_indigo-2022-08-20T18:59:14.941979-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661039961",
+      "size": "1512",
+      "md5": "1c8b015a204db2fd7deef19e8ac44580",
+      "crc32": "f4fad0fc",
+      "sha1": "7a7dc67acc77a293153d5befd96d590666956888",
+      "format": "JSON"
+    },
+    {
+      "name": "reporte_indigo-2022-08-20T18:59:14.941979-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1661039962",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "reporte_indigo-2022-08-20T18:59:14.941979-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reporte_indigo-2022-08-20T18:59:14.941979-05:00.jpg",
+      "mtime": "1661040150",
+      "size": "10690",
+      "md5": "cd00a072ab3755ca2b00ca1e656c65ed",
+      "crc32": "8656f4e8",
+      "sha1": "a3da044f1beff76bf9bcd9c342bfd0eb623668ac"
+    },
+    {
       "name": "reporte_indigo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e3e0c11843d7b72cfe6aed9b889336928ed600a2",
-      "mtime": "1660953723",
-      "size": "14674",
-      "md5": "33391cfeac1c9a3a3b78ebe9ac8ff04b",
-      "crc32": "c701def5",
-      "sha1": "2565767da5b01c710c3f8db03f1de5d6a30205bd",
+      "btih": "8588cdae446b6155bc8533aa67c2168fca1926fb",
+      "mtime": "1661040154",
+      "size": "17261",
+      "md5": "935f544d46c0b66127d7a77b35626c2b",
+      "crc32": "87421fa3",
+      "sha1": "b781d0866d0b529b9c9fcdaa0a47708f3c45d412",
       "format": "Archive BitTorrent"
     },
     {
       "name": "reporte_indigo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "32d454e95449747b23f8cb97524a5a52",
+      "md5": "65109963608f9852f19b0dea71644b0c",
       "summation": "md5"
     },
     {
       "name": "reporte_indigo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1660953542",
-      "size": "98304",
-      "md5": "ed8378a74f7cea0d1180a347bc0f079a",
-      "crc32": "eb0050bf",
-      "sha1": "3ef795f274731991ca80fb8b36484a3690e9b58c",
+      "mtime": "1661039965",
+      "size": "118784",
+      "md5": "230d162865b09c648de275ee89a71b88",
+      "crc32": "e1159960",
+      "sha1": "830aa39d329e5d4c3f36de251fe34e6b1b07cbff",
       "format": "Metadata"
     },
     {
@@ -674,9 +798,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 65,
-  "item_last_updated": 1660953723,
-  "item_size": 4309411,
+  "files_count": 77,
+  "item_last_updated": 1661040154,
+  "item_size": 5115246,
   "metadata": {
     "identifier": "reporte_indigo-2022",
     "collection": [
@@ -694,7 +818,7 @@
     "addeddate": "2022-08-16 17:12:15"
   },
   "server": "ia601409.us.archive.org",
-  "uniq": 149284377,
+  "uniq": 465189900,
   "workable_servers": [
     "ia601409.us.archive.org",
     "ia801409.us.archive.org"

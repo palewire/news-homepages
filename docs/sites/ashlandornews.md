@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 14 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 13 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         88
     </td>
     <td style="text-align: right;">
-        273
+        277
     </td>
   </tr>
 
@@ -208,7 +208,7 @@ The median score for each category, along with how it ranks in comparison to the
         53
     </td>
     <td style="text-align: right;">
-        152
+        158
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         99
     </td>
     <td style="text-align: right;">
-        31
+        32
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 82 screenshots with the Internet Archive.
+The archiving routine has saved 84 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-08-19T15:57:27.172748-07:00.jpg">
+  <img src="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-08-19T15:57:27.172748-07:00.jpg"
+     alt="Ashland.news at 2022-08-19 15:57:39-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-08-19T15:57:27.172748-07:00.jpg">August 19 at 3:57 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-08-19T03:55:13.437391-07:00.jpg">
+  <img src="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-08-19T03:55:13.437391-07:00.jpg"
+     alt="Ashland.news at 2022-08-19 03:55:18-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-08-19T03:55:13.437391-07:00.jpg">August 19 at 3:55 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-08-18T15:56:23.440452-07:00.jpg">
   <img src="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-08-18T15:56:23.440452-07:00.jpg"
      alt="Ashland.news at 2022-08-18 15:56:26-07:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-08-14T06:22:37.293420-07:00.jpg">August 14 at 6:22 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-08-13T16:44:38.147960-07:00.jpg">
-  <img src="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-08-13T16:44:38.147960-07:00.jpg"
-     alt="Ashland.news at 2022-08-13 16:44:47-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-08-13T16:44:38.147960-07:00.jpg">August 13 at 4:44 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-08-13T05:50:04.560971-07:00.jpg">
-  <img src="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-08-13T05:50:04.560971-07:00.jpg"
-     alt="Ashland.news at 2022-08-13 05:50:07-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ashlandornews-2022/ashlandornews-2022-08-13T05:50:04.560971-07:00.jpg">August 13 at 5:50 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 82 hyperlink lists with the Internet Archive.
+The archiving routine has saved 84 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 19 at 3:57 PM](https://archive.org/download/ashlandornews-2022/ashlandornews-2022-08-19T15:57:27.172748-07:00.hyperlinks.json) |
+| [August 19 at 3:55 AM](https://archive.org/download/ashlandornews-2022/ashlandornews-2022-08-19T03:55:13.437391-07:00.hyperlinks.json) |
 | [August 18 at 3:56 PM](https://archive.org/download/ashlandornews-2022/ashlandornews-2022-08-18T15:56:23.440452-07:00.hyperlinks.json) |
 | [August 18 at 3:54 AM](https://archive.org/download/ashlandornews-2022/ashlandornews-2022-08-18T03:53:50.269267-07:00.hyperlinks.json) |
 | [August 17 at 3:56 PM](https://archive.org/download/ashlandornews-2022/ashlandornews-2022-08-17T15:56:41.766992-07:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 16 at 6:27 AM](https://archive.org/download/ashlandornews-2022/ashlandornews-2022-08-16T06:26:55.935399-07:00.hyperlinks.json) |
 | [August 15 at 6:13 PM](https://archive.org/download/ashlandornews-2022/ashlandornews-2022-08-15T18:13:01.208523-07:00.hyperlinks.json) |
 | [August 15 at 6:46 AM](https://archive.org/download/ashlandornews-2022/ashlandornews-2022-08-15T06:46:47.340158-07:00.hyperlinks.json) |
-| [August 14 at 6:00 PM](https://archive.org/download/ashlandornews-2022/ashlandornews-2022-08-14T18:00:25.743613-07:00.hyperlinks.json) |
-| [August 14 at 6:22 AM](https://archive.org/download/ashlandornews-2022/ashlandornews-2022-08-14T06:22:37.293420-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 82 accessibility trees with the Internet Archive.
+The archiving routine has saved 84 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 19 at 3:57 PM](https://archive.org/download/ashlandornews-2022/ashlandornews-2022-08-19T15:57:27.172748-07:00.accessibility.json) |
+| [August 19 at 3:55 AM](https://archive.org/download/ashlandornews-2022/ashlandornews-2022-08-19T03:55:13.437391-07:00.accessibility.json) |
 | [August 18 at 3:56 PM](https://archive.org/download/ashlandornews-2022/ashlandornews-2022-08-18T15:56:23.440452-07:00.accessibility.json) |
 | [August 18 at 3:54 AM](https://archive.org/download/ashlandornews-2022/ashlandornews-2022-08-18T03:53:50.269267-07:00.accessibility.json) |
 | [August 17 at 3:56 PM](https://archive.org/download/ashlandornews-2022/ashlandornews-2022-08-17T15:56:41.766992-07:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 16 at 6:26 AM](https://archive.org/download/ashlandornews-2022/ashlandornews-2022-08-16T06:26:55.935399-07:00.accessibility.json) |
 | [August 15 at 6:13 PM](https://archive.org/download/ashlandornews-2022/ashlandornews-2022-08-15T18:13:01.208523-07:00.accessibility.json) |
 | [August 15 at 6:46 AM](https://archive.org/download/ashlandornews-2022/ashlandornews-2022-08-15T06:46:47.340158-07:00.accessibility.json) |
-| [August 14 at 6:00 PM](https://archive.org/download/ashlandornews-2022/ashlandornews-2022-08-14T18:00:25.743613-07:00.accessibility.json) |
-| [August 14 at 6:22 AM](https://archive.org/download/ashlandornews-2022/ashlandornews-2022-08-14T06:22:37.293420-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 52 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 54 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 19 at 3:57 PM](https://archive.org/download/ashlandornews-2022/ashlandornews-2022-08-19T15:57:27.172748-07:00.lighthouse.json) |
+| [August 19 at 3:55 AM](https://archive.org/download/ashlandornews-2022/ashlandornews-2022-08-19T03:55:13.437391-07:00.lighthouse.json) |
 | [August 18 at 3:56 PM](https://archive.org/download/ashlandornews-2022/ashlandornews-2022-08-18T15:56:23.440452-07:00.lighthouse.json) |
 | [August 18 at 3:54 AM](https://archive.org/download/ashlandornews-2022/ashlandornews-2022-08-18T03:53:50.269267-07:00.lighthouse.json) |
 | [August 17 at 3:56 PM](https://archive.org/download/ashlandornews-2022/ashlandornews-2022-08-17T15:56:41.766992-07:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 16 at 6:27 AM](https://archive.org/download/ashlandornews-2022/ashlandornews-2022-08-16T06:26:55.935399-07:00.lighthouse.json) |
 | [August 15 at 6:13 PM](https://archive.org/download/ashlandornews-2022/ashlandornews-2022-08-15T18:13:01.208523-07:00.lighthouse.json) |
 | [August 15 at 6:46 AM](https://archive.org/download/ashlandornews-2022/ashlandornews-2022-08-15T06:46:47.340158-07:00.lighthouse.json) |
-| [August 14 at 6:00 PM](https://archive.org/download/ashlandornews-2022/ashlandornews-2022-08-14T18:00:25.743613-07:00.lighthouse.json) |
-| [August 14 at 6:22 AM](https://archive.org/download/ashlandornews-2022/ashlandornews-2022-08-14T06:22:37.293420-07:00.lighthouse.json) |
 
 
 

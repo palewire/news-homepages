@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 14 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 12 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         77
     </td>
     <td style="text-align: right;">
-        610
+        623
     </td>
   </tr>
 
@@ -196,7 +196,7 @@ The median score for each category, along with how it ranks in comparison to the
         67
     </td>
     <td style="text-align: right;">
-        700
+        715
     </td>
   </tr>
 
@@ -208,7 +208,7 @@ The median score for each category, along with how it ranks in comparison to the
         22
     </td>
     <td style="text-align: right;">
-        502
+        511
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         85
     </td>
     <td style="text-align: right;">
-        452
+        460
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 51 screenshots with the Internet Archive.
+The archiving routine has saved 53 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-19T20:17:35.838446+05:45.jpg">
+  <img src="https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-19T20:17:35.838446+05:45.jpg"
+     alt="Imagekhabar at 2022-08-19 20:17:39+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-19T20:17:35.838446+05:45.jpg">August 19 at 8:17 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-19T08:17:36.415934+05:45.jpg">
+  <img src="https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-19T08:17:36.415934+05:45.jpg"
+     alt="Imagekhabar at 2022-08-19 08:17:37+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-19T08:17:36.415934+05:45.jpg">August 19 at 8:17 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-18T19:54:29.539405+05:45.jpg">
   <img src="https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-18T19:54:29.539405+05:45.jpg"
      alt="Imagekhabar at 2022-08-18 19:54:30+05:45 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-14T12:33:47.230556+05:45.jpg">August 14 at 12:33 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-14T02:10:13.295537+05:45.jpg">
-  <img src="https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-14T02:10:13.295537+05:45.jpg"
-     alt="Imagekhabar at 2022-08-14 02:10:15+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-14T02:10:13.295537+05:45.jpg">August 14 at 2:10 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-13T09:28:59.116474+05:45.jpg">
-  <img src="https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-13T09:28:59.116474+05:45.jpg"
-     alt="Imagekhabar at 2022-08-13 09:29:00+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-13T09:28:59.116474+05:45.jpg">August 13 at 9:29 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 50 hyperlink lists with the Internet Archive.
+The archiving routine has saved 52 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 19 at 8:17 PM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-19T20:17:35.838446+05:45.hyperlinks.json) |
+| [August 19 at 8:17 AM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-19T08:17:36.415934+05:45.hyperlinks.json) |
 | [August 18 at 7:54 PM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-18T19:54:29.539405+05:45.hyperlinks.json) |
 | [August 18 at 8:12 AM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-18T08:12:52.666852+05:45.hyperlinks.json) |
 | [August 17 at 8:47 PM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-17T20:47:46.853273+05:45.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 16 at 12:20 PM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-16T12:20:48.043920+05:45.hyperlinks.json) |
 | [August 16 at 1:39 AM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-16T01:39:29.210160+05:45.hyperlinks.json) |
 | [August 15 at 12:12 PM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-15T12:12:17.654475+05:45.hyperlinks.json) |
-| [August 14 at 11:06 PM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-14T23:06:30.843057+05:45.hyperlinks.json) |
-| [August 14 at 12:33 PM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-14T12:33:47.230556+05:45.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 51 accessibility trees with the Internet Archive.
+The archiving routine has saved 53 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 19 at 8:17 PM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-19T20:17:35.838446+05:45.accessibility.json) |
+| [August 19 at 8:17 AM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-19T08:17:36.415934+05:45.accessibility.json) |
 | [August 18 at 7:54 PM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-18T19:54:29.539405+05:45.accessibility.json) |
 | [August 18 at 8:12 AM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-18T08:12:52.666852+05:45.accessibility.json) |
 | [August 17 at 8:47 PM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-17T20:47:46.853273+05:45.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 16 at 12:20 PM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-16T12:20:48.043920+05:45.accessibility.json) |
 | [August 16 at 1:39 AM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-16T01:39:29.210160+05:45.accessibility.json) |
 | [August 15 at 12:12 PM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-15T12:12:17.654475+05:45.accessibility.json) |
-| [August 14 at 11:06 PM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-14T23:06:30.843057+05:45.accessibility.json) |
-| [August 14 at 12:33 PM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-14T12:33:47.230556+05:45.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 51 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 53 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 19 at 8:17 PM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-19T20:17:35.838446+05:45.lighthouse.json) |
+| [August 19 at 8:17 AM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-19T08:17:36.415934+05:45.lighthouse.json) |
 | [August 18 at 7:54 PM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-18T19:54:29.539405+05:45.lighthouse.json) |
 | [August 18 at 8:13 AM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-18T08:12:52.666852+05:45.lighthouse.json) |
 | [August 17 at 8:48 PM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-17T20:47:46.853273+05:45.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 16 at 12:20 PM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-16T12:20:48.043920+05:45.lighthouse.json) |
 | [August 16 at 1:39 AM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-16T01:39:29.210160+05:45.lighthouse.json) |
 | [August 15 at 12:12 PM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-15T12:12:17.654475+05:45.lighthouse.json) |
-| [August 14 at 11:06 PM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-14T23:06:30.843057+05:45.lighthouse.json) |
-| [August 14 at 12:33 PM](https://archive.org/download/imagekhabar-2022/imagekhabar-2022-08-14T12:33:47.230556+05:45.lighthouse.json) |
 
 
 

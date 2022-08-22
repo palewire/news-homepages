@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 14 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 12 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         73
     </td>
     <td style="text-align: right;">
-        671
+        685
     </td>
   </tr>
 
@@ -196,7 +196,7 @@ The median score for each category, along with how it ranks in comparison to the
         83
     </td>
     <td style="text-align: right;">
-        399
+        404
     </td>
   </tr>
 
@@ -208,7 +208,7 @@ The median score for each category, along with how it ranks in comparison to the
         34
     </td>
     <td style="text-align: right;">
-        311
+        322
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         77
     </td>
     <td style="text-align: right;">
-        675
+        693
     </td>
   </tr>
 
@@ -234,13 +234,31 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 16 screenshots with the Internet Archive.
+The archiving routine has saved 18 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-08-19T16:29:16.320780+02:00.jpg">
+  <img src="https://archive.org/download/derspiegel-2022/derspiegel-2022-08-19T16:29:16.320780+02:00.jpg"
+     alt="Der Spiegel at 2022-08-19 16:29:18+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-08-19T16:29:16.320780+02:00.jpg">August 19 at 4:29 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-08-19T04:29:25.535974+02:00.jpg">
+  <img src="https://archive.org/download/derspiegel-2022/derspiegel-2022-08-19T04:29:25.535974+02:00.jpg"
+     alt="Der Spiegel at 2022-08-19 04:29:28+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-08-19T04:29:25.535974+02:00.jpg">August 19 at 4:29 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-08-18T16:05:12.552221+02:00.jpg">
@@ -332,29 +350,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-08-14T08:42:52.651660+02:00.jpg">August 14 at 8:42 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-08-13T22:18:31.076907+02:00.jpg">
-  <img src="https://archive.org/download/derspiegel-2022/derspiegel-2022-08-13T22:18:31.076907+02:00.jpg"
-     alt="Der Spiegel at 2022-08-13 22:18:33+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-08-13T22:18:31.076907+02:00.jpg">August 13 at 10:18 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-08-13T05:37:22.060208+02:00.jpg">
-  <img src="https://archive.org/download/derspiegel-2022/derspiegel-2022-08-13T05:37:22.060208+02:00.jpg"
-     alt="Der Spiegel at 2022-08-13 05:37:23+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-08-13T05:37:22.060208+02:00.jpg">August 13 at 5:37 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 16 hyperlink lists with the Internet Archive.
+The archiving routine has saved 18 hyperlink lists with the Internet Archive.
 
 
 
@@ -362,6 +362,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 19 at 4:29 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-19T16:29:16.320780+02:00.hyperlinks.json) |
+| [August 19 at 4:29 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-19T04:29:25.535974+02:00.hyperlinks.json) |
 | [August 18 at 4:05 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-18T16:05:12.552221+02:00.hyperlinks.json) |
 | [August 18 at 4:24 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-18T04:24:17.250800+02:00.hyperlinks.json) |
 | [August 17 at 4:59 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-17T16:59:17.922503+02:00.hyperlinks.json) |
@@ -370,13 +372,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 16 at 8:30 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-16T08:29:51.789962+02:00.hyperlinks.json) |
 | [August 15 at 9:48 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-15T21:48:28.341414+02:00.hyperlinks.json) |
 | [August 15 at 8:22 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-15T08:22:46.238241+02:00.hyperlinks.json) |
-| [August 14 at 7:16 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-14T19:16:41.752334+02:00.hyperlinks.json) |
-| [August 14 at 8:42 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-14T08:42:52.651660+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 16 accessibility trees with the Internet Archive.
+The archiving routine has saved 18 accessibility trees with the Internet Archive.
 
 
 
@@ -384,6 +384,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 19 at 4:29 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-19T16:29:16.320780+02:00.accessibility.json) |
+| [August 19 at 4:29 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-19T04:29:25.535974+02:00.accessibility.json) |
 | [August 18 at 4:05 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-18T16:05:12.552221+02:00.accessibility.json) |
 | [August 18 at 4:24 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-18T04:24:17.250800+02:00.accessibility.json) |
 | [August 17 at 4:59 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-17T16:59:17.922503+02:00.accessibility.json) |
@@ -392,14 +394,12 @@ Here are the 10 most recent accessibility trees.
 | [August 16 at 8:29 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-16T08:29:51.789962+02:00.accessibility.json) |
 | [August 15 at 9:48 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-15T21:48:28.341414+02:00.accessibility.json) |
 | [August 15 at 8:22 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-15T08:22:46.238241+02:00.accessibility.json) |
-| [August 14 at 7:16 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-14T19:16:41.752334+02:00.accessibility.json) |
-| [August 14 at 8:42 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-14T08:42:52.651660+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 16 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 18 Lighthouse audits with the Internet Archive.
 
 
 
@@ -407,6 +407,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 19 at 4:29 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-19T16:29:16.320780+02:00.lighthouse.json) |
+| [August 19 at 4:29 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-19T04:29:25.535974+02:00.lighthouse.json) |
 | [August 18 at 4:05 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-18T16:05:12.552221+02:00.lighthouse.json) |
 | [August 18 at 4:24 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-18T04:24:17.250800+02:00.lighthouse.json) |
 | [August 17 at 4:59 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-17T16:59:17.922503+02:00.lighthouse.json) |
@@ -415,8 +417,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 16 at 8:30 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-16T08:29:51.789962+02:00.lighthouse.json) |
 | [August 15 at 9:48 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-15T21:48:28.341414+02:00.lighthouse.json) |
 | [August 15 at 8:22 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-15T08:22:46.238241+02:00.lighthouse.json) |
-| [August 14 at 7:16 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-14T19:16:41.752334+02:00.lighthouse.json) |
-| [August 14 at 8:42 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-08-14T08:42:52.651660+02:00.lighthouse.json) |
 
 
 

@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 15 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 13 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         94
     </td>
     <td style="text-align: right;">
-        127
+        129
     </td>
   </tr>
 
@@ -208,7 +208,7 @@ The median score for each category, along with how it ranks in comparison to the
         71
     </td>
     <td style="text-align: right;">
-        68
+        69
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         83
     </td>
     <td style="text-align: right;">
-        563
+        575
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 58 screenshots with the Internet Archive.
+The archiving routine has saved 60 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/calmatters-2022/calmatters-2022-08-19T15:59:34.748273-07:00.jpg">
+  <img src="https://archive.org/download/calmatters-2022/calmatters-2022-08-19T15:59:34.748273-07:00.jpg"
+     alt="Calmatters at 2022-08-19 15:59:36-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/calmatters-2022/calmatters-2022-08-19T15:59:34.748273-07:00.jpg">August 19 at 3:59 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/calmatters-2022/calmatters-2022-08-19T03:57:18.964168-07:00.jpg">
+  <img src="https://archive.org/download/calmatters-2022/calmatters-2022-08-19T03:57:18.964168-07:00.jpg"
+     alt="Calmatters at 2022-08-19 03:57:20-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/calmatters-2022/calmatters-2022-08-19T03:57:18.964168-07:00.jpg">August 19 at 3:57 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/calmatters-2022/calmatters-2022-08-18T15:59:47.865779-07:00.jpg">
   <img src="https://archive.org/download/calmatters-2022/calmatters-2022-08-18T15:59:47.865779-07:00.jpg"
      alt="Calmatters at 2022-08-18 15:59:51-07:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/calmatters-2022/calmatters-2022-08-14T06:25:53.608142-07:00.jpg">August 14 at 6:25 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/calmatters-2022/calmatters-2022-08-13T16:49:04.011754-07:00.jpg">
-  <img src="https://archive.org/download/calmatters-2022/calmatters-2022-08-13T16:49:04.011754-07:00.jpg"
-     alt="Calmatters at 2022-08-13 16:49:05-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/calmatters-2022/calmatters-2022-08-13T16:49:04.011754-07:00.jpg">August 13 at 4:49 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/calmatters-2022/calmatters-2022-08-13T05:54:11.686193-07:00.jpg">
-  <img src="https://archive.org/download/calmatters-2022/calmatters-2022-08-13T05:54:11.686193-07:00.jpg"
-     alt="Calmatters at 2022-08-13 05:54:13-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/calmatters-2022/calmatters-2022-08-13T05:54:11.686193-07:00.jpg">August 13 at 5:54 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 58 hyperlink lists with the Internet Archive.
+The archiving routine has saved 60 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 19 at 3:59 PM](https://archive.org/download/calmatters-2022/calmatters-2022-08-19T15:59:34.748273-07:00.hyperlinks.json) |
+| [August 19 at 3:57 AM](https://archive.org/download/calmatters-2022/calmatters-2022-08-19T03:57:18.964168-07:00.hyperlinks.json) |
 | [August 18 at 3:59 PM](https://archive.org/download/calmatters-2022/calmatters-2022-08-18T15:59:47.865779-07:00.hyperlinks.json) |
 | [August 18 at 3:55 AM](https://archive.org/download/calmatters-2022/calmatters-2022-08-18T03:55:28.506116-07:00.hyperlinks.json) |
 | [August 17 at 3:58 PM](https://archive.org/download/calmatters-2022/calmatters-2022-08-17T15:58:07.278639-07:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 16 at 6:30 AM](https://archive.org/download/calmatters-2022/calmatters-2022-08-16T06:29:54.322774-07:00.hyperlinks.json) |
 | [August 15 at 6:17 PM](https://archive.org/download/calmatters-2022/calmatters-2022-08-15T18:17:19.768447-07:00.hyperlinks.json) |
 | [August 15 at 6:52 AM](https://archive.org/download/calmatters-2022/calmatters-2022-08-15T06:52:15.521932-07:00.hyperlinks.json) |
-| [August 14 at 6:03 PM](https://archive.org/download/calmatters-2022/calmatters-2022-08-14T18:03:46.035990-07:00.hyperlinks.json) |
-| [August 14 at 6:25 AM](https://archive.org/download/calmatters-2022/calmatters-2022-08-14T06:25:53.608142-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 58 accessibility trees with the Internet Archive.
+The archiving routine has saved 60 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 19 at 3:59 PM](https://archive.org/download/calmatters-2022/calmatters-2022-08-19T15:59:34.748273-07:00.accessibility.json) |
+| [August 19 at 3:57 AM](https://archive.org/download/calmatters-2022/calmatters-2022-08-19T03:57:18.964168-07:00.accessibility.json) |
 | [August 18 at 3:59 PM](https://archive.org/download/calmatters-2022/calmatters-2022-08-18T15:59:47.865779-07:00.accessibility.json) |
 | [August 18 at 3:55 AM](https://archive.org/download/calmatters-2022/calmatters-2022-08-18T03:55:28.506116-07:00.accessibility.json) |
 | [August 17 at 3:58 PM](https://archive.org/download/calmatters-2022/calmatters-2022-08-17T15:58:07.278639-07:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 16 at 6:29 AM](https://archive.org/download/calmatters-2022/calmatters-2022-08-16T06:29:54.322774-07:00.accessibility.json) |
 | [August 15 at 6:17 PM](https://archive.org/download/calmatters-2022/calmatters-2022-08-15T18:17:19.768447-07:00.accessibility.json) |
 | [August 15 at 6:52 AM](https://archive.org/download/calmatters-2022/calmatters-2022-08-15T06:52:15.521932-07:00.accessibility.json) |
-| [August 14 at 6:03 PM](https://archive.org/download/calmatters-2022/calmatters-2022-08-14T18:03:46.035990-07:00.accessibility.json) |
-| [August 14 at 6:25 AM](https://archive.org/download/calmatters-2022/calmatters-2022-08-14T06:25:53.608142-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 53 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 55 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 19 at 3:59 PM](https://archive.org/download/calmatters-2022/calmatters-2022-08-19T15:59:34.748273-07:00.lighthouse.json) |
+| [August 19 at 3:57 AM](https://archive.org/download/calmatters-2022/calmatters-2022-08-19T03:57:18.964168-07:00.lighthouse.json) |
 | [August 18 at 3:59 PM](https://archive.org/download/calmatters-2022/calmatters-2022-08-18T15:59:47.865779-07:00.lighthouse.json) |
 | [August 18 at 3:55 AM](https://archive.org/download/calmatters-2022/calmatters-2022-08-18T03:55:28.506116-07:00.lighthouse.json) |
 | [August 17 at 3:58 PM](https://archive.org/download/calmatters-2022/calmatters-2022-08-17T15:58:07.278639-07:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 16 at 6:30 AM](https://archive.org/download/calmatters-2022/calmatters-2022-08-16T06:29:54.322774-07:00.lighthouse.json) |
 | [August 15 at 6:17 PM](https://archive.org/download/calmatters-2022/calmatters-2022-08-15T18:17:19.768447-07:00.lighthouse.json) |
 | [August 15 at 6:52 AM](https://archive.org/download/calmatters-2022/calmatters-2022-08-15T06:52:15.521932-07:00.lighthouse.json) |
-| [August 14 at 6:04 PM](https://archive.org/download/calmatters-2022/calmatters-2022-08-14T18:03:46.035990-07:00.lighthouse.json) |
-| [August 14 at 6:26 AM](https://archive.org/download/calmatters-2022/calmatters-2022-08-14T06:25:53.608142-07:00.lighthouse.json) |
 
 
 

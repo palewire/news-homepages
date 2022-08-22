@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 14 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 12 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         72
     </td>
     <td style="text-align: right;">
-        686
+        700
     </td>
   </tr>
 
@@ -196,7 +196,7 @@ The median score for each category, along with how it ranks in comparison to the
         83
     </td>
     <td style="text-align: right;">
-        399
+        404
     </td>
   </tr>
 
@@ -208,7 +208,7 @@ The median score for each category, along with how it ranks in comparison to the
         17
     </td>
     <td style="text-align: right;">
-        607
+        623
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         83
     </td>
     <td style="text-align: right;">
-        563
+        575
     </td>
   </tr>
 
@@ -234,13 +234,40 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 27 screenshots with the Internet Archive.
+The archiving routine has saved 30 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nzherald-2022/nzherald-2022-08-20T03:27:18.613731+12:00.jpg">
+  <img src="https://archive.org/download/nzherald-2022/nzherald-2022-08-20T03:27:18.613731+12:00.jpg"
+     alt="NZ Herald at 2022-08-20 03:27:20+12:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nzherald-2022/nzherald-2022-08-20T03:27:18.613731+12:00.jpg">August 20 at 3:27 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nzherald-2022/nzherald-2022-08-20T00:08:26.278822+12:00.jpg">
+  <img src="https://archive.org/download/nzherald-2022/nzherald-2022-08-20T00:08:26.278822+12:00.jpg"
+     alt="NZ Herald at 2022-08-20 00:08:30+12:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nzherald-2022/nzherald-2022-08-20T00:08:26.278822+12:00.jpg">August 20 at 12:08 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nzherald-2022/nzherald-2022-08-19T15:38:45.399381+12:00.jpg">
+  <img src="https://archive.org/download/nzherald-2022/nzherald-2022-08-19T15:38:45.399381+12:00.jpg"
+     alt="NZ Herald at 2022-08-19 15:38:47+12:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nzherald-2022/nzherald-2022-08-19T15:38:45.399381+12:00.jpg">August 19 at 3:38 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nzherald-2022/nzherald-2022-08-19T03:22:06.549022+12:00.jpg">
@@ -323,45 +350,104 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nzherald-2022/nzherald-2022-08-14T18:58:44.509184+12:00.jpg">August 14 at 6:58 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nzherald-2022/nzherald-2022-08-14T08:53:52.054216+12:00.jpg">
-  <img src="https://archive.org/download/nzherald-2022/nzherald-2022-08-14T08:53:52.054216+12:00.jpg"
-     alt="NZ Herald at 2022-08-14 08:53:55+12:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nzherald-2022/nzherald-2022-08-14T08:53:52.054216+12:00.jpg">August 14 at 8:53 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nzherald-2022/nzherald-2022-08-13T17:05:29.012676+12:00.jpg">
-  <img src="https://archive.org/download/nzherald-2022/nzherald-2022-08-13T17:05:29.012676+12:00.jpg"
-     alt="NZ Herald at 2022-08-13 17:05:31+12:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nzherald-2022/nzherald-2022-08-13T17:05:29.012676+12:00.jpg">August 13 at 5:05 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nzherald-2022/nzherald-2022-08-13T06:15:10.323501+12:00.jpg">
-  <img src="https://archive.org/download/nzherald-2022/nzherald-2022-08-13T06:15:10.323501+12:00.jpg"
-     alt="NZ Herald at 2022-08-13 06:15:28+12:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nzherald-2022/nzherald-2022-08-13T06:15:10.323501+12:00.jpg">August 13 at 6:15 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 28 hyperlink lists with the Internet Archive.
+The archiving routine has saved 31 hyperlink lists with the Internet Archive.
 
+
+  <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specHyperlinks = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/hyperlinks/nzherald.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--hyperlinks", specHyperlinks, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 20 at 3:27 AM](https://archive.org/download/nzherald-2022/nzherald-2022-08-20T03:27:18.613731+12:00.hyperlinks.json) |
+| [August 20 at 12:08 AM](https://archive.org/download/nzherald-2022/nzherald-2022-08-20T00:08:26.278822+12:00.hyperlinks.json) |
+| [August 19 at 3:38 PM](https://archive.org/download/nzherald-2022/nzherald-2022-08-19T15:38:45.399381+12:00.hyperlinks.json) |
 | [August 19 at 3:22 AM](https://archive.org/download/nzherald-2022/nzherald-2022-08-19T03:22:06.549022+12:00.hyperlinks.json) |
 | [August 18 at 3:42 PM](https://archive.org/download/nzherald-2022/nzherald-2022-08-18T15:42:45.031024+12:00.hyperlinks.json) |
 | [August 18 at 3:07 AM](https://archive.org/download/nzherald-2022/nzherald-2022-08-18T03:07:22.571045+12:00.hyperlinks.json) |
@@ -369,21 +455,104 @@ Here are the 10 most recent hyperlink lists.
 | [August 17 at 6:41 AM](https://archive.org/download/nzherald-2022/nzherald-2022-08-17T06:41:32.398012+12:00.hyperlinks.json) |
 | [August 16 at 6:44 PM](https://archive.org/download/nzherald-2022/nzherald-2022-08-16T18:44:44.370017+12:00.hyperlinks.json) |
 | [August 16 at 8:06 AM](https://archive.org/download/nzherald-2022/nzherald-2022-08-16T08:06:27.192733+12:00.hyperlinks.json) |
-| [August 15 at 6:36 PM](https://archive.org/download/nzherald-2022/nzherald-2022-08-15T18:36:50.192680+12:00.hyperlinks.json) |
-| [August 15 at 6:54 AM](https://archive.org/download/nzherald-2022/nzherald-2022-08-15T06:54:38.395628+12:00.hyperlinks.json) |
-| [August 14 at 6:58 PM](https://archive.org/download/nzherald-2022/nzherald-2022-08-14T18:58:44.509184+12:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 28 accessibility trees with the Internet Archive.
+The archiving routine has saved 31 accessibility trees with the Internet Archive.
 
+
+  <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specAccessibility = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/accessibility/nzherald.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--accessibility", specAccessibility, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 20 at 3:27 AM](https://archive.org/download/nzherald-2022/nzherald-2022-08-20T03:27:18.613731+12:00.accessibility.json) |
+| [August 20 at 12:08 AM](https://archive.org/download/nzherald-2022/nzherald-2022-08-20T00:08:26.278822+12:00.accessibility.json) |
+| [August 19 at 3:38 PM](https://archive.org/download/nzherald-2022/nzherald-2022-08-19T15:38:45.399381+12:00.accessibility.json) |
 | [August 19 at 3:22 AM](https://archive.org/download/nzherald-2022/nzherald-2022-08-19T03:22:06.549022+12:00.accessibility.json) |
 | [August 18 at 3:42 PM](https://archive.org/download/nzherald-2022/nzherald-2022-08-18T15:42:45.031024+12:00.accessibility.json) |
 | [August 18 at 3:07 AM](https://archive.org/download/nzherald-2022/nzherald-2022-08-18T03:07:22.571045+12:00.accessibility.json) |
@@ -391,22 +560,105 @@ Here are the 10 most recent accessibility trees.
 | [August 17 at 6:41 AM](https://archive.org/download/nzherald-2022/nzherald-2022-08-17T06:41:32.398012+12:00.accessibility.json) |
 | [August 16 at 6:44 PM](https://archive.org/download/nzherald-2022/nzherald-2022-08-16T18:44:44.370017+12:00.accessibility.json) |
 | [August 16 at 8:06 AM](https://archive.org/download/nzherald-2022/nzherald-2022-08-16T08:06:27.192733+12:00.accessibility.json) |
-| [August 15 at 6:36 PM](https://archive.org/download/nzherald-2022/nzherald-2022-08-15T18:36:50.192680+12:00.accessibility.json) |
-| [August 15 at 6:54 AM](https://archive.org/download/nzherald-2022/nzherald-2022-08-15T06:54:38.395628+12:00.accessibility.json) |
-| [August 14 at 6:58 PM](https://archive.org/download/nzherald-2022/nzherald-2022-08-14T18:58:44.509184+12:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 28 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 31 Lighthouse audits with the Internet Archive.
 
+
+  <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
+  <script>
+    const specLighthouse = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 18,
+      "lineHeight": 26,
+      "fontWeight": "bold",
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleColor": "#000000",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 20
+    },
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false,
+      "labelAlign": "right"
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    }
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/palewire/news-homepages/main/docs/_extra/charts/sites/lighthouse/nzherald.json"
+  },
+  "mark": {"type": "area", "line": true},
+  "encoding": {
+    "x": {
+      "axis": {"format": "%B %-d", "grid": false},
+      "field": "date",
+      "timeUnit": "yearmonthdate",
+      "title": null,
+      "type": "temporal"
+    },
+    "y": {"field": "value", "title": false, "type": "quantitative"}
+  },
+  "title": {
+    "text": "Total by day",
+    "subtitle": "Seven-day rolling average"
+  },
+  "width": "container",
+  "height": 250,
+  "padding": 0,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.2.0.json"
+};
+    vegaEmbed("#vis--lighthouse", specLighthouse, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+</script>
 
 
 Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 20 at 3:27 AM](https://archive.org/download/nzherald-2022/nzherald-2022-08-20T03:27:18.613731+12:00.lighthouse.json) |
+| [August 20 at 12:08 AM](https://archive.org/download/nzherald-2022/nzherald-2022-08-20T00:08:26.278822+12:00.lighthouse.json) |
+| [August 19 at 3:38 PM](https://archive.org/download/nzherald-2022/nzherald-2022-08-19T15:38:45.399381+12:00.lighthouse.json) |
 | [August 19 at 3:22 AM](https://archive.org/download/nzherald-2022/nzherald-2022-08-19T03:22:06.549022+12:00.lighthouse.json) |
 | [August 18 at 3:42 PM](https://archive.org/download/nzherald-2022/nzherald-2022-08-18T15:42:45.031024+12:00.lighthouse.json) |
 | [August 18 at 3:07 AM](https://archive.org/download/nzherald-2022/nzherald-2022-08-18T03:07:22.571045+12:00.lighthouse.json) |
@@ -414,9 +666,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 17 at 6:41 AM](https://archive.org/download/nzherald-2022/nzherald-2022-08-17T06:41:32.398012+12:00.lighthouse.json) |
 | [August 16 at 6:44 PM](https://archive.org/download/nzherald-2022/nzherald-2022-08-16T18:44:44.370017+12:00.lighthouse.json) |
 | [August 16 at 8:06 AM](https://archive.org/download/nzherald-2022/nzherald-2022-08-16T08:06:27.192733+12:00.lighthouse.json) |
-| [August 15 at 6:36 PM](https://archive.org/download/nzherald-2022/nzherald-2022-08-15T18:36:50.192680+12:00.lighthouse.json) |
-| [August 15 at 6:54 AM](https://archive.org/download/nzherald-2022/nzherald-2022-08-15T06:54:38.395628+12:00.lighthouse.json) |
-| [August 14 at 6:58 PM](https://archive.org/download/nzherald-2022/nzherald-2022-08-14T18:58:44.509184+12:00.lighthouse.json) |
 
 
 

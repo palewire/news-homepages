@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 15 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 12 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -181,10 +181,10 @@ The median score for each category, along with how it ranks in comparison to the
         Accessibility
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        81
+        82
     </td>
     <td style="text-align: right;">
-        501
+        486
     </td>
   </tr>
 
@@ -193,10 +193,10 @@ The median score for each category, along with how it ranks in comparison to the
         Best practices
     </td>
     <td style="text-align: right; background-color: orange; color: white;">
-        75
+        79
     </td>
     <td style="text-align: right;">
-        579
+        590
     </td>
   </tr>
 
@@ -205,10 +205,10 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        22
+        26
     </td>
     <td style="text-align: right;">
-        502
+        417
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         70
     </td>
     <td style="text-align: right;">
-        755
+        770
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 37 screenshots with the Internet Archive.
+The archiving routine has saved 39 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/whas11-2022/whas11-2022-08-19T09:25:02.349428-04:00.jpg">
+  <img src="https://archive.org/download/whas11-2022/whas11-2022-08-19T09:25:02.349428-04:00.jpg"
+     alt="WHAS11 News at 2022-08-19 09:25:05-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/whas11-2022/whas11-2022-08-19T09:25:02.349428-04:00.jpg">August 19 at 9:25 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/whas11-2022/whas11-2022-08-18T21:23:52.561623-04:00.jpg">
+  <img src="https://archive.org/download/whas11-2022/whas11-2022-08-18T21:23:52.561623-04:00.jpg"
+     alt="WHAS11 News at 2022-08-18 21:23:54-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/whas11-2022/whas11-2022-08-18T21:23:52.561623-04:00.jpg">August 18 at 9:23 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/whas11-2022/whas11-2022-08-18T09:04:23.238475-04:00.jpg">
   <img src="https://archive.org/download/whas11-2022/whas11-2022-08-18T09:04:23.238475-04:00.jpg"
      alt="WHAS11 News at 2022-08-18 09:04:24-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/whas11-2022/whas11-2022-08-14T01:13:20.939105-04:00.jpg">August 14 at 1:13 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/whas11-2022/whas11-2022-08-13T16:49:51.798993-04:00.jpg">
-  <img src="https://archive.org/download/whas11-2022/whas11-2022-08-13T16:49:51.798993-04:00.jpg"
-     alt="WHAS11 News at 2022-08-13 16:49:54-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/whas11-2022/whas11-2022-08-13T16:49:51.798993-04:00.jpg">August 13 at 4:49 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/whas11-2022/whas11-2022-08-12T22:21:46.513928-04:00.jpg">
-  <img src="https://archive.org/download/whas11-2022/whas11-2022-08-12T22:21:46.513928-04:00.jpg"
-     alt="WHAS11 News at 2022-08-12 22:21:47-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/whas11-2022/whas11-2022-08-12T22:21:46.513928-04:00.jpg">August 12 at 10:21 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 36 hyperlink lists with the Internet Archive.
+The archiving routine has saved 38 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 19 at 9:25 AM](https://archive.org/download/whas11-2022/whas11-2022-08-19T09:25:02.349428-04:00.hyperlinks.json) |
+| [August 18 at 9:23 PM](https://archive.org/download/whas11-2022/whas11-2022-08-18T21:23:52.561623-04:00.hyperlinks.json) |
 | [August 18 at 9:04 AM](https://archive.org/download/whas11-2022/whas11-2022-08-18T09:04:23.238475-04:00.hyperlinks.json) |
 | [August 17 at 9:18 PM](https://archive.org/download/whas11-2022/whas11-2022-08-17T21:17:59.051666-04:00.hyperlinks.json) |
 | [August 17 at 9:12 AM](https://archive.org/download/whas11-2022/whas11-2022-08-17T09:12:01.245325-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 16 at 2:25 AM](https://archive.org/download/whas11-2022/whas11-2022-08-16T02:25:20.656236-04:00.hyperlinks.json) |
 | [August 15 at 3:43 PM](https://archive.org/download/whas11-2022/whas11-2022-08-15T15:42:59.765878-04:00.hyperlinks.json) |
 | [August 14 at 11:19 PM](https://archive.org/download/whas11-2022/whas11-2022-08-14T23:19:36.766787-04:00.hyperlinks.json) |
-| [August 14 at 1:09 PM](https://archive.org/download/whas11-2022/whas11-2022-08-14T13:09:06.692328-04:00.hyperlinks.json) |
-| [August 14 at 1:13 AM](https://archive.org/download/whas11-2022/whas11-2022-08-14T01:13:20.939105-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 38 accessibility trees with the Internet Archive.
+The archiving routine has saved 40 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 19 at 9:25 AM](https://archive.org/download/whas11-2022/whas11-2022-08-19T09:25:02.349428-04:00.accessibility.json) |
+| [August 18 at 9:23 PM](https://archive.org/download/whas11-2022/whas11-2022-08-18T21:23:52.561623-04:00.accessibility.json) |
 | [August 18 at 9:04 AM](https://archive.org/download/whas11-2022/whas11-2022-08-18T09:04:23.238475-04:00.accessibility.json) |
 | [August 17 at 9:18 PM](https://archive.org/download/whas11-2022/whas11-2022-08-17T21:17:59.051666-04:00.accessibility.json) |
 | [August 17 at 9:12 AM](https://archive.org/download/whas11-2022/whas11-2022-08-17T09:12:01.245325-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 16 at 2:25 AM](https://archive.org/download/whas11-2022/whas11-2022-08-16T02:25:20.656236-04:00.accessibility.json) |
 | [August 15 at 3:43 PM](https://archive.org/download/whas11-2022/whas11-2022-08-15T15:42:59.765878-04:00.accessibility.json) |
 | [August 14 at 11:19 PM](https://archive.org/download/whas11-2022/whas11-2022-08-14T23:19:36.766787-04:00.accessibility.json) |
-| [August 14 at 1:09 PM](https://archive.org/download/whas11-2022/whas11-2022-08-14T13:09:06.692328-04:00.accessibility.json) |
-| [August 14 at 1:13 AM](https://archive.org/download/whas11-2022/whas11-2022-08-14T01:13:20.939105-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 38 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 40 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 19 at 9:25 AM](https://archive.org/download/whas11-2022/whas11-2022-08-19T09:25:02.349428-04:00.lighthouse.json) |
+| [August 18 at 9:23 PM](https://archive.org/download/whas11-2022/whas11-2022-08-18T21:23:52.561623-04:00.lighthouse.json) |
 | [August 18 at 9:04 AM](https://archive.org/download/whas11-2022/whas11-2022-08-18T09:04:23.238475-04:00.lighthouse.json) |
 | [August 17 at 9:18 PM](https://archive.org/download/whas11-2022/whas11-2022-08-17T21:17:59.051666-04:00.lighthouse.json) |
 | [August 17 at 9:12 AM](https://archive.org/download/whas11-2022/whas11-2022-08-17T09:12:01.245325-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 16 at 2:25 AM](https://archive.org/download/whas11-2022/whas11-2022-08-16T02:25:20.656236-04:00.lighthouse.json) |
 | [August 15 at 3:43 PM](https://archive.org/download/whas11-2022/whas11-2022-08-15T15:42:59.765878-04:00.lighthouse.json) |
 | [August 14 at 11:19 PM](https://archive.org/download/whas11-2022/whas11-2022-08-14T23:19:36.766787-04:00.lighthouse.json) |
-| [August 14 at 1:09 PM](https://archive.org/download/whas11-2022/whas11-2022-08-14T13:09:06.692328-04:00.lighthouse.json) |
-| [August 14 at 1:13 AM](https://archive.org/download/whas11-2022/whas11-2022-08-14T01:13:20.939105-04:00.lighthouse.json) |
 
 
 

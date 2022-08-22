@@ -28,13 +28,40 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 7 screenshots with the Internet Archive.
+The archiving routine has saved 10 screenshots with the Internet Archive.
 
 
 
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/proceso-2022/proceso-2022-08-19T10:30:35.566664-05:00.jpg">
+  <img src="https://archive.org/download/proceso-2022/proceso-2022-08-19T10:30:35.566664-05:00.jpg"
+     alt="Proceso at 2022-08-19 10:30:37-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/proceso-2022/proceso-2022-08-19T10:30:35.566664-05:00.jpg">August 19 at 10:30 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/proceso-2022/proceso-2022-08-19T07:09:20.427286-05:00.jpg">
+  <img src="https://archive.org/download/proceso-2022/proceso-2022-08-19T07:09:20.427286-05:00.jpg"
+     alt="Proceso at 2022-08-19 07:09:22-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/proceso-2022/proceso-2022-08-19T07:09:20.427286-05:00.jpg">August 19 at 7:09 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/proceso-2022/proceso-2022-08-18T22:41:11.010871-05:00.jpg">
+  <img src="https://archive.org/download/proceso-2022/proceso-2022-08-18T22:41:11.010871-05:00.jpg"
+     alt="Proceso at 2022-08-18 22:41:12-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/proceso-2022/proceso-2022-08-18T22:41:11.010871-05:00.jpg">August 18 at 10:41 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/proceso-2022/proceso-2022-08-18T10:26:04.317933-05:00.jpg">
@@ -103,7 +130,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 7 hyperlink lists with the Internet Archive.
+The archiving routine has saved 10 hyperlink lists with the Internet Archive.
 
 
 
@@ -111,6 +138,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 19 at 10:30 AM](https://archive.org/download/proceso-2022/proceso-2022-08-19T10:30:35.566664-05:00.hyperlinks.json) |
+| [August 19 at 7:09 AM](https://archive.org/download/proceso-2022/proceso-2022-08-19T07:09:20.427286-05:00.hyperlinks.json) |
+| [August 18 at 10:41 PM](https://archive.org/download/proceso-2022/proceso-2022-08-18T22:41:11.010871-05:00.hyperlinks.json) |
 | [August 18 at 10:26 AM](https://archive.org/download/proceso-2022/proceso-2022-08-18T10:26:04.317933-05:00.hyperlinks.json) |
 | [August 17 at 10:44 PM](https://archive.org/download/proceso-2022/proceso-2022-08-17T22:44:43.191121-05:00.hyperlinks.json) |
 | [August 17 at 10:09 AM](https://archive.org/download/proceso-2022/proceso-2022-08-17T10:09:27.298227-05:00.hyperlinks.json) |
@@ -122,7 +152,7 @@ Here are the 10 most recent hyperlink lists.
 
 ### Accessibility
 
-The archiving routine has saved 7 accessibility trees with the Internet Archive.
+The archiving routine has saved 10 accessibility trees with the Internet Archive.
 
 
 
@@ -130,6 +160,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 19 at 10:30 AM](https://archive.org/download/proceso-2022/proceso-2022-08-19T10:30:35.566664-05:00.accessibility.json) |
+| [August 19 at 7:09 AM](https://archive.org/download/proceso-2022/proceso-2022-08-19T07:09:20.427286-05:00.accessibility.json) |
+| [August 18 at 10:41 PM](https://archive.org/download/proceso-2022/proceso-2022-08-18T22:41:11.010871-05:00.accessibility.json) |
 | [August 18 at 10:26 AM](https://archive.org/download/proceso-2022/proceso-2022-08-18T10:26:04.317933-05:00.accessibility.json) |
 | [August 17 at 10:44 PM](https://archive.org/download/proceso-2022/proceso-2022-08-17T22:44:43.191121-05:00.accessibility.json) |
 | [August 17 at 10:09 AM](https://archive.org/download/proceso-2022/proceso-2022-08-17T10:09:27.298227-05:00.accessibility.json) |
@@ -142,7 +175,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 7 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 10 Lighthouse audits with the Internet Archive.
 
 
 
@@ -150,6 +183,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 19 at 10:30 AM](https://archive.org/download/proceso-2022/proceso-2022-08-19T10:30:35.566664-05:00.lighthouse.json) |
+| [August 19 at 7:09 AM](https://archive.org/download/proceso-2022/proceso-2022-08-19T07:09:20.427286-05:00.lighthouse.json) |
+| [August 18 at 10:41 PM](https://archive.org/download/proceso-2022/proceso-2022-08-18T22:41:11.010871-05:00.lighthouse.json) |
 | [August 18 at 10:26 AM](https://archive.org/download/proceso-2022/proceso-2022-08-18T10:26:04.317933-05:00.lighthouse.json) |
 | [August 17 at 10:44 PM](https://archive.org/download/proceso-2022/proceso-2022-08-17T22:44:43.191121-05:00.lighthouse.json) |
 | [August 17 at 10:09 AM](https://archive.org/download/proceso-2022/proceso-2022-08-17T10:09:27.298227-05:00.lighthouse.json) |

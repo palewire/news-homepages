@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 21 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 18 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         81
     </td>
     <td style="text-align: right;">
-        501
+        510
     </td>
   </tr>
 
@@ -196,7 +196,7 @@ The median score for each category, along with how it ranks in comparison to the
         92
     </td>
     <td style="text-align: right;">
-        119
+        122
     </td>
   </tr>
 
@@ -205,10 +205,10 @@ The median score for each category, along with how it ranks in comparison to the
         Performance
     </td>
     <td style="text-align: right; background-color: red; color: white;">
-        45
+        46
     </td>
     <td style="text-align: right;">
-        208
+        212
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         76
     </td>
     <td style="text-align: right;">
-        710
+        730
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 131 screenshots with the Internet Archive.
+The archiving routine has saved 134 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-20T00:04:19.675755+01:00.jpg">
+  <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-20T00:04:19.675755+01:00.jpg"
+     alt="Evening Standard at 2022-08-20 00:04:24+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-20T00:04:19.675755+01:00.jpg">August 20 at 12:04 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-19T12:00:50.940907+01:00.jpg">
+  <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-19T12:00:50.940907+01:00.jpg"
+     alt="Evening Standard at 2022-08-19 12:00:52+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-19T12:00:50.940907+01:00.jpg">August 19 at 12:00 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-19T10:16:49.173828+01:00.jpg">
+  <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-19T10:16:49.173828+01:00.jpg"
+     alt="Evening Standard at 2022-08-19 10:16:50+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-19T10:16:49.173828+01:00.jpg">August 19 at 10:16 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-19T00:02:58.033702+01:00.jpg">
   <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-19T00:02:58.033702+01:00.jpg"
      alt="Evening Standard at 2022-08-19 00:02:59+01:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-16T02:23:27.971720+01:00.jpg">August 16 at 2:23 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-15T14:57:26.461737+01:00.jpg">
-  <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-15T14:57:26.461737+01:00.jpg"
-     alt="Evening Standard at 2022-08-15 14:57:37+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-15T14:57:26.461737+01:00.jpg">August 15 at 2:57 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-15T10:13:24.363143+01:00.jpg">
-  <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-15T10:13:24.363143+01:00.jpg"
-     alt="Evening Standard at 2022-08-15 10:13:26+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-15T10:13:24.363143+01:00.jpg">August 15 at 10:13 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-15T02:09:50.088425+01:00.jpg">
-  <img src="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-15T02:09:50.088425+01:00.jpg"
-     alt="Evening Standard at 2022-08-15 02:09:59+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-15T02:09:50.088425+01:00.jpg">August 15 at 2:09 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 129 hyperlink lists with the Internet Archive.
+The archiving routine has saved 132 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 20 at 12:04 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-20T00:04:19.675755+01:00.hyperlinks.json) |
+| [August 19 at 12:00 PM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-19T12:00:50.940907+01:00.hyperlinks.json) |
+| [August 19 at 10:16 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-19T10:16:49.173828+01:00.hyperlinks.json) |
 | [August 19 at 12:03 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-19T00:02:58.033702+01:00.hyperlinks.json) |
 | [August 18 at 11:59 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-18T11:59:21.192037+01:00.hyperlinks.json) |
 | [August 18 at 10:12 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-18T10:11:51.950456+01:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 17 at 11:57 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-17T11:56:56.207991+01:00.hyperlinks.json) |
 | [August 17 at 12:05 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-17T00:05:49.814811+01:00.hyperlinks.json) |
 | [August 16 at 2:36 PM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-16T14:36:24.550286+01:00.hyperlinks.json) |
-| [August 16 at 10:12 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-16T10:12:36.074017+01:00.hyperlinks.json) |
-| [August 16 at 2:23 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-16T02:23:27.971720+01:00.hyperlinks.json) |
-| [August 15 at 2:57 PM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-15T14:57:26.461737+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 130 accessibility trees with the Internet Archive.
+The archiving routine has saved 133 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 20 at 12:04 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-20T00:04:19.675755+01:00.accessibility.json) |
+| [August 19 at 12:00 PM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-19T12:00:50.940907+01:00.accessibility.json) |
+| [August 19 at 10:16 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-19T10:16:49.173828+01:00.accessibility.json) |
 | [August 19 at 12:03 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-19T00:02:58.033702+01:00.accessibility.json) |
 | [August 18 at 11:59 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-18T11:59:21.192037+01:00.accessibility.json) |
 | [August 18 at 10:11 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-18T10:11:51.950456+01:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 17 at 11:57 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-17T11:56:56.207991+01:00.accessibility.json) |
 | [August 17 at 12:05 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-17T00:05:49.814811+01:00.accessibility.json) |
 | [August 16 at 2:36 PM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-16T14:36:24.550286+01:00.accessibility.json) |
-| [August 16 at 10:12 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-16T10:12:36.074017+01:00.accessibility.json) |
-| [August 16 at 2:23 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-16T02:23:27.971720+01:00.accessibility.json) |
-| [August 15 at 2:57 PM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-15T14:57:26.461737+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 78 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 81 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 20 at 12:04 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-20T00:04:19.675755+01:00.lighthouse.json) |
+| [August 19 at 12:00 PM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-19T12:00:50.940907+01:00.lighthouse.json) |
+| [August 19 at 10:16 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-19T10:16:49.173828+01:00.lighthouse.json) |
 | [August 19 at 12:03 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-19T00:02:58.033702+01:00.lighthouse.json) |
 | [August 18 at 11:59 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-18T11:59:21.192037+01:00.lighthouse.json) |
 | [August 18 at 10:12 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-18T10:11:51.950456+01:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 17 at 11:57 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-17T11:56:56.207991+01:00.lighthouse.json) |
 | [August 17 at 12:05 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-17T00:05:49.814811+01:00.lighthouse.json) |
 | [August 16 at 2:36 PM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-16T14:36:24.550286+01:00.lighthouse.json) |
-| [August 16 at 10:12 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-16T10:12:36.074017+01:00.lighthouse.json) |
-| [August 16 at 2:23 AM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-16T02:23:27.971720+01:00.lighthouse.json) |
-| [August 15 at 2:57 PM](https://archive.org/download/eveningstandard-2022/eveningstandard-2022-08-15T14:57:26.461737+01:00.lighthouse.json) |
 
 
 

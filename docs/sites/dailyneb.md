@@ -25,7 +25,7 @@ orphan: true
 
 As part of its archiving routine, our system conducts routine audits of code quality using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. It rates sites against standards for [performance](https://developer.chrome.com/docs/lighthouse/performance/), [accessibility](https://web.dev/lighthouse-accessibility/), [search-engine optimization](https://developer.chrome.com/docs/lighthouse/seo/) and [best practices](https://developer.chrome.com/docs/lighthouse/best-practices/).
 
-This site was analyzed 15 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+This site was analyzed 13 times over the last seven days. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
 
 <div id="vis--lighthouse-analysis" style="width: 100%; height: 250px;"></div>
   <script>
@@ -184,7 +184,7 @@ The median score for each category, along with how it ranks in comparison to the
         84
     </td>
     <td style="text-align: right;">
-        430
+        439
     </td>
   </tr>
 
@@ -196,7 +196,7 @@ The median score for each category, along with how it ranks in comparison to the
         75
     </td>
     <td style="text-align: right;">
-        579
+        593
     </td>
   </tr>
 
@@ -208,7 +208,7 @@ The median score for each category, along with how it ranks in comparison to the
         12
     </td>
     <td style="text-align: right;">
-        707
+        718
     </td>
   </tr>
 
@@ -220,7 +220,7 @@ The median score for each category, along with how it ranks in comparison to the
         77
     </td>
     <td style="text-align: right;">
-        675
+        693
     </td>
   </tr>
 
@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 40 screenshots with the Internet Archive.
+The archiving routine has saved 42 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-19T18:01:53.839367-05:00.jpg">
+  <img src="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-19T18:01:53.839367-05:00.jpg"
+     alt="Daily Nebraskan at 2022-08-19 18:01:56-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-19T18:01:53.839367-05:00.jpg">August 19 at 6:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-19T05:59:18.946951-05:00.jpg">
+  <img src="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-19T05:59:18.946951-05:00.jpg"
+     alt="Daily Nebraskan at 2022-08-19 05:59:21-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-19T05:59:18.946951-05:00.jpg">August 19 at 5:59 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-18T18:01:52.495072-05:00.jpg">
   <img src="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-18T18:01:52.495072-05:00.jpg"
      alt="Daily Nebraskan at 2022-08-18 18:01:55-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-14T08:30:07.966832-05:00.jpg">August 14 at 8:30 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-13T18:53:05.220061-05:00.jpg">
-  <img src="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-13T18:53:05.220061-05:00.jpg"
-     alt="Daily Nebraskan at 2022-08-13 18:53:07-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-13T18:53:05.220061-05:00.jpg">August 13 at 6:53 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-13T07:56:39.475530-05:00.jpg">
-  <img src="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-13T07:56:39.475530-05:00.jpg"
-     alt="Daily Nebraskan at 2022-08-13 07:56:41-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-08-13T07:56:39.475530-05:00.jpg">August 13 at 7:56 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 41 hyperlink lists with the Internet Archive.
+The archiving routine has saved 43 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [August 19 at 6:02 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-19T18:01:53.839367-05:00.hyperlinks.json) |
+| [August 19 at 5:59 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-19T05:59:18.946951-05:00.hyperlinks.json) |
 | [August 18 at 6:01 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-18T18:01:52.495072-05:00.hyperlinks.json) |
 | [August 18 at 5:57 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-18T05:57:19.138193-05:00.hyperlinks.json) |
 | [August 17 at 6:00 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-17T18:00:20.915990-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [August 16 at 8:33 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-16T08:33:38.136811-05:00.hyperlinks.json) |
 | [August 15 at 8:21 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-15T20:21:31.923395-05:00.hyperlinks.json) |
 | [August 15 at 8:54 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-15T08:54:36.495005-05:00.hyperlinks.json) |
-| [August 14 at 8:07 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-14T20:07:18.156271-05:00.hyperlinks.json) |
-| [August 14 at 8:30 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-14T08:30:07.966832-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 41 accessibility trees with the Internet Archive.
+The archiving routine has saved 43 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [August 19 at 6:01 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-19T18:01:53.839367-05:00.accessibility.json) |
+| [August 19 at 5:59 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-19T05:59:18.946951-05:00.accessibility.json) |
 | [August 18 at 6:01 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-18T18:01:52.495072-05:00.accessibility.json) |
 | [August 18 at 5:57 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-18T05:57:19.138193-05:00.accessibility.json) |
 | [August 17 at 6:00 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-17T18:00:20.915990-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [August 16 at 8:33 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-16T08:33:38.136811-05:00.accessibility.json) |
 | [August 15 at 8:21 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-15T20:21:31.923395-05:00.accessibility.json) |
 | [August 15 at 8:54 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-15T08:54:36.495005-05:00.accessibility.json) |
-| [August 14 at 8:07 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-14T20:07:18.156271-05:00.accessibility.json) |
-| [August 14 at 8:30 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-14T08:30:07.966832-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 41 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 43 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [August 19 at 6:02 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-19T18:01:53.839367-05:00.lighthouse.json) |
+| [August 19 at 5:59 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-19T05:59:18.946951-05:00.lighthouse.json) |
 | [August 18 at 6:02 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-18T18:01:52.495072-05:00.lighthouse.json) |
 | [August 18 at 5:57 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-18T05:57:19.138193-05:00.lighthouse.json) |
 | [August 17 at 6:00 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-17T18:00:20.915990-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [August 16 at 8:33 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-16T08:33:38.136811-05:00.lighthouse.json) |
 | [August 15 at 8:21 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-15T20:21:31.923395-05:00.lighthouse.json) |
 | [August 15 at 8:54 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-15T08:54:36.495005-05:00.lighthouse.json) |
-| [August 14 at 8:07 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-14T20:07:18.156271-05:00.lighthouse.json) |
-| [August 14 at 8:30 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-08-14T08:30:07.966832-05:00.lighthouse.json) |
 
 
 

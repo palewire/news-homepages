@@ -7,7 +7,7 @@ orphan: true
 
 # United Kingdom of Great Britain and Northern Ireland
 
-The most recent homepages from 28 news sites in this country.
+The most recent homepages from 30 news sites in this country.
 
 <div class="latest-parent">
 
@@ -120,6 +120,15 @@ The most recent homepages from 28 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/flightglobal.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/flightglobal.jpg"
+     alt="Flight Global"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/flightglobal.html">Flight Global</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/theipaper.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theipaper.jpg"
      alt="i"
@@ -210,6 +219,15 @@ The most recent homepages from 28 news sites in this country.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/simple_flying.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/simple_flying.jpg"
+     alt="Simple Flying"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/simple_flying.html">Simple Flying</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/spectator.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/spectator.jpg"
      alt="Spectator"
@@ -289,6 +307,7 @@ The most recent homepages from 28 news sites in this country.
 |[Economist](https://palewi.re/docs/news-homepages/sites/theeconomist.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theeconomist.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theeconomist.xml)|
 |[Evening Standard](https://palewi.re/docs/news-homepages/sites/eveningstandard.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/eveningstandard.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/eveningstandard.xml)|
 |[Financial Times](https://palewi.re/docs/news-homepages/sites/ft.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/ft.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/ft.xml)|
+|[Flight Global](https://palewi.re/docs/news-homepages/sites/flightglobal.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/flightglobal.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/flightglobal.xml)|
 |[i](https://palewi.re/docs/news-homepages/sites/theipaper.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/theipaper.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/theipaper.xml)|
 |[London Review of Books](https://palewi.re/docs/news-homepages/sites/lrb.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/lrb.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/lrb.xml)|
 |[National](https://palewi.re/docs/news-homepages/sites/scotnational.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/scotnational.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/scotnational.xml)|
@@ -299,6 +318,7 @@ The most recent homepages from 28 news sites in this country.
 |[Quillette](https://palewi.re/docs/news-homepages/sites/quillette.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/quillette.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/quillette.xml)|
 |[Scotsman](https://palewi.re/docs/news-homepages/sites/thescotsman.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/thescotsman.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/thescotsman.xml)|
 |[Scottish Sun](https://palewi.re/docs/news-homepages/sites/scottishsun.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/scottishsun.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/scottishsun.xml)|
+|[Simple Flying](https://palewi.re/docs/news-homepages/sites/simple_flying.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/simple_flying.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/simple_flying.xml)|
 |[Spectator](https://palewi.re/docs/news-homepages/sites/spectator.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/spectator.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/spectator.xml)|
 |[The Guardian](https://palewi.re/docs/news-homepages/sites/guardian.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/guardian.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/guardian.xml)|
 |[The Independent](https://palewi.re/docs/news-homepages/sites/independent.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/independent.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/independent.xml)|
