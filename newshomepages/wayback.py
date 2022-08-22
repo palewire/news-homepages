@@ -89,7 +89,10 @@ def cli(handle: str, output_dir: str):
 
 @retry(tries=3, delay=5, backoff=2)
 def _request(url):
-    return requests.get(url).json()
+    r = requests.get(url)
+    assert r.ok
+    j = r.json()
+    return j
 
 
 if __name__ == "__main__":
