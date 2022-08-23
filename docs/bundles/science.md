@@ -7,7 +7,7 @@ orphan: true
 
 # Science
 
-The most recent homepages from 5 news sites in this bundle.
+The most recent homepages from 6 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -48,6 +48,15 @@ The most recent homepages from 5 news sites in this bundle.
 </div>
 
 <div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/studyfindsorg.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/studyfindsorg.jpg"
+     alt="Study Finds"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/studyfindsorg.html">Study Finds</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/weatherchannel.html">
   <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/weatherchannel.jpg"
      alt="Weather Channel"
@@ -75,4 +84,5 @@ The most recent homepages from 5 news sites in this bundle.
 |[Space News](https://palewi.re/docs/news-homepages/sites/spacenews_inc.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/spacenews_inc.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/spacenews_inc.xml)|
 |[Space.com](https://palewi.re/docs/news-homepages/sites/spacedotcom.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/spacedotcom.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/spacedotcom.xml)|
 |[STAT](https://palewi.re/docs/news-homepages/sites/statnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/statnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/statnews.xml)|
+|[Study Finds](https://palewi.re/docs/news-homepages/sites/studyfindsorg.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/studyfindsorg.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/studyfindsorg.xml)|
 |[Weather Channel](https://palewi.re/docs/news-homepages/sites/weatherchannel.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/weatherchannel.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/weatherchannel.xml)|
