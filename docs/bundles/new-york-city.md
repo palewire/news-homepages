@@ -7,7 +7,7 @@ orphan: true
 
 # New York City
 
-The most recent homepages from 19 news sites in this bundle.
+The most recent homepages from 20 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -63,6 +63,15 @@ The most recent homepages from 19 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/documentedny.html">Documented</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/fox5ny.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/fox5ny.jpg"
+     alt="Fox 5 New York"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/fox5ny.html">Fox 5 New York</a></p>
 </div>
 
 <div class="latest-child">
@@ -203,6 +212,7 @@ The most recent homepages from 19 news sites in this bundle.
 |[City Limits](https://palewi.re/docs/news-homepages/sites/citylimitsnews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/citylimitsnews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/citylimitsnews.xml)|
 |[Daily News](https://palewi.re/docs/news-homepages/sites/nydailynews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/nydailynews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/nydailynews.xml)|
 |[Documented](https://palewi.re/docs/news-homepages/sites/documentedny.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/documentedny.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/documentedny.xml)|
+|[Fox 5 New York](https://palewi.re/docs/news-homepages/sites/fox5ny.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/fox5ny.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/fox5ny.xml)|
 |[Gotham Gazettee](https://palewi.re/docs/news-homepages/sites/gothamgazette.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gothamgazette.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gothamgazette.xml)|
 |[Gothamist](https://palewi.re/docs/news-homepages/sites/gothamist.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/gothamist.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/gothamist.xml)|
 |[Hell Gate](https://palewi.re/docs/news-homepages/sites/hellgateny.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/hellgateny.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/hellgateny.xml)|

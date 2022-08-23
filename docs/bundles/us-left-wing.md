@@ -7,7 +7,7 @@ orphan: true
 
 # U.S. left wing
 
-The most recent homepages from 28 news sites in this bundle.
+The most recent homepages from 29 news sites in this bundle.
 
 <div class="latest-parent">
 
@@ -135,6 +135,15 @@ The most recent homepages from 28 news sites in this bundle.
      loading="lazy">
  </a>
  <p><a href="../sites/labornotes.html">Labor Notes</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/levernews.html">
+  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/levernews.jpg"
+     alt="Lever"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/levernews.html">Lever</a></p>
 </div>
 
 <div class="latest-child">
@@ -292,6 +301,7 @@ The most recent homepages from 28 news sites in this bundle.
 |[Jacobin](https://palewi.re/docs/news-homepages/sites/jacobin.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jacobin.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/jacobin.xml)|
 |[Jezebel](https://palewi.re/docs/news-homepages/sites/jezebel.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/jezebel.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/jezebel.xml)|
 |[Labor Notes](https://palewi.re/docs/news-homepages/sites/labornotes.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/labornotes.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/labornotes.xml)|
+|[Lever](https://palewi.re/docs/news-homepages/sites/levernews.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/levernews.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/levernews.xml)|
 |[Media Matters](https://palewi.re/docs/news-homepages/sites/mmfa.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/mmfa.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/mmfa.xml)|
 |[More Perfect Union](https://palewi.re/docs/news-homepages/sites/moreperfectus.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/moreperfectus.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/moreperfectus.xml)|
 |[Mother Jones](https://palewi.re/docs/news-homepages/sites/motherjones.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/motherjones.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/motherjones.xml)|
