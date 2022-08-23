@@ -1,5 +1,5 @@
 {
-  "created": 1661116663,
+  "created": 1661177631,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/27/items/newscientist-2022",
@@ -5208,31 +5208,217 @@
       "sha1": "6a6bd84377284d625188f1f1e682404b92646194"
     },
     {
+      "name": "newscientist-2022-08-22T03:30:16.679972+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661135420",
+      "size": "18699",
+      "md5": "a46ccbc10d6bdc6d97d0dcf9a98dbbfa",
+      "crc32": "840a9b19",
+      "sha1": "81a010c026a722419f69cf47de9d85fbf1ba06d6",
+      "format": "JSON"
+    },
+    {
+      "name": "newscientist-2022-08-22T03:30:16.679972+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661135422",
+      "size": "14609",
+      "md5": "c7f8819dc1947760cf368adc9ea8e30c",
+      "crc32": "2cce18eb",
+      "sha1": "6bbbf2dabdb41428d82f25c3fc70d760e83462ed",
+      "format": "JSON"
+    },
+    {
+      "name": "newscientist-2022-08-22T03:30:16.679972+01:00.jpg",
+      "source": "original",
+      "mtime": "1661135418",
+      "size": "320994",
+      "md5": "8331fb107e98731bb1a948ceb60c6189",
+      "crc32": "fcc807c1",
+      "sha1": "26bd4a1cb1851372938f74ba5dc3495a3f2a5272",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newscientist-2022-08-22T03:30:16.679972+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661135423",
+      "size": "1513",
+      "md5": "549411c7d6b0cfa8a701412bd8a553e6",
+      "crc32": "f92e2176",
+      "sha1": "b7ec9a237946d4ed1e697ca475398b8027f57f2d",
+      "format": "JSON"
+    },
+    {
+      "name": "newscientist-2022-08-22T03:30:16.679972+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1661135425",
+      "size": "4301",
+      "md5": "60160c82e3948427783cc9ae43777131",
+      "crc32": "9750fa8c",
+      "sha1": "093353c9210d5c4929b46f2cfb9e84d2300080eb",
+      "format": "JSON"
+    },
+    {
+      "name": "newscientist-2022-08-22T03:30:16.679972+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newscientist-2022-08-22T03:30:16.679972+01:00.jpg",
+      "mtime": "1661135479",
+      "size": "10704",
+      "md5": "4f33ad9c68f68423b0b861e623600fb5",
+      "crc32": "8690e912",
+      "sha1": "6a6bd84377284d625188f1f1e682404b92646194"
+    },
+    {
+      "name": "newscientist-2022-08-22T10:15:07.164816+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661159710",
+      "size": "21269",
+      "md5": "0a2a09baa95f67ee64fd5324216ec8fd",
+      "crc32": "3bfa29f3",
+      "sha1": "a08d1d52b1a473624bac621cfe37731caadc4c7e",
+      "format": "JSON"
+    },
+    {
+      "name": "newscientist-2022-08-22T10:15:07.164816+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661159711",
+      "size": "14656",
+      "md5": "35bca48bb3f8b2c9228403902c2e1a8b",
+      "crc32": "f1003da8",
+      "sha1": "b28428f97cf472aa0886244ea85935db28322b7b",
+      "format": "JSON"
+    },
+    {
+      "name": "newscientist-2022-08-22T10:15:07.164816+01:00.jpg",
+      "source": "original",
+      "mtime": "1661159708",
+      "size": "322434",
+      "md5": "63c9e582d62434310dca28312338c4b6",
+      "crc32": "11019f2b",
+      "sha1": "a392be6960157f133c65522f56f2aed39e5f2f27",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newscientist-2022-08-22T10:15:07.164816+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661159713",
+      "size": "1513",
+      "md5": "e022e5461fd0056dc72ff54894e4f8c0",
+      "crc32": "a8cf5915",
+      "sha1": "fc2b6ef52da3f641a80154c223266460ff4683a7",
+      "format": "JSON"
+    },
+    {
+      "name": "newscientist-2022-08-22T10:15:07.164816+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1661159715",
+      "size": "11144",
+      "md5": "abc11e79276cc79b1d5a757d948db6e7",
+      "crc32": "057fb93a",
+      "sha1": "0ffed3ea9a7f5a0f1b4166e8b9fa51a045a3a9bf",
+      "format": "JSON"
+    },
+    {
+      "name": "newscientist-2022-08-22T10:15:07.164816+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newscientist-2022-08-22T10:15:07.164816+01:00.jpg",
+      "mtime": "1661159770",
+      "size": "10697",
+      "md5": "50a98d98049d7d55cbd6fd45550756f6",
+      "crc32": "6ef1081f",
+      "sha1": "9cdc672af79d9763e8f6116814b3f4fe75a4efac"
+    },
+    {
+      "name": "newscientist-2022-08-22T15:12:35.251971+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1661177561",
+      "size": "21269",
+      "md5": "0a2a09baa95f67ee64fd5324216ec8fd",
+      "crc32": "3bfa29f3",
+      "sha1": "a08d1d52b1a473624bac621cfe37731caadc4c7e",
+      "format": "JSON"
+    },
+    {
+      "name": "newscientist-2022-08-22T15:12:35.251971+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1661177563",
+      "size": "14656",
+      "md5": "35bca48bb3f8b2c9228403902c2e1a8b",
+      "crc32": "f1003da8",
+      "sha1": "b28428f97cf472aa0886244ea85935db28322b7b",
+      "format": "JSON"
+    },
+    {
+      "name": "newscientist-2022-08-22T15:12:35.251971+01:00.jpg",
+      "source": "original",
+      "mtime": "1661177557",
+      "size": "322434",
+      "md5": "63c9e582d62434310dca28312338c4b6",
+      "crc32": "11019f2b",
+      "sha1": "a392be6960157f133c65522f56f2aed39e5f2f27",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newscientist-2022-08-22T15:12:35.251971+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1661177565",
+      "size": "1513",
+      "md5": "608c6bec8949883d8ad279927f969c00",
+      "crc32": "cdf756a6",
+      "sha1": "e7249b8d14dfce3f0f7ecbc7c7b4ead4a12db906",
+      "format": "JSON"
+    },
+    {
+      "name": "newscientist-2022-08-22T15:12:35.251971+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1661177566",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "newscientist-2022-08-22T15:12:35.251971+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newscientist-2022-08-22T15:12:35.251971+01:00.jpg",
+      "mtime": "1661177622",
+      "size": "10697",
+      "md5": "50a98d98049d7d55cbd6fd45550756f6",
+      "crc32": "6ef1081f",
+      "sha1": "9cdc672af79d9763e8f6116814b3f4fe75a4efac"
+    },
+    {
       "name": "newscientist-2022_archive.torrent",
       "source": "metadata",
-      "btih": "97676c4ea054a6f66f0bcdb1b4fa38217424d98d",
-      "mtime": "1661090998",
-      "size": "108716",
-      "md5": "435f4366573848489d717eee8685b42e",
-      "crc32": "cbe22b7c",
-      "sha1": "934172988c3ddb7a6deed6b53241c801cd158fab",
+      "btih": "623090b6a64d7af52a6f156a473c29fd1ba2d406",
+      "mtime": "1661177627",
+      "size": "112569",
+      "md5": "40f095b3abf3a231ef61c3656b9aae58",
+      "crc32": "5367446a",
+      "sha1": "63aa30117ff6605058ece1237d85d1771c46ae47",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newscientist-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "076102bb3c0f73c5596d9d2c7bb55294",
+      "md5": "26d63cf6f0ea30177aa546a7792652fc",
       "summation": "md5"
     },
     {
       "name": "newscientist-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1661090934",
-      "size": "626688",
-      "md5": "00f8f9e1c768dd3a9552db1386d4ff2b",
-      "crc32": "2b430822",
-      "sha1": "11e4027bc53a82a5235838564d2ae305e89595a6",
+      "mtime": "1661177573",
+      "size": "655360",
+      "md5": "e02849ebd829e9193ea8818ec12eec79",
+      "crc32": "c3368782",
+      "sha1": "0128f2549e4c94ce58f6d3e80c8a07bdd7374ab6",
       "format": "Metadata"
     },
     {
@@ -5246,9 +5432,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 504,
-  "item_last_updated": 1661090998,
-  "item_size": 36315036,
+  "files_count": 522,
+  "item_last_updated": 1661177627,
+  "item_size": 37470865,
   "metadata": {
     "identifier": "newscientist-2022",
     "collection": [
@@ -5266,7 +5452,7 @@
     "addeddate": "2022-07-04 21:49:18"
   },
   "server": "ia802503.us.archive.org",
-  "uniq": 479598065,
+  "uniq": 145580826,
   "workable_servers": [
     "ia802503.us.archive.org",
     "ia902503.us.archive.org"
